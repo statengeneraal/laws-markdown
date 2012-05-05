@@ -28,11 +28,11 @@ c. wet: [Gezondheids- en welzijnswet voor dieren](../../../wet/gezondheids-/en/w
 
 d. diergroep: dieren levend in een groep, die gelet op hun omvang en kenmerken afzonderlijk niet te individualiseren zijn;  
 
-e. dierenverblijf: ruimte waar dieren worden gehouden.    
+e. dierenverblijf: ruimte waar dieren worden gehouden.   
 
 ### Artikel  2  
 
-Voor de toepassing van dit besluit worden als soorten en categorieën van dieren als bedoeld in de [artikelen 35, eerste lid](../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [38, eerste lid](../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), en [45, eerste lid, van de wet](../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [artikel 3, eerste en vierde lid, van de Wet op de dierenbescherming](../../../wet/wet/op/de/dierenbescherming/BWBR0002351/README.md) aangewezen wilde dieren uitsluitend voorzover zij in dierentuinen worden gehouden.  
+Voor de toepassing van dit besluit worden als soorten en categorieën van dieren als bedoeld in de [artikelen 35, eerste lid](../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [38, eerste lid](../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), en [45, eerste lid, van de wet](../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [artikel 3, eerste en vierde lid, van de Wet op de dierenbescherming](../../../wet/wet/op/de/dierenbescherming/BWBR0002351/README.md) aangewezen wilde dieren uitsluitend voorzover zij in dierentuinen worden gehouden. 
 
 ### §  2  
 
@@ -40,7 +40,7 @@ Voor de toepassing van dit besluit worden als soorten en categorieën van dieren
 
 ### Artikel  3  
 
-Het is verboden een dierentuin te exploiteren op een wijze die niet overeenstemt met de artikelen 4 en 7 tot en met 13.  
+Het is verboden een dierentuin te exploiteren op een wijze die niet overeenstemt met de artikelen 4 en 7 tot en met 13. 
 
 ### Artikel  4  
 
@@ -50,7 +50,7 @@ Het is verboden een dierentuin te exploiteren op een wijze die niet overeenstemt
 4.  Alvorens een vergunning wordt verleend, aanzienlijk gewijzigd of geweigerd, wordt een dierentuin door Onze Minister geïnspecteerd.   
 5.  Aan een vergunning als bedoeld in het eerste lid kunnen voorschriften worden verbonden. De vergunning kan onder beperkingen worden verleend. Tot de voorschriften kan behoren de verplichting specifieke voorzieningen aan te brengen om de dierentuin of bepaalde gedeelten van de dierentuin in overeenstemming te brengen met de bepalingen van dit besluit.   
 6.  Aan een vergunning worden voorschriften en beperkingen verbonden, die strekken tot nadere uitwerking van de in het besluit gestelde eisen. De aan de vergunning verbonden voorschriften en de beperkingen waaronder deze is verleend, kunnen worden gewijzigd, aangevuld of ingetrokken.   
-7.  Onze Minister beslist binnen 13 weken na de ontvangst van een aanvraag als bedoeld in het derde lid.   
+7.  Onze Minister beslist binnen 13 weken na de ontvangst van een aanvraag als bedoeld in het derde lid.  
 8.  Onze Minister houdt een register bij van de vergunningen.   
 9.  Een voor een dierentuin verleende vergunning geldt tevens voor veranderingen van een dierentuin die niet overeenkomstig het vierde lid zijn geïnspecteerd voorafgaand aan de vergunningverlening, onder voorwaarde dat: 
 
@@ -59,7 +59,7 @@ a. deze veranderingen geen wijziging van de vergunning eisen, maar voldoen aan d
 b. het voornemen tot het uitvoeren van de verandering door de vergunninghouder schriftelijk aan Onze Minister is gemeld;  
 
 c. Onze Minister aan de vergunninghouder schriftelijk heeft verklaard dat de voorgenomen verandering voldoet aan onderdeel a.     
-10.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag voor een vergunning als bedoeld in het eerste lid.   
+10.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag voor een vergunning als bedoeld in het eerste lid. 
 
 ### Artikel  5  
 
@@ -73,7 +73,7 @@ c. informatie over het aantal personeelsleden en de kwalificatie;
 
 d. een plattegrond met een weergave van de afmeting en inrichting van de dierenverblijven en de daarin verblijvende diersoorten;  
 
-e. een afschrift van het beleidsprotocol als bedoeld in artikel 12, eerste lid.    
+e. een afschrift van het beleidsprotocol als bedoeld in artikel 12, eerste lid.   
 
 ### §  3  
 
@@ -84,7 +84,7 @@ e. een afschrift van het beleidsprotocol als bedoeld in artikel 12, eerste lid.
 1.  Het houden van dieren in een dierentuin geschiedt overeenkomstig artikel 7.   
 2.  Het huisvesten van dieren in een dierentuin geschiedt overeenkomstig artikel 8.   
 3.  Het verzorgen van dieren in een dierentuin geschiedt overeenkomstig de artikelen 9, 10 en 11.   
-4.  Het tonen van dieren aan het publiek geschiedt slechts indien wordt voldaan aan de eisen gesteld in de artikelen 12 en 13.   
+4.  Het tonen van dieren aan het publiek geschiedt slechts indien wordt voldaan aan de eisen gesteld in de artikelen 12 en 13.  
 
 ### Artikel  7  
 
@@ -98,7 +98,7 @@ c. de sociale levenswijze van de dieren in het wild zo veel mogelijk tot uitdruk
 
 d. de dieren voldoende ruimte hebben en de bezetting van de verblijven de materiële capaciteit van de dierentuin niet overschrijdt;  
 
-e. rekening wordt gehouden met de behoeften van het individuele dier.    
+e. rekening wordt gehouden met de behoeften van het individuele dier.   
 
 ### Artikel  8  
 
@@ -115,7 +115,7 @@ d. het soorteigen paringsgedrag, door de dieren op adequate wijze van elkaar te 
 e. het soorteigen uitscheidingsgedrag, door het verblijf indien nodig te voorzien van een voor de diersoort geschikte mestplaats.     
 2.  De dierenverblijven zijn voorzien van een adequate afscheiding die het uitbreken van de dieren voorkomt en een veilige barrière tussen de dieren en het publiek vormt.   
 3.  Het materiaal dat wordt gebruikt voor de dierenverblijven is niet schadelijk voor het dier.   
-4.  Van de voorschriften, bedoeld in het eerste lid onderdelen a, b en c en artikel 7, onderdeel d, kan tijdelijk worden afgeweken indien er opvang wordt geboden aan een dier of diergroep waarvoor voldoende deskundigheid aanwezig is, maar waardoor de capaciteit van de dierentuin wordt overschreden en de opvang niet elders op betere wijze kan plaatsvinden.   
+4.  Van de voorschriften, bedoeld in het eerste lid onderdelen a, b en c en artikel 7, onderdeel d, kan tijdelijk worden afgeweken indien er opvang wordt geboden aan een dier of diergroep waarvoor voldoende deskundigheid aanwezig is, maar waardoor de capaciteit van de dierentuin wordt overschreden en de opvang niet elders op betere wijze kan plaatsvinden.  
 
 ### Artikel  9  
 
@@ -124,18 +124,18 @@ e. het soorteigen uitscheidingsgedrag, door het verblijf indien nodig te voorzie
 3.  Een dier wordt verzorgd door een voldoende aantal personen, dat beschikt over de nodige kennis, vaardigheden en vakbekwaamheid.   
 4.  Een dier dat ziek of gewond is, wordt op passende wijze verzorgd. Indien de zorg geen verbetering in de toestand van het dier brengt, wordt zo spoedig mogelijk een dierenarts geraadpleegd.   
 5.  Een ziek of gewond dier wordt zo nodig afgezonderd in een passend onderkomen.   
-6.  De dierentuin beschikt over een quarantainevoorziening en een behandelruimte.   
+6.  De dierentuin beschikt over een quarantainevoorziening en een behandelruimte.  
 
 ### Artikel  10  
 
 1.  Een dier heeft toegang tot een toereikende hoeveelheid schoon water of kan op een andere wijze aan zijn behoefte aan water voldoen.   
 2.  Een dier krijgt een toereikende hoeveelheid gezond en voor de soort en de leeftijd geschikt voeder, zodat het in goede gezondheid blijft en aan zijn voedingsbehoeften wordt voldaan.   
-3.  Het toedienen van het voeder is afgestemd op de fysiologische behoeften van de diersoort en stimuleert de natuurlijke wijze van voedselvergaren.   
+3.  Het toedienen van het voeder is afgestemd op de fysiologische behoeften van de diersoort en stimuleert de natuurlijke wijze van voedselvergaren.  
 
 ### Artikel  11  
 
 1.  De verblijven worden zo vaak als nodig grondig gereinigd en ontsmet.   
-2.  Zwemwater, stro of ander bodembedekkend materiaal wordt naar behoefte van de diersoort vervangen.   
+2.  Zwemwater, stro of ander bodembedekkend materiaal wordt naar behoefte van de diersoort vervangen.  
 
 ### §  4  
 
@@ -152,7 +152,7 @@ b. zoveel mogelijk deelnemen aan bestaande programma's met betrekking tot het fo
 3.  Bij de transactie van dieren verzekert de dierentuin zich ervan dat de ontvangende partij de dieren houdt, huisvest en verzorgt op een wijze die vergelijkbaar is met de eisen uit dit besluit.   
 4.  De dierentuin beschikt over een noodplan met betrekking tot de ontsnapping van dieren.   
 5.  De dierentuin beschikt over een protocol met betrekking tot de voedingsaspecten, bedoeld in artikel 10 en de preventieve en curatieve diergeneeskundige verzorging van de dieren, dat is opgesteld onder begeleiding van een dierenarts.   
-6.  De dierentuin beschikt over een informatief en educatief programma met betrekking tot de tentoongestelde diersoorten. Bij het verstrekken van informatie worden de dieren zoveel mogelijk in hun biologische en ecologische context geplaatst.   
+6.  De dierentuin beschikt over een informatief en educatief programma met betrekking tot de tentoongestelde diersoorten. Bij het verstrekken van informatie worden de dieren zoveel mogelijk in hun biologische en ecologische context geplaatst.  
 
 ### Artikel  13  
 
@@ -176,7 +176,7 @@ g. bij bezoek van de dierenarts: de datum van dit bezoek, alsmede de gezondheids
 h. in geval van sterfte: de datum en de oorzaak.     
 3.  Het register wordt ten minste een maal per maand bijgewerkt.   
 4.  Bij vertrek gaat het dier of de diergroep vergezeld van een afschrift van alle op basis van het eerste lid bijgehouden relevante registers en documenten.   
-5.  De gegevens, bedoeld in het eerste lid worden gedurende vijf jaar na de dood of het vertrek van het dier of de diergroep bewaard en worden op verzoek aan de bevoegde autoriteiten overgelegd.   
+5.  De gegevens, bedoeld in het eerste lid worden gedurende vijf jaar na de dood of het vertrek van het dier of de diergroep bewaard en worden op verzoek aan de bevoegde autoriteiten overgelegd.  
 
 ### §  5  
 
@@ -186,19 +186,19 @@ h. in geval van sterfte: de datum en de oorzaak.
 
 1.  Indien een dierentuin niet voldoet aan de in dit besluit gestelde voorschriften of aan de vergunningsvoorwaarden wordt deze op last van Onze Minister geheel of gedeeltelijk gesloten voor het publiek.   
 2.  Onze Minister kan tevens de vergunninghouder verplichten tot het aanpassen, verwijderen of aanbrengen van specifieke voorzieningen onder vermelding van een bepaalde termijn, die ten hoogste twee jaar bedraagt, waarbinnen zulks dient te geschieden.   
-3.  Indien een dierentuin niet binnen de gestelde termijn voldoet aan de verplichtingen, bedoeld in het tweede lid, wordt de vergunning op last van Onze Minister ingetrokken of gewijzigd en wordt de dierentuin geheel of gedeeltelijk gesloten.   
+3.  Indien een dierentuin niet binnen de gestelde termijn voldoet aan de verplichtingen, bedoeld in het tweede lid, wordt de vergunning op last van Onze Minister ingetrokken of gewijzigd en wordt de dierentuin geheel of gedeeltelijk gesloten.  
 
 ### Artikel  15  
 
-Artikel 3 is tot 9 april 2003 niet van toepassing op een dierentuin waarvan de exploitant kan aantonen dat deze voor de datum van inwerkingtreding van dit besluit in gebruik is genomen.  
+Artikel 3 is tot 9 april 2003 niet van toepassing op een dierentuin waarvan de exploitant kan aantonen dat deze voor de datum van inwerkingtreding van dit besluit in gebruik is genomen. 
 
 ### Artikel  16  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Laatstbedoeld besluit wordt niet genomen voordat 30 dagen zijn verstreken nadat het onderhavige besluit is overgelegd aan beide kamers der Staten-Generaal, en evenmin indien binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijke aantal leden van een der kamers de wens te kennen wordt gegeven dat de inwerkingtreding van dit besluit bij wet wordt geregeld.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Laatstbedoeld besluit wordt niet genomen voordat 30 dagen zijn verstreken nadat het onderhavige besluit is overgelegd aan beide kamers der Staten-Generaal, en evenmin indien binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijke aantal leden van een der kamers de wens te kennen wordt gegeven dat de inwerkingtreding van dit besluit bij wet wordt geregeld. 
 
 ### Artikel  17  
 
-Dit besluit wordt aangehaald als: Dierentuinenbesluit  
+Dit besluit wordt aangehaald als: Dierentuinenbesluit 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

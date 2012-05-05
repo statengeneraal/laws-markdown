@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Binnen twee jaren nadat deze wet in werking is getreden zenden Onze Ministers van Justitie, van Welzijn, Volksgezondhei en Cultuur en van Financiën een rapport aan de Tweede Kamer der Staten-Generaal, betreffende de werking van deze wet en de op basis daarvan verleende vergunning.  
+Binnen twee jaren nadat deze wet in werking is getreden zenden Onze Ministers van Justitie, van Welzijn, Volksgezondhei en Cultuur en van Financiën een rapport aan de Tweede Kamer der Staten-Generaal, betreffende de werking van deze wet en de op basis daarvan verleende vergunning. 
 
 ### Artikel  III  
 
-Deze wet treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

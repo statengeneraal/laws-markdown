@@ -11,52 +11,52 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IIA  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IIB  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IVA  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IVB  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IVC  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  V  
 
-1.  De [artikelen 68 *a*](../../../../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md) tot en met [75](../../../../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md) en [79](../../../../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md) tot en met [81 van de Overgangswet nieuw Burgerlijk Wetboek](../../../../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md) gelden mede voor de wijzigingen die bij deze wet worden aangebracht in de [Wet op het consumentenkrediet](../../../../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md).   
-2.  De [artikelen 40](../../../../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md) tot en met [43 van de Wet op het consumentenkrediet](../../../../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md), zoals die bij deze wet zijn gewijzigd, zijn van toepassing op een pandrecht waarin een vóór de inwerkingtreding van deze wet bedongen eigendom tot zekerheid of eigendomsvoorbehoud krachtens [artikel 86](../../../../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md) of [89 van de Overgangswet nieuw Burgerlijk Wetboek](../../../../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md) is omgezet.   
+1.  De [artikelen 68*a* ](../../../../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md) tot en met [75](../../../../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md) en [79](../../../../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md) tot en met [81 van de Overgangswet nieuw Burgerlijk Wetboek](../../../../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md) gelden mede voor de wijzigingen die bij deze wet worden aangebracht in de [Wet op het consumentenkrediet](../../../../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md).   
+2.   De [artikelen 40](../../../../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md) tot en met [43 van de Wet op het consumentenkrediet](../../../../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md), zoals die bij deze wet zijn gewijzigd, zijn van toepassing op een pandrecht waarin een vóór de inwerkingtreding van deze wet bedongen eigendom tot zekerheid of eigendomsvoorbehoud krachtens [artikel 86](../../../../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md) of [89 van de Overgangswet nieuw Burgerlijk Wetboek](../../../../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md) is omgezet.  
 
 ### Artikel  VI  
 
-Onze Minister van Justitie brengt de in deze wet voorkomende aanhalingen van artikelen van het Burgerlijk Wetboek in overeenstemming met de nummering die op het tijdstip van het in werking treden van deze wet voor de Boeken 3 en 6 van dat Wetboek is vastgesteld.  
+Onze Minister van Justitie brengt de in deze wet voorkomende aanhalingen van artikelen van het Burgerlijk Wetboek in overeenstemming met de nummering die op het tijdstip van het in werking treden van deze wet voor de Boeken 3 en 6 van dat Wetboek is vastgesteld. 
 
 ### Artikel  VII  
 
-Deze wet treedt in werking op 1 januari 1992, met uitzondering van artikel IVC dat op 29 december 1991 in werking treedt.  
+Deze wet treedt in werking op 1 januari 1992, met uitzondering van artikel IVC dat op 29 december 1991 in werking treedt. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

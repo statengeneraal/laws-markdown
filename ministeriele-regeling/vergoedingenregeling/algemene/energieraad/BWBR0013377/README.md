@@ -4,7 +4,7 @@
 
 De Minister van Economische Zaken,  
 Gelet op [artikel 5 van het Vergoedingenbesluit adviescolleges](../../../../../AMvB/vergoedingenbesluit/adviescolleges/BWBR0008353/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -24,7 +24,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  5  
 
-Deze regeling wordt aangehaald als: Vergoedingenregeling Algemene Energieraad.  
+Deze regeling wordt aangehaald als: Vergoedingenregeling Algemene Energieraad. 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
@@ -32,4 +32,4 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 De 
 Minister van Economische Zaken, 
-A.Jorritsma    
+A. Jorritsma      

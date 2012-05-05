@@ -17,24 +17,24 @@ Hebben goedgevonden en verstaan:
 
 ### ARTIKEL  I  
 
-Wijzigt het Besluit proceskosten bestuursrecht.   
+Wijzigt het Besluit proceskosten bestuursrecht.  
 
 ### ARTIKEL  III  
 
-Ten aanzien van beroep, hoger beroep of beroep in cassatie dat voor de datum van inwerkingtreding van dit besluit is ingesteld, blijft het recht zoals het gold voor dat tijdstip van toepassing.  
+Ten aanzien van beroep, hoger beroep of beroep in cassatie dat voor de datum van inwerkingtreding van dit besluit is ingesteld, blijft het recht zoals het gold voor dat tijdstip van toepassing. 
 
 ### ARTIKEL  IV  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 1 februari 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Justitie, 
-A. H. Korthals   
+A. H. Korthals    
 
 De Staatssecretaris van Financiën, 
 W. A. F. G. Vermeend   
@@ -42,4 +42,4 @@ W. A. F. G. Vermeend
 de *zestiende* februari 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

@@ -8,15 +8,15 @@ Besluit:
 
 ### Artikel  1  
 
-Als instelling die een legitimatiebewijs voor gehandicapten afgeeft, wordt aangewezen: N.V. Nederlandse Spoorwegen, Moreelsepark 1, Utrecht.  
+Als instelling die een legitimatiebewijs voor gehandicapten afgeeft, wordt aangewezen: N.V. Nederlandse Spoorwegen, Moreelsepark 1, Utrecht. 
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van 1 januari 1988. Deze regeling wordt in de Nederlandse Staatscourant geplaatst.  
+Deze regeling treedt in werking met ingang van 1 januari 1988. Deze regeling wordt in de Nederlandse Staatscourant geplaatst. 
 
 's-Gravenhage 
 18 december 1987    
 
 De 
 minister van Verkeer en Waterstaat, 
-N.Smit-Kroes    
+N. Smit-Kroes      

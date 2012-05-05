@@ -17,17 +17,17 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Als zeegebied, bedoeld in artikel 1, vierde lid, onderdeel *b*, van de [Visserijwet 1963](../../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md) worden aangewezen: 
+Als zeegebied, bedoeld in artikel 1, vierde lid, onderdeel *b*, van de [Visserijwet 1963](../../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md) worden aangewezen:  
 
 1. de havens van IJmuiden en de toeleidingskanalen naar het Noordzeekanaal tot de meest zeewaarts gelegen waterkeringen;  
 
 2. het Uitwateringskanaal te Katwijk tot de meest zeewaarts gelegen waterkering;  
 
-3. de havens van Scheveningen tot de meest zeewaarts gelegen waterkeringen.    
+3. de havens van Scheveningen tot de meest zeewaarts gelegen waterkeringen.   
 
 ### Artikel  2  
 
-Als kustwater, bedoeld in artikel 1, vierde lid, onder *c,* van de [Visserijwet 1963](../../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md), worden aangewezen: 
+Als kustwater, bedoeld in artikel 1, vierde lid, onder *c,* van de [Visserijwet 1963](../../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md), worden aangewezen:  
 
 1. de Waddenzee en het Nederlands gedeelte van de Dollard en de Eems binnen de volgende grenzen: 
 
@@ -52,23 +52,23 @@ d. het Beerkanaal met de daaraan gelegen open havens.
 
 6. De Westerschelde voor zover gelegen ten oosten van de basislijn van de territoriale zee van Nederland.  
 
-7. De aan de onder 1 tot en met 6 bedoelde wateren gelegen open havens en de met die wateren in open gemeenschap staande inhammen, kreken, spranken, gaten en killen.    
+7. De aan de onder 1 tot en met 6 bedoelde wateren gelegen open havens en de met die wateren in open gemeenschap staande inhammen, kreken, spranken, gaten en killen.   
 
 ### Artikel  3  
 
-Waar kustwateren in verbinding staan met wateren, bedoeld in artikel 1, vierde lid, onder *d,* van de [Visserijwet 1963](../../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md), geldt als grens: 
+Waar kustwateren in verbinding staan met wateren, bedoeld in artikel 1, vierde lid, onder *d,* van de [Visserijwet 1963](../../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md), geldt als grens:  
 
 a. waar geen open verbinding is, de waterkering, welke het dichtst gelegen is bij het kustwater;  
 
-b. waar een open verbinding is, de lijn gaande over de uitmonding, met dien verstande dat in de Nieuwe Waterweg als grens geldt de lijn gaande van het oostelijk havenhoofd van Maassluis naar het groene scheepvaartgeleidelicht No. 14.    
+b. waar een open verbinding is, de lijn gaande over de uitmonding, met dien verstande dat in de Nieuwe Waterweg als grens geldt de lijn gaande van het oostelijk havenhoofd van Maassluis naar het groene scheepvaartgeleidelicht No. 14.   
 
 ### Artikel  4  
 
-Ons besluit van 21 mei 1964 (*Stb.* 1964, 163) wordt ingetrokken.  
+Ons besluit van 21 mei 1964 (*Stb.* 1964, 163) wordt ingetrokken. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking op 1 mei 1970. Het kan worden aangehaald als "Besluit aanwijzing zeegebied en kustwateren" met vermelding van het jaartal van het *Staatsblad*, waarin het is geplaatst.  
+Dit besluit treedt in werking op 1 mei 1970. Het kan worden aangehaald als "Besluit aanwijzing zeegebied en kustwateren" met vermelding van het jaartal van het *Staatsblad*, waarin het is geplaatst. 
 
 Onze Minister van Landbouw en Visserij is belast met de uitvoering van dit besluit, hetwelk in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.   
 

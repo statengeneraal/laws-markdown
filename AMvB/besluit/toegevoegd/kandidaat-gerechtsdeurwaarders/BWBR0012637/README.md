@@ -21,22 +21,22 @@ a. de wet: de Gerechtsdeurwaarderswet;
 
 b. goedkeuring: de goedkeuring, bedoeld in [artikel 26, eerste lid, van de wet](../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md), door Onze Minister van de aanwijzing door de gerechtsdeurwaarder van een toegevoegd kandidaat-gerechtsdeurwaarder;  
 
-c. de eerste, tweede en derde toegevoegd kandidaat-gerechtsdeurwaarder: de kandidaat-gerechtsdeurwaarder die door de gerechtsdeurwaarder overeenkomstig [artikel 26, van de wet](../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md) als zodanig is aangewezen;  
+c. de eerste, tweede en derde toegevoegd kandidaat-gerechtsdeurwaarder: de kandidaat-gerechtsdeurwaarder die door de gerechtsdeurwaarder overeenkomstig [artikel 26, van de wet ](../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md)als zodanig is aangewezen;  
 
-d. stagiair: de kandidaat-gerechtsdeurwaarder die door de gerechtsdeurwaarder overeenkomstig [artikel 26, van de wet](../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md) is aangewezen als toegevoegd kandidaat-gerechtsdeurwaarder met het oog op het doorlopen van de stage, bedoeld in [artikel 27, eerste lid, van de wet](../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md).    
+d. stagiair: de kandidaat-gerechtsdeurwaarder die door de gerechtsdeurwaarder overeenkomstig [artikel 26, van de wet](../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md) is aangewezen als toegevoegd kandidaat-gerechtsdeurwaarder met het oog op het doorlopen van de stage, bedoeld in [artikel 27, eerste lid, van de wet](../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md).   
 
 ### Artikel  2  
 
-Onder verantwoordelijkheid van een gerechtsdeurwaarder kunnen gelijktijdig ten hoogste twee stagiairs en ten hoogste drie toegevoegd kandidaat-gerechtsdeurwaarders werkzaam zijn.  
+Onder verantwoordelijkheid van een gerechtsdeurwaarder kunnen gelijktijdig ten hoogste twee stagiairs en ten hoogste drie toegevoegd kandidaat-gerechtsdeurwaarders werkzaam zijn. 
 
 ### Artikel  3  
 
-1.  De goedkeuring van de aanwijzing van de eerste toegevoegd kandidaat-gerechtsdeurwaarder wordt verleend en op verzoek telkens verlengd voor de duur van de aanwijzing door de gerechtsdeurwaarder.   
+1.  De goedkeuring van de aanwijzing van de eerste toegevoegd kandidaat-gerechtsdeurwaarder wordt verleend en op verzoek telkens verlengd voor de duur van de aanwijzing door de gerechtsdeurwaarder.    
 2.  De goedkeuring, bedoeld in het eerste lid, kan worden onthouden of in tijd worden beperkt indien: 
 
 a. de kandidaat-gerechtsdeurwaarder de stage, bedoeld in [artikel 27 van de wet](../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md), niet heeft doorlopen, of  
 
-b. zulks naar het oordeel van Onze Minister redelijkerwijs noodzakelijk is in het belang van het aanzien of de vervulling van het gerechtsdeurwaardersambt, of het voorkomen van handelingen in strijd met het bepaalde bij of krachtens wet.     
+b. zulks naar het oordeel van Onze Minister redelijkerwijs noodzakelijk is in het belang van het aanzien of de vervulling van het gerechtsdeurwaardersambt, of het voorkomen van handelingen in strijd met het bepaalde bij of krachtens wet.    
 
 ### Artikel  4  
 
@@ -48,7 +48,7 @@ a. de kandidaat-gerechtsdeurwaarder de stage, bedoeld in [artikel 27 van de wet]
 
 b. de gerechtsdeurwaarder niet beschikt over zodanige financiële middelen en zodanige praktijkomvang dat redelijkerwijs gewaarborgd is dat hij met de toegevoegd kandidaat-gerechtsdeurwaarder kantoor kan houden dat in overeenstemming is met de eisen van het ambt, of  
 
-c. zulks naar het oordeel van Onze Minister redelijkerwijs noodzakelijk is in het belang van de marktwerking, het aanzien of de vervulling van het gerechtsdeurwaardersambt, of het voorkomen van handelingen in strijd met het bepaalde bij of krachtens wet.     
+c. zulks naar het oordeel van Onze Minister redelijkerwijs noodzakelijk is in het belang van de marktwerking, het aanzien of de vervulling van het gerechtsdeurwaardersambt, of het voorkomen van handelingen in strijd met het bepaalde bij of krachtens wet.    
 
 ### Artikel  5  
 
@@ -69,19 +69,19 @@ c. zulks naar het oordeel van Onze Minister redelijkerwijs noodzakelijk is in he
 ### Artikel  6  
 
 1.  De goedkeuring van de aanwijzing van de stagiair als toegevoegd kandidaat-gerechtsdeurwaarder wordt verleend voor de duur van ten hoogste een jaar of, ingeval van werkzaamheid in deeltijd, naar evenredigheid langer, maar niet langer dan de duur van de aanwijzing, tenzij dat gelet op het belang van de stagiair bij de voortzetting van de stage zal leiden tot een onbillijkheid van overwegende aard.   
-2.  De goedkeuring, bedoeld in het eerste lid, kan worden onthouden of in tijd worden beperkt, indien hetgeen de gerechtsdeurwaarder en de stagiair zijn overeengekomen niet voldoet aan het bepaalde bij of krachtens wet.   
+2.  De goedkeuring, bedoeld in het eerste lid, kan worden onthouden of in tijd worden beperkt, indien hetgeen de gerechtsdeurwaarder en de stagiair zijn overeengekomen niet voldoet aan het bepaalde bij of krachtens wet.  
 
 ### Artikel  7  
 
-De Regeling toegevoegd kandidaat-deurwaarders wordt ingetrokken.  
+De Regeling toegevoegd kandidaat-deurwaarders wordt ingetrokken. 
 
 ### Artikel  8  
 
-Dit besluit treedt in werking op het tijdstip waarop [artikel 26 van de wet](../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop [artikel 26 van de wet](../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md) in werking treedt. 
 
 ### Artikel  9  
 
-Dit besluit wordt aangehaald als: Besluit toegevoegd kandidaat-gerechtsdeurwaarders.  
+Dit besluit wordt aangehaald als: Besluit toegevoegd kandidaat-gerechtsdeurwaarders. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -95,4 +95,4 @@ N. A. Kalsbeek
 de *tiende* juli 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

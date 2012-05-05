@@ -11,15 +11,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Onze Minister van Justitie is gemachtigd voor ambtenaren en werknemers bij het dienstvak der gerechten nadere algemene voorschriften ter uitwerking of aanvulling van de bepalingen van het [Algemeen Rijksambtenarenreglement](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en het Arbeidsovereenkomstenbesluit vast te stellen.  
+Onze Minister van Justitie is gemachtigd voor ambtenaren en werknemers bij het dienstvak der gerechten nadere algemene voorschriften ter uitwerking of aanvulling van de bepalingen van het [Algemeen Rijksambtenarenreglement](../../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en het Arbeidsovereenkomstenbesluit vast te stellen. 
 
 ### Artikel  2  
 
-Het Besluit van 10 mei 1960, nr. 41 en het Besluit van 13 juni 1988, no. 27 worden ingetrokken.  
+Het Besluit van 10 mei 1960, nr. 41 en het Besluit van 13 juni 1988, no. 27 worden ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van 1 januari 1991.  
+Dit besluit treedt in werking met ingang van 1 januari 1991. 
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit dat in het *Staatsblad* zal worden geplaatst en waarvan een afschrift zal worden gezonden aan de Algemene Rekenkamer.   
 

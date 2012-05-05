@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan te bevelen:
 
 ### Artikel  1  
 
-De aanwijzing van eene inrichting ingevolge [artikel 198 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) kan niet plaats hebben dan indien met betrekking tot die inrichting voldaan wordt aan de navolgende voorwaarden: 
+De aanwijzing van eene inrichting ingevolge [artikel 198 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) kan niet plaats hebben dan indien met betrekking tot die inrichting voldaan wordt aan de navolgende voorwaarden:  
 
 a. de inrichting moet voldoende ruimte bevatten voor het daarin te huisvesten aantal personen; zij moet, met het oog op den aard der daarin op te nemen verdachten, voldoen aan behoorlijke eischen van veiligheid en waarborgen opleveren tegen hun ontvluchting;  
 
@@ -37,28 +37,28 @@ i. aan de door Onzen Minister van Justitie aan te wijzen personen moet te allen 
 
 j. alle aanwijzingen, te geven door de deskundigen met het onderzoek naar de geestvermogens van de verdachten belast, moeten worden opgevolgd;  
 
-k. voor de uitvoering van maatregelen in het belang van het onderzoek door den rechter-commissaris of het gerecht ten opzichte van de verdachten bevolen, moet worden zorg gedragen.    
+k. voor de uitvoering van maatregelen in het belang van het onderzoek door den rechter-commissaris of het gerecht ten opzichte van de verdachten bevolen, moet worden zorg gedragen.   
 
 ### Artikel  2  
 
-Een aanwijzing als bedoeld in [artikel 198 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), wordt aangevraagd door middel van een verklaring van het bestuur van de inrichting, dat het zich wenst te onderwerpen aan de in artikel 1 omschreven voorwaarden.  
+Een aanwijzing als bedoeld in [artikel 198 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), wordt aangevraagd door middel van een verklaring van het bestuur van de inrichting, dat het zich wenst te onderwerpen aan de in artikel 1 omschreven voorwaarden. 
 
 ### Artikel  3  
 
-Onze Minister van Justitie doet alsdan een onderzoek instellen.  
+Onze Minister van Justitie doet alsdan een onderzoek instellen. 
 
 ### Artikel  4  
 
-De aanwijzing kan geschieden onder voorbehoud, dat binnen een daarbij te stellen termijn bepaalde verbeteringen worden aangebracht.  
+De aanwijzing kan geschieden onder voorbehoud, dat binnen een daarbij te stellen termijn bepaalde verbeteringen worden aangebracht. 
 
 ### Artikel  5  
 
 1.  Bij niet-naleving of overtreding der voorwaarden, zulks ter beoordeeling van Onzen Minister van Justitie, kan de aanwijzing worden ingetrokken. De intrekking geschiedt niet dan nadat het bestuur in de gelegenheid is gesteld alsnog ten genoege van Onzen Minister van Justitie aan de voorwaarden te voldoen tenzij de vereiste spoed zich daartegen verzet.   
-2.  Op straffe van intrekking der aanwijzing mogen wijzigingen ten aanzien van de punten, waarop de voorwaarden van artikel 1 betrekking hebben, niet worden aangebracht, dan nadat Onze Minister van Justitie verklaard heeft, dat ondanks die wijzigingen de inrichting aan de voorwaarden van artikel 1 blijft voldoen.   
+2.  Op straffe van intrekking der aanwijzing mogen wijzigingen ten aanzien van de punten, waarop de voorwaarden van artikel 1 betrekking hebben, niet worden aangebracht, dan nadat Onze Minister van Justitie verklaard heeft, dat ondanks die wijzigingen de inrichting aan de voorwaarden van artikel 1 blijft voldoen.  
 
 ### Artikel  6  
 
-Dit besluit treedt in werking tegelijk met het nieuwe [Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).  
+Dit besluit treedt in werking tegelijk met het nieuwe [Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md). 
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en in afschrift zal worden gezonden aan den Raad van State.   
 

@@ -31,14 +31,14 @@ c. bibliotheken:
 
 2°. andere bibliotheken, doch slechts voor zover deze een functie vervullen in het leenverkeer met de onder 1° bedoelde bibliotheken;    
 
-d. onderwijsinstellingen: instellingen waar onderwijs wordt gegeven vanwege de overheid of vanwege een rechtspersoon zonder winstoogmerk;  
+d. onderwijsinstellingen: instellingen waar onderwijs wordt gegeven vanwege de overheid of vanwege een rechtspersoon zonder winstoogmerk;   
 
-e. andere in het algemeen belang werkzame instellingen: instellingen wier uitgaven geheel of hoofdzakelijk uit door de overheid ter beschikking gestelde gelden worden bekostigd.    
+e. andere in het algemeen belang werkzame instellingen: instellingen wier uitgaven geheel of hoofdzakelijk uit door de overheid ter beschikking gestelde gelden worden bekostigd.   
 
 ### Artikel  2  
 
 1.  Onverminderd [artikel 16b van de wet](../../../../../wet/auteurswet/BWBR0001886/README.md), wordt, mits de in [artikel 16h van de wet](../../../../../wet/auteurswet/BWBR0001886/README.md) bedoelde vergoeding wordt betaald, niet als inbreuk op het auteursrecht beschouwd het vervaardigen of doen vervaardigen van verveelvoudigingen van werken als bedoeld in [artikel 16h van de wet](../../../../../wet/auteurswet/BWBR0001886/README.md) door de overheid ten behoeve van personen tot haar dienst behorende of ten behoeve van bij de uitoefening van haar taak betrokken derden, doch niet tot een groter aantal dan voor de juiste vervulling van haar taak ten behoeve van de openbare dienst noodzakelijk is.   
-2.  Onverminderd de artikelen 3 en 4 is het eerste lid van overeenkomstige toepassing op bibliotheken en onderwijsinstellingen, alsmede op andere in het algemeen belang werkzame instellingen.   
+2.  Onverminderd de artikelen 3 en 4 is het eerste lid van overeenkomstige toepassing op bibliotheken en onderwijsinstellingen, alsmede op andere in het algemeen belang werkzame instellingen.  
 
 ### Artikel  3  
 
@@ -48,27 +48,27 @@ a. ter vervanging van deze werken waarvan door bepaalde derden aan die bibliothe
 
 b. om die verveelvoudigingen te zijner tijd uit te lenen, of  
 
-c. om met behulp daarvan nieuwe verveelvoudigingen te vervaardigen, mits die bestemd zijn om op de onder a omschreven wijze te worden gebruikt.    
+c. om met behulp daarvan nieuwe verveelvoudigingen te vervaardigen, mits die bestemd zijn om op de onder a omschreven wijze te worden gebruikt.   
 
 ### Artikel  4  
 
-Onverminderd [artikel 16b van de wet](../../../../../wet/auteurswet/BWBR0001886/README.md), wordt, mits de in [artikel 16h van de wet](../../../../../wet/auteurswet/BWBR0001886/README.md) bedoelde vergoeding wordt betaald, niet als inbreuk op het auteursrecht beschouwd het vervaardigen of doen vervaardigen van verveelvoudigingen van werken als bedoeld in [artikel 16h van de wet](../../../../../wet/auteurswet/BWBR0001886/README.md) door onderwijsinstellingen, indien de verveelvoudigingen worden vervaardigd ten behoeve van degenen die het onderwijs volgen of die voornemens zijn een examen af te leggen, mits het verveelvoudigen geschiedt ter noodzakelijke aanvulling van de in de leerplannen en studieprogramma's per vak voorgeschreven of aanbevolen leerboeken. Het aantal verveelvoudigingen mag niet groter zijn dan het aantal leerlingen of studenten dat de verveelvoudigingen nodig heeft, hetzij voor het volgen van het onderwijs, hetzij met het oog op een af te leggen examen.  
+Onverminderd [artikel 16b van de wet](../../../../../wet/auteurswet/BWBR0001886/README.md), wordt, mits de in [artikel 16h van de wet](../../../../../wet/auteurswet/BWBR0001886/README.md) bedoelde vergoeding wordt betaald, niet als inbreuk op het auteursrecht beschouwd het vervaardigen of doen vervaardigen van verveelvoudigingen van werken als bedoeld in [artikel 16h van de wet](../../../../../wet/auteurswet/BWBR0001886/README.md) door onderwijsinstellingen, indien de verveelvoudigingen worden vervaardigd ten behoeve van degenen die het onderwijs volgen of die voornemens zijn een examen af te leggen, mits het verveelvoudigen geschiedt ter noodzakelijke aanvulling van de in de leerplannen en studieprogramma's per vak voorgeschreven of aanbevolen leerboeken. Het aantal verveelvoudigingen mag niet groter zijn dan het aantal leerlingen of studenten dat de verveelvoudigingen nodig heeft, hetzij voor het volgen van het onderwijs, hetzij met het oog op een af te leggen examen. 
 
 ### Artikel  5  
 
-Als inbreuk op het auteursrecht wordt niet beschouwd het afgeven van overeenkomstig de artikelen 2, 3, 4 en 5 vervaardigde verveelvoudigingen aan degenen te wier behoeve zij zijn vervaardigd.  
+Als inbreuk op het auteursrecht wordt niet beschouwd het afgeven van overeenkomstig de artikelen 2, 3, 4 en 5 vervaardigde verveelvoudigingen aan degenen te wier behoeve zij zijn vervaardigd. 
 
 ### Artikel  6  
 
-Het Besluit van 20 juni 1974 inzake het kopiëren van auteursrechtelijk beschermde werken (Stb. 351) wordt ingetrokken.  
+Het Besluit van 20 juni 1974 inzake het kopiëren van auteursrechtelijk beschermde werken (Stb. 351) wordt ingetrokken. 
 
 ### Artikel  7  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  8  
 
-Dit besluit wordt aangehaald als: Besluit reprografisch verveelvoudigen.  
+Dit besluit wordt aangehaald als: Besluit reprografisch verveelvoudigen. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -82,4 +82,4 @@ J. P. H. Donner
 de derde december 2002 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

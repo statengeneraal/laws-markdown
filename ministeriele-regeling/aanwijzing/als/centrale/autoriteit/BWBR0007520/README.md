@@ -11,7 +11,7 @@ uitvoering van het op 25 oktober 1980 te ’s-Gravenhage tot stand gekomen verdr
 
 algemene bepalingen met betrekking tot verzoeken tot teruggeleiding van ontvoerde kinderen over de Nederlandse grens en de uitvoering daarvan,   
 voorschrijft dat Onze Minister van Justitie bij Nederlandse Staatscourant openbaar te maken besluit de onder zijn Ministerie ressorterende dienst aanwijst, welke wordt belast met de taak van centrale autoriteit, bedoeld in artikel 2 van het Europese verdrag en in artikel 6 van het Haagse verdrag en tevens wordt belast met de behandeling van verzoeken in gevallen van internationale ontvoeringen van kinderen die niet door een verdrag wordt beheerst;
-Besluit:    
+Besluit:     
 
 ### Artikel  I  
 
@@ -19,7 +19,7 @@ De Dienst Preventie, Jeugdbescherming en Reclassering, Stafbureau Juridische Zak
 
 ### Artikel  II  
 
-Dit besluit treedt in werking op 1 september 1995. Met ingang van datzelfde tijdstip vervalt het besluit, kenmerk 505267/95/HR, van 12 juli 1995.  
+Dit besluit treedt in werking op 1 september 1995. Met ingang van datzelfde tijdstip vervalt het besluit, kenmerk 505267/95/HR, van 12 juli 1995. 
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -27,4 +27,4 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 De 
 Staatssecretaris van Justitie, 
-E. M. A.Schmitz    
+E. M. A. Schmitz      

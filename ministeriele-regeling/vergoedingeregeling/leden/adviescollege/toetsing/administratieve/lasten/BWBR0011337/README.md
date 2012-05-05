@@ -4,7 +4,7 @@
 
 De Minister van Economische Zaken,  
 Gelet op [artikel 5 van het Vergoedingenbesluit adviescolleges](../../../../../../../../AMvB/vergoedingenbesluit/adviescolleges/BWBR0008353/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -20,7 +20,7 @@ Deze regeling treedt in werking op 1 mei 2000.
 
 ### Artikel  4  
 
-Deze regeling wordt aangehaald als: Vergoedingenregeling leden Adviescollege toetsing administratieve lasten.  
+Deze regeling wordt aangehaald als: Vergoedingenregeling leden Adviescollege toetsing administratieve lasten. 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -28,4 +28,4 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 De 
 Minister van Economische Zaken, 
-A.Jorritsma-Lebbink    
+A. Jorritsma-Lebbink      

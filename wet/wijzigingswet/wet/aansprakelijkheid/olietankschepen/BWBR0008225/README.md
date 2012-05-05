@@ -11,7 +11,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### ARTIKEL  I  
 
-Wijzigt de Wet aansprakelijkheid olietankschepen.   
+Wijzigt de Wet aansprakelijkheid olietankschepen.  
 
 ### ARTIKEL  II  
 
@@ -33,23 +33,23 @@ b. wanneer een voorval schade door verontreiniging heeft veroorzaakt welke voor 
 
 c. bij de toepassing van het eerste lid van [artikel 5 van de Wet aansprakelijkheid olietankschepen](../../../../../../wet/wet/aansprakelijkheid/olietankschepen/BWBR0002976/README.md), zoals deze komt te luiden door de inwerkingtreding van deze wet, wordt het totale bedrag van het te vormen fonds verlaagd met het bedrag waarmede de schade geacht wordt te zijn voldaan op grond van het onder *a* bepaalde;  
 
-d. voor zover nodig voor de toepassing van de gevallen, bedoeld in dit artikel, blijft de [Wet aansprakelijkheid olietankschepen](../../../../../../wet/wet/aansprakelijkheid/olietankschepen/BWBR0002976/README.md), zoals deze luidde vóór de inwerkingtreding van deze wet, van kracht.     
+d. voor zover nodig voor de toepassing van de gevallen, bedoeld in dit artikel, blijft de [Wet aansprakelijkheid olietankschepen](../../../../../../wet/wet/aansprakelijkheid/olietankschepen/BWBR0002976/README.md), zoals deze luidde vóór de inwerkingtreding van deze wet, van kracht.    
 
 ### ARTIKEL  III  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 4 september 1996  
-Beatrix  
+Beatrix   
 
 De Minister van Justitie, 
-W. Sorgdrager   
+W. Sorgdrager    
 
 De Minister van Verkeer en Waterstaat, 
-A. Jorritsma-Lebbink   
+A. Jorritsma-Lebbink    
 
 De Minister van Financiën, 
 G. Zalm   

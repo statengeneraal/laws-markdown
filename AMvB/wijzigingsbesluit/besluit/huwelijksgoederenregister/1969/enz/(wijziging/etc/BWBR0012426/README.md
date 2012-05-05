@@ -15,19 +15,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het besluit Huwelijksgoederenregister 1969.   
+Wijzigt het besluit Huwelijksgoederenregister 1969.  
 
 ### Artikel  II  
 
-Van een verklaring van de echtgenoten dat de scheiding van tafel en bed door verzoening heeft opgehouden te bestaan, als bedoeld in [artikel 177 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), zoals dit tot de inwerkingtreding van dit besluit gold, die tot dat tijdstip in het huwelijksgoederenregister kon worden ingeschreven, maar daarin niet ingeschreven is, maakt de griffier een akte op, die de echtgenoten in persoon of bij gevolmachtigde ondertekenen.  
+Van een verklaring van de echtgenoten dat de scheiding van tafel en bed door verzoening heeft opgehouden te bestaan, als bedoeld in [artikel 177 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), zoals dit tot de inwerkingtreding van dit besluit gold, die tot dat tijdstip in het huwelijksgoederenregister kon worden ingeschreven, maar daarin niet ingeschreven is, maakt de griffier een akte op, die de echtgenoten in persoon of bij gevolmachtigde ondertekenen. 
 
 ### Artikel  III  
 
-Wijzigt de Wet van 13 december 2000, houdende wijziging van de regeling in Boek 1 van het Burgerlijk Wetboek met betrekking tot het naamrecht, de voorkoming van schijnhuwelijken en het tijdstip van de totstandkoming van de scheiding van tafel en bed alsmede van enige andere wetten.   
+Wijzigt de Wet van 13 december 2000, houdende wijziging van de regeling in Boek 1 van het Burgerlijk Wetboek met betrekking tot het naamrecht, de voorkoming van schijnhuwelijken en het tijdstip van de totstandkoming van de scheiding van tafel en bed alsmede van enige andere wetten.  
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -41,4 +41,4 @@ N. A. Kalsbeek
 de *zesentwintigste* april 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

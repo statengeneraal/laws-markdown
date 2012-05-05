@@ -11,12 +11,12 @@ binnen een half jaar aan het parlement duidelijkheid wil verschaffen over de vra
 
 bij de definitieve beslissing inzake de Betuweroute eventuele meerkosten zal afwegen tegen andere prioriteiten in het kader van majeure investeringen in de infrastructuur;     Besluit:      
 1.  In te stellen de Commissie Betuweroute.   
-2.  De commissie als volgt samen te stellen: 
+2.  De commissie als volgt samen te stellen:  
 
-a. drs. L. M. L. H. A. Hermans, voorzitter; mw. mr. A. H. Brouwer-Korf; prof. dr. J. J. van Duijn; mr. J. A. M. Hendrikx; prof. dr. L. Koopmans; prof. jhr. drs. M. J. Ploos van Amstel; prof. ir. J. Witteveen; mw. prof. dr. J. M. Cramer.  
+a. drs. L. M. L. H. A. Hermans, voorzitter;  mw. mr. A. H. Brouwer-Korf; prof. dr. J. J. van Duijn; mr. J. A. M. Hendrikx; prof. dr. L. Koopmans; prof. jhr. drs. M. J. Ploos van Amstel; prof. ir. J. Witteveen; mw. prof. dr. J. M. Cramer.  
 
 b. Het secretariaat zal worden verzorgd door het adviesbureau Twijnstra Gudde, in de persoon van mr. R. Bekker, secretaris;     
-3.  Deze Commissie als taak op te dragen: 
+3.  Deze Commissie als taak op te dragen:  
 
 a. Een oordeel te geven, vanuit het door Vinex, NMP II en SVV II bepaalde beleidskader, over de noodzaak van aanleg van de Betuweroute vanuit een strategische visie op het Nederlandse vervoerbeleid in brede zin, gebaseerd op de ontwikkelingen van de internationale economie en de daarmee samenhangende ontwikkeling van wereldhandelsstromen, met inachtneming van de positie van de Nederlandse industrie, de distributie- en logistieke sector en het mainport-concept, rekeninghoudend met de internationale beleidsontwikkelingen en regelgeving op dit terrein, met name binnen de Europese Unie;  
 
@@ -28,4 +28,4 @@ c. indien de advisering ad b. zou leiden tot aanleg van de Betuweroute, een oord
 
 De 
 Minister van Verkeer en Waterstaat, 
-A.Jorritsma-Lebbink    
+A.  Jorritsma-Lebbink      

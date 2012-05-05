@@ -5,7 +5,7 @@
 De Staatssecretaris van Justitie en de Staatssecretaris van Onderwijs en Wetenschappen  
 Gelet op de aanbeveling, gedaan in het door de Commissie Opleiding Justitieel Inrichtingswerk uitgebrachte eindrapport,
 Besluiten:      
-1.  in te stellen een commissie, die tot taak zal hebben 
+1.  in te stellen een commissie, die tot taak zal hebben  
 
 de realisering en coördinatie van beroepsopleidingen voor de (semi-) residentiële hulpverlening in al haar facetten, te bevorderen onder meer door middel van het nader uitwerken van de aanbevelingen, welke zijn gedaan in het hiervoor genoemde rapport;  
 

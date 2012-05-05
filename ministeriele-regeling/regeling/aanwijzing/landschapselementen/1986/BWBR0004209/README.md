@@ -8,22 +8,22 @@ Besluit:
 
 ### Artikel  1  
 
-Voor de toepassing van deze regeling wordt verstaan onder:    *boselementen:*   hakhoutbos, geriefbos en niet op rij staande boomgroepen voor zover kleiner dan 1 ha, alsmede solitaire beuken, eiken, elzen, essen, esdoorns, espen, grove dennen, iepen, linden, tamme- en paardekastanjes, wilgen en zwarte populieren;     *natuurelementen:*   heidevelden, rietlanden, ruigten, boezemlanden, grienden en moerassen voor zover kleiner dan 1 ha en niet deel uitmakend van een bos groter dan 5 ha;     *kleine wateren:*   vennen, pingo's, dobben, petgaten, wielen, kolken, poelen en veenputten voor zover kleiner dan 1 ha;     *bomenrijen:*   bomenrijen, behoudens voor zover deze bestaan uit niet geknotte populieren.     
+Voor de toepassing van deze regeling wordt verstaan onder:   *boselementen:*   hakhoutbos, geriefbos en niet op rij staande boomgroepen voor zover kleiner dan 1 ha, alsmede solitaire beuken, eiken, elzen, essen, esdoorns, espen, grove dennen, iepen, linden, tamme- en paardekastanjes, wilgen en zwarte populieren;    *natuurelementen:*   heidevelden, rietlanden, ruigten, boezemlanden, grienden en moerassen voor zover kleiner dan 1 ha en niet deel uitmakend van een bos groter dan 5 ha;    *kleine wateren:*   vennen, pingo's, dobben, petgaten, wielen, kolken, poelen en veenputten voor zover kleiner dan 1 ha;    *bomenrijen:*   bomenrijen, behoudens voor zover deze bestaan uit niet geknotte populieren.    
 
 ### Artikel  2  
 
 1.  Voor een onderhoudsovereenkomst als bedoeld in de [Regeling onderhoudsovereenkomsten landschapselementen](../../../../../../ministeriele-regeling/regeling/onderhoudsovereenkomsten/landschapselementen/BWBR0003126/README.md) komen in aanmerking de in de volgende gebieden voorkomende en nader aangeduide landschapselementen, voor zover gelegen in de agrarische cultuurlandschappen, te weten: 
-### *in Groningen* 
+###*in Groningen*
 
 Zuidelijk Westerkwartier – houtwallen, houtsingels, bomenrijen, boselementen, natuurelementen en kleine wateren; 
-### *in Friesland* 
+###*in Friesland*
 
 1. Terschelling – houtsingels, bomenrijen, boselementen, natuurelementen en kleine wateren;  
 
 2. Noord-Oost Friesland – houtwallen, houtsingels, hagen, boselementen, natuurelementen en kleine wateren;  
 
 3. Gaasterland – houtwallen, houtsingels, hagen, boselementen, natuurelementen en kleine wateren;   
-### *in Drenthe* 
+###*in Drenthe*
 
 1. Roden-Norg – houtwallen, houtsingels, boselementen, natuurelementen en kleine wateren;  
 
@@ -32,7 +32,7 @@ Zuidelijk Westerkwartier – houtwallen, houtsingels, bomenrijen, boselementen, 
 3. Zweelo-Gees – houtwallen, houtsingels, boselementen, natuurelementen en kleine wateren;  
 
 4. Zuid-West Drenthe – houtwallen, houtsingels, boselementen, kleine wateren en natuurelementen;   
-### *in Overijssel* 
+###*in Overijssel*
 
 1. Noord-West Overijssel – houtwallen, houtsingels, boselementen, natuurelementen en kleine wateren;  
 
@@ -47,7 +47,7 @@ Zuidelijk Westerkwartier – houtwallen, houtsingels, bomenrijen, boselementen, 
 6. Twente – houtwallen, houtsingels, boselementen, natuurelementen, kleine wateren en beken;  
 
 7. Omgeving Deventer – houtwallen, houtsingels, boselementen, natuurelementen en kleine wateren;   
-### *in Gelderland* 
+###*in Gelderland*
 
 1. Uiterwaarden van de IJssel van Zalk tot Hattem – boselementen, natuurelementen, kleine wateren en hagen;  
 
@@ -88,7 +88,7 @@ Zuidelijk Westerkwartier – houtwallen, houtsingels, bomenrijen, boselementen, 
 19. Achterhoek – kleine wateren;  
 
 20. Groesbeek – houtwallen, houtsingels, steilrandbeplantingen, bomenrijen, hagen, natuurelementen, boselementen en kleine wateren;   
-### *in Utrecht* 
+###*in Utrecht*
 
 1. Loosdrecht-Westbroek – houtwallen, boselementen, natuurelementen, kleine wateren en bomenrijen;  
 
@@ -105,7 +105,7 @@ Zuidelijk Westerkwartier – houtwallen, houtsingels, bomenrijen, boselementen, 
 7. Langbroekerwetering – houtwallen, houtsingels, bomenrijen, hagen, boselementen, natuurelementen en kleine wateren;  
 
 8. Lopikerwaard – houtkaden, bomenrijen, boselementen, natuurelementen en kleine wateren;   
-### *in Noord-Holland* 
+###*in Noord-Holland*
 
 1. Texel – houtwallen, tuinwallen, houtsingels, boselementen, natuurelementen en kleine wateren;  
 
@@ -114,7 +114,7 @@ Zuidelijk Westerkwartier – houtwallen, houtsingels, bomenrijen, boselementen, 
 3. Centraal Noord-Holland – boselementen, natuurelementen en kleine wateren;  
 
 4. Gooise Engen – houtwallen, houtsingels, boselementen, natuurelementen en kleine wateren;   
-### *in Zuid-Holland* 
+###*in Zuid-Holland*
 
 1. Krimpenerwaard – houtkaden, bomenrijen, boselementen, natuurelementen, kleine wateren en houtsingels;  
 
@@ -125,7 +125,7 @@ Zuidelijk Westerkwartier – houtwallen, houtsingels, bomenrijen, boselementen, 
 4. Polder Achttienhoven – boselementen, natuurelementen en kleine wateren;  
 
 5. Goeree-Overflakkee – boselementen, natuurelementen, kleine wateren, bloemdijken, schurvelingen en bomenrijen;   
-### *in Zeeland* 
+###*in Zeeland*
 
 1. Zuid-Beveland – hagen, boselementen, natuurelementen, kleine wateren, bloemdijken en bomenrijen;  
 
@@ -138,7 +138,7 @@ Zuidelijk Westerkwartier – houtwallen, houtsingels, bomenrijen, boselementen, 
 5. Walcheren – houtsingels, hagen, boselementen, natuurelementen, kleine wateren, bloemdijken, wallen en bomenrijen;  
 
 6. Tholen – hagen, boselementen, natuurelementen, bomenrijen, bloemdijken, kreken en kleine wateren;   
-### *in Noord-Brabant* 
+###*in Noord-Brabant*
 
 1. Maaskant – houtsingels, hagen, boselementen, natuurelementen en kleine wateren;  
 
@@ -149,14 +149,14 @@ Zuidelijk Westerkwartier – houtwallen, houtsingels, bomenrijen, boselementen, 
 4. Midden-Brabant – houtwallen, houtsingels, bomenrijen, boselementen, natuurelementen, hagen, kleine wateren en beken;  
 
 5. Stroomgebied van de Mark – houtwallen, houtsingels, bomenrijen, boselementen, natuurelementen, kleine wateren en beken;   
-### *in Limburg* 
+###*in Limburg*
 
 1. Bergen – hagen, houtsingels, boselementen, natuurelementen en kleine wateren;  
 
 2. Beek – hagen en kleine wateren;  
 
 3. Mergelland – hagen en kleine wateren;     
-2.  De begrenzing van de in het eerste lid genoemde gebieden is op bij deze regeling behorende kaarten aangegeven.   
+2.  De begrenzing van de in het eerste lid genoemde gebieden is op bij deze regeling behorende kaarten aangegeven.  
 
 ### Artikel  3  
 
@@ -166,7 +166,7 @@ a. landschapselementen die, gezien de toestand waarin zij verkeren, naar het oor
 
 b. beplantingen die naar het oordeel van de minister niet of nauwelijks medebepalend zijn voor het streekeigen karakter van de in artikel 2, eerste lid, genoemde gebieden;  
 
-c. beplantingen waarvoor op grond van de Beschikking vrijstelling meldings- en herplantplicht (Stcrt. 1982, 195) vrijstelling is verkregen van de verplichting tot herbeplanting.    
+c. beplantingen waarvoor op grond van de Beschikking vrijstelling meldings- en herplantplicht (Stcrt. 1982, 195) vrijstelling is verkregen van de verplichting tot herbeplanting.   
 
 ### Artikel  4  
 
@@ -177,16 +177,16 @@ natuurelementen: 100 m²;
 kleine wateren: 10 m²;  
 
 houtwallen, bomenrijen, houtsingels, hagen, beken, steilrandbeplantingen, houtkaden, duinrellen, bloemdijken, schurvelingen, wallen, tuinwallen, haaymeten, knotboomdijken en kreken: 25 meter.     
-2.  Solitaire bomen komen slechts in aanmerking voor een onderhoudsovereenkomst indien zij een stamomvang van meer dan 12 centimeter, gemeten op borsthoogte, hebben.   
+2.  Solitaire bomen komen slechts in aanmerking voor een onderhoudsovereenkomst indien zij een stamomvang van meer dan 12 centimeter, gemeten op borsthoogte, hebben.  
 
 ### Artikel  7  
 
-De Regeling aanwijzing landschapselementen (Stcrt. 1981, 20) wordt ingetrokken.  
+De Regeling aanwijzing landschapselementen (Stcrt. 1981, 20) wordt ingetrokken. 
 
 ### Artikel  8  
 
 1.  Deze regeling kan worden aangehaald als: Regeling aanwijzing landschapselementen 1986.   
-2.  Deze regeling treedt in werking op de dag na die van haar bekendmaking in de Nederlandse Staatscourant.   
+2.  Deze regeling treedt in werking op de dag na die van haar bekendmaking in de Nederlandse Staatscourant.  
 
 's-Gravenhage 
 7 september 1987    
@@ -198,4 +198,4 @@ Voor deze,
 
 De 
 plv. secretaris-generaal, 
-M.Brabers    
+M. Brabers      

@@ -2,20 +2,20 @@
 
 ##Tijdelijke regeling lwoo en pro aan AOC's
 
-De Minister van Landbouw, Natuurbeheer en Visserij,  
+De Minister van Landbouw, Natuurbeheer en Visserij,
 Gelet op [artikel XXII, eerste lid, van de Wet van 25 mei 1998](../../../../../../../../../wet/wijzigingswet/wet/op/het/voortgezet/onderwijs/enz./(regeling/leerwegen/etc/BWBR0009638/README.md), Stb. 337;
-Besluit:    
+Besluit:   
 
-### Artikel  1  
+###Artikel 1 
 
-In deze regeling wordt verstaan onder:   a.  *wet:*   [wet van 25 mei 1998](../../../../../../../../../wet/wijzigingswet/wet/op/het/voortgezet/onderwijs/enz./(regeling/leerwegen/etc/BWBR0009638/README.md), Stb. 337;    b.  *minister:*   minister van Landbouw, Natuurbeheer en Visserij;    c.  *AOC:*   agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).     
+In deze regeling wordt verstaan onder:a.*wet:*[ wet van 25 mei 1998](../../../../../../../../../wet/wijzigingswet/wet/op/het/voortgezet/onderwijs/enz./(regeling/leerwegen/etc/BWBR0009638/README.md), Stb. 337;b.*minister:* minister van Landbouw, Natuurbeheer en Visserij;c.*AOC:* agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md). 
 
-### Artikel  2  
+###Artikel 2 
 
-1.  In aanvulling op [artikel II, eerste lid, van de wet](../../../../../../../../../wet/wijzigingswet/wet/op/het/voortgezet/onderwijs/enz./(regeling/leerwegen/etc/BWBR0009638/README.md) is het individueel voorbereidend beroepsonderwijs van een AOC een afdeling voor leerwegondersteunend onderwijs.   
-2.  In aanvulling op [artikel II, vijfde lid, van de wet](../../../../../../../../../wet/wijzigingswet/wet/op/het/voortgezet/onderwijs/enz./(regeling/leerwegen/etc/BWBR0009638/README.md) kan de minister een afdeling voor leerwegondersteunend onderwijs, verbonden aan een AOC, in aanmerking brengen voor bekostiging als afdeling voor praktijkonderwijs.   
-3.  In aanvulling op [artikel IV, eerste en derde lid, van de wet](../../../../../../../../../wet/wijzigingswet/wet/op/het/voortgezet/onderwijs/enz./(regeling/leerwegen/etc/BWBR0009638/README.md), kan de minister een afdeling of school voor speciaal voortgezet onderwijs aan kinderen met leer- en opvoedingsmoeilijkheden in aanmerking brengen voor bekostiging als afdeling voor leerwegondersteunend onderwijs verbonden aan een AOC.   
-4.  In aanvulling op [artikel VIII, eerste en vierde lid, van de wet](../../../../../../../../../wet/wijzigingswet/wet/op/het/voortgezet/onderwijs/enz./(regeling/leerwegen/etc/BWBR0009638/README.md), kan de minister een afdeling of school voor speciaal voortgezet onderwijs aan moeilijk lerende kinderen in aanmerking brengen voor bekostiging als afdeling voor praktijkonderwijs verbonden aan een AOC.   
+1. In aanvulling op [artikel II, eerste lid, van de wet](../../../../../../../../../wet/wijzigingswet/wet/op/het/voortgezet/onderwijs/enz./(regeling/leerwegen/etc/BWBR0009638/README.md) is het individueel voorbereidend beroepsonderwijs van een AOC een afdeling voor leerwegondersteunend onderwijs.
+2. In aanvulling op [artikel II, vijfde lid, van de wet](../../../../../../../../../wet/wijzigingswet/wet/op/het/voortgezet/onderwijs/enz./(regeling/leerwegen/etc/BWBR0009638/README.md) kan de minister een afdeling voor leerwegondersteunend onderwijs, verbonden aan een AOC, in aanmerking brengen voor bekostiging als afdeling voor praktijkonderwijs.
+3. In aanvulling op [artikel IV, eerste en derde lid, van de wet](../../../../../../../../../wet/wijzigingswet/wet/op/het/voortgezet/onderwijs/enz./(regeling/leerwegen/etc/BWBR0009638/README.md), kan de minister een afdeling of school voor speciaal voortgezet onderwijs aan kinderen met leer- en opvoedingsmoeilijkheden in aanmerking brengen voor bekostiging als afdeling voor leerwegondersteunend onderwijs verbonden aan een AOC.
+4. In aanvulling op [artikel VIII, eerste en vierde lid, van de wet](../../../../../../../../../wet/wijzigingswet/wet/op/het/voortgezet/onderwijs/enz./(regeling/leerwegen/etc/BWBR0009638/README.md), kan de minister een afdeling of school voor speciaal voortgezet onderwijs aan moeilijk lerende kinderen in aanmerking brengen voor bekostiging als afdeling voor praktijkonderwijs verbonden aan een AOC. 
 
 ### Artikel  3  
 
@@ -32,9 +32,9 @@ In aanvulling op [artikel 2.1.3, tweede lid, van de Wet educatie en beroepsonder
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als: Tijdelijke regeling lwoo en pro aan AOC's.  
+Deze regeling wordt aangehaald als: Tijdelijke regeling lwoo en pro aan AOC's. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Landbouw, Natuurbeheer en Visserij, 
-L.J.Brinkhorst    
+L.J. Brinkhorst      

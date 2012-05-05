@@ -14,15 +14,15 @@ Het gesprek als bedoeld in [artikel 71, eerste lid, van het Algemeen Rijksambten
 
 ### Artikel  2  
 
-Wijzigt het Beoordelingsvoorschrift Ministerie van Economische Zaken 1998.   
+Wijzigt het Beoordelingsvoorschrift Ministerie van Economische Zaken 1998. 
 
 ### Artikel  3  
 
 Ingetrokken worden: 
 
-a. het Beoordelingsvoorschrift CBS en  
+a.  het Beoordelingsvoorschrift CBS en 
 
-b. de Beleidsregels bewust belonen EZ.    
+b.  de Beleidsregels bewust belonen EZ.  
 
 ### Artikel  4  
 
@@ -30,12 +30,12 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als: Beleidsregels waarderen en belonen medewerkers EZ.  
-Dit besluit zal worden bekendgemaakt in de Staatscourant, met uitzondering van de bijlage, die ter inzage wordt gelegd. Van deze terinzagelegging zal mededeling worden gedaan in de Staatscourant.   
+Dit besluit wordt aangehaald als: Beleidsregels waarderen en belonen medewerkers EZ. 
+Dit besluit zal worden bekendgemaakt in de Staatscourant, met uitzondering van de bijlage, die ter inzage wordt gelegd. Van deze terinzagelegging zal mededeling worden gedaan in de Staatscourant. 
 
 's-Gravenhage 
 20 juni 2002    
 
 De 
 Minister van Economische Zaken, 
-A.Jorritsma-Lebbink    
+A. Jorritsma-Lebbink      

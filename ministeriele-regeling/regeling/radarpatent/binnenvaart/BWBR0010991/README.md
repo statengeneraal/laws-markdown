@@ -2,9 +2,9 @@
 
 ##Regeling radarpatent binnenvaart
 
-De Minister van Verkeer en Waterstaat,  
-Gelet op [artikel 4, eerste lid, van het Vaststellingsbesluit Binnenvaartpolitiereglement](../../../../../AMvB/vaststellingsbesluit/binnenvaartpolitiereglement/BWBR0003627/README.md) en [artikel 19, zesde lid, onder c, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](../../../../../AMvB/scheepvaartreglement/voor/het/kanaal/van/gent/naar/terneuzen/BWBR0005315/README.md);
-Besluit:    
+De Minister van Verkeer en Waterstaat,   
+Gelet op [artikel 4, eerste lid, van het Vaststellingsbesluit Binnenvaartpolitiereglement](../../../../../AMvB/vaststellingsbesluit/binnenvaartpolitiereglement/BWBR0003627/README.md) en [artikel 19, zesde lid, onder c, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](../../../../../AMvB/scheepvaartreglement/voor/het/kanaal/van/gent/naar/terneuzen/BWBR0005315/README.md); 
+Besluit:     
 
 ### Artikel  1  
 
@@ -25,8 +25,8 @@ Deze regeling treedt in werking met ingang van 1 januari 2000.
 ### Artikel  5  
 
 Deze regeling wordt aangehaald als: Regeling radarpatent binnenvaart.  
-Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.    
 
 De 
 Minister van Verkeer en Waterstaat, 
-T.Netelenbos    
+T. Netelenbos      

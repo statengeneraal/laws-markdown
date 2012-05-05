@@ -11,11 +11,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet milieubeheer.   
+Wijzigt de Wet milieubeheer.  
 
 ### Artikel  II  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.  
 
 ### Artikel  III  
 
@@ -23,13 +23,13 @@ Ten aanzien van meldingen van veranderingen die voor het tijdstip van inwerkingt
 
 ### Artikel  IV  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 25 april 2000  
-Beatrix  
+Beatrix   
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
 J. P. Pronk   

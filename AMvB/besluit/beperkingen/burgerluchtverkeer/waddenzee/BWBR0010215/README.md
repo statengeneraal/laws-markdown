@@ -33,7 +33,7 @@ d. reclamesleepvlucht: een vlucht waarbij een sleepnet wordt gesleept.
 ### Artikel  3  
 
 1.  Het is verboden een reclamesleepvlucht uit te voeren boven het milieubeschermingsgebied Waddenzee.   
-2.  Onverminderd artikel 2 is het in het eerste lid gestelde verbod niet van toepassing op vluchten van reclamesleepvliegbedrijven, gevestigd op de luchthaven Texel, die rechtstreeks van de luchthaven Texel naar het vaste land of vice versa gevlogen worden.   
+2.  Onverminderd artikel 2 is het in het eerste lid gestelde verbod niet van toepassing op vluchten van reclamesleepvliegbedrijven, gevestigd op de luchthaven Texel, die rechtstreeks van de luchthaven Texel naar het vaste land of vice versa gevlogen worden.  
 
 ### Artikel  4  
 
@@ -54,21 +54,21 @@ c. controle op de staat van hoogspanningsleidingen en pijpleidingen;
 
 d. metingen in het belang van volksgezondheid, beheer of wetenschap; of  
 
-e. incidentele foto- en filmopnamen in het belang van nieuwsvoorziening of voorlichting.     
+e. incidentele foto- en filmopnamen in het belang van nieuwsvoorziening of voorlichting.    
 
 ### Artikel  5  
 
-Dit besluit treedt in werking op het tijdstip waarop artikel I, onderdeel E, onder 1, van het voorstel van wet tot wijziging van de Wet Luchtverkeer (luchtvaartuigen en vluchtuitvoering), kamerstukken II 1998/99, 26 336, nr. 2, tot wet is verheven en in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop artikel I, onderdeel E, onder 1, van het voorstel van wet tot wijziging van de Wet Luchtverkeer (luchtvaartuigen en vluchtuitvoering), kamerstukken II 1998/99, 26 336, nr. 2, tot wet is verheven en in werking treedt. 
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: Besluit beperkingen burgerluchtverkeer Waddenzee.  
+Dit besluit wordt aangehaald als: Besluit beperkingen burgerluchtverkeer Waddenzee. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting en de bijlage in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 14 januari 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Verkeer en Waterstaat, 
 T. Netelenbos   
@@ -76,9 +76,9 @@ T. Netelenbos
 de *elfde* februari 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     
 
-### Bijlage  
+###Bijlage 
 
 ![243127](http://wetten.overheid.nl/Illustration/243127)
 

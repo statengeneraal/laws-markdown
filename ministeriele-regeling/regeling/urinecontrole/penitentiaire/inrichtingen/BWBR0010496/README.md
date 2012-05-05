@@ -1,18 +1,18 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling Urinecontrole penitentiaire inrichtingen
+##Regeling Urinecontrole penitentiaire inrichtingen 
 
 De Minister van Justitie,  
 Gelet op [artikel 30, tweede lid, van de Penitentiaire beginselenwet](../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);
 
 Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 13 februari 1998 (nummer 681643/98), 13 mei 1998 (nummer 98/694836) en 14 december 1998 (nummer 735265/98).
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
 ####Begripsbepalingen
 
-In deze regeling wordt verstaan onder:   a. wet:  de [Penitentiaire beginselenwet](../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md).    b. uitvoeringsverantwoordelijke instantie:  de door de selectiefunctionaris als zodanig aangewezen penitentiaire inrichting dan wel uitvoeringseenheid van de SRN bij plaatsing van een deelnemer in een penitentiair programma.     
+In deze regeling wordt verstaan onder: a. wet:    de [Penitentiaire beginselenwet](../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md).  b. uitvoeringsverantwoordelijke instantie:   de door de selectiefunctionaris als zodanig aangewezen penitentiaire inrichting dan wel uitvoeringseenheid van de SRN bij plaatsing van een deelnemer in een penitentiair programma.    
 
 ### Artikel  2  
 
@@ -77,13 +77,13 @@ In deze regeling wordt verstaan onder:   a. wet:  de [Penitentiaire beginselenwe
 2.  Indien de gedetineerde na het verstrijken van de in artikel 3, vierde lid, gestelde termijn van vier uur nog geen urine heeft afgestaan, wordt dit gelijk gesteld met een weigering medewerking te verlenen aan de urinecontrole.   
 3.  In afwachting van de uitslag van het herhalingsonderzoek dan wel een bevestigingsonderzoek; 
 
-a. wordt de tenuitvoerlegging van een disciplinaire straf opgeschort;  
+a.  wordt de tenuitvoerlegging van een disciplinaire straf opgeschort; 
 
-b. wordt de besluitvorming dan wel de effectuering van een genomen besluit in het kader van de selectie en overplaatsing opgeschort;  
+b.  wordt de besluitvorming dan wel de effectuering van een genomen besluit in het kader van de selectie en overplaatsing opgeschort; 
 
-c. wordt de effectuering van het algemeen verlof of regimesgebonden verlof opgeschort;  
+c.  wordt de effectuering van het algemeen verlof of regimesgebonden verlof opgeschort; 
 
-d. kan de effectuering van een incidenteel verlof of strafonderbreking worden opgeschort.     
+d.  kan de effectuering van een incidenteel verlof of strafonderbreking worden opgeschort.    
 
 ### Artikel  9  
 
@@ -108,11 +108,11 @@ Deze regeling treedt in werking op 15 juni 1999.
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling Urinecontrole penitentiaire inrichtingen.  
+Deze regeling wordt aangehaald als: Regeling Urinecontrole penitentiaire inrichtingen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 2 juni 1999    
 
 De Minister van Justitie, 
-A.H. Korthals      
+A.H.  Korthals      

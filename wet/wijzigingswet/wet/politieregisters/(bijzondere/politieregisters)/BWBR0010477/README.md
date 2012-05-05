@@ -13,24 +13,24 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet politieregisters.   
+Wijzigt de Wet politieregisters.  
 
 ### Artikel  II  
 
 1.  Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.   
-2.  Ten aanzien van bij of krachtens de [Wet politieregisters](../../../../../../../wet/wet/politieregisters/BWBR0004798/README.md) aangelegde registers, bestaande op het in het eerste lid bedoelde tijdstip, blijven de [artikelen 5a](../../../../../../../wet/wet/politieregisters/BWBR0004798/README.md) en [13d, derde lid, van deze wet](../../../../../../../wet/wet/politieregisters/BWBR0004798/README.md) buiten toepassing gedurende ten hoogste een jaar na dat tijdstip, voor zover het betreft de vastlegging van de reeds in die registers opgeslagen gegevens.   
+2.  Ten aanzien van bij of krachtens de [Wet politieregisters](../../../../../../../wet/wet/politieregisters/BWBR0004798/README.md) aangelegde registers, bestaande op het in het eerste lid bedoelde tijdstip, blijven de [artikelen 5a](../../../../../../../wet/wet/politieregisters/BWBR0004798/README.md) en [13d, derde lid, van deze wet](../../../../../../../wet/wet/politieregisters/BWBR0004798/README.md) buiten toepassing gedurende ten hoogste een jaar na dat tijdstip, voor zover het betreft de vastlegging van de reeds in die registers opgeslagen gegevens.  
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 27 mei 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Justitie, 
-A. H. Korthals   
+A. H. Korthals    
 
 De Minister van Binnenlandse Zaken, 
-A. Peper   
+A. Peper    
 
 De Minister van Defensie, 
 F. H. G. de Grave   

@@ -10,11 +10,11 @@ Besluit:
 
 ### Artikel  I  
 
-De Directie Preventie, Jeugd en Sanctiebeleid, stafbureau Juridische Zaken, wordt aangewezen als centrale autoriteit, belast met de uitvoering van de in het Europese verdrag en het Haagse verdrag bedoelde taken en tevens met de behandeling van verzoeken in gevallen van internationale ontvoering van kinderen die niet door een verdrag worden beheerst.  
+De Directie Preventie, Jeugd en Sanctiebeleid, stafbureau Juridische Zaken, wordt aangewezen als centrale autoriteit, belast met de uitvoering van de in het Europese verdrag en het Haagse verdrag bedoelde taken en tevens met de behandeling van verzoeken in gevallen van internationale ontvoering van kinderen die niet door een verdrag worden beheerst. 
 
 ### Artikel  II  
 
-Dit besluit werkt terug tot 1 januari 1998. Met ingang van datzelfde tijdstip vervalt het besluit, kenmerk [511387/95/JR](../../../../../../../ministeriele-regeling/aanwijzing/als/centrale/autoriteit/BWBR0007520/README.md), van 23 augustus 1995.  
+Dit besluit werkt terug tot 1 januari 1998. Met ingang van datzelfde tijdstip vervalt het besluit, kenmerk [511387/95/JR](../../../../../../../ministeriele-regeling/aanwijzing/als/centrale/autoriteit/BWBR0007520/README.md), van 23 augustus 1995. 
 Dit besluit wordt in de Staatscourant geplaatst.   
 
 ’s-Gravenhage 
@@ -22,4 +22,4 @@ Dit besluit wordt in de Staatscourant geplaatst.
 
 De 
 Staatssecretaris van Justitie, 
-E.M.A.Schmitz    
+E.M.A. Schmitz      

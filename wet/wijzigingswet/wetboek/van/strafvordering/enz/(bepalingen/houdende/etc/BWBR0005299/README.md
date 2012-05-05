@@ -11,43 +11,43 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  V  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  VI  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  VII  
 
-De artikelen I onder B sub 6, C sub 1 en 2, D, F, G, H, K en III onder 3 hebben geen gevolgen voor strafzaken die vóór het tijdstip van inwerkingtreding van deze wet reeds terechtzitting in eerste aanleg aanhangig zijn gemaakt.  
+De artikelen I onder B sub 6, C sub 1 en 2, D, F, G, H, K en III onder 3 hebben geen gevolgen voor strafzaken die vóór het tijdstip van inwerkingtreding van deze wet reeds terechtzitting in eerste aanleg aanhangig zijn gemaakt. 
 
 ### Artikel  VIII  
 
-Artikel I onder A en I heeft geen gevolgen voor strafzaken waarin de vervolging vóór het tijdstip van de inwerkingtreding van deze wet reeds is aangevangen.  
+Artikel I onder A en I heeft geen gevolgen voor strafzaken waarin de vervolging vóór het tijdstip van de inwerkingtreding van deze wet reeds is aangevangen. 
 
 ### Artikel  IX  
 
-De artikelen I onder B sub 1 tot en met 5, 7, 8 en 9, C sub 3, III onder 1 en 2, IV, V en VI hebben geen gevolgen voor strafzaken waarin op het tijdstip van de inwerkingtreding van deze wet reeds in eerste instantie een rechterlijke beschikking is gegeven.  
+De artikelen I onder B sub 1 tot en met 5, 7, 8 en 9, C sub 3, III onder 1 en 2, IV, V en VI hebben geen gevolgen voor strafzaken waarin op het tijdstip van de inwerkingtreding van deze wet reeds in eerste instantie een rechterlijke beschikking is gegeven. 
 
 ### Artikel  X  
 
-Deze wet treedt in werking op een nader bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een nader bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

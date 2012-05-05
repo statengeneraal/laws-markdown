@@ -10,19 +10,19 @@ Besluiten:
 
 ### Artikel  1  
 
-Het auteursrecht op het handboek voor het gebruik van het logo en de huisstijl van de Nederlandse politie, bedoeld in de bijlage bij deze regeling, is uitdrukkelijk voorbehouden.  
+Het auteursrecht op het handboek voor het gebruik van het logo en de huisstijl van de Nederlandse politie, bedoeld in de bijlage bij deze regeling, is uitdrukkelijk voorbehouden. 
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van 12 juli 1993. Deze regeling zal in de Staatscourant worden geplaatst, met uitzondering van de bijlage die ter inzage wordt gelegd.  
+Deze regeling treedt in werking met ingang van 12 juli 1993. Deze regeling zal in de Staatscourant worden geplaatst, met uitzondering van de bijlage die ter inzage wordt gelegd. 
 
 's-Gravenhage 
 8 juli 1993    
 
 De 
 Minister van Justitie, 
-E. M. H.Hirsch Ballin 
+E. M. H.Hirsch Ballin  
 
 De 
 Minister van Binnenlandse Zaken, 
-C. I.Dales    
+C. I. Dales    

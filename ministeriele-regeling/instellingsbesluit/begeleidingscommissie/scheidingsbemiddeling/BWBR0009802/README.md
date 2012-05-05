@@ -22,11 +22,11 @@ het belang van het kind;
 
 ongelijkwaardigheid van partijen (belang van de zwakkere partijen).   
 Daartoe is voorzien in de instelling van een begeleidingscommissies voor de experimenten scheidingsbemiddeling;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
-Er is een begeleidingscommissie scheidingsbemiddeling.  
+Er is een begeleidingscommissie scheidingsbemiddeling. 
 
 ### Artikel  2  
 
@@ -40,11 +40,11 @@ de staatssecretaris over de voortgang van de experimenten te informeren.
 
 In de begeleidingscommissie experimenten scheidingsbemiddeling hebben zitting: 
 
-a. als voorzitter: 
+a.  als voorzitter: 
 
 mr. H.B. Greven    
 
-b. als leden: 
+b.  als leden: 
 
 mw. mr. E.A.M. de Hilster, wetgevingsjurist van de directie wetgeving van het ministerie van Justitie;  
 
@@ -62,7 +62,7 @@ mw. mr. C.L.M. Smeets, advocaat en scheidingsbemiddelaar te Rotterdam;
 
 mr. F. van Welsem, advocaat en mediator te Deventer;    
 
-c. als secretaris: 
+c.  als secretaris: 
 
 dr. P. Albers, projectbegeleider wetenschappelijk onderzoek- en documentatiecentrum van het ministerie van Justitie.      
 
@@ -76,7 +76,7 @@ Op de begeleidingscommissie is het [Vacatiegeldenbesluit 1988](../../../../../AM
 
 ### Artikel  6  
 
-De begeleidingscommissie zal haar werkzaamheden uiterlijk op 1 juli 1999 beëindigen.  
+De begeleidingscommissie zal haar werkzaamheden uiterlijk op 1 juli 1999 beëindigen. 
 Dit besluit zal worden gepubliceerd in de Staatscourant.   
 
 ’s-Gravenhage 
@@ -84,4 +84,4 @@ Dit besluit zal worden gepubliceerd in de Staatscourant.
 
 De 
 Staatssecretaris van Justitie, 
-E.M.A.Schmitz    
+E.M.A. Schmitz      

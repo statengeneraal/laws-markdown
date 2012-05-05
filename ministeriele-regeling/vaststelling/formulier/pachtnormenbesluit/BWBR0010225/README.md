@@ -4,7 +4,7 @@
 
 De Staatssecretaris van Landbouw, Natuurbeheer en Visserij,  
 Gelet op artikel 10 van het Pachtnormenbesluit;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -16,11 +16,11 @@ Het besluit van 20 mei 1994, no. J. 945498, wordt ingetrokken.
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 ’s-Gravenhage 
 19 januari 1999    
 
 De 
 Staatssecretaris van Landbouw, Natuurbeheer en Visserij, 
-G.H.Faber    
+G.H.  Faber      

@@ -17,18 +17,18 @@ De aanduiding, bedoeld in de [artikelen 7, onderdeel d](../../../../../AMvB/regl
 
 ### Artikel  3  
 
-De afmetingen van achtergrond en letter worden als volgt vastgesteld:  
+De afmetingen van achtergrond en letter worden als volgt vastgesteld:
 
 | --- | --- | --- |
 |:---|:---|:---|
-| --- | Motorrijtuigen op twee wielen  | Overige motorrijtuigen  |
-| Buitenzijde van de lichtblauwe achtergrond  | 12 cm  | 16 cm  |
-| Hoogte van de letter ’L’  | 8 cm  | 10 cm  |
-| Dikte van de stam van de letter  | 1,5 cm  | 2 cm  |
+| --- |Motorrijtuigen op twee wielen | Overige motorrijtuigen |
+|Buitenzijde van de lichtblauwe achtergrond |12 cm |16 cm |
+|Hoogte van de letter ’L’ |8 cm |10 cm |
+|Dikte van de stam van de letter |1,5 cm |2 cm  |
 
 ### Artikel  4  
 
-De regeling van de Minister van Verkeer en Waterstaat van 1 oktober 1991, nr. R 104330 Hoofddirectie van de Waterstaat (Stcrt. 202), houdende vaststelling lesbord, wordt ingetrokken.  
+De regeling van de Minister van Verkeer en Waterstaat van 1 oktober 1991, nr. R 104330 Hoofddirectie van de Waterstaat (Stcrt. 202), houdende vaststelling lesbord, wordt ingetrokken. 
 
 ### Artikel  5  
 
@@ -36,7 +36,7 @@ Deze regeling treedt in werking met ingang van 1 juni 1996.
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als: Regeling vaststelling L-bord.  
+Deze regeling wordt aangehaald als: Regeling vaststelling L-bord. 
 Deze regeling zal worden geplaatst in de Staatscourant.   
 
 ’s-Gravenhage 
@@ -45,4 +45,4 @@ Deze regeling zal worden geplaatst in de Staatscourant.
 De 
 Minister van Verkeer en Waterstaat, 
 
-A. Jorritsma-Lebbink      
+A. Jorritsma-Lebbink    

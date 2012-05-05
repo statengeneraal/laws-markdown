@@ -4,7 +4,7 @@
 
 De Minister van Justitie,  
 Gelet op [artikel 37j, eerste en vierde lid, van de Luchtvaartwet](../../../../../../wet/luchtvaartwet/BWBR0002267/README.md):
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -12,11 +12,11 @@ Het tarief van de beveiligingsheffing bedraagt voor 1997 in de periode van 1 jan
 
 ### Artikel  2  
 
-Deze beschikking treedt in werking op 1 januari 1997 en wordt geplaatst in de Nederlandse Staatscourant.  
+Deze beschikking treedt in werking op 1 januari 1997 en wordt geplaatst in de Nederlandse Staatscourant. 
 
 Den Haag 
 25 november 1996    
 
 De 
 Minister van Justitie, 
-J. vanEes    
+J. van  Ees      

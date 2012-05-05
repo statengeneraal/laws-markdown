@@ -11,33 +11,33 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### ARTIKEL  I  
 
-Wijzigt Boek 8 van het Burgerlijk Wetboek.   
+Wijzigt Boek 8 van het Burgerlijk Wetboek.  
 
 ### ARTIKEL  II  
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.   
+Wijzigt het Wetboek van Burgerlijke Rechtsvordering.  
 
 ### ARTIKEL  III  
 
-Wijzigt de Wet op de strandvonderij.   
+Wijzigt de Wet op de strandvonderij.  
 
 ### ARTIKEL  IV  
 
-Wijzigt de Wet aansprakelijkheid olietankschepen.   
+Wijzigt de Wet aansprakelijkheid olietankschepen.  
 
 ### ARTIKEL  V  
 
-Op een hulpverlening die vóór het in werking treden van deze wet is aangevangen, is het vroegere recht van toepassing.  
+Op een hulpverlening die vóór het in werking treden van deze wet is aangevangen, is het vroegere recht van toepassing. 
 
 ### ARTIKEL  VI  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 2 juli 1997  
-Beatrix  
+Beatrix   
 
 De Minister van Justitie, 
 W. Sorgdrager   

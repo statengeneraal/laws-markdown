@@ -11,7 +11,7 @@ Overwegende dat de vaststelling is geschied, handelend in overeenstemming met he
 
 Overwegende dat deze wijziging uitsluitend betrekking heeft op de aanpassing van guldenbedragen in eurobedragen volgens de op Europees niveau vastgestelde regels;  
 
-Overwegende dat om die reden met betrekking tot deze wijziging niet het gevoelen van de ministerraad is gevraagd;     Besluit:    
+Overwegende dat om die reden met betrekking tot deze wijziging niet het gevoelen van de ministerraad is gevraagd;     Besluit:     
 
 ### Artikel  1  
 
@@ -25,11 +25,11 @@ Vast te stellen de in de bijlage dezes vervatte methodiek ter bepaling van de ge
 ### Artikel  3  
 
 1.  Deze regeling wordt aangehaald als: Regeling methodiek gebruiksvergoeding Rijksgebouwendienst.   
-2.  Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd in de bibliotheek van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, Rijnstraat 8, 's-Gravenhage.   
+2.  Deze regeling zal in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd in de bibliotheek van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, Rijnstraat 8, 's-Gravenhage.  
 
 's-Gravenhage 
 12 december 2001    
 
 De 
-Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J.W.Remkes    
+Staatssecretaris  van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
+J.W. Remkes      

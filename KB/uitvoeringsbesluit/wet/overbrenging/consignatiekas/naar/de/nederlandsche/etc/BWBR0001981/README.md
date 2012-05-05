@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De bemoeiingen van de Nederlandsche Bank met de krachtens de wet van 27 Maart 1936, *Staatsblad* n°. 201, in bewaring gegeven effecten omvatten: 
+De bemoeiingen van de Nederlandsche Bank met de krachtens de wet van 27 Maart 1936, *Staatsblad* n°. 201, in bewaring gegeven effecten omvatten:  
 
 a. het verzilveren der coupons en dividendbewijzen of het incasseeren op andere wijze van vervallen of betaalbaar gestelde opbrengsten en het verantwoorden daarvan, met inachtneming van het bepaalde in artikel 4 der bovengenoemde wet, aan den bewaargever of zijn vertegenwoordiger op een der wijzen, krachtens de Voorwaarden van bewaarneming van de Nederlandsche Bank toegelaten;  
 
@@ -31,16 +31,16 @@ f. het verrichten van de handelingen, die uit de onder *d* en *e* genoemde gebeu
 
 g. het verleenen van haar bemiddeling bij het doen uitvoeren van effectenorders in de gevallen in bovengenoemde wet bedoeld;  
 
-h. het eventueel te gelde maken van een voorkeursrecht, voortspruitende uit het bezit van een der krachtens bovengenoemde wet in bewaring gegeven stukken.    
+h. het eventueel te gelde maken van een voorkeursrecht, voortspruitende uit het bezit van een der krachtens bovengenoemde wet in bewaring gegeven stukken.   
 
 ### Artikel  2  
 
 1.  De Nederlandsche Bank brengt voor de in artikel 1 bedoelde werkzaamheden een loon in rekening van € 0,68 per € 453,78 werkelijke waarde per jaar, met een minimum van € 1,82 per jaar per bewaargeving. De werkelijke waarde der fondsen wordt berekend naar de grondslagen daarvoor in de Voorwaarden van bewaarneming van de Nederlandsche Bank aangegeven. Het loon wordt zooveel mogelijk verrekend met de opbrengst van de in bewaring gegeven effecten.   
-2.  Onkosten, welke aan de Nederlandsche Bank bij het verrichten der in artikel 1 bedoelde werkzaamheden in rekening worden gebracht, komen ten laste van de bewaargevers.   
+2.  Onkosten, welke aan de Nederlandsche Bank bij het verrichten der in artikel 1 bedoelde werkzaamheden in rekening worden gebracht, komen ten laste van de bewaargevers.  
 
 ### Artikel  3  
 
-Dit besluit treedt in werking gelijktijdig met de wet van 27 Maart 1936, *Staatsblad* n°. 201.  
+Dit besluit treedt in werking gelijktijdig met de wet van 27 Maart 1936, *Staatsblad* n°. 201. 
 
 Onze Ministers van Justitie en van Financiën zijn, ieder voor zooveel hem aangaat, belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan den Raad van State.   
 

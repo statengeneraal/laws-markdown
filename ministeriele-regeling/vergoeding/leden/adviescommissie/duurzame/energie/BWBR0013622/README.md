@@ -4,7 +4,7 @@
 
 De Minister van Economische Zaken,  
 Gelet op [artikel 1 van het Vacatiegeldenbesluit 1988](../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -13,13 +13,13 @@ Besluit:
 
 ### Artikel  2  
 
-Voor de voorbereidende werkzaamheden in het kader van het beoordelen van subsidieaanvragen op grond van de [Uitvoeringsregeling BSE-duurzame energie](../../../../../../../ministeriele-regeling/uitvoeringsregeling/bse-duurzame/energie/BWBR0012623/README.md) en [Uitvoeringsregeling BSE-2002 duurzame energie](../../../../../../../ministeriele-regeling/uitvoeringsregeling/bse-2002/duurzame/energie/BWBR0013568/README.md) ontvangt elk lid van de Adviescommissie duurzame energie per tender een vergoeding van € 18,91 per door het betrokken lid behandelde aanvraag.  
+Voor de voorbereidende werkzaamheden in het kader van het beoordelen van subsidieaanvragen op grond van de [Uitvoeringsregeling BSE-duurzame energie](../../../../../../../ministeriele-regeling/uitvoeringsregeling/bse-duurzame/energie/BWBR0012623/README.md) en [Uitvoeringsregeling BSE-2002 duurzame energie](../../../../../../../ministeriele-regeling/uitvoeringsregeling/bse-2002/duurzame/energie/BWBR0013568/README.md) ontvangt elk lid van de Adviescommissie duurzame energie per tender een vergoeding van € 18,91 per door het betrokken lid behandelde aanvraag. 
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Economische Zaken, 
 
-namens deze: 
+namens deze:
 
-N. vanHulst, 
+N. van Hulst  , 
 directeur-generaal van Marktordening en Energie    

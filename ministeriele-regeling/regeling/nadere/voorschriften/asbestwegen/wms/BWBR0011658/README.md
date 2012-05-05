@@ -4,7 +4,7 @@
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;  
 Gelet op [artikel 2, tweede en vierde lid, van het Besluit asbestwegen Wms](../../../../../../../AMvB/besluit/asbestwegen/wms/BWBR0011619/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -16,19 +16,19 @@ Voor de toepassing van NEN 5897 als bedoeld in [artikel 2, tweede lid, van het B
 
 ### Artikel  3  
 
-Een asbestbevattende weg mag voorhanden worden gehouden indien de weg behoort tot de verkeersklasse 1 of 2a, bedoeld in C.R.O.W.-publicatie 81, uitgave januari 1994, en: 
+Een asbestbevattende weg mag voorhanden worden gehouden indien de weg behoort tot de verkeersklasse 1 of 2a, bedoeld in C.R.O.W.-publicatie 81, uitgave januari 1994, en:  
 
-a. de eigenaar heeft aangetoond dat het asbest voor 1 juli 1993 is aangebracht, en  
+a.  de eigenaar heeft aangetoond dat het asbest voor 1 juli 1993 is aangebracht, en   
 
-b. die weg een duurzame afscherming van het asbest heeft, welke afscherming bestaat uit: 
+b.  die weg een duurzame afscherming van het asbest heeft, welke afscherming bestaat uit:  
 
-1 <sup>e</sup>. asfalt, klinkers of beton, welke afscherming in een goede staat verkeert, of  
+1<sup>e</sup>.  asfalt, klinkers of beton, welke afscherming in een goede staat verkeert, of  
 
-2 <sup>e</sup>. een laag zand, grond, puingranulaat of materiaal dat een vergelijkbare afscherming biedt, waarvan de dikte ten minste 0,2 m is.      
+2<sup>e</sup>.  een laag zand, grond, puingranulaat of materiaal dat een vergelijkbare afscherming biedt, waarvan de dikte ten minste 0,2 m is.     
 
-### Artikel  3a  
+### Artikel 3a  
 
-Deze regeling berust op [artikel 2, tweede en vierde lid, van het Besluit asbestwegen milieubeheer](../../../../../../../AMvB/besluit/asbestwegen/wms/BWBR0011619/README.md).  
+Deze regeling berust op [artikel 2, tweede en vierde lid, van het Besluit asbestwegen milieubeheer](../../../../../../../AMvB/besluit/asbestwegen/wms/BWBR0011619/README.md).
 
 ### Artikel  4  
 
@@ -36,7 +36,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  5  
 
-Deze regeling wordt aangehaald als: Regeling nadere voorschriften asbestwegen milieubeheer.  
+Deze regeling wordt aangehaald als: Regeling nadere voorschriften asbestwegen milieubeheer. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
@@ -44,4 +44,4 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J.P.Pronk    
+J.P. Pronk      

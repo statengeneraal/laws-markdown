@@ -6,13 +6,13 @@ De Minister van Landbouw en Visserij,
 Gelet op [artikel 2 van de Noodwet voedselvoorziening](../../../../../wet/noodwet/voedselvoorziening/BWBR0002392/README.md)
 Besluit:    
 
-### Artikel  1  
+###Artikel  1  
 
-De beschikking van 21 juli 1965, Stcrt. 139, inzake het ambtsgebied van de voedselcommissaris in Noord-Brabant, wordt ingetrokken.  
+De beschikking van 21 juli 1965, Stcrt. 139, inzake het ambtsgebied van de voedselcommissaris in Noord-Brabant, wordt ingetrokken. 
 
-### Artikel  2  
+###Artikel  2  
 
-Het ambtsgebied van de voedselcommissaris in Noord-Brabant en dat van de voedselcommissaris in Gelderland omvatten onderscheidenlijk de provinciën Noord-Brabant en Gelderland.  
+Het ambtsgebied van de voedselcommissaris in Noord-Brabant en dat van de voedselcommissaris in Gelderland omvatten onderscheidenlijk de provinciën Noord-Brabant en Gelderland. 
 
 's-Gravenhage 
 20 mei 1970    
@@ -20,8 +20,8 @@ Het ambtsgebied van de voedselcommissaris in Noord-Brabant en dat van de voedsel
 De 
 Minister van Landbouw en Visserij, 
 
-Voor deze: 
+Voor deze:
 
 De 
 secretaris-generaal, 
-VanSetten    
+VanSetten     

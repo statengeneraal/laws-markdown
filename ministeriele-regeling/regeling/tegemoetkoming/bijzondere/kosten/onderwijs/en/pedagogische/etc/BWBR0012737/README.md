@@ -1,12 +1,12 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling tegemoetkoming bijzondere kosten onderwijs en pedagogische activiteiten jeugdigen
+##Regeling tegemoetkoming bijzondere kosten onderwijs en pedagogische activiteiten jeugdigen 
 
 De Minister van Justitie,  
-Gelet op artikel 52, vierde lid, van de Beginselenwet Justitiële Jeugdinrichtingen;
+Gelet op [artikel 52, vierde lid, van de Beginselenwet Justitiële Jeugdinrichtingen](../../../../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);
 
 Gezien het advies van de Raad voor de Strafrechtstoepassing en Jeugdbescherming van 3 mei 2001, kenmerk 5095686/TH/rb;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -31,9 +31,9 @@ Deze regeling treedt op 1 september 2001 in werking.
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als: Regeling tegemoetkoming bijzondere kosten onderwijs en pedagogische activiteiten jeugdigen.  
+Deze regeling wordt aangehaald als: Regeling tegemoetkoming bijzondere kosten onderwijs en pedagogische activiteiten jeugdigen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
-Minister van Justitie
-A.H.Korthals    
+MinistervanJustitie 
+A.H. Korthals      

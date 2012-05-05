@@ -19,23 +19,23 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Het Gijzelingsbesluit van 26 september 1928 (*Stb.* 382) wordt ingetrokken.  
+Het Gijzelingsbesluit van 26 september 1928 (*Stb.* 382) wordt ingetrokken. 
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
 
-De artikelen I tot en met III onder A, zijn slechts van toepassing op gijzelingen die zijn aangevangen na het tijdstip van inwerkingtreding van dit besluit.  
+De artikelen I tot en met III onder A, zijn slechts van toepassing op gijzelingen die zijn aangevangen na het tijdstip van inwerkingtreding van dit besluit. 
 
 ### Artikel  V  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het is geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het is geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

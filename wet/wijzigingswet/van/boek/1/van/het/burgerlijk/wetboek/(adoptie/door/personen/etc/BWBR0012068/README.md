@@ -11,7 +11,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt Boek 1 van het Burgerlijk Wetboek.   
+Wijzigt Boek 1 van het Burgerlijk Wetboek.  
 
 ### Artikel  II  
 
@@ -19,11 +19,11 @@ Wijzigt Boek 1 van het Burgerlijk Wetboek.
 
 1.  Het voor het tijdstip van inwerkingtreding van deze wet geldende recht blijft van toepassing op procedures met betrekking tot adoptie of herroeping daarvan waarin het inleidende verzoekschrift is ingediend voorafgaande aan het tijdstip van inwerkingtreding van deze wet.   
 2.   Wijzigt deze wet.    
-3.   Wijzigt deze wet.    
+3.   Wijzigt deze wet.   
 
 ### Artikel  III  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -37,4 +37,4 @@ M. J. Cohen
 de *elfde* januari 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

@@ -11,11 +11,11 @@ Zo is het, dat wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-1.  Het tarief van de heffing, bedoeld in artikel 37 *j*, eerste lid, in Artikel I, bedraagt voor het resterende deel van 1991 zes gulden vijftig per passagier. 2. Deze wet treedt in werking met ingang van de eerste dag van de vierde kalendermaand na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.   
+1.  Het tarief van de heffing, bedoeld in artikel 37*j*, eerste lid, in Artikel I, bedraagt voor het resterende deel van 1991 zes gulden vijftig per passagier. 2. Deze wet treedt in werking met ingang van de eerste dag van de vierde kalendermaand na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

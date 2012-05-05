@@ -20,7 +20,7 @@ dat partijen te kennen hebben gegeven om constructief overleg te willen aangaan 
 dat hiertoe een platform wordt opgericht om dit overleg te faciliteren;
 
 dat op 28 mei 1999 een brief aan de Tweede Kamer der Staten-Generaal is gestuurd inzake de uitwerking van de consumentenbescherming in het openbaar vervoer (DGP/M/MO/V920051/1);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -37,13 +37,13 @@ Er is een Landelijk Overleg Consumentenbelangen Openbaar Vervoer, hierna te noem
 1.  De leden van het LOCOV zijn de Minister van Verkeer en Waterstaat, spoorvervoerders, beheerders van stations en consumentenorganisaties.   
 2.  Consumentenorganisaties kunnen als lid van het LOCOV worden benoemd indien zij: 
 
-a. deskundig zijn ten aanzien van het openbaar vervoer per spoor,  
+a.  deskundig zijn ten aanzien van het openbaar vervoer per spoor,  
 
-b. representatief zijn ten aanzien van de behandeling van vraagstukken die consumenten in het openbaar vervoer per spoor betreffen,  
+b.  representatief zijn ten aanzien van de behandeling van vraagstukken die consumenten in het openbaar vervoer per spoor betreffen,  
 
-c. werkzaam zijn op nationale schaal, en  
+c.  werkzaam zijn op nationale schaal, en  
 
-d. rechtspersoonlijkheid bezitten.     
+d.  rechtspersoonlijkheid bezitten.     
 3.  Spoorvervoerders kunnen als lid van het LOCOV worden benoemd indien zij rechtspersoonlijkheid bezitten en hun activiteiten hoofdzakelijk richten op het openbaar spoorvervoer ten behoeve van landelijke verbindingen.   
 4.  Beheerders van stations kunnen als lid van het LOCOV worden benoemd indien zij rechtspersoonlijkheid bezitten en hun activiteiten hoofdzakelijk richten op het exploiteren van stations op nationale schaal.   
 
@@ -85,9 +85,9 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 ### Artikel  11  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit LOCOV.  
+Dit besluit wordt aangehaald als: Instellingsbesluit LOCOV. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Verkeer en Waterstaat, 
-T.Netelenbos    
+T.  Netelenbos      

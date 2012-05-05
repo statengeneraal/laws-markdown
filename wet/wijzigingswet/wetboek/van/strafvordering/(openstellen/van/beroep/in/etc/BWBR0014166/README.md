@@ -11,15 +11,15 @@ Zo is het dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-G
 
 ### Artikel  I  
 
-Wijzigt het Wetboek van Strafvordering.   
+Wijzigt het Wetboek van Strafvordering.  
 
 ### Artikel  II  
 
-Beroep in cassatie is niet toegelaten tegen een vrijspraak die voor het tijdstip van inwerkingtreding van deze wet is gewezen.  
+Beroep in cassatie is niet toegelaten tegen een vrijspraak die voor het tijdstip van inwerkingtreding van deze wet is gewezen. 
 
 ### Artikel  III  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -33,4 +33,4 @@ J. P. H. Donner
 de *twaalfde* november 2002 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

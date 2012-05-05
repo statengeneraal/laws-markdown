@@ -29,12 +29,12 @@ c. benchmark lokaal ondernemersklimaat: referentiekader voor de toetsing van de 
 ### Artikel  2  
 
 1.  Onze Minister verstrekt in 2001 een subsidie ten behoeve van niet-fysieke stadseconomie aan een in bijlage 1 van dit besluit vermelde gemeente die een ontwikkelingsprogramma uitvoert dat als bijlage 1 is gehecht aan het tussen die gemeente en het Rijk op 20 december 1999 in het kader van het grotestedenbeleid gesloten convenant.   
-2.  Onze Minister verstrekt in 2001 een subsidie ten behoeve van niet-fysieke stadseconomie aan een in bijlage 2 van dit besluit vermelde gemeente die een ontwikkelingsprogramma uitvoert dat als bijlage 1 is gehecht aan het tussen die gemeente en het Rijk op 21 december 1999 in het kader van het Investeringsbudget stedelijke vernieuwing gesloten convenant.   
+2.  Onze Minister verstrekt in 2001 een subsidie ten behoeve van niet-fysieke stadseconomie aan een in bijlage 2 van dit besluit vermelde gemeente die een ontwikkelingsprogramma uitvoert dat als bijlage 1 is gehecht aan het tussen die gemeente en het Rijk op 21 december 1999 in het kader van het Investeringsbudget stedelijke vernieuwing gesloten convenant.  
 
 ### Artikel  3  
 
 1.  De subsidie bedraagt in het in artikel 2, eerste lid, bedoelde geval het in bijlage 1 van dit besluit genoemde bedrag.   
-2.  De subsidie bedraagt in het in artikel 2, tweede lid, bedoeld geval het in bijlage 2 van dit besluit genoemde bedrag.   
+2.  De subsidie bedraagt in het in artikel 2, tweede lid, bedoeld geval het in bijlage 2 van dit besluit genoemde bedrag.  
 
 ### §  2  
 
@@ -42,7 +42,7 @@ c. benchmark lokaal ondernemersklimaat: referentiekader voor de toetsing van de 
 
 ### Artikel  4  
 
-De beschikking tot subsidieverlening vermeldt het tijdstip en de wijze waarop de aanvraag om subsidievaststelling moet worden ingediend.  
+De beschikking tot subsidieverlening vermeldt het tijdstip en de wijze waarop de aanvraag om subsidievaststelling moet worden ingediend. 
 
 ### §  3  
 
@@ -56,7 +56,7 @@ De beschikking tot subsidieverlening vermeldt het tijdstip en de wijze waarop de
 4.  De subsidie-ontvanger neemt deel aan de tweejaarlijkse herhalingsmeting van de benchmark lokaal ondernemers klimaat.   
 5.  De subsidie-ontvanger neemt bij het gebruik van de subsidie de ingevolge het Verdrag betreffende de Europese Unie voor de Staat geldende verplichtingen in acht.   
 6.  De subsidie-ontvanger dient bij Onze Minister een aanvraag om subsidievaststelling in overeenkomstig hetgeen daaromtrent in de beschikking tot subsidieverlening is vermeld.   
-7.  De subsidie-ontvanger voert een administratie die zodanig is ingericht, dat daaruit te allen tijde op eenvoudige en duidelijke wijze alle door hem aangegane verplichtingen en verrichte betalingen kunnen worden afgelezen.   
+7.  De subsidie-ontvanger voert een administratie die zodanig is ingericht, dat daaruit te allen tijde op eenvoudige en duidelijke wijze alle door hem aangegane verplichtingen en verrichte betalingen kunnen worden afgelezen.  
 
 ### §  4  
 
@@ -64,8 +64,8 @@ De beschikking tot subsidieverlening vermeldt het tijdstip en de wijze waarop de
 
 ### Artikel  6  
 
-1.  Op een subsidie ter zake waarvan een beschikking tot subsidieverlening geldt wordt door Onze Minister ten hoogste eenmaal per kalenderjaar een voorschot verstrekt.   
-2.  Het voorschot is het bedrag dat in bijlage 1 of bijlage 2 van dit besluit als voorschot is vermeld.   
+1.  Op een subsidie ter zake waarvan een beschikking tot subsidieverlening geldt wordt door Onze Minister ten hoogste eenmaal per kalenderjaar een voorschot verstrekt.    
+2.  Het voorschot is het bedrag dat in bijlage 1 of bijlage 2 van dit besluit als voorschot is vermeld.  
 
 ### §  5  
 
@@ -73,7 +73,7 @@ De beschikking tot subsidieverlening vermeldt het tijdstip en de wijze waarop de
 
 ### Artikel  7  
 
-Onze Minister geeft de beschikking tot subsidievaststelling binnen dertien weken na ontvangst van de aanvraag daartoe dan wel nadat de voor het indienen ervan geldende termijn is verstreken.  
+Onze Minister geeft de beschikking tot subsidievaststelling binnen dertien weken na ontvangst van de aanvraag daartoe dan wel nadat de voor het indienen ervan geldende termijn is verstreken. 
 
 ### §  6  
 
@@ -81,15 +81,15 @@ Onze Minister geeft de beschikking tot subsidievaststelling binnen dertien weken
 
 ### Artikel  8  
 
-Tot 1 januari 2002 gelden voor de toepassing van de artikelen 3 en 6 de bedragen genoemd in de bijlagen 1a en 2a van dit besluit.  
+Tot 1 januari 2002 gelden voor de toepassing van deartikelen 3 en 6 de bedragen genoemd in debijlagen 1a en 2a van dit besluit. 
 
 ### Artikel  9  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 ### Artikel  10  
 
-Dit besluit wordt aangehaald als: Besluit subsidies niet-fysieke stadseconomie grote steden.  
+Dit besluit wordt aangehaald als: Besluit subsidies niet-fysieke stadseconomie grote steden. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -103,7 +103,7 @@ A. Jorritsma-Lebbink
 de *eenentwintigste* juni 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     
 
 ### Bijlage  1  
 
@@ -111,9 +111,9 @@ A. H. Korthals
 
 | --- | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|:---|
-| Euro's (bedragen *1000,-)  |
+|  Euro's (bedragen *1000,-)  |
 | --- | Subsidiebedrag  | Voorschot 2000  | Voorschot 2001  | Voorschot 2002  | Voorschot 2003  | Voorschot 2004  |
-| Amsterdam  | 11610,638363  | 989,618643  | 1057,276215  | 3382,063278  | 3222,580557  | 2959,099216  |
+| Amsterdam  | 11610,638363  | 989,618643  | 1057,276215  | 3382,063278  | 3222,580557  | 2959,099216   |
 | Den Haag  | 6785,438647  | 578,348558  | 617,888697  | 1976,530487  | 1883,326300  | 1729,343698  |
 | Rotterdam  | 8795,937810  | 749,711093  | 800,966829  | 2562,169150  | 2441,348907  | 2241,741830  |
 | Utrecht  | 3719,425131  | 317,020691  | 338,694545  | 1083,431527  | 1032,341824  | 947,936545  |
@@ -163,7 +163,7 @@ A. H. Korthals
 | Utrecht  | 8196,534356  | 698,621667  | 746,384556  | 1567,899667  | 2274,982000  | 2088,977244  | 819,669222  |
 | Almelo  | 886,111822  | 75,526667  | 80,690222  | 169,502667  | 245,944000  | 225,835378  | 88,612889  |
 | Arnhem  | 2547,571489  | 217,139167  | 231,984389  | 487,320167  | 707,089000  | 649,276711  | 254,762056  |
-| Breda  | 2769,099444  | 236,020833  | 252,156944  | 529,695833  | 768,575000  | 705,735556  | 276,915278  |
+| Breda  | 2769,099444  | 236,020833  | 252,156944  | 529,695833  | 768,575000  | 705,735556  | 276,915278   |
 | Deventer  | 1107,639778  | 94,408333  | 100,862778  | 211,878333  | 307,430000  | 282,294222  | 110,766111  |
 | Dordrecht  | 1661,459667  | 141,612500  | 151,294167  | 317,817500  | 461,145000  | 423,441333  | 166,149167  |
 | Eindhoven  | 3212,155356  | 273,784167  | 292,502056  | 614,447167  | 891,547000  | 818,653244  | 321,221722  |

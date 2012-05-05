@@ -12,19 +12,19 @@ Besluiten:
 
 ### Artikel  1  
 
-Het auteursrecht op het logo van de Nederlandse politie dat is opgenomen in de bijlage bij deze regeling, is uitdrukkelijk voorbehouden.  
+Het auteursrecht op het logo van de Nederlandse politie dat is opgenomen in de bijlage bij deze regeling, is uitdrukkelijk voorbehouden. 
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van 6 januari 1993. Deze regeling zal in de Staatscourant worden geplaatst, met uitzondering van de bijlage die ter inzage wordt gelegd.  
+Deze regeling treedt in werking met ingang van 6 januari 1993. Deze regeling zal in de Staatscourant worden geplaatst, met uitzondering van de bijlage die ter inzage wordt gelegd. 
 
 's-Gravenhage 
 23 december 1992    
 
 De 
 Minister van Justitie, a.i. 
-C. I.Dales. 
+C. I.Dales.
 
 De 
 Minister van Binnenlandse Zaken, 
-C. I.Dales    
+C. I. Dales      

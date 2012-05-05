@@ -16,15 +16,15 @@ Hebben goedgevonden en verstaan:
 ### Artikel  1  
 
 1.  Onverminderd de kosten van gerechtelijke vervolging en executie, geschiedt het verhaal van kosten van invordering van een uitkering, bedoeld in [artikel 408 van Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), door verhoging van die uitkering, zoals deze is vastgelegd in een rechterlijke beslissing, met een bedrag per maand van € 19,00 dan wel vijftienhonderdste deel van de uitkering, indien het deel meer is dan € 19,00.   
-2.  Indien door een onderhoudsgerechtigde of door een onderhoudsplichtige ten behoeve van meer dan één minderjarige of meerderjarige die de leeftijd van eenentwintig jaren nog niet heeft bereikt, een verzoek tot invordering van de uitkering is gedaan, wordt het verhaal van kosten overeenkomstig het eerste lid berekend over het totale bedrag van de uitkeringen.   
+2.   Indien door een onderhoudsgerechtigde of door een onderhoudsplichtige ten behoeve van meer dan één minderjarige of meerderjarige die de leeftijd van eenentwintig jaren nog niet heeft bereikt, een verzoek tot invordering van de uitkering is gedaan, wordt het verhaal van kosten overeenkomstig het eerste lid berekend over het totale bedrag van de uitkeringen.  
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag waarop de wet houdende wijziging van Boek 1 van het Burgerlijk Wetboek en van het Wetboek van Burgerlijke Rechtsvordering in verband met de advisering over en inning van kinderalimentaties in werking treedt.  
+Dit besluit treedt in werking met ingang van de dag waarop de wet houdende wijziging van Boek 1 van het Burgerlijk Wetboek en van het Wetboek van Burgerlijke Rechtsvordering in verband met de advisering over en inning van kinderalimentaties in werking treedt. 
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Besluit kostenopslag inning kinderalimentaties en partneralimentaties.  
+Dit besluit wordt aangehaald als: Besluit kostenopslag inning kinderalimentaties en partneralimentaties. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

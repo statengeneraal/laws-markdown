@@ -6,7 +6,7 @@ De Staatssecretaris van Landbouw, Natuurbeheer en Visserij,
 Gelet op [artikel 60, eerste, tweede en vierde lid, van de Flora -en faunawet](../../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);
 
 in overeenstemming met de gedeputeerde staten van de provincies Drenthe Utrecht en Friesland;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -20,25 +20,25 @@ In de periode van 1 maart tot en met 8 april kunnen gedeputeerde staten aan erke
 
 Gedeputeerde Staten kunnen ieder voorzover het hun provincie betreft samenwerkingsverbanden van weidevogelbeschermers erkennen indien zij: 
 
-a. de rechtsvorm van rechtspersoon als bedoeld in [artikel 2:3 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) bezitten en  
+a.  de rechtsvorm van rechtspersoon als bedoeld in [artikel 2:3 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) bezitten en  
 
-b. de zorg van het betreffende samenwerkingsverband zich uitstrekt over een gebied van minimaal 5000 ha. in de betreffende provincie dat is aangegeven op een kaart van 1:50.000.    
+b.  de zorg van het betreffende samenwerkingsverband zich uitstrekt over een gebied van minimaal 5000 ha. in de betreffende provincie dat is aangegeven op een kaart van 1:50.000.    
 
 ### Artikel  4  
 
 Onverminderd [artikel 60, derde lid, van de wet](../../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), worden aan de ontheffingen de volgende voorschriften verbonden: 
 
-a. het erkende samenwerkingsverband van weidevogelbeschermers verleent aan een ieder die daartoe een verzoek heeft ingediend toestemming voor het zoeken en het rapen van kievitseieren door afgifte van een persoonsgebonden en van een uniek nummer voorziene eierzoekkaart;  
+a.  het erkende samenwerkingsverband van weidevogelbeschermers verleent aan een ieder die daartoe een verzoek heeft ingediend toestemming voor het zoeken en het rapen van kievitseieren door afgifte van een persoonsgebonden en van een uniek nummer voorziene eierzoekkaart;  
 
-b. een houder van een eierzoekkaart als bedoeld in het eerste lid raapt in de in artikel 2 vastgestelde periode niet meer dan 15 eieren;  
+b.  een houder van een eierzoekkaart als bedoeld in het eerste lid raapt in de in artikel 2 vastgestelde periode niet meer dan 15 eieren;  
 
-c. het is verboden zich bij het zoeken en rapen van kievitseieren door één of meer honden te doen vergezellen;  
+c.  het is verboden zich bij het zoeken en rapen van kievitseieren door één of meer honden te doen vergezellen;  
 
-d. een eierzoekkaart wordt niet ver-strekt indien in enig voorafgaand jaar niet voldaan is aan de op grond van [artikel 60, derde lid, van de wet](../../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), verplichte beschermingsactiviteiten of indien misbruik, verkeerd gebruik of andere onregelmatigheden zijn geconstateerd;  
+d.  een eierzoekkaart wordt niet ver-strekt indien in enig voorafgaand jaar niet voldaan is aan de op grond van [artikel 60, derde lid, van de wet](../../../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), verplichte beschermingsactiviteiten of indien misbruik, verkeerd gebruik of andere onregelmatigheden zijn geconstateerd;  
 
-e. het erkende samenwerkingsverband van weidevogelbeschermers registreert de verstrekte eierzoekkaarten, het aantal geraapte eieren, en brengt de gevonden maar niet geraapte eieren, het aantal broedparen alsmede de aard en omvang van de beschermingsactiviteiten in kaart en;  
+e.  het erkende samenwerkingsverband van weidevogelbeschermers registreert de verstrekte eierzoekkaarten, het aantal geraapte eieren, en brengt de gevonden maar niet geraapte eieren, het aantal broedparen alsmede de aard en omvang van de beschermingsactiviteiten in kaart en;  
 
-f. uiterlijk 1 oktober van elk jaar worden de gegevens bedoeld onderdeel e, aan gedeputeerde staten van de betreffende provincie ter beschikking gesteld.    
+f.  uiterlijk 1 oktober van elk jaar worden de gegevens bedoeld onderdeel e, aan gedeputeerde staten van de betreffende provincie ter beschikking gesteld.    
 
 ### Artikel  5  
 
@@ -61,9 +61,9 @@ Deze regeling treedt in werking met ingang van 1 april 2002.
 
 ### Artikel  9  
 
-Deze regeling wordt aangehaald als: Regeling zoeken, rapen en beschermen van kievitseieren Flora -en faunawet.  
+Deze regeling wordt aangehaald als: Regeling zoeken, rapen en beschermen van kievitseieren Flora -en faunawet. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Staatssecretaris van Landbouw, Natuurbeheer en Visserij, 
-G.H.Faber    
+G.H.  Faber      

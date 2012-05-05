@@ -6,32 +6,32 @@ De Minister van Verkeer en Waterstaat,
 Handelende in overeenstemming met de Minister van Binnenlandse Zaken en Koninkrijksrelaties en het Departementaal Georganiseerd Overleg bij het Ministerie van Verkeer en Waterstaat;
 
 Gelet op de [artikelen 33e](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [69 van het Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);
-Besluit:     
-### Hoofdstuk  1  
+Besluit:      
+### Hoofdstuk 1  
 
-####Algemene Bepalingen
+####Algemene Bepalingen 
 
 ####Definities
 
-### Artikel  1  
+###Artikel 1 
 
-In deze regeling wordt verstaan onder:   a.  *nachtarbeid:*   arbeid tussen 22.00 uur en 06.00 uur;    b.  *medewerker:*   een ambtenaar die is aangesteld bij Rijkswaterstaat en belast is met een functie die het verrichten van nachtarbeid met zich brengt;    c.  *bevoegd gezag:*   de krachtens het vigerende mandaatbesluit van het directoraat-generaal Rijkswaterstaat bevoegde functionaris;    d.  *Pensioenreglement:*   het Pensioenreglement van de Stichting Pensioenfonds ABP;    e.  *FPU-reglement:*   het FPU-reglement basis- en aanvullende uitkering;    f.  *FPU-uitkering:*   een uitkering als bedoeld in artikel 1, aanhef en onder r, van het FPU-reglement;    g.  *FPU-suppletie:*   een suppletie op een FPU-uitkering als bedoeld in artikel 18, eerste lid, onder b, van het FPU-reglement;    h.  *voortzetten van pensioenopbouw:*   het voor de helft voortzetten van de opbouw voor ouderdoms- en nabestaandenpensioen overeenkomstig artikel 16.5 van het Pensioenreglement;    i.  *FPU-spilleeftijd:*   de eerste dag van de maand volgend op die waarin de medewerker: 
+In deze regeling wordt verstaan onder:a.*nachtarbeid:* arbeid tussen 22.00 uur en 06.00 uur;b.*medewerker:* een ambtenaar die is aangesteld bij Rijkswaterstaat en belast is met een functie die het verrichten van nachtarbeid met zich brengt;c.*bevoegd gezag:* de krachtens het vigerende mandaatbesluit van het directoraat-generaal Rijkswaterstaat bevoegde functionaris;d.*Pensioenreglement:* het Pensioenreglement van de Stichting Pensioenfonds ABP;e.*FPU-reglement:* het FPU-reglement basis- en aanvullende uitkering;f.*FPU-uitkering:* een uitkering als bedoeld in artikel 1, aanhef en onder r, van het FPU-reglement;g.*FPU-suppletie:* een suppletie op een FPU-uitkering als bedoeld in artikel 18, eerste lid, onder b, van het FPU-reglement;h.*voortzetten van pensioenopbouw:* het voor de helft voortzetten van de opbouw voor ouderdoms- en nabestaandenpensioen overeenkomstig artikel 16.5 van het Pensioenreglement;i.*FPU-spilleeftijd:* de eerste dag van de maand volgend op die waarin de medewerker:
 
-1º. de leeftijd van 61 jaar bereikt, indien hij uiterlijk op 1 april 1947 is geboren;  
+1º. de leeftijd van 61 jaar bereikt, indien hij uiterlijk op 1 april 1947 is geboren;
 
-2º. de leeftijd van 62 jaar bereikt, indien hij na 1 april 1947 is geboren;      j.  *FPU-ontslag:*   een volledig ontslag van een medewerker waarna betrokkene een FPU-uitkering gaat genieten.     
+2º.de leeftijd van 62 jaar bereikt, indien hij na 1 april 1947 is geboren;j.*FPU-ontslag:* een volledig ontslag van een medewerker waarna betrokkene een FPU-uitkering gaat genieten. 
 
 ####Deelname
 
-### Artikel  2  
+###Artikel 2 
 
-1.  Een medewerker die na het bereiken van de leeftijd van 55 jaar nachtarbeid verricht overeenkomstig de gebruikelijke werktijdregeling die geldt voor medewerkers die met dezelfde of een vergelijkbare functie zijn belast, komt op zijn aanvraag in aanmerking voor toepassing van artikel 3 dan wel van de artikelen 4 tot en met 8.   
-2.  Een medewerker die een functie vervult die krachtens [artikel 97, eerste lid, van het Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) is aangemerkt als substantieel bezwarend, kan slechts in aanmerking komen voor toepassing van artikel 3.   
-3.  De toepassing van artikel 3 dan wel van de artikelen 4 tot en met 8 gaat niet eerder in dan vier maanden nadat de aanvraag van de medewerker door het bevoegd gezag is ontvangen. Het bevoegd gezag kan de toepassing eerder in laten gaan indien het dienstbelang daarbij is gebaat.   
-4.  De medewerker kan slechts eenmalig een aanvraag indienen.   
-5.  In bijzondere gevallen waarin naar het oordeel van het bevoegd gezag bij toewijzing van de aanvraag de huidige of nieuwe werkgelegenheid in gevaar komt, kan het bevoegd gezag een aanvraag afwijzen of pas op termijn toewijzen.   
+1. Een medewerker die na het bereiken van de leeftijd van 55 jaar nachtarbeid verricht overeenkomstig de gebruikelijke werktijdregeling die geldt voor medewerkers die met dezelfde of een vergelijkbare functie zijn belast, komt op zijn aanvraag in aanmerking voor toepassing van artikel 3 dan wel van de artikelen 4 tot en met 8.
+2. Een medewerker die een functie vervult die krachtens [artikel 97, eerste lid, van het Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) is aangemerkt als substantieel bezwarend, kan slechts in aanmerking komen voor toepassing van artikel 3.
+3. De toepassing van artikel 3 dan wel van de artikelen 4 tot en met 8 gaat niet eerder in dan vier maanden nadat de aanvraag van de medewerker door het bevoegd gezag is ontvangen. Het bevoegd gezag kan de toepassing eerder in laten gaan indien het dienstbelang daarbij is gebaat.
+4. De medewerker kan slechts eenmalig een aanvraag indienen.
+5. In bijzondere gevallen waarin naar het oordeel van het bevoegd gezag bij toewijzing van de aanvraag de huidige of nieuwe werkgelegenheid in gevaar komt, kan het bevoegd gezag een aanvraag afwijzen of pas op termijn toewijzen. 
 
-### Hoofdstuk  2  
+### Hoofdstuk 2  
 
 ####De uren-faciliteit
 
@@ -44,11 +44,11 @@ In deze regeling wordt verstaan onder:   a.  *nachtarbeid:*   arbeid tussen 22.0
 3.  Bij de gewerkte uren nachtarbeid worden meegeteld uren waarop de medewerker nachtarbeid zou hebben verricht maar deze niet heeft verricht door ziekte, vakantie, uitoefening van taken in het kader van de medezeggenschap of het georganiseerd overleg dan wel buitengewoon verlof met behoud van de bezoldiging of een deel daarvan.   
 4.  De opbouw van de aanspraak wordt opgeschort nadat de medewerker gedurende 26 kalenderweken niet daadwerkelijk nachtarbeid heeft verricht waarbij een hervatting van de nachtarbeid gedurende vier kalenderweken of minder geen nieuwe periode van 26 kalenderweken inluidt. Bij gehele of gedeeltelijke hervatting van de nachtarbeid wordt de opbouw van de aanspraak hervat.   
 
-### Hoofdstuk  3  
+### Hoofdstuk 3  
 
 ####De FPU-faciliteit
 
-####FPU-suppletie
+####FPU-suppletie 
 
 ### Artikel  4  
 
@@ -72,9 +72,9 @@ In deze regeling wordt verstaan onder:   a.  *nachtarbeid:*   arbeid tussen 22.0
 4.  De FPU-suppletie, de FPU-uitkering en een eventuele verhoging van de FPU-uitkering als gevolg van een individuele aanvullende regeling, zullen tezamen niet hoger zijn dan 85% van de grondslag, die geldt voor de vaststelling van de FPU-uitkering van de medewerker.   
 5.  Bij de berekening van de FPU-suppletie blijft buiten beschouwing een verlaging van de FPU-uitkering omdat: 
 
-a. de medewerker aanspraken niet opneemt met de bedoeling deze om te zetten in recht op ouderdoms- of nabestaandenpensioen; en  
+a.  de medewerker aanspraken niet opneemt met de bedoeling deze om te zetten in recht op ouderdoms- of nabestaandenpensioen; en 
 
-b. het bedrag van de aanspraak op de FPU-uitkering wordt verminderd in verband met inkomsten naast de FPU-uitkering.     
+b.  het bedrag van de aanspraak op de FPU-uitkering wordt verminderd in verband met inkomsten naast de FPU-uitkering.    
 6.  Het recht op betaling van de FPU-suppletie eindigt met ingang van de dag volgend op die waarop het recht op FPU-uitkering eindigt.   
 
 ### Artikel  6  
@@ -83,16 +83,16 @@ b. het bedrag van de aanspraak op de FPU-uitkering wordt verminderd in verband m
 2.  De eenmalige betaling is gelijk aan de waarde van de overeenkomstig artikel 4 vastgestelde aanspraak.   
 3.  Indien met een overeenkomstig het tweede lid berekende eenmalige betaling de fiscale grenzen voor opbouw van pensioen zouden worden overschreden, is de eenmalige betaling gelijk aan het maximale bedrag dat volgens de fiscale regelgeving kan worden aangewend voor opbouw van pensioen.   
 
-####Voortzetting pensioenopbouw
+####Voortzetting pensioenopbouw 
 
 ### Artikel  7  
 
 1.  Namens een medewerker die in aanmerking komt voor een FPU-suppletie, wordt op diens aanvraag met ingang van het tijdstip van zijn FPU-ontslag de premie betaald voor het voortzetten van pensioenopbouw.   
 2.  Het recht op betaling van de premie eindigt met ingang van de dag volgend op die waarop: 
 
-a. tweemaal het overeenkomstig artikel 4 vastgestelde aantal maanden aanspraak is verstreken met een maximum van 48 maanden; of  
+a.  tweemaal het overeenkomstig artikel 4 vastgestelde aantal maanden aanspraak is verstreken met een maximum van 48 maanden; of 
 
-b. het recht op FPU-uitkering eindigt.     
+b.  het recht op FPU-uitkering eindigt.    
 
 ### Artikel  8  
 
@@ -100,73 +100,73 @@ b. het recht op FPU-uitkering eindigt.
 2.  De eenmalige betaling is gelijk aan de waarde van de overeenkomstig artikel 7 vastgestelde aanspraak.   
 3.  Indien met een overeenkomstig het tweede lid berekende eenmalige betaling de fiscale grenzen voor opbouw van pensioen zouden worden overschreden, is de eenmalige betaling gelijk aan het maximale bedrag dat volgens de fiscale regelgeving kan worden aangewend voor opbouw van pensioen.   
 
-### Hoofdstuk  4  
+### Hoofdstuk 4  
 
 ####Slotbepalingen
 
-####Hardheidsclausule
+####Hardheidsclausule 
 
 ### Artikel  9  
 
 Het bevoegd gezag kan ten gunste van een medewerker bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voorzover toepassing, gelet op het belang dat deze regeling beoogt te dienen, zal leiden tot een onbillijkheid van overwegende aard.  
 
-####Overgangsbepalingen
+####Overgangsbepalingen 
 
 ### Artikel  10  
 
 Een aanvraag als bedoeld in artikel 2, eerste lid, die voor 1 april 2001 is ingediend door een medewerker die op 1 februari 2001 55 jaar of ouder is, kan niet worden afgewezen op de in artikel 2, vijfde lid, genoemde grond.  
 
-### Artikel  11  
+###Artikel 11 
 
-1.  In afwijking van de artikelen 4 tot en met 7, heeft een medewerker: 
+1. In afwijking van de artikelen 4 tot en met 7, heeft een medewerker:
 
-a. die op 1 februari 2001 59,5 jaar of ouder is; en  
+a. die op 1 februari 2001 59,5 jaar of ouder is; en
 
-b. aan wie ten minste drie maanden na de dag waarop zijn aanvraag om FPU-ontslag is ingekomen, FPU-ontslag wordt verleend met ingang van een dag niet eerder dan 1 mei 2001 en niet eerder dan de eerste dag van de maand volgend op die waarin hij de leeftijd van 60 jaar bereikt en niet later dan de eerste dag van de maand volgend op die waarin hij de leeftijd van 61 jaar bereikt,   met ingang van het tijdstip van zijn FPU-ontslag op diens aanvraag aanspraak op een FPU-suppletie en het namens hem betalen van de premie voor het voortzetten van pensioenopbouw overeenkomstig het tweede lid.   
-2.  De medewerker wordt op het tijdstip waarop hem FPU-ontslag wordt verleend, geacht gedurende vijf jaar nachtarbeid te hebben verricht overeenkomstig de gebruikelijke werktijdregeling die in die periode gold voor medewerkers die met dezelfde of een vergelijkbare functie waren belast. Het aantal maanden aanspraak als bedoeld in de artikel 4 waarop de medewerker aldus aanspraak heeft, is ten hoogste gelijk aan het aantal maanden dat gelegen is tussen het tijdstip waarop de medewerker met FPU-ontslag gaat en de eerste dag van de maand volgend op die waarin hij de leeftijd van 61 jaar bereikt.   
+b. aan wie ten minste drie maanden na de dag waarop zijn aanvraag om FPU-ontslag is ingekomen, FPU-ontslag wordt verleend met ingang van een dag niet eerder dan 1 mei 2001 en niet eerder dan de eerste dag van de maand volgend op die waarin hij de leeftijd van 60 jaar bereikt en niet later dan de eerste dag van de maand volgend op die waarin hij de leeftijd van 61 jaar bereikt,met ingang van het tijdstip van zijn FPU-ontslag op diens aanvraag aanspraak op een FPU-suppletie en het namens hem betalen van de premie voor het voortzetten van pensioenopbouw overeenkomstig het tweede lid.
+2. De medewerker wordt op het tijdstip waarop hem FPU-ontslag wordt verleend, geacht gedurende vijf jaar nachtarbeid te hebben verricht overeenkomstig de gebruikelijke werktijdregeling die in die periode gold voor medewerkers die met dezelfde of een vergelijkbare functie waren belast. Het aantal maanden aanspraak als bedoeld in de artikel 4 waarop de medewerker aldus aanspraak heeft, is ten hoogste gelijk aan het aantal maanden dat gelegen is tussen het tijdstip waarop de medewerker met FPU-ontslag gaat en de eerste dag van de maand volgend op die waarin hij de leeftijd van 61 jaar bereikt. 
 
-### Artikel  12  
+###Artikel 12 
 
-1.  In afwijking van de artikelen 4 tot en met 7, gelden het tweede en derde lid voor een medewerker: 
+1. In afwijking van de artikelen 4 tot en met 7, gelden het tweede en derde lid voor een medewerker:
 
-a. die op 1 februari 2001 55 jaar of ouder maar jonger dan 59,5 jaar is; en  
+a. die op 1 februari 2001 55 jaar of ouder maar jonger dan 59,5 jaar is; en
 
-b. die voor 1 april 2001 een aanvraag als bedoeld in artikel 2 indient voor toepassing van de artikelen 4 tot en met 8; en  
+b. die voor 1 april 2001 een aanvraag als bedoeld in artikel 2 indient voor toepassing van de artikelen 4 tot en met 8; en
 
-c. die daarna zo spoedig mogelijk en zo lang als arbeidsgezondheidskundig verantwoord is nachtarbeid verricht, met een minimum van 7,5 maanden dan wel tot de eerste dag van de maand volgend op die waarin hij de leeftijd van 60 jaar bereikt; en  
+c. die daarna zo spoedig mogelijk en zo lang als arbeidsgezondheidskundig verantwoord is nachtarbeid verricht, met een minimum van 7,5 maanden dan wel tot de eerste dag van de maand volgend op die waarin hij de leeftijd van 60 jaar bereikt; en
 
-d. aan wie FPU-ontslag wordt verleend met ingang van een dag niet eerder dan de eerste dag van de maand volgend op die waarin hij de leeftijd van 60 jaar bereikt en niet later dan de eerste dag van de maand volgend op die waarin hij de leeftijd van 61 jaar bereikt.     
-2.  Indien 
+d. aan wie FPU-ontslag wordt verleend met ingang van een dag niet eerder dan de eerste dag van de maand volgend op die waarin hij de leeftijd van 60 jaar bereikt en niet later dan de eerste dag van de maand volgend op die waarin hij de leeftijd van 61 jaar bereikt.
+2. Indien
 
-a. nachtarbeid 11,5% of meer van de werktijd van de medewerker pleegt uit te maken; en  
+a. nachtarbeid 11,5% of meer van de werktijd van de medewerker pleegt uit te maken; en
 
-b. hij, als gevolg van zijn leeftijd op het tijdstip van inwerkingtreding van deze regeling in combinatie met zijn percentage nachtarbeid, niet in staat is om overeenkomstig artikel 4 op de eerste dag van de maand volgend op die waarin hij de leeftijd van 60 jaar bereikt, een aanspraak van 12 maanden te hebben opgebouwd,   komt hij met ingang van het tijdstip van zijn FPU-ontslag op diens aanvraag in aanmerking voor: 
+b. hij, als gevolg van zijn leeftijd op het tijdstip van inwerkingtreding van deze regeling in combinatie met zijn percentage nachtarbeid, niet in staat is om overeenkomstig artikel 4 op de eerste dag van de maand volgend op die waarin hij de leeftijd van 60 jaar bereikt, een aanspraak van 12 maanden te hebben opgebouwd,komt hij met ingang van het tijdstip van zijn FPU-ontslag op diens aanvraag in aanmerking voor:
 
-1º. een zodanige FPU-suppletie dat de FPU-suppletie tezamen met de FPU-uitkering gelijk is aan de FPU-uitkering die hij zou hebben ontvangen bij FPU-ontslag met ingang van de eerste dag van de maand volgend op die waarin hij de leeftijd van 61 jaar bereikt; en  
+1º.een zodanige FPU-suppletie dat de FPU-suppletie tezamen met de FPU-uitkering gelijk is aan de FPU-uitkering die hij zou hebben ontvangen bij FPU-ontslag met ingang van de eerste dag van de maand volgend op die waarin hij de leeftijd van 61 jaar bereikt; en
 
-2º. het namens hem betalen van de premie voor voortzetten van pensioenopbouw gedurende tweemaal het aantal maanden dat hem FPU-ontslag is verleend voorafgaand aan de eerste dag van de maand volgend op die waarin hij de leeftijd van 61 jaar bereikt.     
-3.  Indien nachtarbeid minder dan 11,5% van de werktijd van de medewerker pleegt uit te maken, wordt hij op het tijdstip waarop hem FPU-ontslag wordt verleend, geacht gedurende vijf jaar nachtarbeid te hebben verricht overeenkomstig de gebruikelijke werktijdregeling die gold voor medewerkers die met dezelfde of een vergelijkbare functie waren belast. Het aantal maanden aanspraak als bedoeld in de artikel 4 waarop de medewerker aldus aanspraak heeft, is ten hoogste gelijk aan het aantal maanden dat gelegen is tussen het tijdstip waarop de medewerker met FPU-ontslag gaat en de eerste dag van de maand volgend op die waarin hij de leeftijd van 61 jaar bereikt.   
+2º.het namens hem betalen van de premie voor voortzetten van pensioenopbouw gedurende tweemaal het aantal maanden dat hem FPU-ontslag is verleend voorafgaand aan de eerste dag van de maand volgend op die waarin hij de leeftijd van 61 jaar bereikt.
+3. Indien nachtarbeid minder dan 11,5% van de werktijd van de medewerker pleegt uit te maken, wordt hij op het tijdstip waarop hem FPU-ontslag wordt verleend, geacht gedurende vijf jaar nachtarbeid te hebben verricht overeenkomstig de gebruikelijke werktijdregeling die gold voor medewerkers die met dezelfde of een vergelijkbare functie waren belast. Het aantal maanden aanspraak als bedoeld in de artikel 4 waarop de medewerker aldus aanspraak heeft, is ten hoogste gelijk aan het aantal maanden dat gelegen is tussen het tijdstip waarop de medewerker met FPU-ontslag gaat en de eerste dag van de maand volgend op die waarin hij de leeftijd van 61 jaar bereikt. 
 
-### Artikel  13  
+###Artikel 13 
 
-1.  Een medewerker: 
+1. Een medewerker:
 
-a. die op 1 februari 2001 55 jaar of ouder maar jonger dan 59,5 jaar is; en  
+a. die op 1 februari 2001 55 jaar of ouder maar jonger dan 59,5 jaar is; en
 
-b. die voor 1 april 2001 een aanvraag als bedoeld in artikel 2 indient voor toepassing van artikel 3; en  
+b. die voor 1 april 2001 een aanvraag als bedoeld in artikel 2 indient voor toepassing van artikel 3; en
 
-c. die daarna zo spoedig mogelijk en zo lang als arbeidsgezondheidskundig verantwoord is nachtarbeid verricht, met een minimum van 7,5 maanden dan wel tot de eerste dag van de maand volgend op die waarin hij de leeftijd van 60 jaar bereikt; en  
+c. die daarna zo spoedig mogelijk en zo lang als arbeidsgezondheidskundig verantwoord is nachtarbeid verricht, met een minimum van 7,5 maanden dan wel tot de eerste dag van de maand volgend op die waarin hij de leeftijd van 60 jaar bereikt; en
 
-d. aan wie FPU-ontslag wordt verleend met ingang van een dag niet eerder dan de eerste dag van de maand volgend op die waarin hij de leeftijd van 60 jaar bereikt en niet later dan de eerste dag van de maand volgend op die waarin hij de leeftijd van 61 jaar bereikt,   heeft met ingang van het tijdstip van zijn FPU-ontslag op diens aanvraag aanspraak op een FPU-suppletie en het namens hem betalen van de premie voor het voortzetten van pensioenopbouw.   
-2.  De in het eerste lid bedoelde aanspraak is gelijk aan de extra aanspraak die betrokkene aan artikel 12 zou hebben ontleend indien hij voor 1 april 2001 een aanvraag als bedoeld in artikel 2 had ingediend voor toepassing van de artikelen 4 tot en met 8 en overeenkomstig die artikelen was gehandeld.   
+d. aan wie FPU-ontslag wordt verleend met ingang van een dag niet eerder dan de eerste dag van de maand volgend op die waarin hij de leeftijd van 60 jaar bereikt en niet later dan de eerste dag van de maand volgend op die waarin hij de leeftijd van 61 jaar bereikt,heeft met ingang van het tijdstip van zijn FPU-ontslag op diens aanvraag aanspraak op een FPU-suppletie en het namens hem betalen van de premie voor het voortzetten van pensioenopbouw.
+2. De in het eerste lid bedoelde aanspraak is gelijk aan de extra aanspraak die betrokkene aan artikel 12 zou hebben ontleend indien hij voor 1 april 2001 een aanvraag als bedoeld in artikel 2 had ingediend voor toepassing van de artikelen 4 tot en met 8 en overeenkomstig die artikelen was gehandeld. 
 
-####Evaluatie
+####Evaluatie 
 
 ### Artikel  14  
 
 Twee jaar na het tijdstip van inwerkingtreding van deze regeling evalueert de directeur-generaal Rijkswaterstaat in overleg met het Departementaal Georganiseerd Overleg bij het Ministerie van Verkeer en Waterstaat de doeltreffendheid en de effecten van deze regeling in de praktijk.  
 
-####Inwerkingtreding en looptijd
+####Inwerkingtreding en looptijd 
 
 ### Artikel  15  
 
@@ -174,17 +174,17 @@ Twee jaar na het tijdstip van inwerkingtreding van deze regeling evalueert de di
 2.  Aanvragen als bedoeld in artikel 2 kunnen worden ingediend tot en met 15 december 2003.   
 3.  Indien de periode gedurende welke aanvragen kunnen worden ingediend niet wordt verlengd, staakt het bevoegd gezag ten aanzien van een medewerker de toepassing van artikel 3 dan wel het opbouwen van aanspraken overeenkomstig de artikelen 4 en 7 nadat betrokkene vijf jaar voor die toepassing respectievelijk die opbouw in aanmerking is gekomen.   
 
-####Citeertitel
+####Citeertitel 
 
 ### Artikel  16  
 
-Deze regeling wordt aangehaald als: Tijdelijke beloningsregeling nachtarbeid 55-plussers RWS.  
+Deze regeling wordt aangehaald als: Tijdelijke beloningsregeling nachtarbeid 55-plussers RWS. 
 
 De 
-Minister van Verkeer en Waterstaat, 
+Minister van Verkeer en Waterstaat,  
 
-namens deze, 
+namens deze,  
 
 de 
 directeur-generaal Rijkswaterstaat, 
-H.Prins    
+H. Prins     

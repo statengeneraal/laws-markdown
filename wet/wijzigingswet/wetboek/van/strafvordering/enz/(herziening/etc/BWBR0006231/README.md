@@ -11,23 +11,23 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I-III  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
 
-De artikelen I tot en met III hebben geen gevolgen voor procedures die reeds aanhangig zijn voor het tijdstip van inwerkingtreding van deze wet.  
+De artikelen I tot en met III hebben geen gevolgen voor procedures die reeds aanhangig zijn voor het tijdstip van inwerkingtreding van deze wet. 
 
 ### Artikel  V  
 
-Deze wet treedt in werking met ingang van de tweede kalendermaand na de datum van uitgifte van het *Staatsblad*, waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de tweede kalendermaand na de datum van uitgifte van het *Staatsblad*, waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

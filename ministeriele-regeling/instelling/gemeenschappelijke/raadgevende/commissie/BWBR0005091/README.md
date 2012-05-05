@@ -10,11 +10,11 @@ Besluit:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder:   ESA:  het Europees Ruimte Agentschap (European Space Agency);    ESTEC:  het Europese Centrum voor ruimtevaarttechniek (European Space Research and Technology Centre);    IWWON:  Interdepartementale Werkgroep Werving en Opvang van internationale organisaties in Nederland;    commissie;  de in artikel 2 bedoelde commissie.     
+In dit besluit wordt verstaan onder:   ESA:   het Europees Ruimte Agentschap (European Space Agency);    ESTEC:   het Europese Centrum voor ruimtevaarttechniek (European Space Research and Technology Centre);    IWWON:   Interdepartementale Werkgroep Werving en Opvang van internationale organisaties in Nederland;    commissie;  de in artikel 2 bedoelde commissie.    
 
 ### Artikel  2  
 
-Er is een commissie ten behoeve van overleg tussen ESTEC en de Nederlandse overheid, genaamd Gemeenschappelijke Raadgevende Commissie.  
+Er is een commissie ten behoeve van overleg tussen ESTEC en de Nederlandse overheid, genaamd Gemeenschappelijke Raadgevende Commissie. 
 
 ### Artikel  3  
 
@@ -28,7 +28,7 @@ c. de door ESTEC ondervonden of voorziene knelpunten, die het directe gevolg vor
 
 d. de in onderdeel c genoemde knelpunten, voor zover deze algemeen gelden voor in Nederland gevestigde internationale organisaties, eveneens onder de aandacht te brengen van de IWWON, waarbij aan de IWWON en ESTEC verzocht kan worden daarover rechtstreeks te overleggen;  
 
-e. indien zij daartoe termen aanwezig acht, aanbevelingen te doen aan de Nederlandse autoriteiten over maatregelen die zij van belang acht voor de verdere ontwikkeling van de relatie tussen ESTEC en Nederland.    
+e. indien zij daartoe termen aanwezig acht, aanbevelingen te doen aan de Nederlandse autoriteiten over maatregelen die zij van belang acht voor de verdere ontwikkeling van de relatie tussen ESTEC en Nederland.   
 
 ### Artikel  4  
 
@@ -61,13 +61,13 @@ d. als vertegenwoordiger van het Ministerie van Onderwijs en Wetenschappen: dr. 
 e. als vertegenwoordiger van de gemeente Noordwijk: drs. J.W. van der Sluijs;  
 
 f. als onafhankelijke deskundige: mr. H.E. Koning.     
-4.  De Minister van Economische Zaken en de directeur-generaal ESA voorzien gezamenlijk in het secretariaat.   
+4.  De Minister van Economische Zaken en de directeur-generaal ESA voorzien gezamenlijk in het secretariaat.  
 
 ### Artikel  5  
 
 1.  De commissie stelt haar eigen werkwijze vast.   
 2.  Bij de uitvoering van haar taak dient de commissie nauw samen te werken met de bevoegde Nederlandse autoriteiten.   
-3.  Zo nodig bevordert de commissie dat rechtstreeks overleg plaatsvindt tussen ESTEC en de betrokken Nederlandse autoriteiten.   
+3.  Zo nodig bevordert de commissie dat rechtstreeks overleg plaatsvindt tussen ESTEC en de betrokken Nederlandse autoriteiten.  
 
 ### Artikel  6  
 
@@ -75,24 +75,24 @@ Ter uitvoering van haar taak kan de commissie onder meer:
 
 a. zich rechtstreeks tot derden wenden tot het verkrijgen van de informatie die zij behoeft;  
 
-b. daarvoor in aanmerking komende personen ter vergadering uitnodigen om hun mening uiteen te zetten of inlichtingen te verstrekken.    
+b. daarvoor in aanmerking komende personen ter vergadering uitnodigen om hun mening uiteen te zetten of inlichtingen te verstrekken.   
 
 ### Artikel  7  
 
-De commissie komt ten minste tweemaal per jaar bijeen.  
+De commissie komt ten minste tweemaal per jaar bijeen. 
 
 ### Artikel  8  
 
-De commissie brengt ten minste eenmaal per jaar verslag uit over de betrekkingen tussen ESTEC en de Nederlandse overheid aan de Minister van Economische Zaken, in diens hoedanigheid van coördinerend minister voor de ruimtevaart.  
+De commissie brengt ten minste eenmaal per jaar verslag uit over de betrekkingen tussen ESTEC en de Nederlandse overheid aan de Minister van Economische Zaken, in diens hoedanigheid van coördinerend minister voor de ruimtevaart. 
 
 ### Artikel  10  
 
-Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken. De bescheiden worden na beëindiging van de werkzaamheden van de commissie opgeborgen in het archief van dat ministerie.  
+Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken. De bescheiden worden na beëindiging van de werkzaamheden van de commissie opgeborgen in het archief van dat ministerie. 
 
 ### Artikel  11  
 
 1.  Dit besluit wordt bekendgemaakt in de Staatscourant.   
-2.  Het treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.   
+2.  Het treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
 Afschrift van dit besluit zal worden gezonden aan de Algemene Rekenkamer.   
 
 's-Gravenhage 
@@ -100,4 +100,4 @@ Afschrift van dit besluit zal worden gezonden aan de Algemene Rekenkamer.
 
 De 
 Minister van Economische Zaken, 
-J.E.Andriessen    
+J.E. Andriessen      

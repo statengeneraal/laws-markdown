@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Als verrekeningskamers in den zin van den zesden en den zevenden Titel van het eerste Boek van het Wetboek van Koophandel worden beschouwd de verrekeningskamers bij de Nederlandsche Bank te Amsterdam, bij de Bijbank van de Nederlandsche Bank te Rotterdam en bij het Agentschap van de Nederlandsche Bank te 's-Gravenhage.  
+Als verrekeningskamers in den zin van den zesden en den zevenden Titel van het eerste Boek van het Wetboek van Koophandel worden beschouwd de verrekeningskamers bij de Nederlandsche Bank te Amsterdam, bij de Bijbank van de Nederlandsche Bank te Rotterdam en bij het Agentschap van de Nederlandsche Bank te 's-Gravenhage. 
 
 ### Artikel  II  
 
-Dit besluit treedt in werking met ingang van den tienden dag na dien der dagteekening van het *Staatsblad*, waarin het is geplaatst.  
+Dit besluit treedt in werking met ingang van den tienden dag na dien der dagteekening van het *Staatsblad*, waarin het is geplaatst. 
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan den Raad van State.   
 

@@ -11,39 +11,39 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt het Wetboek van Strafvordering.   
+Wijzigt het Wetboek van Strafvordering.  
 
 ### Artikel  II  
 
-De wijziging van de termijn waarop getuigen aan de officier van justitie kunnen worden opgegeven, als vervat in artikel I, onderdeel B, is niet van toepassing in zaken waarin de dagvaarding is betekend op het tijdstip waarop deze wet in werking treedt.  
+De wijziging van de termijn waarop getuigen aan de officier van justitie kunnen worden opgegeven, als vervat in artikel I, onderdeel B, is niet van toepassing in zaken waarin de dagvaarding is betekend op het tijdstip waarop deze wet in werking treedt. 
 
 ### Artikel  III  
 
-Wijzigt de Wijzigingswet Wetboek van Strafvordering (openstellen van beroep in cassatie tegen vrijspraken).   
+Wijzigt de Wijzigingswet Wetboek van Strafvordering (openstellen van beroep in cassatie tegen vrijspraken).  
 
 ### Artikel  IV  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.  
 
 ### Artikel  V  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.  
 
 ### Artikel  VI  
 
-Wijzigt het Wijzigingswet Wetboek van Strafrecht enz. (toezeggingen aan getuigen in strafzaken), kst. 26294.   
+Wijzigt het Wijzigingswet Wetboek van Strafrecht enz. (toezeggingen aan getuigen in strafzaken), kst. 26294.  
 
 ### Artikel  VII  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.  
 
 ### Artikel  VIII  
 
-Wijzigt het Wijzigingswet Wetboek van Strafrecht enz. (aanpassing ontnemingswetgeving), kst. 28079.   
+Wijzigt het Wijzigingswet Wetboek van Strafrecht enz. (aanpassing ontnemingswetgeving), kst. 28079.  
 
 ### Artikel  IX  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -57,4 +57,4 @@ J. P. H. Donner
 de vijftiende april 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

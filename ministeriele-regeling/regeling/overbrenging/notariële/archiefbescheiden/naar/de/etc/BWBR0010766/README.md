@@ -4,11 +4,11 @@
 
 De Staatssecretaris van Justitie en de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen dr. F. van der Ploeg,  
 Gelet op artikel 59, tweede lid, van de Wet op het notarisambt,
-Besluiten:    
+Besluiten:     
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. wet:  de Wet op het notarisambt;    b. algemene bewaarplaats:  de algemene bewaarplaats, bedoeld in artikel 57, eerste lid, van de wet;    c. bewaarder:  de bewaarder, bedoeld in artikel 57, tweede lid, van de wet;    d. kamer van toezicht:  de kamer van toezicht, bedoeld in artikel 93 van de wet;    e. beheerder:  de beheerder van de bij of krachtens de [Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) aangewezen rijksarchiefbewaarplaats.     
+In deze regeling wordt verstaan onder: a. wet:   de Wet op het notarisambt;  b.  algemene bewaarplaats:   de algemene bewaarplaats, bedoeld in artikel 57, eerste lid, van de wet;  c.  bewaarder:   de bewaarder, bedoeld in artikel 57, tweede lid, van de wet;  d. kamer van toezicht:   de kamer van toezicht, bedoeld in artikel 93 van de wet;  e. beheerder:   de beheerder van de bij of krachtens de [Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) aangewezen rijksarchiefbewaarplaats.    
 
 ### Artikel  2  
 
@@ -22,7 +22,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  4  
 
-Deze regeling wordt aangehaald als: Regeling overbrenging notariële archiefbescheiden naar de rijksarchiefbewaarplaats.  
+Deze regeling wordt aangehaald als: Regeling overbrenging notariële archiefbescheiden naar de rijksarchiefbewaarplaats. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -30,8 +30,8 @@ Den Haag
 
 De 
 Staatssecretaris van Justitie, 
-M.J.Cohen 
+M.J. Cohen   
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, 
-F. van derPloeg    
+F. van derPloeg     

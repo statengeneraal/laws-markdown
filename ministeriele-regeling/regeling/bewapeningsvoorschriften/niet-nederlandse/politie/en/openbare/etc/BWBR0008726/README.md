@@ -4,7 +4,7 @@
 
 De Ministers van Justitie en van Binnenlandse Zaken,  
 Gelet op de artikelen 3a, tweede, derde en vierde lid, 14, eerste lid, 22, eerste lid, 26, eerste lid, en 27 eerste lid, van de Wet wapens en munitie;
-Besluiten:    
+Besluiten:     
 
 ### Artikel  1  
 
@@ -20,7 +20,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  4  
 
-Deze regeling kan worden aangehaald als Regeling bewapeningsvoorschriften niet-Nederlandse politie en openbare dienst.  
+Deze regeling kan worden aangehaald als Regeling bewapeningsvoorschriften niet-Nederlandse politie en openbare dienst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -28,8 +28,8 @@ Den Haag
 
 De 
 Minister van Justitie, 
-W.Sorgdrager 
+W. Sorgdrager  
 
 De 
 Minister van Binnenlandse Zaken, 
-H.F.Dijkstal    
+H.F.Dijkstal      

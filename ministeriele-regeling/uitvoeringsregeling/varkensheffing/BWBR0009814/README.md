@@ -8,14 +8,14 @@ Gelet op de [artikelen 1, vierde lid](../../../../wet/gezondheids-/en/welzijnswe
 Gelet op de [artikelen 3, eerste lid](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [6, eerste en derde lid](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [8, eerste lid](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [13, eerste lid](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [56](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [62 van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);
 
 Gelet op de [artikelen 5](../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [31 van de Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md);
-Besluit:     
-### Paragraaf  1  
+Besluit:      
+### Paragraaf 1  
 
 ####Bevoegdheden
 
 ### Artikel  1  
 
-Deze regeling heeft betrekking op de in [hoofdstuk VIII van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) geregelde varkensheffing.  
+Deze regeling heeft betrekking op de in [hoofdstuk VIII van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) geregelde varkensheffing. 
 
 ### Artikel  2  
 
@@ -23,7 +23,7 @@ In deze regeling wordt onder Bureau Heffingen verstaan: Bureau Heffingen van het
 
 ### Artikel  3  
 
-1.  Met betrekking tot de varkensheffing gelden de bevoegdheden en verplichtingen van de hierna vermelde, in de [Algemene wet inzake rijksbelastingen](../../../../wet/invorderingswet/1990/BWBR0004770/README.md), de [Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de [Kostenwet invordering rijksbelastingen](../../../../wet/kostenwet/invordering/rijksbelastingen/BWBR0002645/README.md) genoemde, functionarissen, voor de daarachter genoemde functionarissen:   a. de directeur:  de directeur Financieel-Economische Zaken van het Ministerie van Landbouw, Natuurbeheer en Visserij;    b. de inspecteur:  de inspecteur van het Bureau Heffingen;    c. de ontvanger:  de ontvanger van het Bureau Heffingen;    d. de ambtenaren van de rijksbelastingdienst:  de ambtenaren van het Bureau Heffingen en de ambtenaren van de Algemene Inspectiedienst van het Ministerie van Landbouw, Natuurbeheer en Visserij.      
+1.  Met betrekking tot de varkensheffing gelden de bevoegdheden en verplichtingen van de hierna vermelde, in de [Algemene wet inzake rijksbelastingen](../../../../wet/invorderingswet/1990/BWBR0004770/README.md), de [Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de [Kostenwet invordering rijksbelastingen](../../../../wet/kostenwet/invordering/rijksbelastingen/BWBR0002645/README.md) genoemde, functionarissen, voor de daarachter genoemde functionarissen:   a. de directeur:   de directeur Financieel-Economische Zaken van het Ministerie van Landbouw, Natuurbeheer en Visserij;    b. de inspecteur:   de inspecteur van het Bureau Heffingen;    c. de ontvanger:   de ontvanger van het Bureau Heffingen;    d.  de ambtenaren van de rijksbelastingdienst:   de ambtenaren van het Bureau Heffingen en de ambtenaren van de Algemene Inspectiedienst van het Ministerie van Landbouw, Natuurbeheer en Visserij.      
 2.  De functionaris, bedoeld in [artikel 93a, eerste, vierde en zesde lid, van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) is de ontvanger van het Bureau Heffingen.   
 3.  Als inspecteur van het Bureau Heffingen en als ontvanger van het Bureau Heffingen wordt aangewezen de Directeur Bureau Heffingen.   
 
@@ -35,7 +35,7 @@ De standplaats van de inspecteur en van de ontvanger van het Bureau Heffingen is
 
 De verplichtingen die ingevolge de [artikelen 47](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [47b](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [48](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [49](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [50](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [53](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [55 van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) bestaan jegens de inspecteur van het Bureau Heffingen, gelden mede jegens de door die inspecteur aangewezen ambtenaren van het Bureau Heffingen en jegens de ambtenaren van de Algemene Inspectiedienst van het Ministerie van Landbouw, Natuurbeheer en Visserij.  
 
-### Paragraaf  2  
+### Paragraaf 2  
 
 ####Aangifte
 
@@ -54,7 +54,7 @@ Het uitnodigen tot het doen van aangifte wordt gedaan door het uitreiken of toez
 
 Aangifte wordt gedaan door het inleveren of toezenden van het uitgereikte of toegezonden aangiftebiljet, dat is ingevuld en ondertekend op de bij het biljet aangegeven wijze, met de bij het biljet gevraagde bescheiden.  
 
-### Paragraaf  3  
+### Paragraaf 3  
 
 ####Definitie ’aangrenzend’ en administratie met betrekking tot de varkensheffing
 
@@ -63,7 +63,7 @@ Aangifte wordt gedaan door het inleveren of toezenden van het uitgereikte of toe
 1.  De heffingplichtige doet jaarlijks voor 1 februari opgave van het aantal en de ligging van de vestigingen, bedoeld in [artikel 1, derde lid, van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), waaruit zijn bedrijf bestaat.   
 2.  Voor de toepassing van het [eerste lid](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [artikel 91e van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) worden de tot een vestiging behorende percelen grond, gebouwen of af-gescheiden gedeelten daarvan als aangrenzend beschouwd, indien zij onderling voor al het, voor het houden van varkens noodzakelijke, verkeer rechtstreeks bereikbaar zijn, anders dan via een openbare weg.   
 3.  De opgave, bedoeld in het eerste lid, geschiedt door het inleveren of toezenden van een overeenkomstig de daarbij aangegeven wijze volledig en naar waarheid ingevuld en ondertekend formulier, zoals opgenomen in bijlage 1 bij deze regeling, met de daarbij gevraagde bescheiden.   
-4.  In afwijking van het eerste lid is de heffingplichtige in 1998 verplicht de in het eerste lid bedoelde opgave te doen voor 14 oktober en in 1999 voor 15 april van het desbetreffende jaar.   
+4.  In afwijking van het eerste lid is de heffingplichtige in 1998 verplicht de in het eerste lid bedoelde opgave te doen voor 14 oktober en in 1999 voor 15 april van het desbetreffende jaar.  
 
 ### Artikel  10  
 
@@ -88,16 +88,16 @@ Aangifte wordt gedaan door het inleveren of toezenden van het uitgereikte of toe
 
 1.  Het gemiddeld in een jaar op een bedrijf gehouden aantal varkens wordt bepaald door: 
 
-a. ingeval de administratie van het aantal op het bedrijf gehouden varkens de gegevens bevat en wordt opgemaakt overeenkomstig artikel 2 van de Regeling administratieve verplichtingen Meststoffenwet, de som van de aantallen dagelijks op het bedrijf gehouden varkens gedeeld door het aantal dagen waaruit het desbetreffende jaar bestaat, dan wel  
+a.  ingeval de administratie van het aantal op het bedrijf gehouden varkens de gegevens bevat en wordt opgemaakt overeenkomstig artikel 2 van de Regeling administratieve verplichtingen Meststoffenwet, de som van de aantallen dagelijks op het bedrijf gehouden varkens gedeeld door het aantal dagen waaruit het desbetreffende jaar bestaat, dan wel  
 
-b. ingeval de administratie van het aantal op het bedrijf gehouden varkens de gegevens bevat en wordt opgemaakt overeenkomstig artikel 3 van de Regeling administratieve verplichtingen Meststoffenwet, de som van de aantallen op de eerste dag van elke maand op het bedrijf gehouden varkens gedeeld door 12.     
+b.  ingeval de administratie van het aantal op het bedrijf gehouden varkens de gegevens bevat en wordt opgemaakt overeenkomstig artikel 3 van de Regeling administratieve verplichtingen Meststoffenwet, de som van de aantallen op de eerste dag van elke maand op het bedrijf gehouden varkens gedeeld door 12.     
 2.  Het in 1998 gemiddeld op het bedrijf gehouden aantal varkens wordt bepaald voor het tijdvak dat bestaat uit het vanaf 1 september 1998 nog niet verstreken deel van het jaar door respectievelijk: 
 
-a. de som van de aantallen dagelijks op het bedrijf gehouden varkens, gedeeld door het aantal dagen waaruit dat tijdvak bestaat, indien de administratie van het aantal op het bedrijf gehouden varkens de gegevens bevat en wordt opgemaakt overeen-komstig [artikel 3, eerste lid, van de Regeling administratieve verplichtingen Wet herstructurering varkenshouderij](../../../../ministeriele-regeling/regeling/administratieve/verplichtingen/wet/herstructurering/etc/BWBR0009813/README.md), dan wel  
+a.  de som van de aantallen dagelijks op het bedrijf gehouden varkens, gedeeld door het aantal dagen waaruit dat tijdvak bestaat, indien de administratie van het aantal op het bedrijf gehouden varkens de gegevens bevat en wordt opgemaakt overeen-komstig [artikel 3, eerste lid, van de Regeling administratieve verplichtingen Wet herstructurering varkenshouderij](../../../../ministeriele-regeling/regeling/administratieve/verplichtingen/wet/herstructurering/etc/BWBR0009813/README.md), dan wel  
 
-b. de som van de aantallen op de eerste dag van elke maand op het bedrijf gehouden varkens, gedeeld door het aantal kalendermaanden waaruit dat tijdvak bestaat, indien de administratie van het aantal op het bedrijf gehouden varkens de gegevens bevat en wordt opgemaakt overeenkomstig artikel 3, tweede lid, van de Regeling admini-stratieve verplichtingen [Wet herstructurering varkenshouderij](../../../../wet/wet/herstructurering/varkenshouderij/BWBR0009542/README.md).     
+b.  de som van de aantallen op de eerste dag van elke maand op het bedrijf gehouden varkens, gedeeld door het aantal kalendermaanden waaruit dat tijdvak bestaat, indien de administratie van het aantal op het bedrijf gehouden varkens de gegevens bevat en wordt opgemaakt overeenkomstig artikel 3, tweede lid, van de Regeling admini-stratieve verplichtingen [Wet herstructurering varkenshouderij](../../../../wet/wet/herstructurering/varkenshouderij/BWBR0009542/README.md).     
 
-### Paragraaf  4  
+### Paragraaf 4  
 
 ####Voorlopige aanslag en invorderingsrente
 
@@ -110,18 +110,18 @@ b. de som van de aantallen op de eerste dag van elke maand op het bedrijf gehoud
 
 Bij de berekening van het bedrag van de invorderingsrente, bedoeld in [artikel 28 van de Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md), is [hoofdstuk III van de Uitvoeringsregeling Invorderingswet 1990](../../../../ministeriele-regeling/uitvoeringsregeling/invorderingswet/1990/BWBR0004766/README.md) van toepassing.  
 
-### Paragraaf  5  
+### Paragraaf 5  
 
 ####Slotbepalingen
 
 ### Artikel  16  
 
 1.  Deze regeling treedt in werking met ingang van 1 september 1998.   
-2.  Deze regeling wordt aangehaald als: Uitvoeringsregeling varkensheffing. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd bij de bibliotheek van het Ministerie van Landbouw, Natuurbeheer en Visserij alsmede bij de Dienst Landelijke service bij regelingen (LASER) van het Ministerie van Landbouw, Natuurbeheer en Visserij.   
+2.  Deze regeling wordt aangehaald als: Uitvoeringsregeling varkensheffing. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage, die ter inzage wordt gelegd bij de bibliotheek van het Ministerie van Landbouw, Natuurbeheer en Visserij alsmede bij de Dienst Landelijke service bij regelingen (LASER) van het Ministerie van Landbouw, Natuurbeheer en Visserij.  
 
 ’s-Gravenhage 
 28 juli 1998    
 
 De 
 Minister van Landbouw, Natuurbeheer en Visserij, 
-J.J. vanAartsen    
+J.J. van Aartsen      

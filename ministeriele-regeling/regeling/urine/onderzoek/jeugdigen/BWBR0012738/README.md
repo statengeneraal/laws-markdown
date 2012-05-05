@@ -1,16 +1,16 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling urine onderzoek jeugdigen
+##Regeling urine onderzoek jeugdigen 
 
 De Minister van Justitie,  
-Gelet op artikel 35, tweede lid, van de Beginselenwet justitiële jeugdinrichtingen;
+Gelet op [artikel 35, tweede lid, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);
 
 Gezien het advies van het College van advies voor de justitiële kinderbescherming van datum 30 mei 2000, nr.5032390/00/TH/JMO;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. wet:  de Beginselenwet justitiële jeugdinrichtingen;    b. uitvoeringsverantwoordelijke instantie:  de door de selectiefunctionaris als zodanig aangewezen justitiële jeugdinrichting of de instantie welke is belast met het toezicht op de deelnemer aan een scholings- en trainingsprogramma;    c. indicatieonderzoek:  een onderzoek van urine op de aanwezigheid van gedragsbeïnvloedende middelen waarvan de uitslag slechts een voorlopig en indicatief karakter heeft;    d. urineonderzoek:  een onderzoek van urine op de aanwezigheid van gedragsbeïnvloedende middelen;    e. herhalingsonderzoek:  een urineonderzoek dat volgens eenzelfde dan wel een vergelijkbare methode als gebruikt bij het aanvankelijke urineonderzoek op een identiek tweede monster wordt uitgevoerd met behulp van apparatuur welke vergelijkbaar is met dan wel gelijkwaardig is aan de apparatuur welke bij het aanvankelijke onderzoek is gebruikt;    f. bevestigingsonderzoek:  een urineonderzoek dat volgens een andere gevalideerde methode als gebruikt bij het aanvankelijke onderzoek en het herhalingsonderzoek wordt uitgevoerd op het monster dat het uitgangsmateriaal vormde voor het aanvankelijke onderzoek dan wel het herhalingsonderzoek.     
+In deze regeling wordt verstaan onder: a. wet:   de [Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);  b. uitvoeringsverantwoordelijke instantie:   de door de selectiefunctionaris als zodanig aangewezen justitiële jeugdinrichting of de instantie welke is belast met het toezicht op de deelnemer aan een scholings- en trainingsprogramma;  c. indicatieonderzoek:   een onderzoek van urine op de aanwezigheid van gedragsbeïnvloedende middelen waarvan de uitslag slechts een voorlopig en indicatief karakter heeft;  d. urineonderzoek:   een onderzoek van urine op de aanwezigheid van gedragsbeïnvloedende middelen;  e. herhalingsonderzoek:   een urineonderzoek dat volgens eenzelfde dan wel een vergelijkbare methode als gebruikt bij het aanvankelijke urineonderzoek op een identiek tweede monster wordt uitgevoerd met behulp van apparatuur welke vergelijkbaar is met dan wel gelijkwaardig is aan de apparatuur welke bij het aanvankelijke onderzoek is gebruikt;  f. bevestigingsonderzoek:   een urineonderzoek dat volgens een andere gevalideerde methode als gebruikt bij het aanvankelijke onderzoek en het herhalingsonderzoek wordt uitgevoerd op het monster dat het uitgangsmateriaal vormde voor het aanvankelijke onderzoek dan wel het herhalingsonderzoek.    
 
 ### Artikel  2  
 
@@ -45,9 +45,9 @@ Indien de directeur besluit tot het doen plaatsvinden van een urineonderzoek wor
 
 1.  De analyse wordt verricht door: 
 
-a. een inrichtingslaboratorium dat deelneemt aan een extern kwaliteitscontrole programma in samenspraak met de stichting Kwaliteitsbewaking Klinische Geneesmiddelenanalyse en Toxicologie dan wel  
+a.  een inrichtingslaboratorium dat deelneemt aan een extern kwaliteitscontrole programma in samenspraak met de stichting Kwaliteitsbewaking Klinische Geneesmiddelenanalyse en Toxicologie dan wel 
 
-b. een extern laboratorium dat deelneemt aan een extern kwaliteitscontrole programma in samenspraak met de stichting Kwaliteitsbewaking Klinische Geneesmiddelenanalyse of deelneemt aan een op zijn minst vergelijkbaar extern kwaliteitsbewakingsprogramma dan wel een laboratorium dat voldoet aan de internationale GLP-norm (Good Laboratory Practice).     
+b.  een extern laboratorium dat deelneemt aan een extern kwaliteitscontrole programma in samenspraak met de stichting Kwaliteitsbewaking Klinische Geneesmiddelenanalyse of deelneemt aan een op zijn minst vergelijkbaar extern kwaliteitsbewakingsprogramma dan wel een laboratorium dat voldoet aan de internationale GLP-norm (Good Laboratory Practice).    
 2.  Het laboratorium heeft de mogelijkheid een urine onderzoek, een herhalingsonderzoek en een bevestigingsonderzoek te verrichten of te laten verrichten.   
 3.  Het laboratorium treft maatregelen ter voorkoming van oneigenlijk gebruik van de verkregen persoonsgegevens.   
 4.  De inrichting en het laboratorium maken nadere afspraken omtrent de wijze van verzending van de urinemonsters.   
@@ -78,9 +78,9 @@ b. een extern laboratorium dat deelneemt aan een extern kwaliteitscontrole progr
 3.  In afwachting van de uitslag van een herhalingsonderzoek dan wel een bevestigingsonderzoek wordt de tenuitvoerlegging van een disciplinaire straf opgeschort.   
 4.  In afwachting van de uitslag van een herhalingsonderzoek dan wel een bevestigingsonderzoek kan onder meer: 
 
-a. de effectuering van verlof of strafonderbreking worden geschorst, dan wel opgeschort.  
+a.  de effectuering van verlof of strafonderbreking worden geschorst, dan wel opgeschort. 
 
-b. de effectuering van een scholings- en trainingsprogramma worden geschorst, dan wel opgeschort.     
+b.  de effectuering van een scholings- en trainingsprogramma worden geschorst, dan wel opgeschort.    
 
 ### Artikel  11  
 
@@ -92,9 +92,9 @@ Deze regeling treedt in werking op 1 september 2001
 
 ### Artikel  13  
 
-Deze regeling wordt aangehaald als: Regeling urine onderzoek jeugdigen.  
+Deze regeling wordt aangehaald als: Regeling urine onderzoek jeugdigen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Justitie, 
-A.H.Korthals    
+A.H.  Korthals      

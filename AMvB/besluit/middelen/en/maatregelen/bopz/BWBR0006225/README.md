@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt onder de wet verstaan: de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md).  
+In dit besluit wordt onder de wet verstaan: de [Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md). 
 
 ### Artikel  2  
 
-Als middelen en maatregelen, die kunnen worden toegepast in gevallen als bedoeld in artikel 39, eerste lid, van de wet, worden aangewezen: 
+Als middelen en maatregelen, die kunnen worden toegepast in gevallen als bedoeld in artikel 39, eerste lid, van de wet, worden aangewezen:  
 
 a. afzondering, waaronder wordt verstaan het voor verzorging, verpleging en behandeling insluiten van een patiënt in een speciaal daarvoor bestemde eenpersoons kamer;  
 
@@ -29,19 +29,19 @@ c. fixatie, waaronder wordt verstaan het op enigerlei wijze beperken van een pat
 
 d. medicatie, waaronder wordt verstaan het aan een patiënt toedienen van geneesmiddelen;  
 
-e. toediening aan een patiënt van vocht of voeding.    
+e. toediening aan een patiënt van vocht of voeding.   
 
 ### Artikel  3  
 
-De in artikel 2 bedoelde middelen en maatregelen worden ten hoogste gedurende zeven opeenvolgende dagen toegepast.  
+De in artikel 2 bedoelde middelen en maatregelen worden ten hoogste gedurende zeven opeenvolgende dagen toegepast. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking op het tijdstip, bedoeld in [artikel 80, tweede lid, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md).  
+Dit besluit treedt in werking op het tijdstip, bedoeld in [artikel 80, tweede lid, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md). 
 
 ### Artikel  5  
 
-Dit besluit kan worden aangehaald als: Besluit middelen en maatregelen Bopz.  
+Dit besluit kan worden aangehaald als: Besluit middelen en maatregelen Bopz. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

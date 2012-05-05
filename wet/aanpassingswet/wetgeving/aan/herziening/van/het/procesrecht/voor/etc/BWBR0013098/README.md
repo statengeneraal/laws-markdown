@@ -12,17 +12,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ####Ministerie van Binnenlandse Zaken en Koninkrijksrelaties
 
-### Artikel  1  
+###Artikel 1 
 
-Wijzigt de Gemeentewet.   
+Wijzigt de Gemeentewet.
 
 ### Artikel  2  
 
-Wijzigt de Provinciewet.   
+Wijzigt de Provinciewet.  
 
 ### Artikel  3  
 
-Wijzigt de Wet algemene regels herindeling.   
+Wijzigt de Wet algemene regels herindeling.  
 
 ### Hoofdstuk  2  
 
@@ -30,7 +30,7 @@ Wijzigt de Wet algemene regels herindeling.
 
 ### Enig  artikel  
 
-Wijzigt de Uitvoeringswet Rechtsvorderingsverdrag 1905.   
+Wijzigt de Uitvoeringswet Rechtsvorderingsverdrag 1905.  
 
 ### Hoofdstuk  3  
 
@@ -38,11 +38,11 @@ Wijzigt de Uitvoeringswet Rechtsvorderingsverdrag 1905.
 
 ### Artikel  1  
 
-Wijzigt de Handelsregisterwet 1996.   
+Wijzigt de Handelsregisterwet 1996.  
 
 ### Artikel  2  
 
-Wijzigt de Wet op de Registeraccountants.   
+Wijzigt de Wet op de Registeraccountants.  
 
 ### Hoofdstuk  4  
 
@@ -50,27 +50,27 @@ Wijzigt de Wet op de Registeraccountants.
 
 ### Artikel  1  
 
-Wijzigt de Invorderingswet 1990.   
+Wijzigt de Invorderingswet 1990.  
 
 ### Artikel  2  
 
-Wijzigt de Wet aansprakelijkheid kernongevallen.   
+Wijzigt de Wet aansprakelijkheid kernongevallen.  
 
 ### Artikel  3  
 
-Wijzigt de Wet toezicht natura-uitvaartverzekeringsbedrijf.   
+Wijzigt de Wet toezicht natura-uitvaartverzekeringsbedrijf.  
 
 ### Artikel  4  
 
-Wijzigt de Wet toezicht verzekeringsbedrijf 1993.   
+Wijzigt de Wet toezicht verzekeringsbedrijf 1993.  
 
 ### Artikel  5  
 
-Wijzigt de Wet vereenvoudiging wijze uitbrengen exploiten aan Grootboek 1946.   
+Wijzigt de Wet vereenvoudiging wijze uitbrengen exploiten aan Grootboek 1946.  
 
 ### Artikel  6  
 
-Wijzigt de Wet tot beëindiging van overheidstaken m.b.t. voormalige Wees- en Momboirkamers.   
+Wijzigt de Wet tot beëindiging van overheidstaken m.b.t. voormalige Wees- en Momboirkamers.  
 
 ### Hoofdstuk  5  
 
@@ -78,143 +78,143 @@ Wijzigt de Wet tot beëindiging van overheidstaken m.b.t. voormalige Wees- en Mo
 
 ### Artikel  1  
 
-Wijzigt de Algemene wet bestuursrecht.   
+Wijzigt de Algemene wet bestuursrecht.  
 
 ### Artikel  2  
 
-Wijzigt de Auteurswet 1912.   
+Wijzigt de Auteurswet 1912.  
 
 ### Artikel  3  
 
-Wijzigt Boek 1, 2, 3, 4, 5, 6 en 7 van het Burgerlijk Wetboek.   
+Wijzigt Boek 1, 2, 3, 4, 5, 6 en 7 van het Burgerlijk Wetboek.  
 
 ### Artikel  4  
 
-Wijzigt de Faillissementswet.   
+Wijzigt de Faillissementswet.  
 
 ### Artikel  4a  
 
-Wijzigt de Gerechtsdeurwaarderswet.   
+Wijzigt de Gerechtsdeurwaarderswet.  
 
 ### Artikel  5  
 
-Wijzigt de Overgangswet nieuw Burgerlijk Wetboek.   
+Wijzigt de Overgangswet nieuw Burgerlijk Wetboek.  
 
 ### Artikel  6  
 
-Wijzigt de Pachtwet.   
+Wijzigt de Pachtwet.  
 
 ### Artikel  7  
 
-Wijzigt de Tijdelijke wet huurkoop onroerende zaken.   
+Wijzigt de Tijdelijke wet huurkoop onroerende zaken.  
 
 ### Artikel  8  
 
-Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.   
+Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.  
 
 ### Artikel  9  
 
-Wijzigt de Wet bescherming persoonsgegevens.   
+Wijzigt de Wet bescherming persoonsgegevens.  
 
 ### Artikel  10  
 
-Wijzigt de Wet conflictenrecht namen.   
+Wijzigt de Wet conflictenrecht namen.  
 
 ### Artikel  11  
 
-Wijzigt de Wet op de naburige rechten.   
+Wijzigt de Wet op de naburige rechten.  
 
 ### Artikel  11a  
 
-Wijzigt de Wet op de rechterlijke organisatie.   
+Wijzigt de Wet op de rechterlijke organisatie.  
 
 ### Artikel  12  
 
-Wijzigt de Wet op het notarisambt.   
+Wijzigt de Wet op het notarisambt.  
 
 ### Artikel  13  
 
-Wijzigt de Wet Overheidsaansprakelijkheid Bezettingshandelingen.   
+Wijzigt de Wet Overheidsaansprakelijkheid Bezettingshandelingen.  
 
 ### Artikel  14  
 
-Wijzigt de Wet persoonsregistraties.   
+Wijzigt de Wet persoonsregistraties.  
 
 ### Artikel  15  
 
-Wijzigt de Wet schadefonds geweldsmisdrijven.   
+Wijzigt de Wet schadefonds geweldsmisdrijven.  
 
 ### Artikel  16  
 
-Wijzigt de Wet tarieven in burgerlijke zaken.   
+Wijzigt de Wet tarieven in burgerlijke zaken.  
 
 ### Artikel  17  
 
-Wijzigt de Wet tot invoering van een leeftijdsgrens voor het notarisambt en oprichting van een notarieel pensioenfonds.   
+Wijzigt de Wet tot invoering van een leeftijdsgrens voor het notarisambt en oprichting van een notarieel pensioenfonds.  
 
 ### Artikel  18  
 
-Wijzigt de Wet uitvoering rechtsvorderingsverdrag Groot-Brittannië.   
+Wijzigt de Wet uitvoering rechtsvorderingsverdrag Groot-Brittannië.  
 
 ### Artikel  19  
 
-Wijzigt de Wet gedwongen tenuitvoerlegging van uitspraken en beschikkingen ingevolge Verdrag tot oprichting van de Europese Gemeenschappen voor kolen en staal.   
+Wijzigt de Wet gedwongen tenuitvoerlegging van uitspraken en beschikkingen ingevolge Verdrag tot oprichting van de Europese Gemeenschappen voor kolen en staal.  
 
 ### Artikel  20  
 
-Wijzigt de Uitvoeringswet Rechtsvorderingsverdrag 1954.   
+Wijzigt de Uitvoeringswet Rechtsvorderingsverdrag 1954.  
 
 ### Artikel  21  
 
-Wijzigt de Uitvoeringswet Verdrag onderhoudsverhaal in het buitenland 1956.   
+Wijzigt de Uitvoeringswet Verdrag onderhoudsverhaal in het buitenland 1956.  
 
 ### Artikel  22  
 
-Wijzigt de Uitvoeringswet inzake Overeenkomst beslissingen tot verbetering van akten van de burgerlijke stand.   
+Wijzigt de Uitvoeringswet inzake Overeenkomst beslissingen tot verbetering van akten van de burgerlijke stand.  
 
 ### Artikel  23  
 
-Wijzigt de Uitvoeringswet EEG-Executieverdrag.   
+Wijzigt de Uitvoeringswet EEG-Executieverdrag.  
 
 ### Artikel  24  
 
-Wijzigt de Uitvoeringswet Betekeningsverdrag 1965.   
+Wijzigt de Uitvoeringswet Betekeningsverdrag 1965.  
 
 ### Artikel  25  
 
-Wijzigt de Wet vaststelling van regelen betreffende de gedwongen tenuitvoerlegging van uitspraken van het Benelux-Gerechtshof.   
+Wijzigt de Wet vaststelling van regelen betreffende de gedwongen tenuitvoerlegging van uitspraken van het Benelux-Gerechtshof.  
 
 ### Artikel  26  
 
-Wijzigt de Wet aanspraak van buitenlandse werknemers op rechtsbescherming en rechtsbijstand.   
+Wijzigt de Wet aanspraak van buitenlandse werknemers op rechtsbescherming en rechtsbijstand.  
 
 ### Artikel  27  
 
-Wijzigt de Wet houdende aanwijzing van een rechter op grond van artikel 54 van het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten.   
+Wijzigt de Wet houdende aanwijzing van een rechter op grond van artikel 54 van het Verdrag van Washington van 18 maart 1965 inzake de beslechting van geschillen met betrekking tot investeringen tussen Staten en onderdanen van andere Staten.  
 
 ### Artikel  28  
 
-Wijzigt de Uitvoeringswet Bewijsverdrag.   
+Wijzigt de Uitvoeringswet Bewijsverdrag.  
 
 ### Artikel  29  
 
-Wijzigt de Uitvoeringswet Europees Verdrag inzake rechtspositie migrerende werknemers.   
+Wijzigt de Uitvoeringswet Europees Verdrag inzake rechtspositie migrerende werknemers.  
 
 ### Artikel  30  
 
-Wijzigt de Uitvoeringswet verdragen inzake internationale ontvoering van kinderen.   
+Wijzigt de Uitvoeringswet verdragen inzake internationale ontvoering van kinderen.  
 
 ### Artikel  31  
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.   
+Wijzigt het Wetboek van Burgerlijke Rechtsvordering.  
 
 ### Artikel  32  
 
-Wijzigt het Wetboek van Koophandel.   
+Wijzigt het Wetboek van Koophandel.  
 
 ### Artikel  33  
 
-Wijzigt het Wetboek van Strafvordering.   
+Wijzigt het Wetboek van Strafvordering.  
 
 ### Hoofdstuk  6  
 
@@ -222,7 +222,7 @@ Wijzigt het Wetboek van Strafvordering.
 
 ### Enig  artikel  
 
-Wijzigt de Zaaizaad- en Plantgoedwet.   
+Wijzigt de Zaaizaad- en Plantgoedwet.  
 
 ### Hoofdstuk  7  
 
@@ -230,15 +230,15 @@ Wijzigt de Zaaizaad- en Plantgoedwet.
 
 ### Artikel  1  
 
-Wijzigt de Wet medezeggenschap onderwijs 1992.   
+Wijzigt de Wet medezeggenschap onderwijs 1992.  
 
 ### Artikel  2  
 
-Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.   
+Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  
 
 ### Artikel  3  
 
-Wijzigt de Wet tot behoud van cultuurbezit.   
+Wijzigt de Wet tot behoud van cultuurbezit.  
 
 ### Hoofdstuk  8  
 
@@ -246,27 +246,27 @@ Wijzigt de Wet tot behoud van cultuurbezit.
 
 ### Artikel  1  
 
-Wijzigt de Algemene bijstandswet.   
+Wijzigt de Algemene bijstandswet.  
 
 ### Artikel  2  
 
-Wijzigt de Pensioen- en spaarfondsenwet.   
+Wijzigt de Pensioen- en spaarfondsenwet.  
 
 ### Artikel  3  
 
-Wijzigt de Wet arbeid mijnbouw Noordzee.   
+Wijzigt de Wet arbeid mijnbouw Noordzee.  
 
 ### Artikel  4  
 
-Wijzigt de Wet betreffende verplichte deelneming in een beroepspensioenregeling.   
+Wijzigt de Wet betreffende verplichte deelneming in een beroepspensioenregeling.  
 
 ### Artikel  5  
 
-Wijzigt de Wet op de Europese ondernemingsraden.   
+Wijzigt de Wet op de Europese ondernemingsraden.  
 
 ### Artikel  6  
 
-Wijzigt de Wet op de Ondernemingsraden.   
+Wijzigt de Wet op de Ondernemingsraden.  
 
 ### Hoofdstuk  9  
 
@@ -274,19 +274,19 @@ Wijzigt de Wet op de Ondernemingsraden.
 
 ### Artikel  1  
 
-Wijzigt de Waterschapswet.   
+Wijzigt de Waterschapswet.  
 
 ### Artikel  2  
 
-Wijzigt de Wet bestrijding ongevallen Noordzee.   
+Wijzigt de Wet bestrijding ongevallen Noordzee.  
 
 ### Artikel  3  
 
-Wijzigt de Wet op de strandvonderij.   
+Wijzigt de Wet op de strandvonderij.  
 
 ### Artikel  4  
 
-Wijzigt de Wet schade oesterkwekers.   
+Wijzigt de Wet schade oesterkwekers.  
 
 ### Hoofdstuk  10  
 
@@ -294,19 +294,19 @@ Wijzigt de Wet schade oesterkwekers.
 
 ### Artikel  1  
 
-Wijzigt de Infectieziektenwet.   
+Wijzigt de Infectieziektenwet.  
 
 ### Artikel  2  
 
-Wijzigt de Wet bijzondere opnemingen in psychiatrische ziekenhuizen.   
+Wijzigt de Wet bijzondere opnemingen in psychiatrische ziekenhuizen.  
 
 ### Artikel  3  
 
-Wijzigt de Wet klachtrecht cliënten zorgsector.   
+Wijzigt de Wet klachtrecht cliënten zorgsector.  
 
 ### Artikel  4  
 
-Wijzigt de Wet medezeggenschap cliënten zorginstellingen.   
+Wijzigt de Wet medezeggenschap cliënten zorginstellingen.  
 
 ### Hoofdstuk  11  
 
@@ -314,27 +314,27 @@ Wijzigt de Wet medezeggenschap cliënten zorginstellingen.
 
 ### Artikel  1  
 
-Wijzigt de Huurprijzenwet woonruimte.   
+Wijzigt de Huurprijzenwet woonruimte.  
 
 ### Artikel  2  
 
-Wijzigt de Huurwet.   
+Wijzigt de Huurwet.  
 
 ### Artikel  3  
 
-Wijzigt de Kadasterwet.   
+Wijzigt de Kadasterwet.  
 
 ### Artikel  4  
 
-Wijzigt de Onteigeningswet.   
+Wijzigt de Onteigeningswet.  
 
 ### Artikel  5  
 
-Wijzigt de Waterleidingwet.   
+Wijzigt de Waterleidingwet.  
 
 ### Artikel  6  
 
-Wijzigt de Woningwet.   
+Wijzigt de Woningwet.  
 
 ### Hoofdstuk  12  
 
@@ -342,35 +342,35 @@ Wijzigt de Woningwet.
 
 ### Artikel  1  
 
-Wijzigt de Algemene wet bestuursrecht.   
+Wijzigt de Algemene wet bestuursrecht.  
 
 ### Artikel  2  
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering, de Tijdelijke wet huurkoop onroerende zaken, de Uitvoeringswet EEG-Executieverdrag en de Wet tarieven in burgerlijke zaken.   
+Wijzigt het Wetboek van Burgerlijke Rechtsvordering, de Tijdelijke wet huurkoop onroerende zaken, de Uitvoeringswet EEG-Executieverdrag en de Wet tarieven in burgerlijke zaken.  
 
 ### Artikel  3  
 
-Wijzigt de Wet tot behoud van cultuurbezit.   
+Wijzigt de Wet tot behoud van cultuurbezit.  
 
 ### Artikel  4  
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering en Boek 7 van het Burgerlijk Wetboek.   
+Wijzigt het Wetboek van Burgerlijke Rechtsvordering en Boek 7 van het Burgerlijk Wetboek.  
 
 ### Artikel  5  
 
-Wijzigt Boek 3 van het Burgerlijk Wetboek.   
+Wijzigt Boek 3 van het Burgerlijk Wetboek.  
 
 ### Artikel  6  
 
-Wijzigt de Uitvoeringswet EG-betekeningsverordening.   
+Wijzigt de Uitvoeringswet EG-betekeningsverordening.  
 
 ### Hoofdstuk  13  
 
 ####Overgangsrecht
 
-### Enig  artikel  
+###Enig artikel 
 
-Het recht zoals dat gold voor de inwerkingtreding van deze wet blijft van toepassing in gevallen waarin ingevolge [artikel VII van de wet van 6 december 2001 tot herziening van het procesrecht voor burgerlijke zaken, in het bijzonder de wijze van procederen in eerste aanleg (Stb. 580)](../../../../../../../../../../../wet/herzieningswet/procesrecht/burgerlijke/zaken/BWBR0013097/README.md) het recht zoals dat gold voor inwerkingtreding van die wet van toepassing blijft.  
+Het recht zoals dat gold voor de inwerkingtreding van deze wet blijft van toepassing in gevallen waarin ingevolge [artikel VII van de wet van 6 december 2001 tot herziening van het procesrecht voor burgerlijke zaken, in het bijzonder de wijze van procederen in eerste aanleg (Stb. 580)](../../../../../../../../../../../wet/herzieningswet/procesrecht/burgerlijke/zaken/BWBR0013097/README.md) het recht zoals dat gold voor inwerkingtreding van die wet van toepassing blijft.
 
 ### Hoofdstuk  14  
 
@@ -378,11 +378,11 @@ Het recht zoals dat gold voor de inwerkingtreding van deze wet blijft van toepas
 
 ### Artikel  1  
 
-Voor de plaatsing van deze wet in het Staatsblad brengt Onze Minister van Justitie de in deze wet voorkomende aanhalingen van artikelen, paragrafen, afdelingen en titels van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) in overeenstemming met de nummering, vastgesteld ingevolge [artikel VIII, tweede lid, van de wet van 6 december 2001 tot herziening van het procesrecht voor burgerlijke zaken, in het bijzonder de wijze van procederen in eerste aanleg (Stb. 580)](../../../../../../../../../../../wet/herzieningswet/procesrecht/burgerlijke/zaken/BWBR0013097/README.md).  
+Voor de plaatsing van deze wet in het Staatsblad brengt Onze Minister van Justitie de in deze wet voorkomende aanhalingen van artikelen, paragrafen, afdelingen en titels van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) in overeenstemming met de nummering, vastgesteld ingevolge [artikel VIII, tweede lid, van de wet van 6 december 2001 tot herziening van het procesrecht voor burgerlijke zaken, in het bijzonder de wijze van procederen in eerste aanleg (Stb. 580)](../../../../../../../../../../../wet/herzieningswet/procesrecht/burgerlijke/zaken/BWBR0013097/README.md). 
 
-### Artikel  2  
+###Artikel 2 
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministers, autoriteiten, colleges en ambtenaren wie zulks aangaat aan de nauwkeurige uitvoering de hand zullen houden.   
 

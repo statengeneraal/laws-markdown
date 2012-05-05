@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit subsidies bedrijfsgerichte technologische samenwerkingsprojecten.   
+Wijzigt het Besluit subsidies bedrijfsgerichte technologische samenwerkingsprojecten.  
 
 ### Artikel  II  
 
-Het Besluit subsidies bedrijfsgerichte internationale technologieprogramma's en het Besluit subsidies maritiem onderzoek worden ingetrokken, met dien verstande dat deze en de daarop gebaseerde regelgeving van toepassing blijven op aanvragen om subsidie die voor de inwerkingtreding van dit besluit zijn ingediend en op subsidies die voor de inwerkingtreding van dit besluit zijn verstrekt.  
+Het Besluit subsidies bedrijfsgerichte internationale technologieprogramma's en het Besluit subsidies maritiem onderzoek worden ingetrokken, met dien verstande dat deze en de daarop gebaseerde regelgeving van toepassing blijven op aanvragen om subsidie die voor de inwerkingtreding van dit besluit zijn ingediend en op subsidies die voor de inwerkingtreding van dit besluit zijn verstrekt. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met dien verstande dat het [Besluit subsidies bedrijfsgerichte technologische samenwerkingsprojecten](../../../../../../../../AMvB/besluit/subsidies/bedrijfsgerichte/technologische/samenwerkingsprojecten/BWBR0008404/README.md), zoals dat luidde voor de inwerkingtreding van dit besluit, van toepassing blijft op aanvragen om subsidie die voor de inwerkingtreding van dit besluit zijn ingediend en op subsidies die voor de inwerkingtreding van dit besluit zijn verstrekt.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, met dien verstande dat het [Besluit subsidies bedrijfsgerichte technologische samenwerkingsprojecten](../../../../../../../../AMvB/besluit/subsidies/bedrijfsgerichte/technologische/samenwerkingsprojecten/BWBR0008404/README.md), zoals dat luidde voor de inwerkingtreding van dit besluit, van toepassing blijft op aanvragen om subsidie die voor de inwerkingtreding van dit besluit zijn ingediend en op subsidies die voor de inwerkingtreding van dit besluit zijn verstrekt. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -37,4 +37,4 @@ A. Jorritsma-Lebbink
 de *zeventiende* mei 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

@@ -11,24 +11,24 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-De [artikelen 39](../../../../../../../../../wet/wet/op/de/stads-/en/dorpsvernieuwing/BWBR0003709/README.md) tot en met [42 van de Wet op de stads- en dorpsvernieuwing](../../../../../../../../../wet/wet/op/de/stads-/en/dorpsvernieuwing/BWBR0003709/README.md), zoals deze laatstelijk luidden vóór de inwerkingtreding van artikel I van deze wet, blijven van toepassing op de verlening van geldelijke steun als bedoeld in artikel 39, eerste lid, van eerstgenoemde wet voor kalenderjaren die vóór de datum, bedoeld in artikel V, eerste lid, zijn verstreken, en op de besteding van en de verslaglegging over die geldelijke steun.  
+De [artikelen 39](../../../../../../../../../wet/wet/op/de/stads-/en/dorpsvernieuwing/BWBR0003709/README.md) tot en met [42 van de Wet op de stads- en dorpsvernieuwing](../../../../../../../../../wet/wet/op/de/stads-/en/dorpsvernieuwing/BWBR0003709/README.md), zoals deze laatstelijk luidden vóór de inwerkingtreding van artikel I van deze wet, blijven van toepassing op de verlening van geldelijke steun als bedoeld in artikel 39, eerste lid, van eerstgenoemde wet voor kalenderjaren die vóór de datum, bedoeld in artikel V, eerste lid, zijn verstreken, en op de besteding van en de verslaglegging over die geldelijke steun. 
 
 ### Artikel  IV  
 
-Tot het tijdstip waarop een wijziging van de [Wet op de stads- en dorpsvernieuwing](../../../../../../../../../wet/wet/op/de/stads-/en/dorpsvernieuwing/BWBR0003709/README.md) in werking treedt waarbij gevolgen worden verbonden aan het niet binnen de in artikel 42 van genoemde wet, zoals door deze wet gewijzigd, gestelde termijn aan het Rijk uitbrengen van het in dat artikel bedoelde verslag, zijn daaraan, ten aanzien van de gemeenten die een jaarlijkse bijdrage van het Rijk hebben ontvangen, de financiële gevolgen verbonden die artikel 42, vierde lid, van genoemde wet, zoals laatstelijk luidend voor inwerkingtreding van artikel I van deze wet, verbond aan het niet binnen de in het eerste lid van laatstgenoemd artikel gestelde termijn door die gemeenten aan Gedeputeerde Staten uitbrengen van het verslag, bedoeld in laatstgenoemd lid.  
+Tot het tijdstip waarop een wijziging van de [Wet op de stads- en dorpsvernieuwing](../../../../../../../../../wet/wet/op/de/stads-/en/dorpsvernieuwing/BWBR0003709/README.md) in werking treedt waarbij gevolgen worden verbonden aan het niet binnen de in artikel 42 van genoemde wet, zoals door deze wet gewijzigd, gestelde termijn aan het Rijk uitbrengen van het in dat artikel bedoelde verslag, zijn daaraan, ten aanzien van de gemeenten die een jaarlijkse bijdrage van het Rijk hebben ontvangen, de financiële gevolgen verbonden die artikel 42, vierde lid, van genoemde wet, zoals laatstelijk luidend voor inwerkingtreding van artikel I van deze wet, verbond aan het niet binnen de in het eerste lid van laatstgenoemd artikel gestelde termijn door die gemeenten aan Gedeputeerde Staten uitbrengen van het verslag, bedoeld in laatstgenoemd lid. 
 
 ### Artikel  V  
 
 1.  De artikelen I, III en IV treden in werking met ingang van 1 januari van een bij koninklijk besluit te bepalen jaar.   
-2.  Artikel II treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin deze wet wordt geplaatst.   
+2.   Artikel II treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin deze wet wordt geplaatst.  
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

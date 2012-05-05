@@ -11,18 +11,18 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### ARTIKEL  I  
 
-Wijzigt Boek 1 van het Burgerlijk Wetboek.   
+Wijzigt Boek 1 van het Burgerlijk Wetboek.  
 
 ### ARTIKEL  II  
 
-Wijzigt de Wet gemeentelijke basisadministratie persoonsgegevens.   
+Wijzigt de Wet gemeentelijke basisadministratie persoonsgegevens.  
 
-####Overgangsbepalingen
+####Overgangsbepalingen 
 
 ### ARTIKEL  III  
 
-1.  Indien een kind, dat als ongeboren kind voor de inwerkingtreding van deze wet is erkend, na de inwerkingtreding van deze wet wordt geboren, stelt, in afwijking van [artikel 5, tweede lid](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), de ambtenaar van de burgerlijke stand de ouders in staat naamskeuze te doen ter gelegenheid van de aangifte van de geboorte. [Artikel 5](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) is overigens van toepassing.   
-2.  Indien voor de inwerkingtreding van deze wet een adoptie is uitgesproken die na de inwerkingtreding van deze wet in kracht van gewijsde gaat, stelt, in afwijking van [artikel 5, derde lid](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), de ambtenaar van de burgerlijke stand de adoptiefouders of het kind in staat naamskeuze te doen ter gelegenheid van de toevoeging van de latere vermelding van de adoptie aan de akte van geboorte. [Artikel 5](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) is overigens van toepassing.   
+1.   Indien een kind, dat als ongeboren kind voor de inwerkingtreding van deze wet is erkend, na de inwerkingtreding van deze wet wordt geboren, stelt, in afwijking van [artikel 5, tweede lid](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), de ambtenaar van de burgerlijke stand de ouders in staat naamskeuze te doen ter gelegenheid van de aangifte van de geboorte. [Artikel 5](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) is overigens van toepassing.   
+2.   Indien voor de inwerkingtreding van deze wet een adoptie is uitgesproken die na de inwerkingtreding van deze wet in kracht van gewijsde gaat, stelt, in afwijking van [artikel 5, derde lid](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), de ambtenaar van de burgerlijke stand de adoptiefouders of het kind in staat naamskeuze te doen ter gelegenheid van de toevoeging van de latere vermelding van de adoptie aan de akte van geboorte. [Artikel 5](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) is overigens van toepassing.  
 
 ### ARTIKEL  IV  
 
@@ -36,9 +36,9 @@ c. de kinderen hebben op het tijdstip van het afleggen van de verklaring allen d
 
 d. beide ouders zijn het erover eens dat de kinderen de geslachtsnaam van de moeder behoren te hebben; en  
 
-e. het oudste kind tot wie beide ouders in familierechtelijke betrekking staan, is niet na het tijdstip van inwerkingtreding van deze wet geboren.     
+e. het oudste kind tot wie beide ouders in familierechtelijke betrekking staan, is niet na het tijdstip van inwerkingtreding van deze wet geboren.      
 2.  De gemeenschappelijke verklaring kan worden afgelegd ten overstaan van iedere ambtenaar van de burgerlijke stand. Van deze verklaring maakt de ambtenaar van de burgerlijke stand een akte op. De wijziging geschiedt doordat een latere vermelding van de naamskeuze wordt toegevoegd aan de akten van geboorten van de kinderen.   
-3.  Hebben ingevolge het eerste lid een of meer kinderen de geslachtsnaam van de moeder gekregen, dan krijgen ook de kinderen van dezelfde ouders die nadien in familierechtelijke betrekking tot beide ouders komen te staan, deze geslachtsnaam.   
+3.  Hebben ingevolge het eerste lid een of meer kinderen de geslachtsnaam van de moeder gekregen, dan krijgen ook de kinderen van dezelfde ouders die nadien in familierechtelijke betrekking tot beide ouders komen te staan, deze geslachtsnaam.  
 
 ### ARTIKEL  V  
 
@@ -48,10 +48,10 @@ Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle 
 
 Gegeven te 's-Gravenhage 
 10 april 1997  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Justitie, 
-E. M. A. Schmitz   
+E. M. A. Schmitz    
 
 De Minister van Sociale Zaken en Werkgelegenheid, 
 A. P. W. Melkert   

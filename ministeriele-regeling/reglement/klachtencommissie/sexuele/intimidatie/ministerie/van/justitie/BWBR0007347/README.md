@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Reglement klachtencommissie sexuele intimidatie Ministerie van Justitie
+##Reglement klachtencommissie sexuele intimidatie Ministerie van Justitie 
 
 De Minister van Justitie  
 Gelet op artikel 6 van het Besluit van de Minister van Binnenlandse Zaken van 22 juli 1994, nummer AD94/U854 inzake de klachtenregeling sexuele intimidatie burgerlijk rijkspersoneel;
@@ -10,15 +10,15 @@ Gelet op bijlage 3f van het Handboek Arbeidsomstandigheden Ministerie van Justit
 Overwegende dat het wenselijk is met betrekking tot de klachtencommissie Justitie specifieke regels te stellen;
 
 Gehoord de Bijzondere Commissie Ministerie van Justitie;
-Besluit:     
+Besluit:      
 
-####Begripsomschrijvingen
+####Begripsomschrijvingen 
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder:   a. minister:  de Minister van Justitie;    b. bevoegd gezag:  het hoofd van de diensteenheid waarbij een dienstcommissie is ingesteld;    c. commissie:  de klachtencommissie sexuele intimidatie Ministerie van Justitie;    d. klager:  de persoon die zich met een klacht over sexuele intimidatie wendt tot het bevoegd gezag, de vertrouwens-persoon sexuele intimidatie of de commissie;    e. beklaagde:  de persoon tegen wie de klacht gericht is;    f. sexuele intimidatie:  sexueel getinte aandacht voor een persoon, die tot uiting komt in verbaal, fysiek of ander non-verbaal gedrag, dat zowel onopzettelijk als opzettelijk kan zijn en dat door de persoon in kwestie als ongewenst, kwetsend of bedreigend wordt ervaren.    g. derde:  persoon die niet werkzaam is in dienst van of onder het gezag van de Minister.     
+In dit besluit wordt verstaan onder: a. minister:   de Minister van Justitie;  b. bevoegd gezag:   het hoofd van de diensteenheid waarbij een dienstcommissie is ingesteld;  c. commissie:   de klachtencommissie sexuele intimidatie Ministerie van Justitie;  d.  klager:   de persoon die zich met een klacht over sexuele intimidatie wendt tot het bevoegd gezag, de vertrouwens-persoon sexuele intimidatie of de commissie;  e.  beklaagde:   de persoon tegen wie de klacht gericht is;  f. sexuele intimidatie:   sexueel getinte aandacht voor een persoon, die tot uiting komt in verbaal, fysiek of ander non-verbaal gedrag, dat zowel onopzettelijk als opzettelijk kan zijn en dat door de persoon in kwestie als ongewenst, kwetsend of bedreigend wordt ervaren.  g. derde:   persoon die niet werkzaam is in dienst van of onder het gezag van de Minister.    
 
-####Taak en samenstelling van de commissie
+####Taak en samenstelling van de commissie 
 
 ### Artikel  2  
 
@@ -36,7 +36,7 @@ In dit besluit wordt verstaan onder:   a. minister:  de Minister van Justitie;  
 
 De minister voegt aan de commissie een secretaris toe.  
 
-####Het indienen van een klacht
+####Het indienen van een klacht 
 
 ### Artikel  5  
 
@@ -52,7 +52,7 @@ De minister voegt aan de commissie een secretaris toe.
 1.  Binnen drie weken na ontvangst van een klacht, waaruit blijkt dat de indiener behandeling door de commissie wenst, zendt het bevoegd gezag onderscheidenlijk de vertrouwenspersoon de klacht door naar de commissie en bericht het bevoegd gezag onderscheidenlijk de vertrouwenspersoon aan de klager dat doorzending heeft plaatsgevonden.   
 2.  Bij doorzending van de klacht zenden het bevoegd gezag onderscheidenlijk de vertrouwenspersoon een overzicht van de door hen in verband met de klacht ondernomen handelingen tezamen met de daarop betrekking hebbende stukken aan de commissie.   
 
-####Werkwijze van de commissie
+####Werkwijze van de commissie 
 
 ### Artikel  7  
 
@@ -94,21 +94,21 @@ de secretaris;
 3.  In haar uitspraak draagt de commissie er zorg voor dat de identiteit van een eventuele anonieme getuige gewaarborgd is.   
 4.  Indien de termijn van zes weken niet haalbaar is, stelt de commissie betrokken partijen daarvan in kennis en noemt daarbij een termijn waarbinnen de uitspraak zal worden gedaan. Deze termijn is ten hoogste vier weken.   
 
-####Klachten van derden
+####Klachten van derden 
 
 ### Artikel  13  
 
 1.  Een derde kan een klacht indienen bij de commissie over daden, gedragingen of uitingen van personen werkend in dienst van of onder het gezag van de Minister die door de derde als sexuele intimidatie wordt ervaren, indien deze sexuele intimidatie heeft plaatsgevonden tijdens een functioneel contact tussen de derde en de beklaagde.   
 2.  De artikelen 4 tot en met 12 worden bij de afhandeling van klachten van derden overeenkomstig toegepast.   
 
-####Bijstand
+####Bijstand 
 
 ### Artikel  14  
 
 1.  De bij de klacht betrokken partijen kunnen zich laten bijstaan door een vertegenwoordiger.   
 2.  De eventuele hieruit voortvloeiende kosten alsmede die van door partijen meegebrachte deskundigen of getuigen komen ten laste van de betrokken partij.   
 
-####Slotbepalingen
+####Slotbepalingen 
 
 ### Artikel  15  
 
@@ -116,16 +116,16 @@ Dit besluit treedt in werking op 1 mei 1995.
 
 ### Artikel  16  
 
-Dit besluit kan worden aangehaald als Reglement klachtencommissie sexuele intimidatie Ministerie van Justitie.  
+Dit besluit kan worden aangehaald als Reglement klachtencommissie sexuele intimidatie Ministerie van Justitie. 
 
 Den Haag 
 19 april 1995    
 
 De 
-Minister van Justitie, 
+Minister van Justitie,  
 
-Namens de Minister, 
+Namens de Minister,  
 
 De 
-Secretaris-Generaal
-J.J.H.Suyver    
+Secretaris-Generaal 
+J.J.H. Suyver      

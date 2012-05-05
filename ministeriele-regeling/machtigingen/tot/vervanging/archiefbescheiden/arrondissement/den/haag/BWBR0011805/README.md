@@ -2,7 +2,7 @@
 
 ##Machtigingen tot vervanging archiefbescheiden Arrondissement Den Haag
 
-De Minister van Justitie  besluit:     Het arrondissement Den Haag te machtigen tot vervanging van onderstaande archiefbescheiden uit het arrondissementsarchief over de periode 1940-1969. De archiefbescheiden zijn in het kader van het proefproject verfilming in 1992 op microfilm gezet. 
+De Minister van Justitie   besluit:     Het arrondissement Den Haag te machtigen tot vervanging van onderstaande archiefbescheiden uit het arrondissementsarchief over de periode 1940-1969. De archiefbescheiden zijn in het kader van het proefproject verfilming in 1992 op microfilm gezet. 
 
 strafvonnissen;  
 
@@ -61,4 +61,4 @@ Den Haag
 
 De 
 Minister van Justitie, 
-J.A.A.A.Samson    
+J.A.A.A. Samson      

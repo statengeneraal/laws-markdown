@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Aanwijzing resterende projecten uitkeringsregeling bestrijding verontreiniging rijkswateren
+##Aanwijzing resterende projecten uitkeringsregeling bestrijding verontreiniging rijkswateren 
 
 De Minister van Verkeer en Waterstaat,  
 Overwegende dat de Minister van Verkeer en Waterstaat bij besluit van 29 juli 1991, nr. R 99443A, Stcrt. 147, de Uitkeringsregeling bestrijding verontreiniging rijkswateren (UKR) heeft gewijzigd in verband met het beëindigen van deze regeling per 31 december 1995 en dat de resterende nog ingevolge artikel 4 van de UKR voor een uitkering in aanmerking komende projecten definitief moeten worden vastgesteld:
@@ -8,21 +8,21 @@ Besluit:
 
 ### Artikel  1  
 
-De op bijgevoegde lijsten A en B vermelde projecten komen nog in aanmerking voor een uitkering op grond van artikel 4 van de uitkeringsregeling bestrijding verontreiniging rijkswateren (UKR).  
+De op bijgevoegde lijsten A en B vermelde projecten komen nog in aanmerking voor een uitkering op grond van artikel 4 van de uitkeringsregeling bestrijding verontreiniging rijkswateren (UKR). 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van heden.  
-Dit besluit (met bijlagen) zal in de Staatscourant worden geplaatst.   
+Dit besluit treedt in werking met ingang van heden. 
+Dit besluit (met bijlagen) zal in de Staatscourant worden geplaatst. 
 
 De 
-Minister van Verkeer en Waterstaat, 
+Minister van Verkeer en Waterstaat,  
 
-namens deze, 
+namens deze,
 
 De 
-plv. secretaris-generaal, 
-T. J. vanBeek   
+plv. secretaris-generaal,
+T. J. van  Beek   
 
 ### Lijst  A:  
 

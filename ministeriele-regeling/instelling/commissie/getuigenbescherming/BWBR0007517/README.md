@@ -4,7 +4,7 @@
 
 De Minister van Justitie,  
 Gezien het rapport ’Getuigenbescherming in Nederland’ van april 1995 van de werkgroep Craemer,
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -38,16 +38,16 @@ De commissie brengt de Overlegvergadering van de Minister van Justitie en het Co
 
 ### Artikel  6  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal in de Staatscourant en het Algemeen Politieblad worden geplaatst.   
 
 ’s-Gravenhage 
 21 augustus 1995    
 
 De 
-Minister van Justitie. 
+Minister van Justitie.  
 
 Voor deze, 
 
 Het hoofd van de directie Politie, 
-J. van Ees      
+J. van Ees     

@@ -19,25 +19,25 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder wet: [Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md).  
+In dit besluit wordt verstaan onder wet: [Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md). 
 
 ### Artikel  2  
 
 1.  Ter voorkoming van de verspreiding van smetstof door dieren die niet worden gehouden, zijn de [artikelen 15, vierde lid](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [17](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [19](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [21](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [22, eerste lid](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [24, eerste lid](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [116 van de wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) van overeenkomstige toepassing op niet gehouden dieren.   
-2.  De verplichting uit [artikel 19, eerste lid, van de wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) geldt in het kader van dit besluit voor iemand die weet of redelijkerwijs kan vermoeden dat een niet gehouden dier verschijnselen vertoont van een besmettelijke dierziekte.   
-3.  Iemand die weet of redelijkerwijs kan vermoeden dat een niet gehouden dier verschijnselen vertoont van een besmettelijke dierziekte is verplicht aan een dierenarts of aan een in [artikel 114, tweede lid, van de wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) bedoelde ambtenaar naar waarheid alle inlichtingen te verstrekken en alle medewerking te verlenen, welke dezen redelijkerwijs voor de vervulling van hun taak nodig hebben en al datgene te doen wat in zijn vermogen ligt om de aard van de ziekte zo spoedig mogelijk te doen vaststellen.   
+2.   De verplichting uit [artikel 19, eerste lid, van de wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) geldt in het kader van dit besluit voor iemand die weet of redelijkerwijs kan vermoeden dat een niet gehouden dier verschijnselen vertoont van een besmettelijke dierziekte.   
+3.   Iemand die weet of redelijkerwijs kan vermoeden dat een niet gehouden dier verschijnselen vertoont van een besmettelijke dierziekte is verplicht aan een dierenarts of aan een in [artikel 114, tweede lid, van de wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) bedoelde ambtenaar naar waarheid alle inlichtingen te verstrekken en alle medewerking te verlenen, welke dezen redelijkerwijs voor de vervulling van hun taak nodig hebben en al datgene te doen wat in zijn vermogen ligt om de aard van de ziekte zo spoedig mogelijk te doen vaststellen.  
 
 ### Artikel  3  
 
-Ter voorkoming van de verspreiding van smetstof door dieren die niet worden gehouden kunnen door Onze Minister nadere regelen worden gesteld.  
+Ter voorkoming van de verspreiding van smetstof door dieren die niet worden gehouden kunnen door Onze Minister nadere regelen worden gesteld. 
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Besluit niet gehouden dieren.  
+Dit besluit wordt aangehaald als: Besluit niet gehouden dieren. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij horende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

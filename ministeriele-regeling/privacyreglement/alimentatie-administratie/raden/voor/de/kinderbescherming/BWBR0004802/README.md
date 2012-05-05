@@ -13,13 +13,13 @@ Besluit het volgende reglement vast te stellen:
 
 ####Begripsbepalingen
 
-In dit reglement wordt verstaan onder:   a. de registratie:  de geautomatiseerde alimentatie-administratie bij een raad voor de kinderbescherming;    b. houder:  de raad voor de kinderbescherming    c. beheerder:  het hoofd van administratie bij de raad voor de kinderbescherming;    d. bewerker:  het Rijkscomputercentrum;    e. jeugdige:  een persoon die de leeftijd van 21 jaren nog niet heeft bereikt.     
+In dit reglement wordt verstaan onder: a. de registratie:   de geautomatiseerde alimentatie-administratie bij een raad voor de kinderbescherming;  b. houder:   de raad voor de kinderbescherming  c. beheerder:   het hoofd van administratie bij de raad voor de kinderbescherming;  d. bewerker:   het Rijkscomputercentrum;  e. jeugdige:   een persoon die de leeftijd van 21 jaren nog niet heeft bereikt.   
 
 ### Artikel  2  
 
 ####Doelstelling
 
-De registratie heeft ten doel een vereenvoudiging van de procedure tot inning en bestemming van gelden ten behoeve van jeugdigen, voor zover één en ander geschiedt door een raad voor de kinderbescherming.  
+De registratie heeft ten doel een vereenvoudiging van de procedure tot inning en bestemming van gelden ten behoeve van jeugdigen, voor zover één en ander geschiedt door een raad voor de kinderbescherming. 
 
 ### Artikel  3  
 
@@ -27,15 +27,15 @@ De registratie heeft ten doel een vereenvoudiging van de procedure tot inning en
 
 1.  De houder is verantwoordelijk voor het beheer en het goed functioneren van de registratie en treft daartoe de nodige voorzieningen op het gebied van organisatie en beveiliging.   
 2.  De beheerder is belast met de dagelijkse leiding van de werkzaamheden, bedoeld in het eerste lid.   
-3.  Voor het geheel of gedeelte van de apparatuur dat de bewerker onder zich heeft, heeft deze een gelijke verantwoordelijkheid als die welke krachtens het eerste lid op de houder rust.   
+3.  Voor het geheel of gedeelte van de apparatuur dat de bewerker onder zich heeft, heeft deze een gelijke verantwoordelijkheid als die welke krachtens het eerste lid op de houder rust.  
 
 ### Artikel  4  
 
 ####Invoer en verwerking van de gegevens
 
-De invoer en verwerking van de in de registratie opgenomen gegevens, met inbegrip van de verbetering, aanvulling of verwijdering daarvan geschiedt op de financiële afdeling van de raad door daartoe door of namens de houder van de registratie aangewezen ambtenaren.  
+De invoer en verwerking van de in de registratie opgenomen gegevens, met inbegrip van de verbetering, aanvulling of verwijdering daarvan geschiedt op de financiële afdeling van de raad door daartoe door of namens de houder van de registratie aangewezen ambtenaren. 
 
-### Par.  2  
+### Par.   2  
 
 ####Registratie en herkomst van gegevens
 
@@ -45,11 +45,11 @@ De invoer en verwerking van de in de registratie opgenomen gegevens, met inbegri
 
 In de registratie worden uitsluitend persoonsgegevens opgenomen over: 
 
-a. personen, die ingevolge de wet, rechterlijke beslissing of krachtens overeenkomst zijn verplicht tot een bijdrage ten behoeve van een jeugdige;  
+a. personen, die ingevolge de wet, rechterlijke beslissing of krachtens overeenkomst zijn verplicht tot een bijdrage ten behoeve van een jeugdige; 
 
-b. de tot het ontvangen van deze bijdragen gerechtigden;  
+b. de tot het ontvangen van deze bijdragen gerechtigden; 
 
-c. de jeugdigen ten behoeve van wie de bijdragen zijn bestemd.    
+c. de jeugdigen ten behoeve van wie de bijdragen zijn bestemd.  
 
 ### Artikel  6  
 
@@ -83,7 +83,7 @@ bedrag achterstand;
 
 datum waarop de betalingsplicht eindigt;  
 
-kosten verbonden aan de inning.    
+kosten verbonden aan de inning.   
 
 ### Artikel  7  
 
@@ -93,7 +93,7 @@ De gegevens die in de registratie zijn opgenomen zijn slechts afkomstig van:
 
 rechterlijke instanties;  
 
-personen, bedoeld in artikel 5.    
+personen, bedoeld in artikel 5.   
 
 ### Par.  3  
 
@@ -104,7 +104,7 @@ personen, bedoeld in artikel 5.
 ####Verwijdering van opgenomen gegevens
 
 1.  Verwijdering van opgenomen gegevens vindt plaats binnen een jaar en zes maanden nadat aan de betalingsverplichting is voldaan.   
-2.  Indien blijkt dat gegevens ten onrechte, onjuist danwel onvolledig in de registratie zijn opgenomen, draagt de houder zorg voor een zo spoedig mogelijke verwijdering, verbetering of aanvulling van die gegevens. De op grond van dit lid verwijderde gegevens worden vernietigd.   
+2.  Indien blijkt dat gegevens ten onrechte, onjuist danwel onvolledig in de registratie zijn opgenomen, draagt de houder zorg voor een zo spoedig mogelijke verwijdering, verbetering of aanvulling van die gegevens. De op grond van dit lid verwijderde gegevens worden vernietigd.  
 
 ### Par.  4  
 
@@ -120,7 +120,7 @@ de secretaris en de plaatsvervangend secretaris van de raad voor de kinderbesche
 
 het hoofd en de ambtenaren van de financiële afdeling van de raad voor de kinderbescherming;  
 
-de door het hoofd van het Rijkscomputercentrum daartoe aangewezen personen, werkzaam bij dat computercentrum, voor zover een goede werking van de registratie hun toegang vereist.    
+de door het hoofd van het Rijkscomputercentrum daartoe aangewezen personen, werkzaam bij dat computercentrum, voor zover een goede werking van de registratie hun toegang vereist.   
 
 ### Artikel  10  
 
@@ -136,7 +136,7 @@ personen behorende tot de in artikel 5 genoemde categorieën, voor zover het bet
 
 ambtenaren van een raad voor de kinderbescherming voor zover de informatieverstrekking het in artikel 2 genoemde doel dient.     
 2.  Verstrekking van persoonsgegevens aan andere dan in het eerste lid bedoelde personen ten behoeve van wetenschappelijk onderzoek, kan alleen plaatsvinden nadat daartoe schriftelijk toestemming is verkregen van de minister van Justitie en met inachtneming van de door deze gestelde voorwaarden.   
-3.  Van elke verstrekking van gegevens aan de in het eerste en het tweede lid van dit artikel bedoelde personen en instanties wordt deugdelijk aantekening gehouden.   
+3.  Van elke verstrekking van gegevens aan de in het eerste en het tweede lid van dit artikel bedoelde personen en instanties wordt deugdelijk aantekening gehouden.  
 
 ### Par.  5  
 
@@ -152,7 +152,7 @@ ambtenaren van een raad voor de kinderbescherming voor zover de informatieverstr
 4.  Voordat aan het verzoek wordt voldaan dient verzoeker zich ter vaststelling van zijn identiteit te legitimeren door overlegging van een geldig legitimatiebewijs dan wel een copie daarvan.   
 5.  De houder beantwoordt het verzoek binnen een maand na ontvangst schriftelijk, vergezeld van de nodige toelichting.   
 6.  Een verzoek om kennisneming van opgenomen gegevens wordt ingevolge artikel 30 van de Wet persoonsregistraties geweigerd, indien dit noodzakelijk is om de persoonlijke levenssfeer van een ander dan verzoeker te beschermen   
-7.  Een weigering op het verzoek wordt door de houder met redenen omkleed. Hierbij wordt aangegeven waar, op welke wijze en tegen welke kosten tegen de beslissing van de houder kan worden opgekomen.   
+7.  Een weigering op het verzoek wordt door de houder met redenen omkleed. Hierbij wordt aangegeven waar, op welke wijze en tegen welke kosten tegen de beslissing van de houder kan worden opgekomen.  
 
 ### Artikel  12  
 
@@ -161,7 +161,7 @@ ambtenaren van een raad voor de kinderbescherming voor zover de informatieverstr
 1.  Degene aan wie overeenkomstig artikel 11 kennis is gegeven van hem betreffende persoonsgegevens, kan de houder schriftelijk verzoeken deze te verbeteren, aan te vullen of te verwijderen, indien de gegevens feitelijk onjuist, voor het doel van de registratie onvolledig of niet ter zake dienend zijn dan wel in strijd met een wettelijk voorschrift in de registratie voorkomen.   
 2.  Het verzoek bevat de aan te brengen wijzigingen. Artikel 11, tweede en vierde lid is van overeenkomstige toepassing.   
 3.  Binnen twee maanden na ontvangst van het verzoek bericht de houder schriftelijk of, en in hoeverre hij daaraan voldoet. Artikel 11, zevende lid, is van overeenkomstige toepassing.   
-4.  De houder draagt zorg dat een beslissing tot verbetering, aanvulling of verwijdering zo spoedig mogelijk wordt uitgevoerd.   
+4.  De houder draagt zorg dat een beslissing tot verbetering, aanvulling of verwijdering zo spoedig mogelijk wordt uitgevoerd.  
 
 ### Artikel  13  
 
@@ -169,9 +169,9 @@ ambtenaren van een raad voor de kinderbescherming voor zover de informatieverstr
 
 1.  De geregistreerde of – indien deze de leeftijd van zestien jaren nog niet heeft bereikt danwel onder curatele is gesteld – diens wettelijke ve tegenwoordiger kan de houder tevens verzoeken hem mede te delen of en zo ja welke op de geregistreerde betrekking hebbende gegevens in het jaar voorafgaande aan het verzoek uit de registratie aan derden zijn verstrekt.   
 2.  Artikel 11, tweede en vierde lid, is van overeenkomstige toepassing.   
-3.  De houder beantwoordt het verzoek schriftelijk binnen een maand na ontvangst. Artikel 11, zesde en zevende lid is van overeenkomstige toepassing.   
+3.  De houder beantwoordt het verzoek schriftelijk binnen een maand na ontvangst. Artikel 11, zesde en zevende lid is van overeenkomstige toepassing.  
 
-### Par.  6  
+### Par.   6  
 
 ####Slotbepalingen
 
@@ -184,12 +184,12 @@ ambtenaren van een raad voor de kinderbescherming voor zover de informatieverstr
 
 de houder van de registratie;  
 
-de afdeling pers- en publieksvoorlichting van het ministerie van justitie.     
+de afdeling pers- en publieksvoorlichting van het ministerie van justitie.    
 
 ### Artikel  15  
 
 1.  Dit reglement treedt in werking met ingang van 1 juli 1990.   
-2.  Het reglement kan worden aangehaald als ‘Privacyreglement alimentatie-administratie raden voor de kinderbescherming’.   
+2.  Het reglement kan worden aangehaald als ‘Privacyreglement alimentatie-administratie raden voor de kinderbescherming’.  
 
 's-Gravenhage 
 25 juni 1990    
@@ -201,5 +201,5 @@ namens de
 staatssecretaris, 
 
 De 
-Directeur-Generaal Jeugdbescherming en Delinkwentenzorg
-mr. H.B.Greven    
+Directeur-Generaal Jeugdbescherming en Delinkwentenzorg 
+mr. H.B. Greven      

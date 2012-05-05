@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De instanties en personen die aan de raden voor de kinderbescherming kosteloos de inlichtingen verschaffen die noodzakelijk zijn voor een goede uitoefening van hun taak of van hun bevoegdheden op grond van een van de bepalingen van de [titels 9](../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [10](../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [13](../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [14](../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [15](../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), en [17 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), zijn: 
+De instanties en personen die aan de raden voor de kinderbescherming kosteloos de inlichtingen verschaffen die noodzakelijk zijn voor een goede uitoefening van hun taak of van hun bevoegdheden op grond van een van de bepalingen van de [titels 9](../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [10](../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [13](../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [14](../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [15](../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), en [17 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), zijn:  
 
 a. de Informatiseringsbank van het Ministerie van Onderwijs en Wetenschappen;  
 
@@ -23,13 +23,13 @@ b. de inspecteur der rijksbelastingen;
 
 c. de Sociale Verzekeringsbank;  
 
-d.  vervallen;   
+d. vervallen;  
 
-e. Bedrijfsverenigingen als bedoeld in de Organisatiewet Sociale Verzekering (*Stb.* 1989, 119).    
+e. Bedrijfsverenigingen als bedoeld in de Organisatiewet Sociale Verzekering (*Stb.* 1989, 119).   
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van 1 januari 1993.  
+Dit besluit treedt in werking met ingang van 1 januari 1993. 
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

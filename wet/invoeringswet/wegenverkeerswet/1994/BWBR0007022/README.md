@@ -1,16 +1,16 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Wet van 17 november 1994, houdende regeling van de inwerkingtreding van de Wegenverkeerswet 1994
+##Wet van 17 november 1994, houdende regeling van de inwerkingtreding van de Wegenverkeerswet 1994 
 
-Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.
+Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz. 
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten: 
 
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is de inwerkingtreding van de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) te regelen alsmede de wetten waarin wordt verwezen naar de Wegenverkeerswet, aan te passen aan de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
+Alzo Wij in overweging genomen hebben, dat het noodzakelijk is de inwerkingtreding van de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) te regelen alsmede de wetten waarin wordt verwezen naar de Wegenverkeerswet, aan te passen aan de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md); 
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:      
 ### Hoofdstuk  I  
 
-####Algemene bepalingen
+####Algemene bepalingen 
 
 ### Artikel  1  
 
@@ -18,111 +18,111 @@ Voor de toepassing van deze wet wordt onder Onze Minister, motorrijtuig, kenteke
 
 ### Hoofdstuk  II  
 
-####Wijziging van de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)
+####Wijziging van de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) 
 
 ### Artikel  2  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Hoofdstuk  III  
 
-####Wijziging van de wetten waarin wordt verwezen naar de Wegenverkeerswet en de daarop berustende uitvoeringsvoorschriften
+####Wijziging van de wetten waarin wordt verwezen naar de Wegenverkeerswet en de daarop berustende uitvoeringsvoorschriften 
 
 ### Artikel  3  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  4  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  5  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  6  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  7  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  8  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  9  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  10  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  11  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  12  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  13  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  14  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  15  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  16  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  17  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  18  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  19  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  20  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  21  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  22  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  23  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  24  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Hoofdstuk  IV  
 
-####Overgangsbepalingen
+####Overgangsbepalingen 
 
 ### §  1  
 
-####Verkeersgedrag
+####Verkeersgedrag 
 
 ### Artikel  25  
 
@@ -142,11 +142,11 @@ Bepalingen in verordeningen van provincies, gemeenten en waterschappen, in wier 
 
 ### §  2  
 
-####Toelating tot de weg
+####Toelating tot de weg 
 
 ### §  3  
 
-####Kentekens en kentekenbewijzen
+####Kentekens en kentekenbewijzen 
 
 ### Artikel  31  
 
@@ -186,11 +186,11 @@ Tot 1 januari 2010 is [artikel 36 van de Wegenverkeerswet 1994](../../../../../w
 
 ### §  4  
 
-####Erkenningen
+####Erkenningen 
 
 ### Artikel  39  
 
-Op het tijdstip van inwerkingtreding van de [artikelen 83 tot en met 89 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bestaande erkenningen voor het afgeven van keuringsbewijzen voor motorrijtuigen, aanhangwagens en opleggers, die zijn verleend op grond van artikel 9 *g* van de Wegenverkeerswet, worden aangemerkt als te zijn verleend op grond van [artikel 84 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).  
+Op het tijdstip van inwerkingtreding van de [artikelen 83 tot en met 89 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bestaande erkenningen voor het afgeven van keuringsbewijzen voor motorrijtuigen, aanhangwagens en opleggers, die zijn verleend op grond van artikel 9*g* van de Wegenverkeerswet, worden aangemerkt als te zijn verleend op grond van [artikel 84 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).  
 
 ### Artikel  40  
 
@@ -198,11 +198,11 @@ Aanvragen van erkenningen voor het afgeven van keuringsbewijzen, alsmede bezware
 
 ### Artikel  41  
 
-A Op het tijdstip van inwerkingtreding van de [artikelen 100 tot en met 104 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bestaande overeenkomsten, gesloten tussen Onze Minister en natuurlijke personen of rechtspersonen, krachtens welke overeenkomsten de natuurlijke persoon of rechtspersoon gerechtigd is om ter vervanging van door Onze Minister verricht onderzoek, onderzoek of deelonderzoek te verrichten ten behoeve van de goedkeuring voor toelating tot het verkeer op de weg van voertuigen ten aanzien waarvan een wijziging in de constructie is aangebracht, eindigen, onverminderd onderdeel C, met ingang van dat tijdstip. B Aan de natuurlijke persoon of rechtspersoon, waarmee een overeenkomst als bedoeld in onderdeel A is gesloten, welke overeenkomst naar het oordeel van Onze Minister inhoudelijk voldoet aan de eisen voor verlening van een erkenning als bedoeld in [artikel 101 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), wordt door Onze Minister met ingang van het in onderdeel A bedoelde tijdstip van inwerkingtreding een erkenning als bedoeld in het betrokken artikel van de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) verleend. C Onze Minister kan aan de natuurlijke persoon of rechtspersoon, waarmee een overeenkomst als bedoeld in onderdeel A is gesloten, welke overeenkomst naar het oordeel van Onze Minister inhoudelijk niet voldoet aan de eisen voor verlening van een erkenning als bedoeld in [artikel 101 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), een door hem te bepalen termijn gunnen, welke ten hoogste één jaar bedraagt, te rekenen vanaf het in onderdeel A bedoelde tijdstip van inwerkingtreding, gedurende welke termijn de overeenkomst blijft bestaan. Indien binnen deze termijn door de natuurlijke persoon of rechtspersoon naar het oordeel van Onze Minister wordt voldaan aan de eisen voor verlening van een erkenning als bedoeld in [artikel 101 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), wordt door Onze Minister een erkenning als bedoeld in het betrokken artikel van de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) verleend. De genoemde overeenkomst eindigt in dat geval met ingang van het tijdstip van verlening van de erkenning. D Op overeenkomsten welke ingevolge onderdeel C voor een door Onze Minister vast te stellen termijn van kracht blijven, zijn de [artikelen 102](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [103 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) van overeenkomstige toepassing. E Bij ministeriële regeling worden regels vastgesteld ter zake van de onderdelen B tot en met D. Deze regels betreffen in ieder geval het toezicht door Onze Minister ten aanzien van de betrokken natuurlijke personen of rechtspersonen.  
+A  Op het tijdstip van inwerkingtreding van de [artikelen 100 tot en met 104 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bestaande overeenkomsten, gesloten tussen Onze Minister en natuurlijke personen of rechtspersonen, krachtens welke overeenkomsten de natuurlijke persoon of rechtspersoon gerechtigd is om ter vervanging van door Onze Minister verricht onderzoek, onderzoek of deelonderzoek te verrichten ten behoeve van de goedkeuring voor toelating tot het verkeer op de weg van voertuigen ten aanzien waarvan een wijziging in de constructie is aangebracht, eindigen, onverminderd onderdeel C, met ingang van dat tijdstip.  B  Aan de natuurlijke persoon of rechtspersoon, waarmee een overeenkomst als bedoeld in onderdeel A is gesloten, welke overeenkomst naar het oordeel van Onze Minister inhoudelijk voldoet aan de eisen voor verlening van een erkenning als bedoeld in [artikel 101 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), wordt door Onze Minister met ingang van het in onderdeel A bedoelde tijdstip van inwerkingtreding een erkenning als bedoeld in het betrokken artikel van de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) verleend.  C  Onze Minister kan aan de natuurlijke persoon of rechtspersoon, waarmee een overeenkomst als bedoeld in onderdeel A is gesloten, welke overeenkomst naar het oordeel van Onze Minister inhoudelijk niet voldoet aan de eisen voor verlening van een erkenning als bedoeld in [artikel 101 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), een door hem te bepalen termijn gunnen, welke ten hoogste één jaar bedraagt, te rekenen vanaf het in onderdeel A bedoelde tijdstip van inwerkingtreding, gedurende welke termijn de overeenkomst blijft bestaan. Indien binnen deze termijn door de natuurlijke persoon of rechtspersoon naar het oordeel van Onze Minister wordt voldaan aan de eisen voor verlening van een erkenning als bedoeld in [artikel 101 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), wordt door Onze Minister een erkenning als bedoeld in het betrokken artikel van de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) verleend. De genoemde overeenkomst eindigt in dat geval met ingang van het tijdstip van verlening van de erkenning.  D  Op overeenkomsten welke ingevolge onderdeel C voor een door Onze Minister vast te stellen termijn van kracht blijven, zijn de [artikelen 102](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [103 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) van overeenkomstige toepassing.  E  Bij ministeriële regeling worden regels vastgesteld ter zake van de onderdelen B tot en met D. Deze regels betreffen in ieder geval het toezicht door Onze Minister ten aanzien van de betrokken natuurlijke personen of rechtspersonen.  
 
 ### §  5  
 
-####Keuringsbewijzen
+####Keuringsbewijzen 
 
 ### Artikel  42  
 
@@ -218,7 +218,7 @@ Voor de toepassing van de [artikelen 72](../../../../../wet/wegenverkeerswet/199
 
 ### §  6  
 
-####Keuring na vordering kentekenbewijs
+####Keuring na vordering kentekenbewijs 
 
 ### Artikel  45  
 
@@ -226,21 +226,21 @@ Aanvragen van goedkeuringen na invordering van het kentekenbewijs, ingediend vó
 
 ### §  7  
 
-####Rijbewijzen
+####Rijbewijzen 
 
 ### Artikel  46  
 
-Tot het tijdstip van inwerkingtreding van de [artikelen 1, eerste lid, onderdeel *k*](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en [107 tot en met 134 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) wordt voor de toepassing van die wet onder rijbewijs verstaan een rijbewijs dat is afgegeven op basis van de Wegenverkeerswet.  
+Tot het tijdstip van inwerkingtreding van de [artikelen 1, eerste lid, onderdeel *k* ](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en [107 tot en met 134 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) wordt voor de toepassing van die wet onder rijbewijs verstaan een rijbewijs dat is afgegeven op basis van de Wegenverkeerswet.  
 
 ### Artikel  47  
 
-Tot het tijdstip van inwerkingtreding van de [artikelen 1, eerste lid, onderdeel *l*](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en [126 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) wordt voor de toepassing van [artikel 180, vierde lid, van die wet](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) onder beheerder van het rijbewijzenregister verstaan de beheerder van het in artikel 20, eerste lid, onderdeel *f*, van de Wegenverkeerswet bedoelde register betreffende afgegeven rijbewijzen.  
+Tot het tijdstip van inwerkingtreding van de [artikelen 1, eerste lid, onderdeel *l* ](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en [126 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) wordt voor de toepassing van [artikel 180, vierde lid, van die wet](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) onder beheerder van het rijbewijzenregister verstaan de beheerder van het in artikel 20, eerste lid, onderdeel *f*, van de Wegenverkeerswet bedoelde register betreffende afgegeven rijbewijzen.  
 
 ### Artikel  48  
 
 1.  Met ingang van het tijdstip van inwerkingtreding van de [artikelen 1, eerste lid, onderdeel k](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [107 tot en met 110](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [111, eerste en derde tot en met vijfde lid](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [112 tot en met 134 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) wordt voor de toepassing van die wet onder rijbewijs mede verstaan een rijbewijs dat is afgegeven op basis van de Wegenverkeerswet.   
 2.  Voor de toepassing van [artikel 111, tweede lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) wordt onder een eerder aan hem afgegeven rijbewijs dat hetzij nog geldig is hetzij zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur mede verstaan een eerder op basis van de Wegenverkeerswet aan hem afgegeven rijbewijs dat hetzij nog geldig is hetzij na 30 juni 1985 zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur.   
-3.  Met ingang van het tijdstip van inwerkingtreding van [artikel 123 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) wordt voor de toepassing van het eerste lid, aanhef juncto onderdeel b, van dat artikel onder een eerder aan de aanvrager afgegeven rijbewijs mede verstaan een eerder op basis van de Wegenverkeerswet aan de aanvrager afgegeven rijbewijs dat op het moment van de aanvraag hetzij nog geldig is hetzij na 30 juni 1985 zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur of door omwisseling tegen een rijbewijs dat is afgegeven door het daartoe bevoegde gezag buiten Nederland.   
+3.  Met ingang van het tijdstip van inwerkingtreding van [artikel 123 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) wordt voor de toepassing van het eerste lid, aanhef juncto onderdeel b, van dat artikel onder een eerder aan de aanvrager afgegeven rijbewijs mede verstaan een eerder op basis van de Wegenverkeerswet aan de aanvrager afgegeven rijbewijs dat op het moment van de aanvraag hetzij nog geldig is hetzij na 30 juni 1985 zijn geldigheid heeft verloren door het verstrijken van de geldigheidsduur of door omwisseling tegen een rijbewijs dat is afgegeven door het daartoe bevoegde gezag buiten Nederland.  
 
 ### Artikel  49  
 
@@ -248,11 +248,11 @@ Onverminderd artikel 50 worden rijbewijzen die zijn afgegeven op basis van de We
 
 ### Artikel  50  
 
-Op basis van de Wegenverkeerswet afgegeven rijbewijzen die op het tijdstip van inwerkingtreding van de [artikelen 107 tot en met 134 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) nog geldig zijn, behouden hun geldigheid tot de datum waarop ingevolge artikel 99 *a* van het Wegenverkeersreglement, zoals die bepaling op dat tijdstip luidde, tot vernieuwing van die bewijzen dient te worden overgegaan.  
+Op basis van de Wegenverkeerswet afgegeven rijbewijzen die op het tijdstip van inwerkingtreding van de [artikelen 107 tot en met 134 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) nog geldig zijn, behouden hun geldigheid tot de datum waarop ingevolge artikel 99*a* van het Wegenverkeersreglement, zoals die bepaling op dat tijdstip luidde, tot vernieuwing van die bewijzen dient te worden overgegaan.  
 
 ### Artikel  51  
 
-De artikelen 18, 18 *a* en 18 *b* van de Wegenverkeerswet blijven van kracht ten aanzien van de gevallen waarin op het tijdstip van inwerkingtreding van de [artikelen 130 tot en met 134 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) op de voet van artikel 18 van de Wegenverkeerswet van de houder van een geldig rijbewijs is gevorderd dat hij zich onderwerpt aan een onderzoek naar zijn rijvaardigheid dan wel naar zijn geschiktheid.  
+De artikelen 18, 18*a*  en 18*b* van de Wegenverkeerswet blijven van kracht ten aanzien van de gevallen waarin op het tijdstip van inwerkingtreding van de [artikelen 130 tot en met 134 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) op de voet van artikel 18 van de Wegenverkeerswet van de houder van een geldig rijbewijs is gevorderd dat hij zich onderwerpt aan een onderzoek naar zijn rijvaardigheid dan wel naar zijn geschiktheid.  
 
 ### Artikel  52  
 
@@ -260,7 +260,7 @@ Ten aanzien van rijbewijzen die ingevolge artikel 19 van de Wegenverkeerswet die
 
 ### Artikel  53  
 
-Op basis van de Wegenverkeerswet afgegeven rijbewijzen die vóór het tijdstip van inwerkingtreding van de [artikelen 107 tot en met 134 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), met toepassing van artikel 10 *a* of artikel 18 *b*, vierde, vijfde of zevende lid, van de Wegenverkeerswet, voor één of meer categorieën van motorrijtuigen dan wel voor een gedeelte van de geldigheidsduur ongeldig zijn verklaard, worden voor de toepassing van [artikel 9, tweede lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) aangemerkt als rijbewijzen die met toepassing van [artikel 124](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [artikel 132, tweede lid](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), of [artikel 134, derde lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) ongeldig zijn verklaard.  
+Op basis van de Wegenverkeerswet afgegeven rijbewijzen die vóór het tijdstip van inwerkingtreding van de [artikelen 107 tot en met 134 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), met toepassing van artikel 10*a*  of artikel 18*b*, vierde, vijfde of zevende lid, van de Wegenverkeerswet, voor één of meer categorieën van motorrijtuigen dan wel voor een gedeelte van de geldigheidsduur ongeldig zijn verklaard, worden voor de toepassing van [artikel 9, tweede lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) aangemerkt als rijbewijzen die met toepassing van [artikel 124](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [artikel 132, tweede lid](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), of [artikel 134, derde lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) ongeldig zijn verklaard.  
 
 ### Artikel  54  
 
@@ -292,11 +292,13 @@ Tot 1 januari 2010 is [artikel 107 van de Wegenverkeerswet 1994](../../../../../
 
 ### Paragraaf  7a  
 
-####Bromfietscertificaten
+####Bromfietscertificaten 
+
+Vervallen per 01-10-2006 
 
 ### §  8  
 
-####Ontheffingen
+####Ontheffingen 
 
 ### Artikel  61  
 
@@ -304,7 +306,7 @@ Vrijstellingen en ontheffingen van bepalingen, vastgesteld bij of krachtens de W
 
 ### §  9  
 
-####Strafbepalingen
+####Strafbepalingen 
 
 ### Artikel  62  
 
@@ -312,7 +314,7 @@ Ten aanzien van bij of krachtens de Wegenverkeerswet strafbaar gestelde feiten d
 
 ### §  10  
 
-####Slotbepalingen
+####Slotbepalingen 
 
 ### Artikel  63  
 
@@ -320,7 +322,7 @@ Ten aanzien van in de bijlage van de [Wet administratiefrechtelijke handhaving v
 
 ### Artikel  64  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  65  
 
@@ -328,20 +330,21 @@ Na de inwerkingtreding van de [Wegenverkeerswet 1994](../../../../../wet/wegenve
 
 ### Artikel  66  
 
-1.  Indien in deze wet geregelde onderwerpen in het belang van een goede invoering van de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) nadere regeling behoeven, kan deze geschieden bij ministeriële regeling.   
-2.  Terstond na publikatie van een ministeriële regeling als bedoeld in het eerste lid in de *Staatscourant*, wordt een voordracht gedaan voor een algemene maatregel van bestuur tot nadere regeling van het betrokken onderwerp.   
+1.  Indien in deze wet geregelde onderwerpen in het belang van een goede invoering van de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) nadere regeling behoeven, kan deze geschieden bij ministeriële regeling.    
+2.   Terstond na publikatie van een ministeriële regeling als bedoeld in het eerste lid in de *Staatscourant*, wordt een voordracht gedaan voor een algemene maatregel van bestuur tot nadere regeling van het betrokken onderwerp.   
 
 ### Hoofdstuk  V  
 
-####Wijziging van de Wegenverkeerswet
+####Wijziging van de Wegenverkeerswet 
 
 ### Artikel  67  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Hoofdstuk  VI  
 
-####Inwerkingtreding van de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)
+####Inwerkingtreding van de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) 
 
 ### Artikel  68  
 
@@ -349,7 +352,7 @@ De [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/
 
 ### Hoofdstuk  VII  
 
-####Slotbepalingen
+####Slotbepalingen 
 
 ### Artikel  69  
 
@@ -371,19 +374,19 @@ De tekst van de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994
 
 Deze wet kan worden aangehaald als: Invoeringswet Wegenverkeerswet 1994.  
 
-Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
+Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    
 
-Gegeven te 's-Gravenhage 
-17 november 1994  
-Beatrix  
+Gegeven te 's-Gravenhage  
+17 november 1994   
+Beatrix   
 
-De Minister van Verkeer en Waterstaat, 
-A. Jorritsma-Lebbink   
+De Minister van Verkeer en Waterstaat,  
+A. Jorritsma-Lebbink    
 
-De Minister van Justitie, 
-W. Sorgdrager   
-
-de twintigste december 1994 
-
-De Minister van Justitie, 
+De Minister van Justitie,  
 W. Sorgdrager    
+
+de twintigste december 1994  
+
+De Minister van Justitie,  
+W. Sorgdrager     

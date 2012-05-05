@@ -1,16 +1,16 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling tegemoetkoming kosten onderwijs verpleegden
+##Regeling tegemoetkoming kosten onderwijs verpleegden 
 
 De Minister van Justitie,  
 Gelet op [artikel 43, vierde lid, van de Beginselenwet verpleging ter beschikking gestelden](../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md);
 
 Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 22 september 2000, nr. 5053768/00/TvdW/rb;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   kosten:  bedragen die in het kader van het volgen van onderwijs of het deelnemen aan andere educatieve activiteiten verschuldigd zijn voor deelname, wegens aanschaf van leermiddelen of voor het afleggen van tentamens en examens;    onderwijs:  onderwijs dat wordt georganiseerd door een bij of krachtens de wet erkende onderwijsinstelling, voor zover hierin niet in de inrichting wordt voorzien;    educatieve activiteiten:  activiteiten, niet zijnde onderwijs, gericht op de bevordering van de persoonlijke ontplooiing ten dienste van het maatschappelijk functioneren van de verpleegde door de ontwikkeling van kennis, inzicht, vaardigheden en houdingen op een wijze die aansluit bij zijn behoeften, mogelijkheden en ervaringen alsmede maatschappelijke behoeften, voor zover hierin niet in de inrichting wordt voorzien;    verzoek:  een verzoek om een tegemoetkoming in de kosten.     
+In deze regeling wordt verstaan onder:   kosten:   bedragen die in het kader van het volgen van onderwijs of het deelnemen aan andere educatieve activiteiten verschuldigd zijn voor deelname, wegens aanschaf van leermiddelen of voor het afleggen van tentamens en examens;    onderwijs:   onderwijs dat wordt georganiseerd door een bij of krachtens de wet erkende onderwijsinstelling, voor zover hierin niet in de inrichting wordt voorzien;    educatieve activiteiten:   activiteiten, niet zijnde onderwijs, gericht op de bevordering van de persoonlijke ontplooiing ten dienste van het maatschappelijk functioneren van de verpleegde door de ontwikkeling van kennis, inzicht, vaardigheden en houdingen op een wijze die aansluit bij zijn behoeften, mogelijkheden en ervaringen alsmede maatschappelijke behoeften, voor zover hierin niet in de inrichting wordt voorzien;    verzoek:   een verzoek om een tegemoetkoming in de kosten.     
 
 ### Artikel  2  
 
@@ -35,9 +35,9 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als: Regeling tegemoetkoming kosten onderwijs verpleegden.  
+Deze regeling wordt aangehaald als: Regeling tegemoetkoming kosten onderwijs verpleegden. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
-De 
-Minister van Justitie
-A.H.Korthals    
+De
+Ministervan Justitie 
+A.H.  Korthals      

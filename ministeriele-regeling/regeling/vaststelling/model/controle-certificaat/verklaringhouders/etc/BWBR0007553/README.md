@@ -4,7 +4,7 @@
 
 De Minister van Verkeer en Waterstaat,  
 Gelet op [artikel 8, vierde lid, van het Besluit verklaringhouders Scheepvaart-verkeerswet](../../../../../../../../AMvB/besluit/verklaringhouders/scheepvaartverkeerswet/BWBR0007513/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -16,7 +16,7 @@ Deze regeling treedt in werking met ingang van 1 oktober 1995.
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Regeling vaststelling model controle-certificaat verklaringhouders Scheepvaartverkeerswet.  
+Deze regeling wordt aangehaald als: Regeling vaststelling model controle-certificaat verklaringhouders Scheepvaartverkeerswet. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -24,4 +24,4 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister van Verkeer en Waterstaat, 
-A.Jorritsma-Lebbink    
+A. Jorritsma-Lebbink      

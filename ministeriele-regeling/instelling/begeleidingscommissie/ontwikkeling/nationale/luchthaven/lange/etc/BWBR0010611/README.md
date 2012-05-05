@@ -22,11 +22,11 @@ Besluit:
 1.  De begeleidingscommissie heeft als taak het begeleiden van het besluitvormingsproces, als bedoeld in het kabinetstandpunt WRR-advies ’Besluiten over Grote Projecten’, in het kader van het project ’Ontwikkeling Nationale Luchthaven, Lange Termijn’.   
 2.  De begeleidingscommissie beoordeelt: 
 
-a. de kwaliteit van het proces van besluitvorming;  
+a.  de kwaliteit van het proces van besluitvorming;  
 
-b. de wijze waarop maatschappelijke actoren bij het proces worden betrokken;  
+b.  de wijze waarop maatschappelijke actoren bij het proces worden betrokken;  
 
-c. de communicatie tussen het rijk en andere procespartners, en     
+c.  de communicatie tussen het rijk en andere procespartners, en     
 3.  De begeleidingscommissie beoordeelt de externe kwaliteitsborging met betrekking tot de onderbouwing van de besluitvorming op het eerste moment van afweging van de locaties Schiphol en een eiland in de Noordzee.   
 
 ### Artikel  4  
@@ -54,9 +54,9 @@ De werkzaamheden van de begeleidingscommissie Toekomstige Nederlandse Luchtvaart
 
 ### Artikel  8  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Verkeer en Waterstaat, 
-T.Netelenbos    
+T. Netelenbos      

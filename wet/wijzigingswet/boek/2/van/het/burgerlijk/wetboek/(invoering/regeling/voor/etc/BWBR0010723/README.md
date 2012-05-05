@@ -11,25 +11,25 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### ARTIKEL  I  
 
-Wijzigt Boek 2 van het Burgerlijk Wetboek.   
+Wijzigt Boek 2 van het Burgerlijk Wetboek.  
 
 ### ARTIKEL  II  
 
 1.  De Effectenvernieuwingswet wordt ingetrokken.   
-2.  Een aanvraag tot vervanging die is ingediend onder de werking van de Effectenvernieuwingswet wordt beheerst door de bepalingen van die wet.   
+2.  Een aanvraag tot vervanging die is ingediend onder de werking van de Effectenvernieuwingswet wordt beheerst door de bepalingen van die wet.  
 
 ### ARTIKEL  III  
 
-Deze wet treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 16 september 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Justitie, 
-A. H. Korthals   
+A. H. Korthals    
 
 De Minister van Financiën, 
 G. Zalm   
@@ -37,4 +37,4 @@ G. Zalm
 de dertigste september 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

@@ -11,11 +11,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet voorkeursrecht gemeenten.   
+Wijzigt de Wet voorkeursrecht gemeenten.  
 
 ### Artikel  II  
 
-Wijzigt de Pachtwet.   
+Wijzigt de Pachtwet.  
 
 ### Artikel  III  
 
@@ -31,15 +31,15 @@ De tekst van de [Wet voorkeursrecht gemeenten](../../../../../../wet/wet/voorkeu
 
 ### Artikel  VI  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 4 juli 1996  
-Beatrix  
+Beatrix   
 
-De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
 Margaretha de Boer   
 
 de zestiende juli 1996 

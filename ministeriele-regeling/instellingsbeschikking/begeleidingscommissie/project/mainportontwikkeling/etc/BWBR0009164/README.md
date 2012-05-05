@@ -13,8 +13,8 @@ dat het Kabinet bovenstaand overziende, heeft besloten een PKB/MER-procedure te 
 
 500 ha droog. Uitbreidbaarheid in de toekomst dient (technisch) mogelijk te blijven. Daarnaast zal onder andere een meest milieuvriendelijk alternatief en het alternatief: ’inbreiden’ in de haven van Rotterdam en het benutten van de thans bestaande en voorziene mogelijkheden in zuid-west Nederland, worden onderzocht. Dit alternatief wordt in de projectbeslissing nul-alternatief genoemd;
 
-dat daarbij zal worden aangegeven op welke manier en in welk kader op evenwichtige wijze uitwerking zal worden gegeven aan de in de aanvangsbeslissing geformuleerde doelstelling ‐ versterking van mainport Rotterdam en verbetering van de leefomgeving ‐ én aan de samenhang van de eventuele uitbreiding van de Maasvlakte met de bestaande haven en omgeving.
-Besluit:    
+dat daarbij zal worden aangegeven op welke manier en in welk kader op evenwichtige wijze uitwerking zal worden gegeven aan de in de aanvangsbeslissing geformuleerde doelstelling ‐ versterking van mainport Rotterdam en verbetering van de leefomgeving ‐ én aan de samenhang van de eventuele uitbreiding van de Maasvlakte met de bestaande haven en omgeving. 
+Besluit:     
 
 ### Artikel  1  
 
@@ -27,22 +27,22 @@ Besluit:
 1.  De commissie heeft tot taak het begeleiden van het proces van besluitvorming in de PKB-fase met betrekking tot mainportontwikkeling Rotterdam;   
 2.  De commissie beoordeelt in elk geval: 
 
-a. de aanpak en het verloop van het proces;  
+a.  de aanpak en het verloop van het proces;  
 
-b. de wijze waarop en welke maatschappelijke actoren bij het proces worden betrokken en;  
+b.  de wijze waarop en welke maatschappelijke actoren bij het proces worden betrokken en;  
 
-c. de communicatie tussen het Rijk en andere procespartners.     
+c.  de communicatie tussen het Rijk en andere procespartners.     
 3.  De commissie rapporteert haar bevindingen aan de Minister van Verkeer en Waterstaat.   
 
 ### Artikel  3  
 
 In de commissie worden benoemd : 
 
-a. tot voorzitter, tevens lid: 
+a.  tot voorzitter, tevens lid: 
 
 de heer J.G.M. Alders    
 
-b. tot lid: 
+b.  tot lid: 
 
 mevrouw prof. dr. J.M. Cramer  
 
@@ -54,7 +54,7 @@ de heer prof. dr. P. Nijkamp
 
 mevrouw ir. L.E. Stolker-Nanninga.    
 
-c. Het secretariaat van deze commissie zal onafhankelijk worden ingevuld.    
+c.  Het secretariaat van deze commissie zal onafhankelijk worden ingevuld.    
 
 ### Artikel  4  
 
@@ -68,8 +68,8 @@ De commissie regelt haar werkzaamheden naar eigen inzicht.
 ### Artikel  6  
 
 1.  Het beheer van de bescheiden betreffende de werkzaamheden van de Commissie geschiedt met inachtneming van de bepalingen van het Besluit algemene secretarieaangelegenheden rijksadministratie op overeenkomstige wijze als bij het departement van Verkeer en Waterstaat.   
-2.  De bescheiden worden bij opheffing van de Commissie in het Centraal archief van dit departement opgenomen. Deze beschikking zal bekend worden gemaakt in de Staatscourant en in afschrift worden gezonden aan belanghebbenden.   
+2.  De bescheiden worden bij opheffing van de Commissie in het Centraal archief van dit departement opgenomen. Deze beschikking zal bekend worden gemaakt in de Staatscourant en in afschrift worden gezonden aan belanghebbenden.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-A.Jorritsma-Lebbink    
+A. Jorritsma-Lebbink      

@@ -2,7 +2,7 @@
 
 ##Privacyreglement Kwaliteitsbureau Tolken en Vertalers
 
-Besluit van de Staatssecretaris van Justitie van 14 augustus juli 2000, houdende regels voor de registratie van tolken en vertalers.     
+Besluit van de Staatssecretaris van Justitie van 14 augustus juli 2000, houdende regels voor de registratie van tolken en vertalers.      
 
 ####Definities
 
@@ -10,33 +10,33 @@ Besluit van de Staatssecretaris van Justitie van 14 augustus juli 2000, houdende
 
 In dit reglement wordt verstaan onder: 
 
-a. *de wet:* de Wet persoonsregistraties;  
+a.  *de wet:* de Wet persoonsregistraties;  
 
-b. *persoonsgegeven:* een gegeven dat herleidbaar is tot een individuele natuurlijke persoon;  
+b.  *persoonsgegeven:* een gegeven dat herleidbaar is tot een individuele natuurlijke persoon;  
 
-c. *registratie:* de verzameling van gegevens van het Kwaliteitsbureau Tolken en Vertalers van de Directie Bestuurszaken van het Ministerie van Justitie ten behoeve van de doelstelling omschreven in artikel 2, eerste en tweede lid;  
+c.  *registratie:* de verzameling van gegevens van het Kwaliteitsbureau Tolken en Vertalers van de Directie Bestuurszaken van het Ministerie van Justitie ten behoeve van de doelstelling omschreven in artikel 2, eerste en tweede lid;  
 
-d. *houder:* de Staatssecretaris van Justitie;  
+d.  *houder:* de Staatssecretaris van Justitie;  
 
-e. *de registratiebeheerder:* de directeur van de Directie Bestuurszaken van het Ministerie van Justitie;  
+e.  *de registratiebeheerder:* de directeur van de Directie Bestuurszaken van het Ministerie van Justitie;  
 
-f. *de directie:* de Directie Bestuurszaken van het Ministerie van Justitie;  
+f.  *de directie:* de Directie Bestuurszaken van het Ministerie van Justitie;  
 
-g. *het Kwaliteitsbureau:* het Kwaliteitsbureau Tolken en Vertalers van de directie;  
+g.  *het Kwaliteitsbureau:* het Kwaliteitsbureau Tolken en Vertalers van de directie;  
 
-h. *verstrekken van gegevens:* het bekendmaken of ter beschikking stellen van persoonsgegevens voor zover zulks geheel of grotendeels steunt op gegevens die in de registratie zijn opgenomen, of die door verwerking daarvan, al dan niet in verband met andere gegevens, zijn verkregen;  
+h.  *verstrekken van gegevens:* het bekendmaken of ter beschikking stellen van persoonsgegevens voor zover zulks geheel of grotendeels steunt op gegevens die in de registratie zijn opgenomen, of die door verwerking daarvan, al dan niet in verband met andere gegevens, zijn verkregen;  
 
-i. *het kwaliteitstraject:* het kwaliteitstraject tolken en vertalers van het Ministerie van Justitie. Dit is het traject dat door de Staatssecretaris van Justitie in gang is gezet om te komen tot kwalitatief goede tolken en vertalers door middel van het stellen van uniforme kwaliteitseisen. Hierbij wordt getoetst of de tolken en vertalers voldoen aan die kwaliteitseisen. De tolk/vertaler wordt de mogelijkheid geboden door middel van bijscholingsmodules eventuele lacunes in de vaardigheden te dichten. Tolken/vertalers kunnen op vrijwillige basis participeren in het traject door ondertekening van een kwaliteitsovereenkomst en het aanleveren van gegevens (personalia, opleidingsgegevens, gegevens met betrekking tot de deskundigheid en het arbeidsverleden);  
+i.  *het kwaliteitstraject:* het kwaliteitstraject tolken en vertalers van het Ministerie van Justitie. Dit is het traject dat door de Staatssecretaris van Justitie in gang is gezet om te komen tot kwalitatief goede tolken en vertalers door middel van het stellen van uniforme kwaliteitseisen. Hierbij wordt getoetst of de tolken en vertalers voldoen aan die kwaliteitseisen. De tolk/vertaler wordt de mogelijkheid geboden door middel van bijscholingsmodules eventuele lacunes in de vaardigheden te dichten. Tolken/vertalers kunnen op vrijwillige basis participeren in het traject door ondertekening van een kwaliteitsovereenkomst en het aanleveren van gegevens (personalia, opleidingsgegevens, gegevens met betrekking tot de deskundigheid en het arbeidsverleden);  
 
-j. *de tolk/vertaler:* de tolk of vertaler die door ondertekening van de kwaliteitsovereenkomst partner is in het kwaliteitstraject tolken en vertalers;  
+j.  *de tolk/vertaler:* de tolk of vertaler die door ondertekening van de kwaliteitsovereenkomst partner is in het kwaliteitstraject tolken en vertalers;  
 
-k. *de afnemer:* de afnemer van tolk- en vertaaldiensten binnen de werkingssfeer van Justitie, zijnde de IND, de gerechten (waaronder de arrondissementsparketten) en de Tolkencentra;  
+k.  *de afnemer:* de afnemer van tolk- en vertaaldiensten binnen de werkingssfeer van Justitie, zijnde de IND, de gerechten (waaronder de arrondissementsparketten) en de Tolkencentra;  
 
-l. *de Associatie:* de Stichting Nederlandse Associatie voor Praktijkexamens, die belast is met de logistiek van de toetsen die worden afgenomen in het kwaliteitstraject;  
+l.  *de Associatie:* de Stichting Nederlandse Associatie voor Praktijkexamens, die belast is met de logistiek van de toetsen die worden afgenomen in het kwaliteitstraject;  
 
-m. *het Kernteam:* de instantie die in opdracht van de directie bijscholingsmodules en toetsen heeft ontwikkeld en het aanbieden en afnemen van deze modules en toetsen aan/van tolken/vertalers coördineert;  
+m.  *het Kernteam:* de instantie die in opdracht van de directie bijscholingsmodules en toetsen heeft ontwikkeld en het aanbieden en afnemen van deze modules en toetsen aan/van tolken/vertalers coördineert;  
 
-n. *Nuffic:* de instantie die in opdracht van de directie diploma's en getuigschriften van tolken en vertalers controleert op echtheid, opleidingsniveau en de aanwezigheid van Nederlands als een van de actieve talen.    
+n.  *Nuffic:* de instantie die in opdracht van de directie diploma's en getuigschriften van tolken en vertalers controleert op echtheid, opleidingsniveau en de aanwezigheid van Nederlands als een van de actieve talen.    
 
 ####Doel en werking
 
@@ -62,19 +62,19 @@ n. *Nuffic:* de instantie die in opdracht van de directie diploma's en getuigsch
 
 Rechtstreekse toegang tot de registratie hebben: 
 
-a. de registratiebeheerder;  
+a.  de registratiebeheerder;  
 
-b. het hoofd van het Kwaliteitsbureau;  
+b.  het hoofd van het Kwaliteitsbureau;  
 
-c. de medewerkers van het Kwaliteitsbureau;  
+c.  de medewerkers van het Kwaliteitsbureau;  
 
-d. het hoofd en de medewerkers van de afdeling Juridische Zaken en Beleid van de directie;  
+d.  het hoofd en de medewerkers van de afdeling Juridische Zaken en Beleid van de directie;  
 
-e. de overige medewerkers van het Ministerie van Justitie, belast met de beleidsontwikkeling op het gebied van het kwaliteitstraject tolken en vertalers;  
+e.  de overige medewerkers van het Ministerie van Justitie, belast met de beleidsontwikkeling op het gebied van het kwaliteitstraject tolken en vertalers;  
 
-f. personen belast met het technisch onderhoud van het geautomatiseerd systeem waarmee de registratie wordt uitgevoerd, uitsluitend met toestemming en onder toezicht van het hoofd van het Kwaliteitsbureau;  
+f.  personen belast met het technisch onderhoud van het geautomatiseerd systeem waarmee de registratie wordt uitgevoerd, uitsluitend met toestemming en onder toezicht van het hoofd van het Kwaliteitsbureau;  
 
-g. De afnemer.    
+g.  De afnemer.    
 
 ####Categorieën van geregistreerde personen
 
@@ -82,11 +82,11 @@ g. De afnemer.
 
 In de registratie kunnen slechts persoonsgegevens worden opgenomen omtrent de volgende categorieën van personen: 
 
-a. tolken/vertalers die zich hebben aangemeld om te participeren in het kwaliteitstraject;  
+a.  tolken/vertalers die zich hebben aangemeld om te participeren in het kwaliteitstraject;  
 
-b. tolken/vertalers die participeren in het kwaliteitstraject;  
+b.  tolken/vertalers die participeren in het kwaliteitstraject;  
 
-c. tolken/vertalers die zijn uitgesloten voor (verdere) deelname aan het kwaliteitstraject.    
+c.  tolken/vertalers die zijn uitgesloten voor (verdere) deelname aan het kwaliteitstraject.    
 
 ####Soorten van gegevens en de wijze van verkrijging
 
@@ -94,36 +94,36 @@ c. tolken/vertalers die zijn uitgesloten voor (verdere) deelname aan het kwalite
 
 1.  Omtrent de in artikel 5 genoemde personen kunnen de volgende soorten van persoonsgegevens worden opgenomen: 
 
-a. personalia;  
+a.  personalia;  
 
-b. gegevens met betrekking tot de gevolgde opleidingen;  
+b.  gegevens met betrekking tot de gevolgde opleidingen;  
 
-c. gegevens met betrekking tot het arbeidsverleden;  
+c.  gegevens met betrekking tot het arbeidsverleden;  
 
-d. gegevens met betrekking tot de ervaring en deskundigheid van de tolk/vertaler;  
+d.  gegevens met betrekking tot de ervaring en deskundigheid van de tolk/vertaler;  
 
-e. gegevens met betrekking tot de vorderingen van het afleggen van toetsen;  
+e.  gegevens met betrekking tot de vorderingen van het afleggen van toetsen;  
 
-f. gegevens met betrekking tot de gevolgde bijscholingsmodules;  
+f.  gegevens met betrekking tot de gevolgde bijscholingsmodules;  
 
-g. gegevens met betrekking tot ingediende klachten tegen de tolk/vertaler en de beslissing hierop;  
+g.  gegevens met betrekking tot ingediende klachten tegen de tolk/vertaler en de beslissing hierop;  
 
-h. gegevens met betrekking tot de status van deelname aan het kwaliteitstraject;  
+h.  gegevens met betrekking tot de status van deelname aan het kwaliteitstraject;  
 
-i. gegevens met betrekking tot de redenen van beëindiging van deelname aan het kwaliteitstraject;  
+i.  gegevens met betrekking tot de redenen van beëindiging van deelname aan het kwaliteitstraject;  
 
-j. gegevens met betrekking tot de tarieven die worden betaald voor dienstverlening door de tolk/vertaler;     
+j.  gegevens met betrekking tot de tarieven die worden betaald voor dienstverlening door de tolk/vertaler;     
 2.  De persoonsgegevens in het eerste lid zijn afkomstig van: 
 
-a. de tolk/vertaler;  
+a.  de tolk/vertaler;  
 
-b. de afnemer;  
+b.  de afnemer;  
 
-c. de Associatie;  
+c.  de Associatie;  
 
-d. het Kernteam;  
+d.  het Kernteam;  
 
-e. overige (overheids)organisaties voor zover deze gezien het doel van de registratie relevante gegevens verstrekken over de tolk/vertaler.     
+e.  overige (overheids)organisaties voor zover deze gezien het doel van de registratie relevante gegevens verstrekken over de tolk/vertaler.     
 
 ####Verwijdering en vernietiging
 
@@ -150,13 +150,13 @@ De registratie heeft verbanden met verzamelingen van persoonsgegevens van de in 
 2.  Verstrekking van gegevens vindt plaats aan de personen en instanties genoemd in artikel 6, tweede lid.   
 3.  Verstrekking van gegevens aan derden kan plaatsvinden conform het bepaalde in de wet, waaronder: 
 
-a. in overeenstemming met het doel van de registratie;  
+a.  in overeenstemming met het doel van de registratie;  
 
-b. ingevolge enig wettelijk voorschrift;  
+b.  ingevolge enig wettelijk voorschrift;  
 
-c. met instemming van de geregistreerde;  
+c.  met instemming van de geregistreerde;  
 
-d. instellingen belast met een publiekrechtelijke taak waarvoor zij de gegevens behoeven voor de uitvoering van hun taak en mits door de verstrekking de persoonlijke levenssfeer van de geregistreerde niet onevenredig zwaar wordt geschaad.     
+d.  instellingen belast met een publiekrechtelijke taak waarvoor zij de gegevens behoeven voor de uitvoering van hun taak en mits door de verstrekking de persoonlijke levenssfeer van de geregistreerde niet onevenredig zwaar wordt geschaad.     
 4.  De verstrekking aan personen of instanties die geen rechtstreekse toegang hebben tot de registratie wordt verzorgd door de in artikel 4 onder c genoemde functionarissen, na toestemming van de in artikel 4 onder b genoemde functionaris.   
 
 ####Protocollering
@@ -179,18 +179,18 @@ De geregistreerde wordt binnen vier weken na eerste opname in de registratie sch
 2.  Op een verzoek als bedoeld in artikel 29 en 32 van de wet wordt binnen vier weken nadat het verzoek is ontvangen, geantwoord. Op een verzoek als bedoeld in artikel 31 wordt binnen acht weken geantwoord.   
 3.  De mededeling als bedoeld in artikel 29 en 32 van de wet wordt geweigerd voor zover dit noodzakelijk is in het belang van: 
 
-a. de veiligheid van de staat;  
+a.  de veiligheid van de staat;  
 
-b. de opsporing en vervolging van strafbare feiten;  
+b.  de opsporing en vervolging van strafbare feiten;  
 
-c. economische en financiële belangen van de staat en andere openbare lichamen;  
+c.  economische en financiële belangen van de staat en andere openbare lichamen;  
 
-d. inspectie, controle en toezicht door of vanwege overheidsorganen of andere organen met publiekrechtelijke taak;  
+d.  inspectie, controle en toezicht door of vanwege overheidsorganen of andere organen met publiekrechtelijke taak;  
 
-e. gewichtige belangen van anderen dan de verzoeker, de houder daaronder begrepen.     
+e.  gewichtige belangen van anderen dan de verzoeker, de houder daaronder begrepen.     
 4.  De functionaris belast met de behandeling van de verzoeken genoemd in het eerste lid is bevoegd ter vaststelling van de identiteit van de verzoeker of diens vertegenwoordiger zonodig inzage te vragen van documenten waaruit de identiteit kan blijken. Hij kan van de verzoeker of diens vertegenwoordiger verlangen dat die in persoon bij hem verschijnt.   
 5.  De beantwoording van de verzoeken, met inbegrip van de weigering aan het verzoek te voldoen, geschiedt schriftelijk.   
-6.  Indien de houder niet voldoet aan het verzoek van betrokkene zoals bedoeld in het eerste lid van dit artikel, of daar niet schriftelijk aan voldoet, kan betrokkene zich wenden tot de arrondissementsrechtbank of de Registratiekamer, zoals bepaald in artikel 34 van de wet.   
+6.  Indien de houder niet voldoet aan het verzoek van betrokkene zoals bedoeld in het eerste lid van dit artikel, of daar niet schriftelijk aan voldoet, kan betrokkene zich wenden tot de arrondissementsrechtbank of de Registratiekamer, zoals bepaald in artikel 34 van de wet.  
 Dit reglement wordt aangehaald als privacyreglement Kwaliteitsbureau Tolken en Vertalers. Dit reglement zal in de Staatscourant worden geplaatst. Dit reglement treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.   
 
 De 
@@ -201,4 +201,4 @@ Staatssecretaris,
 
 De 
 Directeur Bestuurszaken, 
-G.B.Raaphorst    
+G.B. Raaphorst      

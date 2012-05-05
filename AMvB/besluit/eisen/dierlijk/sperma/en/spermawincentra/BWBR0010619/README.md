@@ -48,20 +48,20 @@ m. vestiging: op één plaats gelegen bedrijf of deel van een bedrijf, bestaande
 
 n. richtlijn 90/429/EEG: Richtlijn nr. 90/429/EEG van de Raad van de Europese Gemeenschappen van 26 juni 1990 tot vaststelling van de veterinairrechtelijke voorschriften van toepassing op het intracommunautaire handelsverkeer in sperma van varkens en de invoer daarvan (PbEG L 224):  
 
-o. richtlijn 88/407/EEG: Richtlijn nr. 88/407/EEG van de Raad van 14 juni 1988 tot vaststelling van de veterinairrechtelijke voorschriften van toepassing op het intracommunautaire handelsverkeer in sperma van runderen en de invoer daarvan (PbEG L 194).    
+o. richtlijn 88/407/EEG: Richtlijn nr. 88/407/EEG van de Raad van 14 juni 1988 tot vaststelling van de veterinairrechtelijke voorschriften van toepassing op het intracommunautaire handelsverkeer in sperma van runderen en de invoer daarvan (PbEG L 194).   
 
 ### Artikel  1a  
 
-Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../../../../wet/dienstenwet/BWBR0026759/README.md), is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag tot erkenning als bedoeld in de artikelen 3 en 9.  
+Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../../../../wet/dienstenwet/BWBR0026759/README.md), is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag tot erkenning als bedoeld in de artikelen 3 en 9. 
 
 ### §  2  
 
 ####Eisen met betrekking tot varkenssperma
 
-### Artikel  2  
+###Artikel 2 
 
-1.  Het is verboden varkenssperma te winnen, tenzij is voldaan aan het bepaalde bij of krachtens de artikelen 3 en 4.   
-2.  Het eerste lid is niet van toepassing op het winnen van varkenssperma op een vestiging ten behoeve van kunstmatige inseminatie van de op deze vestiging aanwezige varkens.   
+1. Het is verboden varkenssperma te winnen, tenzij is voldaan aan het bepaalde bij of krachtens de artikelen 3 en 4.
+2. Het eerste lid is niet van toepassing op het winnen van varkenssperma op een vestiging ten behoeve van kunstmatige inseminatie van de op deze vestiging aanwezige varkens.
 
 ### Artikel  3  
 
@@ -79,9 +79,9 @@ d. de administratie, en
 
 e. de bedrijfsvoering van het spermawincentrum.     
 4.  Aan een erkend varkensspermawincentrum wordt in verband met de erkenning een registratienummer toegekend.   
-5.  Onze Minister kan de erkenning, bedoeld in het eerste lid, intrekken of schorsen indien niet wordt voldaan aan de regels, bedoeld in het tweede en derde lid.   
+5.  Onze Minister kan de erkenning, bedoeld in het eerste lid, intrekken of schorsen indien niet wordt voldaan aan de regels, bedoeld in het tweede en derde lid.    
 6.  Een aanvraag tot erkenning wordt ingediend bij Onze Minister.   
-7.  Bij ministeriële regeling kunnen nadere regels gesteld worden omtrent het indienen van een aanvraag.   
+7.  Bij ministeriële regeling kunnen nadere regels gesteld worden omtrent het indienen van een aanvraag.  
 
 ### Artikel  4  
 
@@ -100,15 +100,15 @@ c. het ter beschikking stellen van nader te bepalen monsters van op het varkenss
 
 d. het doorgeven van mutaties in het berenbestand aan de in onderdeel c bedoelde instelling;  
 
-e. de in het eerste lid genoemde onderwerpen.     
+e. de in het eerste lid genoemde onderwerpen.    
 
-### Artikel  5  
+###Artikel 5 
 
-Het is verboden varkenssperma te vervoeren of te verhandelen, tenzij is voldaan aan het bepaalde bij of krachtens de artikelen 6 en 7.  
+Het is verboden varkenssperma te vervoeren of te verhandelen, tenzij is voldaan aan het bepaalde bij of krachtens de artikelen 6 en 7.
 
-### Artikel  6  
+###Artikel 6 
 
-Het varkenssperma is overeenkomstig het bepaalde bij of krachtens de artikelen 3 en 4 op een varkensspermawincentrum gewonnen, bewerkt en opgeslagen of het is, voor zover het varkenssperma betreft dat is gewonnen in een buiten Nederland gevestigd spermawincentrum, overeenkomstig de krachtens [artikelen 10](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [11 van de wet](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) gestelde regels binnen Nederland gebracht.  
+Het varkenssperma is overeenkomstig het bepaalde bij of krachtens de artikelen 3 en 4 op een varkensspermawincentrum gewonnen, bewerkt en opgeslagen of het is, voor zover het varkenssperma betreft dat is gewonnen in een buiten Nederland gevestigd spermawincentrum, overeenkomstig de krachtens [artikelen 10](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [11 van de wet](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) gestelde regels binnen Nederland gebracht.
 
 ### Artikel  7  
 
@@ -127,16 +127,16 @@ c. de identificatie en registratie van het varkenssperma;
 
 d. het ter beschikking stellen van nader te bepalen monsters van sperma aan een daarbij aan te wijzen instelling;  
 
-e. de in het eerste lid genoemde onderwerpen.     
+e. de in het eerste lid genoemde onderwerpen.    
 
 ### §  3  
 
 ####Eisen met betrekking tot rundersperma
 
-### Artikel  8  
+###Artikel 8 
 
-1.  Het is verboden rundersperma te winnen, tenzij is voldaan aan het bepaalde bij of krachtens de artikelen 9 en 10.   
-2.  Het eerste lid is niet van toepassing op het winnen van rundersperma op een vestiging ten behoeve van kunstmatige inseminatie van de op deze vestiging aanwezige runderen.   
+1. Het is verboden rundersperma te winnen, tenzij is voldaan aan het bepaalde bij of krachtens de artikelen 9 en 10. 
+2. Het eerste lid is niet van toepassing op het winnen van rundersperma op een vestiging ten behoeve van kunstmatige inseminatie van de op deze vestiging aanwezige runderen.
 
 ### Artikel  9  
 
@@ -154,7 +154,7 @@ d. de bedrijfsvoering van het spermawincentrum.
 4.  Aan een erkend runderspermawincentrum wordt in verband met de erkenning een registratienummer toegekend.   
 5.  Onze Minister kan de erkenning, bedoeld in het eerste lid, intrekken of schorsen indien niet wordt voldaan aan de regels, bedoeld in het tweede en derde lid.   
 6.  Een aanvraag tot erkenning wordt ingediend bij Onze Minister.   
-7.  Bij ministeriële regeling kunnen nadere regels gesteld worden omtrent het indienen van een aanvraag.   
+7.  Bij ministeriële regeling kunnen nadere regels gesteld worden omtrent het indienen van een aanvraag.  
 
 ### Artikel  10  
 
@@ -173,15 +173,15 @@ c. het ter beschikking stellen van nader te bepalen monsters van op het rundersp
 
 d. het doorgeven van mutaties in het stierenbestand aan de in onderdeel c bedoelde instelling;  
 
-e. de in het eerste lid genoemde onderwerpen.     
+e. de in het eerste lid genoemde onderwerpen.    
 
-### Artikel  11  
+###Artikel 11 
 
-Het is verboden rundersperma te vervoeren of te verhandelen, tenzij is voldaan aan het bepaalde bij of krachtens de artikelen 12 en 13.  
+Het is verboden rundersperma te vervoeren of te verhandelen, tenzij is voldaan aan het bepaalde bij of krachtens de artikelen 12 en 13.
 
-### Artikel  12  
+###Artikel 12 
 
-Het rundersperma is overeenkomstig het bepaalde bij of krachtens de artikelen 9 en 10 op een runderspermawincentrum gewonnen, bewerkt en opgeslagen of het is, voor zover het rundersperma betreft dat is gewonnen in een buiten Nederland gevestigd spermawincentrum, overeenkomstig de krachtens [artikelen 10](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [11 van de wet](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) gestelde regels binnen Nederland gebracht.  
+Het rundersperma is overeenkomstig het bepaalde bij of krachtens de artikelen 9 en 10 op een runderspermawincentrum gewonnen, bewerkt en opgeslagen of het is, voor zover het rundersperma betreft dat is gewonnen in een buiten Nederland gevestigd spermawincentrum, overeenkomstig de krachtens [artikelen 10](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [11 van de wet](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) gestelde regels binnen Nederland gebracht.
 
 ### Artikel  13  
 
@@ -200,16 +200,16 @@ c. de identificatie en registratie van het rundersperma;
 
 d. het ter beschikking stellen van nader te bepalen monsters van sperma aan een daarbij aan te wijzen instelling;  
 
-e. de in het eerste lid genoemde onderwerpen.     
+e. de in het eerste lid genoemde onderwerpen.    
 
 ### §  4  
 
 ####Eisen aan paardenspermawincentra
 
-### Artikel  14  
+###Artikel 14 
 
-1.  Het is verboden paardensperma te winnen, tenzij is voldaan aan het bepaalde bij of krachtens artikel 15.   
-2.   Dit lid is nog niet in werking getreden.    
+1. Het is verboden paardensperma te winnen, tenzij is voldaan aan het bepaalde bij of krachtens artikel 15.
+2. Dit lid is nog niet in werking getreden.
 
 ### Artikel  15  
 
@@ -240,13 +240,13 @@ d. het doorgeven van mutaties in het paardenbestand aan de in onderdeel c bedoel
 
 e. de in het derde lid genoemde onderwerpen.     
 
-### Artikel  16  
+###Artikel 16 
 
-Het is verboden paardensperma te vervoeren of te verhandelen, tenzij is voldaan aan het bepaalde bij of krachtens de artikelen 17 en 18.  
+Het is verboden paardensperma te vervoeren of te verhandelen, tenzij is voldaan aan het bepaalde bij of krachtens de artikelen 17 en 18.
 
-### Artikel  17  
+###Artikel 17 
 
-Het paardensperma is overeenkomstig het bepaalde bij of krachtens artikel 15 op een paardenspermawincentrum gewonnen, bewerkt en opgeslagen of het is, voor zover het paardensperma betreft dat is gewonnen in een buiten Nederland gevestigd spermawincentrum, overeenkomstig de krachtens [artikelen 10](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [11 van de wet](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) gestelde regels binnen Nederland gebracht.  
+Het paardensperma is overeenkomstig het bepaalde bij of krachtens artikel 15 op een paardenspermawincentrum gewonnen, bewerkt en opgeslagen of het is, voor zover het paardensperma betreft dat is gewonnen in een buiten Nederland gevestigd spermawincentrum, overeenkomstig de krachtens [artikelen 10](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [11 van de wet](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) gestelde regels binnen Nederland gebracht.
 
 ### Artikel  18  
 
@@ -265,18 +265,20 @@ c. de identificatie en registratie van het paardensperma;
 
 d. het ter beschikking stellen van nader te bepalen monsters van sperma aan een daarbij aan te wijzen instelling;  
 
-e. de in het eerste lid genoemde onderwerpen.     
+e. de in het eerste lid genoemde onderwerpen.    
 
 ### §  5  
 
 ####Eisen met betrekking tot sperma van schapen en geiten
 
 ### Artikel  19  
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Het is verboden schapen- of geitensperma te winnen, tenzij is voldaan aan het bepaalde bij of krachtens artikel 20.   
-2.  Het eerste lid is niet van toepassing op het winnen van schapen- of geitensperma op een vestiging ten behoeve van kunstmatige inseminatie van de op deze vestiging aanwezige schapen of geiten.   
+2.  Het eerste lid is niet van toepassing op het winnen van schapen- of geitensperma op een vestiging ten behoeve van kunstmatige inseminatie van de op deze vestiging aanwezige schapen of geiten.  
 
 ### Artikel  20  
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Winning van schapen- of geitensperma geschiedt uitsluitend in een spermawincentrum voor schapen of geiten.   
 2.  Bij ministeriële regeling kunnen regels gesteld worden die betrekking hebben op onder meer: 
@@ -292,7 +294,7 @@ d. de bedrijfsvoering van het spermawincentrum;
 
 a. een administratie die de tracering van contacten tussen het spermawincentrum met inseminatoren, dierenartsen, vervoerders, handelaren en gebruikers van het sperma inzichtelijk maakt, en  
 
-b. een calamiteitenplan.     
+b. een calamiteitenplan.      
 4.  Bij ministeriële regeling kunnen regels gesteld worden met betrekking tot: 
 
 a. het mengen van schapen- of geitensperma afkomstig van verschillende rammen, onderscheidenlijk bokken;  
@@ -303,17 +305,20 @@ c. het ter beschikking stellen van nader te bepalen monsters van op het spermawi
 
 d. het doorgeven van mutaties in het schapen- of geitenbestand aan de in onderdeel c bedoelde instelling;  
 
-e. de in het derde lid genoemde onderwerpen.     
+e. de in het derde lid genoemde onderwerpen.    
 
 ### Artikel  21  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Het is verboden schapen- of geitensperma te vervoeren of te verhandelen, tenzij is voldaan aan het bepaalde bij of krachtens de artikelen 22 en 23.  
+Het is verboden schapen- of geitensperma te vervoeren of te verhandelen, tenzij is voldaan aan het bepaalde bij of krachtens de artikelen 22 en 23. 
 
 ### Artikel  22  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Het schapen- of geitensperma is overeenkomstig het bepaalde bij of krachtens artikel 20 op een schapen- of geitenspermawincentrum gewonnen, bewerkt en opgeslagen of het is, voor zover het schapen- of geitensperma betreft dat is gewonnen in een buiten Nederland gevestigd spermawincentrum, overeenkomstig de krachtens [artikelen 10](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [11 van de wet](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) gestelde regels binnen Nederland gebracht.  
+Het schapen- of geitensperma is overeenkomstig het bepaalde bij of krachtens artikel 20 op een schapen- of geitenspermawincentrum gewonnen, bewerkt en opgeslagen of het is, voor zover het schapen- of geitensperma betreft dat is gewonnen in een buiten Nederland gevestigd spermawincentrum, overeenkomstig de krachtens [artikelen 10](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [11 van de wet](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) gestelde regels binnen Nederland gebracht. 
 
 ### Artikel  23  
+Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Bij ministeriële regeling kan worden bepaald dat degenen die schapen- of geitensperma verhandelen of vervoeren dienen te beschikken over: 
 
@@ -330,28 +335,28 @@ c. de identificatie en registratie van het schapen- of geitensperma;
 
 d. het ter beschikking stellen van nader te bepalen monsters van sperma aan een daarbij aan te wijzen instelling;  
 
-e. de in het eerste lid genoemde onderwerpen.     
+e. de in het eerste lid genoemde onderwerpen.    
 
 ### §  6  
 
 ####Slotbepalingen
 
-### Artikel  24  
+###Artikel 24 
 
-1.  Onze Minister kan voor een periode van ten hoogste drie jaar na inwerkingtreding van artikel 3 ontheffing verlenen van de erkenningseis, bedoeld in artikel 3, tweede lid.   
-2.  Runderspermawincentra worden, onder de voorwaarde dat zij binnen twee maanden na inwerkingtreding van artikel 9 een daartoe strekkende volledige aanvraag hebben ingediend, voor de duur van zes maanden na inwerkingtreding van dat artikel voorlopig erkend als spermawincentrum of tot zoveel eerder als op die aanvraag onherroepelijk zal zijn besloten.   
+1. Onze Minister kan voor een periode van ten hoogste drie jaar na inwerkingtreding van artikel 3 ontheffing verlenen van de erkenningseis, bedoeld in artikel 3, tweede lid.
+2. Runderspermawincentra worden, onder de voorwaarde dat zij binnen twee maanden na inwerkingtreding van artikel 9 een daartoe strekkende volledige aanvraag hebben ingediend, voor de duur van zes maanden na inwerkingtreding van dat artikel voorlopig erkend als spermawincentrum of tot zoveel eerder als op die aanvraag onherroepelijk zal zijn besloten. 
 
 ### Artikel  25  
 
-Een wijziging van een of meer onderdelen van richtlijn 90/429/EEG en van richtlijn 88/407/EEG gaat voor de toepassing van de artikelen van dit besluit, waarin naar die onderdelen wordt verwezen, gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekend gemaakt, een ander tijdstip wordt vastgesteld.  
+Een wijziging van een of meer onderdelen van richtlijn 90/429/EEG en van richtlijn 88/407/EEG gaat voor de toepassing van de artikelen van dit besluit, waarin naar die onderdelen wordt verwezen, gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekend gemaakt, een ander tijdstip wordt vastgesteld. 
 
 ### Artikel  26  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  27  
 
-Dit besluit wordt aangehaald als: Besluit eisen dierlijk sperma en spermawincentra.  
+Dit besluit wordt aangehaald als: Besluit eisen dierlijk sperma en spermawincentra. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -365,4 +370,4 @@ G. H. Faber
 de *zevenentwintigste* februari 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

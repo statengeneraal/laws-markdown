@@ -8,17 +8,17 @@ Besluit:
 
 ### Artikel  1  
 
-De voorzitter van de Planologische werkcommissie ontvangt per vergadering een vergoeding van f 450,00.  
+De voorzitter van de Planologische werkcommissie ontvangt per vergadering een vergoeding van f 450,00. 
 
 ### Artikel  2  
 
 1.  Voor de toepassing van artikel 1 wordt als een vergadering beschouwd: 
 
-a. een vergadering van de Planologische werkcommissie;  
+a.  een vergadering van de Planologische werkcommissie; 
 
-b. een vergadering van een uit de Planologische werkcommissie samengestelde commissie;  
+b.  een vergadering van een uit de Planologische werkcommissie samengestelde commissie; 
 
-c. een werkbezoek van de Planologische werkcommissie.     
+c.  een werkbezoek van de Planologische werkcommissie.    
 2.  Twee of meer vergaderingen op dezelfde dag gelden als één vergadering.   
 
 ### Artikel  3  
@@ -31,7 +31,7 @@ Deze regeling wordt aangehaald als: Vergoedingenregeling voorzitter PWC
 
 ### Artikel  5  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -39,4 +39,4 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 De 
 Minister van Economische Zaken, 
-A.Jorritsma-Lebbink    
+A. Jorritsma-Lebbink      

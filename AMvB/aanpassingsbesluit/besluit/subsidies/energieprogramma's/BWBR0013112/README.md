@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit subsidies energieprogramma's.   
+Wijzigt het Besluit subsidies energieprogramma's.  
 
 ### Artikel  II  
 
-Het [Besluit subsidies energieprogramma's](../../../../../../AMvB/besluit/subsidies/energieprogramma's/BWBR0006515/README.md), zoals dat luidde voor de inwerkingtreding van dit besluit, blijft van toepassing op subsidies die voor de inwerkingtreding van dit besluit zijn verstrekt.  
+Het [Besluit subsidies energieprogramma's](../../../../../../AMvB/besluit/subsidies/energieprogramma's/BWBR0006515/README.md), zoals dat luidde voor de inwerkingtreding van dit besluit, blijft van toepassing op subsidies die voor de inwerkingtreding van dit besluit zijn verstrekt. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van 1 januari 2002.  
+Dit besluit treedt in werking met ingang van 1 januari 2002. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

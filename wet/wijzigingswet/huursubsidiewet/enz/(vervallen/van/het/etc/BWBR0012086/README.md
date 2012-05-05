@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Huursubsidiewet.   
+Wijzigt de Huursubsidiewet.  
 
 ### Artikel  II  
 
-Indien de zending van huursubsidieberichten, bedoeld in [artikel 30a, eerste lid, van de Huursubsidiewet](../../../../../../../../../wet/huursubsidiewet/BWBR0008659/README.md), of de verstrekking van gegevens, bedoeld in [artikel 30b, eerste lid, van de Huursubsidiewet](../../../../../../../../../wet/huursubsidiewet/BWBR0008659/README.md), plaatsvindt vóór de inwerkingtreding van deze wet, wordt die zending of gegevensverstrekking aangemerkt als te hebben plaatsgevonden ingevolge het betrokken genoemde artikellid.  
+Indien de zending van huursubsidieberichten, bedoeld in [artikel 30a, eerste lid, van de Huursubsidiewet](../../../../../../../../../wet/huursubsidiewet/BWBR0008659/README.md), of de verstrekking van gegevens, bedoeld in [artikel 30b, eerste lid, van de Huursubsidiewet](../../../../../../../../../wet/huursubsidiewet/BWBR0008659/README.md), plaatsvindt vóór de inwerkingtreding van deze wet, wordt die zending of gegevensverstrekking aangemerkt als te hebben plaatsgevonden ingevolge het betrokken genoemde artikellid. 
 
 ### Artikel  III  
 
-Wijzigt de Huurprijzenwet woonruimte.   
+Wijzigt de Huurprijzenwet woonruimte.  
 
 ### Artikel  IV  
 
@@ -37,4 +37,4 @@ J. W. Remkes
 de *achtentwintigste* december 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

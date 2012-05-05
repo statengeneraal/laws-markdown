@@ -17,34 +17,34 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Voor de toepassing van dit besluit wordt onder zeeschip niet een zeevissers- en kustvissersschip verstaan.  
+Voor de toepassing van dit besluit wordt onder zeeschip niet een zeevissers- en kustvissersschip verstaan. 
 
 ### Artikel  2  
 
-Als dagboek mag alleen een deugdelijk uitgevoerd boek van stevig papier worden gebruikt.  
+Als dagboek mag alleen een deugdelijk uitgevoerd boek van stevig papier worden gebruikt. 
 
 ### Artikel  3  
 
-1.  Door Onze Minister van Verkeer en Waterstaat wordt vastgesteld: 
+1.  Door Onze Minister van Verkeer en Waterstaat wordt vastgesteld:  
 
 a. een model voor een scheepsdagboek voor zeeschepen;  
 
 b. een model voor een machinedagboek voor zeeschepen die door mechanische kracht worden voortbewogen; en  
 
 c. een model voor een dagboek voor zeevissers- en kustvissersschepen.     
-2.  In de dagboeken mogen afwijkingen van het vastgestelde model worden aangebracht, mits dientengevolge de aard van het boek naar het oordeel van Onze Minister van Verkeer en Waterstaat niet te veel verandert.   
+2.   In de dagboeken mogen afwijkingen van het vastgestelde model worden aangebracht, mits dientengevolge de aard van het boek naar het oordeel van Onze Minister van Verkeer en Waterstaat niet te veel verandert.  
 
 ### Artikel  5  
 
-De in de modellen opgenomen bladwijzer mag met andere dan de in het model vermelde onderwerpen worden aangevuld.  
+De in de modellen opgenomen bladwijzer mag met andere dan de in het model vermelde onderwerpen worden aangevuld. 
 
 ### Artikel  7  
 
-Ons besluit van 4 november 1926 (*Stb.* 369), laatstelijk gewijzigd bij Ons besluit van 26 november 1969 (*Stb.* 529), wordt ingetrokken.  
+Ons besluit van 4 november 1926 (*Stb.* 369), laatstelijk gewijzigd bij Ons besluit van 26 november 1969 (*Stb.* 529), wordt ingetrokken. 
 
 ### Artikel  8  
 
-Dit besluit kan worden aangehaald als "Besluit dagboeken voor schepen 1970". Het treedt in werking op een door Ons te bepalen tijdstip.  
+Dit besluit kan worden aangehaald als "Besluit dagboeken voor schepen 1970". Het treedt in werking op een door Ons te bepalen tijdstip. 
 
 Onze Ministers van Verkeer en Waterstaat en van Justitie zijn belast met de uitvoering van dit besluit, hetwelk in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.   
 

@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De lijn, bedoeld in artikel 1, eerste lid, onder *a*, van de [Schepenwet](../../../../../../../../../rijkswet/schepenwet/BWBR0001876/README.md) loopt van: 
+De lijn, bedoeld in artikel 1, eerste lid, onder *a*, van de [Schepenwet](../../../../../../../../../rijkswet/schepenwet/BWBR0001876/README.md) loopt van:  
 
 - het snijpunt van de breedtecirkel 53°26'34"N met de Duitse kust ter plaatse van Ulpenward,  
 
@@ -43,11 +43,11 @@ De lijn, bedoeld in artikel 1, eerste lid, onder *a*, van de [Schepenwet](../../
 
 - vandaar langs de zeezijde van deze dam naar Walcheren en voorts langs de westelijke kust hiervan naar de lichtopstand de Nolle nabij Vlissingen,  
 
-- vandaar naar de lichtopstand Nieuwe Sluis in Zeeuws Vlaanderen en voorts langs de noordwestelijke kust hiervan naar het punt van grensovergang tussen Nederland en België.    
+- vandaar naar de lichtopstand Nieuwe Sluis in Zeeuws Vlaanderen en voorts langs de noordwestelijke kust hiervan naar het punt van grensovergang tussen Nederland en België.   
 
 ### Artikel  2  
 
-Dit besluit treedt in werking op een door Ons te bepalen tijdstip.  
+Dit besluit treedt in werking op een door Ons te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

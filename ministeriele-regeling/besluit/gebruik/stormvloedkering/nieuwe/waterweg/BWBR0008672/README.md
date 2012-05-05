@@ -4,7 +4,7 @@
 
 De Minister van Verkeer en Waterstaat,  
 Gelet op het bepaalde in [artikel 5, tweede lid van de Waterstaatswet 1900](../../../../../../../wet/waterstaatswet/1900/BWBR0001867/README.md) en het daarop gebaseerde [Organiek Besluit Rijkswaterstaat](../../../../../../../AMvB/organiek/besluit/rijkswaterstaat/BWBR0002743/README.md) (KB 14 januari 1971, Stb. 42), alsmede gelet op de bepalingen in [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -12,7 +12,7 @@ De Stormvloedkering in de Nieuwe Waterweg (hierna te noemen ’de kering’) wor
 
 ### Artikel  1a  
 
-Dit besluit berust mede op [artikel 1 van het Instellingsbesluit directoraat generaal Rijkswaterstaat](../../../../../../../ministeriele-regeling/instellingsbesluit/directoraat-generaal/rijkswaterstaat/BWBR0026953/README.md).  
+Dit besluit berust mede op [artikel 1 van het Instellingsbesluit directoraat generaal Rijkswaterstaat](../../../../../../../ministeriele-regeling/instellingsbesluit/directoraat-generaal/rijkswaterstaat/BWBR0026953/README.md). 
 
 ### Artikel  2  
 
@@ -32,11 +32,11 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 ### Artikel  6  
 
-Dit besluit kan worden aangehaald als ’Besluit gebruik stormvloedkering Nieuwe Waterweg’.  
+Dit besluit kan worden aangehaald als ’Besluit gebruik stormvloedkering Nieuwe Waterweg’. 
 
 ’s-Gravenhage 
 6 mei 1997    
 
 De 
 Minister van Verkeer en Waterstaat, 
-A.Jorritsma-Lebbink    
+A. Jorritsma-Lebbink      

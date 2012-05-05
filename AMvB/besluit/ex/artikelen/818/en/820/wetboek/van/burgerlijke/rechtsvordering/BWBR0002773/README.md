@@ -15,24 +15,24 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  De in [artikel 818, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) bedoelde kennisgeving en oproeping vinden plaats: 
+1.  De in [artikel 818, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) bedoelde kennisgeving en oproeping vinden plaats:  
 
 a. ten aanzien van de echtgenoot, die de vordering heeft ingesteld, bij brief;  
 
 b. ten aanzien van de echtgenoot, tegen wie de vordering is ingesteld, bij aangetekende brief, tenzij de rechter anders bepaalt.     
-2.  Indien de rechter heeft bepaald dat de in het geding verschenen partijen bij de in het [eerste lid van artikel 818](../../../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) bedoelde persoonlijke verschijning vergezeld dienen te zijn van hun advocaten, wordt dit in de kennisgeving vermeld.   
+2.   Indien de rechter heeft bepaald dat de in het geding verschenen partijen bij de in het [eerste lid van artikel 818](../../../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) bedoelde persoonlijke verschijning vergezeld dienen te zijn van hun advocaten, wordt dit in de kennisgeving vermeld.  
 
 ### Artikel  2  
 
-De in [artikel 820, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) bedoelde kennisgeving geschiedt bij brief, tenzij de rechter anders bepaalt.  
+De in [artikel 820, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) bedoelde kennisgeving geschiedt bij brief, tenzij de rechter anders bepaalt. 
 
 ### Artikel  3  
 
-De in dit besluit bedoelde kennisgevingen en oproepingen vermelden zo nauwkeurig mogelijk de plaats waar de terechtzitting wordt gehouden. Zij worden onverwijld verzonden.  
+De in dit besluit bedoelde kennisgevingen en oproepingen vermelden zo nauwkeurig mogelijk de plaats waar de terechtzitting wordt gehouden. Zij worden onverwijld verzonden. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking tegelijk met de Wet herziening echtscheidingsrecht.  
+Dit besluit treedt in werking tegelijk met de Wet herziening echtscheidingsrecht. 
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat met de bijbehorende nota van toelichting in het *Staatsblad* zal worden geplaatst. Van het besluit en de nota van toelichting zal afschrift worden gezonden aan de Raad van State.   
 

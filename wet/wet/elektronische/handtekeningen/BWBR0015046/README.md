@@ -11,27 +11,27 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt Boek 3 en Boek 6 van het Burgerlijk Wetboek.   
+Wijzigt Boek 3 en Boek 6 van het Burgerlijk Wetboek.  
 
 ### Artikel  II  
 
-Wijzigt de Telecommunicatiewet.   
+Wijzigt de Telecommunicatiewet.  
 
 ### Artikel  III  
 
-Wijzigt de Wet Onafhankelijke post- en telecommunicatieautoriteit.   
+Wijzigt de Wet Onafhankelijke post- en telecommunicatieautoriteit.  
 
 ### Artikel  IV  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten.  
 
 ### Artikel  V  
 
-Deze wet wordt aangehaald als: Wet elektronische handtekeningen.  
+Deze wet wordt aangehaald als: Wet elektronische handtekeningen. 
 
 ### Artikel  VI  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

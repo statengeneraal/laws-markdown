@@ -10,19 +10,19 @@ Besluit:
 
 ### Artikel  1  
 
-Als coördinerende instantie als bedoeld in artikel 4, eerste lid, onderdeel b, van verordening (EEG) nr. 729/70 wordt aangewezen: het Coördinerend Bureau, ressorterend onder de Directie Internationale Zaken van het Ministerie van Landbouw, Natuurbeheer en Visserij.  
+Als coördinerende instantie als bedoeld in artikel 4, eerste lid, onderdeel b, van verordening (EEG) nr. 729/70 wordt aangewezen: het Coördinerend Bureau, ressorterend onder de Directie Internationale Zaken van het Ministerie van Landbouw, Natuurbeheer en Visserij. 
 
 ### Artikel  2  
 
-De coördinerende instantie treedt op als enige vertegenwoordiger van de Lid-Staat Nederland tegenover de Europese Commissie voor alle aangelegenheden als bedoeld in artikel 2, eerste lid van verodening (EG) nr. 1663/95 van de Commissie (Pb EG L 158).  
+De coördinerende instantie treedt op als enige vertegenwoordiger van de Lid-Staat Nederland tegenover de Europese Commissie voor alle aangelegenheden als bedoeld in artikel 2, eerste lid van verodening (EG) nr. 1663/95 van de Commissie (Pb EG L 158). 
 
 ### Artikel  3  
 
-Deze beschikking treedt in werking met ingang van 1 januari 1997.  
+Deze beschikking treedt in werking met ingang van 1 januari 1997. 
 
 ’s-Gravenhage 
 23 december 1996    
 
 De 
 Minister van Landbouw, Natuurbeheer en Visserij, 
-J.J. vanAartsen    
+J.J. van Aartsen      

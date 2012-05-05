@@ -11,11 +11,11 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ### Artikel  I  
 
-De notarissen, die vóór 15 Januari 1946 bevoegd waren hun ambtsbediening uit te oefenen in een gebied, gelegen buiten het arrondissement, waarin hun standplaats is gevestigd, behouden deze bevoegdheid.  
+De notarissen, die vóór 15 Januari 1946 bevoegd waren hun ambtsbediening uit te oefenen in een gebied, gelegen buiten het arrondissement, waarin hun standplaats is gevestigd, behouden deze bevoegdheid. 
 
 ### Artikel  II  
 
-Deze wet treedt in werking met ingang van den tweeden dag na dien harer afkondiging met terugwerkende kracht tot 15 Januari 1946.  
+Deze wet treedt in werking met ingang van den tweeden dag na dien harer afkondiging met terugwerkende kracht tot 15 Januari 1946. 
 
 Lasten en bevelen, dat deze in het *Staatsblad* zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

@@ -1065,7 +1065,7 @@ In deze gevallen kan de aanvraag ook worden afgewezen indien de asielzoeker verd
 
 Ook in deze gevallen kan de bepaling worden toegepast indien één van de inwilligingsgronden van [artikel 29, eerste lid, onder a tot en met d, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), op zichzelf bezien, van toepassing is: 
 
-– – een verblijfstitel die naar zijn aard tijdelijk is, levert over het algemeen onvoldoende bescherming op tegen terugzending, tenzij er vooruitzicht is op verlenging of wijziging van de beperking;  
+– een verblijfstitel die naar zijn aard tijdelijk is, levert over het algemeen onvoldoende bescherming op tegen terugzending, tenzij er vooruitzicht is op verlenging of wijziging van de beperking;  
 
 – als uit de voorliggende stukken niet aanstonds blijkt of de asielzoeker een verblijfstitel heeft en er is sprake van een langdurig verblijf in het land van eerder verblijf, dient per individueel geval te worden bezien of onderzoek moet plaatsvinden in het land van eerder verblijf.   
 ###Uitzondering
@@ -6035,10 +6035,10 @@ In afwachting van een inhoudelijke uitspraak van het EHRM is de uitzetting van S
 
 ####Achtergrond
 
-Deze landenparagraaf bevat het landgebonden asielbeleid voor Sri Lanka. Het landgebonden asielbeleid is een uitwerking van het algemene beleid van C1 tot en met C22 en kan niet worden gezien als een uitzonderingsregeling. De algemene wet- en regelgeving blijft steeds de basis voor de individuele beoordeling van een asielaanvraag. De beleidsconclusies in dit hoofdstuk zijn mede gebaseerd op het algemeen ambtsbericht van de Minister van BuZa van september 2010 over de situatie in Sri Lanka (zie de website van het Ministerie van BuZa).    
+Deze landenparagraaf bevat het landgebonden asielbeleid voor Sri Lanka. Het landgebonden asielbeleid is een uitwerking van het algemene beleid van C1 tot en met C22 en kan niet worden gezien als een uitzonderingsregeling. De algemene wet- en regelgeving blijft steeds de basis voor de individuele beoordeling van een asielaanvraag. De beleidsconclusies in dit hoofdstuk zijn mede gebaseerd op het algemeen ambtsbericht van de Minister van BuZa van oktober 2011 over de situatie in Sri Lanka (zie de website van het Ministerie van BuZa).    
 ### 2  
 
-####Besluit moratorium
+####Besluitmoratorium
 
 Ten aanzien van asielzoekers uit Sri Lanka geldt geen besluit in de zin van [artikel 43 Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).    
 ### 3  
@@ -6049,42 +6049,42 @@ Ten aanzien van asielzoekers uit Sri Lanka geldt geen besluit in de zin van [art
 
 ####Tamils
 
-Medio mei 2009 is een einde is gekomen aan de gevechtshandelingen tussen het regeringsleger en de LTTE. Inmiddels is blijkens het ambtsbericht van de Minister van BuZa van september 2010 de veiligheidssituatie in het Noorden en het Oosten van het land verbeterd. Mensenrechtenschendingen zijn in frequentie afgenomen. Op basis hiervan is besloten het beleidsuitgangspunt dat het Noorden en het Oosten van Sri Lanka categoriaal beschermingswaardig zijn, te verlaten. Tamils hebben te maken met controles. Bij de controle zijn Tamils, vooral afkomstig uit het Noorden en het Oosten, extra kwetsbaar voor intimidatie, aanhouding, arrestatie en detentie vanwege hun veronderstelde betrokkenheid bij de Liberation Tigers of Tamil Eelam(LTTE). Dit geldt ook voor Tamils die geen identiteitskaart bezitten. Hoewel een rijbewijs of paspoort ook geaccepteerd is als identiteitsbewijs bij checkpoints, kan niet uitgesloten worden dat de controlerende autoriteit geen genoegen neemt met iets anders dan de identiteitskaart, nu hier de etniciteit mee kan worden aangetoond. Om een nieuwe identiteitskaart aan te vragen, moet men naar de geboorteplaats. Indien deze plaats zich bevindt in een conflictgebied, is dit vaak niet mogelijk. Indien de vreemdeling geen identiteitskaart (meer) heeft en het ook niet mogelijk is om er een te verkrijgen, is het aan de vreemdeling om dit aannemelijk te maken. Daarvoor is het nodig dat hij duidelijk aangeeft waar zijn geboorteplaats ligt en hoe hij zich voorheen zonder identiteitskaart kon verplaatsen in zijn land. Voor de gevallen waarin er inderdaad geen optie is om een identiteitskaart te verkrijgen, zal per individueel geval bezien moeten worden of de vreemdeling bij terugkeer een zodanig risico loopt op een behandeling in strijd met artikel 3 EVRM. Daarbij wordt betrokken dat Tamils in Colombo zich met een laissez-passer kunnen laten registreren voor vestiging in Colombo. Zij moeten via het lokaal bestuur van hun geboorteplaats een NIC aanvragen. Van de vreemdeling, die in het verleden reeds in de negatieve belangstelling van de autoriteiten heeft gestaan, zal eerder het risico op een dergelijke behandeling worden aangenomen. Wanneer de vreemdeling zijn identiteitskaart heeft afgegeven, bijvoorbeeld aan zijn familie, is het aan hem om aannemelijk te maken dat het onmogelijk is om de kaart terug te krijgen, terwijl hij hiertoe wel pogingen heeft ondernomen. Het enkele feit dat iemand Tamil is, leidt niet tot verlening van een verblijfsvergunning asiel. Er is in Sri Lanka geen sprake van vervolging van Tamils als zodanig. Tamils hebben in het algemeen niet te vrezen voor vervolging of voor negatieve bejegening door derden. De vreemdeling zal derhalve op individuele gronden aannemelijk moeten maken dat er sprake is van een gegronde vrees voor vervolging dan wel onmenselijke behandeling, waartegen geen bescherming kan worden geboden.    
+Het EHRM bevestigt in haar uitspraak van 20 januari 2011 (N.S. t. Denemarken (nr.58359/08) haar conclusie van haar uitspraak van 17 juli 2008 (nr.25904/07) NA t. Verenigd Koninkrijk) dat er voor Tamils die naar Sri Lanka terugkeren geen algemeen risico is voor een behandeling in strijd met artikel 3 EVRM. Indien er serieuze redenen zijn om aan te nemen dat de Sri Lankaanse autoriteiten dusdanige belangstelling hebben voor een Tamil dat deze bij terugkeer wordt gearresteerd of ondervraagd, kan er wel sprake zijn van een reëel risico op een behandeling in strijd met artikel 3 EVRM. Het EHRM benoemt in bovengenoemde uitspraken een aantal risicofactoren dat voor een Tamil het risico op een behandeling in strijd met artikel 3 EVRM bij terugkeer naar Sri Lanka kan vergroten. De beoordeling van de aannemelijkheid van het risico voor Tamils die naar Sri Lanka terugkeren dient mede op grond van de aanwezigheid van deze risicofactoren te worden beoordeeld. De genoemde risicofactoren vormen geen checklist en zijn niet uitputtend bedoeld. Iedere genoemde individuele risicofactor hoeft op zich geen aanleiding te geven om er van uit te gaan dat er sprake is van een reëel risico op schending van artikel 3 EVRM bij terugkeer naar Colombo; zij kunnen dit wel cumulatief zijn in combinatie met enkele andere risicofactoren. Zij dienen in onderling samenhang te worden bezien in het licht van de algemene situatie in Sri Lanka. De door het Hof benoemde risicofactoren zijn de volgende: 
+
+* betrokkene is bij de autoriteiten bekend als LTTE lid of wordt verdacht van deelname aan activiteiten voor de LTTE;  
+
+* betrokkene heeft een strafblad of er is een arrestatiebevel uitgevaardigd ten aanzien van betrokkene;  
+
+* betrokkene is uit de gevangenis ontsnapt, dan wel op borgtocht vrijgelaten;  
+
+* betrokkene heeft een bekentenis of soortgelijke verklaring ondertekend;  
+
+* betrokkene is gevraagd om informant te worden;  
+
+* betrokkene heeft littekens;  
+
+* betrokkene keert terug uit Londen of een andere stad waar fondsen worden geworven voor de LTTE;  
+
+* betrokkene heeft Sri Lanka op illegale wijze verlaten; betrokkene is niet in het bezit is van identiteitspapieren;  
+
+* de Sri Lankaanse autoriteiten zijn ervan op de hoogte dat hij of zij een asielaanvraag heeft ingediend in het buitenland; en  
+
+* betrokkene heeft familieleden die actief zijn voor de LTTE en de autoriteiten zijn hiervan op de hoogte.      
 ### 3.2  
-
-####Liberation Tigers of Tamil Eelam (LTTE)
-
-Leden van de LTTE, of zij die daarvan verdacht worden, kunnen strafrechtelijk vervolgd worden door de autoriteiten. Deze strafrechtelijke vervolging leidt in het algemeen niet tot de conclusie dat een asielzoeker verdragsvluchteling is. Wel moet steeds onderzocht worden of er sprake is van onevenredige of discriminatoire bestraffing die verband houdt met de gronden van het Vluchtelingenverdrag (zie C2/2.5). Na de beëindiging van de gevechtshandelingen medio mei 2009 heeft het regeringsleger de zoektocht naar overgebleven LTTE strijders en -cellen onverminderd voortgezet. Arrestaties, detenties, ontvoeringen, verdwijningen en moorden als gevolg van veronderstelde LTTE betrokkenheid blijven zich voordoen. Naast het leger en de politie maken ook paramilitaire groeperingen zich hieraan schuldig. De paramilitaire groeperingen handelen zowel zelfstandig als in gezamenlijke acties met de veiligheidstroepen van de regering. De LTTE maakte zich schuldig aan het gedwongen rekruteren van kindsoldaten en volwassenen. Ook werd de burgerbevolking in LTTE gebied gedwongen om werkzaamheden te verrichten voor de LTTE. Dit betekent dat veel personen, met name Tamils, ongewild met de LTTE geassocieerd (kunnen) worden. Daardoor kunnen zij extra kwetsbaar zijn voor intimidatie, aanhouding, arrestatie en detentie. Een Tamil die aannemelijk maakt dat hij door de Sri Lankaanse autoriteitenen/of een paramilitaire groepering wordt verdacht van banden met de LTTE, kan in aanmerking komen voor verlening van een verblijfsvergunning asiel voor bepaalde tijd op grond van [artikel 29, eerste lid, onder a of b, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), behoudens de gebruikelijke contra-indicaties, waaronder de toepasselijkheid van artikel 1F Vluchtelingenverdrag.     
-### 3.3  
-
-####Journalisten en mensenrechtenactivisten
-
-De vrijheid van meningsuiting en de persvrijheid worden ernstig beperkt door de regering. Personen zoals journalisten en uitgevers van dagbladen en mensenrechtenactivisten die zich kritisch hebben uitgelaten over de veiligheidstroepen van de regering, of die de politiek en mensenrechtenschendingen aan de kaak stellen, riskeren intimidatie, bedreiging, mishandeling, ontvoering en de dood. Indien zij aannemelijk hebben gemaakt op grond daarvan een gegronde vrees voor vervolging te hebben, kunnen zij op grond van [artikel 29, eerste lid, onder a, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in aanmerking komen voor een verblijfsvergunning asiel voor bepaalde tijd.    
-### 3.4  
-
-####Moslims
-
-Moslims kunnen in Sri Lanka vrijelijk hun geloof belijden. Wel is er sprake van een groeiende spanning tussen de moslimbevolking en de Tamilbevolking als gevolg van de aanhoudende intimidaties door de Tamil Makkal Viduthalai Pulikal (TMVP). Moslims zijn in toenemende mate slachtoffer van verdwijningen, afpersingen en arrestaties. Moslims die aannemelijk maken dat zij het slachtoffer zijn van geweld of van discriminatie (zie C2/2.5), waartegen de autoriteiten geen bescherming kunnen of willen bieden, kunnen op grond van [artikel 29, eerste lid, onder a, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in aanmerking komen voor een verblijfsvergunning asiel voor bepaalde tijd.    
-### 3.5  
-
-####Christenen
-
-Christenen kunnen in het algemeen hun godsdienst vrijelijk belijden in Sri Lanka. Het komt voor dat bekeerders en bekeerlingen het slachtoffer worden van geweld en intimidatie door boeddhistische extremisten. Christenen die aannemelijk maken dat zij het slachtoffer zijn van geweld of van discriminatie (zie C2/2.5), terwijl de autoriteiten geen bescherming kunnen of willen bieden, kunnen op grond van [artikel 29, eerste lid, onder a, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in aanmerking komen voor een verblijfsvergunning asiel voor bepaalde tijd.    
-### 3.6  
 
 ####Vrouwen
 
-Het algemene beleid, zoals onder andere weergegeven in C2/2.11, C2/3.2 en C14/3.3 is van toepassing. Uit het ambtsbericht van de Minister van BuZa blijkt dat seksueel geweld tegen vrouwen zich onverminderd voordoet. Verkrachting en ontvoering van vrouwen door het leger en de politie komen geregeld voor. Met name alleenstaande vrouwen of vrouwen van wie de echtgenoot is gedetineerd of verdwenen lopen een groot risico slachtoffer van seksueel geweld te worden. De daders worden nauwelijks bestraft. Het Bureau for the Protection of Women and Children van de politie is in de praktijk niet voldoende effectief in het geval een vrouw aangifte wil doen. De politie en rechterlijke macht blijken bovendien bevooroordeeld en veroordelend bij klachten met betrekking tot seksueel geweld. Vrouwen zoeken daarom primair bescherming bij de familie om zich aan het geweld te onttrekken maar opvang door familie biedt in veel gevallen onvoldoende bescherming. Vrouwen en meisjes die aannemelijk hebben gemaakt dat zij te vrezen hebben voor (seksuele) geweldpleging in Sri Lanka, kunnen op grond van [artikel 29, eerste lid, onder b, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in aanmerking komen voor een verblijfsvergunning asiel voor bepaalde tijd. Hierbij wordt niet verlangd dat zij zich tot de autoriteiten hebben gewend voor bescherming.    
-### 3.7  
+Het algemene beleid, zoals onder andere weergegeven in C2/2.11, C2/3.2 en C14/3.3 is van toepassing. Uit het algemeen ambtsbericht van de Minister van BuZa blijkt dat seksueel geweld door de autoriteiten en huiselijk geweld tegen vrouwen zich onverminderd voordoet. Verkrachting en ontvoering van vrouwen door het leger en de politie komen geregeld voor. Met name alleenstaande vrouwen of vrouwen van wie de echtgenoot is gedetineerd of verdwenen lopen een groot risico slachtoffer van seksueel geweld te worden. De daders worden nauwelijks bestraft. Het Bureau for the Protection of Women and Children van de politie is in de praktijk niet voldoende effectief in het geval een vrouw aangifte wil doen. De politie en rechterlijke macht blijken bovendien bevooroordeeld en veroordelend bij klachten met betrekking tot seksueel geweld. Vrouwen zoeken daarom primair bescherming bij de familie om zich aan het geweld te onttrekken maar opvang door familie biedt in veel gevallen onvoldoende bescherming. Vrouwen en meisjes die aannemelijk hebben gemaakt dat zij te vrezen hebben voor (seksuele) geweldpleging in Sri Lanka, kunnen op grond van [artikel 29, eerste lid, onder b, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in aanmerking komen voor een verblijfsvergunning asiel voor bepaalde tijd. Hierbij wordt niet verlangd dat zij zich tot de autoriteiten hebben gewend voor bescherming.    
+### 3.3  
 
 ####Dienstplichtigen en deserteurs
 
-Het algemene beleid, zoals weergegeven in C2/2.12 is van toepassing. In Sri Lanka bestaat geen dienstplicht. Het Sri Lankaanse leger is een vrijwilligersleger. Wel moeten degenen die zich als militairen aanmelden op grond van de wet het leger vijf jaar dienen. Wegens gebrek aan vrijwilligers voor het leger wordt desertie echter gering bestraft. Het enkele feit dat een vreemdeling is gedeserteerd en hiervoor bestraffing te duchten heeft, is onvoldoende om te concluderen dat er sprake is van vervolging in de zin van het Vluchtelingenverdrag. Ten aanzien van Sri Lanka heeft zich niet de situatie voorgedaan dat militaire acties in totaliteit door de internationale gemeenschap zijn veroordeeld als strijdig met de grondbeginselen voor humaan gedrag of met de fundamentele normen die gelden tijdens een gewapend conflict.    
-### 3.8  
+Het algemene beleid, zoals weergegeven in C2/2.12 is van toepassing. In Sri Lanka bestaat geen dienstplicht. Het Sri Lankaanse leger is een vrijwilligersleger. Wel moeten degenen die zich als militairen aanmelden op grond van de wet het leger minimaal vijf jaar dienen. Wegens gebrek aan vrijwilligers voor het leger wordt desertie echter gering bestraft. Het enkele feit dat een vreemdeling is gedeserteerd en hiervoor bestraffing te duchten heeft, is onvoldoende om te concluderen dat er sprake is van vervolging in de zin van het Vluchtelingenverdrag. Ten aanzien van Sri Lanka heeft zich niet de situatie voorgedaan dat militaire acties in totaliteit door de internationale gemeenschap zijn veroordeeld als strijdig met de grondbeginselen voor humaan gedrag of met de fundamentele normen die gelden tijdens een gewapend conflict.    
+### 3.4  
 
 ####Homoseksuelen
 
-Het algemene beleid, zoals weergegeven in C2/2.10.2 is van toepassing. Seksuele activiteiten tussen personen van hetzelfde geslacht zijn in Sri Lanka verboden. Er staat een maximum gevangenisstraf op van tien jaar. Er is tot nu toe één geval bekend waarin homoseksualiteit heeft geleid tot strafvervolging. Vanwege de strafbaarstelling bevinden homoseksuelen zich in een kwetsbare positie. Bij mishandeling of discriminatie is men bang aangifte te doen bij de politie. Indien de vreemdeling zich erop beroept dat hij gegronde vrees heeft voor vervolging in de zin van het Vluchtelingenverdrag vanwege zijn homoseksualiteit, kan hij op grond van [artikel 29, eerste lid, onder a, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in aanmerking komen voor een verblijfsvergunning asiel voor bepaalde tijd. Hierbij wordt niet verlangd dat hij zich tot de autoriteiten heeft gewend voor bescherming.     
+Het algemene beleid, zoals weergegeven in C2/2.10.2 is van toepassing. Seksuele activiteiten tussen personen van hetzelfde geslacht zijn in Sri Lanka verboden. Er staat een maximum gevangenisstraf op van tien jaar. De autoriteiten voeren geen actief vervolgingsbeleid tegen homoseksuelen. Vanwege de strafbaarstelling die discriminerend en stigmatiserend werkt, bevinden homoseksuelen zich in een kwetsbare positie. Bij mishandeling of discriminatie is men bang aangifte te doen bij de politie. Indien de vreemdeling zich erop beroept dat hij gegronde vrees heeft voor vervolging in de zin van het Vluchtelingenverdrag vanwege zijn homoseksualiteit, kan hij op grond van [artikel 29, eerste lid, onder a, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in aanmerking komen voor een verblijfsvergunning asiel voor bepaalde tijd. Hierbij wordt niet verlangd dat hij zich tot de autoriteiten heeft gewend voor bescherming.     
 ### 4  
 
 ####Traumatabeleid
@@ -6094,7 +6094,7 @@ Het algemene beleid, zoals weergegeven in C2/4.2 is van toepassing. Voor het ove
 
 ####Categoriale bescherming
 
-Asielzoekers uit Sri Lanka komen niet op grond van [artikel 29, eerste lid, onder d, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in aanmerking voor een verblijfsvergunning asiel (zie C2/5). Uit het ambtsbericht van de Minister van BuZa komt naar voren dat de veiligheidssituatie in het Noorden en het Oosten van Sri Lanka is verbeterd. Het Noorden en Oosten van Sri Lanka worden niet langer categoriaal beschermingswaardig geacht.    
+Asielzoekers uit Sri Lanka komen niet op grond van [artikel 29, eerste lid, onder d, Vw](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) in aanmerking voor een verblijfsvergunning asiel (zie C2/5).    
 ### 6  
 
 ####Verdere beleidsconclusies en aandachtspunten
@@ -6111,19 +6111,14 @@ Het algemene beleid, zoals weergegeven in C4/2.3 is van toepassing.
 Sri Lanka wordt niet beschouwd als veilig land van herkomst.    
 ### 6.3  
 
-####Veilig derde land/land van eerder verblijf
+####Veilig derde land / land van eerder verblijf
 
 Sri Lanka wordt niet beschouwd als veilig derde land.    
 ### 6.4  
 
 ####Artikel 1F Vluchtelingenverdrag
 
-Het beleid zoals neergelegd in C4/3.11.3 is van toepassing. Voor de procedure omtrent getuigen van oorlogsmisdrijven en misdrijven tegen de menselijkheid wordt verwezen naar C11/3.1.    
-### 6.5  
-
-####Uitzonderlijke situatie
-
-Vanaf medio mei 2009 is de gewapende strijd tussen het regeringsleger en de LTTE beëindigd. Uit het ambtsbericht van 14 september 2009 is op te maken dat er geen sprake is van een uitzonderlijke situatie op grond waarvan wordt aangenomen dat personen bij terugkeer louter door hun aanwezigheid te vrezen hebben voor schending van artikel 3 EVRM. Uit het ambtsbericht van september 2010 blijkt dat de situatie verbeterd is.     
+Het beleid zoals neergelegd in C4/3.11.3 is van toepassing. Voor de procedure omtrent getuigen van oorlogsmisdrijven en misdrijven tegen de menselijkheid wordt verwezen naar C11/3.1.     
 ### 7  
 
 ####Opvangmogelijkheden Amv’s

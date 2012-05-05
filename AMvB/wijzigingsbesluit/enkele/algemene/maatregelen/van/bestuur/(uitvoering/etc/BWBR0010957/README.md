@@ -15,19 +15,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit eindejaarsuitkering rechterlijke ambtenaren.   
+Wijzigt het Besluit eindejaarsuitkering rechterlijke ambtenaren.  
 
 ### Artikel  II  
 
-Wijzigt het Besluit onkostenvergoeding rechterlijke ambtenaren.   
+Wijzigt het Besluit onkostenvergoeding rechterlijke ambtenaren.  
 
 ### Artikel  III  
 
-Wijzigt het Besluit rechtspositie rechterlijke ambtenaren.   
+Wijzigt het Besluit rechtspositie rechterlijke ambtenaren.  
 
 ### Artikel  IV  
 
-De algemene onkostenvergoeding als bedoeld in het [Besluit onkostenvergoeding rechterlijke ambtenaren](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md) bedraagt voor de president van de Hoge Raad, de procureur-generaal bij de Hoge Raad onderscheidenlijk de procureurs-generaal bij de gerechtshoven gedurende de periode van 1 april 1997 tot en met 31 mei 1999, in afwijking van de [artikelen 1, derde lid, onderdeel a](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md), en [2, tweede lid, onderdelen a en b, van het Besluit onkostenvergoeding rechterlijke ambtenaren](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md) zoals deze gedurende laatstbedoelde periode luidden, f 7140,00, f 7140,00 onderscheidenlijk f 6880,00 per jaar.  
+De algemene onkostenvergoeding als bedoeld in het [Besluit onkostenvergoeding rechterlijke ambtenaren](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md) bedraagt voor de president van de Hoge Raad, de procureur-generaal bij de Hoge Raad onderscheidenlijk de procureurs-generaal bij de gerechtshoven gedurende de periode van 1 april 1997 tot en met 31 mei 1999, in afwijking van de [artikelen 1, derde lid, onderdeel a](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md), en [2, tweede lid, onderdelen a en b, van het Besluit onkostenvergoeding rechterlijke ambtenaren](../../../../../../../../../../AMvB/besluit/onkostenvergoeding/rechterlijke/ambtenaren/BWBR0005887/README.md) zoals deze gedurende laatstbedoelde periode luidden, f 7140,00, f 7140,00 onderscheidenlijk f 6880,00 per jaar. 
 
 ### Artikel  V  
 
@@ -35,7 +35,7 @@ De algemene onkostenvergoeding als bedoeld in het [Besluit onkostenvergoeding re
 2.  Het aantal uren waarmee het totale aantal in een jaar opgespaarde uren kan worden verlaagd, bedraagt voor de rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding met een volledige taak ten hoogste 32 uren. Voor een rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding met een gedeeltelijke taak kan het totale aantal in een jaar opgespaarde uren met ten hoogste een in evenredigheid lager aantal uren worden verlaagd. Het totale aantal in een jaar opgespaarde uren kan alleen worden verlaagd met een aantal uren dat deelbaar is door het getal vier.   
 3.  Onze Minister stelt vast voor welke datum verzoeken als bedoeld in het eerste lid kunnen worden ingediend.   
 4.  De functionele autoriteit beslist op of na de in het derde lid bedoelde datum gelijktijdig op de voor die datum ingediende verzoeken.   
-5.  De rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding ontvangt voor elk uur waarmee zijn totale aantal in een jaar opgespaarde uren overeenkomstig het eerste en tweede lid wordt verlaagd, een vergoeding ten bedrage van het salaris per uur dat hij geniet op de door Onze Minister krachtens het derde lid vastgestelde datum.   
+5.  De rechterlijk ambtenaar of rechterlijk ambtenaar in opleiding ontvangt voor elk uur waarmee zijn totale aantal in een jaar opgespaarde uren overeenkomstig het eerste en tweede lid wordt verlaagd, een vergoeding ten bedrage van het salaris per uur dat hij geniet op de door Onze Minister krachtens het derde lid vastgestelde datum.  
 
 ### Artikel  VI  
 
@@ -43,13 +43,13 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 a. wat de artikelen I en II betreft: tot en met 1 april 1997;  
 
-b. wat artikel V betreft: tot en met 1 januari 1998.    
+b. wat artikel V betreft: tot en met 1 januari 1998.   
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 10 december 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Justitie, 
 A. H. Korthals   
@@ -57,4 +57,4 @@ A. H. Korthals
 de *eenentwintigste* december 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

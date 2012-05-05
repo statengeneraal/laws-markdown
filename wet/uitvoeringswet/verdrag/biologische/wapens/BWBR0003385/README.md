@@ -11,7 +11,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-1.  Voor de toepassing van deze wet worden onder biologische agentia verstaan: 
+1.  Voor de toepassing van deze wet worden onder biologische agentia verstaan:  
 
 a. levende organismen die zich in mens, dier of plant kunnen vermenigvuldigen;  
 
@@ -23,17 +23,17 @@ c. stoffen, die door levende micro-organismen worden geproduceerd, met inbegrip 
 ### Artikel  2  
 
 1.  Onze Minister van Landbouw en Visserij dan wel Onze Minister van Volksgezondheid en Milieuhygiëne kan, na overleg met zijn genoemde ambtgenoot en in overeenstemming met Onze Minister van Defensie, de ontwikkeling, de produktie, het in voorraad hebben, de verwerving of het bezit van biologische agentia verbieden, indien hij reden heeft om aan te nemen dat deze geëigend zijn om als strijdmiddel te worden gebruikt.   
-2.  Er is reden om aan te nemen dat biologische agentia geëigend zijn om als strijdmiddel te worden gebruikt indien daarvan de soort of de aanwezige hoeveelheid onder de omstandigheden van het moment niet kan worden gerechtvaardigd uit hoofde van profylactische, beschermende of andere vreedzame doeleinden.   
-3.  Onze Minister, die een verbod ingevolge dit artikel uitvaardigt, kan daarbij voorschriften geven omtrent de wijze waarop en de termijn waarbinnen de desbetreffende biologische agentia dienen te worden vernietigd, alsmede het toezicht waaronder de vernietiging dient plaats te vinden.   
-4.  Het in het vorige lid bedoelde verbod wordt de betrokkene bij aangetekende brief medegedeeld of bevestigd. Alvorens een verbod uit te vaardigen wordt de betrokkene in de gelegenheid gesteld te worden gehoord, tenzij naar het oordeel van Onze betrokken Minister geen uitstel kan worden gedoogd.   
+2.   Er is reden om aan te nemen dat biologische agentia geëigend zijn om als strijdmiddel te worden gebruikt indien daarvan de soort of de aanwezige hoeveelheid onder de omstandigheden van het moment niet kan worden gerechtvaardigd uit hoofde van profylactische, beschermende of andere vreedzame doeleinden.   
+3.   Onze Minister, die een verbod ingevolge dit artikel uitvaardigt, kan daarbij voorschriften geven omtrent de wijze waarop en de termijn waarbinnen de desbetreffende biologische agentia dienen te worden vernietigd, alsmede het toezicht waaronder de vernietiging dient plaats te vinden.   
+4.   Het in het vorige lid bedoelde verbod wordt de betrokkene bij aangetekende brief medegedeeld of bevestigd. Alvorens een verbod uit te vaardigen wordt de betrokkene in de gelegenheid gesteld te worden gehoord, tenzij naar het oordeel van Onze betrokken Minister geen uitstel kan worden gedoogd.  
 
 ### Artikel  3  
 
-Onverminderd het bepaalde in artikel 2 is het een ieder verboden biologische agentia te ontwikkelen, te produceren, in voorraad te hebben of op enigerlei andere wijze te verwerven of te bezitten, indien hij weet of redelijkerwijs moet vermoeden dat deze zijn of zullen worden bestemd om als strijdmiddel te worden gebruikt.  
+Onverminderd het bepaalde in artikel 2 is het een ieder verboden biologische agentia te ontwikkelen, te produceren, in voorraad te hebben of op enigerlei andere wijze te verwerven of te bezitten, indien hij weet of redelijkerwijs moet vermoeden dat deze zijn of zullen worden bestemd om als strijdmiddel te worden gebruikt. 
 
 ### Artikel  4  
 
-Het is een ieder verboden wapens, uitrusting of verspreidingsmiddelen te ontwikkelen, te produceren, in voorraad te hebben of op enigerlei andere wijze te verwerven of te bezitten, indien hij weet of redelijkerwijs moet vermoeden dat deze zijn of zullen worden bestemd om te dienen voor het gebruik van biologische agentia als strijdmiddel.  
+Het is een ieder verboden wapens, uitrusting of verspreidingsmiddelen te ontwikkelen, te produceren, in voorraad te hebben of op enigerlei andere wijze te verwerven of te bezitten, indien hij weet of redelijkerwijs moet vermoeden dat deze zijn of zullen worden bestemd om te dienen voor het gebruik van biologische agentia als strijdmiddel. 
 
 ### Artikel  5  
 
@@ -41,7 +41,7 @@ De in de artikelen 2 en 3 bedoelde agentia, de in artikel 4 bedoelde voorwerpen,
 
 ### Artikel  7  
 
-Een ieder die bij de uitvoering van deze wet de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden is verplicht tot geheimhouding daarvan tenzij uit hoofde van het ambt dat hij bekleedt enig ander voorschrift van toepassing is.  
+Een ieder die bij de uitvoering van deze wet de beschikking krijgt over gegevens waarvan hij het vertrouwelijke karakter kent of redelijkerwijs moet vermoeden is verplicht tot geheimhouding daarvan tenzij uit hoofde van het ambt dat hij bekleedt enig ander voorschrift van toepassing is. 
 
 ### Artikel  7a  
 
@@ -71,16 +71,16 @@ e. in afwijking van artikel 1, tweede lid:
 
 – zaken te onderzoeken, aan opneming te onderwerpen en daarvan monsters te nemen en daartoe verpakkingen te openen;  
 
-– vervoermiddelen en daarmee vervoerde lading te onderzoeken.        
+– vervoermiddelen en daarmee vervoerde lading te onderzoeken.       
 
 ### Artikel  8  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  9  
 
 1.  Deze wet kan worden aangehaald als "Uitvoeringswet verdrag biologische wapens".   
-2.  Deze wet treedt in werking met ingang van de dag na de plaatsing in de *Nederlandse Staatscourant* van een mededeling omtrent de nederlegging van de akte van bekrachtiging van het Verdrag tot verbod van de ontwikkeling, de produktie en de aanleg van voorraden van bacteriologische (biologische) en toxinewapens en inzake de vernietiging van deze wapens.   
+2.   Deze wet treedt in werking met ingang van de dag na de plaatsing in de *Nederlandse Staatscourant* van een mededeling omtrent de nederlegging van de akte van bekrachtiging van het Verdrag tot verbod van de ontwikkeling, de produktie en de aanleg van voorraden van bacteriologische (biologische) en toxinewapens en inzake de vernietiging van deze wapens.  
 
 Lasten en bevelen, dat deze in het *Staatsblad* zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

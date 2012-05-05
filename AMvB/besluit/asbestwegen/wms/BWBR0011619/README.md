@@ -42,20 +42,20 @@ f. Onze Minister: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Mi
 1.  Het is verboden een weg die asbest bevat, voorhanden te hebben.   
 2.  Het eerste lid is niet van toepassing op een weg, waarvan de eigenaar heeft aangetoond dat de concentratie serpentijnasbest vermeerderd met tien maal de concentratie amfiboolasbest ten hoogste 100 milligram per kilogram is. De bepaling van de serpentijn- en amfiboolasbestconcentratie vindt plaats volgens NEN 5897; bij ministeriële regeling worden nadere voorschriften gegeven omtrent de toepassing van NEN 5897.   
 3.  Het eerste lid is voorts niet van toepassing op een weg, waarvan de eigenaar heeft aangetoond dat het asbest voor 1 juli 1993 is aangebracht en waarvan het asbest is afgeschermd door een verharding die geen asbest bevat en die voldoet aan C.R.O.W.-publicatie 81, uitgave januari 1994. De verharding bestaat uit asfalt, klinkers of beton.   
-4.  Het eerste lid is eveneens niet van toepassing op een asbestbevattende weg die voldoet aan bij ministeriële regeling gegeven voorschriften.   
+4.  Het eerste lid is eveneens niet van toepassing op een asbestbevattende weg die voldoet aan bij ministeriële regeling gegeven voorschriften.  
 
 ### Artikel  3  
 
-1.  Artikel 2, eerste lid, is tot 1 juli 2001 niet van toepassing op: 
+1.   Artikel 2, eerste lid, is tot 1 juli 2001 niet van toepassing op: 
 
 a. een weg die is gelegen in de gemeente Harderwijk of binnen een straal van twaalf kilometer rond die gemeente, te rekenen vanaf de gemeentegrens;  
 
 b. een weg waarvoor, overeenkomstig de Saneringsregeling asbestwegen Twente, een aanvraag voor een saneringsmaatregel is ingediend vóór 1 oktober 1999.     
-2.  Onze Minister kan in plaats van de datum van 1 juli 2001, genoemd in het eerste lid, ten aanzien van de in dat lid bedoelde wegen of een deel van die wegen een andere datum vaststellen indien het nemen van maatregelen aan die wegen niet vóór 1 juli 2001 kan zijn voltooid.   
+2.  Onze Minister kan in plaats van de datum van 1 juli 2001, genoemd in het eerste lid, ten aanzien van de in dat lid bedoelde wegen of een deel van die wegen een andere datum vaststellen indien het nemen van maatregelen aan die wegen niet vóór 1 juli 2001 kan zijn voltooid.  
 
 ### Artikel  4  
 
-Onze Minister kan, zolang aan een asbestbevattende weg als bedoeld in de artikelen 2, eerste lid, en 3, geen maatregelen zijn genomen die strekken tot het tegengaan van blootstelling van gebruikers van die weg aan asbest, de eigenaar of degene die uit anderen hoofde bevoegd is tot het nemen van die maatregelen, het nemen van tijdelijke maatregelen bij of aan die weg opleggen.  
+Onze Minister kan, zolang aan een asbestbevattende weg als bedoeld in de artikelen 2, eerste lid, en 3, geen maatregelen zijn genomen die strekken tot het tegengaan van blootstelling van gebruikers van die weg aan asbest, de eigenaar of degene die uit anderen hoofde bevoegd is tot het nemen van die maatregelen, het nemen van tijdelijke maatregelen bij of aan die weg opleggen. 
 
 ### Artikel  5  
 
@@ -70,23 +70,23 @@ c. de plaats of plaatsen op de weg, waar het asbest zich bevindt, en
 
 d. de maatregelen, bedoeld in artikel 2, derde lid, die aan de weg zijn of worden genomen.     
 3.  Op verzoek van Onze Minister legt de eigenaar van de weg binnen de door Onze Minister te bepalen termijn nadere gegevens over.   
-4.  Het eerste lid is niet van toepassing op een weg als bedoeld in de artikelen 2, tweede lid, en 3, eerste lid, onderdeel b. Het eerste lid is voorts niet van toepassing op een weg waarvoor binnen de in de Saneringsregeling overige asbestwegen gestelde termijn overeenkomstig die regeling een aanvraag voor een saneringsmaatregel is ingediend.   
+4.  Het eerste lid is niet van toepassing op een weg als bedoeld in de artikelen 2, tweede lid, en 3, eerste lid, onderdeel b. Het eerste lid is voorts niet van toepassing op een weg waarvoor binnen de in de Saneringsregeling overige asbestwegen gestelde termijn overeenkomstig die regeling een aanvraag voor een saneringsmaatregel is ingediend.  
 
 ### §  3  
 
 ####Overgangs- en slotbepalingen
 
-### Artikel  5a  
+###Artikel 5a 
 
-Dit besluit berust op [artikel 9.2.2.1 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).  
+Dit besluit berust op [artikel 9.2.2.1 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).
 
 ### Artikel  6  
 
-Dit besluit treedt in werking met ingang van de dag waarop vier weken zijn verstreken na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag waarop vier weken zijn verstreken na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 ### Artikel  7  
 
-Dit besluit wordt aangehaald als: Besluit asbestwegen milieubeheer.  
+Dit besluit wordt aangehaald als: Besluit asbestwegen milieubeheer. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -100,4 +100,4 @@ J. P. Pronk
 de *zesentwintigste* september 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

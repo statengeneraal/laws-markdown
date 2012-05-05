@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Instellingsbesluit Projectorganisatie Ruimte voor de Rivier
+##Instellingsbesluit Projectorganisatie Ruimte voor de Rivier 
 
 De Minister van Verkeer en Waterstaat,  
 Gelet op [artikel 8 van het Organiek Besluit Rijkswaterstaat](../../../../../../../../AMvB/organiek/besluit/rijkswaterstaat/BWBR0002743/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -15,7 +15,7 @@ Besluit:
 
 ### Artikel  1a  
 
-Dit besluit berust mede op [artikel 2, tweede lid, van het Instellingsbesluit directoraat generaal Rijkswaterstaat](../../../../../../../../ministeriele-regeling/instellingsbesluit/directoraat-generaal/rijkswaterstaat/BWBR0026953/README.md).  
+Dit besluit berust mede op [artikel 2, tweede lid, van het Instellingsbesluit directoraat generaal Rijkswaterstaat](../../../../../../../../ministeriele-regeling/instellingsbesluit/directoraat-generaal/rijkswaterstaat/BWBR0026953/README.md). 
 
 ### Artikel  2  
 
@@ -29,18 +29,18 @@ De projectorganisatie heeft tot taak het beschrijven van maatregelpakketten best
 
 De projectorganisatie bestaat uit: 
 
-- de projectdirecteur,  
+-  de projectdirecteur,  
 
-- de plaatsvervangend projectdirecteur, en  
+-  de plaatsvervangend projectdirecteur, en  
 
-- het landelijk projectbureau.    
+-  het landelijk projectbureau.    
 
 ### Artikel  4  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant, waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant, waarin het wordt geplaatst. 
 
 De 
 Minister van Verkeer en Waterstaat, 
-Roelf H. deBoer    
+Roelf H. de Boer     

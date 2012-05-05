@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt het Wetboek van Strafvordering.   
+Wijzigt het Wetboek van Strafvordering.  
 
 ### Artikel  II  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Dit tijdstip kan voor de verschillende onderdelen van artikel I verschillend worden vastgesteld.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Dit tijdstip kan voor de verschillende onderdelen van artikel I verschillend worden vastgesteld. 
 
 ### Artikel  III  
 
-Artikel I, onder D en F, heeft geen gevolgen voor strafzaken die vóór het tijdstip van inwerkingtreding van deze wet reeds ter terechtzitting in eerste aanleg aanhangig zijn gemaakt.  
+Artikel I, onder D en F, heeft geen gevolgen voor strafzaken die vóór het tijdstip van inwerkingtreding van deze wet reeds ter terechtzitting in eerste aanleg aanhangig zijn gemaakt. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministers, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

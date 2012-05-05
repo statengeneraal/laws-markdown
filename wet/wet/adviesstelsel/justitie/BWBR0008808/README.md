@@ -13,63 +13,63 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  Er is een Commissie vennootschapsrecht.   
 2.  De commissie bestaat uit ten minste zes en ten hoogste tien leden.   
-3.  De commissie heeft tot taak de regering en de beide kamers der Staten-Generaal te adviseren over wetgeving op het terrein van het vennootschapsrecht en het rechtspersonenrecht in het algemeen.   
+3.  De commissie heeft tot taak de regering en de beide kamers der Staten-Generaal te adviseren over wetgeving op het terrein van het vennootschapsrecht en het rechtspersonenrecht in het algemeen.  
 
 ### Artikel  2  
 
 1.  Er is een Adviescommissie voor burgerlijk procesrecht.   
 2.  De commissie bestaat uit ten minste zes en ten hoogste tien leden.   
-3.  De commissie heeft tot taak de regering en de beide kamers der Staten-Generaal te adviseren over wetgeving op het terrein van het burgerlijk procesrecht.   
+3.  De commissie heeft tot taak de regering en de beide kamers der Staten-Generaal te adviseren over wetgeving op het terrein van het burgerlijk procesrecht.  
 
 ### Artikel  3  
 
-1.  Er is een commissie auteursrecht.   
-2.  De commissie bestaat, met inbegrip van de voorzitter, uit ten minste zes en ten hoogste tien leden.   
-3.  De commissie heeft tot taak de regering en de beide Kamers der Staten-Generaal te adviseren over wetgeving op het terrein van het auteursrecht en de naburige rechten.   
+1. Er is een commissie auteursrecht.
+2. De commissie bestaat, met inbegrip van de voorzitter, uit ten minste zes en ten hoogste tien leden.
+3. De commissie heeft tot taak de regering en de beide Kamers der Staten-Generaal te adviseren over wetgeving op het terrein van het auteursrecht en de naburige rechten.
 
 ### Artikel  4  
 
-Wijzigt de Wet persoonsregistraties.   
+Wijzigt de Wet persoonsregistraties.  
 
 ### Artikel  5  
 
-Wijzigt de Wet politieregisters.   
+Wijzigt de Wet politieregisters.  
 
 ### Artikel  6  
 
-Wijzigt de Vreemdelingenwet.   
+Wijzigt de Vreemdelingenwet.  
 
 ### Artikel  7  
 
-Wijzigt de Vreemdelingenwet.   
+Wijzigt de Vreemdelingenwet.  
 
 ### Artikel  8  
 
-Wijzigt de Beginselenwet gevangeniswezen.   
+Wijzigt de Beginselenwet gevangeniswezen.  
 
 ### Artikel  9  
 
-Wijzigt de Wet op de jeugdhulpverlening.   
+Wijzigt de Wet op de jeugdhulpverlening.  
 
 ### Artikel  10  
 
-Deze wet treedt in werking met ingang van 1 januari 1997. Indien het *Staatsblad* waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 1996, treedt zij in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 1997.  
+Deze wet treedt in werking met ingang van 1 januari 1997. Indien het *Staatsblad *waarin deze wet wordt geplaatst, wordt uitgegeven na 31 december 1996, treedt zij in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst en werkt zij terug tot en met 1 januari 1997. 
 
 ### Artikel  11  
 
-Deze wet wordt aangehaald als: Wet adviesstelsel Justitie.  
+Deze wet wordt aangehaald als: Wet adviesstelsel Justitie. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 5 juli 1997  
-Beatrix  
+Beatrix   
 
 De Minister van Justitie, 
-W. Sorgdrager   
+W. Sorgdrager    
 
 De Staatssecretaris van Justitie, 
-E. M. A. Schmitz   
+E. M. A. Schmitz    
 
 De Staatssecretaris van Binnenlandse Zaken, 
 J. Kohnstamm   

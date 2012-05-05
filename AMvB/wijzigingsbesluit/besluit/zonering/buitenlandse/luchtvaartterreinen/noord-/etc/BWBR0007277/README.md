@@ -17,21 +17,21 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-1.  Totdat de commissie, bedoeld in het besluit van Onze Minister van 28 april 1989, houdende wijziging Instellingsbeschikking Commissie Zonering Buitenlandse Luchtvaartterreinen Noord- en Midden-Limburg (*Stcrt*. 91 en 96), anders besluit: 
+1.  Totdat de commissie, bedoeld in het besluit van Onze Minister van 28 april 1989, houdende wijziging Instellingsbeschikking Commissie Zonering Buitenlandse Luchtvaartterreinen Noord- en Midden-Limburg (*Stcrt*. 91 en 96), anders besluit:  
 
 a. wordt zij geacht de commissie te zijn, bedoeld in [artikel 15 van het Besluit zonering buitenlandse luchtvaartterreinen Noord- en Midden-Limburg](../../../../../../../../../AMvB/besluit/zonering/buitenlandse/luchtvaartterreinen/noord-/en/midden-limburg/BWBR0003643/README.md), en  
 
 b. treedt het vóór het tijdstip van inwerkingtreding van dit besluit door haar vastgestelde reglement van orde in de plaats van het reglement van orde, bedoeld in [artikel 16 van het Besluit zonering buitenlandse luchtvaartterreinen Noord- en Midden-Limburg](../../../../../../../../../AMvB/besluit/zonering/buitenlandse/luchtvaartterreinen/noord-/en/midden-limburg/BWBR0003643/README.md).     
-2.  Het in het eerste lid genoemde besluit van Onze Minister wordt ingetrokken.   
+2.   Het in het eerste lid genoemde besluit van Onze Minister wordt ingetrokken.  
 
 ### Artikel  III  
 
 1.  Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.   
-2.  Artikel I, onderdelen A en B, onder 4, werkt terug tot en met 19 maart 1993.   
+2.   Artikel I, onderdelen A en B, onder 4, werkt terug tot en met 19 maart 1993.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

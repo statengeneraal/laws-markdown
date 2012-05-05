@@ -20,21 +20,21 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  4  
 
-Deze regeling kan worden aangehaald als: Regeling model beschrijving en beplantingsplan Natuurschoonwet 1928.  
+Deze regeling kan worden aangehaald als: Regeling model beschrijving en beplantingsplan Natuurschoonwet 1928. 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
 20 juni 1996    
 
 De 
-Minister van Landbouw, Natuurbeheer en Visserij, 
-J.J. vanAartsen 
+Minister van Landbouw, Natuurbeheer en Visserij,
+J.J. van Aartsen  
 
 De 
-Staatssecretaris van Financiën, 
-W.A.F.G.Vermeend   
+Staatssecretaris van Financiën,
+W.A.F.G.Vermeend    
 
-### Bijlage  A  
+### Bijlage A  
 
 ####behorend bij de Regeling model beschrijving en beplantingsplan Natuurschoonwet 1928
 
@@ -42,7 +42,7 @@ Model voor de beschrijving van Natuurschoonwetlandgoederen
 
 ![24602](http://wetten.overheid.nl/Illustration/24602)
 
-### Bijlage  B  
+### Bijlage B  
 
 ####behorend bij de Regeling model beschrijving en beplantingsplan Natuurschoonwet 1928
 

@@ -13,11 +13,11 @@ Hebben goedgevonden en verstaan:
 
 1.  Er is een commissie auteursrecht.   
 2.  De commissie bestaat uit ten minste zes en ten hoogste tien leden.   
-3.  De commissie heeft tot taak de regering en de beide Kamers der Staten-Generaal te adviseren over vragen rond de uitvoering van de richtlijn van de Raad en het Europees Parlement tot harmonisatie van bepaalde aspecten van het auteursrecht en de naburige rechten in de informatiemaatschappij, in het bijzonder de invloed van technische beveiliging van beschermd materiaal, op de behartiging van belangen die worden beschermd door bijzondere wettelijke beperkingen op het auteursrecht en de naburige rechten, de rol van de overheid bij geschillenbeslechting en de facilitering van onderhandelingen en tariefafspraken, alsmede initiatieven in het kader van internationale organisaties als World Intellectual Property Organisation, Raad van Europa en Europese Unie tot het scheppen van nieuwe rechten en het maken van regels van toepasselijk recht, contractenrecht en collectief beheer.   
+3.  De commissie heeft tot taak de regering en de beide Kamers der Staten-Generaal te adviseren over vragen rond de uitvoering van de richtlijn van de Raad en het Europees Parlement tot harmonisatie van bepaalde aspecten van het auteursrecht en de naburige rechten in de informatiemaatschappij, in het bijzonder de invloed van technische beveiliging van beschermd materiaal, op de behartiging van belangen die worden beschermd door bijzondere wettelijke beperkingen op het auteursrecht en de naburige rechten, de rol van de overheid bij geschillenbeslechting en de facilitering van onderhandelingen en tariefafspraken, alsmede initiatieven in het kader van internationale organisaties als World Intellectual Property Organisation, Raad van Europa en Europese Unie tot het scheppen van nieuwe rechten en het maken van regels van toepasselijk recht, contractenrecht en collectief beheer.  
 
 ### Artikel  2  
 
-De commissie wordt ingesteld voor de duur van vier jaar.  
+De commissie wordt ingesteld voor de duur van vier jaar. 
 
 ### Artikel  3  
 
@@ -38,4 +38,4 @@ A. H. Korthals
 de *vijfentwintigste* juli 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

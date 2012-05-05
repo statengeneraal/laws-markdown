@@ -17,11 +17,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Van de verboden vervat in de [artikelen 2, 3, 4 en 6 van het Besluit geluidproduktie motorvoertuigen](../../../../../../AMvB/besluit/geluidproduktie/motorvoertuigen/BWBR0003464/README.md) (*Stb.* 1981, 741) wordt in het belang van de landsverdediging vrijstelling verleend voor de tactische motorvoertuigen die op het tijdstip van inwerkingtreding van dit besluit worden gebezigd, alsmede voor de tactische motorvoertuigen die voor dat tijdstip zijn aangekocht.  
+Van de verboden vervat in de [artikelen 2, 3, 4 en 6 van het Besluit geluidproduktie motorvoertuigen](../../../../../../AMvB/besluit/geluidproduktie/motorvoertuigen/BWBR0003464/README.md) (*Stb.* 1981, 741) wordt in het belang van de landsverdediging vrijstelling verleend voor de tactische motorvoertuigen die op het tijdstip van inwerkingtreding van dit besluit worden gebezigd, alsmede voor de tactische motorvoertuigen die voor dat tijdstip zijn aangekocht. 
 
 ### Artikel  2  
 
-Dit besluit kan worden aangehaald als "Vrijstellingsbesluit geluidproduktie motorvoertuigen landsverdediging" en treedt in werking op het tijdstip van inwerkingtreding van het [Besluit geluidproduktie motorvoertuigen](../../../../../../AMvB/besluit/geluidproduktie/motorvoertuigen/BWBR0003464/README.md).  
+Dit besluit kan worden aangehaald als "Vrijstellingsbesluit geluidproduktie motorvoertuigen landsverdediging" en treedt in werking op het tijdstip van inwerkingtreding van het [Besluit geluidproduktie motorvoertuigen](../../../../../../AMvB/besluit/geluidproduktie/motorvoertuigen/BWBR0003464/README.md). 
 
 Lasten en bevelen dat dit besluit, met de daarbij behorende nota van toelichting, in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

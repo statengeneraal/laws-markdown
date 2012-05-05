@@ -19,15 +19,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Hetgeen bij of krachtens de [hoofdstukken II](../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [VII](../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) tot en met [IX van de Gezondheids- en welzijnswet voor dieren](../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) met betrekking tot produkten of produkten van dierlijke oorsprong is bepaald, is van overeenkomstige toepassing op handelingen met embryo's voor zover deze zich buiten de baarmoeder van het dier bevinden.  
+Hetgeen bij of krachtens de [hoofdstukken II](../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [VII](../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) tot en met [IX van de Gezondheids- en welzijnswet voor dieren](../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) met betrekking tot produkten of produkten van dierlijke oorsprong is bepaald, is van overeenkomstige toepassing op handelingen met embryo's voor zover deze zich buiten de baarmoeder van het dier bevinden. 
 
 ### Artikel  2  
 
-Dit besluit wordt aangehaald als: Embryobesluit.  
+Dit besluit wordt aangehaald als: Embryobesluit. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

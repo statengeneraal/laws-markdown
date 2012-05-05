@@ -12,17 +12,17 @@ Besluiten
 
 De instelling, taak en samenstelling van de Commissie Centraal Overleg Verkeersveiligheid te Water zoals vermeld in bovengenoemde beschikking, worden als volgt gewijzigd: 
 
-I. In te stellen het Centraal Overleg Verkeersveiligheid te Water (COVW) met als taak: 
+I.  In te stellen het Centraal Overleg Verkeersveiligheid te Water (COVW) met als taak: 
 
-a. het bevorderen van de samenwerking en coördinatie in de taakuitvoering tussen diensten die betrokken zijn bij de verschillende aspecten van het toezicht op het scheepvaartverkeer en die belast zijn met de handhaving van de voorschriften betreffende de veiligheid en de goede orde van het verkeer op de vaarwegen;  
+a.  het bevorderen van de samenwerking en coördinatie in de taakuitvoering tussen diensten die betrokken zijn bij de verschillende aspecten van het toezicht op het scheepvaartverkeer en die belast zijn met de handhaving van de voorschriften betreffende de veiligheid en de goede orde van het verkeer op de vaarwegen;  
 
-b. het uitwisselen van gegevens van de onder a. bedoelde diensten enerzijds en het Openbaar Ministerie anderzijds om de beleidsuitgangspunten op elkaar af te stemmen;  
+b. het uitwisselen van gegevens van de onder a. bedoelde diensten enerzijds en het Openbaar Ministerie anderzijds om de beleidsuitgangspunten op elkaar af te stemmen; 
 
-c. het adviseren van de ondergetekenden omtrent maatregelen ter bevordering van de veiligheid en de goede orde van het verkeer op de vaarwegen, alsmede omtrent de inhoud en de toepassing van de hierop betrekking hebbende wetgeving;  
+c.  het adviseren van de ondergetekenden omtrent maatregelen ter bevordering van de veiligheid en de goede orde van het verkeer op de vaarwegen, alsmede omtrent de inhoud en de toepassing van de hierop betrekking hebbende wetgeving; 
 
-d. het bevorderen van een efficiënte en effectieve informatievoorziening met betrekking tot het scheepvaartverkeer.    
+d.  het bevorderen van een efficiënte en effectieve informatievoorziening met betrekking tot het scheepvaartverkeer.   
 
-II. In het onder I bedoelde Overleg te benoemen:   a. tot voorzitter:  mr. R.H.J. de Vries,    b. tot secretaris:  ir. A. J. Veraart; tot adjunct-secretaris: (vacature);    c. tot leden:  
+II.  In het onder I bedoelde Overleg te benoemen: a.  tot voorzitter:   mr. R.H.J. de Vries,  b. tot secretaris:  ir. A. J. Veraart; tot adjunct-secretaris: (vacature);  c.  tot leden:  
 
 namens het Openbaar Ministerie: mr. W.P.H. Hendriks;  
 
@@ -34,9 +34,9 @@ namens de Rijkswaterstaat: jhr. mr. H. R. van Doorn, ir. W.H. Barentsen;
 
 namens het Directoraat-Generaal voor het Vervoer: (vacature);  
 
-namens het Directoraat-Generaal Scheepvaart en Maritieme Zaken: mr. K. Polderman, mr. B.G. Hofman;  
+namens het Directoraat-Generaal Scheepvaart en Maritieme Zaken: mr. K. Polderman, mr. B.G. Hofman;   
 
-namens het Ministerie van Binnenlandse Zaken: A. de Bruin, J.R. Hes,      d. tot plaatsvervangend leden:  
+namens het Ministerie van Binnenlandse Zaken: A. de Bruin, J.R. Hes,    d. tot plaatsvervangend leden:  
 
 namens het Openbaar Ministerie: mr. H.W. Overbosch, mr. J. Riemersma;  
 
@@ -50,27 +50,27 @@ namens het Directoraat-Generaal voor het Vervoer: H. Kapel;
 
 namens het Directoraat-Generaal Scheepvaart en Maritieme Zaken: ing. P.A. Veenenbos;  
 
-namens het Ministerie van Binnenlandse Zaken: M.V. Kösters.         
+namens het Ministerie van Binnenlandse Zaken: M.V. Kösters.      
 
 ### Artikel  2  
 
-Deze beschikking treedt met ingang van heden in werking.  
+Deze beschikking treedt met ingang van heden in werking. 
 
 ### Artikel  3  
 
 Afschrift van deze beschikking, die wordt geplaatst in de Nederlandse Staatscourant, wordt gezonden aan: 
 
-a. betrokkenen;  
+a.  betrokkenen; 
 
-b. de secretaris van het Centraal Overleg Verkeersveiligheid te Water.    
+b. de secretaris van het Centraal Overleg Verkeersveiligheid te Water.  
 
-'s-Gravenhage 
+'s-Gravenhage
 1 oktober 1990    
 
 De 
 Minister van Verkeer en Waterstaat, 
-J. R. H.Maij-Weggen. 
+J. R. H.Maij-Weggen . 
 
 De 
 Minister van Justitie, 
-E. M. H.Hirsch-Ballin.    
+E. M. H.Hirsch-Ballin  .    

@@ -11,23 +11,23 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt Boek 1 van het Burgerlijk Wetboek.   
+Wijzigt Boek 1 van het Burgerlijk Wetboek.  
 
 ### Artikel  II  
 
-Wijzigt Boek 7 van het Burgerlijk Wetboek.   
+Wijzigt Boek 7 van het Burgerlijk Wetboek.  
 
 ### Artikel  III  
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.   
+Wijzigt het Wetboek van Burgerlijke Rechtsvordering.  
 
 ### Artikel  IV  
 
-Wijzigt de Wet gemeentelijke basisadministratie persoonsgegevens.   
+Wijzigt de Wet gemeentelijke basisadministratie persoonsgegevens.  
 
 ### Artikel  V  
 
-Wijzigt de Wet verevening pensioenrechten bij scheiding.   
+Wijzigt de Wet verevening pensioenrechten bij scheiding.  
 
 ### Artikel  VI  
 
@@ -35,7 +35,7 @@ Op een beslissing tot scheiding van tafel en bed dan wel op een beëindiging van
 
 ### Artikel  VII  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -49,4 +49,4 @@ M. J. Cohen
 de *elfde* januari 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

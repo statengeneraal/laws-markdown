@@ -15,16 +15,16 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
 1.  Behoudens het bepaalde in het tweede lid, is op een vergunning als bedoeld in de [artikelen 3](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), 4 en [28 van de Wet op de kansspelen](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), die is verleend voor de inwerkingtreding van dit besluit, het recht van toepassing zoals dat gold voor de inwerkingtreding van dit besluit.   
-2.  Ten aanzien van een vergunning als bedoeld in de [artikelen 3](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), 4 en [28 van de Wet op de kansspelen](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), die is verleend voor de inwerkingtreding van dit besluit met een geldigheidsduur van meer dan een jaar, is de jaarlijkse vergoeding bedoeld in [artikel 3 *a* van het Kansspelenbesluit](../../../../AMvB/kansspelenbesluit/BWBR0009067/README.md) verschuldigd met ingang van de dag waarop dit besluit in werking treedt.   
+2.   Ten aanzien van een vergunning als bedoeld in de [artikelen 3](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), 4 en [28 van de Wet op de kansspelen](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), die is verleend voor de inwerkingtreding van dit besluit met een geldigheidsduur van meer dan een jaar, is de jaarlijkse vergoeding bedoeld in [artikel 3*a* van het Kansspelenbesluit](../../../../AMvB/kansspelenbesluit/BWBR0009067/README.md) verschuldigd met ingang van de dag waarop dit besluit in werking treedt.  
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de dag waarop de wet van 18 mei 1995, *Stb.* 300, houdende wijziging van de [Wet op de kansspelen](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) in verband met het instellen van een College van toezicht op de kansspelen in werking treedt.  
+Dit besluit treedt in werking met ingang van de dag waarop de wet van 18 mei 1995, *Stb.* 300, houdende wijziging van de [Wet op de kansspelen](../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) in verband met het instellen van een College van toezicht op de kansspelen in werking treedt. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

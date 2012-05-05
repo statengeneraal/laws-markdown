@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Penitentiaire beginselenwet.   
+Wijzigt de Penitentiaire beginselenwet.  
 
 ### Artikel  II  
 
-Deze wet heeft geen gevolgen voor de tenuitvoerlegging van vrijheidsstraffen als bedoeld in [artikel 1, onder s, van de Penitentiaire beginselenwet](../../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), die op het moment van inwerkingtreding van deze wet reeds is aangevangen.  
+Deze wet heeft geen gevolgen voor de tenuitvoerlegging van vrijheidsstraffen als bedoeld in [artikel 1, onder s, van de Penitentiaire beginselenwet](../../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), die op het moment van inwerkingtreding van deze wet reeds is aangevangen. 
 
 ### Artikel  III  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -28,11 +28,11 @@ Gegeven te 's-Gravenhage
 Beatrix  
 
 De 
-Minister van Justitie, 
-J. P. H.Donner 
+Minister van Justitie,
+J. P. H. Donner   
 
 de vijftiende april 2003 
 
 De 
 Minister van Justitie, 
-J. P. H.Donner  
+J. P. H.  Donner    

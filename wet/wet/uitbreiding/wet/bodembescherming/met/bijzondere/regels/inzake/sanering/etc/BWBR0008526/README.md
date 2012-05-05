@@ -16,15 +16,15 @@ Wijzigt de Wet bodembescherming.
 ### ARTIKEL  II  
 
 1.  Voor zover voor het tijdstip van inwerkingtreding van deze wet bij de voorbereiding of uitvoering van het provinciaal milieuprogramma, bedoeld in [artikel 1 van de Wet bodembescherming](../../../../../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), verplichtingen zijn aangegaan met betrekking tot gevallen van onderzoek of sanering van de waterbodem, waarvoor een bijdrage als bedoeld in artikel 76 of artikel 77 van die wet is verleend, blijft voor die gevallen totdat aan die verplichtingen is voldaan de [Wet bodembescherming](../../../../../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) zoals die wet luidde onmiddellijk voorafgaand aan de inwerkingtreding van deze wet, van toepassing.   
-2.  Indien in een geval als bedoeld in het eerste lid, toepassing wordt gegeven aan [artikel 81 *a*, tweede lid, van de Wet bodembescherming](../../../../../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), worden op het bedrag dat ingevolge dat artikellid wordt vastgesteld, de op grond van [artikel 79](../../../../../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), eerste lid, en [artikel 81, eerste lid, van de Wet bodembescherming](../../../../../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) door de gemeente onderscheidenlijk de provincie betaalde kosten in mindering gebracht.   
+2.  Indien in een geval als bedoeld in het eerste lid, toepassing wordt gegeven aan [artikel 81*a*, tweede lid, van de Wet bodembescherming](../../../../../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), worden op het bedrag dat ingevolge dat artikellid wordt vastgesteld, de op grond van [artikel 79](../../../../../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), eerste lid, en [artikel 81, eerste lid, van de Wet bodembescherming](../../../../../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) door de gemeente onderscheidenlijk de provincie betaalde kosten in mindering gebracht.  
 
 ### ARTIKEL  III  
 
-Wijzigt de Grondwaterwet.   
+Wijzigt de Grondwaterwet.  
 
 ### ARTIKEL  IV  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten.  
 
 ### ARTIKEL  V  
 
@@ -35,10 +35,10 @@ Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle 
 
 Gegeven te 's-Gravenhage 
 30 januari 1997  
-Beatrix  
+Beatrix   
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-Margaretha de Boer   
+Margaretha de Boer    
 
 De Minister van Verkeer en Waterstaat, 
 A. Jorritsma-Lebbink   

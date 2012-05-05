@@ -8,11 +8,11 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling registratie snelle motorboten 1991.   
+Wijzigt de Regeling registratie snelle motorboten 1991. 
 
 ### Artikel  II  
 
-De geldigheid van registratiebewijzen, die zijn afgegeven vóór 1 maart 1995 volgens het oude model, vervalt met ingang van 28 februari 2000.  
+De geldigheid van registratiebewijzen, die zijn afgegeven vóór 1 maart 1995 volgens het oude model, vervalt met ingang van 28 februari 2000. 
 Dit besluit zal worden geplaatst in de Staatscourant.   
 
 's-Gravenhage 
@@ -20,4 +20,4 @@ Dit besluit zal worden geplaatst in de Staatscourant.
 
 De 
 Minister van Verkeer en Waterstaat, 
-A.Jorritsma-Lebbink    
+A. Jorritsma-Lebbink      

@@ -11,19 +11,19 @@ Gelet op artikel 2 van de Kaderwet verstrekking financiële middelen EZ;
 De Raad van State gehoord (advies van 20 september 1994, nr. W10.94.0399);
 
 Gezien het nader rapport van Onze Minister van Economische Zaken van 30 november 1994, nr. 94084646 WJA/JZ;
-Hebben goedgevonden en verstaan:    
+Hebben goedgevonden en verstaan:  
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Met betrekking tot subsidies voor voorzieningen, aangewezen in categorie 2, die voor de inwerkingtreding van dit besluit zijn aangevraagd, is het Besluit subsidies energiebesparingstechnieken van toepassing zoals het luidde voor de inwerkingtreding van dit besluit.  
+Met betrekking tot subsidies voor voorzieningen, aangewezen in categorie 2, die voor de inwerkingtreding van dit besluit zijn aangevraagd, is het Besluit subsidies energiebesparingstechnieken van toepassing zoals het luidde voor de inwerkingtreding van dit besluit. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van 1 januari 1995.  
+Dit besluit treedt in werking met ingang van 1 januari 1995. 
 
 Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

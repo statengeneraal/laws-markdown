@@ -11,4 +11,4 @@ Besluit:     De Stichting Bureau Voorlichting Interlandelijke Adoptie, statutair
 
 De 
 staatssecretaris van Justitie, 
-V. N. M.Korte-van Hemel    
+V. N. M. Korte-van Hemel      

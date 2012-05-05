@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### ARTIKEL  I  
 
-Wijzigt het Besluit Centraal Fonds voor de Volkshuisvesting.   
+Wijzigt het Besluit Centraal Fonds voor de Volkshuisvesting.  
 
 ### ARTIKEL  II  
 
@@ -23,26 +23,26 @@ Op de in het Centraal Fonds voor de Volkshuisvesting gestorte bijdragen voor eni
 
 a. het [Besluit Centraal Fonds voor de Volkshuisvesting](../../../../../../../../AMvB/besluit/centraal/fonds/voor/de/volkshuisvesting/BWBR0004418/README.md) als luidend op 31 december van het jaar waarover die bijdragen verschuldigd waren, en  
 
-b. het beleidsplan van dat fonds als luidend voor dat jaar.    
+b. het beleidsplan van dat fonds als luidend voor dat jaar.   
 
 ### ARTIKEL  III  
 
-De toegelaten instellingen, bedoeld in [artikel 70, eerste lid, van de Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md), die op 1 april 1996 als zodanig bestonden, dienen de aangifte van de over 1996 door hen aan het Centraal Fonds voor de Volkshuisvesting verschuldigde bijdrage in voor 15 september 1996, volgens het [Besluit Centraal Fonds voor de Volkshuisvesting](../../../../../../../../AMvB/besluit/centraal/fonds/voor/de/volkshuisvesting/BWBR0004418/README.md) als laatstelijk luidend voor die datum en ten aanzien van de datum van indiening van die aangifte in afwijking van artikel 12, eerste lid, van dat aldus luidende besluit.  
+De toegelaten instellingen, bedoeld in [artikel 70, eerste lid, van de Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md), die op 1 april 1996 als zodanig bestonden, dienen de aangifte van de over 1996 door hen aan het Centraal Fonds voor de Volkshuisvesting verschuldigde bijdrage in voor 15 september 1996, volgens het [Besluit Centraal Fonds voor de Volkshuisvesting](../../../../../../../../AMvB/besluit/centraal/fonds/voor/de/volkshuisvesting/BWBR0004418/README.md) als laatstelijk luidend voor die datum en ten aanzien van de datum van indiening van die aangifte in afwijking van artikel 12, eerste lid, van dat aldus luidende besluit. 
 
 ### ARTIKEL  IV  
 
-De tekst van het [Besluit Centraal Fonds voor de Volkshuisvesting](../../../../../../../../AMvB/besluit/centraal/fonds/voor/de/volkshuisvesting/BWBR0004418/README.md) wordt in het *Staatsblad* geplaatst.  
+De tekst van het [Besluit Centraal Fonds voor de Volkshuisvesting](../../../../../../../../AMvB/besluit/centraal/fonds/voor/de/volkshuisvesting/BWBR0004418/README.md) wordt in het *Staatsblad* geplaatst. 
 
 ### ARTIKEL  V  
 
 1.  De artikelen I en II treden in werking met ingang van de dag na de datum die twee maanden ligt na de datum van uitgifte van het *Staatsblad* waarin dit besluit wordt geplaatst.   
-2.  De artikelen III en IV treden in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin dit besluit wordt geplaatst.   
+2.  De artikelen III en IV treden in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin dit besluit wordt geplaatst.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 
 's-Gravenhage 
 3 juli 1996  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
 D. K. J. Tommel   
@@ -50,4 +50,4 @@ D. K. J. Tommel
 de elfde juli 1996 
 
 De Minister van Justitie, 
-W. Sorgdrager    
+W. Sorgdrager     

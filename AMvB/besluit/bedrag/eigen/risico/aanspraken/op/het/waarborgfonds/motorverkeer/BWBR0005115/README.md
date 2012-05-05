@@ -15,12 +15,12 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Het bedrag bedoeld in [artikel 26, vierde lid, van de Wet aansprakelijkheidsverzekering Motorrijtuigen](../../../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) (Stb. 1984, 269) wordt vastgesteld op € 250.  
+Het bedrag bedoeld in [artikel 26, vierde lid, van de Wet aansprakelijkheidsverzekering Motorrijtuigen](../../../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) (Stb. 1984, 269) wordt vastgesteld op € 250. 
 
 ### Artikel  2  
 
 1.  Dit besluit treedt in werking met ingang van de eerste kalendermaand na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst. Met ingang van dat tijdstip vervalt het Besluit bedrag eigen risico aansprakelijkheidsverzekering (*Stb.* 1967, 200).   
-2.  Dit besluit kan worden aangehaald als "Besluit bedrag eigen risico aanspraken op het Waarborgfonds Motorverkeer".   
+2.   Dit besluit kan worden aangehaald als "Besluit bedrag eigen risico aanspraken op het Waarborgfonds Motorverkeer".  
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

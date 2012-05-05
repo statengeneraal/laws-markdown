@@ -12,9 +12,9 @@ Het verbod om voor zendinrichtingen die niet van een toegelaten type zijn handel
 
 a. zendinrichtingen die krachtens artikel D.1.1, eerste lid van het Besluit radio-elektrische inrichtingen zijn aangewezen voor: 
 
-1º. het doen van onderzoekingen,  
+1º. het doen van onderzoekingen, 
 
-2º. de burgerluchtvaart voor zover die zendinrichtingen voldoen aan de internationaal voorgeschreven en aanbevolen technische normen, zoals deze zijn vastgesteld in bijlage 10, deel 1 van het Verdrag inzake de Internationale burgerluchtvaart (Stb. 1947, H 165);  
+2º. de burgerluchtvaart voor zover die zendinrichtingen voldoen aan de internationaal voorgeschreven en aanbevolen technische normen, zoals deze zijn vastgesteld in bijlage 10, deel 1 van het Verdrag inzake de Internationale burgerluchtvaart (Stb. 1947, H 165); 
 
 3º. vrijetijdstoepassingen ten behoeve van algemene radiocommunicatie in de 27MHz-frequentieband voor zover deze zendinrichtingen zijn voorzien van een vanwege de bevoegde buitenlandse autoriteiten aangebracht keurmerk met een van de navolgende aanduidingen: 
 
@@ -24,17 +24,17 @@ PR 27D-FM en het bijbehorende toelatingsnummer van de Bondsrepubliek Duitsland;
 
 PR 27A;  
 
-PR 27 GB      
+PR 27 GB    
 
-b. andere zendinrichtingen dan bedoeld onder a 1° en 2° voor zover de handelsreclame bestaat uit niet voor het algemene publiek bestemde catalogi.    
+b. andere zendinrichtingen dan bedoeld onder a 1° en 2° voor zover de handelsreclame bestaat uit niet voor het algemene publiek bestemde catalogi.  
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de datum van inwerkingtreding van de Wet op de telecommunicatievoorzieningen en kan worden aangehaald als Regeling handelsreclame.  
+Deze regeling treedt in werking met ingang van de datum van inwerkingtreding van de Wet op de telecommunicatievoorzieningen en kan worden aangehaald als Regeling handelsreclame. 
 
 's-Gravenhage 
 20 december 1988    
 
 De 
 minister voornoemd, 
-N.Smit-Kroes    
+N. Smit-Kroes      

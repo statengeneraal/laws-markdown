@@ -8,4 +8,4 @@ Besluit:     vast te stellen het meerjarenprogramma SSZ 1999 tot en met 2003 en 
 
 De 
 Minister van Verkeer en Waterstaat, 
-T.Netelenbos    
+T. Netelenbos      

@@ -1,14 +1,14 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van 16 april 1996, houdende aanwijzing van de zaken, bedoeld in artikel VI, tweede lid, van de Wet van 26 februari 1996 tot wijziging van de Wet op de rechterlijke organisatie en andere wetten in verband met de opheffing van de functie van verkeersschout (Stb. 155), en aanpassing van lagere regelgeving aan die wet
+## Besluit van 16 april 1996, houdende aanwijzing van de zaken, bedoeld in artikel VI, tweede lid, van de Wet van 26 februari 1996 tot wijziging van de Wet op de rechterlijke organisatie en andere wetten in verband met de opheffing van de functie van verkeersschout (Stb. 155), en aanpassing van lagere regelgeving aan die wet
 
-Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.
+Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz. 
 
-Op de voordracht van Onze Minister van Justitie van 5 januari 1996, Directie Wetgeving, nr. 532577/95/6;
+Op de voordracht van Onze Minister van Justitie van 5 januari 1996, Directie Wetgeving, nr. 532577/95/6; 
 
-Gelet op [artikel VI, tweede lid, van de Wet van 26 februari 1996 tot wijziging van de Wet op de rechterlijke organisatie en andere wetten in verband met de opheffing van de functie van verkeersschout](../../../../../../../../../../../../../wet/wijzigingswet/wet/op/de/rechterlijke/organisatie/enz./(in/verband/met/de/etc/BWBR0008195/README.md) (Stb. 155);
+Gelet op [artikel VI, tweede lid, van de Wet van 26 februari 1996 tot wijziging van de Wet op de rechterlijke organisatie en andere wetten in verband met de opheffing van de functie van verkeersschout](../../../../../../../../../../../../../wet/wijzigingswet/wet/op/de/rechterlijke/organisatie/enz./(in/verband/met/de/etc/BWBR0008195/README.md) (Stb. 155); 
 
-De Raad van State gehoord (advies van 26 februari 1996; no. W03.96.0013);
+De Raad van State gehoord (advies van 26 februari 1996; no. W03.96.0013); 
 
 Gezien het nader rapport van Onze Minister van Justitie van 10 april 1996, Directie Wetgeving, nr. 549036/96/6;
 Hebben goedgevonden en verstaan:    
@@ -19,34 +19,34 @@ De in artikel VI, tweede lid, van de Wet van 26 februari 1996 tot wijziging van 
 
 ### Artikel  2  
 
-Wijzigt Reglement I.   
+Wijzigt Reglement I.  
 
 ### Artikel  3  
 
-Wijzigt Reglement II.   
+Wijzigt Reglement II.  
 
 ### Artikel  4  
 
-Het Besluit opleiding verkeersschouten wordt ingetrokken.  
+Het Besluit opleiding verkeersschouten wordt ingetrokken. 
 
 ### Artikel  5  
 
-Wijzigt het besluit van de Minister van Justitie van 23 mei 1990 (Stcrt. 107).   
+Wijzigt het besluit van de Minister van Justitie van 23 mei 1990 (Stcrt. 107).  
 
 ### Artikel  6  
 
 Dit besluit treedt in werking op het tijdstip waarop de Wet van 26 februari 1996 tot wijziging van de [Wet op de rechterlijke organisatie](../../../../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) en andere wetten in verband met de opheffing van de functie van verkeersschout (*Stb*. 155) in werking treedt.  
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst   
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst    
 
 Amsterdam 
-16 april 1996  
-Beatrix  
+16 april 1996   
+Beatrix   
 
-De Minister van Justitie, 
-W. Sorgdrager   
-
-de *vijfentwintigste* april 1996 
-
-De Minister van Justitie, 
+De Minister van Justitie,  
 W. Sorgdrager    
+
+de *vijfentwintigste* april 1996  
+
+De Minister van Justitie,  
+W. Sorgdrager     

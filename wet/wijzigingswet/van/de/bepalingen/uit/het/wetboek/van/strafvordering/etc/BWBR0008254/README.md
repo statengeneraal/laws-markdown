@@ -11,11 +11,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### ARTIKEL  I  
 
-WIjzigt het Wetboek van Strafvordering.   
+WIjzigt het Wetboek van Strafvordering.  
 
 ### ARTIKEL  II  
 
-Artikel I heeft geen gevolgen voor strafzaken die voor het tijdstip van inwerkingtreding van deze wet reeds ter terechtzitting aanhangig zijn gemaakt.  
+Artikel I heeft geen gevolgen voor strafzaken die voor het tijdstip van inwerkingtreding van deze wet reeds ter terechtzitting aanhangig zijn gemaakt. 
 
 ### ARTIKEL  III  
 
@@ -25,7 +25,7 @@ Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle 
 
 Gegeven te 's-Gravenhage 
 26 september 1996  
-Beatrix  
+Beatrix   
 
 De Minister van Justitie, 
 W. Sorgdrager   

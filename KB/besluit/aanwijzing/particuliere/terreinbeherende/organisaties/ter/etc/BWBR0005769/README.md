@@ -6,12 +6,12 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Landbouw, Natuurbeheer en Visserij van 9 december 1992, no. J. 9215445, Directie Juridische en Bedrijfsorganisatorische Zaken;
 
-Gelet op [artikel 70 *a* van de Pachtwet](../../../../../../../../../wet/pachtwet/BWBR0002269/README.md) (*Stb.* 1958, 37);
+Gelet op [artikel 70*a* van de Pachtwet](../../../../../../../../../wet/pachtwet/BWBR0002269/README.md) (*Stb.* 1958, 37);
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  
 
-Als particuliere terreinbeherende natuurbeschermingsorganisaties als bedoeld in [artikel 70 *a* van de Pachtwet](../../../../../../../../../wet/pachtwet/BWBR0002269/README.md), die de eigendom dan wel erfpacht van landbouwgronden verwerven, teneinde dat gebied als reservaat te beschouwen, worden aangewezen: 
+Als particuliere terreinbeherende natuurbeschermingsorganisaties als bedoeld in [artikel 70*a* van de Pachtwet](../../../../../../../../../wet/pachtwet/BWBR0002269/README.md), die de eigendom dan wel erfpacht van landbouwgronden verwerven, teneinde dat gebied als reservaat te beschouwen, worden aangewezen:  
 
 a. Vereniging tot Behoud van Natuurmonumenten in Nederland;  
 
@@ -25,11 +25,11 @@ e. Stichting Marke Vragenderveen;
 
 f. G. A. van der Lugtstichting;  
 
-g. Stichting Edwina van Heek.    
+g. Stichting Edwina van Heek.   
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van 1 januari 1993.  
+Dit besluit treedt in werking met ingang van 1 januari 1993. 
 
 Onze Minister van Landbouw, Natuurbeheer en Visserij is belast met de uitvoering van dit besluit, waarvan mededeling zal worden gedaan in het *Staatsblad*.   
 

@@ -18,11 +18,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder: 
+In dit besluit wordt verstaan onder:  
 
 a. wet: de [Huisvestingswet](../../../wet/huisvestingswet/BWBR0005674/README.md);  
 
-b. verordening: de huisvestingsverordening als bedoeld in [artikel 2 van de Huisvestingswet](../../../wet/huisvestingswet/BWBR0005674/README.md).    
+b. verordening: de huisvestingsverordening als bedoeld in [artikel 2 van de Huisvestingswet](../../../wet/huisvestingswet/BWBR0005674/README.md).   
 
 ### Hoofdstuk  2  
 
@@ -34,11 +34,11 @@ b. verordening: de huisvestingsverordening als bedoeld in [artikel 2 van de Huis
 
 ### Artikel  6  
 
-Een onderscheid naar economische of maatschappelijke binding wordt niet gemaakt ten aanzien van woningzoekenden: 
+Een onderscheid naar economische of maatschappelijke binding wordt niet gemaakt ten aanzien van woningzoekenden:  
 
-a. die een huisvestingsvergunning aanvragen met het oog op een voorgenomen woningruil, indien ten minste één der bij de ruil betrokken partijen behoort tot een categorie, genoemd in artikel 13 *c*, eerste lid van de wet of aan de ruil een aanvaarding van een werkkring ten grondslag ligt;  
+a. die een huisvestingsvergunning aanvragen met het oog op een voorgenomen woningruil, indien ten minste één der bij de ruil betrokken partijen behoort tot een categorie, genoemd in artikel 13*c*, eerste lid van de wet of aan de ruil een aanvaarding van een werkkring ten grondslag ligt;  
 
-b. die als personeel in dienst zijn van het Europees laboratorium voor ruimtetechnologie van de European Space Research Organisation en hun functie in Nederland uitoefenen.    
+b. die als personeel in dienst zijn van het Europees laboratorium voor ruimtetechnologie van de European Space Research Organisation en hun functie in Nederland uitoefenen.   
 
 ### §  2  
 
@@ -56,13 +56,13 @@ b. die als personeel in dienst zijn van het Europees laboratorium voor ruimtetec
 
 ### Artikel  9  
 
-Voor zover de verordening bepaalt dat bij het verlenen van huisvestingsvergunningen voorrang wordt gegeven aan woningzoekenden als bedoeld in artikel 11, eerste lid, of artikel 12, eerste lid, van de wet, voorziet de verordening erin dat de desbetreffende bepalingen buiten toepassing blijven, indien een huisvestingsvergunning wordt aangevraagd: 
+Voor zover de verordening bepaalt dat bij het verlenen van huisvestingsvergunningen voorrang wordt gegeven aan woningzoekenden als bedoeld in artikel 11, eerste lid, of artikel 12, eerste lid, van de wet, voorziet de verordening erin dat de desbetreffende bepalingen buiten toepassing blijven, indien een huisvestingsvergunning wordt aangevraagd:  
 
 a. door degene die ingevolge [artikel 266, eerste lid](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), of [267, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) medehuurder van de betrokken woonruimte was, indien deze de huurovereenkomst voortzet krachtens [artikel 266, derde lid](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [267, zesde lid](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), of [268, eerste lid, van Boek 7](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van dat wetboek;  
 
 b. met het oog op een voorgenomen ruil van woonruimte;  
 
-c. door personeel als bedoeld in artikel 6, onder *b*.    
+c. door personeel als bedoeld in artikel 6, onder *b*.   
 
 ### Hoofdstuk  3  
 
@@ -74,15 +74,15 @@ c. door personeel als bedoeld in artikel 6, onder *b*.
 
 ### Artikel  10  
 
-In dit hoofdstuk wordt verstaan onder: 
+In dit hoofdstuk wordt verstaan onder:  
 
 a. splitsing: de splitsing van een recht op een gebouw in appartementsrechten of de verlening van deelnemings- of lidmaatschapsrechten, als bedoeld in artikel 33 van de wet;  
 
-b. splitsingsvergunning: een vergunning als bedoeld in artikel 33 van de wet.    
+b. splitsingsvergunning: een vergunning als bedoeld in artikel 33 van de wet.   
 
 ### Artikel  11  
 
-Andere gronden tot weigering van een splitsingsvergunning of tot aanhouding van de beslissing op de aanvraag om een vergunning, dan die, genoemd in dit hoofdstuk, worden niet in de verordening opgenomen.  
+Andere gronden tot weigering van een splitsingsvergunning of tot aanhouding van de beslissing op de aanvraag om een vergunning, dan die, genoemd in dit hoofdstuk, worden niet in de verordening opgenomen. 
 
 ### §  2  
 
@@ -90,7 +90,7 @@ Andere gronden tot weigering van een splitsingsvergunning of tot aanhouding van 
 
 ### Artikel  12  
 
-1.  In de verordening kan worden bepaald dat een splitsingsvergunning kan worden geweigerd, indien: 
+1.  In de verordening kan worden bepaald dat een splitsingsvergunning kan worden geweigerd, indien:  
 
 a. het gebouw of het gedeelte van een gebouw waarop de vergunningaanvraag betrekking heeft, een of meer woonruimten bevat die verhuurd worden of die laatstelijk verhuurd zijn geweest,  
 
@@ -99,7 +99,7 @@ b. de huurprijs van een of meer van die woonruimten een door de gemeenteraad in 
 c. niet gewaarborgd is, dat die woonruimte of woonruimten na de voorgenomen splitsing bestemd blijven voor verhuur ter bewoning, en  
 
 d. het belang dat de vergunningaanvrager bij splitsing heeft, niet opweegt tegen het belang van het behoud van de woonruimtevoorraad binnen de gemeente als geheel dan wel een deel daarvan, voor zover die woonruimtevoorraad voor verhuur is bestemd.     
-2.  Indien toepassing wordt gegeven aan het bepaalde in het eerste lid, kan in de verordening tevens worden bepaald dat een splitsingsvergunning kan worden geweigerd, indien: 
+2.   Indien toepassing wordt gegeven aan het bepaalde in het eerste lid, kan in de verordening tevens worden bepaald dat een splitsingsvergunning kan worden geweigerd, indien:  
 
 a. het gebouw of het gedeelte van een gebouw waarop de vergunningaanvraag betrekking heeft, voor zover het geheel of gedeeltelijk verhuurd is geweest voor bewoning, in strijd met de voorschriften van een bestemmingsplan als bedoeld in [artikel 3.1](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) dan wel een inpassingsplan als bedoeld in [artikel 3.26](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of [3.28 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), of met enig wettelijk voorschrift geheel of gedeeltelijk voor een ander doel dan voor bewoning in gebruik is genomen,  
 
@@ -107,7 +107,7 @@ b. de huurprijs van een of meer der voormalige woonruimten lager is dan het krac
 
 c. niet gewaarborgd is, dat de voormalige woonruimte of woonruimten na de voorgenomen splitsing opnieuw bestemd zullen worden voor verhuur ter bewoning, en  
 
-d. het belang dat de vergunningaanvrager bij splitsing heeft, niet opweegt tegen het belang van het behoud van de woonruimtevoorraad binnen de gemeente als geheel dan wel een deel daarvan, voor zover die woonruimtevoorraad voor verhuur is bestemd.     
+d. het belang dat de vergunningaanvrager bij splitsing heeft, niet opweegt tegen het belang van het behoud van de woonruimtevoorraad binnen de gemeente als geheel dan wel een deel daarvan, voor zover die woonruimtevoorraad voor verhuur is bestemd.    
 
 ### §  3  
 
@@ -115,16 +115,16 @@ d. het belang dat de vergunningaanvrager bij splitsing heeft, niet opweegt tegen
 
 ### Artikel  13  
 
-1.  In de verordening kan worden bepaald dat een splitsingsvergunning kan worden geweigerd, indien: 
+1. In de verordening kan worden bepaald dat een splitsingsvergunning kan worden geweigerd, indien:
 
-a. voor het gebied waarin het gebouw is gelegen waarop de vergunningaanvraag betrekking heeft, een bestemmingsplan als bedoeld in [artikel 3.5 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) van kracht is, dan wel een ontwerp voor zodanig plan of voor een herziening daarvan in procedure is,  
+a.voor het gebied waarin het gebouw is gelegen waarop de vergunningaanvraag betrekking heeft, een bestemmingsplan als bedoeld in [artikel 3.5 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) van kracht is, dan wel een ontwerp voor zodanig plan of voor een herziening daarvan in procedure is,
 
-b. het ontwerp voor dat plan, dan wel voor de herziening daarvan ter inzage is gelegd voordat de aanvraag om vergunning is ingediend, dan wel, indien de aanvraag krachtens het tweede lid is aangehouden, voordat die aanhouding is geëindigd,  
+b.het ontwerp voor dat plan, dan wel voor de herziening daarvan ter inzage is gelegd voordat de aanvraag om vergunning is ingediend, dan wel, indien de aanvraag krachtens het tweede lid is aangehouden, voordat die aanhouding is geëindigd,
 
-c. de voorgenomen splitsing nadelige gevolgen kan hebben voor de met het plan nagestreefde of na te streven doeleinden, en  
+c.de voorgenomen splitsing nadelige gevolgen kan hebben voor de met het plan nagestreefde of na te streven doeleinden, en
 
-d. het belang dat de vergunningsaanvrager bij splitsing heeft, niet opweegt tegen het belang van het voorkomen van belemmering van de modernisering of vervanging.     
-2.  Indien toepassing wordt gegeven aan het bepaalde in het eerste lid, kan in de verordening tevens worden bepaald dat de beslissing op de aanvraag om een splitsingsvergunning wordt aangehouden, indien: 
+d.het belang dat de vergunningsaanvrager bij splitsing heeft, niet opweegt tegen het belang van het voorkomen van belemmering van de modernisering of vervanging.  
+2.   Indien toepassing wordt gegeven aan het bepaalde in het eerste lid, kan in de verordening tevens worden bepaald dat de beslissing op de aanvraag om een splitsingsvergunning wordt aangehouden, indien:  
 
 a. voor het gebied waarin het gebouw is gelegen waarop de vergunningaanvraag betrekking heeft, een voorbereidingsbesluit als bedoeld in [artikel 3.7 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) van kracht is met het oog op de voorbereiding van een stadsvernieuwingsplan of van een herziening daarvan,  
 
@@ -133,7 +133,7 @@ b. dat besluit is genomen voordat de aanvraag om vergunning werd ingediend,
 c. redelijkerwijs verwacht mag worden dat de in het stadsvernieuwingsplan op te nemen maatregelen nadelig kunnen worden beïnvloed door de voorgenomen splitsing, en  
 
 d. redelijkerwijs verwacht mag worden dat het belang dat de vergunningaanvrager bij splitsing heeft, niet opweegt tegen het belang van het voorkomen van belemmering van de stadsvernieuwing.     
-3.  Indien toepassing wordt gegeven aan het bepaalde in het tweede lid, wordt daarbij tevens bepaald dat de aanhouding niet langer duurt dan tot het tijdstip waarop het voorbereidingsbesluit ingevolge [artikel 3.7 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) is vervallen.   
+3.   Indien toepassing wordt gegeven aan het bepaalde in het tweede lid, wordt daarbij tevens bepaald dat de aanhouding niet langer duurt dan tot het tijdstip waarop het voorbereidingsbesluit ingevolge [artikel 3.7 van de Wet ruimtelijke ordening](../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) is vervallen.  
 
 ### §  4  
 
@@ -141,13 +141,13 @@ d. redelijkerwijs verwacht mag worden dat het belang dat de vergunningaanvrager 
 
 ### Artikel  14  
 
-1.  In de verordening kan worden bepaald dat een splitsingsvergunning kan worden geweigerd, indien: 
+1.  In de verordening kan worden bepaald dat een splitsingsvergunning kan worden geweigerd, indien:  
 
 a. de toestand van het gebouw waarop de vergunningaanvraag betrekking heeft, zich uit een oogpunt van indeling of staat van onderhoud geheel of ten dele tegen splitsing verzet, en  
 
 b. de desbetreffende gebreken niet door het treffen van voorzieningen of het aanbrengen van verbeteringen kunnen worden opgeheven, dan wel onvoldoende verzekerd is dat die gebreken zullen worden opgeheven.     
-2.  Indien toepassing wordt gegeven aan het bepaalde in het eerste lid, kan in de verordening tevens worden bepaald dat de beslissing op de aanvraag om een splitsingsvergunning wordt aangehouden, indien redelijkerwijs verwacht mag worden dat de aanvrager van de vergunning de gebreken, als bedoeld in het eerste lid, met het oog op de voorgenomen splitsing zal opheffen binnen een daarvoor redelijke termijn.   
-3.  Indien toepassing wordt gegeven aan het tweede lid, wordt daarbij tevens bepaald dat de vergunning wordt verleend, indien de in het besluit tot aanhouding aangegeven gebreken zijn opgeheven binnen de daartoe in dat besluit aangegeven termijn.   
+2.   Indien toepassing wordt gegeven aan het bepaalde in het eerste lid, kan in de verordening tevens worden bepaald dat de beslissing op de aanvraag om een splitsingsvergunning wordt aangehouden, indien redelijkerwijs verwacht mag worden dat de aanvrager van de vergunning de gebreken, als bedoeld in het eerste lid, met het oog op de voorgenomen splitsing zal opheffen binnen een daarvoor redelijke termijn.   
+3.   Indien toepassing wordt gegeven aan het tweede lid, wordt daarbij tevens bepaald dat de vergunning wordt verleend, indien de in het besluit tot aanhouding aangegeven gebreken zijn opgeheven binnen de daartoe in dat besluit aangegeven termijn.  
 
 ### Hoofdstuk  4  
 
@@ -156,14 +156,14 @@ b. de desbetreffende gebreken niet door het treffen van voorzieningen of het aan
 ### Artikel  15  
 
 1.  Onze Minister kan afwijking van de regels van hoofdstuk 2 toestaan ten behoeve van experimenten die naar zijn oordeel in het belang van een evenwichtige en rechtvaardige verdeling van de woonruimte zijn.   
-2.  Voorts kan Onze Minister afwijking van de regels van hoofdstuk 3 toestaan ten behoeve van experimenten die naar zijn oordeel in het belang van het behoud of de samenstelling van de woonruimtevoorraad of in het belang van het voorkomen van belemmeringen van de stadsvernieuwing zijn.   
-3.  Het eerste en tweede lid vinden slechts toepassing, nadat een door Onze Minister aangewezen instantie hem over het betrokken experiment heeft geadviseerd.   
-4.  Onze Minister kan besluiten dat een afwijking als bedoeld in het eerste of tweede lid van kracht blijft zolang een door hem op basis van het experiment noodzakelijk geoordeelde wijziging van het besluit nog niet van kracht is geworden en in werking is getreden.   
+2.   Voorts kan Onze Minister afwijking van de regels van hoofdstuk 3 toestaan ten behoeve van experimenten die naar zijn oordeel in het belang van het behoud of de samenstelling van de woonruimtevoorraad of in het belang van het voorkomen van belemmeringen van de stadsvernieuwing zijn.   
+3.   Het eerste en tweede lid vinden slechts toepassing, nadat een door Onze Minister aangewezen instantie hem over het betrokken experiment heeft geadviseerd.   
+4.   Onze Minister kan besluiten dat een afwijking als bedoeld in het eerste of tweede lid van kracht blijft zolang een door hem op basis van het experiment noodzakelijk geoordeelde wijziging van het besluit nog niet van kracht is geworden en in werking is getreden.  
 
 ### Artikel  18  
 
 1.  De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.   
-2.  Dit besluit kan worden aangehaald als: Huisvestingsbesluit.   
+2.   Dit besluit kan worden aangehaald als: Huisvestingsbesluit.  
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

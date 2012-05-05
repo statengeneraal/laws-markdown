@@ -11,19 +11,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Artikel I onder A is niet van toepassing voor zover veroordeelden zich voor de inwerkingtreding van deze wet aan de tenuitvoerlegging van hun straf hebben onttrokken of hiertoe een poging hebben gedaan.  
+Artikel I onder A is niet van toepassing voor zover veroordeelden zich voor de inwerkingtreding van deze wet aan de tenuitvoerlegging van hun straf hebben onttrokken of hiertoe een poging hebben gedaan. 
 
 ### Artikel  III  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
 
-Deze wet treedt in werking met ingang van de eerste dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de eerste dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

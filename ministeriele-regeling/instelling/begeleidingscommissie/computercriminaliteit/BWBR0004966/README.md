@@ -15,7 +15,7 @@ dat een landelijke gecoördineerde begeleiding van dit project wenselijk is.    
 
 ### Artikel  1  
 
-Ingesteld wordt de begeleidingscommissie computercriminaliteit hierna te noemen de begeleidingscommissie.  
+Ingesteld wordt de begeleidingscommissie computercriminaliteit hierna te noemen de begeleidingscommissie. 
 
 ### Artikel  2  
 
@@ -27,7 +27,7 @@ b. zorg te dragen voor de evaluatie van het project;
 
 c. advies te geven op dit beleidsterrein en/of advisering met betrekking tot de bestrijding van de criminaliteit, waarbij sprake is van misbruik van informatietechnologie;  
 
-d. ter zake deskundigen te raadplegen bij voorkomende problemen.    
+d. ter zake deskundigen te raadplegen bij voorkomende problemen.   
 
 ### Artikel  3  
 
@@ -49,11 +49,11 @@ Mr. C. D. Schaap, plaatsvervangend hoofd fraudecentrale CRI;
 
 Mr. A. Teerds, beleidsmedewerker bij de directie politie van het Ministerie van Justitie (tevens secretaris);     
 2.  Indien de begeleidingscommissie dat wenselijk oordeelt kunnen deskundigen voor vergaderingen van de begeleidingscommisie worden uitgenodigd.   
-3.  De begeleidingscommissie kan ten behoeve van de haar gestelde taken overgaan tot het instellen van één of meer werkgroepen, met door de begeleidingscommissie nader aan te geven taakopdracht en samenstelling.   
+3.  De begeleidingscommissie kan ten behoeve van de haar gestelde taken overgaan tot het instellen van één of meer werkgroepen, met door de begeleidingscommissie nader aan te geven taakopdracht en samenstelling.  
 
 ### Artikel  4  
 
-Deze beschikking, die zal worden gepubliceerd in de Nederlandse Staatscourant en in het Algemeen Politieblad, treedt in werking met ingang van de eerste dag na uitgifte van de Nederlandse Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 5 oktober 1990.  
+Deze beschikking, die zal worden gepubliceerd in de Nederlandse Staatscourant en in het Algemeen Politieblad, treedt in werking met ingang van de eerste dag na uitgifte van de Nederlandse Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 5 oktober 1990. 
 
 's-Gravenhage 
 3 januari 1991    
@@ -68,7 +68,7 @@ Minister,
 
 Het 
 hoofd van de Directie Politie, 
-J. J. H.Suyer 
+J. J. H.Suyer  
 
 De 
 Minister voornoemd, 
@@ -77,4 +77,4 @@ voor deze,
 
 De 
 Directeur Politie, 
-H. C. J. L.Borghouts    
+H. C. J. L. Borghouts     

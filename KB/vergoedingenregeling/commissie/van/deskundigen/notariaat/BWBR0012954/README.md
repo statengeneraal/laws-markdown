@@ -11,39 +11,39 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder de Commissie: de commissie van deskundigen als bedoeld in [artikel 7, tweede lid van de Wet op het Notarisambt 1999](../../../../../../../wet/notariswet/BWBR0010388/README.md).  
+In dit besluit wordt verstaan onder de Commissie: de commissie van deskundigen als bedoeld in [artikel 7, tweede lid van de Wet op het Notarisambt 1999](../../../../../../../wet/notariswet/BWBR0010388/README.md). 
 
 ### Artikel  2  
 
-De voorzitter en de leden van de Commissie ontvangen een vaste jaarlijkse vergoeding.  
+De voorzitter en de leden van de Commissie ontvangen een vaste jaarlijkse vergoeding. 
 
 ### Artikel  3  
 
-De vergoeding van de voorzitter wordt vastgesteld op € 6663.  
+De vergoeding van de voorzitter wordt vastgesteld op € 6663. 
 
 ### Artikel  4  
 
-De vergoeding van de leden wordt vastgesteld op € 5330.  
+De vergoeding van de leden wordt vastgesteld op € 5330. 
 
 ### Artikel  5  
 
-De vergoeding van de plaatsvervangend leden wordt naar rato van deelname vastgesteld op een evenredig deel van de vergoeding van de leden.  
+De vergoeding van de plaatsvervangend leden wordt naar rato van deelname vastgesteld op een evenredig deel van de vergoeding van de leden. 
 
 ### Artikel  7  
 
-Indien de voorzitter of een lid van de Commissie niet gedurende het hele jaar de functie van voorzitter of lid bekleedt, wordt de vergoeding, genoemd in de artikelen 3 en 4 naar evenredigheid vastgesteld.  
+Indien de voorzitter of een lid van de Commissie niet gedurende het hele jaar de functie van voorzitter of lid bekleedt, wordt de vergoeding, genoemd in de artikelen 3 en 4 naar evenredigheid vastgesteld. 
 
 ### Artikel  8  
 
-De voorzitter en de leden hebben overeenkomstig het [Reisbesluit binnenland](../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) en het [Reisbesluit buitenland](../../../../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md) recht op vergoeding wegens reis- en verblijfkosten.  
+De voorzitter en de leden hebben overeenkomstig het [Reisbesluit binnenland](../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) en het [Reisbesluit buitenland](../../../../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md) recht op vergoeding wegens reis- en verblijfkosten. 
 
 ### Artikel  9  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot 1 januari 2001.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot 1 januari 2001. 
 
 ### Artikel  10  
 
-Deze regeling wordt aangehaald als: Vergoedingenregeling Commissie van deskundigen notariaat.  
+Deze regeling wordt aangehaald als: Vergoedingenregeling Commissie van deskundigen notariaat. 
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit dat in het Staatsblad zal worden geplaatst.   
 

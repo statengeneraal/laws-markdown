@@ -17,4 +17,4 @@ II. te bepalen dat deze beschikking zal worden geplaatst in de Nederlandse Staat
 
 De 
 Staatssecretaris voornoemd, 
-N.Smit-Kroes    
+N. Smit-Kroes     

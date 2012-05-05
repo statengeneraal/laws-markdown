@@ -4,7 +4,7 @@
 
 De Minister van Verkeer en Waterstaat,  
 Gelet op [artikel 9, eerste lid, van de Tunnelwet Westerschelde](../../../../../../../../wet/tunnelwet/westerschelde/BWBR0009930/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -12,9 +12,9 @@ Het referentietarief, bedoeld in [artikel 5, tweede lid, van de Tunnelwet Wester
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van 14 maart 2003.  
+Deze regeling treedt in werking met ingang van 14 maart 2003. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
-Minister van Verkeer en Waterstaat, 
-Roelf H. deBoer    
+Minister van Verkeer en Waterstaat,
+Roelf H. deBoer     

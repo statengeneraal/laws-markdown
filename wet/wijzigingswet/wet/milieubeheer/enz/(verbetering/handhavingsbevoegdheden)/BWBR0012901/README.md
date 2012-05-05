@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet milieubeheer.   
+Wijzigt de Wet milieubeheer.  
 
 ### Artikel  II  
 
-Wijzigt de Wet milieugevaarlijke stoffen.   
+Wijzigt de Wet milieugevaarlijke stoffen.  
 
 ### Artikel  III  
 
-Wijzigt de Wet bodembescherming.   
+Wijzigt de Wet bodembescherming.  
 
 ### Artikel  IV  
 
@@ -27,15 +27,15 @@ Wijzigt de Wet bodembescherming.
 
 ### Artikel  V  
 
-Wijzigt deze Wet.   
+Wijzigt deze Wet.  
 
 ### Artikel  VI  
 
-Wijzigt de Wijzigingswet Wet milieubeheer, enz. (structuur beheer afvalstoffen) en de Wet milieubeheer.   
+Wijzigt de Wijzigingswet Wet milieubeheer, enz. (structuur beheer afvalstoffen) en de Wet milieubeheer.  
 
 ### Artikel  VII  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Instelling Adviesraad Maatschappelijke kosten-batenanalyses (MKBA) bij het project Ontwikkelingsschets 2010 Schelde-estuarium
+##Instelling Adviesraad Maatschappelijke kosten-batenanalyses (MKBA) bij het project Ontwikkelingsschets 2010 Schelde-estuarium 
 
 De Minister van Mobiliteit, Openbare Werken en Energie, Vlaanderen, en de Staatssecretaris van Verkeer en Waterstaat, Nederland,  
 Overwegende,
@@ -19,7 +19,7 @@ Overwegende,
 
 * Dat de beleidslijn in Nederland is dat indien het CPB bij de opstelling van een maatschappelijke kosten-batenanalyse een uitvoerende rol heeft, en derhalve niet tegelijkertijd een toetsende rol kan vervullen, de toetsing door een ander orgaan dient te worden uitgevoerd;  
 
-* Dat de instelling van een onafhankelijk toetsend orgaan voor de maatschappelijke kosten-batenanalyses de kwaliteit en het draagvlak borgen.     Besluiten:    
+* Dat de instelling van een onafhankelijk toetsend orgaan voor de maatschappelijke kosten-batenanalyses de kwaliteit en het draagvlak borgen.      Besluiten:     
 
 ### Artikel  1  
 
@@ -31,24 +31,24 @@ Overwegende,
 1.  De Adviesraad MKBA bij ProSes heeft tot taak het begeleiden en beoordelen van en adviseren over de volledigheid en kwaliteit van de werkzaamheden die door en in opdracht van ProSes worden uitgevoerd inzake de maatschappelijke kosten-baten analyse voor de Ontwikkelingsschets 2010 Schelde-estuarium.   
 2.  De Adviesraad bij ProSes toetst en beoordeelt in ieder geval de professionaliteit en wetenschappelijke verantwoording van: 
 
-a. de aanpak en het onderzoek op inhoud;  
+a.  de aanpak en het onderzoek op inhoud;  
 
-b. de wijze waarop de kosten-batenanalyses tot stand komen, waaronder de gehanteerde veronderstellingen;  
+b.  de wijze waarop de kosten-batenanalyses tot stand komen, waaronder de gehanteerde veronderstellingen;  
 
-c. de mate van transparantie van de analyses en de rapportages;  
+c.  de mate van transparantie van de analyses en de rapportages;  
 
-d. de opgeleverde concept- en eindrapportages.     
+d.  de opgeleverde concept- en eindrapportages.     
 3.  De Adviesraad MKBA bij ProSes rapporteert haar bevindingen aan de minister van Mobiliteit, Openbare werken en Energie, Vlaanderen en aan de staatssecretaris van Verkeer en Waterstaat, Nederland.   
 
 ### Artikel  3  
 
 In de Adviesraad worden benoemd: 
 
-a. tot voorzitter: de heer Dirk Sterckx, Europees parlementslid;  
+a.  tot voorzitter: de heer Dirk Sterckx, Europees parlementslid;  
 
-b. tot lid: Prof. Dr. Jan Jaap Bouma, Erasmus Universiteit en Universiteit Gent; Prof. Dr. Loet Mennes, em. Erasmus Universiteit; Prof. Dr. Stef Proost, Katholieke Universiteit Leuven; Prof. Dr. Willy Winkelmans, UA;  
+b.  tot lid: Prof. Dr. Jan Jaap Bouma, Erasmus Universiteit en Universiteit Gent; Prof. Dr. Loet Mennes, em. Erasmus Universiteit; Prof. Dr. Stef Proost, Katholieke Universiteit Leuven; Prof. Dr. Willy Winkelmans, UA;  
 
-c. het secretariaat van deze Adviesraad zal na overleg worden ingevuld.    
+c.  het secretariaat van deze Adviesraad zal na overleg worden ingevuld.    
 
 ### Artikel  4  
 
@@ -63,14 +63,14 @@ De Adviesraad regelt haar werkzaamheden naar eigen inzicht.
 
 1.  Het beheer van de bescheiden betreffende de werkzaamheden van de Adviesraad geschiedt met inachtneming van de bepalingen van het Besluit algemene secretarieaangelegenheden rijksadministratie op overeenkomstige wijze als bij het departement van Vereer en Waterstaat;   
 2.  De bescheiden worden bij opheffing van de Adviesraad in het centraal archief van dit departement opgenomen;   
-3.  Een kopie van deze bescheiden wordt ter beschikking gesteld van het Ministerie van de Vlaamse Gemeenschap.   
-De beschikking zal bekend worden gemaakt in het Belgisch Staatsblad en in de Staatscourant, Nederland en in afschrift worden gezonden aan belanghebbenden.   
+3.  Een kopie van deze bescheiden wordt ter beschikking gesteld van het Ministerie van de Vlaamse Gemeenschap.  
+De beschikking zal bekend worden gemaakt in het Belgisch Staatsblad en in de Staatscourant, Nederland en in afschrift worden gezonden aan belanghebbenden.  
 
 De 
 Minister van Mobiliteit, Openbare Werken en Energie, Vlaanderen, 
-S.Stevaert 
+S.  Stevaert  
 
 De 
-Staatssecretaris van Verkeer en Waterstaat, Nederland, 
+Staatssecretaris van Verkeer en Waterstaat , Nederland,  
 
-M.H. Schultz van Haegen      
+M.H.  Schultz van Haegen    

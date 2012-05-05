@@ -13,25 +13,25 @@ Het formulier, bedoeld in [artikel 3, onder a, van het Meldingsbesluit Wbp](../.
 ### Artikel  2  
 
 1.  De informatiedrager, bedoeld in [artikel 3, onder b, van het Meldingsbesluit Wbp](../../../../AMvB/meldingsbesluit/wbp/BWBR0012460/README.md), bestaat uit een diskette vergezeld van een authenticatieformulier dat door of namens de verantwoordelijke is ingevuld en ondertekend.   
-2.  Een op de diskette te plaatsen bericht met één of meer meldingen en het begeleidende authenticatieformulier worden aangemaakt conform de instructies van het [WBP](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) -Meldingsprogramma (versie 2.0, juli 2002, of versie 1.0, augustus 2001), dat door het College bescherming persoonsgegevens voor dit doel via de website of op diskette ter beschikking wordt gesteld.   
+2.  Een op de diskette te plaatsen bericht met één of meer meldingen en het begeleidende authenticatieformulier worden aangemaakt conform de instructies van het [WBP](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md)-Meldingsprogramma (versie 2.0, juli 2002, of versie 1.0, augustus 2001), dat door het College bescherming persoonsgegevens voor dit doel via de website of op diskette ter beschikking wordt gesteld.   
 
 ### Artikel  3  
 
 1.  De elektronische wijze van melden, bedoeld in [artikel 3, onder c, van het Meldingsbesluit Wbp](../../../../AMvB/meldingsbesluit/wbp/BWBR0012460/README.md), bestaat uit een e-mail bericht en een per post te verzenden authenticatieformulier dat door of namens de verantwoordelijke is ingevuld en ondertekend.   
-2.  Een via e-mail te verzenden bericht met één of meer meldingen en het bijbehorende authenticatieformulier worden aangemaakt conform de instructies van het [WBP](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) -Meldingsprogramma (versie 2.0, juli 2002), dat door het College bescherming persoonsgegevens voor dit doel via de website of op diskette ter beschikking wordt gesteld.   
+2.  Een via e-mail te verzenden bericht met één of meer meldingen en het bijbehorende authenticatieformulier worden aangemaakt conform de instructies van het [WBP](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md)-Meldingsprogramma (versie 2.0, juli 2002), dat door het College bescherming persoonsgegevens voor dit doel via de website of op diskette ter beschikking wordt gesteld.   
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang van 1 augustus 2002 onder gelijktijdige intrekking van de Meldingsregeling Wbp van 27 augustus 2001.  
-Deze regeling zal met bijlage in de Staatscourant worden geplaatst.   
+Deze regeling treedt in werking met ingang van 1 augustus 2002 onder gelijktijdige intrekking van de Meldingsregeling Wbp van 27 augustus 2001. 
+Deze regeling zal met bijlage in de Staatscourant worden geplaatst.  
 
-'s-Gravenhage 
-juli 2002    
+'s-Gravenhage
+juli 2002 
 
 De 
 Minister van Justitie, 
 
-A.H. Korthals     
+A.H. Korthals    
 
 ### Bijlage  
 

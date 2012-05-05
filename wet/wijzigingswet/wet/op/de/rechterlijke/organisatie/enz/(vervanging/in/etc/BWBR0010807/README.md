@@ -11,33 +11,33 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet op de rechterlijke organisatie.   
+Wijzigt de Wet op de rechterlijke organisatie.  
 
 ### Artikel  II  
 
-Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.   
+Wijzigt de Wet administratiefrechtelijke handhaving verkeersvoorschriften.  
 
 ### Artikel  III  
 
 1.  Voor de mogelijkheid om beroep in cassatie in te stellen tegen een uitspraak van de kantonrechter die voor of op de dag van inwerkingtreding van deze wet is gedaan, blijft het recht zoals dat gold voor dat tijdstip van toepassing.   
-2.  Voor de behandeling van het beroep in cassatie dat voor de datum van inwerkingtreding van deze wet is ingesteld, dan wel met toepassing van het eerste lid na de dag van inwerkingtreding is ingesteld, blijft het recht zoals dat gold voor het tijdstip van toepassing.   
+2.  Voor de behandeling van het beroep in cassatie dat voor de datum van inwerkingtreding van deze wet is ingesteld, dan wel met toepassing van het eerste lid na de dag van inwerkingtreding is ingesteld, blijft het recht zoals dat gold voor het tijdstip van toepassing.  
 
 ### Artikel  IV  
 
-Wijzigt deze wet en de Wet administratiefrechtelijke handhaving verkeersvoorschriften.   
+Wijzigt deze wet en de Wet administratiefrechtelijke handhaving verkeersvoorschriften.  
 
 ### Artikel  V  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende onderdelen verschillend kan zijn.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende onderdelen verschillend kan zijn. 
 
 Lasten en bevelen dat deze wet in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 28 oktober 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Justitie, 
-A. H. Korthals   
+A. H. Korthals    
 
 De Minister van Verkeer en Waterstaat, 
 T. Netelenbos   

@@ -11,55 +11,55 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt het Wetboek van Strafvordering.   
+Wijzigt het Wetboek van Strafvordering.  
 
 ### Artikel  II  
 
-Wijzigt de Absintwet 1909.   
+Wijzigt de Absintwet 1909.  
 
 ### Artikel  III  
 
-Wijzigt de Wet op sera- en vaccins.   
+Wijzigt de Wet op sera- en vaccins.  
 
 ### Artikel  IV  
 
-Wijzigt de Wet bestrijding infectieziekten en opsporing van ziekteoorzaken.   
+Wijzigt de Wet bestrijding infectieziekten en opsporing van ziekteoorzaken.  
 
 ### Artikel  V  
 
-Wijzigt de Wet buitengewone bevoegdheden burgerlijk gezag (Stb. 1952, 361).   
+Wijzigt de Wet buitengewone bevoegdheden burgerlijk gezag (Stb. 1952, 361).  
 
 ### Artikel  VI  
 
-Wijzigt de Oorlogswet voor Nederland (Stb. 1964, 337).   
+Wijzigt de Oorlogswet voor Nederland (Stb. 1964, 337).  
 
 ### Artikel  VII  
 
-Wijzigt de Opiumwet.   
+Wijzigt de Opiumwet.  
 
 ### Artikel  VIII  
 
-Wijzigt de Wet wapens en munitie.   
+Wijzigt de Wet wapens en munitie.  
 
 ### Artikel  IX  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.  
 
 ### Artikel  X  
 
-In strafzaken waarin ten tijde van de inwerkingtreding van deze wet reeds een gerechtelijk vooronderzoek is ingesteld of dit gerechtelijk vooronderzoek nog niet onherroepelijk is gesloten, blijven de op dat tijdstip vervallen bepalingen van toepassing op de wijze waarop het gerechtelijk vooronderzoek wordt verricht en gesloten.  
+In strafzaken waarin ten tijde van de inwerkingtreding van deze wet reeds een gerechtelijk vooronderzoek is ingesteld of dit gerechtelijk vooronderzoek nog niet onherroepelijk is gesloten, blijven de op dat tijdstip vervallen bepalingen van toepassing op de wijze waarop het gerechtelijk vooronderzoek wordt verricht en gesloten. 
 
 ### Artikel  XI  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.  
 
 ### Artikel  XII  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.  
 
 ### Artikel  XIII  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.  
 
 ### Artikel  XIV  
 
@@ -69,7 +69,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Gegeven te 's-Gravenhage 
 27 mei 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Justitie, 
 A. H. Korthals   
@@ -77,4 +77,4 @@ A. H. Korthals
 de *tweeëntwintigste* juni 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

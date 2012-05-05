@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Het is verboden het gemeenschappelijk logo, bedoeld in artikel 3, onder a, van verordening (EG) nr. 2422/2001 van het Europees Parlement en de Raad van de Europese Unie betreffende een communautair energie-efficiëntie-etiketteringsprogramma voor kantoorapparatuur (PbEG L 332) te gebruiken anders dan in overeenstemming met deze verordening.  
+Het is verboden het gemeenschappelijk logo, bedoeld in artikel 3, onder a, van verordening (EG) nr. 2422/2001 van het Europees Parlement en de Raad van de Europese Unie betreffende een communautair energie-efficiëntie-etiketteringsprogramma voor kantoorapparatuur (PbEG L 332) te gebruiken anders dan in overeenstemming met deze verordening. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Besluit Energy Star-etiketteringsprogramma.  
+Dit besluit wordt aangehaald als: Besluit Energy Star-etiketteringsprogramma. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

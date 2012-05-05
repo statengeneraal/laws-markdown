@@ -6,13 +6,13 @@ De Minister van Verkeer en Waterstaat,
 Gelet op [artikel 72 van de Luchtvaartwet](../../../../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) (Stb. 1958, 47),
 Besluit:    
 
-### Artikel  1  
+###Artikel  1  
 
-Als ambtenaren, bedoeld in bovengenoemd artikel, worden aangewezen de directeur-generaal en de plaatsvervangend directeur-generaal van de Rijksluchtvaartdienst.  
+Als ambtenaren, bedoeld in bovengenoemd artikel, worden aangewezen de directeur-generaal en de plaatsvervangend directeur-generaal van de Rijksluchtvaartdienst. 
 
-### Artikel  2  
+###Artikel  2  
 
-Zijn beschikking van 17 september 1959, nr. PZ/P 6463, Rijksluchtvaartdienst, wordt ingetrokken.  
+Zijn beschikking van 17 september 1959, nr. PZ/P 6463, Rijksluchtvaartdienst, wordt ingetrokken. 
 
 's-Gravenhage 
 1 december 1960    
@@ -20,9 +20,9 @@ Zijn beschikking van 17 september 1959, nr. PZ/P 6463, Rijksluchtvaartdienst, wo
 De 
 minister voornoemd, 
 
-Voor de minister: 
+Voor de minister:
 
 De 
 secretaris-generaal, 
-L.Verloop, 
+L.  Verloop , 
 l.-s.-g    

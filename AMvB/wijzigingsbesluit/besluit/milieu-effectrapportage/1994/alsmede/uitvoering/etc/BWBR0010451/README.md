@@ -17,43 +17,43 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit milieu-effectrapportage 1994.   
+Wijzigt het Besluit milieu-effectrapportage 1994.  
 
 ### Artikel  II  
 
-Indien voor 14 maart 1999, met betrekking tot een activiteit als bedoeld in artikel [7.2](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of [7.4 van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), 
+Indien voor 14 maart 1999, met betrekking tot een activiteit als bedoeld in artikel[ 7.2](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of [7.4 van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), 
 
 a. een aanvraag als bedoeld in [artikel 7.28 van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is ingediend of door het bevoegd gezag ingevolge [artikel 7.8d, vierde lid, van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van een beslissing mededeling is gedaan, of  
 
-b. mededeling is gedaan van een ontwerp onderscheidenlijk een voorontwerp van een besluit bij de voorbereiding waarvan een milieu-effectrapport moet worden gemaakt en dit ontwerp onderscheidenlijk dit voorontwerp ter inzage is gelegd,   blijft het voor dat tijdstip geldende recht van toepassing.  
+b. mededeling is gedaan van een ontwerp onderscheidenlijk een voorontwerp van een besluit bij de voorbereiding waarvan een milieu-effectrapport moet worden gemaakt en dit ontwerp onderscheidenlijk dit voorontwerp ter inzage is gelegd,   blijft het voor dat tijdstip geldende recht van toepassing. 
 
 ### Artikel  IV  
 
-Wijzigt het Besluit milieu-effectrapportage 1994.   
+Wijzigt het Besluit milieu-effectrapportage 1994.  
 
 ### Artikel  V  
 
-Wijzigt het Besluit milieu-effectrapportage 1994.   
+Wijzigt het Besluit milieu-effectrapportage 1994.  
 
 ### Artikel  VI  
 
-Wijzigt het Besluit milieu-effectrapportage 1994.   
+Wijzigt het Besluit milieu-effectrapportage 1994.  
 
 ### Artikel  VII  
 
-Dit besluit treedt in werking vier weken na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking vier weken na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 7 mei 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J. P. Pronk   
+J. P. Pronk    
 
 De Minister van Verkeer en Waterstaat, 
-T. Netelenbos   
+T. Netelenbos    
 
 De Staatssecretaris van Landbouw, Natuurbeheer en Visserij, 
 G. H. Faber   
@@ -61,22 +61,22 @@ G. H. Faber
 de *achtste* juni 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     
 
 ### Bijlage  1  
 
-####behorende bij artikel i, onderdeel g, van het Wijzigingsbesluit Besluit milieu-effectrapportage 1994 alsmede uitvoering van artikel 2, derde lid, van de Tracéwet
+#### behorende bij artikel i, onderdeel g, van het Wijzigingsbesluit Besluit milieu-effectrapportage 1994 alsmede uitvoering van artikel 2, derde lid, van de Tracéwet 
 
 Wijzigt het Besluit milieu-effectrapportage 1994.  
 
 ### Bijlage  2  
 
-####behorende bij artikel i, onderdeel g, van het Wijzigingsbesluit Besluit milieu-effectrapportage 1994 alsmede uitvoering van artikel 2, derde lid, van de Tracéwet
+#### behorende bij artikel i, onderdeel g, van het Wijzigingsbesluit Besluit milieu-effectrapportage 1994 alsmede uitvoering van artikel 2, derde lid, van de Tracéwet
 
 Wijzigt het Besluit milieu-effectrapportage 1994.  
 
 ### Bijlage  3  
 
-####behorende bij artikel i, onderdeel g, van het Wijzigingsbesluit Besluit milieu-effectrapportage 1994 alsmede uitvoering van artikel 2, derde lid, van de Tracéwet
+#### behorende bij artikel i, onderdeel g, van het Wijzigingsbesluit Besluit milieu-effectrapportage 1994 alsmede uitvoering van artikel 2, derde lid, van de Tracéwet
 
 Wijzigt het Besluit milieu-effectrapportage 1994.  

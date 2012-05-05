@@ -8,19 +8,19 @@ Besluiten:
 
 ### Artikel  1  
 
-Onderzoek, dat betrekking heeft op de toxiciteit en ecotoxiciteit en dat ingevolge [hoofdstuk 2 van de Wet milieugevaarlijke stoffen](../../../../../../../wet/wet/milieugevaarlijke/stoffen/BWBR0003892/README.md) wordt uitgevoerd, dient met ingang van 1 januari 1989 te worden verricht met toepassing van de testmethoden zoals deze op 18 november 1987 door de Commissie van de Europese Gemeenschappen zijn aanvaard en vastgesteld (PbEG 1988 L 133).  
+Onderzoek, dat betrekking heeft op de toxiciteit en ecotoxiciteit en dat ingevolge [hoofdstuk 2 van de Wet milieugevaarlijke stoffen](../../../../../../../wet/wet/milieugevaarlijke/stoffen/BWBR0003892/README.md) wordt uitgevoerd, dient met ingang van 1 januari 1989 te worden verricht met toepassing van de testmethoden zoals deze op 18 november 1987 door de Commissie van de Europese Gemeenschappen zijn aanvaard en vastgesteld (PbEG 1988 L 133). 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van 1 januari 1989 en wordt met de bijbehorende toelichting bekendgemaakt in de Nederlandse Staatscourant.  
+Dit besluit treedt in werking met ingang van 1 januari 1989 en wordt met de bijbehorende toelichting bekendgemaakt in de Nederlandse Staatscourant. 
 
 's-Gravenhage 
 21 oktober 1988    
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-E. H. T. M.Nijpels, 
+E. H. T. M.Nijpels ,  
 
 De 
 Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
-L. deGraaf    
+L. de Graaf      

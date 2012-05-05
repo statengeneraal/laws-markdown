@@ -11,11 +11,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  l  
 
-Wijzigt het Wetboek van Strafrecht.   
+Wijzigt het Wetboek van Strafrecht.  
 
 ### Artikel  ll  
 
-Wijzigt het Wetboek van Strafvordering.   
+Wijzigt het Wetboek van Strafvordering.  
 
 ### Artikel  lll  
 
@@ -23,7 +23,7 @@ Kennisgevingen van niet verdere vervolging en beschikkingen waarin verklaard wor
 
 ### Artikel  lV  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

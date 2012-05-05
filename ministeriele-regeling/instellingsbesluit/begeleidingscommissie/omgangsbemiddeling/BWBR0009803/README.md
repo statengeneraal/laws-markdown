@@ -27,11 +27,11 @@ het verkrijgen van een antwoord op de vraag in welke fase van de gerechtelijke p
 
 het verkrijgen van een antwoord op de vraag of het zinvol is ouders te verplichten tot deelname aan bemiddeling.   
 Daartoe is voorzien in de instelling van een begeleidingscommissies voor de experimenten omgangsbemiddeling;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
-Er is een begeleidingscommissie omgangsbemiddeling.  
+Er is een begeleidingscommissie omgangsbemiddeling. 
 
 ### Artikel  2  
 
@@ -45,11 +45,11 @@ de staatssecretaris over de voortgang van de experimenten en de uitkomsten van h
 
 In de begeleidingscommissie omgangsbemiddeling hebben zitting: 
 
-a. als voorzitter: 
+a.  als voorzitter: 
 
 prof. mr. M.J.C. Koens, raadsheer in het gerechtshof te ’s-Hertogenbosch en bijzonder hoogleraar familie- en jeugdrecht aan de Universiteit van Maastricht;    
 
-b. als leden: 
+b.  als leden: 
 
 mr. W.B. Bavinck, adjunct-directeur raad voor de kinderbescherming directie Oost te Zutphen;  
 
@@ -67,7 +67,7 @@ mw. mr. J.R. Mantz, senior beleidsmedewerker van de directie rechtspleging van h
 
 mw. A.P. de Vrij, senior beleidsmedewerker van de directie preventie, jeugd en sanctiebeleid van het ministerie van Justitie;    
 
-c. als secretaris: 
+c.  als secretaris: 
 
 dr. P. Albers, projectbegeleider wetenschappelijk onderzoek- en documentatiecentrum van het ministerie van Justitie.      
 
@@ -81,7 +81,7 @@ Op de begeleidingscommissie is het [Vacatiegeldenbesluit 1988](../../../../../AM
 
 ### Artikel  6  
 
-De begeleidingscommissie zal haar werkzaamheden uiterlijk op 1 juli 1999 beëindigen.  
+De begeleidingscommissie zal haar werkzaamheden uiterlijk op 1 juli 1999 beëindigen. 
 Dit besluit zal worden gepubliceerd in de Staatscourant.   
 
 ’s-Gravenhage 
@@ -89,4 +89,4 @@ Dit besluit zal worden gepubliceerd in de Staatscourant.
 
 De 
 Staatssecretaris van Justitie, 
-E.M.A.Schmitz    
+E.M.A. Schmitz      

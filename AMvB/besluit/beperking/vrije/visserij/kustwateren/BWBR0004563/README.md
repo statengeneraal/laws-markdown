@@ -17,19 +17,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Het verbod van [artikel 7, eerste lid, van de Visserijwet 1963](../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md) (*Stb.* 312) geldt tevens voor het vissen met andere vistuigen dan de hengel, het spieringtuig en de peur in de wateren die bij het [Besluit aanwijzing zeegebied en kustwateren 1970](../../../../../../../AMvB/besluit/aanwijzing/zeegebied/en/kustwateren/1970/BWBR0002703/README.md) (*Stb.* 176) als kustwateren zijn aangewezen, voor zover het Rijk rechthebbende op het visrecht is en met uitzondering van: 
+Het verbod van [artikel 7, eerste lid, van de Visserijwet 1963](../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md) (*Stb.* 312) geldt tevens voor het vissen met andere vistuigen dan de hengel, het spieringtuig en de peur in de wateren die bij het [Besluit aanwijzing zeegebied en kustwateren 1970](../../../../../../../AMvB/besluit/aanwijzing/zeegebied/en/kustwateren/1970/BWBR0002703/README.md) (*Stb.* 176) als kustwateren zijn aangewezen, voor zover het Rijk rechthebbende op het visrecht is en met uitzondering van:  
 
 a. het in artikel 2, eerste lid, van dat besluit bedoelde Nederlandse gedeelte van de Dollard en de Eems voor zover op grond van het Eems-Dollardverdrag 1960 (*Trb.* 69) als gemeenschappelijk visserijgebied aangewezen en  
 
-b. het in artikel 2, onderdeel 6, van dat besluit bedoelde deel van de Westerschelde.    
+b. het in artikel 2, onderdeel 6, van dat besluit bedoelde deel van de Westerschelde.   
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de derde kalendermaand na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de derde kalendermaand na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst. 
 
 ### Artikel  3  
 
-Dit besluit kan worden aangehaald als: Besluit beperking vrije visserij kustwateren.  
+Dit besluit kan worden aangehaald als: Besluit beperking vrije visserij kustwateren. 
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

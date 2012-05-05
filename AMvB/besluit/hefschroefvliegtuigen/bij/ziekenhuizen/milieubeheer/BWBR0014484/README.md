@@ -25,7 +25,7 @@ c. neonaten: pasgeboren kinderen die spoedeisende medische zorg behoeven;
 
 d. patiënten: ongevalslachtoffers en zieken die spoedeisend medische zorg behoeven;  
 
-e. mobiel medisch team: team bestaande uit in ieder geval een arts en een verpleegkundige, ieder met een specifieke opleiding en ervaring op het gebied van de pre-hospitale spoedeisende medische hulpverlening.    
+e. mobiel medisch team: team bestaande uit in ieder geval een arts en een verpleegkundige, ieder met een specifieke opleiding en ervaring op het gebied van de pre-hospitale spoedeisende medische hulpverlening.   
 
 ### Artikel  2  
 
@@ -33,7 +33,7 @@ Dit besluit is van toepassing op een inrichting die beschikt over een voorzienin
 
 ### Artikel  3  
 
-Degene die een helitraumacentrum drijft, draagt er zorg voor dat het geluidsvermogensniveau van hefschroefvliegtuigen die door hem worden ingezet voor het vervoer van mobiele medische teams niet hoger is dan 140 dB(A).  
+Degene die een helitraumacentrum drijft, draagt er zorg voor dat het geluidsvermogensniveau van hefschroefvliegtuigen die door hem worden ingezet voor het vervoer van mobiele medische teams niet hoger is dan 140 dB(A). 
 
 ### Artikel  4  
 
@@ -47,7 +47,7 @@ c. het vervoer van organen of transplantatieteams in het kader van transplantati
 
 d. het vervoer van een lid van een mobiel medisch team die, nadat het mobiel medisch team met een hefschroefvliegtuig op een ongevallenlocatie is ingezet, met een patiënt anders dan met een hefschroefvliegtuig naar de inrichting is vervoerd;  
 
-e. het verplaatsen van een hefschroefvliegtuig in verband met opleiding en training van de piloot tot ten hoogste 20 vliegbewegingen per inrichting per kalenderjaar.    
+e. het verplaatsen van een hefschroefvliegtuig in verband met opleiding en training van de piloot tot ten hoogste 20 vliegbewegingen per inrichting per kalenderjaar.   
 
 ### Artikel  5  
 
@@ -69,7 +69,7 @@ f. het verplaatsen van een hefschroefvliegtuig tot ten hoogste 400 vliegbeweging
 
 2. tankvluchten;  
 
-3. opleiding en training van de piloot en van het mobiel medisch team.      
+3. opleiding en training van de piloot en van het mobiel medisch team.     
 
 ### Artikel  6  
 
@@ -80,21 +80,21 @@ a. de reden voor het gebruik van de voorziening;
 b. tijd van vertrek;  
 
 c. tijd van aankomst.     
-2.  De registratie wordt binnen twee werkdagen na gebruik van de voorziening bijgewerkt en ten minste vijf jaar bewaard na vastlegging in de registratie.   
+2.  De registratie wordt binnen twee werkdagen na gebruik van de voorziening bijgewerkt en ten minste vijf jaar bewaard na vastlegging in de registratie.  
 
 ### Artikel  7  
 
 1.  Dit besluit is op het moment van inwerkingtreding ook van toepassing op inrichtingen die al zijn opgericht op het tijdstip waarop dit besluit in werking treedt.   
 2.  In afwijking van artikel 3 is het degene die op het moment van inwerkingtreding van dit besluit een helitraumacentrum drijft, tot het moment van vervanging van het hefschroefvliegtuig dat ten tijde van inwerkingtreding van dit besluit wordt ingezet voor het vervoer van mobiele medische teams, toegestaan een hefschroefvliegtuig in te zetten met een geluidsvermogensniveau van ten hoogste 145 dB(A).   
-3.  Het is degene die een helitraumacentrum drijft tot 1 januari 2005 toegestaan zijn voorziening ten behoeve van het landen en opstijgen van hefschroefvliegtuigen ook te gebruiken voor het verplaatsen van het hefschroefvliegtuig van en naar een stallingsplaats buiten het terrein van de inrichting tot ten hoogste 800 vliegbewegingen per jaar.   
+3.  Het is degene die een helitraumacentrum drijft tot 1 januari 2005 toegestaan zijn voorziening ten behoeve van het landen en opstijgen van hefschroefvliegtuigen ook te gebruiken voor het verplaatsen van het hefschroefvliegtuig van en naar een stallingsplaats buiten het terrein van de inrichting tot ten hoogste 800 vliegbewegingen per jaar.  
 
 ### Artikel  8  
 
-Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 ### Artikel  9  
 
-Dit besluit wordt aangehaald als: Besluit hefschroefvliegtuigen bij ziekenhuizen milieubeheer.  
+Dit besluit wordt aangehaald als: Besluit hefschroefvliegtuigen bij ziekenhuizen milieubeheer. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -108,4 +108,4 @@ P. L. B. A. van Geel
 de dertigste december 2002 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

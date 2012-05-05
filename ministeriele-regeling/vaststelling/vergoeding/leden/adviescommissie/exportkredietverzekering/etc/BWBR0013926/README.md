@@ -4,7 +4,7 @@
 
 De Staatssecretaris van Economische Zaken,  
 Gelet op [artikel 1 van het Vacatiegeldenbesluit 1988](../../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -16,7 +16,7 @@ Voor de voorbereidende werkzaamheden in het kader van het beoordelen van aanvrag
 
 ### Artikel  3  
 
-Het besluit van de Staatssecretaris van Economische Zaken, kenmerk BEB/BHI/FIB 02034196, van 5 juli 2002 houdende vaststelling van een vergoeding voor de leden van de Adviescommissie Exportkredietverzekening Opkomende Markten, wordt ingetrokken.  
+Het besluit van de Staatssecretaris van Economische Zaken, kenmerk BEB/BHI/FIB 02034196, van 5 juli 2002 houdende vaststelling van een vergoeding voor de leden van de Adviescommissie Exportkredietverzekening Opkomende Markten, wordt ingetrokken. 
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
@@ -24,4 +24,4 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 De 
 Staatssecretaris van Economische Zaken, 
-J.G.Wijn    
+J.G. Wijn      

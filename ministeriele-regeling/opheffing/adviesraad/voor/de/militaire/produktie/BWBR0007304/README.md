@@ -2,7 +2,7 @@
 
 ##Opheffing Adviesraad voor de militaire produktie
 
-De ministers van Economische Zaken, van Defensie en van Buitenlandse Zaken,  Besluiten:    
+De ministers van Economische Zaken, van Defensie en van Buitenlandse Zaken,  Besluiten:     
 
 ### Artikel  I  
 
@@ -23,12 +23,12 @@ Afschrift van dit besluit zal worden gezonden aan de Algemene Rekenkamer.
 
 De 
 minister van Economische Zaken, 
-G.J.Wijers 
+G.J. Wijers   
 
 De 
 minister van Defensie, 
-J.J.C.Voorhoeve 
+J.J.C.Voorhoeve  
 
 De 
 minister van Buitenlandse Zaken, 
-H.A.F.M.O. vanMierlo    
+H.A.F.M.O. vanMierlo     

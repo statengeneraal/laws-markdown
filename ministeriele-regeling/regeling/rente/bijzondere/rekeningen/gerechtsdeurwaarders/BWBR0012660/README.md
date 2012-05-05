@@ -8,11 +8,11 @@ Besluit:
 
 ### Artikel  1  
 
-Tenzij de gerechtsdeurwaarder en de rechthebbende schriftelijk anders zijn overeengekomen, wordt de aan het aandeel van de rechthebbende op de bijzondere rekening of rekeningen toegevoegde rente zo snel mogelijk, doch uiterlijk gelijk met het aandeel aan de rechthebbende uitgekeerd.  
+Tenzij de gerechtsdeurwaarder en de rechthebbende schriftelijk anders zijn overeengekomen, wordt de aan het aandeel van de rechthebbende op de bijzondere rekening of rekeningen toegevoegde rente zo snel mogelijk, doch uiterlijk gelijk met het aandeel aan de rechthebbende uitgekeerd. 
 
 ### Artikel  2  
 
-De rente wordt berekend aan de hand van het rentepercentage dat in het normale economische verkeer, mede gelet op het gemiddelde bedrag op de bijzondere rekening of rekeningen, gebruikelijk is.  
+De rente wordt berekend aan de hand van het rentepercentage dat in het normale economische verkeer, mede gelet op het gemiddelde bedrag op de bijzondere rekening of rekeningen, gebruikelijk is. 
 
 ### Artikel  3  
 
@@ -26,9 +26,9 @@ De rente wordt berekend aan de hand van het rentepercentage dat in het normale e
 
 Zodra de hoogte daarvan vaststaat, wordt de gerechtsdeurwaarder rechthebbende op rentegelden die: 
 
-a. op grond van artikel 3 niet worden uitgekeerd, of  
+a.  op grond van artikel 3 niet worden uitgekeerd, of 
 
-b. zijn gekweekt over saldi die hij op grond van de opdrachtverlening kan verrekenen en heeft verrekend.    
+b.  zijn gekweekt over saldi die hij op grond van de opdrachtverlening kan verrekenen en heeft verrekend.   
 
 ### Artikel  5  
 
@@ -36,19 +36,19 @@ Artikel 3 blijft buiten toepassing op het aandeel van de rechthebbende dat is on
 
 ### Artikel  6  
 
-De bedragen van € 500 in artikel 3, eerste en vijfde lid, en van € 10.000 in artikel 3, vierde lid, gelden met ingang van 1 januari 2002. Tot 1 januari 2002 gelden bedragen van f 1101,86 onderscheidenlijk f 22.037,10.  
+De bedragen van € 500 in artikel 3, eerste en vijfde lid, en van € 10.000 in artikel 3, vierde lid, gelden met ingang van 1 januari 2002. Tot 1 januari 2002 gelden bedragen van f 1101,86 onderscheidenlijk f 22.037,10. 
 
 ### Artikel  7  
 
-Dit besluit treedt in werking op het tijdstip waarop [artikel 19 van de Gerechtsdeurwaarderswet](../../../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop [artikel 19 van de Gerechtsdeurwaarderswet](../../../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md) in werking treedt. 
 
 ### Artikel  8  
 
-Deze regeling wordt aangehaald als: Regeling rente bijzondere rekeningen gerechtsdeurwaarders.  
+Deze regeling wordt aangehaald als: Regeling rente bijzondere rekeningen gerechtsdeurwaarders. 
 
 's-Gravenhage 
 9 juli 2001    
 
 De 
 Staatssecretaris van Justitie, 
-N.A.Kalsbeek    
+N.A. Kalsbeek      

@@ -8,41 +8,41 @@ Handelende in overeenstemming met de Minister van Binnenlandse Zaken en Koninkri
 Gelet op [artikel 69 van het Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);
 
 Gehoord de Departementale Ondernemingsraad, ingesteld bij het Ministerie van Economische Zaken;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. ministerie:  Ministerie van Economische Zaken;    b. medewerker:  medewerker van het ministerie;    c. directie P&O:  directie Personeel en Organisatie van het ministerie;    d. het onderzoek:  het preventief gezondheidsonderzoek dat is omschreven in artikel 3;    e. keuringsinstituut:  het instituut waarmee een collectief contract is gesloten voor de uitvoering van het onderzoek;    f. bewijs van keuring:  schriftelijk bewijsstuk waaruit blijkt dat de medewerker een onderzoek heeft ondergaan, dat is opgenomen in de bij deze regeling behorende bijlage 1.     
+In deze regeling wordt verstaan onder: a. ministerie:   Ministerie van Economische Zaken;  b.  medewerker:   medewerker van het ministerie;  c.  directie P&O:   directie Personeel en Organisatie van het ministerie;  d.  het onderzoek:   het preventief gezondheidsonderzoek dat is omschreven in artikel 3;  e. keuringsinstituut:  het instituut waarmee een collectief contract is gesloten voor de uitvoering van het onderzoek;  f. bewijs van keuring:   schriftelijk bewijsstuk waaruit blijkt dat de medewerker een onderzoek heeft ondergaan, dat is opgenomen in de bij deze regeling behorende bijlage 1.    
 
 ### Artikel  2  
 
-1.  De medewerker tot en met 44 jaar heeft eens per drie jaar aanspraak op vergoeding van de kosten van een onderzoek tot een nader te bepalen maximum bedrag en de medewerker van 45 jaar en ouder heeft eens per twee jaar aanspraak op vergoeding van de kosten van een onderzoek tot een nader te bepalen maximum bedrag.   
-2.  De hoogte van de vergoedingen, bedoeld in het eerste lid, wordt vastgesteld door de Minister van Economische Zaken en bekend gemaakt door de directeur Personeel en Organisatie.   
+1.   De medewerker tot en met 44 jaar heeft eens per drie jaar aanspraak op vergoeding van de kosten van een onderzoek tot een nader te bepalen maximum bedrag en de medewerker van 45 jaar en ouder heeft eens per twee jaar aanspraak op vergoeding van de kosten van een onderzoek tot een nader te bepalen maximum bedrag.   
+2.   De hoogte van de vergoedingen, bedoeld in het eerste lid, wordt vastgesteld door de Minister van Economische Zaken en bekend gemaakt door de directeur Personeel en Organisatie.  
 
 ### Artikel  3  
 
 1.  Het preventief gezondheidsonderzoek omvat voor medewerkers tot en met 44 jaar: 
 
-a. het in kaart brengen van de medische voorgeschiedenis;  
+a.  het in kaart brengen van de medische voorgeschiedenis; 
 
-b. een lichamelijk onderzoek door een arts;  
+b.  een lichamelijk onderzoek door een arts; 
 
-c. biometrie (lengte, gewicht, bloeddruk, pols);  
+c.  biometrie (lengte, gewicht, bloeddruk, pols); 
 
-d. een test van het gezichtsvermogen op drie afstanden: dichtbij, veraf en beeldschermafstand;  
+d.  een test van het gezichtsvermogen op drie afstanden: dichtbij, veraf en beeldschermafstand; 
 
-e. een urine-onderzoek op kleur, aspect, glucose, eiwit, s.g, pH en witte en rode bloedlichaampjes;  
+e.  een urine-onderzoek op kleur, aspect, glucose, eiwit, s.g, pH en witte en rode bloedlichaampjes; 
 
-f. een bloedonderzoek op bezinking en bloedarmoede. Als er suiker in de urine wordt gevonden, wordt ook het bloed op glucose onderzocht;  
+f.  een bloedonderzoek op bezinking en bloedarmoede. Als er suiker in de urine wordt gevonden, wordt ook het bloed op glucose onderzocht; 
 
-g. een gehoortest met audiometer;  
+g.  een gehoortest met audiometer; 
 
-h. een longfunctietest indien de onderzoekende arts daartoe aanleiding ziet.     
+h.  een longfunctietest indien de onderzoekende arts daartoe aanleiding ziet.    
 2.  Voor medewerkers van 45 jaar en ouder omvat het onderzoek tevens: 
 
-a. de vaststelling van het cholesterolgehalte;  
+a.  de vaststelling van het cholesterolgehalte; 
 
-b. een elektrocardiogram in rust.     
+b.  een elektrocardiogram in rust.    
 
 ### Artikel  4  
 
@@ -59,9 +59,9 @@ b. een elektrocardiogram in rust.
 1.  De medewerker die het onderzoek door een huisarts of een sportarts wil laten uitvoeren, neemt daartoe op werkdagen tussen 9 en 10 of tussen 14 en 15 uur telefonisch contact op met de directie P&O via het daartoe opgegeven telefoonnummer.   
 2.  Aan de medewerker worden vervolgens verstrekt: 
 
-a. een blanco bewijs van keuring en  
+a.  een blanco bewijs van keuring en 
 
-b. een kaart waarop de inhoud van het onderzoek is omschreven, die is opgenomen in de bij deze regeling behorende bijlage 2.     
+b.  een kaart waarop de inhoud van het onderzoek is omschreven, die is opgenomen in de bij deze regeling behorende bijlage 2.    
 3.  De medewerker deelt de huisarts of sportarts mee dat het onderzoek ten minste de omschreven elementen dient in te houden.   
 4.  De medewerker draagt zorg voor invulling van het bewijs van keuring en ondertekening daarvan door de betrokken arts en door hemzelf.   
 
@@ -80,7 +80,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  10  
 
-Deze regeling wordt aangehaald als: Regeling preventief gezondheidsonderzoek medewerkers EZ.  
+Deze regeling wordt aangehaald als: Regeling preventief gezondheidsonderzoek medewerkers EZ. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd. Van deze terinzagelegging zal mededeling worden gedaan in de Staatscourant .   
 
 ’s-Gravenhage 
@@ -88,12 +88,12 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met ui
 
 De 
 Minister van Economische Zaken, 
-A.Jorritsma-Lebbink   
+A. Jorritsma-Lebbink     
 
-### Bijlage  1  
+###Bijlage 1 
 
-Ligt ter inzage.  
+Ligt ter inzage.
 
-### Bijlage  2  
+###Bijlage 2 
 
-Ligt ter inzage.  
+Ligt ter inzage.

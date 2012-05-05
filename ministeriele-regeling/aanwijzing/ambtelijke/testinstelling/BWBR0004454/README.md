@@ -2,7 +2,7 @@
 
 ##Aanwijzing ambtelijke testinstelling
 
-De minister van Verkeer en Waterstaat,  
+De minister van Verkeer en Waterstaat,   
 Overwegende dat het typekeuren van radio-elektrische inrichtingen tot januari 1989 geschiedt door het Staatsbedrijf der Posterijen, Telegrafie en Telefonie:
 
 dat het typekeuren van radio-elektrische inrichtingen met ingang van 1 januari 1989 door erkende testinstellingen zal plaatsvinden;
@@ -16,15 +16,15 @@ Besluit:
 
 ### Artikel  1  
 
-Het Bureau Typekeuringen van de Directie Operationele Zaken van de Hoofddirectie Telecommunicatie en Post van het ministerie van Verkeer en Waterstaat wordt voor de periode van 1 januari 1989 tot 1 januari 1990 aangewezen als testinstelling voor het testen van zendinrichtingen welke zijn bestemd voor landmobiele telecommunicatie en van ontvanginrichtingen als bedoeld in artikel F.4.1. van het Besluit radio-elektrische inrichtingen.  
+Het Bureau Typekeuringen van de Directie Operationele Zaken van de Hoofddirectie Telecommunicatie en Post van het ministerie van Verkeer en Waterstaat wordt voor de periode van 1 januari 1989 tot 1 januari 1990 aangewezen als testinstelling voor het testen van zendinrichtingen welke zijn bestemd voor landmobiele telecommunicatie en van ontvanginrichtingen als bedoeld in artikel F.4.1. van het Besluit radio-elektrische inrichtingen. 
 
 ### Artikel  2  
 
-Deze beschikking treedt inwerking op 1 januari 1989 en kan worden aangehaald als: Aanwijzing ambtelijke testinstelling.  
+Deze beschikking treedt inwerking op 1 januari 1989 en kan worden aangehaald als: Aanwijzing ambtelijke testinstelling. 
 
 's-Gravenhage 
 19 december 1988    
 
 De 
 minister voornoemd, 
-N.Smit-Kroes    
+N.  Smit-Kroes      

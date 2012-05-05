@@ -22,7 +22,7 @@ artikel 8, eerste lid, van het Besluit uitvoering artikel 577, tweede lid,
 betreffende het betalingsbewijs, dat wordt uitgereikt na contante betaling van de geschate waarde van niet in beslaggenomen, verbeurd verklaarde voorwerpen, alsmede van de kosten van openbaarmaking van een rechterlijke uitspraak;     
 vast te stellen.
 Besluit:      
-I.  een betalingsbewijs als bedoeld in 
+I.  een betalingsbewijs als bedoeld in  
 
 het Besluit administratiefrechtelijke handhaving verkeersvoorschriften 1994, artikel 9, tweede lid;  
 
@@ -30,7 +30,7 @@ het Transactiebesluit 1994, artikel 12, tweede lid;
 
 het Besluit tenuitvoerlegging geldboetevonnissen, artikel 8, eerste lid;  
 
-het Besluit uitvoering artikel 577, tweede lid, artikel 8, eerste lid; vast te stellen overeenkomstig de minimum randvoorwaarden vermeld in bijlage 1.     
+het Besluit uitvoering artikel 577, tweede lid, artikel 8, eerste lid;  vast te stellen overeenkomstig de minimum randvoorwaarden vermeld in bijlage 1.     
 II.  dat het besluit van 11 maart 1992, kenmerk Directie Staats- en Strafrecht nr. 194400/292 (Stcrt. 1992, 64), wordt ingetrokken.   
 III.  dat dit besluit in werking treedt op 1 oktober 1994.   
 IV.  dat dit besluit zal worden gepubliceerd in de Staatscourant en in het Algemeen Politieblad.      
@@ -45,7 +45,7 @@ Namens de Minister,
 
 Het 
 waarnemend hoofd van de Directie Staats- en Strafrecht, 
-R.F.Zeeuwen   
+R.F. Zeeuwen     
 
 ### Bijlage  1  
 
@@ -65,7 +65,7 @@ De kwitantie moet in ieder geval gebruikt kunnen worden voor betalingen (in het 
 
 – het [Besluit uitvoering artikel 577, tweede lid](../../../../../../../../../../AMvB/besluit/uitvoering/artikel/577/tweede/lid/(wetboek/van/strafvordering)/BWBR0006714/README.md);  
 
-– de gemandateerde OM-transactie.    
+– de gemandateerde OM-transactie.   
 
 ### 1.2  
 
@@ -109,5 +109,5 @@ Op de kwitantie moeten de volgende gegevens dan wel tekst (of woorden van gelijk
 
 – naam in blokletters:  
 
-– handtekening:    
+– handtekening:   
 

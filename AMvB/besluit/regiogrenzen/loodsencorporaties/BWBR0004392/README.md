@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De grenzen van de regio's, waarin de regionale loodsencorporaties, bedoeld in [artikel 10 van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md) (*Stb.* 1988, 353) zijn gevestigd, vallen aan de landzijde samen met de landinwaarts gelegen grenzen van het samenstel van de loodsplichtige scheepvaartwegen.  
+De grenzen van de regio's, waarin de regionale loodsencorporaties, bedoeld in [artikel 10 van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md) (*Stb.* 1988, 353) zijn gevestigd, vallen aan de landzijde samen met de landinwaarts gelegen grenzen van het samenstel van de loodsplichtige scheepvaartwegen. 
 
 ### Artikel  2  
 
-De grenzen tussen de regio's zijn: 
+De grenzen tussen de regio's zijn:  
 
 a. tussen regio Noord en regio Amsterdam-IJmond: 
 
@@ -35,15 +35,15 @@ c. tussen regio Rotterdam-Rijnmond en regio Scheldemonden:
 
 2. de Philipsdam;  
 
-3. de noordelijke grens van het Schelde-Rijnkanaal.      
+3. de noordelijke grens van het Schelde-Rijnkanaal.     
 
 ### Artikel  3  
 
-Dit besluit treedt in werking op het tijdstip, dat [artikel 10 van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip, dat [artikel 10 van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md) in werking treedt. 
 
 ### Artikel  4  
 
-Dit besluit kan worden aangehaald als: Besluit regiogrenzen loodsencorporaties.  
+Dit besluit kan worden aangehaald als: Besluit regiogrenzen loodsencorporaties. 
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

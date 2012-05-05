@@ -11,19 +11,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt Boek 1 van het Burgerlijk Wetboek.   
+Wijzigt Boek 1 van het Burgerlijk Wetboek.  
 
 ### Artikel  II  
 
-Wijzigt Boek 1 van het Burgerlijk Wetboek.   
+Wijzigt Boek 1 van het Burgerlijk Wetboek.  
 
 ### Artikel  III  
 
-Op verzoeken, bedoeld in [artikel 413 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), die op het tijdstip van inwerkingtreding van deze wet aanhangig zijn, is [artikel 74 van de Overgangswet nieuw Burgerlijk Wetboek](../../../../../../../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md) van overeenkomstige toepassing.  
+Op verzoeken, bedoeld in [artikel 413 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), die op het tijdstip van inwerkingtreding van deze wet aanhangig zijn, is [artikel 74 van de Overgangswet nieuw Burgerlijk Wetboek](../../../../../../../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md) van overeenkomstige toepassing. 
 
 ### Artikel  IV  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

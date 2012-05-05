@@ -1,18 +1,18 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Wet van 16 mei 1829, houdende bepalingen wegens den overgang van de vroegere tot de nieuwe wetgeving
+##Wet van 16 mei 1829, houdende bepalingen wegens den overgang van de vroegere tot de nieuwe wetgeving 
 
-Wij WILLEM, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, Groot-Hertog van Luxemburg, enz., enz., enz.
+Wij WILLEM, bij de gratie Gods, Koning der Nederlanden, Prins van Oranje-Nassau, Groot-Hertog van Luxemburg, enz., enz., enz. 
 
-Allen den genen, die deze zullen zien, of hooren lezen, salut! doen te weten:
+Allen den genen, die deze zullen zien, of hooren lezen, salut! doen te weten: 
 
-Alzoo Wij hebben in overweging genomen, dat, ten einde verkeerde uitleggingen en twistgedingen te voorkomen, welke door den overgang der vroegere tot de nieuwe wetgeving zouden kunnen geboren worden, het doelmatig is, om, bij eene transitoire wet, verordeningen vasttestellen, geschikt om den twijfel te doen ophouden, welke ten aanzien van deze en gene punten van wetgeving zoude kunnen ontstaan;
+Alzoo Wij hebben in overweging genomen, dat, ten einde verkeerde uitleggingen en twistgedingen te voorkomen, welke door den overgang der vroegere tot de nieuwe wetgeving zouden kunnen geboren worden, het doelmatig is, om, bij eene transitoire wet, verordeningen vasttestellen, geschikt om den twijfel te doen ophouden, welke ten aanzien van deze en gene punten van wetgeving zoude kunnen ontstaan; 
 
-Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal,
+Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der Staten-Generaal, 
 Hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan te bepalen, hetgeen volgt:     
 ### Eerste  hoofdstuk  
 
-####Algemeene bepalingen
+####Algemeene bepalingen 
 
 ### Artikel  1  
 
@@ -32,7 +32,7 @@ De regten uit uiterste wilsbeschikkingen voortvloeijende, welke vóór de invoer
 
 ### Tweede  hoofdstuk  
 
-####Van meerderjarigheid, emancipatie en geregtelijke adsistentie vóór de invoering van het nieuwe wetboek verkregen
+#### Van meerderjarigheid, emancipatie en geregtelijke adsistentie vóór de invoering van het nieuwe wetboek verkregen 
 
 ### Artikel  5  
 
@@ -56,7 +56,7 @@ De regten van minderjarigen die ingevolge de bepalingen van artikel 477 en volge
 
 ### Artikel  10  
 
-1.  Meerderjarigen aan welke, ingevolge de bepalingen van den elfde titel van het eerste boek van het Wetboek Napoleon een geregtelijke raadsman is toegevoegd, blijven ook na de invoering der nieuwe wetgeving dien raadsman op denzelfde voet behouden.   
+1.  Meerderjarigen aan welke, ingevolge de bepalingen van den elfde titel van het eerste boek van het Wetboek Napoleon een geregtelijke raadsman is toegevoegd, blijven ook na de invoering der nieuwe wetgeving dien raadsman op denzelfde voet behouden.    
 2.  Het wordt echter aan den regter overgelaten om daartoe gronden vindende op daartoe gedane vordering, de geregtelijke adsistentie door het stellen onder curatele te vervangen. De vordering daartoe moet gedaan worden met in achtneming der voorschriften daartoe bij het nieuwe wetboek gegeven.   
 
 ### Artikel  11  
@@ -65,7 +65,7 @@ Ten aanzien van personen, uit kracht van het besluit van den 12. Februarij 1815 
 
 ### Derde  hoofdstuk  
 
-####Van de adoptie en officieuse voogdij
+####Van de adoptie en officieuse voogdij 
 
 ### Artikel  12  
 
@@ -77,7 +77,7 @@ Indien vóór de invoering van het nieuw burgerlijk wetboek, en naar aanleiding 
 
 ### Vierde  hoofdstuk  
 
-####Van de hypotheken en derzelver zuivering, en van de privilegien
+####Van de hypotheken en derzelver zuivering, en van de privilegien 
 
 ### Artikel  14  
 
@@ -85,7 +85,7 @@ De wettelijke hypotheken ten behoeve van getrouwde vrouwen, minderjarige, en and
 
 ### Artikel  15  
 
-1.  Deze inschrijving zal niet mogen zijn algemeen op de goederen binnen den kring van het kantoor van den hypotheek-bewaarder gelegen, maar zij zal de bijzondere aanduiding moeten bevatten van den aard en van de ligging der goederen, waarop de hypotheek is gevestigd.   
+1.  Deze inschrijving zal niet mogen zijn algemeen op de goederen binnen den kring van het kantoor van den hypotheek-bewaarder gelegen, maar zij zal de bijzondere aanduiding moeten bevatten van den aard en van de ligging der goederen, waarop de hypotheek is gevestigd.    
 2.  Geene andere goederen dan die, welke bij de inschrijving bepaaldelijk zijn aangewezen, zullen door de hypotheek worden getroffen.   
 
 ### Artikel  16  
@@ -98,7 +98,7 @@ Het bepaalde bij artikel 1232 van het nieuw Burgerlijk Wetboek is op de inschrij
 
 ### Artikel  18  
 
-1.  Zij wordt genomen door de mans of door de voogden, wier goederen met deze hypotheken zijn bezwaard.   
+1.  Zij wordt genomen door de mans of door de voogden, wier goederen met deze hypotheken zijn bezwaard.    
 2.  De toeziende voogden zullen zorgen dat dezelve plaats hebbe, of des noods, zelve inschrijving nemen, op straffe van vergoeding van kosten, schaden en interessen, zoo daartoe gronden zijn.   
 
 ### Artikel  19  
@@ -127,7 +127,7 @@ Zoolang de inschrijving der hypotheken niet is geschied, is de voogd insgelijks 
 
 ### Artikel  25  
 
-1.  Het regt van wettelijk hypotheek der getrouwde vrouwen en der minderjarigen of andere onder voogdij gestelde personen blijft onafhankelijk van inschrijving, overeenkomstig de fransche wetgeving, stand houden, en wel dat der getrouwde vrouwen tot na den afloop van den termijn bij artikel 14, en dat der minderjarige of andere onder voogdij gestelde personen tot na den afloop van dien bij art. 20 voorgeschreven.   
+1.  Het regt van wettelijk hypotheek der getrouwde vrouwen en der minderjarigen of andere onder voogdij gestelde personen blijft onafhankelijk van inschrijving, overeenkomstig de fransche wetgeving, stand houden, en wel dat der getrouwde vrouwen tot na den afloop van den termijn bij artikel 14, en dat der minderjarige of andere onder voogdij gestelde personen tot na den afloop van dien bij art. 20 voorgeschreven.    
 2.  Deze bepaling is ook van toepassing op de goederen, die na de invoering van het nieuwe Burgerlijk Wetboek doch vóór den afloop der hiervoren bepaalde termijnen zijn verkregen.   
 
 ### Artikel  26  
@@ -144,8 +144,8 @@ Iedere belanghebbende zal binnen voorgeschreven termijn, de inschrijving op de n
 
 ### Artikel  29  
 
-1.  De bepalingen van artikel 15 zijn toepasselijk op de inschrijving der hypotheken in artikel 27 vermeld.   
-2.  De borderellen voor de inschrijving der wettelijke hypotheken in artikel 27 bedoeld, moeten zijn ingerigt overeenkomstig de bepalingen van artikel 16.   
+1.  De bepalingen van artikel 15 zijn toepasselijk op de inschrijving der hypotheken in artikel 27 vermeld.    
+2.  De borderellen voor de inschrijving der wettelijke hypotheken in artikel 27 bedoeld, moeten zijn ingerigt overeenkomstig de bepalingen van artikel 16.    
 3.  Die voor de inschrijving der geregtelijke hypotheken, moeten zijn ingerigt overeenkomstig de voorschriften van art. 1231 van het nieuwe Burgerlijk Wetboek.   
 
 ### Artikel  30  
@@ -174,7 +174,7 @@ De inschrijvingen der hypotheken, welke volgens de Fransche wet voor inkorting v
 
 ### Artikel  36  
 
-1.  De inschrijvingen der hypotheken, bij de tegenwoordige wet bedoeld, met uitzondering van die, in artikel 33 en 34 vermeld, zullen geschieden zonder betaling van andere regten dan het loon van den hypotheek-bewaarder.   
+1.  De inschrijvingen der hypotheken, bij de tegenwoordige wet bedoeld, met uitzondering van die, in artikel 33 en 34 vermeld, zullen geschieden zonder betaling van andere regten dan het loon van den hypotheek-bewaarder.    
 2.  De borderellen kunnen geschreven worden op ongezegeld papier.   
 
 ### Artikel  37  
@@ -183,7 +183,7 @@ De bewaarders van het kadaster zijn verpligt om de voor de belanghebbenden, tot 
 
 ### Vijfde  hoofdstuk  
 
-####Van de regten der echtelieden, vóór de invoering van het nieuwe wetboek getrouwd
+####Van de regten der echtelieden, vóór de invoering van het nieuwe wetboek getrouwd 
 
 ### Artikel  38  
 
@@ -191,11 +191,11 @@ De regten van echtelieden, vóór de invoering van het nieuw burgerlijk wetboek 
 
 ### Zesde  hoofdstuk  
 
-####Van echtscheiding, scheiding van tafel en bed en ontbinding des huwelijks
+####Van echtscheiding, scheiding van tafel en bed en ontbinding des huwelijks 
 
 ### Artikel  39  
 
-1.  Echtgenooten voor de invoering van het nieuwe Burgerlijk Wetboek gehuwd, kunnen na die invoering niet meer bij onderlinge toestemming hun huwelijk doen ontbinden.   
+1.  Echtgenooten voor de invoering van het nieuwe Burgerlijk Wetboek gehuwd, kunnen na die invoering niet meer bij onderlinge toestemming hun huwelijk doen ontbinden.    
 2.  Indien niettemin de echtgenooten uit krachte van het vastgestelde bij artikel 281 van het Wetboek Napoleon, reeds voor den regter mogten zijn verschenen, kan die echtscheiding worden vervolgd, en uitgesproken, overeenkomstig de voorschriften van dat Wetboek en met dezelfde gevolgen.   
 
 ### Artikel  40  
@@ -220,7 +220,7 @@ De bepalingen der artikelen 549, 550 en 551 van het nieuw burgerlijk wetboek, be
 
 ### Zevende  hoofdstuk  
 
-####Van den lijfsdwang
+####Van den lijfsdwang 
 
 ### Artikel  45  
 
@@ -232,7 +232,7 @@ Ten aanzien van het ontslag uit de gijzeling zijn van toepassing de wetten, welk
 
 ### Achtste  hoofdstuk  
 
-####Van het bewijs
+####Van het bewijs 
 
 ### Artikel  47  
 
@@ -240,7 +240,7 @@ De bewijsmiddelen zullen worden aangenomen of niet toegelaten, naar mate der bep
 
 ### Negende  hoofdstuk  
 
-####Van mutuële en olographische testamenten en van erfstellingen over de hand
+####Van mutuële en olographische testamenten en van erfstellingen over de hand 
 
 ### Artikel  48  
 
@@ -248,8 +248,8 @@ Testamenten eene vaste dagteekening hebbende en door twee of meerdere personen i
 
 ### Artikel  49  
 
-1.  Allen, die overeenkomstig de voorschriften van het wetboek Napoléon, olographische testamenten hebben gemaakt vóór de invoering van het burgerlijk wetboek, en verlangen mogten, dat dezelve van kracht blijven, zullen verpligt zijn dezelve, met uitzondering van die, vermeld bij artikel 982 van het Burgerlijk Wetboek, binnen het jaar na die invoering, naar aanleiding van de bepalingen van het nieuwe Burgerlijk Wetboek, aan een notaris in bewaring te geven; zullende bij gebreke van dien, zoodanige testamenten alleen van kracht zijn, indien de erflater overleden is binnen het jaar na die invoering.   
-2.  Olographische testamenten, welke onder het Wetboek Napoleon gemaakt, doch niet op de voorschreven wijze onder bewaring gesteld zijn, zullen nogthans daardoor niet krachteloos worden, wanneer de personen, door welke die testamenten zijn gemaakt, bij de invoering der nieuwe wetgeving, of binnen het jaar na die invoering, door krankzinnigheid of andere overmagt, tot de vereischte bewaargeving buiten staat geraakt zijn.   
+1.  Allen, die overeenkomstig de voorschriften van het wetboek Napoléon, olographische testamenten hebben gemaakt vóór de invoering van het burgerlijk wetboek, en verlangen mogten, dat dezelve van kracht blijven, zullen verpligt zijn dezelve, met uitzondering van die, vermeld bij artikel 982 van het Burgerlijk Wetboek, binnen het jaar na die invoering, naar aanleiding van de bepalingen van het nieuwe Burgerlijk Wetboek, aan een notaris in bewaring te geven; zullende bij gebreke van dien, zoodanige testamenten alleen van kracht zijn, indien de erflater overleden is binnen het jaar na die invoering.    
+2.  Olographische testamenten, welke onder het Wetboek Napoleon gemaakt, doch niet op de voorschreven wijze onder bewaring gesteld zijn, zullen nogthans daardoor niet krachteloos worden, wanneer de personen, door welke die testamenten zijn gemaakt, bij de invoering der nieuwe wetgeving, of binnen het jaar na die invoering, door krankzinnigheid of andere overmagt, tot de vereischte bewaargeving buiten staat geraakt zijn.    
 3.  Van deze bepalingen zijn uitgezonderd de beschikkingen vermeld bij artikel 982 van het nieuwe burgerlijk wetboek.   
 
 ### Artikel  50  
@@ -258,7 +258,7 @@ De bepaling van art. 1 van het decreet van den 24sten Januari 1812, betrekkelijk
 
 ### Tiende  hoofdstuk  
 
-####Van de tenietdoening ter zake van benadeeling
+####Van de tenietdoening ter zake van benadeeling 
 
 ### Artikel  51  
 
@@ -266,11 +266,11 @@ De regtsvordering tot tenietdoening, ter zake eener benadeeling in een verkoop, 
 
 ### Elfde  hoofdstuk  
 
-####Van de toepassing der straffen
+####Van de toepassing der straffen 
 
 ### Twaalfde  hoofdstuk  
 
-####Van de aanhangige twistgedingen
+####Van de aanhangige twistgedingen 
 
 ### Artikel  53  
 
@@ -278,27 +278,27 @@ De twistgedingen, welke op het oogenblik der invoering van het wetboek op de bur
 
 ### Artikel  54  
 
-1.  De burgerlijke twistgedingen, op het oogenblik der instelling van de hoven en regtbanken aanhangig bij de afgeschafte hoven, regtbanken en vredegeregten, zullen door middel van eene enkele akte aan den persoon of ter zijner woonstede beteekend, worden overgebragt bij de regters, welke volgens de wet op de regterlijke organisatie en het beleid der justitie bevoegd zijn daarvan kennis te nemen om op de laatste dingtalen te worden voortgezet.   
+1.  De burgerlijke twistgedingen, op het oogenblik der instelling van de hoven en regtbanken aanhangig bij de afgeschafte hoven, regtbanken en vredegeregten, zullen door middel van eene enkele akte aan den persoon of ter zijner woonstede beteekend, worden overgebragt bij de regters, welke volgens de wet op de regterlijke organisatie en het beleid der justitie bevoegd zijn daarvan kennis te nemen om op de laatste dingtalen te worden voortgezet.    
 2.  Niettemin zullen de zaken, welke bij de regtbanken van eersten aanleg of van Koophandel aanhangig zijn en volgens de aangehaalde wet tot de bevoegdheid van den kantons-regter zouden behooren, door de arrondissements-regtbanken worden beslist.   
 
 ### Artikel  55  
 
-1.  De op datzelfde tijdstip onbesliste criminele, correctionele en policie-zaken, zullen worden overgebragt bij den regter, welke daartoe bevoegd is, naar aanleiding der wet op de regterlijke organisatie en het beleid der justitie.   
+1.  De op datzelfde tijdstip onbesliste criminele, correctionele en policie-zaken, zullen worden overgebragt bij den regter, welke daartoe bevoegd is, naar aanleiding der wet op de regterlijke organisatie en het beleid der justitie.    
 2.  De bepaling van het laatste lid van het voorgaand artikel is ook op de reeds aanhangige correctionele zaken toepasselijk.   
 
 ### Artikel  56  
 
-1.  Na de invoering van het nieuwe [Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), zijn de voorschriften van dat wetboek ten aanzien van de wijze waarop de beleedigde partij schadevergoeding mogt vorderen voor het nadeel haar door een misdrijf toegebragt, ook toepasselijk op misdrijven, voor die invoering gepleegd.   
+1.  Na de invoering van het nieuwe [Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), zijn de voorschriften van dat wetboek ten aanzien van de wijze waarop de beleedigde partij schadevergoeding mogt vorderen voor het nadeel haar door een misdrijf toegebragt, ook toepasselijk op misdrijven, voor die invoering gepleegd.    
 2.  Indien echter reeds voor dien tijd de beleedigde partij zich ingevolge de voorschriften van het fransche regt, civiele partij had gesteld, zal de regtsvordering over de schadevergoeding voor den regter in strafzaken worden voortgezet, om het even of deze ingevolge de bepalingen van het nieuwe wetboek al dan niet bevoegd is daarvan kennis te nemen.   
 
 ### Artikel  57  
 
-1.  Het regt tot appel en cassatie van bij de invoering der regterlijke organisatie reeds aanhangige zaken wordt geregeld naar de vroegere wetten.   
+1.  Het regt tot appel en cassatie van bij de invoering der regterlijke organisatie reeds aanhangige zaken wordt geregeld naar de vroegere wetten.    
 2.  De cassatien zullen gebragt worden bij den hoogen raad.   
 
 ### Dertiende  hoofdstuk  
 
-####Van het beroep in cassatie tegen arresten door het hoog geregtshof te 's-Gravenhage en tegen vonnissen door de regtbanken binnen het ressort van dat hof gewezen
+####Van het beroep in cassatie tegen arresten door het hoog geregtshof te 's-Gravenhage en tegen vonnissen door de regtbanken binnen het ressort van dat hof gewezen 
 
 ### Artikel  58  
 
@@ -310,7 +310,7 @@ De vonnissen, in het hoogste ressort gewezen door de regtbanken van eersten aanl
 
 ### Veertiende  hoofdstuk  
 
-####Van de bemoeijenissen der kantons-regters
+#### Van de bemoeijenissen der kantons-regters 
 
 ### Artikel  60  
 
@@ -319,13 +319,13 @@ Onverminderd de werkzaamheden bij de wet op de regterlijke organisatie, aan de k
 Lasten en bevelen dat deze in het *staatsblad* zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, kollegien en ambtenaren, wien zulks aangaat, aan de naauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te Brussel 
-den 16den Mei des jaars 1829, en van Onze regering het zestiende.  
-WILLEM.  
+den 16den Mei des jaars 1829, en van Onze regering het zestiende.   
+WILLEM.   
 
-Van wege den Koning, 
-J. G. DE MEY VAN STREEFKERK.   
-
-den zeven en twintigsten Mei 1829. 
-
-De Secretaris van Staat, 
+Van wege den Koning,  
 J. G. DE MEY VAN STREEFKERK.    
+
+den zeven en twintigsten Mei 1829.  
+
+De Secretaris van Staat,  
+J. G. DE MEY VAN STREEFKERK.     

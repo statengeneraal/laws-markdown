@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling marifooninstallaties
+##Regeling marifooninstallaties 
 
 De Minister van Verkeer en Waterstaat,  
 Gelet op de [artikelen 6, zesde lid](../../../../AMvB/scheepvaartreglement/voor/het/kanaal/van/gent/naar/terneuzen/BWBR0005315/README.md), en [19, zesde lid, onderdeel d, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](../../../../AMvB/scheepvaartreglement/voor/het/kanaal/van/gent/naar/terneuzen/BWBR0005315/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -24,9 +24,9 @@ Deze regeling wordt aangehaald als: Regeling marifooninstallaties.
 
 ### Artikel  5  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Verkeer en Waterstaat, 
-T.Netelenbos    
+T.  Netelenbos      

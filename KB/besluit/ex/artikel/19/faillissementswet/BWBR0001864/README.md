@@ -15,14 +15,14 @@ Den Raad van State gehoord (advies van den 19 Mei 1896, n°. 12);
 Gezien het nader rapport van den Minister van Justitie van den 11 Juni 1896, n°. 134, 1e afdeeling;
 Hebben goedgevonden en verstaan:    
 
-### Artikel  1  
+###Artikel 1 
 
-1.  Het register bedoeld in [artikel 19 der Faillissementswet](../../../../../../../wet/faillissementswet/BWBR0001860/README.md) wordt ingericht volgens het bij dit besluit behoorende model.   
-2.  Alle inschrijvingen in het register worden door den griffier onderteekend.   
+1. Het register bedoeld in [artikel 19 der Faillissementswet](../../../../../../../wet/faillissementswet/BWBR0001860/README.md) wordt ingericht volgens het bij dit besluit behoorende model.
+2. Alle inschrijvingen in het register worden door den griffier onderteekend.
 
-### Artikel  2  
+###Artikel 2 
 
-Het register wordt kosteloos van wege het Rijk verstrekt.  
+Het register wordt kosteloos van wege het Rijk verstrekt.
 
 De Minister van Justitie is belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan den Raad van State.   
 

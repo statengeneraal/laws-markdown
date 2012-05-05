@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Huurprijzen woonruimte.   
+Wijzigt de Huurprijzen woonruimte.  
 
 ### Artikel  II  
 
-Wijzigt de Wet op de Huurcommissies.   
+Wijzigt de Wet op de Huurcommissies.  
 
 ### Artikel  III  
 
-Wijzigt de Wet individuele huursubsidie.   
+Wijzigt de Wet individuele huursubsidie.  
 
 ### Artikel  IV  
 
@@ -40,10 +40,10 @@ Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle 
 
 Gegeven te 's-Gravenhage 
 19 juni 1996  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-D. K. J. Tommel   
+D. K. J. Tommel    
 
 De Minister van Justitie, 
 W. Sorgdrager   

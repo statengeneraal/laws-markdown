@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan te bepalen:
 
 ### Artikel  1  
 
-De duur der gevangenisstraf als bedoeld in artikel 487, tweede lid, en artikel 501, eerste lid, in verband met artikel 376, eerste lid, van het nieuwe [Wetboek van Strafvordering](../../../../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), wordt bepaald op zes maanden.  
+De duur der gevangenisstraf als bedoeld in artikel 487, tweede lid, en artikel 501, eerste lid, in verband met artikel 376, eerste lid, van het nieuwe [Wetboek van Strafvordering](../../../../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), wordt bepaald op zes maanden. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking tegelijk met het nieuwe [Wetboek van Strafvordering](../../../../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).  
+Dit besluit treedt in werking tegelijk met het nieuwe [Wetboek van Strafvordering](../../../../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md). 
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan den Raad van State.   
 

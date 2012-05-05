@@ -15,4 +15,4 @@ Besluit:     De Stichting Reclassering Nederland, gevestigd te 's-Hertogenbosch,
 
 De 
 Minister van Justitie, 
-W.Sorgdrager    
+W. Sorgdrager      

@@ -14,9 +14,9 @@ Als instellingen voor ontvangst van in bezit genomen splijtstoffen en ertsen als
 
 a. de Nuclear Research and consultancy Group v.o.f. te Petten;  
 
-b. het Rijksinstituut voor Volksgezondheid en Milieuhygiëne te Bilthoven;  
+b.het Rijksinstituut voor Volksgezondheid en Milieuhygiëne te Bilthoven;
 
-c. de Centrale Organisatie Voor Radioactief Afval N.V. te Borsele.    
+c. de Centrale Organisatie Voor Radioactief Afval N.V. te Borsele.   
 
 ### Artikel  2  
 
@@ -26,7 +26,7 @@ a. de Nuclear Research and consultancy Group v.o.f. te Petten;
 
 b. het Rijksinstituut voor Volksgezondheid en Milieuhygiëne te Bilthoven;  
 
-c. de Centrale Organisatie voor Radioactief Afval N.V. te Borsele.    
+c. de Centrale Organisatie voor Radioactief Afval N.V. te Borsele.   
 
 ### Artikel  3  
 
@@ -34,22 +34,22 @@ Het koninklijk besluit van 16 juli 1970, nr. 46, tot uitvoering van [artikel 22,
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 9 oktober 1996  
-Beatrix  
+Beatrix   
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-Margaretha de Boer   
+Margaretha de Boer    
 
 De Minister van Economische Zaken, 
-G. J. Wijers   
+G. J. Wijers    
 
 De Minister van Sociale Zaken en Werkgelegenheid, 
-A. P. W. Melkert   
+A. P. W. Melkert    
 
 De Minister van Volksgezondheid, Welzijn en Sport, 
 E. Borst-Eilers   
@@ -57,4 +57,4 @@ E. Borst-Eilers
 de *eenendertigste* oktober 1996 
 
 De Minister van Justitie, 
-W. Sorgdrager    
+W. Sorgdrager     

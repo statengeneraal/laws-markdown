@@ -17,19 +17,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-Onze Minister kan bepalen, dat het Centraal Fonds voor de Volkshuisvesting vóór 1 oktober 1994 de in [artikel 10, eerste lid, van het Besluit Centraal Fonds voor de Volkshuisvesting](../../../../../../../../../../AMvB/besluit/centraal/fonds/voor/de/volkshuisvesting/BWBR0004418/README.md) bedoelde bijdrage, verschuldigd over 1993, geheel of gedeeltelijk aan de betrokken toegelaten instellingen restitueert, voor zover dit geen afbreuk doet aan een verantwoorde uitvoering van artikel 3 van genoemd besluit.  
+Onze Minister kan bepalen, dat het Centraal Fonds voor de Volkshuisvesting vóór 1 oktober 1994 de in [artikel 10, eerste lid, van het Besluit Centraal Fonds voor de Volkshuisvesting](../../../../../../../../../../AMvB/besluit/centraal/fonds/voor/de/volkshuisvesting/BWBR0004418/README.md) bedoelde bijdrage, verschuldigd over 1993, geheel of gedeeltelijk aan de betrokken toegelaten instellingen restitueert, voor zover dit geen afbreuk doet aan een verantwoorde uitvoering van artikel 3 van genoemd besluit. 
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking met ingang van de dag twee maanden na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag twee maanden na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

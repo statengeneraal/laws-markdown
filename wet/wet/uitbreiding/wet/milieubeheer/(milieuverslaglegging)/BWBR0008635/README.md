@@ -11,23 +11,23 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### ARTIKEL  I  
 
-Wijzigt de Wet milieubeheer.   
+Wijzigt de Wet milieubeheer.  
 
 ### ARTIKEL  II  
 
-Wijzigt de Wet verontreiniging oppervlaktewateren.   
+Wijzigt de Wet verontreiniging oppervlaktewateren.  
 
 ### ARTIKEL  III  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten.  
 
 ### ARTIKEL  IV  
 
-Wijzigt de Wet op de ondernemingsraden.   
+Wijzigt de Wet op de ondernemingsraden.  
 
 ### ARTIKEL  V  
 
-Een milieuverslag als bedoeld in [artikel 12.2, eerste lid, van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) ten behoeve van het publiek en een milieuverslag als bedoeld in artikel 12.4, eerste lid, van die wet ten behoeve van een bestuursorgaan worden voor de eerste maal opgesteld over het verslagjaar 1998. Indien een bepaling, genoemd in de eerste volzin, later in werking treedt dan 1 juli 1997, wordt het betrokken milieuverslag voor de eerste maal opgesteld over het verslagjaar 1999.  
+Een milieuverslag als bedoeld in [artikel 12.2, eerste lid, van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) ten behoeve van het publiek en een milieuverslag als bedoeld in artikel 12.4, eerste lid, van die wet ten behoeve van een bestuursorgaan worden voor de eerste maal opgesteld over het verslagjaar 1998. Indien een bepaling, genoemd in de eerste volzin, later in werking treedt dan 1 juli 1997, wordt het betrokken milieuverslag voor de eerste maal opgesteld over het verslagjaar 1999. 
 
 ### ARTIKEL  VI  
 
@@ -37,15 +37,15 @@ Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle 
 
 Gegeven te 's-Gravenhage 
 10 april 1997  
-Beatrix  
+Beatrix   
 
-De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-Margaretha de Boer   
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
+Margaretha de Boer    
 
 De Minister van Verkeer en Waterstaat, 
 A. Jorritsma-Lebbink   
 
-de *negenentwintigste* april 1997 
+de *negenentwintigste* april 1997  
 
 De Minister van Justitie, 
 W. Sorgdrager    

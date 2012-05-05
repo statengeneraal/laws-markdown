@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder commissie: de toetsingscommissie uittreding zittende magistratuur, genoemd in [artikel VII, vierde en vijfde lid, van de Wet opheffing College van beroep studiefinanciering](../../../../../../../../../../wet/wet/opheffing/college/van/beroep/studiefinanciering/BWBR0011439/README.md) en in [artikel XII, derde en vierde lid, van de Wet organisatie en bestuur gerechten](../../../../../../../../../../wet/wet/organisatie/en/bestuur/gerechten/BWBR0013099/README.md).  
+In dit besluit wordt verstaan onder commissie: de toetsingscommissie uittreding zittende magistratuur, genoemd in [artikel VII, vierde en vijfde lid, van de Wet opheffing College van beroep studiefinanciering](../../../../../../../../../../wet/wet/opheffing/college/van/beroep/studiefinanciering/BWBR0011439/README.md) en in [artikel XII, derde en vierde lid, van de Wet organisatie en bestuur gerechten](../../../../../../../../../../wet/wet/organisatie/en/bestuur/gerechten/BWBR0013099/README.md). 
 
 ### Artikel  2  
 
@@ -28,17 +28,17 @@ b. een lid en een plaatsvervangend lid, aan te wijzen door de Nederlandse Vereni
 c. een lid en een plaatsvervangend lid, zijnde ambtenaar bij het Ministerie van Justitie.     
 2.  De voorzitter, de plaatsvervangend voorzitter, de leden en de plaatsvervangende leden worden door Onze Minister van Justitie benoemd voor een periode van drie jaar.   
 3.  Onze Minister van Justitie benoemt de voorzitter en de plaatsvervangend voorzitter niet dan nadat hij de Nederlandse Vereniging voor Rechtspraak heeft gehoord.   
-4.  De voorzitter, de plaatsvervangend voorzitter, de leden en de plaatsvervangende leden kunnen worden herbenoemd.   
+4.  De voorzitter, de plaatsvervangend voorzitter, de leden en de plaatsvervangende leden kunnen worden herbenoemd.  
 
 ### Artikel  3  
 
 1.  Aan de voorzitter, de plaatsvervangend voorzitter, een lid of een plaatsvervangend lid wordt door Onze Minister van Justitie ontslag verleend op eigen verzoek.   
 2.  Indien de voorzitter, de plaatsvervangend voorzitter, een lid of een plaatsvervangend lid de ingevolge artikel 2, eerste lid, vereiste hoedanigheid verliest, wordt door Onze Minister van Justitie aan hem ontslag verleend.   
-3.  Degene die in de plaats van degene aan wie ontslag als bedoeld in het eerste of tweede lid wordt verleend, wordt benoemd tot voorzitter, plaatsvervangend voorzitter, lid of plaatsvervangend lid, wordt in afwijking van artikel 2, tweede lid, benoemd voor de periode gedurende welke zijn voorganger, gerekend vanaf de datum van zijn ontslag, nog benoemd zou zijn geweest.   
+3.  Degene die in de plaats van degene aan wie ontslag als bedoeld in het eerste of tweede lid wordt verleend, wordt benoemd tot voorzitter, plaatsvervangend voorzitter, lid of plaatsvervangend lid, wordt in afwijking van artikel 2, tweede lid, benoemd voor de periode gedurende welke zijn voorganger, gerekend vanaf de datum van zijn ontslag, nog benoemd zou zijn geweest.  
 
 ### Artikel  4  
 
-Het secretariaat van de commissie wordt verzorgd door ambtenaren bij het Ministerie van Justitie die niet lid of plaatsvervangend lid, bedoeld in artikel 2, eerste lid, onderdeel c, zijn.  
+Het secretariaat van de commissie wordt verzorgd door ambtenaren bij het Ministerie van Justitie die niet lid of plaatsvervangend lid, bedoeld in artikel 2, eerste lid, onderdeel c, zijn. 
 
 ### Artikel  5  
 
@@ -51,7 +51,7 @@ b. een lid of een plaatsvervangend lid als bedoeld in artikel 2, eerste lid, ond
 c. een lid of een plaatsvervangend lid als bedoeld in artikel 2, eerste lid, onderdeel c.     
 2.  De commissie kan degene op wiens verzoek om ontslag de adviesaanvraag betrekking heeft, vragen om zijn verzoek toe te lichten.   
 3.  De commissie kan degene op wiens verzoek om ontslag de adviesaanvraag betrekking heeft of diens functionele autoriteit vragen om inlichtingen te geven.   
-4.  Indien de toelichting van het verzoek, bedoeld in het tweede lid, of het geven van inlichtingen, bedoeld in het derde lid, mondeling geschiedt, wordt hiervan een schriftelijk verslag opgemaakt.   
+4.  Indien de toelichting van het verzoek, bedoeld in het tweede lid, of het geven van inlichtingen, bedoeld in het derde lid, mondeling geschiedt, wordt hiervan een schriftelijk verslag opgemaakt.  
 
 ### Artikel  6  
 
@@ -62,19 +62,19 @@ c. een lid of een plaatsvervangend lid als bedoeld in artikel 2, eerste lid, ond
 
 1.  Binnen zes weken na ontvangst van de adviesaanvraag brengt de commissie haar advies uit aan Onze Minister van Justitie.   
 2.  Onze Minister van Justitie kan de termijn, genoemd in het eerste lid, op verzoek van de commissie met twee weken verlengen.   
-3.  De commissie stelt aan Onze Minister van Justitie schriftelijk verkregen inlichtingen als bedoeld in artikel 5, derde lid, en schriftelijke verslagen als bedoeld in artikel 5, vierde lid, ter beschikking.   
+3.  De commissie stelt aan Onze Minister van Justitie schriftelijk verkregen inlichtingen als bedoeld in artikel 5, derde lid, en schriftelijke verslagen als bedoeld in artikel 5, vierde lid, ter beschikking.  
 
 ### Artikel  8  
 
-De voorzitter, de plaatsvervangend voorzitter, de leden en de plaatsvervangende leden ontvangen een vacatiegeld alsmede een vergoeding van reis- en verblijfkosten volgens de bij het Ministerie van Justitie gebruikelijke regels.  
+De voorzitter, de plaatsvervangend voorzitter, de leden en de plaatsvervangende leden ontvangen een vacatiegeld alsmede een vergoeding van reis- en verblijfkosten volgens de bij het Ministerie van Justitie gebruikelijke regels. 
 
 ### Artikel  9  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 ### Artikel  10  
 
-Dit besluit wordt aangehaald als: Besluit samenstelling en werkwijze toetsingscommissie uittreding zittende magistratuur.  
+Dit besluit wordt aangehaald als: Besluit samenstelling en werkwijze toetsingscommissie uittreding zittende magistratuur. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -88,4 +88,4 @@ A. H. Korthals
 de *eerste* maart 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

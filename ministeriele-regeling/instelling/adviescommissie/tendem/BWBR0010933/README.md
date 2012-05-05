@@ -2,13 +2,13 @@
 
 ##Instelling adviescommissie TENDEM
 
-De Minister van Economische Zaken,  Besluit:    
+De Minister van Economische Zaken,  Besluit:     
 
-### Artikel  1  
+###Artikel  1  
 
-In dit besluit wordt verstaan onder:   a. energieprogramma:  een programma als bedoeld in artikel 2, tweede lid, van het Besluit subsidies energieprogramma’s;    b. TENDEM:  een energieprogramma met de naam Tender Industriële Demonstratie- en Marktintroductieprojecten;    c. tender:  een periode waarin aanvragen om subsidie in het kader van een energieprogramma moeten zijn ontvangen, waarna gelijktijdig op de aanvragen zal worden beslist op basis van een vergelijking van hun geschiktheid om bij te dragen aan de doelstelling van het programma.     
+In dit besluit wordt verstaan onder: a.energieprogramma: een programma als bedoeld in artikel 2, tweede lid, van het Besluit subsidies energieprogramma’s;b.TENDEM: een energieprogramma met de naam Tender Industriële Demonstratie- en Marktintroductieprojecten;c.tender: een periode waarin aanvragen om subsidie in het kader van een energieprogramma moeten zijn ontvangen, waarna gelijktijdig op de aanvragen zal worden beslist op basis van een vergelijking van hun geschiktheid om bij te dragen aan de doelstelling van het programma.  
 
-### Artikel  2  
+###Artikel  2  
 
 1.  Er is een adviescommissie TENDEM die tot taak heeft Novem op haar verzoek te adviseren omtrent aanvragen in het kader van het energieprogramma TENDEM.   
 2.  De commissie bestaat uit een voorzitter en ten minste vier en ten hoogste acht andere leden.   
@@ -19,33 +19,33 @@ In dit besluit wordt verstaan onder:   a. energieprogramma:  een programma als b
 7.  In het secretariaat van de commissie wordt door Novem voorzien.   
 8.  Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt op overeenkomstige wijze als bij Novem. De bescheiden worden na beëindiging van de werkzaamheden van de commissie opgeborgen in het archief van Novem.   
 
-### Artikel  3  
+###Artikel  3  
 
 Ter gelegenheid van de instelling van de adviescommissie TENDEM worden, te rekenen vanaf 11 oktober 1999, voor een periode van twee jaar als leden benoemd: 
 
-a. ir. J.L. Klei te ’s-Gravenhage, voorzitter;  
+a.  ir. J.L. Klei te ’s-Gravenhage, voorzitter; 
 
-b. mevr. ing. M.C. Kalf te Velp;  
+b.  mevr. ing. M.C. Kalf te Velp; 
 
-c. ir. T.G. Potma te Kaageiland;  
+c.  ir. T.G. Potma te Kaageiland; 
 
-d. ir. E. van Buuren te Beverwijk;  
+d.  ir. E. van Buuren te Beverwijk; 
 
-e. ir. J.G. ten Wolde te Naarden;  
+e.  ir. J.G. ten Wolde te Naarden; 
 
-f. ir. M.A.M. Splinter te Nuenen;  
+f.  ir. M.A.M. Splinter te Nuenen; 
 
-g. prof. ir. G. Honderd te Delft;  
+g.  prof. ir. G. Honderd te Delft; 
 
-h. ir. E. van Andel te Boekelo.    
+h.  ir. E. van Andel te Boekelo.   
 
-### Artikel  4  
+###Artikel  4  
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
 
-### Artikel  5  
+###Artikel  5  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit adviescommissie TENDEM.  
+Dit besluit wordt aangehaald als: Instellingsbesluit adviescommissie TENDEM. 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -53,4 +53,4 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 De 
 Minister van Economische Zaken, 
-A.Jorritsma-Lebbink    
+A. Jorritsma-Lebbink      

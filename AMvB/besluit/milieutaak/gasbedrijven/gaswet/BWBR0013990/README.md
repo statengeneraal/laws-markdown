@@ -19,22 +19,22 @@ In dit besluit wordt verstaan onder:
 
 a. wet: [Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md);  
 
-b.  vervallen;   
+b. vervallen;  
 
-c. rapportage: melding als bedoeld in [artikel 40, tweede lid, van de wet](../../../../../../wet/gaswet/BWBR0011440/README.md).    
+c. rapportage: melding als bedoeld in [artikel 40, tweede lid, van de wet](../../../../../../wet/gaswet/BWBR0011440/README.md).   
 
 ### Artikel  3  
 
 1.  In de rapportage geeft het gasbedrijf aan of en zo ja, welk onderzoek is verricht op het gebied van doelmatig en milieuhygiënisch verantwoord gebruik van gas, welke kosten aan het onderzoek zijn verbonden en wat de resultaten van het onderzoek zijn.   
-2.   Vervallen.    
+2.  Vervallen.  
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als: Besluit milieutaak gasbedrijven Gaswet.  
+Dit besluit wordt aangehaald als: Besluit milieutaak gasbedrijven Gaswet. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -48,4 +48,4 @@ H. Ph. J. B. Heinsbroek
 de *zeventiende* september 2002 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

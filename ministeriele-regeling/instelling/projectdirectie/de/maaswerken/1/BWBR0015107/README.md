@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Instelling Projectdirectie De Maaswerken 1
+##Instelling Projectdirectie De Maaswerken 1 
 
 De Minister van Verkeer en Waterstaat,  
 Gelet op [artikel 8 van het Organiek Besluit Rijkswaterstaat](../../../../../../../AMvB/organiek/besluit/rijkswaterstaat/BWBR0002743/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -15,7 +15,7 @@ Besluit:
 
 ### Artikel  1a  
 
-Dit besluit berust mede op [artikel 2, tweede lid, van het Instellingsbesluit directoraat generaal Rijkswaterstaat](../../../../../../../ministeriele-regeling/instellingsbesluit/directoraat-generaal/rijkswaterstaat/BWBR0026953/README.md).  
+Dit besluit berust mede op [artikel 2, tweede lid, van het Instellingsbesluit directoraat generaal Rijkswaterstaat](../../../../../../../ministeriele-regeling/instellingsbesluit/directoraat-generaal/rijkswaterstaat/BWBR0026953/README.md). 
 
 ### Artikel  2  
 
@@ -23,13 +23,13 @@ Dit besluit berust mede op [artikel 2, tweede lid, van het Instellingsbesluit di
 
 De projectdirectie heeft tot taak het realiseren van: 
 
-a. het gewenste beschermingsniveau tegen hoogwater in de Maas;  
+a.  het gewenste beschermingsniveau tegen hoogwater in de Maas;  
 
-b. natuurontwikkeling;  
+b.  natuurontwikkeling;  
 
-c. grindwinning, en  
+c.  grindwinning, en  
 
-d. verbetering van de vaarroute,   een en ander als een duurzaam concept met een goede en evenwichtige integratie van alle belangen in het gebied, waaronder de landbouw, de recreatie, de zand- en grindwinning en de drinkwatervoorziening.  
+d.  verbetering van de vaarroute,   een en ander als een duurzaam concept met een goede en evenwichtige integratie van alle belangen in het gebied, waaronder de landbouw, de recreatie, de zand- en grindwinning en de drinkwatervoorziening.  
 
 ### Artikel  3  
 
@@ -37,22 +37,22 @@ d. verbetering van de vaarroute,   een en ander als een duurzaam concept met een
 
 De projectdirectie bestaat uit: 
 
-a. de projectdirecteur;  
+a.  de projectdirecteur;  
 
-b. de groep Plan- en besluitvorming;  
+b.  de groep Plan- en besluitvorming;  
 
-c. realisatiegroepen;  
+c.  realisatiegroepen;  
 
-d. stafbureaus en  
+d.  stafbureaus en  
 
-e. de controller.    
+e.  de controller.    
 
 ### Artikel  4  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant, waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant, waarin het wordt geplaatst. 
 
 De 
 Minister van Verkeer en Waterstaat, 
-Roelf H. deBoer    
+Roelf H. de Boer     

@@ -15,25 +15,25 @@ Hebben goedgevonden en verstaan:
 
 ### ARTIKEL  I  
 
-Wijzigt het Besluit voorkoming olieverontreiniging door schepen.   
+Wijzigt het Besluit voorkoming olieverontreiniging door schepen.  
 
 ### ARTIKEL  II  
 
-Wijzigt het Besluit voorkoming verontreiniging door met schepen in bulk vervoerde schadelijke vloeistoffen.   
+Wijzigt het Besluit voorkoming verontreiniging door met schepen in bulk vervoerde schadelijke vloeistoffen.  
 
 ### ARTIKEL  III  
 
-Zolang zij hun geldigheid niet hebben verloren, blijven op certificaten die zijn afgegeven krachtens het [Besluit voorkoming olieverontreiniging door schepen](../../../../../../../../../AMvB/besluit/voorkoming/olieverontreiniging/door/schepen/BWBR0003936/README.md) en het [Besluit voorkoming verontreiniging door met schepen in bulk vervoerde schadelijke vloeistoffen](../../../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/met/schepen/in/bulk/vervoerde/etc/BWBR0004306/README.md), deze besluiten van toepassing, zoals deze luidden voor de inwerkingtreding van dit besluit.  
+Zolang zij hun geldigheid niet hebben verloren, blijven op certificaten die zijn afgegeven krachtens het [Besluit voorkoming olieverontreiniging door schepen](../../../../../../../../../AMvB/besluit/voorkoming/olieverontreiniging/door/schepen/BWBR0003936/README.md) en het [Besluit voorkoming verontreiniging door met schepen in bulk vervoerde schadelijke vloeistoffen](../../../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/met/schepen/in/bulk/vervoerde/etc/BWBR0004306/README.md), deze besluiten van toepassing, zoals deze luidden voor de inwerkingtreding van dit besluit. 
 
 ### ARTIKEL  IV  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 
 's-Gravenhage 
 6 december 1996  
-Beatrix  
+Beatrix   
 
 De Minister van Verkeer en Waterstaat, 
 A. Jorritsma-Lebbink   
@@ -41,4 +41,4 @@ A. Jorritsma-Lebbink
 de *twintigste* december 1996 
 
 De Minister van Justitie, 
-W. Sorgdrager    
+W. Sorgdrager     

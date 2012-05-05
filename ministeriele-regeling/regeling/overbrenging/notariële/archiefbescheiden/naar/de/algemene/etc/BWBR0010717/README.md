@@ -4,11 +4,11 @@
 
 De Staatssecretaris van Justitie;  
 Gelet op artikel 58, derde lid, van de Wet op het notarisambt,
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. wet:  de Wet op het notarisambt;    b. algemene bewaarplaats:  de algemene bewaarplaats, bedoeld in artikel 57, eerste lid, van de wet;    c. bewaarder:  de bewaarder, bedoeld in artikel 57, tweede lid van de wet.     
+In deze regeling wordt verstaan onder: a.  wet:   de Wet op het notarisambt;  b. algemene bewaarplaats:   de algemene bewaarplaats, bedoeld in artikel 57, eerste lid, van de wet;  c. bewaarder:   de bewaarder, bedoeld in artikel 57, tweede lid van de wet.    
 
 ### Artikel  2  
 
@@ -24,7 +24,7 @@ Deze regeling treedt in werking op het tijdstip waarop artikel 58 van de wet in 
 
 ### Artikel  5  
 
-Deze regeling wordt aangehaald als: Regeling overbrenging notariële archiefbescheiden naar de algemene bewaarplaats.  
+Deze regeling wordt aangehaald als: Regeling overbrenging notariële archiefbescheiden naar de algemene bewaarplaats. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -32,4 +32,4 @@ Den Haag
 
 De 
 Staatssecretaris van Justitie, 
-A.H.Korthals    
+A.H. Korthals      

@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### ARTIKEL  I  
 
-Wijzigt de Wet milieubeheer.   
+Wijzigt de Wet milieubeheer.  
 
 ### ARTIKEL  II  
 
-Indien voor het tijdstip waarop deze wet in werking treedt, met betrekking tot een activiteit als bedoeld in [artikel 7.2](../../../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of [7.4](../../../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), 
+Indien voor het tijdstip waarop deze wet in werking treedt, met betrekking tot een activiteit als bedoeld in [artikel 7.2](../../../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of [7.4](../../../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md),  
 
 a. een aanvraag als bedoeld in [artikel 7.28](../../../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is ingediend of door het bevoegd gezag ingevolge artikel [7.8d, vierde lid](../../../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), van een beslissing mededeling is gedaan, of  
 
-b. mededeling is gedaan van een ontwerp onderscheidenlijk een voorontwerp van een besluit bij de voorbereiding waarvan een milieu-effectrapport moet worden gemaakt en dit ontwerp onderscheidenlijk dit voorontwerp ter inzage is gelegd,   blijft het voor dat tijdstip geldende recht van toepassing.  
+b. mededeling is gedaan van een ontwerp onderscheidenlijk een voorontwerp van een besluit bij de voorbereiding waarvan een milieu-effectrapport moet worden gemaakt en dit ontwerp onderscheidenlijk dit voorontwerp ter inzage is gelegd,   blijft het voor dat tijdstip geldende recht van toepassing. 
 
 ### ARTIKEL  III  
 
@@ -29,10 +29,10 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Gegeven te 's-Gravenhage 
 29 april 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J. P. Pronk   
+J. P. Pronk    
 
 De Minister van Landbouw, Natuurbeheer en Visserij, 
 H. H. Apotheker   

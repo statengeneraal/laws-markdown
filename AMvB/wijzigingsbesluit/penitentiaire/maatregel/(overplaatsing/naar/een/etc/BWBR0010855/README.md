@@ -15,21 +15,21 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt de Penitentiaire maatregel.   
+Wijzigt de Penitentiaire maatregel.  
 
 ### Artikel  II  
 
-Artikel 42 is alleen van toepassing op veroordeelden waarvan de rechterlijke uitspraak onherroepelijk is geworden na 2 oktober 1997.  
+Artikel 42 is alleen van toepassing op veroordeelden waarvan de rechterlijke uitspraak onherroepelijk is geworden na 2 oktober 1997. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 12 november 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Justitie, 
 A. H. Korthals   
@@ -37,4 +37,4 @@ A. H. Korthals
 drieëntwintigste november 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

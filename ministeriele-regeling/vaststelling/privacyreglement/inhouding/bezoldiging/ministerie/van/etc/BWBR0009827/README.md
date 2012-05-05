@@ -8,7 +8,7 @@ Overwegende dat ingevolge de artikelen 19, 20 en 22 van de Wet Persoonsregistrat
 Overwegende dat het in het kader van de reorganisatie van het Ministerie van Justitie in engere zin (op weg naar het bestuursdepartement) het wenselijk wordt geacht het privacyreglement registratie inhouding bezoldiging bij het Ministerie van Justitie dd. 31 december 1992, zoals dat sedert 1 januari 1993 van kracht is, te vervangen;
 
 Gehoord de Bijzondere Commissie van overleg Ministerie van Justitie;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -28,7 +28,7 @@ Dit besluit treedt in werking met ingang van 1 november 1998.
 
 ### Artikel  5  
 
-Het in artikel 1 bedoelde reglement kan worden aangehaald als: Privacyreglement registratie inhouding bezoldiging bij het Ministerie van Justitie 1998.  
+Het in artikel 1 bedoelde reglement kan worden aangehaald als: Privacyreglement registratie inhouding bezoldiging bij het Ministerie van Justitie 1998. 
 
 ’s-Gravenhage 
 31 juli 1998    
@@ -36,4 +36,4 @@ Het in artikel 1 bedoelde reglement kan worden aangehaald als: Privacyreglement 
 De 
 Ministerie van Justitie, Namens deze, De 
 plv. secretaris-generaal, 
-H.W.M.Schoof    
+H.W.M. Schoof      

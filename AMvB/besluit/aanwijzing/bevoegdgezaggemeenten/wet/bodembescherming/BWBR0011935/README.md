@@ -51,7 +51,7 @@ p. ‘s-Hertogenbosch,
 
 q. Leeuwarden,  
 
-r. Leiden,  
+r. Leiden,   
 
 s. Maastricht,  
 
@@ -65,7 +65,7 @@ w. Venlo,
 
 x. Zaanstad en  
 
-y. Zwolle    
+y.Zwolle 
 
 ### Artikel  2  
 
@@ -75,11 +75,11 @@ y. Zwolle
 4.  Artikel 1, onderdelen b, c, h, j, n, o, p, r, s en w, treedt in werking met ingang van 1 januari 2002.   
 5.  Artikel 1, onderdeel t, treedt in werking met ingang van 1 oktober 2002.   
 6.  Artikel 1, onderdelen a, e, f, g, i, k en q, treedt in werking met ingang van 1 januari 2003.   
-7.  Artikel 1, onderdeel u, treedt in werking met ingang van 1 januari 2004.   
+7.  Artikel 1, onderdeel u, treedt in werking met ingang van 1 januari 2004.  
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Besluit aanwijzing bevoegdgezaggemeenten Wet bodembescherming.  
+Dit besluit wordt aangehaald als: Besluit aanwijzing bevoegdgezaggemeenten Wet bodembescherming. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -93,4 +93,4 @@ J. P. Pronk
 de *eenentwintigste* december 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

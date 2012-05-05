@@ -17,16 +17,16 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
 1.  Indien met betrekking tot op de in het tweede lid genoemde tijdstip in behandeling zijnde verzoeken tot naturalisatie reeds het voor naturalisatie verschuldigde bedrag is voldaan volgens het tot dan toe geldende tarief, behoeft geen bijbetaling plaats te vinden, noch zal restitutie plaatsvinden.   
-2.  Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.   
+2.   Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
 
 Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad*, in het *Publicatieblad van de Nederlandse Antillen* en in het *Afkondigingsblad van Aruba* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State van het Koninkrijk en aan de Algemene Rekenkamer.   
 

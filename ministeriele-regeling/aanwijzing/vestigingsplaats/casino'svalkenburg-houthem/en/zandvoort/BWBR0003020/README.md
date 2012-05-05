@@ -12,20 +12,20 @@ Besluiten:
 
 ### Artikel  1  
 
-Valkenburg-Houthem en Zandvoort worden aangewezen als gemeenten waarvoor bij de Organisatiebeschikking casinospelen (Stcrt. 1975, 252) vergunning is verleend tot het organiseren van een speelcasino.  
+Valkenburg-Houthem en Zandvoort worden aangewezen als gemeenten waarvoor bij de Organisatiebeschikking casinospelen (Stcrt. 1975, 252) vergunning is verleend tot het organiseren van een speelcasino. 
 
 ### Artikel  2  
 
-Deze beschikking wordt in de Staatscourant bekendgemaakt en treedt in werking met ingang van de dag na die van haar bekendmaking.  
+Deze beschikking wordt in de Staatscourant bekendgemaakt en treedt in werking met ingang van de dag na die van haar bekendmaking. 
 
 19 februari 1976    
 
 De 
-Staatssecretaris van Justitie, 
+Staatssecretaris van Justitie,  
 
-H.J. Zeevalking   
+H.J.Zeevalking  
 
 De 
 Staatssecretaris van Economische Zaken, 
 
-Th. M. Hazekamp      
+Th. M.  Hazekamp     

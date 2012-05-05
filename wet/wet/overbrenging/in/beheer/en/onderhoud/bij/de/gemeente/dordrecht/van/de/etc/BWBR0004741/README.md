@@ -11,21 +11,21 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-1.  Het Rijk brengt in beheer en onderhoud over bij de gemeente Dordrecht: 
+1.  Het Rijk brengt in beheer en onderhoud over bij de gemeente Dordrecht:  
 
 a. de Krabbegeul;  
 
 b. het Mallegat, voor zoveel gelegen tussen de daarin aangebrachte afsluitdammen; een en ander met bijbehorende werken.     
-2.  De in het eerste lid omschreven waterstaatswerken zijn met een arcering aangegeven op de bij deze wet behorende tekening.   
-3.  Het beheer en onderhoud van de in het eerste lid omschreven waterstaatswerken worden overgebracht voor zoveel deze bij het Rijk berusten.   
+2.   De in het eerste lid omschreven waterstaatswerken zijn met een arcering aangegeven op de bij deze wet behorende tekening.   
+3.   Het beheer en onderhoud van de in het eerste lid omschreven waterstaatswerken worden overgebracht voor zoveel deze bij het Rijk berusten.  
 
 ### Artikel  2  
 
-De gemeente Dordrecht treedt door de overbrenging in beheer en onderhoud van de in artikel 1 omschreven waterstaatswerken tegenover derden in de rechten en verplichtingen van het Rijk te dier zake.  
+De gemeente Dordrecht treedt door de overbrenging in beheer en onderhoud van de in artikel 1 omschreven waterstaatswerken tegenover derden in de rechten en verplichtingen van het Rijk te dier zake. 
 
 ### Artikel  3  
 
-De overbrenging in beheer en onderhoud van de in artikel 1 omschreven waterstaatswerken bij de gemeente Dordrecht geschiedt om niet.  
+De overbrenging in beheer en onderhoud van de in artikel 1 omschreven waterstaatswerken bij de gemeente Dordrecht geschiedt om niet. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

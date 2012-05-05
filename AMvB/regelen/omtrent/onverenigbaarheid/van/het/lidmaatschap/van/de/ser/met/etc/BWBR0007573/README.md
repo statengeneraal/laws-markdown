@@ -17,7 +17,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Het lidmaatschap en het plaatsvervangend-lidmaatschap van de Sociaal-Economische Raad zijn onverenigbaar met de functie van: 
+Het lidmaatschap en het plaatsvervangend-lidmaatschap van de Sociaal-Economische Raad zijn onverenigbaar met de functie van:  
 
 a. Minister, Staatssecretaris of vice-president of lid van de Raad van State;  
 
@@ -25,20 +25,20 @@ b. senior raadsheer, raadsheer, raadsheer-plaatsvervanger, senior-gerechtsaudite
 
 c.  vervallen;   
 
-d. secretaris of ander lid van het personeel van de Sociaal-Economische Raad.    
+d. secretaris of ander lid van het personeel van de Sociaal-Economische Raad.   
 
 ### Artikel  2  
 
 1.  Het lid of plaatsvervangend lid van de Sociaal-Economische Raad, dat een aanvang maakt met de vervulling van een functie als in artikel 1, onder a-d, bedoeld, houdt daardoor van rechtswege op lid, onderscheidenlijk plaatsvervangend lid van die Raad te zijn.   
-2.  Degene, die een functie als in artikel 1, onder a-d, bedoeld vervult, kan niet als lid of plaatsvervangend lid zitting nemen in de Sociaal-Economische Raad.   
+2.   Degene, die een functie als in artikel 1, onder a-d, bedoeld vervult, kan niet als lid of plaatsvervangend lid zitting nemen in de Sociaal-Economische Raad.  
 
 ### Artikel  3  
 
-Artikel 1, onder b en c, en artikel 2, eerste lid, voor zover dit op de in artikel 1, onder b en c, bedoelde functies betrekking heeft, blijven ten aanzien van de bij het in werking treden van dit besluit zitting hebbende leden en plaatsvervangende leden van de Sociaal-Economische Raad buiten toepassing tot 1 April 1956.  
+Artikel 1, onder b en c, en artikel 2, eerste lid, voor zover dit op de in artikel 1, onder b en c, bedoelde functies betrekking heeft, blijven ten aanzien van de bij het in werking treden van dit besluit zitting hebbende leden en plaatsvervangende leden van de Sociaal-Economische Raad buiten toepassing tot 1 April 1956. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad*, waarin het is geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad*, waarin het is geplaatst. 
 
 Onze Minister voor Publiekrechtelijke Bedrijfsorganisatie is belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.   
 

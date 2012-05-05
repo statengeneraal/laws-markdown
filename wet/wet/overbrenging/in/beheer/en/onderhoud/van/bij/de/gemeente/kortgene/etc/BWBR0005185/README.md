@@ -12,16 +12,16 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 ### Artikel  1  
 
 1.  Het Rijk brengt bij de gemeente Kortgene in beheer en onderhoud over de in die gemeente gelegen voormalige Vissershaven te Colijnsplaat met bijbehorende werken.   
-2.  De in het eerste lid bedoelde waterstaatswerken zijn aangegeven op de bij deze wet behorende tekening.   
-3.  Het beheer en onderhoud van de in het eerste lid bedoelde waterstaatswerken worden overgebracht voor zoveel deze bij het Rijk berusten.   
+2.   De in het eerste lid bedoelde waterstaatswerken zijn aangegeven op de bij deze wet behorende tekening.   
+3.   Het beheer en onderhoud van de in het eerste lid bedoelde waterstaatswerken worden overgebracht voor zoveel deze bij het Rijk berusten.  
 
 ### Artikel  2  
 
-De gemeente Kortgene treedt door de overbrenging in beheer en onderhoud van de in artikel 1 bedoelde waterstaatswerken tegenover derden in de rechten en verplichtingen van het Rijk te dier zake.  
+De gemeente Kortgene treedt door de overbrenging in beheer en onderhoud van de in artikel 1 bedoelde waterstaatswerken tegenover derden in de rechten en verplichtingen van het Rijk te dier zake. 
 
 ### Artikel  3  
 
-Wegens de overbrenging in beheer en onderhoud bij de gemeente Kortgene van de in artikel 1 bedoelde waterstaatswerken vergoedt het Rijk aan die gemeente een bedrag van f 4 035 655.  
+Wegens de overbrenging in beheer en onderhoud bij de gemeente Kortgene van de in artikel 1 bedoelde waterstaatswerken vergoedt het Rijk aan die gemeente een bedrag van f 4 035 655. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

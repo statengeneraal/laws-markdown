@@ -11,11 +11,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Artikel I is ook van toepassing op werken als bedoeld in artikel 10, eerste lid, onder 12°, die vóór 1 januari 1993 zijn vervaardigd, onverminderd vóór dat tijdstip verrichte handelingen en verworven rechten.  
+Artikel I is ook van toepassing op werken als bedoeld in artikel 10, eerste lid, onder 12°, die vóór 1 januari 1993 zijn vervaardigd, onverminderd vóór dat tijdstip verrichte handelingen en verworven rechten. 
 
 Lasten en bevelen, dat deze in het *Staatsblad* zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

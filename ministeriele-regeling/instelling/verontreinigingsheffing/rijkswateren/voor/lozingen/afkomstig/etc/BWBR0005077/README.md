@@ -10,13 +10,13 @@ Gezien het verzoek van Burgemeester en Wethouders van de Gemeente Hasselt d.d. 2
 Overwegende, dat het hiervoor vermelde openbaar lichaam met behulp van een werk, afvalstoffen, verontreinigende of schadelijke stoffen in rijkswateren brengt, zonder voorafgaande zuivering zijnerzijds;
 Besluit:    
 
-### Artikel  1  
+###Artikel  1  
 
-Degenen die afvalstoffen, verontreinigende of schadelijke stoffen afkomstig van bedrijfsruimten lozen op een werk van het hiervoor genoemde openbaar lichaam worden aan de [verontreinigingsheffing rijkswateren](../../../../../../../../../ministeriele-regeling/verontreinigingsheffing/rijkswateren/BWBR0002791/README.md) onderworpen, zolang en voorzover dit openbaar lichaam deze stoffen zonder voorafgaande zuivering zijnerzijds in rijkswateren brengt.  
+Degenen die afvalstoffen, verontreinigende of schadelijke stoffen afkomstig van bedrijfsruimten lozen op een werk van het hiervoor genoemde openbaar lichaam worden aan de [verontreinigingsheffing rijkswateren](../../../../../../../../../ministeriele-regeling/verontreinigingsheffing/rijkswateren/BWBR0002791/README.md) onderworpen, zolang en voorzover dit openbaar lichaam deze stoffen zonder voorafgaande zuivering zijnerzijds in rijkswateren brengt. 
 
-### Artikel  2  
+###Artikel  2  
 
-Deze beschikking zal worden geplaatst in de Nederlandse Staatscourant.  
+Deze beschikking zal worden geplaatst in de Nederlandse Staatscourant. 
 
 's-Gravenhage 
 7 mei 1991    
@@ -25,8 +25,8 @@ De
 Minister voornoemd, 
 
 namens de 
-minister, 
+minister,
 
 De 
 directeur-generaal van de Rijkswaterstaat, 
-J. R.Hoogland, I.D.-G    
+J. R. Hoogland , I.D.-G    

@@ -11,28 +11,28 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### ARTIKEL  I  
 
-Wijzigt de Wegenverkeerswet 1994.   
+Wijzigt de Wegenverkeerswet 1994.  
 
 ### ARTIKEL  II  
 
-Indien het bij koninklijke boodschap van 9 maart 1995 ingediende voorstel van wet houdende wijziging van de [Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) (24 112) ten tijde van de inwerkingtreding van deze wet reeds tot wet is verheven en in werking is getreden, wordt in Artikel I, onderdeel B, «Artikel 164, zevende lid, tweede volzin» vervangen door: Artikel 164, zesde lid, tweede volzin.  
+Indien het bij koninklijke boodschap van 9 maart 1995 ingediende voorstel van wet houdende wijziging van de [Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) (24 112) ten tijde van de inwerkingtreding van deze wet reeds tot wet is verheven en in werking is getreden, wordt in Artikel I, onderdeel B, «Artikel 164, zevende lid, tweede volzin» vervangen door: Artikel 164, zesde lid, tweede volzin. 
 
 ### ARTIKEL  III  
 
-Op overtredingen als bedoeld in [artikel 170, eerste lid, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), begaan vóór het tijdstip waarop deze wet in werking treedt, blijven de vóór dat tijdstip geldende bepalingen van toepassing.  
+Op overtredingen als bedoeld in [artikel 170, eerste lid, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), begaan vóór het tijdstip waarop deze wet in werking treedt, blijven de vóór dat tijdstip geldende bepalingen van toepassing. 
 
 ### ARTIKEL  IV  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te Lech 
 21 februari 1997  
-Beatrix  
+Beatrix   
 
 De Minister van Verkeer en Waterstaat, 
-A. Jorritsma-Lebbink   
+A. Jorritsma-Lebbink    
 
 De Minister van Justitie, 
 W. Sorgdrager   

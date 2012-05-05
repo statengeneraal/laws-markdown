@@ -8,15 +8,15 @@ Besluit:
 
 ### Artikel  1  
 
-Bij de controle aangetroffen wapens, explosieven of andere voorwerpen en stoffen, die de veiligheid en de gezondheid van personen kunnen bedreigen, worden zodanig verpakt dat zij niet voor onmiddellijk gebruik kunnen worden aangewend en buiten het bereik van de passagiers opgeborgen.  
+Bij de controle aangetroffen wapens, explosieven of andere voorwerpen en stoffen, die de veiligheid en de gezondheid van personen kunnen bedreigen, worden zodanig verpakt dat zij niet voor onmiddellijk gebruik kunnen worden aangewend en buiten het bereik van de passagiers opgeborgen. 
 
 ### Artikel  2  
 
-Deze beschikking treedt in werking op 1 oktober 1991.  
+Deze beschikking treedt in werking op 1 oktober 1991. 
 
 ### Artikel  3  
 
-Deze beschikking zal worden gepubliceerd in de Nederlandse Staatscourant en het Algemeen Politieblad.  
+Deze beschikking zal worden gepubliceerd in de Nederlandse Staatscourant en het Algemeen Politieblad. 
 
 's-Gravenhage 
 15 juli 1991    
@@ -29,4 +29,4 @@ Namens de minister,
 De 
 Directeur-generaal Politie en Criminaliteitsbestrijding, 
 
-J. J. H. Suyver      
+J. J. H. Suyver     

@@ -6,7 +6,7 @@ De Minister van Verkeer en Waterstaat,
 Handelende in overeenstemming met de Minister van Binnenlandse Zaken;
 
 Gelet op [artikel 12](../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) juncto [artikel 25, eerste lid van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren](../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -25,11 +25,11 @@ De [artikelen 5](../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke
 
 ### Artikel  4  
 
-Dit besluit treedt in werking op de dag na die van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit, waarvan afschrift zal worden verzonden aan de minister van Binnenlandse Zaken, kan worden aangehaald als Salarisbesluit werkervaringsplaatsen ministerie van Verkeer en Waterstaat.  
+Dit besluit treedt in werking op de dag na die van uitgifte van de Staatscourant waarin het wordt geplaatst. Dit besluit, waarvan afschrift zal worden verzonden aan de minister van Binnenlandse Zaken, kan worden aangehaald als Salarisbesluit werkervaringsplaatsen ministerie van Verkeer en Waterstaat. 
 
 ’s-Gravenhage 
 23 december 1996    
 
 De 
 Minister van Verkeer en Waterstaat, 
-A.Jorritsma-Lebbink    
+A. Jorritsma-Lebbink      

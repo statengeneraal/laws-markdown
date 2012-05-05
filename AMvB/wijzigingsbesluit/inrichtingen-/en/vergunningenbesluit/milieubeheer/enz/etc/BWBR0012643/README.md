@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 3 maart 2000, nr. MJZ 2000024026, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
 
-Gelet op richtlijn nr. 1999/31/EG van de Raad van de Europese Unie van 26 april 1999, betreffende het storten van afvalstoffen (PbEG L 182) alsmede op de [artikelen 1.1, eerste en tiende lid](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.2, tweede lid](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.5, eerste lid](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.15, eerste lid](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.25, tweede lid](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.44, eerste lid](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.45, eerste lid](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en [10.2, tweede lid, van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op richtlijn nr. 1999/31/EG van de Raad van de Europese Unie van 26 april 1999, betreffende het storten van afvalstoffen (PbEG L 182) alsmede op de [artikelen 1.1, eerste en tiende lid](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.2, tweede lid](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.5, eerste lid](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.15, eerste lid](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md),[ 8.25, tweede lid](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.44, eerste lid](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [8.45, eerste lid](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en [10.2, tweede lid, van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
 
 De Raad van State gehoord (advies van 6 juni 2000, nr. WO8.00.0099/v);
 
@@ -14,26 +14,32 @@ Gezien het nader rapport van Onze Minister van Volkshuisvesting, Ruimtelijke Ord
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  l  
+Materieel uitgewerkt per 16-07-2011 
 
-Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer.   
+Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer.  
 
 ### Artikel  ll  
+Materieel uitgewerkt per 16-07-2011 
 
-Wijzigt het Stortbesluit bodembescherming.   
+Wijzigt het Stortbesluit bodembescherming.  
 
 ### Artikel  lll  
+Materieel uitgewerkt per 16-07-2011 
 
-Wijzigt het Besluit stortverbod afvalstoffen.   
+Wijzigt het Besluit stortverbod afvalstoffen.  
 
 ### Artikel  lV  
+Materieel uitgewerkt per 16-07-2011 
 
-Wijzigt het Besluit aanwijzing gevaarlijke afvalstoffen.   
+Wijzigt het Besluit aanwijzing gevaarlijke afvalstoffen.  
 
 ### Artikel  V  
+Materieel uitgewerkt per 16-07-2011 
 
-Wijzigt het Besluit vrijstellingen stortverbod buiten inrichtingen.   
+Wijzigt het Besluit vrijstellingen stortverbod buiten inrichtingen.  
 
 ### Artikel  Vl  
+Materieel uitgewerkt per 16-07-2011 
 
 1.  Degene die op het tijdstip van inwerkingtreding van dit besluit vergunninghouder is van een stortplaats als bedoeld in [artikel 1 van het Stortbesluit bodembescherming](../../../../../../../../../AMvB/stortbesluit/bodembescherming/BWBR0005858/README.md), dient voor 16 juli 2002 bij het bevoegd gezag een plan in dat de in het derde lid bedoelde gegevens bevat.   
 2.  Indien voor 16 juli 2002 geen plan is ingediend, trekt het bevoegd gezag zo spoedig mogelijk doch voor 16 juli 2009 de vergunning, bedoeld in [artikel 1 van het Stortbesluit bodembescherming](../../../../../../../../../AMvB/stortbesluit/bodembescherming/BWBR0005858/README.md), in.   
@@ -45,15 +51,17 @@ Wijzigt het Besluit vrijstellingen stortverbod buiten inrichtingen.
 a. voor stortplaatsen die op het tijdstip van inwerkingtreding van dit besluit in werking zijn: de verboden met betrekking tot de [categorieën 33 tot en met 35 van artikel 1, eerste lid, van het Besluit stortplaatsen en stortverboden afvalstoffen](../../../../../../../../../AMvB/besluit/stortverbod/afvalstoffen/BWBR0009094/README.md);  
 
 b. voor stortplaatsen voor gevaarlijke afvalstoffen die op het tijdstip van inwerkingtreding van dit besluit in werking zijn: de [artikelen 11b, eerste lid, onderdeel b, en derde lid](../../../../../../../../../AMvB/besluit/stortverbod/afvalstoffen/BWBR0009094/README.md), [11c](../../../../../../../../../AMvB/besluit/stortverbod/afvalstoffen/BWBR0009094/README.md), [11d, van het Besluit stortplaatsen en stortverboden afvalstoffen](../../../../../../../../../AMvB/besluit/stortverbod/afvalstoffen/BWBR0009094/README.md) en de bijlagen I en II bij dat besluit.     
-7.  Met ingang van 16 juli 2004 is [artikel 11b, eerste lid, onderdeel a, en tweede lid, van Besluit stortplaatsen en stortverboden afvalstoffen](../../../../../../../../../AMvB/besluit/stortverbod/afvalstoffen/BWBR0009094/README.md) toepassing op stortplaatsen voor gevaarlijke afvalstoffen, die in werking zijn op het tijdstip van inwerkingtreding van dit besluit.   
+7.  Met ingang van 16 juli 2004 is [artikel 11b, eerste lid, onderdeel a, en tweede lid, van Besluit stortplaatsen en stortverboden afvalstoffen](../../../../../../../../../AMvB/besluit/stortverbod/afvalstoffen/BWBR0009094/README.md) toepassing op stortplaatsen voor gevaarlijke afvalstoffen, die in werking zijn op het tijdstip van inwerkingtreding van dit besluit.  
 
 ### Artikel  Vll  
+Materieel uitgewerkt per 16-07-2011 
 
-De teksten van het [Besluit stortplaatsen en stortverboden afvalstoffen](../../../../../../../../../AMvB/besluit/stortverbod/afvalstoffen/BWBR0009094/README.md) en van het [Stortbesluit bodembescherming](../../../../../../../../../AMvB/stortbesluit/bodembescherming/BWBR0005858/README.md) worden in het Staatsblad geplaatst.  
+De teksten van het [Besluit stortplaatsen en stortverboden afvalstoffen](../../../../../../../../../AMvB/besluit/stortverbod/afvalstoffen/BWBR0009094/README.md) en van het [Stortbesluit bodembescherming](../../../../../../../../../AMvB/stortbesluit/bodembescherming/BWBR0005858/README.md) worden in het Staatsblad geplaatst. 
 
 ### Artikel  Vlll  
+Materieel uitgewerkt per 16-07-2011 
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -67,12 +75,14 @@ J. P. Pronk
 de *twaalfde* juli 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     
 
 ### Bijlage  l  
+Materieel uitgewerkt per 16-07-2011 
 
 Wijzigt het Besluit stortverbod afvalstoffen.  
 
 ### Bijlage  ll  
+Materieel uitgewerkt per 16-07-2011 
 
 Wijzigt het Besluit stortverbod afvalstoffen.  

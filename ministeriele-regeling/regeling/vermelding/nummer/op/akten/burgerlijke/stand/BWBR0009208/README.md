@@ -4,7 +4,7 @@
 
 De Staatssecretaris van Justitie,  
 Gelet op de [artikelen 38](../../../../../../../../../AMvB/besluit/burgerlijke/stand/1994/BWBR0006493/README.md) en [39, derde lid van het Besluit burgerlijke stand 1994](../../../../../../../../../AMvB/besluit/burgerlijke/stand/1994/BWBR0006493/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -16,15 +16,15 @@ De eerste positie van het in artikel 1 bedoelde nummer is bestemd voor de aandui
 
 1 = register van geboorten  
 
-2 = register van overlijden  
+2 =  register van overlijden  
 
-3 = register van huwelijken  
+3 =  register van huwelijken  
 
-4 = register van echtscheidingen, bedoeld in [artikel 6 van Titel 4 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md)  
+4 =  register van echtscheidingen, bedoeld in [artikel 6 van Titel 4 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md)  
 
-5 = register van geregistreerde partnerschappen  
+5 =  register van geregistreerde partnerschappen  
 
-6 = register van beëindiging van geregistreerde partnerschappen, bedoeld in [artikel 6 van Titel 4 van Boek I van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md)    
+6 =  register van beëindiging van geregistreerde partnerschappen, bedoeld in [artikel 6 van Titel 4 van Boek I van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md)    
 
 ### Artikel  3  
 
@@ -40,11 +40,11 @@ In het hoofd van elke akte van erkenning en elke akte van ontkenning van het vad
 
 ### Artikel  6  
 
-Deze regeling treedt in werking op 1 januari 1998. Zij zal met de toelichting in de Staatscourant worden geplaatst.  
+Deze regeling treedt in werking op 1 januari 1998. Zij zal met de toelichting in de Staatscourant worden geplaatst. 
 
 ’s-Gravenhage 
 18 december 1997    
 
-De 
-Staatssecretaris voornoemd, 
-E. M. A.Schmitz    
+De
+Staatssecretarisvoornoemd, 
+E. M. A. Schmitz      

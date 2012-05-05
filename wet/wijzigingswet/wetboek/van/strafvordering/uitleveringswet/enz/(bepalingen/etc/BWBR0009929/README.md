@@ -2,36 +2,36 @@
 
 ##Wet van 1 oktober 1998 tot wijziging van het Wetboek van Strafvordering, de Uitleveringswet, de Wet economische delicten en de Wet overdracht tenuitvoerlegging strafvonnissen betreffende de bepalingen aangaande de procedure in cassatie in strafzaken, herzieningszaken, uitleveringszaken en zaken in het kader van de Wet overdracht tenuitvoerlegging strafvonnissen
 
-Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.
+Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz. 
 
-Allen, die deze zullen zien of horen lezen saluut! doen te weten:
+Allen, die deze zullen zien of horen lezen saluut! doen te weten: 
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de cassatieprocedure in strafzaken, herzieningszaken, uitleveringszaken en zaken in het kader van de [Wet overdracht tenuitvoerlegging strafvonnissen](../../../../../../../../../../wet/wet/overdracht/tenuitvoerlegging/strafvonnissen/BWBR0004028/README.md) op enkele punten te wijzigen in het belang van een doelmatige rechtspleging;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de cassatieprocedure in strafzaken, herzieningszaken, uitleveringszaken en zaken in het kader van de[ Wet overdracht tenuitvoerlegging strafvonnissen](../../../../../../../../../../wet/wet/overdracht/tenuitvoerlegging/strafvonnissen/BWBR0004028/README.md) op enkele punten te wijzigen in het belang van een doelmatige rechtspleging;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### ARTIKEL  I  
 
-Wijzigt het Wetboek van Strafvordering.   
+Wijzigt het Wetboek van Strafvordering.  
 
 ### ARTIKEL  II  
 
-Wijzigt de Uitleveringswet.   
+Wijzigt de Uitleveringswet.  
 
 ### ARTIKEL  III  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten.  
 
 ### ARTIKEL  IV  
 
-Wijzigt de Wet overdracht tenuitvoerlegging strafvonnissen.   
+Wijzigt de Wet overdracht tenuitvoerlegging strafvonnissen.  
 
 ### ARTIKEL  V  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.  
 
 ### ARTIKEL  VI  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.  
 
 ### ARTIKEL  VII  
 
@@ -57,16 +57,16 @@ Artikel IV is, behoudens de verwijzing naar de [artikelen 438](../../../../../..
 
 Deze wet treedt in werking op een nader bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.  
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    
 
 Gegeven te 's-Gravenhage 
-1 oktober 1998  
-Beatrix  
+1 oktober 1998   
+Beatrix   
 
-De Minister van Justitie, 
-A. H. Korthals   
-
-de *vijftiende* oktober 1998 
-
-De Minister van Justitie, 
+De Minister van Justitie,  
 A. H. Korthals    
+
+de *vijftiende* oktober 1998  
+
+De Minister van Justitie,  
+A. H. Korthals     

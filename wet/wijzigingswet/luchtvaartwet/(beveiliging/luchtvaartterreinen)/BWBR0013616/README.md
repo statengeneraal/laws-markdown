@@ -11,19 +11,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Luchtvaartwet.   
+Wijzigt de Luchtvaartwet.  
 
 ### Artikel  II  
 
-Wijzigt de Wet politieregisters.   
+Wijzigt de Wet politieregisters.  
 
 ### Artikel  III  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten.  
 
 ### Artikel  IV  
 
-Regels en andere besluiten, vastgesteld krachtens de [Luchtvaartwet](../../../../../../wet/luchtvaartwet/BWBR0002267/README.md), zoals deze luidde op de datum voorafgaande aan de datum van inwerkingtreding van de verschillende onderdelen van deze wet, blijven van kracht, voor zover zij berusten op bepalingen welke door deze wet niet worden gewijzigd.  
+Regels en andere besluiten, vastgesteld krachtens de [Luchtvaartwet](../../../../../../wet/luchtvaartwet/BWBR0002267/README.md), zoals deze luidde op de datum voorafgaande aan de datum van inwerkingtreding van de verschillende onderdelen van deze wet, blijven van kracht, voor zover zij berusten op bepalingen welke door deze wet niet worden gewijzigd. 
 
 ### Artikel  V  
 

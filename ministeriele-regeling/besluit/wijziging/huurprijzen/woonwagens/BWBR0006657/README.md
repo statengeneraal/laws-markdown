@@ -11,4 +11,4 @@ Besluit:     De huurprijs bedoeld in artikel 20 van de Regeling geldelijke steun
 
 De 
 Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-E.Heerma    
+E. Heerma      

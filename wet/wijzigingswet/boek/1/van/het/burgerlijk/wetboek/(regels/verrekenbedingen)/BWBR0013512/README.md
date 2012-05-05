@@ -11,26 +11,26 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt Boek I van het Burgerlijk Wetboek.   
+Wijzigt Boek I van het Burgerlijk Wetboek.  
 
 ### Artikel  II  
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.   
+Wijzigt het Wetboek van Burgerlijke Rechtsvordering.  
 
 ### Artikel  III  
 
-Wijzigt de Successiewet 1956.   
+Wijzigt de Successiewet 1956.  
 
 ### Artikel  IV  
 
 ####Overgangsbepaling
 
 1.  Op huwelijkse voorwaarden die uitsluitend finale verrekening van vermogen bevatten, blijft het recht zoals dat gold onmiddellijk voorafgaande aan het tijdstip van de inwerkingtreding van deze wet, van toepassing.   
-2.  Op een bepaling als bedoeld in [artikel 94, eerste lid](../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), die vóór het tijdstip van de inwerkingtreding van deze wet in een uiterste wilsbeschikking of bij de gift is opgenomen, blijft het recht zoals dat gold onmiddellijk voorafgaande aan het tijdstip van de inwerkingtreding van deze wet, van toepassing.   
+2.  Op een bepaling als bedoeld in [artikel 94, eerste lid](../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), die vóór het tijdstip van de inwerkingtreding van deze wet in een uiterste wilsbeschikking of bij de gift is opgenomen, blijft het recht zoals dat gold onmiddellijk voorafgaande aan het tijdstip van de inwerkingtreding van deze wet, van toepassing.  
 
 ### Artikel  V  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

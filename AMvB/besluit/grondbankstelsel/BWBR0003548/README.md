@@ -19,26 +19,26 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder: "pleegkind": degene, die duurzaam als een eigen kind is verzorgd en opgevoed; "bedrijfsoppervlakte": de naar kadastrale maat gemeten oppervlakte van de bij een bedrijf in gebruik zijnde percelen landbouwgrond voor zover deze onbebouwd zijn en niet het erf vormen en voor zover dit gebruik geschiedt op grond van een recht van eigendom, een zakelijk recht of een pachtovereenkomst voor tenminste de wettelijke duur.  
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder: "pleegkind": degene, die duurzaam als een eigen kind is verzorgd en opgevoed; "bedrijfsoppervlakte": de naar kadastrale maat gemeten oppervlakte van de bij een bedrijf in gebruik zijnde percelen landbouwgrond voor zover deze onbebouwd zijn en niet het erf vormen en voor zover dit gebruik geschiedt op grond van een recht van eigendom, een zakelijk recht of een pachtovereenkomst voor tenminste de wettelijke duur. 
 
 ### Artikel  2  
 
-Het bureau kan, voor zover zulks uit financieringsoverwegingen noodzakelijk is, onder door Onze Minister te stellen regelen op aanvrage in de navolgende gevallen overgaan tot uitgifte in erfpacht van landbouwgrond: 
+Het bureau kan, voor zover zulks uit financieringsoverwegingen noodzakelijk is, onder door Onze Minister te stellen regelen op aanvrage in de navolgende gevallen overgaan tot uitgifte in erfpacht van landbouwgrond:  
 
 a. opvolging in een bedrijf door één of meer kinderen, aangetrouwde, pleeg- of kleinkinderen, die voor eigen rekening, dan wel met één of meer andere natuurlijke personen voor gezamenlijke rekening, een bedrijf uitoefent, onderscheidenlijk uitoefenen;  
 
 b. uitoefening door de pachter van het voorkeursrecht als bedoeld in [afdeling 11 van titel 5 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
 
-c. vergroting van de bedrijfsoppervlakte.    
+c. vergroting van de bedrijfsoppervlakte.   
 
 ### Artikel  3  
 
 1.  Onze Minister kan bij in de *Nederlandse Staatscourant* bekend te maken regeling bepalen dat in een of meer gevallen als bedoeld in artikel 2 geen aanvragen kunnen worden ingediend tot een nader door hem daarbij te bepalen tijdstip.   
-2.  Onze Minister kan in zijn op grond van het eerste lid genomen regeling bepalen dat wel aanvragen om uitgifte in erfpacht kunnen worden ingediend voor landbouwgrond die bestemd is voor de uitgifte en waarvan het bureau de eigendom heeft verworven vóór het tijdstip van de indiening van de aanvrage.   
+2.   Onze Minister kan in zijn op grond van het eerste lid genomen regeling bepalen dat wel aanvragen om uitgifte in erfpacht kunnen worden ingediend voor landbouwgrond die bestemd is voor de uitgifte en waarvan het bureau de eigendom heeft verworven vóór het tijdstip van de indiening van de aanvrage.  
 
 ### Artikel  4  
 
-De in de in artikel 2 bedoelde regelen kunnen onder meer betrekking hebben op: 
+De in de in artikel 2 bedoelde regelen kunnen onder meer betrekking hebben op:  
 
 a. de financieringsstructuur van het bedrijf van de aanvrager;  
 
@@ -50,12 +50,12 @@ d. de oppervlakte van de in erfpacht uit te geven landbouwgrond;
 
 e. de leeftijd van de aanvrager;  
 
-f. de verkavelingssituatie van het bedrijf van de aanvrager zowel vóór als na uitgifte.    
+f. de verkavelingssituatie van het bedrijf van de aanvrager zowel vóór als na uitgifte.   
 
 ### Artikel  5  
 
 1.  Dit besluit kan worden aangehaald als "Besluit grondbankstelsel".   
-2.  Het treedt in werking met ingang van 1 januari 1983.   
+2.   Het treedt in werking met ingang van 1 januari 1983.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

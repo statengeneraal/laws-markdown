@@ -18,12 +18,12 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Er is een Centraal Justitieel Incassobureau, gevestigd te Leeuwarden, waarvan de algemene leiding, de organisatie en het beheer berusten bij Onze Minister van Justitie.  
+Er is een Centraal Justitieel Incassobureau, gevestigd te Leeuwarden, waarvan de algemene leiding, de organisatie en het beheer berusten bij Onze Minister van Justitie. 
 
 ### Artikel  2  
 
 1.  Het Centraal Justitieel Incassobureau is belast met de taken die hem bij algemene maatregel van bestuur zijn opgedragen.   
-2.  Het Centraal Justitieel Incassobureau verricht de werkzaamheden die uit de taken, als bedoeld in het eerste lid, voortvloeien en die Onze Minister van Justitie of het openbaar ministerie van hem verlangen.   
+2.   Het Centraal Justitieel Incassobureau verricht de werkzaamheden die uit de taken, als bedoeld in het eerste lid, voortvloeien en die Onze Minister van Justitie of het openbaar ministerie van hem verlangen.  
 
 ### §  2  
 
@@ -33,14 +33,14 @@ Er is een Centraal Justitieel Incassobureau, gevestigd te Leeuwarden, waarvan de
 
 1.  Er is een Raad van Toezicht voor het Centraal Justitieel Incassobureau, hierna te noemen: de raad.   
 2.  De raad bestaat uit een voorzitter, een secretaris en ten hoogste tien andere leden, waarvan twee leden als vertegenwoordiger van het Ministerie van Justitie, een lid als vertegenwoordiger van de politie en een lid dat het ambt van rechter bekleedt. De voorzitter alsmede zes andere leden zijn lid van het openbaar ministerie.   
-3.  De voorzitter, de secretaris en de leden, bedoeld in de tweede volzin van het tweede lid, worden benoemd door Onze Minister van Justitie, in overeenstemming met het College van procureurs-generaal. De overige leden worden benoemd door Onze Minister van Justitie, gehoord het College van procureurs-generaal.   
-4.  De voorzitter en de andere leden van de raad worden benoemd voor drie jaren. Zij kunnen worden herbenoemd.   
-5.  De directeur van het Centraal Justitieel Incassobureau woont de vergadering van de raad bij.   
+3.   De voorzitter, de secretaris en de leden, bedoeld in de tweede volzin van het tweede lid, worden benoemd door Onze Minister van Justitie, in overeenstemming met het College van procureurs-generaal. De overige leden worden benoemd door Onze Minister van Justitie, gehoord het College van procureurs-generaal.   
+4.   De voorzitter en de andere leden van de raad worden benoemd voor drie jaren. Zij kunnen worden herbenoemd.   
+5.   De directeur van het Centraal Justitieel Incassobureau woont de vergadering van de raad bij.  
 
 ### Artikel  4  
 
 1.  De raad adviseert de vergadering van procureurs-generaal desgevraagd of uit eigen beweging over de wijze waarop het Centraal Justitieel Incassobureau zijn taak, als bedoeld in artikel 2, eerste lid, en de daaruit voortvloeiende werkzaamheden verricht, alsmede over al hetgeen met deze taakuitoefening verband houdt.   
-2.  Het advies wordt ter kennis gebracht van Onze Minister van Justitie.   
+2.   Het advies wordt ter kennis gebracht van Onze Minister van Justitie.  
 
 ### §  4  
 
@@ -48,11 +48,11 @@ Er is een Centraal Justitieel Incassobureau, gevestigd te Leeuwarden, waarvan de
 
 ### Artikel  5  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: Besluit Instelling Centraal Justitieel Incassobureau.  
+Dit besluit wordt aangehaald als: Besluit Instelling Centraal Justitieel Incassobureau. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

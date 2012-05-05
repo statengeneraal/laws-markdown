@@ -10,7 +10,7 @@ Besluit:
 
 ####Vaststelling
 
-Voor het bewijs van bevoegdheid als privé-vlieger worden in Bijlage 2/1989 eisen inzake kennis vastgesteld.  
+Voor het bewijs van bevoegdheid als privé-vlieger worden in Bijlage 2/1989 eisen inzake kennis vastgesteld. 
 
 ### Artikel  2  
 
@@ -18,21 +18,21 @@ Voor het bewijs van bevoegdheid als privé-vlieger worden in Bijlage 2/1989 eise
 
 De eisen inzake kennis van de navolgende Bijlagen: 
 
-2 – Beperkt Vliegbewijs A – vleugelvliegtuigen, vastgesteld op 20 augustus 1982 met besluit LI/12478, zoals dit sindsdien is gewijzigd;  
+2  – Beperkt Vliegbewijs A – vleugelvliegtuigen, vastgesteld op 20 augustus 1982 met besluit LI/12478, zoals dit sindsdien is gewijzigd;  
 
 3 – Vliegbewijs A – vleugelvliegtuigen, vastgesteld op 20 augustus 1982 met besluit LI/12478, zoals dit sindsdien is gewijzigd;  
 
-4 – Vliegbewijs A – hefschroefvliegtuigen, vastgesteld op 23 november 1970 met besluit LI/21756, zoals dit sindsdien is gewijzigd, worden ingetrokken.    
+4  – Vliegbewijs A – hefschroefvliegtuigen, vastgesteld op 23 november 1970 met besluit LI/21756, zoals dit sindsdien is gewijzigd, worden ingetrokken.   
 
 ### Artikel  3  
 
 ####In werking treding
 
-Deze regeling treedt in werking op 1 januari 1990 en zal worden geplaatst in de Nederlandse Staatscourant.  
+Deze regeling treedt in werking op 1 januari 1990 en zal worden geplaatst in de Nederlandse Staatscourant. 
 
 's-Gravenhage 
 9 juni 1989    
 
 De 
 minister van Verkeer en Waterstaat, 
-N.Smit-Kroes    
+N. Smit-Kroes      

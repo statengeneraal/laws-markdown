@@ -11,32 +11,32 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  V  
 
-1.  [Artikel 38 van de Wet op de Ruimtelijke Ordening](../../../../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md), zoals dat luidde onmiddellijk vóór het tijdstip waarop de bij deze wet voorziene wijziging van dat artikel in werking is getreden, en in samenhang daarmee artikel 39 van die wet, zoals dat op dat tijdstip luidde, blijven van toepassing ten aanzien van besluiten als bedoeld in dat artikel 38, die vóór dat tijdstip zijn genomen.   
-2.  [Artikel 65 van de Wet op de Ruimtelijke Ordening](../../../../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md), zoals dat luidde onmiddellijk vóór het tijdstip waarop de bij deze wet voorziene wijziging van dat artikel in werking is getreden, blijft van toepassing ten aanzien van besluiten als bedoeld in dat artikel die vóór dat tijdstip zijn genomen.   
+1.   [Artikel 38 van de Wet op de Ruimtelijke Ordening](../../../../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md), zoals dat luidde onmiddellijk vóór het tijdstip waarop de bij deze wet voorziene wijziging van dat artikel in werking is getreden, en in samenhang daarmee artikel 39 van die wet, zoals dat op dat tijdstip luidde, blijven van toepassing ten aanzien van besluiten als bedoeld in dat artikel 38, die vóór dat tijdstip zijn genomen.   
+2.   [Artikel 65 van de Wet op de Ruimtelijke Ordening](../../../../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md), zoals dat luidde onmiddellijk vóór het tijdstip waarop de bij deze wet voorziene wijziging van dat artikel in werking is getreden, blijft van toepassing ten aanzien van besluiten als bedoeld in dat artikel die vóór dat tijdstip zijn genomen.  
 
 ### Artikel  VI  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  VII  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

@@ -14,16 +14,19 @@ Gezien het nader rapport van Onze Minister van Volkshuisvesting, Ruimtelijke Ord
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 01-10-2010 
 
-Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer.   
+Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer.  
 
 ### Artikel  II  
+Materieel uitgewerkt per 01-10-2010 
 
-Indien krachtens artikel I, onderdeel B, van dit besluit een bevoegdheid overgaat naar een ander bestuursorgaan, blijft het voor het tijdstip van inwerkingtreding van dit besluit geldende recht van toepassing ten aanzien van een beschikking die voor het tijdstip van inwerkingtreding van dit besluit is aangevraagd of die ambtshalve is genomen en bekendgemaakt voor het tijdstip van inwerkingtreding van dit besluit, tot het tijdstip waarop de beschikking op die aanvraag of de ambtshalve genomen beschikking in werking en onherroepelijk is.  
+Indien krachtens artikel I, onderdeel B, van dit besluit een bevoegdheid overgaat naar een ander bestuursorgaan, blijft het voor het tijdstip van inwerkingtreding van dit besluit geldende recht van toepassing ten aanzien van een beschikking die voor het tijdstip van inwerkingtreding van dit besluit is aangevraagd of die ambtshalve is genomen en bekendgemaakt voor het tijdstip van inwerkingtreding van dit besluit, tot het tijdstip waarop de beschikking op die aanvraag of de ambtshalve genomen beschikking in werking en onherroepelijk is. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 01-10-2010 
 
-Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin het is geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin het is geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -37,4 +40,4 @@ J. P. Pronk
 de *tweeëntwintigste* augustus 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

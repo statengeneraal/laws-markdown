@@ -11,24 +11,24 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet beheer rijkswaterstaatswerken.   
+Wijzigt de Wet beheer rijkswaterstaatswerken.  
 
 ### Artikel  II  
 
-Wijzigt de Waterstaatswet 1900.   
+Wijzigt de Waterstaatswet 1900.  
 
 ### Artikel  III  
 
-Wijzigt de Ontgrondingenwet.   
+Wijzigt de Ontgrondingenwet.  
 
 ### Artikel  IV  
 
-Wijzigt de onteigeningswet.   
+Wijzigt de onteigeningswet.  
 
 ### Artikel  V  
 
 1.  De Rivierenwet wordt ingetrokken.   
-2.  Niettemin blijven de begrenzingen onderscheidenlijk gebiedsaanwijzingen en overige beperkingen op het vereiste van een vergunning, die op de datum van inwerkingtreding van deze wet gelden op grond van het bij of krachtens de Rivierenwet bepaalde, van kracht tot de datum van inwerkingtreding van het krachtens de Wet beheer rijkswaterstaatswerken te nemen besluit tot vaststelling van begrenzingen onderscheidenlijk gebiedsaanwijzingen en overige beperkingen op het vereiste van een vergunning.   
+2.  Niettemin blijven de begrenzingen onderscheidenlijk gebiedsaanwijzingen en overige beperkingen op het vereiste van een vergunning, die op de datum van inwerkingtreding van deze wet gelden op grond van het bij of krachtens de Rivierenwet bepaalde, van kracht tot de datum van inwerkingtreding van het krachtens de Wet beheer rijkswaterstaatswerken te nemen besluit tot vaststelling van begrenzingen onderscheidenlijk gebiedsaanwijzingen en overige beperkingen op het vereiste van een vergunning.  
 
 ### Artikel  VI  
 
@@ -38,7 +38,7 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Gegeven te 's-Gravenhage 
 9 december 1999  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Verkeer en Waterstaat, 
 J. M. de Vries   

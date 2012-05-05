@@ -15,16 +15,16 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
 1.  Indien het bedrag per capaciteitsplaats, bepaald volgens artikel 3, eerste lid, aanmerkelijk lager is dan het bedrag per jeugdige bepaald volgens dit artikellid, zoals het luidde voor de inwerkingtreding van dit besluit, kan Onze Minister gedurende ten hoogste drie jaren vanaf de inwerkingtreding van dit besluit, gelet op de bijzondere omstandigheden van de inrichting, een aanvullende subsidie verlenen.   
-2.  Indien het bedrag per capaciteitsplaats, bepaald volgens artikel 3, eerste lid, aanmerkelijk hoger is dan het bedrag per jeugdige bepaald volgens dit artikellid, zoals het luidde voor de inwerkingtreding van dit besluit, kan Onze Minister gedurende ten hoogste drie jaren vanaf de inwerkingtreding van dit besluit, om een geleidelijke verhoging van het bedrag per jeugdige te bewerkstelligen, het subsidie op een lager bedrag vaststellen.   
+2.   Indien het bedrag per capaciteitsplaats, bepaald volgens artikel 3, eerste lid, aanmerkelijk hoger is dan het bedrag per jeugdige bepaald volgens dit artikellid, zoals het luidde voor de inwerkingtreding van dit besluit, kan Onze Minister gedurende ten hoogste drie jaren vanaf de inwerkingtreding van dit besluit, om een geleidelijke verhoging van het bedrag per jeugdige te bewerkstelligen, het subsidie op een lager bedrag vaststellen.  
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van 1 september 1994.  
+Dit besluit treedt in werking met ingang van 1 september 1994. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

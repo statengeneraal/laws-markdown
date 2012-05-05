@@ -10,7 +10,7 @@ Besluit:
 
 Secretariaten van de Huurcommissie zijn gevestigd  
 
-|  *Te*   |  *Ten behoeve van de commissies in de ressorten*   |
+| *Te*  | *Ten behoeve van de commissies in de ressorten*  |
 |---|---|
 | Amsterdam  | Amsterdam  |
 | Arnhem  | Arnhem, Terborg, Zutphen, Wageningen, Groenlo, Nijmegen, Tiel, Harderwijk en Apeldoorn  |
@@ -26,29 +26,29 @@ Secretariaten van de Huurcommissie zijn gevestigd
 
 ### Artikel  2  
 
-De beschikking van 15 augustus 1988, nr. MOI 1588001 (Stcrt. 158) wordt ingetrokken.  
+De beschikking van 15 augustus 1988, nr. MOI 1588001 (Stcrt. 158) wordt ingetrokken. 
 
 ### Artikel  3  
 
-Deze beschikking wordt geplaatst in de Staatscourant.  
+Deze beschikking wordt geplaatst in de Staatscourant. 
 
 ### Artikel  4  
 
-Deze beschikking treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 juli 1994.  
+Deze beschikking treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 juli 1994. 
 
 ### Artikel  5  
 
-Deze beschikking wordt aangehaald als: Beschikking standplaatsen en ambtsgebieden van de secretariaten van de huurcommissies.  
-Afschriften van deze beschikking worden gezonden aan gedeputeerde staten der onderscheidene provincies, de voorzitters en secretarissen der onderscheidene huurcommissies, de directeur-generaal van de Volkshuisvesting, de Accountantsdienst van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en aan de Algemene Rekenkamer.   
+Deze beschikking wordt aangehaald als: Beschikking standplaatsen en ambtsgebieden van de secretariaten van de huurcommissies. 
+Afschriften van deze beschikking worden gezonden aan gedeputeerde staten der onderscheidene provincies, de voorzitters en secretarissen der onderscheidene huurcommissies, de directeur-generaal van de Volkshuisvesting, de Accountantsdienst van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en aan de Algemene Rekenkamer. 
 
 's-Gravenhage 
 8 augustus 1994    
 
 De 
-Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
+Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
 
-voor deze: 
+voor deze:
 
 De 
 secretaris-generaal, 
-R. denDunnen    
+R. den Dunnen    

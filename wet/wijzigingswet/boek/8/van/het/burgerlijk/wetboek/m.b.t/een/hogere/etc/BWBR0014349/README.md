@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt Boek 8 van het Burgerlijk Wetboek   
+Wijzigt Boek 8 van het Burgerlijk Wetboek  
 
 ### Artikel  II  
 
-[Artikel 252 van de Overgangswet nieuw Burgerlijk Wetboek](../../../../../../../../../../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md) is van overeenkomstige toepassing.  
+[Artikel 252 van de Overgangswet nieuw Burgerlijk Wetboek](../../../../../../../../../../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md) is van overeenkomstige toepassing. 
 
 ### Artikel  III  
 
-Deze wet treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -33,4 +33,4 @@ J. P. H. Donner
 de vijfde december 2002 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

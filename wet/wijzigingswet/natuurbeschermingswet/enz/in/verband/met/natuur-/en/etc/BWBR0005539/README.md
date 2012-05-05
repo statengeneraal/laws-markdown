@@ -11,23 +11,23 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-De in deze wet opgenomen bepalingen tot wijziging van de [Pachtwet](../../../../../../../../../../../wet/pachtwet/BWBR0002269/README.md) zijn niet van toepassing op pachtovereenkomsten, aangegaan voor het in werking treden van deze wet en waarvan een schriftelijke pachtovereenkomst of een vonnis tot schriftelijke vastlegging aan de grondkamer ter goedkeuring ingezonden wordt binnen één jaar na het in werking treden van deze wet.  
+De in deze wet opgenomen bepalingen tot wijziging van de [Pachtwet](../../../../../../../../../../../wet/pachtwet/BWBR0002269/README.md) zijn niet van toepassing op pachtovereenkomsten, aangegaan voor het in werking treden van deze wet en waarvan een schriftelijke pachtovereenkomst of een vonnis tot schriftelijke vastlegging aan de grondkamer ter goedkeuring ingezonden wordt binnen één jaar na het in werking treden van deze wet. 
 
 ### Artikel  IV  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  V  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

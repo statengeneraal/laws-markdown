@@ -20,19 +20,19 @@ de commandant van een bataljon van het Korps mariniers;
 
 de officier-detachementscommandant bij de Koninklijke marine en bij de Koninklijke luchtmacht;  
 
-de militaire attachés.    
+de militaire attachés.   
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de datum waarop de [Wet militaire strafrechtspraak](../../../../../../../../../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md) (Stb. 1990, 370) in werking treedt.  
+Deze regeling treedt in werking met ingang van de datum waarop de [Wet militaire strafrechtspraak](../../../../../../../../../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md) (Stb. 1990, 370) in werking treedt. 
 
 's-Gravenhage 
 19 december 1990    
 
 De 
 Minister van Justitie, 
-E. M. H.Hirsch Ballin 
+E. M. H.Hirsch Ballin   
 
 De 
 Staatssecretaris van Defensie, 
-B. J. M. Baron vanVoorst tot Voorst    
+B. J. M. Baron van Voorst tot Voorst      

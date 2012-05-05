@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Bouwbesluit.   
+Wijzigt het Bouwbesluit.  
 
 ### Artikel  II  
 
@@ -26,7 +26,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 's-Gravenhage 
 11 oktober 1999  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
 J. W. Remkes   
@@ -34,4 +34,4 @@ J. W. Remkes
 de *achtentwintigste* oktober 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

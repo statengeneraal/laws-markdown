@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Op overeenkomsten van huur en verhuur van woonruimte die bestaan op het tijdstip van inwerkingtreding van deze wet, blijven de artikelen 1623 *a* en 1623 *e* van het Burgerlijk Wetboek, zoals dat luidde voor dat tijdstip, van toepassing.  
+Op overeenkomsten van huur en verhuur van woonruimte die bestaan op het tijdstip van inwerkingtreding van deze wet, blijven de artikelen 1623*a* en 1623*e* van het Burgerlijk Wetboek, zoals dat luidde voor dat tijdstip, van toepassing. 
 
 ### Artikel  III  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

@@ -4,7 +4,7 @@
 
 De Minister van Justitie,  
 Gelet op artikel 3 van het Besluit alcoholonderzoeken;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -21,7 +21,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  4  
 
-Deze regeling wordt aangehaald als: Regeling type-aanwijzing ademanalyseapparaat.  
+Deze regeling wordt aangehaald als: Regeling type-aanwijzing ademanalyseapparaat. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -29,4 +29,4 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister van Justitie, 
-W.Sorgdrager    
+W. Sorgdrager      

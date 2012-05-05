@@ -6,7 +6,7 @@ De Minister van Justitie,
 Gelet op [artikel 7, eerste lid, Beginselenwet verpleging ter beschikking gestelden](../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md),
 
 Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van, 10 februari 1998, nr. 680940/98;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -20,12 +20,12 @@ Deze regeling treedt in werking op 1 november 1998.
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Model huisregels justitiële TBS-inrichtingen.  
+Deze regeling wordt aangehaald als: Model huisregels justitiële TBS-inrichtingen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Justitie, 
-H.Korthals   
+H. Korthals     
 
 ### Bijlage  
 
@@ -41,50 +41,50 @@ H.Korthals
 
 ###4 Verpleging, behandeling en evaluatie
 
-4.1 Inrichting verblijfsruimte 4.2 Inrichtingsbeleid inzake inspectie verblijfsruimte 4.3 Inrichtingsbeleid verboden voorwerpen 4.4 Verplegings- en behandelingsplan 4.5 Evaluatieverslag 4.6 Wettelijke aantekeningen 4.7 Verpleegdedossier 
+4.1 Inrichting verblijfsruimte 4.2 Inrichtingsbeleid inzake inspectie verblijfsruimte 4.3 Inrichtingsbeleid verboden voorwerpen 4.4 Verplegings- en behandelingsplan 4.5 Evaluatieverslag 4.6 Wettelijke aantekeningen 4.7 Verpleegdedossier  
 ###5 Controle en geweldgebruik
 
-5.1 Inrichtingsbeleid wijze van legitimeren door verpleegden 5.2 Inrichtingsbeleid inzake onderzoek aan het lichaam en kleding 5.3 Inrichtingsbeleid inzake urinecontrole 5.4 Inrichtingsbeleid inzake onderzoek in het lichaam 5.5 Inrichtingsbeleid inzake gedwongen geneeskundige behandeling 5.6 Inrichtingsbeleid inzake gebruik mechanische middelen 5.7 Inrichtingsbeleid inzake gebruik geweld 
+5.1 Inrichtingsbeleid wijze van legitimeren door verpleegden 5.2 Inrichtingsbeleid inzake onderzoek aan het lichaam en kleding 5.3 Inrichtingsbeleid inzake urinecontrole 5.4 Inrichtingsbeleid inzake onderzoek in het lichaam 5.5 Inrichtingsbeleid inzake gedwongen geneeskundige behandeling 5.6 Inrichtingsbeleid inzake gebruik mechanische middelen 5.7 Inrichtingsbeleid inzake gebruik geweld  
 ###6 Bewegingsvrijheid binnen de inrichting
 
-6.1 Opnameprocedure 6.2 Inrichtingsbeleid inzake bewegingsvrijheid binnen de inrichting 6.2 Inrichtingsbeleid inzake intensieve zorg 6.3 Inrichtingsbeleid inzake afzondering 6.4 inrichtingsbeleid inzake separatie 
+6.1 Opnameprocedure 6.2 Inrichtingsbeleid inzake bewegingsvrijheid binnen de inrichting 6.2 Inrichtingsbeleid inzake intensieve zorg 6.3 Inrichtingsbeleid inzake afzondering 6.4 inrichtingsbeleid inzake separatie  
 ###7 Contact met de buitenwereld
 
-7.1 Algemeen 7.2 Post 7.2.1 Verzending en ontvangst geprivilegieerde post 7.3 Bezoek 7.3.1 Geprivilegieerd bezoek 7.4 Telefoneren 7.4.1 Geprivilegieerd telefoneren 7.5 Contacten met de media 
+7.1 Algemeen 7.2 Post 7.2.1 Verzending en ontvangst geprivilegieerde post 7.3 Bezoek 7.3.1 Geprivilegieerd bezoek 7.4 Telefoneren 7.4.1 Geprivilegieerd telefoneren 7.5 Contacten met de media  
 ###8 Verzorging, activiteiten, werkzaamheden en arbeid
 
-8.1 Algemeen 8.2 Geestelijke verzorging 8.3 Medische verzorging 8.4 Voeding, kleding en schoeisel 8.5 Organisatie sociale verzorging en hulpverlening in de inrichting 8.6 Geld in de inrichting 8.7 Arbeid 
+8.1 Algemeen 8.2 Geestelijke verzorging 8.3 Medische verzorging 8.4 Voeding, kleding en schoeisel 8.5 Organisatie sociale verzorging en hulpverlening in de inrichting 8.6 Geld in de inrichting 8.7 Arbeid  
 ###9 Onderbrenging van een kind in de inrichting
 
 ###10 Disciplinaire straffen
 
 ###11 Verlof/proefverlof
 
-11.1 Verlof 11.2 Procedures voorafgaand aan verlofverlening 11.3 Bijwonen gerechtelijke procedures 11.4 Proefverlof 11.5 Voorwaardelijke beëindiging van de verpleging 
+11.1 Verlof 11.2 Procedures voorafgaand aan verlofverlening 11.3 Bijwonen gerechtelijke procedures 11.4 Proefverlof 11.5 Voorwaardelijke beëindiging van de verpleging  
 ###12 Informatie en hoorplicht
 
-12.1 Informatieplicht 12.2 Hoorplicht 12.3 Mededeling beslissingen 
+12.1 Informatieplicht 12.2 Hoorplicht 12.3 Mededeling beslissingen  
 ###13 Bemiddeling
 
 ###14 Beklag
 
 ###15 Beroep
 
-15.1 Beroep van beslissingen waartegen beklag open staat 15.2 Beroep van beslissingen waartegen geen beklag open staat 
+15.1 Beroep van beslissingen waartegen beklag open staat 15.2 Beroep van beslissingen waartegen geen beklag open staat  
 ###16 Medezeggenschap en vertegenwoordiging
 
-16.1 Verpleegdenraad 16.2 Vertegenwoordiging 
+16.1 Verpleegdenraad 16.2 Vertegenwoordiging  
 ###17 Beëindiging verblijf van met hun instemming opgenomen verpleegden
 
 ###Model Huisregels
 
-### 1  
+###1  
 
 ####Algemene bepalingen
 
 Definities en gebruikte begrippen in de inrichting.  
 
-### 2  
+###2  
 
 ####Toezicht
 
@@ -100,33 +100,33 @@ de taak en de werkwijze van de be-klagcommissie;
 
 de taak van de Centrale Raad voor Strafrechtstoepassing;   In de particuliere inrichtingen kan tevens worden verwezen naar de toezichthoudende taak van het bestuur dan wel de raad van toezicht van de stichting.  
 
-### 3  
+###3  
 
 ####Plaatsing en overplaatsing
 
 In de huisregels kan informatie worden verstrekt over de mogelijkheid tot plaatsing in een andere TBS-inrichting, al dan niet ter observatie (voor 7 weken), of plaatsing in een psychiatrisch ziekenhuis.  
 
-### 4  
+###4  
 
 ####Verpleging, behandeling en evaluatie
 
-### 4.1  
+###4.1  
 
 ####Inrichting verblijfsruimte
 
 In de huisregels wordt informatie verstrekt over: 
 
-de toewijzing en de inrichting van de persoonlijke verblijfsruimte.    
+de toewijzing en de inrichting van de persoonlijke verblijfsruimte.   
 
-### 4.2  
+###4.2  
 
 ####Inrichtingsbeleid inzake inspectie persoonlijke verblijfsruimte
 
 In de huisregels kan informatie worden verstrekt over: 
 
-de gevallen waarin de persoonlijke verblijfsruimte van een verpleegde kan worden onderzocht op de aanwezigheid van verboden voorwerpen.    
+de gevallen waarin de persoonlijke verblijfsruimte van een verpleegde kan worden onderzocht op de aanwezigheid van verboden voorwerpen.   
 
-### 4.3  
+###4.3  
 
 ####Inrichtingsbeleid verboden voorwerpen
 
@@ -136,17 +136,17 @@ het verbod tot het bezit van bepaalde soorten voorwerpen binnen de inrichting of
 
 de mogelijkheid onder omstandigheden het aanwezig hebben van andere dan de verboden voorwerpen in de persoonlijke verblijfsruimte te verbieden;  
 
-de mogelijkheid voorwerpen te laten onderzoeken, om vast te stellen of het bezit is toegestaan, voor rekening van de verpleegde aan wie ze toebehoren.    
+de mogelijkheid voorwerpen te laten onderzoeken, om vast te stellen of het bezit is toegestaan, voor rekening van de verpleegde aan wie ze toebehoren.   
 
-### 4.4  
+###4.4  
 
 ####Verplegings- en behandelingsplan
 
 In de huisregels wordt informatie verstrekt over: 
 
-het verplegings- en behandelingsplan en op welke wijze en binnen welke termijn dat wordt vastgesteld en hoe dat kan worden gewijzigd.    
+het verplegings- en behandelingsplan en op welke wijze en binnen welke termijn dat wordt vastgesteld en hoe dat kan worden gewijzigd.   
 
-### 4.5  
+###4.5  
 
 ####Evaluatieverslag
 
@@ -154,9 +154,9 @@ In de huisregels wordt informatie verstrekt over:
 
 wanneer en op welke wijze het verloop van de verpleging en behandeling wordt geëvalueerd;  
 
-hoe het evaluatieverslag wordt vastgesteld.    
+hoe het evaluatieverslag wordt vastgesteld.   
 
-### 4.6  
+###4.6  
 
 ####Wettelijke aantekeningen
 
@@ -164,9 +164,9 @@ In de huisregels wordt informatie verstrekt over:
 
 wat de wettelijke aantekeningen inhouden;  
 
-waartoe zij dienen.    
+waartoe zij dienen.   
 
-### 4.7  
+###4.7  
 
 ####Verpleegdedossier
 
@@ -178,19 +178,19 @@ de mogelijkheid van kennisneming van het verpleegdedossier door de verpleegde en
 
 onder welke voorwaarden de kennisneming van het verpleegdedossier kan worden beperkt.    
 
-### 5  
+###5  
 
 ####Controle en geweldgebruik
 
-### 5.1  
+###5.1  
 
 ####Inrichtingsbeleid wijze van legitimeren door verpleegden
 
 In de huisregels kan informatie worden verstrekt over: 
 
-in welke gevallen de verpleegde een legitimatiebewijs bij zich moet dragen en wanneer hij dat moet kunnen tonen.    
+in welke gevallen de verpleegde een legitimatiebewijs bij zich moet dragen en wanneer hij dat moet kunnen tonen.   
 
-### 5.2  
+###5.2  
 
 ####Inrichtingsbeleid inzake onderzoek aan het lichaam of kleding
 
@@ -202,9 +202,9 @@ wat een onderzoek aan het lichaam of de kleding kan omvatten;
 
 hoe het onderzoek aan het lichaam of de kleding kan worden uitgevoerd;  
 
-wat er gebeurt met voorwerpen die tijdens het onderzoek worden aangetroffen.    
+wat er gebeurt met voorwerpen die tijdens het onderzoek worden aangetroffen.   
 
-### 5.3  
+###5.3  
 
 ####Inrichtingsbeleid inzake urinecontrole
 
@@ -220,9 +220,9 @@ het recht van de verpleegde om voor eigen rekening een hernieuwd onderzoek van d
 
 wat de gevolgen kunnen zijn van de vaststelling in het onderzoek dat gedragsbeïnvloedende middelen zijn gebruikt;  
 
-dat als in een hernieuwd onderzoek niet kan worden vastgesteld dat er gedragsbeïnvloedende middelen zijn gebruikt, een zekere tegemoetkoming kan worden gegeven aan de verpleegde.    
+dat als in een hernieuwd onderzoek niet kan worden vastgesteld dat er gedragsbeïnvloedende middelen zijn gebruikt, een zekere tegemoetkoming kan worden gegeven aan de verpleegde.   
 
-### 5.4  
+###5.4  
 
 ####Inrichtingsbeleid inzake onderzoek in het lichaam
 
@@ -232,15 +232,15 @@ in welke gevallen een onderzoek in het lichaam kan plaatsvinden;
 
 door wie dat onderzoek plaatsvindt;  
 
-wat er kan gebeuren met voorwerpen die tijdens het onderzoek worden aangetroffen.    
+wat er kan gebeuren met voorwerpen die tijdens het onderzoek worden aangetroffen.   
 
-### 5.5  
+###5.5  
 
 ####Inrichtingsbeleid inzake gedwongen geneeskundige handelingen
 
-In de huisregels wordt informatie verstrekt, onder welke omstandigheden gedwongen geneeskundige handelingen kunnen worden verricht.  
+In de huisregels wordt informatie verstrekt, onder welke omstandigheden gedwongen geneeskundige handelingen kunnen worden verricht. 
 
-### 5.6  
+###5.6  
 
 ####Inrichtingsbeleid inzake gebruik mechanische middelen
 
@@ -252,9 +252,9 @@ welke mechanische middelen kunnen worden toegepast;
 
 door wie mechanische middelen kunnen worden toegepast;  
 
-voor welke tijdsduur (en verlenging daarvan) mechanische middelen kunnen worden toegepast.    
+voor welke tijdsduur (en verlenging daarvan) mechanische middelen kunnen worden toegepast.   
 
-### 5.7  
+###5.7  
 
 ####Inrichtingsbeleid inzake gebruik geweld
 
@@ -264,19 +264,19 @@ in welke gevallen en onder welke voorwaarden jegens een verpleegde geweld kan wo
 
 wat de vrijheidsbenemende middelen kunnen inhouden.    
 
-### 6  
+###6  
 
 ####Bewegingsvrijheid binnen de inrichting
 
-### 6.1  
+###6.1  
 
 ####Opnameprocedure
 
 In de huisregels wordt informatie verstrekt over: 
 
-de inkomstprocedure van de inrichting.    
+de inkomstprocedure van de inrichting.   
 
-### 6.2  
+###6.2  
 
 ####Inrichtingsbeleid inzake bewegingsvrijheid binnen de inrichting
 
@@ -290,9 +290,9 @@ welke belangen in acht worden genomen door het hoofd van de inrichting bij plaat
 
 de mogelijkheid voorwaarden te verbinden aan plaatsing op een afdeling die uitbreiding van de bewegingsvrijheid voor de verpleegde met zich meebrengt en wat die voorwaarden kunnen inhouden;  
 
-de mogelijkheid dat indien de bewegingsvrijheid van een verpleegde niet is beperkt tot de afdeling waar hij verblijft, niettemin een zodanige beperking telkens voor een periode van 4 weken kan worden opgelegd en onder welke omstandigheden dat mogelijk is.    
+de mogelijkheid dat indien de bewegingsvrijheid van een verpleegde niet is beperkt tot de afdeling waar hij verblijft, niettemin een zodanige beperking telkens voor een periode van 4 weken kan worden opgelegd en onder welke omstandigheden dat mogelijk is.   
 
-### 6.3  
+###6.3  
 
 ####Inrichtingsbeleid inzake intensieve zorg (indien aanwezig)
 
@@ -302,9 +302,9 @@ in welke gevallen een verpleegde op een afdeling voor intensieve zorg kan worden
 
 de verplichting van het hoofd van de inrichting om telkens na ten hoogste zes maanden te bepalen of voortzetting van het verblijf op de afdeling voor intensieve zorg noodzakelijk is en welke omstandigheden hij daarbij in aanmerking neemt;  
 
-het recht van de verpleegde die op de afdeling voor intensieve zorg verblijft om tenminste twee maal een half uur per dag samen met een of meer medeverpleegden door te brengen.   Indien er voor de afdeling voor intensieve zorg een standaardregiem van toepassing is, dient dit zoveel mogelijk in de huisregels te worden opgenomen.  
+het recht van de verpleegde die op de afdeling voor intensieve zorg verblijft om tenminste twee maal een half uur per dag samen met een of meer medeverpleegden door te brengen.   Indien er voor de afdeling voor intensieve zorg een standaardregiem van toepassing is, dient dit zoveel mogelijk in de huisregels te worden opgenomen. 
 
-### 6.4  
+###6.4  
 
 ####Inrichtingsbeleid inzake afzondering
 
@@ -318,9 +318,9 @@ de mogelijkheid de afzondering te verlengen en op welke wijze;
 
 de mogelijkheid van afzondering op eigen verzoek en onder welke omstandigheden dat mogelijk is;  
 
-welke rechten de verpleegde heeft tijdens afzondering.    
+welke rechten de verpleegde heeft tijdens afzondering.   
 
-### 6.5  
+###6.5  
 
 ####Inrichtingsbeleid inzake separatie
 
@@ -336,19 +336,19 @@ de mogelijkheid de separatie telkens te verlengen en op welke wijze;
 
 welke rechten de verpleegde heeft tijdens separatie.    
 
-### 7  
+###7  
 
 ####Contact met de buitenwereld
 
-### 7.1  
+###7.1  
 
 ####Algemeen
 
 In de huisregels wordt informatie verstrekt over: 
 
-wat onder contact met de buitenwereld wordt begrepen.    
+wat onder contact met de buitenwereld wordt begrepen.   
 
-### 7.2  
+###7.2  
 
 ####Verzending en ontvangst van brieven en stukken per post
 
@@ -371,9 +371,9 @@ In de huisregels wordt informatie verstrekt over:
 
 welke controle kan worden uitgeoefend op enveloppen en andere poststukken op bijgesloten voorwerpen en op welke wijze;  
 
-het verbod controle uit te oefenen op de inhoud van deze brieven of andere poststukken.    
+het verbod controle uit te oefenen op de inhoud van deze brieven of andere poststukken.   
 
-### 7.3  
+###7.3  
 
 ####Bezoek
 
@@ -408,9 +408,9 @@ wanneer en waar geprivilegieerd bezoek kan plaatsvinden (met uitzondering van de
 
 hoe geprivilegieerd bezoek zich dient te legitimeren;  
 
-de bevoegdheid van geprivilegieerd bezoek zich in beginsel vrijelijk te onderhouden met de verpleegde.    
+de bevoegdheid van geprivilegieerd bezoek zich in beginsel vrijelijk te onderhouden met de verpleegde.   
 
-### 7.4  
+###7.4  
 
 ####Telefoneren
 
@@ -429,9 +429,9 @@ de mogelijkheid een telefoongesprek binnen de daarvoor bestemde tijd te beëindi
 
 In de huisregels wordt informatie verstrekt over: 
 
-tijden en plaatsen waarop de verpleegde geprivilegieerde telefoongesprekken kan voeren, waarbij tevens vermeld kan worden dat geen ander toezicht wordt uitgeoefend dan noodzakelijk is om de identiteit vast te stellen van de persoon of instantie met wie de verpleegde wenst te telefoneren.    
+tijden en plaatsen waarop de verpleegde geprivilegieerde telefoongesprekken kan voeren, waarbij tevens vermeld kan worden dat geen ander toezicht wordt uitgeoefend dan noodzakelijk is om de identiteit vast te stellen van de persoon of instantie met wie de verpleegde wenst te telefoneren.   
 
-### 7.5  
+###7.5  
 
 ####Contacten met de media
 
@@ -443,27 +443,27 @@ de mogelijkheid aan de toegang van een vertegenwoordiger van de media tot de inr
 
 toezicht dat kan worden uitgeoefend op het contact met de vertegenwoordiger van de media.    
 
-### 8  
+###8  
 
 ####Verzorging, activiteiten, werkzaamheden en arbeid
 
-### 8.1  
+###8.1  
 
 ####Algemeen
 
 In de huisregels kan informatie worden verstrekt over: 
 
-hetgeen onder de onderwerpen die in dit hoofdstuk worden geregeld wordt begrepen.    
+hetgeen onder de onderwerpen die in dit hoofdstuk worden geregeld wordt begrepen.   
 
-### 8.2  
+###8.2  
 
 ####Geestelijke verzorging
 
 In de huisregels worden regels gesteld over: 
 
-wanneer en waar contact met de geestelijk verzorger kan plaatsvinden, of wanneer en waar het bijwonen van bijeenkomsten van godsdienstige of levensbeschouwelijke aard mogelijk is (het laatste tenzij er aanleiding is dit te verbieden).    
+wanneer en waar contact met de geestelijk verzorger kan plaatsvinden, of wanneer en waar het bijwonen van bijeenkomsten van godsdienstige of levensbeschouwelijke aard mogelijk is (het laatste tenzij er aanleiding is dit te verbieden).   
 
-### 8.3  
+###8.3  
 
 ####Medische verzorging
 
@@ -473,9 +473,9 @@ de tijden en plaatsen dat de aan de inrichting verbonden arts spreekuur houdt;
 
 het recht van de verpleegde voor eigen rekening een arts van zijn keuze te raadplegen;  
 
-de procedure volgens welke medicijnen worden verstrekt.    
+de procedure volgens welke medicijnen worden verstrekt.   
 
-### 8.4  
+###8.4  
 
 ####Voeding, kleding en schoeisel
 
@@ -485,9 +485,9 @@ wanneer en waar (op de afdeling) in de inrichting wordt gegeten;
 
 de (mogelijke) verplichting tijdens het verrichten van werkzaamheden of sport aangepaste kleding of schoeisel te dragen;  
 
-de wijze waarop en wanneer en waar andere gebruiksartikelen kunnen worden aangekocht dan die welke door het hoofd van de inrichting ter beschikking worden gesteld.    
+de wijze waarop en wanneer en waar andere gebruiksartikelen kunnen worden aangekocht dan die welke door het hoofd van de inrichting ter beschikking worden gesteld.   
 
-### 8.5  
+###8.5  
 
 ####Organisatie sociale verzorging en hulpverlening in de inrichting
 
@@ -499,9 +499,9 @@ de mogelijkheden in de inrichting terzake van sociale verzorging en hulpverlenin
 
 de voorwaarden waaronder een tegemoetkoming kan worden verleend in de kosten die aan het volgen van onderwijs en het deelnemen aan andere educatieve activiteiten kunnen zijn verbonden;  
 
-de tijden dat verblijf in de buitenlucht, gedurende tenminste een uur per dag, mogelijk is.    
+de tijden dat verblijf in de buitenlucht, gedurende tenminste een uur per dag, mogelijk is.   
 
-### 8.6  
+###8.6  
 
 ####Geld in de inrichting
 
@@ -509,9 +509,9 @@ In de huisregels wordt informatie verstrekt over:
 
 wat onder eigen geld van de verpleegde wordt begrepen;  
 
-de regels die in de inrichting gelden met betrekking tot het beheer van het eigen geld van de verpleegde.    
+de regels die in de inrichting gelden met betrekking tot het beheer van het eigen geld van de verpleegde.   
 
-### 8.7  
+###8.7  
 
 ####Arbeid
 
@@ -523,7 +523,7 @@ op welke vergoeding daarvoor conform besluit van de Minister van Justitie recht 
 
 dat de verpleegden niet verplicht kunnen worden op zondag werkzaamheden te verrichten.    
 
-### 9  
+###9  
 
 ####Onderbrenging van een kind in de inrichting
 
@@ -545,7 +545,7 @@ het moeten weigeren of intrekken van de toestemming indien onderbrenging van het
 
 de verblijfsruimte, hoe het kind wordt opgevangen indien de verpleegde deel neemt aan activiteiten in de inrichting, faciliteiten enz.    
 
-### 10  
+###10  
 
 ####Disciplinaire straffen
 
@@ -559,11 +559,11 @@ welke disciplinaire straffen kunnen worden opgelegd;
 
 de mogelijkheid van een schaderegeling naast een disciplinaire straf, terzake van schade aan eigendommen van de inrichting of personeelsleden of medewerkers of medeverpleegden.    
 
-### 11  
+###11  
 
 ####Verlof/proefverlof
 
-### 11.1  
+###11.1  
 
 ####Verlof
 
@@ -575,15 +575,15 @@ de machtiging van de Minister die is vereist;
 
 de voorwaarden die aan verlof kunnen worden verbonden;  
 
-de mogelijkheid dat het verlof wordt ingetrokken.    
+de mogelijkheid dat het verlof wordt ingetrokken.   
 
-### 11.2  
+###11.2  
 
 ####Procedure voorafgaand aan verlofverlening
 
-In de huisregels wordt een nadere procedure vastgesteld die voorafgaat aan het verlenen van verlof. In de huisregels wordt tevens een procedure opgenomen betreffende de wijze en de frequentie van controle op het verlof.  
+In de huisregels wordt een nadere procedure vastgesteld die voorafgaat aan het verlenen van verlof. In de huisregels wordt tevens een procedure opgenomen betreffende de wijze en de frequentie van controle op het verlof. 
 
-### 11.3  
+###11.3  
 
 ####Bijwonen gerechtelijke procedures
 
@@ -591,9 +591,9 @@ In de huisregels wordt informatie verstrekt over:
 
 in welke gevallen de ter beschikking gestelde of anderszins verpleegde in de gelegenheid wordt gesteld een gerechtelijke procedure bij te wonen;  
 
-de mogelijkheid dat tijdens het verlaten van de inrichting toezicht wordt uitgeoefend.    
+de mogelijkheid dat tijdens het verlaten van de inrichting toezicht wordt uitgeoefend.   
 
-### 11.4  
+###11.4  
 
 ####Proefverlof
 
@@ -603,9 +603,9 @@ in welke gevallen proefverlof kan worden verleend;
 
 de voorwaarden die aan het proefverlof kunnen worden verbonden;  
 
-de mogelijkheid dat de machtiging tot proefverlof wordt ingetrokken.    
+de mogelijkheid dat de machtiging tot proefverlof wordt ingetrokken.   
 
-### 11.5  
+###11.5  
 
 ####Voorwaardelijke beëindiging van de verpleging
 
@@ -613,11 +613,11 @@ In de huisregels kan informatie worden verstrekt over:
 
 de mogelijkheid dat de verpleging voorwaardelijk beëindigd wordt.    
 
-### 12  
+###12  
 
 ####Informatie en hoorplicht
 
-### 12.1  
+###12.1  
 
 ####Informatieplicht
 
@@ -627,9 +627,9 @@ zijn rechten en plichten;
 
 de bevoegdheid van de verpleegde een verzoek tot bemiddeling te doen, een klaag- of beroepschrift in te dienen;  
 
-het recht om de consulaire vertegenwoordiging van zijn land van zijn vrijheidsbeneming op de hoogte te laten stellen, indien de verpleegde een vreemdeling is.    
+het recht om de consulaire vertegenwoordiging van zijn land van zijn vrijheidsbeneming op de hoogte te laten stellen, indien de verpleegde een vreemdeling is.   
 
-### 12.2  
+###12.2  
 
 ####Hoorplicht
 
@@ -639,9 +639,9 @@ de gevallen waarin de verpleegde of de ter beschikking gestelde wordt gehoord;
 
 de mogelijkheid bij het horen een tolk in te schakelen;  
 
-in welke gevallen het horen achterwege kan worden gelaten.    
+in welke gevallen het horen achterwege kan worden gelaten.   
 
-### 12.3  
+###12.3  
 
 ####Mededeling beslissingen
 
@@ -649,7 +649,7 @@ In de huisregels wordt informatie verstrekt over:
 
 de gevallen waarin de verpleegde een schriftelijke mededeling van een beslissing ontvangt.    
 
-### 13  
+###13  
 
 ####Bemiddeling
 
@@ -667,7 +667,7 @@ de wijze waarop de commissie van toezicht kan trachten een oplossing te bereiken
 
 de wijze waarop de bemiddeling wordt afgesloten.    
 
-### 14  
+###14  
 
 ####Beklag
 
@@ -693,11 +693,11 @@ de mogelijkheid van de verpleegde aan de voorzitter van de beroepscommissie te v
 
 de uitspraken die de beklagcommissie kan doen.    
 
-### 15  
+###15  
 
 ####Beroep
 
-### 15.1  
+###15.1  
 
 ####Beroep van beslissingen waartegen beklag open staat
 
@@ -711,9 +711,9 @@ de procedure die wordt gevolgd door de beroepscommissie van de Centrale Raad voo
 
 de mogelijkheid schorsing te verzoeken aan de voorzitter van de beroepscommissie;  
 
-de uitspraken die de beroepscommissie kan doen.    
+de uitspraken die de beroepscommissie kan doen.   
 
-### 15.2  
+###15.2  
 
 ####Beroep van beslissingen waartegen geen beklag open staat
 
@@ -727,11 +727,11 @@ de procedure die wordt gevolgd;
 
 de uitspraken die kunnen worden gedaan.    
 
-### 16  
+###16  
 
 ####Medezeggenschap en vertegenwoordiging
 
-### 16.1  
+###16.1  
 
 ####Verpleegdenraad
 
@@ -743,9 +743,9 @@ de taak van de verpleegdenraad;
 
 hoe de verpleegde zich tot de verpleegdenraad kan wenden;  
 
-wanneer en waar de verpleegdenraad vergadert.    
+wanneer en waar de verpleegdenraad vergadert.   
 
-### 16.2  
+###16.2  
 
 ####Vertegenwoordiging
 
@@ -753,27 +753,27 @@ In de huisregels wordt informatie verstrekt over:
 
 welke rechten, toekomend aan de ter beschikking gestelde of de verpleegde, in geval van curatele, mentorschap of minderjarigheid, mede kunnen worden uitgeoefend door vertegenwoordigers.    
 
-### 17  
+###17  
 
 ####Beëindiging verblijf van met hun instemming opgenomen verpleegden
 
 In de huisregels wordt informatie verstrekt over: 
 
-onder welke omstandigheden het hoofd van de inrichting het verblijf van een met zijn instemming opgenomen verpleegde kan of moet beëindigen.    
+onder welke omstandigheden het hoofd van de inrichting het verblijf van een met zijn instemming opgenomen verpleegde kan of moet beëindigen.   
 
-### Hoofdstuk  18  
+### Hoofdstuk 18  
 
 ####Beloningsysteem verpleegden
 
-### 18.1  
+###18.1  
 
-Het hoofd van de inrichting stelt een beloningsysteem in, met inachtneming van het navolgende `model beloningsysteem verpleegden'.  
+Het hoofd van de inrichting stelt een beloningsysteem in, met inachtneming van het navolgende `model beloningsysteem verpleegden'. 
 
-### 18.2  
+###18.2  
 
-Het hoofd van de inrichting treft zoveel als mogelijk adequate voorzieningen om verpleegden in staat te stellen opdrachten of werkzaamheden in het kader van de behandeling te verrichten.  
+Het hoofd van de inrichting treft zoveel als mogelijk adequate voorzieningen om verpleegden in staat te stellen opdrachten of werkzaamheden in het kader van de behandeling te verrichten. 
 
-### 18.3  
+###18.3  
 
 ####Model beloningsysteem verpleegden
 

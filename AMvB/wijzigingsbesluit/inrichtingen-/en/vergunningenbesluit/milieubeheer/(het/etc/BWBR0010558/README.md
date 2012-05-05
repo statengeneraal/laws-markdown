@@ -14,22 +14,25 @@ Gezien het nader rapport van Onze Minister van Volkshuisvesting, Ruimtelijke Ord
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 01-09-2002 
 
-Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer   
+Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer  
 
 ### Artikel  II  
+Materieel uitgewerkt per 01-09-2002 
 
-De voorschriften die zijn verbonden aan een krachtens [artikel 8.1, eerste lid, van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) verleende vergunning voor een inrichting voor het in oppervlaktewater op of in de bodem brengen van onderhoudsspecie van de klasse 0, 1 of 2, die voor het tijdstip van inwerkingtreding van dit besluit is verleend, blijven gedurende een jaar na dat tijdstip van kracht.  
+De voorschriften die zijn verbonden aan een krachtens [artikel 8.1, eerste lid, van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) verleende vergunning voor een inrichting voor het in oppervlaktewater op of in de bodem brengen van onderhoudsspecie van de klasse 0, 1 of 2, die voor het tijdstip van inwerkingtreding van dit besluit is verleend, blijven gedurende een jaar na dat tijdstip van kracht. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 01-09-2002 
 
-Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 28 juni 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
 J. P. Pronk   
@@ -37,4 +40,4 @@ J. P. Pronk
 de *vijftiende* juli 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

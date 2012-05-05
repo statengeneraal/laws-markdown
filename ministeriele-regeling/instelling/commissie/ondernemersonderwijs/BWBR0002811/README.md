@@ -6,7 +6,7 @@ De Staatssecretaris van Economische Zaken en de Minister van Onderwijs en Wetens
 
 ### Artikel  1  
 
-Er is een Commissie ondernemersonderwijs.  
+Er is een Commissie ondernemersonderwijs. 
 
 ### Artikel  2  
 
@@ -23,7 +23,7 @@ d. de aanpassing van het cursorische detailhandelsonderwijs aan de eisen van de 
 
 e. de eisen te stellen aan het onderwijzend personeel bij het geïntegreerde cursorische onderwijs;  
 
-f. de behoefte aan applicatie-onderwijs voor gevestigde ondernemers.     
+f. de behoefte aan applicatie-onderwijs voor gevestigde ondernemers.    
 
 ### Artikel  3  
 
@@ -36,7 +36,7 @@ f. de behoefte aan applicatie-onderwijs voor gevestigde ondernemers.
 *als ambtelijke waarnemers:*  mr. P. D. Walbeehm, administrateur bij het Ministerie van Onderwijs en Wetenschappen; drs. A. G. Hilbrink, inspecteur van het middenstandsonderwijs bij het Ministerie van Onderwijs en Wetenschappen; mr. G. J. A. L. Bank, hoofdadministrateur bij het Ministerie van Economische Zaken;  
 
 *als ambtelijke waarnemer en secretaris:*  drs. A. L. Dirken, administrateur bij het Ministerie van Economische Zaken.     
-2.  De Commissie zal, indien zij dit nodig acht, deskundigen kunnen horen.   
+2.  De Commissie zal, indien zij dit nodig acht, deskundigen kunnen horen.  
 Afschrift van deze beschikking, die in de Nederlandse Staatscourant zal worden bekendgemaakt, zal worden gezonden aan de Algemene Rekenkamer.   
 
 's-Gravenhage 
@@ -44,8 +44,8 @@ Afschrift van deze beschikking, die in de Nederlandse Staatscourant zal worden b
 
 De 
 Staatssecretaris van Economische Zaken, 
-J. J. M.Oostenbrink 
+J. J. M.Oostenbrink   
 
 De 
 Minister van Onderwijs en Wetenschappen, 
-C. vanVeen    
+C. van Veen     

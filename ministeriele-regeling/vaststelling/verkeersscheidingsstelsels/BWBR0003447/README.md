@@ -10,11 +10,11 @@ Besluit:
 
 ### Artikel  1  
 
-Vastgesteld worden de verkeersscheidingsstelsels zoals deze zijn omschreven in de bij dit besluit behorende bijlage.  
+Vastgesteld worden de verkeersscheidingsstelsels zoals deze zijn omschreven in de bij dit besluit behorende bijlage. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van 1 november 1981. Het wordt in de Nederlandse Staatscourant bekend gemaakt.  
+Dit besluit treedt in werking met ingang van 1 november 1981. Het wordt in de Nederlandse Staatscourant bekend gemaakt. 
 De bij het besluit behorende bijlage wordt opgenomen in het Handboek routering van schepen, dat bij de Staatsuitgeverij te 's-Gravenhage verkrijgbaar wordt gesteld.   
 
 's-Gravenhage 
@@ -22,4 +22,4 @@ De bij het besluit behorende bijlage wordt opgenomen in het Handboek routering v
 
 De 
 Minister voornoemd, 
-H. J.Zeevalking    
+H. J. Zeevalking      

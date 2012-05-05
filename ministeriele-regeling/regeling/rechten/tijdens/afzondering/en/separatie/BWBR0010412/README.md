@@ -6,13 +6,13 @@ De Minister van Justitie,
 Gelet op [artikel 34, achtste lid, van de Beginselenwet verpleging ter beschikking gestelden](../../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md);
 
 Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 6 oktober 1998, nr. 719424;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
 ####Begripsbepalingen
 
-In deze regeling wordt verstaan onder:   wet:  de [Beginselenwet verpleging ter beschikking gestelden](../../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md).     
+In deze regeling wordt verstaan onder:   wet:  de [Beginselenwet verpleging ter beschikking gestelden](../../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md).    
 
 ### Artikel  2  
 
@@ -42,9 +42,9 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling rechten tijdens afzondering en separatie.  
+Deze regeling wordt aangehaald als: Regeling rechten tijdens afzondering en separatie. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Justitie, 
-A.H.Korthals.    
+A.H. Korthals  .    

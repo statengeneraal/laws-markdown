@@ -11,27 +11,27 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### ARTIKEL  I  
 
-Wijzigt Boek 2 Burgerlijk Wetboek.   
+Wijzigt Boek 2 Burgerlijk Wetboek.  
 
 ### ARTIKEL  II  
 
-Wijzigt de Wet melding zeggenschap in ter beurze genoteerde vennootschappen 1996.   
+Wijzigt de Wet melding zeggenschap in ter beurze genoteerde vennootschappen 1996.  
 
 ### ARTIKEL  III  
 
-Wijzigt de Wet toezicht effectenverkeer 1995.   
+Wijzigt de Wet toezicht effectenverkeer 1995.  
 
 ### ARTIKEL  IV  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten.  
 
 ### ARTIKEL  V  
 
-Iedere bestuurder en commissaris van een vennootschap die op het tijdstip van inwerkingtreding van deze wet beschikt over aandelen in het kapitaal van de vennootschap of in het kapitaal van met de vennootschap gelieerde vennootschappen, dan wel over stemmen die op het geplaatste kapitaal van de vennootschap en op het geplaatste kapitaal van met de vennootschap gelieerde vennootschappen kunnen worden uitgebracht, doet hiervan binnen vier weken na het tijdstip van inwerkingtreding van deze wet melding aan de vennootschap en aan Onze Minister.  
+Iedere bestuurder en commissaris van een vennootschap die op het tijdstip van inwerkingtreding van deze wet beschikt over aandelen in het kapitaal van de vennootschap of in het kapitaal van met de vennootschap gelieerde vennootschappen, dan wel over stemmen die op het geplaatste kapitaal van de vennootschap en op het geplaatste kapitaal van met de vennootschap gelieerde vennootschappen kunnen worden uitgebracht, doet hiervan binnen vier weken na het tijdstip van inwerkingtreding van deze wet melding aan de vennootschap en aan Onze Minister. 
 
 ### ARTIKEL  VI  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor onderdelen daarvan verschillend kan worden vastgesteld.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

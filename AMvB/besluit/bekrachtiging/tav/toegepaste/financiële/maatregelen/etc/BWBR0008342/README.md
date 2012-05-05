@@ -43,28 +43,28 @@ l. een verhoging van het salaris van de adspirant-politieambtenaar met 1,8% met 
 
 m. een toekenning van een eindejaarsuitkering aan de in de maand november 1993 in dienst zijnde politieambtenaren, ter grootte van 12 x 0,25% van het voor de politieambtenaar over de maand november 1993 geldende salaris.  
 
-n. een verhoging van de vaste component van de inconveniëntentoelage voor politieambtenaren met 0,7% voor de toenmalige schaal 5, met 0,4% voor de toenmalige schaal 4 en met 0,1% voor de toenmalige schalen 1 tot en 3 met ingang van 1 april 1993.    
+n. een verhoging van de vaste component van de inconveniëntentoelage voor politieambtenaren met 0,7% voor de toenmalige schaal 5, met 0,4% voor de toenmalige schaal 4 en met 0,1% voor de toenmalige schalen 1 tot en 3 met ingang van 1 april 1993.   
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 
 's-Gravenhage 
 25 november 1996  
-Beatrix  
+Beatrix   
 
 De Minister van Justitie, 
-W. Sorgdrager   
+W. Sorgdrager    
 
 De Minister van Binnenlandse Zaken, 
 H. F. Dijkstal   
 
-de *veertiende* januari 1997 
+de* veertiende* januari 1997 
 
 De Minister van Justitie, 
-W. Sorgdrager    
+W. Sorgdrager     
 
 ### Bijlage  1  
 
@@ -142,7 +142,7 @@ W. Sorgdrager
 
 ### Bijlage  2  
 
-GARANTIESCHALEN  
+GARANTIESCHALEN   
 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -183,11 +183,11 @@ GARANTIESCHALEN
 | 30-06-93  | Bedrag per maand  | Bedrag per week  | Bedrag per dag  | Bedrag per uur  | Reserve-rijkspolitie  |--- |--- |--- |--- |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | --- | --- | --- | --- | --- |
-| Reserve-wachtmeester  | 2 892,77  | 668,85  | 133,77  | 20,56  |
+| Reserve-wachtmeester  | 2 892,77  |  668,85  | 133,77  | 20,56  |
 | --- | --- | --- | --- | --- |
-| Reserve wachtmeester eerste klasse  | 3 594,58  | 831,12  | 166,23  | 20,56  |
+| Reserve wachtmeester eerste klasse  | 3 594,58  |  831,12  | 166,23  | 20,56  |
 | --- | --- | --- | --- | --- |
-| Reserve opperwachtmeester  | 4 176,63  | 965,69  | 193,15  | 20,56  |
+| Reserve opperwachtmeester  | 4 176,63  |  965,69  | 193,15  | 20,56  |
 | --- | --- | --- | --- | --- |
 | Reserve-adjudant  | 4 840,46  | 1 119,06  | 223,81  | 32,46  |
 | --- | --- | --- | --- | --- |
@@ -202,11 +202,11 @@ GARANTIESCHALEN
 | 30-06-93  | Bedrag per maand  | Bedrag per week  | Bedrag per dag  | Bedrag per uur  | Reserve-gemeentepolitie  |--- |--- |--- |--- |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | --- | --- | --- | --- | --- |
-| Reserve-agent  | 2 892,77  | 668,85  | 133,77  | 20,56  |
+| Reserve-agent  | 2 892,77  |  668,85  | 133,77  | 20,56  |
 | --- | --- | --- | --- | --- |
-| Reserve-hoofdagent  | 3 594,58  | 831,12  | 166,23  | 20,56  |
+| Reserve-hoofdagent   | 3 594,58  |  831,12  | 166,23  | 20,56  |
 | --- | --- | --- | --- | --- |
-| Reserve-brigadier  | 4 176,63  | 965,69  | 193,15  | 20,56  |
+| Reserve-brigadier  | 4 176,63  |  965,69  | 193,15  | 20,56  |
 | --- | --- | --- | --- | --- |
 | Reserve-adjudant  | 4 840,46  | 1 119,06  | 223,81  | 32,46  |
 | --- | --- | --- | --- | --- |
@@ -214,9 +214,9 @@ GARANTIESCHALEN
 | --- | --- | --- | --- | --- |
 | Reserve-ambtenaar tweede klasse (insp.)  | 5 657,00  | 1 307,98  | 261,59  | 32,46  |
 | --- | --- | --- | --- | --- |
-| Reserve-officier tweede klasse (h.insp.)  | 6 249,65  | 1 445,00  | 288,99  | 32,46  |
+| Reserve-officier tweede klasse (h.insp.)   | 6 249,65  | 1 445,00  | 288,99  | 32,46  |
 | --- | --- | --- | --- | --- |
-| Reserve-ambtenaar eerste klasse (h.insp.)  | 6 982,84  | 1 614,53  | 322,91  | 32,46  |
+| Reserve-ambtenaar eerste klasse (h.insp.)   | 6 982,84  | 1 614,53  | 322,91  | 32,46  |
 | Maximumbedragen voor loon of inkomen per 30-06-1993  |
 | --- | --- | --- | --- | --- |
 | 62 999,85 per jaar, 5 249,27 per maand, 1 207,46 per week, 241,50 per dag en 30,18 per uur  |

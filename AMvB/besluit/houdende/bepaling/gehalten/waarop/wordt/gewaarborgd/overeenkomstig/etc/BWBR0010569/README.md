@@ -21,9 +21,9 @@ a. voor platina werken op 950 duizendsten;
 
 b. voor gouden werken op 750, 585 en 375 duizendsten;  
 
-c. voor palladium werken op 999 en 500 duizendsten;  
+c. voor palladium werken op 999 en 500 duizendsten; 
 
-d. voor zilveren werken op 925, 830 en 800 duizendsten.    
+d. voor zilveren werken op 925, 830 en 800 duizendsten.   
 
 ### Artikel  2  
 
@@ -33,7 +33,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 's-Gravenhage 
 30 juni 1999  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Economische Zaken, 
 G. Ybema   
@@ -41,4 +41,4 @@ G. Ybema
 de dertiende juli 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

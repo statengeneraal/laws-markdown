@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Verklaring omtrent de goederen van minderjarigen
+##Verklaring omtrent de goederen van minderjarigen 
 
 De Minister van Justitie,  
 Gelet op [artikel 339, eerste lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md),
@@ -8,28 +8,28 @@ Besluit:
 
 ### Artikel  I  
 
-De in [artikel 339, eerste lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) bedoelde verklaring wordt vastgesteld overeenkomstig het bij dit besluit behorende model.  
+De in [artikel 339, eerste lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) bedoelde verklaring wordt vastgesteld overeenkomstig het bij dit besluit behorende model. 
 
-### Artikel  II  
+###Artikel II 
 
-Het besluit van 27 augustus 1964 (Stcrt. 1964, 169) wordt ingetrokken.  
+Het besluit van 27 augustus 1964 (Stcrt. 1964, 169) wordt ingetrokken.
 
-### Artikel  III  
+###Artikel III 
 
-Dit besluit treedt in werking op 1 januari 1970. Het zal worden gepubliceerd in de Nederlandse Staatscourant.  
+Dit besluit treedt in werking op 1 januari 1970.Het zal worden gepubliceerd in de Nederlandse Staatscourant.
 
 's-Gravenhage 
 12 december 1969    
 
 De 
 Minister voornoemd, 
-C. H. E.Polak   
+C. H. E. Polak     
 
 ####VERKLARING OMTRENT DE GOEDEREN VAN MINDERJARIGEN
 
 (art. 339 Boek 1 B.W.)  
 
-Vb. nummer De ondergetekende <sup> 1)  Naam en voornamen voogd(es).  </sup> van beroep wonende te voogd(es) over de minderjarige(n)  
+Vb. nummer De ondergetekende <sup> 1) Naam en voornamen voogd(es). </sup>  van beroep wonende te voogd(es) over de minderjarige(n)  
 
 | Naam  | Voornamen  | Geboortedatum  | Geboorteplaats  |
 |---|---|---|---|

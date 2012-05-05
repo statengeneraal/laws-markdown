@@ -11,33 +11,33 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### ARTIKEL  I  
 
-Wijzigt Boek 1 van het Burgerlijk Wetboek.   
+Wijzigt Boek 1 van het Burgerlijk Wetboek.  
 
 ### ARTIKEL  II  
 
-Wijzigt Boek 1 van het Burgerlijk Wetboek.   
+Wijzigt Boek 1 van het Burgerlijk Wetboek.  
 
 ### ARTIKEL  III  
 
-Wijzigt Boek 1 van het Burgerlijk Wetboek.   
+Wijzigt Boek 1 van het Burgerlijk Wetboek.  
 
 ### ARTIKEL  IV  
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.   
+Wijzigt het Wetboek van Burgerlijke Rechtsvordering.  
 
 ### ARTIKEL  V  
 
-Wanneer in uiterste wilsbeschikkingen, statuten, reglementen of overeenkomsten voor de inwerkingtreding van deze wet gemaakt of aangegaan een rechtsgevolg afhankelijk is gesteld van het al dan niet gehuwd zijn of van een rechtstreeks met het huwelijk verbonden rechtsfeit, wordt met het huwelijk gelijk gesteld een geregistreerd partnerschap, tenzij in de uiterste wilsbeschikking, de statuten, het reglement of de overeenkomst van deze gelijkstelling uitdrukkelijk is afgeweken.  
+Wanneer in uiterste wilsbeschikkingen, statuten, reglementen of overeenkomsten voor de inwerkingtreding van deze wet gemaakt of aangegaan een rechtsgevolg afhankelijk is gesteld van het al dan niet gehuwd zijn of van een rechtstreeks met het huwelijk verbonden rechtsfeit, wordt met het huwelijk gelijk gesteld een geregistreerd partnerschap, tenzij in de uiterste wilsbeschikking, de statuten, het reglement of de overeenkomst van deze gelijkstelling uitdrukkelijk is afgeweken. 
 
 ### ARTIKEL  VI  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 5 juli 1997  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Justitie, 
 E. M. A. Schmitz   

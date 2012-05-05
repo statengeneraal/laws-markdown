@@ -11,19 +11,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-Onze Minister van Landbouw en Visserij wordt gemachtigd op te richten de Stichting Proefstation voor de Varkenshouderij.  
+Onze Minister van Landbouw en Visserij wordt gemachtigd op te richten de Stichting Proefstation voor de Varkenshouderij. 
 
 ### Artikel  2  
 
-De geldelijke aansprakelijkheid van de Staat voor het beheer van de stichting is beperkt tot de schulden welke na haar liquidatie als rechtspersoon mochten overblijven.  
+De geldelijke aansprakelijkheid van de Staat voor het beheer van de stichting is beperkt tot de schulden welke na haar liquidatie als rechtspersoon mochten overblijven. 
 
 ### Artikel  3  
 
-De wet treedt in werking met ingang van de eerste dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
+De wet treedt in werking met ingang van de eerste dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. 
 
 ### Artikel  4  
 
-De wet kan worden aangehaald als Wet Stichting Proefstation voor de Varkenshouderij.  
+De wet kan worden aangehaald als Wet Stichting Proefstation voor de Varkenshouderij. 
 
 Lasten en bevelen, dat deze in het *Staatsblad* zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

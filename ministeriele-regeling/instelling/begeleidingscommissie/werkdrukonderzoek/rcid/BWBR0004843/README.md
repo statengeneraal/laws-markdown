@@ -13,17 +13,17 @@ dat een landelijk gecoördineerde begeleiding van dit onderzoek wenselijk is;   
 
 ### Artikel  1  
 
-Ingesteld wordt de begeleidingscommissie werkdrukonderzoek RCID, hierna te noemen de begeleidingscommissie.  
+Ingesteld wordt de begeleidingscommissie werkdrukonderzoek RCID, hierna te noemen de begeleidingscommissie. 
 
 ### Artikel  2  
 
 De begeleidingscommissie heeft tot taak: 
 
-a. zorg te dragen voor de begeleiding van het ontwikkelen van een kwalitatief verantwoord en bruikbaar meetinstrument, waarmee verschillen in aard en omvang van de werkzaamheden van de regionale CID'en zichtbaar kunnen worden gemaakt;  
+a. zorg te dragen voor de begeleiding van het ontwikkelen van een kwalitatief verantwoord en bruikbaar meetinstrument, waarmee verschillen in aard en omvang van de werkzaamheden van de regionale CID'en zichtbaar kunnen worden gemaakt; 
 
-b. een zo breed mogelijk draagvlak voor de acceptatie van het te ontwikkelen meetinstrument binnen de groep van direct belanghebbenden te realiseren.  
+b. een zo breed mogelijk draagvlak voor de acceptatie van het te ontwikkelen meetinstrument binnen de groep van direct belanghebbenden te realiseren. 
 
-c. ons te adviseren over de bruikbaarheid na toepassing van het meetinstrument op alle regionale CID'en ten behoeve van een herverdeling van het thans centraal toegekende RCID budget over de RCID'en, die recht doet aan de verschillen in werkdruk.    
+c. ons te adviseren over de bruikbaarheid na toepassing van het meetinstrument op alle regionale CID'en ten behoeve van een herverdeling van het thans centraal toegekende RCID budget over de RCID'en, die recht doet aan de verschillen in werkdruk.  
 
 ### Artikel  3  
 
@@ -44,14 +44,14 @@ mr. A. Teerds, beleidsmedewerker bij de directie politie van het Ministerie van 
 W. J. M. Velings, commissaris-korpschef van gemeentepolitie te Tiel, tevens plv. voorzitter van de begeleidingscommissie     
 2.  De vergaderingen van de begeleidingscommissie zullen worden bijgewoond door een vertegenwoordiging van het onderzoeksteam van Andersson, Elffers en Felix B.V.   
 3.  Indien de begeleidingscommissie dat wenselijk oordeelt kunnen deskundigen voor vergaderingen van de begeleidingscommissie worden uitgenodigd.   
-4.  De begeleidingscommissie kan ten behoeve van de haar gestelde taken overgaan tot het instellen van één of meer werkgroepen, met door de begeleidingscommissie nader aan te geven taakopdracht en samenstelling.   
+4.  De begeleidingscommissie kan ten behoeve van de haar gestelde taken overgaan tot het instellen van één of meer werkgroepen, met door de begeleidingscommissie nader aan te geven taakopdracht en samenstelling.  
 
 ### Artikel  4  
 
-Deze beschikking, die zal worden gepubliceerd in de Nederlandse Staatscourant en in het algemeen Politieblad, treedt in werking met ingang van de eerste dag na uitgifte van de Nederlandse Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 15 augustus 1990.  
+Deze beschikking, die zal worden gepubliceerd in de Nederlandse Staatscourant en in het algemeen Politieblad, treedt in werking met ingang van de eerste dag na uitgifte van de Nederlandse Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 15 augustus 1990. 
 
 's-Gravenhage 
 28 augustus 1990    
 
-J. H. Grosheide  
+J. H.Grosheide  
 I. W. Opstelten      

@@ -1,76 +1,76 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Instelling Commissie interdepartementaal Overleg inzake Zeegaande Vaartuigen
+##Instelling Commissie interdepartementaal Overleg inzake Zeegaande Vaartuigen 
 
 De Minister van Verkeer en Waterstaat,  
 Gelet op [artikel 3 van het besluit van 11 oktober 1988 (Stb. 1988, 476), houdende een regeling betreffende coördinatie met betrekking tot civiele zeegaande vaartuigen van de rijksoverheid](../../../../../../../../../KB/besluit/regeling/coördinatie/civiele/zeegaande/vaartuigen/BWBR0004413/README.md) danwel door deze gesubsidieerde stichtingen;
 
 In overeenstemming met de ministers van Binnenlandse Zaken en Koninkrijksrelaties, Defensie, Financiën, Landbouw, Natuurbeheer en Visserij, en van Onderwijs, Cultuur en Wetenschappen;
-Besluit:    
+Besluit:     
 
-### Artikel  1  
+###Artikel 1 
 
-In dit besluit wordt verstaan onder: 
+In dit besluit wordt verstaan onder:
 
-*Commissie:* de Commissie Interdepartementaal Overleg inzake Zeegaande Vaartuigen;  
+*Commissie:* de Commissie Interdepartementaal Overleg inzake Zeegaande Vaartuigen;
 
-*Loket Vlootzaken:* het Loket Vlootzaken van Rijkswaterstaat Noordzee;  
+*Loket Vlootzaken:* het Loket Vlootzaken van Rijkswaterstaat Noordzee;
 
-*Beheerder:* degene die is belast met het beheer over een civiel zeegaand rijksvaartuig.    
+*Beheerder:* degene die is belast met het beheer over een civiel zeegaand rijksvaartuig. 
 
 ### Artikel  2  
 
 1.  Er is een Commissie Interdepartementaal Overleg inzake Zeegaande Vaartuigen.   
 2.  De Commissie wordt bijgestaan door een secretariaat en het Loket Vlootzaken.   
 
-### Artikel  3  
+###Artikel 3 
 
-1.  De Commissie adviseert de ministers van Verkeer en Waterstaat, Binnenlandse Zaken en Koninkrijksrelaties, Defensie, Financiën, Landbouw, Natuur en Voedselkwaliteit, en van Onderwijs, Cultuur en Wetenschappen jaarlijks omtrent: 
+1. De Commissie adviseert de ministers van Verkeer en Waterstaat, Binnenlandse Zaken en Koninkrijksrelaties, Defensie, Financiën, Landbouw, Natuur en Voedselkwaliteit, en van Onderwijs, Cultuur en Wetenschappen jaarlijks omtrent:
 
-a. het interdepartementaal gebruik van de bij de in de aanhef genoemde ministeries in beheer zijnde civiele zeegaande rijksvaartuigen;  
+a. het interdepartementaal gebruik van de bij de in de aanhef genoemde ministeries in beheer zijnde civiele zeegaande rijksvaartuigen;
 
-b. de verwerving van civiele zeegaande vaartuigen voor de rijksoverheid; en  
+b. de verwerving van civiele zeegaande vaartuigen voor de rijksoverheid; en
 
-c. de verwerving van civiele zeegaande vaartuigen ten behoeve van stichtingen of andere instellingen die geheel of overwegend door de rijksoverheid worden gesubsidieerd.     
-2.  De Commissie doet van een door haar uitgebracht advies als bedoeld in het eerste lid, een afschrift toekomen aan het Interdepartementaal Directeuren Overleg Noordzee.   
+c. de verwerving van civiele zeegaande vaartuigen ten behoeve van stichtingen of andere instellingen die geheel of overwegend door de rijksoverheid worden gesubsidieerd.
+2. De Commissie doet van een door haar uitgebracht advies als bedoeld in het eerste lid, een afschrift toekomen aan het Interdepartementaal Directeuren Overleg Noordzee. 
 
 ### Artikel  4  
 
 1.  De Commissie ontwerpt met betrekking tot de civiele zeegaande vaartuigen voor de in artikel 3 genoemde ministers jaarlijks een interdepartementaal vlootplan.   
 2.  Het in het eerste lid bedoelde vlootplan wordt opgesteld aan de hand van: 
 
-a. de jaarlijks door de afzonderlijke ministers of beheerders in te dienen vlootplannen en operationele en financiële gegevens; en  
+a.  de jaarlijks door de afzonderlijke ministers of beheerders in te dienen vlootplannen en operationele en financiële gegevens; en  
 
-b. de geplande operationele inzet en ontwikkelingen vanuit: 
+b.  de geplande operationele inzet en ontwikkelingen vanuit: 
 
-- het Nederlands Hydrografisch Instituut, als federatieve samenwerkingsorganisatie voor hydrografische activiteiten van een aantal rijksdiensten; en  
+-  het Nederlands Hydrografisch Instituut, als federatieve samenwerkingsorganisatie voor hydrografische activiteiten van een aantal rijksdiensten; en  
 
-- de Kustwacht, als samenwerkingsorganisatie van een aantal operationele rijksdiensten.       
+-  de Kustwacht, als samenwerkingsorganisatie van een aantal operationele rijksdiensten.       
 
-### Artikel  5  
+###Artikel 5 
 
-De Commissie bestaat uit een voorzitter, een secretaris, en zes leden.  
+De Commissie bestaat uit een voorzitter, een secretaris, en zes leden. 
 
-### Artikel  6  
+###Artikel 6 
 
-1.  De voorzitter en de secretaris van de Commissie worden benoemd door de Minister van Verkeer en Waterstaat.   
-2.  De leden van de Commissie worden als volgt aangewezen: 
+1. De voorzitter en de secretaris van de Commissie worden benoemd door de Minister van Verkeer en Waterstaat.
+2. De leden van de Commissie worden als volgt aangewezen:
 
-a. één lid door de Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
+a. één lid door de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-b. één lid door de Minister van Defensie;  
+b. één lid door de Minister van Defensie;
 
-c. één lid door de Minister van Financiën;  
+c. één lid door de Minister van Financiën;
 
-d. één lid door de Minister van Landbouw, Natuur en Voedselkwaliteit;  
+d. één lid door de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-e. één lid door de Minister van Onderwijs, Cultuur en Wetenschappen; en  
+e. één lid door de Minister van Onderwijs, Cultuur en Wetenschappen; en
 
-f. één lid door de Minister van Verkeer en Waterstaat.     
+f. één lid door de Minister van Verkeer en Waterstaat. 
 
-### Artikel  7  
+###Artikel 7 
 
-Het secretariaat van de Commissie wordt verzorgd door het Ministerie van Verkeer en Waterstaat en wordt organisatorisch ondergebracht bij Rijkswaterstaat Noordzee van dat ministerie.  
+Het secretariaat van de Commissie wordt verzorgd door het Ministerie van Verkeer en Waterstaat en wordt organisatorisch ondergebracht bij Rijkswaterstaat Noordzee van dat ministerie. 
 
 ### Artikel  8  
 
@@ -95,17 +95,17 @@ Het Loket Vlootzaken stelt adviezen op betreffende de ontwerptechnische, bedrijf
 
 Het Loket Vlootzaken kan op verzoek van een in artikel 3 genoemde minister of een beheerder: 
 
-a. ondersteunend optreden bij de uitvoering van de in artikel 11 bedoelde adviezen met betrekking tot aanbesteding, aankoop of huur van civiele zeegaande vaartuigen;  
+a.  ondersteunend optreden bij de uitvoering van de in artikel 11 bedoelde adviezen met betrekking tot aanbesteding, aankoop of huur van civiele zeegaande vaartuigen;  
 
-b. adviseren met betrekking tot civiele zeegaande vaartuigen, ten aanzien van: 
+b.  adviseren met betrekking tot civiele zeegaande vaartuigen, ten aanzien van: 
 
-1° doelmatig gebruik;  
+1°  doelmatig gebruik;  
 
 2° plannen en kostenramingen betreffende het jaarlijks onderhoud en belangrijke tussentijdse herstelwerkzaamheden;  
 
-3° verbouwing van bestaande vaartuigen;  
+3°  verbouwing van bestaande vaartuigen;  
 
-4° het rationaliseren van onderhoudsintervallen.      
+4°  het rationaliseren van onderhoudsintervallen.      
 
 ### Artikel  13  
 
@@ -121,9 +121,9 @@ De [Regeling van de Minister van Verkeer en Waterstaat van 19 mei 1992, nr. ICON
 
 ### Artikel  16  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Verkeer en Waterstaat, 
-Roelf H. deBoer    
+Roelf H. de Boer      

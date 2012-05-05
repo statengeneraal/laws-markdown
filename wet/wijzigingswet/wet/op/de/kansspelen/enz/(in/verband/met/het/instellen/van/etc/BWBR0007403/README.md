@@ -11,19 +11,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-De vergunningen verleend krachtens de [artikelen 27 *p*](../../../../../../../../../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) en [30 *g* van de Wet op de kansspelen](../../../../../../../../../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), zoals deze artikelen luidden voor de inwerkingtreding van deze wet, blijven van kracht tot uiterlijk drie maanden nadat deze wet in werking is getreden.  
+De vergunningen verleend krachtens de [artikelen 27*p* ](../../../../../../../../../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md) en [30*g* van de Wet op de kansspelen](../../../../../../../../../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md), zoals deze artikelen luidden voor de inwerkingtreding van deze wet, blijven van kracht tot uiterlijk drie maanden nadat deze wet in werking is getreden. 
 
 ### Artikel  IV  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

@@ -1,12 +1,12 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling toepassing mechanische middelen in penitentiaire inrichtingen
+##Regeling toepassing mechanische middelen in penitentiaire inrichtingen 
 
 De Minister van Justitie,  
 Gelet op [artikel 33, vierde lid, van de Penitentiaire beginselenwet](../../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);
 
 Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 19 mei 1998 (nr. 697452/98);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -26,32 +26,32 @@ In deze regeling wordt verstaan onder: wet: de [Penitentiaire beginselenwet](../
 
 Een mechanisch middel voldoet aan de volgende eisen: 
 
-a. het middel kan snel en gemakkelijk worden bevestigd;  
+a.  het middel kan snel en gemakkelijk worden bevestigd; 
 
-b. het middel heeft geen scherpe, ruwe of puntige onderdelen;  
+b.  het middel heeft geen scherpe, ruwe of puntige onderdelen; 
 
-c. correcte toepassing van het middel leidt niet tot lichamelijke beschadiging of tot ongemak dat langer duurt dan noodzakelijkerwijs samenhangt met de toepassing van het middel;  
+c.  correcte toepassing van het middel leidt niet tot lichamelijke beschadiging of tot ongemak dat langer duurt dan noodzakelijkerwijs samenhangt met de toepassing van het middel; 
 
-d. het middel kan eenvoudig gereinigd worden.    
+d.  het middel kan eenvoudig gereinigd worden.   
 
 ### Artikel  5  
 
 1.  De directeur stelt voor de toepassing van mechanische middelen een protocol vast.   
 2.  Het protocol omvat in elk geval: 
 
-a. welke mechanische middelen in de inrichting aanwezig zijn en op welke wijze zij worden toegepast;  
+a.  welke mechanische middelen in de inrichting aanwezig zijn en op welke wijze zij worden toegepast; 
 
-b. de voorschriften voor de toepassing van de mechanische middelen;  
+b.  de voorschriften voor de toepassing van de mechanische middelen; 
 
-c. de aanwijzing van de ambtenaar of medewerker, bedoeld in artikel 6, belast met de verzorging van en het toezicht op de gedetineerde ten aanzien van wie een mechanisch middel is toegepast;  
+c.  de aanwijzing van de ambtenaar of medewerker, bedoeld in artikel 6, belast met de verzorging van en het toezicht op de gedetineerde ten aanzien van wie een mechanisch middel is toegepast; 
 
-d. de wijze van verslaglegging inzake de toestand van de gedetineerde;  
+d.  de wijze van verslaglegging inzake de toestand van de gedetineerde; 
 
-e. de wijze waarop de besluitvorming tot stand komt en wordt vastgelegd ten aanzien van de aanvang, de continuering en de beëindiging van de toepassing van de mechanische middelen;  
+e.  de wijze waarop de besluitvorming tot stand komt en wordt vastgelegd ten aanzien van de aanvang, de continuering en de beëindiging van de toepassing van de mechanische middelen; 
 
-f. de wijze waarop betrokken ambtenaren of medewerkers periodiek worden getraind in de toepassing van mechanische middelen;  
+f.  de wijze waarop betrokken ambtenaren of medewerkers periodiek worden getraind in de toepassing van mechanische middelen; 
 
-g. de wijze van bekendmaking van het protocol.     
+g.  de wijze van bekendmaking van het protocol.    
 
 ### Artikel  6  
 
@@ -76,13 +76,13 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  10  
 
-Deze regeling wordt aangehaald als: Regeling mechanische middelen in penitentiaire inrichtingen.  
+Deze regeling wordt aangehaald als: Regeling mechanische middelen in penitentiaire inrichtingen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Justitie, 
-A.H.Korthals   
+A.H.  Korthals     
 
 ####Bijlage toegestane mechanische middelen
 
-1. Valhelm of schuimhelm 2. Gecapitonneerde handschoenen 3. Mondafscherming 4. Polsbanden aan riem om middel 5. Enkelbanden met tussenstuk 6. Handboeien van een door de Minister van Justitie goedgekeurd merk en type 7. Veiligheidsbed 
+1. Valhelm of schuimhelm 2. Gecapitonneerde handschoenen 3. Mondafscherming 4. Polsbanden aan riem om middel 5. Enkelbanden met tussenstuk 6. Handboeien van een door de Minister van Justitie goedgekeurd merk en type 7. Veiligheidsbed  

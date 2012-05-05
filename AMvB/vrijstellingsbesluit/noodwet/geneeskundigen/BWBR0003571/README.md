@@ -16,8 +16,9 @@ Gezien het nader rapport van de Staatssecretaris van Welzijn, Volksgezondheid en
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Als geneeskundigen aan wie de verplichtingen, bedoeld in [artikel 13, eerste lid, van de Noodwet Geneeskundigen](../../../../../wet/noodwet/geneeskundigen/BWBR0002758/README.md) niet kunnen worden opgelegd, worden aangewezen de geneeskundigen: 
+Als geneeskundigen aan wie de verplichtingen, bedoeld in [artikel 13, eerste lid, van de Noodwet Geneeskundigen](../../../../../wet/noodwet/geneeskundigen/BWBR0002758/README.md) niet kunnen worden opgelegd, worden aangewezen de geneeskundigen:  
 
 a. die zijn aangewezen als bevoegd gezag in de zin van de [Noodwet Geneeskundigen](../../../../../wet/noodwet/geneeskundigen/BWBR0002758/README.md);  
 
@@ -25,19 +26,22 @@ b. die werkzaam zijn als Hoofdinspecteur of, voor zover niet vallend onder *a*, 
 
 c. die werkzaam zijn onder de bevelen van een Hoofdinspecteur of een regionale Inspecteur van het Staatstoezicht op de Volksgezondheid;  
 
-d. aangewezen krachtens [artikel 2, eerste lid, van de Noodwet Geneeskundigen](../../../../../wet/noodwet/geneeskundigen/BWBR0002758/README.md), die ter voldoening aan een daartoe met Onze Minister van Defensie aangegane verbintenis een opleiding tot arts, tandarts of apotheker volgen.    
+d. aangewezen krachtens [artikel 2, eerste lid, van de Noodwet Geneeskundigen](../../../../../wet/noodwet/geneeskundigen/BWBR0002758/README.md), die ter voldoening aan een daartoe met Onze Minister van Defensie aangegane verbintenis een opleiding tot arts, tandarts of apotheker volgen.   
 
 ### Artikel  2  
+Treedt in werking op een nader te bepalen tijdstip 
 
-De Minister van Welzijn, Volksgezondheid en Cultuur kan een geneeskundige aanwijzen als geneeskundige aan wie de verplichtingen, bedoeld in [artikel 13, eerste lid, van de Noodwet Geneeskundigen](../../../../../wet/noodwet/geneeskundigen/BWBR0002758/README.md), niet kunnen worden opgelegd, indien naar het oordeel van de Minister de geneeskundige in zijn functie niet kan worden gemist of vervangen.  
+De Minister van Welzijn, Volksgezondheid en Cultuur kan een geneeskundige aanwijzen als geneeskundige aan wie de verplichtingen, bedoeld in [artikel 13, eerste lid, van de Noodwet Geneeskundigen](../../../../../wet/noodwet/geneeskundigen/BWBR0002758/README.md), niet kunnen worden opgelegd, indien naar het oordeel van de Minister de geneeskundige in zijn functie niet kan worden gemist of vervangen. 
 
 ### Artikel  3  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Dit besluit kan worden aangehaald als: Vrijstellingsbesluit Noodwet Geneeskundigen.  
+Dit besluit kan worden aangehaald als: Vrijstellingsbesluit Noodwet Geneeskundigen. 
 
 ### Artikel  4  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Dit besluit treedt in werking op het tijdstip waarop [hoofdstuk II, paragraaf 3, van de Noodwet Geneeskundigen](../../../../../wet/noodwet/geneeskundigen/BWBR0002758/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop [hoofdstuk II, paragraaf 3, van de Noodwet Geneeskundigen](../../../../../wet/noodwet/geneeskundigen/BWBR0002758/README.md) in werking treedt. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

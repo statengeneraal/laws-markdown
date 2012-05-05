@@ -4,7 +4,7 @@
 
 De Minister van Justitie,  
 Gelet op [artikel 37j, eerste en vierde lid, van de Luchtvaartwet](../../../../../../wet/luchtvaartwet/BWBR0002267/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -12,8 +12,8 @@ Het tarief van de beveiligingsheffing bedraagt voor 1999 in de periode van 1 jan
 
 ### Artikel  2  
 
-Deze beschikking treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het is geplaatst.  
+Deze beschikking treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het is geplaatst. 
 
 De 
 Minister van Justitie, 
-A.H.Korthals    
+A.H.  Korthals      

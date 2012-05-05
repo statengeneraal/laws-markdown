@@ -16,7 +16,7 @@ Deze regeling treedt in werking op het tijdstip waarop de Wet van 20 juni 2002 t
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Regeling tarief afgifte expedities en afschriften.  
+Deze regeling wordt aangehaald als: Regeling tarief afgifte expedities en afschriften. 
 Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
@@ -24,4 +24,4 @@ Deze regeling zal (met de toelichting) in de Staatscourant worden geplaatst.
 
 De 
 Minister van Justitie, 
-J.P.H.Donner    
+J.P.H. Donner      

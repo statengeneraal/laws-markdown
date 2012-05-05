@@ -20,11 +20,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit uitvoering artikel 2, achtste lid, Wet aansprakelijkheidsverzekering motorrijtuigen.   
+Wijzigt het Besluit uitvoering artikel 2, achtste lid, Wet aansprakelijkheidsverzekering motorrijtuigen.  
 
 ### Artikel  II  
 
-Wijzigt het Besluit uitvoering artikel 3, derde lid, Wet aansprakelijkheidsverzekering motorrijtuigen.   
+Wijzigt het Besluit uitvoering artikel 3, derde lid, Wet aansprakelijkheidsverzekering motorrijtuigen.  
 
 ### Hoofdstuk  2  
 
@@ -32,19 +32,19 @@ Wijzigt het Besluit uitvoering artikel 3, derde lid, Wet aansprakelijkheidsverze
 
 ### Artikel  III  
 
-Wijzigt het Besluit leerlingen met een niet-Nederlandse culturele achtergrond WBO.   
+Wijzigt het Besluit leerlingen met een niet-Nederlandse culturele achtergrond WBO.  
 
 ### Artikel  IV  
 
-Wijzigt het Onderwijskundig besluit ISOVSO.   
+Wijzigt het Onderwijskundig besluit ISOVSO.  
 
 ### Artikel  V  
 
-Wijzigt het Besluit studiefinanciering.   
+Wijzigt het Besluit studiefinanciering.  
 
 ### Artikel  VI  
 
-Wijzigt het Besluit leerlingen met een niet-Nederlandse culturele achtergrond WVO.   
+Wijzigt het Besluit leerlingen met een niet-Nederlandse culturele achtergrond WVO.  
 
 ### Hoofdstuk  3  
 
@@ -52,47 +52,47 @@ Wijzigt het Besluit leerlingen met een niet-Nederlandse culturele achtergrond WV
 
 ### Artikel  VII  
 
-Wijzigt het Besluit geluidproduktie motorvoertuigen.   
+Wijzigt het Besluit geluidproduktie motorvoertuigen.  
 
 ### Artikel  VIII  
 
-Wijzigt het Besluit uitlaatsystemen motorvoertuigen en bromfietsen.   
+Wijzigt het Besluit uitlaatsystemen motorvoertuigen en bromfietsen.  
 
 ### Artikel  IX  
 
-Wijzigt het Besluit geluidproduktie stroomaggregaten.   
+Wijzigt het Besluit geluidproduktie stroomaggregaten.  
 
 ### Artikel  X  
 
-Wijzigt het Besluit geluidproduktie motorcompressoren.   
+Wijzigt het Besluit geluidproduktie motorcompressoren.  
 
 ### Artikel  XI  
 
-Wijzigt het Besluit geluidproduktie sloophamers.   
+Wijzigt het Besluit geluidproduktie sloophamers.  
 
 ### Artikel  XII  
 
-Wijzigt het Kennisgevingsbesluit Wet milieugevaarlijke stoffen.   
+Wijzigt het Kennisgevingsbesluit Wet milieugevaarlijke stoffen.  
 
 ### Artikel  XIII  
 
-Wijzigt het Besluit geluidproduktie grondverzetmachines.   
+Wijzigt het Besluit geluidproduktie grondverzetmachines.  
 
 ### Artikel  XIV  
 
-Wijzigt het Besluit geluidproduktie torenkranen.   
+Wijzigt het Besluit geluidproduktie torenkranen.  
 
 ### Artikel  XV  
 
-Wijzigt het Besluit biologische afbreekbaarheid oppervlakte-actieve stoffen in wasmiddelen Wet milieugevaarlijke stoffen.   
+Wijzigt het Besluit biologische afbreekbaarheid oppervlakte-actieve stoffen in wasmiddelen Wet milieugevaarlijke stoffen.  
 
 ### Artikel  XVI  
 
-Wijzigt het Besluit geluidproduktie gazonmaaimachines.   
+Wijzigt het Besluit geluidproduktie gazonmaaimachines.  
 
 ### Artikel  XVII  
 
-Wijzigt het Besluit implementatie EEG-stoffenrichtlijn Wet milieugevaarlijke stoffen.   
+Wijzigt het Besluit implementatie EEG-stoffenrichtlijn Wet milieugevaarlijke stoffen.  
 
 ### Hoofdstuk  4  
 
@@ -100,35 +100,35 @@ Wijzigt het Besluit implementatie EEG-stoffenrichtlijn Wet milieugevaarlijke sto
 
 ### Artikel  XVIII  
 
-Wijzigt het Wegenverkeersreglement.   
+Wijzigt het Wegenverkeersreglement.  
 
 ### Artikel  XIX  
 
-Wijzigt het Uitvoeringsbesluit ex artikel 2 Wet tot uitvoering van de Verordening no. 11 van de Raad van de Europese Economische Gemeenschap.   
+Wijzigt het Uitvoeringsbesluit ex artikel 2 Wet tot uitvoering van de Verordening no. 11 van de Raad van de Europese Economische Gemeenschap.  
 
 ### Artikel  XX  
 
-Wijzigt het Binnenschepenbesluit.   
+Wijzigt het Binnenschepenbesluit.  
 
 ### Artikel  XXI  
 
-Wijzigt het Besluit personenvervoer.   
+Wijzigt het Besluit personenvervoer.  
 
 ### Artikel  XXII  
 
-Wijzigt het Besluit radio-elektrische inrichtingen.   
+Wijzigt het Besluit radio-elektrische inrichtingen.  
 
 ### Artikel  XXIII  
 
-Wijzigt het Besluit certificaatloodsen.   
+Wijzigt het Besluit certificaatloodsen.  
 
 ### Artikel  XXIV  
 
-Wijzigt het Besluit goederenvervoer over de weg.   
+Wijzigt het Besluit goederenvervoer over de weg.  
 
 ### Artikel  XXV  
 
-Wijzigt het Besluit vervoer binnenvaart.   
+Wijzigt het Besluit vervoer binnenvaart.  
 
 ### Hoofdstuk  5  
 
@@ -136,23 +136,23 @@ Wijzigt het Besluit vervoer binnenvaart.
 
 ### Artikel  XXVI  
 
-Wijzigt het Octrooigemachtigden-reglement.   
+Wijzigt het Octrooigemachtigden-reglement.  
 
 ### Artikel  XXVII  
 
-Wijzigt het Besluit EEG-tapmaatflessen.   
+Wijzigt het Besluit EEG-tapmaatflessen.  
 
 ### Artikel  XXVIII  
 
-Wijzigt het Eenhedenbesluit 1981.   
+Wijzigt het Eenhedenbesluit 1981.  
 
 ### Artikel  XXIX  
 
-Wijzigt het Algemeen EEG-IJkbesluit.   
+Wijzigt het Algemeen EEG-IJkbesluit.  
 
 ### Artikel  XXX  
 
-Wijzigt het EEG-IJkbesluit niet-automatische weegwerktuigen.   
+Wijzigt het EEG-IJkbesluit niet-automatische weegwerktuigen.  
 
 ### Hoofdstuk  6  
 
@@ -160,15 +160,15 @@ Wijzigt het EEG-IJkbesluit niet-automatische weegwerktuigen.
 
 ### Artikel  XXXI  
 
-Wijzigt het Besluit Categorieën teeltmateriaal.   
+Wijzigt het Besluit Categorieën teeltmateriaal.  
 
 ### Artikel  XXXII  
 
-Wijzigt het Besluit bindende rassenlijsten landbouwgewassen.   
+Wijzigt het Besluit bindende rassenlijsten landbouwgewassen.  
 
 ### Artikel  XXXIII  
 
-Wijzigt het Eisen- en controlebesluit vergunningen diergeneesmiddelen.   
+Wijzigt het Eisen- en controlebesluit vergunningen diergeneesmiddelen.  
 
 ### Hoofdstuk  7  
 
@@ -176,35 +176,35 @@ Wijzigt het Eisen- en controlebesluit vergunningen diergeneesmiddelen.
 
 ### Artikel  XXXIV  
 
-Wijzigt het Stoombesluit.   
+Wijzigt het Stoombesluit.  
 
 ### Artikel  XXXV  
 
-Wijzigt het Inkomensbesluit Toeslagenwet.   
+Wijzigt het Inkomensbesluit Toeslagenwet.  
 
 ### Artikel  XXXVI  
 
-Wijzigt het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1989.   
+Wijzigt het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1989.  
 
 ### Artikel  XXXVII  
 
-Wijzigt het Besluit beroepsactiviteiten waarvoor het geslacht bepalend kan zijn.   
+Wijzigt het Besluit beroepsactiviteiten waarvoor het geslacht bepalend kan zijn.  
 
 ### Artikel  XXXVIII  
 
-Wijzigt het Besluit gemotoriseerde transportwerktuigen.   
+Wijzigt het Besluit gemotoriseerde transportwerktuigen.  
 
 ### Artikel  XXXIX  
 
-Wijzigt het Besluit kantel- en valbeveiligingen bouwmachines.   
+Wijzigt het Besluit kantel- en valbeveiligingen bouwmachines.  
 
 ### Artikel  XL  
 
-Wijzigt het Besluit drukvaten van eenvoudige vorm.   
+Wijzigt het Besluit drukvaten van eenvoudige vorm.  
 
 ### Artikel  XLI  
 
-Wijzigt het Besluit persoonlijke beschermingsmiddelen.   
+Wijzigt het Besluit persoonlijke beschermingsmiddelen.  
 
 ### Hoofdstuk  8  
 
@@ -212,119 +212,119 @@ Wijzigt het Besluit persoonlijke beschermingsmiddelen.
 
 ### Artikel  XLII  
 
-Wijzigt het Besluit op vaste melkprodukten (Warenwet).   
+Wijzigt het Besluit op vaste melkprodukten (Warenwet).  
 
 ### Artikel  XLIII  
 
-Wijzigt het Inschrijvingsbesluit ziekenfondsverzekering.   
+Wijzigt het Inschrijvingsbesluit ziekenfondsverzekering.  
 
 ### Artikel  XLIV  
 
-Wijzigt het Verstrekkingenbesluit ziekenfondsverzekering.   
+Wijzigt het Verstrekkingenbesluit ziekenfondsverzekering.  
 
 ### Artikel  XLV  
 
-Wijzigt het Melkbesluit (Warenwet) 1974.   
+Wijzigt het Melkbesluit (Warenwet) 1974.  
 
 ### Artikel  XLVI  
 
-Wijzigt het Suiker- en stroopbesluit (Warenwet) 1977.   
+Wijzigt het Suiker- en stroopbesluit (Warenwet) 1977.  
 
 ### Artikel  XLVII  
 
-Wijzigt het Besluit registratie geneesmiddelen.   
+Wijzigt het Besluit registratie geneesmiddelen.  
 
 ### Artikel  XLVIII  
 
-Wijzigt het Besluit bereiding en aflevering van farmaceutische produkten.   
+Wijzigt het Besluit bereiding en aflevering van farmaceutische produkten.  
 
 ### Artikel  XLIX  
 
-Wijzigt het Honingbesluit (Warenwet).   
+Wijzigt het Honingbesluit (Warenwet).  
 
 ### Artikel  L  
 
-Wijzigt het Cosmeticabesluit (Warenwet) 1979.   
+Wijzigt het Cosmeticabesluit (Warenwet) 1979.  
 
 ### Artikel  LI  
 
-Wijzigt het Verpakkingen- en gebruiksartikelenbesluit (Warenwet).   
+Wijzigt het Verpakkingen- en gebruiksartikelenbesluit (Warenwet).  
 
 ### Artikel  LII  
 
-Wijzigt het Hoeveelheidsaanduidingenbesluit (Warenwet).   
+Wijzigt het Hoeveelheidsaanduidingenbesluit (Warenwet).  
 
 ### Artikel  LIII  
 
-Wijzigt het Algemeen Aanduidingenbesluit (Warenwet).   
+Wijzigt het Algemeen Aanduidingenbesluit (Warenwet).  
 
 ### Artikel  LIV  
 
-Wijzigt het Kaasbesluit (Warenwet) 1981.   
+Wijzigt het Kaasbesluit (Warenwet) 1981.  
 
 ### Artikel  LV  
 
-Wijzigt het Natuurlijk mineraal- en bronwaterbesluit (Warenwet).   
+Wijzigt het Natuurlijk mineraal- en bronwaterbesluit (Warenwet).  
 
 ### Artikel  LVI  
 
-Wijzigt het Besluit uitbreiding en beperking van de toegang tot particuliere ziektekostenverzekeringen.   
+Wijzigt het Besluit uitbreiding en beperking van de toegang tot particuliere ziektekostenverzekeringen.  
 
 ### Artikel  LVII  
 
-Wijzigt het Besluit beperking kring verzekerden Ziekenfondswet.   
+Wijzigt het Besluit beperking kring verzekerden Ziekenfondswet.  
 
 ### Artikel  LVIII  
 
-Wijzigt het Aanwijzingsbesluit verplicht-verzekerden Ziekenfondswet.   
+Wijzigt het Aanwijzingsbesluit verplicht-verzekerden Ziekenfondswet.  
 
 ### Artikel  LIX  
 
-Wijzigt het Voedingswaardeaanduidingenbesluit (Warenwet).   
+Wijzigt het Voedingswaardeaanduidingenbesluit (Warenwet).  
 
 ### Artikel  LX  
 
-Wijzigt het Besluit nominale premieheffing Ziekenfondswet.   
+Wijzigt het Besluit nominale premieheffing Ziekenfondswet.  
 
 ### Artikel  LXI  
 
-Wijzigt het Warenwetbesluit Speelgoed.   
+Wijzigt het Warenwetbesluit Speelgoed.  
 
 ### Artikel  LXII  
 
-Wijzigt het Besluit nominale premieheffing bijzondere ziektekostenverzekering.   
+Wijzigt het Besluit nominale premieheffing bijzondere ziektekostenverzekering.  
 
 ### Artikel  LXIII  
 
-Wijzigt het Warenwetbesluit Etikettering van levensmiddelen.   
+Wijzigt het Warenwetbesluit Etikettering van levensmiddelen.  
 
 ### Artikel  LXIV  
 
-Wijzigt het Warenwetbesluit Aroma’s.   
+Wijzigt het Warenwetbesluit Aroma’s.  
 
 ### Artikel  LXV  
 
-Wijzigt het Besluit gastoestellen.   
+Wijzigt het Besluit gastoestellen.  
 
 ### Artikel  LXVI  
 
-Wijzigt het Warenwetbesluit Levensmiddelenadditieven.   
+Wijzigt het Warenwetbesluit Levensmiddelenadditieven.  
 
 ### Artikel  LXVII  
 
-Wijzigt het Warenwetbesluit Produkten voor bijzondere voeding.   
+Wijzigt het Warenwetbesluit Produkten voor bijzondere voeding.  
 
 ### Artikel  LXVIII  
 
-Wijzigt het Warenwetbesluit machines.   
+Wijzigt het Warenwetbesluit machines.  
 
 ### Artikel  LXIX  
 
-Wijzigt het Warenwetbesluit elektrotechnische produkten.   
+Wijzigt het Warenwetbesluit elektrotechnische produkten.  
 
 ### Artikel  LXX  
 
-Wijzigt het Warenwetbesluit persoonlijke beschermingsmiddelen.   
+Wijzigt het Warenwetbesluit persoonlijke beschermingsmiddelen.  
 
 ### Hoofdstuk  9  
 
@@ -332,11 +332,11 @@ Wijzigt het Warenwetbesluit persoonlijke beschermingsmiddelen.
 
 ### Artikel  LXXI  
 
-De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijstip worden vastgesteld waarop artikel XIX, onderdeel A, artikel XLI, onderdeel A, onder 2, en artikel LII, onderdeel A, in werking treedt.  
+De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijstip worden vastgesteld waarop artikel XIX, onderdeel A, artikel XLI, onderdeel A, onder 2, en artikel LII, onderdeel A, in werking treedt. 
 
 ### Artikel  LXXII  
 
-Wijzigt het Uitvoeringsbesluit ex artikel 2 Wet tot uitvoering van de Verordening no. 11 van de Raad van de Europese Economische Gemeenschap, het Besluit persoonlijke beschermingsmiddelen en het Hoeveelheidsaanduidingenbesluit.   
+Wijzigt het Uitvoeringsbesluit ex artikel 2 Wet tot uitvoering van de Verordening no. 11 van de Raad van de Europese Economische Gemeenschap, het Besluit persoonlijke beschermingsmiddelen en het Hoeveelheidsaanduidingenbesluit.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.   
 

@@ -17,25 +17,25 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling en de daarop berustende bepalingen wordt verstaan onder:   a. Altimeter Setting Region, afgekort ASR:  hoogtemeter- instellingsgebied;    b. grondkoers:  de projectie op het aardoppervlak van de vliegbaan van een luchtvaartuig waarvan de richting op enig punt wordt uitgedrukt in graden ten opzichte van het ware (T), het magnetische (M) of het kaartnet-noorden (G);    c. hoogte:  de verticale afstand tussen een vlak, een punt of als een punt te beschouwen voorwerp en een referentievlak, referentiepunt of als referentiepunt te beschouwen voorwerp;    d. overgangshoogte:  de hoogte boven gemiddeld zeeniveau waarop en waar beneden de vlieghoogte wordt uitgedrukt in hoogte boven gemiddeld zeeniveau;    e. overgangsniveau:  het laagst beschikbare vliegniveau boven de overgangshoogte;    f. QFE:  de atmosferische druk op het aardoppervlak;    g. QNH:  de QFE herleid tot gemiddeld zeeniveau in de ICAO-standaardatmosfeer;    h. voet, afgekort ft:  de gelijke lengte aan 0,3048 m.     
+In deze regeling en de daarop berustende bepalingen wordt verstaan onder: a.Altimeter Setting Region, afgekort ASR: hoogtemeter- instellingsgebied;b.grondkoers: de projectie op het aardoppervlak van de vliegbaan van een luchtvaartuig waarvan de richting op enig punt wordt uitgedrukt in graden ten opzichte van het ware (T), het magnetische (M) of het kaartnet-noorden (G);c.hoogte: de verticale afstand tussen een vlak, een punt of als een punt te beschouwen voorwerp en een referentievlak, referentiepunt of als referentiepunt te beschouwen voorwerp;d.overgangshoogte: de hoogte boven gemiddeld zeeniveau waarop en waar beneden de vlieghoogte wordt uitgedrukt in hoogte boven gemiddeld zeeniveau;e.overgangsniveau: het laagst beschikbare vliegniveau boven de overgangshoogte;f.QFE: de atmosferische druk op het aardoppervlak;g.QNH: de QFE herleid tot gemiddeld zeeniveau in de ICAO-standaardatmosfeer;h.voet, afgekort ft: de gelijke lengte aan 0,3048 m. 
 
 ####Vliegniveausysteem
 
 ### Artikel  2  
 
 1.  Vliegniveau nul is gelegen op het atmosferische drukvlak van 1013.2 hPa. Opeenvolgende vliegniveaus zijn gescheiden door een drukinterval dat overeenkomst met ten minste 500 ft. in de ICAO-standaardatmosfeer.   
-2.  Een vliegniveau wordt aangeduid met de hoofdletters FL gevolgd door een getal, dat overeenkomt met een honderdste deel van de desbetreffende hoogte in voeten in de ICAO-standaardatmosfeer.   
+2.  Een vliegniveau wordt aangeduid met de hoofdletters FL gevolgd door een getal, dat overeenkomt met een honderdste deel van de desbetreffende hoogte in voeten in de ICAO-standaardatmosfeer.  
 
 ####Overgangshoogte en overgangsniveau
 
 ### Artikel  3  
 
 1.  De overgangshoogte in het vluchtinformatiegebied Amsterdam is voor IFR-vluchten 915m (3000 ft) en voor VFR-vluchten 1070m (3500 ft).   
-2.  Het overgangsniveau in het vluchtinformatiegebied Amsterdam is gelegen op of boven 1220m (4000 ft) boven gemiddeld zeeniveau.   
+2.  Het overgangsniveau in het vluchtinformatiegebied Amsterdam is gelegen op of boven 1220m (4000 ft) boven gemiddeld zeeniveau.  
 
 ### Artikel  4  
 
-Het overgangsniveau, bedoeld in artikel 3, tweede lid, wordt elk uur vastgesteld door het KNMI en zo snel mogelijk aan de betreffende verlener van luchtverkeersdiensten doorgegeven.  
+Het overgangsniveau, bedoeld in artikel 3, tweede lid, wordt elk uur vastgesteld door het KNMI en zo snel mogelijk aan de betreffende verlener van luchtverkeersdiensten doorgegeven. 
 
 ### Afdeling  II  
 
@@ -47,39 +47,39 @@ Het overgangsniveau, bedoeld in artikel 3, tweede lid, wordt elk uur vastgesteld
 
 1.  In het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimten boven het Nederlandse deel van het continentaal plat zijn de volgende hoogtemeterinstellingsgebieden ingesteld: 
 
-a. ASR Amsterdam;  
+a. ASR Amsterdam; 
 
-b. ASR Maastricht;  
+b. ASR Maastricht; 
 
-c. ASR North Sea South;  
+c.ASR North Sea South;
 
-d. ASR North Sea North.     
-2.  Genoemde gebieden worden lateraal begrensd zoals aangegeven in de Luchtvaartgids, ENR 6-1.1.   
-3.  Het KNMI stelt ten minste elk uur de regionale QNH van de onderstaande gebieden vast en meldt deze zo snel mogelijk aan de betreffende verlener van luchtverkeersdiensten: 
+d.ASR North Sea North.   
+2.  Genoemde gebieden worden lateraal begrensd zoals aangegeven in de Luchtvaartgids, ENR 6-1.1.  
+3. Het KNMI stelt ten minste elk uur de regionale QNH van de onderstaande gebieden vast en meldt deze zo snel mogelijk aan de betreffende verlener van luchtverkeersdiensten:
 
-a. luchthaven Schiphol;  
+a.luchthaven Schiphol;
 
-b. luchthaven Maastricht Aachen;  
+b.luchthaven Maastricht Aachen;
 
-c. lichteiland Goeree;  
+c.lichteiland Goeree;
 
-d. platform F16-A.     
+d.platform F16-A. 
 
 ####Hoogtemeterinstelling
 
 ### Artikel  6  
 
 1.  Vóór het opstijgen moet ten minste één drukhoogtemeter worden ingesteld op de QNH van de luchthaven.   
-2.  Bij het tijdens de stijgvlucht passeren van de overgangshoogte moet ten minste één drukhoogtemeter zijn ingesteld op de drukwaarde van 1013.2 hPa.   
+2.  Bij het tijdens de stijgvlucht passeren van de overgangshoogte moet ten minste één drukhoogtemeter zijn ingesteld op de drukwaarde van 1013.2 hPa.  
 
 ### Artikel  7  
 
-Tijdens een vlucht op een kruishoogte op of beneden de overgangshoogte moet ten minste één drukhoogtemeter zijn ingesteld op regionale QNH.  
+Tijdens een vlucht op een kruishoogte op of beneden de overgangshoogte moet ten minste één drukhoogtemeter zijn ingesteld op regionale QNH. 
 
 ### Artikel  8  
 
 1.  Bij het tijdens de daalvlucht passeren van het overgangsniveau moet ten minste één drukhoogtemeter worden ingesteld op QNH van de luchthaven.   
-2.  De in het eerste lid bedoelde instelling op QNH kan reeds vóór het passeren van het overgangsniveau geschieden, indien de betrokken luchtverkeersleidingsdienst – na het verstrekken van de naderingsklaring – toestaat om vlieghoogte uit te drukken in hoogte boven gemiddeld zeeniveau nadat de einddaling is ingezet en wordt voorzien dat boven de overgangshoogte geen horizontale vlucht meer zal plaatsvinden.   
+2.  De in het eerste lid bedoelde instelling op QNH kan reeds vóór het passeren van het overgangsniveau geschieden, indien de betrokken luchtverkeersleidingsdienst – na het verstrekken van de naderingsklaring – toestaat om vlieghoogte uit te drukken in hoogte boven gemiddeld zeeniveau nadat de einddaling is ingezet en wordt voorzien dat boven de overgangshoogte geen horizontale vlucht meer zal plaatsvinden.  
 
 ### Afdeling  III  
 
@@ -91,9 +91,9 @@ Tijdens een vlucht op een kruishoogte op of beneden de overgangshoogte moet ten 
 
 Kruishoogte en andere vlieghoogtes moeten worden uitgedrukt in: 
 
-a. vliegniveau, voor het deel van de vlucht op of boven het overgangsniveau;  
+a. vliegniveau, voor het deel van de vlucht op of boven het overgangsniveau; 
 
-b. hoogte boven gemiddeld zeeniveau, voor het deel van de vlucht beneden het overgangsniveau.    
+b. hoogte boven gemiddeld zeeniveau, voor het deel van de vlucht beneden het overgangsniveau.  
 
 ####Kruishoogtesystemen
 
@@ -101,7 +101,7 @@ b. hoogte boven gemiddeld zeeniveau, voor het deel van de vlucht beneden het ove
 
 1.  Een horizontaal deel van een VFR-vlucht boven 1070m (3500 ft) boven de grond of water moet worden uitgevoerd op een vliegniveau als aangegeven in de bijlage.   
 2.  Een horizontaal deel van een gecontroleerde vlucht binnen een luchtverkeersleidingsgebied moet worden uitgevoerd op een kruishoogte als in de bijlage aangegeven voor een IFR-vlucht.   
-3.  Een horizontaal deel van een IFR-vlucht buiten een luchtverkeersleidingsgebied moet worden uitgevoerd op een kruishoogte als aangegeven in de bijlage.   
+3.  Een horizontaal deel van een IFR-vlucht buiten een luchtverkeersleidingsgebied moet worden uitgevoerd op een kruishoogte als aangegeven in de bijlage.  
 
 ####Vereenvoudigd kruishoogtesysteem
 
@@ -110,13 +110,13 @@ b. hoogte boven gemiddeld zeeniveau, voor het deel van de vlucht beneden het ove
 1.  In afwijking van het gestelde in artikel 10 geldt, binnen het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimte tot en met 915m (3000 ft) boven gemiddeld zeeniveau boven het Nederlandse deel van het continentaal plat, de in de bijlage opgenomen vereenvoudigde tabel van kruishoogtes.   
 2.  Voor de toepassing van de in het eerste lid genoemde tabel geldt: 
 
-a. voor vluchten langs de luchtverkeersroutes A5, B31, UB31, en UG11 de indeling in grondkoersen en onderscheidenlijk 090M°–269M° en 270M° — 089M°;  
+a. voor vluchten langs de luchtverkeersroutes A5, B31, UB31, en UG11 de indeling in grondkoersen en onderscheidenlijk 090M°–269M° en 270M° — 089M°; 
 
-b. voor IFR-vluchten op of beneden 915m (3000 ft) de grondkoers van het belangrijkste deel van de vlucht.     
+b. voor IFR-vluchten op of beneden 915m (3000 ft) de grondkoers van het belangrijkste deel van de vlucht.   
 
 ### Artikel  12  
 
-Van het gestelde in artikel 11, tweede lid, onder b, kan de betreffendeluchtverkeersdienst afwijken door het buiten toepassing te verklaren dan wel een afwijkende verklaring te verstrekken.  
+Van het gestelde in artikel 11, tweede lid, onder b, kan de betreffendeluchtverkeersdienst afwijken door het buiten toepassing te verklaren dan wel een afwijkende verklaring te verstrekken. 
 
 ### Afdeling  IV  
 
@@ -126,29 +126,29 @@ Van het gestelde in artikel 11, tweede lid, onder b, kan de betreffendeluchtverk
 
 ### Artikel  13  
 
-De regeling van de Directeur-Generaal van de Rijksluchtvaartdienst, de Chef van de Marinestaf en de Chef van de luchtmachtstaf van 28 juli 1981/nr. LVB/23871 wordt ingetrokken.  
+De regeling van de Directeur-Generaal van de Rijksluchtvaartdienst, de Chef van de Marinestaf en de Chef van de luchtmachtstaf van 28 juli 1981/nr. LVB/23871 wordt ingetrokken. 
 
 ####Inwerkingtreding
 
 ### Artikel  14  
 
-Deze regeling treedt in werking met ingang van 1 augustus 1993.  
+Deze regeling treedt in werking met ingang van 1 augustus 1993. 
 
 ####Titel
 
 ### Artikel  15  
 
-Deze regeling wordt aangehaald als: Regeling gebruik hoogtemeter.  
+Deze regeling wordt aangehaald als: Regeling gebruik hoogtemeter. 
 
 De 
 Minister van Verkeer en Waterstaat, 
-J. R. H.Maij-Weggen   
+J. R. H. Maij-Weggen     
 
 ### Bijlage  
 
 ####behorende bij artikel 11  van de Regeling gebruik hoogtemeter
 
-Algemene tabel van kruishoogtes Grondkoers (Magnetisch of kaartnet) 
+Algemene tabel van kruishoogtes Grondkoers (Magnetisch of kaartnet)
 
 | 000°–179°  | 180°–359°  | IFR vluchten  | VFR vluchten  | IFR vluchten  | VFR vluchten  |--- | Hoogte MSL  |--- | Hoogte MSL  |--- | Hoogte MSL  |--- | Hoogte MSL  | FL  | meter  | voet  | FL  | meter  | voet  | FL  | meter  | voet  | FL  | meter  | voet  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|

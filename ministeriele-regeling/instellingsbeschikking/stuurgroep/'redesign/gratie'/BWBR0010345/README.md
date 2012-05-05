@@ -2,7 +2,7 @@
 
 ##Instellingsbeschikking stuurgroep ’Redesign Gratie’
 
-De Minister van Justitie,  
+De Minister van Justitie, 
 Overwegende,
 
 dat het aantal gratieverzoeken relatief groot is waardoor de druk op de kwaliteit van de afhandeling en de doorlooptijden toeneemt;
@@ -14,67 +14,67 @@ dat het project ’Redesign Gratie’ tot doel heeft de geconstateerde knelpunte
 dat het ministerie van Justitie dit doel probeert te bereiken in samenwerking met de partners in de gratieketen;
 
 dat daarom op korte termijn overgegaan zal worden tot het instellen van een stuurgroep.
-Besluit:    
+Besluit:     
 
-### Artikel  1  
+###Artikel  1  
 
 Ingesteld wordt de stuurgroep ’Redesign Gratie’ (hierna: de stuurgroep).  
 
-### Artikel  2  
+###Artikel  2  
 
 De stuurgroep heeft tot taak: 
 
-a. het adviseren van de Minister van Justitie over het herinrichten van de gratieketen;  
+a.  het adviseren van de Minister van Justitie over het herinrichten van de gratieketen; 
 
-b. het geven van aansturing aan het project op hoofdlijnen op basis van voortgangrapportages;  
+b.  het geven van aansturing aan het project op hoofdlijnen op basis van voortgangrapportages; 
 
-c. het vaststellen van het Plan van Aanpak en de definitieve rapportages.    
+c.  het vaststellen van het Plan van Aanpak en de definitieve rapportages.   
 
-### Artikel  3  
+###Artikel  3  
 
 De stuurgroep heeft voorts de opdracht om een implementatieplan voor te bereiden op basis waarvan de onder artikel 2 bedoelde voorstellen kunnen worden doorgevoerd.  
 
-### Artikel  4  
+###Artikel  4  
 
 De stuurgroep is als volgt samengesteld: 
 
-als lid tevens voorzitter: 
+als lid tevens voorzitter:
 
-mevrouw drs. M.A.C. Galesloot MBA, directeur-generaal Preventie, Jeugd en Sancties, Ministerie van Justitie;    
+mevrouw drs. M.A.C. Galesloot MBA, directeur-generaal Preventie, Jeugd en Sancties, Ministerie van Justitie;
 
-als lid tevens plaatsvervangend voorzitter: 
+als lid tevens plaatsvervangend voorzitter:
 
-de heer mr. G. Roes, plv. directeur-generaal Wetgeving Rechtspleging en Rechtsbijstand, Ministerie van Justitie;     
+de heer mr. G. Roes, plv. directeur-generaal Wetgeving Rechtspleging en Rechtsbijstand, Ministerie van Justitie;
 
-als leden: 
+als leden:
 
-de heer mr. D.W. Steenhuis, procureur-generaal Arnhem;  
+de heer mr. D.W. Steenhuis, procureur-generaal Arnhem;
 
-de heer mr. G. Chr. Kok, president van het Gerechtshof ’s-Gravenhage;  
+de heer mr. G. Chr. Kok, president van het Gerechtshof ’s-Gravenhage;
 
-de heer P.Y. Witteveen, korpschef van de politieregio Gooi en Vechtstreek;  
+de heer P.Y. Witteveen, korpschef van de politieregio Gooi en Vechtstreek;
 
-de heer drs. F.E.R. Rhodius, directeur Kabinet der Koningin;  
+de heer drs. F.E.R. Rhodius, directeur Kabinet der Koningin;
 
-de heer mr. W.F.G. Meurs, directeur Preventie, Jeugd en Sanctiebeleid, Ministerie van Justitie;  
+de heer mr. W.F.G. Meurs, directeur Preventie, Jeugd en Sanctiebeleid, Ministerie van Justitie;
 
-de heer mr. G.B. Raaphorst , directeur Directie Bestuurszaken, Ministerie van Justitie;    
+de heer mr. G.B. Raaphorst , directeur Directie Bestuurszaken, Ministerie van Justitie;
 
-als secretaris: 
+als secretaris:
 
-mevrouw mr. drs. I. Koomen, project-secretaris, Ministerie van Justitie.      
+mevrouw mr. drs. I. Koomen, project-secretaris, Ministerie van Justitie.  
 
-### Artikel  5  
+###Artikel  5  
 
 De stuurgroep zal voor 31 juli 1999 zijn voorstellen op hoofdlijnen voor Redesign Gratie doen.  
 
-### Artikel  6  
+###Artikel  6  
 
-Dit besluit wordt gepubliceerd in de Staatscourant.  
+Dit besluit wordt gepubliceerd in de Staatscourant. 
 
 Den Haag 
 17 maart 1999    
 
 De 
 Minister van Justitie, 
-A.H.Korthals    
+A.H. Korthals      

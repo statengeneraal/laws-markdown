@@ -8,11 +8,11 @@ Besluiten:
 
 ### Artikel  1  
 
-Als opsporingsmiddel als bedoeld in [artikel 2 van de Wet inzake het merken van kneedspringstoffen](../../../../../wet/wet/inzake/het/merken/van/kneedspringstoffen/BWBR0009407/README.md) wordt aangewezen het middel 2, 3-dimethyl-2, 3-dinitrobutaan, ook aangeduid als DMNB (C6H12(No2)2).  
+Als opsporingsmiddel als bedoeld in [artikel 2 van de Wet inzake het merken van kneedspringstoffen](../../../../../wet/wet/inzake/het/merken/van/kneedspringstoffen/BWBR0009407/README.md) wordt aangewezen het middel 2, 3-dimethyl-2, 3-dinitrobutaan, ook aangeduid als DMNB (C6H12(No2)2). 
 
 ### Artikel  2  
 
-Deze regeling treedt in werking op de dag waarop de [Wet inzake het merken van kneedspringstoffen](../../../../../wet/wet/inzake/het/merken/van/kneedspringstoffen/BWBR0009407/README.md) in werking treedt.  
+Deze regeling treedt in werking op de dag waarop de [Wet inzake het merken van kneedspringstoffen](../../../../../wet/wet/inzake/het/merken/van/kneedspringstoffen/BWBR0009407/README.md) in werking treedt. 
 Deze regeling zal met de bijbehorende toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -20,8 +20,8 @@ Deze regeling zal met de bijbehorende toelichting in de Staatscourant worden gep
 
 De 
 Minister van Justitie, 
-A.H.Korthals 
+A.H. Korthals  
 
 De 
-Minister van Defensie, 
+Minister van Defensie,
 F.H.G. deGrave    

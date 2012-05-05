@@ -11,11 +11,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-De op 17 november 1997 te Rome tot stand gekomen wijziging van het Internationaal Verdrag voor de bescherming van planten, waarvan de tekst en de vertaling in het Nederlands zijn geplaatst in Tractatenblad 1998, 125 en 2000, 31, wordt goedgekeurd voor Nederland.  
+De op 17 november 1997 te Rome tot stand gekomen wijziging van het Internationaal Verdrag voor de bescherming van planten, waarvan de tekst en de vertaling in het Nederlands zijn geplaatst in Tractatenblad 1998, 125 en 2000, 31, wordt goedgekeurd voor Nederland. 
 
 ### Artikel  2  
 
-De goedkeuring door de Staten-Generaal van wijzigingen bedoeld in artikel XXI, vierde lid, van het in artikel 1 genoemde Verdrag is niet vereist, indien zij door twee derde van de Verdragsluitende Partijen – andere dan het Koninkrijk – zijn aanvaard, tenzij de betreffende wijziging afwijkt van de Grondwet of tot zodanig afwijken noodzaakt.  
+De goedkeuring door de Staten-Generaal van wijzigingen bedoeld in artikel XXI, vierde lid, van het in artikel 1 genoemde Verdrag is niet vereist, indien zij door twee derde van de Verdragsluitende Partijen – andere dan het Koninkrijk – zijn aanvaard, tenzij de betreffende wijziging afwijkt van de Grondwet of tot zodanig afwijken noodzaakt. 
 
 ### Artikel  3  
 
@@ -36,4 +36,4 @@ J. J. van Aartsen
 de *éénentwintigste* juni 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

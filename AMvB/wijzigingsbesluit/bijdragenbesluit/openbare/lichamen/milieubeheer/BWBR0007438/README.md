@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-In afwijking van [artikel 6 *c*, derde lid, van het Bijdragenbesluit openbare lichamen milieubeheer](../../../../../../../AMvB/subsidiebesluit/openbare/lichamen/milieubeheer/BWBR0004739/README.md) wordt de bijdrage voor het kalenderjaar 1995 betaald binnen vier weken na de inwerkingtreding van dit besluit.  
+In afwijking van [artikel 6*c*, derde lid, van het Bijdragenbesluit openbare lichamen milieubeheer](../../../../../../../AMvB/subsidiebesluit/openbare/lichamen/milieubeheer/BWBR0004739/README.md) wordt de bijdrage voor het kalenderjaar 1995 betaald binnen vier weken na de inwerkingtreding van dit besluit. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de negenentwintigste dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de negenentwintigste dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

@@ -8,7 +8,7 @@ Gelet op [artikel 7e, eerste lid, van de Wet op de kansspelen](../../../../../..
 Overwegende dat het consumentenprijsindexcijfer (reeks werknemers laag) per 30 september 1999 meer dan tien procent afwijkt van het overeenkomstige indexcijfer per 30 september 1994;
 
 Gelet op [artikel 7e, derde lid, van genoemde wet](../../../../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -16,7 +16,7 @@ Het percentage waarmee het bedrag, genoemd in [artikel 7b, vierde lid, van de We
 
 ### Artikel  2  
 
-Deze beschikking treedt in werking met ingang van 1 januari 2000 en zal worden gepubliceerd in de Nederlandse Staatscourant.  
+Deze beschikking treedt in werking met ingang van 1 januari 2000 en zal worden gepubliceerd in de Nederlandse Staatscourant. 
 
 Den Haag 
 8 november 1999    
@@ -28,4 +28,4 @@ namens deze,
 
 de 
 directeur Bestuurszaken, 
-G.B.Raaphorst    
+G.B. Raaphorst      

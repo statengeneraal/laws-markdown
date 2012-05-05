@@ -30,7 +30,7 @@ d. het opleidingsplan: het door het opleidingsinstituut opgestelde opleidingspla
 
 e. de cursist: de persoon die de opleiding volgt of wil volgen;  
 
-f. de stagiair: de toegevoegd kandidaat-gerechtsdeurwaarder die de stage, bedoeld in [artikel 27 van de wet](../../../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md), doorloopt.    
+f. de stagiair: de toegevoegd kandidaat-gerechtsdeurwaarder die de stage, bedoeld in [artikel 27 van de wet](../../../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md), doorloopt.   
 
 ### §  2  
 
@@ -39,7 +39,7 @@ f. de stagiair: de toegevoegd kandidaat-gerechtsdeurwaarder die de stage, bedoel
 ### Artikel  2  
 
 1.  Er is een commissie opleiding die bestaat uit vijf leden onder wie de voorzitter.   
-2.  Onze Minister benoemt: 
+2.  Onze Minister benoemt:  
 
 a. een rechterlijk ambtenaar belast met rechtspraak als voorzitter;  
 
@@ -58,7 +58,7 @@ c. door overlijden;
 d. indien het lid ophoudt te voldoen aan de hoedanigheid, bedoeld in het tweede lid;  
 
 e. per 31 december van het jaar waarin het lid de leeftijd van zeventig jaar heeft bereikt.     
-5.  Degene die een functie vervult in de organisatie van een opleider kan geen lid zijn van de commissie opleiding.   
+5.  Degene die een functie vervult in de organisatie van een opleider kan geen lid zijn van de commissie opleiding.  
 
 ### Artikel  3  
 
@@ -71,11 +71,11 @@ b. beroepschriften van cursisten te behandelen tegen beslissingen van de opleide
 c. beroepschriften van stagiairs te behandelen tegen beslissingen van de opleider omtrent de aantekening op de stageverklaring.     
 2.  Ter uitvoering van de taak, bedoeld in het eerste lid, onder a, onderzoekt de commissie ten minste eens per twee jaren of de beroepsuitoefening door de gerechtsdeurwaarders en de kandidaat-gerechtsdeurwaarders reden geeft tot bijstelling van de opleiding. De commissie brengt verslag uit aan de opleider en zendt een afschrift van het verslag aan Onze Minister.   
 3.  Ter uitvoering van de taak, bedoeld in het eerste lid, onder a, adviseert de commissie de opleider jaarlijks met het oog op het komende cursusjaar. De opleider verstrekt de commissie de hiertoe noodzakelijke bescheiden, waaronder een verslag van het verloop van de opleiding. De commissie zendt een afschrift van het advies aan Onze Minister.   
-4.  Ter uitvoering van de taak, bedoeld in het eerste lid, onder a, kan de commissie desgevraagd en uit eigen beweging advies uitbrengen aan de opleider en aan Onze Minister. Een afschrift van het advies wordt gezonden aan Onze Minister onderscheidenlijk de opleider.   
+4.  Ter uitvoering van de taak, bedoeld in het eerste lid, onder a, kan de commissie desgevraagd en uit eigen beweging advies uitbrengen aan de opleider en aan Onze Minister. Een afschrift van het advies wordt gezonden aan Onze Minister onderscheidenlijk de opleider.  
 
 ### Artikel  4  
 
-De leden van de commissie ontvangen voor hun deelname aan de werkzaamheden van de commissie een door Onze Minister vast te stellen toelage en een vergoeding van de reis- en verblijfskosten overeenkomstig de bepalingen die te dien aanzien voor de burgerlijke rijksambtenaren gelden.  
+De leden van de commissie ontvangen voor hun deelname aan de werkzaamheden van de commissie een door Onze Minister vast te stellen toelage en een vergoeding van de reis- en verblijfskosten overeenkomstig de bepalingen die te dien aanzien voor de burgerlijke rijksambtenaren gelden. 
 
 ### §  3  
 
@@ -83,9 +83,9 @@ De leden van de commissie ontvangen voor hun deelname aan de werkzaamheden van d
 
 ### Artikel  5  
 
-1.  Het opleidingsplan wordt opgesteld met inachtneming van de artikelen 6 tot en met 14 en 20, en bevat in ieder geval regels omtrent: 
+1.  Het opleidingsplan wordt opgesteld met inachtneming van deartikelen 6 tot en met 14 en 20, en bevat in ieder geval regels omtrent: 
 
-a. de duur van de opleiding;  
+a. de duur van de opleiding;   
 
 b. de inrichting van de opleiding;  
 
@@ -101,11 +101,11 @@ g. de aan de cursist in rekening te brengen financiële bijdrage, en
 
 h. de stage.     
 2.  Bij ministeriële regeling kunnen nadere regels worden gesteld waaraan het opleidingsplan moet voldoen.   
-3.  Het opleidingsplan wordt na erkenning van de opleiding niet gewijzigd dan met toestemming van Onze Minister.   
+3.  Het opleidingsplan wordt na erkenning van de opleiding niet gewijzigd dan met toestemming van Onze Minister.  
 
 ### Artikel  6  
 
-De opleiding kent een onderwijsprogramma dat bij een volledige werkkring binnen drie jaren kan worden doorlopen.  
+De opleiding kent een onderwijsprogramma dat bij een volledige werkkring binnen drie jaren kan worden doorlopen. 
 
 ### Artikel  7  
 
@@ -123,11 +123,11 @@ d. de Nederlandse staatsinrichting;
 e. de Nederlandse taal, en  
 
 f. kantooradministratie met gebruik van geautomatiseerde systemen.     
-3.  De opleiding bestaat uit afzonderlijke onderdelen die elk worden afgesloten met een beoordeling.   
+3.  De opleiding bestaat uit afzonderlijke onderdelen die elk worden afgesloten met een beoordeling.  
 
 ### Artikel  8  
 
-De opleider kan voor bepaalde onderdelen van de opleiding en de beoordeling daarvan vrijstelling verlenen, indien de cursist aantoonbaar beschikt over kennis die gelijkwaardig is aan de kennis die in het betreffende onderdeel wordt verkregen. Het opleidingsplan bevat een reglement met de voorwaarden voor de verlening van vrijstellingen.  
+De opleider kan voor bepaalde onderdelen van de opleiding en de beoordeling daarvan vrijstelling verlenen, indien de cursist aantoonbaar beschikt over kennis die gelijkwaardig is aan de kennis die in het betreffende onderdeel wordt verkregen. Het opleidingsplan bevat een reglement met de voorwaarden voor de verlening van vrijstellingen. 
 
 ### Artikel  9  
 
@@ -136,7 +136,7 @@ De opleider kan voor bepaalde onderdelen van de opleiding en de beoordeling daar
 
 ### Artikel  10  
 
-De cursist kan tegen een beslissing omtrent zijn toelating tot de opleiding of de beoordeling van zijn kennen en kunnen binnen zes weken nadat de beslissing is bekendgemaakt, beroep instellen bij de commissie opleiding.  
+De cursist kan tegen een beslissing omtrent zijn toelating tot de opleiding of de beoordeling van zijn kennen en kunnen binnen zes weken nadat de beslissing is bekendgemaakt, beroep instellen bij de commissie opleiding. 
 
 ### Artikel  11  
 
@@ -150,21 +150,21 @@ b. het afleggen door die onderdaan van een proeve van bekwaamheid als bedoeld in
 a. aan de hand van dezelfde maatstaven die worden gehanteerd in het kader van de opleiding, en  
 
 b. binnen drie maanden nadat het daartoe strekkende aanvraag van Onze Minister door de opleider is ontvangen.     
-3.  De opleider deelt Onze Minister binnen twee weken na de beoordeling en het afleggen van de proeve van bekwaamheid de uitkomst daarvan mee.   
+3.  De opleider deelt Onze Minister binnen twee weken na de beoordeling en het afleggen van de proeve van bekwaamheid de uitkomst daarvan mee.  
 
 ### Artikel  12  
 
-Het opleidingsplan bevat voldoende waarborgen voor de kwaliteit en de continuïteit van de opleiding.  
+Het opleidingsplan bevat voldoende waarborgen voor de kwaliteit en de continuïteit van de opleiding. 
 
 ### Artikel  13  
 
-De financiële bijdrage die aan de cursist in rekening wordt gebracht is niet aanmerkelijk hoger dan de bijdrage voor een vergelijkbare opleiding. De bijdrage wordt vermeld in een bijlage bij het opleidingsplan.  
+De financiële bijdrage die aan de cursist in rekening wordt gebracht is niet aanmerkelijk hoger dan de bijdrage voor een vergelijkbare opleiding. De bijdrage wordt vermeld in een bijlage bij het opleidingsplan. 
 
 ### Artikel  14  
 
 1.  De cursist die voor elk onderdeel van de opleiding een voldoende beoordeling heeft verkregen, heeft de opleiding met goed gevolg doorlopen.   
 2.  De opleider verstrekt de cursist, bedoeld in het eerste lid, een gewaarmerkt diploma en een lijst van de resultaten die de cursist per onderdeel van de opleiding heeft behaald.   
-3.  Het model van het diploma, bedoeld in het tweede lid, wordt door de opleider vastgesteld en bij het opleidingsplan gevoegd.   
+3.  Het model van het diploma, bedoeld in het tweede lid, wordt door de opleider vastgesteld en bij het opleidingsplan gevoegd.  
 
 ### §  4  
 
@@ -174,9 +174,9 @@ De financiële bijdrage die aan de cursist in rekening wordt gebracht is niet aa
 
 Bij de aanvraag tot erkenning van de opleiding wordt in ieder geval verschaft: 
 
-a. het opleidingsplan, en  
+a. het opleidingsplan, en   
 
-b. gegevens en bescheiden die inzicht bieden in de organisatie en exploitatie van de opleiding.    
+b. gegevens en bescheiden die inzicht bieden in de organisatie en exploitatie van de opleiding.   
 
 ### Artikel  16  
 
@@ -189,7 +189,7 @@ b. de Bond van personeel werkzaam in de rechtspraktijk en van kandidaat-gerechts
 c. de commissie opleiding.     
 2.  De adviezen, bedoeld in het eerste lid, bevatten de motivering daarvan.   
 3.  Tenzij Onze Minister bij de adviesaanvraag een andere termijn heeft gesteld, worden de adviezen, bedoeld in het eerste lid, binnen acht weken uitgebracht.   
-4.  De beschikking wordt gegeven binnen dertien weken na ontvangst van de aanvraag.   
+4.  De beschikking wordt gegeven binnen dertien weken na ontvangst van de aanvraag.  
 
 ### Artikel  17  
 
@@ -197,11 +197,11 @@ De aanvraag, bedoeld in artikel 15, wordt afgewezen, indien:
 
 a. de opleiding of het opleidingsinstituut niet voldoen aan de bij of krachtens wet gestelde regels, of  
 
-b. de organisatie en exploitatie van de opleiding naar het oordeel van Onze Minister onvoldoende de kwaliteit en continuïteit van de opleiding waarborgen.    
+b. de organisatie en exploitatie van de opleiding naar het oordeel van Onze Minister onvoldoende de kwaliteit en continuïteit van de opleiding waarborgen.   
 
 ### Artikel  18  
 
-De erkenning wordt verleend voor onbepaalde tijd en kan door Onze Minister worden gewijzigd.  
+De erkenning wordt verleend voor onbepaalde tijd en kan door Onze Minister worden gewijzigd. 
 
 ### §  5  
 
@@ -210,7 +210,7 @@ De erkenning wordt verleend voor onbepaalde tijd en kan door Onze Minister worde
 ### Artikel  19  
 
 1.  De opleider stelt een stageplan op en wint daarover het advies in van de commissie opleiding. De opleider zendt een afschrift van het stageplan aan de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders. Het stageplan maakt deel uit van het opleidingsplan.   
-2.  De stage is zodanig ingericht dat de stagiair de praktische vaardigheden verwerft die nodig zijn voor de zelfstandige uitoefening van de werkzaamheden als toegevoegd kandidaat-gerechtsdeurwaarder, en inzicht en ervaring opdoet met de praktijkuitoefening van de gerechtsdeurwaarder.   
+2.  De stage is zodanig ingericht dat de stagiair de praktische vaardigheden verwerft die nodig zijn voor de zelfstandige uitoefening van de werkzaamheden als toegevoegd kandidaat-gerechtsdeurwaarder, en inzicht en ervaring opdoet met de praktijkuitoefening van de gerechtsdeurwaarder.  
 
 ### Artikel  20  
 
@@ -219,7 +219,7 @@ De erkenning wordt verleend voor onbepaalde tijd en kan door Onze Minister worde
 
 ### Artikel  21  
 
-De wederzijdse rechten en plichten worden door de gerechtsdeurwaarder en de stagiair met inachtneming van het stageplan en de artikelen 22 tot en met 24 in een stage-overeenkomst neergelegd en ondertekend. Een afschrift wordt bij het verzoek om goedkeuring van de aanwijzing van de stagiair als toegevoegd kandidaat-gerechtsdeurwaarder aan Onze Minister gezonden.  
+De wederzijdse rechten en plichten worden door de gerechtsdeurwaarder en de stagiair met inachtneming van het stageplan en de artikelen 22 tot en met 24 in een stage-overeenkomst neergelegd en ondertekend. Een afschrift wordt bij het verzoek om goedkeuring van de aanwijzing van de stagiair als toegevoegd kandidaat-gerechtsdeurwaarder aan Onze Minister gezonden. 
 
 ### Artikel  22  
 
@@ -231,24 +231,24 @@ b. de nodige leiding, voorlichting en raad met betrekking tot de praktijkuitoefe
 
 c. voldoende gelegenheid om aanvullende cursussen te volgen die nodig zijn voor de uitoefening van de gerechtsdeurwaarderspraktijk, en  
 
-d. een zodanige vergoeding voor de werkzaamheden, dat die geen belemmering vormt voor de instroom tot de beroepsgroep.    
+d. een zodanige vergoeding voor de werkzaamheden, dat die geen belemmering vormt voor de instroom tot de beroepsgroep.   
 
 ### Artikel  23  
 
-De stagiair spant zich in om de praktische vaardigheden te verwerven die voor de zelfstandige uitoefening van werkzaamheden als toegevoegd kandidaat-gerechtsdeurwaarder nodig zijn, en om inzicht en ervaring op te doen met de praktijkuitoefening van de gerechtsdeurwaarder. De stagiair verricht de door de gerechtsdeurwaarder opgedragen werkzaamheden.  
+De stagiair spant zich in om de praktische vaardigheden te verwerven die voor de zelfstandige uitoefening van werkzaamheden als toegevoegd kandidaat-gerechtsdeurwaarder nodig zijn, en om inzicht en ervaring op te doen met de praktijkuitoefening van de gerechtsdeurwaarder. De stagiair verricht de door de gerechtsdeurwaarder opgedragen werkzaamheden. 
 
 ### Artikel  24  
 
 1.  De stage begint op de dag waarop de stagiair de uitoefening van de gerechtsdeurwaarderspraktijk onder verantwoordelijkheid van een gerechtsdeurwaarder heeft aangevangen, maar niet voordat Onze Minister de aanwijzing van de stagiair als toegevoegd kandidaat-gerechtsdeurwaarder heeft goedgekeurd.   
 2.  De stage wordt geschorst gedurende de periode waarin de stagiair feitelijk niet deelneemt aan de stage.   
-3.  De gerechtsdeurwaarder onder wiens verantwoordelijkheid de stagiair werkzaam is, stelt de opleider onverwijld in kennis van de aanvang, de schorsing en het einde van de stage. De opleider stelt de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders in kennis.   
+3.  De gerechtsdeurwaarder onder wiens verantwoordelijkheid de stagiair werkzaam is, stelt de opleider onverwijld in kennis van de aanvang, de schorsing en het einde van de stage. De opleider stelt de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders in kennis.  
 
 ### Artikel  25  
 
 1.  Na afloop van de stage verstrekt de gerechtsdeurwaarder de opleider gegevens met betrekking tot de werkzaamheden die de stagiair heeft verricht en diens kennen en kunnen. Indien de gerechtsdeurwaarder oordeelt dat het kennen en kunnen van de stagiaire onvoldoende is voor de zelfstandige uitoefening van werkzaamheden als toegevoegd kandidaat-gerechtsdeurwaarder, omkleedt hij dat met redenen.   
-2.  De opleider verstrekt de stagiair een verklaring dat de stage is voltooid. Op de verklaring wordt aangetekend in welke periode de stage is doorlopen. Indien de opleider oordeelt dat het kennen en kunnen van de stagiaire onvoldoende is voor de zelfstandige uitoefening van werkzaamheden als toegevoegd kandidaat-gerechtsdeurwaarder, plaatst hij op de verklaring een met redenen omklede aantekening daartoe.   
-3.  Het model van de verklaring, bedoeld in het tweede lid, wordt door de opleider vastgesteld en bij het opleidingsplan gevoegd.   
-4.  De stagiair kan tegen het plaatsen van de aantekening beroep instellen bij de commissie opleiding. Artikel 10 is van overeenkomstige toepassing.   
+2.  De opleider verstrekt de stagiair een verklaring dat de stage is voltooid. Op de verklaring wordt aangetekend in welke periode de stage is doorlopen. Indien de opleider oordeelt dat het kennen en kunnen van de stagiaire onvoldoende is voor de zelfstandige uitoefening van werkzaamheden als toegevoegd kandidaat-gerechtsdeurwaarder, plaatst hij op de verklaring een met redenen omklede aantekening daartoe.    
+3.   Het model van de verklaring, bedoeld in het tweede lid, wordt door de opleider vastgesteld en bij het opleidingsplan gevoegd.   
+4.  De stagiair kan tegen het plaatsen van de aantekening beroep instellen bij de commissie opleiding. Artikel 10 is van overeenkomstige toepassing.  
 
 ### §  6  
 
@@ -256,24 +256,24 @@ De stagiair spant zich in om de praktische vaardigheden te verwerven die voor de
 
 ### Artikel  26  
 
-De opleider die op het tijdstip van inwerkingtreding van [artikel 25 van de wet](../../../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md) beschikt over een vergunning als bedoeld in artikel 2 van de Regeling opleiding kandidaat-gerechtsdeurwaarders, is van rechtswege erkend.  
+De opleider die op het tijdstip van inwerkingtreding van [artikel 25 van de wet](../../../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md) beschikt over een vergunning als bedoeld in artikel 2 van de Regeling opleiding kandidaat-gerechtsdeurwaarders, is van rechtswege erkend. 
 
 ### Artikel  27  
 
-Voor de toepassing van dit besluit wordt het lidmaatschap van de commissie opleiding op het tijdstip van inwerkingtreding van [artikel 25 van de wet](../../../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md), gelijkgesteld met de benoeming als zodanig door Onze Minister met ingang van dat tijdstip.  
+Voor de toepassing van dit besluit wordt het lidmaatschap van de commissie opleiding op het tijdstip van inwerkingtreding van [artikel 25 van de wet](../../../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md), gelijkgesteld met de benoeming als zodanig door Onze Minister met ingang van dat tijdstip. 
 
 ### Artikel  28  
 
 1.  De stage die op het tijdstip van inwerkingtreding van [artikel 27 van de wet](../../../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md) was aangevangen, wordt voor de toepassing van dit besluit gelijk gesteld met de stage, bedoeld in paragraaf  5.   
-2.  Degene die op het tijdstip van inwerkingtreding van [artikel 27 van de wet](../../../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md) sedert ten minste drie jaren werkzaam is als toegevoegd kandidaat-gerechtsdeurwaarder, wordt voor de toepassing van dit besluit gelijk gesteld met een persoon die in overeenstemming met dit besluit de stage heeft doorlopen.   
+2.  Degene die op het tijdstip van inwerkingtreding van [artikel 27 van de wet](../../../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md) sedert ten minste drie jaren werkzaam is als toegevoegd kandidaat-gerechtsdeurwaarder, wordt voor de toepassing van dit besluit gelijk gesteld met een persoon die in overeenstemming met dit besluit de stage heeft doorlopen.  
 
 ### Artikel  29  
 
-Indien de opleiding een opleiding is als bedoeld in [artikel 1.1, onder m, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), zijn de artikelen 3, 10, en 25, vierde lid, niet van toepassing en wordt in artikel 14, tweede, onderscheidenlijk derde lid, voor «een gewaarmerkt diploma» gelezen «een gewaarmerkte verklaring», onderscheidenlijk voor «het diploma»: de verklaring.  
+Indien de opleiding een opleiding is als bedoeld in [artikel 1.1, onder m, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), zijn de artikelen 3, 10, en 25, vierde lid, niet van toepassing en wordt in artikel 14, tweede, onderscheidenlijk derde lid, voor «een gewaarmerkt diploma» gelezen «een gewaarmerkte verklaring», onderscheidenlijk voor «het diploma»: de verklaring. 
 
 ### Artikel  30  
 
-Dit besluit treedt in werking op het tijdstip waarop de [artikelen 25](../../../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md) en [27 van de wet](../../../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md) inwerking treden.  
+Dit besluit treedt in werking op het tijdstip waarop de[ artikelen 25](../../../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md) en[ 27 van de wet ](../../../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md)inwerking treden. 
 
 ### Artikel  31  
 
@@ -291,4 +291,4 @@ N. A. Kalsbeek
 de *tiende* juli 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

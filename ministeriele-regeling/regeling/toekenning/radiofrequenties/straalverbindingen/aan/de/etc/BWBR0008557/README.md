@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling toekenning radiofrequenties straalverbindingen aan de concessiehouder
+##Regeling toekenning radiofrequenties straalverbindingen aan de concessiehouder 
 
 De Minister van Verkeer en Water-staat,  
 Gelet op [artikel 1 van het Besluit toekenning radiofrequenties voor straalverbindingen aan de concessiehouder](../../../../../../../../../AMvB/besluit/toekenning/radiofrequenties/voor/straalverbindingen/aan/de/etc/BWBR0008349/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -19,13 +19,13 @@ In deze regeling wordt verstaan onder de minister: de Minister van Verkeer en Wa
 
 Een aanvraag bevat per radiofrequentie de volgende gegevens: 
 
-a. de opstelplaats van de zenders en ontvangers;  
+a.  de opstelplaats van de zenders en ontvangers; 
 
-b. frequentiebereik en -karakteristieken;  
+b.  frequentiebereik en -karakteristieken; 
 
-c. de te gebruiken apparatuur, en  
+c.  de te gebruiken apparatuur, en 
 
-d. doel en aard van de straalverbinding.    
+d.  doel en aard van de straalverbinding.   
 
 ### Artikel  4  
 
@@ -39,12 +39,12 @@ Deze regeling treedt in werking met ingang van het tijdstip waarop het [Besluit 
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als: Regeling toekenning radiofrequenties voor straalverbindingen aan de concessiehouder.  
+Deze regeling wordt aangehaald als: Regeling toekenning radiofrequenties voor straalverbindingen aan de concessiehouder. 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 Den Haag 
 19 februari 1997    
 
-De 
-Minister van Verkeer en Waterstaa t, 
-A.Jorritsma-Lebbink    
+De
+Minister van Verkeer en Waterstaat, 
+A.  Jorritsma-Lebbink      

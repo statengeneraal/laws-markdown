@@ -17,9 +17,9 @@ met samenvoeging van de drie directies efficiencyverhoging en bundeling van desk
 3.  De taak van de directie Noord-Nederland is die van een regionale dienst van de Rijkswaterstaat bedoeld in [artikel 2, eerste lid, onderdeel b, van het Instellingsbesluit directoraat-generaal Rijkswaterstaat](../../../../../ministeriele-regeling/instellingsbesluit/directoraat-generaal/rijkswaterstaat/BWBR0026953/README.md).   
 4.  Dit besluit zal in de Nederlandse Staatscourant worden geplaatst en een afschrift zal aan de Algemene Rekenkamer worden gezonden.      
 
-'s-Gravenhage 
+'s-Gravenhage
 15 december 1993    
 
 De 
 Minister van Verkeer en Waterstaat, 
-J. R. H.Maij-Weggen    
+J. R. H.Maij-Weggen     

@@ -13,26 +13,26 @@ Besluit het volgende reglement vast te stellen:
 
 ####Begripsbepalingen
 
-a. de registratie:  financiële administratie betreffende jeugdigen ten aanzien van wie de hulpverlening door de minister van Justitie wordt gesubsidieerd;    b. houder van de registratie:  de minister van Justitie;    c. beheerder van de registratie:  het Hoofd van de Hoofdafdeling Financieel Economische zaken van de Directie Jeugdbescherming en Reclassering;    d. jeugdige:  een persoon als bedoeld in [artikel 1, eerste lid, onder b, van de Wet op de jeugdhulpverlening](../../../../../wet/wet/op/de/jeugdhulpverlening/BWBR0004608/README.md) (Stb. 1989, 360).     
+a. de registratie:   financiële administratie betreffende jeugdigen ten aanzien van wie de hulpverlening door de minister van Justitie wordt gesubsidieerd;    b. houder van de registratie:   de minister van Justitie;    c. beheerder van de registratie:  het Hoofd van de Hoofdafdeling Financieel Economische zaken van de Directie Jeugdbescherming en Reclassering;    d. jeugdige:   een persoon als bedoeld in [artikel 1, eerste lid, onder b, van de Wet op de jeugdhulpverlening](../../../../../wet/wet/op/de/jeugdhulpverlening/BWBR0004608/README.md) (Stb. 1989, 360).    
 
 ### Artikel  2  
 
 ####Doelstelling
 
-De registratie heeft ten doel het vastleggen van gegevens, noodzakelijk voor het doen van betalingen aan autoriteiten, diensten en instellingen, ten behoeve van jeugdigen ten aanzien van wie de hulpverlening door de minister van Justitie wordt gesubsidieerd.  
+De registratie heeft ten doel het vastleggen van gegevens, noodzakelijk voor het doen van betalingen aan autoriteiten, diensten en instellingen, ten behoeve van jeugdigen ten aanzien van wie de hulpverlening door de minister van Justitie wordt gesubsidieerd. 
 
 ### Artikel  3  
 
 ####Verantwoordelijkheden
 
 1.  De houder is verantwoordelijk voor het beheer en het goed functioneren van de registratie en treft daartoe de nodige voorzieningen op het gebied van organisatie en beveiliging.   
-2.  De beheerder is belast met de dagelijkse leiding van de werkzaamheden.   
+2.  De beheerder is belast met de dagelijkse leiding van de werkzaamheden.  
 
 ### Artikel  4  
 
 ####Invoer en verwerking van de gegevens
 
-De invoer en verwerking van de in de registratie opgenomen gegevens, met inbegrip van de verbetering, aanvulling of verwijdering daarvan, geschiedt bij de Hoofdafdeling Financieel Economische Zaken van de Directie Jeugdbescherming en Reclassering door daartoe door de beheerder van de registratie aangewezen ambtenaren.  
+De invoer en verwerking van de in de registratie opgenomen gegevens, met inbegrip van de verbetering, aanvulling of verwijdering daarvan, geschiedt bij de Hoofdafdeling Financieel Economische Zaken van de Directie Jeugdbescherming en Reclassering door daartoe door de beheerder van de registratie aangewezen ambtenaren. 
 
 ### Par.  2  
 
@@ -42,7 +42,7 @@ De invoer en verwerking van de in de registratie opgenomen gegevens, met inbegri
 
 ####Personen omtrent wie gegevens zijn opgenomen
 
-In de registratie worden uitsluitend persoonsgegevens opgenomen over jeugdigen, als bedoeld in artikel 1, onder d, ten aanzien van wie de hulpverlening door de minister van Justitie wordt gesubsidieerd.  
+In de registratie worden uitsluitend persoonsgegevens opgenomen over jeugdigen, als bedoeld in artikel 1, onder d, ten aanzien van wie de hulpverlening door de minister van Justitie wordt gesubsidieerd. 
 
 ### Artikel  6  
 
@@ -88,7 +88,7 @@ r. de plaatsingsgrond;
 
 s. de subsidie;  
 
-t. het documentnummer.    
+t. het documentnummer.   
 
 ### Artikel  7  
 
@@ -102,7 +102,7 @@ kinderrechters;
 
 raden voor de kinderbescherming;  
 
-officieren van justitie.    
+officieren van justitie.   
 
 ### Par.  3  
 
@@ -117,7 +117,7 @@ officieren van justitie.
 bij het bereiken van de meerderjarigheid;  
 
 bij het eindigen van de maatregel.     
-2.  Indien blijkt dat gegevens ten onrechte, onjuist danwel onvolledig in de registratie zijn opgenomen, draagt de houder zorg voor een zo spoedig mogelijke verwijdering, verbetering of aanvulling van die gegevens. De op grond van dit lid verwijderde gegevens worden vernietigd.   
+2.  Indien blijkt dat gegevens ten onrechte, onjuist danwel onvolledig in de registratie zijn opgenomen, draagt de houder zorg voor een zo spoedig mogelijke verwijdering, verbetering of aanvulling van die gegevens. De op grond van dit lid verwijderde gegevens worden vernietigd.  
 
 ### Par.  4  
 
@@ -133,7 +133,7 @@ de houder van de registratie;
 
 de beheerder van de registratie;  
 
-de door de beheerder aangewezen ambtenaren van de Hoofdafdeling Financieel Economische Zaken van de Directie Jeugdbescherming en Reclassering    
+de door de beheerder aangewezen ambtenaren van de Hoofdafdeling Financieel Economische Zaken van de Directie Jeugdbescherming en Reclassering   
 
 ### Artikel  10  
 
@@ -162,7 +162,7 @@ a. binnen de organisatie: aan de afdeling beleidsinformatie van de Directie Jeug
 
 b. buiten de organisatie: aan het Centraal Bureau voor de Statistiek.     
 3.  Verstrekking van persoonsgegevens aan andere dan in het eerste lid bedoelde personen, instellingen en instanties, ten behoeve van wetenschappelijk onderzoek kan alleen plaatsvinden nadat daartoe schriftelijke toestemming is verkregen van de minister van Justitie en met inachtneming van de door deze gestelde voorwaarden.   
-4.  Van elke verstrekking van gegevens aan de in artikel 10, eerste lid, onder b, bedoelde personen, instanties of instellingen wordt deugdelijk aantekening gehouden.   
+4.  Van elke verstrekking van gegevens aan de in artikel 10, eerste lid, onder b, bedoelde personen, instanties of instellingen wordt deugdelijk aantekening gehouden.  
 
 ### Par.  5  
 
@@ -178,7 +178,7 @@ b. buiten de organisatie: aan het Centraal Bureau voor de Statistiek.
 4.  Voordat aan het verzoek wordt voldaan dient verzoeker zich ter vaststelling van zijn identiteit te legitimeren, door overlegging van een geldig legitimatiebewijs of een afschrift daarvan.   
 5.  De houder beantwoordt het verzoek binnen een maand na ontvangst door middel van een schriftelijke mededeling, met de nodige toelichting.   
 6.  Een verzoek om kennisneming van opgenomen gegevens wordt ingevolge artikel 30 van de Wet persoonsregistraties geweigerd indien dit noodzakelijk is om de persoonlijke levenssfeer van een ander te beschermen.   
-7.  Een weigering op het verzoek wordt door de houder met redenen omkleed. Hierbij wordt aangegeven waar, op welke wijze en tegen welke kosten tegen de beslissing van de houder kan worden opgekomen.   
+7.  Een weigering op het verzoek wordt door de houder met redenen omkleed. Hierbij wordt aangegeven waar, op welke wijze en tegen welke kosten tegen de beslissing van de houder kan worden opgekomen.  
 
 ### Artikel  12  
 
@@ -187,7 +187,7 @@ b. buiten de organisatie: aan het Centraal Bureau voor de Statistiek.
 1.  Degene aan wie overeenkomstig artikel 11 kennis is gegeven van hem betreffende persoonsgegevens, kan de houder schriftelijk verzoeken deze te verbeteren, aan te vullen of te verwijderen, indien deze feitelijk onjuist, voor het doel van de registratie onvolledig of niet ter zake dienend zijn dan wel in strijd met een wettelijk voorschrift in de registratie voorkomen.   
 2.  Het verzoek bevat de aan te brengen wijzigingen. Artikel 11, tweede en vierde lid, is van overeenkomstige toepassing.   
 3.  Binnen twee maanden na ontvangst van het verzoek bericht de houder schriftelijk in hoeverre bij daaraan voldoet. Artikel 11, zevende lid, is van overeenkomstige toepassing   
-4.  De houder draagt zorg dat een beslissing tot verbetering, aanvulling of verwijdering zo spoedig mogelijk wordt uitgevoerd.   
+4.  De houder draagt zorg dat een beslissing tot verbetering, aanvulling of verwijdering zo spoedig mogelijk wordt uitgevoerd.  
 
 ### Artikel  13  
 
@@ -195,7 +195,7 @@ b. buiten de organisatie: aan het Centraal Bureau voor de Statistiek.
 
 1.  De geregistreerde of indien deze de leeftijd van zestien jaar nog niet heeft bereikt danwel onder curatele is gesteld – diens wettelijke vertegenwoordiger kan de houder tevens verzoeken hem mede te delen of en zo ja welke op de geregistreerde betrekking hebbende gegevens in het jaar voorafgaande aan het verzoek uit de registratie aan derden zijn verstrekt.   
 2.  Voor de indiening van een zodanig verzoek is artikel 11, tweede en vierde lid, van overeenkomstige toepassing.   
-3.  De houder beantwoordt het verzoek binnen een maand na ontvangst. Artikel 11, zesde en zevende lid, is van overeenkomstige toepassing.   
+3.  De houder beantwoordt het verzoek binnen een maand na ontvangst. Artikel 11, zesde en zevende lid, is van overeenkomstige toepassing.  
 
 ### Par.  6  
 
@@ -206,24 +206,24 @@ b. buiten de organisatie: aan het Centraal Bureau voor de Statistiek.
 ####Bekendmaking en terinzagelegging
 
 1.  Dit reglement wordt bekend gemaakt in de Staatscourant   
-2.  Het reglement ligt voor ieder ter inzage bij de afdeling pers- en publieksvoorlichting van het ministerie van Justitie.   
+2.  Het reglement ligt voor ieder ter inzage bij de afdeling pers- en publieksvoorlichting van het ministerie van Justitie.  
 
 ### Artikel  15  
 
 ####Inwerkingtreding, korte aanduiding
 
 1.  Dit reglement treedt in werking met ingang van 1 juli 1990.   
-2.  Het reglement kan worden aangehaald als ‘Privacyreglement financiële pupillenadministratie’.   
+2.  Het reglement kan worden aangehaald als ‘Privacyreglement financiële pupillenadministratie’.  
 
 's-Gravenhage 
 25 juni 1990    
 
 De 
-staatssecretaris van Justitie, 
+staatssecretaris van Justitie,  
 
 namens de 
 staatssecretaris, 
 
 De 
-Directeur-Generaal Jeugdbescherming en Delinkwentenzorg
-mr H. B.Greven    
+Directeur-Generaal Jeugdbescherming en Delinkwentenzorg 
+mr H. B.Greven      

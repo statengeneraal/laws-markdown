@@ -4,7 +4,7 @@
 
 De Minister van Justitie,  
 Gelet op de [artikelen 19](../../../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) en [20 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) en op artikel 3a, derde lid, van de Wet wapens en munitie en artikel 4 van de Regeling wapens en munitie;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -24,16 +24,16 @@ De besluiten van de Minister van Justitie van 9 december 1994, nr. [471418/594/N
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot 1 januari 1997.  
+Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot 1 januari 1997. 
 Dit besluit zal worden geplaatst in de Staatscourant en het Algemeen Politieblad met uitzondering van de bijlagen die ter inzage liggen op het Ministerie van Justitie, Directie Strafrechtelijke Handhaving.   
 
 Den Haag 
 11 februari 1997    
 
 De 
-Minister van Justitie, 
+Minister van Justitie,  
 
-namens deze, 
+namens deze,
 
-J. vanEes, plv. 
-directeur van de directie Strafrechtelijke Handhaving    
+J. van Ees , plv. 
+directeur van de directie Strafrechtelijke Handhaving   

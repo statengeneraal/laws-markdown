@@ -11,11 +11,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt Burgerlijk Wetboek Boek 6.   
+Wijzigt Burgerlijk Wetboek Boek 6.  
 
 ### Artikel  II  
 
-Op de aansprakelijkheid van producenten terzake van voor het in werking treden van deze wet in het verkeer gebrachte producten, is het tot dat tijdstip geldende recht van toepassing.  
+Op de aansprakelijkheid van producenten terzake van voor het in werking treden van deze wet in het verkeer gebrachte producten, is het tot dat tijdstip geldende recht van toepassing. 
 
 ### Artikel  III  
 
@@ -33,4 +33,4 @@ A. H. Korthals
 de dertigste november 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

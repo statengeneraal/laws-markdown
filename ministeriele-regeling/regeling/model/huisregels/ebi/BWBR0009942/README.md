@@ -1,16 +1,16 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling model huisregels EBI
+##Regeling model huisregels EBI 
 
 De Minister van Justitie,  
 Gelet op [artikel 5, eerste lid, van de Penitentiaire beginselenwet](../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);
 
 Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 28 mei 1998 (nummer 698535/98).
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. wet:  [Penitentiaire beginselenwet](../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);     
+In deze regeling wordt verstaan onder: a. wet:  [Penitentiaire beginselenwet](../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);    
 
 ### Artikel  2  
 
@@ -24,9 +24,9 @@ De regeling treedt in werking op 1 januari 1999.
 
 ### Artikel  4  
 
-Deze regeling wordt aangehaald als: Regeling model huisregels EBI.  
+Deze regeling wordt aangehaald als: Regeling model huisregels EBI. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De bij deze regeling behorende bijlage wordt ter inzage gelegd.   
 
 De 
 Minister van Justitie, 
-A.H.Korthals    
+A.H.  Korthals      

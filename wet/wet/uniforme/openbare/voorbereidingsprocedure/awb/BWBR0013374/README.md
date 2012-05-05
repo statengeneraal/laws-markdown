@@ -11,40 +11,40 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Algemene wet bestuursrecht.   
+Wijzigt de Algemene wet bestuursrecht.  
 
 ### Artikel  II  
 
-Wijzigt de Provinciewet.   
+Wijzigt de Provinciewet.  
 
 ### Artikel  III  
 
-Wijzigt de Gemeentewet.   
+Wijzigt de Gemeentewet.  
 
-### Artikel  IV  
+###Artikel IV 
 
-1.  Het recht zoals het gold vóór het tijdstip van inwerkingtreding van deze wet blijft van toepassing ten aanzien van: 
+1. Het recht zoals het gold vóór het tijdstip van inwerkingtreding van deze wet blijft van toepassing ten aanzien van:
 
-a. besluiten die zijn aangevraagd vóór dat tijdstip;  
+a.besluiten die zijn aangevraagd vóór dat tijdstip;
 
-b. ambtshalve te nemen besluiten waarvan het ontwerp ingevolge wettelijk voorschrift vóór dat tijdstip ter inzage is gelegd;  
+b.ambtshalve te nemen besluiten waarvan het ontwerp ingevolge wettelijk voorschrift vóór dat tijdstip ter inzage is gelegd;
 
-c. overige ambtshalve te nemen besluiten die binnen dertien weken na dat tijdstip zijn bekendgemaakt;  
+c.overige ambtshalve te nemen besluiten die binnen dertien weken na dat tijdstip zijn bekendgemaakt;
 
-d. besluiten omtrent goedkeuring van een besluit als bedoeld onder a, b of c;  
+d.besluiten omtrent goedkeuring van een besluit als bedoeld onder a, b of c;
 
-e. besluiten op grond van de Herinrichtingswet Oost-Groningen en Gronings-Drentse Veenkoloniën en de Reconstructiewet Midden-Delfland.     
-2.  [Afdeling 7.1 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vindt geen toepassing ten aanzien van geschillen die betrekking hebben op besluiten die zijn voorbereid met toepassing van [afdeling 3.5 van die wet](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), zoals die afdeling luidde vóór het tijdstip van inwerkingtreding van deze wet, en zijn bekendgemaakt op of na het tijdstip van inwerkingtreding van deze wet.   
-3.  [Afdeling 7.1 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), zoals die afdeling luidde vóór het tijdstip van inwerkingtreding van deze wet, blijft van toepassing ten aanzien van geschillen die betrekking hebben op besluiten die zijn voorbereid met toepassing van [afdeling 3.4 van die wet](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), zoals die afdeling luidde vóór het tijdstip van inwerkingtreding van deze wet, en zijn bekendgemaakt op of na het tijdstip van inwerkingtreding van deze wet.   
-4.  [Afdeling 7.1 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) blijft eveneens van toepassing ten aanzien van geschillen die betrekking hebben op andere dan de in het tweede of derde lid bedoelde besluiten waarop na de inwerkingtreding van deze wet [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is, indien deze besluiten zijn bekendgemaakt vóór het tijdstip van inwerkingtreding van deze wet.   
+e.besluiten op grond van de Herinrichtingswet Oost-Groningen en Gronings-Drentse Veenkoloniën en de Reconstructiewet Midden-Delfland.
+2. [Afdeling 7.1 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vindt geen toepassing ten aanzien van geschillen die betrekking hebben op besluiten die zijn voorbereid met toepassing van [afdeling 3.5 van die wet](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), zoals die afdeling luidde vóór het tijdstip van inwerkingtreding van deze wet, en zijn bekendgemaakt op of na het tijdstip van inwerkingtreding van deze wet.
+3. [Afdeling 7.1 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), zoals die afdeling luidde vóór het tijdstip van inwerkingtreding van deze wet, blijft van toepassing ten aanzien van geschillen die betrekking hebben op besluiten die zijn voorbereid met toepassing van [afdeling 3.4 van die wet](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), zoals die afdeling luidde vóór het tijdstip van inwerkingtreding van deze wet, en zijn bekendgemaakt op of na het tijdstip van inwerkingtreding van deze wet.
+4. [Afdeling 7.1 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) blijft eveneens van toepassing ten aanzien van geschillen die betrekking hebben op andere dan de in het tweede of derde lid bedoelde besluiten waarop na de inwerkingtreding van deze wet [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing is, indien deze besluiten zijn bekendgemaakt vóór het tijdstip van inwerkingtreding van deze wet.
 
-### Artikel  V  
+###Artikel V 
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van de artikelen II en III, die in werking treden met ingang van een jaar na het in dit koninklijk besluit bepaalde tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met uitzondering van de artikelen II en III, die in werking treden met ingang van een jaar na het in dit koninklijk besluit bepaalde tijdstip.
 
-### Artikel  VI  
+###Artikel VI 
 
-Deze wet wordt aangehaald als: Wet uniforme openbare voorbereidingsprocedure Awb.  
+Deze wet wordt aangehaald als: Wet uniforme openbare voorbereidingsprocedure Awb.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

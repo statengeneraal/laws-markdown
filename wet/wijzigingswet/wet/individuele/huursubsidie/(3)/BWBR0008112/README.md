@@ -11,25 +11,25 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### ARTIKEL  I  
 
-Wijzigt de Wet individuele huursubsidie.   
+Wijzigt de Wet individuele huursubsidie.  
 
 ### ARTIKEL  II  
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.   
+Wijzigt het Wetboek van Burgerlijke Rechtsvordering.  
 
 ### ARTIKEL  III  
 
-Artikel I is niet van toepassing op aanvragen om en verstrekkingen van een bijdrage als bedoeld in artikel 2, eerste lid, van de Wet individuele huursubsidie, die betrekking hebben op tijdvakken als bedoeld in artikel 2, vijfde lid, van die wet, die zijn verstreken vóór 1 juli 1996.  
+Artikel I is niet van toepassing op aanvragen om en verstrekkingen van een bijdrage als bedoeld in artikel 2, eerste lid, van de Wet individuele huursubsidie, die betrekking hebben op tijdvakken als bedoeld in artikel 2, vijfde lid, van die wet, die zijn verstreken vóór 1 juli 1996. 
 
 ### ARTIKEL  IV  
 
-Deze wet treedt in werking met ingang van 1 juli 1996, met uitzondering van artikel II, dat in werking treedt met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin deze wet wordt geplaatst.  
+Deze wet treedt in werking met ingang van 1 juli 1996, met uitzondering van artikel II, dat in werking treedt met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin deze wet wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 19 juni 1996  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
 D. K. J. Tommel   

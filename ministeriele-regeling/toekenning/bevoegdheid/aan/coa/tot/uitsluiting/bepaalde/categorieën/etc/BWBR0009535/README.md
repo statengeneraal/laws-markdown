@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Toekenning bevoegdheid aan COA tot uitsluiting bepaalde categorieën asielzoekers van verstrekkingen Rva 1997
+##Toekenning bevoegdheid aan COA tot uitsluiting bepaalde categorieën asielzoekers van verstrekkingen Rva 1997 
 
 De Staatssecretaris van Justitie,  
 Gelet op [artikel 4 van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 1997](../../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0009205/README.md), afgekort als Rva 1997 (Stcrt. 1997, nr. 246);
@@ -8,7 +8,7 @@ Gelet op [artikel 4 van de Regeling verstrekkingen asielzoekers en andere catego
 Overwegende:
 
 -dat er naar het oordeel van het Centraal Orgaan opvang asielzoekers een capacitaire noodsituatie als bedoeld in [artikel 4 van de Rva 1997](../../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0009205/README.md) is ontstaan;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -20,17 +20,17 @@ Besluit:
 
 De vervangende verstrekkingen als bedoeld in artikel 1 zijn: 
 
-a. een wekelijkse financiële toelage ten behoeve van voedsel, kleding en andere persoonlijke uitgaven;  
+a.  een wekelijkse financiële toelage ten behoeve van voedsel, kleding en andere persoonlijke uitgaven; 
 
-b. een wekelijkse financiële toelage ten behoeve van onderdak buiten een opvangcentrum;  
+b.  een wekelijkse financiële toelage ten behoeve van onderdak buiten een opvangcentrum; 
 
-c. een eenmalig bedrag ten behoeve van de aanschaf van kleding en schoeisel;  
+c.  een eenmalig bedrag ten behoeve van de aanschaf van kleding en schoeisel; 
 
-d. de dekking van de kosten van medische verstrekkingen overeenkomstig een daartoe te treffen ziektekostenregeling;  
+d.  de dekking van de kosten van medische verstrekkingen overeenkomstig een daartoe te treffen ziektekostenregeling; 
 
-e. een verzekering tegen de financiële gevolgen van wettelijke aansprakelijkheid;  
+e.  een verzekering tegen de financiële gevolgen van wettelijke aansprakelijkheid; 
 
-f. de betaling van buitengewone kosten.    
+f.  de betaling van buitengewone kosten.   
 
 ### Artikel  3  
 
@@ -45,7 +45,7 @@ f. de betaling van buitengewone kosten.
 ### Artikel  4  
 
 1.  Op de mogelijkheid om de vervangende verstrekkingen als bedoeld in artikel 2 geheel of gedeeltelijk te onthouden is [artikel 6 van de Rva 1997](../../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0009205/README.md) van overeenkomstige toepassing.   
-2.  Op de beëindiging van de vervangende verstrekkingen als bedoeld in artikel 2 is [artikel 8, eerste lid van de Rva 1997](../../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0009205/README.md) van overeenkomstige toepassing, met dien verstande dat in plaats van de in onderdeel a genoemde ’passende huisvesting buiten een centrum’ moet worden gelezen ’passende huisvesting op grond van de [Huisvestingswet](../../../../../../../../../../../wet/huisvestingswet/BWBR0005674/README.md) of de Wet gemeentelijke zorg voor houders van een voorwaardelijke vergunning tot verblijf ’.   
+2.  Op de beëindiging van de vervangende verstrekkingen als bedoeld in artikel 2 is [artikel 8, eerste lid van de Rva 1997](../../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0009205/README.md) van overeenkomstige toepassing, met dien verstande dat in plaats van de in onderdeel a genoemde ’passende huisvesting buiten een centrum’ moet worden gelezen ’passende huisvesting op grond van de [Huisvestingswet](../../../../../../../../../../../wet/huisvestingswet/BWBR0005674/README.md) of de Wet gemeentelijke zorg voor houders van een voorwaardelijke vergunning tot verblijf’.   
 3.  De vervangende verstrekkingen als bedoeld in artikel 2 worden voorts beëindigd indien door het Centraal Orgaan opvang asielzoekers aan de asielzoeker onderdak in een opvangcentrum wordt aangeboden.   
 4.  [Artikel 9 van de Rva 1997](../../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0009205/README.md) is van overeenkomstige toepassing.   
 
@@ -56,8 +56,8 @@ f. de betaling van buitengewone kosten.
 
 ### Artikel  6  
 
-Dit besluit treedt in werking de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 De 
 Staatssecretaris voornoemd, 
-E.M.A.Schmitz    
+E.M.A.  Schmitz      

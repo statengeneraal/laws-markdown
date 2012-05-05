@@ -6,14 +6,14 @@ De Minister van Justitie,
 Gelet op [artikel 16, eerste lid, van de Beginselenwet verpleging ter beschikking gestelden](../../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md);
 
 Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 22 september 2000, kenmerk 5053768/TvdW/rb;
-Besluit:     
-### §  1  
+Besluit:      
+### § 1  
 
 ####Algemene bepalingen
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   wet:  de [Beginselenwet verpleging ter beschikking gestelden](../../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md);      raam:  glasruit met haar omlijsting     
+In deze regeling wordt verstaan onder:   wet:   de [Beginselenwet verpleging ter beschikking gestelden](../../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md);      raam:   glasruit met haar omlijsting    
 
 ### Artikel  2  
 
@@ -24,7 +24,7 @@ Deze regeling is van toepassing op de persoonlijke verblijfsruimten welke zich b
 1.  De persoonlijke verblijfsruimte is zodanig uitgevoerd en ingericht dat zij voldoet aan de eisen die het behandelingskarakter van de inrichting daaraan stelt.   
 2.  Bij plaatsing wordt de persoonlijke verblijfsruimte schoon, in goede staat en zonder gebreken opgeleverd aan de verpleegde.   
 
-### §  2  
+### § 2  
 
 ####De persoonlijke verblijfsruimte
 
@@ -64,21 +64,21 @@ De persoonlijke verblijfsruimte is voorzien van een van binnenuit en al dan niet
 
 De persoonlijke verblijfsruimte is ingericht met tenminste: 
 
-a. een spiegel;  
+a.  een spiegel;  
 
-b. een kast;  
+b.  een kast;  
 
-c. een tafel;  
+c.  een tafel;  
 
-d. een stoel;  
+d.  een stoel;  
 
-e. een aan de wand bevestigd prikbord of vergelijkbare voorziening;  
+e.  een aan de wand bevestigd prikbord of vergelijkbare voorziening;  
 
-f. een bed;  
+f.  een bed;  
 
-g. twee contactdozen.    
+g.  twee contactdozen.    
 
-### §  3  
+### § 3  
 
 ####Overgangsbepaling
 
@@ -86,7 +86,7 @@ g. twee contactdozen.
 
 Persoonlijke verblijfsruimten waarvan de oorspronkelijke bouw is aangevangen voor 1996, moeten in elk geval voldoen aan de eisen vermeld in de artikelen 3, 5, 6, 7, 8, 9 en 11, en moeten in elk geval voor 1 januari 2006 voldoen aan de eisen vermeld in de artikelen 4 en 10.  
 
-### §  4  
+### § 4  
 
 ####Slotbepalingen
 
@@ -96,9 +96,9 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  14  
 
-Deze regeling wordt aangehaald als: Regeling eisen persoonlijke verblijfsruimte justitiële tbs-inrichtingen.  
+Deze regeling wordt aangehaald als: Regeling eisen persoonlijke verblijfsruimte justitiële tbs-inrichtingen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
-De 
-Minister van Justitie
-A.H.Korthals    
+De
+Minister  van Justitie 
+A.H.  Korthals      

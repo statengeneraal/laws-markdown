@@ -11,19 +11,19 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ### Artikel  1  
 
-Hij, die ter uitvoering van een wettelijk voorschrift mondeling een eed, belofte of bevestiging moet afleggen, zal: 
+Hij, die ter uitvoering van een wettelijk voorschrift mondeling een eed, belofte of bevestiging moet afleggen, zal:  
 
 a. indien hij een eed aflegt, onder het opsteken van de twee voorste vingers van zijn rechterhand, uitspreken de woorden: "Zoo waarlijk helpe mij God Almachtig",  
 
-b. indien hij een belofte aflegt, uitspreken de woorden: "Dat beloof ik", indien hij een bevestiging aflegt, uitspreken de woorden: "Dat verklaar ik",   tenzij hij aan zijn godsdienstige gezindheid den plicht ontleent den eed, de belofte of de bevestiging op andere wijze te doen.  
+b. indien hij een belofte aflegt, uitspreken de woorden: "Dat beloof ik", indien hij een bevestiging aflegt, uitspreken de woorden: "Dat verklaar ik",   tenzij hij aan zijn godsdienstige gezindheid den plicht ontleent den eed, de belofte of de bevestiging op andere wijze te doen. 
 
 ### Artikel  2  
 
-Indien bij het wettelijk voorschrift andere uit te spreken woorden zijn vastgesteld als de in het vorige artikel voorgeschrevene, treden de bij het bijzonder wettelijk voorschrift vastgestelde voor deze in de plaats.  
+Indien bij het wettelijk voorschrift andere uit te spreken woorden zijn vastgesteld als de in het vorige artikel voorgeschrevene, treden de bij het bijzonder wettelijk voorschrift vastgestelde voor deze in de plaats. 
 
 ### Artikel  3  
 
-Hij, die tengevolge van een lichaams- of spraakgebrek den eed, de belofte of de bevestiging niet kan afleggen op de bij de artikelen 1 en 2 bepaalde wijze, zal den eed, de belofte of de bevestiging afleggen op een wijze, zooveel mogelijk overeenstemmende met het bij die artikelen voorgeschrevene, te bepalen door dengene in wiens handen de eed, de belofte of de bevestiging wordt afgelegd.  
+Hij, die tengevolge van een lichaams- of spraakgebrek den eed, de belofte of de bevestiging niet kan afleggen op de bij de artikelen 1 en 2 bepaalde wijze, zal den eed, de belofte of de bevestiging afleggen op een wijze, zooveel mogelijk overeenstemmende met het bij die artikelen voorgeschrevene, te bepalen door dengene in wiens handen de eed, de belofte of de bevestiging wordt afgelegd. 
 
 Lasten en bevelen, dat deze in het *Staatsblad* zal worden geplaatst, en dat alle Ministerieele Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

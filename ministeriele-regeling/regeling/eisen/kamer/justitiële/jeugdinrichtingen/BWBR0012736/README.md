@@ -1,19 +1,19 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling eisen kamer justitiële jeugdinrichtingen
+##Regeling eisen kamer justitiële jeugdinrichtingen 
 
 De Minister van Justitie,  
 Gelet op [artikel 17, vijfde lid, van Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);
 
 Gezien het advies van het College van advies voor de justitiële kinderbescherming van 12 oktober 2000, kenmerk: 5056746/00/TH/rb;
-Besluit:     
+Besluit:      
 ### Paragraaf  1  
 
 ####Algemene bepalingen
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   wet:  de [Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);      raam:  een voorziening waardoor de cyclus van dag en nacht kan worden waargenomen.     
+In deze regeling wordt verstaan onder:   wet:   de [Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);      raam:   een voorziening waardoor de cyclus van dag en nacht kan worden waargenomen.     
 
 ### Artikel  2  
 
@@ -62,19 +62,19 @@ De kamer is voorzien van een van binnenuit en al dan niet van buitenaf bedienbar
 
 De kamer is ingericht met tenminste: 
 
-a. een spiegel  
+a.  een spiegel  
 
-b. een hang-legkast  
+b.  een hang-legkast  
 
-c. een schrijfwerktafel  
+c.  een schrijfwerktafel  
 
-d. een stoel  
+d.  een stoel  
 
-e. een aan de wand bevestigd prikbord  
+e.  een aan de wand bevestigd prikbord  
 
-f. een bed  
+f.  een bed  
 
-g. twee contactdozen.    
+g.  twee contactdozen.    
 
 ### Paragraaf  3  
 
@@ -104,9 +104,9 @@ Deze regeling treedt in werking op 1 september 2001
 
 ### Artikel  15  
 
-Deze regeling wordt aangehaald als: Regeling eisen kamer justitiële jeugdinrichtingen  
+Deze regeling wordt aangehaald als: Regeling eisen kamer justitiële jeugdinrichtingen 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
-De 
-Minister van Justitie,
-A.H.Korthals    
+De
+Minister  vanJustitie, 
+A.H.  Korthals      

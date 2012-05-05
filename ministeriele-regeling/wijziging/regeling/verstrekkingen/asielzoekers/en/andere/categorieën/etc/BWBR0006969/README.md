@@ -8,21 +8,21 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen.   
+Wijzigt de regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen. 
 
 ### Artikel  II  
 
-De opvang van vreemdelingen die voor de datum van inwerkingtreding van deze regeling reeds werden opgevangen in het kader van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen kan worden voortgezet.  
+De opvang van vreemdelingen die voor de datum van inwerkingtreding van deze regeling reeds werden opgevangen in het kader van de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen kan worden voortgezet. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 's-Gravenhage 
 14 oktober 1994    
 
 De 
-Staatssecretaris van   
+Staatssecretaris van    
 
 Justitie, 
-E.M.A.Schmitz    
+E.M.A. Schmitz      

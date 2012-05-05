@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit huurprijzen woonruimte.   
+Wijzigt het Besluit huurprijzen woonruimte.  
 
 ### Artikel  II  
 
-Wijzigt het Rechtspositiebesluit voorzitters huurcommissies.   
+Wijzigt het Rechtspositiebesluit voorzitters huurcommissies.  
 
 ### Artikel  III  
 
-In de gevallen waarin de overgangsregeling, zoals opgenomen in [artikel III, derde lid, van het besluit van 2 september 1996 tot wijziging van het Besluit huurprijzen woonruimte (bodemsanering, verkeerslawaai) en het Besluit verschuldigde vergoeding huurcommissie bij geliberaliseerde huurovereenkomsten](../../../../../../../../../KB/wijzigingsbesluit/besluit/huurprijzen/woonruimte/(bodemsanering/etc/BWBR0008221/README.md) (Stb. 459), op het tijdstip waarop dit besluit in werking treedt, wordt toegepast, blijft deze ook na de inwerkingtreding van dit besluit van kracht.  
+In de gevallen waarin de overgangsregeling, zoals opgenomen in [artikel III, derde lid, van het besluit van 2 september 1996 tot wijziging van het Besluit huurprijzen woonruimte (bodemsanering, verkeerslawaai) en het Besluit verschuldigde vergoeding huurcommissie bij geliberaliseerde huurovereenkomsten](../../../../../../../../../KB/wijzigingsbesluit/besluit/huurprijzen/woonruimte/(bodemsanering/etc/BWBR0008221/README.md) (Stb. 459), op het tijdstip waarop dit besluit in werking treedt, wordt toegepast, blijft deze ook na de inwerkingtreding van dit besluit van kracht. 
 
 ### Artikel  IV  
 
@@ -33,7 +33,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 
 's-Gravenhage 
 6 februari 1999  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
 J. W. Remkes   
@@ -41,4 +41,4 @@ J. W. Remkes
 drieëntwintigste februari 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

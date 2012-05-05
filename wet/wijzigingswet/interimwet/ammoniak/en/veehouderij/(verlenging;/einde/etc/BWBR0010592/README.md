@@ -11,11 +11,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### ARTIKEL  I  
 
-Wijzigt de Interimwet ammoniak en veehouderij.   
+Wijzigt de Interimwet ammoniak en veehouderij.  
 
 ### ARTIKEL  II  
 
-Indien voor 1 maart 1999 een aanvraag is ingediend om een vergunning als bedoeld in [artikel 8.1, eerste lid, van de Wet milieubeheer](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) voor een veehouderij als bedoeld in artikel 6 van de Interimwet ammoniak en veehouderij, zoals dat artikel luidde voor 26 augustus 1999, blijft het voor 26 augustus 1999 geldende recht van toepassing tot het tijdstip waarop de beschikking op de aanvraag onherroepelijk is geworden.  
+Indien voor 1 maart 1999 een aanvraag is ingediend om een vergunning als bedoeld in [artikel 8.1, eerste lid, van de Wet milieubeheer](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) voor een veehouderij als bedoeld in artikel 6 van de Interimwet ammoniak en veehouderij, zoals dat artikel luidde voor 26 augustus 1999, blijft het voor 26 augustus 1999 geldende recht van toepassing tot het tijdstip waarop de beschikking op de aanvraag onherroepelijk is geworden. 
 
 ### ARTIKEL  III  
 
@@ -25,10 +25,10 @@ Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle mi
 
 Gegeven te 's-Gravenhage 
 8 juli 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J. P. Pronk   
+J. P. Pronk    
 
 De Minister van Landbouw, Natuurbeheer en Visserij, 
 L. J. Brinkhorst   
@@ -36,4 +36,4 @@ L. J. Brinkhorst
 de *zevenentwintigste* juli 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

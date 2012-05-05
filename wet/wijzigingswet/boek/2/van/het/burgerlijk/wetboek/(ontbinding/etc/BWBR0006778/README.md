@@ -11,25 +11,25 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
 
 ####Overgangsbepaling
 
-Rechtspersonen die voor een bepaalde duur zijn opgericht worden geacht voor onbepaalde tijd te zijn opgericht, indien de bepaalde duur nog niet is verstreken vóór het tijdstip van in werking treden van deze wet, of indien deze duur wel is verstreken maar nog niet met de vereffening is begonnen vóór dat tijdstip.  
+Rechtspersonen die voor een bepaalde duur zijn opgericht worden geacht voor onbepaalde tijd te zijn opgericht, indien de bepaalde duur nog niet is verstreken vóór het tijdstip van in werking treden van deze wet, of indien deze duur wel is verstreken maar nog niet met de vereffening is begonnen vóór dat tijdstip. 
 
 ### Artikel  V  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen, dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

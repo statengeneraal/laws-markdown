@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De bevoegdheden, welke de [Noodwet rechtspleging](../../../../../../../wet/noodwet/rechtspleging/BWBR0002457/README.md) aan Onze Minister van Justitie toekent, worden voor zolang de verbinding tussen een gebied en Onze Minister is verbroken, uitgeoefend door Onze Commissaris in de provincie, waarin dat gebied is gelegen. Bij de vervulling van deze taak pleegt Onze Commissaris, zo mogelijk, overleg met het College van procureurs-generaal.  
+De bevoegdheden, welke de [Noodwet rechtspleging](../../../../../../../wet/noodwet/rechtspleging/BWBR0002457/README.md) aan Onze Minister van Justitie toekent, worden voor zolang de verbinding tussen een gebied en Onze Minister is verbroken, uitgeoefend door Onze Commissaris in de provincie, waarin dat gebied is gelegen. Bij de vervulling van deze taak pleegt Onze Commissaris, zo mogelijk, overleg met het College van procureurs-generaal. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad*, waarin het is geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad*, waarin het is geplaatst. 
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat in het *Staatsblad* en de *Nederlandse Staatscourant* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.   
 

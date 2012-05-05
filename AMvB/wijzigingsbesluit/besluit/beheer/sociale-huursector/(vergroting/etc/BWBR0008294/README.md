@@ -15,25 +15,25 @@ Hebben goedgevonden en verstaan:
 
 ### ARTIKEL  I  
 
-Wijzigt het Besluit beheer sociale-huursector.   
+Wijzigt het Besluit beheer sociale-huursector.  
 
 ### ARTIKEL  II  
 
-Wijzigt het Besluit Centraal Fonds voor de Volkshuisvesting.   
+Wijzigt het Besluit Centraal Fonds voor de Volkshuisvesting.  
 
 ### ARTIKEL  III  
 
-De instellingen, toegelaten krachtens [artikel 70 van de Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md), die op 1 januari 1997 bestaan brengen de wijze waarop zij zich voor die datum met andere rechtspersonen of vennootschappen hebben verbonden voor 1 januari 2005 in overeenstemming met [artikel 11 *a*, tweede lid, van het Besluit beheer sociale-huursector](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md).  
+De instellingen, toegelaten krachtens [artikel 70 van de Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md), die op 1 januari 1997 bestaan brengen de wijze waarop zij zich voor die datum met andere rechtspersonen of vennootschappen hebben verbonden voor 1 januari 2005 in overeenstemming met [artikel 11*a*, tweede lid, van het Besluit beheer sociale-huursector](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md). 
 
 ### ARTIKEL  IV  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* wordt geplaatst.   
 
 's-Gravenhage 
 22 oktober 1996  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
 D. K. J. Tommel   
@@ -41,22 +41,28 @@ D. K. J. Tommel
 de *eenendertigste* oktober 1996 
 
 De Minister van Justitie, 
-W. Sorgdrager    
+W. Sorgdrager     
 
 ### Bijlage  A  
 
-####bij artikel I, onderdeel  DD, van het koninklijk besluit van 22 oktober 1996, Stb. 536, tot wijziging van het [Besluit beheer sociale-huursector](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md)
+####bij artikel I, onderdeel  DD, van het koninklijk besluit van 22 oktober 1996, Stb. 536, tot wijziging van het [Besluit beheer sociale-huursector](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md) 
 
-Wijzigt het Besluit beheer sociale-huursector.  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Wijzigt het Besluit beheer sociale-huursector.   
 
 ### Bijlage  B  
 
-####bij artikel I, onderdeel  FF, van het koninklijk besluit van 22 oktober 1996, Stb. 536, tot wijziging van het [Besluit beheer sociale-huursector](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md)
+####bij artikel I, onderdeel  FF, van het koninklijk besluit van 22 oktober 1996, Stb. 536, tot wijziging van het [Besluit beheer sociale-huursector](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md) 
 
-Wijzigt het Besluit beheer sociale-huursector.  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Wijzigt het Besluit beheer sociale-huursector.   
 
 ### Bijlage  C  
 
-####bij artikel I, onderdeel  GG, van het koninklijk besluit van 22 oktober 1996, Stb. 536, tot wijziging van het [Besluit beheer sociale-huursector](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md)
+####bij artikel I, onderdeel  GG, van het koninklijk besluit van 22 oktober 1996, Stb. 536, tot wijziging van het [Besluit beheer sociale-huursector](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md) 
 
-Wijzigt het Besluit beheer sociale-huursector.  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Wijzigt het Besluit beheer sociale-huursector.   

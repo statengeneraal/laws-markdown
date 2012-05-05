@@ -11,27 +11,27 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-De volgende bepalingen worden vastgesteld, die kunnen worden aangehaald als [Wet verevening pensioenrechten bij scheiding](../../../../../../../../../wet/wet/verevening/pensioenrechten/bij/scheiding/BWBR0006641/README.md):  
+De volgende bepalingen worden vastgesteld, die kunnen worden aangehaald als[Wet verevening pensioenrechten bij scheiding](../../../../../../../../../wet/wet/verevening/pensioenrechten/bij/scheiding/BWBR0006641/README.md): 
 
 ### Artikel  II  
 
-Wijzigt Boek 1 Burgerlijk Wetboek.   
+Wijzigt Boek 1 Burgerlijk Wetboek.  
 
 ### Artikel  III  
 
-Wijzigt de Pensioen- en Spaarfondsenwet.   
+Wijzigt de Pensioen- en Spaarfondsenwet.  
 
 ### Artikel  IV  
 
-Wijzigt de Wet tot invoering van een leeftijdsgrens voor het notarisambt en oprichting van een notarieel pensioenfonds.   
+Wijzigt de Wet tot invoering van een leeftijdsgrens voor het notarisambt en oprichting van een notarieel pensioenfonds.  
 
 ### Artikel  V  
 
-Wijzigt de Wet betreffende verplichte deelneming in een beroepspensioenregeling.   
+Wijzigt de Wet betreffende verplichte deelneming in een beroepspensioenregeling.  
 
 ### Artikel  VI  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen, dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

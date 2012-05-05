@@ -11,19 +11,19 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Artikel  1  
 
-De op 26 mei 1997 te Brussel totstandgekomen Overeenkomst, opgesteld op basis van artikel K.3, lid 2, onder c, van het Verdrag betreffende de Europese Unie, ter bestrijding van corruptie waarbij ambtenaren van de Europese Gemeenschappen of van de lidstaten van de Europese Unie betrokken zijn, waarvan de Nederlandse tekst is geplaatst in Tractatenblad 1997, 249, wordt goedgekeurd voor Nederland.  
+De op 26 mei 1997 te Brussel totstandgekomen Overeenkomst, opgesteld op basis van artikel K.3, lid 2, onder c, van het Verdrag betreffende de Europese Unie, ter bestrijding van corruptie waarbij ambtenaren van de Europese Gemeenschappen of van de lidstaten van de Europese Unie betrokken zijn, waarvan de Nederlandse tekst is geplaatst in Tractatenblad 1997, 249, wordt goedgekeurd voor Nederland. 
 
 ### Artikel  2  
 
-Het op 19 juni 1997 te Brussel totstandgekomen Tweede Protocol, opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie, bij de Overeenkomst aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen, waarvan de Nederlandse tekst is geplaatst in Tractatenblad 1997, 251, wordt goedgekeurd voor Nederland.  
+Het op 19 juni 1997 te Brussel totstandgekomen Tweede Protocol, opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie, bij de Overeenkomst aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen, waarvan de Nederlandse tekst is geplaatst in Tractatenblad 1997, 251, wordt goedgekeurd voor Nederland. 
 
 ### Artikel  3  
 
-Het op 27 januari 1999 te Straatsburg totstandgekomen Verdrag inzake de strafrechtelijke bestrijding van corruptie, waarvan de Nederlandse tekst is geplaatst in Tractatenblad 2000, 130, wordt goedgekeurd voor het gehele Koninkrijk.  
+Het op 27 januari 1999 te Straatsburg totstandgekomen Verdrag inzake de strafrechtelijke bestrijding van corruptie, waarvan de Nederlandse tekst is geplaatst in Tractatenblad 2000, 130, wordt goedgekeurd voor het gehele Koninkrijk. 
 
 ### Artikel  4  
 
-Het op 5 mei 1998 te Straatsburg totstandgekomen Statuut betreffende de Groep van Staten tegen corruptie, waarvan de Nederlandse tekst is geplaatst in Tractatenblad 2000, 131, wordt goedgekeurd voor het gehele Koninkrijk.  
+Het op 5 mei 1998 te Straatsburg totstandgekomen Statuut betreffende de Groep van Staten tegen corruptie, waarvan de Nederlandse tekst is geplaatst in Tractatenblad 2000, 131, wordt goedgekeurd voor het gehele Koninkrijk. 
 
 ### Artikel  5  
 
@@ -33,13 +33,13 @@ onderdeel a: ter zake van het strafbare feit dat geheel of gedeeltelijk op Neder
 
 onderdeel b: 
 
-– ter zake van het overeenkomstig artikel 2 strafbaar gestelde feit, ten aanzien van Nederlandse ambtenaren en voorts ten aanzien van Nederlanders die geen Nederlands ambtenaar zijn voor zover daarop door de wet van het land waar het feit begaan is, straf is gesteld,  
+– ter zake van het overeenkomstig artikel 2 strafbaar gestelde feit, ten aanzien van Nederlandse ambtenaren en voorts ten aanzien van Nederlanders die geen Nederlands ambtenaar zijn voor zover daarop door de wet van het land waar het feit begaan is, straf is gesteld,   
 
 – ter zake van de overeenkomstig de artikelen 3 en 4 strafbaar gestelde feiten, ten aanzien van zowel Nederlanders als Nederlandse ambtenaren voor zover daarop door de wet van het land waar het feit begaan is, straf is gesteld;    
 
 onderdeel c: ten aanzien van Nederlanders voor zover op het strafbare feit door de wet van het land waar het begaan is, straf is gesteld;  
 
-onderdeel d: ten aanzien van personen in de openbare dienst van een in Nederland gevestigde instelling van de Europese Gemeenschappen of van een in Nederland gevestigde overeenkomstig de Verdragen tot oprichting van de Europese Gemeenschappen ingesteld orgaan voor zover op het strafbare feit door de wet van het land waar het begaan is, straf is gesteld.    
+onderdeel d: ten aanzien van personen in de openbare dienst van een in Nederland gevestigde instelling van de Europese Gemeenschappen of van een in Nederland gevestigde overeenkomstig de Verdragen tot oprichting van de Europese Gemeenschappen ingesteld orgaan voor zover op het strafbare feit door de wet van het land waar het begaan is, straf is gesteld.   
 
 ### Artikel  6  
 
@@ -59,27 +59,27 @@ onderdeel b:
 
 onderdeel c: ten aanzien van Nederlanders voor zover op het strafbare feit door de wet van het land waar het begaan is, straf is gesteld;    
 
-2°. Aan de verplichting van artikel 12 wordt geen uitvoering gegeven.    
+2°. Aan de verplichting van artikel 12 wordt geen uitvoering gegeven.   
 
 ### Artikel  7  
 
-Indien een vraag die betrekking heeft op de uitlegging van de artikelen 1 tot en met 4 en 12 tot en met 16 van het in artikel 1 genoemde verdrag aan de orde komt in een zaak aanhangig voor een tot de rechterlijke macht behorend gerecht dan wel een administratieve rechter waarvan de beslissingen niet vatbaar zijn voor hoger beroep en deze instantie een beslissing op dit punt noodzakelijk acht voor haar uitspraak, is deze instantie gehouden zich tot het Hof van Justitie van de Europese Gemeenschappen te wenden, voor zover bij die zaak leden of ambtenaren van de communautaire instellingen of uit hoofde van de Verdragen tot oprichting van de Europese Gemeenschappen opgerichte organen betrokken zijn in de uitoefening van hun functies.  
+Indien een vraag die betrekking heeft op de uitlegging van de artikelen 1 tot en met 4 en 12 tot en met 16 van het in artikel 1 genoemde verdrag aan de orde komt in een zaak aanhangig voor een tot de rechterlijke macht behorend gerecht dan wel een administratieve rechter waarvan de beslissingen niet vatbaar zijn voor hoger beroep en deze instantie een beslissing op dit punt noodzakelijk acht voor haar uitspraak, is deze instantie gehouden zich tot het Hof van Justitie van de Europese Gemeenschappen te wenden, voor zover bij die zaak leden of ambtenaren van de communautaire instellingen of uit hoofde van de Verdragen tot oprichting van de Europese Gemeenschappen opgerichte organen betrokken zijn in de uitoefening van hun functies. 
 
 ### Artikel  8  
 
-Indien een vraag die betrekking heeft op de uitlegging van het in artikel 2 genoemde verdrag aan de orde komt in een zaak aanhangig voor een tot de rechterlijke macht behorend gerecht dan wel een administratieve rechter waarvan de beslissingen niet vatbaar zijn voor hoger beroep, en deze instantie een beslissing op dit punt noodzakelijk acht voor haar uitspraak, is deze instantie gehouden zich tot het Hof van Justitie van de Europese Gemeenschappen te wenden.  
+Indien een vraag die betrekking heeft op de uitlegging van het in artikel 2 genoemde verdrag aan de orde komt in een zaak aanhangig voor een tot de rechterlijke macht behorend gerecht dan wel een administratieve rechter waarvan de beslissingen niet vatbaar zijn voor hoger beroep, en deze instantie een beslissing op dit punt noodzakelijk acht voor haar uitspraak, is deze instantie gehouden zich tot het Hof van Justitie van de Europese Gemeenschappen te wenden. 
 
 ### Artikel  9  
 
-Wijzigt het Wetboek van Strafrecht   
+Wijzigt het Wetboek van Strafrecht  
 
 ### Artikel  10  
 
-Wijzigt de Uitleveringswet   
+Wijzigt de Uitleveringswet  
 
 ### Artikel  11  
 
-Deze rijkswet treedt in werking met ingang van de dag na de datum van het Staatsblad waarin zij wordt geplaatst.  
+Deze rijkswet treedt in werking met ingang van de dag na de datum van het Staatsblad waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -96,4 +96,4 @@ J. J. van Aartsen
 de *tiende* juli 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

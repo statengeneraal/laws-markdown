@@ -14,18 +14,21 @@ Gezien het nader rapport van onze Ministers van Justitie en van Binnenlandse Zak
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 01-03-2001 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
+Materieel uitgewerkt per 01-03-2001 
 
 1.  De ambtenaar, bedoeld in artikel 1 van het Ambtenarenreglement voor de rijkspolitie 1975, die voor de datum van inwerkingtreding van dit besluit belanghebbende was in de zin van artikel 1, eerste lid, onder *a*, van de Premiespaarregeling Rijksambtenaren 1968 en die op zijn bijzondere spaarrekening in de zin van artikel 4 van de Premiespaarregeling Rijksambtenaren 1968 een op zijn bezoldiging ingehouden bedrag had uitstaan komt in aanmerking voor de toekenning van een spaarpremie over dat bedrag met overeenkomstige toepassing van die regeling.   
-2.  Ten aanzien van het op grond van artikel 4 van de Premiespaarregeling Rijksambtenaren 1968 op de bezoldiging ingehouden en op de bijzonder spaarrekening, van de in het eerste lid bedoelde ambtenaar, uitstaande bedrag dat nog niet voldoet aan de in die regeling gestelde voorwaarden voor toekenning van de spaarpremie, geldt, dat dit uitstaande bedrag gelijk gesteld wordt met het bedrag dat de volle termijn van vier jaren heeft vastgestaan en derhalve in aanmerking komt voor de toekenning van een spaarpremie over dat bedrag met overeenkomstige toepassing van die regeling.   
-3.  De ambtenaar bedoeld in artikel 1 van het Ambtenarenreglement voor de rijkspolitie 1975 die voor de inwerkingtreding van dit besluit belanghebbende was in de zin van artikel 1, eerste lid, onder *a*, van de Premiespaarregeling Rijksambtenaren 1968 en betalingen heeft verricht in de zin van artikel 5 van de Premiespaarregeling Rijksambtenaren 1968 komt in aanmerking voor de toekenning van een premie met overeenkomstige toepassing van die regeling, met dien verstande dat voor de over de maand juni 1993 in de zin van artikel 5 van de Premiespaarregeling Rijksambtenaren 1968 verrichte betalingen voor 1 november 1993 een verzoek in de zin van artikel 12, tweede lid, van die regeling moet zijn ingediend.   
+2.   Ten aanzien van het op grond van artikel 4 van de Premiespaarregeling Rijksambtenaren 1968 op de bezoldiging ingehouden en op de bijzonder spaarrekening, van de in het eerste lid bedoelde ambtenaar, uitstaande bedrag dat nog niet voldoet aan de in die regeling gestelde voorwaarden voor toekenning van de spaarpremie, geldt, dat dit uitstaande bedrag gelijk gesteld wordt met het bedrag dat de volle termijn van vier jaren heeft vastgestaan en derhalve in aanmerking komt voor de toekenning van een spaarpremie over dat bedrag met overeenkomstige toepassing van die regeling.   
+3.   De ambtenaar bedoeld in artikel 1 van het Ambtenarenreglement voor de rijkspolitie 1975 die voor de inwerkingtreding van dit besluit belanghebbende was in de zin van artikel 1, eerste lid, onder *a*, van de Premiespaarregeling Rijksambtenaren 1968 en betalingen heeft verricht in de zin van artikel 5 van de Premiespaarregeling Rijksambtenaren 1968 komt in aanmerking voor de toekenning van een premie met overeenkomstige toepassing van die regeling, met dien verstande dat voor de over de maand juni 1993 in de zin van artikel 5 van de Premiespaarregeling Rijksambtenaren 1968 verrichte betalingen voor 1 november 1993 een verzoek in de zin van artikel 12, tweede lid, van die regeling moet zijn ingediend.  
 
 ### Artikel  III  
+Materieel uitgewerkt per 01-03-2001 
 
-Dit besluit treedt in werking op 1 juli 1993.  
+Dit besluit treedt in werking op 1 juli 1993. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

@@ -11,24 +11,24 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-Het op 18 september 1998 te 's-Gravenhage totstandgekomen verdrag tussen de regering van het Koninkrijk der Nederlanden en de regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland wordt goedgekeurd voor Nederland.  
+Het op 18 september 1998 te 's-Gravenhage totstandgekomen verdrag tussen de regering van het Koninkrijk der Nederlanden en de regering van het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland wordt goedgekeurd voor Nederland. 
 
 ### Artikel  2  
 
-De Nederlandse wet is niet van toepassing op vrijheidsontneming of vrijheidsbeperking ondergaan op last van een Schots Hof zetelend in Nederland voor de strafrechtelijke vervolging van personen verdacht van de strafbare feiten, bedoeld in het zetelverdrag gesloten tussen het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en het Koninkrijk der Nederlanden van 18 september 1998 binnen aan dat Hof in Nederland ter beschikking staande ruimten.  
+De Nederlandse wet is niet van toepassing op vrijheidsontneming of vrijheidsbeperking ondergaan op last van een Schots Hof zetelend in Nederland voor de strafrechtelijke vervolging van personen verdacht van de strafbare feiten, bedoeld in het zetelverdrag gesloten tussen het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland en het Koninkrijk der Nederlanden van 18 september 1998 binnen aan dat Hof in Nederland ter beschikking staande ruimten. 
 
 ### Artikel  3  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij is geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij is geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 11 november 1998  
-Beatrix  
+Beatrix   
 
 De Minister van Justitie, 
-A. H. Korthals   
+A. H. Korthals    
 
 De Minister van Buitenlandse Zaken, 
 J. J. van Aartsen   

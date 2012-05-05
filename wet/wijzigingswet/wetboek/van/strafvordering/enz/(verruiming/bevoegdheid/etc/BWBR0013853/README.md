@@ -11,24 +11,24 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt het Wetboek van Strafvordering.   
+Wijzigt het Wetboek van Strafvordering.  
 
 ### Artikel  II  
 
-Wijzigt het Wetboek van Strafrecht.   
+Wijzigt het Wetboek van Strafrecht.  
 
 ### Artikel  III  
 
-Wijzigt de Wet overdracht tenuitvoerlegging strafvonnissen.   
+Wijzigt de Wet overdracht tenuitvoerlegging strafvonnissen.  
 
 ### Artikel  IV  
 
 1.  In zaken waarin voor het tijdstip van inwerkingtreding van deze wet een dagvaarding is uitgebracht waardoor de zaak bij de rechtbank ter terechtzitting aanhangig is gemaakt, blijven de [artikelen 368](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [369 van het Wetboek van Strafvordering](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van toepassing zoals zij luidden voor die inwerkingtreding.   
-2.  In zaken waarin voor het tijdstip van inwerkingtreding van deze wet een dagvaarding of oproeping is betekend waardoor de zaak in hoger beroep ter terechtzitting aanhangig wordt gemaakt, blijft [artikel 411, tweede lid, onder b, van het Wetboek van Strafvordering](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van toepassing zoals het luidde voor die inwerkingtreding.   
+2.  In zaken waarin voor het tijdstip van inwerkingtreding van deze wet een dagvaarding of oproeping is betekend waardoor de zaak in hoger beroep ter terechtzitting aanhangig wordt gemaakt, blijft [artikel 411, tweede lid, onder b, van het Wetboek van Strafvordering](../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van toepassing zoals het luidde voor die inwerkingtreding.  
 
 ### Artikel  V  
 
-Onder toepassing van [artikel 16 van de Tijdelijke referendumwe](../../../../../../../../../../wet/tijdelijke/referendumwet/BWBR0012701/README.md) t treedt deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij is geplaatst.  
+Onder toepassing van [artikel 16 van de Tijdelijke referendumwe](../../../../../../../../../../wet/tijdelijke/referendumwet/BWBR0012701/README.md)t treedt deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij is geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -42,4 +42,4 @@ A. H. Korthals
 de *elfde* juli 2002 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

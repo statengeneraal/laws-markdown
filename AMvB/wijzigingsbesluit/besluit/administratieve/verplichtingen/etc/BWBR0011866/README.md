@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit administratieve verplichtingen waterschapsbelastingen.   
+Wijzigt het Besluit administratieve verplichtingen waterschapsbelastingen.  
 
 ### Artikel  II  
 
-Wijzigt het Rijksreglement ontgrondingen.   
+Wijzigt het Rijksreglement ontgrondingen.  
 
 ### Artikel  III  
 
@@ -27,11 +27,11 @@ Met ingang van het tijdstip van inwerkingtreding van dit besluit wordt de uitoef
 
 a. in het kader van de heffing van waterschapsbelastingen, geacht te zijn verricht door de in [artikel 123, derde lid, onderdeel b, van de Waterschapswet](../../../../../../../wet/waterschapswet/BWBR0005108/README.md), bedoelde ambtenaar van het waterschap.  
 
-b. in het kader van de beoordeling van een ingediende aanvraag tot het verlenen van kwijtschelding van belasting op de voet van [artikel 26 van de Invorderingswet 1990](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), geacht te zijn verricht door de in [artikel 123, derde lid, onderdeel c van de Waterschapswet](../../../../../../../wet/waterschapswet/BWBR0005108/README.md), bedoelde ambtenaar van het waterschap.    
+b. in het kader van de beoordeling van een ingediende aanvraag tot het verlenen van kwijtschelding van belasting op de voet van [artikel 26 van de Invorderingswet 1990](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), geacht te zijn verricht door de in [artikel 123, derde lid, onderdeel c van de Waterschapswet](../../../../../../../wet/waterschapswet/BWBR0005108/README.md), bedoelde ambtenaar van het waterschap.   
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -45,4 +45,4 @@ J. M. de Vries
 de *veertiende* december 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

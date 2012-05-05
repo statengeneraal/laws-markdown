@@ -11,30 +11,30 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### ARTIKEL  I  
 
-Wijzigt de Auteurswet 1912.   
+Wijzigt de Auteurswet 1912.  
 
 ### ARTIKEL  II  
 
-Wijzigt de Wet op de naburige rechten.   
+Wijzigt de Wet op de naburige rechten.  
 
 ### ARTIKEL  III  
 
 1.  Deze wet laat vóór het tijdstip van inwerkingtreding van deze wet verrichte exploitatiehandelingen onverlet.   
 2.  Op overeenkomsten betreffende de exploitatie van een werk in de zin van de [Auteurswet](../../../../../../../../../../../../wet/auteurswet/BWBR0001886/README.md) of van een prestatie in de zin van de [Wet op de naburige rechten](../../../../../../../../../../../../wet/wet/op/de/naburige/rechten/BWBR0005921/README.md), die op het tijdstip van inwerkingtreding van deze wet nog van kracht zijn, is de in deze wet opgenomen regeling betreffende het uitzenden door middel van een satelliet van toepassing met ingang van 1 januari 2000, indien deze overeenkomsten op het laatstgenoemde tijdstip nog van kracht zijn.   
-3.  Met betrekking tot een vóór het tijdstip van inwerkingtreding van deze wet tot stand gekomen internationale co-produktie-overeenkomst tussen een co-producent uit een van de lid-staten van de Europese Unie of uit een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992 en een of meer co-producenten uit andere lid-staten of uit derde landen die een regeling bevat, waarbij de exploitatierechten voor alle vormen van openbaarmaking naar geografisch gebied worden verdeeld tussen de co-producenten zonder onderscheid te maken tussen uitzendingen door middel van een satelliet en andere vormen van openbaarmaking, is, indien de uitzending van de co-produktie door middel van een satelliet de exclusiviteit, in het bijzonder de taal-exclusiviteit, van een van de co-producenten of van diens rechtverkrijgenden op een bepaald grondgebied zou aantasten, voor de uitzending door middel van een satelliet de toestemming vereist van de co-producent die recht op die exclusiviteit kan doen gelden of diens rechtverkrijgenden.   
+3.  Met betrekking tot een vóór het tijdstip van inwerkingtreding van deze wet tot stand gekomen internationale co-produktie-overeenkomst tussen een co-producent uit een van de lid-staten van de Europese Unie of uit een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van 2 mei 1992 en een of meer co-producenten uit andere lid-staten of uit derde landen die een regeling bevat, waarbij de exploitatierechten voor alle vormen van openbaarmaking naar geografisch gebied worden verdeeld tussen de co-producenten zonder onderscheid te maken tussen uitzendingen door middel van een satelliet en andere vormen van openbaarmaking, is, indien de uitzending van de co-produktie door middel van een satelliet de exclusiviteit, in het bijzonder de taal-exclusiviteit, van een van de co-producenten of van diens rechtverkrijgenden op een bepaald grondgebied zou aantasten, voor de uitzending door middel van een satelliet de toestemming vereist van de co-producent die recht op die exclusiviteit kan doen gelden of diens rechtverkrijgenden.  
 
 ### ARTIKEL  IV  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze wet in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 20 juni 1996  
-Beatrix  
+Beatrix   
 
 De Minister van Justitie, 
-W. Sorgdrager   
+W. Sorgdrager    
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, 
 A. Nuis   

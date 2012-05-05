@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit draagkrachtcriteria rechtsbijstand.   
+Wijzigt het Besluit draagkrachtcriteria rechtsbijstand.  
 
 ### Artikel  II  
 
-Artikel 10 van het besluit zoals dat gold voor de inwerkingtreding van dit besluit blijft van toepassing op gevallen waarin vóór inwerkingtreding van dit besluit een procedure, waarvoor is toegevoegd, aanhangig is gemaakt en waarin binnen drie maanden na het aanhangig maken van die procedure een toevoeging wordt gevraagd terzake van de behartiging van hetzelfde rechtsbelang.  
+Artikel 10 van het besluit zoals dat gold voor de inwerkingtreding van dit besluit blijft van toepassing op gevallen waarin vóór inwerkingtreding van dit besluit een procedure, waarvoor is toegevoegd, aanhangig is gemaakt en waarin binnen drie maanden na het aanhangig maken van die procedure een toevoeging wordt gevraagd terzake van de behartiging van hetzelfde rechtsbelang. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van 15 juni 2000.  
+Dit besluit treedt in werking met ingang van 15 juni 2000. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -37,4 +37,4 @@ M. J. Cohen
 de *veertiende* juni 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

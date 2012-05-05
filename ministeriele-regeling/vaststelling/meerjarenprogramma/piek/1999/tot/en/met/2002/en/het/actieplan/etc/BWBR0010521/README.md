@@ -10,4 +10,4 @@ Besluit:     vast te stellen het meerjarenprogramma Piek 1999 tot en met 2002 en
 
 De 
 Minister van Verkeer en Waterstaat, 
-T.Netelenbos    
+T. Netelenbos      

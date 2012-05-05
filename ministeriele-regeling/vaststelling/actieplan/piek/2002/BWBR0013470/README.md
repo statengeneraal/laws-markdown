@@ -6,7 +6,7 @@ De Minister van Verkeer en Waterstaat,
 Na overleg met de Minister van Economische Zaken en de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
 Gelet op [artikel 2, eerste en tweede lid, van de Subsidieregeling stiller, schoner en zuiniger](../../../../../../ministeriele-regeling/subsidieregeling/stiller/schoner/en/zuiniger/BWBR0008783/README.md) (Stcrt. 2002, 23);
-Besluit:    
+Besluit:     
 
 ### Artikel  I  
 
@@ -14,9 +14,9 @@ Vast te stellen het actieplan Piek 2002 van de [Subsidieregeling stiller, schone
 
 ### Artikel  II  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening in de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 januari 2002.  
-Deze regeling zal, met uitzondering van de bijlagen, in de Staatscourant worden geplaatst. De bijlagen worden bekendgemaakt door terinzagelegging ten kantore van de Minister van Verkeer en Waterstaat, Plesmanweg 1-6 te Den Haag.   
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening in de Staatscourant waarin zij wordt geplaatst, en werkt terug tot en met 1 januari 2002. 
+Deze regeling zal, met uitzondering van de bijlagen, in de Staatscourant worden geplaatst. De bijlagen worden bekendgemaakt door terinzagelegging ten kantore van de Minister van Verkeer en Waterstaat, Plesmanweg 1-6 te Den Haag. 
 
 De 
-Minister van Verkeer en Waterstaat, 
-T.Netelenbos    
+Minister van Verkeer en Waterstaat,
+T. Netelenbos      

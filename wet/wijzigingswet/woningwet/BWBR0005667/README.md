@@ -11,31 +11,31 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Dit artikel is vervallen.   
+Dit artikel is vervallen.  
 
 ### Artikel  III  
 
-Dit artikel is vervallen.   
+Dit artikel is vervallen.  
 
 ### Artikel  IV  
 
-Dit artikel is vervallen.   
+Dit artikel is vervallen.  
 
 ### Artikel  V  
 
-Besluiten van het provinciaal bestuur tot overdracht van bevoegdheden van regeling en bestuur die aan de betrokken provincie krachtens [artikel 81, derde lid, van de Woningwet](../../../../wet/woningwet/BWBR0005181/README.md) zijn toegekend, en die zijn genomen voor het tijdstip waarop deze wet in werking treedt, zijn besluiten als bedoeld in [artikel 108, eerste lid, van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md) (*Stb.* 1992, 550), indien is voldaan aan het tweede en derde lid van laatstgenoemd artikel.  
+Besluiten van het provinciaal bestuur tot overdracht van bevoegdheden van regeling en bestuur die aan de betrokken provincie krachtens [artikel 81, derde lid, van de Woningwet](../../../../wet/woningwet/BWBR0005181/README.md) zijn toegekend, en die zijn genomen voor het tijdstip waarop deze wet in werking treedt, zijn besluiten als bedoeld in [artikel 108, eerste lid, van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md) (*Stb.* 1992, 550), indien is voldaan aan het tweede en derde lid van laatstgenoemd artikel. 
 
 ### Artikel  VI  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  VII  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

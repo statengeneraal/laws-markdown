@@ -15,15 +15,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-De [Radio-Omroep-Zender-Wet 1935](../../../../../../../../../../../wet/radio-omroep-zender-wet/1935/BWBR0001965/README.md) wordt ingetrokken.  
+De [Radio-Omroep-Zender-Wet 1935](../../../../../../../../../../../wet/radio-omroep-zender-wet/1935/BWBR0001965/README.md) wordt ingetrokken. 
 
 ### Artikel  II  
 
-Wijzigt de Mediawet.   
+Wijzigt de Mediawet.  
 
 ### Artikel  III  
 
-Wijzigt de Telecommunicatiewet.   
+Wijzigt de Telecommunicatiewet.  
 
 ### Artikel  VI  
 
@@ -31,11 +31,11 @@ Onze Minister van Verkeer en Waterstaat, handelende in overeenstemming met Onze 
 
 a. de Raad van Beheer wordt vervangen door een directie die door de algemene vergadering van aandeelhouders wordt benoemd en ontslagen zonder voordrachtsrecht van een ander vennootschappelijk orgaan of van enige derde; en  
 
-b. een raad van commissarissen bestaande uit ten minste zes leden wordt benoemd.    
+b. een raad van commissarissen bestaande uit ten minste zes leden wordt benoemd.   
 
 ### Artikel  VII  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -55,4 +55,4 @@ G. Zalm
 drieëntwintigste november 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

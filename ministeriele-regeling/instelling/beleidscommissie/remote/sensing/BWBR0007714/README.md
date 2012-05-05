@@ -10,7 +10,7 @@ Handelende in overeenstemming met de Minister van Onderwijs, Cultuur en Wetensch
 Gelet op het besluit van de Ministerraad van 1 december 1995, inzake het vervolg van het Nationaal Remote sensing Programma in samenhang met het vervolg van het Programma Gebruikersondersteuning vanaf 1996;
 
 Overwegende dat de Beleidscommissie Remote Sensing een gemotiveerd voorstel tot wijzigingen heeft ingediend;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -20,25 +20,25 @@ Er is een Beleidscommissie Remote Sensing.
 
 1.  De taak van de commissie is het coördineren en stimuleren van remote sensing activiteiten in Nederland als aangegeven in het Nationaal Remote sensing Programma 1996 - 2000 en in het Programma Gebruikersondersteuning 1996 - 2005. Hiertoe behoort: 
 
-1. Het jaarlijks vaststellen van een voortschrijdend samenhangend meerjarenprogramma ter realisering van de in de voornoemde programma’s beschreven doelstellingen.  
+1.  Het jaarlijks vaststellen van een voortschrijdend samenhangend meerjarenprogramma ter realisering van de in de voornoemde programma’s beschreven doelstellingen.  
 
 2. Het jaarlijks vaststellen van de begroting voor beide programma’s.  
 
 3. Het houden van toezicht op de realisering en voortgang van het samenhangend programma.     
-2.  Daarnaast heeft de commissie tot taak: 
+2.   Daarnaast heeft de commissie tot taak: 
 
-1. Het bieden van een communicatieforum voor in verschillende terreinen werkzame instellingen.  
+1.  Het bieden van een communicatieforum voor in verschillende terreinen werkzame instellingen.  
 
-2. Het leveren van inhoudelijke inbreng in de standpuntbepaling van Nederland bij deelneming aan remote sensing activiteiten in internationaal verband, in het bijzonder in het kader van het Europese Ruimteagentschap ESA en van de Europese Commissie.  
+2.  Het leveren van inhoudelijke inbreng in de standpuntbepaling van Nederland bij deelneming aan remote sensing activiteiten in internationaal verband, in het bijzonder in het kader van het Europese Ruimteagentschap ESA en van de Europese Commissie.  
 
-3. Het behartigen van de belangen van de verschillende bij remote sensing onderzoek en toepassingen betrokken instellingen.  
+3.  Het behartigen van de belangen van de verschillende bij remote sensing onderzoek en toepassingen betrokken instellingen.  
 
 4. Het uitbrengen van adviezen.     
-3.  De commissie vergadert tenminste driemaal per jaar en verder wanneer de meerderheid van de leden dat wenst.   
-4.  De voorzitter van de commissie is de plaatsvervangend Secretaris Generaal van het Ministerie van Verkeer en Waterstaat.   
+3.   De commissie vergadert tenminste driemaal per jaar en verder wanneer de meerderheid van de leden dat wenst.   
+4.   De voorzitter van de commissie is de plaatsvervangend Secretaris Generaal van het Ministerie van Verkeer en Waterstaat.   
 5.  In de commissie hebben zitting: 
 
-a. als lid: 
+a.  als lid: 
 
 de Hoofdingenieur-Directeur van de Meetkundige Dienst van de Rijkswaterstaat als vertegenwoordiger van het Ministerie van Verkeer en Waterstaat, tevens plaatsvervangend voorzitter;  
 
@@ -58,11 +58,11 @@ de Directeur van het Nederlands Instituut voor Vliegtuigontwikkeling en Ruimteva
 
 de adjunct-Directeur van de Stichting Ruimteonderzoek Nederland namens de Nederlandse Organisatie voor Wetenschappelijk Onderzoek.    
 
-b. als waarnemer: 
+b.  als waarnemer: 
 
 de Themacoördinator mondiale luchtverontreiniging en klimaatverandering van de Directie Lucht van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;    
 
-c. als secretaris: 
+c.  als secretaris: 
 
 het Hoofd van het Programma-bureau.       
 
@@ -124,9 +124,9 @@ De commissie zal na het afsluiten van het Nationaal Remote Sensing Programma de 
 
 ### Artikel  11  
 
-Deze beschikking treedt in werking met ingang van 1 januari 1996.  
-Deze beschikking zal worden gepubliceerd in de Staatscourant en in afschrift worden gezonden aan: a. belanghebbenden; b. de Minister van Onderwijs, Cultuur en Wetenschappen; c. de Minister van Landbouw, Natuurbeheer en Visserij; d. de Minister van Economische Zaken; e. de Minister van Ontwikkelings-samenwerking; f. de Minister van Defensie; g. de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer; h. de voorzitter van de Adviesraad voor het Wetenschaps- en Technologiebeleid; i. de voorzitter van het Interdeparte-mentaal Overleg voor het Wetenschapsbeleid; j. de voorzitter van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek; k. de president van de Koninklijke Nederlandse Akademie van Weten-schappen; l. de Directeur-Generaal van de Rijkswaterstaat.   
+Deze beschikking treedt in werking met ingang van 1 januari 1996. 
+Deze beschikking zal worden gepubliceerd in de Staatscourant en in afschrift worden gezonden aan: a. belanghebbenden; b. de Minister van Onderwijs, Cultuur en Wetenschappen; c. de Minister van Landbouw, Natuurbeheer en Visserij; d. de Minister van Economische Zaken; e. de Minister van Ontwikkelings-samenwerking; f. de Minister van Defensie;  g. de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer; h. de voorzitter van de Adviesraad voor het Wetenschaps- en Technologiebeleid; i. de voorzitter van het Interdeparte-mentaal Overleg voor het Wetenschapsbeleid; j. de voorzitter van de Nederlandse Organisatie voor Wetenschappelijk Onderzoek; k. de president van de Koninklijke Nederlandse Akademie van Weten-schappen; l. de Directeur-Generaal van de Rijkswaterstaat.   
 
 De 
 Minister van Verkeer en Waterstaat, 
-A.Jorritsma-Lebbink    
+A. Jorritsma-Lebbink      

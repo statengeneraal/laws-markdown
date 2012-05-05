@@ -6,38 +6,38 @@ De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
 
 ### Artikel  I  
 
-Wijzigt de Regeling geldelijke steun huisvesting gehandicapten 1992.   
+Wijzigt de Regeling geldelijke steun huisvesting gehandicapten 1992.  
 
 ### Artikel  II  
 
 1.  De in artikel I, aanhef, bedoelde regeling blijft van toepassing op aanvragen om te worden aangemerkt als A.D.L.-kandidaat als bedoeld in artikel 48, eerste lid, van die regeling, voor zover die aanvragen bij de minister zijn ingediend vóór 1 januari 1994.   
 2.  De in artikel I, aanhef, bedoelde regeling blijft van toepassing op aanvragen om een bijdrage ineens voor het stichten van een A.D.L.-cluster als bedoeld in artikel 52, eerste lid, van die regeling, voor zover die aanvragen overeenkomstig artikel 53 van die regeling aan de minister zijn toegezonden vóór het tijdstip, bedoeld in het eerste lid, met dien verstande dat de op die aanvragen betrekking hebbende aanvragen om geldelijke steun als bedoeld in de artikelen 55 en 56 van die regeling, onverminderd de in of op voet van die regeling gestelde termijnen, vóór 1 oktober 1996 bij de minister worden ingediend.   
-3.  De in artikel I, aanhef, bedoelde regeling blijft van toepassing ten aanzien van aanvragen om bijdragen ineens als bedoeld in artikel 21 van die regeling die de in artikel 18 van die regeling genoemde bedragen te boven gaan, die vóór 1 januari 1994 bij de gemeenten zijn ingediend, met dien verstande dat de op die aanvragen betrekking hebbende aanvragen om geldelijke steun als bedoeld in artikel 25 van die regeling, onverminderd de in of op voet van die regeling gestelde termijnen, vóór 1 oktober 1996 bij de minister worden ingediend.   
+3.  De in artikel I, aanhef, bedoelde regeling blijft van toepassing ten aanzien van aanvragen om bijdragen ineens als bedoeld in artikel 21 van die regeling die de in artikel 18 van die regeling genoemde bedragen te boven gaan, die vóór 1 januari 1994 bij de gemeenten zijn ingediend, met dien verstande dat de op die aanvragen betrekking hebbende aanvragen om geldelijke steun als bedoeld in artikel 25 van die regeling, onverminderd de in of op voet van die regeling gestelde termijnen, vóór 1 oktober 1996 bij de minister worden ingediend.  
 
 ### Artikel  III  
 
 1.  De Regeling geldelijke steun huisvesting gehandicapten 1992 wordt ingetrokken met inachtneming van het tweede en derde lid.   
 2.  De in het eerste lid genoemde regeling blijft van toepassing ten aanzien van aanvragen om bijdragen ineens die vóór 1 april 1994, bij de gemeenten zijn ingediend, met dien verstande dat de op die aanvragen betrekking hebbende aanvragen om geldelijke steun, onverminderd de in of op voet van die regeling gestelde termijnen, binnen 30 maanden na 1 april 1994, bij de minister zijn ingediend.   
-3.  Artikel 79, tweede, onderscheidenlijk derde lid, van de in het eerste lid genoemde regeling, zoals die laatstelijk luidde, blijft van toepassing op de in die leden bedoelde aanvragen, onderscheidenlijk schuldvorderingen.   
+3.  Artikel 79, tweede, onderscheidenlijk derde lid, van de in het eerste lid genoemde regeling, zoals die laatstelijk luidde, blijft van toepassing op de in die leden bedoelde aanvragen, onderscheidenlijk schuldvorderingen.  
 
 ### Artikel  IV  
 
 De wijze van berekenen, bedoeld in artikel 21 van de Regeling geldelijke steun huisvesting gehandicapten 1989, zoals dat artikel ingevolge artikel I, onderdeel M, onder 2, van deze regeling wordt gelezen, is neergelegd: 
 
-a. voor schuldvorderingen als bedoeld in artikel 19, tweede lid, van de Regeling geldelijke steun huisvesting gehandicapten 1989: in de bij deze regeling behorende bijlage II, onderdeel A; en  
+a. voor schuldvorderingen als bedoeld in artikel 19, tweede lid, van de Regeling geldelijke steun huisvesting gehandicapten 1989: in de bij deze regeling behorende bijlage II, onderdeel A; en 
 
-b. voor schuldvorderingen als bedoeld in artikel 90, eerste lid, van de Regeling geldelijke steun huisvesting gehandicapten 1989: in de bij deze regeling behorende bijlage II, onderdeel B.    
+b. voor schuldvorderingen als bedoeld in artikel 90, eerste lid, van de Regeling geldelijke steun huisvesting gehandicapten 1989: in de bij deze regeling behorende bijlage II, onderdeel B.  
 
 ### Artikel  V  
 
 1.  De artikelen I, onderdelen B, F, aanhef en onder 2 en 3, J, K, L, aanhef en onder 2, M en N, en IV treden in werking met ingang van 1 januari 1994.   
 2.  De artikelen I, onderdelen A, C, G, H, I en L, onder I, en II, eerste en tweede lid, treden in werking op hetzelfde tijdstip waarop de Ziekenfondsraad heeft aangegeven dat verlening van geldelijke steun in verband met de stichting van A.D.L.-clusters valt onder de doeleinden, bedoeld in [artikel 39, derde lid, onderdeel h, van de Wet financiering volksverzekeringen](../../../../../../../wet/wet/financiering/volksverzekeringen/BWBR0004538/README.md).   
 3.  De artikelen I, onderdelen D, E en F, onder I, en II, derde lid, treden in werking op hetzelfde tijdstip waarop de Ziekenfondsraad heeft aangegeven dat verlening van geldelijke steun voor woonaanpassingen voor gehandicapten valt onder de doeleinden, bedoeld in [artikel 39, derde lid, onderdeel h, van de Wet financiering volksverzekeringen](../../../../../../../wet/wet/financiering/volksverzekeringen/BWBR0004538/README.md).   
-4.  Artikel III treedt in werking met ingang van 1 april 1994.   
+4.  Artikel III treedt in werking met ingang van 1 april 1994.  
 
 ### Artikel  VI  
 
-Deze regeling wordt aangehaald als Overgangsregeling geldelijke steun huisvesting gehandicapten.  
+Deze regeling wordt aangehaald als Overgangsregeling geldelijke steun huisvesting gehandicapten. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
@@ -45,7 +45,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-E.Heerma   
+E. Heerma     
 
 ### Bijlage  I  
 
@@ -73,12 +73,12 @@ De verdeling van de uitbetalingen over de gemeenten is in de achterliggende lijs
 
 |
 |
-| Gemeente  | gemeentelijk  | gemeentelijk  | --- | BETALINGEN  | --- |
+| Gemeente  | gemeentelijk   | gemeentelijk   | --- | BETALINGEN  | --- |
 | --- | aandeel in procenten  | budget 1994 totaal  | gemeentelijk budget 1994  | gemeentelijk budget 1995  | gemeentelijk budget 1996  |
 | AALBURG  | ,06  | 7447  | 601  | 3844  | 3003  |
 | AALSMEER  | ,15  | 18619  | 1502  | 9610  | 7508  |
 | AALTEN  | ,11  | 13654  | 1101  | 7047  | 5506  |
-| AARDENBURG  | ,03  | 3724  | 300  | 1922  | 1502  |
+| AARDENBURG   | ,03  | 3724  | 300  | 1922  | 1502  |
 | AARLE-RIXTEL  | ,04  | 4965  | 400  | 2563  | 2002  |
 | ABCOUDE  | ,06  | 7447  | 601  | 3844  | 3003  |
 | ACHTKARSPELEN  | ,17  | 21101  | 1702  | 10891  | 8509  |
@@ -723,18 +723,18 @@ De verdeling van de uitbetalingen over de gemeenten is in de achterliggende lijs
 | ZWIJNDRECHT  | ,28  | 34755  | 2803  | 17938  | 14014  |
 | ZWOLLE  | ,65  | 80681  | 6507  | 41642  | 32533  |
 
-'s-Gravenhage 
+'s-Gravenhage
 28 september 1993  
 
-De 
+De
 Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-E.Heerma  
+E.Heerma   
 
 ### Bijlage  II  
 
 ####behorend bij de Overgangsregeling geldelijke steun huisvesting gehandicapten
 
-### A:  
+###A:  
 
 Berekening bijdrage ineens bij verbreken relatie gehandicapte-aangepaste woonruimte waarvoor een schuldvordering loopt op voet van de Regeling Geldelijke Steun Huisvesting Gehandicapten (RGSHG) Dossiernummer: __________________  
 
@@ -746,7 +746,7 @@ Berekening bijdrage ineens bij verbreken relatie gehandicapte-aangepaste woonrui
 | d.  | Aantal tot uitbetaling gekomen annuïteiten: (beschikkingsdatum is betaling 1e annuïteit)  | ..  |
 | e.  | Resterende looptijd (20 – d);  | ..  |
 | f.  | Rentepercentage annuïteit  | %  |
-| g.  | Factor bij resterende looptijd (e) en rentepercentage (f): (zie rentetafel IV: a <sub>n</sub> ¬)  | ....... ...  |
+| g.  | Factor bij resterende looptijd (e) en rentepercentage (f): (zie rentetafel IV: a<sub>n</sub>¬)  | ....... ...  |
 | h.  | Annuïteit:  | f. . ,  |
 | i.  | Berekende schuldrest = annuïteit (h) × factor (g) =  | f. . ,  |
 | j.  | Datum gereedkoming aanpassing:  | ..-..-19..  |
@@ -754,7 +754,7 @@ Berekening bijdrage ineens bij verbreken relatie gehandicapte-aangepaste woonrui
 | l.  | Tijdsverschil tussen gereedkoming (j) en aanvraag om een bijdrage (k): (maximaal 60 dagen invullen)  | .. dagen  |
 | m.  | Tijdsverschil tussen aanvraag om een bijdrage (k) en beschikking (a):  | .. dagen  |
 | n.  | Totaal aantal dagen van (l) en (m) uitdrukken in jaren:  | ....... jaar  |
-| o.  | Herberekende restschuld ((l+f/100) <sup>n</sup> –l) × i + i =  | f. . ,  |
+| o.  | Herberekende restschuld ((l+f/100)<sup>n</sup>–l) × i + i =  | f. . ,  |
 | p.  | Boeterente bank:  | f. . ,  |
 | q.  | Totaal uit te keren bedrag (o+p):  | f. . ,  |
 
@@ -774,9 +774,9 @@ wat het door dit ministerie toegekende rentepercentage en jaarlijkse bijdrage is
 
 aanvraag om een bijdrage m.b.t. aanpassing;  
 
-bewijs van boeterente.    
+bewijs van boeterente.   
 
-### B:  
+###B:  
 
 Berekening bijdrage ineens bij verbreken relatie gehandicapte-aangepaste woonruimte waarvoor een schuldvordering loopt op voet van artikel 90 van de Regeling Geldelijke Steun Huisvesting Gehandicapten 1989, in samenhang met de Beschikking Geldelijke Steun Huisvesting Gehandicapten (BGSHG) Dossiernummer: ____________________  
 
@@ -788,7 +788,7 @@ Berekening bijdrage ineens bij verbreken relatie gehandicapte-aangepaste woonrui
 | d.  | Aantal tot uitbetaling gekomen annuïteiten: (gereedkomingsdatum is betaling 1e annuïteit)  | ..  |
 | e.  | Resterende looptijd (20 – d):  | ..  |
 | f.  | Rentepercentage  | %  |
-| g.  | Factor bij resterende looptijd (e) en rentepercentage (f) (zie rentetafel IV: a <sub>n</sub> ¬)  | ..,.... ...  |
+| g.  | Factor bij resterende looptijd (e) en rentepercentage (f) (zie rentetafel IV: a<sub>n</sub>¬)  | ..,.... ...  |
 | h.  | Annuïteit:  | f. . ,  |
 | i.  | Schuldrest = annuïteit (h) × factor (g) =  | f. . ,  |
 | j.  | Boeterente bank:  | f. . ,  |
@@ -806,12 +806,12 @@ wanneer de aanpassing gereed is gekomen (bv. gereedmeldingformulier, nota aannem
 
 wat het door dit ministerie toegekende rentepercentage en jaarlijkse bijdrage is (bv. gereedmeldingformulier, beschikking);  
 
-bewijs van boeterente.    
+bewijs van boeterente.   
 Deze bijlage behoort bij de Overgangsregeling geldelijke steun huisvesting gehandicapten.  
 
-'s-Gravenhage 
+'s-Gravenhage
 28 september 1993  
 
-De 
+De
 Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-E.Heerma  
+E.Heerma   

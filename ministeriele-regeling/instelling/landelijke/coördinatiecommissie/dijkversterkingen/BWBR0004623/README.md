@@ -12,7 +12,7 @@ Besluit:
 
 ### Artikel  1  
 
-Er is een Landelijke Coördinatiecommissie Dijkversterkingen.  
+Er is een Landelijke Coördinatiecommissie Dijkversterkingen. 
 
 ### Artikel  2  
 
@@ -24,7 +24,7 @@ b. het adviseren van de minister van Verkeer en Waterstaat over het jaarlijks va
 
 c. het adviseren over onderwerpen van algemene aard met betrekking tot de voortgang van de werken;  
 
-d. het signaleren van zich voordoende knelpunten met betrekking tot de voortgang van de werken.    
+d. het signaleren van zich voordoende knelpunten met betrekking tot de voortgang van de werken.   
 
 ### Artikel  3  
 
@@ -32,21 +32,21 @@ In de commissie worden benoemd:
 
 a. tot *lid en voorzitter:* de heer J. W. Remkes, lid van Gedeputeerde Staten van Groningen;  
 
-b. tot *leden:* als vertegenwoordigers van de Unie van Waterschappen: de heer K. J. A. baron Collot d'Escury, lid van het dagelijks bestuur van de Unie van Waterschappen; de heer D. N. P. Tap, lid van het dagelijks bestuur van de Unie van Waterschappen; als vertegenwoordigers van het Interprovinciaal Overleg: mevrouw drs. I. Günther, lid van Gedeputeerde Staten van Zuid-Holland; de heer B. J. Blikman, lid van Gedeputeerde Staten van Flevoland; drs. J. de Geus, lid van Gedeputeerde Staten van Noord-Brabant; de heer J. van Dijkhuizen, lid van Gedeputeerde Staten van Gelderland; Als vertegenwoordiger van de minister van Verkeer en Waterstaat: ir. P. Huisman, hoofd van de afdeling Waterkeringen bij de Hoofdafdeling Waterbeheersing van de Hoofddirectie van de Waterstaat;  
+b. tot *leden:*  als vertegenwoordigers van de Unie van Waterschappen: de heer K. J. A. baron Collot d'Escury, lid van het dagelijks bestuur van de Unie van Waterschappen; de heer D. N. P. Tap, lid van het dagelijks bestuur van de Unie van Waterschappen; als vertegenwoordigers van het Interprovinciaal Overleg: mevrouw drs. I. Günther, lid van Gedeputeerde Staten van Zuid-Holland; de heer B. J. Blikman, lid van Gedeputeerde Staten van Flevoland; drs. J. de Geus, lid van Gedeputeerde Staten van Noord-Brabant; de heer J. van Dijkhuizen, lid van Gedeputeerde Staten van Gelderland; Als vertegenwoordiger van de minister van Verkeer en Waterstaat: ir. P. Huisman, hoofd van de afdeling Waterkeringen bij de Hoofdafdeling Waterbeheersing van de Hoofddirectie van de Waterstaat;  
 
-c. tot *lid en secretaris:* drs. P. Brolsma, landelijke coördinator dijkversterkingen en medewerker van de afdeling Waterkeringen bij de Hoofdafdeling Waterbeheersing van de Hoofddirectie van de Waterstaat.    
+c. tot *lid en secretaris:*  drs. P. Brolsma, landelijke coördinator dijkversterkingen en medewerker van de afdeling Waterkeringen bij de Hoofdafdeling Waterbeheersing van de Hoofddirectie van de Waterstaat.   
 
 ### Artikel  4  
 
-De leden genoemd in voorgaand artikel kunnen zich later vervangen en/of doen bijstaan door één medewerker op technisch niveau.  
+De leden genoemd in voorgaand artikel kunnen zich later vervangen en/of doen bijstaan door één medewerker op technisch niveau. 
 
 ### Artikel  5  
 
-Na de opheffing van de commissie dient de secretaris het archief over te dragen aan het hoofd van de onderafdeling Algemene Secretarie van de Hoofddirectie van de Waterstaat. Voor het overige archiefbeheer wordt verwezen naar mijn beschikking van 13 mei 1983, nr. A 23146.  
+Na de opheffing van de commissie dient de secretaris het archief over te dragen aan het hoofd van de onderafdeling Algemene Secretarie van de Hoofddirectie van de Waterstaat. Voor het overige archiefbeheer wordt verwezen naar mijn beschikking van 13 mei 1983, nr. A 23146. 
 
 ### Artikel  6  
 
-Deze beschikking treedt met ingang van heden in werking en werkt terug tot 1 juni 1989.  
+Deze beschikking treedt met ingang van heden in werking en werkt terug tot 1 juni 1989. 
 
 ### Artikel  7  
 
@@ -82,14 +82,14 @@ n. de Unie van Waterschappen;
 
 o. het Interprovinciaal Overleg;  
 
-p. de voorzitter van de Tweede Kamer der Staten-Generaal.    
+p. de voorzitter van de Tweede Kamer der Staten-Generaal.   
 
 's-Gravenhage 
 19 september 1989    
 
 De 
 minister van Verkeer en Waterstaat, 
-N.Smit-Kroes   
+N.  Smit-Kroes     
 
 ### Bijlage  
 

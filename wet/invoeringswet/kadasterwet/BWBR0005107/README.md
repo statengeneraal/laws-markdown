@@ -1,24 +1,24 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Wet van 6 juni 1991, tot wijziging van de Kadasterwet en van enige andere wetten en regeling van het overgangsrecht in verband met de inwerkingtreding van de Kadasterwet
+##Wet van 6 juni 1991, tot wijziging van de Kadasterwet en van enige andere wetten en regeling van het overgangsrecht in verband met de inwerkingtreding van de Kadasterwet 
 
-Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.
+Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz. 
 
-Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
+Allen, die deze zullen zien of horen lezen, saluut! doen te weten: 
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is met het oog op de inwerkingtreding van de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) (*Stb.* 1989, 186) daarin enkele wijzigingen aan te brengen, regels van overgangsrecht vast te stellen en enkele wettelijke voorschriften te wijzigen of in te trekken;
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
+Alzo Wij in overweging genomen hebben, dat het wenselijk is met het oog op de inwerkingtreding van de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) (*Stb.* 1989, 186) daarin enkele wijzigingen aan te brengen, regels van overgangsrecht vast te stellen en enkele wettelijke voorschriften te wijzigen of in te trekken; 
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:      
 ### Hoofdstuk  I  
 
-####Wijziging van de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md)
+####Wijziging van de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) 
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Hoofdstuk  II  
 
-####Overgangsbepalingen in verband met de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md)
+####Overgangsbepalingen in verband met de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) 
 
 ### Artikel  I  
 
@@ -42,46 +42,46 @@ Zij die op het tijdstip van het in werking treden van de [Kadasterwet](../../../
 
 ### Artikel  VI  
 
-1.  De op het tijdstip van het in werking treden van de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) door de Rijksdienst gehouden openbare registers van in- en overschrijving van feiten die betrekking hebben op onroerende zaken en rechten waaraan deze zijn onderworpen, maken met uitzondering van de dagregisters, deel uit van de in [artikel 8, eerste lid, onder *a*, van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) bedoelde openbare registers.   
-2.  De op het tijdstip van het in werking treden van de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) door de Rijksdienst gehouden openbare registers die krachtens [artikel 10 van de Maatregel teboekgestelde schepen](../../../../AMvB/maatregel/teboekgestelde/schepen/1992/BWBR0005260/README.md) 1990 (*Stb.* 1990, 500) behoren tot het register, bedoeld in de [artikelen 193](../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) en [783 van Boek 8 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) zoals die artikelen luidden tot aan dat tijdstip, maken deel uit: 
+1.  De op het tijdstip van het in werking treden van de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) door de Rijksdienst gehouden openbare registers van in- en overschrijving van feiten die betrekking hebben op onroerende zaken en rechten waaraan deze zijn onderworpen, maken met uitzondering van de dagregisters, deel uit van de in [artikel 8, eerste lid, onder *a*, van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) bedoelde openbare registers.    
+2.   De op het tijdstip van het in werking treden van de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) door de Rijksdienst gehouden openbare registers die krachtens [artikel 10 van de Maatregel teboekgestelde schepen](../../../../AMvB/maatregel/teboekgestelde/schepen/1992/BWBR0005260/README.md) 1990 (*Stb.* 1990, 500) behoren tot het register, bedoeld in de [artikelen 193](../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) en [783 van Boek 8 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) zoals die artikelen luidden tot aan dat tijdstip, maken deel uit:  
 
-a. voor zover betreffend de in [artikel 10, eerste lid, onder *b* tot en met *e*, van de Maatregel teboekgestelde schepen](../../../../AMvB/maatregel/teboekgestelde/schepen/1992/BWBR0005260/README.md) 1990 bedoelde registers: van de openbare registers, bedoeld in [artikel 8, eerste lid, onder *b*, van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md), en  
+a. voor zover betreffend de in [artikel 10, eerste lid, onder *b* tot en met *e*, van de Maatregel teboekgestelde schepen](../../../../AMvB/maatregel/teboekgestelde/schepen/1992/BWBR0005260/README.md) 1990 bedoelde registers: van de openbare registers, bedoeld in [artikel 8, eerste lid, onder *b*, van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md), en   
 
-b. voor zover betreffend de in de [artikel 10, eerste lid, onder *f*, van de Maatregel teboekgestelde schepen](../../../../AMvB/maatregel/teboekgestelde/schepen/1992/BWBR0005260/README.md) 1990 bedoelde registers en de in artikel 15, eerste lid, tweede zin, van die maatregel bedoelde verdere registers: van de registratie voor schepen, bedoeld in [artikel 85 van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md).     
-3.  De op het tijdstip van het in werking treden van de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) door de Rijksdienst gehouden openbare registers die krachtens artikel 3 van de Maatregel teboekgestelde Luchtvaartuigen (*Stb.* 1959, 119) behoren tot het register, bedoeld in artikel 2 van de Wet teboekgestelde Luchtvaartuigen, zoals dat artikel luidde tot aan dat tijdstip, maken deel uit: 
+b. voor zover betreffend de in de [artikel 10, eerste lid, onder *f*, van de Maatregel teboekgestelde schepen](../../../../AMvB/maatregel/teboekgestelde/schepen/1992/BWBR0005260/README.md) 1990 bedoelde registers en de in artikel 15, eerste lid, tweede zin, van die maatregel bedoelde verdere registers: van de registratie voor schepen, bedoeld in [artikel 85 van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md).      
+3.   De op het tijdstip van het in werking treden van de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) door de Rijksdienst gehouden openbare registers die krachtens artikel 3 van de Maatregel teboekgestelde Luchtvaartuigen (*Stb.* 1959, 119) behoren tot het register, bedoeld in artikel 2 van de Wet teboekgestelde Luchtvaartuigen, zoals dat artikel luidde tot aan dat tijdstip, maken deel uit:  
 
-a. voor zover betreffend de in artikel 3, onder *b*, van de Maatregel teboekgestelde Luchtvaartuigen bedoelde registers: van de openbare registers, bedoeld in [artikel 8, eerste lid, onder *c*, van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md), en  
+a. voor zover betreffend de in artikel 3, onder *b*, van de Maatregel teboekgestelde Luchtvaartuigen bedoelde registers: van de openbare registers, bedoeld in [artikel 8, eerste lid, onder *c*, van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md), en   
 
-b. voor zover betreffend het in artikel 3, onder *c*, van de Maatregel teboekgestelde Luchtvaartuigen bedoelde register en de in artikel 7, eerste lid, van die maatregel bedoelde andere registers, hulpboeken en kaarten: van de registratie voor luchtvaartuigen, bedoeld in [artikel 92 van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md).     
-4.  Ten aanzien van stukken waarvan de in- dan wel overschrijving heeft plaatsgehad vóór het tijdstip van het in werking treden van de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md), geldt als tijdstip van inschrijving hetgeen op de desbetreffende in de openbare registers opgenomen afschriften van die stukken door de bewaarder is vermeld.   
+b. voor zover betreffend het in artikel 3, onder *c*, van de Maatregel teboekgestelde Luchtvaartuigen bedoelde register en de in artikel 7, eerste lid, van die maatregel bedoelde andere registers, hulpboeken en kaarten: van de registratie voor luchtvaartuigen, bedoeld in [artikel 92 van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md).      
+4.   Ten aanzien van stukken waarvan de in- dan wel overschrijving heeft plaatsgehad vóór het tijdstip van het in werking treden van de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md), geldt als tijdstip van inschrijving hetgeen op de desbetreffende in de openbare registers opgenomen afschriften van die stukken door de bewaarder is vermeld.   
 
-### Artikel  VII  
+###Artikel VII 
 
-1.  Overschrijvingen in de openbare registers voor registergoederen die op het tijdstip van het in werking treden van de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) door de Rijksdienst worden gehouden, worden voor de toepassing van de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) met inschrijvingen gelijkgesteld.   
-2.  Stukken die vóór het in het eerste lid bedoelde tijdstip op grond van het tevoren geldende recht hebben geleid tot het stellen van aantekeningen in de in het eerste lid bedoelde openbare registers maar daarin niet zijn in- dan wel overgeschreven, blijven, voor zover zij aan de kantoren van de Dienst berusten, aldaar bewaard en zijn openbaar. [Artikel 9 van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) is van overeenkomstige toepassing op de stukken, bedoeld in de eerste zin.   
+1. Overschrijvingen in de openbare registers voor registergoederen die op het tijdstip van het in werking treden van de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) door de Rijksdienst worden gehouden, worden voor de toepassing van de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) met inschrijvingen gelijkgesteld. 
+2.  Stukken die vóór het in het eerste lid bedoelde tijdstip op grond van het tevoren geldende recht hebben geleid tot het stellen van aantekeningen in de in het eerste lid bedoelde openbare registers maar daarin niet zijn in- dan wel overgeschreven, blijven, voor zover zij aan de kantoren van de Dienst berusten, aldaar bewaard en zijn openbaar. [Artikel 9 van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) is van overeenkomstige toepassing op de stukken, bedoeld in de eerste zin.
 
 ### Artikel  VIII  
 
-1.  Voor zover de wet bepaalt dat in plaats van een notariële akte een onderhandse akte kan worden gebezigd die is opgesteld en mede-ondertekend door een persoon als bedoeld in de [artikelen 91](../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md) of [254 van de Overgangswet nieuw Burgerlijk Wetboek](../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md), wordt voor de toepassing van hetgeen bij of krachtens de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) is of wordt bepaald een zodanige onderhandse akte gelijkgesteld met een notariële akte.   
-2.  Voor zover de wet bepaalt dat met een notariële verklaring wordt gelijkgesteld een verklaring van een persoon als bedoeld in het eerste lid, wordt bij toepassing van hetgeen bij of krachtens de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) is of wordt bepaald een zodanige verklaring gelijkgesteld met een notariële verklaring.   
+1.  Voor zover de wet bepaalt dat in plaats van een notariële akte een onderhandse akte kan worden gebezigd die is opgesteld en mede-ondertekend door een persoon als bedoeld in de [artikelen 91](../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md) of [254 van de Overgangswet nieuw Burgerlijk Wetboek](../../../../wet/overgangswet/nieuw/burgerlijk/wetboek/BWBR0002565/README.md), wordt voor de toepassing van hetgeen bij of krachtens de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) is of wordt bepaald een zodanige onderhandse akte gelijkgesteld met een notariële akte.    
+2.   Voor zover de wet bepaalt dat met een notariële verklaring wordt gelijkgesteld een verklaring van een persoon als bedoeld in het eerste lid, wordt bij toepassing van hetgeen bij of krachtens de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) is of wordt bepaald een zodanige verklaring gelijkgesteld met een notariële verklaring.   
 
 ### Artikel  IX  
 
 Een in een ingeschreven stuk gekozen woonplaats in Nederland van welk stuk de inschrijving plaatsvond voor het in werking treden van de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md), wordt gelijkgesteld met de gekozen woonplaats, bedoeld in [artikel 47, tweede lid, van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md), tenzij uit de wet of het ingeschreven stuk anders blijkt.  
 
-### Artikel  X  
+###Artikel X 
 
-1.  Het vermelden in de kadastrale registratie van de wettelijke benaming, als bedoeld in [artikel 48, tweede lid, onder *c*, van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md), vindt ten aanzien van beperkte rechten en beslagen, over- dan wel ingeschreven in de openbare registers vóór het in werking treden van de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md), slechts toepassing, indien daaromtrent op grond van de desbetreffende over- dan wel ingeschreven stukken voldoende zekerheid bestaat.   
-2.  Het vermelden in de kadastrale registratie van de verwijzing, als bedoeld in [artikel 48, tweede lid, onder *e*, van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md), vindt ten aanzien van stukken, over- dan wel ingeschreven vóór het in werking treden van de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md), niet plaats, indien in de betrokken over- dan wel ingeschreven stukken de kadastrale aanduiding van de desbetreffende onroerende zaken niet of onvolledig is vermeld, met dien verstande dat, in geval van een onvolledige vermelding in die stukken, het vermelden van de verwijzing in de kadastrale registratie dienovereenkomstig geschiedt.   
+1.  Het vermelden in de kadastrale registratie van de wettelijke benaming, als bedoeld in [artikel 48, tweede lid, onder *c*, van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md), vindt ten aanzien van beperkte rechten en beslagen, over- dan wel ingeschreven in de openbare registers vóór het in werking treden van de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md), slechts toepassing, indien daaromtrent op grond van de desbetreffende over- dan wel ingeschreven stukken voldoende zekerheid bestaat. 
+2.  Het vermelden in de kadastrale registratie van de verwijzing, als bedoeld in [artikel 48, tweede lid, onder *e*, van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md), vindt ten aanzien van stukken, over- dan wel ingeschreven vóór het in werking treden van de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md), niet plaats, indien in de betrokken over- dan wel ingeschreven stukken de kadastrale aanduiding van de desbetreffende onroerende zaken niet of onvolledig is vermeld, met dien verstande dat, in geval van een onvolledige vermelding in die stukken, het vermelden van de verwijzing in de kadastrale registratie dienovereenkomstig geschiedt. 
 
-### Artikel  XII  
+###Artikel XII 
 
-1.  [Artikel 58, eerste lid, van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) vindt met betrekking tot een rechthebbende op een recht van hypotheek toepassing voorzover een besluit daartoe door Onze Minister is genomen.   
-2.  Ingeval van bijhouding op grond van een: 
+1. [Artikel 58, eerste lid, van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) vindt met betrekking tot een rechthebbende op een recht van hypotheek toepassing voorzover een besluit daartoe door Onze Minister is genomen.
+2. Ingeval van bijhouding op grond van een:
 
-a. verandering betreffende een ingeschreven recht van hypotheek voorzover die blijkt uit ingeschreven stukken als bedoeld in [artikel 54, eerste lid, onderdeel a, van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md), en  
+a.verandering betreffende een ingeschreven recht van hypotheek voorzover die blijkt uit ingeschreven stukken als bedoeld in [artikel 54, eerste lid, onderdeel a, van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md), en
 
-b. verandering betreffende een hypotheekhouder voorzover die blijkt uit inlichtingen als bedoeld in [artikel 54, eerste lid, onderdelen b en c, van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md),   vindt [artikel 58, eerste lid, van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) toepassing voorzover een besluit als bedoeld in het eerste lid is genomen.   
+b.verandering betreffende een hypotheekhouder voorzover die blijkt uit inlichtingen als bedoeld in [artikel 54, eerste lid, onderdelen b en c, van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md),vindt [artikel 58, eerste lid, van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) toepassing voorzover een besluit als bedoeld in het eerste lid is genomen.
 
 ### Artikel  XIII  
 
@@ -93,27 +93,27 @@ Indien op het tijdstip van het in werking treden van de [Kadasterwet](../../../.
 
 ### Hoofdstuk  III  
 
-####Aanpassing van andere wetten
+####Aanpassing van andere wetten 
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Hoofdstuk  IV  
 
-####Intrekking wettelijke voorschriften; slotbepalingen
+####Intrekking wettelijke voorschriften; slotbepalingen 
 
 ### Titel  1  
 
-####Intrekking wettelijke bepalingen
+####Intrekking wettelijke bepalingen 
 
 ### Artikel  I  
 
@@ -161,12 +161,12 @@ Het *koninklijk besluit van 24 april 1984 (Stb. 193*) tot instelling van een voo
 
 ### Titel  2  
 
-####Slotbepalingen
+####Slotbepalingen 
 
 ### Artikel  XII  
 
-1.  Onze Minister van Justitie brengt in de ingevolge artikel I van hoofdstuk I van deze wet gewijzigde [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) de aanhaling van afdelingen, artikelen en artikelleden van het Burgerlijk Wetboek, het [Wetboek van Koophandel](../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md) en het [Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) in overeenstemming met de door hem op grond van de [Invoeringswet Boeken 3, 5 en 6 van het nieuwe Burgerlijk Wetboek](../../../../wet/invoeringswet/boeken/3/5/en/6/nieuw/b.w./(twaalfde/gedeelte)/BWBR0005048/README.md) en van de Invoeringswet Boek 8 B.W. opnieuw vastgestelde nummering.   
-2.  Onze Minister van Justitie plaatst de tekst van de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) in het Staatsblad.   
+1.  Onze Minister van Justitie brengt in de ingevolge artikel I van hoofdstuk I van deze wet gewijzigde [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) de aanhaling van afdelingen, artikelen en artikelleden van het Burgerlijk Wetboek, het [Wetboek van Koophandel](../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md) en het [Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) in overeenstemming met de door hem op grond van de [Invoeringswet Boeken 3, 5 en 6 van het nieuwe Burgerlijk Wetboek](../../../../wet/invoeringswet/boeken/3/5/en/6/nieuw/b.w./(twaalfde/gedeelte)/BWBR0005048/README.md) en van de Invoeringswet Boek 8 B.W. opnieuw vastgestelde nummering.    
+2.   Onze Minister van Justitie plaatst de tekst van de [Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) in het Staatsblad.   
 
 ### Artikel  XIII  
 
@@ -176,19 +176,19 @@ Deze wet treedt in werking op het tijdstip van inwerkingtreding van de [Kadaster
 
 Deze wet kan worden aangehaald als: Invoeringswet Kadasterwet.  
 
-Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
+Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    
 
-Gegeven te 's-Gravenhage 
-6 juni 1991  
-Beatrix  
+Gegeven te 's-Gravenhage  
+6 juni 1991   
+Beatrix   
 
-De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-E. Heerma   
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
+E. Heerma    
 
-De Minister van Justitie, 
-E. M. H. Hirsch Ballin   
-
-de achttiende juli 1991 
-
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    
+
+de achttiende juli 1991  
+
+De Minister van Justitie,  
+E. M. H. Hirsch Ballin     

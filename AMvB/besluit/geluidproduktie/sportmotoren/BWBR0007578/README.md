@@ -15,43 +15,43 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder sportmotor: motorrijtuig op minder dan vier wielen: 
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder sportmotor: motorrijtuig op minder dan vier wielen:  
 
 a. dat niet voorzien is van een kenteken als bedoeld in [artikel 36 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en  
 
-b. dat bestemd is of gebruikt wordt voor de beoefening van de motorsport.    
+b. dat bestemd is of gebruikt wordt voor de beoefening van de motorsport.   
 
 ### Artikel  2  
 
-Het is verboden een sportmotor te gebruiken: 
+Het is verboden een sportmotor te gebruiken:  
 
 a. die het krachtens artikel 4, eerste lid, vastgestelde geluiddrukniveau overschrijdt, of  
 
-b. anders dan in een inrichting die behoort tot categorie 19.1, onder *g*, aanhef, en 2°, van [bijlage I, onder C, bij het Besluit omgevingsrecht](../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), en het bevoegd gezag voor die inrichting een omgevingsvergunning heeft verleend.    
+b. anders dan in een inrichting die behoort tot categorie 19.1, onder *g*, aanhef, en 2°, van [bijlage I, onder C, bij het Besluit omgevingsrecht](../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), en het bevoegd gezag voor die inrichting een omgevingsvergunning heeft verleend.   
 
 ### Artikel  3  
 
 1.  Van het in artikel 2, onderdeel a, gestelde verbod kan het bevoegd gezag, bedoeld in artikel 2, onderdeel b, ontheffing verlenen voor het gebruik van sportmotoren tijdens een in de ontheffing aangegeven evenement dat plaatsvindt in een inrichting als bedoeld in artikel 2, onderdeel b.   
-2.  Van het in artikel 2, onderdeel b, gestelde verbod kunnen gedeputeerde staten van de provincie waarin het evenement in hoofdzaak zal plaatsvinden ontheffing verlenen voor het gebruik van sportmotoren tijdens een in de ontheffing aangegeven evenement.   
-3.  [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de aanvraag om een ontheffing als bedoeld in het eerste of tweede lid.   
+2.   Van het in artikel 2, onderdeel b, gestelde verbod kunnen gedeputeerde staten van de provincie waarin het evenement in hoofdzaak zal plaatsvinden ontheffing verlenen voor het gebruik van sportmotoren tijdens een in de ontheffing aangegeven evenement.   
+3.  [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de aanvraag om een ontheffing als bedoeld in het eerste of tweede lid. 
 
 ### Artikel  4  
 
 1.  Onze Minister stelt het geluiddrukniveau vast dat door een sportmotor niet mag worden overschreden.   
-2.  Het in het eerste lid genoemde geluiddrukniveau kan verschillend worden vastgesteld naar gelang van de kenmerken van de betrokken sportmotor.   
-3.  Het geluiddrukniveau van sportmotoren wordt bepaald overeenkomstig een door Onze Minister vastgestelde reken- en meetmethode.   
+2.   Het in het eerste lid genoemde geluiddrukniveau kan verschillend worden vastgesteld naar gelang van de kenmerken van de betrokken sportmotor.   
+3.   Het geluiddrukniveau van sportmotoren wordt bepaald overeenkomstig een door Onze Minister vastgestelde reken- en meetmethode.  
 
 ### Artikel  5  
 
-Indien een sportmotor behoort tot een type dat voor het tijdstip van inwerkingtreding van dit besluit in produktie is genomen, geldt artikel 2 voor die sportmotor eerst met ingang van een jaar na dat tijdstip.  
+Indien een sportmotor behoort tot een type dat voor het tijdstip van inwerkingtreding van dit besluit in produktie is genomen, geldt artikel 2 voor die sportmotor eerst met ingang van een jaar na dat tijdstip. 
 
 ### Artikel  6  
 
-Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst. 
 
 ### Artikel  7  
 
-Dit besluit wordt aangehaald als: Besluit geluidproduktie sportmotoren.  
+Dit besluit wordt aangehaald als: Besluit geluidproduktie sportmotoren. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

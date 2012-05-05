@@ -11,27 +11,27 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt het Wetboek van Strafrecht.   
+Wijzigt het Wetboek van Strafrecht.  
 
 ### Artikel  II  
 
-Wijzigt het Wetboek van Strafvordering.   
+Wijzigt het Wetboek van Strafvordering.  
 
 ### Artikel  III  
 
-Wijzigt de Wet overdracht tenuitvoerlegging strafvonnissen.   
+Wijzigt de Wet overdracht tenuitvoerlegging strafvonnissen.  
 
 ### Artikel  IV  
 
-Wijzigt de Penitentiaire beginselenwet.   
+Wijzigt de Penitentiaire beginselenwet.  
 
 ### Artikel  V  
 
-De artikelen I onder A en II onder T zijn niet van toepassing op veroordelingen die voor de inwerkingtreding van deze wet onherroepelijk zijn geworden doch nog niet geheel ten uitvoer zijn gelegd.  
+De artikelen I onder A en II onder T zijn niet van toepassing op veroordelingen die voor de inwerkingtreding van deze wet onherroepelijk zijn geworden doch nog niet geheel ten uitvoer zijn gelegd. 
 
 ### Artikel  VI  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -45,4 +45,4 @@ J. P. H. Donner
 de twintigste mei 2003 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

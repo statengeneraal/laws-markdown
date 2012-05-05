@@ -1,9 +1,9 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit zak- en kleedgeld voor ter beschikking gestelden en anderszins verpleegden
+##Besluit zak- en kleedgeld voor ter beschikking gestelden en anderszins verpleegden 
 
 De Minister van Justitie;  
-overwegende dat laatstelijk bij Besluit van 5 februari 1999, kenmerk 744365/99/DJI het zak- en kleedgeld voor verpleegden die niet in aanmerking komen voor een AAW /WAO-uitkering en die geen ander inkomen (als bedoeld in artikel 3 van de Wet op de inkomstenbelasting 1964) genieten, met ingang van 1 januari 1999 is vastgesteld op f 419,01 per maand;
+overwegende dat laatstelijk bij Besluit van 5 februari 1999, kenmerk 744365/99/DJI het zak- en kleedgeld voor verpleegden die niet in aanmerking komen voor een AAW/WAO-uitkering en die geen ander inkomen (als bedoeld in artikel 3 van de Wet op de inkomstenbelasting 1964) genieten, met ingang van 1 januari 1999 is vastgesteld op f 419,01 per maand;
 
 overwegende dat het bedrag dat aan zak- en kleedgeld wordt verstrekt een voorschot is, dat, indien alsnog inkomen met terugwerkende kracht wordt genoten, dient te worden gerestitueerd;
 
@@ -21,8 +21,8 @@ Besluit:     het zak- en kleedgeld voor ter beschikking gestelden en anderszins 
 Den Haag 
 10 oktober 2000    
 
-De 
-Minister van Justitie, 
+De
+Minister van Justitie,  
 
 namens deze, 
 

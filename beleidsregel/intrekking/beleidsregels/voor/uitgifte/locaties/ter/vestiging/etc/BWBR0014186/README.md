@@ -16,7 +16,7 @@ Besluit:
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Het besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
@@ -24,4 +24,4 @@ Het besluit zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister van Economische Zaken, 
-J.F.Hoogervorst    
+J.F. Hoogervorst      

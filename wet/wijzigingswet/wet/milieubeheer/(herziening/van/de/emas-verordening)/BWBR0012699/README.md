@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet milieubeheer.   
+Wijzigt de Wet milieubeheer.  
 
 ### Artikel  II  
 
-Met betrekking tot een als locatie geregistreerde inrichting als bedoeld in [artikel 12.3 van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), zoals dat luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze wet, blijft het recht zoals het toen gold van toepassing voor de periode gedurende welke de betrokken locatie ingevolge artikel 17, vierde lid, van verordening nr. 761/2001 van het Europese Parlement en de Raad van de Europese Unie van 19 maart 2001 inzake de vrijwillige deelneming van organisaties aan een communautair milieubeheer- en milieu-auditsysteem (PbEG L 114) opgenomen blijft in het in dat artikellid bedoelde EMAS-register.  
+Met betrekking tot een als locatie geregistreerde inrichting als bedoeld in[artikel 12.3 van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), zoals dat luidde onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van deze wet, blijft het recht zoals het toen gold van toepassing voor de periode gedurende welke de betrokken locatie ingevolge artikel 17, vierde lid, van verordening nr. 761/2001 van het Europese Parlement en de Raad van de Europese Unie van 19 maart 2001 inzake de vrijwillige deelneming van organisaties aan een communautair milieubeheer- en milieu-auditsysteem (PbEG L 114) opgenomen blijft in het in dat artikellid bedoelde EMAS-register. 
 
 ### Artikel  III  
 
-Deze wet treedt op hetzelfde tijdstip in werking als de in artikel I, onder A, bedoelde verordening. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na het in de eerste volzin bedoelde tijdstip, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werkt zij terug tot en met het in de eerste volzin bedoelde tijdstip.  
+Deze wet treedt op hetzelfde tijdstip in werking als de in artikel I, onder A, bedoelde verordening. Indien het Staatsblad waarin deze wet wordt geplaatst, wordt uitgegeven na het in de eerste volzin bedoelde tijdstip, treedt zij in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst, en werkt zij terug tot en met het in de eerste volzin bedoelde tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

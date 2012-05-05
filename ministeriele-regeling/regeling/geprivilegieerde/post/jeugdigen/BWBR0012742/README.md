@@ -6,11 +6,11 @@ De Minister van Justitie,
 Gelet op [artikel 42, derde lid, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);
 
 Gezien het advies van het College van advies voor de justitiële Kinderbescherming van 30 mei 2000, nr. 503290/00/TH/JMO;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a.  *wet:*   de [Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);    b.  *brief:*   een brief of een ander poststuk;    c.  *envelop:*   een envelop of een daarmee vergelijkbare verpakking.     
+In deze regeling wordt verstaan onder:   a. *wet:*   de [Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);    b. *brief:*   een brief of een ander poststuk;    c. *envelop:*   een envelop of een daarmee vergelijkbare verpakking.     
 
 ### Artikel  2  
 
@@ -34,9 +34,9 @@ Deze regeling treedt in werking op 1 september 2001.
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als: Regeling geprivilegieerde post jeugdigen.  
+Deze regeling wordt aangehaald als: Regeling geprivilegieerde post jeugdigen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Justitie, 
-A.H.Korthals    
+A.H. Korthals      

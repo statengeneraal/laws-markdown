@@ -1,13 +1,13 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling straf- en afzonderingscel penitentiaire inrichtingen
+##Regeling straf- en afzonderingscel penitentiaire inrichtingen 
 
 De Minister van Justitie;  
 Gelet op [artikel 24, zevende lid](../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), en [artikel 55, derde lid, van de Penitentiaire beginselenwet](../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);
 
 Gezien het advies van de Centrale Raad voor Strafrechtstoepassing van 12 oktober 1998, nr. 715330/98,
-Besluit:     
-### Paragraaf  1  
+Besluit:      
+### Paragraaf 1  
 
 ####Algemene bepalingen
 
@@ -15,11 +15,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. wet: de [Penitentiaire beginselenwet](../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);  
+a.  wet: de [Penitentiaire beginselenwet](../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);  
 
-b. raam: een voorziening waardoor de cyclus van dag en nacht kan worden waargenomen.    
+b.  raam: een voorziening waardoor de cyclus van dag en nacht kan worden waargenomen.    
 
-### Paragraaf  2  
+### Paragraaf 2  
 
 ####Voorwaarden
 
@@ -31,11 +31,11 @@ Bij de tenuitvoerlegging van een disciplinaire straf in een strafcel of de tenui
 
 Indien de afzondering, bedoeld in [artikel 24 van de wet](../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), 
 
-a. in het belang van de handhaving van de orde of de veiligheid in de inrichting dan wel een ongestoorde tenuitvoerlegging van de vrijheidsbeneming,  
+a.  in het belang van de handhaving van de orde of de veiligheid in de inrichting dan wel een ongestoorde tenuitvoerlegging van de vrijheidsbeneming,  
 
-b. in verband met de ernst van de gedragingen van de gedetineerde, of  
+b.  in verband met de ernst van de gedragingen van de gedetineerde, of  
 
-c. in verband met de lichamelijke- of geestelijke toestand van de gedetineerde, niet ten uitvoer kan worden gelegd in de verblijfsruimte, bedoeld in [artikel 16, tweede lid, van de wet](../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), vindt deze plaats in een afzonderingscel.    
+c.  in verband met de lichamelijke- of geestelijke toestand van de gedetineerde, niet ten uitvoer kan worden gelegd in de verblijfsruimte, bedoeld in [artikel 16, tweede lid, van de wet](../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), vindt deze plaats in een afzonderingscel.    
 
 ### Artikel  4  
 
@@ -66,7 +66,7 @@ Indien de gedetineerde zelfdestructief gedrag vertoont dan wel indien het vermoe
 
 De directeur draagt zorg dat de wijze van verslaglegging over het verblijf van een gedetineerde in een straf- of afzonderingscel naar aard en frequentie op de situatie van de gedetineerde wordt afgestemd.  
 
-### Paragraaf  3  
+### Paragraaf 3  
 
 ####De inrichting van de straf- of afzonderingscel
 
@@ -115,7 +115,7 @@ In een afzonderingscel bevinden zich zitelementen of bevindt zich een matras met
 1.  Een straf- of afzonderingscel kan zijn uitgerust met een observatie-camera.   
 2.  De camera is zodanig aangebracht dat observatie van de gehele cel mogelijk is.   
 
-### Paragraaf  4  
+### Paragraaf 4  
 
 ####Het verblijf in de straf- of afzonderingscel
 
@@ -151,7 +151,7 @@ De gedetineerde wordt, gedurende zijn verblijf in de straf- of afzonderingscel, 
 
 In de straf- of afzonderingscel mag niet gerookt worden. Het is de gedetineerde toegestaan te roken tijdens het dagelijks verblijf in de buitenlucht.  
 
-### Paragraaf  5  
+### Paragraaf 5  
 
 ####Verzorging
 
@@ -167,7 +167,7 @@ De gedetineerde wordt ’s ochtends en ’s avonds in de gelegenheid gesteld zij
 
 Het voor gebruik in de straf- en afzonderingscel bestemde eetgerei wordt tegelijkertijd met de maaltijd aan de gedetineerde verstrekt en direct na de maaltijd weer ingenomen.  
 
-### Paragraaf  6  
+### Paragraaf 6  
 
 ####Controle en geweldgebruik
 
@@ -190,7 +190,7 @@ De gedetineerde wordt voor de plaatsing in een straf- of afzonderingscel aan zij
 
 De directeur is op grond van de [Geweldsinstructie penitentiaire inrichtingen](../../../../../../../../ministeriele-regeling/geweldsinstructie/penitentiaire/inrichtingen/BWBR0010095/README.md) bevoegd jegens een gedetineerde geweld te gebruiken dan wel vrijheidsbeperkende middelen aan te wenden, voor zover dit noodzakelijk is met het oog op de plaatsing in de straf- of afzonderingscel of de handhaving van de orde of de veiligheid in de inrichting.  
 
-### Paragraaf  7  
+### Paragraaf 7  
 
 ####Bijzondere bepalingen voor gedetineerden in een extra beveiligde inrichting
 
@@ -198,13 +198,13 @@ De directeur is op grond van de [Geweldsinstructie penitentiaire inrichtingen](.
 
 In afwijking van artikel 2 geldt voor gedetineerden die in een straf- of afzonderingscel verblijven in afwachting van plaatsing in een extra beveiligde inrichting, het daarover bepaalde in de huisregels van de extra beveiligde inrichting.  
 
-### Paragraaf  8  
+### Paragraaf 8  
 
 ####Slotbepalingen
 
 ### Artikel  36  
 
-De volgende regelingen worden ingetrokken: Reglement voor afzondering in een cel niet zijnde een strafcel (18 mei 1978, nr. 369/378); Reglement voor opsluiting in een strafcel (18 mei 1978, nr. 370/378); Uitvoeringsregeling van art. 105 Gevangenismaatregel (29 januari 1979, nr. 1426/378); Reglement plaatsing in de isoleercel en plaatsing op het veiligheidsbed (19 februari 1981, nr. 927/380); Uitvoeringsregeling van art. 105 Gevangenismaatregel (21 september 1981, nr. 969/381); Toezending brochure over de plaatsing in afzondering (9 januari 1984, nr. 1390/383); Aanvulling van art. 13, eerste lid, reglement strafcel (13 oktober 1992, nr. 256564/92) Regiem t.a.v. gedetineerden in landelijke afzonderingsafdelingen en Penitentiair Ziekenhuis in afwachting van plaatsing in ebi (11 oktober 1994, nr. 456588/94/DJ).  
+De volgende regelingen worden ingetrokken:  Reglement voor afzondering in een cel niet zijnde een strafcel (18 mei 1978, nr. 369/378);  Reglement voor opsluiting in een strafcel (18 mei 1978, nr. 370/378);  Uitvoeringsregeling van art. 105 Gevangenismaatregel (29 januari 1979, nr. 1426/378);  Reglement plaatsing in de isoleercel en plaatsing op het veiligheidsbed (19 februari 1981, nr. 927/380);  Uitvoeringsregeling van art. 105 Gevangenismaatregel (21 september 1981, nr. 969/381);  Toezending brochure over de plaatsing in afzondering (9 januari 1984, nr. 1390/383);  Aanvulling van art. 13, eerste lid, reglement strafcel (13 oktober 1992, nr. 256564/92)  Regiem t.a.v. gedetineerden in landelijke afzonderingsafdelingen en Penitentiair Ziekenhuis in afwachting van plaatsing in ebi (11 oktober 1994, nr. 456588/94/DJ).  
 
 ### Artikel  37  
 
@@ -212,12 +212,12 @@ Deze regeling treedt in werking op 15 juli 1999.
 
 ### Artikel  38  
 
-Deze regeling wordt aangehaald als: Regeling straf- en afzonderingscel penitentiaire inrichtingen.  
+Deze regeling wordt aangehaald als: Regeling straf- en afzonderingscel penitentiaire inrichtingen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 15 juni 1999    
 
-De 
-Minister van Justitie
-A.H.Korthals    
+De
+Minister  vanJustitie 
+A.H.  Korthals      

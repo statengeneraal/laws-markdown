@@ -6,7 +6,7 @@ De Minister van Justitie,
 Overwegende dat voor de uitvoering van de kerntaken van het Gerechtelijk Laboratorium te Rijswijk een goede samenwerking met alle bij de strafrechtelijke handhaving van de rechtsorde betrokken personen en instanties noodzakelijk is;
 
 Overwegende dat het gewenst is dat ter bevordering van deze samenwerking een Raad van Advies voor het Gerechtelijk Laboratorium wordt ingesteld;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -22,11 +22,11 @@ Er is een Raad van Advies voor het Rechtelijk Laboratorium. Hierna te noemen de 
 
 1.  In de Raad hebben zitting: 
 
-a. als voorzitter tevens lid: 
+a.  als voorzitter tevens lid: 
 
 de portefeuillehouder Gerechtelijk Laboratorium van het College van Procureurs-generaal;    
 
-b. als leden: 
+b.  als leden: 
 
 de voorzitter van het landelijk overleg van Rechters-commissarissen;  
 
@@ -61,7 +61,7 @@ De Raad verstrekt desgevraagd aan de Minister van Justitie de voor de uitoefenin
 
 ### Artikel  7  
 
-Deze beschikking wordt aangehaald als: Instellingsbeschikking Raad van Advies voor het Gerechtelijk Laboratorium.  
+Deze beschikking wordt aangehaald als: Instellingsbeschikking Raad van Advies voor het Gerechtelijk Laboratorium. 
 *Deze beschikking zal in de Staatscourant worden geplaatst. Van deze plaatsing zal mededeling worden gedaan in het Algemeen Politieblad.*    
 
 Den Haag 
@@ -74,4 +74,4 @@ namens deze,
 
 de 
 directeur-generaal Rechtshandhaving (wnd.), 
-H.C.J.L.Borghouts    
+H.C.J.L. Borghouts     

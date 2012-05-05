@@ -17,23 +17,23 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
 
-Een vergunning voor handelingen met genetisch gemodificeerde organismen buiten een afgesloten ruimte, installatie of apparatuur als bedoeld in artikel 2, tweede lid, onderdeel *a*, van het [Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen](../../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), die voor 1 augustus 1992 is verleend overeenkomstig de procedure geregeld in hoofdstuk 3 van de Wet algemene bepalingen milieuhygiëne (*Stb.* 1988, 133), wordt gelijkgesteld met een vergunning krachtens artikel 2, eerste lid, van dat besluit.  
+Een vergunning voor handelingen met genetisch gemodificeerde organismen buiten een afgesloten ruimte, installatie of apparatuur als bedoeld in artikel 2, tweede lid, onderdeel *a*, van het [Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen](../../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), die voor 1 augustus 1992 is verleend overeenkomstig de procedure geregeld in hoofdstuk 3 van de Wet algemene bepalingen milieuhygiëne (*Stb.* 1988, 133), wordt gelijkgesteld met een vergunning krachtens artikel 2, eerste lid, van dat besluit. 
 
 ### Artikel  V  
 
-Dit besluit treedt in werking met ingang van de dag waarop een maand is verstreken na de datum van uitgifte van het *Staatsblad* waarin het is geplaatst.  
+Dit besluit treedt in werking met ingang van de dag waarop een maand is verstreken na de datum van uitgifte van het *Staatsblad* waarin het is geplaatst. 
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

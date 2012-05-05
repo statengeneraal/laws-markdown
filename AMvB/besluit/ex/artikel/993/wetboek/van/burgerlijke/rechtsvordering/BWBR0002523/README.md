@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Het bepaalde in [artikel 993, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) geldt tevens, wanneer een beslissing, gegeven door een administratieve autoriteit van een vreemde Staat, in Nederland uitvoerbaar is krachtens het op 15 april 1958 te 's-Gravenhage tot stand gekomen verdrag nopens de erkenning en de tenuitvoerlegging van beslissingen over onderhoudsverplichtingen jegens kinderen (*Trb.* 1959, 187).  
+Het bepaalde in [artikel 993, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) geldt tevens, wanneer een beslissing, gegeven door een administratieve autoriteit van een vreemde Staat, in Nederland uitvoerbaar is krachtens het op 15 april 1958 te 's-Gravenhage tot stand gekomen verdrag nopens de erkenning en de tenuitvoerlegging van beslissingen over onderhoudsverplichtingen jegens kinderen (*Trb.* 1959, 187). 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking op de tweede dag na de datum van uitgifte van het *Staatsblad*, waarin het wordt geplaatst.  
+Dit besluit treedt in werking op de tweede dag na de datum van uitgifte van het *Staatsblad*, waarin het wordt geplaatst. 
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.   
 

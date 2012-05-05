@@ -4,7 +4,7 @@
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
 Gelet op [artikel 40 van de Wet op de architectentitel](../../../../../../../../../../wet/wet/op/de/architectentitel/BWBR0004189/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -12,7 +12,7 @@ De commissies voor de toelating van architecten, stedebouwkundigen, tuin- en lan
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit, waarvan afschrift zal worden gezonden aan de Minister van Landbouw, Natuurbeheer en Visserij, aan de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, A. Nuis, aan de Algemene Rekenkamer en aan de voorzitters, plaatsvervangende voorzitters en overige leden van de commissies voor de toelating, wordt in de Staatscourant geplaatst.   
 
 ’s-Gravenhage 
@@ -20,4 +20,4 @@ Dit besluit, waarvan afschrift zal worden gezonden aan de Minister van Landbouw,
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-M. deBoer    
+M. de Boer      

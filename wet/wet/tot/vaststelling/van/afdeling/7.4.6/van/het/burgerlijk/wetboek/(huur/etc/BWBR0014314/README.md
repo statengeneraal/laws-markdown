@@ -11,48 +11,48 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt Boek 7 van het Burgerlijk Wetboek.   
+Wijzigt Boek 7 van het Burgerlijk Wetboek.  
 
 ### Artikel  II  
 
-Wijzigt Boek 7 van het Burgerlijk Wetboek.   
+Wijzigt Boek 7 van het Burgerlijk Wetboek.  
 
 ### Artikel  III  
 
-De [Huurwet](../../../../../../../../../../../../../../wet/huurwet/BWBR0002066/README.md) wordt ingetrokken.  
+De [Huurwet](../../../../../../../../../../../../../../wet/huurwet/BWBR0002066/README.md) wordt ingetrokken. 
 
 ### Artikel  IV  
 
-Wijzigt Boek 3 van het Burgerlijk Wetboek.   
+Wijzigt Boek 3 van het Burgerlijk Wetboek.  
 
 ### Artikel  V  
 
-Wijzigt Boek 5 van het Burgerlijk Wetboek.   
+Wijzigt Boek 5 van het Burgerlijk Wetboek.  
 
 ### Artikel  VI  
 
-Wijzigt de Onteigeningswet.   
+Wijzigt de Onteigeningswet.  
 
 ### Artikel  VII  
 
-Wijzigt de Wet op het voortgezet onderwijs.   
+Wijzigt de Wet op het voortgezet onderwijs.  
 
 ### Artikel  VIII  
 
-Wijzigt de Wet op het primair onderwijs.   
+Wijzigt de Wet op het primair onderwijs.  
 
 ### Artikel  IX  
 
-Wijzigt de Wet op de expertisecentra.   
+Wijzigt de Wet op de expertisecentra.  
 
 ### Artikel  X  
 
-Wijzigt de Tijdelijke wet huurkoop onroerende zaken.   
+Wijzigt de Tijdelijke wet huurkoop onroerende zaken.  
 
 ### Artikel  XII  
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, met dien verstande dat artikel 290 lid 1 tot de inwerkingtreding van het bij Koninklijke Boodschap van 8 juni 1995 ingediende wetsvoorstel tot vaststelling en invoering van afdeling 7.1.12 (huurkoop onroerende zaken) van het nieuwe Burgerlijk Wetboek, als volgt luidt:  
-1.  De bepalingen van deze afdeling zijn van toepassing op huur en verhuur van bedrijfsruimte.   
+1.  De bepalingen van deze afdeling zijn van toepassing op huur en verhuur van bedrijfsruimte.  
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

@@ -18,19 +18,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Kennisgeving omtrent ledenvergaderingen van de corporatie, bedoeld in [artikel 14, tweede lid van de Loodsenwet](../../../../../../wet/loodsenwet/BWBR0004365/README.md) (*Stb.* 1988, 353), geschiedt ten minste zes weken tevoren door: 
+Kennisgeving omtrent ledenvergaderingen van de corporatie, bedoeld in [artikel 14, tweede lid van de Loodsenwet](../../../../../../wet/loodsenwet/BWBR0004365/README.md) (*Stb.* 1988, 353), geschiedt ten minste zes weken tevoren door:  
 
 a. toezending van de agenda aan de leden van de corporatie, en  
 
-b. plaatsing van een mededeling in de *Staatscourant*.    
+b. plaatsing van een mededeling in de *Staatscourant*.   
 
 ### Artikel  2  
 
-De agenda en de mededeling, bedoeld in artikel 1, bevatten in elk geval: 
+De agenda en de mededeling, bedoeld in artikel 1, bevatten in elk geval:  
 
 a. plaats, dag en aanvangsuur van de behandeling van het ontwerp van de verordening;  
 
-b. het gegeven dat de ledenvergadering openbaar is voor zover het de behandeling van het ontwerp van een verordening betreft.    
+b. het gegeven dat de ledenvergadering openbaar is voor zover het de behandeling van het ontwerp van een verordening betreft.   
 
 ### Hoofdstuk  II  
 
@@ -38,11 +38,11 @@ b. het gegeven dat de ledenvergadering openbaar is voor zover het de behandeling
 
 ### Artikel  3  
 
-Tegelijk met de agenda van de openbare ledenvergadering wordt de tekst van het ontwerp van de verordening, welke ter vergadering aan de orde zal komen, aan de leden van de corporatie toegezonden.  
+Tegelijk met de agenda van de openbare ledenvergadering wordt de tekst van het ontwerp van de verordening, welke ter vergadering aan de orde zal komen, aan de leden van de corporatie toegezonden. 
 
-### Artikel  4  
+###Artikel 4 
 
-Tegelijk met de kennisgeving van de openbare ledenvergadering wordt de tekst van het ontwerp van de verordening, welke ter vergadering aan de orde zal komen, overeenkomstig artikel 3:12, tweede lid, van de Algemene wet bestuursrecht, in de *Staatscourant* geplaatst.  
+Tegelijk met de kennisgeving van de openbare ledenvergadering wordt de tekst van het ontwerp van de verordening, welke ter vergadering aan de orde zal komen, overeenkomstig artikel 3:12, tweede lid, van de Algemene wet bestuursrecht, in de *Staatscourant* geplaatst.
 
 ### Hoofdstuk  III  
 
@@ -50,11 +50,11 @@ Tegelijk met de kennisgeving van de openbare ledenvergadering wordt de tekst van
 
 ### Artikel  6  
 
-Dit besluit treedt in werking met ingang van 1 september 1988.  
+Dit besluit treedt in werking met ingang van 1 september 1988. 
 
 ### Artikel  7  
 
-Dit besluit kan worden aangehaald als: Besluit kennisgevingen Nederlandse loodsencorporatie.  
+Dit besluit kan worden aangehaald als: Besluit kennisgevingen Nederlandse loodsencorporatie. 
 
 Lasten en bevelen, dat dit besluit met daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

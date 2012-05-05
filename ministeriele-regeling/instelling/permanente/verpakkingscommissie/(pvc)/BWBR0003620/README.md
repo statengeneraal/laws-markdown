@@ -16,7 +16,7 @@ Besluit: In te stellen een Permanente Verpakkingscommissie voor Verkeer en Water
 
 ### Artikel  1  
 
-De Commissie bestaat uit een voorzitter, die de Afdeling Gevaarlijke Stoffen van het Directoraat-Generaal van het Verkeer vertegenwoordigt en uit drie leden die de Directoraten-Generaal van het Verkeer, Scheepvaart en Maritieme Zaken en de Rijksluchtvaartdienst vertegenwoordigen. Uit de leden wordt de secretaris aangewezen. Er kunnen plaatsvervangende leden en een plaatsvervangend voorzitter worden benoemd.  
+De Commissie bestaat uit een voorzitter, die de Afdeling Gevaarlijke Stoffen van het Directoraat-Generaal van het Verkeer vertegenwoordigt en uit drie leden die de Directoraten-Generaal van het Verkeer, Scheepvaart en Maritieme Zaken en de Rijksluchtvaartdienst vertegenwoordigen. Uit de leden wordt de secretaris aangewezen. Er kunnen plaatsvervangende leden en een plaatsvervangend voorzitter worden benoemd. 
 
 ### Artikel  2  
 
@@ -40,19 +40,19 @@ h. het initiëren en begeleiden van internationale en nationale activiteiten ten
 
 i. het zo nodig adviserend optreden bij het verlenen van ontheffingen voor speciale transporten;  
 
-j. het zonodig ondernemen van alle activiteiten, welke ter verhoging van de veiligheid van de verpakkingen van belang zijn.    
+j. het zonodig ondernemen van alle activiteiten, welke ter verhoging van de veiligheid van de verpakkingen van belang zijn.   
 
 ### Artikel  3  
 
-De Commissie kan zich bij haar werkzaamheden laten bijstaan door deskundigen.  
+De Commissie kan zich bij haar werkzaamheden laten bijstaan door deskundigen. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking twee dagen na publikatie daarvan in de Nederlandse Staatscourant.  
+Dit besluit treedt in werking twee dagen na publikatie daarvan in de Nederlandse Staatscourant. 
 
 's-Gravenhage 
 27 september 1983    
 
 De 
 Staatssecretaris voornoemd, 
-J. F.Scherpenhuizen    
+J. F. Scherpenhuizen      

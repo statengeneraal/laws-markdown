@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-Wijzigt het Burgerlijk Wetboek.   
+Wijzigt het Burgerlijk Wetboek.  
 
 ### Artikel  2  
 
-Deze wet is van toepassing op testamentaire beschikkingen die zijn gemaakt door een erflater die overlijdt na het tijdstip waarop deze wet in werking treedt, ook indien de beschikking voor dat tijdstip is gemaakt.  
+Deze wet is van toepassing op testamentaire beschikkingen die zijn gemaakt door een erflater die overlijdt na het tijdstip waarop deze wet in werking treedt, ook indien de beschikking voor dat tijdstip is gemaakt. 
 
 ### Artikel  3  
 
-Deze wet treedt in werking op een door Ons te bepalen tijdstip.  
+Deze wet treedt in werking op een door Ons te bepalen tijdstip. 
 
 Lasten en bevelen, dat deze in het *Staatsblad* zal worden geplaatst, en dat alle ministeriële departementen, autoriteiten, colleges en ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

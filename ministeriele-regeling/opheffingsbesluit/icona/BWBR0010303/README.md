@@ -4,7 +4,7 @@
 
 De Staatssecretaris van Verkeer en Waterstaat,  
 Gelet op het besluit van de Ministerraad van 22 januari 1999 tot opheffing van de Interdepartementale Coördinatiecommissie voor Noordzee-aangelegenheden (ICONA) mede inhoudende machtiging aan de Staatssecretaris van Verkeer en Waterstaat daartoe over te gaan;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -28,8 +28,8 @@ Dit besluit wordt aangehaald als: Opheffingsbesluit ICONA.
 
 ### Artikel  6  
 
-Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
+Dit besluit zal met de toelichting in de Staatscourant worden geplaatst. 
 
 De 
 Staatssecretaris van Verkeer en Waterstaat, 
-J.M. deVries    
+J.M. de Vries      

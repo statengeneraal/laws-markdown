@@ -6,11 +6,11 @@ De Minister van Justitie,
 Gelet op [artikel 51, derde lid, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);
 
 Gezien het advies van het College van advies voor de justitiële kinderbescherming van 30 mei 2000, nr. 5032390/00/TH/JMO;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. wet:  de [Beginselenwet justitiële jeugdinrichtingen](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md).     
+In deze regeling wordt verstaan onder: a. wet:   de [Beginselenwet justitiële jeugdinrichtingen](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md).    
 
 ### Artikel  2  
 
@@ -34,17 +34,17 @@ Aan jeugdigen die in een inrichting verblijven wordt zakgeld verstrekt, met inac
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als: Regeling zakgeld jeugdigen.  
+Deze regeling wordt aangehaald als: Regeling zakgeld jeugdigen. 
 
 ### Artikel  7  
 
-Wijzigt deze regeling.   
+Wijzigt deze regeling. 
 
 ### Artikel  8  
 
-Deze regeling treedt in werking op 1 september 2001.  
+Deze regeling treedt in werking op 1 september 2001. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Justitie, 
-A.H.Korthals    
+A.H. Korthals      

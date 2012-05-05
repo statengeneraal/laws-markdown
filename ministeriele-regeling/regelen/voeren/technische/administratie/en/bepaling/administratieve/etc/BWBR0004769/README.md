@@ -14,7 +14,7 @@ a. voortstuwingsinrichtingen;
 
 b. luchtschroeven;  
 
-c. onderdelen, welke na revisie of herstelling in het algemeen niet in het zelfde luchtvaartuig zullen worden gemonteerd, voor zover de in artikel 2, derde lid, genoemde gegevens noodzakelijk zijn om na montage van het onderdeel in het luchtvaartuig het tijdstip te bepalen, waarop het onderdeel moet worden geïnspecteerd, gereviseerd of in verband met de beperkte levensduur buiten gebruik moet worden gesteld.    
+c. onderdelen, welke na revisie of herstelling in het algemeen niet in het zelfde luchtvaartuig zullen worden gemonteerd, voor zover de in artikel 2, derde lid, genoemde gegevens noodzakelijk zijn om na montage van het onderdeel in het luchtvaartuig het tijdstip te bepalen, waarop het onderdeel moet worden geïnspecteerd, gereviseerd of in verband met de beperkte levensduur buiten gebruik moet worden gesteld.   
 
 ### Artikel  2  
 
@@ -47,23 +47,23 @@ c. met betrekking tot wijzigingen en belangrijke herstellingen: tot één jaar i
 d. met betrekking tot onderdelen met beperkte levensduur: totdat één jaar is verstreken na de vervanging van het betreffende onderdeel.     
 6.  De in het vorige lid, onder a, b en d gestelde verplichtingen blijven slechts één jaar van kracht, nadat het luchtvaartuig in het luchtvaartuigregister is doorgehaald.   
 7.  Op de boeken, formulieren en andere bescheiden moeten ten minste de benaming, de typeaanduiding, het serienummer en de naam van de fabrikant van het luchtvaartuig of het onderdeel worden vermeld.   
-8.  Volgboeken en volgkaarten, welke ter voortzetting van de reeks aantekeningen worden gebruikt, moeten zijn voorzien van een volgnummer. De bladzijden van de boeken moeten doorlopend genummerd zijn.   
+8.  Volgboeken en volgkaarten, welke ter voortzetting van de reeks aantekeningen worden gebruikt, moeten zijn voorzien van een volgnummer. De bladzijden van de boeken moeten doorlopend genummerd zijn.  
 
 ### Artikel  3  
 
 ####Intrekking
 
-De regeling van de directeur-generaal van de Rijksluchtvaartdienst van 29 juli 1959, nr. LI/13847 wordt ingetrokken  
+De regeling van de directeur-generaal van de Rijksluchtvaartdienst van 29 juli 1959, nr. LI/13847 wordt ingetrokken 
 
 ### Artikel  4  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking op de tweede dag na de datum van verschijning van de Nederlandse Staatscourant, waarin zij wordt geplaatst.  
+Deze regeling treedt in werking op de tweede dag na de datum van verschijning van de Nederlandse Staatscourant, waarin zij wordt geplaatst. 
 
 's-Gravenhage 
 30 mei 1990    
 
 De 
 minister van Verkeer en Waterstaat, 
-J. R. H.Maij-Weggen    
+J. R. H. Maij-Weggen     

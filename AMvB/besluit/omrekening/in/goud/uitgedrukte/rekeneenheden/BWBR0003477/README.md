@@ -15,13 +15,13 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De wijze van omrekening in Nederlands geld, bedoeld in [artikel 1 van de Wet omrekening in goud uitgedrukte rekeneenheden](../../../../../../../../wet/wet/omrekening/in/goud/uitgedrukte/rekeneenheden/BWBR0003401/README.md) (*Stb.* 1981, 295), wordt toegepast op de rekeneenheden, die zijn omschreven in de volgende bepalingen: 
+De wijze van omrekening in Nederlands geld, bedoeld in [artikel 1 van de Wet omrekening in goud uitgedrukte rekeneenheden](../../../../../../../../wet/wet/omrekening/in/goud/uitgedrukte/rekeneenheden/BWBR0003401/README.md) (*Stb.* 1981, 295), wordt toegepast op de rekeneenheden, die zijn omschreven in de volgende bepalingen:  
 
 a. artikel 4, vijfde lid, onder *d*, van het op 25 augustus 1924 te Brussel tot stand gekomen Internationale Verdrag ter vaststelling van enige eenvormige regelen betreffende het cognossement zoals gewijzigd door het op 23 februari 1968 te Brussel tot stand gekomen Protocol bij dit verdrag (*Trb.* 1953, 109 en *Trb.* 1979, 26);  
 
-b. [artikel 469 *a*, vierde lid, van het Wetboek van Koophandel](../../../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md), zoals gewijzigd door de Wet van 11 maart 1981 (*Stb.* 206);  
+b.  [artikel 469*a*, vierde lid, van het Wetboek van Koophandel](../../../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md), zoals gewijzigd door de Wet van 11 maart 1981 (*Stb.* 206);  
 
-c. artikel 3, zesde lid, van het op 10 oktober 1957 te Brussel tot stand gekomen Internationaal Verdrag nopens de beperking van de aansprakelijkheid van eigenaren van zeeschepen (*Trb.* 1958, 46), alsmede [artikel 740 *d*, vierde lid, van het Wetboek van Koophandel](../../../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md);  
+c. artikel 3, zesde lid, van het op 10 oktober 1957 te Brussel tot stand gekomen Internationaal Verdrag nopens de beperking van de aansprakelijkheid van eigenaren van zeeschepen (*Trb.* 1958, 46), alsmede [artikel 740*d*, vierde lid, van het Wetboek van Koophandel](../../../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md);  
 
 d. artikel 3, tweede lid, van de wet van 24 oktober 1973 (*Stb.* 536), houdende regelen inzake wettelijke aansprakelijkheid van exploitanten van nucleaire schepen;  
 
@@ -43,15 +43,15 @@ l. artikel 21 van het Aanvullend Verdrag bij het Internationaal Verdrag betreffe
 
 m. artikel 7, onder *b*, van het op 29 juli 1960 te Parijs tot stand gekomen Verdrag inzake wettelijke aansprakelijkheid op het gebied van de kernenergie, zoals gewijzigd door het op 28 januari 1964 te Parijs tot stand gekomen Aanvullend Protocol bij dit verdrag (*Trb.* 1964, 175);  
 
-n. artikel 3, onder *g*, van het op 31 januari 1963 te Brussel tot stand gekomen Verdrag tot aanvulling van het Verdrag van Parijs van 29 juli 1960 inzake wettelijke aansprakelijkheid op het gebied van de kernenergie, zoals gewijzigd door het op 28 januari 1964 te Parijs tot stand gekomen Aanvullend Protocol bij dit verdrag (*Trb.* 1964, 176).    
+n. artikel 3, onder *g*, van het op 31 januari 1963 te Brussel tot stand gekomen Verdrag tot aanvulling van het Verdrag van Parijs van 29 juli 1960 inzake wettelijke aansprakelijkheid op het gebied van de kernenergie, zoals gewijzigd door het op 28 januari 1964 te Parijs tot stand gekomen Aanvullend Protocol bij dit verdrag (*Trb.* 1964, 176).   
 
 ### Artikel  2  
 
-Dit besluit kan worden aangehaald als Besluit omrekening in goud uitgedrukte rekeneenheden.  
+Dit besluit kan worden aangehaald als Besluit omrekening in goud uitgedrukte rekeneenheden. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking op een door Ons te bepalen tijdstip.  
+Dit besluit treedt in werking op een door Ons te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

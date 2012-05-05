@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt het Wetboek van strafvordering.   
+Wijzigt het Wetboek van strafvordering.  
 
 ### Artikel  II  
 
-Wijzigt de Wet politieregisters.   
+Wijzigt de Wet politieregisters.  
 
 ### Artikel  III  
 
-Wijzigt de Wet op de rechterlijke organisatie.   
+Wijzigt de Wet op de rechterlijke organisatie.  
 
 ### Artikel  IV  
 
@@ -28,13 +28,13 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 ### Artikel  V  
 
 1.  Bevelen en overeenkomsten, uitgevaardigd of gesloten voorafgaand aan het tijdstip van inwerkingtreding van deze wet, gelden als bevelen en overeenkomsten in de zin van de artikelen 126g tot en met 126z alsmede de artikelen 126ff en 126gg, indien zij aan de in het toepasselijke artikel gestelde eisen voldoen.   
-2.  In zaken waarin voor het tijdstip van inwerkingtreding van deze wet is bepaald dat gegevensverkeer wordt afgetapt en opgenomen of gevorderd dat inlichtingen terzake van gegevensverkeer worden verstrekt, blijven de artikelen [125f](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [125g](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [125h van het Wetboek van Strafvordering](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), zoals zij luidden voor het tijdstip van inwerkingtreding van deze wet, van kracht.   
+2.  In zaken waarin voor het tijdstip van inwerkingtreding van deze wet is bepaald dat gegevensverkeer wordt afgetapt en opgenomen of gevorderd dat inlichtingen terzake van gegevensverkeer worden verstrekt, blijven de artikelen [125f](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [125g](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [125h van het Wetboek van Strafvordering](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), zoals zij luidden voor het tijdstip van inwerkingtreding van deze wet, van kracht.  
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden. aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 27 mei 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Justitie, 
 A. H. Korthals   

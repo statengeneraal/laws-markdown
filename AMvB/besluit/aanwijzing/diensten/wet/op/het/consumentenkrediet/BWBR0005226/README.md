@@ -17,15 +17,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Als dienst in de zin van artikel 1, onder *a,* 2° en 3°, van de [Wet op het consumentenkrediet](../../../../../../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md) (*Stb.* 1990, 395) wordt aangewezen het in het kader van een reisovereenkomst vervoeren van reizigers of aan hen verstrekken van verblijf.  
+Als dienst in de zin van artikel 1, onder *a,* 2° en 3°, van de [Wet op het consumentenkrediet](../../../../../../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md) (*Stb.* 1990, 395) wordt aangewezen het in het kader van een reisovereenkomst vervoeren van reizigers of aan hen verstrekken van verblijf. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag waarop de [Wet op het consumentenkrediet](../../../../../../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md) in werking treedt.  
+Dit besluit treedt in werking met ingang van de dag waarop de [Wet op het consumentenkrediet](../../../../../../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md) in werking treedt. 
 
 ### Artikel  3  
 
-Dit besluit kan worden aangehaald als: Besluit aanwijzing diensten Wet op het consumentenkrediet.  
+Dit besluit kan worden aangehaald als: Besluit aanwijzing diensten Wet op het consumentenkrediet. 
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.   
 

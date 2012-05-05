@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De voorzitter, de vice-voorzitters, de gewone en de plaatsvervangende leden van het College van beroep voor het bedrijfsleven, benevens de griffier en de substituut-griffiers van dit College en zij, die de griffier of de substituut-griffier vervangen, dragen hetzelfde costuum als de overeenkomstige ambtenaren van een gerechtshof.  
+De voorzitter, de vice-voorzitters, de gewone en de plaatsvervangende leden van het College van beroep voor het bedrijfsleven, benevens de griffier en de substituut-griffiers van dit College en zij, die de griffier of de substituut-griffier vervangen, dragen hetzelfde costuum als de overeenkomstige ambtenaren van een gerechtshof. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van een door Ons te bepalen dag.  
+Dit besluit treedt in werking met ingang van een door Ons te bepalen dag. 
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.   
 

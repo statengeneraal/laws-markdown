@@ -11,25 +11,25 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Artikel  1  
 
-De op 26 juli 1995 te Brussel totstandgekomen Overeenkomst, opgesteld op grond van Artikel K.3 van het Verdrag betreffende de Europese Unie, aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen, waarvan de Nederlandse tekst is geplaatst in Tractatenblad 1995, 289, wordt goedgekeurd voor Nederland.  
+De op 26 juli 1995 te Brussel totstandgekomen Overeenkomst, opgesteld op grond van Artikel K.3 van het Verdrag betreffende de Europese Unie, aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen, waarvan de Nederlandse tekst is geplaatst in Tractatenblad 1995, 289, wordt goedgekeurd voor Nederland. 
 
 ### Artikel  2  
 
-Het op 27 september 1996 te Dublin totstandgekomen Protocol, opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie, bij de Overeenkomst aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen, waarvan de Nederlandse tekst is geplaatst in Tractatenblad 1996, 330, wordt goedgekeurd voor Nederland.  
+Het op 27 september 1996 te Dublin totstandgekomen Protocol, opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie, bij de Overeenkomst aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen, waarvan de Nederlandse tekst is geplaatst in Tractatenblad 1996, 330, wordt goedgekeurd voor Nederland. 
 
 ### Artikel  3  
 
-Het op 29 november 1996 te Brussel totstandgekomen Protocol, opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie, betreffende de prejudiciële uitlegging, door het Hof van Justitie van de Europese Gemeenschappen, van de Overeenkomst aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen, waarvan de Nederlandse tekst is geplaatst in Tractatenblad 1997, 40, wordt goedgekeurd voor Nederland.  
+Het op 29 november 1996 te Brussel totstandgekomen Protocol, opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie, betreffende de prejudiciële uitlegging, door het Hof van Justitie van de Europese Gemeenschappen, van de Overeenkomst aangaande de bescherming van de financiële belangen van de Europese Gemeenschappen, waarvan de Nederlandse tekst is geplaatst in Tractatenblad 1997, 40, wordt goedgekeurd voor Nederland. 
 
 ### Artikel  4  
 
-Het op 17 december 1997 te Parijs totstandgekomen Verdrag inzake de bestrijding van omkoping van buitenlandse ambtenaren bij internationale zakelijke transacties, waarvan de tekst is geplaatst in Tractatenblad 1998, 54, en de vertaling in het Nederlands in Tractatenblad 1998, 219, wordt goedgekeurd voor het gehele Koninkrijk.  
+Het op 17 december 1997 te Parijs totstandgekomen Verdrag inzake de bestrijding van omkoping van buitenlandse ambtenaren bij internationale zakelijke transacties, waarvan de tekst is geplaatst in Tractatenblad 1998, 54, en de vertaling in het Nederlands in Tractatenblad 1998, 219, wordt goedgekeurd voor het gehele Koninkrijk. 
 
 ### Artikel  5  
 
-Goedgekeurd wordt dat bij binding van het Koninkrijk aan het in artikel 2 genoemde verdrag voor Nederland het volgende voorbehoud wordt gemaakt: Met betrekking tot het eerste lid van artikel 6 kan door Nederland rechtsmacht worden uitgeoefend in de volgende gevallen: 
+Goedgekeurd wordt dat bij binding van het Koninkrijk aan het in artikel 2 genoemde verdrag voor Nederland het volgende voorbehoud wordt gemaakt: Met betrekking tot het eerste lid van artikel 6 kan door Nederland rechtsmacht worden uitgeoefend in de volgende gevallen:  
 
-onderdeel a: ter zake van het strafbare feit dat geheel of gedeeltelijk op Nederlands grondgebied wordt gepleegd;  
+onderdeel a:ter zake van het strafbare feit dat geheel of gedeeltelijk op Nederlands grondgebied wordt gepleegd;  
 
 onderdeel b: 
 
@@ -39,11 +39,11 @@ onderdeel b:
 
 onderdeel c: ten aanzien van Nederlanders voor zover op het strafbare feit door de wet van het land waar het begaan is, straf is gesteld;  
 
-onderdeel d: ten aanzien van personen in de openbare dienst van een in Nederland gevestigde instelling van de Europese Gemeenschappen of van een in Nederland gevestigde overeenkomstig de Verdragen tot oprichting van de Europese Gemeenschappen ingesteld orgaan voor zover op het strafbare feit door de wet van het land waar het begaan is, straf is gesteld.    
+onderdeel d: ten aanzien van personen in de openbare dienst van een in Nederland gevestigde instelling van de Europese Gemeenschappen of van een in Nederland gevestigde overeenkomstig de Verdragen tot oprichting van de Europese Gemeenschappen ingesteld orgaan voor zover op het strafbare feit door de wet van het land waar het begaan is, straf is gesteld.   
 
 ### Artikel  6  
 
-Indien een vraag die betrekking heeft op de uitlegging van de in de artikelen 1 en 2 genoemde verdragen aan de orde komt in een zaak aanhangig voor een tot de rechterlijke macht behorend gerecht dan wel een administratieve rechter waarvan de beslissingen niet vatbaar zijn voor hoger beroep, en deze instantie een beslissing noodzakelijk acht voor haar uitspraak, is deze instantie gehouden zich tot het Hof van Justitie van de Europese Gemeenschappen te wenden.  
+Indien een vraag die betrekking heeft op de uitlegging van de in de artikelen 1 en 2 genoemde verdragen aan de orde komt in een zaak aanhangig voor een tot de rechterlijke macht behorend gerecht dan wel een administratieve rechter waarvan de beslissingen niet vatbaar zijn voor hoger beroep, en deze instantie een beslissing noodzakelijk acht voor haar uitspraak, is deze instantie gehouden zich tot het Hof van Justitie van de Europese Gemeenschappen te wenden. 
 
 ### Artikel  7  
 

@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling saneringsprogramma industrielawaai
+##Regeling saneringsprogramma industrielawaai 
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;  
 Gelet op [artikel 5 van het Besluit saneringsmaatregelen industrieterreinen 1994](../../../../../AMvB/besluit/saneringsmaatregelen/industrieterreinen/1994/BWBR0007107/README.md);
-Besluit:    
+Besluit:   
 
 ### Artikel  1  
 
@@ -14,13 +14,13 @@ In deze regeling wordt verstaan onder minister: Minister van Volkshuisvesting, R
 
 Het saneringsprogramma, dat aan de minister wordt voorgelegd, gaat vergezeld van de in het overzicht, bedoeld onder a, genoemde stukken en van: 
 
-a. een overzicht, opgesteld overeenkomstig onderdeel A van bijlage I bij deze regeling;  
+a.  een overzicht, opgesteld overeenkomstig onderdeel A van bijlage I bij deze regeling; 
 
-b. een verantwoording omtrent de inhoud van het besluit tot vaststelling van het saneringsprogramma, opgesteld overeenkomstig onderdeel B van bijlage I bij deze regeling;  
+b.  een verantwoording omtrent de inhoud van het besluit tot vaststelling van het saneringsprogramma, opgesteld overeenkomstig onderdeel B van bijlage I bij deze regeling; 
 
-c. een verantwoording omtrent de inhoud van het saneringsprogramma, opgesteld overeenkomstig onderdeel C van bijlage I bij deze regeling;  
+c.  een verantwoording omtrent de inhoud van het saneringsprogramma, opgesteld overeenkomstig onderdeel C van bijlage I bij deze regeling; 
 
-d. een verantwoording omtrent de inrichting van de kaart of kaarten, opgesteld overeenkomstig onderdeel D van bijlage I bij deze regeling.    
+d.  een verantwoording omtrent de inrichting van de kaart of kaarten, opgesteld overeenkomstig onderdeel D van bijlage I bij deze regeling.   
 
 ### Artikel  3  
 
@@ -33,7 +33,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  5  
 
-Deze regeling wordt aangehaald als: Regeling saneringsprogramma industrielawaai.  
+Deze regeling wordt aangehaald als: Regeling saneringsprogramma industrielawaai. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd. Van deze terinzagelegging zal mededeling worden gedaan in de Staatscourant.   
 
 's-Gravenhage 
@@ -41,12 +41,12 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-M. deBoer   
+M. de Boer    
 
-### Bijlage  I  
+###Bijlage I 
 
-Niet opgenomen.  
+Niet opgenomen.
 
-### Bijlage  II  
+###Bijlage II 
 
-Niet opgenomen.  
+Niet opgenomen.

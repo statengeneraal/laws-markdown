@@ -12,11 +12,11 @@ Besluiten:
 
 ### Artikel  1  
 
-De gemeenten Breda, Groningen, Nijmegen en Rotterdam worden aangewezen als gemeenten waarvoor ingevolge de Organisatiebeschikking Casinospelen (Stcrt. 1975, 252) vergunning is verleend tot het organiseren van een speelcasino.  
+De gemeenten Breda, Groningen, Nijmegen en Rotterdam worden aangewezen als gemeenten waarvoor ingevolge de Organisatiebeschikking Casinospelen (Stcrt. 1975, 252) vergunning is verleend tot het organiseren van een speelcasino. 
 
 ### Artikel  2  
 
-Deze beschikking wordt in de staatscourant gepubliceerd en treedt in werking met ingang van de dag na die van haar bekendmaking  
+Deze beschikking wordt in de staatscourant gepubliceerd en treedt in werking met ingang van de dag na die van haar bekendmaking 
 
 's-Gravenhage 
 28 augustus 1985    
@@ -24,9 +24,9 @@ Deze beschikking wordt in de staatscourant gepubliceerd en treedt in werking met
 De 
 minister van Justitie, 
 
-F. Korthals Altes   
+F.Korthals Altes  
 
 De 
 staatssecretaris van Economische Zaken, 
 
-P. H. van Zeil      
+P. H. van Zeil     

@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### artikel 1  
 
-De in artikel 7, eerste lid, der Wet Overheidsaansprakelijkheid Bezettingshandelingen gestelde termijn van een jaar na de inwerkingtreding van die wet, welke termijn bij Ons besluit van 27 September 1952 (*Stb.* 485) tot drie jaar is verlengd, wordt nader verlengd tot vier jaar na de inwerkingtreding van die wet. Dit besluit treedt in werking op de tweede dag na de datum van uitgifte van het *Staatsblad*, waarin het is geplaatst.  
+De in [artikel 7, eerste lid, der Wet Overheidsaansprakelijkheid Bezettingshandelingen](../../../../../../../../../../../wet/wet/overheidsaansprakelijkheid/bezettingshandelingen/BWBR0002065/README.md) gestelde termijn van een jaar na de inwerkingtreding van die wet, welke termijn bij Ons besluit van 27 September 1952 (*Stb.* 485) tot drie jaar is verlengd, wordt nader verlengd tot vier jaar na de inwerkingtreding van die wet. Dit besluit treedt in werking op de tweede dag na de datum van uitgifte van het *Staatsblad*, waarin het is geplaatst. 
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit, hetwelk in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.   
 

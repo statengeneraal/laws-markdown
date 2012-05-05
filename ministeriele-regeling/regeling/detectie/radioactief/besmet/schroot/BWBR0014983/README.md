@@ -1,14 +1,14 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, M. Rutte van 16 april 2003, nr. MJZ2003014180, houdende regels inzake de wijze van detecteren en registreren met betrekking tot aanwezigheid van ioniserende straling in schroot en de daartoe nodige vaardigheden en bekwaamheden (Regeling detectie radioactief besmet schroot)
+##Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, M. Rutte van 16 april 2003, nr. MJZ2003014180, houdende regels inzake de wijze van detecteren en registreren met betrekking tot aanwezigheid van ioniserende straling in schroot en de daartoe nodige vaardigheden en bekwaamheden (Regeling detectie radioactief besmet schroot) 
 
-De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de Staatssecretaris van Sociale Zaken en Werkgelegenheid, M. Rutte,  
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de Staatssecretaris van Sociale Zaken en Werkgelegenheid, M. Rutte,
 Gelet op de [artikelen 4](../../../../../../../AMvB/besluit/detectie/radioactief/besmet/schroot/BWBR0014106/README.md), [5](../../../../../../../AMvB/besluit/detectie/radioactief/besmet/schroot/BWBR0014106/README.md) en [6 van het Besluit detectie radioactief besmet schroot](../../../../../../../AMvB/besluit/detectie/radioactief/besmet/schroot/BWBR0014106/README.md);
 Besluiten:    
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   besluit:  [Besluit detectie radioactief besmet schroot](../../../../../../../AMvB/besluit/detectie/radioactief/besmet/schroot/BWBR0014106/README.md);    bijlage:  bij deze regeling behorende bijlage;    detectielimiet:  hetgeen daaronder wordt verstaan in ISO-11929;    integratietijd:  de periode waarover het aantal pulsen wordt gesommeerd en waaruit de telsnelheid wordt berekend;    Minister:  Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;    omgevingsdosisequivalenttempo:  hetgeen daaronder wordt verstaan in het [Besluit stralingsbescherming](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md);    telsnelheid:  het totaal aantal pulsen per tijdseenheid, verzameld door een detector;    verhoogd stralingsniveau:  niveau van omgevingsdosisequivalenttempo dat gelijk is aan of hoger is dan 10 nSv.h-1 boven het omgevingsdosisequivalenttempo van het achtergrondniveau.     
+In deze regeling wordt verstaan onder:    besluit:   [Besluit detectie radioactief besmet schroot](../../../../../../../AMvB/besluit/detectie/radioactief/besmet/schroot/BWBR0014106/README.md);     bijlage:   bij deze regeling behorende bijlage;    detectielimiet:   hetgeen daaronder wordt verstaan in ISO-11929;     integratietijd:   de periode waarover het aantal pulsen wordt gesommeerd en waaruit de telsnelheid wordt berekend;    Minister:  Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;   omgevingsdosisequivalenttempo:   hetgeen daaronder wordt verstaan in het [Besluit stralingsbescherming](../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md);     telsnelheid:   het totaal aantal pulsen per tijdseenheid, verzameld door een detector;    verhoogd stralingsniveau:  niveau van omgevingsdosisequivalenttempo dat gelijk is aan of hoger is dan 10 nSv.h-1 boven het omgevingsdosisequivalenttempo van het achtergrondniveau.    
 
 ### Artikel  2  
 
@@ -22,26 +22,26 @@ Registratie van de resultaten van de metingen voldoet aan de in deel II van de b
 ### Artikel  4  
 
 1.  Een persoon als bedoeld in [artikel 6, eerste lid, van het besluit](../../../../../../../AMvB/besluit/detectie/radioactief/besmet/schroot/BWBR0014106/README.md), beschikt over de in deel III van de bijlage voorgeschreven vaardigheden en bekwaamheden.   
-2.  Hij toont aan over die vaardigheden en bekwaamheden te beschikken door het overleggen van een verklaring van een instantie als aangegeven in deel III van de bijlage, dat hij een van de in dat deel van de bijlage aangewezen door die instantie verzorgde opleidingen heeft gevolgd.   
+2.   Hij toont aan over die vaardigheden en bekwaamheden te beschikken door het overleggen van een verklaring van een instantie als aangegeven in deel III van de bijlage, dat hij een van de in dat deel van de bijlage aangewezen door die instantie verzorgde opleidingen heeft gevolgd.  
 
 ### Artikel  5  
 
 1.  De Minister kan ontheffing verlenen van de in deel I en deel II van de bijlage gestelde voorschriften, voor zover het belang van de bescherming tegen ioniserende straling zich daartegen niet verzet.   
-2.  Aan de ontheffing kunnen voorschriften worden verbonden met betrekking tot de te gebruiken meetapparatuur, de wijze van meten, de omstandigheden waaronder de metingen worden verricht, en de registratie van de meetgegevens.   
-3.  De Minister kan de ontheffing intrekken, indien het belang van de bescherming tegen ioniserende straling dat noodzakelijk maakt.   
+2.  Aan de ontheffing kunnen voorschriften worden verbonden met betrekking tot de te gebruiken meetapparatuur, de wijze van meten, de omstandigheden waaronder de metingen worden verricht, en de registratie van de meetgegevens.    
+3.  De Minister kan de ontheffing intrekken, indien het belang van de bescherming tegen ioniserende straling dat noodzakelijk maakt. 
 
 ### Artikel  6  
 
 1.  De aanvraag om een ontheffing krachtens artikel 5 wordt ingediend bij de Minister.   
 2.  De aanvraag bevat een beschrijving van de door degene die de inrichting drijft, voorgenomen afwijkingen van hetgeen in de bijlage is voorgeschreven omtrent de: 
 
-1° te gebruiken meetapparatuur,  
+1° te gebruiken meetapparatuur, 
 
-2° wijze van meten,  
+2° wijze van meten, 
 
-3° omstandigheden waaronder de metingen worden verricht,  
+3° omstandigheden waaronder de metingen worden verricht, 
 
-4° registratie van de meetgegevens.     
+4° registratie van de meetgegevens.   
 
 ### Artikel  7  
 
@@ -49,7 +49,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  8  
 
-Deze regeling wordt aangehaald als: [Regeling detectie radioactief besmet schroot](../../../../../../../ministeriele-regeling/regeling/detectie/radioactief/besmet/schroot/BWBR0014983/README.md).  
+Deze regeling wordt aangehaald als: [Regeling detectie radioactief besmet schroot](../../../../../../../ministeriele-regeling/regeling/detectie/radioactief/besmet/schroot/BWBR0014983/README.md). 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
@@ -57,13 +57,13 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-P.L.B.A. vanGeel 
+P.L.B.A. van Geel   
 
 De 
-Staatssecretaris van Sociale Zaken en werkgelegenheid, 
-M.Rutte   
+Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
+M.Rutte  
 
-### Bijlage  
+### Bijlage 
 
 ####bij de Regeling detectie radioactief besmet schroot
 
@@ -79,7 +79,7 @@ M.Rutte
 
 a. met een kraandetector of  
 
-b. met een poortdetector, nadat de lading schroot is overgeladen in een of meer containers.      
+b. met een poortdetector, nadat de lading schroot is overgeladen in een of meer containers.     
 
 ####Voorschriften met betrekking tot detectoren
 
@@ -91,7 +91,7 @@ Met betrekking tot een detector geldende voorschriften:
 
 3. de horizontale afstand tussen de detectors van een poortdetector bedraagt niet meer dan 6 meter;  
 
-4. de detectielimiet van iedere afzonderlijke detector wordt bepaald met toepassing van formule: detectielimiet = 3,39 x √ achtergrondteltempo (s <sup>–1</sup>)  
+4. de detectielimiet van iedere afzonderlijke detector wordt bepaald met toepassing van formule: detectielimiet = 3,39 x √ achtergrondteltempo (s<sup>–1</sup>)  
 
 5. het alarmniveau van een detector wordt ten hoogste 10 nSv.h–1 ingesteld boven de detectielimiet;  
 
@@ -101,7 +101,7 @@ Met betrekking tot een detector geldende voorschriften:
 
 8. indien een afwijking wordt geconstateerd bij de in het voorschrift 7 bedoelde testmeting, zorgt degene die de inrichting drijft, ervoor dat deze zo spoedig mogelijk ongedaan wordt gemaakt;  
 
-9. van de bepaling van de detectielimieten en van de testmetingen worden rapportages opgesteld.    
+9. van de bepaling van de detectielimieten en van de testmetingen worden rapportages opgesteld.   
 
 ####Meten van een lading schroot
 
@@ -113,7 +113,7 @@ Meten met een poortdetector geschiedt op de volgende wijze:
 
 1. het stralingsniveau wordt gemeten door iedere greep schroot van een kraan te bemeten, waarbij geen delen schroot zodanig ver uit de grijper mogen steken of hangen dat het stralingsniveau daarvan niet meer gemeten wordt;  
 
-2. de integratietijd tijdens het meten bedraagt niet meer dan 1 seconde.    
+2. de integratietijd tijdens het meten bedraagt niet meer dan 1 seconde.   
 
 ### Deel  II  
 
@@ -127,17 +127,17 @@ Meten met een poortdetector geschiedt op de volgende wijze:
 
 3. Bij het meten van schroot met een kraandetector wordt het meten van één greep schroot met een kraan beschouwd als één meting.  
 
-4. De registratie is zo ingericht dat de met betrekking tot een meting geregistreerde gegevens in samenhang kunnen worden bezien.    
+4. De registratie is zo ingericht dat de met betrekking tot een meting geregistreerde gegevens in samenhang kunnen worden bezien.   
 
 ####Periode voor het bewaren van de gegevens
 
-De in het register opgenomen gegevens worden gedurende ten minste vijf jaren bewaard.  
+De in het register opgenomen gegevens worden gedurende ten minste vijf jaren bewaard. 
 
 ####Rapportages uit deel I
 
-De rapportages, bedoeld in deel I van deze bijlage, worden in het register opgenomen.  
+De rapportages, bedoeld in deel I van deze bijlage, worden in het register opgenomen. 
 
-### Deel  III  
+### Deel III  
 
 ####Vaardigheden en bekwaamheden
 
@@ -171,7 +171,7 @@ b. de bepaling van de soort ioniserende straling;
 
 c. de bepaling van de halveringsdikte;  
 
-d. het opsporen en detecteren van een gammastralingsbron, onder andere in een opslag- of transportcontainer.      
+d. het opsporen en detecteren van een gammastralingsbron, onder andere in een opslag- of transportcontainer.     
 
 ####Opleidingen
 
@@ -179,5 +179,5 @@ Als opleidingen als bedoeld in artikel 4, tweede lid, worden aangewezen:
 
 a. ‘Praktijkstudiedag Ioniserende Straling voor de Metaal & Schroothandel’, ontwikkeld door de Röntgen Technische Dienst BV (RTD) in samenwerking met SBC/Elsevier opleiding en advies;  
 
-b. ‘Omgaan met radioactiviteit met betrekking tot Metaal- en Schroothandelaren’, ontwikkeld door de Nuclear Research and consultancy Group v.o.f. (NRG).   Met een opleiding als bedoeld in artikel 4, tweede lid, wordt gelijkgesteld een opleiding, gegeven in een andere lidstaat van de Europese Unie, dan wel een staat niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die een opleidingsniveau waarborgt dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.  
+b. ‘Omgaan met radioactiviteit met betrekking tot Metaal- en Schroothandelaren’, ontwikkeld door de Nuclear Research and consultancy Group v.o.f. (NRG).   Met een opleiding als bedoeld in artikel 4, tweede lid, wordt gelijkgesteld een opleiding, gegeven in een andere lidstaat van de Europese Unie, dan wel een staat niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die een opleidingsniveau waarborgt dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd. 
 

@@ -4,7 +4,7 @@
 
 De Staatssecretaris van Economische Zaken;  
 Gelet op [artikel 1 van het Vacatiegeldenbesluit 1988](../../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md),
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -16,7 +16,7 @@ Deze regeling wordt aangehaald als: Vergoedingenregeling Adviescommissie project
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
@@ -24,4 +24,4 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 De 
 Staatssecretaris van Economische Zaken, 
-G.Ybema    
+G. Ybema      

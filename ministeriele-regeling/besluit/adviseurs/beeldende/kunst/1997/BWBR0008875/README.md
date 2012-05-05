@@ -2,14 +2,14 @@
 
 ##Besluit adviseurs beeldende kunst 1997
 
-De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  Besluit:     
-### Hoofdstuk  1  
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  Besluit:      
+### Hoofdstuk 1 
 
 ####Adviseurs Beeldende Kunst
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder:   1.  *De Rijksbouwmeester:*   Degene die leiding geeft aan het Bureau Rijksbouwmeester    2.  *Adviseur:*   Degene die de Rijksbouwmeester adviseert op het vlak van de toepassing van beeldende kunst, voorzover die toepassing plaatsvindt in het kader van de taak van de Rijksgebouwendienst.     
+In dit besluit wordt verstaan onder: 1.*De Rijksbouwmeester:* Degene die leiding geeft aan het Bureau Rijksbouwmeester2.*Adviseur:* Degene die de Rijksbouwmeester adviseert op het vlak van de toepassing van beeldende kunst, voorzover die toepassing plaatsvindt in het kader van de taak van de Rijksgebouwendienst.  
 
 ### Artikel  2  
 
@@ -23,33 +23,33 @@ In dit besluit wordt verstaan onder:   1.  *De Rijksbouwmeester:*   Degene die l
 
 De Adviseurs adviseren over: 
 
-a. aard en omvang van de opdrachten die aan beeldende kunstenaars kunnen worden verleend;  
+a.  aard en omvang van de opdrachten die aan beeldende kunstenaars kunnen worden verleend; 
 
-b. de keuze van de beeldende kunstenaar(s) aan wie een opdracht kan worden verleend en de wijze waarop de keuze moet worden bepaald;  
+b.  de keuze van de beeldende kunstenaar(s) aan wie een opdracht kan worden verleend en de wijze waarop de keuze moet worden bepaald; 
 
-c. de kwaliteit van de door beeldende kunstenaars ingediende ontwerpen en voorstellen, alsmede de daarop betrekking hebbende kostenramingen en begrotingen en over de kwaliteit van het eindresultaat;  
+c.  de kwaliteit van de door beeldende kunstenaars ingediende ontwerpen en voorstellen, alsmede de daarop betrekking hebbende kostenramingen en begrotingen en over de kwaliteit van het eindresultaat; 
 
-d. het verwerven van bestaande werken van beeldende kunst.    
+d.  het verwerven van bestaande werken van beeldende kunst.   
 
 ### Artikel  4  
 
 De Adviseurs hebben daarnaast tot taak: 
 
-a. het bijhouden en verder uitbouwen van een systeem van signalering en registratie van de toepassingen van beeldende kunst waartoe zal kunnen worden overgegaan;  
+a.  het bijhouden en verder uitbouwen van een systeem van signalering en registratie van de toepassingen van beeldende kunst waartoe zal kunnen worden overgegaan; 
 
-b. het begeleiden van het totstandkomingsproces van de werken van beeldende kunst vanaf de fase waarin het ontwerp wordt vervaardigd, waarbij de Adviseurs binnen genoemd proces in het bijzonder aandacht besteden aan het totstandkomen van samenwerking tussen alle bij het bouwwerk, waarvoor het werk van beeldende kunst bestemd is, betrokken partijen;  
+b.  het begeleiden van het totstandkomingsproces van de werken van beeldende kunst vanaf de fase waarin het ontwerp wordt vervaardigd, waarbij de Adviseurs binnen genoemd proces in het bijzonder aandacht besteden aan het totstandkomen van samenwerking tussen alle bij het bouwwerk, waarvoor het werk van beeldende kunst bestemd is, betrokken partijen; 
 
-c. het aanleggen en bijhouden van een documentatie in beeld en geschrift over de resultaten van de verleende opdrachten;  
+c.  het aanleggen en bijhouden van een documentatie in beeld en geschrift over de resultaten van de verleende opdrachten; 
 
-d. het leveren van redactionele bijdragen aan een mede door toedoen van de Rijksgebouwendienst uitgegeven openbaar bulletin, dat informatie bevat over de toepassingen van beeldende kunst in het kader van de taak van de Rijksgebouwendienst, waaronder begrepen nog te realiseren toepassingen;  
+d.  het leveren van redactionele bijdragen aan een mede door toedoen van de Rijksgebouwendienst uitgegeven openbaar bulletin, dat informatie bevat over de toepassingen van beeldende kunst in het kader van de taak van de Rijksgebouwendienst, waaronder begrepen nog te realiseren toepassingen; 
 
-e. het op verzoek van de Rijksbouwmeester deelnemen aan besprekingen waarin diens beleid aan de orde is;  
+e.  het op verzoek van de Rijksbouwmeester deelnemen aan besprekingen waarin diens beleid aan de orde is; 
 
-f. het op verzoek van de Rijksbouwmeester leveren van schriftelijke bijdragen ten behoeve van het jaarverslag van de Rijksgebouwendienst;  
+f.  het op verzoek van de Rijksbouwmeester leveren van schriftelijke bijdragen ten behoeve van het jaarverslag van de Rijksgebouwendienst; 
 
-g. het doen van aanbevelingen die kunnen leiden tot een beter samengaan van het totstandkomen van bouwwerken en de toepassing van beeldende kunst;  
+g.  het doen van aanbevelingen die kunnen leiden tot een beter samengaan van het totstandkomen van bouwwerken en de toepassing van beeldende kunst; 
 
-h. het van commentaar voorzien van nieuwe ontwikkelingen in de beeldende kunst en de toepassingsmogelijkheden daarvan, voorzover die ontwikkelingen in het kader van de taak van de Rijksgebouwendienst van belang kunnen zijn.    
+h.  het van commentaar voorzien van nieuwe ontwikkelingen in de beeldende kunst en de toepassingsmogelijkheden daarvan, voorzover die ontwikkelingen in het kader van de taak van de Rijksgebouwendienst van belang kunnen zijn.   
 
 ### Artikel  5  
 
@@ -64,7 +64,7 @@ De Adviseurs stellen gezamenlijk en in onderling overleg een jaarverslag over hu
 
 De administratieve ondersteuning van de Adviseurs wordt verzorgd door het Bureau Rijksbouwmeester.  
 
-### Hoofdstuk  2  
+### Hoofdstuk 2 
 
 ####Slotbepalingen
 
@@ -72,7 +72,7 @@ De administratieve ondersteuning van de Adviseurs wordt verzorgd door het Bureau
 
 1.  Het besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 8 december 1983, nr. 17.10.90534, wordt ingetrokken.   
 2.  Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.   
-3.  Dit besluit wordt aangehaald als ’Besluit Adviseurs Beeldende Kunst 1997’.   
+3.  Dit besluit wordt aangehaald als ’Besluit Adviseurs Beeldende Kunst 1997’.  
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -80,4 +80,4 @@ Dit besluit zal in de Staatscourant worden geplaatst.
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-M. deBoer    
+M. de Boer      

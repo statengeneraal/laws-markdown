@@ -11,45 +11,45 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt het Wetboek van Strafvordering.   
+Wijzigt het Wetboek van Strafvordering.  
 
 ### Artikel  II  
 
-Wijzigt de Wet op de rechterlijke organisatie.   
+Wijzigt de Wet op de rechterlijke organisatie.  
 
 ### Artikel  III  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten.  
 
 ### Artikel  IV  
 
-Wijzigt de Uitleveringswet.   
+Wijzigt de Uitleveringswet.  
 
 ### Artikel  V  
 
-Wijzigt de Wet Oorlogsstrafrecht.   
+Wijzigt de Wet Oorlogsstrafrecht.  
 
 ### Artikel  VI  
 
-Wijzigt de Wet overdracht tenuitvoerlegging strafvonnissen.   
+Wijzigt de Wet overdracht tenuitvoerlegging strafvonnissen.  
 
 ### Artikel  VII  
 
-Artikel I, onderdeel A, artikel II en artikel III, onderdeel A, zijn niet van toepassing op zaken waarin op het moment van inwerkingtreding van deze wet het betrokken vonnis of arrest reeds is gewezen. Op deze zaken worden de voor het moment van inwerkingtreding geldende bepalingen toegepast.  
+Artikel I, onderdeel A, artikel II en artikel III, onderdeel A, zijn niet van toepassing op zaken waarin op het moment van inwerkingtreding van deze wet het betrokken vonnis of arrest reeds is gewezen. Op deze zaken worden de voor het moment van inwerkingtreding geldende bepalingen toegepast. 
 
 ### Artikel  VIII  
 
-Artikel I, onderdeel B, C, D, E, onderdeel 1, F en G, artikel III, onderdeel B, artikel IV en artikel VI zijn niet van toepassing op zaken waarin op het moment van inwerkingtreding van deze wet door de verdachte of andere belanghebbende reeds beroep in cassatie is ingesteld. Op deze zaken worden de voor het moment van inwerkingtreding geldende bepalingen toegepast.  
+Artikel I, onderdeel B, C, D, E, onderdeel 1, F en G, artikel III, onderdeel B, artikel IV en artikel VI zijn niet van toepassing op zaken waarin op het moment van inwerkingtreding van deze wet door de verdachte of andere belanghebbende reeds beroep in cassatie is ingesteld. Op deze zaken worden de voor het moment van inwerkingtreding geldende bepalingen toegepast. 
 
 ### Artikel  IX  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
 Gegeven te 's-Gravenhage 
 28 oktober 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Justitie, 
 A. H. Korthals   

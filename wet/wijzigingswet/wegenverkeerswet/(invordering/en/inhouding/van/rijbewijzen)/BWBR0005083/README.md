@@ -11,19 +11,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Ten aanzien van rijbewijzen of internationale rijbewijzen die vóór het tijdstip waarop deze wet in werking treedt, zijn ingevorderd, blijven de vóór dat tijdstip geldende bepalingen van de Wegenverkeerswet van toepassing.  
+Ten aanzien van rijbewijzen of internationale rijbewijzen die vóór het tijdstip waarop deze wet in werking treedt, zijn ingevorderd, blijven de vóór dat tijdstip geldende bepalingen van de Wegenverkeerswet van toepassing. 
 
 ### Artikel  III  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  IV  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
