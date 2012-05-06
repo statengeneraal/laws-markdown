@@ -18,7 +18,7 @@ c. inzet van een technisch hulpmiddel: het tactisch operationeel toepassen en te
 
 d. certificaat van vakbekwaamheid: een verklaring omtrent het beschikken over bepaalde competentiegerichte eindtermen zoals bedoeld in [artikel 1 onder i van de Wet op het LSOP en het politieonderwijs](../../../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md), afgegeven door het Landelijk selectie- en opleidingsinstituut politie zoals genoemd in [artikel 2 van die wet](../../../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md);  
 
-e. competentiegerichte eindtermen: als zodanig omschreven kwaliteiten op het gebied van kennis, inzicht, vaardigheden, houding en ervaring waarover degene die de opleiding voltooit, met het oog op het maatschappelijk en beroepsmatig functioneren dient te beschikken, en die in voorkomende gevallen betekenis hebben voor de doorstroming naar vervolgonderwijs;    
+e. competentiegerichte eindtermen: als zodanig omschreven kwaliteiten op het gebied van kennis, inzicht, vaardigheden, houding en ervaring waarover degene die de opleiding voltooit, met het oog op het maatschappelijk en beroepsmatig functioneren dient te beschikken, en die in voorkomende gevallen betekenis hebben voor de doorstroming naar vervolgonderwijs;   
 
 ### Artikel  2  
 
@@ -38,7 +38,7 @@ b. de tactiek, techniek en hulpmiddelen met betrekking tot de inzet van een tech
 
 c. gevaarsbeheersing;  
 
-d. het relevant juridisch kader en het proces-verbaal.     
+d. het relevant juridisch kader en het proces-verbaal.    
 
 ### Artikel  3  
 
@@ -54,21 +54,21 @@ a. tactiek, techniek en hulpmiddelen met betrekking tot het plaatsen of de inzet
 
 b. gevaarsbeheersing, voor zover nodig voor het veilig plaatsen of inzetten van het betreffende technisch hulpmiddel;  
 
-c. het relevant juridisch kader en het proces-verbaal.     
+c. het relevant juridisch kader en het proces-verbaal.    
 
 ### Artikel  4  
 
-De Regeling opnemen vertrouwelijke communicatie KLPD wordt ingetrokken.  
+De Regeling opnemen vertrouwelijke communicatie KLPD wordt ingetrokken. 
 
 ### Artikel  5  
 
-Deze regeling treedt in werking op 1 januari 2007.  
+Deze regeling treedt in werking op 1 januari 2007. 
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als: Regeling vakbekwaamheid technische hulpmiddelen strafvordering.  
+Deze regeling wordt aangehaald als: Regeling vakbekwaamheid technische hulpmiddelen strafvordering. 
 Deze regeling zal in de Staatscourant worden geplaatst. Van de plaatsing wordt mededeling gedaan in het Algemeen Politieblad.  
 
 De 
 Minister van Justitie, 
-E.M.H.Hirsch Ballin   
+E.M.H. Hirsch Ballin     

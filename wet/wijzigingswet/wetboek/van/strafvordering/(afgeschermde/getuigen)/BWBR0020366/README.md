@@ -11,27 +11,27 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt het Wetboek van Strafvordering.   
+Wijzigt het Wetboek van Strafvordering. 
 
 ### Artikel  II  
 
-De wijziging, bedoeld in artikel I, onderdeel J, van deze wet, is niet van toepassing in strafzaken waarin het onderzoek op de terechtzitting gesloten is op het tijdstip waarop deze wet in werking treedt.  
+De wijziging, bedoeld in artikel I, onderdeel J, van deze wet, is niet van toepassing in strafzaken waarin het onderzoek op de terechtzitting gesloten is op het tijdstip waarop deze wet in werking treedt. 
 
 ### Artikel  III  
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  IV  
 
-Wijzigt de Wijzigingswet Wetboek van Strafrecht en Wetboek van Strafvordering (Wet toezeggingen aan getuigen in strafzaken).   
+Wijzigt de Wijzigingswet Wetboek van Strafrecht en Wetboek van Strafvordering (Wet toezeggingen aan getuigen in strafzaken). 
 
 ### Artikel  IVa  
 
-Onze Minister van Justitie zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Minister van Justitie zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### Artikel  V  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -39,10 +39,10 @@ Gegeven te ’s-Gravenhage
 28 september 2006  
 Beatrix  
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin   
 
 de *vierentwintigste* oktober 2006 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin    

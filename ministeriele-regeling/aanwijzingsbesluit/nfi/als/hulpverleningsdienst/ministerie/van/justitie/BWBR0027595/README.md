@@ -8,15 +8,15 @@ Besluit:
 
 ### Artikel  1  
 
-Als hulpverleningsdienst als bedoeld in [artikel 29, eerste lid van het Reglement verkeersregels en verkeerstekens 1990](../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) wordt aangewezen: het Nederlands Forensisch Instituut.  
+Als hulpverleningsdienst als bedoeld in [artikel 29, eerste lid van het Reglement verkeersregels en verkeerstekens 1990](../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) wordt aangewezen: het Nederlands Forensisch Instituut. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot 1 maart 2009.  
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot 1 maart 2009. 
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Aanwijzingsbesluit NFI als hulpverleningsdienst Ministerie van Justitie.  
+Dit besluit wordt aangehaald als: Aanwijzingsbesluit NFI als hulpverleningsdienst Ministerie van Justitie. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -24,4 +24,4 @@ Den Haag
 
 De 
 Minister van Justitie, 
-E.M.H.Hirsch Ballin   
+E.M.H. Hirsch Ballin     

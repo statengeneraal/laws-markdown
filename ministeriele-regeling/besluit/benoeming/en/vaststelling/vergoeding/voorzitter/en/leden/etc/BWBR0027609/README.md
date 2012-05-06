@@ -23,15 +23,15 @@ c. de heer dr. ir. F.J. Olieman te Maarssen.
 2. 
 a. Aan de voorzitter van de Adviescommissie Bioraffinage wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 18 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en de arbeidsduurfactor op 0,068.  
 
-b. Aan de andere leden van de Adviescommissie Bioraffinage wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 16 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en de arbeidsduurfactor op 0,068.     
+b. Aan de andere leden van de Adviescommissie Bioraffinage wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op het maximum van schaal 16 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en de arbeidsduurfactor op 0,068.    
 
 ### Artikel  2  
 
-Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen en aan de Adviescommissie Bioraffinage.  
+Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen en aan de Adviescommissie Bioraffinage. 
 
 ’s-Gravenhage 
 27 april 2010   
 
 De 
 Minister van Landbouw, Natuur en Voedselkwaliteit, 
-G.Verburg   
+G. Verburg     

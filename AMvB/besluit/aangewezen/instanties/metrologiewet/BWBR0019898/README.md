@@ -22,7 +22,7 @@ In dit besluit wordt verstaan onder:
 
 a. wet: [Metrologiewet](../../../../../../wet/metrologiewet/BWBR0019517/README.md);  
 
-b. instantie: instantie als bedoeld in [artikel 10 van de wet](../../../../../../wet/metrologiewet/BWBR0019517/README.md).    
+b. instantie: instantie als bedoeld in [artikel 10 van de wet](../../../../../../wet/metrologiewet/BWBR0019517/README.md).   
 
 ### §  2  
 
@@ -30,7 +30,7 @@ b. instantie: instantie als bedoeld in [artikel 10 van de wet](../../../../../..
 
 ### Artikel  2  
 
-De instantie heeft haar zetel in Nederland.  
+De instantie heeft haar zetel in Nederland. 
 
 ### Artikel  3  
 
@@ -39,12 +39,12 @@ De instantie heeft haar zetel in Nederland.
 3.  De instantie, haar directeur of bestuur en het bij de overeenstemmingsbeoordeling betrokken personeel van de instantie zijn niet rechtstreeks betrokken bij het ontwerp, de fabricage, het in de handel brengen of het onderhoud van de meetinstrumenten en vertegenwoordigen evenmin de bij deze activiteiten betrokken partijen.   
 4.  De instantie, haar directeur of bestuur en het bij de overeenstemmingsbeoordeling betrokken personeel van de instantie zijn vrij van invloeden van buitenaf, met name van financiële aard, die van effect zouden kunnen zijn op de beoordeling of het resultaat van de overeenstemmingsbeoordeling, met name van personen of groepen die belang hebben bij het resultaat van de beoordeling.   
 5.  De beloning van de directeur of bestuur en het personeel van de instantie mag niet afhangen van het aantal uitgevoerde taken of van de resultaten daarvan.   
-6.  De beloning van de instantie mag niet afhangen van de resultaten van de uitgevoerde taken.   
+6.  De beloning van de instantie mag niet afhangen van de resultaten van de uitgevoerde taken.  
 
 ### Artikel  4  
 
 1.  De instantie is in staat de taken te vervullen in het kader van de procedure van overeenstemmingsbeoordeling waarvoor zij wenst te worden aangewezen, ongeacht of deze taken door de instantie zelf dan wel namens haar enonder haar verantwoordelijkheid worden verricht.   
-2.  De instantie heeft toegang tot alle benodigde faciliteiten om de technische en administratieve taken aangaande de overeenstemmingsbeoordeling naar behoren te kunnen uitvoeren.   
+2.  De instantie heeft toegang tot alle benodigde faciliteiten om de technische en administratieve taken aangaande de overeenstemmingsbeoordeling naar behoren te kunnen uitvoeren.  
 
 ### Artikel  5  
 
@@ -54,15 +54,15 @@ a. heeft een voor de uitvoering van haar taak geschikte technische opleiding en 
 
 b. heeft de benodigde kennis aangaande de voorschriften inzake de taken die zij uitvoert en heeft de benodigde ervaring met dergelijke taken en  
 
-c. heeft de vereiste bekwaamheid om certificaten, dossiers en rapporten op te stellen om aan te tonen dat de taken werden uitgevoerd.    
+c. heeft de vereiste bekwaamheid om certificaten, dossiers en rapporten op te stellen om aan te tonen dat de taken werden uitgevoerd.   
 
 ### Artikel  6  
 
-De instantie beschikt over een passende verzekering tegen wettelijke aansprakelijkheid.  
+De instantie beschikt over een passende verzekering tegen wettelijke aansprakelijkheid. 
 
 ### Artikel  7  
 
-Instanties die voldoen aan de criteria van normen die de toepasselijke geharmoniseerde normen omzetten, waarvan de referenties door Onze Minister in de Staatscourant zijn bekendgemaakt, worden geacht te voldoen aan de overeenkomstige criteria uit dit besluit.  
+Instanties die voldoen aan de criteria van normen die de toepasselijke geharmoniseerde normen omzetten, waarvan de referenties door Onze Minister in de Staatscourant zijn bekendgemaakt, worden geacht te voldoen aan de overeenkomstige criteria uit dit besluit. 
 
 ### §  3  
 
@@ -72,7 +72,7 @@ Instanties die voldoen aan de criteria van normen die de toepasselijke geharmoni
 
 1.  Voordat de instantie bepaalde taken door een derde partij laat uitvoeren, gaat zij na of deze derde partij aan de eisen uit dit besluit voldoet.   
 2.  De instantie houdt alle relevante documenten over de beoordeling van de in het eerste lid bedoelde eisen aan deze derde partij en de door de derde partij uitgevoerde werkzaamheden ter beschikking van Onze Minister.   
-3.  De instantie houdt verantwoordelijkheid voor alle activiteiten waarop de aanwijzing betrekking heeft.   
+3.  De instantie houdt verantwoordelijkheid voor alle activiteiten waarop de aanwijzing betrekking heeft.  
 
 ### §  4  
 
@@ -80,11 +80,11 @@ Instanties die voldoen aan de criteria van normen die de toepasselijke geharmoni
 
 ### Artikel  9  
 
-Dit besluit treedt in werking op het tijdstip waarop [artikel 10 van de wet](../../../../../../wet/metrologiewet/BWBR0019517/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop [artikel 10 van de wet](../../../../../../wet/metrologiewet/BWBR0019517/README.md) in werking treedt. 
 
 ### Artikel  10  
 
-Dit besluit wordt aangehaald als: Besluit aangewezen instanties Metrologiewet.  
+Dit besluit wordt aangehaald als: Besluit aangewezen instanties Metrologiewet. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -92,10 +92,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 22 mei 2006  
 Beatrix  
 
-De Minister van Economische Zaken, 
-L. J.Brinkhorst 
+De Minister van Economische Zaken , 
+L. J. Brinkhorst   
 
 de *twintigste* juni 2006 
 
-De Minister van Justitie, 
-J. P. H.Donner  
+De Minister van Justitie , 
+J. P. H. Donner    

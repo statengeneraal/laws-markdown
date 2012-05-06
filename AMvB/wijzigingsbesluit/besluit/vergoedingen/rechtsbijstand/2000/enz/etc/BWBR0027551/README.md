@@ -15,19 +15,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit vergoedingen rechtsbijstand 2000.   
+Wijzigt het Besluit vergoedingen rechtsbijstand 2000. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit rechtsbijstand- en toevoegcriteria.   
+Wijzigt het Besluit rechtsbijstand- en toevoegcriteria. 
 
 ### Artikel  III  
 
-Het [Besluit vergoedingen rechtsbijstand 2000](../../../../../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md) en het [Besluit rechtsbijstand- en toevoegcriteria](../../../../../../../../../AMvB/besluit/rechtsbijstand-/en/toevoegcriteria/BWBR0006404/README.md) zoals deze luidden vóór de inwerkingtreding van dit besluit, blijven van toepassing op aanvragen om een toevoeging die door de raad voor rechtsbijstand zijn ontvangen vóór de inwerkingtreding van dit besluit.  
+Het [Besluit vergoedingen rechtsbijstand 2000](../../../../../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md) en het [Besluit rechtsbijstand- en toevoegcriteria](../../../../../../../../../AMvB/besluit/rechtsbijstand-/en/toevoegcriteria/BWBR0006404/README.md) zoals deze luidden vóór de inwerkingtreding van dit besluit, blijven van toepassing op aanvragen om een toevoeging die door de raad voor rechtsbijstand zijn ontvangen vóór de inwerkingtreding van dit besluit. 
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

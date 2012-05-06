@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Bouwbesluit 2003.   
+Wijzigt het Bouwbesluit 2003. 
 
 ### Artikel  II  
 
-Voor wegtunnels die zijn opengesteld voor het tijdstip van inwerkingtreding van dit besluit blijven de [artikelen 2.218](../../../../../../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) en [2.219 van het Bouwbesluit 2003](../../../../../../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) en de daarop rustende bepalingen tot 1 mei 2014 buiten beschouwing.  
+Voor wegtunnels die zijn opengesteld voor het tijdstip van inwerkingtreding van dit besluit blijven de [artikelen 2.218](../../../../../../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) en [2.219 van het Bouwbesluit 2003](../../../../../../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md) en de daarop rustende bepalingen tot 1 mei 2014 buiten beschouwing. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

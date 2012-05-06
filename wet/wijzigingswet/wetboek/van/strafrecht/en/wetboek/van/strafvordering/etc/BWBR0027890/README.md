@@ -11,29 +11,29 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt het Wetboek van Strafrecht.   
+Wijzigt het Wetboek van Strafrecht. 
 
 ### Artikel  II  
 
-Wijzigt het Wetboek van Strafvordering.   
+Wijzigt het Wetboek van Strafvordering. 
 
 ### Artikel  III  
 
-Wijzigt de Beginselenwet verpleging ter beschikking gestelden.   
+Wijzigt de Beginselenwet verpleging ter beschikking gestelden. 
 
 ### Artikel  IV  
 
-Wijzigt de Wet bijzondere opnemingen in psychiatrische ziekenhuizen.   
+Wijzigt de Wet bijzondere opnemingen in psychiatrische ziekenhuizen. 
 
 ### Artikel  V  
 
-Deze wet heeft geen gevolgen voor personen aan wie de maatregel van terbeschikkingstelling met voorwaarden op het tijdstip waarop deze wet in werking treedt, onherroepelijk is opgelegd.  
+Deze wet heeft geen gevolgen voor personen aan wie de maatregel van terbeschikkingstelling met voorwaarden op het tijdstip waarop deze wet in werking treedt, onherroepelijk is opgelegd. 
 
 ### Artikel  VI  
 
-Deze wet treedt in werking op een bij koninklijke boodschap te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijke boodschap te bepalen tijdstip. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 1 juli 2010  

@@ -26,7 +26,7 @@ g. het ingeschreven zijn bij de kamer van koophandel en fabrieken;
 
 h. het in staat zijn de uit de erkenning voortkomende werkzaamheden waar dan ook te verrichten;  
 
-i. het voeren van een naar het oordeel van de Minister van Verkeer en Waterstaat ordentelijke administratie.    
+i. het voeren van een naar het oordeel van de Minister van Verkeer en Waterstaat ordentelijke administratie.   
 
 ### Artikel  2  
 
@@ -36,22 +36,22 @@ a. het erkende bedrijf verleent onvoorwaardelijk medewerking aan audits en steek
 
 b. het erkende bedrijf verstrekt onvoorwaardelijk en kosteloos informatie die benodigd is voor het uitoefenen van toezicht door of vanwege de inspecteur-generaal van de Inspectie Verkeer en Waterstaat;  
 
-c. het erkende bedrijf meldt wijzigingen in de organisatie aan de inspecteur-generaal van de Inspectie Verkeer en Waterstaat.    
+c. het erkende bedrijf meldt wijzigingen in de organisatie aan de inspecteur-generaal van de Inspectie Verkeer en Waterstaat.   
 
 ### Artikel  3  
 
 1.  De erkenning geldt steeds voor een periode van vijf jaar.   
-2.  Bestaande erkenningen voor inbouw en vervanging van een radarinstallatie, bochtaanwijzer en Automatic Identification System komen te vervallen op het moment dat een erkenning op basis van deze beleidsregel is afgegeven.   
+2.  Bestaande erkenningen voor inbouw en vervanging van een radarinstallatie, bochtaanwijzer en Automatic Identification System komen te vervallen op het moment dat een erkenning op basis van deze beleidsregel is afgegeven.  
 
 ### Artikel  4  
 
-Deze beleidsregel kan worden aangehaald als: Beleidsregel erkenning bedrijven radarinstallatie, bochtaanwijzer en Automatic Identification System.  
+Deze beleidsregel kan worden aangehaald als: Beleidsregel erkenning bedrijven radarinstallatie, bochtaanwijzer en Automatic Identification System. 
 
 ### Artikel  5  
 
-Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze beleidsregel wordt met de toelichting in de Staatscourant geplaatst.  
 
 De 
 Staatssecretaris van Verkeer en Waterstaat, 
-J.C.Huizinga-Heringa   
+J.C. Huizinga-Heringa     

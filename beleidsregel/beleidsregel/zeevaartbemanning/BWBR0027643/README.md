@@ -10,7 +10,7 @@ Besluit:
 
 ####Toepassing van resoluties en circulaires uitgegeven door de Internationale Maritieme organisatie (IMO)
 
-Bij de toepassing van de krachtens de [Zeevaartbemanningswet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) geldende voorschriften uit het SOLAS-verdrag en het STCW-verdrag en de daarbij behorende codes en verplichte resoluties, worden de nadere invullingen, interpretaties en aanbevelingen gehanteerd zoals vervat in de in onderstaande tabel 1 genoemde resoluties en circulaires van de Internationale Maritieme Organisatie. <sup> 1  Het op 1 november 1974 te Londen totstandgekomen verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen.  </sup> <sup> 2  Het op 7 juli 1978 te Londen tot stand gekomen Internationale Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, het STCW-verdrag ( Trb 1981, 144).  </sup>  Tabel 1 Bemanningsgrootte, bemanningssamenstelling en opleiding 
+Bij de toepassing van de krachtens de [Zeevaartbemanningswet](../../../../wet/wet/zeevarenden/BWBR0009124/README.md) geldende voorschriften uit het SOLAS-verdrag<sup> 1 Het op 1 november 1974 te Londen totstandgekomen verdrag voor de beveiliging van mensenlevens op zee (Trb. 1976, 157) en de bij dat verdrag behorende bindende protocollen, aanhangsels en bijlagen. </sup> en het STCW-verdrag<sup> 2 Het op 7 juli 1978 te Londen tot stand gekomen Internationale Verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst, het STCW-verdrag ( Trb 1981, 144). </sup> en de daarbij behorende codes en verplichte resoluties, worden de nadere invullingen, interpretaties en aanbevelingen gehanteerd zoals vervat in de in onderstaande tabel 1 genoemde resoluties en circulaires van de Internationale Maritieme Organisatie.  Tabel 1 Bemanningsgrootte, bemanningssamenstelling en opleiding 
 
 | Resolutie/circulaire  | Grondslag  |
 |:---|:---|
@@ -34,7 +34,7 @@ De inspecteur-generaal Verkeer en Waterstaat verstrekt op grond van [artikel 97,
 
 5.  *Personeel met dienstverlenende taken aan boord van schepen*  Het gaat hier bijvoorbeeld om managers, verplegend personeel, hotelpersoneel, horecapersoneel, winkelpersoneel, personeel in de civiele dienst. Bij het verzoek om afgifte van een monsterboekje legt de aanvrager een verklaring van de scheepsbeheerder of van de reder over waaruit blijkt dat de aanvrager aan boord taken zal gaan verrichten die buiten de functies genoemd op het bemanningscertificaat vallen.  
 
-6.  *Nautisch/technisch onderhoudspersoneel*  Het gaat hier om technici voor het onderhoud aan bijvoorbeeld voorstuwingsinstallaties, radio-installaties en laad- en losgerei. Bij het verzoek om afgifte van een monsterboekje legt de aanvrager een werkgeversverklaring over waaruit blijkt dat hij onderhoudstaken aan boord van een schip gaat verrichten.  
+6.  *Nautisch/technisch onderhoudspersoneel* Het gaat hier om technici voor het onderhoud aan bijvoorbeeld voorstuwingsinstallaties, radio-installaties en laad- en losgerei. Bij het verzoek om afgifte van een monsterboekje legt de aanvrager een werkgeversverklaring over waaruit blijkt dat hij onderhoudstaken aan boord van een schip gaat verrichten.  
 
 7.  *Nautisch/technisch ondersteunend personeel*  Het gaat hier bijvoorbeeld om duikers, Remotely Operated Vehicle (ROV) operators, Dynamic positioning (DP) operators, hydrografen en bergingsinspecteurs. Bij het verzoek om afgifte van een monsterboekje legt de aanvrager een werkgeversverklaring over waaruit blijkt dat hij ondersteunende werkzaamheden aan boord van zeeschepen gaat verrichten.  
 
@@ -42,15 +42,15 @@ De inspecteur-generaal Verkeer en Waterstaat verstrekt op grond van [artikel 97,
 
 9.  *Detacheringsmedewerkers, te werk gesteld via een uitzendbureau of een detacheringsbureau, voor het verrichten van werkzaamheden aan boord van zeeschepen*  Onder uitzendbureau dan wel een detacheringsbureau wordt verstaan: een onderneming die werkkrachten tijdelijk ter beschikking stelt aan ondernemingen in de zeevaart voor het verrichten van werkzaamheden op zeeschepen. Bij het verzoek om afgifte van een monsterboekje legt de aanvrager een verklaring over van het detacherings- of uitzendbureau waaruit blijkt dat hij werkzaamheden aan boord van zeeschepen gaat verrichten.  
 
-10.  *Ambtenaren belast met toezichthoudende en handhavende taken aan boord van zeeschepen*  Het gaat hierbij om ambtenaren in dienst van het rijk, provincie of gemeente. Te denken valt aan ambtenaren van de Inspectie Verkeer en Waterstaat, de Douane, het Korps landelijke politiediensten, Rijkswaterstaat en de Koninklijke Marechaussee en Zeehavenpolitie. Bij het verzoek om afgifte van een monsterboekje overlegt de aanvrager een werkgeversverklaring waaruit blijkt dat hij toezichthoudende en handhavende taken aan boord van zeeschepen gaat verrichten.    
+10.  *Ambtenaren belast met toezichthoudende en handhavende taken aan boord van zeeschepen*  Het gaat hierbij om ambtenaren in dienst van het rijk, provincie of gemeente. Te denken valt aan ambtenaren van de Inspectie Verkeer en Waterstaat, de Douane, het Korps landelijke politiediensten, Rijkswaterstaat en de Koninklijke Marechaussee en Zeehavenpolitie. Bij het verzoek om afgifte van een monsterboekje overlegt de aanvrager een werkgeversverklaring waaruit blijkt dat hij toezichthoudende en handhavende taken aan boord van zeeschepen gaat verrichten.   
 
 ### Artikel  3  
 
-Deze beleidsregel wordt aangehaald als: Beleidsregel zeevaartbemanning.  
+Deze beleidsregel wordt aangehaald als: Beleidsregel zeevaartbemanning. 
 
 ### Artikel  4  
 
-Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze beleidsregel wordt met de toelichting in de Staatscourant geplaatst.   
 
 ’s-Gravenhage 
@@ -58,4 +58,4 @@ Deze beleidsregel wordt met de toelichting in de Staatscourant geplaatst.
 
 De 
 inspecteur-generaal Verkeer en Waterstaat, 
-J.Thunnissen   
+J. Thunnissen     

@@ -19,7 +19,7 @@ b. uitoefening van een bevoegdheid met projectsaldering: uitoefening van een of 
 
 c. plangebied: gebied waar de uitoefening van een bevoegdheid met toepassing van projectsaldering betrekking op heeft;  
 
-d. salderingsgebied: gebied of gebieden waarbinnen zich effecten voor de luchtkwaliteit voordoen als gevolg van de uitoefening van een bevoegdheid met toepassing van projectsaldering.    
+d. salderingsgebied: gebied of gebieden waarbinnen zich effecten voor de luchtkwaliteit voordoen als gevolg van de uitoefening van een bevoegdheid met toepassing van projectsaldering.   
 
 ### §  2  
 
@@ -39,7 +39,7 @@ d. een beschrijving van de toename of vermindering van de concentratie van een s
 
 e. een beschrijving van de maatregelen als bedoeld in [artikel 5.16, eerste lid, aanhef en onder b, sub 2](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en hun effect op de concentratie van de betreffende stof, daaronder mede begrepen eventuele maatregelen in het plangebied, en  
 
-f. het tijdstip waarop, of de termijn waarbinnen, de onder e bedoelde maatregelen worden uitgevoerd.    
+f. het tijdstip waarop, of de termijn waarbinnen, de onder e bedoelde maatregelen worden uitgevoerd.   
 
 ### Artikel  3  
 
@@ -55,7 +55,7 @@ d. de manier waarop bij de vaststelling van de maatregelen rekening is gehouden 
 
 e. het tijdstip waarop, of de termijn waarbinnen, de maatregelen, bedoeld in artikel 2, onderdeel e, worden uitgevoerd, en  
 
-f. de waarborgen die getroffen worden, opdat de maatregelen, bedoeld in artikel 2, onderdeel e, daadwerkelijk worden uitgevoerd.    
+f. de waarborgen die getroffen worden, opdat de maatregelen, bedoeld in artikel 2, onderdeel e, daadwerkelijk worden uitgevoerd.   
 
 ### §  3  
 
@@ -63,11 +63,11 @@ f. de waarborgen die getroffen worden, opdat de maatregelen, bedoeld in artikel 
 
 ### Artikel  4  
 
-Deze regeling treedt in werking op het tijdstip waarop de [Wet van 11 oktober 2007 tot wijziging van de Wet milieubeheer (luchtkwaliteitseisen)](../../../../../../wet/wijzigingswet/wet/milieubeheer/enz./(luchtkwaliteitseisen)/BWBR0022750/README.md) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop de [Wet van 11 oktober 2007 tot wijziging van de Wet milieubeheer (luchtkwaliteitseisen)](../../../../../../wet/wijzigingswet/wet/milieubeheer/enz./(luchtkwaliteitseisen)/BWBR0022750/README.md) in werking treedt. 
 
 ### Artikel  5  
 
-Deze regeling kan worden aangehaald als: Regeling projectsaldering luchtkwaliteit 2007.  
+Deze regeling kan worden aangehaald als: Regeling projectsaldering luchtkwaliteit 2007. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -75,4 +75,4 @@ Den Haag
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J.M.Cramer   
+J.M. Cramer     

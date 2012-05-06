@@ -14,7 +14,7 @@ In deze regeling wordt verstaan onder:
 
 a. Minister: de Minister voor Wonen, Wijken en Integratie;  
 
-b. etnische groepen: niet-westerse allochtonen, alsmede allochtonen afkomstig uit voormalig Joegoslavië en de voormalige Sovjet-Unie.    
+b. etnische groepen: niet-westerse allochtonen, alsmede allochtonen afkomstig uit voormalig Joegoslavië en de voormalige Sovjet-Unie.   
 
 ### Artikel  6  
 
@@ -34,21 +34,21 @@ a. een overzicht van de gedane uitgaven;
 
 b. een accountantsverklaring.     
 6.  De Minister stelt het subsidievast binnen dertien weken na ontvangst van de vaststellingsaanvraag.   
-7.  Het vastgestelde subsidiebedrag wordt onder verrekening van betaalde voorschotten binnen vier weken na de vaststelling ervan betaald.   
+7.  Het vastgestelde subsidiebedrag wordt onder verrekening van betaalde voorschotten binnen vier weken na de vaststelling ervan betaald.  
 
 ### Artikel  7  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  8  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Stimuleringsregeling Ruimte voor Contact.  
+Deze regeling wordt aangehaald als: Stimuleringsregeling Ruimte voor Contact. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister voor Vreemdelingenzaken en Integratie, 
-M.C.F.Verdonk   
+M.C.F. Verdonk     

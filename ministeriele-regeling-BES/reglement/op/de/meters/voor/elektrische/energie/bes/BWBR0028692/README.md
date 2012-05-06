@@ -10,24 +10,24 @@ Voor de toepassing van deze regeling wordt verstaan onder:
 
 *Maximum stroom:* Maximum waarde van de stroom die overeenstemt met de grens van het nauwkeurigheidsgebied gesteld in de onderhavige voorschriften.  
 
-*Nominale spanning:* Waarde van de spanning waarop deze voorschriften gebaseerd zijn. Een toestel kan één of meerdere nominale spanningen hebben en/of één of meerdere spanningsgebieden. Is van een spanningsgebied de verhouding tussen de hoogste en laagste spanning niet meer dan 1,3 dan worden de proeven bij het gemiddelde van deze twee genomen; is deze verhouding meer dan 1,3 dan worden alle proeven genomen voor de beide grenswaarden, behoudens het gestelde in artikel 7 sub 1 c.  
+*Nominale spanning: * Waarde van de spanning waarop deze voorschriften gebaseerd zijn. Een toestel kan één of meerdere nominale spanningen hebben en/of één of meerdere spanningsgebieden. Is van een spanningsgebied de verhouding tussen de hoogste en laagste spanning niet meer dan 1,3 dan worden de proeven bij het gemiddelde van deze twee genomen; is deze verhouding meer dan 1,3 dan worden alle proeven genomen voor de beide grenswaarden, behoudens het gestelde in artikel 7 sub 1 c.  
 
 *De constante van een meter:* Het aantal toeren van de rotor dat overeenkomt met één kWh.  
 
-*Fout:* Algebraisch verschil tussen de gemeten waarde van een grootheid en de waarde die ze behoort te hebben, uitgedrukt in percenten van deze laatste waarde.    
+*Fout: * Algebraisch verschil tussen de gemeten waarde van een grootheid en de waarde die ze behoort te hebben, uitgedrukt in percenten van deze laatste waarde.   
 
-### Hoofdstuk  I  
+### Hoofdstuk  I   
 
 ####Eisen waaraan nieuwe meters voor electrische energie moeten voldoen
 
-### Artikel  2  
+### Artikel  2   
 
 ####Algemene voorwaarden
 
 1.  Behoudens de proeven op de juistheid van aanwijzing worden de hierna voorgeschreven proeven slechts uitgevoerd bij zoveel exemplaren van een bepaald model meter als nodig zal blijken om te kunnen beoordelen of het model aan de gestelde eisen voldoet.   
-2.  Het hoofd van de door de op grond van artikel 10 van de IJkwet BES door het bestuurscollege aangewezen dienst is bevoegd toestemming te verlenen tot afwijking van de voorschriften in deze regeling opgenomen mits de bepalingen betreffende de juistheid van aanwijzing in acht worden genomen.   
+2.  Het hoofd van de door de op grond van artikel 10 van de IJkwet BES door het bestuurscollege aangewezen dienst is bevoegd toestemming te verlenen tot afwijking van de voorschriften in deze regeling opgenomen mits de bepalingen betreffende de juistheid van aanwijzing in acht worden genomen.  
 
-### Artikel  3  
+### Artikel  3   
 
 ####Normale kalibers en soorten
 
@@ -41,7 +41,7 @@ Men onderscheidt:
 
 – driefase meters met 3 fasedraden en nulleider met nominale spanningen van respectievelijk 57,7/100, 110/ 190, 127/220 en 220/380 V;  
 
-– meters voor bijzondere doeleinden.    
+– meters voor bijzondere doeleinden.   
 
 ### Artikel  4  
 
@@ -75,7 +75,7 @@ e. De nominale frequentie;
 
 f. De nominale spanning (en) in volt. In geval van driefasige kring met nulleider, is de nominale spanning de spanning tussen fase en nulleider; haar aanduiding wordt gevolgd door een schuin streepje en de aanduiding van de spanning tussen de fasen. Ingeval het toestel een spanningsgebied heeft, worden de uiterste waarden van het gebied op de plaat aangeduid en gescheiden door een horizontale streep die eindigt op twee pijlen. Ingeval het toestel meerdere referentiespanningen heeft, worden de waarden van deze spanningen aangeduid en gescheiden door het teken '&.  
 
-g. De basisstroom en de maximumstroom, in ampère, één hiervan aangeduid tussen haakjes. De aanduidingen d, f en g kunnen op de volgende door voorbeelden aangetoonde wijze gegroepeerd worden:   ![247355](http://wetten.overheid.nl/Illustration/247355)
+g. De basisstroom en de maximumstroom, in ampère, één hiervan aangeduid tussen haakjes. De aanduidingen d, f en g kunnen op de volgende door voorbeelden aangetoonde wijze gegroepeerd worden:  ![247355](http://wetten.overheid.nl/Illustration/247355)
 
 h. de constante van de meter.  
 
@@ -84,7 +84,7 @@ i. Als de meter van een bijzonder soort is (dus voorzien is van een teruglooprem
 j. Indien de meter de energie registreert via meettrans-formatoren, waarmede in de meterconstante rekening is gehouden, dienen de overzetverhouding(en) daarvan aangegeven te worden.   
 ### *Aansluitschema* 
 
-Iedere meter moet voorzien zijn van een aansluitschema dat vastgehecht is aan de binnenkant van het klemmendeksel en dat de schikking van de klemmen op de klemmenplaat weergeeft. Het aansluitschema moet zodanig zijn dat het eigen verbruik van de spanningskringen niet aangetekend wordt door de meter. De fasenreeks van de driefasige meters wordt door de volgende tekens aangeduid: RST en N of O (nulleider) waarin de fase S 120° en de fase T 240° achterstand hebben ten opzichte van de fase R.  
+Iedere meter moet voorzien zijn van een aansluitschema dat vastgehecht is aan de binnenkant van het klemmendeksel en dat de schikking van de klemmen op de klemmenplaat weergeeft. Het aansluitschema moet zodanig zijn dat het eigen verbruik van de spanningskringen niet aangetekend wordt door de meter. De fasenreeks van de driefasige meters wordt door de volgende tekens aangeduid: RST en N of O (nulleider) waarin de fase S 120° en de fase T 240° achterstand hebben ten opzichte van de fase R. 
 
 ####Mechanische eisen
 
@@ -110,7 +110,7 @@ De aansluitklemmen van de meter dienen een afzonderlijk deksel te bezitten, dat 
 Het telwerk mag zijn van het trommel- of wijzer-type. Het dient te registreren in kWh of MWh. Schalen of trommels die decimale onderdelen van de eenheid aangeven zullen in kleur moeten zijn uitgevoerd, of met een gekleurd kader zijn omgeven, terwijl de snelst bewegende onderverdeeld dient te zijn en genummerd. Het telwerk dient in staat te zijn om, beginnend van nul, tenminste 2500 uren de energie te registreren die overeenkomt met maximum stroom bij nominale spanningen en een arbeidsfactor één. De aanduidingen op het telwerk dienen onuitwisbaar en gemakkelijk leesbaar te zijn. 
 ### *Rotor, draairichting* 
 
-De rand van de rotor aan de zijde van een waarnemer, die de meter van voren beziet, dient te bewegen van links naar rechts. De draairichting dient door een goed zichtbare, onuitwisbare pijl te zijn aangegeven. De rand zowel als het bovenvlak van de schjjf moet één zichtbaar merk dragen van voldoend absorberende kleur om het automatisch tellen van de omwentelingen mogelijk te maken. Andere merktekens mogen toegevoegd zijn voor stroboscopische of andere beproevingen, doch deze merktekens dienen zo geplaatst te zijn, dat deze het gebruik van het voornaamste merk voor foto-electrische telling van het aantal omwentelingen niet bemoeilijken.  
+De rand van de rotor aan de zijde van een waarnemer, die de meter van voren beziet, dient te bewegen van links naar rechts. De draairichting dient door een goed zichtbare, onuitwisbare pijl te zijn aangegeven. De rand zowel als het bovenvlak van de schjjf moet één zichtbaar merk dragen van voldoend absorberende kleur om het automatisch tellen van de omwentelingen mogelijk te maken. Andere merktekens mogen toegevoegd zijn voor stroboscopische of andere beproevingen, doch deze merktekens dienen zo geplaatst te zijn, dat deze het gebruik van het voornaamste merk voor foto-electrische telling van het aantal omwentelingen niet bemoeilijken. 
 
 ####Electrische Eisen
 
@@ -126,7 +126,7 @@ b. Stroomcircuits. Het schijnbare vermogen dat door elk stroomcircuit van een me
 Meters en hun toebehoren uitgezonderd meettrans-formatoren, die aan andere specificaties dienen te voldoen, mogen geen van hun diëlectrische hoedanigheden verliezen, wanneer zij aan normale bedrijfsspanningen worden onderworpen. Een meter of accessoire wordt geacht deze voorgaande voorwaarde te vervullen als ze met gunstig gevolg de hierna gespecificeerde diëlectrische beproeving heeft ondergaan. Bovendien moeten de toegepaste isolatiematerialen zodanig zijn, dat zij hun diëlectrische hoedanigheden niet verliezen onder invloed van de atmosferische vochtigheid. Alle hygroscopische en brandbare materialen die als isolatie gebruikt worden, moeten een behandeling ondergaan hebben om het binnendringen van vocht te voorkomen. De diëlectrische proef wordt slechts uitgevoerd op volledige meters en niet op losse onderdelen; deze proef wordt slechts eenmaal op een meter gedaan. De isolatie tussen alle circuits van een meter enerzijds (met inbegrip van alle metalen delen die hiermede in contact staan), uitgezonderd de stroomkringen van hulptoestellen die bij spanningen onder 70 V werken, en het gestel van de meter anderzijds dient een wisselstroom beproevingsspanning van 2.000 V effectieve waarde te houden. De stroomkringen van de hulptoestellen welke bij spanning onder 70 V werken worden bij deze proef met het gestel van de meter verbonden. Bij de bovenbeschreven proef worden alle uitwendige metalen delen met het gestel van de meter verbonden. Indien de meter een grondplaat uit isolatiemateriaal heeft, wordt de meter bij deze proef op een vlakke metalen plaat gelegd, welke plaat met het gestel van de meter wordt verbonden. De isolatie tussen twee stroom-circuits welke windingen gemeen hebben op dezelfde ijzerkern en waartussen de gekoppelde netspanning op zal treden wanneer de meter in bedrijf is, dienen een wisselstroom beproevingsspanning van 2.000 V effectieve waarde te houden. De isolatie tussen elk circuit van de meter, met inbegrip van alle metalen delen die hiermede in contact zijn, en ieder ander circuit dat hiervan gescheiden kan worden, uitgezonderd de stroomkringen van hulptoestellen welke bij spanningen onder 70 V werken, dienen een wisselstroom beproevingsspanning te houden gelijk aan tweemaal de gekoppelde nominale spanning doch minstens 600 V. Gedurende deze beproeving dienen de stroomkringen van hulptoestellen, welke bij spanningen onder 70 V werken, met het gestel van de meter verbonden te zijn. De isolatie tussen het gestel van de meter en de hulp-circuits, welke bij spanningen onder 70 V werken, moet een wisselstroom beproevingsspanning van 250 V effectieve waarde houden. De beproevingsspanning dient zo goed mogelijk sinus-vormig te zijn en de frequentie ervan dient tussen 40 en 60 herz te liggen. De spanning dient geleverd te worden door een spanningsbron met een vermogen van minstens 500 VA en de beproevingsspanning zal voor de tijd van één minuut aangelegd worden. 
 ### *Temperatuursverhoging* 
 
-Wanneer alle stroomkringen van de meter de maximum stroom voeren en tevens alle spanningscircuits en alle continu belastbare hulpspanningscircuits belast worden met 1, 2 maal de nominale spanning, mag de temperatuursverhoging van de windingen van de stroomcircuit (s) van de meter de 50°C niet te boven gaan, bij een omgevingstemperatuur niet hoger dan 40°C. Wanneer windingen van blank koper cq email-draad zijn toegepast, mag deze temperatuursverhoging de 60°C niet te boven gaan. De temperatuursverhoging wordt bepaald uit de weerstandsverandering van een van de stroomspoelen en wordt gemeten aan de aansluitklemmen.  
+Wanneer alle stroomkringen van de meter de maximum stroom voeren en tevens alle spanningscircuits en alle continu belastbare hulpspanningscircuits belast worden met 1, 2 maal de nominale spanning, mag de temperatuursverhoging van de windingen van de stroomcircuit (s) van de meter de 50°C niet te boven gaan, bij een omgevingstemperatuur niet hoger dan 40°C. Wanneer windingen van blank koper cq email-draad zijn toegepast, mag deze temperatuursverhoging de 60°C niet te boven gaan. De temperatuursverhoging wordt bepaald uit de weerstandsverandering van een van de stroomspoelen en wordt gemeten aan de aansluitklemmen. 
 
 ####Nauwkeurigheid
 
@@ -217,7 +217,7 @@ a. afstelling rem-magneet. 4% snelheidstoename en 6% snelheidsafname bij 50% van
 
 b. afstelling voor lage belasting ± 4% snelheids verandering bij 5% van de basis stroom en arbeidsfactor 1,0.  
 
-c. afstelling inductieve belasting, wanneer de meter een dergelijke instelmogelijkheid bezit. ±1% snelheidsverandering bij inductieve arbeidsfactor 0,5 bij 50% van de maximum stroom.    
+c. afstelling inductieve belasting, wanneer de meter een dergelijke instelmogelijkheid bezit. ±1% snelheidsverandering bij inductieve arbeidsfactor 0,5 bij 50% van de maximum stroom.   
 
 ### Hoofdstuk  II  
 
@@ -265,7 +265,7 @@ b. systemen afzonderlijk
 Een mogelijk aanwezige inrichting voor het aanwijzen van de maximum belasting mag bij nominale symmetrische belasting en Ф = 1 niet meer dan 1,5% fout in de meting introduceren. 
 ### *Justering* 
 
-De meters moeten zo goed mogelijk worden gejusteerd. De gemiddelde aanwijzing van een serie meters moet nagenoeg juist zijn.  
+De meters moeten zo goed mogelijk worden gejusteerd. De gemiddelde aanwijzing van een serie meters moet nagenoeg juist zijn. 
 
 ### Hoofdstuk  III  
 
@@ -277,9 +277,9 @@ De meters moeten zo goed mogelijk worden gejusteerd. De gemiddelde aanwijzing va
 
 ####Aanloopgevoeligheid
 
-Bij 0,8% van het nominale vermogen en cos Ф = 1 moet de meter reeds registreren. Foutengrenzen De toegelaten fout is 2% meer dan voor gereviseerde meters uit voorraad is toegestaan, behoudens het bepaalde in artikel 8, onder b waar de toegelaten fout ook voor meters uit het net onverkort geldt.  
+Bij 0,8% van het nominale vermogen en cos Ф = 1 moet de meter reeds registreren. Foutengrenzen De toegelaten fout is 2% meer dan voor gereviseerde meters uit voorraad is toegestaan, behoudens het bepaalde in artikel 8, onder b waar de toegelaten fout ook voor meters uit het net onverkort geldt. 
 
 ### Artikel  10  
 
 1.  Deze regeling berust op artikel 17 van de IJkwet BES.   
-2.  Deze regeling wordt aangehaald als: Reglement op de meters voor elektrische energie BES.   
+2.  Deze regeling wordt aangehaald als: Reglement op de meters voor elektrische energie BES.  

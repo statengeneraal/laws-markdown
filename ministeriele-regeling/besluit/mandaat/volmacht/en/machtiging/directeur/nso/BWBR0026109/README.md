@@ -12,13 +12,13 @@ Besluiten:
 
 1.  De Minister van Economische Zaken, de Minister van Onderwijs, Cultuur en Wetenschap, de Minister en Staatssecretaris van Verkeer en Waterstaat en het NWO Gebiedsbestuur Aard- en Levenswetenschappen, respectievelijk het NWO Gebiedsbestuur Exacte Wetenschappen namens het Algemeen Bestuur van NWO verlenen, ieder voor zich, aan de directeur NSO mandaat, volmacht en machtiging voor de aangelegenheden bedoeld in de bijlage van dit besluit.   
 2.  De directeur NSO kan voor de in het eerste lid bedoelde aangelegenheden ondermandaat, volmacht en machtiging verlenen aan de onder hem ressorterende functionarissen.   
-3.  De uit dit besluit voor de directeur NSO voortvloeiende bevoegdheden gaan in geval van afwezigheid over op een opdrachtmanager van de directie NSO, met uitzondering van de bevoegdheid tot het verlenen van ondermandaat, volmacht en machtiging.   
+3.  De uit dit besluit voor de directeur NSO voortvloeiende bevoegdheden gaan in geval van afwezigheid over op een opdrachtmanager van de directie NSO, met uitzondering van de bevoegdheid tot het verlenen van ondermandaat, volmacht en machtiging.  
 
 ### Artikel  2  
 
 1.  De Minister van Economische Zaken verleent aan de algemeen directeur Agentschap NL mandaat en machtiging voor het behandelen van bezwaarschriften tegen besluiten die op grond van dit besluit door de directeur NSO of door onder hem ressorterende functionarissen namens de Minister van Economische Zaken zijn genomen of behandeld, waaronder begrepen het nemen van beslissingen op bezwaarschriften.   
 2.  De Minister van Economische Zaken verleent aan de algemeen directeur Agentschap NL machtiging voor het voeren van verweer in de gevallen waarin beroep is ingesteld tegen een beslissing op bezwaarschrift als bedoeld in het eerste lid.   
-3.  De algemeen directeur Agentschap NL kan voor de in het eerste en tweede lid bedoelde aangelegenheden ondermandaat en machtiging verlenen aan de onder hem ressorterende functionarissen.   
+3.  De algemeen directeur Agentschap NL kan voor de in het eerste en tweede lid bedoelde aangelegenheden ondermandaat en machtiging verlenen aan de onder hem ressorterende functionarissen.  
 
 ### Artikel  3  
 
@@ -28,19 +28,19 @@ Besluiten:
 4.  Het krachtens ondertekeningsmandaat ondertekenen van stukken namens het NWO Gebiedsbestuur Aard- en Levenswetenschappen geschiedt als volgt: Overeenkomstig het door het NWO Gebiedsbestuur Aard- en Levenswetenschappen namens het Algemeen Bestuur van NWO genomen besluit, (handtekening) (naam functionaris) (functie)   
 5.  Het krachtens volmacht en machtiging ondertekenen van stukken namens het NWO Gebiedsbestuur Aard- en Levenswetenschappen geschiedt als volgt: Het NWO Gebiedsbestuur Aard- en Levenswetenschappen namens het Algemeen Bestuur van NWO, namens deze: (handtekening) (naam functionaris) (functie)   
 6.  Het krachtens ondertekeningsmandaat ondertekenen van stukken namens het NWO Gebiedsbestuur Exacte Wetenschappen geschiedt als volgt: Overeenkomstig het door het NWO Gebiedsbestuur Exacte Wetenschappen namens het Algemeen Bestuur van NWO genomen besluit, (handtekening) (naam functionaris) (functie)   
-7.  Het krachtens volmacht en machtiging ondertekenen van stukken namens het NWO Gebiedsbestuur Exacte Wetenschappen geschiedt als volgt: Het NWO Gebiedsbestuur Exacte Wetenschappen namens het Algemeen Bestuur van NWO, namens deze: (handtekening) (naam functionaris) (functie)   
+7.  Het krachtens volmacht en machtiging ondertekenen van stukken namens het NWO Gebiedsbestuur Exacte Wetenschappen geschiedt als volgt: Het NWO Gebiedsbestuur Exacte Wetenschappen namens het Algemeen Bestuur van NWO, namens deze: (handtekening) (naam functionaris) (functie) 
 
 ### Artikel  4  
 
-Het [Besluit van de Minister van Economische Zaken van 25 februari 2004](../../../../../../../../../ministeriele-regeling/mandaatbesluit/uitvoering/subsidieregeling/prekwalificatie/esa-programma's/BWBR0016442/README.md), kenmerk I/MI/LR 4004881 (Stcrt. 45) wordt ingetrokken.  
+Het [Besluit van de Minister van Economische Zaken van 25 februari 2004](../../../../../../../../../ministeriele-regeling/mandaatbesluit/uitvoering/subsidieregeling/prekwalificatie/esa-programma's/BWBR0016442/README.md), kenmerk I/MI/LR 4004881 (Stcrt. 45) wordt ingetrokken. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2009.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 juli 2009. 
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging directeur NSO.  
+Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging directeur NSO. 
 Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -48,29 +48,29 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-M.J.A. van derHoeven 
+M.J.A. van der Hoeven   
 
 De 
 Minister van Onderwijs, Cultuur en Wetenschap, 
-R.H.A.Plasterk 
+R.H.A. Plasterk   
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings 
+C.M.P.S. Eurlings   
 
 De 
 Staatssecretaris van Verkeer en Waterstaat, 
-J.C.Huizinga-Heringa 
+J.C. Huizinga-Heringa   
 
 Het 
 Algemeen Bestuur van NWO, namens deze: de 
-voorzitter van het Algemeen Bestuur van NWO, 
-J.J.Engelen 
+voorzitter van het Algemeen Bestuur van NWO,
+J.J. Engelen   
 
 Het 
-NWO Gebiedsbestuur Aard- en Levenswetenschappen, namens deze: de 
+NWO Gebiedsbestuur Aard- en Levenswetenschappen, namens deze:de 
 voorzitter van NWO Gebiedsbestuur Aard- en Levenswetenschappen, 
-R.Rabbinge  
+R. Rabbinge    
 
 ### Bijlage  
 

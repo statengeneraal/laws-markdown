@@ -10,19 +10,19 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Subsidieregeling starten, groeien en overdragen van ondernemingen.   
+Wijzigt de Subsidieregeling starten, groeien en overdragen van ondernemingen. 
 
 ### Artikel  II  
 
-Wijzigt de Regeling openstelling en subsidieplafonds EZ 2010.   
+Wijzigt de Regeling openstelling en subsidieplafonds EZ 2010. 
 
 ### Artikel  III  
 
-[Hoofdstuk 5](../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) en [hoofdstuk 6, paragraaf 3](../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md), blijven van toepassing op subsidies die op grond hiervan zijn verstrekt.  
+[Hoofdstuk 5](../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) en [hoofdstuk 6, paragraaf 3](../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md), blijven van toepassing op subsidies die op grond hiervan zijn verstrekt. 
 
 ### Artikel  IV  
 
-Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -30,4 +30,4 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister van Economische Zaken, 
-M.J.A. van derHoeven   
+M.J.A. van der Hoeven     

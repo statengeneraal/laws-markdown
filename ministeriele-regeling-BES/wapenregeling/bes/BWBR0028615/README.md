@@ -5,11 +5,11 @@
 ### Artikel  1  
 
 1.  De machtiging, bedoeld in [artikel 4](../../../../wet-BES/wapenwet/bes/BWBR0028756/README.md) juncto [artikel 2, onderdeel 6](../../../../wet-BES/wapenwet/bes/BWBR0028756/README.md), en [artikel 3 van de Wapenwet BES](../../../../wet-BES/wapenwet/bes/BWBR0028756/README.md) wordt ingericht volgens het aan deze regeling gehechte model.   
-2.  Deze regeling berust op [artikel 4 van de Wapenwet BES](../../../../wet-BES/wapenwet/bes/BWBR0028756/README.md).   
+2.  Deze regeling berust op [artikel 4 van de Wapenwet BES](../../../../wet-BES/wapenwet/bes/BWBR0028756/README.md).  
 
 ### Artikel  2  
 
-Deze regeling wordt aangehaald als: Wapenregeling BES.  
+Deze regeling wordt aangehaald als: Wapenregeling BES. 
 
 ### Bijlage  
 

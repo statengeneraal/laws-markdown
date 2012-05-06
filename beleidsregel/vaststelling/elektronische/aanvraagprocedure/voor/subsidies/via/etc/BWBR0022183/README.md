@@ -23,7 +23,7 @@ d. DigiD-inlogcode: de combinatie van gebruikersnaam en bijbehorend wachtwoord, 
 
 e. uitvoerder: SenterNovem of de EVD internationaal ondernemen en samenwerken;  
 
-f. website: website van SenterNovem voor het elektronisch indienen van subsidieaanvragen.    
+f. website: website van SenterNovem voor het elektronisch indienen van subsidieaanvragen.   
 
 ### §  2  
 
@@ -32,14 +32,14 @@ f. website: website van SenterNovem voor het elektronisch indienen van subsidiea
 ### Artikel  2  
 
 1.  De artikelen 4 tot en met 6 van deze beleidsregel zijn van toepassing op het elektronisch indienen van een aanvraag met betrekking tot subsidieverstrekking met authenticatie door middel van een certificaat.   
-2.  Het elektronisch indienen van een subsidieaanvraag overeenkomstig deze paragraaf is mogelijk indien de subsidieregeling daartoe is opengesteld via de website.   
+2.  Het elektronisch indienen van een subsidieaanvraag overeenkomstig deze paragraaf is mogelijk indien de subsidieregeling daartoe is opengesteld via de website.  
 
 ### Artikel  4  
 
 1.  Om toegang te krijgen tot de aanvraagapplicatie is een certificaat en pincode vereist.   
 2.  Op de website kan een certificaat worden opgevraagd en geïnstalleerd.   
 3.  Bij het aanvragen van het certificaat geeft certificaathouder zijn pincode op aan de uitvoerder.   
-4.  Door middel van het installeren van het certificaat ontvangt de certificaathouder het certificaat met daarin opgeslagen de private sleutel.   
+4.  Door middel van het installeren van het certificaat ontvangt de certificaathouder het certificaat met daarin opgeslagen de private sleutel.  
 
 ### Artikel  5  
 
@@ -49,25 +49,25 @@ a. de certificaathouder verkrijgt toegang tot de aanvraagapplicatie door in te l
 
 b. de certificaathouder start een nieuwe aanvraag en selecteert de subsidieregeling waarvoor hij elektronisch een subsidieaanvraag wil indienen;  
 
-c. de certificaathouder vult de subsidieaanvraag in en controleert deze.    
+c. de certificaathouder vult de subsidieaanvraag in en controleert deze.   
 
 ### Artikel  6  
 
 1.  Indien de certificaathouder de tekenbevoegde is van de organisatie die een subsidieaanvraag wil indienen, ondertekent hij de subsidieaanvraag met een elektronische handtekening en dient hij de subsidieaanvraag in.   
-2.  Indien de certificaathouder niet de tekenbevoegde van de organisatie is, kan hij een tekenbevoegde autoriseren om de aanvraag te ondertekenen of in te dienen.   
+2.  Indien de certificaathouder niet de tekenbevoegde van de organisatie is, kan hij een tekenbevoegde autoriseren om de aanvraag te ondertekenen of in te dienen.  
 
-### §  3  
+###§ 3 
 
 ####De aanvraagprocedure met authenticatie door middel van DigiD
 
 ### Artikel  6a  
 
 1.  Deze paragraaf is van toepassing op het elektronisch indienen van een aanvraag met betrekking tot subsidieverstrekking met authenticatie door middel van DigiD of DigiD voor bedrijven.   
-2.  Het elektronisch indienen van een aanvraag met betrekking tot subsidieverstrekking overeenkomstig deze paragraaf is mogelijk indien de subsidieregeling daartoe is opengesteld via de website.   
+2.  Het elektronisch indienen van een aanvraag met betrekking tot subsidieverstrekking overeenkomstig deze paragraaf is mogelijk indien de subsidieregeling daartoe is opengesteld via de website.  
 
 ### Artikel  6b  
 
-Om toegang te krijgen tot de aanvraagapplicatie is een DigiD-inlogcode vereist.  
+Om toegang te krijgen tot de aanvraagapplicatie is een DigiD-inlogcode vereist. 
 
 ### Artikel  6c  
 
@@ -79,11 +79,11 @@ b. de indiener verkrijgt toegang tot de aanvraagapplicatie door in te loggen met
 
 c. de indiener start een nieuwe aanvraag;  
 
-d. de indiener vult de aanvraag in, controleert deze en dient de aanvraag in.    
+d. de indiener vult de aanvraag in, controleert deze en dient de aanvraag in.   
 
 ### Artikel  6d  
 
-Indien een aanvraag met betrekking tot subsidieverstrekking wordt ingediend overeenkomstig deze paragraaf geldt het invoeren van de DigiD-inlogcode als elektronische handtekening.  
+Indien een aanvraag met betrekking tot subsidieverstrekking wordt ingediend overeenkomstig deze paragraaf geldt het invoeren van de DigiD-inlogcode als elektronische handtekening. 
 
 ### §  4  
 
@@ -91,7 +91,11 @@ Indien een aanvraag met betrekking tot subsidieverstrekking wordt ingediend over
 
 ### Artikel  6e  
 
-De beleidsregel wordt aangehaald als: Beleidsregel elektronische aanvraagprocedure voor subsidies via SenterNovem.  
+De beleidsregel wordt aangehaald als: Beleidsregel elektronische aanvraagprocedure voor subsidies via SenterNovem. 
+
+### Artikel  7  
+
+Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -99,4 +103,4 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-M.J.A. van derHoeven   
+M.J.A. van der  Hoeven     

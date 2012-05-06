@@ -22,4 +22,4 @@ De voorwaarden waaronder de t.i’s ondersteuning in de financieringslasten moge
 
 De 
 Minister voor Wonen, Wijken en Integratie, 
-C.P.Vogelaar   
+C.P. Vogelaar     

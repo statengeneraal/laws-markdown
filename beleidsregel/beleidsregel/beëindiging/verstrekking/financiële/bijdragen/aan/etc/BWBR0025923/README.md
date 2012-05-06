@@ -10,27 +10,27 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder: 
 
-a. *coproductie:* een omroepprogramma waaraan meerdere partijen, waaronder in elk geval een omroepinstelling enerzijds en een ministerie dan wel een bestuursorgaan behorend tot de rijksoverheid anderzijds, op basis van een door alle partijen goedgekeurd scenario of uitgewerkte synopsis een inhoudelijke of financiële bijdrage hebben geleverd;  
+a.  *coproductie:* een omroepprogramma waaraan meerdere partijen, waaronder in elk geval een omroepinstelling enerzijds en een ministerie dan wel een bestuursorgaan behorend tot de rijksoverheid anderzijds, op basis van een door alle partijen goedgekeurd scenario of uitgewerkte synopsis een inhoudelijke of financiële bijdrage hebben geleverd;  
 
-b. *omroepprogramma:* een programma-onderdeel als bedoeld in [artikel 1, onderdeel g, van de Mediawet](../../../../../../../../../wet/mediawet/BWBR0004149/README.md);  
+b.  *omroepprogramma:* een programma-onderdeel als bedoeld in [artikel 1, onderdeel g, van de Mediawet](../../../../../../../../../wet/mediawet/BWBR0004149/README.md);  
 
-c. *financiële bijdrage:* een geldelijk bedrag op grond van: 
+c.  *financiële bijdrage:* een geldelijk bedrag op grond van: 
 
 – een privaatrechtelijke rechtshandeling als bedoeld in [artikel 32, eerste lid, van de Comptabiliteitswet](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), dan wel  
 
-– een subsidie als bedoeld in [artikel 4:21 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).      
+– een subsidie als bedoeld in [artikel 4:21 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
 
 ### Artikel  2  
 
-Met het oog op de vervaardiging, aankoop, totstandkoming of uitzending van een coproductie of een ander omroepprogramma wordt geen financiële bijdrage aan derden verstrekt.  
+Met het oog op de vervaardiging, aankoop, totstandkoming of uitzending van een coproductie of een ander omroepprogramma wordt geen financiële bijdrage aan derden verstrekt. 
 
 ### Artikel  3  
 
-Deze beleidsregel treedt in werking op 1 januari 2010.  
+Deze beleidsregel treedt in werking op 1 januari 2010. 
 
 ### Artikel  4  
 
-Deze beleidsregel wordt aangehaald als: Beleidsregel beëindiging verstrekking financiële bijdragen aan coproducties en andere omroepprogramma’s LNV.  
+Deze beleidsregel wordt aangehaald als: Beleidsregel beëindiging verstrekking financiële bijdragen aan coproducties en andere omroepprogramma’s LNV. 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -38,4 +38,4 @@ Den Haag
 
 De 
 Minister van Landbouw, Natuur en Voedselkwaliteit, 
-G.Verburg   
+G. Verburg     

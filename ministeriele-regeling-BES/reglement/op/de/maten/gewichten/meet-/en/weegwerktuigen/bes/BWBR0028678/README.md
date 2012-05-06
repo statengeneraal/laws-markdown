@@ -10,44 +10,44 @@ IJk en herijk hebben plaats:
 
 a. in een door het bestuurscollege daartoe ter beschikking te stellen lokaliteit of  
 
-b. ter plaatse van de opstelling van de meet- en weegwerktuigen, in door de ijker te bepalen gevallen.    
+b. ter plaatse van de opstelling van de meet- en weegwerktuigen, in door de ijker te bepalen gevallen.   
 
 ### Artikel  2  
 
 1.  Indien voor het onderzoek van maten, meet- en weegwerktuigen hulpmiddelen vereist worden, waarover de in artikel 1, onder a, bedoelde lokaliteit niet beschikt, verschaft de aanbieder of de houder daarvan kosteloos zulke hulpmiddelen. Eveneens verleent de aanbieder of houder kosteloos de door de met het onderzoek belaste ambtenaar verlangde personele hulp.   
-2.  Keuring of herkeuring kan worden geweigerd, indien de aanbieder of verzoeker daarbij niet de van hem verlangde medewerking verleent.   
+2.  Keuring of herkeuring kan worden geweigerd, indien de aanbieder of verzoeker daarbij niet de van hem verlangde medewerking verleent.  
 
 ### Artikel  3  
 
 1.  De ijker is bevoegd toestemming te verlenen tot afwijking van de voorschriften in deze regeling opgenomen, mits de bepalingen betreffende de lengte, de inhoud, de zwaarte en de meet- en weegeigenschappen worden in acht genomen.   
 2.  De ijker is bevoegd maten, meet- en weegwerktuigen, waarvan de constructie naar zijn oordeel gemakkelijk aanleiding kan geven tot het plegen van bedrog of waarvan hij het gebruik om andere reden niet raadzaam acht, tot de ijk te weigeren.   
-3.  De ijker bepaalt de wijze van onderzoek van maten, gewichten, meet- en weegwerktuigen.   
+3.  De ijker bepaalt de wijze van onderzoek van maten, gewichten, meet- en weegwerktuigen.  
 
 ### Artikel  4  
 
-Bij het onderzoek van maten en meetwerktuigen geldt als maatstaf hun afmeting, inhoud of aanwijzing van gemeten hoeveelheid bij 28°C.  
+Bij het onderzoek van maten en meetwerktuigen geldt als maatstaf hun afmeting, inhoud of aanwijzing van gemeten hoeveelheid bij 28°C. 
 
 ### Artikel  5  
 
 1.  De maten, gewichten, meet- en weegwerktuigen moeten uit voor het doel geschikte grondstoffen van goede hoedanigheid zijn vervaardigd en aan de eis van goed werk voldoen.   
-2.  Maten, gewichten, meet- en weegwerktuigen, welke reeds van enig goedkeuringsmerk zijn voorzien, moeten om te kunnen worden herijkt, goed zijn onderhouden en in zodanige toestand verkeren, dat mag worden verwacht, dat zij, tot de volgende herijk, aan de in deze regeling gestelde eisen kunnen voldoen.   
+2.  Maten, gewichten, meet- en weegwerktuigen, welke reeds van enig goedkeuringsmerk zijn voorzien, moeten om te kunnen worden herijkt, goed zijn onderhouden en in zodanige toestand verkeren, dat mag worden verwacht, dat zij, tot de volgende herijk, aan de in deze regeling gestelde eisen kunnen voldoen.  
 
 ### Artikel  6  
 
-Bij ijk van gewichten van 20, 10, 5, 2 en 1 milligram en bij herijk van gewichten in plaatvorm ter zwaarte van ten hoogste 1000 milligram, alsmede bij ijk en herijk van gewichten met afschroefbare knop of handgreep, bestemd voor het afwegen van geneesmiddelen, wordt het goedkeuringsmerk vervangen door een schriftelijke verklaring.  
+Bij ijk van gewichten van 20, 10, 5, 2 en 1 milligram en bij herijk van gewichten in plaatvorm ter zwaarte van ten hoogste 1000 milligram, alsmede bij ijk en herijk van gewichten met afschroefbare knop of handgreep, bestemd voor het afwegen van geneesmiddelen, wordt het goedkeuringsmerk vervangen door een schriftelijke verklaring. 
 
 ### Artikel  7  
 
 1.  Verdeelde schalen moeten, wat haar opstelling, haar grootte, de grootte der schaaldelen en de dikte der verdeelstrepen betreft, zodanig ingericht zijn, dat voor een nauwkeurige en ondubbelzinnige aflezing geen inspanning nodig is. De hoeveelheid, welke de toegelaten onjuistheid vertegenwoordigt, moet door een duidelijk waarneembare liniaire afmeting worden voorgesteld. Als norm wordt hierbij aangenomen bij een gezichtsafstand van 38 cm een stuk van tenminste 1 mm.   
-2.  Bij wijzerplaattoestellen moet de wijzer dusdanig zijn aangebracht dat de mogelijke fout tengevolge van parallax tot een minimum wordt teruggebracht.   
+2.  Bij wijzerplaattoestellen moet de wijzer dusdanig zijn aangebracht dat de mogelijke fout tengevolge van parallax tot een minimum wordt teruggebracht.  
 
 ### Artikel  8  
 
-In geval meet- of weegwerktuigen voorzien zijn van een inrichting om de aanwijzing van de gemeten of gewogen hoeveelheid te verstellen, moet deze stelinrichting of de toegang ertoe kunnen worden verzegeld.  
+In geval meet- of weegwerktuigen voorzien zijn van een inrichting om de aanwijzing van de gemeten of gewogen hoeveelheid te verstellen, moet deze stelinrichting of de toegang ertoe kunnen worden verzegeld. 
 
 ### Artikel  9  
 
-Maten, gewichten, meet- en weegwerktuigen moeten dusdanig zijn ingericht dat meerdere ijkmerken gemakkelijk kunnen worden aangebracht en zonder beschadiging niet kunnen worden verwijderd.  
+Maten, gewichten, meet- en weegwerktuigen moeten dusdanig zijn ingericht dat meerdere ijkmerken gemakkelijk kunnen worden aangebracht en zonder beschadiging niet kunnen worden verwijderd. 
 
 ### Artikel  10  
 
@@ -57,11 +57,11 @@ Maten, gewichten, meet- en weegwerktuigen moeten dusdanig zijn ingericht dat mee
 a. naam en woonplaats van de vervaardiger of diens fabrieksmerk;  
 
 b. het jaar van aflevering.     
-3.  Maten, gewichten, meet- en weegwerktuigen, bestemd om uitsluitend voor afmeting of afweging van bepaalde stoffen te worden gebruikt, evenals die, waarvan de samenstelling gebruik voor bepaalde waren niet toestaat of tot bepaalde waren beperkt, dan wel de meet- of weegeigenschappen gebruik buiten bepaalde meet- of weeggrenzen niet veroorloven of welke andere beperkingen in hun gebruik of in de wijze van meten of wegen vereisen, moeten een duidelijk opschrift dragen, waaruit van die beperkte bestemming blijkt.   
+3.  Maten, gewichten, meet- en weegwerktuigen, bestemd om uitsluitend voor afmeting of afweging van bepaalde stoffen te worden gebruikt, evenals die, waarvan de samenstelling gebruik voor bepaalde waren niet toestaat of tot bepaalde waren beperkt, dan wel de meet- of weegeigenschappen gebruik buiten bepaalde meet- of weeggrenzen niet veroorloven of welke andere beperkingen in hun gebruik of in de wijze van meten of wegen vereisen, moeten een duidelijk opschrift dragen, waaruit van die beperkte bestemming blijkt.  
 
 ### Artikel  11  
 
-De tekeningen waarnaar in deze regeling wordt verwezen, liggen ter inzage in het bestuurskantoor van het openbaar lichaam.  
+De tekeningen waarnaar in deze regeling wordt verwezen, liggen ter inzage in het bestuurskantoor van het openbaar lichaam. 
 
 ####Lengtematen
 
@@ -78,7 +78,7 @@ De tekeningen waarnaar in deze regeling wordt verwezen, liggen ter inzage in het
 
 met dien verstande, dat de fout niet kleiner behoeft te zijn dan berekend voor 1 meter. De fout in de afstand van twee op elkaar volgende centimeter-, halve centimeter- of millimeterdeelstrepen mag bij ijk niet meer bedragen dan 0,2 mm.   
 2.  Bij herijk zijn de toegelaten fouten tweemaal zo groot als die, vermeld in het eerste lid.   
-3.  Meetbanden van meer dan 2 meter moeten aan de in dit artikel vermelde eisen voldoen bij een trekspanning van 5 kg.   
+3.  Meetbanden van meer dan 2 meter moeten aan de in dit artikel vermelde eisen voldoen bij een trekspanning van 5 kg.  
 
 ####De schuifmaat
 
@@ -124,7 +124,7 @@ d. De afwijking tussen de index en de nulstreep mag bij tegen elkaar geschoven d
 | bij houten schuifmaten  | 0,2 mm  |
 
 5.  Bij herijk zijn de toelaatbare fouten twee maal zo groot als bij ijk.   
-6.  Houten schuifmaten, waarvan de geleidevlakken van de geleidestang en de meetvlakken der doken geheel met metaal beslagen zijn, worden met metalen schuifmaten gelijk gesteld.   
+6.  Houten schuifmaten, waarvan de geleidevlakken van de geleidestang en de meetvlakken der doken geheel met metaal beslagen zijn, worden met metalen schuifmaten gelijk gesteld.  
 
 ####Het toestel voor meting van de diepgang van schepen
 
@@ -144,14 +144,14 @@ d. De afwijking tussen de index en de nulstreep mag bij tegen elkaar geschoven d
 ### Artikel  15  
 
 1.  Bij meetwerktuigen voor lengtemeting, andere dan de in de artikelen 13 en 14 genoemde, en andere dan taxameters moeten opschriften vermelden voor welke goederen het meetwerktuig al of niet bestemd is, indien de aard van de goederen de meting beïnvloedt.   
-2.  De onjuistheid van de aanwijzing van de gemeten lengte mag bedragen: bij ijk 1%; bij herijk 1,5%. Meetwerktuigen welke bij meting van kleine lengten een grotere onjuistheid hebben, kunnen worden toegelaten indien een opschrift het gebruik van zulke meetwerktuigen beneden de grens, waar deze onjuistheid optreedt, verbiedt.   
+2.  De onjuistheid van de aanwijzing van de gemeten lengte mag bedragen: bij ijk 1%; bij herijk 1,5%. Meetwerktuigen welke bij meting van kleine lengten een grotere onjuistheid hebben, kunnen worden toegelaten indien een opschrift het gebruik van zulke meetwerktuigen beneden de grens, waar deze onjuistheid optreedt, verbiedt.  
 
 ####De meetwerktuigen voor oppervlaktemeting
 
 ### Artikel  16  
 
 1.  De meetwerktuigen voor oppervlaktemeting dienen voorzien te zijn van een opschrift, vermeldende de kleinste en de grootste oppervlakte, waarvoor het meetwerktuig bestemd is.   
-2.  De onjuistheid van de aanwijzing van de gemeten oppervlakte mag bedragen: bij ijk 1%; bij herijk 2%; terwijl de fout niet kleiner behoeft te zijn dan 1/5 van de fout, die bij de maximaal met het toestel te meten oppervlakte is toegestaan.   
+2.  De onjuistheid van de aanwijzing van de gemeten oppervlakte mag bedragen: bij ijk 1%; bij herijk 2%; terwijl de fout niet kleiner behoeft te zijn dan 1/5 van de fout, die bij de maximaal met het toestel te meten oppervlakte is toegestaan.  
 
 ####Inhoudsmaten
 
@@ -161,13 +161,13 @@ d. De afwijking tussen de index en de nulstreep mag bij tegen elkaar geschoven d
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
-| 0,05  | liter  | 0,5  | cm <sup>3</sup>  |
-| 0,1 en 0,2  | liter  | 1  | cm <sup>3</sup>  |
-| 0,25  | liter  | 1,25  | cm <sup>3</sup>  |
-| 0,5  | liter  | 2,5  | cm <sup>3</sup>  |
-| 1 liter en meer  | 2,5  | cm <sup>3</sup> per liter  |
+| 0,05  | liter  | 0,5  | cm<sup>3</sup>   |
+| 0,1 en 0,2  | liter  | 1  | cm<sup>3</sup>   |
+| 0,25  | liter  | 1,25  | cm<sup>3</sup>   |
+| 0,5  | liter  | 2,5  | cm<sup>3</sup>   |
+| 1 liter en meer  | 2,5  | cm<sup>3</sup> per liter  |
 
-2.  Bij herijk zijn de toegelaten verschillen twee maal zo groot als die vermeld in het eerste lid.   
+2.  Bij herijk zijn de toegelaten verschillen twee maal zo groot als die vermeld in het eerste lid.  
 
 ####Meetglazen, meetemmers en meetwerktuigen voor volumemeting
 
@@ -178,17 +178,17 @@ d. De afwijking tussen de index en de nulstreep mag bij tegen elkaar geschoven d
 | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|
 | --- | tot  | 0,025  | liter  | 4%  |
-| van  | 0,025  | tot  | 0,05  | liter  | 1 cm <sup>3</sup>  |
+| van  | 0,025  | tot  | 0,05  | liter  | 1 cm<sup>3</sup>   |
 | van  | 0,05  | tot  | 0,1  | liter  | 2%  |
-| van  | 0,1  | tot  | 0,2  | liter  | 2 cm <sup>3</sup>  |
+| van  | 0,1  | tot  | 0,2  | liter  | 2 cm<sup>3</sup>   |
 | van  | 0,2  | tot  | 0,5  | liter  | 1%  |
-| van  | 0,5  | tot  | 1  | liter  | 5 cm <sup>3</sup>  |
+| van  | 0,5  | tot  | 1  | liter  | 5 cm<sup>3</sup>   |
 | van  | 1  | tot  | 10  | liter  | 0,5%  |
-| van  | 10  | tot  | 20  | liter  | 50 cm <sup>3</sup>  |
+| van  | 10  | tot  | 20  | liter  | 50 cm<sup>3</sup>   |
 | van  | 20 liter en meer  | liter  | 0.25%  |
 
 echter behoeven de fouten niet kleiner te zijn dan de helft van de toegelaten fout voor de gehele metende ruimte.   
-2.  Bij herijk zijn de toegelaten fouten twee maal zo groot als die vermeld in het eerste lid.   
+2.  Bij herijk zijn de toegelaten fouten twee maal zo groot als die vermeld in het eerste lid.  
 
 ####Gewichten voor gewone weging
 
@@ -248,7 +248,7 @@ a. de vorm van een rechte, nagenoeg gelijkzijdige cirkelcilinder, centraal doorb
 
 b. de vorm van een platte ring, met geringe speling passend om de staaf, genoemd onder a.     
 3.  De vrije ruimte van de boring onder de staaf, bestemd voor de justering, moet bij ijk ten minste tot het midden van de cilinder reiken. De ringvormige gewichten mogen een van schroefdraad voorziene justeeropening hebben in de platte kant, waarop de vermelding van de zwaarte niet voorkomt. De vermelding van de zwaarte is bij de cilindervormige gewichten in het bovenvlak van de cilinder, bij de ringvormige in een der platte kanten gestempeld. Bij de cilindervormige gewichten mag bovendien in het bovenvlak, diametraal tegenover de vermelding van de zwaarte, een beknopte aanduiding van de samenstelling van het deeg, dat met de gewichten afgewogen wordt, ingestempeld zijn. Een weinig in het oog vallend fabrieksmerk is bij de cilindervormige gewichten in het grondvlak, bij de ringvormige gewichten in de platte kant, waarop de vermelding van de zwaarte niet voorkomt, gestempeld.   
-4.  Voor de afwijking van de op het gewicht vernielde zwaarte geldt het bepaalde in lid 4 van artikel 21, met dien verstande, dat voor een gewicht met een nominale zwaarte gelegen tussen twee opeenvolgende der in de tabel van artikel 21, lid 4 genoemde gewichten een afwijking toegestaan is, gelijk aan die voor het grootste der twee.   
+4.  Voor de afwijking van de op het gewicht vernielde zwaarte geldt het bepaalde in lid 4 van artikel 21, met dien verstande, dat voor een gewicht met een nominale zwaarte gelegen tussen twee opeenvolgende der in de tabel van artikel 21, lid 4 genoemde gewichten een afwijking toegestaan is, gelijk aan die voor het grootste der twee.  
 
 ####Gewichten voor fijne weging
 
@@ -270,7 +270,7 @@ b. de vorm van een platte ring, met geringe speling passend om de staaf, genoemd
 | bij ijk van 0 tot  | 30  | 20  | 15  | 10  | 10  | 5  | 5  | 2  | 2 mg  |
 | bij herijk van 0 tot  | 60  | 40  | 3  | 20  | 20  | 10  | 10  | 2  | 2 mg  |
 
-met dien verstande dat de gewichten van 2 en 1 gram bij herijk 1 mg te licht mogen zijn.   
+met dien verstande dat de gewichten van 2 en 1 gram bij herijk 1 mg te licht mogen zijn.  
 
 ### Artikel  24  
 
@@ -314,7 +314,7 @@ c. de bestendigheid. Bij meerdere achtereenvolgende wegingen met dezelfde belast
 
 7. Kabeltrekweegwerktuigen zijn weegwerktuigen voor gewone weging; evenwel behoeft bij deze weegwerktuigen de fout nooit kleiner te zijn dan die toegestaan voor een belasting gelijk aan de helft van het weegvermogen. Als fout wordt hier aangenomen de fout van het gemiddelde van tien achtereenvolgende wegingen van dezelfde belasting. Voor een enkele weging is een twee maal zo grote fout toegestaan.  
 
-8. Babyweegschalen en personenweegschalen, uitgerust met schuifgewicht, zijn weegwerktuigen voor gewone weging: evenwel behoeft bij deze weegwerktuigen de fout niet kleiner te zijn dan die toegestaan voor een belasting gelijk aan het halve weegvermogen.     
+8. Babyweegschalen en personenweegschalen, uitgerust met schuifgewicht, zijn weegwerktuigen voor gewone weging: evenwel behoeft bij deze weegwerktuigen de fout niet kleiner te zijn dan die toegestaan voor een belasting gelijk aan het halve weegvermogen.    
 
 ####Weegmachines (automatische weegwerktuigen)
 
@@ -338,9 +338,9 @@ c. de bestendigheid. Bij meerdere achtereenvolgende wegingen met dezelfde belast
 
 terwijl bovendien voor de weegmachines met een weegvermogen van 5 kg of hoger de fout van het gemiddelde van 10 achtereenvolgende wegingen van dezelfde belasting niet hoger mag zijn dan 1°/0o der belasting en bij weegmachines voor kunstmeststoffen, cement, soda en dergelijke stuivende minerale stoffen de fout het dubbele van de uit het voorgaande afgeleide waarde mag bedragen.   
 2.  Bij weegmachines voor wegen (gewichtsbepaling van ongelijke massa's) mag de fout van de afzonderlijke weging bij ijk bij elke belasting ten hoogste bedragen 4°/oo der belasting, terwijl bovendien de fout van het gemiddelde van 10 achtereenvolgende wegingen van dezelfde belasting ten hoogste mag bedragen 3°/00 der belasting.   
-3.  Bij herijk zijn de toelaatbare fouten anderhalf maal zo groot als in de leden 1. en 2. aangegeven.   
+3.  Bij herijk zijn de toelaatbare fouten anderhalf maal zo groot als in de leden 1. en 2. aangegeven.  
 
 ### Artikel  27  
 
 1.  Deze regeling berust op artikel 17 van de IJkwet BES.   
-2.  Deze regeling wordt aangehaald als: Reglement op de maten, gewichten, meet- en weegwerktuigen BES.   
+2.  Deze regeling wordt aangehaald als: Reglement op de maten, gewichten, meet- en weegwerktuigen BES.  

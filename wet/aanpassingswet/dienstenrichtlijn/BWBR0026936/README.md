@@ -10,78 +10,96 @@ Alzo Wij in overweging genomen hebben, dat het noodzakelijk is diverse wetten aa
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 28-12-2011 
 
-Wijzigt de Wet tegemoetkoming schade bij rampen en zware ongevallen.   
+Wijzigt de Wet tegemoetkoming schade bij rampen en zware ongevallen. 
 
 ### Artikel  Ia  
+Materieel uitgewerkt per 28-12-2011 
 
-Wijzigt het Burgerlijk Wetboek Boek 6.   
+Wijzigt het Burgerlijk Wetboek Boek 6. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 28-12-2011 
 
-Wijzigt de Wet particuliere beveiligingsorganisaties en recherchebureaus.   
+Wijzigt de Wet particuliere beveiligingsorganisaties en recherchebureaus. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 28-12-2011 
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.   
+Wijzigt het Wetboek van Burgerlijke Rechtsvordering. 
 
 ### Artikel  IIIa  
+Materieel uitgewerkt per 28-12-2011 
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten. 
 
 ### Artikel  IIIb  
+Materieel uitgewerkt per 28-12-2011 
 
-Wijzigt de Algemene wet erkenning EG-beroepskwalificaties.   
+Wijzigt de Algemene wet erkenning EG-beroepskwalificaties. 
 
 ### Artikel  IIIc  
+Materieel uitgewerkt per 28-12-2011 
 
-Wijzigt de Monumentenwet 1988.   
+Wijzigt de Monumentenwet 1988. 
 
 ### Artikel  IIId  
+Materieel uitgewerkt per 28-12-2011 
 
-Wijzigt de Wet algemene bepalingen omgevingsrecht.   
+Wijzigt de Wet algemene bepalingen omgevingsrecht. 
 
 ### Artikel  IIIe  
+Materieel uitgewerkt per 28-12-2011 
 
-Wijzigt de Wet op de architectentitel.   
+Wijzigt de Wet op de architectentitel. 
 
 ### Artikel  IV  
+Materieel uitgewerkt per 28-12-2011 
 
-Wijzigt de Wet milieubeheer.   
+Wijzigt de Wet milieubeheer. 
 
 ### Artikel  V  
+Materieel uitgewerkt per 28-12-2011 
 
-Wijzigt de Wet geurhinder en veehouderij.   
+Wijzigt de Wet geurhinder en veehouderij. 
 
 ### Artikel  VI  
+Materieel uitgewerkt per 28-12-2011 
 
-Wijzigt de Handelsregisterwet 2007.   
+Wijzigt de Handelsregisterwet 2007. 
 
 ### Artikel  VII  
+Materieel uitgewerkt per 28-12-2011 
 
-Wijzigt de Colportagewet.   
+Wijzigt de Colportagewet. 
 
 ### Artikel  VIII  
+Materieel uitgewerkt per 28-12-2011 
 
-Wijzigt de Dienstenwet.   
+Wijzigt de Dienstenwet. 
 
 ### Artikel  VIIIa  
+Materieel uitgewerkt per 28-12-2011 
 
-Wijzigt de Telecommunicatiewet.   
+Wijzigt de Telecommunicatiewet. 
 
 ### Artikel  IX  
+Materieel uitgewerkt per 28-12-2011 
 
-Wijzigt de Flora- en faunawet.   
+Wijzigt de Flora- en faunawet. 
 
 ### Artikel  X  
+Materieel uitgewerkt per 28-12-2011 
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  XI  
+Materieel uitgewerkt per 28-12-2011 
 
-Deze wet wordt aangehaald als: Aanpassingswet dienstenrichtlijn.  
+Deze wet wordt aangehaald als: Aanpassingswet dienstenrichtlijn. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 23 december 2009  

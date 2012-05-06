@@ -15,28 +15,28 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Reglement rijbewijzen.   
+Wijzigt het Reglement rijbewijzen. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit rijonderricht motorrijtuigen.   
+Wijzigt het Besluit rijonderricht motorrijtuigen. 
 
 ### Artikel  III  
 
 1.  In afwijking van [artikel 48c van het Reglement rijbewijzen](../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) wordt voor bestuurders als bedoeld in [artikel 156q, eerste lid, onder a, van het Reglement rijbewijzen](../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) die de nascholing hebben afgerond vóór 10 september 2015 als einddatum van het op het af te geven rijbewijs te vermelden getuigschrift van nascholing 10 september 2020 vermeld.   
-2.  In afwijking van [artikel 48c van het Reglement rijbewijzen](../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) wordt voor bestuurders als bedoeld in [artikel 156q, eerste lid, onder b, van het Reglement rijbewijzen](../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) die de nascholing hebben afgerond vóór 10 september 2016 als einddatum van het op het af te geven rijbewijs te vermelden getuigschrift van nascholing 10 september 2021 vermeld.   
+2.  In afwijking van [artikel 48c van het Reglement rijbewijzen](../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) wordt voor bestuurders als bedoeld in [artikel 156q, eerste lid, onder b, van het Reglement rijbewijzen](../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) die de nascholing hebben afgerond vóór 10 september 2016 als einddatum van het op het af te geven rijbewijs te vermelden getuigschrift van nascholing 10 september 2021 vermeld.  
 
 ### Artikel  IV  
 
-In afwijking van [artikel 100, derde lid, eerste volzin, van het Reglement rijbewijzen](../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) mag een aanvrager van een rijbewijs dat geldig is voor een of meer van de rijbewijscategorieën C, C1, D, D1, E bij C, E bij C1, E bij D of E bij D1 tot 10 september 2016 een niet langer dan twee jaren voor de aanvraag getekend geneeskundig verslag volgens het door het CBR vastgesteld model overleggen.  
+In afwijking van [artikel 100, derde lid, eerste volzin, van het Reglement rijbewijzen](../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) mag een aanvrager van een rijbewijs dat geldig is voor een of meer van de rijbewijscategorieën C, C1, D, D1, E bij C, E bij C1, E bij D of E bij D1 tot 10 september 2016 een niet langer dan twee jaren voor de aanvraag getekend geneeskundig verslag volgens het door het CBR vastgesteld model overleggen. 
 
 ### Artikel  V  
 
-Wijzigt het Arbeidstijdenbesluit vervoer.   
+Wijzigt het Arbeidstijdenbesluit vervoer. 
 
 ### Artikel  VI  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

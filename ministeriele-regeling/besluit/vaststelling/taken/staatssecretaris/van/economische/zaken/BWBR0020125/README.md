@@ -7,6 +7,7 @@ Gelet op [artikel 46, tweede lid, van de Grondwet](../../../../../../../../../we
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-09-2012 
 
 De Staatssecretaris van Economische Zaken, mw. ir. C.E.G. Van Gennip MBA, is binnen de grenzen van het door de Minister van Economische Zaken vastgestelde beleid in het bijzonder belast met: 
 
@@ -44,19 +45,21 @@ j. de toeristische bedrijvigheid en het bevorderen van het toerisme naar en in N
 
 k. de kamers van koophandel en fabrieken;  
 
-l. andere aangelegenheden waarvan behartiging door de minister aan haar wordt toevertrouwd.   De staatssecretaris is mede betrokken bij het informatie (ICT) en telecombeleid, met name waar dit gericht is op startende ondernemers, en heeft mede zitting in de RWTI.  
+l. andere aangelegenheden waarvan behartiging door de minister aan haar wordt toevertrouwd.   De staatssecretaris is mede betrokken bij het informatie (ICT) en telecombeleid, met name waar dit gericht is op startende ondernemers, en heeft mede zitting in de RWTI. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-09-2012 
 
-De staatssecretaris voert in de contacten, die hij bij de behartiging van de in artikel 1 onder a en b genoemde aangelegenheden met buitenlanders heeft, de titel: Minister voor Buitenlandse Handel.  
+De staatssecretaris voert in de contacten, die hij bij de behartiging van de in artikel 1 onder a en b genoemde aangelegenheden met buitenlanders heeft, de titel: Minister voor Buitenlandse Handel. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-09-2012 
 
-Dit besluit wordt in de Staatscourant bekend gemaakt.  
+Dit besluit wordt in de Staatscourant bekend gemaakt. 
 
 Den Haag 
 21 juli 2006   
 
 De 
 Minister van Economische Zaken, 
-J.G.Wijn   
+J.G. Wijn     

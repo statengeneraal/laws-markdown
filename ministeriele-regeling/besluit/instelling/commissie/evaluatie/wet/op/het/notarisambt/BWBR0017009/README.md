@@ -37,7 +37,7 @@ Besluit:
 
 – de leeftijdgrens van 65 jaar voor het uitoefenen van het notarisambt voldoet;  
 
-– het mogelijk is om via pro-competitieve maatregelen de positie van de consument te versterken door het vergroten van hun keuzevrijheid met betrekking tot de notariële dienstverlening en het bevorderen van transparantie in de verhouding prijs en kwaliteit.     
+– het mogelijk is om via pro-competitieve maatregelen de positie van de consument te versterken door het vergroten van hun keuzevrijheid met betrekking tot de notariële dienstverlening en het bevorderen van transparantie in de verhouding prijs en kwaliteit.    
 
 ### Artikel  2  
 
@@ -69,16 +69,16 @@ d. Secretariaat:
 
 – Mr. P. Dessé, werkzaam bij de directie Toegang Rechtsbestel, Ministerie van Justitie, secretaris;  
 
-– Mr. C.P. Bierhuize, werkzaam bij de directie Toegang Rechtsbestel, Ministerie van Justitie, adjunctsecretaris.     In de commissie hebben zitting:  
+– Mr. C.P. Bierhuize, werkzaam bij de directie Toegang Rechtsbestel, Ministerie van Justitie, adjunctsecretaris.    In de commissie hebben zitting: 
 
 ### Artikel  3  
 
 1.  De commissie zal vóór 1 juli 2005 haar rapport aan de Minister van Justitie uitbrengen.   
-2.  De commissie zal aan de Minister advies uitbrengen met betrekking tot de in artikel 1, tweede lid, vermelde onderwerpen, en indien haar onderzoek daartoe aanleiding geeft, andere onderwerpen die in de wet geregeld moeten worden in verband met de goede vervulling van het notarisambt.   
+2.  De commissie zal aan de Minister advies uitbrengen met betrekking tot de in artikel 1, tweede lid, vermelde onderwerpen, en indien haar onderzoek daartoe aanleiding geeft, andere onderwerpen die in de wet geregeld moeten worden in verband met de goede vervulling van het notarisambt.  
 
 ### Artikel  4  
 
-De leden van de Commissie evaluatie Wet op het notarisambt ontvangen vacatiegelden op basis van het [Vacatiegeldenbesluit 1988](../../../../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) en de daarop voor het Ministerie van Justitie geldende bepalingen, waarbij de Commissie als ‘zwaar’ in de zin van het [Vacatiegeldenbesluit 1988](../../../../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) wordt aangemerkt. Daarnaast hebben zij recht op vergoeding wegens reis- en verblijfkosten overeenkomstig het [Reisbesluit binnenland](../../../../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md).  
+De leden van de Commissie evaluatie Wet op het notarisambt ontvangen vacatiegelden op basis van het [Vacatiegeldenbesluit 1988](../../../../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) en de daarop voor het Ministerie van Justitie geldende bepalingen, waarbij de Commissie als ‘zwaar’ in de zin van het [Vacatiegeldenbesluit 1988](../../../../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) wordt aangemerkt. Daarnaast hebben zij recht op vergoeding wegens reis- en verblijfkosten overeenkomstig het [Reisbesluit binnenland](../../../../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md). 
 Dit besluit wordt gepubliceerd in de Staatscourant.   
 
 Den Haag 
@@ -86,4 +86,4 @@ Den Haag
 
 De 
 Minister van Justitie, 
-J.P.H.Donner    
+J.P.H. Donner      

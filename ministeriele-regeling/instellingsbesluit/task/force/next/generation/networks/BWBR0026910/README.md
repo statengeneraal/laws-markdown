@@ -10,9 +10,9 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *de staatssecretaris:* de Staatssecretaris van Economische Zaken;  
+a.  *de staatssecretaris:* de Staatssecretaris van Economische Zaken;  
 
-b. *Task Force:* de Task Force Next Generation Networks.    
+b.  *Task Force:* de Task Force Next Generation Networks.   
 
 ### Artikel  2  
 
@@ -28,18 +28,18 @@ c) in het advies expliciet aandacht besteden aan de do’s en dont’s zodanig d
 
 d) in het advies inzicht geven in de voorziene behoefte aan (diensten) en groeipotentie van Next Generation Networks tussen 2015 en 2020.  
 
-e) in het advies ingaan op de mogelijkheden voor decentrale overheden om diensteninnovatie te stimuleren en aan te geven welke randvoorwaarden hiervoor gewenst zijn.     
+e) in het advies ingaan op de mogelijkheden voor decentrale overheden om diensteninnovatie te stimuleren en aan te geven welke randvoorwaarden hiervoor gewenst zijn.    
 
 ### Artikel  3  
 
 1.  De Task Force zal het advies uiterlijk vóór 1 maart 2010 uitbrengen aan de staatssecretaris.   
-2.  De Task Force zal vóór 1 februari 2010 een tussenrapportage uit brengen aan de staatssecretaris.   
+2.  De Task Force zal vóór 1 februari 2010 een tussenrapportage uit brengen aan de staatssecretaris.  
 
 ### Artikel  4  
 
 1.  De Task Force bestaat uit een voorzitter en 5 andere leden.   
 2.  De voorzitter en de andere leden worden door de staatssecretaris benoemd. De voorzitter en de andere leden kunnen door de staatssecretaris worden geschorst en ontslagen.   
-3.  De leden brengen op persoonlijke titel hun kennis en ervaring in en treden niet op als vertegenwoordiger van een specifieke belangengroep.   
+3.  De leden brengen op persoonlijke titel hun kennis en ervaring in en treden niet op als vertegenwoordiger van een specifieke belangengroep.  
 
 ### Artikel  5  
 
@@ -47,7 +47,7 @@ e) in het advies ingaan op de mogelijkheden voor decentrale overheden om dienste
 2.  De staatssecretaris voorziet in het secretariaat van de Task Force.   
 3.  De staatssecretaris kan een waarnemer aanwijzen, die het recht heeft de vergaderingen van de Task Force bij te wonen.   
 4.  Het beheer van de bescheiden betreffende de werkzaamheden van de Task Force geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken. De bescheiden worden na beëindiging van de werkzaamheden van de Task Force bewaard in het archief van dat ministerie.   
-5.  De Task Force verstrekt desgevraagd aan de staatssecretaris de voor de uitoefening van zijn taak benodigde inlichtingen. De staatssecretaris kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.   
+5.  De Task Force verstrekt desgevraagd aan de staatssecretaris de voor de uitoefening van zijn taak benodigde inlichtingen. De staatssecretaris kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.  
 
 ### Artikel  6  
 
@@ -63,20 +63,20 @@ d. mevrouw mr. dr. A.E.H. Huygen, te Leiden;
 
 e. de heer ir. A.V.M. Pouw, te Amsterdam;  
 
-f. de heer ir. N.W.P. Rauwenhoff, te Bussum.    
+f. de heer ir. N.W.P. Rauwenhoff, te Bussum.   
 
 ### Artikel  7  
 
 1.  Aan de voorzitter van de Task Force wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op (het maximum van) schaal 18 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en een arbeidsduurfactor op 0.11.   
-2.  Aan de andere leden van de Task Force wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 16 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en een arbeidsduurfactor op 0.11.   
+2.  Aan de andere leden van de Task Force wordt een vaste vergoeding per maand toegekend, waarbij de salarisschaal wordt vastgesteld op schaal 16 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en een arbeidsduurfactor op 0.11.  
 
 ### Artikel  8  
 
-Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 december 2009.  
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 december 2009. 
 
 ### Artikel  9  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Task Force Next Generation Networks.  
+Dit besluit wordt aangehaald als: Instellingsbesluit Task Force Next Generation Networks. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.   
 
 Den Haag 
@@ -84,4 +84,4 @@ Den Haag
 
 De 
 Staatssecretaris van Economische Zaken, 
-F.Heemskerk   
+F. Heemskerk     

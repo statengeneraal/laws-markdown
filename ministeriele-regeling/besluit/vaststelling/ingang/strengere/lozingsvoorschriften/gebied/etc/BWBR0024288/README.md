@@ -8,10 +8,10 @@ Besluit:
 
 ### Enig  artikel  
 
-De voorschriften 15 en 34 van Bijlage I van het Verdrag wat betreft lozingen in bijzondere gebieden worden met ingang van 1 augustus 2008 van toepassing in het gebied van de Zuidelijke Zuid-Afrikaanse wateren, bedoeld in voorschrift 1 van die Bijlage.  
+De voorschriften 15 en 34 van Bijlage I van het Verdrag wat betreft lozingen in bijzondere gebieden worden met ingang van 1 augustus 2008 van toepassing in het gebied van de Zuidelijke Zuid-Afrikaanse wateren, bedoeld in voorschrift 1 van die Bijlage. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Verkeer en Waterstaat, namens deze: de 
-Secretaris-Generaal, 
-W.J.Kuijken   
+Secretaris-Generaal,
+W.J. Kuijken     

@@ -10,19 +10,19 @@ Besluit:
 
 ### Artikel  1  
 
-Het percentage, bedoeld in [artikel 6, vijfde lid, van de Regeling Naturalisatietoets Nederland](../../../../../../../../../../ministeriele-regeling/regeling/naturalisatietoets/nederland/BWBR0021067/README.md) wordt voor de bepaling van de hoogte van het kosten voor het haalbaarheidsonderzoek voor het jaar 2010 vastgesteld op 2,4%.  
+Het percentage, bedoeld in [artikel 6, vijfde lid, van de Regeling Naturalisatietoets Nederland](../../../../../../../../../../ministeriele-regeling/regeling/naturalisatietoets/nederland/BWBR0021067/README.md) wordt voor de bepaling van de hoogte van het kosten voor het haalbaarheidsonderzoek voor het jaar 2010 vastgesteld op 2,4%. 
 
 ### Artikel  2  
 
-Deze beschikking en de daarbij behorende toelichting worden bekend gemaakt in de Staatscourant.  
+Deze beschikking en de daarbij behorende toelichting worden bekend gemaakt in de Staatscourant. 
 
 ### Artikel  3  
 
-Deze beschikking treedt in werking op 1 januari 2010. Zij wordt aangehaald als: Beschikking wijzigingspercentage haalbaarheidsonderzoek in het kader van de Regeling Naturalisatietoets Nederland.  
+Deze beschikking treedt in werking op 1 januari 2010. Zij wordt aangehaald als: Beschikking wijzigingspercentage haalbaarheidsonderzoek in het kader van de Regeling Naturalisatietoets Nederland. 
 
 Den Haag 
 22 december 2009   
 
 De 
 Minister van Justitie, 
-E.M.H.Hirsch Ballin   
+E.M.H. Hirsch Ballin     

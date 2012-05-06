@@ -11,20 +11,20 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Uitvoeringswet huurprijzen woonruimte.   
+Wijzigt de Uitvoeringswet huurprijzen woonruimte. 
 
 ### Artikel  II  
 
-Wijzigt Boek 7 van het Burgerlijk Wetboek.   
+Wijzigt Boek 7 van het Burgerlijk Wetboek. 
 
 ### Artikel  III  
 
 1.  De huurcommissie, bedoeld in [artikel 21 van de Uitvoeringswet huurprijzen woonruimte](../../../../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), behandelt een bij haar aanhangig verzoek als bedoeld in [artikel 253 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) dat betrekking heeft op een voorstel tot verhoging van de huurprijs als bedoeld in [artikel 252 van dat boek](../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) met ingang van 1 juli 2006 of een latere datum, met toepassing van het na de inwerkingtreding van deze wet geldende recht.   
-2.  De huurcommissie behandelt in alle andere gevallen dan bedoeld in het eerste lid een bij haar aanhangig verzoek met toepassing van het op het tijdstip van het bij haar aanhangig maken geldende recht.   
+2.  De huurcommissie behandelt in alle andere gevallen dan bedoeld in het eerste lid een bij haar aanhangig verzoek met toepassing van het op het tijdstip van het bij haar aanhangig maken geldende recht.  
 
 ### Artikel  IV  
 
-Deze wet treedt in werking met ingang van 1 juli 2006.  
+Deze wet treedt in werking met ingang van 1 juli 2006. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

@@ -8,15 +8,15 @@ Besluit:
 
 ### Artikel  1  
 
-Als ambtenaren belast met het toezicht op de naleving van de bepalingen, bedoeld in [artikel 24, eerste lid, van de Wet informatie-uitwisseling ondergrondse netten](../../../../../../../../wet/wet/informatie-uitwisseling/ondergrondse/netten/BWBR0023775/README.md), worden aangewezen de ambtenaren met de functiebenamingen inspecteur, medewerker handhaving, senior medewerker handhaving, coördinator toezicht grondroerdersregeling, sanctiemedewerker en beleidsmedewerker van de hoofdafdeling Toezicht van het Agentschap Telecom van het Ministerie van Economische Zaken.  
+Als ambtenaren belast met het toezicht op de naleving van de bepalingen, bedoeld in [artikel 24, eerste lid, van de Wet informatie-uitwisseling ondergrondse netten](../../../../../../../../wet/wet/informatie-uitwisseling/ondergrondse/netten/BWBR0023775/README.md), worden aangewezen de ambtenaren met de functiebenamingen inspecteur, medewerker handhaving, senior medewerker handhaving, coördinator toezicht grondroerdersregeling, sanctiemedewerker en beleidsmedewerker van de hoofdafdeling Toezicht van het Agentschap Telecom van het Ministerie van Economische Zaken. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van 1 juli 2008.  
+Dit besluit treedt in werking met ingang van 1 juli 2008. 
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders Wet informatie-uitwisseling ondergrondse netten.  
+Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders Wet informatie-uitwisseling ondergrondse netten. 
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -24,4 +24,4 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-M.J.A. van derHoeven   
+M.J.A. van der  Hoeven     

@@ -22,16 +22,16 @@ c. vergunning: vergunning voor gebruik van frequentieruimte als bedoeld in [arti
 d. vergunninghouder: houder van een vergunning als bedoeld onder c;  
 
 e. toezichthouders: ambtenaren als bedoeld in [artikel 2, eerste lid, van het Besluit aanwijzing toezichthouders Telecommunicatiewet](../../../../../../ministeriele-regeling/besluit/aanwijzing/toezichthouders/telecommunicatiewet/BWBR0010033/README.md);     
-2.  De definities in de vergunningen, bedoeld in het eerste lid, onderdeel c, zijn van toepassing.   
+2.  De definities in de vergunningen, bedoeld in het eerste lid, onderdeel c, zijn van toepassing.  
 
 ### Artikel  2  
 
-Deze beleidsregel geeft aan op welke wijze de Minister van Economische Zaken de voorschriften betreffende dekking en minimum serviceniveau, genoemd in artikel 3, onderdeel b, van de vergunning, bestuursrechtelijk zal handhaven.  
+Deze beleidsregel geeft aan op welke wijze de Minister van Economische Zaken de voorschriften betreffende dekking en minimum serviceniveau, genoemd in artikel 3, onderdeel b, van de vergunning, bestuursrechtelijk zal handhaven. 
 
 ### Artikel  3  
 
 1.  Ter vaststelling of de vergunninghouder voldoet aan de voorschriften betreffende dekking en minimum serviceniveau, genoemd in artikel 3, onderdeel b, van de vergunning, worden op driehonderd verschillende locaties in Nederland metingen verricht.   
-2.  De metingen geschieden overeenkomstig de in de bijlage opgenomen meetmethode.   
+2.  De metingen geschieden overeenkomstig de in de bijlage opgenomen meetmethode.  
 
 ### Artikel  4  
 
@@ -53,7 +53,7 @@ f. € 1.875.000,– per kwartaal met een maximum van € 15.000.000,– indie
 g. € 1.250.000,– per kwartaal met een maximum van € 10.000.000,– indien het behaalde dekkingspercentage groter of gelijk is aan 74% en kleiner is dan 86%;  
 
 h. € 625.000,– per kwartaal met een maximum van € 5.000.000,– indien het behaalde dekkingspercentage groter of gelijk is aan 86% en kleiner is dan 98%.     
-3.  De last, bedoeld in het eerste lid, houdt in dat de overtreder op de meetlocaties, waar geen dekking is geconstateerd binnen de gestelde termijn dekking moet hebben gerealiseerd.   
+3.  De last, bedoeld in het eerste lid, houdt in dat de overtreder op de meetlocaties, waar geen dekking is geconstateerd binnen de gestelde termijn dekking moet hebben gerealiseerd.  
 
 ### Artikel  5  
 
@@ -76,13 +76,13 @@ g. € 125.000,– per kwartaal met een maximum van € 1.000.000,– indien h
 
 h. € 62.500,– per kwartaal met een maximum van € 500.000,– indien het gehaalde minimum serviceniveau groter of gelijk is aan 84% en kleiner is dan 93,1%.     
 3.  Bij de toepassing van het eerste en tweede lid worden locaties waar geen dekking is geconstateerd niet aangemerkt als locaties waar niet voldaan wordt aan het minimum serviceniveau.   
-4.  De last, bedoeld in het eerste lid, houdt in dat de overtreder op de meetlocaties, waar is geconstateerd dat de overtreder niet heeft voldaan aan het minimum serviceniveau genoemd in het eerste lid, binnen de gestelde termijn het minimum serviceniveau moet hebben gerealiseerd.   
+4.  De last, bedoeld in het eerste lid, houdt in dat de overtreder op de meetlocaties, waar is geconstateerd dat de overtreder niet heeft voldaan aan het minimum serviceniveau genoemd in het eerste lid, binnen de gestelde termijn het minimum serviceniveau moet hebben gerealiseerd.  
 
 ### Artikel  6  
 
 1.  Alvorens een last onder dwangsom aan een overtreder wordt opgelegd, wordt overeenkomstig [artikel 4:8 Awb](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) aan hem een voornemen tot oplegging van een last onder dwangsom verzonden. De overtreder wordt in de gelegenheid gesteld om binnen een maand na dagtekening van dit voornemen mondeling of schriftelijk zijn zienswijze ten aanzien daarvan te uiten.   
 2.  De termijn die de overtreder wordt gegund om aan een last te voldoen alvorens hij de dwangsom voor de eerste maal verbeurt, bedraagt drie maanden.   
-3.  In afwijking van het tweede lid kan een langere termijn worden gegund indien de overtreder binnen een maand aantoont dat hij redelijkerwijs niet binnen de termijn van drie maanden aan de last kan voldoen.   
+3.  In afwijking van het tweede lid kan een langere termijn worden gegund indien de overtreder binnen een maand aantoont dat hij redelijkerwijs niet binnen de termijn van drie maanden aan de last kan voldoen.  
 
 ### Artikel  7  
 
@@ -91,21 +91,21 @@ h. € 62.500,– per kwartaal met een maximum van € 500.000,– indien het 
 
 a. aan de vergunninghouder een voornemen tot intrekking is verzonden en de overtreder hierbij de mogelijkheid is geboden om binnen een maand na dagtekening van deze brief mondeling of schriftelijk zijn zienswijze ten aanzien van genoemd voornemen naar voren te brengen, en  
 
-b. de onder a genoemde termijn is verstreken zonder dat de vergunninghouder de overtreding heeft beëindigd.     
+b. de onder a genoemde termijn is verstreken zonder dat de vergunninghouder de overtreding heeft beëindigd.    
 
 ### Artikel  8  
 
-Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze beleidsregel treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  9  
 
-Deze beleidsregel wordt aangehaald als: Beleidsregel sancties frequentiegebruik UMTS.  
+Deze beleidsregel wordt aangehaald als: Beleidsregel sancties frequentiegebruik UMTS. 
 
 De 
 Staatssecretaris van Economische Zaken, 
-F.Heemskerk  
+F. Heemskerk    
 
-### Bijlage  
+### Bijlage 
 
 ####als bedoeld in artikel drie, tweede lid 
 
@@ -117,19 +117,19 @@ Om te kunnen constateren of aan de uitrolverplichting zoals die is opgenomen in 
 
 #### *Dekking:* 
 
-Allereerst wordt gemeten of in het in de vergunningsvoorschriften beschreven gebied dekking is. Onder dekking wordt verstaan de aanwezigheid van een bruikbaar hoogfrequent signaal in de diverse toegewezen UMTS-frequentiebanden. De aanwezigheid van hoogfrequente signalen zal worden geconstateerd door het gebruik van voor UMTS-geschikte meetapparatuur. Naast de aanwezigheid van UMTS-signalen zal ook worden onderzocht of mogelijk storende signalen op deze frequenties aanwezig zijn, die een (nadelige) invloed kunnen hebben op te verrichten metingen.  
+Allereerst wordt gemeten of in het in de vergunningsvoorschriften beschreven gebied dekking is. Onder dekking wordt verstaan de aanwezigheid van een bruikbaar hoogfrequent signaal in de diverse toegewezen UMTS-frequentiebanden. De aanwezigheid van hoogfrequente signalen zal worden geconstateerd door het gebruik van voor UMTS-geschikte meetapparatuur. Naast de aanwezigheid van UMTS-signalen zal ook worden onderzocht of mogelijk storende signalen op deze frequenties aanwezig zijn, die een (nadelige) invloed kunnen hebben op te verrichten metingen. 
 
 #### *Serviceniveau:* 
 
-Om het serviceniveau te bepalen zal daadwerkelijk gebruik worden gemaakt van de UMTS-netwerken van de verschillende vergunninghouders, door middel van commercieel beschikbare UMTS-abonnementen van de vergunninghouders. Tijdens de meting wordt alleen de downloadsnelheid gemeten, omdat dit het meest voorkomende internet gedrag is en de uplink technologie op dit moment door de beschikbare apparatuur beperkt is tot 64kbit/s. Bij het succesvol tot stand komen van een verbinding wordt de meting op laag 7 van het OSI model (applicatielaag) uitgevoerd en bestaat deze uit het downloaden van een binair bestand van 5Mb vanaf de server van Agentschap Telecom naar de laptop computer van de toezichthouder. Er wordt geen spraak of combinatie van spraak en data gemeten. Er wordt alleen een databestand gedownload. Het bestand is niet comprimeerbaar om te voorkomen dat tijdens de meting de diverse compressieoplossingen van de providers invloed hebben op de grootte van het bestand. Voor het downloaden wordt gebruik gemaakt van een FTP applicatie. Deze registreert tijdens de download de start en stoptijd van de sessie en de getransporteerde bytes. Deze informatie wordt opgeslagen in een logbestand die als bestandsnaam de XY coördinaten krijgt van de gemeten locatie. Deze coördinaten worden overgenomen van de bij de toezichthouder aanwezige GPS ontvanger.  
+Om het serviceniveau te bepalen zal daadwerkelijk gebruik worden gemaakt van de UMTS-netwerken van de verschillende vergunninghouders, door middel van commercieel beschikbare UMTS-abonnementen van de vergunninghouders. Tijdens de meting wordt alleen de downloadsnelheid gemeten, omdat dit het meest voorkomende internet gedrag is en de uplink technologie op dit moment door de beschikbare apparatuur beperkt is tot 64kbit/s. Bij het succesvol tot stand komen van een verbinding wordt de meting op laag 7 van het OSI model (applicatielaag) uitgevoerd en bestaat deze uit het downloaden van een binair bestand van 5Mb vanaf de server van Agentschap Telecom naar de laptop computer van de toezichthouder. Er wordt geen spraak of combinatie van spraak en data gemeten. Er wordt alleen een databestand gedownload. Het bestand is niet comprimeerbaar om te voorkomen dat tijdens de meting de diverse compressieoplossingen van de providers invloed hebben op de grootte van het bestand. Voor het downloaden wordt gebruik gemaakt van een FTP applicatie. Deze registreert tijdens de download de start en stoptijd van de sessie en de getransporteerde bytes. Deze informatie wordt opgeslagen in een logbestand die als bestandsnaam de XY coördinaten krijgt van de gemeten locatie. Deze coördinaten worden overgenomen van de bij de toezichthouder aanwezige GPS ontvanger. 
 
 #### *Werkinstructie:* 
 
-Om de meetmethode uniform toe te passen wordt gebruik gemaakt van een werkinstructie voor de toezichthouder.  
+Om de meetmethode uniform toe te passen wordt gebruik gemaakt van een werkinstructie voor de toezichthouder. 
 
 #### *Volledige beschrijving meetmethode en gebruikte apparatuur* 
 
-In het document ‘Van vergunningsvoorwaarden naar toezicht v2.0’ wordt de werkwijze bij de ontwikkelde meetmethode en de gebruikte meetapparatuur gedetailleerd beschreven. Dit document is vanaf 1 september 2007 beschikbaar en zal dan aan de vergunninghouders worden verstrekt.  
+In het document ‘Van vergunningsvoorwaarden naar toezicht v2.0’ wordt de werkwijze bij de ontwikkelde meetmethode en de gebruikte meetapparatuur gedetailleerd beschreven. Dit document is vanaf 1 september 2007 beschikbaar en zal dan aan de vergunninghouders worden verstrekt. 
 
 #### *Statistiek* 
 
@@ -137,11 +137,11 @@ Door middel van steekproeven zal worden vastgesteld of de vergunninghouders vold
 
 #### *Selectie locaties* 
 
-Met een random coördinatengenerator in Microsoft Excel is een lijst met een ruime hoeveelheid locaties verkregen die in of rond Nederland liggen. Van deze punten zijn de eerste 600 bewaard en de punten die buiten het in de vergunningsvoorschriften beschreven gebied liggen zijn verwijderd. Op de eerste 300 locaties zullen de metingen in beginsel worden verricht. De overige 300 locaties zijn bedoeld als reservelocaties, die kunnen worden gebruikt in gevallen dat van de eerste 300 meetlocaties, locaties moeten worden afgewezen. Dit kan bijvoorbeeld het geval zijn als een locatie fysiek niet bereikbaar is. De afzonderlijke locaties genoemd in de vergunningsvoorwaarden (verbindingswegen, vliegvelden, grote gemeenten) zijn gelijkwaardig. Er vindt daarom geen weging plaats van de locaties. Aangezien wegen en spoorwegen als lijn zonder breedte zijn opgeslagen in de database van het kaartmateriaal, is de kans dat op zo’n lijn een meetpunt valt zeer klein. Daarom is er uit praktische overwegingen voor gekozen dat de dekkingseis ook geldt indien de meetpunten zich op maximaal 50 meter van het midden van de hoofdverbindingswegen en de autosnelwegen bevinden. Deze praktische invulling van de dekkingseis betekent dat daaraan ook is voldaan als het meetpunt zich op maximaal 50 meter van de hoofdverbindingswegen en de autosnelwegen bevindt. Praktisch gezien zullen voor de hoofdverbindingswegen en autosnelwegen de metingen op de openbare weg, zo dicht mogelijk bij de betreffende hoofdverbindingsweg of autosnelweg, worden uitgevoerd. Deze meetlocatie mag zich maximaal 50 meter van de exacte meetlocatie bevinden. Dit om rekening te houden met het feit dat het exacte meetpunt fysiek moeilijk bereikbaar kan zijn of dat metingen op exacte meetlocaties gevaar op kunnen leveren voor de toezichthouder of andere personen. Indien aan deze ‘50 meter’ eis niet kan worden voldaan wordt de eerst beschikbare reserve meetlocatie van dezelfde categorie gebruikt. Voor de overige categorieën geldt dat als ter plaatse blijkt dat een locatie waar gemeten moet worden niet bereikbaar of ongeschikt is voor metingen, er gezocht zal worden naar de dichtstbijzijnde plek binnen een straal van 100 meter rond dit punt waar de meting wel kan worden uitgevoerd. Indien een meting dan toch onmogelijk blijkt wordt de locatie afgewezen en wordt de eerstvolgende locatie van dezelfde categorie uit de reservelijst genomen.  
+Met een random coördinatengenerator in Microsoft Excel is een lijst met een ruime hoeveelheid locaties verkregen die in of rond Nederland liggen. Van deze punten zijn de eerste 600 bewaard en de punten die buiten het in de vergunningsvoorschriften beschreven gebied liggen zijn verwijderd. Op de eerste 300 locaties zullen de metingen in beginsel worden verricht. De overige 300 locaties zijn bedoeld als reservelocaties, die kunnen worden gebruikt in gevallen dat van de eerste 300 meetlocaties, locaties moeten worden afgewezen. Dit kan bijvoorbeeld het geval zijn als een locatie fysiek niet bereikbaar is. De afzonderlijke locaties genoemd in de vergunningsvoorwaarden (verbindingswegen, vliegvelden, grote gemeenten) zijn gelijkwaardig. Er vindt daarom geen weging plaats van de locaties. Aangezien wegen en spoorwegen als lijn zonder breedte zijn opgeslagen in de database van het kaartmateriaal, is de kans dat op zo’n lijn een meetpunt valt zeer klein. Daarom is er uit praktische overwegingen voor gekozen dat de dekkingseis ook geldt indien de meetpunten zich op maximaal 50 meter van het midden van de hoofdverbindingswegen en de autosnelwegen bevinden. Deze praktische invulling van de dekkingseis betekent dat daaraan ook is voldaan als het meetpunt zich op maximaal 50 meter van de hoofdverbindingswegen en de autosnelwegen bevindt. Praktisch gezien zullen voor de hoofdverbindingswegen en autosnelwegen de metingen op de openbare weg, zo dicht mogelijk bij de betreffende hoofdverbindingsweg of autosnelweg, worden uitgevoerd. Deze meetlocatie mag zich maximaal 50 meter van de exacte meetlocatie bevinden. Dit om rekening te houden met het feit dat het exacte meetpunt fysiek moeilijk bereikbaar kan zijn of dat metingen op exacte meetlocaties gevaar op kunnen leveren voor de toezichthouder of andere personen. Indien aan deze ‘50 meter’ eis niet kan worden voldaan wordt de eerst beschikbare reserve meetlocatie van dezelfde categorie gebruikt. Voor de overige categorieën geldt dat als ter plaatse blijkt dat een locatie waar gemeten moet worden niet bereikbaar of ongeschikt is voor metingen, er gezocht zal worden naar de dichtstbijzijnde plek binnen een straal van 100 meter rond dit punt waar de meting wel kan worden uitgevoerd. Indien een meting dan toch onmogelijk blijkt wordt de locatie afgewezen en wordt de eerstvolgende locatie van dezelfde categorie uit de reservelijst genomen. 
 
 #### *Metingen* 
 
-Per locatie wordt voor elke vergunninghouder vastgesteld of het juiste signaal aanwezig is, met andere woorden of er dekking is. Vervolgens wordt bepaald of het minimum serviceniveau groter of gelijk is aan 144 kbit/s. Het eindresultaat per vergunninghouder wordt bepaald door 300 metingen. Een locatie waar geen dekking is wordt meegeteld als locatie waar wél serviceniveau is, dat om te voorkomen dat een vergunninghouder tweemaal gesanctioneerd zou worden: voor zowel onvoldoende dekking als onvoldoende serviceniveau.  
+Per locatie wordt voor elke vergunninghouder vastgesteld of het juiste signaal aanwezig is, met andere woorden of er dekking is. Vervolgens wordt bepaald of het minimum serviceniveau groter of gelijk is aan 144 kbit/s. Het eindresultaat per vergunninghouder wordt bepaald door 300 metingen. Een locatie waar geen dekking is wordt meegeteld als locatie waar wél serviceniveau is, dat om te voorkomen dat een vergunninghouder tweemaal gesanctioneerd zou worden: voor zowel onvoldoende dekking als onvoldoende serviceniveau. 
 
 #### *Verwerking data* 
 
@@ -149,9 +149,9 @@ Er worden twee toetsen uitgevoerd. Eén toets voor de dekking en één toets voo
 
 #### *Toets 1: Dekking* 
 
-H <sub>0</sub>: Op 98% van alle locaties is er dekking (p ≥ 0.98) H <sub>1</sub>: Op minder dan 98% van alle locaties is er dekking. (p < 0.98) Neem n = 300. Als we het resultaat van de n metingen X <sub>1</sub>, X <sub>2</sub>, ... , X <sub>n</sub> noemen, met X <sub>i</sub> ε {0,1} gaat de berekening als volgt: Bereken de som: S = X <sub>1</sub> + X <sub>2</sub> + ... + X <sub>n</sub>. Verwerp H <sub>0</sub> als blijkt dat S < 288.  
+H<sub>0</sub> : Op 98% van alle locaties is er dekking (p ≥ 0.98) H<sub>1</sub> : Op minder dan 98% van alle locaties is er dekking. (p < 0.98) Neem n = 300. Als we het resultaat van de n metingen X<sub>1</sub>, X<sub>2</sub>, ... , X<sub>n</sub> noemen, met X<sub>i</sub>ε {0,1} gaat de berekening als volgt: Bereken de som: S = X<sub>1</sub> + X<sub>2</sub> + ... + X<sub>n</sub>. Verwerp H<sub>0</sub> als blijkt dat S < 288. 
 
 #### *Toets 2: Snelheid* 
 
-Volgens de vergunningsvoorschriften dient er op 95% van de locaties in het in de vergunningsvoorschriften beschreven gebied voldoende datasnelheid te zijn. Omdat er geen datasnelheid kan zijn zonder dat er überhaupt dekking is, is er voor gekozen om te toetsen op 95% van 98% van het in de vergunningsvoorschriften beschreven gebied, ofwel 93.1%. H <sub>0</sub>: Op minimaal 93.1% van alle locaties is de snelheid minstens 144 kbits/s (p ≥ 0.931)ε <sup> 1  Waarbij de lokaties waar geen dekking is geconstateerd meetellen alsof er wél is voldaan aan het serviceniveau.  </sup> H <sub>1</sub>: Op minder dan 93.1 % van alle locaties wordt deze snelheid gehaald (p < 0.931) Uit de dekkingsmetingen is gebleken dat er op S meetpunten dekking is. Om te bepalen of er wat betreft serviceniveau een sanctie moet worden opgelegd, wordt alleen gekeken naar het resultaat van de S meetpunten waar aan de dekking is voldaan. Als we het resultaat van deze S metingen Y <sub>1</sub>, Y <sub>2</sub>, ... , Y <sub>S</sub> noemen, met Y <sub>i</sub> ε {0,1} gaat de berekening als volgt: Bereken de som: T = Y <sub>1</sub> + ... + Y <sub>s</sub> +300 - S. Verwerp H <sub>0</sub> als blijkt dat T < 268  
+Volgens de vergunningsvoorschriften dient er op 95% van de locaties in het in de vergunningsvoorschriften beschreven gebied voldoende datasnelheid te zijn. Omdat er geen datasnelheid kan zijn zonder dat er überhaupt dekking is, is er voor gekozen om te toetsen op 95% van 98% van het in de vergunningsvoorschriften beschreven gebied, ofwel 93.1%. H<sub>0</sub>: Op minimaal 93.1% van alle locaties is de snelheid minstens 144 kbits/s (p ≥ 0.931)ε<sup>1Waarbij de lokaties waar geen dekking is geconstateerd meetellen alsof er wél is voldaan aan het serviceniveau.</sup> H<sub>1</sub>: Op minder dan 93.1 % van alle locaties wordt deze snelheid gehaald (p < 0.931) Uit de dekkingsmetingen is gebleken dat er op S meetpunten dekking is. Om te bepalen of er wat betreft serviceniveau een sanctie moet worden opgelegd, wordt alleen gekeken naar het resultaat van de S meetpunten waar aan de dekking is voldaan. Als we het resultaat van deze S metingen Y<sub>1</sub>, Y<sub>2</sub>, ... , Y<sub>S</sub> noemen, met Y<sub>i</sub>ε {0,1} gaat de berekening als volgt: Bereken de som: T = Y<sub>1</sub> + ... + Y<sub>s</sub> +300 - S. Verwerp H<sub>0</sub> als blijkt dat T < 268 
 

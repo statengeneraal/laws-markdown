@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen.   
+Wijzigt het Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen.
 
 ### Artikel  II  
 
-Aanvragen om een vergunning die zijn ingediend voor de datum van inwerkingtreding van dit besluit worden aangevuld binnen een door Onze Minister te bepalen redelijke termijn overeenkomstig het [Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen](../../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), zoals dat komt te luiden na die datum.  
+Aanvragen om een vergunning die zijn ingediend voor de datum van inwerkingtreding van dit besluit worden aangevuld binnen een door Onze Minister te bepalen redelijke termijn overeenkomstig het [Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen](../../../../../../../../../AMvB/besluit/genetisch/gemodificeerde/organismen/milieubeheer/BWBR0004703/README.md), zoals dat komt te luiden na die datum. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de eerste dag van de eerste kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste dag van de eerste kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -31,7 +31,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 26 april 2004  
 Beatrix  
 
-De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer , 
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer ,  
 P. L. B. A. van Geel   
 
 de *achttiende* mei 2004 

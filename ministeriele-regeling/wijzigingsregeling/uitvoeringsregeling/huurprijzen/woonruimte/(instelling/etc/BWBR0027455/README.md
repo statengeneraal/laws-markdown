@@ -8,15 +8,15 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Uitvoeringsregeling huurprijzen woonruimte.   
+Wijzigt de Uitvoeringsregeling huurprijzen woonruimte. 
 
 ### Artikel  II  
 
-Het openbaar register, bedoeld in [artikel 9 van de Uitvoeringsregeling huurprijzen woonruimte](../../../../../../../../ministeriele-regeling/uitvoeringsregeling/huurprijzen/woonruimte/BWBR0015386/README.md), zoals die geldt met ingang van het tijdstip waarop de [wet van 23 december 2009 tot wijziging van de Uitvoeringswet huurprijzen woonruimte (instelling van een landelijke huurcommissie)](../../../../../../../../wet/wijzigingswet/uitvoeringswet/huurprijzen/woonruimte/(instelling/landelijke/etc/BWBR0027142/README.md) (Stb. 2010, 28) in werking treedt, bevat tevens de gegevens zoals die zijn opgenomen in het openbaar register, bedoeld in artikel 9 van de Uitvoeringsregeling huurprijzen woonruimte, zoals die gold vóór dat tijdstip.  
+Het openbaar register, bedoeld in [artikel 9 van de Uitvoeringsregeling huurprijzen woonruimte](../../../../../../../../ministeriele-regeling/uitvoeringsregeling/huurprijzen/woonruimte/BWBR0015386/README.md), zoals die geldt met ingang van het tijdstip waarop de [wet van 23 december 2009 tot wijziging van de Uitvoeringswet huurprijzen woonruimte (instelling van een landelijke huurcommissie)](../../../../../../../../wet/wijzigingswet/uitvoeringswet/huurprijzen/woonruimte/(instelling/landelijke/etc/BWBR0027142/README.md) (Stb. 2010, 28) in werking treedt, bevat tevens de gegevens zoals die zijn opgenomen in het openbaar register, bedoeld in artikel 9 van de Uitvoeringsregeling huurprijzen woonruimte, zoals die gold vóór dat tijdstip. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van het tijdstip waarop de [wet van 23 december 2009 tot wijziging van de Uitvoeringswet huurprijzen woonruimte (instelling van een landelijke huurcommissie)](../../../../../../../../wet/wijzigingswet/uitvoeringswet/huurprijzen/woonruimte/(instelling/landelijke/etc/BWBR0027142/README.md) (Stb. 2010, 28) in werking treedt.  
+Deze regeling treedt in werking met ingang van het tijdstip waarop de [wet van 23 december 2009 tot wijziging van de Uitvoeringswet huurprijzen woonruimte (instelling van een landelijke huurcommissie)](../../../../../../../../wet/wijzigingswet/uitvoeringswet/huurprijzen/woonruimte/(instelling/landelijke/etc/BWBR0027142/README.md) (Stb. 2010, 28) in werking treedt. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -24,4 +24,4 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister voor Wonen, Wijken en Integratie, 
-E. vanMiddelkoop   
+E. van Middelkoop     

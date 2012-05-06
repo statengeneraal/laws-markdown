@@ -13,5 +13,5 @@ I. Wijziging van het Reglement voor het waterschap Hunze en Aa’s;
 II. Bepaling van het tijdstip van inwerkingtreding van dit besluit op 1 juli 2004.       
 
 De 
-Staatssecretaris van Verkeer en Waterstaat
-M.H.Schultz van Haegen    
+Staatssecretaris van Verkeer en Waterstaat 
+M.H. Schultz van Haegen      

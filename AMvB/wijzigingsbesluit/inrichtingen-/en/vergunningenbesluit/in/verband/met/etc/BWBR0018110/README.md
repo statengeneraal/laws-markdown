@@ -11,38 +11,38 @@ Gelet op de [artikelen 1.1, derde lid](../../../../../../../../../../wet/wet/mil
 De Raad van State gehoord (advies van 21 januari 2005, nr. W08.04.0595/V);
 
 Gezien het nader rapport van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 maart 2005, nr. MJZ2005024701, Directie Juridische Zaken, Afdeling Wetgeving;
-Hebben goedgevonden en verstaan:    
+Hebben goedgevonden en verstaan:
 
-### Artikel  I  
+###Artikel I 
 
-Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer.   
+Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer.
 
-### Artikel  II  
+###Artikel II 
 
-Wijzigt het Wijzigingsbesluit Inrichtingen- en vergunningenbesluit (besluitvorming van marktwerking, deregulering en wetgevingskwaliteit).   
+Wijzigt het Wijzigingsbesluit Inrichtingen- en vergunningenbesluit (besluitvorming van marktwerking, deregulering en wetgevingskwaliteit).
 
-### Artikel  III  
+###Artikel III 
 
-Wijzigt het Besluit inzamelen afvalstoffen.   
+Wijzigt het Besluit inzamelen afvalstoffen.
 
-### Artikel  IV  
+###Artikel IV 
 
-Indien de aanvraag tot het geven van een beschikking waarop dit besluit betrekking heeft, is ingediend voor het tijdstip waarop dit besluit in werking treedt, blijft het tot dat tijdstip geldende recht, met uitzondering van de [artikelen 2.3](../../../../../../../../../../AMvB/inrichtingen-/en/vergunningenbesluit/milieubeheer/BWBR0005829/README.md), [7.2, tweede lid, onderdeel e](../../../../../../../../../../AMvB/inrichtingen-/en/vergunningenbesluit/milieubeheer/BWBR0005829/README.md), [8.3](../../../../../../../../../../AMvB/inrichtingen-/en/vergunningenbesluit/milieubeheer/BWBR0005829/README.md) en [bijlage III van het Inrichtingen- en vergunningenbesluit milieubeheer](../../../../../../../../../../AMvB/inrichtingen-/en/vergunningenbesluit/milieubeheer/BWBR0005829/README.md), van toepassing.  
+Indien de aanvraag tot het geven van een beschikking waarop dit besluit betrekking heeft, is ingediend voor het tijdstip waarop dit besluit in werking treedt, blijft het tot dat tijdstip geldende recht, met uitzondering van de [artikelen 2.3](../../../../../../../../../../AMvB/inrichtingen-/en/vergunningenbesluit/milieubeheer/BWBR0005829/README.md), [7.2, tweede lid, onderdeel e](../../../../../../../../../../AMvB/inrichtingen-/en/vergunningenbesluit/milieubeheer/BWBR0005829/README.md), [8.3](../../../../../../../../../../AMvB/inrichtingen-/en/vergunningenbesluit/milieubeheer/BWBR0005829/README.md) en [bijlage III van het Inrichtingen- en vergunningenbesluit milieubeheer](../../../../../../../../../../AMvB/inrichtingen-/en/vergunningenbesluit/milieubeheer/BWBR0005829/README.md), van toepassing.
 
-### Artikel  V  
+###Artikel V 
 
-Dit besluit treedt in werking met ingang van de dag waarop vier weken zijn verstreken sedert de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag waarop vier weken zijn verstreken sedert de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-'s-Gravenhage 
-15 maart 2005  
-Beatrix  
+'s-Gravenhage
+15 maart 2005
+Beatrix
 
-De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer , 
-P. L. B. A. van Geel   
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer ,
+P. L. B. A. vanGeel
 
-de *eenendertigste* maart 2005 
+de *eenendertigste* maart 2005
 
-De Minister van Justitie , 
-J. P. H. Donner    
+De Minister van Justitie ,
+J. P. H.Donner

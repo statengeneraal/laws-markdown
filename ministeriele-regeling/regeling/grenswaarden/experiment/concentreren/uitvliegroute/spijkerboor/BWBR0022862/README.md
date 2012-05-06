@@ -27,21 +27,21 @@ f. LVNL: Luchtverkeersleiding Nederland;
 
 g. Schiphol: N.V. Luchthaven Schiphol;  
 
-h. gebruiksjaar 2009: de periode van 1 november 2008 tot en met 31 oktober 2009;  
+h. gebruiksjaar 2009: de periode van 1 november 2008 tot en met 31 oktober 2009; 
 
-i. gebruiksjaar 2010: de periode van 1 november 2009 tot en met 31 oktober 2010.    
+i. gebruiksjaar 2010: de periode van 1 november 2009 tot en met 31 oktober 2010.  
 
 ### Artikel  2  
 
 ####Doel
 
-Het experiment beoogt gedurende de gebruiksjaren 2008, 2009 en 2010 te onderzoeken of door het verkleinen van de horizontale spreiding van de uitvliegroute Spijkerboor vanaf de Kaagbaan (baan 24) per saldo de geluidhinder voor bewoners van Hoofddorp en Nieuw-Vennep afneemt.  
+Het experiment beoogt gedurende de gebruiksjaren 2008, 2009 en 2010 te onderzoeken of door het verkleinen van de horizontale spreiding van de uitvliegroute Spijkerboor vanaf de Kaagbaan (baan 24) per saldo de geluidhinder voor bewoners van Hoofddorp en Nieuw-Vennep afneemt. 
 
 ### Artikel  3  
 
 ####Grenswaarden
 
-1.  In plaats van de grenswaarden, genoemd in [bijlage 2 van het LVB](../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md), gelden voor het gebruiksjaar 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:  Grenswaarden handhavingspunten L <sub>den</sub> [dB(A)] 
+1.  In plaats van de grenswaarden, genoemd in [bijlage 2 van het LVB](../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md), gelden voor het gebruiksjaar 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:  Grenswaarden handhavingspunten L<sub>den</sub> [dB(A)] 
 
 | Puntnummer  | X-coördinaat  | Y-coördinaat  | Grenswaarde  | Maximum grenswaarde in geval van buitengewone weersomstandigheden  |
 |:---|:---|:---|:---|:---|
@@ -58,7 +58,7 @@ Het experiment beoogt gedurende de gebruiksjaren 2008, 2009 en 2010 te onderzoek
 | 31  | 108.600  | 475.075  | 58,90  | ( 59,90 )  |
 | 34  | 103.400  | 472.225  | 57,27  | ( 58,27 )  |
 
-2.  In plaats van de grenswaarden, genoemd in [bijlage 3 van het LVB](../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md), gelden voor het gebruiksjaar 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:  Grenswaarden handhavingspunten L <sub>night</sub> [dB(A)] 
+2.  In plaats van de grenswaarden, genoemd in [bijlage 3 van het LVB](../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md), gelden voor het gebruiksjaar 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:  Grenswaarden handhavingspunten L<sub>night</sub> [dB(A)] 
 
 | Puntnummer  | X-coördinaat  | Y-coördinaat  | Grenswaarde  | Maximum grenswaarde in geval van buitengewone weersomstandigheden  |
 |:---|:---|:---|:---|:---|
@@ -68,7 +68,7 @@ Het experiment beoogt gedurende de gebruiksjaren 2008, 2009 en 2010 te onderzoek
 | 18  | 111.000  | 476.350  | 47,49  | (48,49)  |
 | 19  | 109.175  | 474.600  | 46,15  | (47,15)  |
 
-3.  In plaats van de grenswaarden, genoemd in [bijlage 2 van het LVB](../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md), gelden tijdens het verlengde experiment vanaf 1 november 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:  Tabel Grenswaarden handhavingspunten L <sub>den</sub> [dB(A)] 
+3.  In plaats van de grenswaarden, genoemd in [bijlage 2 van het LVB](../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md), gelden tijdens het verlengde experiment vanaf 1 november 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:  Tabel Grenswaarden handhavingspunten L<sub>den</sub> [dB(A)] 
 
 | Puntnummer  | X-coördinaat  | Y-coördinaat  | Grenswaarde  | Maximum grenswaarde ingeval van buitengewone weersomstandigheden  |
 |:---|:---|:---|:---|:---|
@@ -108,7 +108,7 @@ Het experiment beoogt gedurende de gebruiksjaren 2008, 2009 en 2010 te onderzoek
 | 34  | 103.400  | 472.225  | 57,30  | (58,30)  |
 | 35  | 98.400  | 470.300  | 57,10  | (58,10)  |
 
-4.  In plaats van de grenswaarden, genoemd in [bijlage 3 van het LVB](../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md), gelden tijdens het verlengde experiment vanaf 1 november 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:  Tabel Grenswaarden handhavingspunten L <sub>night</sub> [dB(A)] 
+4.  In plaats van de grenswaarden, genoemd in [bijlage 3 van het LVB](../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md), gelden tijdens het verlengde experiment vanaf 1 november 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:  Tabel Grenswaarden handhavingspunten L<sub>night</sub> [dB(A)] 
 
 | Puntnummer  | X-coördinaat  | Y-coördinaat  | Grenswaarde  | Maximum grenswaarde ingeval van buitengewone weersomstandigheden  |
 |:---|:---|:---|:---|:---|
@@ -212,13 +212,13 @@ Het experiment beoogt gedurende de gebruiksjaren 2008, 2009 en 2010 te onderzoek
 
 ####Uitvoering
 
-Het experiment houdt in dat alle Boeing 737 vliegtuigen van KLM bij vertrekkende vluchten vanaf de Kaagbaan (baan 24) de eerste bocht van de uitvliegroute Spijkerboor tussen Nieuw-Vennep en Hoofddorp nauwkeuriger vliegen, doordat de bocht met een vaste bochtstraal wordt gecodeerd.  
+Het experiment houdt in dat alle Boeing 737 vliegtuigen van KLM bij vertrekkende vluchten vanaf de Kaagbaan (baan 24) de eerste bocht van de uitvliegroute Spijkerboor tussen Nieuw-Vennep en Hoofddorp nauwkeuriger vliegen, doordat de bocht met een vaste bochtstraal wordt gecodeerd. 
 
 ### Artikel  5  
 
 ####Gevolgen
 
-Als gevolg van het experiment zal naar verwachting per saldo minder hinder worden gecreëerd. Gedurende het experiment zullen de effecten regelmatig worden gemonitord.  
+Als gevolg van het experiment zal naar verwachting per saldo minder hinder worden gecreëerd. Gedurende het experiment zullen de effecten regelmatig worden gemonitord. 
 
 ### Artikel  6  
 
@@ -234,27 +234,27 @@ De criteria die onderdeel vormen van de afweging en de beoordeling of het experi
 
 – het effect op de vliegoperatie (betrouwbaarheid en capaciteit);  
 
-– het effect op ruimtelijke contouren zoals vastgelegd in het [Luchthavenindelingbesluit Schiphol](../../../../../../../../AMvB/luchthavenindelingbesluit/schiphol/BWBR0014329/README.md), alsmede op de 20Ke contour uit de Nota Ruimte.    
+– het effect op ruimtelijke contouren zoals vastgelegd in het [Luchthavenindelingbesluit Schiphol](../../../../../../../../AMvB/luchthavenindelingbesluit/schiphol/BWBR0014329/README.md), alsmede op de 20Ke contour uit de Nota Ruimte.   
 
 ### Artikel  7  
 
 ####Onvoorziene gevallen
 
-In onvoorziene gevallen overleggen partijen in de begeleidingscommissie Pilots van de CROS. De begeleidingscommissie brengt hierover verslag uit aan de CROS, die vervolgens advies tot bijsturen, tijdelijk opschorten of stopzetten van het experiment uitbrengt aan de Minister van Verkeer en Waterstaat en de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.  
+In onvoorziene gevallen overleggen partijen in de begeleidingscommissie Pilots van de CROS. De begeleidingscommissie brengt hierover verslag uit aan de CROS, die vervolgens advies tot bijsturen, tijdelijk opschorten of stopzetten van het experiment uitbrengt aan de Minister van Verkeer en Waterstaat en de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. 
 
 ### Artikel  8  
 
 ####Termijn
 
-De termijn van het experiment betreft de periode vanaf 22 november 2007 tot en met 31 oktober 2008. De termijn van het verlengde experiment betreft het gebruiksjaar 2009. De termijn van het op grond van [artikel 8.23a, zesde lid, van de Wet luchtvaart](../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) verlengde experiment betreft de periode vanaf 1 november 2009 tot het tijdstip waarop het besluit tot wijziging van het [LVB](../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md) waarmee het experiment onderdeel wordt van dat besluit in werking treedt.  
+De termijn van het experiment betreft de periode vanaf 22 november 2007 tot en met 31 oktober 2008. De termijn van het verlengde experiment betreft het gebruiksjaar 2009. De termijn van het op grond van [artikel 8.23a, zesde lid, van de Wet luchtvaart](../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) verlengde experiment betreft de periode vanaf 1 november 2009 tot het tijdstip waarop het besluit tot wijziging van het [LVB](../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md) waarmee het experiment onderdeel wordt van dat besluit in werking treedt. 
 
 ### Artikel  9  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 22 november 2007.  
+Deze regeling treedt in werking met ingang van 22 november 2007. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings   
+C.M.P.S. Eurlings     

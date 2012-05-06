@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Als het orgaan waaraan de griffier de gegevens, genoemd in [artikel 19, eerste lid, onder 1° tot en met 6° van de Faillissementswet](../../../../../../../../../../../../wet/faillissementswet/BWBR0001860/README.md) doorgeeft ten behoeve van het in [artikel 19a van de Faillissementswet](../../../../../../../../../../../../wet/faillissementswet/BWBR0001860/README.md) genoemde register, wordt aangewezen de Raad voor de rechtspraak.  
+Als het orgaan waaraan de griffier de gegevens, genoemd in [artikel 19, eerste lid, onder 1° tot en met 6° van de Faillissementswet](../../../../../../../../../../../../wet/faillissementswet/BWBR0001860/README.md) doorgeeft ten behoeve van het in [artikel 19a van de Faillissementswet](../../../../../../../../../../../../wet/faillissementswet/BWBR0001860/README.md) genoemde register, wordt aangewezen de Raad voor de rechtspraak. 
 
 ### Artikel  2  
 
-Als het orgaan waaraan de griffier de gegevens, genoemd in [artikel 222a, eerste lid, onder 1° tot en met 4° van de Faillissementswet](../../../../../../../../../../../../wet/faillissementswet/BWBR0001860/README.md) doorgeeft ten behoeve van het in [artikel 222b van de Faillissementswet](../../../../../../../../../../../../wet/faillissementswet/BWBR0001860/README.md) genoemde register, wordt aangewezen de Raad voor de rechtspraak.  
+Als het orgaan waaraan de griffier de gegevens, genoemd in [artikel 222a, eerste lid, onder 1° tot en met 4° van de Faillissementswet](../../../../../../../../../../../../wet/faillissementswet/BWBR0001860/README.md) doorgeeft ten behoeve van het in [artikel 222b van de Faillissementswet](../../../../../../../../../../../../wet/faillissementswet/BWBR0001860/README.md) genoemde register, wordt aangewezen de Raad voor de rechtspraak. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking op het tijdstip waarop de [artikelen 19, vierde lid](../../../../../../../../../../../../wet/faillissementswet/BWBR0001860/README.md), [19a](../../../../../../../../../../../../wet/faillissementswet/BWBR0001860/README.md), [222a, vierde lid](../../../../../../../../../../../../wet/faillissementswet/BWBR0001860/README.md) en [222b van de Faillissementswet](../../../../../../../../../../../../wet/faillissementswet/BWBR0001860/README.md) in werking treden.  
+Dit besluit treedt in werking op het tijdstip waarop de [artikelen 19, vierde lid](../../../../../../../../../../../../wet/faillissementswet/BWBR0001860/README.md), [19a](../../../../../../../../../../../../wet/faillissementswet/BWBR0001860/README.md), [222a, vierde lid](../../../../../../../../../../../../wet/faillissementswet/BWBR0001860/README.md) en [222b van de Faillissementswet](../../../../../../../../../../../../wet/faillissementswet/BWBR0001860/README.md) in werking treden. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -31,10 +31,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 24 november 2005  
 Beatrix  
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 J. P. H. Donner   
 
 de *negenentwintigste* november 2005 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 J. P. H. Donner    

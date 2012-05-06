@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Minister van Verkeer en Waterstaat van 28 mei 2010, nr. CEND/HDJZ-2010/581 sector SCH, Hoofddirectie Juridische Zaken;
 
-Gelet op de Richtlijn van het Europees parlement en de raad van 12 december 2006 tot vaststelling van de technische voorschriften voor binnenschepen en tot intrekking van Richtlijn 82/714/EEG van de Raad (2006/87/EG), en op de artikelen 4, eerste lid, derde en vierde lid, 9, 18, eerste lid, 20 en 31, elfde lid, van de Scheepvaartverkeerswet;
+Gelet op de Richtlijn van het Europees parlement en de raad van 12 december 2006 tot vaststelling van de technische voorschriften voor binnenschepen en tot intrekking van Richtlijn 82/714/EEG van de Raad (2006/87/EG), en op de [artikelen 4, eerste lid, derde en vierde lid](../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), [9](../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), [18, eerste lid](../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), [20](../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) en [31, elfde lid, van de Scheepvaartverkeerswet](../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md);
 
 De Raad van State gehoord (advies van 8 juli 2010, nr. W09.10.0201/IV);
 
@@ -15,56 +15,56 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Vaststellingsbesluit Binnenvaartpolitiereglement.   
+Wijzigt het Vaststellingsbesluit Binnenvaartpolitiereglement. 
 
 ### Artikel  II  
 
-Wijzigt het Binnenvaartpolitiereglement.   
+Wijzigt het Binnenvaartpolitiereglement. 
 
 ### Artikel  III  
 
-Wijzigt het Besluit Rijnvaartpolitiereglement 1995.   
+Wijzigt het Besluit Rijnvaartpolitiereglement 1995. 
 
 ### Artikel  IV  
 
-Wijzigt het Scheepvaartreglement Westerschelde 1990.   
+Wijzigt het Scheepvaartreglement Westerschelde 1990. 
 
 ### Artikel  V  
 
-Wijzigt het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen.   
+Wijzigt het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen. 
 
 ### Artikel  VI  
 
-Wijzigt het Scheepvaartreglement territoriale zee.   
+Wijzigt het Scheepvaartreglement territoriale zee. 
 
 ### Artikel  VII  
 
-Wijzigt het Besluit verkeersinformatie en verkeersaanwijzingen scheepvaartverkeer.   
+Wijzigt het Besluit verkeersinformatie en verkeersaanwijzingen scheepvaartverkeer. 
 
 ### Artikel  VIII  
 
-Wijzigt het Besluit administratieve bepalingen scheepvaartverkeer.   
+Wijzigt het Besluit administratieve bepalingen scheepvaartverkeer. 
 
 ### Artikel  IX  
 
-Wijzigt het Besluit toepassingverklaring Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972.   
+Wijzigt het Besluit toepassingverklaring Internationale Bepalingen ter voorkoming van aanvaringen op zee, 1972. 
 
-### Artikel  X   
-Treedt in werking op een nader te bepalen tijdstip   
+### Artikel  X  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Wijzigt het Scheepvaartreglement Eemsmonding.   
+Wijzigt het Scheepvaartreglement Eemsmonding. 
 
 ### Artikel  XI  
 
-Wijzigt het Besluit statistische gegevens scheepvaartverkeer.   
+Wijzigt het Besluit statistische gegevens scheepvaartverkeer. 
 
 ### Artikel  XII  
 
-Na de inwerkingtreding van dit besluit berusten de krachtens artikel 38, derde en vierde lid, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen door de bevoegde autoriteit gestelde regels en voorschriften op artikel 53, tweede lid, van genoemd scheepvaartreglement.  
+Na de inwerkingtreding van dit besluit berusten de krachtens [artikel 38, derde en vierde lid, van het Scheepvaartreglement voor het Kanaal van Gent naar Terneuzen](../../../../../../AMvB/scheepvaartreglement/voor/het/kanaal/van/gent/naar/terneuzen/BWBR0005315/README.md) door de bevoegde autoriteit gestelde regels en voorschriften op [artikel 53, tweede lid, van genoemd scheepvaartreglement](../../../../../../AMvB/scheepvaartreglement/voor/het/kanaal/van/gent/naar/terneuzen/BWBR0005315/README.md). 
 
 ### Artikel  XIII  
 
-Artikel 10 van het Scheepvaartreglement territoriale zee, en de artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+[Artikel 10 van het Scheepvaartreglement territoriale zee](../../../../../../AMvB/scheepvaartreglement/territoriale/zee/BWBR0007914/README.md), en de artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -72,10 +72,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 20 september 2010  
 Beatrix  
 
-De Minister van Verkeer en Waterstaat, 
+De Minister van Verkeer en Waterstaat,  
 C. M. P. S. Eurlings   
 
 de *negende* november 2010 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

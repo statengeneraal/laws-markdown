@@ -10,11 +10,11 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder: 
 
-a. *beheerder:* beheerder als bedoeld in [artikel 1, onderdeel h, van de Spoorwegwet](../../../../../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md);  
+a.  *beheerder:* beheerder als bedoeld in [artikel 1, onderdeel h, van de Spoorwegwet](../../../../../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md);  
 
-b. *gerechtigde:* gerechtigde als bedoeld in [artikel 57 van de Spoorwegwet](../../../../../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md);  
+b.  *gerechtigde:* gerechtigde als bedoeld in [artikel 57 van de Spoorwegwet](../../../../../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md);  
 
-c. *Onze Minister:* Onze Minister van Verkeer en Waterstaat.    
+c.  *Onze Minister:* Onze Minister van Verkeer en Waterstaat.   
 
 ### Artikel  2  
 
@@ -23,7 +23,7 @@ c. *Onze Minister:* Onze Minister van Verkeer en Waterstaat.
 a. de wijziging die door de beheerder wordt aangebracht in de technische of functionele eigenschappen van de hoofdspoorweginfrastructuur wordt uitgevoerd op verzoek van derden dan wel op eigen initiatief, en  
 
 b. de wijziging die door de beheerder wordt aangebracht in de technische of functionele eigenschappen van de hoofdspoorweginfrastructuur de gebruiksmogelijkheden van de hoofdspoorwegen aanmerkelijk verandert.     
-2.  [Artikel 17, derde lid, van de Spoorwegwet](../../../../../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is ook van toepassing bij twijfel of er sprake is van een wijziging als bedoeld in het eerste lid, onderdeel b.   
+2.  [Artikel 17, derde lid, van de Spoorwegwet](../../../../../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is ook van toepassing bij twijfel of er sprake is van een wijziging als bedoeld in het eerste lid, onderdeel b.  
 
 ### Artikel  3  
 
@@ -37,11 +37,11 @@ c. het aanleggen van een nieuw station;
 
 d. het realiseren van een uitbreiding van een hoofdspoorweg;  
 
-e. het tijdelijk buiten dienst stellen van een hoofdspoorweg, dan wel een gedeelte daarvan, langer dan één jaar.    
+e. het tijdelijk buiten dienst stellen van een hoofdspoorweg, dan wel een gedeelte daarvan, langer dan één jaar.   
 
 ### Artikel  4  
 
-[Artikel 17, derde lid, van de Spoorwegwet](../../../../../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is in ieder geval niet van toepassing indien de wijziging die door de beheerder wordt aangebracht in de technische of functionele eigenschappen van de hoofdspoorweginfrastructuur het gevolg is van het handelen van de beheerder in het kader van het beheerplan of van een beschikking van Onze Minister mits de zienswijze van de betrokken gerechtigden niet afwijken van de voorgestelde wijziging.  
+[Artikel 17, derde lid, van de Spoorwegwet](../../../../../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) is in ieder geval niet van toepassing indien de wijziging die door de beheerder wordt aangebracht in de technische of functionele eigenschappen van de hoofdspoorweginfrastructuur het gevolg is van het handelen van de beheerder in het kader van het beheerplan of van een beschikking van Onze Minister mits de zienswijze van de betrokken gerechtigden niet afwijken van de voorgestelde wijziging. 
 
 ### Artikel  5  
 
@@ -53,13 +53,13 @@ b. een weergave van de zienswijzen van de betrokken gerechtigden, bedoeld in [ar
 
 c. een nadere argumentatie waarom ingestemd zou moeten worden met het verzoek indien uit de zienswijzen blijkt dat niet alle betrokken gerechtigden met de voorgenomen wijziging kunnen instemmen, en  
 
-d. een chronologisch overzicht met bijbehorende documentatie van het verloop van de procedure tot aan het indienen van het verzoek om instemming op grond van [artikel 17, derde lid, van de Spoorwegwet](../../../../../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md).    
+d. een chronologisch overzicht met bijbehorende documentatie van het verloop van de procedure tot aan het indienen van het verzoek om instemming op grond van [artikel 17, derde lid, van de Spoorwegwet](../../../../../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md).   
 
 ### Artikel  6  
 
-Deze beleidsregel treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze beleidsregel treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Verkeer en Waterstaat,
-C.M.P.S.Eurlings   
+Minister van Verkeer en Waterstaat, 
+C.M.P.S. Eurlings     

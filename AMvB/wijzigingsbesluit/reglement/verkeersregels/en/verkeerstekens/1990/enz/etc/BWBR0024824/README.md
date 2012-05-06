@@ -15,24 +15,24 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Reglement verkeersregels en verkeerstekens 1990 (RVV 1990).   
+Wijzigt het Reglement verkeersregels en verkeerstekens 1990 (RVV 1990).
 
 ### Artikel  II  
 
-Wijzigt het Voertuigreglement.   
+Wijzigt het Voertuigreglement.
 
 ### Artikel  III  
 
 1.  [Artikelen 29, eerste lid, van het Reglement verkeersregels en verkeerstekens](../../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) is 1990 wat de tweetonige hoorn betreft tot 1 maart 2014 niet van toepassing op motorvoertuigen die op het moment van inwerkingtreding van dit besluit alleen van een drietonige hoorn zijn voorzien.   
-2.  De [artikelen 30, eerste lid, tweede volzin, van het Reglement verkeersregels en verkeerstekens 1990](../../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) en [5.2.51a, eerste lid, tweede volzin](../../../../../../../../../../AMvB/voertuigreglement/BWBR0006746/README.md), [5.3.51a, eerste lid, tweede volzin](../../../../../../../../../../AMvB/voertuigreglement/BWBR0006746/README.md), [5.4.51, eerste lid, tweede volzin](../../../../../../../../../../AMvB/voertuigreglement/BWBR0006746/README.md), [5.4.52a, eerste lid, tweede volzin](../../../../../../../../../../AMvB/voertuigreglement/BWBR0006746/README.md), en [5.5.51a, eerste lid, tweede volzin, van het Voertuigreglement](../../../../../../../../../../AMvB/voertuigreglement/BWBR0006746/README.md) zijn tot 1 maart 2014 niet van toepassing op motorvoertuigen die op het moment van inwerkingtreding van dit besluit alleen van blauw zwaai-, flits- of knipperlicht zijn voorzien.   
+2.  De [artikelen 30, eerste lid, tweede volzin, van het Reglement verkeersregels en verkeerstekens 1990](../../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) en [5.2.51a, eerste lid, tweede volzin](../../../../../../../../../../AMvB/voertuigreglement/BWBR0006746/README.md), [5.3.51a, eerste lid, tweede volzin](../../../../../../../../../../AMvB/voertuigreglement/BWBR0006746/README.md), [5.4.51, eerste lid, tweede volzin](../../../../../../../../../../AMvB/voertuigreglement/BWBR0006746/README.md), [5.4.52a, eerste lid, tweede volzin](../../../../../../../../../../AMvB/voertuigreglement/BWBR0006746/README.md), en [5.5.51a, eerste lid, tweede volzin, van het Voertuigreglement](../../../../../../../../../../AMvB/voertuigreglement/BWBR0006746/README.md) zijn tot 1 maart 2014 niet van toepassing op motorvoertuigen die op het moment van inwerkingtreding van dit besluit alleen van blauw zwaai-, flits- of knipperlicht zijn voorzien.  
 
 ### Artikel  IV  
 
-Wijzigt het Besluit ontgrondingen in rijkswateren.   
+Wijzigt het Besluit ontgrondingen in rijkswateren. 
 
 ### Artikel  V  
 
-Dit besluit treedt in werking met ingang van 1 maart 2009.  
+Dit besluit treedt in werking met ingang van 1 maart 2009. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -40,10 +40,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 26 november 2008  
 Beatrix  
 
-De Minister van Verkeer en Waterstaat, 
-C. M. P. S.Eurlings 
+De Minister van Verkeer en Waterstaat , 
+C. M. P. S. Eurlings   
 
 de *zestiende* december 2008 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

@@ -6,21 +6,21 @@
 
 In deze regeling wordt verstaan onder: 
 
-a. *commissie:* de examencommissie belast met het afnemen van examens ter verkrijging van een certificaat voor het bedienen van een zendinrichting, bedoeld in [artikel 30 van het Besluit telecommunicatie scheepvaart BES](../../../../../../../AMvB-BES/besluit/telecommunicatie/scheepvaart/bes/BWBR0028399/README.md);  
+a.  *commissie:* de examencommissie belast met het afnemen van examens ter verkrijging van een certificaat voor het bedienen van een zendinrichting, bedoeld in [artikel 30 van het Besluit telecommunicatie scheepvaart BES](../../../../../../../AMvB-BES/besluit/telecommunicatie/scheepvaart/bes/BWBR0028399/README.md);  
 
-b. *voorzitter:* de voorzitter van de commissie of bij ontstentenis van deze de plaatsvervangend voorzitter;  
+b.  *voorzitter:* de voorzitter van de commissie of bij ontstentenis van deze de plaatsvervangend voorzitter;  
 
-c. *kandidaat:* degene die zich voor deelneming aan een examen heeft aangemeld;  
+c.  *kandidaat:* degene die zich voor deelneming aan een examen heeft aangemeld;  
 
-d. *examen:* een examen, als bedoeld in de [artikelen 30](../../../../../../../AMvB-BES/besluit/telecommunicatie/scheepvaart/bes/BWBR0028399/README.md) en [31 van het Besluit telecommunicatie scheepvaart BES](../../../../../../../AMvB-BES/besluit/telecommunicatie/scheepvaart/bes/BWBR0028399/README.md);  
+d.  *examen:* een examen, als bedoeld in de [artikelen 30](../../../../../../../AMvB-BES/besluit/telecommunicatie/scheepvaart/bes/BWBR0028399/README.md) en [31 van het Besluit telecommunicatie scheepvaart BES](../../../../../../../AMvB-BES/besluit/telecommunicatie/scheepvaart/bes/BWBR0028399/README.md);  
 
-e. *certificaat:* het bewijsstuk van een met goed gevolg afgelegd examen.    
+e.  *certificaat:* het bewijsstuk van een met goed gevolg afgelegd examen.   
 
 ####Toelating tot de examens
 
 ### Artikel  2  
 
-Voor deelname aan een examen moet de kandidaat de leeftijd van 16 jaar hebben bereikt.  
+Voor deelname aan een examen moet de kandidaat de leeftijd van 16 jaar hebben bereikt. 
 
 ####Aanmelding
 
@@ -28,7 +28,7 @@ Voor deelname aan een examen moet de kandidaat de leeftijd van 16 jaar hebben be
 
 1.  De voorzitter stelt de plaats, de datum en het tijdstip van de examens vast. Van de wijze van aanmelding wordt mededeling gedaan in de plaatselijke media.   
 2.  Na voldoening van de verschuldigde vergoeding, bedoeld in [artikel 31, zesde lid, van het Besluit telecommunicatie scheepvaart BES](../../../../../../../AMvB-BES/besluit/telecommunicatie/scheepvaart/bes/BWBR0028399/README.md), binnen de door de voorzitter te stellen termijn, ontvangt de kandidaat ten minste acht dagen voor het examen een schriftelijke uitnodiging tot deelneming.   
-3.  De vergoedingen bedoeld in het tweede lid worden niet terugbetaald indien een kandidaat zich terugtrekt dan wel niet op het examen verschijnt.   
+3.  De vergoedingen bedoeld in het tweede lid worden niet terugbetaald indien een kandidaat zich terugtrekt dan wel niet op het examen verschijnt.  
 
 ####Categorieën examens
 
@@ -55,7 +55,7 @@ d. engels;
 e. aardrijkskunde.     
 4.  Het examen VHF marifonie, bestaat uit de stof voor het examen beperkt certificaat maritieme radiocommunicatie met uitzondering van de examenmodule ‘Global Maritime Distress and Safety System’ (GMDSS).   
 5.  De houder van het VHF marifonie certificaat ontleent aan het desbetreffende certificaat slechts de bevoegdheid een VHF marifonie installatie te bedienen die binnen het bereik van een kuststation en kustwachtpost van een openbaar lichaam hun vaar- en werkgebied hebben.   
-6.  De stof voor de in het eerste lid bedoelde examens is omschreven in de bij deze regeling behorende bijlagen 1, 2 en 3.   
+6.  De stof voor de in het eerste lid bedoelde examens is omschreven in de bij deze regeling behorende bijlagen 1, 2 en 3.  
 
 ####Het examen
 
@@ -64,20 +64,20 @@ e. aardrijkskunde.
 1.  Desgevraagd legitimeert de kandidaat zich overeenkomstig de door de voorzitter gegeven voorschriften.   
 2.  Door of vanwege de voorzitter wordt de kandidaat voor de aanvang van het examen in kennis gesteld van de regels van het examen.   
 3.  Door of vanwege de voorzitter gegeven aanwijzingen met betrekking tot het examen dienen door de kandidaat te worden opgevolgd.   
-4.  Het schriftelijk examen wordt in beginsel in groepsverband afgenomen.   
+4.  Het schriftelijk examen wordt in beginsel in groepsverband afgenomen.  
 
 ### Artikel  6  
 
 1.  De examenonderdelen voorschriften, maritieme radiocommunicatie procedures, techniek, aardrijkskunde en engels worden schriftelijk afgenomen. Het examen heeft een tijdsduur van ten minste één uur en ten hoogste twee uur per onderdeel.   
 2.  Het examen maritieme radiocommunicatie procedures bevat tevens het onderdeel praktische bediening van radiocommunicatie apparatuur.   
-3.  Tijdens het examen zijn ten minste 2 leden van de commissie aanwezig.   
+3.  Tijdens het examen zijn ten minste 2 leden van de commissie aanwezig.  
 
 ### Artikel  7  
 
 1.  Indien een kandidaat zich ten aanzien van het examen aan enig bedrog heeft schuldig gemaakt en dit voor of tijdens het examen wordt ontdekt, ontzegt de voorzitter hem van deelneming of verdere deelneming aan het examen.   
 2.  Indien een kandidaat in enig ander opzicht in strijd met dit reglement heeft gehandeld en dit voor of tijdens het examen wordt ontdekt, kan de voorzitter hem de deelneming of de verdere deelneming aan het examen ontzeggen.   
 3.  Indien bedrog of een andere onregelmatigheid eerst na afloop van het examen wordt ontdekt, kan de voorzitter het examen van de kandidaat die zich hieraan heeft schuldig gemaakt, ongeldig verklaren.   
-4.  Indien buiten de in het derde lid genoemde gevallen het examen niet op rechtmatige wijze heeft plaatsgevonden kan de voorzitter besluiten dat het examen geheel of gedeeltelijk opnieuw wordt afgenomen.   
+4.  Indien buiten de in het derde lid genoemde gevallen het examen niet op rechtmatige wijze heeft plaatsgevonden kan de voorzitter besluiten dat het examen geheel of gedeeltelijk opnieuw wordt afgenomen.  
 
 ####Het bijzonder examen
 
@@ -90,13 +90,13 @@ a. de gezondheidstoestand van een kandidaat het afnemen van het examen op de wij
 b. een kandidaat gedurende lange periode buiten het grondgebied van een openbaar lichaam verblijft;  
 
 c. een kandidaat onvoldoende de Nederlandse of de Engelse taal beheerst.     
-2.  Het examen wordt in een zodanig geval afgenomen door twee leden van de commissie.   
+2.  Het examen wordt in een zodanig geval afgenomen door twee leden van de commissie.  
 
 ####Ontheffing
 
 ### Artikel  9  
 
-De voorzitter kan geheel of gedeeltelijk ontheffing verlenen van een der examens bedoeld in artikel 4, eerste lid, indien een kandidaat is geslaagd voor een ander examen, welke is afgenomen door een bevoegde autoriteit en dat naar het oordeel van de commissie gelijkwaardig is aan een der examens bedoeld in artikel 4, eerste lid.  
+De voorzitter kan geheel of gedeeltelijk ontheffing verlenen van een der examens bedoeld in artikel 4, eerste lid, indien een kandidaat is geslaagd voor een ander examen, welke is afgenomen door een bevoegde autoriteit en dat naar het oordeel van de commissie gelijkwaardig is aan een der examens bedoeld in artikel 4, eerste lid. 
 
 ####Uitslag van het examen
 
@@ -104,42 +104,42 @@ De voorzitter kan geheel of gedeeltelijk ontheffing verlenen van een der examens
 
 1.  Een kandidaat wordt binnen 30 dagen na het afleggen van het examen door de commissie van de uitslag in kennis gesteld.   
 2.  Indien het examen met goed gevolg is afgelegd, ontvangt de kandidaat een certificaat.   
-3.  Over de uitslag van het examen, alsmede de inhoud van de vraagstukken wordt niet gecorrespondeerd.   
+3.  Over de uitslag van het examen, alsmede de inhoud van de vraagstukken wordt niet gecorrespondeerd.  
 
 ####Nadere regels
 
 ### Artikel  11  
 
-De commissie kan nadere regels vaststellen voor de gang van zaken met betrekking tot het examen, welke niet in strijd mogen zijn met deze regeling  
+De commissie kan nadere regels vaststellen voor de gang van zaken met betrekking tot het examen, welke niet in strijd mogen zijn met deze regeling 
 
 ####Beroep
 
 ### Artikel  12  
 
 1.  Tegen de uitslag van het examen staat geen beroep open.   
-2.  Tegen een beslissing van de voorzitter als bedoeld in artikel 7, kan de kandidaat binnen 30 dagen in beroep gaan bij de Minister van Economische Zaken. Het beroep dient schriftelijk en met redenen omkleed te worden ingediend.   
+2.  Tegen een beslissing van de voorzitter als bedoeld in artikel 7, kan de kandidaat binnen 30 dagen in beroep gaan bij de Minister van Economische Zaken. Het beroep dient schriftelijk en met redenen omkleed te worden ingediend.  
 
 ####Slotbepalingen
 
 ### Artikel  13  
 
-In de gevallen waarin deze regeling en de ingevolge artikel 11 vastgestelde regels niet voorzien, beslist de voorzitter.  
+In de gevallen waarin deze regeling en de ingevolge artikel 11 vastgestelde regels niet voorzien, beslist de voorzitter. 
 
 ### Artikel  14  
 
-Deze regeling berust op de [artikelen 30](../../../../../../../AMvB-BES/besluit/telecommunicatie/scheepvaart/bes/BWBR0028399/README.md) en [31 van het Besluit telecommunicatie scheepvaart BES](../../../../../../../AMvB-BES/besluit/telecommunicatie/scheepvaart/bes/BWBR0028399/README.md).  
+Deze regeling berust op de [artikelen 30](../../../../../../../AMvB-BES/besluit/telecommunicatie/scheepvaart/bes/BWBR0028399/README.md) en [31 van het Besluit telecommunicatie scheepvaart BES](../../../../../../../AMvB-BES/besluit/telecommunicatie/scheepvaart/bes/BWBR0028399/README.md). 
 
 ### Artikel  15  
 
-Deze regeling wordt aangehaald als: Regeling maritieme radiocommunicatie examens BES.  
+Deze regeling wordt aangehaald als: Regeling maritieme radiocommunicatie examens BES. 
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####behorende bij de Regeling maritieme radiocommunicatie examens BES
 
 ####Algemene toelichting:
 
-De in het examenprogramma gebruikte gradaties hebben de volgende betekenis: Kennis: het weten en begrijpen van de hoofdzaken; Grondige kennis: het weten en begrijpen van de stof tot in bijzonderheden; Vaardigheden: blijk geven de vereiste handelingen te kunnen uitvoeren.  
+De in het examenprogramma gebruikte gradaties hebben de volgende betekenis: Kennis: het weten en begrijpen van de hoofdzaken; Grondige kennis: het weten en begrijpen van de stof tot in bijzonderheden; Vaardigheden: blijk geven de vereiste handelingen te kunnen uitvoeren. 
 
 ####Examenprogramma voor het behalen van het algemeen certificaat maritieme radiocommunicatie:
 
@@ -339,15 +339,15 @@ b. IMO Standard Marine Vocabulary.
 
 2. Taalgebruik met kuststations (aanroepprocedures) in het internationaal verkeer.  
 
-3. Het kunnen lezen en begrijpen van de diverse radiocommunicatiepublicaties, zoals de List of Shipstations, List of Coaststations, List of Callsigns and Numerical Identities en handleidin-gen voor de radio apparatuur.   AARDRIJKSKUNDE De ligging van de belangrijkste kuststations en grondstations van het INMARSAT systeem. Men neemt hiervoor kuststations die over HF telefonie en radiotelex beschikken. Daar er regelmatig wijzigingen plaatsvinden, wordt het lesprogramma per schooljaar vastgesteld.  
+3. Het kunnen lezen en begrijpen van de diverse radiocommunicatiepublicaties, zoals de List of Shipstations, List of Coaststations, List of Callsigns and Numerical Identities en handleidin-gen voor de radio apparatuur.   AARDRIJKSKUNDE De ligging van de belangrijkste kuststations en grondstations van het INMARSAT systeem. Men neemt hiervoor kuststations die over HF telefonie en radiotelex beschikken. Daar er regelmatig wijzigingen plaatsvinden, wordt het lesprogramma per schooljaar vastgesteld. 
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####behorende bij de Regeling maritieme radiocommunicatie examens BES
 
 ####Algemene toelichting
 
-De in de examenprogramma's gebruikte gradaties hebben de volgende betekenis: Kennis: het weten en begrijpen van de hoofdzaken; Grondige kennis: het weten en begrijpen van de stof tot in bijzonderheden; Vaardigheden: blijk geven de vereiste handeling te kunnen uitvoeren.  
+De in de examenprogramma's gebruikte gradaties hebben de volgende betekenis: Kennis: het weten en begrijpen van de hoofdzaken; Grondige kennis: het weten en begrijpen van de stof tot in bijzonderheden; Vaardigheden: blijk geven de vereiste handeling te kunnen uitvoeren. 
 
 ####Examenprogramma voor het behalen van het beperkt certificaat maritieme radiocommunicatie:
 
@@ -557,9 +557,9 @@ f. verplichte documenten met betrekking tot het radiostation.     Maritieme comm
 
 1. De gesproken en geschreven Engelse taal voor zover van belang voor een adequate uitwisseling van berichten ten behoeve van de veiligheid op zee.  
 
-2. Woorden en uitdrukkingen te gebruiken bij de behandeling van weerberichten, NAVTEX berichten enz.   Taalgebruik met kuststations (aanroepprocedure) in het internationale radioverkeer.  
+2. Woorden en uitdrukkingen te gebruiken bij de behandeling van weerberichten, NAVTEX berichten enz.   Taalgebruik met kuststations (aanroepprocedure) in het internationale radioverkeer. 
 
-### Bijlage  3  
+### Bijlage 3 
 
 ####behorende bij de Regeling maritieme radiocommunicatie examens BES
 
@@ -567,11 +567,11 @@ f. verplichte documenten met betrekking tot het radiostation.     Maritieme comm
 
 De in het examenprogramma gebruikte gradaties hebben de volgende betekenis: 
 
-*Kennis:* het weten en begrijpen van de hoofdzaken;  
+*Kennis: * het weten en begrijpen van de hoofdzaken;  
 
 *Grondige kennis:* het weten en begrijpen van de stof tot in bijzonderheden;  
 
-*Vaardigheden:* blijk geven de vereiste handeling te kunnen uitvoeren.    
+*Vaardigheden:* blijk geven de vereiste handeling te kunnen uitvoeren.   
 
 ####Examenprogramma voor het behalen van het certificaat VHF marifonie:
 
@@ -611,7 +611,7 @@ l. De bij de radioinstallatie behorende bescheiden.
 
 6. Het internationaal spellingsalfabet.  
 
-7. Doel en gebruik van het leerboek Certificaat VHF Marifonie.        
+7. Doel en gebruik van het leerboek Certificaat VHF Marifonie.       
 
 ####Maritieme communicatie procedures
 
@@ -669,9 +669,9 @@ f. Radioverkeer met jachthavens.
 
 g. Radioverkeer binnenvaart met laad en losplaatsen.  
 
-h. Aan boord radiocommunicatie (Intraship verkeer).      
+h. Aan boord radiocommunicatie (Intraship verkeer).     
 
-### Bijlage  
+### Bijlage 
 
 ####bij het examenprogramma algemeen certificaat maritieme radiocommunicatie
 
@@ -689,7 +689,7 @@ h. Aan boord radiocommunicatie (Intraship verkeer).
 
 5. Heeft aangetoond de relevante handleidingen (manuals) van de VHF installatie en/of het DSC modem met succes te raadplegen voor het werken met de installatie;  
 
-6. Is in staat de goede werking van de gehele installatie te controleren en aan de hand van een bij de installatie behorende handleiding eenvoudige storingen te verhelpen.    
+6. Is in staat de goede werking van de gehele installatie te controleren en aan de hand van een bij de installatie behorende handleiding eenvoudige storingen te verhelpen.   
 
 ####Onderdeel B MF/HF radio-installatie
 
@@ -713,7 +713,7 @@ h. Aan boord radiocommunicatie (Intraship verkeer).
 
 10. Heeft aangetoond de op de installatie aangesloten DSC guard receiver voor operationeel gebruik te kunnen instellen, deze te kunnen bedienen en voorts de hiermee ontvangen DSC boodschappen juist te interpreteren.  
 
-11. Is in staat de goede werking van de installatie te controleren en kan met behulp van een bij de installatie behorende fabriekshandleiding eenvoudige storingen te verhelpen.    
+11. Is in staat de goede werking van de installatie te controleren en kan met behulp van een bij de installatie behorende fabriekshandleiding eenvoudige storingen te verhelpen.   
 
 ####Onderdeel C NAVTEX ontvanger/printer
 
@@ -723,7 +723,7 @@ h. Aan boord radiocommunicatie (Intraship verkeer).
 
 3. Kent de betekenis van de codering aan het begin van ieder NAVTEXbericht en is in staat met behulp van de aanwezige boekwerken stations, welke NAVTEXberichten uitzenden, te selecteren.  
 
-4. Is in staat de goede werking van het apparaat te controleren en kan met behulp van een bij het apparaat behorende fabriekshandleiding eenvoudige storingen verhelpen.    
+4. Is in staat de goede werking van het apparaat te controleren en kan met behulp van een bij het apparaat behorende fabriekshandleiding eenvoudige storingen verhelpen.   
 
 ####Onderdeel D Ship Earth Station (SES):
 
@@ -743,7 +743,7 @@ h. Aan boord radiocommunicatie (Intraship verkeer).
 
 8. Is bekend met het INMARSATC store and forward systeem en is in staat met behulp van de bij de installatie aanwezige handboeken berichten op te stellen, deze van een adres te voorzien en ze naar het relevante grondstation te verzenden.  
 
-9. Is in staat de goede werking van de installatie te controleren en kan met behulp van een bij de installatie behorende fabriekshandleiding eenvoudige storingen verhelpen.    
+9. Is in staat de goede werking van de installatie te controleren en kan met behulp van een bij de installatie behorende fabriekshandleiding eenvoudige storingen verhelpen.   
 
 ####Onderdeel E MF Luisterwachtontvanger (LWO)
 
@@ -751,17 +751,17 @@ h. Aan boord radiocommunicatie (Intraship verkeer).
 
 2. Heeft aangetoond de luisterwachtontvanger op correcte wijze te kunnen instellen al dan niet met het gebruik van het muting device.  
 
-3. Is in staat de goede werking van het toestel te controleren en kan met behulp van een bij het toestel behorende fabriekshandleiding eenvoudige defecten verhelpen.    
+3. Is in staat de goede werking van het toestel te controleren en kan met behulp van een bij het toestel behorende fabriekshandleiding eenvoudige defecten verhelpen.   
 
 ####Onderdeel F EPIRB
 
 1. Is bekend met het gebruik van het baken.  
 
-2. Is in staat de EPIRB te activeren en weer uit te schakelen.    
+2. Is in staat de EPIRB te activeren en weer uit te schakelen.   
 
 ####Onderdeel G SART
 
 1. Is bekend met het gebruik van het baken.  
 
-2. Is in staat de SART te activeren en weer uit te schakelen.    
+2. Is in staat de SART te activeren en weer uit te schakelen.   
 

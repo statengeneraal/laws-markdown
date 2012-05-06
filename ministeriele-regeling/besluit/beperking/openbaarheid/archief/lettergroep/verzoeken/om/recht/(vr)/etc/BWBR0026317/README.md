@@ -30,4 +30,4 @@ Den Haag
 De 
 Minister van Justitie, namens deze: de 
 plv. Secretaris-generaal, 
-J.M. vanZanen-Nieberg   
+J.M. van Zanen-Nieberg     

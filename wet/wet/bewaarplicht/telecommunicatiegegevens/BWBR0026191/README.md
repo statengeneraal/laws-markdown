@@ -11,11 +11,11 @@ Zo is het, dat Wij, de Raad van State gehoord en met gemeen overleg der Staten-G
 
 ### Artikel  I  
 
-Wijzigt de Telecommunicatiewet.   
+Wijzigt de Telecommunicatiewet. 
 
 ### Artikel  II  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten. 
 
 ### Artikel  III  
 
@@ -25,33 +25,33 @@ a. het [Besluit verstrekking gegevens telecommunicatie](../../../../../AMvB/besl
 
 b. het [Besluit bijzondere vergaring nummergegevens telecommunicatie](../../../../../AMvB/besluit/bijzondere/vergaring/nummergegevens/telecommunicatie/BWBR0013213/README.md) op de [artikelen 3.10, vierde lid, onderdeel a](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), en [13.4, derde lid, van de Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
 
-c. het [Besluit beveiliging gegevens aftappen telecommunicatie](../../../../../AMvB/besluit/beveiliging/gegevens/telecommunicatie/BWBR0015808/README.md) op de [artikelen 13.2, derde lid](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en [13.5, vierde lid, van de Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md).    
+c. het [Besluit beveiliging gegevens aftappen telecommunicatie](../../../../../AMvB/besluit/beveiliging/gegevens/telecommunicatie/BWBR0015808/README.md) op de [artikelen 13.2, derde lid](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en [13.5, vierde lid, van de Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md).   
 
 ### Artikel  IV  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  V  
 
-Bij koninklijk besluit kan worden bepaald dat deze wet gedurende een in dat besluit te bepalen periode, doch niet langer dan tot 15 maart 2009, niet van toepassing is op de aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten, voor zover het betreft het genereren of verwerken van gegevens in het kader van de verlening van toegang tot internet, e-mail over het internet en internettelefonie.  
+Bij koninklijk besluit kan worden bepaald dat deze wet gedurende een in dat besluit te bepalen periode, doch niet langer dan tot 15 maart 2009, niet van toepassing is op de aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten, voor zover het betreft het genereren of verwerken van gegevens in het kader van de verlening van toegang tot internet, e-mail over het internet en internettelefonie. 
 
 ### Artikel  VI  
 
-Deze wet wordt aangehaald als: Wet bewaarplicht telecommunicatiegegevens.  
+Deze wet wordt aangehaald als: Wet bewaarplicht telecommunicatiegegevens. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 Tavarnelle 
 18 juli 2009  
 Beatrix  
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin   
 
-De Minister van Economische Zaken a.i., 
+De Minister van Economische Zaken a.i.,  
 E. M. H. Hirsch Ballin   
 
 de *dertigste* juli 2009 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    

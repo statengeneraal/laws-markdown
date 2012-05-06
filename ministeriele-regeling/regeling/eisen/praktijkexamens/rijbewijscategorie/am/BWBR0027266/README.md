@@ -26,7 +26,7 @@ f. het op juiste wijze parkeren van het voertuig op een evenwijdig ten opzichte 
 
 g. het voorwaarts parkeren van het voertuig in een parkeervak (vakparkeren voorwaarts of achterwaarts);  
 
-h. het op juiste wijze keren van het voertuig door middel van steken op een niet te brede (denkbeeldige) weg.    
+h. het op juiste wijze keren van het voertuig door middel van steken op een niet te brede (denkbeeldige) weg.   
 
 ### Artikel  2  
 
@@ -71,7 +71,7 @@ h. controle van de remmen, koelvloeistof, remvloeistof, ruitensproeiervloeistof 
 
 i. controle van het oliepeil;  
 
-j. controle van de claxon.     
+j. controle van de claxon.    
 
 ### Artikel  3  
 
@@ -120,7 +120,7 @@ h. het innemen van de juiste plaats op de weg voor het uitvoeren van voorgenomen
 
 i. het houden van voldoende volgafstand ten opzichte van de overige weggebruikers;  
 
-j. het rijden met een veilige, aan de verkeersomstandigheden aangepaste snelheid en daarbij de geldende maximumsnelheid niet te overschrijden.     
+j. het rijden met een veilige, aan de verkeersomstandigheden aangepaste snelheid en daarbij de geldende maximumsnelheid niet te overschrijden.    
 
 ### Artikel  4  
 
@@ -142,21 +142,21 @@ g. onder alle omstandigheden rekening te houden met de aard en omvang van het vo
 
 h. tijdig en op doelmatige wijze de snelheid van het voertuig te vertragen, te remmen en te stoppen;  
 
-i. van defensief rijgedrag in verband met de eigen kwetsbaarheid en beperkte zichtbaarheid.    
+i. van defensief rijgedrag in verband met de eigen kwetsbaarheid en beperkte zichtbaarheid.   
 
 ### Artikel  5  
 
-Na afloop van het praktijkexamen draagt het CBR er zorg voor dat het resultaat van het examen aan de aanvrager bekend wordt gemaakt. Bij een onvoldoende examen wordt tevens aangemerkt aan welke exameneisen de aanvrager niet heeft voldaan.  
+Na afloop van het praktijkexamen draagt het CBR er zorg voor dat het resultaat van het examen aan de aanvrager bekend wordt gemaakt. Bij een onvoldoende examen wordt tevens aangemerkt aan welke exameneisen de aanvrager niet heeft voldaan. 
 
 ### Artikel  6  
 
-Deze regeling treedt in werking met ingang van 1 maart 2010.  
+Deze regeling treedt in werking met ingang van 1 maart 2010. 
 
 ### Artikel  5  
 
-Deze regeling wordt aangehaald als: Regeling eisen praktijkexamens rijbewijscategorie AM.  
+Deze regeling wordt aangehaald als: Regeling eisen praktijkexamens rijbewijscategorie AM. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings   
+Minister van Verkeer en Waterstaat,
+C.M.P.S. Eurlings     

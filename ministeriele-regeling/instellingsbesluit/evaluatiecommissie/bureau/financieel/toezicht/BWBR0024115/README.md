@@ -16,7 +16,7 @@ Besluit:
 
 ### Artikel  1  
 
-Er is een Evaluatiecommissie Bureau Financieel Toezicht, hierna te noemen Evaluatiecommissie.  
+Er is een Evaluatiecommissie Bureau Financieel Toezicht, hierna te noemen Evaluatiecommissie. 
 
 ### Artikel  2  
 
@@ -26,11 +26,11 @@ Er is een Evaluatiecommissie Bureau Financieel Toezicht, hierna te noemen Evalua
 
 – te adviseren over de wijze waarop het BFT het meest efficiënt en effectief gepositioneerd kan worden, mede in het licht van de taakstelling die voortkomt uit het coalitieakkoord van het kabinet Balkenende IV;  
 
-– voortbouwend op bovenstaande te adviseren over de wenselijkheid van een eventuele overgang van de huidige bestuursstructuur van het BFT (bestuur-directeur) naar een model directeur/bestuurder met Raad van Toezicht.    
+– voortbouwend op bovenstaande te adviseren over de wenselijkheid van een eventuele overgang van de huidige bestuursstructuur van het BFT (bestuur-directeur) naar een model directeur/bestuurder met Raad van Toezicht.   
 
 ### Artikel  3  
 
-De commissie zal in ieder geval de Nederlandse Orde van Advocaten, de Koninklijke Notariële Beroepsorganisatie en de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders in de gelegenheid stellen om hun visie omtrent het toezicht op de betreffende beroepsgroep naar voren te brengen.  
+De commissie zal in ieder geval de Nederlandse Orde van Advocaten, de Koninklijke Notariële Beroepsorganisatie en de Koninklijke Beroepsorganisatie van Gerechtsdeurwaarders in de gelegenheid stellen om hun visie omtrent het toezicht op de betreffende beroepsgroep naar voren te brengen. 
 
 ### Artikel  4  
 
@@ -54,24 +54,24 @@ b. als leden:
 
 – prof.mr. L.J.J. Rogier, hoogleraar Staats- en Bestuursrecht, Erasmus Universiteit Rotterdam.    
 
-c. in het secretariaat wordt voorzien door de Staatssecretaris.    
+c. in het secretariaat wordt voorzien door de Staatssecretaris.   
 
 ### Artikel  5  
 
-De Commissie zal vóór 1 december 2008 haar advies aan de Staatssecretaris van Justitie uitbrengen.  
+De Commissie zal vóór 1 december 2008 haar advies aan de Staatssecretaris van Justitie uitbrengen. 
 
 ### Artikel  6  
 
-De leden van de Commissie ontvangen vacatiegelden op basis van het [Vacatiegeldenbesluit 1988](../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) en de daarop voor het Ministerie van Justitie geldende bepalingen, waarbij de Commissie als ‘zwaar’ in de zin van het [Vacatiegeldenbesluit 1988](../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) wordt aangemerkt. Daarnaast hebben zij recht op vergoeding wegens reis- en verblijfkosten overeenkomstig het [Reisbesluit binnenland](../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md).  
+De leden van de Commissie ontvangen vacatiegelden op basis van het [Vacatiegeldenbesluit 1988](../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) en de daarop voor het Ministerie van Justitie geldende bepalingen, waarbij de Commissie als ‘zwaar’ in de zin van het [Vacatiegeldenbesluit 1988](../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md) wordt aangemerkt. Daarnaast hebben zij recht op vergoeding wegens reis- en verblijfkosten overeenkomstig het [Reisbesluit binnenland](../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md). 
 
 ### Artikel  7  
 
-Het [Instellingsbesluit van 4 maart 2008, houdende Instelling van de Evaluatiecommissie Bureau Financieel Toezicht](../../../../../../../ministeriele-regeling/instellingsbesluit/evaluatiecommissie/bureau/financieel/toezicht/BWBR0023647/README.md) (Staatscourant 25 maart 2008, nr. 58) wordt ingetrokken.  
+Het [Instellingsbesluit van 4 maart 2008, houdende Instelling van de Evaluatiecommissie Bureau Financieel Toezicht](../../../../../../../ministeriele-regeling/instellingsbesluit/evaluatiecommissie/bureau/financieel/toezicht/BWBR0023647/README.md) (Staatscourant 25 maart 2008, nr. 58) wordt ingetrokken. 
 Dit besluit wordt gepubliceerd in de Staatscourant.   
 
 Den Haag 
 23 juni 2008   
 
 De 
-Staatssecretaris van Justitie, 
-N.Albayrak   
+Staatssecretaris van Justitie,
+N. Albayrak     

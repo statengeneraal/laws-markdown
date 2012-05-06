@@ -15,7 +15,7 @@ Besluit:
 
 ####Water
 
-De [Regeling Meldingen Wvo tandartspraktijken](../../../../ministeriele-regeling/regeling/meldingen/wvo/tandartspraktijken/BWBR0007028/README.md) wordt ingetrokken.  
+De [Regeling Meldingen Wvo tandartspraktijken](../../../../ministeriele-regeling/regeling/meldingen/wvo/tandartspraktijken/BWBR0007028/README.md) wordt ingetrokken. 
 
 ### Artikel  II  
 
@@ -35,7 +35,7 @@ e. [Regeling van de Minister van Verkeer en Waterstaat van 21 september 1994, nr
 
 f. [Regeling van de Minister van Verkeer en Waterstaat van 12 november 1992, nr. RVR136488, houdende de beschikking vrijstelling bepalingen ex artikel 88 Reglement verkeersregels en verkeerstekens 1990](../../../../ministeriele-regeling/beschikking/vrijstelling/bepalingen/ex/artikel/88/reglement/verkeersregels/etc/BWBR0005723/README.md) (Stcrt. 240);  
 
-g. [Regeling van de Minster van Verkeer en Waterstaat van 9 maart 1992, nr. RVR117624, houdende vrijstelling bepalingen Reglement verkeersregels en verkeerstekens 1990](../../../../ministeriele-regeling/vrijstelling/bepalingen/reglement/verkeersregels/en/verkeerstekens/1990/BWBR0005439/README.md) (Stcrt. 82);    
+g. [Regeling van de Minster van Verkeer en Waterstaat van 9 maart 1992, nr. RVR117624, houdende vrijstelling bepalingen Reglement verkeersregels en verkeerstekens 1990](../../../../ministeriele-regeling/vrijstelling/bepalingen/reglement/verkeersregels/en/verkeerstekens/1990/BWBR0005439/README.md) (Stcrt. 82);  
 
 ### §  2  
 
@@ -46,21 +46,21 @@ g. [Regeling van de Minster van Verkeer en Waterstaat van 9 maart 1992, nr. RVR1
 ####Overgangsbepaling
 
 1.  Voor zover er ter zake nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de regelingen, bedoeld in de artikelen I en II, plaats.   
-2.  Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen, bedoeld in de artikelen I en II, blijven in stand.   
+2.  Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen, bedoeld in de artikelen I en II, blijven in stand.  
 
 ### Artikel  IV  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  V  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: VenW-intrekkingsregeling 2008.  
+Deze regeling wordt aangehaald als: VenW-intrekkingsregeling 2008. 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings   
+Minister van Verkeer en Waterstaat,
+C.M.P.S. Eurlings     

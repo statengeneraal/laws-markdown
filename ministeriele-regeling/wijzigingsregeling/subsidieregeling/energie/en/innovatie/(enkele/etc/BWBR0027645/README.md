@@ -8,21 +8,21 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Subsidieregeling energie en innovatie.   
+Wijzigt de Subsidieregeling energie en innovatie. 
 
 ### Artikel  II  
 
-Wijzigt de Subsidieregeling energie en innovatie.   
+Wijzigt de Subsidieregeling energie en innovatie. 
 
 ### Artikel  III  
 
-Wijzigt de Regeling openstelling en subsidieplafonds EZ 2010.   
+Wijzigt de Regeling openstelling en subsidieplafonds EZ 2010. 
 
 ### Artikel  IV  
 
 1.  Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.   
 2.  De [Subsidieregeling energie en innovatie](../../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md) zoals die luidde onmiddellijk voor inwerkingtreding van deze regeling blijft van toepassing op aanvragen om subsidie die vóór de inwerkingtreding van deze regeling zijn ingediend en op subsidies die vóór de inwerkingtreding van deze regeling verstrekt.   
-3.  Het tweede lid is niet van toepassing op artikel I, onderdelen A en B.   
+3.  Het tweede lid is niet van toepassing op artikel I, onderdelen A en B.  
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -30,4 +30,4 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 De 
 Minister van Economische Zaken, 
-M.J.A. van derHoeven   
+M.J.A. van der Hoeven     

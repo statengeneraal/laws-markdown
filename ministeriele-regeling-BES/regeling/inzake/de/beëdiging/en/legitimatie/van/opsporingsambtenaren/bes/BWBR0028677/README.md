@@ -11,55 +11,55 @@ a. voor de ambtenaren van het openbaar ministerie bij het Gemeenschappelijk Hof 
 
 b. voor de overige opsporingsambtenaren op een roze ondergrond.     
 3.  De legitimatiebewijzen zijn doorlopend genummerd en worden aan de linkervoorzijde voorzien van een foto van de houder. Zij worden ingekapseld in plastic of soortgelijk doorschijnend materiaal.   
-4.  Deze regeling berust op artikel 2, tweede en derde lid, van de Wet nopens de beëdiging en legitimatie van opsporingsambtenaren BES.   
+4.  Deze regeling berust op artikel 2, tweede en derde lid, van de Wet nopens de beëdiging en legitimatie van opsporingsambtenaren BES.  
 
 ### Artikel  2  
 
-De legitimatiebewijzen hebben een geldigheidsduur van ten hoogste tien jaren. De datum, waarop de geldigheidsduur eindigt, zal op het legitimatiebewijs worden vermeld.  
+De legitimatiebewijzen hebben een geldigheidsduur van ten hoogste tien jaren. De datum, waarop de geldigheidsduur eindigt, zal op het legitimatiebewijs worden vermeld. 
 
 ### Artikel  3  
 
-De legitimatiebewijzen blijven eigendom van de Staat.  
+De legitimatiebewijzen blijven eigendom van de Staat. 
 
 ### Artikel  4  
 
-Legitimatiebewijzen worden niet per post verzonden.  
+Legitimatiebewijzen worden niet per post verzonden. 
 
 ### Artikel  5  
 
 1.  Zodra de houder van een legitimatiebewijs ophoudt de hoedanigheid van opsporingsambtenaar te bezitten, is hij gehouden het legitimatiebewijs onverwijld bij de korpsbeheerder van het politiekorps Bonaire, Sint Eustatius en Saba in te leveren.   
 2.  Bij vermissing, ontvreemding en geheel of gedeeltelijk tenietgaan van het legitimatiebewijs dient daarvan door de houder terstond te worden kennisgegeven aan de gezaghebber zijner woonplaats. De gezaghebbers zijn gehouden zodanige kennisgevingen ten spoedigste door te geven aan de korpsbeheerder.   
-3.  De in de voorgaande leden bedoelde inlevering of kennisgeving geschiedt zoveel mogelijk door tussenkomst van het hoofd van de dienst of werkgever van de betrokken opsporingsambtenaar.   
+3.  De in de voorgaande leden bedoelde inlevering of kennisgeving geschiedt zoveel mogelijk door tussenkomst van het hoofd van de dienst of werkgever van de betrokken opsporingsambtenaar.  
 
 ### Artikel  6  
 
 1.  Aanvragen tot afgifte van een legitimatiebewijs dienen te worden gericht aan de korpsbeheerder, onder gebruikmaking van een aanvraagformulier, ingericht als aangegeven in bijlage II van deze regeling.   
 2.  De aanvragen worden ondertekend door het hoofd van de dienst of onderneming of door één of meer daartoe bevoegde leden van het bestuur der vereniging of stichting, waarbij of waarvoor de opsporingsambtenaar werkzaam is.   
-3.  De aanvragen dienen vergezeld te gaan van twee goedgelijkende pasfoto's van de opsporingsambtenaar. Deze pasfoto's moeten 4 cm hoog en 3 cm breed zijn.   
+3.  De aanvragen dienen vergezeld te gaan van twee goedgelijkende pasfoto's van de opsporingsambtenaar. Deze pasfoto's moeten 4 cm hoog en 3 cm breed zijn.  
 
 ### Artikel  7  
 
 1.  Door de zorg van de korpsbeheerder zullen de opsporingsambtenaren, alsmede hun hoofden van dienst of werkgevers, dan wel de betrokken verenigingen of stichtingen tijdig schriftelijk in kennis worden gesteld van het verstrijken van de geldigheidsduur der legitimatiebewijzen. Na ontvangst dezer kennisgeving zijn de opsporingsambtenaren gehouden twee recente pasfoto’s in te leveren bij het hoofd van dienst, de werkgever, de vereniging of de stichting, die deze zal doorzenden aan de korpsbeheerder, onder opgave van de wijzigingen, die eventueel in de gegevens op het legitimatiebewijs moeten worden aangebracht.   
-2.  Het nieuwe legitimatiebewijs wordt aan het hoofd van de dienst, de werkgever, de vereniging of de stichting gezonden, die dit aan betrokkene zal doen uitreiken tegen inlevering van het oude legitimatiebewijs. Het hoofd van dienst, de werkgever, de vereniging of stichting zendt het ingeleverde legitimatiebewijs ten spoedigste aan de korpsbeheerder.   
+2.  Het nieuwe legitimatiebewijs wordt aan het hoofd van de dienst, de werkgever, de vereniging of de stichting gezonden, die dit aan betrokkene zal doen uitreiken tegen inlevering van het oude legitimatiebewijs. Het hoofd van dienst, de werkgever, de vereniging of stichting zendt het ingeleverde legitimatiebewijs ten spoedigste aan de korpsbeheerder.  
 
 ### Artikel  8  
 
-De legitimatiebewijzen worden ondertekend door of namens Onze Minister van Justitie.  
+De legitimatiebewijzen worden ondertekend door of namens Onze Minister van Justitie. 
 
 ### Artikel  9  
 
 1.  De verstrekking van legitimatiebewijzen geschiedt kosteloos.   
 2.  De legitimatiebewijzen worden vervaardigd en uitgereikt door de zorg van de korpsbeheerder.   
 3.  De korpsbeheerder plaatst op elk legitimatiebewijs een afdruk van zijn dienststempel, zodanig dat daardoor ook de pasfoto gedeeltelijk wordt bedekt.   
-4.  Wanneer de opsporingsambtenaar tevens hulpofficier van justitie is, wordt zulks op het legitimatiebewijs vermeld.   
+4.  Wanneer de opsporingsambtenaar tevens hulpofficier van justitie is, wordt zulks op het legitimatiebewijs vermeld.  
 
 ### Artikel  10  
 
-Door de zorg van de korpsbeheerder worden de door hem afgegeven legitimatiebewijzen geregistreerd in een doorlopend register, waarvan de bladzijden zijn ingericht als aangegeven in bijlage III van deze beschikking. Naast dit register wordt een alphabetisch-lexicografisch kaartsysteem bijgehouden, waarvan de kaarten zijn ingericht als aangegeven in bijlage IV van deze regeling.  
+Door de zorg van de korpsbeheerder worden de door hem afgegeven legitimatiebewijzen geregistreerd in een doorlopend register, waarvan de bladzijden zijn ingericht als aangegeven in bijlage III van deze beschikking. Naast dit register wordt een alphabetisch-lexicografisch kaartsysteem bijgehouden, waarvan de kaarten zijn ingericht als aangegeven in bijlage IV van deze regeling. 
 
 ### Artikel  11  
 
-Deze regeling wordt aangehaald als: Regeling inzake de beëdiging en legitimatie van opsporingsambtenaren BES.  
+Deze regeling wordt aangehaald als: Regeling inzake de beëdiging en legitimatie van opsporingsambtenaren BES. 
 
 ### Bijlage  I  
 
@@ -147,7 +147,7 @@ Voor het register van de afgegeven legitimatiebewijzen Linker bladzijde
 |:---|:---|:---|:---|
 | Volgnummer  | Naam en voorletters  | Geboorteplaats  | Geboortedatum  |
 | --- | --- | --- | --- |
-| 1 <sup>e</sup> bewijs  | --- | --- | --- |
+| 1<sup>e</sup> bewijs  | --- | --- | --- |
 | --- | --- | --- | --- |
 
 Rechter bladzijde:   

@@ -4,7 +4,7 @@
 
 De Staatssecretaris van Justitie,  
 Gelet op [artikel 31 van het Besluit burgerlijke stand 1994](../../../../../../../../../../../AMvB/besluit/burgerlijke/stand/1994/BWBR0006493/README.md), Stb. 1994, 160;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -20,11 +20,11 @@ a. formulieren ingericht overeenkomstig het als bijlage 1 aangehechte model (for
 b. een CD-ROM die voldoet aan de normen van ISO 9660 en ISO 10149.    
 2.  De formulieren en de CD-ROM gaan vergezeld van een begeleidende brief volgens het als bijlage 2 aangehechte model (formaat A4).   
 3.  Voor de verpakking van een CD-ROM mag uitsluitend gebruik gemaakt worden van een kunststof verpakking waardoor beschadiging van de CD-ROM bij normaal vervoer per post redelijkerwijze is uitgesloten.   
-4.  De toezending van de formulieren en van de CD-ROM geschiedt per aangetekende post met ontvangstbevestiging.   
+4.  De toezending van de formulieren en van de CD-ROM geschiedt per aangetekende post met ontvangstbevestiging.  
 
 ### Artikel  3  
 
-Deze regeling treedt in werking op het tijdstip waarop het besluit van 31 maart 2004 tot wijziging van het besluit burgerlijke stand 1994 in verband met het mogelijk maken van vervaardiging op digitale wijze van de dubbelen van de akten van de burgerlijke stand in werking treedt (Stb. 2004, 190).  
+Deze regeling treedt in werking op het tijdstip waarop het besluit van 31 maart 2004 tot wijziging van het besluit burgerlijke stand 1994 in verband met het mogelijk maken van vervaardiging op digitale wijze van de dubbelen van de akten van de burgerlijke stand in werking treedt (Stb. 2004, 190). 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -32,15 +32,15 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Staatssecretaris voornoemd, 
-M.J.Cohen   
+M.J. Cohen     
 
-### Bijlage  1  
+### Bijlage 1  
 
 ####Kennisgeving latere vermelding
 
 ![82838](http://wetten.overheid.nl/Illustration/82838)
 
-### Bijlage  2  
+### Bijlage 2  
 
 ####Begeleidende brief
 

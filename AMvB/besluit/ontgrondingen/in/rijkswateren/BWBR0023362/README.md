@@ -26,7 +26,7 @@ c. het doen van grondboringen en sonderingen;
 d. het leggen, plaatsen, onderhouden, wijzigen of opruimen van buizen, kabels, palen en dergelijke voorwerpen;  
 
 e. het graven van slikgruppen ter bevordering van aanwas.     
-2.  Indien bij een ontgronding als bedoeld in het eerste lid een monument of een vermoedelijk monument als bedoeld in de [Monumentenwet 1988](../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), wordt gevonden, stelt degene die is overgegaan tot de ontgronding gegevens en bescheiden waarover hij de beschikking heeft en die informatie kunnen verschaffen over de aanwezigheid of te verwachten aanwezigheid van het monument, ter beschikking aan Onze Minister van Onderwijs, Cultuur en Wetenschap. De [artikelen 53](../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), [56](../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), [58, eerste lid](../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), en [59 van de Monumentenwet 1988](../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md) zijn van overeenkomstige toepassing.   
+2.  Indien bij een ontgronding als bedoeld in het eerste lid een monument of een vermoedelijk monument als bedoeld in de [Monumentenwet 1988](../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), wordt gevonden, stelt degene die is overgegaan tot de ontgronding gegevens en bescheiden waarover hij de beschikking heeft en die informatie kunnen verschaffen over de aanwezigheid of te verwachten aanwezigheid van het monument, ter beschikking aan Onze Minister van Onderwijs, Cultuur en Wetenschap. De [artikelen 53](../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), [56](../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), [58, eerste lid](../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), en [59 van de Monumentenwet 1988](../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md) zijn van overeenkomstige toepassing.  
 
 ### Artikel  2  
 
@@ -35,7 +35,7 @@ e. het graven van slikgruppen ter bevordering van aanwas.
 a. plaatsvindt op een afstand van ten minste 500 meter van militaire oefengebieden, buisleidingen, kabels, oevers, andere vaste objecten of aanwezige of te verwachten monumenten, en  
 
 b. niet meer betreft dan een bij ministeriële regeling aangewezen hoeveelheid vaste stoffen die in een daarbij te noemen maximum aantal reizen wordt gewonnen en welke hoeveelheid per daarbij aangewezen rijkswater kan verschillen.     
-2.  Het eerste lid is niet van toepassing op ontgrondingen in een in het Integraal Beheerplan Noordzee 2015 aangewezen gebied met bijzondere ecologische waarden zolang dat gebied niet is aangewezen krachtens [artikel 10, eerste lid](../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md), of [10a, eerste lid, van de Natuurbeschermingswet 1998](../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md).   
+2.  Het eerste lid is niet van toepassing op ontgrondingen in een in het Integraal Beheerplan Noordzee 2015 aangewezen gebied met bijzondere ecologische waarden zolang dat gebied niet is aangewezen krachtens [artikel 10, eerste lid](../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md), of [10a, eerste lid, van de Natuurbeschermingswet 1998](../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md).  
 
 ### Artikel  3  
 
@@ -67,7 +67,7 @@ c. de aard van de vaste stoffen die zijn ontgrond en de aard van de vaste stoffe
 
 d. de exacte locatie van de ontgronding.     
 4.  Bij ministeriële regeling kunnen nadere regels worden gesteld inzake de wijze van melding en de daarbij te verstrekken gegevens en bescheiden.   
-5.  Op een ontgronding als bedoeld in artikel 2, is artikel 1, tweede lid van overeenkomstige toepassing.   
+5.  Op een ontgronding als bedoeld in artikel 2, is artikel 1, tweede lid van overeenkomstige toepassing.  
 
 ### Artikel  4  
 
@@ -97,11 +97,11 @@ g. een beschrijving van het water waarop de aanvraag betrekking heeft, onder ver
 h. een beschrijving van de toestand waarin het terrein of de bodem van het water na de ontgronding wordt gebracht, onder vermelding van de daaraan te geven bestemming.     
 3.  Op verzoek van Onze Minister verstrekt de aanvrager de resultaten van voor de belangenafweging benodigde onderzoeken.   
 4.  Het tweede en derde lid zijn van toepassing op een aanvraag tot wijziging van een vergunning, voor zover de in die leden bedoelde gegevens en bescheiden niet reeds bij de aanvraag tot verlening van de vergunning zijn verstrekt en sindsdien niet zijn gewijzigd.   
-5.  Op een ontgronding als bedoeld in het eerste lid, is artikel 1, tweede lid, van overeenkomstige toepassing.   
+5.  Op een ontgronding als bedoeld in het eerste lid, is artikel 1, tweede lid, van overeenkomstige toepassing.  
 
 ### Artikel  5  
 
-1.  In afwijking van [artikel 10, eerste lid, van de Ontgrondingenwet](../../../../../../wet/ontgrondingenwet/BWBR0002505/README.md) zijn op de voorbereiding van een beschikking als bedoeld in [artikel 8, eerste lid, van die wet](../../../../../../wet/ontgrondingenwet/BWBR0002505/README.md)[afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [afdeling 13.2 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) niet van toepassing voor zover het betreft: 
+1.  In afwijking van [artikel 10, eerste lid, van de Ontgrondingenwet](../../../../../../wet/ontgrondingenwet/BWBR0002505/README.md) zijn op de voorbereiding van een beschikking als bedoeld in [artikel 8, eerste lid, van die wet](../../../../../../wet/ontgrondingenwet/BWBR0002505/README.md) [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [afdeling 13.2 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) niet van toepassing voor zover het betreft: 
 
 a. de verlenging van een bestaande vergunning, indien de termijn van verlenging, tezamen met eventuele eerdere verlengingstermijnen, niet meer bedraagt dan de helft van de oorspronkelijke vergunningstermijn, of  
 
@@ -114,7 +114,7 @@ b. een ontgronding op een afstand van tenminste 500 meter van buisleidingen, kab
 
 a. activiteiten, genoemd in het [Besluit milieueffectrapportage](../../../../../../AMvB/besluit/milieueffectrapportage/BWBR0006788/README.md);  
 
-b. ontgrondingen in een gebied als bedoeld in artikel 2, tweede lid.     
+b. ontgrondingen in een gebied als bedoeld in artikel 2, tweede lid.    
 
 ### Artikel  6  
 
@@ -125,24 +125,24 @@ b. ontgrondingen in een gebied als bedoeld in artikel 2, tweede lid.
 5.  Bij intrekking van de aanvraag na de toezending van het ontwerp van het besluit aan de aanvrager, maar vóór de toezending van het besluit, wordt het recht met 10% van de opslag verminderd.   
 6.  Indien de hoeveelheid vaste stoffen waarop de aanvraag betrekking heeft meer bedraagt dan de hoeveelheid waarop de vergunning, onderscheidenlijk het besluit tot wijziging van een vergunning betrekking heeft, wordt het recht verminderd. Het bedrag waarmee het recht wordt verminderd wordt bepaald door de opslag, berekend met toepassing van de bijlage bij dit besluit voor de hoeveelheid waarop de aanvraag betrekking heeft, te verminderen met de opslag berekend met toepassing van de bijlage bij dit besluit voor de hoeveelheid waarop de vergunning onderscheidenlijk de beschikking tot wijziging van de vergunning betrekking heeft.   
 7.  Indien ter zake van de behandeling van de aanvraag [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet is toegepast en het recht meer bedraagt dan € 2250,00 wordt het recht verminderd tot € 2250,00.   
-8.  In afwijking van het eerste lid wordt ter zake van de behandeling van een door of vanwege Onze Minister ingediende aanvraag om een vergunning of wijziging van een vergunning geen recht geheven.   
+8.  In afwijking van het eerste lid wordt ter zake van de behandeling van een door of vanwege Onze Minister ingediende aanvraag om een vergunning of wijziging van een vergunning geen recht geheven.  
 
 ### Artikel  7  
 
 1.  Het recht, bedoeld in artikel 6, wordt binnen twee weken na de dag van indiening van de aanvraag om een vergunning of wijziging van een vergunning, betaald aan Onze Minister.   
-2.  Indien artikel 6, derde, vierde, vijfde, zesde of zevende lid van toepassing is, vindt terugbetaling plaats van het bedrag waarmee het recht verminderd wordt.   
+2.  Indien artikel 6, derde, vierde, vijfde, zesde of zevende lid van toepassing is, vindt terugbetaling plaats van het bedrag waarmee het recht verminderd wordt.  
 
 ### Artikel  8  
 
-Het [Rijksreglement ontgrondingen](../../../../../../AMvB/rijksreglement/ontgrondingen/BWBR0002781/README.md) wordt ingetrokken.  
+Het [Rijksreglement ontgrondingen](../../../../../../AMvB/rijksreglement/ontgrondingen/BWBR0002781/README.md) wordt ingetrokken. 
 
 ### Artikel  9  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  10  
 
-Dit besluit wordt aangehaald als: Besluit ontgrondingen in rijkswateren.  
+Dit besluit wordt aangehaald als: Besluit ontgrondingen in rijkswateren. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -150,26 +150,26 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 9 januari 2008  
 Beatrix  
 
-De Staatssecretaris van Verkeer en Waterstaat, 
-J. C.Huizinga-Heringa 
+De Staatssecretaris van Verkeer en Waterstaat , 
+J. C. Huizinga-Heringa   
 
 de *vierentwintigste* januari 2008 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    
 
-### Bijlage  
+### Bijlage 
 
 ####bij artikel 6  van het Besluit ontgrondingen in rijkswateren
 
 De opslag, bedoeld in artikel 6 wordt berekend aan de hand van onderstaande tabel. Daarbij wordt de hoeveelheid vaste stoffen berekend in middelen van vervoer in het gebied waarop de aanvraag betrekking heeft. De volumetoename door uitlevering wordt voor de berekening van de opslag vastgesteld op tien procent.  
 
-| Bij een hoeveelheid vaste stoffen van meer dan  | doch niet meer dan  | bedraagt de opslag het in kolom III vermelde bedrag, vermeerderd met de vermenigvuldiging van het in kolom IV vermelde bedrag met het verschil, uitgedrukt in hele duizendtallen m <sup>3</sup> en naar boven afgerond, tussen de totale hoeveelheid vaste stoffen waarover de opslag wordt berekend en de in kolom I vermelde hoeveelheid.  | Kolom I  | Kolom II  | Kolom III  | Kolom IV  |
+| Bij een hoeveelheid vaste stoffen van meer dan  | doch niet meer dan  | bedraagt de opslag het in kolom III vermelde bedrag, vermeerderd met de vermenigvuldiging van het in kolom IV vermelde bedrag met het verschil, uitgedrukt in hele duizendtallen m<sup>3</sup> en naar boven afgerond, tussen de totale hoeveelheid vaste stoffen waarover de opslag wordt berekend en de in kolom I vermelde hoeveelheid.  | Kolom I  | Kolom II  | Kolom III  | Kolom IV  |
 |:---|:---|:---|:---|:---|:---|:---|
-| 0 m <sup>3</sup>  | 100 000 m <sup>3</sup>  | € 0,00  | € 30,00  |
-| 100 000 m <sup>3</sup>  | 200 000 m <sup>3</sup>  | € 3 000,00  | € 20,00  |
-| 200 000 m <sup>3</sup>  | 500 000 m <sup>3</sup>  | € 5 000,00  | € 10,00  |
-| 500 000 m <sup>3</sup>  | 1 000 000 m <sup>3</sup>  | € 8 000,00  | € 5,00  |
-| 1 000 000 m <sup>3</sup>  | 2 000 000 m <sup>3</sup>  | € 10 500,00  | € 2,50  |
-| 2 000 000 m <sup>3</sup>  | -  | € 13 000,00  | € 0,00  |
+| 0 m<sup>3</sup>   | 100 000 m<sup>3</sup>   | € 0,00  | € 30,00  |
+| 100 000 m<sup>3</sup>   | 200 000 m<sup>3</sup>   | € 3 000,00  | € 20,00  |
+| 200 000 m<sup>3</sup>   | 500 000 m<sup>3</sup>   | € 5 000,00  | € 10,00  |
+| 500 000 m<sup>3</sup>   | 1 000 000 m<sup>3</sup>   | € 8 000,00  | € 5,00  |
+| 1 000 000 m<sup>3</sup>   | 2 000 000 m<sup>3</sup>   | € 10 500,00  | € 2,50  |
+| 2 000 000 m<sup>3</sup>   | -  | € 13 000,00  | € 0,00  |
 

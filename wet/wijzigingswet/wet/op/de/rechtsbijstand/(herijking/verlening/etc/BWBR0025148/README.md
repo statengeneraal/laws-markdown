@@ -11,30 +11,30 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet op de rechtsbijstand.   
+Wijzigt de Wet op de rechtsbijstand. 
 
 ### Artikel  Ia  
 
-Wijzigt de Penitentiaire beginselenwet.   
+Wijzigt de Penitentiaire beginselenwet. 
 
 ### Artikel  II  
 
-Op aanvragen om een toevoeging, die door de raad zijn ontvangen voor inwerkingtreding van deze wet is het recht zoals dat gold voor inwerkingtreding van deze wet van toepassing.  
+Op aanvragen om een toevoeging, die door de raad zijn ontvangen voor inwerkingtreding van deze wet is het recht zoals dat gold voor inwerkingtreding van deze wet van toepassing. 
 
 ### Artikel  III  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 's-Gravenhage 
 29 december 2008  
 Beatrix  
 
-De Staatssecretaris van Justitie, 
-N.Albayrak 
+De Staatssecretaris van Justitie , 
+N. Albayrak   
 
 de *dertiende* januari 2009 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

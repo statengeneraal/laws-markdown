@@ -2,7 +2,7 @@
 
 ##Aanwijzing Nieuwkoopse Plassen als speciale beschermingszone EG-Vogelrichtlijn
 
-De Minister van Landbouw, Natuurbeheer en Visserij,  Besluit:    
+De Minister van Landbouw, Natuurbeheer en Visserij,  Besluit:     
 
 ### Artikel  1  
 
@@ -11,11 +11,11 @@ De Minister van Landbouw, Natuurbeheer en Visserij,  Besluit:
 
 ### Artikel  2  
 
-Deze beschikking treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze beschikking treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ’s-Gravenhage 
 14 februari 1997    
 
 De 
 Minister van Landbouw, Natuur-beheer en Visserij, 
-J.J. vanAartsen    
+J.J. van Aartsen      

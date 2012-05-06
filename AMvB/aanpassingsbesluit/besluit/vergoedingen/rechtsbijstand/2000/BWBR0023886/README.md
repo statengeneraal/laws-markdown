@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit vergoedingen rechtsbijstand 2000.   
+Wijzigt het Besluit vergoedingen rechtsbijstand 2000. 
 
 ### Artikel  II  
 
-Het [Besluit vergoedingen rechtsbijstand 2000](../../../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md), zoals dat luidde vóór de inwerkingtreding van dit besluit, blijft van toepassing op aanvragen om een toevoeging die door de raad zijn ontvangen vóór de inwerkingtreding van dit besluit.  
+Het [Besluit vergoedingen rechtsbijstand 2000](../../../../../../../AMvB/besluit/vergoedingen/rechtsbijstand/2000/BWBR0011018/README.md), zoals dat luidde vóór de inwerkingtreding van dit besluit, blijft van toepassing op aanvragen om een toevoeging die door de raad zijn ontvangen vóór de inwerkingtreding van dit besluit. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van 1 juni 2008.  
+Dit besluit treedt in werking met ingang van 1 juni 2008. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -31,10 +31,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 19 mei 2008  
 Beatrix  
 
-De Staatssecretaris van Justitie, 
+De Staatssecretaris van Justitie,  
 N. Albayrak   
 
 de *zevenentwintigste* mei 2008 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    

@@ -8,17 +8,17 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Uitvoeringsregeling en beleidsregel BDU verkeer en vervoer.   
+Wijzigt de Uitvoeringsregeling en beleidsregel BDU verkeer en vervoer. 
 
 ### Artikel  II  
 
-De [bijlagen I](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/en/beleidsregel/bdu/verkeer/en/vervoer/BWBR0018109/README.md) en [II](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/en/beleidsregel/bdu/verkeer/en/vervoer/BWBR0018109/README.md) blijven van toepassing op de verantwoording over de besteding en reservering ten laste van de uitkering over het jaar 2005.  
+De [bijlagen I](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/en/beleidsregel/bdu/verkeer/en/vervoer/BWBR0018109/README.md) en [II](../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/en/beleidsregel/bdu/verkeer/en/vervoer/BWBR0018109/README.md) blijven van toepassing op de verantwoording over de besteding en reservering ten laste van de uitkering over het jaar 2005. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-K.M.H.Peijs   
+K.M.H. Peijs     

@@ -13,7 +13,7 @@ Gelet op:
 
 – [artikel 22, tweede en derde lid, van het Besluit luchtvaartuigen 2008](../../../../../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md);  
 
-– de [artikelen 1](../../../../../../../../../../AMvB/besluit/beperking/geluidhinder/luchtvaartuigen/BWBR0003404/README.md) en [4 van het Besluit van 21 mei 1981, houdende vaststelling van enige regels ter beperking van de geluidhinder door luchtvaartuigen](../../../../../../../../../../AMvB/besluit/beperking/geluidhinder/luchtvaartuigen/BWBR0003404/README.md);  
+– de [artikelen 1 ](../../../../../../../../../../AMvB/besluit/beperking/geluidhinder/luchtvaartuigen/BWBR0003404/README.md)en [4 van het Besluit van 21 mei 1981, houdende vaststelling van enige regels ter beperking van de geluidhinder door luchtvaartuigen](../../../../../../../../../../AMvB/besluit/beperking/geluidhinder/luchtvaartuigen/BWBR0003404/README.md);  
 
 – [artikel 5 van het Besluit vluchtuitvoering](../../../../../../../../../../AMvB/besluit/vluchtuitvoering/BWBR0020111/README.md);  
 
@@ -29,67 +29,67 @@ Gelet op:
 
 ### Artikel  I  
 
-Wijzigt het Besluit aanwijzing toezichthouders luchtvaart.   
+Wijzigt het Besluit aanwijzing toezichthouders luchtvaart. 
 
 ### Artikel  II  
 
-Wijzigt de Mijnbouwregeling.   
+Wijzigt de Mijnbouwregeling. 
 
 ### Artikel  III  
 
-Wijzigt de Regeling gebruik hoogtemeter.   
+Wijzigt de Regeling gebruik hoogtemeter. 
 
 ### Artikel  IV  
 
-Wijzigt de Regeling grondafhandeling luchtvaartterreinen.   
+Wijzigt de Regeling grondafhandeling luchtvaartterreinen. 
 
 ### Artikel  V  
 
-Wijzigt de Regeling kabelvliegers en kleine ballons.   
+Wijzigt de Regeling kabelvliegers en kleine ballons. 
 
 ### Artikel  VI  
 
-Wijzigt de Regeling luchtvaartheffingen.   
+Wijzigt de Regeling luchtvaartheffingen. 
 
 ### Artikel  VII  
 
-Wijzigt de Regeling luchtvaartvertoningen.   
+Wijzigt de Regeling luchtvaartvertoningen. 
 
 ### Artikel  VIII  
 
-Wijzigt de Regeling luchtverkeersdienstverlening.   
+Wijzigt de Regeling luchtverkeersdienstverlening. 
 
 ### Artikel  IX  
 
-Wijzigt de Regeling modelvliegen.   
+Wijzigt de Regeling modelvliegen. 
 
 ### Artikel  X  
 
-Wijzigt de Regeling navigatie- en telecommunicatie-installaties.   
+Wijzigt de Regeling navigatie- en telecommunicatie-installaties. 
 
 ### Artikel  XI  
 
-Wijzigt de Regeling omgevingslawaai luchtvaart.   
+Wijzigt de Regeling omgevingslawaai luchtvaart. 
 
 ### Artikel  XII  
 
-Wijzigt de Regeling seinen luchtvaart.   
+Wijzigt de Regeling seinen luchtvaart. 
 
 ### Artikel  XIII  
 
-Wijzigt de Regeling standaard luchtverkeerscircuits.   
+Wijzigt de Regeling standaard luchtverkeerscircuits. 
 
 ### Artikel  XIV  
 
-Wijzigt de Regeling tarieven luchtvaart 2008.   
+Wijzigt de Regeling tarieven luchtvaart 2008. 
 
 ### Artikel  XV  
 
-Wijzigt de Regeling vliegplannen.   
+Wijzigt de Regeling vliegplannen. 
 
 ### Artikel  XVI  
 
-Wijzigt de Vrijstellingsregeling LVR.   
+Wijzigt de Vrijstellingsregeling LVR. 
 
 ### Artikel  XVII  
 
@@ -97,17 +97,17 @@ Ingetrokken worden:
 
 a. de [Beschikking van de Minister van Verkeer en Waterstaat van 18 maart 1994, nr. RLD/LI94.1208, tot aanwijzing van de ambtenaren van de Luchtvaartpolitie van het Korps Landelijke Politiediensten als ambtenaren bedoeld in artikel 73, eerste lid, van de Luchtvaartwet](../../../../../../../../../../ministeriele-regeling/aanwijzing/politieambtenaren/bevoegd/tot/betreding/van/luchtvaartterreinen/BWBR0006527/README.md) (Stcrt. 58);  
 
-b. de [Nachtvliegregeling Maastricht Airport 1990](../../../../../../../../../../ministeriele-regeling/nachtvliegregeling/maastricht/airport/1990/BWBR0004945/README.md).    
+b. de [Nachtvliegregeling Maastricht Airport 1990](../../../../../../../../../../ministeriele-regeling/nachtvliegregeling/maastricht/airport/1990/BWBR0004945/README.md).  
 
 ### Artikel  XVIII  
 
-De regelingen, genoemd in de artikelen I tot en met III en VII tot en met XVI zoals zij luidden vóór inwerkingtreding van die artikelen, blijven van toepassing op een luchtvaartterrein, aangewezen op grond van [artikel 18 van de Luchtvaartwet](../../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md), zolang op dat luchtvaartterrein het bepaalde bij of krachtens de [Luchtvaartwet](../../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) van toepassing blijft krachtens [artikel IX, tweede lid](../../../../../../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md), of [artikel XVIII, derde lid, van de Wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens)](../../../../../../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md) (Stb. 561).  
+De regelingen, genoemd in de artikelen I tot en met III en VII tot en met XVI zoals zij luidden vóór inwerkingtreding van die artikelen, blijven van toepassing op een luchtvaartterrein, aangewezen op grond van [artikel 18 van de Luchtvaartwet](../../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md), zolang op dat luchtvaartterrein het bepaalde bij of krachtens de [Luchtvaartwet](../../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) van toepassing blijft krachtens [artikel IX, tweede lid](../../../../../../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md), of [artikel XVIII, derde lid, van de Wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens)](../../../../../../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md) (Stb. 561). 
 
 ### Artikel  XIX  
 
-Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings   
+C.M.P.S. Eurlings     

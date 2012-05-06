@@ -10,32 +10,32 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling modellen en formulieren ten behoeve van verkeershandhaving Justitie.   
+Wijzigt de Regeling modellen en formulieren ten behoeve van verkeershandhaving Justitie. 
 
 ### Artikel  II  
 
-Wijzigt de Regeling maatregelen rijvaardigheid en geschiktheid.   
+Wijzigt de Regeling maatregelen rijvaardigheid en geschiktheid. 
 
 ### Artikel  III  
 
-Wijzigt de Regeling wapens en munitie.   
+Wijzigt de Regeling wapens en munitie. 
 
 ### Artikel  IV  
 
-Wijzigt de Regeling aanvraag erkenning en onkostenvergoeding goedkeuring Wet explosieven voor civiel gebruik.   
+Wijzigt de Regeling aanvraag erkenning en onkostenvergoeding goedkeuring Wet explosieven voor civiel gebruik. 
 
 ### Artikel  V  
 
 1.  In strafzaken waarin voor het in werking treden van [artikel II, onderdelen O tot en met R](../../../../wet/wet/om-afdoening/BWBR0020074/README.md), [artikel III](../../../../wet/wet/om-afdoening/BWBR0020074/README.md), [artikel IV](../../../../wet/wet/om-afdoening/BWBR0020074/README.md) en [artikel VI van de Wet OM-afdoening](../../../../wet/wet/om-afdoening/BWBR0020074/README.md) voorwaarden ter voorkoming van strafvervolging zijn gesteld overeenkomstig de [artikelen 74](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [74c van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), de [artikelen 36](../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) en [37 van de Wet op de economische delicten](../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md), [artikel 76 van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), dan wel [artikel 85 van de Waterschapswet](../../../../wet/waterschapswet/BWBR0005108/README.md), blijven de artikelen die door de artikelen II tot en met IV van deze regeling gewijzigd worden of vervallen, van toepassing zoals zij luidden voor het in werking treden van die artikelen van deze regeling.   
-2.  In strafzaken waarin voorwaarden ter voorkoming van strafvervolging zijn gesteld overeenkomstig [artikel 59 van het Wetboek van Militair Strafrecht](../../../../rijkswet/wetboek/van/militair/strafrecht/BWBR0001869/README.md), blijven de artikelen die door de artikelen II tot en met IV van deze regeling gewijzigd worden of vervallen van toepassing zoals zij luidden voor het in werking treden van die artikelen van deze regeling.   
+2.  In strafzaken waarin voorwaarden ter voorkoming van strafvervolging zijn gesteld overeenkomstig [artikel 59 van het Wetboek van Militair Strafrecht](../../../../rijkswet/wetboek/van/militair/strafrecht/BWBR0001869/README.md), blijven de artikelen die door de artikelen II tot en met IV van deze regeling gewijzigd worden of vervallen van toepassing zoals zij luidden voor het in werking treden van die artikelen van deze regeling.  
 
 ### Artikel  VI  
 
-Deze regeling wordt aangehaald als: Regeling OM-afdoening.  
+Deze regeling wordt aangehaald als: Regeling OM-afdoening. 
 
 ### Artikel  VII  
 
-Deze regeling treedt in werking op het tijdstip waarop de [Wet OM-afdoening](../../../../wet/wet/om-afdoening/BWBR0020074/README.md) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop de [Wet OM-afdoening](../../../../wet/wet/om-afdoening/BWBR0020074/README.md) in werking treedt. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -43,4 +43,4 @@ Den Haag
 
 De 
 Minister van Justitie, 
-E.M.H.Hirsch Ballin   
+E.M.H. Hirsch Ballin     

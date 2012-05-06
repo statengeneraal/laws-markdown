@@ -16,43 +16,43 @@ b. het nemen van besluiten tot intrekking van de verklaring zoals bedoeld in [ar
 
 c. het nemen van besluiten met betrekking tot projecten als bedoeld in [artikel 11 van de Regeling groenprojecten 2005](../../../../../../../ministeriele-regeling/regeling/groenprojecten/2005/BWBR0018466/README.md).  
 
-d. het beslissen op bezwaarschriften tegen besluiten als bedoeld in onderdelen a, b en c, voorzover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen.    
+d. het beslissen op bezwaarschriften tegen besluiten als bedoeld in onderdelen a, b en c, voorzover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen.   
 
 ### Artikel  2  
 
-Met betrekking tot projecten als bedoeld in [artikel 2, onderdeel k, van de Regeling groenprojecten 2005](../../../../../../../ministeriele-regeling/regeling/groenprojecten/2005/BWBR0018466/README.md) neemt de algemeen directeur van Agentschap NL slechts besluiten en beslist hij slechts op bezwaarschriften nadat hij van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de Staatssecretaris van Financiën schriftelijk de bevestiging verkregen heeft, dat zij met het besluit of de beslissing instemmen.  
+Met betrekking tot projecten als bedoeld in [artikel 2, onderdeel k, van de Regeling groenprojecten 2005](../../../../../../../ministeriele-regeling/regeling/groenprojecten/2005/BWBR0018466/README.md) neemt de algemeen directeur van Agentschap NL slechts besluiten en beslist hij slechts op bezwaarschriften nadat hij van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de Staatssecretaris van Financiën schriftelijk de bevestiging verkregen heeft, dat zij met het besluit of de beslissing instemmen. 
 
 ### Artikel  3  
 
-Met betrekking tot projecten als bedoeld in [artikel 2, onderdelen g tot en met j, van de Regeling groenprojecten 2005](../../../../../../../ministeriele-regeling/regeling/groenprojecten/2005/BWBR0018466/README.md), waarvan het projectvermogen meer bedraagt dan € 15.000.000, neemt de algemeen directeur van Agentschap NL slechts besluiten en beslist hij slechts op bezwaarschriften nadat hij van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de Staatssecretaris van Financiën schriftelijk de bevestiging verkregen heeft, dat zij met het besluit of de beslissing instemmen.  
+Met betrekking tot projecten als bedoeld in [artikel 2, onderdelen g tot en met j, van de Regeling groenprojecten 2005](../../../../../../../ministeriele-regeling/regeling/groenprojecten/2005/BWBR0018466/README.md), waarvan het projectvermogen meer bedraagt dan € 15.000.000, neemt de algemeen directeur van Agentschap NL slechts besluiten en beslist hij slechts op bezwaarschriften nadat hij van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de Staatssecretaris van Financiën schriftelijk de bevestiging verkregen heeft, dat zij met het besluit of de beslissing instemmen. 
 
 ### Artikel  4  
 
-Aan de algemeen directeur van Agentschap NL wordt volmacht en machtiging verleend tot het verrichten van alle benodigde werkzaamheden ter voorbereiding en ter uitvoering van de besluiten als bedoeld in artikel 1.  
+Aan de algemeen directeur van Agentschap NL wordt volmacht en machtiging verleend tot het verrichten van alle benodigde werkzaamheden ter voorbereiding en ter uitvoering van de besluiten als bedoeld in artikel 1. 
 
 ### Artikel  5  
 
-De algemeen directeur van Agentschap NL kan met betrekking tot zijn bevoegdheden, bedoeld in de artikelen 1 – met inachtneming van het gestelde in de artikelen 2 en 3 – en 4 ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende functionarissen.  
+De algemeen directeur van Agentschap NL kan met betrekking tot zijn bevoegdheden, bedoeld in de artikelen 1 – met inachtneming van het gestelde in de artikelen 2 en 3 – en 4 ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende functionarissen. 
 
 ### Artikel  6  
 
-Indien uitvoering wordt gegeven aan artikelen 1 en 4 luidt de ondertekening: De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, voor deze: gevolgd door de functieaanduiding, de handtekening en de naam van de betrokken functionaris.  
+Indien uitvoering wordt gegeven aan artikelen 1 en 4 luidt de ondertekening: De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, voor deze: gevolgd door de functieaanduiding, de handtekening en de naam van de betrokken functionaris. 
 
 ### Artikel  7  
 
-Indien uitvoering wordt gegeven aan artikel 5 luidt de ondertekening: De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer Voor deze: De algemeen directeur van Agentschap NL Op last: (gevolgd door de functieaanduiding, de handtekening en de naam van de betrokken functionaris waaraan ondermandaat is verleend)  
+Indien uitvoering wordt gegeven aan artikel 5 luidt de ondertekening: De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer Voor deze: De algemeen directeur van Agentschap NL Op last: (gevolgd door de functieaanduiding, de handtekening en de naam van de betrokken functionaris waaraan ondermandaat is verleend) 
 
 ### Artikel  8  
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 ### Artikel  9  
 
-Het [Mandaatbesluit SenterNovem Regeling groenprojecten](../../../../../../../ministeriele-regeling/mandaatbesluit/senternovem/regeling/groenprojecten/BWBR0018904/README.md), Stcrt. 2005, 216, wordt ingetrokken.  
+Het [Mandaatbesluit SenterNovem Regeling groenprojecten](../../../../../../../ministeriele-regeling/mandaatbesluit/senternovem/regeling/groenprojecten/BWBR0018904/README.md), Stcrt. 2005, 216, wordt ingetrokken. 
 
 ### Artikel  10  
 
-Dit besluit wordt aangehaald als: Mandaatbesluit Agentschap NL Regeling groenprojecten 2005.  
+Dit besluit wordt aangehaald als: Mandaatbesluit Agentschap NL Regeling groenprojecten 2005. 
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -60,8 +60,8 @@ Den Haag
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J.M.Cramer 
+J.M. Cramer   
 
 De 
 Staatssecretaris van Financiën, 
-J.C. deJager   
+J.C. de Jager     

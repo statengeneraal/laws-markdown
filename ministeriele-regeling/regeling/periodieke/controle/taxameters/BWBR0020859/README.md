@@ -9,17 +9,17 @@ Besluit:
 ### Artikel  1  
 
 1.  Een ingebouwde taxameter wordt ten minste eenmaal per jaar gecontroleerd.   
-2.  De controle bedoeld in het eerste lid houdt in een onderzoek als bedoeld in [artikel 16, tweede lid, van de Regeling gebruik en installatie EU-meetinstrumenten](../../../../../../ministeriele-regeling/regeling/gebruik/en/installatie/eu-meetinstrumenten/BWBR0020566/README.md).   
+2.  De controle bedoeld in het eerste lid houdt in een onderzoek als bedoeld in [artikel 16, tweede lid, van de Regeling gebruik en installatie EU-meetinstrumenten](../../../../../../ministeriele-regeling/regeling/gebruik/en/installatie/eu-meetinstrumenten/BWBR0020566/README.md).  
 
 ### Artikel  2  
 
-Deze regeling wordt aangehaald als: Regeling periodieke controle taxameters.  
+Deze regeling wordt aangehaald als: Regeling periodieke controle taxameters. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-K.M.H.Peijs   
+K.M.H. Peijs     

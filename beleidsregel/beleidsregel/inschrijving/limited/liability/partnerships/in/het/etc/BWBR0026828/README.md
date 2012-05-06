@@ -8,9 +8,9 @@ Besluit:     Dat de kamers bij de inschrijving van een *limited liability partne
 
 – alle *designated members*;  
 
-– alle *members* die gelieerd zijn aan een vestiging in Nederland, waaronder de *managing partner(s)*  
+– alle *members* die gelieerd zijn aan een vestiging in Nederland, waaronder de *managing partner(s)*   
 
-– de in Nederland werkzame beheerder of een andere dergelijke gevolmachtigde en zijn functie.   Deze beleidsregel berust op [artikel 21, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md). 
+– de in Nederland werkzame beheerder of een andere dergelijke gevolmachtigde en zijn functie.   Deze beleidsregel berust op [artikel 21, eerste lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).
 ### *Tijdstip toepassing van deze beleidsregel* 
 
 De kamers van koophandel passen deze beleidsregel toe met ingang met ingang van de dag na de datum waarop deze beleidsregel in de Staatscourant is geplaatst.     Deze beleidsregel zal met toelichting in de Staatscourant worden geplaatst.   
@@ -20,4 +20,4 @@ Den Haag
 
 De 
 Staatssecretaris van Economische Zaken, 
-M.J.A. van derHoeven   
+M.J.A. van der Hoeven     

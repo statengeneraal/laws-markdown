@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van 9 februari 2010 tot wijziging van het Besluit voorkoming verontreiniging door schepen in verband met de implementatie van het Ballastwaterverdrag en de herziene Bijlage VI van het MARPOL-verdrag
+##Besluit van 9 februari 2010 tot wijziging van het Besluit voorkoming verontreiniging door schepen in verband met de implementatie van het Ballastwaterverdrag en de herziene Bijlage VI van het MARPOL-verdrag 
 
 Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.
 
@@ -15,19 +15,21 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit voorkoming verontreiniging door schepen.   
+Wijzigt het Besluit voorkoming verontreiniging door schepen. 
 
 ### Artikel  II  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Wijzigt het Besluit aanwijzing verdragen Wet havenstaatcontrole.   
+Wijzigt het Besluit aanwijzing verdragen Wet havenstaatcontrole. 
 
 ### Artikel  III  
+Treedt in werking op een nader te bepalen tijdstip 
 
-In afwijking van [artikel 7a, eerste lid](../../../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md), en in afwijking van voorschrift B-3 van de bijlage bij het Ballastwaterverdrag is het voor schepen gebouwd in 2009 tot de tweede jaarlijkse inspectie, bedoeld in voorschrift E-1 van de bijlage bij het Ballastwaterverdrag, maar uiterlijk tot 31 december 2011 toegestaan te voldoen aan de normen van voorschrift D-1 in plaats van de normen van voorschrift D-2 van de bijlage bij het Ballastwaterverdrag.  
+In afwijking van [artikel 7a, eerste lid](../../../../../../../../../AMvB/besluit/voorkoming/verontreiniging/door/schepen/BWBR0020762/README.md), en in afwijking van voorschrift B-3 van de bijlage bij het Ballastwaterverdrag is het voor schepen gebouwd in 2009 tot de tweede jaarlijkse inspectie, bedoeld in voorschrift E-1 van de bijlage bij het Ballastwaterverdrag, maar uiterlijk tot 31 december 2011 toegestaan te voldoen aan de normen van voorschrift D-1 in plaats van de normen van voorschrift D-2 van de bijlage bij het Ballastwaterverdrag. 
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip met uitzondering van artikel I, onderdelen F, onder 2, Q, S, T en Y, die in werking treden met ingang van 1 juli 2010.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip met uitzondering van artikel I, onderdelen F, onder 2, Q, S, T en Y, die in werking treden met ingang van 1 juli 2010. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -35,13 +37,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 9 februari 2010  
 Beatrix  
 
-De Staatssecretaris van Verkeer en Waterstaat, 
-J. C.Huizinga-Heringa 
+De Staatssecretaris van Verkeer en Waterstaat , 
+J. C. Huizinga-Heringa   
 
-De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J. M.Cramer 
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer , 
+J. M. Cramer   
 
 de *negende* maart 2010 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

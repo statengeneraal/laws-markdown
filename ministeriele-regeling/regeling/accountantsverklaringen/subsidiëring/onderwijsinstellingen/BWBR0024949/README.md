@@ -8,15 +8,15 @@ Besluit:
 
 ### Artikel  1  
 
-Indien een onderwijsinstelling als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) een subsidie ontvangt krachtens de [Kaderwet EZ-subsidies](../../../../../../wet/kaderwet/ez-subsidies/BWBR0007919/README.md), en ter zake [artikel 3, aanhef en onderdeel g, van de Regeling jaarverslaggeving onderwijs](../../../../../../ministeriele-regeling/regeling/jaarverslaggeving/onderwijs/BWBR0023132/README.md) toepast, is in afwijking van hetgeen in de betrokken subsidieregeling is bepaald geen afzonderlijke accountantsverklaring vereist met betrekking tot subsidieprojecten die zijn aangevangen op of na 1 januari 2008.  
+Indien een onderwijsinstelling als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) een subsidie ontvangt krachtens de [Kaderwet EZ-subsidies](../../../../../../wet/kaderwet/ez-subsidies/BWBR0007919/README.md), en ter zake [artikel 3, aanhef en onderdeel g, van de Regeling jaarverslaggeving onderwijs](../../../../../../ministeriele-regeling/regeling/jaarverslaggeving/onderwijs/BWBR0023132/README.md) toepast, is in afwijking van hetgeen in de betrokken subsidieregeling is bepaald geen afzonderlijke accountantsverklaring vereist met betrekking tot subsidieprojecten die zijn aangevangen op of na 1 januari 2008. 
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 Den Haag 
 9 december 2008   
 
 De 
-Minister van Economische Zaken, 
-M.J.A. van derHoeven   
+Minister van Economische Zaken,
+M.J.A. van der Hoeven     

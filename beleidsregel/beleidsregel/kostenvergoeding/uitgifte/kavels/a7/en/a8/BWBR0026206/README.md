@@ -8,19 +8,19 @@ De Staatssecretaris van Economische Zaken,  Besluit:
 
 In deze beleidsregel wordt verstaan onder: 
 
-a. *minister:* de Minister van Economische Zaken;  
+a.  *minister:* de Minister van Economische Zaken;  
 
-b. *verzoeker:* de indiener van een verzoek om kostenvergoeding of diens rechtsopvolger;  
+b.  *verzoeker:* de indiener van een verzoek om kostenvergoeding of diens rechtsopvolger;  
 
-c. *Tijdelijke regeling:*[Tijdelijke regeling uitgifte kavels A7 en A8](../../../../../../../../../ministeriele-regeling/tijdelijke/regeling/uitgifte/kavels/a7/en/a8/BWBR0025560/README.md);  
+c.  *Tijdelijke regeling:* [Tijdelijke regeling uitgifte kavels A7 en A8](../../../../../../../../../ministeriele-regeling/tijdelijke/regeling/uitgifte/kavels/a7/en/a8/BWBR0025560/README.md);  
 
-d. *kavel A7:* een kavel zoals bedoeld in [artikel 1, eerste lid, onder a, van de Tijdelijke regeling](../../../../../../../../../ministeriele-regeling/tijdelijke/regeling/uitgifte/kavels/a7/en/a8/BWBR0025560/README.md) (ongeclausuleerd kavel);  
+d.  *kavel A7:* een kavel zoals bedoeld in [artikel 1, eerste lid, onder a, van de Tijdelijke regeling](../../../../../../../../../ministeriele-regeling/tijdelijke/regeling/uitgifte/kavels/a7/en/a8/BWBR0025560/README.md) (ongeclausuleerd kavel);  
 
-e. *kavel A8:* een kavel zoals bedoeld in [artikel 1, eerste lid, onder b, van de Tijdelijke regeling](../../../../../../../../../ministeriele-regeling/tijdelijke/regeling/uitgifte/kavels/a7/en/a8/BWBR0025560/README.md) (geclausuleerd kavel).    
+e.  *kavel A8:* een kavel zoals bedoeld in [artikel 1, eerste lid, onder b, van de Tijdelijke regeling](../../../../../../../../../ministeriele-regeling/tijdelijke/regeling/uitgifte/kavels/a7/en/a8/BWBR0025560/README.md) (geclausuleerd kavel).   
 
 ### Artikel  2  
 
-De minister kent desgevraagd een kostenvergoeding toe aan degene die een aanvraag voor een vergunning voor kavel A7, kavel A8 of kavels A7 en A8 heeft gedaan overeenkomstig de [Tijdelijke regeling](../../../../../../../../../ministeriele-regeling/tijdelijke/regeling/uitgifte/kavels/a7/en/a8/BWBR0025560/README.md), tenzij deze aanvraag voor het tijdstip waarop de [Tijdelijke regeling](../../../../../../../../../ministeriele-regeling/tijdelijke/regeling/uitgifte/kavels/a7/en/a8/BWBR0025560/README.md) is ingetrokken is afgewezen op grond van [artikel 3.6, eerste lid, onder f, van de Telecommunicatiewet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) of buiten behandeling is gesteld op grond van [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) juncto [artikel 4 van de Tijdelijke regeling](../../../../../../../../../ministeriele-regeling/tijdelijke/regeling/uitgifte/kavels/a7/en/a8/BWBR0025560/README.md).  
+De minister kent desgevraagd een kostenvergoeding toe aan degene die een aanvraag voor een vergunning voor kavel A7, kavel A8 of kavels A7 en A8 heeft gedaan overeenkomstig de [Tijdelijke regeling](../../../../../../../../../ministeriele-regeling/tijdelijke/regeling/uitgifte/kavels/a7/en/a8/BWBR0025560/README.md), tenzij deze aanvraag voor het tijdstip waarop de [Tijdelijke regeling](../../../../../../../../../ministeriele-regeling/tijdelijke/regeling/uitgifte/kavels/a7/en/a8/BWBR0025560/README.md) is ingetrokken is afgewezen op grond van [artikel 3.6, eerste lid, onder f, van de Telecommunicatiewet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) of buiten behandeling is gesteld op grond van [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) juncto [artikel 4 van de Tijdelijke regeling](../../../../../../../../../ministeriele-regeling/tijdelijke/regeling/uitgifte/kavels/a7/en/a8/BWBR0025560/README.md). 
 
 ### Artikel  3  
 
@@ -48,7 +48,7 @@ a. de kosten van voorbereiding van de ingebruikname van bij de uitgifte te verkr
 b. financieringskosten;  
 
 c. derving van inkomsten en winst.     
-5.  De kosten worden in aanmerking genomen met inbegrip van omzetbelasting, indien en voor zover de verzoeker die de kosten heeft gemaakt, deze omzetbelasting niet in aftrek kan brengen.   
+5.  De kosten worden in aanmerking genomen met inbegrip van omzetbelasting, indien en voor zover de verzoeker die de kosten heeft gemaakt, deze omzetbelasting niet in aftrek kan brengen.  
 
 ### Artikel  4  
 
@@ -57,32 +57,32 @@ c. derving van inkomsten en winst.
 3.  Indien het verzoek betrekking heeft op kosten als bedoeld in artikel 3, derde lid, onder f of g, doet de indiener voor de personele kosten opgave van de bestede tijd en de salariskosten per uur.   
 4.  Indien het verzoek betrekking heeft op een bedrag van minder dan € 2.500,– wordt door middel van facturen of opgaven aannemelijk gemaakt dat de kosten waarvoor vergoeding wordt gevraagd daadwerkelijk zijn gemaakt en betaald.   
 5.  Indien het verzoek betrekking heeft op een bedrag van ten minste € 2.500,–. wordt bij het verzoek een accountantsverklaring volgens een bij Agentschap Telecom te verkrijgen model gevoegd waaruit blijkt dat de kosten waarvoor vergoeding wordt gevraagd daadwerkelijk zijn gemaakt en betaald.   
-6.  Alsdan komen naast de kosten, bedoeld in artikel 3, de kosten voor de accountantsverklaring als bedoeld in het tweede lid voor kostenvergoeding in aanmerking, voor zover zij redelijk zijn.   
+6.  Alsdan komen naast de kosten, bedoeld in artikel 3, de kosten voor de accountantsverklaring als bedoeld in het tweede lid voor kostenvergoeding in aanmerking, voor zover zij redelijk zijn.  
 
 ### Artikel  5  
 
-De minister bevestigt de ontvangst van het verzoek om kostenvergoeding binnen twee weken na ontvangst.  
+De minister bevestigt de ontvangst van het verzoek om kostenvergoeding binnen twee weken na ontvangst. 
 
 ### Artikel  6  
 
-De minister beslist binnen dertien weken na ontvangst op een verzoek en deelt deze beslissing schriftelijk aan verzoeker mede.  
+De minister beslist binnen dertien weken na ontvangst op een verzoek en deelt deze beslissing schriftelijk aan verzoeker mede. 
 
 ### Artikel  7  
 
-Betaling van de toegekende kostenvergoeding zal geschieden binnen vier weken na de beslissing op het verzoek.  
+Betaling van de toegekende kostenvergoeding zal geschieden binnen vier weken na de beslissing op het verzoek. 
 
 ### Artikel  8  
 
-Deze beleidsregels treden in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij worden geplaatst.  
+Deze beleidsregels treden in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij worden geplaatst. 
 
 ### Artikel  9  
 
-Deze beleidsregels worden aangehaald als: Beleidsregels kostenvergoeding uitgifte kavels A7 en A8.  
+Deze beleidsregels worden aangehaald als: Beleidsregels kostenvergoeding uitgifte kavels A7 en A8. 
 Deze beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 20 juli 2009   
 
 De 
-Staatssecretaris van Economische Zaken, 
-F.Heemskerk   
+Staatssecretaris van Economische Zaken,
+F. Heemskerk     

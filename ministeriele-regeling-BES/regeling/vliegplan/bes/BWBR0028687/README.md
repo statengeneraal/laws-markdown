@@ -6,7 +6,7 @@
 
 1. Voor het opgeven van de gegevens van een vliegplan wordt gebruik gemaakt van het vliegplanformulier, en de daarbij behorende aanwijzingen, als aangegeven in ICAO DOC 4444 ATM/501 (Procedures for Air Navigation Services Air Traffic Management) in appendix 2 ‘flightplan’, zoals opgenomen in de bijlage ‘ICAO documenten behorende bij diverse luchtvaartregelingen’.  
 
-2. Van een wijziging in de bijlage wordt mededeling gedaan in de Staatscourant.    
+2. Van een wijziging in de bijlage wordt mededeling gedaan in de Staatscourant.   
 
 ### Artikel  2  
 
@@ -38,13 +38,13 @@ f. het aantal personen aan boord;
 
 g. de naam van de gezagvoerder.    
 
-8. Een vliegplan kan tijdens de vlucht per radio worden gezonden, indien het vliegplan slechts betrekking heeft op een deel van de vlucht. Dit is niet van toepassing op lokale vluchten.    
+8. Een vliegplan kan tijdens de vlucht per radio worden gezonden, indien het vliegplan slechts betrekking heeft op een deel van de vlucht. Dit is niet van toepassing op lokale vluchten.   
 
 ### Artikel  3  
 
 1. Indien het vertrek van een vlucht waarvoor een vliegplan is ingediend dertig minuten of langer wordt vertraagd, wordt het vliegplan gewijzigd, dan wel wordt een nieuw vliegplan ingediend bij de betrokken luchtverkeersmeldingspost of luchtverkeersdienst, voor zover er geen luchtverkeersmeldingspost aanwezig is nadat het oorspronkelijke vliegplan is geannuleerd.  
 
-2. Indien een vlucht waarvoor een vliegplan is ingediend geen doorgang vindt wordt de betrokken luchtverkeersdienst daarover terstond ingelicht door annulering van het vliegplan.    
+2. Indien een vlucht waarvoor een vliegplan is ingediend geen doorgang vindt wordt de betrokken luchtverkeersdienst daarover terstond ingelicht door annulering van het vliegplan.   
 
 ### Artikel  4  
 
@@ -68,11 +68,11 @@ d. het luchtvaartterrein van aankomst, indien is uitgeweken naar een ander lucht
 
 e. de tijd van aankomst.    
 
-6. Het eerste lid is niet van toepassing indien de vlucht volgens vliegplan wordt beëindigd op een gecontroleerd luchtvaartterrein tijdens de periode waarin plaatselijke luchtverkeersleiding wordt verleend.    
+6. Het eerste lid is niet van toepassing indien de vlucht volgens vliegplan wordt beëindigd op een gecontroleerd luchtvaartterrein tijdens de periode waarin plaatselijke luchtverkeersleiding wordt verleend.   
 
 ### Artikel  5  
 
-Indien de aankomst van een luchtvaartuig plaatsvindt op een luchtvaartterrein anders dan het luchtvaartterrein van bestemming volgens het geldend vliegplan, wordt bij aankomst de melding, zo spoedig mogelijk na afloop van de vlucht telefonisch gedaan aan de luchtverkeersmeldingspost van het luchtvaartterrein van bestemming dan wel de betrokken luchtverkeersdienst.  
+Indien de aankomst van een luchtvaartuig plaatsvindt op een luchtvaartterrein anders dan het luchtvaartterrein van bestemming volgens het geldend vliegplan, wordt bij aankomst de melding, zo spoedig mogelijk na afloop van de vlucht telefonisch gedaan aan de luchtverkeersmeldingspost van het luchtvaartterrein van bestemming dan wel de betrokken luchtverkeersdienst. 
 
 ### Artikel  6  
 
@@ -80,13 +80,13 @@ Indien de aankomst van een luchtvaartuig plaatsvindt op een luchtvaartterrein an
 
 2. De luchthavenmeester van het luchtvaartterrein van bestemming, vraagt, als de vlucht bij hem bekend is en de aankomstmelding van het luchtvaartuig niet is verkregen binnen dertig minuten na de verwachte tijd van aankomst volgens het ingediende vliegplan, de actuele tijd van vertrek alsmede de van belang zijnde gegevens van het geldend vliegplan telefonisch op van aangrenzende luchtverkeersdiensten dan wel de luchtverkeersmeldingspost  
 
-3. Indien de aankomstmelding niet is verkregen binnen dertig minuten na de verwachte tijd van aankomst van het geldend vliegplan, waarschuwt de luchthavenmeester de supervisor van de relevante luchtverkeersdienst.   De supervisor stelt zo spoedig mogelijk de Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba in kennis van de alarmering.  
+3. Indien de aankomstmelding niet is verkregen binnen dertig minuten na de verwachte tijd van aankomst van het geldend vliegplan, waarschuwt de luchthavenmeester de supervisor van de relevante luchtverkeersdienst.   De supervisor stelt zo spoedig mogelijk de Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba in kennis van de alarmering. 
 
 ### Artikel  7  
 
 1. De artikelen 1, 2 en 3 zijn niet van toepassing als een ‘RPL’ ( repetitive flight plan) is ingediend. Een RPL kan worden gebruikt voor een IFR vlucht die regelmatig wordt uitgevoerd op dezelfde dagen van opeenvolgende weken voor tenminste 10 keer, dan wel op elke dag over een periode van ten minste 10 opeenvolgende dagen.  
 
-2. Een RPL wordt slechts gebruikt voor vluchten die vanaf het luchtvaartterrein van vertrek tot het luchtvaartterrein van bestemming worden uitgevoerd.    
+2. Een RPL wordt slechts gebruikt voor vluchten die vanaf het luchtvaartterrein van vertrek tot het luchtvaartterrein van bestemming worden uitgevoerd.   
 
 ### Artikel  8  
 
@@ -96,11 +96,11 @@ Indien de aankomst van een luchtvaartuig plaatsvindt op een luchtvaartterrein an
 
 3. Een RPL wordt tijdig ingediend doch uiterlijk op een zodanig tijdstip dat de geadresseerde tenminste 21 dagen voorafgaand aan de datum van de eerste vlucht van de betrokken reeks van vluchten wordt bereikt.  
 
-4. Vliegplangegevens die niet van een repeterende aard zijn worden door of namens de gezagvoerder ten tijde van het vertrek verzonden naar de luchtverkeersmeldingspost.    
+4. Vliegplangegevens die niet van een repeterende aard zijn worden door of namens de gezagvoerder ten tijde van het vertrek verzonden naar de luchtverkeersmeldingspost.   
 
 ### Artikel  9  
 
-RPL wijzigingen van duurzame aard betreffende het invoegen van nieuwe vluchten en het annuleren of wijzigen van bestaande vluchten, worden ingediend in de vorm van gewijzigde lijsten, die de luchtverkeersmeldingspost tenminste twee weken voordat zij van kracht worden dienen te bereiken.  
+RPL wijzigingen van duurzame aard betreffende het invoegen van nieuwe vluchten en het annuleren of wijzigen van bestaande vluchten, worden ingediend in de vorm van gewijzigde lijsten, die de luchtverkeersmeldingspost tenminste twee weken voordat zij van kracht worden dienen te bereiken. 
 
 ### Artikel  10  
 
@@ -112,20 +112,20 @@ RPL wijzigingen van duurzame aard betreffende het invoegen van nieuwe vluchten e
 
 4. Nakoming hiervan kan het repeterend vliegplan voor die dag door een of meer van de betrokken luchtverkeersdiensten automatisch worden geannuleerd.  
 
-5. Zodra bekend is dat een vlucht waarvoor een repeterend vliegplan is ingediend geannuleerd is, wordt dit gemeld aan de plaatselijke luchtverkeersleidingdienst en de betrokken luchtverkeersmeldingspost.    
+5. Zodra bekend is dat een vlucht waarvoor een repeterend vliegplan is ingediend geannuleerd is, wordt dit gemeld aan de plaatselijke luchtverkeersleidingdienst en de betrokken luchtverkeersmeldingspost.   
 
 ### Artikel  11  
 
-De laatste vliegplangegevens met betrekking tot een bepaalde vlucht, met inbegrip van permanente en incidentele wijzigingen die tijdig aan de betrokken instantie zijn verstrekt, worden tevens aan de gezagvoerder bekendgemaakt teneinde de gezagvoerder in staat te stellen eventuele voor die vlucht vereiste wijzigingen te onderkennen en te melden aan de betrokken luchtverkeersdienst.  
+De laatste vliegplangegevens met betrekking tot een bepaalde vlucht, met inbegrip van permanente en incidentele wijzigingen die tijdig aan de betrokken instantie zijn verstrekt, worden tevens aan de gezagvoerder bekendgemaakt teneinde de gezagvoerder in staat te stellen eventuele voor die vlucht vereiste wijzigingen te onderkennen en te melden aan de betrokken luchtverkeersdienst. 
 
 ### Artikel  12  
 
-Het bepaalde in de voorgaande artikelen geldt niet indien door de betrokken luchtverkeersleidingdienst ontheffing wordt verleend.  
+Het bepaalde in de voorgaande artikelen geldt niet indien door de betrokken luchtverkeersleidingdienst ontheffing wordt verleend. 
 
 ### Artikel  13  
 
-Deze regeling wordt aangeduid als: Regeling vliegplan BES  
+Deze regeling wordt aangeduid als: Regeling vliegplan BES 
 
 ### Artikel  14  
 
-Deze regeling berust op artikel 103, tweede lid, van het Besluit luchtverkeer BES.  
+Deze regeling berust op artikel 103, tweede lid, van het Besluit luchtverkeer BES. 

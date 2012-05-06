@@ -1,10 +1,10 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Mandaatbesluit provincies Gelderland en Overijssel Saneringsregeling asbestwegen tweede faseBesluit van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 21 januari 2003, nr. DGM/SAS/SN/2003000829 houdende verlening van mandaat voor de uitvoering van de Saneringsregeling asbestwegen tweede fase (Mandaatbesluit provincies Gelderland en Overijssel Saneringsregeling asbestwegen tweede fase)
+##Mandaatbesluit provincies Gelderland en Overijssel Saneringsregeling asbestwegen tweede faseBesluit van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 21 januari 2003, nr. DGM/SAS/SN/2003000829 houdende verlening van mandaat voor de uitvoering van de Saneringsregeling asbestwegen tweede fase (Mandaatbesluit provincies Gelderland en Overijssel Saneringsregeling asbestwegen tweede fase) 
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
 Gezien de schriftelijke instemming van gedeputeerde staten van de provincie Overijssel d.d. 1 oktober 2002, met kenmerk EMT/2002/3297, en van gedeputeerde staten van de provincie Gelderland d.d. 24 oktober 2002 met kenmerk MW2002.29573;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -49,12 +49,12 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 ### Artikel  9  
 
-Dit besluit wordt aangehaald als: Mandaatbesluit provincies Gelderland en Overijssel Saneringsregeling asbestbevattende wegen tweede fase.  
+Dit besluit wordt aangehaald als: Mandaatbesluit provincies Gelderland en Overijssel Saneringsregeling asbestbevattende wegen tweede fase. 
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
 21 januari 2003    
 
 De 
-Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-P.L.B.A. vanGeel    
+Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
+P.L.B.A. van Geel      

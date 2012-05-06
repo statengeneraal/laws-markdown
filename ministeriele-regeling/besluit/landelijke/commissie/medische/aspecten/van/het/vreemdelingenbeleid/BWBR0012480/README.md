@@ -2,85 +2,85 @@
 
 ##Besluit Landelijke commissie medische aspecten van het vreemdelingenbeleid
 
-De Staatssecretaris van Justitie en de Minister van Volksgezondheid, Welzijn en Sport,  Besluiten:    
+De Staatssecretaris van Justitie en de Minister van Volksgezondheid, Welzijn en Sport,  Besluiten:     
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder:   a.  *de staatssecretaris:*   de Staatssecretaris van Justitie;    b.  *de minister:*   de Minister van Volksgezondheid, Welzijn en Sport;    c.  *de commissie:*   de commissie, bedoeld in artikel 2.     
+In dit besluit wordt verstaan onder: a.*de staatssecretaris:* de Staatssecretaris van Justitie;b.*de minister:* de Minister van Volksgezondheid, Welzijn en Sport;c.*de commissie:* de commissie, bedoeld in artikel 2.  
 
 ### Artikel  2  
 
 1.  Er is een Landelijke commissie medische aspecten van het vreemdelingenbeleid, hierna te noemen de commissie.   
 2.  De commissie heeft tot taak na te gaan wat de invloed is van medische aspecten op de toestroom van vreemdelingen tot Nederland en is daartoe belast met: 
 
-a. het verrichten van deelonderzoek I (probleemanalyse) voor de periode 1995 tot en met 2000 naar: 
+a.  het verrichten van deelonderzoek I (probleemanalyse) voor de periode 1995 tot en met 2000 naar: 
 
-i) het aantal vreemdelingen waar medische gronden mede een rol hebben gespeeld bij het verzoek om toelating tot Nederland;  
+i) het aantal vreemdelingen waar medische gronden mede een rol hebben gespeeld bij het verzoek om toelating tot Nederland;
 
-ii) het aantal vreemdelingen waar medische gronden mede een rol hebben gespeeld bij het verkrijgen van een toelating tot Nederland;  
+ii) het aantal vreemdelingen waar medische gronden mede een rol hebben gespeeld bij het verkrijgen van een toelating tot Nederland;
 
-iii) het aantal vreemdelingen aan wie in Nederland uitstel van vertrek op medische gronden is verleend;  
+iii) het aantal vreemdelingen aan wie in Nederland uitstel van vertrek op medische gronden is verleend;
 
-iv) de aard van de medische gronden waarop toelating tot Nederland is verzocht of verkregen dan wel waarop uitstel van vertrek is verleend;  
+iv)de aard van de medische gronden waarop toelating tot Nederland is verzocht of verkregen dan wel waarop uitstel van vertrek is verleend;
 
-v) het stadium in de vreemdelingenrechtelijke procedure waarin de vreemdeling een beroep doet op medische gronden voor toelating of uitstel van vertrek;  
+v)het stadium in de vreemdelingenrechtelijke procedure waarin de vreemdeling een beroep doet op medische gronden voor toelating of uitstel van vertrek;
 
-vi) de ontwikkelingen in de toestroom in de afgelopen 5 jaar;  
+vi) de ontwikkelingen in de toestroom in de afgelopen 5 jaar;
 
-vii) de consequenties van de toestroom tot Nederland voor de kwaliteit en toegankelijkheid van de gezondheidszorg hier te lande;    
+vii) de consequenties van de toestroom tot Nederland voor de kwaliteit en toegankelijkheid van de gezondheidszorg hier te lande; 
 
-b. het opdracht geven tot het verrichten van deelonderzoek II (vergelijkende studie) naar: 
+b.  het opdracht geven tot het verrichten van deelonderzoek II (vergelijkende studie) naar: 
 
-i. de mate waarin Nederland op grond van nationaal en internationaal recht verplicht is tot de toelating van vreemdelingen op medische gronden en verplicht is tot het doen van onderzoek bij een verzoek van vreemdelingen om toelating op medische gronden;  
+i. de mate waarin Nederland op grond van nationaal en internationaal recht verplicht is tot de toelating van vreemdelingen op medische gronden en verplicht is tot het doen van onderzoek bij een verzoek van vreemdelingen om toelating op medische gronden;
 
-ii. het toelatingsbeleid en uitstel van vertrekbeleid op medische gronden in de Europese landen Duitsland, Frankrijk, België, het Verenigd Koninkrijk, Spanje, Zwitserland en Zweden;  
+ii. het toelatingsbeleid en uitstel van vertrekbeleid op medische gronden in de Europese landen Duitsland, Frankrijk, België, het Verenigd Koninkrijk, Spanje, Zwitserland en Zweden;
 
-iii. het verschil in aanbod van medische voorzieningen voor vreemdelingen in procedure in de landen genoemd onder (ii);  
+iii. het verschil in aanbod van medische voorzieningen voor vreemdelingen in procedure in de landen genoemd onder (ii);
 
-iv. de positie van Nederland ten opzichte van de onder (ii) genoemde landen;    
+iv.de positie van Nederland ten opzichte van de onder (ii) genoemde landen; 
 
-c. het op grond van deelonderzoek I en II: 
+c.  het op grond van deelonderzoek I en II: 
 
-i. het geven van een oordeel over de verschillende situaties waarin een beroep op medische gronden wordt gedaan;  
+i. het geven van een oordeel over de verschillende situaties waarin een beroep op medische gronden wordt gedaan;
 
-ii. formuleren van te treffen maatregelen ter voorkoming van naar het oordeel van de commissie ongewenst beroep op medische gronden: de commissie betrekt hierbij de positie van Nederland ten opzichte van de onder b (ii) genoemde Europese landen;    
+ii. formuleren van te treffen maatregelen ter voorkoming van naar het oordeel van de commissie ongewenst beroep op medische gronden: de commissie betrekt hierbij de positie van Nederland ten opzichte van de onder b (ii) genoemde Europese landen; 
 
-d. het formuleren van conclusies met betrekking tot de positie van het medisch advies in de Nederlandse vreemdelingenrechtelijke procedure, in het bijzonder over: 
+d.  het formuleren van conclusies met betrekking tot de positie van het medisch advies in de Nederlandse vreemdelingenrechtelijke procedure, in het bijzonder over: 
 
-i. de criteria en de procedure voor het verlenen van een verblijfsrecht op medische gronden;  
+i. de criteria en de procedure voor het verlenen van een verblijfsrecht op medische gronden;
 
-ii. de criteria en de procedure voor het verlenen van uitstel van vertrek op medische gronden, mede in relatie tot [artikel 64 van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en artikel 3 van het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden.    
+ii. de criteria en de procedure voor het verlenen van uitstel van vertrek op medische gronden, mede in relatie tot [artikel 64 van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en artikel 3 van het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden. 
 
-e. Het maken van een integraal rapport als bedoeld in artikel 4, vijfde lid, op basis van de resultaten van deelonderzoek I en II en activiteit c en d, voorzien van conclusies.     
+e.  Het maken van een integraal rapport als bedoeld in artikel 4, vijfde lid, op basis van de resultaten van deelonderzoek I en II en activiteit c en d, voorzien van conclusies.    
 
 ### Artikel  3  
 
 1.  Tot lid van de commissie worden benoemd: 
 
-a. R.M.W. Smeets, psychiater, tevens voorzitter;  
+a.  R.M.W. Smeets, psychiater, tevens voorzitter; 
 
-b. mr. dr. M. Buijsen, tevens secretaris;  
+b.  mr. dr. M. Buijsen, tevens secretaris; 
 
-c. prof. dr. I.D. de Beaufort;  
+c.  prof. dr. I.D. de Beaufort; 
 
-d. prof. mr. C.A. Groenendijk;  
+d.  prof. mr. C.A. Groenendijk; 
 
-e. drs. J.G.M. Hendriks;  
+e.  drs. J.G.M. Hendriks; 
 
-f. prof. dr. J. Legemaate;  
+f.  prof. dr. J. Legemaate; 
 
-g. prof. H.B. Entzinger;  
+g.  prof. H.B. Entzinger; 
 
-h. prof. dr. N.J. Schrijver;  
+h.  prof. dr. N.J. Schrijver; 
 
-i. W.A.R. Shadid-Moon Sammy, arts;  
+i.  W.A.R. Shadid-Moon Sammy, arts; 
 
-j. prof. dr. N.S. Klazinga.     
+j.  prof. dr. N.S. Klazinga.    
 2.  Tot waarnemers in de commissie worden benoemd: 
 
-a. mr. Ph.A. Backx, ministerie van Justitie;  
+a.  mr. Ph.A. Backx, ministerie van Justitie; 
 
-b. drs. S. van Doorn, ministerie van VWS.     
+b.  drs. S. van Doorn, ministerie van VWS.    
 
 ### Artikel  4  
 
@@ -107,13 +107,13 @@ Het beheer van de bescheiden van de commissie geschiedt op overeenkomstige wijze
 
 ### Artikel  8  
 
-Dit besluit wordt aangehaald als: besluit Landelijke commissie medische aspecten van het vreemdelingenbeleid.  
+Dit besluit wordt aangehaald als: besluit Landelijke commissie medische aspecten van het vreemdelingenbeleid. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Staatssecretaris van Justitie, 
-N.A.Kalsbeek 
+N.A. Kalsbeek 
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport, 
+Minister van Volksgezondheid, Welzijn en Sport,
 E.Borst-Eilers    

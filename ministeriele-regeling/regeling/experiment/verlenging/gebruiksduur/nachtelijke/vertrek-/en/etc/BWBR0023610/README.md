@@ -30,27 +30,27 @@ g. Schiphol: N.V. Luchthaven Schiphol;
 
 h. SID: Standard Instrument Departure, vertrekprocedure die de piloot middels een code in de boordcomputer invoert waardoor het vliegtuig die procedure volgt vanaf de startbaan, ook wel: uitvliegroute;  
 
-i. gebruiksjaar 2009: de periode van 1 november 2008 tot en met 31 oktober 2009.    
+i. gebruiksjaar 2009: de periode van 1 november 2008 tot en met 31 oktober 2009.  
 
 ### Artikel  2  
 
 ####Doel
 
-Het experiment beoogt, teneinde een gunstig effect op de hinderbeleving te bewerkstelligen, te onderzoeken of door het langer gebruik maken van de nachtelijke vertrek- en naderingsprocedures en routes per saldo het aantal slaapverstoorden en ernstig gehinderden wordt verminderd.  
+Het experiment beoogt, teneinde een gunstig effect op de hinderbeleving te bewerkstelligen, te onderzoeken of door het langer gebruik maken van de nachtelijke vertrek- en naderingsprocedures en routes per saldo het aantal slaapverstoorden en ernstig gehinderden wordt verminderd. 
 
 ### Artikel  3  
 
 ####Luchtverkeerwegen
 
-Voor de duur van het experiment wordt voor de periode tussen 6.00 uur en 6.45 uur vrijstelling verleend van de [artikelen 3.1.1, eerste lid](../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md), en [3.1.3, eerste lid, van het LVB](../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md), met betrekking tot de luchtverkeerwegen die zijn aangewezen op de [kaarten 5/21 en 19/21 van bijlage 1 van het LVB](../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md).  
+Voor de duur van het experiment wordt voor de periode tussen 6.00 uur en 6.45 uur vrijstelling verleend van de [artikelen 3.1.1, eerste lid](../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md), en [3.1.3, eerste lid, van het LVB](../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md), met betrekking tot de luchtverkeerwegen die zijn aangewezen op de [kaarten 5/21 en 19/21 van bijlage 1 van het LVB](../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md). 
 
 ### Artikel  4  
 
 ####Grenswaarden
 
-1.  In plaats van de grenswaarden, genoemd in [bijlage 2 van het LVB](../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md) gelden tijdens dit experiment voor het gedeelte van het gebruiksjaar 2008 vanaf 13 maart 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:  Tabel Grenswaarden handhavingspunten L <sub>den</sub> [dB(A)] 
+1. In plaats van de grenswaarden, genoemd in [bijlage 2 van het LVB](../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md) gelden tijdens dit experiment voor het gedeelte van het gebruiksjaar 2008 vanaf 13 maart 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden: Tabel Grenswaarden handhavingspunten L<sub>den</sub> [dB(A)] 
 
-| Puntnummer  | X-coördinaat  | Y-coördinaat  | Grenswaarde  | Maximum grenswaarde in geval van buitengewone weersomstandigheden  |
+| Puntnummer  |  X-coördinaat   | Y-coördinaat  | Grenswaarde  | Maximum grenswaarde in geval van buitengewone weersomstandigheden  |
 |:---|:---|:---|:---|:---|
 | 1  | 97.325  | 470.400  | 55,99  | (56,99)  |
 | 2  | 100.475  | 472.525  | 57,69  | (58,69)  |
@@ -88,7 +88,7 @@ Voor de duur van het experiment wordt voor de periode tussen 6.00 uur en 6.45 uu
 | 34  | 103.400  | 472.225  | 57,51  | (58,51)  |
 | 35  | 98.400  | 470.300  | 57,10  | (58,10)  |
 
-2.  In plaats van de grenswaarden, genoemd in [bijlage 3 van het LVB](../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md) gelden tijdens dit experiment voor het gedeelte van het gebruiksjaar 2008 vanaf 13 maart 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:  Tabel Grenswaarden handhavingspunten L <sub>night</sub> [dB(A)] 
+2. In plaats van de grenswaarden, genoemd in [bijlage 3 van het LVB](../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md) gelden tijdens dit experiment voor het gedeelte van het gebruiksjaar 2008 vanaf 13 maart 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden: Tabel Grenswaarden handhavingspunten L<sub>night</sub> [dB(A)] 
 
 | Nr.  | X-coördinaat  | Y-coördinaat  | Grenswaarde  | Maximum grenswaarde in geval van buitengewone weersomstandigheden  |
 |:---|:---|:---|:---|:---|
@@ -118,7 +118,7 @@ Voor de duur van het experiment wordt voor de periode tussen 6.00 uur en 6.45 uu
 | 24  | 106.000  | 471.050  | 46,18  | (46,18)  |
 | 25  | 100.475  | 472.525  | 48,81  | (49,81)  |
 
-3.  In plaats van de grenswaarden, genoemd in [bijlage 2 van het LVB](../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md), gelden tijdens het verlengde experiment vanaf 1 november 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:  Tabel Grenswaarden handhavingspunten L <sub>den</sub> [dB(A)] 
+3.  In plaats van de grenswaarden, genoemd in [bijlage 2 van het LVB](../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md), gelden tijdens het verlengde experiment vanaf 1 november 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:  Tabel Grenswaarden handhavingspunten L<sub>den</sub> [dB(A)] 
 
 | Puntnummer  | X-coördinaat  | Y-coördinaat  | Grenswaarde  | Maximum grenswaarde ingeval van buitengewone weersomstandigheden  |
 |:---|:---|:---|:---|:---|
@@ -158,7 +158,7 @@ Voor de duur van het experiment wordt voor de periode tussen 6.00 uur en 6.45 uu
 | 34  | 103.400  | 472.225  | 57,30  | (58,30)  |
 | 35  | 98.400  | 470.300  | 57,10  | (58,10)  |
 
-4.  In plaats van de grenswaarden, genoemd in [bijlage 3 van het LVB](../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md), gelden tijdens het verlengde experiment vanaf 1 november 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:  Tabel Grenswaarden handhavingspunten L <sub>night</sub> [dB(A)] 
+4.  In plaats van de grenswaarden, genoemd in [bijlage 3 van het LVB](../../../../../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md), gelden tijdens het verlengde experiment vanaf 1 november 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:  Tabel Grenswaarden handhavingspunten L<sub>night</sub> [dB(A)] 
 
 | Puntnummer  | X-coördinaat  | Y-coördinaat  | Grenswaarde  | Maximum grenswaarde ingeval van buitengewone weersomstandigheden  |
 |:---|:---|:---|:---|:---|
@@ -192,13 +192,13 @@ Voor de duur van het experiment wordt voor de periode tussen 6.00 uur en 6.45 uu
 
 ####Uitvoering
 
-Het experiment houdt in dat alle straalvliegtuigen de nachtelijke vertrek- en naderingsprocedures ook tussen 6:00 en 6:30 uur zullen gebruiken.  
+Het experiment houdt in dat alle straalvliegtuigen de nachtelijke vertrek- en naderingsprocedures ook tussen 6:00 en 6:30 uur zullen gebruiken. 
 
 ### Artikel  6  
 
 ####Gevolgen
 
-Als gevolg van het experiment vindt er een geografische verschuiving plaats van geluidbelasting. Naar verwachting zal het aantal ernstig slaapverstoorden en het aantal ernstig gehinderden in het onderzoeksgebied per saldo afnemen. Gedurende het experiment zullen de effecten regelmatig worden gemonitord.  
+Als gevolg van het experiment vindt er een geografische verschuiving plaats van geluidbelasting. Naar verwachting zal het aantal ernstig slaapverstoorden en het aantal ernstig gehinderden in het onderzoeksgebied per saldo afnemen. Gedurende het experiment zullen de effecten regelmatig worden gemonitord. 
 
 ### Artikel  7  
 
@@ -216,27 +216,27 @@ De criteria die onderdeel vormen van de afweging en de beoordeling of het experi
 
 – het effect op de vliegoperatie (betrouwbaarheid en capaciteit);  
 
-– het effect op ruimtelijke contouren zoals vastgelegd in het [Luchthavenindelingbesluit Schiphol](../../../../../../../../../../AMvB/luchthavenindelingbesluit/schiphol/BWBR0014329/README.md) en op bestaande verstedelijking en nieuwbouwplannen.    
+– het effect op ruimtelijke contouren zoals vastgelegd in het [Luchthavenindelingbesluit Schiphol](../../../../../../../../../../AMvB/luchthavenindelingbesluit/schiphol/BWBR0014329/README.md) en op bestaande verstedelijking en nieuwbouwplannen.   
 
 ### Artikel  8  
 
 ####Onvoorziene gevallen
 
-In onvoorziene gevallen kunnen op advies van belanghebbenden de Minister van Verkeer en Waterstaat en de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer overgaan tot bijsturen, opschorten of vroegtijdig stopzetten van het experiment.  
+In onvoorziene gevallen kunnen op advies van belanghebbenden de Minister van Verkeer en Waterstaat en de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer overgaan tot bijsturen, opschorten of vroegtijdig stopzetten van het experiment. 
 
 ### Artikel  9  
 
 ####Termijn experiment
 
-De termijn van het experiment betreft de periode vanaf 13 maart 2008 tot en met 31 oktober 2008. De termijn van het verlengde experiment betreft het gebruiksjaar 2009.  
+De termijn van het experiment betreft de periode vanaf 13 maart 2008 tot en met 31 oktober 2008. De termijn van het verlengde experiment betreft het gebruiksjaar 2009. 
 
 ### Artikel  10  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 13 maart 2008.  
+Deze regeling treedt in werking met ingang van 13 maart 2008. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings   
+C.M.P.S. Eurlings     

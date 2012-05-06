@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Kaderbesluit EZ-subsidies.   
+Wijzigt het Kaderbesluit EZ-subsidies. 
 
 ### Artikel  II  
 
-De volgende besluiten worden ingetrokken: 
+De volgende besluiten worden ingetrokken:
 
 a. het [Besluit EOS: demo en transitie-experimenten](../../../../../AMvB/besluit/eos/demo/en/transitie-experimenten/BWBR0017332/README.md),  
 
@@ -27,21 +27,21 @@ b. het [Besluit EOS: lange termijn](../../../../../AMvB/besluit/eos/lange/termij
 
 c. het [Besluit subsidies civiele vliegtuigontwikkeling](../../../../../AMvB/besluit/subsidies/civiele/vliegtuigontwikkeling/BWBR0011247/README.md),  
 
-d. het [Besluit subsidies CO <sub>2</sub> -reductieplan](../../../../../AMvB/besluit/subsidies/co2-reductieplan/BWBR0009670/README.md),  
+d. het [Besluit subsidies CO<sub>2</sub>-reductieplan](../../../../../AMvB/besluit/subsidies/co2-reductieplan/BWBR0009670/README.md),  
 
 e. het [Besluit subsidies energieprogramma’s](../../../../../AMvB/besluit/subsidies/energieprogramma's/BWBR0006515/README.md),  
 
 f. het [Besluit subsidies exportfinancieringsarrangementen](../../../../../AMvB/besluit/subsidies/exportfinancieringsarrangementen/BWBR0009056/README.md),  
 
-g. het [Besluit subsidies regionale investeringsprojecten 2000](../../../../../AMvB/besluit/subsidies/regionale/investeringsprojecten/2000/BWBR0011582/README.md),   met dien verstande dat die besluiten van toepassing blijven op de aanvragen om subsidie die vóór de inwerkingtreding van dit besluit zijn ingediend en op subsidies die vóór de inwerkingtreding van dit besluit zijn verstrekt.  
+g. het [Besluit subsidies regionale investeringsprojecten 2000](../../../../../AMvB/besluit/subsidies/regionale/investeringsprojecten/2000/BWBR0011582/README.md),   met dien verstande dat die besluiten van toepassing blijven op de aanvragen om subsidie die vóór de inwerkingtreding van dit besluit zijn ingediend en op subsidies die vóór de inwerkingtreding van dit besluit zijn verstrekt. 
 
 ### Artikel  III  
 
-De onderdelen C, M en O van artikel I zijn niet van toepassing op aanvragen om subsidie die vóór de inwerkingtreding van dit besluit zijn ingediend en op subsidies die vóór de inwerkingtreding van dit besluit zijn verstrekt; daarop blijven de [artikelen 3](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [38](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [45 van het Kaderbesluit EZ-subsidies](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) van toepassing zoals die luidden onmiddellijk vóór dat tijdstip.  
+De onderdelen C, M en O van artikel I zijn niet van toepassing op aanvragen om subsidie die vóór de inwerkingtreding van dit besluit zijn ingediend en op subsidies die vóór de inwerkingtreding van dit besluit zijn verstrekt; daarop blijven de [artikelen 3](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md), [38](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [45 van het Kaderbesluit EZ-subsidies](../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) van toepassing zoals die luidden onmiddellijk vóór dat tijdstip. 
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking met ingang van 1 januari 2010.  
+Dit besluit treedt in werking met ingang van 1 januari 2010. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

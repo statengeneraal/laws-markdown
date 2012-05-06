@@ -9,7 +9,7 @@ Gezien de brief:
 
 – van Gedeputeerde Staten van Friesland van 18 mei 2004, nr. 560349;
 
-– van Gedeputeerde Staten van Drenthe van 26 mei 2004, nr. 21/RW/A2?2004005445, en
+– van Gedeputeerde Staten van Drenthe van 26 mei 2004, nr. 21/RW/A2?2004005445, en 
 
 – van Gedeputeerde Staten van Friesland van 13 mei 2004, nr. 560349;
 Besluit:     Goed te keuren het gemeenschappelijk besluit der Staten van de provincies Friesland en Groningen van respectievelijk 21 en 28 april 2004, tot: 
@@ -25,5 +25,5 @@ II. Wijziging van het Reglement voor waterschap Noorderzijlvest;
 III. Bepaling van het tijdstip van inwerkingtreding van dit besluit op 1 juli 2004.       
 
 De 
-Staatssecretaris van Verkeer en Waterstaat
-M.H.Schultz van Haegen    
+Staatssecretaris van Verkeer en Waterstaat 
+M.H. Schultz van Haegen      

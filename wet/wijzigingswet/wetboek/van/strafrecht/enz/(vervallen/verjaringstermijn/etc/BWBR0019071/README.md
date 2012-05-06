@@ -11,19 +11,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt het Wetboek van Strafrecht.   
+Wijzigt het Wetboek van Strafrecht.
 
 ### Artikel  II  
 
-Wijzigt de Wet internationale misdrijven.   
+Wijzigt de Wet internationale misdrijven.
 
 ### Artikel  III  
 
-Ten aanzien van de feiten die op het tijdstip waarop deze wet in werking treedt, zijn verjaard, blijven de wettelijke bepalingen inzake de verjaring van toepassing zoals zij luidden voor het tijdstip van inwerkingtreding van deze wet.  
+Ten aanzien van de feiten die op het tijdstip waarop deze wet in werking treedt, zijn verjaard, blijven de wettelijke bepalingen inzake de verjaring van toepassing zoals zij luidden voor het tijdstip van inwerkingtreding van deze wet. 
 
 ### Artikel  IV  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -36,5 +36,5 @@ J. P. H. Donner
 
 de *dertiende* december 2005 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 J. P. H. Donner    

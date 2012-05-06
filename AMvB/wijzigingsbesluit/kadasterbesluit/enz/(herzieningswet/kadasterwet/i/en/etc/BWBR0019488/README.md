@@ -15,35 +15,35 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Kadasterbesluit.   
+Wijzigt het Kadasterbesluit. 
 
 ### Artikel  II  
 
-Wijzigt de Maatregel teboekgestelde schepen 1992.   
+Wijzigt de Maatregel teboekgestelde schepen 1992. 
 
 ### Artikel  III  
 
-Wijzigt de Maatregel te boek gestelde luchtvaartuigen 1996.   
+Wijzigt de Maatregel te boek gestelde luchtvaartuigen 1996. 
 
 ### Artikel  IV  
 
-Wijzigt het Arbeidstijdenbesluit vervoer.   
+Wijzigt het Arbeidstijdenbesluit vervoer. 
 
 ### Artikel  V  
 
-Wijzigt het Kadasterbesluit.   
+Wijzigt het Kadasterbesluit. 
 
 ### Artikel  VI  
 
-Wijzigt dit besluit.   
+Wijzigt dit besluit. 
 
 ### Artikel  VII  
 
-Indien een kabelnet voor de inwerkingtreding van artikel I, onderdeel B, van dit besluit reeds is ingeschreven onder vermelding van de kadastrale aanduiding van de onroerende zaken waarin dit kabelnet gelegen is, vervangt de bewaarder deze kadastrale aanduiding door een kadastrale aanduiding als bedoeld in [artikel 2, vijfde lid, van het Kadasterbesluit](../../../../../../../../../../AMvB/kadasterbesluit/BWBR0005259/README.md), zoals dat artikellid komt te luiden na de inwerkingtreding van artikel I, onderdeel B, van dit besluit.  
+Indien een kabelnet voor de inwerkingtreding van artikel I, onderdeel B, van dit besluit reeds is ingeschreven onder vermelding van de kadastrale aanduiding van de onroerende zaken waarin dit kabelnet gelegen is, vervangt de bewaarder deze kadastrale aanduiding door een kadastrale aanduiding als bedoeld in [artikel 2, vijfde lid, van het Kadasterbesluit](../../../../../../../../../../AMvB/kadasterbesluit/BWBR0005259/README.md), zoals dat artikellid komt te luiden na de inwerkingtreding van artikel I, onderdeel B, van dit besluit. 
 
 ### Artikel  VIII  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -51,10 +51,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 25 januari 2006  
 Beatrix  
 
-De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-S. M.Dekker 
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer , 
+S. M. Dekker   
 
 de *zestiende* februari 2006 
 
-De Minister van Justitie, 
-J. P. H.Donner  
+De Minister van Justitie , 
+J. P. H. Donner    

@@ -21,7 +21,7 @@ a. waarvan de verkoopprijs niet hoger is dan € 3.000, of
 
 b. dat de verkoper minder dan drie jaren voor deze verkoop heeft verkregen van de maker van dat werk, en de verkoopprijs niet hoger is dan € 10.000, of  
 
-c. door een persoon, niet handelend als een professionele kunsthandelaar, aan een museum dat handelt zonder winstoogmerk en is opengesteld voor het publiek.    
+c. door een persoon, niet handelend als een professionele kunsthandelaar, aan een museum dat handelt zonder winstoogmerk en is opengesteld voor het publiek.   
 
 ### Artikel  2  
 
@@ -35,15 +35,15 @@ c. 1% van het deel van de verkoopprijs van € 200.000,01 tot en met € 350.0
 
 d. 0,5% van het deel van de verkoopprijs van € 350.000,01 tot en met € 500.000; en  
 
-e. 0,25% van het deel van de verkoopprijs hoger dan € 500.000.    
+e. 0,25% van het deel van de verkoopprijs hoger dan € 500.000.   
 
 ### Artikel  3  
 
-De in artikel 1 en 2 bedoelde verkoopprijzen zijn de prijzen exclusief belasting.  
+De in artikel 1 en 2 bedoelde verkoopprijzen zijn de prijzen exclusief belasting. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking op het tijdstip waarop de Wet van 9 februari 2006 tot aanpassing van de Auteurswet 1912 ter implementatie van richtlijn nr. 2001/84/EG van het Europees Parlement en van de Raad van de Europese Unie van 27 september 2001 betreffende het volgrecht ten behoeve van de auteur van een oorspronkelijk kunstwerk (PbEG L 272) (Stb. 60) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de Wet van 9 februari 2006 tot aanpassing van de Auteurswet 1912 ter implementatie van richtlijn nr. 2001/84/EG van het Europees Parlement en van de Raad van de Europese Unie van 27 september 2001 betreffende het volgrecht ten behoeve van de auteur van een oorspronkelijk kunstwerk (PbEG L 272) (Stb. 60) in werking treedt. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

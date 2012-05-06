@@ -9,7 +9,7 @@ Besluit:
 ### Enig  artikel  
 
 1.  De externe niet-ambtelijke leden van het Audit Committee Economische Zaken 2008 ontvangen voor het bijwonen van een vergadering een vergoeding van € 200.   
-2.  Voor werkzaamheden in het kader van het Audit Committee Economische Zaken 2008, anders dan het bijwonen van een vergadering, ontvangen de externe niet-ambtelijke leden per vergadering een vaste vergoeding van € 322,62.   
+2.  Voor werkzaamheden in het kader van het Audit Committee Economische Zaken 2008, anders dan het bijwonen van een vergadering, ontvangen de externe niet-ambtelijke leden per vergadering een vaste vergoeding van € 322,62.  
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -17,4 +17,4 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-M.J.A. van derHoeven   
+M.J.A. van der  Hoeven     

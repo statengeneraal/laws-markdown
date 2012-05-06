@@ -25,7 +25,7 @@ d. G30: de gemeenten Alkmaar, Almelo, Amersfoort, Amsterdam, Arnhem, Breda, Den 
 
 e. allochtone vrouw: de vrouw die 
 
-1°. behoort tot de eerste generatie niet-westerse allochtonen, dan wel de eerste generatie allochtonen afkomstig uit de voormalige Sovjet-Unie of voormalig Joegoslavië;  
+1°.  behoort tot de eerste generatie niet-westerse allochtonen, dan wel de eerste generatie allochtonen afkomstig uit de voormalige Sovjet-Unie of voormalig Joegoslavië;  
 
 2°. geen nieuwkomer is als bedoeld in de [Wet inburgering nieuwkomers](../../../../../../../wet/wet/inburgering/nieuwkomers/BWBR0009544/README.md);  
 
@@ -47,7 +47,7 @@ i. inburgeringsvoorziening: de inburgeringsvoorziening, bedoeld in artikel 6;
 
 j. inburgeringsexamen: het inburgeringsexamen, bedoeld in artikel 7;  
 
-k. IB-Groep: de Informatie Beheer Groep, genoemd in de [Wet verzelfstandiging Informatiseringsbank](../../../../../../../wet/wet/verzelfstandiging/informatiseringsbank/BWBR0006320/README.md).    
+k. IB-Groep: de Informatie Beheer Groep, genoemd in de [Wet verzelfstandiging Informatiseringsbank](../../../../../../../wet/wet/verzelfstandiging/informatiseringsbank/BWBR0006320/README.md).   
 
 ### Hoofdstuk  2  
 
@@ -62,11 +62,11 @@ k. IB-Groep: de Informatie Beheer Groep, genoemd in de [Wet verzelfstandiging In
 a. het aantal allochtone vrouwen, behorend tot de categorie ‘uitkeringsgerechtigd’, en het aantal allochtone vrouwen, behorend tot de categorie ‘niet-werkend en niet-uitkeringsgerechtigd’, met wie in 2006 een overeenkomst als bedoeld in artikel 8 wordt gesloten;  
 
 b. het aantal allochtone vrouwen, behorend tot de categorie ‘uitkeringsgerechtigd’, en het aantal allochtone vrouwen, behorend tot de categorie ‘niet-werkend en niet-uitkeringsgerechtigd’, dat uiterlijk 31 december 2009 zal hebben deelgenomen aan het inburgeringsexamen.     
-4.  Het procentuele aandeel van elke gemeente behorend tot de G30 in de middelen voor bevordering van de inburgering van allochtone vrouwen is opgenomen in de bijlage bij deze regeling.   
+4.  Het procentuele aandeel van elke gemeente behorend tot de G30 in de middelen voor bevordering van de inburgering van allochtone vrouwen is opgenomen in de bijlage bij deze regeling.  
 
 ### Artikel  3  
 
-Onze Minister neemt een beschikking tot verlening van de aanvullende uitkering binnen zes weken na het tijdstip waarop de in artikel 2 bedoelde aanvraag is ontvangen.  
+Onze Minister neemt een beschikking tot verlening van de aanvullende uitkering binnen zes weken na het tijdstip waarop de in artikel 2 bedoelde aanvraag is ontvangen. 
 
 ### Artikel  4  
 
@@ -74,12 +74,12 @@ De normvergoedingen welke ten aanzien van de resultaten, genoemd in artikel 2, d
 
 a. € 1854,– voor iedere allochtone vrouw, behorend tot de categorie ‘niet-werkend en niet-uitkeringsgerechtigd’, respectievelijk € 1271,– voor iedere allochtone vrouw, behorend tot de categorie ‘uitkeringsgerechtigd’, met wie in 2006 een overeenkomst is gesloten;  
 
-b. € 4807,– voor iedere allochtone vrouw, behorend tot de categorie ‘niet-werkend en niet-uitkeringsgerechtigd’, respectievelijk € 3294,– voor iedere allochtone vrouw, behorend tot de categorie ‘uitkeringsgerechtigd’, die uiterlijk 31 december 2009 heeft deelgenomen aan het inburgeringsexamen.    
+b. € 4807,– voor iedere allochtone vrouw, behorend tot de categorie ‘niet-werkend en niet-uitkeringsgerechtigd’, respectievelijk € 3294,– voor iedere allochtone vrouw, behorend tot de categorie ‘uitkeringsgerechtigd’, die uiterlijk 31 december 2009 heeft deelgenomen aan het inburgeringsexamen.   
 
 ### Artikel  5  
 
 1.  Onze Minister verleent aan de gemeente in 2006 een voorschot ter hoogte van het bedrag dat op grond van artikel 3 is verleend.   
-2.  Het voorschot wordt na het besluit tot verlening van de aanvullende uitkering betaald bij de eerstvolgende voorschotverlening zoals die plaatsvindt op grond van [artikel 20 van het Besluit](../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md).   
+2.  Het voorschot wordt na het besluit tot verlening van de aanvullende uitkering betaald bij de eerstvolgende voorschotverlening zoals die plaatsvindt op grond van [artikel 20 van het Besluit](../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md).  
 
 ### Hoofdstuk  3  
 
@@ -88,7 +88,7 @@ b. € 4807,– voor iedere allochtone vrouw, behorend tot de categorie ‘niet
 ### Artikel  6  
 
 1.  Het college van burgemeester en wethouders stelt de inburgeringsvoorziening vast, waarbij zoveel mogelijk wordt aangesloten bij de persoonlijke situatie van de desbetreffende allochtone vrouw.   
-2.  Het college van burgemeester en wethouders draagt er zorg voor dat de inburgeringsvoorziening toeleidt naar het inburgeringsexamen en op uiterlijk 31 december 2009 wordt afgesloten door middel van deelname aan het inburgeringsexamen.   
+2.  Het college van burgemeester en wethouders draagt er zorg voor dat de inburgeringsvoorziening toeleidt naar het inburgeringsexamen en op uiterlijk 31 december 2009 wordt afgesloten door middel van deelname aan het inburgeringsexamen.  
 
 ### Artikel  7  
 
@@ -109,7 +109,7 @@ b. een toets gesproken Nederlands, en
 c. een examen in de kennis van de Nederlandse samenleving.     
 4.  Het praktijkdeel van het inburgeringsexamen wordt afgenomen door de IB-Groep en de door de IB-Groep aangewezen exameninstellingen en bestaat uit een assessment, een portfolio dan wel een combinatie daarvan. Het praktijkdeel omvat een beoordeling van de taalvaardigheden in een aantal praktijksituaties, ontleend aan het domein ‘Burgerschap’ en het domein ‘Werk’ dan wel het domein ‘Onderwijs, gezondheid en opvoeding’.   
 5.  Het resultaat van beide delen van het inburgeringsexamen wordt vastgesteld door de IB-Groep en de door de IB-Groep aangewezen exameninstellingen en wordt uitgedrukt in ‘geslaagd’ of ‘niet geslaagd’. Het inburgeringsexamen is behaald indien alle daartoe behorende examens met goed gevolg zijn afgelegd.   
-6.  Ten bewijze dat het inburgeringsexamen is behaald, wordt door de IB-Groep aan de allochtone vrouw een diploma uitgereikt, waarvan het model door de Minister voor Vreemdelingenzaken en Integratie wordt vastgesteld.   
+6.  Ten bewijze dat het inburgeringsexamen is behaald, wordt door de IB-Groep aan de allochtone vrouw een diploma uitgereikt, waarvan het model door de Minister voor Vreemdelingenzaken en Integratie wordt vastgesteld.  
 
 ### Artikel  8  
 
@@ -123,7 +123,7 @@ b. de onderdelen van de inburgeringsvoorziening;
 c. de rechten en de verplichtingen van de partijen bij de overeenkomst;  
 
 d. de gevolgen welke zijn verbonden aan niet-nakoming van de overeenkomst.     
-3.  Het college van burgemeester en wethouders sluit op grond van deze regeling met een allochtone vrouw slechts één overeenkomst.   
+3.  Het college van burgemeester en wethouders sluit op grond van deze regeling met een allochtone vrouw slechts één overeenkomst.  
 
 ### Hoofdstuk  4  
 
@@ -131,22 +131,22 @@ d. de gevolgen welke zijn verbonden aan niet-nakoming van de overeenkomst.
 
 ### Artikel  9  
 
-Wijzigt de Uitvoeringsregeling brede doeluitkering sociaal, integratie en veiligheid.   
+Wijzigt de Uitvoeringsregeling brede doeluitkering sociaal, integratie en veiligheid. 
 
 ### Artikel  10  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  11  
 
-Deze regeling wordt aangehaald als: Regeling inburgering allochtone vrouwen G31.  
+Deze regeling wordt aangehaald als: Regeling inburgering allochtone vrouwen G31. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties a.i., 
-S.M.Dekker  
+Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties a.i.,
+S.M. Dekker    
 
-### Bijlage  
+### Bijlage 
 
 ####, behorend bij artikel 2, vierde lid 
 
@@ -184,5 +184,5 @@ Procentueel aandeel in de middelen voor bevordering van de inburgering van alloc
 | Venlo  | 2.807  | 0,92%  |
 | Zaanstad  | 5.774  | 1,89%  |
 | Zwolle  | 2.587  | 0,85%  |
-| Totaal G30  <sup> 1   G31: Sittard-Geleen; aantal oudkomers vrouwen: 1651, in % van totaal: 0,54%.    </sup> | 303.281  | 99,46%  |
+|  Totaal G30<sup>1 G31: Sittard-Geleen; aantal oudkomers vrouwen: 1651, in % van totaal: 0,54%. </sup>  | 303.281  | 99,46%  |
 

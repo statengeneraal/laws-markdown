@@ -8,15 +8,15 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling naturalisatietoets Nederland.   
+Wijzigt de Regeling naturalisatietoets Nederland. 
 
 ### Artikel  II  
 
-Deze regeling is van toepassing op verzoeken tot verlening van het Nederlanderschap die na het tijdstip van inwerkingtreding zijn ingediend.  
+Deze regeling is van toepassing op verzoeken tot verlening van het Nederlanderschap die na het tijdstip van inwerkingtreding zijn ingediend. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van 1 augustus 2009.  
+Deze regeling treedt in werking met ingang van 1 augustus 2009. 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.   
 
 Den Haag 
@@ -24,4 +24,4 @@ Den Haag
 
 De 
 Minister van Justitie, 
-E.M.H.Hirsch Ballin   
+E.M.H. Hirsch Ballin     

@@ -4,7 +4,7 @@
 
 De Minister van Justitie,  
 Gelet op artikel 5, lid 2, van het Tijdelijk subsidiebesluit bewindvoerder schuldsanering;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -12,7 +12,7 @@ Het normbedrag dat geldt als voorschot voor de bewindvoerderssubsidie bedraagt t
 
 ### Artikel  2  
 
-Dit besluit treedt in werking op 1 december 1998.  
+Dit besluit treedt in werking op 1 december 1998. 
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 

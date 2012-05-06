@@ -16,17 +16,17 @@ b. voor de rijbewijscategorie B, respectievelijk de rijbewijscategorie E bij B: 
 
 c. voor de rijbewijscategorie C, respectievelijk de rijbewijscategorie E bij C: de eisen genoemd in [onderdelen 3.1, 3.2, 3.3, 4.1 en 4.2 van de bijlage bij de Regeling eisen praktijkexamens rijbewijscategorieën C en E bij C](../../../../../ministeriele-regeling/regeling/eisen/praktijkexamens/rijbewijscategorieën/c/en/e/bij/c/BWBR0015606/README.md);  
 
-d. voor de rijbewijscategorie D, respectievelijk de rijbewijscategorie E bij D: de eisen genoemd in onderdelen 3.1, 3.2, 3.3, 4.1 en 4.2 van de [Regeling eisen praktijkexamens rijbewijscategorieën D en E bij D](../../../../../ministeriele-regeling/regeling/eisen/praktijkexamens/rijbewijscategorieën/d/en/e/bij/d/BWBR0015605/README.md).    
+d. voor de rijbewijscategorie D, respectievelijk de rijbewijscategorie E bij D: de eisen genoemd in onderdelen 3.1, 3.2, 3.3, 4.1 en 4.2 van de [Regeling eisen praktijkexamens rijbewijscategorieën D en E bij D](../../../../../ministeriele-regeling/regeling/eisen/praktijkexamens/rijbewijscategorieën/d/en/e/bij/d/BWBR0015605/README.md).   
 
 ### Artikel  2  
 
-Deze regeling wordt aangehaald als: Regeling eisen rijgedrag.  
+Deze regeling wordt aangehaald als: Regeling eisen rijgedrag. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van 1 oktober 2008.  
+Deze regeling treedt in werking met ingang van 1 oktober 2008. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings   
+C.M.P.S. Eurlings     

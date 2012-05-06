@@ -8,17 +8,17 @@ Besluit:
 
 ### Artikel  1  
 
-Het besluit van de Minister van Verkeer en Waterstaat van 16 december 1997, houdende aanwijzing ex artikel 39 Wet personenvervoer (Stcrt. 1997, 249), wordt ingetrokken.  
+Het besluit van de Minister van Verkeer en Waterstaat van 16 december 1997, houdende aanwijzing ex artikel 39 Wet personenvervoer (Stcrt. 1997, 249), wordt ingetrokken. 
 
 ### Artikel  2  
 
-De bevoegdheden van ’s-Hertogenbosch, bedoeld in artikel IV van de Wet van 13 november 1997 tot wijziging van de Wet personenvervoer, worden ingetrokken.  
+De bevoegdheden van ’s-Hertogenbosch, bedoeld in artikel IV van de Wet van 13 november 1997 tot wijziging van de Wet personenvervoer, worden ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking op 1 januari 2004.  
+Dit besluit treedt in werking op 1 januari 2004. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Verkeer en Waterstaat, 
-K.M.H.Peijs    
+K.M.H. Peijs      

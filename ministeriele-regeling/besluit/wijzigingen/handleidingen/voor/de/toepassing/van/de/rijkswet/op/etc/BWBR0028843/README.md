@@ -8,28 +8,28 @@ Besluit:
 
 ### Artikel  I  
 
-A.   Wijzigt de Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Curaçao en Sint Maarten.    
-B.   Wijzigt de Handleiding Rijkswet op het Nederlanderschap 2003.    
-C.   Wijzigt de Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Curaçao en Sint Maarten.    
-D.   Handleiding Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Aruba.    
-E.   Wijzigt de Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Curaçao en Sint Maarten.    
-F.   Wijzigt de Handleiding Rijkswet op het Nederlanderschap 2003.    
-G.   Handleiding Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Aruba.    
-H.   Wijzigt de Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Curaçao en Sint Maarten.    
-I.  In afwijking op het voorgaande onder H wordt het onderzoeksverslag behorend bij het [Bericht omtrent Toelating](../../../../../../../../../../../../../rijksKB/besluit/bericht/omtrent/toelating/BWBR0014831/README.md) (BOT), zoals genoemd in de [toelichting op artikel 1 onder g, RWN, paragraaf 5.1](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md), op [artikel 6, eerste lid onder b](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md), [e](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md), [f (paragraaf 3)](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md), [g](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md) en [h RWN](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md), op [artikel 8, eerste lid onder c RWN](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md), op [artikel 8, derde](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md), [vierde](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md) en [vijfde lid RWN](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md) en op [artikel 11, derde](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md), [vierde](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md) en [vijfde lid RWN](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md), niet ondertekend door de Gouverneur maar door de directeur van de met de uitvoering van de Landsverordening toelating en uitzetting belaste dienst.   
-J.   Wijzigt de Handleiding Rijkswet op het Nederlanderschap 2003.    
-K.   Wijzigt de Handleiding Rijkswet op het Nederlanderschap 2003.    
-L.   Wijzigt de Handleiding Rijkswet op het Nederlanderschap 2003.    
-M.   Wijzigt de Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Curaçao en Sint Maarten.    
-N.   Wijzigt de Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Curaçao en Sint Maarten.    
-O.   Wijzigt de Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Curaçao en Sint Maarten.    
-P.   Handleiding Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Aruba.    
-Q.   Handleiding Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Aruba.    
-R.   Handleiding Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Aruba.    
+A. Wijzigt de Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Curaçao en Sint Maarten.
+B. Wijzigt de Handleiding Rijkswet op het Nederlanderschap 2003.
+C. Wijzigt de Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Curaçao en Sint Maarten.
+D. Handleiding Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Aruba.
+E. Wijzigt de Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Curaçao en Sint Maarten.
+F. Wijzigt de Handleiding Rijkswet op het Nederlanderschap 2003.
+G. Handleiding Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Aruba.
+H. Wijzigt de Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Curaçao en Sint Maarten.
+I. In afwijking op het voorgaande onder H wordt het onderzoeksverslag behorend bij het [Bericht omtrent Toelating](../../../../../../../../../../../../../rijksKB/besluit/bericht/omtrent/toelating/BWBR0014831/README.md) (BOT), zoals genoemd in de [toelichting op artikel 1 onder g, RWN, paragraaf 5.1](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md), op [artikel 6, eerste lid onder b](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md), [e](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md), [f (paragraaf 3)](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md), [g](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md) en [h RWN](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md), op [artikel 8, eerste lid onder c RWN](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md), op [artikel 8, derde](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md), [vierde](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md) en [vijfde lid RWN](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md) en op [artikel 11, derde](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md), [vierde](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md) en [vijfde lid RWN](../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0026494/README.md), niet ondertekend door de Gouverneur maar door de directeur van de met de uitvoering van de Landsverordening toelating en uitzetting belaste dienst.
+J. Wijzigt de Handleiding Rijkswet op het Nederlanderschap 2003.
+K. Wijzigt de Handleiding Rijkswet op het Nederlanderschap 2003.
+L. Wijzigt de Handleiding Rijkswet op het Nederlanderschap 2003.
+M. Wijzigt de Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Curaçao en Sint Maarten.
+N. Wijzigt de Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Curaçao en Sint Maarten.
+O. Wijzigt de Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Curaçao en Sint Maarten.
+P. Handleiding Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Aruba.
+Q. Handleiding Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Aruba.
+R. Handleiding Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Aruba.
 
 ### Artikel  II  
 
-Dit besluit treedt in werking met ingang van 10 oktober 2010.  
+Dit besluit treedt in werking met ingang van 10 oktober 2010. 
 Dit besluit zal met de toelichting in de Staatscourant en de voor publicatie geëigende bladen in Aruba, Curaçao en Sint Maarten worden geplaatst.   
 
 Den Haag 

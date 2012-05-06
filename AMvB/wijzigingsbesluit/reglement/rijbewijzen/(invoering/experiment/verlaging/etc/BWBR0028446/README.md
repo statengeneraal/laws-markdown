@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Minister van Verkeer en Waterstaat van 25 juni 2010, nr. CEND/HDJZ-2010/890 sector AWW Hoofddirectie Juridische Zaken;
 
-Gelet op artikel 151e, eerste lid, en artikel 186, eerste lid, onder c, van de Wegenverkeerswet 1994;
+Gelet op [artikel 151e, eerste lid](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en [artikel 186, eerste lid, onder c, van de Wegenverkeerswet 1994](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
 
 De Raad van State gehoord (advies van 14 juli 2010, nr. W09.10.0260/IV);
 
@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Reglement rijbewijzen.   
+Wijzigt het Reglement rijbewijzen. 
 
 ### Artikel  II  
 
@@ -23,15 +23,15 @@ Dit besluit blijft, nadat het is vervallen, van toepassing op:
 
 a. bestuurders, die de leeftijd van eenentwintig jaar nog niet bereikt hebben en het rijbewijs voor de rijbewijscategorie D voorafgaand aan het vervallen van dit besluit hebben verkregen;  
 
-b. degene aan wie rijonderricht wordt gegeven als bedoeld in artikel 173d.    
+b. degene aan wie rijonderricht wordt gegeven als bedoeld in [artikel 173d](../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md).   
 
 ### Artikel  III  
 
-Wijzigt het Reglement rijbewijzen.   
+Wijzigt het Reglement rijbewijzen. 
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking op 1 januari 2011.  
+Dit besluit treedt in werking op 1 januari 2011.
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -39,10 +39,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 7 september 2010  
 Beatrix  
 
-De Minister van Verkeer en Waterstaat, 
+De Minister van Verkeer en Waterstaat,  
 C. M. P. S. Eurlings   
 
 de *zevenentwintigste* september 2010 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    

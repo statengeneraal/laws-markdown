@@ -16,9 +16,9 @@ d. huishoudbekers;
 
 e. veerweegwerktuigen voor huishoudelijk gebruik, mits duidelijk is aangegeven dat zij niet voor handelsdoeleinden mogen worden gebruikt;  
 
-f. brievenwegers.    
+f. brievenwegers.   
 
 ### Artikel  2  
 
 1.  Deze regeling berust op artikel 20, onder a, van de IJkwet BES.   
-2.  Deze regeling wordt aangehaald als: Regeling van 9 juli 1956 ter uitvoering van artikel 20 onder a van de IJkwet BES.   
+2.  Deze regeling wordt aangehaald als: Regeling van 9 juli 1956 ter uitvoering van artikel 20 onder a van de IJkwet BES.  

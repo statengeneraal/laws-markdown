@@ -21,17 +21,17 @@ d. de vrijstelling beperkt zich tot gebieden waarvoor een verkeersbesluit tot pl
 
 e. de vrijstelling geldt alleen ten behoeve van de dienstverlening op het gebied van geld- en waardetransport op locaties gelegen in de in onderdeel d bedoelde gebieden;  
 
-f. in de gebieden genoemd in onderdeel d dient stapvoets te worden gereden.     
+f. in de gebieden genoemd in onderdeel d dient stapvoets te worden gereden.    
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van 1 januari 2009.  
+Deze regeling treedt in werking met ingang van 1 januari 2009. 
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Regeling vrijstelling geld- en waardetransportbedrijven.  
+Deze regeling wordt aangehaald als: Regeling vrijstelling geld- en waardetransportbedrijven. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings   
+Minister van Verkeer en Waterstaat,
+C.M.P.S. Eurlings     

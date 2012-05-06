@@ -14,12 +14,12 @@ b. gebruikerstoestellen bestemd voor aansluiting op een trunkingsysteem;
 c. gebruikerstoestellen bestemd voor aansluiting op een paging-systeem; en  
 
 d. gebruikerstoestellen ten behoeve van datacommunicatie.     
-3.  In afwijking van het eerste lid is een machtiging als bedoeld in artikel 15, eerste lid, van de Wet telecommunicatievoorzieningen BES wel vereist, indien een gebruikerstoestel als bedoeld in het tweede lid, onderdeel b, tevens is uitgerust met de mogelijkheid van het gebruik van een additionele frequentie buiten de in het eerste lid bedoelde radio-elektrische zend- en ontvanginrichting van de concessiehouder of machtigingshouder om.   
+3.  In afwijking van het eerste lid is een machtiging als bedoeld in artikel 15, eerste lid, van de Wet telecommunicatievoorzieningen BES wel vereist, indien een gebruikerstoestel als bedoeld in het tweede lid, onderdeel b, tevens is uitgerust met de mogelijkheid van het gebruik van een additionele frequentie buiten de in het eerste lid bedoelde radio-elektrische zend- en ontvanginrichting van de concessiehouder of machtigingshouder om.  
 
 ### Artikel  2  
 
 1.  Onverminderd de overige vereisten van het Besluit radio-elektrische inrichtingen BES is geen machtiging als bedoeld in de artikelen 15, eerste lid, en 16, derde lid, onderdeel a, van de Wet telecommunicatievoorzieningen BES vereist voor een radio-elektrische zend- en ontvanginrichting die kan worden aangemerkt als apparatuur bestemd voor “Global Mobile Personal Communication Systems”, verder aan te duiden als GMPCS-apparatuur, en die slechts is te gebruiken in samenwerking met andere GMPCS-apparatuur, die op commerciële basis wordt geëxploiteerd en die is aangebracht in en functioneert vanuit een ruimtesatelliet dan wel met de telecommunicatie-infrastructuur, waarvoor een concessie als bedoeld in artikel 2, eerste lid, van de Wet telecommunicatievoorzieningen BES is verleend, en waarbij de te gebruiken zend- en ontvangfrequenties zijn toegewezen aan de houder van een machtiging als bedoeld in de artikelen 15, eerste lid, en 16, derde lid, onderdeel a, van de Wet telecommunicatievoorzieningen BES, die zodanige radio-elektrische zend- en ontvanginrichtingen krachtens die machtiging in de handel brengt.   
-2.  De in het eerste lid bedoelde vrijstelling vervalt zodra de in dat lid bedoelde houder van de aldaar bedoelde machtiging zijn activiteiten ter zake van de in het eerste lid bedoelde radio-elektrische zend- en ontvanginrichtingen beëindigt.   
+2.  De in het eerste lid bedoelde vrijstelling vervalt zodra de in dat lid bedoelde houder van de aldaar bedoelde machtiging zijn activiteiten ter zake van de in het eerste lid bedoelde radio-elektrische zend- en ontvanginrichtingen beëindigt.  
 
 ### Artikel  3  
 
@@ -34,16 +34,16 @@ c. speelgoed;
 
 d. alarmsystemen; en  
 
-e. diverse vormen van afstandsbediening, zoals audio-visuele apparatuur, toegangshekken en dergelijke.     
+e. diverse vormen van afstandsbediening, zoals audio-visuele apparatuur, toegangshekken en dergelijke.    
 
 ### Artikel  4  
 
-Onverminderd de overige vereisten van het Besluit radio-elektrische inrichtingen BES is geen machtiging als bedoeld in de artikelen 15, eerste lid, en 16, derde lid, onderdeel a, van de Wet telecommunicatievoorzieningen BES vereist voor een radio-elektrische zend- en ontvanginrichting bestemd voor de besturing van modelvliegtuigen, -vaartuigen en -voertuigen, voor zover gebruik gemaakt wordt van vastgestelde frequentiebanden.  
+Onverminderd de overige vereisten van het Besluit radio-elektrische inrichtingen BES is geen machtiging als bedoeld in de artikelen 15, eerste lid, en 16, derde lid, onderdeel a, van de Wet telecommunicatievoorzieningen BES vereist voor een radio-elektrische zend- en ontvanginrichting bestemd voor de besturing van modelvliegtuigen, -vaartuigen en -voertuigen, voor zover gebruik gemaakt wordt van vastgestelde frequentiebanden. 
 
 ### Artikel  5  
 
-Deze regeling berust op de artikelen 48, eerste lid, en 67 van het Besluit radio-elektrische inrichtingen BES.  
+Deze regeling berust op de artikelen 48, eerste lid, en 67 van het Besluit radio-elektrische inrichtingen BES. 
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als: Regeling vrijstelling telecommunicatiemachtiging BES.  
+Deze regeling wordt aangehaald als: Regeling vrijstelling telecommunicatiemachtiging BES. 

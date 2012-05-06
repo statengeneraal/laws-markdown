@@ -11,68 +11,68 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt het Burgerlijk Wetboek.   
+Wijzigt het Burgerlijk Wetboek. 
 
 ### Artikel  II  
 
-Wijzigt de Faillissementswet.   
+Wijzigt de Faillissementswet. 
 
 ### Artikel  III  
 
-Wijzigt de Kadasterwet.   
+Wijzigt de Kadasterwet. 
 
 ### Artikel  IV  
 
-Wijzigt de Wet op de rechterlijke organisatie.   
+Wijzigt de Wet op de rechterlijke organisatie. 
 
 ### Artikel  V  
 
-Wijzigt de Wet politieregisters.   
+Wijzigt de Wet politieregisters. 
 
 ### Artikel  VI  
 
-Wijzigt de Wet rechtspositie rechterlijke ambtenaren.   
+Wijzigt de Wet rechtspositie rechterlijke ambtenaren.
 
 ### Artikel  VII  
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.   
+Wijzigt het Wetboek van Burgerlijke Rechtsvordering. 
 
 ### Artikel  VIIa  
 
-Wijzigt de Wet tarieven in burgerlijke zaken.   
+Wijzigt de Wet tarieven in burgerlijke zaken. 
 
 ### Artikel  VIII  
 
-Wijzigt de Wet toezicht kredietwezen 1992.   
+Wijzigt de Wet toezicht kredietwezen 1992. 
 
 ### Artikel  IX  
 
-Wijzigt de Wet toezicht natura-uitvaartverzekeringsbedrijf.   
+Wijzigt de Wet toezicht natura-uitvaartverzekeringsbedrijf. 
 
 ### Artikel  X  
 
-Wijzigt de Wet toezicht verzekeringsbedrijf 1993.   
+Wijzigt de Wet toezicht verzekeringsbedrijf 1993. 
 
 ### Artikel  Xa  
 
-Wijzigt de Uitvoeringswet EG-bewijsverordening.   
+Wijzigt de Uitvoeringswet EG-bewijsverordening. 
 
 ### Artikel  XI  
 
-Wijzigt de Vaststellingswet afdeling 7.1.12 (huurkoop van onroerende zaken) en het Wetboek van Burgerlijke rechtsvordering.   
+Wijzigt de Vaststellingswet afdeling 7.1.12 (huurkoop van onroerende zaken) en het Wetboek van Burgerlijke rechtsvordering. 
 
 ### Artikel  XII  
 
-Wijzigt het Burgerlijk Wetboek Boek 2, de Douanewet, het Wetboek van Strafrecht en het Wetboek van Strafvordering.   
+Wijzigt het Burgerlijk Wetboek Boek 2, de Douanewet, het Wetboek van Strafrecht en het Wetboek van Strafvordering. 
 
 ### Artikel  XIII  
 
 1.  Op de verdere behandeling door een gerecht van zaken die op de datum van inwerkingtreding van deze wet bij dat gerecht aanhangig zijn, blijft het recht van toepassing zoals het gold voor de datum van inwerkingtreding van deze wet.   
-2.  Op de mogelijkheid van en de termijn voor het aanwenden van een rechtsmiddel tegen een beslissing van een gerecht, die voor de datum van inwerkingtreding in deze wet is tot stand gekomen, blijft het recht van toepassing zoals het gold voor de datum van inwerkingtreding van deze wet.   
+2.  Op de mogelijkheid van en de termijn voor het aanwenden van een rechtsmiddel tegen een beslissing van een gerecht, die voor de datum van inwerkingtreding in deze wet is tot stand gekomen, blijft het recht van toepassing zoals het gold voor de datum van inwerkingtreding van deze wet.  
 
 ### Artikel  XIV  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad wordt geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan nauwkeurige uitvoering de hand zullen houden.   
 

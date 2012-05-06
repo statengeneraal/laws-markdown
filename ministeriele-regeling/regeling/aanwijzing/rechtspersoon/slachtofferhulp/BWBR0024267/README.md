@@ -8,15 +8,15 @@ Besluit:
 
 ### Artikel  I  
 
-Slachtofferhulp Nederland aan te wijzen als de rechtspersoon die is belast met de taken, bedoeld in [artikel 6](../../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md).  
+Slachtofferhulp Nederland aan te wijzen als de rechtspersoon die is belast met de taken, bedoeld in [artikel 6](../../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md). 
 
 ### Artikel  II  
 
-De [Aanwijzing coördinator instellingen slachtofferhulp](../../../../../../ministeriele-regeling/aanwijzing/coördinator/instellingen/slachtofferhulp/BWBR0009465/README.md) wordt ingetrokken.  
+De [Aanwijzing coördinator instellingen slachtofferhulp](../../../../../../ministeriele-regeling/aanwijzing/coördinator/instellingen/slachtofferhulp/BWBR0009465/README.md) wordt ingetrokken. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van 1 januari 2009.  
+Deze regeling treedt in werking met ingang van 1 januari 2009. 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -24,4 +24,4 @@ Den Haag
 
 De 
 Minister van Justitie, 
-E.M.H.Hirsch Ballin   
+E.M.H. Hirsch Ballin     

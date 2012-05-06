@@ -12,12 +12,12 @@ In deze regeling wordt verstaan onder:
 
 a. ABL: Analyse Bureau Luchtvaartvoorvallen van de Inspectie Verkeer en Waterstaat;  
 
-b. verplichte melder: degene, die ingevolge [artikel 1, eerste lid, van het Besluit melding voorvallen in de burgerluchtvaart](../../../../../../../../AMvB/besluit/melding/voorvallen/in/de/burgerluchtvaart/BWBR0020648/README.md) verplicht is tot het melden van een voorval, als bedoeld in [artikel 1.1 van de Wet luchtvaart](../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md).    
+b. verplichte melder: degene, die ingevolge [artikel 1, eerste lid, van het Besluit melding voorvallen in de burgerluchtvaart](../../../../../../../../AMvB/besluit/melding/voorvallen/in/de/burgerluchtvaart/BWBR0020648/README.md) verplicht is tot het melden van een voorval, als bedoeld in [artikel 1.1 van de Wet luchtvaart](../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md).   
 
 ### Artikel  2  
 
 1.  Een verplichte melder meldt voorvallen aan het ABL.   
-2.  Een verplichte melder meldt in ieder geval de voorvallen die zijn opgenomen in de bijlagen I en II behorend bij deze regeling en de respectievelijke aanhangsels bij die bijlagen.   
+2.  Een verplichte melder meldt in ieder geval de voorvallen die zijn opgenomen in de bijlagen I en II behorend bij deze regeling en de respectievelijke aanhangsels bij die bijlagen.  
 
 ### Artikel  3  
 
@@ -33,30 +33,30 @@ d. een korte beschrijving van het voorval.
 2.  Binnen 72 uren na de constatering van een voorval worden de in het eerste lid bedoelde gegevens gemeld. Overige informatie die noodzakelijk is voor verwerking van de melding wordt zo spoedig mogelijk ingediend bij het ABL.   
 3.  De melding wordt gedaan op één van de formulieren, zoals opgenomen in bijlage III bij deze regeling.   
 4.  In afwijking van het derde lid kunnen meldingen worden gedaan door het elektronisch opsturen van digitale gegevens uit een bij of krachtens wettelijk voorschrift ingevoerd veiligheidsmanagement systeem naar het ABL.   
-5.  Voorvallen ten aanzien waarvan zowel een natuurlijk persoon als de rechtspersoon, waarbij de natuurlijke persoon werkzaam is, meldplichtig zijn, kunnen gezamenlijk worden gemeld, voor zover de rechtspersoon met toepassing van het vierde lid voor doorgeleiding van de melding zorgdraagt.   
+5.  Voorvallen ten aanzien waarvan zowel een natuurlijk persoon als de rechtspersoon, waarbij de natuurlijke persoon werkzaam is, meldplichtig zijn, kunnen gezamenlijk worden gemeld, voor zover de rechtspersoon met toepassing van het vierde lid voor doorgeleiding van de melding zorgdraagt.  
 
 ### Artikel  4  
 
 1.  Een ieder kan tekortkomingen in de luchtvaart, waaronder voorvallen, welke niet verplicht gemeld moeten worden maar die de melder als een reëel of mogelijk gevaar beschouwt melden bij het ABL.   
 2.  Het ABL verwijdert uit de ingediende meldingen als bedoeld in het eerste lid alle persoonlijke bijzonderheden met betrekking tot de melder en de technische bijzonderheden die ertoe kunnen leiden dat de identiteit van de melder, of van derden, uit de informatie wordt opgemaakt.   
-3.  Artikel 3, eerste, derde en vierde lid, zijn van overeenkomstige toepassing.   
+3.  Artikel 3, eerste, derde en vierde lid, zijn van overeenkomstige toepassing.  
 
 ### Artikel  5  
 
-Het ABL verzamelt, beoordeelt, verwerkt en slaat de meldingen op overeenkomstig de procedure zoals weergegeven in bijlage IV bij deze regeling.  
+Het ABL verzamelt, beoordeelt, verwerkt en slaat de meldingen op overeenkomstig de procedure zoals weergegeven in bijlage IV bij deze regeling. 
 
 ### Artikel  6  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  7  
 
-Deze regeling wordt aangehaald als: Regeling melding voorvallen in de burgerluchtvaart.  
+Deze regeling wordt aangehaald als: Regeling melding voorvallen in de burgerluchtvaart. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-K.M.H.Peijs  
+K.M.H. Peijs    
 
 ### Bijlage  I  
 
@@ -140,7 +140,7 @@ z. GPWS/TAWS ‘alarm’ wanneer de reactie van de bemanning op het ‘alarm’ 
 
 aa. ACAS RA’s  
 
-bb. incidenten met betrekking tot de drukgolf van een straalmotor of luchtschroef met aanzienlijke schade of ernstig letsel als gevolg.    
+bb. incidenten met betrekking tot de drukgolf van een straalmotor of luchtschroef met aanzienlijke schade of ernstig letsel als gevolg.   
 
 #### *2. Noodgevallen* 
 
@@ -170,17 +170,17 @@ g. Een voorval dat leidt tot het aangaan van een noodoproep (‘Mayday’ of ‘
 
 h. De gebrekkige werking van een noodsysteem of nooduitrusting, inclusief alle uitgangen en de verlichting, ook bij het gebruik voor onderhouds- of opleidingsdoeleinden of voor tests.  
 
-i. Situaties waarin een lid van het personeel gebruik moet maken van extra zuurstof.    
+i. Situaties waarin een lid van het personeel gebruik moet maken van extra zuurstof.   
 
 #### *3. Arbeidsongeschiktheid van de bemanning* 
 
 a. Het arbeidsongeschikt worden van een lid van het stuurhutpersoneel, inclusief voorvallen vóór de start, indien men denkt dat deze tot arbeidsongeschiktheid na het opstijgen hadden kunnen leiden.  
 
-b. Het arbeidsongeschikt worden van een lid van het kajuitpersoneel, dat vervolgens niet meer in staat is om in noodgevallen essentiële taken te verrichten.    
+b. Het arbeidsongeschikt worden van een lid van het kajuitpersoneel, dat vervolgens niet meer in staat is om in noodgevallen essentiële taken te verrichten.   
 
 #### *4. Letsel* 
 
-Voorvallen die hebben geleid of hadden kunnen leiden tot ernstig letsel voor passagiers of bemanningsleden, maar die niet worden beschouwd als een ongeval dat gemeld moet worden.  
+Voorvallen die hebben geleid of hadden kunnen leiden tot ernstig letsel voor passagiers of bemanningsleden, maar die niet worden beschouwd als een ongeval dat gemeld moet worden. 
 
 #### *5. Meteorologie* 
 
@@ -192,7 +192,7 @@ c. Het terechtkomen in hevige turbulentie – hetgeen tot gewonden onder de inzi
 
 d. Het terechtkomen in windschering.  
 
-e. IJsvorming met ernstige besturingsmoeilijkheden, schade aan het luchtvaartuig of het uitvallen of de storing van een essentiële dienst als gevolg.    
+e. IJsvorming met ernstige besturingsmoeilijkheden, schade aan het luchtvaartuig of het uitvallen of de storing van een essentiële dienst als gevolg.   
 
 #### *6. Veiligheid* 
 
@@ -200,7 +200,7 @@ a. Wederrechtelijke hindering van het luchtvaartuig, inclusief bommelding of kap
 
 b. Moeilijkheden met onder invloed verkerende, gewelddadige of weerspannige passagiers.  
 
-c. Ontdekking van een verstekeling.    
+c. Ontdekking van een verstekeling.   
 
 #### *7. Andere voorvallen* 
 
@@ -210,7 +210,7 @@ b. Een vogelaanvaring met als gevolg schade aan het luchtvaartuig of het uitvall
 
 c. Het terechtkomen in zogwervelingen.  
 
-d. Ieder ander willekeurig voorval aan boord van het luchtvaartuig of op de grond dat gevaarlijk of mogelijk gevaarlijk werd geacht voor het luchtvaartuig of de inzittenden.    
+d. Ieder ander willekeurig voorval aan boord van het luchtvaartuig of op de grond dat gevaarlijk of mogelijk gevaarlijk werd geacht voor het luchtvaartuig of de inzittenden.   
 
 #### *B. Luchtvaartuigtechniek* 
 
@@ -228,7 +228,7 @@ d. Schade aan of defect van een constructiedeel waardoor stukken kunnen vrijkome
 
 e. Schade aan of defect van een constructiedeel waardoor de correcte werking van systemen in gevaar kan komen. Zie punt 2) hierna.  
 
-f. Het verliezen van een onderdeel van het luchtvaartuig tijdens de vlucht.    
+f. Het verliezen van een onderdeel van het luchtvaartuig tijdens de vlucht.   
 
 #### *2. Systemen* 
 
@@ -270,7 +270,7 @@ m. Iedere storing, gebrek of defect, indien dit zich in een kritieke vluchtfase 
 
 n. Voorvallen van aanzienlijke tekortkomingen in de feitelijke prestaties in vergelijking met de goedgekeurde prestaties, die tot een gevaarlijke situatie hebben geleid (rekening houdend met de nauwkeurigheid van de prestatieberekeningsmethode), inclusief remkracht, brandstofverbruik, enz.  
 
-o. Asymmetrie van besturingsorganen, bv. kleppen en neusvleugels, spoilers, enz. Het aanhangsel bij deze bijlage bevat een lijst van voorbeelden van te melden voorvallen die voortvloeien uit de toepassing van deze algemene criteria op specifieke systemen.    
+o. Asymmetrie van besturingsorganen, bv. kleppen en neusvleugels, spoilers, enz. Het aanhangsel bij deze bijlage bevat een lijst van voorbeelden van te melden voorvallen die voortvloeien uit de toepassing van deze algemene criteria op specifieke systemen.   
 
 #### *3. Voortstuwing (inclusief motoren, propellers, rotorsystemen) en hulpaggregaten (APU’s)* 
 
@@ -357,11 +357,11 @@ n. Onmogelijkheid om de APU af te zetten.
 
 o. Overtoerental.  
 
-p. Onmogelijkheid om de APU te starten wanneer dat om operationele redenen nodig is.    
+p. Onmogelijkheid om de APU te starten wanneer dat om operationele redenen nodig is.   
 
 #### *4. Menselijke factoren* 
 
-Elk incident waarbij een kenmerk van of onvolkomenheid in het ontwerp van het luchtvaartuig tot een verkeerd gebruik zou kunnen hebben geleid dat tot een gevaarlijk of rampzalig gevolg zou kunnen bijdragen.  
+Elk incident waarbij een kenmerk van of onvolkomenheid in het ontwerp van het luchtvaartuig tot een verkeerd gebruik zou kunnen hebben geleid dat tot een gevaarlijk of rampzalig gevolg zou kunnen bijdragen. 
 
 #### *5. Andere voorvallen* 
 
@@ -375,7 +375,7 @@ d. Andere gebeurtenissen die voor het luchtvaartuig gevaar kunnen opleveren of v
 
 e. Storingen of defecten in de omroepinstallatie ten behoeve van de passagiers die ertoe leiden dat de omroepinstallatie onverstaanbaar of onbruikbaar wordt.  
 
-f. Falen van de instelling van de pilotenstoel tijdens de vlucht.    
+f. Falen van de instelling van de pilotenstoel tijdens de vlucht.   
 
 #### *C. Onderhoud en reparatie van luchtvaartuigen* 
 
@@ -407,19 +407,19 @@ b. bij iedere latere toepassing van de voorschriften, wanneer hierbij de in de v
 
 9. Misleidende, onjuiste of onvoldoende onderhoudsgegevens of -procedures die tot fouten in het onderhoud zouden kunnen leiden.  
 
-10. Gebrek, storing of defect van grondapparatuur die wordt gebruikt om systemen en apparatuur van het luchtvaartuig te testen of te controleren indien de procedures voor routine-inspecties en -tests geen duidelijk beeld van het probleem hebben opgeleverd en dit tot een gevaarlijke situatie leidt.    
+10. Gebrek, storing of defect van grondapparatuur die wordt gebruikt om systemen en apparatuur van het luchtvaartuig te testen of te controleren indien de procedures voor routine-inspecties en -tests geen duidelijk beeld van het probleem hebben opgeleverd en dit tot een gevaarlijke situatie leidt.   
 
 #### *D. Luchtvaartnavigatiediensten, faciliteiten en gronddiensten* 
 
 #### *1. Luchtvaartnavigatiediensten (ANS)* 
 
-Zie bijlage II – lijst van te melden voorvallen in verband met luchtnavigatiediensten.  
+Zie bijlage II – lijst van te melden voorvallen in verband met luchtnavigatiediensten. 
 
 #### *2. Vliegvelden en vliegveldfaciliteiten* 
 
 a. Overvloedig morsen met brandstof tijdens het tanken.  
 
-b. Lading van de verkeerde hoeveelheden brandstof, hetgeen de vliegduur, de prestaties, de zwaartepuntligging of de constructiesterkte van het luchtvaartuig waarschijnlijk ingrijpend zal beïnvloeden.    
+b. Lading van de verkeerde hoeveelheden brandstof, hetgeen de vliegduur, de prestaties, de zwaartepuntligging of de constructiesterkte van het luchtvaartuig waarschijnlijk ingrijpend zal beïnvloeden.   
 
 #### *3. Passagiersbehandeling, bagage en lading* 
 
@@ -431,7 +431,7 @@ c. Verkeerde stuwage van bagage of lading (inclusief handbagage) die op enigerle
 
 d. Ondeskundige opslag van ladingcontainers of grote vrachtstukken.  
 
-e. Vervoer of voorgenomen vervoer van gevaarlijke goederen in strijd met de geldende voorschriften, met inbegrip van onjuiste etikettering en verpakking van gevaarlijke goederen.    
+e. Vervoer of voorgenomen vervoer van gevaarlijke goederen in strijd met de geldende voorschriften, met inbegrip van onjuiste etikettering en verpakking van gevaarlijke goederen.   
 
 #### *4. Afhandeling en onderhoud van luchtvaartuigen op de grond* 
 
@@ -439,7 +439,7 @@ a. Gebrek, storing of defect van grondapparatuur die wordt gebruikt voor het tes
 
 b. Afwijking van of grove fouten bij de toepassing van de voorgeschreven onderhoudsprocedures.  
 
-c. Lading van brandstof of andere voor het luchtvaartuig essentiële vloeistoffen (inclusief zuurstof en drinkwater) die verontreinigd zijn of van de verkeerde soort zijn.    
+c. Lading van brandstof of andere voor het luchtvaartuig essentiële vloeistoffen (inclusief zuurstof en drinkwater) die verontreinigd zijn of van de verkeerde soort zijn.   
 
 #### *Aanhangsel bij Bijlage I* 
 
@@ -449,7 +449,7 @@ Dit aanhangsel bevat voorbeelden van te melden voorvallen die voortvloeien uit d
 
 a. volledig uitvallen van elektronisch geregelde koeling,  
 
-b. drukverlaging.    
+b. drukverlaging.   
 
 #### *2. Automatisch besturingssysteem* 
 
@@ -459,13 +459,13 @@ b. door de bemanning gemelde aanzienlijke moeilijkheden bij het besturen van het
 
 c. storing van een uitschakelinrichting van het automatisch besturingssysteem,  
 
-d. ongewenste wijziging in de modus van het automatisch besturingssysteem.    
+d. ongewenste wijziging in de modus van het automatisch besturingssysteem.   
 
 #### *3. Communicatie* 
 
 a. storingen of defecten in de omroepinstallatie ten behoeve van de passagiers die ertoe leiden dat de omroepinstallatie onverstaanbaar of onbruikbaar wordt,  
 
-b. volledig uitvallen van de communicatie tijdens de vlucht.    
+b. volledig uitvallen van de communicatie tijdens de vlucht.   
 
 #### *4. Elektrisch systeem* 
 
@@ -473,7 +473,7 @@ a. uitvallen van één stroomverdelingssysteem (wisselstroom of gelijkstroom),
 
 b. volledig uitvallen of uitvallen van meer dan één stroomopwekkingssysteem,  
 
-c. uitvallen van de reservegenerator (noodaggregaat).    
+c. uitvallen van de reservegenerator (noodaggregaat).   
 
 #### *5. Cockpit/kajuit/lading* 
 
@@ -481,7 +481,7 @@ a. falen van de instelling van de pilotenstoel tijdens de vlucht,
 
 b. gebrekkige werking van een noodsysteem of nooduitrusting, inclusief signaleringssysteem voor noodontruiming, alle uitgangen, noodverlichting, enz.,  
 
-c. onmogelijkheid om het ladingsysteem gesloten te houden.    
+c. onmogelijkheid om het ladingsysteem gesloten te houden.   
 
 #### *6. Brandbeveiligingssysteem* 
 
@@ -489,7 +489,7 @@ a. brandalarm, tenzij het onmiddellijk loos is gebleken,
 
 b. onopgemerkt gebrek of defect van het brand/rookmeldings-/beveiligingssysteem, waardoor de brandmelding/-beveiliging geheel of gedeeltelijk kan uitvallen,  
 
-c. geen alarm bij een echte brand of rookontwikkeling.    
+c. geen alarm bij een echte brand of rookontwikkeling.   
 
 #### *7. Besturingsorganen* 
 
@@ -503,7 +503,7 @@ d. door de bemanning gevoelde stuurvlaktrillingen,
 
 e. mechanische breuk of storing in de besturingsorganen,  
 
-f. aanzienlijke hinder van de normale besturing van het luchtvaartuig of achteruitgang van de vliegeigenschappen.    
+f. aanzienlijke hinder van de normale besturing van het luchtvaartuig of achteruitgang van de vliegeigenschappen.   
 
 #### *8. Brandstofsysteem* 
 
@@ -515,7 +515,7 @@ c. storing of defecten in het brandstoflozingssysteem met als gevolg onopzetteli
 
 d. storingen of defecten in het brandstofsysteem die van grote invloed waren op de brandstoftoevoer en/of -distributie,  
 
-e. onmogelijkheid om brandstof over te hevelen of de totale hoeveelheid bruikbare brandstof te gebruiken.    
+e. onmogelijkheid om brandstof over te hevelen of de totale hoeveelheid bruikbare brandstof te gebruiken.   
 
 #### *9. Hydraulische systemen* 
 
@@ -527,7 +527,7 @@ c. uitvallen van meer dan één hydraulisch circuit,
 
 d. uitvallen van het hydraulisch reservesysteem,  
 
-e. ongewild uitlaten van de stuwluchtturbine.    
+e. ongewild uitlaten van de stuwluchtturbine.   
 
 #### *10. IJsmeldings-/beveiligingssysteem* 
 
@@ -539,7 +539,7 @@ c. onmogelijkheid om de vleugels symmetrisch ijsvrij te maken,
 
 d. abnormale ijsafzetting die tot aanzienlijke gevolgen voor de prestaties of bestuurbaarheid leidt,  
 
-e. aanzienlijke belemmering van het gezichtsveld voor de bemanning.    
+e. aanzienlijke belemmering van het gezichtsveld voor de bemanning.   
 
 #### *11. Verklikker-/waarschuwings-/registratiesystemen* 
 
@@ -547,7 +547,7 @@ a. storing of defect in een verklikkersysteem, wanneer de mogelijkheid van zeer 
 
 b. uitvallen van een rode waarschuwingsfunctie in een systeem,  
 
-c. voor glazen cockpits: uitvallen of storing van meer dan één display-unit of computer voor de aflees-/waarschuwingsfunctie.    
+c. voor glazen cockpits: uitvallen of storing van meer dan één display-unit of computer voor de aflees-/waarschuwingsfunctie.   
 
 #### *12. Landingsgestel/remmen/banden* 
 
@@ -561,7 +561,7 @@ d. storing in het systeem voor het uitlaten van het landingsgestel in vrije val 
 
 e. ongewenst uitlaten/intrekken van het landingsgestel of de deuren daarvan,  
 
-f. meerdere klapbanden.    
+f. meerdere klapbanden.   
 
 #### *13. Navigatiesystemen (inclusief precisienaderingssysteem) en luchtgegevenssystemen* 
 
@@ -575,13 +575,13 @@ d. aanzienlijke navigatiefouten als gevolg van onjuiste gegevens of een codering
 
 e. onverwachte afwijkingen in de laterale of verticale vliegroute die niet door een handeling van de piloot zijn veroorzaakt,  
 
-f. problemen met de navigatievoorzieningen op de grond die leiden tot aanzienlijke navigatiefouten die niet in verband kunnen worden gebracht met de overgang van de traagheidsnavigatiemodus naar de radionavigatiemodus.    
+f. problemen met de navigatievoorzieningen op de grond die leiden tot aanzienlijke navigatiefouten die niet in verband kunnen worden gebracht met de overgang van de traagheidsnavigatiemodus naar de radionavigatiemodus.   
 
 #### *14. Zuurstof* 
 
 a. voor luchtvaartuigen met drukcabine: onderbreking van zuurstoftoevoer in de cockpit,  
 
-b. onderbreking van zuurstoftoevoer naar een aanzienlijk aantal passagiers (meer dan 10 %), ook wanneer dit wordt geconstateerd bij onderhoud, opleiding of tests.    
+b. onderbreking van zuurstoftoevoer naar een aanzienlijk aantal passagiers (meer dan 10 %), ook wanneer dit wordt geconstateerd bij onderhoud, opleiding of tests.   
 
 #### *15. Ontluchtingssysteem* 
 
@@ -589,7 +589,7 @@ a. lekkage van hete aftaplucht die leidt tot brandalarm of schade aan de constru
 
 b. uitvallen van alle ontluchtingssystemen,  
 
-c. storing van het lekmeldsysteem voor aftaplucht.    
+c. storing van het lekmeldsysteem voor aftaplucht.   
 
 ### Bijlage  II  
 
@@ -669,7 +669,7 @@ Dit aanhangsel bevat voorbeelden van te melden ATM-voorvallen ingevolge de toepa
 
 11. Verkeerde of onvoldoende markering van obstructies of gevaar in verkeersruimten op de luchthaven, zodat een gevaarlijke situatie ontstaat.  
 
-12. Storing, slechte werking of uitvallen van verlichting langs start- en landingsbaan.    
+12. Storing, slechte werking of uitvallen van verlichting langs start- en landingsbaan.   
 
 ### Bijlage  III  
 
@@ -698,9 +698,9 @@ Dit aanhangsel bevat voorbeelden van te melden ATM-voorvallen ingevolge de toepa
 ![241947](http://wetten.overheid.nl/Illustration/241947)
 ![241948](http://wetten.overheid.nl/Illustration/241948)
 
-### Bijlage  IV  
+### Bijlage IV 
 
-####bij de Regeling melding voorvallen in de burgerluchtvaart
+#### bij de Regeling melding voorvallen in de burgerluchtvaart
 
 ![241949](http://wetten.overheid.nl/Illustration/241949)
 ![241950](http://wetten.overheid.nl/Illustration/241950)

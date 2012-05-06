@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder: certificaat: een certificaat als bedoeld in [artikel 5.14d, eerste lid, van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md); erkenning: een erkenning als bedoeld in [artikel 11.1a, eerste lid, van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md); Onze Minister: Onze Minister van Verkeer en Waterstaat.  
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder: certificaat: een certificaat als bedoeld in [artikel 5.14d, eerste lid, van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md); erkenning: een erkenning als bedoeld in [artikel 11.1a, eerste lid, van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md); Onze Minister: Onze Minister van Verkeer en Waterstaat. 
 
 ### §  2  
 
@@ -26,17 +26,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder: certific
 
 ### Artikel  2  
 
-De aanvraag tot verlening van een certificaat wordt gedaan op een daartoe door Onze Minister verstrekt aanvraagformulier.  
+De aanvraag tot verlening van een certificaat wordt gedaan op een daartoe door Onze Minister verstrekt aanvraagformulier. 
 
 ### Artikel  3  
 
 1.  Met de indiening van een aanvraag worden door de aanvrager die gegevens verstrekt die noodzakelijk zijn om aan te tonen dat wordt voldaan aan de in artikel 6 van de luchtvaartnavigatiedienstenverordening bedoelde eisen.   
 2.  Bij regeling van Onze Minister wordt bepaald welke gegevens moeten worden verstrekt om aan te tonen dat wordt voldaan aan de in het eerste lid bedoelde eisen.   
-3.  Op verzoek van Onze Minister verstrekt de aanvrager aanvullende informatie, indien de verstrekte informatie onvoldoende aantoont dat wordt voldaan aan de in het eerste lid bedoelde eisen.   
+3.  Op verzoek van Onze Minister verstrekt de aanvrager aanvullende informatie, indien de verstrekte informatie onvoldoende aantoont dat wordt voldaan aan de in het eerste lid bedoelde eisen.  
 
 ### Artikel  4  
 
-Een certificaat wordt verleend voor onbepaalde duur.  
+Een certificaat wordt verleend voor onbepaalde duur. 
 
 ### §  3  
 
@@ -44,7 +44,7 @@ Een certificaat wordt verleend voor onbepaalde duur.
 
 ### Artikel  5  
 
-De aanvraag tot verlening of verlenging van een erkenning wordt gedaan op een daartoe door Onze Minister verstrekt aanvraagformulier.  
+De aanvraag tot verlening of verlenging van een erkenning wordt gedaan op een daartoe door Onze Minister verstrekt aanvraagformulier. 
 
 ### Artikel  6  
 
@@ -56,7 +56,7 @@ a. welke gegevens moeten worden verstrekt om aan te tonen dat wordt voldaan aan 
 b. de hoogte van de vergoeding, bedoeld in [artikel 11.1a, tweede lid, onderdeel c, van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
 
 c. de hoogte van het tarief, bedoeld in [artikel 11.1a, tweede lid, onderdeel d, van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md).     
-3.  Op verzoek van Onze Minister verstrekt de aanvrager aanvullende informatie, indien de verstrekte informatie onvoldoende aantoont dat wordt voldaan aan de in het eerste lid bedoelde eisen.   
+3.  Op verzoek van Onze Minister verstrekt de aanvrager aanvullende informatie, indien de verstrekte informatie onvoldoende aantoont dat wordt voldaan aan de in het eerste lid bedoelde eisen.  
 
 ### §  4  
 
@@ -64,7 +64,7 @@ c. de hoogte van het tarief, bedoeld in [artikel 11.1a, tweede lid, onderdeel d,
 
 ### Artikel  7  
 
-Wijzigt het Luchtverkeersreglement.   
+Wijzigt het Luchtverkeersreglement. 
 
 ### §  5  
 
@@ -73,11 +73,11 @@ Wijzigt het Luchtverkeersreglement.
 ### Artikel  8  
 
 1.  Indien het bij koninklijke boodschap van 11 oktober 2006 ingediende voorstel van wet tot wijziging van de Wet luchtvaart en de Wet op het Koninklijk Meteorologisch Instituut ter uitvoering van vier EG-verordeningen in verband met het totstandkomen van een gemeenschappelijk Europees luchtruim (Kamerstukken II 2006/07, 30 834, nr. 2) nadat het tot wet is verheven, in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking.   
-2.  Indien dit besluit op een later tijdstip dan in het eerste lid wordt bedoeld wordt bekrachtigd en bekend wordt gemaakt, treedt dit besluit in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.   
+2.  Indien dit besluit op een later tijdstip dan in het eerste lid wordt bedoeld wordt bekrachtigd en bekend wordt gemaakt, treedt dit besluit in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
 
 ### Artikel  10  
 
-Dit besluit wordt aangehaald als: Besluit luchtvaartnavigatiediensten.  
+Dit besluit wordt aangehaald als: Besluit luchtvaartnavigatiediensten. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

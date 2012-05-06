@@ -8,23 +8,23 @@ Besluit:
 
 ### Artikel  1  
 
-De producent of importeur maakt bij het indienen van een mededeling als bedoeld in [artikel 6, eerste lid, van het Besluit beheer verpakkingen en papier en karton](../../../../../AMvB/besluit/beheer/verpakkingen/en/papier/en/karton/BWBR0018139/README.md) gebruik van het in bijlage I bij deze regeling opgenomen formulier.  
+De producent of importeur maakt bij het indienen van een mededeling als bedoeld in [artikel 6, eerste lid, van het Besluit beheer verpakkingen en papier en karton](../../../../../AMvB/besluit/beheer/verpakkingen/en/papier/en/karton/BWBR0018139/README.md) gebruik van het in bijlage I bij deze regeling opgenomen formulier. 
 
 ### Artikel  2  
 
-De producent of importeur maakt bij het indienen van het verslag, bedoeld in [artikel 7 van het Besluit beheer verpakkingen en papier en karton](../../../../../AMvB/besluit/beheer/verpakkingen/en/papier/en/karton/BWBR0018139/README.md), gebruik van het in bijlage II bij deze regeling opgenomen formulier.  
+De producent of importeur maakt bij het indienen van het verslag, bedoeld in [artikel 7 van het Besluit beheer verpakkingen en papier en karton](../../../../../AMvB/besluit/beheer/verpakkingen/en/papier/en/karton/BWBR0018139/README.md), gebruik van het in bijlage II bij deze regeling opgenomen formulier. 
 
 ### Artikel  3  
 
-De Regeling mededelingsformulier verpakkingen wordt ingetrokken.  
+De Regeling mededelingsformulier verpakkingen wordt ingetrokken. 
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  5  
 
-Deze regeling wordt aangehaald als: Regeling formulieren verpakkingen.  
+Deze regeling wordt aangehaald als: Regeling formulieren verpakkingen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -32,9 +32,9 @@ Den Haag
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J.M.Cramer  
+J.M. Cramer    
 
-### Bijlage  I  
+### Bijlage I 
 
 ####, behorende bij artikel 1 
 
@@ -44,7 +44,7 @@ J.M.Cramer
 ![242528](http://wetten.overheid.nl/Illustration/242528)
 ![242529](http://wetten.overheid.nl/Illustration/242529)
 
-### Bijlage  II  
+### Bijlage II 
 
 ####, behorende bij artikel 2 
 

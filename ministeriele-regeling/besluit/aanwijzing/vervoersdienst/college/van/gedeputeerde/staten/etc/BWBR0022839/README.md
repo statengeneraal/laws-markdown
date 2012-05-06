@@ -16,7 +16,7 @@ Besluit:
 |:---|:---|
 | Zwolle-Gramsbergen, als onderdeel van de vervoersdienst Zwolle–Emmen  | Zwolle, Dalfsen, Ommen, Mariënberg, Hardenberg, Gramsbergen  |
 
-2.  De in het eerste lid bedoelde bevoegdheid heeft betrekking op het openbaar vervoer per trein na 8 december 2007.   
+2.  De in het eerste lid bedoelde bevoegdheid heeft betrekking op het openbaar vervoer per trein na 8 december 2007.  
 
 ### Artikel  2  
 
@@ -26,13 +26,13 @@ Besluit:
 |:---|:---|
 | Gramsbergen–Emmen, als onderdeel van de vervoersdienst Zwolle–Emmen  | Gramsbergen, Coevorden, Dalen, Nieuw-Amsterdam, Emmen Bargeres, Emmen  |
 
-2.  De in het eerste lid bedoelde bevoegdheid heeft betrekking op het openbaar vervoer per trein na 8 december 2007.   
+2.  De in het eerste lid bedoelde bevoegdheid heeft betrekking op het openbaar vervoer per trein na 8 december 2007.  
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Verkeer en Waterstaat, 
-J.C.Huizinga-Heringa   
+J.C. Huizinga-Heringa     

@@ -30,7 +30,7 @@ e. Hoofd BOH: Het hoofd van het Bureau Ondersteuning Hoofddirectie van de IND
 
 f. Hoofd PIM: Het Hoofd van de afdeling Proces- en Informatiemanagement van de stafdirectie Personeel, Organisatie en Informatie  
 
-g. Programmamanager INDIGO (PM INDIGO): De programmamanager, geplaatst bij het programmabureau IND bij de Tijd, belast met het inrichten van de informatievoorziening en met het vormen van een nieuwe directie Informatievoorziening op basis van het Arbeidsorganisatiemodel    
+g. Programmamanager INDIGO (PM INDIGO): De programmamanager, geplaatst bij het programmabureau IND bij de Tijd, belast met het inrichten van de informatievoorziening en met het vormen van een nieuwe directie Informatievoorziening op basis van het Arbeidsorganisatiemodel   
 
 ### Artikel  2  
 
@@ -43,7 +43,7 @@ b. De rechtspositie van individuele medewerkers.
 3.  De stafdirecteur Personeel, Organisatie en Informatie is verantwoordelijk voor de ontwikkeling van het uitvoeringsbeleid met betrekking tot de mogelijke bescherming van de gezondheid en het welzijn in verband met de arbeid zoals beschreven in de [Arbeidsomstandighedenwet](../../../../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), alsmede met betrekking tot het voldoen aan de overige uit wet- en regelgeving voortvloeiende verplichtingen, die zijn verbonden aan het werkgeverschap, met uitzondering van de verplichtingen die gerelateerd zijn aan veiligheid en beveiliging.   
 4.  De stafdirecteur Middelen en Control is binnen de IND verantwoordelijk voor de uitvoering van het beleid met betrekking tot de fysieke beveiliging en veiligheid, zoals dat in de [Arbeidsomstandighedenwet](../../../../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en in andere relevante wet- en regelgeving is vastgelegd en is in dat kader binnen de IND ook verantwoordelijk voor de vertaling van de hogere regelgeving op dit gebied naar de uitvoeringspraktijk, alsmede voor de interne coördinatie en afstemming tussen de diverse actoren op het gebied van beveiliging en veiligheid.   
 5.  De CIO is verantwoordelijk voor de informatiebeveiliging, rekening houdend met de benodigde afstemming met de stafdirecteur Middelen en Control ter zake van de fysieke aspecten in de informatiebeveiliging.   
-6.  De directeuren, Hoofd BOH, Hoofd PIM en de PM INDIGO zijn verantwoordelijk voor de toepassing van het in lid 3 bedoelde uitvoeringsbeleid gericht op de gezondheid en het welzijn van hun medewerkers.   
+6.  De directeuren, Hoofd BOH, Hoofd PIM en de PM INDIGO zijn verantwoordelijk voor de toepassing van het in lid 3 bedoelde uitvoeringsbeleid gericht op de gezondheid en het welzijn van hun medewerkers.  
 
 ### Artikel  3  
 
@@ -54,14 +54,14 @@ b. De rechtspositie van individuele medewerkers.
 5.  De programmadirecteur is bevoegd namens de Hoofddirecteur IND de periodieke voortgangsrapportages van de directeuren over de onder hun verantwoordelijkheid uitgevoerde projecten te toetsen, teneinde de integrale rapportage aan de hoofddirectie over de voortgang van het programma met inbegrip van de budgetuitputting te kunnen verzorgen.   
 6.  De programmadirecteur is bevoegd de conceptrapportages aan de Hoofddirecteur IND ter bespreking voor te leggen aan het Managementteam IND.   
 7.  De programmadirecteur is bevoegd de door de directeuren opgestelde voorstellen voor eventuele verschuivingen in de toegekende projectbudgetten te toetsen, alvorens die ter goedkeuring aan de Hoofddirecteur IND worden voorgelegd, teneinde ten behoeve van de Hoofddirecteur IND de budgetuitputting te bewaken.   
-8.  De programmadirecteur is bevoegd maatregelen te nemen en contacten te onderhouden met betrekking tot de interne en externe communicatie over het totale programma en voor het organiseren van de participatie bij de uitvoering van het programma.   
+8.  De programmadirecteur is bevoegd maatregelen te nemen en contacten te onderhouden met betrekking tot de interne en externe communicatie over het totale programma en voor het organiseren van de participatie bij de uitvoering van het programma.  
 
 ### Artikel  4  
 
 1.  Het mandaat als bedoeld in artikel 2, tweede lid omvat niet de bevoegdheid tot het nemen van besluiten waar het betreft het toekennen van schadevergoeding, het verlenen van ontslag, anders dan op aanvraag en het nemen van disciplinaire maatregelen ten aanzien van medewerkers als vermeld in het overzicht dat als bijlage 1 aan dit mandaat is gehecht. Evenmin betreft dit de bevoegdheid tot het nemen van enig ander besluit waar het gaat om in dit overzicht genoemde medewerkers, die werkzaam zijn in managementfuncties gewaardeerd op schaal 14.   
 2.  Het mandaat als bedoeld in artikel 2, eerste en tweede lid, omvat niet de bevoegdheid tot het nemen van besluiten, indien deze worden genomen op grond van [artikel 99 van het Algemeen Rijksambtenarenreglement](../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).   
 3.  Het mandaat als bedoeld in artikel 2, tweede lid, omvat niet de bevoegdheid tot het nemen van besluiten, indien deze worden genomen op grond van [artikel 69 van het Algemeen Rijksambtenarenreglement](../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), voor zover de schadevergoeding betrekking heeft op immateriële of materiële schade boven een bedrag van € 10.000 netto.   
-4.  Het mandaat als bedoeld in artikel 2, tweede lid, omvat niet de bevoegdheid om te beslissen in bezwaar op door de in artikel 1, sub d van dit besluit genoemde directeuren, respectievelijk Hoofd BOH, respectievelijk Hoofd PIM, respectievelijk de PM INDIGO genomen besluiten, met uitzondering van die besluiten op bezwaar betreffende bevoegdheden die zijn doorgemandateerd aan onder de desbetreffende directeuren ressorterende functionarissen.   
+4.  Het mandaat als bedoeld in artikel 2, tweede lid, omvat niet de bevoegdheid om te beslissen in bezwaar op door de in artikel 1, sub d van dit besluit genoemde directeuren, respectievelijk Hoofd BOH, respectievelijk Hoofd PIM, respectievelijk de PM INDIGO genomen besluiten, met uitzondering van die besluiten op bezwaar betreffende bevoegdheden die zijn doorgemandateerd aan onder de desbetreffende directeuren ressorterende functionarissen.  
 
 ### Artikel  5  
 
@@ -69,22 +69,22 @@ In geval van beroep tegen een door de desbetreffende directeur, respectievelijk 
 
 a. in naam van de Minister van Justitie hoger beroep in te stellen tegen de uitspraak van de rechtbank, ter zake van die uitspraak een verzoek in te dienen tot het treffen van een voorlopige voorziening en of een verzoek in te dienen tot herziening van die uitspraak;  
 
-b. als gemachtigde van de Minister van Justitie op te treden of een gemachtigde van de Minister van Justitie aan te wijzen.    
+b. als gemachtigde van de Minister van Justitie op te treden of een gemachtigde van de Minister van Justitie aan te wijzen.   
 
 ### Artikel  6  
 
 1.  De directeuren, Hoofd BOH en Hoofd PIM, zijn, met inachtneming van het hiervoor bepaalde in artikel 4, tot een maximum van € 300.000 en, in geval van het aangaan van verplichtingen boven € 15.000 na raadpleging van de afdeling Inkoop, bevoegd om financiële verplichtingen aan te gaan, met inachtneming van het in het managementcontract toegekende budget en, acht slaande op het bepaalde in lid 2, het aan hen toegekende deel van het projectenbudget. De PM INDIGO heeft, eveneens met inachtneming van het bepaalde in artikel 4 en evenals de directeuren rekening houdend met de hiervoor omschreven verplichting tot raadpleging van de afdeling Inkoop met betrekking tot verplichtingen boven de € 15.000, de bevoegdheid tot het aangaan van verplichtingen tot een maximum van € 100.000   
 2.  Het mandaat als bedoeld in lid 1 omvat niet de bevoegdheid tot het aangaan van verplichtingen voor het inhuren van externen op het gebied van ICT ten behoeve van ICT-projecten. Voor het inhuren van deze externen zijn de directeur van het Gemeenschappelijk Centrum ICT, het Hoofd PIM en de PM INDIGO bevoegd om, met inachtneming van het projectenbudget, financiële verplichtingen aan te gaan.   
 3.  Het mandaat als bedoeld in lid 1 omvat voor de andere directeuren dan de directeur GCICT, respectievelijk Hoofd BOH en Hoofd PIM niet de bevoegdheid tot het aangaan van verplichtingen voor het aanschaffen van ICT-apparatuur en ICT-software. De directeur van het Gemeenschappelijk Centrum ICT en de PM INDIGO zijn bevoegd om ter zake van ICT-apparatuur en ICT-software, in het kader van de overeengekomen dienstverlening aan de andere onderdelen van de IND de hierop betrekking hebbende financiële verplichtingen aan te gaan.   
-4.  Het mandaat als bedoeld in lid 1 omvat niet de bevoegdheid tot het aangaan van verplichtingen voor het huren van panden. Deze bevoegdheid blijft bij de hoofddirectie.   
+4.  Het mandaat als bedoeld in lid 1 omvat niet de bevoegdheid tot het aangaan van verplichtingen voor het huren van panden. Deze bevoegdheid blijft bij de hoofddirectie.  
 
 ### Artikel  7  
 
-De directeuren, Hoofd BOH, Hoofd PIM en de PM INDIGO zijn bevoegd om facturen te accorderen, dat wil zeggen te tekenen voor belasting van het eigen budget.  
+De directeuren, Hoofd BOH, Hoofd PIM en de PM INDIGO zijn bevoegd om facturen te accorderen, dat wil zeggen te tekenen voor belasting van het eigen budget. 
 
 ### Artikel  8  
 
-De directeur Middelen en Control is bevoegd om betalingen te doen verrichten ten laste van de bankrekening van de IND. De bijbehorende autorisaties zijn toegekend aan de kasbeheerder van de IND en de plv. kasbeheerders (allen werkzaam bij de directie M&C).  
+De directeur Middelen en Control is bevoegd om betalingen te doen verrichten ten laste van de bankrekening van de IND. De bijbehorende autorisaties zijn toegekend aan de kasbeheerder van de IND en de plv. kasbeheerders (allen werkzaam bij de directie M&C). 
 
 ### Artikel  9  
 
@@ -105,27 +105,27 @@ De directeur Middelen en Control is bevoegd om betalingen te doen verrichten ten
 
 – De directeuren hebben de bevoegdheid om adjunct directeuren en hoofden AC in het kader van dit besluit aan te merken als plaatsvervangend directeur.  
 
-– Een functionaris mag geen verplichtingen aangaan voor diensten die betrekking hebben op hemzelf. In voorkomende gevallen wordt de verplichting aangegaan door de betrokken direct leidinggevende.     
+– Een functionaris mag geen verplichtingen aangaan voor diensten die betrekking hebben op hemzelf. In voorkomende gevallen wordt de verplichting aangegaan door de betrokken direct leidinggevende.    
 
 ### Artikel  10  
 
-Ingetrokken worden: het [Mandaatbesluit Personele- en Financiële Aangelegenheden Directeuren 2005 van 28 februari 2005](../../../../../../../../../../beleidsregel/mandaatbesluit/personele/en/financiële/aangelegenheden/directeuren/2005/etc/BWBR0018061/README.md), het Mandaatbesluit Personele- en Financiële Aangelegenheden Projectleider HIP 2005 van 13 april 2005, het Mandaatbesluit Regievoering, Personele- en Financiële Aangelegenheden Programmadirecteur van 7 maart 2006, het Mandaatbesluit Aanvullende Financiële Bevoegdheden Hoofd PIM 2007. het Mandaatbesluit Personele- en Financiële Aangelegenheden Hoofd PIM van 29 november 2007, het Mandaatbesluit Personele- en Financiële Aangelegenheden PM INDIGO van 17 april 2008. Hierbij zij aangetekend dat de tot het moment van intrekking door de betrokken functionarissen, op basis van de hun verleende bevoegdheid, genomen besluiten van kracht blijven.  
+Ingetrokken worden: het [Mandaatbesluit Personele- en Financiële Aangelegenheden Directeuren 2005 van 28 februari 2005](../../../../../../../../../../beleidsregel/mandaatbesluit/personele/en/financiële/aangelegenheden/directeuren/2005/etc/BWBR0018061/README.md),het Mandaatbesluit Personele- en Financiële Aangelegenheden Projectleider HIP 2005 van 13 april 2005,het Mandaatbesluit Regievoering, Personele- en Financiële Aangelegenheden Programmadirecteur van 7 maart 2006,het Mandaatbesluit Aanvullende Financiële Bevoegdheden Hoofd PIM 2007.het Mandaatbesluit Personele- en Financiële Aangelegenheden Hoofd PIM van 29 november 2007,het Mandaatbesluit Personele- en Financiële Aangelegenheden PM INDIGO van 17 april 2008.Hierbij zij aangetekend dat de tot het moment van intrekking door de betrokken functionarissen, op basis van de hun verleende bevoegdheid, genomen besluiten van kracht blijven.
 
 ### Artikel  11  
 
-Dit besluit treedt in werking met ingang van de dag volgend op de dag waarop het bekend is gemaakt.  
+Dit besluit treedt in werking met ingang van de dag volgend op de dag waarop het bekend is gemaakt. 
 
 ### Artikel  12  
 
-Dit besluit wordt aangehaald als: Mandaatbesluit Personele- en Financiële Aangelegenheden Directeuren 2008 van 26 juni 2008.  
+Dit besluit wordt aangehaald als: Mandaatbesluit Personele- en Financiële Aangelegenheden Directeuren 2008 van 26 juni 2008. 
 
 Rijswijk 
 26 juni 2008   
 
 De 
-Minister van Justitie, namens deze: de 
+Minister van Justitie, namens deze:de 
 Hoofddirecteur van de Immigratie- en Naturalisatiedienst, 
-P.W.A.Veld  
+P.W.A. Veld    
 
 ### Bijlage  1  
 

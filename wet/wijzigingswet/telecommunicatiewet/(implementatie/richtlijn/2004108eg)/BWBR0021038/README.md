@@ -11,23 +11,23 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Telecommunicatiewet.   
+Wijzigt de Telecommunicatiewet. 
 
 ### Artikel  II  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten. 
 
 ### Artikel  III  
 
-Na inwerkingtreding van deze wet berust de [Regeling breedbeeldtelevisiediensten en normen digitale consumentenapparaten](../../../../../../../ministeriele-regeling/regeling/breedbeeldtelevisiediensten/en/normen/digitale/etc/BWBR0016707/README.md) mede op [artikel 10.5 van de Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md).  
+Na inwerkingtreding van deze wet berust de [Regeling breedbeeldtelevisiediensten en normen digitale consumentenapparaten](../../../../../../../ministeriele-regeling/regeling/breedbeeldtelevisiediensten/en/normen/digitale/etc/BWBR0016707/README.md) mede op [artikel 10.5 van de Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md). 
 
 ### Artikel  IV  
 
-Wijzigt de Veegwet EZ 2005.   
+Wijzigt de Veegwet EZ 2005. 
 
 ### Artikel  V  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

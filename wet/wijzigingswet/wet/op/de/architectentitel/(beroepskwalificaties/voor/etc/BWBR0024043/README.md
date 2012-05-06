@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet op de architectentitel.   
+Wijzigt de Wet op de architectentitel. 
 
 ### Artikel  II  
 
-Indien op het tijdstip van inwerkingtreding van artikel I, onderdelen E en G tot en met J, van deze wet bij het bureau een verzoek in behandeling is als bedoeld in [artikel 13 van de Wet op de architectentitel](../../../../../../../../../../wet/wet/op/de/architectentitel/BWBR0004189/README.md) beslist het bureau op dat verzoek krachtens [die wet](../../../../../../../../../../wet/wet/op/de/architectentitel/BWBR0004189/README.md), zoals [die wet](../../../../../../../../../../wet/wet/op/de/architectentitel/BWBR0004189/README.md) onmiddellijk voorafgaand aan dat tijdstip luidde.  
+Indien op het tijdstip van inwerkingtreding van artikel I, onderdelen E en G tot en met J, van deze wet bij het bureau een verzoek in behandeling is als bedoeld in [artikel 13 van de Wet op de architectentitel](../../../../../../../../../../wet/wet/op/de/architectentitel/BWBR0004189/README.md) beslist het bureau op dat verzoek krachtens [die wet](../../../../../../../../../../wet/wet/op/de/architectentitel/BWBR0004189/README.md), zoals [die wet](../../../../../../../../../../wet/wet/op/de/architectentitel/BWBR0004189/README.md) onmiddellijk voorafgaand aan dat tijdstip luidde. 
 
 ### Artikel  III  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -32,5 +32,5 @@ J. M. Cramer
 
 de *zesentwintigste* juni 2008 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin    

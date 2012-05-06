@@ -17,5 +17,5 @@ III. Wijziging van het Algemeen reglement voor het waterschap Veluwe;
 IV. Bepaling van het tijdstip van inwerkingtreding van dit besluit op 30 juni 2004.       
 
 De 
-Staatssecretaris van Verkeer en Waterstaat
-M.H.Schultz van Haegen    
+Staatssecretaris van Verkeer en Waterstaat 
+M.H. Schultz van Haegen      

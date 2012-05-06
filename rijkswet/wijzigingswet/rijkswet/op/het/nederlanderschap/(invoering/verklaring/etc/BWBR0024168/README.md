@@ -9,7 +9,7 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Artikel  I  
 
-Wijzigt de Rijkswet op het Nederlanderschap.   
+Wijzigt de Rijkswet op het Nederlanderschap.
 
 ### Artikel  II  
 
@@ -22,24 +22,24 @@ b. de vreemdeling die als minderjarige vóór de inwerkingtreding van deze Rijks
 c. de vreemdeling die als minderjarige vóór de inwerkingtreding van deze Rijkswet maar op of na 1 april 2003 door wettiging het kind is geworden van een Nederlander.     
 2.  [Artikel 6, derde tot en met negende lid, van de Rijkswet op het Nederlanderschap](../../../../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) is van overeenkomstige toepassing op de in het eerste lid genoemde erkende of gewettigde personen, met dien verstande, dat op de in het achtste lid bedoelde minderjarige niet het vereiste van toelating en hoofdverblijf in Nederland, de Nederlandse Antillen of Aruba van toepassing is en hij niet gehouden is de bereidverklaring en de verklaring van verbondenheid af te leggen.   
 3.  Bij of krachtens algemene maatregel van rijksbestuur kunnen nadere regelen worden gesteld met betrekking tot het in het eerste lid onder b bedoelde bewijs.   
-4.  Voor de toepassing van [artikel 14, tweede lid, van de Rijkswet op het Nederlanderschap](../../../../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) wordt onder familierechtelijke betrekking mede gerekend de erkenning en wettiging als bedoeld in het eerste lid.   
+4.  Voor de toepassing van [artikel 14, tweede lid, van de Rijkswet op het Nederlanderschap](../../../../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) wordt onder familierechtelijke betrekking mede gerekend de erkenning en wettiging als bedoeld in het eerste lid.  
 
 ### Artikel  IIa  
 
-1.   Wijzigt de Wet conflictenrecht namen.    
-2.   Wijzigt het Burgerlijk Wetboek Boek 1.    
+1. Wijzigt de Wet conflictenrecht namen. 
+2. Wijzigt het Burgerlijk Wetboek Boek 1.
 
 ### Artikel  IIb  
 
-Indien het op 14 december 2004 door de leden Wolfsen en Luchtenveld ingediende voorstel van wet tot aanvulling van de Algemene wet bestuursrecht met de mogelijkheid van een dwangsom bij niet tijdig beslissen door een bestuursorgaan (Wet dwangsom bij niet tijdig beslissen) (Kamerstukken II 2004/05, 29 934, nr. 2) tot wet is verheven en in werking is getreden, vinden de [artikelen 4:16 tot en met 4:20 Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geen toepassing ten aanzien van beschikkingen op verzoeken tot naturalisatie als bedoeld in [artikel 7 van de Rijkswet op het Nederlanderschap](../../../../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md), ingediend op de Nederlandse Antillen of Aruba, en ten aanzien van beslissingen op bezwaar tegen zodanige beschikkingen, totdat bij Koninklijk Besluit daartoe een datum is vastgesteld, die voor elk land afzonderlijk kan worden bepaald.  
+Indien het op 14 december 2004 door de leden Wolfsen en Luchtenveld ingediende voorstel van wet tot aanvulling van de Algemene wet bestuursrecht met de mogelijkheid van een dwangsom bij niet tijdig beslissen door een bestuursorgaan (Wet dwangsom bij niet tijdig beslissen) (Kamerstukken II 2004/05, 29 934, nr. 2) tot wet is verheven en in werking is getreden, vinden de [artikelen 4:16 tot en met 4:20 Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geen toepassing ten aanzien van beschikkingen op verzoeken tot naturalisatie als bedoeld in [artikel 7 van de Rijkswet op het Nederlanderschap](../../../../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md), ingediend op de Nederlandse Antillen of Aruba, en ten aanzien van beslissingen op bezwaar tegen zodanige beschikkingen, totdat bij Koninklijk Besluit daartoe een datum is vastgesteld, die voor elk land afzonderlijk kan worden bepaald. 
 
 ### Artikel  III  
 
-De in artikel I, onderdelen A en C tot en met J, genoemde wijzigingen zijn niet van toepassing op verklaringen tot verkrijging en verzoeken om verlening van het Nederlanderschap ingediend vóór de datum van inwerkingtreding van deze Rijkswet.  
+De in artikel I, onderdelen A en C tot en met J, genoemde wijzigingen zijn niet van toepassing op verklaringen tot verkrijging en verzoeken om verlening van het Nederlanderschap ingediend vóór de datum van inwerkingtreding van deze Rijkswet. 
 
 ### Artikel  IV  
 
-Deze Rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze Rijkswet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad, het Publicatieblad van de Nederlandse Antillen en het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -47,10 +47,10 @@ Gegeven te ’s-Gravenhage
 27 juni 2008  
 Beatrix  
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin 
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin   
 
 de *vijftiende* juli 2008 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

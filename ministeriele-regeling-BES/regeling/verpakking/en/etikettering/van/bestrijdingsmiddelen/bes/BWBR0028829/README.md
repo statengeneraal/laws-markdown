@@ -19,7 +19,7 @@ b. het materiaal van de verpakking en van de sluiting moet van een zodanige same
 c. de verpakking en de sluiting moeten in alle onderdelen zo degelijk zijn, dat zij niet los kunnen raken en moeten afdoende bestand zijn tegen elke normale behandeling;  
 
 d. de verpakkingen, die zijn voorzien van een meermalen te gebruiken sluiting moeten zodanig ontworpen zijn, dat de verpakking herhaalde malen door de gebruiker opnieuw gesloten kan worden zonder dat iets van de inhoud ontsnapt.     
-2.  De Minister bedoeld in [artikel 1 van de Wet voorschriften bestrijdingsmiddelen BES](../../../../../../../../../wet-BES/wet/voorschriften/bestrijdingsmiddelen/bes/BWBR0028176/README.md), kan bepalen dat in het belang van de volksgezondheid in die gevallen waar bijzondere veiligheid is geëist, een kinderveilige sluiting is vereist.   
+2.  De Minister bedoeld in [artikel 1 van de Wet voorschriften bestrijdingsmiddelen BES](../../../../../../../../../wet-BES/wet/voorschriften/bestrijdingsmiddelen/bes/BWBR0028176/README.md), kan bepalen dat in het belang van de volksgezondheid in die gevallen waar bijzondere veiligheid is geëist, een kinderveilige sluiting is vereist.  
 
 ### Artikel  2  
 
@@ -41,7 +41,7 @@ e. het chargenummer of een andere aanduiding, aan de hand waarvan in de administ
 
 f. de voorschriften een aanwijzingen omtrent het gebruik.     
 2.  De in het vorige lid onder f, bedoelde voorschriften en aanwijzingen omtrent het gebruik moeten ter goedkeuring aan de Minister, bedoeld in [artikel 1 van de Wet voorschriften bestrijdingsmiddelen BES](../../../../../../../../../wet-BES/wet/voorschriften/bestrijdingsmiddelen/bes/BWBR0028176/README.md) worden overgelegd.   
-3.  De voorschriften en aanwijzingen omtrent het gebruik worden gesteld in het Nederlands, alsmede in het Engels in de openbare lichamen van Sint Eustatius en Saba en in het Papiaments in het openbaar lichaam Bonaire.   
+3.  De voorschriften en aanwijzingen omtrent het gebruik worden gesteld in het Nederlands, alsmede in het Engels in de openbare lichamen van Sint Eustatius en Saba en in het Papiaments in het openbaar lichaam Bonaire.  
 
 ### Artikel  3  
 
@@ -53,27 +53,27 @@ b. de tekst‘Bijzondere Gevaren’ met daaronder vermeld naargelang de aard van
 
 c. de tekst ‘Veiligheidsaanbevelingen’ met daaronder vermeld naargelang de aard van het bestrijdingsmiddel de daarbij behorende aanduidingen van veiligheidsaanbevelingen, zoals opgenomen in Bijlage III.     
 2.  De Minister, bedoeld in [artikel 1 van de Wet voorschriften bestrijdingsmiddelen BES](../../../../../../../../../wet-BES/wet/voorschriften/bestrijdingsmiddelen/bes/BWBR0028176/README.md), bepaalt aan de hand van de bijlagen I tot en met III welke aanduidingen, zoals bedoeld in het vorige lid onder a tot en met c moeten worden vermeld op de verpakking van een specifiek bestrijdingsmiddel.   
-3.  In het belang van de volksgezondheid en het milieu kan worden afgeweken van de in de bijlagen I tot en met III gegeven aanduidingen en kunnen door de Minister, bedoeld in [artikel 1 van de Wet voorschriften bestrijdingsmiddelen BES](../../../../../../../../../wet-BES/wet/voorschriften/bestrijdingsmiddelen/bes/BWBR0028176/README.md), nadere aanduidingen worden vereist.   
+3.  In het belang van de volksgezondheid en het milieu kan worden afgeweken van de in de bijlagen I tot en met III gegeven aanduidingen en kunnen door de Minister, bedoeld in [artikel 1 van de Wet voorschriften bestrijdingsmiddelen BES](../../../../../../../../../wet-BES/wet/voorschriften/bestrijdingsmiddelen/bes/BWBR0028176/README.md), nadere aanduidingen worden vereist.  
 
 ### Artikel  4  
 
 1.  De voorgeschreven aanduidingen en vermeldingen dienen op de verpakking te worden aangebracht door middel van een etiket of rechtstreeks door een van een omlijsting voorziene opdruk op de verpakking.   
 2.  Het gehele etiket als bedoeld in het eerste lid dient stevig aan de verpakking te zijn gehecht.   
-3.  Het etiket of opdruk, als bedoeld in het eerste lid, dient zodanig te zijn aangebracht, dat, indien de verpakking op de voor die verpakking gangbare wijze is opgesteld, dat etiket of die opdruk goed zichtbaar is en gemakkelijk kan worden gelezen, ook na de opening van de verpakking.   
+3.  Het etiket of opdruk, als bedoeld in het eerste lid, dient zodanig te zijn aangebracht, dat, indien de verpakking op de voor die verpakking gangbare wijze is opgesteld, dat etiket of die opdruk goed zichtbaar is en gemakkelijk kan worden gelezen, ook na de opening van de verpakking.  
 
 ### Artikel  5  
 
-Indien de verpakking zo klein is dat redelijkerwijs niet alle voorgeschreven aanduidingen en vermeldingen daarop kunnen worden gesteld, bepaalt de Minister, bedoeld in [artikel 1 van de Wet voorschriften bestrijdingsmiddelen BES](../../../../../../../../../wet-BES/wet/voorschriften/bestrijdingsmiddelen/bes/BWBR0028176/README.md), op welke wijze aan het in het eerste lid van artikel 4 gestelde, zal worden voldaan.  
+Indien de verpakking zo klein is dat redelijkerwijs niet alle voorgeschreven aanduidingen en vermeldingen daarop kunnen worden gesteld, bepaalt de Minister, bedoeld in [artikel 1 van de Wet voorschriften bestrijdingsmiddelen BES](../../../../../../../../../wet-BES/wet/voorschriften/bestrijdingsmiddelen/bes/BWBR0028176/README.md), op welke wijze aan het in het eerste lid van artikel 4 gestelde, zal worden voldaan. 
 
 ### Artikel  6  
 
-Op, aan of bij de verpakking mogen geen aanduidingen en vermeldingen voorkomen, welke een onjuiste of misleidende indruk kunnen wekken omtrent de aard, de samenstelling, de toepassingsmogelijkheden of de schadelijkheid van het bestrijdingsmiddel.  
+Op, aan of bij de verpakking mogen geen aanduidingen en vermeldingen voorkomen, welke een onjuiste of misleidende indruk kunnen wekken omtrent de aard, de samenstelling, de toepassingsmogelijkheden of de schadelijkheid van het bestrijdingsmiddel. 
 
 ### Artikel  7  
 
-Deze regeling wordt aangehaald als: Regeling verpakking en etikettering van bestrijdingsmiddelen BES.  
+Deze regeling wordt aangehaald als: Regeling verpakking en etikettering van bestrijdingsmiddelen BES. 
 
-### Bijlage  I  
+### Bijlage I 
 
 ####behorende bij ‘Regeling verpakking en etikettering van bestrijdingsmiddelen BES’
 
@@ -101,9 +101,9 @@ e. voor oxyderende bestrijdingsmiddelen: een vlam boven een cirkel met als onder
 
 * 
 
-f. voor explosieve bestrijdingsmiddelen: een detonerende bom, met als onderschrift ‘Ontplofbaar’.     Bijgevoegde illustratie geeft een beeld van de gevaarsymbolen.   ![247768](http://wetten.overheid.nl/Illustration/247768)
+f. voor explosieve bestrijdingsmiddelen: een detonerende bom, met als onderschrift ‘Ontplofbaar’.     Bijgevoegde illustratie geeft een beeld van de gevaarsymbolen.  ![247768](http://wetten.overheid.nl/Illustration/247768)
 
-### Bijlage  II  
+### Bijlage II 
 
 ####behorende bij ‘Regeling verpakking en etikettering van bestrijdingsmiddelen BES’
 
@@ -209,7 +209,7 @@ g. voor explosieve bestrijdingsmiddelen:
 
 – Ontploffingsgevaar bij menging met oxyderende stoffen.         
 
-### Bijlage  III  
+### Bijlage III 
 
 ####behorende bij ‘Regeling verpakking en etikettering van bestrijdingsmiddelen BES’
 

@@ -9,7 +9,7 @@ Besluit:
 ### Artikel  1  
 
 1.  De voorzitter van de Adviescommissie ondernemerschap en onderwijs ontvangt voor het bijwonen van een vergadering een vergoeding van € 260,00.   
-2.  De andere leden van de Adviescommissie ondernemerschap en onderwijs ontvangen voor het bijwonen van een vergadering een vergoeding van € 200,00.   
+2.  De andere leden van de Adviescommissie ondernemerschap en onderwijs ontvangen voor het bijwonen van een vergadering een vergoeding van € 200,00.  
 
 ### Artikel  2  
 
@@ -19,7 +19,7 @@ a. 4 uur per aanvraag als bedoeld in [artikel 8 van de Subsidieregeling ondernem
 
 b. 1,5 uur per aanvraag als bedoeld in [artikel 18 van de Subsidieregeling ondernemerschap en onderwijs 2007](../../../../../../../../../../ministeriele-regeling/subsidieregeling/ondernemerschap/en/onderwijs/2007/BWBR0021101/README.md);  
 
-c. 4 uur per uitwerking van de aanvraag als bedoeld in [artikel 21 van de Subsidieregeling ondernemerschap en onderwijs 2007](../../../../../../../../../../ministeriele-regeling/subsidieregeling/ondernemerschap/en/onderwijs/2007/BWBR0021101/README.md).    
+c. 4 uur per uitwerking van de aanvraag als bedoeld in [artikel 21 van de Subsidieregeling ondernemerschap en onderwijs 2007](../../../../../../../../../../ministeriele-regeling/subsidieregeling/ondernemerschap/en/onderwijs/2007/BWBR0021101/README.md).   
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -27,4 +27,4 @@ Den Haag
 
 De 
 Staatssecretaris van Economische Zaken, 
-C.E.G. vanGennip   
+C.E.G. van Gennip     

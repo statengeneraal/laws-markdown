@@ -3,12 +3,12 @@
 ##Regeling van de Minister van Economische Zaken van 9 september 2010, nr. WJZ/10134751 houdende een tijdelijke voorziening voor internationale merken en regels ter uitvoering van het Uitvoeringsbesluit merken BES (Uitvoeringsregeling merken BES)
 
 De Minister van Economische Zaken,  
-Gelet op artikel 44 van de Wet merken BES en de artikelen 2, vierde lid, 3, onderdelen c en d, 6, tweede lid, 10, derde lid, onderdeel a, 11, eerste lid, 18, 19, 24, 26 en 30 van het Uitvoeringsbesluit merken BES;
+Gelet op [artikel 44 van de Wet merken BES](../../../../../wet-BES/wet/merken/bes/BWBR0028306/README.md) en de [artikelen 2, vierde lid](../../../../../AMvB-BES/uitvoeringsbesluit/merken/bes/BWBR0028591/README.md), [3, onderdelen c en d](../../../../../AMvB-BES/uitvoeringsbesluit/merken/bes/BWBR0028591/README.md), [6, tweede lid](../../../../../AMvB-BES/uitvoeringsbesluit/merken/bes/BWBR0028591/README.md), [10, derde lid, onderdeel a](../../../../../AMvB-BES/uitvoeringsbesluit/merken/bes/BWBR0028591/README.md), [11, eerste lid](../../../../../AMvB-BES/uitvoeringsbesluit/merken/bes/BWBR0028591/README.md), [18](../../../../../AMvB-BES/uitvoeringsbesluit/merken/bes/BWBR0028591/README.md), [19](../../../../../AMvB-BES/uitvoeringsbesluit/merken/bes/BWBR0028591/README.md), [24](../../../../../AMvB-BES/uitvoeringsbesluit/merken/bes/BWBR0028591/README.md), [26](../../../../../AMvB-BES/uitvoeringsbesluit/merken/bes/BWBR0028591/README.md) en [30 van het Uitvoeringsbesluit merken BES](../../../../../AMvB-BES/uitvoeringsbesluit/merken/bes/BWBR0028591/README.md);
 Besluit:    
 
 ### Artikel  1  
 
-In deze regeling wordt onder ‘het besluit’ verstaan: het Uitvoeringsbesluit merken BES.  
+In deze regeling wordt onder ‘het besluit’ verstaan: het [Uitvoeringsbesluit merken BES](../../../../../AMvB-BES/uitvoeringsbesluit/merken/bes/BWBR0028591/README.md). 
 
 ### Artikel  3  
 
@@ -60,7 +60,7 @@ e. herstel van aan de houder te wijten schrijffouten na inschrijving:
 
 1°. eerste merk een bedrag van USD 24;  
 
-2°. elk volgend merk een bedrag van USD 12.       
+2°. elk volgend merk een bedrag van USD 12.      
 
 ### Artikel  4  
 
@@ -74,11 +74,11 @@ c. gewaarmerkt, per inschrijving een bedrag van USD 19;
 
 d. gewaarmerkt, overige per bladzijde een bedrag van USD 22;  
 
-e. bewijzen van voorrang een bedrag van USD 19.    
+e. bewijzen van voorrang een bedrag van USD 19.   
 
 ### Artikel  5  
 
-Voor het doorzenden van een aanvraag van een internationaal merk en vernieuwing van het internationaal merk geldt een bedrag van USD 103.  
+Voor het doorzenden van een aanvraag van een internationaal merk en vernieuwing van het internationaal merk geldt een bedrag van USD 103. 
 
 ### Artikel  6  
 
@@ -98,7 +98,7 @@ b. voor vernieuwing van een internationale inschrijving:
 
 2°. basisrecht collectief merk, tot drie klassen een bedrag van USD 611;  
 
-3°. aanvullend recht voor iedere klasse boven de derde een bedrag van USD 59.      
+3°. aanvullend recht voor iedere klasse boven de derde een bedrag van USD 59.     
 
 ### Artikel  7  
 
@@ -108,7 +108,7 @@ a. door overschrijving of storting op het daartoe aangeduide bankrekeningnummer;
 
 b. door middel van een schriftelijk verzoek tot afschrijving van een door belanghebbende of zijn gemachtigde geopende lopende rekening. In dit geval ontvangt de rekeninghouder ten minste ieder kwartaal een samenvattende lijst van de betalingen en een mededeling betreffende het saldo van zijn rekening.     
 2.  Een andere methode van betaling dan bedoeld in het eerste lid kan worden geweigerd indien de afhandeling ervan daartoe aanleiding kan geven.   
-3.  Bij elke betaling wordt duidelijk en volledig aangegeven waarvoor deze plaatsvindt.   
+3.  Bij elke betaling wordt duidelijk en volledig aangegeven waarvoor deze plaatsvindt.  
 
 ### Artikel  8  
 
@@ -124,20 +124,20 @@ b. in voorkomend geval:
 
 3°. de vermelding dat het merk bestaat uit de vorm van de waar of de verpakking;    
 
-c. indien het een collectief merk betreft: een exemplaar van het reglement op het gebruik en toezicht.    
+c. indien het een collectief merk betreft: een exemplaar van het reglement op het gebruik en toezicht.   
 
 ### Artikel  9  
 
-Deze regeling treedt in werking met ingang van 10 oktober 2010.  
+Deze regeling treedt in werking met ingang van 10 oktober 2010. 
 
 ### Artikel  10  
 
-Deze regeling wordt aangehaald als: Uitvoeringsregeling merken BES  
+Deze regeling wordt aangehaald als: Uitvoeringsregeling merken BES 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 9 september 2010   
 
 De 
-Minister van Economische Zaken,
-M.J.A. van derHoeven   
+Minister van Economische Zaken, 
+M.J.A. van der Hoeven     

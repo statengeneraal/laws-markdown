@@ -11,19 +11,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet luchtvaart.   
+Wijzigt de Wet luchtvaart. 
 
 ### Artikel  III  
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  IV  
 
-Een bewijs van bevoegdheid of bevoegdverklaring afgegeven als bedoeld in de [Wet luchtvaart](../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) voor de inwerkingtreding van artikel I, onderdeel C, van deze wet wordt gelijkgesteld met een bewijs van bevoegdheid of bevoegdverklaring afgegeven in overeenstemming met de vereisten van de [Wet luchtvaart](../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md).  
+Een bewijs van bevoegdheid of bevoegdverklaring afgegeven als bedoeld in de [Wet luchtvaart](../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) voor de inwerkingtreding van artikel I, onderdeel C, van deze wet wordt gelijkgesteld met een bewijs van bevoegdheid of bevoegdverklaring afgegeven in overeenstemming met de vereisten van de [Wet luchtvaart](../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md). 
 
 ### Artikel  V  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

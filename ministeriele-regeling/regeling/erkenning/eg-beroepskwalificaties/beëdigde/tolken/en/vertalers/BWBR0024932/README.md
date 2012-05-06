@@ -13,28 +13,28 @@ Besluit:
 
 ####Definities
 
-a. *wet:* de [Algemene wet erkenning EG-beroepskwalificaties](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
+a.  *wet:* de [Algemene wet erkenning EG-beroepskwalificaties](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
 
-b. *bestuur:* het bestuur van de raad voor rechtsbijstand;  
+b.  *bestuur:* het bestuur van de raad voor rechtsbijstand;  
 
-c. *aanvraag:* de aanvraag van een migrerende beroepsbeoefenaar tot het verkrijgen van erkenning van EG-beroepskwalificaties, bedoeld in [artikel 5 van de wet](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), met betrekking tot een of meer bron- en doeltalen, als beëdigd tolk of beëdigd vertaler;  
+c.  *aanvraag:* de aanvraag van een migrerende beroepsbeoefenaar tot het verkrijgen van erkenning van EG-beroepskwalificaties, bedoeld in [artikel 5 van de wet](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), met betrekking tot een of meer bron- en doeltalen, als beëdigd tolk of beëdigd vertaler;  
 
-d. *aanvrager:* de migrerende beroepsbeoefenaar die een aanvraag indient;  
+d.  *aanvrager:* de migrerende beroepsbeoefenaar die een aanvraag indient;  
 
-e. *compenserende maatregel:* een aanpassingsstage of een proeve van bekwaamheid;  
+e.  *compenserende maatregel:* een aanpassingsstage of een proeve van bekwaamheid;  
 
-f. *stagiair:* de migrerende beroepsbeoefenaar die een aanpassingsstage volgt;  
+f.  *stagiair:* de migrerende beroepsbeoefenaar die een aanpassingsstage volgt;  
 
-g. *dienstverrichter:* de dienstverrichter, bedoeld in [artikel 21 van de wet](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
+g.  *dienstverrichter:* de dienstverrichter, bedoeld in [artikel 21 van de wet](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
 
-h. *register:* het register voor beëdigde tolken en vertalers, bedoeld in [artikel 2 van de Wet beëdigde tolken en vertalers](../../../../../../../../../wet/wet/beëdigde/tolken/en/vertalers/BWBR0022704/README.md).    
+h.  *register:* het register voor beëdigde tolken en vertalers, bedoeld in [artikel 2 van de Wet beëdigde tolken en vertalers](../../../../../../../../../wet/wet/beëdigde/tolken/en/vertalers/BWBR0022704/README.md).   
 
 ### Artikel  2  
 
 ####Mandaat en machtiging
 
 1.  Het bestuur wordt mandaat en machtiging verleend ten aanzien van de bevoegdheden en handelingen, bedoeld in de [artikelen 5](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [6](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [8](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [11](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [12](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [13](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [17](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [19](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [23](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [27](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [29](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [30](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [32](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [34, tweede lid](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), en [35, van de wet](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), met inbegrip van de behandeling van klachten, het beslissen op bezwaar en op verzoeken in het kader van de [Wet openbaarheid van bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) en het terzake voeren van gerechtelijke procedures.   
-2.  Het bestuur wordt toegestaan het in het eerste lid verleende mandaat en machtiging geheel of gedeeltelijk door te geven aan een of meer onder hem ressorterende functionarissen, de commissie beëdigde tolken en vertaler of de klachtencommissie.   
+2.  Het bestuur wordt toegestaan het in het eerste lid verleende mandaat en machtiging geheel of gedeeltelijk door te geven aan een of meer onder hem ressorterende functionarissen, de commissie beëdigde tolken en vertaler of de klachtencommissie.  
 
 ### Hoofdstuk  2  
 
@@ -70,7 +70,7 @@ b. een verklaring, bedoeld in artikel 6, tweede lid.
 a. de aard, de inhoud en de duur van de door de aanvrager gevolgde opleiding; en  
 
 b. de beroepservaring van de aanvrager.     
-5.  Het bestuur kan verlangen dat de aanvraag en de gegevens en bescheiden, bedoeld in het tweede lid, onderdelen b tot en met e en vierde lid, die zijn gesteld in een andere dan de Nederlandse taal, vergezeld gaan van beëdigde vertalingen in het Nederlands.   
+5.  Het bestuur kan verlangen dat de aanvraag en de gegevens en bescheiden, bedoeld in het tweede lid, onderdelen b tot en met e en vierde lid, die zijn gesteld in een andere dan de Nederlandse taal, vergezeld gaan van beëdigde vertalingen in het Nederlands.  
 
 ### Artikel  4  
 
@@ -91,7 +91,7 @@ b. de beroepservaring van de aanvrager.
 
 – tolkvaardigheid voor de tolk;  
 
-– vertaalvaardigheid voor de vertaler.     
+– vertaalvaardigheid voor de vertaler.    
 
 ### Artikel  5  
 
@@ -100,7 +100,7 @@ b. de beroepservaring van de aanvrager.
 1.  Indien de compenserende maatregel bestaat uit een aanpassingsstage, wordt deze begeleid door een tolk of vertaler die is ingeschreven in het register voor beëdigde tolken en vertalers. Deze tolk of vertaler is stagebegeleider en belast de stagiair met tolk- of vertaalwerkzaamheden waarvoor geen beëdiging vereist is.   
 2.  Na afronding van de aanpassingsstage, in voorkomend geval daarbij inbegrepen een aanvullende opleiding, zendt de stagebegeleider, bedoeld in het eerste lid, een schriftelijke verklaring aan de stagiair.   
 3.  De verklaring, bedoeld in het tweede lid, wordt binnen twee weken na afronding van de aanpassingsstage verzonden, en bevat een oordeel over de wijze waarop de aanpassingsstage, in voorkomend geval daarbij inbegrepen een aanvullende opleiding, is vervuld.   
-4.  De aanvrager mag meer aanpassingsstages volgen.   
+4.  De aanvrager mag meer aanpassingsstages volgen.  
 
 ### Artikel  6  
 
@@ -109,7 +109,7 @@ b. de beroepservaring van de aanvrager.
 1.  Indien de compenserende maatregel bestaat uit een proeve van bekwaamheid, wordt deze afgelegd bij een door het bestuur aangewezen instantie.   
 2.  Na het afleggen van de proeve van bekwaamheid zendt de instantie, bedoeld in het eerste lid, een schriftelijke verklaring aan de aanvrager.   
 3.  De verklaring, bedoeld in het tweede lid, wordt binnen twee weken na het afleggen van de proeve van bekwaamheid verzonden, en bevat een oordeel over de wijze waarop de aanvrager de proeve van bekwaamheid heeft afgelegd.   
-4.  De aanvrager mag meer proeven van bekwaamheid afleggen.   
+4.  De aanvrager mag meer proeven van bekwaamheid afleggen.  
 
 ### Hoofdstuk  3  
 
@@ -120,20 +120,20 @@ b. de beroepservaring van de aanvrager.
 ####Beroepskwalificatie-eisen aan tijdelijke en incidentele dienstverrichters
 
 1.  De dienstverrichter doet voorafgaand aan de eerste dienstverrichting in Nederland aan het bestuur een schriftelijke verklaring toekomen, bedoeld in [artikel 23, eerste lid, van de wet](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), met een aanduiding van welk gereglementeerd beroep, met aanduiding van bron- en doeltalen, op welke tijdelijke en incidentele wijze zal worden verricht.   
-2.  De dienstverrichter voegt bij de verklaring de documenten, genoemd in [artikel 23, derde lid, onderdeel a tot en met d, van de wet](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md).   
+2.  De dienstverrichter voegt bij de verklaring de documenten, genoemd in [artikel 23, derde lid, onderdeel a tot en met d, van de wet](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md).  
 
 ### Artikel  8  
 
 ####Controle in verband met openbare veiligheid
 
 1.  Het bestuur kan voorafgaand aan de eerste dienstverrichting de beroepskwalificaties van de dienstverrichter controleren in verband met de openbare veiligheid, bedoeld in [artikel 27 van de wet](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md).   
-2.  In geval van [artikel 27, derde lid, van de wet](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), biedt het bestuur de dienstverrichter de mogelijkheid om door middel van een met goed gevolg afgelegde proeve van bekwaamheid, bedoeld in de artikelen 4, tweede lid, en 6, aan te tonen dat hij de ontbrekende kennis en vaardigheden heeft verworven.   
+2.  In geval van [artikel 27, derde lid, van de wet](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), biedt het bestuur de dienstverrichter de mogelijkheid om door middel van een met goed gevolg afgelegde proeve van bekwaamheid, bedoeld in de artikelen 4, tweede lid, en 6, aan te tonen dat hij de ontbrekende kennis en vaardigheden heeft verworven.  
 
 ### Artikel  9  
 
 ####Gegevens voor afnemers van de dienst
 
-Wanneer de dienstverrichter de beroepstitel waartoe hij in de betrokken staat van vestiging is gerechtigd of de titel die behoort bij zijn opleiding, bedoeld in [artikel 26, tweede lid, van de wet](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) voert, kan het bestuur eisen dat de dienstverrichter aan de afnemer van de dienst de gegevens verstrekt, genoemd in [artikel 29, onderdeel a tot en met e, van de wet](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md).  
+Wanneer de dienstverrichter de beroepstitel waartoe hij in de betrokken staat van vestiging is gerechtigd of de titel die behoort bij zijn opleiding, bedoeld in [artikel 26, tweede lid, van de wet](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) voert, kan het bestuur eisen dat de dienstverrichter aan de afnemer van de dienst de gegevens verstrekt, genoemd in [artikel 29, onderdeel a tot en met e, van de wet](../../../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md). 
 
 ### Hoofdstuk  4  
 
@@ -143,15 +143,15 @@ Wanneer de dienstverrichter de beroepstitel waartoe hij in de betrokken staat va
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking op 1 januari 2009.  
+Deze regeling treedt in werking op 1 januari 2009. 
 
 ### Artikel  11  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties beëdigde tolken en vertalers.  
+Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties beëdigde tolken en vertalers. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Justitie, 
-N.Albayrak   
+N. Albayrak     

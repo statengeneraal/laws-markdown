@@ -11,13 +11,13 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder: Minister: Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer; vergunninghouder: houder van een vergunning als bedoeld in [artikel 15, onder b, van de Kernenergiewet](../../../../../wet/kernenergiewet/BWBR0002402/README.md).  
+In deze regeling wordt verstaan onder: Minister: Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer; vergunninghouder: houder van een vergunning als bedoeld in [artikel 15, onder b, van de Kernenergiewet](../../../../../wet/kernenergiewet/BWBR0002402/README.md). 
 
 ### Artikel  2  
 
 1.  Het in [artikel 21, eerste lid, van het Besluit kerninstallaties, splijtstoffen en ertsen](../../../../../AMvB/besluit/kerninstallaties/splijtstoffen/en/ertsen/BWBR0002667/README.md) gestelde verbod geldt mede voor gebruik in een inrichting als bedoeld in [artikel 15, onder b, van de Kernenergiewet](../../../../../wet/kernenergiewet/BWBR0002402/README.md), van door de Minister, na overleg met de Minister van Sociale Zaken en Werkgelegenheid, aangewezen niet speciaal voor nucleair gebruik in een dergelijke inrichting ontworpen drukapparatuur die bij defecten de verspreiding van radioactiviteit kan veroorzaken.   
 2.  Ten aanzien van de in het eerste lid bedoelde drukapparatuur zijn de artikelen 3 tot en met 16, met uitzondering van de artikelen, 4, eerste lid, onderdelen a en b, en 9, eerste en tweede lid, van overeenkomstige toepassing.   
-3.  Deze regeling is niet van toepassing op drukapparatuur waarop de [Regeling vervoerbare drukapparatuur](../../../../../ministeriele-regeling/regeling/vervoerbare/drukapparatuur/BWBR0011832/README.md) van toepassing is.   
+3.  Deze regeling is niet van toepassing op drukapparatuur waarop de [Regeling vervoerbare drukapparatuur](../../../../../ministeriele-regeling/regeling/vervoerbare/drukapparatuur/BWBR0011832/README.md) van toepassing is.  
 
 ### Artikel  3  
 
@@ -37,7 +37,7 @@ f. de ingevolge deze regeling verkregen verklaringen en andere documentatie met 
 
 g. een overzicht van het onderhoud dat aan de apparatuur is verricht.     
 2.  Afwijkingen van de ontwerp- of inspectiecode, alsmede het in de inspectiecode voorgeschreven keuringsprogramma dat door de vergunninghouder wordt opgesteld, behoeven, na beoordeling door de keuringsinstelling, de instemming van de Minister.   
-3.  De vergunninghouder stelt de in de administratie opgenomen gegevens en stukken gedurende iedere keuring van de nucleaire drukapparatuur ter beschikking van degene die de keuring verricht.   
+3.  De vergunninghouder stelt de in de administratie opgenomen gegevens en stukken gedurende iedere keuring van de nucleaire drukapparatuur ter beschikking van degene die de keuring verricht.  
 
 ### Hoofdstuk  2  
 
@@ -52,7 +52,7 @@ a. een beoordeling van het ontwerp van de nucleaire drukapparatuur;
 b. een keuring van de fabricage van de nucleaire drukapparatuur;  
 
 c. een keuring voor de ingebruikneming van de nucleaire drukapparatuur.     
-2.  De vergunninghouder laat nucleaire drukapparatuur gedurende het gebruik keuren overeenkomstig het in artikel 3, tweede lid, bedoelde keuringsprogramma waarmee de Minister heeft ingestemd.   
+2.  De vergunninghouder laat nucleaire drukapparatuur gedurende het gebruik keuren overeenkomstig het in artikel 3, tweede lid, bedoelde keuringsprogramma waarmee de Minister heeft ingestemd.  
 
 ### Artikel  5  
 
@@ -67,30 +67,30 @@ c. de plaats waar de beoordeling of de keuring dient plaats te vinden;
 d. naam en adres van de inrichting en de plaats in de inrichting, waar de nucleaire drukapparatuur zal worden geïnstalleerd;  
 
 e. de van toepassing zijnde ontwerpcode, onderscheidenlijk inspectiecode.     
-2.  De vergunninghouder vermeldt in de aanvraag om een keuring als bedoeld in artikel 4, tweede lid, de gegevens, bedoeld in het eerste lid.   
+2.  De vergunninghouder vermeldt in de aanvraag om een keuring als bedoeld in artikel 4, tweede lid, de gegevens, bedoeld in het eerste lid.  
 
 ### Artikel  6  
 
-De beoordelingen en keuringen worden verricht overeenkomstig de door de Minister aangewezen onderdelen van de ontwerpcode of inspectiecode voor de betrokken nucleaire drukapparatuur.  
+De beoordelingen en keuringen worden verricht overeenkomstig de door de Minister aangewezen onderdelen van de ontwerpcode of inspectiecode voor de betrokken nucleaire drukapparatuur. 
 
 ### Artikel  7  
 
-De kosten van beoordelingen als bedoeld in de artikelen 3, tweede lid, en 4, eerste lid, onder a, en van de keuringen komen voor rekening van de gebruiker van de nucleaire drukapparatuur.  
+De kosten van beoordelingen als bedoeld in de artikelen 3, tweede lid, en 4, eerste lid, onder a, en van de keuringen komen voor rekening van de gebruiker van de nucleaire drukapparatuur. 
 
 ### Artikel  8  
 
-De keuringsinstelling maakt van elke beoordeling en keuring een rapport op, waarin zij de wijze waarop de nucleaire drukapparatuur is beoordeeld, onderscheidenlijk gekeurd, en de resultaten van de beoordeling of de keuring vermeldt. Zij zendt het rapport aan de vergunninghouder en aan de Kernfysische Dienst van het Inspectoraat-Generaal VROM.  
+De keuringsinstelling maakt van elke beoordeling en keuring een rapport op, waarin zij de wijze waarop de nucleaire drukapparatuur is beoordeeld, onderscheidenlijk gekeurd, en de resultaten van de beoordeling of de keuring vermeldt. Zij zendt het rapport aan de vergunninghouder en aan de Kernfysische Dienst van het Inspectoraat-Generaal VROM. 
 
 ### Artikel  9  
 
 1.  De keuringsinstelling geeft een verklaring van goedkeuring van het ontwerp af, indien bij een beoordeling als bedoeld in artikel 4, eerste lid, onder a, is gebleken dat het ontwerp van de nucleaire drukapparatuur voldoet aan de in de betrokken ontwerpcode gestelde eisen.   
 2.  De keuringsinstelling geeft een verklaring van goedkeuring van fabricage af, indien bij de keuring, bedoeld in artikel 4, eerste lid, onder b, is gebleken dat de nucleaire drukapparatuur voldoet aan de in de betrokken ontwerpcode gestelde eisen.   
 3.  De keuringsinstelling geeft een verklaring van ingebruikneming af, indien bij een keuring als bedoeld in artikel 4, eerste lid, onder c, is gebleken dat de nucleaire drukapparatuur voldoet aan de in de betrokken ontwerpcode gestelde eisen.   
-4.  De keuringsinstelling geeft een verklaring van herkeuring af, indien bij een keuring als bedoeld in artikel 4, tweede lid, is gebleken dat de nucleaire drukapparatuur voldoet aan de in de betrokken inspectiecode gestelde eisen.   
+4.  De keuringsinstelling geeft een verklaring van herkeuring af, indien bij een keuring als bedoeld in artikel 4, tweede lid, is gebleken dat de nucleaire drukapparatuur voldoet aan de in de betrokken inspectiecode gestelde eisen.  
 
 ### Artikel  10  
 
-De beoordelingen en keuringen worden verricht door of onder toezicht van de in de artikelen 14 tot en met 16 bedoelde medewerkers van de keuringsinstelling.  
+De beoordelingen en keuringen worden verricht door of onder toezicht van de in de artikelen 14 tot en met 16 bedoelde medewerkers van de keuringsinstelling. 
 
 ### Hoofdstuk  3  
 
@@ -100,18 +100,18 @@ De beoordelingen en keuringen worden verricht door of onder toezicht van de in d
 
 1.  Voor een aanwijzing als keuringsinstelling van het ontwerp, de fabricage en de ingebruikneming van nucleaire drukapparatuur komen in aanmerking instellingen die ten minste voldoen aan de voorwaarden, vermeld in het Richtlijn Specifieke Accreditatie Schema voor het Warenwetbesluit drukapparatuur (versie 01 Stcrt. 2001, nr. 15), en aan de voorwaarden, bedoeld in artikel 13, eerste lid.   
 2.  Voor een aanwijzing als keuringsinstelling in de gebruiksfase van nucleaire drukapparatuur komen in aanmerking instellingen die ten minste voldoen aan de voorwaarden, vermeld in het Wet Specifieke Accreditatie Schema voor het Warenwetbesluit drukapparatuur (versie 02 Stcrt. 2006, nr. 132), en aan de voorwaarden, bedoeld in artikel 13, tweede lid.   
-3.  Voor een aanwijzing als keuringsinstelling komen tevens in aanmerking instellingen in een andere lidstaat van de Europese Unie, een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt dan wel een andere staat waarmee de Europese Unie een wederzijdse erkenningsovereenkomst met betrekking tot de keuring van nucleaire drukapparatuur heeft afgesloten, die een beroepsniveau waarborgen dat ten minste gelijkwaardig is aan het niveau dat met de nationale voorwaarden, bedoeld in het eerste, onderscheidenlijk het tweede lid, wordt nagestreefd.   
+3.  Voor een aanwijzing als keuringsinstelling komen tevens in aanmerking instellingen in een andere lidstaat van de Europese Unie, een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt dan wel een andere staat waarmee de Europese Unie een wederzijdse erkenningsovereenkomst met betrekking tot de keuring van nucleaire drukapparatuur heeft afgesloten, die een beroepsniveau waarborgen dat ten minste gelijkwaardig is aan het niveau dat met de nationale voorwaarden, bedoeld in het eerste, onderscheidenlijk het tweede lid, wordt nagestreefd.  
 
 ### Artikel  12  
 
 1.  De aanwijzing van een keuringinstelling geldt voor ten hoogste twee jaar.   
 2.  Aan een aanwijzing als keuringsinstelling kunnen voorschriften worden verbonden.   
-3.  Een aanwijzing als keuringsinstelling wordt ingetrokken indien de instelling niet meer voldoet aan de in artikel 11, eerste, onderscheidenlijk tweede of derde lid, bedoelde voorwaarden. Zij kan worden ingetrokken indien de keuringsinstelling de keuringen niet op een juiste wijze verricht of indien de keuringsinstelling de krachtens het tweede lid aan de aanwijzing verbonden voorschriften niet naleeft.   
+3.  Een aanwijzing als keuringsinstelling wordt ingetrokken indien de instelling niet meer voldoet aan de in artikel 11, eerste, onderscheidenlijk tweede of derde lid, bedoelde voorwaarden. Zij kan worden ingetrokken indien de keuringsinstelling de keuringen niet op een juiste wijze verricht of indien de keuringsinstelling de krachtens het tweede lid aan de aanwijzing verbonden voorschriften niet naleeft.  
 
 ### Artikel  13  
 
 1.  Een keuringsinstelling, die wordt belast met de beoordeling van het ontwerp, de keuring van de fabricage en de keuring voor de ingebruikneming van nucleaire drukapparatuur, heeft ten minste een beoordelaar, een seniorbeoordelaar, een specialist materiaalkunde, een specialist niet-destructief onderzoek, een inspecteur en een senior-inspecteur in dienst, die voldoen aan de in het in artikel 11, eerste lid, bedoelde schema gestelde eisen en aan de in de artikelen 14, eerste lid, onderscheidenlijk 14, tweede lid, 15, eerste lid, 15, tweede lid, en 16 gestelde eisen.   
-2.  Onverminderd het eerste lid, heeft een keuringsinstelling, die wordt belast met de keuring in de gebruiksfase van nucleaire drukapparatuur, ten minste een specialist niet-destructief onderzoek, een inspecteur en een senior-inspecteur in dienst, die voldoen aan de in het in artikel 11, tweede lid, bedoelde schema gestelde eisen en aan de in artikel 15, tweede lid, onderscheidenlijk artikel 16 gestelde eisen.   
+2.  Onverminderd het eerste lid, heeft een keuringsinstelling, die wordt belast met de keuring in de gebruiksfase van nucleaire drukapparatuur, ten minste een specialist niet-destructief onderzoek, een inspecteur en een senior-inspecteur in dienst, die voldoen aan de in het in artikel 11, tweede lid, bedoelde schema gestelde eisen en aan de in artikel 15, tweede lid, onderscheidenlijk artikel 16 gestelde eisen.  
 
 ### Artikel  14  
 
@@ -128,12 +128,12 @@ a. aantoonbare opleiding met betrekking tot de toe te passen nucleaire ontwerpco
 
 b. ten minste twee jaar ervaring als beoordelaar met betrekking tot de toe te passen nucleaire ontwerpcode en  
 
-c. ten minste stralingsdeskundigheid op niveau 5 of een gelijkwaardig niveau.     
+c. ten minste stralingsdeskundigheid op niveau 5 of een gelijkwaardig niveau.    
 
 ### Artikel  15  
 
 1.  Een specialist materiaalkunde als bedoeld in artikel 13, eerste lid, heeft aantoonbare kennis van en ten minste een jaar ervaring met de relevante delen van de toe te passen ontwerpcodes en nucleaire vormen van materiaaldegradatie.   
-2.  Een specialist niet-destructief onderzoek als bedoeld in artikel 13, eerste en tweede lid, heeft aantoonbare kennis van en ten minste een jaar ervaring met de relevante delen van de toe te passen ontwerpcodes en bijzonderheden van niet-destructief onderzoek van nucleaire drukapparatuur.   
+2.  Een specialist niet-destructief onderzoek als bedoeld in artikel 13, eerste en tweede lid, heeft aantoonbare kennis van en ten minste een jaar ervaring met de relevante delen van de toe te passen ontwerpcodes en bijzonderheden van niet-destructief onderzoek van nucleaire drukapparatuur.  
 
 ### Artikel  16  
 
@@ -152,7 +152,7 @@ b. ten minste stralingsdeskundigheid op niveau 5 of een gelijkwaardig niveau,
 
 c. ten minste twee jaar ervaring in kwaliteitszorg en inspectie in het kader van de toe te passen nucleaire ontwerpcodes en  
 
-d. aantoonbare ervaring met de certificatie van leveranciers voor nucleaire drukapparatuur.     
+d. aantoonbare ervaring met de certificatie van leveranciers voor nucleaire drukapparatuur.    
 
 ### Hoofdstuk  4  
 
@@ -160,11 +160,11 @@ d. aantoonbare ervaring met de certificatie van leveranciers voor nucleaire druk
 
 ### Artikel  17  
 
-Deze regeling treedt in werking op het tijdstip waarop het besluit van 17 oktober 2007 tot wijziging van het Besluit kerninstallaties, splijtstoffen en ertsen en het Warenwetbesluit drukapparatuur (nucleaire drukapparatuur) (Stb. nr. 428 ) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop het besluit van 17 oktober 2007 tot wijziging van het Besluit kerninstallaties, splijtstoffen en ertsen en het Warenwetbesluit drukapparatuur (nucleaire drukapparatuur) (Stb. nr. 428 ) in werking treedt. 
 
 ### Artikel  18  
 
-Deze regeling wordt aangehaald als: Regeling nucleaire drukapparatuur.  
+Deze regeling wordt aangehaald als: Regeling nucleaire drukapparatuur. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -172,4 +172,4 @@ Den Haag
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J.M.Cramer   
+J.M. Cramer     

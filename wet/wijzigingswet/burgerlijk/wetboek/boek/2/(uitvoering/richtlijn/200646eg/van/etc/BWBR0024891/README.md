@@ -11,17 +11,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt het Burgerlijk Wetboek Boek 2.   
+Wijzigt het Burgerlijk Wetboek Boek 2.  
 
 ### Artikel  II  
 
-De artikelen van deze wet zijn van toepassing op jaarrekeningen en jaarverslagen die worden opgesteld over de boekjaren die zijn aangevangen op of na 1 januari 2008.  
+De artikelen van deze wet zijn van toepassing op jaarrekeningen en jaarverslagen die worden opgesteld over de boekjaren die zijn aangevangen op of na 1 januari 2008. 
 
 ### Artikel  III  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 11 december 2008  

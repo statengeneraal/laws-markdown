@@ -11,31 +11,31 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt het Burgerlijk Wetboek Boek 8.   
+Wijzigt het Burgerlijk Wetboek Boek 8. 
 
 ### Artikel  II  
 
-Wijzigt het Wetboek van Koophandel.   
+Wijzigt het Wetboek van Koophandel. 
 
 ### Artikel  III  
 
-Wijzigt de Wet nationaliteit zeeschepen in rompbevrachting.   
+Wijzigt de Wet nationaliteit zeeschepen in rompbevrachting. 
 
 ### Artikel  IV  
 
-Wijzigt de Zeebrievenwet.   
+Wijzigt de Zeebrievenwet. 
 
 ### Artikel  V  
 
-Wijzigt de Wijzigingswet Boek 8 van het Burgerlijk Wetboek enz. (wijziging voorwaarden nationaliteitsverlening en registratie zeeschepen).   
+Wijzigt de Wijzigingswet Boek 8 van het Burgerlijk Wetboek enz. (wijziging voorwaarden nationaliteitsverlening en registratie zeeschepen). 
 
 ### Artikel  VI  
 
-Ten aanzien van een zeeschip dat op het tijdstip van inwerkingtreding van deze wet te boek staat in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), wordt uiterlijk op 1 januari 2007 voldaan aan [artikel 311 van het Wetboek van Koophandel](../../../../../../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md).  
+Ten aanzien van een zeeschip dat op het tijdstip van inwerkingtreding van deze wet te boek staat in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), wordt uiterlijk op 1 januari 2007 voldaan aan [artikel 311 van het Wetboek van Koophandel](../../../../../../../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md). 
 
 ### Artikel  VII  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -51,5 +51,5 @@ K. M. H. Peijs
 
 de *achttiende* juli 2006 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 J. P. H. Donner    

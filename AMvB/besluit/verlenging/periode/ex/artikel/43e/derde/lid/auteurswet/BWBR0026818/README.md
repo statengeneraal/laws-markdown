@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De in [artikel 43e, tweede lid, Auteurswet](../../../../../../../../../../../wet/auteurswet/BWBR0001886/README.md) bedoelde periode wordt verlengd tot 1 januari 2012.  
+De in [artikel 43e, tweede lid, Auteurswet](../../../../../../../../../../../wet/auteurswet/BWBR0001886/README.md) bedoelde periode wordt verlengd tot 1 januari 2012. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van 1 januari 2010.  
+Dit besluit treedt in werking met ingang van 1 januari 2010. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

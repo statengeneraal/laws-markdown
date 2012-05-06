@@ -15,20 +15,20 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Reglement rijbewijzen.   
+Wijzigt het Reglement rijbewijzen. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit rijonderricht motorrijtuigen.   
+Wijzigt het Besluit rijonderricht motorrijtuigen. 
 
 ### Artikel  III  
 
-Ten aanzien van de coderingen 10.02 en 78 die voor 30 september 2008 zijn geregistreerd in het rijbewijzenregister, gelden de bepalingen zoals die golden voor inwerkingtreding van artikel I, onderdelen A, B, C, D, G, H, I, J, O en P.  
+Ten aanzien van de coderingen 10.02 en 78 die voor 30 september 2008 zijn geregistreerd in het rijbewijzenregister, gelden de bepalingen zoals die golden voor inwerkingtreding van artikel I, onderdelen A, B, C, D, G, H, I, J, O en P. 
 
 ### Artikel  IV  
 
 1.  De artikelen I, onderdelen A, B, C, D, G, H, I, J, O en P, en III treden in werking met ingang van 30 september 2008.   
-2.  De artikelen I, onderdelen E, F, K, L, M en N, en II treden in werking met ingang van 1 oktober 2008.   
+2.  De artikelen I, onderdelen E, F, K, L, M en N, en II treden in werking met ingang van 1 oktober 2008.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -36,10 +36,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 10 september 2008  
 Beatrix  
 
-De Minister van Verkeer en Waterstaat, 
-C. M. P. S.Eurlings 
+De Minister van Verkeer en Waterstaat , 
+C. M. P. S. Eurlings   
 
 de *drieëntwintigste* september 2008 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

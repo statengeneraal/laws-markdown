@@ -17,11 +17,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. *de wet:* de [Wet voorkeursrecht gemeenten](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md);  
+a.  *de wet:* de [Wet voorkeursrecht gemeenten](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md);  
 
-b. *besluit tot aanwijzing:* besluit als bedoeld in [artikel 2](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md) in samenhang met [artikel 3](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md), [4](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md) of [5 van de wet](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md) of een besluit als bedoeld in [artikel 9a, eerste of tweede lid](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md), in samenhang met artikel 2 en artikel 3, 4 of 5 van de wet;  
+b.  *besluit tot aanwijzing:* besluit als bedoeld in [artikel 2](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md) in samenhang met [artikel 3](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md), [4](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md) of [5 van de wet](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md) of een besluit als bedoeld in [artikel 9a, eerste of tweede lid](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md), in samenhang met artikel 2 en artikel 3, 4 of 5 van de wet;  
 
-c. *besluit tot voorlopige aanwijzing:* besluit als bedoeld in [artikel 6 van de wet](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md) of een besluit als bedoeld in [artikel 9a, eerste lid](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md), in samenhang met artikel 6 van de wet.    
+c.  *besluit tot voorlopige aanwijzing:* besluit als bedoeld in [artikel 6 van de wet](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md) of een besluit als bedoeld in [artikel 9a, eerste lid](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md), in samenhang met artikel 6 van de wet.   
 
 ### Artikel  2  
 
@@ -33,7 +33,7 @@ b. de kadastrale grootte van elk van de in de aanwijzing opgenomen percelen en i
 
 c. de namen van de eigenaren van en de beperkt gerechtigden tot de in de aanwijzing opgenomen percelen en perceelsgedeelten,   een en ander bestaande op een in het besluit aangegeven tijdstip.   
 2.  Het besluit vermeldt tevens ten aanzien van elk tot de aangewezen gronden behorend perceel of perceelsgedeelte de planologische grondslag op basis waarvan het besluit is genomen, alsmede de eerst mogelijke vervaldatum van het voorkeursrecht.   
-3.  Het besluit vermeldt voorts of, en zo ja, wanneer en op welke grondslag het perceel eerder was aangewezen alsmede het tijdstip waarop het bevoegd gezag de vorige aanwijzing heeft doen vervallen.   
+3.  Het besluit vermeldt voorts of, en zo ja, wanneer en op welke grondslag het perceel eerder was aangewezen alsmede het tijdstip waarop het bevoegd gezag de vorige aanwijzing heeft doen vervallen.  
 
 ### Artikel  3  
 
@@ -47,7 +47,7 @@ c. uit de kaart moet de kadastrale sectie-indeling blijken door middel van een o
 
 d. uit de kaart moet de aansluiting van de aangewezen gronden aan het daaromheen gelegen gebied blijken;  
 
-e. op de kaart wordt aangegeven een noordpijl, alsmede de naam van de gemeente en in geval van afwijking tevens de naam van de kadastrale gemeente.    
+e. op de kaart wordt aangegeven een noordpijl, alsmede de naam van de gemeente en in geval van afwijking tevens de naam van de kadastrale gemeente.   
 
 ### Artikel  4  
 
@@ -58,37 +58,38 @@ a. of het betrokken perceel reeds is aangewezen door een ander bevoegd gezag;
 
 b. het rechtsgevolg van het besluit voor de reeds bestaande aanwijzing of voorlopige aanwijzing van het betrokken perceel;  
 
-c. indien een opgave als bedoeld in [artikel 11, eerste lid, van de wet](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md), is gedaan, op welke wijze gedeputeerde staten onderscheidenlijk Onze Minister invulling zullen geven aan de indeplaatstreding, bedoeld in [artikel 9a, vijfde onderscheidenlijk zesde lid, van de wet](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md).     
+c. indien een opgave als bedoeld in [artikel 11, eerste lid, van de wet](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md), is gedaan, op welke wijze gedeputeerde staten onderscheidenlijk Onze Minister invulling zullen geven aan de indeplaatstreding, bedoeld in [artikel 9a, vijfde onderscheidenlijk zesde lid, van de wet](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md).    
 
 ### Artikel  5  
 
-Alle schriftelijke mededelingen aan of van de vervreemder, in de wet voorzien, worden gedaan bij aangetekende brief met ontvangstbevestiging.  
+Alle schriftelijke mededelingen aan of van de vervreemder, in de wet voorzien, worden gedaan bij aangetekende brief met ontvangstbevestiging. 
 
 ### Artikel  6  
 
 1.  Burgemeester en wethouders, gedeputeerde staten of Onze Minister zenden aan de vervreemder afschrift van een verzoek aan de rechtbank als bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md).   
 2.  Burgemeester en wethouders, gedeputeerde staten of Onze Minister zenden aan de vervreemder afschrift van een schriftelijke intrekking van het verzoek, bedoeld in [artikel 13, zevende lid, van de wet](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md).   
-3.  De vervreemder zendt aan burgemeester en wethouders, gedeputeerde staten of Onze Minister afschrift van het verzoek, bedoeld in [artikel 15, eerste lid, van de wet](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md).   
+3.  De vervreemder zendt aan burgemeester en wethouders, gedeputeerde staten of Onze Minister afschrift van het verzoek, bedoeld in [artikel 15, eerste lid, van de wet](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md).  
 
 ### Artikel  7  
 
-De toezending van een exemplaar van het advies, bedoeld in [artikel 13, vierde lid, van de wet](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md) aan ieder van beide partijen geschiedt onder dezelfde dagtekening als de nederlegging daarvan ter griffie van de rechtbank.  
+De toezending van een exemplaar van het advies, bedoeld in [artikel 13, vierde lid, van de wet](../../../../../../wet/wet/voorkeursrecht/gemeenten/BWBR0003391/README.md) aan ieder van beide partijen geschiedt onder dezelfde dagtekening als de nederlegging daarvan ter griffie van de rechtbank. 
 
 ### Artikel  8  
 
-Het [Besluit voorkeursrecht gemeenten](../../../../../../AMvB/besluit/voorkeursrecht/gemeenten/BWBR0003720/README.md) wordt ingetrokken.  
+Het [Besluit voorkeursrecht gemeenten](../../../../../../AMvB/besluit/voorkeursrecht/gemeenten/BWBR0003720/README.md) wordt ingetrokken.
 
 ### Artikel  9  
+Treedt in werking op een nader te bepalen tijdstip 
 
-Wijzigt het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.   
+Wijzigt het Aanwijzingsbesluit Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken. 
 
 ### Artikel  10  
 
-De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgeteld.  
+De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgeteld. 
 
 ### Artikel  11  
 
-Dit besluit wordt aangehaald als: Besluit voorkeursrecht gemeenten 2010.  
+Dit besluit wordt aangehaald als: Besluit voorkeursrecht gemeenten 2010. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -101,5 +102,5 @@ J. C. Huizinga-Heringa
 
 de *dertigste* juni 2010 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin    

@@ -21,25 +21,25 @@ a. wat betreft verzekeringsmaatschappijen en de door hen aangewezen gevolmachtig
 
 b. wat betreft de advocatuur: ten behoeve van eigendomsgeschillen omtrent motorrijtuigen of aanhangwagens alsmede gerechtelijke procedures en de voorbereiding daarvan alsmede voor zover het de advocatuur betreft ten behoeve van faillissementen waarbij voertuigen zijn betrokken, en  
 
-c. wat betreft producenten en importeurs van motorrijtuigen: ten behoeve van de uitvoering van de [Wet op de belasting van personenauto's en motorrijwielen 1992](../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md).     
+c. wat betreft producenten en importeurs van motorrijtuigen: ten behoeve van de uitvoering van de [Wet op de belasting van personenauto's en motorrijwielen 1992](../../../../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md).    
 
 ### Artikel  2  
 
-De [Regeling aanwijzing belanghebbenden verstrekking diefstalgegevens kentekenregister](../../../../../../../../ministeriele-regeling/regeling/aanwijzing/belanghebbenden/verstrekking/diefstalgegevens/etc/BWBR0007154/README.md) wordt ingetrokken.  
+De [Regeling aanwijzing belanghebbenden verstrekking diefstalgegevens kentekenregister](../../../../../../../../ministeriele-regeling/regeling/aanwijzing/belanghebbenden/verstrekking/diefstalgegevens/etc/BWBR0007154/README.md) wordt ingetrokken. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van 1 juli 2008.  
+Deze regeling treedt in werking met ingang van 1 juli 2008. 
 
 ### Artikel  4  
 
-Deze regeling wordt aangehaald als: Regeling aanwijzing beroepsbeoefenaren verstrekking diefstalgegevens kentekenregister 2008.  
+Deze regeling wordt aangehaald als: Regeling aanwijzing beroepsbeoefenaren verstrekking diefstalgegevens kentekenregister 2008. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings 
+C.M.P.S. Eurlings   
 
 De 
 Minister van Justitie, 
-E.M.H.Hirsch Ballin   
+E.M.H. Hirsch Ballin     

@@ -15,12 +15,12 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het besluit Vaststelling bewijs van verzekering voor niet-kentekenplichtige motorrijtuigen en regelen met betrekking tot bewijs van vrijstelling.   
+Wijzigt het besluit Vaststelling bewijs van verzekering voor niet-kentekenplichtige motorrijtuigen en regelen met betrekking tot bewijs van vrijstelling.
 
 ### Artikel  II  
 
 1.  Een fabrikanten- of handelaarsbewijs W.A.M. (bromfietsen), afgegeven voor de inwerkingtreding van dit besluit, behoudt voor wat betreft gehandicaptenvoertuigen en fietsen met trapondersteuning zijn geldigheid tot vijf jaar na datum van afgifte.   
-2.  Een fabrikanten- of handelaarsbewijs W.A.M. (andere niet-kentekenplichtige motorrijtuigen dan bromfietsen), afgegeven voor de inwerkingtreding van dit besluit, behoudt voor wat betreft andere niet-kentekenplichtige motorrijtuigen dan gehandicaptenvoertuigen en fietsen met trapondersteuning zijn geldigheid tot vijf jaar na datum van afgifte.   
+2.  Een fabrikanten- of handelaarsbewijs W.A.M. (andere niet-kentekenplichtige motorrijtuigen dan bromfietsen), afgegeven voor de inwerkingtreding van dit besluit, behoudt voor wat betreft andere niet-kentekenplichtige motorrijtuigen dan gehandicaptenvoertuigen en fietsen met trapondersteuning zijn geldigheid tot vijf jaar na datum van afgifte.  
 
 ### Artikel  III  
 
@@ -28,11 +28,11 @@ De [artikelen 1 tot en met 5a](../../../../../../../../../../../../AMvB/vaststel
 
 a. voor wat betreft een bromfiets die op dat tijdstip reeds in het verkeer is gebracht tot voor de betrokken bromfiets kentekenbewijs is afgegeven op grond van [artikel IV van de wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](../../../../../../../../../../../../wet/wijzigingswet/wegenverkeerswet/1994/enz./(invoering/etc/BWBR0018326/README.md) (Stb. 281), of  
 
-b. tot het tijdstip waarop [artikel IV van die wet](../../../../../../../../../../../../wet/wijzigingswet/wegenverkeerswet/1994/enz./(invoering/etc/BWBR0018326/README.md) vervalt.    
+b. tot het tijdstip waarop [artikel IV van die wet](../../../../../../../../../../../../wet/wijzigingswet/wegenverkeerswet/1994/enz./(invoering/etc/BWBR0018326/README.md) vervalt.   
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking op het tijdstip waarop de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](../../../../../../../../../../../../wet/wijzigingswet/wegenverkeerswet/1994/enz./(invoering/etc/BWBR0018326/README.md) (Stb. 281) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de [wet van 12 mei 2005 tot wijziging van de Wegenverkeerswet 1994 en enkele andere wetten in verband met de invoering van een kentekenregistratiesysteem voor bromfietsen alsmede vaststelling van overgangsbepalingen in verband daarmee](../../../../../../../../../../../../wet/wijzigingswet/wegenverkeerswet/1994/enz./(invoering/etc/BWBR0018326/README.md) (Stb. 281) in werking treedt. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

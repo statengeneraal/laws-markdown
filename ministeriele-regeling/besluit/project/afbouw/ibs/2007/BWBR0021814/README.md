@@ -20,7 +20,7 @@ b. Ministerie: Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieube
 
 c. Project afbouw IBS: project afbouw Informatie, Beheer en Subsidieregelingen;  
 
-d. coderegeling 37: huursubsidietijdvak 1 juli 2005 tot 31 december 2005.    
+d. coderegeling 37: huursubsidietijdvak 1 juli 2005 tot 31 december 2005.   
 
 ### Artikel  2  
 
@@ -44,7 +44,7 @@ f. het beoordelen van de noodzaak tot inschakeling van externe juridische onders
 
 g. het geven van advies met betrekking tot de onder a tot en met d genoemde taken aan de directeur-generaal Wonen, Wijken en Integratie en aan de Minister;  
 
-h. het overdragen van de resterende werkzaamheden, niet beschreven in het Convenant overdracht IBS naar de Belastingdienst, aan de lijnorganisatie van het directoraat-generaal Wonen, Wijken en Integratie.     
+h. het overdragen van de resterende werkzaamheden, niet beschreven in het Convenant overdracht IBS naar de Belastingdienst, aan de lijnorganisatie van het directoraat-generaal Wonen, Wijken en Integratie.    
 
 ### Artikel  3  
 
@@ -52,14 +52,14 @@ h. het overdragen van de resterende werkzaamheden, niet beschreven in het Conven
 
 1.  Aan de directeur-generaal Wonen, Wijken en Integratie wordt mandaat, volmacht en machtiging verleend met betrekking tot de aangelegenheden die verband houden met de taken, genoemd in artikel 2, derde lid.   
 2.  De directeur-generaal is bevoegd tot het verlenen van ondermandaat en het doorverlenen van zijn volmacht en machtiging aan onder hem ressorterende functionarissen.   
-3.  De [artikelen 4, tweede en derde lid](../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/vrom/2007/BWBR0021789/README.md), [5](../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/vrom/2007/BWBR0021789/README.md), [6](../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/vrom/2007/BWBR0021789/README.md), [7](../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/vrom/2007/BWBR0021789/README.md) en [8, tweede lid, van het Besluit mandaat, volmacht en machtiging VROM 2007](../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/vrom/2007/BWBR0021789/README.md) zijn van overeenkomstige toepassing.   
+3.  De [artikelen 4, tweede en derde lid](../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/vrom/2007/BWBR0021789/README.md), [5](../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/vrom/2007/BWBR0021789/README.md), [6](../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/vrom/2007/BWBR0021789/README.md), [7](../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/vrom/2007/BWBR0021789/README.md) en [8, tweede lid, van het Besluit mandaat, volmacht en machtiging VROM 2007](../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/vrom/2007/BWBR0021789/README.md) zijn van overeenkomstige toepassing.  
 
 ### Artikel  4  
 
 ####Citeertitel en inwerkingtreding
 
 1.  Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.   
-2.  Dit besluit wordt aangehaald als: Besluit project afbouw IBS 2007.   
+2.  Dit besluit wordt aangehaald als: Besluit project afbouw IBS 2007.  
 Dit besluit wordt geplaatst in de Staatscourant.   
 
 Den Haag 
@@ -67,4 +67,4 @@ Den Haag
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J.M.Cramer   
+J.M. Cramer     

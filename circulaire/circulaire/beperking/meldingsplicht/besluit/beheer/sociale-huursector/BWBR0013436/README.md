@@ -2,12 +2,12 @@
 
 ##Circulaire beperking meldingsplicht Besluit beheer sociale-huursector
 
-Aan: de besturen van de toegelaten instellingen en de colleges van burgemeester en wethouders Geacht bestuur/college,     Deze circulaire betreft: 
+Aan: de besturen van de toegelaten instellingen en de colleges van burgemeester en wethoudersGeacht bestuur/college,Deze circulaire betreft:
 
-I. de beperking van de meldingsplicht, en  
+I.de beperking van de meldingsplicht, en
 
-II. voorwaarden voor ontheffing van het verkooppercentage in die gevallen waar sprake is van verkoop van woningen 'onder voorwaarden'.     
-### I  
+II.voorwaarden voor ontheffing van het verkooppercentage in die gevallen waar sprake is van verkoop van woningen 'onder voorwaarden'. 
+###I 
 
 ####De beperking van de meldingsplicht
 
@@ -23,25 +23,27 @@ d. Het vestigen van een recht van erfpacht, van opstal of van vruchtgebruik op a
 
 a. Het vervreemden van al hun woongelegenheden.  
 
-b. Het verrichten van rechtshandelingen als hiervoor bedoeld onder c en d.   Na de inwerkingtreding van deze [regeling](../../../../../../../../ministeriele-regeling/regeling/beperking/meldingsplicht/bbsh/BWBR0013429/README.md) behoeven corporaties en afzonderlijke organisatieonderdelen van gemeenten bovengenoemde voornemens niet meer aan mij ter beoordeling voor te leggen. Omtrent de redenen en achtergronden die hebben geleid tot deze regeling verwijs ik u naar de toelichting op bijgevoegde [regeling](../../../../../../../../ministeriele-regeling/regeling/beperking/meldingsplicht/bbsh/BWBR0013429/README.md).    
-### II  
+b. Het verrichten van rechtshandelingen als hiervoor bedoeld onder c en d.   Na de inwerkingtreding van deze [regeling](../../../../../../../../ministeriele-regeling/regeling/beperking/meldingsplicht/bbsh/BWBR0013429/README.md) behoeven corporaties en afzonderlijke organisatieonderdelen van gemeenten bovengenoemde voornemens niet meer aan mij ter beoordeling voor te leggen.  Omtrent de redenen en achtergronden die hebben geleid tot deze regeling verwijs ik u naar de toelichting op bijgevoegde [regeling](../../../../../../../../ministeriele-regeling/regeling/beperking/meldingsplicht/bbsh/BWBR0013429/README.md).  
+###II 
 
 ####Ontheffing van het verkooppercentage in die gevallen waar sprake is van verkoop van woningen 'onder voorwaarden'
 
-### III  
+Vervallen per 20-07-2006 
+
+###III 
 
 ####Slot
 
-Voor nadere informatie over deze circulaire kunt u terecht bij de Directie Stad en Regio van het Directoraat-Generaal Wonen van het ministerie van VROM, Tel: 0703393939 Postbus 30941 2500 GX Den Haag interne postcode (IPC) 210.      Deze MG-circulaire, alsmede de ministeriële [Regeling beperking meldingsplicht BBSH](../../../../../../../../ministeriele-regeling/regeling/beperking/meldingsplicht/bbsh/BWBR0013429/README.md) en de daarbij behorende toelichting, zullen in de Staatscourant worden geplaatst.   
+Voor nadere informatie over deze circulaire kunt u terecht bij de Directie Stad en Regio van het Directoraat-Generaal Wonen van het ministerie van VROM,Tel: 0703393939Postbus 309412500 GX Den Haaginterne postcode (IPC) 210.Deze MG-circulaire, alsmede de ministeriële [Regeling beperking meldingsplicht BBSH](../../../../../../../../ministeriele-regeling/regeling/beperking/meldingsplicht/bbsh/BWBR0013429/README.md) en de daarbij behorende toelichting, zullen in de Staatscourant worden geplaatst.
 
-Hoogachtend, 
+Hoogachtend,
 
 De 
-Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J.W.Remkes   
+Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
+J.W.Remkes
 
-### Bijlage:  
+###Bijlage: 
 
-#### [Regeling beperking meldingsplicht BBSH](../../../../../../../../ministeriele-regeling/regeling/beperking/meldingsplicht/bbsh/BWBR0013429/README.md) 
+####[Regeling beperking meldingsplicht BBSH](../../../../../../../../ministeriele-regeling/regeling/beperking/meldingsplicht/bbsh/BWBR0013429/README.md)
 
-Niet opgenomen.  
+Niet opgenomen.

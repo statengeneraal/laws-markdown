@@ -10,51 +10,51 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-– *algemene groepsvrijstellingsverordening:*verordening (EG) nr. 800/2008 van de Commissie van de Europese Gemeenschappen van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke markt verenigbaar worden verklaard (‘de algemene groepsvrijstellingsverordening’) (PbEU L 214);  
+–  *algemene groepsvrijstellingsverordening:* verordening (EG) nr. 800/2008 van de Commissie van de Europese Gemeenschappen van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke markt verenigbaar worden verklaard (‘de algemene groepsvrijstellingsverordening’) (PbEU L 214);  
 
-– *algemene opleiding:* een algemene opleiding als bedoeld in artikel 38, onderdeel 2, van de algemene groepsvrijstellingsverordening;  
+–  *algemene opleiding:* een algemene opleiding als bedoeld in artikel 38, onderdeel 2, van de algemene groepsvrijstellingsverordening;  
 
-– *besluit:*[Kaderbesluit EZ-subsidies](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md);  
+–  *besluit:* [Kaderbesluit EZ-subsidies](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md);  
 
-– *communautaire norm:* communautaire norm als bedoeld in punt 70.3 van de Communautaire richtsnoeren inzake staatssteun voor milieubescherming nr. 2008/C 82/01 (PbEU C 82);  
+–  *communautaire norm:* communautaire norm als bedoeld in punt 70.3 van de Communautaire richtsnoeren inzake staatssteun voor milieubescherming nr. 2008/C 82/01 (PbEU C 82);  
 
-– *eco-innovatie:* eco-innovatie als bedoeld in punt 70.4 van de Communautaire richtsnoeren inzake staatssteun voor milieubescherming nr. 2008/C 82/01 (PbEU C 82);  
+–  * eco-innovatie:* eco-innovatie als bedoeld in punt 70.4 van de Communautaire richtsnoeren inzake staatssteun voor milieubescherming nr. 2008/C 82/01 (PbEU C 82);  
 
-– *experimentele ontwikkeling:* experimentele ontwikkeling als bedoeld in paragraaf 2.2, onder g, van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);  
+–  *experimentele ontwikkeling:* experimentele ontwikkeling als bedoeld in paragraaf 2.2, onder g, van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);  
 
-– *fundamenteel onderzoek:* fundamenteel onderzoek als bedoeld in paragraaf 2.2, onder e, van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);  
+–  *fundamenteel onderzoek:* fundamenteel onderzoek als bedoeld in paragraaf 2.2, onder e, van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);  
 
-– *hernieuwbare energiebronnen:* hernieuwbare energiebronnen als bedoeld in punt 70.5 van de Communautaire richtsnoeren inzake staatssteun voor milieubescherming nr. 2008/C 82/01 (PbEU C 82);  
+–  * hernieuwbare energiebronnen:* hernieuwbare energiebronnen als bedoeld in punt 70.5 van de Communautaire richtsnoeren inzake staatssteun voor milieubescherming nr. 2008/C 82/01 (PbEU C 82);  
 
-– *hooggekwalificeerd personeel:* hooggekwalificeerd personeel als bedoeld in paragraaf 2.2, onderdeel k, van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);  
+–  *hooggekwalificeerd personeel:* hooggekwalificeerd personeel als bedoeld in paragraaf 2.2, onderdeel k, van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);  
 
-– *industrieel onderzoek:* industrieel onderzoek als bedoeld in paragraaf 2.2, onderdeel f, van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);  
+–  *industrieel onderzoek:* industrieel onderzoek als bedoeld in paragraaf 2.2, onderdeel f, van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);  
 
-– *innovatieadviesdienst:* een innovatieadviesdienst in de zin van paragraaf 5.6, eerste gedachtestreepje van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);  
+–  *innovatieadviesdienst:* een innovatieadviesdienst in de zin van paragraaf 5.6, eerste gedachtestreepje van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);  
 
-– *innovatiecluster:* een innovatiecluster als bedoeld in paragraaf 2.2, onderdeel m, van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);  
+–  *innovatiecluster:* een innovatiecluster als bedoeld in paragraaf 2.2, onderdeel m, van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);  
 
-– *innovatieve starter:* een innovatieve starter als bedoeld in paragraaf 5.4 van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);  
+–  *innovatieve starter:* een innovatieve starter als bedoeld in paragraaf 5.4 van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);  
 
-– *milieubescherming:* milieubescherming als bedoeld in punt 70.1 van de Communautaire richtsnoeren inzake staatssteun voor milieubescherming nr. 2008/C 82/01 (PbEU C 82);  
+–  * milieubescherming:* milieubescherming als bedoeld in punt 70.1 van de Communautaire richtsnoeren inzake staatssteun voor milieubescherming nr. 2008/C 82/01 (PbEU C 82);  
 
-– *referentiekosten:* kosten voor een investering ten behoeve van een in Nederland gangbaar systeem, apparaat of techniek die in technisch opzicht vergelijkbaar is met een in Nederland uit te voeren project maar waarmee niet hetzelfde niveau van milieubescherming kan worden bereikt als met het uit te voeren project, terwijl, in geval van een uit te voeren project voor hernieuwbare energie, de capaciteit voor de opwekking van energie van dat project ten minste overeenkomt met die van de eerstbedoelde investering;  
+–  * referentiekosten:* kosten voor een investering ten behoeve van een in Nederland gangbaar systeem, apparaat of techniek die in technisch opzicht vergelijkbaar is met een in Nederland uit te voeren project maar waarmee niet hetzelfde niveau van milieubescherming kan worden bereikt als met het uit te voeren project, terwijl, in geval van een uit te voeren project voor hernieuwbare energie, de capaciteit voor de opwekking van energie van dat project ten minste overeenkomt met die van de eerstbedoelde investering;  
 
-– *specifieke opleiding:* een specifieke opleiding als bedoeld in artikel 38, onderdeel 1, van de algemene groepsvrijstellingsverordening;  
+–  *specifieke opleiding:* een specifieke opleiding als bedoeld in artikel 38, onderdeel 1, van de algemene groepsvrijstellingsverordening;  
 
-– *stadsverwarming:* stadsverwarming als bedoeld in punt 70.12 van de Communautaire richtsnoeren inzake staatssteun voor milieubescherming nr. 2008/C 82/01 (PbEU C 82);  
+–  * stadsverwarming:* stadsverwarming als bedoeld in punt 70.12 van de Communautaire richtsnoeren inzake staatssteun voor milieubescherming nr. 2008/C 82/01 (PbEU C 82);  
 
-– *technische haalbaarheidsstudie:* technische haalbaarheidsstudie in de zin van paragraaf 5.2 van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);  
+–  *technische haalbaarheidsstudie:* technische haalbaarheidsstudie in de zin van paragraaf 5.2 van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie nr. 2006/C 323/01 (PbEU C 323);  
 
-– *warmtekrachtkoppeling:* warmtekrachtkoppeling als bedoeld in punt 70.10 van de Communautaire richtsnoeren inzake staatssteun voor milieubescherming nr. 2008/C 82/01 (PbEU C 82).    
+–  * warmtekrachtkoppeling:* warmtekrachtkoppeling als bedoeld in punt 70.10 van de Communautaire richtsnoeren inzake staatssteun voor milieubescherming nr. 2008/C 82/01 (PbEU C 82).   
 
 ### Artikel  2  
 
-Deze regeling is van toepassing op subsidies die worden verstrekt volgens de regels van het [Kaderbesluit EZ-subsidies](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md).  
+Deze regeling is van toepassing op subsidies die worden verstrekt volgens de regels van het [Kaderbesluit EZ-subsidies](../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md). 
 
 ### Artikel  3  
 
-De subsidie bedraagt, voor zover activiteiten vallen onder de bijlage bij deze regeling, het percentage van de subsidiabele kosten zoals aangegeven in de bijlage.  
+De subsidie bedraagt, voor zover activiteiten vallen onder de bijlage bij deze regeling, het percentage van de subsidiabele kosten zoals aangegeven in de bijlage. 
 
 ### Artikel  4  
 
@@ -81,15 +81,15 @@ d. wat betreft monitoring: kosten die rechtstreeks zijn toe te rekenen aan voort
 
 e. wat betreft ontmanteling: kosten ervan voor zover gehele of gedeeltelijke verwijdering van een project in verband met milieubescherming verplicht is, te berekenen over een periode van ten hoogste 20 jaar;  
 
-f. wat betreft het geleidelijk opstarten en in gebruik nemen van een project: kosten ervan die rechtstreeks zijn toe te rekenen aan capaciteitsverlies en gederfde inkomsten.     
+f. wat betreft het geleidelijk opstarten en in gebruik nemen van een project: kosten ervan die rechtstreeks zijn toe te rekenen aan capaciteitsverlies en gederfde inkomsten.    
 
 ### Artikel  5  
 
-Deze regeling treedt in werking met ingang van 1 januari 2010.  
+Deze regeling treedt in werking met ingang van 1 januari 2010. 
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als Regeling steunintensiteit.  
+Deze regeling wordt aangehaald als Regeling steunintensiteit. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -97,7 +97,7 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-M.J.A. van derHoeven  
+M.J.A. van der Hoeven    
 
 ### Bijlage  
 
@@ -105,7 +105,7 @@ M.J.A. van derHoeven
 |:---|:---|:---|:---|:---|
 |  *Onderzoek & Ontwikkeling*   |
 | Fundamenteel onderzoek  | --- | 75  | 75  | 75  |
-| Industrieel onderzoek  | Basis  | 70 (80)  <sup> 1   De tussen haken opgenomen getallen zijn van toepassing bij krediet met rente en opslag.    </sup> | 60 (70)  | 50 (60)  |
+| Industrieel onderzoek  | Basis  | 70 (80)<sup> 1  De tussen haken opgenomen getallen zijn van toepassing bij krediet met rente en opslag.  </sup>   | 60 (70)  | 50 (60)  |
 | --- | – samenwerking tussen ondernemingen voor grote ondernemingen: samenwerking grensoverschrijdend of met ten minste één kleine of middelgrote onderneming  of  – samenwerking van een onderneming met een onderzoeksorganisatie  of  – verspreiding van resultaten  | 80 (80)  | 75 (80)  | 65 (75)  |
 | Experimentele ontwikkeling  | Basis  | 45 (60)  | 35 (50)  | 25 (40)  |
 | --- | – samenwerking tussen ondernemingen voor grote ondernemingen: samenwerking grensoverschrijdend of met ten minste één kleine of middelgrote onderneming  of  – samenwerking van een onderneming met een onderzoeksorganisatie  | 60 (75)  | 50 (65)  | 40 (55)  |
@@ -124,7 +124,7 @@ M.J.A. van derHoeven
 | innovatieadviesdiensten en voor diensten inzake innovatieondersteuning  | Basis  | 75 met een maximum van 200.000,– per subsidie-ontvanger over een periode van 3 jaar.  | –  |
 | Uitlenen hooggekwalificeerd personeel  | 50  | 50  | –  |
 |  *Opleiding*   |
-| Algemene opleiding  | 70 [80]  <sup> 2   De tussen haken opgenomen getallen zijn van toepassing op een opleiding voor kwetsbare of gehandicapte werknemers als bedoeld in deel 9 van de algemene groepsvrijstellingsverordening.    </sup> | 70 [80]  | 50 [60]  |
+| Algemene opleiding  | 70 [80]<sup> 2  De tussen haken opgenomen getallen zijn van toepassing op een opleiding voor kwetsbare of gehandicapte werknemers als bedoeld in deel 9 van de algemene groepsvrijstellingsverordening.  </sup>   | 70 [80]  | 50 [60]  |
 | Specifieke opleiding  | 35 [45]  | 35 [45]  | 25 [35]  |
 |  *Scheepsbouwsteun*   |
 | Steun voor scheepsbouwinnovatie  | 20  | 20  | 20  |

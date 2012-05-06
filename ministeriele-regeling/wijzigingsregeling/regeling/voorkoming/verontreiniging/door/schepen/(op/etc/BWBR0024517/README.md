@@ -8,17 +8,17 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling voorkoming verontreiniging door schepen.   
+Wijzigt de Regeling voorkoming verontreiniging door schepen. 
 
 ### Artikel  II  
 
-Resoluties A.495(XII), A.446(XI) en A.673(16) worden bekendgemaakt door ter inzage legging bij de bibliotheek van de Hoofddirectie Juridische Zaken van het Ministerie van Verkeer en Waterstaat.  
+Resoluties A.495(XII), A.446(XI) en A.673(16) worden bekendgemaakt door ter inzage legging bij de bibliotheek van de Hoofddirectie Juridische Zaken van het Ministerie van Verkeer en Waterstaat. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Verkeer en Waterstaat, 
-J.C.Huizinga-Heringa   
+J.C. Huizinga-Heringa     

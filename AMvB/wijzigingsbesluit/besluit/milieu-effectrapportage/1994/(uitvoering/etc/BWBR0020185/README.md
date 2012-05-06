@@ -17,15 +17,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit milieu-effectrapportage 1994.   
+Wijzigt het Besluit milieu-effectrapportage 1994. 
 
 ### Artikel  II  
 
-Indien ten aanzien van een plan als bedoeld in [artikel 10 van de Wet op de Ruimtelijke Ordening](../../../../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md), dat behoort tot een categorie van besluiten die is omschreven in [kolom 3 van onderdeel C onderscheidenlijk onderdeel D van de bijlage bij het Besluit m.e.r. 1994](../../../../../../../../AMvB/besluit/milieueffectrapportage/BWBR0006788/README.md) zoals dat luidde voor de inwerkingtreding van dit besluit, reeds openbaar kennis is gegeven van een milieu-effectrapport dan wel op grond van [artikel 7.8b van de Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is bepaald dat geen milieu-effectrapport behoeft te worden opgesteld, wordt geen milieu-effectrapport opgesteld ten aanzien van een op dat plan volgend plan als bedoeld in [artikel 11, eerste lid, van de Wet op de Ruimtelijke Ordening](../../../../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md), dat behoort tot een categorie van besluiten die is omschreven in [kolom 4 van onderdeel C onderscheidenlijk onderdeel D van de bijlage bij het Besluit m.e.r. 1994](../../../../../../../../AMvB/besluit/milieueffectrapportage/BWBR0006788/README.md), zoals dat komt te luiden na inwerkingtreding van dit besluit.  
+Indien ten aanzien van een plan als bedoeld in [artikel 10 van de Wet op de Ruimtelijke Ordening](../../../../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md), dat behoort tot een categorie van besluiten die is omschreven in [kolom 3 van onderdeel C onderscheidenlijk onderdeel D van de bijlage bij het Besluit m.e.r. 1994](../../../../../../../../AMvB/besluit/milieueffectrapportage/BWBR0006788/README.md) zoals dat luidde voor de inwerkingtreding van dit besluit, reeds openbaar kennis is gegeven van een milieu-effectrapport dan wel op grond van [artikel 7.8b van de Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is bepaald dat geen milieu-effectrapport behoeft te worden opgesteld, wordt geen milieu-effectrapport opgesteld ten aanzien van een op dat plan volgend plan als bedoeld in [artikel 11, eerste lid, van de Wet op de Ruimtelijke Ordening](../../../../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md), dat behoort tot een categorie van besluiten die is omschreven in [kolom 4 van onderdeel C onderscheidenlijk onderdeel D van de bijlage bij het Besluit m.e.r. 1994](../../../../../../../../AMvB/besluit/milieueffectrapportage/BWBR0006788/README.md), zoals dat komt te luiden na inwerkingtreding van dit besluit. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop artikel I, onderdeel E, in werking treedt.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop artikel I, onderdeel E, in werking treedt. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -33,13 +33,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 16 augustus 2006  
 Beatrix  
 
-De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-P. L. B. A. vanGeel 
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer , 
+P. L. B. A. van Geel   
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit, 
-C. P.Veerman 
+De Minister van Landbouw, Natuur en Voedselkwaliteit , 
+C. P. Veerman   
 
 de *eenendertigste* augustus 2006 
 
-De Minister van Justitie, 
-J. P. H.Donner  
+De Minister van Justitie , 
+J. P. H. Donner    

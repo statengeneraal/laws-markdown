@@ -26,12 +26,12 @@ g. onherroepelijk ontslag van rechtsvervolging;
 
 h. onherroepelijke veroordeling.     
 2.  Het model van de strafkaart wordt vast gesteld overeenkomstig de bij deze regeling gevoegde bijlage I.   
-3.  Deze regeling berust op de [artikelen 2, eerste lid, onder b](../../../../../../../../../../../wet-BES/wet/op/de/justitiële/documentatie/en/op/de/verklaringen/omtrent/het/gedrag/etc/BWBR0028258/README.md), [10, tweede lid](../../../../../../../../../../../wet-BES/wet/op/de/justitiële/documentatie/en/op/de/verklaringen/omtrent/het/gedrag/etc/BWBR0028258/README.md), [12, derde lid](../../../../../../../../../../../wet-BES/wet/op/de/justitiële/documentatie/en/op/de/verklaringen/omtrent/het/gedrag/etc/BWBR0028258/README.md), [13](../../../../../../../../../../../wet-BES/wet/op/de/justitiële/documentatie/en/op/de/verklaringen/omtrent/het/gedrag/etc/BWBR0028258/README.md), [14, eerste lid](../../../../../../../../../../../wet-BES/wet/op/de/justitiële/documentatie/en/op/de/verklaringen/omtrent/het/gedrag/etc/BWBR0028258/README.md), [15, derde lid](../../../../../../../../../../../wet-BES/wet/op/de/justitiële/documentatie/en/op/de/verklaringen/omtrent/het/gedrag/etc/BWBR0028258/README.md), en [17, derde lid, van de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES](../../../../../../../../../../../wet-BES/wet/op/de/justitiële/documentatie/en/op/de/verklaringen/omtrent/het/gedrag/etc/BWBR0028258/README.md).   
+3.  Deze regeling berust op de [artikelen 2, eerste lid, onder b](../../../../../../../../../../../wet-BES/wet/op/de/justitiële/documentatie/en/op/de/verklaringen/omtrent/het/gedrag/etc/BWBR0028258/README.md), [10, tweede lid](../../../../../../../../../../../wet-BES/wet/op/de/justitiële/documentatie/en/op/de/verklaringen/omtrent/het/gedrag/etc/BWBR0028258/README.md), [12, derde lid](../../../../../../../../../../../wet-BES/wet/op/de/justitiële/documentatie/en/op/de/verklaringen/omtrent/het/gedrag/etc/BWBR0028258/README.md), [13](../../../../../../../../../../../wet-BES/wet/op/de/justitiële/documentatie/en/op/de/verklaringen/omtrent/het/gedrag/etc/BWBR0028258/README.md), [14, eerste lid](../../../../../../../../../../../wet-BES/wet/op/de/justitiële/documentatie/en/op/de/verklaringen/omtrent/het/gedrag/etc/BWBR0028258/README.md), [15, derde lid](../../../../../../../../../../../wet-BES/wet/op/de/justitiële/documentatie/en/op/de/verklaringen/omtrent/het/gedrag/etc/BWBR0028258/README.md), en [17, derde lid, van de Wet op de justitiële documentatie en op de verklaringen omtrent het gedrag BES](../../../../../../../../../../../wet-BES/wet/op/de/justitiële/documentatie/en/op/de/verklaringen/omtrent/het/gedrag/etc/BWBR0028258/README.md).  
 
 ### Artikel  2  
 
 1.  De korte aanduiding van het strafbaar feit geschiedt door middel van een beknopte omschrijving. De enkele vermelding van wetsartikelen is niet toegestaan.   
-2.  De strafkaarten van vrouwen die gehuwd of gehuwd geweest zijn, worden gesteld op de meisjesnaam.   
+2.  De strafkaarten van vrouwen die gehuwd of gehuwd geweest zijn, worden gesteld op de meisjesnaam.  
 
 ### Hoofdstuk  II  
 
@@ -39,24 +39,24 @@ h. onherroepelijke veroordeling.
 
 ### Artikel  3  
 
-Van onherroepelijk geworden veroordelingen gewezen door andere rechters dan die in het Gerecht in eerste aanleg en in het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba, kunnen uittreksels in de strafregisters worden opgenomen, indien aan de voorwaarden gesteld in de artikelen 4 tot en met 6 is voldaan.  
+Van onherroepelijk geworden veroordelingen gewezen door andere rechters dan die in het Gerecht in eerste aanleg en in het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba, kunnen uittreksels in de strafregisters worden opgenomen, indien aan de voorwaarden gesteld in de artikelen 4 tot en met 6 is voldaan. 
 
 ### Artikel  4  
 
-Het bericht van de veroordeling moet langs officiële weg ter kennis van de procureur-generaal zijn gebracht.  
+Het bericht van de veroordeling moet langs officiële weg ter kennis van de procureur-generaal zijn gebracht. 
 
 ### Artikel  5  
 
-De veroordeling moet zijn gewezen terzake van een feit, dat door het [Wetboek van Strafrecht BES](../../../../../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) als misdrijf wordt beschouwd of dat gelijkgesteld kan worden met een overtreding van [artikel 474 van het Wetboek van Strafrecht BES](../../../../../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md).  
+De veroordeling moet zijn gewezen terzake van een feit, dat door het [Wetboek van Strafrecht BES](../../../../../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) als misdrijf wordt beschouwd of dat gelijkgesteld kan worden met een overtreding van [artikel 474 van het Wetboek van Strafrecht BES](../../../../../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md). 
 
 ### Artikel  6  
 
 1.  De veroordeling moet zijn gewezen door een bij de wet ingesteld burgerlijk of militair, tot het opleggen van straffen bevoegd, gerecht.   
-2.  In elk geval worden de veroordelingen in strafregisters opgenomen indien zij zijn gewezen door een gerecht van het Europese deel van Nederland of van enig land waarmee een overeenkomst bestaat betreffende de uitwisseling van gegevens over strafrechtelijke veroordelingen.   
+2.  In elk geval worden de veroordelingen in strafregisters opgenomen indien zij zijn gewezen door een gerecht van het Europese deel van Nederland of van enig land waarmee een overeenkomst bestaat betreffende de uitwisseling van gegevens over strafrechtelijke veroordelingen.  
 
 ### Artikel  7  
 
-In geval van twijfel over de uitlegging van de artikelen 5 en 6 en indien de veroordeling is gewezen door een rechter van een ander land dan in artikel 6 bedoeld, beslist de procureur-generaal.  
+In geval van twijfel over de uitlegging van de artikelen 5 en 6 en indien de veroordeling is gewezen door een rechter van een ander land dan in artikel 6 bedoeld, beslist de procureur-generaal. 
 
 ### Hoofdstuk  III  
 
@@ -65,7 +65,7 @@ In geval van twijfel over de uitlegging van de artikelen 5 en 6 en indien de ver
 ### Artikel  8  
 
 1.  Aan de rechterlijke ambtenaren, verbonden aan gerechten van het Europese deel van Nederland of van enig land, waarmee een overeenkomst bestaat betreffende de uitwisseling van gegevens over strafrechtelijke veroordelingen, worden inlichtingen verstrekt uit het strafkaartsysteem, alsmede over gegevens, die in de strafregisters zijn opgenomen of daarin opgenomen zijn geweest. Voorts kunnen inlichtingen worden verstrekt omtrent aanhangige strafzaken.   
-2.  De inlichtingen, bedoeld in het vorige lid, kan de procureur-generaal tevens verstrekken aan andere buitenlandse rechterlijke ambtenaren, indien dit naar zijn oordeel wenselijk is in het belang van een juiste rechtsbedeling.   
+2.  De inlichtingen, bedoeld in het vorige lid, kan de procureur-generaal tevens verstrekken aan andere buitenlandse rechterlijke ambtenaren, indien dit naar zijn oordeel wenselijk is in het belang van een juiste rechtsbedeling.  
 
 ### Artikel  9  
 
@@ -73,7 +73,7 @@ Als instellingen en personen als bedoeld in [artikel 12, derde lid van de Wet op
 
 a. de Stichting Reclassering en Justitiabelenzorg Bonaire, Sint Eustatius en Saba;  
 
-b. de psychiaters en psychologen, aan wie door de rechter of het openbaar ministerie het uitbrengen van rapport wordt opgedragen.    
+b. de psychiaters en psychologen, aan wie door de rechter of het openbaar ministerie het uitbrengen van rapport wordt opgedragen.   
 
 ### Artikel  10  
 
@@ -103,12 +103,12 @@ k. de toezichtautoriteit met het oog op de uitvoering van de wettelijke geregeld
 
 l. de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba ten behoeve van het dienen van advies inzake de benoeming van gezaghebbers;  
 
-m. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties ten behoeve van de voordracht voor benoeming van de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba.    
+m. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties ten behoeve van de voordracht voor benoeming van de Rijksvertegenwoordiger voor de openbare lichamen Bonaire, Sint Eustatius en Saba.   
 
 ### Artikel  11  
 
 1.  Indien op grond van het bepaalde in het voorgaande artikel inlichtingen worden gevraagd en de procureur-generaal bevindt, dat de persoon op wie het verzoek om inlichtingen betrekking heeft, wordt verdacht van een strafbaar feit, dat zou kunnen leiden tot een strafrechtelijke beslissing, die bij de beoordeling van de te verstrekken inlichtingen in aanmerking zou worden genomen, is de procureur-generaal, indien hij daartoe gronden aanwezig acht, bevoegd aan degene die het verzoek om inlichtingen heeft gedaan, mede te delen, dat nog een strafzaak hangende is.   
-2.  De door de procureur-generaal te verstrekken inlichtingen kunnen mede omvatten de gegevens, die in de strafregisters opgenomen zijn geweest.   
+2.  De door de procureur-generaal te verstrekken inlichtingen kunnen mede omvatten de gegevens, die in de strafregisters opgenomen zijn geweest.  
 
 ### Hoofdstuk  IV  
 
@@ -116,20 +116,20 @@ m. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties ten behoeve van d
 
 ### Artikel  12  
 
-De uittreksels uit de strafregisters ten dienste van de afgifte van de verklaringen omtrent het gedrag worden de gezaghebbers verstrekt door middel van een door of namens de procureur-generaal gewaarmerkt afschrift of een gewaarmerkte fotokopie van de voorzijde van het strafblad.  
+De uittreksels uit de strafregisters ten dienste van de afgifte van de verklaringen omtrent het gedrag worden de gezaghebbers verstrekt door middel van een door of namens de procureur-generaal gewaarmerkt afschrift of een gewaarmerkte fotokopie van de voorzijde van het strafblad. 
 
 ### Artikel  13  
 
-Het model van de verklaring omtrent het gedrag wordt vastgesteld als aangegeven in de bijlagen II, III en IV, respectievelijk in de Nederlandse, de Engelse en de Spaanse taal.  
+Het model van de verklaring omtrent het gedrag wordt vastgesteld als aangegeven in de bijlagen II, III en IV, respectievelijk in de Nederlandse, de Engelse en de Spaanse taal. 
 
 ### Artikel  14  
 
 1.  Het formulier, houdende het verzoek tot afgifte van een verklaring omtrent het gedrag, wordt vastgesteld als aangegeven in bijlage V.   
-2.  Indien een verzoek tot afgifte van een verklaring omtrent het gedrag door een aanvrager die buiten één van de openbare lichamen Bonaire, Sint Eustatius of Saba verblijft waar hij in het bevolkingsregister is opgenomen of opgenomen geweest, bij brief wordt gedaan, vult de gezaghebber het in het vorige lid bedoelde formulier ambtshalve in, mits de brief van de aanvrager diens handtekening draagt en voldoende gegevens bevat.   
+2.  Indien een verzoek tot afgifte van een verklaring omtrent het gedrag door een aanvrager die buiten één van de openbare lichamen Bonaire, Sint Eustatius of Saba verblijft waar hij in het bevolkingsregister is opgenomen of opgenomen geweest, bij brief wordt gedaan, vult de gezaghebber het in het vorige lid bedoelde formulier ambtshalve in, mits de brief van de aanvrager diens handtekening draagt en voldoende gegevens bevat.  
 
 ### Artikel  15  
 
-Deze regeling wordt aangehaald als: Regeling justitiële documentatie en verklaringen omtrent het gedrag BES.  
+Deze regeling wordt aangehaald als: Regeling justitiële documentatie en verklaringen omtrent het gedrag BES. 
 
 ### Bijlage  I  
 

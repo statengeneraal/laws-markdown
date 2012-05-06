@@ -91,8 +91,8 @@ Deze circulaire zal worden gepubliceerd in de Staatscourant. De circulaire MG 20
 Hoogachtend, 
 
 de 
-Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-S.M.Dekker  
+Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
+S.M. Dekker    
 
 ### Bijlage  I  
 
@@ -1292,7 +1292,7 @@ S.M.Dekker
 
 ####(inflatie 2005, 1,7%)
 
-| Maximale huurprijsgrenzen voor standplaatsen per 1 juli 2006  | Punten  | Bedrag  |
+|  Maximale huurprijsgrenzen voor standplaatsen per 1 juli 2006   | Punten  | Bedrag  |
 |:---|:---|:---|
 | 1  | 4,16  |
 | 2  | 8,32  |
@@ -1550,7 +1550,7 @@ S.M.Dekker
 
 Tot 1 januari 2007 blijft de huidige liberalisatiegrens van toepassing. Onderstaand treft u de tabel aan waarin de huurliberalisatiegrenzen zijn opgenomen aangevuld met de grens per 1 juli 2006.   Tabel huurliberalisatiegrenzen 
 
-| Huurliberalisatiegrens  | Interim-maatregel  | Nieuwe maatregel  | Jaargang  | Huurprijs  | Jaargang  | Huurprijs  |
+| Huurliberalisatiegrens  | Interim-maatregel  | Nieuwe maatregel  | Jaargang  | Huurprijs  | Jaargang  |  Huurprijs  |
 |:---|:---|:---|:---|:---|:---|:---|
 | 1989  | > ƒ 750,00 (€ 340,34)  | --- | --- |
 | 1990  | > ƒ 775,00 (€ 351,68)  | --- | --- |

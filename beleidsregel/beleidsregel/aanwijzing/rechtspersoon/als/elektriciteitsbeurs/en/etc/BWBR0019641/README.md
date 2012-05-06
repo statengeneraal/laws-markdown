@@ -16,11 +16,11 @@ b. de wet: de [Elektriciteitswet 1998](../../../../../../../../../wet/elektricit
 
 c. elektriciteitsbeurs: een beurs als bedoeld in [artikel 86e van de wet](../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md);  
 
-d. reglement: het beursreglement, bedoeld in [artikel 86e, tweede lid, van de wet](../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md).    
+d. reglement: het beursreglement, bedoeld in [artikel 86e, tweede lid, van de wet](../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md).   
 
 ### Artikel  2  
 
-De minister wijst een rechtspersoon die overeenkomstig artikel 3 een aanvraag heeft ingediend als elektriciteitsbeurs aan en keurt het reglement goed als die rechtspersoon aan de in artikel 4 gestelde criteria voldoet.  
+De minister wijst een rechtspersoon die overeenkomstig artikel 3 een aanvraag heeft ingediend als elektriciteitsbeurs aan en keurt het reglement goed als die rechtspersoon aan de in artikel 4 gestelde criteria voldoet. 
 
 ### Artikel  3  
 
@@ -28,7 +28,7 @@ Onverminderd [artikel 4:2 van de Algemene wet bestuursrecht](../../../../../../.
 
 a. het reglement;  
 
-b. de statuten.    
+b. de statuten.   
 
 ### Artikel  4  
 
@@ -44,15 +44,15 @@ d. voldoende voorzieningen zijn getroffen om de vertrouwelijkheid van gegevens d
 
 e. voldoende voorzieningen zijn getroffen om manipulatie, malversatie of het nemen van onverantwoorde risico’s door marktdeelnemers te voorkomen;  
 
-f. de praktische uitvoerbaarheid van de elektriciteitsbeurs voldoende is gewaarborgd.    
+f. de praktische uitvoerbaarheid van de elektriciteitsbeurs voldoende is gewaarborgd.   
 
 ### Artikel  5  
 
-Deze beleidsregel is ook van toepassing op aanvragen die zijn ingediend vóór het tijdstip van inwerkingtreding van deze beleidsregel, maar waarop op dat tijdstip niet is beslist.  
+Deze beleidsregel is ook van toepassing op aanvragen die zijn ingediend vóór het tijdstip van inwerkingtreding van deze beleidsregel, maar waarop op dat tijdstip niet is beslist. 
 
 ### Artikel  6  
 
-Deze beleidsregel treedt in werking op de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze beleidsregel treedt in werking op de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze beleidsregel wordt met de toelichting in de Staatscourant geplaatst.   
 
 Den Haag 
@@ -60,4 +60,4 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-L.J.Brinkhorst   
+L.J. Brinkhorst     

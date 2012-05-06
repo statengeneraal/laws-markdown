@@ -8,17 +8,17 @@ Besluit:
 
 ### Artikel  1  
 
-De [Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Aruba](../../../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0027122/README.md) wordt bekendgemaakt door plaatsing op de website van het Kabinet van de Gouverneur van Aruba, www.kabga.aw.  
+De [Handleiding voor de toepassing van de Rijkswet op het Nederlanderschap 2003 toegespitst op het gebruik in Aruba](../../../../../../../../../../../../../../../circulaire/handleiding/rijkswet/op/het/nederlanderschap/2003/toegespitst/op/het/etc/BWBR0027122/README.md) wordt bekendgemaakt door plaatsing op de website van het Kabinet van de Gouverneur van Aruba, www.kabga.aw. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag van publicatie en werkt terug tot 1 april 2010.  
+Dit besluit treedt in werking met ingang van de dag van publicatie en werkt terug tot 1 april 2010. 
 Dit besluit wordt met de toelichting in de Staatscourant en de Landscourant van Aruba geplaatst.   
 
 ’s-Gravenhage 
 1 juli 2010   
 
 De 
-Minister van Justitie van het Koninkrijk,namens deze:
-de directeur-generaal Wetgeving, Internationale Aangelegenheden en Vreemdelingenzaken,
-R.K.Visser   
+Minister van Justitie van het Koninkrijk, namens deze: 
+de directeur-generaal Wetgeving, Internationale Aangelegenheden en Vreemdelingenzaken, 
+R.K. Visser     

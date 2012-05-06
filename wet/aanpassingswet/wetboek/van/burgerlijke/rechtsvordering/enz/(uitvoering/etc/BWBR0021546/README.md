@@ -11,47 +11,47 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.   
+Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
 ### Artikel  II  
 
-Wijzigt de Auteurswet 1912.   
+Wijzigt de Auteurswet 1912.
 
 ### Artikel  III  
 
-Wijzigt de Wet op de naburige rechten.   
+Wijzigt de Wet op de naburige rechten.
 
 ### Artikel  IV  
 
-Wijzigt de Databankenwet.   
+Wijzigt de Databankenwet.
 
 ### Artikel  V  
 
-Wijzigt de Handelsnaamwet.   
+Wijzigt de Handelsnaamwet.
 
 ### Artikel  VI  
 
-Wijzigt de Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten.   
+Wijzigt de Wet bescherming oorspronkelijke topografieën van halfgeleiderprodukten.
 
 ### Artikel  VII  
 
-Wijzigt de Zaaizaad- en plantgoedwet 2005.   
+Wijzigt de Zaaizaad- en plantgoedwet 2005.
 
 ### Artikel  VIII  
 
-Wijzigt de Landbouwkwaliteitswet.   
+Wijzigt de Landbouwkwaliteitswet.
 
 ### Artikel  VIIIa  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.
 
 ### Artikel  IX  
 
-Deze wet is niet van toepassing op procedures waarvan de dagvaarding of het verzoekschrift vóór of op de dag van inwerkingtreding ervan is uitgebracht.  
+Deze wet is niet van toepassing op procedures waarvan de dagvaarding of het verzoekschrift vóór of op de dag van inwerkingtreding ervan is uitgebracht. 
 
 ### Artikel  X  
 
-Deze wet treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -59,13 +59,13 @@ Gegeven te ’s-Gravenhage
 8 maart 2007  
 Beatrix  
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin 
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin   
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit, 
-G.Verburg 
+De Minister van Landbouw, Natuur en Voedselkwaliteit , 
+G. Verburg   
 
 de *tweeëntwintigste* maart 2007 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

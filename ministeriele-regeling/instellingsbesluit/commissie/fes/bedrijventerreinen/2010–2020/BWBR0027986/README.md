@@ -10,17 +10,17 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *commissie:* de Commissie FES Bedrijventerreinen 2010–2020;  
+a.  *commissie:* de Commissie FES Bedrijventerreinen 2010–2020;  
 
-b. *minister:* de Minister van Economische Zaken;  
+b.  *minister:* de Minister van Economische Zaken;  
 
-c. *convenant :* het Convenant Bedrijventerreinen 2010–2020, Stcrt. 2010, 3961;  
+c.  *convenant :* het Convenant Bedrijventerreinen 2010–2020, Stcrt. 2010, 3961;  
 
-d. *projectvoorstel:* een voorstel voor herstructurering van een bedrijventerrein als bedoeld in artikel 6, onderdeel f, van het convenant;  
+d.  *projectvoorstel:* een voorstel voor herstructurering van een bedrijventerrein als bedoeld in artikel 6, onderdeel f, van het convenant;  
 
-e. *FES:* Fonds Economische Structuurversterking;  
+e.  *FES:* Fonds Economische Structuurversterking;  
 
-f. *beoordelingscriteria:* de criteria gesteld aan te herstructureren bedrijventerreinen om in aanmerking te komen voor een bijdrage uit FES als bedoeld in de brief van de minister en de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aan de Tweede Kamer der Staten Generaal van 3 december 2009, Kamerstukken II 2009/10, 31 253, nr. 22.    
+f.  *beoordelingscriteria:* de criteria gesteld aan te herstructureren bedrijventerreinen om in aanmerking te komen voor een bijdrage uit FES als bedoeld in de brief van de minister en de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer aan de Tweede Kamer der Staten Generaal van 3 december 2009, Kamerstukken II 2009/10, 31 253, nr. 22.   
 
 ### Artikel  2  
 
@@ -49,7 +49,7 @@ c. betrekking heeft op een bedrijventerrein dat kosteneffectief geherstructureer
 d. gericht is op het verbeteren van de kwaliteit van de ruimte en omgeving van het te herstructureren bedrijventerrein;  
 
 e. door de herstructurering van het bedrijventerrein bijdraagt aan een positieve maatschappelijke welvaart.     
-4.  De commissie heeft tot taak de projectvoorstellen na de beoordeling, bedoeld in het tweede en derde lid, te rangschikken naar prioriteit en kosteneffectiviteit.   
+4.  De commissie heeft tot taak de projectvoorstellen na de beoordeling, bedoeld in het tweede en derde lid, te rangschikken naar prioriteit en kosteneffectiviteit.  
 
 ### Artikel  3  
 
@@ -63,34 +63,34 @@ a. de heer ir. J.D. Doets, te Amsterdam;
 
 b. de heer drs. H.J. Hamer, te Leidschendam;  
 
-c. de heer drs. C.J. Moolenburgh, te Bilthoven.     
+c. de heer drs. C.J. Moolenburgh, te Bilthoven.    
 
 ### Artikel  4  
 
-De leden van de commissie ontvangen een vergoeding per vergadering van € 256,24.  
+De leden van de commissie ontvangen een vergoeding per vergadering van € 256,24. 
 
 ### Artikel  5  
 
 1.  De commissie vergadert ten minste tweemaal.   
-2.  De commissie stelt haar eigen werkwijze vast.   
+2.  De commissie stelt haar eigen werkwijze vast.  
 
 ### Artikel  6  
 
 1.  De minister voorziet in het secretariaat van de commissie.   
-2.  Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken. De bescheiden worden na beëindiging van de werkzaamheden van de commissie opgeborgen in het archief van dat ministerie.   
+2.  Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken. De bescheiden worden na beëindiging van de werkzaamheden van de commissie opgeborgen in het archief van dat ministerie.  
 
 ### Artikel  7  
 
-Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 28 juni 2010.  
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 28 juni 2010. 
 
 ### Artikel  8  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Commissie FES Bedrijventerreinen 2010–2020.  
+Dit besluit wordt aangehaald als: Instellingsbesluit Commissie FES Bedrijventerreinen 2010–2020. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.   
 
 Den Haag 
 20 juli 2010   
 
 De 
-Minister van Economische Zaken,
-M.J.A. van derHoeven   
+Minister van Economische Zaken, 
+M.J.A. van der Hoeven     

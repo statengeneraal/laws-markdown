@@ -11,19 +11,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet bodembescherming.   
+Wijzigt de Wet bodembescherming. 
 
 ### Artikel  II  
 
-Op het tijdstip waarop deze wet in werking is getreden, draagt het Service Centrum Grond alle archiefbescheiden, met betrekking tot de taken die het Service Centrum Grond bij de [Wet bodembescherming](../../../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) waren opgedragen tot het tijdstip van inwerkingtreding van deze wet, over aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.  
+Op het tijdstip waarop deze wet in werking is getreden, draagt het Service Centrum Grond alle archiefbescheiden, met betrekking tot de taken die het Service Centrum Grond bij de [Wet bodembescherming](../../../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) waren opgedragen tot het tijdstip van inwerkingtreding van deze wet, over aan Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. 
 
 ### Artikel  III  
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  IV  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

@@ -27,7 +27,7 @@ f. ERP: Effective Radiated Power;
 
 g. installatie: de apparatuur van verzoeker, met inbegrip van antenneconstructies, antennesystemen, antennes en bijbehorende voorzieningen, die zijn bestemd om door de verzoeker te worden gebruikt voor het verspreiden of ontvangen van signalen ten behoeve van het openbaar elektronisch communicatienetwerk dat bestaat uit radiozendapparaten die geschikt zijn voor het verspreiden van programma’s;  
 
-h. installatievoorstel: het voorstel dat verzoeker doet in het kader van een verzoek tot medegebruik dat bestaat uit een technische beschrijving van de op het antenne-opstelpunt van de ontvanger aan te brengen installatie met een onderbouwing van de technische mogelijkheden voor medegebruik.    
+h. installatievoorstel: het voorstel dat verzoeker doet in het kader van een verzoek tot medegebruik dat bestaat uit een technische beschrijving van de op het antenne-opstelpunt van de ontvanger aan te brengen installatie met een onderbouwing van de technische mogelijkheden voor medegebruik.   
 
 ### Paragraaf  2  
 
@@ -43,7 +43,7 @@ b. het adres van de locatie van het antenne-opstelpunt dan wel de coördinaten v
 
 c. een beschrijving van de frequenties waarop het verzoek betrekking heeft, de beoogde dekking van de frequenties en de polarisatie van het signaal;  
 
-d. het beoogde vermogen op de antenne-aansluiting in kilowatt en het beoogde maximale uitgezonden vermogen in hoofdstraalrichting of ERP in kilowatt;  
+d. het beoogde vermogen op de antenne-aansluiting in kilowatt en het beoogde maximale uitgezonden vermogen in hoofdstraalrichting of ERP in kilowatt;   
 
 e. de verwachte gevolgen van het verzoek voor de milieubelasting en de arbeidsomstandigheden, waarbij in ieder geval wordt aangegeven: 
 
@@ -80,11 +80,11 @@ d. de vloerbelasting;
 
 e. het soort bevestiging;  
 
-f. de tekening van het kabeltracé.     
+f. de tekening van het kabeltracé.    
 
 ### Paragraaf  3  
 
-####Te verstrekken gegevens voorafgaand aan een verzoek om medegebruik
+####Te verstrekken gegevens voorafgaand aan een verzoek om medegebruik 
 
 ### Artikel  3  
 
@@ -191,7 +191,7 @@ a. de schema’s van de filtersectie, met opgaaf van het merk en type van de geb
 
 b. de gegevens betreffende de vermogensverdelers per frequentie met opgaaf van het merk en type van de gebruikte verdelers;  
 
-c. de gegevens betreffende de faseverdeler per frequentie met opgaaf van de faseverdeling.     
+c. de gegevens betreffende de faseverdeler per frequentie met opgaaf van de faseverdeling.    
 
 ### Paragraaf  4  
 
@@ -199,16 +199,16 @@ c. de gegevens betreffende de faseverdeler per frequentie met opgaaf van de fase
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang van 15 oktober 2003.  
+Deze regeling treedt in werking met ingang van 15 oktober 2003. 
 
 ### Artikel  5  
 
-Deze regeling wordt aangehaald als: Regeling gegevensverstrekking medegebruik omroepzendernetwerken.  
+Deze regeling wordt aangehaald als: Regeling gegevensverstrekking medegebruik omroepzendernetwerken. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 29 september 2003    
 
 De 
-Minister van Economische Zaken
-L.J.Brinkhorst    
+Minister van Economische Zaken 
+L.J. Brinkhorst      

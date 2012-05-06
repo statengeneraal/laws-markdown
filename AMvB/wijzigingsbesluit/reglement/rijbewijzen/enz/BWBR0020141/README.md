@@ -15,24 +15,24 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Reglement rijbewijzen.   
+Wijzigt het Reglement rijbewijzen.
 
 ### Artikel  II  
 
-Wijzigt het Kentekenreglement.   
+Wijzigt het Kentekenreglement.
 
 ### Artikel  III  
 
-Wijzigt dit besluit en het Wijzigingsbesluit Reglement rijbewijzen, enz. (implementatie richtlijn 91/439/EEG) (Stb. 2004/483).   
+Wijzigt dit besluit en het Wijzigingsbesluit Reglement rijbewijzen, enz. (implementatie richtlijn 91/439/EEG) (Stb. 2004/483).
 
 ### Artikel  IV  
 
-De [artikelen 33, eerste lid, onderdeel b, onder III](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md); [45, eerste lid, onderdeel b, onder IV, tweede en vierde lid](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md); [47, eerste lid, onderdeel c, onder IV, en tweede lid](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md); [48, eerste lid, onderdeel c, onder IV, en tweede lid](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md); [49, tweede lid](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md); [145, onderdelen g en p](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), en [152, van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), alsmede de [artikelen 25a, tweede lid, derde lid, onderdeel a, en vierde lid](../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md); [28a, tweede lid, derde lid, onderdeel a, en vierde lid](../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), en [58e, tweede lid, derde lid, onderdeel a, en vierde lid, van het Kentekenreglement](../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), zoals die artikelen luidden vóór het tijdstip van inwerkingtreding van artikel I, onderdelen D, onder 1, H, I, J, K, P, onder 2 en 3, en R, en artikel II van dit besluit, blijven van kracht ten aanzien van rijbewijzen, afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Gemeenschappen of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, die voor 29 december 2004 zijn geregistreerd in het rijbewijzenregister.  
+De [artikelen 33, eerste lid, onderdeel b, onder III](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md); [45, eerste lid, onderdeel b, onder IV, tweede en vierde lid](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md); [47, eerste lid, onderdeel c, onder IV, en tweede lid](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md); [48, eerste lid, onderdeel c, onder IV, en tweede lid](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md); [49, tweede lid](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md); [145, onderdelen g en p](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), en [152, van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), alsmede de [artikelen 25a, tweede lid, derde lid, onderdeel a, en vierde lid](../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md); [28a, tweede lid, derde lid, onderdeel a, en vierde lid](../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), en [58e, tweede lid, derde lid, onderdeel a, en vierde lid, van het Kentekenreglement](../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md), zoals die artikelen luidden vóór het tijdstip van inwerkingtreding van artikel I, onderdelen D, onder 1, H, I, J, K, P, onder 2 en 3, en R, en artikel II van dit besluit, blijven van kracht ten aanzien van rijbewijzen, afgegeven door het daartoe bevoegde gezag in een andere lidstaat van de Europese Gemeenschappen of in een andere Staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, die voor 29 december 2004 zijn geregistreerd in het rijbewijzenregister. 
 
 ### Artikel  V  
 
 1.  De artikelen I, onderdelen A tot en met P en R tot en met T, II, III en IV treden in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.   
-2.  Artikel I, onderdeel Q treedt in werking op een bij koninklijk besluit te bepalen tijdstip.   
+2.  Artikel I, onderdeel Q treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -40,10 +40,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 7 augustus 2006  
 Beatrix  
 
-De Minister van Verkeer en Waterstaat, 
-K. M. H.Peijs 
+De Minister van Verkeer en Waterstaat , 
+K. M. H. Peijs   
 
 de *vierentwintigste* augustus 2006 
 
-De Minister van Justitie, 
-J. P. H.Donner  
+De Minister van Justitie , 
+J. P. H. Donner    

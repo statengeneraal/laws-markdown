@@ -17,28 +17,28 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. *Onze Minister:* Onze Minister van Justitie;  
+a.  *Onze Minister:* Onze Minister van Justitie;  
 
-b. *register:* het landelijk openbaar register, bedoeld in [artikel 51k van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), met als volledige benaming het Nederlands register gerechtelijk deskundigen;  
+b.  *register:* het landelijk openbaar register, bedoeld in [artikel 51k van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), met als volledige benaming het Nederlands register gerechtelijk deskundigen;  
 
-c. *geregistreerde deskundige:* degene die als deskundige in het register is ingeschreven;  
+c.  *geregistreerde deskundige:* degene die als deskundige in het register is ingeschreven;  
 
-d. *het College:* het College, bedoeld in artikel 3;  
+d.  *het College:* het College, bedoeld in artikel 3;  
 
-e. *de secretaris:* de secretaris van het College, bedoeld in artikel 10;  
+e.  *de secretaris:* de secretaris van het College, bedoeld in artikel 10;  
 
-f. *het bureau:* het bureau ter ondersteuning van het College, bedoeld in artikel 11;  
+f.  *het bureau:* het bureau ter ondersteuning van het College, bedoeld in artikel 11;  
 
-g. *aanvrager:* degene die bij het College een aanvraag tot registratie heeft ingediend.    
+g.  *aanvrager:* degene die bij het College een aanvraag tot registratie heeft ingediend.   
 
 ### Artikel  2  
 
-Het register heeft ten doel de gebruikmaking van deskundigen in strafzaken, die naar het oordeel van het College gerechtelijk deskundigen voldoen aan de in artikel 12, tweede lid, genoemde kwaliteitseisen, te bevorderen door de gegevens van deze deskundigen, voor zover zij relevant zijn voor potentiële opdrachtgevers, bijeen te brengen en openbaar te maken.  
+Het register heeft ten doel de gebruikmaking van deskundigen in strafzaken, die naar het oordeel van het College gerechtelijk deskundigen voldoen aan de in artikel 12, tweede lid, genoemde kwaliteitseisen, te bevorderen door de gegevens van deze deskundigen, voor zover zij relevant zijn voor potentiële opdrachtgevers, bijeen te brengen en openbaar te maken. 
 
 ### Artikel  3  
 
 1.  Er is een College gerechtelijk deskundigen.   
-2.  Het College is gevestigd te Utrecht.   
+2.  Het College is gevestigd te Utrecht.  
 
 ### Artikel  4  
 
@@ -50,7 +50,7 @@ b. te bevorderen dat per deskundigheidsgebied specifieke eisen worden opgesteld 
 
 c. het vaststellen van een gedragscode die de gedragsregels bevat waaraan de geregistreerde deskundige zich dient te houden;  
 
-d. het in overleg met de secretaris vaststellen van de door het bureau ter ondersteuning van de werkzaamheden van het College te verrichten activiteiten.    
+d. het in overleg met de secretaris vaststellen van de door het bureau ter ondersteuning van de werkzaamheden van het College te verrichten activiteiten.   
 
 ### Artikel  5  
 
@@ -65,37 +65,37 @@ c. één advocaat;
 
 d. één politiefunctionaris en  
 
-e. drie gerechtelijke deskundigen.     
+e. drie gerechtelijke deskundigen.    
 
 ### Artikel  6  
 
 1.  Het College verricht zijn taken op onpartijdige en onafhankelijke wijze.   
 2.  Elk van de leden die een aanvraag behandelt, kan zich verschonen indien zich naar zijn oordeel feiten of omstandigheden voordoen die onverenigbaar zijn met zijn onpartijdigheid of onafhankelijkheid.   
-3.  Indien het bepaalde in het tweede lid toepassing heeft gevonden, beslist het College in een samenstelling waarvan het lid dat zich heeft verschoond, geen deel uitmaakt.   
+3.  Indien het bepaalde in het tweede lid toepassing heeft gevonden, beslist het College in een samenstelling waarvan het lid dat zich heeft verschoond, geen deel uitmaakt.  
 
 ### Artikel  7  
 
 1.  Het College bepaalt zijn eigen werkwijze.   
 2.  Het College stelt maatstaven op aan de hand waarvan per deskundigheidsgebied wordt beoordeeld of een aanvraag voldoet aan de in artikel 14, eerste en tweede lid, bedoelde eisen, en maakt deze openbaar.   
 3.  Het College benoemt een toetsingscommissie, en kan ook uit zijn midden commissies samenstellen en belasten met de uitoefening van bepaalde taken.   
-4.  Het College alsmede de door het College ingestelde commissies kunnen zich door personen die niet tot het College behoren doen bijstaan, voor zover dat voor de vervulling van hun taken nodig is. Deze personen kunnen van die commissies deel uitmaken.   
+4.  Het College alsmede de door het College ingestelde commissies kunnen zich door personen die niet tot het College behoren doen bijstaan, voor zover dat voor de vervulling van hun taken nodig is. Deze personen kunnen van die commissies deel uitmaken.  
 
 ### Artikel  8  
 
 1.  Onze Minister benoemt, behalve bij gelegenheid van de instelling van het College, op voordracht van het College de voorzitter en de leden, bedoeld in artikel 5, tweede lid, onderdeel a tot en met d.   
 2.  Onze Minister benoemt op voordracht van het College tevens zoveel plaatsvervangende leden van de in artikel 5, tweede lid, onderscheiden leden worden benoemd als nodig is.   
 3.  De benoeming van de leden en plaatsvervangende leden van het College geschiedt voor de tijd van vier jaar, behoudens de mogelijkheid van eerder ontslag. Zij kunnen eenmaal voor gelijke termijn worden herbenoemd. Het lidmaatschap eindigt bij het bereiken van de leeftijd van zeventig jaar.   
-4.  Onze Minister stelt de vergoeding van reis- en verblijfkosten vast aan degenen die op verzoek van het College op grond van artikel 7, vierde lid, bijstand verlenen, voor zover zij niet in dienst zijn van het Rijk.   
+4.  Onze Minister stelt de vergoeding van reis- en verblijfkosten vast aan degenen die op verzoek van het College op grond van artikel 7, vierde lid, bijstand verlenen, voor zover zij niet in dienst zijn van het Rijk.  
 
 ### Artikel  9  
 
 1.  Het College stelt een bestuursreglement vast. Dit bevat in ieder geval regels over werkwijzen en procedures met het oog op een goede en zorgvuldige uitoefening van de taken van het College, de voorzitter, de secretaris en het bureau.   
-2.  Het College stelt jaarlijks voor 1 april een jaarplan op dat aan Onze Minister wordt toegezonden.   
+2.  Het College stelt jaarlijks voor 1 april een jaarplan op dat aan Onze Minister wordt toegezonden.  
 
 ### Artikel  10  
 
 1.  Het College heeft een secretaris en een bureau, waarvan de ambtenaren door Onze Minister op voordracht van de voorzitter worden benoemd, geschorst en ontslagen. De secretaris is geen lid van het College.   
-2.  De voorzitter geeft leiding aan de werkzaamheden van de secretaris en het bureau.   
+2.  De voorzitter geeft leiding aan de werkzaamheden van de secretaris en het bureau.  
 
 ### Artikel  11  
 
@@ -108,7 +108,7 @@ b. het voorbereiden en verrichten van de door het College overeenkomstig het bep
 
 c. het overeenkomstig de aanwijzingen van het College onderhouden van het register en verwerken van de beslissingen van het College inzake inschrijving, doorhaling en herinschrijving in het register alsmede het overeenkomstig het bepaalde in artikel 18, vierde lid, vernietigen van de door het College en het bureau verwerkte persoonsgegevens;  
 
-d. het desgewenst verstrekken van de in het register opgenomen gegevens en het fungeren als vraagbaak voor deskundigen en opdrachtgevers.     
+d. het desgewenst verstrekken van de in het register opgenomen gegevens en het fungeren als vraagbaak voor deskundigen en opdrachtgevers.    
 
 ### Artikel  12  
 
@@ -131,7 +131,7 @@ g. in staat is zowel schriftelijk als mondeling over de opdracht en elk ander re
 
 h. in staat is een opdracht te voltooien binnen de daarvoor gestelde of afgesproken termijn;  
 
-i. in staat is zijn werkzaamheden als deskundige onafhankelijk, onpartijdig, zorgvuldig, vakbekwaam en integer te verrichten;     
+i. in staat is zijn werkzaamheden als deskundige onafhankelijk, onpartijdig, zorgvuldig, vakbekwaam en integer te verrichten;    
 
 ### Artikel  13  
 
@@ -167,7 +167,7 @@ d. een beschrijving van de kwalificaties voor zover relevant voor de beoordeling
 
 e. vindplaats van voor de beoordeling van het verzoek relevante publicaties;  
 
-f. een vermelding van zaken waarin de aanvrager eerder als deskundige optrad.     
+f. een vermelding van zaken waarin de aanvrager eerder als deskundige optrad.    
 
 ### Artikel  14  
 
@@ -180,11 +180,11 @@ b. de aanvrager de aanvraag niet naar waarheid blijkt te hebben opgesteld;
 
 c. de aanvrager ingevolge een in kracht van gewijsde gegane rechterlijke uitspraak onder curatele is gesteld wegens een geestelijke stoornis;  
 
-d. een op grond van dit besluit jegens de aanvrager genomen beslissing tot doorhaling zich tegen hernieuwde inschrijving verzet.    In de overige gevallen wordt de aanvraag toegewezen.  
+d. een op grond van dit besluit jegens de aanvrager genomen beslissing tot doorhaling zich tegen hernieuwde inschrijving verzet.    In de overige gevallen wordt de aanvraag toegewezen. 
 
 ### Artikel  15  
 
-De geregistreerde deskundige ontvangt een bewijs van inschrijving.  
+De geregistreerde deskundige ontvangt een bewijs van inschrijving. 
 
 ### Artikel  16  
 
@@ -198,37 +198,37 @@ c. specifieke bekwaamheden waarvan de deskundige vermelding in het register wens
 
 d. datum waarop de deskundige voor het eerst is ingeschreven en data waarop de inschrijving eventueel is verlengd;  
 
-e. het feit dat het een onvoorwaardelijke dan wel voorwaardelijke inschrijving betreft.    
+e. het feit dat het een onvoorwaardelijke dan wel voorwaardelijke inschrijving betreft.   
 
 ### Artikel  17  
 
 1.  Inschrijving in het register vindt, behoudens voortijdige doorhaling overeenkomstig het bepaalde in artikel 18, telkens plaats voor een periode van vier jaar.   
 2.  Uiterlijk vier maanden voor ommekomst van de in het eerste lid genoemde termijn wordt de deskundige door het bureau schriftelijk gevraagd of hij in aanmerking wenst te komen voor herregistratie.   
-3.  Het bepaalde in de artikelen 13 tot en met 16 is van overeenkomstige toepassing op de herinschrijving.   
+3.  Het bepaalde in de artikelen 13 tot en met 16 is van overeenkomstige toepassing op de herinschrijving.  
 
 ### Artikel  18  
 
 1.  De inschrijving in het register wordt doorgehaald indien de desbetreffende deskundige naar het oordeel van het College niet langer voldoet aan de in artikel 12, tweede lid, genoemde eisen dan wel sprake is van een van de gronden tot afwijzing van de aanvraag, bedoeld in artikel 14, dan wel de deskundige niet langer in aanmerking wenst te komen voor registratie of herregistratie dan wel de deskundige is overleden.   
 2.  Indien de deskundige voor meer dan één deskundigheid in het register is ingeschreven, kan de doorhaling worden beperkt tot één of meer van de deskundigheden.   
 3.  Van een beschikking tot doorhaling wordt mededeling gedaan in de Staatscourant.   
-4.  Het College doet de met betrekking tot een deskundige verwerkte persoonsgegevens vernietigen zodra de beslissing tot afwijzing van de aanvraag, tot inschrijving of tot doorhaling van de inschrijving in het register van de desbetreffende deskundige onherroepelijk is geworden respectievelijk zo spoedig mogelijk na ontvangst van het bericht dat de deskundige niet langer in aanmerking wenst te komen voor registratie of herregistratie, of van het bericht dat de deskundige is overleden.   
+4.  Het College doet de met betrekking tot een deskundige verwerkte persoonsgegevens vernietigen zodra de beslissing tot afwijzing van de aanvraag, tot inschrijving of tot doorhaling van de inschrijving in het register van de desbetreffende deskundige onherroepelijk is geworden respectievelijk zo spoedig mogelijk na ontvangst van het bericht dat de deskundige niet langer in aanmerking wenst te komen voor registratie of herregistratie, of van het bericht dat de deskundige is overleden.  
 
 ### Artikel  19  
 
 1.  Een deskundige die niet aan het vereiste van artikel 12, tweede lid, onderdeel b, voldoet maar ten aanzien van wie naar het oordeel van het College redelijkerwijs kan worden verwacht dat hij daar binnen een periode van ten hoogste vier jaar wel aan zal voldoen, kan worden geregistreerd onder de voorwaarde dat hij binnen een door het College te bepalen termijn alsnog aan het desbetreffende vereiste voldoet. De artikelen 12 tot en met 17 zijn van overeenkomstige toepassing met dien verstande dat het College kan besluiten tot een kortere inschrijvingstermijn dan vier jaar. Het bepaalde in artikel 18 is van overeenkomstige toepassing met dien verstande dat doorhaling plaatsvindt indien de deskundige naar het oordeel van het College niet langer voldoet aan de in artikel 12, tweede lid, onderdelen a, c, d, e, f, g, h en i genoemde eisen.   
-2.  Een voorwaardelijke inschrijving vindt slechts eenmaal plaats voor een maximale duur van vier jaar.   
+2.  Een voorwaardelijke inschrijving vindt slechts eenmaal plaats voor een maximale duur van vier jaar.  
 
 ### Artikel  20  
 
-Alvorens een deskundige te benoemen, die niet is opgenomen in het register, beoordeelt de rechter diens geschiktheid om als zodanig op te treden zoveel mogelijk aan de hand van de in artikel 12, tweede lid, genoemde kwaliteitseisen.  
+Alvorens een deskundige te benoemen, die niet is opgenomen in het register, beoordeelt de rechter diens geschiktheid om als zodanig op te treden zoveel mogelijk aan de hand van de in artikel 12, tweede lid, genoemde kwaliteitseisen. 
 
 ### Artikel  21  
 
-Dit besluit treedt in werking op het tijdstip waarop de [Wet deskundige in strafzaken](../../../../../../../wet/wet/deskundige/in/strafzaken/BWBR0025251/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de [Wet deskundige in strafzaken](../../../../../../../wet/wet/deskundige/in/strafzaken/BWBR0025251/README.md) in werking treedt. 
 
 ### Artikel  22  
 
-Dit besluit kan worden aangehaald als: Besluit register deskundige in strafzaken.  
+Dit besluit kan worden aangehaald als: Besluit register deskundige in strafzaken. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -244,5 +244,5 @@ E. M. H. Hirsch Ballin
 
 de *dertigste* juli 2009 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin    

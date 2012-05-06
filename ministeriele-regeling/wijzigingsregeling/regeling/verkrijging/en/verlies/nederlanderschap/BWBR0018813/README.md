@@ -6,17 +6,17 @@ De Minister voor Vreemdelingenzaken en Integratie in zijn hoedanigheid van minis
 
 ### Artikel  I  
 
-Wijzigt de Regeling verkrijging en verlies Nederlanderschap.   
+Wijzigt de Regeling verkrijging en verlies Nederlanderschap. 
 
 ### Artikel  II  
 
-Het [eerste lid van artikel 5](../../../../../../../../ministeriele-regeling/regeling/verkrijging/en/verlies/nederlanderschap/BWBR0013506/README.md), zoals dat komt te luiden na inwerkingtreding van deze regeling is niet van toepassing op personen die voor de inwerkingtreding van deze regeling Nederlander zijn geworden.  
+Het [eerste lid van artikel 5](../../../../../../../../ministeriele-regeling/regeling/verkrijging/en/verlies/nederlanderschap/BWBR0013506/README.md), zoals dat komt te luiden na inwerkingtreding van deze regeling is niet van toepassing op personen die voor de inwerkingtreding van deze regeling Nederlander zijn geworden. 
 
 ### Artikel  III  
 
 1.  Deze regeling wordt met de toelichting in de Staatscourant gepubliceerd.   
-2.  Deze regeling treedt in werking op 1 januari 2006.   
+2.  Deze regeling treedt in werking op 1 januari 2006.  
 
 De 
 Minister voor Vreemdelingenzaken en Integratie, 
-M.C.F.Verdonk   
+M.C.F. Verdonk     

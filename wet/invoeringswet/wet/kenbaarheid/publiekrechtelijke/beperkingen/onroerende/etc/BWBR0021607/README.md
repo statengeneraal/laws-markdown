@@ -18,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-Wijzigt de Gemeentewet.   
+Wijzigt de Gemeentewet.
 
 ### §  2  
 
@@ -26,7 +26,7 @@ Wijzigt de Gemeentewet.
 
 ### Artikel  2  
 
-Wijzigt de Belemmeringenwet Landsverdediging.   
+Wijzigt de Belemmeringenwet Landsverdediging.
 
 ### §  3  
 
@@ -34,11 +34,11 @@ Wijzigt de Belemmeringenwet Landsverdediging.
 
 ### Artikel  3  
 
-Wijzigt de Natuurbeschermingswet 1998.   
+Wijzigt de Natuurbeschermingswet 1998.
 
 ### Artikel  4  
 
-Wijzigt de Wet agrarisch grondverkeer.   
+Wijzigt de Wet agrarisch grondverkeer.
 
 ### §  4  
 
@@ -46,7 +46,7 @@ Wijzigt de Wet agrarisch grondverkeer.
 
 ### Artikel  5  
 
-Wijzigt de Monumentenwet 1988.   
+Wijzigt de Monumentenwet 1988.
 
 ### §  5  
 
@@ -54,11 +54,11 @@ Wijzigt de Monumentenwet 1988.
 
 ### Artikel  6  
 
-Wijzigt de Belemmeringenwet Privaatrecht.   
+Wijzigt de Belemmeringenwet Privaatrecht.
 
 ### Artikel  7  
 
-Wijzigt de Luchtvaartwet.   
+Wijzigt de Luchtvaartwet.
 
 ### §  6  
 
@@ -66,7 +66,7 @@ Wijzigt de Luchtvaartwet.
 
 ### Artikel  8  
 
-Wijzigt de Opiumwet.   
+Wijzigt de Opiumwet.
 
 ### §  7  
 
@@ -74,23 +74,23 @@ Wijzigt de Opiumwet.
 
 ### Artikel  8a  
 
-Wijzigt de Kadasterwet.   
+Wijzigt de Kadasterwet.
 
 ### Artikel  8b  
 
-Wijzigt de Organisatiewet Kadaster.   
+Wijzigt de Organisatiewet Kadaster.
 
 ### Artikel  9  
 
-Wijzigt de Wet bodembescherming.   
+Wijzigt de Wet bodembescherming. 
 
 ### Artikel  10  
 
-Wijzigt de Wet voorkeursrecht gemeenten.   
+Wijzigt de Wet voorkeursrecht gemeenten. 
 
 ### Artikel  11  
 
-Wijzigt de Woningwet.   
+Wijzigt de Woningwet. 
 
 ### Hoofdstuk  2  
 
@@ -98,7 +98,7 @@ Wijzigt de Woningwet.
 
 ### Artikel  12  
 
-Wijzigt de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.   
+Wijzigt de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken. 
 
 ### Hoofdstuk  3  
 
@@ -106,28 +106,28 @@ Wijzigt de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.
 
 ### Artikel  13  
 
-1.   Wijzigt de Woningwet.    
-2.  [Artikel 100e, eerste lid, van de Woningwet](../../../../../../../../../wet/woningwet/BWBR0005181/README.md), zoals dat artikellid luidde voor 1 juli 2007, blijft van kracht ten aanzien van besluiten die op basis van [artikel 100e, tweede lid, van de Woningwet](../../../../../../../../../wet/woningwet/BWBR0005181/README.md), zoals dat artikellid luidde voor 1 juli 2007, zijn aangeboden ten behoeve van inschrijving in de openbare registers.   
+1. Wijzigt de Woningwet.  
+2. [Artikel 100e, eerste lid, van de Woningwet](../../../../../../../../../wet/woningwet/BWBR0005181/README.md), zoals dat artikellid luidde voor 1 juli 2007, blijft van kracht ten aanzien van besluiten die op basis van [artikel 100e, tweede lid, van de Woningwet](../../../../../../../../../wet/woningwet/BWBR0005181/README.md), zoals dat artikellid luidde voor 1 juli 2007, zijn aangeboden ten behoeve van inschrijving in de openbare registers.
 
 ### Artikel  13a  
 
 Indien het bij koninklijke boodschap van 5 januari 2004 ingediende voorstel van [wet tot wijziging van de Woningwet en enkele andere wetten (verbetering naleving, handhaafbaarheid en handhaving bouwregelgeving)](../../../../../../../../../wet/wijzigingswet/woningwet/enz./(verbetering/naleving/handhaafbaarheid/en/etc/BWBR0021058/README.md) (29 392), tot wet is verheven en in werking is getreden op het tijdstip dat deze wet in werking treedt, zijn ten aanzien van een aanschrijving als bedoeld in [artikel V, onder a, van die wijzigingswet](../../../../../../../../../wet/wijzigingswet/woningwet/enz./(verbetering/naleving/handhaafbaarheid/en/etc/BWBR0021058/README.md) de volgende artikelonderdelen van de [Woningwet](../../../../../../../../../wet/woningwet/BWBR0005181/README.md), zoals deze luidde tot het tijdstip van inwerkingtreding van [die wijzigingswet](../../../../../../../../../wet/wijzigingswet/woningwet/enz./(verbetering/naleving/handhaafbaarheid/en/etc/BWBR0021058/README.md), niet langer van kracht: 
 
-a. [artikel 28, vijfde lid](../../../../../../../../../wet/woningwet/BWBR0005181/README.md);  
+a.[artikel 28, vijfde lid](../../../../../../../../../wet/woningwet/BWBR0005181/README.md);
 
-b. [artikel 28, zesde lid](../../../../../../../../../wet/woningwet/BWBR0005181/README.md), voorzover daarbij het vijfde lid van toepassing wordt verklaard.    
+b.[artikel 28, zesde lid](../../../../../../../../../wet/woningwet/BWBR0005181/README.md), voorzover daarbij het vijfde lid van toepassing wordt verklaard.
 
 ### Artikel  14  
 
-De [Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](../../../../../../../../../wet/wet/kenbaarheid/publiekrechtelijke/beperkingen/onroerende/zaken/BWBR0016876/README.md) treedt in werking op het tijdstip waarop deze wet in werking treedt.  
+De [Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken](../../../../../../../../../wet/wet/kenbaarheid/publiekrechtelijke/beperkingen/onroerende/zaken/BWBR0016876/README.md) treedt in werking op het tijdstip waarop deze wet in werking treedt. 
 
 ### Artikel  15  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  16  
 
-Deze wet wordt aangehaald als: Invoeringswet Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken.  
+Deze wet wordt aangehaald als: Invoeringswet Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -135,13 +135,13 @@ Gegeven te ’s-Gravenhage
 5 maart 2007  
 Beatrix  
 
-De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J. M.Cramer 
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer , 
+J. M. Cramer   
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin 
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin   
 
 de *negenentwintigste* maart 2007 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

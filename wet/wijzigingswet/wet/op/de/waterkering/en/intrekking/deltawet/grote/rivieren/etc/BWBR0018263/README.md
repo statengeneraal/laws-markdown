@@ -7,90 +7,90 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
 Alzo Wij in overweging genomen hebben, dat het wenselijk is de [Wet op de waterkering](../../../../../../../../../../../../../wet/wet/op/de/waterkering/BWBR0007801/README.md) te wijzigen in verband met de ervaringen die zijn opgedaan bij de toepassing ervan, en om op een aantal punten in de wet aanvullende voorzieningen te treffen, alsmede een aantal wetten in te trekken die nagenoeg zijn uitgewerkt;
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-### Artikel  I  
+###Artikel I 
 
-Wijzigt de Wet op de waterkering.   
+Wijzigt de Wet op de waterkering.
 
-### Artikel  II  
+###Artikel II 
 
-Toezending van een verslag als bedoeld in [artikel 3, vijfde lid, van de Wet op de waterkering](../../../../../../../../../../../../../wet/wet/op/de/waterkering/BWBR0007801/README.md), zoals dit artikellid luidt na inwerkingtreding van deze wet, geschiedt voor het eerst binnen drie jaar na inwerkingtreding van deze wet.  
+Toezending van een verslag als bedoeld in [artikel 3, vijfde lid, van de Wet op de waterkering](../../../../../../../../../../../../../wet/wet/op/de/waterkering/BWBR0007801/README.md), zoals dit artikellid luidt na inwerkingtreding van deze wet, geschiedt voor het eerst binnen drie jaar na inwerkingtreding van deze wet.
 
-### Artikel  III  
+###Artikel III 
 
-Wijzigt de Wet tegemoetkoming schade bij rampen en zware ongevallen.   
+Wijzigt de Wet tegemoetkoming schade bij rampen en zware ongevallen.
 
-### Artikel  IV  
+###Artikel IV 
 
-De [Deltawet grote rivieren](../../../../../../../../../../../../../wet/deltawet/grote/rivieren/BWBR0007338/README.md) wordt ingetrokken.  
+De [Deltawet grote rivieren](../../../../../../../../../../../../../wet/deltawet/grote/rivieren/BWBR0007338/README.md) wordt ingetrokken.
 
-### Artikel  V  
+###Artikel V 
 
-De [Deltawet](../../../../../../../../../../../../../wet/deltawet/BWBR0002283/README.md) wordt ingetrokken.  
+De [Deltawet](../../../../../../../../../../../../../wet/deltawet/BWBR0002283/README.md) wordt ingetrokken.
 
-### Artikel  VI  
+###Artikel VI 
 
-De [Deltaschadewet](../../../../../../../../../../../../../wet/deltaschadewet/BWBR0002748/README.md) wordt ingetrokken.  
+De [Deltaschadewet](../../../../../../../../../../../../../wet/deltaschadewet/BWBR0002748/README.md) wordt ingetrokken.
 
-### Artikel  VII  
+###Artikel VII 
 
-De [Wet schade oesterkwekers](../../../../../../../../../../../../../wet/wet/schade/oesterkwekers/BWBR0002538/README.md) wordt ingetrokken.  
+De [Wet schade oesterkwekers](../../../../../../../../../../../../../wet/wet/schade/oesterkwekers/BWBR0002538/README.md) wordt ingetrokken.
 
-### Artikel  VIII  
+###Artikel VIII 
 
-De [Vergunningwet Westerschelde](../../../../../../../../../../../../../wet/vergunningwet/westerschelde/BWBR0008748/README.md) wordt ingetrokken.  
+De [Vergunningwet Westerschelde](../../../../../../../../../../../../../wet/vergunningwet/westerschelde/BWBR0008748/README.md) wordt ingetrokken.
 
-### Artikel  IX  
+###Artikel IX 
 
-De Zuiderzeewet wordt ingetrokken.  
+De Zuiderzeewet wordt ingetrokken.
 
-### Artikel  X  
+###Artikel X 
 
-De [Zuiderzeesteunwet](../../../../../../../../../../../../../wet/zuiderzeesteunwet/1925/BWBR0001925/README.md) wordt ingetrokken.  
+De [Zuiderzeesteunwet](../../../../../../../../../../../../../wet/zuiderzeesteunwet/1925/BWBR0001925/README.md) wordt ingetrokken.
 
-### Artikel  XI  
+###Artikel XI 
 
-[Artikel 12, eerste lid, van de Wet op de waterkering](../../../../../../../../../../../../../wet/wet/op/de/waterkering/BWBR0007801/README.md), zoals dit luidde voor de inwerkingtreding van deze wet, blijft van toepassing met betrekking tot besluiten ten aanzien van bijdragen in de kosten van het uitvoeren van nieuwe of versterkingswerken om daarmee voor de eerste maal te voldoen aan de veiligheidsnorm bedoeld in [artikel 3, eerste lid, van de Wet op de waterkering](../../../../../../../../../../../../../wet/wet/op/de/waterkering/BWBR0007801/README.md).  
+[Artikel 12, eerste lid, van de Wet op de waterkering](../../../../../../../../../../../../../wet/wet/op/de/waterkering/BWBR0007801/README.md), zoals dit luidde voor de inwerkingtreding van deze wet, blijft van toepassing met betrekking tot besluiten ten aanzien van bijdragen in de kosten van het uitvoeren van nieuwe of versterkingswerken om daarmee voor de eerste maal te voldoen aan de veiligheidsnorm bedoeld in [artikel 3, eerste lid, van de Wet op de waterkering](../../../../../../../../../../../../../wet/wet/op/de/waterkering/BWBR0007801/README.md).
 
-### Artikel  XII  
+###Artikel XII 
 
-De [artikelen 17 tot en met 31 van de Wet op de waterkering](../../../../../../../../../../../../../wet/wet/op/de/waterkering/BWBR0007801/README.md), zoals deze luidden voor de inwerkingtreding van deze wet, blijven van toepassing met betrekking tot plannen en daarmee verband houdende besluiten ten aanzien van primaire waterkeringen als bedoeld in [artikel 17](../../../../../../../../../../../../../wet/wet/op/de/waterkering/BWBR0007801/README.md).  
+De [artikelen 17 tot en met 31 van de Wet op de waterkering](../../../../../../../../../../../../../wet/wet/op/de/waterkering/BWBR0007801/README.md), zoals deze luidden voor de inwerkingtreding van deze wet, blijven van toepassing met betrekking tot plannen en daarmee verband houdende besluiten ten aanzien van primaire waterkeringen als bedoeld in [artikel 17](../../../../../../../../../../../../../wet/wet/op/de/waterkering/BWBR0007801/README.md).
 
-### Artikel  XIII  
+###Artikel XIII 
 
-De [Deltawet](../../../../../../../../../../../../../wet/deltawet/BWBR0002283/README.md) blijft van toepassing met betrekking tot plannen en daarmee verband houdende besluiten ten aanzien van de werken bedoeld in [artikel 1, aanhef en onder II, van de Deltawet](../../../../../../../../../../../../../wet/deltawet/BWBR0002283/README.md).  
+De [Deltawet](../../../../../../../../../../../../../wet/deltawet/BWBR0002283/README.md) blijft van toepassing met betrekking tot plannen en daarmee verband houdende besluiten ten aanzien van de werken bedoeld in [artikel 1, aanhef en onder II, van de Deltawet](../../../../../../../../../../../../../wet/deltawet/BWBR0002283/README.md).
 
-### Artikel  XIV  
+###Artikel XIV 
 
-Ten aanzien van de verdere behandeling van beroepszaken op grond van de [Deltaschadewet](../../../../../../../../../../../../../wet/deltaschadewet/BWBR0002748/README.md) die op de datum van de inwerkingtreding van deze wet aanhangig zijn, alsmede ten aanzien van daaruit voortvloeiende besluiten, blijven de bepalingen van de [Deltaschadewet](../../../../../../../../../../../../../wet/deltaschadewet/BWBR0002748/README.md) van toepassing.  
+Ten aanzien van de verdere behandeling van beroepszaken op grond van de [Deltaschadewet](../../../../../../../../../../../../../wet/deltaschadewet/BWBR0002748/README.md) die op de datum van de inwerkingtreding van deze wet aanhangig zijn, alsmede ten aanzien van daaruit voortvloeiende besluiten, blijven de bepalingen van de [Deltaschadewet](../../../../../../../../../../../../../wet/deltaschadewet/BWBR0002748/README.md) van toepassing.
 
-### Artikel  XV  
+###Artikel XV 
 
-De [Zuiderzeesteunwet](../../../../../../../../../../../../../wet/zuiderzeesteunwet/1925/BWBR0001925/README.md) en het daarop gebaseerde [Zuiderzeesteunbesluit 1976](../../../../../../../../../../../../../AMvB/zuiderzeesteunbesluit/1976/BWBR0003032/README.md) blijven van toepassing ten aanzien van de rechthebbende op een geldelijke tegemoetkoming krachtens [artikel 13 van de Zuiderzeesteunwet](../../../../../../../../../../../../../wet/zuiderzeesteunwet/1925/BWBR0001925/README.md).  
+De [Zuiderzeesteunwet](../../../../../../../../../../../../../wet/zuiderzeesteunwet/1925/BWBR0001925/README.md) en het daarop gebaseerde [Zuiderzeesteunbesluit 1976](../../../../../../../../../../../../../AMvB/zuiderzeesteunbesluit/1976/BWBR0003032/README.md) blijven van toepassing ten aanzien van de rechthebbende op een geldelijke tegemoetkoming krachtens [artikel 13 van de Zuiderzeesteunwet](../../../../../../../../../../../../../wet/zuiderzeesteunwet/1925/BWBR0001925/README.md).
 
-### Artikel  XVI  
+###Artikel XVI 
 
-Wijzigt de Beroepswet.   
+Wijzigt de Beroepswet.
 
-### Artikel  XVII  
+###Artikel XVII 
 
-[Artikel 7 van de Wet op de waterkering](../../../../../../../../../../../../../wet/wet/op/de/waterkering/BWBR0007801/README.md) is niet van toepassing op de aanleg of versterking van kaden ter uitvoering van het project de Maaswerken.  
+[Artikel 7 van de Wet op de waterkering](../../../../../../../../../../../../../wet/wet/op/de/waterkering/BWBR0007801/README.md) is niet van toepassing op de aanleg of versterking van kaden ter uitvoering van het project de Maaswerken.
 
-### Artikel  XVIII  
+###Artikel XVIII 
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-Gegeven te 's-Gravenhage 
-28 april 2005  
-Beatrix  
+Gegeven te 's-Gravenhage
+28 april 2005
+Beatrix
 
-De Staatssecretaris van Verkeer en Waterstaat , 
-M. H. Schultz van Haegen-Maas Geesteranus   
+De Staatssecretaris van Verkeer en Waterstaat ,
+M. H.Schultz van Haegen-Maas Geesteranus
 
-de *zestiende* juni 2005 
+de *zestiende* juni 2005
 
-De Minister van Justitie , 
-J. P. H. Donner    
+De Minister van Justitie ,
+J. P. H.Donner

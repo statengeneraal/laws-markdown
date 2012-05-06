@@ -22,7 +22,7 @@ In dit besluit wordt verstaan onder:
 
 *bijstandsbericht:* een informatieverzoek als bedoeld in [artikel 23 van de Dienstenwet](../../../../../wet/dienstenwet/BWBR0026759/README.md) of een bericht dat tot afhandeling daarvan dient;  
 
-*procedurebericht:* een bericht dat op procedures en formaliteiten betrekking heeft.    
+*procedurebericht:* een bericht dat op procedures en formaliteiten betrekking heeft.   
 
 ### §  2  
 
@@ -42,7 +42,7 @@ d. de kans op onvoorziene storingen in de werking van het centraal loket zo klei
 
 e. indien op grond van [artikel 13, tweede lid, van de Dienstenwet](../../../../../wet/dienstenwet/BWBR0026759/README.md), bij ministeriële regeling regels worden gesteld inzake vernietigingstermijnen van via het centraal loket verzonden berichten, die binnen dit loket aanwezige berichten na het verstrijken van de daarop toepasselijke termijnen onverwijld worden vernietigd;  
 
-f. doorzending van berichten tussen bevoegde instanties via dat loket mogelijk is.    
+f. doorzending van berichten tussen bevoegde instanties via dat loket mogelijk is.   
 
 ### Artikel  3  
 
@@ -52,7 +52,7 @@ a. ieder via het centraal loket verzonden en aan hem geadresseerd procedureberic
 
 b. een afschrift aanwezig is van elk door de dienstverrichter via het centraal loket verzonden procedurebericht;  
 
-c. de berichten, bedoeld onder a en b, door hem kunnen worden ingezien, kunnen worden vernietigd of ongewijzigd kunnen worden overgebracht naar een systeem voor gegevensverwerking buiten het centraal loket, zolang een vernietigingstermijn als bedoeld in artikel 2, onder e, niet is verstreken.    
+c. de berichten, bedoeld onder a en b, door hem kunnen worden ingezien, kunnen worden vernietigd of ongewijzigd kunnen worden overgebracht naar een systeem voor gegevensverwerking buiten het centraal loket, zolang een vernietigingstermijn als bedoeld in artikel 2, onder e, niet is verstreken.   
 
 ### Artikel  4  
 
@@ -61,7 +61,7 @@ c. de berichten, bedoeld onder a en b, door hem kunnen worden ingezien, kunnen w
 
 a. dienstverrichters bij de afwikkeling van procedures en formaliteiten op het gebruik van het formulier zijn aangewezen doordat een bevoegde instantie het gebruik er van heeft voorgeschreven, en  
 
-b. een bevoegde instantie het formulier zelf elektronisch toegankelijk heeft gemaakt voor gebruik, maar niet op zodanige wijze dat verzending daarvan op enigerlei wijze via het centraal loket mogelijk is.     
+b. een bevoegde instantie het formulier zelf elektronisch toegankelijk heeft gemaakt voor gebruik, maar niet op zodanige wijze dat verzending daarvan op enigerlei wijze via het centraal loket mogelijk is.    
 
 ### Artikel  5  
 
@@ -72,7 +72,7 @@ a. een binnen het centraal loket voor een dienstverrichter respectievelijk een b
 b. het centraal loket verlaat, indien een dienstverrichter het procedurebericht via het centraal loket heeft verzonden naar een systeem voor gegevensverwerking buiten het centraal loket.     
 2.  Het centraal loket is zodanig ingericht dat het geregistreerde tijdstip, bedoeld in het eerste lid, onder a of b, op een voor de ontvanger toegankelijke wijze aan het procedurebericht wordt gehecht.   
 3.  Het centraal loket is zodanig ingericht dat aan de ontvanger van een procedurebericht, bedoeld in het eerste lid, onder a, onverwijld mededeling wordt gedaan van de aanwezigheid van dat bericht in de elektronische omgeving binnen het centraal loket die het na verzending heeft bereikt.   
-4.  Het centraal loket is zodanig ingericht dat het eerste tot en met derde lid van overeenkomstige toepassing is op het doorzenden van berichten tussen bevoegde instanties.   
+4.  Het centraal loket is zodanig ingericht dat het eerste tot en met derde lid van overeenkomstige toepassing is op het doorzenden van berichten tussen bevoegde instanties.  
 
 ### §  3  
 
@@ -80,7 +80,7 @@ b. het centraal loket verlaat, indien een dienstverrichter het procedurebericht 
 
 ### Artikel  6  
 
-De artikelen 2, 3 en 5, zijn tevens van toepassing op het via het centraal loket kunnen verzenden en ontvangen van een bijstandsbericht, met dien verstande dat voor «een bevoegde instantie» telkens wordt gelezen: Onze Minister, voor «dienstverrichter»: zakelijke afnemer, en voor «procedurebericht»: bijstandsbericht.  
+De artikelen 2, 3 en 5, zijn tevens van toepassing op het via het centraal loket kunnen verzenden en ontvangen van een bijstandsbericht, met dien verstande dat voor «een bevoegde instantie» telkens wordt gelezen: Onze Minister, voor «dienstverrichter»: zakelijke afnemer, en voor «procedurebericht»: bijstandsbericht. 
 
 ### §  4  
 
@@ -105,7 +105,7 @@ e. de gegevens en het beheer van de gegevens die in het centraal loket zijn opge
 f. het voorkomen van calamiteiten en het afhandelen daarvan.     
 4.  Het centraal loket is zodanig ingericht dat indien de maatregelen, bedoeld in het eerste tot en met het derde lid, tot gevolg hebben dat verzending of ontvangst van een procedure- of bijstandsbericht via het centraal loket wordt verhinderd, daarvan onverwijld mededeling wordt gedaan aan de afzender van het bericht.   
 5.  De maatregelen, bedoeld in het eerste tot en met het derde lid, strekken niet tot het herstellen van een procedure- of bijstandsbericht dat wordt aangetast of verloren dreigt te raken door andere van datzelfde bericht deel uitmakende gegevens.   
-6.  Indien Onze Minister constateert dat de ononderbroken of goede werking van het centraal loket als voorziening in gevaar is of dreigt te komen, wordt daarvan zo spoedig mogelijk mededeling gedaan aan alle op het centraal loket aangesloten dienstverrichters en bevoegde instanties.   
+6.  Indien Onze Minister constateert dat de ononderbroken of goede werking van het centraal loket als voorziening in gevaar is of dreigt te komen, wordt daarvan zo spoedig mogelijk mededeling gedaan aan alle op het centraal loket aangesloten dienstverrichters en bevoegde instanties.  
 
 ### §  5  
 
@@ -113,15 +113,15 @@ f. het voorkomen van calamiteiten en het afhandelen daarvan.
 
 ### Artikel  8  
 
-Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de inrichting van het centraal loket, bedoeld in de artikelen 2 tot en met 6, en 7 eerste tot en met vijfde lid.  
+Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de inrichting van het centraal loket, bedoeld in de artikelen 2 tot en met 6, en 7 eerste tot en met vijfde lid. 
 
 ### Artikel  9  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  10  
 
-Dit besluit wordt aangehaald als: Dienstenbesluit centraal loket.  
+Dit besluit wordt aangehaald als: Dienstenbesluit centraal loket. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -129,10 +129,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 26 november 2009  
 Beatrix  
 
-De Minister van Economische Zaken, 
+De Minister van Economische Zaken,  
 M. J. A. van der Hoeven   
 
 de *vierde* december 2009 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    

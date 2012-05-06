@@ -31,7 +31,7 @@ h. geïntegreerde groep: een groep waartoe een netbeheerder behoort en ten minst
 
 i. gesplitste netwerkgroep: een netbeheerder of een groep waartoe een netbeheerder behoort, nadat is voldaan aan alle toepasselijke herstructureringsartikelen;  
 
-j. gesplitste commerciële groep: de geïntegreerde groep of groepen zonder de gesplitste netwerkgroep nadat is voldaan aan alle toepasselijke herstructureringsartikelen.    
+j. gesplitste commerciële groep: de geïntegreerde groep of groepen zonder de gesplitste netwerkgroep nadat is voldaan aan alle toepasselijke herstructureringsartikelen.   
 
 ### §  2  
 
@@ -41,7 +41,7 @@ j. gesplitste commerciële groep: de geïntegreerde groep of groepen zonder de g
 
 1.  Het splitsingsplan vangt aan met een omschrijving van de wijze waarop aan elk van de toepasselijke herstructureringsartikelen is, dan wel zal worden voldaan, alsmede met een planning voor de uitvoering van de daarin opgenomen activiteiten.   
 2.  Het splitsingsplan bevat naast de vereiste gegevens op basis van de [wet](../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md) en deze regeling, alle overige gegevens die nodig zijn voor het getrouw beeld dat nodig is voor het vereiste inzicht in de wijze waarop aan de toepasselijke herstructureringsartikelen is, dan wel zal worden voldaan.   
-3.  Indien op 3 augustus 2007 reeds was voldaan aan het resultaat als beschreven in [artikel 10b van de Elektriciteitswet 1998](../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 2c van de Gaswet](../../../../wet/gaswet/BWBR0011440/README.md), voldoet het splitsingsplan aan de artikelen 2 en 4 en, voor zover van toepassing, aan artikel 5.   
+3.  Indien op 3 augustus 2007 reeds was voldaan aan het resultaat als beschreven in [artikel 10b van de Elektriciteitswet 1998](../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 2c van de Gaswet](../../../../wet/gaswet/BWBR0011440/README.md), voldoet het splitsingsplan aan de artikelen 2 en 4 en, voor zover van toepassing, aan artikel 5.  
 
 ### Artikel  3  
 
@@ -68,7 +68,7 @@ b. per peildatum als ware voldaan aan alle toepasselijke herstructureringsartike
 4°. een beschrijving van de juridische structuur van de gesplitste commerciële groep, voorzien van een organogram waarin per rechtspersoon en vennootschap wordt aangegeven wie daarin de zeggenschap uitoefent en wie gerechtigd is tot het resultaat;  
 
 5°. een geconsolideerde balans van de gesplitste commerciële groep, voorzien van een toelichting, alsmede een toelichting op de verschillen met de onder a, onderdeel 4º, bedoelde balans.       
-2.  De gegevens, bedoeld in het eerste lid, zijn opgesteld op basis van dezelfde waarderingsgrondslagen als die welke zijn toegepast bij de laatst vastgestelde jaarrekening.   
+2.  De gegevens, bedoeld in het eerste lid, zijn opgesteld op basis van dezelfde waarderingsgrondslagen als die welke zijn toegepast bij de laatst vastgestelde jaarrekening.  
 
 ### Artikel  4  
 
@@ -83,9 +83,9 @@ a. een organogram van de organisatiestructuur van de netbeheerder;
 
 b. een overzicht van de door de netbeheerder in eigen beheer of samen met andere netbeheerders uit te voeren taken als bedoeld in [artikel 16, eerste lid, van de Elektriciteitswet 1998](../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of de [artikelen 10](../../../../wet/gaswet/BWBR0011440/README.md), [14](../../../../wet/gaswet/BWBR0011440/README.md) en [42 van de Gaswet](../../../../wet/gaswet/BWBR0011440/README.md);  
 
-c. een overzicht van de door de netbeheerder uit te besteden taken, bedoeld in [artikel 16Aa, tweede lid, van de Elektriciteitswet 1998](../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 7a, tweede lid, van de Gaswet](../../../../wet/gaswet/BWBR0011440/README.md);  
+c. een overzicht van de door de netbeheerder uit te besteden taken, bedoeld in [artikel 16Aa, tweede lid, van de Elektriciteitswet 1998](../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) of [artikel 7a, tweede lid, van de Gaswet](../../../../wet/gaswet/BWBR0011440/README.md);   
 
-d. het aantal voltijdse arbeidsplaatsen van de netbeheerder en de toedeling hiervan aan zijn verschillende taken.     
+d. het aantal voltijdse arbeidsplaatsen van de netbeheerder en de toedeling hiervan aan zijn verschillende taken.    
 
 ### Artikel  5  
 
@@ -100,7 +100,7 @@ d. het aantal voltijdse arbeidsplaatsen van de netbeheerder en de toedeling hier
 
 4°. een beschrijving en toelichting van de wijze waarop voldaan wordt aan [artikel IXA, derde lid, van de wet](../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md), alsmede een toelichting op de afweging die ten grondslag ligt aan de gekozen wijze van toebedeling van vermogensbestanddelen, bedoeld in [artikel IXA, derde lid, van de wet](../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md);  
 
-5°. een onderbouwde toelichting van de invloed van de wijze van toebedeling op de in [artikel IXA, tweede lid, van de wet](../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md) bedoelde tarieven.     
+5°. een onderbouwde toelichting van de invloed van de wijze van toebedeling op de in [artikel IXA, tweede lid, van de wet](../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md) bedoelde tarieven.    
 
 ### §  3  
 
@@ -108,11 +108,11 @@ d. het aantal voltijdse arbeidsplaatsen van de netbeheerder en de toedeling hier
 
 ### Artikel  6  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  7  
 
-Deze regeling wordt aangehaald als: Regeling splitsingsplannen.  
+Deze regeling wordt aangehaald als: Regeling splitsingsplannen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -120,4 +120,4 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-M.J.A.van der Hoeven   
+M.J.A. van der Hoeven     

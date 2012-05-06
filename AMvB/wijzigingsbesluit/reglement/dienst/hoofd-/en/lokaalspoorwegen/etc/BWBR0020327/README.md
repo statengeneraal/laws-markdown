@@ -15,16 +15,16 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Reglement dienst hoofd- en lokaalspoorwegen.   
+Wijzigt het Reglement dienst hoofd- en lokaalspoorwegen. 
 
 ### Artikel  II  
 
 1.  Vergunningen en ontheffingen die betrekking hebben op RandstadRail en die ingevolge [artikel 27 van het Besluit spoorweginfrastructuur](../../../../../../../../../AMvB/besluit/spoorweginfrastructuur/BWBR0017626/README.md) zijn aangemerkt als vergunningen en ontheffingen verleend op grond van [artikel 19](../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) en [21 van de Spoorwegwet](../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) en gelden op het tijdstip van inwerkingtreding van dit besluit, worden vanaf de dag waarop dit besluit in werking treedt aangemerkt als vergunningen en ontheffingen verleend op grond van [artikel 39 van de Spoorwegwet 1875](../../../../../../../../../wet/spoorwegwet/BWBR0001848/README.md) en [artikel 15 van het Reglement dienst hoofd- en lokaalspoorwegen](../../../../../../../../../AMvB/reglement/dienst/hoofd-/en/lokaalspoorwegen/BWBR0003083/README.md).   
-2.  Vergunningen die ingevolge [artikel 19 van de Spoorwegwet](../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) en ontheffingen die ingevolge [artikel 21 van de Spoorwegwet](../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) zijn verleend voor RandstadRail en gelden op het tijdstip van inwerkingtreding van dit besluit, worden vanaf de dag waarop dit besluit in werking treedt aangemerkt als vergunningen en ontheffingen verleend op grond van [artikel 39 van de Spoorwegwet 1875](../../../../../../../../../wet/spoorwegwet/BWBR0001848/README.md) en [artikel 15 van het Reglement dienst hoofd- en lokaalspoorwegen](../../../../../../../../../AMvB/reglement/dienst/hoofd-/en/lokaalspoorwegen/BWBR0003083/README.md).   
+2.  Vergunningen die ingevolge [artikel 19 van de Spoorwegwet](../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) en ontheffingen die ingevolge [artikel 21 van de Spoorwegwet](../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) zijn verleend voor RandstadRail en gelden op het tijdstip van inwerkingtreding van dit besluit, worden vanaf de dag waarop dit besluit in werking treedt aangemerkt als vergunningen en ontheffingen verleend op grond van [artikel 39 van de Spoorwegwet 1875](../../../../../../../../../wet/spoorwegwet/BWBR0001848/README.md) en [artikel 15 van het Reglement dienst hoofd- en lokaalspoorwegen](../../../../../../../../../AMvB/reglement/dienst/hoofd-/en/lokaalspoorwegen/BWBR0003083/README.md).  
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -32,10 +32,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 21 september 2006  
 Beatrix  
 
-De Minister van Verkeer en Waterstaat , 
+De Minister van Verkeer en Waterstaat ,  
 K. M. H. Peijs   
 
 de *twaalfde* oktober 2006 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin    

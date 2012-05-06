@@ -15,16 +15,16 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit capaciteitsverdeling hoofdspoorweginfrastructuur.   
+Wijzigt het Besluit capaciteitsverdeling hoofdspoorweginfrastructuur.  
 
 ### Artikel  II  
 
 1.  In afwijking van de [artikelen 8, eerste lid, onderdeel c](../../../../../../AMvB/besluit/capaciteitsverdeling/hoofdspoorweginfrastructuur/BWBR0017627/README.md), [12](../../../../../../AMvB/besluit/capaciteitsverdeling/hoofdspoorweginfrastructuur/BWBR0017627/README.md) en [kaart 1 van het Besluit capaciteitsverdeling hoofdspoorweginfrastructuur](../../../../../../AMvB/besluit/capaciteitsverdeling/hoofdspoorweginfrastructuur/BWBR0017627/README.md), zoals deze luiden na de inwerkingtreding van dit besluit, blijven de [artikelen 8, onderdeel b](../../../../../../AMvB/besluit/capaciteitsverdeling/hoofdspoorweginfrastructuur/BWBR0017627/README.md), en [12 van het Besluit capaciteitsverdeling hoofdspoorweginfrastructuur](../../../../../../AMvB/besluit/capaciteitsverdeling/hoofdspoorweginfrastructuur/BWBR0017627/README.md) en [kaart 1](../../../../../../AMvB/besluit/capaciteitsverdeling/hoofdspoorweginfrastructuur/BWBR0017627/README.md) behorende bij dat besluit zoals die luidden voor de inwerkingtreding van dit besluit, van toepassing op de verdeling van capaciteit voor het vervoer dat plaatsvindt tot het tijdstip waarop de Betuweroute in gebruik is genomen.   
-2.  In afwijking van de [artikelen 8, eerste lid, onderdeel b](../../../../../../AMvB/besluit/capaciteitsverdeling/hoofdspoorweginfrastructuur/BWBR0017627/README.md), [10 van het Besluit capaciteitsverdeling hoofdspoorweginfrastructuur](../../../../../../AMvB/besluit/capaciteitsverdeling/hoofdspoorweginfrastructuur/BWBR0017627/README.md), zoals deze luiden na de inwerkingtreding van dit besluit, blijven de artikelen [artikel 8, onderdeel a](../../../../../../AMvB/besluit/capaciteitsverdeling/hoofdspoorweginfrastructuur/BWBR0017627/README.md) en [10 van het Besluit capaciteitsverdeling hoofdspoorweginfrastructuur](../../../../../../AMvB/besluit/capaciteitsverdeling/hoofdspoorweginfrastructuur/BWBR0017627/README.md), zoals die voor de inwerkingtreding van dit besluit luidden, van toepassing op de verdeling van capaciteit voor het vervoer dat plaatsvindt tot het tijdstip dat het in Nederland gelegen deel van de hogesnelheidsspoorverbinding Amsterdam – Brussel – Parijs in gebruik is genomen.   
+2.  In afwijking van de [artikelen 8, eerste lid, onderdeel b](../../../../../../AMvB/besluit/capaciteitsverdeling/hoofdspoorweginfrastructuur/BWBR0017627/README.md), [10 van het Besluit capaciteitsverdeling hoofdspoorweginfrastructuur](../../../../../../AMvB/besluit/capaciteitsverdeling/hoofdspoorweginfrastructuur/BWBR0017627/README.md), zoals deze luiden na de inwerkingtreding van dit besluit, blijven de artikelen [artikel 8, onderdeel a](../../../../../../AMvB/besluit/capaciteitsverdeling/hoofdspoorweginfrastructuur/BWBR0017627/README.md) en [10 van het Besluit capaciteitsverdeling hoofdspoorweginfrastructuur](../../../../../../AMvB/besluit/capaciteitsverdeling/hoofdspoorweginfrastructuur/BWBR0017627/README.md), zoals die voor de inwerkingtreding van dit besluit luidden, van toepassing op de verdeling van capaciteit voor het vervoer dat plaatsvindt tot het tijdstip dat het in Nederland gelegen deel van de hogesnelheidsspoorverbinding Amsterdam – Brussel – Parijs in gebruik is genomen.  
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -32,7 +32,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 28 april 2006  
 Beatrix  
 
-De Minister van Verkeer en Waterstaat , 
+De Minister van Verkeer en Waterstaat ,  
 K. M. H. Peijs   
 
 De Staatssecretaris van Verkeer en Waterstaat , 

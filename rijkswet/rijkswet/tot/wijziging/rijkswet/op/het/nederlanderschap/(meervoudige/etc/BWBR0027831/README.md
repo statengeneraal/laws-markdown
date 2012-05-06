@@ -11,20 +11,20 @@ Zo is het, dat Wij, de Raad van State van het Koninkrijk gehoord, en met gemeen 
 
 ### Artikel  I  
 
-Wijzigt de Rijkswet op het Nederlanderschap.   
+Wijzigt de Rijkswet op het Nederlanderschap. 
 
 ### Artikel  II  
 
 1.  De in artikel I, onderdelen C en H, genoemde wijzigingen zijn niet van toepassing op verklaringen tot verkrijging van het Nederlanderschap ingediend voor de inwerkingtreding van dit onderdeel van deze Rijkswet.   
 2.  De in artikel I, onderdelen D en E, genoemde wijzigingen zijn niet van toepassing op verzoeken om verlening van het Nederlanderschap ingediend voor de datum van inwerkingtreding van dit onderdeel van deze Rijkswet.   
-2a.  De in artikel I, onderdeel F, genoemde wijziging is niet van toepassing op verzoeken tot medeverlening van het Nederlanderschap die zijn ingediend voor de datum van inwerkingtreding van deze Rijkswet.   
-3.  De in artikel I, onderdeel G, subonderdeel 2, genoemde wijziging is niet van toepassing op misdrijven gepleegd voor de datum van inwerkingtreding van dit subonderdeel van deze Rijkswet.   
+2a.   De in artikel I, onderdeel F, genoemde wijziging is niet van toepassing op verzoeken tot medeverlening van het Nederlanderschap die zijn ingediend voor de datum van inwerkingtreding van deze Rijkswet.   
+3.  De in artikel I, onderdeel G, subonderdeel 2, genoemde wijziging is niet van toepassing op misdrijven gepleegd voor de datum van inwerkingtreding van dit subonderdeel van deze Rijkswet.  
 
 ### Artikel  III  
 
-De artikelen van deze Rijkswet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van deze Rijkswet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
-Lasten en bevelen dat deze in het Staatsblad, het Publicatieblad van de Nederlandse Antillen en het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad, het Publicatieblad van de Nederlandse Antillen en het Afkondigingsblad van Aruba zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 17 juni 2010  

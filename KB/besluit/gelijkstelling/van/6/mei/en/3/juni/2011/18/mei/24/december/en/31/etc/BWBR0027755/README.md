@@ -11,11 +11,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Met een algemeen erkende feestdag als bedoeld in [artikel 3, eerste lid, van de Algemene termijnenwet](../../../../../../../../../../../../../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) worden gelijkgesteld 6 mei en 3 juni 2011, 18 mei, 24 december en 31 december 2012 en 29 april, 10 mei en 27 december 2013.  
+Met een algemeen erkende feestdag als bedoeld in [artikel 3, eerste lid, van de Algemene termijnenwet](../../../../../../../../../../../../../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) worden gelijkgesteld 6 mei en 3 juni 2011, 18 mei, 24 december en 31 december 2012 en 29 april, 10 mei en 27 december 2013. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag na dagtekening van verschijning van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na dagtekening van verschijning van de Staatscourant waarin het wordt geplaatst. 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit dat in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
@@ -23,5 +23,5 @@ Den Haag
 Beatrix  
 
 De 
-Minister van Justitie,
-E.M.H.Hirsch Ballin   
+Minister van Justitie, 
+E.M.H. Hirsch Ballin     

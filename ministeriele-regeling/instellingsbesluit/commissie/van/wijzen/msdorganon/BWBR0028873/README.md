@@ -12,11 +12,11 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *de minister:* de Minister van Economische Zaken;  
+a.  *de minister:* de Minister van Economische Zaken;  
 
-b. *de Gedeputeerde Staten:* de Gedeputeerde Staten van de Provincie Noord-Brabant;  
+b.  *de Gedeputeerde Staten:* de Gedeputeerde Staten van de Provincie Noord-Brabant;  
 
-c. *commissie:* de Commissie van Wijzen MSD/Organon.    
+c.  *commissie:* de Commissie van Wijzen MSD/Organon.   
 
 ### Artikel  2  
 
@@ -26,29 +26,29 @@ c. *commissie:* de Commissie van Wijzen MSD/Organon.
 
 a. de bedrijfseconomische levensvatbaarheid van de plannen als bedoeld in het tweede lid, en  
 
-b. de bijdrage van de plannen als bedoeld in het tweede lid aan de Nederlandse economie in het algemeen en aan het strategisch lange termijn perspectief voor Life Sciences in het bijzonder.     
+b. de bijdrage van de plannen als bedoeld in het tweede lid aan de Nederlandse economie in het algemeen en aan het strategisch lange termijn perspectief voor Life Sciences in het bijzonder.    
 
 ### Artikel  3  
 
-De commissie brengt haar advies schriftelijk uit aan de minister en de Gedeputeerde Staten.  
+De commissie brengt haar advies schriftelijk uit aan de minister en de Gedeputeerde Staten. 
 
 ### Artikel  4  
 
 1.  De commissie bestaat uit een voorzitter en twee andere leden.   
 2.  De voorzitter en de andere leden worden door de minister benoemd in overeenstemming met de Gedeputeerde Staten. De voorzitter en de andere leden kunnen door de minister worden geschorst en ontslagen. De leden van de commissie zijn te allen tijde opnieuw benoembaar.   
-3.  De leden brengen op persoonlijke titel hun kennis en ervaring in en treden niet op als vertegenwoordiger van een specifieke belangengroep.   
+3.  De leden brengen op persoonlijke titel hun kennis en ervaring in en treden niet op als vertegenwoordiger van een specifieke belangengroep.  
 
 ### Artikel  5  
 
 1.  De commissie stelt haar eigen werkwijze schriftelijk vast.   
 2.  De minister voorziet in het secretariaat van de commissie.   
 3.  Het beheer van de bescheiden betreffende de werkzaamheden van de commissie geschiedt op overeenkomstige wijze als bij het Ministerie van Economische Zaken. De bescheiden worden na beëindiging van de werkzaamheden van de commissie bewaard in het archief van dat ministerie.   
-4.  De commissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.   
+4.  De commissie verstrekt desgevraagd aan de minister de voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.  
 
 ### Artikel  6  
 
 1.  De voorzitter van de commissie ontvangt een vergoeding per vergadering van € 333,11.   
-2.  De andere leden van de commissie ontvangen een vergoeding per vergadering van € 256,24.   
+2.  De andere leden van de commissie ontvangen een vergoeding per vergadering van € 256,24.  
 
 ### Artikel  7  
 
@@ -58,15 +58,15 @@ a. de heer J.F. Sistermans, te ’s-Hertogenbosch, tevens voorzitter;
 
 b. de heer dr. R. Harwig, te Waalre;  
 
-c. de heer drs. M.W.G. Litjens, te Voerendaal.    
+c. de heer drs. M.W.G. Litjens, te Voerendaal.   
 
 ### Artikel  8  
 
-Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 september 2010.  
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 september 2010. 
 
 ### Artikel  9  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Commissie van Wijzen MSD/Organon.  
+Dit besluit wordt aangehaald als: Instellingsbesluit Commissie van Wijzen MSD/Organon. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen.   
 
 Den Haag 
@@ -74,4 +74,4 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-M.J.A. van derHoeven   
+M.J.A. van der Hoeven     

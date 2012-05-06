@@ -4,27 +4,27 @@
 
 De Minister van Economische Zaken,  
 Gelet op de [artikelen 2, tweede lid](../../../../../../AMvB/ijkreglement/BWBR0009069/README.md), en [14, derde lid, van het IJkreglement](../../../../../../AMvB/ijkreglement/BWBR0009069/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a. *wet:* de [IJkwet](../../../../../../wet/ijkwet/BWBR0009082/README.md);  
+a.  *wet:* de [IJkwet](../../../../../../wet/ijkwet/BWBR0009082/README.md);  
 
-b. *keuring:* de keuring, bedoeld in [artikel 10, eerste lid, van de wet](../../../../../../wet/ijkwet/BWBR0009082/README.md);  
+b.  *keuring:* de keuring, bedoeld in [artikel 10, eerste lid, van de wet](../../../../../../wet/ijkwet/BWBR0009082/README.md);  
 
-c. *onderzoek tot toelating van een model:* het onderzoek, bedoeld in [artikel 11, tweede lid, van de wet](../../../../../../wet/ijkwet/BWBR0009082/README.md);  
+c.  *onderzoek tot toelating van een model:* het onderzoek, bedoeld in [artikel 11, tweede lid, van de wet](../../../../../../wet/ijkwet/BWBR0009082/README.md);  
 
-d. *herkeuring:* de herhaalde keuring, bedoeld in [artikel 11, vierde lid, van de wet](../../../../../../wet/ijkwet/BWBR0009082/README.md);  
+d.  *herkeuring:* de herhaalde keuring, bedoeld in [artikel 11, vierde lid, van de wet](../../../../../../wet/ijkwet/BWBR0009082/README.md);  
 
-e. *toezicht:* het onderzoek, bedoeld in [artikel 5:18 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+e.  *toezicht:* het onderzoek, bedoeld in [artikel 5:18 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
 
-f. *vloeistofmeter:* een meetwerktuig voor hoeveelheidsmeting van vloeistof, dat bestaat uit een metend gedeelte en een aanwijsinrichting die het volume of de massa van de vloeistof die door het metend gedeelte stroomt continu en cumulatief aanwijst;  
+f.  *vloeistofmeter:* een meetwerktuig voor hoeveelheidsmeting van vloeistof, dat bestaat uit een metend gedeelte en een aanwijsinrichting die het volume of de massa van de vloeistof die door het metend gedeelte stroomt continu en cumulatief aanwijst;  
 
-g. *vloeistofmeetinstallatie:* een installatie die een vloeistofmeter en daarbij behorende hulpinrichtingen of toegevoegde inrichtingen omvat;  
+g.  *vloeistofmeetinstallatie:* een installatie die een vloeistofmeter en daarbij behorende hulpinrichtingen of toegevoegde inrichtingen omvat;  
 
-h. *EER-staat:* een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.    
+h.  *EER-staat:* een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.    
 
 ### Artikel  2  
 
@@ -35,32 +35,32 @@ h. *EER-staat:* een lidstaat van de Europese Unie of een andere staat die partij
 
 Een vloeistofmeetinstallatie, bestemd voor het afleveren van brandstoffen aan: 
 
-a. motorrijtuigen voor het wegverkeer dan wel  
+a.  motorrijtuigen voor het wegverkeer dan wel  
 
-b. pleziervaartuigen of vliegtuigen, met uitzondering van vloeistofmeetinstallaties met een maximaal meetvermogen van meer dan 150 l/min, wijst het resultaat van de laatste meting aan tot het tijdstip waarop de volgende meting een aanvang neemt.    
+b.  pleziervaartuigen of vliegtuigen, met uitzondering van vloeistofmeetinstallaties met een maximaal meetvermogen van meer dan 150 l/min, wijst het resultaat van de laatste meting aan tot het tijdstip waarop de volgende meting een aanvang neemt.    
 
 ### Artikel  4  
 
 1.  Indien een zelfbedieningsinrichting deel uitmaakt van een vloeistofmeetinstallatie zijn op een voor dat doel bestemde opschriftenplaat die is aangebracht op een belangrijk onderdeel van de zelfbedieningsinrichting vermeld: 
 
-a. het nummer van de verklaring van toelating van het model waarnaar de vloeistofmeetinstallatie, waarvan de zelfbedieningsinrichting deel uitmaakt, is vervaardigd;  
+a.  het nummer van de verklaring van toelating van het model waarnaar de vloeistofmeetinstallatie, waarvan de zelfbedieningsinrichting deel uitmaakt, is vervaardigd;  
 
-b. de identificatie van de fabrikant of zijn firmanaam;  
+b.  de identificatie van de fabrikant of zijn firmanaam;  
 
-c. een typeaanduiding van de fabrikant;  
+c.  een typeaanduiding van de fabrikant;  
 
-d. het jaar waarin de vloeistofmeetinstallatie, waarvan de zelfbedieningsinrichting deel uitmaakt, is vervaardigd en een fabrieksnummer;  
+d.  het jaar waarin de vloeistofmeetinstallatie, waarvan de zelfbedieningsinrichting deel uitmaakt, is vervaardigd en een fabrieksnummer;  
 
-e. de zelfbedieningsfunctie.     
+e.  de zelfbedieningsfunctie.     
 2.  De zelfbedieningsfunctie, bedoeld in het eerste lid, onder e, wordt als volgt vermeld: 
 
-a. bij zelfbedieningsinrichtingen met betaling achteraf door middel van de aanduiding: ’betaling achteraf’ of de afkorting ’za’;  
+a.  bij zelfbedieningsinrichtingen met betaling achteraf door middel van de aanduiding: ’betaling achteraf’ of de afkorting ’za’;  
 
-b. bij zelfbedieningsinrichtingen met betaling vooraf door middel van de aanduiding: ’betaling vooraf’ of de afkorting ’zv’;  
+b.  bij zelfbedieningsinrichtingen met betaling vooraf door middel van de aanduiding: ’betaling vooraf’ of de afkorting ’zv’;  
 
-c. bij zelfbedieningsinrichtingen met uitgestelde betaling door middel van de aanduiding: ’uitgestelde betaling’ of de afkorting ’zu’;  
+c.  bij zelfbedieningsinrichtingen met uitgestelde betaling door middel van de aanduiding: ’uitgestelde betaling’ of de afkorting ’zu’;  
 
-d. bij zelfbedieningsinrichtingen met meerdere zelfbedieningsfuncties door middel van een combinatie van de onder a tot en met c genoemde aanduidingen of afkortingen.     
+d.  bij zelfbedieningsinrichtingen met meerdere zelfbedieningsfuncties door middel van een combinatie van de onder a tot en met c genoemde aanduidingen of afkortingen.     
 
 ### Artikel  5  
 
@@ -77,11 +77,11 @@ Artikel 2 is op de daar genoemde vloeistofmeters en vloeistofmeetinstallaties ni
 
 De volgende regelingen worden ingetrokken: 
 
-a. de IJkregeling vloeistofmeters;  
+a.  de IJkregeling vloeistofmeters;  
 
-b. de IJkregeling benzinepompen;  
+b.  de IJkregeling benzinepompen;  
 
-c. de IJkregeling L.P.G.-meetinstallaties.    
+c.  de IJkregeling L.P.G.-meetinstallaties.    
 
 ### Artikel  8  
 
@@ -99,7 +99,7 @@ Deze regeling treedt in werking op het tijdstip waarop het koninklijk besluit va
 
 ### Artikel  11  
 
-Deze regeling wordt aangehaald als: IJkregeling vloeistofmeters en vloeistofmeetinstallaties.  
+Deze regeling wordt aangehaald als: IJkregeling vloeistofmeters en vloeistofmeetinstallaties. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -107,4 +107,4 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister van Economische Zaken, 
-A.Jorritsma-Lebbink    
+A. Jorritsma-Lebbink      

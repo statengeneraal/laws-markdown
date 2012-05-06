@@ -10,15 +10,15 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder: 
 
-a. *wet:* de [Wet van 23 november 2006 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet](../../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md) in verband met nadere regels omtrent een onafhankelijk netbeheer;  
+a.  *wet:* de [Wet van 23 november 2006 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet](../../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md) in verband met nadere regels omtrent een onafhankelijk netbeheer;  
 
-b. *splitsingsplan:* het splitsingsplan, bedoeld in [artikel IXb, eerste lid, van de wet](../../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md);  
+b.  *splitsingsplan:* het splitsingsplan, bedoeld in [artikel IXb, eerste lid, van de wet](../../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md);  
 
-c. *splitsingskosten:* de kosten, bedoeld in [artikel IXa, tweede lid, van de wet](../../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md).    
+c.  *splitsingskosten:* de kosten, bedoeld in [artikel IXa, tweede lid, van de wet](../../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md).   
 
 ### Artikel  2  
 
-Deze beleidsregel is van toepassing indien met het oog op de naleving van [artikel IXa, tweede lid, van de wet](../../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md) wordt gekozen voor een balansvoorziening voor splitsingskosten.  
+Deze beleidsregel is van toepassing indien met het oog op de naleving van [artikel IXa, tweede lid, van de wet](../../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md) wordt gekozen voor een balansvoorziening voor splitsingskosten. 
 
 ### Artikel  3  
 
@@ -32,15 +32,15 @@ b. de aannemelijkheid van gewijzigde uitgangspunten;
 c. de wijze waarop gewijzigde uitgangspunten hebben geleid tot een aanpassing van de raming van de splitsingskosten en van de voor de geraamde splitsingskosten aangehouden balansvoorziening;  
 
 d. de juistheid van de nakomende splitsingskosten.     
-3.  De splitsingskosten die voortvloeien uit toekomstige activiteiten of handelingen worden opgenomen in een extracomptabel volgsysteem.   
+3.  De splitsingskosten die voortvloeien uit toekomstige activiteiten of handelingen worden opgenomen in een extracomptabel volgsysteem.  
 
 ### Artikel  4  
 
-Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze beleidsregel treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  5  
 
-Deze beleidsregel wordt aangehaald als: Beleidsregel handhaving splitsingsplannen.  
+Deze beleidsregel wordt aangehaald als: Beleidsregel handhaving splitsingsplannen. 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -48,4 +48,4 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-M.J.A. van derHoeven   
+M.J.A. van der Hoeven     

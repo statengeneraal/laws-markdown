@@ -15,22 +15,22 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *aanvraag:* een verzoek om subsidieverlening;  
+a.  *aanvraag:* een verzoek om subsidieverlening;  
 
-b.  *aanvrager:*  
+b. *aanvrager:*
 
 1°. een gemeente die een aanvraag doet op grond van deze regeling, eventueel mede namens een samenwerkingsverband met andere gemeenten;  
 
 2°. een maatschappelijke organisatie zonder winstoogmerk die uitvoering van het programma (mede-)coördineert;    
 
-c. *prostituee:* degene (v/m) die zich beschikbaar stelt tot het verrichten van seksuele handelingen met een ander tegen betaling;  
+c.  *prostituee:* degene (v/m) die zich beschikbaar stelt tot het verrichten van seksuele handelingen met een ander tegen betaling;  
 
-d. *uitstapprogramma:* programma waarin begeleiding van prostituees plaatsvindt bij het vinden van werk of dagbesteding buiten de prostitutie.    
+d.  *uitstapprogramma:* programma waarin begeleiding van prostituees plaatsvindt bij het vinden van werk of dagbesteding buiten de prostitutie.   
 
 ### Artikel  2  
 
 1.  Ter stimulering van het ontwikkelen van uitstapprogramma’s voor prostituees kan de minister subsidie verlenen aan een projectvoorstel ten behoeve van de ontwikkeling, facilitering of uitvoering van een uitstapprogramma.   
-2.  Voor de uitvoering van deze regeling is een bedrag van in totaal € 14,5 miljoen beschikbaar. Voor het jaar 2008 is een bedrag van € 0,5 miljoen beschikbaar. Voor het jaar 2009 is een bedrag van € 7 miljoen beschikbaar en voor het jaar 2010 is een bedrag van € 7 miljoen beschikbaar.   
+2.  Voor de uitvoering van deze regeling is een bedrag van in totaal € 14,5 miljoen beschikbaar. Voor het jaar 2008 is een bedrag van € 0,5 miljoen beschikbaar. Voor het jaar 2009 is een bedrag van € 7 miljoen beschikbaar en voor het jaar 2010 is een bedrag van € 7 miljoen beschikbaar.  
 
 ### §  2  
 
@@ -79,7 +79,7 @@ d. een beschrijving van de projectstructuur;
 
 e. een beschrijving van wijze van voortzetting van het uitstapprogramma na afloop van de subsidieperiode;  
 
-f. een beschrijving van de wijze waarop het project wordt geëvalueerd.     
+f. een beschrijving van de wijze waarop het project wordt geëvalueerd.    
 
 ### Artikel  4  
 
@@ -91,7 +91,7 @@ a. de aanvraag niet voldoet aan de voorschriften in deze regeling;
 
 b. subsidieverzoeker onvoldoende aannemelijk maakt de capaciteit te hebben om het project naar behoren te ontwikkelen, te faciliteren of uit te voeren.     
 4.  De minister verdeelt het beschikbare budget in de volgorde van ontvangst van de aanvragen, met dien verstande dat indien een aanvrager niet heeft voldaan aan de voorschriften genoemd in artikel 3 en met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in de gelegenheid is gesteld de aanvraag aan te vullen, de dag waarop de aanvraag voldoet aan de voorschriften genoemd in artikel 3 als datum van ontvangst geldt.   
-5.  Bij de subsidieverlening kunnen nadere verplichtingen worden opgelegd, die strekken tot verwezenlijking van het doel van de subsidie.   
+5.  Bij de subsidieverlening kunnen nadere verplichtingen worden opgelegd, die strekken tot verwezenlijking van het doel van de subsidie.  
 
 ### §  3  
 
@@ -101,7 +101,7 @@ b. subsidieverzoeker onvoldoende aannemelijk maakt de capaciteit te hebben om he
 
 1.  Op basis van een voorlopige beschikking tot subsidieverlening, kunnen door de minister voorschotten worden verstrekt.   
 2.  In totaal zal het bedrag aan voorschotten niet groter zijn dan 80 procent van het bij de subsidieverlening vermelde maximale subsidiebedrag per kalenderjaar.   
-3.  De minister kan afwijzend beschikken op een aanvraag om een voorschot, indien de subsidie-ontvanger niet heeft voldaan aan ingevolge de subsidieverlening voor hem geldende verplichtingen, dan wel indien hij failliet is verklaard of aan hem surséance van betaling is verleend.   
+3.  De minister kan afwijzend beschikken op een aanvraag om een voorschot, indien de subsidie-ontvanger niet heeft voldaan aan ingevolge de subsidieverlening voor hem geldende verplichtingen, dan wel indien hij failliet is verklaard of aan hem surséance van betaling is verleend.  
 
 ### §  4  
 
@@ -110,7 +110,7 @@ b. subsidieverzoeker onvoldoende aannemelijk maakt de capaciteit te hebben om he
 ### Artikel  6  
 
 1.  De subsidie-ontvanger zorgt ervoor dat de subsidie op doelmatige wijze wordt gebruikt conform de doeleinden waarvoor ze wordt verstrekt.   
-2.  De subsidie-ontvanger brengt steeds na afloop van een periode van 12 maanden aan de minister schriftelijk verslag uit omtrent de uitvoering van het project, met inbegrip van een vergelijking van die uitvoering met het projectplan en de bij de subsidieverlening behorende gespecificeerde begroting.   
+2.  De subsidie-ontvanger brengt steeds na afloop van een periode van 12 maanden aan de minister schriftelijk verslag uit omtrent de uitvoering van het project, met inbegrip van een vergelijking van die uitvoering met het projectplan en de bij de subsidieverlening behorende gespecificeerde begroting.  
 
 ### §  5  
 
@@ -123,7 +123,7 @@ b. subsidieverzoeker onvoldoende aannemelijk maakt de capaciteit te hebben om he
 3.  Indien het bedrag waarop de subsidie ten hoogste kan worden vastgesteld € 100.000,- of meer bedraagt, dient het eindverslag vergezeld te gaan van een accountantsverklaring die is opgesteld op de in Bijlage 1 van deze regeling aangegeven wijze.   
 4.  De subsidie-ontvanger draagt er zorg voor dat de accountant meewerkt aan door of namens de minister in te stellen onderzoeken.   
 5.  Het totale bedrag van subsidievaststelling bedraagt maximaal 100 procent van het bedrag zoals vastgesteld in de voorlopige beschikking tot subsidieverlening.   
-6.  De minister geeft de beschikking tot subsidievaststelling binnen dertien weken na ontvangst van de aanvraag dan wel nadat de voor het indienen ervan geldende termijn is verstreken.   
+6.  De minister geeft de beschikking tot subsidievaststelling binnen dertien weken na ontvangst van de aanvraag dan wel nadat de voor het indienen ervan geldende termijn is verstreken.  
 
 ### §  6  
 
@@ -131,11 +131,11 @@ b. subsidieverzoeker onvoldoende aannemelijk maakt de capaciteit te hebben om he
 
 ### Artikel  8  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  9  
 
-Deze regeling wordt aangehaald als: Regeling Uitstapprogramma’s Prostituees.  
+Deze regeling wordt aangehaald als: Regeling Uitstapprogramma’s Prostituees. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -143,7 +143,7 @@ Den Haag
 
 De 
 Minister van Justitie, 
-E.M.H.Hirsch Ballin  
+E.M.H. Hirsch Ballin    
 
 ### Bijlage  1  
 
@@ -175,7 +175,7 @@ Voor de uitvoering van de bepalingen die zijn opgesteld ten behoeve van het onde
 
 – een assurancerapport  
 
-– een rapport van feitelijke bevindingen.   De grondslag voor een zodanige aanwijzing wordt gevonden in de [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (Awb), [wet Justitie subsidies](../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md) alsmede in specifieke behoeften van de subsidieverstrekker. In de [Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn hierover onder meer de volgende relevante aanwijzingen opgenomen. In [artikel 4:79, eerste lid, Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is bepaald dat bij wettelijk voorschrift of bij subsidieverlening kan worden bepaald dat de in [artikel 4:78, eerste lid, Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde opdracht tevens strekt tot onderzoek van de naleving van aan de subsidie verbonden verplichtingen. In [artikel 4:79, tweede lid, AWB](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is bepaald dat bij toepassing van het eerste lid de opdracht vergezeld gaat van een bij of krachtens wettelijk voorschrift of bij de subsidieverlening vast te stellen aanwijzing over de reikwijdte en de intensiteit van de controle. [Artikel 4:78 AWB](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vermeldt bepalingen die van toepassing zijn bij het onderzoek van het financiële verslag dat door een subsidieontvanger is opgedragen aan een accountant. Onder meer is in lid 3 bepaald dat de accountant de uitslag van zijn onderzoek weergeeft in een schriftelijke verklaring omtrent de getrouwheid van het financiële verslag. In dit hoofdstuk wordt verder een uiteenzetting gegeven van de doelstelling die beoogd wordt bij de controle van subsidies en een toelichting op de meest relevante begrippen op subsidie gebied. In de hoofdstukken 2 tot en met 4 wordt achtereenvolgens ingegaan op de bovengenoemde accountantsproducten. In hoofdstuk 5 worden nog enige bijzondere onderwerpen belicht. Tot slot is in hoofdstuk 6 een aantal bijlagen opgenomen waarin modellen voor de accountantsproducten zijn opgenomen. Benadrukt dat deze modellen nog wijziging kunnen ondergaan wat betreft de invulling van het begrip rechtmatigheid en het voldoen aan de WOPT-eisen. Om het controleprotocol actueel te houden is voorzien in een jaarlijkse beoordeling van het protocol door het ministerie van Justitie.  
+– een rapport van feitelijke bevindingen.   De grondslag voor een zodanige aanwijzing wordt gevonden in de [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (Awb), [wet Justitie subsidies](../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md) alsmede in specifieke behoeften van de subsidieverstrekker. In de [Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn hierover onder meer de volgende relevante aanwijzingen opgenomen. In [artikel 4:79, eerste lid, Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is bepaald dat bij wettelijk voorschrift of bij subsidieverlening kan worden bepaald dat de in [artikel 4:78, eerste lid, Awb](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde opdracht tevens strekt tot onderzoek van de naleving van aan de subsidie verbonden verplichtingen. In [artikel 4:79, tweede lid, AWB](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is bepaald dat bij toepassing van het eerste lid de opdracht vergezeld gaat van een bij of krachtens wettelijk voorschrift of bij de subsidieverlening vast te stellen aanwijzing over de reikwijdte en de intensiteit van de controle. [Artikel 4:78 AWB](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vermeldt bepalingen die van toepassing zijn bij het onderzoek van het financiële verslag dat door een subsidieontvanger is opgedragen aan een accountant. Onder meer is in lid 3 bepaald dat de accountant de uitslag van zijn onderzoek weergeeft in een schriftelijke verklaring omtrent de getrouwheid van het financiële verslag. In dit hoofdstuk wordt verder een uiteenzetting gegeven van de doelstelling die beoogd wordt bij de controle van subsidies en een toelichting op de meest relevante begrippen op subsidie gebied. In de hoofdstukken 2 tot en met 4 wordt achtereenvolgens ingegaan op de bovengenoemde accountantsproducten. In hoofdstuk 5 worden nog enige bijzondere onderwerpen belicht. Tot slot is in hoofdstuk 6 een aantal bijlagen opgenomen waarin modellen voor de accountantsproducten zijn opgenomen. Benadrukt dat deze modellen nog wijziging kunnen ondergaan wat betreft de invulling van het begrip rechtmatigheid en het voldoen aan de WOPT-eisen. Om het controleprotocol actueel te houden is voorzien in een jaarlijkse beoordeling van het protocol door het ministerie van Justitie. 
 
 ### 1.2  
 
@@ -199,19 +199,19 @@ Voor zover niet vastgelegd in de wet- en regelgeving of algemeen bekend, worden 
 
 ####Subsidieverstrekker, -ontvanger, en accountant
 
-De subsidieverstrekker verleent gelden, in de vorm van een subsidie, aan de subsidieontvanger voor het uitvoeren van bepaalde (veelal wettelijke) taken. De subsidieverstrekker is verantwoordelijk voor het vaststellen van het operationele en financiële normenkader waarbinnen de subsidieontvanger moet opereren. Het normenkader zal over het algemeen in belangrijke mate zijn geregeld in een wet en daarop geënte lagere regelgeving. Aanvullend daarop kunnen nadere regels zijn gesteld, die vanzelfsprekend door de subsidieverstrekker aan de subsidieontvanger zijn medegedeeld. De subsidieverstrekker houdt toezicht op de wijze waarop de subsidieontvanger de wettelijke taken uitvoert en op het naleven van de subsidievoorwaarden. Voor wat betreft de kwaliteit van de uitvoering zal vaak gebruik worden gemaakt van inspecties (zoals bijvoorbeeld door de Inspectie Jeugdzorg). Voor wat betreft het financieel-economisch toezicht wordt waar mogelijk gebruik gemaakt van de werkzaamheden van de (openbare) accountant die door het bestuur of de Raad van Toezicht van de gesubsidieerde organisatie is aangesteld. Dit protocol ziet toe op het laatstgenoemde onderdeel. De subsidieontvanger is binnen het gegeven normenkader verantwoordelijk voor het voeren van een adequate bedrijfsvoering en het rechtmatig en doelmatig gebruik van de subsidiegelden, alsmede de betrouwbare totstandkoming van de niet financiële informatie. Daarnaast is de subsidieontvanger verantwoordelijk voor de juistheid, volledigheid en tijdigheid van de verantwoording aan de toezichthouder. De openbare accountant is verantwoordelijk voor het geven van een oordeel over de getrouwheid van het financiële verslag en de rechtmatigheid van de in het financiële verslag verantwoorde baten, lasten en balansmutaties. Verder is de accountant verantwoordelijk voor het geven van een oordeel over de ordelijke, deugdelijke en controleerbare totstandkoming van de niet financiële informatie bij het financiële verslag.  
+De subsidieverstrekker verleent gelden, in de vorm van een subsidie, aan de subsidieontvanger voor het uitvoeren van bepaalde (veelal wettelijke) taken. De subsidieverstrekker is verantwoordelijk voor het vaststellen van het operationele en financiële normenkader waarbinnen de subsidieontvanger moet opereren. Het normenkader zal over het algemeen in belangrijke mate zijn geregeld in een wet en daarop geënte lagere regelgeving. Aanvullend daarop kunnen nadere regels zijn gesteld, die vanzelfsprekend door de subsidieverstrekker aan de subsidieontvanger zijn medegedeeld. De subsidieverstrekker houdt toezicht op de wijze waarop de subsidieontvanger de wettelijke taken uitvoert en op het naleven van de subsidievoorwaarden. Voor wat betreft de kwaliteit van de uitvoering zal vaak gebruik worden gemaakt van inspecties (zoals bijvoorbeeld door de Inspectie Jeugdzorg). Voor wat betreft het financieel-economisch toezicht wordt waar mogelijk gebruik gemaakt van de werkzaamheden van de (openbare) accountant die door het bestuur of de Raad van Toezicht van de gesubsidieerde organisatie is aangesteld. Dit protocol ziet toe op het laatstgenoemde onderdeel. De subsidieontvanger is binnen het gegeven normenkader verantwoordelijk voor het voeren van een adequate bedrijfsvoering en het rechtmatig en doelmatig gebruik van de subsidiegelden, alsmede de betrouwbare totstandkoming van de niet financiële informatie. Daarnaast is de subsidieontvanger verantwoordelijk voor de juistheid, volledigheid en tijdigheid van de verantwoording aan de toezichthouder. De openbare accountant is verantwoordelijk voor het geven van een oordeel over de getrouwheid van het financiële verslag en de rechtmatigheid van de in het financiële verslag verantwoorde baten, lasten en balansmutaties. Verder is de accountant verantwoordelijk voor het geven van een oordeel over de ordelijke, deugdelijke en controleerbare totstandkoming van de niet financiële informatie bij het financiële verslag. 
 
 ### 1.3.2  
 
 ####Verantwoording
 
-In de aan de subsidie verbonden voorwaarden is vastgelegd op welke wijze de subsidieontvanger verantwoording aflegt aan de subsidieverstrekker; dit kan zijn door middel van een jaarrekening, een bestuursverslag, specifieke afrekening, de viermaandsrapportages.  
+In de aan de subsidie verbonden voorwaarden is vastgelegd op welke wijze de subsidieontvanger verantwoording aflegt aan de subsidieverstrekker; dit kan zijn door middel van een jaarrekening, een bestuursverslag, specifieke afrekening, de viermaandsrapportages. 
 
 ### 1.3.3  
 
 ####Rechtmatigheid
 
-Voor het onderdeel over rechtmatigheid wordt in het kader van de subsidieverstrekking de definitie van financiële rechtmatigheid, bij de Rijksoverheid ook wel aangeduid met comptabele rechtmatigheid toegepast. Financiële rechtmatigheid houdt in dat een financiële transactie waarvan de uitkomst in het jaarverslag dient te worden verantwoord in overeenstemming is met de begrotingswetten en met de in de internationale regelgeving, Nederlandse wetten, algemene maatregelen van bestuur en ministeriële regelingen opgenomen bepalingen die de uitkomst van die financiële transactie beïnvloeden. Specifiek op de subsidierelatie van toepassing zijnde regelgeving wordt opgenomen in een bijlage van het protocol (zie bijlage 4). <sup> 1  Bron: Rijksbegrotingsvoorschriften 2007.  </sup> Ter illustratie de volgende voorbeelden. Er is bijvoorbeeld sprake van een onrechtmatigheid als: 
+Voor het onderdeel over rechtmatigheid wordt in het kader van de subsidieverstrekking de definitie van financiële rechtmatigheid, bij de Rijksoverheid ook wel aangeduid met comptabele rechtmatigheid toegepast. Financiële rechtmatigheid houdt in dat een financiële transactie waarvan de uitkomst in het jaarverslag dient te worden verantwoord in overeenstemming is met de begrotingswetten en met de in de internationale regelgeving, Nederlandse wetten, algemene maatregelen van bestuur en ministeriële regelingen opgenomen bepalingen die de uitkomst van die financiële transactie beïnvloeden.<sup> 1  Bron: Rijksbegrotingsvoorschriften 2007. </sup> Specifiek op de subsidierelatie van toepassing zijnde regelgeving wordt opgenomen in een bijlage van het protocol (zie bijlage 4). Ter illustratie de volgende voorbeelden. Er is bijvoorbeeld sprake van een onrechtmatigheid als: 
 
 – de regels van Europese aanbesteding niet zijn nageleefd;  
 
@@ -219,19 +219,19 @@ Voor het onderdeel over rechtmatigheid wordt in het kader van de subsidieverstre
 
 – de uitgaven niet in overeenstemming zijn met de basisbescheiden (te hoge inschaling, teveel verlofdagen uitbetaald);  
 
-– goederen zijn betaald maar niet geleverd.   Voor de controle van de (financiële) rechtmatigheid wordt gebruik gemaakt van van toepassing zijnde criteria. Deze zijn in het Handboek Auditing Rijksoverheid (HARo) nader uitgewerkt. Verwezen wordt naar de website: http://iodad.rijksweb.nl/audits/financial/haro/index.html  
+– goederen zijn betaald maar niet geleverd.   Voor de controle van de (financiële) rechtmatigheid wordt gebruik gemaakt van van toepassing zijnde criteria. Deze zijn in het Handboek Auditing Rijksoverheid (HARo) nader uitgewerkt. Verwezen wordt naar de website: http://iodad.rijksweb.nl/audits/financial/haro/index.html 
 
 ### 1.3.4  
 
 ####Betrouwbaarheid en nauwkeurigheid
 
-Ten behoeve van de oordeelsvorming over de aanwending van subsidies wordt van de accountant gevraagd de controle uit te voeren met een gewenste mate van betrouwbaarheid en nauwkeurigheid. De nauwkeurigheid hangt samen met de goedkeuringstolerantie of materialiteit en geeft in feite een drempel of een kritische grens aan voor de oordeelsvorming. De betrouwbaarheid en nauwkeurigheid worden weergegeven in percentages (en/of absolute bedragen). Deze behoeven niet voor alle gevraagde producten gelijk te zijn. Voor assurance-opdrachten (zie hoofdstukken 2 en 3) zullen de gewenste betrouwbaarheid en nauwkeurigheid specifiek worden weergegeven.  
+Ten behoeve van de oordeelsvorming over de aanwending van subsidies wordt van de accountant gevraagd de controle uit te voeren met een gewenste mate van betrouwbaarheid en nauwkeurigheid. De nauwkeurigheid hangt samen met de goedkeuringstolerantie of materialiteit en geeft in feite een drempel of een kritische grens aan voor de oordeelsvorming. De betrouwbaarheid en nauwkeurigheid worden weergegeven in percentages (en/of absolute bedragen). Deze behoeven niet voor alle gevraagde producten gelijk te zijn. Voor assurance-opdrachten (zie hoofdstukken 2 en 3) zullen de gewenste betrouwbaarheid en nauwkeurigheid specifiek worden weergegeven. 
 
 ### 1.3.5  
 
 ####Omvangsbasis
 
-Het begrip omvangsbasis geeft aan tegen welke omvang (bedrag) de geconstateerde tekortkomingen moeten worden afgezet, bijvoorbeeld een bepaalde geldstroom of post in de verantwoording.  
+Het begrip omvangsbasis geeft aan tegen welke omvang (bedrag) de geconstateerde tekortkomingen moeten worden afgezet, bijvoorbeeld een bepaalde geldstroom of post in de verantwoording. 
 
 ### 2  
 
@@ -241,19 +241,19 @@ Het begrip omvangsbasis geeft aan tegen welke omvang (bedrag) de geconstateerde 
 
 ####Algemeen
 
-Een accountantsverklaring wordt afgegeven bij hetzij een algemene verantwoording (jaarrekening) hetzij een specifieke verantwoording (subsidieafrekening). Een accountantsverklaring kan alleen betrekking hebben op historische financiële informatie. Bij jaarrekeningen gaat het om een getrouwe weergave van vermogen en resultaat in overeenstemming met een algemeen aanvaard verslaggevingsstelsel; bij specifieke verantwoordingen om het voldoen aan de daaraan te stellen eisen zoals vastgelegd in de desbetreffende subsidieregeling of -besluit. Voor de tekst van accountantsverklaringen zijn de Nadere Voorschriften Controle en Overige Standaarden (NV COS) 700 en 800 leidend. Het protocol moet aangeven, of naast een oordeel over de getrouwheid van vermogen en resultaat een conclusie nodig is over het voldoen aan specifieke wet- en regelgeving (rechtmatigheid). De strekking van een verklaring kan goedkeurend zijn, met een beperking, een oordeelonthouding of afkeurend. De strekking van de verklaring is afhankelijk van de uitkomst van de controle cq het onderzoek; het is niet mogelijk dat een protocol op voorhand vastlegt dat alleen goedkeurende verklaringen afgegeven mogen worden.  
+Een accountantsverklaring wordt afgegeven bij hetzij een algemene verantwoording (jaarrekening) hetzij een specifieke verantwoording (subsidieafrekening). Een accountantsverklaring kan alleen betrekking hebben op historische financiële informatie. Bij jaarrekeningen gaat het om een getrouwe weergave van vermogen en resultaat in overeenstemming met een algemeen aanvaard verslaggevingsstelsel; bij specifieke verantwoordingen om het voldoen aan de daaraan te stellen eisen zoals vastgelegd in de desbetreffende subsidieregeling of -besluit. Voor de tekst van accountantsverklaringen zijn de Nadere Voorschriften Controle en Overige Standaarden (NV COS) 700 en 800 leidend. Het protocol moet aangeven, of naast een oordeel over de getrouwheid van vermogen en resultaat een conclusie nodig is over het voldoen aan specifieke wet- en regelgeving (rechtmatigheid). De strekking van een verklaring kan goedkeurend zijn, met een beperking, een oordeelonthouding of afkeurend. De strekking van de verklaring is afhankelijk van de uitkomst van de controle cq het onderzoek; het is niet mogelijk dat een protocol op voorhand vastlegt dat alleen goedkeurende verklaringen afgegeven mogen worden. 
 
 ### 2.2  
 
 ####Aanwijzingen voor de controle
 
-In de accountantsverklaring spreekt de accountant een oordeel uit of het in het jaarverslag opgenomen financiële verslag met de daarbij behorende financiële toelichtingen getrouw is en de daarin verantwoorde baten, lasten en balansmutaties rechtmatig zijn. Voorts bevat de accountantsverklaring een uitspraak over de vraag of het jaarverslag is opgesteld in overeenstemming met de verslaggevingvoorschriften en over de vraag of de in het jaarverslag opgenomen niet-financiële informatie niet strijdig is met de financiële informatie. Verwezen wordt naar COS 720, andere gegevens in stukken waarin de gecontroleerde financiële overzichten zijn opgenomen.  
+In de accountantsverklaring spreekt de accountant een oordeel uit of het in het jaarverslag opgenomen financiële verslag met de daarbij behorende financiële toelichtingen getrouw is en de daarin verantwoorde baten, lasten en balansmutaties rechtmatig zijn. Voorts bevat de accountantsverklaring een uitspraak over de vraag of het jaarverslag is opgesteld in overeenstemming met de verslaggevingvoorschriften en over de vraag of de in het jaarverslag opgenomen niet-financiële informatie niet strijdig is met de financiële informatie. Verwezen wordt naar COS 720, andere gegevens in stukken waarin de gecontroleerde financiële overzichten zijn opgenomen. 
 
 ### 2.3  
 
 ####Referentiekader
 
-Het ‘Stramien voor Assurance-opdrachten’ is leidend voor controle-opdrachten die leiden tot een accountantsverklaring. Dit Stramien geeft een referentiekader ten behoeve van accountants en anderen die betrokken zijn bij assurance opdrachten, waaronder de beoogde gebruikers en de verantwoordelijke partij. De controle dient te worden uitgevoerd door een accountant als bedoeld in [artikel 393, eerste lid van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). Buiten de als bekend veronderstelde algemene wet- en regelgeving, moet de verantwoording voldoen aan specifiek op de subsidierelatie van toepassing zijnde wet- en regelgeving. Deze specifieke regelgeving wordt vermeld in de bijlage van het specifieke deel van de Aanwijzing controleprotocol subsidiëring.  
+Het ‘Stramien voor Assurance-opdrachten’ is leidend voor controle-opdrachten die leiden tot een accountantsverklaring. Dit Stramien geeft een referentiekader ten behoeve van accountants en anderen die betrokken zijn bij assurance opdrachten, waaronder de beoogde gebruikers en de verantwoordelijke partij. De controle dient te worden uitgevoerd door een accountant als bedoeld in [artikel 393, eerste lid van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). Buiten de als bekend veronderstelde algemene wet- en regelgeving, moet de verantwoording voldoen aan specifiek op de subsidierelatie van toepassing zijnde wet- en regelgeving. Deze specifieke regelgeving wordt vermeld in de bijlage van het specifieke deel van de Aanwijzing controleprotocol subsidiëring. 
 
 ### 2.4  
 
@@ -261,22 +261,22 @@ Het ‘Stramien voor Assurance-opdrachten’ is leidend voor controle-opdrachten
 
 Bij de oordeelsvorming streeft de accountant naar een hoge mate van zekerheid. Indien dit begrip voor het gebruik van statistische technieken gekwantificeerd moet worden, moet uitgegaan worden van een betrouwbaarheid van 95 procent. Voor de materialiteit of goedkeuringstolerantie geldt: Een accountantsverklaring met een goedkeurende strekking impliceert dat, gegeven eerder genoemde betrouwbaarheid, de meest waarschijnlijke fout niet groter is dan één procent van die verantwoording. Als deze norm overschreden wordt, is de hieronder vermelde tabel van toepassing. Genoemde percentages zijn ontleend aan het Handboek Auditing Rijksoverheid (HARo) 2006 van het Interdepartementaal Overleg Departementale Auditdiensten (IODAD).  
 
-| Soort verklaring  | Goedkeurend  | Met beperking  | Oordeelonthouding  | Afkeurend  |
+| Soort verklaring   | Goedkeurend  | Met beperking   | Oordeelonthouding  | Afkeurend  |
 |:---|:---|:---|:---|:---|
-| Fouten in de verantwoording  | ≤ 1%  | > 1% en ≤ 3%  | Niet relevant.  | > 3%  |
-| Onzekerheden in de controle  | ≤ 3%  | > 3% en ≤10%  | > 10%  | Niet relevant  |
+| Fouten in de verantwoording   | ≤ 1%   | > 1% en ≤ 3%  | Niet relevant.  | > 3%  |
+| Onzekerheden in de controle   | ≤ 3%   | > 3% en ≤10%   | > 10%  | Niet relevant  |
 
 ####Fout in de verantwoording
 
-Van een rechtmatigheidsfout in de verantwoording is sprake indien naar aanleiding van het uitgevoerde onderzoek is gebleken dat een (gedeelte van) een post niet in overeenstemming is met één of meer aspecten van de wet- en regelgeving. Fouten worden in absolute zin opgevat, voor zover deze betrekking hebben op de rechtmatigheid. Saldering van rechtmatigheidfouten is daarom niet toegestaan. Getrouwheidsfouten mogen wel gesaldeerd worden.  
+Van een rechtmatigheidsfout in de verantwoording is sprake indien naar aanleiding van het uitgevoerde onderzoek is gebleken dat een (gedeelte van) een post niet in overeenstemming is met één of meer aspecten van de wet- en regelgeving. Fouten worden in absolute zin opgevat, voor zover deze betrekking hebben op de rechtmatigheid. Saldering van rechtmatigheidfouten is daarom niet toegestaan. Getrouwheidsfouten mogen wel gesaldeerd worden. 
 
 ####Onzekerheid in de controle
 
-Van een onzekerheid in de controle is sprake als er onvoldoende (controle-) informatie beschikbaar is om een (gedeelte van een) post als goed of fout aan te merken. Kortom als onzekerheid bestaat over het wel of niet voldoen aan één of meer aspecten van de wet- en regelgeving.  
+Van een onzekerheid in de controle is sprake als er onvoldoende (controle-) informatie beschikbaar is om een (gedeelte van een) post als goed of fout aan te merken. Kortom als onzekerheid bestaat over het wel of niet voldoen aan één of meer aspecten van de wet- en regelgeving. 
 
 ####Kwalitatieve tekortkomingen
 
-De tijdens de controle geconstateerde controleverschillen leiden tot fouten of onzekerheden. Vele controleverschillen zijn kwantitatief; soms spelen kwalitatieve aspecten een rol. Ook kwalitatieve tekortkomingen kunnen leiden tot een niet goedkeurende accountantsverklaring. De vraag onder welke omstandigheden een zodanige situatie wordt bereikt, is een zaak van kwalitatieve oordeelsvorming, waarvoor geen algemeen geldende voorschriften zijn te geven. Voor een adequate onderbouwing van het oordeel is het echter noodzakelijk dat de accountant ook kwalitatieve fouten en onzekerheden zoveel mogelijk kwantificeert.  
+De tijdens de controle geconstateerde controleverschillen leiden tot fouten of onzekerheden. Vele controleverschillen zijn kwantitatief; soms spelen kwalitatieve aspecten een rol. Ook kwalitatieve tekortkomingen kunnen leiden tot een niet goedkeurende accountantsverklaring. De vraag onder welke omstandigheden een zodanige situatie wordt bereikt, is een zaak van kwalitatieve oordeelsvorming, waarvoor geen algemeen geldende voorschriften zijn te geven. Voor een adequate onderbouwing van het oordeel is het echter noodzakelijk dat de accountant ook kwalitatieve fouten en onzekerheden zoveel mogelijk kwantificeert. 
 
 ### 2.5  
 
@@ -294,7 +294,7 @@ Voorbeelden van bepalingen die onderzocht worden in een accountantsonderzoek en 
 
 – Vaststellen dat het financiële verslag aansluit op de goedgekeurde begroting waarvoor subsidie is verleend.  
 
-– De naleving van de Europese voorschriften inzake aanbestedingen.   Ondanks het feit dat bovenstaande voorbeelden van bepalingen onder de reikwijdte van de accountantsverklaring vallen, zullen relevante punten als attentiepunten in het controle protocol worden opgenomen indien sprake is van specifieke wet- en regelgeving.  
+– De naleving van de Europese voorschriften inzake aanbestedingen.   Ondanks het feit dat bovenstaande voorbeelden van bepalingen onder de reikwijdte van de accountantsverklaring vallen, zullen relevante punten als attentiepunten in het controle protocol worden opgenomen indien sprake is van specifieke wet- en regelgeving. 
 
 ### 3  
 
@@ -304,7 +304,7 @@ Voorbeelden van bepalingen die onderzocht worden in een accountantsonderzoek en 
 
 ####Algemeen
 
-Deze rapportagevorm is geschikt als ook andere aspecten dan alleen de getrouwheid en rechtmatigheid van de financiële informatie moeten worden getoetst en als het andere informatie dan historische financiële informatie betreft, zoals processen en systemen (financieel beheer) en gedrag (naleving van gedragsvoorschriften). Voor een assurance-rapport is COS 3000 leidend. Het kan hetzelfde zekerheidsniveau verschaffen als een accountantsverklaring, maar heeft als voordeel dat meer ruimte bestaat voor het vermelden van specifieke bevindingen. Assurance-opdrachten die leiden tot een assurancerapport moeten aan vergelijkbare kwaliteitseisen voldoen als assurance-opdrachten die leiden tot een accountantsverklaring. Dit betekent, dat het desbetreffende protocol op dezelfde wijze kan worden ingericht als bij een accountantsverklaring. Ook de strekking van een assurance-rapport kan anders dan goedkeurend zijn.  
+Deze rapportagevorm is geschikt als ook andere aspecten dan alleen de getrouwheid en rechtmatigheid van de financiële informatie moeten worden getoetst en als het andere informatie dan historische financiële informatie betreft, zoals processen en systemen (financieel beheer) en gedrag (naleving van gedragsvoorschriften). Voor een assurance-rapport is COS 3000 leidend. Het kan hetzelfde zekerheidsniveau verschaffen als een accountantsverklaring, maar heeft als voordeel dat meer ruimte bestaat voor het vermelden van specifieke bevindingen. Assurance-opdrachten die leiden tot een assurancerapport moeten aan vergelijkbare kwaliteitseisen voldoen als assurance-opdrachten die leiden tot een accountantsverklaring. Dit betekent, dat het desbetreffende protocol op dezelfde wijze kan worden ingericht als bij een accountantsverklaring. Ook de strekking van een assurance-rapport kan anders dan goedkeurend zijn. 
 
 ### 3.2  
 
@@ -320,7 +320,7 @@ De accountant dient toereikende assurance informatie te verkrijgen waarop zijn c
 
 – Een samenvatting van de uitgevoerde werkzaamheden;  
 
-– De conclusie van de accountant.   Als de informatie over het object van onderzoek betrekking heeft op een aantal aspecten kan de accountant een afzonderlijke conclusie formuleren voor elk van deze aspecten.  
+– De conclusie van de accountant.   Als de informatie over het object van onderzoek betrekking heeft op een aantal aspecten kan de accountant een afzonderlijke conclusie formuleren voor elk van deze aspecten. 
 
 ### 3.3  
 
@@ -344,7 +344,7 @@ Voorbeelden van bepalingen die onderzocht kunnen worden in een assurance onderzo
 
 – Vaststellen dat rechtsbijstand alleen wordt verleend door daartoe in [artikel 13 van de Wet op de rechtsbijstand](../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md) vermelde rechtsbijstandverleners rekening houdend met de vermelde uitzonderingsbepalingen.  
 
-– Vaststellen dat de met notarissen en anderen aangegane overeenkomsten tot het verlenen van rechtsbijstand op bepaalde gebieden overeenkomen met de in het door de Staatssecretaris goedgekeurde jaarplan vermelde nadere regels.   In de situatie dat geen zekerheidsoordeel wordt verlangd, maar volstaan kan worden met een beschrijving van de feitelijke situatie is er keuzemogelijkheid om de uitkomsten van bovengenoemde onderzoeken op te nemen in een rapport van feitelijke bevindingen.  
+– Vaststellen dat de met notarissen en anderen aangegane overeenkomsten tot het verlenen van rechtsbijstand op bepaalde gebieden overeenkomen met de in het door de Staatssecretaris goedgekeurde jaarplan vermelde nadere regels.   In de situatie dat geen zekerheidsoordeel wordt verlangd, maar volstaan kan worden met een beschrijving van de feitelijke situatie is er keuzemogelijkheid om de uitkomsten van bovengenoemde onderzoeken op te nemen in een rapport van feitelijke bevindingen. 
 
 ### 4  
 
@@ -354,7 +354,7 @@ Voorbeelden van bepalingen die onderzocht kunnen worden in een assurance onderzo
 
 ####Algemeen
 
-In een rapport van feitelijke bevindingen worden de onderzoeksbevindingen vermeld, zonder dat de accountant een oordeel hierover uitspreekt. Dat wordt overgelaten aan de gebruiker van het rapport. Deze rapportvorm valt onder COS 4400. Aan het gebruik van het rapport zijn beperkingen verbonden. De accountant doet verslag van zijn feitelijke bevindingen uit hoofde van specifiek overeengekomen werkzaamheden. Hij voert in deze situatie geen controle uit die leidt tot een accountantsverklaring bij een financiële verantwoording; het is geen assurance-opdracht. In het specifieke protocol moet duidelijk zijn vastgelegd, wat de aard, het tijdstip van uitvoering en de omvang van de uit te voeren werkzaamheden zijn en ook de vorm van de rapportage en de verspreidingskring. De accountant beschrijft zijn bevindingen met daarbij de door hem aangetroffen fouten en afwijkingen. De gebruiker van de rapportage beslist op grond hiervan zelf of de subsidieontvanger voldaan heeft aan de gestelde voorwaarden. Gezien de specifieke afspraken is de rapportage uitsluitend bestemd voor de partijen waarmee de accountant de werkzaamheden is overeengekomen, omdat anderen (die niet op de hoogte zijn van het doel van de werkzaamheden) de resultaten onjuist zouden kunnen interpreteren. De [Wet openbaarheid bestuur](../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) (WOB) staat deze rapportvorm niet in de weg, wel moeten enkele waarborgen worden ingebouwd. Zo moet het rapport expliciet vermelden dat het voor een beperkte kring bestemd is en moet in de opdrachtbevestiging staan dat verdere verspreiding alleen mogelijk is na schriftelijke toestemming van de accountant.  
+In een rapport van feitelijke bevindingen worden de onderzoeksbevindingen vermeld, zonder dat de accountant een oordeel hierover uitspreekt. Dat wordt overgelaten aan de gebruiker van het rapport. Deze rapportvorm valt onder COS 4400. Aan het gebruik van het rapport zijn beperkingen verbonden. De accountant doet verslag van zijn feitelijke bevindingen uit hoofde van specifiek overeengekomen werkzaamheden. Hij voert in deze situatie geen controle uit die leidt tot een accountantsverklaring bij een financiële verantwoording; het is geen assurance-opdracht. In het specifieke protocol moet duidelijk zijn vastgelegd, wat de aard, het tijdstip van uitvoering en de omvang van de uit te voeren werkzaamheden zijn en ook de vorm van de rapportage en de verspreidingskring. De accountant beschrijft zijn bevindingen met daarbij de door hem aangetroffen fouten en afwijkingen. De gebruiker van de rapportage beslist op grond hiervan zelf of de subsidieontvanger voldaan heeft aan de gestelde voorwaarden. Gezien de specifieke afspraken is de rapportage uitsluitend bestemd voor de partijen waarmee de accountant de werkzaamheden is overeengekomen, omdat anderen (die niet op de hoogte zijn van het doel van de werkzaamheden) de resultaten onjuist zouden kunnen interpreteren. De [Wet openbaarheid bestuur](../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) (WOB) staat deze rapportvorm niet in de weg, wel moeten enkele waarborgen worden ingebouwd. Zo moet het rapport expliciet vermelden dat het voor een beperkte kring bestemd is en moet in de opdrachtbevestiging staan dat verdere verspreiding alleen mogelijk is na schriftelijke toestemming van de accountant. 
 
 ### 4.2  
 
@@ -378,11 +378,11 @@ Het rapport van feitelijke bevindingen dient onder meer te bevatten:
 
 ####Ordelijk
 
-Ordelijk wil zeggen opgezet in overeenstemming met de in de administratieve organisatie en interne controle vastgelegde procedures en bestaande wet- en regelgeving en functionerend in overeenstemming daarmee. Belangrijke aspecten van een ordelijk gevoerd financieel beheer zijn: transparantie, administratieve accuratesse, adequate functiescheiding en verantwoordelijkheidsverdeling, tijdigheid van verwerking, goede dossiervorming en duidelijke managementrapportages.  
+Ordelijk wil zeggen opgezet in overeenstemming met de in de administratieve organisatie en interne controle vastgelegde procedures en bestaande wet- en regelgeving en functionerend in overeenstemming daarmee. Belangrijke aspecten van een ordelijk gevoerd financieel beheer zijn: transparantie, administratieve accuratesse, adequate functiescheiding en verantwoordelijkheidsverdeling, tijdigheid van verwerking, goede dossiervorming en duidelijke managementrapportages. 
 
 ####Controleerbaar
 
-Controleerbaar wil zeggen dat de beschikbare informatie de controlerende instanties van een organisatie in staat stelt om de besluitvorming en de administratieve verwerking hiervan te beoordelen en op werking te toetsen.  
+Controleerbaar wil zeggen dat de beschikbare informatie de controlerende instanties van een organisatie in staat stelt om de besluitvorming en de administratieve verwerking hiervan te beoordelen en op werking te toetsen. 
 
 ### 4.3  
 
@@ -400,7 +400,7 @@ Het onderzoek dient te worden uitgevoerd door een accountant als bedoeld in [art
 
 – De te verwachten vorm van het rapport van feitelijke bevindingen.  
 
-– Beperkingen in de verspreiding van het rapport met de feitelijke bevindingen.    
+– Beperkingen in de verspreiding van het rapport met de feitelijke bevindingen.   
 
 ### 4.4  
 
@@ -424,7 +424,7 @@ Onderstaand zijn voorbeelden van bepalingen vermeld die onderzocht worden en zic
 
 – Het treffen van een regeling voor de behandeling van klachten, met inachtneming van hetgeen hieromtrent is bepaald in van toepassing zijnde wet- en regelgeving.  
 
-– De ordelijke, deugdelijke en controleerbare totstandkoming van de niet-financiële informatie.    
+– De ordelijke, deugdelijke en controleerbare totstandkoming van de niet-financiële informatie.   
 
 ### 5  
 
@@ -434,7 +434,7 @@ Onderstaand zijn voorbeelden van bepalingen vermeld die onderzocht worden en zic
 
 ####Keuze accountantsproduct
 
-In het specifieke deel van het protocol moet een duidelijke keuze worden gemaakt voor het gewenste product of de gewenste producten. Deze keuze is enerzijds afhankelijk van het object van onderzoek en anderzijds van de gewenste mate van zekerheid. Staat het verkrijgen van assurance door de accountant centraal, dan moet gekozen worden voor een accountantsverklaring of een assurance-rapport. Een verklaring is alleen mogelijk als sprake is van historische financiële informatie. Bij andere informatie dan historische financiële informatie (bijvoorbeeld: aantallen) of bij andere aspecten dan alleen de getrouwheid en rechtmatigheid van de financiële informatie is een assurance-rapport op zijn plaats. Als de bevindingen van de accountant belangrijker zijn dan het krijgen van assurance en de rapportage alleen bestemd is voor een beperkte kring, dan kan een rapport van feitelijke bevindingen een goede keuze zijn. Een accountantsverklaring biedt zekerheid, maar is niet bedoeld voor het vermelden van alle onderzoeksbevindingen. Rapportering vindt eerst plaats bij fouten in de verantwoording die de aangegeven toleranties overschrijden. Eventueel kan ook voor een combinatie van een assurance-rapport en een rapport van feitelijke bevindingen worden gekozen, als een combinatie van zekerheid en bevindingen wenselijk is, uiteraard met inachtneming van voor elk produkt zijn eigen bepalingen.  
+In het specifieke deel van het protocol moet een duidelijke keuze worden gemaakt voor het gewenste product of de gewenste producten. Deze keuze is enerzijds afhankelijk van het object van onderzoek en anderzijds van de gewenste mate van zekerheid. Staat het verkrijgen van assurance door de accountant centraal, dan moet gekozen worden voor een accountantsverklaring of een assurance-rapport. Een verklaring is alleen mogelijk als sprake is van historische financiële informatie. Bij andere informatie dan historische financiële informatie (bijvoorbeeld: aantallen) of bij andere aspecten dan alleen de getrouwheid en rechtmatigheid van de financiële informatie is een assurance-rapport op zijn plaats. Als de bevindingen van de accountant belangrijker zijn dan het krijgen van assurance en de rapportage alleen bestemd is voor een beperkte kring, dan kan een rapport van feitelijke bevindingen een goede keuze zijn. Een accountantsverklaring biedt zekerheid, maar is niet bedoeld voor het vermelden van alle onderzoeksbevindingen. Rapportering vindt eerst plaats bij fouten in de verantwoording die de aangegeven toleranties overschrijden. Eventueel kan ook voor een combinatie van een assurance-rapport en een rapport van feitelijke bevindingen worden gekozen, als een combinatie van zekerheid en bevindingen wenselijk is, uiteraard met inachtneming van voor elk produkt zijn eigen bepalingen. 
 
 ### 5.2  
 
@@ -444,19 +444,19 @@ In het specifieke deel van het protocol moet een duidelijke keuze worden gemaakt
 
 ####Controleaanpak
 
-De controleaanpak is de primaire verantwoordelijkheid van de accountant. Het controleprotocol moet wel de op wet- en regelgeving gebaseerde toetsingspunten aangeven of vermelden welke aspecten minimaal in de controle c.q. het onderzoek moeten worden meegenomen. Het is echter geen controleplan of werkprogramma. De aanwijzingen moeten een afgebakend en volledig kader bieden van het onderwerp van controle van de accountant.  
+De controleaanpak is de primaire verantwoordelijkheid van de accountant. Het controleprotocol moet wel de op wet- en regelgeving gebaseerde toetsingspunten aangeven of vermelden welke aspecten minimaal in de controle c.q. het onderzoek moeten worden meegenomen. Het is echter geen controleplan of werkprogramma. De aanwijzingen moeten een afgebakend en volledig kader bieden van het onderwerp van controle van de accountant. 
 
 ### 5.2.2  
 
 ####Referentiekader
 
-Het referentiekader voor het onderzoek ligt vast in de wet- en regelgeving die aan de (subsidie)regeling ten grondslag ligt. Het verdient aanbeveling dat het protocol expliciet verwijst naar de specifieke relevante wet- en regelgeving. Is deze omvangrijk, dan kan dit in de vorm van een bijlage bij het protocol. Volledigheid is belangrijk, de accountant moet weten welke voorschriften wel en niet onder het protocol vallen. Het controleprotocol verduidelijkt in het referentiekader de criteria uit de regelgeving, voor zover dit nodig is.  
+Het referentiekader voor het onderzoek ligt vast in de wet- en regelgeving die aan de (subsidie)regeling ten grondslag ligt. Het verdient aanbeveling dat het protocol expliciet verwijst naar de specifieke relevante wet- en regelgeving. Is deze omvangrijk, dan kan dit in de vorm van een bijlage bij het protocol. Volledigheid is belangrijk, de accountant moet weten welke voorschriften wel en niet onder het protocol vallen. Het controleprotocol verduidelijkt in het referentiekader de criteria uit de regelgeving, voor zover dit nodig is. 
 
 ### 5.2.3  
 
 ####Betrouwbaarheid en nauwkeurigheid
 
-De accountant moet weten welke toleranties en foutdefinities voor het onderzoek gelden. Dit hangt samen met de gewenste zekerheid. Hoe hoger de gewenste betrouwbaarheid over de rechtmatige besteding van middelen of de rechtmatigheid van de daarover afgelegde verantwoording, hoe omvangrijker het accountantsonderzoek. Het protocol vermeldt of uitgegaan wordt van algemeen geldende betrouwbaarheidsnormen (zoals bij de jaarrekeningcontrole), of dat meer strikte normen gelden. Honderd procent betrouwbaarheid is niet reëel, omdat aan een accountantscontrole altijd beperkingen ten grondslag liggen. Het protocol gaat verder in op de gewenste nauwkeurigheid. Dit begrip hangt samen met de goedkeuringstolerantie of materialiteit. Een protocol moet hier duidelijke foutdefinities geven. Wanneer is sprake van een fout of een onzekerheid, mogen fouten gesaldeerd worden, moeten ze gecorrigeerd worden en hoe moet daarover worden gerapporteerd.  
+De accountant moet weten welke toleranties en foutdefinities voor het onderzoek gelden. Dit hangt samen met de gewenste zekerheid. Hoe hoger de gewenste betrouwbaarheid over de rechtmatige besteding van middelen of de rechtmatigheid van de daarover afgelegde verantwoording, hoe omvangrijker het accountantsonderzoek. Het protocol vermeldt of uitgegaan wordt van algemeen geldende betrouwbaarheidsnormen (zoals bij de jaarrekeningcontrole), of dat meer strikte normen gelden. Honderd procent betrouwbaarheid is niet reëel, omdat aan een accountantscontrole altijd beperkingen ten grondslag liggen. Het protocol gaat verder in op de gewenste nauwkeurigheid. Dit begrip hangt samen met de goedkeuringstolerantie of materialiteit. Een protocol moet hier duidelijke foutdefinities geven. Wanneer is sprake van een fout of een onzekerheid, mogen fouten gesaldeerd worden, moeten ze gecorrigeerd worden en hoe moet daarover worden gerapporteerd. 
 
 ### 5.3  
 
@@ -466,7 +466,7 @@ De accountant moet weten welke toleranties en foutdefinities voor het onderzoek 
 
 ####Begripsbepaling
 
-Niet-financiële informatie vormt een containerbegrip en kan kwantitatief of kwalitatief van karakter zijn. Kwantitatief wil zeggen dat de informatie getalsmatig is en in getallen of cijfers wordt uitgedrukt, zoals aantallen en termijnen. Kwalitatieve informatie is beschrijvend van aard en geeft de kwaliteit van een object aan. Het kan betrekking hebben op fysieke kenmerken, systemen of gedrag. Onderzoek naar niet-financiële informatie kan zich afhankelijk van de behoefte van de opdrachtgever richten op het totstandkomingsproces dan wel op de uitkomsten. Afhankelijk van de behoefte van de opdrachtgever c.q. de subsidieverstrekkende instantie kan zekerheid over de betrouwbaarheid van niet financiële informatie in elk van de drie genoemde accountantsproducten tot uitdrukking worden gebracht.  
+Niet-financiële informatie vormt een containerbegrip en kan kwantitatief of kwalitatief van karakter zijn. Kwantitatief wil zeggen dat de informatie getalsmatig is en in getallen of cijfers wordt uitgedrukt, zoals aantallen en termijnen. Kwalitatieve informatie is beschrijvend van aard en geeft de kwaliteit van een object aan. Het kan betrekking hebben op fysieke kenmerken, systemen of gedrag. Onderzoek naar niet-financiële informatie kan zich afhankelijk van de behoefte van de opdrachtgever richten op het totstandkomingsproces dan wel op de uitkomsten. Afhankelijk van de behoefte van de opdrachtgever c.q. de subsidieverstrekkende instantie kan zekerheid over de betrouwbaarheid van niet financiële informatie in elk van de drie genoemde accountantsproducten tot uitdrukking worden gebracht. 
 
 ### 5.3.2  
 
@@ -474,15 +474,15 @@ Niet-financiële informatie vormt een containerbegrip en kan kwantitatief of kwa
 
 ####Accountantsverklaring
 
-Indien de niet financiële informatie onderdeel uitmaakt van een zogenaamde p x q financiering cq subsidiering maakt het onderzoek naar de hoeveelheidcomponent, de q, deel uit van de controle door de accountant van de juistheid van de toegekende subsidie en daarmee van de reguliere jaarrekeningcontrole. Het oordeel daarover wordt gegeven in de reguliere accountantsverklaring. Voor wat betreft de betrouwbaarheid en nauwkeurigheid die daarbij in acht wordt genomen, wordt verwezen naar de desbetreffende paragrafen in hoofdstuk 2.  
+Indien de niet financiële informatie onderdeel uitmaakt van een zogenaamde p x q financiering cq subsidiering maakt het onderzoek naar de hoeveelheidcomponent, de q, deel uit van de controle door de accountant van de juistheid van de toegekende subsidie en daarmee van de reguliere jaarrekeningcontrole. Het oordeel daarover wordt gegeven in de reguliere accountantsverklaring. Voor wat betreft de betrouwbaarheid en nauwkeurigheid die daarbij in acht wordt genomen, wordt verwezen naar de desbetreffende paragrafen in hoofdstuk 2. 
 
 ####Assurance rapport
 
-Niet financiële informatie kan betrekking hebben op indicatoren die al dan niet zijn gerelateerd aan uitkomsten die in de jaarrekening zijn vermeld. Als voorbeeld van een in de jaarrekening genoemde indicator wordt genoemd de gerealiseerde bezetting in relatie tot de geprognotiseerde bezetting. Er kan behoefte bestaan aan een oordeel over de betrouwbaarheid die afwijkend is van het accountantsonderzoek met de gebruikelijk gehanteerde 95% betrouwbaarheid en 99% nauwkeurigheid. De accountant stelt bijvoorbeeld vast dat de gerealiseerde productie, zoals verantwoord in de jaarrekening en het jaarverslag, met een grotere nauwkeurigheid en/of betrouwbaarheid dan van toepassing voor de reguliere accountantsverklaring voldoet aan de productiecriteria, zoals die gelden voor het desbetreffende jaar. Deze productiecriteria staan dan aangegeven in de subsidiebrief over het desbetreffende jaar.  
+Niet financiële informatie kan betrekking hebben op indicatoren die al dan niet zijn gerelateerd aan uitkomsten die in de jaarrekening zijn vermeld. Als voorbeeld van een in de jaarrekening genoemde indicator wordt genoemd de gerealiseerde bezetting in relatie tot de geprognotiseerde bezetting. Er kan behoefte bestaan aan een oordeel over de betrouwbaarheid die afwijkend is van het accountantsonderzoek met de gebruikelijk gehanteerde 95% betrouwbaarheid en 99% nauwkeurigheid. De accountant stelt bijvoorbeeld vast dat de gerealiseerde productie, zoals verantwoord in de jaarrekening en het jaarverslag, met een grotere nauwkeurigheid en/of betrouwbaarheid dan van toepassing voor de reguliere accountantsverklaring voldoet aan de productiecriteria, zoals die gelden voor het desbetreffende jaar. Deze productiecriteria staan dan aangegeven in de subsidiebrief over het desbetreffende jaar. 
 
 ####Rapport van feitelijke bevindingen
 
-Onder omstandigheden kan het wenselijk zijn om over niet-financiële informatie als uitkomst van een proces te rapporteren, zonder assurance te geven. Dan is een rapport van feitelijke bevindingen op zijn plaats.  
+Onder omstandigheden kan het wenselijk zijn om over niet-financiële informatie als uitkomst van een proces te rapporteren, zonder assurance te geven. Dan is een rapport van feitelijke bevindingen op zijn plaats. 
 
 ### 5.3.3  
 
@@ -490,7 +490,7 @@ Onder omstandigheden kan het wenselijk zijn om over niet-financiële informatie 
 
 ####Rapport van feitelijke bevindingen
 
-Als niet financiële informatie betrekking heeft op indicatoren die niet gerelateerd zijn aan uitkomsten die in de jaarrekening zijn vermeld, kan een onderzoek worden gevraagd over de wijze van totstandkoming. De bevindingen uit het onderzoek naar de totstandkoming van deze niet financiële informatie worden opgenomen in een rapport van feitelijke bevindingen.  
+Als niet financiële informatie betrekking heeft op indicatoren die niet gerelateerd zijn aan uitkomsten die in de jaarrekening zijn vermeld, kan een onderzoek worden gevraagd over de wijze van totstandkoming. De bevindingen uit het onderzoek naar de totstandkoming van deze niet financiële informatie worden opgenomen in een rapport van feitelijke bevindingen. 
 
 ####Referentiekader
 
@@ -512,13 +512,13 @@ Niet-financiële informatie waaronder onder meer wordt verstaan beleidsinformati
 
 (b) Het toetsen of deze maatregelen gedurende het jaar daadwerkelijk in de praktijk zijn gebracht.  
 
-(c) De aanwezigheid van bronvermelding.    
+(c) De aanwezigheid van bronvermelding.   
 
 ### 5.4  
 
 ####Review van de accountantscontrole
 
-Het ministerie van Justitie kan reviews bij de externe accountant van de gesubsidieerde instelling laten uitvoeren teneinde na te gaan of de accountantscontrole voldoende en geschikt voor het oordeel alsmede met inachtneming van het controleprotocol is uitgevoerd. Voor een uitgebreide toelichting wordt verwezen naar bijlage 7 van het Handboek Auditing Rijksoverheid, reviews van de departementale auditdienst ten aanzien van instellingsaccountants. Voorts is van belang de brief van het ministerie van Financiën zoals vastgelegd in kamer stuk 28779 nummer 1.  
+Het ministerie van Justitie kan reviews bij de externe accountant van de gesubsidieerde instelling laten uitvoeren teneinde na te gaan of de accountantscontrole voldoende en geschikt voor het oordeel alsmede met inachtneming van het controleprotocol is uitgevoerd. Voor een uitgebreide toelichting wordt verwezen naar bijlage 7 van het Handboek Auditing Rijksoverheid, reviews van de departementale auditdienst ten aanzien van instellingsaccountants. Voorts is van belang de brief van het ministerie van Financiën zoals vastgelegd in kamer stuk 28779 nummer 1. 
 
 ### 6  
 
@@ -532,15 +532,15 @@ Aan: Opdrachtgever ACCOUNTANTSVERKLARING Verklaring betreffende de jaarrekening 
 
 ####Verantwoordelijkheid van het bestuur
 
-Het bestuur van de entiteit is verantwoordelijk voor het opmaken van de jaarrekening die het vermogen en resultaat getrouw dient weer te geven, alsmede voor het opstellen van het activiteitenverslag, beide in overeenstemming met het Subsidiebesluit XYZ. Tevens is het bestuur van de entiteit verantwoordelijk voor de financiële rechtmatigheid van de in de jaarrekening verantwoorde baten, lasten en balansmutaties. Dit houdt in dat deze bedragen in overeenstemming dienen te zijn met de in de relevante wet- en regelgeving opgenomen bepalingen. Deze verantwoordelijkheden omvatten onder meer: het ontwerpen, invoeren en in stand houden van een intern beheersingssysteem relevant voor het opmaken van en getrouw weergeven in de jaarrekening van vermogen en resultaat, zodanig dat deze geen afwijkingen van materieel belang als gevolg van fraude of fouten bevat en voor de naleving van de relevante wet- en regelgeving, het kiezen en toepassen van aanvaardbare grondslagen voor financiële verslaggeving en het maken van schattingen die onder de gegeven omstandigheden redelijk zijn.  
+Het bestuur van de entiteit is verantwoordelijk voor het opmaken van de jaarrekening die het vermogen en resultaat getrouw dient weer te geven, alsmede voor het opstellen van het activiteitenverslag, beide in overeenstemming met het Subsidiebesluit XYZ. Tevens is het bestuur van de entiteit verantwoordelijk voor de financiële rechtmatigheid van de in de jaarrekening verantwoorde baten, lasten en balansmutaties. Dit houdt in dat deze bedragen in overeenstemming dienen te zijn met de in de relevante wet- en regelgeving opgenomen bepalingen. Deze verantwoordelijkheden omvatten onder meer: het ontwerpen, invoeren en in stand houden van een intern beheersingssysteem relevant voor het opmaken van en getrouw weergeven in de jaarrekening van vermogen en resultaat, zodanig dat deze geen afwijkingen van materieel belang als gevolg van fraude of fouten bevat en voor de naleving van de relevante wet- en regelgeving, het kiezen en toepassen van aanvaardbare grondslagen voor financiële verslaggeving en het maken van schattingen die onder de gegeven omstandigheden redelijk zijn. 
 
 ####Verantwoordelijkheid van de accountant
 
-Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening op basis van onze controle, als bedoeld in artikel xx, eerste lid van het Subsidiebesluit XYZ. Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder het Subsidiebesluit XYZ. Dienovereenkomstig zijn wij verplicht te voldoen aan de voor ons geldende gedragsnormen en zijn wij gehouden onze controle zodanig te plannen en uit te voeren dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen afwijkingen van materieel belang bevat. Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in de jaarrekening. De keuze van de uit te voeren werkzaamheden is afhankelijk van de professionele oordeelsvorming van de accountant, waaronder begrepen zijn beoordeling van de risico’s van afwijkingen van materieel belang als gevolg van fraude of fouten. In die beoordeling neemt de accountant in aanmerking het voor het opmaken van en getrouw weergeven in de jaarrekening van vermogen en resultaat alsmede het voor de naleving van de betreffende wet en regelgeving relevante interne beheersingssysteem, teneinde een verantwoorde keuze te kunnen maken van de controlewerkzaamheden die onder de gegeven omstandigheden adequaat zijn maar die niet tot doel hebben een oordeel te geven over de effectiviteit van het interne beheersingssysteem van de entiteit. Tevens omvat een controle onder meer een evaluatie van de aanvaardbaarheid van de toegepaste grondslagen voor financiële verslaggeving en van de redelijkheid van schattingen die het bestuur van de entiteit heeft gemaakt, een evaluatie van het algehele beeld van de jaarrekening alsmede een evaluatie van de aanvaardbaarheid van het gehanteerde referentiekader voor financiële rechtmatigheid. Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel.  
+Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening op basis van onze controle, als bedoeld in artikel xx, eerste lid van het Subsidiebesluit XYZ. Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder het Subsidiebesluit XYZ. Dienovereenkomstig zijn wij verplicht te voldoen aan de voor ons geldende gedragsnormen en zijn wij gehouden onze controle zodanig te plannen en uit te voeren dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen afwijkingen van materieel belang bevat. Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in de jaarrekening. De keuze van de uit te voeren werkzaamheden is afhankelijk van de professionele oordeelsvorming van de accountant, waaronder begrepen zijn beoordeling van de risico’s van afwijkingen van materieel belang als gevolg van fraude of fouten. In die beoordeling neemt de accountant in aanmerking het voor het opmaken van en getrouw weergeven in de jaarrekening van vermogen en resultaat alsmede het voor de naleving van de betreffende wet en regelgeving relevante interne beheersingssysteem, teneinde een verantwoorde keuze te kunnen maken van de controlewerkzaamheden die onder de gegeven omstandigheden adequaat zijn maar die niet tot doel hebben een oordeel te geven over de effectiviteit van het interne beheersingssysteem van de entiteit. Tevens omvat een controle onder meer een evaluatie van de aanvaardbaarheid van de toegepaste grondslagen voor financiële verslaggeving en van de redelijkheid van schattingen die het bestuur van de entiteit heeft gemaakt, een evaluatie van het algehele beeld van de jaarrekening alsmede een evaluatie van de aanvaardbaarheid van het gehanteerde referentiekader voor financiële rechtmatigheid. Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel. 
 
 ####Oordeel
 
-Naar ons oordeel geeft de jaarrekening een getrouw beeld van de grootte en de samenstelling van het vermogen van ... (naam entiteit) per ... 2008 en van het resultaat over 2008 in overeenstemming met hetgeen hierover is bepaald in het Subsidiebesluit XYZ. Voorts zijn wij van oordeel dat de in deze jaarrekening verantwoorde baten, lasten en balansmutaties over 2008 voldoen aan de eisen van financiële rechtmatigheid. Dit houdt in dat deze bedragen in overeenstemming zijn met de in de relevante wet- en regelgeving opgenomen bepalingen. Verklaring betreffende andere wettelijke voorschriften en/of voorschriften van regelgevende instanties Verder melden wij dat het activiteitenverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met de jaarrekening. Voorts merken wij op dat niet is voldaan aan de wettelijke verplichting tot vermelding van de informatie over topinkomens ([artikel 6 van de Wet openbaarmaking uit publieke middelen gefinancierde topinkomens](../../../../../wet/wet/openbaarmaking/uit/publieke/middelen/gefinancierde/topinkomens/BWBR0019562/README.md)) . <sup> 2  Uitzonderingsrapportage indien niet is voldaan aan de WOPT. Als de WOPT expliciet onderdeel uitmaakt van het verslaggevingsstelsel, dan wordt dit meegenomen in de oordeelsvorming van het getrouw beeld onder het eerste kopje.  </sup> Plaats, datum Naam accountantsorganisatie Naam externe accountant en ondertekening met die naam  
+Naar ons oordeel geeft de jaarrekening een getrouw beeld van de grootte en de samenstelling van het vermogen van ... (naam entiteit) per ... 2008 en van het resultaat over 2008 in overeenstemming met hetgeen hierover is bepaald in het Subsidiebesluit XYZ. Voorts zijn wij van oordeel dat de in deze jaarrekening verantwoorde baten, lasten en balansmutaties over 2008 voldoen aan de eisen van financiële rechtmatigheid. Dit houdt in dat deze bedragen in overeenstemming zijn met de in de relevante wet- en regelgeving opgenomen bepalingen. Verklaring betreffende andere wettelijke voorschriften en/of voorschriften van regelgevende instanties Verder melden wij dat het activiteitenverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met de jaarrekening. Voorts merken wij op dat niet is voldaan aan de wettelijke verplichting tot vermelding van de informatie over topinkomens ([artikel 6 van de Wet openbaarmaking uit publieke middelen gefinancierde topinkomens](../../../../../wet/wet/openbaarmaking/uit/publieke/middelen/gefinancierde/topinkomens/BWBR0019562/README.md))<sup> 2  Uitzonderingsrapportage indien niet is voldaan aan de WOPT. Als de WOPT expliciet onderdeel uitmaakt van het verslaggevingsstelsel, dan wordt dit meegenomen in de oordeelsvorming van het getrouw beeld onder het eerste kopje.  </sup>. Plaats, datum Naam accountantsorganisatie Naam externe accountant en ondertekening met die naam 
 
 ### 6.2  
 
@@ -550,17 +550,17 @@ Aan: Opdrachtgever ABC ASSURANCE-RAPPORT Afgegeven ten behoeve van Opdrachtgever
 
 ####Opdracht en verantwoordelijkheden
 
-Wij hebben onderzocht of bijgevoegd investeringsoverzicht inzake het bouwsubsidieproject ... van ... (naam entiteit) te (statutaire vestigingsplaats) met een totaalbedrag van € ... de baten en lasten volledig en juist weergeeft, in overeenstemming met het Besluit controleprotocol subsidiëring XYZ. Het investeringsoverzicht is opgesteld onder verantwoordelijkheid van het bestuur van de entiteit. Het is onze verantwoordelijkheid een assurance-rapport inzake het investerings-overzicht te verstrekken.  
+Wij hebben onderzocht of bijgevoegd investeringsoverzicht inzake het bouwsubsidieproject ... van ... (naam entiteit) te (statutaire vestigingsplaats) met een totaalbedrag van € ... de baten en lasten volledig en juist weergeeft, in overeenstemming met het Besluit controleprotocol subsidiëring XYZ. Het investeringsoverzicht is opgesteld onder verantwoordelijkheid van het bestuur van de entiteit. Het is onze verantwoordelijkheid een assurance-rapport inzake het investerings-overzicht te verstrekken. 
 
 ####Werkzaamheden
 
-Wij hebben ons onderzoek verricht in overeenstemming met Nederlands recht, waaronder Standaard 3000 ‘Assurance-opdrachten anders dan opdrachten tot controle en beoordeling van historische financiële informatie’ en het Besluit controleprotocol subsidiëring Justitiële jeugdinrichtingen. Dienovereenkomstig dienen wij ons onderzoek zodanig te plannen en uit te voeren, dat een redelijke mate van zekerheid wordt verkregen dat het investeringsoverzicht geen afwijkingen van materieel belang bevat. Een assurance-opdracht omvat onder meer een onderzoek door middel van deelwaarnemingen van relevante gegevens. Wij zijn van mening dat de door ons verkregen assurance-informatie voldoende en geschikt is als basis voor ons oordeel.  
+Wij hebben ons onderzoek verricht in overeenstemming met Nederlands recht, waaronder Standaard 3000 ‘Assurance-opdrachten anders dan opdrachten tot controle en beoordeling van historische financiële informatie’ en het Besluit controleprotocol subsidiëring Justitiële jeugdinrichtingen. Dienovereenkomstig dienen wij ons onderzoek zodanig te plannen en uit te voeren, dat een redelijke mate van zekerheid wordt verkregen dat het investeringsoverzicht geen afwijkingen van materieel belang bevat. Een assurance-opdracht omvat onder meer een onderzoek door middel van deelwaarnemingen van relevante gegevens. Wij zijn van mening dat de door ons verkregen assurance-informatie voldoende en geschikt is als basis voor ons oordeel. 
 
 ####Conclusie
 
 Op grond van onze werkzaamheden komen wij tot de conclusie dat het investeringsoverzicht inzake het bouwsubsidieproject ... met een totaalbedrag van € ... de baten en lasten volledig en juist weergeeft, in overeenstemming met het Besluit controleprotocol subsidiëring XYZ. Verder komen wij tot de conclusie dat: 
 
-– alle voorwaarden die gesteld zijn bij de bouwsubsidieverlening tot de datum van het investerings- overzicht zijn nageleefd.   Plaats, datum Naam accountantsorganisatie Naam externe accountant en ondertekening met die naam  
+– alle voorwaarden die gesteld zijn bij de bouwsubsidieverlening tot de datum van het investerings- overzicht zijn nageleefd.   Plaats, datum Naam accountantsorganisatie Naam externe accountant en ondertekening met die naam 
 
 ### 6.3  
 
@@ -570,7 +570,7 @@ Aan: Opdrachtgever RAPPORT VAN FEITELIJKE BEVINDINGEN INZAKE ............... Wij
 
 ####Aard en reikwijdte van de verrichte werkzaamheden
 
-Wij hebben onze werkzaamheden verricht in overeenstemming met Nederlands recht, waaronder Standaard 4400 ‘Opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden met betrekking tot financiële informatie’ en de Aanwijzing controleprotocol subsidiëring .... De opdracht houdt in dat op het in . (object van onderzoek) opgenomen cijfermateriaal geen controle- of beoordelingsopdracht is uitgevoerd. Een en ander impliceert dat aan onze rapportage geen zekerheid kan worden ontleend omtrent de in ... (object van onderzoek) opgenomen informatie. Volledigheidshalve wijzen wij er nog op dat, indien wij aanvullende werkzaamheden zouden hebben verricht, wellicht andere onderwerpen aan het licht zouden kunnen zijn gebracht die voor u mogelijk van belang zouden kunnen zijn geweest.  
+Wij hebben onze werkzaamheden verricht in overeenstemming met Nederlands recht, waaronder Standaard 4400 ‘Opdrachten tot het verrichten van overeengekomen specifieke werkzaamheden met betrekking tot financiële informatie’ en de Aanwijzing controleprotocol subsidiëring .... De opdracht houdt in dat op het in . (object van onderzoek) opgenomen cijfermateriaal geen controle- of beoordelingsopdracht is uitgevoerd. Een en ander impliceert dat aan onze rapportage geen zekerheid kan worden ontleend omtrent de in ... (object van onderzoek) opgenomen informatie. Volledigheidshalve wijzen wij er nog op dat, indien wij aanvullende werkzaamheden zouden hebben verricht, wellicht andere onderwerpen aan het licht zouden kunnen zijn gebracht die voor u mogelijk van belang zouden kunnen zijn geweest. 
 
 ####Verrichte werkzaamheden
 
@@ -578,11 +578,11 @@ Wij hebben de volgende werkzaamheden verricht:
 
 – Wij zijn nagegaan of ...  
 
-– Wij hebben een onderzoek verricht naar ...    
+– Wij hebben een onderzoek verricht naar ...   
 
 ####Uitkomsten verrichte werkzaamheden
 
-Wij hebben vastgesteld dat ... Wij wijzen erop dat deze uitkomsten niet zonder meer gelden na de datum van afsluiting van ons onderzoek, omdat nadien veranderingen in het getroffen stelsel van maatregelen kunnen zijn aangebracht. Deze rapportage is uitsluitend voor u bestemd ter verstrekking aan ... en mag niet (geheel of gedeeltelijk) aan derden worden verstrekt, zonder onze uitdrukkelijke toestemming vooraf. Plaats, datum, Naam accountantsorganisatie Naam accountant en ondertekening met die naam  
+Wij hebben vastgesteld dat ... Wij wijzen erop dat deze uitkomsten niet zonder meer gelden na de datum van afsluiting van ons onderzoek, omdat nadien veranderingen in het getroffen stelsel van maatregelen kunnen zijn aangebracht. Deze rapportage is uitsluitend voor u bestemd ter verstrekking aan ... en mag niet (geheel of gedeeltelijk) aan derden worden verstrekt, zonder onze uitdrukkelijke toestemming vooraf. Plaats, datum, Naam accountantsorganisatie Naam accountant en ondertekening met die naam 
 
 ### 6.4  
 
@@ -592,19 +592,19 @@ Onderstaand wordt een opsomming gegeven van algemene wet- en regelgeving die bet
 
 ####Algemeen
 
-1. Europese aanbestedingsrichtlijnen: Richtlijn 93/36/EEG voor de coördinatie van opdrachten voor Leveringen, Richtlijn 92/50/EEG voor de coördinatie van de opdrachten voor Diensten, Richtlijn 93/37/EEG voor de coördinatie van de procedures voor het aanbesteden van Werken, Wijzigings richtlijn 97/52/EEG voor Diensten, Leveringen en Werken.  
+1. Europese aanbestedingsrichtlijnen: Richtlijn 93/36/EEG voor de coördinatie van opdrachten voor Leveringen, Richtlijn 92/50/EEG voor de coördinatie van de opdrachten voor Diensten, Richtlijn 93/37/EEG voor de coördinatie van de procedures voor het aanbesteden van Werken, Wijzigingsrichtlijn 97/52/EEG voor Diensten, Leveringen en Werken.  
 
 2. Nederlandse wet- en regelgeving: [Besluit Aanbestedingsregels voor overheidsopdrachten](../../../../../AMvB/besluit/aanbestedingsregels/voor/overheidsopdrachten/BWBR0018607/README.md) Stbl. 408 (2005) e.v., [Raamwet EEG-voorschriftenoverheidsaanbestedingen](../../../../../wet/raamwet/eeg-voorschriften/aanbestedingen/BWBR0005937/README.md) 212 jo (1993) , 305 (1993), 379 (1994), 436 (1997), 542 (1998).  
 
 3. [Algemene wet bestuursrecht titel 4.2](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [titel 4.2.8](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
 
-4.  [Wet Justitie-Subsidies](../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md)   
+4. [Wet Justitie-Subsidies](../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md)  
 
 5. [Wet openbaarmaking uit publieke middelen gefinancierde topinkomens](../../../../../wet/wet/openbaarmaking/uit/publieke/middelen/gefinancierde/topinkomens/BWBR0019562/README.md) (Stb 2006, 95)  
 
-6. [Besluit Voorschrift Informatiebeveiliging Rijksoverheid 2007](../../../../../ministeriele-regeling/besluit/voorschrift/informatiebeveiliging/rijksdienst/2007/BWBR0022141/README.md).    
+6. [Besluit Voorschrift Informatiebeveiliging Rijksoverheid 2007](../../../../../ministeriele-regeling/besluit/voorschrift/informatiebeveiliging/rijksdienst/2007/BWBR0022141/README.md).   
 
 ####Specifiek
 
-Specifieke regelgeving wordt vermeld in de bijlage van het specifieke deel van de Aanwijzing controleprotocol subsidiëring.  
+Specifieke regelgeving wordt vermeld in de bijlage van het specifieke deel van de Aanwijzing controleprotocol subsidiëring. 
 

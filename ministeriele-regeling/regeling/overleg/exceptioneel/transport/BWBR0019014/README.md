@@ -8,10 +8,10 @@ Besluit:
 
 ### Artikel  1  
 
-1.  Er is een Overleg exceptionele transporten, dat minimaal twee maal per jaar overlegt over de uitvoering van de [artikelen 149a](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [149b van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).   
-2.  Naast het overleg, bedoeld in het eerste lid, overlegt het Overleg exceptionele transporten minimaal twee maal per jaar over de uitvoering van de [artikelen 149a](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [149b van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) met betrekking tot samenstellen, met een laadlengte van tenminste 18 meter of een vergelijkbare laadlengte indien de voertuigen zijn ingericht voor het vervoer van afneembare laadstructuren, bestaande uit ten hoogste drie voertuigen en ingericht voor het vervoer van goederen waarvan de totale lengte niet meer bedraagt dan 25,25 meter en de totale massa niet meer dan 60 ton.   
+1.  Er is een Overleg exceptionele transporten, dat minimaal twee maal per jaar overlegt over de uitvoering van de [artikelen 149a](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [149b van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).  
+2.   Naast het overleg, bedoeld in het eerste lid, overlegt het Overleg exceptionele transporten minimaal twee maal per jaar over de uitvoering van de [artikelen 149a](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [149b van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) met betrekking tot samenstellen, met een laadlengte van tenminste 18 meter of een vergelijkbare laadlengte indien de voertuigen zijn ingericht voor het vervoer van afneembare laadstructuren, bestaande uit ten hoogste drie voertuigen en ingericht voor het vervoer van goederen waarvan de totale lengte niet meer bedraagt dan 25,25 meter en de totale massa niet meer dan 60 ton.  
 3.  Het secretariaat wordt vervuld door de Dienst Wegverkeer.   
-4.  Het overleg komt voorts bijeen indien daartoe door ten minste 5 leden wordt verzocht.   
+4.  Het overleg komt voorts bijeen indien daartoe door ten minste 5 leden wordt verzocht.  
 
 ### Artikel  2  
 
@@ -38,22 +38,22 @@ d. Vereniging Verticaal Transport.
 
 a. ten hoogste twee vertegenwoordigers van het belang verkeersveiligheid;  
 
-b. ten hoogste twee vertegenwoordigers van het belang andere transportmodaliteiten.     
-5.  De in het eerste tot en met het vierde lid aangewezen organisaties wijzen ten behoeve van het overleg een vertegenwoordiger aan. Daarbij kan worden voorzien in de aanwijzing van één of meer plaatsvervangers.   
+b. ten hoogste twee vertegenwoordigers van het belang andere transportmodaliteiten.    
+5.  De in het eerste tot en met het vierde lid aangewezen organisaties wijzen ten behoeve van het overleg een vertegenwoordiger aan. Daarbij kan worden voorzien in de aanwijzing van één of meer plaatsvervangers.  
 
 ### Artikel  3  
 
-Wijzigt de Regeling taken Dienst Wegverkeer.   
+Wijzigt de Regeling taken Dienst Wegverkeer. 
 
 ### Artikel  4  
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdelen A, B, F tot en met H](../../../../../../wet/wijzigingswet/wegenverkeerswet/1994/(verlenen/ontheffingen/door/dienst/etc/BWBR0017665/README.md), en [artikel IV van de wet van 9 december 2004 tot wijziging van de Wegenverkeerswet 1994 met betrekking tot het verlenen van ontheffingen in bepaalde gevallen door de Dienst Wegverkeer en enkele technische wijzigingen](../../../../../../wet/wijzigingswet/wegenverkeerswet/1994/(verlenen/ontheffingen/door/dienst/etc/BWBR0017665/README.md) (Stb. 687) in werking treden.  
+Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdelen A, B, F tot en met H](../../../../../../wet/wijzigingswet/wegenverkeerswet/1994/(verlenen/ontheffingen/door/dienst/etc/BWBR0017665/README.md), en [artikel IV van de wet van 9 december 2004 tot wijziging van de Wegenverkeerswet 1994 met betrekking tot het verlenen van ontheffingen in bepaalde gevallen door de Dienst Wegverkeer en enkele technische wijzigingen](../../../../../../wet/wijzigingswet/wegenverkeerswet/1994/(verlenen/ontheffingen/door/dienst/etc/BWBR0017665/README.md) (Stb. 687) in werking treden. 
 
 ### Artikel  5  
 
-Deze regeling wordt aangehaald als: Regeling overleg exceptioneel transport.  
+Deze regeling wordt aangehaald als: Regeling overleg exceptioneel transport. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-K.M.H.Peijs   
+K.M.H. Peijs     

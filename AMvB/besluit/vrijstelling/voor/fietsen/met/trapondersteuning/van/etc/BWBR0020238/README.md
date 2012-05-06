@@ -15,19 +15,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De bezitter van een fiets met trapondersteuning, als bedoeld in [artikel 1, onderdeel ea, van de Wegenverkeerswet 1994](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is vrijgesteld van de verplichting tot het sluiten van een verzekering als bedoeld in de [Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md).  
+De bezitter van een fiets met trapondersteuning, als bedoeld in [artikel 1, onderdeel ea, van de Wegenverkeerswet 1994](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is vrijgesteld van de verplichting tot het sluiten van een verzekering als bedoeld in de [Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md). 
 
 ### Artikel  2  
 
-Wijzigt de Vaststelling bewijs van verzekering voor niet-kentekenplichtige motorrijtuigen en regelen met betrekking tot bewijs van vrijstelling.   
+Wijzigt de Vaststelling bewijs van verzekering voor niet-kentekenplichtige motorrijtuigen en regelen met betrekking tot bewijs van vrijstelling. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking op 1 oktober 2006.  
+Dit besluit treedt in werking op 1 oktober 2006. 
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Besluit vrijstelling voor fietsen met trapondersteuning van aansprakelijkheidsverzekering motorrijtuigen.  
+Dit besluit wordt aangehaald als: Besluit vrijstelling voor fietsen met trapondersteuning van aansprakelijkheidsverzekering motorrijtuigen. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -35,10 +35,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 28 augustus 2006  
 Beatrix  
 
-De Minister van Justitie, 
-J. P. H.Donner 
+De Minister van Justitie , 
+J. P. H. Donner   
 
 de *zevende* september 2006 
 
-De Minister van Justitie, 
-J. P. H.Donner  
+De Minister van Justitie , 
+J. P. H. Donner    

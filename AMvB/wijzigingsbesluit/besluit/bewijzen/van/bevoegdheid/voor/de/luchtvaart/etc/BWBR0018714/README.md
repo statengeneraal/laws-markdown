@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit bewijzen van bevoegdheid voor de luchtvaart.   
+Wijzigt het Besluit bewijzen van bevoegdheid voor de luchtvaart.
 
 ### Artikel  II  
 
-Een bewijs van bevoegdheid afgegeven vóór de inwerkingtreding van dit besluit blijft geldig tot de eerst verstrijkende geldigheidsdatum van de daarop weergegeven bevoegdverklaringen en wordt op die datum vervangen door een nieuw bewijs van bevoegdheid met bevoegdverklaringen.  
+Een bewijs van bevoegdheid afgegeven vóór de inwerkingtreding van dit besluit blijft geldig tot de eerst verstrijkende geldigheidsdatum van de daarop weergegeven bevoegdverklaringen en wordt op die datum vervangen door een nieuw bewijs van bevoegdheid met bevoegdverklaringen. 
 
 ### Artikel  III  
 
@@ -28,7 +28,7 @@ Een bewijs van bevoegdheid afgegeven vóór de inwerkingtreding van dit besluit 
 
 a. treden [artikel 20, eerste lid, onderdeel c](../../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), en [artikel 25, derde lid](../../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), in werking op een bij koninklijk besluit te bepalen tijdstip.  
 
-b. treedt [artikel 24a](../../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md) in werking drie maanden na uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.     
+b. treedt [artikel 24a](../../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md) in werking drie maanden na uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.    
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -44,8 +44,8 @@ de *twintigste* september 2005
 De Minister van Justitie , 
 J. P. H. Donner    
 
-### Bijlage  
+### Bijlage 
 
 ####, behorende bij artikel I, onderdeel E  van het Besluit van 31 augustus 2005 tot wijziging van het Besluit bewijzen van bevoegdheid voor de luchtvaart
 
-Wijzigt het Besluit bewijzen van bevoegdheid voor de luchtvaart.  
+Wijzigt het Besluit bewijzen van bevoegdheid voor de luchtvaart. 

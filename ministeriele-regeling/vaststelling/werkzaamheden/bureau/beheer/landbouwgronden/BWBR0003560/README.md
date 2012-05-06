@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze beschikking wordt onder [wet](../../../../../../../wet/wet/agrarisch/grondverkeer/BWBR0003386/README.md) de [Wet agrarisch grondverkeer](../../../../../../../wet/wet/agrarisch/grondverkeer/BWBR0003386/README.md) (Stb. 1981, 248) verstaan.  
+In deze beschikking wordt onder [wet](../../../../../../../wet/wet/agrarisch/grondverkeer/BWBR0003386/README.md) de [Wet agrarisch grondverkeer](../../../../../../../wet/wet/agrarisch/grondverkeer/BWBR0003386/README.md) (Stb. 1981, 248) verstaan. 
 
 ### Artikel  2  
 
@@ -50,20 +50,20 @@ q. het verkrijgen en tijdelijk beheren van onroerende zaken en het vervreemden v
 
 r. het verkrijgen, tijdelijk beheren en vervreemden van onroerende zaken in opdracht van gedeputeerde staten van een provincie ten behoeve van de realisatie van prestaties overeengekomen in de bestuursovereenkomst, bedoeld in [artikel 7, eerste lid, van de Wet inrichting landelijk gebied](../../../../../../../wet/wet/inrichting/landelijk/gebied/BWBR0020748/README.md);  
 
-s. het verkrijgen, tijdelijk beheren en vervreemden van andere onroerende zaken dan voorzien in de onderdelen a tot en met k, voor zover deze zaken kunnen worden aangewend voor de verkrijging van onroerende zaken als bedoeld in de onderdelen a tot en met k.    
+s. het verkrijgen, tijdelijk beheren en vervreemden van andere onroerende zaken dan voorzien in de onderdelen a tot en met k, voor zover deze zaken kunnen worden aangewend voor de verkrijging van onroerende zaken als bedoeld in de onderdelen a tot en met k.   
 
 ### Artikel  4  
 
-Deze beschikking treedt met ingang van 1 januari 1983 in werking en wordt gepubliceerd in de Nederlandse Staatscourant.  
+Deze beschikking treedt met ingang van 1 januari 1983 in werking en wordt gepubliceerd in de Nederlandse Staatscourant. 
 
 's-Gravenhage 
 28 december 1982.    
 
 De 
-Staatssecretaris van Landbouw en Visserij, 
+Staatssecretaris van Landbouw en Visserij,  
 
 Voor deze 
 
 De 
 secretaris-generaal, 
-G. J. vanDinter    
+G. J. van Dinter     

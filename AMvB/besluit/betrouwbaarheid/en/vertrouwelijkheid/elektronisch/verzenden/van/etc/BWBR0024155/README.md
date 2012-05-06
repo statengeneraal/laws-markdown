@@ -21,15 +21,15 @@ a. een gerecht gebruikt een systeem voor gegevensverwerking dat in staat is om d
 
 b. een gerecht gebruikt een systeem voor gegevensverwerking dat in staat is om te controleren of het bericht volledig is en niet onbevoegdelijk is gewijzigd;  
 
-c. een gerecht gebruikt een systeem voor gegevensverwerking dat volgens nationale en internationale standaarden voor informatiebeveiliging ingericht is.    
+c. een gerecht gebruikt een systeem voor gegevensverwerking dat volgens nationale en internationale standaarden voor informatiebeveiliging ingericht is.   
 
 ### Artikel  2  
 
-Een gerecht bevestigt onverwijld elektronisch de ontvangst van elektronisch verzonden verzoeken en mededelingen aangaande de rol.  
+Een gerecht bevestigt onverwijld elektronisch de ontvangst van elektronisch verzonden verzoeken en mededelingen aangaande de rol. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking op het tijdstip waarop de [Wet afschaffing procuraat en invoering elektronisch berichtenverkeer](../../../../../../../../../../wet/wet/afschaffing/procuraat/en/invoering/elektronisch/berichtenverkeer/BWBR0023725/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de [Wet afschaffing procuraat en invoering elektronisch berichtenverkeer](../../../../../../../../../../wet/wet/afschaffing/procuraat/en/invoering/elektronisch/berichtenverkeer/BWBR0023725/README.md) in werking treedt. 
 
 Lasten en bevelen dat dit besluit met de daarbijbehorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -37,10 +37,10 @@ Lasten en bevelen dat dit besluit met de daarbijbehorende nota van toelichting i
 3 juli 2008  
 Beatrix  
 
-De Staatssecretaris van Justitie, 
+De Staatssecretaris van Justitie,  
 N. Albayrak   
 
 de *vijftiende* juli 2008 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    

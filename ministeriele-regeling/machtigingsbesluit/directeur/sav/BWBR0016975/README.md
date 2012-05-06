@@ -8,20 +8,20 @@ Besluit:
 
 ### Artikel  1  
 
-Aan de directeur van de Stichting Adoptievoorzieningen te Utrecht wordt machtiging verleend tot het verrichten van administratieve handelingen met betrekking tot het in behandeling nemen van verzoeken tot het verlenen van een beginseltoestemming als bedoeld in de [Wet opneming buitenlandse kinderen ter adoptie](../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md).  
+Aan de directeur van de Stichting Adoptievoorzieningen te Utrecht wordt machtiging verleend tot het verrichten van administratieve handelingen met betrekking tot het in behandeling nemen van verzoeken tot het verlenen van een beginseltoestemming als bedoeld in de [Wet opneming buitenlandse kinderen ter adoptie](../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md). 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin dit besluit is geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin dit besluit is geplaatst. 
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Machtigingsbesluit directeur SAV.  
+Dit besluit wordt aangehaald als: Machtigingsbesluit directeur SAV. 
 Dit besluit zal met toelichting in het Staatscourant worden geplaatst.   
 
 Den Haag 
 2 juli 2004    
 
 De 
-Minister van Justitie
-J.P.H.Donner    
+Minister van Justitie 
+J.P.H. Donner      

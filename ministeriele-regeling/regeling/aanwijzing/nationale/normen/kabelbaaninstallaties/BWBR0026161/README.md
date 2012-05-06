@@ -8,22 +8,22 @@ Besluit:
 
 ### Artikel  1  
 
-De nationale normen, bedoeld in [artikel 4, eerste lid, van de Wet kabelbaaninstallaties](../../../../../../../wet/wet/kabelbaaninstallaties/BWBR0016366/README.md), zijn de normen, opgenomen in de bijlage bij deze regeling.  
+De nationale normen, bedoeld in [artikel 4, eerste lid, van de Wet kabelbaaninstallaties](../../../../../../../wet/wet/kabelbaaninstallaties/BWBR0016366/README.md), zijn de normen, opgenomen in de bijlage bij deze regeling. 
 
 ### Artikel  2  
 
-Deze regeling wordt aangehaald als: Regeling aanwijzing nationale normen kabelbaaninstallaties.  
+Deze regeling wordt aangehaald als: Regeling aanwijzing nationale normen kabelbaaninstallaties. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings  
+C.M.P.S. Eurlings    
 
-### Bijlage  
+### Bijlage 
 
 ####behorende bij artikel 1 
 

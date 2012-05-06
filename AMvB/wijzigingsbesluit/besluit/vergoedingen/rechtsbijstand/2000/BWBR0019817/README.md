@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit vergoedingen rechtsbijstand 2000.   
+Wijzigt het Besluit vergoedingen rechtsbijstand 2000.
 
 ### Artikel  II  
 
-Indien op het moment waarop dit besluit in werking treedt een bezwaarschrift als bedoeld in [artikel 7, eerste lid, van de Wet DNA-onderzoek bij veroordeelden](../../../../../../../wet/wet/dna-onderzoek/bij/veroordeelden/BWBR0017212/README.md) is ingediend, is daarop het recht dat gold voor inwerkingtreding van dit besluit van toepassing.  
+Indien op het moment waarop dit besluit in werking treedt een bezwaarschrift als bedoeld in [artikel 7, eerste lid, van de Wet DNA-onderzoek bij veroordeelden](../../../../../../../wet/wet/dna-onderzoek/bij/veroordeelden/BWBR0017212/README.md) is ingediend, is daarop het recht dat gold voor inwerkingtreding van dit besluit van toepassing. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van 15 mei 2006.  
+Dit besluit treedt in werking met ingang van 15 mei 2006. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -31,10 +31,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 1 mei 2006  
 Beatrix  
 
-De Minister van Justitie, 
-J. P. H.Donner 
+De Minister van Justitie , 
+J. P. H. Donner   
 
 de *negende* mei 2006 
 
-De Minister van Justitie, 
-J. P. H.Donner  
+De Minister van Justitie , 
+J. P. H. Donner    

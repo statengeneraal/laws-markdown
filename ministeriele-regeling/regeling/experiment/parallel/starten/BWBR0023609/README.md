@@ -28,27 +28,27 @@ f. LVNL: Luchtverkeersleiding Nederland;
 
 g. Schiphol: N.V. Luchthaven Schiphol;  
 
-h. SID: Standard Instrument Departure, vertrekprocedure die de piloot middels een code in de boordcomputer invoert waardoor het vliegtuig die procedure volgt vanaf de startbaan, ook wel: uitvliegroute.    
+h. SID: Standard Instrument Departure, vertrekprocedure die de piloot middels een code in de boordcomputer invoert waardoor het vliegtuig die procedure volgt vanaf de startbaan, ook wel: uitvliegroute.   
 
 ### Artikel  2  
 
 ####Doel
 
-Het experiment beoogt gedurende het gebruiksjaar 2008, te onderzoeken of de nieuwe SID’s vanaf de Zwanenburgbaan, zoals deze zijn opgenomen in het ontwerp-LVB, onder alle condities (baan- en weersonafhankelijk) veilig kunnen worden gevlogen teneinde gelijktijdig starten vanaf de Polderbaan en de Zwanenburgbaan op basis van SID’s mogelijk te maken. Hiervan wordt een gunstig effect op de hinderbeleving verwacht.  
+Het experiment beoogt gedurende het gebruiksjaar 2008, te onderzoeken of de nieuwe SID’s vanaf de Zwanenburgbaan, zoals deze zijn opgenomen in het ontwerp-LVB, onder alle condities (baan- en weersonafhankelijk) veilig kunnen worden gevlogen teneinde gelijktijdig starten vanaf de Polderbaan en de Zwanenburgbaan op basis van SID’s mogelijk te maken. Hiervan wordt een gunstig effect op de hinderbeleving verwacht. 
 
 ### Artikel  3  
 
 ####Luchtverkeerwegen
 
-Voor de duur van het experiment wordt vrijstelling verleend van de [artikelen 3.1.1, eerste lid](../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md), en [3.1.3, eerste lid, van het LVB](../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md), met betrekking tot de luchtverkeerwegen die zijn aangewezen op [kaart 1/21 van bijlage 1 van het LVB](../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md).  
+Voor de duur van het experiment wordt vrijstelling verleend van de [artikelen 3.1.1, eerste lid](../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md), en [3.1.3, eerste lid, van het LVB](../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md), met betrekking tot de luchtverkeerwegen die zijn aangewezen op [kaart 1/21 van bijlage 1 van het LVB](../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md). 
 
 ### Artikel  4  
 
 ####Grenswaarden
 
-In plaats van de grenswaarden, genoemd in [bijlage 2 van het LVB](../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md) gelden tijdens dit experiment voor het gedeelte van het gebruiksjaar 2008 vanaf 13 maart 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:  Tabel Grenswaarden handhavingspunten etmaal ( L <sub>den</sub>) [dB(A)] 
+In plaats van de grenswaarden, genoemd in [bijlage 2 van het LVB](../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md) gelden tijdens dit experiment voor het gedeelte van het gebruiksjaar 2008 vanaf 13 maart 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:  Tabel Grenswaarden handhavingspunten etmaal ( L<sub>den</sub>) [dB(A)] 
 
-| Puntnummer  | X-coördinaat  | Y-coördinaat  | Grenswaarde  | Maximum grenswaarde in geval van buitengewone weersomstandigheden  |
+|  Puntnummer   | X-coördinaat  |  Y-coördinaat   |  Grenswaarde   |  Maximum grenswaarde in geval van buitengewone weersomstandigheden   |
 |:---|:---|:---|:---|:---|
 | 1  | 97.325  | 470.400  | 55,99  | (56,99)  |
 | 2  | 100.475  | 472.525  | 57,69  | (58,69)  |
@@ -86,9 +86,9 @@ In plaats van de grenswaarden, genoemd in [bijlage 2 van het LVB](../../../../..
 | 34  | 103.400  | 472.225  | 57,51  | (58,51)  |
 | 35  | 98.400  | 470.300  | 57,10  | (58,10)  |
 
-In plaats van de grenswaarden, genoemd in [bijlage 3 van het LVB](../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md) gelden tijdens dit experiment voor het gedeelte van het gebruiksjaar 2008 vanaf 13 maart 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:  Tabel Grenswaarden handhavingspunten nachtperiode (L <sub>night</sub>)) [dB(A)] 
+In plaats van de grenswaarden, genoemd in [bijlage 3 van het LVB](../../../../../../AMvB/luchthavenverkeerbesluit/schiphol/BWBR0014330/README.md) gelden tijdens dit experiment voor het gedeelte van het gebruiksjaar 2008 vanaf 13 maart 2008 voor de in de onderstaande tabel genoemde handhavingspunten de volgende grenswaarden:  Tabel Grenswaarden handhavingspunten nachtperiode (L<sub>night</sub>)) [dB(A)] 
 
-| Nr.  | X-coördinaat  | Y-coördinaat  | Grenswaarde  | Maximum grenswaarde in geval van buitengewone weersomstandigheden  |
+|  Nr.   |  X-coördinaat   |  Y-coördinaat   |  Grenswaarde   |  Maximum grenswaarde in geval van buitengewone weersomstandigheden   |
 |:---|:---|:---|:---|:---|
 | 1  | 102.750  | 473.250  | 52,85  | (53,85)  |
 | 2  | 104.150  | 474.925  | 50,47  | (51,47)  |
@@ -120,7 +120,7 @@ In plaats van de grenswaarden, genoemd in [bijlage 3 van het LVB](../../../../..
 
 ####Uitvoering
 
-Het experiment houdt in dat minimaal 10.000 vertrekkende vluchten vanaf de Zwanenburgbaan via SID’s naar het noorden en het oosten vliegen. Op het moment dat deze vluchten plaatsvinden wordt er niet van de Polderbaan gevlogen. In deze tijdsperiode zullen daarom de vertrekkende vluchten naar het westen ook vanaf de Zwanenburgbaan plaatsvinden.  
+Het experiment houdt in dat minimaal 10.000 vertrekkende vluchten vanaf de Zwanenburgbaan via SID’s naar het noorden en het oosten vliegen. Op het moment dat deze vluchten plaatsvinden wordt er niet van de Polderbaan gevlogen. In deze tijdsperiode zullen daarom de vertrekkende vluchten naar het westen ook vanaf de Zwanenburgbaan plaatsvinden. 
 
 ### Artikel  6  
 
@@ -142,27 +142,27 @@ De criteria die onderdeel vormen van de afweging en de beoordeling of het experi
 
 – het effect op de veiligheid zowel intern als extern;  
 
-– het effect op de ruimtelijke contouren zoals vastgelegd in het [Luchthavenindelingbesluit Schiphol](../../../../../../AMvB/luchthavenindelingbesluit/schiphol/BWBR0014329/README.md) en op bestaande verstedelijking en nieuwbouwplannen.    
+– het effect op de ruimtelijke contouren zoals vastgelegd in het [Luchthavenindelingbesluit Schiphol](../../../../../../AMvB/luchthavenindelingbesluit/schiphol/BWBR0014329/README.md) en op bestaande verstedelijking en nieuwbouwplannen.   
 
 ### Artikel  8  
 
 ####Onvoorziene gevallen
 
-In onvoorziene gevallen kunnen op advies van de belanghebbenden de Minister van Verkeer en Waterstaat en de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer overgaan tot het bijsturen, opschorten of vroegtijdig stopzetten van het experiment.  
+In onvoorziene gevallen kunnen op advies van de belanghebbenden de Minister van Verkeer en Waterstaat en de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer overgaan tot het bijsturen, opschorten of vroegtijdig stopzetten van het experiment. 
 
 ### Artikel  9  
 
 ####Termijn experiment
 
-De startdatum van dit experiment is 13 maart 2008 en het eindigt aan het einde van het gebruiksjaar, op 31 oktober 2008.  
+De startdatum van dit experiment is 13 maart 2008 en het eindigt aan het einde van het gebruiksjaar, op 31 oktober 2008. 
 
 ### Artikel  10  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 13 maart 2008.  
+Deze regeling treedt in werking met ingang van 13 maart 2008. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings   
+C.M.P.S. Eurlings     

@@ -6,7 +6,7 @@ De Minister van Justitie,  Besluit als volgt:
 
 ### Artikel  1  
 
-Er is een taskforce bestrijding vervaardigen, verspreiden en downloaden van kinderpornografisch materiaal en bestrijding kindersekstoerisme.  
+Er is een taskforce bestrijding vervaardigen, verspreiden en downloaden van kinderpornografisch materiaal en bestrijding kindersekstoerisme. 
 
 ### Artikel  2  
 
@@ -22,11 +22,11 @@ De taskforce levert een bijdrage aan het bereiken van de volgende doelstellingen
 
 * het bevorderen van de ontwikkeling en het toepassen van innovatieve opsporingsmethoden;  
 
-* het bevorderen van een bewustwordingsproces van de risico’s die kleven aan het gebruik van internet.    
+* het bevorderen van een bewustwordingsproces van de risico’s die kleven aan het gebruik van internet.   
 
 ### Artikel  3  
 
-De taskforce bestaat uit de daarvoor aangewezen partijen die betrokken zijn bij de problematiek van de kinderpornografie en die een bijdrage kunnen leveren aan het voorkomen en aanpakken daarvan. De partijen die aan de taskforce deelnemen, doen dat met behoud van hun eigen verantwoordelijkheid.  
+De taskforce bestaat uit de daarvoor aangewezen partijen die betrokken zijn bij de problematiek van de kinderpornografie en die een bijdrage kunnen leveren aan het voorkomen en aanpakken daarvan. De partijen die aan de taskforce deelnemen, doen dat met behoud van hun eigen verantwoordelijkheid. 
 
 ### Artikel  4  
 
@@ -40,15 +40,15 @@ De taskforce heeft als taken:
 
 * het opstellen van een agenda waarin de aan te pakken knelpunten, te bereiken doelstellingen, te behalen resultaten, te ondernemen activiteiten en de verantwoordelijkheden van de diverse partijen daarvoor worden beschreven;  
 
-* het informeren van de Minister van Justitie over de voortgang van de werkzaamheden van de taskforce, jaarlijks voor 1 september.   De taskforce stimuleert de oplossing van knelpunten op bovengenoemde deelaspecten vanuit de eigen verantwoordelijkheid van de deelnemers en met oog voor de maatschappelijke noodzaak tot een gemeenschappelijke aanpak van het fenomeen.  
+* het informeren van de Minister van Justitie over de voortgang van de werkzaamheden van de taskforce, jaarlijks voor 1 september.   De taskforce stimuleert de oplossing van knelpunten op bovengenoemde deelaspecten vanuit de eigen verantwoordelijkheid van de deelnemers en met oog voor de maatschappelijke noodzaak tot een gemeenschappelijke aanpak van het fenomeen. 
 
 ### Artikel  5  
 
-De taskforce wordt ingesteld voor een periode van 3 jaar. De taskforce zal twee en een half jaar na oprichting zijn werkzaamheden evalueren en hierover aanbevelingen doen aan de Minister van Justitie. Deze zal bezien of het voortbestaan van de taskforce noodzakelijk is.  
+De taskforce wordt ingesteld voor een periode van 3 jaar. De taskforce zal twee en een half jaar na oprichting zijn werkzaamheden evalueren en hierover aanbevelingen doen aan de Minister van Justitie. Deze zal bezien of het voortbestaan van de taskforce noodzakelijk is. 
 
 ### Artikel  6  
 
-De taskforce komt vier maal per jaar bijeen.  
+De taskforce komt vier maal per jaar bijeen. 
 
 ### Artikel  7  
 
@@ -70,19 +70,19 @@ In de taskforce worden benoemd:
 
 – de heer A.F. Gaastra, directeur van de Directie Politie van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties.  
 
-– Mw. M. Van den Heuvel, Plaatsvervangend Directeur Mensenrechten, Emancipatie, Goed Bestuur en Humanitaire Hulp en tevens Hoofd Afdeling Mensenrechten van het ministerie van Buitenlandse Zaken.    
+– Mw. M. Van den Heuvel, Plaatsvervangend Directeur Mensenrechten, Emancipatie, Goed Bestuur en Humanitaire Hulp en tevens Hoofd Afdeling Mensenrechten van het ministerie van Buitenlandse Zaken.   
 
-### Arikel  8  
+### Arikel 8  
 
-Het secretariaat van de taskforce wordt gevoerd door politie en OM.  
+Het secretariaat van de taskforce wordt gevoerd door politie en OM. 
 
 ### Artikel  9  
 
-Dit besluit wordt geplaatst in de Nederlandse Staatscourant en treedt in werking met ingang van de dag na dagtekening.  
+Dit besluit wordt geplaatst in de Nederlandse Staatscourant en treedt in werking met ingang van de dag na dagtekening. 
 
 Den Haag 
 6 november 2009   
 
 De 
 Minister van Justitie, 
-E.M.H.Hirsch Ballin   
+E.M.H. Hirsch Ballin     

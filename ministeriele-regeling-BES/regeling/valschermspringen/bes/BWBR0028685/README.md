@@ -12,15 +12,15 @@ b. valscherm: een scherm, dat dient om de daalsnelheid van een persoon zodanig t
 
 c. valschermspringen: het uit een zich in de lucht bevindend luchtvaartuig springen met een valscherm;  
 
-d. valschermspringgebied: een kolom luchtruimte in de vorm van een cilinder met een straal van 3.7 km (2 nm) rond het middelpunt van het doelgebied en een hoogte gelijk aan de maximale voorgenomen springhoogte.    
+d. valschermspringgebied: een kolom luchtruimte in de vorm van een cilinder met een straal van 3.7 km (2 nm) rond het middelpunt van het doelgebied en een hoogte gelijk aan de maximale voorgenomen springhoogte.   
 
 ### Artikel  2  
 
-Voor het regelmatig gebruik van een valschermspringgebied moet door de betrokken luchtverkeersleidingorganisatie schriftelijk toestemming zijn verleend en moet het valschermspringgebied als zodanig zijn bekendgesteld aan luchtvarenden door middel van een publikatie in de luchtvaartgids AIP of een kennisgeving aan luchtvarenden (NOTAM).  
+Voor het regelmatig gebruik van een valschermspringgebied moet door de betrokken luchtverkeersleidingorganisatie schriftelijk toestemming zijn verleend en moet het valschermspringgebied als zodanig zijn bekendgesteld aan luchtvarenden door middel van een publikatie in de luchtvaartgids AIP of een kennisgeving aan luchtvarenden (NOTAM). 
 
 ### Artikel  3  
 
-Het voornemen tot incidenteel gebruik van een deel van het luchtruim als valschermspringgebied moet bekend zijn gesteld aan luchtvarenden door middel van een NOTAM.  
+Het voornemen tot incidenteel gebruik van een deel van het luchtruim als valschermspringgebied moet bekend zijn gesteld aan luchtvarenden door middel van een NOTAM. 
 
 ### Artikel  4  
 
@@ -32,7 +32,7 @@ Het voornemen tot incidenteel gebruik van een deel van het luchtruim als valsche
 
 4. Een verzoek tot toestemming als bedoeld in het derde lid moet tenminste 5 werkdagen tevoren de betrokken havenmeester hebben bereikt. Indien een (voorlopige) toestemming wordt verleend, meldt de aanvrager het voorgenomen incidentele gebruik van het valschermspringgebied zo spoedig mogelijk maar tenminste 3 dagen tevoren aan bij de Luchtvaartinlichtingendienst (AIS) ten behoeve van de NOTAM zoals bedoeld in artikel 3.  
 
-5. Het voornemen tot het incidenteel gebruik van een valschermspringgebied dat gelegen is in ongecontroleerd luchtruim moet tenminste 3 werkdagen tevoren zijn aangemeld bij de Luchtvaartinlichtendienst van de betrokken luchtverkeersleidingorganisatie.    
+5. Het voornemen tot het incidenteel gebruik van een valschermspringgebied dat gelegen is in ongecontroleerd luchtruim moet tenminste 3 werkdagen tevoren zijn aangemeld bij de Luchtvaartinlichtendienst van de betrokken luchtverkeersleidingorganisatie.   
 
 ### Artikel  5  
 
@@ -48,7 +48,7 @@ c. voor de aanvang van de vlucht wordt van de betrokken luchtverkeersleidingsdie
 
 d. indien valschermsprongen of series van opeenvolgende valschermsprongen met onderlinge tussenpozen zullen worden uitgevoerd, wordt dit bij eerste radiocontact aan de betrokken luchtverkeersleidingsdienst worden gemeld;  
 
-e. onmiddellijk voor het uitvoeren van de valschermsprongen, wordt van de betrokken luchtverkeersleidingsdienst een definitieve klaring daartoe verkregen.      
+e. onmiddellijk voor het uitvoeren van de valschermsprongen, wordt van de betrokken luchtverkeersleidingsdienst een definitieve klaring daartoe verkregen.     
 
 ### Artikel  6  
 
@@ -60,12 +60,12 @@ a. voldoet het zicht aan de geldende minimumwaarden voor VFR-vluchten (zichtweer
 
 b. wordt tenminste 1,5 km horizontaal van de wolken gebleven;  
 
-c. wordt voortdurend zicht op grond en water behouden.      
+c. wordt voortdurend zicht op grond en water behouden.     
 
 ### Artikel  7  
 
-Deze regeling wordt aangehaald als: Regeling valschermspringen BES.  
+Deze regeling wordt aangehaald als: Regeling valschermspringen BES. 
 
 ### Artikel  8  
 
-Deze regeling berust op artikel 85, tweede lid, van het Besluit luchtverkeer BES.  
+Deze regeling berust op artikel 85, tweede lid, van het Besluit luchtverkeer BES. 

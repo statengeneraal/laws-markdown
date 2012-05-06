@@ -12,25 +12,25 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Uitvoeringswet Bewijsverdrag.   
+Wijzigt de Uitvoeringswet Bewijsverdrag. 
 
 ### Artikel  II  
 
-Wijzigt de Uitvoeringswet Rechtsvorderingsverdrag 1954.   
+Wijzigt de Uitvoeringswet Rechtsvorderingsverdrag 1954. 
 
 ### Artikel  III  
 
-Wijzigt de Uitvoeringswet Rechtsvorderingsverdrag 1905.   
+Wijzigt de Uitvoeringswet Rechtsvorderingsverdrag 1905. 
 
 ### Artikel  IV  
 
-Op rogatoire commissies die ontvangen zijn voor de inwerkingtreding van deze wet blijft het recht zoals het gold voor de datum van inwerkingtreding van deze wet van toepassing.  
+Op rogatoire commissies die ontvangen zijn voor de inwerkingtreding van deze wet blijft het recht zoals het gold voor de datum van inwerkingtreding van deze wet van toepassing. 
 
 ### Artikel  V  
 
-Deze wet treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
-Lasten en bevelen dat deze in het Staatsblad wordt geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad wordt geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 9 oktober 2008  

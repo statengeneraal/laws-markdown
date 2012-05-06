@@ -10,15 +10,15 @@ Besluit:
 
 ### Artikel  1  
 
-Het examenprogramma voor de vereiste lees-, luister- en spreekvaardigheid, bedoeld in [artikel 3.98a, derde lid, van het Vreemdelingenbesluit 2000](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), en het examenprogramma voor de vereiste kennis van de Nederlandse samenleving, bedoeld in [artikel 3.98a, zesde lid, van het Vreemdelingenbesluit 2000](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), worden vastgesteld als in de bijlage van deze regeling is aangegeven.  
+Het examenprogramma voor de vereiste lees-, luister- en spreekvaardigheid, bedoeld in [artikel 3.98a, derde lid, van het Vreemdelingenbesluit 2000](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), en het examenprogramma voor de vereiste kennis van de Nederlandse samenleving, bedoeld in [artikel 3.98a, zesde lid, van het Vreemdelingenbesluit 2000](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md), worden vastgesteld als in de bijlage van deze regeling is aangegeven. 
 
 ### Artikel  2  
 
-Deze regeling treedt in werking op het tijdstip waarop de Wet inburgering in het buitenland in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop de Wet inburgering in het buitenland in werking treedt. 
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Examenprogramma basisexamen inburgering.  
+Deze regeling wordt aangehaald als: Examenprogramma basisexamen inburgering. 
 Deze regeling wordt in de Staatscourant geplaatst.   
 
 Den Haag 
@@ -26,7 +26,7 @@ Den Haag
 
 De 
 Minister voor Vreemdelingenzaken en Integratie, 
-M.C.F.Verdonk  
+M.C.F. Verdonk    
 
 ### Bijlage  
 
@@ -40,15 +40,15 @@ a. de leesvaardigheid in het Nederlands;
 
 b. de luister- en spreekvaardigheid in het Nederlands en;  
 
-c. de kennis van de Nederlandse samenleving.   Het examenprogramma is een uitwerking van de examenstof zoals omschreven in het advies over het niveau van het basisexamen inburgering in het buitenland van de Adviescommissie Normering Inburgeringseisen en de maatregelen uit de brief aan de Tweede Kamer inzake Huwelijks- en gezinsmigratie (2 oktober 2009, Kamerstukken II, 2009-2010, 32175, nr. 1).  
+c. de kennis van de Nederlandse samenleving.   Het examenprogramma is een uitwerking van de examenstof zoals omschreven in het advies over het niveau van het basisexamen inburgering in het buitenland van de Adviescommissie Normering Inburgeringseisen en de maatregelen uit de brief aan de Tweede Kamer inzake Huwelijks- en gezinsmigratie (2 oktober 2009, Kamerstukken II, 2009-2010, 32175, nr. 1). 
 
 ####Afnamecondities
 
-De examenonderdelen leesvaardigheid, luister- en spreekvaardigheid en kennis van de Nederlandse samenleving worden afgenomen in één zitting. Alle drie de examenonderdelen worden afgenomen door middel van een telefonische verbinding met een geautomatiseerd systeem. De opgaven worden mondeling of schriftelijk (examenonderdeel leesvaardigheid) in het Nederlands gepresenteerd. De antwoorden van de kandidaten worden automatisch opgeslagen.  
+De examenonderdelen leesvaardigheid, luister- en spreekvaardigheid en kennis van de Nederlandse samenleving worden afgenomen in één zitting. Alle drie de examenonderdelen worden afgenomen door middel van een telefonische verbinding met een geautomatiseerd systeem. De opgaven worden mondeling of schriftelijk (examenonderdeel leesvaardigheid) in het Nederlands gepresenteerd. De antwoorden van de kandidaten worden automatisch opgeslagen. 
 
 ####Beoordeling
 
-Het examenwerk voor de drie examenonderdelen wordt beoordeeld door middel van automatische scoring. De Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt bij het vaststellen van de examens en de daarbij behorende beoordeling, de cesuur vast. De kandidaat is geslaagd voor het basisexamen inburgering indien het resultaat voor alle drie de onderdelen van het examen voldoende is. Het resultaat van het basisexamen inburgering wordt in de gevallen waarin niet door middel van het geautomatiseerde systeem tot een beoordeling kan worden gekomen, beoordeeld door examinatoren.  
+Het examenwerk voor de drie examenonderdelen wordt beoordeeld door middel van automatische scoring. De Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt bij het vaststellen van de examens en de daarbij behorende beoordeling, de cesuur vast. De kandidaat is geslaagd voor het basisexamen inburgering indien het resultaat voor alle drie de onderdelen van het examen voldoende is. Het resultaat van het basisexamen inburgering wordt in de gevallen waarin niet door middel van het geautomatiseerde systeem tot een beoordeling kan worden gekomen, beoordeeld door examinatoren. 
 
 ####Leesvaardigheid
 
@@ -80,15 +80,15 @@ a) Op welke dag gaat mevrouw Jansen naar de stad?
 
 b) Hoe gaat mevrouw Jansen naar de stad?  
 
-c) Met wie gaat mevrouw Jansen naar de stad?        
+c) Met wie gaat mevrouw Jansen naar de stad?       
 
 ####Afnamecondities
 
-Voorafgaand aan het examen krijgt de kandidaat een instructieblad met instructies voor het examenonderdeel leesvaardigheid. Bij de afname van het examen wordt aan de kandidaat een toetsboekje met opgaven en instructies verstrekt. De instructies voor het oplezen en beantwoorden van vragen worden ook via de telefoon gegeven door een geautomatiseerde systeem bij het begin van elk nieuw onderdeel in de vorm van een voorbeeld. Door middel van geluidssignalen wordt aangegeven wanneer de kandidaat geacht wordt te spreken en wanneer een onderdeel ten einde is. De kandidaat mag op het toetsboekje aantekeningen maken. Deze aantekeningen tellen niet mee in de beoordeling. Alleen de mondelinge antwoorden tellen voor de uitslag.  
+Voorafgaand aan het examen krijgt de kandidaat een instructieblad met instructies voor het examenonderdeel leesvaardigheid. Bij de afname van het examen wordt aan de kandidaat een toetsboekje met opgaven en instructies verstrekt. De instructies voor het oplezen en beantwoorden van vragen worden ook via de telefoon gegeven door een geautomatiseerde systeem bij het begin van elk nieuw onderdeel in de vorm van een voorbeeld. Door middel van geluidssignalen wordt aangegeven wanneer de kandidaat geacht wordt te spreken en wanneer een onderdeel ten einde is. De kandidaat mag op het toetsboekje aantekeningen maken. Deze aantekeningen tellen niet mee in de beoordeling. Alleen de mondelinge antwoorden tellen voor de uitslag. 
 
 ####Duur van het examen
 
-Het examenonderdeel leesvaardigheid duurt ongeveer 25 minuten.  
+Het examenonderdeel leesvaardigheid duurt ongeveer 25 minuten. 
 
 ####De beoordeling van het examenwerk
 
@@ -102,13 +102,13 @@ De reacties van de kandidaten worden beoordeeld op de volgende aspecten:
 
 – Expressiviteit;  
 
-– Begrip.    
+– Begrip.   
 
 ####De uitslag
 
 De totaalscores van een kandidaat voor het examenonderdeel leesvaardigheid worden gerelateerd aan het Europees Raamwerk voor moderne Talen (Common European Framework of Reference for modern languages). Dit examenonderdeel heeft een bereik van geen leesvaardigheid tot en met niveau A1 leesvaardigheid van het Europees Raamwerk. Dit verklaart de verschillen in moeilijkheidsgraad van de items. Om een ‘voldoende’ te behalen voor het onderdeel leesvaardigheid van het basisexamen inburgering moet de kandidaat een score behalen die aantoont dat de kandidaat minimaal leesvaardigheidsniveau A1 van het Europees Raamwerk bereikt heeft. Beheersing van niveau A1 betekent dat de kandidaat de volgende taalhandelingen kan verrichten: 
 
-– Lezen: de kandidaat kan vertrouwde namen, woorden en zeer eenvoudige zinnen begrijpen, bijvoorbeeld in mededelingen, op posters en in catalogi.   De totaalscore op het examenonderdeel leesvaardigheid kan variëren tussen 10 (minimale score) en 35 (maximale score). De zak/slaaggrens voor het niveau A1 voor het examenonderdeel leesvaardigheid is vastgesteld op 26.  
+– Lezen: de kandidaat kan vertrouwde namen, woorden en zeer eenvoudige zinnen begrijpen, bijvoorbeeld in mededelingen, op posters en in catalogi.   De totaalscore op het examenonderdeel leesvaardigheid kan variëren tussen 10 (minimale score) en 35 (maximale score). De zak/slaaggrens voor het niveau A1 voor het examenonderdeel leesvaardigheid is vastgesteld op 26. 
 
 ####Luister- en spreekvaardigheid
 
@@ -138,15 +138,15 @@ Het examenonderdeel luister- en spreekvaardigheid omvat het reageren op opgaven 
 
 5. Verhalen navertellen De kandidaat hoort twee korte verhaaltjes, die in normaal spreektempo worden verteld. De kandidaat moet de verhaaltjes zo goed mogelijk navertellen. De verhaaltjes bevatten tussen de 2 en de 6 zinnen, en tussen de 30 en de 90 woorden. Voorbeeld: 
 
-– Fred reed naar huis. Hij was niet blij, want het gesprek met de laatste klant was niet zo goed verlopen. Fred had geen goede indruk op de klant gemaakt. Die zou vast niets van hem willen kopen. Toen hij de sleutel in het slot stak, besefte Fred dat hij ook nog zijn tas bij de klant had laten staan.     De antwoorden van de kandidaat op dit laatste deel worden niet automatisch gescoord en hebben geen invloed op de score. De opgaven worden beoordeeld door menselijke beoordelaars en gebruikt voor onderzoek naar de kwaliteit van de toets. Dit deel van het examenonderdeel luister- en spreekvaardigheid bevat 2 opgaven.  
+– Fred reed naar huis. Hij was niet blij, want het gesprek met de laatste klant was niet zo goed verlopen. Fred had geen goede indruk op de klant gemaakt. Die zou vast niets van hem willen kopen. Toen hij de sleutel in het slot stak, besefte Fred dat hij ook nog zijn tas bij de klant had laten staan.     De antwoorden van de kandidaat op dit laatste deel worden niet automatisch gescoord en hebben geen invloed op de score. De opgaven worden beoordeeld door menselijke beoordelaars en gebruikt voor onderzoek naar de kwaliteit van de toets. Dit deel van het examenonderdeel luister- en spreekvaardigheid bevat 2 opgaven. 
 
 ####Afnamecondities
 
-Voorafgaand aan het examen krijgt de kandidaat een instructieblad met instructies voor het examenonderdeel luister- en spreekvaardigheid. De instructies voor het doen van de verschillende onderdelen worden ook aan het begin van elk nieuw onderdeel in de vorm van een voorbeeld via de telefoon gegeven door een geautomatiseerd systeem. Door middel van geluidssignalen wordt aangegeven wanneer de kandidaat geacht wordt te spreken en wanneer een onderdeel ten einde is.  
+Voorafgaand aan het examen krijgt de kandidaat een instructieblad met instructies voor het examenonderdeel luister- en spreekvaardigheid. De instructies voor het doen van de verschillende onderdelen worden ook aan het begin van elk nieuw onderdeel in de vorm van een voorbeeld via de telefoon gegeven door een geautomatiseerd systeem. Door middel van geluidssignalen wordt aangegeven wanneer de kandidaat geacht wordt te spreken en wanneer een onderdeel ten einde is. 
 
 ####Duur van het examen
 
-Het examenonderdeel luister- en spreekvaardigheid duurt ongeveer 15 minuten.  
+Het examenonderdeel luister- en spreekvaardigheid duurt ongeveer 15 minuten. 
 
 ####De beoordeling van het examenwerk
 
@@ -158,7 +158,7 @@ De antwoorden van de kandidaten worden beoordeeld op de volgende aspecten:
 
 – zinsbouw;  
 
-– woordenschat.    
+– woordenschat.   
 
 ####De uitslag
 
@@ -166,7 +166,7 @@ De totaalscore van een kandidaat voor het examenonderdeel luister- en spreekvaar
 
 – Luisteren: de kandidaat kan vertrouwde woorden en basiszinnen begrijpen die hem/haarzelf, zijn/haar familie en directe omgeving betreffen wanneer de mensen langzaam en duidelijk spreken.  
 
-– Spreken: de kandidaat kan eenvoudige uitdrukkingen en zinnen gebruiken om de eigen omgeving en de mensen in de naaste omgeving te beschrijven.   De totaalscore op het examenonderdeel luister- en spreekvaardigheid kan variëren tussen 10 (geen beheersing) en 80 (beheersing op ‘native-speaker’-niveau). De zak/slaaggrens voor het niveau A1 wordt vastgesteld op 26.  
+– Spreken: de kandidaat kan eenvoudige uitdrukkingen en zinnen gebruiken om de eigen omgeving en de mensen in de naaste omgeving te beschrijven.   De totaalscore op het examenonderdeel luister- en spreekvaardigheid kan variëren tussen 10 (geen beheersing) en 80 (beheersing op ‘native-speaker’-niveau). De zak/slaaggrens voor het niveau A1 wordt vastgesteld op 26. 
 
 ####Kennis van de Nederlandse samenleving
 
@@ -190,7 +190,7 @@ De vragen hebben betrekking op de kernpunten uit de film ‘Naar Nederland’. O
 
 6. Gezondheidszorg; In dit onderdeel komen onder meer aan bod: verplichte ziektekostenverzekering, huisarts en gespecialiseerde artsen, consultatiebureau.  
 
-7. Werk en inkomen; In dit onderdeel komen onder meer aan bod: wie werken er in Nederland, wanneer en waar moet je werk zoeken, in welke sectoren is er werk, regels sollicitatiegesprek in Nederland.   De film bevat tevens een achtste onderwerp om de kandidaten een indruk te geven hoe de afname van het examen op de ambassade in zijn werk gaat. Over dit deel van de film worden geen vragen gesteld in het examen.  
+7. Werk en inkomen; In dit onderdeel komen onder meer aan bod: wie werken er in Nederland, wanneer en waar moet je werk zoeken, in welke sectoren is er werk, regels sollicitatiegesprek in Nederland.   De film bevat tevens een achtste onderwerp om de kandidaten een indruk te geven hoe de afname van het examen op de ambassade in zijn werk gaat. Over dit deel van de film worden geen vragen gesteld in het examen. 
 
 ####Aard van de vragen
 
@@ -200,25 +200,25 @@ De kandidaat hoort korte vragen, gesproken in een langzaam spreektempo en beantw
 
 2. Open vragen met een gesloten, eenduidig antwoord.  
 
-3. Gesloten vragen met twee antwoordmogelijkheden.    
+3. Gesloten vragen met twee antwoordmogelijkheden.   
 
 ####Voorbeeldvragen
 
-Voorbeeldvraag 1: Is er in Nederland scheiding van kerk en staat? Antwoord: Ja Voorbeeldvraag 2: U ziet de Nederlandse vlag. Wat zijn de kleuren van de Nederlandse vlag? Antwoord: rood, wit, blauw. Voorbeeldvraag 3: U ziet een foto. Is dit Willem van Oranje of prinses Maxima? Antwoord: Willem van Oranje  
+Voorbeeldvraag 1: Is er in Nederland scheiding van kerk en staat? Antwoord: Ja Voorbeeldvraag 2: U ziet de Nederlandse vlag. Wat zijn de kleuren van de Nederlandse vlag? Antwoord: rood, wit, blauw. Voorbeeldvraag 3: U ziet een foto. Is dit Willem van Oranje of prinses Maxima? Antwoord: Willem van Oranje 
 
 ####Afnamecondities
 
-Tijdens het examen beantwoordt de kandidaat 30 mondeling gestelde vragen. De vragen worden gesteld aan de hand van een foto uit een examenfotoboekje, dat kandidaten aan het begin van het examen wordt overhandigd. Voorafgaand aan de 30 examenvragen horen de kandidaten twee oefenvragen.  
+Tijdens het examen beantwoordt de kandidaat 30 mondeling gestelde vragen. De vragen worden gesteld aan de hand van een foto uit een examenfotoboekje, dat kandidaten aan het begin van het examen wordt overhandigd. Voorafgaand aan de 30 examenvragen horen de kandidaten twee oefenvragen. 
 
 ####Duur van het examen
 
-Het examenonderdeel kennis van de Nederlandse samenleving bestaat uit één deel en duurt ongeveer 15 minuten.  
+Het examenonderdeel kennis van de Nederlandse samenleving bestaat uit één deel en duurt ongeveer 15 minuten. 
 
 ####De beoordeling van het examenwerk
 
-De antwoorden van de kandidaten worden beoordeeld op de juistheid van het antwoord. Uitspraak en vlotheid van spreken spelen bij het beantwoorden geen rol.  
+De antwoorden van de kandidaten worden beoordeeld op de juistheid van het antwoord. Uitspraak en vlotheid van spreken spelen bij het beantwoorden geen rol. 
 
 ####De uitslag
 
-De uitslag voor het examenonderdeel kennis van de Nederlandse samenleving kan variëren van 0 tot 100. De kandidaat is geslaagd als hij/zij minimaal 70% van de vragen correct heeft beantwoord.  
+De uitslag voor het examenonderdeel kennis van de Nederlandse samenleving kan variëren van 0 tot 100. De kandidaat is geslaagd als hij/zij minimaal 70% van de vragen correct heeft beantwoord. 
 

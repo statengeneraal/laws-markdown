@@ -46,27 +46,27 @@ b. de volgende wateren:
 
 16°. Zuid-Willemsvaart    
 
-c. de met de onder a en b genoemde wateren in open verbinding staande havens onder nautisch beheer van het Rijk en zijwateren onder waterstaatkundig beheer van het Rijk.    
+c. de met de onder a en b genoemde wateren in open verbinding staande havens onder nautisch beheer van het Rijk en zijwateren onder waterstaatkundig beheer van het Rijk.   
 
 ### Artikel  2  
 
 Voor de toepassing van [artikel 2, eerste lid, onderdeel b, van het Besluit ontgrondingen in rijkswateren](../../../../../../AMvB/besluit/ontgrondingen/in/rijkswateren/BWBR0023362/README.md) gelden de volgende maximale hoeveelheden vaste stoffen en maximaal aantal reizen: 
 
-a. Noordzee: 40.000 m <sup>3</sup> per ontgronding in maximaal 10 reizen;  
+a. Noordzee: 40.000 m<sup>3</sup> per ontgronding in maximaal 10 reizen;  
 
-b. Eems, Dollard, IJsselmeer, Markermeer (met inbegrip van Oostvaardersdiep), Ketelmeer, Keteldiep, Haringvliet, Hollandsch Diep, Grevelingenmeer, Krammer, Volkerak, Zoommeer, Oosterschelde, en Westerschelde: 5000 m <sup>3</sup> in maximaal 5 reizen;  
+b. Eems, Dollard, IJsselmeer, Markermeer (met inbegrip van Oostvaardersdiep), Ketelmeer, Keteldiep, Haringvliet, Hollandsch Diep, Grevelingenmeer, Krammer, Volkerak, Zoommeer, Oosterschelde, en Westerschelde: 5000 m<sup>3</sup> in maximaal 5 reizen;  
 
-c. overige rijkswateren: 2500 m <sup>3</sup> per ontgronding in maximaal 5 reizen.    
+c. overige rijkswateren: 2500 m<sup>3</sup> per ontgronding in maximaal 5 reizen.   
 
 ### Artikel  3  
 
-Deze regeling treedt in werking op het tijdstip waarop het [Besluit ontgrondingen in rijkswateren](../../../../../../AMvB/besluit/ontgrondingen/in/rijkswateren/BWBR0023362/README.md) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop het [Besluit ontgrondingen in rijkswateren](../../../../../../AMvB/besluit/ontgrondingen/in/rijkswateren/BWBR0023362/README.md) in werking treedt. 
 
 ### Artikel  4  
 
-Deze regeling wordt aangehaald als: Regeling ontgrondingen in rijkswateren.  
+Deze regeling wordt aangehaald als: Regeling ontgrondingen in rijkswateren. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Verkeer en Waterstaat, 
-J.C.Huizinga-Heringa   
+J.C. Huizinga-Heringa     

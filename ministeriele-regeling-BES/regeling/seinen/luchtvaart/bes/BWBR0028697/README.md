@@ -18,7 +18,7 @@ c. morsesein: signaal dat bestaat uit korte en lange tekens uit het morsealfabet
 
 d. noodsein: signaal dat blijk geeft van een ernstige situatie waarbij gevaar dreigt en onmiddellijk hulp is vereist;  
 
-e. spoedsein: signaal dat blijk geeft van een ernstige situatie waarbij mogelijk gevaar dreigt en hulp is gewenst.    
+e. spoedsein: signaal dat blijk geeft van een ernstige situatie waarbij mogelijk gevaar dreigt en hulp is gewenst.   
 
 ### Hoofdstuk  2  
 
@@ -38,7 +38,7 @@ d. rood licht voortbrengende licht- of vuurpijlen, die met korte tussenpozen é�
 
 e. een rood licht voortbrengende fakkel die, verbonden aan een valscherm, uit een luchtvaartuig wordt geworpen.    
 
-2. Indien het gebruik van één der in het eerste lid genoemde seinen niet mogelijk is, kan een in nood verkerend luchtvaartuig andere seinen gebruiken om de aandacht te trekken, zijn positie kenbaar te maken of hulp te verkrijgen.    
+2. Indien het gebruik van één der in het eerste lid genoemde seinen niet mogelijk is, kan een in nood verkerend luchtvaartuig andere seinen gebruiken om de aandacht te trekken, zijn positie kenbaar te maken of hulp te verkrijgen.   
 
 ### Artikel  3  
 
@@ -46,7 +46,7 @@ Een luchtvaartuig dat moeilijkheden heeft waardoor het gedwongen wordt te landen
 
 a. het herhaaldelijk in- en uitschakelen van de landingslichten;  
 
-b. het herhaaldelijk in- en uitschakelen van de navigatielichten op zodanige wijze dat er verschil bestaat met knipperende navigatielichten.    
+b. het herhaaldelijk in- en uitschakelen van de navigatielichten op zodanige wijze dat er verschil bestaat met knipperende navigatielichten.   
 
 ### Artikel  4  
 
@@ -56,31 +56,31 @@ a. het morsesein -..- , bestaande uit de groep XXX, te geven door middel van rad
 
 b. de gesproken woorden PAN PAN bij gebruik van radiotelefonie;  
 
-c. een spoedbericht dat de bedoeling van het woord PAN PAN doorgeeft bij gebruik van een gegevensverbinding.    
+c. een spoedbericht dat de bedoeling van het woord PAN PAN doorgeeft bij gebruik van een gegevensverbinding.   
 
-### Hoofdstuk  3  
+### Hoofdstuk   3  
 
-####zoek- en reddingsseinen; seinen bij onderschepping
+#### zoek- en reddingsseinen; seinen bij onderschepping
 
-### Artikel  5  
+### Artikel   5  
 
-Ten behoeve van zoek- en reddingsacties worden door de desbetreffende luchtvaartuigen, reddingsvoertuigen, reddingseenheden en overlevenden de seinen gebruikt als in de bij deze regeling behorende bijlage 1 is aangegeven. In deze bijlage is tevens aangegeven hoe overeenkomstig deze seinen moet worden gehandeld.  
+Ten behoeve van zoek- en reddingsacties worden door de desbetreffende luchtvaartuigen, reddingsvoertuigen, reddingseenheden en overlevenden de seinen gebruikt als in de bij deze regeling behorende bijlage 1 is aangegeven. In deze bijlage is tevens aangegeven hoe overeenkomstig deze seinen moet worden gehandeld. 
 
 ### Artikel  6  
 
-Bij onderschepping van een luchtvaartuig worden door het onderscheppende en het onderschepte luchtvaartuig de seinen gebruikt als in de bij deze regeling behorende bijlage 2 is aangegeven.  
+Bij onderschepping van een luchtvaartuig worden door het onderscheppende en het onderschepte luchtvaartuig de seinen gebruikt als in de bij deze regeling behorende bijlage 2 is aangegeven. 
 
 ### Artikel  7  
 
 1. Luchtvaartuigen die zonder toestemming in of bijna in een beperkt, verboden of gevaarlijk gebied vliegen, worden bij dag en bij nacht gewaarschuwd door het met tussenpozen van 10 seconden vanaf de grond afvuren van een serie projectielen, die bij het springen rode en groene lichten of sterren vertonen.  
 
-2. Het luchtvaartuig neemt geschikte maatregelen om het desbetreffende gebied te verlaten of te vermijden.    
+2. Het luchtvaartuig neemt geschikte maatregelen om het desbetreffende gebied te verlaten of te vermijden.   
 
-### Hoofdstuk  4  
+### Hoofdstuk   4  
 
 ####Seinen voor het luchtvaartterreinverkeer
 
-### Artikel  8  
+### Artikel   8  
 
 1. De volgende lichtseinen van een plaatselijke luchtverkeersleidingsdienst aan luchtvaartuigen hebben de daarachter vermelde betekenis:  
 
@@ -105,11 +105,11 @@ b. op de grond:
 
 – bij dag: door het bewegen van de rolroeren of het richtingsroer, of  
 
-– bij nacht: door het tweemaal in- en uitschakelen van de landingslichten of, bij het ontbreken daarvan, het tweemaal uit- en inschakelen van de navigatielichten.        
+– bij nacht: door het tweemaal in- en uitschakelen van de landingslichten of, bij het ontbreken daarvan, het tweemaal uit- en inschakelen van de navigatielichten.       
 
 ### Artikel  9  
 
-Op een luchtvaartterrein worden de in de bij deze regelingbehorende bijlage 3 opgenomen grondseinen met de daarachter vermelde betekenis gebruikt.  
+Op een luchtvaartterrein worden de in de bij deze regelingbehorende bijlage 3 opgenomen grondseinen met de daarachter vermelde betekenis gebruikt. 
 
 ### Artikel  10  
 
@@ -121,7 +121,7 @@ b. bij helikopters: waar hij het best kan worden gezien door de bestuurder.
 
 2. De seiner gebruikt geen seinen, wanneer het gebied waarin het luchtvaartuig wordt geleid, niet vrij is van voorwerpen die het luchtvaartuig zouden kunnen raken bij het opvolgen van de te geven aanwijzing.  
 
-3. De betekenis van de seinen blijft gelijk wanneer de seiner borden, verlichte stokken of lantaarns gebruikt.    
+3. De betekenis van de seinen blijft gelijk wanneer de seiner borden, verlichte stokken of lantaarns gebruikt.   
 
 ### Artikel  11  
 
@@ -135,19 +135,19 @@ c. wielblokken vastzetten: de armen worden, met de handpalm naar buiten, gestrek
 
 d. wielblokken wegnemen: de armen worden gekruist vóór het gelaat en daarna gestrekt met de handpalm naar buiten;  
 
-e. klaar om motor(en) te starten: een hand wordt opgestoken, waarbij met het aantal gestrekte vingers wordt aangegeven welke motor klaar is om te worden gestart; de motoren worden aangeduid door opeenvolgende nummering, te beginnen met de buitenste linkermotor, die als nummer 1 wordt aangeduid.    
+e. klaar om motor(en) te starten: een hand wordt opgestoken, waarbij met het aantal gestrekte vingers wordt aangegeven welke motor klaar is om te worden gestart; de motoren worden aangeduid door opeenvolgende nummering, te beginnen met de buitenste linkermotor, die als nummer 1 wordt aangeduid.   
 
 ### Hoofdstuk  5  
 
 ####Slotbepalingen
 
-### Artikel  12  
+### Artikel   12  
 
-Deze regeling wordt aangehaald als: Regeling seinen luchtvaart BES.  
+Deze regeling wordt aangehaald als: Regeling seinen luchtvaart BES. 
 
 ### Artikel  13  
 
-Deze regeling berust op artikel 105, tweede lid, van het Besluit luchtverkeer BES.  
+Deze regeling berust op artikel 105, tweede lid, van het Besluit luchtverkeer BES. 
 
 ### Bijlage  1  
 
@@ -318,25 +318,25 @@ b. Door onderscheppende luchtvaartuigen
 
 De volgende grondseinen op een luchtvaartterrein hebben de daarachter vermelde betekenis: 
 
-a. rood vierkant bord met gele diagonalen in een seinenvierkant: verboden te landen voor onbepaalde tijd;   ![247368](http://wetten.overheid.nl/Illustration/247368)
+a. rood vierkant bord met gele diagonalen in een seinenvierkant: verboden te landen voor onbepaalde tijd;  ![247368](http://wetten.overheid.nl/Illustration/247368)
 
-b. rood vierkant bord met één gele diagonaal in een seinenvierkant: opletten bij het landen;   ![247369](http://wetten.overheid.nl/Illustration/247369)
+b. rood vierkant bord met één gele diagonaal in een seinenvierkant: opletten bij het landen;  ![247369](http://wetten.overheid.nl/Illustration/247369)
 
-c. witte halter in een seinenvierkant: landen, opstijgen en taxiën uitsluitend toegestaan op banen en rijbanen;   ![247370](http://wetten.overheid.nl/Illustration/247370)
+c. witte halter in een seinenvierkant: landen, opstijgen en taxiën uitsluitend toegestaan op banen en rijbanen;  ![247370](http://wetten.overheid.nl/Illustration/247370)
 
-d. witte halter met zwarte dwarsbalken in een seinenvierkant: landen en opstijgen uitsluitend toegestaan op banen: taxiën toegestaan op en buiten rijbanen;   ![247371](http://wetten.overheid.nl/Illustration/247371)
+d. witte halter met zwarte dwarsbalken in een seinenvierkant: landen en opstijgen uitsluitend toegestaan op banen: taxiën toegestaan op en buiten rijbanen;  ![247371](http://wetten.overheid.nl/Illustration/247371)
 
-e. kruisen in een enkelvoudige kleur, liefst geel of wit, op het landingsterrein: het gedeelte binnen de kruisen in onbruikbaar;   ![247372](http://wetten.overheid.nl/Illustration/247372)
+e. kruisen in een enkelvoudige kleur, liefst geel of wit, op het landingsterrein: het gedeelte binnen de kruisen in onbruikbaar;  ![247372](http://wetten.overheid.nl/Illustration/247372)
 
-f. witte of oranje landings-T: landen en opstijgen in een lijn evenwijdig aan het staande been van de T en in de richting van de voet naar de top van de T. Bij nachtelijk gebruik van het terrein wordt de landings-T verlicht of met witte lampen afgetekend;   ![247373](http://wetten.overheid.nl/Illustration/247373)
+f. witte of oranje landings-T: landen en opstijgen in een lijn evenwijdig aan het staande been van de T en in de richting van de voet naar de top van de T. Bij nachtelijk gebruik van het terrein wordt de landings-T verlicht of met witte lampen afgetekend;  ![247373](http://wetten.overheid.nl/Illustration/247373)
 
-g. twee cijfers tegen of in de nabijheid van de verkeerstoren: richting, waarin moet worden opgestegen, uitgedrukt in tientallen graden ten opzichte van het magnetisch Noorden, afgerond op het meest nabijkomende tiental graden;   ![247374](http://wetten.overheid.nl/Illustration/247374)
+g. twee cijfers tegen of in de nabijheid van de verkeerstoren: richting, waarin moet worden opgestegen, uitgedrukt in tientallen graden ten opzichte van het magnetisch Noorden, afgerond op het meest nabijkomende tiental graden;  ![247374](http://wetten.overheid.nl/Illustration/247374)
 
-h. pijl in een sprekende kleur in een seinenvierkant of aan het einde van de in gebruik zijnde baan: vóór het landen en na het opstijgen iedere bocht naar rechts maken (rechterhandluchtverkeerscircuit);   ![247375](http://wetten.overheid.nl/Illustration/247375)
+h. pijl in een sprekende kleur in een seinenvierkant of aan het einde van de in gebruik zijnde baan: vóór het landen en na het opstijgen iedere bocht naar rechts maken (rechterhandluchtverkeerscircuit);  ![247375](http://wetten.overheid.nl/Illustration/247375)
 
-i. zwarte C op gele achtergrond: luchtverkeersmeldingspost;   ![247376](http://wetten.overheid.nl/Illustration/247376)
+i. zwarte C op gele achtergrond: luchtverkeersmeldingspost;  ![247376](http://wetten.overheid.nl/Illustration/247376)
 
-j. dubbel wit kruis in het seinenvierkant: zweefvliegen vindt plaats op het luchtvaartterrein.   ![247377](http://wetten.overheid.nl/Illustration/247377)
+j. dubbel wit kruis in het seinenvierkant: zweefvliegen vindt plaats op het luchtvaartterrein.  ![247377](http://wetten.overheid.nl/Illustration/247377)
 
 ### Bijlage  4  
 
@@ -344,52 +344,52 @@ j. dubbel wit kruis in het seinenvierkant: zweefvliegen vindt plaats op het luch
 
 I. De volgende seinen worden door de seiner gegeven door middel van de daarachter vermelde parkeerseinen 
 
-a. Ga verder onder aanwijzing van de seiner: De seiner leidt het luchtvaartuig, indien dit noodzakelijk is.   ![247378](http://wetten.overheid.nl/Illustration/247378)
+a. Ga verder onder aanwijzing van de seiner: De seiner leidt het luchtvaartuig, indien dit noodzakelijk is.  ![247378](http://wetten.overheid.nl/Illustration/247378)
 
-b. Hier parkeren: De armen omhoog gestrekt met de handpalmen naar elkaar toe.   ![247379](http://wetten.overheid.nl/Illustration/247379)
+b. Hier parkeren: De armen omhoog gestrekt met de handpalmen naar elkaar toe.  ![247379](http://wetten.overheid.nl/Illustration/247379)
 
-c. Ga verder naar de volgende seiner: Rechter- of linkerarm naar beneden, andere arm gekruist voor het lichaam en gestrekt in de richting van de volgende seiner.   ![247380](http://wetten.overheid.nl/Illustration/247380)
+c. Ga verder naar de volgende seiner: Rechter- of linkerarm naar beneden, andere arm gekruist voor het lichaam en gestrekt in de richting van de volgende seiner.  ![247380](http://wetten.overheid.nl/Illustration/247380)
 
-d. Rechtuit rijden: De armen worden een weinig uit elkaar, met de handpalmen achterwaarts, herhaaldelijk vanaf schouderhoogte naar boven en naar achteren bewogen.   ![247381](http://wetten.overheid.nl/Illustration/247381)
+d. Rechtuit rijden: De armen worden een weinig uit elkaar, met de handpalmen achterwaarts, herhaaldelijk vanaf schouderhoogte naar boven en naar achteren bewogen.  ![247381](http://wetten.overheid.nl/Illustration/247381)
 
-e. Draai naar links: De rechterarm wijst naar beneden; de linkerarm wordt herhaaldelijk van recht vooruit naar boven en naar achteren bewogen. Hoe sneller de arm wordt bewogen, hoe sneller moet worden gedraaid.   ![247382](http://wetten.overheid.nl/Illustration/247382)
+e. Draai naar links: De rechterarm wijst naar beneden; de linkerarm wordt herhaaldelijk van recht vooruit naar boven en naar achteren bewogen. Hoe sneller de arm wordt bewogen, hoe sneller moet worden gedraaid.  ![247382](http://wetten.overheid.nl/Illustration/247382)
 
-f. Draai naar rechts: De linkerarm wijst naar beneden; de rechterarm wordt herhaaldelijk van recht vooruit naar boven en naar achteren bewogen. Hoe sneller de arm wordt bewogen, hoe sneller moet worden gedraaid.   ![247383](http://wetten.overheid.nl/Illustration/247383)
+f. Draai naar rechts: De linkerarm wijst naar beneden; de rechterarm wordt herhaaldelijk van recht vooruit naar boven en naar achteren bewogen. Hoe sneller de arm wordt bewogen, hoe sneller moet worden gedraaid.  ![247383](http://wetten.overheid.nl/Illustration/247383)
 
-g. Stop: De gestrekte armen worden herhaaldelijk boven het hoofd gekruist. Hoe sneller de armen worden gekruist, hoe sneller moet worden gestopt.   ![247384](http://wetten.overheid.nl/Illustration/247384)
+g. Stop: De gestrekte armen worden herhaaldelijk boven het hoofd gekruist. Hoe sneller de armen worden gekruist, hoe sneller moet worden gestopt.  ![247384](http://wetten.overheid.nl/Illustration/247384)
 
-h. Remmen vast: De arm en geopende hand worden horizontaal gestrekt voor het lichaam, waarna een vuist wordt gemaakt.   ![247385](http://wetten.overheid.nl/Illustration/247385)
+h. Remmen vast: De arm en geopende hand worden horizontaal gestrekt voor het lichaam, waarna een vuist wordt gemaakt.  ![247385](http://wetten.overheid.nl/Illustration/247385)
 
-i. Remmen los: De arm en hand met gebalde vuist worden horizontaal gestrekt voor het lichaam, waarna de vuist geopend wordt.   ![247386](http://wetten.overheid.nl/Illustration/247386)
+i. Remmen los: De arm en hand met gebalde vuist worden horizontaal gestrekt voor het lichaam, waarna de vuist geopend wordt.  ![247386](http://wetten.overheid.nl/Illustration/247386)
 
-j. Wielblokken worden vastgezet: De gestrekte armen worden met de handpalm naar binnen van zijwaarts naar omlaag bewogen.   ![247387](http://wetten.overheid.nl/Illustration/247387)
+j. Wielblokken worden vastgezet: De gestrekte armen worden met de handpalm naar binnen van zijwaarts naar omlaag bewogen.  ![247387](http://wetten.overheid.nl/Illustration/247387)
 
-k. Wielblokken zijn weggenomen: De gestrekte armen worden met de handpalm naar buiten van omlaag in zijwaartse richting bewogen.   ![247388](http://wetten.overheid.nl/Illustration/247388)
+k. Wielblokken zijn weggenomen: De gestrekte armen worden met de handpalm naar buiten van omlaag in zijwaartse richting bewogen.  ![247388](http://wetten.overheid.nl/Illustration/247388)
 
-l. Motor(en) starten: De rechterhand beschrijft een cirkel naast het hoofd, terwijl met het aantal opgestoken vingers wordt aangegeven welke motor moet worden gestart; de motoren worden aangeduid door opeenvolgende nummering, te beginnen met de buitenste linker motor, die als nummer 1 wordt aangeduid.   ![247389](http://wetten.overheid.nl/Illustration/247389)
+l. Motor(en) starten: De rechterhand beschrijft een cirkel naast het hoofd, terwijl met het aantal opgestoken vingers wordt aangegeven welke motor moet worden gestart; de motoren worden aangeduid door opeenvolgende nummering, te beginnen met de buitenste linker motor, die als nummer 1 wordt aangeduid.  ![247389](http://wetten.overheid.nl/Illustration/247389)
 
-m. Motor(en) afzetten: De rechter- of linkerhand wordt, met de handpalm naar beneden, op schouderhoogte voor de keel heen en weer bewogen, terwijl de arm gebogen blijft.   ![247390](http://wetten.overheid.nl/Illustration/247390)
+m. Motor(en) afzetten: De rechter- of linkerhand wordt, met de handpalm naar beneden, op schouderhoogte voor de keel heen en weer bewogen, terwijl de arm gebogen blijft.  ![247390](http://wetten.overheid.nl/Illustration/247390)
 
-n. Snelheid verminderen: De armen worden met de handpalmen naar beneden gericht herhaaldelijk naast het lichaam op en neer bewogen.   ![247391](http://wetten.overheid.nl/Illustration/247391)
+n. Snelheid verminderen: De armen worden met de handpalmen naar beneden gericht herhaaldelijk naast het lichaam op en neer bewogen.  ![247391](http://wetten.overheid.nl/Illustration/247391)
 
-o. Snelheid van de motoren verminderen aan de aangegeven zijde: De armen worden - met de handpalmen naar de grond gericht - langs het lichaam gestrekt, waarna de linker of rechterhand op en neer wordt bewogen om aan te geven dat de linker of rechter motor(en) snelheid moet(en) minderen.   ![247392](http://wetten.overheid.nl/Illustration/247392)
+o. Snelheid van de motoren verminderen aan de aangegeven zijde: De armen worden - met de handpalmen naar de grond gericht - langs het lichaam gestrekt, waarna de linker of rechterhand op en neer wordt bewogen om aan te geven dat de linker of rechter motor(en) snelheid moet(en) minderen.  ![247392](http://wetten.overheid.nl/Illustration/247392)
 
-p. Achteruit: De gestrekte armen worden - met de handpalmen naar voren gericht - herhaaldelijk naar voren en naar boven langs het lichaam bewogen tot aan schouderhoogte.   ![247393](http://wetten.overheid.nl/Illustration/247393)
+p. Achteruit: De gestrekte armen worden - met de handpalmen naar voren gericht - herhaaldelijk naar voren en naar boven langs het lichaam bewogen tot aan schouderhoogte.  ![247393](http://wetten.overheid.nl/Illustration/247393)
 
-q. Staart naar rechts, achteruitrijdend: De linkerarm wijst zijwaarts omlaag, terwijl de gestrekte rechterarm - met de handpalm naar voren gericht - herhaaldelijk van omhoog naar voren wordt bewogen.   ![247394](http://wetten.overheid.nl/Illustration/247394)
+q. Staart naar rechts, achteruitrijdend: De linkerarm wijst zijwaarts omlaag, terwijl de gestrekte rechterarm - met de handpalm naar voren gericht - herhaaldelijk van omhoog naar voren wordt bewogen.  ![247394](http://wetten.overheid.nl/Illustration/247394)
 
-r. Staart naar links, achteruitrijdend: De rechterarm wijst zijwaarts omlaag, terwijl de gestrekte linkerarm - met de handpalm naar voren gericht - herhaaldelijk van omhoog naar voren wordt bewogen.   ![247395](http://wetten.overheid.nl/Illustration/247395)
+r. Staart naar links, achteruitrijdend: De rechterarm wijst zijwaarts omlaag, terwijl de gestrekte linkerarm - met de handpalm naar voren gericht - herhaaldelijk van omhoog naar voren wordt bewogen.  ![247395](http://wetten.overheid.nl/Illustration/247395)
 
-s. Alles vrij: De rechterarm wordt opgeheven vanaf de elleboog, terwijl de duim van de rechterhand omhoog wijst.   ![247396](http://wetten.overheid.nl/Illustration/247396)
+s. Alles vrij: De rechterarm wordt opgeheven vanaf de elleboog, terwijl de duim van de rechterhand omhoog wijst.  ![247396](http://wetten.overheid.nl/Illustration/247396)
 
 II. de volgende aanwijzingen voor helikopters worden door de seiner gegeven door middel van de daarachter vermelde manoeuvreertekens 
 
-a. Houd positie (‘hover’): Armen horizontaal zijwaarts uitgestrekt.   ![247397](http://wetten.overheid.nl/Illustration/247397)
+a. Houd positie (‘hover’): Armen horizontaal zijwaarts uitgestrekt.  ![247397](http://wetten.overheid.nl/Illustration/247397)
 
-b. Stijgen: De armen worden horizontaal zijwaarts uitgestrekt en naar boven bewogen, met de handpalmen naar boven gericht. De snelheid van de beweging geeft de stijgsnelheid aan.   ![247398](http://wetten.overheid.nl/Illustration/247398)
+b. Stijgen: De armen worden horizontaal zijwaarts uitgestrekt en naar boven bewogen, met de handpalmen naar boven gericht. De snelheid van de beweging geeft de stijgsnelheid aan.  ![247398](http://wetten.overheid.nl/Illustration/247398)
 
-c. Dalen: De armen worden horizontaal zijwaarts uitgestrekt en naar beneden bewogen, met de handpalmen naar beneden gericht. De snelheid van de beweging geeft de daalsnelheid aan.   ![247400](http://wetten.overheid.nl/Illustration/247400)
+c. Dalen: De armen worden horizontaal zijwaarts uitgestrekt en naar beneden bewogen, met de handpalmen naar beneden gericht. De snelheid van de beweging geeft de daalsnelheid aan.  ![247400](http://wetten.overheid.nl/Illustration/247400)
 
-d. Vlieg horizontaal in de aangegeven richting: De ene arm wijst zijwaarts in de vliegrichting, terwijl de andere arm herhaaldelijk in dezelfde richting voor het lichaam wordt bewogen.   ![247401](http://wetten.overheid.nl/Illustration/247401)
+d. Vlieg horizontaal in de aangegeven richting: De ene arm wijst zijwaarts in de vliegrichting, terwijl de andere arm herhaaldelijk in dezelfde richting voor het lichaam wordt bewogen.  ![247401](http://wetten.overheid.nl/Illustration/247401)
 
 e. Landen: De armen gekruist voor het lichaam naar beneden gestrekt.     

@@ -16,7 +16,7 @@ Hebben goedgevonden en verstaan:
 ### Artikel  1  
 
 1.  Er is een adviescommissie ongeschiktheidsontslag rechterlijke ambtenaren, hierna te noemen: de commissie.   
-2.  De commissie adviseert over ongeschiktheidsontslag als bedoeld in [artikel 46l van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md).   
+2.  De commissie adviseert over ongeschiktheidsontslag als bedoeld in [artikel 46l van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md).  
 
 ### Artikel  2  
 
@@ -34,17 +34,17 @@ c. een lid van een gerechtsbestuur, niet zijnde president.
 6.  Voor de gevallen dat de adviesaanvraag betrekking heeft op een voor het leven benoemde rechterlijk ambtenaar die werkzaam is bij het parket bij de Hoge Raad, wordt voor het lid, bedoeld in het eerste lid, onder b, als plaatsvervanger aangewezen een voor het leven benoemde rechterlijk ambtenaar die werkzaam is bij het parket bij de Hoge Raad, niet zijnde de procureur-generaal bij de Hoge Raad of diens plaatsvervanger. Deze plaatsvervanger wordt aangewezen door de Nederlandse Vereniging voor Rechtspraak.   
 7.  Als voorzitter en als plaatsvervangend voorzitter van de commissie treden op het lid, bedoeld in het eerste lid, onder a, en diens plaatsvervanger.   
 8.  De leden en de plaatsvervangende leden van de commissie worden door Onze Minister benoemd voor een periode van vijf jaar.   
-9.  De leden en de plaatsvervangende leden van de commissie kunnen worden herbenoemd.   
+9.  De leden en de plaatsvervangende leden van de commissie kunnen worden herbenoemd.  
 
 ### Artikel  3  
 
 1.  Een lid of een plaatsvervangend lid van de commissie wordt op diens verzoek door Onze Minister ontheven van zijn lidmaatschap van de commissie.   
 2.  Indien een lid of een plaatsvervangend lid van de commissie de ingevolge artikel 2, eerste, vijfde of zesde lid, vereiste hoedanigheid verliest, wordt hij door Onze Minister ontheven van zijn lidmaatschap.   
-3.  Degene die wordt benoemd tot lid of plaatsvervangend lid van de commissie in de plaats van degene die wordt ontheven van het lidmaatschap als bedoeld in het eerste of tweede lid, wordt in afwijking van artikel 2, achtste lid, benoemd voor het resterende gedeelte van de benoemingsperiode van zijn voorganger.   
+3.  Degene die wordt benoemd tot lid of plaatsvervangend lid van de commissie in de plaats van degene die wordt ontheven van het lidmaatschap als bedoeld in het eerste of tweede lid, wordt in afwijking van artikel 2, achtste lid, benoemd voor het resterende gedeelte van de benoemingsperiode van zijn voorganger.  
 
 ### Artikel  4  
 
-Het secretariaat van de commissie wordt verzorgd door ambtenaren van het bureau van de Raad voor de rechtspraak.  
+Het secretariaat van de commissie wordt verzorgd door ambtenaren van het bureau van de Raad voor de rechtspraak. 
 
 ### Artikel  5  
 
@@ -52,25 +52,25 @@ Het secretariaat van de commissie wordt verzorgd door ambtenaren van het bureau 
 2.  De commissie kan de in het eerste lid bedoelde personen alsmede degene op wiens verzoek advies wordt uitgebracht vragen om stukken of inlichtingen te verstrekken.   
 3.  Indien het verstrekken van inlichtingen, bedoeld in het tweede lid, mondeling geschiedt, wordt hiervan een schriftelijk verslag opgemaakt.   
 4.  Indien het advies wordt aangevraagd door de procureur-generaal bij de Hoge Raad, is [afdeling 3.3](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met uitzondering van [artikel 3:6, tweede lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
-5.  Ten aanzien van een voor het leven benoemde rechterlijk ambtenaar die werkzaam is bij het parket bij de Hoge Raad wordt voor de toepassing van dit artikel onder «president van het gerecht» verstaan: de procureur-generaal bij de Hoge Raad.   
+5.  Ten aanzien van een voor het leven benoemde rechterlijk ambtenaar die werkzaam is bij het parket bij de Hoge Raad wordt voor de toepassing van dit artikel onder «president van het gerecht» verstaan: de procureur-generaal bij de Hoge Raad.  
 
 ### Artikel  6  
 
-De commissie kan bij reglement nadere regels vaststellen met betrekking tot haar werkwijze.  
+De commissie kan bij reglement nadere regels vaststellen met betrekking tot haar werkwijze. 
 
 ### Artikel  7  
 
 1.  Binnen zes weken na ontvangst van de adviesaanvraag brengt de commissie haar advies uit aan de procureur-generaal bij de Hoge Raad dan wel Onze Minister.   
 2.  De commissie kan de in het eerste lid genoemde termijn met twee weken verlengen.   
-3.  De commissie stelt aan de procureur-generaal bij de Hoge Raad dan wel Onze Minister stukken en schriftelijk verkregen inlichtingen als bedoeld in artikel 5, tweede lid, en schriftelijke verslagen als bedoeld in artikel 5, eerste en derde lid, ter beschikking.   
+3.  De commissie stelt aan de procureur-generaal bij de Hoge Raad dan wel Onze Minister stukken en schriftelijk verkregen inlichtingen als bedoeld in artikel 5, tweede lid, en schriftelijke verslagen als bedoeld in artikel 5, eerste en derde lid, ter beschikking.  
 
 ### Artikel  8  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van het Staatsblad waarin het wordt geplaatst. 
 
 ### Artikel  9  
 
-Dit besluit wordt aangehaald als: Besluit adviescommissie ongeschiktheidsontslag rechterlijke ambtenaren.  
+Dit besluit wordt aangehaald als: Besluit adviescommissie ongeschiktheidsontslag rechterlijke ambtenaren. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

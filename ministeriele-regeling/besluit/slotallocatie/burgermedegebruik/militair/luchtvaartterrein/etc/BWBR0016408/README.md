@@ -12,13 +12,13 @@ Besluit:
 
 ### Artikel  1  
 
-Het militair luchtvaartterrein Eindhoven wordt ten aanzien van het medegebruik door burgerluchtvaartuigen aangewezen tot volledig gecoördineerd luchtvaartterrein.  
+Het militair luchtvaartterrein Eindhoven wordt ten aanzien van het medegebruik door burgerluchtvaartuigen aangewezen tot volledig gecoördineerd luchtvaartterrein. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
-Staatssecretaris van Verkeer en Waterstaat
-M.H.Schultz van Haegen    
+Staatssecretaris van Verkeer en Waterstaat 
+M.H. Schultz van Haegen      

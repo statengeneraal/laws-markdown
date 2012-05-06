@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van 29 juni 2007, tot vaststelling van het formulier voor een notariële verklaring inzake ouderlijke verantwoordelijkheid
+##Besluit van 29 juni 2007, tot vaststelling van het formulier voor een notariële verklaring inzake ouderlijke verantwoordelijkheid 
 
 De Minister van Justitie,  
 Gelet op [artikel 25, tweede lid, van de Uitvoeringswet internationale kinderbescherming](../../../../../../../../../../wet/uitvoeringswet/internationale/kinderbescherming/BWBR0019574/README.md);
@@ -28,11 +28,11 @@ Het formulier voor de verklaring inzake ouderlijke verantwoordelijkheid ingevolg
 
 9. De genoemde bevoegdheden eindigen op (voorzover van toepassing) ..........  
 
-10. Datum van deze verklaring: ..........   Handtekening/zegel van de notaris * Doorhalen wat niet van toepassing is  
+10. Datum van deze verklaring: ..........   Handtekening/zegel van de notaris * Doorhalen wat niet van toepassing is 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -40,4 +40,4 @@ Den Haag
 
 De 
 Minister van Justitie, 
-E.M.H.Hirsch Ballin   
+E.M.H. Hirsch Ballin     

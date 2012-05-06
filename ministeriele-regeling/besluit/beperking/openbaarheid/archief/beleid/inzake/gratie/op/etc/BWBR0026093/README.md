@@ -26,5 +26,5 @@ Den Haag
 10 december 2008   
 
 De 
-Minister van Justitie, namens deze:
-de Secretaris-generaal   
+Minister van Justitie, namens deze: 
+de Secretaris-generaal    

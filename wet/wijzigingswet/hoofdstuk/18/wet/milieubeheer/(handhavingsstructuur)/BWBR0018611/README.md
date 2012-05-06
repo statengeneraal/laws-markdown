@@ -11,31 +11,31 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet milieubeheer.   
+Wijzigt de Wet milieubeheer.
 
 ### Artikel  II  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.
 
 ### Artikel  III  
 
-Wijzigt kamerstuk 27008.   
+Wijzigt kamerstuk 27008.
 
 ### Artikel  IV  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.
 
 ### Artikel  V  
 
-Wijzigt de Implementatiewet EG-kaderrichtlijn water.   
+Wijzigt de Implementatiewet EG-kaderrichtlijn water.
 
 ### Artikel  VI  
 
-Onze Minister zendt in overeenstemming met Onze Ministers van Verkeer en Waterstaat en van Justitie binnen twee jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Minister zendt in overeenstemming met Onze Ministers van Verkeer en Waterstaat en van Justitie binnen twee jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### Artikel  VII  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat artikel I, onderdeel B, voorzover het betreft [artikel 18.3e, eerste lid](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en [artikel 18.3f, eerste lid, onder b](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), niet eerder in werking treedt dan met ingang van 1 januari 2005.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld, met dien verstande dat artikel I, onderdeel B, voorzover het betreft [artikel 18.3e, eerste lid](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en [artikel 18.3f, eerste lid, onder b](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), niet eerder in werking treedt dan met ingang van 1 januari 2005. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

@@ -14,14 +14,14 @@ a. Wob: [Wet openbaarheid van bestuur](../../../../../../../../wet/wet/openbaarh
 
 b. Ministerie: Ministerie van Landbouw, Natuur en Voedselkwaliteit;  
 
-c. Minister: Minister van Landbouw, Natuur en Voedselkwaliteit.    
+c. Minister: Minister van Landbouw, Natuur en Voedselkwaliteit.   
 
 ### Artikel  2  
 
 1.  De Minister neemt jaarlijks een besluit tot actieve openbaarmaking van gegevens over de verlening in Nederland van subsidies in het kader van het gemeenschappelijk landbouw- en visserijbeleid.   
 2.  Een besluit als bedoeld in het eerste lid wordt genomen op grond van de [Wob](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).   
 3.  Een besluit als bedoeld in het eerste lid wordt genomen door de Minister.   
-4.  Een besluit als bedoeld in het eerste lid wordt bekendgemaakt in de Staatscourant en geplaatst op de website van het Ministerie.   
+4.  Een besluit als bedoeld in het eerste lid wordt bekendgemaakt in de Staatscourant en geplaatst op de website van het Ministerie.  
 
 ### Artikel  3  
 
@@ -50,28 +50,28 @@ f. voor de subsidies van het gemeenschappelijk visserijbeleid:
 
 2°. bedrag dat op grond van een regeling of post als bedoeld in onderdeel b is uitgetrokken voor een actie;  
 
-3°. nadat een actie is afgerond, het totale bedrag dat op grond van een regeling of post als bedoeld in onderdeel b is uitgetrokken en dat daadwerkelijk voor de actie is besteed.       
+3°. nadat een actie is afgerond, het totale bedrag dat op grond van een regeling of post als bedoeld in onderdeel b is uitgetrokken en dat daadwerkelijk voor de actie is besteed.     
 
 ### Artikel  4  
 
 1.  De gegevens worden eerst openbaar gemaakt nadat een termijn van vier weken na de bekendmaking van het besluit is verstreken.   
-2.  De gegevens worden openbaar gemaakt door plaatsing daarvan op de website van het Ministerie.   
+2.  De gegevens worden openbaar gemaakt door plaatsing daarvan op de website van het Ministerie.  
 
 ### Artikel  4a  
 
-Dit besluit berust mede op verordening (EG) nr. 259/2008 van de Commissie van de Europese Gemeenschappen van 18 maart 2008 tot vaststelling van uitvoeringsbepalingen van verordening (EG) nr. 1290/2005 van de Raad van de Europese Unie met betrekking tot de bekendmaking van informatie over de begunstigden van financiële middelen uit het Europees Landbouwgarantiefonds (ELGF) en het Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO) (PbEU L 76) en op verordening (EG) nr. 498/2007 van de Commissie van de Europese Gemeenschappen van 26 maart 2007 tot vaststelling van uitvoeringsbepalingen van verordening (EG) nr. 1198/2006 van de Raad van de Europese Unie inzake het Europees Visserijfonds (PbEU L 120).  
+Dit besluit berust mede op verordening (EG) nr. 259/2008 van de Commissie van de Europese Gemeenschappen van 18 maart 2008 tot vaststelling van uitvoeringsbepalingen van verordening (EG) nr. 1290/2005 van de Raad van de Europese Unie met betrekking tot de bekendmaking van informatie over de begunstigden van financiële middelen uit het Europees Landbouwgarantiefonds (ELGF) en het Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO) (PbEU L 76) en op verordening (EG) nr. 498/2007 van de Commissie van de Europese Gemeenschappen van 26 maart 2007 tot vaststelling van uitvoeringsbepalingen van verordening (EG) nr. 1198/2006 van de Raad van de Europese Unie inzake het Europees Visserijfonds (PbEU L 120). 
 
 ### Artikel  5  
 
-De [Beleidsregel openbaarmaking subsidiegegevens gemeenschappelijk landbouwbeleid](../../../../../../../../beleidsregel/beleidsregel/openbaarmaking/subsidiegegevens/gemeenschappelijk/etc/BWBR0019802/README.md) wordt ingetrokken.  
+De [Beleidsregel openbaarmaking subsidiegegevens gemeenschappelijk landbouwbeleid](../../../../../../../../beleidsregel/beleidsregel/openbaarmaking/subsidiegegevens/gemeenschappelijk/etc/BWBR0019802/README.md) wordt ingetrokken. 
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: Beleidsregel openbaarmaking subsidiegegevens gemeenschappelijk landbouw- en visserijbeleid.  
+Dit besluit wordt aangehaald als: Beleidsregel openbaarmaking subsidiegegevens gemeenschappelijk landbouw- en visserijbeleid. 
 
 ### Artikel  7  
 
-Dit besluit treedt in werking met ingang van 1 mei 2007.  
+Dit besluit treedt in werking met ingang van 1 mei 2007. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -79,4 +79,4 @@ Den Haag
 
 De 
 Minister van Landbouw, Natuur en Voedselkwaliteit, 
-G.Verburg   
+G. Verburg     

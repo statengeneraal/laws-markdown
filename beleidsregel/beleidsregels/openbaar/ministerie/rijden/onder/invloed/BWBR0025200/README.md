@@ -19,9 +19,9 @@ Basisfactor
 
 | --- | --- | --- |
 |:---|:---|:---|
-| •  | Geen recidive  | 0 pt  |
-| –  | 1 maal  | 4 pt  |
-| –  | Meermalen  | 4 pt  |
+| •  | Geen recidive   | 0 pt  |
+| –  | 1 maal   | 4 pt  |
+| –  | Meermalen   | 4 pt  |
 | --- | --- |  *+ dagvaarden*   |
 
 ####Uitgangspunt indien onbekend
@@ -173,7 +173,7 @@ Binnen de verkeersrichtlijnen is de ontzegging van de bevoegdheid tot het bestur
 
 ####Uitwerking
 
-Indien deze OBM regeling van toepassing is, gelden in afwijking van andere Polaris-regels, de onderstaande sancties als uitgangspunt voor de strafmaat. Indien de sanctie uitsluitend een geldbedrag betreft, dient (indien niet op andere gronden dagvaarden is geïndiceerd) een transactie te worden aangeboden of een strafbeschikking inhoudende een geldboete te worden opgelegd.  
+Indien deze OBM regeling van toepassing is, gelden in afwijking van andere Polaris-regels, de onderstaande sancties als uitgangspunt voor de strafmaat. Indien de sanctie uitsluitend een geldbedrag betreft, dient (indien niet op andere gronden dagvaarden is geïndiceerd) een transactie te worden aangeboden of een strafbeschikking inhoudende een geldboete te worden opgelegd.   
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -207,7 +207,7 @@ Geen
 
 ####Basisdelict besturen van fiets of gehandicaptenvoertuig zonder motor met een AAG(-equivalent) van 235 µg/l of meer
 
-[Richtlijn rijden onder invloed, artt. 8 leden 2 t/m 4, 162 en 163 WVW 1994](../../../../../../../../beleidsregel/richtlijn/rijden/onder/invloed/artt./8/leden/2/tm/4/162/en/163/wvw/1994/BWBR0021543/README.md)   
+[Richtlijn rijden onder invloed, artt. 8 leden 2 t/m 4, 162 en 163 WVW 1994](../../../../../../../../beleidsregel/richtlijn/rijden/onder/invloed/artt./8/leden/2/tm/4/162/en/163/wvw/1994/BWBR0021543/README.md)  
 
 ####Beschrijving
 
@@ -230,9 +230,9 @@ Nee.
 | --- | --- | --- |
 |:---|:---|:---|
 | Rijgedrag  |
-| •  | Er is geen sprake van strafverzwarend rijgedrag  | 0 pt  |
-| –  | Er was sprake van roekeloos of zeer onvoorzichtig verkeersgedrag.  | 4 pt  |
-| –  | Verdachte is (mede)schuldig aan een verkeersongeval met voor derden meer dan geringe materiële schade en/of letsel van enige betekenis. (Er wordt geen aparte strafvervolging ex [art.6 WVW94](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) ingesteld).  | 4 pt  |
+| •  | Er is geen sprake van strafverzwarend rijgedrag   | 0 pt  |
+| –  | Er was sprake van roekeloos of zeer onvoorzichtig verkeersgedrag.   | 4 pt  |
+| –  | Verdachte is (mede)schuldig aan een verkeersongeval met voor derden meer dan geringe materiële schade en/of letsel van enige betekenis. (Er wordt geen aparte strafvervolging ex [art.6 WVW94](../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) ingesteld).   | 4 pt  |
 | --- |  *+ dagvaarden*   |
 | Recidive bij rijden onder invloed  |
 | •  | Geen recidive  | 0 pt  |

@@ -8,11 +8,11 @@ Besluit:
 
 ### Artikel  1  
 
-Het subsidieplafond voor het in 2010 verlenen van subsidies krachtens het [Besluit subsidies regionale investeringsprojecten 2000](../../../../../../../../../../AMvB/besluit/subsidies/regionale/investeringsprojecten/2000/BWBR0011582/README.md) op aanvragen om subsidie die vóór 1 januari 2010 zijn ingediend bedraagt € 13.751.000.  
+Het subsidieplafond voor het in 2010 verlenen van subsidies krachtens het [Besluit subsidies regionale investeringsprojecten 2000](../../../../../../../../../../AMvB/besluit/subsidies/regionale/investeringsprojecten/2000/BWBR0011582/README.md) op aanvragen om subsidie die vóór 1 januari 2010 zijn ingediend bedraagt € 13.751.000. 
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling wordt met de toelichting in de Staatscourant geplaatst.   
 
 Den Haag 
@@ -20,4 +20,4 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-M.J.A. van derHoeven   
+M.J.A. van der Hoeven     

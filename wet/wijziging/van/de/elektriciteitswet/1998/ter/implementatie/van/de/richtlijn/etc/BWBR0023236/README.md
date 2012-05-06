@@ -10,16 +10,19 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is, regels te stellen t
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 28-09-2009 
 
-Wijzigt de Elektriciteitswet 1998.   
+Wijzigt de Elektriciteitswet 1998. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 28-09-2009 
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 28-09-2009 
 
-Deze wet wordt aangehaald als: Wijziging van de Elektriciteitswet 1998 ter implementatie van de richtlijn warmtekrachtkoppeling.  
+Deze wet wordt aangehaald als: Wijziging van de Elektriciteitswet 1998 ter implementatie van de richtlijn warmtekrachtkoppeling. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

@@ -7,31 +7,37 @@ gelet op artikel 17, vierde lid, van de Beschikking geldelijke steun huurwoninge
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-07-2012 
 
-Voor woningen en voor woongebouwen met een bijzonder karakter, waarvoor een jaarlijkse bijdrage en een bijdrage ineens dan wel een bijdrage ineens op voet van de Beschikking geldelijke steun huurwoningen 1975, de Regeling geldelijke steun huurwoningen in proefgemeenten normkostensysteem 1986, of de Regeling geldelijke steun huurwoningen normkostensysteem 1988 werden verstrekt, bedraagt het rendement in de maand mei 2010, dat voor de berekening van de dynamische kostprijshuur bij de aanvang van elk nieuw tijdvak van 10 jaren wordt aangehouden, 3,75 procent.  
+Voor woningen en voor woongebouwen met een bijzonder karakter, waarvoor een jaarlijkse bijdrage en een bijdrage ineens dan wel een bijdrage ineens op voet van de Beschikking geldelijke steun huurwoningen 1975, de Regeling geldelijke steun huurwoningen in proefgemeenten normkostensysteem 1986, of de Regeling geldelijke steun huurwoningen normkostensysteem 1988 werden verstrekt, bedraagt het rendement in de maand mei 2010, dat voor de berekening van de dynamische kostprijshuur bij de aanvang van elk nieuw tijdvak van 10 jaren wordt aangehouden, 3,75 procent. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-07-2012 
 
-Voor de bepaling van de hoogte van de jaarlijkse bijdrage op voet van de berekeningsmethodiek conform de Regeling geldelijke steun huurwoningen normkostensysteem 1988, met betrekking tot welk de gemeente de datum, bedoeld in artikel 31, onderdeel i. van die regeling, stelt op 16 mei 2010, doch niet later dan 15 juni 2010 bedraagt het gemiddelde verschil, bedoeld in artikel 57, eerste lid, van die regeling 1,229 procent.  
+Voor de bepaling van de hoogte van de jaarlijkse bijdrage op voet van de berekeningsmethodiek conform de Regeling geldelijke steun huurwoningen normkostensysteem 1988, met betrekking tot welk de gemeente de datum, bedoeld in artikel 31, onderdeel i. van die regeling, stelt op 16 mei 2010, doch niet later dan 15 juni 2010 bedraagt het gemiddelde verschil, bedoeld in artikel 57, eerste lid, van die regeling 1,229 procent. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-07-2012 
 
-Voor de woningen, ten aanzien waarvan de toelatingsbeschikking voor 1 januari 1992 is afgegeven en waarvan in het tijdvak aanvangende met 16 mei 2010 en eindigende met 15 juni 2010 de notariële akte tot levering, bedoeld in [artikel 89, boek 3, van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), is verleden, bedraagt het rentepercentage dat voor de toepassing van artikel 17, tweede lid, van de Beschikking geldelijke steun eigen woningen 1984 in aanmerking wordt genomen, 4,50 procent.  
+Voor de woningen, ten aanzien waarvan de toelatingsbeschikking voor 1 januari 1992 is afgegeven en waarvan in het tijdvak aanvangende met 16 mei 2010 en eindigende met 15 juni 2010 de notariële akte tot levering, bedoeld in [artikel 89, boek 3, van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), is verleden, bedraagt het rentepercentage dat voor de toepassing van artikel 17, tweede lid, van de Beschikking geldelijke steun eigen woningen 1984 in aanmerking wordt genomen, 4,50 procent. 
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-07-2012 
 
-Het in artikel 28b van de Regeling geldelijke steun voorzieningen aan huurwoningen 1987 bedoelde opslagpercentage is gelijk aan het in artikel 2 van deze beschikking genoemde percentage en is geldig voor de genoemde periode.  
+Het in artikel 28b van de Regeling geldelijke steun voorzieningen aan huurwoningen 1987 bedoelde opslagpercentage is gelijk aan het in artikel 2 van deze beschikking genoemde percentage en is geldig voor de genoemde periode. 
 
 Den Haag 
 17 mei 2010   
 
 De 
-Minister voor Wonen, Wijken en Integratie,voor deze:
-de algemeen directeur van Agentschap NL,op last:
-G. denOude,
-Opdrachtmanager.  
+Minister voor Wonen, Wijken en Integratie, voor deze: 
+de algemeen directeur van Agentschap NL, op last: 
+G. den Oude,  
+Opdrachtmanager.   
 
 ####Onderwerp: Rendementen gesubsidieerde woningbouw, mei 2010
+
+Materieel uitgewerkt per 01-07-2012 
 
 De rendementen gesubsidieerde woningbouw zoals die in mei 2010 worden gepubliceerd zijn, conform de circulaire MG 91-49 van 13 december 1991, alleen van toepassing op beschikkingen die vóór 1 januari 1992 zijn afgegeven. 
 

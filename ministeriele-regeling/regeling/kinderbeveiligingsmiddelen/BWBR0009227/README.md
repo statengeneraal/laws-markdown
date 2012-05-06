@@ -4,7 +4,7 @@
 
 De Minister van Verkeer en Waterstaat,  
 Gelet op [artikel 22, vierde lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -26,35 +26,35 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  5  
 
-Deze regeling wordt aangehaald als: Regeling kinderbeveiligingsmiddelen.  
+Deze regeling wordt aangehaald als: Regeling kinderbeveiligingsmiddelen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Verkeer en Waterstaat, 
 
-A. Jorritsma-Lebbink     
+A. Jorritsma-Lebbink   
 
-### Bijlage  
+###Bijlage 
 
-### *Model 1 Goedkeuringsmerk kinderbeveiligingsmiddel* 
+###*Model 1 Goedkeuringsmerk kinderbeveiligingsmiddel*
 
 ![47784](http://wetten.overheid.nl/Illustration/47784)
 Het merk is uitgevoerd in oranje: de cijfers dienen als voorbeeld. 
 
-Universal: universeel kinderzitje;  
+Universal: universeel kinderzitje;
 
-15-25 kg: gewichtsgroep 15-25 kg (Groep II);  
+15-25 kg: gewichtsgroep 15-25 kg (Groep II);
 
-E: gekeurd volgens een ECE-Reglement (nr. 44 in dit geval);  
+E: gekeurd volgens een ECE-Reglement (nr. 44 in dit geval);
 
-4: gekeurd in Nederland;  
+4: gekeurd in Nederland;
 
-02441616: toelatingsnummer als volgt samengesteld: 
+02441616: toelatingsnummer als volgt samengesteld:
 
-02: tweede versie van het Reglement;  
+02: tweede versie van het Reglement;
 
-44: gekeurd volgens Reglement 44;  
+44: gekeurd volgens Reglement 44;
 
-1616: toegekende (toelatingsnummer)    
+1616: toegekende (toelatingsnummer)
 
-0000.0000: serienummer   
+0000.0000: serienummer  

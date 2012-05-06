@@ -2,7 +2,7 @@
 
 ##Regeling Nadeelcompensatie Betuweroute
 
-De Minister van Verkeer en Waterstaat,  Besluit:     
+De Minister van Verkeer en Waterstaat,  Besluit:      
 ### Hoofdstuk  I  
 
 ####Algemene bepalingen
@@ -11,7 +11,7 @@ De Minister van Verkeer en Waterstaat,  Besluit:
 
 ####Begripsomschrijvingen
 
-In deze regeling wordt verstaan onder:   a. De Minister:  De Minister van Verkeer en Waterstaat;    b. NS Railinfrabeheer:  NS Railinfrabeheer B.V., gevestigd te Utrecht;    c. De projectmanager:  De projectmanager Betuweroute van NS Railinfrabeheer B.V. die in eerste aanleg namens de Minister beslist op een ingekomen verzoek om schadevergoeding;    d. De commissie:  de adviescommissie als bedoeld in artikel 5;    e. Verzoek:  een verzoek om schadevergoeding als bedoeld in artikel 3    f. Verzoeker:  de belanghebbende die een verzoek als bedoeld in artikel 3 indient;    g. Tracébesluit:  het uitvoeringsbesluit Betuweroute als bedoeld in [artikel 24 van de Tracéwet](../../../../../wet/tracéwet/BWBR0006147/README.md);    h. Betuweroute:  het project als bedoeld in artikel 3 van de bepalingen behorend bij het tracébesluit Betuweroute.    i. Het Zevenaarproject:  de planologische maatregelen die voortvloeien uit de door de Minister goedgekeurde planbeschrijving met betrekking tot het tracé Zevenaar - grens Duitsland (km 109.230 - 111.031));    j. Het Havenspoorlijnproject:  de planologische maatregelen die voortvloeien uit de door de Minister goedgekeurde planbeschrijving met betrekking tot de havenspoorlijn die loopt vanaf de Noordzee tot aan de Waalhaven in Rotterdam (km 406.0 - 442.4);     
+In deze regeling wordt verstaan onder:   a. De Minister:    De Minister van Verkeer en Waterstaat;    b.  NS Railinfrabeheer:   NS Railinfrabeheer B.V., gevestigd te Utrecht;    c. De projectmanager:   De projectmanager Betuweroute van NS Railinfrabeheer B.V. die in eerste aanleg namens de Minister beslist op een ingekomen verzoek om schadevergoeding;    d. De commissie:   de adviescommissie als bedoeld in artikel 5;    e.  Verzoek:   een verzoek om schadevergoeding als bedoeld in artikel 3    f. Verzoeker:   de belanghebbende die een verzoek als bedoeld in artikel 3 indient;    g.  Tracébesluit:   het uitvoeringsbesluit Betuweroute als bedoeld in [artikel 24 van de Tracéwet](../../../../../wet/tracéwet/BWBR0006147/README.md);    h.  Betuweroute:   het project als bedoeld in artikel 3 van de bepalingen behorend bij het tracébesluit Betuweroute.    i. Het Zevenaarproject:   de planologische maatregelen die voortvloeien uit de door de Minister goedgekeurde planbeschrijving met betrekking tot het tracé Zevenaar - grens Duitsland (km 109.230 - 111.031));    j. Het Havenspoorlijnproject:   de planologische maatregelen die voortvloeien uit de door de Minister goedgekeurde planbeschrijving met betrekking tot de havenspoorlijn die loopt vanaf de Noordzee tot aan de Waalhaven in Rotterdam (km 406.0 - 442.4);     
 
 ### Artikel  2  
 
@@ -19,13 +19,13 @@ In deze regeling wordt verstaan onder:   a. De Minister:  De Minister van Verkee
 
 1.  De Minister, kent op verzoek van degene die schade lijdt, of zal lijden, als gevolg van: 
 
-a. het onherroepelijke Tracébesluit Betuweroute;  
+a.  het onherroepelijke Tracébesluit Betuweroute;  
 
-b. een onherroepelijk besluit ingevolge of in samenhang met het Tracébesluit waarop deze regeling door de Minister in een later stadium van toepassing is verklaard;  
+b.  een onherroepelijk besluit ingevolge of in samenhang met het Tracébesluit waarop deze regeling door de Minister in een later stadium van toepassing is verklaard;  
 
-c. het Zevenaarproject;  
+c.  het Zevenaarproject;  
 
-d. het Havenspoorlijnproject; alsmede uit sub a tot en met d voortvloeiende besluiten van bestuursorganen en rechtmatige uitvoeringshandelingen;   een vergoeding naar billijkheid toe, voorzover de schade redelijkerwijze niet of niet geheel ten laste van de verzoeker behoort te blijven en voorzover de vergoeding niet, of niet voldoende door aankoop, onteigening òf anderszins is verzekerd.   
+d.  het Havenspoorlijnproject; alsmede uit sub a tot en met d voortvloeiende besluiten van bestuursorganen en rechtmatige uitvoeringshandelingen;   een vergoeding naar billijkheid toe, voorzover de schade redelijkerwijze niet of niet geheel ten laste van de verzoeker behoort te blijven en voorzover de vergoeding niet, of niet voldoende door aankoop, onteigening òf anderszins is verzekerd.   
 2.  De vergoeding wordt bepaald in geld. Nochtans kan de Minister de vergoeding toekennen in andere vorm dan betaling van een geldsom.   
 3.  Het recht op vergoeding van schade ontstaat niet eerder dan na het onherroepelijk worden van het Tracébesluit danwel het rechtens onaantastbaar zijn van het betreffende bestemmingsplan of een andere planologische maatregel als bedoeld in [artikel 49 van de Wet op de Ruimtelijke Ordening](../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md), welke voortvloeit uit het Zevenaarproject of het Havenspoorlijnproject.   
 4.  De Minister beslist niet eerder op een ingekomen verzoek dan nadat het recht op schadevergoeding is ontstaan.   
@@ -41,15 +41,15 @@ d. het Havenspoorlijnproject; alsmede uit sub a tot en met d voortvloeiende besl
 1.  Het verzoek om schadevergoeding wordt gericht aan de Minister en wordt zo spoedig als redelijk mogelijk is, doch niet eerder dan dat het Tracébesluit Betuweroute in werking is getreden terwijl zowel bij het Zevenaarproject als het Havenspoorlijnproject tevens sprake moet zijn van een door de Minister goedgekeurde planbeschrijving, schriftelijk ingediend bij NS Railinfrabeheer B.V., ter attentie van de Projectmanager Betuweroute, bureau POS per adres Postbus 2025, 3500 HA Utrecht.   
 2.  Het verzoek wordt ondertekend en bevat ten minste: 
 
-a. de naam en het adres van de verzoeker;  
+a.  de naam en het adres van de verzoeker;  
 
-b. de dagtekening;  
+b.  de dagtekening;  
 
-c. een aanduiding van het besluit en/of het handelen dat de schade naar het oordeel van verzoeker heeft veroorzaakt;  
+c.  een aanduiding van het besluit en/of het handelen dat de schade naar het oordeel van verzoeker heeft veroorzaakt;  
 
-d. voorzover redelijkerwijs mogelijk een opgave van de aard en de omvang van de schade, alsmede een specificatie van het bedrag van de schade;  
+d.  voorzover redelijkerwijs mogelijk een opgave van de aard en de omvang van de schade, alsmede een specificatie van het bedrag van de schade;  
 
-e. een omschrijving van de wijze waarop de schade naar het oordeel van verzoeker dient te worden vergoed en, zo een vergoeding in geld wordt gewenst, een opgave van het schadebedrag dat naar het oordeel van verzoeker vergoed dient te worden.     
+e.  een omschrijving van de wijze waarop de schade naar het oordeel van verzoeker dient te worden vergoed en, zo een vergoeding in geld wordt gewenst, een opgave van het schadebedrag dat naar het oordeel van verzoeker vergoed dient te worden.     
 3.  De verzoeker verschaft voorts de gegevens en bescheiden die voor het nemen van de beslissing op zijn verzoek nodig zijn en waarover hij redelijkerwijs de beschikking kan krijgen.   
 4.  De projectmanager bevestigt de ontvangst van het verzoek zo spoedig mogelijk, doch ten minste binnen twee weken na de ontvangst ervan, en stelt de verzoeker in kennis van de te volgen procedure.   
 5.  Indien naar het oordeel van de projectmanager niet of onvoldoende is voldaan aan het bepaalde in het tweede en derde lid, stelt zij verzoeker in de gelegenheid het verzuim te herstellen binnen een termijn van acht weken na verzending van de brief waarin hem op het verzuim is gewezen.   
@@ -61,9 +61,9 @@ e. een omschrijving van de wijze waarop de schade naar het oordeel van verzoeker
 1.  De Minister volstaat met een vereenvoudigde behandeling van het verzoek indien het niet overeenkomstig het bepaalde in artikel 3 is ingediend ofwel naar haar oordeel kennelijk ongegrond is.   
 2.  Het besluit van de Minister om het verzoek niet in behandeling te nemen, danwel wegens kennelijke ongegrondheid af te wijzen, wordt aan de verzoeker bij aangetekende brief medegedeeld 
 
-a. binnen acht weken na ontvangst van het verzoek, danwel  
+a.  binnen acht weken na ontvangst van het verzoek, danwel  
 
-b. binnen vier weken na ontvangst van de ingevolge artikel 3, vijfde lid, ingezonden ontbrekende gegevens of nadat de daarvoor gestelde termijn ongebruikt is verstreken.     
+b.  binnen vier weken na ontvangst van de ingevolge artikel 3, vijfde lid, ingezonden ontbrekende gegevens of nadat de daarvoor gestelde termijn ongebruikt is verstreken.     
 3.  De Minister kan de in het vorige lid genoemde termijn eenmaal met ten hoogste acht weken verlengen. De projectmanager stelt de verzoeker daarvan schriftelijk in kennis.   
 
 ### Artikel  5  
@@ -74,9 +74,9 @@ b. binnen vier weken na ontvangst van de ingevolge artikel 3, vijfde lid, ingezo
 2.  De commissie bestaat uit drie onafhankelijke deskundigen, die door de projectmanager worden benoemd. Uit de voltallige commissie wijst de projectmanager de voorzitter aan. In eenvoudige gevallen kan de projectmanager volstaan met de benoeming van één onafhankelijke deskundige.   
 3.  De commissie wordt ingesteld: 
 
-a. binnen acht weken na ontvangst van het verzoek, danwel  
+a.  binnen acht weken na ontvangst van het verzoek, danwel  
 
-b. binnen vier weken na ontvangst van de ingevolge artikel 3, vijfde lid, ingezonden ontbrekende gegevens.     
+b.  binnen vier weken na ontvangst van de ingevolge artikel 3, vijfde lid, ingezonden ontbrekende gegevens.     
 4.  De Minister kan de in het vorige lid genoemde termijn eenmaal met ten hoogste acht weken verlengen. De projectmanager stelt de verzoeker daarvan schriftelijk in kennis.   
 5.  De projectmanager stelt verzoeker in kennis van de benoemde commissie. De kennisgeving bevat de namen van de deskundigen, hun beroep en de plaats waar zij hun werkzaamheden plegen te verrichten. De verzoeker kan binnen twee weken na verzending van de kennisgeving schriftelijk bedenkingen uiten tegen de voorgenomen samenstelling, in welk geval de projectmanager eenmalig tot een andere benoeming zal overgaan.   
 
@@ -86,13 +86,13 @@ b. binnen vier weken na ontvangst van de ingevolge artikel 3, vijfde lid, ingezo
 
 1.  De commissie dient de Minister van advies over de op het verzoek te nemen beslissing. Zij stelt daartoe een onderzoek in naar: 
 
-a. de vraag of de schade een gevolg is van een besluit of een uitvoeringshandeling als bedoeld in artikel 2, eerste lid;  
+a.  de vraag of de schade een gevolg is van een besluit of een uitvoeringshandeling als bedoeld in artikel 2, eerste lid;  
 
-b. de omvang van de schade;  
+b.  de omvang van de schade;  
 
-c. de vraag of de schade redelijkerwijs niet, of niet geheel ten laste van de verzoeker behoort te blijven;  
+c.  de vraag of de schade redelijkerwijs niet, of niet geheel ten laste van de verzoeker behoort te blijven;  
 
-d. de vraag of vergoeding van de schade niet, of niet voldoende anderszins is verzekerd.     
+d.  de vraag of vergoeding van de schade niet, of niet voldoende anderszins is verzekerd.     
 2.  De commissie brengt rapport uit over haar bevindingen, welke worden gemotiveerd. Zij adviseert de Minister over de hoogte van de uit te keren vergoeding en doet, indien daar aanleiding voor is, voorstellen voor maatregelen of voorzieningen waardoor de schade, anders dan door een vergoeding in geld, kan worden beperkt of ongedaan gemaakt.   
 
 ### Artikel  7  
@@ -175,11 +175,11 @@ Indien bijzondere omstandigheden daartoe aanleiding geven kan van het gestelde i
 
 ####Citeertitel
 
-Deze regeling kan worden aangehaald als: ’Regeling Nadeelcompensatie Betuweroute’.  
+Deze regeling kan worden aangehaald als: ’Regeling Nadeelcompensatie Betuweroute’. 
 
 ’s-Gravenhage 
 6 september 1996    
 
 De 
 Minister van Verkeer en Waterstaat, 
-A.Jorritsma-Lebbink    
+A. Jorritsma-Lebbink      

@@ -8,7 +8,7 @@ Gelet op [artikel 27p van de Wet op de kansspelen](../../../../../../../../wet/w
 Gezien de voordracht van de Raad voor de Casinospelen dd. 22 januari 1993;
 
 Overwegende dat blijkens mededeling van Burgemeester en Wethouders van Haarlemmermeer dd. 23 september 1994, de gemeenteraad van Haarlemmermeer heeft ingestemd met de aanwijzing van die gemeente als vestigingsplaats van een casino;
-Besluiten:    
+Besluiten:     
 
 ### Artikel  1  
 
@@ -17,15 +17,15 @@ Besluiten:
 
 ### Artikel  2  
 
-Deze beschikking wordt in de Staatscourant gepubliceerd en treedt in werking met ingang van de dag na die van haar bekendmaking.  
+Deze beschikking wordt in de Staatscourant gepubliceerd en treedt in werking met ingang van de dag na die van haar bekendmaking. 
 
 's-Gravenhage 
 21 februari 1995    
 
 De 
 Staatssecretaris van Justitie, 
-E. M. A.Schmitz 
+E. M. A. Schmitz  
 
 De 
 Minister van Economische Zaken, 
-G.JWijers    
+G.JWijers     

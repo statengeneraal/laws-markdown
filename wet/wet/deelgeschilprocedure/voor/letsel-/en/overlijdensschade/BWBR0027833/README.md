@@ -11,33 +11,33 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.   
+Wijzigt het Wetboek van Burgerlijke Rechtsvordering. 
 
 ### Artikel  II  
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.   
+Wijzigt het Wetboek van Burgerlijke Rechtsvordering. 
 
 ### Artikel  III  
 
-Wijzigt het Burgerlijk Wetboek Boek 7.   
+Wijzigt het Burgerlijk Wetboek Boek 7. 
 
 ### Artikel  IV  
 
-Wijzigt de Overgangswet nieuw Burgerlijk Wetboek.   
+Wijzigt de Overgangswet nieuw Burgerlijk Wetboek. 
 
 ### Artikel  V  
 
-Onze Minister van Justitie zendt binnen vier jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van artikel I van deze wet in de praktijk.  
+Onze Minister van Justitie zendt binnen vier jaar na inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van artikel I van deze wet in de praktijk. 
 
 ### Artikel  VI  
 
-Deze wet wordt aangehaald als: Wet deelgeschilprocedure voor letsel- en overlijdensschade.  
+Deze wet wordt aangehaald als: Wet deelgeschilprocedure voor letsel- en overlijdensschade. 
 
 ### Artikel  VII  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 17 december 2009  

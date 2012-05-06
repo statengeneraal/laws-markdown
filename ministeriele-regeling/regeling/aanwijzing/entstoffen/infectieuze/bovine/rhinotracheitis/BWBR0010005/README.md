@@ -4,7 +4,7 @@
 
 De Staatssecretaris van Landbouw, Natuurbeheer en Visserij,  
 Gelet op de [artikelen 2](../../../../../../../../AMvB/besluit/gebruik/sera/en/entstoffen/BWBR0009198/README.md) en [3 van het Besluit gebruik sera en entstoffen](../../../../../../../../AMvB/besluit/gebruik/sera/en/entstoffen/BWBR0009198/README.md)
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -17,7 +17,7 @@ Als besmettelijke dierziekte, bedoeld in de [artikelen 2, eerste lid](../../../.
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en kan worden aangehaald als: Regeling aanwijzing entstoffen infectieuze bovine rhinotracheitis.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en kan worden aangehaald als: Regeling aanwijzing entstoffen infectieuze bovine rhinotracheitis. 
 Deze regeling zal met toelichting in de Staatscourant worden gepubliceerd.   
 
 ’s-Gravenhage 
@@ -25,4 +25,4 @@ Deze regeling zal met toelichting in de Staatscourant worden gepubliceerd.
 
 De 
 Staatssecretaris van Landbouw, Natuurbeheer en Visserij, 
-G.H.Faber    
+G.H. Faber      

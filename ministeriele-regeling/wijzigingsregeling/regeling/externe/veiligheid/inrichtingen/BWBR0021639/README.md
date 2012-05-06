@@ -10,15 +10,15 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling externe veiligheid inrichtingen.   
+Wijzigt de Regeling externe veiligheid inrichtingen. 
 
 ### Artikel  II  
 
-Op een bestemmingsplan waarvan het ontwerp voor het tijdstip van inwerkingtreding van deze regeling overeenkomstig [artikel 23, eerste lid, van de Wet op de Ruimtelijke Ordening](../../../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md) ter inzage is gelegd en na dat tijdstip wordt vastgesteld, is, voor zover dat bestemmingsplan betrekking heeft op grond gelegen binnen het invloedsgebied van een spoorwegemplacement als bedoeld in [artikel 1a van de Regeling externe veiligheid inrichtingen](../../../../../../../ministeriele-regeling/regeling/externe/veiligheid/inrichtingen/BWBR0017168/README.md), [artikel 13 van het besluit](../../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) niet van toepassing.  
+Op een bestemmingsplan waarvan het ontwerp voor het tijdstip van inwerkingtreding van deze regeling overeenkomstig [artikel 23, eerste lid, van de Wet op de Ruimtelijke Ordening](../../../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md) ter inzage is gelegd en na dat tijdstip wordt vastgesteld, is, voor zover dat bestemmingsplan betrekking heeft op grond gelegen binnen het invloedsgebied van een spoorwegemplacement als bedoeld in [artikel 1a van de Regeling externe veiligheid inrichtingen](../../../../../../../ministeriele-regeling/regeling/externe/veiligheid/inrichtingen/BWBR0017168/README.md), [artikel 13 van het besluit](../../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) niet van toepassing. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking op 1 juli 2007.  
+Deze regeling treedt in werking op 1 juli 2007. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -26,4 +26,4 @@ Den Haag
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J.M.Cramer   
+J.M. Cramer     

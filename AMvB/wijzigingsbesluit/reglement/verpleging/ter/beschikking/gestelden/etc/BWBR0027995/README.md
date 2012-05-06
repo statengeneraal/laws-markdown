@@ -15,19 +15,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Reglement verpleging ter beschikking gestelden.   
+Wijzigt het Reglement verpleging ter beschikking gestelden.  
 
 ### Artikel  II  
 
-Wijzigt de Penitentiaire maatregel.   
+Wijzigt de Penitentiaire maatregel.  
 
 ### Artikel  III  
 
-Dit besluit heeft geen gevolgen voor veroordeelden die op het tijdstip waarop dit besluit in werking treedt, reeds zijn geplaatst nadat eenderde van de opgelegde vrijheidsstraf ten uitvoer is gelegd.  
+Dit besluit heeft geen gevolgen voor veroordeelden die op het tijdstip waarop dit besluit in werking treedt, reeds zijn geplaatst nadat eenderde van de opgelegde vrijheidsstraf ten uitvoer is gelegd. 
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -35,10 +35,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 24 juli 2010  
 Beatrix  
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin   
 
 de *derde* augustus 2010 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    

@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder erkend kredietbeoordelingsbureau: een kredietbeoordelingsbureau als bedoeld in [artikel 1 van het Besluit prudentiële regels Wft](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), dat ingevolge [artikel 88 van dat besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) is erkend.  
+In dit besluit wordt verstaan onder erkend kredietbeoordelingsbureau: een kredietbeoordelingsbureau als bedoeld in [artikel 1 van het Besluit prudentiële regels Wft](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), dat ingevolge [artikel 88 van dat besluit](../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) is erkend. 
 
 ### §  2  
 
@@ -36,7 +36,7 @@ c. de som van de netto winst uit gewone bedrijfsuitoefening, afschrijvingen, amo
 
 d. de totale schuld gedeeld door de som van de totale schuld en het eigen vermogen inclusief minderheidsbelangen en preferente aandelen is maximaal 0,7.     
 2.  Bij het voldoen aan de in het eerste lid bedoelde eisen, worden in de berekening opgenomen de financiële verplichtingen van tot de groep behorende rechtspersonen en vennootschappen die ten laste kunnen komen van de tot de groep behorende netbeheerder.   
-3.  Het eerste lid is niet van toepassing indien door een erkend kredietbeoordelingsbureau aan de netbeheerder een kredietkwaliteitstrap investeringswaardig is toegekend.   
+3.  Het eerste lid is niet van toepassing indien door een erkend kredietbeoordelingsbureau aan de netbeheerder een kredietkwaliteitstrap investeringswaardig is toegekend.  
 
 ### Artikel  3  
 
@@ -44,7 +44,7 @@ De netbeheerder voegt jaarlijks bij zijn afzonderlijke boekhouding, bedoeld in [
 
 a. een overzicht waaruit blijkt dat de netbeheerder voldoet aan de in artikel 2, eerste lid, gestelde eisen, of  
 
-b. een verklaring waaruit blijkt dat door een erkend kredietbeoordelingsbureau aan de netbeheerder een kredietkwaliteitstrap investeringswaardig is toegekend als bedoeld in artikel 2, derde lid.    
+b. een verklaring waaruit blijkt dat door een erkend kredietbeoordelingsbureau aan de netbeheerder een kredietkwaliteitstrap investeringswaardig is toegekend als bedoeld in artikel 2, derde lid.   
 
 ### §  2a  
 
@@ -55,7 +55,7 @@ b. een verklaring waaruit blijkt dat door een erkend kredietbeoordelingsbureau a
 1.  In aanvulling op artikel 2 beschikt een netbeheerder in het kader van het beheer van zijn netten vanaf het tijdstip waarop hij geen deel meer uitmaakt van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) waartoe ook een rechtspersoon of vennootschap behoort die in Nederland elektriciteit of gas produceert of levert of daarin handelt over een eigen vermogen inclusief minderheidsbelangen en preferente aandelen van ten minste 40 procent van de som van de totale schuld en het eigen vermogen inclusief minderheidsbelangen en preferente aandelen.   
 2.  Bij het voldoen aan de in het eerste lid bedoelde eis, worden in de berekening opgenomen de financiële verplichtingen van de tot de groep behorende rechtspersonen en vennootschappen die ten laste kunnen komen van de tot de groep behorende netbeheerder.   
 3.  Mits wordt voldaan aan artikel 2 kan een netbeheerder, in afwijking van het eerste lid, beschikken over een lager percentage eigen vermogen inclusief minderheidsbelangen en preferente aandelen, indien hij aantoont dat de verlaging van dat percentage volledig veroorzaakt wordt door de financiering van investeringen die worden gedaan na het tijdstip, bedoeld in het eerste lid, en die noodzakelijk zijn om te voldoen aan de bij of krachtens de [Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md) aan hem opgedragen taken en verplichtingen om zijn netten in werking te hebben, te vernieuwen, te onderhouden en uit te breiden.   
-4.  Het eerste en derde lid zijn niet van toepassing op netbeheerders die op 27 maart 2009 geen deel uitmaakten van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) waartoe ook een rechtspersoon of vennootschap behoort die in Nederland elektriciteit of gas produceert of levert of daarin handelt.   
+4.  Het eerste en derde lid zijn niet van toepassing op netbeheerders die op 27 maart 2009 geen deel uitmaakten van een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) waartoe ook een rechtspersoon of vennootschap behoort die in Nederland elektriciteit of gas produceert of levert of daarin handelt.  
 
 ### §  3  
 
@@ -63,11 +63,11 @@ b. een verklaring waaruit blijkt dat door een erkend kredietbeoordelingsbureau a
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als: Besluit financieel beheer netbeheerder.  
+Dit besluit wordt aangehaald als: Besluit financieel beheer netbeheerder. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

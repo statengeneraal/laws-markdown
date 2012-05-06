@@ -26,7 +26,7 @@ f. overgangsniveau: het laagst beschikbare vliegniveau boven de overgangshoogte;
 
 g. QFE: de atmosferische druk op het vliegveldniveau;  
 
-h. QNH: de QFE herleid tot gemiddeld zeeniveau in de ICAO-standaardatmosfeer.    
+h. QNH: de QFE herleid tot gemiddeld zeeniveau in de ICAO-standaardatmosfeer.   
 
 ### Artikel  2  
 
@@ -34,17 +34,17 @@ h. QNH: de QFE herleid tot gemiddeld zeeniveau in de ICAO-standaardatmosfeer.
 
 1. Vliegniveau nul is gelegen op het atmosferisch drukvlak van 1013,2 hPa. Opeenvolgende vliegniveaus zijn gescheiden door een drukinterval dat overeenkomst met ten minste 500 voet in de ICAO-standaardatmosfeer.  
 
-2. Een vliegniveau wordt aangeduid met de hoofdletters FL gevolgd door een getal, dat overeenkomt met een honderdste deel van de desbetreffende drukhoogte in voeten in de ICAO-standaardatmosfeer.    
+2. Een vliegniveau wordt aangeduid met de hoofdletters FL gevolgd door een getal, dat overeenkomt met een honderdste deel van de desbetreffende drukhoogte in voeten in de ICAO-standaardatmosfeer.   
 
 ### Artikel  3  
 
 ####Overgangshoogte en overgangsniveau
 
-De overgangshoogte in de Flamingo CTR, bedoeld in de Regeling aanwijzing luchtruim en aanwijzing luchtverkeersdienstverlener BES, is 2500 voet.  
+De overgangshoogte in de Flamingo CTR, bedoeld in de Regeling aanwijzing luchtruim en aanwijzing luchtverkeersdienstverlener BES, is 2500 voet. 
 
 ### Artikel  4  
 
-Voor genoemde luchtvaartterreinen wordt tenminste elk uur door de bij of krachtens de KMNI-wet aangewezen verlener van luchtvaartmeteorologische diensten de QNH geregistreerd en zo snel mogelijk aan de luchtverkeersdiensten doorgegeven.  
+Voor genoemde luchtvaartterreinen wordt tenminste elk uur door de bij of krachtens de KMNI-wet aangewezen verlener van luchtvaartmeteorologische diensten de QNH geregistreerd en zo snel mogelijk aan de luchtverkeersdiensten doorgegeven. 
 
 ### Afdeling  II  
 
@@ -60,21 +60,21 @@ Voor genoemde luchtvaartterreinen wordt tenminste elk uur door de bij of krachte
 
 3. Bij het tijdens de stijgvlucht passeren van de overgangshoogte wordt tenminste één drukhoogtemeter ingesteld op de drukwaarde van 1013.2 hPa en wordt de hoogte van het luchtvaartuig uitgedrukt in termen van vliegniveau.  
 
-4. Bij het tijdens de daalvlucht passeren van het overgangsniveau wordt tenminste één drukhoogtemeter ingesteld op de QNH van het luchtvaartterrein en wordt de hoogte van het luchtvaartuig uitgedrukt in voeten boven zeeniveau    
+4. Bij het tijdens de daalvlucht passeren van het overgangsniveau wordt tenminste één drukhoogtemeter ingesteld op de QNH van het luchtvaartterrein en wordt de hoogte van het luchtvaartuig uitgedrukt in voeten boven zeeniveau   
 
 ### Artikel  6  
 
-De instelling op QNH kan reeds vóór het passeren van het overgangsniveau geschieden, indien de betrokken luchtverkeersleidingsdienst – na het verstrekken van de naderingsklaring – toestaat om vlieghoogte uit te drukken in hoogte boven gemiddeld zeeniveau uitgedrukt in voeten nadat de einddaling is ingezet en wordt voorzien dat boven de overgangshoogte geen horizontale vlucht meer zal plaatsvinden.  
+De instelling op QNH kan reeds vóór het passeren van het overgangsniveau geschieden, indien de betrokken luchtverkeersleidingsdienst – na het verstrekken van de naderingsklaring – toestaat om vlieghoogte uit te drukken in hoogte boven gemiddeld zeeniveau uitgedrukt in voeten nadat de einddaling is ingezet en wordt voorzien dat boven de overgangshoogte geen horizontale vlucht meer zal plaatsvinden. 
 
 ### Artikel  7  
 
-Deze regeling wordt aangehaald als: Regeling gebruik hoogtemeter BES.  
+Deze regeling wordt aangehaald als: Regeling gebruik hoogtemeter BES. 
 
 ### Artikel  8  
 
-De regeling berust op artikel 82, tweede lid, Besluit luchtverkeer BES.  
+De regeling berust op artikel 82, tweede lid, Besluit luchtverkeer BES. 
 
-### Bijlage  
+### Bijlage 
 
 ####behorende bij de Regeling gebruik hoogtemeter BES
 

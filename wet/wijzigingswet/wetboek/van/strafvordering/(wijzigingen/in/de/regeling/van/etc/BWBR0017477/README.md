@@ -10,37 +10,37 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is dat bevelen tot voor
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-### Artikel  I  
+###Artikel I 
 
-Wijzigt het Wetboek van Strafvordering.   
+Wijzigt het Wetboek van Strafvordering.
 
-### Artikel  IA  
+###Artikel IA 
 
-Wijzigt deze wet.   
+Wijzigt deze wet.
 
-### Artikel  IB  
+###Artikel IB 
 
-Wijzigt de wet tot wijziging van de Beginselenwet justitiële jeugdinrichtingen, de Beginselenwet verpleging ter beschikking gestelden, de Penitentiaire beginselenwet en enige andere wetten onder meer naar aanleiding van evaluatieonderzoeken (kamerstuk 29 413).   
+Wijzigt de wet tot wijziging van de Beginselenwet justitiële jeugdinrichtingen, de Beginselenwet verpleging ter beschikking gestelden, de Penitentiaire beginselenwet en enige andere wetten onder meer naar aanleiding van evaluatieonderzoeken (kamerstuk 29 413).
 
-### Artikel  II  
+###Artikel II 
 
-1.  Op bevelen tot gevangenneming of gevangenhouding die gegeven zijn voor de dag waarop deze wet in werking treedt, blijven de artikelen 66 en 80 van het Wetboek van Strafvordering, zoals zij luidden voor het in werking treden van deze wet, van toepassing.   
-2.  In zaken waarin hoger beroep is ingesteld voor de dag waarop deze wet in werking treedt, blijft artikel 75 van het Wetboek van Strafvordering, zoals het luidde voor het in werking treden van deze wet, van toepassing.   
+1. Op bevelen tot gevangenneming of gevangenhouding die gegeven zijn voor de dag waarop deze wet in werking treedt, blijven de artikelen 66 en 80 van het Wetboek van Strafvordering, zoals zij luidden voor het in werking treden van deze wet, van toepassing.
+2. In zaken waarin hoger beroep is ingesteld voor de dag waarop deze wet in werking treedt, blijft artikel 75 van het Wetboek van Strafvordering, zoals het luidde voor het in werking treden van deze wet, van toepassing.
 
-### Artikel  III  
+###Artikel III 
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-Gegeven te 's-Gravenhage 
-10 november 2004  
-Beatrix  
+Gegeven te 's-Gravenhage
+10 november 2004
+Beatrix
 
-De Minister van Justitie , 
-J. P. H. Donner   
+De Minister van Justitie ,
+J. P. H.Donner
 
-de *zestiende* november 2004 
+de *zestiende* november 2004
 
-De Minister van Justitie , 
-J. P. H. Donner    
+De Minister van Justitie ,
+J. P. H.Donner

@@ -11,7 +11,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder Agentschap Telecom: Agentschap Telecom van het Ministerie van Economische Zaken.  
+In deze regeling wordt verstaan onder Agentschap Telecom: Agentschap Telecom van het Ministerie van Economische Zaken. 
 
 ### §  2  
 
@@ -39,11 +39,11 @@ c. een bewijsstuk met betrekking tot een aansprakelijkheidsverzekering;
 d. een bewijsstuk met betrekking tot de toestemming voor het gebruik van frequentieruimte;  
 
 e. een beschrijving van de kennis en ervaring waarover de aanvrager beschikt met betrekking tot het verrichten van ruimtevaartactiviteiten, alsmede een bewijsstuk waaruit blijkt dat deze kennis of ervaring is gewaarborgd gedurende het uitvoeren van de ruimtevaartactiviteiten.     
-3.  Een aanvraag tot wijziging van een vergunning geschiedt door middel van het indienen van het formulier, bedoeld in het eerste lid.   
+3.  Een aanvraag tot wijziging van een vergunning geschiedt door middel van het indienen van het formulier, bedoeld in het eerste lid.  
 
 ### Artikel  3  
 
-De aanvraag, bedoeld in artikel 2, eerste en derde lid, wordt gericht aan Onze Minister van Economische Zaken en gezonden aan Agentschap Telecom.  
+De aanvraag, bedoeld in artikel 2, eerste en derde lid, wordt gericht aan Onze Minister van Economische Zaken en gezonden aan Agentschap Telecom. 
 
 ### §  3  
 
@@ -51,11 +51,11 @@ De aanvraag, bedoeld in artikel 2, eerste en derde lid, wordt gericht aan Onze M
 
 ### Artikel  4  
 
-De registratie en wijziging van gegevens van een ruimtevoorwerp, bedoeld in [artikel 4 van het Besluit register ruimtevoorwerpen](../../../../../../../../AMvB/besluit/register/ruimtevoorwerpen/BWBR0022944/README.md), geschiedt door middel van het indienen van het formulier, zoals opgenomen in bijlage II.  
+De registratie en wijziging van gegevens van een ruimtevoorwerp, bedoeld in [artikel 4 van het Besluit register ruimtevoorwerpen](../../../../../../../../AMvB/besluit/register/ruimtevoorwerpen/BWBR0022944/README.md), geschiedt door middel van het indienen van het formulier, zoals opgenomen in bijlage II. 
 
 ### Artikel  5  
 
-Het formulier wordt gericht aan Onze Minister van Economische Zaken en gezonden aan Agentschap Telecom.  
+Het formulier wordt gericht aan Onze Minister van Economische Zaken en gezonden aan Agentschap Telecom. 
 
 ### §  4  
 
@@ -63,25 +63,25 @@ Het formulier wordt gericht aan Onze Minister van Economische Zaken en gezonden 
 
 ### Artikel  6  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  7  
 
-Deze regeling wordt aangehaald als: Regeling aanvraag vergunning ruimtevaartactiviteiten en registratie.  
+Deze regeling wordt aangehaald als: Regeling aanvraag vergunning ruimtevaartactiviteiten en registratie. 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.   
 
 Den Haag 
 7 februari 2008   
 
 De 
-Minister van Economische Zaken
-M.J.A. van derHoeven  
+Minister van Economische Zaken 
+M.J.A. van der  Hoeven    
 
-### Bijlage  I  
+### Bijlage I  
 
 ![243012](http://wetten.overheid.nl/Illustration/243012)
 
-### Bijlage  II  
+### Bijlage II  
 
 ![246496](http://wetten.overheid.nl/Illustration/246496)
 ![246497](http://wetten.overheid.nl/Illustration/246497)

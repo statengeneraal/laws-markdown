@@ -11,47 +11,47 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt het Wetboek van Strafvordering.   
+Wijzigt het Wetboek van Strafvordering. 
 
 ### Artikel  II  
 
-Wijzigt het Wetboek van Strafrecht.   
+Wijzigt het Wetboek van Strafrecht. 
 
 ### Artikel  IIa  
 
-Het zesde lid van [artikel 36f](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) geldt voor schadevergoedingsmaatregelen die zijn opgelegd bij rechterlijke uitspraak waarbij een veroordeling is gevolgd wegens een strafbaar feit, en die onherroepelijk is geworden na inwerkingtreding van deze wet.  
+Het zesde lid van [artikel 36f](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) geldt voor schadevergoedingsmaatregelen die zijn opgelegd bij rechterlijke uitspraak waarbij een veroordeling is gevolgd wegens een strafbaar feit, en die onherroepelijk is geworden na inwerkingtreding van deze wet. 
 
 ### Artikel  IV  
 
-Wijzigt het Wetboek van Strafvordering.   
+Wijzigt het Wetboek van Strafvordering. 
 
 ### Artikel  V  
 
-Wijzigt het Wetboek van Strafvordering.   
+Wijzigt het Wetboek van Strafvordering. 
 
 ### Artikel  VI  
 
-Wijzigt de Wet OM-afdoening.   
+Wijzigt de Wet OM-afdoening. 
 
 ### Artikel  VII  
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  VIII  
 
-Wijzigt het Wetboek van Strafvordering.   
+Wijzigt het Wetboek van Strafvordering. 
 
 ### Artikel  IX  
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  X  
 
-Artikel I, onderdeel I, onder 2, en artikel II, onder 1, zijn niet van toepassing op strafbare feiten die zijn begaan voor het moment van inwerkingtreding van deze wet. Ten aanzien van die feiten blijft het recht van toepassing zoals het gold voor inwerkingtreding van deze wet.  
+Artikel I, onderdeel I, onder 2, en artikel II, onder 1, zijn niet van toepassing op strafbare feiten die zijn begaan voor het moment van inwerkingtreding van deze wet. Ten aanzien van die feiten blijft het recht van toepassing zoals het gold voor inwerkingtreding van deze wet. 
 
 ### Artikel  XI  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende onderdelen daarvan verschillend kan luiden.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende onderdelen daarvan verschillend kan luiden. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -59,7 +59,7 @@ Gegeven te ’s-Gravenhage
 17 december 2009  
 Beatrix  
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin   
 
 de *twaalfde* januari 2010 

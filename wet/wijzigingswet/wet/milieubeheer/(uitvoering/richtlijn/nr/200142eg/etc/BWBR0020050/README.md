@@ -11,27 +11,27 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet milieubeheer.   
+Wijzigt de Wet milieubeheer.
 
 ### Artikel  II  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.
 
 ### Artikel  III  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.
 
 ### Artikel  V  
 
-Wijzigt de Wet op de archeologische monumentenzorg.   
+Wijzigt de Wet op de archeologische monumentenzorg.
 
 ### Artikel  VI  
 
-Wijzigt de Wet op de archeologische monumentenzorg.   
+Wijzigt de Wet op de archeologische monumentenzorg.
 
 ### Artikel  VII  
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  VIII  
 
@@ -43,11 +43,11 @@ a. waarom het later is vastgesteld, en
 
 b. waarom redelijkerwijs niet kon worden gevergd dat overeenkomstig het tweede lid alsnog toepassing zou worden gegeven aan voornoemde paragrafen.     
 4.  Indien in een geval als bedoeld in het tweede lid, alsnog toepassing wordt gegeven aan de [paragrafen 7.4](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [7.4a](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [7.6a van de Wet milieubeheer](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en voor de inwerkingtreding van deze wet reeds is voldaan aan het bepaalde in [artikel 7.11b](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) onderscheidenlijk [7.26a van die wet](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), behoeft geen toepassing te worden gegeven aan [artikel 7.11c](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), onderscheidenlijk [7.26b van die wet](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
-5.  Indien ten aanzien van een plan als bedoeld in [artikel 7.2, tweede lid](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), of [7.2a, eerste lid, van de Wet milieubeheer](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) overeenkomstig de procedure van totstandkoming van dat plan de eerste formele voorbereidende handeling is afgerond op of na 21 juli 2004 en voor de inwerkingtreding van deze wet, en reeds is voldaan aan het in [artikel 7.11b](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), onderscheidenlijk [7.26a van die wet](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), behoeft geen toepassing te worden gegeven aan [artikel 7.11c](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), onderscheidenlijk [7.26b van die wet](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
+5.  Indien ten aanzien van een plan als bedoeld in [artikel 7.2, tweede lid](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), of [7.2a, eerste lid, van de Wet milieubeheer](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) overeenkomstig de procedure van totstandkoming van dat plan de eerste formele voorbereidende handeling is afgerond op of na 21 juli 2004 en voor de inwerkingtreding van deze wet, en reeds is voldaan aan het in [artikel 7.11b](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), onderscheidenlijk [7.26a van die wet](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), behoeft geen toepassing te worden gegeven aan [artikel 7.11c](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), onderscheidenlijk [7.26b van die wet](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).  
 
 ### Artikel  IX  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

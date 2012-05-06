@@ -11,19 +11,19 @@ Gelet op de [artikelen 3.19b](../../../../../../../../wet/wet/luchtvaart/BWBR000
 De Raad van State gehoord (advies van 29 januari 2004, nr. W09.03.0536/V);
 
 Gezien het nader rapport van de Staatssecretaris van Verkeer en Waterstaat van 23 maart 2004, nr. HDJZ/LUV/2004-508, Hoofddirectie Juridische Zaken;
-Hebben goedgevonden en verstaan:    
+Hebben goedgevonden en verstaan:   
 
-### Artikel  I  
+###Artikel I 
 
-Wijzigt het Besluit luchtwaardigheid.   
+Wijzigt het Besluit luchtwaardigheid.
 
-### Artikel  II  
+###Artikel II 
 
-De op het [Besluit luchtwaardigheid](../../../../../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md) gebaseerde besluiten worden aangemerkt als te zijn gebaseerd op het [Besluit luchtvaartuigen](../../../../../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md).  
+De op het [Besluit luchtwaardigheid](../../../../../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md) gebaseerde besluiten worden aangemerkt als te zijn gebaseerd op het [Besluit luchtvaartuigen](../../../../../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md).
 
 ### Artikel  III  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor daarbij aan te geven categorieën luchtvaartuigen verschillend kan worden vastgesteld.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip dat voor daarbij aan te geven categorieën luchtvaartuigen verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -32,11 +32,11 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 Beatrix  
 
 De 
-staatssecretaris van Verkeer en Waterstaat, 
-M. H.Schultz van Haegen-Maas Geesteranus 
+staatssecretaris van Verkeer en Waterstaat,
+M. H. Schultz van Haegen-Maas Geesteranus   
 
 de *zesde* mei 2004 
 
 De 
 Minister van Justitie, 
-J. P. H.Donner  
+J. P. H. Donner    

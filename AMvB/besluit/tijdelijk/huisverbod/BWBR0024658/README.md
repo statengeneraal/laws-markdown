@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder huisverbod: huisverbod als bedoeld in [artikel 1, onderdeel b, van de Wet tijdelijk huisverbod](../../../../../wet/wet/tijdelijk/huisverbod/BWBR0024649/README.md).  
+In dit besluit wordt verstaan onder huisverbod: huisverbod als bedoeld in [artikel 1, onderdeel b, van de Wet tijdelijk huisverbod](../../../../../wet/wet/tijdelijk/huisverbod/BWBR0024649/README.md). 
 
 ### Artikel  2  
 
@@ -27,15 +27,15 @@ a. de persoon ten aanzien van wie wordt overwogen een huisverbod op te leggen;
 b. het verloop van het incident dat de aanleiding is te overwegen een huisverbod op te leggen; en  
 
 c. de leefomstandigheden van de persoon, bedoeld onder a, en degenen die met deze persoon in dezelfde woning wonen of daarin anders dan incidenteel verblijven.     
-3.  Onder de feiten en omstandigheden, bedoeld in het tweede lid, onder a, worden mede begrepen de politiegegevens met betrekking tot de persoon ten aanzien van wie wordt overwogen een huisverbod op te leggen, voor zover de burgemeester deze gegevens behoeft in het kader van de afweging, bedoeld in het eerste lid.   
+3.  Onder de feiten en omstandigheden, bedoeld in het tweede lid, onder a, worden mede begrepen de politiegegevens met betrekking tot de persoon ten aanzien van wie wordt overwogen een huisverbod op te leggen, voor zover de burgemeester deze gegevens behoeft in het kader van de afweging, bedoeld in het eerste lid.  
 
 ### Artikel  3  
 
-Dit besluit treedt in werking op het tijdstip waarop de [Wet tijdelijk huisverbod](../../../../../wet/wet/tijdelijk/huisverbod/BWBR0024649/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de [Wet tijdelijk huisverbod](../../../../../wet/wet/tijdelijk/huisverbod/BWBR0024649/README.md) in werking treedt. 
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Besluit tijdelijk huisverbod.  
+Dit besluit wordt aangehaald als: Besluit tijdelijk huisverbod. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -54,7 +54,7 @@ de *vierde* november 2008
 De Minister van Justitie , 
 E. M. H. Hirsch Ballin    
 
-### Bijlage  
+### Bijlage 
 
 ####als bedoeld in artikel 2, eerste lid 
 
@@ -96,7 +96,7 @@ c. Riskante gewoonten (alcohol- of drugsgebruik):
 
 – op het moment fors gedronken (of sterk vermoeden)  
 
-– op het moment drugs gebruikt (of sterk vermoeden)      
+– op het moment drugs gebruikt (of sterk vermoeden)     
 
 ### 2  
 
@@ -198,7 +198,7 @@ k. Rechtvaardiging achteraf:
 
 – ontkennen of minimaliseren van het geweld  
 
-– rechtvaardigen van geweld      
+– rechtvaardigen van geweld     
 
 ### 3  
 
@@ -212,7 +212,7 @@ a. Spanning door werkgerelateerde problemen:
 
 – problemen met betrekking tot arbeidsongeschiktheids- of werkloosheidsuitkering  
 
-– spanningen op het werk    
+– spanningen op het werk   
 
 b. Spanning door financiële problemen: 
 
@@ -266,5 +266,5 @@ f. Sociaal isolement door onaangepast gezin:
 
 – antecedenten andere gezinsleden die wijzen op sociaal isolement  
 
-– sociaal isolement door excessief middelengebruik of verslaving      
+– sociaal isolement door excessief middelengebruik of verslaving     
 

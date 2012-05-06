@@ -8,17 +8,17 @@
 
 In deze regeling wordt verstaan onder: 
 
-a. *minister:* Minister van Economische Zaken;  
+a.  *minister:* Minister van Economische Zaken;  
 
-b. *commissie:* de commissie, bedoeld in [artikel 6, eerste lid, van het Besluit radioamateurs BES](../../../../../AMvB-BES/besluit/radioamateurs/bes/BWBR0028725/README.md);  
+b.  *commissie:* de commissie, bedoeld in [artikel 6, eerste lid, van het Besluit radioamateurs BES](../../../../../AMvB-BES/besluit/radioamateurs/bes/BWBR0028725/README.md);  
 
-c. *voorzitter:* de voorzitter van de commissie of bij ontstentenis van deze de plaatsvervangend voorzitter;  
+c.  *voorzitter:* de voorzitter van de commissie of bij ontstentenis van deze de plaatsvervangend voorzitter;  
 
-d. *kandidaat:* degene die zich voor deelneming aan een examen heeft aangemeld;  
+d.  *kandidaat:* degene die zich voor deelneming aan een examen heeft aangemeld;  
 
-e. *examen:* een examen als bedoeld in [artikel 6, eerste lid, van het Besluit radioamateurs BES](../../../../../AMvB-BES/besluit/radioamateurs/bes/BWBR0028725/README.md);  
+e.  *examen:* een examen als bedoeld in [artikel 6, eerste lid, van het Besluit radioamateurs BES](../../../../../AMvB-BES/besluit/radioamateurs/bes/BWBR0028725/README.md);  
 
-f. *bewijs van bevoegdheid:* het door de minister afgegeven bewijs van bevoegdheid als radioamateur uitgereikt na een met goed gevolg afgelegd examen.    
+f.  *bewijs van bevoegdheid:* het door de minister afgegeven bewijs van bevoegdheid als radioamateur uitgereikt na een met goed gevolg afgelegd examen.   
 
 ####Aanmelding
 
@@ -26,7 +26,7 @@ f. *bewijs van bevoegdheid:* het door de minister afgegeven bewijs van bevoegdhe
 
 1.  De voorzitter stelt de plaats, de datum en het tijdstip van de examens vast. Van de wijze van aanmelding wordt mededeling gedaan in de plaatselijke media.   
 2.  Na voldoening van de verschuldigde vergoeding, bedoeld in [artikel 6, vierde lid, van het Besluit radioamateurs BES](../../../../../AMvB-BES/besluit/radioamateurs/bes/BWBR0028725/README.md), binnen de door de voorzitter te stellen termijn, ontvangt de kandidaat ten minste acht dagen voor het examen een schriftelijke uitnodiging tot deelneming.   
-3.  De vergoedingen, bedoeld in het tweede lid, worden niet terugbetaald indien een kandidaat zich terugtrekt dan wel niet op het examen verschijnt.   
+3.  De vergoedingen, bedoeld in het tweede lid, worden niet terugbetaald indien een kandidaat zich terugtrekt dan wel niet op het examen verschijnt.  
 
 ####Categorieën examens
 
@@ -57,7 +57,7 @@ b. voor de machtiging B, de examens, genoemd in het tweede lid, onder a en c;
 c. voor de machtiging C, de examens, genoemd in het tweede lid, onder a;  
 
 d. voor de machtiging N, de examens, genoemd in het tweede lid, onder a en b.     
-4.  De examenprogramma's van de examens, genoemd in het tweede lid zijn in de bijlagen bij deze regeling opgenomen.   
+4.  De examenprogramma's van de examens, genoemd in het tweede lid zijn in de bijlagen bij deze regeling opgenomen.  
 
 ####Het examen
 
@@ -66,20 +66,20 @@ d. voor de machtiging N, de examens, genoemd in het tweede lid, onder a en b.
 1.  Desgevraagd legitimeert de kandidaat zich overeenkomstig de door de voorzitter gegeven voorschriften.   
 2.  Door of vanwege de voorzitter wordt de kandidaat voor de aanvang van het examen in kennis gesteld van de regels van het examen.   
 3.  Door of vanwege de voorzitter gegeven aanwijzingen met betrekking tot het examen dienen door de kandidaat te worden opgevolgd.   
-4.  Het schriftelijk examen wordt in principe in groepsverband afgenomen.   
+4.  Het schriftelijk examen wordt in principe in groepsverband afgenomen.  
 
 ### Artikel  5  
 
 1.  De onderdelen radiotechniek en voorschriften worden schriftelijk afgenomen door middel van meerkeuzevragen. De tijdsduur van deze examens bedraagt ten minste één uur en ten hoogste twee uur.   
 2.  De onderdelen seinen en opnemen van morsetekens bestaan uit twee opneemproeven gevolgd door twee seinproeven. Elke proef duurt 5 minuten. Een kandidaat die voor beide opneemproeven een onvoldoende heeft behaald komt niet in aanmerking voor deelname aan de seinproeven.   
-3.  Tijdens het examen zijn ten minste 2 leden van de commissie aanwezig.   
+3.  Tijdens het examen zijn ten minste 2 leden van de commissie aanwezig.  
 
 ### Artikel  6  
 
 1.  Indien een kandidaat zich ten aanzien van het examen aan enig bedrog heeft schuldig gemaakt en dit voor of tijdens het examen wordt ontdekt, ontzegt de voorzitter hem van deelneming of de verdere deelneming aan het examen.   
 2.  Indien een kandidaat in enig ander opzicht in strijd met deze regeling heeft gehandeld en dit voor of tijdens het examen wordt ontdekt, kan de voorzitter hem de deelneming of de verdere deelneming aan het examen ontzeggen.   
 3.  Indien bedrog of een andere onregelmatigheid eerst na afloop van het examen wordt ontdekt, kan de voorzitter het examen van de kandidaat die zich hieraan heeft schuldig gemaakt, ongeldig verklaren.   
-4.  Indien buiten de in het eerste tot en met derde lid genoemde gevallen het examen niet op rechtmatige wijze heeft plaatsgevonden kan de voorzitter besluiten dat het examen geheel of gedeeltelijk opnieuw wordt afgenomen.   
+4.  Indien buiten de in het eerste tot en met derde lid genoemde gevallen het examen niet op rechtmatige wijze heeft plaatsgevonden kan de voorzitter besluiten dat het examen geheel of gedeeltelijk opnieuw wordt afgenomen.  
 
 ####Het bijzonder examen
 
@@ -92,11 +92,11 @@ a. de gezondheidstoestand van een kandidaat het afnemen van het examen op de wij
 b. een kandidaat gedurende lange perioden buiten het grondgebied van het openbaar lichaam verblijft;  
 
 c. een kandidaat onvoldoende de Nederlandse of de Engelse taal beheerst.     
-2.  Het examen wordt in een zodanig geval afgenomen door twee leden van de commissie.   
+2.  Het examen wordt in een zodanig geval afgenomen door twee leden van de commissie.  
 
 ### Artikel  8  
 
-Het examen Radiotechniek en Voorschriften wordt schriftelijk afgenomen. Het examen heeft een tijdsduur van ten minste één uur en ten hoogste twee uur per onderdeel.  
+Het examen Radiotechniek en Voorschriften wordt schriftelijk afgenomen. Het examen heeft een tijdsduur van ten minste één uur en ten hoogste twee uur per onderdeel. 
 
 ####Normen examens in het opnemen en seinen van morsetekens
 
@@ -107,7 +107,7 @@ Het examen Radiotechniek en Voorschriften wordt schriftelijk afgenomen. Het exam
 a. het opnemen op het gehoor van morsetekens. Een opneemproef voldoet aan de exameneisen indien de kandidaat de examentekst binnen de vastgestelde tijd voldoende leesbaar heeft opgeschreven, waarbij hij in de examentekst voor de machtiging A niet meer dan 8 fouten en voor de machtiging B niet meer dan 5 fouten heeft gemaakt. Niet of onjuist opgenomen tekens binnen een groep van 5 opeenvolgende tekens worden voor een fout gerekend.  
 
 b. het seinen van morsetekens. Een seinproef voldoet aan de exameneisen indien de kandidaat de examentekst binnen de vastgestelde tijd voldoende leesbaar en in een regelmatig seinschrift heeft geseind en daarbij voor de machtiging A niet meer dan 8 fouten en voor de machtiging B niet meer dan 5 fouten heeft gemaakt. Niet of onjuist opgenomen tekens binnen een groep van 5 opeenvolgende tekens worden voor een fout gerekend. Niet binnen de gestelde tijd geseinde tekens worden elk als een fout gesteld [bedoeld zal zijn: geteld]. Fouten in het seinschrift worden als verbeterd beschouwd als na een geseind vergissingsteken (minimaal 8 punten) opnieuw is begonnen met het laatste goed geseinde woord.     
-2.  Het examen is met goed gevolg afgelegd indien de kandidaat zowel voor het onderdeel opnemen als voor het onderdeel seinen een voldoende heeft behaald.   
+2.  Het examen is met goed gevolg afgelegd indien de kandidaat zowel voor het onderdeel opnemen als voor het onderdeel seinen een voldoende heeft behaald.  
 
 ####Norm bijzondere examens
 
@@ -117,13 +117,13 @@ Een kandidaat, welke heeft deelgenomen aan een examen als bedoeld in artikel 7 h
 
 a. over voldoende kennis bezit op het gebied van de radiotechniek en de voorschriften die voor de amateurradiodienst gelden; en  
 
-b. over voldoende vaardigheid bezit in het opnemen en seinen van morsetekens met snelheden van 8 of 12 woorden per minuut.    
+b. over voldoende vaardigheid bezit in het opnemen en seinen van morsetekens met snelheden van 8 of 12 woorden per minuut.   
 
 ####Ontheffing
 
 ### Artikel  11  
 
-Indien de kandidaat is geslaagd voor een buitenlands amateurexamen of voor een ander examen in het opnemen en seinen van morsetekens, welke zijn afgenomen door een bevoegde autoriteit en naar het oordeel van de commissie gelijkwaardig zijn aan een der examens bedoeld in artikel 2, eerste lid, kan de voorzitter hem geheel of gedeeltelijk ontheffing verlenen van één of meer onderdelen, bedoeld in artikel 3, tweede lid.  
+Indien de kandidaat is geslaagd voor een buitenlands amateurexamen of voor een ander examen in het opnemen en seinen van morsetekens, welke zijn afgenomen door een bevoegde autoriteit en naar het oordeel van de commissie gelijkwaardig zijn aan een der examens bedoeld in artikel 2, eerste lid, kan de voorzitter hem geheel of gedeeltelijk ontheffing verlenen van één of meer onderdelen, bedoeld in artikel 3, tweede lid. 
 
 ####Uitslag van het examen
 
@@ -131,34 +131,34 @@ Indien de kandidaat is geslaagd voor een buitenlands amateurexamen of voor een a
 
 1.  Een kandidaat wordt binnen 30 dagen na het afleggen van het examen door de commissie van de uitslag in kennis gesteld.   
 2.  Indien het examen met goed gevolg is afgelegd, ontvangt de kandidaat een Bewijs van bevoegdheid als radioamateur.   
-3.  Over de uitslag van het examen, alsmede de inhoud van de vraagstukken wordt niet gecorrespondeerd.   
+3.  Over de uitslag van het examen, alsmede de inhoud van de vraagstukken wordt niet gecorrespondeerd.  
 
 ####Nadere regels
 
 ### Artikel  13  
 
-De commissie kan nadere regels vaststellen voor de gang van zaken met betrekking tot het examen, welke niet in strijd mogen zijn met deze beschikking.  
+De commissie kan nadere regels vaststellen voor de gang van zaken met betrekking tot het examen, welke niet in strijd mogen zijn met deze beschikking. 
 
 ####Beroep
 
 ### Artikel  14  
 
 1.  Tegen de uitslag van het examen staat geen beroep open.   
-2.  Tegen een beslissing van de voorzitter als bedoeld in artikel 6 kan de kandidaat binnen 30 dagen in beroep gaan bij de minister. Het beroep dient schriftelijk en met redenen omkleed te worden ingediend.   
+2.  Tegen een beslissing van de voorzitter als bedoeld in artikel 6 kan de kandidaat binnen 30 dagen in beroep gaan bij de minister. Het beroep dient schriftelijk en met redenen omkleed te worden ingediend.  
 
 ####Slotbepaling
 
 ### Artikel  15  
 
-In de gevallen waarin deze regeling en de ingevolge artikel 13 vastgestelde regels niet voorzien, beslist de voorzitter.  
+In de gevallen waarin deze regeling en de ingevolge artikel 13 vastgestelde regels niet voorzien, beslist de voorzitter. 
 
 ### Artikel  16  
 
-Deze regeling berust op de [artikelen 5](../../../../../AMvB-BES/besluit/radioamateurs/bes/BWBR0028725/README.md) en [6 van het Besluit radioamateurs BES](../../../../../AMvB-BES/besluit/radioamateurs/bes/BWBR0028725/README.md).  
+Deze regeling berust op de [artikelen 5](../../../../../AMvB-BES/besluit/radioamateurs/bes/BWBR0028725/README.md) en [6 van het Besluit radioamateurs BES](../../../../../AMvB-BES/besluit/radioamateurs/bes/BWBR0028725/README.md). 
 
 ### Artikel  17  
 
-Deze regeling wordt aangehaald als: Regeling amateurradiozendexamens BES.  
+Deze regeling wordt aangehaald als: Regeling amateurradiozendexamens BES. 
 
 ### Bijlage  1  
 
@@ -166,19 +166,19 @@ Deze regeling wordt aangehaald als: Regeling amateurradiozendexamens BES.
 
 ####Opnemen en Seinen van Morsetekens.
 
-### 1.1  
+### 1.1   
 
 ####Opnemen op het gehoor van morsetekens.
 
-Het onderzoek voor dit onderdeel bestaat uit 2 proeven van elk 5 minuten. De in de Nederlandse of Engelse taal opgestelde examentest bestaat uit 300 morsetekens voor de amateurradio machtiging A en uit 200 morsetekens voor de amateurradio machtiging B. Elke letter wordt daarbij als één teken, elk cijfer als twee tekens geteld. Een kandidaat heeft voldoende voor een opneemproef verkregen indien binnen de vastgestelde tijd de examentekst wordt opgeschreven in voldoende leesbaar handschrift. Hierbij mogen maximaal 8 fouten worden gemaakt in de examentekst voor de amateurradio machtiging A en een maximaal aantal 5 fouten in de examentest voor de amateurradio machtiging B. Niet of onjuist opgenomen tekens binnen een groep van 5 opeenvolgende tekens worden voor één fout gerekend. De groep van 5 tekens wordt bepaald te beginnen met het niet of onjuist opgenomen morse-teken. De kandidaat heeft voldoende voor het onderdeel opnemen verkregen indien een van de beide opneemproeven met een voldoende is gewaardeerd.  
+Het onderzoek voor dit onderdeel bestaat uit 2 proeven van elk 5 minuten. De in de Nederlandse of Engelse taal opgestelde examentest bestaat uit 300 morsetekens voor de amateurradio machtiging A en uit 200 morsetekens voor de amateurradio machtiging B. Elke letter wordt daarbij als één teken, elk cijfer als twee tekens geteld. Een kandidaat heeft voldoende voor een opneemproef verkregen indien binnen de vastgestelde tijd de examentekst wordt opgeschreven in voldoende leesbaar handschrift. Hierbij mogen maximaal 8 fouten worden gemaakt in de examentekst voor de amateurradio machtiging A en een maximaal aantal 5 fouten in de examentest voor de amateurradio machtiging B. Niet of onjuist opgenomen tekens binnen een groep van 5 opeenvolgende tekens worden voor één fout gerekend. De groep van 5 tekens wordt bepaald te beginnen met het niet of onjuist opgenomen morse-teken. De kandidaat heeft voldoende voor het onderdeel opnemen verkregen indien een van de beide opneemproeven met een voldoende is gewaardeerd. 
 
-### 1.2  
+### 1.2   
 
 ####Seinen van morsetekens.
 
-Het onderzoek voor dit onderdeel bestaat uit 2 proeven van elk 5 minuten. De in de Nederlandse of Engelse taal opgestelde examentest bestaat uit 300 tekens voor de amateurradio machtiging A en 200 tekens voor de amateurradio machtiging B. Elk letter wordt daarbij als één teken, elk cijfer als twee tekens geteld. Een kandidaat heeft voldoende voor een seinproef verkregen indien binnen de vastgestelde tijd de examentest wordt geseind in voldoende leesbaar en regelmatig seinschrift. Hierbij mogen maximaal 8 fouten worden gemaakt in de examentest voor de amateurradio machtiging A en maximaal 5 fouten in de examentest voor de amateurradio machtiging B. Fouten in het seinschrift worden als verbeterd beschouwd als na een geseind vergissingsteken opnieuw is begonnen met het laatste goed geseinde woord. Onjuist geseinde tekens binnen een groep van 5 opeenvolgende tekens worden voor één fout gerekend. De groep van 5 tekens wordt bepaald te beginnen met het onjuist geseinde morseteken. Niet binnen de gestelde tijd geseinde tekens worden elk als één fout geteld. De kandidaat heeft voldoende voor het onderdeel seinen verkregen indien één van de seinproeven met een voldoende is gewaardeerd.  
+Het onderzoek voor dit onderdeel bestaat uit 2 proeven van elk 5 minuten. De in de Nederlandse of Engelse taal opgestelde examentest bestaat uit 300 tekens voor de amateurradio machtiging A en 200 tekens voor de amateurradio machtiging B. Elk letter wordt daarbij als één teken, elk cijfer als twee tekens geteld. Een kandidaat heeft voldoende voor een seinproef verkregen indien binnen de vastgestelde tijd de examentest wordt geseind in voldoende leesbaar en regelmatig seinschrift. Hierbij mogen maximaal 8 fouten worden gemaakt in de examentest voor de amateurradio machtiging A en maximaal 5 fouten in de examentest voor de amateurradio machtiging B. Fouten in het seinschrift worden als verbeterd beschouwd als na een geseind vergissingsteken opnieuw is begonnen met het laatste goed geseinde woord. Onjuist geseinde tekens binnen een groep van 5 opeenvolgende tekens worden voor één fout gerekend. De groep van 5 tekens wordt bepaald te beginnen met het onjuist geseinde morseteken. Niet binnen de gestelde tijd geseinde tekens worden elk als één fout geteld. De kandidaat heeft voldoende voor het onderdeel seinen verkregen indien één van de seinproeven met een voldoende is gewaardeerd. 
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####behorende bij de Regeling amateurradiozendexamens BES
 
@@ -197,7 +197,7 @@ I. Kennis van de wetgeving van het openbaar lichaam betreffende radioamateurs, a
 AR Einde uitzending of bericht. BK Teken om een lopende uitzending te onderbreken CQ Algemene oproep aan alle stations CW Onderbroken draaggolf DE Van, gebruikt om de roepletters van het opgeroepen en het oproepende station te scheiden K Uitnodiging om te zenden MSG Bericht PSE Alstublieft RST Leesbaarheid, signaalsterkte, toonkwaliteit R Ontvangen RX Ontvanger TX Zender UR Uw VA Einde verbinding, sluiten station Internationale noodsignalen, noodverkeer en communicatie bij rampen 
 ### *A.4 Noodsignalen* 
 
--In de radiotelegrafie ...---... en in de radiotelefonie ‘MAYDAY’.  
+-In de radiotelegrafie ...---... en in de radiotelefonie ‘MAYDAY’. 
 
 ### II  
 
@@ -297,7 +297,7 @@ AR Einde uitzending of bericht. BK Teken om een lopende uitzending te onderbreke
 
 – De relatie tussen ingangsvermogen, uitgangsvermogen en rendement.  
 
-– Peak Envelope Power (PEP).    
+– Peak Envelope Power (PEP).   
 
 ### C  
 
@@ -420,7 +420,7 @@ AR Einde uitzending of bericht. BK Teken om een lopende uitzending te onderbreke
 
 – Steilheid;  
 
-– Anode-roostercapaciteit.    
+– Anode-roostercapaciteit.   
 
 ### D  
 
@@ -508,7 +508,7 @@ AR Einde uitzending of bericht. BK Teken om een lopende uitzending te onderbreke
 
 – Regellus met instelbaar deeltal.  
 
-– Filter in de regellus.    
+– Filter in de regellus.   
 
 ### E  
 
@@ -565,7 +565,7 @@ AR Einde uitzending of bericht. BK Teken om een lopende uitzending te onderbreke
 
 – Spiegelfrequentie.  
 
-– Intermodulatie; kruismodulatie.    
+– Intermodulatie; kruismodulatie.   
 
 ### F  
 
@@ -634,7 +634,7 @@ AR Einde uitzending of bericht. BK Teken om een lopende uitzending te onderbreke
 
 – Ongewenste hf-uitstralingen.  
 
-– Kaststraling.    
+– Kaststraling.   
 
 ### G  
 
@@ -694,7 +694,7 @@ AR Einde uitzending of bericht. BK Teken om een lopende uitzending te onderbreke
 
 – Open en kortgesloten lijn als afgestemde kring.  
 
-– Antenne aanpassingseenheid    
+– Antenne aanpassingseenheid   
 
 ### H  
 
@@ -724,7 +724,7 @@ AR Einde uitzending of bericht. BK Teken om een lopende uitzending te onderbreke
 
 – Sporadische E-reflectie  
 
-– Aurora-reflectie    
+– Aurora-reflectie   
 
 ### I  
 
@@ -773,7 +773,7 @@ Het meten met:
 
 – Dipmeter.  
 
-– Oscilloscoop.    
+– Oscilloscoop.   
 
 ### J  
 
@@ -809,7 +809,7 @@ Voorzieningen ter voorkoming van en opheffing van storingen:
 
 – Ontkoppelen.  
 
-– Afscherming.    
+– Afscherming.   
 
 ### K  
 
@@ -848,9 +848,9 @@ Voorzieningen ter voorkoming van en opheffing van storingen:
 
 – Gevaar.  
 
-– Bescherming.    
+– Bescherming.   
 
-### Bijlage  3  
+### Bijlage 3 
 
 ####behorende bij de Regeling amateurradiozendexamens BES
 
@@ -866,10 +866,10 @@ Kennis van de wetgeving van het openbaar lichaam betreffende radioamateurs, alsm
 – Het internationale spellingsalfabet.   (V = vraag; A = antwoord) QRK V: Wat is de neembaarheid van mijn signalen? A: De neembaarheid van uw signaal is ... QRM V: Wordt u gestoord? A: Ik word gestoord. QRN V: Heeft u last van luchtstoring? A: Ik heb last van luchtstoring. QRO V: Zal ik het zendvermogen verhogen? A: Verhoog zendvermogen. QRP V: Zal ik mijn zendvermogen verminderen? A: Verminder zendvermogen. QRS V: Zal ik de seinsnelheid verlagen? A: Verlaag seinsnelheid. QRT V: Zal ik ophouden? A: Houd op. QRV V: Bent u beschikbaar? A: Ik ben beschikbaar. QRX V: Op welk tijdstip zult u mij weer oproepen? A: Ik zal om ..... uur weer roepen. QRZ V: Door wie ben ik geroepen? A: U wordt geroepen door..... QSB V: Verandert de sterkte van mijn signaal? A: De sterkte van uw signaal verandert. QSL V: Wilt u mij de ontvangst bevestigen? A: ik bevestig u de ontvangst. QSO V: Kunt u rechtstreeks met ..... werken? A: Ik kan rechtstreeks met ..... werken. QSY V: Zal ik op een andere frequentie gaan zenden? A: Ga op een andere frequentie zenden. QTH V: Wat is uw positie? A: Mijn positie is ..... 
 ### *A.3 Gebruikelijke afkortingen* 
 
-AR Einde uitzending of bericht. <sup> 1  wordt bij morse aaneengesloten geseind Internationale noodsignalen, noodverkeer en communicatie bij rampen  </sup> BK Teken om een lopende uitzending te onderbreken CQ Algemene oproep aan alle stations CW Onderbroken draaggolf DE Van, gebruikt om de roepletters van het opgeroepen en het oproepende station te scheiden K Uitnodiging om te zenden MSG Bericht PSE Alstublieft RST Leesbaarheid, signaalsterkte, toonkwaliteit R Ontvangen RX Ontvanger TX Zender UR Uw VA Einde verbinding, sluiten station <sup> 1  wordt bij morse aaneengesloten geseind Internationale noodsignalen, noodverkeer en communicatie bij rampen  </sup> 
+AR <sup>1 wordt bij morse aaneengesloten geseind Internationale noodsignalen, noodverkeer en communicatie bij rampen</sup>Einde uitzending of bericht. BK Teken om een lopende uitzending te onderbreken CQ Algemene oproep aan alle stations CW Onderbroken draaggolf DE Van, gebruikt om de roepletters van het opgeroepen en het oproepende station te scheiden K Uitnodiging om te zenden MSG Bericht PSE Alstublieft RST Leesbaarheid, signaalsterkte, toonkwaliteit R Ontvangen RX Ontvanger TX Zender UR Uw VA<sup>1 wordt bij morse aaneengesloten geseind Internationale noodsignalen, noodverkeer en communicatie bij rampen</sup> Einde verbinding, sluiten station 
 ### *A.4 Noodsignalen* 
 
-– In de radiotelegrafie ...---... en in de radiotelefonie ‘MAYDAY’.    
+– In de radiotelegrafie ...---... en in de radiotelefonie ‘MAYDAY’.   
 
 ### II  
 
@@ -925,7 +925,7 @@ AR Einde uitzending of bericht. <sup> 1  wordt bij morse aaneengesloten geseind 
 
 – Gelijkstroom- ingangsvermogen.  
 
-– Hf-uitgangsvermogen.    
+– Hf-uitgangsvermogen.   
 
 ### C  
 
@@ -962,7 +962,7 @@ AR Einde uitzending of bericht. <sup> 1  wordt bij morse aaneengesloten geseind 
 
 – Transistor (toepassing als versterker).  
 
-– Transistor (toepassing als oscillator).    
+– Transistor (toepassing als oscillator).   
 
 ### D  
 
@@ -981,7 +981,7 @@ AR Einde uitzending of bericht. <sup> 1  wordt bij morse aaneengesloten geseind 
 
 – Resonantie frequentie.  
 
-– Laagdoorlatende, hoogdoorlatende, banddoorlatende en bandoperende filters, opge-bouwd uit passieve elementen (alleen toepassing en gebruik).    
+– Laagdoorlatende, hoogdoorlatende, banddoorlatende en bandoperende filters, opge-bouwd uit passieve elementen (alleen toepassing en gebruik).   
 
 ### E  
 
@@ -1021,7 +1021,7 @@ AR Einde uitzending of bericht. <sup> 1  wordt bij morse aaneengesloten geseind 
 
 – Voeding.  
 
-– Ruisonderdrukker squelch (alleen doel).    
+– Ruisonderdrukker squelch (alleen doel).   
 
 ### F  
 
@@ -1071,7 +1071,7 @@ AR Einde uitzending of bericht. <sup> 1  wordt bij morse aaneengesloten geseind 
 
 – Ongewenste Hf-uitstralingen.  
 
-– Harmonischen.    
+– Harmonischen.   
 
 ### G  
 
@@ -1092,7 +1092,7 @@ AR Einde uitzending of bericht. <sup> 1  wordt bij morse aaneengesloten geseind 
 
 – Voor- en nadelen van open lijn en coaxiale kabel.  
 
-– Antenne aanpassingseenheid (alleen doel).    
+– Antenne aanpassingseenheid (alleen doel).   
 
 ### H  
 
@@ -1109,7 +1109,7 @@ AR Einde uitzending of bericht. <sup> 1  wordt bij morse aaneengesloten geseind 
 – De invloed van de meteorologische omstandigheden op de VHF/UHF-propagatie.   
 ### *Frequentiespectrum* 
 
-– HF, VHF, UHF frequentiegebieden    
+– HF, VHF, UHF frequentiegebieden   
 
 ### I  
 
@@ -1144,7 +1144,7 @@ Het meten met:
 
 – Dipmeter.  
 
-– Kunstantenne (dummy load).    
+– Kunstantenne (dummy load).   
 
 ### J  
 
@@ -1188,7 +1188,7 @@ Voorzieningen ter voorkoming van en opheffing van storingen:
 
 – Goede hf-aarding.  
 
-– Sociale aspecten (goede relatie met de buren).    
+– Sociale aspecten (goede relatie met de buren).   
 
 ### K  
 
@@ -1217,17 +1217,17 @@ Voorzieningen ter voorkoming van en opheffing van storingen:
 
 – Bescherming.  
 
-– Uitvoering van aarding.    
+– Uitvoering van aarding.   
 
-### Bijlage  4  
-
-####behorende bij de Regeling amateurradiozendexamens BES
-
-### Bijlage  4  
+### Bijlage 4 
 
 ####behorende bij de Regeling amateurradiozendexamens BES
 
-Betreffende het internationaal gebruik van radiocommunicatie in de frequentiebanden toegewezen aan de radioamateur bij natuurlijke rampen. De Wereld Administratieve Radio Conferentie te Genève, 1979, overwegende: dat bij natuurlijke rampen de normale communicatie systemen dikwijls overbelast, beschadigd of geheel onderbroken zijn; dat een snelle tot stand brengen van communicatie essentieel is voor het tot stand brengen van wereldwijde hulp acties; dat de aan de radioamateur toegewezen frequentiebanden niet gebonden zijn door internationale planning en notificatie procedures, en daardoor uitstekend geschikt zijn voor korte termijn gebruik bij rampen; dat de internationale rampen communicatie vergemakkelijkt wordt door het gebruik van bepaalde banden die toegewezen zijn aan de amateur dienst; dat onder die toestanden stations behorende tot de amateur dienst door hun grote verspreiding en het door hun bewezen vaardigheid in zulke omstandigheden, bijstand kunnen verlenen voor het in stand komen van de noodzakelijke communicatie; het bestaan van nationale en regionale amateur noodverbindingen die gebruik maken van frequenties in banden toegewezen aan de amateur dienst; dat, in een geval van een natuurlijke ramp, de directe verbinding tussen amateur stations en andere stations vitale communicatie tot stand kan brengen en in stand houden totdat de normale verbindingen zijn hersteld; erkennende: dat de rechten en verantwoordelijkheden voor verbindingen gedurende rampen een taak is van de betreffende administraties;  
+### Bijlage   4  
+
+####behorende bij de Regeling amateurradiozendexamens BES
+
+Betreffende het internationaal gebruik van radiocommunicatie in de frequentiebanden toegewezen aan de radioamateur bij natuurlijke rampen. De Wereld Administratieve Radio Conferentie te Genève, 1979, overwegende: dat bij natuurlijke rampen de normale communicatie systemen dikwijls overbelast, beschadigd of geheel onderbroken zijn; dat een snelle tot stand brengen van communicatie essentieel is voor het tot stand brengen van wereldwijde hulp acties; dat de aan de radioamateur toegewezen frequentiebanden niet gebonden zijn door internationale planning en notificatie procedures, en daardoor uitstekend geschikt zijn voor korte termijn gebruik bij rampen; dat de internationale rampen communicatie vergemakkelijkt wordt door het gebruik van bepaalde banden die toegewezen zijn aan de amateur dienst; dat onder die toestanden stations behorende tot de amateur dienst door hun grote verspreiding en het door hun bewezen vaardigheid in zulke omstandigheden, bijstand kunnen verlenen voor het in stand komen van de noodzakelijke communicatie; het bestaan van nationale en regionale amateur noodverbindingen die gebruik maken van frequenties in banden toegewezen aan de amateur dienst; dat, in een geval van een natuurlijke ramp, de directe verbinding tussen amateur stations en andere stations vitale communicatie tot stand kan brengen en in stand houden totdat de normale verbindingen zijn hersteld; erkennende: dat de rechten en verantwoordelijkheden voor verbindingen gedurende rampen een taak is van de betreffende administraties; 
 
 ####besluit:
 
@@ -1245,9 +1245,9 @@ Betreffende het internationaal gebruik van radiocommunicatie in de frequentieban
 
 7. dat een nauwe samenwerking wenselijk is tussen de radio amateur en de stations van andere diensten, die het nodig achten om amateur frequenties te gebruiken in gevallen van nood;  
 
-8. dat de internationale noodverbindingen voor zover mogelijk storing zullen vermijden aan de netten van de amateurdienst.    *nodigt de administraties uit:*  
+8. dat de internationale noodverbindingen voor zover mogelijk storing zullen vermijden aan de netten van de amateurdienst.    *nodigt de administraties uit: *  
 
 1. om te voorzien in de noden van de internationale verbindingen in geval van rampen;  
 
-2. om te voorzien in de noden van noodverbindingen binnen hun nationale wetgeving.    
+2. om te voorzien in de noden van noodverbindingen binnen hun nationale wetgeving.   
 

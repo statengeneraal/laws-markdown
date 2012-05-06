@@ -16,12 +16,12 @@ a. modelraket: kleine of grote modelraket, niet zijnde vuurwerk als bedoeld in [
 
 b. kleine modelraket: een toestel met een startmassa van maximaal 1500 gram, dat is gemaakt van papier, hout of kunststof en geen metalen hoofdonderdelen bevat, uitgezonderd een (licht)metalen motor, dat geen brandbare of explosieve lading bevat, behalve maximaal 125 gram brandstof die nodig is voor de voortstuwing, en dat wordt voortgestuwd door de reactiekracht van een uitgestoten massa aan de achterzijde;  
 
-c. grote modelraket: een toestel met een startmassa van meer dan 1500 gram, maar niet meer dan 35000 gram, dat is gemaakt van papier, hout, (licht)metaal of kunststof en geen brandbare of explosieve lading bevat, behalve de brandstof die nodig is voor de voortstuwing, en dat wordt voortgestuwd door de reactiekracht van een uitgestoten massa aan de achterzijde.    
+c. grote modelraket: een toestel met een startmassa van meer dan 1500 gram, maar niet meer dan 35000 gram, dat is gemaakt van papier, hout, (licht)metaal of kunststof en geen brandbare of explosieve lading bevat, behalve de brandstof die nodig is voor de voortstuwing, en dat wordt voortgestuwd door de reactiekracht van een uitgestoten massa aan de achterzijde.   
 
 ### Artikel  2  
 
 1.  Voor het gebruik van een kleine of grote modelraket in het luchtruim door een lid van een vereniging die zich bezig houdt met het ontwikkelen en het gebruik van een kleine of grote modelraket wordt vrijstelling verleend van het verbod in [artikel 1.2a van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md).   
-2.  Aan de vrijstelling zijn de in de artikelen 3 tot en met 5 opgenomen voorschriften en beperkingen verbonden.   
+2.  Aan de vrijstelling zijn de in de artikelen 3 tot en met 5 opgenomen voorschriften en beperkingen verbonden.  
 
 ### Artikel  3  
 
@@ -35,7 +35,7 @@ c. is voorzien van een bergingssysteem dat de modelraket, of delen daarvan, doet
 
 d. is voorzien van naam en adres van de eigenaar.     
 2.  De lanceerinrichting is zodanig geconstrueerd dat de modelraket altijd de inrichting stabiel verlaat in een richting die, gerekend vanuit het horizontale vlak, minstens 70º is.   
-3.  Voorafgaand aan de lancering zorgt de eigenaar ervoor dat het traject van de te verwachten vlucht van de modelraket is berekend.   
+3.  Voorafgaand aan de lancering zorgt de eigenaar ervoor dat het traject van de te verwachten vlucht van de modelraket is berekend.  
 
 ### Artikel  4  
 
@@ -63,21 +63,21 @@ e. binnen een afstand van 10 km van de grens van een luchtvaartterrein als bedoe
 
 6°. de berekende maximale hoogte en afstand die de modelraket kan bereiken;    
 
-f. in een plaatselijk luchtverkeersleidingsgebied als bedoeld in [artikel 1 van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md) en binnen een afstand van 10 km van de grens van een dergelijk gebied, niet zijnde de Schiphol CTR, tenzij na overleg van een lid van een vereniging als bedoeld in artikel 2, eerste lid, met de instantie die de plaatselijke luchtverkeersleiding verzorgt is gebleken dat voldoende separatie van het overige luchtverkeer is gewaarborgd. Het overleg vindt plaats tenminste één week vóór het beoogde gebruik van de modelraket ten behoeve waarvan de informatie bedoeld in onderdeel e is overgelegd.    
+f. in een plaatselijk luchtverkeersleidingsgebied als bedoeld in [artikel 1 van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md) en binnen een afstand van 10 km van de grens van een dergelijk gebied, niet zijnde de Schiphol CTR, tenzij na overleg van een lid van een vereniging als bedoeld in artikel 2, eerste lid, met de instantie die de plaatselijke luchtverkeersleiding verzorgt is gebleken dat voldoende separatie van het overige luchtverkeer is gewaarborgd. Het overleg vindt plaats tenminste één week vóór het beoogde gebruik van de modelraket ten behoeve waarvan de informatie bedoeld in onderdeel e is overgelegd.   
 
 ### Artikel  5  
 
-Een grote modelraket wordt alleen gebruikt in het luchtruim na overleg van een lid van een vereniging als bedoeld in artikel 2, eerste lid, met de Minister van Verkeer en Waterstaat dan wel met de Minister van Defensie waarin is gebleken dat voldoende separatie van het overige luchtverkeer is gewaarborgd. De tweede zin van artikel 4, onderdeel f, is van overeenkomstige toepassing.  
+Een grote modelraket wordt alleen gebruikt in het luchtruim na overleg van een lid van een vereniging als bedoeld in artikel 2, eerste lid, met de Minister van Verkeer en Waterstaat dan wel met de Minister van Defensie waarin is gebleken dat voldoende separatie van het overige luchtverkeer is gewaarborgd. De tweede zin van artikel 4, onderdeel f, is van overeenkomstige toepassing. 
 
 ### Artikel  6  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  7  
 
-Deze regeling wordt aangehaald als: Regeling modelraketten.  
+Deze regeling wordt aangehaald als: Regeling modelraketten. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-K.M.H.Peijs   
+K.M.H. Peijs     

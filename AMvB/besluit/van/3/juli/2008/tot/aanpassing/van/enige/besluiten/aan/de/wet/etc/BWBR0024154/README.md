@@ -15,55 +15,55 @@ Hebben goed gevonden en verstaan;
 
 ### Artikel  I  
 
-Wijzigt het Besluit beroepsvereisten advocatuur.   
+Wijzigt het Besluit beroepsvereisten advocatuur. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit bijzondere akten van de burgerlijke stand.   
+Wijzigt het Besluit bijzondere akten van de burgerlijke stand. 
 
 ### Artikel  III  
 
-Wijzigt het Besluit gegevens scheepvaart 2007.   
+Wijzigt het Besluit gegevens scheepvaart 2007. 
 
 ### Artikel  IV  
 
-Wijzigt het Besluit ex artikelen 818 en 820 Wetboek van Burgerlijke Rechtsvordering.   
+Wijzigt het Besluit ex artikelen 818 en 820 Wetboek van Burgerlijke Rechtsvordering. 
 
 ### Artikel  V  
 
-Wijzigt het Besluit Huwelijksgoederenregister 1969.   
+Wijzigt het Besluit Huwelijksgoederenregister 1969. 
 
 ### Artikel  VI  
 
-Wijzigt het Besluit orde van dienst gerechten.   
+Wijzigt het Besluit orde van dienst gerechten. 
 
 ### Artikel  VII  
 
-Wijzigt het Besluit regels vergoeding advocaat voor rechtsbijstand ex artikel 817 Wetboek van Burgerlijke Rechtsvordering.   
+Wijzigt het Besluit regels vergoeding advocaat voor rechtsbijstand ex artikel 817 Wetboek van Burgerlijke Rechtsvordering. 
 
 ### Artikel  VIII  
 
-Wijzigt het Besluit vergoedingen rechtsbijstand 2000.   
+Wijzigt het Besluit vergoedingen rechtsbijstand 2000. 
 
 ### Artikel  IX  
 
-Wijzigt het Kostuum- en titulatuurbesluit rechterlijke organisatie.   
+Wijzigt het Kostuum- en titulatuurbesluit rechterlijke organisatie. 
 
 ### Artikel  X  
 
-Wijzigt het Reglement voor de Kamer voor de Binnenvisserij 1964.   
+Wijzigt het Reglement voor de Kamer voor de Binnenvisserij 1964. 
 
 ### Artikel  XI  
 
-Wijzigt het Tuchtrechtbesluit BIG.   
+Wijzigt het Tuchtrechtbesluit BIG. 
 
 ### Artikel  XII  
 
-Ten aanzien van de vergoedingen voor handelingen verricht door procureurs voor inwerkingtreding van dit besluit blijft het recht zoals dit gold voor inwerkingtreding van dit besluit van toepassing.  
+Ten aanzien van de vergoedingen voor handelingen verricht door procureurs voor inwerkingtreding van dit besluit blijft het recht zoals dit gold voor inwerkingtreding van dit besluit van toepassing. 
 
 ### Artikel  XIII  
 
-Dit besluit treedt in werking op het tijdstip waarop de [Wet afschaffing procuraat en invoering elektronisch berichtenverkeer](../../../../../../../../../../../../../../../../wet/wet/afschaffing/procuraat/en/invoering/elektronisch/berichtenverkeer/BWBR0023725/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de [Wet afschaffing procuraat en invoering elektronisch berichtenverkeer](../../../../../../../../../../../../../../../../wet/wet/afschaffing/procuraat/en/invoering/elektronisch/berichtenverkeer/BWBR0023725/README.md) in werking treedt. 
 
 Lasten en bevelen dat dit besluit met de daarbijbehorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

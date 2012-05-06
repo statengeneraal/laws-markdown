@@ -10,26 +10,31 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is om het voortgezet ou
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 01-03-2011 
 
-Wijzigt het Burgerlijk Wetboek Boek 1.   
+Wijzigt het Burgerlijk Wetboek Boek 1. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 01-03-2011 
 
-Wijzigt het Wetboek van Burgerlijke Rechtsvordering.   
+Wijzigt het Wetboek van Burgerlijke Rechtsvordering. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 01-03-2011 
 
-Wijzigt de Wet rechten burgerlijke stand.   
+Wijzigt de Wet rechten burgerlijke stand. 
 
 ### Artikel  IV  
+Materieel uitgewerkt per 01-03-2011 
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  V  
+Materieel uitgewerkt per 01-03-2011 
 
-Deze wet wordt aangehaald als: Wet bevordering voortgezet ouderschap en zorgvuldige scheiding.  
+Deze wet wordt aangehaald als: Wet bevordering voortgezet ouderschap en zorgvuldige scheiding. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 27 november 2008  

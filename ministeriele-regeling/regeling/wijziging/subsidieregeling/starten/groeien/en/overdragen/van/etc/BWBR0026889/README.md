@@ -8,15 +8,15 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Subsidieregeling starten, groeien en overdragen van ondernemingen.   
+Wijzigt de Subsidieregeling starten, groeien en overdragen van ondernemingen. 
 
 ### Artikel  II  
 
-Op aanvragen om subsidie krachtens [hoofdstuk 7 van de Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) die vóór de inwerkingtreding van deze regeling zijn ingediend en op subsidies die krachtens dat hoofdstuk vóór de inwerkingtreding van deze regeling zijn verstrekt, blijft dat hoofdstuk van toepassing zoals het onmiddellijk voor dat tijdstip luidde.  
+Op aanvragen om subsidie krachtens [hoofdstuk 7 van de Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) die vóór de inwerkingtreding van deze regeling zijn ingediend en op subsidies die krachtens dat hoofdstuk vóór de inwerkingtreding van deze regeling zijn verstrekt, blijft dat hoofdstuk van toepassing zoals het onmiddellijk voor dat tijdstip luidde. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking op 1 januari 2010.  
+Deze regeling treedt in werking op 1 januari 2010. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -24,4 +24,4 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-M.J.A. van derHoeven   
+M.J.A. van der Hoeven     

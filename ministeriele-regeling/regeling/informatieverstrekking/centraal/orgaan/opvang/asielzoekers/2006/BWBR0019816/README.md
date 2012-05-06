@@ -26,13 +26,13 @@ Besluit:
 
 De 
 Minister voor Vreemdelingenzaken en Integratie, 
-M.C.F.Verdonk  
+M.C.F. Verdonk    
 
 ### Bijlagen  
 
 #### *Deel A. Verklaring van de gebruikte termen en afkortingen* 
 
-Abri: Locatie waar opvanggerechtigden gedurende een vooraf vastgestelde periode ter observatie en begeleiding verblijven na indicatie van de gemeenschappelijke indicatiecommissie AMOG/abri AMOG: Opvanggerechtigden met onaangepast gedrag Amv: Alleenstaande minderjarige vluchteling; dit is een opvanggerechtigde jonger dan 18 jaar die bij binnenkomst in Nederland niet wordt begeleid en/of verzorgd door minimaal één ouder dan wel een meerderjarige bloed- of aanverwant(e) Centrale opvang: Opvang door het COA van opvanggerechtigden, exclusief de opvang welke in opdracht van gemeenten wordt uitgevoerd en exclusief tijdelijke noodvoorzieningen Decentrale opvang: Opvang onder verantwoordelijkheid van een gemeente Doorstroomtijd: Tijd welke een persoon die uit de opvang vertrekt in de opvang heeft doorgebracht Dublinclaimant: Vreemdelingen ten aanzien van wie op grond van de Overeenkomst van Dublin een claim is of zal worden gelegd; iemand van wie is vastgesteld dat hij of zij in een ander Schengenland is geweest voordat de aanvraag in Nederland is ingediend Fasen in de procedure: De eerste asielaanvraag, beroep, hoger beroep en uitgeprocedeerd dan wel vergunninghouder Fasen van bemiddeling: Fase 1 is de periode vanaf het moment dat het besluit met betrekking tot de vergunningverlening is genomen tot het moment dat dit besluit bekend is bij het COA, fase 2 is de periode tussen het moment dat het besluit bekend is bij het COA en het moment dat de vergunninghouder wordt bemiddeld (groen licht), fase 3 is de periode tussen groen licht en het moment dat met de vergunninghouder voor woonruimte in een gemeente wordt voorgedragen, en fase 4 is de periode tussen deze plaatsingsvoordracht en het moment van werkelijke uitstroom van de vergunninghouder uit de opvang Ongecontroleerd vertrek uit Nederland: Een vreemdeling die zonder kennisgeving definitief is weggegaan uit een opvangaccomodatie en van wie de verblijfplaats onbekend is Modaliteit: Opvangvorm Nidos: Voogdij- en opvanginstelling voor amv’s en jonge vluchtelingen Opvanggerechtigden: Asielzoekers, uitgeprocedeerden en vergunninghouders in de COA-opvang en bij gemeenten, voor zover deze recht hebben op opvang of van wie de opvangvoorziening nog niet is beëindigd Overgenomen ROA: Opvang die het COA in opdracht van gemeenten uitvoert voor personen die vallen onder de wet ROA Overgenomen ex-VVTV: Opvang die het COA in opdracht van gemeenten uitvoert voor personen, waarvan de VVTV-status is ingetrokken en die nog in procedure zijn tegen de rechterlijke beslissing TNV: Tijdelijke Noodvoorziening Vreemdelingen; dit is een opvangvoorziening voor vreemdelingen die in het bezit zijn van een afsprakenbriefje voor een AC ten behoeve van het feitelijk indienen van een asielaanvraag. VBR: In beginsel jaarlijks te verlengen vergunning waarbij de vreemdeling toestemming heeft om langer dan drie maanden in Nederland te blijven VBT: In beginsel driejaarlijks te verlengen vergunning waarbij de vreemdeling toestemming heeft om langer dan drie maanden in Nederland te blijven Verblijfsduur: Tijdsduur welke opgevangen personen in de opvang hebben doorgebracht Vergunninghouder: Persoon in het bezit van een verblijfsvergunning (VBT, VBR, VOT) Verslagperioden Voor de per vier maanden te verstrekken informatie zijn de perioden van januari tot en met april, van mei tot en met augustus en van september tot en met december. Voor de per zes maanden te verstrekken informatie zijn de perioden januari tot en met juni en juli tot en met december Vonk, De: Behandelcentrum voor opvanggerechtigden met traumatische problemen. VOT: Vergunning voor onbepaalde tijd ZZA: Zelfzorgarrangement waarbij de asielzoeker in plaats van huisvesting een financiële vergoeding ontvangt.  
+Abri: Locatie waar opvanggerechtigden gedurende een vooraf vastgestelde periode ter observatie en begeleiding verblijven na indicatie van de gemeenschappelijke indicatiecommissie AMOG/abri AMOG: Opvanggerechtigden met onaangepast gedrag Amv: Alleenstaande minderjarige vluchteling; dit is een opvanggerechtigde jonger dan 18 jaar die bij binnenkomst in Nederland niet wordt begeleid en/of verzorgd door minimaal één ouder dan wel een meerderjarige bloed- of aanverwant(e) Centrale opvang: Opvang door het COA van opvanggerechtigden, exclusief de opvang welke in opdracht van gemeenten wordt uitgevoerd en exclusief tijdelijke noodvoorzieningen Decentrale opvang: Opvang onder verantwoordelijkheid van een gemeente Doorstroomtijd: Tijd welke een persoon die uit de opvang vertrekt in de opvang heeft doorgebracht Dublinclaimant: Vreemdelingen ten aanzien van wie op grond van de Overeenkomst van Dublin een claim is of zal worden gelegd; iemand van wie is vastgesteld dat hij of zij in een ander Schengenland is geweest voordat de aanvraag in Nederland is ingediend Fasen in de procedure: De eerste asielaanvraag, beroep, hoger beroep en uitgeprocedeerd dan wel vergunninghouder Fasen van bemiddeling: Fase 1 is de periode vanaf het moment dat het besluit met betrekking tot de vergunningverlening is genomen tot het moment dat dit besluit bekend is bij het COA, fase 2 is de periode tussen het moment dat het besluit bekend is bij het COA en het moment dat de vergunninghouder wordt bemiddeld (groen licht), fase 3 is de periode tussen groen licht en het moment dat met de vergunninghouder voor woonruimte in een gemeente wordt voorgedragen, en fase 4 is de periode tussen deze plaatsingsvoordracht en het moment van werkelijke uitstroom van de vergunninghouder uit de opvang Ongecontroleerd vertrek uit Nederland: Een vreemdeling die zonder kennisgeving definitief is weggegaan uit een opvangaccomodatie en van wie de verblijfplaats onbekend is Modaliteit: Opvangvorm Nidos: Voogdij- en opvanginstelling voor amv’s en jonge vluchtelingen Opvanggerechtigden: Asielzoekers, uitgeprocedeerden en vergunninghouders in de COA-opvang en bij gemeenten, voor zover deze recht hebben op opvang of van wie de opvangvoorziening nog niet is beëindigd Overgenomen ROA: Opvang die het COA in opdracht van gemeenten uitvoert voor personen die vallen onder de wet ROA Overgenomen ex-VVTV: Opvang die het COA in opdracht van gemeenten uitvoert voor personen, waarvan de VVTV-status is ingetrokken en die nog in procedure zijn tegen de rechterlijke beslissing TNV: Tijdelijke Noodvoorziening Vreemdelingen; dit is een opvangvoorziening voor vreemdelingen die in het bezit zijn van een afsprakenbriefje voor een AC ten behoeve van het feitelijk indienen van een asielaanvraag. VBR: In beginsel jaarlijks te verlengen vergunning waarbij de vreemdeling toestemming heeft om langer dan drie maanden in Nederland te blijven VBT: In beginsel driejaarlijks te verlengen vergunning waarbij de vreemdeling toestemming heeft om langer dan drie maanden in Nederland te blijven Verblijfsduur: Tijdsduur welke opgevangen personen in de opvang hebben doorgebracht Vergunninghouder: Persoon in het bezit van een verblijfsvergunning (VBT, VBR, VOT) Verslagperioden Voor de per vier maanden te verstrekken informatie zijn de perioden van januari tot en met april, van mei tot en met augustus en van september tot en met december. Voor de per zes maanden te verstrekken informatie zijn de perioden januari tot en met juni en juli tot en met december Vonk, De: Behandelcentrum voor opvanggerechtigden met traumatische problemen. VOT: Vergunning voor onbepaalde tijd ZZA: Zelfzorgarrangement waarbij de asielzoeker in plaats van huisvesting een financiële vergoeding ontvangt. 
 
 #### *Deel B. Te verstrekken verantwoordingsinformatie en indieningstermijnen* 
 
@@ -40,15 +40,15 @@ Abri: Locatie waar opvanggerechtigden gedurende een vooraf vastgestelde periode 
 
 ###Activiteitenverslag
 
-Het activiteitenverslag zoals bedoeld in de [Wet COA](../../../../../../../../../wet/wet/centraal/orgaan/opvang/asielzoekers/BWBR0006685/README.md) wordt jaarlijks na afloop van het boekjaar aan de Minister aangeboden binnen de termijn die de [Wet COA](../../../../../../../../../wet/wet/centraal/orgaan/opvang/asielzoekers/BWBR0006685/README.md) stelt, opdat de Minister het activiteitenverslag kan aanbieden aan de Staten-Generaal. Dit verslag heeft de vorm van het COA-jaarverslag en vormt een verkorte versie van het financiële verslag, aangevuld met voor de Staten-Generaal relevante informatie ten behoeve van beleidsdoeleinden (zie ook [Wet COA, art. 15](../../../../../../../../../wet/wet/centraal/orgaan/opvang/asielzoekers/BWBR0006685/README.md)).  
+Het activiteitenverslag zoals bedoeld in de [Wet COA](../../../../../../../../../wet/wet/centraal/orgaan/opvang/asielzoekers/BWBR0006685/README.md) wordt jaarlijks na afloop van het boekjaar aan de Minister aangeboden binnen de termijn die de [Wet COA](../../../../../../../../../wet/wet/centraal/orgaan/opvang/asielzoekers/BWBR0006685/README.md) stelt, opdat de Minister het activiteitenverslag kan aanbieden aan de Staten-Generaal. Dit verslag heeft de vorm van het COA-jaarverslag en vormt een verkorte versie van het financiële verslag, aangevuld met voor de Staten-Generaal relevante informatie ten behoeve van beleidsdoeleinden (zie ook [Wet COA, art. 15](../../../../../../../../../wet/wet/centraal/orgaan/opvang/asielzoekers/BWBR0006685/README.md)). 
 
 #### *2. Door het COA aan de Minister jaarlijks te verstrekken informatie ten behoeve van beleidsdoeleinden en ten behoeve van verantwoording aan de opdrachtgever* 
 
-De kostprijstabellen van de producten voor de verschillende, naar capaciteitsomvang onderscheiden prijsstaffels, worden verstrekt voor het jaar waarop de laatste beschikking betrekking heeft, waarbij de kostprijzen in overeenstemming zijn met het gestelde in de beschikking, binnen 8 weken na ontvangst van de beschikking, dit uitsluitend wanneer in de in de beschikking gehanteerde kostprijzen anders luiden dan de kostprijzen behorende bij eerdere beschikkingen.  
+De kostprijstabellen van de producten voor de verschillende, naar capaciteitsomvang onderscheiden prijsstaffels, worden verstrekt voor het jaar waarop de laatste beschikking betrekking heeft, waarbij de kostprijzen in overeenstemming zijn met het gestelde in de beschikking, binnen 8 weken na ontvangst van de beschikking, dit uitsluitend wanneer in de in de beschikking gehanteerde kostprijzen anders luiden dan de kostprijzen behorende bij eerdere beschikkingen. 
 
 #### *3. Door de Minister jaarlijks aan het COA te verstrekken informatie* 
 
-Onderwerpen waarop het COA in het kader van de risicio-analyse in zijn jaarplan in dient te gaan worden vóór 1 september van het voorafgaande jaar aangeleverd bij het COA.  
+Onderwerpen waarop het COA in het kader van de risicio-analyse in zijn jaarplan in dient te gaan worden vóór 1 september van het voorafgaande jaar aangeleverd bij het COA. 
 
 #### *4. Door het COA aan de Minister jaarlijks te verstrekken informatie ten behoeve van de beoordeling van het COA jaarplan* 
 
@@ -66,7 +66,7 @@ In de begroting worden opgenomen:
 
 – Een overzicht van de ontwikkeling eigen vermogen.  
 
-– Indien van toepassing een raming van de kosten van het sociaal plan en van de krimpkosten.    
+– Indien van toepassing een raming van de kosten van het sociaal plan en van de krimpkosten.   
 
 #### *Bedrijfsvoeringsparagraaf* 
 
@@ -82,7 +82,7 @@ In de bedrijfsvoeringsparagraaf wordt tenminste ingegaan op:
 
 – De majeure wijzigingen in de wijze van kwaliteitsborging;  
 
-– De majeure wijzigingen in de administratieve organisatie;    
+– De majeure wijzigingen in de administratieve organisatie;   
 
 #### *Een meerjaren paragraaf* 
 
@@ -90,7 +90,7 @@ In deze paragraaf wordt op hoofdlijnen ingegaan op de meerjarige verwachtingen (
 
 – het resultaat van het COA (aangevuld met het gerealiseerde resultaat over hjet vorige jaar en het verwachte resultaat over het lopende jaar);  
 
-– de financieringsbehoefte in het kader van de aanvraag leenfaciliteit opgebouwd uit het investeringsplan en de vermogensontwikkeling;   Tevens wordt in deze paragraaf ingegaan op de belangrijkste veranderingen in de werkwijze van het orgaan voor zover deze politiek relevant worden geacht of financieel van substantiële omvang zijn. Ook wordt gevraagd in te gaan op substantiële knelpunten, zowel financieel, qua bedrijfsvoering, beleidsmatig als politiek.  
+– de financieringsbehoefte in het kader van de aanvraag leenfaciliteit opgebouwd uit het investeringsplan en de vermogensontwikkeling;   Tevens wordt in deze paragraaf ingegaan op de belangrijkste veranderingen in de werkwijze van het orgaan voor zover deze politiek relevant worden geacht of financieel van substantiële omvang zijn. Ook wordt gevraagd in te gaan op substantiële knelpunten, zowel financieel, qua bedrijfsvoering, beleidsmatig als politiek. 
 
 #### *5. Door het COA aan de Minister jaarlijks te verstrekken informatie ten behoeve van de verantwoording aan de eigenaar* 
 
@@ -134,11 +134,11 @@ Het financiële verslag wordt jaarlijks binnen 4 maanden na afloop van het boekj
 
 – De accountantsverklaring  
 
-– Het rapport van bevindingen     Het rapport van bevindingen van de accountant wordt jaarlijks tegelijk met het financiële verslag aangeboden aan de Minister.  
+– Het rapport van bevindingen     Het rapport van bevindingen van de accountant wordt jaarlijks tegelijk met het financiële verslag aangeboden aan de Minister. 
 
 #### *De bestemming van het jaarresultaat* 
 
-Tegelijk met het financiële verslag doet het COA een voorstel voor de bestemming van het jaarresultaat, waaronder een nader voorstel tot beleidsintensiveringen waar in de subsidierelatie geen ruimte voor bestaat, tenzij het eigen vermogen onder de 1% komt van de gemiddelde omzet van de afgelopen drie jaar.  
+Tegelijk met het financiële verslag doet het COA een voorstel voor de bestemming van het jaarresultaat, waaronder een nader voorstel tot beleidsintensiveringen waar in de subsidierelatie geen ruimte voor bestaat, tenzij het eigen vermogen onder de 1% komt van de gemiddelde omzet van de afgelopen drie jaar. 
 
 #### *6. Door het COA aan de Minister per 6 maanden te verstrekken informatie ten behoeve van de verantwoording aan de opdrachtgever* 
 
@@ -167,7 +167,7 @@ Uiterlijk zes weken na afloop wordt over de verslagperiode de volgende informati
 
 – Een inventarisatie van knelpunten, respectievelijk te verwachten knelpunten, bij het proces van bemiddeling, uitplaatsing en eerste huisvesting. Bij deze inventarisatie wordt gebruik gemaakt van door gemeenten aangedragen of via de helpdesk verkregen signalen.  
 
-– Aanbevelingen om deze knelpunten het hoofd te bieden, ter optimalisatie van (de fasen van) het bemiddelings- en uitplaatsingsproces en het proces van eerste huisvesting in een gemeente.    
+– Aanbevelingen om deze knelpunten het hoofd te bieden, ter optimalisatie van (de fasen van) het bemiddelings- en uitplaatsingsproces en het proces van eerste huisvesting in een gemeente.   
 
 #### *7. Door het COA aan de Minister per zes maanden, en daarnaast bij majeure afwijkingen ten opzichte van het jaarplan, te verstrekken informatie ten behoeve van de verantwoording aan de eigenaar* 
 
@@ -181,7 +181,7 @@ Uiterlijk acht weken na afloop wordt over de verslagperiode de volgende informat
 
 – Een balans met de omvang en de samenstelling van het eigen vermogen met een toelichting daarop, en de verwachting daarvan voor het einde van het jaar.  
 
-– De voortgang van de maatregelen met betrekking tot risico’s die in het jaarplan zijn geïdentificeerd. Indien er sinds het jaarplan nieuwe risico’s zijn ontstaan of ontdekt, worden deze gemeld.    
+– De voortgang van de maatregelen met betrekking tot risico’s die in het jaarplan zijn geïdentificeerd. Indien er sinds het jaarplan nieuwe risico’s zijn ontstaan of ontdekt, worden deze gemeld.   
 
 #### *Deel C. Te verstrekken beleidsinformatie en indieningstermijnen* 
 
@@ -194,7 +194,7 @@ Een raming van de bezetting, van de instroom en van de uitstroom voor de 24 maan
 
 – Een toelichting bij majeure afwijkingen. Een overzicht van de centra, naar modaliteit, op de kaart van Nederland  
 
-– Een toelichting op de door het COA gehanteerde begrippen.    
+– Een toelichting op de door het COA gehanteerde begrippen.   
 
 #### *2. Door het COA aan de Minister per maand te verstrekken beleidsinformatie* 
 

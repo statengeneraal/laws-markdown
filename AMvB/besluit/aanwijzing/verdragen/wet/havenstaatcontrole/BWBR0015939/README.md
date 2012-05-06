@@ -15,19 +15,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Als verdrag als bedoeld in [artikel 1, onderdeel b, onder 10°, van de Wet havenstaatcontrole](../../../../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md) wordt aangewezen: 
+Als verdrag als bedoeld in [artikel 1, onderdeel b, onder 10°, van de Wet havenstaatcontrole](../../../../../../../wet/wet/havenstaatcontrole/BWBR0008999/README.md) wordt aangewezen:
 
-a. het op 27 november 1992 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie (Trb. 1994, 229), alsmede de daarbij behorende Nederland bindende protocollen, bijlagen en aanhangsels;  
+a.het op 27 november 1992 te Londen tot stand gekomen Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie (Trb. 1994, 229), alsmede de daarbij behorende Nederland bindende protocollen, bijlagen en aanhangsels;
 
-b. het op 5 oktober 2001 te Londen tot stand gekomen Internationaal Verdrag inzake de beperking van schadelijk aangroeiwerende verfsystemen op schepen (Trb. 2004, 44).    
+b.het op 5 oktober 2001 te Londen tot stand gekomen Internationaal Verdrag inzake de beperking van schadelijk aangroeiwerende verfsystemen op schepen (Trb. 2004, 44). 
 
-### Artikel  1a  
+###Artikel 1a 
 
-Dit besluit wordt aangehaald als: Besluit aanwijzing verdragen Wet havenstaatcontrole.  
+Dit besluit wordt aangehaald als: Besluit aanwijzing verdragen Wet havenstaatcontrole.
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

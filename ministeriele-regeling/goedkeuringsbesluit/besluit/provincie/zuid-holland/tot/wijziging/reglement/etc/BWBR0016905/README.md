@@ -13,5 +13,5 @@ I. Wijziging van het Reglement voor het hoogheemraadschap van Delfland;
 II. Bepaling van het tijdstip van inwerkingtreding van dit besluit.       
 
 De 
-Staatssecretaris van Verkeer en Waterstaat
-M.H.Schultz van Haegen    
+Staatssecretaris van Verkeer en Waterstaat 
+M.H. Schultz van Haegen      

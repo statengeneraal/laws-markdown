@@ -12,56 +12,56 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *Minister:* Minister van Verkeer en Waterstaat;  
+a.  *Minister:* Minister van Verkeer en Waterstaat;  
 
-b. *ProRail:* ProRail B.V. gevestigd te Utrecht.    
+b.  *ProRail:* ProRail B.V. gevestigd te Utrecht.   
 
 ### Artikel  2  
 
-Aan de directeur Projecten van ProRail wordt mandaat verleend om namens de Minister besluiten te nemen op verzoeken om schadevergoeding in het kader van de [Regeling Nadeelcompensatie Betuweroute](../../../../../../../../ministeriele-regeling/regeling/nadeelcompensatie/betuweroute/BWBR0008228/README.md), met uitzondering van het beslissen op bezwaarschriften tegen voornoemde besluiten.  
+Aan de directeur Projecten van ProRail wordt mandaat verleend om namens de Minister besluiten te nemen op verzoeken om schadevergoeding in het kader van de [Regeling Nadeelcompensatie Betuweroute](../../../../../../../../ministeriele-regeling/regeling/nadeelcompensatie/betuweroute/BWBR0008228/README.md), met uitzondering van het beslissen op bezwaarschriften tegen voornoemde besluiten. 
 
 ### Artikel  3  
 
-Aan de directeur Projecten van ProRail wordt mandaat verleend om namens de Minister besluiten te nemen inzake de verschuldigdheid en de hoogte van de dwangsom bij niet tijdig beslissen op verzoeken als bedoeld in artikel 2, met uitzondering van het beslissen op bezwaarschriften tegen voornoemde besluiten.  
+Aan de directeur Projecten van ProRail wordt mandaat verleend om namens de Minister besluiten te nemen inzake de verschuldigdheid en de hoogte van de dwangsom bij niet tijdig beslissen op verzoeken als bedoeld in artikel 2, met uitzondering van het beslissen op bezwaarschriften tegen voornoemde besluiten. 
 
 ### Artikel  4  
 
 1.  De directeur Projecten van ProRail kan schriftelijk ondermandaat verlenen om bij zijn afwezigheid zijn in de artikelen 2 en 3 bedoelde bevoegdheid te laten uitoefenen door een plaatsvervanger.   
-2.  Van een ondermandaat als bedoeld in het eerste lid wordt schriftelijk kennis gegeven aan de Minister.   
+2.  Van een ondermandaat als bedoeld in het eerste lid wordt schriftelijk kennis gegeven aan de Minister.  
 
 ### Artikel  5  
 
-Bij de uitoefening van het mandaat neemt de directeur Projecten van ProRail, alsmede de in artikel 4, eerste lid, bedoelde persoon, de in de bijlage bij dit besluit opgenomen algemene instructie in acht.  
+Bij de uitoefening van het mandaat neemt de directeur Projecten van ProRail, alsmede de in artikel 4, eerste lid, bedoelde persoon, de in de bijlage bij dit besluit opgenomen algemene instructie in acht. 
 
 ### Artikel  6  
 
-Aan de President-directeur van ProRail wordt mandaat verleend om namens de Minister te beslissen op bezwaar tegen besluiten op grond van [Regeling Nadeelcompensatie Betuweroute](../../../../../../../../ministeriele-regeling/regeling/nadeelcompensatie/betuweroute/BWBR0008228/README.md) als bedoeld in artikel 2 en 3.  
+Aan de President-directeur van ProRail wordt mandaat verleend om namens de Minister te beslissen op bezwaar tegen besluiten op grond van [Regeling Nadeelcompensatie Betuweroute](../../../../../../../../ministeriele-regeling/regeling/nadeelcompensatie/betuweroute/BWBR0008228/README.md) als bedoeld in artikel 2 en 3. 
 
 ### Artikel  7  
 
-Aan de President-directeur van ProRail wordt mandaat verleend om namens de Minister besluiten te nemen inzake de verschuldigdheid en hoogte van de dwangsom bij niet tijdig beslissen op bezwaar tegen met toepassing van artikel 2 genomen besluiten.  
+Aan de President-directeur van ProRail wordt mandaat verleend om namens de Minister besluiten te nemen inzake de verschuldigdheid en hoogte van de dwangsom bij niet tijdig beslissen op bezwaar tegen met toepassing van artikel 2 genomen besluiten. 
 
 ### Artikel  8  
 
 1.  De President-directeur van ProRail kan schriftelijk ondermandaat verlenen om bij zijn afwezigheid zijn in de artikelen 6 en 7 bedoelde bevoegdheid te laten uitoefenen door een plaatsvervanger.   
-2.  Van een ondermandaat als bedoeld in het eerste lid wordt schriftelijk kennis gegeven aan de Minister.   
+2.  Van een ondermandaat als bedoeld in het eerste lid wordt schriftelijk kennis gegeven aan de Minister.  
 
 ### Artikel  9  
 
-Bij de uitoefening van zijn mandaat neemt de President-directeur van ProRail of de in artikel 8, eerste lid, bedoelde persoon de in de bijlage bij dit besluit opgenomen algemene instructie in acht.  
+Bij de uitoefening van zijn mandaat neemt de President-directeur van ProRail of de in artikel 8, eerste lid, bedoelde persoon de in de bijlage bij dit besluit opgenomen algemene instructie in acht. 
 
 ### Artikel  10  
 
-Het [Besluit mandaat Regeling Nadeelcompensatie Betuweroute](../../../../../../../../ministeriele-regeling/besluit/mandaat/regeling/nadeelcompensatie/betuweroute/BWBR0008339/README.md) van 20 november 1996 (Stcrt. 1996, 229) en het [Mandaat bezwaarschriften Regeling Nadeelcompensatie Betuweroute](../../../../../../../../ministeriele-regeling/mandaat/bezwaarschriften/nadeelcompensatie/betuweroute/BWBR0009087/README.md) van 5 december 1997 (Stcrt. 1997, 239) worden ingetrokken.  
+Het [Besluit mandaat Regeling Nadeelcompensatie Betuweroute](../../../../../../../../ministeriele-regeling/besluit/mandaat/regeling/nadeelcompensatie/betuweroute/BWBR0008339/README.md) van 20 november 1996 (Stcrt. 1996, 229) en het [Mandaat bezwaarschriften Regeling Nadeelcompensatie Betuweroute](../../../../../../../../ministeriele-regeling/mandaat/bezwaarschriften/nadeelcompensatie/betuweroute/BWBR0009087/README.md) van 5 december 1997 (Stcrt. 1997, 239) worden ingetrokken. 
 
 ### Artikel  11  
 
 1.  Dit besluit treedt, met uitzondering van de artikelen 3 en 7, in werking met ingang van de eerste dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.   
-2.  Indien het bij koninklijke boodschap van 14 december 2004 ingediende voorstel van [wet tot aanvulling van de Algemene wet bestuursrecht met de mogelijkheid van dwangsom bij niet tijdig beslissen door een bestuursorgaan (Wet dwangsom bij niet tijdig beslissen](../../../../../../../../wet/wet/dwangsom/en/beroep/bij/niet/tijdig/beslissen/BWBR0026450/README.md), 29934, nadat het tot wet is verheven, in werking treedt, treden de artikelen 3 en 7, op hetzelfde tijdstip in werking.   
+2.  Indien het bij koninklijke boodschap van 14 december 2004 ingediende voorstel van [wet tot aanvulling van de Algemene wet bestuursrecht met de mogelijkheid van dwangsom bij niet tijdig beslissen door een bestuursorgaan (Wet dwangsom bij niet tijdig beslissen](../../../../../../../../wet/wet/dwangsom/en/beroep/bij/niet/tijdig/beslissen/BWBR0026450/README.md), 29934, nadat het tot wet is verheven, in werking treedt, treden de artikelen 3 en 7, op hetzelfde tijdstip in werking.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings  
+C.M.P.S. Eurlings    
 
 ### Bijlage.  
 
@@ -95,8 +95,8 @@ b. de dagtekening;
 
 c. een omschrijving van het besluit waartegen het bezwaarschrift zich richt (datum en nummer of kenmerk);  
 
-d. een opgave van de redenen waarom men zich met het besluit niet kan verenigen.    
+d. een opgave van de redenen waarom men zich met het besluit niet kan verenigen.   
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings  
+C.M.P.S. Eurlings    

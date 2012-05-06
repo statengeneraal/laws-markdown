@@ -8,7 +8,7 @@ Besluiten:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder: *cluster:* groep van valschermspringgebieden als bedoeld in de bijlage bij deze regeling; *doelgebied*: gebied waarin de valschermspringer beoogt neer te komen; *incidenteel valschermspringgebied*: valschermspringgebied dat niet is opgenomen in de lijst van valschermspringgebieden, bedoeld in de bijlage bij deze regeling; *klimgebied*: kolom luchtruim in de vorm van een cilinder met een straal van 9,26 km rond het middelpunt van het doelgebied en een hoogte gelijk aan de voorgenomen springhoogte in het luchtruim; *NOTAM:* bericht als bedoeld in [artikel 1 van de Regeling Burgerluchtvaartinlichtingen](../../../../../ministeriele-regeling/regeling/burgerluchtvaartinlichtingen/BWBR0010154/README.md) (Notice to Airmen); *valscherm*: scherm dat dient om de daalsnelheid van een persoon zodanig te beperken, dat deze veilig het aardoppervlak kan bereiken; *valschermspringen*: uit een zich in de lucht bevindend luchtvaartuig springen met een valscherm; *valschermspringgebied*: kolom luchtruimte in de vorm van een cilinder met een straal van 3,7 km rond het middelpunt van het doelgebied en een hoogte die ten minste gelijk is aan de voorgenomen springhoogte; *vast valschermspringgebied*: valschermspringgebied opgenomen in de lijst van valschermspringgebieden, bedoeld in de bijlage bij deze regeling.  
+In deze regeling wordt verstaan onder:  *cluster:* groep van valschermspringgebieden als bedoeld in de bijlage bij deze regeling;  *doelgebied*: gebied waarin de valschermspringer beoogt neer te komen;  *incidenteel valschermspringgebied*: valschermspringgebied dat niet is opgenomen in de lijst van valschermspringgebieden, bedoeld in de bijlage bij deze regeling;  *klimgebied*: kolom luchtruim in de vorm van een cilinder met een straal van 9,26 km rond het middelpunt van het doelgebied en een hoogte gelijk aan de voorgenomen springhoogte in het luchtruim;  *NOTAM:* bericht als bedoeld in [artikel 1 van de Regeling Burgerluchtvaartinlichtingen](../../../../../ministeriele-regeling/regeling/burgerluchtvaartinlichtingen/BWBR0010154/README.md) (Notice to Airmen);  *valscherm*: scherm dat dient om de daalsnelheid van een persoon zodanig te beperken, dat deze veilig het aardoppervlak kan bereiken;  *valschermspringen*: uit een zich in de lucht bevindend luchtvaartuig springen met een valscherm;  *valschermspringgebied*: kolom luchtruimte in de vorm van een cilinder met een straal van 3,7 km rond het middelpunt van het doelgebied en een hoogte die ten minste gelijk is aan de voorgenomen springhoogte;  *vast valschermspringgebied*: valschermspringgebied opgenomen in de lijst van valschermspringgebieden, bedoeld in de bijlage bij deze regeling. 
 
 ### Artikel  2  
 
@@ -16,7 +16,7 @@ Deze regeling is niet van toepassing op:
 
 a. valschermspringen door de krijgsmacht;  
 
-b. het gebruik van een valscherm in geval van nood.    
+b. het gebruik van een valscherm in geval van nood.   
 
 ### Artikel  3  
 
@@ -29,7 +29,7 @@ b. na toestemming van de gezagvoerder van het luchtvaartuig waaruit gesprongen w
 c. binnen de daglichtperiode, zoals gepubliceerd in de in [artikel 60, onder a, van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md) bedoelde luchtvaartgids, en  
 
 d. wanneer het vliegzicht en de minimumafstand tot de wolken voldoen aan de minimumwaarden voor VFR-vluchten die gelden in het betreffende deel van het luchtruim, bepaald bij of krachtens [artikel 42 van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md).     
-2.  De Minister van Verkeer en Waterstaat kan ontheffing verlenen van het eerste lid, onderdeel c. Aan de ontheffing kunnen voorschriften en beperkingen worden verbonden.   
+2.  De Minister van Verkeer en Waterstaat kan ontheffing verlenen van het eerste lid, onderdeel c. Aan de ontheffing kunnen voorschriften en beperkingen worden verbonden.  
 
 ### Artikel  4  
 
@@ -52,7 +52,7 @@ f. binnen een klimgebied in luchtruimklasse A bevindt zich slechts één luchtva
 * buiten dat deel van het algemene luchtverkeersleidingsgebied CTA South 1 dat binnen de laterale grenzen van de provincie Zuid-Holland ligt.   De gezagvoerder is in een dergelijk geval zelf verantwoordelijk voor onderlinge separatie, en;  
 
 g. binnen een cluster wordt slechts één valschermspringgebied tegelijk gebruikt.     
-2.  Het eerste lid, onderdelen c en d, zijn niet van toepassing indien de betrokken luchtverkeersleidingsdienst anders bepaalt in het belang van de algemene luchtverkeersveiligheid, een veilig, ordelijk en vlot verloop van het luchtverkeer, of de situatie op de grond.   
+2.  Het eerste lid, onderdelen c en d, zijn niet van toepassing indien de betrokken luchtverkeersleidingsdienst anders bepaalt in het belang van de algemene luchtverkeersveiligheid, een veilig, ordelijk en vlot verloop van het luchtverkeer, of de situatie op de grond.  
 
 ### Artikel  5  
 
@@ -76,7 +76,7 @@ d. het valschermspringgebied en het klimgebied liggen niet binnen de naderingslu
 
 1°. op maximaal 2500 voet boven gemiddeld zeeniveau, en  
 
-2°. buiten de in gebruik zijnde Standard Instrument Departures.      
+2°. buiten de in gebruik zijnde Standard Instrument Departures.     
 
 ### Artikel  6  
 
@@ -101,28 +101,28 @@ d. indien de radioverbinding tussen het luchtvaartuig en de luchtverkeersdienst 
 
 2°. wordt de transpondercode 7600 ingesteld, en  
 
-3°. wordt gedurende 3 minuten de op dat moment gevlogen hoogte gehandhaafd, waarna wordt teruggekeerd naar het luchtvaartterrein van vertrek.       
+3°. wordt gedurende 3 minuten de op dat moment gevlogen hoogte gehandhaafd, waarna wordt teruggekeerd naar het luchtvaartterrein van vertrek.      
 
 ### Artikel  7  
 
-De [Regeling valschermspringen](../../../../../ministeriele-regeling/regeling/valschermspringen/BWBR0006346/README.md) wordt ingetrokken.  
+De [Regeling valschermspringen](../../../../../ministeriele-regeling/regeling/valschermspringen/BWBR0006346/README.md) wordt ingetrokken. 
 
 ### Artikel  8  
 
-Deze regeling treedt in werking met ingang van 9 september 2010.  
+Deze regeling treedt in werking met ingang van 9 september 2010. 
 
 ### Artikel  9  
 
-Deze regeling wordt aangehaald als: Regeling valschermspringen 2010.  
+Deze regeling wordt aangehaald als: Regeling valschermspringen 2010. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Verkeer en Waterstaat,
-C.P.M.S.Eurlings 
+Minister van Verkeer en Waterstaat, 
+C.P.M.S. Eurlings   
 
 De 
-Minister van Defensie,
-E. vanMiddelkoop  
+Minister van Defensie, 
+E. van Middelkoop    
 
 ### Bijlage  
 

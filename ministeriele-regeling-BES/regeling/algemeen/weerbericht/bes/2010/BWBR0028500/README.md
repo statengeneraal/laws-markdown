@@ -2,6 +2,9 @@
 
 ##Regeling algemeen weerbericht BES 2010
 
+De Minister van Verkeer en Waterstaat,  
+Gelet op [artikel 3, eerste lid, onderdeel i](../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md), [artikel 3, tweede lid](../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md), en [artikel 3a, tweede lid, onderdeel a, van de Wet op het Koninklijk Nederlands Meteorologisch Instituut](../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md);
+Besluit:     
 ### §  1  
 
 ####Begripsbepalingen
@@ -10,17 +13,17 @@
 
 In deze regeling wordt verstaan onder 
 
-a. *algemeen weerbericht:* algemeen weerbericht, bedoeld in de artikelen 2 en 3;  
+a.  *algemeen weerbericht:* algemeen weerbericht, bedoeld in de artikelen 2 en 3;  
 
-b. *gezaghebber:* gezaghebber, bedoeld in [artikel 5, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md);  
+b.  *gezaghebber:* gezaghebber, bedoeld in [artikel 5, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md);  
 
-c. *openbare lichamen:* de openbare lichamen Bonaire, Sint Eustatius en Saba;  
+c.  *openbare lichamen:* de openbare lichamen Bonaire, Sint Eustatius en Saba;  
 
-d. *WMO:* Wereld Meteorologische Organisatie, een VN-agentschap waarin de nationale meteorologische diensten wereldwijd samenwerken op het gebied van meteorologie en klimaat.    
+d.  *WMO:* Wereld Meteorologische Organisatie, een VN-agentschap waarin de nationale meteorologische diensten wereldwijd samenwerken op het gebied van meteorologie en klimaat.   
 
 ### Artikel  2  
 
-Het KNMI heeft mede als taak het voor de samenleving beschikbaar maken, houden en stellen van een algemeen weerbericht dat betrekking heeft op de openbare lichamen Bonaire, Sint Eustatius en Saba.  
+Het KNMI heeft mede als taak het voor de samenleving beschikbaar maken, houden en stellen van een algemeen weerbericht dat betrekking heeft op de openbare lichamen Bonaire, Sint Eustatius en Saba. 
 
 ### Artikel  3  
 
@@ -40,7 +43,7 @@ f. waarschuwingen ten behoeve van de scheepvaart, waaronder storm- en orkaanwaar
 
 g. waarschuwingen voor extreme weersomstandigheden, waaronder storm- en orkaanwaarschuwingen, en  
 
-h. berichten of adviezen bij of ter voorkoming van calamiteiten.    
+h. berichten of adviezen bij of ter voorkoming van calamiteiten.   
 
 ### §  2  
 
@@ -58,11 +61,11 @@ c. Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, Onz
 
 d. organisaties die zijn belast met de scheepvaartbegeleiding, het beheer van waterstaatkundige werken of die belast zijn met de voorbereiding op en de bestrijding van calamiteiten waarbij het weer een belangrijke rol speelt, en  
 
-e. gebruikers van het ingevolge het WMO-verdrag functionerende internationale communicatienetwerk.    
+e. gebruikers van het ingevolge het WMO-verdrag functionerende internationale communicatienetwerk.   
 
 ### Artikel  5  
 
-Het algemeen weerbericht en onderdelen daarvan worden beschikbaar gesteld met behulp van moderne voor de gebruiker toegankelijke communicatiemiddelen, waaronder een voor een ieder toegankelijke externe internetserver.  
+Het algemeen weerbericht en onderdelen daarvan worden beschikbaar gesteld met behulp van moderne voor de gebruiker toegankelijke communicatiemiddelen, waaronder een voor een ieder toegankelijke externe internetserver. 
 
 ### §  3  
 
@@ -80,7 +83,7 @@ c. de windrichting en de windsnelheid;
 
 d. de zichtwaarde, en  
 
-e. de luchtdruk.    
+e. de luchtdruk.   
 
 ### Artikel  7  
 
@@ -92,7 +95,7 @@ b. om 11:00 uur: de minimumtemperatuur in de voorafgaande periode van 12 uren va
 
 c. om 11:00 uur: de maximumtemperatuur in de voorafgaande periode van 24 uren van 08:00 tot 08:00 uur, en  
 
-d. een toelichting op de waarschuwingen en verwachtingen, bestaande uit een beschrijving van de meteorologische verschijnselen die aanleiding zijn voor de waarschuwingen dan wel de verwachtingen.    
+d. een toelichting op de waarschuwingen en verwachtingen, bestaande uit een beschrijving van de meteorologische verschijnselen die aanleiding zijn voor de waarschuwingen dan wel de verwachtingen.   
 
 ### Artikel  8  
 
@@ -108,7 +111,7 @@ d. de minimum- en maximumtemperatuur;
 
 e. windrichting, windkracht en windsnelheid, en  
 
-f. om een weersomslag of de mate van wisselvalligheid te beschrijven, het tijdstip en de verwachte tijdsduur van de in dit artikel genoemde weersverschijnselen.    
+f. om een weersomslag of de mate van wisselvalligheid te beschrijven, het tijdstip en de verwachte tijdsduur van de in dit artikel genoemde weersverschijnselen.   
 
 ### Artikel  9  
 
@@ -122,7 +125,7 @@ c. de kans op neerslag;
 
 d. de minimum- en maximumtemperatuur, en  
 
-e. de windrichting, windkracht en windsnelheid, boven land in open terrein.    
+e. de windrichting, windkracht en windsnelheid, boven land in open terrein.   
 
 ### Artikel  10  
 
@@ -142,7 +145,7 @@ f. een waarschuwing, indien er zware windstoten worden verwacht van 75 km per uu
 
 g. een melding van significant weer, in het bijzonder van alle weersverschijnselen die van belang zijn voor de veiligheid van de scheepvaart, en  
 
-h. indien mogelijk het moment waarop significante veranderingen worden verwacht en de duur daarvan.    
+h. indien mogelijk het moment waarop significante veranderingen worden verwacht en de duur daarvan.   
 
 ### Artikel  11  
 
@@ -155,7 +158,7 @@ b. de melding dat zware windstoten worden verwacht van 75 km per uur of meer, wa
 c. de melding dat zeer zware windstoten worden verwacht van 100 km per uur of meer, waarbij die windstoten krachtiger zijn dan anderhalf maal de maximale windsnelheid van de uitgegeven windwaarschuwing dan wel orkaanwaarschuwing, en  
 
 d. een aanduiding van het zeegebied rond het openbare lichaam waarop de waarschuwing van toepassing is.     
-2.  Waarschuwingen als bedoeld in het eerste lid, bevatten een trendmatige aanduiding betreffende de ontwikkeling in de tijd.   
+2.  Waarschuwingen als bedoeld in het eerste lid, bevatten een trendmatige aanduiding betreffende de ontwikkeling in de tijd.  
 
 ### Artikel  12  
 
@@ -169,7 +172,7 @@ c. de melding dat zeer zware windstoten verwacht worden van 100 km per uur of me
 2.  Waarschuwingen als bedoeld in het eerste lid, bevatten een trendmatige aanduiding betreffende de ontwikkeling in de tijd.   
 3.  Waarschuwingen als bedoeld in het eerste lid, kunnen worden opgesteld voor het algemeen publiek of voor specifieke doelgroepen, waaronder wegverkeer, waarbij de berichtgeving op die doelgroepen kan worden toegesneden.   
 4.  Waarschuwingen als bedoeld in het eerste lid, worden indien mogelijk vooraf gegaan door een melding dat er een waarschuwing kan volgen.   
-5.  Waarschuwingen als bedoeld in het eerste lid, worden ingetrokken door middel van een afmeldbericht indien een einde is gekomen aan het desbetreffende weersverschijnsel of indien het weersverschijnsel niet meer wordt verwacht.   
+5.  Waarschuwingen als bedoeld in het eerste lid, worden ingetrokken door middel van een afmeldbericht indien een einde is gekomen aan het desbetreffende weersverschijnsel of indien het weersverschijnsel niet meer wordt verwacht.  
 
 ### Artikel  13  
 
@@ -178,7 +181,7 @@ c. de melding dat zeer zware windstoten verwacht worden van 100 km per uur of me
 a. meteorologische gegevens en adviezen ten behoeve van de preparatie op of de bestrijding van weersafhankelijke calamiteiten;  
 
 b. meteorologische gegevens en adviezen met betrekking tot de verspreiding van gevaarlijke stoffen die tijdens de biologische, chemische of nucleaire calamiteiten vrijkomen of kunnen vrijkomen in de atmosfeer of in de zee.     
-2.  Onverminderd artikel 4, worden berichten en adviezen als bedoeld in het eerste lid, in het bijzonder verstrekt aan de gezaghebber en overheids- of andere instanties die op het grondgebied van de openbare lichamen zijn belast met de zorg voor de veiligheid.   
+2.  Onverminderd artikel 4, worden berichten en adviezen als bedoeld in het eerste lid, in het bijzonder verstrekt aan de gezaghebber en overheids- of andere instanties die op het grondgebied van de openbare lichamen zijn belast met de zorg voor de veiligheid.  
 
 ### §  4  
 
@@ -188,7 +191,7 @@ b. meteorologische gegevens en adviezen met betrekking tot de verspreiding van g
 
 1.  De meteorologisch dienstverlener die de in artikel 2 bedoelde taak uitvoert, draagt er zorg voor dat apparatuur die hiervoor in gebruik is, betrouwbaar is, nauwkeurig werkt en op een geschikte plaatsis opgesteld. De gebruikte apparatuur voldoet aan de eisen van publicatienummer 8 van de WMO.   
 2.  Medewerkers die werkzaamheden uitvoeren ten behoeve van de in artikel 2 bedoelde taak, zijn gekwalificeerd uitgaande van ten minste de eisen van de WMO vastgelegd in publicatienummer 258 van de WMO.   
-3.  De in het eerste en tweede lid genoemde eisen gelden tevens als eisen van geschiktheid of bekwaamheid als bedoeld in [artikel 3a, tweede lid, onderdeel a, van de Wet op het Koninklijk Nederlands Meteorologisch Instituut](../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md).   
+3.  De in het eerste en tweede lid genoemde eisen gelden tevens als eisen van geschiktheid of bekwaamheid als bedoeld in [artikel 3a, tweede lid, onderdeel a, van de Wet op het Koninklijk Nederlands Meteorologisch Instituut](../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md).  
 
 ### §  5  
 
@@ -196,13 +199,13 @@ b. meteorologische gegevens en adviezen met betrekking tot de verspreiding van g
 
 ### Artikel  15  
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](../../../../../../../rijkswet/rijkswet/wijziging/statuut/in/verband/met/de/opheffing/van/de/nederlandse/etc/BWBR0028249/README.md) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](../../../../../../../rijkswet/rijkswet/wijziging/statuut/in/verband/met/de/opheffing/van/de/nederlandse/etc/BWBR0028249/README.md) in werking treedt. 
 
 ### Artikel  16  
 
-Deze regeling wordt aangehaald als: Regeling algemeen weerbericht BES 2010.  
+Deze regeling wordt aangehaald als: Regeling algemeen weerbericht BES 2010. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Verkeer en Waterstaat,
-C.M.P.S.Eurlings   
+Minister van Verkeer en Waterstaat, 
+C.M.P.S. Eurlings     

@@ -21,7 +21,7 @@ a. wet: de [Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998
 
 b. kleinverbruiker: in [artikel 95a, eerste lid, van de wet](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) bedoelde afnemer;  
 
-c. leveringsvergunning: vergunning, bedoeld in [artikel 95a, eerste lid, van de wet](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md).    
+c. leveringsvergunning: vergunning, bedoeld in [artikel 95a, eerste lid, van de wet](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md).   
 
 ### Artikel  2  
 
@@ -39,19 +39,19 @@ c. neemt de netbeheerder van het landelijk hoogspanningsnet, voor zover dat rede
 6.  De netbeheerder van het landelijk hoogspanningsnet draagt er zorg voor dat de levering van elektriciteit aan kleinverbruikers, die op het tijdstip waarop de intrekkingsbeschikking in werking treedt nog een overeenkomst met de betrokken vergunninghouder hebben, met ingang van dat tijdstip wordt voortgezet door een andere vergunninghouder. Daartoe coördineert hij de verdeling van die kleinverbruikers over de andere vergunninghouders en geeft daartoe aanwijzingen aan de netbeheerders. De aldus aangewezen vergunninghouder zet de levering van elektriciteit aan de aan hem toegewezen kleinverbruikers vanaf dat tijdstip voort onder zijn voorwaarden. De verdeling geschiedt naar evenredigheid van het totale aantal kleinverbruikers dat de andere vergunninghouders reeds beleveren, tenzij Onze Minister tot een andere wijze van verdeling besluit. Netbeheerders verstrekken aan de netbeheerder van het landelijk hoogspanningsnet de gegevens, die deze nodig heeft voor de uitvoering van deze taak.   
 7.  De netbeheerder van het landelijk hoogspanningsnet brengt aan alle vergunninghouders, naar evenredigheid van het aantal kleinverbruikers dat zij beleveren, een deel van de te zijnen laste blijvende kosten, gemaakt ter uitvoering van zijn taak bedoeld in het vijfde lid, onderdeel c, in rekening. Elke vergunninghouder berekent het desbetreffende bedrag door aan de kleinverbruikers die hij elektriciteit levert, waarbij elke kleinverbruiker een gelijk bedrag in rekening wordt gebracht.   
 8.  Vergunninghouders hanteren in hun overeenkomsten met kleinverbruikers voorwaarden die in overeenstemming zijn met hetgeen bij of krachtens de wet is bepaald.   
-9.  De inkoopcontracten van vergunninghouders bevatten geen beding tot ontbinding van rechtswege van die overeenkomsten ingeval aan de vergunninghouder surseance van betaling is verleend of deze failliet is verklaard, dan wel ingeval diens surseance of faillissement is aangevraagd, dan wel ingeval diens vergunning zal worden ingetrokken, noch bedingen die het de toeleverende producent of handelaar mogelijk maken in die gevallen de nakoming van de verbintenis op te schorten of te ontbinden of onder gewijzigde voorwaarden voort te zetten, een en ander voor zover betrekking hebbend op de levering van elektriciteit ten behoeve van kleinverbruikers.   
+9.  De inkoopcontracten van vergunninghouders bevatten geen beding tot ontbinding van rechtswege van die overeenkomsten ingeval aan de vergunninghouder surseance van betaling is verleend of deze failliet is verklaard, dan wel ingeval diens surseance of faillissement is aangevraagd, dan wel ingeval diens vergunning zal worden ingetrokken, noch bedingen die het de toeleverende producent of handelaar mogelijk maken in die gevallen de nakoming van de verbintenis op te schorten of te ontbinden of onder gewijzigde voorwaarden voort te zetten, een en ander voor zover betrekking hebbend op de levering van elektriciteit ten behoeve van kleinverbruikers.  
 
 ### Artikel  3  
 
-Wijzigt het Besluit leveringszekerheid Gaswet.   
+Wijzigt het Besluit leveringszekerheid Gaswet. 
 
 ### Artikel  4  
 
-De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als: Besluit leveringszekerheid Elektriciteitswet 1998.  
+Dit besluit wordt aangehaald als: Besluit leveringszekerheid Elektriciteitswet 1998. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -59,7 +59,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 14 februari 2006  
 Beatrix  
 
-De Minister van Economische Zaken , 
+De Minister van Economische Zaken ,  
 L. J. Brinkhorst   
 
 de *tweede* maart 2006 

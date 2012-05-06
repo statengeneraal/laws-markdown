@@ -24,11 +24,11 @@ a. het GI-beraad: het beraad voor de Geo-informatie;
 
 b. de minister: de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;  
 
-c. geo-informatie: geografische informatie, informatie met een ruimtelijke component.    
+c. geo-informatie: geografische informatie, informatie met een ruimtelijke component.   
 
 ### Artikel  2  
 
-Er is een GI-beraad.  
+Er is een GI-beraad. 
 
 ### Artikel  3  
 
@@ -48,15 +48,15 @@ b. De minister, overige ministers en overheidsorganen te adviseren over en kader
 
 c. de minister, overige ministers en overheidsorganen te adviseren over mogelijke Nederlandse standpunten in internationaal verband en implementatie van Europese richtlijnen, die het onderwerp van geo-informatie in Nederland raken.  
 
-d. Het inrichten en laten uitvoeren van programma’s en projecten om de geo-informatie in Nederland te verbeteren.    
+d. Het inrichten en laten uitvoeren van programma’s en projecten om de geo-informatie in Nederland te verbeteren.   
 
 ### Artikel  4  
 
-Jaarlijks brengt het GI-beraad een advies uit aan de minister over de strategische onderwerpen, die de komende jaren aan de orde zullen komen op het gebied van de geo-informatie in Nederland in de vorm van een strategische agenda. Tevens geeft het GI-beraad opdracht deze agenda uit te voeren.  
+Jaarlijks brengt het GI-beraad een advies uit aan de minister over de strategische onderwerpen, die de komende jaren aan de orde zullen komen op het gebied van de geo-informatie in Nederland in de vorm van een strategische agenda. Tevens geeft het GI-beraad opdracht deze agenda uit te voeren. 
 
 ### Artikel  5  
 
-Het GI-beraad brengt jaarlijks aan de minister verslag uit van zijn werkzaamheden over het afgelopen jaar. Uiterlijk 31 december 2008 brengt het GI-beraad verslag uit aan de minister over de doeltreffendheid en de effecten van de werkzaamheden van het beraad en de uitvoering van de strategische agenda.  
+Het GI-beraad brengt jaarlijks aan de minister verslag uit van zijn werkzaamheden over het afgelopen jaar. Uiterlijk 31 december 2008 brengt het GI-beraad verslag uit aan de minister over de doeltreffendheid en de effecten van de werkzaamheden van het beraad en de uitvoering van de strategische agenda. 
 
 ### Artikel  6  
 
@@ -88,32 +88,32 @@ l. een lid voor te dragen door kennisinstituut TNO-NITG.
 2.  De voorzitter en de leden van het GI-beraad worden door de minister benoemd.   
 3.  De bijeenkomsten worden bijgewoond door de voorzitter van Stichting GEONOVUM als vertegenwoordiger van het geo-werkveld in de publieke sector.   
 4.  De leden vanuit de departementen vormen de kerngroep van het GI-beraad en zijn verantwoordelijk voor het advies aan de minister en overige ministers.   
-5.  Het GI-beraad bestaat voor meer dan de helft uit ambtenaren die werkzaam zijn bij een ministerie of een daaronder resorterende instelling, dienst of bedrijf en die in verband met hun werkzaamheden in het GI-beraad zitting hebben.   
+5.  Het GI-beraad bestaat voor meer dan de helft uit ambtenaren die werkzaam zijn bij een ministerie of een daaronder resorterende instelling, dienst of bedrijf en die in verband met hun werkzaamheden in het GI-beraad zitting hebben.  
 
 ### Artikel  7  
 
-Het GI-beraad kan zich laten ondersteunen en adviseren door vertegenwoordigers uit bedrijfsleven, wetenschap en andere organisaties op gebied van de geo-informatie.  
+Het GI-beraad kan zich laten ondersteunen en adviseren door vertegenwoordigers uit bedrijfsleven, wetenschap en andere organisaties op gebied van de geo-informatie. 
 
 ### Artikel  8  
 
-Het GI-beraad stelt een nader reglement vast over de werkwijze, de wijze waarop adviezen worden opgesteld en hoe vertegenwoordigers van andere partijen erbij betrokken worden.  
+Het GI-beraad stelt een nader reglement vast over de werkwijze, de wijze waarop adviezen worden opgesteld en hoe vertegenwoordigers van andere partijen erbij betrokken worden. 
 
 ### Artikel  9  
 
 1.  Het GI-beraad wordt bijgestaan door een secretariaat.   
-2.  In de personele bezetting van het secretariaat wordt voorzien door de minister.   
+2.  In de personele bezetting van het secretariaat wordt voorzien door de minister.  
 
 ### Artikel  10  
 
-Het beheer van de bescheiden betreffende de werkzaamheden van het GI-beraad geschiedt op overeenkomstige wijze als bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. De bescheiden worden na beëindiging van de werkzaamheden van het GI-beraad opgeslagen in het archief van dat ministerie.  
+Het beheer van de bescheiden betreffende de werkzaamheden van het GI-beraad geschiedt op overeenkomstige wijze als bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. De bescheiden worden na beëindiging van de werkzaamheden van het GI-beraad opgeslagen in het archief van dat ministerie. 
 
 ### Artikel  11  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 ### Artikel  12  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit GI-beraad.  
+Dit besluit wordt aangehaald als: Instellingsbesluit GI-beraad. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -121,4 +121,4 @@ Den Haag
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-S.M.Dekker   
+S.M. Dekker     

@@ -11,19 +11,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Politiewet 1993.   
+Wijzigt de Politiewet 1993. 
 
 ### Artikel  II  
 
-Wijzigt de Algemene wet bestuursrecht.   
+Wijzigt de Algemene wet bestuursrecht. 
 
 ### Artikel  III  
 
-De bescheiden van de Raad voor het Korps landelijke politiediensten worden overgedragen aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.  
+De bescheiden van de Raad voor het Korps landelijke politiediensten worden overgedragen aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties. 
 
 ### Artikel  IV  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -31,13 +31,13 @@ Gegeven te ’s-Gravenhage
 26 april 2007  
 Beatrix  
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin 
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin   
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-G.ter Horst 
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties , 
+G. ter Horst   
 
 de *negenentwintigste* mei 2007 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

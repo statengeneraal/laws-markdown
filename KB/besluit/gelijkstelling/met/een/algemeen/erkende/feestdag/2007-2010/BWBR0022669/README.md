@@ -11,11 +11,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Met een algemeen erkende feestdag als bedoeld in [artikel 3, eerste lid, van de Algemene termijnenwet](../../../../../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) worden gelijkgesteld 24 december 2007, 2 mei 2008, 2 januari, 1 mei, 4 mei en 22 mei 2009 en 14 mei 2010.  
+Met een algemeen erkende feestdag als bedoeld in [artikel 3, eerste lid, van de Algemene termijnenwet](../../../../../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) worden gelijkgesteld 24 december 2007, 2 mei 2008, 2 januari, 1 mei, 4 mei en 22 mei 2009 en 14 mei 2010. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van verschijning van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van verschijning van de Staatscourant waarin het wordt geplaatst. 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit dat in de Staatscourant zal worden geplaatst.   
 
 ’s-Gravenhage 
@@ -24,4 +24,4 @@ Beatrix
 
 De 
 Minister van Justitie, 
-E.M.H.Hirsch Ballin   
+E.M.H. Hirsch Ballin     

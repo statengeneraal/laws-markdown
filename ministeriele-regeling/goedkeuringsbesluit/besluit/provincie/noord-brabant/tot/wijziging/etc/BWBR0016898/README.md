@@ -6,7 +6,7 @@ De Staatssecretaris van Verkeer en Waterstaat,
 Gelet op [artikel 5 van de Waterschapswet](../../../../../../../../../wet/waterschapswet/BWBR0005108/README.md);
 
 Gezien de brief van Gedeputeerde Staten van Noord-Brabant van 20 april 2004, nr. 989271;
-Besluit:     Goed te keuren het besluit der Staten van de provincie Noord-Brabant van 4 juni 2004, nr. 23/041B, tot: 
+Besluit:    Goed te keuren het besluit der Staten van de provincie Noord-Brabant van 4 juni 2004, nr. 23/041B, tot: 
 
 I. Wijziging van de grens van het waterschap De Dommel nabij Goirle zoals aangegeven op de bij dit besluit behorende kaart;  
 
@@ -22,8 +22,8 @@ I. Wijziging van de grens van het waterschap Brabantse Delta nabij Goirle, zoals
 
 II. Wijziging van het Reglement voor het waterschap Brabantse Delta;  
 
-III. Bepaling omtrent het tijdstip van inwerkingtreding van de besluiten onder I en II of onderdelen daarvan.       
+III. Bepaling omtrent het tijdstip van inwerkingtreding van de besluiten onder I en II of onderdelen daarvan.      
 
 De 
-Staatssecretaris van Verkeer en Waterstaat
-M.H.Schultz van Haegen    
+Staatssecretaris van Verkeer en Waterstaat 
+M.H. Schultz van Haegen      

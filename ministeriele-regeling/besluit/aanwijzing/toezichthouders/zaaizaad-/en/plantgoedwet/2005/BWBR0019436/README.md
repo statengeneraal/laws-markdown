@@ -13,17 +13,17 @@ Besluit:
 
 a. de keurmeesters en controleurs van de Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen;  
 
-b. de keurmeesters en controleurs van de Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw.     
+b. de keurmeesters en controleurs van de Stichting Nederlandse Algemene Kwaliteitsdienst Tuinbouw.    
 
 ### Artikel  2  
 
-Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders Zaaizaad- en plantgoedwet 2005.  
+Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders Zaaizaad- en plantgoedwet 2005. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking op 1 februari 2006.  
+Dit besluit treedt in werking op 1 februari 2006. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Landbouw, Natuur en Voedselkwaliteit, 
-C.P.Veerman   
+Minister van Landbouw, Natuur en Voedselkwaliteit,
+C.P. Veerman     

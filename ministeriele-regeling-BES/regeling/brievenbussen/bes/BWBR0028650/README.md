@@ -8,7 +8,7 @@ Onder brievenbus wordt in deze regeling verstaan een voorziening voor het ontvan
 
 a. een metalen of kunststoffen behuizing met tenminste de volgende afmetingen: 35 cm lengte, 25 cm breedte en 10 cm hoogte;  
 
-b. een gleuf in een deur, houten wand, stenen muur of pilaar met tenminste de volgende afmetingen: 25 cm lengte en 3,2 cm breedte.    
+b. een gleuf in een deur, houten wand, stenen muur of pilaar met tenminste de volgende afmetingen: 25 cm lengte en 3,2 cm breedte.   
 
 ### Artikel  2  
 
@@ -26,7 +26,7 @@ a. ten dienste van galerijflats zijn geplaatst op rechtstreeks met een lift of t
 
 b. ten dienste van alle overige collectieve gebouwen zo dicht mogelijk bij de ingang van dat gebouw zijn aangebracht.     
 6.  Brievenbussen ten dienste van geadresseerden die op recreatieterreinen of binnen een privé-terrein verblijven, dienen groepsgewijs bij de ingang van een zodanig terrein te worden geplaatst. Bij gebreke hiervan kunnen postzendingen door of namens de terreinbeheerder in ontvangst worden genomen of door de geadresseerden op een daartoe door de houder van de concessie aan te wijzen postinrichting worden afgehaald.   
-7.  Het niveau waarop de brievenbussen worden bediend, dient te zijn gelegen tussen 1 en 1,5 meter hoogte gemeten vanaf het grondvlak waarop de postbesteller de brievenbus bedient.   
+7.  Het niveau waarop de brievenbussen worden bediend, dient te zijn gelegen tussen 1 en 1,5 meter hoogte gemeten vanaf het grondvlak waarop de postbesteller de brievenbus bedient.  
 
 ### Artikel  3  
 
@@ -35,16 +35,16 @@ b. ten dienste van alle overige collectieve gebouwen zo dicht mogelijk bij de in
 3.  De brievengleuf of klep dient horizontaal in een verticaal vlak of in het bovenvlak van de brievenbus te zijn aangebracht en dient zich bij voorkeur te bevinden 1,1 meter boven het niveau, waarop de brievenbus wordt bediend, maar in geen geval lager dan 0,6 meter dan wel hoger dan 1,8 meter.   
 4.  De afmetingen van de vrije inwerpopening van een brievengleuf dienen in de lengte ten minste 25 cm te bedragen en in de breedte 3,2 cm.   
 5.  De inwerpopening dient zo te zijn uitgevoerd, dat het bedienen van de brievenbus zonder gevaar voor verwondingen kan geschieden.   
-6.  Indien zich achter de inwerpgleuf een ruimte bevindt, bestemd voor de bewaring van postzendingen, dan dient de inwendige bruikbare breedte ten minste 27 cm te bedragen en de twee andere inwendige bruikbare afmetingen ten minste 15 en 38 cm.   
+6.  Indien zich achter de inwerpgleuf een ruimte bevindt, bestemd voor de bewaring van postzendingen, dan dient de inwendige bruikbare breedte ten minste 27 cm te bedragen en de twee andere inwendige bruikbare afmetingen ten minste 15 en 38 cm.  
 
 ### Artikel  4  
 
-Vervallen.  
+Vervallen. 
 
 ### Artikel  5  
 
-Deze regeling berust op [artikel 9 van de Wet post BES](../../../../../wet-BES/wet/post/bes/BWBR0028263/README.md).  
+Deze regeling berust op [artikel 9 van de Wet post BES](../../../../../wet-BES/wet/post/bes/BWBR0028263/README.md). 
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als: Regeling brievenbussen BES.  
+Deze regeling wordt aangehaald als: Regeling brievenbussen BES. 

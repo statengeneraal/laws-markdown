@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder wet: de [Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md).  
+In deze regeling wordt verstaan onder wet: de [Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md). 
 
 ### Artikel  2  
 
@@ -34,24 +34,24 @@ i. vermelding van de termijnen, bedoeld in [artikel 5.3, derde en vierde lid](..
 
 j. vermelding van de schorsende werking van het verzoek, bedoeld in [artikel 5.3, vijfde lid](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
 
-k. vermelding of de kennisgeving de eerste dan wel de tweede kennisgeving betreft.    
+k. vermelding of de kennisgeving de eerste dan wel de tweede kennisgeving betreft.   
 
 ### Artikel  3  
 
-De schriftelijke kennisgeving wordt door middel van een aangetekende brief met ontvangstbevestiging verstuurd.  
+De schriftelijke kennisgeving wordt door middel van een aangetekende brief met ontvangstbevestiging verstuurd. 
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang van 1 februari 2007.  
+Deze regeling treedt in werking met ingang van 1 februari 2007. 
 
 ### Artikel  5  
 
-Deze regeling wordt aangehaald als: Regeling schriftelijke kennisgeving aanleg kabels.  
+Deze regeling wordt aangehaald als: Regeling schriftelijke kennisgeving aanleg kabels. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 12 december 2006   
 
 De 
-Minister van Economische Zaken, 
-J.G.Wijn   
+Minister van Economische Zaken,
+J.G. Wijn     

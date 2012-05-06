@@ -31,14 +31,14 @@ f. onderzoeker: degene die onderzoek verricht onder verantwoordelijkheid van een
 g. uitdrukkelijke toestemming voor het gebruik van gegevens over doodsoorzaken: de op een duurzame gegevensdrager vastgelegde toestemming van de betrokkene, die gericht is op het gebruik voor wetenschappelijk onderzoek van de doodsoorzaakgegevens die de betrokkene betreffen;  
 
 h. toetsingscommissie: de toetsingscommissie, bedoeld in artikel 3.     
-2.  Voor de toepassing van deze regeling houdt de omschrijving dat een persoon bij een onderzoek betrokken was in dat hij in elk geval uitdrukkelijk toestemming heeft gegeven voor de verwerking van zijn medische gegevens voor dat onderzoek.   
+2.  Voor de toepassing van deze regeling houdt de omschrijving dat een persoon bij een onderzoek betrokken was in dat hij in elk geval uitdrukkelijk toestemming heeft gegeven voor de verwerking van zijn medische gegevens voor dat onderzoek.  
 
 ### Artikel  2  
 
 ####aard gegevensverstrekking
 
 1.  De directeur-generaal maakt voor de verstrekking, bedoeld in [artikel 42a, eerste lid, van de wet](../../../../../../../wet/wet/op/het/centraal/bureau/voor/de/statistiek/BWBR0015926/README.md), uitsluitend gebruik van de gegevens over doodsoorzaken die door het CBS zijn gecodeerd overeenkomstig de richtlijnen van de Wereldgezondheidsorganisatie op basis van de gegevens op het formulier, bedoeld in [artikel 12a van de Wet op de lijkbezorging](../../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md).   
-2.  De directeur-generaal houdt bij zijn besluit op het verzoek om verstrekking rekening met de technische haalbaarheid van de gegevensverstrekking voor het onderzoeksvoorstel.   
+2.  De directeur-generaal houdt bij zijn besluit op het verzoek om verstrekking rekening met de technische haalbaarheid van de gegevensverstrekking voor het onderzoeksvoorstel.  
 
 ### Artikel  3  
 
@@ -70,7 +70,7 @@ b. het adviseren aan de directeur-generaal over het verzoek, op basis van de uit
 10.  De directeur-generaal kan aan de voorzitter en de leden een vacatiegeld toekennen ten laste van het CBS.   
 11.  De toetsingscommissie maakt een jaarverslag dat zij vóór 1 april van het daarop volgende jaar aan de directeur-generaal zendt.   
 12.  De directeur-generaal kan eisen stellen aan de inrichting van het jaarverslag, bedoeld in het elfde lid.   
-13.  De directeur-generaal stelt het jaarverslag, bedoeld in het elfde lid, vast en doet hiervan mededeling in de Staatscourant.   
+13.  De directeur-generaal stelt het jaarverslag, bedoeld in het elfde lid, vast en doet hiervan mededeling in de Staatscourant.  
 
 ### Artikel  4  
 
@@ -82,7 +82,7 @@ b. het adviseren aan de directeur-generaal over het verzoek, op basis van de uit
 4.  De directeur-generaal beslist binnen twee weken na ontvangst van het advies van de toetsingscommissie op de aanvraag.   
 5.  Indien de directeur-generaal besluit de gevraagde gegevens te verstrekken, sluit hij met de organisatie of instelling voor wetenschappelijk onderzoek onder de verantwoordelijkheid waarvan het onderzoek wordt verricht, een overeenkomst over het gebruik van de gegevens. De directeur-generaal zendt een afschrift van de overeenkomst aan de toetsingscommissie.   
 6.  De directeur-generaal verstrekt de gevraagde gegevens binnen vier weken na het sluiten van de overeenkomst.   
-7.  Indien de directeur-generaal besluit de gevraagde gegevens niet te verstrekken, stelt hij de onderzoeker van zijn besluit in kennis en zendt daarvan een afschrift aan de toetsingscommissie.   
+7.  Indien de directeur-generaal besluit de gevraagde gegevens niet te verstrekken, stelt hij de onderzoeker van zijn besluit in kennis en zendt daarvan een afschrift aan de toetsingscommissie.  
 
 ### Artikel  5  
 
@@ -100,7 +100,7 @@ c. de gegevensverzameling van het lopende onderzoek binnen één jaar na het tij
 
 a. het onderzoek draagt naar verwachting bij aan nieuwe wetenschappelijke inzichten;  
 
-b. er is een redelijke mate van waarschijnlijkheid dat de gezondheid van een groep personen van enige omvang wordt bevorderd of beschermd.     
+b. er is een redelijke mate van waarschijnlijkheid dat de gezondheid van een groep personen van enige omvang wordt bevorderd of beschermd.    
 
 ### Artikel  6  
 
@@ -120,31 +120,31 @@ e. de openbaarmaking van de resultaten van het onderzoek;
 
 f. de periode gedurende welke de gegevens gebruikt mogen worden;  
 
-g. de nadere voorwaarden die voortvloeien uit artikel 7.    
+g. de nadere voorwaarden die voortvloeien uit artikel 7.   
 
 ### Artikel  7  
 
 ####beveiliging gegevens
 
-De directeur-generaal vergewist zich ervan dat de onderzoeker de nodige technische en organisatorische voorzieningen heeft getroffen ter beveiliging van de verstrekte gegevens tegen verlies of aantasting en tegen onbevoegde kennisneming, wijziging of een andere vorm van onrechtmatige verwerking.  
+De directeur-generaal vergewist zich ervan dat de onderzoeker de nodige technische en organisatorische voorzieningen heeft getroffen ter beveiliging van de verstrekte gegevens tegen verlies of aantasting en tegen onbevoegde kennisneming, wijziging of een andere vorm van onrechtmatige verwerking. 
 
 ### Artikel  8  
 
 ####evaluatie
 
-De Minister doet na twee jaar na inwerkingtreding van deze regeling een onderzoek naar de doeltreffendheid en de effecten van deze regeling in de praktijk, en maakt de resultaten daarvan bekend in de Staatscourant.  
+De Minister doet na twee jaar na inwerkingtreding van deze regeling een onderzoek naar de doeltreffendheid en de effecten van deze regeling in de praktijk, en maakt de resultaten daarvan bekend in de Staatscourant. 
 
 ### Artikel  9  
 
 ####inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  10  
 
 ####citeertitel
 
-Deze regeling wordt aangehaald als: Regeling verstrekking gegevens doodsoorzaken CBS.  
+Deze regeling wordt aangehaald als: Regeling verstrekking gegevens doodsoorzaken CBS. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -152,4 +152,4 @@ Den Haag
 
 De 
 Staatssecretaris van Economische Zaken, 
-F.Heemskerk   
+F. Heemskerk     

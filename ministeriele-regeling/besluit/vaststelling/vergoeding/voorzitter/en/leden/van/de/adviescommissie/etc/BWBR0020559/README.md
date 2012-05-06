@@ -9,17 +9,17 @@ Besluit:
 ### Artikel  1  
 
 1.  De voorzitter van de Adviescommissie innoWATOR ontvangt voor het bijwonen van een vergadering een vergoeding van € 260,00.   
-2.  De andere leden van de Adviescommissie innoWATOR ontvangen voor het bijwonen van een vergadering een vergoeding van € 200,00.   
+2.  De andere leden van de Adviescommissie innoWATOR ontvangen voor het bijwonen van een vergadering een vergoeding van € 200,00.  
 
 ### Artikel  2  
 
-Voor voorbereidende werkzaamheden in het kader van het beoordelen van subsidieaanvragen op grond van de Subsidieregeling innoWATOR-module van de Experimentele kaderregeling innovatieprojecten ontvangen alle leden van de Adviescommissie innoWATOR een vergoeding, die wordt berekend op basis van een uurtarief dat is gebaseerd op salarisschaal 16 van [Bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en op een voorbereidingstijd van 1,5 uur per aanvraag.  
+Voor voorbereidende werkzaamheden in het kader van het beoordelen van subsidieaanvragen op grond van de Subsidieregeling innoWATOR-module van de Experimentele kaderregeling innovatieprojecten ontvangen alle leden van de Adviescommissie innoWATOR een vergoeding, die wordt berekend op basis van een uurtarief dat is gebaseerd op salarisschaal 16 van [Bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en op een voorbereidingstijd van 1,5 uur per aanvraag. 
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 Den Haag 
 22 november 2006   
 
 De 
-Staatssecretaris van Economische Zaken, namens deze:
+Staatssecretaris van Economische Zaken, namens deze: 
 de directeur-generaal van Ondernemen en Innovatie, 
-Chr.P.Buijink   
+Chr.P.  Buijink     

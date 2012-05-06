@@ -75,4 +75,4 @@ Den Haag
 
 De 
 Staatssecretaris van Economische Zaken, 
-F.Heemskerk   
+F. Heemskerk     

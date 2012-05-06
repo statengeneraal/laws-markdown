@@ -48,7 +48,7 @@ Deze circulaire treedt in werking met ingang van de tweede dag na de dagtekening
 
 De 
 minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J.M.Cramer  
+J.M. Cramer    
 
 ### Bijlage  
 
@@ -63,7 +63,7 @@ In deze bijlage wordt verstaan onder:
 | --- | --- |
 |:---|:---|
 | Innovatieagenda:  | de Innovatieagenda Energie  |
-| Klimaatneutrale stad:  | een gemeente waarbij over een jaar gemeten het fossiele energiegebruik (en de daaraan gerelateerde CO <sub>2</sub> -emissies) binnen het grondgebied van die gemeente ten hoogste nul is.Hierbij kan gebruik worden gemaakt van CO <sub>2</sub> -compensatie en/of opslag van CO <sub>2</sub>.  |
+| Klimaatneutrale stad:  | een gemeente waarbij over een jaar gemeten het fossiele energiegebruik (en de daaraan gerelateerde CO<sub>2</sub>-emissies) binnen het grondgebied van die gemeente ten hoogste nul is.Hierbij kan gebruik worden gemaakt van CO<sub>2</sub>-compensatie en/of opslag van CO<sub>2</sub>.  |
 
 ### 2  
 
@@ -81,7 +81,7 @@ d. de studie binnen een jaar na de datum van de toekenning van de bijdrage wordt
 
 e. de studie betrekking heeft op minimaal twee thema’s uit de innovatieagenda;  
 
-f. de aanvrager bereid is mee te werken aan het kennistraject.      
+f. de aanvrager bereid is mee te werken aan het kennistraject.     
 
 ### 3  
 
@@ -91,13 +91,13 @@ Als kosten die in aanmerking komen voor een bijdrage worden de volgende noodzake
 
 a. loonkosten van degenen die bij de uitvoering van de planstudie betrokken zijn, berekend op basis van het brutoloon van de betrokken medewerkers, verhoogd met de wettelijke dan wel op grond van een collectieve arbeidsovereenkomst verschuldigde opslagen voor sociale lasten, met dien verstande dat wordt uitgegaan van een uurloon, berekend op basis van het jaarloon bij en volledige betrekking, gedeeld door 1600;  
 
-b. aan derden verschuldigde kosten voor ter zake door hen verleende diensten.    
+b. aan derden verschuldigde kosten voor ter zake door hen verleende diensten.   
 
 ### 4  
 
 ####Hoogte van de bijdrage
 
-De bijdrage bedraagt per planstudie minimaal € 50.000,− en maximaal € 150.000,−.  
+De bijdrage bedraagt per planstudie minimaal € 50.000,− en maximaal € 150.000,−. 
 
 ### 5  
 
@@ -115,5 +115,5 @@ e. Bij de aanvraag wordt een begroting gevoegd van de totale kosten van het uitv
 
 f. Er wordt slechts een bijdrage verstrekt indien de gemeente 50% van de kosten voor de planstudie zelf draagt.  
 
-g. Er wordt slechts een bijdrage verstrekt indien aanvrager niet in het kader van een andere regeling van het rijk tot financiële ondersteuning dezelfde kosten heeft opgevoerd, of daarvoor een bijdrage heeft ontvangen.    
+g. Er wordt slechts een bijdrage verstrekt indien aanvrager niet in het kader van een andere regeling van het rijk tot financiële ondersteuning dezelfde kosten heeft opgevoerd, of daarvoor een bijdrage heeft ontvangen.   
 

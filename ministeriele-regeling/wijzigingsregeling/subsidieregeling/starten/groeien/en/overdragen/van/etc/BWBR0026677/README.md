@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Subsidieregeling starten, groeien en overdragen van ondernemingen.   
+Wijzigt de Subsidieregeling starten, groeien en overdragen van ondernemingen. 
 
 ### Artikel  II  
 
@@ -16,11 +16,11 @@ Op aanvragen om subsidie in de vorm van een garantstelling aan een financier, di
 
 a. blijven [artikelen 3.5](../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) en [3.10 van de Subsidieregeling starten, groeien en overdragen van ondernemingen](../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) van toepassing, zoals die onmiddellijk vóór dat tijdstip luidden;  
 
-b. zijn de artikelen 3, sub k, en 4, tweede lid, derde volzin, van de [bijlagen 3.1](../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) en [3.2 van diezelfde regeling](../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) niet van toepassing.    
+b. zijn de artikelen 3, sub k, en 4, tweede lid, derde volzin, van de [bijlagen 3.1](../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) en [3.2 van diezelfde regeling](../../../../../../../../../../ministeriele-regeling/subsidieregeling/starten/groeien/en/overdragen/van/ondernemingen/BWBR0024902/README.md) niet van toepassing.   
 
 ### Artikel  III  
 
-Deze regeling treedt in werking drie weken na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst met uitzondering van de onderdelen D, J en K. Deze treden in werking met ingang van de eerste dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst.  
+Deze regeling treedt in werking drie weken na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst met uitzondering van de onderdelen D, J en K. Deze treden in werking met ingang van de eerste dag na de datum van uitgifte van de Staatscourant waarin zij worden geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -28,4 +28,4 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-M.J.A. van derHoeven   
+M.J.A. van der Hoeven     

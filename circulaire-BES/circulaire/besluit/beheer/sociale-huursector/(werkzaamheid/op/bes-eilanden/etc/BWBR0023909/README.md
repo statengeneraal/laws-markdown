@@ -7,7 +7,11 @@ Met dit schrijven informeer ik u over bepalingen aangaande de uitbreiding van he
 
 ####Investeringsmogelijkheden BES-eilanden
 
+Vervallen per 19-10-2010 
+
 ####Procedure
+
+Vervallen per 19-10-2010 
 
 ### II  
 
@@ -21,7 +25,7 @@ In de [MG 2005-04](../../../../../../../../../../circulaire/circulaire/besluit/b
 | --- | --- |
 | 2. Nederlandse Antillen en Aruba  | Aruba, Bonaire*, Curacao, Saba*, Sint-Eustatius* en Sint Maarten  |
 | --- | --- |
-| 3. Partnerlanden  Landen waarmee Nederland een intensieve ontwikkelingssamenwerkingsrelatie heeft  | Afghanistan, Albanië, Armenië, Bangladesh,  Benin, Bolivia, Bosnië-Herzegovina, Burkina Faso, Colombia, Egypte, Eritrea, Ethiopië,  Georgië, Ghana, Guatemala, Indonesië, Jemen, Kaap Verdië, Kenia, Macedonië, Kosovo, Mali, Moldavië, Mongolië, Mozambique, Nicaragua, Pakistan, Palestijnse gebieden, Rwanda,  Senegal, Sri Lanka, Suriname, Tanzania, Uganda, Vietnam, Zambia en Zuid-Afrika  |
+| 3. Partnerlanden  Landen waarmee Nederland een intensieve ontwikkelingssamenwerkingsrelatie heeft  | Afghanistan, Albanië, Armenië, Bangladesh,   Benin, Bolivia, Bosnië-Herzegovina, Burkina Faso, Colombia, Egypte, Eritrea, Ethiopië,  Georgië, Ghana, Guatemala, Indonesië, Jemen, Kaap Verdië, Kenia, Macedonië, Kosovo, Mali, Moldavië, Mongolië, Mozambique, Nicaragua, Pakistan, Palestijnse gebieden, Rwanda,  Senegal, Sri Lanka, Suriname, Tanzania, Uganda, Vietnam, Zambia en Zuid-Afrika  |
 | --- | --- |
 | 4. MATRA-landen  Het Ministerie van Buitenlandse Zaken verleent subsidies voor institutionele opbouw ter bevordering van goed bestuur en MAatschappelijke TRAnsformatie  | Albanië, Armenië, Belarus, Bosnië-Herzegovina, Georgië, Kroatië, Macedonië, Marokko, Moldavië, Montenegro, Oekraïne, Rusland,  Servië en Turkije  |
 | --- | --- |
@@ -36,4 +40,4 @@ Deze circulaire treedt in werking de tweede dag na de dagtekening van de Staatsc
 
 Hoogachtend, de 
 Minister voor Wonen, Wijken en Integratie, 
-C.P.Vogelaar   
+C.P. Vogelaar     

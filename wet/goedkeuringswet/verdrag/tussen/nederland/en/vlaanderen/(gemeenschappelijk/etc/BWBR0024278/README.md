@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-Het op 21 december 2005 te Middelburg totstandgekomen Verdrag tussen het Koninkrijk der Nederlanden en het Vlaams Gewest inzake het gemeenschappelijk nautisch beheer in het Scheldegebied , waarvan de Nederlandse tekst is geplaatst in Tractatenblad 2005, 312, wordt goedgekeurd voor Nederland.  
+Het op 21 december 2005 te Middelburg totstandgekomen Verdrag tussen het Koninkrijk der Nederlanden en het Vlaams Gewest inzake het gemeenschappelijk nautisch beheer in het Scheldegebied , waarvan de Nederlandse tekst is geplaatst in Tractatenblad 2005, 312, wordt goedgekeurd voor Nederland. 
 
 ### Artikel  2  
 
-Tenzij het desbetreffende besluit afwijkt van de [Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) of tot zodanig afwijken noodzaakt, is de goedkeuring door de Staten-Generaal van besluiten van de Permanente Commissie, bedoeld in artikel 5 van het in artikel 1 genoemde verdrag, niet vereist.  
+Tenzij het desbetreffende besluit afwijkt van de [Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md) of tot zodanig afwijken noodzaakt, is de goedkeuring door de Staten-Generaal van besluiten van de Permanente Commissie, bedoeld in artikel 5 van het in artikel 1 genoemde verdrag, niet vereist. 
 
 ### Artikel  3  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -35,5 +35,5 @@ M. J. M. Verhagen
 
 de *negenentwintigste* juli 2008 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin    

@@ -13,5 +13,5 @@ II. Wijziging van het Reglement voor het Waterschap Regge en Dinkel;
 III. Bepaling van het tijdstip van inwerkingtreding van het onder II genoemde besluit op 1 juli 2004.       
 
 De 
-Staatssecretaris van Verkeer en Waterstaat
-M.H.Schultz van Haegen    
+Staatssecretaris van Verkeer en Waterstaat 
+M.H. Schultz van Haegen      

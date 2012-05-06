@@ -34,27 +34,27 @@ j. Het verstrekken van gegevens uit het Bestand Potentiële Inburgeringsplichtig
 
 k. het afnemen en beoordelen van de korte vrijstellingstoets, bedoeld in [artikel 2.7, vijfde en zesde lid, van het Besluit inburgering](../../../../../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md)  
 
-l. het verstrekken van een document, bedoeld in [artikel 2.7, tweede lid, van het Besluit inburgering](../../../../../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md).    
+l. het verstrekken van een document, bedoeld in [artikel 2.7, tweede lid, van het Besluit inburgering](../../../../../../../../../../../../../AMvB/besluit/inburgering/BWBR0020674/README.md).   
 
 ### Artikel  2  
 
-Aan de Directeur-Generaal van de Dienst Uitvoering Onderwijs wordtmandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken, die betrekking hebben op de afhandeling van administratieve stukken inzake klacht-, bezwaar- en beroepsprocedures, voor zover deze verband houden met de uitoefening van de bevoegdheden, genoemd in artikel 1, en met dien verstande dat hij geen besluit op bezwaar neemt met betrekking tot een bezwaarschrift tegen een besluit dat hij in mandaat heeft genomen.  
+Aan de Directeur-Generaal van de Dienst Uitvoering Onderwijs wordtmandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken, die betrekking hebben op de afhandeling van administratieve stukken inzake klacht-, bezwaar- en beroepsprocedures, voor zover deze verband houden met de uitoefening van de bevoegdheden, genoemd in artikel 1, en met dien verstande dat hij geen besluit op bezwaar neemt met betrekking tot een bezwaarschrift tegen een besluit dat hij in mandaat heeft genomen. 
 
 ### Artikel  3  
 
-De Directeur-Generaal van de Dienst Uitvoering Onderwijs kan met betrekking tot zijn bevoegdheden, genoemd in de artikelen 1 en 2, ondermandaat, volmacht en machtiging in een door hem te bepalen omvang verlenen aan onder hem ressorterende functionarissen, met dien verstande dat hij geen ondermandaat verleent aan de functionaris aan wie door hem ondermandaat tot het nemen van het besluit waartegen het bezwaar zich richt is verleend.  
+De Directeur-Generaal van de Dienst Uitvoering Onderwijs kan met betrekking tot zijn bevoegdheden, genoemd in de artikelen 1 en 2, ondermandaat, volmacht en machtiging in een door hem te bepalen omvang verlenen aan onder hem ressorterende functionarissen, met dien verstande dat hij geen ondermandaat verleent aan de functionaris aan wie door hem ondermandaat tot het nemen van het besluit waartegen het bezwaar zich richt is verleend. 
 
 ### Artikel  4  
 
-Indien uitvoering wordt gegeven aan dit besluit, luidt de ondertekening: De Minister voor Wonen, Wijken en Integratie, voor deze, gevolgd door functieaanduiding, handtekening en naam van de betrokken functionaris.  
+Indien uitvoering wordt gegeven aan dit besluit, luidt de ondertekening: De Minister voor Wonen, Wijken en Integratie, voor deze, gevolgd door functieaanduiding, handtekening en naam van de betrokken functionaris. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van 1 januari 2010.  
+Dit besluit treedt in werking met ingang van 1 januari 2010. 
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging Dienst Uitvoering Onderwijs Wet- en regelgeving inburgering.  
+Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging Dienst Uitvoering Onderwijs Wet- en regelgeving inburgering. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -62,4 +62,4 @@ Den Haag
 
 De 
 Minister voor Wonen, Wijken en Integratie, 
-E.E. van derLaan   
+E.E. van der Laan     

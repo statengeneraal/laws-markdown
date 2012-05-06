@@ -11,53 +11,53 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt het Wetboek van Strafrecht.   
+Wijzigt het Wetboek van Strafrecht. 
 
 ### Artikel  II  
 
-Wijzigt de Leegstandwet.   
+Wijzigt de Leegstandwet. 
 
 ### Artikel  III  
 
-Wijzigt de Huisvestingswet.   
+Wijzigt de Huisvestingswet. 
 
 ### Artikel  IV  
 
-Wijzigt de Wijzigingswet Huisvestingswet (mogelijkheid van bestuurlijke boete voor enkele overtredingen).   
+Wijzigt de Wijzigingswet Huisvestingswet (mogelijkheid van bestuurlijke boete voor enkele overtredingen). 
 
 ### Artikel  V  
 
-Wijzigt het Wetboek van Strafvordering.   
+Wijzigt het Wetboek van Strafvordering. 
 
 ### Artikel  VI  
 
-Wijzigt de Uitleveringswet.   
+Wijzigt de Uitleveringswet. 
 
 ### Artikel  VIA  
 
-Onze Minister van Justitie zendt in overeenstemming met Onze Minister voor Wonen, Wijken en Integratie binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Minister van Justitie zendt in overeenstemming met Onze Minister voor Wonen, Wijken en Integratie binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### Artikel  VII  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  VIII  
 
-Deze wet wordt aangehaald als: Wet kraken en leegstand.  
+Deze wet wordt aangehaald als: Wet kraken en leegstand. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 24 juli 2010  
 Beatrix  
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin   
 
-De Minister voor Wonen, Wijken en Integratie, 
+De Minister voor Wonen, Wijken en Integratie,  
 E. van Middelkoop   
 
 de *zeventiende* augustus 2010 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    

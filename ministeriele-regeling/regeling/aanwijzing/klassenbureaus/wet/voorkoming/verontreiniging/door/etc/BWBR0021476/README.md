@@ -24,21 +24,21 @@ f. ligplaats;
 
 g. letter en nummer, bedoeld in artikel 2 van de Vaartuigenwet 1930 BES;  
 
-h. gegevens met betrekking tot de vergunning, bedoeld in artikel 6 van de Vaartuigenwet 1930 BES.    
+h. gegevens met betrekking tot de vergunning, bedoeld in artikel 6 van de Vaartuigenwet 1930 BES.   
 
 ### Artikel  2  
 
-Op de aanwijzing van rechtspersonen bedoeld in [artikel 8, derde lid, van de Wet voorkoming verontreiniging door schepen](../../../../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md), zijn de [artikelen 2, eerste en tweede lid](../../../../../../../../../../ministeriele-regeling/regeling/klassenbureaus/schepenwet/BWBR0014652/README.md), [4](../../../../../../../../../../ministeriele-regeling/regeling/klassenbureaus/schepenwet/BWBR0014652/README.md) en [5 van de Regeling erkende organisaties Schepenwet](../../../../../../../../../../ministeriele-regeling/regeling/klassenbureaus/schepenwet/BWBR0014652/README.md) van toepassing.  
+Op de aanwijzing van rechtspersonen bedoeld in [artikel 8, derde lid, van de Wet voorkoming verontreiniging door schepen](../../../../../../../../../../wet/wet/voorkoming/verontreiniging/door/schepen/BWBR0003642/README.md), zijn de [artikelen 2, eerste en tweede lid](../../../../../../../../../../ministeriele-regeling/regeling/klassenbureaus/schepenwet/BWBR0014652/README.md), [4](../../../../../../../../../../ministeriele-regeling/regeling/klassenbureaus/schepenwet/BWBR0014652/README.md) en [5 van de Regeling erkende organisaties Schepenwet](../../../../../../../../../../ministeriele-regeling/regeling/klassenbureaus/schepenwet/BWBR0014652/README.md) van toepassing. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  4  
 
-Deze regeling wordt aangehaald als: Regeling aanwijzing klassenbureaus Wet voorkoming verontreiniging door schepen.  
+Deze regeling wordt aangehaald als: Regeling aanwijzing klassenbureaus Wet voorkoming verontreiniging door schepen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Verkeer en Waterstaat, 
-J.C.Huizinga-Heringa   
+J.C. Huizinga-Heringa     

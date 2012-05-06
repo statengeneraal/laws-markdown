@@ -8,15 +8,15 @@ Gelet op artikel 2, eerste lid, onder b, van de Regeling Nadeelcompensatie Betuw
 Gelet op het feit dat in het kader van de aanleg van de Betuweroute het voorgestelde tracé van de Voorstraat, zoals aangegeven op de kaartenset B3, kaartblad 76 behorend bij het Tracébesluit Betuweroute, leidt tot een sociaal en verkeerskundig onveilige situatie;
 Besluit de volgende regeling vast te stellen:    
 
-### Artikel  1  
+###Artikel 1 
 
-De Regeling Nadeelcompensatie Betuweroute is van toepassing op het onherroepelijke bestemmingsplan Betuweroute Veterplus gemeente Echteld, voor zover het betreft het maatregelvlak infrastructuur ter hoogte van Betuweroute-km 64.1 van het tracé van de Betuweroute ten behoeve van de verbindingsweg tussen de Voorstraat en de Prins Willem Alexanderweg in Echteld voor zover dit bestemmingsplan rechtens onaantastbaar is.  
+De Regeling Nadeelcompensatie Betuweroute is van toepassing op het onherroepelijke bestemmingsplan Betuweroute Veterplus gemeente Echteld, voor zover het betreft het maatregelvlak infrastructuur ter hoogte van Betuweroute-km 64.1 van het tracé van de Betuweroute ten behoeve van de verbindingsweg tussen de Voorstraat en de Prins Willem Alexanderweg in Echteld voor zover dit bestemmingsplan rechtens onaantastbaar is. 
 
-### Artikel  2  
+###Artikel 2 
 
-1.  Deze Regeling wordt met de Toelichting in de Staatscourant geplaatst.   
-2.  Deze Regeling treedt in werking met ingang van de dag nadat zij in de Staatscourant bekend is gemaakt.   
+1. Deze Regeling wordt met de Toelichting in de Staatscourant geplaatst.
+2. Deze Regeling treedt in werking met ingang van de dag nadat zij in de Staatscourant bekend is gemaakt. 
 
 De 
-Minister van Verkeer en Waterstaat,
-T.Netelenbos.    
+Ministervan  Verkeer en Waterstaat,
+T.  Netelenbos.      

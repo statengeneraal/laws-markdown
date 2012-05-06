@@ -11,19 +11,19 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-De planologische kernbeslissing Structuurschema groene ruimte (Kamerstukken II 1993/94, 22 880, nr. 39) wordt aangemerkt als geldend plan als bedoeld in [artikel 2a van de Wet op de Ruimtelijke Ordening](../../../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md).  
+De planologische kernbeslissing Structuurschema groene ruimte (Kamerstukken II 1993/94, 22 880, nr. 39) wordt aangemerkt als geldend plan als bedoeld in [artikel 2a van de Wet op de Ruimtelijke Ordening](../../../../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md). 
 
 ### Artikel  2  
 
-Het plan, bedoeld in artikel 1, geldt van 3 oktober 2000 tot vijf jaar na de datum van inwerkingtreding van deze wet, voor zover het niet eerder wordt herzien of ingetrokken.  
+Het plan, bedoeld in artikel 1, geldt van 3 oktober 2000 tot vijf jaar na de datum van inwerkingtreding van deze wet, voor zover het niet eerder wordt herzien of ingetrokken. 
 
 ### Artikel  3  
 
-Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](../../../../../../../wet/tijdelijke/referendumwet/BWBR0012701/README.md) treedt deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Onder toepassing van [artikel 16 van de Tijdelijke referendumwet](../../../../../../../wet/tijdelijke/referendumwet/BWBR0012701/README.md) treedt deze wet in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 ### Artikel  4  
 
-Deze wet wordt aangehaald als: Wet rechtskracht Structuurschema groene ruimte.  
+Deze wet wordt aangehaald als: Wet rechtskracht Structuurschema groene ruimte. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

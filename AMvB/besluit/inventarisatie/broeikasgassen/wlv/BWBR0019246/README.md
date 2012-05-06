@@ -23,25 +23,25 @@ b. Protocol: het op 11 december 1997 te Kyoto tot stand gekomen Protocol van Ky
 
 c. nationale emissie-inventaris: inventaris als bedoeld in artikel 4, eerste lid, onder a, van het Verdrag, van nationale antropogene emissies per bron en verwijdering per put van broeikasgassen, die niet vallen onder het Protocol van Montreal betreffende stoffen die de ozonlaag afbreken (Trb. 1988, 11);  
 
-d. nationaal inventarisatiesysteem: geheel van institutionele, juridische en procedurele voorzieningen als bedoeld in artikel 5, eerste lid, van het Protocol, die in Nederland worden getroffen om de nationale emissie-inventaris op te stellen, te archiveren en openbaar te maken.    
+d. nationaal inventarisatiesysteem: geheel van institutionele, juridische en procedurele voorzieningen als bedoeld in artikel 5, eerste lid, van het Protocol, die in Nederland worden getroffen om de nationale emissie-inventaris op te stellen, te archiveren en openbaar te maken.   
 
 ### Artikel  2  
 
 1.  Er is een nationaal inventarisatiesysteem.   
 2.  Onze Minister is verantwoordelijk voor het nationaal inventarisatiesysteem en de nationale emissie-inventaris.   
-3.  Onze Minister wijst een organisatie aan die het beheer van het nationaal inventarisatiesysteem voert en zorg draagt voor het jaarlijks opstellen, archiveren en openbaar maken van de nationale emissie-inventaris.   
+3.  Onze Minister wijst een organisatie aan die het beheer van het nationaal inventarisatiesysteem voert en zorg draagt voor het jaarlijks opstellen, archiveren en openbaar maken van de nationale emissie-inventaris.  
 
 ### Artikel  3  
 
-Het opstellen van de nationale emissie-inventaris geschiedt overeenkomstig de protocollen inzake broeikasgassen, uitgegeven door het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.  
+Het opstellen van de nationale emissie-inventaris geschiedt overeenkomstig de protocollen inzake broeikasgassen, uitgegeven door het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als: Besluit inventarisatie broeikasgassen Wlv.  
+Dit besluit wordt aangehaald als: Besluit inventarisatie broeikasgassen Wlv. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -54,5 +54,5 @@ P. L. B. A. van Geel
 
 de *tweeëntwintigste* december 2005 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 J. P. H. Donner    

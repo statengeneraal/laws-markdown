@@ -15,12 +15,12 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit voorkoming verontreiniging door schepen.   
+Wijzigt het Besluit voorkoming verontreiniging door schepen. 
 
 ### Artikel  III  
 
 1.  Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.   
-2.  Artikel II vervalt met ingang van 1 augustus 2008.   
+2.  Artikel II vervalt met ingang van 1 augustus 2008.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -28,13 +28,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 24 december 2007  
 Beatrix  
 
-De Staatssecretaris van Verkeer en Waterstaat, 
-J. C.Huizinga-Heringa 
+De Staatssecretaris van Verkeer en Waterstaat , 
+J. C. Huizinga-Heringa   
 
-De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J. M.Cramer 
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer , 
+J. M. Cramer   
 
 de *twaalfde* februari 2008 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

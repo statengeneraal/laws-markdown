@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Als instantie met een rechtmatig belang bij de beëindiging van of het verbieden van intracommunautaire inbreuken als bedoeld in artikel 4, tweede lid, van verordening 2006/2004 wordt de Stichting Reclame Code aangewezen.  
+Als instantie met een rechtmatig belang bij de beëindiging van of het verbieden van intracommunautaire inbreuken als bedoeld in artikel 4, tweede lid, van verordening 2006/2004 wordt de Stichting Reclame Code aangewezen. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Besluit aanwijzing instanties met een rechtmatig belang.  
+Dit besluit wordt aangehaald als: Besluit aanwijzing instanties met een rechtmatig belang. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -31,10 +31,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 14 mei 2007  
 Beatrix  
 
-De Staatssecretaris van Economische Zaken, 
-F.Heemskerk 
+De Staatssecretaris van Economische Zaken , 
+F. Heemskerk   
 
 de *vijfde* juni 2007 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

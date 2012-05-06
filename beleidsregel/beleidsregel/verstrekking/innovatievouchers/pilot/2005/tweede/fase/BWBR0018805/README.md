@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze beleidsregel wordt verstaan onder een samenwerkingsverband: een geen rechtspersoonlijkheid bezittend verband, bestaande uit tenminste drie, niet in een groep verbonden, ondernemers.  
+In deze beleidsregel wordt verstaan onder een samenwerkingsverband: een geen rechtspersoonlijkheid bezittend verband, bestaande uit tenminste drie, niet in een groep verbonden, ondernemers. 
 
 ### Artikel  2  
 
@@ -29,12 +29,12 @@ c. die failliet is verklaard, aan wie surséance van betaling is verleend, ten a
 
 d. die deel uitmaakt van een groep, indien reeds op grond van deze beleidsregel of de [Beleidsregel verstrekking innovatievouchers 2004](../../../../../../../../../beleidsregel/beleidsregel/verstrekking/innovatievouchers/2004/BWBR0017163/README.md) of de Beleidsregel verstrekking innovatievouchers 2005 een innovatievoucher is verstrekt aan een andere ondernemer die deel uitmaakt van dezelfde groep;  
 
-e. die een innovatievoucher heeft gekregen op grond van de [Beleidsregel verstrekking innovatievouchers 2004](../../../../../../../../../beleidsregel/beleidsregel/verstrekking/innovatievouchers/2004/BWBR0017163/README.md) of de Beleidsregel verstrekking innovatievouchers 2005.     
+e. die een innovatievoucher heeft gekregen op grond van de [Beleidsregel verstrekking innovatievouchers 2004](../../../../../../../../../beleidsregel/beleidsregel/verstrekking/innovatievouchers/2004/BWBR0017163/README.md) of de Beleidsregel verstrekking innovatievouchers 2005.    
 
 ### Artikel  3  
 
 1.  De aanvraag door een ondernemer wordt ingediend met gebruikmaking van een formulier, overeenkomstig het model dat is opgenomen in de bij deze beleidsregel behorende bijlage 1 en gaat vergezeld van de bescheiden, overeenkomstig hetgeen in het formulier is vermeld.   
-2.  In geval van een samenwerkingsverband als bedoeld in artikel 2, eerste lid, onder b, dient een der deelnemers namens de overige deelnemers in het samenwerkingsverband de aanvraag voor het samenwerkingsverband in, met gebruikmaking van een formulier, overeenkomstig het model dat is opgenomen in de bij deze beleidsregel behorende bijlage 2 en gaat de aanvraag vergezeld van bewijsstukken van het bestaan van dit samenwerkingsverband, alsmede de bescheiden, overeenkomstig hetgeen in het formulier is vermeld.   
+2.  In geval van een samenwerkingsverband als bedoeld in artikel 2, eerste lid, onder b, dient een der deelnemers namens de overige deelnemers in het samenwerkingsverband de aanvraag voor het samenwerkingsverband in, met gebruikmaking van een formulier, overeenkomstig het model dat is opgenomen in de bij deze beleidsregel behorende bijlage 2 en gaat de aanvraag vergezeld van bewijsstukken van het bestaan van dit samenwerkingsverband, alsmede de bescheiden, overeenkomstig hetgeen in het formulier is vermeld.  
 
 ### Artikel  4  
 
@@ -47,24 +47,24 @@ b. 150 innovatievouchers beschikbaar voor ondernemers als bedoeld in artikel 2, 
 3.  De minister verdeelt de beschikbare innovatievouchers in de volgorde van ontvangst van de aanvragen, met dien verstande dat indien een aanvrager niet heeft voldaan aan enig voorschrift voor het in behandeling nemen van de aanvraag en met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag voldoet aan de voorschriften met betrekking tot de verdeling als datum van ontvangst geldt.   
 4.  Indien honorering van alle aanvragen die op één dag zijn ontvangen ertoe zou leiden dat het beschikbare aantal innovatievouchers zou worden overschreden, stelt de minister de onderlinge rangschikking van deze aanvragen vast door middel van loting.   
 5.  In het geval de aanvraag is ingediend op de in artikel 3, tweede lid, aangegeven wijze en honorering van de aanvraag van dat samenwerkingsverband zou leiden tot overschrijding van het op grond van het eerste lid, onder b, beschikbare aantal innovatievouchers, worden de deelnemers in het desbetreffende samenwerkingsverband in de gelegenheid gesteld aan te geven of zij het aantal innovatievouchers zodanig wensen te verminderen, dat binnen het resterende aantal beschikbare innovatievouchers wordt gebleven. Indien de deelnemers in het samenwerkingsverband van deze gelegenheid geen gebruik maken of indien het resterende aantal innovatievouchers minder dan drie bedraagt, wordt de aanvraag van dat samenwerkingsverband afgewezen.   
-6.  Indien na afloop van de termijn, genoemd in het tweede lid, blijkt dat niet alle innovatievouchers voor een categorie ondernemers, bedoeld in het eerste lid, onder a of b, zijn verstrekt, worden de resterende innovatievouchers toegevoegd aan het beschikbare aantal vouchers voor de andere categorie ondernemers. Zij zullen, op de wijze als in dit artikel bepaald, worden verdeeld onder de ondernemers die reeds een aanvraag om een innovatievoucher hadden ingediend, maar voor wie eerder, na toepassing van het eerste tot en met vijfde lid, onvoldoende vouchers beschikbaar waren.   
+6.  Indien na afloop van de termijn, genoemd in het tweede lid, blijkt dat niet alle innovatievouchers voor een categorie ondernemers, bedoeld in het eerste lid, onder a of b, zijn verstrekt, worden de resterende innovatievouchers toegevoegd aan het beschikbare aantal vouchers voor de andere categorie ondernemers. Zij zullen, op de wijze als in dit artikel bepaald, worden verdeeld onder de ondernemers die reeds een aanvraag om een innovatievoucher hadden ingediend, maar voor wie eerder, na toepassing van het eerste tot en met vijfde lid, onvoldoende vouchers beschikbaar waren.  
 
 ### Artikel  5  
 
 1.  De minister geeft een beschikking binnen zes weken na ontvangst van de aanvraag.   
-2.  In afwijking van het eerste lid kan de minister de beslissing op aanvragen van ondernemers voor wie na toepassing van artikel 4, eerste tot en met vijfde lid, onvoldoende innovatievouchers beschikbaar waren, aanhouden in afwachting van de toepassing van artikel 4, zesde lid.   
+2.  In afwijking van het eerste lid kan de minister de beslissing op aanvragen van ondernemers voor wie na toepassing van artikel 4, eerste tot en met vijfde lid, onvoldoende innovatievouchers beschikbaar waren, aanhouden in afwachting van de toepassing van artikel 4, zesde lid.  
 
 ### Artikel  6  
 
-Een op basis van deze beleidsregel verstrekte innovatievoucher kan tot 1 maart 2006 bij een kennisinstelling worden ingeleverd.  
+Een op basis van deze beleidsregel verstrekte innovatievoucher kan tot 1 maart 2006 bij een kennisinstelling worden ingeleverd. 
 
 ### Artikel  7  
 
-Deze beleidsregel treedt in werking met ingang van 17 oktober 2005.  
+Deze beleidsregel treedt in werking met ingang van 17 oktober 2005. 
 
 ### Artikel  8  
 
-Deze beleidsregel wordt aangehaald als: Beleidsregel verstrekking innovatievouchers pilot 2005 tweede fase.  
+Deze beleidsregel wordt aangehaald als: Beleidsregel verstrekking innovatievouchers pilot 2005 tweede fase. 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen, die ter inzage worden gelegd bij SenterNovem, Juliana van Stolberglaan 3 te Den Haag.   
 
 Den Haag 
@@ -72,12 +72,12 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-L.J.Brinkhorst  
+L.J. Brinkhorst    
 
-### Bijlage  1  
+###Bijlage 1 
 
-Ligt ter inzage bij SenterNovem te Den Haag.  
+Ligt ter inzage bij SenterNovem te Den Haag.
 
-### Bijlage  2  
+###Bijlage 2 
 
-Ligt ter inzage bij SenterNovem te Den Haag.  
+Ligt ter inzage bij SenterNovem te Den Haag.

@@ -22,7 +22,7 @@ In dit besluit wordt verstaan onder Onze Minister:
 
 a. in hoofdstuk 2: Onze Minister van Justitie;  
 
-b. in hoofdstuk 3: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.    
+b. in hoofdstuk 3: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.   
 
 ### Hoofdstuk  2  
 
@@ -31,29 +31,29 @@ b. in hoofdstuk 3: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
 ### Artikel  2  
 
 1.  Het Staatsblad wordt uitgegeven op door Onze Minister te bepalen tijdstippen op een bij ministeriële regeling te bepalen internetadres.   
-2.  Op het Staatsblad wordt vermeld wanneer het is uitgegeven.   
+2.  Op het Staatsblad wordt vermeld wanneer het is uitgegeven.  
 
 ### Artikel  3  
 
-Onze Minister draagt er zorg voor dat het Staatsblad na de uitgifte elektronisch op een algemeen toegankelijke wijze beschikbaar blijft.  
+Onze Minister draagt er zorg voor dat het Staatsblad na de uitgifte elektronisch op een algemeen toegankelijke wijze beschikbaar blijft. 
 
 ### Artikel  4  
 
 1.  Onze Minister draagt er zorg voor dat de nodige maatregelen worden getroffen ter waarborging van de betrouwbaarheid en de beveiliging van de uitgifte en de beschikbaarstelling van het Staatsblad.   
-2.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het eerste lid.   
+2.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het eerste lid.  
 
 ### Artikel  5  
 
-In het Staatsblad wordt opgenomen al hetgeen waarvan een wet of koninklijk besluit bekendmaking in het Staatsblad voorschrijft, alsmede datgene wat in verband hiermee naar het oordeel van Onze Minister moet worden vermeld.  
+In het Staatsblad wordt opgenomen al hetgeen waarvan een wet of koninklijk besluit bekendmaking in het Staatsblad voorschrijft, alsmede datgene wat in verband hiermee naar het oordeel van Onze Minister moet worden vermeld. 
 
 ### Artikel  6  
 
 1.  Wetten en koninklijke besluiten die in het Staatsblad moeten worden geplaatst, worden daartoe na de in [artikel 47 van de Grondwet](../../../wet/grondwet/BWBR0001840/README.md) bedoelde ondertekening aan Onze Minister toegezonden.   
-2.  De als eerste ondertekenende minister of staatssecretaris draagt er zorg voor dat de toezending op een zodanig tijdstip en op zodanige wijze plaatsvindt dat plaatsing in het Staatsblad tijdig kan geschieden.   
+2.  De als eerste ondertekenende minister of staatssecretaris draagt er zorg voor dat de toezending op een zodanig tijdstip en op zodanige wijze plaatsvindt dat plaatsing in het Staatsblad tijdig kan geschieden.  
 
 ### Artikel  7  
 
-Wetten en koninklijke besluiten worden na plaatsing in het Staatsblad door Onze Minister teruggezonden aan het Kabinet der Koningin.  
+Wetten en koninklijke besluiten worden na plaatsing in het Staatsblad door Onze Minister teruggezonden aan het Kabinet der Koningin. 
 
 ### Hoofdstuk  3  
 
@@ -62,16 +62,16 @@ Wetten en koninklijke besluiten worden na plaatsing in het Staatsblad door Onze 
 ### Artikel  8  
 
 1.  De Staatscourant wordt uitgegeven op door Onze Minister te bepalen tijdstippen op een bij ministeriële regeling te bepalen internetadres.   
-2.  Op de Staatscourant wordt vermeld wanneer zij is uitgegeven.   
+2.  Op de Staatscourant wordt vermeld wanneer zij is uitgegeven.  
 
 ### Artikel  9  
 
-Onze Minister draagt er zorg voor dat de Staatscourant na de uitgifte elektronisch op een algemeen toegankelijke wijze beschikbaar blijft.  
+Onze Minister draagt er zorg voor dat de Staatscourant na de uitgifte elektronisch op een algemeen toegankelijke wijze beschikbaar blijft. 
 
 ### Artikel  10  
 
 1.  Onze Minister draagt er zorg voor dat de nodige maatregelen worden getroffen ter waarborging van de betrouwbaarheid en de beveiliging van de uitgifte en de beschikbaarstelling van de Staatscourant.   
-2.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het eerste lid.   
+2.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het eerste lid.  
 
 ### Artikel  11  
 
@@ -80,11 +80,11 @@ Onze Minister draagt er zorg voor dat de Staatscourant na de uitgifte elektronis
 a. al hetgeen waarvan een wet, koninklijk besluit of ministerieel besluit bekendmaking of mededeling in de Staatscourant voorschrijft;  
 
 b. publicaties, afkomstig van de centrale overheid.     
-2.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent publicaties als bedoeld in het eerste lid, onderdeel b.   
+2.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent publicaties als bedoeld in het eerste lid, onderdeel b.  
 
 ### Artikel  12  
 
-De eerste ondertekenaar van een publicatie als bedoeld in artikel 11, eerste lid, bepaalt het tijdstip van plaatsing van de publicatie in de Staatscourant en draagt er zorg voor dat de toezending op een zodanig tijdstip en op zodanige wijze plaatsvindt dat de plaatsing tijdig kan geschieden.  
+De eerste ondertekenaar van een publicatie als bedoeld in artikel 11, eerste lid, bepaalt het tijdstip van plaatsing van de publicatie in de Staatscourant en draagt er zorg voor dat de toezending op een zodanig tijdstip en op zodanige wijze plaatsvindt dat de plaatsing tijdig kan geschieden. 
 
 ### Hoofdstuk  4  
 
@@ -103,7 +103,7 @@ c. wetten inzake de begroting, bedoeld in [artikel 105, eerste lid, van de Grond
 
 d. wetten die uitsluitend strekken tot goedkeuring van verdragen;  
 
-e. bijlagen als bedoeld in [artikel 5, eerste lid, van de Bekendmakingswet](../../../wet/bekendmakingswet/BWBR0004287/README.md).     
+e. bijlagen als bedoeld in [artikel 5, eerste lid, van de Bekendmakingswet](../../../wet/bekendmakingswet/BWBR0004287/README.md).    
 
 ### Hoofdstuk  5  
 
@@ -111,15 +111,15 @@ e. bijlagen als bedoeld in [artikel 5, eerste lid, van de Bekendmakingswet](../.
 
 ### Artikel  14  
 
-Het [Besluit uitgifte Staatsblad en Staatscourant](../../../AMvB/besluit/uitgifte/staatsblad/en/staatscourant/BWBR0004484/README.md) wordt ingetrokken.  
+Het [Besluit uitgifte Staatsblad en Staatscourant](../../../AMvB/besluit/uitgifte/staatsblad/en/staatscourant/BWBR0004484/README.md) wordt ingetrokken. 
 
 ### Artikel  15  
 
-Dit besluit treedt in werking op het tijdstip waarop [artikel I van de Wet elektronische bekendmaking](../../../wet/wet/elektronische/bekendmaking/BWBR0024913/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop [artikel I van de Wet elektronische bekendmaking](../../../wet/wet/elektronische/bekendmaking/BWBR0024913/README.md) in werking treedt. 
 
 ### Artikel  16  
 
-Dit besluit wordt aangehaald als: Bekendmakingsbesluit.  
+Dit besluit wordt aangehaald als: Bekendmakingsbesluit. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -127,13 +127,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 21 januari 2009  
 Beatrix  
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin   
 
-De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, 
+De Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties,  
 A. Th. B. Bijleveld-Schouten   
 
 de *derde* februari 2009 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    

@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet educatie en beroepsonderwijs.   
+Wijzigt de Wet educatie en beroepsonderwijs. 
 
 ### Artikel  II  
 
-Wijzigt de Wet op het onderwijstoezicht.   
+Wijzigt de Wet op het onderwijstoezicht.
 
 ### Artikel  III  
 
-Wijzigt de Kaderwet LNV-subsidies.   
+Wijzigt de Kaderwet LNV-subsidies. 
 
 ### Artikel  IV  
 
@@ -56,18 +56,18 @@ g. de Faculteit Diergeneeskunde Universiteit Utrecht, en
 
 h. buitenlandse studenten.     
 5.  Onze Minister van Landbouw, Natuur en Voedselkwaliteit bepaalt de hoogte van het overgangsbudget aan de hand van het bedrag van de, tot het tijdstip van inwerkingtreding van dit wetsvoorstel, laatst vastgestelde rijksbijdrage voor de agrarische innovatie- en praktijkcentra, welke in maximaal 4 jaar wordt afgebouwd tot een bedrag van 0 euro.   
-6.  Onze Minister van Landbouw, Natuur en Voedselkwaliteit kan aan het verstrekken van de financiële bijdrage nadere voorwaarden verbinden.   
+6.  Onze Minister van Landbouw, Natuur en Voedselkwaliteit kan aan het verstrekken van de financiële bijdrage nadere voorwaarden verbinden.  
 
 ### Artikel  V  
 
 1.  Vanaf het tijdstip van inwerkingtreding van deze wet legt het bestuur van de rechtspersoon waarvan een agrarisch innovatie- en praktijkcentrum uitgaat in de jaarrekening zichtbaar verantwoording af aan Onze Minister van Landbouw, Natuur en Voedselkwaliteit over het financiële beheer van het agrarisch innovatie- en praktijkcentrum voor zover het betreft de financiële bijdrage als bedoeld in artikel IV. Uit de jaarrekening blijkt dat sprake is van een rechtmatige aanwending van de financiële bijdrage. Van een rechtmatige besteding is slechts sprake wanneer is voldaan aan de in of op grond van artikel IV gestelde voorwaarden.   
 2.  Het bestuur van de rechtspersoon waarvan een agrarisch innovatie- en praktijkcentrum uitgaat dient de jaarrekening voor 1 juli van het jaar volgend op het boekjaar bij Onze Minister van Landbouw, Natuur en Voedselkwaliteit in.   
 3.  De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid en rechtmatigheid, afgegeven door een door het bestuur aangewezen accountant als bedoeld in [artikel 393, eerste lid, van Boek 2, van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
-4.  Indien de bijdrage in de personele kosten de daadwerkelijk te maken personele kosten overschrijdt dan wel indien het overgangsbudget de daadwerkelijk te maken kosten voor het verzorgen van de onderwijsactiviteiten overschrijdt, wordt door de rechtspersoon waarvan een agrarisch innovatie- en praktijkcentrum uitgaat het teveel aan uitgekeerde gelden niet later dan een jaar na indiening van de laatste jaarrekening, bedoeld in het vorige lid, terugbetaald aan Onze Minister van Landbouw, Natuur en Voedselkwaliteit.   
+4.  Indien de bijdrage in de personele kosten de daadwerkelijk te maken personele kosten overschrijdt dan wel indien het overgangsbudget de daadwerkelijk te maken kosten voor het verzorgen van de onderwijsactiviteiten overschrijdt, wordt door de rechtspersoon waarvan een agrarisch innovatie- en praktijkcentrum uitgaat het teveel aan uitgekeerde gelden niet later dan een jaar na indiening van de laatste jaarrekening, bedoeld in het vorige lid, terugbetaald aan Onze Minister van Landbouw, Natuur en Voedselkwaliteit.  
 
 ### Artikel  VI  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -75,13 +75,13 @@ Gegeven te ’s-Gravenhage
 6 december 2006  
 Beatrix  
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit, 
-C. P.Veerman 
+De Minister van Landbouw, Natuur en Voedselkwaliteit , 
+C. P. Veerman   
 
-De Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 
-B. J.Bruins 
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap , 
+B. J. Bruins   
 
 de *drieëntwintigste* januari 2007 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

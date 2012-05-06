@@ -68,16 +68,16 @@ bb. [Besluit van de Minister van Verkeer en Waterstaat van 5 januari 1999, nr.�
 
 cc. [Besluit van de Minister van Verkeer en Waterstaat van 21 november 1997, nr. DGG/G/J97009559](../../../../../ministeriele-regeling/mandaatverlening/aan/senter/BWBR0009030/README.md), tot verlening van mandaat aan Senter (Stcrt. 230); en  
 
-dd. [Besluit van de Minister van Verkeer en Waterstaat van 11 mei 1999, nr. CDJZ/WVW/1999-630](../../../../../ministeriele-regeling/verlening/mandaat/en/machtiging/aan/senter/BWBR0010457/README.md), tot verlening van mandaat en machtiging aan Senter (Stcrt. 90).    
+dd. [Besluit van de Minister van Verkeer en Waterstaat van 11 mei 1999, nr. CDJZ/WVW/1999-630](../../../../../ministeriele-regeling/verlening/mandaat/en/machtiging/aan/senter/BWBR0010457/README.md), tot verlening van mandaat en machtiging aan Senter (Stcrt. 90).   
 
 ### Artikel  II  
 
 ####Overgangsrecht
 
 1.  Voorzover er terzake nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van bezwaar- en beroepsprocedures, vindt deze overeenkomstig de besluiten, bedoeld in artikel I, plaats.   
-2.  Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen besluiten, bedoeld in artikel I, blijven in stand.   
+2.  Bestaande aanspraken en verplichtingen bij, op grond of in het kader van de regelingen besluiten, bedoeld in artikel I, blijven in stand.  
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 De 
-Minister van Verkeer en Waterstaat
-K.M.H.Peijs    
+Minister van Verkeer en Waterstaat 
+K.M.H. Peijs      

@@ -14,61 +14,75 @@ Gezien het nader rapport van Onze Minister van Justitie van 07 juni 2010, nr. 
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 01-07-2012 
 
-Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.   
+Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 01-07-2012 
 
-Wijzigt het Besluit BIBOB.   
+Wijzigt het Besluit BIBOB. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 01-07-2012 
 
-Wijzigt het Besluit eigen bijdrage rechtsbijstand.   
+Wijzigt het Besluit eigen bijdrage rechtsbijstand. 
 
 ### Artikel  IV  
+Materieel uitgewerkt per 01-07-2012 
 
-Wijzigt het Besluit gebruik sofi-nummer Wbp.   
+Wijzigt het Besluit gebruik sofi-nummer Wbp. 
 
 ### Artikel  V  
+Materieel uitgewerkt per 01-07-2012 
 
-Wijzigt het Reglement justitiële jeugdinrichtingen.   
+Wijzigt het Reglement justitiële jeugdinrichtingen. 
 
 ### Artikel  VI  
+Materieel uitgewerkt per 01-07-2012 
 
-Wijzigt het Besluit subsidie bewindvoerder schuldsanering.   
+Wijzigt het Besluit subsidie bewindvoerder schuldsanering. 
 
 ### Artikel  VII  
+Materieel uitgewerkt per 01-07-2012 
 
-Wijzigt het Subsidiebesluit raden voor rechtsbijstand.   
+Wijzigt het Subsidiebesluit raden voor rechtsbijstand. 
 
 ### Artikel  VIII  
+Materieel uitgewerkt per 01-07-2012 
 
-Wijzigt het Besluit toevoeging mediation.   
+Wijzigt het Besluit toevoeging mediation. 
 
 ### Artikel  IX  
+Materieel uitgewerkt per 01-07-2012 
 
-Wijzigt het Besluit vergoedingen rechtsbijstand 2000.   
+Wijzigt het Besluit vergoedingen rechtsbijstand 2000. 
 
 ### Artikel  X  
+Materieel uitgewerkt per 01-07-2012 
 
-Wijzigt de Vergoedingenregeling Raad voor Rechtsbijstand.   
+Wijzigt de Vergoedingenregeling Raad voor Rechtsbijstand. 
 
 ### Artikel  XI  
+Materieel uitgewerkt per 01-07-2012 
 
-Wijzigt het Aanwijzingsbesluit Raad voor Rechtsbijstand, 's-Hertogenbosch, als bestuursorgaan waaraan gegevens ten behoeve van register als bedoeld in artikel 294, eerste lid, Faillissementswet dienen te worden doorgegeven.   
+Wijzigt het Aanwijzingsbesluit Raad voor Rechtsbijstand, 's-Hertogenbosch, als bestuursorgaan waaraan gegevens ten behoeve van register als bedoeld in artikel 294, eerste lid, Faillissementswet dienen te worden doorgegeven. 
 
 ### Artikel  XII  
+Materieel uitgewerkt per 01-07-2012 
 
-Het [Besluit van 16 december 1992, houdende regels voor de vergoeding die een advocaat ontvangt voor rechtsbijstand ingevolge het bepaalde in artikel 817 Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../AMvB/besluit/regels/vergoeding/advocaat/voor/rechtsbijstand/ex/artikel/817/etc/BWBR0005767/README.md), wordt ingetrokken.  
+Het [Besluit van 16 december 1992, houdende regels voor de vergoeding die een advocaat ontvangt voor rechtsbijstand ingevolge het bepaalde in artikel 817 Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../AMvB/besluit/regels/vergoeding/advocaat/voor/rechtsbijstand/ex/artikel/817/etc/BWBR0005767/README.md), wordt ingetrokken. 
 
 ### Artikel  XIII  
+Materieel uitgewerkt per 01-07-2012 
 
 1.  Dit besluit en de [Wet van 17 december 2009 tot aanpassing van de Wet op de rechtsbijstand in verband met de bestuurlijke centralisatie van de raden voor rechtsbijstand](../../../../../../../../wet/aanpassingswet/wet/op/de/rechtsbijstand/(bestuurlijke/centralisatie/raden/etc/BWBR0027058/README.md) (Stb. 2010, 2) treden in werking op 1 juli 2010.   
-2.  Artikel I, onderdeel A, onder 2, werkt terug tot en met 1 januari 2010.   
+2.  Artikel I, onderdeel A, onder 2, werkt terug tot en met 1 januari 2010.  
 
 ### Artikel  XIV  
+Materieel uitgewerkt per 01-07-2012 
 
-Dit besluit wordt aangehaald als: Besluit bestuurlijke centralisatie raden voor rechtsbijstand.  
+Dit besluit wordt aangehaald als: Besluit bestuurlijke centralisatie raden voor rechtsbijstand. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

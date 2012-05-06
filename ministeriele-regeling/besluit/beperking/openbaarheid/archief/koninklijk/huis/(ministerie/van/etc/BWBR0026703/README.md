@@ -28,4 +28,4 @@ Den Haag
 De 
 Minister van Justitie, namens deze: de 
 Secretaris-Generaal, 
-J.Demmink   
+J. Demmink     

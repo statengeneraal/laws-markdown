@@ -19,11 +19,11 @@ De verplichting tot waarborging, bedoeld in [artikel 5, eerste lid, van de wet](
 
 a. gouden werken, waarvan de totale massa aan goud minder dan 1 gram bedraagt;  
 
-b. zilveren werken, waarvan de totale massa aan zilver minder dan 8 gram bedraagt.    
+b. zilveren werken, waarvan de totale massa aan zilver minder dan 8 gram bedraagt.   
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -31,7 +31,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 8 oktober 2005  
 Beatrix  
 
-De Staatssecretaris van Economische Zaken 
+De Staatssecretaris van Economische Zaken  
 C. E. G. van Gennip   
 
 de *zevenentwintigste* oktober 2005 

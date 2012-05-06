@@ -18,11 +18,11 @@ Het opstellen en uitgeven van wind- en stormwaarschuwingen is opgedragen aan het
 
 De waarschuwingen worden bekend gemaakt door middel van 
 
-a. radiocommunicatiemiddelen;  
+a.  radiocommunicatiemiddelen; 
 
-b. visuele seinen;  
+b.  visuele seinen; 
 
-c. andere daartoe geëigende communicatiemiddelen. De redactie van de bekendmakingen die via woord, geschrift of beeld worden verspreid, wordt vastgesteld door het K.N.M.I., zulks in overleg met de betrokken instanties.    
+c.  andere daartoe geëigende communicatiemiddelen. De redactie van de bekendmakingen die via woord, geschrift of beeld worden verspreid, wordt vastgesteld door het K.N.M.I., zulks in overleg met de betrokken instanties.   
 
 ### Artikel  4  
 
@@ -44,9 +44,9 @@ Het opstellen en uitgeven van de weerbulletins genoemd in artikel 6 is opgedrage
 
 De berichten worden bekend gemaakt door middel van 
 
-a. radiocommunicatiemiddelen;  
+a.  radiocommunicatiemiddelen; 
 
-b. andere daartoe geëigende communicatiemiddelen. De redactie van de weerbulletins die via woord, geschrift of beeld worden verspreid, wordt vastgesteld door het K.N.M.I., zulks in overleg met betrokken instanties.    
+b.  andere daartoe geëigende communicatiemiddelen. De redactie van de weerbulletins die via woord, geschrift of beeld worden verspreid, wordt vastgesteld door het K.N.M.I., zulks in overleg met betrokken instanties.   
 
 ### Artikel  9  
 
@@ -56,13 +56,13 @@ De bekendmaking van de weerbulletins via radiocommunicatiemiddelen is opgedragen
 
 In de door de Chef der Hydrografie uitgegeven `The Netherlands Coast Pilots' is een beschrijving opgenomen van: 
 
-a. de wind- en stormwaarschuwingsdienst waarin de onder artikel 1 en 2 genoemde begrippen en gebieden zijn omschreven;  
+a.  de wind- en stormwaarschuwingsdienst waarin de onder artikel 1 en 2 genoemde begrippen en gebieden zijn omschreven; 
 
-b. de in artikel 3, 4 en 5 genoemde bekendmakingen, alsmede de wijzen waarop deze worden uitgevoerd;  
+b.  de in artikel 3, 4 en 5 genoemde bekendmakingen, alsmede de wijzen waarop deze worden uitgevoerd; 
 
-c. de in artikel 6 en 7 genoemde weerbulletins waarin de genoemde begrippen en gebieden zijn omschreven;  
+c.  de in artikel 6 en 7 genoemde weerbulletins waarin de genoemde begrippen en gebieden zijn omschreven; 
 
-d. de in artikel 8 en 9 genoemde bekendmakingen, alsmede de wijzen waarop deze worden uitgevoerd. Wijzigingen in genoemde beschrijvingen kunnen ingevoerd worden na overleg met betrokken instanties binnen het IDON-overleg. De wijzigingen worden bekend gemaakt in de `Berichten aan Zeevarenden' van de Dienst der Hydrografie van de Koninklijke Marine.    
+d.  de in artikel 8 en 9 genoemde bekendmakingen, alsmede de wijzen waarop deze worden uitgevoerd. Wijzigingen in genoemde beschrijvingen kunnen ingevoerd worden na overleg met betrokken instanties binnen het IDON-overleg. De wijzigingen worden bekend gemaakt in de `Berichten aan Zeevarenden' van de Dienst der Hydrografie van de Koninklijke Marine.   
 
 ### Artikel  11  
 
@@ -78,11 +78,11 @@ Deze beschikking treedt in de plaats van de beschikking van de Ministers van Ver
 
 ### Artikel  14  
 
-Deze beschikking treedt in werking met ingang van heden en zal worden gepubliceerd in de Nederlandse Staatscourant.  
+Deze beschikking treedt in werking met ingang van heden en zal worden gepubliceerd in de Nederlandse Staatscourant. 
 
 De 
-Staatssecretaris van Verkeer en Waterstaat, 
-J.M.de Vries 
+Staatssecretaris van Verkeer en Waterstaat,
+J.M.  de Vries   
 
 De 
-Staatssecretaris van Defensie,    
+Staatssecretaris van Defensie,   

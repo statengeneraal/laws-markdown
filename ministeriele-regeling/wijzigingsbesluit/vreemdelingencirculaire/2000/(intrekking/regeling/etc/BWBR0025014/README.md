@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Vreemdelingencirculaire 2000 (B).   
+Wijzigt de Vreemdelingencirculaire 2000 (B). 
 
 ### Artikel  II  
 
@@ -21,11 +21,11 @@ b. ten aanzien van wie bij de IND voor de inwerkingtreding bekend is dat de burg
 c. die voor de inwerkingtreding van dit besluit een aanvraag voor een verblijfsvergunning op grond van die paragraaf hebben ingediend;  
 
 d. die tijdig bezwaar hebben aangetekend tegen het besluit, dan wel de feitelijke handeling waarbij is geoordeeld dat er geen grond bestond een verblijfsvergunning op grond van de regeling te verlenen.     
-2.  In de gevallen waarin de ambtshalve beoordeling niet heeft geleid tot een kennisgeving van de feitelijke handeling waarbij is geoordeeld dat er geen grond bestond een verblijfsvergunning op grond van de regeling te verlenen, is het eerste lid, onder d, slechts van toepassing, indien de vreemdeling binnen vier weken na de inwerkingtreding van dit besluit heeft verzocht om bekendmaking van die beoordeling.   
+2.  In de gevallen waarin de ambtshalve beoordeling niet heeft geleid tot een kennisgeving van de feitelijke handeling waarbij is geoordeeld dat er geen grond bestond een verblijfsvergunning op grond van de regeling te verlenen, is het eerste lid, onder d, slechts van toepassing, indien de vreemdeling binnen vier weken na de inwerkingtreding van dit besluit heeft verzocht om bekendmaking van die beoordeling.  
 
 ### Artikel  III  
 
-Dit besluit treedt in werking op 1 januari 2009.  
+Dit besluit treedt in werking op 1 januari 2009. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -34,4 +34,4 @@ Den Haag
 De 
 Staatssecretaris van Justitie, namens deze, de 
 directeur-generaal Wetgeving, Internationale Aangelegenheden en Vreemdelingenzaken, 
-R.K.Visser   
+R.K. Visser     

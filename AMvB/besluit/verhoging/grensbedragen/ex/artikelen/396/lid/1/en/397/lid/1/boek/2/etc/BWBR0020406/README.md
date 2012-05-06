@@ -17,19 +17,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Wijzigt het Burgerlijk Wetboek Boek 2.   
+Wijzigt het Burgerlijk Wetboek Boek 2. 
 
 ### Artikel  2  
 
-Wijzigt het Burgerlijk Wetboek Boek 2.   
+Wijzigt het Burgerlijk Wetboek Boek 2. 
 
 ### Artikel  3  
 
-Dit besluit is van toepassing op jaarrekeningen en jaarverslagen die worden opgesteld over de boekjaren die zijn aangevangen op of na 1 januari 2007. De bepalingen van dit besluit kunnen worden toegepast op de jaarrekening en het jaarverslag die worden opgesteld over het boekjaar dat is aangevangen op of na 1 januari 2006.  
+Dit besluit is van toepassing op jaarrekeningen en jaarverslagen die worden opgesteld over de boekjaren die zijn aangevangen op of na 1 januari 2007. De bepalingen van dit besluit kunnen worden toegepast op de jaarrekening en het jaarverslag die worden opgesteld over het boekjaar dat is aangevangen op of na 1 januari 2006. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -37,10 +37,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 11 oktober 2006  
 Beatrix  
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin 
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin   
 
 de *vierentwintigste* oktober 2006 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

@@ -33,10 +33,10 @@ De woorden ‘Nederlandse Antillen’ zoals gebruikt in MG 2001-04 en [MG 2005-4
 
 ####Inwerkingtreding
 
-Deze circulaire treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.      Voor nadere informatie over deze MG-circulaire kunt u terecht bij de Directie Aandachtsgroepen, Betaalbaarheid en Corporaties (DABC), Directoraat-Generaal Wonen, Wijken en Integratie, telefoonnummer DABC: 070-339 2474.  
+Deze circulaire treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.     Voor nadere informatie over deze MG-circulaire kunt u terecht bij de Directie Aandachtsgroepen, Betaalbaarheid en Corporaties (DABC), Directoraat-Generaal Wonen, Wijken en Integratie, telefoonnummer DABC: 070-339 2474.
 
 Hoogachtend, 
 
 De 
-Minister voor Wonen, Wijken en Integratie,
-E. vanMiddelkoop   
+Minister voor Wonen, Wijken en Integratie, 
+E. van Middelkoop     

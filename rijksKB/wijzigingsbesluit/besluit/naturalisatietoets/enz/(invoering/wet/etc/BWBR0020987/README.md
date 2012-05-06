@@ -17,27 +17,27 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit naturalisatietoets.   
+Wijzigt het Besluit naturalisatietoets.
 
 ### Artikel  II  
 
-Wijzigt het Besluit inburgering.   
+Wijzigt het Besluit inburgering.
 
 ### Artikel  III  
 
-Wijzigt het Besluit verkrijging en verlies Nederlanderschap.   
+Wijzigt het Besluit verkrijging en verlies Nederlanderschap.
 
 ### Artikel  IV  
 
-Het certificaat, bedoeld in [artikel 5, eerste lid, van het Besluit naturalisatietoets](../../../../../../../../../rijksKB/besluit/naturalisatietoets/BWBR0013604/README.md) zoals dit luidde voor 1 april 2007, met daarop de aantekening dat de verzoeker beschikt over de vereiste kennis van de Nederlandse taal, toont aan dat de verzoeker beschikt over de vereiste kennis van de taal alsmede van de staatsinrichting en maatschappij als bedoeld in [artikel 8, eerste lid, onderdeel d, van de Rijkswet op het Nederlanderschap](../../../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md).  
+Het certificaat, bedoeld in [artikel 5, eerste lid, van het Besluit naturalisatietoets](../../../../../../../../../rijksKB/besluit/naturalisatietoets/BWBR0013604/README.md) zoals dit luidde voor 1 april 2007, met daarop de aantekening dat de verzoeker beschikt over de vereiste kennis van de Nederlandse taal, toont aan dat de verzoeker beschikt over de vereiste kennis van de taal alsmede van de staatsinrichting en maatschappij als bedoeld in [artikel 8, eerste lid, onderdeel d, van de Rijkswet op het Nederlanderschap](../../../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md).
 
 ### Artikel  V  
 
-Dit besluit is van toepassing op verzoeken om verlening van het Nederlanderschap die op of na 1 april 2007 zijn ingediend.  
+Dit besluit is van toepassing op verzoeken om verlening van het Nederlanderschap die op of na 1 april 2007 zijn ingediend. 
 
 ### Artikel  VI  
 
-Dit besluit treedt in werking met ingang van 1 april 2007.  
+Dit besluit treedt in werking met ingang van 1 april 2007. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, in het Publicatieblad van de Nederlandse Antillen en in het Afkondigingsblad van Aruba zal worden geplaatst.   
 
@@ -45,10 +45,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 3 januari 2007  
 Beatrix  
 
-De Minister voor Integratie, Jeugdbescherming, Preventie en Reclassering, 
-M. C. F.Verdonk 
+De Minister voor Integratie, Jeugdbescherming, Preventie en Reclassering , 
+M. C. F. Verdonk   
 
 de *zestiende* januari 2007 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

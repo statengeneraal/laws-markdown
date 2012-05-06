@@ -12,45 +12,45 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Algemene wet bestuursrecht.   
+Wijzigt de Algemene wet bestuursrecht. 
 
 ### Artikel  II  
 
-Wijzigt het Wetboek van Strafvordering.   
+Wijzigt het Wetboek van Strafvordering. 
 
 ### Artikel  III  
 
 1.  Op een verplichting tot betaling van een geldsom aan of door een bestuursorgaan die is vastgesteld of ontstaan voor het tijdstip van inwerkingtreding van deze wet, blijft het recht zoals dat gold voor dat tijdstip van toepassing.   
-2.  Op een verplichting tot betaling aan of door een bestuursorgaan in verband met een subsidie die voor het tijdstip van inwerkingtreding van deze wet is verleend, blijft het recht zoals dat gold voor dat tijdstip van toepassing.   
+2.  Op een verplichting tot betaling aan of door een bestuursorgaan in verband met een subsidie die voor het tijdstip van inwerkingtreding van deze wet is verleend, blijft het recht zoals dat gold voor dat tijdstip van toepassing.  
 
 ### Artikel  IV  
 
-1.  Indien een bestuurlijke sanctie wordt opgelegd wegens een overtreding die plaatsvond voor het tijdstip van inwerkingtreding van deze wet, blijft het recht zoals dat gold voor dat tijdstip van toepassing.   
-2.  [Artikel 5:44, eerste lid](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is van overeenkomstige toepassing indien het recht tot strafvervolging is vervallen doordat is voldaan aan de voorwaarden die krachtens een wettelijk voorschrift zijn gesteld ter voorkoming van strafvervolging.   
+1. Indien een bestuurlijke sanctie wordt opgelegd wegens een overtreding die plaatsvond voor het tijdstip van inwerkingtreding van deze wet, blijft het recht zoals dat gold voor dat tijdstip van toepassing.  
+2.  [Artikel 5:44, eerste lid](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is van overeenkomstige toepassing indien het recht tot strafvervolging is vervallen doordat is voldaan aan de voorwaarden die krachtens een wettelijk voorschrift zijn gesteld ter voorkoming van strafvervolging. 
 
 ### Artikel  V  
 
-Voor de plaatsing van deze wet in het Staatsblad stelt Onze Minister van Justitie de nummering van de artikelen in de [titels 4.4](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5.1](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5.4](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en in [afdeling 10.1.3](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van deze artikelen met de nieuwe nummering in overeenstemming.  
+Voor de plaatsing van deze wet in het Staatsblad stelt Onze Minister van Justitie de nummering van de artikelen in de [titels 4.4](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5.1](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5.4](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en in [afdeling 10.1.3](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van deze artikelen met de nieuwe nummering in overeenstemming. 
 
 ### Artikel  VI  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  VII  
 
-Deze wet wordt aangehaald als: Vierde tranche Algemene wet bestuursrecht.  
+Deze wet wordt aangehaald als: Vierde tranche Algemene wet bestuursrecht. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 25 juni 2009  
 Beatrix  
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin 
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin   
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-G. terHorst 
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties , 
+G. ter Horst   
 
 de *dertigste* juni 2009 
 

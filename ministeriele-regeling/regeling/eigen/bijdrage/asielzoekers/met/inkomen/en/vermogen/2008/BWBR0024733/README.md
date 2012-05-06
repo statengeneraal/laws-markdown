@@ -15,7 +15,7 @@ Besluit:
 
 ### Artikel  1  
 
-Voor de toepassing van deze regeling wordt verstaan onder ‘vergunninghouder’: de vreemdeling bedoeld in [artikel 3, derde lid, onder c, Rva 2005](../../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md).  
+Voor de toepassing van deze regeling wordt verstaan onder ‘vergunninghouder’: de vreemdeling bedoeld in [artikel 3, derde lid, onder c, Rva 2005](../../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md). 
 
 ### Paragraaf  2  
 
@@ -27,7 +27,7 @@ Tot de aan de asielzoeker feitelijk geboden verstrekkingen, bedoeld in [artikel 
 
 a. de aan of ten behoeve van de asielzoeker en zijn gezinsleden verstrekte financiële toelage ten behoeve van voedsel, kleding en andere persoonlijke uitgaven en de in natura verstrekte maaltijden;  
 
-b. het onderdak in een opvangcentrum of de financiële toelage ten behoeve van de huisvesting buiten een opvangcentrum.    
+b. het onderdak in een opvangcentrum of de financiële toelage ten behoeve van de huisvesting buiten een opvangcentrum.   
 
 ### Paragraaf  3  
 
@@ -39,7 +39,7 @@ De economische waarde per maand, bedoeld in [artikel 20, tweede lid, van de Rva 
 
 a. van de verstrekkingen bedoeld in artikel 2, onder a: de toelage bedoeld in [artikel 14, tweede lid, van de Rva 2005](../../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md), die aan of ten behoeve van de asielzoeker wordt of zou worden verstrekt voor het volledig zelf verzorgen van maaltijden, vermenigvuldigd met de factor 4,33;  
 
-b. van de verstrekkingen bedoeld in artikel 2, onder b: € 45,38 voor een alleenstaande asielzoeker of eerste gezinslid, € 22,69, voor het tweede gezinslid en € 11,34 per volgend gezinslid, vermenigvuldigd met de factor 4,33, tot een maximum van € 393,43.    
+b. van de verstrekkingen bedoeld in artikel 2, onder b: € 45,38 voor een alleenstaande asielzoeker of eerste gezinslid, € 22,69, voor het tweede gezinslid en € 11,34 per volgend gezinslid, vermenigvuldigd met de factor 4,33, tot een maximum van € 393,43.   
 
 ### Hoofdstuk  2  
 
@@ -51,7 +51,7 @@ b. van de verstrekkingen bedoeld in artikel 2, onder b: € 45,38 voor een alle
 
 ### Artikel  4  
 
-De vergoeding, bedoeld in [artikel 20, tweede lid, van de Rva 2005](../../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md), per maand is gelijk aan de in aanmerking te nemen middelen van de asielzoeker en zijn gezinsleden tot een maximum van de economische waarde van de verstrekkingen bedoeld in artikel 3.  
+De vergoeding, bedoeld in [artikel 20, tweede lid, van de Rva 2005](../../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md), per maand is gelijk aan de in aanmerking te nemen middelen van de asielzoeker en zijn gezinsleden tot een maximum van de economische waarde van de verstrekkingen bedoeld in artikel 3. 
 
 ### Paragraaf  2  
 
@@ -59,8 +59,8 @@ De vergoeding, bedoeld in [artikel 20, tweede lid, van de Rva 2005](../../../../
 
 ### Artikel  5  
 
-1.  Tot de middelen bedoeld in artikel 4 worden alle vermogens- en inkomensbestanddelen gerekend waarover de asielzoeker beschikt of redelijkerwijs kan beschikken.   
-2.  Niet tot de middelen van de asielzoeker worden gerekend: 
+1.   Tot de middelen bedoeld in artikel 4 worden alle vermogens- en inkomensbestanddelen gerekend waarover de asielzoeker beschikt of redelijkerwijs kan beschikken.   
+2.   Niet tot de middelen van de asielzoeker worden gerekend: 
 
 a. kinderbijslag;  
 
@@ -81,7 +81,7 @@ b. de daarover door de asielzoeker verschuldigde premies volksverzekeringen, pre
 
 c. ten laste van de asielzoeker komende verplichte bijdragen ingevolge een pensioenregeling en daarmee vergelijkbare regelingen; en  
 
-d. andere ten laste van de asielzoeker komende verplichtingen.     
+d. andere ten laste van de asielzoeker komende verplichtingen.    
 
 ### Paragraaf  3  
 
@@ -89,12 +89,12 @@ d. andere ten laste van de asielzoeker komende verplichtingen.
 
 ### Artikel  6  
 
-1.  Onder inkomen wordt verstaan de middelen voor zover deze: 
+1.   Onder inkomen wordt verstaan de middelen voor zover deze: 
 
 a. betreffen inkomsten uit of in verband met arbeid, inkomsten uit vermogen, sociale zekerheidsuitkeringen, uitkeringen tot levensonderhoud op grond van [Boek 1 van het Burgerlijk Wetboek](../../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), voorlopige teruggave of teruggave van inkomstenbelasting, loonbelasting, premies volksverzekeringen dan wel naar hun aard met deze inkomsten of uitkeringen overeenkomen;  
 
 b. betrekking hebben op een periode waarover beroep op opvang wordt gedaan.     
-2.  Middelen die het karakter hebben van uitgesteld inkomen worden in aanmerking genomen naar de periode waarin deze zijn verworven. Middelen die het karakter hebben van doorbetaling van inkomen over een periode worden in aanmerking genomen naar de periode waarin deze te gelde kunnen worden gemaakt.   
+2.   Middelen die het karakter hebben van uitgesteld inkomen worden in aanmerking genomen naar de periode waarin deze zijn verworven. Middelen die het karakter hebben van doorbetaling van inkomen over een periode worden in aanmerking genomen naar de periode waarin deze te gelde kunnen worden gemaakt.  
 
 ### Paragraaf  4  
 
@@ -117,7 +117,7 @@ c. vermogen ontvangen tijdens de periode waarover beroep op opvang wordt gedaan,
 
 d. spaargelden opgebouwd tijdens de periode waarin opvang wordt geboden;  
 
-e. vergoedingen voor immateriële schade voor zover dit, gelet op de aard en de hoogte van de uitkering, vanuit een oogpunt van het verlenen van verstrekkingen als bedoeld in [artikel 9 van de Rva 2005](../../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md), verantwoord is.     
+e. vergoedingen voor immateriële schade voor zover dit, gelet op de aard en de hoogte van de uitkering, vanuit een oogpunt van het verlenen van verstrekkingen als bedoeld in [artikel 9 van de Rva 2005](../../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md), verantwoord is.    
 
 ### Hoofdstuk  3  
 
@@ -125,19 +125,19 @@ e. vergoedingen voor immateriële schade voor zover dit, gelet op de aard en de 
 
 ### Artikel  8  
 
-[Artikel 1, eerste lid, onder d en f, van de Rva 2005](../../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md) en [artikel 3, tweede en derde lid van de Rva 2005](../../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md) zijn van overeenkomstige toepassing.  
+[Artikel 1, eerste lid, onder d en f, van de Rva 2005](../../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md) en [artikel 3, tweede en derde lid van de Rva 2005](../../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md) zijn van overeenkomstige toepassing. 
 
 ### Artikel  9  
 
-[Artikel 4, tweede lid, onder e, van de Regeling eigen bijdrage asielzoekers met inkomen en vermogen](../../../../../../../../../../../ministeriele-regeling/regeling/eigen/bijdrage/asielzoekers/met/inkomen/en/vermogen/BWBR0009876/README.md) blijft van toepassing voor zover voor de inwerkingtreding van deze regeling door de asielzoeker een vergoeding bedoeld in [artikel 20, tweede lid, Rva 2005](../../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md) werd afgedragen en voor zover dit voor de asielzoeker gunstiger is.  
+[Artikel 4, tweede lid, onder e, van de Regeling eigen bijdrage asielzoekers met inkomen en vermogen](../../../../../../../../../../../ministeriele-regeling/regeling/eigen/bijdrage/asielzoekers/met/inkomen/en/vermogen/BWBR0009876/README.md) blijft van toepassing voor zover voor de inwerkingtreding van deze regeling door de asielzoeker een vergoeding bedoeld in [artikel 20, tweede lid, Rva 2005](../../../../../../../../../../../ministeriele-regeling/regeling/verstrekkingen/asielzoekers/en/andere/categorieën/vreemdelingen/etc/BWBR0017959/README.md) werd afgedragen en voor zover dit voor de asielzoeker gunstiger is. 
 
 ### Artikel  10  
 
-De [Regeling eigen bijdrage asielzoekers met inkomen en vermogen](../../../../../../../../../../../ministeriele-regeling/regeling/eigen/bijdrage/asielzoekers/met/inkomen/en/vermogen/BWBR0009876/README.md) wordt ingetrokken.  
+De [Regeling eigen bijdrage asielzoekers met inkomen en vermogen](../../../../../../../../../../../ministeriele-regeling/regeling/eigen/bijdrage/asielzoekers/met/inkomen/en/vermogen/BWBR0009876/README.md) wordt ingetrokken. 
 
 ### Artikel  11  
 
-Deze regeling wordt aangehaald als: Regeling eigen bijdrage asielzoekers met inkomen en vermogen 2008.  
+Deze regeling wordt aangehaald als: Regeling eigen bijdrage asielzoekers met inkomen en vermogen 2008. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst en treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij is geplaatst.   
 
 Den Haag 
@@ -145,4 +145,4 @@ Den Haag
 
 De 
 Staatssecretaris van Justitie, 
-N.Albayrak   
+N. Albayrak     

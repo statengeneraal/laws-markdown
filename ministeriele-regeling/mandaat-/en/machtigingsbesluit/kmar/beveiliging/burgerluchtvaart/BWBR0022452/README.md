@@ -18,23 +18,23 @@ b. [artikel 37ae, tweede lid](../../../../../../../../wet/luchtvaartwet/BWBR0002
 
 c. [artikel 37u, eerste lid](../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md);  
 
-d. [artikel 37v, tweede lid, eerste volzin](../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md).    
+d. [artikel 37v, tweede lid, eerste volzin](../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md).   
 
-### Artikel  1a  
+### Artikel 1a  
 
-Aan de Commandant van de Koninklijke marechaussee wordt toegestaan van het in artikel 1 verleende mandaat ondermandaat te verlenen en de in artikel 1 verleende machtiging door te geven aan de commandant van het district Schiphol en het hoofd van de afdeling Handhaving & Toezicht van het district Schiphol.  
+Aan de Commandant van de Koninklijke marechaussee wordt toegestaan van het in artikel 1 verleende mandaat ondermandaat te verlenen en de in artikel 1 verleende machtiging door te geven aan de commandant van het district Schiphol en het hoofd van de afdeling Handhaving & Toezicht van het district Schiphol. 
 
 ### Artikel  2  
 
-Vóór de datum van inwerkingtreding van dit besluit aan de Commandant van de Koninklijke marechaussee verleende mandaten ter zake van de in artikel 1 genoemde bevoegdheden worden ingetrokken.  
+Vóór de datum van inwerkingtreding van dit besluit aan de Commandant van de Koninklijke marechaussee verleende mandaten ter zake van de in artikel 1 genoemde bevoegdheden worden ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Mandaat- en machtigingsbesluit Kmar beveiliging burgerluchtvaart.  
+Dit besluit wordt aangehaald als: Mandaat- en machtigingsbesluit Kmar beveiliging burgerluchtvaart. 
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -42,4 +42,4 @@ Den Haag
 
 De 
 Minister van Justitie, 
-E.M.H.Hirsch Ballin   
+E.M.H. Hirsch Ballin     

@@ -15,9 +15,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *vaarbevoegdheidsbewijs:* bewijs als bedoeld in [artikel 1, onderdeel i, van het Bemanningsbesluit Arubaanse, Curaçaose en Sint Maartense zeeschepen](../../../../../../../../../../rijksKB/bemanningsbesluit/nederlands-antilliaanse/en/arubaanse/zeeschepen/BWBR0013361/README.md);  
+a.  *vaarbevoegdheidsbewijs:* bewijs als bedoeld in [artikel 1, onderdeel i, van het Bemanningsbesluit Arubaanse, Curaçaose en Sint Maartense zeeschepen](../../../../../../../../../../rijksKB/bemanningsbesluit/nederlands-antilliaanse/en/arubaanse/zeeschepen/BWBR0013361/README.md);  
 
-b. *vaarbevoegdheidsbewijs van erkenning:* bewijs van erkenning als bedoeld in [artikel 33, tweede lid, van het Bemanningsbesluit Arubaanse, Curaçaose en Sint Maartense zeeschepen](../../../../../../../../../../rijksKB/bemanningsbesluit/nederlands-antilliaanse/en/arubaanse/zeeschepen/BWBR0013361/README.md).    
+b.  *vaarbevoegdheidsbewijs van erkenning:* bewijs van erkenning als bedoeld in [artikel 33, tweede lid, van het Bemanningsbesluit Arubaanse, Curaçaose en Sint Maartense zeeschepen](../../../../../../../../../../rijksKB/bemanningsbesluit/nederlands-antilliaanse/en/arubaanse/zeeschepen/BWBR0013361/README.md).   
 
 ### §  2  
 
@@ -63,7 +63,7 @@ a. ANG 170,– voor elk vaarbevoegdheidsbewijs waarop ten minste één van de vo
 
 b. ANG 160,– voor elk vaarbevoegdheidsbewijs waarop de onder a genoemde functies niet voorkomen;  
 
-c. ANG 140,– voor elk duplicaat van een vaarbevoegdheidsbewijs als bedoeld onder a of b.    
+c. ANG 140,– voor elk duplicaat van een vaarbevoegdheidsbewijs als bedoeld onder a of b.   
 
 ### Artikel  3  
 
@@ -105,11 +105,11 @@ a. ANG 170,– voor elk vaarbevoegdheidsbewijs van erkenning waarop ten minste �
 
 b. ANG 160,– voor elk vaarbevoegdheidsbewijs van erkenning waarop de onder a genoemde functies niet voorkomen;  
 
-c. ANG 140,– voor elk duplicaat van een vaarbevoegdheidsbewijs van erkenning als bedoeld onder a of b.    
+c. ANG 140,– voor elk duplicaat van een vaarbevoegdheidsbewijs van erkenning als bedoeld onder a of b.   
 
 ### Artikel  4  
 
-De kosten voor de afgifte van een ontheffing als bedoeld in [artikel 12](../../../../../../../../../../rijksKB/bemanningsbesluit/nederlands-antilliaanse/en/arubaanse/zeeschepen/BWBR0013361/README.md), onderscheidenlijk [artikel 32 van het Bemanningsbesluit Arubaanse, Curaçaose en Sint Maartense zeeschepen](../../../../../../../../../../rijksKB/bemanningsbesluit/nederlands-antilliaanse/en/arubaanse/zeeschepen/BWBR0013361/README.md) bedragen: ANG 375,– voor elke ontheffing.  
+De kosten voor de afgifte van een ontheffing als bedoeld in [artikel 12](../../../../../../../../../../rijksKB/bemanningsbesluit/nederlands-antilliaanse/en/arubaanse/zeeschepen/BWBR0013361/README.md), onderscheidenlijk [artikel 32 van het Bemanningsbesluit Arubaanse, Curaçaose en Sint Maartense zeeschepen](../../../../../../../../../../rijksKB/bemanningsbesluit/nederlands-antilliaanse/en/arubaanse/zeeschepen/BWBR0013361/README.md) bedragen: ANG 375,– voor elke ontheffing. 
 
 ### §  3  
 
@@ -117,17 +117,17 @@ De kosten voor de afgifte van een ontheffing als bedoeld in [artikel 12](../../.
 
 ### Artikel  5  
 
-De in deze regeling genoemde tarieven luiden in het betaalmiddel van Curaçao, onderscheidenlijk Sint Maarten en zijn verschuldigd voor de afgifte van vaarbevoegdheidsbewijzen, vaarbevoegdheidsbewijzen van erkenning en ontheffingen door ambtenaren van Curaçao, onderscheidenlijk Sint Maarten.  
+De in deze regeling genoemde tarieven luiden in het betaalmiddel van Curaçao, onderscheidenlijk Sint Maarten en zijn verschuldigd voor de afgifte van vaarbevoegdheidsbewijzen, vaarbevoegdheidsbewijzen van erkenning en ontheffingen door ambtenaren van Curaçao, onderscheidenlijk Sint Maarten. 
 
 ### Artikel  6  
 
-Deze regeling treedt in werking met ingang van 15 september 2009.  
+Deze regeling treedt in werking met ingang van 15 september 2009. 
 
 ### Artikel  7  
 
-Deze regeling wordt aangehaald als: Regeling Curaçaose en Sint Maartense tarieven vaarbevoegdheidsbewijzen zeevaart.  
+Deze regeling wordt aangehaald als: Regeling Curaçaose en Sint Maartense tarieven vaarbevoegdheidsbewijzen zeevaart. 
 Deze regeling zal met de toelichting in de Staatscourant en in de Curaçaosche Courant worden geplaatst.  
 
 De 
 Staatssecretaris van Verkeer en Waterstaat, 
-J.C.Huizinga-Heringa   
+J.C. Huizinga-Heringa     

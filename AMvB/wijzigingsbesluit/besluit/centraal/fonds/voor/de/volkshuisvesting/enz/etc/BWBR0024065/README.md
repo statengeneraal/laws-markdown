@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit Centraal Fonds voor de Volkshuisvesting.   
+Wijzigt het Besluit Centraal Fonds voor de Volkshuisvesting. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit beheer sociale-huursector.   
+Wijzigt het Besluit beheer sociale-huursector. 
 
 ### Artikel  III  
 
@@ -32,15 +32,15 @@ b. bepaalt het Centraal Fonds voor de Volkshuisvesting de hoogte van de bijdrage
 c. maakt dat fonds de hoogte van de bijdrage binnen drie weken na de bepaling daarvan bekend aan de toegelaten instellingen, bedoeld in [artikel 70 van de Woningwet](../../../../../../../../../../../wet/woningwet/BWBR0005181/README.md), en  
 
 d. betalen die toegelaten instellingen die bijdrage binnen drie weken na de bekendmaking daarvan aan dat fonds.     
-2.  In afwijking van [artikel 12, derde lid, onderdeel a, van het Besluit Centraal Fonds voor de Volkshuisvesting](../../../../../../../../../../../AMvB/besluit/centraal/fonds/voor/de/volkshuisvesting/BWBR0004418/README.md) is ten aanzien van het heffingsjaar 2008 de datum waarop het Centraal Fonds voor de Volkshuisvesting de uitvoeringsovereenkomst als bedoeld in [dat besluit](../../../../../../../../../../../AMvB/besluit/centraal/fonds/voor/de/volkshuisvesting/BWBR0004418/README.md) heeft ontvangen: 15 oktober 2008.   
+2.  In afwijking van [artikel 12, derde lid, onderdeel a, van het Besluit Centraal Fonds voor de Volkshuisvesting](../../../../../../../../../../../AMvB/besluit/centraal/fonds/voor/de/volkshuisvesting/BWBR0004418/README.md) is ten aanzien van het heffingsjaar 2008 de datum waarop het Centraal Fonds voor de Volkshuisvesting de uitvoeringsovereenkomst als bedoeld in [dat besluit](../../../../../../../../../../../AMvB/besluit/centraal/fonds/voor/de/volkshuisvesting/BWBR0004418/README.md) heeft ontvangen: 15 oktober 2008.  
 
 ### Artikel  IV  
 
-De werkzaamheden van het Centraal Fonds voor de Volkshuisvesting, strekkende tot de uitvoering in 2008 van het [Besluit Centraal Fonds voor de Volkshuisvesting](../../../../../../../../../../../AMvB/besluit/centraal/fonds/voor/de/volkshuisvesting/BWBR0004418/README.md), als gewijzigd door dit besluit, en dit besluit, die voor de inwerkingtreding van dit besluit zijn verricht, staan gelijk aan werkzaamheden waarop het [Besluit Centraal Fonds voor de Volkshuisvesting](../../../../../../../../../../../AMvB/besluit/centraal/fonds/voor/de/volkshuisvesting/BWBR0004418/README.md), als gewijzigd door dit besluit, en dit besluit van toepassing zijn.  
+De werkzaamheden van het Centraal Fonds voor de Volkshuisvesting, strekkende tot de uitvoering in 2008 van het [Besluit Centraal Fonds voor de Volkshuisvesting](../../../../../../../../../../../AMvB/besluit/centraal/fonds/voor/de/volkshuisvesting/BWBR0004418/README.md), als gewijzigd door dit besluit, en dit besluit, die voor de inwerkingtreding van dit besluit zijn verricht, staan gelijk aan werkzaamheden waarop het [Besluit Centraal Fonds voor de Volkshuisvesting](../../../../../../../../../../../AMvB/besluit/centraal/fonds/voor/de/volkshuisvesting/BWBR0004418/README.md), als gewijzigd door dit besluit, en dit besluit van toepassing zijn. 
 
 ### Artikel  V  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop artikel I, onder B, voor zover het betreft [artikel 2, derde lid](../../../../../../../../../../../AMvB/besluit/centraal/fonds/voor/de/volkshuisvesting/BWBR0004418/README.md), in werking treedt.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. Bij koninklijk besluit kan een ander tijdstip worden vastgesteld waarop artikel I, onder B, voor zover het betreft [artikel 2, derde lid](../../../../../../../../../../../AMvB/besluit/centraal/fonds/voor/de/volkshuisvesting/BWBR0004418/README.md), in werking treedt. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

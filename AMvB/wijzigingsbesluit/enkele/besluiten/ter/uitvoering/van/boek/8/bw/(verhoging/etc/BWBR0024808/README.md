@@ -15,19 +15,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit ex artikel 110 van Boek 8 van het Burgerlijk Wetboek.   
+Wijzigt het Besluit ex artikel 110 van Boek 8 van het Burgerlijk Wetboek. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit ex artikel 1157 van Boek 8 van het Burgerlijk Wetboek.   
+Wijzigt het Besluit ex artikel 1157 van Boek 8 van het Burgerlijk Wetboek. 
 
 ### Artikel  III  
 
-Dit besluit is slechts van toepassing op ongevallen die zich na de inwerkingtreding hebben voorgedaan.  
+Dit besluit is slechts van toepassing op ongevallen die zich na de inwerkingtreding hebben voorgedaan. 
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste dag van de derde kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

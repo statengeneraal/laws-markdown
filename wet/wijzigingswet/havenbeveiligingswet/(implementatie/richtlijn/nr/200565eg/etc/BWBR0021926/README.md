@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Havenbeveiligingswet.   
+Wijzigt de Havenbeveiligingswet. 
 
 ### Artikel  II  
 
-Het uitvoeren van een eerste havenveiligheidsbeoordeling, het opstellen van een eerste havenveiligheidsplan en de uitvoering daarvan in de desbetreffende haven of het desbetreffende havengerelateerd gebied, als bedoeld in de [Havenbeveiligingswet](../../../../../../../../../wet/havenbeveiligingswet/BWBR0016991/README.md), geschiedt uiterlijk binnen een maand na het tijdstip van inwerkingtreding van deze wet.  
+Het uitvoeren van een eerste havenveiligheidsbeoordeling, het opstellen van een eerste havenveiligheidsplan en de uitvoering daarvan in de desbetreffende haven of het desbetreffende havengerelateerd gebied, als bedoeld in de [Havenbeveiligingswet](../../../../../../../../../wet/havenbeveiligingswet/BWBR0016991/README.md), geschiedt uiterlijk binnen een maand na het tijdstip van inwerkingtreding van deze wet. 
 
 ### Artikel  III  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

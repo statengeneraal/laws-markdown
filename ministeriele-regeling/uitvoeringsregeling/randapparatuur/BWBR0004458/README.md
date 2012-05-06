@@ -11,7 +11,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   de Hoofddirecteur:  de Hoofddirecteur Telecommunicatie en Post van het ministerie van Verkeer en Waterstaat;    de Directeur:  de directeur Rijksdienst voor Radiocommunicatie van de Hoofddirectie Telecommunicatie en Post van het ministerie van Verkeer en Waterstaat;    testinstelling:  een instelling die randapparatuur test ten behoeve van de goedkeuring van die randapparatuur voor aansluiting op de telecommunicatie-infrastructuur;    STERLAB:  Nederlandse Stichting voor de Erkenning van Laboratoria.     
+In deze regeling wordt verstaan onder:   de Hoofddirecteur:   de Hoofddirecteur Telecommunicatie en Post van het ministerie van Verkeer en Waterstaat;    de Directeur:   de directeur Rijksdienst voor Radiocommunicatie van de Hoofddirectie Telecommunicatie en Post van het ministerie van Verkeer en Waterstaat;    testinstelling:   een instelling die randapparatuur test ten behoeve van de goedkeuring van die randapparatuur voor aansluiting op de telecommunicatie-infrastructuur;    STERLAB:   Nederlandse Stichting voor de Erkenning van Laboratoria.    
 
 ### §  2  
 
@@ -19,7 +19,7 @@ In deze regeling wordt verstaan onder:   de Hoofddirecteur:  de Hoofddirecteur T
 
 ### Artikel  2  
 
-De specificaties van conformiteit voor randapparatuur, bedoeld in hoofdstuk 2 van het Besluit randapparatuur, zijn die welke zijn omschreven in bijlage 1 behorend bij deze regeling en zijn aangegeven in annex 1 behorend bij die bijlage.  
+De specificaties van conformiteit voor randapparatuur, bedoeld in hoofdstuk 2 van het Besluit randapparatuur, zijn die welke zijn omschreven in bijlage 1 behorend bij deze regeling en zijn aangegeven in annex 1 behorend bij die bijlage. 
 
 ### §  3  
 
@@ -34,7 +34,7 @@ a. gegevens omtrent de aard van de bedrijfsactiviteiten van de aanvragende testi
 
 b. gegevens ten behoeve van de identificatie van degene op wiens naam de erkenning, gelijkstelling of voorlopige erkenning moet worden gesteld;  
 
-c. de aanvrager verschaft voorts die gegevens en bescheiden die voor de beoordeling van de aanvraag van belang kunnen zijn.     
+c. de aanvrager verschaft voorts die gegevens en bescheiden die voor de beoordeling van de aanvraag van belang kunnen zijn.    
 
 ### Artikel  4  
 
@@ -50,7 +50,7 @@ a. gegevens waaruit blijkt dat deze volledige rechtspersoonlijkheid bezit;
 
 b. een afschrift van de door de aanvrager bij STERLAB ingediende aanvraag voor certificatie;  
 
-c. een verklaring van STERLAB dat zij met het onderzoek van de onder b. bedoelde aanvraag is begonnen.     
+c. een verklaring van STERLAB dat zij met het onderzoek van de onder b. bedoelde aanvraag is begonnen.    
 
 ### §  4  
 
@@ -58,7 +58,7 @@ c. een verklaring van STERLAB dat zij met het onderzoek van de onder b. bedoelde
 
 ### Artikel  5  
 
-Een verklaring van conformiteit, bedoeld in artikel 7, vierde lid van het Besluit randapparatuur wordt opgesteld volgens het model opgenomen in bijlage 2 behorend bij deze regeling.  
+Een verklaring van conformiteit, bedoeld in artikel 7, vierde lid van het Besluit randapparatuur wordt opgesteld volgens het model opgenomen in bijlage 2 behorend bij deze regeling. 
 
 ### §  5  
 
@@ -66,15 +66,15 @@ Een verklaring van conformiteit, bedoeld in artikel 7, vierde lid van het Beslui
 
 ### Artikel  6  
 
-Een aanvraag tot goedkeuring van randapparatuur voor aansluiting op de telecommunicatie-infrastructuur, bedoeld in artikel 8, eerste lid, van het Besluit randapparatuur dient te worden ingediend bij de Directeur volgens het model opgenomen in bijlage 3 behorend bij deze regeling.  
+Een aanvraag tot goedkeuring van randapparatuur voor aansluiting op de telecommunicatie-infrastructuur, bedoeld in artikel 8, eerste lid, van het Besluit randapparatuur dient te worden ingediend bij de Directeur volgens het model opgenomen in bijlage 3 behorend bij deze regeling. 
 
 ### Artikel  7  
 
-Een verklaring van goedkeuring, bedoeld in artikel 9, vierde lid, van het Besluit randapparatuur wordt afgegeven volgens het model opgenomen in bijlage 4 behorend bij deze regeling dan wel, indien het randapparatuur betreft die tevens een radio-elektrische inrichting is, volgens het model opgenomen in bijlage 5 behorend bij deze regeling.  
+Een verklaring van goedkeuring, bedoeld in artikel 9, vierde lid, van het Besluit randapparatuur wordt afgegeven volgens het model opgenomen in bijlage 4 behorend bij deze regeling dan wel, indien het randapparatuur betreft die tevens een radio-elektrische inrichting is, volgens het model opgenomen in bijlage 5 behorend bij deze regeling. 
 
 ### Artikel  8  
 
-Het merk als bedoeld in artikel 9, zesde lid, van het Besluit randapparatuur is opgenomen in bijlage 6 behorend bij deze regeling en dient te worden aangebracht volgens de in deze bijlage opgenomen aanwijzingen.  
+Het merk als bedoeld in artikel 9, zesde lid, van het Besluit randapparatuur is opgenomen in bijlage 6 behorend bij deze regeling en dient te worden aangebracht volgens de in deze bijlage opgenomen aanwijzingen. 
 
 ### §  6  
 
@@ -82,7 +82,7 @@ Het merk als bedoeld in artikel 9, zesde lid, van het Besluit randapparatuur is 
 
 ### Artikel  9  
 
-Als diploma's, bedoeld in artikel 10 van het Besluit randapparatuur zijn aangewezen de diploma's vermeld in bijlage 7 behorend bij deze regeling.  
+Als diploma's, bedoeld in artikel 10 van het Besluit randapparatuur zijn aangewezen de diploma's vermeld in bijlage 7 behorend bij deze regeling. 
 
 ### §  7  
 
@@ -90,20 +90,20 @@ Als diploma's, bedoeld in artikel 10 van het Besluit randapparatuur zijn aangewe
 
 ### Artikel  10  
 
-Deze regeling treedt in werking met ingang van de inwerkingtreding van de Wet op de telecommunicatievoorzieningen en kan worden aangehaald als: Uitvoeringsregeling randapparatuur.  
+Deze regeling treedt in werking met ingang van de inwerkingtreding van de Wet op de telecommunicatievoorzieningen en kan worden aangehaald als: Uitvoeringsregeling randapparatuur. 
 
 's-Gravenhage 
 19 december 1988    
 
 De 
 minister voornoemd, 
-N.Smit-Kroes   
+N. Smit-Kroes     
 
 ### Bijlage  1  
 
 De navolgende specificaties van conformiteit als bedoeld in artikel 2 van de Uitvoeringsregeling randapparatuur, zijn hieronder omschreven en aangegeven in Annex 1 bij deze bijlage. Deze Annex 1 is ter inzage bij de Rijksdienst voor Radiocommunicatie van de Hoofddirectie Telecommunicatie en Post, ministerie van Verkeer en Waterstaat, te Groningen. Algemene specificaties van conformiteit voor randapparatuur bestemd voor aansluiting op de telecommunicatie-infrastructuur: T 10-00 alsmede de Specificaties van conformiteit voor randapparatuur bestemd voor aansluiting op: 
 
-*de telefoondienst*   
+*de telefoondienst*  
 
 enkelvoudige systemen  
 
@@ -145,7 +145,7 @@ transmissie T 11-54
 
 doorkoppelen mobilofoonnet T 11-55  
 
-*de telexdienst*   
+*de telexdienst*  
 
 algemeen T 12-00  
 
@@ -157,11 +157,11 @@ wisselstroomtransmissie T 12-11
 
 dubbelstroomtransmissie T 12-12  
 
-*de datatransportdienst*   
+*de datatransportdienst*  
 
 apparatuur voor datanet 1 T 13-01  
 
-*een vaste verbinding*   
+*een vaste verbinding*  
 
 spraakband T 14-01  
 
@@ -177,11 +177,11 @@ breedbandlijn 60-108 kHz T 14-06
 
 telegrafie T 14-07  
 
-*de semafoondienst*   
+*de semafoondienst*  
 
 ontvanger voor het SMF 3-systeem T 15-01  
 
-*de autotelefoondienst*   
+*de autotelefoondienst*  
 
 autotelefoonnet 2 (ATF 2) T 16-02  
 
@@ -195,11 +195,11 @@ autotelefoonnet 3 (ATF 3) T 16-03
 
 *Model Aanvraag van goedkeuring voor randapparatuur, bestemd voor aansluiting op de telecommunicatie infrastructuur*  De aanvraag geschiedt op het briefpapier van de aanvrager aan: ministerie van Verkeer en Waterstaat de Rijksdienst voor Radiocommunicatie van de Hoofddirectie Telecommunicatie en Post Bureau Toelating Randapparatuur Per brief wordt slechts goedkeuring gevraagd voor een type randapparaat. De brief wordt ingericht volgens het volgende model: 
 
-1. Gegevens van de aanvrager: [Naam van het bedrijf] [Adres] [Postcode] [Woonplaats] [Postbus] [Postcode] [Woonplaats] [Land] [Contactpersoon] [Telefoon] [Telex]  
+1. Gegevens van de aanvrager:  [Naam van het bedrijf] [Adres] [Postcode] [Woonplaats] [Postbus] [Postcode] [Woonplaats] [Land] [Contactpersoon] [Telefoon] [Telex]  
 
-2. Beschrijving van de apparatuur (of inrichting). Produktomschrijving: [soort toestel?] Fabrikaat: [welk fabrikaat?] Type: [merknaam en type aanduiding?] Korte omschrijving van het gebruiksdoel: [ ]  
+2. Beschrijving van de apparatuur (of inrichting).  Produktomschrijving: [soort toestel?] Fabrikaat: [welk fabrikaat?] Type: [merknaam en type aanduiding?] Korte omschrijving van het gebruiksdoel: [ ]  
 
-3. Goedkeuring wordt gevraagd voor aansluiting op: [de telefoondienst] [de autotelefoondienst ATF 2] [de autotelefoondienst ATF 3] [de telexdienst] [de datatransportdienst Datanet 1] [de semafoondienst Semafoon 3] vaste verbindingen volgens de specificaties: [spraakband] [64 kbit/s digitaal] [2048 kbit/s digitaal] [muzieklijn 40 Hz 15 kHz] [lokale analoge lijn] [breedbandlijn 60 108 kHz] [telegrafie]   Bij de brief worden als bijlagen de noodzakelijke verklaringen van conformiteit, het testrapport en de documentatie gevoegd. Andere, aanvullende informatie wordt eveneens in een bijlage bij de brief gevoegd. [Datering] en [Ondertekening] 
+3. Goedkeuring wordt gevraagd voor aansluiting op:  [de telefoondienst] [de autotelefoondienst ATF 2] [de autotelefoondienst ATF 3] [de telexdienst] [de datatransportdienst Datanet 1] [de semafoondienst Semafoon 3] vaste verbindingen volgens de specificaties: [spraakband] [64 kbit/s digitaal] [2048 kbit/s digitaal] [muzieklijn 40 Hz 15 kHz] [lokale analoge lijn] [breedbandlijn 60 108 kHz] [telegrafie]   Bij de brief worden als bijlagen de noodzakelijke verklaringen van conformiteit, het testrapport en de documentatie gevoegd. Andere, aanvullende informatie wordt eveneens in een bijlage bij de brief gevoegd. [Datering] en [Ondertekening] 
 
 ### Bijlage  4  
 
@@ -225,37 +225,37 @@ Type:   op basis van de overgelegde verklaringen van conformiteit als zendinrich
 
 *Aanwijzingen voor de uitvoering en het aanbrengen van het goedkeuringsmerk*  
 
-### 1.  
+### 1.   
 
-Het goedkeuringsmerk wordt aangebracht op een rechthoekig etiket. De afmetingen zijn minimaal 30 x 10 mm². Materiaal: Wit papier, 80 of 90 grams houtvrij schrijf, voorzien van sterk klevende permanente belijming. Het etiket moet, nadat het is aangebracht, niet zonder beschadiging kunnen worden verwijderd. Opdruk: Blauw (volgens specificatie PMS 293), tekst diapositief geplaatst. Lettertype: Helvetica onderkast (m.u.v. de letters NL). Voorbeeld: ministerie van verkeer en waterstaat NL 12345678 * aansluitfactor 1,2  
+Het goedkeuringsmerk wordt aangebracht op een rechthoekig etiket. De afmetingen zijn minimaal 30 x 10 mm². Materiaal: Wit papier, 80 of 90 grams houtvrij schrijf, voorzien van sterk klevende permanente belijming. Het etiket moet, nadat het is aangebracht, niet zonder beschadiging kunnen worden verwijderd. Opdruk: Blauw (volgens specificatie PMS 293), tekst diapositief geplaatst. Lettertype: Helvetica onderkast (m.u.v. de letters NL).  Voorbeeld: ministerie van verkeer en waterstaat NL 12345678 * aansluitfactor 1,2 
 
 ### 2.  
 
-De tekst "ministerie van verkeer en waterstaat" moet op het bovenste deel van het merk zijn aangebracht.  
+De tekst "ministerie van verkeer en waterstaat" moet op het bovenste deel van het merk zijn aangebracht. 
 
 ### 3.  
 
-Het goedkeuringsnummer NL gevolgd door 8 (acht) cijfers wordt links onder geplaatst. Het goedkeuringsnummer wordt medegedeeld in de verklaring van goedkeuring die voor het onderhavige type randapparaat is afgegeven.  
+Het goedkeuringsnummer NL gevolgd door 8 (acht) cijfers wordt links onder geplaatst. Het goedkeuringsnummer wordt medegedeeld in de verklaring van goedkeuring die voor het onderhavige type randapparaat is afgegeven. 
 
 ### 4.  
 
-Het deel rechts onder op het merk is bedoeld voor aanvullende informatie zoals deze in de verklaring van goedkeuring wordt voorgeschreven. In bovenstaand voorbeeld is voorgeschreven de vermelding: aansluitfactor 1,2. Als geen aanvullende informatie wordt voorgeschreven blijft deze ruimte leeg, en dus blauw.  
+Het deel rechts onder op het merk is bedoeld voor aanvullende informatie zoals deze in de verklaring van goedkeuring wordt voorgeschreven. In bovenstaand voorbeeld is voorgeschreven de vermelding: aansluitfactor 1,2. Als geen aanvullende informatie wordt voorgeschreven blijft deze ruimte leeg, en dus blauw. 
 
 ### 5.  
 
-Het etiket dient op de buitenzijde van de randapparatuur te worden aangebracht. Het is daarnaast toegestaan het goedkeuringsmerk tevens aan te brengen op de verpakking.  
+Het etiket dient op de buitenzijde van de randapparatuur te worden aangebracht. Het is daarnaast toegestaan het goedkeuringsmerk tevens aan te brengen op de verpakking. 
 
 ### 6.  
 
-Het goedkeuringsmerk mag onderdeel vormen van een groter etiket, maar dient ook dan te voldoen aan bovenvermelde specificaties.  
+Het goedkeuringsmerk mag onderdeel vormen van een groter etiket, maar dient ook dan te voldoen aan bovenvermelde specificaties. 
 
 ### 7.  
 
-In de plaats van het aanbrengen van een etiket op de randapparatuur wordt toegestaan het goedkeuringsmerk in reliëf bij de produktie van de behuizing daarin aan te brengen. Als het goedgekeurde randapparaat een prentkaart is (b.v. van gedrukte bedradingen), moet het goedkeuringsmerk direct leesbaar op de prentkaart zijn aangebracht, bij voorkeur als onderdeel van het productieproces. In deze gevallen is de papier- en kleurspecificatie niet doorslaggevend.  
+In de plaats van het aanbrengen van een etiket op de randapparatuur wordt toegestaan het goedkeuringsmerk in reliëf bij de produktie van de behuizing daarin aan te brengen. Als het goedgekeurde randapparaat een prentkaart is (b.v. van gedrukte bedradingen), moet het goedkeuringsmerk direct leesbaar op de prentkaart zijn aangebracht, bij voorkeur als onderdeel van het productieproces. In deze gevallen is de papier- en kleurspecificatie niet doorslaggevend. 
 
 ### 8.  
 
-Mobiele stations voor het pan-Europese GSM-systeem dienen, in afwijking van het bepaalde onder de punten 1 tot en met 7, op een duidelijke zichtbare plaats te worden voorzien van het volgende, onuitwisbare keurmerk; CEPT GSM X (waarbij de X de internationale identificatiecode voor mobiele apparatuur (IMEI) voorstelt als genoemd in de GSM recommandatie 03.03);  
+Mobiele stations voor het pan-Europese GSM-systeem dienen, in afwijking van het bepaalde onder de punten 1 tot en met 7, op een duidelijke zichtbare plaats te worden voorzien van het volgende, onuitwisbare keurmerk; CEPT GSM X (waarbij de X de internationale identificatiecode voor mobiele apparatuur (IMEI) voorstelt als genoemd in de GSM recommandatie 03.03); 
 
 ### 9.  
 
@@ -289,7 +289,7 @@ technische computerkunde
 
 telecommunicatie   of daarmee overeenkomende richtingen;  
 
-d. Het diploma Middelbaar Elektronica Technicus (NERG/VEV ); <sup> *  Vereniging tot bevordering van Elektrotechnisch Vakonderwijs in Nederland.  </sup>  
+d. Het diploma Middelbaar Elektronica Technicus (NERG/VEV <sup> * Vereniging tot bevordering van Elektrotechnisch Vakonderwijs in Nederland. </sup> );  
 
 e. Het diploma Middelbaar Installatie Technicus (VEV);  
 

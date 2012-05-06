@@ -11,30 +11,30 @@ Gelet op de [artikelen 2](../../../../../../../../wet/woningwet/BWBR0005181/READ
 De Raad van State gehoord (advies van 17 februari 2005, nr. W08.04.0648/V);
 
 Gezien het nader rapport van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 20 juni 2005, nr. MJZ2005124769, Directie Juridische Zaken, Afdeling Wetgeving;
-Hebben goedgevonden en verstaan:    
+Hebben goedgevonden en verstaan:
 
-### Artikel  I  
+###Artikel I 
 
-Wijzigt het Besluit indieningsvereisten aanvraag bouwvergunning.   
+Wijzigt het Besluit indieningsvereisten aanvraag bouwvergunning.
 
-### Artikel  II  
+###Artikel II 
 
-Artikel II van het besluit van 17 december 2004 (Stb. 2005, 1), houdende wijziging van het Bouwbesluit 2003, komt te luiden:  *ARTIKEL II*  De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Artikel II van het besluit van 17 december 2004 (Stb. 2005, 1), houdende wijziging van het Bouwbesluit 2003, komt te luiden:*ARTIKEL II*De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-### Artikel  III  
+###Artikel III 
 
-De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-’s-Gravenhage 
-24 juni 2005  
-Beatrix  
+’s-Gravenhage
+24 juni 2005
+Beatrix
 
-De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer , 
-S. M. Dekker   
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer ,
+S. M.Dekker
 
-de *zesentwintigste* juli 2005 
+de *zesentwintigste* juli 2005
 
-De Minister van Justitie , 
-J. P. H. Donner    
+De Minister van Justitie ,
+J. P. H.Donner

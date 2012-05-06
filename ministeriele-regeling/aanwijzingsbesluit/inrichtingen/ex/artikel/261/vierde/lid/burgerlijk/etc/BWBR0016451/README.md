@@ -38,19 +38,19 @@ m. Forensisch Centrum ‘Teylingereind’ te Sassenheim;
 
 n. Stichting Justitieel Pedagogisch Centrum ‘De Sprengen’ te Zutphen;  
 
-o. Stichting ‘Rentray’ te Eefde, locatie te Rekken en per 12 januari 2004 de locatie te Lelystad.    
+o. Stichting ‘Rentray’ te Eefde, locatie te Rekken en per 12 januari 2004 de locatie te Lelystad.   
 
 ### Artikel  2  
 
-Het [Besluit houdende aanwijzing van inrichtingen als bedoeld in artikel 261, vierde lid, van Boek 1 van het Burgerlijk Wetboek van 21 december 2001](../../../../../../../../../../../ministeriele-regeling/aanwijzing/gesloten/inrichtingen/BWBR0013294/README.md) wordt ingetrokken.  
+Het [Besluit houdende aanwijzing van inrichtingen als bedoeld in artikel 261, vierde lid, van Boek 1 van het Burgerlijk Wetboek van 21 december 2001](../../../../../../../../../../../ministeriele-regeling/aanwijzing/gesloten/inrichtingen/BWBR0013294/README.md) wordt ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking op 1 december 2003 en wordt in de Staatscourant bekend gemaakt.  
+Dit besluit treedt in werking op 1 december 2003 en wordt in de Staatscourant bekend gemaakt. 
 
 Den Haag 
 27 februari 2004    
 
 De 
-Minister van Justitie, 
-J.P.H.Donner    
+Minister van Justitie,
+J.P.H. Donner      

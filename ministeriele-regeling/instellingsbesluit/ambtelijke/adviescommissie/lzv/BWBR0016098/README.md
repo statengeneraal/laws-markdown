@@ -6,12 +6,12 @@ De Minister van Verkeer en Waterstaat,  Besluit:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder commissie: de commissie, bedoeld in artikel 2, eerste lid.  
+In dit besluit wordt verstaan onder commissie: de commissie, bedoeld in artikel 2, eerste lid. 
 
 ### Artikel  2  
 
 1.  Ingesteld wordt een Ambtelijke adviescommissie proeven met langere of langere en zwaardere vrachtautocombinaties.   
-2.  De commissie heeft tot taak de Dienst Wegverkeer te adviseren met betrekking tot het verlenen van ontheffingen op grond van [artikel 149, eerste lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), ten behoeve van proeven met vrachtautocombinaties die langer of langer en zwaarder zijn dan ingevolge de [Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) toegestaan.   
+2.  De commissie heeft tot taak de Dienst Wegverkeer te adviseren met betrekking tot het verlenen van ontheffingen op grond van [artikel 149, eerste lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), ten behoeve van proeven met vrachtautocombinaties die langer of langer en zwaarder zijn dan ingevolge de [Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) toegestaan.  
 
 ### Artikel  3  
 
@@ -21,32 +21,32 @@ a. een medewerker van het Directoraat-Generaal Goederenvervoer van het Ministeri
 
 b. een medewerker van de Hoofddirectie Juridische Zaken van het Ministerie van Verkeer en Waterstaat;  
 
-c. een medewerker van de Dienst Wegverkeer.     
-2.  Het secretariaat van de commissie berust bij het Directoraat-Generaal Goederenvervoer van het Ministerie van Verkeer en Waterstaat.   
+c. een medewerker van de Dienst Wegverkeer.    
+2.  Het secretariaat van de commissie berust bij het Directoraat-Generaal Goederenvervoer van het Ministerie van Verkeer en Waterstaat.  
 
 ### Artikel  4  
 
 1.  De commissie adviseert de Dienst Wegverkeer positief met betrekking tot het verlenen van een ontheffing, indien de aanvrager aantoont te voldoen aan de toetsingscriteria voor deelname aan de proef, zoals opgenomen in de bijlage.   
-2.  De commissie trekt haar positieve advies in, indien blijkt dat de aanvrager niet of niet langer voldoet na toetsing aan de in de bijlage opgenomen toetsingscriteria.   
+2.  De commissie trekt haar positieve advies in, indien blijkt dat de aanvrager niet of niet langer voldoet na toetsing aan de in de bijlage opgenomen toetsingscriteria.  
 
 ### Artikel  5  
 
-De commissie doet van haar adviezen of de intrekking daarvan onverwijld mededeling aan de Dienst Wegverkeer en de deelnemer aan de proef.  
+De commissie doet van haar adviezen of de intrekking daarvan onverwijld mededeling aan de Dienst Wegverkeer en de deelnemer aan de proef. 
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit Ambtelijke adviescommissie LZV.  
+Dit besluit wordt aangehaald als: Instellingsbesluit Ambtelijke adviescommissie LZV. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Verkeer en Waterstaat, 
-K.M.H.Peijs   
+K.M.H. Peijs     
 
 ### Bijlage  
 
-### *Toetsingscriteria voor deelname aan proeven met langere of langere en zwaardere vrachtautocombinaties* 
+###*Toetsingscriteria voor deelname aan proeven met langere of langere en zwaardere vrachtautocombinaties*
 
-### I  
+###I  
 
 ####ALGEMEEN
 
@@ -73,7 +73,7 @@ In de periode van 1 maart 2004 tot 1 november 2006 wordt een proef met langere 
 
 1. die beschikken over ten hoogste twee draaipunten;  
 
-2. die een minimale lengte van de laadruimte, bedoeld in bijlage 1, onder 1.7, van richtlijn nr. 96/53/EEG, hebben van tenminste 18,00 m. Indien als laadeenheden containers worden gebruikt, dient de vrachtautocombinatie geschikt te zijn voor het vervoer van 3 TEU ; en <sup> 3  TEU = Twenty Feet Equivalent Unit, de standaard maat van een ISO-container .  </sup>  
+2. die een minimale lengte van de laadruimte, bedoeld in bijlage 1, onder 1.7, van richtlijn nr. 96/53/EEG, hebben van tenminste 18,00 m. Indien als laadeenheden containers worden gebruikt, dient de vrachtautocombinatie geschikt te zijn voor het vervoer van 3 TEU<sup>3TEU = Twenty Feet Equivalent Unit, de standaard maat van een ISO-container .</sup>; en   
 
 3. 
 a. die langer zijn dan de op grond van [artikel 5.18.11, tweede lid, van de Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), toegestane lengte van 18,75 m, met een maximum van 25,25 m; of  
@@ -101,15 +101,15 @@ A. De ondernemer is verplicht om dagelijks een ritformulier te doen invullen. De
 
 5. het brandstofverbruik van de vrachtautocombinatie op de vermelde rit;  
 
-6. de door de bestuurder ervaren knelpunten en overige opgedane ervaringen.   B. De ondernemer verleent de Minister inzage in de vrachtbrieven of andere administratie die betrekking hebben op de met de vrachtautocombinatie vervoerde lading, en verstrekt de Minister alle inlichtingen over ongevallen, overtredingen of misdrijven waarbij de vrachtautocombinatie is betrokken, en de eventuele opgemaakte processen-verbaal. C. De ondernemer verleent niet alleen inzage in de kosten, die bestaan uit personeelskosten , kosten rijdend materieel en overige bedrijfskosten , van de onder de proef verrichte ritten, maar ook over de ritten die inzicht in de meer of minderkosten van de vrachtautocombinaties uit de proef ten opzichte van de huidige situatie kunnen verschaffen. <sup> 4  Hiertoe worden gerekend brutoloon en sociale lasten, onkostenvergoedingen en overige personeelskosten.  </sup> <sup> 5  Hiertoe worden gerekend de motorrijtuigen belasting, verzekeringen, afschrijvingen, brandstof, banden, reparatie en onderhoud.  </sup> <sup> 6  Hiertoe worden gerekend de rente en overige bedrijfskosten.  </sup> De Minister houdt de door de ondernemers ingeleverde ritformulieren en de door hen verstrekte overige bedrijfsgegevens vertrouwelijk, en gebruikt deze uitsluitend voor de evaluatie van de praktijkproeven. Hierin zullen de gegevens anoniem worden gepresenteerd.  
+6. de door de bestuurder ervaren knelpunten en overige opgedane ervaringen.   B. De ondernemer verleent de Minister inzage in de vrachtbrieven of andere administratie die betrekking hebben op de met de vrachtautocombinatie vervoerde lading, en verstrekt de Minister alle inlichtingen over ongevallen, overtredingen of misdrijven waarbij de vrachtautocombinatie is betrokken, en de eventuele opgemaakte processen-verbaal. C. De ondernemer verleent niet alleen inzage in de kosten, die bestaan uit personeelskosten<sup>4Hiertoe worden gerekend brutoloon en sociale lasten, onkostenvergoedingen en overige personeelskosten.</sup>, kosten rijdend materieel<sup>5 Hiertoe worden gerekend de motorrijtuigen belasting, verzekeringen, afschrijvingen, brandstof, banden, reparatie en onderhoud.</sup> en overige bedrijfskosten<sup>6Hiertoe worden gerekend de rente en overige bedrijfskosten.</sup>, van de onder de proef verrichte ritten, maar ook over de ritten die inzicht in de meer of minderkosten van de vrachtautocombinaties uit de proef ten opzichte van de huidige situatie kunnen verschaffen.  De Minister houdt de door de ondernemers ingeleverde ritformulieren en de door hen verstrekte overige bedrijfsgegevens vertrouwelijk, en gebruikt deze uitsluitend voor de evaluatie van de praktijkproeven. Hierin zullen de gegevens anoniem worden gepresenteerd. 
 
-### II  
+###II 
 
-####CRITERIA VOOR TE GEBRUIKEN ROUTES
+#### CRITERIA VOOR TE GEBRUIKEN ROUTES
 
-1. De infrastructuur van de weggedeelten moet geschikt zijn om de vrachtautocombinatie te dragen en te laten rijden. 2. Het rijden met de vrachtautocombinatie mag geen onverantwoord risico opleveren voor de veiligheid van andere verkeersdeelnemers. 3. Proeven mogen plaatsvinden op autosnelwegen en de verbindende stukken autoweg (N-weg met hetzelfde codenummer als de autosnelweg), tussen twee stukken autosnelweg in beheer van het Rijk, alsmede op wegen vallend onder ‘trajecten’. 4. Een te rijden traject bestaat uit autowegen en andere wegen met een geslotenverklaring voor langzaam verkeer en een fysiek gescheiden infrastructuur voor fietsers, bromfietsers en voetgangers met zo mogelijk twee of meer rijstroken per rijrichting, waarbij in aansluiting op deze wegen ten hoogste 5 km over andere wegen mag worden gereden. 5. Een te rijden traject heeft als beginpunt of als eindpunt een op- of afrit van een auto(snel)weg in beheer van het Rijk. Een te rijden traject heeft,over de weg gemeten, met uitzondering van de lengte van autowegen, een lengte van ten hoogste 20 km. In een te rijden traject mag zich geen 30 km-zone, woongebied, kernwinkelgebied, of gebied met venstertijden bevinden. 6. Waar een andere weg aan sluit op een auto(snel)weg dient de auto(snel)weg in het verlengde van de invoegstrook te zijn voorzien van een vluchtstrook van ten minste 250 m. 7. In een door een vrachtautocombinatie te rijden traject mag zich geen kruising bevinden met een gelijkvloerse spoorwegovergang waarover treinen met een snelheid van meer dan 40 km/uur passeren. 8. Voor een vrachtautocombinatie geldt een inhaalverbod van alle motorvoertuigen die sneller mogen rijden dan 50 km per uur.  
+1. De infrastructuur van de weggedeelten moet geschikt zijn om de vrachtautocombinatie te dragen en te laten rijden. 2. Het rijden met de vrachtautocombinatie mag geen onverantwoord risico opleveren voor de veiligheid van andere verkeersdeelnemers. 3. Proeven mogen plaatsvinden op autosnelwegen en de verbindende stukken autoweg (N-weg met hetzelfde codenummer als de autosnelweg), tussen twee stukken autosnelweg in beheer van het Rijk, alsmede op wegen vallend onder ‘trajecten’. 4. Een te rijden traject bestaat uit autowegen en andere wegen met een geslotenverklaring voor langzaam verkeer en een fysiek gescheiden infrastructuur voor fietsers, bromfietsers en voetgangers met zo mogelijk twee of meer rijstroken per rijrichting, waarbij in aansluiting op deze wegen ten hoogste 5 km over andere wegen mag worden gereden. 5. Een te rijden traject heeft als beginpunt of als eindpunt een op- of afrit van een auto(snel)weg in beheer van het Rijk. Een te rijden traject heeft,over de weg gemeten, met uitzondering van de lengte van autowegen, een lengte van ten hoogste 20 km. In een te rijden traject mag zich geen 30 km-zone, woongebied, kernwinkelgebied, of gebied met venstertijden bevinden. 6. Waar een andere weg aan sluit op een auto(snel)weg dient de auto(snel)weg in het verlengde van de invoegstrook te zijn voorzien van een vluchtstrook van ten minste 250 m. 7. In een door een vrachtautocombinatie te rijden traject mag zich geen kruising bevinden met een gelijkvloerse spoorwegovergang waarover treinen met een snelheid van meer dan 40 km/uur passeren. 8. Voor een vrachtautocombinatie geldt een inhaalverbod van alle motorvoertuigen die sneller mogen rijden dan 50 km per uur. 
 
-### III  
+###III 
 
 ####CRITERIA AAN DE BESTUURDER
 
@@ -117,9 +117,9 @@ A. De ondernemer is verplicht om dagelijks een ritformulier te doen invullen. De
 
 a. de bestuurder heeft ten minste vijf jaren ervaring met het besturen van een vrachtautocombinatie vallend onder rijbewijs C-E;  
 
-b. van de bestuurder was de rijbevoegdheid drie jaar voorafgaand aan deelname aan de proef niet ontzegd, het rijbewijs ongeldig verklaard of ingevorderd, wegens een overtreding of misdrijf.    
+b. van de bestuurder was de rijbevoegdheid drie jaar voorafgaand aan deelname aan de proef niet ontzegd, het rijbewijs ongeldig verklaard of ingevorderd, wegens een overtreding of misdrijf.  
 
-### IV  
+###IV 
 
 ####AANVRAAG VOOR DEELNAME EN TOEKENNINGSPROCEDURE
 
@@ -152,5 +152,5 @@ b. Ondernemer niet voldoende meewerkt aan de verzameling van gegevens zoals geno
 
 c. Ondernemer aanwijsbaar schuldig is aan een ernstig ongeval bij de inzet van de vrachtautocombinaties;  
 
-d. Ondernemer zich aantoonbaar met de vrachtautocombinatie op wegen heeft bevonden waarvoor geen ontheffing is verstrekt in het kader van deze proef.   Bij het intrekken van het positieve advies op basis van de voorgaande redenen is geen beroep mogelijk inzake schadeloosstelling.  
+d. Ondernemer zich aantoonbaar met de vrachtautocombinatie op wegen heeft bevonden waarvoor geen ontheffing is verstrekt in het kader van deze proef.   Bij het intrekken van het positieve advies op basis van de voorgaande redenen is geen beroep mogelijk inzake schadeloosstelling. 
 

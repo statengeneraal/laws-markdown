@@ -11,4 +11,4 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-L.J.Brinkhorst    
+L.J. Brinkhorst      

@@ -10,25 +10,25 @@ Besluit:
 
 ### Artikel  1  
 
-Een onderschepping van een burgerluchtvaartuig door een militair luchtvaartuig of een luchtvaartuig dat wordt gebruikt voor politie- of douanediensten wordt uitgevoerd volgens het handboek voor het onderscheppen van burgerluchtvaartuigen van ICAO, doc 9433-AN/926, dat als bijlage is opgenomen bij deze regeling, tenzij anders wordt beslist op grond van de [Regeling bijstand bestrijding luchtvaartterrorisme](../../../../../ministeriele-regeling/regeling/bijstand/bestrijding/luchtvaartterrorisme/BWBR0018217/README.md).  
+Een onderschepping van een burgerluchtvaartuig door een militair luchtvaartuig of een luchtvaartuig dat wordt gebruikt voor politie- of douanediensten wordt uitgevoerd volgens het handboek voor het onderscheppen van burgerluchtvaartuigen van ICAO, doc 9433-AN/926, dat als bijlage is opgenomen bij deze regeling, tenzij anders wordt beslist op grond van de [Regeling bijstand bestrijding luchtvaartterrorisme](../../../../../ministeriele-regeling/regeling/bijstand/bestrijding/luchtvaartterrorisme/BWBR0018217/README.md). 
 
 ### Artikel  2  
 
-Een luchtverkeersleider die een wederrechtelijke inmenging signaleert, of gedragingen vaststelt die daarop kunnen wijzen, of andere omstandigheden signaleert die een onderschepping wenselijk maken, informeert terstond zijn supervisor. Deze waarschuwt terstond de Supervisor MilATCC Nieuw Milligen van het Ministerie van Defensie.  
+Een luchtverkeersleider die een wederrechtelijke inmenging signaleert, of gedragingen vaststelt die daarop kunnen wijzen, of andere omstandigheden signaleert die een onderschepping wenselijk maken, informeert terstond zijn supervisor. Deze waarschuwt terstond de Supervisor MilATCC Nieuw Milligen van het Ministerie van Defensie. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  4  
 
-Deze regeling wordt aangehaald als: Regeling onderschepping luchtvaartuigen.  
+Deze regeling wordt aangehaald als: Regeling onderschepping luchtvaartuigen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. De bijlage bij deze regeling ligt ter visie bij Ministerie van Verkeer en Waterstaat en bij de Inspectie Verkeer en Waterstaat.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings  
+C.M.P.S. Eurlings    
 
-### Bijlage  
+###Bijlage 
 
-Ligt ter inzage bij Ministerie van Verkeer en Waterstaat en bij de Inspectie Verkeer en Waterstaat.  
+Ligt ter inzage bij Ministerie van Verkeer en Waterstaat en bij de Inspectie Verkeer en Waterstaat.

@@ -12,7 +12,7 @@ In deze beleidsregel wordt verstaan onder:
 
 a. hoge druk transportleidingennet: het deel van het landelijk gastransportnet dat wordt gebruikt onder een druk van 40 bar of meer;  
 
-b. lage druk transportleidingennet: het deel van het landelijk gastransport net dat wordt gebruikt onder een druk van minder dan 40 bar.    
+b. lage druk transportleidingennet: het deel van het landelijk gastransport net dat wordt gebruikt onder een druk van minder dan 40 bar.   
 
 ### Artikel  2  
 
@@ -20,7 +20,7 @@ Bij het vaststellen van de methode van regulering voor de taken van de netbeheer
 
 a. een lineaire afschrijving over een termijn van 55 jaar voor leidingen, waarbij rekening wordt gehouden met reeds gedane afschrijvingen en jaarlijkse indexatie;  
 
-b. een reële kapitaalkostenvergoeding vóór belastingen van 5,5%.    
+b. een reële kapitaalkostenvergoeding vóór belastingen van 5,5%.   
 
 ### Artikel  3  
 
@@ -42,11 +42,11 @@ c. een reële kapitaalkostenvergoeding vóór belastingen van 7,0%.
 
 a. de waarde van de investering;  
 
-b. een reële kapitaalkostenvergoeding vóór belastingen van 5,5%.     
+b. een reële kapitaalkostenvergoeding vóór belastingen van 5,5%.    
 
 ### Artikel  4  
 
-Deze beleidsregel treedt in werking op de tweede dag na publicatie in de Staatscourant.  
+Deze beleidsregel treedt in werking op de tweede dag na publicatie in de Staatscourant. 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -54,4 +54,4 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-M.J.A. van derHoeven   
+M.J.A. van der  Hoeven     

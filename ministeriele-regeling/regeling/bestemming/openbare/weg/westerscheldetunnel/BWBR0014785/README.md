@@ -10,34 +10,34 @@ Besluit:
 
 De wegen door de Westerscheldetunnel en de volgende aansluitende wegen zijn met ingang van 14 maart 2003 openbaar: 
 
-a. de weg die de wegen door de Westerscheldetunnel aansluit op de N254, zoals aangegeven in bijlage 1 bij deze regeling,  
+a.  de weg die de wegen door de Westerscheldetunnel aansluit op de N254, zoals aangegeven in bijlage 1 bij deze regeling, 
 
-b. de weg die de wegen door de Westerscheldetunnel aansluit op de rotonde in de N61, zoals aangegeven in bijlage 1 bij deze regeling,  
+b.  de weg die de wegen door de Westerscheldetunnel aansluit op de rotonde in de N61, zoals aangegeven in bijlage 1 bij deze regeling, 
 
-c. de toeritten van de Herbert H. Dowweg naar de oostelijke, onderscheidenlijk westelijke rijbaan van de weg, bedoeld in onderdeel b, zoals aangegeven in bijlage 2 bij deze regeling, en  
+c.  de toeritten van de Herbert H. Dowweg naar de oostelijke, onderscheidenlijk westelijke rijbaan van de weg, bedoeld in onderdeel b, zoals aangegeven in bijlage 2 bij deze regeling, en 
 
-d. de afritten van de oostelijke, onderscheidenlijk westelijke rijbaan van de weg, bedoeld in onderdeel b, naar de Herbert H. Dowweg, zoals aangegeven in bijlage 2 bij deze regeling.    
+d.  de afritten van de oostelijke, onderscheidenlijk westelijke rijbaan van de weg, bedoeld in onderdeel b, naar de Herbert H. Dowweg, zoals aangegeven in bijlage 2 bij deze regeling.  
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Regeling bestemming openbare weg Westerscheldetunnel.  
+Deze regeling wordt aangehaald als: Regeling bestemming openbare weg Westerscheldetunnel. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Verkeer en Waterstaat, 
-Roelf H. deBoer   
+Roelf H. deBoer    
 
-### Bijlage  1  
+### Bijlage 1  
 
 ####, behorende bij de Regeling bestemming openbare weg Westerscheldetunnel
 
 ![36284](http://wetten.overheid.nl/Illustration/36284)
 
-### Bijlage  2  
+### Bijlage 2  
 
 ####, behorende bij de Regeling bestemming openbare weg Westerscheldetunnel
 

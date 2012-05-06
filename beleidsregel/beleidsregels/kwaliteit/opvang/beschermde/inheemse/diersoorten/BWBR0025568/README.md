@@ -3,12 +3,12 @@
 ##Besluit van de Minister van Landbouw, Natuur en Voedselkwaliteit van 20 maart 2009, nr. TRCJZ/2009/620, houdende vaststelling van beleidsregels over de kwaliteit van de opvang van beschermde inheemse diersoorten (beleidsregels kwaliteit opvang beschermde inheemse diersoorten)
 
 De Minister van Landbouw, Natuur en Voedselkwaliteit,  
-Gelet op artikel 75, derde en vijfde lid, en 79, eerste lid, van de Flora- en faunawet en op artikel 4:81 van de Algemene wet bestuursrecht;
+Gelet op [artikel 75, derde en vijfde lid](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), en [79, eerste lid, van de Flora- en faunawet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) en op [artikel 4:81 van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
 Besluit:    
 
 ### Artikel  1  
 
-Deze beleidsregels gelden voor de verlening van ontheffing van de artikelen 9, 13, eerste lid, en in voorkomend geval van artikel 15, tweede lid, van de Flora- en faunawet aan opvangcentra die uit de natuur afkomstige, niet-gedomesticeerde beschermde inheemse diersoorten opvangen of gaan opvangen.  
+Deze beleidsregels gelden voor de verlening van ontheffing van de [artikelen 9](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), [13, eerste lid](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), en in voorkomend geval van [artikel 15, tweede lid, van de Flora- en faunawet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) aan opvangcentra die uit de natuur afkomstige, niet-gedomesticeerde beschermde inheemse diersoorten opvangen of gaan opvangen. 
 
 ### Artikel  2  
 
@@ -20,20 +20,20 @@ b. in de statuten van de stichting of de vereniging de doelstelling van het opva
 
 c. het opvangcentrum, bedoeld in artikel 1, beschikt over een vakbekwaam dierverzorger;  
 
-d. het opvangcentrum, bedoeld in artikel 1, voldoet aan de voorwaarden van het kwaliteitsprotocol, opgenomen in de bijlage bij dit besluit.    
+d. het opvangcentrum, bedoeld in artikel 1, voldoet aan de voorwaarden van het kwaliteitsprotocol, opgenomen in de bijlage bij dit besluit.   
 
 ### Artikel  3  
 
-1.  Reeds aan opvangcentra als bedoeld in artikel 1 voor de opvang van dieren verleende ontheffingen voor onbeperkte tijd, op grond van de Flora- en faunawet, de Vogelwet 1936 en artikel 25 van de Natuurbeschermingswet worden met ingang van 1 juli 2012 ingetrokken.   
-2.  Reeds aan opvangcentra als bedoeld in artikel 2 voor de opvang van dieren verleende ontheffingen met een beperkte tijdsduur, op grond van de Flora- en faunawet, de Vogelwet 1936 en artikel 25 van de Natuurbeschermingswet blijven van kracht tot 1 juli 2012.   
+1.  Reeds aan opvangcentra als bedoeld in artikel 1 voor de opvang van dieren verleende ontheffingen voor onbeperkte tijd, op grond van de [Flora- en faunawet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), de Vogelwet 1936 en [artikel 25 van de Natuurbeschermingswet](../../../../../../../../wet/natuurbeschermingswet/BWBR0002611/README.md) worden met ingang van 1 juli 2012 ingetrokken.   
+2.  Reeds aan opvangcentra als bedoeld in artikel 2 voor de opvang van dieren verleende ontheffingen met een beperkte tijdsduur, op grond van de [Flora- en faunawet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), de Vogelwet 1936 en [artikel 25 van de Natuurbeschermingswet](../../../../../../../../wet/natuurbeschermingswet/BWBR0002611/README.md) blijven van kracht tot 1 juli 2012.  
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Beleidsregels kwaliteit opvang beschermde inheemse diersoorten.  
+Dit besluit wordt aangehaald als: Beleidsregels kwaliteit opvang beschermde inheemse diersoorten. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van 1 juli 2009.  
+Dit besluit treedt in werking met ingang van 1 juli 2009. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -41,7 +41,7 @@ Den Haag
 
 De 
 Minister van Landbouw, Natuur en Voedselkwaliteit, 
-G.Verburg  
+G. Verburg    
 
 ### Bijlage  
 
@@ -57,7 +57,7 @@ G.Verburg
 
 In deze bijlage wordt verstaan onder: 
 
-– beschermde inheemse dieren: beschermde inheemse dieren, bedoeld in artikel 4 van de Flora- en faunawet;  
+– beschermde inheemse dieren: beschermde inheemse dieren, bedoeld in [artikel 4 van de Flora- en faunawet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);  
 
 – bestuur: bestuur van de vereniging of stichting van het opvangcentrum;  
 
@@ -65,7 +65,7 @@ In deze bijlage wordt verstaan onder:
 
 – soort: ondersoort, geografisch onderscheiden populatie van een soort of kruisingen;  
 
-– soortgroep: een verzameling verwante diersoorten.    
+– soortgroep: een verzameling verwante diersoorten.   
 
 ### Artikel  2  
 
@@ -77,7 +77,7 @@ In deze bijlage wordt verstaan onder:
 
 3. De opvang is zodanig dat een dier zoveel mogelijk zijn soorteigen gedrag kan blijven vertonen na terugkeer naar de natuur.  
 
-4. Het opvangcentrum geeft waar mogelijk voorlichting over de wilde flora en fauna en draagt actief uit, in het bijzonder aan personen die een dier ter opvang aanbrengen, dat de wilde inheemse flora en fauna en de natuurlijke processen die daarbij horen, niet verstoord mogen worden.    
+4. Het opvangcentrum geeft waar mogelijk voorlichting over de wilde flora en fauna en draagt actief uit, in het bijzonder aan personen die een dier ter opvang aanbrengen, dat de wilde inheemse flora en fauna en de natuurlijke processen die daarbij horen, niet verstoord mogen worden.   
 
 ### Artikel  3  
 
@@ -87,7 +87,7 @@ In deze bijlage wordt verstaan onder:
 
 2. Met de beschermde inheemse dieren vinden in het opvangcentrum geen bedrijfsmatige activiteiten plaats.  
 
-3. Indien in het opvangcentrum andere dieren dan beschermde inheemse dieren, aanwezig zijn, wordt de huisvesting van de eerstgenoemde dieren strikt gescheiden gehouden van de faciliteiten van het opvangcentrum.    
+3. Indien in het opvangcentrum andere dieren dan beschermde inheemse dieren, aanwezig zijn, wordt de huisvesting van de eerstgenoemde dieren strikt gescheiden gehouden van de faciliteiten van het opvangcentrum.   
 
 ### Artikel  4  
 
@@ -119,7 +119,7 @@ k. organisatorische continuïteit;
 
 l. bezoekers.    
 
-2. Het bestuur, de beheerder en de medewerkers van het opvangcentrum handelen conform de vastgestelde werkwijze, bedoeld in het eerste lid.    
+2. Het bestuur, de beheerder en de medewerkers van het opvangcentrum handelen conform de vastgestelde werkwijze, bedoeld in het eerste lid.   
 
 ### Artikel  5  
 
@@ -131,7 +131,7 @@ l. bezoekers.
 
 a. het opvangcentrum permanent telefonisch bereikbaar is voor andere opvangcentra, dierenambulances, politie, brandweer, de Algemene Inspectiedienst van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, en andere bevoegde opsporingsinstanties.  
 
-b. het publiek permanent telefonisch informatie kan verkrijgen, inclusief hoe te handelen buiten openingstijden van het opvangcentrum.      
+b. het publiek permanent telefonisch informatie kan verkrijgen, inclusief hoe te handelen buiten openingstijden van het opvangcentrum.     
 
 ### Artikel  6  
 
@@ -141,7 +141,7 @@ b. het publiek permanent telefonisch informatie kan verkrijgen, inclusief hoe te
 
 2. Het opvangcentrum helpt andere opvangcentra door gevraagd en ongevraagd informatie, kennis en kunde te delen.  
 
-3. Het opvangcentrum streeft naar constructieve samenwerking met andere opvangcentra ten einde kennis en kunde te vergroten en betere resultaten met de beschermde inheemse dieren te bereiken.    
+3. Het opvangcentrum streeft naar constructieve samenwerking met andere opvangcentra ten einde kennis en kunde te vergroten en betere resultaten met de beschermde inheemse dieren te bereiken.   
 
 ### Paragraaf  2  
 
@@ -167,7 +167,7 @@ e. herpetofauna;
 
 f. overige zoogdieren.    
 
-3. Voor de soorten of soortgroepen die buiten het in het eerste lid genoemde beleid vallen verwijst het opvangcentrum naar andere opvangcentra die wel over de juiste ontheffing van de Flora- en faunawet beschikken.    
+3. Voor de soorten of soortgroepen die buiten het in het eerste lid genoemde beleid vallen verwijst het opvangcentrum naar andere opvangcentra die wel over de juiste ontheffing van de [Flora- en faunawet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) beschikken.   
 
 ### Artikel  8  
 
@@ -187,7 +187,7 @@ d. in de samenwerkingsovereenkomst in ieder geval bepaald is hoe, en binnen welk
 
 e. de samenwerkingsovereenkomst een integraal onderdeel vormt van de werkwijze, bedoeld in artikel 4, eerste lid, onderdeel a.    
 
-3. Het opvangcentrum heeft een verblijf voor tijdelijke huisvesting, dat geschikt is voor kortstondige opvang van de overige soorten als bedoeld in het tweede lid, onderdeel a.    
+3. Het opvangcentrum heeft een verblijf voor tijdelijke huisvesting, dat geschikt is voor kortstondige opvang van de overige soorten als bedoeld in het tweede lid, onderdeel a.   
 
 ### Artikel  9  
 
@@ -203,11 +203,11 @@ c. het dier een risico geeft voor de aanwezige dieren;
 
 d. het dier een risico geeft voor de medewerkers in het opvangcentrum.    
 
-2. Indien een ter opvang aangeboden dier wordt geweigerd, onderzoekt het opvangcentrum of het dier direct in vrijheid kan worden gesteld. Indien dit niet mogelijk is, wordt onderzocht of het dier kan worden geplaatst in een in de betreffende soort gespecialiseerd opvangcentrum voorzien van een ontheffing van de Flora- en faunawet.  
+2. Indien een ter opvang aangeboden dier wordt geweigerd, onderzoekt het opvangcentrum of het dier direct in vrijheid kan worden gesteld. Indien dit niet mogelijk is, wordt onderzocht of het dier kan worden geplaatst in een in de betreffende soort gespecialiseerd opvangcentrum voorzien van een ontheffing van de [Flora- en faunawet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md).  
 
 3. Indien geen van deze mogelijkheden haalbaar is, wordt het dier gedood, overeenkomstig de bepalingen in paragraaf 5.  
 
-4. In de administratie, bedoeld in artikel 32, wordt opgenomen of het dier is teruggeplaatst in de natuur, geplaatst is in een ander opvangcentrum, dan wel is gedood.    
+4. In de administratie, bedoeld in artikel 32, wordt opgenomen of het dier is teruggeplaatst in de natuur, geplaatst is in een ander opvangcentrum, dan wel is gedood.   
 
 ### Paragraaf  3  
 
@@ -219,7 +219,7 @@ d. het dier een risico geeft voor de medewerkers in het opvangcentrum.
 
 1. Het opvangcentrum beschikt over één of meer opvanglocaties die eigendom zijn van de organisatie zelf of krachtens een schriftelijke gebruiksovereenkomst ter beschikking van de organisatie staat of staan.  
 
-2. Elke opvanglocatie voldoet aan de artikelen 11 tot en met 22, 32 en 33.    
+2. Elke opvanglocatie voldoet aan de artikelen 11 tot en met 22, 32 en 33.   
 
 ### Artikel  11  
 
@@ -237,7 +237,7 @@ b. de bewegingsvrijheid van de dieren;
 
 c. de (sociale) levenswijze van de dieren in het wild, rekening houdend met de mogelijkheden van het individuele dier;  
 
-d. de behoeften van het individuele dier in de verschillende fasen van het proces tot herstel.      
+d. de behoeften van het individuele dier in de verschillende fasen van het proces tot herstel.     
 
 ### Artikel  12  
 
@@ -257,7 +257,7 @@ a. dit het herstel van de beschermde inheemse dieren niet vertraagt of belemmert
 
 b. voorzieningen zijn getroffen die de kans op verspreiding van smetstoffen binnen en buiten de gecombineerde ruimten voldoende beperken.    
 
-3. Onderling contact tussen dieren in verschillende verblijven in de afzonderingsruimte evenals contact met uitscheidingen van dieren, zoals urine, speeksel en uitwerpselen, in een ander verblijf wordt uitgesloten.    
+3. Onderling contact tussen dieren in verschillende verblijven in de afzonderingsruimte evenals contact met uitscheidingen van dieren, zoals urine, speeksel en uitwerpselen, in een ander verblijf wordt uitgesloten.   
 
 ### Artikel  13  
 
@@ -265,7 +265,7 @@ b. voorzieningen zijn getroffen die de kans op verspreiding van smetstoffen binn
 
 1. Een opvangcentrum dat soorten opvangt, die onder natuurlijke omstandigheden een roofdier-prooidier relatie hebben, treft maatregelen om te voorkomen dat opgevangen dieren van deze soorten elkaar kunnen waarnemen.  
 
-2. Alleen voor roofdier-prooidier relaties tussen vogels geldt voor het bepaalde in het eerste lid dat het uitsluiten van visueel contact voldoende is.    
+2. Alleen voor roofdier-prooidier relaties tussen vogels geldt voor het bepaalde in het eerste lid dat het uitsluiten van visueel contact voldoende is.   
 
 ### Artikel  14  
 
@@ -283,13 +283,13 @@ d. indien dit voor het herstel van de betreffende diersoort noodzakelijk is, het
 
 2. Opgevangen dieren worden nooit als voer voor andere dieren gebruikt.  
 
-3. De voedingsmiddelen die nodig zijn voor de bereiding van het dieet van de opgevangen dieren, zijn kwalitatief goed en worden onder hygiënische omstandigheden opgeslagen.    
+3. De voedingsmiddelen die nodig zijn voor de bereiding van het dieet van de opgevangen dieren, zijn kwalitatief goed en worden onder hygiënische omstandigheden opgeslagen.   
 
 ### Artikel  15  
 
 ####Diergeneesmiddelen
 
-Diergeneesmiddelen worden bewaard in een speciaal daarvoor bestemde en afsluitbare bewaarmogelijkheid.  
+Diergeneesmiddelen worden bewaard in een speciaal daarvoor bestemde en afsluitbare bewaarmogelijkheid. 
 
 ### Artikel  16  
 
@@ -307,19 +307,19 @@ c. hoe gehandeld wordt als een besmettelijke ziekte is geconstateerd bij een zie
 
 d. hoe om te gaan met de bestrijding van ongedierte;  
 
-e. hoe de medewerkers of bezoekers van een opvangcentrum zich aan hygiëne bepalingen houden.      
+e. hoe de medewerkers of bezoekers van een opvangcentrum zich aan hygiëne bepalingen houden.     
 
 ### Artikel  17  
 
 ####Zoönosen
 
-In de werkwijze, bedoeld in artikel 4, eerste lid, onderdeel e, staat beschreven welke zoönosen kunnen voorkomen bij dieren in het opvangcentrum. Hierbij dient tenminste opgenomen te zijn een beschrijving van de zoönosen, hoe deze herkend kunnen worden en welke maatregelen getroffen worden als een zoönose geconstateerd wordt. Tevens wordt beschreven welke maatregelen een medewerker kan nemen om zich te beschermen tegen de zoönose(n) en hoe een besmetting kan worden vastgesteld of uitgesloten.  
+In de werkwijze, bedoeld in artikel 4, eerste lid, onderdeel e, staat beschreven welke zoönosen kunnen voorkomen bij dieren in het opvangcentrum. Hierbij dient tenminste opgenomen te zijn een beschrijving van de zoönosen, hoe deze herkend kunnen worden en welke maatregelen getroffen worden als een zoönose geconstateerd wordt. Tevens wordt beschreven welke maatregelen een medewerker kan nemen om zich te beschermen tegen de zoönose(n) en hoe een besmetting kan worden vastgesteld of uitgesloten. 
 
 ### Artikel  18  
 
 ####Voorkomen voortplanting
 
-Het opvangcentrum neemt maatregelen om voortplanting te voorkomen, bijvoorbeeld door het inbrengen van hormonale contraceptieve implantaten, bij dieren die vanwege hun natuurlijk gedrag in gemengde groepen worden gehuisvest.  
+Het opvangcentrum neemt maatregelen om voortplanting te voorkomen, bijvoorbeeld door het inbrengen van hormonale contraceptieve implantaten, bij dieren die vanwege hun natuurlijk gedrag in gemengde groepen worden gehuisvest. 
 
 ### Artikel  19  
 
@@ -331,7 +331,7 @@ a. op welke wijze de toegang tot veterinaire zorg is verzekerd;
 
 b. hoe het onderzoek van binnengebrachte dieren plaatsvindt.    
 
-2. Het opvangcentrum streeft ernaar de veterinaire zorg van de opgevangen dieren zoveel mogelijk bij één dierenarts te laten berusten.    
+2. Het opvangcentrum streeft ernaar de veterinaire zorg van de opgevangen dieren zoveel mogelijk bij één dierenarts te laten berusten.   
 
 ### Artikel  20  
 
@@ -339,7 +339,7 @@ b. hoe het onderzoek van binnengebrachte dieren plaatsvindt.
 
 1. Bij ieder binnengebracht dier wordt beoordeeld of onderzoek door een dierenarts noodzakelijk is. Van deze beoordeling wordt door een medewerker schriftelijk verslag gedaan in de administratie en het logboek, bedoeld in artikelen 32 en 33.  
 
-2. Dit verslag bevat ook een inschatting van de mate waarin het verantwoord zal zijn het dier, al dan niet na opvang en herstel, weer terug te plaatsen in de vrije natuur.    
+2. Dit verslag bevat ook een inschatting van de mate waarin het verantwoord zal zijn het dier, al dan niet na opvang en herstel, weer terug te plaatsen in de vrije natuur.   
 
 ### Artikel  21  
 
@@ -347,13 +347,13 @@ b. hoe het onderzoek van binnengebrachte dieren plaatsvindt.
 
 1. De gezondheid en algehele conditie van alle dieren wordt dagelijks gecontroleerd door een van de vaste medewerkers van het opvangcentrum. De bevindingen worden door hen vastgelegd in een logboek als bedoeld in artikel 33 en, in het geval dat een medische behandeling wordt gestart, ook in de administratie, bedoeld in artikel 32.  
 
-2. Dieren waarbij tijdens de dagelijkse inspectie als bedoeld in het eerste lid afwijkingen worden geconstateerd, worden door de medewerkers van het opvangcentrum gemeld bij de beheerder. Indien een behandeling noodzakelijk is, schakelt de persoon, bedoeld in artikel 29, eerste lid, een dierenarts in.    
+2. Dieren waarbij tijdens de dagelijkse inspectie als bedoeld in het eerste lid afwijkingen worden geconstateerd, worden door de medewerkers van het opvangcentrum gemeld bij de beheerder. Indien een behandeling noodzakelijk is, schakelt de persoon, bedoeld in artikel 29, eerste lid, een dierenarts in.   
 
 ### Artikel  22  
 
 ####Verdenking aangifteplichtige dierziekten
 
-Het opvangcentrum let op verschijnselen die kunnen wijzen op een besmetting met een aangifteplichtige dierziekte. Deze signalen worden gemeld bij de aangewezen overheidsinstantie conform artikel 19 van de Gezondheids- en welzijnswet voor dieren.  
+Het opvangcentrum let op verschijnselen die kunnen wijzen op een besmetting met een aangifteplichtige dierziekte. Deze signalen worden gemeld bij de aangewezen overheidsinstantie conform [artikel 19 van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md). 
 
 ### Paragraaf  4  
 
@@ -377,7 +377,7 @@ b. criteria op basis waarvan bepaald wordt waar een dier in vrijheid wordt geste
 
 c. criteria op basis waarvan bepaald wordt wanneer een dier wordt in vrijheid wordt gesteld. Hierbij wordt rekening gehouden met een voor de diersoort geschikte tijd, bijvoorbeeld in verband met winterslaap, rui, of vogeltrek, territoriaal gedrag.    
 
-5. De beheerder is bevoegd te besluiten over het al dan niet in vrijheid stellen van dieren.    
+5. De beheerder is bevoegd te besluiten over het al dan niet in vrijheid stellen van dieren.   
 
 ### Artikel  24  
 
@@ -397,7 +397,7 @@ d. de periode dat een dier in een gesloten uitwenverblijf is gehuisvest, valt bi
 
 e. de criteria en procedures voor de locatie, constructie en inrichting van het gebruik van het uitwenverblijf en de criteria op basis waarvan bepaald wordt of een dier in een uitwenverblijf geplaatst wordt, onderdeel uitmaken van de werkwijze, bedoeld in artikel 4, eerste lid, onderdeel g;  
 
-f. in de administratie, bedoeld in artikel 32, wordt bijgehouden welke dieren in een uitwenverblijf gehuisvest zijn.      
+f. in de administratie, bedoeld in artikel 32, wordt bijgehouden welke dieren in een uitwenverblijf gehuisvest zijn.     
 
 ### Artikel  25  
 
@@ -415,7 +415,7 @@ b. marterachtigen en vossen: negen maanden;
 
 c. zeezoogdieren, hoefdieren, wilde zwijnen en herpetofauna: zes maanden.    
 
-4. Voor dieren die langer dan deze maximale duur in het opvangcentrum verblijven, wordt een met argumenten onderbouwd behandelplan inclusief een verwachte datum van loslaten opgenomen in de administratie, bedoeld in artikel 33.    
+4. Voor dieren die langer dan deze maximale duur in het opvangcentrum verblijven, wordt een met argumenten onderbouwd behandelplan inclusief een verwachte datum van loslaten opgenomen in de administratie, bedoeld in artikel 33.   
 
 ### Paragraaf  5  
 
@@ -445,7 +445,7 @@ d. wanneer het risico bestaat dat dit dier, als gevolg van zijn opvang, behandel
 
 6. Een besluit om een dier te doden is altijd gebaseerd op de door het bestuur vastgestelde werkwijze en wordt in overleg met de dierenarts of de persoon, bedoeld in artikel 29, eerste lid, genomen.  
 
-7. Het eerste lid is niet van toepassing, indien er sprake is van een dier waarvan de instandhouding in gevaar is en een dierentuin bereid is het dier op te vangen, zonder vergoeding of tegenprestatie.    
+7. Het eerste lid is niet van toepassing, indien er sprake is van een dier waarvan de instandhouding in gevaar is en een dierentuin bereid is het dier op te vangen, zonder vergoeding of tegenprestatie.   
 
 ### Artikel  27  
 
@@ -455,7 +455,7 @@ d. wanneer het risico bestaat dat dit dier, als gevolg van zijn opvang, behandel
 
 a. een door of namens de Minister van Landbouw, Natuur en Voedselkwaliteit aan te wijzen wetenschappelijk instituut;  
 
-b. een museum, educatieve instelling, bezoekerscentrum of schoolbiologische dienst die over een daartoe strekkende ontheffing beschikt.      
+b. een museum, educatieve instelling, bezoekerscentrum of schoolbiologische dienst die over een daartoe strekkende ontheffing beschikt.     
 
 ### Paragraaf  6  
 
@@ -467,7 +467,7 @@ b. een museum, educatieve instelling, bezoekerscentrum of schoolbiologische dien
 
 1. Het bestuur van het opvangcentrum benoemt een natuurlijk persoon of meerdere natuurlijke personen, tot beheerder of beheerders van het opvangcentrum, die is of zijn belast met de dagelijkse leiding daarvan.  
 
-2. De taken en bevoegdheden van de beheerder of beheerders worden vastgesteld in de werkwijze betreffende het personeel bedoeld in artikel 4, eerste lid, onderdeel i.    
+2. De taken en bevoegdheden van de beheerder of beheerders worden vastgesteld in de werkwijze betreffende het personeel bedoeld in artikel 4, eerste lid, onderdeel i.   
 
 ### Artikel  29  
 
@@ -485,13 +485,13 @@ b. een museum, educatieve instelling, bezoekerscentrum of schoolbiologische dien
 
 a. op het aantal verzorgende medewerkers in relatie tot het aantal te verzorgen dieren, de vereiste intensiteit, en de aanwezigheid van ondersteunende medewerkers, overleg tussen medewerkers;  
 
-b. de taken, tijdsbesteding, verantwoordelijkheden en bevoegdheden, positie, eventuele vergoedingen en opleidingsmogelijkheden voor vrijwillige en betaalde medewerkers.      
+b. de taken, tijdsbesteding, verantwoordelijkheden en bevoegdheden, positie, eventuele vergoedingen en opleidingsmogelijkheden voor vrijwillige en betaalde medewerkers.     
 
 ### Artikel  30  
 
 ####Operationele continuïteit
 
-In de werkwijze, bedoeld in artikel 4, eerste lid, onderdeel k, wordt vastgelegd hoe de operationele continuïteit wordt gewaarborgd. Daartoe behoren tenminste voorzieningen in geval dat essentiële medewerkers, zoals de beheerder, niet beschikbaar zijn.  
+In de werkwijze, bedoeld in artikel 4, eerste lid, onderdeel k, wordt vastgelegd hoe de operationele continuïteit wordt gewaarborgd. Daartoe behoren tenminste voorzieningen in geval dat essentiële medewerkers, zoals de beheerder, niet beschikbaar zijn. 
 
 ### Paragraaf  7  
 
@@ -511,7 +511,7 @@ b. fysiek contact tussen bezoekers en opgevangen dieren;
 
 c. de mogelijkheid van afzondering van dieren buiten zicht van de bezoekers;  
 
-d. de veiligheid van bezoekers.      
+d. de veiligheid van bezoekers.     
 
 ### Paragraaf  8  
 
@@ -565,7 +565,7 @@ e. eventueel datum, uitvoerder en resultaten van een post-mortem onderzoek.
 
 6. De administratie en hoe deze ingevuld en gebruikt wordt, wordt beschreven in de werkwijze, bedoeld in artikel 4, eerste lid.  
 
-7. De administratie is altijd door alle aanwezige medewerkers in te zien.    
+7. De administratie is altijd door alle aanwezige medewerkers in te zien.   
 
 ### Artikel  33  
 
@@ -573,7 +573,7 @@ e. eventueel datum, uitvoerder en resultaten van een post-mortem onderzoek.
 
 1. Het opvangcentrum houdt een logboek bij waarin dagelijks de gezondheidscontrole van alle dieren en eventuele andere bevindingen worden vastgelegd.  
 
-2. Het logboek beschreven in het eerste lid kan eventueel als aanvulling worden opgenomen in de administratie als beschreven in artikel 32.    
+2. Het logboek beschreven in het eerste lid kan eventueel als aanvulling worden opgenomen in de administratie als beschreven in artikel 32.   
 
 ### Paragraaf  9  
 
@@ -583,5 +583,5 @@ e. eventueel datum, uitvoerder en resultaten van een post-mortem onderzoek.
 
 ####Afwijkingsmogelijkheid
 
-Indien het opvangcentrum te maken krijgt met een onvoorziene situatie waardoor het opvangcentrum zich gedwongen ziet van de voorschriften van dit protocol af te wijken, stelt hij onverwijld Dienst Regelingen daarvan op de hoogte.  
+Indien het opvangcentrum te maken krijgt met een onvoorziene situatie waardoor het opvangcentrum zich gedwongen ziet van de voorschriften van dit protocol af te wijken, stelt hij onverwijld Dienst Regelingen daarvan op de hoogte. 
 

@@ -16,13 +16,13 @@ b. het functioneel parket;
 
 c. het Centraal Justitieel Incassobureau, namens het openbaar ministerie;  
 
-d. de Centrale Verwerking Openbaar Ministerie (CVOM).    
+d. de Centrale Verwerking Openbaar Ministerie (CVOM).  
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van 1 november 2005.  
+Deze regeling treedt in werking met ingang van 1 november 2005. 
 Deze regeling zal in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Justitie, 
-J.P.H.Donner   
+J.P.H. Donner     

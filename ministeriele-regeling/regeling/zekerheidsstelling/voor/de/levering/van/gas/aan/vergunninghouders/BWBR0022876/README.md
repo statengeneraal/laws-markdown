@@ -8,24 +8,24 @@ Besluit:
 
 ### Artikel  1  
 
-Indien een leverancier van gas aan een vergunninghouder een zekerheid vraagt, is deze zekerheid ten hoogste gelijk aan de nominale waarde van de verwachte levering van gas of diensten gedurende de eerstvolgende twee maanden van levering.  
+Indien een leverancier van gas aan een vergunninghouder een zekerheid vraagt, is deze zekerheid ten hoogste gelijk aan de nominale waarde van de verwachte levering van gas of diensten gedurende de eerstvolgende twee maanden van levering. 
 
 ### Artikel  2  
 
-Deze regeling is niet van toepassing op overeenkomsten tussen een leverancier van gas en een vergunninghouder die vóór de inwerkingtreding van deze regeling zijn gesloten.  
+Deze regeling is niet van toepassing op overeenkomsten tussen een leverancier van gas en een vergunninghouder die vóór de inwerkingtreding van deze regeling zijn gesloten. 
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van de eerste dag van de derde kalendermaand na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de eerste dag van de derde kalendermaand na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  4  
 
-Deze regeling wordt aangehaald als: Regeling zekerheidsstelling voor de levering van gas aan vergunninghouders.  
+Deze regeling wordt aangehaald als: Regeling zekerheidsstelling voor de levering van gas aan vergunninghouders. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 12 november 2007   
 
 De 
-Minister van Economische Zaken, 
-M.J.A. van derHoeven   
+Minister van Economische Zaken,
+M.J.A. van der  Hoeven     

@@ -28,6 +28,6 @@ Den Haag
 15 april 2009   
 
 De 
-Minister van Justitie, namens deze: de 
+Minister van Justitie, namens deze:de 
 Secretaris-Generaal, 
-J.Demmink   
+J. Demmink     

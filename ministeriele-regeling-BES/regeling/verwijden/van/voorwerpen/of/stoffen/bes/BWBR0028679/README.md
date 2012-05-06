@@ -20,7 +20,7 @@ e. voorwerpen en stoffen voor militaire doeleinden of uit militaire luchtvaartui
 
 f. voorwerpen verband houdende met opsporings- en reddingsacties;  
 
-g. voorwerpen en stoffen voor politiedoeleinden.      
+g. voorwerpen en stoffen voor politiedoeleinden.     
 
 ### Artikel  2  
 
@@ -44,12 +44,12 @@ h. strooibiljetten worden zodanig verwijderd dat deze niet in pakken of bundels 
 
 i. ieder voorwerp is van een niet-elektriciteit-geleidend materiaal of geïsoleerd;  
 
-j. voorwerpen worden door een ander dan de bestuurder van het luchtvaartuig verwijderd en wel zodanig dat de voorwerpen daarbij het luchtvaartuig niet raken.    
+j. voorwerpen worden door een ander dan de bestuurder van het luchtvaartuig verwijderd en wel zodanig dat de voorwerpen daarbij het luchtvaartuig niet raken.   
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Regeling verwijden van voorwerpen of stoffen BES.  
+Deze regeling wordt aangehaald als: Regeling verwijden van voorwerpen of stoffen BES. 
 
 ### Artikel  4  
 
-Deze regeling berust op artikel 83, tweede lid, van het Besluit luchtverkeer BES.  
+Deze regeling berust op artikel 83, tweede lid, van het Besluit luchtverkeer BES. 

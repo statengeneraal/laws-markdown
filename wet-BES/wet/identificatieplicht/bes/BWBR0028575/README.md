@@ -11,7 +11,7 @@
 a. de Wet toelating en uitzetting BES;  
 
 b. de regelgeving met betrekking tot de leerplicht.     
-4.  De opsporingsambtenaar, bedoeld in het tweede en derde lid, is bevoegd van het ter inzage verstrekte document, bedoeld in het tweede en derde lid, afschrift te nemen of dit daartoe tijdelijk mee te nemen. Is sprake van een tijdelijk meenemen dan verstrekt de opsporingsambtenaar een met redenen omkleed bewijs van inname.   
+4.  De opsporingsambtenaar, bedoeld in het tweede en derde lid, is bevoegd van het ter inzage verstrekte document, bedoeld in het tweede en derde lid, afschrift te nemen of dit daartoe tijdelijk mee te nemen. Is sprake van een tijdelijk meenemen dan verstrekt de opsporingsambtenaar een met redenen omkleed bewijs van inname.  
 
 ### Artikel  2  
 
@@ -26,17 +26,17 @@ c. een geldig rijbewijs, als bedoeld in de wegenverkeerswetgeving van Bonaire, S
 d. de documenten, waarover een vreemdeling ingevolge de Wet toelating en uitzetting BES moet beschikken ter vaststelling van zijn identiteit, nationaliteit en verblijfsrechtelijke positie; of  
 
 e. het door de Minister van Justitie vastgestelde identiteitsdocument, dat betrekking heeft op de minderjarige, die ingevolge de Wet identiteitskaarten BES niet verplicht is om in het bezit te zijn van een identiteitskaart.     
-2.  Onze Minister van Justitie kan, al dan niet voor een bepaald tijdvak, andere dan de in het eerste lid bedoelde documenten aanwijzen ter vaststelling van de identiteit van personen.   
+2.  Onze Minister van Justitie kan, al dan niet voor een bepaald tijdvak, andere dan de in het eerste lid bedoelde documenten aanwijzen ter vaststelling van de identiteit van personen.  
 
 ### Artikel  3  
 
 1.  Handelen in strijd met de in artikel 1 gestelde voorschriften is een overtreding en wordt gestraft met hechtenis van ten hoogste zes maanden of een geldboete van de vierde categorie.   
-2.  Indien tijdens het plegen van een strafbaar feit, bedoeld in het eerste lid, nog geen jaar is verlopen sedert een eerdere veroordeling van de schuldige wegens het plegen van een strafbaar feit, bedoeld in dat lid, onherroepelijk is geworden dan wel vrijwillig is voldaan aan een voorwaarde door het openbaar ministerie krachtens artikel 76 van het Wetboek van Strafrecht BES gesteld, kan hechtenis of een geldboete tot het dubbele van het in het eerste lid voor elk gestelde maximum worden opgelegd.   
+2.  Indien tijdens het plegen van een strafbaar feit, bedoeld in het eerste lid, nog geen jaar is verlopen sedert een eerdere veroordeling van de schuldige wegens het plegen van een strafbaar feit, bedoeld in dat lid, onherroepelijk is geworden dan wel vrijwillig is voldaan aan een voorwaarde door het openbaar ministerie krachtens artikel 76 van het Wetboek van Strafrecht BES gesteld, kan hechtenis of een geldboete tot het dubbele van het in het eerste lid voor elk gestelde maximum worden opgelegd.  
 
 ### Artikel  4  
 
-Vervallen.  
+Vervallen. 
 
 ### Artikel  5  
 
-Deze wet wordt aangehaald als: Wet identificatieplicht BES.  
+Deze wet wordt aangehaald als: Wet identificatieplicht BES. 

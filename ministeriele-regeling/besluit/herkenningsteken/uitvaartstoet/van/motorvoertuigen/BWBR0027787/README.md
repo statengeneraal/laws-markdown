@@ -21,18 +21,18 @@ d. loodrecht op de ongelijke zijde drie witte retroreflecterende strepen staan a
 3.  De vlaggen zijn deugdelijk bevestigd aan het voertuig.   
 4.  De vlaggen steken, op de plek waar zij geplaatst zijn, geheel boven het voertuig uit.   
 5.  De vlaggen zijn zo geplaatst dat het zicht van de chauffeur niet wordt belemmerd.   
-6.  De vlaggen zijn zo vervaardigd dat zij zowel bij stilstand als rijdend voldoende zichtbaar zijn voor andere weggebruikers.   ![246890](http://wetten.overheid.nl/Illustration/246890)
-Figuur 1.    
+6.  De vlaggen zijn zo vervaardigd dat zij zowel bij stilstand als rijdend voldoende zichtbaar zijn voor andere weggebruikers.  ![246890](http://wetten.overheid.nl/Illustration/246890)
+Figuur 1.  
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van 1 juli 2010.  
+Deze regeling treedt in werking met ingang van 1 juli 2010. 
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Besluit herkenningsteken uitvaartstoet van motorvoertuigen.  
+Deze regeling wordt aangehaald als: Besluit herkenningsteken uitvaartstoet van motorvoertuigen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Verkeer en Waterstaat,
-C.M.P.S.Eurlings   
+Minister van Verkeer en Waterstaat, 
+C.M.P.S. Eurlings     

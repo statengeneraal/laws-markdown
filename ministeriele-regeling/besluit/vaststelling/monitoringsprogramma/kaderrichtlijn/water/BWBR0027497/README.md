@@ -3,12 +3,12 @@
 ##Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Minister van Verkeer en Waterstaat en de Minister van Landbouw, Natuur en Voedselkwaliteit van 6 april 2010, nr. BJZ2010006069, Directie Bestuurlijke en Juridische Zaken, tot vaststelling van het monitoringsprogramma, bedoeld in artikel 13, eerste lid, van het Besluit kwaliteitseisen en monitoring water 2009
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de Minister van Verkeer en Waterstaat, en de Minister van Landbouw, Natuur en Voedselkwaliteit,  
-Gelet op artikel 13, eerste lid, van het Besluit kwaliteitseisen en monitoring water 2009;
+Gelet op [artikel 13, eerste lid, van het Besluit kwaliteitseisen en monitoring water 2009](../../../../../../../AMvB/besluit/kwaliteitseisen/en/monitoring/water/2009/BWBR0027061/README.md);
 Besluiten:    
 
-### Artikel  1  
+### Artikel 1  
 
-Het monitoringsprogramma bedoeld in artikel 13, eerste lid, van het Besluit kwaliteitseisen en monitoring water 2009 bestaat voor de stroomgebieddistricten, genoemd in artikel 1.2, eerste lid, van de Waterwet, uit: 
+Het monitoringsprogramma bedoeld in [artikel 13, eerste lid, van het Besluit kwaliteitseisen en monitoring water 2009](../../../../../../../AMvB/besluit/kwaliteitseisen/en/monitoring/water/2009/BWBR0027061/README.md) bestaat voor de stroomgebieddistricten, genoemd in [artikel 1.2, eerste lid, van de Waterwet](../../../../../../../wet/waterwet/BWBR0025458/README.md), uit: 
 
 a. ‘Draaiboek monitoring grondwater, Voor de kaderrichtlijn Water’ van het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, versie 1.3, van 17 februari 2010, als luidend na de wijziging die is vastgesteld door het Directeuren Wateroverleg (DWO) op 1 juli 2011;  
 
@@ -30,19 +30,19 @@ i. fact-sheets monitoring, zoals vastgesteld door het Cluster Monitoring, Rappor
 
 j. ‘Handreiking Diagnostiek, Ecologische kwaliteit van watersystemen’, van Haskoning Nederland B.V. van november 2007;  
 
-k. de bijlage bij de Regeling monitoring kaderrichtlijn water.    
+k. de bijlage bij de Regeling monitoring kaderrichtlijn water.   
 
 ### Artikel  2  
 
-Het monitoringsprogramma, bedoeld in artikel 1, of een onderdeel daarvan als bedoeld in artikel 13, vierde lid, van het Besluit kwaliteitseisen en monitoring water 2009 of een bijstelling van dat programma of onderdeel wordt bekendgemaakt op de volgende website: www.kaderrichtlijnwater.nl  
+Het monitoringsprogramma, bedoeld in artikel 1, of een onderdeel daarvan als bedoeld in [artikel 13, vierde lid, van het Besluit kwaliteitseisen en monitoring water 2009](../../../../../../../AMvB/besluit/kwaliteitseisen/en/monitoring/water/2009/BWBR0027061/README.md) of een bijstelling van dat programma of onderdeel wordt bekendgemaakt op de volgende website: www.kaderrichtlijnwater.nl 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking op het tijdstip waarop de Regeling monitoring kaderrichtlijn water in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de [Regeling monitoring kaderrichtlijn water](../../../../../../../ministeriele-regeling/regeling/monitoring/kaderrichtlijn/water/BWBR0027502/README.md) in werking treedt. 
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Besluit vaststelling monitoringsprogramma kaderrichtlijn water.  
+Dit besluit wordt aangehaald als: Besluit vaststelling monitoringsprogramma kaderrichtlijn water. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -50,12 +50,12 @@ Den Haag
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J.C.Huizinga-Heringa 
+J.C. Huizinga-Heringa   
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings 
+C.M.P.S. Eurlings   
 
 De 
-Minister van Landbouw, Natuur en Voedselkwaliteit, 
-G.Verburg   
+Minister van Landbouw, Natuur en Voedselkwaliteit,
+G. Verburg     

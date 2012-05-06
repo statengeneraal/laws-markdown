@@ -2,7 +2,7 @@
 
 ##Besluit tot uitgifte frequenties voor gebruik niet-landelijke commerciële radio-omroep en middengolf
 
-De Staatssecretaris van Economische Zaken, Handelende in overeenstemming met de Minister van Onderwijs, Cultuur en Wetenschap en de Minister van Financiën; Besluit op grond van [artikel 3.3, vijfde en zevende lid, van de Telecommunicatiewet](../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en [artikel 3, eerste en derde lid, van het Frequentiebesluit](../../../../../../../../../../../AMvB/frequentiebesluit/BWBR0009997/README.md) het volgende:     
+De Staatssecretaris van Economische Zaken,Handelende in overeenstemming met de Minister van Onderwijs, Cultuur en Wetenschap en de Minister van Financiën;Besluit op grond van [artikel 3.3, vijfde en zevende lid, van de Telecommunicatiewet](../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en [artikel 3, eerste en derde lid, van het Frequentiebesluit](../../../../../../../../../../../AMvB/frequentiebesluit/BWBR0009997/README.md) het volgende:   
 ### §  1  
 
 ####Inleiding
@@ -41,7 +41,7 @@ De aanvraag voor het verlenen van vergunningen voor het gebruik van frequentieru
 
 De 
 Staatssecretaris van Economische Zaken, 
-F.Heemskerk  
+F. Heemskerk    
 
 ####Bijlage behorende bij het besluit tot uitgifte frequenties voor gebruik niet-landelijke commerciële radio-omroep en middengolf
 

@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-Aan de directeur van de Dienst Landelijk Gebied wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten respectievelijk het verrichten van handelingen in het kader van de uitvoering van de [Saneringsregeling asbestwegen derde fase](../../../../../../../../../../../ministeriele-regeling/saneringsregeling/asbestwegen/derde/fase/BWBR0021724/README.md), met uitzondering van [paragraaf 3](../../../../../../../../../../../ministeriele-regeling/saneringsregeling/asbestwegen/derde/fase/BWBR0021724/README.md) van die regeling.  
+Aan de directeur van de Dienst Landelijk Gebied wordt mandaat, volmacht en machtiging verleend tot het nemen van besluiten respectievelijk het verrichten van handelingen in het kader van de uitvoering van de [Saneringsregeling asbestwegen derde fase](../../../../../../../../../../../ministeriele-regeling/saneringsregeling/asbestwegen/derde/fase/BWBR0021724/README.md), met uitzondering van [paragraaf 3](../../../../../../../../../../../ministeriele-regeling/saneringsregeling/asbestwegen/derde/fase/BWBR0021724/README.md) van die regeling. 
 
 ### Artikel  2  
 
@@ -18,27 +18,27 @@ a. mandaat verleend tot het nemen van besluiten op bezwaar tegen besluiten als b
 
 b. machtiging verleend tot het verrichten van alle voorbereidende werkzaamheden of handelingen met betrekking tot het nemen van besluiten op bezwaar als bedoeld onder a;  
 
-c. machtiging verleend tot het voeren van beroepsprocedures over besluiten als bedoeld onder a.    
+c. machtiging verleend tot het voeren van beroepsprocedures over besluiten als bedoeld onder a.   
 
 ### Artikel  3  
 
-De directeur van de Dienst Landelijk Gebied kan met betrekking tot zijn bevoegdheden, bedoeld in de artikelen 1 en 2, ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende functionarissen.  
+De directeur van de Dienst Landelijk Gebied kan met betrekking tot zijn bevoegdheden, bedoeld in de artikelen 1 en 2, ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende functionarissen. 
 
 ### Artikel  4  
 
-Indien uitvoering wordt gegeven aan de artikelen 1 en 2 luidt de ondertekening: De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, voor deze: de directeur van de Dienst Landelijk Gebied (gevolgd door de handtekening en de naam)  
+Indien uitvoering wordt gegeven aan de artikelen 1 en 2 luidt de ondertekening: De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, voor deze: de directeur van de Dienst Landelijk Gebied (gevolgd door de handtekening en de naam) 
 
 ### Artikel  5  
 
-Indien uitvoering wordt gegeven aan artikel 3 luidt de ondertekening: De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, voor deze: de directeur van de Dienst Landelijk Gebied, op last: (gevolgd door de functieaanduiding, de handtekening en de naam van de betrokken functionaris aan wie ondermandaat is verleend)  
+Indien uitvoering wordt gegeven aan artikel 3 luidt de ondertekening: De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, voor deze: de directeur van de Dienst Landelijk Gebied, op last: (gevolgd door de functieaanduiding, de handtekening en de naam van de betrokken functionaris aan wie ondermandaat is verleend) 
 
 ### Artikel  6  
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 ### Artikel  7  
 
-Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging Dienst Landelijk Gebied Saneringsregeling asbestwegen derde fase.  
+Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging Dienst Landelijk Gebied Saneringsregeling asbestwegen derde fase. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -46,4 +46,4 @@ Den Haag
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J.M.Cramer   
+J.M. Cramer     

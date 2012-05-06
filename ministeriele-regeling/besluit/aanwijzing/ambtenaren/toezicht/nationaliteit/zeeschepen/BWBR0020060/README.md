@@ -14,21 +14,21 @@ a. de [artikelen 311](../../../../../../../../wet/wetboek/van/koophandel/BWBR000
 
 b. de [artikelen 3](../../../../../../../../wet/wet/nationaliteit/zeeschepen/in/rompbevrachting/BWBR0005681/README.md) en [8 van de Wet nationaliteit zeeschepen in rompbevrachting](../../../../../../../../wet/wet/nationaliteit/zeeschepen/in/rompbevrachting/BWBR0005681/README.md);  
 
-c. de [Zeebrievenwet](../../../../../../../../wet/zeebrievenwet/BWBR0001933/README.md).    
+c. de [Zeebrievenwet](../../../../../../../../wet/zeebrievenwet/BWBR0001933/README.md).   
 
 ### Artikel  2  
 
-Het [Besluit aanwijzing ambtenaren toezicht nationaliteitstoets zeeschepen en registratie zeeschepen](../../../../../../../../ministeriele-regeling/besluit/aanwijzing/ambtenaren/toezicht/nationaliteitstoets/en/registratie/etc/BWBR0010709/README.md) wordt ingetrokken.  
+Het [Besluit aanwijzing ambtenaren toezicht nationaliteitstoets zeeschepen en registratie zeeschepen](../../../../../../../../ministeriele-regeling/besluit/aanwijzing/ambtenaren/toezicht/nationaliteitstoets/en/registratie/etc/BWBR0010709/README.md) wordt ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking op het tijdstip waarop de wet van 5 juli 2006, houdende wijziging van het Burgerlijk Wetboek, het Wetboek van Koophandel, de Wet nationaliteit zeeschepen in rompbevrachting, de Zeebrievenwet en enkele andere wetten in verband met het Europese recht op vrije vestiging in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de wet van 5 juli 2006, houdende wijziging van het Burgerlijk Wetboek, het Wetboek van Koophandel, de Wet nationaliteit zeeschepen in rompbevrachting, de Zeebrievenwet en enkele andere wetten in verband met het Europese recht op vrije vestiging in werking treedt. 
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Besluit aanwijzing ambtenaren toezicht nationaliteit zeeschepen.  
+Dit besluit wordt aangehaald als: Besluit aanwijzing ambtenaren toezicht nationaliteit zeeschepen. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-K.M.H.Peijs   
+K.M.H. Peijs     

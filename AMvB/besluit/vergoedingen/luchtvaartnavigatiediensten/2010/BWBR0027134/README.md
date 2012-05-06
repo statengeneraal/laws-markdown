@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-*NSA Amsterdam:* gebied zoals gedefinieerd in de door LVNL uitgegeven luchtvaartgids, volume I, hoofdstuk ENR 6-2-5.    
+*NSA Amsterdam:* gebied zoals gedefinieerd in de door LVNL uitgegeven luchtvaartgids, volume I, hoofdstuk ENR 6-2-5.   
 
 ### Artikel  2  
 
@@ -28,7 +28,7 @@ In het vluchtinformatiegebied Amsterdam gelden de volgende heffingszones:
 
 a. een «en route»-heffingszone voor luchtvaartnavigatiediensten die het hele vluchtinformatiegebied Amsterdam omvat,  
 
-b. een heffingszone voor plaatselijke luchtvaartnavigatiediensten bestaande uit de volgende groep luchthavens: Amsterdam Airport Schiphol, Rotterdam Airport, Groningen Airport Eelde en Maastricht Aachen Airport.    
+b. een heffingszone voor plaatselijke luchtvaartnavigatiediensten bestaande uit de volgende groep luchthavens: Amsterdam Airport Schiphol, Rotterdam Airport, Groningen Airport Eelde en Maastricht Aachen Airport.   
 
 ### §  2  
 
@@ -36,11 +36,11 @@ b. een heffingszone voor plaatselijke luchtvaartnavigatiediensten bestaande uit 
 
 ### Artikel  3  
 
-LVNL draagt zorg voor de bekendmaking van het eenheidstarief dat de Eurocontrol-organisatie voor de «en route»-heffingszone vaststelt. Het eenheidstarief wordt in de Staatscourant bekendgemaakt.  
+LVNL draagt zorg voor de bekendmaking van het eenheidstarief dat de Eurocontrol-organisatie voor de «en route»-heffingszone vaststelt. Het eenheidstarief wordt in de Staatscourant bekendgemaakt. 
 
 ### Artikel  4  
 
-De vergoeding voor luchtvaartnavigatiediensten voor «en route»-verkeer wordt binnen dertig dagen na de door de Eurocontrol-organisatie op de factuur vermelde datum door de desbetreffende gebruiker van luchtvaartnavigatiediensten in euro’s voldaan.  
+De vergoeding voor luchtvaartnavigatiediensten voor «en route»-verkeer wordt binnen dertig dagen na de door de Eurocontrol-organisatie op de factuur vermelde datum door de desbetreffende gebruiker van luchtvaartnavigatiediensten in euro’s voldaan. 
 
 ### Artikel  5  
 
@@ -48,7 +48,7 @@ Van de verplichting tot het betalen van de vergoeding voor luchtvaartnavigatiedi
 
 a. opsporings- en reddingsvluchten door militaire luchtvaartuigen of traumahelikopters worden uitgevoerd;  
 
-b. onder humanitaire vluchten wordt verstaan: uitsluitend voor humanitaire doeleinden uitgevoerde vluchten die bedoeld zijn om hulpverleningspersoneel en hulpgoederen zoals voedsel, kleding, onderdak, medische en andere goederen tijdens of na een noodsituatie of ramp te vervoeren of om personen uit een plaats waar hun leven of gezondheid door die noodsituatie of ramp wordt bedreigd te evacueren naar een toevluchtsoord in dezelfde staat of een andere staat die bereid is dergelijke personen op te vangen, waarbij de aard van de vlucht wordt vermeld in het vliegplan van de desbetreffende vlucht.    
+b. onder humanitaire vluchten wordt verstaan: uitsluitend voor humanitaire doeleinden uitgevoerde vluchten die bedoeld zijn om hulpverleningspersoneel en hulpgoederen zoals voedsel, kleding, onderdak, medische en andere goederen tijdens of na een noodsituatie of ramp te vervoeren of om personen uit een plaats waar hun leven of gezondheid door die noodsituatie of ramp wordt bedreigd te evacueren naar een toevluchtsoord in dezelfde staat of een andere staat die bereid is dergelijke personen op te vangen, waarbij de aard van de vlucht wordt vermeld in het vliegplan van de desbetreffende vlucht.   
 
 ### §  3  
 
@@ -56,11 +56,11 @@ b. onder humanitaire vluchten wordt verstaan: uitsluitend voor humanitaire doele
 
 ### Artikel  6  
 
-LVNL draagt zorg voor de bekendmaking van het eenheidstarief voor de heffingszone voor plaatselijke luchtvaartnavigatiediensten. Het eenheidstarief wordt in de Staatscourant en in de luchtvaartpublicaties bekendgemaakt.  
+LVNL draagt zorg voor de bekendmaking van het eenheidstarief voor de heffingszone voor plaatselijke luchtvaartnavigatiediensten. Het eenheidstarief wordt in de Staatscourant en in de luchtvaartpublicaties bekendgemaakt. 
 
 ### Artikel  7  
 
-De vergoeding voor plaatselijke luchtvaartnavigatiediensten wordt door de desbetreffende gebruiker van luchtvaartnavigatiediensten in euro’s voldaan.  
+De vergoeding voor plaatselijke luchtvaartnavigatiediensten wordt door de desbetreffende gebruiker van luchtvaartnavigatiediensten in euro’s voldaan. 
 
 ### Artikel  8  
 
@@ -73,7 +73,7 @@ b. opsporings- en reddingsvluchten die door militaire luchtvaartuigen of traumah
 c. trainingsvluchten die uitsluitend worden uitgevoerd voor het verkrijgen van een vergunning of bevoegdheidsverklaring voor cockpitpersoneel, voor zover het betreft het gedeelte van de vlucht dat tussenlandingen en onmiddellijke starts omvat, met uitzondering van de eerste en vervolgens elke vierde daarop volgende tussenlanding en onmiddellijke start;  
 
 d. humanitaire vluchten, als bedoeld in artikel 5, onder b.     
-2.  Het eerste lid, onderdeel c, geldt niet ten aanzien van Amsterdam Airport Schiphol.   
+2.  Het eerste lid, onderdeel c, geldt niet ten aanzien van Amsterdam Airport Schiphol.  
 
 ### §  4  
 
@@ -84,7 +84,7 @@ d. humanitaire vluchten, als bedoeld in artikel 5, onder b.
 1.  De vergoedingenverordening is niet van toepassing op het NSA Amsterdam.   
 2.  Onze Minister van Verkeer en Waterstaat bepaalt jaarlijks in overleg met de desbetreffende verleners van luchtvaartnavigatiediensten de vergoeding voor luchtvaartnavigatiediensten die worden verleend op luchthavens, bedoeld in [artikel 5.21, eerste lid, van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md).   
 3.  Van de hoogte van de vergoeding wordt door LVNL mededeling gedaan in de Staatscourant en in de luchtvaartpublicaties.   
-4.  Onverminderd het tweede lid, is de vergoeding voor luchtvaartnavigatiediensten ten behoeve van burgerhelikoptervluchten in het NSA Amsterdam het quotiënt van de geraamde exploitatiekosten van desbetreffende verleners van luchtvaartnavigatiediensten, voor zover het betreft het NSA Amsterdam, en het voor dat jaar door die dienstverleners geraamde aantal burgerhelikoptervluchten.   
+4.  Onverminderd het tweede lid, is de vergoeding voor luchtvaartnavigatiediensten ten behoeve van burgerhelikoptervluchten in het NSA Amsterdam het quotiënt van de geraamde exploitatiekosten van desbetreffende verleners van luchtvaartnavigatiediensten, voor zover het betreft het NSA Amsterdam, en het voor dat jaar door die dienstverleners geraamde aantal burgerhelikoptervluchten.  
 
 ### §  5  
 
@@ -92,15 +92,15 @@ d. humanitaire vluchten, als bedoeld in artikel 5, onder b.
 
 ### Artikel  10  
 
-Het [Besluit vergoedingen luchtvaartnavigatiediensten](../../../../../../AMvB/besluit/vergoedingen/luchtvaartnavigatiediensten/BWBR0023073/README.md) wordt ingetrokken.  
+Het [Besluit vergoedingen luchtvaartnavigatiediensten](../../../../../../AMvB/besluit/vergoedingen/luchtvaartnavigatiediensten/BWBR0023073/README.md) wordt ingetrokken.
 
 ### Artikel  11  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 ### Artikel  12  
 
-Dit besluit wordt aangehaald als: Besluit vergoedingen luchtvaartnavigatiediensten 2010.  
+Dit besluit wordt aangehaald als: Besluit vergoedingen luchtvaartnavigatiediensten 2010. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -108,10 +108,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 20 januari 2010  
 Beatrix  
 
-De Minister van Verkeer en Waterstaat, 
+De Minister van Verkeer en Waterstaat,  
 C. M. P. S. Eurlings   
 
 de *negenentwintigste* januari 2010 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    

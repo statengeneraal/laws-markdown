@@ -26,6 +26,6 @@ Den Haag
 29 september 2008   
 
 De 
-Minister van Justitie, namens deze:
+Minister van Justitie, namens deze: 
 de Secretaris-generaal, 
-J.Demmink   
+J. Demmink     

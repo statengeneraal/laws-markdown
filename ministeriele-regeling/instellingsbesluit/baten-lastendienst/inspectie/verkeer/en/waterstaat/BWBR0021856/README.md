@@ -11,15 +11,15 @@ Besluiten
 ### Artikel  1  
 
 1.  Aan de Inspectie Verkeer en Waterstaat te ’s-Gravenhage wordt de status van baten-lastendienst als bedoeld in [artikel 10, eerste lid van de Comptabiliteitswet](../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), verleend.   
-2.  De tenaamstelling van het agentschap komt te luiden: Baten-lastendienst Inspectie Verkeer en Waterstaat   
+2.  De tenaamstelling van het agentschap komt te luiden: Baten-lastendienst Inspectie Verkeer en Waterstaat  
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van 1 januari 2007.  
+Dit besluit treedt in werking met ingang van 1 januari 2007. 
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Instellingsbesluit baten-lastendienst Inspectie Verkeer en Waterstaat  
+Dit besluit wordt aangehaald als: Instellingsbesluit baten-lastendienst Inspectie Verkeer en Waterstaat 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -27,8 +27,8 @@ Den Haag
 
 De 
 Minster van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings 
+C.M.P.S. Eurlings   
 
 De 
 Minister van Financiën, 
-W.Bos   
+W. Bos     

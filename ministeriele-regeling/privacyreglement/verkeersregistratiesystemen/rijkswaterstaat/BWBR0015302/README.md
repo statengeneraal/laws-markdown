@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Privacyreglement verkeersregistratiesystemen Rijkswaterstaat
+##Privacyreglement verkeersregistratiesystemen Rijkswaterstaat 
 
 De Minister van Verkeer en Waterstaat,  
 Overwegende:
@@ -26,23 +26,23 @@ dat in verband met de maatschappelijke zorgvuldigheid een verplichting bestaat a
 dat het door het aantal en de plaats waarop camera's staan opgesteld, niet doelmatig of mogelijk is ter plekke aan te geven dat cameratoezicht wordt uitgeoefend;
 
 dat publicatie van dit reglement in de plaats komt van een dergelijke plaatselijke kennisgeving;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  Begrippen  
 
 In dit besluit wordt verstaan onder: 
 
-a. *de verantwoordelijke:* de Minister van Verkeer en Waterstaat, Gedeputeerde Staten van een provincie waar IVS90 wordt gebruikt of het college van B&W van een gemeente, voor wat betreft de bij hen in beheer zijnde delen van het IVS90;  
+a.  *de verantwoordelijke:* de Minister van Verkeer en Waterstaat, Gedeputeerde Staten van een provincie waar IVS90 wordt gebruikt of het college van B&W van een gemeente, voor wat betreft de bij hen in beheer zijnde delen van het IVS90;  
 
-b. *de beheerder:* de functionaris die namens de verantwoordelijke bij een regionale directie van Rijkswaterstaat en bij een provincie of gemeente voor wat betreft de bij hen in beheer zijnde delen van het IVS90, belast is met de verwerking van persoonsgegevens in verkeersregistratiesystemen;  
+b.  *de beheerder:* de functionaris die namens de verantwoordelijke bij een regionale directie van Rijkswaterstaat en bij een provincie of gemeente voor wat betreft de bij hen in beheer zijnde delen van het IVS90, belast is met de verwerking van persoonsgegevens in verkeersregistratiesystemen;  
 
-c. *verkeersregistratiesysteem:* enig systeem geschikt voor het verwerken van data, opnamen/beelden, geluidsbeelden, radarbeelden of andere gegevens ten behoeve van de beheerstaak;  
+c.  *verkeersregistratiesysteem:* enig systeem geschikt voor het verwerken van data, opnamen/beelden, geluidsbeelden, radarbeelden of andere gegevens ten behoeve van de beheerstaak;  
 
-d. *waterstaatswerken:* de door een regionale directie van Rijkswaterstaat beheerde waterstaatswerken als bedoeld in de [Wet beheer rijkswaterstaatswerken](../../../../../wet/wet/beheer/rijkswaterstaatswerken/BWBR0008331/README.md) of de door een provincie of gemeente beheerde waterstaatswerken;  
+d.  *waterstaatswerken:* de door een regionale directie van Rijkswaterstaat beheerde waterstaatswerken als bedoeld in de [Wet beheer rijkswaterstaatswerken](../../../../../wet/wet/beheer/rijkswaterstaatswerken/BWBR0008331/README.md) of de door een provincie of gemeente beheerde waterstaatswerken;  
 
-e. *persoonsgegevens:* de door middel van verkeersregistratiesystemen verwerkte gegevens op grond waarvan natuurlijke personen geïdentificeerd kunnen worden;  
+e.  *persoonsgegevens:* de door middel van verkeersregistratiesystemen verwerkte gegevens op grond waarvan natuurlijke personen geïdentificeerd kunnen worden;  
 
-f. *IVS90:* het Informatie- en Volgsysteem voor de Scheepvaart zoals beschreven in de bijlage bij dit besluit, met inbegrip van alle aan IVS90 gekoppelde systemen waaronder SITOS, BRIDGE en BICS en de opvolgers van bedoelde systemen.    
+f.  *IVS90:* het Informatie- en Volgsysteem voor de Scheepvaart zoals beschreven in de bijlage bij dit besluit, met inbegrip van alle aan IVS90 gekoppelde systemen waaronder SITOS, BRIDGE en BICS en de opvolgers van bedoelde systemen.    
 
 ### Artikel  2  Reikwijdte  
 
@@ -52,11 +52,11 @@ Dit besluit regelt de taken en bevoegdheden van de verantwoordelijke met betrekk
 
 Het doel van de verwerking van persoonsgegevens verkregen door verkeersregistratiesystemen, is het beheer van waterstaatswerken, in het bijzonder: 
 
-a. het verzekeren en bevorderen van het doelmatig, vlot en veilig gebruik van waterstaatswerken, waaronder ook begrepen het verhalen van schade, veroorzaakt door de gebruikers,  
+a.  het verzekeren en bevorderen van het doelmatig, vlot en veilig gebruik van waterstaatswerken, waaronder ook begrepen het verhalen van schade, veroorzaakt door de gebruikers,  
 
-b. de zorg voor de veiligheid van gebruikers van waterstaatswerken, waaronder het snel en doelmatig kunnen handelen bij ongevallen en calamiteiten, en  
+b.  de zorg voor de veiligheid van gebruikers van waterstaatswerken, waaronder het snel en doelmatig kunnen handelen bij ongevallen en calamiteiten, en  
 
-c. het verrichten van noodzakelijke studies en onderzoeken en het verwerken van persoonsgegevens voor statistische en beleidsdoeleinden.    
+c.  het verrichten van noodzakelijke studies en onderzoeken en het verwerken van persoonsgegevens voor statistische en beleidsdoeleinden.    
 
 ### Artikel  4  Beheer en beveiliging  
 
@@ -71,13 +71,13 @@ c. het verrichten van noodzakelijke studies en onderzoeken en het verwerken van 
 3.  Een in artikel 4 bedoelde ambtenaar kan van een natuurlijke persoon of rechtspersoon die om inzage of correctie verzoekt, verlangen dat deze zich legitimeert.   
 4.  Bij het ter inzage geven van persoonsgegevens worden gegevens van andere personen voorzover mogelijk anoniem gemaakt. Na inzage of correctie wordt schriftelijk vastgelegd: 
 
-a. de naam van betrokkene,  
+a.  de naam van betrokkene,  
 
-b. de wijze van inzage of correctie,  
+b.  de wijze van inzage of correctie,  
 
-c. het tijdstip, en  
+c.  het tijdstip, en  
 
-d. welke gegevens het betrof.     
+d.  welke gegevens het betrof.     
 
 ### Artikel  6  Inzage en verstrekking derden  
 
@@ -89,26 +89,26 @@ het bepaalde in de bijlage omtrent het IVS90.
 2.  De beheerder geeft inzage in de gegevens of verstrekt deze aan instanties die zich beroepen op een toezichthoudende of opsporingsbevoegdheid dan wel een andere daartoe strekkende wettelijke bevoegdheid, indien grondslag en inhoud van de bevoegdheid kenbaar worden gemaakt en gericht naar gegevens wordt gevraagd.   
 3.  De beheerder kan na afweging van de betrokken belangen inzage geven in de gegevens of deze verstrekken aan: 
 
-a. de politie indien deze zich beroept op daadwerkelijke handhaving van de rechtsorde en het verlenen van hulp aan hen die dit behoeven,  
+a.  de politie indien deze zich beroept op daadwerkelijke handhaving van de rechtsorde en het verlenen van hulp aan hen die dit behoeven,  
 
-b. een verzekeringsinstelling indien deze aannemelijk maakt de gegevens nodig te hebben voor het behartigen van de belangen van een betrokkene en betrokkene daarvoor toestemming heeft verleend, of  
+b.  een verzekeringsinstelling indien deze aannemelijk maakt de gegevens nodig te hebben voor het behartigen van de belangen van een betrokkene en betrokkene daarvoor toestemming heeft verleend, of  
 
-c. een advocaat of procureur indien deze aannemelijk maakt de gegevens nodig te hebben voor het behartigen van de belangen van een betrokkene.     
+c.  een advocaat of procureur indien deze aannemelijk maakt de gegevens nodig te hebben voor het behartigen van de belangen van een betrokkene.     
 4.  Een verzoek om inzage of verstrekking van gegevens wordt schriftelijk ingediend.   
 5.  Aan de inzage of verstrekking kan de beheerder voorwaarden verbinden.   
 6.  Van een persoon die om inzage of verstrekking van de gegevens verzoekt, kan worden verlangd dat deze zich legitimeert.   
 7.  Bij het ter inzage geven of verstrekken van persoonsgegevens worden gegevens van andere personen voor zover mogelijk anoniem gemaakt.   
 8.  Na inzage of verstrekking van gegevens wordt schriftelijk vastgelegd: 
 
-a. de naam van de betrokkene,  
+a.  de naam van de betrokkene,  
 
-b. de wijze van inzage of verstrekking,  
+b.  de wijze van inzage of verstrekking,  
 
-c. het tijdstip,  
+c.  het tijdstip,  
 
-d. welke gegevens het betrof, en  
+d.  welke gegevens het betrof, en  
 
-e. naam en adres van de verzoeker.     
+e.  naam en adres van de verzoeker.     
 
 ### Artikel  7  Bewaartermijnen  
 
@@ -119,18 +119,18 @@ e. naam en adres van de verzoeker.
 
 De persoonsgegevens worden niet gekoppeld aan andere persoonsgegevens behoudens: 
 
-a. indien het betreft persoonsgegevens die gelijktijdig zijn verkregen in het kader van de verkeersregistratie, of  
+a.  indien het betreft persoonsgegevens die gelijktijdig zijn verkregen in het kader van de verkeersregistratie, of  
 
-b. het bepaalde in de bijlage omtrent het IVS90.    
+b.  het bepaalde in de bijlage omtrent het IVS90.    
 
 ### Artikel  9  Inwerkingtreding; citeertitel  
 
 1.  Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.   
-2.  Dit besluit wordt aangehaald als [Privacyreglement verkeersregistratiesystemen Rijkswaterstaat](../../../../../ministeriele-regeling/privacyreglement/verkeersregistratiesystemen/rijkswaterstaat/BWBR0015302/README.md).   
+2.  Dit besluit wordt aangehaald als [Privacyreglement verkeersregistratiesystemen Rijkswaterstaat](../../../../../ministeriele-regeling/privacyreglement/verkeersregistratiesystemen/rijkswaterstaat/BWBR0015302/README.md).  
 
 De 
 Minister van Verkeer en Waterstaat, 
-K.M.H.Peijs   
+K.M.H.  Peijs    
 
 ### Bijlage  
 

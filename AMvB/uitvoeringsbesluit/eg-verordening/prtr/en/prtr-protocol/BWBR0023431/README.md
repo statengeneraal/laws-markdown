@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder: *meet- en registratiesysteem:* de voor de gegevensinzameling gebruikte methodiek, bedoeld in artikel 5, vijfde lid, van de EG-verordening PRTR; *wet*: [Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).  
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  *meet- en registratiesysteem:* de voor de gegevensinzameling gebruikte methodiek, bedoeld in artikel 5, vijfde lid, van de EG-verordening PRTR;  *wet*: [Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md). 
 
 ### Artikel  2  
 
-1.  Degene die een inrichting drijft, waarop ingevolge [artikel 12.19 van de wet](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md)[titel 12.3 van de wet](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is, beschikt over een meet- en registratiesysteem.   
+1.  Degene die een inrichting drijft, waarop ingevolge [artikel 12.19 van de wet](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) [titel 12.3 van de wet](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is, beschikt over een meet- en registratiesysteem.   
 2.  Het meet- en registratiesysteem wordt zodanig ingericht dat hiermee: 
 
 a. volledige, consistente en geloofwaardige gegevens als bedoeld in artikel 9, tweede lid, van de EG-verordening PRTR kunnen worden gegenereerd,  
@@ -27,8 +27,8 @@ a. volledige, consistente en geloofwaardige gegevens als bedoeld in artikel 9, t
 b. kan worden voldaan aan de in artikel 5, derde lid, van de EG-verordening PRTR opgenomen eisen en  
 
 c. voor zover degene die de inrichting drijft, met betrekking tot een verslagjaar ingevolge artikel 5, eerste lid, van de EG-verordening PRTR of [artikel 12.20a, eerste lid, van de wet](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) rapportageplichtig is: kan worden voldaan aan de in artikel 5, eerste, tweede en vierde lid, van die verordening opgenomen eisen en, voorzover [artikel 12.20a, eerste lid, van de wet](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is, aan de in artikel 5, tweede en vierde lid, van de EG-verordening PRTR en de bij en krachtens artikel 2a, eerste tot en met derde lid, gestelde eisen.     
-3.  Artikel 5, vijfde lid, van de EG-verordening PRTR is van toepassing op degenen die een inrichting drijven, waarop ingevolge [artikel 12.19 van de wet](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md)[titel 12.3 van de wet](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is, ongeacht of de betrokken persoon ingevolge artikel 5, eerste lid, van die verordening of [artikel 12.20a, eerste lid, van de wet](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) rapportageplichtig is.   
-4.  Bij ministeriële regeling kunnen nadere eisen worden gesteld met betrekking tot de inrichting van het meet- en registratiesysteem.   
+3.  Artikel 5, vijfde lid, van de EG-verordening PRTR is van toepassing op degenen die een inrichting drijven, waarop ingevolge [artikel 12.19 van de wet](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) [titel 12.3 van de wet](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is, ongeacht of de betrokken persoon ingevolge artikel 5, eerste lid, van die verordening of [artikel 12.20a, eerste lid, van de wet](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) rapportageplichtig is.   
+4.  Bij ministeriële regeling kunnen nadere eisen worden gesteld met betrekking tot de inrichting van het meet- en registratiesysteem. 
 
 ### Artikel  2a  
 
@@ -40,18 +40,18 @@ b. gegevens over emissies van in bijlage II bij de EG-verordening PRTR genoemde 
 2.  Bij de rapportage van de gegevens, bedoeld in het eerste lid, wordt vermeld of het gaat om informatie gebaseerd op metingen, berekeningen of ramingen.   
 3.  Op de gegevens, bedoeld in het eerste lid, is artikel 5, eerste lid, derde alinea, van de EG-verordening PRTR van overeenkomstige toepassing. Voor zover deze gegevens betrekking hebben op emissies, is ook artikel 5, eerste lid, vierde alinea, van de EG-verordening PRTR van overeenkomstige toepassing.   
 4.  De gegevens, bedoeld in het eerste lid, worden voorzien van een toelichting, indien dit voor een goed begrip van die gegevens noodzakelijk is.   
-5.  Het bestuursorgaan dat bevoegd is een omgevingsvergunning voor de betrokken inrichting te verlenen, kan, voor zover dat noodzakelijk is voor de kwaliteitsbeoordeling van een PRTR-verslag, bedoeld in artikel 9, tweede lid, van de EG-verordening PRTR, aan de vergunning een voorschrift verbinden, dat de verplichting inhoudt om met betrekking tot emissies in het PRTR-verslag gegevens van een lager aggregatieniveau te verstrekken dan ingevolge het krachtens artikel 5 vastgestelde model is vereist. Bij ministeriële regeling kunnen ter zake nadere regels worden gesteld.   
+5.  Het bestuursorgaan dat bevoegd is een omgevingsvergunning voor de betrokken inrichting te verlenen, kan, voor zover dat noodzakelijk is voor de kwaliteitsbeoordeling van een PRTR-verslag, bedoeld in artikel 9, tweede lid, van de EG-verordening PRTR, aan de vergunning een voorschrift verbinden, dat de verplichting inhoudt om met betrekking tot emissies in het PRTR-verslag gegevens van een lager aggregatieniveau te verstrekken dan ingevolge het krachtens artikel 5 vastgestelde model is vereist. Bij ministeriële regeling kunnen ter zake nadere regels worden gesteld.  
 
 ### Artikel  2b  
 
-Het bestuursorgaan dat bevoegd is een omgevingsvergunning voor de betrokken inrichting te verlenen, kan aan de vergunning een voorschrift verbinden, dat de verplichting inhoudt om gegevens inzake de onderwerpen geur of geluid in het PRTR-verslag op te nemen. Bij ministeriële regeling kunnen ter zake nadere regels worden gesteld.  
+Het bestuursorgaan dat bevoegd is een omgevingsvergunning voor de betrokken inrichting te verlenen, kan aan de vergunning een voorschrift verbinden, dat de verplichting inhoudt om gegevens inzake de onderwerpen geur of geluid in het PRTR-verslag op te nemen. Bij ministeriële regeling kunnen ter zake nadere regels worden gesteld. 
 
 ### Artikel  3  
 
 1.  In een verzoek om geheimhouding als bedoeld in [artikel 12.24, derde lid, van de wet](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) wordt, voor zover dat verzoek de naam van een verontreinigende stof betreft, tevens de naam aangegeven van de groep verontreinigende stoffen waartoe de geheim te houden verontreinigende stof behoort.   
 2.  In een mededeling als bedoeld in [artikel 12.24, vierde lid, aanhef en onder a, van de wet](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) wordt, voor zover die mededeling de naam van een verontreinigende stof betreft, tevens de naam aangegeven van de groep verontreinigende stoffen waartoe de geheimgehouden verontreinigende stof behoort.   
 3.  Indien een op grond van [artikel 12.21 van de wet](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) bevoegde instantie een mededeling als bedoeld in het tweede lid heeft gedaan, wordt in het PRTR de naam van de betrokken groep verontreinigende stoffen aangegeven.   
-4.  De aanduiding van de naam van een groep verontreinigende stoffen, bedoeld in het eerste tot en met derde lid, geschiedt met inachtneming van daaromtrent bij ministeriële regeling te stellen regels.   
+4.  De aanduiding van de naam van een groep verontreinigende stoffen, bedoeld in het eerste tot en met derde lid, geschiedt met inachtneming van daaromtrent bij ministeriële regeling te stellen regels.  
 
 ### Artikel  4  
 
@@ -59,35 +59,35 @@ De aanduiding van de grond waarop tot geheimhouding is besloten in:
 
 a. de mededeling, bedoeld in [artikel 12.24, vierde lid, aanhef en onder b, van de wet](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en  
 
-b. de aanduiding, bedoeld in [artikel 12.26, derde lid, aanhef en onder b, van de wet](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md),   bevat naast de toegepaste in [artikel 10 van de Wet openbaarheid van bestuur](../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) opgenomen uitzonderingsgrond, tevens een samenvatting van de motivering van het besluit waarbij tot geheimhouding is besloten.  
+b. de aanduiding, bedoeld in [artikel 12.26, derde lid, aanhef en onder b, van de wet](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md),   bevat naast de toegepaste in [artikel 10 van de Wet openbaarheid van bestuur](../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) opgenomen uitzonderingsgrond, tevens een samenvatting van de motivering van het besluit waarbij tot geheimhouding is besloten. 
 
 ### Artikel  5  
 
-Bij ministeriële regeling wordt een model vastgesteld voor het opstellen van een PRTR-verslag.  
+Bij ministeriële regeling wordt een model vastgesteld voor het opstellen van een PRTR-verslag. 
 
 ### Artikel  6  
 
-Wijzigt het Besluit identificatie en registratie van dieren.   
+Wijzigt het Besluit identificatie en registratie van dieren. 
 
 ### Artikel  7  
 
-Wijzigt het Besluit kwaliteitseisen handhaving milieubeheer.   
+Wijzigt het Besluit kwaliteitseisen handhaving milieubeheer. 
 
 ### Artikel  8  
 
-Wijzigt het Besluit milieuverslaglegging.   
+Wijzigt het Besluit milieuverslaglegging. 
 
 ### Artikel  9  
 
-Wijzigt het Uitvoeringsbesluit Meststoffenwet.   
+Wijzigt het Uitvoeringsbesluit Meststoffenwet. 
 
 ### Artikel  10  
 
-Dit besluit treedt in werking op het tijdstip waarop [artikel I, onderdeel E, van de Uitvoeringswet EG-verordening PRTR en PRTR-protocol](../../../../../../../wet/uitvoeringswet/eg-verordening/prtr/en/prtr-protocol/BWBR0023429/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop [artikel I, onderdeel E, van de Uitvoeringswet EG-verordening PRTR en PRTR-protocol](../../../../../../../wet/uitvoeringswet/eg-verordening/prtr/en/prtr-protocol/BWBR0023429/README.md) in werking treedt. 
 
 ### Artikel  11  
 
-Dit besluit wordt aangehaald als: Uitvoeringsbesluit EG-verordening PRTR en PRTR-protocol.  
+Dit besluit wordt aangehaald als: Uitvoeringsbesluit EG-verordening PRTR en PRTR-protocol. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -95,10 +95,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 18 januari 2008  
 Beatrix  
 
-De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J. M.Cramer 
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer , 
+J. M. Cramer   
 
 de *vijfde* februari 2008 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

@@ -28,7 +28,7 @@ In deze regeling wordt verstaan onder:
 
 – zitplaats klasse B: een economy class passagiersstoel, buiten de cockpit, en met ingang van 1 april 2009 afgeschermd van de passagiers door ten minste een gordijn; indien deze zitplaats zich in het passagiersgedeelte bevindt, wordt een naastgelegen zitplaats die niet gescheiden is door een gangpad, enkel bezet door een ander lid van het boordpersoneel;  
 
-– cumulatieve diensturen: uren als bedoeld in onderdeel 1.1100 van de verordening.    
+– cumulatieve diensturen: uren als bedoeld in onderdeel 1.1100 van de verordening.   
 
 ### Artikel  2  
 
@@ -36,7 +36,7 @@ In deze regeling wordt verstaan onder:
 
 1.  Bij het bepalen van de vliegdienstperiode wordt grondtijd volledig in aanmerking genomen.   
 2.  In afwijking van het eerste lid wordt, indien binnen een vliegdienstperiode sprake is van één grondtijd langer dan twee en een half uur, de overschrijdende tijdsduur tot een maximum van twee en een half uur beschouwd als pauze en kan de maximale vliegdienstperiode met de duur van deze pauze worden verlengd, mits het bemanningslid gedurende deze pauze geen werkzaamheden verricht ten behoeve van de luchtvaartmaatschappij.   
-3.  De in het tweede lid bedoelde verlenging kan slechts op één grondtijd binnen een vliegdienstperiode worden toegepast.   
+3.  De in het tweede lid bedoelde verlenging kan slechts op één grondtijd binnen een vliegdienstperiode worden toegepast.  
 
 ### Artikel  3  
 
@@ -46,7 +46,7 @@ Indien het tijdzoneverschil tussen het begin en het einde van een vliegdienstper
 
 a. op de thuisbasis de minimumrust, bedoeld in onderdeel 1.1110, onder 1.1, van de verordening, verhoogd met het tijdzoneverschil tussen de thuisbasis en de plaats waar de voorgaande vliegdienstperiode is aangevangen, tot een rust van ten minste 16 uur;  
 
-b. buiten de thuisbasis de minimumrust, bedoeld in onderdeel 1.1110, onder 1.2, van de verordening, verhoogd met vier uur, tot een rust van ten minste 14 uur.    
+b. buiten de thuisbasis de minimumrust, bedoeld in onderdeel 1.1110, onder 1.2, van de verordening, verhoogd met vier uur, tot een rust van ten minste 14 uur.   
 
 ### Artikel  4  
 
@@ -63,14 +63,14 @@ c. de rustperiode volgend op de in onderdeel b bedoelde vliegdienstperiode niet 
 3.  Voor planningsdoeleinden wordt op de vliegdienstperiodes, genoemd in de tabel in bijlage A, een marge van 30 minuten ten opzichte van de maximale vliegdienstperiodes na verkorte rust aangehouden.   
 4.  Een verkorte rustperiode van minder dan 7,5 uur die aanvangt buiten de thuisbasis, alsmede een verkorte rustperiode van minder dan 10 uur die aanvangt op de thuisbasis, wordt beschouwd als grondtijd.   
 5.  Slechts in het geval dat een bemanningslid geen werkzaamheden verricht of aan boord zal verrichten, kan de rustperiode meerdere malen achtereen worden verkort, met dien verstande dat het verschil tussen de verkorte rustperiodes en de minimumrustperiodes ingevolge onderdelen 1.1 en 1.2 van onderdeel 1.1110 van de verordening wordt gecompenseerd na afloop van de laatste dienst.   
-6.  Een tweede lokale nacht kan, in afwijking van onderdeel 1.1095, onder 1.9, van de verordening, aanvangen om 20.00 uur lokale tijd indien de wekelijkse rustperiode, bedoeld in onderdeel 1.1110 van de verordening, ten minste 40 uur bedraagt.   
+6.  Een tweede lokale nacht kan, in afwijking van onderdeel 1.1095, onder 1.9, van de verordening, aanvangen om 20.00 uur lokale tijd indien de wekelijkse rustperiode, bedoeld in onderdeel 1.1110 van de verordening, ten minste 40 uur bedraagt.  
 
 ### Artikel  5  
 
 ####Verlenging
 
 1.  Op een vliegdienstperiode volgend op een verkorte rustperiode als bedoeld in het eerste en tweede lid van artikel 4, wordt geen verlenging als bedoeld in onderdeel 1.1105, onder 2, van de verordening toegepast.   
-2.  Op een vliegdienstperiode volgend op een verkorte rustperiode als bedoeld in het eerste en tweede lid van artikel 4, kunnen verlengingen als bedoeld in de onderdelen 1.1115 en 1.1120 van de verordening worden toegepast.   
+2.  Op een vliegdienstperiode volgend op een verkorte rustperiode als bedoeld in het eerste en tweede lid van artikel 4, kunnen verlengingen als bedoeld in de onderdelen 1.1115 en 1.1120 van de verordening worden toegepast.  
 
 ### Artikel  6  
 
@@ -85,7 +85,7 @@ c. de rustperiode volgend op de in onderdeel b bedoelde vliegdienstperiode niet 
 | Zitplaats klasse B  | 2 uur  | 3 uur  |
 
 2.  Onder verantwoordelijkheid van de gezagvoerder wordt een aflossingsschema opgesteld. Het aantal uren genoten rust voor ieder lid van het cockpitpersoneel aan boord is ten minste gelijk aan 50% van de verlenging van de vliegdienstperiode, met een minimum van 1 uur.   
-3.  De verlenging is uitsluitend mogelijk voor vluchten die bestaan uit ten hoogste vier sectoren.   
+3.  De verlenging is uitsluitend mogelijk voor vluchten die bestaan uit ten hoogste vier sectoren.  
 
 ### Artikel  7  
 
@@ -100,7 +100,7 @@ c. de rustperiode volgend op de in onderdeel b bedoelde vliegdienstperiode niet 
 | Zitplaats klasse B  | 3 uur  |
 
 2.  Onder verantwoordelijkheid van de gezagvoerder wordt een aflossingsschema opgesteld. Het aantal uren genoten rust voor ieder lid van het cabinepersoneel aan boord is ten minste gelijk aan 50% van de verlenging van de vliegdienstperiode, met een minimum van 1 uur.   
-3.  De verlenging is uitsluitend mogelijk voor vluchten die bestaan uit ten hoogste vier sectoren.   
+3.  De verlenging is uitsluitend mogelijk voor vluchten die bestaan uit ten hoogste vier sectoren.  
 
 ### Artikel  8  
 
@@ -116,42 +116,42 @@ c. de rustperiode volgend op de in onderdeel b bedoelde vliegdienstperiode niet 
 8.  Per lokale dag is het niet toegestaan langer dan twaalf uur paraat te zijn.   
 9.  Het maximale aantal paraatheidsuren bedraagt 60 in elke periode van zeven opeenvolgende dagen.   
 10.  Per lokale dag wordt niet meer dan één periode van paraatheid opgenomen in een dienstrooster. De in verband met het zevende lid als paraatheid aangemerkte periode wordt hierbij buiten beschouwing gelaten.   
-11.  Paraatheidsuren als bedoeld in onderdeel 1.1125, onder 2, van de verordening worden voor de helft meegeteld voor het bepalen van de cumulatieve diensturen.   
+11.  Paraatheidsuren als bedoeld in onderdeel 1.1125, onder 2, van de verordening worden voor de helft meegeteld voor het bepalen van de cumulatieve diensturen.  
 
 ### Artikel  9  
 
 ####Evaluatie
 
-Deze regeling wordt een jaar na haar inwerkingtreding geëvalueerd.  
+Deze regeling wordt een jaar na haar inwerkingtreding geëvalueerd. 
 
 ### Artikel  10  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking op het tijdstip waarop het [Besluit vluchtuitvoering](../../../../../../../AMvB/besluit/vluchtuitvoering/BWBR0020111/README.md) (Stb. 2006, 371) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop het [Besluit vluchtuitvoering](../../../../../../../AMvB/besluit/vluchtuitvoering/BWBR0020111/README.md) (Stb. 2006, 371) in werking treedt. 
 
 ### Artikel  11  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling werk- en rusttijden luchtvaart.  
+Deze regeling wordt aangehaald als: Regeling werk- en rusttijden luchtvaart. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings 
+C.M.P.S. Eurlings   
 
 De 
 Minister van Sociale Zaken en Werkgelegenheid, 
-J.P.H.Donner  
+J.P.H. Donner    
 
-### Bijlage  A  
+### Bijlage A 
 
 ####, behorend bij artikel 4, tweede en derde lid , van de Regeling werk- en rusttijden luchtvaart.
 
 ![243664](http://wetten.overheid.nl/Illustration/243664)
 
-### Bijlage  B  
+### Bijlage B 
 
 ####, behorend bij artikel 8, zesde lid, van de Regeling werk- en rusttijden luchtvaart 
 

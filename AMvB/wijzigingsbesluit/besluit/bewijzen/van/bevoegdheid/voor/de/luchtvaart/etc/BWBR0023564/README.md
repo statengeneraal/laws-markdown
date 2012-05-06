@@ -15,17 +15,17 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit bewijzen van bevoegdheid voor de luchtvaart.   
+Wijzigt het Besluit bewijzen van bevoegdheid voor de luchtvaart. 
 
 ### Artikel  II  
 
 1.  Een PPL, CPL of ATPL waarop de bevoegdverklaring RT is afgegeven en dat is verkregen voor 5 maart 2008 wordt tot 5 maart 2011 aangemerkt als een bewijs van bevoegdheid afgegeven in overeenstemming met de bepalingen van het bij dit besluit gewijzigde [Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md).   
 2.  Aan de houder van een in het eerste lid bedoeld bewijs van bevoegdheid wordt ambtshalve een bewijs van bevoegdheid overeenkomstig de bepalingen van het bij dit besluit gewijzigde [Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md) verstrekt waarop de bevoegdverklaring LPE met taalvaardigheidsniveau 4 vermeld is, met dien verstande dat de bevoegdverklaring LPE uiterlijk tot 5 maart 2011 haar geldigheid behoudt. Indien de afgifte van de bevoegdverklaring LPE op aanvraag geschiedt, is [artikel 8, derde lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md) van overeenkomstige toepassing.   
-3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op degene die voor 5 maart 2008 een opleiding heeft aangevangen ter verkrijging van een PPL, CPL of ATPL en voor deze datum de examens voor de afgifte van de bevoegdverklaring RT heeft afgerond.   
+3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op degene die voor 5 maart 2008 een opleiding heeft aangevangen ter verkrijging van een PPL, CPL of ATPL en voor deze datum de examens voor de afgifte van de bevoegdverklaring RT heeft afgerond.  
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van 5 maart 2008.  
+Dit besluit treedt in werking met ingang van 5 maart 2008. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

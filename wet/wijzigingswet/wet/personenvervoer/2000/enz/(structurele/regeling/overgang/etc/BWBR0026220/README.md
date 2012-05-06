@@ -11,31 +11,31 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet personenvervoer 2000.   
+Wijzigt de Wet personenvervoer 2000. 
 
 ### Artikel  II  
 
-Wijzigt de Spoorwegwet.   
+Wijzigt de Spoorwegwet. 
 
 ### Artikel  III  
 
-Een spoorweg waarop de dag voorafgaand aan de aanwijzing als hoofdspoorweg het [Reglement op de Raccordementen 1966](../../../../../../../../../../../AMvB/reglement/op/de/raccordementen/1966/BWBR0002526/README.md) van toepassing was en die in overeenstemming was met de in [dat Reglement](../../../../../../../../../../../AMvB/reglement/op/de/raccordementen/1966/BWBR0002526/README.md) opgenomen voorschriften, wordt met ingang van de dag waarop deze spoorweg wordt aangewezen als hoofdspoorweg, aangemerkt als in overeenstemming met het bepaalde bij of krachtens [artikel 6 van de Spoorwegwet](../../../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md).  
+Een spoorweg waarop de dag voorafgaand aan de aanwijzing als hoofdspoorweg het [Reglement op de Raccordementen 1966](../../../../../../../../../../../AMvB/reglement/op/de/raccordementen/1966/BWBR0002526/README.md) van toepassing was en die in overeenstemming was met de in [dat Reglement](../../../../../../../../../../../AMvB/reglement/op/de/raccordementen/1966/BWBR0002526/README.md) opgenomen voorschriften, wordt met ingang van de dag waarop deze spoorweg wordt aangewezen als hoofdspoorweg, aangemerkt als in overeenstemming met het bepaalde bij of krachtens [artikel 6 van de Spoorwegwet](../../../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md). 
 
 ### Artikel  IV  
 
-Toestemmingen die ingevolge [artikel 13, onderdeel d, van het Reglement op de Raccordementen 1966](../../../../../../../../../../../AMvB/reglement/op/de/raccordementen/1966/BWBR0002526/README.md) zijn verleend en gelden op het tijdstip waarop een spoorweg wordt aangewezen als hoofdspoorweg, worden met ingang van de dag dat de spoorweg is aangewezen als hoofdspoorweg, aangemerkt als vergunningen verleend op grond van [artikel 19, eerste lid, van de Spoorwegwet](../../../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md).  
+Toestemmingen die ingevolge [artikel 13, onderdeel d, van het Reglement op de Raccordementen 1966](../../../../../../../../../../../AMvB/reglement/op/de/raccordementen/1966/BWBR0002526/README.md) zijn verleend en gelden op het tijdstip waarop een spoorweg wordt aangewezen als hoofdspoorweg, worden met ingang van de dag dat de spoorweg is aangewezen als hoofdspoorweg, aangemerkt als vergunningen verleend op grond van [artikel 19, eerste lid, van de Spoorwegwet](../../../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md). 
 
 ### Artikel  V  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 Tavarnelle 
 18 juli 2009  
 Beatrix  
 
-De Minister van Verkeer en Waterstaat , 
+De Minister van Verkeer en Waterstaat ,  
 C. M. P. S. Eurlings   
 
 de *zesde* augustus 2009 

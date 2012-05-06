@@ -7,7 +7,7 @@ Aan de colleges van burgemeester en wethouders,    Geachte colleges, Met deze ci
 
 ####Aanleiding en doelstelling
 
-Uit de evaluatie van de eerste tranche spoorse doorsnijdingen, de [Regeling eenmalige uitkering spoorse doorsnijdingen](../../../../../../../ministeriele-regeling/regeling/eenmalige/uitkering/spoorse/doorsnijdingen/BWBR0019584/README.md)  van 2006, blijkt dat de regeling een succes is geweest. De regeling had een subsidieplafond van € 300 miljoen (prijspeil 2006). De aanvragen die voor 1 juni 2006 zijn ingediend zijn alle beoordeeld. Diverse projecten zijn afgewezen. Geen enkele aanvraag is afgewezen wegens het bereiken van het subsidieplafond, maar omdat niet voldaan werd aan de in de regeling gestelde criteria (inhoudelijk en/of financieel). Aan meer dan 60 projecten is in totaal ruim 240 miljoen euro uitgekeerd. Mede door dit succes heeft het kabinet, via de Begroting 2009, voor een tweede tranche spoorse doorsnijdingen 141 miljoen euro ter beschikking gesteld. Ook met deze tweede tranche wordt beoogd gemeenten te helpen met een financiële bijdrage om de barrièrewerking van hoofdspoorwegen in stedelijk gebied te verminderen of op te heffen. Op veel plekken in Nederland doorsnijdt het spoor stedelijk gebied. Deze circulaire geeft de wijze van verkrijging weer van een decentralisatie-uitkering uit het Gemeentefonds aan gemeenten die aan het spoor liggen, op een of andere manier hinder van het spoor ondervinden en bestaande, vergevorderde plannen hebben om de hinder te verminderen maar hier nog niet voldoende financiële middelen voor hebben. Enkel gemeenten die om of aan het spoor gelokaliseerd zijn en hier hinder van ondervinden komen in aanmerking voor een decentralisatie-uitkering. Het project moet gericht zijn op het opheffen of verminderen van de barrièrewerking die wordt veroorzaakt door het spoor. Een project moet altijd een bijdrage leveren aan stedelijke bereikbaarheid. Daarnaast moet het project in ieder geval nog een bijdrage leveren aan kwaliteit van leefomgeving, veiligheid of spoorgebruik.    
+Uit de evaluatie van de eerste tranche spoorse doorsnijdingen, de [Regeling eenmalige uitkering spoorse doorsnijdingen](../../../../../../../ministeriele-regeling/regeling/eenmalige/uitkering/spoorse/doorsnijdingen/BWBR0019584/README.md) van 2006, blijkt dat de regeling een succes is geweest. De regeling had een subsidieplafond van € 300 miljoen (prijspeil 2006). De aanvragen die voor 1 juni 2006 zijn ingediend zijn alle beoordeeld. Diverse projecten zijn afgewezen. Geen enkele aanvraag is afgewezen wegens het bereiken van het subsidieplafond, maar omdat niet voldaan werd aan de in de regeling gestelde criteria (inhoudelijk en/of financieel). Aan meer dan 60 projecten is in totaal ruim 240 miljoen euro uitgekeerd. Mede door dit succes heeft het kabinet, via de Begroting 2009, voor een tweede tranche spoorse doorsnijdingen 141 miljoen euro ter beschikking gesteld. Ook met deze tweede tranche wordt beoogd gemeenten te helpen met een financiële bijdrage om de barrièrewerking van hoofdspoorwegen in stedelijk gebied te verminderen of op te heffen. Op veel plekken in Nederland doorsnijdt het spoor stedelijk gebied. Deze circulaire geeft de wijze van verkrijging weer van een decentralisatie-uitkering uit het Gemeentefonds aan gemeenten die aan het spoor liggen, op een of andere manier hinder van het spoor ondervinden en bestaande, vergevorderde plannen hebben om de hinder te verminderen maar hier nog niet voldoende financiële middelen voor hebben. Enkel gemeenten die om of aan het spoor gelokaliseerd zijn en hier hinder van ondervinden komen in aanmerking voor een decentralisatie-uitkering. Het project moet gericht zijn op het opheffen of verminderen van de barrièrewerking die wordt veroorzaakt door het spoor. Een project moet altijd een bijdrage leveren aan stedelijke bereikbaarheid. Daarnaast moet het project in ieder geval nog een bijdrage leveren aan kwaliteit van leefomgeving, veiligheid of spoorgebruik.    
 ### 2  
 
 ####Opzet van de decentralisatie-uitkering
@@ -26,7 +26,7 @@ In bijlage 1 bij deze circulaire staan de voorwaarden om in aanmerking te komen 
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings  
+C.M.P.S. Eurlings    
 
 ### Bijlage  1  
 
@@ -38,17 +38,17 @@ C.M.P.S.Eurlings
 
 In deze bijlage wordt verstaan onder: 
 
-a. *minister:* Minister van Verkeer en Waterstaat;  
+a.  *minister:* Minister van Verkeer en Waterstaat;  
 
-b. *MIRT:* Meerjarenprogramma Infrastructuur, Ruimte en Transport;  
+b.  *MIRT:* Meerjarenprogramma Infrastructuur, Ruimte en Transport;  
 
-c. *project:* project als bedoeld in artikel 2;  
+c.  *project:* project als bedoeld in artikel 2;  
 
-d. *spoor:* hoofdspoorwegen als aangewezen in het [Besluit aanwijzing hoofdspoorwegen](../../../../../../../KB/besluit/aanwijzing/hoofdspoorwegen/BWBR0017794/README.md) en de in onbruik geraakte spoorwegen;  
+d.  *spoor:* hoofdspoorwegen als aangewezen in het [Besluit aanwijzing hoofdspoorwegen](../../../../../../../KB/besluit/aanwijzing/hoofdspoorwegen/BWBR0017794/README.md) en de in onbruik geraakte spoorwegen;  
 
-e. *plan:* beschrijving van de werkzaamheden die ertoe leiden dat een project gerealiseerd wordt;  
+e.  *plan:* beschrijving van de werkzaamheden die ertoe leiden dat een project gerealiseerd wordt;  
 
-f. *decentralisatie-uitkering:* decentralisatie-uitkering als bedoeld in [artikel 5, tweede lid, van de Financiële-verhoudingswet](../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), waarbij het in deze circulaire steeds gaat om de decentralisatie-uitkering spoorse doorsnijdingen.    
+f.  *decentralisatie-uitkering:* decentralisatie-uitkering als bedoeld in [artikel 5, tweede lid, van de Financiële-verhoudingswet](../../../../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), waarbij het in deze circulaire steeds gaat om de decentralisatie-uitkering spoorse doorsnijdingen.   
 
 ### Artikel  2  
 
@@ -60,7 +60,7 @@ a. een verbetering van de kwaliteit van de leefomgeving,
 
 b. een verbetering van de veiligheid, of  
 
-c. een positief effect op het spoorgebruik.    
+c. een positief effect op het spoorgebruik.   
 
 ### Artikel  3  
 
@@ -113,15 +113,15 @@ c. de kosten gemaakt in verband met het verkrijgen van een accountantsverklaring
 
 ####Aanvraag
 
-1.  De aanvraag voor een decentralisatie-uitkering wordt ingediend met gebruikmaking van een volledig ingevuld aanvraagformulier zoals opgenomen in bijlage 2, inclusief een begroting van het project opgebouwd volgens de Standaard Systematiek Kostenramingen, (SSK, CROW publicatie 137, 2 <sup>e</sup> druk), prijspeil 2008.   
+1.  De aanvraag voor een decentralisatie-uitkering wordt ingediend met gebruikmaking van een volledig ingevuld aanvraagformulier zoals opgenomen in bijlage 2, inclusief een begroting van het project opgebouwd volgens de Standaard Systematiek Kostenramingen, (SSK, CROW publicatie 137, 2<sup>e</sup> druk), prijspeil 2008.   
 2.  De aanvraag bevat tevens de wijze van financiering van de totale kosten van het project minus de gevraagde decentralisatie-uitkering, met de daarbij horende stukken.   
 3.  De aanvraag wordt ingediend door het college van burgemeester en wethouders.   
 4.  De aanvraag wordt schriftelijk en in tweevoud ingediend, met daarbij een elektronische kopie van de aanvraag en eventuele onderliggende stukken.   
-5.  Vanaf 27 november 2008 kunnen aanvragen in een gesloten enveloppe, duidelijk voorzien van het opschrift ‘Aanvraag Spoorse doorsnijdingen, 2 <sup>e</sup> tranche’, worden ingediend bij de receptie van het kantoor Pels Rijcken & Droogleever Fortuijn advocaten en notarissen, Kantoren Stichthage, Koningin Julianaplein 10 te Den Haag (13 <sup>e</sup> verdieping). Indiening kan van maandag tot en met vrijdag tussen 10.00 uur en 17.00 uur. Een aanvraag kan tevens per aangetekende post met bewijs van ontvangst worden toegezonden aan: Pels Rijcken & Droogleever Fortuijn N.V. De heer mr. R.A. Gallas Postbus 11756 2502 AT Den Haag   
+5.  Vanaf 27 november 2008 kunnen aanvragen in een gesloten enveloppe, duidelijk voorzien van het opschrift ‘Aanvraag Spoorse doorsnijdingen, 2<sup>e</sup> tranche’, worden ingediend bij de receptie van het kantoor Pels Rijcken & Droogleever Fortuijn advocaten en notarissen, Kantoren Stichthage, Koningin Julianaplein 10 te Den Haag (13<sup>e</sup> verdieping). Indiening kan van maandag tot en met vrijdag tussen 10.00 uur en 17.00 uur. Een aanvraag kan tevens per aangetekende post met bewijs van ontvangst worden toegezonden aan: Pels Rijcken & Droogleever Fortuijn N.V. De heer mr. R.A. Gallas Postbus 11756 2502 AT Den Haag   
 6.  Na indiening bij of ontvangst per post door Pels Rijcken & Droogleever Fortuijn wordt de aanvraag geregistreerd door Pels Rijcken & Droogleever Fortuijn, waarbij op de daartoe opgestelde ontvangstbevestiging het tijdstip en datum van ontvangst, alsmede de naam van de indienende gemeente en de indienende persoon zullen worden vermeld.   
 7.  Na indiening van de enveloppe bij de receptie van Pels Rijcken & Droogleever Fortuijn, op de wijze als hiervoor omschreven, ontvangt de indienende persoon een kopie van de ontvangstbevestiging. Indien een aanvraag per post wordt ingediend wordt geen ontvangstbevestiging afgegeven aan de indienende gemeente.   
 8.  Door Pels Rijcken & Droogleever Fortuijn wordt proces-verbaal opgemaakt, waarin zal worden opgenomen welke aanvragen op welke data en tijdstippen zijn ontvangen.   
-9.  Een aanvraag die wordt ingediend voor 27 november 2008 of na 30 juni 2009 wordt niet geregistreerd en niet in behandeling genomen. Voorts zullen aanvragen die per email of per fax worden toegezonden niet in behandeling worden genomen.   
+9.  Een aanvraag die wordt ingediend voor 27 november 2008 of na 30 juni 2009 wordt niet geregistreerd en niet in behandeling genomen. Voorts zullen aanvragen die per email of per fax worden toegezonden niet in behandeling worden genomen.  
 
 ### Artikel  5  
 
@@ -139,21 +139,21 @@ d. gegronde reden bestaat om aan te nemen dat de voor de uitvoering van het proj
 
 e. het project naar het oordeel van de minister strijdig is met het vigerende rijksbeleid;  
 
-f. de uitvoeringswerkzaamheden voor het project al zijn gestart voordat deze circulaire is gepubliceerd in de Staatscourant.    
+f. de uitvoeringswerkzaamheden voor het project al zijn gestart voordat deze circulaire is gepubliceerd in de Staatscourant.   
 
 ### Artikel  6  
 
 ####Procedure
 
-De aanvragen worden behandeld in volgorde van datum en tijdstip van indiening bij Pels Rijcken & Droogleever Fortuijn, op de wijze als hiervoor omschreven. Daarbij gaat het om aanvragen die voldoen aan de vereisten, bedoeld in artikel 4, eerste tot en met vierde lid, met dien verstande dat wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in de gelegenheid is gesteld de aanvraag aan te vullen, de datum en het tijdstip waarop de aanvraag is aangevuld en vervolgens ten kantore van Pels Rijcken & Droogleever Fortuijn is ingediend, op de wijze als hiervoor omschreven, als datum en tijdstip van indiening en registratie van de aanvraag geldt.  
+De aanvragen worden behandeld in volgorde van datum en tijdstip van indiening bij Pels Rijcken & Droogleever Fortuijn, op de wijze als hiervoor omschreven. Daarbij gaat het om aanvragen die voldoen aan de vereisten, bedoeld in artikel 4, eerste tot en met vierde lid, met dien verstande dat wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in de gelegenheid is gesteld de aanvraag aan te vullen, de datum en het tijdstip waarop de aanvraag is aangevuld en vervolgens ten kantore van Pels Rijcken & Droogleever Fortuijn is ingediend, op de wijze als hiervoor omschreven, als datum en tijdstip van indiening en registratie van de aanvraag geldt. 
 
-### Bijlage  2  
+### Bijlage 2  
 
-####, bedoeld in artikel 4, eerste lid, van bijlage 1  bij de circulaire spoorse doorsnijdingen 2 <sup>e</sup> tranche
+####, bedoeld in artikel 4, eerste lid, van bijlage 1  bij de circulaire spoorse doorsnijdingen 2<sup>e</sup> tranche
 
 ####Postadres aanvraag
 
-De aanvraag wordt gericht aan de Minister van Verkeer en Waterstaat onder vermelding van ‘aanvraag circulaire spoorse doorsnijdingen 2 <sup>e</sup> tranche’. Bezorgadres: Pels Rijcken & Droogleever Fortuijn Mr R.A. Gallas, notaris Kantoren Stichthage (boven Den Haag Centraal Station) 13 <sup>e</sup> verdieping Koningin Julianaplein 10 2595 AA Den Haag Contactpersonen Pels Rijcken: De heer mr. R.A. Gallas en de heer mr. R.A. Spit (070-515 38 50 of ra.spit@pelsrijcken.nl) Werkinstructie format: Bij de indiening van de aanvraag dient gebruik gemaakt te worden van onderstaand format. De minister gebruikt bij de beoordeling van de aanvraag de informatie zoals is vermeld in dit format. Bij de invulling van het format dient de gemeente: 
+De aanvraag wordt gericht aan de Minister van Verkeer en Waterstaat onder vermelding van ‘aanvraag circulaire spoorse doorsnijdingen 2<sup>e</sup> tranche’. Bezorgadres: Pels Rijcken & Droogleever Fortuijn Mr R.A. Gallas, notaris Kantoren Stichthage (boven Den Haag Centraal Station) 13<sup>e</sup> verdieping Koningin Julianaplein 10 2595 AA Den Haag Contactpersonen Pels Rijcken: De heer mr. R.A. Gallas en de heer mr. R.A. Spit (070-515 38 50 of ra.spit@pelsrijcken.nl) Werkinstructie format: Bij de indiening van de aanvraag dient gebruik gemaakt te worden van onderstaand format. De minister gebruikt bij de beoordeling van de aanvraag de informatie zoals is vermeld in dit format. Bij de invulling van het format dient de gemeente: 
 
 – de vraag voldoende gemotiveerd kwalitatief te beantwoorden;  
 
@@ -167,14 +167,14 @@ De aanvraag wordt gericht aan de Minister van Verkeer en Waterstaat onder vermel
 
 | 1. Algemene informatie  |
 |:---|
-| Naam gemeente  | --- |
+| Naam gemeente   | --- |
 | Naam en functie contactpersoon  | --- |
-| Betrokken partners  | --- |
+| Betrokken partners   | --- |
 | Bezoekadres  | --- |
 | Postadres  | --- |
 | Postcode  | --- |
 | Plaats  | --- |
-| Telefoonnummer  | --- |
+| Telefoonnummer   | --- |
 | Fax  | --- |
 | E-mail  | --- |
 
@@ -211,7 +211,7 @@ De aanvraag wordt gericht aan de Minister van Verkeer en Waterstaat onder vermel
 | --- |
 | Is er sprake van een geluidssituatie binnen de wettelijke normen? Verandert deze situatie als gevolg van de realisatie van het project? Gaat het hier om een verhoging of verlaging van de geluidsoverlast? Voor hoeveel woningen, geluidsgevoelige bestemmingen, en geluidsgehinderden is dit het geval?  |
 | --- |
-| In hoeverre is er sprake van overlast voor de omgeving als gevolg van trillingen? In welke mate wijzigt dit door maatregelen uit het project.  |
+| In hoeverre is er sprake van overlast voor de omgeving als gevolg van trillingen? In welke mate wijzigt dit door maatregelen uit het project.   |
 | --- |
 | In hoeverre leiden de maatregelen uit het project tot een verandering van de luchtkwaliteit?  |
 | --- |
@@ -226,7 +226,7 @@ De aanvraag wordt gericht aan de Minister van Verkeer en Waterstaat onder vermel
 
 | C. Criterium veiligheid  |
 |:---|
-| Wat is het effect van het project op de ongevalskans op overwegen in het plangebied?  |
+| Wat is het effect van het project op de ongevalskans op overwegen in het plangebied?   |
 | --- |
 | In welke mate draagt het project bij aan het verhinderen van vandalisme op en om het spoor?  |
 | --- |
@@ -253,29 +253,29 @@ De aanvraag wordt gericht aan de Minister van Verkeer en Waterstaat onder vermel
 
 ####Toelichting voor invulling Standaard Systematiek Kostenramingen (SSK, CROW publicatie 137, tweede druk)
 
-Uit de evaluatie van de [Regeling eenmalige uitkering spoorse doorsnijdingen](../../../../../../../ministeriele-regeling/regeling/eenmalige/uitkering/spoorse/doorsnijdingen/BWBR0019584/README.md) is gebleken dat de invulling van de SSK in enkele gevallen op problemen stuitte. De raming moet dezelfde opbouw hebben als het SSK-spreadsheet. Deze is te vinden op de CROW-website (http:/www.crow.nl). Om de SSK-raming op goede wijze in te vullen zijn in onderstaande toelichting enkele punten aangestipt waarop een gemeente moet letten bij de invulling van de SSK-raming. *N.B:* Indien de SSK-raming wordt gevolgd wil dat overigens nog niet zeggen dat deze automatisch wordt goedgekeurd. Deze zal altijd getoetst worden. Voor het kunnen toetsen van de kostenraming dient deze een opgave te bevatten van uitgangspunten, aannames, randvoorwaarden en uitsluitingen welke ten grondslag liggen aan de kostenraming, en dient deze vergezeld te zijn door de benodigde bijbehorende technische tekeningen die ten grondslag liggen aan de beraming en dus ook aan het project. Uit de onderbouwing moet blijken de hoeveelheid en prijzen, het prijsniveau in overeenstemming met complexiteit en uitvoeringsmethode, de indirecte kosten, realisatieonzekerheden en onnauwkeurigheden. Ten behoeve van de invulling van de aanvraag en de SSK-raming zal op de website van het ministerie van Verkeer en Waterstaat (http://www.verkeerenwaterstaat.nl/) nadere informatie worden opgenomen. Deze informatie zal bestaan uit stellingen ten behoeve van de kostenraming en stellingen algemeen en geldt slechts ter ondersteuning. Aan het volgen van deze stellingen kunnen geen rechten worden ontleend. De aanvraag zal altijd worden getoetst op volledigheid en de andere criteria van deze circulaire.  
+Uit de evaluatie van de [Regeling eenmalige uitkering spoorse doorsnijdingen](../../../../../../../ministeriele-regeling/regeling/eenmalige/uitkering/spoorse/doorsnijdingen/BWBR0019584/README.md) is gebleken dat de invulling van de SSK in enkele gevallen op problemen stuitte. De raming moet dezelfde opbouw hebben als het SSK-spreadsheet. Deze is te vinden op de CROW-website (http:/www.crow.nl). Om de SSK-raming op goede wijze in te vullen zijn in onderstaande toelichting enkele punten aangestipt waarop een gemeente moet letten bij de invulling van de SSK-raming. *N.B:* Indien de SSK-raming wordt gevolgd wil dat overigens nog niet zeggen dat deze automatisch wordt goedgekeurd. Deze zal altijd getoetst worden. Voor het kunnen toetsen van de kostenraming dient deze een opgave te bevatten van uitgangspunten, aannames, randvoorwaarden en uitsluitingen welke ten grondslag liggen aan de kostenraming, en dient deze vergezeld te zijn door de benodigde bijbehorende technische tekeningen die ten grondslag liggen aan de beraming en dus ook aan het project. Uit de onderbouwing moet blijken de hoeveelheid en prijzen, het prijsniveau in overeenstemming met complexiteit en uitvoeringsmethode, de indirecte kosten, realisatieonzekerheden en onnauwkeurigheden. Ten behoeve van de invulling van de aanvraag en de SSK-raming zal op de website van het ministerie van Verkeer en Waterstaat (http://www.verkeerenwaterstaat.nl/) nadere informatie worden opgenomen. Deze informatie zal bestaan uit stellingen ten behoeve van de kostenraming en stellingen algemeen en geldt slechts ter ondersteuning. Aan het volgen van deze stellingen kunnen geen rechten worden ontleend. De aanvraag zal altijd worden getoetst op volledigheid en de andere criteria van deze circulaire. 
 
-####Toelichting bij bijlage 2 bij de Circulaire spoorse doorsnijdingen 2 <sup>e</sup> tranche
+####Toelichting bij bijlage 2 bij de Circulaire spoorse doorsnijdingen 2<sup>e</sup> tranche
 
 ####Artikel 1
 
-In dit punt is een omschrijving van hetgeen onder spoor wordt bedoeld opgenomen. Het is de bedoeling knelpunten bij in gebruik zijnde en in onbruik geraakte spoorwegen voor een decentralisatie-uitkering in aanmerking te laten komen. Het Meerjarenprogramma Infrastructuur en Transport is met ingang van de begroting 2008 gewijzigd in Meerjarenprogramma Infrastructuur, Ruimte en Transport, hierna te noemen MIRT. Het MIRT verschijnt voortaan jaarlijks als onderdeel van de begrotingen van de ministeries van Verkeer en Waterstaat, Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, Economische Zaken en Landbouw, Natuur en Voedselkwaliteit. Centraal element in het MIRT is de samenhang tussen ruimtelijke projecten, infrastructuur en (openbaar) vervoer.  
+In dit punt is een omschrijving van hetgeen onder spoor wordt bedoeld opgenomen. Het is de bedoeling knelpunten bij in gebruik zijnde en in onbruik geraakte spoorwegen voor een decentralisatie-uitkering in aanmerking te laten komen. Het Meerjarenprogramma Infrastructuur en Transport is met ingang van de begroting 2008 gewijzigd in Meerjarenprogramma Infrastructuur, Ruimte en Transport, hierna te noemen MIRT. Het MIRT verschijnt voortaan jaarlijks als onderdeel van de begrotingen van de ministeries van Verkeer en Waterstaat, Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, Economische Zaken en Landbouw, Natuur en Voedselkwaliteit. Centraal element in het MIRT is de samenhang tussen ruimtelijke projecten, infrastructuur en (openbaar) vervoer. 
 
 ####Artikel 2
 
-De decentralisatie-uitkering is bij voorkeur bedoeld voor gemeenten die bestaande plannen hebben om de barrièrewerking van het spoor te verminderen of op te heffen maar hier nog niet voldoende financiële middelen voor hebben. Het gaat om gemeenten die om of aan het spoor gelokaliseerd zijn. De desbetreffende projecten zullen moeten bijdragen aan stedelijke bereikbaarheid en daarnaast aan de verbetering van de kwaliteit van de leefomgeving, aan de verbetering van de veiligheid of spoorgebruik. Plannen die zich enkel op de weg, water of nieuwe stations richten, komen niet in aanmerking voor een decentralisatie-uitkering.  
+De decentralisatie-uitkering is bij voorkeur bedoeld voor gemeenten die bestaande plannen hebben om de barrièrewerking van het spoor te verminderen of op te heffen maar hier nog niet voldoende financiële middelen voor hebben. Het gaat om gemeenten die om of aan het spoor gelokaliseerd zijn. De desbetreffende projecten zullen moeten bijdragen aan stedelijke bereikbaarheid en daarnaast aan de verbetering van de kwaliteit van de leefomgeving, aan de verbetering van de veiligheid of spoorgebruik. Plannen die zich enkel op de weg, water of nieuwe stations richten, komen niet in aanmerking voor een decentralisatie-uitkering. 
 
 ####Artikel 3
 
-Binnen de begroting van 2009 is een bedrag van € 142 miljoen gereserveerd voor een tweede tranche spoorse doorsnijdingen. Van dit bedrag wordt € 141 (prijspeil 2008) miljoen in de regeling opgenomen als plafond. Een bedrag van € 1 miljoen is gereserveerd voor de beoordeling van de aanvragen en de evaluatie van de verstrekte decentralisatie-uitkeringen. Per project is niet meer dan € 15 miljoen beschikbaar. Uit de evaluatie van de eerste tranche is gebleken dat de toegewezen projecten gemiddeld een bedrag van € 4 miljoen hebben ontvangen. Het is de bedoeling meerdere projecten juist dat duwtje te geven om alsnog gerealiseerd te kunnen worden. Binnen een totaal budget van € 141 miljoen met een maximum van € 15 miljoen per project geeft dat mogelijkheden. De kosten die voor een decentralisatie-uitkering in aanmerking komen zijn overgenomen uit de [Regeling eenmalige uitkering spoorse doorsnijdingen](../../../../../../../ministeriele-regeling/regeling/eenmalige/uitkering/spoorse/doorsnijdingen/BWBR0019584/README.md). Er is geen aanleiding om deze te wijzigen. Sommige projecten zijn opgenomen in het MIRT of ontvangen op basis van een programma van het MIRT een bijdrage van de Minister van Verkeer en Waterstaat in dit verband. Om dubbele bijdragen vanuit het beleidsterrein van het Ministerie van Verkeer en Waterstaat te voorkomen is aan een bijdrage aan een project vanuit het MIRT en op basis van deze circulaire een maximum gesteld van 25%. Opname in het MIRT zal in dat geval niet leiden tot afwijzing maar tot een maximum van de totale bijdrage.  
+Binnen de begroting van 2009 is een bedrag van € 142 miljoen gereserveerd voor een tweede tranche spoorse doorsnijdingen. Van dit bedrag wordt € 141 (prijspeil 2008) miljoen in de regeling opgenomen als plafond. Een bedrag van € 1 miljoen is gereserveerd voor de beoordeling van de aanvragen en de evaluatie van de verstrekte decentralisatie-uitkeringen. Per project is niet meer dan € 15 miljoen beschikbaar. Uit de evaluatie van de eerste tranche is gebleken dat de toegewezen projecten gemiddeld een bedrag van € 4 miljoen hebben ontvangen. Het is de bedoeling meerdere projecten juist dat duwtje te geven om alsnog gerealiseerd te kunnen worden. Binnen een totaal budget van € 141 miljoen met een maximum van € 15 miljoen per project geeft dat mogelijkheden. De kosten die voor een decentralisatie-uitkering in aanmerking komen zijn overgenomen uit de [Regeling eenmalige uitkering spoorse doorsnijdingen](../../../../../../../ministeriele-regeling/regeling/eenmalige/uitkering/spoorse/doorsnijdingen/BWBR0019584/README.md). Er is geen aanleiding om deze te wijzigen. Sommige projecten zijn opgenomen in het MIRT of ontvangen op basis van een programma van het MIRT een bijdrage van de Minister van Verkeer en Waterstaat in dit verband. Om dubbele bijdragen vanuit het beleidsterrein van het Ministerie van Verkeer en Waterstaat te voorkomen is aan een bijdrage aan een project vanuit het MIRT en op basis van deze circulaire een maximum gesteld van 25%. Opname in het MIRT zal in dat geval niet leiden tot afwijzing maar tot een maximum van de totale bijdrage. 
 
 ####Artikel 4
 
-Gekozen is voor een systeem van wie het eerst komt die het eerst ontvangt. De circulaire is bij voorkeur bedoeld voor gemeenten met bestaande plannen. De aanvragen kunnen daarom op korte termijn na inwerkingtreding van de circulaire worden ingediend. De aanvraag dient te worden ondertekend door burgemeester en wethouders. De aanvraag dient schriftelijk en in tweevoud te worden ingediend. Fax-berichten en e-mail vallen daar niet onder. De bijlagen en het aanvraagformulier moeten digitaal worden bijgevoegd. Gedacht kan worden aan CD-rom, USB-stick. De aanvraag bevat het aanvraagformulier en de SSK-raming. Tevens dient de wijze van financiering van de totale kosten van het project te worden onderbouwd. Dat betekent dat het project aantoonbaar financieel 100% moet zijn gedekt op het moment van de aanvraag. Dit inclusief de decentralisatie-uitkering. De wijze van financiering moet zekerheid bevatten dat andere partijen inderdaad bijdragen. Een toezegging of een intentieverklaring van een andere partij is onvoldoende. De aanvraag kan worden ingediend vanaf 27 november 2008 ten kantore van Pels Rijcken & Droogleever Fortuijn op werkdagen van 10.00 uur tot en met 17.00 uur. Indiening per post kan leiden tot registratie op een ander tijdstip dan door de aanvrager gewenst. Aanvragen die voor 27 november 2008 of na 30 juni 2009 worden ingediend worden niet geregistreerd en niet behandeld. Tevens is toezending per fax of per email niet toegestaan. Voor de registratie geldt het tijdstip en de datum van indienen of ontvangst per post door notaris mr. R.A. Gallas van Pels Rijcken & Droogleever Fortuijn.  
+Gekozen is voor een systeem van wie het eerst komt die het eerst ontvangt. De circulaire is bij voorkeur bedoeld voor gemeenten met bestaande plannen. De aanvragen kunnen daarom op korte termijn na inwerkingtreding van de circulaire worden ingediend. De aanvraag dient te worden ondertekend door burgemeester en wethouders. De aanvraag dient schriftelijk en in tweevoud te worden ingediend. Fax-berichten en e-mail vallen daar niet onder. De bijlagen en het aanvraagformulier moeten digitaal worden bijgevoegd. Gedacht kan worden aan CD-rom, USB-stick. De aanvraag bevat het aanvraagformulier en de SSK-raming. Tevens dient de wijze van financiering van de totale kosten van het project te worden onderbouwd. Dat betekent dat het project aantoonbaar financieel 100% moet zijn gedekt op het moment van de aanvraag. Dit inclusief de decentralisatie-uitkering. De wijze van financiering moet zekerheid bevatten dat andere partijen inderdaad bijdragen. Een toezegging of een intentieverklaring van een andere partij is onvoldoende. De aanvraag kan worden ingediend vanaf 27 november 2008 ten kantore van Pels Rijcken & Droogleever Fortuijn op werkdagen van 10.00 uur tot en met 17.00 uur. Indiening per post kan leiden tot registratie op een ander tijdstip dan door de aanvrager gewenst. Aanvragen die voor 27 november 2008 of na 30 juni 2009 worden ingediend worden niet geregistreerd en niet behandeld. Tevens is toezending per fax of per email niet toegestaan. Voor de registratie geldt het tijdstip en de datum van indienen of ontvangst per post door notaris mr. R.A. Gallas van Pels Rijcken & Droogleever Fortuijn. 
 
 ####Artikel 5
 
-De circulaire staat niet open voor projecten die al een bijdrage hebben ontvangen op basis van de Regeling eenmalige uikering spoorse doorsnijdingen. Om te voorkomen dat nadat een decentralisatie-uitkering is verstrekt het project vervolgens niet wordt uitgevoerd, is het belangrijk dat gemeenten aantonen hoe de overige financiering plaatsvindt. Pas wanneer zij dit kunnen aantonen, kunnen zij in aanmerking komen voor een decentralisatie-uitkering. Bij de aanvraag moet dit goed onderbouwd worden. Het rijksbeleid waarnaar wordt verwezen in onderdeel e, is onder meer de Kadernota Railveiligheid, de Nota Mobiliteit, de Nota Ruimte, richtlijnen ten aanzien van de verschillende elementen bij de criteria en bijvoorbeeld ook brieven van de minister aan de Tweede Kamer. Onderdeel f geeft aan dat projecten die reeds met uitvoeringswerkzaamheden zijn gestart voor publicatie van de circulaire niet in aanmerking komen voor een decentralisatie-uitkering. Daar het gaat om een circulaire om gemeenten te helpen bij de uitvoer van projecten die anders op de plank blijven liggen, komen projecten waarvan de werkzaamheden begonnen zijn niet in aanmerking voor een decentralisatie-uitkering. Uitgangspunt hierbij is dat voor deze plannen al voldoende financiële middelen beschikbaar zijn. Deze circulaire is bedoeld voor die projecten die tot op heden niet geheel financieel gedekt waren.  
+De circulaire staat niet open voor projecten die al een bijdrage hebben ontvangen op basis van de Regeling eenmalige uikering spoorse doorsnijdingen. Om te voorkomen dat nadat een decentralisatie-uitkering is verstrekt het project vervolgens niet wordt uitgevoerd, is het belangrijk dat gemeenten aantonen hoe de overige financiering plaatsvindt. Pas wanneer zij dit kunnen aantonen, kunnen zij in aanmerking komen voor een decentralisatie-uitkering. Bij de aanvraag moet dit goed onderbouwd worden. Het rijksbeleid waarnaar wordt verwezen in onderdeel e, is onder meer de Kadernota Railveiligheid, de Nota Mobiliteit, de Nota Ruimte, richtlijnen ten aanzien van de verschillende elementen bij de criteria en bijvoorbeeld ook brieven van de minister aan de Tweede Kamer. Onderdeel f geeft aan dat projecten die reeds met uitvoeringswerkzaamheden zijn gestart voor publicatie van de circulaire niet in aanmerking komen voor een decentralisatie-uitkering. Daar het gaat om een circulaire om gemeenten te helpen bij de uitvoer van projecten die anders op de plank blijven liggen, komen projecten waarvan de werkzaamheden begonnen zijn niet in aanmerking voor een decentralisatie-uitkering. Uitgangspunt hierbij is dat voor deze plannen al voldoende financiële middelen beschikbaar zijn. Deze circulaire is bedoeld voor die projecten die tot op heden niet geheel financieel gedekt waren. 
 
 ####Artikel 6
 

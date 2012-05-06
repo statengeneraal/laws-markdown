@@ -8,8 +8,8 @@ Den Haag
 16 februari 2006   
 
 De 
-Minister van Justitie, namens deze: 
+Minister van Justitie, namens deze:
 
 de 
 Directeur-Generaal Rechtshandhaving, 
-J. van derVlist   
+J. van der Vlist     

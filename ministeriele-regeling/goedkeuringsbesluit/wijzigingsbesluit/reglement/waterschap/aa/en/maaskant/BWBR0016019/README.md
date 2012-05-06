@@ -13,5 +13,5 @@ I. Wijziging van het Reglement voor het waterschap Aa en Maaskant.
 II. Bepaling van de datum van inwerkingtreding van dit besluit op 1 januari 2004.       
 
 De 
-Staatssecretaris van Verkeer en Waterstaat
-M. H.Schultz van Haegen    
+Staatssecretaris van Verkeer en Waterstaat 
+M. H. Schultz van Haegen      

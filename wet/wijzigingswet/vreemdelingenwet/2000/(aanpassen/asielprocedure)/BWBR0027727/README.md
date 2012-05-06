@@ -11,18 +11,18 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Vreemdelingenwet 2000.   
+Wijzigt de Vreemdelingenwet 2000. 
 
 ### Artikel  II  
 
 1.  Ten aanzien van een aanvraag die is ingediend voor het tijdstip van inwerkingtreding van deze wet blijft het bepaalde bij of krachtens de [artikelen 62, derde lid, onderdeel c](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [69, tweede lid](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), en [82, tweede lid, van de Vreemdelingenwet 2000](../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) zoals dat gold voor dat tijdstip van toepassing.   
-2.  In afwijking van het eerste lid, dient de vreemdeling die zijn eerste aanvraag heeft ingediend voor het tijdstip van inwerkingtreding van deze wet en wiens aanvraag is afgewezen na het tijdstip van inwerkingtreding van deze wet, Nederland uit eigen beweging binnen vier weken te verlaten.   
+2.  In afwijking van het eerste lid, dient de vreemdeling die zijn eerste aanvraag heeft ingediend voor het tijdstip van inwerkingtreding van deze wet en wiens aanvraag is afgewezen na het tijdstip van inwerkingtreding van deze wet, Nederland uit eigen beweging binnen vier weken te verlaten.  
 
 ### Artikel  III  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 20 mei 2010  

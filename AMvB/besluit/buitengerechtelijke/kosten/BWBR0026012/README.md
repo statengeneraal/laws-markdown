@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De buitengerechtelijke kosten, bedoeld in [artikel 4:120 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kunnen in rekening worden gebracht voor zover zij redelijk zijn. De buitengerechtelijke kosten bedragen ten hoogste 15% van de geldsom, bedoeld in [artikel 4:86 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+De buitengerechtelijke kosten, bedoeld in [artikel 4:120 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kunnen in rekening worden gebracht voor zover zij redelijk zijn. De buitengerechtelijke kosten bedragen ten hoogste 15% van de geldsom, bedoeld in [artikel 4:86 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking op het tijdstip waarop de [Vierde tranche Algemene wet bestuursrecht](../../../../../wet/vierde/tranche/algemene/wet/bestuursrecht/BWBR0026016/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de [Vierde tranche Algemene wet bestuursrecht](../../../../../wet/vierde/tranche/algemene/wet/bestuursrecht/BWBR0026016/README.md) in werking treedt. 
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Besluit buitengerechtelijke kosten.  
+Dit besluit wordt aangehaald als: Besluit buitengerechtelijke kosten. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -36,5 +36,5 @@ E. M. H. Hirsch Ballin
 
 de *dertigste* juni 2009 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin    

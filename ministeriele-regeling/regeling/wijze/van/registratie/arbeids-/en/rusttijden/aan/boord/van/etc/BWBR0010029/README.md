@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. UTC:  Universal Time Coordinated;    b. LT:  Local Time;    c. FW:  vleugelvliegtuigen;    d. RW:  hefschroefvliegtuigen;    e. VWT:  vliegwerktijd.     
+In deze regeling wordt verstaan onder:   a.  UTC:   Universal Time Coordinated;    b.  LT:   Local Time;    c.  FW:   vleugelvliegtuigen;    d.  RW:   hefschroefvliegtuigen;    e.  VWT:   vliegwerktijd.    
 
 ### Artikel  2  
 
@@ -16,7 +16,7 @@ Het cockpitpersoneel op verkeersvluchten met uitzondering van rondvluchten regis
 
 | --- | --- | --- |
 |:---|:---|:---|
-|  *Categorie vliegtuigen:*   |  *FW*   |  *RW*   |
+| *Categorie vliegtuigen: *  |  *FW*  | *RW*  |
 | datum  | x  | x  |
 | aanmeldingstijd UTC  | x  | --- |
 | aanmeldingstijd LT  | x  | --- |
@@ -34,7 +34,7 @@ Het cockpitpersoneel op verkeersvluchten met uitzondering van rondvluchten regis
 | deze langer is dan de  | --- | --- |
 | norm in [art 4.8:3 van het](../../../../../../../../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md)  | --- | --- |
 | [Arbeidstijdenbesluit vervoer](../../../../../../../../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md):  | --- | --- |
-| Voor zover dit kan leiden tot  | x  | --- |
+| Voor zover dit kan leiden tot   | x  | --- |
 | een correctie van de VWT:  | --- | --- |
 | aantal landingen  | x  | --- |
 | grondtijd:  | x  | x  |
@@ -51,9 +51,9 @@ Het cockpitpersoneel op verkeersvluchten met uitzondering van rondvluchten regis
 
 ### Artikel  3  
 
-Deze regeling treedt in werking met ingang van 1 december 1998.  
+Deze regeling treedt in werking met ingang van 1 december 1998. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Verkeer en Waterstaat, 
-T.Netelenbos    
+T. Netelenbos      

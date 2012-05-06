@@ -4,7 +4,7 @@
 
 De Staatssecretaris van Verkeer en Waterstaat,  
 Gelet op [artikel 4.2, vijfde lid, van de Telecommunicatiewet](../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -21,9 +21,9 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Besluit tijdelijke toekenning van nummers voor mobiele telefonie.  
+Dit besluit wordt aangehaald als: Besluit tijdelijke toekenning van nummers voor mobiele telefonie. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Staatssecretaris van Verkeer en Waterstaat, 
-J.M. deVries    
+J.M. de Vries      

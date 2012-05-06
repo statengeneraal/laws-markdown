@@ -19,15 +19,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit verkrijging en verlies Nederlanderschap.   
+Wijzigt het Besluit verkrijging en verlies Nederlanderschap. 
 
 ### Artikel  II  
 
-Dit besluit is niet van toepassing op bevestigingen van optieverklaringen en op besluiten tot naturalisatie, die voor de datum van inwerkingtreding van dit besluit zijn genomen.  
+Dit besluit is niet van toepassing op bevestigingen van optieverklaringen en op besluiten tot naturalisatie, die voor de datum van inwerkingtreding van dit besluit zijn genomen. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor elk van de landen van het Koninkrijk als ook voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor elk van de landen van het Koninkrijk als ook voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad, het Publicatieblad van de Nederlandse Antillen en het Afkondigingsblad van Aruba zal worden geplaatst.   
 
@@ -35,10 +35,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 19 mei 2006  
 Beatrix  
 
-De Minister voor Vreemdelingenzaken en Integratie, 
-M. C. F.Verdonk 
+De Minister voor Vreemdelingenzaken en Integratie , 
+M. C. F. Verdonk   
 
 de *eerste* juni 2006 
 
-De Minister van Justitie, 
-J. P. H.Donner  
+De Minister van Justitie , 
+J. P. H. Donner    

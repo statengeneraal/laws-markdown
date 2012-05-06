@@ -6,66 +6,80 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr.  1907/2006 (PbEU L 353) uit te voeren, en dat het wenselijk is de hiervoor noodzakelijke bepalingen op te nemen in de [Wet milieubeheer](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en enkele andere wetten te wijzigen;
+Alzo Wij in overweging genomen hebben, dat het noodzakelijk is verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEU L 353) uit te voeren, en dat het wenselijk is de hiervoor noodzakelijke bepalingen op te nemen in de [Wet milieubeheer](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en enkele andere wetten te wijzigen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 04-11-2011 
 
-Wijzigt de Wet milieubeheer.   
+Wijzigt de Wet milieubeheer. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 04-11-2011 
 
-Wijzigt de Wet milieubeheer.   
+Wijzigt de Wet milieubeheer. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 04-11-2011 
 
-Wijzigt de Wet milieubeheer.   
+Wijzigt de Wet milieubeheer. 
 
 ### Artikel  IV  
+Materieel uitgewerkt per 04-11-2011 
 
-Wijzigt de Algemene douanewet.   
+Wijzigt de Algemene douanewet. 
 
 ### Artikel  V  
+Materieel uitgewerkt per 04-11-2011 
 
-Wijzigt het Burgerlijk Wetboek Boek 6.   
+Wijzigt het Burgerlijk Wetboek Boek 6. 
 
 ### Artikel  VI  
+Materieel uitgewerkt per 04-11-2011 
 
-Wijzigt het Burgerlijk Wetboek Boek 6.   
+Wijzigt het Burgerlijk Wetboek Boek 6. 
 
 ### Artikel  VII  
+Materieel uitgewerkt per 04-11-2011 
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten. 
 
 ### Artikel  VIII  
+Materieel uitgewerkt per 04-11-2011 
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten. 
 
 ### Artikel  IX  
+Materieel uitgewerkt per 04-11-2011 
 
-Wijzigt de Wet gewasbeschermingsmiddelen en biociden.   
+Wijzigt de Wet gewasbeschermingsmiddelen en biociden. 
 
 ### Artikel  X  
+Materieel uitgewerkt per 04-11-2011 
 
-Wijzigt de Wet milieubeheer.   
+Wijzigt de Wet milieubeheer. 
 
 ### Artikel  XI  
+Materieel uitgewerkt per 04-11-2011 
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  XII  
+Materieel uitgewerkt per 04-11-2011 
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  XIII  
+Materieel uitgewerkt per 04-11-2011 
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 ### Artikel  XIV  
+Materieel uitgewerkt per 04-11-2011 
 
-Deze wet wordt aangehaald als: Uitvoeringswet EG-verordening indeling, etikettering en verpakking van stoffen en mengsels.  
+Deze wet wordt aangehaald als: Uitvoeringswet EG-verordening indeling, etikettering en verpakking van stoffen en mengsels. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 24 september 2009  

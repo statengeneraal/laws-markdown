@@ -12,7 +12,7 @@ Besluit:
 
 a. voor zover in een geschrift enig ander geschrift letterlijk wordt aangehaald;  
 
-b. voor zover het gebruik betreft van andere dan in het [Meeteenhedenbesluit 2006](../../../../../AMvB/meeteenhedenbesluit/2006/BWBR0020422/README.md) genoemde meeteenheden op het gebied van de scheepvaart, de luchtvaart en het spoorwegverkeer indien dit is vastgesteld bij bindende internationale overeenkomsten of verdragen;  
+b.voor zover het gebruik betreft van andere dan in het [Meeteenhedenbesluit 2006](../../../../../AMvB/meeteenhedenbesluit/2006/BWBR0020422/README.md) genoemde meeteenheden op het gebied van de scheepvaart, de luchtvaart en het spoorwegverkeer indien dit is vastgesteld bij bindende internationale overeenkomsten of verdragen;
 
 c. in het internationale goederen- of dienstenverkeer, voor zover het gebruik van de betrokken meeteenheid of benaming is toegelaten in het land waarmee dat verkeer plaatsvindt;  
 
@@ -22,23 +22,23 @@ d. voor zover het betreft andere meeteenheden dan in het [Meeteenhedenbesluit 20
 
 2°. de aanduidingen in die andere meeteenheden bestaan uit tekens die ten hoogste even groot zijn als die waaruit de aanduidingen van de in het [Meeteenhedenbesluit 2006](../../../../../AMvB/meeteenhedenbesluit/2006/BWBR0020422/README.md) genoemde meeteenheden bestaan en  
 
-3°. de aanduidingen in die andere meeteenheden ten gevolge van hun plaats, uitvoering of wijze van weergave worden overheerst door de aanduidingen van de in het [Meeteenhedenbesluit 2006](../../../../../AMvB/meeteenhedenbesluit/2006/BWBR0020422/README.md) genoemde meeteenheden.      
+3°. de aanduidingen in die andere meeteenheden ten gevolge van hun plaats, uitvoering of wijze van weergave worden overheerst door de aanduidingen van de in het [Meeteenhedenbesluit 2006](../../../../../AMvB/meeteenhedenbesluit/2006/BWBR0020422/README.md) genoemde meeteenheden.     
 
 ### Artikel  2  
 
-Van het verbod van [artikel 23, eerste en tweede lid, van de Metrologiewet](../../../../../wet/metrologiewet/BWBR0019517/README.md) zijn vrijgesteld meetinstrumenten die niet in overeenstemming zijn met de bij of krachtens de [Metrologiewet](../../../../../wet/metrologiewet/BWBR0019517/README.md) gestelde eisen en die op beurzen, tentoonstellingen, bij demonstraties of bij daarmee vergelijkbare evenementen worden tentoongesteld, mits daarbij op een zichtbaar bord duidelijk is aangegeven dat zij niet met de gestelde eisen in overeenstemming zijn en niet in de handel kunnen worden gebracht of in gebruik genomen kunnen worden voordat zij in overeenstemming zijn met de gestelde eisen.  
+Van het verbod van [artikel 23, eerste en tweede lid, van de Metrologiewet](../../../../../wet/metrologiewet/BWBR0019517/README.md) zijn vrijgesteld meetinstrumenten die niet in overeenstemming zijn met de bij of krachtens de [Metrologiewet](../../../../../wet/metrologiewet/BWBR0019517/README.md) gestelde eisen en die op beurzen, tentoonstellingen, bij demonstraties of bij daarmee vergelijkbare evenementen worden tentoongesteld, mits daarbij op een zichtbaar bord duidelijk is aangegeven dat zij niet met de gestelde eisen in overeenstemming zijn en niet in de handel kunnen worden gebracht of in gebruik genomen kunnen worden voordat zij in overeenstemming zijn met de gestelde eisen. 
 
 ### Artikel  3  
 
-Automatische weeginstrumenten voor het sorteren van eieren zijn vrijgesteld van het verbod van [artikel 24, eerste, tweede en derde lid, van de Metrologiewet](../../../../../wet/metrologiewet/BWBR0019517/README.md).  
+Automatische weeginstrumenten voor het sorteren van eieren zijn vrijgesteld van het verbod van [artikel 24, eerste, tweede en derde lid, van de Metrologiewet](../../../../../wet/metrologiewet/BWBR0019517/README.md). 
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van artikel 1 dat in werking treedt op het tijdstip waarop [artikel 22 van de Metrologiewet](../../../../../wet/metrologiewet/BWBR0019517/README.md) in werking treedt.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst, met uitzondering van artikel 1 dat in werking treedt op het tijdstip waarop [artikel 22 van de Metrologiewet](../../../../../wet/metrologiewet/BWBR0019517/README.md) in werking treedt.
 
 ### Artikel  5  
 
-Deze regeling wordt aangehaald als: Regeling vrijstellingen Metrologiewet.  
+Deze regeling wordt aangehaald als: Regeling vrijstellingen Metrologiewet. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -46,4 +46,4 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-J.G.Wijn   
+J.G. Wijn     

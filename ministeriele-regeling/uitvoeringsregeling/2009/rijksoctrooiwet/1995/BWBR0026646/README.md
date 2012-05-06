@@ -13,11 +13,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-*wet:*[Rijksoctrooiwet 1995](../../../../../../rijkswet/rijksoctrooiwet/1995/BWBR0007118/README.md);  
+*wet:* [Rijksoctrooiwet 1995](../../../../../../rijkswet/rijksoctrooiwet/1995/BWBR0007118/README.md);  
 
-*besluit:*[Uitvoeringsbesluit Rijksoctrooiwet 1995](../../../../../../rijksKB/uitvoeringsbesluit/rijksoctrooiwet/1995/BWBR0007246/README.md);  
+*besluit:* [Uitvoeringsbesluit Rijksoctrooiwet 1995](../../../../../../rijksKB/uitvoeringsbesluit/rijksoctrooiwet/1995/BWBR0007246/README.md);  
 
-*mededeling:* elke aanvrage tot verlening van een octrooi of elk verzoek, elke verklaring, elk document, elke correspondentie of andere informatie met betrekking tot een aanvrage om octrooi, ongeacht of deze verband houdt met een procedure ingevolge het op 1 juni 2000 te Genève tot stand gekomen Verdrag inzake octrooirecht (Trb. 2001, 120).    
+*mededeling:* elke aanvrage tot verlening van een octrooi of elk verzoek, elke verklaring, elk document, elke correspondentie of andere informatie met betrekking tot een aanvrage om octrooi, ongeacht of deze verband houdt met een procedure ingevolge het op 1 juni 2000 te Genève tot stand gekomen Verdrag inzake octrooirecht (Trb. 2001, 120).   
 
 ### Hoofdstuk  2  
 
@@ -35,17 +35,17 @@ a. naam en adres van de afzender en
 
 b. indien van toepassing: het nummer van de aanvrage om octrooi of het octrooi waarop de mededeling betrekking heeft.     
 2.  Het bureau aanvaardt een mededeling die door een aanvrager om octrooi of octrooihouder wordt verstrekt met gebruikmaking van een internationaal standaardformulier ten aanzien van mededelingen dat overeenkomt met de vereisten ingevolge het op 19 juni 1970 te Washington tot stand gekomen Verdrag tot samenwerking inzake octrooien (Trb. 1973, 20).   
-3.  Indien de afzender, bedoeld in het eerste lid, namens een aanvrager om octrooi, octrooihouder of andere belanghebbende bij een octrooi optreedt, bevat de mededeling tevens de naam en het adres van degene namens wie hij optreedt. Indien een gemachtigde optreedt, geldt het adres van de gemachtigde als het correspondentieadres tenzij degene voor wie hij optreedt uitdrukkelijk een afwijkend correspondentieadres heeft vermeld.   
+3.  Indien de afzender, bedoeld in het eerste lid, namens een aanvrager om octrooi, octrooihouder of andere belanghebbende bij een octrooi optreedt, bevat de mededeling tevens de naam en het adres van degene namens wie hij optreedt. Indien een gemachtigde optreedt, geldt het adres van de gemachtigde als het correspondentieadres tenzij degene voor wie hij optreedt uitdrukkelijk een afwijkend correspondentieadres heeft vermeld.  
 
 ### Artikel  3  
 
 1.  Indien niet is voldaan aan een of meer voorschriften als bedoeld in [artikel 15, tweede lid, van het besluit](../../../../../../rijksKB/uitvoeringsbesluit/rijksoctrooiwet/1995/BWBR0007246/README.md) brengt het bureau de betrokkene hiervan zo spoedig mogelijk op de hoogte en stelt hem in de gelegenheid hieraan alsnog te voldoen binnen drie maanden te rekenen vanaf de datum waarop een desbetreffende kennisgeving is gedaan.   
 2.  Indien de gebreken niet binnen de termijn, bedoeld in het eerste lid, zijn hersteld of indien de betrokkene voordien heeft medegedeeld niet tot herstel te willen overgaan, kan het bureau besluiten de mededeling, bedoeld in artikel 2, eerste lid, als niet-ingediend beschouwen.   
-3.  Indien het bureau redelijke grond voor twijfel heeft over de identiteit of de kwalificaties van de ondertekenaar van een mededeling, kan het bureau van betrokkene ter zake bewijs verlangen.   
+3.  Indien het bureau redelijke grond voor twijfel heeft over de identiteit of de kwalificaties van de ondertekenaar van een mededeling, kan het bureau van betrokkene ter zake bewijs verlangen.  
 
 ### Artikel  4  
 
-Indien dagtekening van een mededeling krachtens de [wet](../../../../../../rijkswet/rijksoctrooiwet/1995/BWBR0007118/README.md) is vereist en deze ontbreekt, geldt als dagtekening de dag waarop het bureau de mededeling heeft ontvangen.  
+Indien dagtekening van een mededeling krachtens de [wet](../../../../../../rijkswet/rijksoctrooiwet/1995/BWBR0007118/README.md) is vereist en deze ontbreekt, geldt als dagtekening de dag waarop het bureau de mededeling heeft ontvangen. 
 
 ### §  2  
 
@@ -57,11 +57,11 @@ Indien dagtekening van een mededeling krachtens de [wet](../../../../../../rijks
 2.  Een aanvrage om octrooi en de daarbij behorende beschrijving zijn bij voorkeur ingericht overeenkomstig door het bureau daarvoor vastgestelde standaardformulieren.   
 3.  Een aanvrage om octrooi en de daarbij behorende documenten kunnen elektronisch worden ingediend met gebruikmaking van door het bureau beschikbaar gestelde software, mits wordt voldaan aan de bij deze regeling behorende bijlage. Elektronische indiening met gebruikmaking van een elektronische drager gaat vergezeld van een papieren document, inhoudende naam en adres van de indiener of diens gemachtigde, tezamen met een uitputtende inventarisatie van de op de elektronische drager opgenomen documenten.   
 4.  Andere documenten dan bedoeld in het derde lid kunnen elektronisch worden ingediend voor zover dit mogelijk is gemaakt.   
-5.  Wanneer bij een niet-elektronisch ingediende aanvrage de dagtekening ontbreekt, geldt als dagtekening de datum waarop het bureau de ondertekende aanvrage heeft ontvangen.   
+5.  Wanneer bij een niet-elektronisch ingediende aanvrage de dagtekening ontbreekt, geldt als dagtekening de datum waarop het bureau de ondertekende aanvrage heeft ontvangen.  
 
 ### Artikel  6  
 
-Op een aanvrage als bedoeld in artikel 5, derde lid, zijn niet van toepassing de artikelen 8, onderdelen a en b, uitgezonderd het voorschrift de beschrijving op formaat A4 (29,7 x 21 cm) te plaatsen, b en c, 9, onderdelen a, uitgezonderd het voorschrift de tekening op formaat A4 (29,7 x 21 cm) te plaatsen, b en c, en 10, onderdeel a, uitgezonderd het voorschrift het uittreksel op formaat A4 (29,7 x 21 cm) te plaatsen.  
+Op een aanvrage als bedoeld in artikel 5, derde lid, zijn niet van toepassing de artikelen 8, onderdelen a en b, uitgezonderd het voorschrift de beschrijving op formaat A4 (29,7 x 21 cm) te plaatsen, b en c, 9, onderdelen a, uitgezonderd het voorschrift de tekening op formaat A4 (29,7 x 21 cm) te plaatsen, b en c, en 10, onderdeel a, uitgezonderd het voorschrift het uittreksel op formaat A4 (29,7 x 21 cm) te plaatsen. 
 
 ### Artikel  7  
 
@@ -69,7 +69,7 @@ Op een aanvrage als bedoeld in artikel 5, derde lid, zijn niet van toepassing de
 2.  De artikelen 8 en 9 zijn van overeenkomstige toepassing op de vertalingen en verbeterde vertalingen van de beschrijving en de tekeningen van Europese octrooischriften.   
 3.  Op elke bladzijde van de vertalingen wordt het publicatienummer van de Europese octrooiaanvrage, die tot verlening van het Europees octrooi heeft geleid, vermeld.   
 4.  Op de in dit artikel bedoelde documenten is artikel 5, derde en vierde lid, van overeenkomstige toepassing. Het tweede lid is van overeenkomstige toepassing, met dien verstande dat daarvan buiten toepassing blijven de artikelen 4, onderdelen a, uitgezonderd het voorschrift de beschrijving op formaat A4 (29,7 x 21 cm) te plaatsen, b en c, en 5, onderdelen a, uitgezonderd het voorschrift de tekening op formaat A4 (29,7 x 21 cm) te plaatsen, b en c.   
-5.  Van aanvragen en documenten die zowel elektronisch als op papier zijn ingediend, wordt de papieren versie onmiddellijk teruggezonden onder de mededeling dat de elektronische versie in behandeling zal worden genomen.   
+5.  Van aanvragen en documenten die zowel elektronisch als op papier zijn ingediend, wordt de papieren versie onmiddellijk teruggezonden onder de mededeling dat de elektronische versie in behandeling zal worden genomen.  
 
 ### Artikel  8  
 
@@ -113,7 +113,7 @@ r. indien de aanvrage betrekking heeft op een nucleotide- of aminozuursequentie:
 
 1°. bevat de beschrijving van de uitvinding een sequentie-opsomming die voldoet aan de door de Wereldorganisatie voor de Intellectuele Eigendom opgestelde standaarden;  
 
-2°. wordt de aanvrage vergezeld van een elektronische gegevensdrager die de onder 1° bedoelde sequentie-opsomming bevat in een machine-leesbare vorm die voldoet aan de door het Europees Octrooibureau vastgestelde criteria.      
+2°. wordt de aanvrage vergezeld van een elektronische gegevensdrager die de onder 1° bedoelde sequentie-opsomming bevat in een machine-leesbare vorm die voldoet aan de door het Europees Octrooibureau vastgestelde criteria.     
 
 ### Artikel  9  
 
@@ -139,7 +139,7 @@ i. ingeval in de beschrijving varianten van de uitvinding worden beschreven, wor
 
 j. een verwijzingsteken wordt niet voor verschillende onderdelen gebezigd, ook niet in verschillende figuren, en het bijvoegen van accenten of cijfers bij de verwijzingstekens wordt zoveel mogelijk vermeden;  
 
-k. de tekeningen bevatten geen verklarende tekst met uitzondering van in het Nederlands gestelde aanduidingen als water, stoom, II-II (voor een doorsnede), open, dicht en, wat elektrische blokschema’s of fabricageschema’s betreft, de aanduidingen nodig voor een goed begrip daarvan.    
+k. de tekeningen bevatten geen verklarende tekst met uitzondering van in het Nederlands gestelde aanduidingen als water, stoom, II-II (voor een doorsnede), open, dicht en, wat elektrische blokschema’s of fabricageschema’s betreft, de aanduidingen nodig voor een goed begrip daarvan.   
 
 ### Artikel  10  
 
@@ -149,17 +149,17 @@ a. het is met een donkere, onuitwisbare inkt getypt of gedrukt op duurzaam wit p
 
 b. het is in de Nederlandse taal gesteld en bevat ten minste 50 en ten hoogste 250 woorden dan wel ten hoogste 150, indien het uittreksel een figuur bevat;  
 
-c. het bevat in beginsel slechts één figuur die op een afzonderlijk blad A4 wordt ingediend.    
+c. het bevat in beginsel slechts één figuur die op een afzonderlijk blad A4 wordt ingediend.   
 
 ### Artikel  11  
 
 1.  Aan het vereiste van ondertekening van een aanvrage om octrooi is voldaan door een elektronische handtekening, indien de methode die daarbij voor authentificatie is gebruikt voldoende betrouwbaar is, gelet op de aard en de inhoud van het elektronische bericht en het doel waarvoor het wordt gebruikt. De [artikelen 15a, tweede tot en met zesde lid](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), en [15b van Boek 3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) zijn van overeenkomstige toepassing, voor zover de aard van het bericht zich daartegen niet verzet.   
-2.  Wanneer bij een niet-elektronisch ingediende aanvrage de dagtekening ontbreekt, geldt als dagtekening de datum waarop het bureau de ondertekende aanvrage heeft ontvangen.   
+2.  Wanneer bij een niet-elektronisch ingediende aanvrage de dagtekening ontbreekt, geldt als dagtekening de datum waarop het bureau de ondertekende aanvrage heeft ontvangen.  
 
 ### Artikel  12  
 
 1.  Als tijdstip waarop een bericht door het bureau elektronisch is verzonden, geldt het tijdstip waarop het bericht een systeem voor gegevensverwerking bereikt waarover het bureau geen controle heeft of, indien het bureau en de geadresseerde gebruik maken van hetzelfde systeem voor gegevensverwerking, het tijdstip waarop het bericht toegankelijk wordt voor de geadresseerde.   
-2.  Als tijdstip waarop een bericht door het bureau elektronisch is ontvangen, geldt het tijdstip waarop het bericht zijn systeem voor gegevensverwerking heeft bereikt. Het bureau bevestigt de ontvangst van een elektronisch ingediende aanvrage.   
+2.  Als tijdstip waarop een bericht door het bureau elektronisch is ontvangen, geldt het tijdstip waarop het bericht zijn systeem voor gegevensverwerking heeft bereikt. Het bureau bevestigt de ontvangst van een elektronisch ingediende aanvrage.  
 
 ### §  3  
 
@@ -177,16 +177,16 @@ c. de in te schrijven wijziging, en
 
 d. de te wijzigen naam en adres van de verzoeker.     
 2.  Een enkel verzoek volstaat, ook wanneer de wijziging betrekking heeft op zowel de naam als het adres.   
-3.  Een enkel verzoek volstaat ook wanneer de wijziging betrekking heeft op meer dan één aanvrage of octrooi van dezelfde persoon dan wel op een of meer aanvragen en een of meer octrooien van dezelfde persoon, mits de nummers van de aanvragen en octrooien in het verzoekschrift worden vermeld.   
+3.  Een enkel verzoek volstaat ook wanneer de wijziging betrekking heeft op meer dan één aanvrage of octrooi van dezelfde persoon dan wel op een of meer aanvragen en een of meer octrooien van dezelfde persoon, mits de nummers van de aanvragen en octrooien in het verzoekschrift worden vermeld.  
 
 ### Artikel  14  
 
 1.  Indien niet is voldaan aan een of meer voorschriften als bedoeld in artikel 13, stelt het bureau de betrokkene hiervan zo spoedig mogelijk in kennis en biedt het deze de gelegenheid hieraan alsnog te voldoen binnen twee maanden te rekenen vanaf de datum waarop een desbetreffende kennisgeving is gedaan.   
-2.  Het bureau kan de verzochte wijziging weigeren in het octrooiregister aan te tekenen, indien niet binnen de termijn de ontbrekende of juiste gegevens zijn verstrekt.   
+2.  Het bureau kan de verzochte wijziging weigeren in het octrooiregister aan te tekenen, indien niet binnen de termijn de ontbrekende of juiste gegevens zijn verstrekt.  
 
 ### Artikel  15  
 
-De artikelen 13 en 14 zijn van overeenkomstige toepassing op de gemachtigde.  
+De artikelen 13 en 14 zijn van overeenkomstige toepassing op de gemachtigde. 
 
 ### §  4  
 
@@ -213,16 +213,16 @@ g. de reden van de verzochte wijziging.
 3.  Indien een verzoek tot wijziging van de tenaamstelling van een octrooiaanvrage of het houderschap van een octrooi voortvloeit uit een contract, gaat het verzoek vergezeld van een akte als bedoeld in [artikel 65, eerste lid, van de wet](../../../../../../rijkswet/rijksoctrooiwet/1995/BWBR0007118/README.md) of een notarieel gewaarmerkt afschrift van die akte.   
 4.  Indien een verzoek tot wijziging van de tenaamstelling van een octrooiaanvrage of het houderschap van een octrooi voortvloeit uit een fusie, of reorganisatie of splitsing van een rechtspersoon gaat het verzoek vergezeld van een afschrift van een document waarbij bewijs wordt geleverd van de fusie, of de reorganisatie of splitsing van een rechtspersoon.   
 5.  Indien een verzoek tot wijziging van de tenaamstelling van een octrooiaanvrage of het houderschap van een octrooi voortvloeit uit een andere grond dan bedoeld in het eerste of tweede lid gaat het verzoek vergezeld van een afschrift van een bewijsstuk van de wijziging.   
-6.  Indien een verzoek tot wijziging van de tenaamstelling van een octrooiaanvrage of het houderschap van een octrooi niet alle mede-aanvragers of mede-houders betreft, kan het bureau van elke mede-aanvrager of mede-eigenaar ten aanzien van wie geen wijzigingen plaatsvindt bewijs van instemming met de wijziging verlangen.   
+6.  Indien een verzoek tot wijziging van de tenaamstelling van een octrooiaanvrage of het houderschap van een octrooi niet alle mede-aanvragers of mede-houders betreft, kan het bureau van elke mede-aanvrager of mede-eigenaar ten aanzien van wie geen wijzigingen plaatsvindt bewijs van instemming met de wijziging verlangen.  
 
 ### Artikel  17  
 
-Een enkel verzoek tot wijziging van de tenaamstelling van een octrooiaanvrage of het houderschap van een octrooi volstaat zelfs wanneer de wijziging betrekking heeft op meer dan één aanvrage of octrooi van dezelfde persoon dan wel op een of meer aanvragen en een of meer octrooien van dezelfde persoon, mits deze wijziging van de aanvrager of houder dezelfde is voor alle betrokken aanvragen en octrooien en de nummers ervan in het verzoek worden vermeld.  
+Een enkel verzoek tot wijziging van de tenaamstelling van een octrooiaanvrage of het houderschap van een octrooi volstaat zelfs wanneer de wijziging betrekking heeft op meer dan één aanvrage of octrooi van dezelfde persoon dan wel op een of meer aanvragen en een of meer octrooien van dezelfde persoon, mits deze wijziging van de aanvrager of houder dezelfde is voor alle betrokken aanvragen en octrooien en de nummers ervan in het verzoek worden vermeld. 
 
 ### Artikel  18  
 
 1.  Indien het verzoek niet voldoet aan het bepaalde in artikel 16, stelt het bureau de indiener van het verzoek hiervan in kennis en biedt hem gelegenheid hieraan alsnog te voldoen binnen twee maanden te rekenen vanaf de datum waarop een desbetreffende kennisgeving is gedaan.   
-2.  Het bureau kan de verzochte wijziging weigeren in het octrooiregister aan te tekenen, indien niet binnen twee maanden de ontbrekende of juiste gegevens zijn verstrekt.   
+2.  Het bureau kan de verzochte wijziging weigeren in het octrooiregister aan te tekenen, indien niet binnen twee maanden de ontbrekende of juiste gegevens zijn verstrekt.  
 
 ### Hoofdstuk  3  
 
@@ -247,46 +247,46 @@ f. de naam van de staat waarvan de licentienemer onderdaan is, indien hij onderd
 
 a. de overeenkomst dan wel een notarieel gewaarmerkt afschrift daarvan, gewaarmerkt door een notaris;  
 
-b. een notarieel gewaarmerkt uittreksel van de overeenkomst waaruit in elk geval de gelicentieerde rechten en de strekking van deze rechten blijken.     
+b. een notarieel gewaarmerkt uittreksel van de overeenkomst waaruit in elk geval de gelicentieerde rechten en de strekking van deze rechten blijken.    
 
 ### Artikel  20  
 
-Een enkel verzoek tot inschrijving van een licentie volstaat zelfs wanneer het verzoek betrekking heeft op meer dan één octrooi van dezelfde persoon of op één of meer octrooien van dezelfde persoon, mits de inschrijving dezelfde is voor alle betrokken licenties en de nummers ervan in het verzoek worden vermeld.  
+Een enkel verzoek tot inschrijving van een licentie volstaat zelfs wanneer het verzoek betrekking heeft op meer dan één octrooi van dezelfde persoon of op één of meer octrooien van dezelfde persoon, mits de inschrijving dezelfde is voor alle betrokken licenties en de nummers ervan in het verzoek worden vermeld. 
 
 ### Artikel  21  
 
 1.  Indien niet is voldaan aan een of meer voorschriften, gesteld in artikel 19, eerste lid, stelt het bureau de betrokkene hiervan zo spoedig mogelijk in kennis en biedt het deze de gelegenheid hieraan alsnog te voldoen binnen twee maanden te rekenen vanaf de datum waarop een desbetreffende kennisgeving is gedaan.   
-2.  Het bureau kan het verzoek om inschrijving van een licentie als bedoeld in het eerste lid weigeren in behandeling te nemen, indien niet binnen de termijn, bedoeld in het eerste lid, de ontbrekende of juiste gegevens zijn verstrekt.   
+2.  Het bureau kan het verzoek om inschrijving van een licentie als bedoeld in het eerste lid weigeren in behandeling te nemen, indien niet binnen de termijn, bedoeld in het eerste lid, de ontbrekende of juiste gegevens zijn verstrekt.  
 
 ### Artikel  22  
 
-Op een verzoek tot inschrijving van een pandrecht op een octrooi of een aanvrage om octrooi zijn de artikelen 19 tot en met 21 van overeenkomstige toepassing.  
+Op een verzoek tot inschrijving van een pandrecht op een octrooi of een aanvrage om octrooi zijn de artikelen 19 tot en met 21 van overeenkomstige toepassing. 
 
 ### Artikel  23  
 
-Op een verzoek tot inschrijving van een beslag op een octrooi of een aanvrage om octrooi zijn de artikelen 19 tot en met 21 van overeenkomstige toepassing.  
+Op een verzoek tot inschrijving van een beslag op een octrooi of een aanvrage om octrooi zijn de artikelen 19 tot en met 21 van overeenkomstige toepassing. 
 
 ### Artikel  24  
 
-De [Uitvoeringsregeling Rijksoctrooiwet 1995](../../../../../../ministeriele-regeling/uitvoeringsregeling/rijksoctrooiwet/1995/BWBR0014998/README.md) wordt ingetrokken.  
+De [Uitvoeringsregeling Rijksoctrooiwet 1995](../../../../../../ministeriele-regeling/uitvoeringsregeling/rijksoctrooiwet/1995/BWBR0014998/README.md) wordt ingetrokken.
 
 ### Artikel  25  
 
-Deze regeling treedt in werking met ingang van 1 april 2010.  
+Deze regeling treedt in werking met ingang van 1 april 2010. 
 
 ### Artikel  26  
 
-Deze regeling wordt aangehaald als: Uitvoeringsregeling 2009 Rijksoctrooiwet 1995.  
+Deze regeling wordt aangehaald als: Uitvoeringsregeling 2009 Rijksoctrooiwet 1995. 
 Deze regeling zal met de toelichting in de Staatscourant en in de Curaçaosche Courant worden geplaatst.   
 
 Den Haag 
 6 november 2009   
 
 De 
-Minister van Economische Zaken
-M.J.A. van derHoeven  
+Minister van Economische Zaken 
+M.J.A. van der Hoeven    
 
-### Bijlage  
+### Bijlage 
 
 ####bij artikel 5 
 
@@ -294,11 +294,11 @@ Voorwaarden en vereisten voor het indienen van aanvragen om octrooi, vertalingen
 
 ####Te gebruiken software
 
-Voor het indienen van aanvragen om octrooi, vertalingen van Europese octrooien, en andere documenten in elektronische vorm dient gebruik te worden gemaakt van de NL *epoline* ® software die Octrooicentrum Nederland (het bureau, bedoeld in de [ROW 1995](../../../../../../rijkswet/rijksoctrooiwet/1995/BWBR0007118/README.md)) beschikbaar stelt, tenzij wordt besloten ook het gebruik van andere software toe te laten.  
+Voor het indienen van aanvragen om octrooi, vertalingen van Europese octrooien, en andere documenten in elektronische vorm dient gebruik te worden gemaakt van de NL *epoline*® software die Octrooicentrum Nederland (het bureau, bedoeld in de [ROW 1995](../../../../../../rijkswet/rijksoctrooiwet/1995/BWBR0007118/README.md)) beschikbaar stelt, tenzij wordt besloten ook het gebruik van andere software toe te laten. 
 
 ####Te gebruiken hardware
 
-Er dient gebruik te worden gemaakt van een geldige, via Octrooicentrum Nederland verkregen smart-card en daarbij behorende card reader, of van een smart-card en reader die door Octrooicentrum Nederland is toegestaan.  
+Er dient gebruik te worden gemaakt van een geldige, via Octrooicentrum Nederland verkregen smart-card en daarbij behorende card reader, of van een smart-card en reader die door Octrooicentrum Nederland is toegestaan. 
 
 ####Minimum hardware vereisten
 
@@ -308,25 +308,25 @@ Er dient gebruik te worden gemaakt van een geldige, via Octrooicentrum Nederland
 
 * 300 MB vrije hard-disk ruimte  
 
-* Seriële and PS/2 poorten    
+* Seriële and PS/2 poorten   
 
 ####Ondersteunde operating systems
 
 * Windows 98 (2nd edition) SE, ME  
 
-* Windows NT, Windows 2000, Windows XP    
+* Windows NT, Windows 2000, Windows XP   
 
 ####Elektronische drager
 
-Bij indiening met behulp van een elektronische drager dient gebruik te worden gemaakt van een CD-R die voldoet aan ISO 9660:1988.  
+Bij indiening met behulp van een elektronische drager dient gebruik te worden gemaakt van een CD-R die voldoet aan ISO 9660:1988. 
 
 ####Toegestane formaten van elektronische documenten
 
-XML PDF TIFF JPEG WIPO standard 25 voor sequentieopsommingen  
+XML PDF TIFF JPEG WIPO standard 25 voor sequentieopsommingen 
 
 ####Wijze van verpakking van het elektronische document
 
-Voor on-line ingediende documenten: WASP (Wrapped and Signed Package) Voor via een elektronische drager ingediende documenten: WAD (Wrapped Application Document).  
+Voor on-line ingediende documenten: WASP (Wrapped and Signed Package) Voor via een elektronische drager ingediende documenten: WAD (Wrapped Application Document). 
 
 ####De elektronische handtekening
 
@@ -336,29 +336,29 @@ Langs elektronische weg ingediende documenten die door aanvrager of zijn gemacht
 
 * een tekstreeks handtekening, dat wil zeggen een reeks tekens voorafgegaan en gevolgd door een ‘slash’ (/), gekozen door ondertekenaar om zijn identiteit en zijn oogmerk om te ondertekenen te bevestigen of,  
 
-* een hoogwaardige elektronische handtekening die met behulp van een elektronische Public Key Infrastructure (PKI) is gemaakt. De organisatie die deze handtekeningen uitgeeft moet door het Bureau zijn erkend. Een lijst met erkende organisaties is te vinden op de website van het Bureau.    
+* een hoogwaardige elektronische handtekening die met behulp van een elektronische Public Key Infrastructure (PKI) is gemaakt. De organisatie die deze handtekeningen uitgeeft moet door het Bureau zijn erkend. Een lijst met erkende organisaties is te vinden op de website van het Bureau.   
 
 ####Wijze van inzenden
 
-Documenten kunnen met de genoemde software zowel on line als via een elektronische drager worden ingediend. Indien wordt gebruik gemaakt van een elektronische drager dient deze te samen met een document in papieren vorm waarin vermeld de indiener of zijn gemachtigde, zijn correspondentieadres en een inventarislijst van de op de drager opgenomen documenten, te worden ingediend.  
+Documenten kunnen met de genoemde software zowel on line als via een elektronische drager worden ingediend. Indien wordt gebruik gemaakt van een elektronische drager dient deze te samen met een document in papieren vorm waarin vermeld de indiener of zijn gemachtigde, zijn correspondentieadres en een inventarislijst van de op de drager opgenomen documenten, te worden ingediend. 
 
 ####Ontvangstbevestiging
 
-De ontvangst van in elektronische vorm ingediende documenten wordt door Octrooicentrum Nederland uitsluitend langs elektronische weg bevestigd, onder vermelding van de naam van Octrooicentrum Nederland, datum en tijdstip van ontvangst, een lijst van de ingediende documenten, en een zogenaamde Message Digest (een unieke reeks tekens die tot stand komt door versleuteling van het totale ontvangen bericht met behulp van het certificaat van de inzender), een referentienummer en eventueel een aanvraagnummer. Elektronische bevestiging vindt alleen plaats als aan de hier boven genoemde voorwaarden en vereisten is voldaan. Indien de bevestiging van ontvangst langs elektronische weg niet slaagt, zal deze zo spoedig mogelijk op een andere wijze aan de afzender worden toegezonden.  
+De ontvangst van in elektronische vorm ingediende documenten wordt door Octrooicentrum Nederland uitsluitend langs elektronische weg bevestigd, onder vermelding van de naam van Octrooicentrum Nederland, datum en tijdstip van ontvangst, een lijst van de ingediende documenten, en een zogenaamde Message Digest (een unieke reeks tekens die tot stand komt door versleuteling van het totale ontvangen bericht met behulp van het certificaat van de inzender), een referentienummer en eventueel een aanvraagnummer. Elektronische bevestiging vindt alleen plaats als aan de hier boven genoemde voorwaarden en vereisten is voldaan. Indien de bevestiging van ontvangst langs elektronische weg niet slaagt, zal deze zo spoedig mogelijk op een andere wijze aan de afzender worden toegezonden. 
 
 ####Onleesbare of onvolledige documenten
 
-Indien een elektronisch ingediend document onleesbaar of onvolledig is, zal het gedeelte dat onleesbaar of onvolledig is als niet ontvangen worden beschouwd.  
+Indien een elektronisch ingediend document onleesbaar of onvolledig is, zal het gedeelte dat onleesbaar of onvolledig is als niet ontvangen worden beschouwd. 
 
 ####Virussen en/of schadetoebrengende software
 
-Indien een ingediend document een virus of andere schadetoebrengende software bevat behoudt Octrooicentrum Nederland zich het recht voor een dergelijk document als onleesbaar te beschouwen en niet te openen of verwerken.  
+Indien een ingediend document een virus of andere schadetoebrengende software bevat behoudt Octrooicentrum Nederland zich het recht voor een dergelijk document als onleesbaar te beschouwen en niet te openen of verwerken. 
 
 ####Indieningsdatum
 
-De datum waarop Octrooicentrum Nederland van langs elektronische weg ingediende aanvragen ontvangt is de datum van indiening, mits de aanvrage voldoet aan de minimumeisen genoemd in [artikel 29, eerste lid, van de Rijksoctrooiwet 1995](../../../../../../rijkswet/rijksoctrooiwet/1995/BWBR0007118/README.md).  
+De datum waarop Octrooicentrum Nederland van langs elektronische weg ingediende aanvragen ontvangt is de datum van indiening, mits de aanvrage voldoet aan de minimumeisen genoemd in [artikel 29, eerste lid, van de Rijksoctrooiwet 1995](../../../../../../rijkswet/rijksoctrooiwet/1995/BWBR0007118/README.md). 
 
 ####Ondersteuning door helpdesk
 
-Octrooicentrum Nederland beschikt over een helpdesk ter beantwoording van vragen van de gebruikers van de elektronische indieningsoftware. De helpdesk is bereikbaar tussen 09.00 and 17.30 uur maandag tot vrijdag m.u.v. officiële feestdagen. De helpdesk kan worden bereikt: Telefonisch: +31703986655 Per fax: +31703900190 Per e-mail: publieksvoorlichting@octrooicentrum.nl  
+Octrooicentrum Nederland beschikt over een helpdesk ter beantwoording van vragen van de gebruikers van de elektronische indieningsoftware. De helpdesk is bereikbaar tussen 09.00 and 17.30 uur maandag tot vrijdag m.u.v. officiële feestdagen. De helpdesk kan worden bereikt: Telefonisch: +31703986655 Per fax: +31703900190 Per e-mail: publieksvoorlichting@octrooicentrum.nl 
 

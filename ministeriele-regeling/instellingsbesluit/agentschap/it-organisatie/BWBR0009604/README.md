@@ -6,7 +6,7 @@ De Minister van Justitie en de Minister van Binnenlandse Zaken en de Minister va
 handelende in overeenstemming met het gevoelen van de Ministerraad (de vergadering van 19 december 1997, agendapunt 7).
 
 Gelet op [artikel 70, eerste lid, van de Comptabiliteitswet](../../../../../wet/comptabiliteitswet/BWBR0003075/README.md),
-Besluiten:    
+Besluiten:     
 
 ### Artikel  1  
 
@@ -17,7 +17,7 @@ Besluiten:
 ### Artikel  2  
 
 1.  Dit besluit treedt in werking met ingang van 1 mei 1998.   
-2.  Dit besluit wordt aangehaald onder de titel: Instellingsbesluit Agentschap IT-organisatie.   
+2.  Dit besluit wordt aangehaald onder de titel: Instellingsbesluit Agentschap IT-organisatie.  
 Dit besluit zal in de Staatscourant worden geplaatst en afschrift van dit besluit zal worden gezonden aan de algemene Rekenkamer.   
 
 Den Haag 
@@ -25,12 +25,12 @@ Den Haag
 
 De 
 Minister van Justitie, 
-W.Sorgdrager 
+W. Sorgdrager   
 
 De 
 Minister van Binnenlandse Zaken, 
-H.F.Dijkstal 
+H.F.Dijkstal  
 
 De 
 Minister van Financiën, 
-G.Zalm    
+G.Zalm     

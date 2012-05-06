@@ -10,19 +10,19 @@ Besluit:
 
 ### Artikel  1  
 
-Het percentage, bedoeld in artikel 402a, eerste lid, van Boek 1 van het Burgerlijk Wetboek, waarmede bedragen voor levensonderhoud met ingang van 1 januari 1982 worden verhoogd, wordt vastgesteld op 3.  
+Het percentage, bedoeld in artikel 402a, eerste lid, van Boek 1 van het Burgerlijk Wetboek, waarmede bedragen voor levensonderhoud met ingang van 1 januari 1982 worden verhoogd, wordt vastgesteld op 3. 
 
 ### Artikel  2  
 
-Deze beschikking en de daarbij behorende toelichting worden bekend gemaakt in de Nederlandse Staatscourant.  
+Deze beschikking en de daarbij behorende toelichting worden bekend gemaakt in de Nederlandse Staatscourant. 
 
 ### Artikel  3  
 
-Deze beschikking kan worden aangehaald als: Beschikking wijziging percentage levensonderhoud 1982.  
+Deze beschikking kan worden aangehaald als: Beschikking wijziging percentage levensonderhoud 1982. 
 
 's-Gravenhage 
 10 november 1981    
 
-De 
+De
 Minister voornoemd, 
-J. deRuiter    
+J. de Ruiter      

@@ -31,7 +31,7 @@ e. [artikel 75, derde lid, van de Flora- en faunawet](../../../../../wet/flora-/
 f. [artikel 11, tweede lid, van de Monumentenwet 1988](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md);  
 
 g. [artikel 15 van de Kernenergiewet](../../../../../wet/kernenergiewet/BWBR0002402/README.md).     
-2.  Als besluiten als bedoeld in [artikel 9d, eerste lid, van de Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) worden voorts aangewezen besluiten op grond van een bepaling in een verordening van een waterschap met betrekking tot het verrichten of doen verrichten van handelingen aan of nabij een watergang of waterkering.   
+2.  Als besluiten als bedoeld in [artikel 9d, eerste lid, van de Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) worden voorts aangewezen besluiten op grond van een bepaling in een verordening van een waterschap met betrekking tot het verrichten of doen verrichten van handelingen aan of nabij een watergang of waterkering.  
 
 ### Artikel  2  
 
@@ -50,7 +50,7 @@ e. [artikel 11, tweede lid, van de Monumentenwet 1988](../../../../../wet/monume
 f. [artikel 19, eerste lid, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md);  
 
 g. [artikel 2, eerste lid, van de Wet beheer rijkswaterstaatswerken](../../../../../wet/wet/beheer/rijkswaterstaatswerken/BWBR0008331/README.md).     
-2.  Als besluiten als bedoeld in [artikel 20c, eerste lid, van de Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) worden voorts aangewezen besluiten op grond van een bepaling in een verordening van een waterschap met betrekking tot het verrichten of doen verrichten van handelingen aan of nabij een watergang of waterkering.   
+2.  Als besluiten als bedoeld in [artikel 20c, eerste lid, van de Elektriciteitswet 1998](../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) worden voorts aangewezen besluiten op grond van een bepaling in een verordening van een waterschap met betrekking tot het verrichten of doen verrichten van handelingen aan of nabij een watergang of waterkering.  
 
 ### Artikel  3  
 
@@ -71,7 +71,7 @@ f. [artikel 11, tweede lid, van de Monumentenwet 1988](../../../../../wet/monume
 g. [artikel 19, eerste lid, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md);  
 
 h. [artikel 2, eerste lid, van de Wet beheer rijkswaterstaatswerken](../../../../../wet/wet/beheer/rijkswaterstaatswerken/BWBR0008331/README.md).     
-2.  Als besluiten als bedoeld in [artikel 39d, eerste lid, van de Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md) worden voorts aangewezen besluiten op grond van een bepaling in een verordening van een waterschap met betrekking tot het verrichten of doen verrichten van handelingen aan of nabij een watergang of waterkering.   
+2.  Als besluiten als bedoeld in [artikel 39d, eerste lid, van de Gaswet](../../../../../wet/gaswet/BWBR0011440/README.md) worden voorts aangewezen besluiten op grond van een bepaling in een verordening van een waterschap met betrekking tot het verrichten of doen verrichten van handelingen aan of nabij een watergang of waterkering.  
 
 ### Artikel  4  
 
@@ -94,15 +94,15 @@ g. [artikel 2, eerste lid, van de Wet beheer rijkswaterstaatswerken](../../../..
 h. de [artikelen 34, derde lid](../../../../../wet/mijnbouwwet/BWBR0014168/README.md), [39](../../../../../wet/mijnbouwwet/BWBR0014168/README.md) in samenhang met 34, derde lid, en [40, tweede lid, van de Mijnbouwwet](../../../../../wet/mijnbouwwet/BWBR0014168/README.md);  
 
 i. [artikel 30, derde lid, van het Mijnbouwbesluit](../../../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md).     
-2.  Als besluiten als bedoeld in [artikel 141c, eerste lid, van de Mijnbouwwet](../../../../../wet/mijnbouwwet/BWBR0014168/README.md) worden voorts aangewezen besluiten op grond van een bepaing in een verordening van een waterschap met betrekking tot het verrichten of doen verrichten van handelingen aan of nabij een watergang of waterkering.   
+2.  Als besluiten als bedoeld in [artikel 141c, eerste lid, van de Mijnbouwwet](../../../../../wet/mijnbouwwet/BWBR0014168/README.md) worden voorts aangewezen besluiten op grond van een bepaing in een verordening van een waterschap met betrekking tot het verrichten of doen verrichten van handelingen aan of nabij een watergang of waterkering.  
 
 ### Artikel  5  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: Uitvoeringsbesluit rijkscoördinatieregeling energie-infrastructuurprojecten.  
+Dit besluit wordt aangehaald als: Uitvoeringsbesluit rijkscoördinatieregeling energie-infrastructuurprojecten. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

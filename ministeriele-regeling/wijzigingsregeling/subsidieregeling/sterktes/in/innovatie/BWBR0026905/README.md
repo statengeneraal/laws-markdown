@@ -8,19 +8,19 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Subsidieregeling sterktes in innovatie.   
+Wijzigt de Subsidieregeling sterktes in innovatie. 
 
 ### Artikel  II  
 
-Wijzigt de Subsidieregeling sterktes in innovatie.   
+Wijzigt de Subsidieregeling sterktes in innovatie. 
 
 ### Artikel  III  
 
-Artikel I, onderdelen D, M, N, onder a, O, onder a, T, U, V, W, X, AG en AH zijn niet van toepassing op aanvragen om subsidie die vóór de inwerkingtreding van deze regeling zijn ingediend en op subsidies die vóór de inwerkingtreding van deze regeling zijn verstrekt.  
+Artikel I, onderdelen D, M, N, onder a, O, onder a, T, U, V, W, X, AG en AH zijn niet van toepassing op aanvragen om subsidie die vóór de inwerkingtreding van deze regeling zijn ingediend en op subsidies die vóór de inwerkingtreding van deze regeling zijn verstrekt. 
 
 ### Artikel  IV  
 
-Deze regeling treedt in werking met ingang van 1 januari 2010.  
+Deze regeling treedt in werking met ingang van 1 januari 2010. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -28,4 +28,4 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-M.J.A. van derHoeven   
+M.J.A. van der Hoeven     

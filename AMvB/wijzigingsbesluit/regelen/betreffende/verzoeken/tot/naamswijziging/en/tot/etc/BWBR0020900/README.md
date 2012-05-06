@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Regelen betreffende verzoeken tot naamswijziging en tot naamsvaststelling.   
+Wijzigt het Regelen betreffende verzoeken tot naamswijziging en tot naamsvaststelling. 
 
 ### Artikel  II  
 
-Op verzoeken tot wijziging van de geslachtsnaam die op de dag van inwerkingtreding in behandeling zijn, is het recht verschuldigd volgens het tot dan geldende tarief.  
+Op verzoeken tot wijziging van de geslachtsnaam die op de dag van inwerkingtreding in behandeling zijn, is het recht verschuldigd volgens het tot dan geldende tarief. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -31,10 +31,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 6 december 2006  
 Beatrix  
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin 
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin   
 
 de *tweede* januari 2007 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

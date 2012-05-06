@@ -13,15 +13,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *minister:* Minister van Economische Zaken;  
+a.  *minister:* Minister van Economische Zaken;  
 
-b. *storing:* elektromagnetische storing, ondervonden in uitrusting als gevolg van het gebruik van uitrusting;  
+b.  *storing:* elektromagnetische storing, ondervonden in uitrusting als gevolg van het gebruik van uitrusting;  
 
-c. *beschermingseisen:* de beschermingseisen, bedoeld in [artikel 4, eerste en tweede lid, van het Besluit elektromagnetische compatibiliteit 2007](../../../../AMvB/besluit/elektromagnetische/compatibiliteit/2007/BWBR0021041/README.md) of de beschermingseisen, bedoeld in [artikel 5, eerste en tweede lid, van het Besluit randapparaten en radioapparaten 2007](../../../../AMvB/besluit/randapparaten/en/radioapparaten/2007/BWBR0021037/README.md);  
+c.  *beschermingseisen:* de beschermingseisen, bedoeld in [artikel 4, eerste en tweede lid, van het Besluit elektromagnetische compatibiliteit 2007](../../../../AMvB/besluit/elektromagnetische/compatibiliteit/2007/BWBR0021041/README.md) of de beschermingseisen, bedoeld in [artikel 5, eerste en tweede lid, van het Besluit randapparaten en radioapparaten 2007](../../../../AMvB/besluit/randapparaten/en/radioapparaten/2007/BWBR0021037/README.md);  
 
-d. *Radioreglement:* Radioreglement (Trb. 1981, 78), behorende bij het op 22 december 1992 te Genève tot stand gekomen Statuut en Verdrag van de Internationale Unie voor Telecommunicatie met de daarbij behorende bijlagen en reglementen (Trb. 1993, 138);  
+d.  *Radioreglement:* Radioreglement (Trb. 1981, 78), behorende bij het op 22 december 1992 te Genève tot stand gekomen Statuut en Verdrag van de Internationale Unie voor Telecommunicatie met de daarbij behorende bijlagen en reglementen (Trb. 1993, 138);  
 
-e. *Agentschap Telecom:* Agentschap Telecom van het Ministerie van Economische Zaken.    
+e.  *Agentschap Telecom:* Agentschap Telecom van het Ministerie van Economische Zaken.   
 
 ### §  2  
 
@@ -30,7 +30,7 @@ e. *Agentschap Telecom:* Agentschap Telecom van het Ministerie van Economische Z
 ### Artikel  2  
 
 1.  Een melding aan de minister over storing kan naar keuze van degene die de melding doet telefonisch, schriftelijk, per elektronische post of via de website van Agentschap Telecom worden gedaan bij Agentschap Telecom.   
-2.  De ontvangst van de storingsmelding wordt bevestigd aan degene die de storing heeft gemeld.   
+2.  De ontvangst van de storingsmelding wordt bevestigd aan degene die de storing heeft gemeld.  
 
 ### Artikel  3  
 
@@ -53,7 +53,7 @@ g. de storing zich buiten het Nederlandse grondgebied of het Nederlandse contine
 h. naar het oordeel van de minister geen ongestoorde werking van de uitrusting kan worden verwacht gezien de locatie waar en de omstandigheden waaronder de uitrusting wordt gebruikt;  
 
 i. de melding betrekking heeft op gestoorde ontvangst door uitrusting die is aangesloten op een draadgebonden elektronisch communicatienetwerk en er geen onderzoek door de beheerder van het communicatienetwerk heeft plaatsgevonden.     
-2.  Indien een storingsmelding niet in behandeling wordt genomen, wordt hiervan aan degene die de storingsmelding heeft gedaan onder opgave van redenen binnen twee weken na ontvangst van de melding mededeling gedaan.   
+2.  Indien een storingsmelding niet in behandeling wordt genomen, wordt hiervan aan degene die de storingsmelding heeft gedaan onder opgave van redenen binnen twee weken na ontvangst van de melding mededeling gedaan.  
 
 ### §  3  
 
@@ -74,7 +74,7 @@ d. het gebruik van de uitrusting geschiedt in overeenstemming met de gebruiksaan
 e. in geval de uitrusting voorzien is van een (richt)antenne of een geïntegreerde antenne, deze antenne onderscheidenlijk de uitrusting zodanig is opgesteld dat een optimale ontvangst mogelijk is.     
 2.  Bij het onderzoek, bedoeld in het eerste lid, onder c, worden zoveel mogelijk de meetmethodes gehanteerd die onderdeel uitmaken van de geharmoniseerde normen.   
 3.  Indien bij het gebruik van de uitrusting gebruik wordt gemaakt van antennes, kabels, versterkers, transformatoren, filters en andere hulpmiddelen zijn deze geschikt en van voldoende kwaliteit voor de gewenste frequentie en toepassing en op de juiste wijze aangesloten. Gebruikte hulpmiddelen vertonen geen constructiefouten of andere gebreken.   
-4.  Naar aanleiding van het onderzoek, bedoeld in het eerste lid, wordt een rapport van bevindingen opgemaakt.   
+4.  Naar aanleiding van het onderzoek, bedoeld in het eerste lid, wordt een rapport van bevindingen opgemaakt.  
 
 ### Artikel  5  
 
@@ -94,7 +94,7 @@ d. de kosten van de behandeling van de storingsmelding, naar het oordeel van de 
 e. het een storing betreft die internationaal is afgestemd of overeengekomen tussen landen als bedoeld in de onderdelen 1.167 en 1.168 van het Radioreglement;  
 
 f. blijkt dat de storingsmelding in strijd met artikel 3, eerste lid, in behandeling is genomen.     
-5.  Van de beëindiging van de behandeling van de storingsmelding wordt door het Agentschap Telecom aan degene die de storing heeft gemeld onder vermelding van de resultaten van het onderzoek naar de storingsmelding, mededeling gedaan.   
+5.  Van de beëindiging van de behandeling van de storingsmelding wordt door het Agentschap Telecom aan degene die de storing heeft gemeld onder vermelding van de resultaten van het onderzoek naar de storingsmelding, mededeling gedaan.  
 
 ### §  4  
 
@@ -102,11 +102,11 @@ f. blijkt dat de storingsmelding in strijd met artikel 3, eerste lid, in behande
 
 ### Artikel  6  
 
-Wijzigt de Regeling vergoedingen Agentschap Telecom 2008.   
+Wijzigt de Regeling vergoedingen Agentschap Telecom 2008.
 
 ### Artikel  7  
 
-Wijzigt de Regeling elektromagnetische compatibiliteit 2007.   
+Wijzigt de Regeling elektromagnetische compatibiliteit 2007.
 
 ### §  5  
 
@@ -114,15 +114,15 @@ Wijzigt de Regeling elektromagnetische compatibiliteit 2007.
 
 ### Artikel  8  
 
-De [Regeling storingsklachten](../../../../ministeriele-regeling/regeling/storingsklachten/BWBR0007511/README.md) wordt ingetrokken.  
+De [Regeling storingsklachten](../../../../ministeriele-regeling/regeling/storingsklachten/BWBR0007511/README.md) wordt ingetrokken.
 
 ### Artikel  9  
 
-Deze regeling treedt in werking met ingang van 1 januari 2010.  
+Deze regeling treedt in werking met ingang van 1 januari 2010. 
 
 ### Artikel  10  
 
-Deze regeling wordt aangehaald als: Regeling storingsmeldingen.  
+Deze regeling wordt aangehaald als: Regeling storingsmeldingen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -130,4 +130,4 @@ Den Haag
 
 De 
 Staatssecretaris van Economische Zaken, 
-F.Heemskerk   
+F. Heemskerk     

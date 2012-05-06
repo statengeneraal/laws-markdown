@@ -5,7 +5,7 @@
 ### Artikel  1  
 
 1.  Namens de openbare lichamen Bonaire, Sint Eustatius en Saba wordt voor bepaalde tijd en tot wederopzegging door een der partijen een overeenkomst aangegaan met advocaten, waarbij deze zich verbinden tegen een nader overeen te komen vergoeding kosteloos overeenkomstig de bepalingen van deze wet rechtskundige bijstand te verlenen.   
-2.  Voor zover de overeenkomst, bedoeld in het eerste lid, betrekking heeft op rechtskundige bijstand in strafzaken, worden de bij of krachtens de artikelen 61 tot en met 69 van het Wetboek van Strafvordering BES gegeven voorschriften in acht genomen.   
+2.  Voor zover de overeenkomst, bedoeld in het eerste lid, betrekking heeft op rechtskundige bijstand in strafzaken, worden de bij of krachtens de artikelen 61 tot en met 69 van het Wetboek van Strafvordering BES gegeven voorschriften in acht genomen.  
 
 ### Artikel  2  
 
@@ -14,7 +14,7 @@
 3.  De betrokkene die een kaart, bedoeld in het eerste lid, wenst te verkrijgen, wendt zich daartoe tot Onze Minister van Justitie, onder overlegging van een verklaring, die door een ten aanzien van de betrokkene bevoegde belastingdienst is afgegeven, waaruit de hoogte van het zuiver inkomen op grond van, dan wel overeenkomstig, de bepalingen van de Wet op de inkomstenbelasting BES blijkt.   
 4.  Voor de toepassing van deze wet wordt onder on- of minvermogende verstaan: degene wiens inkomen gelijk is aan of minder bedraagt dan het bruto minimumloon, genoemd in artikel 9, eerste lid, van de Wet minimumlonen BES.   
 5.  In bijzondere gevallen kan Onze Minister van Justitie beslissen, dat in afwijking van het bepaalde in het vorige lid, een kaart wordt afgegeven als bedoeld in het eerste lid van dit artikel, indien de economische toestand van betrokkene zodanig is, dat hij, hoewel hij een hoger belastbaar inkomen heeft dan in het vierde lid gesteld, niet in staat moet worden geacht de vermoedelijke kosten van het honorarium van een advocaat te betalen.   
-6.  Indien zich in de omstandigheden van de persoon aan wie kosteloze rechtskundige bijstand wordt verleend, zodanige wijzigingen mochten voordoen, dat op grond daarvan aannemelijk geacht kan worden dat die persoon in staat is de kosten van een advocaat zelf te dragen, komt het recht op kosteloze rechtskundige bijstand te vervallen.   
+6.  Indien zich in de omstandigheden van de persoon aan wie kosteloze rechtskundige bijstand wordt verleend, zodanige wijzigingen mochten voordoen, dat op grond daarvan aannemelijk geacht kan worden dat die persoon in staat is de kosten van een advocaat zelf te dragen, komt het recht op kosteloze rechtskundige bijstand te vervallen.  
 
 ### Artikel  2a  
 
@@ -34,42 +34,42 @@ a. alle inkomen uit arbeid, waaronder begrepen nevenbetrekkingen, van de belangh
 
 b. andere inkomsten dan inkomsten uit arbeid, indien die andere inkomsten ten opzichte van het inkomen uit arbeid, bedoeld in onderdeel a, tenminste ééntiende deel van het totale bruto inkomen van de belanghebbende uitmaken.     
 4.  Degene, die een kaart wenst te verkrijgen als bedoeld in dit artikel, wendt zich daartoe tot Onze Minister van Justitie onder overlegging van tenminste zijn meest recente loonstrook of loonstroken als bedoeld in artikel 1614pa van het Burgerlijk Wetboek BES, en, voor zover van toepassing, een verklaring van de ontvanger, bedoeld in artikel 1.3, onderdeel k, van de Belastingwet BES van betaling van de in het tweede lid bedoelde eigen bijdrage. Als de belanghebbende geen loonstrook kan overleggen, dan wel als het bepaalde in het vierde lid van toepassing is, dient een verklaring, bedoeld in artikel 2, derde lid, te worden overgelegd, met dien verstande dat uit die verklaring niet enkel het zuiver inkomen doch tevens het bruto inkomen uit arbeid dient te blijken.   
-5.  Het bepaalde in artikel 2, tweede en vijfde lid, is van overeenkomstige toepassing.   
+5.  Het bepaalde in artikel 2, tweede en vijfde lid, is van overeenkomstige toepassing.  
 
 ### Artikel  3  
 
-Indien rechtskundige bijstand verleend wordt, hetzij in strafzaken, hetzij in een civiele procedure of een voorgenomen civiele procedure, welker aard naar het oordeel van Onze Minister van Justitie rechtskundige bijstand wettigt, wordt zulks op de in artikel 2 bedoelde kaart aangetekend en wordt daarop, voor zover het geen toevoegingen op grond van het Wetboek van Strafvordering BES betreft, tevens vermeld de naam van de advocaat die zich met de bijstand zal belasten.  
+Indien rechtskundige bijstand verleend wordt, hetzij in strafzaken, hetzij in een civiele procedure of een voorgenomen civiele procedure, welker aard naar het oordeel van Onze Minister van Justitie rechtskundige bijstand wettigt, wordt zulks op de in artikel 2 bedoelde kaart aangetekend en wordt daarop, voor zover het geen toevoegingen op grond van het Wetboek van Strafvordering BES betreft, tevens vermeld de naam van de advocaat die zich met de bijstand zal belasten. 
 
 ### Artikel  4  
 
-Bij ministeriële regeling worden nadere regels gesteld over de verlening van kosteloze rechtskundige bijstand.  
+Bij ministeriële regeling worden nadere regels gesteld over de verlening van kosteloze rechtskundige bijstand. 
 
 ### Artikel  5  
 
-[vervallen]  
+[vervallen] 
 
 ### Artikel  6  
 
-Het is de aangewezen advocaat verboden, een geschenk, beloning of vergoeding, van welke aard of waarde ook, in verband met de door hem te verlenen rechtskundige bijstand van wie dan ook te vragen, te bedingen of te aanvaarden.  
+Het is de aangewezen advocaat verboden, een geschenk, beloning of vergoeding, van welke aard of waarde ook, in verband met de door hem te verlenen rechtskundige bijstand van wie dan ook te vragen, te bedingen of te aanvaarden. 
 
 ### Artikel  6a  
 
 1.  Indien personen, die als eisende partij met kosteloze rechtskundige bijstand ingevolge deze wet procederen, veroordeeld worden in de kosten, komt uitsluitend het salaris van de gemachtigde der wederpartij, tot het door de rechter vastgestelde bedrag voor rekening van het Rijk.   
-2.  Indien de rechter een bedrag vaststelt voor salaris van de advokaat van een onvermogende, aan wie op grond van deze wet kosteloze rechtkundige bijstand wordt verleend stort de advokaat dit bedrag na ontvangst in ’s Rijks kas, voorzover dit bedrag, dat aan de advocaat voor de behandeling van de zaak in de betreffende instantie is toegekend, niet overschrijdt.   
+2.  Indien de rechter een bedrag vaststelt voor salaris van de advokaat van een onvermogende, aan wie op grond van deze wet kosteloze rechtkundige bijstand wordt verleend stort de advokaat dit bedrag na ontvangst in ’s Rijks kas, voorzover dit bedrag, dat aan de advocaat voor de behandeling van de zaak in de betreffende instantie is toegekend, niet overschrijdt.  
 
 ### Artikel  6b  
 
 1.  Bij voldoende draagkracht van de rechtzoekende kunnen de kosten van de ten onrechte genoten rechtskundige bijstand geheel of gedeeltelijk van overheidswege op hem worden verhaald.   
-2.  Bij algemene maatregel van bestuur, kunnen regels worden gegeven omtrent het verhaal op de goederen van de rechtzoekende.   
+2.  Bij algemene maatregel van bestuur, kunnen regels worden gegeven omtrent het verhaal op de goederen van de rechtzoekende.  
 
 ### Artikel  6c  
 
-Op de rechtskundige bijstand voor in verzekering gestelde personen is uitsluitend het Besluit toevoeging in strafzaken BES van toepassing.  
+Op de rechtskundige bijstand voor in verzekering gestelde personen is uitsluitend het Besluit toevoeging in strafzaken BES van toepassing. 
 
 ### Artikel  7  
 
-Deze wet wordt aangehaald als: Wet kosteloze rechtskundige bijstand BES.  
+Deze wet wordt aangehaald als: Wet kosteloze rechtskundige bijstand BES. 
 
 ### Artikel  8  
 
-[vervallen]  
+[vervallen] 

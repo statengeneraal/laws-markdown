@@ -2,7 +2,7 @@
 
 ##Regeling slepen BES
 
-### Artikel  1  
+### Artikel   1  
 
 Ontheffing van het verbod in [artikel 84, eerste lid, van het Besluit luchtverkeer BES](../../../../../AMvB-BES/besluit/luchtverkeer/bes/BWBR0028639/README.md) kan worden verleend aan gezagvoerders van sleepvliegtuigen voor het uitvoeren van een VFR-vlucht met inachtneming van de volgende regels: 
 
@@ -18,12 +18,12 @@ e. indien het sleepvliegen zal plaatsvinden in een plaatselijk verkeersleidingsg
 
 f. het afwerpen van sleepkabel en sleep moet zodanig plaatsvinden dat deze neerkomen zonder schade toe te brengen aan personen of zaken;  
 
-g. het doen neerkomen op een luchtvaartterein mag alleen met schriftelijke toestemming en met inachtneming van de voorschriften van de luchthavenmeester van het desbetreffende luchtvaartterrein.    
+g. het doen neerkomen op een luchtvaartterein mag alleen met schriftelijke toestemming en met inachtneming van de voorschriften van de luchthavenmeester van het desbetreffende luchtvaartterrein.   
 
-### Artikel  2  
+### Artikel   2  
 
-Deze regeling wordt aangehaald als: Regeling slepen BES.  
+Deze regeling wordt aangehaald als: Regeling slepen BES. 
 
 ### Artikel  3  
 
-Deze regeling berust op [artikel 84, tweede lid, van het Besluit luchtverkeer BES](../../../../../AMvB-BES/besluit/luchtverkeer/bes/BWBR0028639/README.md).  
+Deze regeling berust op [artikel 84, tweede lid, van het Besluit luchtverkeer BES](../../../../../AMvB-BES/besluit/luchtverkeer/bes/BWBR0028639/README.md). 

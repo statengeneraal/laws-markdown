@@ -11,15 +11,15 @@ Gelet op artikel 126n, eerste lid, tweede volzin, en artikel 126u, eerste lid, t
 De Raad van State gehoord (advies van 22 april 2004, nr. W03.04.0125/l);
 
 Gezien het nader rapport van Onze Minister van Justitie van 20 juli 2004, nr. 5298172/04/6;
-Hebben goedgevonden en verstaan:    
+Hebben goedgevonden en verstaan:
 
-### Artikel  1  
+###Artikel 1 
 
-In dit besluit wordt verstaan onder: 
+In dit besluit wordt verstaan onder:
 
-a. gebruiker: een gebruiker als bedoeld in artikel 126n, tweede lid, van het Wetboek van Strafvordering;  
+a.gebruiker: een gebruiker als bedoeld in artikel 126n, tweede lid, van het Wetboek van Strafvordering;
 
-b. nummer: een nummer als bedoeld in [artikel 1.1, onderdeel bb, van de Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md).    
+b.nummer: een nummer als bedoeld in [artikel 1.1, onderdeel bb, van de Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md).
 
 ### Artikel  2  
 
@@ -39,26 +39,26 @@ f. de nummers van de randapparatuur waarvan de gebruiker gebruik maakt of heeft 
 
 g. de soorten diensten waarvan de gebruiker gebruik maakt of heeft gemaakt evenals de daarbij behorende gegevens;  
 
-h. de naam, het adres en de woonplaats van degene die de rekening betaalt voor de openbare telecommunicatiediensten en telecommunicatienetwerken die de gebruiker ter beschikking heeft of heeft gehad, indien deze een ander is dan de gebruiker.    
+h. de naam, het adres en de woonplaats van degene die de rekening betaalt voor de openbare telecommunicatiediensten en telecommunicatienetwerken die de gebruiker ter beschikking heeft of heeft gehad, indien deze een ander is dan de gebruiker.   
 
-### Artikel  3  
+###Artikel 3 
 
-Dit besluit treedt in werking op het tijdstip waarop de wet van 18 maart 2004 tot wijziging van het Wetboek van Strafvordering en andere wetten in verband met de aanpassing van de bevoegdheden tot het vorderen van gegevens terzake van telecommunicatie (vorderen gegevens telecommunicatie) (Stb. 105) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de wet van 18 maart 2004 tot wijziging van het Wetboek van Strafvordering en andere wetten in verband met de aanpassing van de bevoegdheden tot het vorderen van gegevens terzake van telecommunicatie (vorderen gegevens telecommunicatie) (Stb. 105) in werking treedt.
 
-### Artikel  4  
+###Artikel 4 
 
-Dit besluit wordt aangehaald als: Besluit vorderen gegevens telecommunicatie.  
+Dit besluit wordt aangehaald als: Besluit vorderen gegevens telecommunicatie.
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-'s-Gravenhage 
-3 augustus 2004  
-Beatrix  
-
-De Minister van Justitie , 
-J. P. H. Donner   
-
-de *negentiende* augustus 2004 
+'s-Gravenhage
+3 augustus 2004
+Beatrix
 
 De Minister van Justitie , 
-J. P. H. Donner    
+J. P. H.Donner
+
+de *negentiende* augustus 2004
+
+De Minister van Justitie , 
+J. P. H.Donner

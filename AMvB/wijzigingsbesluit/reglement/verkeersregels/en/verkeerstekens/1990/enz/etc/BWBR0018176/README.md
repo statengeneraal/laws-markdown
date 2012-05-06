@@ -11,42 +11,42 @@ Gelet op de [artikelen 4](../../../../../../../../../../wet/wegenverkeerswet/199
 De Raad van State gehoord (advies van 25 februari 2005, nr. W09.05.0019/V);
 
 Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 1 april 2005, nr. HDJZ/AWW/2005-912, Hoofddirectie Juridische Zaken;
-Hebben goedgevonden en verstaan:    
+Hebben goedgevonden en verstaan:
 
-### Artikel  I  
+###Artikel I 
 
-Wijzigt het Reglement Verkeersregels en Verkeerstekens 1990.   
+Wijzigt het Reglement Verkeersregels en Verkeerstekens 1990.
 
-### Artikel  II  
+###Artikel II 
 
-Wijzigt het Besluit personenvervoer 2000.   
+Wijzigt het Besluit personenvervoer 2000.
 
-### Artikel  III  
+###Artikel III 
 
-Wijzigt het Uitvoeringsbesluit ex artikel 4 Wegenverkeerswet 1994 inzake verkeersvoorschriften voor het militaire verkeer.   
+Wijzigt het Uitvoeringsbesluit ex artikel 4 Wegenverkeerswet 1994 inzake verkeersvoorschriften voor het militaire verkeer.
 
-### Artikel  IV  
+###Artikel IV 
 
-Wijzigt het Reglement rijbewijzen.   
+Wijzigt het Reglement rijbewijzen.
 
-### Artikel  V  
+###Artikel V 
 
-[Artikel 69, eerste lid, onderdeel d, van het Reglement rijbewijzen](../../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), zoals dat luidde voor het tijdstip van inwerkingtreding van artikel IV, blijft van kracht ten aanzien van aanvragen die voor dat tijdstip zijn ingediend.  
+[Artikel 69, eerste lid, onderdeel d, van het Reglement rijbewijzen](../../../../../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), zoals dat luidde voor het tijdstip van inwerkingtreding van artikel IV, blijft van kracht ten aanzien van aanvragen die voor dat tijdstip zijn ingediend.
 
-### Artikel  VI  
+###Artikel VI 
 
-Dit besluit treedt in werking met ingang van 1 mei 2005, met uitzondering van de artikelen I, onderdeel B, IV en V, die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.  
+Dit besluit treedt in werking met ingang van 1 mei 2005, met uitzondering van de artikelen I, onderdeel B, IV en V, die in werking treden met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst.
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-’s-Gravenhage 
-7 april 2005  
-Beatrix  
+’s-Gravenhage
+7 april 2005
+Beatrix
 
-De Minister van Verkeer en Waterstaat , 
-K. M. H. Peijs   
+De Minister van Verkeer en Waterstaat ,
+K. M. H.Peijs
 
-de *eenentwintigste* april 2005 
+de *eenentwintigste* april 2005
 
-De Minister van Justitie , 
-J. P. H. Donner    
+De Minister van Justitie ,
+J. P. H.Donner

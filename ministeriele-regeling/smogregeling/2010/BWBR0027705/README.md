@@ -15,11 +15,11 @@ In deze regeling wordt verstaan onder:
 
 *ernstige smog:* smog waarbij: 
 
-a. de concentratie van zwaveldioxide of stikstofdioxide gedurende drie opeenvolgende uren in gebieden met een oppervlakte van ten minste 100 km <sup>2</sup> of in een volledige op grond van [artikel 5.22 van de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) aangewezen zone of agglomeratie hoger is dan de alarmdrempel, genoemd in voorschrift 1.3 respectievelijk 2.4 van [bijlage 2 bij de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md),  
+a. de concentratie van zwaveldioxide of stikstofdioxide gedurende drie opeenvolgende uren in gebieden met een oppervlakte van ten minste 100 km<sup>2</sup> of in een volledige op grond van [artikel 5.22 van de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) aangewezen zone of agglomeratie hoger is dan de alarmdrempel, genoemd in voorschrift 1.3 respectievelijk 2.4 van [bijlage 2 bij de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md),  
 
 b. de concentratie van ozon gedurende drie opeenvolgende uren hoger is dan de alarmdrempel, genoemd in voorschrift 8.4 van [bijlage 2 bij de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), of  
 
-c. de daggemiddelde concentratie van zwevende deeltjes (PM <sub>10</sub>) hoger is dan 200 microgram per kubieke meter;    
+c. de daggemiddelde concentratie van zwevende deeltjes (PM<sub>10</sub>) hoger is dan 200 microgram per kubieke meter;    
 
 *geringe smog:* smog waarbij: 
 
@@ -27,25 +27,25 @@ a. de concentratie van zwaveldioxide of stikstofdioxide lager is dan de grenswaa
 
 b. de concentratie van ozon lager is dan de informatiedrempel, genoemd in voorschrift 8.3 van [bijlage 2 bij de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), of  
 
-c. de daggemiddelde concentratie van zwevende deeltjes (PM <sub>10</sub>) lager is dan 50 microgram per kubieke meter;    
+c. de daggemiddelde concentratie van zwevende deeltjes (PM<sub>10</sub>) lager is dan 50 microgram per kubieke meter;    
 
 *matige smog:* smog waarbij: 
 
-a. de concentratie van zwaveldioxide of stikstofdioxide hoger is dan de grenswaarde, genoemd in voorschrift 1.1, onder a, respectievelijk 2.1, eerste lid, onder a, van [bijlage 2 bij de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), maar gedurende drie opeenvolgende uren in gebieden met een oppervlakte van ten minste 100 km <sup>2</sup> of in een volledige op grond van [artikel 5.22 van de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) aangewezen zone of agglomeratie lager is dan de alarmdrempel, genoemd in de voorschriften 1.3 respectievelijk 2.4 van bijlage 2 bij de wet,  
+a. de concentratie van zwaveldioxide of stikstofdioxide hoger is dan de grenswaarde, genoemd in voorschrift 1.1, onder a, respectievelijk 2.1, eerste lid, onder a, van [bijlage 2 bij de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), maar gedurende drie opeenvolgende uren in gebieden met een oppervlakte van ten minste 100 km<sup>2</sup> of in een volledige op grond van [artikel 5.22 van de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) aangewezen zone of agglomeratie lager is dan de alarmdrempel, genoemd in de voorschriften 1.3 respectievelijk 2.4 van bijlage 2 bij de wet,  
 
 b. de concentratie van ozon hoger is dan de informatiedrempel, genoemd in voorschrift 8.3 van [bijlage 2 bij de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), maar gedurende drie opeenvolgende uren lager is dan de alarmdrempel, genoemd in voorschrift 8.4 van bijlage 2 bij de wet, of  
 
-c. de daggemiddelde concentratie van zwevende deeltjes (PM <sub>10</sub>) zich bevindt tussen 50 en 200 microgram per kubieke meter;    
+c. de daggemiddelde concentratie van zwevende deeltjes (PM<sub>10</sub>) zich bevindt tussen 50 en 200 microgram per kubieke meter;    
 
 *Minister:* Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;  
 
-*smog:* tijdelijk verhoogd kwaliteitsniveau van zwaveldioxide, stikstofdioxide, ozon of zwevende deeltjes (PM <sub>10</sub>);  
+*smog:* tijdelijk verhoogd kwaliteitsniveau van zwaveldioxide, stikstofdioxide, ozon of zwevende deeltjes (PM<sub>10</sub>);  
 
-*wet:*[Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).    
+*wet:* [Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
 
 ### Artikel  2  
 
-Het vaststellen van geringe, matige of ernstige smog vindt plaats door het RIVM overeenkomstig [artikel 3, eerste lid](../../../../ministeriele-regeling/regeling/beoordeling/luchtkwaliteit/2007/BWBR0022817/README.md), en de [paragrafen 3.1 tot en met 3.6](../../../../ministeriele-regeling/regeling/beoordeling/luchtkwaliteit/2007/BWBR0022817/README.md) en [3.10 van de Regeling beoordeling luchtkwaliteit 2007](../../../../ministeriele-regeling/regeling/beoordeling/luchtkwaliteit/2007/BWBR0022817/README.md).  
+Het vaststellen van geringe, matige of ernstige smog vindt plaats door het RIVM overeenkomstig [artikel 3, eerste lid](../../../../ministeriele-regeling/regeling/beoordeling/luchtkwaliteit/2007/BWBR0022817/README.md), en de [paragrafen 3.1 tot en met 3.6](../../../../ministeriele-regeling/regeling/beoordeling/luchtkwaliteit/2007/BWBR0022817/README.md) en [3.10 van de Regeling beoordeling luchtkwaliteit 2007](../../../../ministeriele-regeling/regeling/beoordeling/luchtkwaliteit/2007/BWBR0022817/README.md). 
 
 ### §  2  
 
@@ -53,14 +53,14 @@ Het vaststellen van geringe, matige of ernstige smog vindt plaats door het RIVM 
 
 ### Artikel  3  
 
-1.  Het RIVM stelt basisinformatie over zwaveldioxide, stikstofdioxide, ozon en zwevende deeltjes (PM <sub>10</sub>) beschikbaar op www.lml.rivm.nl en zo mogelijk via andere landelijke media, zoals NOS Teletekst.   
+1.  Het RIVM stelt basisinformatie over zwaveldioxide, stikstofdioxide, ozon en zwevende deeltjes (PM<sub>10</sub>) beschikbaar op www.lml.rivm.nl en zo mogelijk via andere landelijke media, zoals NOS Teletekst.   
 2.  Basisinformatie als bedoeld in het eerste lid omvat ten minste: 
 
-a. een beschrijving van het ontstaan van concentraties van zwaveldioxide, stikstofdioxide, ozon en zwevende deeltjes (PM <sub>10</sub>) in de buitenlucht;  
+a. een beschrijving van het ontstaan van concentraties van zwaveldioxide, stikstofdioxide, ozon en zwevende deeltjes (PM<sub>10</sub>) in de buitenlucht;  
 
-b. een weergave van de actuele kwaliteitsniveaus van zwaveldioxide, stikstofdioxide, ozon en zwevende deeltjes (PM <sub>10</sub>), en  
+b. een weergave van de actuele kwaliteitsniveaus van zwaveldioxide, stikstofdioxide, ozon en zwevende deeltjes (PM<sub>10</sub>), en  
 
-c. een aanduiding van de actuele kwaliteitsniveaus van zwaveldioxide, stikstofdioxide, ozon en zwevende deeltjes (PM <sub>10</sub>) als geen, geringe, matige of ernstige smog.     
+c. een aanduiding van de actuele kwaliteitsniveaus van zwaveldioxide, stikstofdioxide, ozon en zwevende deeltjes (PM<sub>10</sub>) als geen, geringe, matige of ernstige smog.    
 
 ### §  3  
 
@@ -68,7 +68,7 @@ c. een aanduiding van de actuele kwaliteitsniveaus van zwaveldioxide, stikstofdi
 
 ### Artikel  4  
 
-Indien naar redelijke verwachting van het RIVM het risico bestaat op matige of ernstige smog en in perioden van matige of ernstige smog, analyseert het RIVM ieder uur de ontwikkeling van de luchtkwaliteit, op basis van de vaststelling van de kwaliteitsniveaus, bedoeld in [artikel 3, eerste lid, van de Regeling beoordeling luchtkwaliteit 2007](../../../../ministeriele-regeling/regeling/beoordeling/luchtkwaliteit/2007/BWBR0022817/README.md).  
+Indien naar redelijke verwachting van het RIVM het risico bestaat op matige of ernstige smog en in perioden van matige of ernstige smog, analyseert het RIVM ieder uur de ontwikkeling van de luchtkwaliteit, op basis van de vaststelling van de kwaliteitsniveaus, bedoeld in [artikel 3, eerste lid, van de Regeling beoordeling luchtkwaliteit 2007](../../../../ministeriele-regeling/regeling/beoordeling/luchtkwaliteit/2007/BWBR0022817/README.md). 
 
 ### Artikel  5  
 
@@ -76,23 +76,23 @@ Bij matige smog of ernstige smog stelt het RIVM, in aanvulling op de in artikel�
 
 a. een beschrijving van het ontstaan van smog en van de verontreinigende stoffen in de buitenlucht die matige of ernstige smog veroorzaken;  
 
-b. een weergave van de actuele kwaliteitsniveaus van zwaveldioxide, stikstofdioxide, ozon en zwevende deeltjes (PM <sub>10</sub>) per zone en agglomeratie alsmede een toelichting daarop;  
+b. een weergave van de actuele kwaliteitsniveaus van zwaveldioxide, stikstofdioxide, ozon en zwevende deeltjes (PM<sub>10</sub>) per zone en agglomeratie alsmede een toelichting daarop;  
 
-c. een prognose van de kwaliteitsniveaus van zwaveldioxide, stikstofdioxide, ozon en zwevende deeltjes (PM <sub>10</sub>) voor de eerstvolgende middag, dag of dagen;  
+c. een prognose van de kwaliteitsniveaus van zwaveldioxide, stikstofdioxide, ozon en zwevende deeltjes (PM<sub>10</sub>) voor de eerstvolgende middag, dag of dagen;  
 
 d. een beschrijving van de bevolkingsgroep of bevolkingsgroepen waarvoor matige of ernstige smog risico’s kan inhouden voor de gezondheid, alsmede van te verwachten symptomen en van door die bevolkingsgroep of bevolkingsgroepen te treffen voorzorgsmaatregelen, en  
 
-e. een verwijzing naar het Astma Fonds, de GGD en het RIVM als bronnen van nadere informatie over smog.    
+e. een verwijzing naar het Astma Fonds, de GGD en het RIVM als bronnen van nadere informatie over smog.   
 
 ### Artikel  6  
 
-Indien matige smog is vastgesteld in één of meer agglomeraties of zones, stelt het RIVM gedeputeerde staten van de betreffende provincies, de GGD, alsmede het VROM Inspectie Meldpunt in kennis van de actuele kwaliteitsniveaus van zwaveldioxide en stikstofdioxide.  
+Indien matige smog is vastgesteld in één of meer agglomeraties of zones, stelt het RIVM gedeputeerde staten van de betreffende provincies, de GGD, alsmede het VROM Inspectie Meldpunt in kennis van de actuele kwaliteitsniveaus van zwaveldioxide en stikstofdioxide. 
 
 ### Artikel  7  
 
 1.  Indien ernstige smog is vastgesteld in één of meer agglomeraties of zones, stelt het RIVM gedeputeerde staten van de betreffende provincies, het ANP, de GGD, evenals het VROM Inspectie Meldpunt, onmiddellijk in kennis van: 
 
-a. de actuele kwaliteitsniveaus van zwaveldioxide, stikstofdioxide, ozon en zwevende deeltjes (PM <sub>10</sub>);  
+a. de actuele kwaliteitsniveaus van zwaveldioxide, stikstofdioxide, ozon en zwevende deeltjes (PM<sub>10</sub>);  
 
 b. de alarmdrempel die wordt overschreden;  
 
@@ -100,7 +100,7 @@ c. de hoogste uurgemiddelde concentratie en voor ozon de hoogste acht-uurgemidde
 
 d. de datum, het tijdstip van aanvang, de duur, de plaats en indien bekend de oorzaak van overschrijding van de betreffende alarmdrempel;  
 
-e. een gemotiveerde prognose van de kwaliteitsniveaus van zwaveldioxide, stikstofdioxide, ozon en zwevende deeltjes (PM <sub>10</sub>) voor de eerstvolgende middag, dag of dagen in het betreffende geografische gebied en de verwachte duur van de ernstige smog;  
+e. een gemotiveerde prognose van de kwaliteitsniveaus van zwaveldioxide, stikstofdioxide, ozon en zwevende deeltjes (PM<sub>10</sub>) voor de eerstvolgende middag, dag of dagen in het betreffende geografische gebied en de verwachte duur van de ernstige smog;  
 
 f. een beschrijving van de bevolkingsgroep of bevolkingsgroepen waarvoor ernstige smog risico’s kan inhouden voor de gezondheid, alsmede van te verwachten symptomen en door de bevolkingsgroep of bevolkingsgroepen te treffen voorzorgsmaatregelen, en  
 
@@ -111,7 +111,7 @@ g. informatie over de stoffen waarvan het kwaliteitsniveau tijdelijk verhoogd is
 a. een verwijzing naar het Astma Fonds, de GGD en het RIVM als bronnen van nadere informatie over smog, en  
 
 b. indien van toepassing, gegevens over de belangrijkste bronsectoren die bijdragen aan de ernstige smog en aanbevelingen voor maatregelen om de emissies te verminderen.     
-4.  Het eerste en derde lid zijn van overeenkomstige toepassing indien naar redelijke verwachting van het RIVM ernstige smog dreigt te ontstaan.   
+4.  Het eerste en derde lid zijn van overeenkomstige toepassing indien naar redelijke verwachting van het RIVM ernstige smog dreigt te ontstaan.  
 
 ### §  4  
 
@@ -119,7 +119,7 @@ b. indien van toepassing, gegevens over de belangrijkste bronsectoren die bijdra
 
 ### Artikel  8  
 
-Artikel 7, eerste, tweede en derde lid, is van overeenkomstige toepassing indien naar redelijke verwachting van het RIVM het risico bestaat op overschrijding van de informatiedrempel voor ozon, genoemd in voorschrift 8.3 van [bijlage 2 bij de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), of overschrijding van die informatiedrempel is vastgesteld.  
+Artikel 7, eerste, tweede en derde lid, is van overeenkomstige toepassing indien naar redelijke verwachting van het RIVM het risico bestaat op overschrijding van de informatiedrempel voor ozon, genoemd in voorschrift 8.3 van [bijlage 2 bij de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), of overschrijding van die informatiedrempel is vastgesteld. 
 
 ### §  5  
 
@@ -127,7 +127,7 @@ Artikel 7, eerste, tweede en derde lid, is van overeenkomstige toepassing indie
 
 ### Artikel  9  
 
-Gedeputeerde staten stellen voor de uitvoering van de artikelen 7, derde en vierde lid, en 8 een provinciaal draaiboek smog vast, op basis van het door de Minister vastgestelde Modeldraaiboek Smog 2010.  
+Gedeputeerde staten stellen voor de uitvoering van de artikelen 7, derde en vierde lid, en 8 een provinciaal draaiboek smog vast, op basis van het door de Minister vastgestelde Modeldraaiboek Smog 2010. 
 
 ### §  6  
 
@@ -135,20 +135,20 @@ Gedeputeerde staten stellen voor de uitvoering van de artikelen 7, derde en vier
 
 ### Artikel  10  
 
-De Smogregeling 2001 wordt ingetrokken.  
+De Smogregeling 2001 wordt ingetrokken. 
 
 ### Artikel  11  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  12  
 
-Deze regeling wordt aangehaald als: Smogregeling 2010.  
+Deze regeling wordt aangehaald als: Smogregeling 2010. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
 31 mei 2010   
 
 De 
-Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
-J.C.Huizinga-Heringa   
+Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
+J.C. Huizinga-Heringa     

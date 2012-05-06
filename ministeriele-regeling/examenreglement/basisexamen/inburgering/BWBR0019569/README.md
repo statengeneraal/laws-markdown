@@ -21,7 +21,7 @@ b. deelnemer: de vreemdeling die zich voor het basisexamen heeft aangemeld;
 c. hoofd: het hoofd van de Nederlandse diplomatieke of consulaire vertegenwoordiging waar het basisexamen wordt afgenomen of het hoofd consulaire zaken van deze vertegenwoordiging;  
 
 d. toezichthouder: de door het hoofd aangewezen ambtenaar, medewerker, autoriteit of instelling, onder wiens toezicht het basisexamen wordt afgelegd.     
-2.  Voor zover uit een wettelijk voorschrift niet anders voortvloeit, worden de bevoegdheden genoemd in deze regeling uitgeoefend namens Onze Minister. Bij de uitoefening van deze bevoegdheden worden de algemene en bijzondere aanwijzingen van Onze Minister in acht genomen.   
+2.  Voor zover uit een wettelijk voorschrift niet anders voortvloeit, worden de bevoegdheden genoemd in deze regeling uitgeoefend namens Onze Minister. Bij de uitoefening van deze bevoegdheden worden de algemene en bijzondere aanwijzingen van Onze Minister in acht genomen.  
 
 ### Artikel  2  
 
@@ -29,7 +29,7 @@ d. toezichthouder: de door het hoofd aangewezen ambtenaar, medewerker, autoritei
 
 1.  De vreemdeling die aan het basisexamen wenst deel te nemen, meldt zich daartoe aan door het indienen bij de Minister van Buitenlandse Zaken van het ingevulde aanmeldformulier, waarvan het model als bijlage bij dit reglement is gevoegd, en het overmaken van het examengeld.   
 2.  Na overmaking van het examengeld maakt de deelnemer onder vermelding van het toegekende referentienummer mondeling of schriftelijk een afspraak bij het hoofd.   
-3.  Het hoofd maakt de examenlocatie en het tijdstip waarop het basisexamen kan worden afgelegd bekend.   
+3.  Het hoofd maakt de examenlocatie en het tijdstip waarop het basisexamen kan worden afgelegd bekend.  
 
 ### Artikel  3  
 
@@ -54,7 +54,7 @@ c. de materialen en hulpmiddelen waarvan het gebruik of bezit tijdens het basise
 d. de maatregelen die kunnen worden getroffen in geval van onregelmatigheden of ordeverstoring.     
 4.  Tijdens het basisexamen behandelt de deelnemer de onderdelen van het basisexamen volgens de gegeven instructies.   
 5.  De deelnemer die het basisexamen gereed heeft, meldt dit aan de toezichthouder. De toezichthouder controleert of alle onderdelen van het basisexamen zijn voltooid.   
-6.  De toezichthouder houdt van het verloop van het basisexamen een logboek bij.   
+6.  De toezichthouder houdt van het verloop van het basisexamen een logboek bij.  
 
 ### Artikel  4  
 
@@ -67,7 +67,7 @@ a. zonder toestemming van de toezichthouder zijn plaats of de examenlocatie te v
 
 b. andere dan volgens de instructie van de toezichthouder toegestane materialen of hulpmiddelen te gebruiken of in het bezit te hebben.     
 3.  Na afloop van het basisexamen is het de deelnemer niet toegestaan andere documenten of zaken uit de examenruimte mee te nemen, dan volgens de instructie van de toezichthouder is toegestaan.   
-4.  Het hoofd kan aanvullende maatregelen stellen om onregelmatigheden en ordeverstoring tijdens het basisexamen te voorkomen.   
+4.  Het hoofd kan aanvullende maatregelen stellen om onregelmatigheden en ordeverstoring tijdens het basisexamen te voorkomen.  
 
 ### Artikel  5  
 
@@ -83,23 +83,23 @@ c. de afname van het basisexamen voortijdig afbreken en de deelnemer verdere dee
 
 d. de deelnemer uit de examenruimte verwijderen.     
 2.  Bij constatering van fraude kan het hoofd de resultaten van het basisexamen met terugwerkende kracht ongeldig verklaren.   
-3.  Bij constatering van fraude of ordeverstoring kan het hoofd de deelnemer voor een periode van maximaal één jaar van toekomstige deelname aan het basisexamen uitsluiten.   
+3.  Bij constatering van fraude of ordeverstoring kan het hoofd de deelnemer voor een periode van maximaal één jaar van toekomstige deelname aan het basisexamen uitsluiten.  
 
 ### Artikel  6  
 
 ####Uitslag
 
-Het hoofd maakt de uitslag van het basisexamen bekend door toezending, uitreiking of op een andere naar zijn oordeel geschikte wijze.  
+Het hoofd maakt de uitslag van het basisexamen bekend door toezending, uitreiking of op een andere naar zijn oordeel geschikte wijze. 
 
 ### Artikel  7  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking op het tijdstip waarop de Wet inburgering in het buitenland in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop de Wet inburgering in het buitenland in werking treedt. 
 
 ### Artikel  8  
 
-Deze regeling wordt aangehaald als: Examenreglement basisexamen inburgering.  
+Deze regeling wordt aangehaald als: Examenreglement basisexamen inburgering. 
 Deze regeling wordt (met de toelichting) in de Staatscourant geplaatst.   
 
 Den Haag 
@@ -107,14 +107,14 @@ Den Haag
 
 De 
 Minister voor Vreemdelingenzaken en Integratie, 
-M.C.F.Verdonk  
+M.C.F. Verdonk    
 
-### Bijlage  1  
+### Bijlage  1 
 
 ![248399](http://wetten.overheid.nl/Illustration/248399)
 ![248400](http://wetten.overheid.nl/Illustration/248400)
 
-### Bijlage  2  
+###Bijlage 2 
 
 ####: overzicht ambassades en consultaten-generaal
 

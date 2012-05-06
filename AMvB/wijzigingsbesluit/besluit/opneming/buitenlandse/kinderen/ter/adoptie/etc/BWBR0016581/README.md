@@ -11,19 +11,19 @@ Gelet op de [artikelen 4, onder e](../../../../../../../../../../wet/wet/opnemin
 De Raad van State gehoord (advies van 1 december 2003, nr.WO3.0453/I);
 
 Gezien het nader rapport van Onze Minister van Justitie van 25 maart 2004, Directie Wetgeving, nr. 5276731//04/6;
-Hebben goedgevonden en verstaan:    
+Hebben goedgevonden en verstaan:   
 
-### Artikel  I  
+###Artikel I 
 
-Wijzigt het Besluit opneming buitenlandse kinderen ter adoptie.   
+Wijzigt het Besluit opneming buitenlandse kinderen ter adoptie.
 
-### Artikel  II  
+###Artikel II 
 
-Ten aanzien van aspirant-adoptiefouders die op het tijdstip van inwerkingtreding van dit besluit het voor bedoeld tijdstip geldende bedrag hebben voldaan of aan wie een verzoek tot betaling daarvan reeds is verzonden, blijft [artikel 6, tweede lid](../../../../../../../../../../AMvB/besluit/opneming/buitenlandse/pleegkinderen/BWBR0004582/README.md), zoals dit luidde voor de inwerkingtreding van dit besluit van toepassing.  
+Ten aanzien van aspirant-adoptiefouders die op het tijdstip van inwerkingtreding van dit besluit het voor bedoeld tijdstip geldende bedrag hebben voldaan of aan wie een verzoek tot betaling daarvan reeds is verzonden, blijft [artikel 6, tweede lid](../../../../../../../../../../AMvB/besluit/opneming/buitenlandse/pleegkinderen/BWBR0004582/README.md), zoals dit luidde voor de inwerkingtreding van dit besluit van toepassing.
 
 ### Artikel  III  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

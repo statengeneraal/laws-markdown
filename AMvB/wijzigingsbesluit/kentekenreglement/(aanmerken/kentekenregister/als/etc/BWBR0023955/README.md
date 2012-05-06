@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Kentekenreglement.   
+Wijzigt het Kentekenreglement. 
 
 ### Artikel  II  
 
-Na inwerkingtreding van dit besluit berusten de aanwijzingsbeschikkingen voor beroepsbeoefenaren op [artikel 9, eerste lid, onderdeel a, van het Kentekenreglement](../../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md).  
+Na inwerkingtreding van dit besluit berusten de aanwijzingsbeschikkingen voor beroepsbeoefenaren op [artikel 9, eerste lid, onderdeel a, van het Kentekenreglement](../../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md). 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

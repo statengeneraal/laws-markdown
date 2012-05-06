@@ -11,51 +11,51 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet op het financieel toezicht.   
+Wijzigt de Wet op het financieel toezicht. 
 
 ### Artikel  II  
 
-Wijzigt het Burgerlijk Wetboek Boek 2.   
+Wijzigt het Burgerlijk Wetboek Boek 2.
 
 ### Artikel  III  
 
-[Artikel 359b lid 1, onderdeel c en d, van boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is niet van toepassing op overeenkomsten tussen aandeelhouders die zijn gesloten voor 20 mei 2004.  
+[Artikel 359b lid 1, onderdeel c en d, van boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is niet van toepassing op overeenkomsten tussen aandeelhouders die zijn gesloten voor 20 mei 2004.
 
 ### Artikel  IV  
 
-Indien een doelvennootschap zetel heeft in een andere lidstaat en de door haar uitgegeven effecten voor 20 mei 2006 gelijktijdig voor het eerst zijn toegelaten tot de handel op zowel een op grond van artikel 22 erkende effectenbeurs als op een in een andere lidstaat gevestigde en van overheidswege toegelaten effectenbeurs welke niet is gelegen in de lidstaat waar de doelvennootschap haar zetel heeft, komt Onze Minister uiterlijk 17 juni 2006 met de toezichthoudende autoriteit in die lidstaat overeen of Onze Minister dan wel die toezichthoudende autoriteit bevoegd is een biedingsbericht als bedoeld in [artikel 6a, tweede lid, van de Wet toezicht effectenverkeer 1995](../../../../../../wet/wet/toezicht/effectenverkeer/1995/BWBR0007657/README.md) goed te keuren. Onze Minister maakt deze overeenkomst openbaar. Indien Onze Minister en de toezichthoudende autoriteit niet tot overeenstemming komen, maakt de doelvennootschap op de eerste handelsdag volgend op 17 juni 2006 haar keuze voor Onze Minister dan wel voor de toezichthoudende autoriteit ter zake van de goedkeuring van een biedingsbericht openbaar.  
+Indien een doelvennootschap zetel heeft in een andere lidstaat en de door haar uitgegeven effecten voor 20 mei 2006 gelijktijdig voor het eerst zijn toegelaten tot de handel op zowel een op grond van artikel 22 erkende effectenbeurs als op een in een andere lidstaat gevestigde en van overheidswege toegelaten effectenbeurs welke niet is gelegen in de lidstaat waar de doelvennootschap haar zetel heeft, komt Onze Minister uiterlijk 17 juni 2006 met de toezichthoudende autoriteit in die lidstaat overeen of Onze Minister dan wel die toezichthoudende autoriteit bevoegd is een biedingsbericht als bedoeld in [artikel 6a, tweede lid, van de Wet toezicht effectenverkeer 1995](../../../../../../wet/wet/toezicht/effectenverkeer/1995/BWBR0007657/README.md) goed te keuren. Onze Minister maakt deze overeenkomst openbaar. Indien Onze Minister en de toezichthoudende autoriteit niet tot overeenstemming komen, maakt de doelvennootschap op de eerste handelsdag volgend op 17 juni 2006 haar keuze voor Onze Minister dan wel voor de toezichthoudende autoriteit ter zake van de goedkeuring van een biedingsbericht openbaar.
 
 ### Artikel  V  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten. 
 
 ### Artikel  VI  
 
-Wijzigt de Wet op het financieel toezicht.   
+Wijzigt de Wet op het financieel toezicht. 
 
 ### Artikel  VII  
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  VIIa  
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  VIIb  
 
-Wijzigt deze wet.   
+Wijzigt deze wet. 
 
 ### Artikel  VIII  
 
-Indien Onze Minister op grond van [artikel 7:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) de nummering van die wet opnieuw heeft vastgesteld, brengt hij voor de plaatsing van deze wet in het Staatsblad de in deze wet voorkomende aanhalingen van artikelen van de [Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in overeenstemming met de nieuwe nummering.  
+Indien Onze Minister op grond van [artikel 7:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) de nummering van die wet opnieuw heeft vastgesteld, brengt hij voor de plaatsing van deze wet in het Staatsblad de in deze wet voorkomende aanhalingen van artikelen van de [Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in overeenstemming met de nieuwe nummering. 
 
-### Artikel  VIIIa  
+###Artikel VIIIa 
 
-Wijzigt de Wet toezicht effectenverkeer 1995.   
+Wijzigt de Wet toezicht effectenverkeer 1995.
 
 ### Artikel  IX  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -69,7 +69,7 @@ E. M. H. Hirsch Ballin
 De Minister van Financiën , 
 W. J. Bos   
 
-De Minister van Economische Zaken , 
+De Minister van Economische Zaken ,  
 M. J. A. van der Hoeven   
 
 De Minister van Sociale Zaken en Werkgelegenheid , 

@@ -22,21 +22,21 @@ d. [artikel 7, onderdeel c, van de Wet capaciteitsbeheersing binnenvaartvloot](.
 
 e. [artikel 11, eerste lid, van de Wet vaartijden en bemanningssterkte binnenvaart](../../../../../../../../../wet/wet/vaartijden/en/bemanningssterkte/binnenvaart/BWBR0006029/README.md),  
 
-f. [artikel 87, eerste lid, van de Wet personenvervoer 2000](../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), met uitzondering van het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 12 tot en met 14](../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [hoofdstuk II van de Wet personenvervoer 2000](../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) voorzover dit betrekking heeft op concessies door de Minister van Verkeer en Waterstaat verleend voor openbaar vervoer per trein.    
+f. [artikel 87, eerste lid, van de Wet personenvervoer 2000](../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), met uitzondering van het toezicht op de naleving van het bepaalde bij of krachtens de [artikelen 12 tot en met 14](../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [hoofdstuk II van de Wet personenvervoer 2000](../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) voorzover dit betrekking heeft op concessies door de Minister van Verkeer en Waterstaat verleend voor openbaar vervoer per trein.   
 
 ### Artikel  2  
 
-Het [Besluit aanwijzing toezichthouders en opsporingsambtenaren divisie Vervoer Inspectie Verkeer en Waterstaat 2002](../../../../../../../../../ministeriele-regeling/besluit/aanwijzing/toezichthouders/en/opsporingsambtenaren/divisie/vervoer/etc/BWBR0013814/README.md) wordt ingetrokken.  
+Het [Besluit aanwijzing toezichthouders en opsporingsambtenaren divisie Vervoer Inspectie Verkeer en Waterstaat 2002](../../../../../../../../../ministeriele-regeling/besluit/aanwijzing/toezichthouders/en/opsporingsambtenaren/divisie/vervoer/etc/BWBR0013814/README.md) wordt ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 ### Artikel  4  
 
-Dit Besluit wordt aangehaald als: Besluit aanwijzing toezichthouders en opsporingsambtenaren Inspectie Verkeer en Waterstaat op het gebied van de vervoerswetgeving.  
+Dit Besluit wordt aangehaald als: Besluit aanwijzing toezichthouders en opsporingsambtenaren Inspectie Verkeer en Waterstaat op het gebied van de vervoerswetgeving. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-K.M.H.Peijs   
+K.M.H. Peijs     

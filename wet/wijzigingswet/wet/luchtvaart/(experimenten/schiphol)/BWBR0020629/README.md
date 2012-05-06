@@ -11,15 +11,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet Luchtvaart.   
+Wijzigt de Wet Luchtvaart. 
 
 ### Artikel  IA  
 
-Onze Minister van Verkeer en Waterstaat zendt binnen 5 jaar na de inwerkingtreding van deze wet, en vervolgens telkens na 10 jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Minister van Verkeer en Waterstaat zendt binnen 5 jaar na de inwerkingtreding van deze wet, en vervolgens telkens na 10 jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### Artikel  II  
 
-Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst.  
+Deze wet treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin zij wordt geplaatst. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
@@ -27,10 +27,10 @@ Gegeven te ’s-Gravenhage
 22 november 2006  
 Beatrix  
 
-De Minister van Verkeer en Waterstaat , 
+De Minister van Verkeer en Waterstaat ,  
 K. M. H. Peijs   
 
-De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer , 
+De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer ,  
 P. L. B. A. van Geel   
 
 de *twaalfde* december 2006 

@@ -6,9 +6,9 @@
 
 In dit besluit wordt verstaan onder: 
 
-1. *Onze Minister:* De minister van Landbouw, Natuur en Voedselkwaliteit  
+1.  *Onze Minister:* De minister van Landbouw, Natuur en Voedselkwaliteit  
 
-2. *Vergunninghouder:* de vergunninghouder bedoeld in [artikel 2 van de Visserijwet BES](../../../../wet-BES/visserijwet/bes/BWBR0028168/README.md).    
+2.  *Vergunninghouder:* de vergunninghouder bedoeld in [artikel 2 van de Visserijwet BES](../../../../wet-BES/visserijwet/bes/BWBR0028168/README.md).   
 
 ### Artikel  2  
 
@@ -27,7 +27,7 @@ e. ontplofbare stoffen;
 f. aas bestaande uit vlees van zeezoogdieren;  
 
 g. kieuwnetten met een lengte van meer dan 2,5 km.     
-2.  Onze Minister kan nadere regels stellen aan het gebruik van vistuigen waarmee het is toegestaan te vissen.   
+2.  Onze Minister kan nadere regels stellen aan het gebruik van vistuigen waarmee het is toegestaan te vissen.  
 
 ### Artikel  3  
 
@@ -52,7 +52,7 @@ a. zij zich in het vervellingsstadium bevinden;
 
 b. zij eieren bij zich dragen.     
 3.  Het is verboden eierdragende kreeften van de in het eerste lid, onderdeel d, genoemde soort van hun eieren te ontdoen.   
-4.  Onze minister kan nadere regels stellen aan de visserij op soorten waarop het is toegestaan te vissen.   
+4.  Onze minister kan nadere regels stellen aan de visserij op soorten waarop het is toegestaan te vissen.  
 
 ### Artikel  3a  
 
@@ -60,12 +60,12 @@ b. zij eieren bij zich dragen.
 2.  De voorzitter wordt benoemd en kan ontslagen worden door onze Minister. leder openbaar lichaam benoemt een lid. Het openbaar lichaam dat een lid heeft benoemd kan dit lid ontslaan. Een zodanig lid handelt in overeenstemming met het standpunt van het bestuurscollege van het desbetreffende openbaar lichaam.   
 3.  Aan de Visserijcommissie BES wordt een secretaris toegevoegd, die door onze Minister wordt benoemd en ontslagen.   
 4.  De leden en de secretaris van de Visserijcommissie BES ontvangen een vergoeding welke door onze Minister wordt vastgesteld. De uitgaven die hieruit voortvloeien komen ten laste van de Staat.   
-5.  Onze Minister stelt nadere regels met betrekking tot de taken, de werkwijze van de Visserijcommissie BES en de vergoeding voor de leden van de Visserijcommissie BES.   
+5.  Onze Minister stelt nadere regels met betrekking tot de taken, de werkwijze van de Visserijcommissie BES en de vergoeding voor de leden van de Visserijcommissie BES.  
 
 ### Artikel  4  
 
 1.  De vergunninghouder houdt een verslag van de visactiviteiten bij, dat informatie omtrent het visgebied, de visserij-inspanning, de gevangen soorten en de gebruikte vismethoden omvat. De modellen voor het bedoelde verslag worden door de Visserijcommissie, bedoeld in [artikel 13 van de Visserijwet BES](../../../../wet-BES/visserijwet/bes/BWBR0028168/README.md), vastgesteld en kosteloos aan de betrokkenen ter beschikking gesteld. Een afschrift van dit verslag wordt binnen 45 dagen na de beëindiging van de vistocht waar het verslag betrekking op heeft aan de Visserijcommissie gezonden. Het verslag kan zonodig ook door de Visserijcommissie opgevraagd worden.   
-2.  Onze Minister kan nadere regels stellen met betrekking tot het in het eerste lid bedoelde verslag van de visserijactiviteiten.   
+2.  Onze Minister kan nadere regels stellen met betrekking tot het in het eerste lid bedoelde verslag van de visserijactiviteiten.  
 
 ### Artikel  5  
 
@@ -117,17 +117,17 @@ ii. met een schip van 800 B.R.T. tot 1 000 B.R.T.: USD 15.083,80 per jaar,
 
 iii. met een schip groter dan 1000 B.R.T.: USD 20.111,73 per jaar.       
 2.  Onder een jaar wordt verstaan een periode van 12 maanden.   
-3.  De inning van het recht, bedoeld in het eerste lid, geschiedt door middel van storting van het verschuldigde op een door het Ministerie van Financiën aangehouden bankrekening.   
+3.  De inning van het recht, bedoeld in het eerste lid, geschiedt door middel van storting van het verschuldigde op een door het Ministerie van Financiën aangehouden bankrekening.  
 
 ### Artikel  6  
 
 2.  Voor het visgebied van de Saba bank kunnen vergunningen die het gebruik van de vismethoden genoemd in artikel 5, eerste lid, onderdelen a en b, in zich verenigen, worden afgegeven aan de natuurlijke personen en rechtspersonen bedoeld in artikel 6, eerste lid, van de landsverordening. Voor deze vergunningen zullen de tarieven en het bepaalde in artikel 5 eerste lid, onderdeel a, van toepassing zijn.   
-3.  Voor het visgebied rond Curaçao en Bonaire kunnen vergunningen die het gebruik van de vismethoden genoemd in artikel 5, eerste lid, onderdelen a en b, in zich verenigen, worden afgegeven. Voor deze vergunningen zullen de tarieven en het bepaalde in artikel 5, eerste lid, onderdeel a, van toepassing zijn.   
+3.  Voor het visgebied rond Curaçao en Bonaire kunnen vergunningen die het gebruik van de vismethoden genoemd in artikel 5, eerste lid, onderdelen a en b, in zich verenigen, worden afgegeven. Voor deze vergunningen zullen de tarieven en het bepaalde in artikel 5, eerste lid, onderdeel a, van toepassing zijn.  
 
 ### Artikel  7  
 
-Dit besluit berust op de [artikelen 3](../../../../wet-BES/visserijwet/bes/BWBR0028168/README.md) een [12 van de Visserijwet BES](../../../../wet-BES/visserijwet/bes/BWBR0028168/README.md).  
+Dit besluit berust op de [artikelen 3](../../../../wet-BES/visserijwet/bes/BWBR0028168/README.md) een [12 van de Visserijwet BES](../../../../wet-BES/visserijwet/bes/BWBR0028168/README.md). 
 
 ### Artikel  8  
 
-Dit besluit wordt aangehaald als: Visserijbesluit BES.  
+Dit besluit wordt aangehaald als: Visserijbesluit BES. 

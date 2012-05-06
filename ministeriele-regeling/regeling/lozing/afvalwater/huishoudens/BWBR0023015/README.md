@@ -14,11 +14,11 @@ a. met een nominale inhoud van ten minste 6 kubieke meter,
 
 b. die voldoet aan NEN-EN 12566-1, en  
 
-c. met een hydraulisch rendement van ten hoogste 10 gram, bepaald overeenkomstig annex B van NEN-EN 12566-1.    
+c. met een hydraulisch rendement van ten hoogste 10 gram, bepaald overeenkomstig annex B van NEN-EN 12566-1.   
 
 ### Artikel  2  
 
-Een zuiveringsvoorziening is goed toegankelijk, en wordt zo vaak als voor de goede werking daarvan nodig is onderhouden.  
+Een zuiveringsvoorziening is goed toegankelijk, en wordt zo vaak als voor de goede werking daarvan nodig is onderhouden. 
 
 ### Artikel  3  
 
@@ -28,7 +28,7 @@ a. het vanuit de zuiveringsvoorziening geloosde water in de infiltratievoorzieni
 
 b. de infiltratievoorziening geen hinder veroorzaakt, en  
 
-c. nadelige gevolgen voor de volksgezondheid worden voorkomen.    
+c. nadelige gevolgen voor de volksgezondheid worden voorkomen.   
 
 ### Artikel  4  
 
@@ -48,33 +48,33 @@ f. de doorstroomopeningen in scheidingswanden tussen de compartimenten van de se
 
 1°. doorvoer van bodemslib en drijflagen wordt voorkomen;  
 
-2°. de gezamenlijke oppervlakte van de doorstroomopeningen per scheidingswand ten minste 100 vierkante centimeter en ten hoogste 400 vierkante centimeter bedraagt;  
+2°.  de gezamenlijke oppervlakte van de doorstroomopeningen per scheidingswand ten minste 100 vierkante centimeter en ten hoogste 400 vierkante centimeter bedraagt;  
 
-3°. de bovenkant van de doorstroomopeningen ten minste 30 centimeter onder het waterniveau ligt; en  
+3°. de bovenkant van de doorstroomopeningen ten minste 30 centimeter onder het waterniveau ligt; en   
 
-4°. de onderkant van de doorstroomopeningen hoger ligt dan de helft van de waterhoogte gemeten vanaf de bodem van de septic tank    
+4°. de onderkant van de doorstroomopeningen hoger ligt dan de helft van de waterhoogte gemeten vanaf de bodem van de septic tank     
 
-g. de afvoeropening van een septic tank voorzien is van een duikschot of een T-stuk, zodat afvoer van bodemslib of drijflagen wordt voorkomen, en  
+g. de afvoeropening van een septic tank voorzien is van een duikschot of een T-stuk, zodat afvoer van bodemslib of drijflagen wordt voorkomen, en   
 
-h. de waterhoogte in een septic tank ten minste 1,2 meter bedraagt en ten hoogste bedraagt: 
+h. de waterhoogte in een septic tank ten minste 1,2 meter bedraagt en ten hoogste bedraagt:  
 
 1°. 2,2 meter bij een inhoud van ten hoogste 10 kubieke meter;  
 
 2°. 2,5 meter bij een inhoud van meer dan 10 kubieke meter.       
 2.  Indien afzonderlijke septic tanks als bedoeld in het eerste lid parallel zijn geschakeld, bedraagt de gezamenlijke nominale inhoud tenminste 6 kubieke meter en voldoet iedere tank afzonderlijk aan de voorschriften genoemd in het eerste lid, onder a tot en met h.   
-3.  Opdeling van de septic tank als bedoeld in het eerste lid in afzonderlijke in serie geschakelde tanks is toegestaan, mits de nominale inhoud van één compartiment niet over verschillende tanks is verdeeld. De afzonderlijke septic tanks gelden tezamen als één septic tank.   
+3.  Opdeling van de septic tank als bedoeld in het eerste lid in afzonderlijke in serie geschakelde tanks is toegestaan, mits de nominale inhoud van één compartiment niet over verschillende tanks is verdeeld. De afzonderlijke septic tanks gelden tezamen als één septic tank.  
 
 ### Artikel  5  
 
-Met zuiveringsvoorzieningen en infiltratievoorzieningen als bedoeld in deze regeling worden gelijkgesteld zuiveringsvoorzieningen en infiltratievoorzieningen die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd of in de handel zijn gebracht in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd.  
+Met zuiveringsvoorzieningen en infiltratievoorzieningen als bedoeld in deze regeling worden gelijkgesteld zuiveringsvoorzieningen en infiltratievoorzieningen die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie dan wel rechtmatig zijn vervaardigd of in de handel zijn gebracht in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, en die voldoen aan eisen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd. 
 
 ### Artikel  6  
 
-Deze regeling treedt in werking met ingang van 1 januari 2008.  
+Deze regeling treedt in werking met ingang van 1 januari 2008. 
 
 ### Artikel  7  
 
-Deze regeling wordt aangehaald als: Regeling lozing afvalwater huishoudens.  
+Deze regeling wordt aangehaald als: Regeling lozing afvalwater huishoudens. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -82,8 +82,8 @@ Den Haag
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J.M.Cramer 
+J.M. Cramer   
 
 De 
 Staatssecretaris van Verkeer en Waterstaat, 
-J.C.Huizinga-Heringa   
+J.C. Huizinga-Heringa     

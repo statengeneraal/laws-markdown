@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Subsidieregeling internationaal excelleren.   
+Wijzigt de Subsidieregeling internationaal excelleren. 
 
 ### Artikel  II  
 
@@ -19,12 +19,12 @@ Wijzigt de Subsidieregeling internationaal excelleren.
 
 2e de afnemer de in Nederland gevestigde ondernemer die de order afsluit machtigt om ter zake van de subsidie als zijn vertegenwoordiger op te treden en  
 
-3e de in Nederland gevestigde ondernemer die de order afsluit zich jegens de minister naast de subsidie-ontvanger hoofdelijk aansprakelijk stelt voor de nakoming door deze laatste van zijn verplichtingen voortvloeiend uit de subsidierelatie.     
+3e de in Nederland gevestigde ondernemer die de order afsluit zich jegens de minister naast de subsidie-ontvanger hoofdelijk aansprakelijk stelt voor de nakoming door deze laatste van zijn verplichtingen voortvloeiend uit de subsidierelatie.    
 Deze regeling wordt met de toelichting en de bijlage in de Staatscourant geplaatst.   
 
 Den Haag 
 27 mei 2010   
 
 De 
-Minister van Economische Zaken,
-M.J.A. van derHoeven   
+Minister van Economische Zaken, 
+M.J.A. van der Hoeven     

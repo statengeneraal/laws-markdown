@@ -4,7 +4,7 @@
 
 De Minister van Economische Zaken,  
 Gelet op [artikel 1 van het Vacatiegeldenbesluit 1988](../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -14,7 +14,7 @@ Besluit:
 ### Artikel  2  
 
 1.  De andere leden van de Tcbb ontvangen voor het bijwonen van een vergadering een vergoeding van € 124,79.   
-2.  Voor werkzaamheden in het kader van de commissie, anders dan het bijwonen van een vergadering, ontvangen de leden een vergoeding, die wordt berekend op basis van een uurtarief dat is gebaseerd op salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), waarbij voor commissievergaderingen een voorbereidingstijd van 6 uur per vergadering wordt gerekend.   
+2.  Voor werkzaamheden in het kader van de commissie, anders dan het bijwonen van een vergadering, ontvangen de leden een vergoeding, die wordt berekend op basis van een uurtarief dat is gebaseerd op salarisschaal 18 van [bijlage B van het Bezoldigingsbesluit burgerlijke rijksambtenaren 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), waarbij voor commissievergaderingen een voorbereidingstijd van 6 uur per vergadering wordt gerekend.  
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 `s-Gravenhage 
@@ -25,5 +25,5 @@ Minister van Economische Zaken,
 
 namens deze: 
 
-G.J.Lankhorst, 
+G.J.  Lankhorst , 
 wnd. directeur-generaal voor Marktordening en Energie    

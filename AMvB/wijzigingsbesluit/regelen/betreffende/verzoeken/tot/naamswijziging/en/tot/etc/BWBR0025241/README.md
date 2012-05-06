@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt de Regelen betreffende verzoeken tot naamswijziging en tot naamsvaststelling.   
+Wijzigt de Regelen betreffende verzoeken tot naamswijziging en tot naamsvaststelling. 
 
 ### Artikel  II  
 
-Op verzoeken tot wijziging van de geslachtsnaam die op de dag van inwerkingtreding van dit besluit in behandeling zijn, is het recht verschuldigd volgens het tot dan geldende tarief.  
+Op verzoeken tot wijziging van de geslachtsnaam die op de dag van inwerkingtreding van dit besluit in behandeling zijn, is het recht verschuldigd volgens het tot dan geldende tarief. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

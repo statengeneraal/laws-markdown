@@ -10,21 +10,21 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt het Instellingsbesluit Regieraad voor de Bouw.   
+Wijzigt het Instellingsbesluit Regieraad voor de Bouw. 
 
 ### Artikel  II  
 
-Te rekenen vanaf 1 september 2007 wordt voor de periode tot 1 maart 2010 tot adviserend lid van de Regieraad voor de Bouw benoemd: mevrouw mr. R.M. Bergkamp, te Heemstede.  
+Te rekenen vanaf 1 september 2007 wordt voor de periode tot 1 maart 2010 tot adviserend lid van de Regieraad voor de Bouw benoemd: mevrouw mr. R.M. Bergkamp, te Heemstede. 
 
 ### Artikel  III  
 
-Te rekenen vanaf 1 april 2007 wordt eervol ontslagen als adviserend lid van de Regieraad voor de Bouw: de heer drs. Chr.P. Buijink, te Amsterdam.  
+Te rekenen vanaf 1 april 2007 wordt eervol ontslagen als adviserend lid van de Regieraad voor de Bouw: de heer drs. Chr.P. Buijink, te Amsterdam. 
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift worden gezonden aan betrokkenen en aan de Regieraad voor de Bouw.  
 
 De 
 Minister van Economische Zaken, 
-M.J.A. van derHoeven   
+M.J.A. van der Hoeven     

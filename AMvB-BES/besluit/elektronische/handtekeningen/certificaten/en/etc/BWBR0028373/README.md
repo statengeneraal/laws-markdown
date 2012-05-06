@@ -16,7 +16,7 @@ b. zij kan te allen tijde worden geverifieerd;
 
 c. zeggenschap erover berust met uitsluiting van anderen bij de persoon die zich ervan bedient;  
 
-d. zij is zodanig aan elektronische gegevens gekoppeld dat indien deze gegevens worden gewijzigd, de elektronische handtekening ongeldig wordt.    
+d. zij is zodanig aan elektronische gegevens gekoppeld dat indien deze gegevens worden gewijzigd, de elektronische handtekening ongeldig wordt.   
 
 ### Artikel  2  
 
@@ -31,7 +31,7 @@ a. Gewaarborgd is ten minste dat via passende technieken en procedures:
 3° de gegevens voor het aanmaken van handtekeningen door de legitieme ondertekenaar op betrouwbare wijze kunnen worden beschermd tegen gebruik door anderen.    
 
 b. De te ondertekenen gegevens mogen niet worden gewijzigd en niet mag worden belet dat deze gegevens vóór de ondertekening aan de ondertekenaar worden voorgelegd.     
-2.  Voordat tot de aanmaak van een elektronische handtekening wordt overgegaan, wordt de ondertekenaar adequaat voorgelicht over de risico’s die aan de gekozen techniek zijn verbonden, zulks mede in vergelijking tot andere technieken.   
+2.  Voordat tot de aanmaak van een elektronische handtekening wordt overgegaan, wordt de ondertekenaar adequaat voorgelicht over de risico’s die aan de gekozen techniek zijn verbonden, zulks mede in vergelijking tot andere technieken.  
 
 ### Artikel  3  
 
@@ -49,7 +49,7 @@ e. het resultaat van de verificatie en de identiteit van de ondertekenaar correc
 
 f. het gebruik van een pseudoniem duidelijk wordt aangegeven;  
 
-g. elke wijziging die invloed heeft op de beveiliging kan worden opgespoord.    
+g. elke wijziging die invloed heeft op de beveiliging kan worden opgespoord.   
 
 ### §  2  
 
@@ -62,7 +62,7 @@ g. elke wijziging die invloed heeft op de beveiliging kan worden opgespoord.
 3.  De erkenning wordt verleend indien wordt voldaan aan de in artikel 5 opgenomen eisen.   
 4.  Een erkenning kan worden doorgehaald op verzoek van de erkende dan wel indien niet lager wordt voldaan aan de in artikel 5 gestelde eisen.   
 5.  Een erkenning wordt niet eerder doorgehaald dan na de erkende gedurende een periode van ten hoogste twee weken in staat te hebben gesteld alsnog aan de in artikel 5 gestelde eisen te voldoen.   
-6.  Onze Minister van Economische Zaken houdt een register bij waarin alle erkenningen en doorhalingen van erkenningen zijn opgenomen. Een ieder heeft kosteloos inzage in het register.   
+6.  Onze Minister van Economische Zaken houdt een register bij waarin alle erkenningen en doorhalingen van erkenningen zijn opgenomen. Een ieder heeft kosteloos inzage in het register.  
 
 ### Artikel  5  
 
@@ -102,11 +102,11 @@ n. zij maken gebruik van betrouwbare systemen voor de opslag van certificaten in
 
 3° de certificaten uitsluitend publiekelijk beschikbaar zijn in die gevallen waarvoor de certificaathouder toestemming heeft gegeven; en  
 
-4° elke technische wijziging die de bovengenoemde beveiligingsvoorschriften in gevaar kan brengen, voor de gebruiker duidelijk is.      
+4° elke technische wijziging die de bovengenoemde beveiligingsvoorschriften in gevaar kan brengen, voor de gebruiker duidelijk is.     
 
 ### Artikel  5a  
 
-Dit besluit berust op [artikel 7, derde lid, Wet overeenkomsten langs elektronische weg BES](../../../../../../../../wet-BES/wet/overeenkomsten/langs/elektronische/weg/bes/BWBR0028237/README.md).  
+Dit besluit berust op [artikel 7, derde lid, Wet overeenkomsten langs elektronische weg BES](../../../../../../../../wet-BES/wet/overeenkomsten/langs/elektronische/weg/bes/BWBR0028237/README.md). 
 
 ### §  3  
 
@@ -131,8 +131,8 @@ f. de identiteitscode van het certificaat;
 g. de geavanceerde elektronische handtekening van de afgevende certificatie-dienstverlener;  
 
 h. voor zover van toepassing: beperkingen betreffende het gebruik van het certificaat, waaronder mogelijke begrenzing van de waarde die is gemoeid met de overeenkomsten waarvoor het certificaat kan worden gebruikt.     
-2.  Op een gemotiveerd verzoek van een certificatiedienstverlener kan Onze Minister van Economische Zaken hem ter zake van één of meer van de in het eerste lid voorgeschreven vermeldingen ontheffing verlenen. Aan een dergelijke ontheffing kunnen voorwaarden worden verbonden en een zodanig ontheffing kan onder beperkingen worden verleend.   
+2.  Op een gemotiveerd verzoek van een certificatiedienstverlener kan Onze Minister van Economische Zaken hem ter zake van één of meer van de in het eerste lid voorgeschreven vermeldingen ontheffing verlenen. Aan een dergelijke ontheffing kunnen voorwaarden worden verbonden en een zodanig ontheffing kan onder beperkingen worden verleend.  
 
 ### Artikel  7  
 
-Dit besluit wordt aangehaald als: Besluit elektronische handtekeningen, certificaten en certificatiedienstverleners BES.  
+Dit besluit wordt aangehaald als: Besluit elektronische handtekeningen, certificaten en certificatiedienstverleners BES. 

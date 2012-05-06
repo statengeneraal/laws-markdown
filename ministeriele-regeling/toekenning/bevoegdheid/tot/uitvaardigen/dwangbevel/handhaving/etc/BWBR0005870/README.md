@@ -8,11 +8,11 @@ Besluit:
 
 ### I  
 
-De officier van justitie in het arrondissement Leeuwarden aan te wijzen als de officier van justitie, bevoegd tot het uitvaardigen in het gehele land van het dwangbevel, bedoeld in [artikel 26, tweede lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../../../../../../wet/wet/mulder/BWBR0004581/README.md) (Stb. 1990, 435).  
+De officier van justitie in het arrondissement Leeuwarden aan te wijzen als de officier van justitie, bevoegd tot het uitvaardigen in het gehele land van het dwangbevel, bedoeld in [artikel 26, tweede lid, van de Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../../../../../../wet/wet/mulder/BWBR0004581/README.md) (Stb. 1990, 435). 
 
 ### II  
 
-Deze beschikking wordt gepubliceerd in de Staatscourant en treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze beschikking wordt gepubliceerd in de Staatscourant en treedt in werking op de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 
 's-Gravenhage 
 05-02-1993    
@@ -25,4 +25,4 @@ Minister,
 
 De 
 secretaris-generaal, 
-G. J. vanDinter    
+G. J. vanDinter     

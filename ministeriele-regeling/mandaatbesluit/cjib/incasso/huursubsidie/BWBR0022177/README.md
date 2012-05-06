@@ -12,41 +12,41 @@ Aan de algemeen directeur van het Centraal Justitieel Incasso Bureau wordt manda
 
 a. het nemen van besluiten met betrekking tot de uitvoering van [artikel 37 van de Huursubsidiewet](../../../../../../wet/huursubsidiewet/BWBR0008659/README.md), voorzover [dit artikel](../../../../../../wet/huursubsidiewet/BWBR0008659/README.md) van toepassing is op grond van [artikel I. Overgangsrecht Huursubsidiewet, zesde lid van Hoofdstuk 2. Overgangs-en slotbepalingen, Aanpassingswet Awir](../../../../../../wet/aanpassingswet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018471/README.md);  
 
-b. het beslissen op bezwaarschriften tegen besluiten als bedoeld in onderdeel a, voorzover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen.    
+b. het beslissen op bezwaarschriften tegen besluiten als bedoeld in onderdeel a, voorzover het besluit waartegen het bezwaar zich richt, niet door hem in mandaat is genomen.   
 
 ### Artikel  2  
 
-Aan de algemeen directeur van het Centraal Justitieel Incasso Bureau wordt: 
+Aan de algemeen directeur van het Centraal Justitieel Incasso Bureau wordt:
 
 a. volmacht verleend tot het verrichten van privaatrechtelijke rechtshandelingen;  
 
 b. machtiging verleend tot het verrichten van alle benodigde werkzaamheden ter voorbereiding en ter uitvoering van de besluiten als bedoeld in artikel 1;  
 
-c. machtiging verleend tot het voeren van beroepsprocedures over besluiten als bedoeld in artikel 1.    
+c. machtiging verleend tot het voeren van beroepsprocedures over besluiten als bedoeld in artikel 1.   
 
 ### Artikel  3  
 
-De algemeen directeur van het Centraal Justitieel Incasso Bureau kan met betrekking tot zijn bevoegheden, bedoeld in de artikelen 1 en 2 ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende functionarissen.  
+De algemeen directeur van het Centraal Justitieel Incasso Bureau kan met betrekking tot zijn bevoegheden, bedoeld in de artikelen 1 en 2 ondermandaat, volmacht en machtiging verlenen aan één of meer onder hem ressorterende functionarissen. 
 
 ### Artikel  4  
 
-De in de artikelen 1 tot en met 3 bedoelde functionarissen van het Centraal Justitieel Incasso Bureau oefenen de bij dit besluit verleende bevoegdheden uit met inachtneming van de instructie opgenomen in de van dit besluit deel uitmakende bijlage.  
+De in de artikelen 1 tot en met 3 bedoelde functionarissen van het Centraal Justitieel Incasso Bureau oefenen de bij dit besluit verleende bevoegdheden uit met inachtneming van de instructie opgenomen in de van dit besluit deel uitmakende bijlage. 
 
 ### Artikel  5  
 
-Indien uitvoering wordt gegeven aan de artikelen 1 en 2 luidt de ondertekening: De Minister voor Wonen, Wijken en Integratie, voor deze: de algemeen directeur van het het Centraal Justitieel Incasso Bureau, (gevolgd door de handtekening en naam)  
+Indien uitvoering wordt gegeven aan de artikelen 1 en 2 luidt de ondertekening: De Minister voor Wonen, Wijken en Integratie, voor deze: de algemeen directeur van het het Centraal Justitieel Incasso Bureau, (gevolgd door de handtekening en naam) 
 
 ### Artikel  6  
 
-Indien uitvoering wordt gegeven aan artikel 3 luidt de ondertekening door de ondergemandateerde, gemachtigde en gevolmachtigde: De Minister voor Wonen, Wijken en Integratie, voor deze: de algemeen directeur van het Centraal Justitieel Incasso Bureau, op last: (gevolgd door de functieaanduiding, de handtekening en de naam van de betrokken functionaris waaraan ondermandaat is verleend)  
+Indien uitvoering wordt gegeven aan artikel 3 luidt de ondertekening door de ondergemandateerde, gemachtigde en gevolmachtigde: De Minister voor Wonen, Wijken en Integratie, voor deze: de algemeen directeur van het Centraal Justitieel Incasso Bureau, op last: (gevolgd door de functieaanduiding, de handtekening en de naam van de betrokken functionaris waaraan ondermandaat is verleend) 
 
 ### Artikel  7  
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 ### Artikel  8  
 
-Dit besluit wordt aangehaald als: Mandaatbesluit CJIB Incasso Huursubsidie.  
+Dit besluit wordt aangehaald als: Mandaatbesluit CJIB Incasso Huursubsidie. 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -54,9 +54,9 @@ Den Haag
 
 De 
 Minister voor Wonen, Wijken en Integratie, 
-C.P.Vogelaar  
+C.P. Vogelaar    
 
-### Bijlage  
+### Bijlage 
 
 ####, als bedoeld in artikel 4 
 
@@ -90,5 +90,5 @@ C.P.Vogelaar
 
 – nadat de wettelijke schuldsanering is afgehandeld en er een schone lei situatie van toepassing is;  
 
-– zaken die via de deurwaarder worden geretourneerd, omdat de schuldenaar geen verhaalsmogelijkheden biedt.   4.10. Overige situaties waarin deze richtlijn niet voorziet worden afgestemd met de Directie Beleidsontwikkeling van Wonen, Wijken en Integratie. 4.11. Samenloop van vorderingen. Wanneer van een schuldenaar over verschillende tijdvakken huursubsidie wordt teruggevorderd, dan worden deze bedragen als er sprake is van een (verzoek tot) betalingsregeling in beginsel bij elkaar opgeteld. 5. Fraudezaken 5.1. Als uit een onderzoek van de Inlichtingen- en Opsporings Dienst (IOD) van VROM is gebleken dat een schuldenaar opzettelijk onjuiste gegevens heeft verstrekt op het aanvraagformulier, dan is er sprake van fraude. De mogelijkheid bestaat om hiervoor onder andere een administratieve boete op te leggen. De vordering op de schuldenaar bestaat dan uit twee componenten te weten een boetedeel en een terugvorderingdeel. 6. Communicatie 6.1. Informatieverstrekking, klachten Het CJIB is voor de schuldenaar de aan te schrijven organisatie. Dit betekent dat algemene vragen, klachten die betrekking hebben op de behandeling van de zaak m.b.t. inning en incasso, verzoeken en klachten betreffende betalingsregelingen enzovoort, in eerste instantie door het CJIB worden beoordeeld en behandeld. Indien gewenst kan het CJIB nadere informatie opvragen bij VROM. 6.2. Telefonische en schriftelijke vragen en/of klachten die specifiek de inhoudelijkheid van de zaak betreffen en geen enkel verband hebben met de door het CJIB gehanteerde procedures, zullen ter verdere behandeling worden doorgezonden aan VROM. In beginsel schorst correspondentie de inning niet. 7. Verantwoordelijkheid VROM houdt te allen tijde de bevoegdheid om de overeengekomen terugvorderingactiviteiten van het CJIB te toetsen aan de geldende afspraken.  
+– zaken die via de deurwaarder worden geretourneerd, omdat de schuldenaar geen verhaalsmogelijkheden biedt.   4.10. Overige situaties waarin deze richtlijn niet voorziet worden afgestemd met de Directie Beleidsontwikkeling van Wonen, Wijken en Integratie. 4.11. Samenloop van vorderingen. Wanneer van een schuldenaar over verschillende tijdvakken huursubsidie wordt teruggevorderd, dan worden deze bedragen als er sprake is van een (verzoek tot) betalingsregeling in beginsel bij elkaar opgeteld. 5. Fraudezaken 5.1. Als uit een onderzoek van de Inlichtingen- en Opsporings Dienst (IOD) van VROM is gebleken dat een schuldenaar opzettelijk onjuiste gegevens heeft verstrekt op het aanvraagformulier, dan is er sprake van fraude. De mogelijkheid bestaat om hiervoor onder andere een administratieve boete op te leggen. De vordering op de schuldenaar bestaat dan uit twee componenten te weten een boetedeel en een terugvorderingdeel. 6. Communicatie 6.1. Informatieverstrekking, klachten Het CJIB is voor de schuldenaar de aan te schrijven organisatie. Dit betekent dat algemene vragen, klachten die betrekking hebben op de behandeling van de zaak m.b.t. inning en incasso, verzoeken en klachten betreffende betalingsregelingen enzovoort, in eerste instantie door het CJIB worden beoordeeld en behandeld. Indien gewenst kan het CJIB nadere informatie opvragen bij VROM. 6.2. Telefonische en schriftelijke vragen en/of klachten die specifiek de inhoudelijkheid van de zaak betreffen en geen enkel verband hebben met de door het CJIB gehanteerde procedures, zullen ter verdere behandeling worden doorgezonden aan VROM. In beginsel schorst correspondentie de inning niet. 7. Verantwoordelijkheid VROM houdt te allen tijde de bevoegdheid om de overeengekomen terugvorderingactiviteiten van het CJIB te toetsen aan de geldende afspraken. 
 

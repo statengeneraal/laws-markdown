@@ -35,13 +35,13 @@ Besluit: De navolgende luchthavens aan te wijzen:
 
 ### Artikel  2  
 
-Dit besluit treedt in werking op het tijdstip waarop de wijziging van [artikel 52, vierde lid, van de Wet wapens en munitie](../../../../../../../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de wijziging van [artikel 52, vierde lid, van de Wet wapens en munitie](../../../../../../../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) in werking treedt. 
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als Regeling aanwijzing luchthavens ex artikel 52, vierde lid van de Wet wapens en munitie.  
+Dit besluit wordt aangehaald als Regeling aanwijzing luchthavens ex artikel 52, vierde lid van de Wet wapens en munitie. 
 Dit besluit wordt in de Staatscourant gepubliceerd.  
 
 De 
-Minister van Justitie,
-E.M.H.Hirsch Ballin   
+Minister van Justitie, 
+E.M.H. Hirsch Ballin     

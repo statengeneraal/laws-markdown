@@ -4,7 +4,7 @@
 
 De Minister van Justitie,  
 Overwegende dat de uitvoering van het kabinetsstandpunt `Handhaven op niveau' een groot aantal werkzaamheden met zich meebrengt die in nauwe samenspraak met de bestuurlijke partners en de handhavende organisaties moeten worden ontplooid en uitgevoerd;
-Besluit:     
+Besluit:      
 
 ####Instelling en taak
 
@@ -16,13 +16,13 @@ Er is een stuurgroep 'Handhaven op niveau', hierna te noemen stuurgroep.
 
 1.  De stuurgroep heeft tot taak: 
 
-a. initiatieven te nemen ter verbetering van de samenwerking en de professionalisering van de handhaving op het terrein van de ordeningswetgeving;  
+a.  initiatieven te nemen ter verbetering van de samenwerking en de professionalisering van de handhaving op het terrein van de ordeningswetgeving; 
 
-b. lopende initiatieven ter verbetering van de samenwerking en de professionalisering van de handhaving op het terrein van de ordeningswetgeving te ondersteunen;  
+b.  lopende initiatieven ter verbetering van de samenwerking en de professionalisering van de handhaving op het terrein van de ordeningswetgeving te ondersteunen; 
 
-c. het ontwikkelen, coördineren en uitvoeren van het actieprogramma 'Handhaven op niveau', met inbegrip van het adviseren omtrent de toekenning van financiële middelen;  
+c.  het ontwikkelen, coördineren en uitvoeren van het actieprogramma 'Handhaven op niveau', met inbegrip van het adviseren omtrent de toekenning van financiële middelen; 
 
-d. te adviseren over aangelegenheden betreffende de handhaving van de ordeningswetgeving, voorzover daarin nog niet is voorzien.     
+d.  te adviseren over aangelegenheden betreffende de handhaving van de ordeningswetgeving, voorzover daarin nog niet is voorzien.    
 2.  De stuurgroep neemt bij haar werkzaamheden tot uitgangspunt het kabinetsstandpunt 'Handhaven op niveau' (1999-2000, 26 800 VI, nr. 67).   
 3.  De Minister van Justitie kan de stuurgroep verzoeken bepaalde onderwerpen bij voorrang te behandelen.   
 
@@ -30,13 +30,13 @@ d. te adviseren over aangelegenheden betreffende de handhaving van de ordeningsw
 
 ### Artikel  3  
 
-In de stuurgroep hebben zitting: 
+In de stuurgroep hebben zitting:
 
-a. als voorzitter, en tevens lid: dr. R.W. Welschen;  
+a. als voorzitter, en tevens lid: dr. R.W. Welschen; 
 
-b. als leden: ir. P.A.E. van Erkelens, voorzitter van het Waterschap Regge en Dinkel; mr. C. Riezenbos, plaatsvervangend directeur Bestuurlijke en Financiële Organisatie van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties; mr. H.J. Haverkamp, directeur Fiscale Inlichtingen- en Opsporingsdienst (FIOD); mevr. drs. A.Th.B. Bijleveld-Schouten, burgemeester van de gemeente Hof van Twente; mr. B. Poelert, korpschef Politie Gelderland-Zuid; mr. S. Tempel, hoofd Advocaat-generaal ressortparket Leeuwarden; mr. J.L. de Wijkerslooth, voorzitter van het College van procureurs-generaal; mevr. prof. mr. C.P.M. Cleiren, hoogleraar strafrecht en strafprocesrecht, Rijksuniversiteit Leiden; prof. mr. drs. F.C.M.A. Michiels, hoogleraar bestuursrecht in het bijzonder omgevingsrecht, Universiteit Utrecht; mr. J. Stam, directeur Handhaving van het Ministerie van Justitie; mr. H.M. Meijdam, lid van het College van Gedeputeerde Staten van de provincie Noord-Holland.  
+b. als leden: ir. P.A.E. van Erkelens, voorzitter van het Waterschap Regge en Dinkel;mr. C. Riezenbos, plaatsvervangend directeur Bestuurlijke en Financiële Organisatie van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties;mr. H.J. Haverkamp, directeur Fiscale Inlichtingen- en Opsporingsdienst (FIOD);mevr. drs. A.Th.B. Bijleveld-Schouten, burgemeester van de gemeente Hof van Twente;mr. B. Poelert, korpschef Politie Gelderland-Zuid;mr. S. Tempel, hoofd Advocaat-generaal ressortparket Leeuwarden;mr. J.L. de Wijkerslooth, voorzitter van het College van procureurs-generaal;mevr. prof. mr. C.P.M. Cleiren, hoogleraar strafrecht en strafprocesrecht, Rijksuniversiteit Leiden;prof. mr. drs. F.C.M.A. Michiels, hoogleraar bestuursrecht in het bijzonder omgevingsrecht, Universiteit Utrecht;mr. J. Stam, directeur Handhaving van het Ministerie van Justitie;mr. H.M. Meijdam, lid van het College van Gedeputeerde Staten van de provincie Noord-Holland. 
 
-c. als secretarissen: drs. M.L. Hagen, directie Handhaving van het Ministerie van Justitie; mevr. ing. E.M. Jägers, directie Handhaving van het Ministerie van Justitie.    
+c. als secretarissen: drs. M.L. Hagen, directie Handhaving van het Ministerie van Justitie;mevr. ing. E.M. Jägers, directie Handhaving van het Ministerie van Justitie.  
 
 ### Artikel  4  
 
@@ -47,7 +47,7 @@ c. als secretarissen: drs. M.L. Hagen, directie Handhaving van het Ministerie va
 
 ### Artikel  5  
 
-De stuurgroep kan ter voorbereiding van haar voorstellen studies door derden doen verrichten. Studieopdrachten behoeven de voorafgaande instemming van de Minister van Justitie.  
+De stuurgroep kan ter voorbereiding van haar voorstellen studies door derden doen verrichten.Studieopdrachten behoeven de voorafgaande instemming van de Minister van Justitie.  
 
 ### Artikel  6  
 
@@ -83,8 +83,8 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 ### Artikel  13  
 
-Dit besluit wordt aangehaald als: Besluit instelling Stuurgroep 'Handhaven op niveau'.  
+Dit besluit wordt aangehaald als: Besluit instelling Stuurgroep 'Handhaven op niveau'. 
 
 De 
 Minister van Justitie, 
-A.H.Korthals    
+A.H. Korthals      

@@ -8,17 +8,17 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling modellen en formulieren ten behoeve van de handhaving Justitie.   
+Wijzigt de Regeling modellen en formulieren ten behoeve van de handhaving Justitie.
 
 ### Artikel  II  
 
-Tot 31 december 2009 kunnen de vóór het tijdstip van inwerkingtreding van deze regeling gebruikte modellen en formulieren nog worden gebruikt.  
+Tot 31 december 2009 kunnen de vóór het tijdstip van inwerkingtreding van deze regeling gebruikte modellen en formulieren nog worden gebruikt. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van de eerste dag na de plaatsing in de Staatscourant. Artikel I, onderdeel B, werkt terug tot en met 1 juli 2009.  
+Deze regeling treedt in werking met ingang van de eerste dag na de plaatsing in de Staatscourant. Artikel I, onderdeel B, werkt terug tot en met 1 juli 2009. 
 Deze regeling zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Justitie, 
-E.M.H.Hirsch Ballin   
+E.M.H. Hirsch Ballin     

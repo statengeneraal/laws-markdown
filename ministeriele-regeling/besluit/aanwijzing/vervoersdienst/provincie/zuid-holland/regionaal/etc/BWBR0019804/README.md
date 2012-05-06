@@ -16,7 +16,7 @@ Besluit:
 |:---|:---|
 | Dordrecht – Geldermalsen  | Dordrecht – Dordrecht Stadspolders – Sliedrecht – Hardinxveld-Giessendam – Gorinchem – Arkel – Leerdam – Beesd – Geldermalsen  |
 
-2.  De in het eerste lid bedoelde bevoegdheid heeft betrekking op het openbaar vervoer per trein na 9 december 2006.   
+2.  De in het eerste lid bedoelde bevoegdheid heeft betrekking op het openbaar vervoer per trein na 9 december 2006.  
 
 ### Artikel  2  
 
@@ -27,13 +27,13 @@ Besluit:
 | Gouda – Alphen aan den Rijn – Leiden  | Gouda – Waddinxveen – Waddinxveen Noord – Boskoop – Alphen aan den Rijn – Leiden Lammenschans – Leiden  |
 
 2.  Het eerste lid laat onverlet de rechten als bedoeld in artikel 2, van de concessie bedoeld in [artikel 69d, tweede lid van de Wet personenvervoer 2000](../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), voor het hoofdrailnet, als bedoeld in [artikel 69b van de Wet personenvervoer 2000](../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) tussen de stations Alphen aan den Rijn en Leiden.   
-3.  De in het eerste lid bedoelde bevoegdheid heeft betrekking op het openbaar vervoer per trein na 9 december 2006.   
+3.  De in het eerste lid bedoelde bevoegdheid heeft betrekking op het openbaar vervoer per trein na 9 december 2006.  
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-K.M.H.Peijs   
+K.M.H. Peijs     

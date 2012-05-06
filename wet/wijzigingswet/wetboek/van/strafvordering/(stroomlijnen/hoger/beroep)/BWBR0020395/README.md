@@ -11,23 +11,23 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt het Wetboek van Strafvordering.   
+Wijzigt het Wetboek van Strafvordering. 
 
 ### Artikel  II  
 
-Wijzigt de Wet op de rechterlijke organisatie.   
+Wijzigt de Wet op de rechterlijke organisatie. 
 
 ### Artikel  III  
 
-Wijzigt de Wet overdracht en tenuitvoerlegging strafvonnissen.   
+Wijzigt de Wet overdracht en tenuitvoerlegging strafvonnissen. 
 
 ### Artikel  IV  
 
-Artikel I, onderdelen C tot en met DD, met uitzondering van onderdeel V, is niet van toepassing in zaken waarin in eerste aanleg vonnis is gewezen vóór het tijdstip van inwerkingtreding van deze wet. Artikel I, onderdeel V, is niet van toepassing in zaken waarin in hoger beroep arrest is gewezen vóór het tijdstip van inwerkingtreding van deze wet.  
+Artikel I, onderdelen C tot en met DD, met uitzondering van onderdeel V, is niet van toepassing in zaken waarin in eerste aanleg vonnis is gewezen vóór het tijdstip van inwerkingtreding van deze wet. Artikel I, onderdeel V, is niet van toepassing in zaken waarin in hoger beroep arrest is gewezen vóór het tijdstip van inwerkingtreding van deze wet. 
 
 ### Artikel  V  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

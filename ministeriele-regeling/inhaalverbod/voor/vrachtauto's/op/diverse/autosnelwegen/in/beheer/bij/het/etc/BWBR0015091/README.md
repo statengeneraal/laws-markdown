@@ -1,17 +1,17 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Verkeersbesluit inhoudende een inhaalverbod voor vrachtauto's op diverse autosnelwegen in beheer bij het Rijk
+##Verkeersbesluit inhoudende een inhaalverbod voor vrachtauto's op diverse autosnelwegen in beheer bij het Rijk 
 
 De Minister van Verkeer en Waterstaat,  
-*Overwegingen ten aanzien van het besluit* 
+*Overwegingen ten aanzien van het besluit *
 
-*Vereiste van besluit* 
+*Vereiste van besluit*
 
 Op grond van het bepaalde in artikel 15, eerste lid, van de Wegenverkeerswet 1994 dient een verkeersbesluit te worden genomen voor de plaatsing of verwijdering van de in artikel 12 van het Besluit administratieve bepalingen inzake het wegverkeer genoemde verkeerstekens, alsmede voor onderborden, voor zover daardoor een gebod of verbod ontstaat of wordt gewijzigd.
 
-Op grond artikel 18, eerste lid, onder a, van de Wegenverkeerswet 1994 ben ik bevoegd dit verkeersbesluit te nemen ten aanzien van wegen in beheer bij het Rijk.
+Op grond artikel 18, eerste lid, onder a, van de Wegenverkeerswet 1994 ben ik bevoegd dit verkeersbesluit te nemen ten aanzien van wegen in beheer bij het Rijk. 
 
-*Belangenafweging en motivering* 
+*Belangenafweging en motivering*
 
 De Rijksoverheid streeft naar behoud en verbetering van de bereikbaarheid van internationale en nationale verbindingen over de weg. Om de bereikbaarheid te verbeteren wordt ondermeer ingezet op het intensiever gebruiken/benutten van de bestaande infrastructuur.
 
@@ -45,16 +45,16 @@ Met de thans voorgenomen uitbreiding is naar mijn mening de grens bereikt van he
 
 De nadruk komt daarom te liggen op de ontwikkeling en introductie van dynamische inhaalverboden.
 
-Dynamische inhaalverboden zullen moeten worden ingepast in de reconstructie van het dynamisch verkeerssignaleringssysteem van Rijkswaterstaat. Momenteel is een separate vervroegde invoering van alleen dynamische inhaalverboden omwille van de technische complexiteit en de hoge kosten geen optie.
+Dynamische inhaalverboden zullen moeten worden ingepast in de reconstructie van het dynamisch verkeerssignaleringssysteem van Rijkswaterstaat. Momenteel is een separate vervroegde invoering van alleen dynamische inhaalverboden omwille van de technische complexiteit en de hoge kosten geen optie. 
 
-*Gevolgde procedure* 
+*Gevolgde procedure*
 
 Door mij is geen openbare voorbereidingsprocedure op grond van de Algemene wet bestuursrecht gevolgd. De reden hiervan is dat overeenkomstig artikel 24 van het Besluit administratieve bepalingen inzake het wegverkeer overleg is gevoerd met de korpschef van het Korps landelijke politiediensten. Voorts heeft overleg plaatsgevonden met de betrokken regionale politiekorpsen en het Openbaar Ministerie, alsmede met de wegvervoersbranche-organisaties.
 
 Ik ga er verder van uit dat er geen andere belanghebbenden zijn die door het nemen van dit besluit redelijkerwijs in hun belangen worden geraakt.
 
 Gelet op artikel 15, eerste lid, van de Wegenverkeerswet 1994;
-Besluit:    
+Besluit:   
 
 ### Artikel  1  
 
@@ -67,27 +67,27 @@ Het besluit UB 2001/11948 van 9 januari 2002 wordt bij de inwerkingtreding van d
 
 ### Artikel  3  
 
-Dit besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van 1 juni 2003.  
+Dit besluit wordt gepubliceerd in de Staatscourant en treedt in werking met ingang van 1 juni 2003. 
 
 De 
 Minister van Verkeer en Waterstaat 
 
-namens deze, 
+namens deze,
 
 de 
-directeur-generaal van de Rijkswaterstaat 
+directeur-generaal van de Rijkswaterstaat
 
-namens deze, 
+namens deze,
 
 de 
 portefeuillehouder hoofdwegennet
-Th.F.J. van deGazelle   
+Th.F.J. van de Gazelle    
 
-### Bijlage  
+### Bijlage 
 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |---|---|---|---|---|---|---|---|
-|  *Wegnummer*   |  *Richting*   |  *Van*   |  *Naar*   |  *Van km*   |  *Tot km*   |  *Tijdvenster*   |  *Directies*   |
+| *Wegnummer * | *Richting*  |* Van * |* Naar * |* Van km * | *Tot km*  | *Tijdvenster * | *Directies * |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1  | HRR  | Bussum  | Barneveld  | 20,300  | 54,400  | 06:00-19:00  | NH, UT,  |
 | --- | --- | --- | --- | --- | --- | --- | ON  |

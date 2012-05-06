@@ -19,7 +19,7 @@ In dit besluit wordt verstaan onder:
 
 *oppervlaktedelfstof:* vaste delfstof die voorkomt in de bodem en die kan worden gewonnen zonder ondergrondse mijnbouw;  
 
-*overslagput:* aangelegde verdieping van de waterbodem bedoeld voor het tijdelijk opslaan en overslaan van elders gewonnen oppervlaktedelfstoffen.    
+*overslagput:* aangelegde verdieping van de waterbodem bedoeld voor het tijdelijk opslaan en overslaan van elders gewonnen oppervlaktedelfstoffen.   
 
 ### Artikel  2  
 
@@ -27,7 +27,7 @@ In tabel 1 is de afstand opgenomen ten opzichte van kunstwerken, vaste objecten,
 
 | Type kunstwerk of object  | Locatie rijkswater  | Waterkeringen  | Noordzee  | IJsselmeergebied  | Waddenzee  | Rivieren, kanalen en havens  | Grote Zeeuwse en Zuid-Hollandse wateren  |
 |:---|:---|:---|:---|:---|:---|:---|:---|
-| Primaire waterkeringen (afstand tot de teen van dijk)  | 100 m <sup>1</sup>  | Zie voetnoot 2 <sup>2</sup>  | 500 m  | Per geval bepaald  | 100 m  |
+| Primaire waterkeringen (afstand tot de teen van dijk)  | 100 m <sup>1</sup>   | Zie voetnoot 2 <sup>2</sup>   | 500 m  | Per geval bepaald  | 100 m  |
 | Secundaire waterkeringen en Limburgse kaden (afstand tot de teen van dijk)  | n.v.t.  | n.v.t.  | n.v.t.  | Per geval bepaald  | n.v.t.  |
 | Natuur en milieu  | --- | --- | --- | --- | --- |
 | Werp-, rust- en zooggebieden van zeehonden  | 1200 m  | n.v.t.  | 1500 m  | n.v.t.  | 1200 m  |
@@ -36,14 +36,14 @@ In tabel 1 is de afstand opgenomen ten opzichte van kunstwerken, vaste objecten,
 | Binnen een zone van 500 m gemeten vanuit de afgebakende mossel-percelen  | --- | --- | 500 m  | --- | --- |
 | Binnen een zone van 1000 m vanuit de 500 m gemeten vanuit de afgebakende mosselzaad-invang-installaties, en voorts binnen een zone van 1000 m  | --- | --- | 1000 m  | --- | --- |
 | Archeologie en cultuurhistorie  | --- | --- | --- | --- | --- |
-| Wettelijk beschermde monumenten van archeologische vondsten, locaties met melding van archeologische vondsten en wrakken  | 100 m  | 100 m <sup>3</sup>  | 100 m  | 100 m  | 100 m  |
+| Wettelijk beschermde monumenten van archeologische vondsten, locaties met melding van archeologische vondsten en wrakken  | 100 m  | 100 m <sup>3</sup>   | 100 m  | 100 m  | 100 m  |
 | Overige objecten  | --- | --- | --- | --- | --- |
-| Olie- en gasleidingen in de bodem van het betreffende rijkswater  | 500 m <sup>4</sup>  | Per geval bepaald  | 500 m  | 100 m  | 500 m  |
-| In gebruik zijnde telecommuni-catiekabels in de bodem van of boven het betreffende rijkswater  | 500 m <sup>5</sup>  | Per geval bepaald  | 500 m  | 100 m  | 500 m  |
+| Olie- en gasleidingen in de bodem van het betreffende rijkswater  | 500 m <sup>4</sup>   | Per geval bepaald  | 500 m  | 100 m  | 500 m  |
+| In gebruik zijnde telecommuni-catiekabels in de bodem van of boven het betreffende rijkswater  | 500 m <sup>5</sup>   | Per geval bepaald  | 500 m  | 100 m  | 500 m  |
 | Door ontgronding ontstaan water  | n.v.t.  | n.v.t.  | n.v.t.  | Per geval bepaald  | n.v.t.  |
-| Overige vaste objecten van het Rijk of van derden  | 500 m <sup>6</sup>  | Per geval bepaald  | 500 m  | Per geval bepaald  | 500 m  |
+| Overige vaste objecten van het Rijk of van derden  | 500 m <sup>6</sup>   | Per geval bepaald  | 500 m  | Per geval bepaald  | 500 m  |
 
-<sup>1</sup> Afstanden gelden voor ontgrondingen tot een diepte van maximaal 2 meter beneden de zeebodem. Voor diepere ontgrondingen kunnen grotere afstanden gelden tot de kabels, leidingen, kunstwerken en vaste objecten waarbinnen geen ontgrondingen mogen plaatsvinden. Deze afstanden worden per specifiek geval bepaald en in de vergunningsvoorschriften opgenomen. <sup>2</sup> Ontgrondingsvergunningen in het IJsselmeergebied worden tevens niet verleend indien de ontgronding dieper gaat dan de denkbeeldige taludlijn met een helling van 1:10, lopend vanaf de teen van de dijk schuin omlaag, dan wel lopend vanaf het archeologische monument, de archeologische vondst of het wrak schuin omlaag. Indien voor de betreffende dijk een buitendijkse beschermingszone (zoals gedefinieerd door de beheerder van de waterkering) voor ontgronden van toepassing is loopt de taludlijn vanaf de buitenste begrenzing van deze beschermingszone omlaag. <sup>3</sup> Ontgrondingsvergunningen in het IJsselmeergebied worden tevens niet verleend indien de ontgronding dieper gaat dan de denkbeeldige taludlijn met een helling van 1:10, lopend vanaf de teen van de dijk schuin omlaag, dan wel lopend vanaf het archeologische monument, de archeologische vondst of het wrak schuin omlaag. Indien voor de betreffende dijk een buitendijkse beschermingszone (zoals gedefinieerd door de beheerder van de waterkering) voor ontgronden van toepassing is loopt de taludlijn vanaf de buitenste begrenzing van deze beschermingszone omlaag. <sup>4</sup> Afstanden gelden voor ontgrondingen tot een diepte van maximaal 2 meter beneden de zeebodem. Voor diepere ontgrondingen kunnen grotere afstanden gelden tot de kabels, leidingen, kunstwerken en vaste objecten waarbinnen geen ontgrondingen mogen plaatsvinden. Deze afstanden worden per specifiek geval bepaald en in de vergunningsvoorschriften opgenomen. <sup>5</sup> Afstanden gelden voor ontgrondingen tot een diepte van maximaal 2 meter beneden de zeebodem. Voor diepere ontgrondingen kunnen grotere afstanden gelden tot de kabels, leidingen, kunstwerken en vaste objecten waarbinnen geen ontgrondingen mogen plaatsvinden. Deze afstanden worden per specifiek geval bepaald en in de vergunningsvoorschriften opgenomen. <sup>6</sup> Afstanden gelden voor ontgrondingen tot een diepte van maximaal 2 meter beneden de zeebodem. Voor diepere ontgrondingen kunnen grotere afstanden gelden tot de kabels, leidingen, kunstwerken en vaste objecten waarbinnen geen ontgrondingen mogen plaatsvinden. Deze afstanden worden per specifiek geval bepaald en in de vergunningsvoorschriften opgenomen.  
+<sup>1 </sup>Afstanden gelden voor ontgrondingen tot een diepte van maximaal 2 meter beneden de zeebodem. Voor diepere ontgrondingen kunnen grotere afstanden gelden tot de kabels, leidingen, kunstwerken en vaste objecten waarbinnen geen ontgrondingen mogen plaatsvinden. Deze afstanden worden per specifiek geval bepaald en in de vergunningsvoorschriften opgenomen.<sup>2</sup> Ontgrondingsvergunningen in het IJsselmeergebied worden tevens niet verleend indien de ontgronding dieper gaat dan de denkbeeldige taludlijn met een helling van 1:10, lopend vanaf de teen van de dijk schuin omlaag, dan wel lopend vanaf het archeologische monument, de archeologische vondst of het wrak schuin omlaag. Indien voor de betreffende dijk een buitendijkse beschermingszone (zoals gedefinieerd door de beheerder van de waterkering) voor ontgronden van toepassing is loopt de taludlijn vanaf de buitenste begrenzing van deze beschermingszone omlaag.<sup>3</sup> Ontgrondingsvergunningen in het IJsselmeergebied worden tevens niet verleend indien de ontgronding dieper gaat dan de denkbeeldige taludlijn met een helling van 1:10, lopend vanaf de teen van de dijk schuin omlaag, dan wel lopend vanaf het archeologische monument, de archeologische vondst of het wrak schuin omlaag. Indien voor de betreffende dijk een buitendijkse beschermingszone (zoals gedefinieerd door de beheerder van de waterkering) voor ontgronden van toepassing is loopt de taludlijn vanaf de buitenste begrenzing van deze beschermingszone omlaag.<sup>4</sup> Afstanden gelden voor ontgrondingen tot een diepte van maximaal 2 meter beneden de zeebodem. Voor diepere ontgrondingen kunnen grotere afstanden gelden tot de kabels, leidingen, kunstwerken en vaste objecten waarbinnen geen ontgrondingen mogen plaatsvinden. Deze afstanden worden per specifiek geval bepaald en in de vergunningsvoorschriften opgenomen.<sup>5</sup> Afstanden gelden voor ontgrondingen tot een diepte van maximaal 2 meter beneden de zeebodem. Voor diepere ontgrondingen kunnen grotere afstanden gelden tot de kabels, leidingen, kunstwerken en vaste objecten waarbinnen geen ontgrondingen mogen plaatsvinden. Deze afstanden worden per specifiek geval bepaald en in de vergunningsvoorschriften opgenomen.<sup>6</sup> Afstanden gelden voor ontgrondingen tot een diepte van maximaal 2 meter beneden de zeebodem. Voor diepere ontgrondingen kunnen grotere afstanden gelden tot de kabels, leidingen, kunstwerken en vaste objecten waarbinnen geen ontgrondingen mogen plaatsvinden. Deze afstanden worden per specifiek geval bepaald en in de vergunningsvoorschriften opgenomen.
 
 ### §  2  
 
@@ -58,17 +58,17 @@ a. in de in onderdelen A en B van de Bijlage aangewezen gedeelten van het Marsdi
 b. in de in onderdeel B van de Bijlage aangewezen gedeelten van de Westerschelde inclusief de aangrenzende Noordzeekustzone, met het oog op de kustverdediging, of  
 
 c. in de overige delen van de Noordzee vanaf 3 mijl uit de kust gemeten bij LAT tot 50 km uit de kust.     
-2.  De jaarlijks te winnen hoeveelheid schelpen voor de in onderdeel A van de Bijlage aangewezen gebieden van de Waddenzee inclusief de aangrenzende Noordzeekustzone is maximaal 180.000 m <sup>3</sup> waarbij een maximum geldt van: 
+2.  De jaarlijks te winnen hoeveelheid schelpen voor de in onderdeel A van de Bijlage aangewezen gebieden van de Waddenzee inclusief de aangrenzende Noordzeekustzone is maximaal 180.000 m<sup>3</sup> waarbij een maximum geldt van: 
 
-a. 54.000 m <sup>3</sup> voor het Marsdiep,  
+a. 54.000 m<sup>3</sup> voor het Marsdiep,  
 
-b. 126.000 m <sup>3</sup> voor de Vlie,  
+b. 126.000 m<sup>3</sup> voor de Vlie,  
 
-c. 18.000 m <sup>3</sup> voor het Friesche Zeegat, met dien verstande dat voor deze gebieden binnen de grenzen van het gebied van de Planologische kernbeslissing Derde Nota Waddenzee zoals weergegeven in onderdeel A van de Bijlage maximaal 90.000 m <sup>3</sup> gewonnen kan worden.     
-3.  De jaarlijks te winnen hoeveelheid schelpen voor de in onderdeel B van de Bijlage aangewezen gebieden van de Voordelta is maximaal 40.000 m <sup>3</sup>.   
-4.  De jaarlijks te winnen hoeveelheid schelpen voor de in onderdeel B van de Bijlage aangewezen gebieden van de Westerschelde en de aangrenzende Noordzeekuststrook is maximaal 40.000 m <sup>3</sup>.   
+c. 18.000 m<sup>3</sup> voor het Friesche Zeegat, met dien verstande dat voor deze gebieden binnen de grenzen van het gebied van de Planologische kernbeslissing Derde Nota Waddenzee zoals weergegeven in onderdeel A van de Bijlage maximaal 90.000 m<sup>3</sup> gewonnen kan worden.     
+3.  De jaarlijks te winnen hoeveelheid schelpen voor de in onderdeel B van de Bijlage aangewezen gebieden van de Voordelta is maximaal 40.000 m<sup>3</sup>.   
+4.  De jaarlijks te winnen hoeveelheid schelpen voor de in onderdeel B van de Bijlage aangewezen gebieden van de Westerschelde en de aangrenzende Noordzeekuststrook is maximaal 40.000 m<sup>3</sup>.   
 5.  Voor de verlening van een ontgrondingsvergunning voor de winning van schelpen in de gebieden, bedoeld in het eerste lid, onder c, geldt geen kwantitatieve beperking.   
-6.  Een ontgrondingsvergunning voor schelpenwinning wordt verleend voor ten hoogste drie jaar.   
+6.  Een ontgrondingsvergunning voor schelpenwinning wordt verleend voor ten hoogste drie jaar.  
 
 ### §  3  
 
@@ -77,13 +77,13 @@ c. 18.000 m <sup>3</sup> voor het Friesche Zeegat, met dien verstande dat voor d
 ### Artikel  4  
 
 1.  Dit hoofdstuk is van toepassing op een ontgronding die geen schelpenwinning is.   
-2.  In de Waddenzee wordt voor ontgrondingen, bedoeld in het eerste lid, geen ontgrondingsvergunning verleend.   
+2.  In de Waddenzee wordt voor ontgrondingen, bedoeld in het eerste lid, geen ontgrondingsvergunning verleend.  
 
 ### Artikel  5  
 
 1.  Zeewaarts van de doorgaande NAP -20 meter dieptelijn in de Noordzee kan een ontgrondingsvergunning worden verleend, met dien verstande dat: 
 
-a. voor een ontgronding met een winhoeveelheid van 10 miljoen m <sup>3</sup> of meer per vergunningaanvraag, of  
+a. voor een ontgronding met een winhoeveelheid van 10 miljoen m<sup>3</sup> of meer per vergunningaanvraag, of  
 
 b. met een windiepte van meer dan twee meter beneden de oorspronkelijke zeebodem of op een plek waar al eerder tot twee meter ontgrond is, uitsluitend vergunning kan worden verleend indien de ontgronding minimaal 2 kilometer zeewaarts van de doorgaande NAP -20 meter dieptelijn plaatsvindt.     
 2.  Landwaarts van de doorgaande NAP -20 meter dieptelijn in de Noordzee kan alleen vergunning worden verleend voor: 
@@ -94,7 +94,7 @@ b. het aanleggen van overslagputten voor zover ze zeewaarts van NAP -7 meter die
 
 c. de zandwinning waarbij het verwijderen van zand uit de winlocatie bijdraagt aan de kustverdediging of het in oorspronkelijke staat brengen van de zeebodem van voormalige stortgebieden.     
 3.  Een overslagput die minder dan een jaar gebruikt wordt, wordt na gebruik in het winterseizoen binnen één maand en na gebruik in het zomerseizoen binnen twee maanden opgevuld met gebiedseigen materiaal.   
-4.  Een overslagput die een jaar of langer in gebruik is geweest en naar verwachting gedurende minimaal zes maanden niet meer gebruikt wordt, wordt binnen twee maanden na beëindiging van het gebruik opgevuld met gebiedseigen materiaal tot de oorspronkelijke zeebodemligging. Daarnaast dienen de eventueel nadelige gevolgen voor het milieu te worden gemonitoord.   
+4.  Een overslagput die een jaar of langer in gebruik is geweest en naar verwachting gedurende minimaal zes maanden niet meer gebruikt wordt, wordt binnen twee maanden na beëindiging van het gebruik opgevuld met gebiedseigen materiaal tot de oorspronkelijke zeebodemligging. Daarnaast dienen de eventueel nadelige gevolgen voor het milieu te worden gemonitoord.  
 
 ### Artikel  6  
 
@@ -134,7 +134,7 @@ a. kalkzandsteenzand alleen worden gewonnen in:
 
 2°. in een nieuwe winplaats in het Veluwemeer, geheel of gedeeltelijk ter vervanging van de winplaats in de huidige vergunning;    
 
-b. zand voor cellenbeton alleen worden gewonnen in de stroomgeulen van de IJssel in het Ketelmeer met een maximale windiepte van NAP -15 meter en een maximale opleveringsdiepte van NAP -8 meter.     
+b. zand voor cellenbeton alleen worden gewonnen in de stroomgeulen van de IJssel in het Ketelmeer met een maximale windiepte van NAP -15 meter en een maximale opleveringsdiepte van NAP -8 meter.    
 
 ### Artikel  7  
 
@@ -150,7 +150,7 @@ d. geen belemmering vormt voor huidige/geplande/toekomstige rivierverruimingspro
 
 e. niet leidt tot een structurele beperking van de scheepvaart, en  
 
-f. niet leidt tot ongewenste grondwaterstandveranderingen.    
+f. niet leidt tot ongewenste grondwaterstandveranderingen.   
 
 ### Artikel  8  
 
@@ -164,14 +164,14 @@ f. niet leidt tot ongewenste grondwaterstandveranderingen.
 4.  Het derde lid is niet van toepassing op ontgrondingen ten behoeve van het mogelijk maken of verbeteren van nautische functies.   
 5.  De niet-multifunctionele zandwinning als bedoeld in het tweede lid in de Westerschelde wordt afgebouwd en eindigt uiterlijk in 2014. Voor deze zandwinning geldt in de periode 2011 tot 2014 een maximum te vergunnen hoeveelheid van: 
 
-– 4.000.000 m <sup>3</sup> voor de handel,  
+– 4.000.000 m<sup>3</sup> voor de handel,  
 
-– 900.000 m <sup>3</sup> voor de Nederlandse overheid,  
+– 900.000 m<sup>3</sup> voor de Nederlandse overheid,  
 
-– 900.000 m <sup>3</sup> voor het Vlaams Gewest.     
+– 900.000 m<sup>3</sup> voor het Vlaams Gewest.     
 6.  De aanleg van een overslagput ten behoeve van de overslag van beton- en metselzand, ophoogzand of grind is toegestaan zeewaarts van de NAP -7 meter dieptelijn.   
 7.  Het diepteverschil tussen de bodem van de overslagput wordt per vergunningaanvraag op basis van de morfologie bepaald.   
-8.  Indien te voorzien is dat de overslagput gedurende minimaal 6 maanden niet gebruikt wordt, wordt deze binnen twee maanden na beëindiging van het gebruik opgevuld met gebiedseigen materiaal tot de oorspronkelijke zeebodemligging.   
+8.  Indien te voorzien is dat de overslagput gedurende minimaal 6 maanden niet gebruikt wordt, wordt deze binnen twee maanden na beëindiging van het gebruik opgevuld met gebiedseigen materiaal tot de oorspronkelijke zeebodemligging.  
 
 ### §  4  
 
@@ -195,24 +195,24 @@ f. de Landelijke Beleidsnota Schelpenwinning (1998);
 
 g. de partiële herziening Landelijke Beleidsnota Schelpenwinning (2001);  
 
-h. de tweede partiële herziening Landelijke Beleidsnota Schelpenwinning (2004).    
+h. de tweede partiële herziening Landelijke Beleidsnota Schelpenwinning (2004).   
 
 ### Artikel  10  
 
-Dit besluit wordt aangehaald als: Beleidsregels ontgrondingen in rijkswateren.  
+Dit besluit wordt aangehaald als: Beleidsregels ontgrondingen in rijkswateren. 
 
 ### Artikel  11  
 
-Deze Beleidsregels treden in werking met ingang van de eerste dag van de eerste kalendermaand na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze Beleidsregels treden in werking met ingang van de eerste dag van de eerste kalendermaand na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze Beleidsregels zullen met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings  
+C.M.P.S. Eurlings    
 
-### Bijlage  
+### Bijlage 
 
-####behorend bij artikel 3  van de beleidsregels ontgrondingen in rijkswateren
+#### behorend bij artikel 3  van de beleidsregels ontgrondingen in rijkswateren
 
 ###Onderdeel A. Schelpenwingebieden Waddenzee en aangrenzende Noordzeekustzone
 

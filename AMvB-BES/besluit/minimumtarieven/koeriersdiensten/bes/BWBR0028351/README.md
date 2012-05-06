@@ -9,12 +9,12 @@
 a. Voor het vervoer op en tussen het grondgebied van de openbare lichamen USD 6.  
 
 b. Voor het vervoer naar overige landen USD 11.     
-2.  In deze bedragen zijn de eventueel door anderen dan de houder van de concessie verschuldigde heffingen en belastingen niet inbegrepen.   
+2.  In deze bedragen zijn de eventueel door anderen dan de houder van de concessie verschuldigde heffingen en belastingen niet inbegrepen.  
 
 ### Artikel  2  
 
-Dit besluit berust op [artikel 12, tweede lid, onder a, 1°, van de Wet post BES](../../../../../../wet-BES/wet/post/bes/BWBR0028263/README.md).  
+Dit besluit berust op [artikel 12, tweede lid, onder a, 1°, van de Wet post BES](../../../../../../wet-BES/wet/post/bes/BWBR0028263/README.md). 
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Besluit minimumtarieven koeriersdiensten BES.  
+Dit besluit wordt aangehaald als: Besluit minimumtarieven koeriersdiensten BES. 

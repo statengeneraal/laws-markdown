@@ -12,24 +12,24 @@ Aan het bestuur van de raad voor rechtsbijstand wordt mandaat verleend tot:
 
 a. het nemen van besluiten met betrekking tot het verlenen van subsidie als bedoeld in [artikel 48c van de wet Justitie-subsidies](../../../../../../../../../../../wet/wet/justitie-subsidies/BWBR0008121/README.md);  
 
-b. het vaststellen van beleidsregels met betrekking tot de onder a verleende bevoegdheid.    
+b. het vaststellen van beleidsregels met betrekking tot de onder a verleende bevoegdheid.   
 
 ### Artikel  2  
 
-Het bestuur van de raad voor rechtsbijstand kan van het aan hem bij artikel 1, onder a, verleende mandaat ondermandaat verlenen aan één of meer onder deze raad ressorterende functionarissen.  
+Het bestuur van de raad voor rechtsbijstand kan van het aan hem bij artikel 1, onder a, verleende mandaat ondermandaat verlenen aan één of meer onder deze raad ressorterende functionarissen. 
 
 ### Artikel  3  
 
 1.  Aan het bestuur van de raad voor rechtsbijstand wordt mandaat en machtiging verleend om bezwaar en beroep te behandelen als bedoeld in de [hoofdstukken 6](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [7](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [8 van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en klachten te behandelen als bedoeld in [titel 9.1 van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-2.  Het krachtens het eerste lid verleende mandaat en de machtiging kunnen verder worden doorgegeven aan onder het bestuur van de raad voor rechtsbijstand ressorterende functionarissen, waarbij niet wordt toegestaan dat functionarissen besluiten nemen in bezwaar of klachten behandelen over besluiten of gedragingen waarbij zij zelf betrokken zijn geweest.   
+2.  Het krachtens het eerste lid verleende mandaat en de machtiging kunnen verder worden doorgegeven aan onder het bestuur van de raad voor rechtsbijstand ressorterende functionarissen, waarbij niet wordt toegestaan dat functionarissen besluiten nemen in bezwaar of klachten behandelen over besluiten of gedragingen waarbij zij zelf betrokken zijn geweest.  
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als: Regeling verlening mandaat raad voor rechtsbijstand betreffende verlenen van subsidies en vaststellen van beleidsregels dienaangaande.  
+Dit besluit wordt aangehaald als: Regeling verlening mandaat raad voor rechtsbijstand betreffende verlenen van subsidies en vaststellen van beleidsregels dienaangaande. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -37,4 +37,4 @@ Den Haag
 
 De 
 Minister van Justitie, 
-E.M.H.Hirsch Ballin   
+E.M.H. Hirsch Ballin     

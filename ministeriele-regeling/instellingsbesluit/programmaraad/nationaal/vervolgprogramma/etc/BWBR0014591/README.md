@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 13 januari 2003, nr. KvI2002106469, tot instelling van een programmaraad voor het nationaal vervolgprogramma klimaatonderzoek (Instellingsbesluit Programmaraad NVKO)
+##Besluit van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 13 januari 2003, nr. KvI2002106469, tot instelling van een programmaraad voor het nationaal vervolgprogramma klimaatonderzoek (Instellingsbesluit Programmaraad NVKO) 
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
 Gezien de brief aan de Tweede Kamer der Staten-Generaal van 3 juli 2002, kenmerk: KVI2002047962, en de Uitvoeringsnota Klimaatbeleid deel 2 (Kamerstukken II, 2000/2001, 26 603, nr 28, VROM 17523/183);
@@ -99,12 +99,12 @@ De Programmaraad NVKO is bevoegd, met inachtneming van dit besluit, nadere regel
 
 ### Artikel  7  
 
-Dit besluit kan worden aangehaald als: Instellingbesluit Progammaraad nationaal vervolgprogramma klimaatonderzoek.  
-Dit besluit en de toelichting daarop zullen in de Staatscourant worden geplaatst.   
+Dit besluit kan worden aangehaald als: Instellingbesluit Progammaraad nationaal vervolgprogramma klimaatonderzoek. 
+Dit besluit en de toelichting daarop zullen in de Staatscourant worden geplaatst. 
 
 's-Gravenhage 
 13 januari 2003    
 
 De 
-Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-P.L.B.A. vanGeel    
+Staatssecretaris  van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
+P.L.B.A. van Geel      

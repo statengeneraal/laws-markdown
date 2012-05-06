@@ -15,12 +15,12 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder regionale dienst: regionale dienst van het directoraat-generaal Rijkswaterstaat, ingesteld door Onze Minister van Verkeer en Waterstaat krachtens [artikel 8 van het Organiek Besluit Rijkswaterstaat](../../../../../../../AMvB/organiek/besluit/rijkswaterstaat/BWBR0002743/README.md).  
+In dit besluit wordt verstaan onder regionale dienst: regionale dienst van het directoraat-generaal Rijkswaterstaat, ingesteld door Onze Minister van Verkeer en Waterstaat krachtens [artikel 8 van het Organiek Besluit Rijkswaterstaat](../../../../../../../AMvB/organiek/besluit/rijkswaterstaat/BWBR0002743/README.md). 
 
 ### Artikel  2  
 
 1.  Als de autoriteiten, bedoeld in [artikel 27, eerste lid, van de Vervoersnoodwet](../../../../../../../wet/vervoersnoodwet/BWBR0002391/README.md) worden voor Onze Minister van Verkeer en Waterstaat aangewezen de hoofdingenieur-directeuren van de regionale diensten, ieder voor het gezagsgebied van de regionale dienst waarvoor hij is aangesteld.   
-2.  Als de autoriteiten, bedoeld in [artikel 27, eerste lid, van de Vervoersnoodwet](../../../../../../../wet/vervoersnoodwet/BWBR0002391/README.md) worden voor Onze Minister van Defensie aangewezen de regionale militaire commandanten, ieder voor het gezagsgebied waarvoor hij is aangesteld.   
+2.  Als de autoriteiten, bedoeld in [artikel 27, eerste lid, van de Vervoersnoodwet](../../../../../../../wet/vervoersnoodwet/BWBR0002391/README.md) worden voor Onze Minister van Defensie aangewezen de regionale militaire commandanten, ieder voor het gezagsgebied waarvoor hij is aangesteld.  
 
 ### Artikel  3  
 
@@ -69,27 +69,27 @@ d. het Hoofd Facilitair Steunpunt Nieuwe Haven van de Koninklijke Marine te Den 
 13°. 52°57'.9 NB, 04°48'.1 OL;    
 
 e. de directeur Kustwacht voor de Nederlandse territoriale zee, behoudens de onder b, onderdeel 2°, de onder c, onderdeel 2°, en de onder d genoemde gebieden, voorzover die in de Noordzee zijn gelegen.     
-2.  Als de autoriteiten, bedoeld in [artikel 22, eerste lid, van de Havennoodwet](../../../../../../../wet/havennoodwet/BWBR0002410/README.md) worden voor Onze Minister van Defensie aangewezen de regionale militaire commandanten, ieder voor de havens binnen het gezagsgebied waarvoor hij is aangesteld.   
+2.  Als de autoriteiten, bedoeld in [artikel 22, eerste lid, van de Havennoodwet](../../../../../../../wet/havennoodwet/BWBR0002410/README.md) worden voor Onze Minister van Defensie aangewezen de regionale militaire commandanten, ieder voor de havens binnen het gezagsgebied waarvoor hij is aangesteld.  
 
 ### Artikel  4  
 
-De in de artikelen 2 en 3 aangewezen autoriteiten oefenen de krachtens de [artikelen 27 van de Vervoersnoodwet](../../../../../../../wet/vervoersnoodwet/BWBR0002391/README.md) en [22 van de Havennoodwet](../../../../../../../wet/havennoodwet/BWBR0002410/README.md) gemandateerde bevoegdheden zoveel mogelijk uit na overleg met de voorzitters van de veiligheidsregio’s die binnen het gezagsgebied van de betrokken autoriteit zijn gelegen.  
+De in de artikelen 2 en 3 aangewezen autoriteiten oefenen de krachtens de [artikelen 27 van de Vervoersnoodwet](../../../../../../../wet/vervoersnoodwet/BWBR0002391/README.md) en [22 van de Havennoodwet](../../../../../../../wet/havennoodwet/BWBR0002410/README.md) gemandateerde bevoegdheden zoveel mogelijk uit na overleg met de voorzitters van de veiligheidsregio’s die binnen het gezagsgebied van de betrokken autoriteit zijn gelegen. 
 
 ### Artikel  5  
 
-De in de artikelen 2 en 3 aangewezen autoriteiten maken de regelingen die zij hebben vastgesteld krachtens [artikel 16 van de Vervoersnoodwet](../../../../../../../wet/vervoersnoodwet/BWBR0002391/README.md) en [artikel 8 van de Havennoodwet](../../../../../../../wet/havennoodwet/BWBR0002410/README.md) zo mogelijk bekend in een of meer in het betrokken gebied verschijnende dag- of weekbladen. De regelingen treden niet in werking alvorens zij op die wijze, dan wel indien dit niet mogelijk is, op een andere door hen bepaalde wijze, zijn bekendgemaakt.  
+De in de artikelen 2 en 3 aangewezen autoriteiten maken de regelingen die zij hebben vastgesteld krachtens [artikel 16 van de Vervoersnoodwet](../../../../../../../wet/vervoersnoodwet/BWBR0002391/README.md) en [artikel 8 van de Havennoodwet](../../../../../../../wet/havennoodwet/BWBR0002410/README.md) zo mogelijk bekend in een of meer in het betrokken gebied verschijnende dag- of weekbladen. De regelingen treden niet in werking alvorens zij op die wijze, dan wel indien dit niet mogelijk is, op een andere door hen bepaalde wijze, zijn bekendgemaakt. 
 
 ### Artikel  6  
 
-Wijzigt het Aanwijzingsbesluit economische noodwetgeving.   
+Wijzigt het Aanwijzingsbesluit economische noodwetgeving.
 
 ### Artikel  7  
 
-Dit besluit wordt aangehaald als: Aanwijzingsbesluit noodwetgeving Verkeer en Waterstaat.  
+Dit besluit wordt aangehaald als: Aanwijzingsbesluit noodwetgeving Verkeer en Waterstaat. 
 
 ### Artikel  8  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -97,16 +97,16 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 28 september 2010  
 Beatrix  
 
-De Minister van Verkeer en Waterstaat, 
+De Minister van Verkeer en Waterstaat,  
 C. M. P. S. Eurlings   
 
-De Minister van Defensie, 
+De Minister van Defensie,  
 E. van Middelkoop   
 
-De Minister van Economische Zaken, 
+De Minister van Economische Zaken,  
 M. J. A. van der Hoeven   
 
 de *derde* november 2010 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

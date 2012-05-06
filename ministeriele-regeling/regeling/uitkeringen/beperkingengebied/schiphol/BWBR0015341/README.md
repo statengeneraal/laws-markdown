@@ -34,7 +34,7 @@ k. voortgezet gebruik: het voort zetten van het gebruik van een gebouw door de b
 
 l. bouwkundige eenheid: een aaneengesloten geheel van gebouwen;  
 
-m. minister: Minister van Verkeer en Waterstaat.    
+m. minister: Minister van Verkeer en Waterstaat.   
 
 ### Artikel  2  
 
@@ -54,12 +54,12 @@ f. apparaatskosten.
 2.  Voor iedere kostensoort, bedoeld in het eerste lid, onderdelen a tot en met d, bedraagt de uitkering 100 % van de kosten.   
 3.  Voor onderhoudskosten beheer ondergrond bestaat de uitkering uit de contante waarde van de jaarlijkse onderhoudskosten van ondergrond, berekend op basis van de op de datum van de aanvraag geldende wettelijke rente als bedoeld in [artikel 119 van Boek 6 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).   
 4.  Voor de apparaatskosten, bedoeld in het eerste lid, onderdeel f, bedraagt de uitkering 1% van het totaal van de in het eerste lid, onderdelen a tot en met c, bedoelde kosten.   
-5.  Het totaal van de in het tweede lid tot en met het vierde lid, bedoelde uitkering wordt verminderd met de restwaarde van de ondergrond van de te verwerven gebouwen na de sloop daarvan.   
+5.  Het totaal van de in het tweede lid tot en met het vierde lid, bedoelde uitkering wordt verminderd met de restwaarde van de ondergrond van de te verwerven gebouwen na de sloop daarvan.  
 
 ### Artikel  3  
 
 1.  De uitkering ter bestrijding van verwervingskosten kan zowel in geval van verwerving in der minne als in geval van verwerving door middel van een gerechtelijke onteigeningsprocedure als bedoeld in de [onteigeningswet](../../../../../../wet/onteigeningswet/BWBR0001842/README.md) worden verstrekt.   
-2.  De gemeente overlegt vooraf met de minister over het starten van een gerechtelijke onteigeningsprocedure alsmede over het instellen van cassatie in die procedure.   
+2.  De gemeente overlegt vooraf met de minister over het starten van een gerechtelijke onteigeningsprocedure alsmede over het instellen van cassatie in die procedure.  
 
 ### Artikel  4  
 
@@ -75,7 +75,7 @@ d. een taxatierapport met betrekking tot het betrokken gebouw opgesteld door dri
 
 1°. de verwervingskosten,  
 
-2°. de restwaarde van de ondergrond van het betrokken gebouw na de sloop daarvan,  
+2°.  de restwaarde van de ondergrond van het betrokken gebouw na de sloop daarvan,  
 
 3°. de vergoeding van de onderhoudskosten beheer ondergrond;    
 
@@ -90,11 +90,11 @@ h. een raming van de apparaatskosten welke direct kunnen worden toegerekend aan 
 i. een raming van de onderhoudskosten beheer bouwkundige eenheid die betrekking heeft op de eerstvolgende onderhoudsperiode van twee jaar en die, indien de aanvraag wordt goedgekeurd, vanaf het einde van de eerste onderhoudsperiode, elke twee jaar voor de daarop volgende onderhoudsperiode ter goedkeuring bij de minister wordt ingediend;  
 
 j. een afschrift van het bestemmingsplan van de gemeente dat, voor zover het betreft het betrokken gebouw, met het [Luchthavenindelingbesluit Schiphol](../../../../../../AMvB/luchthavenindelingbesluit/schiphol/BWBR0014329/README.md) in overeenstemming is gebracht.     
-2.  De minister wijst jaarlijks de deskundigen, bedoeld in het eerste lid, onderdeel d, aan en stelt de betrokken gemeenten in kennis van de aanwijzing. De eerste aanwijzing vindt uiterlijk een maand na de inwerkingtreding van dit besluit plaats.   
+2.  De minister wijst jaarlijks de deskundigen, bedoeld in het eerste lid, onderdeel d, aan en stelt de betrokken gemeenten in kennis van de aanwijzing. De eerste aanwijzing vindt uiterlijk een maand na de inwerkingtreding van dit besluit plaats.  
 
 ### Artikel  5  
 
-De gemeente gaat niet eerder tot verwerving of sloop van een gebouw over dan nadat de aanvraag met betrekking tot dat gebouw is goedgekeurd.  
+De gemeente gaat niet eerder tot verwerving of sloop van een gebouw over dan nadat de aanvraag met betrekking tot dat gebouw is goedgekeurd. 
 
 ### Artikel  6  
 
@@ -106,7 +106,7 @@ a. in geval van uitgesteld gebruik van een gebouw, of
 
 b. in geval van bestaand gebruik van een gebouw als bedoeld in [artikel 2.2.1., vijfde lid, van het Luchthavenindelingbesluit Schiphol](../../../../../../AMvB/luchthavenindelingbesluit/schiphol/BWBR0014329/README.md).     
 4.  In afwijking van het eerste lid, gaat de gemeente uiterlijk een jaar na de verwerving van het laatste te verwerven onderdeel van een bouwkundige eenheid over tot de sloop van die bouwkundige eenheid. Het tweede lid is van overeenkomstige toepassing.   
-5.  De gemeente stelt de minister binnen een maand na de voltooiing van de in het eerste tot en met het derde lid bedoelde sloop op de hoogte van de uitvoering daarvan.   
+5.  De gemeente stelt de minister binnen een maand na de voltooiing van de in het eerste tot en met het derde lid bedoelde sloop op de hoogte van de uitvoering daarvan.  
 
 ### Artikel  7  
 
@@ -128,12 +128,12 @@ d. apparaatskosten: binnen 30 dagen na de positieve beoordeling door de minister
 
 e. onderhoudskosten beheer ondergrond: binnen 30 dagen na de positieve beoordeling door de minister van een declaratie van de kosten welke direct na de verwerving van het betrokken gebouw bij de minister wordt ingediend;  
 
-f. onderhoudskosten beheer bouwkundige eenheid: binnen 30 dagen na de positieve beoordeling door de minister van een declaratie van de kosten welke aan het einde van elke tweejaarlijkse periode van onderhoud bij de minister wordt ingediend.    
+f. onderhoudskosten beheer bouwkundige eenheid: binnen 30 dagen na de positieve beoordeling door de minister van een declaratie van de kosten welke aan het einde van elke tweejaarlijkse periode van onderhoud bij de minister wordt ingediend.   
 
 ### Artikel  8  
 
 1.  De uitkering kan vervallen indien blijkt dat de gemeente onvolledige of onjuiste gegevens heeft verstrekt.   
-2.  De uitkering ter bestrijding van de sloopkosten komt te vervallen indien niet is voldaan aan de vereisten van artikel 6.   
+2.  De uitkering ter bestrijding van de sloopkosten komt te vervallen indien niet is voldaan aan de vereisten van artikel 6.  
 
 ### Artikel  9  
 
@@ -144,17 +144,17 @@ a. het betreft een woonboot gelegen buiten gronden bedoeld in [artikel 2.2.1, ee
 
 b. op grond van de beleidsregel is uiterlijk op 20 februari 2003 een taxatie is uitgevoerd naar de waarde van de woonboot; en  
 
-c. de eigenaar van de woonboot heeft uiterlijk op 20 augustus 2005 te kennen gegeven van een aanbod tot aankoop van zijn woonboot door het Rijk gebruik te willen maken.     
+c. de eigenaar van de woonboot heeft uiterlijk op 20 augustus 2005 te kennen gegeven van een aanbod tot aankoop van zijn woonboot door het Rijk gebruik te willen maken.    
 
 ### Artikel  10  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  11  
 
-Deze regeling wordt aangehaald als: [Regeling uitkeringen beperkingengebied Schiphol](../../../../../../ministeriele-regeling/regeling/uitkeringen/beperkingengebied/schiphol/BWBR0015341/README.md).  
+Deze regeling wordt aangehaald als: [Regeling uitkeringen beperkingengebied Schiphol](../../../../../../ministeriele-regeling/regeling/uitkeringen/beperkingengebied/schiphol/BWBR0015341/README.md). 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Staatssecretaris van Verkeer en Waterstaat, 
-M.H.Schultz van Haegen    
+M.H.  Schultz van Haegen     

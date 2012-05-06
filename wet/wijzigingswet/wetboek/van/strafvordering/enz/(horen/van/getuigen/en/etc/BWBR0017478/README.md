@@ -10,45 +10,45 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is te bevorderen dat be
 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
 
-### Artikel  I  
+###Artikel I 
 
-Wijzigt het Wetboek van Strafvordering.   
+Wijzigt het Wetboek van Strafvordering.
 
-### Artikel  II  
+###Artikel II 
 
-Wijzigt het Wetboek van Strafrecht.   
+Wijzigt het Wetboek van Strafrecht.
 
-### Artikel  III  
+###Artikel III 
 
-Wijzigt de Wet op de rechterlijke organisatie.   
+Wijzigt de Wet op de rechterlijke organisatie.
 
-### Artikel  IIIa  
+###Artikel IIIa 
 
-Wijzigt deze wet.   
+Wijzigt deze wet.
 
-### Artikel  IV  
+###Artikel IV 
 
-Wijzigt deze wet.   
+Wijzigt deze wet.
 
-### Artikel  V  
+###Artikel V 
 
-1.  De wijzigingen, vervat in artikel I, onderdelen A tot en met P, van deze wet, zijn in eerste aanleg van toepassing in zaken waarin de dagvaarding na het tijdstip van inwerkingtreding van deze wet wordt uitgebracht. Deze wijzigingen zijn in hoger beroep van toepassing in zaken waarin de dagvaarding in hoger beroep na het tijdstip van inwerkingtreding van deze wet wordt uitgebracht.   
-2.  De wijzigingen, vervat in artikel I, onderdelen Q, R en S van deze wet, zijn van toepassing in zaken waarin na het tijdstip van inwerkingtreding van deze wet in eerste aanleg uitspraak wordt gedaan. De wijziging vervat in artikel I, onderdeel T, van deze wet is onmiddellijk van toepassing in aanhangige en nog aanhangig te maken zaken.   
+1. De wijzigingen, vervat in artikel I, onderdelen A tot en met P, van deze wet, zijn in eerste aanleg van toepassing in zaken waarin de dagvaarding na het tijdstip van inwerkingtreding van deze wet wordt uitgebracht. Deze wijzigingen zijn in hoger beroep van toepassing in zaken waarin de dagvaarding in hoger beroep na het tijdstip van inwerkingtreding van deze wet wordt uitgebracht.
+2. De wijzigingen, vervat in artikel I, onderdelen Q, R en S van deze wet, zijn van toepassing in zaken waarin na het tijdstip van inwerkingtreding van deze wet in eerste aanleg uitspraak wordt gedaan. De wijziging vervat in artikel I, onderdeel T, van deze wet is onmiddellijk van toepassing in aanhangige en nog aanhangig te maken zaken.
 
-### Artikel  VI  
+###Artikel VI 
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 
-Gegeven te 's-Gravenhage 
-10 november 2004  
-Beatrix  
+Gegeven te 's-Gravenhage
+10 november 2004
+Beatrix
 
-De Minister van Justitie, 
-J. P. H.Donner 
+De Minister van Justitie , 
+J. P. H.Donner
 
-de *zestiende* november 2004 
+de *zestiende* november 2004
 
-De Minister van Justitie, 
-J. P. H.Donner  
+De Minister van Justitie , 
+J. P. H.Donner

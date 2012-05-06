@@ -11,29 +11,29 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt Burgerlijk Wetboek Boek 8.   
+Wijzigt Burgerlijk Wetboek Boek 8. 
 
 ### Artikel  II  
 
-Op de aansprakelijkheid voor een voorval dat heeft plaatsgevonden voor de dag van inwerkingtreding van deze wet blijft het recht van toepassing zoals dat gold voor de inwerkingtreding van deze wet.  
+Op de aansprakelijkheid voor een voorval dat heeft plaatsgevonden voor de dag van inwerkingtreding van deze wet blijft het recht van toepassing zoals dat gold voor de inwerkingtreding van deze wet. 
 
 ### Artikel  III  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 21 februari 2009  
 Beatrix  
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin 
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin   
 
-De Staatssecretaris van Verkeer en Waterstaat, 
-J. C.Huizinga-Heringa 
+De Staatssecretaris van Verkeer en Waterstaat , 
+J. C. Huizinga-Heringa   
 
 de *zevende* april 2009 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

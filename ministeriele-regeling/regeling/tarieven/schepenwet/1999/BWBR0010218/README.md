@@ -6,10 +6,10 @@ De Minister van Verkeer en Waterstaat,
 Handelende in overeenstemming met de Minister van Verkeer en Vervoer van de Nederlandse Antillen en de Minister van Vervoer en Communicatie van Aruba;
 
 Gelet op [artikel 72, eerste lid, van de Schepenwet](../../../../../../rijkswet/schepenwet/BWBR0001876/README.md);
-Besluit:     
-### Hoofdstuk  1  
+Besluit:      
+### Hoofdstuk 1  
 
-####Tarieven certificaten geklasseerde schepen volgens het geharmoniseerde systeem van onderzoek en certificering
+#### Tarieven certificaten geklasseerde schepen volgens het geharmoniseerde systeem van onderzoek en certificering
 
 ### Artikel  1  
 
@@ -21,9 +21,9 @@ Voor het onderzoek van geklasseerde passagiersschepen en de verdere werkzaamhede
 
 | --- | --- | --- | --- | --- | --- |
 |---|---|---|---|---|---|
-| --- |  *Tonnage*   | --- | --- | --- | --- |
-| Scheepstype  | tot 500 GT  | 500 tot 2000 GT  | 2000 tot 6000 GT  | 6000 tot 9000 GT  | vanaf 9000 GT  |
-| Passagiersschip  | f 45307,-  | f 61490,-  | f 94413,-  | f 132908,-  | f 213728,-  |
+| --- | * Tonnage*  | --- | --- | --- | --- |
+| Scheepstype   | tot 500 GT   | 500 tot 2000 GT  | 2000 tot 6000 GT   | 6000 tot 9000 GT  | vanaf 9000 GT  |
+| Passagiersschip   | f 45307,-  | f 61490,-  | f 94413,-  | f 132908,-   | f 213728,-   |
 
 ### Artikel  2  
 
@@ -31,9 +31,9 @@ Voor het onderzoek van geklasseerde passagiersschepen en de verdere werkzaamhede
 
 | --- | --- | --- | --- | --- | --- |
 |---|---|---|---|---|---|
-| --- |  *Tonnage*   | --- | --- | --- | --- |
-| Scheepstype  | tot 500 GT  | 500 tot 2000 GT  | 2000 tot 6000 GT  | 6000 tot 9000 GT  | vanaf 9000 GT  |
-| Passagiersschip  | f 5878,-  | f 6201,-  | f 9637,-  | f 12192,-  | f 25364,-  |
+| --- |  *Tonnage*  | --- | --- | --- | --- |
+| Scheepstype  |  tot 500 GT   | 500 tot 2000 GT  | 2000 tot 6000 GT  | 6000 tot 9000 GT   | vanaf 9000 GT  |
+| Passagiersschip  |  f 5878,-   | f 6201,-   | f 9637,-   | f 12192,-  | f 25364,-   |
 
 ### Artikel  3  
 
@@ -41,7 +41,7 @@ Voor het onderzoek van geklasseerde vracht- en tankschepen en de verdere werkzaa
 
 | --- | --- | --- | --- | --- |
 |---|---|---|---|---|
-| --- |  *Tonnage*   | --- | --- | --- |
+| --- | *Tonnage*  | --- | --- | --- |
 | Scheepstype  | tot 2000 GT  | 2000 tot 6000 GT  | 6000 tot 9000 GT  | vanaf 9000 GT  |
 | Vrachtschip  | f 16962,-  | f 28387,-  | f 35873,-  | f 46833,-  |
 | Olietanker  | f 25099,-  | f 35959,-  | f 42145,-  | f 52303,-  |
@@ -55,9 +55,9 @@ Voor het onderzoek van geklasseerde vracht- en tankschepen en de verdere werkzaa
 
 | --- | --- | --- | --- | --- |
 |---|---|---|---|---|
-| --- |  *Tonnage*   | --- | --- | --- |
-| Scheepstype  | tot 2000 GT  | 2000 tot 6000 GT  | 6000 tot 9000 GT  | vanaf 9000 GT  |
-| Vrachtschip  | f 3118,-  | f 3474,-  | f 3726,-  | f 4046,-  |
+| --- | *Tonnage*  | --- | --- | --- |
+| Scheepstype   | tot 2000 GT   | 2000 tot 6000 GT  | 6000 tot 9000 GT   | vanaf 9000 GT  |
+| Vrachtschip  | f 3118,-  | f 3474,-   | f 3726,-   | f 4046,-  |
 | Olietanker  | f 3292,-  | f 3739,-  | f 3978,-  | f 4176,-  |
 | Chemicaliëntanker  | f 4797,-  | f 5189,-  | f 5358,-  | f 5983,-  |
 | Olie/chemicaliëntanker  | f 4619,-  | f 5135,-  | f 5767,-  | f 6005,-  |
@@ -69,7 +69,7 @@ Voor het onderzoek van geklasseerd aannemersmateriaal en de verdere werkzaamhede
 
 | --- | --- | --- | --- | --- | --- |
 |---|---|---|---|---|---|
-| --- |  *Tonnage*   | --- | --- | --- | --- |
+| --- | *Tonnage*  | --- | --- | --- | --- |
 | Scheepstype  | tot 500 GT  | 500 tot 2000 GT  | 2000 tot 6000 GT  | 6000 tot 9000 GT  | vanaf 9000 GT  |
 | Aannemersmate-  | f 12883,-  | f 17040,-  | f 27136,-  | f 37406,-  | f 47220,-  |
 | riaal met voort-  | --- | --- | --- | --- | --- |
@@ -83,7 +83,7 @@ Voor het onderzoek van geklasseerd aannemersmateriaal en de verdere werkzaamhede
 
 | --- | --- | --- | --- | --- | --- |
 |---|---|---|---|---|---|
-| --- |  *Tonnage*   | --- | --- | --- | --- |
+| --- | *Tonnage*  | --- | --- | --- | --- |
 | Scheepstype  | tot 500 GT  | 500 tot 2000 GT  | 2000 tot 6000 GT  | 6000 tot 9000 GT  | vanaf 9000 GT  |
 | Aannemers-  | f 2474,-  | f 3202,-  | f 3558,-  | f 3893,-  | f 1252,-  |
 | materiaal met  | --- | --- | --- | --- | --- |
@@ -97,7 +97,7 @@ Voor het onderzoek van geklasseerde schepen, geen passagiersschepen, vracht- en 
 
 | --- | --- | --- | --- | --- | --- |
 |---|---|---|---|---|---|
-| --- |  *Tonnage/lengte*   | --- | --- | --- | --- |
+| --- | *Tonnage/lengte*  | --- | --- | --- | --- |
 | Scheepstype  | tot 500 GT  | 500 tot 2000 GT  | vanaf 2000 GT  | tot 24 meter  | vanaf 24 meter  |
 | Supply- en sup-  | f 16676,-  | f 19547,-  | f 22214,-  | --- | --- |
 | portschip  | --- | --- | --- | --- | --- |
@@ -119,7 +119,7 @@ Voor het onderzoek van geklasseerde schepen, geen passagiersschepen, vracht- en 
 
 | --- | --- | --- | --- | --- | --- |
 |---|---|---|---|---|---|
-| --- |  *Tonnage/lengte*   | --- | --- | --- |
+| --- | *Tonnage/lengte*  | --- | --- | --- |
 | Scheepstype  | tot 500 GT  | 500 tot 2000 GT  | vanaf 2000 GT  | tot 24 meter  | vanaf 24 meter  |
 | Supply- en sup-  | f 2349,-  | f 3102,-  | f 3291,-  | --- | --- |
 | portschip  | --- | --- | --- | --- | --- |
@@ -149,7 +149,7 @@ Voor het onderzoek van geklasseerde schepen, geen passagiersschepen, vracht- en 
 
 Indien een scheepstype niet is opgenomen in een van de genoemde artikelen wordt door het Hoofd van de Scheepvaartinspectie het tarief gebaseerd op het tarief van het scheepstype dat hiermee het meest overeenkomt.  
 
-### Hoofdstuk  2  
+### Hoofdstuk 2  
 
 ####Tarieven certificaten niet-geklasseerde schepen volgens het geharmoniseerde systeem van onderzoek en certificering
 
@@ -159,7 +159,7 @@ Voor het onderzoek van niet-geklasseerde schepen en de verdere werkzaamheden nod
 
 | --- | --- | --- | --- | --- |
 |---|---|---|---|---|
-| --- |  *Tonnage\lengte*   | --- | --- |
+| --- | *Tonnage\lengte*  | --- | --- |
 | Scheepstype  | tot 500 GT  | vanaf 500 GT  | tot 24 meter  | vanaf 24 meter  |
 | Vrachtschip  | f 6493,-  | f 8962,-  | --- | --- |
 | Aannemersmaterieel  | f 7333,-  | f 9801,-  | --- | --- |
@@ -178,7 +178,7 @@ Voor het onderzoek van niet-geklasseerde schepen en de verdere werkzaamheden nod
 
 | --- | --- | --- | --- | --- |
 |---|---|---|---|---|
-| --- |  *Tonnage\lengte*   | --- | --- | --- |
+| --- | *Tonnage\lengte*  | --- | --- | --- |
 | Scheepstype  | tot 500 GT  | vanaf 500 GT  | tot 24 meter  | vanaf 24 meter  |
 | Vrachtschip  | f 1164,-  | f 1914,-  | --- | --- |
 | Aannemersmaterieel  | f 1248,-  | f 1998,-  | --- | --- |
@@ -195,7 +195,7 @@ Voor het onderzoek van niet-geklasseerde schepen en de verdere werkzaamheden nod
 
 Voor het tussentijds onderzoek van de romp aan de buitenzijde van niet-geklasseerde schepen nodig voor het viseren van het certificaat van deugdelijkheid of het veiligheidscertificaat, volgens het geharmoniseerde systeem van onderzoek en certificering, is een tarief verschuldigd van f 1120,-.  
 
-### Hoofdstuk  3  
+### Hoofdstuk 3  
 
 ####Tarieven overige documenten
 
@@ -205,11 +205,11 @@ Voor het tussentijds onderzoek van de romp aan de buitenzijde van niet-geklassee
 
 | --- | --- | --- |
 |---|---|---|
-|  *Tonnage/lengte*   |  *zonder voortstuwing*   |  *met voortstuwing*   |
+| *Tonnage/lengte*  | *zonder voortstuwing*  | *met voortstuwing*  |
 | < 24 meter  | f 768,-  | f 954,-  |
 | tot 500 GT  | f 853,-  | f 1231,-  |
 | 500 tot 2000 GT  | f 914,-  | f 1394,-  |
-| 2000 tot 6000 GT  | f 956,-  | f 1520,-  |
+| 2000 tot 6000 GT  |  f 956,-  | f 1520,-  |
 | 6000 tot 9000 GT  | f 984,-  | f 1715,-  |
 | vanaf 9000 GT  | f 1068,-  | f 1799,-  |
 
@@ -231,13 +231,13 @@ Voor het onderzoek aan boord en de verdere werkzaamheden nodig voor de afgifte v
 
 1.  Voor het onderzoek van een radio-installatie aan boord van bij Landsverordening van 25 juni 1953 (Pb. nr. 109) aangewezen schepen, varende met een zeebrief van Curaçao, onderscheidenlijk Sint Maarten, en aan boord van schepen als bedoeld in [artikel 2, eerste lid, onder f, g en h, van de Schepenwet](../../../../../../rijkswet/schepenwet/BWBR0001876/README.md), is het volgende tarief verschuldigd: 
 
-a. radiotelefonie-installatie f 480,-;  
+a.  radiotelefonie-installatie f 480,-;  
 
-b. radiotelegrafie-installatie f 1199,-;  
+b.  radiotelegrafie-installatie f 1199,-;  
 
-c. GMDSS radio-installatie voor de zeegebieden A1 en A2 f 480,-;  
+c.  GMDSS radio-installatie voor de zeegebieden A1 en A2 f 480,-;  
 
-d. GMDSS radio-installatie voor de zeegebieden A3 en A4 f 1199,-.     
+d.  GMDSS radio-installatie voor de zeegebieden A3 en A4 f 1199,-.     
 2.  Indien het onderzoek van een radio-installatie aan boord van een in Nederland thuis behorend schip geheel of gedeeltelijk in het buitenland plaatsvindt, is, onverminderd de artikelen 30, tweede lid, en 31, een toeslag verschuldigd van 25% van het tarief, genoemd in het eerste lid.   
 3.  Voor het verstrekken van een certificaat voor de radio-installatie is een tarief verschuldigd van f 350,-.   
 
@@ -245,11 +245,11 @@ d. GMDSS radio-installatie voor de zeegebieden A3 en A4 f 1199,-.
 
 Voor het onderzoek en de verdere werkzaamheden nodig voor de afgifte of de tussentijdse visering van het certificaat van geschiktheid voor het vervoer en het behandelen van beperkte hoeveelheden gevaarlijke en schadelijke vloeistoffen in bulk aan boord van offshore support vessels, is het volgende tarief verschuldigd: 
 
-a. voor de eerste afgifte f 1189,-;  
+a.  voor de eerste afgifte f 1189,-;  
 
-b. voor de hernieuwde afgifte f 810,-;  
+b.  voor de hernieuwde afgifte f 810,-;  
 
-c. voor de tussentijdse visering f 677,-.    
+c.  voor de tussentijdse visering f 677,-.    
 
 ### Artikel  21  
 
@@ -278,15 +278,15 @@ Voor een verzoek aan een buitenlandse autoriteit tot afgifte van certificaten al
 
 Indien de werkzaamheden ten behoeve van de afgifte van een document als bedoeld in deze regeling, met uitzondering van de documenten, bedoeld in de artikelen 21, 22 en 27, buiten toedoen van de ambtenaren van de Scheepvaartinspectie niet leiden tot de afgifte van dat document, is het volgende tarief verschuldigd: 
 
-a. indien de werkzaamheden niet volledig zijn uitgevoerd f 167,- per uur per ambtenaar;  
+a.  indien de werkzaamheden niet volledig zijn uitgevoerd f 167,- per uur per ambtenaar;  
 
-b. indien de werkzaamheden volledig zijn uitgevoerd het tarief dat is vastgesteld voor de afgifte van het document.    
+b.  indien de werkzaamheden volledig zijn uitgevoerd het tarief dat is vastgesteld voor de afgifte van het document.    
 
 ### Artikel  26  
 
 Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens de [Schepenwet](../../../../../../rijkswet/schepenwet/BWBR0001876/README.md), die niet op grond van een van de artikelen van deze regeling in rekening worden gebracht, is een tarief verschuldigd van f 167,- per uur per ambtenaar.  
 
-### Hoofdstuk  4  
+### Hoofdstuk 4  
 
 ####Tarieven goedkeuring uitrustingsstukken
 
@@ -331,24 +331,24 @@ Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens de [Schepenw
 | 1.29  | Materialen voor fabricage reddingvlotten.  | f  | 913,-  | f  | 1665,-  |
 | --- | --- | --- | --- | --- | --- |
 | --- | BRANDBESTRIJDINGS- EN VEILIGHEIDSMIDDELEN  | --- | --- | --- |
-| 2.1.1.1  | Persluchttoestellen  | f  | 1165,-  | f  | 2026,-  |
+| 2.1.1.1  | Persluchttoestellen  | f  | 1165,-  | f  |  2026,-  |
 | 2.1.1.2  | Ontsnappingstoestellen  | f  | 1165,-  | f  | 2026,-  |
-| 2.1.2  | Brandwerende kleding  | f  | 1165,-  | f  | 2026,-  |
-| 2.1.3  | Brandbijlen  | f  | 913,-  | f  | 1665,-  |
-| 2.1.4  | Brandbestendige reddinglijnen  | f  | 913,-  | f  | 1665,-  |
-| 2.1.5  | Brandslangen  | f  | 913,-  | f  | 1665,-  |
-| 2.1.6  | Straalpijpen  | f  | 913,-  | f  | 1665,-  |
-| 2.1.7  | Brandblusmiddelen  | f  | 1165,-  | f  | 2026,-  |
-| 2.1.9  | Draagbare blustoestellen  | f  | 1165,-  | f  | 2026,-  |
+| 2.1.2  | Brandwerende kleding  | f  | 1165,-  | f  |  2026,-  |
+| 2.1.3  | Brandbijlen  | f  | 913,-  | f  |  1665,-  |
+| 2.1.4  | Brandbestendige reddinglijnen  | f  | 913,-  | f  |  1665,-  |
+| 2.1.5  | Brandslangen  | f  | 913,-  | f  |  1665,-  |
+| 2.1.6  | Straalpijpen  | f  | 913,-  | f  |  1665,-  |
+| 2.1.7  | Brandblusmiddelen  | f  | 1165,-  | f  |  2026,-  |
+| 2.1.9  | Draagbare blustoestellen  | f  | 1165,-  | f  |  2026,-  |
 | 2.1.10  | Niet draagbare blustoestellen  | f  | 1165,-  | f  | 2026,-  |
-| 2.2.1  | Beademingstoestellen  | f  | 1165,-  | f  | 2026,-  |
-| 2.2.2  | Dagseinlampen  | f  | 1165,-  | f  | 2026,-  |
-| 2.2.4  | Loodsladders  | f  | 1165,-  | f  | 2026,-  |
-| 2.2.5  | Lijnwerptoestellen  | f  | 1165,-  | f  | 2026,-  |
-| 2.2.6  | Noodradiobakens (EPIRB's)  | f  | 1459,-  | f  | 2405,-  |
-| 2.2.7  | Veiligheidslampen  | f  | 913,-  | f  | 1665,-  |
-| 2.2.8  | Brancards  | f  | 913,-  | f  | 1665,-  |
-| 2.2.9  | Radartransponders (SART's)  | f  | 1165,-  | f  | 2026,-  |
+| 2.2.1  | Beademingstoestellen  | f  | 1165,-  | f  |  2026,-  |
+| 2.2.2  | Dagseinlampen  | f  | 1165,-  | f  |  2026,-  |
+| 2.2.4  | Loodsladders  | f  | 1165,-  | f  |  2026,-  |
+| 2.2.5  | Lijnwerptoestellen  | f  | 1165,-  | f  |  2026,-  |
+| 2.2.6  | Noodradiobakens (EPIRB's)  | f  | 1459,-  | f  |  2405,-  |
+| 2.2.7  | Veiligheidslampen  | f  | 913,-  | f  |  1665,-  |
+| 2.2.8  | Brancards  | f  | 913,-  | f  |  1665,-  |
+| 2.2.9  | Radartransponders (SART's)  | f  | 1165,-  | f  |  2026,-  |
 
 | --- | --- | --- | --- | --- | --- |
 |---|---|---|---|---|---|
@@ -415,7 +415,7 @@ Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens de [Schepenw
 
 Voor het onderzoek verbonden aan de produktietest van uitrustingsstukken of onderdelen daarvan is, inclusief reistijd, een tarief verschuldigd van f 167,- per uur.  
 
-### Hoofdstuk  5  
+### Hoofdstuk 5  
 
 ####Bijzondere bepalingen
 
@@ -431,13 +431,13 @@ Voor het onderzoek verbonden aan de produktietest van uitrustingsstukken of onde
 
 ### Artikel  32  
 
-Indien de in deze regeling genoemde certificaten door de Scheepvaartinspectie van Aruba, Curaçao, onderscheidenlijk Sint Maarten worden afgegeven, luiden de in deze regeling genoemde tarieven in het betaalmiddel van Aruba, Curaçao, onderscheidenlijk Sint Maarten.  
+Indien de in deze regeling genoemde certificaten door de Scheepvaartinspectie van Aruba, Curaçao, onderscheidenlijk Sint Maarten worden afgegeven, luiden de in deze regeling genoemde tarieven in het betaalmiddel van Aruba, Curaçao, onderscheidenlijk Sint Maarten. 
 
-### Artikel  32a  
+###Artikel 32a 
 
-De in deze regeling genoemde tarieven zijn verschuldigd voor het verrichten van werkzaamheden of diensten door ambtenaren van Aruba.  
+De in deze regeling genoemde tarieven zijn verschuldigd voor het verrichten van werkzaamheden of diensten door ambtenaren van Aruba. 
 
-### Hoofdstuk  6  
+### Hoofdstuk 6  
 
 ####Slotbepalingen
 
@@ -463,16 +463,16 @@ De Regeling tarieven verklaring bekendheid werktuiglijke installatie aan boord v
 
 ### Artikel  38  
 
-Deze regeling treedt voor Nederland en Aruba in werking met ingang van 1 februari 1999.  
+Deze regeling treedt voor Nederland en Aruba in werking met ingang van 1 februari 1999. 
 
 ### Artikel  39  
 
-Deze regeling wordt aangehaald als: Regeling tarieven Schepenwet 1999.  
+Deze regeling wordt aangehaald als: Regeling tarieven Schepenwet 1999. 
 Deze regeling zal met de toelichting worden geplaatst in de Staatscourant, de Curaçaosche Courant en het Afkondigingsblad van Aruba.   
 
 De 
 Minister van Verkeer en Waterstaat, 
-T.Netelenbos   
+T. Netelenbos     
 
 ### BIJLAGE  
 
@@ -480,9 +480,9 @@ Onderzoekstermijn als bedoeld in artikel 30, eerste lid. De termijn begint op de
 
 | --- | --- | --- |
 |---|---|---|
-| --- |  *Tonnage of lengte*   |  *Aantal dagen*   |
-|  *a. Nieuwbouw*   | --- | --- |
-| Passagiersschip  | < 500 GT  | 26  |
+| --- | *Tonnage of lengte*  | *Aantal dagen*  |
+| *a. Nieuwbouw*  | --- | --- |
+| Passagiersschip  |  < 500 GT  | 26  |
 | --- | 500-2000 GT  | 51  |
 | --- | 2000-6000 GT  | 76  |
 | --- | 6000-9000 GT  | 101  |
@@ -495,7 +495,7 @@ Onderzoekstermijn als bedoeld in artikel 30, eerste lid. De termijn begint op de
 | --- | 2000-6000 GT  | 31  |
 | --- | 6000-9000 GT  | 39  |
 | --- | > 9000 GT  | 56  |
-| Chemicaliëntanker  | < 2000 GT  | 17  |
+| Chemicaliëntanker  |  < 2000 GT  | 17  |
 | --- | 2000-6000 GT  | 34  |
 | --- | 6000-9000 GT  | 41  |
 | --- | > 9000 GT  | 59  |
@@ -538,8 +538,8 @@ Onderzoekstermijn als bedoeld in artikel 30, eerste lid. De termijn begint op de
 
 | --- | --- | --- |
 |---|---|---|
-| --- |  *Tonnage of lengte*   |  *Aantal dagen*   |
-|  *b. Overname en verbouw*   | --- | --- |
+| --- | *Tonnage of lengte*  | *Aantal dagen*  |
+| *b. Overname en verbouw*  | --- | --- |
 | Passagiersschip  | < 500 GT  | 4  |
 | --- | < 2000 GT  | 8  |
 | --- | 2000-6000 GT  | 10  |
@@ -576,7 +576,7 @@ Onderzoekstermijn als bedoeld in artikel 30, eerste lid. De termijn begint op de
 | --- | >24 meter  | 6  |
 | --- | --- | --- |
 | --- | --- | --- |
-|  *c. Hernieuwing certificaten*   | --- | --- |
+| *c. Hernieuwing certificaten*  | --- | --- |
 | Passagiersschip  | < 500 GT  | 2  |
 | --- | < 2000 GT  | 4  |
 | --- | 2000-6000 GT  | 5  |
@@ -604,7 +604,7 @@ Onderzoekstermijn als bedoeld in artikel 30, eerste lid. De termijn begint op de
 
 | --- | --- | --- |
 |---|---|---|
-| --- |  *Tonnage of lengte*   |  *Aantal dagen*   |
+| --- | *Tonnage of lengte*  | *Aantal dagen*  |
 | Modu met voortstuwing  | < 2000 GT  | 4  |
 | --- | > 2000 GT  | 5  |
 | Modu zonder voortstuwing  | < 500 GT  | 3  |
@@ -615,7 +615,7 @@ Onderzoekstermijn als bedoeld in artikel 30, eerste lid. De termijn begint op de
 | --- | >24 meter  | 3  |
 | Patrouille-, peil- en meetvaartuig  | <24 meter  | 2  |
 | --- | >24 meter  | 3  |
-|  *d. Hernieuwing certificaten SI schepen*   | --- |
+| *d. Hernieuwing certificaten SI schepen*  | --- |
 | Vrachtschip  | -  | 5  |
 | Aannemersmateriaal met voortstuwing  | < 500 GT  | 6  |
 | --- | > 500 GT  | 7  |
@@ -626,7 +626,7 @@ Onderzoekstermijn als bedoeld in artikel 30, eerste lid. De termijn begint op de
 | Personentender  | -  | 4  |
 | Patrouille-, peil- en meetvaartuig  | -  | 4  |
 | --- | --- | --- |
-|  *e. Viseren certificaten SI schepen*   | --- |
+| *e. Viseren certificaten SI schepen*  | --- |
 | Vrachtschip  | < 500 GT  | 1  |
 | --- | > 500 GT  | 2  |
 | Aannemersmateriaal met voortstuwing  | -  | 2  |
@@ -638,19 +638,19 @@ Onderzoekstermijn als bedoeld in artikel 30, eerste lid. De termijn begint op de
 | Personentender  | -  | 1  |
 | Patr.-, peil- en meetvaartuig  | -  | 1  |
 | --- | --- | --- |
-|  *f Afgifte diploma of verklaring*   | --- |
+| *f Afgifte diploma of verklaring*  | --- |
 | Diploma sloepsgast met onderzoek  | --- | 5  |
 | Verklaring bestman met/zonder verklaring  | --- | 1  |
 | Verklaring bekendheid mk met/zonder verklaring  | --- | 1  |
 | --- | --- | --- |
-|  *g. Afgifte verklaring bemand werken*   | --- |
+| *g. Afgifte verklaring bemand werken*  | --- |
 | Eerste afgifte  | < 2000 GT  | 2  |
 | Eerste afgifte  | 2000<6000 GT  | 3  |
 | Eerste afgifte  | > 6000 GT  | 4  |
 | Hernieuwde afgifte  | -  | 2  |
 | Visering verklaring bemand werken (SI schepen) -  | --- | 1  |
 | --- | --- | --- |
-|  *h. Prototype keur met beproevingen*   | --- |
+| *h. Prototype keur met beproevingen*  | --- |
 | Reddinggordels  | --- | 2  |
 | Automatisch opblaasbare vlotten  | --- | 3  |
 | Opblaasbare hulpverleningsboten  | --- | 3  |
@@ -669,7 +669,7 @@ Onderzoekstermijn als bedoeld in artikel 30, eerste lid. De termijn begint op de
 
 | --- | --- | --- |
 |---|---|---|
-| --- |  *Tonnage of lengte*   |  *Aantal dagen*   |
+| --- | *Tonnage of lengte*  | *Aantal dagen*  |
 | Lenswaterolieafscheiders  | --- | 3  |
 | Oliegehaltemeters  | --- | 3  |
 | Hydrostatische ontkoppelings systemen  | 1  |
@@ -700,7 +700,7 @@ Onderzoekstermijn als bedoeld in artikel 30, eerste lid. De termijn begint op de
 | Transmitters  | --- | 1  |
 | Overige producten  | --- | 2  |
 | --- | --- | --- |
-|  *i. Overige werkzaamheden*   | --- |
+| *i. Overige werkzaamheden*  | --- |
 | Afgifte NLS/COFCOS certificaat  | --- | 1  |
 | Aanpassing certificaat met onderzoek  | --- | 1  |
 | Afgifte verklaring met onderzoek  | --- | 1  |

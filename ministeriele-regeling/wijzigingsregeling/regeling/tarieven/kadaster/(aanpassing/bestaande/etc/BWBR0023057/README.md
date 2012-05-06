@@ -8,11 +8,11 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling tarieven Kadaster.   
+Wijzigt de Regeling tarieven Kadaster. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van 1 januari 2008.  
+Deze regeling treedt in werking met ingang van 1 januari 2008. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -20,4 +20,4 @@ Den Haag
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J.M.Cramer   
+J.M. Cramer     

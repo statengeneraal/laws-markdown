@@ -12,25 +12,25 @@ Overwegende dat in verband met de introductie van de euro als wettig betaalmidde
 Gelet op artikel 7e, derde lid, van genoemde wet,
 Besluit:    
 
-### Artikel  1  
+###Artikel 1 
 
-Het percentage waarmee de bedragen, genoemd in artikel 7c, lid 1, van de Wet op de kansspelen, zoals dat laatstelijk werd gewijzigd bij beschikking van 22 november 1996, nr. 592877/DBZ/96, wordt verhoogd, wordt vastgesteld op 14,9%, waardoor deze bedragen komen op respectievelijk € 350,- (driehonderd vijftig euro) en € 1.400,- (eenduizend vierhonderd euro).  
+Het percentage waarmee de bedragen, genoemd in artikel 7c, lid 1, van de Wet op de kansspelen, zoals dat laatstelijk werd gewijzigd bij beschikking van 22 november 1996, nr. 592877/DBZ/96, wordt verhoogd, wordt vastgesteld op 14,9%, waardoor deze bedragen komen op respectievelijk € 350,- (driehonderd vijftig euro) en € 1.400,- (eenduizend vierhonderd euro). 
 
-### Artikel  2  
+###Artikel 2 
 
-De hoogte van het bedrag genoemd in artikel 7b, vierde lid, van de Wet op de kansspelen, zoals dat laatstelijk werd gewijzigd bij beschikking van 8 november 1999, nummer 803261/DBZ/99 bedraagt € 10.700,- (tienduizend zevenhonderd euro).  
+De hoogte van het bedrag genoemd in artikel 7b, vierde lid, van de Wet op de kansspelen, zoals dat laatstelijk werd gewijzigd bij beschikking van 8 november 1999, nummer 803261/DBZ/99 bedraagt € 10.700,- (tienduizend zevenhonderd euro). 
 
-### Artikel  3  
+###Artikel 3 
 
-Deze beschikking treedt in werking met ingang van 1 januari 2002 en zal worden gepubliceerd in de Nederlandse Staatscourant.  
+Deze beschikking treedt in werking met ingang van 1 januari 2002 en zal worden gepubliceerd in de Nederlandse Staatscourant. 
 
-Den Haag 
-29 november 2001.    
+Den Haag
+29 november 2001.
 
 De 
-Staatssecretaris van Justititie, 
+Staatssecretarisvan Justititie,
 
-namens deze,   
+namens deze, 
 
-M.C.A. Blom, Blom,  
-directeur Sancties, Reclassering en Slachtofferzorg.     
+M.C.A. Blom,  Blom,  
+directeur Sancties, Reclassering en Slachtofferzorg.    

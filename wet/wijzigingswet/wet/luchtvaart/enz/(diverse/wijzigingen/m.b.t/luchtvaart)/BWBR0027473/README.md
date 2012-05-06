@@ -11,37 +11,37 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet luchtvaart.   
+Wijzigt de Wet luchtvaart. 
 
 ### Artikel  II  
 
-Wijzigt de Wijzigingswet Wet luchtvaart (Regelgeving burgerluchthavens en militaire luchthavens).   
+Wijzigt de Wijzigingswet Wet luchtvaart (Regelgeving burgerluchthavens en militaire luchthavens). 
 
 ### Artikel  IIa  
 
-Wijzigt de Luchtvaartwet.   
+Wijzigt de Luchtvaartwet. 
 
 ### Artikel  IIb  
 
-Wijzigt het Wetboek van Strafrecht.   
+Wijzigt het Wetboek van Strafrecht. 
 
 ### Artikel  IIc  
 
-Het [Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) zoals het luidde vóór inwerkingtreding van artikel IIb blijft van toepassing op een luchtvaartterrein, aangewezen op grond van [artikel 18 van de Luchtvaartwet](../../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md), zolang op dat luchtvaartterrein het bepaalde bij of krachtens de [Luchtvaartwet](../../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) van toepassing blijft krachtens [artikel IX, tweede lid](../../../../../../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md), of [artikel XVIII, derde lid, van de in artikel II genoemde Wet van 18 december 2008](../../../../../../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md).  
+Het [Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) zoals het luidde vóór inwerkingtreding van artikel IIb blijft van toepassing op een luchtvaartterrein, aangewezen op grond van [artikel 18 van de Luchtvaartwet](../../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md), zolang op dat luchtvaartterrein het bepaalde bij of krachtens de [Luchtvaartwet](../../../../../../../../../../wet/luchtvaartwet/BWBR0002267/README.md) van toepassing blijft krachtens [artikel IX, tweede lid](../../../../../../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md), of [artikel XVIII, derde lid, van de in artikel II genoemde Wet van 18 december 2008](../../../../../../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md). 
 
 ### Artikel  IId  
 
-Wijzigt de Wet wapens en munitie.   
+Wijzigt de Wet wapens en munitie. 
 
 ### Artikel  III  
 
-Wijzigt de Wijzigingswet Wet Luchtverkeer (luchtvaartuigen en vluchtuitvoering), de Wijzigingswet Wet luchtvaart enz. (uitvoering EG-verordeningen i.v.m. totstandkoming gemeenschappelijk Europees luchtruim) (Stb. 2007/405) en de Wijzigingswet Wet luchtvaart (communautaire vergunning luchtverkeersleiders).   
+Wijzigt de Wijzigingswet Wet Luchtverkeer (luchtvaartuigen en vluchtuitvoering), de Wijzigingswet Wet luchtvaart enz. (uitvoering EG-verordeningen i.v.m. totstandkoming gemeenschappelijk Europees luchtruim) (Stb. 2007/405) en de Wijzigingswet Wet luchtvaart (communautaire vergunning luchtverkeersleiders). 
 
 ### Artikel  IV  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. Daarbij kan worden bepaald dat een artikel of onderdeel terugwerkt tot en met een in dat besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. Daarbij kan worden bepaald dat een artikel of onderdeel terugwerkt tot en met een in dat besluit te bepalen tijdstip. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 18 maart 2010  

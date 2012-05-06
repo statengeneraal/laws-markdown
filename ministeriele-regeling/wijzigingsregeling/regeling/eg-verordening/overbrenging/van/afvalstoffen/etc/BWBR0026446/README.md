@@ -8,15 +8,15 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling EG-verordening overbrenging van afvalstoffen.   
+Wijzigt de Regeling EG-verordening overbrenging van afvalstoffen. 
 
 ### Artikel  II  
 
-Op voor het tijdstip van inwerkingtreding van deze regeling ingediende verzoeken tot verlaging van een te stellen waarborgsom wordt beslist overeenkomstig de [Regeling EG-verordening overbrenging van afvalstoffen](../../../../../../../../../ministeriele-regeling/regeling/eg-verordening/overbrenging/van/afvalstoffen/BWBR0022213/README.md), zoals deze luidde onmiddellijk voorafgaande aan de inwerkingtreding van deze regeling.  
+Op voor het tijdstip van inwerkingtreding van deze regeling ingediende verzoeken tot verlaging van een te stellen waarborgsom wordt beslist overeenkomstig de [Regeling EG-verordening overbrenging van afvalstoffen](../../../../../../../../../ministeriele-regeling/regeling/eg-verordening/overbrenging/van/afvalstoffen/BWBR0022213/README.md), zoals deze luidde onmiddellijk voorafgaande aan de inwerkingtreding van deze regeling. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van 1 november 2009.  
+Deze regeling treedt in werking met ingang van 1 november 2009. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -24,4 +24,4 @@ Den Haag
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J.M.Cramer   
+J.M. Cramer     

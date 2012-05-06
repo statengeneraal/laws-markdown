@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit bovenwettelijke uitkeringen bij werkloosheid van rechterlijke ambtenaren.   
+Wijzigt het Besluit bovenwettelijke uitkeringen bij werkloosheid van rechterlijke ambtenaren. 
 
 ### Artikel  II  
 
-De [artikelen 2](../../../../../../../../../../AMvB/besluit/bovenwettelijke/uitkeringen/bij/werkloosheid/van/rechterlijke/etc/BWBR0011826/README.md) en [9 van het Besluit bovenwettelijke uitkeringen bij werkloosheid van rechterlijke ambtenaren](../../../../../../../../../../AMvB/besluit/bovenwettelijke/uitkeringen/bij/werkloosheid/van/rechterlijke/etc/BWBR0011826/README.md), zoals deze luidden op de dag voor inwerkingtreding van dit besluit, blijven van toepassing ten aanzien van de betrokkenen in de zin van dat besluit van wie de eerste werkloosheidsdag is gelegen voor de dag van inwerkingtreding van dit besluit.  
+De [artikelen 2](../../../../../../../../../../AMvB/besluit/bovenwettelijke/uitkeringen/bij/werkloosheid/van/rechterlijke/etc/BWBR0011826/README.md) en [9 van het Besluit bovenwettelijke uitkeringen bij werkloosheid van rechterlijke ambtenaren](../../../../../../../../../../AMvB/besluit/bovenwettelijke/uitkeringen/bij/werkloosheid/van/rechterlijke/etc/BWBR0011826/README.md), zoals deze luidden op de dag voor inwerkingtreding van dit besluit, blijven van toepassing ten aanzien van de betrokkenen in de zin van dat besluit van wie de eerste werkloosheidsdag is gelegen voor de dag van inwerkingtreding van dit besluit. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van 1 januari 2006.  
+Dit besluit treedt in werking met ingang van 1 januari 2006. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -31,7 +31,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 22 augustus 2005  
 Beatrix  
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 J. P. H. Donner   
 
 de *eenendertigste* augustus 2005 

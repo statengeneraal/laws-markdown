@@ -20,7 +20,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 *produktiecapaciteit:* de hoeveelheid van een stof die per jaar zou kunnen worden geproduceerd met behulp van het technologische proces dat wordt gebruikt of, indien het proces nog niet operationeel is, gebruikt zal worden in de desbetreffende inrichting;  
 
-*ton:* een metrieke ton, zijnde 1.000 kg.    
+*ton:* een metrieke ton, zijnde 1.000 kg.   
 
 ### Hoofdstuk  2  
 
@@ -66,7 +66,7 @@ b. van elke stof van Lijst 1 die naar verwachting in de inrichting zal worden ge
 2° de hoeveelheid die naar verwachting zal worden geproduceerd en de doeleinden van de productie;    
 
 c. informatie over verwachte veranderingen in de inrichting gedurende het jaar ten opzichte van eerder verstrekte gedetailleerde technische beschrijvingen van de inrichting, met inbegrip van inventarislijsten van apparatuur en gedetailleerde schema’s.     
-5.  Het tweede en derde lid gelden niet, indien de betrokken, in artikel 3, tweede lid, bedoelde inrichting een ziekenhuis betreft.   
+5.  Het tweede en derde lid gelden niet, indien de betrokken, in artikel 3, tweede lid, bedoelde inrichting een ziekenhuis betreft.  
 
 ### Artikel  3  
 
@@ -107,7 +107,7 @@ b. van elke stof van Lijst 1 die naar verwachting in de inrichting zal worden ge
 
 2° de hoeveelheid die naar verwachting zal worden geproduceerd, de tijdvakken waarin de productie naar verwachting zal plaatsvinden en de doeleinden van de productie;    
 
-c. informatie over verwachte veranderingen in de inrichting gedurende het jaar ten opzichte van eerder verstrekte gedetailleerde technische beschrijvingen van de inrichting.     
+c. informatie over verwachte veranderingen in de inrichting gedurende het jaar ten opzichte van eerder verstrekte gedetailleerde technische beschrijvingen van de inrichting.    
 
 ### Artikel  4  
 
@@ -116,7 +116,7 @@ c. informatie over verwachte veranderingen in de inrichting gedurende het jaar t
 
 a. de chemische benaming, de structuurformule en het CAS-registratienummer, indien bekend;  
 
-b. de hoeveelheid die is verkregen uit of overgedragen naar een andere staat die partij is bij het verdrag, waarbij per overdracht de hoeveelheid, de ontvanger en het doel worden vermeld.     
+b. de hoeveelheid die is verkregen uit of overgedragen naar een andere staat die partij is bij het verdrag, waarbij per overdracht de hoeveelheid, de ontvanger en het doel worden vermeld.    
 
 ### Artikel  5  
 
@@ -167,7 +167,7 @@ d. de doeleinden waarvoor de productie, bewerking, verwerking of het verbruik va
 3° rechtstreekse uitvoer, onder vermelding van het betrokken land van uitvoer;  
 
 4° andere doeleinden, onder vermelding van deze andere doeleinden;       
-4.  Dit artikel is niet van toepassing met betrekking tot mengsels met een laag gehalte aan stoffen van Lijst 2.   
+4.  Dit artikel is niet van toepassing met betrekking tot mengsels met een laag gehalte aan stoffen van Lijst 2.  
 
 ### Artikel  6  
 
@@ -194,7 +194,7 @@ a. de chemische benaming, de door de inrichting gehanteerde gangbare benaming of
 b. bij de jaarlijkse kennisgeving, bedoeld in het eerste lid, betreffende activiteiten in het verleden: de hoeveelheid, bij benadering, van de productie van de stof van Lijst 3 in het voorafgaande kalenderjaar, of in geval van opgave van verwachte activiteiten, de verwachte productie voor het volgende kalenderjaar, uitgedrukt in de volgende waarden: 30 tot 200 ton, 200 tot 1.000 ton, 1.000 tot 10.000 ton, 10.000 tot 100.000 ton en 100.000 ton of meer;  
 
 c. de doeleinden waarvoor de stof werd of zal worden geproduceerd.     
-4.  Dit artikel is niet van toepassing met betrekking tot mengsels met een laag gehalte aan stoffen van Lijst 3.   
+4.  Dit artikel is niet van toepassing met betrekking tot mengsels met een laag gehalte aan stoffen van Lijst 3.  
 
 ### Artikel  7  
 
@@ -215,11 +215,11 @@ b. meer dan 30 ton door middel van synthese verkregen, niet in Lijst 1, Lijst 2 
 5° in geval van een inrichting als bedoeld in onderdeel a: de totale hoeveelheid, bij benadering, van de productie in het voorafgaande kalenderjaar van niet opgegeven onderscheiden organische stoffen, uitgedrukt in de volgende waarden: tot 1.000 ton, 1.000 tot 10.000 ton en 10.000 ton of meer;  
 
 6° in geval van een inrichting als bedoeld in onderdeel b: het aantal fabrieken binnen het fabriekscomplex dat de onderscheiden organische stoffen heeft geproduceerd die de chemische elementen fosfor, zwavel of fluor bevatten, en de hoeveelheid, bij benadering, van deze stoffen die in het voorafgaande kalenderjaar in die fabrieken zijn geproduceerd, uitgedrukt in de volgende waarden: tot 200 ton, 200 tot 1.000 ton, 1.000 tot 10.000 ton en 10.000 ton of meer.       
-2.  Dit artikel is niet van toepassing op inrichtingen die uitsluitend explosieven of koolwaterstoffen heeft geproduceerd.   
+2.  Dit artikel is niet van toepassing op inrichtingen die uitsluitend explosieven of koolwaterstoffen heeft geproduceerd.  
 
 ### Artikel  8  
 
-De ingevolge dit Hoofdstuk en Hoofdstuk 4 aan Onze Minister te verstrekken gegevens worden ingediend bij de douaneautoriteit op de BES.  
+De ingevolge dit Hoofdstuk en Hoofdstuk 4 aan Onze Minister te verstrekken gegevens worden ingediend bij de douaneautoriteit op de BES. 
 
 ### Hoofdstuk  3  
 
@@ -238,7 +238,7 @@ c. het adres en de kadastrale aanduiding van de inrichting waarvoor de ontheffin
 
 d. een technische beschrijving van de inrichting.     
 3.  De douaneautoriteit op de BES doet de aanvraag, vergezeld van zijn advies, zo spoedig mogelijk toekomen aan Onze Minister.   
-4.  Ter beoordeling van de aanvraag is de aanvrager verplicht alle door of namens Onze Minister verlangde inlichtingen te verstrekken.   
+4.  Ter beoordeling van de aanvraag is de aanvrager verplicht alle door of namens Onze Minister verlangde inlichtingen te verstrekken.  
 
 ### Hoofdstuk  4  
 
@@ -253,7 +253,7 @@ a. het adres en de kadastrale aanduiding van de inrichting;
 b. een technische beschrijving van de inrichting, met inbegrip van een inventarislijst van de apparatuur.     
 2.  Degene die op het tijdstip van inwerkingtreding van dit besluit handelingen verricht waarvoor een ontheffing als bedoeld in [artikel 3, vierde lid, onderdeel a, van de wet](../../../../../../../wet-BES/wet/verdrag/chemische/wapens/bes/BWBR0028248/README.md) is vereist dient binnen twee weken na dat tijdstip een aan Onze Minister gerichte aanvraag om ontheffing in bij de douaneautoriteit op de BES. De artikelen 3 en 9, derde en vierde lid, zijn van overeenkomstige toepassing.   
 3.  Degene die op het tijdstip van inwerkingtreding van dit besluit handelingen verricht waarvoor een ontheffing, als bedoeld in [artikel 3, vierde lid, onderdeel b, van de wet](../../../../../../../wet-BES/wet/verdrag/chemische/wapens/bes/BWBR0028248/README.md) is vereist, dient binnen twee weken na dat tijdstip een aan Onze Minister gerichte aanvraag om ontheffing in bij de douaneautoriteit op de BES. De artikelen 4 en 9, derde en vierde lid, zijn van overeenkomstige toepassing.   
-4.  De artikelen 3 en 4 gelden niet zolang niet op de aanvraag om een ontheffing als in het tweede of derde lid bedoeld is beslist.   
+4.  De artikelen 3 en 4 gelden niet zolang niet op de aanvraag om een ontheffing als in het tweede of derde lid bedoeld is beslist.  
 
 ### Artikel  11  
 
@@ -283,7 +283,7 @@ d. van elke stof van Lijst 2 of Lijst 3 die werd geproduceerd met het oog op de 
 
 2° de data waarop de stof werd geproduceerd en de geproduceerde hoeveelheid;  
 
-3° de plaats waar de stof is afgeleverd en de aard van het geproduceerde eindproduct, indien bekend.      
+3° de plaats waar de stof is afgeleverd en de aard van het geproduceerde eindproduct, indien bekend.     
 
 ### Artikel  12  
 
@@ -304,12 +304,12 @@ b. meer dan 30 ton door middel van synthese verkregen, niet in Lijst 1, Lijst 2 
 5° in geval van een inrichting als bedoeld in onderdeel a: de totale hoeveelheid, bij benadering, van de productie in het voorafgaande kalenderjaar van niet opgegeven onderscheiden organische stoffen, uitgedrukt in de volgende waarden: tot 1.000 ton, 1.000 tot 10.000 ton en 10.000 ton of meer;  
 
 6° in geval van een inrichting als bedoeld in onderdeel b: het aantal fabrieken binnen het fabriekscomplex dat de onderscheiden organische stoffen heeft geproduceerd die de chemische elementen fosfor, zwavel of fluor bevatten, en de hoeveelheid, bij benadering, van deze stoffen die in het voorafgaande kalenderjaar in die fabrieken zijn geproduceerd, uitgedrukt in de volgende waarden: tot 200 ton, 200 tot 1.000 ton, 1.000 tot 10.000 ton en 10.000 ton of meer.     
-2.  Dit artikel is niet van toepassing op inrichtingen die uitsluitend explosieven of koolwaterstoffen heeft geproduceerd.   
+2.  Dit artikel is niet van toepassing op inrichtingen die uitsluitend explosieven of koolwaterstoffen heeft geproduceerd.  
 
 ### Artikel  13  
 
-Dit besluit treedt in werking met ingang van het tijdstip van inwerkingtreding van de [Wet verdrag chemische wapens BES](../../../../../../../wet-BES/wet/verdrag/chemische/wapens/bes/BWBR0028248/README.md).  
+Dit besluit treedt in werking met ingang van het tijdstip van inwerkingtreding van de [Wet verdrag chemische wapens BES](../../../../../../../wet-BES/wet/verdrag/chemische/wapens/bes/BWBR0028248/README.md). 
 
 ### Artikel  14  
 
-Dit besluit kan worden aangehaald als: Uitvoeringsbesluit verdrag chemische wapens BES.  
+Dit besluit kan worden aangehaald als: Uitvoeringsbesluit verdrag chemische wapens BES. 

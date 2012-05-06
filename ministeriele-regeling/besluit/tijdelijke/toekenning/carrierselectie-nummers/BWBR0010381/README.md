@@ -4,11 +4,11 @@
 
 De Staatssecretaris van Verkeer en Waterstaat,  
 Gelet op [artikel 4.2, vijfde lid, van de Telecommunicatiewet](../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder:   a. nummerplan:  het Nummerplan telefoon-en ISDN-diensten;    b. carrierselectie-dienst:  dienst die het een gebruiker van de vaste openbare telefoondienst mogelijk maakt om het voor die dienst noodzakelijke transport van gegevens gedeeltelijk door een ander te laten verzorgen dan degene die voor hem de aansluiting op het vaste openbare telefoonnetwerk en de toegang tot de vaste openbare telefoondienst verzorgt, van welke mogelijkheid de gebruiker gebruik kan maken door een daarvoor bestemd nummer te kiezen onmiddellijk voorafgaand aan het nummer, de internationale toegangscode uitgezonderd, waarmee hij had kunnen volstaan indien hij van die mogelijkheid geen gebruik had gemaakt.     
+In dit besluit wordt verstaan onder: a.nummerplan: het Nummerplan telefoon-en ISDN-diensten;b. carrierselectie-dienst: dienst die het een gebruiker van de vaste openbare telefoondienst mogelijk maakt om het voor die dienst noodzakelijke transport van gegevens gedeeltelijk door een ander te laten verzorgen dan degene die voor hem de aansluiting op het vaste openbare telefoonnetwerk en de toegang tot de vaste openbare telefoondienst verzorgt, van welke mogelijkheid de gebruiker gebruik kan maken door een daarvoor bestemd nummer te kiezen onmiddellijk voorafgaand aan het nummer, de internationale toegangscode uitgezonderd, waarmee hij had kunnen volstaan indien hij van die mogelijkheid geen gebruik had gemaakt.  
 
 ### Artikel  2  
 
@@ -21,9 +21,9 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Besluit tijdelijke toekenning carrier-selectie-nummers.  
+Dit besluit wordt aangehaald als: Besluit tijdelijke toekenning carrier-selectie-nummers. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Staatssecretaris van Verkeer en Waterstaat, 
-J.M. deVries    
+J.M. de Vries      

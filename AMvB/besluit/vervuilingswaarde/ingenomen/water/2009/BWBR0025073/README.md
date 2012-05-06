@@ -21,19 +21,19 @@ In dit besluit wordt verstaan onder:
 
 *inspecteur:* hoofd, onderscheidenlijk de in [artikel 123, derde lid, onder b, van de Waterschapswet](../../../../../../../wet/waterschapswet/BWBR0005108/README.md), bedoelde ambtenaar van het waterschap;  
 
-*vervuilingswaarde per m <sup>3</sup> ingenomen water:* vervuilingswaarde als bedoeld in [artikel 7.3, eerste lid, van de Waterwet](../../../../../../../wet/waterwet/BWBR0025458/README.md) en [artikel 122k, tweede lid, van de Waterschapswet](../../../../../../../wet/waterschapswet/BWBR0005108/README.md);  
+*vervuilingswaarde per m<sup>3</sup> ingenomen water:* vervuilingswaarde als bedoeld in [artikel 7.3, eerste lid, van de Waterwet](../../../../../../../wet/waterwet/BWBR0025458/README.md) en [artikel 122k, tweede lid, van de Waterschapswet](../../../../../../../wet/waterschapswet/BWBR0005108/README.md);  
 
-*zuurstofverbruik:* zuurstofverbruik bepaald op basis van de som van het chemisch zuurstofverbruik en het zuurstofverbruik door omzetting van stikstofverbindingen, uitgedrukt in kilogrammen.    
+*zuurstofverbruik:* zuurstofverbruik bepaald op basis van de som van het chemisch zuurstofverbruik en het zuurstofverbruik door omzetting van stikstofverbindingen, uitgedrukt in kilogrammen.   
 
 ### Artikel  1a  
 
-Dit besluit berust mede op [artikel 7.5, vijfde lid, van de Waterwet](../../../../../../../wet/waterwet/BWBR0025458/README.md).  
+Dit besluit berust mede op [artikel 7.5, vijfde lid, van de Waterwet](../../../../../../../wet/waterwet/BWBR0025458/README.md). 
 
 ### Artikel  2  
 
-De vervuilingswaarde per m <sup>3</sup> ingenomen water wordt bepaald met behulp van de navolgende tabel.  
+De vervuilingswaarde per m<sup>3</sup> ingenomen water wordt bepaald met behulp van de navolgende tabel.  
 
-|  *Indien de bedrijfsruimte of een onderdeel daarvan de volgende bedrijfscategorie betreft*   |  *vervuilingswaarde per m <sup>3</sup>* *ingenomen water*   |
+|  *Indien de bedrijfsruimte of een onderdeel daarvan de volgende bedrijfscategorie betreft*   |  *vervuilingswaarde per m<sup>3</sup> * *ingenomen water*   |
 |:---|:---|
 | Werkplaatsen voor motorvoertuigen en motoren  | 0,028  |
 | Bij afwezigheid of onvoldoende functioneren van saneringsmaatregelen  | 0,083  |
@@ -95,11 +95,11 @@ De vervuilingswaarde per m <sup>3</sup> ingenomen water wordt bepaald met behulp
 
 ### Artikel  3  
 
-Indien in het heffingsjaar voorafgaande aan de toepassing van [artikel 7.4 van de Waterwet](../../../../../../../wet/waterwet/BWBR0025458/README.md) of [artikel 122k van de Waterschapswet](../../../../../../../wet/waterschapswet/BWBR0005108/README.md) het zuurstofverbruik, voor de betrokken bedrijfsruimte of voor het betrokken onderdeel daarvan, is bepaald met behulp van door meting, bemonstering en analyse verkregen gegevens, wordt in afwijking van artikel 2 de vervuilingswaarde per m <sup>3</sup> ingenomen water bepaald aan de hand van de formule: C / (D x 54,8) waarbij: C = het aantal kilogrammen zuurstofverbruik van de geloosde of afgevoerde stoffen over de etmalen van het voorafgaande heffingsjaar waarover meting, bemonstering en analyse hebben plaatsgevonden; en D = het aantal m <sup>3</sup> ingenomen water over de etmalen van het voorafgaande heffingsjaar waarover meting, bemonstering en analyse hebben plaatsgevonden.  
+Indien in het heffingsjaar voorafgaande aan de toepassing van [artikel 7.4 van de Waterwet](../../../../../../../wet/waterwet/BWBR0025458/README.md) of [artikel 122k van de Waterschapswet](../../../../../../../wet/waterschapswet/BWBR0005108/README.md) het zuurstofverbruik, voor de betrokken bedrijfsruimte of voor het betrokken onderdeel daarvan, is bepaald met behulp van door meting, bemonstering en analyse verkregen gegevens, wordt in afwijking van artikel 2 de vervuilingswaarde per m<sup>3</sup> ingenomen water bepaald aan de hand van de formule: C / (D x 54,8) waarbij: C = het aantal kilogrammen zuurstofverbruik van de geloosde of afgevoerde stoffen over de etmalen van het voorafgaande heffingsjaar waarover meting, bemonstering en analyse hebben plaatsgevonden; en D = het aantal m<sup>3</sup> ingenomen water over de etmalen van het voorafgaande heffingsjaar waarover meting, bemonstering en analyse hebben plaatsgevonden. 
 
 ### Artikel  4  
 
-1.  De vervuilingswaarde per m <sup>3</sup> ingenomen water kan door de heffingplichtige op zijn kosten op aanvraag, dan wel ambtshalve door de inspecteur op kosten van de betrokken beheerder, in afwijking van de artikelen 2 en 3, worden bepaald aan de hand van monsterneming en analyse overeenkomstig het derde lid, onderscheidenlijk aan de hand van meting, bemonstering en analyse overeenkomstig het vierde lid.   
+1.  De vervuilingswaarde per m<sup>3</sup> ingenomen water kan door de heffingplichtige op zijn kosten op aanvraag, dan wel ambtshalve door de inspecteur op kosten van de betrokken beheerder, in afwijking van de artikelen 2 en 3, worden bepaald aan de hand van monsterneming en analyse overeenkomstig het derde lid, onderscheidenlijk aan de hand van meting, bemonstering en analyse overeenkomstig het vierde lid.   
 2.  In dit artikel wordt onder geschatte vervuilingswaarde verstaan: de overeenkomstig [artikel 122k van de Waterschapswet](../../../../../../../wet/waterschapswet/BWBR0005108/README.md), [artikel 7.5, vijfde lid, van de Waterwet](../../../../../../../wet/waterwet/BWBR0025458/README.md) in samenhang met dat artikel en artikel 2 van dit besluit aan de hand van de geschatte hoeveelheid in te nemen water berekende vervuilingswaarde met betrekking tot het zuurstofverbruik van de over het heffingsjaar te lozen of af te voeren stoffen.   
 3.  Bij een geschatte vervuilingswaarde van minder dan 100 vervuilingseenheden: 
 
@@ -115,13 +115,13 @@ b. bedraagt het aantal van de onder a bedoelde etmalen bij een geschatte vervuil
 
 4° 75 tot 100 vervuilingseenheden: 10;    
 
-c. vindt analyse van het onder a bedoelde etmaalverzamelmonster plaats en wordt het resultaat van die analyse uitgedrukt in grammen per m <sup>3</sup>;  
+c. vindt analyse van het onder a bedoelde etmaalverzamelmonster plaats en wordt het resultaat van die analyse uitgedrukt in grammen per m<sup>3</sup>;  
 
 d. wordt de som van de onder c bedoelde resultaten van de analyses over de onder a bedoelde etmalen gedeeld door het aantal van die etmalen;  
 
 e. wordt de uitkomst van de toepassing van het onder d bepaalde gecorrigeerd voor het deel van het ingenomen water dat niet wordt geloosd of afgevoerd, indien de heffingplichtige aannemelijk maakt dat dat deel 25% of meer bedraagt;  
 
-f. bedraagt de vervuilingswaarde per m <sup>3</sup> ingenomen water de overeenkomstig d en e gevonden waarde gedeeld door 54,8 kilogrammen.     
+f. bedraagt de vervuilingswaarde per m<sup>3</sup> ingenomen water de overeenkomstig d en e gevonden waarde gedeeld door 54,8 kilogrammen.     
 4.  Bij een geschatte vervuilingswaarde van 100 vervuilingseenheden of meer: 
 
 a. vindt in een aantal voor het heffingsjaar representatieve weken meting, bemonstering en analyse over de daarin gelegen etmalen plaats;  
@@ -140,7 +140,7 @@ b. bedraagt het aantal van de onder a bedoelde weken bij een geschatte vervuilin
 
 c. wordt het zuurstofverbruik in de onder a bedoelde etmalen geloosde of afgevoerde stoffen gedeeld door de hoeveelheid in die etmalen ingenomen water;  
 
-d. bedraagt de vervuilingswaarde per m <sup>3</sup> ingenomen water de uitkomst van de toepassing van onderdeel c, gedeeld door 54,8 kilogrammen.     
+d. bedraagt de vervuilingswaarde per m<sup>3</sup> ingenomen water de uitkomst van de toepassing van onderdeel c, gedeeld door 54,8 kilogrammen.     
 5.  Meting, bemonstering en analyse, alsmede de behandeling van het in het derde lid, onder a, bedoelde verzamelmonster geschieden overeenkomstig de nadere regels, bedoeld in [artikel 7.5, eerste lid, van de Waterwet](../../../../../../../wet/waterwet/BWBR0025458/README.md) en [artikel 122g van de Waterschapswet](../../../../../../../wet/waterschapswet/BWBR0005108/README.md).   
 6.  De inspecteur beslist op een in het eerste lid bedoelde aanvraag bij voor bezwaar vatbare beschikking en geeft daarin in ieder geval voorschriften met betrekking tot: 
 
@@ -150,24 +150,24 @@ b. de bepaling van de hoeveelheid ingenomen water;
 
 c. de correctie bedoeld in het derde lid, onder e;  
 
-d. de melding van verandering of te verwachten veranderingen die van invloed kunnen zijn op de vervuilingswaarde per m <sup>3</sup> ingenomen water van de betrokken bedrijfsruimte of het betrokken onderdeel van de bedrijfsruimte.     
-7.  Een op basis van dit artikel bepaalde vervuilingswaarde per m <sup>3</sup> ingenomen water geldt voor de betrokken bedrijfsruimte of het betrokken onderdeel van de bedrijfsruimte tot het heffingsjaar waarin dit artikel hetzij door de heffingplichtige hetzij door de inspecteur opnieuw wordt toegepast.   
+d. de melding van verandering of te verwachten veranderingen die van invloed kunnen zijn op de vervuilingswaarde per m<sup>3</sup> ingenomen water van de betrokken bedrijfsruimte of het betrokken onderdeel van de bedrijfsruimte.     
+7.  Een op basis van dit artikel bepaalde vervuilingswaarde per m<sup>3</sup> ingenomen water geldt voor de betrokken bedrijfsruimte of het betrokken onderdeel van de bedrijfsruimte tot het heffingsjaar waarin dit artikel hetzij door de heffingplichtige hetzij door de inspecteur opnieuw wordt toegepast.  
 
 ### Artikel  5  
 
-De veranderingen in de bedrijfsomstandigheden die aanleiding kunnen geven tot een wijziging van de vervuilingswaarde per m <sup>3</sup> ingenomen water worden onverwijld aan de inspecteur gemeld.  
+De veranderingen in de bedrijfsomstandigheden die aanleiding kunnen geven tot een wijziging van de vervuilingswaarde per m<sup>3</sup> ingenomen water worden onverwijld aan de inspecteur gemeld. 
 
 ### Artikel  6  
 
-Het [Besluit vervuilingswaarde ingenomen water](../../../../../../../AMvB/besluit/vervuilingswaarde/ingenomen/water/BWBR0011867/README.md) wordt ingetrokken.  
+Het [Besluit vervuilingswaarde ingenomen water](../../../../../../../AMvB/besluit/vervuilingswaarde/ingenomen/water/BWBR0011867/README.md) wordt ingetrokken. 
 
 ### Artikel  7  
 
-Dit besluit treedt in werking met ingang van 1 januari 2009.  
+Dit besluit treedt in werking met ingang van 1 januari 2009. 
 
 ### Artikel  8  
 
-Dit besluit wordt aangehaald als: Besluit vervuilingswaarde ingenomen water 2009.  
+Dit besluit wordt aangehaald als: Besluit vervuilingswaarde ingenomen water 2009. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -175,7 +175,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende toelichting in het St
 12 december 2008  
 Beatrix  
 
-De Staatssecretaris van Verkeer en Waterstaat , 
+De Staatssecretaris van Verkeer en Waterstaat ,  
 J. C. Huizinga-Heringa   
 
 de *eenendertigste* december 2008 

@@ -16,7 +16,7 @@ Hebben goedgevonden en verstaan:
 ### Artikel  1  
 
 1.  Ten behoeve van de beoordeling of een gratieverzoek opschortende werking heeft als bedoeld in [artikel 558a, derde lid, van het Wetboek van Strafvordering](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), wordt als aanvangsdatum van de tenuitvoerlegging van een straf of maatregel aangemerkt de handeling van de bevoegde instantie zoals deze in de artikelen 2 tot en met 5 nader wordt aangeduid, gericht op het ten uitvoer leggen van de straf of maatregel.   
-2.  Onder vrijheidsstraf wordt verstaan: gevangenisstraf, hechtenis, militaire detentie en jeugddetentie. Onder vrijheidsstraf wordt mede verstaan de tenuitvoerlegging van een voorwaardelijke vrijheidsstraf of van het voorwaardelijke deel van een vrijheidsstraf.   
+2.  Onder vrijheidsstraf wordt verstaan: gevangenisstraf, hechtenis, militaire detentie en jeugddetentie. Onder vrijheidsstraf wordt mede verstaan de tenuitvoerlegging van een voorwaardelijke vrijheidsstraf of van het voorwaardelijke deel van een vrijheidsstraf.  
 
 ### Artikel  2  
 
@@ -34,7 +34,7 @@ a. de vrijheidsstraf, waarvan de tenuitvoerlegging aanvangt:
 
 b. de taakstraf, welke aanvangt op de datum van de dagtekening van de aan de veroordeelde gerichte oproep voor het eerste gesprek bij de reclassering;  
 
-c. de geldboete, welke aanvangt op de datum van de dagtekening van de optisch leesbare acceptgiro met de mededeling van de dag of dagen waarop de betaling uiterlijk moet geschieden.    
+c. de geldboete, welke aanvangt op de datum van de dagtekening van de optisch leesbare acceptgiro met de mededeling van de dag of dagen waarop de betaling uiterlijk moet geschieden.   
 
 ### Artikel  3  
 
@@ -48,7 +48,7 @@ a. de ontzetting van bepaalde rechten, waarvan de tenuitvoerlegging aanvangt:
 
 b. de verbeurdverklaring, waarvan de tenuitvoerlegging aanvangt op de datum van het onherroepelijk worden van het vonnis of arrest;  
 
-c. de openbaarmaking van de rechterlijke uitspraak, waarvan de tenuitvoerlegging aanvangt op de datum van het onherroepelijk worden van het vonnis of arrest.    
+c. de openbaarmaking van de rechterlijke uitspraak, waarvan de tenuitvoerlegging aanvangt op de datum van het onherroepelijk worden van het vonnis of arrest.   
 
 ### Artikel  4  
 
@@ -58,7 +58,7 @@ a. de tenuitvoerlegging van [artikel 43 van de Wet overdracht tenuitvoerlegging 
 
 b. de tenuitvoerlegging naar aanleiding van een ongegrondverklaring van een bezwaarschrift ingediend krachtens [artikel 35 van de Wet overdracht tenuitvoerlegging strafvonnissen](../../../../../../../../wet/wet/overdracht/tenuitvoerlegging/strafvonnissen/BWBR0004028/README.md), welke aanvangt op de datum van dagtekening van de optisch leesbare acceptgiro met de mededeling van de dag of dagen waarop de betaling uiterlijk moet geschieden;  
 
-c. de tenuitvoerlegging van een gevangenisstraf die door het Internationaal Strafhof is opgelegd wegens een misdrijf gericht tegen de rechtspleging van het Strafhof en waarvan de tenuitvoerlegging in Nederland geschiedt overeenkomstig [artikel 67](../../../../../../../../rijkswet/uitvoeringswet/internationaal/strafhof/BWBR0013796/README.md) of [68 van de Uitvoeringswet Internationaal Strafhof](../../../../../../../../rijkswet/uitvoeringswet/internationaal/strafhof/BWBR0013796/README.md), welke aanvangt op het moment van overdracht van de veroordeelde aan de Nederlandse autoriteiten.    
+c. de tenuitvoerlegging van een gevangenisstraf die door het Internationaal Strafhof is opgelegd wegens een misdrijf gericht tegen de rechtspleging van het Strafhof en waarvan de tenuitvoerlegging in Nederland geschiedt overeenkomstig [artikel 67](../../../../../../../../rijkswet/uitvoeringswet/internationaal/strafhof/BWBR0013796/README.md) of [68 van de Uitvoeringswet Internationaal Strafhof](../../../../../../../../rijkswet/uitvoeringswet/internationaal/strafhof/BWBR0013796/README.md), welke aanvangt op het moment van overdracht van de veroordeelde aan de Nederlandse autoriteiten.   
 
 ### Artikel  5  
 
@@ -74,15 +74,15 @@ b. plaatsing in een inrichting voor stelselmatige daders, waarvan de tenuitvoerl
 
 c. onttrekking aan het verkeer, waarvan de tenuitvoerlegging aanvangt op de datum van het onherroepelijk worden van het vonnis of arrest;  
 
-d. ontneming van het wederrechtelijk verkregen voordeel, waarvan de tenuitvoerlegging aanvangt op de datum van de dagtekening van de optisch leesbare acceptgiro met de mededeling van de dag of dagen waarop de betaling uiterlijk moet geschieden.    
+d. ontneming van het wederrechtelijk verkregen voordeel, waarvan de tenuitvoerlegging aanvangt op de datum van de dagtekening van de optisch leesbare acceptgiro met de mededeling van de dag of dagen waarop de betaling uiterlijk moet geschieden.   
 
 ### Artikel  6  
 
-Dit besluit treedt in werking op 1 oktober 2005.  
+Dit besluit treedt in werking op 1 oktober 2005. 
 
 ### Artikel  7  
 
-Dit besluit wordt aangehaald als: Besluit aanvang tenuitvoerlegging straffen en maatregelen.  
+Dit besluit wordt aangehaald als: Besluit aanvang tenuitvoerlegging straffen en maatregelen. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -90,7 +90,7 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 23 augustus 2005  
 Beatrix  
 
-De Minister van Justitie , 
+De Minister van Justitie ,
 J. P. H. Donner   
 
 de *dertiende* september 2005 

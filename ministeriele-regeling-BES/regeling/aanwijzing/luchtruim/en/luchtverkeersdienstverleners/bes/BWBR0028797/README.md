@@ -2,6 +2,10 @@
 
 ##Regeling aanwijzing luchtruim en luchtverkeersdienstverleners BES
 
+De Minister van Verkeer en Waterstaat,  
+Gelet op de [artikelen 2, derde lid](../../../../../../../../AMvB-BES/besluit/luchtverkeer/bes/BWBR0028639/README.md), en [70, eerste lid, van het Besluit luchtverkeer BES](../../../../../../../../AMvB-BES/besluit/luchtverkeer/bes/BWBR0028639/README.md);
+Besluit:    
+
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
@@ -18,7 +22,7 @@ In deze regeling wordt verstaan onder:
 
 *flight level (FL):* vliegniveau;  
 
-*luchtverkeersdienstverlener:* rechtspersoon als bedoeld [artikel 70, eerste lid, van het Besluit luchtverkeer BES](../../../../../../../../AMvB-BES/besluit/luchtverkeer/bes/BWBR0028639/README.md).    
+*luchtverkeersdienstverlener:* rechtspersoon als bedoeld [artikel 70, eerste lid, van het Besluit luchtverkeer BES](../../../../../../../../AMvB-BES/besluit/luchtverkeer/bes/BWBR0028639/README.md).   
 
 ### Artikel  2  
 
@@ -46,7 +50,7 @@ d. Yrausquin ATZ, met de volgende grenzen:
 
 1°. de laterale grenzen vormen een cirkel met een straal 5 NM vanaf het ARP van Juancho Yrausquin vliegveld, voor zover deze cirkel zich binnen de Juliana TMA, zoals weergegeven in AIP Netherlands Antilles TNCM AD. 2-9.3, bevindt;  
 
-2°. de grond en 2600 ft.      
+2°. de grond en 2600 ft.     
 
 ### Artikel  3  
 
@@ -64,26 +68,26 @@ c. voor zover het betreft overig delen van het Vluchtinformatiegebied Curaçao, 
 
 a. voor zover het betreft de Roosevelt ATZ en de Yrausquin ATZ, de taken omschreven in [artikel 70, eerste lid, onderdelen a tot en met e, en g tot en met l, Besluit luchtverkeer BES](../../../../../../../../AMvB-BES/besluit/luchtverkeer/bes/BWBR0028639/README.md);  
 
-b. voor zover het betreft de overig delen van de Juliana TMA, gelegen boven het luchtruim van de openbare lichamen Sint Eustatius en Saba, de taken omschreven in [artikel 70, eerste lid, onderdelen a tot en met e, en g tot en met l, Besluit luchtverkeer BES](../../../../../../../../AMvB-BES/besluit/luchtverkeer/bes/BWBR0028639/README.md).      
+b. voor zover het betreft de overig delen van de Juliana TMA, gelegen boven het luchtruim van de openbare lichamen Sint Eustatius en Saba, de taken omschreven in [artikel 70, eerste lid, onderdelen a tot en met e, en g tot en met l, Besluit luchtverkeer BES](../../../../../../../../AMvB-BES/besluit/luchtverkeer/bes/BWBR0028639/README.md).     
 
 ### Artikel  4  
 
-De minister sluit afzonderlijke dienstverleningsovereenkomsten met de ’Netherlands Antilles Air Traffic Control N.V.’, en ‘Princess Juliana International Airport Exploitatiemaatschappij N.V’ waarin de voorwaarden en condities, waaronder de betreffende vennootschappen bereid zijn om uitvoering te geven aan de opgedragen taken nader worden geregeld.  
+De minister sluit afzonderlijke dienstverleningsovereenkomsten met de ’Netherlands Antilles Air Traffic Control N.V.’, en ‘Princess Juliana International Airport Exploitatiemaatschappij N.V’ waarin de voorwaarden en condities, waaronder de betreffende vennootschappen bereid zijn om uitvoering te geven aan de opgedragen taken nader worden geregeld. 
 
 ### Artikel  5  
 
 1.  Indien zich met betrekking tot de opgedragen taken externe ontwikkelingen voordoen die invloed kunnen uitoefenen op de uitvoering van deze taken door de vennootschap, treden de minister en de luchtverkeersdienstverlener in overleg, teneinde te bezien of en op welke wijze hiervoor een oplossing gevonden kan worden.   
-2.  De luchtverkeersdienstverlener informeert de minister tijdig over voorvallen en ontwikkelingen die van belang zijn voor een correcte uitvoering van de taken.   
+2.  De luchtverkeersdienstverlener informeert de minister tijdig over voorvallen en ontwikkelingen die van belang zijn voor een correcte uitvoering van de taken.  
 
 ### Artikel  6  
 
-Deze regeling treedt in werking met ingang van 10 oktober 2010.  
+Deze regeling treedt in werking met ingang van 10 oktober 2010. 
 
 ### Artikel  7  
 
-Deze regeling wordt aangehaald als: Regeling aanwijzing luchtruim en luchtverkeersdienstverleners BES.  
+Deze regeling wordt aangehaald als: Regeling aanwijzing luchtruim en luchtverkeersdienstverleners BES. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Verkeer en Waterstaat,
-C.M.P.S.Eurlings   
+Minister van Verkeer en Waterstaat, 
+C.M.P.S. Eurlings     

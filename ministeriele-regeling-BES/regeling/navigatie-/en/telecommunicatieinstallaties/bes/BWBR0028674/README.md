@@ -23,7 +23,7 @@
 *iSSR-transponder:* een radarbeantwoordingssysteem met informatie over de identiteit en eventueel de hoogte van het luchtvaartuig (secondary surveillance radar-transponder);  
 
 *VOR:* een op de grond geplaatst zendsysteem dat het mogelijk maakt om een vanuit het vliegtuig geselecteerde radiaal te onderscheppen of te volgen door middel van fasevergelijking (very high frequency omnidirectional range).     
-2.  Een wijziging van Bijlage 10 treedt in werking vanaf het moment waarop in het Tractatenblad mededeling van deze wijziging is gedaan.   
+2.  Een wijziging van Bijlage 10 treedt in werking vanaf het moment waarop in het Tractatenblad mededeling van deze wijziging is gedaan.  
 
 ### Artikel  2  
 
@@ -32,7 +32,7 @@
 a. een vliegtuig met turbine motoren met een maximaal toegelaten startmassa boven 15.000 kg of met een goedgekeurde configuratie voor meer dan 30 zitplaatsen voor passagiers, of  
 
 b. een vliegtuig met turbine motoren met een maximaal toegelaten startmassa boven 5700 kg of met een goedgekeurde configuratie voor meer dan 19 zitplaatsen voor passagiers, uitgerust met een Airborne Collision Avoidance System van de tweede generatie (ACAS II), dat voldoet aan de eisen gesteld in bijlage 10, boek IV, van het Verdrag inzake de internationale burgerluchtvaart.     
-2.  Het eerste lid is voor een in dat lid bedoeld luchtvaartuig niet van toepassing indien de Minister met betrekking tot dat luchtvaartuig een daartoe strekkende verklaring heeft afgegeven. De verklaring wordt meegevoerd tijdens de vlucht.   
+2.  Het eerste lid is voor een in dat lid bedoeld luchtvaartuig niet van toepassing indien de Minister met betrekking tot dat luchtvaartuig een daartoe strekkende verklaring heeft afgegeven. De verklaring wordt meegevoerd tijdens de vlucht.  
 
 ### Artikel  3  
 
@@ -49,20 +49,20 @@ d. een ADF;
 e. een SSR-transponder met mode S/ELS, die voldoet aan de eisen, bedoeld in bijlage 10, boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart; en  
 
 f. indien in door de Minister daartoe aangewezen delen van het luchtruim wordt gevlogen: een SSR-transponder met mode S/EHS, die voldoet aan de eisen, bedoeld in bijlage 10, boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart.     
-2.  Het eerste lid, onderdelen a, b, c en d, is niet van toepassing voor staatsluchtvaartuigen, indien deze beschikken over een UHF-zend/ontvangstinstallatie en beschikken over een systeem met een gelijkwaardig veiligheidsniveau als de systemen genoemd in de onderdelen b, c en d.   
+2.  Het eerste lid, onderdelen a, b, c en d, is niet van toepassing voor staatsluchtvaartuigen, indien deze beschikken over een UHF-zend/ontvangstinstallatie en beschikken over een systeem met een gelijkwaardig veiligheidsniveau als de systemen genoemd in de onderdelen b, c en d.  
 
 ### Artikel  4  
 
-Voor het uitvoeren van een IFR-vlucht of een gecontroleerde VFR-vlucht in de Flamingo CTR, Rooseveld ATZ en Yrausquin ATZ, als bedoeld in de Regeling aanwijzing luchtruim en aanwijzing luchtverkeersdienstverleners BES is een luchtvaartuig uitgerust met telecommunicatie-installaties die ten minste voldoen aan de eisen, gesteld in bijlage 10 van het Verdrag.  
+Voor het uitvoeren van een IFR-vlucht of een gecontroleerde VFR-vlucht in de Flamingo CTR, Rooseveld ATZ en Yrausquin ATZ, als bedoeld in de Regeling aanwijzing luchtruim en aanwijzing luchtverkeersdienstverleners BES is een luchtvaartuig uitgerust met telecommunicatie-installaties die ten minste voldoen aan de eisen, gesteld in bijlage 10 van het Verdrag. 
 
 ### Artikel  5  
 
-Voor het uitvoeren van een IFR-vlucht in de Flamingo CTR, Rooseveld ATZ en Yrausquin ATZ, als bedoeld in de Regeling aanwijzing luchtruim en aanwijzing luchtverkeersdienstverleners BESis een luchtvaartuig uitgerust met navigatie-installaties die ten minste voldoen aan de eisen, gesteld in bijlage 10 van het Verdrag.  
+Voor het uitvoeren van een IFR-vlucht in de Flamingo CTR, Rooseveld ATZ en Yrausquin ATZ, als bedoeld in de Regeling aanwijzing luchtruim en aanwijzing luchtverkeersdienstverleners BESis een luchtvaartuig uitgerust met navigatie-installaties die ten minste voldoen aan de eisen, gesteld in bijlage 10 van het Verdrag. 
 
 ### Artikel  7  
 
 1.  Voor het uitvoeren van een VFR-vlucht in de Flamingo CTR, Rooseveld ATZ en Yrausquin ATZ, als bedoeld in de Regeling aanwijzing luchtruim en aanwijzing luchtverkeersdienstverleners BES, behalve in gebieden met de classificatie G beneden 1500 voet AMSL is een luchtvaartuig uitgerust met een SSR-transponder met mode S/ELS of 4096 code mogelijkheden in mode A met automatische hoogterapportering in mode C, die voldoet aan de eisen, bedoeld in bijlage 10, Boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag. Indien het eerste bewijs van luchtwaardigheid met betrekking tot het desbetreffende luchtvaartuig is afgegeven na 30 maart 2005 is het luchtvaartuig uitgerust met een SSR-transponder met mode S/ELS, die voldoet aan de eisen bedoeld in bijlage 10, Boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag.   
-2.  In uitzonderingsgebieden aangewezen als bijzondere gebieden kan de Minister ontheffing verlenen van het gestelde in het eerste lid.   
+2.  In uitzonderingsgebieden aangewezen als bijzondere gebieden kan de Minister ontheffing verlenen van het gestelde in het eerste lid.  
 
 ### Artikel  8  
 
@@ -94,7 +94,7 @@ i. bij verlies van tweezijdige radioverbinding met de betrokken luchtverkeersdie
 
 j. indien het luchtvaartuig is onderworpen aan wederrechtelijke inmenging, tracht de gezagvoerder de SSR-transponder in te stellen op mode A code 7500, tenzij de omstandigheden het gebruik van mode A code 7700 rechtvaardigen;  
 
-k. indien een gezagvoerder mode A code 7500 heeft geselecteerd en de luchtverkeersdienst vraagt deze selectie te bevestigen, antwoordt hij afhankelijk van de omstandigheden bevestigend of helemaal niet.    
+k. indien een gezagvoerder mode A code 7500 heeft geselecteerd en de luchtverkeersdienst vraagt deze selectie te bevestigen, antwoordt hij afhankelijk van de omstandigheden bevestigend of helemaal niet.   
 
 ### Artikel  9  
 
@@ -120,7 +120,7 @@ g. Indien herstel of vervanging ter plaatse niet mogelijk is, wordt:
 
 1°. de betrokken luchtverkeersdienst hierover zo spoedig mogelijk en bij voorkeur voorafgaand aan het indienen van het vliegplan ingelicht; en  
 
-2°. een vliegplan ingediend met als bestemming het dichtstbijzijnde geschikte luchtvaartterrein waar herstel kan plaatsvinden, met vermelding van de staat van de SSR-transponder onder punt 10 van het vliegplanformulier.      
+2°. een vliegplan ingediend met als bestemming het dichtstbijzijnde geschikte luchtvaartterrein waar herstel kan plaatsvinden, met vermelding van de staat van de SSR-transponder onder punt 10 van het vliegplanformulier.     
 
 ### Artikel  10  
 
@@ -129,7 +129,7 @@ g. Indien herstel of vervanging ter plaatse niet mogelijk is, wordt:
 a. het gebruik van een SSR-transponder met de mode S of 4096 codemogelijkheden in mode A met automatische hoogterapportering in mode C is verplicht in het luchtruim met de classificatie A, B, C, D, E of F; en  
 
 b. mode A code 7000 wordt ingesteld.     
-2.  De verplichtingen, bedoeld in het eerste lid, zijn niet van toepassing wanneer door de betreffende luchtverkeersdienst een andere opdracht is verstrekt of afwijkende voorschriften van toepassing zijn door de aard van het luchtvaartuig of het doel van de vlucht.   
+2.  De verplichtingen, bedoeld in het eerste lid, zijn niet van toepassing wanneer door de betreffende luchtverkeersdienst een andere opdracht is verstrekt of afwijkende voorschriften van toepassing zijn door de aard van het luchtvaartuig of het doel van de vlucht.  
 
 ### Artikel  11  
 
@@ -137,12 +137,12 @@ b. mode A code 7000 wordt ingesteld.
 2.  Het digitale signaal van de ELT bevat, behoudens in uitzonderlijke gevallen, het 24-bit luchtvaartuigadres van het bijbehorende luchtvaartuig, ten behoeve van de identificatie.   
 3.  Gebruikers van luchtvaartuigen die ELT’s vervangen, plaatsen ELT’s die zijn gecodeerd met het 24-bit luchtvaartuigadres volgens de door de Directie Luchtvaart aangewezen protocollen.   
 4.  De toekenning van het 24-bit luchtvaartuigadres, bedoeld in het eerste lid, geschiedt door tussenkomst van de Inspecteur Generaal van de Inspectie Verkeer en Waterstaat. Bij de aanvraag wordt het registratiekenmerk, het type en het serienummer van het luchtvaartuig vermeld.   
-5.  De door de Minister toegekende 24-bit luchtvaartadressen, alsmede de wijzigingen daarin, worden in het gegevensbestand van de Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba opgenomen. Uitsluitend ELT’s die zijn geprogrammeerd op de in dit artikel bedoelde wijze worden in het gegevensbestand van de Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba 6. Voor luchtvaartuigen die een 24-bit luchtvaartuigadres voor andere doeleinden in gebruik hebben, wordt dit adres gebruikt voor de bij het luchtvaartuig behorende ELT’s.   
+5.  De door de Minister toegekende 24-bit luchtvaartadressen, alsmede de wijzigingen daarin, worden in het gegevensbestand van de Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba opgenomen. Uitsluitend ELT’s die zijn geprogrammeerd op de in dit artikel bedoelde wijze worden in het gegevensbestand van de Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba 6. Voor luchtvaartuigen die een 24-bit luchtvaartuigadres voor andere doeleinden in gebruik hebben, wordt dit adres gebruikt voor de bij het luchtvaartuig behorende ELT’s.  
 
 ### Artikel  12  
 
-Deze regeling wordt aangeduid als: Regeling navigatie- en telecommunicatieinstallaties BES.  
+Deze regeling wordt aangeduid als: Regeling navigatie- en telecommunicatieinstallaties BES. 
 
 ### Artikel  13  
 
-Deze regeling berust op artikel 113 van het Besluit luchtverkeer BES.  
+Deze regeling berust op artikel 113 van het Besluit luchtverkeer BES. 

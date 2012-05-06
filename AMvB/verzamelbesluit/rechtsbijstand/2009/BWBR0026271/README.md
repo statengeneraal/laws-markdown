@@ -14,25 +14,30 @@ Gezien het nader rapport van de Minister van Justitie van 30 juli 2009, nr. 5612
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 26-08-2011 
 
-Wijzigt het Besluit rechtsbijstand- en toevoegcriteria.   
+Wijzigt het Besluit rechtsbijstand- en toevoegcriteria. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 26-08-2011 
 
-Wijzigt het Subsidiebesluit raden voor rechtsbijstand.   
+Wijzigt het Subsidiebesluit raden voor rechtsbijstand. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 26-08-2011 
 
-Wijzigt het Besluit vergoedingen rechtsbijstand 2000.   
+Wijzigt het Besluit vergoedingen rechtsbijstand 2000. 
 
 ### Artikel  IV  
+Materieel uitgewerkt per 26-08-2011 
 
 1.  Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.   
-2.  Artikel III werkt terug tot en met 1 januari 2009.   
+2.  Artikel III werkt terug tot en met 1 januari 2009.  
 
 ### Artikel  V  
+Materieel uitgewerkt per 26-08-2011 
 
-Dit besluit wordt aangehaald als: Verzamelbesluit rechtsbijstand 2009.  
+Dit besluit wordt aangehaald als: Verzamelbesluit rechtsbijstand 2009. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

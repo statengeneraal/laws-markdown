@@ -11,20 +11,20 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet rijonderricht motorrijtuigen 1993.   
+Wijzigt de Wet rijonderricht motorrijtuigen 1993. 
 
 ### Artikel  II  
 
-Instructeursbewijzen, afgegeven krachtens [artikel 3 van de Wet rijonderricht motorrijtuigen](../../../../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), aan houders die op 1 januari 1995 de leeftijd van 50 jaren hadden bereikt en aan wie niet overeenkomstig het bepaalde in [artikel 30 van de Wet rijonderricht motorrijtuigen 1993](../../../../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), zoals deze gold voor de inwerkingtreding van deze wet, een certificaat is afgegeven, behouden hun geldigheid tot 5 jaar na de datum van inwerkingtreding van deze wet.  
+Instructeursbewijzen, afgegeven krachtens [artikel 3 van de Wet rijonderricht motorrijtuigen](../../../../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), aan houders die op 1 januari 1995 de leeftijd van 50 jaren hadden bereikt en aan wie niet overeenkomstig het bepaalde in [artikel 30 van de Wet rijonderricht motorrijtuigen 1993](../../../../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), zoals deze gold voor de inwerkingtreding van deze wet, een certificaat is afgegeven, behouden hun geldigheid tot 5 jaar na de datum van inwerkingtreding van deze wet. 
 
 ### Artikel  IIa  
 
 1.  Certificaten, afgegeven krachtens [artikel 9 van de Wet rijonderricht motorrijtuigen 1993](../../../../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), zoals dit artikel gold voor de inwerkingtreding van deze wet, voor het rijonderricht in de motorrijtuigcategorie AM als bedoeld in de richtlijn rijbewijzen, aangewezen krachtens [artikel 1, onderdeel l, van de Wet rijonderricht motorrijtuigen 1993](../../../../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), aan houders die uitsluitend voor het rijonderricht in deze motorrijtuigcategorie bevoegd zijn, behouden hun geldigheid alleen voor het geven van theoretisch rijonderricht in deze motorrijtuigcategorie.   
-2.  Degene die in het bezit is van het certificaat, bedoeld in het eerste lid, volgt theoretische bijscholing voor het rijonderricht in de motorrijtuigcategorie A of B als bedoeld in de in het eerste lid genoemde richtlijn. De [artikelen 9, eerste lid, onderdeel c](../../../../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), en [13 van de Wet rijonderricht motorrijtuigen 1993](../../../../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md) zijn van overeenkomstige toepassing.   
+2.  Degene die in het bezit is van het certificaat, bedoeld in het eerste lid, volgt theoretische bijscholing voor het rijonderricht in de motorrijtuigcategorie A of B als bedoeld in de in het eerste lid genoemde richtlijn. De [artikelen 9, eerste lid, onderdeel c](../../../../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), en [13 van de Wet rijonderricht motorrijtuigen 1993](../../../../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md) zijn van overeenkomstige toepassing.  
 
 ### Artikel  III  
 
-Een ontheffing, afgegeven krachtens [artikel 24a van de Wet rijonderricht motorrijtuigen 1993](../../../../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), zoals deze gold voor de inwerkingtreding van deze wet, behoudt haar geldigheid voor de duur waarvoor zij is verleend.  
+Een ontheffing, afgegeven krachtens [artikel 24a van de Wet rijonderricht motorrijtuigen 1993](../../../../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), zoals deze gold voor de inwerkingtreding van deze wet, behoudt haar geldigheid voor de duur waarvoor zij is verleend. 
 
 ### Artikel  IV  
 
@@ -42,24 +42,24 @@ a. volgt de betrokkene in het geval dat het vijfde of zesde lid van toepassing i
 b. volgt de betrokkene in het geval dat het zevende lid van toepassing is en ook de beoordeling van de tweede praktische bijscholing onvoldoende is, een derde praktische bijscholing met dien verstande dat in het geval dat ook de beoordeling van de derde praktische bijscholing onvoldoende is, de geldigheid van het certificaat niet wordt verlengd;  
 
 c. in de onder a. en b genoemde gevallen zijn de [artikelen 9, eerste lid, onderdelen c en d](../../../../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), [13, aanhef en onderdeel b](../../../../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), en [15, eerste lid, onderdeel e](../../../../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), van overeenkomstige toepassing.     
-9.  Bij een door het instituut vastgestelde beoordeling van de eerste praktische bijscholing als voldoende volgt de betrokkene, in het geval dat het zevende lid van toepassing is en de beoordeling van de tweede praktische bijscholing onvoldoende is, een derde praktische bijscholing met dien verstande dat in het geval dat ook de beoordeling van de derde praktische bijscholing onvoldoende is, de geldigheid van het certificaat niet wordt verlengd.   
-10.  [Artikel 7, eerste lid](../../../../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), en [artikel 12a van de Wet rijonderricht motorrijtuigen 1993](../../../../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md) zijn gedurende vijf jaar na inwerkingtreding van deze wet niet van toepassing op hen die rijonderricht geven, gericht op de rijvaardigheid of geschiktheid van rijbewijshouders.   
+9.  Bij een door het instituut vastgestelde beoordeling van de eerste praktische bijscholing als voldoende volgt de betrokkene, in het geval dat het zevende lid van toepassing is en de beoordeling van de tweede praktische bijscholing onvoldoende is, een derde praktische bijscholing met dien verstande dat in het geval dat ook de beoordeling van de derde praktische bijscholing onvoldoende is, de geldigheid van het certificaat niet wordt verlengd.  
+10.  [Artikel 7, eerste lid](../../../../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md), en [artikel 12a van de Wet rijonderricht motorrijtuigen 1993](../../../../../../../../../wet/wet/rijonderricht/motorrijtuigen/1993/BWBR0006073/README.md) zijn gedurende vijf jaar na inwerkingtreding van deze wet niet van toepassing op hen die rijonderricht geven, gericht op de rijvaardigheid of geschiktheid van rijbewijshouders.  
 
 ### Artikel  V  
 
-Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk.  
+Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### Artikel  VI  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 24 oktober 2008  
 Beatrix  
 
-De Minister van Verkeer en Waterstaat , 
+De Minister van Verkeer en Waterstaat ,  
 C. M. P. S. Eurlings   
 
 de *elfde* november 2008 

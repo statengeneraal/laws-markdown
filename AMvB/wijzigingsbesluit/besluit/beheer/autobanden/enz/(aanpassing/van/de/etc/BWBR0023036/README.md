@@ -15,31 +15,31 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit beheer autobanden.   
+Wijzigt het Besluit beheer autobanden. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit beheer autowrakken.   
+Wijzigt het Besluit beheer autowrakken. 
 
 ### Artikel  III  
 
-Wijzigt het Besluit beheer batterijen.   
+Wijzigt het Besluit beheer batterijen. 
 
 ### Artikel  IV  
 
-Wijzigt het Besluit beheer elektrische en elektronische apparatuur.   
+Wijzigt het Besluit beheer elektrische en elektronische apparatuur. 
 
 ### Artikel  V  
 
-Wijzigt het Besluit beheer verpakkingen en papier en karton.   
+Wijzigt het Besluit beheer verpakkingen en papier en karton. 
 
 ### Artikel  VI  
 
-De instemming van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer met mededelingen die voor de inwerkingtreding van dit besluit zijn gedaan op grond van [artikel 12, eerste lid, van het Besluit beheer autowrakken](../../../../../../../../../../../AMvB/besluit/beheer/autowrakken/BWBR0013707/README.md), [artikel 6, eerste lid, van het Besluit beheer batterijen](../../../../../../../../../../../AMvB/besluit/beheer/batterijen/BWBR0007227/README.md), [artikel 4, eerste lid, van het Besluit beheer elektrische en elektronische apparatuur](../../../../../../../../../../../AMvB/besluit/beheer/elektrische/en/elektronische/apparatuur/BWBR0016990/README.md) of [artikel 6, eerste lid, van het Besluit beheer verpakkingen en papier en karton](../../../../../../../../../../../AMvB/besluit/beheer/verpakkingen/en/papier/en/karton/BWBR0018139/README.md), geldt voor onbeperkte tijd.  
+De instemming van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer met mededelingen die voor de inwerkingtreding van dit besluit zijn gedaan op grond van [artikel 12, eerste lid, van het Besluit beheer autowrakken](../../../../../../../../../../../AMvB/besluit/beheer/autowrakken/BWBR0013707/README.md), [artikel 6, eerste lid, van het Besluit beheer batterijen](../../../../../../../../../../../AMvB/besluit/beheer/batterijen/BWBR0007227/README.md), [artikel 4, eerste lid, van het Besluit beheer elektrische en elektronische apparatuur](../../../../../../../../../../../AMvB/besluit/beheer/elektrische/en/elektronische/apparatuur/BWBR0016990/README.md) of [artikel 6, eerste lid, van het Besluit beheer verpakkingen en papier en karton](../../../../../../../../../../../AMvB/besluit/beheer/verpakkingen/en/papier/en/karton/BWBR0018139/README.md), geldt voor onbeperkte tijd. 
 
 ### Artikel  VII  
 
-Dit besluit treedt in werking met ingang van 1 april 2008.  
+Dit besluit treedt in werking met ingang van 1 april 2008. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -47,10 +47,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 6 december 2007  
 Beatrix  
 
-De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J. M.Cramer 
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer , 
+J. M. Cramer   
 
 de *negentiende* december 2007 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

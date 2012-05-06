@@ -2,7 +2,7 @@
 
 ##Besluit uitvoering aangelegenheden door de directeur Financieel- economische zaken op grond van de Comptabiliteitswet
 
-De Minister van Verkeer en Waterstaat,  Besluit:    
+De Minister van Verkeer en Waterstaat,  Besluit:     
 
 ### Artikel  1  
 
@@ -18,9 +18,9 @@ Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van
 
 ### Artikel  4  
 
-Dit besluit kan worden aangehaald als: Besluit uitvoering aangelegenheden door de directeur Financieel-economische zaken op grond van de Comptabiliteitswet.  
+Dit besluit kan worden aangehaald als: Besluit uitvoering aangelegenheden door de directeur Financieel-economische zaken op grond van de Comptabiliteitswet. 
 Dit besluit zal in de Staatscourant worden geplaatst en in afschrift gezonden aan de Algemene Rekenkamer, de Minister van Financiën, de Secretaris-Generaal en diens plaatsvervanger en de diensthoofden.   
 
 De 
 Minister van Verkeer en Waterstaat, 
-A.Jorritsma-Lebbink    
+A. Jorritsma-Lebbink      

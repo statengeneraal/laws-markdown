@@ -2,6 +2,11 @@
 
 ##Regeling luchtvaartmeteorologische inlichtingen BES 2010
 
+De Minister van Verkeer en Waterstaat,  
+Handelende in overeenstemming met de minister van Defensie;
+
+Gelet op de [artikelen 3, eerste lid, onderdeel h](../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md), [3a, tweede lid](../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md), en [8b van de wet op het Koninklijk Nederlands Meteorologisch Instituut](../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md) en [artikel 26, tweede lid, onderdeel b, van het Besluit luchtvaart BES](../../../../../../../AMvB-BES/besluit/luchtverkeer/bes/BWBR0028639/README.md);
+Besluit:     
 ### §  1  
 
 ####Begripsbepalingen
@@ -26,19 +31,19 @@ In deze regeling wordt verstaan onder:
 
 *CAR/SAM ANP:* gedetailleerde informatie over faciliteiten, diensten of procedures voor de internationale luchtvaartnavigatie, van toepassing in het Caribisch gebied (Caribbean and South America Regional Air Navigation Plan);  
 
-*CONSULTATIE*: toelichting door een meteoroloog of een ander gekwalificeerd persoon, op verstrekte meteorologische inlichtingen over de heersende of verwachte weersomstandigheden in relatie tot de voorbereiding van een vlucht, vluchtuitvoering, luchtvaartterreinoperaties en het verlenen van luchtverkeersdiensten met de mogelijkheid van vraag, antwoord en overleg;  
+*CONSULTATIE* : toelichting door een meteoroloog of een ander gekwalificeerd persoon, op verstrekte meteorologische inlichtingen over de heersende of verwachte weersomstandigheden in relatie tot de voorbereiding van een vlucht, vluchtuitvoering, luchtvaartterreinoperaties en het verlenen van luchtverkeersdiensten met de mogelijkheid van vraag, antwoord en overleg;  
 
 *ICAO:* International Civil Aviation Organization, een VN agentschap voor de burgerluchtvaart met als doel veilige (safe and secure) en duurzame ontwikkeling door middel van samenwerking tussen landen.  
 
 *ISCS:* het door de Internationale Burgerluchtvaartorganisatie beheerde satelliet distributiesysteem van OPMET en WAFS informatie (International Satellite Communications System);  
 
-*Kustwacht:* Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba;  
+*Kustwacht: * Kustwacht voor Aruba, Curaçao en Sint Maarten alsmede voor de openbare lichamen Bonaire, Sint Eustatius en Saba;  
 
 *LLFC:* verwachting voor het vluchtinformatiegebied, voor luchtverkeer beneden vliegniveau 100, die bij overschrijding van limietwaarden geamendeerd wordt (low-level-forecast);  
 
-*METAR*: uurlijks waarnemingsrapport van een luchtvaartterrein in luchtvaartmeteorologische code in gebruik voor de voorbereiding van een vlucht (meteorological aerodrome report);  
+*METAR* : uurlijks waarnemingsrapport van een luchtvaartterrein in luchtvaartmeteorologische code in gebruik voor de voorbereiding van een vlucht (meteorological aerodrome report);  
 
-*OPMET:* de verzameling van alfanumerieke waarneemrapporten, verwachtingen en waarschuwingen als AIREP, AUTO METAR, AUTO SPECI, LLFC, METAR, SIGMET, SPECI, TAF en TREND-forecast (operational meteorological information);  
+*OPMET: * de verzameling van alfanumerieke waarneemrapporten, verwachtingen en waarschuwingen als AIREP, AUTO METAR, AUTO SPECI, LLFC, METAR, SIGMET, SPECI, TAF en TREND-forecast (operational meteorological information);  
 
 *SIGMET:* ongecodeerde waarschuwing voor weersomstandigheden die van invloed kunnen zijn op een veilige vluchtuitvoering (significant meteorological conditions);  
 
@@ -60,7 +65,7 @@ In deze regeling wordt verstaan onder:
 
 *WMO:* Wereld Meteorologische Organisatie, een VN agentschap waarin de nationale meteorologische diensten wereldwijd samenwerken op het gebied van meteorologie en klimaat;  
 
-*LLTI:* waarschuwing voor verticale temperatuurtoenames ter plaatse (Low Level Temperature Inversion).    
+*LLTI:* waarschuwing voor verticale temperatuurtoenames ter plaatse (Low Level Temperature Inversion).   
 
 ### §  2  
 
@@ -116,7 +121,7 @@ a. producten en diensten gebaseerd op de internationale eisen die zijn vastgeleg
 b. door Onze Minister opgedragen nationale producten en diensten.     
 3.  De verstrekker van luchtvaartmeteorologische inlichtingen draagt er zorg voor dat apparatuur die hij in gebruik heeft voor het vergaren, beschikbaar maken, houden en stellen van luchtvaartmeteorologische inlichtingen als bedoeld in deze regeling, betrouwbaar is, nauwkeurig werkt en op een geschikte plaatsis opgesteld. De gebruikte apparatuur voldoet aan eisen van de Internationale Burgerluchtvaart Organisatie en WMO, vastgelegd in annex 3 en 14 bij het verdrag en publicatienummer 8 van de WMO.   
 4.  Medewerkers die werkzaamheden uitvoeren ten behoeve van het vergaren, beschikbaar maken, stellen en houden van luchtvaartmeteorologische inlichtingen als bedoeld in deze regeling, zijn gekwalificeerd uitgaande van ten minste de eisen van de Internationale Burgerluchtvaart Organisatie en de WMO, vastgelegd in annex 3 bij het verdrag en publicatienummer 258 en supplement 1 bij publicatienummer 258 van de WMO.   
-5.  De in het derde en vierde lid genoemde eisen gelden tevens als eisen van geschiktheid of bekwaamheid als bedoeld in [artikel 3a, tweede lid, onderdeel a, van de Wet op het Koninklijk Meteorologisch Instituut](../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md).   
+5.  De in het derde en vierde lid genoemde eisen gelden tevens als eisen van geschiktheid of bekwaamheid als bedoeld in [artikel 3a, tweede lid, onderdeel a, van de Wet op het Koninklijk Meteorologisch Instituut](../../../../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md).  
 
 ### §  3  
 
@@ -153,7 +158,7 @@ l. luchtdrukinformatie voor de hoogtemeterinstellingsgebieden;
 m. briefing, en  
 
 n. consultatie.     
-2.  Het KNMI houdt de ingevolge het eerste lid beschikbaar gestelde luchtvaartmeteorologische inlichtingen gedurende een termijn van tenminste 90 dagen beschikbaar.   
+2.  Het KNMI houdt de ingevolge het eerste lid beschikbaar gestelde luchtvaartmeteorologische inlichtingen gedurende een termijn van tenminste 90 dagen beschikbaar.  
 
 ### §  4  
 
@@ -189,7 +194,7 @@ b. voor de taakuitvoering van de in artikel 2, eerste lid, onderdelen b, i en j
 1°. windinformatie, representatief voor de landingsplek op de landingsbaan, en  
 
 2°. windinformatie, representatief voor de vertrekplek op de landingsbaan.       
-3.  Het KNMI houdt de ingevolge het eerste en tweede lid beschikbaar gestelde luchtvaartmeteorologische inlichtingen gedurende een termijn van tenminste 90 dagen beschikbaar.   
+3.  Het KNMI houdt de ingevolge het eerste en tweede lid beschikbaar gestelde luchtvaartmeteorologische inlichtingen gedurende een termijn van tenminste 90 dagen beschikbaar.  
 
 ### §  5  
 
@@ -207,7 +212,7 @@ c. de luchttemperatuur, representatief voor de in gebruik zijnde baan;
 
 d. een aanduiding van belangrijke meteorologische omstandigheden in het start- en uitklimgebied, of in het naderings- en landingsgebied, en  
 
-e. de hoeveelheid en hoogte van de basis van lage wolken, wanneer een luchtvaartuig een nadering uitvoert onder instrumentweersomstandigheden.    
+e. de hoeveelheid en hoogte van de basis van lage wolken, wanneer een luchtvaartuig een nadering uitvoert onder instrumentweersomstandigheden.   
 
 ### §  6  
 
@@ -215,7 +220,7 @@ e. de hoeveelheid en hoogte van de basis van lage wolken, wanneer een luchtvaart
 
 ### Artikel  6  
 
-Voor de voorbereiding van een vlucht door de in artikel 2, eerste lid, genoemde gebruikers verstrekt het KNMI de luchtvaartmeteorologische inlichtingen, bedoeld in artikel 2, tweede lid, door middel van mondelinge dan wel telefonische briefing en consultatie.  
+Voor de voorbereiding van een vlucht door de in artikel 2, eerste lid, genoemde gebruikers verstrekt het KNMI de luchtvaartmeteorologische inlichtingen, bedoeld in artikel 2, tweede lid, door middel van mondelinge dan wel telefonische briefing en consultatie. 
 
 ### §  7  
 
@@ -224,7 +229,7 @@ Voor de voorbereiding van een vlucht door de in artikel 2, eerste lid, genoemde
 ### Artikel  7  
 
 1.  Ten behoeve van de taakuitvoering van de in artikel 2, eerste lid, onderdelen b, i en j, genoemde gebruikers verstrekt het KNMI luchtvaartmeteorologische inlichtingen door direct toegang te verlenen tot de meteorologische informatie, bedoeld in artikel 4, eerste lid, onderdeel b, via een voor deze gebruikers toegankelijk systeem.   
-2.  Het KNMI kan voorwaarden verbinden aan de toegang tot het in het eerste lid bedoelde systeem, in verband met de zorg voor een veilige en efficiënte verstrekking van luchtvaartmeteorologische inlichtingen.   
+2.  Het KNMI kan voorwaarden verbinden aan de toegang tot het in het eerste lid bedoelde systeem, in verband met de zorg voor een veilige en efficiënte verstrekking van luchtvaartmeteorologische inlichtingen.  
 
 ### §  8  
 
@@ -232,7 +237,7 @@ Voor de voorbereiding van een vlucht door de in artikel 2, eerste lid, genoemde
 
 ### Artikel  8  
 
-Voor de taakuitvoering van de in artikel 2, eerste lid, onderdelen f tot en met h, genoemde gebruikers verstrekt het KNMI op verzoek luchtvaartmeteorologische inlichtingen door middel van rapporten met als doel een meteorologische reconstructie mogelijk te maken.  
+Voor de taakuitvoering van de in artikel 2, eerste lid, onderdelen f tot en met h, genoemde gebruikers verstrekt het KNMI op verzoek luchtvaartmeteorologische inlichtingen door middel van rapporten met als doel een meteorologische reconstructie mogelijk te maken. 
 
 ### §  9  
 
@@ -240,7 +245,7 @@ Voor de taakuitvoering van de in artikel 2, eerste lid, onderdelen f tot en met 
 
 ### Artikel  9  
 
-Het KNMI stelt in overeenstemming met de normen van ICAO en bilaterale overeenkomsten luchtvaartmeteorologische inlichtingen als genoemd in artikel 3, eerste lid, onderdelen a, d en f, artikel 4, eerste lid, onderdeel a, en tweede lid, onderdeel a, beschikbaar aan buitenlandse organisaties.  
+Het KNMI stelt in overeenstemming met de normen van ICAO en bilaterale overeenkomsten luchtvaartmeteorologische inlichtingen als genoemd in artikel 3, eerste lid, onderdelen a, d en f, artikel 4, eerste lid, onderdeel a, en tweede lid, onderdeel a, beschikbaar aan buitenlandse organisaties. 
 
 ### §  10  
 
@@ -248,13 +253,13 @@ Het KNMI stelt in overeenstemming met de normen van ICAO en bilaterale overeenko
 
 ### Artikel  10  
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](../../../../../../../rijkswet/rijkswet/wijziging/statuut/in/verband/met/de/opheffing/van/de/nederlandse/etc/BWBR0028249/README.md) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](../../../../../../../rijkswet/rijkswet/wijziging/statuut/in/verband/met/de/opheffing/van/de/nederlandse/etc/BWBR0028249/README.md) in werking treedt. 
 
 ### Artikel  11  
 
-Deze regeling wordt aangehaald als: Regeling luchtvaartmeteorologische inlichtingen BES 2010.  
+Deze regeling wordt aangehaald als: Regeling luchtvaartmeteorologische inlichtingen BES 2010. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Verkeer en Waterstaat,
-C.M.P.S.Eurlings   
+Minister van Verkeer en Waterstaat, 
+C.M.P.S. Eurlings     

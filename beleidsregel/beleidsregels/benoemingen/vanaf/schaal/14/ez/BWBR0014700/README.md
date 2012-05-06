@@ -2,37 +2,37 @@
 
 ##Beleidsregels benoemingen vanaf schaal 14 EZ
 
-De Minister van Economische Zaken;  
+De Minister van Economische Zaken;
 Gelet op de [artikelen 7](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [57 van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);
 
 Gehoord de Departementale Ondernemingsraad van het Ministerie van Economische Zaken;
-Besluit:    
+Besluit: 
 
-### Artikel  1  
+###Artikel 1 
 
-Benoemingen in functies vanaf schaal 14 van het [Bezoldigingsbesluit Burgerlijk Rijkspersoneel 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) vinden bij het Ministerie van Economische Zaken plaats op de wijze die is beschreven in de bijlage bij dit besluit.  
+Benoemingen in functies vanaf schaal 14 van het [Bezoldigingsbesluit Burgerlijk Rijkspersoneel 1984](../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) vinden bij het Ministerie van Economische Zaken plaats op de wijze die is beschreven in de bijlage bij dit besluit. 
 
-### Artikel  2  
+###Artikel 2 
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
-### Artikel  3  
+###Artikel 3 
 
-Dit besluit wordt aangehaald als: Beleidsregels benoemingen vanaf schaal 14 EZ.  
-Dit besluit zal met de bijlage in de Staatscourant worden geplaatst.   
+Dit besluit wordt aangehaald als: Beleidsregels benoemingen vanaf schaal 14 EZ.
+Dit besluit zal met de bijlage in de Staatscourant worden geplaatst.
 
-'s-Gravenhage 
-12 februari 2003    
+'s-Gravenhage
+12 februari 2003
 
 De 
-Minister van Economische Zaken, 
-J.F.Hoogervorst   
+Minister van Economische Zaken,
+J.F.Hoogervorst
 
-### Bijlage  
+###Bijlage 
 
 ####Benoemingsvoorwaarden en -procedures S14 en hoger EZ
 
-Deze bijlage behoort bij het besluit van 12 februari 2003, kenmerk POI/A&R/03000357   ![146058](http://wetten.overheid.nl/Illustration/146058)
+Deze bijlage behoort bij het besluit van 12 februari 2003, kenmerk POI/A&R/03000357![146058](http://wetten.overheid.nl/Illustration/146058)
 ![146060](http://wetten.overheid.nl/Illustration/146060)
 ![146061](http://wetten.overheid.nl/Illustration/146061)
 ![146062](http://wetten.overheid.nl/Illustration/146062)
