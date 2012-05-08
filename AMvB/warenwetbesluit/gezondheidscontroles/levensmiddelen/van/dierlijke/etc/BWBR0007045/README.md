@@ -19,28 +19,28 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder Richtlijn 89/662/EEG: Richtlijn nr. 89/662/EEG van de Raad van de Europese Gemeenschappen van 11 december 1989 inzake veterinaire controles in het intracommunautaire handelsverkeer in het vooruitzicht van de totstandbrenging van de interne markt (*PbEG* L 395).  
+In dit besluit wordt verstaan onder Richtlijn 89/662/EEG: Richtlijn nr. 89/662/EEG van de Raad van de Europese Gemeenschappen van 11 december 1989 inzake veterinaire controles in het intracommunautaire handelsverkeer in het vooruitzicht van de totstandbrenging van de interne markt (*PbEG* L 395). 
 
 ### Artikel  2  
 
 1.  Het is verboden eet- en drinkwaren binnen Nederlands grondgebied te brengen anders dan met inachtneming van de bij of krachtens dit besluit gestelde voorschriften.   
-2.  Het is verboden eet- en drinkwaren af te leveren anders dan met inachtneming van de bij of krachtens dit besluit gestelde voorschriften.   
+2.   Het is verboden eet- en drinkwaren af te leveren anders dan met inachtneming van de bij of krachtens dit besluit gestelde voorschriften.  
 
 ### Artikel  3  
 
-Eet- of drinkwaren worden slechts binnen Nederlands grondgebied gebracht indien die waren bij aanwending overeenkomstig redelijkerwijze te verwachten gebruik uit het oogpunt van gezondheid geschikt zijn voor menselijke consumptie.  
+Eet- of drinkwaren worden slechts binnen Nederlands grondgebied gebracht indien die waren bij aanwending overeenkomstig redelijkerwijze te verwachten gebruik uit het oogpunt van gezondheid geschikt zijn voor menselijke consumptie. 
 
 ### Artikel  4  
 
-Onze Minister stelt in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, ter uitvoering van Richtlijn 89/662/EEG nadere regels vast met betrekking tot artikel 3.  
+Onze Minister stelt in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie, ter uitvoering van Richtlijn 89/662/EEG nadere regels vast met betrekking tot artikel 3. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van 1 januari 1995.  
+Dit besluit treedt in werking met ingang van 1 januari 1995. 
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: Warenwetbesluit Gezondheidscontroles levensmiddelen van dierlijke oorsprong (intraverkeer).  
+Dit besluit wordt aangehaald als: Warenwetbesluit Gezondheidscontroles levensmiddelen van dierlijke oorsprong (intraverkeer). 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 

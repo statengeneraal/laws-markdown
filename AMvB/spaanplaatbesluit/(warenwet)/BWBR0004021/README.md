@@ -19,28 +19,24 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder spaanplaat: een plaat, bestaande uit kleine deeltjes hout of andere lignocellulosehoudende materialen, die met een organisch bindmiddel zijn samengebonden.  
+In dit besluit wordt verstaan onder spaanplaat: een plaat, bestaande uit kleine deeltjes hout of andere lignocellulosehoudende materialen, die met een organisch bindmiddel zijn samengebonden. 
 
 ### Artikel  2  
 
-Dit besluit is van toepassing op spaanplaat en spaanplaat bevattende artikelen.  
+Dit besluit is van toepassing op spaanplaat en spaanplaat bevattende artikelen. 
 
 ### Artikel  3  
 
-Spaanplaat, met uitzondering van spaanplaat voorkomende in meubelen en spaanplaat die kennelijk is bestemd om bedrijfsmatig in meubelen te worden verwerkt, mag niet meer dan 10 mg formaldehyde per 100 g plaatmateriaal bevatten, gemeten volgens de door het Comité Européen de Normalisation uitgegeven norm EN 120 van januari 1984.  
+Spaanplaat, met uitzondering van spaanplaat voorkomende in meubelen en spaanplaat die kennelijk is bestemd om bedrijfsmatig in meubelen te worden verwerkt, mag niet meer dan 10 mg formaldehyde per 100 g plaatmateriaal bevatten, gemeten volgens de door het Comité Européen de Normalisation uitgegeven norm EN 120 van januari 1984. 
 
 ### Artikel  4  
 
-Spaanplaat mag slechts schimmelwerende middelen bevatten, voor zover deze ingevolge de [Wet gewasbeschermingsmiddelen en biociden](../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) zijn toegelaten of vrijgesteld voor de toepassing in spaanplaat.  
-
-### Artikel  5  
-
-Aan de opsomming van waren in het besluit van 26 maart 1921 (*Stb.* 638), tot aanwijzing van artikelen als waren in de zin van de [Warenwet](../../../../wet/warenwet/BWBR0001969/README.md) (*Stb.* 1935, 793) wordt toegevoegd: "spaanplaat en spaanplaat bevattende artikelen.".  
+Spaanplaat mag slechts schimmelwerende middelen bevatten, voor zover deze ingevolge de [Wet gewasbeschermingsmiddelen en biociden](../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) zijn toegelaten of vrijgesteld voor de toepassing in spaanplaat. 
 
 ### Artikel  6  
 
 1.  Dit besluit treedt in werking met ingang van de zevende maand na de datum van uitgifte van het *Staatsblad* waarin het is geplaatst, met dien verstande dat waren welke voor genoemde datum in de handel zijn gebracht, nog zes maanden na die inwerkingtreding mogen worden verhandeld.   
-2.  Dit besluit kan worden aangehaald als: "Spaanplaatbesluit (Warenwet)".   
+2.   Dit besluit kan worden aangehaald als: "Spaanplaatbesluit (Warenwet)".  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

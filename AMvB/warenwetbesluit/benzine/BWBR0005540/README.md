@@ -19,50 +19,50 @@ De Raad van State gehoord (advies van 21 augustus 1990, nr. W 13.91.0149);
 Gezien het nader rapport van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur van 8 april 1992, VVP/P-92727, uitgebracht mede namens Onze Minister van Economische Zaken en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 Hebben goedgevonden en verstaan:    
 
-### Artikel  1  
+###Artikel 1 
 
-1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder benzine: hetgeen voor de toepassing van de [Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van minerale oliën (*Stb.* 1964, 207) onder lichte olie welke bij een temperatuur van 15° C onder atmosferische druk vloeibaar is, wordt verstaan of als zodanig wordt aangemerkt.   
+1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder benzine: hetgeen voor de toepassing van de [Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van minerale oliën (*Stb.* 1964, 207) onder lichte olie welke bij een temperatuur van 15° C onder atmosferische druk vloeibaar is, wordt verstaan of als zodanig wordt aangemerkt.
 2.  Dit besluit is niet van toepassing op het verhandelen van benzine welke kennelijk bestemd is voor: 
 
-a. aflevering buiten Nederland, dan wel  
+a.aflevering buiten Nederland, dan wel
 
-b. een ander gebruik dan als motorbrandstof.     
-3.  Artikel 3 van dit besluit is niet van toepassing op het verhandelen van benzine welke kennelijk bestemd is voor het verrichten van onderzoek aan de benzine, voor zover deze benzine niet openbaar ten verkoop aan eindgebruikers wordt aangeboden.   
+b.een ander gebruik dan als motorbrandstof.
+3. Artikel 3 van dit besluit is niet van toepassing op het verhandelen van benzine welke kennelijk bestemd is voor het verrichten van onderzoek aan de benzine, voor zover deze benzine niet openbaar ten verkoop aan eindgebruikers wordt aangeboden.
 
 ### Artikel  2  
 
 1.  Het is verboden benzine te verhandelen welke niet voldoet aan de bij of krachtens dit besluit gestelde eisen.   
-2.  Het is verboden met gebruikmaking van de in dit besluit aangegeven aanduidingen andere benzine te verhandelen aan eindgebruikers dan die waaraan die aanduidingen ingevolge dit besluit zijn voorbehouden.   
+2.   Het is verboden met gebruikmaking van de in dit besluit aangegeven aanduidingen andere benzine te verhandelen aan eindgebruikers dan die waaraan die aanduidingen ingevolge dit besluit zijn voorbehouden.  
 
 ### Artikel  3  
 
-1.  Benzine mag niet een zodanig gehalte aan organische zuurstofverbindingen bevatten dat deze benzine bij aanwending overeenkomstig het redelijkerwijs te verwachten gebruik: 
+1.  Benzine mag niet een zodanig gehalte aan organische zuurstofverbindingen bevatten dat deze benzine bij aanwending overeenkomstig het redelijkerwijs te verwachten gebruik:  
 
 a. uit het oogpunt van veiligheid schadelijk kan zijn, dan wel  
 
 b. de gebruikswaarde ervan geringer is dan in redelijkheid tenminste mag worden verlangd.     
-2.  Onze Minister stelt tezamen met Onze Minister van Economische Zaken nadere regels betreffende het in het eerste lid genoemde gehalte.   
+2.   Onze Minister stelt tezamen met Onze Minister van Economische Zaken, Landbouw en Innovatie nadere regels betreffende het in het eerste lid genoemde gehalte.  
 
 ### Artikel  4  
 
 1.  De aanduiding "ongelood" mag uitsluitend en moet worden gebezigd voor benzine met een loodgehalte van 1,3 gram of minder per hectoliter benzine.   
-2.  De aanduiding "gelood" mag uitsluitend en moet worden gebezigd voor andere benzine dan in het eerste lid bedoeld.   
-3.  De aanduiding van het octaangetal van benzine mag uitsluitend en moet worden gebezigd, indien de aanduiding overeenstemt met de laagste van de volgende getallen: 
+2.   De aanduiding "gelood" mag uitsluitend en moet worden gebezigd voor andere benzine dan in het eerste lid bedoeld.   
+3.   De aanduiding van het octaangetal van benzine mag uitsluitend en moet worden gebezigd, indien de aanduiding overeenstemt met de laagste van de volgende getallen:  
 
 a. het research-octaangetal, waaraan de benzine tenminste voldoet, of  
 
 b. het motoroctaangetal, waaraan de benzine tenminste voldoet, vermeerderd met 10.     
-4.  De aanduidingen, bedoeld in het eerste, tweede en derde lid, dienen voor de gebruiker duidelijk leesbaar en onuitwisbaar te worden aangebracht op de benzinepomp nabij het telwerk en op het vulpistool of, in het geval deze ontbreken, op een andere duidelijk zichtbare plaats.   
+4.   De aanduidingen, bedoeld in het eerste, tweede en derde lid, dienen voor de gebruiker duidelijk leesbaar en onuitwisbaar te worden aangebracht op de benzinepomp nabij het telwerk en op het vulpistool of, in het geval deze ontbreken, op een andere duidelijk zichtbare plaats.  
 
 ### Artikel  5  
 
 1.  Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot de in dit besluit bedoelde waren al dan niet is voldaan aan de bij of krachtens dit besluit gestelde eisen, worden aangewezen methoden op het gebied van analytisch-fysisch alsmede analytisch-chemisch onderzoek.   
-2.  Onze Minister kan, voor zover het betreft artikel 3, te zamen met Onze Minister van Economische Zaken en voor zover het betreft artikel 4, te zamen met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer omtrent de in het eerste lid bedoelde methoden van onderzoek nadere regels stellen.   
+2.   Onze Minister kan, voor zover het betreft artikel 3, te zamen met Onze Minister van Economische Zaken, Landbouw en Innovatie en voor zover het betreft artikel 4, te zamen met Onze Minister van Infrastructuur en Milieu omtrent de in het eerste lid bedoelde methoden van onderzoek nadere regels stellen.  
 
 ### Artikel  6  
 
 1.  Dit besluit treedt in werking met ingang van de derde kalendermaand na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.   
-2.  Dit besluit kan worden aangehaald als Warenwetbesluit benzine.   
+2.   Dit besluit kan worden aangehaald als Warenwetbesluit benzine.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 
