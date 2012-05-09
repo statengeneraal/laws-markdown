@@ -227,17 +227,17 @@ c. 40 mg/l kinine, indien de waar vruchtensap bevat.
 
 1.  Schimmeltoxinen en bacteriële toxinen in hoeveelheden die schadelijk kunnen zijn voor de volksgezondheid, moeten afwezig zijn in eet- of drinkwaren en grondstoffen.   
 2.  In bereidplaatsen, alsmede in de gedeeltes van bedrijfsruimten van bereiders van eet- of drinkwaren, die kennelijk in gebruik zijn voor het bewaren van grondstoffen, mogen grondstoffen die niet voldoen aan het eerste lid, niet in voorraad of voorhanden worden gehouden, tenzij de bergplaats of de recipiënt voorzien is van een duidelijke vermelding waaruit blijkt dat die grondstof niet geschikt is voor de bereiding van eet- of drinkwaren.   
-3.  Onze Minister kan, in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, nadere regels stellen met betrekking tot het in het eerste lid gestelde.   
+3.  Onze Minister kan, in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie, nadere regels stellen met betrekking tot het in het eerste lid gestelde.   
 
 ### Artikel  13  
 
-In eet- en drinkwaren mogen door Onze Minister aangewezen verontreinigingen, andere dan bedoeld in artikel 12, die uit oogpunt van gezondheid schadelijk kunnen zijn, niet in een grotere hoeveelheid aanwezig zijn dan door Onze Minister, in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, voor de betrokken stof is vastgesteld. De hoeveelheid kan voor de onderscheiden eet- of drinkwaren verschillend worden bepaald.  
+In eet- en drinkwaren mogen door Onze Minister aangewezen verontreinigingen, andere dan bedoeld in artikel 12, die uit oogpunt van gezondheid schadelijk kunnen zijn, niet in een grotere hoeveelheid aanwezig zijn dan door Onze Minister, in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie, voor de betrokken stof is vastgesteld. De hoeveelheid kan voor de onderscheiden eet- of drinkwaren verschillend worden bepaald.  
 
 ### Artikel  13a  
 
 1.  In of op eet- en drinkwaren zijn slechts resten, bestanddelen of omzettingsproducten van bestrijdingsmiddelen aanwezig als gevolg van goed landbouwkundig gebruik van bestrijdingsmiddelen en in hoeveelheden die niet schadelijk kunnen zijn voor de volksgezondheid.   
 2.  De aan Nederland opgedragen werkzaamheden, bedoeld in hoofdstuk V van verordening (EG) 396/2005, worden verricht door de Nederlandse Voedsel- en Warenautoriteit.   
-3.  Bij regeling van Onze Minister en van Onze Minister van Landbouw, Natuur en Voedselkwaliteit kunnen nadere regels worden gesteld: 
+3.  Bij regeling van Onze Minister en van Onze Minister van Economische Zaken, Landbouw en Innovatie kunnen nadere regels worden gesteld: 
 
 a. inzake het eerste lid;  
 
@@ -274,7 +274,7 @@ a. in een bewaarvoorschrift is vermeld dat de waar bewaard dient te worden tusse
 b. een houdbaarheidstermijn is vermeld die korter is dan 5 dagen;   is [artikel 17 van het Warenwetbesluit Etikettering van levensmiddelen](../../../../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) (*Stb.* 1992, 14) van toepassing.   
 3.  Onverminderd de ter zake geldende eisen ten aanzien van de etikettering van levensmiddelen moet op de verpakking van de in het tweede lid, onder *a*, bedoelde eet- of drinkwaar een bewaarvoorschrift worden gebezigd waaruit onder andere blijkt dat de waar binnen een bepaald aantal dagen na aankoop dient te worden geconsumeerd, echter nooit later dan de reeds vermelde datum.   
 4.  In afwijking van het eerste lid mogen de daar bedoelde bederfelijke eet- of drinkwaren, die zodanig verhit zijn dat zij geschikt zijn voor onmiddellijke consumptie door de eindverbruiker, tevens ter rechtstreekse aflevering aan de eindverbruiker voorhanden worden gehouden indien de temperatuur van de waar ten minste 60°C bedraagt.   
-5.  Onze Minister kan, in overeenstemming met Onze Ministers van Economische Zaken en van Landbouw, Natuurbeheer en Visserij, nadere regels stellen met betrekking tot het eerste tot en met vierde lid.   
+5.  Onze Minister kan, in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie, nadere regels stellen met betrekking tot het eerste tot en met vierde lid.   
 6.  Het bestuur van een produkt-, een hoofdbedrijf- of een bedrijfschap kan nadere regels stellen of andere besluiten nemen ten aanzien van het eerste, tweede en derde lid.   
 7.  De op grond van een in het zesde lid bedoelde verordening vastgestelde nadere voorschriften of genomen besluiten behoeven de goedkeuring van Onze Minister.   
 8.  Het eerste lid, onder b, is niet van toepassing op het vervoer of het in voorraad houden van niet-voorverpakte eet- of drinkwaren of grondstoffen gedurende een nader te bepalen periode van ten hoogste 24 uur na de bereiding daarvan, voor zover de ter zake in een krachtens het [Warenwetbesluit hygiëne van levensmiddelen](../../../../../../../../AMvB/warenwetbesluit/hygiëne/van/levensmiddelen/BWBR0018823/README.md) door Onze Minister goedgekeurde hygiënecode vastgestelde voorschriften in acht worden genomen. De desbetreffende hygiënecode zal slechts worden goedgekeurd indien voldaan is aan de volgende voorschriften: 
@@ -312,7 +312,7 @@ b. het gebruiksdoel, voor zover regels zijn gesteld ten aanzien van de ten hoogs
 a. andere dan in bijlage III, deel 1, van die richtlijn vermelde methoden gebruikt mogen worden voor zover kan worden aangetoond dat de daarmee verkregen resultaten ten minste even betrouwbaar zijn als die van de gespecificeerde methoden;  
 
 b. voor de in bijlage III, delen 2 en 3, van die richtlijn genoemde parameters elke methode van onderzoek mag worden gebruikt die aan de aldaar gestelde eisen voldoet.     
-3.  Onze Minister kan, in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, omtrent de in het eerste lid bedoelde methoden nadere regels stellen.   
+3.  Onze Minister kan, in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie, omtrent de in het eerste lid bedoelde methoden nadere regels stellen.   
 4.  Onverminderd het eerste lid wordt de in artikel 2 juncto bijlage II, punten 3.1 tot en met 3.6, van richtlijn 2001/22/EG, beschreven methode, aangewezen als methode van onderzoek die bij uitsluiting beslissend is voor de vaststelling of met betrekking tot de maximumgehalten aan lood, cadmium, kwik en 3-monochloorpropaan-1,2-diol in eet- en drinkwaren al dan niet is voldaan aan bijlage I, deel 3 en deel 4, van verordening (EG) 466/2001.   
 
 ### Artikel  19  

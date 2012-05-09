@@ -58,7 +58,7 @@ d. grondstoffen: grondstoffen bestemd voor de bereiding van eet- en drinkwaren.
 
 1.  Voor de behandeling van waren met ioniserende stalen mag uitsluitend van de volgende bronnen gebruik worden gemaakt: 
 
-a. gammastralen afkomstig van radionucliden 60Co of 137Cs;  
+a. gammastralen afkomstig van radionucliden <sup>60</sup> Co of <sup>137</sup> Cs;  
 
 b. röntgenstralen opgewekt door machinale bronnen, met een energieniveau van ten hoogste 5 Mev;  
 
@@ -195,7 +195,7 @@ c. [artikel 7, zesde lid](../../../../../AMvB/warenwetbesluit/etikettering/van/l
 ### Artikel  11  
 
 1.  Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of al dan niet is voldaan aan de bij of krachtens dit besluit gestelde regels, worden aangewezen microbiologische onderzoekingsmethoden, alsmede detectiemethoden.   
-2.  Onze Minister kan, in overeenstemming met de Minister van Landbouw, Natuurbeheer en Visserij omtrent de in het eerste lid bedoelde methoden nadere regels stellen.   
+2.  Onze Minister kan, in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie omtrent de in het eerste lid bedoelde methoden nadere regels stellen.   
 
 ### Artikel  12  
 

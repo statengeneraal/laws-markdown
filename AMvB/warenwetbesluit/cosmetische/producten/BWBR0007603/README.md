@@ -17,9 +17,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. cosmetische producten: alle stoffen en mengsels die bestemd zijn om in aanraking te worden gebracht met de verschillende delen van het menselijk lichaamsoppervlak (opperhuid, beharing, haar, nagels, lippen en uitwendige geslachtsorganen) of met de tanden en kiezen en de mondslijmvliezen, met het uitsluitende of hoofdzakelijke oogmerk deze te reinigen, te parfumeren, het uiterlijk ervan te wijzigen of lichaamsgeuren te corrigeren of voornoemde lichaamsdelen te beschermen of in goede staat te houden.  
+a. cosmetische producten: alle stoffen en mengsels die bestemd zijn om in aanraking te worden gebracht met de verschillende delen van het menselijk lichaamsoppervlak (opperhuid, beharing, haar, nagels, lippen en uitwendige geslachtsorganen) of met de tanden en kiezen en de mondslijmvliezen, met het uitsluitende of hoofdzakelijke oogmerk deze te reinigen, te parfumeren, het uiterlijk ervan te wijzigen of lichaamsgeuren te corrigeren of voornoemde lichaamsdelen te beschermen of in goede staat te houden;  
 
-b. recipiënt: de verpakking van het cosmetisch product welke rechtstreeks in aanraking komt met het cosmetisch product.  
+b. recipiënt: de verpakking van het cosmetisch product welke rechtstreeks in aanraking komt met het cosmetisch product;  
 
 c. prototype: een eerste model of ontwerp dat niet in partijen wordt geproduceerd en op basis waarvan het cosmetisch product in de eindsamenstelling waarin het wordt verhandeld en ter beschikking van de consument wordt gesteld, wordt gekopieerd of definitief ontwikkeld;  
 
@@ -122,9 +122,9 @@ c. de beoordeling van de veiligheid van het cosmetisch product voor de gezondhei
 
 d. naam en adres van de personen die over een diploma beschikken van een gereglementeerd beroep als bedoeld in [artikel 1 van de Algemene wet erkenning EG-beroepsopleidingen](../../../../../wet/algemene/wet/erkenning/eg-beroepsopleidingen/BWBR0006781/README.md) in de farmacie, toxicologie, dermatologie, geneeskunde, biologie, scheikunde en die verantwoordelijk zijn voor de beoordeling, bedoeld in onderdeel c;  
 
-e. de bestaande gegevens inzake de voor de gezondheid van de mens ongewenste bijwerkingen van het cosmetisch produkt;  
+e. de bestaande gegevens inzake de voor de gezondheid van de mens ongewenste bijwerkingen van het cosmetisch product;  
 
-f. bewijzen van de werking waarop voor het cosmetisch produkt aanspraak wordt gemaakt wanneer de aard van de werking of het cosmetisch produkt zulks rechtvaardigt;  
+f. bewijzen van de werking waarop voor het cosmetisch product aanspraak wordt gemaakt wanneer de aard van de werking of het cosmetisch product zulks rechtvaardigt;  
 
 g. gegevens over eventuele dierproeven die door de fabrikant, zijn gevolmachtigde, degene voor wiens rekening een cosmetisch product gefabriceerd is of degene die verantwoordelijk is voor het in de handel brengen van het cosmetisch product in Nederland, voor zover dit niet geschiedt vanuit een lidstaat van de Europese Unie dan wel de Europese Economische Ruimte, zijn verricht betreffende de ontwikkeling of veiligheidsbeoordeling van het product of de ingrediënten daarvan, met inbegrip van eventuele dierproeven die zijn verricht om te voldoen aan de voorschriften van niet-lidstaten van de Europese Unie dan wel de Europese Economische Ruimte;  
 
@@ -134,7 +134,7 @@ h. gegevens over de productiemethode volgens goede productiepraktijken.
 4.  De in het eerste lid bedoelde gegevens moeten beschikbaar zijn in de Nederlandse, Engelse, Duitse of Franse taal.   
 5.  De fabrikant, zijn gevolmachtigde, degene voor wiens rekening een cosmetisch product gefabriceerd is of degene die verantwoordelijk is voor het in de handel brengen van het cosmetisch product in Nederland, voor zover dit voor de eerste maal geschiedt binnen het grondgebied waarop het Verdrag betreffende de Europese Unie dan wel de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is, stelt de in [artikel 25 van de Warenwet](../../../../../wet/warenwet/BWBR0001969/README.md) bedoelde ambtenaren in kennis van het adres van de plaatsen van productie of van eerste invoer in Nederland, alvorens deze producten worden verhandeld.   
 6.  In afwijking van het eerste lid, onderdeel a, worden voor het mengsel van reukstoffen en parfums deze gegevens beperkt tot de benaming en het codenummer van het mengsel alsmede de identiteit van de leverancier.   
-7.  In afwijking van het eerste lid, onderdeel c, kan de fabrikant ingeval eenzelfde produkt op verschillende plaatsen in de Europese Unie wordt geproduceerd, één enkele plaats van produktie kiezen waar de in het eerste lid, onderdeel c, bedoelde gegevens ter beschikking worden gehouden. Hij deelt de gekozen plaats mede wanneer hem dit in het kader van controles wordt gevraagd.   
+7.  In afwijking van het eerste lid, onderdeel c, kan de fabrikant ingeval eenzelfde product op verschillende plaatsen in de Europese Unie wordt geproduceerd, één enkele plaats van productie kiezen waar de in het eerste lid, onderdeel c, bedoelde gegevens ter beschikking worden gehouden. Hij deelt de gekozen plaats mede wanneer hem dit in het kader van controles wordt gevraagd.   
 8.  Onverminderd de intellectuele eigendomsrechten en het handelsgeheim verstrekt de fabrikant, zijn gevolmachtigde, degene voor wiens rekening een cosmetisch product gefabriceerd is of degene die verantwoordelijk is voor het in de handel brengen van het cosmetisch product in Nederland, voor zover dit niet geschiedt vanuit een lidstaat van de Europese Unie dan wel de Europese Economische Ruimte: 
 
 a.  informatie als bedoeld in het eerste lid, onderdeel a, met betrekking tot de kwalitatieve samenstelling van het product, en onderdeel e;  
@@ -148,7 +148,7 @@ b.  informatie als bedoeld in het eerste lid, onderdeel a, met betrekking tot d
 3° de gevarenklasse 4.1;  
 
 4° de gevarenklasse 5.1.       
-9.  Onze Minister stelt in overeenstemming met Onze Minister van Economische Zaken nadere regels ten behoeve van de informatieverstrekking, bedoeld in het achtste lid.   
+9.  Onze Minister stelt in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie nadere regels ten behoeve van de informatieverstrekking, bedoeld in het achtste lid.   
 
 ### Artikel  6a  
 

@@ -649,7 +649,7 @@ b. instellingen op het terrein van het bevorderen sociale samenhang in en leefba
 
 29. instellingen voor algemeen maatschappelijk en bedrijfsmaatschappelijk werk;  
 
-30. stichtingen en zorgaanbieders als bedoeld in [artikel 1, eerst lid, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), mede voor het verstrekken van spijzen en dranken;  
+30. stichtingen en zorgaanbieders als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), mede voor het verstrekken van spijzen en dranken;  
 
 31. natuurijsbanen, alleen voor het geven van gelegenheid tot sportbeoefening;  
 

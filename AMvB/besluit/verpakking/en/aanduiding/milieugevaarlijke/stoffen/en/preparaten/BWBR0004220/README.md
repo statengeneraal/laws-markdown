@@ -21,7 +21,7 @@ a. de wet: de [Wet milieubeheer](../../../../../../../../../../wet/wet/milieubeh
 
 b. stoffenrichtlijn: richtlijn nr. 67/548/EEG van de Raad van de Europese Gemeenschappen van 27 juni 1967 betreffende de aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen (PbEG L 196);  
 
-c. Onze Ministers: Onze Ministers van Volksgezondheid, Welzijn en Sport, van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Sociale Zaken en Werkgelegenheid.    
+c. Onze Ministers: Onze Ministers van Volksgezondheid, Welzijn en Sport, van Infrastructuur en Milieu en van Sociale Zaken en Werkgelegenheid.    
 
 ### Artikel  1a  
 
@@ -127,7 +127,7 @@ b. in het geval van wijziging van de samenstelling van een preparaat met bekende
 
 a. de gegevens die zijn gebruikt voor de indeling en het kenmerken van het preparaat;  
 
-b. alle nuttige informatie betreffende de wijze van verpakking van die verpakkingen die preparaten bevatten welke aan het grote publiek te koop aangeboden of verkocht worden met inbegrip van het certificaat dat na proeven overeenkomstig bijlage IX, deel A, bij richtlijn nr. 1999/45/EG van het Europees Parlement en de Raad van de Europese Unie van 31 mei 1999 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten (PbEG L 200), wordt verstrekt.     
+b. alle nuttige informatie betreffende de wijze van verpakking van die verpakkingen die preparaten bevatten welke aan het grote publiek te koop aangeboden of verkocht worden met inbegrip van het certificaat dat na proeven overeenkomstig bijlage IX, deel A, bij de stoffenrichtlijn wordt verstrekt.     
 2.  Bij regeling van Onze Ministers worden instanties aangewezen ten behoeve waarvan de in het eerste lid genoemde gegevens ter beschikking worden gehouden.   
 3.  Bij regeling van Onze Ministers kunnen nadere regels worden gesteld betreffende het vragen van inlichtingen over de samenstelling van het preparaat en alle andere nuttige informatie aan de persoon die verantwoordelijk is voor het in de handel brengen van het preparaat.   
 

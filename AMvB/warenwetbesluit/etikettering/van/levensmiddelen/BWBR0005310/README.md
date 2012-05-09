@@ -663,7 +663,7 @@ b. die suggereren dat de betrokken eet- of drinkwaar bijzondere kenmerken vertoo
 
 ### Artikel  31  
 
-Onze Minister kan, in overeenstemming met Onze Ministers van Economische Zaken en van Landbouw, Natuurbeheer en Visserij, omtrent het in de artikelen 4 en 6 tot en met 29 bepaalde nadere regels stellen.  
+Onze Minister kan, in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie, omtrent het in de artikelen 4 en 6 tot en met 29 bepaalde nadere regels stellen.  
 
 ### Artikel  34  
 

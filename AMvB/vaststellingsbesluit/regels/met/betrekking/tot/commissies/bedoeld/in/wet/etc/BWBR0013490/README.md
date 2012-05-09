@@ -54,8 +54,8 @@ e. de commissie te 's-Hertogenbosch indien het overlijden heeft plaatsgevonden i
 
 ### Artikel  4  
 
-1.  Op de voordracht van de voorzitters wijzen Onze Ministers een coördinerend voorzitter aan.   
-2.  De coördinerend voorzitter heeft in ieder geval tot taak: 
+1.  Op de voordracht van de voorzitters wijzen Onze Ministers een coördinerend voorzitter en een plaatsvervangend coördinerend voorzitter aan.   
+2.  De coördinerend voorzitter of bij diens afwezigheid de plaatsvervangend coördinerend voorzitter heeft in ieder geval tot taak: 
 
 a. het initiëren en voorzitten van overleg tussen de voorzitters;  
 

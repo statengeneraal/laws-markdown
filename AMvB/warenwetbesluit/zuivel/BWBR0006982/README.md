@@ -272,7 +272,7 @@ e. suspensies van fungiciden,   onder de voorwaarden die ter zake zijn gesteld b
 a. zijn toegelaten in de onder *a* bedoelde eet- en drinkwaren; en  
 
 b. geen functie hebben in de kaas.     
-3.  Onze Minister kan in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, nadere regels vaststellen inzake het eerste en tweede lid.   
+3.  Onze Minister kan in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie, nadere regels vaststellen inzake het eerste en tweede lid.   
 4.  Het bepaalde in het eerste en tweede lid is niet van toepassing op schapekaas, geitekaas en kaas zoals bedoeld in artikel 9, die in een andere lidstaat van de Europese Unie of in een andere staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte rechtmatig zijn bereid en in het verkeer gebracht, onder de voorwaarde dat de korst van die kazen bedekt is met kaaskorstbedekkingsmiddelen die in die staten wettelijk daartoe zijn toegestaan.   
 
 ### Artikel  13  
@@ -344,7 +344,7 @@ b. het woord "magere", voor zover het betreft een waar met een totaal vetgehalte
 2.  In afwijking van het eerste lid worden aangewezen als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot geheel of gedeeltelijk gedehydrateerde verduurzaamde melk al dan niet is voldaan aan de bij of krachtens dit besluit gestelde regels, de communautaire analyse-methoden, bedoeld in Richtlijn 79/1067/EEG.   
 3.  In afwijking van het eerste lid worden aangewezen als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot voor menselijke voeding bestemde caseïnen en caseïnaten al dan niet is aan de bij of krachtens dit besluit gestelde regels, de communautaire analyse-methoden, bedoeld in Richtlijn 85/503/EEG.   
 4.  Onze Minister kan ter uitvoering van een krachtens het Verdrag tot oprichting van de Europese Gemeenschap of krachtens het Verdrag tot instelling van de Benelux Economische Unie tot stand gekomen bindende regeling, nadere regels stellen met betrekking tot het eerste lid, voor zover die bindende regeling de Nederlandse wetgever, behoudens op ondergeschikte punten, geen ruimte laat voor het maken van keuzen van beleidsinhoudelijke aard.   
-5.  Onze Minister kan, in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij , nadere regels stellen met betrekking tot het eerste lid.   
+5.  Onze Minister kan, in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie, nadere regels stellen met betrekking tot het eerste lid.   
 
 ### Artikel  19  
 

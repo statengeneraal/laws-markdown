@@ -24,11 +24,13 @@ Besluit:
 
 ### Artikel  2  
 
-Andere reisdocumenten van het Koninkrijk der Nederlanden ingevolge artikel 2, eerste lid, onder g, van de wet zijn: 
+Andere reisdocumenten van het Koninkrijk der Nederlanden ingevolge [artikel 2, eerste lid, onder g, van de wet](../../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) zijn: 
 
 a. faciliteitenpaspoort;  
 
-b. tweede paspoort.    
+b. tweede paspoort;  
+
+c. een voorlopig reisdocument.    
 
 ### §  3  
 
@@ -56,16 +58,18 @@ b. laissez-passer: model laissez-passer.
 
 a. faciliteitenpaspoort: model nationaal paspoort met 34 bladzijden, dan wel met 66 bladzijden (zakenpaspoort), voorzien van standaardclausule VI;  
 
-b. tweede paspoort: model nationaal paspoort met 34 bladzijden, dan wel met 66 bladzijden (zakenpaspoort), voorzien van standaardclausule VII.     
+b. tweede paspoort: model nationaal paspoort met 34 bladzijden, dan wel met 66 bladzijden (zakenpaspoort), voorzien van standaardclausule VII;  
+
+c. voorlopig reisdocument: model noodpaspoort en model laissez-passer, voorzien van standaardclausule XIII.     
 4.  Met betrekking tot de ingevolge [artikel 2, tweede lid, van de wet](../../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) genoemde Nederlandse identiteitskaart bestaat het navolgende model: model Nederlandse identiteitskaart.   
-5.  In de modellen, genoemd in het eerste, derde en vierde lid, is een machineleesbare strook en een chip opgenomen.   
-6.  In het model, genoemd in het tweede lid, onder a, is een machineleesbare strook opgenomen.   
+5.  In de modellen, genoemd in het eerste lid, derde lid, onder a en b, en vierde lid, is een machineleesbare strook en een chip opgenomen.   
+6.  In het model noodpaspoort, genoemd in het tweede lid, onder a, en in het derde lid, onder c, is een machineleesbare strook opgenomen.   
 
 ### Artikel  3a  
 
 ####Documenten zonder vingerafdrukken
 
-Een nooddocument als bedoeld in [artikel 2, eerste lid, onder f, van de wet](../../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) wordt niet voorzien van vingerafdrukken van de houder.  
+Een nooddocument als bedoeld in [artikel 2, eerste lid, onder f, van de wet](../../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), of een voorlopig reisdocument als bedoeld in artikel 3, derde lid, onder c, wordt niet voorzien van vingerafdrukken van de houder.  
 
 ### §  4  
 
@@ -842,8 +846,8 @@ J  *Invulinstructie laissez-passer*
 I Standaardclausules m.b.t. de burgerlijke staat  
 
 | --- | --- | --- |
-|---|---|---|
-|  *Burgerlijke Staat*   |  *Standaardclausule I (uitgeschreven)*   <sup> *   De ambtenaar geeft in het aanvraagformulier desgewenst de burgerlijke staat van de aanvrager aan. Afhankelijk van de ruimte op de houderpagina brengt de producent de uitgeschreven of afgekorte versie van de betreffende standaardclausule aan. Indien er niet genoeg ruimte is op de houderpagina wordt de tekst van de standaardclausule op een vervolgpagina aangebracht.    </sup> |  *afkorting*   <sup> *   De ambtenaar geeft in het aanvraagformulier desgewenst de burgerlijke staat van de aanvrager aan. Afhankelijk van de ruimte op de houderpagina brengt de producent de uitgeschreven of afgekorte versie van de betreffende standaardclausule aan. Indien er niet genoeg ruimte is op de houderpagina wordt de tekst van de standaardclausule op een vervolgpagina aangebracht.    </sup> |
+|:---|:---|:---|
+|  *Burgerlijke Staat*   |  *Standaardclausule I (uitgeschreven) **   |  *afkorting **   |
 | H – gehuwd  | --- | --- |
 |  *(geslacht houder = ‘V’)*   | echtgenote van/Wife of/Epouse de  | e/v  |
 |  *(geslacht houder = ‘M’)*   | echtgenoot van/Husband of/ Epoux de  | e/v  |
@@ -852,6 +856,8 @@ I Standaardclausules m.b.t. de burgerlijke staat
 | P - geregistreerde partner  | geregistreerde partner van/registered partner of/partenaire enregistré(e) de  | p/v  |
 | B - gescheiden geregistreerde partner  | geregistreerd partner geweest van/ former registered partner of/ancien partenaire enregistré(e) de  | b/v  |
 | A - achtergebleven geregistreerde partner  | geregistreerd partner geweest van/ former registered partner of/ancien partenaire enregistré(e) de  | a/v  |
+
+* De ambtenaar geeft in het aanvraagformulier desgewenst de burgerlijke staat van de aanvrager aan. Afhankelijk van de ruimte op de houderpagina brengt de producent de uitgeschreven of afgekorte versie van de betreffende standaardclausule aan. Indien er niet genoeg ruimte is op de houderpagina wordt de tekst van de standaardclausule op een vervolgpagina aangebracht.  
 
 II Zie pagina/See page/Voir page  
 
@@ -881,7 +887,9 @@ XIa Nederlandse/Netherlands/Néerlandaise
 
 XIb XXA (Staatloze/Stateless person/Apatride)    
 
-XII Dit paspoort is afgegeven ter vervanging van paspoort nummer/This passport has been issued to replace passport number/Le présent passeport remplace le passeport antérieur no...   
+XII Dit paspoort is afgegeven ter vervanging van paspoort nummer/This passport has been issued to replace passport number/Le présent passeport remplace le passeport antérieur no...  
+
+XIII Dit paspoort is verstrekt als een tijdelijke vervanging van een door de houder aangevraagd regulier reisdocument, dat nog niet is uitgereikt.   
 
 ### Bijlage  B  
 

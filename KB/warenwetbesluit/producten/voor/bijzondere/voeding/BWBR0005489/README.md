@@ -123,7 +123,7 @@ Onze Minister stelt ter uitvoering van krachtens richtlijn 89/398/EEG getroffen 
 ### Artikel  12  
 
 1.  Als methoden van onderzoek welke bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot de in dit besluit bedoelde producten voor bijzondere voeding al dan niet is voldaan aan de bij of krachtens dit besluit gestelde regels, worden aangewezen chromatografische, fysische, chemische en andere scheidingsmethoden.   
-2.  Onze Minister kan, in overeenstemming met de Minister van Landbouw, Natuurbeheer en Visserij, omtrent de in het eerste lid bedoelde methoden nadere regels stellen.   
+2.  Onze Minister kan, in overeenstemming met de Minister van Economische Zaken, Landbouw en Innovatie, omtrent de in het eerste lid bedoelde methoden nadere regels stellen.   
 
 ### Artikel  13  
 

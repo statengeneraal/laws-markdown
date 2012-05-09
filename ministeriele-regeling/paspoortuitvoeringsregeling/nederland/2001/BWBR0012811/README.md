@@ -15,7 +15,75 @@ Besluit:
 
 ### Artikel  1  
 
-1.  In deze regeling wordt verstaan onder:   a. de wet:  de [Paspoortwet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);    b. aanvraag, weigering, verstrekking, uitreiking, houder, wijziging, inhouding, vervallen of vervallenverklaring en vermissing:  hetgeen ingevolge [artikel 1, eerste lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) daaronder wordt verstaan;    c. aanvrager:  degene die een aanvraag als bedoeld in [artikel 1, onder a, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) indient of op wie een dergelijke aanvraag betrekking heeft;    d. register paspoortsignaleringen:  het register, bedoeld in [artikel 25, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);    e. signalerende autoriteit:  de autoriteit, bedoeld in de [artikelen 18 tot en met 24 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), die op grond van [artikel 25 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) een verzoek tot weigering of vervallenverklaring heeft ingediend;    f. basisadministratie:  de gemeentelijke basisadministratie persoonsgegevens als bedoeld in [artikel 2 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), dan wel een basisadministratie als bedoeld in [artikel 2 van de Wet basisadministraties persoonsgegevens BES](../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md);    g. basisregister reisdocumenten:  het register, bedoeld in [artikel 4a van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);    h. aanvraagsysteem reisdocumenten:  het geheel van apparatuur, programmatuur, opslagmedia en overige materialen, waarvan door de bevoegde autoriteit gebruik wordt gemaakt bij de aanvraag, verstrekking, uitreiking en registratie van reisdocumenten;    i. reisdocumentenstation:  de door de leverancier beschikbaar gestelde apparatuur en programmatuur, waarin gegevens met betrekking tot aangevraagde en uitgereikte reisdocumenten worden verwerkt en gearchiveerd en waarmee de gegevensuitwisseling tussen de bevoegde autoriteit en de leverancier plaatsvindt (reisdocumentenaanvraag- en archiefstation);    j. reisdocumentenadministratie:  de in het reisdocumentenstation en op andere wijze bij de bevoegde autoriteit opgeslagen gegevens met betrekking tot aangevraagde en uitgereikte reisdocumenten;    k. reisdocumentenmodule:  de apparatuur en programmatuur, waarmee de bevoegde autoriteit bij de aanvraag en uitreiking gegevens uitwisselt met het reisdocumentenstation en de basisadministratie;    l. standaardclausule:  een clausule, waarvan de tekst in bijlage A van deze regeling is opgenomen en die door de leverancier dan wel de bevoegde autoriteit in het reisdocument wordt aangebracht;    m. standaardformulier:  een voorbedrukt formulier, opgenomen in bijlage B van deze regeling ;    n. modelformulier:  een model voor een formulier, opgenomen in bijlage C van deze regeling ;    o. openbaar lichaam:  openbaar lichaam Bonaire, Sint Eustatius of Saba;    p. aanvraagnummer:  het nummer dat voorgedrukt is op het foto- en handtekeningformulier;    q. administratienummer:  het administratienummer, bedoeld in [artikel 50 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), dan wel in de [artikelen 10](../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md) en [11 van de Wet basisadministraties persoonsgegevens BES](../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md);    r. burgerservicenummer :  het nummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md);    s. bijschrijving:  bijschrijving van kinderen als bedoeld in [artikel 17 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);    t. bijschrijvingssticker:  sticker waarop de gegevens van een bij te schrijven kind zijn vermeld;    u. spoedopdracht:  de opdracht aan de leverancier om versneld over te gaan tot vervaardiging en levering van een reisdocument dan wel een bijschrijvingssticker, bedoeld in artikel 37;    v. agentschap BPR:  het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties;    w. identificatiekaart:  een document als bedoeld in artikel 80, waarmee op elektronische wijze toegang kan worden verkregen tot het reisdocumentenstation en de daarin opgeslagen programmatuur en gegevens;    x. leverancier:  een bedrijf dat in opdracht van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties belast is met het verrichten van een of meerdere diensten die verband houden met de verstrekking van reisdocumenten;.    y. distributeur:  het bedrijf dat zorg draagt voor de distributie van reisdocumenten, bijschrijvingsstickers, identificatiekaarten en overige materialen die door de leverancier worden geleverd;    z. bestelkantoor:  het plaatselijke kantoor van de distributeur;    aa. besteller:  een werknemer in dienst bij de distributeur, die belast is met de feitelijke aflevering van de documenten en overige materialen;    bb. uitgiftelocatie:  de locatie bij een bevoegde autoriteit waar de aanvragen aan de leverancier worden verzonden en de documenten en overige materialen door de distributeur worden afgeleverd;    cc. transporteur:  het bedrijf dat, in voorkomende gevallen met inschakeling van tussenpersonen, zorg draagt voor de distributie van reisdocumenten, bijschrijvingsstickers, identificatiekaarten en overige materialen tussen het ministerie van Buitenlandse Zaken en de bevoegde autoriteiten in de openbare lichamen;    dd. verblijfsdocument:  een document waaruit het verblijfsrecht van de vreemdeling ingevolge de [Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of de [Wet toelating en uitzetting BES](../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) blijkt;    ee. aanvraagstation:  de door de minister van Binnenlandse Zaken en Koninkrijksrelaties aangewezen apparatuur en programmatuur voor het ondersteunen van het aanvraag- en uitgifteproces van reisdocumenten;    ff. foto- en handtekeningformulier:  het in bijlage B van deze regeling opgenomen standaardformulier B8 dat bestemd is voor het in de aanvraag opnemen van de foto en handtekening, bedoeld in artikel 38, eerste en tweede lid;    gg. aanvraagstationlocatie:  de locatie waar de bevoegde autoriteit met inachtneming van artikel 91 één of meerdere aanvraagstations heeft geplaatst;    hh. mobiel vingerafdrukopname-apparaat:  de door de minister van Binnenlandse Zaken en Koninkrijksrelaties aangewezen apparatuur en bijbehorende programmatuur voor het opnemen van vingerafdrukken indien de aanvrager op grond van [artikel 28, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) niet in persoon verschijnt.      
+1.  In deze regeling wordt verstaan onder: 
+
+a. *de wet:* de [Paspoortwet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);  
+
+b. *aanvraag, weigering, verstrekking, uitreiking, houder, wijziging, inhouding, vervallen of vervallenverklaring en vermissing:* hetgeen ingevolge [artikel 1, eerste lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) daaronder wordt verstaan;  
+
+c. *aanvrager:* degene die een aanvraag als bedoeld in [artikel 1, onder a, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) indient of op wie een dergelijke aanvraag betrekking heeft;  
+
+d. *register paspoortsignaleringen:* het register, bedoeld in [artikel 25, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);  
+
+e. *signalerende autoriteit:* de autoriteit, bedoeld in de [artikelen 18 tot en met 24 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), die op grond van [artikel 25 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) een verzoek tot weigering of vervallenverklaring heeft ingediend;  
+
+f. *basisadministratie:* de gemeentelijke basisadministratie persoonsgegevens als bedoeld in [artikel 2 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), dan wel een basisadministratie als bedoeld in [artikel 2 van de Wet basisadministraties persoonsgegevens BES](../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md);  
+
+g. *basisregister reisdocumenten:* het register, bedoeld in [artikel 4a van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);  
+
+h. *aanvraagsysteem reisdocumenten:* het geheel van apparatuur, programmatuur, opslagmedia en overige materialen, waarvan door de bevoegde autoriteit gebruik wordt gemaakt bij de aanvraag, verstrekking, uitreiking en registratie van reisdocumenten;  
+
+i. *reisdocumentenstation:* de door de leverancier beschikbaar gestelde apparatuur en programmatuur, waarin gegevens met betrekking tot aangevraagde en uitgereikte reisdocumenten worden verwerkt en gearchiveerd en waarmee de gegevensuitwisseling tussen de bevoegde autoriteit en de leverancier plaatsvindt (reisdocumentenaanvraag- en archiefstation);  
+
+j. *reisdocumentenadministratie:* de in het reisdocumentenstation en op andere wijze bij de bevoegde autoriteit opgeslagen gegevens met betrekking tot aangevraagde en uitgereikte reisdocumenten;  
+
+k. *reisdocumentenmodule:* de apparatuur en programmatuur, waarmee de bevoegde autoriteit bij de aanvraag en uitreiking gegevens uitwisselt met het reisdocumentenstation en de basisadministratie;  
+
+l. *standaardclausule:* een clausule, waarvan de tekst in bijlage A van deze regeling is opgenomen en die door de leverancier dan wel de bevoegde autoriteit in het reisdocument wordt aangebracht;  
+
+m. *standaardformulier:* een voorbedrukt formulier, opgenomen in bijlage B van deze regeling;  
+
+n. *modelformulier:* een model voor een formulier, opgenomen in bijlage C van deze regeling;  
+
+o. *openbaar lichaam:* openbaar lichaam Bonaire, Sint Eustatius of Saba;  
+
+p. *aanvraagnummer:* het nummer dat voorgedrukt is op het foto- en handtekeningformulier;  
+
+q. *administratienummer:* het administratienummer, bedoeld in [artikel 50 van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), dan wel in de [artikelen 10](../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md) en [11 van de Wet basisadministraties persoonsgegevens BES](../../../../../wet-BES/wet/basisadministraties/persoonsgegevens/bes/BWBR0028208/README.md);  
+
+r. *burgerservicenummer :* het nummer, bedoeld in [artikel 1, onder b, van de Wet algemene bepalingen burgerservicenummer](../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md);  
+
+s. *bijschrijving:* bijschrijving van kinderen als bedoeld in [artikel 17 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);  
+
+t. *bijschrijvingssticker:* sticker waarop de gegevens van een bij te schrijven kind zijn vermeld;  
+
+u. *spoedopdracht:* de opdracht aan de leverancier om versneld over te gaan tot vervaardiging en levering van een reisdocument dan wel een bijschrijvingssticker, bedoeld in artikel 37;  
+
+v. *agentschap BPR:* het agentschap Basisadministratie Persoonsgegevens en Reisdocumenten van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties;  
+
+w. *identificatiekaart:* een document als bedoeld in artikel 80, waarmee op elektronische wijze toegang kan worden verkregen tot het reisdocumentenstation en de daarin opgeslagen programmatuur en gegevens;  
+
+x. *leverancier:* een bedrijf dat in opdracht van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties belast is met het verrichten van een of meerdere diensten die verband houden met de verstrekking van reisdocumenten;  
+
+y. *distributeur:* het bedrijf dat zorg draagt voor de distributie van reisdocumenten, bijschrijvingsstickers, identificatiekaarten en overige materialen die door de leverancier worden geleverd;  
+
+z. *bestelkantoor:* het plaatselijke kantoor van de distributeur;  
+
+aa. *besteller:* een werknemer in dienst bij de distributeur, die belast is met de feitelijke aflevering van de documenten en overige materialen;  
+
+bb. *uitgiftelocatie:* de locatie bij een bevoegde autoriteit waar de aanvragen aan de leverancier worden verzonden en de documenten en overige materialen door de distributeur worden afgeleverd;  
+
+cc. *transporteur:* het bedrijf dat, in voorkomende gevallen met inschakeling van tussenpersonen, zorg draagt voor de distributie van reisdocumenten, bijschrijvingsstickers, identificatiekaarten en overige materialen tussen het ministerie van Buitenlandse Zaken en de bevoegde autoriteiten in de openbare lichamen;  
+
+dd. *verblijfsdocument:* een document waaruit het verblijfsrecht van de vreemdeling ingevolge de [Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) of de [Wet toelating en uitzetting BES](../../../../../wet-BES/wet/toelating/en/uitzetting/bes/BWBR0028571/README.md) blijkt;  
+
+ee. *aanvraagstation:* de door de minister van Binnenlandse Zaken en Koninkrijksrelaties aangewezen apparatuur en programmatuur voor het ondersteunen van het aanvraag- en uitgifteproces van reisdocumenten;  
+
+ff. *foto- en handtekeningformulier:* het in bijlage B van deze regeling opgenomen standaardformulier B8 dat bestemd is voor het in de aanvraag opnemen van de foto en handtekening, bedoeld in artikel 38, eerste en tweede lid;  
+
+gg. *aanvraagstationlocatie:* de locatie waar de bevoegde autoriteit met inachtneming van artikel 91 één of meerdere aanvraagstations heeft geplaatst;  
+
+hh. *mobiel vingerafdrukopname-apparaat:* de door de minister van Binnenlandse Zaken en Koninkrijksrelaties aangewezen apparatuur en bijbehorende programmatuur voor het opnemen van vingerafdrukken indien de aanvrager op grond van [artikel 28, derde lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) niet in persoon verschijnt.     
 2.  Deze regeling is van toepassing op de verstrekking van reisdocumenten door de burgemeesters en de gezaghebbers.   
 
 ### §  2  
@@ -28,7 +96,9 @@ Andere reisdocumenten van het Koninkrijk der Nederlanden ingevolge [artikel 2, e
 
 a. faciliteitenpaspoort;  
 
-b. tweede paspoort.    
+b. tweede paspoort;  
+
+c. voorlopig reisdocument.    
 
 ### §  3  
 
@@ -56,16 +126,18 @@ b. laissez-passer: model laissez-passer.
 
 a. faciliteitenpaspoort: model nationaal paspoort met 34 bladzijden, dan wel met 66 bladzijden (zakenpaspoort), voorzien van standaardclausule VI;  
 
-b. tweede paspoort: model nationaal paspoort met 34 bladzijden, dan wel met 66 bladzijden (zakenpaspoort), voorzien van standaardclausule VII.     
+b. tweede paspoort: model nationaal paspoort met 34 bladzijden, dan wel met 66 bladzijden (zakenpaspoort), voorzien van standaardclausule VII;  
+
+c. voorlopig reisdocument: model noodpaspoort en model laissez-passer, voorzien van standaardclausule XIII.     
 4.  Met betrekking tot de ingevolge [artikel 2, tweede lid, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) genoemde Nederlandse identiteitskaart bestaat het navolgende model: model Nederlandse identiteitskaart.   
-5.  In de modellen, genoemd in het eerste, derde en vierde lid, is een machineleesbare strook en een chip opgenomen.   
-6.  In het model, genoemd in het tweede lid, onder a, is een machineleesbare strook opgenomen.   
+5.  In de modellen, genoemd in het eerste lid, derde lid, onder a en b, en vierde lid, is een machineleesbare strook en een chip opgenomen.   
+6.  In het model noodpaspoort, genoemd in het tweede lid, onder a, en in het derde lid, onder c, is een machineleesbare strook opgenomen.   
 
 ### Artikel  3a  
 
 ####Documenten zonder vingerafdrukken
 
-Een nooddocument als bedoeld in [artikel 2, eerste lid, onder f, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) wordt niet voorzien van vingerafdrukken van de houder.  
+Een nooddocument als bedoeld in [artikel 2, eerste lid, onder f, van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), of een voorlopig reisdocument als bedoeld in artikel 3, derde lid, onder c, wordt niet voorzien van vingerafdrukken van de houder.  
 
 ### §  4  
 
@@ -102,18 +174,37 @@ b. tweede paspoorten.
 a. een noodpaspoort, indien de aanvrager Nederlander is;  
 
 b. een laissez-passer, indien verstrekking van een noodpaspoort met gebruikmaking van het reisdocumentenstation niet mogelijk is of de aanvrager vreemdeling is.     
+3.  De burgemeester neemt ten behoeve van personen die als ingezetene in de basisadministratie van zijn gemeente zijn ingeschreven tevens de aanvragen in ontvangst voor en gaat over tot verstrekking van voorlopige reisdocumenten.   
 
 ### Artikel  7  
 
 ####De burgemeesters van Den Haag, Enschede, Maastricht, Echt-Susteren en Oldambt
 
-De burgemeesters van Den Haag, Enschede, Maastricht, Echt-Susteren en Oldambt verrichten de handelingen ingevolge de [wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) en artikel 6 tevens ten behoeve van personen die niet als ingezetene in de basisadministratie van een gemeente zijn ingeschreven.  
+De burgemeesters van Den Haag, Enschede, Maastricht, Echt-Susteren en Oldambt verrichten de handelingen ingevolge de [wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) en artikel 6, eerste en tweede lid, tevens ten behoeve van personen die niet als ingezetene in de basisadministratie van een gemeente zijn ingeschreven.  
 
 ### Artikel  8  
 
 ####Verwijzing
 
 De burgemeester of de gezaghebber die niet bevoegd is tot het in ontvangst nemen van de aanvraag verwijst de betrokken persoon terstond naar de burgemeester of de gezaghebber die ingevolge de [wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) en de artikelen 6 en 7 van deze regeling daartoe wel bevoegd is.  
+
+### §  6  
+
+####Voorlopige reisdocumenten
+
+### Artikel  8a  
+
+####Aanbevelingen en ontheffing
+
+1.  De Minister van Binnenlandse Zaken en Koninkrijksrelaties doet aanbevelingen aan bevoegde organen van gemeenten inzake de uitvoering van de wet met betrekking tot voorlopige reisdocumenten.   
+2.  De Minister van Binnenlandse Zaken en Koninkrijksrelaties kan het bevoegde orgaan van een gemeente ontheffing verlenen van enig voorschrift in deze regeling met het oog op een goede verstrekking, uitreiking en registratie van voorlopige reisdocumenten.   
+3.  Indien een aanbeveling in strijd is met enig voorschrift in deze regeling geldt de aanbeveling tevens als ontheffing.   
+
+### Artikel  8b  
+
+####Overeenkomstige toepassing
+
+De voorschriften in deze regeling ten aanzien van nooddocumenten zijn van overeenkomstige toepassing op een voorlopig reisdocument, tenzij uit een bepaling anders blijkt.  
 
 ### Hoofdstuk  II  
 
@@ -336,6 +427,59 @@ b. regelmatig dringend moeten reizen op een tijdstip dat hun nationaal paspoort 
 1.  Een tweede paspoort is geldig voor twee jaren en voor alle landen.   
 2.  Indien als gevolg van een tijdelijke verhindering bij de aanvrager geen vingerafdrukken in het document worden opgenomen, bedraagt in afwijking van het eerste lid, de geldigheidsduur van het betreffende reisdocument één jaar.   
 
+### §  5  
+
+####Voorlopige reisdocumenten
+
+### Artikel  20a  
+
+####Aanspraken
+
+1.  Aan de aanvrager van een nationaal paspoort of Nederlandse identiteitskaart kan een voorlopig reisdocument model noodpaspoort of model laissez-passer worden verstrekt indien: 
+
+a. de aanvrager op de dag van aanvraag of, indien de aanvraag plaatsvindt na 25 juni 2012, op 25 juni 2012, bijgeschreven staat in een reisdocument waarvan de geldigheidsduur op of na 1 juli 2012 verloopt,  
+
+b. de aanvrager op de dag van de aanvraag de leeftijd van 13 jaar en 8 maanden nog niet heeft bereikt,  
+
+c. de aanvrager in aanmerking komt voor de verstrekking van het door hem aangevraagde reisdocument en  
+
+d. de Minister van Binnenlandse Zaken en Koninkrijksrelaties aan de burgemeester, bedoeld in artikel 6, derde lid, heeft meegedeeld dat in verband met problemen bij de productie van reisdocumenten het aangevraagde reisdocument vooralsnog niet kan worden uitgereikt en dat door de burgemeester een voorlopig reisdocument aan de aanvrager kan worden verstrekt.     
+2.  Aan de aanvrager van een reisdocument kan door de burgemeester, bedoeld in artikel 6, derde lid, een voorlopig reisdocument model laissez-passer worden verstrekt indien: 
+
+a. de aanvrager in aanmerking komt voor de verstrekking van het door hem aangevraagde reisdocument,  
+
+b. in verband met problemen bij de productie van reisdocumenten het aangevraagde reisdocument vooralsnog niet kan worden uitgereikt,  
+
+c. de aanvrager aantoont een zwaarwegend belang te hebben bij een spoedige verstrekking en uitreiking van een reisdocument en  
+
+d. de aanvraag bij de burgemeester is ingediend.     
+3.  Aan het tweede lid wordt slechts toepassing gegeven gedurende het tijdvak dat de Minister van Binnenlandse Zaken en Koninkrijksrelaties hiertoe bekend heeft gemaakt. Daarbij kan tevens worden vermeld in welke gevallen aan het tweede lid toepassing wordt gegeven. Het tijdvak is niet langer en de gevallen niet omvangrijker dan noodzakelijk is in verband met problemen bij de productie van reisdocumenten.   
+
+### Artikel  20b  
+
+####Geldigheid
+
+Een voorlopig reisdocument is geldig voor een jaar en voor alle landen.  
+
+### §  6  
+
+####Verlenging van de geldigheidsduur
+
+### Artikel  20c  
+
+####Verlenging geldigheidsduur
+
+1.  De geldigheidsduur van een nationaal paspoort of een faciliteitenpaspoort kan met een jaar worden verlengd door plaatsing van een verlengingssticker in het paspoort.   
+2.  De verlenging vindt slechts plaats voor zover: 
+
+a. het paspoort ten tijde van de aanvraag nog een jaar of minder geldig is, dan wel het paspoort op dat moment niet meer geldig is;  
+
+b. het paspoort is verstrekt met een geldigheidsduur van vijf jaren;  
+
+c. het paspoort niet dient te worden ingehouden op grond van [artikel 53](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) of [54 van de wet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), behoudens inhouding vanwege het verlopen van de geldigheidsduur.     
+3.  De verlenging vindt slechts plaats gedurende het tijdvak dat de Minister van Binnenlandse Zaken en Koninkrijksrelaties hiertoe bekend heeft gemaakt. Het tijdvak is niet langer dan noodzakelijk is in verband met problemen bij de productie van reisdocumenten.   
+4.  Verlenging van de geldigheid vindt plaats door plaatsing van een verwijzingssticker op pagina 3 van het paspoort en een verlengingssticker op de laatste pagina waarop de vertalingen van de rubrieken van de houderpagina zijn opgenomen.   
+
 ### Hoofdstuk  III  
 
 ####Aanvraagprocedure
@@ -542,6 +686,7 @@ d. geslacht.
 1.  De aanvrager kan de burgemeester verzoeken om een versnelde uitreiking van het aangevraagde reisdocument dan wel om een versnelde plaatsing van een bijschrijvingssticker in zijn reisdocument, mits hij aangeeft daarbij een dringend belang te hebben.   
 2.  Indien de aanvrager verzoekt om de versnelde uitreiking van het aangevraagde reisdocument dan wel om de versnelde plaatsing van een bijschrijvingssticker in zijn reisdocument, wordt in de aanvraag voor het reisdocument en in de eventuele aanvragen voor de gelijktijdige bijschrijving van kinderen in dat reisdocument dan wel in de aanvraag voor de bijschrijvingssticker, een vermelding opgenomen waaruit blijkt dat het een spoedopdracht betreft.   
 3.  In het geval van een spoedopdracht draagt de burgemeester er zorg voor dat de aanvraag nog dezelfde dag vóór 16.00 uur de leverancier bereikt, opdat het uit te reiken reisdocument dan wel de te plaatsen bijschrijvingssticker de daarop volgende werkdag op het reguliere tijdstip, doch uiterlijk 16.00 uur, op de uitgiftelocatie kan worden afgeleverd.   
+4.  Een verzoek om versnelde uitreiking wordt niet in behandeling genomen gedurende het tijdvak dat de Minister van Binnenlandse Zaken en Koninkrijksrelaties hiertoe bekend heeft gemaakt. Daarbij wordt tevens vermeld in welke gevallen het verzoek niet in behandeling wordt genomen. Het tijdvak is niet langer en de gevallen niet omvangrijker dan noodzakelijk is in verband met problemen bij de productie van reisdocumenten.   
 
 ### §  5  
 
@@ -933,6 +1078,8 @@ d. de burgemeester van de gemeente of de gezaghebber van het openbaar lichaam wa
 2.  De in het eerste lid bedoelde reisdocumentenadministratie wordt bijgehouden in het reisdocumentenstation, voor zover het de daarin overeenkomstig de artikelen 40 en 55 opgenomen gegevens betreft.   
 3.  De overige gegevens met betrekking tot de aanvraag, verstrekking en uitreiking worden als afzonderlijke documenten in de reisdocumentenadministratie opgenomen op een wijze die raadpleging in samenhang met de in het tweede lid bedoelde gegevens mogelijk maakt.   
 4.  De in de reisdocumentenadministratie opgenomen gegevens worden gedurende elf jaren na de datum van verstrekking van het betreffende reisdocument dan wel de opneming van de bijschrijving in een reisdocument bewaard.   
+5.  In afwijking van het vierde lid worden de in de reisdocumentenadministratie opgenomen vingerafdrukken, bedoeld in artikel 28a, bewaard tot het moment dat de uitreiking van het aangevraagde reisdocument dan wel de reden voor het niet uitreiken daarvan, in het reisdocumentenstation is geregistreerd.   
+6.  In afwijking van het tweede lid wordt de in het eerste lid bedoelde administratie betreffende een voorlopig reisdocument bijgehouden overeenkomstig het derde lid. Artikel 73 is van overeenkomstige toepassing.   
 
 ### Artikel  73  
 
@@ -1643,7 +1790,7 @@ I Standaardclausules m.b.t. de burgerlijke staat
 
 | --- | --- | --- |
 |:---|:---|:---|
-|  *Burgerlijke Staat*   |  *Standaardclausule I (uitgeschreven)*   <sup> *   De ambtenaar geeft in het aanvraagformulier desgewenst de burgerlijke staat van de aanvrager aan. Afhankelijk van de ruimte op de houderpagina brengt de producent de uitgeschreven of afgekorte versie van de betreffende standaardclausule aan. Indien er niet genoeg ruimte is op de houderpagina wordt de tekst van de standaardclausule op een vervolgpagina aangebracht.    </sup> |  *afkorting*   <sup> *   De ambtenaar geeft in het aanvraagformulier desgewenst de burgerlijke staat van de aanvrager aan. Afhankelijk van de ruimte op de houderpagina brengt de producent de uitgeschreven of afgekorte versie van de betreffende standaardclausule aan. Indien er niet genoeg ruimte is op de houderpagina wordt de tekst van de standaardclausule op een vervolgpagina aangebracht.    </sup> |
+|  *Burgerlijke Staat*   |  *Standaardclausule I (uitgeschreven) **   |  *afkorting **   |
 | H – gehuwd  | --- | --- |
 |  *(geslacht houder = ‘V’)*   | echtgenote van/Wife of/Epouse de  | e/v  |
 |  *(geslacht houder = ‘M’)*   | echtgenoot van/Husband of/ Epoux de  | e/v  |
@@ -1652,6 +1799,8 @@ I Standaardclausules m.b.t. de burgerlijke staat
 | P - geregistreerde partner  | geregistreerde partner van/registered partner of/partenaire enregistré(e) de  | p/v  |
 | B - gescheiden geregistreerde partner  | geregistreerd partner geweest van/ former registered partner of/ancien partenaire enregistré(e) de  | b/v  |
 | A - achtergebleven geregistreerde partner  | geregistreerd partner geweest van/ former registered partner of/ancien partenaire enregistré(e) de  | a/v  |
+
+* De ambtenaar geeft in het aanvraagformulier desgewenst de burgerlijke staat van de aanvrager aan. Afhankelijk van de ruimte op de houderpagina brengt de producent de uitgeschreven of afgekorte versie van de betreffende standaardclausule aan. Indien er niet genoeg ruimte is op de houderpagina wordt de tekst van de standaardclausule op een vervolgpagina aangebracht.  
 
 II Zie pagina/See page/Voir page  
 
@@ -1681,7 +1830,9 @@ XIa Nederlandse/Netherlands/Néerlandaise
 
 XIb XXA (Staatloze/Stateless person/Apatride)    
 
-XII Dit paspoort is afgegeven ter vervanging van paspoort nummer/This passport has been issued to replace passport number/Le présent passeport remplace le passeport antérieur no...   
+XII Dit paspoort is afgegeven ter vervanging van paspoort nummer/This passport has been issued to replace passport number/Le présent passeport remplace le passeport antérieur no...  
+
+XIII Dit paspoort is verstrekt als een tijdelijke vervanging van een door de houder aangevraagd regulier reisdocument, dat nog niet is uitgereikt.   
 
 ### Bijlage  B  
 

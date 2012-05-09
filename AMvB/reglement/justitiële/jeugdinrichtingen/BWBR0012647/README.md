@@ -24,13 +24,13 @@ a. de wet: de [Beginselenwet justitiële jeugdinrichtingen](../../../../../wet/b
 
 b. executie-indicator: de aantekening van het openbaar ministerie bij het aanbieden van een vonnis ter executie aan Onze Minister waarin wordt aangegeven dat het openbaar ministerie wil adviseren over te nemen beslissingen inzake de verschillende vormen van te verlenen vrijheden en deelname aan een scholings- en trainingsprogramma aan de betrokken jeugdige;  
 
-c. jeugdreclassering: een stichting als bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), bij de uitvoering van de taken, bedoeld in [artikel 10, eerste lid, onder c en d, van die wet](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).  
+c. jeugdreclassering: een stichting als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), bij de uitvoering van de taken, bedoeld in [artikel 10, eerste lid, onder c en d, van die wet](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).  
 
 d. reclassering: een reclasseringsinstelling als bedoeld in [artikel 1, onder b, van de Reclasseringsregeling 1995](../../../../../AMvB/reclasseringsregeling/1995/BWBR0007120/README.md);  
 
 e. raad voor de kinderbescherming: de raad, bedoeld in [artikel 238, eerste lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);  
 
-f. stichting: een stichting als bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).    
+f. stichting: een stichting als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).    
 
 ### Hoofdstuk  2  
 

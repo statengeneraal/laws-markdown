@@ -32,9 +32,11 @@ e. raad voor de kinderbescherming: de raad, bedoeld in [artikel 238, eerste lid,
 
 f. inrichting: een inrichting als bedoeld in [artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);  
 
-g. jeugdreclassering: een stichting als bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), bij de uitvoering van de taken, bedoeld in [artikel 10, eerste lid, onder c en d, van die wet](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+g. jeugdreclassering: een stichting als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), bij de uitvoering van de taken, bedoeld in [artikel 10, eerste lid, onder c en d, van die wet](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
 
-h. reclassering: de stichting alsmede een reclasseringsinstelling als bedoeld in [artikel 1, onder b, onderscheidenlijk onder c, van de Reclasseringsregeling 1995](../../../../../../AMvB/reclasseringsregeling/1995/BWBR0007120/README.md).    
+h. reclassering: de stichting alsmede een reclasseringsinstelling als bedoeld in [artikel 1, onder b, onderscheidenlijk onder c, van de Reclasseringsregeling 1995](../../../../../../AMvB/reclasseringsregeling/1995/BWBR0007120/README.md);  
+
+i. scholings- en trainingsprogramma: een programma als bedoeld in [artikel 3 van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md).    
 
 ### Afdeling  II  
 
@@ -57,25 +59,25 @@ a. zo volledig mogelijke gegevens betreffende de afkomst en verleden;
 
 b. gegevens omtrent de lichamelijke en geestelijke toestand bij binnenkomst;  
 
-c. de voortgang in het hulpverleningsplan;  
+c. de voortgang in het perspectiefplan;  
 
 d. gegevens omtrent belangrijke voorvallen gedurende het verblijf.     
 
 ### Artikel  4a  
 
-1.  De jeugdreclassering dan wel de reclassering, belast met de begeleiding en het toezicht, bedoeld in [artikel 46, eerste lid, van het Reglement justitiële jeugdinrichtingen](../../../../../../AMvB/reglement/justitiële/jeugdinrichtingen/BWBR0012647/README.md), kan aan de directeur van de inrichting een voorstel doen tot wijziging of opheffing van de voorwaarden, verbonden aan het proefverlof.   
-2.  De jeugdreclassering dan wel de reclassering, belast met de begeleiding en het toezicht, bedoeld in [artikel 46, eerste lid, van het Reglement justitiële jeugdinrichtingen](../../../../../../AMvB/reglement/justitiële/jeugdinrichtingen/BWBR0012647/README.md), dient desgevraagd de directeur van de inrichting en Onze Minister van advies.   
+1.  De jeugdreclassering dan wel de reclassering, belast met de begeleiding en het toezicht, bedoeld in [artikel 10, tweede lid, van het Reglement justitiële jeugdinrichtingen](../../../../../../AMvB/reglement/justitiële/jeugdinrichtingen/BWBR0012647/README.md), kan aan de directeur van de inrichting een voorstel doen tot wijziging of opheffing van de voorwaarden, verbonden aan de deelname aan het scholings- en trainingsprogramma.   
+2.  De jeugdreclassering dan wel de reclassering, belast met de begeleiding en het toezicht, bedoeld in [artikel 10, tweede lid, van het Reglement justitiële jeugdinrichtingen](../../../../../../AMvB/reglement/justitiële/jeugdinrichtingen/BWBR0012647/README.md), dient desgevraagd de directeur van de inrichting en Onze Minister van advies.   
 
 ### §  2  
 
-####Vervroegde beëindiging door Onze Minister
+####Voorwaardelijke beëindiging door Onze Minister
 
 ### Artikel  5  
 
 1.  De maatregel van plaatsing in een inrichting voor jeugdigen kan te allen tijde door Onze Minister voorwaardelijk of onvoorwaardelijk worden beëindigd indien het doel van de maatregel bereikt is of beter op andere wijze kan worden bereikt.   
 2.  De beschikking tot voorwaardelijke beëindiging wordt genomen op voorstel van de directeur van de inrichting.   
 3.  De beschikking kan ook ambtshalve worden genomen, doch slechts nadat de directeur van de inrichting is gehoord.   
-4.  De jeugdreclassering dan wel de reclassering, belast met de begeleiding en het toezicht, bedoeld in [artikel 46, eerste lid, van het Reglement justitiële jeugdinrichtingen](../../../../../../AMvB/reglement/justitiële/jeugdinrichtingen/BWBR0012647/README.md), kan aan Onze Minister een voorstel doen tot het voorwaardelijk beëindigen van de maatregel van plaatsing in een inrichting voor jeugdigen. Dit voorstel wordt door tussenkomst van de directeur van de inrichting aan Onze Minister gedaan.   
+4.  De jeugdreclassering dan wel de reclassering, belast met de begeleiding en het toezicht, bedoeld in [artikel 10, tweede lid, van het Reglement justitiële jeugdinrichtingen](../../../../../../AMvB/reglement/justitiële/jeugdinrichtingen/BWBR0012647/README.md), kan aan Onze Minister een voorstel doen tot het voorwaardelijk beëindigen van de maatregel van plaatsing in een inrichting voor jeugdigen. Dit voorstel wordt door tussenkomst van de directeur van de inrichting aan Onze Minister gedaan.   
 
 ### Artikel  6  
 
@@ -127,13 +129,13 @@ Indien Onze Minister besluit tot intrekking of schorsing van de voorwaardelijke 
 
 ### Artikel  14  
 
-1.  Uiterlijk drie maanden voor het verstrijken van de termijn bedoeld in [artikel 77s, zesde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) maakt de directeur van de inrichting binnen een maand te rekenen vanaf voornoemd tijdstip een schriftelijk met redenen omkleed, gedagtekend en ondertekend advies op en zendt dit aan Onze Minister. Het advies betreft: 
+1.  Uiterlijk drie maanden voordat de maatregel ingevolge [artikel 77s, zesde lid, tweede volzin, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) voorwaardelijk eindigt, maakt de directeur van de inrichting binnen een maand te rekenen vanaf voornoemd tijdstip een schriftelijk met redenen omkleed, gedagtekend en ondertekend advies op en zendt dit aan Onze Minister. Het advies betreft: 
 
 a. de wenselijkheid van de verlenging van de maatregel;  
 
 b. de termijn, waarover naar zijn mening, de verlenging zich zou moeten uitstrekken.     
 2.  Bij het advies wordt een afschrift van de aantekeningen omtrent de lichamelijke en geestelijke gesteldheid van de jeugdige overgelegd.   
-3.  Indien in het geval, bedoeld in het eerste lid, de jeugdige op grond van proefverlof of voorwaardelijke beëindiging buiten de inrichting verblijft, voegt de directeur van de inrichting bij zijn advies tevens de beschouwingen van de jeugdreclassering dan wel de reclassering inzake de wenselijkheid van de verlenging van de maatregel.   
+3.  Indien in het geval, bedoeld in het eerste lid, de jeugdige op grond van een scholings- en trainingsprogramma of een voorwaardelijke beëindiging als bedoeld in [artikel 77s, achtste lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), buiten de inrichting verblijft, voegt de directeur van de inrichting bij zijn advies tevens de beschouwingen van de jeugdreclassering dan wel de reclassering inzake de wenselijkheid van de verlenging van de maatregel.   
 4.  Onze Minister zendt het advies met bijlagen aan het openbaar ministerie bij de rechtbank die in eerste aanleg heeft kennis genomen van het misdrijf terzake waarvan de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd.   
 
 ### Artikel  15  
@@ -145,6 +147,19 @@ a. van zijn eventuele beslissing geen vordering tot verlenging van de maatregel 
 b. indien zodanige vordering wel is ingediend van de beslissing van de rechtbank.     
 2.  Indien de rechter de maatregel niet verlengt stelt het openbaar ministerie zo spoedig mogelijk de directeur van de inrichting van die beslissing in kennis.   
 3.  Indien de beslissing tot niet verlenging van de maatregel ziet op een jeugdige ten aanzien van wie reeds een beslissing tot voorwaardelijke beëindiging van de maatregel was genomen, brengt het openbaar ministerie deze beslissing tevens ter kennis van de jeugdreclassering dan wel de reclassering.   
+
+### §  4  
+
+####Voorwaardelijke beëindiging van rechtswege
+
+### Artikel  16  
+
+Bij het indienen van een vordering als bedoeld in [artikel 77tb van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) legt het openbaar ministerie de beschouwingen over van de jeugdreclassering dan wel de reclassering over de wijze waarop de jeugdige de voorwaarden, bedoeld in [artikel 77ta, eerste lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) heeft nageleefd.  
+
+### Artikel  17  
+
+1.  Het openbaar ministerie brengt een vordering en een beslissing als bedoeld in [artikel 77tb van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), ter kennis aan de raad voor de kinderbescherming.   
+2.  Het openbaar ministerie brengt een beslissing als bedoeld in [artikel 77tb, derde lid, onderdeel b, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), onverwijld ter kennis aan de selectiefunctionaris.   
 
 ### Afdeling  III  
 
@@ -162,6 +177,33 @@ Indien de directeur van de inrichting waar de jeugddetentie wordt ondergaan van 
 ### Artikel  21  
 
 De voorwaardelijke invrijheidstelling en haar herroeping worden aangetekend op het executie-extract van de rechterlijke uitspraak waarbij de straf werd opgelegd.  
+
+### Afdeling  IIIa  
+
+####Het netwerkberaad en het trajectberaad
+
+### Artikel  21a  
+
+1.  Er is een netwerkberaad en een trajectberaad.   
+2.  Het netwerkberaad en trajectberaad hebben tot doel de voorbereiding van de terugkeer in de samenleving van jeugdigen die op strafrechtelijke titel in een inrichting verblijven of hebben verbleven en het bevorderen van geleidelijke overgangen bij deze terugkeer.   
+3.  Aan het netwerkberaad nemen deel: 
+
+a. een vertegenwoordiger van de raad voor de kinderbescherming,  
+
+b. een vertegenwoordiger van de jeugdreclassering dan wel de reclassering, en  
+
+c. een vertegenwoordiger van de inrichting waarin de jeugdige verblijft.     
+4.  De vertegenwoordiger van de raad voor de kinderbescherming is voorzitter van het netwerkberaad.   
+5.  Aan het trajectberaad nemen deel: 
+
+a. een vertegenwoordiger van de raad voor de kinderbescherming,  
+
+b. een vertegenwoordiger van de jeugdreclassering dan wel de reclassering,  
+
+c. een vertegenwoordiger van de inrichting waarin de jeugdige heeft verbleven, en  
+
+d. een vertegenwoordiger de gemeente, waar de jeugdige na zijn verblijf in de jeugdinrichting zal verblijven.     
+6.  De vertegenwoordiger van de raad voor de kinderbescherming is voorzitter van het trajectberaad.   
 
 ### Afdeling  IV  
 

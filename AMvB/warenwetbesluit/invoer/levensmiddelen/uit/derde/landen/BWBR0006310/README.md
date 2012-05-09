@@ -42,7 +42,7 @@ Eet- of drinkwaren worden slechts binnen Nederlands grondgebied gebracht of verh
 
 ### Artikel  4  
 
-Onze Minister stelt, in overeenstemming met Onze Minister van Landbouw, Natuurbeheer en Visserij, ter uitvoering van: 
+Onze Minister stelt, in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie, ter uitvoering van: 
 
 a. Richtlijn 97/78/EG;  
 

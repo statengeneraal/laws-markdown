@@ -58,7 +58,7 @@ c. inrichtingen voor kunst en cultuur;
 
 d. inrichtingen op het terrein van de sport;  
 
-e. gebouwen en inrichtingen van stichtingen als bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), gebouwen en inrichtingen van zorgaanbieders als bedoeld in [artikel 1, onder g, van de Wet op de jeugdzorg](../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), alsmede gebouwen van justitiële jeugdinrichtingen als bedoeld in [artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) die niet door de Staat of openbare lichamen worden beheerd;  
+e. gebouwen en inrichtingen van stichtingen als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), gebouwen en inrichtingen van zorgaanbieders als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, alsmede gebouwen van justitiële jeugdinrichtingen als bedoeld in [artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) die niet door de Staat of openbare lichamen worden beheerd;  
 
 f. openbare en bijzondere onderwijsinstellingen als bedoeld in: 
 

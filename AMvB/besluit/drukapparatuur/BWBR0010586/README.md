@@ -253,7 +253,7 @@ Drukapparatuur en samenstellen die voldoen aan de door Onze Minister aangewezen 
 
 ### Artikel  11  
 
-1.  Drukapparatuur als bedoeld in artikel 7 wordt door de fabrikant onderworpen aan een procedure voor de beoordeling van overeenstemming overeenkomstig dit artikel en is voorzien van de CE-markering, bedoeld in artikel 16, en gaat vergezeld van de EG-verklaring van overeenstemming, bedoeld in bijlage VII bij de richtlijn, die de in deze bijlage genoemde gegevens bevat.   
+1.  Drukapparatuur als bedoeld in artikel 7 wordt door de fabrikant onderworpen aan een procedure voor de beoordeling van overeenstemming overeenkomstig dit artikel en is voorzien van de CE-markering, bedoeld in artikel 16, en gaat vergezeld van de EG-verklaring van overeenstemming, bedoeld in bijlage VII bij de richtlijn, die de in deze bijlage genoemde gegevens bevat. De kosten van de beoordeling van overeenstemming zijn voor rekening van de fabrikant.   
 2.  De overeenkomstig bijlage III bij de richtlijn naar keuze van de fabrikant te volgen procedure voor de beoordeling van de overeenstemming van drukapparatuur wordt bepaald door de categorie, bedoeld in artikel 6, waarin het drukapparaat is ingedeeld. De fabrikant kan, voor zover dat mogelijk is, een procedure volgen die bestemd is voor een hogere categorie.   
 3.  De CE-markering, bedoeld in het eerste lid, wordt, met inachtneming van artikel 16, door de fabrikant uitsluitend aangebracht nadat toepassing is gegeven aan het tweede lid.   
 4.  Ten aanzien van kwaliteitsborgingsprocedures overeenkomstig bijlage III bij de richtlijn, voor drukapparatuur als bedoeld in artikel 7, onderdeel a, onderdeel b ten eerste, en onderdeel c, en die op grond van artikel 6 is ingedeeld in de categorieën III of IV, neemt de aangewezen aangemelde keuringsinstelling bij een onaangekondigd bezoek een monster van de drukapparatuur uit de fabricage- of opslagplaatsen om de eindcontrole, bedoeld in punt 3.2.2 van bijlage I bij de richtlijn, te verrichten. Daartoe stelt de fabrikant de aangewezen aangemelde keuringsinstelling in kennis van het beoogde productieschema. De aangewezen aangemelde keuringsinstelling legt in het eerste productiejaar ten minste twee bezoeken af. De frequentie van latere bezoeken wordt door de aangewezen aangemelde keuringsinstelling bepaald op basis van de criteria, genoemd in punt 4.4. van de desbetreffende procedures, bedoeld in bijlage III bij de richtlijn.   
@@ -292,7 +292,7 @@ c. de beoordeling van de beveiliging van het samenstel tegen overschrijding van 
 ####Keuring voor ingebruikneming van drukapparatuur
 
 1.  Bij ministeriële regeling wordt drukapparatuur aangewezen die overeenkomstig dit artikel wordt gekeurd.   
-2.  De drukapparatuur, bedoeld in het eerste lid, wordt, wanneer die wordt opgesteld en geïnstalleerd, gekeurd voor de eerste ingebruikneming alsmede na elke montage op een nieuwe plaats van opstelling en gaat vergezeld van een verklaring van ingebruikneming.   
+2.  De drukapparatuur, bedoeld in het eerste lid, wordt, wanneer die wordt opgesteld en geïnstalleerd, gekeurd voor de eerste ingebruikneming alsmede na elke montage op een nieuwe plaats van opstelling en gaat vergezeld van een verklaring van ingebruikneming. De kosten van de keuring zijn voor rekening van de gebruiker, bedoeld in het vierde lid.   
 3.  De verklaring van ingebruikneming, bedoeld in het tweede lid, wordt onder overlegging van de gegevens en bescheiden, vermeld in het vierde lid, schriftelijk aangevraagd bij een aangewezen keuringsinstelling of een aangewezen keuringsdienst van gebruikers.   
 4.  De aanvraag, bedoeld in het derde lid, omvat, voorzover van toepassing: 
 
@@ -332,7 +332,7 @@ b. kunnen gebruiksvoorwaarden worden gesteld.
 ####Herkeuring drukapparatuur
 
 1.  Bij ministeriële regeling wordt in verband met de veiligheid en gezondheid van personen en het milieu drukapparatuur aangewezen die overeenkomstig dit artikel wordt herkeurd.   
-2.  De drukapparatuur, bedoeld in het eerste lid, wordt herkeurd en gaat vergezeld van een verklaring van herkeuring.   
+2.  De drukapparatuur, bedoeld in het eerste lid, wordt herkeurd en gaat vergezeld van een verklaring van herkeuring. De kosten van de herkeuring zijn voor rekening van de gebruiker, bedoeld in het vierde lid.   
 3.  De verklaring van herkeuring, bedoeld in het tweede lid, wordt, met inachtneming van de termijn, bedoeld in artikel 12b, elfde lid, onder a, onderscheidenlijk de termijn, bedoeld in het negende lid, onder a, onder overlegging van de gegevens en bescheiden, vermeld in het vierde lid, schriftelijk aangevraagd bij een aangewezen keuringsinstelling of een aangewezen keuringsdienst van gebruikers.   
 4.  De aanvraag, bedoeld in het derde lid, omvat, voorzover van toepassing: 
 
@@ -365,7 +365,7 @@ b. kunnen gebruiksvoorwaarden worden gesteld.
 ####Intredekeuring drukapparatuur
 
 1.  Dit artikel is van toepassing op drukapparatuur, die voor 29 mei 2002 is vervaardigd overeenkomstig de wettelijke voorschriften van één van de staten, met uitzondering van Nederland, die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en voor genoemde datum niet in overeenstemming is gebracht met de richtlijn en die op grond van artikel 12c, eerste lid, is aangewezen.   
-2.  Alvorens de drukapparatuur, bedoeld in het eerste lid, in gebruik wordt genomen, wordt zij aan een intredekeuring onderworpen en gaat vergezeld van een verklaring van intredekeuring en ingebruikneming.   
+2.  Alvorens de drukapparatuur, bedoeld in het eerste lid, in gebruik wordt genomen, wordt zij aan een intredekeuring onderworpen en gaat vergezeld van een verklaring van intredekeuring en ingebruikneming. De kosten van de intredekeuring zijn voor rekening van de gebruiker, bedoeld in het vierde lid.   
 3.  De verklaring, bedoeld in het tweede lid, wordt, onder overlegging van de gegevens en bescheiden, vermeld in het vierde lid, schriftelijk door de gebruiker aangevraagd bij een aangewezen keuringsinstelling of een aangewezen keuringsdienst van gebruikers.   
 4.  De aanvraag, bedoeld in het derde lid, omvat voorzover van toepassing: 
 
@@ -422,7 +422,7 @@ b. kunnen gebruiksvoorwaarden worden gesteld.
 
 1.  Van voorgenomen wijzigingen in drukapparatuur of samenstellen of het type hiervan waarvoor een verklaring van EG-typeonderzoek of EG-ontwerponderzoek is afgegeven of van voorgenomen wijzigingen in een kwaliteitssysteem waarvoor een goedkeuring is verleend overeenkomstig bijlage III bij de richtlijn, wordt de aangewezen aangemelde keuringsinstelling die in het bezit is van de technische documentatie van de drukapparatuur of samenstellen, onverwijld in kennis gesteld.   
 2.  De keuringsinstelling, bedoeld in het eerste lid, beoordeelt de wijzigingen en deelt schriftelijk mee of de verklaring van EG-typeonderzoek of EG-ontwerponderzoek onderscheidenlijk het goedgekeurde kwaliteitssysteem voor de te wijzigen drukapparatuur of samenstellen of het te wijzigen type hiervan geldig is of aanvullingen behoeft dan wel dat het kwaliteitssysteem opnieuw moet worden beoordeeld.   
-3.  Indien de keuringsinstelling, bedoeld in het eerste lid, van oordeel is dat de wijzigingen van invloed kunnen zijn op de overeenstemming met de in bijlage I bij de richtlijn opgenomen essentiële veiligheidseisen, wordt de gewijzigde drukapparatuur of samenstellen of het gewijzigde type hiervan aan een aanvullend EG-typeonderzoek of EG-ontwerponderzoek, onderscheidenlijk wordt het kwaliteitssysteem aan een aanvullende beoordeling, bedoeld in bijlage III bij de richtlijn, onderworpen. Bij goedkeuring van het EG-typeonderzoek of het EG-ontwerponderzoek wordt een aanvulling op de oorspronkelijke verklaring afgegeven. Een aanvullende beoordeling van het gewijzigde kwaliteitssysteem wordt vastgelegd in een rapport. Bij goedkeuring van het gewijzigde kwaliteitssysteem wordt een aanvulling op de oorspronkelijke goedkeuring afgegeven.   
+3.  Indien de keuringsinstelling, bedoeld in het eerste lid, van oordeel is dat de wijzigingen van invloed kunnen zijn op de overeenstemming met de in bijlage I bij de richtlijn opgenomen essentiële veiligheidseisen, wordt de gewijzigde drukapparatuur of samenstellen of het gewijzigde type hiervan aan een aanvullend EG-typeonderzoek of EG-ontwerponderzoek, onderscheidenlijk wordt het kwaliteitssysteem aan een aanvullende beoordeling, bedoeld in bijlage III bij de richtlijn, onderworpen. Bij goedkeuring van het EG-typeonderzoek of het EG-ontwerponderzoek wordt een aanvulling op de oorspronkelijke verklaring afgegeven. Een aanvullende beoordeling van het gewijzigde kwaliteitssysteem wordt vastgelegd in een rapport. Bij goedkeuring van het gewijzigde kwaliteitssysteem wordt een aanvulling op de oorspronkelijke goedkeuring afgegeven. De kosten van het aanvullend EG-type-onderzoek, het aanvullend EG-ontwerponderzoek en de aanvullende beoordeling zijn voor rekening van de fabrikant.   
 4.  Dit artikel is, met inachtneming van artikel 12a, tweede lid, van overeenkomstige toepassing op druksystemen.   
 
 ### Artikel  14a  
@@ -432,7 +432,7 @@ b. kunnen gebruiksvoorwaarden worden gesteld.
 1.  Op voorgenomen wijzigingen of reparaties, met uitzondering van het reguliere technische onderhoud, aan drukapparatuur, bedoeld in artikel 12c, eerste lid, is bijlage I, met uitzondering van punt 3.3, bij de richtlijn van overeenkomstige toepassing, tenzij dit redelijkerwijs niet mogelijk is.   
 2.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de wijze waarop de wijzigingen en reparaties worden uitgevoerd.   
 3.  Van voorgenomen wijzigingen of reparaties aan drukapparatuur, bedoeld in het eerste lid, wordt een aangewezen keuringsinstelling of een aangewezen keuringsdienst van gebruikers door de gebruiker onverwijld in kennis gesteld.   
-4.  De instelling of dienst, bedoeld in het derde lid, verricht de noodzakelijke onderzoeken aan het ontwerp en de constructie van de voorgenomen wijziging of reparatie waarbij, voorzover van toepassing, rekening wordt gehouden met eerder uitgevoerd onderzoek en verricht tijdens de uitvoering van de wijziging of reparatie passende onderzoeken en proeven.   
+4.  De instelling of dienst, bedoeld in het derde lid, verricht de noodzakelijke onderzoeken aan het ontwerp en de constructie van de voorgenomen wijziging of reparatie waarbij, voorzover van toepassing, rekening wordt gehouden met eerder uitgevoerd onderzoek en verricht tijdens de uitvoering van de wijziging of reparatie passende onderzoeken en proeven. De kosten van de onderzoeken en proeven zijn voor rekening van de gebruiker, bedoeld in het derde lid.   
 5.  Bij ministeriële regeling kunnen ten aanzien van de onderzoeken en proeven, bedoeld in het vierde lid, nadere regels worden gesteld.   
 6.  Indien de wijzigingen of reparaties aan de drukapparatuur, bedoeld in het eerste lid, van invloed zijn op de wijze van gebruik, de uitrusting of de opstelling, beoordeelt de instelling of dienst, bedoeld in het derde lid, de integratie en beveiliging.   
 7.  Met betrekking tot de gewijzigde of gerepareerde apparatuur worden door de instelling of dienst, bedoeld in het derde lid, zo nodig, de onderzoeken, bedoeld in artikel 12b, zesde lid, uitgevoerd.   
@@ -444,7 +444,7 @@ b. een beoordeling van de documenten die betrekking hebben op de vervaardiging v
 
 c. de onderzoeken met betrekking tot de toestand als bedoeld in artikel 12c, zesde lid;  
 
-d. een beoordeling van de integratie en beveiliging van de drukapparatuur.   .   
+d. een beoordeling van de integratie en beveiliging van de drukapparatuur.     
 9.  De instelling of dienst, bedoeld in het derde lid, stelt een rapport op van de beoordelingen, bedoeld in het vierde en zesde lid, van het toezicht, bedoeld in het vierde en vijfde lid, en van de onderzoeken, bedoeld in het zevende en achtste lid, en stelt een exemplaar van dit rapport beschikbaar aan de gebruiker.   
 10.  Indien is gebleken dat tegen het verder gebruik van de drukapparatuur geen bezwaar bestaat, wordt door de instelling of dienst, bedoeld in het derde lid, voorzover van toepassing, 
 
@@ -472,7 +472,7 @@ b. een verklaring van ingebruikneming afgegeven indien het achtste lid van toepa
 
 ### Artikel  18  
 
-1.  De Europese materiaalgoedkeuring wordt op verzoek van één of meer materiaal- of drukapparatuurfabrikanten verleend door een hiertoe aangewezen aangemelde keuringsinstelling.   
+1.  De Europese materiaalgoedkeuring wordt op verzoek van één of meer materiaal- of drukapparatuurfabrikanten verleend door een hiertoe aangewezen aangemelde keuringsinstelling. De kosten van de materiaalgoedkeuring zijn voor rekening van de betrokken fabrikant of fabrikanten.   
 2.  De voor de fabricage van drukapparatuur gebruikte materialen die voldoen aan de Europese materiaalgoedkeuringen waarvan de referenties door de Commissie van de Europese Gemeenschappen zijn gepubliceerd in het Publicatieblad van de Europese Gemeenschappen, worden geacht te voldoen aan de daarop van toepassing zijnde essentiële veiligheidseisen, bedoeld in bijlage I bij de richtlijn.   
 
 ####Inhoud verklaringen en goedkeuringen
@@ -493,30 +493,32 @@ Met uitzondering van de verklaring van EG-typeonderzoek, de verklaring van EG-on
 
 ### Hoofdstuk  IV  
 
-####Aangewezen keuringsinstellingen, aangewezen onafhankelijke instellingen en aangewezen keuringsdienst van gebruikers
+####Aangewezen keuringsinstellingen, aangewezen onafhankelijke instellingen en aangewezen keuringsdienst van gebruikers op verzoek
 
 ### Artikel  19a  
 
 ####Criteria voor aanwijzing
 
-1.  Als aangewezen keuringsinstelling, aangewezen aangemelde keuringsinstelling of aangewezen aangemelde onafhankelijke instelling kan worden aangewezen een instelling die: 
+1.  Als aangewezen keuringsinstelling, aangewezen aangemelde keuringsinstelling of aangewezen aangemelde onafhankelijke instelling kan worden aangewezen de instelling die: 
 
 a. rechtspersoonlijkheid heeft;  
 
-b. haar zetel of een vestiging in Nederland heeft;  
+b. onafhankelijk is;  
 
-c. onafhankelijk is van degenen die bij het resultaat van de uitvoering van de taken waarvoor zij is aangewezen belang hebben;  
+c. beschikt over de deskundigheid en outillage die nodig zijn om de uitvoering van de taken waarvoor zij aangewezen wil worden, naar behoren te kunnen vervullen;  
 
-d. beschikt over voldoende deskundigheid en outillage om de uitvoering van de taken waarvoor zij is aangewezen, naar behoren te kunnen vervullen;  
+d. beschikt over een registratiesysteem waarin de gegevens die samenhangen met en betrekking hebben op de uitvoering van de taken waarvoor zij aangewezen wil worden, naar behoren vastgelegd kunnen worden. Aan de hand van deze gegevens zijn de gekeurde drukapparatuur, samenstellen en druksystemen, alsmede de onderzochte kwaliteitssystemen afdoende te identificeren;  
 
-e. beschikt over een behoorlijke administratie waarin de gegevens die samenhangen met en betrekking hebben op de uitvoering van haar taken, op een systematische wijze zijn vastgelegd. Aan de hand van deze gegevens zijn de gekeurde drukapparatuur, samenstellen en druksystemen, alsmede de onderzochte kwaliteitssystemen afdoende te identificeren;  
+e. verzekerd is tegen wettelijke aansprakelijkheid voor de risico’s die voortvloeien uit de uitoefening van de taken waarvoor zij aangewezen wil worden;  
 
-f. naar behoren functioneert.     
-2.  Als aangewezen keuringsdienst van gebruikers of als aangewezen aangemelde keuringsdienst van gebruikers kan worden aangewezen een keuringsdienst die voldoet aan de voorschriften, genoemd in het eerste lid onder b tot en met f.   
+f. een overeenkomst heeft gesloten met de in voorkomend geval aanwezige beheerstichting die de krachtens dit besluit geregelde certificatieschema’s beheert; en  
+
+g. naar behoren functioneert.     
+2.  Als aangewezen keuringsdienst van gebruikers of als aangewezen aangemelde keuringsdienst van gebruikers kan worden aangewezen een keuringsdienst die voldoet aan de voorschriften, genoemd in het eerste lid onder b tot en met h.   
 3.  In aanvulling op het eerste lid komen voor een aanwijzing als aangewezen aangemelde keuringsinstelling of als aangewezen aangemelde onafhankelijke instelling slechts in aanmerking instellingen die ten minste voldoen aan de in bijlage IV van de richtlijn neergelegde voorwaarden.   
 4.  In aanvulling op het tweede lid komen voor een aanwijzing als aangewezen aangemelde keuringsdienst van gebruikers slechts in aanmerking keuringsdiensten die ten minste voldoen aan de in bijlage V van de richtlijn neergelegde voorwaarden en handelen overeenkomstig het gemeenschappelijk veiligheidsbeleid van de groep waartoe zij behoren.   
 5.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste en tweede lid.   
-6.  Een keuringsdienst van gebruikers die deel uitmaakt van een mijnbouwonderneming wordt aangewezen door Onze Minister in overeenstemming met Onze Minister van Economische Zaken.   
+6.  Een keuringsdienst van gebruikers die deel uitmaakt van een mijnbouwonderneming wordt aangewezen door Onze Minister in overeenstemming met Onze Minister van Economische Zaken, Landbouw en Innovatie.   
 
 ### Artikel  20  
 
@@ -572,24 +574,47 @@ f. de beoordelingen en de onderzoeken, bedoeld in artikel 14a.
 
 ### Artikel  22a  
 
-####Verstrekken gegevens
+####De aanvraag tot aanwijzing
 
-De in artikel 1, onder t en u, bedoelde instellingen verstrekken jaarlijks aan Onze Minister een afschrift van de polis van de afgesloten verzekering tegen wettelijke aansprakelijkheid tegen alle risico's die voortvloeien uit de uitoefening van de taken waarvoor zij zijn aangewezen.  
+1.  De instelling of dienst, bedoeld in artikel 19a, dient de aanvraag tot aanwijzing in bij Onze Minister.   
+2.  De instelling of dienst doet de aanvraag vergezellen van een beoordeling door de Stichting Raad voor Accreditatie te Utrecht, waaruit blijkt dat zij voldoet aan de criteria, genoemd in artikel 19a, eerste lid dan wel tweede lid, en, in geval van artikel 19a, derde lid dan wel vierde lid, van een bewijs dat is voldaan aan de voorwaarden, genoemd in dat lid.   
+3.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de indiening van de aanvraag, de beoordeling, het bewijs, bedoeld in het tweede lid, en de afhandeling van evenbedoelde aanvraag.   
+4.  De kosten van de beoordeling en het bewijs, bedoeld in het tweede lid, zijn voor rekening van de aanvragende instelling of dienst.   
 
 ### Artikel  22b  
 
-####Wijziging, beëindiging werkzaamheden
+####De weigering, schorsing, wijziging of intrekking van een aanwijzing
 
-1.  Indien een wijziging plaatsvindt in de gegevens op grond waarvan de keuringsinstelling, de onafhankelijke instelling of de keuringsdienst van gebruikers is aangewezen, doet de instelling of dienst hiervan terstond mededeling aan Onze Minister.   
-2.  Indien een instelling of dienst voornemens is een of meer van de taken waarvoor zij is aangewezen, te beëindigen, doet zij hiervan terstond mededeling aan Onze Minister en de certificaathouders. In dat geval worden door de instelling of dienst de gegevens, bedoeld in artikel 19a, eerste lid, onder e, overgedragen aan Onze Minister dan wel, na toestemming van Onze Minister en de certificaathouders, een andere instelling of dienst die voor dezelfde taken is aangewezen.   
+1.  Een aanwijzing als aangewezen keuringsinstelling, aangewezen aangemelde keuringsinstelling, aangewezen aangemelde onafhankelijke instelling, aangewezen keuringsdienst van gebruikers en aangewezen aangemelde keuringsdienst van gebruikers wordt geweigerd, indien: 
+
+a. de aanvragende instelling of dienst niet heeft voldaan aan het bepaalde bij of krachtens de artikelen 19a of 22a; of  
+
+b. ten hoogste twaalf maanden voorafgaand aan de datum van indiening van de aanvraag, sprake was van een weigering om de aanvragende instelling of dienst aan te wijzen als aangewezen keuringsinstelling, aangewezen aangemelde keuringsinstelling, aangewezen aangemelde onafhankelijke instelling, aangewezen keuringsdienst van gebruikers of aangewezen aangemelde keuringsdienst van gebruikers dan wel van een intrekking van een aanwijzing en de weigering of intrekking is geschied op grond van aan de aanvragende instelling of dienst toe te rekenen feiten of omstandigheden.     
+2.  De aanvraag wordt in het geval, genoemd in het eerste lid, onder b, eerst in behandeling genomen nadat twaalf maanden, te rekenen vanaf de dag direct na de datum van de weigering respectievelijk van de intrekking, zijn verstreken.   
+3.  Een aanwijzing kan worden geschorst, ten nadele van de aangewezen keuringsinstelling, aangewezen aangemelde keuringsinstelling, aangewezen aangemelde onafhankelijke instelling, aangewezen keuringsdienst van gebruikers of aangewezen aangemelde keuringsdienst van gebruikers worden gewijzigd of ingetrokken: 
+
+a. op grond van feiten of omstandigheden waarvan Onze Minister bij de aanwijzing redelijkerwijs niet op de hoogte kon zijn en op grond waarvan hij de aanwijzing niet of alleen met voorschriften, bedoeld in [artikel 7a, vierde lid, van de wet](../../../../wet/warenwet/BWBR0001969/README.md) zou hebben gegeven;  
+
+b. op grond van door de aangewezen keuringsinstelling, aangewezen aangemelde keuringsinstelling, aangewezen aangemelde onafhankelijke instelling, aangewezen keuringsdienst van gebruikers of aangewezen aangemelde keuringsdienst van gebruikers verstrekte onjuiste inlichtingen over feiten of omstandigheden, mits de onjuistheid daarvan aan de instelling of dienst bekend was of kon zijn;  
+
+c. indien de aangewezen keuringsinstelling, aangewezen aangemelde keuringsinstelling, aangewezen aangemelde onafhankelijke instelling, aangewezen keuringsdienst van gebruikers of aangewezen aangemelde keuringsdienst van gebruikers niet meer voldoet aan het bepaalde bij of krachtens artikel 19a;  
+
+d. indien de aangewezen keuringsinstelling, aangewezen aangemelde keuringsinstelling, aangewezen aangemelde onafhankelijke instelling, aangewezen keuringsdienst van gebruikers of aangewezen aangemelde keuringsdienst van gebruikers gedurende een aaneengesloten periode van twee jaren geen werkzaamheden waarvoor zij is aangewezen, heeft uitgevoerd; of  
+
+e. indien de aangewezen keuringsinstelling, aangewezen aangemelde keuringsinstelling, aangewezen aangemelde onafhankelijke instelling, aangewezen keuringsdienst van gebruikers of aangewezen aangemelde keuringsdienst van gebruikers haar wettelijke verplichtingen niet meer naar behoren nakomt of de taken waarvoor zij is aangewezen, niet meer naar behoren uitvoert.     
 
 ### Artikel  22c  
 
-####Aanvraag om aanwijzing
+####Periodieke controle van een aangewezen keuringsinstelling, aangewezen aangemelde keuringsinstelling, aangewezen aangemelde onafhankelijke instelling, aangewezen keuringsdienst van gebruikers of aangewezen aangemelde keuringsdienst van gebruikers
 
-1.  Een aanvraag om aanwijzing gaat vergezeld van het bewijs dat is voldaan aan de criteria, bedoeld in artikel 19a, eerste of tweede lid, dan wel in geval van artikel 19a, derde of vierde lid, tevens van bewijs dat is voldaan aan de voorwaarden, bedoeld in het derde of vierde lid, dan wel van een verklaring waaruit de bereidheid blijkt om voor eigen rekening een onderzoek naar het voldoen aan deze criteria dan wel voorwaarden te ondergaan.   
-2.  Een aanwijzing kan worden geweigerd, dan wel worden gewijzigd of ingetrokken, indien niet of niet volledig is voldaan aan de bij de wet of bij of krachtens dit besluit gestelde voorschriften. Een aanwijzing kan worden ingetrokken indien de keuringsinstelling, onafhankelijke instelling of keuringsdienst gedurende een aaneengesloten periode van twee jaar geen werkzaamheden, waarvoor zij is aangewezen, heeft uitgevoerd.   
-3.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste en tweede lid.   
+1.  Tijdens de looptijd van de aanwijzing stelt Onze Minister periodiek vast of de instelling of dienst: 
+
+a. nog voldoet aan het bepaalde bij of krachtens artikel 19a; en  
+
+b. haar wettelijke verplichtingen naar behoren nakomt en de taken waarvoor zij is aangewezen, naar behoren uitvoert.     
+2.  Ten behoeve van de periodieke vaststelling laat Onze Minister de Stichting Raad voor Accreditatie te Utrecht een beoordeling ter zake doen.   
+3.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de periodieke vaststelling en de beoordeling.   
+4.  De kosten van de beoordeling zijn voor rekening van de aangewezen keuringsinstelling, aangewezen aangemelde keuringsinstelling, aangewezen aangemelde onafhankelijke instelling, aangewezen keuringsdienst van gebruikers of aangewezen aangemelde keuringsdienst van gebruikers.   
 
 ### Artikel  22d  
 
@@ -687,7 +712,7 @@ De informatie, bedoeld in de punten 3.3 en 3.4 van bijlage I bij de richtlijn, w
 1.  Dit besluit is, wat de eisen ten aanzien van de vervaardiging betreft, niet van toepassing op drukapparatuur en samenstellen die voldoen aan de wettelijke voorschriften ten aanzien van de vervaardiging zoals die luidden op de dag voor de inwerkingtreding van dit besluit en voor 29 mei 2002 in de handel zijn gebracht en voor of na deze laatste datum in bedrijf zijn of worden gesteld voorzover zij niet alsnog in overeenstemming zijn gebracht met dit besluit met betrekking tot de eisen ten aanzien van de vervaardiging.   
 2.  Met betrekking tot drukapparatuur en samenstellen als bedoeld in het eerste lid waarop dit besluit niet wordt toegepast en waarop ingevolge één of meer andere wettelijke regelingen de CE-markering wordt aangebracht, worden op de bij die drukapparatuur en samenstellen gevoegde documenten, handleidingen of gebruiksaanwijzingen de in het Publicatieblad van de Europese Gemeenschappen bekendgemaakte referenties van de aan die wettelijke regelingen ten grondslag liggende richtlijnen vermeld.   
 3.  Artikel 12a is niet van toepassing op druksystemen die voldoen aan de wettelijke voorschriften ten aanzien van vervaardiging zoals die luidden op de dag voor de inwerkingtreding van het besluit tot wijziging van het Besluit drukapparatuur houdende regels inzake de samenbouw van druksystemen en de ingebruikneming van drukapparatuur, samenstellen en druksystemen en tot wijziging van enige andere besluiten (Stb. 2001, 339) en voor 29 mei 2002 in bedrijf zijn gesteld voorzover zij niet alsnog in overeenstemming zijn gebracht met artikel 12a.   
-4.  Van de apparatuur, bedoeld in het eerste lid, welke voor het eerst of opnieuw in gebruik wordt genomen, wordt vóór de ingebruikneming ervan, voorzover van toepassing, de integratie en beveiliging beoordeeld door een aangewezen keuringsinstelling of aangewezen keuringsdienst van gebruikers. Deze beoordeling vindt uitsluitend plaats voor apparatuur die is voorzien van een vervaardigingsbewijs. Van de beoordeling wordt door de instelling of dienst een rapport opgesteld en een exemplaar van dit rapport wordt beschikbaar gesteld aan de gebruiker.   
+4.  Van de apparatuur, bedoeld in het eerste lid, welke voor het eerst of opnieuw in gebruik wordt genomen, wordt vóór de ingebruikneming ervan, voorzover van toepassing, de integratie en beveiliging beoordeeld door een aangewezen keuringsinstelling of aangewezen keuringsdienst van gebruikers. Deze beoordeling vindt uitsluitend plaats voor apparatuur die is voorzien van een vervaardigingsbewijs. Van de beoordeling wordt door de instelling of dienst een rapport opgesteld en een exemplaar van dit rapport wordt beschikbaar gesteld aan de gebruiker. De kosten van de beoordeling zijn voor rekening van de gebruiker.   
 5.  Voor de toepassing van het vierde lid worden een bewijs van onderzoek en beproeving en een verklaring over de vervaardiging en eerste persproef, afgegeven in het kader van de toepassing van de [Stoomwet](../../../../wet/stoomwet/BWBR0002108/README.md), onderscheidenlijk de [Wet Milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), aangemerkt als geldige vervaardigingbewijzen.   
 
 ### Artikel  39a  
