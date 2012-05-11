@@ -11,7 +11,7 @@ Besluit:
 ####Algemeen en definities
 
 1.  Deze regeling geeft uitvoering aan de [artikelen, 42](../../../../../../../../../../AMvB/besluit/fiscale/eenheid/2003/BWBR0014483/README.md), [48a](../../../../../../../../../../AMvB/besluit/fiscale/eenheid/2003/BWBR0014483/README.md) en 48d van het Besluit fiscale eenheid 2003.   
-2.  [Artikel 1, tweede lid van het Besluit fiscale eenheid 2003](../../../../../../../../../../AMvB/besluit/fiscale/eenheid/2003/BWBR0014483/README.md) is van overeenkomstige toepassing.   
+2.  [Artikel 1, tweede lid van het Besluit fiscale eenheid 2003](../../../../../../../../../../AMvB/besluit/fiscale/eenheid/2003/BWBR0014483/README.md) is van overeenkomstige toepassing.  
 
 ### Artikel  3  
 
@@ -35,24 +35,24 @@ b. netto-inkomsten van de fiscale eenheid: het bedrag van de bij de verrekening 
 
 c. de verrekeningsruimte van een maatschappij: het bedrag dat tot de belasting die over de winst van de fiscale eenheid in dat jaar zonder de vermindering ter voorkoming van dubbele belasting volgens de wet verschuldigd zou zijn, in dezelfde verhouding staat als het bedrag van de netto-inkomsten van die maatschappij staat tot de winst van de fiscale eenheid na verrekening volgens de daarvoor geldende regels met verliezen uit andere jaren;  
 
-d. de verrekeningsruimte van de fiscale eenheid: het bedrag dat tot de belasting die over de winst van de fiscale eenheid in dat jaar zonder de vermindering ter voorkoming van dubbele belasting volgens de wet verschuldigd zou zijn, in dezelfde verhouding staat als het bedrag van de netto-inkomsten van de fiscale eenheid staat tot de winst van de fiscale eenheid na verrekening volgens de daarvoor geldende regels met verliezen uit andere jaren.     
+d. de verrekeningsruimte van de fiscale eenheid: het bedrag dat tot de belasting die over de winst van de fiscale eenheid in dat jaar zonder de vermindering ter voorkoming van dubbele belasting volgens de wet verschuldigd zou zijn, in dezelfde verhouding staat als het bedrag van de netto-inkomsten van de fiscale eenheid staat tot de winst van de fiscale eenheid na verrekening volgens de daarvoor geldende regels met verliezen uit andere jaren.    
 
-### Artikel  4a  
+###Artikel 4a 
 
 ####Volgorde vermindering van voordelen uit laagbelaste beleggingsdeelnemingen en deelnemingsverrekening
 
-Voor de berekening van het in aanmerking te nemen bedrag van deelnemingsverrekening of verrekening bij buitenlandse ondernemingswinsten, bedoeld in [artikel 48b](../../../../../../../../../../AMvB/besluit/fiscale/eenheid/2003/BWBR0014483/README.md), onderscheidenlijk artikel 48d, van het Besluit fiscale eenheid 2003, is artikel 3, tweede tot en met zevende lid, van overeenkomstige toepassing.  
+Voor de berekening van het in aanmerking te nemen bedrag van deelnemingsverrekening of verrekening bij buitenlandse ondernemingswinsten, bedoeld in [artikel 48b](../../../../../../../../../../AMvB/besluit/fiscale/eenheid/2003/BWBR0014483/README.md), onderscheidenlijk artikel 48d, van het Besluit fiscale eenheid 2003, is artikel 3, tweede tot en met zevende lid, van overeenkomstige toepassing.
 
 ### Artikel  5  
 
 1.  Deze regeling treedt in werking met ingang van de tweede dag na de publicatie in de Staatscourant.   
 2.  Deze regeling vindt voor het eerst toepassing met betrekking tot de heffing over het eerste boekjaar dat aanvangt op of na 1 januari 2003.   
-3.  In afwijking van het tweede lid vindt deze regeling ten aanzien van belastingplichtigen waarvan het verzoek bedoeld in [artikel IV, tweede lid, eerste volzin, van de Wet van 11 december 2002 tot wijziging van de Wet op de vennootschapsbelasting 1969 c.a.](../../../../../../../../../../wet/wijzigingswet/wet/op/de/vennootschapsbelasting/1969/c.a./(herziening/etc/BWBR0014441/README.md) (herziening regime fiscale eenheid) (Stb. 2002, 618) is ingewilligd, toepassing met ingang van het tweede boekjaar volgend op het boekjaar dat is aangevangen op of na 1 januari 2003.   
+3.  In afwijking van het tweede lid vindt deze regeling ten aanzien van belastingplichtigen waarvan het verzoek bedoeld in [artikel IV, tweede lid, eerste volzin, van de Wet van 11 december 2002 tot wijziging van de Wet op de vennootschapsbelasting 1969 c.a.](../../../../../../../../../../wet/wijzigingswet/wet/op/de/vennootschapsbelasting/1969/c.a./(herziening/etc/BWBR0014441/README.md) (herziening regime fiscale eenheid) (Stb. 2002, 618) is ingewilligd, toepassing met ingang van het tweede boekjaar volgend op het boekjaar dat is aangevangen op of na 1 januari 2003.  
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als: Uitvoeringsregeling fiscale eenheid en voorkoming dubbele belasting 2003.  
+Deze regeling wordt aangehaald als: Uitvoeringsregeling fiscale eenheid en voorkoming dubbele belasting 2003. 
 
 De 
-Staatssecretaris van Financiën
-J.G.Wijn    
+Staatssecretaris van Financiën 
+J.G. Wijn      
