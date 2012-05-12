@@ -89,7 +89,7 @@ e. haar activiteiten, al dan niet door middel van een federatie van gelijksoorti
 2.  Na ontvangst van de opgave dan wel op grond van gegevens als bedoeld in artikel 3, tweede lid, kan een voorlopige bestemmingsheffing worden vastgesteld.   
 3.  Indien geen, een onvolledige of een kennelijk onjuiste opgave is gedaan wordt de bestemmingsheffing en de voorlopige bestemmingsheffing vastgesteld op basis van een schatting.   
 4.  Indien na vaststelling van de bestemmingsheffing ondernemingen van de heffingsplichtige met terugwerkende kracht worden opgenomen in het register van ondernemingen, genoemd in [artikel 2 van de Registratieverordening Bedrijfschap Horeca en Catering 2008](../../../../../../../../../pbo/registratieverordening/bedrijfschap/horeca/en/catering/2008/BWBR0025199/README.md), kan de bestemmingsheffing opnieuw worden vastgesteld.   
-5.  Indien de bestemmingsheffing gelijk is aan de voorlopig vastgestelde en opgelegde bestemmingsheffing wordt geen bestemmingsheffing meer opgelegd.   
+5.  Indien uit ter beschikking gekomen gegevens blijkt dat de bestemmingsheffing of de voorlopige bestemmingsheffing is vastgesteld op basis van onjuiste gegevens of een onjuiste schatting, kan een vastgestelde bestemmingsheffing worden herzien en opnieuw worden opgelegd.   
 
 ### Artikel  5  
 

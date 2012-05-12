@@ -96,7 +96,7 @@ b. niet onder vermelding van de persoon of onderneming waarop de heffing betrekk
 2.  Na ontvangst van de opgave dan wel op grond van gegevens als bedoeld in artikel 3, tweede lid, kan een voorlopige heffing worden vastgesteld.   
 3.  Indien geen, een onvolledige of een kennelijk onjuiste opgave is gedaan wordt de heffing en de voorlopige heffing vastgesteld op basis van een schatting.   
 4.  Indien na vaststelling van de heffing ondernemingen van de heffingsplichtige met terugwerkende kracht worden opgenomen in het register van ondernemingen, genoemd in [artikel 2 van de Registratieverordening Bedrijfschap Horeca en Catering 2008](../../../../../../../../pbo/registratieverordening/bedrijfschap/horeca/en/catering/2008/BWBR0025199/README.md), kan de heffing opnieuw worden vastgesteld.   
-5.  Indien de heffing gelijk is aan de voorlopig vastgestelde en opgelegde heffing wordt geen heffing meer opgelegd.   
+5.  Indien uit ter beschikking gekomen gegevens blijkt dat de heffing of de voorlopige heffing is vastgesteld op basis van onjuiste gegevens of een onjuiste schatting, kan een vastgestelde heffing worden herzien en opnieuw worden opgelegd.   
 
 ### §  4  
 
