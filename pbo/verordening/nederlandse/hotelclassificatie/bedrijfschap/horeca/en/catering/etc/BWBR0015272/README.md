@@ -3,7 +3,7 @@
 ##Verordening van het bestuur van het Bedrijfschap voor het Hotel-, het Restaurant-, het Café- en het Pension- en Kamerverhuurbedrijf en Aanverwante bedrijven, betreffende de indeling van de logiesverstrekkende bedrijven in categorieën en de aanduiding van die categorieën en het begrip hotel bij het publiek (Verordening Nederlandse hotelclassificatie Bedrijfschap Horeca en Catering 2003)
 
 Het bestuur van het Bedrijfschap voor het Hotel-,het Restaurant-,het Café-en het Pension-en Kamerverhuurbedrijf en Aanverwante bedrijven;  
-Gelet op de [artikelen 93](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [94](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [100](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), alsmede op de [artikelen 4](../../../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/hotel-/restaurant-/café-/en/pension-/en/etc/BWBR0002165/README.md) en [5 van het Instellingsbesluit van het Bedrijfschapvoor het Hotel-, het Restaurant-, het Café- en het Pension- en Kamerverhuurbedrijf en Aanverwante bedrijven](../../../../../../../../../../AMvB/instellingsbesluit/bedrijfschap/hotel-/restaurant-/café-/en/pension-/en/etc/BWBR0002165/README.md);
+Gelet op de artikelen 93, 94, 95, 100 en 104 van de Wet op de Bedrijfsorganisatie, alsmede op de artikelen 4 en 5 van het Instellingsbesluit van het Bedrijfschapvoor het Hotel-, het Restaurant-, het Café- en het Pension- en Kamerverhuurbedrijf en Aanverwante bedrijven;
 Besluit vast te stellen de navolgende verordening:    
 
 ### Artikel  1  
@@ -13,7 +13,7 @@ Besluit vast te stellen de navolgende verordening:
 Deze verordening verstaat onder:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Onderneming  | :  | onderneming waarvoor het bedrijfschap is ingesteld.  |
 | Ondernemer  | :  | een natuurlijke of rechtspersoon die een onderneming drijft.  |
 | Logiesverstrekkende onderneming  | :  | een onderneming waar logies wordt verstrekt, desgewenst voor niet meer dan een nacht  |
@@ -26,7 +26,7 @@ Deze verordening verstaat onder:
 1.  Er is een register voor de indeling van logiesverstrekkende ondernemingen in categorieën, genaamd Hotelclassificatieregister.   
 2.  De secretaris verwerkt namens het bestuur gegevens in het hotelclassificatieregister.   
 3.  Het hotelclassificatieregister bevat vijf categorieën genummerd 1, 2, 3, 4 en 5, waarbij 1 de laagste categorie aangeeft en de opeenvolgende cijfers een steeds hogere categorie uitdrukken. De categorieën worden uitgedrukt in sterren.   
-4.  Het Hotelclassificatieregister bevat ten aanzien van elke logiesverstrekkende onderneming de naam van de onderneming, het adres van de onderneming, alsmede de categorie waarin de onderneming is ingedeeld dan wel met toepassing van artikel 9, zesde lid, een lagere categorie.   
+4.  Het Hotelclassificatieregister bevat ten aanzien van elke logiesverstrekkende onderneming de naam van de onderneming, het adres van de onderneming, alsmede de categorie waarin de onderneming is ingedeeld.   
 5.  Het bestuur kan besluiten dat ten aanzien van logiesverstrekkende ondernemingen, die in het Hotelclassificatieregister zijn opgenomen zonder categorie-aanduiding, op hun verzoek nader te bepalen gegevens worden opgenomen.   
 6.  Het hotelclassificatieregister is openbaar.   
 
@@ -88,8 +88,7 @@ Deze verordening verstaat onder:
 3.  Schilden kunnen beschikbaar worden gesteld tegen betaling van een waarborgsom.   
 4.  Het bestuur kan regels stellen omtrent de waarborgsom.   
 5.  De ondernemer is verplicht het schild binnen 14 dagen na ontvangst daarvan zodanig aan te brengen, dat dit schild door het publiek op duidelijke wijze kan worden waargenomen.   
-6.  Indien niet wordt voldaan aan het bepaalde in het vorige lid kan de logiesverstrekkende onderneming worden opgenomen in het Hotelclassificatieregister in een lagere categorie dan waarin zij is ingedeeld.   
-7.  De ondernemer is verplicht in geval van doorhaling van de inschrijving van een logiesverstrekkende onderneming in het Hotelclassificatieregister, het hem voor die onderneming verstrekte schild binnen twee maanden terug te zenden aan de secretaris.   
+6.  De ondernemer is verplicht in geval van doorhaling van de inschrijving van een logiesverstrekkende onderneming in het Hotelclassificatieregister, het hem voor die onderneming verstrekte schild binnen twee maanden terug te zenden aan de secretaris.   
 
 ### Artikel  10  
 
@@ -139,9 +138,15 @@ Het is een ondernemer verboden een door hem gedreven onderneming, die niet is in
 
 ### Artikel  14  
 
-####Strafbaar feit
+####Tuchtrechtbepaling
 
-Overtreding van het gestelde in artikel 3, eerste, derde en vierde lid, artikel 9, vijfde lid en de artikelen 12 en 13, is een strafbaar feit.  
+Overtreding van het gestelde in artikel 3, eerste, derde en vierde lid, artikel 9, vijfde lid en de artikelen 12 en 13, is een feit waarvoor een tuchtrechtelijke maatregel kan worden opgelegd.  
+
+### Artikel  14a  
+
+####Aanwijzing toezichthouders
+
+Met het toezicht op de naleving van deze verordening zijn belast de bij besluit van het bestuur aangewezen personen.  
 
 ### Artikel  15  
 

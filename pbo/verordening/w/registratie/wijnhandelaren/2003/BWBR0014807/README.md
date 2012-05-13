@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Wijn van 13 maart 2003 houdende regels ter zake van de registratie van handelaren in wijn (Verordening W registratie wijnhandelaren 2003)
 
 Het bestuur van het Productschap Wijn;  
-Gelet op de [artikelen 93](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104, eerste en derde lid van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en op de artikelen 2 en 3 van de Instellingsverordening akkerbouwproductschappen 1997;
+Gelet op de artikelen 93 en 104, eerste en derde lid van de Wet op de bedrijfsorganisatie en op de artikelen 2 en 3 van de Instellingsverordening akkerbouwproductschappen 1997;
 Besluit:     
 ### §  1  
 
@@ -14,12 +14,12 @@ Besluit:
 In deze verordening wordt verstaan onder:  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | a.  | productschap  | :  | Productschap Wijn  |
 | b.  | voorzitter, onderscheidenlijk secretaris  | :  | voorzitter, onderscheidenlijk secretaris van het productschap  |
 | c.  | ondernemer  | :  | degene die een onderneming drijft waarvoor het productschap is ingesteld  |
 | d.  | wijn  | :  | stille wijn, mousserende wijn, parelwijn, likeurwijn en gearomatiseerde wijn van verse druiven, zoals aangeduid onder de GN-codes 2204 en 2205, ook indien hieraan naderhand de alcohol geheel of gedeeltelijk is onttrokken (GN-code 2202 90 10) alsmede alcoholhoudende drank, ex GN-code 2206, al dan niet mousserend, op basis van andere vruchten dan druiven met een effectief alcoholvolumegehalte van tenminste 8,5% vol en ten hoogste 15 % vol bij een temperatuur van 20 graden Celsius, waarbij het alcoholgehalte tenminste voor een deel is verkregen door vergisting  |
-| e.  | handelaar in wijn  | :  | een ondernemer die beroepsmatig, dan wel bedrijfsmatig in Nederland wijn in het verkeer brengt waarvoor accijns verschuldigd is op grond van de [Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md).  |
+| e.  | handelaar in wijn  | :  | een ondernemer die beroepsmatig, dan wel bedrijfsmatig in Nederland wijn in het verkeer brengt waarvoor accijns verschuldigd is op grond van de Wet op de accijns.  |
 
 ### §  2  
 
@@ -72,7 +72,7 @@ Op overtreding van het bepaalde in de artikelen 3, 4 en 5 worden tuchtrechtelijk
 
 ### Artikel  9  
 
-De Verordening W algemene bepalingen 2003 is van toepassing.  
+De Verordening PW algemene bepalingen 2012 is van toepassing.  
 
 ### Artikel  10  
 
