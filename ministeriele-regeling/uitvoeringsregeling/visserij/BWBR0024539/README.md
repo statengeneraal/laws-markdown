@@ -69,7 +69,9 @@ y. vergunning voor een mosselzaadinvanginstallatie: vergunning als bedoeld in ar
 
 z. mosselkweekperceel: perceel dat zich bevindt in een kustwater en dat bestemd is voor het kweken van mosselen;  
 
-aa. wet: [Visserijwet 1963](../../../../wet/visserijwet/1963/BWBR0002416/README.md).    
+aa. wet: [Visserijwet 1963](../../../../wet/visserijwet/1963/BWBR0002416/README.md);  
+
+bb. vistuig van het type staand want: kieuwnetten en warrelnetten als bedoeld in bijlage I, tabel 3, van verordening (EG) nr. 26/2004 van de Commissie van de Europese Gemeenschappen van 30 december 2003 betreffende de communautaire gegevensbestand over de vissersvloot (PbEU L5).    
 
 ### Artikel  1a  
 
@@ -201,25 +203,18 @@ b. een inrichting waarvan de ondernemer op grond van [artikel 3 van de Registrat
 
 ### Artikel  10a  
 
-1.  Een visser die in enig jaar gebruik maakt van de vistuigen, genoemd in artikel 32a, eerste lid, met uitzondering van onderdeel h, doet wekelijks uiterlijk op dinsdag om 24.00 uur opgave aan de Minister van zijn aalvangsten in de voorafgaande week. Uit deze opgave blijkt: 
+1.  Een visser die in enig jaar gebruik maakt van de vistuigen, genoemd in artikel 32a, eerste lid, met uitzondering van onderdeel h, doet wekelijks uiterlijk op dinsdag om 24.00 uur opgave aan de Minister van zijn aalvangsten en zijn visserij-inspanning in de voorafgaande week. Uit deze opgave blijkt: 
 
 a. de naam van de visser;  
 
-b. de hoeveelheid gevangen aal in kilogram;  
+b. de hoeveelheid aal in kilogram, onderscheiden naar het soort vistuig, bedoeld in onderdeel d, waarmee het is gevangen;  
 
-c. de herkomst van de aal.     
+c. de herkomst van de aal;  
+
+d. het aantal en het soort vistuigen waarmee de visser in de betreffende week op aal heeft gevist.     
 2.  De opgave geschiedt op een door de Minister beschikbaar te stellen format.   
 3.  In afwijking van het eerste lid kan een visser die in een bepaalde periode geen gebruik maakt van de vistuigen genoemd in artikel 32a, eerste lid, hiervan voorafgaand aan die periode opgave doen.   
 4.  Van de verplichting uit het eerste lid zijn uitgezonderd diegenen, die op grond van [artikel 104, tweede lid, van de Uitvoeringsregeling zeevisserij](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md) alle aalvangsten registreren.   
-
-### Artikel  10b  
-
-1.  Een visser die in enig jaar gebruikt maakt van de vistuigen, genoemd in artikel 32a, eerste lid, met uitzondering van onderdeel h, doet jaarlijks in de maand december opgave aan de Minister van zijn visserij-inspanning op aal van het betreffende jaar. Uit deze opgave blijkt: 
-
-a. de naam van de visser;  
-
-b. het aantal en het soort vistuigen waarmee hij in het betreffende jaar op aal heeft gevist.     
-2.  De opgave geschiedt op een door de Minister te beschikbaar te stellen format.   
 
 ### Hoofdstuk  3  
 
@@ -244,7 +239,7 @@ Het is verboden te vissen met:
 
 a. sleepnetten al dan niet met wekkerkettingen in de Oosterschelde ten oosten van de Oosterscheldekering, en  
 
-b. sleepnetten met wekkerkettingen in de gebieden genoemd in bijlage 5.    
+b. sleepnetten met wekkerkettingen in de gebieden genoemd in bijlage 3a en 5.    
 
 ### Artikel  14  
 
@@ -499,13 +494,14 @@ Een vrijstelling als bedoeld in artikel 33, wordt niet verleend voor het rapen v
 
 ### Artikel  35  
 
-Een vergunning als bedoeld in artikel 33, wordt niet verleend voor: 
+1.  Een vergunning als bedoeld in artikel 33, wordt niet verleend voor: 
 
 a. het vissen in het gebied, genoemd in bijlage 3;  
 
-b. het vissen met vistuigen geschikt voor het vangen van schelpdieren in de gebieden genoemd in bijlage 3 en 5, en  
+b. het vissen met vistuigen geschikt voor het vangen van schelpdieren in de gebieden genoemd in bijlage 3, 3a en 5, en  
 
-c. het vissen met vistuigen, geschikt voor het vangen van garnalen in het gebied, genoemd in bijlage 6.    
+c. het vissen met vistuigen, geschikt voor het vangen van garnalen in het gebied, genoemd in bijlage 3a en 6.     
+2.  In afwijking van het eerste lid, aanhef en onderdeel b, kan wel een vergunning worden verleend voor het zonder mechanische hulpmiddelen vissen op kokkels in de gebieden, genoemd in bijlage 5a.   
 
 ### Artikel  35a  
 
@@ -581,7 +577,7 @@ b. aanlandingen in Nederlandse havens vinden slechts overeenkomstig de de [Uitvo
 
 c. bij aanlanding in een Nederlandse haven is de ondernemer verplicht onverwijld maar uiterlijk binnen een half uur na aanlanding per vissoort opgave van de vangsthoeveelheden te doen.     
 3.  De opgave, bedoeld in het tweede lid, onderdeel c, vindt plaats door middel van het indienen van het logboek, bedoeld in artikel 15, eerste lid, van de controleverordening, bedoeld in [artikel 1, tweede lid, van de Uitvoeringsregeling zeevisseri](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md) j.   
-4.  Het indienen van het logboek, bedoeld in het derde lid, vindt plaats door overhandiging aan een functionaris of aan een ambtenaar van de Algemene Inspectiedienst van het Ministerie van Economische Zaken, Landbouw en Innovatie of deponering van het formulier in een opgavebus als bedoeld in [artikel 1, eerste lid, van de Uitvoeringsregeling zeevisserij](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md).   
+4.  Het indienen van het logboek, bedoeld in het derde lid, vindt plaats door overhandiging aan een functionaris of aan een ambtenaar van de Nederlandse Voedsel- en Warenautoriteit of deponering van het formulier in een opgavebus als bedoeld in [artikel 1, eerste lid, van de Uitvoeringsregeling zeevisserij](../../../../ministeriele-regeling/uitvoeringsregeling/zeevisserij/BWBR0030288/README.md).   
 
 ### Artikel  43  
 
@@ -1262,9 +1258,65 @@ Schelpdieren
 
 ### Bijlage  3  
 
-####Aanduiding van het referentiegebied in de Waddenzee, behorend bij de artikelen 11 , 18, tweede lid , 34  en 35, onderdeel a en b .
+####Aanduiding van het referentiegebied in de Waddenzee, behorend bij de artikelen 11 , 18, tweede lid , 34  en 35, eerste lid, onderdeel a en b .
 
 Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten: 53°29.7110' NB en 06°36.8450' OL 53°31.9450' NB en 06°37.2260' OL 53°32.4210' NB en 06°37.0408' OL 53°32.5704' NB en 06°36.9446' OL 53°32.9445' NB en 06°36.5232' OL 53°32.5774' NB en 06°31.1897' OL 53°33.2763' NB en 06°28.9006' OL 53°33.4951' NB en 06°27.3228' OL 53°32.9249' NB en 06°26.3971' OL 53°32.2225' NB en 06°27.2745' OL 53°31.8188' NB en 06°27.5629' OL 53°31.1084' NB en 06°27.7142' OL 53°30.8232' NB en 06°27.8172' OL 53°30.5652' NB en 06°27.8245' OL 53°30.2091' NB en 06°27.8895' OL 53°29.9693' NB en 06°27.9813' OL 53°29.4464' NB en 06°28.0920' OL 53°28.5000' NB en 06°29.1850' OL 
+
+### Bijlage  3a  
+
+####Aanduidingen van gebieden in de Waddenzee, behorend bij artikel 35, eerste lid 
+
+### I  
+
+####Afsluitdijk, nr. 10
+
+Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:  
+
+| NB  |--- | OL  |--- |
+|:---|:---|:---|:---|
+| 53  | 01 193  | 5  | 05 841  |
+| 53  | 01 061  | 5  | 06 234  |
+| 53  | 00 919  | 5  | 06 096  |
+| 53  | 01 053  | 5  | 05 705  |
+
+### II  
+
+####Afsluitdijk, nr. 11
+
+Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:  
+
+| NB  |--- | OL  |--- |
+|:---|:---|:---|:---|
+| 53  | 00 768  | 5  | 09 075  |
+| 53  | 00 813  | 5  | 09 523  |
+| 53  | 00 615  | 5  | 09 569  |
+| 53  | 00 607  | 5  | 09 121  |
+
+### III  
+
+####Afsluitdijk, nr. 12
+
+Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:  
+
+| NB  |--- | OL  |--- |
+|:---|:---|:---|:---|
+| 53  | 01 190  | 5  | 10 853  |
+| 53  | 01 361  | 5  | 11 205  |
+| 53  | 01 232  | 5  | 11 378  |
+| 53  | 01 061  | 5  | 11 032  |
+
+### IV  
+
+####Molenrak
+
+Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:  
+
+| NB  |--- | OL  |--- |
+|:---|:---|:---|:---|
+| 53  | 10 300  | 5  | 19 055  |
+| 53  | 10 300  | 5  | 20 411  |
+| 53  | 10 030  | 5  | 20 411  |
+| 53  | 10 030  | 5  | 19 055  |
 
 ### Bijlage  4  
 
@@ -1307,7 +1359,7 @@ Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:
 
 ### Bijlage  5  
 
-####Aanduidingen van gebieden in de Waddenzee en de Oosterschelde, behorend bij de artikelen 13 , 18, derde lid , 35, onderdeel b  en 48 .
+####Aanduidingen van gebieden in de Waddenzee en de Oosterschelde, behorend bij de artikelen 13 , 18, derde lid , 35, eerste lid, onderdeel b  en 48 .
 
 #### *Gebied 1 Balgzand en Breehorn* 
 
@@ -1443,6 +1495,70 @@ Het gebied in het zuidwesten begrensd door een lijn tussen de sectorlichten van 
 – In het westen begrensd door de havendam van de Roggenplaathaven en de grens van. het verboden vaargebied van de Oosterscheldekering in het stroomgat Hammen, naar de kust van Schouwen.  
 
 – In het noorden begrensd door de kust van Schouwen, de Westbout en de havendam van Burghsluis tot punt 4 gelegen op 51°⁠40.3513' NB en 03°⁠45.1211' OL, vandaar in zuidoostelijke richting naar punt 5 gelegen op 51°40.0513' NB en 03°45.4711' OL en vervolgens in overwegend noordoostelijke richting naar punt 1.    
+
+### Bijlage  5a  
+
+####Aanduidingen van gebieden in de Waddenzee, behorend bij artikel 35, tweede lid 
+
+### I  
+
+####Terschellinger Wad
+
+Het gebied dat wordt begrensd door de Waddenzeekust van Terschelling en de lijn lopend over de volgende coördinaten:  
+
+| NB  |--- | OL  |--- |
+|:---|:---|:---|:---|
+| 53  | 24 258  | 5  | 26 012  |
+| 53  | 23 770  | 5  | 28 519  |
+| 53  | 24 303  | 5  | 30 146  |
+| 53  | 23 376  | 5  | 30 156  |
+| 53  | 22 639  | 5  | 25 703  |
+| 53  | 21 732  | 5  | 24 201  |
+| 53  | 21 851  | 5  | 23 033  |
+| 53  | 20 454  | 5  | 20 691  |
+| 53  | 20 373  | 5  | 18 478  |
+| 53  | 20 096  | 5  | 17 504  |
+| 53  | 19 623  | 5  | 16 415  |
+| 53  | 19 083  | 5  | 15 562  |
+| 53  | 19 292  | 5  | 14 477  |
+| 53  | 19 998  | 5  | 13 378  |
+| 53  | 20 719  | 5  | 11 236  |
+| 53  | 21 269  | 5  | 13 158  |
+
+doch met uitzondering van de hierna genoemde drie gebiedjes: 
+
+1). Het Groene strand, gelegen aan de Waddenzeekust;  
+
+2). Havenkom, gelegen aan oostzijde van haven van West-Terschelling;  
+
+3). Strook van 150 meter tussen de havenkom van West-Terschelling en de Boschplaat, gerekend vanaf Waddenzeekust.    
+
+### II  
+
+####Uithuizerwad
+
+Het gebied dat wordt begrensd door de lijn lopend door de volgende coördinaten:  
+
+| NB  |--- | OL  |--- |
+|:---|:---|:---|:---|
+| 53  | 27 630  | 6  | 49 853  |
+| 53  | 27 850  | 6  | 48 890  |
+| 53  | 27 743  | 6  | 48 518  |
+| 53  | 28 027  | 6  | 47 420  |
+| 53  | 28 226  | 6  | 44 754  |
+| 53  | 28 190  | 6  | 41 800  |
+| 53  | 27 877  | 6  | 39 273  |
+| 53  | 26 743  | 6  | 34 587  |
+| 53  | 26 422  | 6  | 32 220  |
+| 53  | 26 742  | 6  | 31 043  |
+| 53  | 27 966  | 6  | 27 991  |
+| 53  | 28 710  | 6  | 26 834  |
+| 53  | 29 467  | 6  | 28 098  |
+| 53  | 28 517  | 6  | 29 221  |
+| 53  | 29 690  | 6  | 36 740  |
+| 53  | 31 110  | 6  | 40 042  |
+| 53  | 29 270  | 6  | 43 258  |
+| 53  | 27 741  | 6  | 49 943  |
 
 ### Bijlage  6  
 
