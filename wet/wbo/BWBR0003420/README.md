@@ -1558,6 +1558,28 @@ c. de bekostiging van de school, indien daaraan het onderwijs wordt uitgebreid m
 
 d. een samenwerkingsschool met inachtneming van artikel 17d tot stand zou kunnen komen.     
 
+### Artikel  84a  
+
+####Verzelfstandiging van een vestiging
+
+1.  Onze minister kan onder door hem te stellen voorwaarden een nevenvestiging, of een deel van een school of nevenvestiging dat zich op een andere locatie bevindt dan de plaats van vestiging van die school of nevenvestiging, als school voor bekostiging in aanmerking brengen.   
+2.  Een verzoek om een besluit als bedoeld in het eerste lid is met redenen omkleed en gaat vergezeld van: 
+
+a. voor zover het betreft de nieuwe school, de gegevens, bedoeld in artikel 75, eerste lid, juncto artikel 75, derde lid, of de gegevens, bedoeld in artikel 76, tweede lid,  
+
+b. een prognose van het te verwachten aantal leerlingen op het overblijvende deel van de school met uitzondering van nevenvestigingen, of, indien van toepassing, op het overblijvende deel van de nevenvestiging, en  
+
+c. een opgave van het aantal leerlingen dat op de teldatum voorafgaand aan het verzoek daadwerkelijk onderwijs volgde op het deel van de school waarop het verzoek betrekking heeft.     
+3.  Bij de berekening van het aantal leerlingen dat de nieuwe school zal bezoeken, wordt artikel 78 niet toegepast, voor zover het plaatsruimte betreft op de nieuwe school.   
+4.  Onze minister willigt het verzoek slechts in, indien: 
+
+a. aannemelijk is dat de nieuwe school gedurende 15 jaar na aanvang van de bekostiging zal worden bezocht door ten minste het aantal leerlingen dat overeenkomt met de stichtingsnorm, bedoeld in artikel 77, tweede lid, en  
+
+b. aannemelijk is dat de bekostiging van het overblijvende deel van de school, met inachtneming van de artikelen 154 tot en met 156, gedurende ten minste 15 achtereenvolgende jaren kan worden voortgezet, of  
+
+c. indien van toepassing aannemelijk is dat de bekostiging van het overblijvende deel van de nevenvestiging, met inachtneming van artikel 158, gedurende ten minste 15 achtereenvolgende jaren kan worden voortgezet.     
+5.  Bij ministeriële regeling kunnen modellen worden vastgesteld voor het verstrekken van de prognose, bedoeld in het tweede lid, onderdeel b. Daarbij wordt aangegeven op welke wijze de prognose wordt ingediend.   
+
 ### Artikel  85  
 
 ####Bekostiging nevenvestiging
@@ -2034,6 +2056,7 @@ c. van speciale scholen voor basisonderwijs.
 1.  Voor de toepassing van artikel 120, eerste lid, geldt het aantal leerlingen van de school op 1 oktober van het voorafgaande schooljaar.   
 2.  Voor de toepassing van artikel 120, eerste lid, voor het schooljaar waarin een nieuwe school wordt geopend en voor het daaropvolgende schooljaar geldt het aantal leerlingen van de school op 1 oktober volgende op de opening.   
 3.  Voor de toepassing van artikel 120, eerste lid, geldt ingeval van samenvoeging van scholen het aantal leerlingen van alle bij de samenvoeging betrokken scholen, voor elke school vastgesteld volgens het eerste lid, en de gewogen gemiddelde leeftijd van de leraren van alle bij de samenvoeging betrokken scholen op 1 oktober van het voorafgaande schooljaar.   
+4.  Op het aantal leerlingen, bedoeld in het eerste lid, van het overblijvende deel van de school, bedoeld in artikel 84a, tweede lid, onderdeel b, wordt het aantal leerlingen in mindering gebracht dat op grond van het tweede lid meetelt voor de bekostiging van een nieuwe school die op grond van artikel 84a voor bekostiging in aanmerking is gebracht.   
 
 ### Artikel  123  
 
@@ -2142,13 +2165,15 @@ b. het aantal leerlingen op 1 oktober van het jaar voorafgaande aan het jaar waa
 a. de schoolgrootte die normatief wordt bepaald op basis van het op grond van de algemene maatregel van bestuur, bedoeld in artikel 69, normatief bepaalde aantal te huisvesten groepen leerlingen naar de maatstaf van het aantal leerlingen op 1 oktober in die periode, waarbij rekening wordt gehouden met de samenstelling van het leerlingenbestand in de gevallen en op de wijze als aangegeven in bedoelde algemene maatregel van bestuur, en  
 
 b. het aantal leerlingen op 1 oktober in die periode, verhoogd met 3% daarvan, waarbij de uitkomst naar beneden wordt afgerond op een geheel getal.     
-6.  Indien op 1 maart van het jaar waarover de bekostiging plaatsvindt, het aantal leerlingen met ten minste een bij de algemene maatregel van bestuur, bedoeld in artikel 69, vastgesteld aantal is toegenomen ten opzichte van het aantal leerlingen, zoals dat luidt na de verhoging overeenkomstig het vierde lid onder b, en toepassing van de in dit lid bedoelde grondslag niet tot een lagere bekostiging zou leiden, zijn grondslag voor de bekostiging ten behoeve van de uitgaven voor de voorzieningen, bedoeld in artikel 113, voor basisscholen: 
+6.  In afwijking van het vierde lid wordt het aantal leerlingen van het overblijvende deel van de school, bedoeld in artikel 84a, tweede lid, onderdeel b, waarop de bekostiging, bedoeld in het vierde lid, gebaseerd is, gedurende de in het vijfde lid bedoelde periode verminderd met het aantal leerlingen dat op grond van dat lid meetelt voor de bekostiging van een nieuwe school die op grond van artikel 84a, eerste lid, voor bekostiging in aanmerking is gebracht.   
+7.   Dit lid is nog niet in werking getreden.    
+8.  Indien op 1 maart van het jaar waarover de bekostiging plaatsvindt, het aantal leerlingen met ten minste een bij de algemene maatregel van bestuur, bedoeld in artikel 69, vastgesteld aantal is toegenomen ten opzichte van het aantal leerlingen, zoals dat luidt na de verhoging overeenkomstig het vierde lid onder b, en toepassing van de in dit lid bedoelde grondslag niet tot een lagere bekostiging zou leiden, zijn grondslag voor de bekostiging ten behoeve van de uitgaven voor de voorzieningen, bedoeld in artikel 113, voor basisscholen: 
 
 a. de schoolgrootte die normatief wordt bepaald op basis van het op grond van de algemene maatregel van bestuur, bedoeld in artikel 69, normatief bepaalde aantal te huisvesten groepen leerlingen naar de maatstaf van het aantal leerlingen op 1 maart van het jaar waarover de bekostiging plaatsvindt, waarbij rekening wordt gehouden met de samenstelling van het leerlingenbestand in de gevallen en op de wijze als aangegeven in bedoelde algemene maatregel van bestuur, en  
 
 b. het aantal leerlingen op 1 maart van het jaar waarover de bekostiging plaatsvindt.     
-7.  Ingeval een samenvoeging plaatsvindt tussen 1 januari en 1 oktober daaropvolgend, wordt de bekostiging ten behoeve van de uitgaven voor de voorzieningen, bedoeld in artikel 113, van alle bij de samenvoeging betrokken scholen gehandhaafd tot het einde van het jaar waarin de samenvoeging plaatsvond.   
-8.  Ingeval een samenvoeging plaatsvindt tussen 1 oktober en 1 januari daaropvolgend, wordt de bekostiging ten behoeve van de uitgaven voor de voorzieningen, bedoeld in artikel 113, van alle bij de samenvoeging betrokken scholen gehandhaafd tot het einde van het jaar waarin de samenvoeging plaatsvond, en wordt de bekostiging van de uitgaven voor die voorzieningen voor het jaar volgend op de samenvoeging, gebaseerd op de bekostiging van de uitgaven voor die voorzieningen van alle bij de samenvoeging betrokken scholen, zoals die golden op 1 oktober van het jaar van samenvoeging.   
+9.  Ingeval een samenvoeging plaatsvindt tussen 1 januari en 1 oktober daaropvolgend, wordt de bekostiging ten behoeve van de uitgaven voor de voorzieningen, bedoeld in artikel 113, van alle bij de samenvoeging betrokken scholen gehandhaafd tot het einde van het jaar waarin de samenvoeging plaatsvond.   
+10.  Ingeval een samenvoeging plaatsvindt tussen 1 oktober en 1 januari daaropvolgend, wordt de bekostiging ten behoeve van de uitgaven voor de voorzieningen, bedoeld in artikel 113, van alle bij de samenvoeging betrokken scholen gehandhaafd tot het einde van het jaar waarin de samenvoeging plaatsvond, en wordt de bekostiging van de uitgaven voor die voorzieningen voor het jaar volgend op de samenvoeging, gebaseerd op de bekostiging van de uitgaven voor die voorzieningen van alle bij de samenvoeging betrokken scholen, zoals die golden op 1 oktober van het jaar van samenvoeging.   
 
 ### Artikel  135  
 
@@ -2180,7 +2205,7 @@ a. een bekostigingsbedrag dat wordt bepaald ingevolge artikel 117 en het derde l
 
 b. voor zover het gebruik van die ruimte ontoereikend is een overeenkomstig het tweede lid vast te stellen bekostigingsbedrag.     
 2.  Voor zover geen ruimte ter beschikking is gesteld als bedoeld in artikel 117, eerste lid onder a, verstrekt de gemeente jaarlijks aan het bevoegd gezag van een niet door de gemeente in stand gehouden school dat geen eigenaar is van een ruimte voor het onderwijs in lichamelijke oefening een bekostigingsbedrag dat wordt bepaald ingevolge artikel 117, eerste lid onder b, en derde lid onder a, en het derde lid.   
-3.  Het aantal groepen leerlingen voor basisscholen wordt berekend overeenkomstig artikel 134, vierde lid onder a, vijfde lid onder a, en zesde lid onder a, en de ter uitvoering daarvan vastgestelde algemene maatregel van bestuur, met dien verstande dat groepen waarvoor van rijkswege bekostiging wordt verstrekt voor de kosten van de materiële instandhouding van een speellokaal niet in aanmerking worden genomen.   
+3.  Het aantal groepen leerlingen voor basisscholen wordt berekend overeenkomstig artikel 134, vierde lid onder a, vijfde lid onder a, en achtste lid onder a, en de ter uitvoering daarvan vastgestelde algemene maatregel van bestuur, met dien verstande dat groepen waarvoor van rijkswege bekostiging wordt verstrekt voor de kosten van de materiële instandhouding van een speellokaal niet in aanmerking worden genomen.   
 4.  Het aantal groepen leerlingen voor speciale scholen voor basisonderwijs wordt berekend door het aantal leerlingen op 1 oktober van het jaar voorafgaande aan het jaar waarover de bekostiging plaatsvindt te delen door 15 en de uitkomst rekenkundig af te ronden op een geheel getal.   
 
 ### §  3  
