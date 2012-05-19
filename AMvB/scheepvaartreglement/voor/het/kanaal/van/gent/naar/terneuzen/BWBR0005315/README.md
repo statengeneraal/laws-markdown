@@ -73,13 +73,9 @@ p. duwboot: een werktuiglijk voortbewogen schip dat deel uitmaakt van een duwste
 
 q. exploitant: de eigenaar, rompbevrachter of ieder ander die de zeggenschap heeft over het gebruik van een schip;  
 
-r. richtlijn nr. 2002/59/EG: richtlijn nr. 2002/59/EG van het Europees Parlement en de Raad van de Europese Unie van 27 juni 2002 betreffende de invoering van een communautair monitoring- en informatiesysteem voor de zeescheepvaart en tot intrekking van Richtlijn 93/75/EEG van de Raad (PbEG L 208);  
+r. waterscooter: klein schip dat, bij gebruikmaking van zijn mechanische middelen tot voortbeweging, sneller dan 20 km per uur ten opzichte van het water kan varen en gebouwd of ingericht is om door een of meer personen skiënd door of over het water te worden voortbewogen;  
 
-s. een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert: elk vrachtschip, iedere olie-, chemicaliën-, of gastanker, of een passagiersschip, waarmee wordt vervoerd een gevaarlijke stof als bedoeld in artikel 3, onderdeel g, of een schadelijke stof als bedoeld in artikel 3, onderdeel h, van richtlijn nr. 2002/59/EG;  
-
-t. waterscooter: klein schip dat, bij gebruikmaking van zijn mechanische middelen tot voortbeweging, sneller dan 20 km per uur ten opzichte van het water kan varen en gebouwd of ingericht is om door een of meer personen skiënd door of over het water te worden voortbewogen;  
-
-u. zeilplank: klein zeilschip voorzien van een vrij bewegende zeiltuigage die is gemonteerd op een in alle richtingen draaibare mastvoet en die tijdens het zeilen niet in een vaste positie wordt ondersteund.     
+s. zeilplank: klein zeilschip voorzien van een vrij bewegende zeiltuigage die is gemonteerd op een in alle richtingen draaibare mastvoet en die tijdens het zeilen niet in een vaste positie wordt ondersteund.     
 2.  In dit reglement wordt verstaan onder: 
 
 a. bevoegde autoriteit: 
@@ -123,10 +119,6 @@ k. schepen in zicht van elkaar: vanaf het ene schip kan het andere met het oog w
 l. beperkt zicht: elke omstandigheid waarin het zicht wordt beperkt door mist, nevelig weer, sneeuwval, zware regenbuien, rook, damp of andere soortgelijke oorzaken;  
 
 m. keren: het schip dat varende is verandert zodanig van vaarrichting dat het komt te varen in een richting tegengesteld aan die waarin het voer.     
-
-### Artikel  2a  
-
-Een wijziging van richtlijn nr. 2002/59/EG gaat voor de toepassing van dit reglement gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.  
 
 ### Artikel  3  
 
@@ -924,32 +916,7 @@ f. zodanige schade heeft opgelopen dat de manoeuvreerbaarheid van het schip of d
 
 g. een hindernis in de vaarweg aantreft.     
 2.  Wanneer er tevens gevaar, schade of hinder voor de scheepvaart kan ontstaan, moet de kapitein of schipper bovendien de naderende vaart waarschuwen.   
-
-### Artikel  43a  
-
-####Melding gegevens
-
-1.  Een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert of een zeeschip met een bruto-tonnage als bedoeld in de [Meetbrievenwet 1981](../../../../../../../../../../wet/meetbrievenwet/1981/BWBR0003378/README.md) van 300 of meer, vaart geen aan het kanaal gelegen haven, ankerplaats, laad- of losinrichting of wachtplaats binnen, voordat de kapitein, de exploitant of de agent aan de bevoegde autoriteit van de eerste bestemming de bij ministeriële regeling vastgestelde gegevens heeft gemeld omtrent het schip, de positie, het tijdstip van aankomst en vertrek daarvan, de daarmee vervoerde lading, het aantal personen aan boord en de uit te voeren reis, op een bij die regeling bepaalde wijze.   
-2.  De in het eerste lid bedoelde melding geschiedt: 
-
-a. door een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert: 
-
-1°. indien de bestemming bij de afvaart uit de haven van bevrachting bekend was, bij die afvaart, of  
-
-2°. indien de bestemming bij de afvaart uit de haven van bevrachting nog niet bekend was of tijdens de reis wordt gewijzigd, zodra deze bekend is, maar uiterlijk bij het binnenvaren van de Nederlandse territoriale zee;    
-
-b. door een zeeschip met een bruto-tonnage als bedoeld in de [Meetbrievenwet 1981](../../../../../../../../../../wet/meetbrievenwet/1981/BWBR0003378/README.md) van 300 of meer dat geen bepaalde gevaarlijke of schadelijke stoffen vervoert: 
-
-1°. ten minste vierentwintig uur voor aankomst, of  
-
-2°. indien de bestemming bij de afvaart uit de vorige haven bekend was en de reisduur minder dan vierentwintig uur bedraagt, uiterlijk op het tijdstip waarop het schip de vorige haven verlaat, of  
-
-3°. indien de bestemming bij de afvaart uit de vorige haven nog niet bekend was of tijdens de reis wordt gewijzigd, zodra deze bekend is, maar uiterlijk bij het binnenvaren van de Nederlandse territoriale zee.       
-3.  De kapitein, de exploitant of de agent van een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert, deelt voor de afvaart van dat schip uit een aan het kanaal gelegen haven, ankerplaats, laad- of losinrichting of wachtplaats, aan de bevoegde autoriteit de bij ministeriële regeling vastgestelde gegevens mede omtrent het schip, het tijdstip van vertrek daarvan, de daarmee vervoerde lading, het aantal personen aan boord en de uit te voeren reis, op een bij die regeling bepaalde wijze.   
-4.  De in het eerste lid bedoelde meldingsplicht is niet van toepassing op een in aanloop zijnd schip dat zich reeds op grond van het [Scheepvaartreglement territoriale zee](../../../../../../../../../../AMvB/scheepvaartreglement/territoriale/zee/BWBR0007914/README.md) heeft gemeld.   
-5.  De bevoegde autoriteit kan ontheffing verlenen van de in het eerste en het derde lid bedoelde meldingsplichten met betrekking tot een zeeschip als bedoeld in die leden, dat in lijndienst vaart tussen twee in Nederland gelegen havens of tussen een in Nederland gelegen haven en een haven gelegen in een andere staat, als wordt voldaan aan de voorschriften, bedoeld in artikel 15, eerste en tweede lid, van richtlijn nr. 2002/59/EG.   
-6.  De bevoegde autoriteit trekt de ontheffing in wanneer niet meer wordt voldaan aan de voorschriften, bedoeld in het vijfde lid.   
-7.  Het eerste en derde lid zijn niet van toepassing op een schip als bedoeld in artikel 2, tweede lid, in samenhang met artikel 6 bis van richtlijn nr. 2002/59/EG.   
+3.  De kapitein of schipper van een schip dat behoort tot een door de bevoegde autoriteit aangewezen categorie van schepen, moet zich in de door die bevoegde autoriteit aangegeven gevallen melden. De bevoegde autoriteit kan nadere voorschriften stellen met betrekking tot de inhoud van de melding en de wijze waarop de melding plaatsvindt.   
 
 ### Artikel  44  
 

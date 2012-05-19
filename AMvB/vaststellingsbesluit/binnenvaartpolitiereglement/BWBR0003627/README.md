@@ -104,7 +104,7 @@ De besluiten, bedoeld in de artikelen 4 en 5 worden in de *Staatscourant* geplaa
 
 ### Artikel  7a  
 
-Overtreding van de bepalingen van het [Binnenvaartpolitiereglement](../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md), dan wel overtreding van de aan een aanwijzing van de bevoegde autoriteit verbonden voorwaarden, of de aan een vergunning, vrijstelling of ontheffing verbonden voorwaarden of voorschriften, met uitzondering van overtreding van de voorschriften verbonden aan een ontheffing als bedoeld in [artikel 10.07, tweede lid](../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md), is een strafbaar feit.  
+Overtreding van de bepalingen van het [Binnenvaartpolitiereglement](../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md), dan wel overtreding van de aan een aanwijzing van de bevoegde autoriteit verbonden voorwaarden, of de aan een vergunning, vrijstelling of ontheffing verbonden voorwaarden of voorschriften, is een strafbaar feit.  
 
 ### Artikel  10  
 

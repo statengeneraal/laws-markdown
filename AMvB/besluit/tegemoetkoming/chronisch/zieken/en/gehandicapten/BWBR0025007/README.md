@@ -56,21 +56,25 @@ e. in het jaar voorafgaande aan dat jaar van zijn zorgverzekeraar geneeskundige 
 
 f. in dat jaar: 
 
-1°. van zijn zorgverzekeraar fysiotherapie of oefentherapie als bedoeld in [artikel 2.6, tweede lid, van het Besluit zorgverzekering](../../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) vergoed heeft gekregen, of  
+1°. van zijn zorgverzekeraar ten minste een bij ministeriële regeling te bepalen bedrag, gelijk aan het gemiddelde bedrag aan kosten voor 96 behandelingen fysiotherapie of oefentherapie als bedoeld in [artikel 2.6, tweede lid, van het Besluit zorgverzekering](../../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), vergoed heeft gekregen;  
 
-2°. jonger was dan 18 jaar en in dat jaar en het daaraan voorafgaande jaar van zijn zorgverzekeraar een bij ministeriële regeling te bepalen bedrag, gelijk aan het gemiddelde bedrag aan kosten voor een bij die regeling te bepalen aantal behandelingen fysiotherapie of oefentherapie, vergoed heeft gekregen, of  
+2°. jonger was dan 18 jaar en in dat jaar en het daaraan voorafgaande jaar van zijn zorgverzekeraar ten minste een bij ministeriële regeling te bepalen bedrag, gelijk aan het gemiddelde bedrag van de kosten voor een bij die regeling te bepalen aantal behandelingen fysiotherapie of oefentherapie vergoed heeft gekregen, of  
 
-3°. militair was en in dat jaar en het daaraan voorafgaande jaar van de rechtspersoon, bedoeld in [artikel 90a, eerste lid, van het Algemeen militair ambtenarenreglement](../../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md), een bij ministeriële regeling te bepalen bedrag, gelijk aan het gemiddelde bedrag aan kosten voor een bij die regeling te bepalen aantal behandelingen fysiotherapie of oefentherapie, vergoed heeft gekregen;    
+3°. militair was en in dat jaar en het daaraan voorafgaande jaar van de rechtspersoon, bedoeld in [artikel 90a, eerste lid, van het Algemeen militair ambtenarenreglement](../../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md), ten minste een bij ministeriële regeling te bepalen bedrag, gelijk aan het gemiddelde bedrag aan kosten voor een bij die regeling te bepalen aantal behandelingen fysiotherapie of oefentherapie, vergoed heeft gekregen;    
 
-g. in dat jaar al dan niet aaneengesloten 26 weken of meer op grond van een indicatiebesluit was aangewezen op één tot tien uren per week zorg als bedoeld in de artikelen 4, 5 of 6 van het Besluit zorgaanspraken AWBZ, met dien verstande dat: 
+g. na 31 december 2011 van zijn zorgverzekeraar een bij ministeriële regeling aangewezen hulpmiddel bij een blijvende aandoening vergoed heeft gekregen;  
 
-1°. de indicatie voor één dagdeel zorg geldt als 2,5 uren zorg per week,  
+h. in dat jaar al dan niet aaneengesloten 26 weken of meer op grond van een indicatiebesluit was aangewezen op één tot tien uren per week zorg als bedoeld in [artikelen 4](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [5](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) en [6 van het Besluit zorgaanspraken AWBZ](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), met dien verstande dat: 
 
-2°. het gemiddelde aantal uren waarvoor de indicaties zijn afgegeven, bepalend is voor het toekennen van de tegemoetkoming;    
+1°. een indicatie voor een functie voor één dagdeel geldt als een indicatie voor 2,5 uren zorg per week;  
 
-h. in dat jaar al dan niet aaneengesloten 26 weken of meer gedurende één tot tien uren per week in natura huishoudelijke verzorging als bedoeld in [artikel 1, eerste lid, onderdeel h, van de Wet maatschappelijke ondersteuning](../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) heeft ontvangen of daartoe op grond van een indicatiebesluit was aangewezen en een persoonsgebonden budget heeft ontvangen, met dien verstande dat voor het vaststellen van de periode van 26 weken wordt aangesloten bij de indeling in weken als bedoeld in [artikel 4.1, derde lid, van het Besluit maatschappelijke ondersteuning](../../../../../../../../AMvB/besluit/maatschappelijke/ondersteuning/BWBR0020379/README.md), of  
+2°. het gemiddelde aantal uren waarvoor een functie is geïndiceerd, geldt als het aantal uren zorg per week voor die functie, en  
 
-i. in dat jaar al dan niet aaneengesloten 26 weken of meer op grond van een indicatiebesluit was aangewezen op één of meer etmalen per week zorg als bedoeld in de [artikelen 9, eerste lid](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), of [13, eerste en tweede lid, van het Besluit zorgaanspraken AWBZ](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md).     
+3°. in geval van een indicatie voor twee of meer functies het totaalaantal uren zorg per week wordt berekend door het aantal uren zorg per functie per week op te tellen;    
+
+i. in dat jaar al dan niet aaneengesloten 26 weken of meer gedurende één tot tien uren per week in natura huishoudelijke verzorging als bedoeld in [artikel 1, eerste lid, onderdeel h, van de Wet maatschappelijke ondersteuning](../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) heeft ontvangen of daartoe op grond van een indicatiebesluit was aangewezen en een persoonsgebonden budget heeft ontvangen, met dien verstande dat voor het vaststellen van de periode van 26 weken wordt aangesloten bij de indeling in weken als bedoeld in [artikel 4.1, derde lid, van het Besluit maatschappelijke ondersteuning](../../../../../../../../AMvB/besluit/maatschappelijke/ondersteuning/BWBR0020379/README.md), of  
+
+j. in dat jaar al dan niet aaneengesloten 26 weken of meer op grond van een indicatiebesluit was aangewezen op één of meer etmalen per week zorg als bedoeld in de [artikelen 9, eerste lid](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), of [13, eerste en tweede lid, van het Besluit zorgaanspraken AWBZ](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md).     
 2.  De tegemoetkoming, bedoeld in [artikel 2, eerste lid, van de wet](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md) bedraagt € 510 per 2 februari 2012 en met terugwerkende kracht tot en met 1 januari 2011: € 514 indien de rechthebbende in het kalenderjaar waarop de tegemoetkoming betrekking heeft, jonger was dan 65 jaar of 65 jaar is geworden, onderscheidenlijk € 357 per 2 februari 2012 en met terugwerkende kracht tot en met 1 januari 2011: € 360 indien de rechthebbende in het gehele jaar 65 jaar of ouder was, de rechthebbende niet is overleden in het kalenderjaar waarop de tegemoetkoming betrekking heeft, en de rechthebbende in dat jaar: 
 
 a. een of meer ATC’s of in het jaar voorafgaande aan dat jaar een of meer DBC’s vergoed kreeg die behoren tot: 
@@ -79,28 +83,42 @@ a. een of meer ATC’s of in het jaar voorafgaande aan dat jaar een of meer DBC�
 
 2°. twee of meer bij ministeriële regeling aangewezen chronische groepen die recht geven op een lage tegemoetkoming;    
 
-b. al dan niet aaneengesloten 26 weken of meer op grond van een indicatiebesluit was aangewezen op tien of meer uren per week zorg als bedoeld in de [artikelen 4](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [5](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) of [6 van het Besluit zorgaanspraken AWBZ](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), met dien verstande dat: 
+b. al dan niet aaneengesloten 26 weken of meer op grond van een indicatiebesluit was aangewezen op tien of meer uren per week zorg als bedoeld in [artikelen 4](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [5](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) en [6 van het Besluit zorgaanspraken AWBZ](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), met dien verstande dat: 
 
-1°. de indicatie voor één dagdeel zorg geldt als 2,5 uren zorg per week,  
+1°. een indicatie voor een functie voor één dagdeel geldt als een indicatie voor 2,5 uren zorg per week;  
 
-2°. het gemiddelde aantal uren waarvoor de indicaties zijn afgegeven, bepalend is voor het toekennen van de tegemoetkoming;    
+2°. het gemiddelde aantal uren waarvoor een functie is geïndiceerd, geldt als het aantal uren zorg per week voor die functie, en  
+
+3°. in geval van een indicatie voor twee of meer functies het totaalaantal uren zorg per week wordt berekend door het aantal uren zorg per functie per week op te tellen;    
 
 c. al dan niet aaneengesloten 26 weken of meer gedurende tien of meer uren per week in natura huishoudelijke verzorging als bedoeld in [artikel 1, eerste lid, onderdeel h, van de Wet maatschappelijke ondersteuning](../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) heeft ontvangen of daartoe op grond van een indicatiebesluit was aangewezen en een persoonsgebonden budget heeft ontvangen, met dien verstande dat voor het vaststellen van de periode van 26 weken wordt aangesloten bij de indeling in weken als bedoeld in [artikel 4.1, derde lid, van het Besluit maatschappelijke ondersteuning](../../../../../../../../AMvB/besluit/maatschappelijke/ondersteuning/BWBR0020379/README.md), of  
 
-d. viel onder twee of meer van de categorieën, genoemd in het eerste lid, met uitzondering van de volgende in het eerste lid bedoelde categorieën: 
+d. viel onder twee of meer van de categorieën, genoemd in het eerste lid, met uitzondering van een combinatie van: 
 
-1°. een combinatie van de categorie, genoemd in onderdeel c en van de categorieën, genoemd in de onderdelen a en b;  
+1°. de categorieën, genoemd in het eerste lid, onderdelen a en b;  
 
-2°. een combinatie van de categorieën, genoemd in de onderdelen g en h.       
-3.  Voor de toepassing van het eerste lid, onderdelen g en i, en het tweede lid, onderdelen b en c, is voor militairen het aantal uren, dagdelen of etmalen waarvoor zorg als bedoeld in de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) is gebruikt, bepalend voor het toekennen van de tegemoetkoming, bedoeld in [artikel 2, eerste lid, van de wet](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md).   
-4.  Het gemiddelde, bedoeld in het eerste lid, onderdeel g, en het tweede lid, onderdeel b, wordt bepaald door op een decimaal achter de komma naar boven af te ronden.   
+2°. de categorieën, genoemd in het eerste lid, onderdelen a en c;  
+
+3°. de categorieën, genoemd in het eerste lid, onderdelen a, b en c;  
+
+4°. de categorieën, genoemd in het eerste lid, onderdelen b en c;  
+
+5°. de categorieën, genoemd in het eerste lid, onderdelen b en g;  
+
+6°. de categorieën, genoemd in het eerste lid, onderdelen c en g;  
+
+7°. de categorieën, genoemd in het eerste lid, onderdelen b, c en g;  
+
+8°. de categorieën, genoemd in de onderdelen h en i.       
+3.  Voor de toepassing van het eerste lid, onderdelen h en j, en het tweede lid, onderdelen b en c, is voor militairen het aantal uren, dagdelen of etmalen waarvoor zorg als bedoeld in de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) is gebruikt, bepalend voor het toekennen van de tegemoetkoming, bedoeld in [artikel 2, eerste lid, van de wet](../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md).   
+4.  Het gemiddelde, bedoeld in het eerste lid, onderdeel h, en het tweede lid, onderdeel b, wordt bepaald door op een decimaal achter de komma naar boven af te ronden.   
 5.  Een rechthebbende op wie het tweede lid, onderdeel a, onder 2°, of onderdeel d, van toepassing is, heeft slechts recht op een tegemoetkoming als bedoeld in de aanhef van dat lid.   
-6.  Een rechthebbende op wie het eerste lid, onderdeel i, van toepassing is, heeft in afwijking van het tweede lid, slechts recht op een tegemoetkoming als bedoeld in de aanhef van het eerste lid.   
-7.  Het eerste lid, onderdelen g en i, het tweede lid, onderdelen b en d, en het zesde lid, zijn van overeenkomstige toepassing op de indicatiebesluiten afgegeven door de stichting bedoeld in [artikel 9b, vierde lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) die met ingang van 1 januari 2010 zijn afgegeven dan wel op die datum geldig zijn.   
+6.  Een rechthebbende op wie het eerste lid, onderdeel j, van toepassing is, heeft in afwijking van het tweede lid, slechts recht op een tegemoetkoming als bedoeld in de aanhef van het eerste lid.   
+7.  Het eerste lid, onderdelen h en j, het tweede lid, onderdelen b en d, en het zesde lid, zijn van overeenkomstige toepassing op de indicatiebesluiten afgegeven door de stichting bedoeld in [artikel 9b, vierde lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) die met ingang van 1 januari 2010 zijn afgegeven dan wel op die datum geldig zijn.   
 
 ### Artikel  3  
 
-1.  Zorgverzekeraars en de rechtspersoon, bedoeld in [artikel 90a, eerste lid, van het Algemeen militair ambtenarenreglement](../../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md), verstrekken van rechthebbenden die vallen onder de categorieën, genoemd in artikel 2, eerste lid, onderdelen a tot en met c, e en f, aan het CAK: 
+1.  Zorgverzekeraars en de rechtspersoon, bedoeld in [artikel 90a, eerste lid, van het Algemeen militair ambtenarenreglement](../../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md), verstrekken van rechthebbenden die vallen onder de categorieën, genoemd in artikel 2, eerste lid, onderdelen a tot en met c en e tot en met g, aan het CAK: 
 
 a. het burgerservicenummer of bij ontbreken daarvan het sociaal-fiscaalnummer,  
 
@@ -114,7 +132,7 @@ e. de naam en het adres van de rechthebbende, en
 
 f. indien dat het geval is: dat een rechthebbende op grond van artikel 2, tweede lid, onderdelen a en d, recht heeft op de daar bedoelde tegemoetkoming.     
 2.  Zorgverzekeraars verstrekken aan het CAK een overzicht van verzekerden als bedoeld in [artikel 1, onderdeel f, van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) die verzekerd waren op 31 december van het jaar waarop de tegemoetkoming betrekking heeft.   
-3.  Indicatieorganen als bedoeld in [artikel 9a, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) en de rechtspersoon, bedoeld in [artikel 90a, eerste lid, van het Algemeen militair ambtenarenreglement](../../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md), verstrekken aan het CAK van personen die vallen onder artikel 2, eerste lid, onderdelen g of i, of artikel 2, tweede lid, onderdeel b: 
+3.  Indicatieorganen als bedoeld in [artikel 9a, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) en de rechtspersoon, bedoeld in [artikel 90a, eerste lid, van het Algemeen militair ambtenarenreglement](../../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md), verstrekken aan het CAK van personen die vallen onder artikel 2, eerste lid, onderdelen h of j, of artikel 2, tweede lid, onderdeel b: 
 
 a. het burgerservicenummer of bij het ontbreken daarvan het sociaal-fiscaalnummer,  
 
@@ -122,7 +140,7 @@ b. de naam en het adres van de rechthebbende,
 
 c. de geboortedatum, en  
 
-d. indien dat het geval is: de mededeling dat de persoon valt in de categorieën, genoemd in artikel 2, eerste lid, onderdeel i, of het tweede lid.     
+d. indien dat het geval is: de mededeling dat de persoon valt in de categorieën, genoemd in artikel 2, eerste lid, onderdeel j, of het tweede lid.     
 4.  Gemeenten verstrekken aan het CAK van personen die vallen onder artikel 2, eerste lid, onderdeel d: 
 
 a. het burgerservicenummer of bij het ontbreken daarvan het sociaal fiscaal nummer,  
@@ -130,7 +148,7 @@ a. het burgerservicenummer of bij het ontbreken daarvan het sociaal fiscaal numm
 b. naam en adres van de rechthebbende, en  
 
 c. de geboortedatum.     
-5.  Gemeenten verstrekken aan het CAK van personen die in de zin van artikel 2, eerste lid, onderdeel h, of artikel 2, tweede lid, onderdeel c, een persoonsgebondenbudget voor huishoudelijke verzorging ontvangen: 
+5.  Gemeenten verstrekken aan het CAK van personen die in de zin van artikel 2, eerste lid, onderdeel i, of artikel 2, tweede lid, onderdeel c, een persoonsgebondenbudget voor huishoudelijke verzorging ontvangen: 
 
 a. het burgerservicenummer of bij het ontbreken daarvan het sociaal-fiscaalnummer,  
 
@@ -152,7 +170,7 @@ c. de geboortedatum,
 d. de soort en omvang van de geïndiceerde zorg, en  
 
 e. de ingangs- en einddatum per geïndiceerde functie.     
-7.  Het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank, bedoeld in [artikel 1, onderdelen c en d, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), verstrekken aan het CAK de rekeningnummers van rechthebbenden die vallen onder artikel 2, eerste lid, onderdeel i, met uitzondering van die van militairen.   
+7.  Het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank, bedoeld in [artikel 1, onderdelen c en d, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), verstrekken aan het CAK de rekeningnummers van rechthebbenden die vallen onder artikel 2, eerste lid, onderdeel j, met uitzondering van die van militairen.   
 
 ### Hoofdstuk  3  
 
@@ -182,7 +200,9 @@ b. de persoon die op 1 juli van het kalenderjaar recht heeft op een arbeidsonges
 
 ### Artikel  5  
 
-De bedragen, genoemd in de artikelen 2 en 4, worden bij het begin van het kalenderjaar bij ministeriële regeling vervangen door andere bedragen. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en de uitkomst vervolgens naar boven af te ronden op hele getallen.  
+1.  De bedragen, genoemd in de artikelen 2 en 4, worden bij het begin van het kalenderjaar bij ministeriële regeling vervangen door andere bedragen. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en de uitkomst vervolgens naar boven af te ronden op hele getallen.   
+2.  Het eerste lid is niet van toepassing met betrekking tot de in artikel 2 genoemde tegemoetkomingsbedragen over de kalenderjaren 2012 tot en met 2014.   
+3.  Het tweede lid alsmede de aanduiding «1.» voor het eerste lid en dit lid vervallen met ingang van 1 januari 2015.   
 
 ### Hoofdstuk  5  
 

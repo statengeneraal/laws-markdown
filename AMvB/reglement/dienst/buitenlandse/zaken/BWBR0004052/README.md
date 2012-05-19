@@ -78,6 +78,22 @@ d. door Onze Minister als gezinslid beschouwde meerderjarige studerende of inval
 1.  Tenzij anders is bepaald, wordt in dit reglement onder salaris, bezoldiging, vakantie-uitkering en eindejaarsuitkering verstaan: hetgeen daaronder wordt verstaan in het [BBRA 1984](../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md).   
 2.  In gevallen waarin niet is bepaald wie bevoegd is tot het nemen van besluiten of het doen van voordrachten krachtens dit reglement, is Onze Minister bevoegd.   
 
+### Hoofdstuk  Ia  
+
+####Elektronische berichtgeving
+
+### Artikel  4a  
+
+1.  Berichten inzake het maandelijkse in geld vastgestelde loon en de jaaropgave aan de ambtenaar behoeven uitsluitend elektronisch te worden verzonden.   
+2.  De in het eerste lid bedoelde berichten worden niet uitsluitend elektronisch verzonden: 
+
+a. indien de ambtenaar geen mogelijkheid heeft om kennis te nemen van een elektronische bericht;  
+
+b. bij ontslag of overlijden van de ambtenaar;  
+
+c. op verzoek van de ambtenaar in het geval deze een zwaarwegend belang heeft bij incidentele verzending op andere wijze.     
+3.  Onze Minister kan, na overleg met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, nadere regels stellen over de wijze waarop de elektronische verzending geschiedt.   
+
 ### Hoofdstuk  II  
 
 ####Algemene en organisatorische bepalingen

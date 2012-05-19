@@ -138,7 +138,7 @@ b. *lange stoot*: geluidssein durende ongeveer 4 seconden; de tijdruimte tussen 
 4.  De schipper moet tijdens de vaart aan boord zijn; de schipper van een drijvend werktuig moet tevens aan boord zijn, wanneer het werktuig in bedrijf is.   
 5.  Indien een stilliggend schip geen schipper heeft, 
 
-a. is de exploitant verantwoordelijk voor de naleving van de artikelen 1.02, eerste lid, 1.06, 1.07, 1.18, 2.01, 2.02, 3.01, vierde lid, 3.05, 3.06, 3.07, 3.20 tot en met 3.26, 3.29, 3.31, 3.32, 3.33, 5.01 eerste en tweede lid, voorzover het de naleving betreft van de tekens, A.5, A.5.1, A.6 en A.7 (bijlage 7) of een bekendmaking met dezelfde strekking als deze tekens, 7.01, eerste, tweede en derde lid, 7.02, 7.04, derde lid, 7.08, 9.03, en 10.07;  
+a. is de exploitant verantwoordelijk voor de naleving van de artikelen 1.02, eerste lid, 1.06, 1.07, 1.18, 2.01, 2.02, 3.01, vierde lid, 3.05, 3.06, 3.07, 3.20 tot en met 3.26, 3.29, 3.31, 3.32, 3.33, 5.01 eerste en tweede lid, voorzover het de naleving betreft van de tekens, A.5, A.5.1, A.6 en A.7 (bijlage 7) of een bekendmaking met dezelfde strekking als deze tekens, 7.01, eerste, tweede en derde lid, 7.02, 7.04, derde lid, 7.08, en 9.03;  
 
 b. is de wachtsman bedoeld in artikel 7.08, eerste lid, dan wel de persoon die op grond van artikel 7.08, tweede lid, met het toezicht op het schip is belast, verantwoordelijk voor de naleving van de artikelen 1.12, eerste en tweede lid, 1.13, 1.14, 1.15, 1.17, 3.01, vierde lid, 3.05, 3.06, 3.07, 3.20 tot en met 3.26, 3.29, 3.31, tweede lid, 3.32, tweede lid, 3.33, tweede lid, 6.19, tweede lid, 6.31, eerste lid, 7.01, derde en vierde lid, 7.04, derde lid, 7.09 tot en met 7.11, en 9.03, tweede lid.     
 6.  Voor een stilliggend zeeschip onder beslag, is de beslaglegger verantwoordelijk voor de naleving van de artikelen 3.01, vierde lid, 3.06, 3.20, 3.21, 3.26, 3.31 tot en met 3.33, 4.04, eerste en tweede lid, 7.01, derde lid, en 7.08, wanneer daarin niet door een schipper, een exploitant, een wachtsman of toezichthouder overeenkomstig het gestelde in het vijfde lid of artikel 7.08 kan worden voorzien.   
@@ -1987,7 +1987,7 @@ c. het duwstel wordt geassisteerd.
 2.  Een in het eerste lid bedoeld groot schip, luistert op de in bijlage 9 en bijlage 10 genoemde vaarwegen uit en neemt zonodig deel aan de ter plaatse gevoerde communicatie op het door de bevoegde autoriteit aangewezen marifoonkanaal, overeenkomstig de daartoe gestelde regels.   
 3.  De in het eerste lid bedoelde meldingsplicht is tevens van toepassing op een klein schip, waarmee wordt vervoerd een gevaarlijke stof als bedoeld in artikel 3, onderdeel g, of een schadelijke stof als bedoeld in artikel 3, onderdeel h, van richtlijn nr. 2002/59/EG.   
 4.  De in het tweede lid bedoelde uitluister- en communicatieplicht is tevens van toepassing op een klein schip, wanneer het de in het derde lid bedoelde stoffen vervoert, of wanneer het een klein schip betreft dat is uitgerust met een marifooninstallatie.   
-5.  De in het eerste en derde lid bedoelde meldingsplicht is niet van toepassing op een schip dat zich reeds op grond van artikel 10.07 voor vertrek moet melden.   
+5.  De in het eerste en derde lid bedoelde meldingsplicht is niet van toepassing op een schip dat zich reeds op grond van [artikel 2 van het Besluit meldingsformaliteiten en gegevensverwerkingen scheepvaart](../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md) en de daarop berustende bepalingen voor vertrek moet melden.   
 6.  De in het eerste en tweede lid bedoelde regels kunnen betrekking hebben op het gebruik van bepaalde communicatiemiddelen aan boord van het schip, het melden van aankomst, vertrek of positie van het schip, alsmede op gegevens met betrekking tot het schip, de daarmee vervoerde lading of de uit te voeren reis.   
 
 ### Artikel  9.08  
@@ -2059,15 +2059,6 @@ Een zeegaand schip mag de internationale vlaggeseinen "A", "B", "G", "H", "P", "
 2.  Een zeegaand schip mag de algemene geluidsseinen, vermeld in afdeling A van bijlage 6, aanvullen met een wit lichtsein als bedoeld in de internationale bepalingen ter voorkoming van aanvaringen op zee. Het schip mag dan niet het in het eerste lid bedoelde gele lichtsein tonen.   
 3.  Het witte lichtsein mag afhankelijk van de omstandigheden worden herhaald.   
 4.  Dit artikel geldt niet voor klokslagen en reeksen klokslagen.   
-
-### Artikel  10.07  
-
-####Melding voor vertrek
-
-1.  De schipper, de exploitant of de agent van een zeeschip met een bruto-tonnage als bedoeld in de [Meetbrievenwet 1981](../../../wet/meetbrievenwet/1981/BWBR0003378/README.md) van 300 of meer, dat naar zee vertrekt en de schipper, de exploitant of de agent van een zeeschip zijnde een vrachtschip, een olie-, chemicaliën-, of gastanker, of een passagiersschip dat naar zee vertrekt en waarmee een gevaarlijke stof als bedoeld in artikel 3, onderdeel g, of een schadelijke stof als bedoeld in artikel 3, onderdeel h, van richtlijn nr. 2002/59/EG wordt vervoerd, deelt voor de afvaart van dat schip uit een haven of van een ankerplaats aan de bevoegde autoriteit van de desbetreffende haven of ankerplaats de bij ministeriële regeling vastgestelde gegevens mede omtrent het schip, het tijdstip van vertrek daarvan, de daarmee vervoerde lading, het aantal personen aan boord en de uit te voeren reis, op een bij die regeling bepaalde wijze.   
-2.  De bevoegde autoriteit kan ontheffing verlenen van de in het eerste lid bedoelde meldingsplicht met betrekking tot een zeeschip als bedoeld in dat lid, dat in lijndienst vaart tussen twee in Nederland gelegen havens of tussen een in Nederland gelegen haven en een haven gelegen in een andere staat, als wordt voldaan aan de voorschriften, bedoeld in artikel 15, eerste en tweede lid, van richtlijn nr. 2002/59/EG.   
-3.  De bevoegde autoriteit trekt de ontheffing in wanneer niet meer wordt voldaan aan de voorschriften, bedoeld in het tweede lid.   
-4.  Het eerste lid is niet van toepassing op een schip als bedoeld in artikel 2, tweede lid, in samenhang met artikel 6 bis van richtlijn nr. 2002/59/EG.   
 
 ### Artikel  10.08  
 

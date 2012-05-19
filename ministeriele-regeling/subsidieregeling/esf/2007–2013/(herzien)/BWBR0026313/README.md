@@ -16,7 +16,7 @@ In deze regeling wordt verstaan onder:
 
 * *Adviseur in de zin van Actie E:* een natuurlijk persoon, niet zijnde een werknemer van de subsidieaanvrager, die in het kader van de uitoefening van zijn beroep of bedrijf als adviseur werkzaam is op het gebied van sociale innovatie in arbeidsorganisaties door middel van gedragsbeïnvloeding of cultuurverandering;  
 
-* *arbeidsbelemmerde:* een persoon die jegens het college van burgemeester en wethouders van zijn woonplaats uitsluitend aanspraak heeft op een uitkering op grond van de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) (WWB), of een uitkering op grond van de [Wet investeren in jongeren](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) (WIJ), naar het oordeel van dat college, gebaseerd op een door een arts of arbeidsdeskundige afgegeven verklaring een structurele functionele beperking heeft en jegens het UWV geen aanspraak heeft op een uitkering, danwel een persoon die naar het oordeel van dat college behoort tot de doelgroep als bedoeld in [artikel 1 sub e van de Tijdelijke wet pilot loondispensatie](../../../../../../wet/tijdelijke/wet/pilot/loondispensatie/BWBR0027707/README.md);  
+* *arbeidsbelemmerde:* een persoon die jegens het college van burgemeester en wethouders van zijn woonplaats uitsluitend aanspraak heeft op een uitkering op grond van de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) (WWB), naar het oordeel van dat college, gebaseerd op een door een arts of arbeidsdeskundige afgegeven verklaring een structurele functionele beperking heeft en jegens het UWV geen aanspraak heeft op een uitkering, danwel een persoon die naar het oordeel van dat college behoort tot de doelgroep als bedoeld in [artikel 1 sub e van de Tijdelijke wet pilot loondispensatie](../../../../../../wet/tijdelijke/wet/pilot/loondispensatie/BWBR0027707/README.md);  
 
 * *begunstigde:* de subsidieaanvrager aan wie krachtens deze regeling subsidie is verleend;  
 
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 * *minister:* de minister van Sociale Zaken en Werkgelegenheid;  
 
-* *niet-uitkeringsontvanger:* een werkloze persoon van 16 jaar en ouder, doch jonger dan 65 jaar, die geen uitkering of inkomensvoorziening ontvangt op grond van de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet investeren in jongeren](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) (WIJ), de [IOAW](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [IOAZ](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Toeslagenwet](../../../../../../wet/toeslagenwet/BWBR0004043/README.md), de [Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria](../../../../../../wet/tijdelijke/wet/beperking/inkomensgevolgen/arbeidsongeschiktheidscriteria/BWBR0007891/README.md), of de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), dan wel op grond van een regeling die met deze wetten naar aard en strekking overeenstemt;  
+* *niet-uitkeringsontvanger:* een werkloze persoon van 16 jaar en ouder, doch jonger dan 65 jaar, die geen uitkering of inkomensvoorziening ontvangt op grond van de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [IOAW](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [IOAZ](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Toeslagenwet](../../../../../../wet/toeslagenwet/BWBR0004043/README.md), de [Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria](../../../../../../wet/tijdelijke/wet/beperking/inkomensgevolgen/arbeidsongeschiktheidscriteria/BWBR0007891/README.md), of de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), dan wel op grond van een regeling die met deze wetten naar aard en strekking overeenstemt;  
 
 * *oudere:* een persoon van 45 jaar of ouder, doch jonger dan 65 jaar;  
 
@@ -161,7 +161,7 @@ d. een opgave van het tijdstip waarop de activiteiten starten en worden beëindi
 6.  Een aanvraag is volledig wanneer het elektronische formulier en de bijbehorende bijlagen volledig en juist zijn ingevuld, zodat op basis van de verstrekte informatie de aanvraag kan worden beoordeeld.   
 7.  Desgevraagd verstrekt de subsidieaanvrager een nadere toelichting op het projectplan en de begroting.   
 8.  Indien de subsidieaanvrager voor de financiering van het te subsidiëren project middelen van een derde inzet, geschiedt dit op basis van een schriftelijke overeenkomst met, dan wel een schriftelijke toezegging van die derde. In de schriftelijke overeenkomst, dan wel schriftelijke toezegging wordt de bijdrage die door de derde wordt verschaft vastgelegd, alsmede de voorwaarden waaronder deze ter beschikking wordt gesteld.   
-9.  Het tweede tot en met het vijfde lid en het achtste lid zijn niet van toepassing op subsidie aanvragen in het kader van Actie E, die zijn ingediend op of na 1 oktober 2011.   
+9.  Het tweede tot en met het vijfde lid en het achtste lid zijn niet van toepassing op subsidie aanvragen in het kader van Actie E hoofdstuk I, vitale bedrijven, die zijn ingediend op of na 1 oktober 2011.   
 
 ### Artikel  9  
 
@@ -170,7 +170,8 @@ d. een opgave van het tijdstip waarop de activiteiten starten en worden beëindi
 1.  In geval het totaalbedrag van de aangevraagde subsidies met betrekking tot enige Actie het voor die Actie vastgestelde subsidieplafond te boven gaat, worden de subsidieaanvragen met betrekking tot die Actie door de minister afgehandeld in volgorde van het tijdstip van ontvangst, waarbij alleen volledige subsidieaanvragen in behandeling worden genomen.   
 2.  Een van het eerste lid afwijkende prioritering geldt, voor zover zulks ten aanzien van enige Actie in Bijlage 1 is bepaald.   
 3.  Wanneer de subsidieaanvrager in de gelegenheid is gesteld om zijn onvolledige subsidieaanvraag aan te vullen, geldt als tijdstip van ontvangst het tijdstip van ontvangst van de volledige subsidieaanvraag.   
-4.  Indien volledige inwilliging van een subsidieaanvraag zou leiden tot overschrijding van het toepasselijke subsidieplafond, doch uitvoering van het project mogelijk lijkt op basis van een lager te verlenen subsidiebedrag, wordt de aanvrager in de gelegenheid gesteld de aanvraag zodanig aan te passen, dat deze een subsidiebedrag betreft waarbij het subsidieplafond niet wordt overschreden.   
+4.  Indien bij overschrijding van het toepasselijke subsidieplafond blijkt dat het tijdstip van ontvangst van de aanvragen op de desbetreffende dag door overmacht niet is vast te stellen, zal van de op die dag ontvangen aanvragen, de volgorde van ontvangst door middel van loting worden vastgesteld.   
+5.  Indien volledige inwilliging van een subsidieaanvraag zou leiden tot overschrijding van het toepasselijke subsidieplafond, doch uitvoering van het project mogelijk lijkt op basis van een lager te verlenen subsidiebedrag, wordt de aanvrager in de gelegenheid gesteld de aanvraag zodanig aan te passen, dat deze een subsidiebedrag betreft waarbij het subsidieplafond niet wordt overschreden.   
 
 ### Artikel  10  
 
@@ -201,14 +202,18 @@ f. onaannemelijk is dat de subsidieaanvrager de subsidiabele activiteiten in vol
 
 g. onaannemelijk is dat met de door de subsidieaanvrager toegepaste werkwijze de met de subsidie beoogde doelstelling wordt bereikt;  
 
-h. het project reeds uit anderen hoofde wordt gefinancierd ten laste van Europese subsidieprogramma’s.    
+h. het project reeds uit anderen hoofde wordt gefinancierd ten laste van Europese of nationale subsidieprogramma’s.    
 
 ### Artikel  12  
 
 ####Hoogte van de subsidie
 
 1.  De subsidie ten behoeve van projecten als bedoeld in Actie A, Actie B, Actie C, Actie D en Actie Jeugd 1 en 2 bedraagt 40% van de subsidiabele kosten, doch ten hoogste het in de beschikking tot subsidieverlening vermelde maximumbedrag. Met betrekking tot Actie D geldt tevens een flexibel subsidiepercentage, zoals nader uitgewerkt in artikel D8 van Bijlage 1.   
-2.  De subsidie ten behoeve van projecten als bedoeld in Actie E bedraagt 75% van de subsidiabele kosten, doch ten hoogste het in de beschikking tot subsidieverlening vermelde maximumbedrag.   
+2.  De subsidie ten behoeve van projecten als bedoeld in: 
+
+a. Actie E, hoofdstuk I, vitale bedrijven, bedraagt 75% van de subsidiabele kosten, doch ten hoogste het in de beschikking tot subsidieverlening vermelde maximumbedrag;  
+
+b. Actie E, hoofdstuk II, duurzame inzetbaarheid sectoren, bedraagt 50% van de subsidiabele kosten, doch ten hoogste het in de beschikking tot subsidieverlening vermelde maximumbedrag.     
 3.  Indien de subsidieaanvrager krachtens een overeenkomst dan wel een toezegging als bedoeld in artikel 8, achtste lid, jegens een derde terzake van de uitvoering van een gesubsidieerd project als bedoeld in het eerste en tweede lid aanspraak heeft op betaling van een bedrag dat meer bedraagt dan 60%, respectievelijk 25% van de subsidiabele kosten, dan wel indien de subsidieaanvrager bij zijn subsidieaanvraag een schriftelijke toezegging heeft gedaan dat hij meer dan 60%, respectievelijk 25% van de subsidiabele kosten voor eigen rekening zal nemen, wordt de subsidie verlaagd met dit meerdere.   
 
 ### Artikel  13  
@@ -245,7 +250,7 @@ b. kosten van het project die qua prijsniveau niet in een redelijke verhouding s
 
 c. kosten van inkomensvervangende betalingen of uitkeringen aan deelnemers, niet zijnde loonbetalingen;  
 
-d. loonkosten verbonden aan werkervaringsplaatsen en dienstbetrekkingen welke zijn aangegaan of bekostigd in het kader van de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of de [Wet investeren in jongeren](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), uitgezonderd hetgeen is bepaald in artikel 13, eerste lid, onderdeel c;  
+d. loonkosten verbonden aan werkervaringsplaatsen en dienstbetrekkingen welke zijn aangegaan of bekostigd in het kader van de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), uitgezonderd hetgeen is bepaald in artikel 13, eerste lid, onderdeel c;  
 
 e. loonkosten van een persoon die in het kader van de [Wet sociale werkvoorziening](../../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) een dienstverband met de gemeente dan wel met een reguliere werkgever heeft;  
 
@@ -315,8 +320,9 @@ c. indien de begunstigde niet heeft voldaan aan een of meer van de administratie
 
 d. op een daartoe strekkend verzoek van de begunstigde.     
 2.  Gehele of gedeeltelijke intrekking van de beschikking tot subsidieverlening op grond van het eerste lid, onder a, vindt niet plaats, indien de afwijking van het bij de subsidieaanvraag gevoegde projectplan vooraf aan de minister is voorgelegd en de minister daarmee schriftelijk heeft ingestemd.   
-3.  De begunstigde is verplicht onverschuldigd betaalde subsidiebedragen en teveel door hem ontvangen voorschotten onverwijld terug te betalen, tenzij de minister heeft aangegeven dat verrekening op andere wijze plaatsvindt.   
-4.  Bij terugvordering van door de minister onverschuldigd betaalde subsidiebedragen of teveel door de begunstigde ontvangen voorschotten worden de met de terugvordering verband houdende kosten bij de begunstigde in rekening gebracht. Tevens wordt overgegaan tot het in rekening brengen van de wettelijke rente.   
+3.  De begunstigde is verplicht onverschuldigd betaalde subsidiebedragen en teveel door hem ontvangen voorschotten onverwijld terug te betalen.   
+4.  De minister kan het terug te vorderen bedrag verrekenen met een aan dezelfde subsidie-ontvanger in het kader van de ESF Subsidieregeling 2007–2013 (herzien), verleende subsidie.   
+5.  Bij terugvordering van door de minister onverschuldigd betaalde subsidiebedragen of teveel door de begunstigde ontvangen voorschotten worden de met de terugvordering verband houdende kosten bij de begunstigde in rekening gebracht. Tevens wordt overgegaan tot het in rekening brengen van de wettelijke rente.   
 
 ### Artikel  21  
 
@@ -360,93 +366,161 @@ J.Klijnsma
 
 ### Artikel  A1  
 
-####Aanvrager
+####Structuur
 
-1. De subsidie met betrekking tot een project in het kader van Actie A wordt aangevraagd door: 
+1. De subsidie met betrekking tot een project in het kader van Actie A als bedoeld in artikel 4, onderdeel a, wordt aangevraagd door: 
 
-a. een bij het project betrokken college van burgemeester en wethouders;  
+a. het college van burgemeester en wethouders van een gemeente,  
 
-b. het UWV;  
+b. het UWV.    
 
-c. een Opleidings- en Ontwikkelingsfonds dat door de minister overeenkomstig Bijlage 2 als subsidieaanvrager is erkend.    
+2. Op aanvragen ingediend door het college van burgemeester en wethouders van de gemeente zijn de bepalingen van Hoofdstuk I van dit onderdeel van toepassing en op aanvragen van het UWV zijn de bepalingen in Hoofdstuk II van dit onderdeel van toepassing.    
 
-2. Indien wordt samengewerkt met andere bij het project betrokken partijen wordt één partij aangewezen als aanvrager.  
+### HOOFDSTUK  I  
 
-3. Indien een Opleidings- en Ontwikkelingsfonds als subsidieaanvrager optreedt, wordt in de projectadministratie een overeenkomst opgenomen waaruit, afhankelijk van de personen in de doelgroep, blijkt dat wordt samengewerkt met een college van burgemeester en wethouders, met colleges van burgemeester en wethouders dan wel met het UWV.    
+####GEMEENTEN
 
 ### Artikel  A2  
 
-####Aanvraagtijdvakken
+####Aanvrager
 
-1. Subsidieaanvragen met betrekking tot een project in het kader van Actie A, als bedoeld in artikel 4, onderdeel a, wordt in het kalenderjaar 2009 nog door de minister ontvangen in het aanvraagtijdvak van 2 november 2009, 09.00 uur, tot en met 30 november 2009, 17.00 uur;  
+1. De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt aangevraagd door een bij het project betrokken college van burgemeester en wethouders.  
 
-2. In de periode van 1 januari 2010 tot en met 31 december 2013 wordt de aanvraag door de minister telkens ontvangen in het aanvraagtijdvak van 1 oktober, 09.00 uur, tot en met 31 oktober, 17.00 uur.    
+2. Indien wordt samengewerkt met andere bij het project betrokken partijen wordt één college van burgemeester en wethouders aangewezen als aanvrager.    
 
 ### Artikel  A3  
 
-####Subsidieplafond
+####Aanvraagtijdvakken
 
-Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt: 
-
-a. voor aanvragen, ingediend in 2009: € 80.000.000,–;  
-
-b. voor aanvragen, ingediend in 2010: € 65.000.000,–.    
+Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden in de resterende programmaperiode nog door de minister ontvangen in het aanvraagtijdvak van 1 mei 2012, 09.00 uur, tot en met 31 december 2013, 17.00 uur.  
 
 ### Artikel  A4  
 
-####Doel
+####Subsidieplafond
 
-Een project in het kader van Actie A heeft tot doel de mogelijkheden tot duurzame arbeidsinpassing van personen uit de, in artikel A5 aangewezen doelgroepen, te vergroten.  
+Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak bedoeld in artikel A2, € 50.000.000,–.  
 
 ### Artikel  A5  
 
-####Doelgroep
+####Doel
 
-Een project in het kader van Actie A richt zich op personen die behoren tot de volgende doelgroepen: 
-
-a. niet-uitkeringsontvangers; of  
-
-b. arbeidsbelemmerden, dan wel gedeeltelijk-arbeidsgeschikten met een aanvullende WWB-uitkering, een aanvullende WIJ-uitkering, een aanvullende IOAW-uitkering, een aanvullende IOAZ-uitkering, of een uitkering van het UWV, alsmede jonggehandicapten; of  
-
-c. 55-plussers met een WWB-uitkering, een IOAW-uitkering, een IOAZ-uitkering, of een uitkering van het UWV.    
+Een project in het kader van dit hoofdstuk heeft tot doel de mogelijkheden tot duurzame arbeidsinpassing van personen uit de doelgroepen, bedoeld in artikel A6, te vergroten.  
 
 ### Artikel  A6  
+
+####Doelgroepen
+
+Een project in het kader van hoofdstuk I, gemeenten, richt zich op personen die behoren tot één of meer van de volgende doelgroepen: 
+
+a. niet-uitkeringsontvangers;  
+
+b. arbeidsbelemmerden, dan wel gedeeltelijk-arbeidsgeschikten met een aanvullende WWB-uitkering, een aanvullende IOAW-uitkering, een aanvullende IOAZ-uitkering, of een uitkering van het UWV, alsmede jonggehandicapten;  
+
+c. 55-plussers met een WWB-uitkering, een IOAW-uitkering, een IOAZ- uitkering, of een uitkering van het UWV.    
+
+### Artikel  A7  
+
+####De aanvraag
+
+1. De aanvraag in het kader van dit hoofdstuk wordt ingediend onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier en een door hem erkende elektronische handtekening.  
+
+2. Per aanvrager wordt slechts één subsidie aanvraag tegelijk in behandeling genomen.  
+
+3. In aanvulling op het voorgaande lid kan een aanvrager maximaal één maand voor afloop van de projectperiode van een lopend project, waaraan subsidie is verleend in het kader van dit hoofdstuk, een nieuwe aanvraag indienen.    
+
+### Artikel  A8  
+
+####Specifieke eisen
+
+Een project, in het kader van dit hoofdstuk, komt slechts voor subsidie in aanmerking indien: 
+
+a. het project past binnen het doel, omschreven in artikel A5;  
+
+b. het project een duur van ten hoogste 18 maanden heeft, gerekend vanaf de datum van ontvangst van de volledige aanvraag; en  
+
+c. de in de subsidieaanvraag begrote kosten van het project ten minste € 250.000,– bedragen.    
+
+### Artikel  A9  
+
+####Subsidiabele activiteiten
+
+Voor subsidie komen slechts de volgende activiteiten in aanmerking, voor zover zij de doelstelling uit artikel A5 ondersteunen: 
+
+a. activiteiten gericht op het vergroten van duurzame arbeidsinpassing van deelnemers, met inbegrip van re-integratietrajecten waaronder begrepen scholing, training en begeleiding;  
+
+b. werving van niet-uitkeringsontvangers voor het project. De hiermee samenhangende kosten bedragen maximaal 10% van de in de beschikking tot subsidieverlening opgenomen, voor subsidie in aanmerking komende kosten.    
+
+### Artikel  A10  
+
+####Maximum subsidie per aanvrager
+
+Met betrekking tot projecten in het kader van dit hoofdstuk komen bij de projecten betrokken colleges van burgemeester en wethouders in aanmerking voor subsidie tot een maximum van € 5.000.000,– per aanvraag.  
+
+### HOOFDSTUK  II  
+
+####UWV
+
+### Artikel  A11  
+
+####Aanvrager
+
+De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt aangevraagd door het UWV.  
+
+### Artikel  A12  
+
+####Aanvraagtijdvakken
+
+Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden in de resterende programmaperiode nog door de minister ontvangen in de volgende aanvraagtijdvakken: 
+
+a. van 1 augustus 2012, 09.00 uur, tot en met 31 augustus 2012, 17.00 uur;  
+
+b. van 1 maart 2013, 09.00 uur, tot en met 31 maart 2013, 17.00 uur.    
+
+### Artikel  A13  
+
+####Subsidieplafond
+
+Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor elk van de aanvraagtijdvakken, bedoeld in artikel A12, € 15.000.000,–.  
+
+### Artikel  A14  
+
+####Doel
+
+Een project in het kader van dit hoofdstuk, heeft tot doel de mogelijkheden tot duurzame arbeidsinpassing te vergroten van personen uit de, in artikel A15 omschreven, doelgroep.  
+
+### Artikel  A15  
+
+####Doelgroepen
+
+Een project in het kader van dit hoofdstuk richt zich op personen die behoren tot een of meer van de volgende doelgroepen: 
+
+a. arbeidsbelemmerden;  
+
+b. gedeeltelijk-arbeidsgeschikten met een aanvullende WWB-uitkering, een aanvullende IOAW-uitkering, een aanvullende IOAZ-uitkering, of een uitkering van het UWV;  
+
+c. jonggehandicapten.    
+
+### Artikel  A16  
+
+####De aanvraag
+
+De aanvraag in het kader van dit hoofdstuk wordt ingediend onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier en een door hem erkende elektronische handtekening.  
+
+### Artikel  A17  
 
 ####Specifieke eisen
 
 Een project komt slechts voor subsidie in aanmerking indien: 
 
-a. het project past binnen het hogergenoemde doel, en  
+a. het project past binnen het in artikel A14 omschreven doel, en  
 
-b. het project een duur van ten hoogste 18 maanden heeft, gerekend vanaf de datum van de volledige aanvraag, en  
+b. het project een duur van ten hoogste 18 maanden heeft, gerekend vanaf de datum van ontvangst van de volledige aanvraag.    
 
-c. de in de subsidieaanvraag begrote kosten van het project ten minste € 250.000,– bedragen.    
-
-### Artikel  A7  
+### Artikel  A18  
 
 ####Subsidiabele activiteiten
 
-Voor subsidie komen slechts de volgende activiteiten in aanmerking, voor zover zij de doelstelling uit artikel A4 ondersteunen: 
-
-1. Activiteiten gericht op het vergroten van duurzame arbeidsinpassing van deelnemers, met inbegrip van re-integratietrajecten waaronder begrepen scholing, training en begeleiding;  
-
-2. Werving van niet-uitkeringsontvangers voor het project. De hiermee samenhangende kosten bedragen maximaal 10% van de in de beschikking tot subsidieverlening opgenomen, voor subsidie in aanmerking komende kosten.    
-
-### Artikel  A8  
-
-####Maximum subsidie per aanvrager
-
-Met betrekking tot projecten in het kader van Actie A komen bij de projecten betrokken colleges van burgemeester en wethouders en Opleidings- en Ontwikkelingsfondsen per aanvraagtijdvak in aanmerking voor subsidie tot een maximum van € 5.000.000,–. Voor het UWV geldt een maximum van € 25.000.000,–.  
-
-### Artikel  A9  
-
-####Prioritering
-
-1. Met betrekking tot de verdeling van het maximaal beschikbare bedrag, hebben subsidieaanvragen van een college van burgemeester en wethouders voorrang op subsidieaanvragen van het UWV of van een Opleidings- en Ontwikkelingsfonds en hebben subsidieaanvragen van het UWV voorrang op subsidieaanvragen van een Opleidings- en Ontwikkelingsfonds.  
-
-2. Het door de minister ingestelde Comité van experts Actie A zal de aanvragen toetsen aan de hand van de hieronder beschreven kwalitatieve criteria. Projecten die in hogere mate voldoen aan bedoelde criteria hebben voorrang op de projecten die in mindere mate aan deze criteria voldoen. Het Comité van experts rangschikt de aanvragen en brengt hierover binnen vier weken na het einde van het aanvraagtijdvak advies uit aan de minister. De criteria zijn: a. Duurzaamheid van de arbeidsinpassing, b. Concreetheid van de beschreven activiteiten, c. De mate waarin de activiteiten bijdragen aan het bereiken van de doelstellingen van het project en d. Spreiding over de verschillende doelgroepen.  
-
-3. Bij gelijke waardering bepaalt het tijdstip van ontvangst de volgorde, waarbij de volledige subsidieaanvraag die op een eerder tijdstip door de minister is ontvangen een hogere rangorde heeft dan een volledige subsidieaanvraag die op een later tijdstip is ontvangen.    
+Voor subsidie komen slechts in aanmerking activiteiten gericht op het vergroten van duurzame arbeidsinpassing van deelnemers, met inbegrip van re-integratietrajecten waaronder begrepen scholing, training en begeleiding, voor zover zij de doelstelling uit artikel A14 ondersteunen.  
 
 ### Actie  B  
 
@@ -524,7 +598,9 @@ De subsidie met betrekking tot een project in het kader van Actie C, als bedoeld
 
 1. Subsidieaanvragen met betrekking tot een project in het kader van Actie C worden in de periode van 1 januari 2010 tot en met 31 december 2010 door de minister ontvangen in het aanvraagtijdvak van 1 februari, 9.00 uur tot en met 28 februari, 17.00 uur.  
 
-2. Subsidieaanvragen met betrekking tot een project in het kader van Actie C worden in de periode van 1 januari 2011 tot en met 31 december 2011 door de minister ontvangen in het aanvraagtijdvak van 17 januari, 9.00 uur tot en met 28 januari, 17.00 uur.    
+2. Subsidieaanvragen met betrekking tot een project in het kader van Actie C worden in de periode van 1 januari 2011 tot en met 31 december 2011 door de minister ontvangen in het aanvraagtijdvak van 17 januari, 9.00 uur tot en met 28 januari, 17.00 uur.  
+
+3. Subsidieaanvragen met betrekking tot een project in het kader van Actie C worden in de periode van 1 januari 2012 tot en met 31 december 2012 door de minister ontvangen in het aanvraagtijdvak van 15 maart 2012, 9.00 uur tot en met 30 maart 2012, 17.00 uur.    
 
 ### Artikel  C3  
 
@@ -536,7 +612,9 @@ a. voor aanvragen, ingediend in 2009: € 40.000.000,–;
 
 b. voor aanvragen, ingediend in 2010: € 24.000.000,–;  
 
-c. voor aanvragen, ingediend in 2011: € 24.000.000,–.    
+c. voor aanvragen, ingediend in 2011: € 24.000.000,–;  
+
+d. voor aanvragen, ingediend in 2012: € 48.000.000,–.    
 
 2. De maximumsubsidie per aanvrager per aanvraagtijdvak bedraagt € 450.000,–.    
 
@@ -544,7 +622,7 @@ c. voor aanvragen, ingediend in 2011: € 24.000.000,–.
 
 ####Doel
 
-Een project als bedoeld in Actie C, heeft tot doel leerlingen, behorend tot de in artikel C5 omschreven doelgroep, voor te bereiden op, of toe te geleiden naar, een functie op de reguliere arbeidsmarkt, dan wel beschermde arbeidsmarkt, of toe te geleiden naar een vervolgopleiding op MBO-1 niveau of naar het Beroepsbegeleidend onderwijs.  
+Een project als bedoeld in Actie C, heeft tot doel leerlingen, behorend tot de in artikel C5 omschreven doelgroep, voor te bereiden op, of toe te geleiden naar, een functie op de reguliere arbeidsmarkt, dan wel beschermde arbeidsmarkt, of toe te geleiden naar een vervolgopleiding op MBO-1 niveau of naar het Beroepsbegeleidend onderwijs, daarbij is het van belang dat wordt samengewerkt met het bedrijfsleven.  
 
 ### Artikel  C5  
 
@@ -562,7 +640,7 @@ Een project in het kader van Actie C is gericht op personen van 15 jaar of ouder
 
 Een project als bedoeld in Actie C komt slechts voor subsidie in aanmerking indien: 
 
-a. het project past binnen het in het in artikel C4 omschreven doel;  
+a. het concreet omschreven, schooleigen project past binnen het in artikel C4 omschreven doel;  
 
 b. het project een duur van ten hoogste 12 maanden heeft; en  
 
@@ -712,31 +790,47 @@ e. met 1 procentpunt, indien het aantal vrouwelijke deelnemers dat bij die subsi
 
 ### Artikel  E1  
 
-####Aanvrager
+####Structuur
 
-De subsidie met betrekking tot een project in het kader van Actie E wordt aangevraagd door een natuurlijke- of rechtspersoon, die een arbeidsorganisatie in stand houdt. Als arbeidsorganisatie wordt beschouwd iedere eenheid, ongeacht haar rechtsvorm, waarin door werknemers arbeid wordt verricht.  
+1. De subsidie met betrekking tot een project in het kader van Actie E, bedoeld in artikel 4, onderdeel e, wordt aangevraagd door: 
+
+a. een natuurlijke- of rechtspersoon die een arbeidsorganisatie in stand houdt.  
+
+b. een Opleidings- en Ontwikkelingsfonds (O&O fonds) dat door de minister op grond van de erkenningsregeling als subsidieaanvrager is erkend.    
+
+2. Op aanvragen ingediend door een aanvrager als bedoeld onder a zijn de bepalingen van Hoofdstuk I van dit onderdeel van toepassing en op aanvragen van O&O fondsen als bedoeld onder b zijn de bepalingen in Hoofdstuk II van dit onderdeel van toepassing.   De subsidie met betrekking tot een project in het kader van Actie E wordt aangevraagd door een natuurlijke- of rechtspersoon, die een arbeidsorganisatie in stand houdt. Als arbeidsorganisatie wordt beschouwd iedere eenheid, ongeacht haar rechtsvorm, waarin door werknemers arbeid wordt verricht.  
+
+### HOOFDSTUK  I  
+
+####VITALE BEDRIJVEN
 
 ### Artikel  E2  
 
-####Aanvraagtijdvakken
+####Aanvrager
 
-Subsidieaanvragen met betrekking tot een project in het kader van Actie E, als bedoeld in artikel 4, onderdeel e, worden door de minister ontvangen in het aanvraagtijdvak van 10 oktober 2011, 9.00 uur, tot en met 21 oktober 2011, 17.00 uur.  
+De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt aangevraagd door een natuurlijke- of rechtspersoon, die een arbeidsorganisatie in stand houdt. Als arbeidsorganisatie wordt beschouwd iedere eenheid, ongeacht haar rechtsvorm, waarin door werknemers arbeid wordt verricht.  
 
 ### Artikel  E3  
 
-####Subsidieplafond
+####Aanvraagtijdvakken
 
-Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak bedoeld in artikel E2, € 25.200.000,–.  
+Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden door de minister ontvangen in het aanvraagtijdvak van 10 oktober 2011, 9.00 uur, tot en met 21 oktober 2011, 17.00 uur.  
 
 ### Artikel  E4  
 
+####Subsidieplafond
+
+Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel E3, € 77.184.000,–.  
+
+### Artikel  E5  
+
 ####Doel
 
-In het kader van Actie E kan uitsluitend subsidie worden aangevraagd voor projecten op het terrein van sociale innovatie, gericht op ten minste een van de onderstaande thema’s: 
+In het kader van dit hoofdstuk kan uitsluitend subsidie worden aangevraagd voor projecten op het terrein van sociale innovatie, gericht op ten minste een van de onderstaande thema’s: 
 
-a. Procesverbetering: het binnen de arbeidsorganisatie(s) verbeteren, herschikken en innoveren van bedrijfsprocessen.  
+a. procesverbetering: het binnen de arbeidsorganisatie(s) verbeteren, herschikken en innoveren van bedrijfsprocessen.  
 
-b. Duurzame inzetbaarheid: het creëren van een cultuuromslag gericht op gezond, vitaal en productief werken van indiensttreding tot aan pensionering, door: 
+b. duurzame inzetbaarheid: het creëren van een cultuuromslag gericht op gezond, vitaal en productief werken van indiensttreding tot aan pensionering, door: 
 
 – het stimuleren van regionale en intersectorale arbeidsmobiliteit van werknemers,  
 
@@ -746,27 +840,27 @@ b. Duurzame inzetbaarheid: het creëren van een cultuuromslag gericht op gezond,
 
 – het bevorderen van zelfredzaamheid op de werkvloer.      
 
-### Artikel  E5  
+### Artikel  E6  
 
 ####De aanvraag
 
-1. De aanvraag wordt ingediend onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier en een door hem erkende elektronische handtekening.  
+1. De aanvraag in het kader van dit hoofdstuk wordt ingediend onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier en een door hem erkende elektronische handtekening.  
 
 2. Per aanvrager wordt slechts één subsidie aanvraag in behandeling genomen.  
 
-3. Op een volledige aanvraag wordt na afloop van het aanvraagtijdvak, als bedoeld in artikel E2, binnen acht weken beslist.  
+3. Op een volledige aanvraag wordt na afloop van het aanvraagtijdvak, bedoeld in artikel E2, in afwijking van artikel 8, vijfde lid, binnen achttien weken beslist.  
 
-4. In geval het totaalbedrag van de aangevraagde subsidies met betrekking tot Actie E het in artikel E3 vastgestelde subsidieplafond te boven gaat, verdeelt de minister de beschikbare middelen op basis van een bij loting door de notaris vastgestelde volgorde na afloop van het aanvraagtijdvak als bedoeld in artikel E2.  
+4. In geval het totaalbedrag van de aangevraagde subsidies met betrekking tot dit hoofdstuk, het in artikel E4 vastgestelde subsidieplafond te boven gaat, verdeelt de minister de beschikbare middelen op basis van een bij loting door de notaris vastgestelde volgorde na afloop van het aanvraagtijdvak, bedoeld in artikel E3.  
 
-5. In de in het voorgaande lid bedoelde situatie is het derde lid van artikel 9 niet van toepassing.    
+5. In de in het voorgaande lid bedoelde situatie is artikel 9, derde lid, niet van toepassing.    
 
-### Artikel  E6  
+### Artikel  E7  
 
 ####Specifieke eisen
 
-Een project in het kader van Actie E komt slechts voor subsidie in aanmerking indien: 
+Een project in het kader van dit hoofdstuk, komt slechts voor subsidie in aanmerking indien: 
 
-a. het project past binnen het in artikel E4 omschreven doel;  
+a. het project past binnen het in artikel E5 omschreven doel;  
 
 b. het project een duur van ten hoogste negen maanden heeft;  
 
@@ -774,53 +868,173 @@ c. het project uiterlijk binnen vier weken na verzending van het besluit tot ver
 
 d. werknemers van de subsidieaanvrager actief en aantoonbaar betrokken worden bij het project; en  
 
-e. drie referenties van drie verschillende opdrachtgevers worden overgelegd met betrekking tot de kennis en ervaring op het terrein van sociale innovatie van de beoogde adviseur(s).    
-
-### Artikel  E7  
-
-####Samenloop met andere subsidies
-
-In aanvulling op hetgeen is bepaald in artikel 11 wordt in het kader van Actie E geen subsidie verleend: 
-
-a. aan aanvragers aan wie op grond van Actie E reeds subsidie is toegekend en van wie het verzoek tot vaststelling van de subsidie nog niet is ontvangen.  
-
-b. aan aanvragers aan wie op grond van enige andere subsidieregeling voor het project subsidie is of zal worden verstrekt.    
+e. drie referenties van drie verschillende opdrachtgevers worden overgelegd met betrekking tot de kennis en ervaring op het terrein van sociale innovatie van de beoogde adviseur of adviseurs.    
 
 ### Artikel  E8  
 
-####Subsidiabele kosten
+####Samenloop met andere subsidies
 
-In afwijking van artikel 13 komen enkel voor subsidie in aanmerking de kosten van de door de adviseur werkelijk gerealiseerde uren voor ten minste een van onderstaande activiteiten, gericht op een of meer thema’s uit artikel E4: 
+In aanvulling op hetgeen is bepaald in artikel 11 wordt in het kader van dit hoofdstuk geen subsidie verleend: 
 
-– het opstellen van een diagnose of advies, of  
+a. aan aanvragers aan wie op grond van Actie E reeds subsidie is toegekend en van wie het verzoek tot vaststelling van de subsidie nog niet is ontvangen;  
 
-– het in de praktijk laten uittesten of implementeren van een plan van aanpak.    
+b. aan aanvragers aan wie op grond van enige andere subsidieregeling voor het project subsidie is of zal worden verstrekt.    
 
 ### Artikel  E9  
 
+####Subsidiabele kosten
+
+In afwijking van artikel 13 komen in het kader van dit hoofdstuk enkel voor subsidie in aanmerking de kosten van de door de adviseur werkelijk gerealiseerde uren voor ten minste een van onderstaande activiteiten, gericht op een of meer thema’s uit artikel E5: 
+
+a. het opstellen van een diagnose of advies; of  
+
+b. het in de praktijk laten uittesten of implementeren van een plan van aanpak.    
+
+### Artikel  E10  
+
 ####Hoogte subsidie
 
-1. Wanneer de aanvraag aan de eisen voldoet verleent de minister steeds een subsidie van maximaal € 18.000,–.  
+1. Wanneer de aanvraag aan de eisen van dit hoofdstuk voldoet verleent de minister steeds een subsidie van maximaal € 18.000,–.  
 
 2. Voor de berekening van de subsidie wordt het uurtarief van de ingehuurde adviseur gemaximeerd op € 125,– exclusief BTW.  
 
 3. Voor aan de subsidieaanvrager in rekening gebrachte BTW wordt geen subsidie verleend.  
 
-4. De subsidie wordt op € 0,– vastgesteld wanneer de kosten van de adviseur, bedoeld in artikel E8, lager zijn dan € 13.000,–.    
+4. De subsidie wordt op € 0,– vastgesteld wanneer de kosten van de adviseur, bedoeld in artikel E8, lager zijn dan € 13.000,–.    
 
-### Artikel  E10  
+### Artikel  E11  
 
 ####Voorschotten
 
 Er worden geen voorschotten verstrekt. Artikel 15 en artikel 20 zijn, voor zover zij zien op bevoorschotting, niet van toepassing op subsidieaanvragen in het kader van Actie E.  
 
-### Artikel  E11  
+### Artikel  E12  
 
 ####Einddeclaratie en subsidievaststelling
 
-1. In afwijking van artikel 18, eerste lid, dient de begunstigde binnen vier weken na beëindiging van het project een verzoek tot vaststelling in bij de minister. Bij het verzoek tot vaststelling van de subsidie wordt de door de adviseur opgestelde diagnose, het advies, het implementatieplan of een verslag gevoegd en de factuur of facturen van de adviseur(s) en de bijbehorende algemeen aanvaarde betalingsbewijzen.  
+1. In afwijking van artikel 18, eerste lid, dient de begunstigde binnen vier weken na beëindiging van het project in het kader van dit hoofdstuk, een verzoek tot vaststelling in bij de minister. Bij het verzoek tot vaststelling van de subsidie wordt de door de adviseur opgestelde diagnose, het advies, het implementatieplan of een verslag gevoegd en de factuur of facturen van de adviseur(s) en de bijbehorende algemeen aanvaarde betalingsbewijzen.  
 
 2. De minister beslist, in afwijking van artikel 18, derde lid, binnen dertien weken na ontvangst van het verzoek tot vaststelling.    
+
+### HOOFDSTUK  II  
+
+####DUURZAME INZETBAARHEID SECTOREN
+
+### Artikel  E13  
+
+####Aanvrager
+
+1. De subsidie met betrekking tot een project in het kader van dit hoofdstuk wordt aangevraagd door een Opleidings- en Ontwikkelingsfonds (O&O fonds), dat door de minister op grond van de erkenningsregeling in Bijlage 2 van deze regeling, als subsidieaanvrager is erkend.  
+
+2. Indien wordt samengewerkt met andere bij het project betrokken partijen wordt één O&O fonds aangewezen als subsidieaanvrager.    
+
+### Artikel  E14  
+
+####Aanvraagtijdvakken
+
+Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden door de minister ontvangen in het aanvraagtijdvak van 1 mei 2012, 9.00 uur, tot en met 31 december 2013, 17.00 uur.  
+
+### Artikel  E15  
+
+####Subsidieplafond
+
+Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel E14, € 20.000.000,–.  
+
+### Artikel  E16  
+
+####Doel
+
+1. In het kader van dit hoofdstuk kan uitsluitend subsidie worden aangevraagd voor projecten die sociale innovatie in de sector stimuleren en specifiek gericht zijn op duurzame inzetbaarheid. Hierbij wordt onder duurzame inzetbaarheid verstaan: het vermogen om gezond, vitaal en productief te blijven tot aan de pensioenleeftijd en de arbeidsproductiviteit te vergroten.  
+
+2. Aanvragen als bedoeld in het eerste lid komen uitsluitend voor subsidie in aanmerking wanneer het project is gericht op ten minste één van de onderstaande thema’s: 
+
+a. het stimuleren van arbeidsmobiliteit van werknemers, waaronder regionale en intersectorale arbeidsmobiliteit;  
+
+b. het bevorderen van gezond, veilig en vitaal werken en arbeidstijdenmanagement;  
+
+c. het bevorderen van sociaal innovatief en duurzaam ondernemerschap en employability.      
+
+### Artikel  E17  
+
+####De aanvraag
+
+1. De aanvraag in het kader van dit hoofdstuk wordt ingediend onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier en een door hem erkende elektronische handtekening.  
+
+2. Er worden per aanvrager maximaal twee subsidie aanvragen tegelijk in behandeling genomen, waaronder 
+
+a. maximaal één aanvraag als bedoeld in artikel E16;  
+
+b. maximaal één aanvraag die uitsluitend gericht is op het thema intersectorale arbeidsmobiliteit en waarbij aantoonbaar wordt samengewerkt met een andere partij of partijen.    
+
+3. Partijen die in een project samenwerken kunnen in maximaal twee projecten tegelijk participeren.    
+
+### Artikel  E18  
+
+####Specifieke eisen
+
+1. Een project in het kader van dit hoofdstuk komt slechts voor subsidie in aanmerking indien: 
+
+a. het project past binnen het in artikel E16 omschreven doel;  
+
+b. het project een duur van ten hoogste vijftien maanden heeft, gerekend vanaf de datum van ontvangst van de volledige aanvraag;  
+
+c. drie referenties van drie verschillende opdrachtgevers worden overgelegd met betrekking tot de kennis en ervaring op het terrein van sociale innovatie van de beoogde externe adviseur of adviseurs.    
+
+2. Niet voor subsidie in aanmerking komen projecten die gericht zijn op technische innovatie of op het uitvoeren van scholingsactiviteiten.    
+
+### Artikel  E19  
+
+####Samenloop
+
+Onverminderd artikel 11 wordt in het kader van dit hoofdstuk geen subsidie verleend aan aanvragers aan wie op grond van dit hoofdstuk reeds subsidie is toegekend en van wie het verzoek tot vaststelling van de subsidie nog niet is ontvangen.  
+
+### Artikel  E20  
+
+####Subsidiabele kosten en producten
+
+1. In afwijking van artikel 13 komen enkel voor subsidie in aanmerking de kosten van de door een adviseur of intern personeel werkelijk gerealiseerde uren om te komen tot in ieder geval twee of meer van de onderstaande producten, ter uitvoering van één of meer thema’s uit artikel E16: 
+
+a. een rapport van onderzoek naar, of analyse van de stand van zaken binnen de sector;  
+
+b. een sectoraal beleidsplan met concrete doelstellingen en de haalbaarheid daarvan;  
+
+c. een communicatie- of voorlichtingsplan voor de sector, gericht op bewustwording of op implementatie;  
+
+d. een plan voor effectieve monitoring van de activiteiten op het gebied van duurzame inzetbaarheid;  
+
+e. de uitvoering en het verslag van een pilot, waarin sociaal innovatieve instrumenten, methoden en werkwijzen zijn getest;  
+
+f. de uitvoering en een verslag van voorlichtingsactiviteiten en/ of communicatie activiteiten.    
+
+2. Aanvragers zijn verplicht om in ieder geval één product als bedoeld in het eerste lid, onderdeel e of onderdeel f, op te leveren.  
+
+3. De producten dienen bij de einddeclaratie te worden gevoegd.  
+
+4. De aanvrager betrekt organisaties die onder de werkingssfeer van het O&O fonds vallen actief en aantoonbaar bij het project, hetgeen moet blijken uit de op te leveren producten.  
+
+5. De minister maakt de producten openbaar op grond van artikel 19, zevende lid.  
+
+6. Kosten voor intern personeel komen enkel voor subsidie in aanmerking voor zover deze aantoonbaar ten behoeve van het project gemaakt zijn en berekend zijn op basis van het aantal werkelijk gerealiseerde uren tegen een individueel berekend uurtarief op basis van het brutoloon vermeerderd met een opslag van 32% en het aantal werkbare uren per jaar. Enkel bij een voltijds inzet van intern personeel kan gebruik gemaakt worden van een addendum bij de arbeidsovereenkomst.    
+
+### Artikel  E21  
+
+####Hoogte subsidie
+
+1. De subsidiabele kosten bedragen per project minimaal € 180.000,– en maximaal € 320.000,–.  
+
+2. Voor de berekening van de subsidie wordt het uurtarief van de ingehuurde adviseur gemaximeerd op € 125,– exclusief BTW.  
+
+3. Voor aan de subsidieaanvrager in rekening gebrachte BTW wordt geen subsidie verleend.  
+
+4. Artikel 13, vierde lid, is niet van toepassing, tenzij de aanvrager aanbestedingsplichtig is op grond van de toepasselijke wettelijke regelingen.  
+
+5. De subsidie wordt op € 0,– vastgesteld, wanneer bij het indienen, dan wel het controleren van de einddeclaratie blijkt, dat de gemaakte subsidiabele kosten bedoeld in artikel E20, lager zijn dan 60% van de verleende subsidie.    
+
+### Artikel  E22  
+
+####Voorschotten
+
+Er worden geen tussentijdse voorschotten verstrekt. Artikel 15, eerste tot en met derde lid, zijn niet van toepassing op subsidieaanvragen in het kader van dit hoofdstuk.  
 
 ### Actie Jeugd  
 
@@ -882,7 +1096,9 @@ Een project in het kader van Actie Jeugd komt slechts voor subsidie in aanmerkin
 
 a. het project past binnen het doel, zoals omschreven in artikel J 4;  
 
-b. het project een duur van ten hoogste 18 maanden heeft, gerekend vanaf de indiening van een volledige aanvraag;  
+b. een project in het kader van Actie Jeugd 1, zoals omschreven in artikel J2, eerste lid, een duur van ten hoogste 24 maanden heeft, gerekend vanaf de indiening van een volledige aanvraag;  
+
+c. het project in het kader van Actie Jeugd 2 als bedoeld in artikel J2, tweede lid, een duur van ten hoogste 18 maanden heeft, gerekend vanaf de indiening van een volledige aanvraag;  
 
 c. bij de aanvraag van een project door een O&O-fonds een sectorarrangement is overgelegd;  
 
@@ -940,7 +1156,7 @@ d. het doel van het Opleidings- en Ontwikkelingsfonds helder is afgebakend;
 
 e. de meest recente jaarrekening wordt overgelegd, voorzien van een van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) afkomstige verklaring omtrent de getrouwheid onderscheidenlijk een mededeling, inhoudende dat van onjuistheden niet is gebleken; en  
 
-f. aannemelijk is dat het Opleidings- en Ontwikkelingsfonds niet in betalingsonmacht verkeert.    
+f. aannemelijk is dat het Opleidings- en Ontwikkelingsfonds niet in betalingsonmacht verkeert of dreigt te verkeren.    
 
 2. De jaarrekening, bedoeld in het eerste lid, onderdeel e, is in ieder geval niet ouder dan de jaarrekening die betrekking heeft op het tweede kalenderjaar dat voorafgaat aan het kalenderjaar waarin het verzoek tot erkenning als subsidieaanvrager wordt gedaan.  
 
@@ -952,7 +1168,9 @@ b. de jaarrekening, bedoeld in het eerste lid, onderdeel e, juncto het tweede li
 
 4. Indien na de akte van oprichting de statuten zijn gewijzigd, wordt tevens overgelegd een afschrift van de ten kantore van het in [artikel 293 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) bedoelde register neergelegde gewijzigde statuten.  
 
-5. De minister beslist uiterlijk vier weken na ontvangst van het verzoek, bedoeld in het eerste lid.    
+5. De minister beslist uiterlijk vier weken na ontvangst van het verzoek, bedoeld in het eerste lid.  
+
+6. De minister kan reeds erkende aanvragers op elk gewenst moment verplichten de meest recente jaarrekening, bedoeld in het eerste lid, onderdeel e, te verstrekken.    
 
 ### Artikel  2  
 

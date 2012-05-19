@@ -89,30 +89,10 @@ c. de veiligheid of het vlotte verloop van de scheepvaart in gevaar wordt gebrac
 
 ### Artikel  5  
 
-1.  Een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert of een zeeschip met een bruto-tonnage als bedoeld in de [Meetbrievenwet 1981](../../../../../wet/meetbrievenwet/1981/BWBR0003378/README.md) van 300 of meer, doet geen in Nederland gelegen haven, ankerplaats, terminal of een in de Nederlandse territoriale zee gelegen laad- of losinrichting aan, voordat de kapitein, de exploitant of de agent aan de bevoegde autoriteit van de eerste bestemming in Nederland de bij ministeriële regeling vastgestelde gegevens heeft gemeld omtrent het schip, de positie, het tijdstip van aankomst en vertrek daarvan, de daarmee vervoerde lading, het aantal personen aan boord en de uit te voeren reis, op een bij die regeling bepaalde wijze.   
-2.  De in het eerste lid bedoelde melding geschiedt: 
+####Uitluister- en communicatieplicht
 
-a. door een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert: 
-
-1°. indien de bestemming bij de afvaart uit de haven van bevrachting bekend was, bij die afvaart, of  
-
-2°. indien de bestemming bij de afvaart uit de haven van bevrachting nog niet bekend was of tijdens de reis wordt gewijzigd, zodra deze bekend is;    
-
-b. door een zeeschip met een bruto-tonnage als bedoeld in de [Meetbrievenwet 1981](../../../../../wet/meetbrievenwet/1981/BWBR0003378/README.md) van 300 of meer dat geen bepaalde gevaarlijke of schadelijke stoffen vervoert: 
-
-1°. ten minste vierentwintig uur voor aankomst, of  
-
-2°. indien de bestemming bij de afvaart uit de vorige haven bekend was en de reisduur minder dan vierentwintig uur bedraagt, uiterlijk op het tijdstip waarop het schip de vorige haven verlaat, of  
-
-3°. indien de bestemming bij de afvaart uit de vorige haven nog niet bekend was of tijdens de reis wordt gewijzigd, zodra deze bekend is.       
-3.  Onverminderd het eerste lid, vaart een schip als bedoeld in dat lid, de Nederlandse territoriale zee niet binnen, tenzij de kapitein de bij ministeriële regeling vastgestelde gegevens heeft gemeld aan de bevoegde autoriteit van het aanloopgebied waarnaar het schip op weg is, op het voor het aanloopgebied voorgeschreven marifoonkanaal.   
-4.  De kapitein, de exploitant of de agent van een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert, deelt voor de afvaart van dat schip van een in de Nederlandse territoriale zee gelegen ankerplaats of laad- of losinrichting met een andere bestemming dan een in Nederland gelegen haven, ankerplaats, laad- of losinrichting of wachtplaats, aan de bevoegde autoriteit van het desbetreffende aanloopgebied de bij ministeriële regeling vastgestelde gegevens mede omtrent het schip, het tijdstip van vertrek daarvan, de daarmee vervoerde lading, het aantal personen aan boord en de uit te voeren reis, op een bij die regeling bepaalde wijze.   
-5.  Een schip als bedoeld in het eerste lid, luistert in een aanloopgebied uit en neemt, indien nodig, op het voorgeschreven marifoonkanaal aan ter plaatse gevoerde communicatie deel.   
-6.  Het vijfde lid is van overeenkomstige toepassing op ieder schip dat is uitgerust met een marifoon.   
-7.  De bevoegde autoriteit kan ontheffing verlenen van de in het eerste en vierde lid bedoelde meldingsplichten met betrekking tot een zeeschip als bedoeld in die leden, dat in lijndienst vaart tussen twee in Nederland gelegen havens of tussen een in Nederland gelegen haven en een haven gelegen in een andere staat, als wordt voldaan aan de voorschriften, bedoeld in artikel 15, eerste en tweede lid, van richtlijn nr. 2002/59/EG.   
-8.  De bevoegde autoriteit trekt de ontheffing in wanneer niet meer wordt voldaan aan de voorschriften, bedoeld in het zevende lid.   
-9.  Het eerste en vierde lid zijn niet van toepassing op een schip als bedoeld in artikel 2, tweede lid, in samenhang met artikel 6 bis van richtlijn nr. 2002/59/EG.   
-10.  De kapitein of exploitant van een schip dat behoort tot een bij ministeriële regeling vast te stellen categorie schepen meldt aan de bevoegde instantie de bij die regeling vast te stellen gegevens op een bij die regeling vast te stellen tijdstip voordat met het schip een in Nederland gelegen haven, een in de Nederlandse territoriale zee gelegen offshore-installatie of een ankerplaats ter hoogte van die haven of offshore-installatie wordt aangedaan.   
+1.  De kapitein van een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert of een zeeschip met een bruto-tonnage als bedoeld in de [Meetbrievenwet 1981](../../../../../wet/meetbrievenwet/1981/BWBR0003378/README.md) van 300 of meer, meldt zich voordat hij de Nederlandse territoriale zee binnenvaart op het bij ministeriële regeling aangewezen marifoonkanaal aan de bevoegde autoriteit.   
+2.  De kapitein van een schip, bedoeld in het eerste lid, en van ieder ander schip dat is uitgerust met een marifoon, luistert in een aanloopgebied uit en neemt, indien nodig, op het eerste lid bedoelde marifoonkanaal aan ter plaatse gevoerde communicatie deel.   
 
 ### Artikel  5a  
 
@@ -381,7 +361,7 @@ g. het aanloopgebied *Scheldemonden*, gevormd door: het in de Nederlandse territ
 
 ### 1  
 
-####ALGEMEEN
+####Algemeen
 
 ### 1.1  
 
@@ -405,7 +385,7 @@ Het betonningssysteem voorziet in vijf soorten markeringen die in iedere samenst
 
 ### 2  
 
-####LATERALE MARKERINGEN
+####Laterale markeringen
 
 ### 2.1  
 
@@ -430,7 +410,7 @@ Laterale markeringen verschillen in de twee internationaal vastgestelde betonnin
 | --- | topteken*:  | enkele rode cilinder  | --- | topteken*:  | enkele groene kegel met de top naar boven gericht  |
 | --- | licht*:  |   –  kleur: rood     – karakter:  naar keuze behalve het karakter omschreven in par. 2.3.3.1.      | --- | licht*:  |   – kleur:  groen     – karakter:  naarkeuze behalve het karakter omschreven in par. 2.3.3.2.      |
 
-* Indien aanwezig.   ![14841](http://wetten.overheid.nl/Illustration/14841)
+* Indien aanwezig.   ![14840](http://wetten.overheid.nl/Illustration/14840)
 2.3.3 *Splitsing* Wanneer een vaarwater zich splitst kan, varend in de betonningsrichting, als volgt een aanbevolen route worden aangegeven door een aangepaste bakboords- of stuurboordsmarkering.  
 
 | 2.3.3.1  | Aanbevolen vaarwater aan stuurboord  | 2.3.3.2.  | Aanbevolen vaarwater aan bakboord  |--- |--- |--- |--- |--- |--- |
@@ -454,7 +434,7 @@ Laterale markeringen verschillen in de twee internationaal vastgestelde betonnin
 
 ### 3  
 
-####CARDINALE MARKERINGEN
+####Cardinale markeringen
 
 ### 3.1  
 
@@ -509,7 +489,7 @@ Een cardinale markering kan b.v. worden gebruikt om:
 
 ### 4  
 
-####MARKERING TER AANDUIDING VAN EEN AFZONDERLIJK GEVAAR
+####Markering ter aanduiding van een afzonderlijk gevaar
 
 ### 4.1  
 
@@ -530,7 +510,7 @@ Een markering ter aanduiding van een afzonderlijk gevaar is een markering die is
 
 ### 5  
 
-####MARKERING TER AANDUIDING VAN VEILIG VAARWATER
+####Markering ter aanduiding van veilig vaarwater
 
 ### 5.1  
 
@@ -552,7 +532,7 @@ Een markering ter aanduiding van veilig vaarwater geeft aan dat zich rond de mar
 
 ### 6  
 
-####MARKERINGEN MET BIJZONDERE BETEKENIS
+####Markeringen met bijzondere betekenis
 
 ### 6.1  
 
@@ -590,7 +570,7 @@ Bijzondere markeringen anders dan genoemd in par. 6.1 en omschreven in par. 6.2 
 
 ### 7  
 
-####NIEUWE GEVAREN
+####Nieuwe gevaren
 
 ### 7.1  
 

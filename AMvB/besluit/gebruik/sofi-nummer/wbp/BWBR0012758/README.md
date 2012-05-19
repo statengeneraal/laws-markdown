@@ -54,7 +54,7 @@ b. het Schadefonds geweldsmisdrijven, bedoeld in [artikel 2 van de Wet schadefon
 
 c. het Landelijk Bureau Inning Onderhoudsbijdragen ten behoeve van de in [artikel 2, derde lid, van de Wet Landelijk Bureau Inning Onderhoudsbijdragen](../../../../../../wet/wet/landelijk/bureau/inning/onderhoudsbijdragen/BWBR0007292/README.md) met het oog op de inning van onderhoudsbijdragen en op de vaststelling en inning van ouderbijdragen als bedoeld in [artikel 69 van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
 
-d. Onze Minister van Justitie met het oog op het uitoefenen van de bevoegdheid bedoeld in de [artikelen 64, tweede lid](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), en [175, tweede lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+d. Onze Minister van Veiligheid en Justitie met het oog op de uitvoering van de [Wet controle op rechtspersonen](../../../../../../wet/wet/controle/op/rechtspersonen/BWBR0015049/README.md);  
 
 e. Onze Minister van Justitie met het oog op de uitvoering van de sociale zekerheidswetten door het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de gemeenten, voor zover het betreft personen die krachtens een rechterlijk bevel of uitspraak in een strafzaak in detentie verblijven.    
 

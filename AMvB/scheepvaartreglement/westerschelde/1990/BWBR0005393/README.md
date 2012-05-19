@@ -64,11 +64,7 @@ n. beperkt manoeuvreerbaar schip: een schip dat door de aard van zijn werk beper
 
 2°. een schip bezig met bagger- of onderwaterwerkzaamheden of met hydrografische verrichtingen;     
 
-o. exploitant: de eigenaar, rompbevrachter of ieder ander die de zeggenschap heeft over het gebruik van een schip;  
-
-p. richtlijn nr. 2002/59/EG: richtlijn nr. 2002/59/EG van het Europees Parlement en de Raad van de Europese Unie van 27 juni 2002 betreffende de invoering van een communautair monitoring- en informatiesysteem voor de zeescheepvaart en tot intrekking van Richtlijn 93/75/EEG van de Raad (PbEG L 208);  
-
-q. een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert: elk vrachtschip, iedere olie-, chemicaliën-, of gastanker, of een passagiersschip, waarmee wordt vervoerd een gevaarlijke stof als bedoeld in artikel 3, onderdeel g, of een schadelijke stof als bedoeld in artikel 3, onderdeel h, van richtlijn nr. 2002/59/EG.     
+o. exploitant: de eigenaar, rompbevrachter of ieder ander die de zeggenschap heeft over het gebruik van een schip.     
 2.  In dit reglement wordt verstaan onder: 
 
 a. Rijkshavenmeester Westerschelde: de functionaris die door Onze Minister van Verkeer en Waterstaat als zodanig is aangewezen.  
@@ -102,10 +98,6 @@ l. opdraaien: het schip dat vóór stroom of op stil water varende is verandert 
 m. kop vóór nemen: het schip dat tegen stroom varende is verandert zodanig van vaarrichting dat het vóór stroom komt te varen.  
 
 n. verkeersaanwijzing: een door of namens de Rijkshavenmeester Westerschelde aan een of meerdere verkeersdeelnemers gegeven gebod om een bepaald resultaat in het verkeersgedrag te bewerkstelligen of opgelegd verbod van een bepaald resultaat in het verkeersgedrag.     
-
-### Artikel  2a  
-
-Een wijziging van richtlijn nr. 2002/59/EG gaat voor de toepassing van dit reglement gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.  
 
 ### Artikel  3  
 
@@ -961,7 +953,7 @@ f. in de door de Rijkshavenmeester Westerschelde aangewezen gebieden.
 
 ####Meldingsplicht
 
-1.  De kapitein of schipper van een schip dat behoort tot een door de Rijkshavenmeester Westerschelde aangewezen categorie van schepen, moet zich in de door de Rijkshavenmeester Westerschelde aangegeven gevallen melden op het door deze aangewezen marifoonkanaal.   
+1.  De kapitein of schipper van een schip dat behoort tot een door de Rijkshavenmeester Westerschelde aangewezen categorie van schepen, moet zich in de door de Rijkshavenmeester Westerschelde aangegeven gevallen melden.   
 2.  De Rijkshavenmeester Westerschelde kan nadere voorschriften stellen met betrekking tot de inhoud van de melding en de wijze waarop de melding dient plaats te vinden.   
 3.  De kapitein of schipper moet onverwijld de Rijkshavenmeester Westerschelde melden indien een schip 
 
@@ -979,33 +971,6 @@ f. zodanige schade heeft opgelopen dat de manoeuvreerbaarheid ervan of de veilig
 
 g. een hindernis in de vaarweg aantreft.     
 4.  Wanneer er tevens gevaar, schade of hinder voor de scheepvaart kan ontstaan, moet de kapitein of schipper bovendien de naderende vaart waarschuwen.   
-
-### Artikel  51a  
-
-####Melding gegevens
-
-1.  Een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert of een zeeschip met een bruto-tonnage als bedoeld in de [Meetbrievenwet 1981](../../../../../wet/meetbrievenwet/1981/BWBR0003378/README.md) van 300 of meer, vaart geen in het gebied waarop dit reglement van toepassing is gelegen ankerplaats, laad- of losinrichting of wachtplaats of een aan dat gebied grenzende haven binnen, voordat de kapitein, de exploitant of de agent aan de Rijkshavenmeester Westerschelde de bij ministeriële regeling vastgestelde gegevens heeft gemeld omtrent het schip, de positie, het tijdstip van aankomst en vertrek daarvan, de daarmee vervoerde lading, het aantal personen aan boord en de uit te voeren reis, op een bij die regeling bepaalde wijze.   
-2.  De in het eerste lid bedoelde melding geschiedt: 
-
-a. door een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert: 
-
-1°. indien de bestemming bij de afvaart uit de haven van bevrachting bekend was, bij die afvaart, of  
-
-2°. indien de bestemming bij de afvaart uit de haven van bevrachting nog niet bekend was of tijdens de reis wordt gewijzigd, zodra deze bekend is, maar uiterlijk bij het binnenvaren van de Nederlandse territoriale zee;    
-
-b. door een zeeschip met een bruto-tonnage als bedoeld in de [Meetbrievenwet 1981](../../../../../wet/meetbrievenwet/1981/BWBR0003378/README.md) van 300 of meer dat geen bepaalde gevaarlijke of schadelijke stoffen vervoert: 
-
-1°. ten minste vierentwintig uur voor aankomst, of  
-
-2°. indien de bestemming bij de afvaart uit de vorige haven bekend was en de reisduur minder dan vierentwintig uur bedraagt, uiterlijk op het tijdstip waarop het schip de vorige haven verlaat, of  
-
-3°. indien de bestemming bij de afvaart uit de vorige haven nog niet bekend was of tijdens de reis wordt gewijzigd, zodra deze bekend is, maar uiterlijk bij het binnenvaren van de Nederlandse territoriale zee.       
-3.  Onverminderd het eerste lid, meldt de kapitein van een schip als bedoeld in dat lid, dat op weg is naar het gebied waarop dit reglement van toepassing is, voor vertrek van een ankerplaats gelegen in de Nederlandse territoriale zee de bij ministeriële regeling vastgestelde gegevens aan de Rijkshavenmeester Westerschelde.   
-4.  De kapitein, de exploitant of de agent van een zeeschip dat bepaalde gevaarlijke of schadelijke stoffen vervoert, deelt voor de afvaart van dat schip van een in het gebied waarop dit reglement van toepassing is gelegen ankerplaats, laad- of losinrichting of wachtplaats, aan de Rijkshavenmeester Westerschelde de bij ministeriële regeling vastgestelde gegevens mede omtrent het schip, het tijdstip van vertrek daarvan, de daarmee vervoerde lading, het aantal personen aan boord en de uit te voeren reis, op een bij die regeling bepaalde wijze.   
-5.  De in het eerste en het derde lid bedoelde meldingsplicht is niet van toepassing op een in aanloop zijnd schip dat zich reeds op grond van het [Scheepvaartreglement territoriale zee](../../../../../AMvB/scheepvaartreglement/territoriale/zee/BWBR0007914/README.md) heeft gemeld.   
-6.  De Rijkshavenmeester Westerschelde kan ontheffing verlenen van de in het eerste en vierde lid bedoelde meldingsplichten met betrekking tot een zeeschip als bedoeld in die leden, dat in lijndienst vaart tussen twee in Nederland gelegen havens of tussen een in Nederland gelegen haven en een haven gelegen in een andere staat, als wordt voldaan aan de voorschriften, bedoeld in artikel 15, eerste en tweede lid, van richtlijn nr. 2002/59/EG.   
-7.  De Rijkshavenmeester Westerschelde trekt de ontheffing in wanneer niet meer wordt voldaan aan de voorschriften, bedoeld in het zesde lid.   
-8.  Het eerste, derde en vierde lid zijn niet van toepassing op een schip als bedoeld in artikel 2, tweede lid, in samenhang met artikel 6 bis van richtlijn nr. 2002/59/EG.   
 
 ### Artikel  52  
 
