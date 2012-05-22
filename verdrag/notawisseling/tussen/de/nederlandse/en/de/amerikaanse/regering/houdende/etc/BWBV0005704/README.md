@@ -2,7 +2,7 @@
 
 ##Notawisseling tussen de Nederlandse en de Amerikaanse Regering houdende wijziging van de Overeenkomst tot economische samenwerking tussen de Regeringen van het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika
 
-### No.  I  
+### No. I 
 
 ###American Embassy
 
@@ -18,7 +18,7 @@ c. Fulfill the military obligations which it has assumed under multilateral or b
 
 d. Make, consistent with its political and economic stability, the full contribution permitted by its manpower, resources, facilities, and general economic conditions to the development and maintenance of its own defensive strength and the defensive strength of the free world;  
 
-e. Take all reasonable measures which may be needed to develop its defense capacities; and  
+e. Take all reasonable measures which may be needed to develop its defense capacities; and 
 
 f. Take appropriate steps to insure the effective utilization of the economic and military assistance provided by the United States.    
 
@@ -30,13 +30,10 @@ f. Take appropriate steps to insure the effective utilization of the economic an
 
 5. In lieu of the date referred to in paragraph 7 of Article IV of the Economic Cooperation Agreement, the amount of unencumbered balances referred to in that paragraph shall be determined as of the date of the termination of the assistance program under this Agreement.  
 
-6. The two Governments will establish procedures whereby the Government of the Netherlands will so deposit, segregate, or assure title to all funds allocated to or derived from any program of assistance undertaken by the Government of the United States so that such funds shall not be subject to garnishment, attachment, seizure or other legal process by any person, firm, agency, corporation, organization or government, when the Government of the Netherlands is advised by the Government of the United States that any such legal process would interfere with the attainment of the objectives of the program of assistance.   Upon receipt of a Note from your Government indicating that the foregoing provisions are acceptable to the Netherlands Government, the Government of the United States of America will consider that this Note and your reply thereto constitute an agreement between the two Governments on this subject which shall enter into force on the date of your Note in reply. Accept, Excellency, the assurances of my highest consideration. (s.) WILLIAM C. TRIMBLE Charge d'Affaires, ad interim.  *His Excellency Mr. D. U. Stikker,*   *Royal Netherlands Minister for Foreign Affairs,*   *Plein 23, The Hague.*    
+6. The two Governments will establish procedures whereby the Government of the Netherlands will so deposit, segregate, or assure title to all funds allocated to or derived from any program of assistance undertaken by the Government of the United States so that such funds shall not be subject to garnishment, attachment, seizure or other legal process by any person, firm, agency, corporation, organization or government, when the Government of the Netherlands is advised by the Government of the United States that any such legal process would interfere with the attainment of the objectives of the program of assistance.   Upon receipt of a Note from your Government indicating that the foregoing provisions are acceptable to the Netherlands Government, the Government of the United States of America will consider that this Note and your reply thereto constitute an agreement between the two Governments on this subject which shall enter into force on the date of your Note in reply. Accept, Excellency, the assurances of my highest consideration.(s.) WILLIAM C. TRIMBLE Chargé d'Affaires, ad interim. *His Excellency Mr. D. U. Stikker,**Royal Netherlands Minister for Foreign Affairs,**Plein 23, The Hague.*  
 
-### No.  II  
+###No. II 
 
 ###Ministry of Foreign Affairs
 
-The Hague, January 8, 1952. Sir, I have the honor to acknowledge receipt of your note no. 385 dated January 8, 1952, and reading as follows:  (zoals in No. I)  I have the honor to confirm that the provisions contained in the note quoted above are acceptable to her Majesty's Government and that the aforementioned note and the present reply constitute an agreement between the Governments of the United States of America and of the Netherlands. Accept Sir, the renewed assurance of my highest consideration. (s.) STIKKER Minister of Foreign Affairs.   
-
-![10000056258](http://wetten.overheid.nl/Illustration/10000056258)
-
+The Hague, January 8, 1952. Sir, I have the honor to acknowledge receipt of your note no. 385 dated January 8, 1952, and reading as follows:  (zoals in No. I)  I have the honor to confirm that the provisions contained in the note quoted above are acceptable to her Majesty's Government and that the aforementioned note and the present reply constitute an agreement between the Governments of the United States of America and of the Netherlands. Accept Sir, the renewed assurance of my highest consideration. (s.) STIKKER Minister of Foreign Affairs.  
