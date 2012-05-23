@@ -211,28 +211,20 @@ A. H. Korthals
 
 Deze bijlage bevat voor de behandeling van kantonzaken per rechtbank voor de hoofdplaats, de nevenvestigingsplaatsen en de nevenzittingsplaatsen waar kantonzaken worden behandeld, een gebiedsindeling. Voor de nevenzittingsplaatsen, die in artikel 13 voor de behandeling van kantonzaken worden aangewezen, geldt geen eigen gebiedsindeling. Deze plaatsen zijn omwille van de duidelijkheid in de gebiedsindeling onderstreept en tevens afzonderlijk vermeld. Nevenzittingsplaatsen waar geen kantonzaken kunnen worden behandeld, zijn niet afzonderlijk in de gebiedsindeling opgenomen.  
 
-|  *RECHTBANK ALKMAAR*   |--- |--- |
-|:---|:---|:---|
-|  *Alkmaar*   hoofdplaats  |  *Hoorn*   nevenvestigingsplaats  |  *Den Helder*   nevenzittingsplaats  |
-| --- | --- | --- |
+|  *RECHTBANK ALKMAAR*   |--- |--- |  *Alkmaar*   hoofdplaats  |  *Hoorn*   nevenvestigingsplaats  |  *Den Helder*   nevenzittingsplaats  |
+|:---|:---|:---|:---|:---|:---|
 | Alkmaar  Bergen  Castricum  Graft-De Rijp  Harenkarspel  Heerhugowaard  Heiloo  Langedijk  Niedorp  Schagen  Schermer  Zijpe  | Drechterland  Enkhuizen  Hoorn  Koggenland  Medemblik  Opmeer  Stede Broec  | Anna Paulowna  Den Helder  Texel  Wieringen  Wieringermeer  |
 
-|  *RECHTBANK ALMELO*   |--- |
-|:---|:---|
-|  *Almelo*   hoofdplaats  |  *Enschede*   nevenvestigingsplaats  |
-| --- | --- |
+|  *RECHTBANK ALMELO*   |--- |  *Almelo*   hoofdplaats  |  *Enschede*   nevenvestigingsplaats  |
+|:---|:---|:---|:---|
 | Almelo  Borne  Hellendoorn  Hof van Twente  Rijssen-Holten  Tubbergen  Twenterand  Wierden  | Dinkelland  Enschede  Haaksbergen  Hengelo (O.)  Losser  Oldenzaal  |
 
-|  *RECHTBANK AMSTERDAM*   |--- |
-|:---|:---|
-|  *Amsterdam*   hoofdplaats  |  *Hilversum*   nevenvestigingsplaats  |
-| --- | --- |
+|  *RECHTBANK AMSTERDAM*   |--- |  *Amsterdam*   hoofdplaats  |  *Hilversum*   nevenvestigingsplaats  |
+|:---|:---|:---|:---|
 | Aalsmeer  Amstelveen  Amsterdam  Diemen  Ouder-Amstel  Uithoorn  | Blaricum  Bussum  Hilversum  Huizen  Laren (N.-H.)  Muiden  Naarden  Weesp  Wijdemeren  |
 
-|  *RECHTBANK ARNHEM*   |--- |--- |
-|:---|:---|:---|
-|  *Arnhem*   hoofdplaats  |  *Tiel*   nevenvestigingsplaats  |  *Nijmegen*   nevenvestigingsplaats  |  *Wageningen*   nevenzittingsplaats  |
-| --- | --- | --- | --- |
+|  *RECHTBANK ARNHEM*   |--- |--- |  *Arnhem*   hoofdplaats  |  *Tiel*   nevenvestigingsplaats  |  *Nijmegen*   nevenvestigingsplaats  |  *Wageningen*   nevenzittingsplaats  |
+|:---|:---|:---|:---|:---|:---|:---|
 | Arnhem  Doesburg  Duiven  Rheden  Rozendaal  Rijnwaarden  Westervoort  Zevenaar  | Buren  Culemborg  Geldermalsen  Neder-Betuwe  Lingewaal  Maasdriel  Neerijnen  Tiel  West Maas en Waal  Zaltbommel  | Beuningen  Druten  Groesbeek  Heumen  Lingewaard  Millingen aan de Rijn  Nijmegen  Overbetuwe  Ubbergen  Wijchen  | Barneveld  Ede  Nijkerk  Renkum  Scherpenzeel  Wageningen  |
 
 |  *RECHTBANK ASSEN*   |--- |  *Assen*   hoofdplaats  |  *Emmen*   nevenvestigingsplaats  |
@@ -247,10 +239,8 @@ Deze bijlage bevat voor de behandeling van kantonzaken per rechtbank voor de hoo
 | Tynaarlo  | --- |
 | Westerveld  | --- |
 
-|  *RECHTBANK BREDA*   |--- |--- |
-|:---|:---|:---|
-|  *Breda*   hoofdplaats  |  *Tilburg*   nevenvestigingsplaats  |  *Bergen op Zoom*   nevenvestigingsplaats  |
-| --- | --- | --- |
+|  *RECHTBANK BREDA*   |--- |--- |  *Breda*   hoofdplaats  |  *Tilburg*   nevenvestigingsplaats  |  *Bergen op Zoom*   nevenvestigingsplaats  |
+|:---|:---|:---|:---|:---|:---|
 | Aalburg  Breda  Drimmelen  Geertruidenberg  Oosterhout  Werkendam  Woudrichem  Zundert  | Alphen-Chaam  Baarle-Nassau  Dongen  Gilze en Rijen  Goirle  Hilvarenbeek  Loon op Zand  Oisterwijk  Tilburg  Waalwijk  | Bergen op Zoom  Etten-Leur  Halderberge  Moerdijk  Roosendaal  Rucphen  Steenbergen  Woensdrecht  |
 
 |  *RECHTBANK DORDRECHT*   |--- |  *Dordrecht*   hoofdplaats  |  *Gorinchem*   nevenzittingsplaats  |
@@ -270,32 +260,24 @@ Deze bijlage bevat voor de behandeling van kantonzaken per rechtbank voor de hoo
 | Strijen  | --- |
 | Zwijndrecht  | --- |
 
-|  *RECHTBANK ’S-GRAVENHAGE*   |--- |--- |
-|:---|:---|:---|
-|  *’s-Gravenhage*   hoofdplaats  |  *Delft*   nevenvestigingsplaats  |  *Leiden*   nevenvestigingsplaats  |  *Gouda*   nevenvestigingsplaats  |
-| --- | --- | --- | --- |
+|  *RECHTBANK ’S-GRAVENHAGE*   |--- |--- |  *’s-Gravenhage*   hoofdplaats  |  *Delft*   nevenvestigingsplaats  |  *Leiden*   nevenvestigingsplaats  |  *Gouda*   nevenvestigingsplaats  |
+|:---|:---|:---|:---|:---|:---|:---|
 | ’s-Gravenhage  Leidschendam-Voorburg  Rijswijk  Wassenaar  | Delft  Midden-Delfland  Pijnacker-Nootdorp  Westland  Zoetermeer  | Hillegom  Kaag en Braassem  Katwijk  Leiden  Leiderdorp  Lisse  Noordwijk  Noordwijkerhout  Oegstgeest  Teylingen  Voorschoten  Zoeterwoude  | Bergambacht  Gouda  Nederlek  Ouderkerk  Bodegraven-Reeuwijk  Schoonhoven  Vlist  Waddinxveen  Zuidplas  |
 |  *Alphen aan den Rijn*   | --- | --- | --- |
 | nevenvestigingsplaats  | --- | --- | --- |
 | --- | --- | --- | --- |
 | Alphen aan den Rijn  Boskoop  Nieuwkoop  Rijnwoude  | --- | --- | --- |
 
-|  *RECHTBANK GRONINGEN*   |--- |
-|:---|:---|
-|  *Groningen*   hoofdplaats  |  *Oldambt*   nevenzittingsplaats  |
-| --- | --- |
+|  *RECHTBANK GRONINGEN*   |--- |  *Groningen*   hoofdplaats  |  *Oldambt*   nevenzittingsplaats  |
+|:---|:---|:---|:---|
 | Appingedam  Bedum  De Marne  Delfzijl  Eemsmond  Groningen  Grootegast  Haren  Hoogezand-Sappemeer  Leek  Loppersum  Marum  Slochteren  Ten Boer  Winsum  Zuidhorn  | Bellingwedde  Menterwolde  Oldambt  Pekela  Stadskanaal  Veendam  Vlagtwedde  |
 
-|  *RECHTBANK HAARLEM*   |--- |
-|:---|:---|
-|  *Haarlem*   hoofdplaats  |  *Zaanstad*   nevenvestigingsplaats  |
-| --- | --- |
+|  *RECHTBANK HAARLEM*   |--- |  *Haarlem*   hoofdplaats  |  *Zaanstad*   nevenvestigingsplaats  |
+|:---|:---|:---|:---|
 | Beverwijk  Bloemendaal  Haarlem  Haarlemmerliede en Spaarnwoude  Haarlemmermeer  Heemskerk  Heemstede  Uitgeest  Velsen  Zandvoort  | Beemster  Waterland  Edam-Volendam  Landsmeer  Oostzaan  Purmerend  Wormerland  Zaanstad  Zeevang  |
 
-|  *RECHTBANK ’S-HERTOGENBOSCH*   |--- |--- |
-|:---|:---|:---|
-|  *’s-Hertogenbosch*   hoofdplaats  |  *Eindhoven*   nevenvestigingsplaats  |  *Helmond*   nevenvestigingsplaats  |  *Boxmeer*   nevenvestigingsplaats  |
-| --- | --- | --- | --- |
+|  *RECHTBANK ’S-HERTOGENBOSCH*   |--- |--- |  *’s-Hertogenbosch*   hoofdplaats  |  *Eindhoven*   nevenvestigingsplaats  |  *Helmond*   nevenvestigingsplaats  |  *Boxmeer*   nevenvestigingsplaats  |
+|:---|:---|:---|:---|:---|:---|:---|
 | Bernheze  Boekel  Boxtel  Haaren  ’s-Hertogenbosch  Heusden  Landerd  Maasdonk  Sint-Michielsgestel  Oss  Schijndel  Uden  Veghel  Vught  | Bergeijk  Best  Bladel  Cranendonck  Eersel  Eindhoven  Geldrop-Mierlo  Heeze-Leende  Nuenen, Gerwen en Nederwetten  Oirschot  Reusel-De Mierden  Sint-Oedenrode  Son en Breugel  Valkenswaard  Veldhoven  Waalre  | Asten  Deurne  Gemert-Bakel  Helmond  Laarbeek  Someren  | Boxmeer  Cuijk  Grave  Mill en Sint Hubert  Sint Anthonis  |
 
 |  *RECHTBANK LEEUWARDEN*   |--- |--- |  *Leeuwarden*   hoofdplaats  |  *Heerenveen*   nevenvestigingsplaats  |  *Sneek*   nevenzittingsplaats  |
@@ -318,10 +300,8 @@ Deze bijlage bevat voor de behandeling van kantonzaken per rechtbank voor de hoo
 | Tytsjerksteradiel  | --- | --- |
 | Vlieland  | --- | --- |
 
-|  *RECHTBANK MAASTRICHT*   |--- |--- |
-|:---|:---|:---|
-|  *Maastricht*   hoofdplaats  |  *Heerlen*   nevenvestigingsplaats  |  *Sittard-Geleen*   nevenvestigingsplaats  |
-| --- | --- | --- |
+|  *RECHTBANK MAASTRICHT*   |--- |--- |  *Maastricht*   hoofdplaats  |  *Heerlen*   nevenvestigingsplaats  |  *Sittard-Geleen*   nevenvestigingsplaats  |
+|:---|:---|:---|:---|:---|:---|
 | Eijsden-Margraten  Gulpen-Wittem  Maastricht  Meerssen  Vaals  Valkenburg aan de Geul  | Brunssum  Heerlen  Kerkrade  Landgraaf  Nuth  Simpelveld  Voerendaal  | Beek  Onderbanken  Schinnen  Sittard-Geleen  Stein  |
 
 |  *RECHTBANK MIDDELBURG*   |--- |  *Middelburg*   hoofdplaats  |  *Terneuzen*   nevenvestigingsplaats  |
@@ -337,37 +317,27 @@ Deze bijlage bevat voor de behandeling van kantonzaken per rechtbank voor de hoo
 | Veere  | --- |
 | Vlissingen  | --- |
 
-|  *RECHTBANK ROERMOND*   |--- |
-|:---|:---|
-|  *Roermond*   hoofdplaats  |  *Venlo*   nevenvestigingsplaats  |
-| --- | --- |
+|  *RECHTBANK ROERMOND*   |--- |  *Roermond*   hoofdplaats  |  *Venlo*   nevenvestigingsplaats  |
+|:---|:---|:---|:---|
 | Beesel  Echt-Susteren  Leudal  Maasgouw  Nederweert  Peel en Maas  Roerdalen  Roermond  Weert  | Bergen (L.)  Gennep  Horst aan de Maas  Mook en Middelaar  Venlo  Venray  |
 
-|  *RECHTBANK ROTTERDAM*   |--- |--- |
-|:---|:---|:---|
-|  *Rotterdam*   hoofdplaats  |  *Brielle*   nevenvestigingsplaats  |  *Middelharnis*   nevenzittingsplaats  |
-| --- | --- | --- |
+|  *RECHTBANK ROTTERDAM*   |--- |--- |  *Rotterdam*   hoofdplaats  |  *Brielle*   nevenvestigingsplaats  |  *Middelharnis*   nevenzittingsplaats  |
+|:---|:---|:---|:---|:---|:---|
 | Albrandswaard  Barendrecht  Capelle aan den IJssel  Krimpen aan den IJssel  Lansingerland  Maassluis  Ridderkerk  Rotterdam  Schiedam  Vlaardingen  | Bernisse  Brielle  Hellevoetsluis  Spijkenisse  Westvoorne  | Dirksland  Goedereede  Middelharnis  Oostflakkee  |
 
-|  *RECHTBANK UTRECHT*   |--- |
-|:---|:---|
-|  *Utrecht*   hoofdplaats  |  *Amersfoort*   nevenvestigingsplaats  |
-| --- | --- |
+|  *RECHTBANK UTRECHT*   |--- |  *Utrecht*   hoofdplaats  |  *Amersfoort*   nevenvestigingsplaats  |
+|:---|:---|:---|:---|
 | Bunnik  De Bilt  De Ronde Venen  Houten  Lopik  Montfoort  Nieuwegein  Oudewater  Stichtse Vecht  Utrecht  Utrechtse Heuvelrug  Vianen  Woerden  Wijk bij Duurstede  IJsselstein  Zeist  | Amersfoort  Baarn  Bunschoten  Eemnes  Leusden  Renswoude  Rhenen  Soest  Veenendaal  Woudenberg  |
 
-|  *RECHTBANK ZUTPHEN*   |--- |--- |
-|:---|:---|:---|
-|  *Zutphen*   hoofdplaats  |  *Apeldoorn*   nevenvestigingsplaats  |  *Oost Gelre*   nevenzittingsplaats  |  *Oude IJsselstreek*   nevenzittingsplaats  |
-| --- | --- | --- | --- |
+|  *RECHTBANK ZUTPHEN*   |--- |--- |  *Zutphen*   hoofdplaats  |  *Apeldoorn*   nevenvestigingsplaats  |  *Oost Gelre*   nevenzittingsplaats  |  *Oude IJsselstreek*   nevenzittingsplaats  |
+|:---|:---|:---|:---|:---|:---|:---|
 | Bronckhorst  Brummen  Lochem  Zutphen  | Apeldoorn  Epe  Hattem  Heerde  Voorst  | Aalten  Berkelland  Oost Gelre  Winterswijk  |  *Doetinchem*   Montferland  Oude IJsselstreek  |
 | --- | --- | --- | --- |
 |  *Harderwijk*   nevenzittingsplaats  |  *Doetinchem*   nevenzittingsplaats  | --- | --- |
 | Elburg  Ermelo  Harderwijk  Nunspeet  Oldebroek  Putten  |  *kantonzaken uit Oude IJsselstreek*   | --- | --- |
 
-|  *RECHTBANK ZWOLLE-LELYSTAD*   |--- |--- |
-|:---|:---|:---|
-|  *Zwolle*   hoofdplaats  |  *Deventer*   nevenvestigingsplaats  |  *Lelystad*   nevenvestigingsplaats  |  *Almere*   nevenzittingsplaats  |
-| --- | --- | --- | --- |
+|  *RECHTBANK ZWOLLE-LELYSTAD*   |--- |--- |  *Zwolle*   hoofdplaats  |  *Deventer*   nevenvestigingsplaats  |  *Lelystad*   nevenvestigingsplaats  |  *Almere*   nevenzittingsplaats  |
+|:---|:---|:---|:---|:---|:---|:---|
 | Dalfsen  Hardenberg  Kampen  Ommen  Staphorst   *Steenwijkerland*   Zwartewaterland  Zwolle  | Deventer  Olst-Wijhe  Raalte  |  *Almere*   Dronten  Lelystad  Noordoostpolder  Urk  Zeewolde  |  *kantonzaken uit Lelystad*   |
 | --- | --- | --- | --- |
 |  *Steenwijkerland*   nevenzittingsplaats  | --- | --- | --- |

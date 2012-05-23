@@ -2,6 +2,9 @@
 
 ##Regeling van de minister van Financiën houdende aanvullende regels betreffende het overgangsrecht voor de financiële markten in Bonaire, Sint Eustatius en Saba, alsmede regels betreffende vrijstellingen op grond van de Wet toezicht bank- en kredietwezen 1994 BES en de Wet toezicht verzekeringsbedrijf BES (Overgangs- en vrijstellingsregeling financiële markten BES)
 
+De Minister van Financiën,  
+Gelet op artikel 6.16 van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba, artikel 1b, eerste lid, van de Wet toezicht bank- en kredietwezen 1994 BES en artikel 7, tweede lid, van de Wet toezicht verzekeringsbedrijf BES;
+Besluit:     
 ### §  1  
 
 ####Inleidende bepalingen
@@ -12,33 +15,33 @@
 
 In deze regeling wordt verstaan onder: 
 
-*administrateur:* een administrateur als bedoeld in [artikel 1, onderdeel h, van de Wet toezicht beleggingsinstellingen en administrateurs BES](../../../../../../../../wet-BES/wet/toezicht/beleggingsinstellingen/en/administrateurs/bes/BWBR0028553/README.md);  
+*administrateur:* een administrateur als bedoeld in artikel 1, onderdeel h, van de Wet toezicht beleggingsinstellingen en administrateurs BES;  
 
-*assurantiebemiddelaar:* een assurantiebemiddelaar als bedoeld in [artikel 1, eerste lid, onderdeel a, van de Wet assurantiebemiddelingsbedrijf BES](../../../../../../../../wet-BES/wet/assurantiebemiddelingsbedrijf/bes/BWBR0028566/README.md);  
+*assurantiebemiddelaar:* een assurantiebemiddelaar als bedoeld in artikel 1, eerste lid, onderdeel a, van de Wet assurantiebemiddelingsbedrijf BES;  
 
-*beleggingsinstelling:* een beleggingsinstelling als bedoeld in [artikel 1, onderdeel c, van de Wet toezicht beleggingsinstellingen en administrateurs BES](../../../../../../../../wet-BES/wet/toezicht/beleggingsinstellingen/en/administrateurs/bes/BWBR0028553/README.md);  
+*beleggingsinstelling:* een beleggingsinstelling als bedoeld in artikel 1, onderdeel c, van de Wet toezicht beleggingsinstellingen en administrateurs BES;  
 
 *bijkantoor:* een duurzaam in een openbaar lichaam aanwezig onderdeel zonder rechtspersoonlijkheid van een financiële onderneming;  
 
-*effectenbeurs:* een effectenbeurs als bedoeld in [artikel 1, onderdeel c, van de Wet toezicht effectenbeurzen BES](../../../../../../../../wet-BES/wet/toezicht/effectenbeurzen/bes/BWBR0028366/README.md);  
+*effectenbeurs:* een effectenbeurs als bedoeld in artikel 1, onderdeel c, van de Wet toezicht effectenbeurzen BES;  
 
 *financiële onderneming:* een administrateur, assurantiebemiddelaar, beleggingsinstelling, geldtransactiekantoor, houder van een effectenbeurs, kredietinstelling, trustkantoor of verzekeraar;  
 
-*geldtransactiekantoor:* een geldtransactiekantoor als bedoeld in [artikel 1, eerste lid, onderdeel j, van de Wet toezicht bank- en kredietwezen 1994 BES](../../../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md);  
+*geldtransactiekantoor:* een geldtransactiekantoor als bedoeld in artikel 1, eerste lid, onderdeel j, van de Wet toezicht bank- en kredietwezen 1994 BES;  
 
 *groep:* economische eenheid van organisatorisch verbonden rechtspersonen, vennootschappen of natuurlijke personen;  
 
 *houder van een effectenbeurs:* degene die een effectenbeurs houdt;  
 
-*kredietinstelling:* een kredietinstelling als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wet toezicht bank- en kredietwezen 1994 BES](../../../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md);  
+*kredietinstelling:* een kredietinstelling als bedoeld in artikel 1, eerste lid, onderdeel c, van de Wet toezicht bank- en kredietwezen 1994 BES;  
 
 *De Nederlandsche Bank:* De Nederlandsche Bank N.V.;  
 
 *openbaar lichaam:* het openbaar lichaam Bonaire, Sint Eustatius of Saba;  
 
-*trustkantoor:* een trustkantoor als bedoeld in [artikel 1, onderdeel c, van de Wet toezicht trustwezen BES](../../../../../../../../wet-BES/wet/toezicht/trustwezen/bes/BWBR0028368/README.md);  
+*trustkantoor:* een trustkantoor als bedoeld in artikel 1, onderdeel c, van de Wet toezicht trustwezen BES;  
 
-*verzekeraar:* een verzekeraar als bedoeld in [artikel 1, eerste lid, onderdeel g, van de Wet toezicht verzekeringsbedrijf BES](../../../../../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md);  
+*verzekeraar:* een verzekeraar als bedoeld in artikel 1, eerste lid, onderdeel g, van de Wet toezicht verzekeringsbedrijf BES;  
 
 *vestiging:* zetel of bijkantoor;  
 
@@ -52,21 +55,22 @@ In deze regeling wordt verstaan onder:
 
 ####(afbakening vergunning van rechtswege)
 
-Een op grond van de Landsverordening toezicht bank- en kredietwezen 1994, de Landsverordening toezicht beleggingsinstellingen en administrateurs, de Landsverordening toezicht effectenbeurzen, de Landsverordening toezicht trustwezen of de Landsverordening toezicht verzekeringsbedrijf verleende vergunning wordt voor de toepassing van [artikel 6, eerste lid, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../wet-BES/invoeringswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028063/README.md) gelijkgesteld met een op grond van de [Wet toezicht bank- en kredietwezen 1994 BES](../../../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md), de [Wet toezicht beleggingsinstellingen en administrateurs BES](../../../../../../../../wet-BES/wet/toezicht/beleggingsinstellingen/en/administrateurs/bes/BWBR0028553/README.md), de [Wet toezicht effectenbeurzen BES](../../../../../../../../wet-BES/wet/toezicht/effectenbeurzen/bes/BWBR0028366/README.md), de [Wet toezicht trustwezen BES](../../../../../../../../wet-BES/wet/toezicht/trustwezen/bes/BWBR0028368/README.md) of de [Wet toezicht verzekeringsbedrijf BES](../../../../../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md) verleende vergunning, voor zover de vergunninghouder de activiteiten waarop de vergunning betrekking heeft, reeds ten tijde van de inwerkingtreding van deze regeling in of vanuit een vestiging in de openbare lichamen verrichtte.  
+1.  Een op grond van de Landsverordening toezicht bank- en kredietwezen 1994, de Landsverordening toezicht beleggingsinstellingen en administrateurs, de Landsverordening toezicht effectenbeurzen, de Landsverordening toezicht trustwezen of de Landsverordening toezicht verzekeringsbedrijf verleende vergunning wordt voor de toepassing van artikel 6, eerste lid, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba gelijkgesteld met een op grond van de Wet toezicht bank- en kredietwezen 1994 BES, de Wet toezicht beleggingsinstellingen en administrateurs BES, de Wet toezicht effectenbeurzen BES, de Wet toezicht trustwezen BES of de Wet toezicht verzekeringsbedrijf BES verleende vergunning, voor zover de vergunninghouder de activiteiten waarop de vergunning betrekking heeft, reeds ten tijde van de inwerkingtreding van deze regeling in of vanuit een vestiging in de openbare lichamen verrichtte.   
+2.  Het eerste lid is van overeenkomstige toepassing op een op grond van de Landsverordening toezicht bank- en kredietwezen 1994 verleende vergunning, voor zover de betrokken kredietinstelling de activiteiten waarop de vergunning betrekking heeft, reeds ten tijde van de inwerkingtreding van deze regeling door middel van het verrichten van diensten in de openbare lichamen verrichtte.   
 
 ### Artikel  3  
 
 ####(overgangsrecht trustkantoren)
 
-1.  Onverminderd artikel 2 worden voor de toepassing van [artikel 6, eerste lid, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../wet-BES/invoeringswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028063/README.md) van de personen vermeld op een bijlage bij een op grond van de Landsverordening toezicht trustwezen verleende vergunning slechts de personen geacht te zijn vermeld die ten tijde van de inwerkingtreding van deze regeling in of vanuit de openbare lichamen beheersdiensten als bedoeld in die landsverordening verleenden.   
-2.  Personen die zijn vermeld op een bijlage bij een op grond van de Landsverordening toezicht trustwezen verleende vergunning die niet op grond van [artikel 6, eerste lid, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../wet-BES/invoeringswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028063/README.md) wordt gelijkgesteld met een op grond van de [Wet toezicht trustwezen BES](../../../../../../../../wet-BES/wet/toezicht/trustwezen/bes/BWBR0028368/README.md) verleende vergunning, en die ten tijde van de inwerkingtreding van deze regeling in of vanuit de openbare lichamen beheersdiensten als bedoeld in die landsverordening verleenden, zijn tot 1 juli 2011 vrijgesteld van de eisen die de Wet toezicht trustwezen BES stelt aan het verlenen van beheersdiensten als bedoeld in die wet.   
-3.  In geval de betrokken persoon voor 1 januari 2011 een aanvraag voor een vergunning voor het werkzaam zijn als trustkantoor heeft ingediend die voldoet aan het ingevolge [artikel 4 van de Wet toezicht trustwezen BES](../../../../../../../../wet-BES/wet/toezicht/trustwezen/bes/BWBR0028368/README.md) bepaalde, geldt in afwijking van het tweede lid de in dat lid bedoelde vrijstelling tot en met de dag waarop de vergunning wordt verleend, dan wel tot de eerste dag van de derde kalendermaand na het tijdstip van afwijzing van de aanvraag.   
+1.  Onverminderd artikel 2 worden voor de toepassing van artikel 6, eerste lid, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba van de personen vermeld op een bijlage bij een op grond van de Landsverordening toezicht trustwezen verleende vergunning slechts de personen geacht te zijn vermeld die ten tijde van de inwerkingtreding van deze regeling in of vanuit de openbare lichamen beheersdiensten als bedoeld in die landsverordening verleenden.   
+2.  Personen die zijn vermeld op een bijlage bij een op grond van de Landsverordening toezicht trustwezen verleende vergunning die niet op grond van artikel 6, eerste lid, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba wordt gelijkgesteld met een op grond van de Wet toezicht trustwezen BES verleende vergunning, en die ten tijde van de inwerkingtreding van deze regeling in of vanuit de openbare lichamen beheersdiensten als bedoeld in die landsverordening verleenden, zijn tot 1 juli 2011 vrijgesteld van de eisen die de Wet toezicht trustwezen BES stelt aan het verlenen van beheersdiensten als bedoeld in die wet.   
+3.  In geval de betrokken persoon voor 1 januari 2011 een aanvraag voor een vergunning voor het werkzaam zijn als trustkantoor heeft ingediend die voldoet aan het ingevolge artikel 4 van de Wet toezicht trustwezen BES bepaalde, geldt in afwijking van het tweede lid de in dat lid bedoelde vrijstelling tot en met de dag waarop de vergunning wordt verleend, dan wel tot de eerste dag van de derde kalendermaand na het tijdstip van afwijzing van de aanvraag.   
 
 ### Artikel  4  
 
 ####(overgangsrecht assurantiebemiddelaars)
 
-1.  Voor de toepassing van [artikel 6.12 van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../wet-BES/aanpassingswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028129/README.md) wordt onder kantoor houden op Bonaire, Sint Eustatius of Saba mede verstaan de uitoefening van het assurantiebemiddelingsbedrijf vanuit een bijkantoor in de openbare lichamen door een assurantiebemiddelaar met zetel in Curaçao of Sint Maarten.   
+1.  Voor de toepassing van artikel 6.12 van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba wordt onder kantoor houden op Bonaire, Sint Eustatius of Saba mede verstaan de uitoefening van het assurantiebemiddelingsbedrijf vanuit een bijkantoor in de openbare lichamen door een assurantiebemiddelaar met zetel in Curaçao of Sint Maarten.   
 2.  Degene die de feitelijke leiding heeft over een bijkantoor in Bonaire als bedoeld in het eerste lid, mag woonachtig zijn in Curaçao.   
 3.  Degene die de feitelijke leiding heeft over een bijkantoor in Saba of Sint Eustatius als bedoeld in het eerste lid, mag woonachtig zijn in Sint Maarten.   
 
@@ -74,14 +78,14 @@ Een op grond van de Landsverordening toezicht bank- en kredietwezen 1994, de Lan
 
 ####(overgangsrecht geldtransactiekantoren)
 
-1.  Degene die een maand voorafgaand aan de inwerkingtreding van deze regeling in de openbare lichamen het bedrijf van geldtransactiekantoor uitoefende, is tot 1 juli 2011 vrijgesteld van de eisen die ingevolge de [Wet toezicht bank- en kredietwezen 1994 BES](../../../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md) aan de uitoefening van het bedrijf van geldtransactiekantoor worden gesteld.   
-2.  In geval de betrokken financiële onderneming voor 1 januari 2011 een aanvraag voor een vergunning tot uitoefening van het bedrijf van geldtransactiekantoor heeft ingediend die voldoet aan het ingevolge [artikel 3a van de Wet toezicht bank- en kredietwezen 1994 BES](../../../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md) bepaalde, geldt in afwijking van het eerste lid de in dat lid bedoelde vrijstelling tot en met de dag waarop de vergunning wordt verleend, dan wel tot de eerste dag van de derde kalendermaand na het tijdstip van afwijzing van de aanvraag.   
+1.  Degene die een maand voorafgaand aan de inwerkingtreding van deze regeling in de openbare lichamen het bedrijf van geldtransactiekantoor uitoefende, is tot 1 juli 2011 vrijgesteld van de eisen die ingevolge de Wet toezicht bank- en kredietwezen 1994 BES aan de uitoefening van het bedrijf van geldtransactiekantoor worden gesteld.   
+2.  In geval de betrokken financiële onderneming voor 1 januari 2011 een aanvraag voor een vergunning tot uitoefening van het bedrijf van geldtransactiekantoor heeft ingediend die voldoet aan het ingevolge artikel 3a van de Wet toezicht bank- en kredietwezen 1994 BES bepaalde, geldt in afwijking van het eerste lid de in dat lid bedoelde vrijstelling tot en met de dag waarop de vergunning wordt verleend, dan wel tot de eerste dag van de derde kalendermaand na het tijdstip van afwijzing van de aanvraag.   
 
 ### Artikel  6  
 
 ####(overgangsrecht kredietinstellingen met zetel in de BES)
 
-1.  Een kredietinstelling met zetel in een openbaar lichaam mag ter voldoening aan de [artikelen 14, eerste lid](../../../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md), en [15, eerste lid, van de Wet toezicht bank- en kredietwezen 1994 BES](../../../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md) voor het boekjaar 2010 volstaan met indiening van de op dat boekjaar betrekking hebbende staten nopens haar bedrijf en de jaarrekening bij de Bank van de Nederlandse Antillen.   
+1.  Een kredietinstelling met zetel in een openbaar lichaam mag ter voldoening aan de artikelen 14, eerste lid, en 15, eerste lid, van de Wet toezicht bank- en kredietwezen 1994 BES voor het boekjaar 2010 volstaan met indiening van de op dat boekjaar betrekking hebbende staten nopens haar bedrijf en de jaarrekening bij de Bank van de Nederlandse Antillen.   
 2.  Een kredietinstelling die deel uitmaakt van een groep waarop de Bank van de Nederlandse Antillen dan wel haar rechtsopvolger geconsolideerd toezicht uitoefent, behoeft voor de boekjaren 2010 en 2011 niet te voldoen aan de ingevolge de Regeling bank- en kredietwezen BES gestelde voorschriften met betrekking tot solvabiliteit en liquiditeit mits de groep waarvan zij deel uitmaakt voldoet aan de door de Bank van de Nederlandse Antillen gestelde voorschriften inzake solvabiliteit en liquiditeit op geconsolideerde basis.   
 
 ### §  3  
@@ -92,13 +96,13 @@ Een op grond van de Landsverordening toezicht bank- en kredietwezen 1994, de Lan
 
 ####(vrijstellingen bijkantoren van kredietinstellingen)
 
-1.  Een kredietinstelling met zetel buiten de openbare lichamen, die in de openbare lichamen door middel van een bijkantoor het bedrijf van kredietinstelling uitoefent, is vrijgesteld van de navolgende onderdelen van de [Wet toezicht bank- en kredietwezen 1994 BES](../../../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md): 
+1.  Een kredietinstelling met zetel buiten de openbare lichamen, die in de openbare lichamen door middel van een bijkantoor het bedrijf van kredietinstelling uitoefent, is vrijgesteld van de navolgende onderdelen van de Wet toezicht bank- en kredietwezen 1994 BES: 
 
-a. [artikel 6](../../../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md) juncto [artikel 4, eerste lid, onderdelen a tot en met c en f tot en met k](../../../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md);  
+a. artikel 6 juncto artikel 4, eerste lid, onderdelen a tot en met c en f tot en met k;  
 
-b. [hoofdstuk IV](../../../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md), met uitzondering van de [artikelen 12](../../../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md), [16](../../../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md) en [17](../../../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md);  
+b. hoofdstuk IV, met uitzondering van de artikelen 12, 16 en 17;  
 
-c. [hoofdstuk V, paragrafen 3](../../../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md) en [4](../../../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md), met uitzondering van de [artikelen 25 tot en met 26a](../../../../../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md).     
+c. hoofdstuk V, paragrafen 3 en 4, met uitzondering van de artikelen 25 tot en met 26a.     
 2.  De vrijstelling, bedoeld in het eerste lid, geldt uitsluitend, indien: 
 
 a. de kredietinstelling beschikt over een vergunning voor de uitoefening van het bedrijf van kredietinstelling, verleend door de bevoegde autoriteit van het land of de staat waar zij haar zetel heeft;  
@@ -112,13 +116,13 @@ c. de som van de bij het bijkantoor aangehouden betaalrekeningen, spaartegoeden 
 
 ####(vrijstellingen bijkantoren van verzekeraars)
 
-1.  Een verzekeraar met zetel buiten de openbare lichamen, die in de openbare lichamen door middel van een bijkantoor het verzekeringsbedrijf uitoefent, is vrijgesteld van de navolgende onderdelen van de [Wet toezicht verzekeringsbedrijf BES](../../../../../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md): 
+1.  Een verzekeraar met zetel buiten de openbare lichamen, die in de openbare lichamen door middel van een bijkantoor het verzekeringsbedrijf uitoefent, is vrijgesteld van de navolgende onderdelen van de Wet toezicht verzekeringsbedrijf BES: 
 
-a. [artikel 22, eerste lid, onderdeel a](../../../../../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md);  
+a. artikel 22, eerste lid, onderdeel a;  
 
-b. het vereiste op grond van [artikel 23, eerste lid](../../../../../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md), dat de vertegenwoordiger zijn woonplaats onderscheidenlijk zijn zetel in een openbaar lichaam heeft;  
+b. het vereiste op grond van artikel 23, eerste lid, dat de vertegenwoordiger zijn woonplaats onderscheidenlijk zijn zetel in een openbaar lichaam heeft;  
 
-c. [hoofdstuk III](../../../../../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md), met uitzondering van de [artikelen 28](../../../../../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md), [31](../../../../../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md), [32](../../../../../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md), [37 tot en met 40](../../../../../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md) en [44](../../../../../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md).     
+c. hoofdstuk III, met uitzondering van de artikelen 28, 31, 32, 37 tot en met 40 en 44.     
 2.  De vrijstelling, bedoeld in het eerste lid, geldt uitsluitend, indien: 
 
 a. de verzekeraar beschikt over een vergunning voor de uitoefening van het verzekeringsbedrijf, verleend door de bevoegde autoriteit van het land of de staat waar hij zijn zetel heeft;  
@@ -138,7 +142,7 @@ De Nederlandsche Bank kan nadere regels stellen ten aanzien van het bepaalde in 
 
 ### Artikel  10  
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](../../../../../../../../rijkswet/rijkswet/wijziging/statuut/in/verband/met/de/opheffing/van/de/nederlandse/etc/BWBR0028249/README.md) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt.  
 
 ### Artikel  11  
 
