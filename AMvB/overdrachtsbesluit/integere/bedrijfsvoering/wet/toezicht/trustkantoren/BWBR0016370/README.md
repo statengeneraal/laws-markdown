@@ -17,15 +17,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De toezichthouder is bevoegd om met het oog op een integere bedrijfsvoering aan trustkantoren regels te stellen als bedoeld in [artikel 10, eerste lid, van de Wet toezicht trustkantoren](../../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md).  
+De toezichthouder is bevoegd om met het oog op een integere bedrijfsvoering aan trustkantoren regels te stellen als bedoeld in [artikel 10, eerste lid, van de Wet toezicht trustkantoren](../../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md). 
 
 ### Artikel  2  
 
-Wijzigt het Besluit politieregisters.   
+Wijzigt het Besluit politieregisters.
 
 ### Artikel  3  
 
-Dit besluit treedt in werking op het tijdstip waarop de [Wet toezicht trustkantoren](../../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de [Wet toezicht trustkantoren](../../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md) in werking treedt. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
