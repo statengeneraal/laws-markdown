@@ -15,19 +15,19 @@ De elk jaar, gerekend vanaf 1 januari tot en met 31 december, toe te kennen to
 
 a. de voorzitter € 7.000,–  
 
-b. de overige leden € 4.500,–    
+b. de overige leden € 4.500,–   
 
 ### Artikel  2  
 
-De toekenning geschiedt door Onze Minister van Onderwijs, Cultuur en Wetenschap.  
+De toekenning geschiedt door Onze Minister van Onderwijs, Cultuur en Wetenschap. 
 
 ### Artikel  3  
 
-Indien aan de voorzitter of een der overige leden in de loop van enig jaar ontslag wordt verleend, dan wel indien de voorzitter of een der overige leden in de loop van enig jaar in functie treedt, wordt de in artikel 1 bedoelde toelage voor dat jaar bepaald naar evenredigheid van het aantal maanden waarin betrokkene zijn functie heeft vervuld.  
+Indien aan de voorzitter of een der overige leden in de loop van enig jaar ontslag wordt verleend, dan wel indien de voorzitter of een der overige leden in de loop van enig jaar in functie treedt, wordt de in artikel 1 bedoelde toelage voor dat jaar bepaald naar evenredigheid van het aantal maanden waarin betrokkene zijn functie heeft vervuld. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van de derde dag na de datum van uitgifte van de Staatscourant waarin dit besluit wordt geplaatst en werkt terug tot en met 1 januari 2011.  
+Dit besluit treedt in werking met ingang van de derde dag na de datum van uitgifte van de Staatscourant waarin dit besluit wordt geplaatst en werkt terug tot en met 1 januari 2011. 
 Onze Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit, waarvan mededeling zal worden gedaan in de Staatscourant en waarvan afschrift zal worden gezonden aan Onze Minister van Financiën.   
 
 ’s-Gravenhage 
@@ -35,5 +35,5 @@ Onze Minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering v
 Beatrix  
 
 De 
-Staatssecretaris van Onderwijs,Cultuur en Wetenschap,
-H.Zijlstra   
+Staatssecretaris van Onderwijs,Cultuur en Wetenschap, 
+H. Zijlstra     
