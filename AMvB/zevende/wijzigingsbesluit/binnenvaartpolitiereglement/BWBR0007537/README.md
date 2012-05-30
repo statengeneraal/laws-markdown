@@ -15,31 +15,31 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  III  
 
-Artikel II, onderdeel K, voorzover daarbij in artikel 4A.01 een marifooninstallatie wordt voorgeschreven waarmee gelijktijdig op twee kanalen moet kunnen worden uitgeluisterd, geldt tot 1 januari 1998 uitsluitend voor een alleenvarend motorschip, voor een duwstel of voor een gekoppeld samenstel waarvan de lengte meer bedraagt dan 110 m, alsmede voor een schip dat bepaalde gevaarlijke stoffen vervoert, bedoeld in ADNR, Bijlage B1 Rn 10 500 en Bijlage B2 Aanhangsel 4 (Stoffenlijst).  
+Artikel II, onderdeel K, voorzover daarbij in artikel 4A.01 een marifooninstallatie wordt voorgeschreven waarmee gelijktijdig op twee kanalen moet kunnen worden uitgeluisterd, geldt tot 1 januari 1998 uitsluitend voor een alleenvarend motorschip, voor een duwstel of voor een gekoppeld samenstel waarvan de lengte meer bedraagt dan 110 m, alsmede voor een schip dat bepaalde gevaarlijke stoffen vervoert, bedoeld in ADNR, Bijlage B1 Rn 10 500 en Bijlage B2 Aanhangsel 4 (Stoffenlijst). 
 
 ### Artikel  IV  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  V  
 
-Dit besluit treedt in werking met ingang van 1 oktober 1995.  
+Dit besluit treedt in werking met ingang van 1 oktober 1995. 
 
 ### Artikel  VI  
 
-De teksten van het [Vaststellingsbesluit Binnenvaartpolitiereglement](../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) en van het Binnenvaartpolitiereglement worden in het *Staatsblad* geplaatst.  
+De teksten van het [Vaststellingsbesluit Binnenvaartpolitiereglement](../../../../../KB/binnenvaartpolitiereglement/BWBR0003628/README.md) en van het Binnenvaartpolitiereglement worden in het *Staatsblad* geplaatst. 
 
 ### Artikel  VII  
 
-Dit besluit kan worden aangehaald als: Zevende wijzigingsbesluit Binnenvaartpolitiereglement.  
+Dit besluit kan worden aangehaald als: Zevende wijzigingsbesluit Binnenvaartpolitiereglement. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 
