@@ -3,12 +3,12 @@
 ##Regeling paardensperma
 
 De Minister van Landbouw, Natuurbeheer en Visserij,  
-Gelet op de [artikelen 15](../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md) en [18 van het Besluit eisen dierlijk sperma en spermawincentra](../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md);
+Gelet op de artikelen 15 en 18 van het Besluit eisen dierlijk sperma en spermawincentra;
 Besluit:    
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. besluit:  [Besluit eisen dierlijk sperma en spermawincentra](../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md);    b. minister:  Minister van Landbouw, Natuurbeheer en Visserij;    c. VWA:  Voedsel en Waren Autoriteit;    d. keuringsdierenarts:  dierenarts verbonden aan de VWA;    e. winning:  hoeveelheid sperma die op een bepaald moment van een donor is verkregen;    f. dierenarts van het centrum:  dierenarts verbonden aan het paardenspermawincentrum;    g. hengst:  geslachtsrijpe paardachtige van het mannelijk geslacht die kennelijk bestemd is voor de fokkerij;    h. richtlijn 92/65/EEG:  Richtlijn 92/65/EEG van de Raad van Europese Gemeenschappen van 13 juli 1992 tot vaststelling van de veterinairrechtelijke voorschriften voor het handelsverkeer en de invoer in de Gemeenschap van dieren, sperma, eicellen en embryo's waarvoor ten aanzien van de veterinairrechtelijke voorschriften geen specifieke communautaire regelgeving als bedoeld in bijlage A, onder I, van Richtlijn 90/425/EEG geldt (PbEG L 268);    i. geaccrediteerde keuringsinstantie:  keuringsinstantie, waarvan 
+In deze regeling wordt verstaan onder:   a. besluit:  Besluit eisen dierlijk sperma en spermawincentra;    b. Minister:  Minister van Economische Zaken, Landbouw en Innovatie;    c. NVWA:  Nederlandse Voedsel- en Warenautoriteit;    d. keuringsdierenarts:  dierenarts verbonden aan de NVWA;    e. winning:  hoeveelheid sperma die op een bepaald moment van een donor is verkregen;    f. dierenarts van het centrum:  dierenarts verbonden aan het paardenspermawincentrum;    g. hengst:  geslachtsrijpe paardachtige van het mannelijk geslacht die kennelijk bestemd is voor de fokkerij;    h. richtlijn 92/65/EEG:  Richtlijn 92/65/EEG van de Raad van Europese Gemeenschappen van 13 juli 1992 tot vaststelling van de veterinairrechtelijke voorschriften voor het handelsverkeer en de invoer in de Gemeenschap van dieren, sperma, eicellen en embryo's waarvoor ten aanzien van de veterinairrechtelijke voorschriften geen specifieke communautaire regelgeving als bedoeld in bijlage A, onder I, van Richtlijn 90/425/EEG geldt (PbEG L 268);    i. geaccrediteerde keuringsinstantie:  keuringsinstantie, waarvan 
 
 1. door de Nederlandse Raad voor Accreditatie of een gelijkwaardige buitenlandse instantie is verklaard dat de keuringsinstantie voldoet aan de criteria van EN 45004 en ISO 17020 en de relevante criteria van ISO 9001/9002, voorzover deze verklaring betrekking heeft op het opstellen van het in artikel 10 genoemde bedrijfsrapport, dan wel,  
 
@@ -129,7 +129,7 @@ d. naam en adres van de ontvanger of de leverancier;
 
 e. het paardenspermawincentrum waar het sperma gewonnen is, en  
 
-f. indien het buiten Nederland gewonnen sperma betreft, het nummer van het gezondheidscertificaat, bedoeld in [artikel 9.5, onderdeel c](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), of in [artikel 9.6, derde lid, onderdeel c, van de Regeling handel levende dieren en levende producten](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), alsmede de datum waarop dit sperma binnen Nederland is gebracht.     
+f. indien het buiten Nederland gewonnen sperma betreft, het nummer van het gezondheidscertificaat, bedoeld in artikel 9.5, onderdeel c, of in artikel 9.6, derde lid, onderdeel c, van de Regeling handel levende dieren en levende producten, alsmede de datum waarop dit sperma binnen Nederland is gebracht.     
 2.  Voor zover het sperma op het paardenspermawincentrum is geïnsemineerd, is de in artikel 12 bedoelde administratie is zodanig ingericht, dat daaruit op elk moment op eenvoudige wijze met betrekking tot elke inseminatie kan worden afgeleid: 
 
 a. de datum van de inseminatie;  
@@ -141,7 +141,7 @@ c. het identificatienummer van het geïnsemineerde dier.
 
 ### Artikel  14  
 
-Behoudens indien het sperma bestemd is om overeenkomstig de [Regeling handel levende dieren en levende producten](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md) buiten Nederland te worden gebracht, gaat een partij sperma bij afvoer van de kadastrale eenheid, waarop het paardenspermawincentrum is gelegen, vergezeld van een geleidebiljet, waarop met betrekking tot de partij de volgende gegevens zijn vermeld: 
+1.  Een partij sperma gaat bij afvoer van de kadastrale eenheid, waarop het paardenspermawincentrum is gelegen, vergezeld van een geleidebiljet, waarop met betrekking tot de partij de volgende gegevens zijn vermeld: 
 
 a. de datum van afvoer;  
 
@@ -153,7 +153,12 @@ d. het aantal doses sperma;
 
 e. de naam en het adres van de ontvanger, en  
 
-f. indien het buiten Nederland gewonnen sperma betreft, het nummer van het gezondheidscertificaat, bedoeld in [artikel 9.5, onderdeel c](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), of in [artikel 9.6, derde lid, onderdeel c, van de Regeling handel levende dieren en levende producten](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md), alsmede de datum waarop dit sperma binnen Nederland is gebracht.    
+f. indien het buiten Nederland gewonnen sperma betreft, het nummer van het gezondheidscertificaat, bedoeld in artikel 9.5, onderdeel c, of in artikel 9.6, derde lid, onderdeel c, van de Regeling handel levende dieren en levende producten, alsmede de datum waarop dit sperma binnen Nederland is gebracht.     
+2.  In afwijking van het eerste lid gaat een partij sperma bij afvoer van de kadastrale eenheid, waarop het paardenspermawincentrum is gelegen, vergezeld van: 
+
+a. een nationaal document, overeenkomstig de eisen op grond van 11, tweede lid, vierde gedachtestreepje, van richtlijn 92/65/EEG, indien een partij sperma bestemd is om overeenkomstig de Regeling handel levende dieren en levende producten buiten Nederland te worden gebracht, en voorafgaand daaraan in Nederland vervoerd wordt naar een nationaal spermawincentrum of nationaal spermaopslagcentrum of meerdere spermawincentra of spermaopslagcentra, of  
+
+b. een document als bedoeld in artikel 9.2, onderdeel c, van de Regeling handel levende dieren en levende producten, indien een partij sperma overeenkomstig die regeling rechtstreeks buiten Nederland wordt gebracht.     
 
 ### Artikel  15  
 
@@ -166,7 +171,7 @@ Het is de eigenaar of de exploitant van een paardenspermawincentrum dan wel dien
 
 ### Artikel  17  
 
-Behoudens indien het sperma bestemd is om overeenkomstig de [Regeling handel levende dieren en levende producten](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md) buiten Nederland te worden gebracht, is een partij sperma gedurende het vervoer en de verhandeling voorzien van het in artikel 14 bedoelde geleidebiljet.  
+Een partij sperma is gedurende het vervoer en de verhandeling voorzien van het document, bedoeld in artikel 14, eerste of tweede lid.  
 
 ### Artikel  18  
 

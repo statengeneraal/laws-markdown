@@ -5,7 +5,7 @@
 De Minister van Landbouw, Natuurbeheer en Visserij,  
 Gelet op Richtlijn nr. 88/407/EEG van de Raad van 14 juni 1988 tot vaststelling van de veterinairrechtelijke voorschriften van toepassing op het intracommunautaire handelsverkeer in sperma van runderen en de invoer daarvan (PbEG L 194);
 
-Gelet op de [artikelen 9](../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md), [10](../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md) en [13 van het Besluit eisen dierlijk sperma en spermawincentra](../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md);
+Gelet op de artikelen 9, 10 en 13 van het Besluit eisen dierlijk sperma en spermawincentra;
 Besluit:     
 ### §  1  
 
@@ -13,11 +13,11 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a.  *besluit:*   [Besluit eisen dierlijk sperma en spermawincentra](../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md);    b.  *minister:*   Minister van Landbouw, Natuurbeheer en Visserij;    c.  *VWA:*   Voedsel en Waren Autoriteit;    d.  *keuringsdierenarts:*   dierenarts verbonden aan de VWA;    e.  *winning:*   hoeveelheid sperma die op een bepaald moment van een donor is verkregen;    f.  *dierenarts van het centrum:*   dierenarts verbonden aan het erkende runderspermawincentrum;    g.  *quarantaineruimte:*   door de minister voor de toepassing van deze regeling erkende afzonderingsruimte waarin zich slechts runderen bevinden die tenminste dezelfde gezondheidsstatus bezitten.     
+In deze regeling wordt verstaan onder:   a.  *besluit:*   Besluit eisen dierlijk sperma en spermawincentra;    b.  *Minister:*   Minister van Economische Zaken, Landbouw en Innovatie;    c.  *NVWA:*   Nederlandse Voedsel- en Warenautoriteit;    d.  *keuringsdierenarts:*   dierenarts verbonden aan de NVWA;    e.  *winning:*   hoeveelheid sperma die op een bepaald moment van een donor is verkregen;    f.  *dierenarts van het centrum:*   dierenarts verbonden aan het erkende runderspermawincentrum;    g.  *quarantaineruimte:*   door de minister voor de toepassing van deze regeling erkende afzonderingsruimte waarin zich slechts runderen bevinden die tenminste dezelfde gezondheidsstatus bezitten.     
 
 ### Artikel  1a  
 
-Deze regeling berust mede op [artikel 107 van de wet](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md).  
+Deze regeling berust mede op artikel 107 van de wet.  
 
 ### §  2  
 
@@ -87,7 +87,7 @@ a. het ras;
 
 b. de geboortedatum;  
 
-c. het krachtens het [Besluit identificatie en registratie van dieren](../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md) toegekende identificatienummer;  
+c. het krachtens het Besluit identificatie en registratie van dieren toegekende identificatienummer;  
 
 d. gegevens inzake de uitgevoerde vaccinaties;  
 
@@ -107,13 +107,13 @@ a. het identificatienummer van het betrokken sperma;
 
 b. de datum waarop het sperma is verkregen;  
 
-c. het krachtens het [Besluit identificatie en registratie van dieren](../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md) aan de stier waarvan het sperma is gewonnen, toegekende identificatienummer, en  
+c. het krachtens het Besluit identificatie en registratie van dieren aan de stier waarvan het sperma is gewonnen, toegekende identificatienummer, en  
 
 d. het identificatienummer van het runderspermawincentrum.     
 
 ### Artikel  7  
 
-Een erkend laboratorium als bedoeld in bijlage B, hoofdstuk I, punt 2, en in bijlage B, hoofdstuk II, punt 2, van richtlijn 88/407/EEG, is een laboratorium dat door de minister op grond van [artikel 3 van de Regeling erkenning en aanwijzing veterinaire laboratoria](../../../../ministeriele-regeling/regeling/erkenning/en/aanwijzing/veterinaire/laboratoria/BWBR0019575/README.md) is erkend.  
+Een erkend laboratorium als bedoeld in bijlage B, hoofdstuk I, punt 2, en in bijlage B, hoofdstuk II, punt 2, van richtlijn 88/407/EEG, is een laboratorium dat door de minister op grond van artikel 3 van de Regeling erkenning en aanwijzing veterinaire laboratoria is erkend.  
 
 ### Artikel  8  
 
@@ -130,7 +130,7 @@ Een erkend laboratorium als bedoeld in bijlage B, hoofdstuk I, punt 2, en in bij
 
 a. de naam, het adres en de vestigingsplaats van het runderspermawincentrum;  
 
-b. het aan het runderspermawincentrum krachtens het [Besluit identificatie en registratie van dieren](../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md) uitgegeven uniek bedrijfsnummer;  
+b. het aan het runderspermawincentrum krachtens het Besluit identificatie en registratie van dieren uitgegeven uniek bedrijfsnummer;  
 
 c. een plattegrond van kadastrale eenheden waarop het runderspermawincentrum is gesitueerd, waarbij is aangegeven: 
 
@@ -147,7 +147,7 @@ e. de naam van de dierenarts van het centrum.
 
 ### Artikel  10  
 
-1.  De erkenning wordt door de minister verleend, nadat uit een door de keuringsdierenarts ingesteld onderzoek is gebleken, dat voldaan wordt aan de in [artikel 9, tweede lid, van het besluit](../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md) bedoelde voorschriften.   
+1.  De erkenning wordt door de minister verleend, nadat uit een door de keuringsdierenarts ingesteld onderzoek is gebleken, dat voldaan wordt aan de in artikel 9, tweede lid, van het besluit bedoelde voorschriften.   
 2.  De minister neemt gelijktijdig met de verlening van de erkenning, bedoeld in het eerste lid, een besluit omtrent de aanvraag om erkenning, bedoeld in artikel 15.   
 
 ### Artikel  11  
@@ -157,7 +157,7 @@ e. de naam van de dierenarts van het centrum.
 
 ### Artikel  12  
 
-1.  De minister trekt de verleende erkenning in, indien de keuringsdierenarts heeft geconstateerd dat de in [artikel 9, tweede lid](../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md), van het besluit bedoelde voorschriften niet worden nageleefd dan wel dat niet voldaan wordt aan artikel 11 tweede lid, en artikel 14, doch niet dan nadat gedurende een redelijke termijn gelegenheid is gegeven de voor het behoud van de erkenning noodzakelijke voorzieningen te treffen.   
+1.  De minister trekt de verleende erkenning in, indien de keuringsdierenarts heeft geconstateerd dat de in artikel 9, tweede lid, van het besluit bedoelde voorschriften niet worden nageleefd dan wel dat niet voldaan wordt aan artikel 11 tweede lid, en artikel 14, doch niet dan nadat gedurende een redelijke termijn gelegenheid is gegeven de voor het behoud van de erkenning noodzakelijke voorzieningen te treffen.   
 2.  De minister schorst de verleende erkenning, indien: 
 
 a. een of meer van de krachtens Bijlage B, Hoofdstuk II van richtlijn 88/407/EEG uit te voeren routinetests een positief resultaat heeft opgeleverd, of  
@@ -188,7 +188,7 @@ Een erkend runderspermawincentrum stelt de minister in kennis van elke wijziging
 
 a. de naam, het adres en de vestigingsplaats van de quarantaineruimte;  
 
-b. het aan de quarantaineruimte krachtens het [Besluit identificatie en registratie van dieren](../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md) uitgegeven uniek bedrijfsnummer;  
+b. het aan de quarantaineruimte krachtens het Besluit identificatie en registratie van dieren uitgegeven uniek bedrijfsnummer;  
 
 c. een plattegrond van kadastrale eenheden waarop de quarantaineruimte is gesitueerd, waarbij is aangegeven: 
 
@@ -221,7 +221,7 @@ e. de eigenaar of exploitant van de quarantaineruimte dan wel diens vertegenwoor
 
 f. de quarantaineruimte beschikt over een door de keuringsdierenarts vanuit één plaats op de quarantaineruimte te raadplegen register dat dagelijks wordt bijgehouden en dat zodanig is ingericht, dat daaruit te allen tijde op eenvoudige wijze met betrekking tot elk rund kan worden afgeleid: 
 
-het krachtens het [Besluit identificatie en registratie van dieren](../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md) toegekende identificatienummer;  
+het krachtens het Besluit identificatie en registratie van dieren toegekende identificatienummer;  
 
 gegevens inzake de uitgevoerde vaccinaties;  
 
@@ -263,7 +263,7 @@ c. de lichaamstemperatuur en de status van de stier;
 
 d. de eventuele calamiteiten die zich bij het verkrijgen van het sperma hebben voorgedaan;  
 
-e. het krachtens het [Besluit identificatie en registratie van dieren](../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md) aan de stier waarvan het sperma is gewonnen, toegekende identificatienummer, en  
+e. het krachtens het Besluit identificatie en registratie van dieren aan de stier waarvan het sperma is gewonnen, toegekende identificatienummer, en  
 
 f. de doses waarin de winning is verdeeld.     
 2.  De in het eerste lid bedoelde gegevens worden bewaard tot drie jaar nadat de laatste dosis van de betrokken winning van het runderspermawincentrum is afgevoerd.   
@@ -291,19 +291,24 @@ f. indien het buiten Nederland gewonnen sperma betreft, het nummer van het gezon
 
 ### Artikel  21  
 
-Behoudens indien het sperma bestemd is om overeenkomstig de Regeling handel levende dieren en levende producten buiten Nederland te worden gebracht, gaat een partij sperma bij afvoer van de kadastrale eenheid, waarop het runderspermawincentrum is gelegen, vergezeld van een geleidebiljet, waarop met betrekking tot de partij de volgende gegevens zijn vermeld: 
+1.  Een partij sperma gaat bij afvoer van de kadastrale eenheid, waarop het runderspermawincentrum is gelegen, vergezeld van een geleidebiljet, waarop met betrekking tot de partij de volgende gegevens zijn vermeld: 
 
 a. de datum van afvoer;  
 
 b. het identificatienummer van het betrokken sperma;  
 
-c. het krachtens het [Besluit identificatie en registratie van dieren](../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md) aan de stier waarvan het sperma is gewonnen, toegekende identificatienummer;  
+c. het krachtens het Besluit identificatie en registratie van dieren aan de stier waarvan het sperma is gewonnen, toegekende identificatienummer;  
 
 d. het aantal doses sperma;  
 
 e. de naam en het adres van de ontvanger, en  
 
-f. indien het buiten Nederland gewonnen sperma betreft, het nummer van het gezondheidscertificaat, bedoeld in artikel 9.5, onderdeel a, of in artikel 9.6, derde lid, onderdeel a, van de Regeling handel levende dieren en levende producten, alsmede de datum waarop dit sperma binnen Nederland is gebracht.    
+f. indien het buiten Nederland gewonnen sperma betreft, het nummer van het gezondheidscertificaat, bedoeld in artikel 9.5, onderdeel a, of in artikel 9.6, derde lid, onderdeel a, van de Regeling handel levende dieren en levende producten, alsmede de datum waarop dit sperma binnen Nederland is gebracht.     
+2.  In afwijking van het eerste lid gaat een partij sperma bij afvoer van de kadastrale eenheid, waarop het runderspermawincentrum is gelegen, vergezeld van: 
+
+a. een nationaal document, overeenkomstig de eisen op grond van artikel 6, eerste lid, van richtlijn 88/407/EEG, indien een partij sperma bestemd is om overeenkomstig de Regeling handel levende dieren en levende producten buiten Nederland te worden gebracht, en voorafgaand daaraan in Nederland vervoerd wordt naar een nationaal spermawincentrum of nationaal spermaopslagcentrum of meerdere spermawincentra of spermaopslagcentra, of  
+
+b. een document als bedoeld in artikel 9.2, onderdeel a, van de Regeling handel levende dieren en levende producten, indien een partij sperma overeenkomstig die regeling rechtstreeks buiten Nederland wordt gebracht.     
 
 ### Artikel  22  
 
@@ -320,7 +325,7 @@ Het is de eigenaar of exploitant van een runderspermawincentrum dan wel diens ve
 
 ### Artikel  24  
 
-Behoudens indien het sperma bestemd is om overeenkomstig de Regeling handel levende dieren en levende producten buiten Nederland te worden gebracht, is een partij sperma gedurende het vervoer en de verhandeling voorzien van het in artikel 21 bedoelde geleidebiljet.  
+Een partij sperma is gedurende het vervoer en de verhandeling voorzien van het document, bedoeld in artikel 21, eerste of tweede lid.  
 
 ### Artikel  25  
 
@@ -330,13 +335,13 @@ a. het identificatienummer van het betrokken sperma;
 
 b. de datum waarop het sperma is verkregen;  
 
-c. het krachtens het [Besluit identificatie en registratie van dieren](../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md) aan de stier waarvan het sperma is gewonnen, toegekende identificatienummer, en  
+c. het krachtens het Besluit identificatie en registratie van dieren aan de stier waarvan het sperma is gewonnen, toegekende identificatienummer, en  
 
 d. het identificatienummer van het runderspermawincentrum.    
 
 ### Artikel  25a  
 
-In afwijking van [artikel 11 van het besluit](../../../../AMvB/besluit/eisen/dierlijk/sperma/en/spermawincentra/BWBR0010619/README.md) is het toegestaan om rundersperma te vervoeren of te verhandelen, voor zover het rundersperma betreft dat is opgeslagen in een spermaopslagcentrum dat is erkend overeenkomstig [artikel 9.10a van de Regeling handel levende dieren en levende producten](../../../../ministeriele-regeling/regeling/handel/levende/dieren/en/levende/producten/BWBR0007049/README.md).  
+In afwijking van artikel 11 van het besluit is het toegestaan om rundersperma te vervoeren of te verhandelen, voor zover het rundersperma betreft dat is opgeslagen in een spermaopslagcentrum dat is erkend overeenkomstig artikel 9.10a van de Regeling handel levende dieren en levende producten.  
 
 ### §  6  
 

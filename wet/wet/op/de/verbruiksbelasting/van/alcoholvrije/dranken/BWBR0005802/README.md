@@ -357,7 +357,7 @@ De inspecteur beslist op een verzoek om teruggaaf bij voor bezwaar vatbare besch
 ### Artikel  35  
 
 1.  Pruimtabak en snuiftabak moeten bij de uitslag en de invoer zijn voorzien van het voor het desbetreffende produkt voorgeschreven belastingzegel.   
-2.  De [artikelen 73, tweede en derde lid, tot en met 76](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [77](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [78, eerste, tweede en vierde lid](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), en [79 van de Wet op de accijns](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) zijn van overeenkomstige toepassing, met dien verstande dat voor de overeenkomstige toepassing van [artikel 76, tweede lid, van de Wet op de accijns](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), de betaling uiterlijk kan worden gedaan op de laatste dag van de derde maand volgende op die waarin de belastingzegels zijn aangevraagd.   
+2.  De [artikelen 73, tweede en derde lid, tot en met 76](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [77](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [78, eerste, tweede en vierde lid](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), en [79 van de Wet op de accijns](../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) zijn van overeenkomstige toepassing.   
 
 ### Afdeling  2  
 

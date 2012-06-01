@@ -1122,7 +1122,7 @@ De inspecteur beslist op een verzoek om teruggaaf bij voor bezwaar vatbare besch
 
 ### Artikel  73  
 
-1.  Tabaksproducten moeten bij de uitslag tot verbruik zijn voorzien van het voor het desbetreffende tabaksproduct voorgeschreven accijnszegel.   
+1.  Tabaksproducten moeten bij de uitslag tot verbruik zijn voorzien van het voor het desbetreffende tabaksproduct voorgeschreven accijnszegel. De accijnszegels zijn staatseigendom.   
 2.  Tabaksproducten die zijn bestemd voor het verbruik, bedoeld in artikel 2, tweede lid, mogen niet zijn voorzien van een accijnszegel.   
 3.  Bij ministeriële regeling kunnen, onder daarbij te stellen voorwaarden, gevallen worden aangewezen waarin het eerste lid niet van toepassing is.   
 
@@ -1140,40 +1140,77 @@ d. tabaksproducten opslaat die zijn bestemd voor de in artikel 66a bedoelde bevo
 
 ### Artikel  75  
 
-1.  Accijnszegels kunnen worden aangevraagd bij de inspecteur door: 
+1.  Accijnszegels kunnen worden aangevraagd bij de zegelproducent door: 
 
-a. de vergunninghouder van een accijnsgoederenplaats voor tabaksprodukten;  
+a. de vergunninghouder van een accijnsgoederenplaats voor tabaksproducten;  
 
-b. degene die buiten Nederland tabaksprodukten van accijnszegels voorziet.     
-2.  In bij ministeriële regeling aan te wijzen gevallen kan, onder daarbij te stellen voorwaarden, worden bepaald dat door anderen dan degenen die zijn bedoeld in het eerste lid, accijnszegels kunnen worden aangevraagd.   
-3.  Bij ministeriële regeling worden regels gesteld omtrent het aanvragen, het verkrijgbaar stellen en het verstrekken van accijnszegels.   
-4.  De inspecteur beslist op de aanvraag om accijnszegels bij voor bezwaar vatbare beschikking.   
+b. de in Nederland gevestigde geregistreerde geadresseerde;  
+
+c. de fiscaal vertegenwoordiger van een niet in Nederland gevestigd bedrijf die buiten Nederland tabaksproducten van accijnszegels voorziet;  
+
+d. een in Nederland gevestigd bedrijf dat buiten Nederland tabaksproducten van accijnszegels voorziet.   De inspecteur beslist bij afwijzing van de aanvraag van accijnszegels bij voor bezwaar vatbare beschikking.   
+2.  Degene die accijnszegels wil aanvragen verzoekt bij de inspecteur om toestemming voor het aanvragen van accijnszegels. De inspecteur beslist op de aanvraag alsmede het intrekken van een toestemming bij voor bezwaar vatbare beschikking.   
+3.  Indien de fiscaal vertegenwoordiger, bedoeld in het eerste lid, onderdeel c, toestemming als bedoeld in het tweede lid wil verkrijgen ten behoeve van meerdere bedrijven, moet voor elk bedrijf afzonderlijk toestemming worden verkregen.   
+4.  Bij ministeriële regeling worden voorwaarden en beperkingen gesteld waaronder de toestemming, bedoeld in het tweede lid, wordt verleend.   
+5.  De toestemming voor de aanvraag van accijnszegels kan door de inspecteur worden ingetrokken ingeval: 
+
+a. niet wordt voldaan aan de bij ministeriële regeling bepaalde voorwaarden of de in de toestemming opgenomen voorwaarden;  
+
+b. geen of niet voldoende zekerheid is gesteld;  
+
+c. misbruik van de toestemming is gemaakt of een poging daartoe is gedaan;  
+
+d. degene aan wie de toestemming is verleend onherroepelijk is veroordeeld wegens het niet nakomen van een wettelijke bepaling inzake de accijns;  
+
+e. degene aan wie de toestemming is verleend in staat van faillissement verkeert of ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is;  
+
+f. degene aan wie de toestemming is verleend daarom verzoekt.     
+6.  Bij of krachtens algemene maatregel van bestuur kunnen voorwaarden worden gesteld waaraan door degene die de accijnszegels aanvraagt moet worden voldaan.   
+7.  Van accijnszegels voorziene tabaksproducten worden uitgeslagen tot verbruik door degene die de accijnszegels heeft aangevraagd.   
+8.  In afwijking van het zevende lid kan onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen worden bepaald dat de tabaksproducten door een ander tot verbruik worden uitgeslagen.   
+9.  Bij ministeriële regeling worden regels gesteld omtrent het aanvragen, het verkrijgbaar stellen, het verstrekken en het gebruik van accijnszegels.   
 
 ### Artikel  76  
 
-1.  Het bedrag aan accijns dat de accijnszegels blijkens de op de zegels aangebrachte gegevens vertegenwoordigen moet worden betaald bij de aanvraag om de accijnszegels.   
-2.  In afwijking van het eerste lid kan, indien daarvoor zekerheid is gesteld, de betaling uiterlijk worden gedaan op de laatste dag van de tweede maand volgende op die waarin de accijnszegels zijn aangevraagd, indien de accijnszegels zijn bestemd om te worden aangebracht op verpakkingen voor sigaretten of rooktabak, dan wel op de laatste dag van de derde maand volgende op die waarin de accijnszegels zijn aangevraagd, indien de accijnszegels zijn bestemd om te worden aangebracht op verpakkingen voor sigaren dan wel zijn bestemd voor het stuksgewijs zegelen van sigaren.   
-3.  Het bedrag van de zekerheid wordt vastgesteld door de inspecteur. De vaststelling geschiedt tot een zodanig bedrag dat het bedrag aan accijns dat de zegels vertegenwoordigen voldoende verzekerd kan worden geacht.   
-4.  Met betrekking tot de zekerheid als bedoeld in het tweede lid zijn de artikelen 57 tot en met 60 van overeenkomstige toepassing.   
-5.  Indien de vergunninghouder van een accijnsgoederenplaats zekerheid heeft gesteld op de voet van artikel 56 kan die zekerheid mede dienen als zekerheid als bedoeld in het tweede lid.   
-6.  Op de verschuldigd geworden betaling is de [Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) van toepassing als ware de betaling accijns.   
-
-### Artikel  76a  
-
-1.  Op verzoek wordt teruggaaf verleend van het bedrag dat overeenkomstig artikel 76 is betaald bij de aanvraag van de accijnszegels, indien accijnszegels op tabaksproducten zijn aangebracht en met betrekking tot deze tabaksproducten de accijns in een andere lidstaat verschuldigd geworden en geïnd is, en de verwijdering of de vernietiging van de accijnszegels ten genoegen van de inspecteur wordt aangetoond.   
-2.  De teruggaaf wordt verleend aan diegene die overeenkomstig het bepaalde in artikel 75 de accijnszegels heeft aangevraagd.   
-3.  Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van de teruggaaf.   
+1.  Om de in artikel 75, tweede lid, bedoelde toestemming te kunnen verkrijgen stelt degene die de accijnszegels aanvraagt zekerheid voor het bedrag aan accijns en omzetbelasting dat de accijnszegels vertegenwoordigen.   
+2.  Het bedrag van de zekerheid wordt door de inspecteur vastgesteld bij voor bezwaar vatbare beschikking. De vaststelling geschiedt tot een zodanig bedrag dat het bedrag aan accijns en omzetbelasting dat de zegels vertegenwoordigen voldoende verzekerd kan worden geacht.   
+3.  Indien de vergunninghouder van een accijnsgoederenplaats en de geregistreerde geadresseerde zekerheid hebben gesteld op de voet van artikel 56 kan die zekerheid mede dienen als zekerheid als bedoeld in het eerste lid.   
+4.  Met betrekking tot de zekerheid, bedoeld in het eerste lid, zijn de artikelen 57 tot en met 60 van overeenkomstige toepassing.   
+5.  Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.   
 
 ### Artikel  77  
 
-1.  Op het bedrag aan accijns dat over een tijdvak op aangifte moet worden voldaan wordt in mindering gebracht het bedrag dat is betaald dan wel verschuldigd is ter zake van de aanvraag om de accijnszegels die zijn aangebracht op de tabaksproducten waarvoor over dat tijdvak aangifte wordt gedaan wegens het buiten de accijnsgoederenplaats brengen van die producten.   
-2.  Op het bedrag aan accijns dat op aangifte, anders dan over een tijdvak, moet worden voldaan ter zake van de als uitslag tot verbruik aangemerkte ontvangst van tabaksproducten door de geregistreerde geadresseerde wordt in mindering gebracht het bedrag dat is betaald dan wel verschuldigd is ter zake van de aanvraag om de accijnszegels die zijn aangebracht op de binnen Nederland gebrachte tabaksproducten.   
-3.  Op het bedrag aan accijns dat moet worden voldaan ter zake van de uitslag tot verbruik, bedoeld in artikel 2, eerste lid, onderdeel d van tabaksproducten wordt in mindering gebracht het bedrag dat is betaald dan wel verschuldigd is ter zake van de aanvraag om de accijnszegels die zijn aangebracht op de ingevoerde tabaksproducten.   
+1.  Accijnszegels die zijn ontvangen door degene die de zegels heeft aangevraagd en waarvan niet is aangetoond dat zij zijn aangebracht op tabaksproducten die zijn uitgeslagen tot verbruik, worden geacht te zijn vermist.   
+2.  Als vermiste accijnszegels worden niet aangemerkt accijnszegels die: 
+
+a. deel uitmaken van de zegelvoorraad;  
+
+b. retour zijn gezonden aan de inspecteur;  
+
+c. onder ambtelijk toezicht zijn vernietigd;  
+
+d. verloren zijn gegaan door overmacht of ongeval;  
+
+e. op tabaksproducten zijn aangebracht en waarvoor de accijns in een andere lidstaat verschuldigd is geworden, en de verwijdering of vernietiging van de accijnszegels ten genoegen van de inspecteur wordt aangetoond.     
+3.  Vanaf het moment dat de accijnszegels door of namens degene die de accijnszegels heeft aangevraagd in ontvangst zijn genomen op het distributiepunt, is degene die de accijnszegels heeft aangevraagd aansprakelijk voor het bedrag aan accijns en omzetbelasting dat de accijnszegels vertegenwoordigen.   
+4.  Degene die de accijnszegels heeft aangevraagd moet het bedrag aan accijns en omzetbelasting dat de vermiste accijnszegels vertegenwoordigen betalen.   
+5.  Het bedrag aan accijns en omzetbelasting dat de vermiste accijnszegels vertegenwoordigen wordt door de inspecteur vastgesteld bij voor bezwaar vatbare beschikking. Bij vaststelling van het bedrag aan accijns en omzetbelasting dat de vermiste accijnszegels vertegenwoordigen maakt de inspecteur het volgende onderscheid: 
+
+a. onbedrukte blanco accijnszegels: een bedrag aan accijns en omzetbelasting behorend bij een gewogen gemiddelde prijs en hoeveelheid per zegelaanvrager op het moment waarop het vermis wordt vastgesteld naar het op dat moment geldende tarief;  
+
+b. bedrukte accijnszegels: het bedrag wordt afgeleid uit in de administratie opgenomen prijs en hoeveelheid die is vermeld op de vermiste zegels naar het op dat moment geldende tarief.     
+6.  Voor de toepassing van dit artikel en de daarop gebaseerde bepalingen wordt verstaan onder: 
+
+a. *onbedrukte blanco accijnszegels:* accijnszegels die niet als bedrukte accijnszegels kunnen worden aangemerkt;  
+
+b. *bedrukte accijnszegels:* accijnszegels voor sigaretten of rooktabak die zijn voorzien van de gegevens met betrekking tot de soort tabaksproduct, de kleinhandelsprijs, de hoeveelheid en de tariefcode of accijnszegels voor sigaren die zijn voorzien van de gegevens met betrekking tot de soort tabaksproduct en de kleinhandelsprijs.     
+7.  Op de betaling als bedoeld in het vierde lid zijn de [Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en de [Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) van toepassing.   
+8.  Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.   
 
 ### Artikel  78  
 
 1.  De accijnszegels worden aangebracht op de kleinhandelsverpakking van tabaksprodukten.   
-2.  De accijnszegels voor sigaretten en rooktabak vermelden de kleinhandelsprijs, de soort en het aantal stuks of de massa van het tabaksproduct waarop de zegels worden aangebracht. De accijnszegels voor sigaren vermelden de kleinhandelsprijs en de soort van het tabaksproduct waarop de zegels worden aangebracht.   
+2.  De accijnszegels voor sigaretten en rooktabak vermelden de kleinhandelsprijs, de tariefcode, de soort en het aantal stuks of de massa van het tabaksproduct waarop de zegels worden aangebracht. De accijnszegels voor sigaren vermelden de kleinhandelsprijs en de soort van het tabaksproduct waarop de zegels worden aangebracht.   
 3.  In afwijking van het eerste lid mogen sigaren stuksgewijs van een accijnszegel worden voorzien.   
 4.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot: 
 
@@ -1185,15 +1222,8 @@ c. de wijze van verpakking, de grootte van de inhoud van de verpakking en de op 
 
 ### Artikel  79  
 
-1.  Accijnszegels die niet of die verkeerd zijn aangebracht doch niet zijn beschadigd mogen door degene die de zegels heeft aangevraagd, onder bij ministeriële regeling te stellen voorwaarden, worden teruggezonden aan de inspecteur.   
-2.  Bij ministeriële regeling kan, onder daarbij te stellen voorwaarden en beperkingen, worden toegestaan dat accijnszegels worden vernietigd onder ambtelijk toezicht.   
-3.  Bij ministeriële regeling worden, onder daarbij te stellen voorwaarden en beperkingen, regels gesteld met betrekking tot het verrekenen of teruggeven van het bedrag dat is betaald of nog verschuldigd is ter zake van de aanvraag om accijnszegels die: 
-
-a. zijn teruggezonden door degene die de zegels heeft aangevraagd;  
-
-b. zonder aangebracht te zijn geweest op tabaksproducten die zijn uitgeslagen tot verbruik, zijn verloren gegaan ten gevolge van overmacht of ongeval;  
-
-c. zijn vernietigd onder ambtelijk toezicht.     
+1.  Op verzoek van degene die de zegels heeft aangevraagd kunnen accijnszegels onder ambtelijk toezicht worden vernietigd.   
+2.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het retour zenden van accijnszegels en de vernietiging van accijnszegels onder ambtelijk toezicht.   
 
 ### Afdeling  2  
 
@@ -1354,7 +1384,7 @@ b. een hogere prijs dan die is vermeld op de accijnszegels.
 
 ### Artikel  95a  
 
-1.  Ingeval er een autonome accijnsverhoging van de totale accijns van sigaretten of rooktabak plaatsvindt en er tussen de publicatiedatum van de als gevolg hiervan ontstane nieuwe accijnstarieven voor deze tabaksproducten en de ingangsdatum van deze nieuwe accijnstarieven ten minste twee maanden zijn gelegen, is het vanaf de eerste dag van de tweede kalendermaand volgend op de maand waarin de accijnswijziging plaatsvindt niet toegestaan dat tabaksproduct aan wederverkopers te verkopen, te koop aan te bieden of af te leveren indien de verpakking voorzien is van de vóór de ingangsdatum van de nieuwe accijnstarieven bij de uitslag tot verbruik voor het desbetreffende tabaksproduct voorgeschreven accijnszegel.   
+1.  Ingeval er een autonome accijnsverhoging van de totale accijns van sigaretten of rooktabak plaatsvindt en er tussen de publicatiedatum van de als gevolg hiervan ontstane nieuwe accijnstarieven voor deze tabaksproducten en de ingangsdatum van deze nieuwe accijnstarieven ten minste twee maanden zijn gelegen, is het vanaf de eerste dag van de kalendermaand volgend op de maand waarin de accijnswijziging plaatsvindt niet toegestaan dat tabaksproduct aan wederverkopers te verkopen, te koop aan te bieden of af te leveren indien de verpakking voorzien is van de vóór de ingangsdatum van de nieuwe accijnstarieven bij de uitslag tot verbruik voor het desbetreffende tabaksproduct voorgeschreven accijnszegel.   
 2.  Voor de toepassing van dit artikel wordt verstaan onder: 
 
 a. autonome accijnsverhoging: wijziging van de accijnstarieven, genoemd in artikel 35, die wat betreft de totale accijns tot een verhoging leidt, en die niet voortvloeit uit artikel 36;  
@@ -1369,7 +1399,7 @@ c. pijptabak: rooktabak als bedoeld in artikel 32, bestemd om te worden gerookt 
 
 ### Artikel  96  
 
-Het is een vergunninghouder van een accijnsgoederenplaats voor tabaksprodukten niet toegestaan: 
+Het is een ieder die toestemming heeft om accijnszegels aan te vragen niet toegestaan: 
 
 a. gebruikte accijnszegels voorhanden te hebben;  
 
