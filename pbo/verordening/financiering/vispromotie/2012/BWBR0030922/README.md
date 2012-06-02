@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Vis van 29 september 2011, houdende regels ter zake van de aan de onder het Productschap Vis ressorterende ondernemers op te leggen bestemmingsheffing ten behoeve van vispromotie voor het jaar 2012 (Verordening financiering vispromotie 2012)
 
 Het bestuur van het Productschap Vis;  
-Gelet op de [artikelen 95](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 7 van het Instellingsbesluit Productschap Vis](../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md) (*Stb.* 2003, 253);
+Gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie en artikel 7 van het Instellingsbesluit Productschap Vis (*Stb.* 2003, 253);
 Besluit:    
 
 ### Artikel  1  
@@ -11,14 +11,14 @@ Besluit:
 1.  In deze verordening wordt verstaan onder:  
 
 | --- | --- | --- |
-|:---|:---|:---|
-| a. Instellingsbesluit  | :  | [Besluit van 3 juni 2003, houdende instelling van een productschap Productschap Vis voor ondernemingen op het gebied van de visserij, de be- en verwerking van vis en de handel in vis en visproducten](../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md) (*Stb.* 2003, 253);  |
-| b. productschap  | :  | het Productschap Vis, als bedoeld in [artikel 3 van het Instellingsbesluit Productschap Vis](../../../../../../AMvB/instellingsbesluit/productschap/vis/BWBR0015163/README.md);  |
+|---|---|---|
+| a. Instellingsbesluit  | :  | Besluit van 3 juni 2003, houdende instelling van een productschap Productschap Vis voor ondernemingen op het gebied van de visserij, de be- en verwerking van vis en de handel in vis en visproducten (*Stb.* 2003, 253);  |
+| b. productschap  | :  | het Productschap Vis, als bedoeld in artikel 3 van het Instellingsbesluit Productschap Vis;  |
 | c.bestuur  | :  | het bestuur van het productschap;  |
 | d. voorzitter  | :  | de voorzitter van het productschap;  |
 | e. secretaris  | :  | de secretaris van het productschap;  |
 | f. ondernemer  | :  | degene, die een onderneming drijft, waarvoor het productschap is ingesteld;  |
-| g. fonds  | :  | het fonds ingesteld krachtens [artikel 2, eerste lid, van de Verordening instelling van een fonds voor promotie 2007](../../../../../../pbo/verordening/instelling/van/een/fonds/voor/promotie/2007/BWBR0023232/README.md);  |
+| g. fonds  | :  | het fonds ingesteld krachtens artikel 2, eerste lid, van de Verordening instelling van een fonds voor promotie 2007;  |
 | h. vis  | :  | vissen, schaal- en schelpdieren, delen van vissen alsmede van schaal-en schelpdieren en puf en nest, een en ander met uitzondering van sier- en aquariumdieren, pootvis en mosselen;  |
 | i. visproducten  | :  | uit vis verkregen producten, welke al dan niet na verdere be- of verwerking, tot menselijk of dierlijk voedsel kunnen dienen;  |
 | j. visserij  | :  | het bedrijf van het vangen of kweken van vissen, schaal- en schelpdieren en puf en nest, een en ander met uitzondering van sieren aquariumdieren;  |
@@ -38,7 +38,7 @@ Besluit:
 | x. nonnetjes  | :  | schelpdieren uit het geslacht *Macoma*;  |
 | y. haring  | :  | alle vis behorende tot de soort *Clupea harengus*, welke al dan niet is gekaakt, gezouten of gerijpt en al dan niet bevroren, schoongemaakt of gefileerd is, vol- en halfconserven daaronder niet begrepen;  |
 | z. maatjesharing  | :  | haring, welke in de periode van 1 mei 2012 tot en met 31 juli 2012 is gevangen en bestemd is om na be- of verwerking geconsumeerd te worden als Hollandse Nieuwe of maatjesharing;  |
-| aa. zeevis  | :  | vis verkregen door uitoefening van de visserij met een kotter zeewaarts vanaf een basislijn of door uitoefening van de kustvisserij in de zin van [artikel 1, vierde lid onder c, van de Visserijwet 1963](../../../../../../wet/visserijwet/1963/BWBR0002416/README.md), met uitzondering van mosselen, oesters, kokkels, spisula, zwaardscheden en mesheften, en nonnetjes;  |
+| aa. zeevis  | :  | vis verkregen door uitoefening van de visserij met een kotter zeewaarts vanaf een basislijn of door uitoefening van de kustvisserij in de zin van artikel 1, vierde lid onder c, van de Visserijwet 1963, met uitzondering van mosselen, oesters, kokkels, spisula, zwaardscheden en mesheften, en nonnetjes;  |
 | bb. kweekvis  | :  | forel, meerval, tilapia, paling en tarbot die in Nederland wordt gekweekt en gehouden in recirculatiesystemen en vijvers ten behoeve van productiedoeleinden gericht op menselijke consumptie;  |
 | cc. pootvis  | :  | levende jonge vis, schaal- of schelpdieren die bestemd zijn voor de kweek van kweekvis;  |
 | dd. aanvoeren  | :  | het als eerste eigenaar voor de eerste keer of het met behulp van de spanvisserij aan land brengen van vis;  |
@@ -53,7 +53,7 @@ Besluit:
 
 ### Artikel  1a  
 
-Onder het productschap ressorterende ondernemers zijn wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2012 tot en met 31 december 2012 aan en ten behoeve van het productschap een heffing verschuldigd volgens de in de artikelen 2, 3 en 4 vermelde heffingsgrondslagen met de daarbij behorende tarieven. De berekening en de wijze van betaling vinden plaats, zoals in de [Verordening Algemene Bepalingen Productschap Vis 2006](../../../../../../pbo/verordening/algemene/bepalingen/productschap/vis/2006/BWBR0021756/README.md) is bepaald.  
+Onder het productschap ressorterende ondernemers zijn wegens de uitoefening van hun bedrijfsactiviteiten in de periode van 1 januari 2012 tot en met 31 december 2012 aan en ten behoeve van het productschap een heffing verschuldigd volgens de in de artikelen 2, 3 en 4 vermelde heffingsgrondslagen met de daarbij behorende tarieven. De berekening en de wijze van betaling vinden plaats, zoals in de Verordening Algemene Bepalingen Productschap Vis 2006 is bepaald.  
 
 ### Artikel  2  
 
@@ -86,7 +86,7 @@ b. De heffing wegens de handeling, bedoeld in artikel 2, onder b, bedraagt € 0
 c. De heffing wegens de handeling, bedoeld in artikel 2, onder b, bedraagt 0,66 promille van het aankoopbedrag van de van een trawler gekochte zeevis.     
 3.  De heffing wegens de handeling, bedoeld in artikel 2, onder c, bedraagt 0,17 promille van het inkoopbedrag van de ingekochte vis of visproducten.   
 4.  De heffing wegens de handeling, bedoeld in artikel 2, onder d, bedraagt € 137,50 per verkooppunt per kalenderjaar. Onder verkooppunt wordt onder meer verstaan een viswinkel, een webwinkel, een viskraam of een visverkoopwagen.   
-5.  Onverminderd het bepaalde in het derde lid, bedraagt de heffing wegens de handeling, bedoeld in artikel 2, onder e, 7,5 promille van het inkoopbedrag van de ingekochte maatjesharing.   
+5.  Onverminderd het bepaalde in het derde lid, bedraagt de heffing wegens de handeling, bedoeld in artikel 2, onder e, 0 promille van het inkoopbedrag van de ingekochte maatjesharing.   
 6.  
 
 a. De waarde van de aangevoerde zeevis, als bedoeld in het eerste lid onder a, wordt vastgesteld overeenkomstig artikel 4, eerste en tweede lid.  
