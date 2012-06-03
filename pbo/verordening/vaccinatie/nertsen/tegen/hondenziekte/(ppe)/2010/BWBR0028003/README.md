@@ -3,9 +3,9 @@
 ##Verordening van het Productschap Pluimvee en Eieren van 8 april 2010 houdende regels ter zake van de vaccinatie van nertsen tegen hondenziekte (Verordening vaccinatie nertsen tegen hondenziekte (PPE) 2010)
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op de [artikelen 93](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [102](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en de [artikelen 6](../../../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md) en [7 van het Instellingsbesluit Productschap Pluimvee en Eieren](../../../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md);
+Gelet op de artikelen 93, 95, 102 en 104 van de Wet op de bedrijfsorganisatie, en de artikelen 6 en 7 van het Instellingsbesluit Productschap Pluimvee en Eieren;
 
-Gezien de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md);
+Gezien de Wet tuchtrechtspraak bedrijfsorganisatie 2004;
 Besluit:     
 
 ####Definities
@@ -15,7 +15,7 @@ Besluit:
 In deze verordening wordt verstaan onder:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 1.  | productschap  | : Productschap Pluimvee en Eieren;  |
 | 2.  | bestuur  | : bestuur van het productschap;  |
 | 3.  | voorzitter  | : voorzitter van het productschap;  |
@@ -24,7 +24,7 @@ In deze verordening wordt verstaan onder:
 | 6.  | nertsenhouderij  | : het al dan niet voor eigen rekening en risico bedrijfsmatig houden van nertsen;  |
 | 7.  | fokdier  | : nerts die gepaard heeft of tenminste één jaar oud is;  |
 | 8.  | pup  | : Zogende nog niet gespeende nerts;  |
-| 9.  | opgroeiende nerts  | : nerts die gescheiden is van de moeder, jonger dan één jaar oud en die nog niet heeft gepaard;  |
+| 9.  | opgroeiende nerts  | : niet meer zogende nerts, van een leeftijd jonger dan één jaar, die nog niet heeft gepaard;  |
 | 10.  | hondenziekte  | : virusziekte bij de hond(achtigen), zeehonden en nertsen, veroorzaakt door een Morbilli-virus, ook ziekte van Carré, "hard pad disease" en Canine distemper genoemd;  |
 | 11.  | GD  | : Gezondheidsdienst voor Dieren B.V., gevestigd te Deventer.  |
 
@@ -32,12 +32,12 @@ In deze verordening wordt verstaan onder:
 
 ### Artikel  2  
 
-1.  De nertsenhouder zorgt er voor dat een door hem gehouden fokdier, met inachtneming van het bepaalde in het zesde lid, wordt gevaccineerd tegen de hondenziekte op een leeftijd tussen 12 maanden en 18 maanden.   
+1.  De nertsenhouder zorgt er voor dat een door hem gehouden fokdier, met inachtneming van het bepaalde in het zesde lid, jaarlijks in de periode vanaf 1 december tot 1 maart wordt gevaccineerd tegen de hondenziekte.   
 2.  De nertsenhouder zorgt er voor dat een door hem gehouden fokdier dat conform het eerste lid is gevaccineerd, uiterlijk binnen twaalf maanden na de in het eerste lid bedoelde vaccinatie voor een tweede keer wordt gevaccineerd tegen de hondenziekte, met inachtneming van het bepaalde in het zesde lid.   
 3.  In het geval een fokdier op jongere leeftijd dan 12 maanden al eenmaal is gevaccineerd tegen de hondenziekte, zorgt de nertsenhouder er voor dat dit fokdier uiterlijk binnen twaalf maanden na de eerste vaccinatie voor een tweede keer wordt gevaccineerd tegen de hondenziekte, met inachtneming van het bepaalde in het zesde lid.   
 4.  De nertsenhouder zorgt er voor dat een door hem gehouden fokdier uiterlijk op een leeftijd van 24 maanden twee maal is gevaccineerd tegen de hondenziekte, met inachtneming van het bepaalde in het zesde lid.   
-5.  De nertsenhouder zorgt er voor dat voorafgaand aan de ontvangst van een nerts op een locatie waar de nertsenhouderij wordt uitgeoefend, de aldaar gehouden nertsen al gevaccineerd zijn tegen de hondenziekte, met inachtneming van het bepaalde in het zesde lid.   
-6.  De nertsen worden in overeenstemming met het in de [Wet uitoefening diergeneeskunde](../../../../../../../../../wet/wet/op/de/uitoefening/van/de/diergeneeskunde/1990/BWBR0004730/README.md) bepaalde en met een conform de [Diergeneesmiddelenwet](../../../../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md) voor dat doel geregistreerd vaccin, tegen de hondenziekte gevaccineerd.   
+5.   Vervallen.    
+6.  De nertsen worden in overeenstemming met het in de Wet uitoefening diergeneeskunde bepaalde en met een conform de Diergeneesmiddelenwet voor dat doel geregistreerd vaccin, tegen de hondenziekte gevaccineerd.   
 7.  De nertsenhouder is verplicht verschijnselen die kunnen duiden op de aanwezigheid van hondenziekte op zijn bedrijf, dan wel enige verdenking van de aanwezigheid van de hondenziekte onverwijld te melden of namens hem door zijn dierenarts te laten melden aan de GD.   
 8.  De voorzitter kan de GD verzoeken om namens hem onderzoek te doen naar de aanwezigheid van hondenziekte op een locatie waar de nertsenhouderij wordt uitgeoefend.   
 
@@ -59,20 +59,20 @@ In deze verordening wordt verstaan onder:
 
 a. het logboek als bedoeld in het eerste lid;  
 
-b. de rekeningen inzake aankoop van vaccins tegen de hondenziekte;  
+b.  vervallen;   
 
 c. de controlebevindingen als bedoeld in artikel 5;  
 
 d. het ingevulde formulier, bedoeld in het vijfde lid.     
 3.  De nertsenhouder is verplicht om een zodanige administratie te voeren inzake de aantallen gehouden nertsen en de ontvangen en afgevoerde nertsen zodat deze administratie te allen tijde op een eenvoudige wijze kan worden gekend.   
-4.  Het bestuur stelt bij besluit een modelformulier vast waarin de te vermelden gegevens zijn bepaald. Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.   
+4.  Het bestuur stelt bij besluit een modelformulier vast waarin een vaccinatieverklaring is opgenomen. Dit besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.   
 5.  De nertsenhouder draagt er voor zorg dat het formulier als bedoeld in het vierde lid, naar waarheid en volledig wordt ingevuld en door hem wordt ondertekend.   
 
 ####Controle
 
 ### Artikel  5  
 
-1.  De nertsenhouder laat zich jaarlijks controleren op de naleving van het bepaalde in deze verordening door een door de voorzitter op voet van de voorwaarden als bepaald in het [Besluit erkenningsvoorwaarden controle-instanties Verordening welzijnsnormen nertsen (PPE) 2003, Verordening welzijnsnormen vleeskalkoenen 2003 en Verordening welzijnsnormen vleeskuikenouderdieren 2003 (PPE) 2006](../../../../../../../../../pbo/besluit/erkenningsvoorwaarden/controle-instanties/verordening/etc/BWBR0019559/README.md) erkende private controleorganisatie.   
+1.  De nertsenhouder laat zich jaarlijks controleren op de naleving van het bepaalde in deze verordening door een door de voorzitter op voet van de voorwaarden als bepaald in het Besluit erkenningsvoorwaarden controle-instanties Verordening welzijnsnormen nertsen (PPE) 2003, Verordening welzijnsnormen vleeskalkoenen 2003 en Verordening welzijnsnormen vleeskuikenouderdieren 2003 (PPE) 2006 erkende private controleorganisatie.   
 2.  De nertsenhouder draagt er voor zorg dat de controlebevindingen zo spoedig mogelijk en uiterlijk binnen een maand na de uitgevoerde controle, door de controleorganisatie als bedoeld in het eerste lid, schriftelijk aan de voorzitter worden verzonden.   
 
 ####Toezicht
@@ -87,7 +87,7 @@ d. het ingevulde formulier, bedoeld in het vijfde lid.
 
 ### Artikel  7  
 
-Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md).  
+Op overtreding van het bepaalde bij of krachtens deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de Wet tuchtrechtspraak bedrijfsorganisatie 2004.  
 
 ####Gegevensverstrekking
 
