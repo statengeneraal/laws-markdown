@@ -12,9 +12,9 @@ De Raad van State gehoord (advies van 19 augustus 1998 no. W09.98.0214);
 
 Gezien het nader rapport van de Staatssecretaris van Verkeer en Waterstaat van 3 november 1998, nr HDTP/98/3248/HW, Hoofddirectie Telecommunicatie en Post;
 Hebben goedgevonden en verstaan:     
-### HOOFDSTUK  1  
+### Hoofdstuk  1  
 
-####ALGEMENE BEPALINGEN
+####Algemene bepalingen
 
 ### Artikel  1  
 
@@ -26,9 +26,9 @@ b. vergunning: vergunning als bedoeld in [artikel 3.3, eerste lid, van de wet](.
 
 c. antenneregister: openbaar antenneregister als bedoeld in [artikel 3.14 van de wet](../../../wet/telecommunicatiewet/BWBR0009950/README.md).    
 
-### HOOFDSTUK  2  
+### Hoofdstuk  2  
 
-####BESLUITVORMING MET BETREKKING TOT DE PROCEDURE VAN VERGUNNINGVERLENING
+####Besluitvorming met betrekking tot de procedure van vergunningverlening
 
 ### Paragraaf  1  
 
@@ -187,7 +187,8 @@ Bij ministeriële regeling worden regels gesteld omtrent de indiening van de aan
 
 1.  Een vergunning wordt op aanvraag verlengd, tenzij een doelmatige ordening van het frequentiespectrum zich daartegen verzet.   
 2.  Bij verlenging van een vergunning kunnen de aan de vergunning verbonden voorschriften of beperkingen worden gewijzigd en kunnen nieuwe voorschriften of beperkingen aan de vergunning worden toegevoegd.   
-3.  Bij ministeriële regeling kunnen inzake de verlenging van vergunningen nadere regels worden gesteld. Deze regels kunnen per te verlenen vergunning verschillen.   
+3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op een vergunning die op grond van de [artikelen 3.7a](../../../wet/telecommunicatiewet/BWBR0009950/README.md) of [3.8 van de wet](../../../wet/telecommunicatiewet/BWBR0009950/README.md) is verkregen.   
+4.  Bij ministeriële regeling kunnen inzake de verlenging van vergunningen nadere regels worden gesteld. Deze regels kunnen per te verlenen vergunning verschillen.   
 
 ### Paragraaf  4  
 
@@ -207,9 +208,83 @@ Op aanvragen om een vergunning voor het gebruik van frequentieruimte ten behoeve
 2.  Indien de duur van de procedure van veiling of vergelijkende toets tot gevolg heeft dat niet binnen de in het eerste lid bedoelde termijn kan worden beslist, stelt Onze Minister de aanvrager daarvan in kennis en geeft daarbij een termijn waarbinnen zal worden beslist, welke termijn niet langer is dan 32 weken na afloop van de in het eerste lid genoemde termijn.   
 3.  Van de termijnen, genoemd in het eerste en tweede lid, kan worden afgeweken indien op grond van het Internationale Telecommunicatieverdrag internationale frequentie- en satellietcoördinatie daartoe nopen.   
 
-### HOOFDSTUK  3  
+### Paragraaf  6  
 
-####DE VERGUNNING
+####Verplichte overdracht van een vergunning
+
+### Artikel  15a  
+
+1.  Onze Minister publiceert in de Staatscourant een besluit als bedoeld in: 
+
+a.   [artikel 3.7a, eerste lid, van de wet](../../../wet/telecommunicatiewet/BWBR0009950/README.md) houdende dat de houder van een vergunning wordt verplicht om die vergunning geheel of gedeeltelijk over te dragen,  
+
+b. [artikel 3.7a, tweede lid, van de wet](../../../wet/telecommunicatiewet/BWBR0009950/README.md) houdende dat Onze Minister de procedure tot overdracht ter hand neemt.     
+2.  Uiterlijk zeven dagen nadat het besluit, bedoeld in het eerste lid, onder a of b, is gepubliceerd, maakt Onze Minister bekend: 
+
+a. de termijn, bedoeld in [artikel 3.7a, eerste lid, van de wet](../../../wet/telecommunicatiewet/BWBR0009950/README.md);  
+
+b. de periode, bedoeld in [artikel 3.7a, vijfde lid, van de wet](../../../wet/telecommunicatiewet/BWBR0009950/README.md).     
+
+### Artikel  15b  
+
+Bij ministeriële regeling worden regels gesteld omtrent: 
+
+a. de indiening van de aanvraag om toestemming of overdracht,  
+
+b. de eisen die ter verkrijging van toestemming of ter overdracht van de vergunning worden gesteld aan de aanvrager,  
+
+c. de inhoud van de aanvraag en de daarbij te overleggen gegevens.   Deze regels kunnen per vergunning verschillen.  
+
+### Artikel  15c  
+
+1.  Tot een procedure ter verkrijging van toestemming en een procedure tot overdracht als bedoeld in [artikel 3.7a, eerste en tweede lid, van de wet](../../../wet/telecommunicatiewet/BWBR0009950/README.md) worden slechts toegelaten aanvragers die voldoen aan bij ministeriële regeling te stellen eisen. Deze eisen kunnen per vergunning verschillen.   
+2.  De in het eerste lid bedoelde eisen kunnen slechts betrekking hebben op de: 
+
+a. rechtsvorm van de aanvrager;  
+
+b. financiële positie van de aanvrager;  
+
+c. kennis en ervaring van de aanvrager;  
+
+d. technische middelen waarover de aanvrager kan beschikken;  
+
+e. hoedanigheid van de aanvrager als commerciële omroep;  
+
+f. door de aanvrager te leveren bijdrage aan de overgang van analoge naar digitale techniek.     
+3.  Artikel 6, derde lid, is van overeenkomstige toepassing op de in het eerste lid bedoelde eisen.   
+4.  Voor zover de aard, de omvang of het maatschappelijk belang van de vergunning daartoe naar het oordeel van Onze Minister aanleiding geeft, kunnen naast de eisen genoemd in het tweede en derde lid bij ministeriële regeling tevens regels worden gesteld in het belang van een evenwichtige verdeling dan wel een doelmatig gebruik van frequentieruimte.   
+5.  Toestemming wordt in ieder geval geweigerd indien: 
+
+a. de aanvrager de latende vergunninghouder is,  
+
+b. de aanvrager op de latende vergunninghouder of de latende vergunninghouder op de aanvrager zodanige zeggenschap of feitelijke invloed heeft dat deze in belangrijke mate het beleid van de aanvrager of de latende vergunninghouder kan bepalen of aanmerkelijke invloed heeft op de inhoud van dat beleid, of  
+
+c. een natuurlijke persoon of groep van natuurlijke personen direct of indirect een zodanige zeggenschap of feitelijke invloed heeft in zowel de aanvrager als de latende vergunninghouder dat deze in belangrijke mate het beleid van beiden kan bepalen of aanmerkelijke invloed heeft op de inhoud van het beleid van beiden.     
+
+### Artikel  15d  
+
+1.  Bij ministeriële regeling worden regels gesteld omtrent de wijze waarop de procedure ter verkrijging van toestemming en de procedure om te bepalen aan welke natuurlijke of rechtspersoon de vergunning wordt overgedragen plaatsvindt. Deze regeling kan per vergunning verschillen.   
+2.  De in het eerste lid bedoelde regels hebben in elk geval betrekking op: 
+
+a. de door de aanvrager en de latende vergunninghouder in acht te nemen geheimhouding;  
+
+b. de wijze waarop een prijs voor de vergunning wordt geboden;  
+
+c. de wijze om te bepalen wie de hoogste prijs heeft geboden;  
+
+d. de eisen die aan een geldig bod worden gesteld;  
+
+e. de zekerheidstelling dat een bij of krachtens [artikel 3.3a, van de wet](../../../wet/telecommunicatiewet/BWBR0009950/README.md) opgelegde financiële verplichting gestand wordt gedaan;  
+
+f. de maatregelen ten behoeve van een ongestoord verloop van de in het eerste lid bedoelde procedure;  
+
+g. de door de vergunninghouder toe te passen methode ter vaststelling van het bod waarvan de uitbrenger in aanmerking komt voor verlening van de vergunning;  
+
+h. de eisen die worden gesteld met betrekking tot de wijze van betaling van de in onderdeel e bedoelde financiële verplichtingen, en het tijdstip waarop degene aan wie de vergunning wordt overgedragen deze betaling moet hebben verricht.     
+
+### Hoofdstuk  3  
+
+####De vergunning
 
 ### Artikel  16  
 
@@ -246,9 +321,9 @@ c. in de gevallen bedoeld in [artikel 3.7, derde lid, van de wet](../../../wet/t
 
 d. indien door het gebruik van de vergunning ontoelaatbare belemmeringen worden veroorzaakt in radiozend- of ontvangapparaten of in elektrische of elektronische inrichtingen.    
 
-### HOOFDSTUK  4  
+### Hoofdstuk  4  
 
-####GEBRUIK VAN FREQUENTIERUIMTE ZONDER DAT DAARVOOR EEN VERGUNNING IS VEREIST
+####Gebruik van frequentieruimte zonder dat daarvoor een vergunning is vereist
 
 ### Artikel  18  
 
@@ -345,9 +420,9 @@ c) de wijze waarop en de vorm waarin de gegevens aangeleverd worden en
 
 d) de wijze waarop van de gegevens kennis wordt genomen.    
 
-### HOOFDSTUK  5  
+### Hoofdstuk  5  
 
-####OVERGANGS- EN SLOTBEPALINGEN
+####Overgangs- en slotbepalingen
 
 ### Artikel  21  
 

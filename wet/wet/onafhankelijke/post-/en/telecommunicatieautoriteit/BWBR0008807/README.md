@@ -43,6 +43,7 @@ b. college: het in artikel 2 bedoelde college.
 5.  De vaste leden van het college hebben op persoonlijke titel zitting in het college en oefenen hun functie uit zonder last.   
 6.  De persoon die tussentijds tot lid wordt benoemd treedt af op het tijdstip waarop de reeds benoemde vaste leden aftreden.   
 7.  Zolang in een vacature van het college niet is voorzien, vormen de overblijvende vaste leden het college, met de bevoegdheden van het voltallige college.   
+8.  Onze Minister maakt het besluit tot ontslag als bedoeld in artikel 12, eerste lid, bekend door kennisgeving van de zakelijke inhoud ervan in de Staatscourant. De redenen van het ontslag van een lid van het college worden in die kennisgeving openbaar gemaakt indien die persoon daarom verzoekt.   
 
 ### Artikel  4  
 
@@ -99,13 +100,11 @@ a. het houden van toezicht op de naleving van de bepalingen van:
 
 2°. de [Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), voorzover deze taak bij [artikel 15.1, derde lid, van de Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) aan het college is toebedeeld;  
 
-3°. verordening (EG) nr. 2887/2000 van het Europees Parlement en de Raad van de Europese Unie van 18 december 2000 inzake ontbundelde toegang tot het aansluitnetwerk (PbEG L 336/4);  
-
-4°. verordening nr. 717/2007 van het Europees Parlement en de Raad van de Europese Unie van 27 juni 2007 betreffende roaming op openbare mobiele telefoonnetwerken binnen de Gemeenschap en tot wijziging van Richtlijn 2002/21/EG inzake een gemeenschappelijk regelgevingskader voor elektronische-communicatienetwerken en -diensten (PbEU L 171).     
+3°. verordening nr. 717/2007 van het Europees Parlement en de Raad van de Europese Unie van 27 juni 2007 betreffende roaming op openbare mobiele telefoonnetwerken binnen de Gemeenschap en tot wijziging van Richtlijn 2002/21/EG inzake een gemeenschappelijk regelgevingskader voor elektronische-communicatienetwerken en -diensten (PbEU L 171).     
 
 b. het verrichten van de taken en het uitoefenen van de bevoegdheden die in de [Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en [Postwet 2009](../../../../../../../wet/postwet/2009/BWBR0025572/README.md) aan het college zijn opgedragen.  
 
-c. het verrichten van de taken en het uitoefenen van de bevoegdheden die bij of krachtens de Wet telecommunicatievoorzieningen BES en de Wet post BES aan het college zijn toegekend.    
+c. het verrichten van de taken en het uitoefenen van de bevoegdheden die bij of krachtens de [Wet telecommunicatievoorzieningen BES](../../../../../../../wet-BES/wet/telecommunicatievoorzieningen/bes/BWBR0028469/README.md) en de [Wet post BES](../../../../../../../wet-BES/wet/post/bes/BWBR0028263/README.md) aan het college zijn toegekend.    
 
 ### Hoofdstuk  4  
 
@@ -131,6 +130,11 @@ Onze Minister kan regels stellen over de inrichting van de begroting, het financ
 ### Artikel  22  
 
 Het sluiten van overeenkomsten of het doen van investeringen door het college die een door Onze Minister vast te stellen bedrag te boven gaan, behoeven zijn voorafgaande instemming.  
+
+### Artikel  23a  
+
+1.  Onze Minister onthoudt zich van instructies die op een individuele zaak betrekking hebben.   
+2.  De leden van het college en het personeel van de Onafhankelijke Post en Telecommunicatie Autoriteit ontvangen geen instructies die op een individuele zaak betrekking hebben.   
 
 ### Paragraaf  2  
 
