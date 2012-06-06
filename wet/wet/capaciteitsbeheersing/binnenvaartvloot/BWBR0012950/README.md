@@ -34,7 +34,7 @@ b. bijdragen van lidstaten en van Zwitserland als bedoeld in artikel 3, zesde li
 
 ### Artikel  3  
 
-De organisaties, bedoeld in artikel 3, tweede lid, van de Raadsverordening zijn de organisaties op het terrein van de binnenvaart, vertegenwoordigd in het Permanent overlegorgaan goederenvervoer.  
+De organisaties, bedoeld in artikel 3, tweede lid, van de Raadsverordening zijn de organisaties op het terrein van de binnenvaart, vertegenwoordigd in het Overlegorgaan verkeer en waterstaat, bedoeld in [artikel 4 van de Wet advies en overleg verkeer en waterstaat](../../../../../wet/wet/overleg/verkeer/en/waterstaat/BWBR0008410/README.md).  
 
 ### Artikel  4  
 

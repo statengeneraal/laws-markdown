@@ -408,8 +408,7 @@ b. het logboek te beschadigen of te vernietigen, te doen beschadigen of vernieti
 
 ### Artikel  2.11  
 
-1.  Het is de houder van een bewijs van bevoegdheid of bewijs van gelijkstelling verboden werkzaamheden, tot het verrichten waarvan dat bewijs de bevoegdheid geeft, te verrichten wanneer de houder daardoor in verband met zijn lichamelijke of geestelijke gesteldheid de veiligheid van het luchtverkeer in gevaar brengt of in gevaar kan brengen.   
-2.  Onverminderd het eerste lid is het verboden luchtverkeersdiensten te verlenen dan wel een grondstation of een mobiel station als bedoeld in artikel 2.1, eerste lid, te bedienen, terwijl degene, die luchtverkeersdiensten verleent dan wel een grondstation of een mobiel station bedient, verkeert onder zodanige invloed van een stof, waarvan hij weet of redelijkerwijze moet weten, dat het gebruik daarvan – al dan niet in combinatie met het gebruik van een andere stof – de vaardigheid voor het verlenen van luchtverkeersdiensten of het bedienen van een grondstation of een mobiel station kan verminderen, dat hij niet in staat moet worden geacht zulks naar behoren te verrichten.   
+Het is de houder van een bewijs van bevoegdheid of bewijs van gelijkstelling verboden werkzaamheden, tot het verrichten waarvan dat bewijs de bevoegdheid geeft, te verrichten wanneer de houder daardoor in verband met zijn lichamelijke of geestelijke gesteldheid de veiligheid van het luchtverkeer in gevaar brengt of in gevaar kan brengen.  
 
 ### Artikel  2.12  
 
@@ -422,7 +421,7 @@ a. het alcoholgehalte van zijn adem bij een onderzoek hoger blijkt te zijn dan n
 b. het alcoholgehalte van zijn bloed bij een onderzoek hoger blijkt te zijn dan eenvijfde milligram (0,2 mg) alcohol per milliliter bloed.     
 4.  Het is een lid van het boordpersoneel verboden werkzaamheden aan boord van een luchtvaartuig te verrichten gedurende de tijd, waarvoor een rijverbod als bedoeld in [artikel 162, eerste lid, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) geldt.   
 5.  Het is verboden een lid van het boordpersoneel van wie men weet of redelijkerwijs moet weten, dat deze verkeert in een toestand, als bedoeld in artikel 2.11, eerste lid, of in het eerste of derde lid van dit artikel, werkzaamheden aan boord van een luchtvaartuig te doen verrichten.   
-6.  Het derde, vierde en vijfde lid zijn van overeenkomstige toepassing op eenieder die luchtverkeersdiensten verleent of een grondstation of een mobiel station als bedoeld in artikel 2.1, eerste lid, bedient.   
+6.  Het eerste, derde, vierde en vijfde lid zijn van overeenkomstige toepassing op eenieder die luchtverkeersdiensten verleent of een grondstation of een mobiel station als bedoeld in artikel 2.1, eerste lid, bedient.   
 
 ### Artikel  2.13  
 
@@ -755,7 +754,7 @@ a. het luchtvaartuig blijft voldoen aan de geldende geluidseisen, en
 
 b. het luchtvaartuig in de configuratie blijft waarvoor het geluidscertificaat of de geluidsverklaring is verleend.     
 3.  Bij regeling van Onze Minister van Verkeer en Waterstaat kan worden aangegeven in welke gevallen en onder welke voorwaarden een afwijking van beperkte duur van het bepaalde in het tweede lid, onder b, is toegestaan.   
-4.  De houder van een Nederlands burgerluchtvaartuig, waarvoor een bewijs van luchtwaardigheid is afgegeven, volgt de door EASA en door Onze Minister van Verkeer en Waterstaat gegeven aanwijzingen met betrekking tot de luchtwaardigheid op.   
+4.  De houder van een Nederlands burgerlichtvaartuig, waarvoor een bewijs van luchtwaardigheid is afgegeven, volgt de door EASA en door Onze Minister van Verkeer en Waterstaat gegeven aanwijzingen met betrekking tot de luchtwaardigheid op.   
 5.  Onze Minister van Defensie ziet er op toe dat militaire luchtvaartuigen worden onderhouden overeenkomstig de daartoe gestelde eisen.   
 
 ### Artikel  3.23  
@@ -2903,7 +2902,7 @@ Hoofdstuk 4 is niet van toepassing op de vluchtuitvoering met militaire luchtvaa
 
 1.  Titel 6.5 is niet van toepassing op internationaal vervoer van gevaarlijke stoffen met luchtvaartuigen waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is.   
 2.  Titel 6.5 is, met uitzondering van artikel 6.54, niet van toepassing op nationaal vervoer van ontplofbare stoffen of voorwerpen met luchtvaartuigen waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is.   
-3.   Dit lid is nog niet in werking getreden.    
+3.  Artikel 6.51, eerste lid, geldt niet voor het nationale vervoer van de bij of krachtens algemene maatregel van bestuur aan te wijzen gevaarlijke stoffen, niet zijnde ontplofbare stoffen of voorwerpen, behorend tot de operationele uitrusting of het wapensysteem van een luchtvaartuig waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is, of behorend tot de uitrusting van personen die met een dergelijk luchtvaartuig worden vervoerd, indien aan de bij of krachtens die algemene maatregel van bestuur terzake gestelde regels is voldaan.   
 4.  Artikel 6.55 is niet van toepassing op het door personeel van de krijgsmacht verrichten van de in dat artikel bedoelde handelingen ten aanzien van het nationaal vervoer van andere gevaarlijke stoffen dan ontplofbare stoffen of voorwerpen,met luchtvaartuigen waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is.   
 5.  De artikelen 6.60, 6.61 en 6.61a zijn van overeenkomstige toepassing op het internationaal vervoer van gevaarlijke stoffen en het nationaal vervoer van ontplofbare stoffen en voorwerpen met luchtvaartuigen waarvan de krijgsmacht of de krijgsmacht van een andere mogendheid houder is met dien verstande dat: 
 
@@ -3500,7 +3499,7 @@ d. 11.5, vierde lid, 11.6, tweede, zesde, achtste en negende lid, 11.8, vijfde l
 
 a. aan boord van een luchtvaartuig werkzaamheden te verrichten als lid van het boordpersoneel,  
 
-b. werkzaamheden te verrichten aan een luchtvaartuig.  
+b. werkzaamheden te verrichten aan een luchtvaartuig,  
 
 c. luchtverkeersdienstverlening te geven,   voor ten hoogste drie jaren worden ontzegd.   
 2.  Bij veroordeling wegens overtreding van een der in artikel 11.10, eerste lid, strafbaar gestelde feiten kan een bevoegdheid als bedoeld in het eerste lid voor ten hoogste zes jaren worden ontzegd.   
