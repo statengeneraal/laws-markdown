@@ -96,8 +96,9 @@ De Bank is bevoegd de Europese Centrale Bank bij te staan bij het verzamelen van
 ### Artikel  8  
 
 1.  De Bank is bevoegd tot het verrichten van transacties in de financiële markten, daaronder het ontvangen van gelden in rekening-courant van rekeninghouders, het in bewaring nemen van effecten en andere voorwerpen van waarde en het verrichten van krediettransacties voorzover deze gedekt zijn door toereikend onderpand.   
-2.  Op verzoek van Onze Minister verricht de Bank de in het eerste lid bedoelde werkzaamheden ten behoeve van de Staat en ten behoeve van instellingen die bij wet of bij koninklijk besluit in het leven zijn geroepen.   
-3.  Op verzoek van Onze Minister en in afwijking van het eerste lid verstrekt de Bank aan de Staat, telkens wanneer Onze Minister dit nodig acht voor de ordelijke afwikkeling van betalingen ten laste van de Staat, kredieten in rekening-courant, zonder onderpand en tegen een, tussen Onze Minister en de Bank overeen te komen rentevergoeding. De Staat is verplicht deze kredieten af te lossen op de dag waarop zij zijn verstrekt.   
+2.  Rechtshandelingen in verband met transacties, als bedoeld in het eerste lid, zijn niet vernietigbaar op grond van [artikel 45 van Boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) of de [artikelen 42](../../../../wet/faillissementswet/BWBR0001860/README.md) en [47 van de Faillissementswet](../../../../wet/faillissementswet/BWBR0001860/README.md).   
+3.  Op verzoek van Onze Minister verricht de Bank de in het eerste lid bedoelde werkzaamheden ten behoeve van de Staat en ten behoeve van instellingen die bij wet of bij koninklijk besluit in het leven zijn geroepen.   
+4.  Op verzoek van Onze Minister en in afwijking van het eerste lid verstrekt de Bank aan de Staat, telkens wanneer Onze Minister dit nodig acht voor de ordelijke afwikkeling van betalingen ten laste van de Staat, kredieten in rekening-courant, zonder onderpand en tegen een, tussen Onze Minister en de Bank overeen te komen rentevergoeding. De Staat is verplicht deze kredieten af te lossen op de dag waarop zij zijn verstrekt.   
 
 ### Artikel  9  
 
@@ -124,10 +125,12 @@ Bepalingen van [boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/we
 ### Artikel  12  
 
 1.  De directie van de Bank is belast met het besturen van de Bank. De directie bestaat uit een president en tenminste drie en ten hoogste vijf directeuren.   
-2.  De president en de directeuren worden telkens voor een periode van 7 jaar bij koninklijk besluit benoemd. Voor elke benoeming wordt in een gemeenschappelijke vergadering van de directie en de raad van commissarissen een aanbevelingslijst van drie personen opgemaakt.   
-3.  De president en de directeuren kunnen slechts uit hun functie worden geschorst of ontheven indien zij niet meer voldoen aan de eisen voor de uitoefening van hun functie of op ernstige wijze zijn tekortgeschoten.   
-4.  Met betrekking tot de taken en werkzaamheden ter verwezenlijking van de doelstelling, bedoeld in artikel 2, eerste lid, neemt de directie de hoedanigheid van de president als lid van de Raad van bestuur alsmede van de Algemene Raad van de Europese Centrale Bank in acht.   
-5.  De salarissen en de toezeggingen omtrent het pensioen alsmede regelingen omtrent vergoeding van onkosten van de president en de directeuren worden vastgesteld door de raad van commissarissen en goedgekeurd door Onze Minister.   
+2.  De president en de directeuren worden voor een periode van zeven jaren bij koninklijk besluit benoemd. Herbenoeming in dezelfde functie kan eenmaal plaatsvinden. Voor elke benoeming wordt door de raad van commissarissen, de directie gehoord, een aanbevelingslijst van drie personen opgemaakt.   
+3.  Voorafgaand aan het opmaken van de aanbevelingslijst stelt de raad van commissarissen, de directie gehoord, een functieprofiel op.   
+4.  De president en de directeuren kunnen slechts indien zij niet meer voldoen aan de eisen voor de uitoefening van hun functie of indien zij op ernstige wijze zijn tekortgeschoten bij koninklijk besluit worden geschorst of uit hun functie worden ontheven. Ontheffing uit de functie vindt voorts plaats op eigen verzoek.   
+5.  Onze Minister draagt zorg voor de mededeling in de Staatscourant van de in dit artikel bedoelde koninklijke besluiten. Tegen een besluit of schorsing van een directeur als bedoeld in het vierde lid kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.   
+6.  Met betrekking tot de taken en werkzaamheden ter verwezenlijking van de doelstelling, bedoeld in artikel 2, eerste lid, neemt de directie de hoedanigheid van de president als lid van de Raad van bestuur alsmede van de Algemene Raad van de Europese Centrale Bank in acht.   
+7.  De salarissen en de toezeggingen omtrent het pensioen alsmede regelingen omtrent vergoeding van onkosten van de president en de directeuren worden vastgesteld door de raad van commissarissen en goedgekeurd door Onze Minister.   
 
 ### Artikel  12a  
 
@@ -137,10 +140,12 @@ Bepalingen van [boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/we
 
 ### Artikel  13  
 
-1.  De raad van commissarissen bestaat uit tenminste negen en ten hoogste twaalf leden.   
+1.  De raad van commissarissen bestaat uit ten minste zeven en ten hoogste tien leden.   
 2.  Eén lid van de raad van commissarissen wordt van overheidswege benoemd, telkens voor een periode van vier jaar.   
-3.  De voorzitter alsmede de overige leden van de raad van commissarissen worden telkens voor een periode van vier jaar benoemd door de aandeelhouders uit een voordracht van drie personen voor elke te vervullen plaats, opgemaakt door de raad van commissarissen. Bij afwezigheid van de voorzitter wordt het voorzitterschap bekleed door een daartoe door de vergadering aangewezen lid.   
-4.  De raad van commissarissen ziet toe op het beheer van de Bank en stelt de jaarrekening vast. De vastgestelde jaarrekening behoeft de goedkeuring van de aandeelhouders.   
+3.  De voorzitter alsmede de andere leden van de raad van commissarissen worden telkens voor een periode van vier jaar benoemd door de aandeelhouders uit een voordracht van drie personen voor elke te vervullen plaats, opgemaakt door de raad van commissarissen. Voorafgaand aan het opmaken van de voordracht stelt de raad van commissarissen een functieprofiel op.   
+4.  Bij afwezigheid van de voorzitter wordt het voorzitterschap bekleed door een daartoe door de vergadering aangewezen ander lid.   
+5.  De leden van de raad van commissarissen kunnen door de aandeelhouders worden geschorst of uit hun functie worden ontheven indien zij niet meer voldoen aan de eisen voor de uitoefening van hun functie of op ernstige wijze zijn tekortgeschoten. Ontheffing uit de functie vindt voorts plaats op eigen verzoek.   
+6.  Met inachtneming van het bepaalde in het Verdrag en de statuten van het Europees Stelsel van Centrale Banken, houdt de raad van commissarissen toezicht op de algemene gang van zaken binnen de Bank en het beleid van de directie ter uitvoering van artikel 4. De raad van commissarissen staat de directie met raad terzijde en stelt de jaarrekening vast. De vastgestelde jaarrekening behoeft de goedkeuring van de aandeelhouders.   
 
 ### Artikel  14  
 

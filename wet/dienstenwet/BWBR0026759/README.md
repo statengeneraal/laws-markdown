@@ -48,7 +48,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 *lidstaat van vestiging:* lidstaat op het grondgebied waarvan de dienstverrichter is gevestigd;  
 
-*Onze Minister:* Onze Minister van Economische Zaken;  
+*Onze Minister:* Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 *procedures en formaliteiten:* activiteiten die naar hun aard door middel van uitwisseling van gegevens en bescheiden tussen een dienstverrichter en een of meer bevoegde instanties plaatsvinden en die op een eis of een vergunning betrekking hebben;  
 
@@ -485,29 +485,29 @@ b. tot het verrichten van verificaties, inspecties en onderzoeken naar een diens
 ### Artikel  40  
 
 1.  Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstelsels als bedoeld in artikel 2, verstrekt op verzoek van een bevoegde instantie van een andere lidstaat informatie over onherroepelijke bestuursrechtelijke sancties of onherroepelijke tuchtrechtelijke maatregelen die door de eerstbedoelde bevoegde instantie jegens een dienstverrichter zijn getroffen, indien het desbetreffende verzoek deugdelijk is gemotiveerd en de desbetreffende instantie bevoegd is om aan het verzoek te voldoen.   
-2.  Een bevoegde instantie verstrekt de in het eerste lid bedoelde informatie, onder vermelding van de bepalingen die zijn overtreden, binnen de kortst mogelijke termijn en langs elektronische weg, met inachtneming van artikel 36, derde lid. De dienstverrichter wordt daarvan onverwijld schriftelijk in kennis gesteld.   
+2.  Een bevoegde instantie verstrekt de in het eerste lid bedoelde informatie, onder vermelding van de bepalingen die zijn overtreden, binnen de kortst mogelijke termijn en langs elektronische weg, met inachtneming van artikel 37, derde lid. De dienstverrichter wordt daarvan onverwijld schriftelijk in kennis gesteld.   
 
 ### Artikel  41  
 
 1.  Voor de toepassing van artikel 33, eerste lid, van de richtlijn wordt een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) aangemerkt als informatie omtrent strafrechtelijke sancties.   
 2.  In afwijking van [artikel 33 van de Wet justitiële en strafvorderlijke gegevens](../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) wordt een aanvraag tot het afgeven van een verklaring als bedoeld in het eerste lid met betrekking tot een dienstverrichter ingediend door een bevoegde instantie uit een andere lidstaat.   
-3.  Een aanvraag als bedoeld in het tweede lid wordt, in afwijking van [artikel 30, eerste lid, eerste volzin, van de Wet justitiële en strafvorderlijke gegevens](../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) ingediend bij Onze Minister van Justitie.   
+3.  Een aanvraag als bedoeld in het tweede lid wordt, in afwijking van [artikel 30, eerste lid, eerste volzin, van de Wet justitiële en strafvorderlijke gegevens](../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) ingediend bij Onze Minister van Veiligheid en Justitie.   
 4.  Artikel 37, derde lid, is van overeenkomstige toepassing op de in het tweede lid bedoelde aanvraag.   
 
 ### Artikel  42  
 
 1.  Voor de toepassing van de [artikelen 32, eerste lid](../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), [34](../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), [35](../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) en [36 van de Wet justitiële en strafvorderlijke gegevens](../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) wordt als aanvrager aangemerkt de dienstverrichter ten aanzien van wie de verklaring wordt gevraagd.   
-2.  Onze Minister van Justitie stelt de dienstverrichter ten aanzien van wie de verklaring wordt gevraagd in kennis van de in artikel 41, tweede lid, bedoelde aanvraag en vraagt zijn instemming met het in behandeling nemen van de aanvraag.   
-3.  Indien de dienstverrichter geen instemming verleent, bericht Onze Minister van Justitie dit aan de bevoegde instantie die de verklaring heeft aangevraagd.   
+2.  Onze Minister van Veiligheid en Justitie stelt de dienstverrichter ten aanzien van wie de verklaring wordt gevraagd in kennis van de in artikel 41, tweede lid, bedoelde aanvraag en vraagt zijn instemming met het in behandeling nemen van de aanvraag.   
+3.  Indien de dienstverrichter geen instemming verleent, bericht Onze Minister van Veiligheid en Justitie dit aan de bevoegde instantie die de verklaring heeft aangevraagd.   
 4.  Artikel 37, tweede en derde lid, zijn van overeenkomstige toepassing op de in het derde lid bedoelde berichten.   
-5.  Voor het in behandeling nemen van een aanvraag tot afgifte van een verklaring omtrent het gedrag kan Onze minister van Justitie van de aanvrager, bedoeld in het eerste lid, een vergoeding van kosten verlangen. [Artikel 39, tweede en vierde lid, van de Wet justitiële en strafvorderlijke gegevens](../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) is van overeenkomstige toepassing.   
+5.  Voor het in behandeling nemen van een aanvraag tot afgifte van een verklaring omtrent het gedrag kan Onze Minister van Veiligheid en Justitie van de aanvrager, bedoeld in het eerste lid, een vergoeding van kosten verlangen. [Artikel 39, tweede en vierde lid, van de Wet justitiële en strafvorderlijke gegevens](../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) is van overeenkomstige toepassing.   
 
 ### Artikel  43  
 
-1.  Onze Minister van Justitie informeert de dienstverrichter ten aanzien van wie de verklaring wordt gevraagd indien hij voornemens is de afgifte van de verklaring omtrent het gedrag te weigeren.   
-2.  Onze Minister van Justitie verstrekt de verklaring omtrent het gedrag dan wel de weigering tot afgifte daarvan aan de in het eerste lid bedoelde dienstverrichter.   
-3.  Onze Minister van Justitie stelt de bevoegde instantie uit een andere lidstaat zo spoedig mogelijk op de hoogte van de afgifte dan wel weigering van de verklaring omtrent het gedrag. Bij de kennisgeving over de afgifte van de verklaring wordt de strekking van de afgegeven verklaring medegedeeld.   
-4.  Indien de weigering van de verklaring omtrent het gedrag nog niet onherroepelijk is informeert Onze Minister van Justitie de bevoegde instantie uit een andere lidstaat daarover.   
+1.  Onze Minister van Veiligheid en Justitie informeert de dienstverrichter ten aanzien van wie de verklaring wordt gevraagd indien hij voornemens is de afgifte van de verklaring omtrent het gedrag te weigeren.   
+2.  Onze Minister van Veiligheid en Justitie verstrekt de verklaring omtrent het gedrag dan wel de weigering tot afgifte daarvan aan de in het eerste lid bedoelde dienstverrichter.   
+3.  Onze Minister van Veiligheid en Justitie stelt de bevoegde instantie uit een andere lidstaat zo spoedig mogelijk op de hoogte van de afgifte dan wel weigering van de verklaring omtrent het gedrag. Bij de kennisgeving over de afgifte van de verklaring wordt de strekking van de afgegeven verklaring medegedeeld.   
+4.  Indien de weigering van de verklaring omtrent het gedrag nog niet onherroepelijk is informeert Onze Minister van Veiligheid en Justitie de bevoegde instantie uit een andere lidstaat daarover.   
 5.  Artikel 37, tweede en derde lid, is van overeenkomstige toepassing op de informatieverschaffing, bedoeld in het derde en vierde lid.   
 
 ### Artikel  44  
@@ -649,31 +649,6 @@ Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van door 
 ### Hoofdstuk  6a  
 
 ####Naleving verplichtingen door bevoegde instanties
-
-### Artikel  59a  
-
-1.  Indien een bevoegde instantie niet of niet naar behoren voldoet aan een voor hem geldende rechtsplicht voortvloeiende uit de artikelen 8, 14, 19, 34, 36, 37, 39, 46 tot en met 50 of 55 dan wel voortvloeiende uit de artikelen 15, zevende lid, of 39, vijfde lid, tweede alinea, van de richtlijn, kan Onze Minister: 
-
-a. in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties ten aanzien van provincies, gemeenten en gemeenschappelijke regelingen waaraan zijn deelnemen, of  
-
-b. in overeenstemming met Onze Minister van Verkeer en Waterstaat ten aanzien van waterschappen en gemeenschappelijke regelingen waaraan uitsluitend waterschappen deelnemen,   de desbetreffende bevoegde instantie een aanwijzing geven om binnen een in die aanwijzing vermelde termijn, alsnog aan die rechtsplicht te voldoen.   
-2.  Het eerste lid is niet van toepassing op bestuursorganen van provincies, gemeenten en gemeenschappelijke regelingen waaraan zij deelnemen, indien de bevoegdheden van [artikel 121](../../../wet/provinciewet/BWBR0005645/README.md) en [hoofdstuk XVIII van de Provinciewet](../../../wet/provinciewet/BWBR0005645/README.md) en van [artikel 124](../../../wet/gemeentewet/BWBR0005416/README.md) en [hoofdstuk XVII van de Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md) toereikend zijn om het niet of niet naar behoren voldoen als bedoeld in het eerste lid te herstellen.   
-
-### Artikel  59b  
-
-1.  Een aanwijzing wordt niet gegeven dan nadat aan de bevoegde instantie gelegenheid tot overleg is geboden.   
-2.  Een aanwijzing wordt, behoudens in spoedeisende gevallen, niet eerder gegeven dan nadat de bevoegde instantie in de gelegenheid is gesteld om binnen een door Onze Minister in overeenstemming met Onze andere betrokken Minister gestelde termijn alsnog aan de rechtsplicht, bedoeld in artikel 59a, te voldoen.   
-3.  De motivering van de aanwijzing verwijst naar hetgeen in het overleg aan de orde is gekomen.   
-4.  Van de aanwijzing wordt mededeling gedaan in de Staatscourant.   
-
-### Artikel  59c  
-
-Indien de in de aanwijzing vermelde termijn verstrijkt zonder dat de aanwijzing is opgevolgd, kan Onze Minister er, namens en op kosten van de bevoegde instantie, zowel door het verrichten van publiekrechtelijke of privaatrechtelijke rechtshandelingen als door het verrichten van feitelijke handelingen in voorzien dat alsnog wordt voldaan aan de rechtsplicht in verband waarmee de aanwijzing, bedoeld in artikel 59a, is gegeven.  
-
-### Artikel  59d  
-
-1.  Tegen een aanwijzing of een besluit op grond van artikel 59c kan beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State. [Artikel 7:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
-2.  In afwijking van [artikel 6:2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan geen beroep worden ingesteld tegen de weigering om een aanwijzing te geven of een besluit op grond van artikel 59c te nemen.   
 
 ### Hoofdstuk  7  
 
