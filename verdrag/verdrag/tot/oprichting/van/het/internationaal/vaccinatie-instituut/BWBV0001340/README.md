@@ -4,13 +4,13 @@
 
 ####Agreement on the Establishment of the International Vaccine Institute
 
-Whereas the Children's Vaccine Initiative (hereinafter referred to as “the CVI") is a coalition of governments, multilateral and bilateral agencies, non-governmental organizations including foundations and associations, and industry dedicated to ensuring the availability of safe, effective and affordable vaccines, the development and introduction of improved and new vaccines and strengthening the capacity of developing countries in vaccine development, production and use in immunization programmes; Whereas at the initiative of the United Nations Development Programme (hereinafter referred to as “UNDP"), the Republic of Korea has agreed to be the host country of a newly created institute to be named as the International Vaccine Institute (hereinafter referred to as “the Institute") dedicated to strengthening the capacity of developing countries in the field of vaccine technology and carrying out vaccine-related research and development; Whereas the Parties to this Agreement consider the Institute as an instrument to contribute to achieving the goals of the CVI; Whereas the Parties to this Agreement wish to create the Institute as an international organization with suitable governance, juridical personality, and appropriate international status, privileges and immunities and other conditions necessary to enable it to operate effectively towards the attainment of its objectives; Whereas the Parties to this Agreement wish to establish the Institute as an integral part of the CVI policy framework, strategy and activities; Now, therefore, the Parties signatory hereto agree as follows:    
+Whereas the Children's Vaccine Initiative (hereinafter referred to as “the CVI”) is a coalition of governments, multilateral and bilateral agencies, non-governmental organizations including foundations and associations, and industry dedicated to ensuring the availability of safe, effective and affordable vaccines, the development and introduction of improved and new vaccines and strengthening the capacity of developing countries in vaccine development, production and use in immunization programmes; Whereas at the initiative of the United Nations Development Programme (hereinafter referred to as “UNDP”), the Republic of Korea has agreed to be the host country of a newly created institute to be named as the International Vaccine Institute (hereinafter referred to as “the Institute”) dedicated to strengthening the capacity of developing countries in the field of vaccine technology and carrying out vaccine-related research and development; Whereas the Parties to this Agreement consider the Institute as an instrument to contribute to achieving the goals of the CVI; Whereas the Parties to this Agreement wish to create the Institute as an international organization with suitable governance, juridical personality, and appropriate international status, privileges and immunities and other conditions necessary to enable it to operate effectively towards the attainment of its objectives; Whereas the Parties to this Agreement wish to establish the Institute as an integral part of the CVI policy framework, strategy and activities; Now, therefore, the Parties signatory hereto agree as follows:    
 
 ### Article  I  
 
 ####Establishment
 
-There shall be established an independent international organization entitled the “International Vaccine Institute" which will operate in accordance with the Constitution appended hereto as its integral part.  
+There shall be established an independent international organization entitled the “International Vaccine Institute” which will operate in accordance with the Constitution appended hereto as its integral part.  
 
 ### Article  II  
 
@@ -119,7 +119,7 @@ The Institute shall carry out major scientific functions within the overall goal
 ####Guiding principles
 
 1.  The Institute will serve as an international resource centre devoted to developing specific areas of expertise and providing technical assistance for research and development of vaccines.   
-2.  The Institute will complement its activities with those of other international and national institutions, public and private, that have similar aims. Its activities will, wherever appropriate, be planned and implemented in collaboration with such institutions. In particular, the Institute shall fully cooperate with the World Health Organization (hereinafter referred to as “WHO") in determining the technical and other aspects of its programme that relate to WHO's mandate.   
+2.  The Institute will complement its activities with those of other international and national institutions, public and private, that have similar aims. Its activities will, wherever appropriate, be planned and implemented in collaboration with such institutions. In particular, the Institute shall fully cooperate with the World Health Organization (hereinafter referred to as “WHO”) in determining the technical and other aspects of its programme that relate to WHO's mandate.   
 
 ### Article  VI  
 
@@ -180,9 +180,9 @@ The organs of the Institute shall be:
 
 ### Article  IX  
 
-####Composition of the board
+####Composition of the Board
 
-1.  The Board shall consist of not less than thirteen nor more than seventeen members, selected as follows: 
+1.  The Board shall consist of not less than nine nor more than twenty-two members, selected as follows: 
 
 (i) up to ten members-at-large elected by the Board. Regard shall be paid especially to proposed members' professional experience and qualifications, to appropriate geographical distribution, to agencies and countries which have concern for and provide substantial support to the Institute, or to countries where major facilities are located;  
 
@@ -190,15 +190,18 @@ The organs of the Institute shall be:
 
 (iii) two members appointed by WHO;  
 
-(iv) one member elected by the Board upon the recommendation of UNDP;  
+(iv) up to five members elected by the Board upon recommendation of governments of the Parties to this Agreement;  
 
-(v) the Executive Secretary of the CVI, or his/her representative, as a member ex-officio; and  
+(v) one member elected by the Board upon recommendation of UNDP;  
 
-(vi) the Director of the Institute as a member ex-officio.     
+(vi) the Executive Secretary of the GAVI, or his representative, as a member ex-officio; and  
+
+(vii) the Director of the Institute as a member ex-officio.     
 2.  Member-at-large shall be appointed for terms of no more than three years as determined by the Board in advance of the appointment. In the case of vacancy of members-at-large by reason of their retirement, death, incapacity, or any other cause, the Board shall fill the vacancy in the same manner as the original appointment. A new member appointed to replace a member during the latter's term, may be appointed for the remaining term of the member being replaced. He/she is eligible to serve two additional terms.   
 3.  The members of the Board are eligible for reappointment to a second term, but shall not serve more than two successive terms, except that the member elected as Chairperson may have his/her term extended by the Board in order to coincide with his/her appointment as Chairperson.   
-4.  The members of the Board, other than the members serving ex-officio and the members appointed by the host country and WHO, shall serve in a personal capacity and are not considered, nor do they act, as official representatives of governments or organizations.   
-5.  The term of office and the selection of the members appointed by the Government of the host country (hereinafter referred to as the “Government") will be determined by the Government.   
+4.  The members of the Board, other than the members serving ex-officio, the members appointed by the host country and WHO, and the members elected upon recommendation of governments, shall serve in a personal capacity and are not considered, nor do they act, as official representatives of governments or organizations.   
+5.  The term of office and the selection of the members appointed by the Government of the host country (hereinafter referred to as the “Government”) will be determined by the Government.   
+6.  The members of the Board elected upon recommendation of governments shall serve for a term of three years and be eligible for reelection.   
 
 ### Article  X  
 
@@ -332,15 +335,29 @@ The Institute shall make provisions for appropriate modes of settlement includin
 1.  The Institute may be dissolved by a three-fourths majority of all voting members of the Board, if it is determined that the purposes of the Institute have been achieved to a satisfactory degree or if it is determined that the Institute will no longer be able to function effectively.   
 2.  In the case of dissolution, any land, physical plant and other assets situated in the host country and other countries, and made available to the Institute by the Government, and permanent fixed capital improvements thereon shall revert to the Government. The other assets of the Institute shall be transferred to such countries for use for similar purposes or distributed to institutions having purposes similar to those of the Institute in the respective countries after agreement between the governments of those countries and the Board in consultation with the Government.   
 
+### Amendment  I*  
+
+To carry out its FUNCTIONS, the Institute may prepare test vaccine lots for the purposes of evaluation and clinical testing. However, in accord with its STATUS as a scientific, developmental and education institution, the Institute shall not produce vaccines for sale under a product license or for other commercial sale.  
+
+### Amendment  II*  
+
+####Indemnity and liability
+
+The Board, officers, and employees, including consultants, of the Institute shall be indemnified by the Institute against all losses and expenses incurred by them in relation to the discharge of their duties, except such as have been caused by their willful act of default.  
+
+### Amendment  III*  
+
+The term of office and the selection of the members of the Board of Trustees appointed by WHO will be determined by WHO.  
+
 ####Verdrag tot oprichting van het Internationaal Vaccinatie-instituut
 
-Overwegende dat het Initiatief tot Vaccinatie van Kinderen, (hierna te noemen „het CVI") een coalitie is van regeringen, multi- en bilaterale organisaties, niet-gouvernementele organisaties met inbegrip van stichtingen en verenigingen, en de industrie die gericht is op het waarborgen van de beschikbaarheid van veilige, doeltreffende en betaalbare vaccins, de ontwikkeling en introductie van nieuwe en verbeterde vaccins en op het vergroten van de capaciteit van ontwikkelingslanden op het gebied van ontwikkeling, productie en gebruik van vaccins bij immunisatieprogramma's; Overwegende dat ten tijde van het initiatief van het Ontwikkelingsprogramma van de Verenigde Naties (hierna te noemen „het UNDP") de Republiek Korea ermee heeft ingestemd als gastland op te treden voor een nieuw op te richten instituut, het Internationaal Vaccinatie-instituut (hierna te noemen „het Instituut"), dat zich toelegt op het vergroten van de capaciteit van ontwikkelingslanden op het gebied van vaccintechnologie en vaccingerelateerde onderzoeks- en ontwikkelingsactiviteiten; Overwegende dat de Partijen bij dit Verdrag het Instituut beschouwen als een instrument om bij te dragen tot de verwezenlijking van de doelstellingen van het CVI; Overwegende dat de Partijen bij dit Verdrag de wens koesteren het Instituut de vorm te geven van een internationale organisatie met een passend bestuur, een rechtspersoonlijkheid en een gepaste internationale status, voorrechten en immuniteiten en andere noodzakelijke voorwaarden om het Instituut in staat te stellen doeltreffend te werken aan het verwezenlijken van zijn doelstellingen; Overwegende dat de Partijen bij dit Verdrag het Instituut wensen op te richten als integrerend bestanddeel van het beleidskader, de strategie en de activiteiten van het CVI; Zijn de ondertekenende Partijen het volgende overeengekomen:    
+Overwegende dat het Initiatief tot Vaccinatie van Kinderen, (hierna te noemen „het CVI”) een coalitie is van regeringen, multi- en bilaterale organisaties, niet-gouvernementele organisaties met inbegrip van stichtingen en verenigingen, en de industrie die gericht is op het waarborgen van de beschikbaarheid van veilige, doeltreffende en betaalbare vaccins, de ontwikkeling en introductie van nieuwe en verbeterde vaccins en op het vergroten van de capaciteit van ontwikkelingslanden op het gebied van ontwikkeling, productie en gebruik van vaccins bij immunisatieprogramma's; Overwegende dat ten tijde van het initiatief van het Ontwikkelingsprogramma van de Verenigde Naties (hierna te noemen „het UNDP”) de Republiek Korea ermee heeft ingestemd als gastland op te treden voor een nieuw op te richten instituut, het Internationaal Vaccinatie-instituut (hierna te noemen „het Instituut”), dat zich toelegt op het vergroten van de capaciteit van ontwikkelingslanden op het gebied van vaccintechnologie en vaccingerelateerde onderzoeks- en ontwikkelingsactiviteiten; Overwegende dat de Partijen bij dit Verdrag het Instituut beschouwen als een instrument om bij te dragen tot de verwezenlijking van de doelstellingen van het CVI; Overwegende dat de Partijen bij dit Verdrag de wens koesteren het Instituut de vorm te geven van een internationale organisatie met een passend bestuur, een rechtspersoonlijkheid en een gepaste internationale status, voorrechten en immuniteiten en andere noodzakelijke voorwaarden om het Instituut in staat te stellen doeltreffend te werken aan het verwezenlijken van zijn doelstellingen; Overwegende dat de Partijen bij dit Verdrag het Instituut wensen op te richten als integrerend bestanddeel van het beleidskader, de strategie en de activiteiten van het CVI; Zijn de ondertekenende Partijen het volgende overeengekomen:    
 
 ### Artikel  I  
 
 ####Oprichting
 
-Er wordt een onafhankelijke internationale organisatie opgericht met de naam „Internationaal Vaccinatie-instituut". Dit Instituut functioneert in overeenstemming met het Statuut dat als een integrerend bestanddeel bij dit Verdrag is gevoegd.  
+Er wordt een onafhankelijke internationale organisatie opgericht met de naam „Internationaal Vaccinatie-instituut”. Dit Instituut functioneert in overeenstemming met het Statuut dat als een integrerend bestanddeel bij dit Verdrag is gevoegd.  
 
 ### Artikel  II  
 
@@ -449,7 +466,7 @@ Het Instituut draagt zorg voor de uitvoering van belangrijke wetenschappelijke t
 ####Uitgangspunten
 
 1.  Het Instituut fungeert als een internationaal kennis- en informatiecentrum gericht op het ontwikkelen van deskundigheid op specifieke gebieden en het bieden van technische ondersteuning bij het onderzoek naar en de ontwikkeling van vaccins.   
-2.  De activiteiten van het Instituut worden afgestemd op die van andere openbare of particuliere, internationale en nationale instituten die soortgelijke doelstellingen hebben. De activiteiten worden, zo veel mogelijk, in samenwerking met deze instituten gepland en uitgevoerd. In het bijzonder werkt het Instituut nauw samen met de Wereldgezondheidsorganisatie (hierna te noemen „de WHO") bij het bepalen van de technische en andere aspecten van het programma die verband houden met het mandaat van de WHO.   
+2.  De activiteiten van het Instituut worden afgestemd op die van andere openbare of particuliere, internationale en nationale instituten die soortgelijke doelstellingen hebben. De activiteiten worden, zo veel mogelijk, in samenwerking met deze instituten gepland en uitgevoerd. In het bijzonder werkt het Instituut nauw samen met de Wereldgezondheidsorganisatie (hierna te noemen „de WHO”) bij het bepalen van de technische en andere aspecten van het programma die verband houden met het mandaat van de WHO.   
 
 ### Artikel  VI  
 
@@ -512,7 +529,7 @@ ii. de Directeur en het personeel.
 
 ####Samenstelling van de Raad
 
-1.  De Raad bestaat uit ten minste dertien en ten hoogste zeventien leden, die als volgt worden gekozen: 
+1.  De Raad bestaat uit ten minste negen en ten hoogste tweeëntwintig leden, die als volgt worden gekozen: 
 
 i. ten hoogste tien leden in algemene dienst worden gekozen door de Raad. Hierbij wordt in het bijzonder gekeken naar de beroepservaring en de kwalificaties van de voorgedragen leden, naar een adequate geografische spreiding, naar organisaties en landen die interesse hebben in en wezenlijke steun geven aan het Instituut, of naar het feit dat zich in bepaalde landen belangrijke voorzieningen bevinden;  
 
@@ -520,15 +537,18 @@ ii. twee leden worden benoemd door het gastland;
 
 iii. twee leden worden benoemd door de WHO;  
 
-iv. een lid wordt door de Raad gekozen op voordracht van het UNDP;  
+iv. ten hoogste vijf leden worden gekozen door de Raad op voordracht van de regeringen van de partijen bij dit Verdrag;  
 
-v. de Uitvoerend Secretaris van het CVI of zijn/haar vertegenwoordiger wordt ambtshalve lid; en  
+v. een lid wordt gekozen door de Raad op voordracht van het UNDP;  
 
-vi. de Directeur van het Instituut wordt ambtshalve lid.     
+vi. de Uitvoerend Secretaris van het GAVI, of zijn/haar vertegenwoordiger, wordt ambtshalve lid; en  
+
+vii. de Directeur van het Instituut wordt ambtshalve lid.     
 2.  Algemene leden worden benoemd voor termijnen van ten hoogste drie jaar overeenkomstig hetgeen vóór de benoeming door de Raad is vastgesteld. In geval een vacature voor leden in algemene dienst ontstaat vanwege pensioen, overlijden, onbekwaamheid of enige andere reden, zorgt de Raad ervoor dat in de vacature wordt voorzien op dezelfde wijze als bij de oorspronkelijke benoeming. Een nieuw lid dat tijdens de termijn van een ander lid tot diens vervanger wordt benoemd, kan worden benoemd voor de resterende termijn van het lid in wiens plaats hij komt. Hij/zij is herkiesbaar voor twee volgende termijnen.   
 3.  De leden van de Raad zijn herkiesbaar voor benoeming voor een tweede termijn, maar zij mogen niet meer dan twee achtereenvolgende termijnen dienen, met uitzondering van het lid dat tot Voorzitter wordt gekozen; de termijn van dit lid kan door de Raad worden verlengd zodat deze samenvalt met de periode waarvoor hij/zij tot Voorzitter is benoemd.   
-4.  De leden van de Raad, buiten de leden die ambtshalve lid zijn en de door het gastland en de WHO benoemde leden, zijn lid op persoonlijke titel en worden niet beschouwd noch kunnen zij optreden als officiële vertegenwoordigers van regeringen of organisaties.   
-5.  De ambtstermijn en de selectie van de door de Regering van het gastland (hierna te noemen „de Regering") te benoemen leden wordt bepaald door de Regering.   
+4.  De leden van de Raad, buiten de leden die ambtshalve lid zijn, de door het gastland en de WHO benoemde leden en de leden die op voordracht van de regeringen zijn gekozen, zijn lid op persoonlijke titel en worden niet beschouwd noch kunnen zij optreden als officiële vertegenwoordigers van regeringen of organisaties.   
+5.  De ambtstermijn en de selectie van de door de Regering van het gastland (hierna te noemen „de Regering”) te benoemen leden wordt bepaald door de Regering.   
+6.  De leden van de Raad die op voordracht van de regeringen worden gekozen, hebben een ambtstermijn van drie jaar en kunnen worden herkozen.   
 
 ### Artikel  X  
 
@@ -661,4 +681,18 @@ Het Instituut treft voorzieningen voor een passende geschillenregeling met inbeg
 
 1.  Indien wordt vastgesteld dat de doelstellingen van het Instituut in voldoende mate zijn verwezenlijkt of dat het Instituut niet langer in staat is doeltreffend te werken, kan het Instituut worden opgeheven bij drie vierde meerderheid van alle stemmende leden van de Raad.   
 2.  In geval van opheffing herkrijgt de Regering alle grond, installaties en andere activa in het gastland en in andere landen gelegen, en door de Regering aan het Instituut ter beschikking gesteld, alsmede blijvend daaraan aangebrachte verbeteringen die vast kapitaal vertegenwoordigen. De overige activa van het Instituut worden overgebracht naar landen die deze activa voor soortgelijke doelen gaan gebruiken of verdeeld onder instellingen in de desbetreffende landen wier doelen vergelijkbaar zijn met die van het Instituut, nadat hierover in overleg met de Regering overeenstemming is bereikt tussen de regeringen van die landen en de Raad.   
+
+### Wijziging  I*  
+
+Teneinde zijn TAKEN uit te voeren, kan het Instituut partijen testvaccins bereiden ten behoeve van evaluatie en klinische proeven. In overeenstemming met zijn STATUS als instituut voor wetenschap, ontwikkeling en educatie produceert het Instituut evenwel geen vaccins bestemd voor verkoop onder productlicentie of voor andere commerciële verkoop.  
+
+### Wijziging  II*  
+
+####Vrijwaring en aansprakelijkheid
+
+De Raad, functionarissen en personeelsleden, met inbegrip van consultants, van het Instituut worden door het Instituut gevrijwaard tegen alle verliezen en kosten die zij maken in verband met de uitoefening van hun taken, uitgezonderd verliezen en kosten die zijn veroorzaakt door opzettelijk in gebreke te blijven.  
+
+### Wijziging  III*  
+
+De ambtstermijn en de selectie van de door de WHO te benoemen leden van de Raad van Toezicht worden door de WHO bepaald.  
 
