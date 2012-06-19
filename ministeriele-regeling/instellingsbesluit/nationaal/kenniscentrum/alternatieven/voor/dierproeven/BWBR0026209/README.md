@@ -8,7 +8,7 @@ De Minister van Volksgezondheid, Welzijn en Sport,  Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *directeur:* de directeur van de sector Voeding, Geneesmiddelen en Consumentenveiligheid van het RIVM;  
+a. *directeur:* de directeur Volksgezondheid en Zorg van het RIVM;  
 
 b. *Minister:* Minister van Volksgezondheid, Welzijn en Sport;  
 
@@ -16,9 +16,7 @@ c. *NKCA:* Nationaal Kenniscentrum Alternatieven voor Dierproeven als bedoeld in
 
 d. *RIVM:* Rijksinstituut voor Volksgezondheid en Milieu;  
 
-e. *stuurgroep:* interdepartementale stuurgroep alternatieven voor dierproeven als bedoeld in de Kabinetsvisie Alternatieven voor dierproeven;  
-
-f. *werkgroep:* interdepartementale werkgroep alternatieven voor dierproeven als bedoeld in de Kabinetsvisie Alternatieven voor dierproeven.    
+e. *werkgroep:* interdepartementale werkgroep alternatieven voor dierproeven als bedoeld in de Kabinetsvisie Alternatieven voor dierproeven.    
 
 ### Artikel  2  
 
@@ -44,7 +42,7 @@ c. het adviseren van de departementen betrokken bij de uitvoering van de Kabinet
 
 d. het bundelen en afstemmen van de inbreng in internationale gremia;  
 
-e. het organiseren van het Regulier Overleg Alternatieven voor Dierproeven;  
+e. het organiseren van het Regulier Overleg Dierproeven en Alternatieven;  
 
 f. het verzorgen van delen in curricula voor de opleiding van proefdierkundigen en in life science opleidingen waarin proefdierstudies een rol spelen;  
 
@@ -52,9 +50,7 @@ g. het verzorgen van het onderdeel alternatieven voor dierproeven in de cursus P
 
 h. het verzorgen van periodieke bijscholing van de deskundigen voor alternatieven in de dierexperimentencommissies;  
 
-i. het ondersteunen van de communicatie tussen en met onderzoekers en het verzorgen van de communicatie naar het publiek over alternatieven voor dierproeven;  
-
-j. Het voeren van het secretariaat van de stuurgroep en de werkgroep.     
+i. het ondersteunen van de communicatie tussen en met onderzoekers en het verzorgen van de communicatie naar het publiek over alternatieven voor dierproeven.     
 2.  Het NKCA voert zijn werkzaamheden uit na voorafgaande jaarlijkse goedkeuring door de Minister van zijn werkprogramma.   
 3.  De werkzaamheden van het NKCA zijn functioneel gescheiden van de werkzaamheden van het RIVM.   
 4.  Het NKCA stelt zijn eigen werkwijze vast.   
@@ -65,17 +61,17 @@ Het NKCA wordt voor een aansluitende periode van ten minste vijf jaren gefinanci
 
 ### Artikel  6  
 
-Het NKCA doet uiterlijk 1 maart van elk kalenderjaar aan de directeur, de Minister en de stuurgroep verslag van zijn werkzaamheden gedurende het daaraan voorafgaande kalenderjaar.  
+Het NKCA doet uiterlijk 1 maart van elk kalenderjaar aan de directeur en de Minister verslag van zijn werkzaamheden gedurende het daaraan voorafgaande kalenderjaar.  
 
 ### Artikel  7  
 
 1.  Het NKCA verstrekt de Minister, dan wel de Minister wie het mede aangaat op verzoek informatie die het onder zich heeft ingevolge de uitvoering van zijn werkzaamheden, bedoeld in artikel 4, eerste lid, of uit eigener beweging informatie indien bepaalde informatie voor de Minister, dan wel de Minister wie het mede aangaat noodzakelijk is.   
-2.  Eenieder die betrokken is bij de uitvoering van dit besluit en daarbij de beschikking krijgt over gegevens waarvan hij/zij het vertrouwelijk karakter kent of redelijkerwijs moet vermoeden, en voor wie nier reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan behoudens voor zover enig wettelijk voorschrift hem/haar tot bekendmaking verplicht of uit zijn taak bij de uitvoering van dit besluit tot bekendmaking voortvloeit.   
-3.  Het NKCA draagt zorg voor een goed, geordend en toegankelijk beheer van bescheiden, die het ontvangt dan wel gebruikt bij de uitvoering van de werkzaamheden, bedoeld in artikel 4. De bescheiden worden beheerd overeenkomstig het bepaalde bij of krachtens de [Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md).   
+2.  Eenieder die betrokken is bij de uitvoering van dit besluit en daarbij de beschikking krijgt over gegevens waarvan hij/zij het vertrouwelijk karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan behoudens voor zover enig wettelijk voorschrift hem/haar tot bekendmaking verplicht of uit zijn taak bij de uitvoering van dit besluit tot bekendmaking voortvloeit.   
+3.  Het NKCA draagt zorg voor een goed, geordend en toegankelijk beheer van bescheiden, die het ontvangt dan wel gebruikt bij de uitvoering van de werkzaamheden, bedoeld in artikel 4. De bescheiden worden beheerd overeenkomstig het bepaalde bij of krachtens de Archiefwet 1995.   
 
 ### Artikel  8  
 
-Eén en drie jaar na oprichting zal het functioneren en de financiering van het NKCA worden geëvalueerd.  
+Uiterlijk vijf jaar na oprichting is het functioneren en de financiering van het NKCA geëvalueerd.  
 
 ### Artikel  9  
 
