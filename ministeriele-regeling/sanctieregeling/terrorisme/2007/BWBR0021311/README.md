@@ -9,7 +9,7 @@ Gelet op Resolutie 1373 van de Veiligheidsraad van 29 september 2001;
 
 Gelet op Gemeenschappelijk Standpunt van de Raad van de Europese Unie van 27 december 2001 (2001/930/GBVB) inzake terrorismebestrijding (Pb EG L 344);
 
-Gelet op [artikel 2, tweede lid](../../../../../wet/sanctiewet/1977/BWBR0003296/README.md), en [artikel 3 van de Sanctiewet 1977](../../../../../wet/sanctiewet/1977/BWBR0003296/README.md);
+Gelet op artikel 2, tweede lid, en artikel 3 van de Sanctiewet 1977;
 Besluit:    
 
 ### Artikel  1  
@@ -47,6 +47,6 @@ B.R.Bot
 
 ### Bijlage  
 
-a. Yahya El Mamy Sakho, alias Abu Hanan, alias Yahya, geboren op 1 juli 1974 te Nouakchott (Mauritanië), paspoortnummer M0198035  
+a.  Vervallen   
 
 b. Murat Öfkeli, alias Abu Jarrah, alias Ibrahim, geboren op 28 juni 1970 te Gaziantep (Turkije), paspoortnummer NF 9064256   

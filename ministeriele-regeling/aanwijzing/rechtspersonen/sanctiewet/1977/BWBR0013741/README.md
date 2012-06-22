@@ -3,16 +3,16 @@
 ##Aanwijzing rechtspersonen Sanctiewet 1977
 
 De Minister van Financiën,  
-Gelet op [artikel 10, tweede lid, van de Sanctiewet 1977](../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md);
+Gelet op artikel 10, tweede lid, van de Sanctiewet 1977;
 Besluit:    
 
 ### Artikel  1  
 
-Als belast met het toezicht op de naleving van het bij of krachtens de [vijfde afdeling van de Sanctiewet 1977](../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md) bepaalde met betrekking tot het financieel verkeer worden aangewezen: 
+Als belast met het toezicht op de naleving van het bij of krachtens de vijfde afdeling van de Sanctiewet 1977 bepaalde met betrekking tot het financieel verkeer worden aangewezen: 
 
-a. De Nederlandsche Bank N.V., voorzover het betreft de naleving door de instellingen bedoeld in [artikel 10, tweede lid, onder a, c en e tot met i, van die wet](../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md);  
+a. De Nederlandsche Bank N.V., voorzover het betreft de naleving door de instellingen bedoeld in artikel 10, tweede lid, onder a, c en e tot en met j, van die wet;  
 
-b. de Stichting Autoriteit Financiële Markten, voor zover het betreft de naleving door de instellingen bedoeld in [artikel 10, tweede lid, onder b en d, van die wet](../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md).    
+b. de Stichting Autoriteit Financiële Markten, voor zover het betreft de naleving door de instellingen bedoeld in artikel 10, tweede lid, onder b en d, van die wet.    
 
 ### Artikel  2  
 

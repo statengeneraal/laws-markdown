@@ -22,11 +22,17 @@ In deze Overeenkomst wordt verstaan onder: uitrusting: de vervoermiddelen, het m
 
 1.  Voor het indienen van een verzoek om bijstand alsmede voor het doen uitvoeren daarvan zijn bevoegde organen in de zin van deze Overeenkomst: 
 
-a. indien het betreft het verlenen van bijstand door en aan deelstaten en provincies die aan elkaar grenzen  
+a. indien het betreft het verlenen van bijstand door en aan deelstaten en provincies die aan elkaar grenzen 
 
-voor de Bondsrepubliek Duitsland: de Minister van Binnenlandse Zaken van de betrokken deelstaat voor Nederland: de commissaris der Koningin in de betrokken provincie;  
+voor de Bondsrepubliek Duitsland: de Minister van Binnenlandse Zaken van de betrokken deelstaat  
 
-b. indien het betreft het verlenen van bijstand door en aan deelstaten en provincies die niet aan elkaar grenzen voor de Bondsrepubliek Duitsland: de Minister van Binnenlandse Zaken van de Bondsrepubliek Duitsland voor Nederland: de Minister van Binnenlandse Zaken.     
+voor Nederland: de voorzitter van de betrokken veiligheidsregio;    
+
+b. indien het betreft het verlenen van bijstand door en aan deelstaten en provincies die niet aan elkaar grenzen 
+
+voor de Bondsrepubliek Duitsland: de Minister van Binnenlandse Zaken van de Bondsrepubliek Duitsland  
+
+voor Nederland: de Minister van Binnenlandse Zaken.       
 2.  De bevoegde organen van elk der Overeenkomstsluitende Partijen kunnen een verzoek om bijstand indienen, indien naar hun oordeel de plaats, de omvang en de aard van de ramp respectievelijk het zware ongeval, gelet op het beschikbare personeel en materieel, bijstand noodzakelijk maken.   
 3.  Het bevoegde orgaan van de verzoekende Overeenkomstsluitende Partij geeft zoveel mogelijk een toelichting over de bijstand die het verwacht en over de taken die aan de bijstandseenheid zullen worden opgedragen.   
 4.  De omvang en de aard van de te verlenen bijstand worden telkenmale door het bevoegde orgaan van de Overeenkomstsluitende Partij die de bijstand verleent, vastgesteld na overleg met het bevoegde orgaan van de verzoekende Overeenkomstsluitende Partij.   

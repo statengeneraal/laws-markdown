@@ -72,6 +72,37 @@ d. de onderneming de Nederlandsche Bank in kennis heeft gesteld van haar voornem
 2.  Indien een elektronischgeldinstelling als bedoeld in het eerste lid zijn werkzaamheden niet gedurende de gehele periode van de voorafgaande twaalf maanden heeft verricht, kan voor de toepassing van het eerste lid, onderdeel a, worden uitgegaan van een programma van werkzaamheden waarin naar het oordeel van de Nederlandsche Bank een reële begroting is opgenomen van de gezamenlijke waarde van de financiële verplichtingen die verband houden met de uitgifte van elektronisch geld.   
 3.  Een elektronischgeldinstelling als bedoeld in het eerste lid stelt de Nederlandsche Bank onverwijld in kennis van elke verandering in zijn situatie die relevant is voor het naleven van de in het eerste lid gestelde regels.   
 
+### §  2.0b  
+
+#### *Bedrijf van wisselinstelling* 
+
+####Vrijstelling als bedoeld in [artikel 2:54k, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)
+
+### Artikel  1c*  
+
+1.  Van [artikel 2:54i, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn vrijgesteld ondernemingen die het bedrijf van hotel uitoefenen en die als logiesverstrekkend bedrijf zijn ingeschreven in een door het Bedrijfschap Horeca en Catering bijgehouden register, voor zover het betreft het wisselen van munten of bankbiljetten en het uitbetalen van munten of bankbiljetten op vertoon van een creditcard of tegen inlevering van een of meer cheques, met een tegenwaarde van ten hoogste €  500 per gast per overnachting, voor natuurlijke personen aan wie tevens door het hotel tegen betaling logies wordt verstrekt.   
+2.  Aan de vrijstelling, bedoeld in het eerste lid, zijn de volgende voorschriften verbonden: 
+
+a. reclame-uitingen met betrekking tot de vrijgestelde werkzaamheden zijn slechts toegelaten voorzover het betreft: 
+
+1°. het uitstallen van koersenborden die niet vanaf de openbare weg leesbaar zijn;  
+
+2°. vermelding in folders en brochures die in hoofdzaak de hoofdactiviteit betreffen;  
+
+3°. vermelding, al dan niet met behulp van pictogrammen, in hotelgidsen;  
+
+4°. vermelding in het interne communicatiecircuit van het hotel;    
+
+b. buitenlandse munten en bankbiljetten die worden gebruikt of verworven bij de vrijgestelde werkzaamheden mogen slechts worden betrokken of afgestort bij een financiële onderneming die bevoegd is in Nederland het bedrijf van betaaldienstagent, betaaldienstverlener of bank uit te oefenen dan wel bij een wisselinstelling die beschikt over een vergunning, bedoeld in [artikel 2:54i, eerste lid, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), waartoe met de desbetreffende betaaldienstagent, betaaldienstverlener, bank of wisselinstelling een duurzame overeenkomst is gesloten;  
+
+c. er wordt een administratie bijgehouden waaruit blijkt waar en wanneer buitenlandse munten en bankbiljetten zijn betrokken en afgestort, en waarin van iedere wisseltransactie wordt vastgelegd: de datum, het type transactie, de betrokken valuta’s, de omvang van de transactie, de naam van de cliënt en het kamernummer van de cliënt;  
+
+d. de onder c bedoelde gegevens blijven tot vijf jaar na het uitvoeren van de transactie bewaard.     
+
+### Artikel  1d  
+
+Van [artikel 2:54i, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn vrijgesteld beleggingsondernemingen waaraan een vergunning als bedoeld in [artikel 2:96, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is verleend, voor zover het betreft het uitbetalen van munten en bankbiljetten tegen inlevering van een of meer onderdelen van het couponblad van een waardepapier aan toonder tegen inlevering waarvan de rente op dit waardepapier kan worden geïnd.  
+
 ### §  2.1  
 
 ####Aanbieden van beleggingsobjecten
@@ -565,9 +596,7 @@ a. zij deze werkzaamheden verrichten ten behoeve van stichtingen als bedoeld in 
 
 b. zij deze werkzaamheden verrichten ten behoeve van personen of vennootschappen als bedoeld in artikel 21; of  
 
-c. zij deze werkzaamheden verrichten ten behoeve van financiële ondernemingen die in Nederland het bedrijf van bank mogen uitoefenen; of  
-
-d. zij geldtransactiekantoren zijn als bedoeld in [artikel 1, onderdeel a, van de Wet inzake de geldtransactiekantoren](../../../../wet/wet/inzake/de/geldtransactiekantoren/BWBR0013816/README.md) die zijn ingeschreven als bedoeld in [artikel 2, eerste lid, van die wet](../../../../wet/wet/inzake/de/geldtransactiekantoren/BWBR0013816/README.md) en zij deze werkzaamheden verrichten ten behoeve van een geldtransactie als bedoeld in [artikel 1, onderdeel c, onder 3°, van die wet](../../../../wet/wet/inzake/de/geldtransactiekantoren/BWBR0013816/README.md).     
+c. zij deze werkzaamheden verrichten ten behoeve van financiële ondernemingen die in Nederland het bedrijf van bank mogen uitoefenen.     
 2.  Aan de vrijstelling, bedoeld in het eerste lid, aanhef en onderdeel c, worden de volgende voorschriften verbonden: 
 
 a. de werkzaamheden vinden plaats op grond van een schriftelijke overeenkomst tussen de tussenpersoon en de financiële onderneming en van deze overeenkomst wordt mededeling gedaan aan de Autoriteit Financiële Markten;  
@@ -883,7 +912,7 @@ e. effecten zonder aandelenkarakter die worden uitgegeven door een bank, voorzov
 
 5°. gedekt zijn door een depositogarantiestelsel als bedoeld in richtlijn nr. 94/19/EG van het Europees Parlement en de Raad van de Europese Unie van 30 mei 1994 inzake de depositogarantiestelsels (PbEG L 135);    
 
-f. effecten zonder aandelenkarakter die worden uitgegeven door een bank waarbij de totale tegenwaarde van de aanbieding minder dan € 50 miljoen bedraagt, welk grensbedrag wordt berekend over een periode van twaalf maanden, indien deze effecten: 
+f. effecten zonder aandelenkarakter die worden uitgegeven door een bank waarbij de totale tegenwaarde van de aanbieding minder dan € 75 miljoen bedraagt, welk grensbedrag wordt berekend over een periode van twaalf maanden, indien deze effecten: 
 
 1°. doorlopend worden aangeboden aan het publiek of onderdeel uitmaken van aanbiedingen aan het publiek of toelatingen tot de handel op een gereglementeerde markt waarbij over een periode van twaalf maanden sprake is van ten minste twee afzonderlijke aanbiedingen of toelatingen van effecten van eenzelfde categorie of klasse;  
 
@@ -899,11 +928,13 @@ f. effecten zonder aandelenkarakter die worden uitgegeven door een bank waarbij 
 
 1.  Van [artikel 5:2 van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn vrijgesteld degenen die effecten aanbieden aan het publiek, voor zover: 
 
-a. ter zake van een eerdere aanbieding van dezelfde effecten aan het publiek [artikel 5:3, tweede lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), artikel 53, of 55, van toepassing was;  
+a. ter zake van een eerdere aanbieding van dezelfde effecten aan het publiek [artikel 5:3, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van toepassing was, indien er een geldig prospectus algemeen verkrijgbaar is gesteld en de uitgevende instelling of de voor het opstellen van een dergelijk prospectus verantwoordelijke persoon bij schriftelijke overeenkomst instemt met het gebruik hiervan;  
 
-b. ter zake van een eerdere toelating van dezelfde effecten tot de handel op een gereglementeerde markt [artikel 5:4 van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of artikel 53, eerste lid, van toepassing was; of  
+b. ter zake van een eerdere aanbieding van dezelfde effecten aan het publiek [artikel 5:3, tweede lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), artikel 53, of 55, van toepassing was;  
 
-c. ter zake van een eerdere aanbieding van dezelfde effecten aan het publiek in Nederland of ter zake van een eerdere toelating van dezelfde effecten tot de handel op een in Nederland gelegen of functionerende gereglementeerde markt een prospectus algemeen verkrijgbaar is gesteld dat is goedgekeurd door de Autoriteit Financiële Markten of een toezichthoudende instantie van een andere lidstaat.     
+c. ter zake van een eerdere toelating van dezelfde effecten tot de handel op een gereglementeerde markt [artikel 5:4 van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of artikel 53, eerste lid, van toepassing was; of  
+
+d. ter zake van een eerdere aanbieding van dezelfde effecten aan het publiek in Nederland, niet zijnde een aanbieding ter zake waarvan [artikel 5:3, eerste lid, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van toepassing was, of ter zake van een eerdere toelating van dezelfde effecten tot de handel op een in Nederland gelegen of functionerende gereglementeerde markt een prospectus algemeen verkrijgbaar is gesteld dat is goedgekeurd door de Autoriteit Financiële Markten of een toezichthoudende instantie van een andere lidstaat.     
 2.  Het aanbieden van aandelen, of certificaten daarvan, aan het publiek is vrijgesteld van hetgeen ingevolge [hoofdstuk 5.1 van het Deel Gedragstoezicht financiële markten van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald, voorzover op de toelating daarvan tot de handel op de gereglementeerde markt [artikel 5:4, aanhef en onderdeel a, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van toepassing is en ter zake van een eerdere toelating tot de handel op dezelfde gereglementeerde markt van dezelfde aandelen, of certificaten daarvan, van dezelfde categorie of klasse, een prospectus algemeen verkrijgbaar is gesteld dat is goedgekeurd door de Autoriteit Financiële Markten of een toezichthoudende instantie van een andere lidstaat.   
 3.  Het aanbieden van aandelen, of certificaten daarvan, aan het publiek die voortkomen uit de conversie of omruiling van andere effecten of uit de uitoefening van rechten verbonden aan andere effecten is vrijgesteld van hetgeen ingevolge [hoofdstuk 5.1 van het Deel Gedragstoezicht financiële markten van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald, voorzover: 
 
@@ -911,9 +942,45 @@ a. ter zake van de aanbieding van die andere effecten aan het publiek een prospe
 
 b. de aan te bieden aandelen, of certificaten daarvan, van dezelfde categorie of klasse zijn als de reeds aangeboden effecten.     
 
+### Artikel  54a  
+
+1.  Van [artikel 5:2 van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn vrijgesteld degenen die effecten aanbieden aan het publiek in Nederland, voor zover: 
+
+a. ter zake van een eerdere aanbieding van dezelfde effecten aan het publiek in Nederland of ter zake van een eerdere toelating van dezelfde effecten tot de handel op een in Nederland gelegen of functionerende gereglementeerde markt een prospectus algemeen verkrijgbaar is gesteld dat voldeed aan het ten tijde van die eerdere aanbieding of eerdere toelating geldende recht; en  
+
+b. ter zake van die eerdere aanbieding of toelating aan de overige toepasselijke wettelijke vereisten is voldaan; en  
+
+c. die eerdere aanbieding of toelating voor 1 juli 2005 is geëindigd of voltooid.     
+2.  Van [artikel 5:2 van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn vrijgesteld degenen die effecten doen toelaten tot de handel op een in Nederland gelegen of functionerende gereglementeerde markt, voor zover: 
+
+a. ter zake van een eerdere toelating van dezelfde effecten tot de handel op dezelfde gereglementeerde markt een prospectus algemeen verkrijgbaar is gesteld dat voldeed aan het ten tijde van die eerdere toelating geldende recht; en  
+
+b. ter zake van die eerdere toelating aan de overige toepasselijke wettelijke vereisten is voldaan; en  
+
+c. die eerdere toelating voor 1 juli 2005 is voltooid.     
+3.  Van [artikel 5:2 van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn vrijgesteld degenen die aandelen of certificaten daarvan aanbieden aan het publiek in Nederland, voor zover: a. op de toelating daarvan tot de handel op een in Nederland gelegen of functionerende gereglementeerde markt [artikel 5:4, onderdeel a, van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van toepassing is en ter zake van een eerdere toelating tot de handel op dezelfde gereglementeerde markt van tot diezelfde categorie of klasse behorende aandelen, of certificaten daarvan, een prospectus algemeen verkrijgbaar is gesteld dat voldeed aan het ten tijde van die eerdere toelating geldende recht; en 
+
+b. ter zake van die eerdere toelating aan de overige toepasselijke wettelijke vereisten is voldaan; en  
+
+c. die eerdere toelating voor 1 juli 2005 is voltooid.     
+
 ### Artikel  55  
 
 Van [artikel 5:2 van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn vrijgesteld degenen die effecten aanbieden aan het publiek, voorzover de effecten worden aangeboden aan personen, niet zijnde gekwalificeerde beleggers, die een schriftelijke overeenkomst van lastgeving hebben afgesloten met een vermogensbeheerder die op grond van de wet in Nederland beleggingsdiensten mag verlenen en die op grond van die overeenkomst zonder last of ruggespraak met de volmachtgever naar eigen inzicht transacties kan verrichten of bewerkstelligen.  
+
+### Artikel  55a  
+
+Van [artikel 5:2 van de wet](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn vrijgesteld degenen die effecten aanbieden aan het publiek, voor zover het effecten betreft die door een werkgever of door een met die werkgever in een groep verbonden rechtspersoon, vennootschap of instelling, worden aangeboden of toegewezen dan wel toe te wijzen zijn aan huidige of voormalige bestuurders, huidige of voormalige leden van de raad van commissarissen of huidige of voormalige werknemers, indien: 
+
+a. een document beschikbaar wordt gesteld dat informatie bevat over het aantal aangeboden effecten, de kenmerken van de effecten, de redenen voor de aanbieding en de bijzonderheden daarvan; en  
+
+b. die werkgever of de met die werkgever in een groep verbonden rechtspersoon, vennootschap of instelling haar hoofdkantoor: 
+
+1° in de Europese Economische Ruimte heeft; of  
+
+2° buiten de Europese Economische Ruimte heeft en haar effecten tot de handel op een gereglementeerde markt zijn toegelaten; of  
+
+3° buiten de Europese Economische Ruimte heeft en haar effecten tot de handel op een markt van een derde land worden toegelaten indien er adequate documentatie – waaronder het beschikbaar gestelde document – ten minste beschikbaar is in een taal die in internationale financiële kringen gebruikelijk is en de Europese Commissie voor de betrokken markt in het derde land een gelijkwaardigheidsbesluit als bedoeld in artikel 4, eerste lid, van de richtlijn prospectus conform de procedure, bedoeld in artikel 24, tweede lid, van de richtlijn prospectus heeft genomen.      
 
 ### §  5.2  
 
