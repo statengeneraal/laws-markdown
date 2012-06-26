@@ -8,7 +8,7 @@ Ingevolge [artikel 62](../../../../../../../../../wet/wet/marktordening/gezondhe
 
 ####Reikwijdte
 
-Deze regeling is van toepassing op zorgaanbieders die tweedelijns curatieve geestelijke gezondheidszorg leveren als bedoeld bij of krachtens de [Zorgverzekeringswet](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).  
+Deze regeling is van toepassing op zorgaanbieders die tweedelijns curatieve geestelijke gezondheidszorg leveren als bedoeld bij of krachtens de [Zorgverzekeringswet](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). 
 
 ### Artikel  2  
 
@@ -36,7 +36,7 @@ In deze regeling wordt verstaan onder:
 
 2.10  *Cliëntgebonden productie*   Cliëntgebonden productie buiten de DBC-systematiek: De producten die geen deel uitmaken van het geleverde zorgprofiel van een DBC en apart worden gedeclareerd.  
 
-2.11  *ZorgTTP*  ZorgTTP is een onafhankelijke organisatie werkzaam is als ‘Trusted Third Party’ op het gebied van zorg en welzijn. ZorgTTP verzorgt pseudonimisering van de MDS-gegevensstroom.    
+2.11  *ZorgTTP*  ZorgTTP is een onafhankelijke organisatie werkzaam is als ‘Trusted Third Party’ op het gebied van zorg en welzijn. ZorgTTP verzorgt pseudonimisering van de MDS-gegevensstroom.   
 
 ### Artikel  3  
 
@@ -48,7 +48,7 @@ a. de uitvoering van de wettelijke taken met betrekking tot het onderhoud van de
 
 b. het verstrekken van informatie aan het Ministerie van VWS over de ontwikkeling van de bekostiging en financiering van de tweedelijns curatieve geestelijke gezondheidszorg.  
 
-c. het monitoren en analyseren van marktontwikkelingen en zo nodig ingrijpen op grond van wettelijke taken of de Minister van VWS adviseren nadere maatregelen te treffen in die deelsectoren van de tweedelijns curatieve geestelijke gezondheidszorg.    
+c. het monitoren en analyseren van marktontwikkelingen en zo nodig ingrijpen op grond van wettelijke taken of de Minister van VWS adviseren nadere maatregelen te treffen in die deelsectoren van de tweedelijns curatieve geestelijke gezondheidszorg.   
 
 ### Artikel  4  
 
@@ -58,9 +58,9 @@ De minimale dataset GGZ omvat de in de navolgende tabel vermelde gegevens over a
 
 | --- |
 |:---|
-|  *Identificatie zorgaanbieder*   Unieke identificatie zorgaanbieder (AGB-code) ¹  |
+|  *Identificatie zorgaanbieder*   Unieke identificatie zorgaanbieder (AGB-code) ¹   |
 
-¹ Dit betreft de AGB-instellingscode voor toegelaten instellingen en de AGB-praktijkcode voor niet aan instellingen verbonden vrijgevestigde zorgaanbieders.  
+¹ Dit betreft de AGB-instellingscode voor toegelaten instellingen en de AGB-praktijkcode voor niet aan instellingen verbonden vrijgevestigde zorgaanbieders. 
 
 | --- |
 |:---|
@@ -85,7 +85,7 @@ De minimale dataset GGZ omvat de in de navolgende tabel vermelde gegevens over a
 3.  In afwijking van lid 1 van dit artikel is een zorgaanbieder van wie de jaarlijkse omzet niet meer bedraagt dan € 70.000 per jaar, danwel die jaarlijks gemiddeld minder dan 50 DBC’s registreert, gerechtigd de elektronische MDS eenmaal per half jaar aan te leveren. De levering geschiedt in dat geval uiterlijk op 31 juli en 31 januari van het opvolgende jaar.   
 4.  Aanlevering aan DIS vindt plaats na pseudonimisering van de patiëntgegevens door gebruikmaking van de software van ZorgTTP. De gegevens worden aangeleverd aan DIS en worden vervolgens aan de NZa beschikbaar gesteld.   
 5.  Voor aanlevering aan DIS via ZorgTTP wordt gebruik gemaakt van de meest recente aanleverspecificatie met de daarin opgenomen technische vereisten. Deze aanleverspecificatie ligt vanaf de datum van inwerkingtreding van deze regeling bij de NZa ter inzage. Op verzoek van een belanghebbende wordt dit format toegezonden. Het format kan worden geraadpleegd op www.DISportal.nl.   
-6.  Mutaties en aanvullingen op de MDS-informatie van productie afgesloten in enig jaar (t) worden uiterlijk op het daaropvolgende jaar (t+1) aangeleverd bij DIS als onderdeel van de reguliere maandelijkse gegevenslevering.   
+6.  Mutaties en aanvullingen op de MDS-informatie van productie afgesloten in enig jaar (t) worden uiterlijk op het daaropvolgende jaar (t+1) aangeleverd bij DIS als onderdeel van de reguliere maandelijkse gegevenslevering.  
 
 ### Artikel  6  
 
@@ -93,25 +93,25 @@ De minimale dataset GGZ omvat de in de navolgende tabel vermelde gegevens over a
 
 1.  De verplichting voor een zorgaanbieder tot aanlevering van de MDS aan DIS, zoals genoemd in artikel 5 van deze regeling, geldt niet indien en voor zover het MDS-gegevens betreft die betrekking hebben op gedeclareerde prestaties c.q. DBC-facturen die onder de uitzonderingsbepaling van [artikel 7 van de Regeling Declaratiebepalingen DBC GGZ](../../../../../../../../../zbo/regeling/declaratiebepalingen/dbc/ggz/BWBR0031644/README.md) vallen.   
 2.  Een zorgaanbieder die in aanmerking wenst te komen voor de vrijstelling als bedoeld in het vorige lid, dient hiervan blijk te geven middels ondertekening van de verklaring als bedoeld in [artikel 7.1 van de Regeling Declaratiebepalingen DBC GGZ](../../../../../../../../../zbo/regeling/declaratiebepalingen/dbc/ggz/BWBR0031644/README.md).   
-3.  Ondertekening van de in het vorige lid genoemde verklaring blijft achterwege, indien het MDS-gegevens betreft die betrekking hebben op gedeclareerde prestaties c.q. facturen aan zelfbetalende cliënten als bedoeld in [artikel 7.6 van de Regeling Declaratiebepalingen DBC GGZ](../../../../../../../../../zbo/regeling/declaratiebepalingen/dbc/ggz/BWBR0031644/README.md).   
+3.  Ondertekening van de in het vorige lid genoemde verklaring blijft achterwege, indien het MDS-gegevens betreft die betrekking hebben op gedeclareerde prestaties c.q. facturen aan zelfbetalende cliënten als bedoeld in [artikel 7.6 van de Regeling Declaratiebepalingen DBC GGZ](../../../../../../../../../zbo/regeling/declaratiebepalingen/dbc/ggz/BWBR0031644/README.md).  
 
 ### Artikel  7  
 
 ####Getrouwe aanlevering MDS
 
-Door de feitelijke verstrekking verklaart de zorgaanbieder alle gegevens betreffende de MDS volledig en naar waarheid te hebben ingevuld.  
+Door de feitelijke verstrekking verklaart de zorgaanbieder alle gegevens betreffende de MDS volledig en naar waarheid te hebben ingevuld. 
 
 ### Artikel  8  
 
 ####Intrekking oude regel(s)
 
-Gelijktijdig met de inwerkingtreding van deze regeling wordt de ‘ [Regeling Verplichte aanlevering minimale dataset GGZ Zvw](../../../../../../../../../zbo/regeling/verplichte/aanlevering/minimale/dataset/ggz/zvw/BWBR0030800/README.md) ’, kenmerk NR/CU-514 ingetrokken.  
+Gelijktijdig met de inwerkingtreding van deze regeling wordt de ‘[Regeling Verplichte aanlevering minimale dataset GGZ Zvw](../../../../../../../../../zbo/regeling/verplichte/aanlevering/minimale/dataset/ggz/zvw/BWBR0030800/README.md)’, kenmerk NR/CU-514 ingetrokken. 
 
 ### Artikel  9  
 
 ####Inwerkingtreding en citeerregel
 
-Deze regeling treedt in werking na publicatie in de staatscourant . <sup> 1  De datum van inwerkingtreding is de dag na de publicatiedatum van deze regeling in de Staatscourant.  </sup>  
+Deze regeling treedt in werking na publicatie in de staatscourant<sup> 1 De datum van inwerkingtreding is de dag na de publicatiedatum van deze regeling in de Staatscourant. </sup>. 
 Ingevolge [artikel 20, tweede lid, onderdeel a, van de Wet marktordening gezondheidszorg](../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (Wmg) zal deze regeling in de Staatscourant worden geplaatst. Deze regeling kan worden aangehaald als: ‘Regeling Verplichte aanlevering minimale dataset GGZ Zvw’.  
 
 Nederlandse Zorgautoriteit, 

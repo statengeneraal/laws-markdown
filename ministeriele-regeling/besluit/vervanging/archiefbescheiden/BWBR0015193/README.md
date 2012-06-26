@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 10 juni 2003, kenmerk MIO-2003042498, houdende vervanging archiefbescheiden
+##Besluit van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 10 juni 2003, kenmerk MIO-2003042498, houdende vervanging archiefbescheiden 
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
 Gelet op [artikel 7 van de Archiefwet 1995](../../../../../wet/archiefwet/1995/BWBR0007376/README.md),
@@ -10,10 +10,10 @@ Besluit:     In de dynamische en semi-statische fase over te gaan tot vervanging
 10 juni 2003    
 
 De 
-Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
+Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
 
 namens deze, 
 
 de 
 directeur Informatiemanagement en Organisatie, 
-E.G.M.Edelbroek    
+E.G.M.  Edelbroek      

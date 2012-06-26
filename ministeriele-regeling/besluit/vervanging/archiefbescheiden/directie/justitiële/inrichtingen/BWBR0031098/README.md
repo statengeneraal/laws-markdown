@@ -24,6 +24,6 @@ Den Haag
 19 november 2011   
 
 De 
-Minister van Veiligheid en Justitie,namens deze:
-de hoofddirecteur Dienst Justitiële Inrichtingen,
-P.Hennephof   
+Minister van Veiligheid en Justitie, namens deze: 
+de hoofddirecteur Dienst Justitiële Inrichtingen, 
+P. Hennephof     

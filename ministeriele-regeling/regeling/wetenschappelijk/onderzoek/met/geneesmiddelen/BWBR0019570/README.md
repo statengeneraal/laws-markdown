@@ -12,7 +12,7 @@ In deze regeling wordt verstaan onder:
 
 a. wet: de [Wet medisch-wetenschappelijk onderzoek met mensen](../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md);  
 
-b. besluit: [Besluit wetenschappelijk onderzoek met geneesmiddelen](../../../../../../../AMvB/besluit/wetenschappelijk/onderzoek/met/geneesmiddelen/BWBR0019313/README.md);    
+b. besluit: [Besluit wetenschappelijk onderzoek met geneesmiddelen](../../../../../../../AMvB/besluit/wetenschappelijk/onderzoek/met/geneesmiddelen/BWBR0019313/README.md);   
 
 ### Artikel  2  
 
@@ -38,11 +38,11 @@ Bij een aanvraag als bedoeld in [artikel 13h van de wet](../../../../../../../we
 
 – informatie over de aan de proefpersonen en aan degenen die het wetenschappelijk onderzoek met geneesmiddelen uitvoeren te betalen vergoedingen;  
 
-– overige voor de beoordeling van het wetenschappelijk onderzoek met geneesmiddelen relevante documenten.    
+– overige voor de beoordeling van het wetenschappelijk onderzoek met geneesmiddelen relevante documenten.   
 
 ### Artikel  3  
 
-1.  Een melding van een substantiële wijziging van het onderzoeksprotocol als bedoeld in [artikel 13k, tweede lid, van de wet](../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) aan de ingevolge [artikel 2, tweede lid, van de wet](../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) bevoegde commissie bevat de volgende gegevens: 
+1. Een melding van een substantiële wijziging van het onderzoeksprotocol als bedoeld in [artikel 13k, tweede lid, van de wet](../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) aan de ingevolge [artikel 2, tweede lid, van de wet](../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) bevoegde commissie bevat de volgende gegevens:
 
 – een ingevuld en ondertekend formulier ‘kennisgeving wijziging van het wetenschappelijk onderzoek met geneesmiddelen’, waarvan het model door de Europese Commissie is vastgesteld;  
 
@@ -54,14 +54,14 @@ Bij een aanvraag als bedoeld in [artikel 13h van de wet](../../../../../../../we
 
 – informatie over de gevolgen van de wijziging;  
 
-– de overige voor de beoordeling van het wetenschappelijk onderzoek met geneesmiddelen relevante documenten.     
+– de overige voor de beoordeling van het wetenschappelijk onderzoek met geneesmiddelen relevante documenten.    
 2.  Een melding van een substantiële wijziging van het onderzoeksprotocol als bedoeld in [artikel 13k, tweede lid, van de wet](../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) aan de ingevolge [artikel 13i, eerste of vijfde lid, van de wet](../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) bedoelde instantie bevat de volgende gegevens: 
 
 – een ingevuld en ondertekend formulier ‘kennisgeving wijziging van het wetenschappelijk onderzoek met geneesmiddelen’, waarvan het model door de Europese Commissie is vastgesteld;  
 
 – een afschrift van de gewijzigde versie van het ingevulde en ondertekende aanvraagformulier, bedoeld in artikel 2, indien de wijziging van het onderzoek leidt tot een wijziging in de op dit formulier vermelde gegevens;  
 
-– een omschrijving van de wijziging van het wetenschappelijk onderzoek met geneesmiddelen en de reden daarvan.     
+– een omschrijving van de wijziging van het wetenschappelijk onderzoek met geneesmiddelen en de reden daarvan.   
 
 ### Artikel  4  
 
@@ -70,7 +70,7 @@ Bij een aanvraag als bedoeld in [artikel 13h van de wet](../../../../../../../we
 – een ingevuld en ondertekend formulier ‘beëindiging wetenschappelijk onderzoek met geneesmiddelen’, waarvan het model door de Europese Commissie is vastgesteld;  
 
 – de datum waarop het wetenschappelijk onderzoek met geneesmiddelen in zijn geheel is beëindigd.     
-2.  Degene die het wetenschappelijk onderzoek met geneesmiddelen verricht, draagt er zorg voor dat binnen één jaar na beëindiging van het onderzoek een samenvatting van de resultaten van het onderzoek wordt ingediend bij de centrale commissie of de Minister van Volksgezondheid, Welzijn en Sport, ingeval het [vijfde lid van artikel 13i van de wet](../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) van toepassing is, en de ingevolge [artikel 2, tweede lid, van de wet](../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) bevoegde commissie.   
+2.  Degene die het wetenschappelijk onderzoek met geneesmiddelen verricht, draagt er zorg voor dat binnen één jaar na beëindiging van het onderzoek een samenvatting van de resultaten van het onderzoek wordt ingediend bij de centrale commissie of de Minister van Volksgezondheid, Welzijn en Sport, ingeval het [ vijfde lid van artikel 13i van de wet](../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) van toepassing is, en de ingevolge [artikel 2, tweede lid, van de wet](../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) bevoegde commissie.  
 
 ### Artikel  5  
 
@@ -80,7 +80,7 @@ Een melding van een ernstig ongewenst voorval als bedoeld in [artikel 13o van de
 
 – een evaluatie van de ernst van het voorval;  
 
-– een beoordeling van het causale verband tussen het geneesmiddel en het ongewenste voorval.    
+– een beoordeling van het causale verband tussen het geneesmiddel en het ongewenste voorval.   
 
 ### Artikel  6  
 
@@ -106,31 +106,31 @@ Een melding van een ernstig ongewenst voorval als bedoeld in [artikel 13o van de
 
 – overige voor de beoordeling van de melding van een vermoeden van een onverwachte ernstige bijwerking relevante gegevens.     
 2.  Indien de in [artikel 13p van de wet](../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) bedoelde vermoedens van onverwachte ernstige bijwerkingen directe consequenties kunnen hebben voor de veiligheid van proefpersonen, die betrokken zijn bij ander wetenschappelijk onderzoek van dezelfde verrichter met hetzelfde geneesmiddel, worden deze vermoedens overeenkomstig [artikel 13p van de wet](../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) gemeld aan de ingevolge [artikel 2, tweede lid, van de wet](../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) bevoegde commissies, die dat wetenschappelijk onderzoek hebben beoordeeld.   
-3.  Degene die het wetenschappelijk onderzoek verricht, draagt er zorg voor dat eens per half jaar een overzichtslijst van alle vermoedens van onverwachte ernstige bijwerkingen van een geneesmiddel voor onderzoek waarvan hij kennis heeft genomen, wordt ingediend bij de ingevolge [artikel 2, tweede lid, van de wet](../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) bevoegde commissies, die wetenschappelijk onderzoek van dezelfde verrichter en met hetzelfde geneesmiddel als waarover het bedoelde vermoeden is gerezen, hebben beoordeeld. De overzichtslijst van alle vermoedens van onverwachte ernstige bijwerkingen van een geneesmiddel voor onderzoek bevat een korte toelichting waarin de belangrijkste conclusies worden vermeld.   
+3.  Degene die het wetenschappelijk onderzoek verricht, draagt er zorg voor dat eens per half jaar een overzichtslijst van alle vermoedens van onverwachte ernstige bijwerkingen van een geneesmiddel voor onderzoek waarvan hij kennis heeft genomen, wordt ingediend bij de ingevolge [artikel 2, tweede lid, van de wet](../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) bevoegde commissies, die wetenschappelijk onderzoek van dezelfde verrichter en met hetzelfde geneesmiddel als waarover het bedoelde vermoeden is gerezen, hebben beoordeeld. De overzichtslijst van alle vermoedens van onverwachte ernstige bijwerkingen van een geneesmiddel voor onderzoek bevat een korte toelichting waarin de belangrijkste conclusies worden vermeld.  
 
 ### Artikel  7  
 
 1.  Bij de lijst van alle vermoedens van ernstige bijwerkingen als bedoeld in [artikel 13q, eerste lid, van de wet](../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) wordt een geaggregeerde samenvattende tabel gevoegd van alle gerapporteerde ernstige bijwerkingen geordend naar orgaansysteem per onderzoek.   
-2.  Een rapport betreffende de veiligheid van de proefpersonen als bedoeld in [artikel 13q, eerste lid, van de wet](../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) bestaat uit een volledige veiligheidsanalyse en een evaluatie van de balans tussen de werkzaamheid en de schadelijkheid van het geneesmiddel voor onderzoek.   
+2.  Een rapport betreffende de veiligheid van de proefpersonen als bedoeld in [artikel 13q, eerste lid, van de wet](../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) bestaat uit een volledige veiligheidsanalyse en een evaluatie van de balans tussen de werkzaamheid en de schadelijkheid van het geneesmiddel voor onderzoek.  
 
 ### Artikel  8  
 
-Bij de toepassing van de beginselen van goede klinische praktijken en bij de documentatie en de archivering van wetenschappelijk onderzoek met geneesmiddelen wordt rekening gehouden met de gedetailleerde richtsnoeren die de Commissie van de Europese Gemeenschappen heeft gepubliceerd in ‘The rules governing medicinal products in the European Union’.  
+Bij de toepassing van de beginselen van goede klinische praktijken en bij de documentatie en de archivering van wetenschappelijk onderzoek met geneesmiddelen wordt rekening gehouden met de gedetailleerde richtsnoeren die de Commissie van de Europese Gemeenschappen heeft gepubliceerd in ‘The rules governing medicinal products in the European Union’. 
 
 ### Artikel  9  
 
 1.  Een wijziging in een door de Europese Commissie vastgesteld formulier treedt voor de toepassing van de artikelen 2, 3 en 4 in werking met ingang van de datum waarop deze wijziging in werking treedt.   
-2.  Een wijziging van een in ‘The rules governing medicinal products in the European Union’ opgenomen gedetailleerde richtsnoer treedt voor de toepassing van artikel 8 in werking met ingang van de datum waarop deze wijziging in werking treedt.   
+2.  Een wijziging van een in ‘The rules governing medicinal products in the European Union’ opgenomen gedetailleerde richtsnoer treedt voor de toepassing van artikel 8 in werking met ingang van de datum waarop deze wijziging in werking treedt.  
 
 ### Artikel  10  
 
-Deze regeling treedt in werking op 1 maart 2006.  
+Deze regeling treedt in werking op 1 maart 2006. 
 
 ### Artikel  11  
 
-Deze regeling wordt aangehaald als: Regeling wetenschappelijk onderzoek met geneesmiddelen.  
+Deze regeling wordt aangehaald als: Regeling wetenschappelijk onderzoek met geneesmiddelen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Volksgezondheid, Welzijn en Sport, 
-C.I.J.M.Ross-van Dorp   
+C.I.J.M. Ross-van Dorp     

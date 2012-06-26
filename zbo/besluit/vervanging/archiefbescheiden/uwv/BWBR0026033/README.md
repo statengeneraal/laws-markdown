@@ -10,4 +10,4 @@ Amsterdam
 13 mei 2009   
 
 Voorzitter Raad van Bestuur UWV, 
-J.M.Linthorst   
+J.M. Linthorst     

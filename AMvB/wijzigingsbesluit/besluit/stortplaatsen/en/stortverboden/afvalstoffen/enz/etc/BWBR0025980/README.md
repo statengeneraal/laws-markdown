@@ -15,29 +15,29 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit stortplaatsen en stortverboden afvalstoffen.   
+Wijzigt het Besluit stortplaatsen en stortverboden afvalstoffen. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen.   
+Wijzigt het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen. 
 
 ### Artikel  III  
 
-Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer.   
+Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer. 
 
 ### Artikel  IV  
 
-Wijzigt het Stortbesluit bodembescherming.   
+Wijzigt het Stortbesluit bodembescherming. 
 
 ### Artikel  V  
 
 1.  Het bevoegd gezag draagt ervoor zorg dat vergunningen als bedoeld in [artikel 8.1 van de Wet milieubeheer](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) die voor de datum van inwerkingtreding van dit besluit zijn verleend met betrekking tot stortplaatsen als bedoeld in [artikel 8.47, eerste lid, onder a, van die wet](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) op 16 juli 2009 met dit besluit in overeenstemming zijn.   
 2.  Het [Besluit stortplaatsen en stortverboden afvalstoffen](../../../../../../../../../../AMvB/besluit/stortverbod/afvalstoffen/BWBR0009094/README.md) en het [Stortbesluit bodembescherming](../../../../../../../../../../AMvB/stortbesluit/bodembescherming/BWBR0005858/README.md), zoals deze luidden voor de datum van inwerkingtreding van dit besluit, blijven tot 16 juli 2009 van kracht met betrekking tot stortplaatsen als bedoeld in het eerste lid.   
-3.  De wijzigingen ingevolge artikel II in [artikel 10 van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](../../../../../../../../../../AMvB/besluit/melden/bedrijfsafvalstoffen/en/gevaarlijke/afvalstoffen/BWBR0017294/README.md) zijn met ingang van 16 juli 2009 van toepassing op degene die zich van bedrijfsafvalstoffen of gevaarlijke afvalstoffen ontdoet door afgifte aan een persoon die een stortplaats als bedoeld in het eerste lid drijft.   
+3.  De wijzigingen ingevolge artikel II in [artikel 10 van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](../../../../../../../../../../AMvB/besluit/melden/bedrijfsafvalstoffen/en/gevaarlijke/afvalstoffen/BWBR0017294/README.md) zijn met ingang van 16 juli 2009 van toepassing op degene die zich van bedrijfsafvalstoffen of gevaarlijke afvalstoffen ontdoet door afgifte aan een persoon die een stortplaats als bedoeld in het eerste lid drijft.  
 
 ### Artikel  VI  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -45,16 +45,16 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 12 juni 2009  
 Beatrix  
 
-De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer , 
+De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer ,  
 J. M. Cramer   
 
 de *drieëntwintigste* juni 2009 
 
-De Staatssecretaris van Justitie , 
+De Staatssecretaris van Justitie ,  
 N. Albayrak    
 
-### Bijlage  
+### Bijlage 
 
 ####, behorend bij artikel I, onder I 
 
-Wijzigt het Besluit stortplaatsen en stortverboden afvalstoffen.  
+Wijzigt het Besluit stortplaatsen en stortverboden afvalstoffen.

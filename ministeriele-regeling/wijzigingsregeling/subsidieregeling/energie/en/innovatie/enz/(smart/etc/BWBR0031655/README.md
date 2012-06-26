@@ -8,24 +8,24 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Subsidieregeling energie en innovatie.   
+Wijzigt de Subsidieregeling energie en innovatie. 
 
 ### Artikel  II  
 
-Wijzigt de Regeling openstelling en subsidieplafonds EZ 2012.   
+Wijzigt de Regeling openstelling en subsidieplafonds EZ 2012. 
 
 ### Artikel  III  
 
-Op subsidies die voor de datum van inwerkingtreding van deze regeling zijn verstrekt en op aanvragen waarop voor de datum van inwerkingtreding van deze regeling nog niet is beslist blijft de [Subsidieregeling energie en innovatie](../../../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md) van toepassing zoals zij voor de datum van inwerkingtreding van deze regeling luidde.  
+Op subsidies die voor de datum van inwerkingtreding van deze regeling zijn verstrekt en op aanvragen waarop voor de datum van inwerkingtreding van deze regeling nog niet is beslist blijft de [Subsidieregeling energie en innovatie](../../../../../../../../../../ministeriele-regeling/subsidieregeling/energie/en/innovatie/BWBR0026952/README.md) van toepassing zoals zij voor de datum van inwerkingtreding van deze regeling luidde. 
 
 ### Artikel  IV  
 
-Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
 13 juni 2012   
 
 De 
-Minister van Economische Zaken, Landbouw en Innovatie,
-M.J.M.Verhagen   
+Minister van Economische Zaken, Landbouw en Innovatie, 
+M.J.M. Verhagen     

@@ -8,19 +8,19 @@ Besluit:
 
 ### Artikel  1  
 
-De papieren dossiers verplichte aanmelding en afhandeling van een collectieve arbeidsovereenkomst (CAO) in het kader van het [Besluit aanmelding van collectieve arbeidsovereenkomsten](../../../../../ministeriele-regeling/besluit/aanmelding/van/collectieve/arbeidsovereenkomsten/en/het/verzoeken/etc/BWBR0010051/README.md) en het aanvragen van algemeen verbindend verklaren worden overeenkomstig de artikelen 2, 3 en 4 digitaal vervangen.  
+De papieren dossiers verplichte aanmelding en afhandeling van een collectieve arbeidsovereenkomst (CAO) in het kader van het [Besluit aanmelding van collectieve arbeidsovereenkomsten](../../../../../ministeriele-regeling/besluit/aanmelding/van/collectieve/arbeidsovereenkomsten/en/het/verzoeken/etc/BWBR0010051/README.md) en het aanvragen van algemeen verbindend verklaren worden overeenkomstig de artikelen 2, 3 en 4 digitaal vervangen. 
 
 ### Artikel  2  
 
-De gegevens uit de papieren dossiers, bedoeld in artikel 1, worden op een juiste en volledige wijze opgenomen in het elektronisch systeem CAO Aanmelding Online.  
+De gegevens uit de papieren dossiers, bedoeld in artikel 1, worden op een juiste en volledige wijze opgenomen in het elektronisch systeem CAO Aanmelding Online. 
 
 ### Artikel  3  
 
-De oorspronkelijke papieren archiefbescheiden worden om redenen van efficiënt beheer vernietigd.  
+De oorspronkelijke papieren archiefbescheiden worden om redenen van efficiënt beheer vernietigd. 
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -29,4 +29,4 @@ Den Haag
 De 
 Minister van Sociale Zaken en Werkgelegenheid, namens deze: de 
 plaatsvervangend Secretaris-Generaal, 
-P.Hennephof   
+P. Hennephof     

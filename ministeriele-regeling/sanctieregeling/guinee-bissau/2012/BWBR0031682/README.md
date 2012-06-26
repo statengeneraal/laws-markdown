@@ -13,7 +13,7 @@ Besluit:
 ### Artikel  1  
 
 1.  Het is verboden te handelen in strijd met artikel 2 en artikel 8 van Verordening (EU) nr. 377/2012 van de Raad van de Europese Unie van 3 mei 2012 (Pb L 119).   
-2.  Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 4, eerste lid, artikel 5, eerste lid, artikel 6 of artikel 7 van Verordening (EU) nr. 377/2012 van de Raad van de Europese Unie van 3 mei 2012 (Pb L 119) van toepassing is.   
+2.  Een verbod als bedoeld in het eerste lid, is niet van toepassing in gevallen waarin artikel 4, eerste lid, artikel 5, eerste lid, artikel 6 of artikel 7 van Verordening (EU) nr. 377/2012 van de Raad van de Europese Unie van 3 mei 2012 (Pb L 119) van toepassing is.  
 
 ### Artikel  2  
 
@@ -22,17 +22,17 @@ Besluit:
 
 − de Minister van Financiën en  
 
-− de Minister van Economische Zaken, Landbouw en Innovatie.     
+− de Minister van Economische Zaken, Landbouw en Innovatie.    
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Sanctieregeling Guinee-Bissau 2012.  
+Deze regeling wordt aangehaald als: Sanctieregeling Guinee-Bissau 2012. 
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Buitenlandse Zaken,
-U.Rosenthal   
+Minister van Buitenlandse Zaken, 
+U. Rosenthal     

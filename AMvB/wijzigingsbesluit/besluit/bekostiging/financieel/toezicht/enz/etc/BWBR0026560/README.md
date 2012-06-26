@@ -15,35 +15,35 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit bekostiging financieel toezicht.   
+Wijzigt het Besluit bekostiging financieel toezicht. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit bestuurlijke boetes financiële sector.   
+Wijzigt het Besluit bestuurlijke boetes financiële sector. 
 
 ### Artikel  III  
 
-Wijzigt het Besluit Markttoegang financiële ondernemingen Wft.   
+Wijzigt het Besluit Markttoegang financiële ondernemingen Wft. 
 
 ### Artikel  IV  
 
-Wijzigt het Besluit prudentiële regels Wft.   
+Wijzigt het Besluit prudentiële regels Wft. 
 
 ### Artikel  V  
 
-Wijzigt het Besluit prudentieel toezicht financiële groepen Wft.   
+Wijzigt het Besluit prudentieel toezicht financiële groepen Wft. 
 
 ### Artikel  VI  
 
-Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft.   
+Wijzigt het Besluit Gedragstoezicht financiële ondernemingen Wft. 
 
 ### Artikel  VII  
 
-Een onderneming als bedoeld in [artikel VII, derde lid, van de wet tot wijziging van de Wet op het financieel toezicht, het Burgerlijk Wetboek en de Wet inzake geldtransactiekantoren en intrekking van de Wet op het grensoverschrijdend betalingsverkeer ter implementatie van richtlijn nr. 2007/64/EG van het Europees Parlement en de Raad betreffende betalingsdiensten in de interne markt en tot wijziging van de Richtlijnen 97/7/EG, 2002/65/EG, 2005/60/EG en 2006/48/EG, en tot intrekking van Richtlijn 97/5/EG (PbEU L 319)](../../../../../../../../../wet/wijzigingswet/wet/op/het/financieel/toezicht/enz./(implementatie/richtlijn/etc/BWBR0026562/README.md) verstrekt de Nederlandsche Bank de gegevens, bedoeld in [artikel 3a, eerste lid, onderdelen a tot en met c, e, f, i, j, l, m en q, van het Besluit Markttoegang financiële ondernemingen Wft](../../../../../../../../../AMvB/besluit/markttoegang/financiële/ondernemingen/wft/BWBR0020413/README.md).  
+Een onderneming als bedoeld in [artikel VII, derde lid, van de wet tot wijziging van de Wet op het financieel toezicht, het Burgerlijk Wetboek en de Wet inzake geldtransactiekantoren en intrekking van de Wet op het grensoverschrijdend betalingsverkeer ter implementatie van richtlijn nr. 2007/64/EG van het Europees Parlement en de Raad betreffende betalingsdiensten in de interne markt en tot wijziging van de Richtlijnen 97/7/EG, 2002/65/EG, 2005/60/EG en 2006/48/EG, en tot intrekking van Richtlijn 97/5/EG (PbEU L 319)](../../../../../../../../../wet/wijzigingswet/wet/op/het/financieel/toezicht/enz./(implementatie/richtlijn/etc/BWBR0026562/README.md) verstrekt de Nederlandsche Bank de gegevens, bedoeld in [artikel 3a, eerste lid, onderdelen a tot en met c, e, f, i, j, l, m en q, van het Besluit Markttoegang financiële ondernemingen Wft](../../../../../../../../../AMvB/besluit/markttoegang/financiële/ondernemingen/wft/BWBR0020413/README.md). 
 
 ### Artikel  VIII  
 
-Dit besluit treedt in werking op het tijdstip waarop de [wet tot wijziging van de Wet op het financieel toezicht, het Burgerlijk Wetboek en de Wet inzake geldtransactiekantoren en intrekking van de Wet op het grensoverschrijdend betalingsverkeer ter implementatie van richtlijn nr. 2007/64/EG van het Europees Parlement en de Raad betreffende betalingsdiensten in de interne markt en tot wijziging van de Richtlijnen 97/7/EG, 2002/65/EG, 2005/60/EG en 2006/48/EG, en tot intrekking van Richtlijn 97/5/EG (PbEU L 319)](../../../../../../../../../wet/wijzigingswet/wet/op/het/financieel/toezicht/enz./(implementatie/richtlijn/etc/BWBR0026562/README.md), in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de [wet tot wijziging van de Wet op het financieel toezicht, het Burgerlijk Wetboek en de Wet inzake geldtransactiekantoren en intrekking van de Wet op het grensoverschrijdend betalingsverkeer ter implementatie van richtlijn nr. 2007/64/EG van het Europees Parlement en de Raad betreffende betalingsdiensten in de interne markt en tot wijziging van de Richtlijnen 97/7/EG, 2002/65/EG, 2005/60/EG en 2006/48/EG, en tot intrekking van Richtlijn 97/5/EG (PbEU L 319)](../../../../../../../../../wet/wijzigingswet/wet/op/het/financieel/toezicht/enz./(implementatie/richtlijn/etc/BWBR0026562/README.md), in werking treedt. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

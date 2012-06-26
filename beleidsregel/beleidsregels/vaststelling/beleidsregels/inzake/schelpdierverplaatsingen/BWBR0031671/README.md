@@ -15,7 +15,7 @@ In deze beleidsregels wordt verstaan onder:
 
 *minister:* Minister van Economische Zaken, Landbouw en Innovatie;  
 
-*probleemsoorten:* een soort waarvan op basis van de best beschikbare wetenschappelijke kennis kan worden aangenomen dat deze een significant negatief effect kan hebben voor de instandhoudingsdoelen van een Natura 2000-gebied.    
+*probleemsoorten:* een soort waarvan op basis van de best beschikbare wetenschappelijke kennis kan worden aangenomen dat deze een significant negatief effect kan hebben voor de instandhoudingsdoelen van een Natura 2000-gebied.   
 
 ### Hoofdstuk  II  
 
@@ -35,7 +35,7 @@ De minister kan voor het importeren en uitzaaien in de Oosterschelde van mariene
 
 5. Onderdeel van het control- en managementplan is een retrospectieve monitoring om te bewaken dat er toch geen probleemsoorten zijn of worden geïntroduceerd in het importgebied.  
 
-6. Indien uit de retrospectieve monitoring blijkt dat probleemsoorten of in potentie probleemsoorten worden gevonden dan dienen er corrigerende maatregelen te worden genomen. Mogelijk te nemen corrigerende maatregelen zijn in het plan vastgelegd.    
+6. Indien uit de retrospectieve monitoring blijkt dat probleemsoorten of in potentie probleemsoorten worden gevonden dan dienen er corrigerende maatregelen te worden genomen. Mogelijk te nemen corrigerende maatregelen zijn in het plan vastgelegd.   
 
 ### Hoofdstuk  III  
 
@@ -53,7 +53,7 @@ De minister kan voor het transport van mosselzaad uit de Oosterschelde naar de N
 
 4. Onderdeel van het control- en managementplan is een retrospectieve monitoring van het importgebied om te bewaken dat er toch geen probleemsoorten zijn of worden geïntroduceerd in de Waddenzee.  
 
-5. Indien er probleemsoorten of in potentie probleemsoorten worden gevonden als gevolg van de retrospectieve monitoring dan dienen er corrigerende maatregelen te worden genomen. Mogelijk te nemen corrigerende maatregelen zijn in het plan vastgelegd.    
+5. Indien er probleemsoorten of in potentie probleemsoorten worden gevonden als gevolg van de retrospectieve monitoring dan dienen er corrigerende maatregelen te worden genomen. Mogelijk te nemen corrigerende maatregelen zijn in het plan vastgelegd.   
 
 ### Hoofdstuk  IV  
 
@@ -64,5 +64,5 @@ De minister kan voor het transport van mosselzaad uit de Oosterschelde naar de N
 Deze beleidsregels treden in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
 
 De 
-Staatssecretaris van Economische Zaken, Landbouw en Innovatie,
-H.Bleker   
+Staatssecretaris van Economische Zaken, Landbouw en Innovatie, 
+H. Bleker     

@@ -4,7 +4,7 @@
 
 De Minister van Volksgezondheid, Welzijn en Sport;  
 Gelet op [artikel 7, zesde lid, van de Wet medisch-wetenschappelijk onderzoek met mensen](../../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md),
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
@@ -12,8 +12,8 @@ Besluit:
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 december 1999. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 december 1999. Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. 
 
 De 
 Minister van Volksgezondheid, Welzijn en Sport, 
-E.Borst-Eilers    
+E. Borst-Eilers      

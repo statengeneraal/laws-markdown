@@ -11,4 +11,4 @@ Minister van Justitie,
 
 namens deze, 
 Hoofd Centrale Justitiële Documentatie, 
-F.P.M.J.Boots    
+F.P.M.J. Boots     

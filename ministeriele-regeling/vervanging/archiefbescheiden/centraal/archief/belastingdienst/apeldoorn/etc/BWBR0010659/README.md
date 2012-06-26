@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Vervanging archiefbescheiden Centraal Archief Belastingdienst Apeldoorn 1999
+##Vervanging archiefbescheiden Centraal Archief Belastingdienst Apeldoorn 1999 
 
 De Minister van Financiën,  
 Gelet op [artikel 7 van de Archiefwet 1995](../../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) en gelet op de machtiging afgegeven door de Minister van Onderwijs, Cultuur en Wetenschappen, d.d. 4 juni 1999, kenmerk R&B/OSTA/99/571.
@@ -10,10 +10,10 @@ Den Haag
 19 augustus 1999    
 
 De 
-Minister van Financiën, 
+Minister van Financiën,  
 
 Namens deze, 
 
 Het 
 Hoofd Algemene Secretarie, 
-J.Ch.P.Simons    
+J.Ch.P.  Simons      

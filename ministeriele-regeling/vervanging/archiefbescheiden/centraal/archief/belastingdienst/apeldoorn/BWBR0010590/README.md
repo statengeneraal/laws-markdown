@@ -8,4 +8,4 @@ Besluit:     Over te gaan tot vervanging van archiefbescheiden uit het Centraal 
 
 De 
 Minister van Financiën, 
-J. C. P.Simons    
+J. C. P. Simons      

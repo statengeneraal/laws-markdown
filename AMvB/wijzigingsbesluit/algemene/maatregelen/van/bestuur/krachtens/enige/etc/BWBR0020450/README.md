@@ -15,51 +15,51 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit bouw- en houtbedrijven milieubeheer.   
+Wijzigt het Besluit bouw- en houtbedrijven milieubeheer. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit detailhandel en ambachtsbedrijven milieubeheer.   
+Wijzigt het Besluit detailhandel en ambachtsbedrijven milieubeheer. 
 
 ### Artikel  III  
 
-Wijzigt het Besluit horeca-, sport- en recreatie-inrichtingen milieubeheer.   
+Wijzigt het Besluit horeca-, sport- en recreatie-inrichtingen milieubeheer. 
 
 ### Artikel  IV  
 
-Wijzigt het Besluit inrichtingen voor motorvoertuigen milieubeheer.   
+Wijzigt het Besluit inrichtingen voor motorvoertuigen milieubeheer. 
 
 ### Artikel  V  
 
-Wijzigt het Besluit jachthavens.   
+Wijzigt het Besluit jachthavens. 
 
 ### Artikel  VI  
 
-Wijzigt het Besluit opslag- en transportbedrijven milieubeheer.   
+Wijzigt het Besluit opslag- en transportbedrijven milieubeheer. 
 
 ### Artikel  VII  
 
-Wijzigt het Besluit tankstations milieubeheer.   
+Wijzigt het Besluit tankstations milieubeheer. 
 
 ### Artikel  VIII  
 
-Wijzigt het Besluit textielreinigingsbedrijven milieubeheer.   
+Wijzigt het Besluit textielreinigingsbedrijven milieubeheer. 
 
 ### Artikel  IX  
 
-Wijzigt het Besluit voorzieningen en installaties milieubeheer.   
+Wijzigt het Besluit voorzieningen en installaties milieubeheer. 
 
 ### Artikel  X  
 
-Wijzigt het Besluit woon- en verblijfsgebouwen milieubeheer.   
+Wijzigt het Besluit woon- en verblijfsgebouwen milieubeheer. 
 
 ### Artikel  XI  
 
-De bij dit besluit ingevoerde voorschriften zijn voor inrichtingen, die vóór de inwerkingtreding van dit besluit zijn opgericht op industrieterreinen als bedoeld in [artikel 1 van de Wet geluidhinder](../../../../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), voor het eerst van toepassing twee jaar na inwerkingtreding van dit besluit.  
+De bij dit besluit ingevoerde voorschriften zijn voor inrichtingen, die vóór de inwerkingtreding van dit besluit zijn opgericht op industrieterreinen als bedoeld in [artikel 1 van de Wet geluidhinder](../../../../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), voor het eerst van toepassing twee jaar na inwerkingtreding van dit besluit. 
 
 ### Artikel  XII  
 
-Dit besluit treedt in werking met ingang van de dag waarop vier weken zijn verstreken sedert de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag waarop vier weken zijn verstreken sedert de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

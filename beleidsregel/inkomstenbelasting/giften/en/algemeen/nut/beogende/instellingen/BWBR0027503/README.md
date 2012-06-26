@@ -87,7 +87,7 @@ Voor de ANBI-regeling zijn er drie categorieën ‘landen’ te onderscheiden ([
 
 2. een mogendheid als bedoeld in [artikel 41d van de Uitvoeringsregeling IB 2001](../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/inkomstenbelasting/2001/BWBR0012031/README.md); of  
 
-3. andere landen; een aldaar gevestigde instelling kan door mij als ANBI worden aangemerkt, indien en zolang deze voldoet aan te stellen voorwaarden (de derdelanden).   Voor instellingen gevestigd in de onder 3 genoemde derdelanden geldt de volgende voorwaarde als uitgangspunt. De instelling verstrekt jaarlijks gegevens en inlichtingen, op grond waarvan het ANBI-team kan beoordelen of de instelling voldoet aan de voorwaarden van de artikelen  [41a](../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/inkomstenbelasting/2001/BWBR0012031/README.md) en [41b van de Uitvoeringsregeling IB 2001](../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/inkomstenbelasting/2001/BWBR0012031/README.md) en aan de gestelde overige voorwaarden. De instelling maakt aannemelijk dat de verstrekte gegevens en inlichtingen een getrouw beeld van de werkelijke situatie geven. Dit kan bijvoorbeeld met een accountantsverklaring. De bevoegdheid om instellingen in derdelanden aan te merken als ANBI heb ik gemandateerd aan de voorzitter van het managementteam van Belastingdienst/Oost-Brabant/kantoor ’s-Hertogenbosch. Verzoeken kunnen worden gericht aan het ANBI-team.    
+3. andere landen; een aldaar gevestigde instelling kan door mij als ANBI worden aangemerkt, indien en zolang deze voldoet aan te stellen voorwaarden (de derdelanden).   Voor instellingen gevestigd in de onder 3 genoemde derdelanden geldt de volgende voorwaarde als uitgangspunt. De instelling verstrekt jaarlijks gegevens en inlichtingen, op grond waarvan het ANBI-team kan beoordelen of de instelling voldoet aan de voorwaarden van de artikelen [41a](../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/inkomstenbelasting/2001/BWBR0012031/README.md) en [41b van de Uitvoeringsregeling IB 2001](../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/inkomstenbelasting/2001/BWBR0012031/README.md) en aan de gestelde overige voorwaarden. De instelling maakt aannemelijk dat de verstrekte gegevens en inlichtingen een getrouw beeld van de werkelijke situatie geven. Dit kan bijvoorbeeld met een accountantsverklaring. De bevoegdheid om instellingen in derdelanden aan te merken als ANBI heb ik gemandateerd aan de voorzitter van het managementteam van Belastingdienst/Oost-Brabant/kantoor ’s-Hertogenbosch. Verzoeken kunnen worden gericht aan het ANBI-team.    
 ### 7  
 
 ####Beloning leden beleidsbepalend orgaan
@@ -113,4 +113,4 @@ Den Haag
 
 De 
 Minister van Financiën, 
-J.C. deJager   
+J.C. de Jager     

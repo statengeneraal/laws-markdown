@@ -20,16 +20,16 @@ b. volgens de specificaties, vastgelegd in de bijlagen 1 en 2 behorende bij dit 
 
 c. overeenkomstig de eisen, opgenomen in de [bijlage van de Beleidsregel digitale vervanging archiefbescheiden](../../../../../../../../../beleidsregel/beleidsregel/digitale/vervanging/archiefbescheiden/BWBR0023395/README.md), en  
 
-d. met inachtneming van de waarde en het belang, bedoeld in [artikel 2, eerste lid, onderdeel c onderscheidenlijk d, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md), alsmede wat daarover is bepaald in [artikel 4, tweede en derde lid, van de Beleidsregel digitale vervanging archiefbescheiden](../../../../../../../../../beleidsregel/beleidsregel/digitale/vervanging/archiefbescheiden/BWBR0023395/README.md).    
+d. met inachtneming van de waarde en het belang, bedoeld in [artikel 2, eerste lid, onderdeel c onderscheidenlijk d, van het Archiefbesluit 1995](../../../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md), alsmede wat daarover is bepaald in [artikel 4, tweede en derde lid, van de Beleidsregel digitale vervanging archiefbescheiden](../../../../../../../../../beleidsregel/beleidsregel/digitale/vervanging/archiefbescheiden/BWBR0023395/README.md).   
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 
 ### Artikel  3  
 
-Dit besluit kan worden aangehaald als: Besluit digitale vervanging archiefbescheiden Kadaster (veldwerken, hulpkaarten en Lijsten 78a).  
-Dit besluit zal in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd. Van deze terinzagelegging wordt mededeling gedaan in de Staatscourant. <sup> 1  Met ingang van de dag waarop dit besluit in werking treedt, liggen de bijlagen 1 en 2 ter inzage bij de Dienst voor het kadaster en de openbare registers, Hofstraat 110, 7311 KZ Apeldoorn.  </sup>   
+Dit besluit kan worden aangehaald als: Besluit digitale vervanging archiefbescheiden Kadaster (veldwerken, hulpkaarten en Lijsten 78a). 
+Dit besluit zal in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage worden gelegd. Van deze terinzagelegging<sup> 1 Met ingang van de dag waarop dit besluit in werking treedt, liggen de bijlagen 1 en 2 ter inzage bij de Dienst voor het kadaster en de openbare registers, Hofstraat 110, 7311 KZ Apeldoorn. </sup>wordt mededeling gedaan in de Staatscourant.   
 
 Apeldoorn 
 11 maart 2011   
@@ -37,10 +37,10 @@ Apeldoorn
 Raad van Bestuur, namens deze: 
 G.J.M. Barnasconi    
 
-### Bijlage  1  
+###Bijlage 1 
 
-Ligt ter inzage bij de Dienst voor het kadaster en de openbare registers te Apeldoorn.  
+Ligt ter inzage bij de Dienst voor het kadaster en de openbare registers te Apeldoorn.
 
-### Bijlage  2  
+###Bijlage 2 
 
-Ligt ter inzage bij de Dienst voor het kadaster en de openbare registers te Apeldoorn.  
+Ligt ter inzage bij de Dienst voor het kadaster en de openbare registers te Apeldoorn.

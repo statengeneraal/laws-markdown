@@ -18,8 +18,8 @@ b. volgens de specificaties, vastgelegd in de bij dit besluit horende bijlage "h
 
 c. overeenkomstig de eisen, opgenomen in de [bijlage van de Beleidsregel digitale vervanging archiefbescheiden](../../../../../../../beleidsregel/beleidsregel/digitale/vervanging/archiefbescheiden/BWBR0023395/README.md) (Stcrt. 2008, 21); en  
 
-d. met inachtneming van de waarde en het belang, bedoeld in [artikel 2, eerste lid, onderdeel c onderscheidenlijk d, van het Archiefbesluit 1995](../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md), alsmede wat daarover is bepaald in [artikel 4, tweede en derde lid, van de Beleidsregel digitale vervanging archiefbescheiden](../../../../../../../beleidsregel/beleidsregel/digitale/vervanging/archiefbescheiden/BWBR0023395/README.md) (Stcrt. 2008, 21).       Dit besluit met de daarbij behorende bijlage zal in de Staatscourant worden geplaatst.  
+d. met inachtneming van de waarde en het belang, bedoeld in [artikel 2, eerste lid, onderdeel c onderscheidenlijk d, van het Archiefbesluit 1995](../../../../../../../AMvB/archiefbesluit/1995/BWBR0007748/README.md), alsmede wat daarover is bepaald in [artikel 4, tweede en derde lid, van de Beleidsregel digitale vervanging archiefbescheiden](../../../../../../../beleidsregel/beleidsregel/digitale/vervanging/archiefbescheiden/BWBR0023395/README.md) (Stcrt. 2008, 21).      Dit besluit met de daarbij behorende bijlage zal in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap,
-J.M. vanBijsterveldt-Vliegenthart   
+Minister van Onderwijs, Cultuur en Wetenschap, 
+J.M. van Bijsterveldt-Vliegenthart     
