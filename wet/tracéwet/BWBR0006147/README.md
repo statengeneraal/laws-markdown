@@ -16,6 +16,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet wordt verstaan onder: 
 
+*geluidproductieplafond:* geluidproductieplafond als bedoeld in [artikel 11.1 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+
 *hoofdvaarweg:* een vaarweg van nationaal belang;  
 
 *hoofdweg:* een auto- of autosnelweg van nationaal belang;  
@@ -23,6 +25,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 *landelijke spoorweg:* een spoorweg van nationaal belang;  
 
 *Onze Minister:* Onze Minister van Infrastructuur en Milieu;  
+
+*referentiepunt:* referentiepunt als bedoeld in [artikel 11.19 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
 
 *startbeslissing:* de beslissing, bedoeld in artikel 2, eerste lid.     
 2.  Ontheffingen, dispensaties, afwijkingen en soortgelijke beschikkingen worden voor de toepassing van deze wet als vergunning aangemerkt.   
@@ -132,14 +136,14 @@ e. een wijziging van de hoofdvaarweg, die bestaat uit een vergroting of verdiepi
 ### Artikel  9  
 
 1.  Het tracébesluit wordt uiterlijk twee jaar nadat de structuurvisie is toegezonden aan de Tweede Kamer der Staten-Generaal vastgesteld door Onze Minister. Indien geen toepassing is gegeven aan artikel 2, vierde lid, wordt het tracébesluit vastgesteld uiterlijk twee jaar nadat de startbeslissing is toegezonden aan de Tweede Kamer der Staten-Generaal.   
-2.  Indien krachtens artikel 13, zevende lid, toepassing wordt gegeven aan [artikel 19j van de Natuurbeschermingswet 1998](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) of toepassing wordt gegeven aan artikel 13, achtste lid, wordt het tracébesluit vastgesteld mede in overeenstemming met Onze Minister van Landbouw, Natuur en Voedselkwaliteit. Indien niet binnen drie weken na het daartoe strekkende verzoek van Onze Minister overeenstemming is bereikt tussen Onze Minister en Onze Minister van Landbouw, Natuur en Voedselkwaliteit legt Onze Minister dit voor aan Onze Minister-President, Minister van Algemene Zaken.   
+2.  Indien krachtens artikel 13, zesde lid, toepassing wordt gegeven aan [artikel 19j van de Natuurbeschermingswet 1998](../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) of toepassing wordt gegeven aan artikel 13, zevende lid, wordt het tracébesluit vastgesteld mede in overeenstemming met Onze Minister van Landbouw, Natuur en Voedselkwaliteit. Indien niet binnen drie weken na het daartoe strekkende verzoek van Onze Minister overeenstemming is bereikt tussen Onze Minister en Onze Minister van Landbouw, Natuur en Voedselkwaliteit legt Onze Minister dit voor aan Onze Minister-President, Minister van Algemene Zaken.   
 3.  Indien de voorkeur, bedoeld in artikel 4, eerste lid, onderdeel c, een keuze voor artikel 5, eerste lid, onderdeel c, inhoudt, bevordert Onze Minister de vaststelling van de voor de verwezenlijking van die voorkeur noodzakelijke ruimtelijke plannen.   
 
 ### Artikel  10  
 
 1.  Het tracébesluit bevat ten minste: 
 
-a. een beschrijving van de te treffen maatregelen, de inpassing van die maatregelen en de te realiseren ligging in het terrein;  
+a. een beschrijving van de te treffen maatregelen, de inpassing van die maatregelen en de te realiseren ligging in het terrein, waaronder begrepen de maatregelen, bedoeld in [artikel 11.35 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
 
 b. een beschrijving van de te treffen voorzieningen, gericht op het ongedaan maken, beperken of compenseren van de nadelige gevolgen van de uitvoering van het werk, voor zover die voorzieningen rechtstreeks verband houden met de uitvoering van het werk;  
 
@@ -154,18 +158,18 @@ f. de termijn waarbinnen Onze Minister de gevolgen van de ingebruikneming van de
 
 a. een beschrijving van het aantal te realiseren rijstroken;  
 
-b. de in acht te nemen grenswaarden voor geluidhinder en de aanduiding van de maatregelen, gericht op het terugbrengen van de verwachte geluidsbelasting van de gevel van woningen of andere geluidsgevoelige gebouwen onderscheidenlijk aan de grens van geluidsgevoelige terreinen als bedoeld in de [Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md);  
+b. de in acht te nemen geluidproductieplafonds, indien aanleg of wijziging zou leiden tot overschrijding van het geldende geluidproductieplafond, alsmede de referentiepunten ingeval van aanleg of ingeval van verplaatsing van referentiepunten;  
 
-c. de beslissing tot vaststelling van hogere waarden voor de ten hoogste toelaatbare geluidsbelasting in de zone ingevolge de [artikelen 87e tot en met 87i van die wet](../../../wet/wet/geluidhinder/BWBR0003227/README.md); en  
+c. indien toepassing is gegeven aan [artikel 104a van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md), de in dat artikel bedoelde hogere waarden, en  
 
 d. de wijze waarop rekening is gehouden met de risicoanalyse, bedoeld in [artikel 6, eerste lid, van de Wet aanvullende regels veiligheid wegtunnels](../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md).     
 3.  Het tracébesluit inzake de aanleg of wijziging van een landelijke spoorweg bevat, voor zover van toepassing, voorts: 
 
 a. een beschrijving van het aantal te realiseren sporen;  
 
-b. de in acht te nemen grenswaarden voor geluidhinder en de aanduiding van de maatregelen, gericht op het terugbrengen van de verwachte geluidsbelasting van de gevel van woningen of andere geluidsgevoelige gebouwen onderscheidenlijk aan de grens van geluidsgevoelige terreinen als bedoeld in de [Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md), met betrekking tot de aanleg of wijziging van de landelijke spoorweg, alsmede de aansluitende landelijke spoorweg waarop ten gevolge van de aanleg of wijziging sprake is van een aanpassing in de zin van [artikel 106, eerste lid, onderdeel l, van die wet](../../../wet/wet/geluidhinder/BWBR0003227/README.md); en  
+b. de in acht te nemen geluidproductieplafonds, indien aanleg of wijziging zou leiden tot overschrijding van het geldende geluidproductieplafond, alsmede de referentiepunten ingeval van aanleg of ingeval van verplaatsing van referentiepunten;  
 
-c. de beslissing tot vaststelling van hogere waarden voor de ten hoogste toelaatbare geluidsbelasting in de zone ingevolge de [artikelen 106d tot en met 106h van die wet](../../../wet/wet/geluidhinder/BWBR0003227/README.md).     
+c. indien toepassing is gegeven aan [artikel 104a van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md), de in dat artikel bedoelde hogere waarden, en.     
 4.  Bij het tracébesluit wordt aangegeven op welke wijze burgers en maatschappelijke organisaties betrokken zijn. Indien geen structuurvisie is vastgesteld, wordt bij het tracébesluit aangegeven wat de resultaten van de verkenning, bedoeld in artikel 3, zijn en verantwoording afgelegd over de wijze waarop burgers, maatschappelijke organisaties, betrokken bestuursorganen en, voor zover van toepassing, de beheerder van de landelijke spoorweg zijn betrokken bij die verkenning en de resultaten daarvan.   
 
 ### Artikel  11  
@@ -177,12 +181,6 @@ c. de beslissing tot vaststelling van hogere waarden voor de ten hoogste toelaat
 a. de betrokken bestuursorganen;  
 
 b. de beheerder van de spoorweg, indien het betrekking heeft op een landelijke spoorweg.     
-4.  Indien het ontwerp-besluit hogere waarden bevat voor de ten hoogste toelaatbare geluidsbelasting in zones ingevolge de [artikelen 87e tot en met 87i](../../../wet/wet/geluidhinder/BWBR0003227/README.md) of [106d tot en met 106h van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md), zendt Onze Minister het ontwerp-besluit tevens toe aan: 
-
-a. de gebruikers van de woningen of de woonwagenstandplaatsen, het bevoegd gezag van scholen en de directies van ziekenhuizen, verpleeghuizen en andere gezondheidszorggebouwen waarvoor een hogere waarde wordt bepaald;  
-
-b. de Minister van Onderwijs, Cultuur en Wetenschap, indien het betrekking heeft op scholen.     
-5.  In afwijking van het vierde lid, aanhef en onderdeel a, kan Onze Minister, indien de omvang van het ontwerp-tracébesluit daartoe aanleiding geeft, volstaan met een ieder van de in het vierde lid, onderdeel a, bedoelde personen de strekking van het ontwerp-tracébesluit mee te delen en de onderdelen van het ontwerp-tracébesluit die voor de betrokkene redelijkerwijs van belang zijn, toe te zenden.   
 
 ### Artikel  12  
 
@@ -197,8 +195,8 @@ c. de inventarisatie van en de gevolgen voor de aanwezige flora en fauna en de d
 
 ### Artikel  13  
 
-1.  Voor het gebied dat is begrepen in een tracébesluit geldt het tracébesluit als voorbereidingsbesluit als bedoeld in [artikel 3.7 van de Wet ruimtelijke ordening](../../../wet/wet/milieubeheer/BWBR0003245/README.md). Voor de bij het tracébesluit behorende zone, bedoeld in [artikel 74, eerste lid, van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md) onderscheidenlijk de zone, bedoeld in [artikel 106b van die wet](../../../wet/wet/geluidhinder/BWBR0003227/README.md), geldt dat tracébesluit als voorbereidingsbesluit als bedoeld in artikel 3.7 van de Wet ruimtelijke ordening, met dien verstande dat dit slechts geldt met betrekking tot geprojecteerde woningen en andere geprojecteerde geluidsgevoelige objecten ten aanzien waarvan de geluidsbelasting vanwege de hoofdinfrastructuur of vanwege binnen de zone van die hoofdinfrastructuur gelegen wegen of spoorwegen de waarden die ingevolge de [artikelen 87e tot en met 87i](../../../wet/wet/geluidhinder/BWBR0003227/README.md) en [106d tot en met 106h van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md) als ten hoogst toelaatbare waarden worden aangemerkt, te boven zal gaan. Voor zover het tracébesluit geldt als voorbereidingsbesluit, is artikel 3.7, vijfde en zesde lid, van de Wet ruimtelijke ordening niet van toepassing. Het tracébesluit geldt niet meer als voorbereidingsbesluit indien voor het in de eerste volzin bedoelde gebied en de in de tweede volzin bedoelde zone een bestemmingsplan in overeenstemming met het tracébesluit van kracht is geworden.   
-2.  Onder een geprojecteerde woning of een ander geprojecteerd geluidsgevoelig object als bedoeld in de tweede volzin van het eerste lid wordt verstaan een nog niet aanwezige woning of ander geluidsgevoelig object waarvoor het geldende bestemmingsplan verlening van de omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onderdeel a, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) toelaat, maar deze nog niet is afgegeven.   
+1.  Voor het gebied dat is begrepen in een tracébesluit geldt het tracébesluit als voorbereidingsbesluit als bedoeld in [artikel 3.7 van de Wet ruimtelijke ordening](../../../wet/wet/milieubeheer/BWBR0003245/README.md). Voor zover het tracébesluit geldt als voorbereidingsbesluit, is artikel 3.7, vijfde en zesde lid, van de Wet ruimtelijke ordening niet van toepassing. Het tracébesluit geldt niet meer als voorbereidingsbesluit indien voor het in de eerste volzin bedoelde gebied een bestemmingsplan in overeenstemming met het tracébesluit van kracht is geworden.   
+2.   Vervallen.    
 3.  [Artikel 3.3, eerste tot en met derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is niet van toepassing op aanvragen om een omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onderdeel a, van die wet](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) ter uitvoering van het tracébesluit.   
 4.  Voor zover het tracébesluit en het bestemmingsplan of de beheersverordening niet met elkaar in overeenstemming zijn, geldt het tracébesluit als omgevingsvergunning waarbij ten behoeve van een project van nationaal belang met toepassing van [artikel 2.12, eerste lid, onderdeel a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan of de beheersverordening wordt afgeweken. Bij die toepassing van [artikel 2.10 van die wet](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) wordt onder het bestemmingsplan of beheersverordening mede het tracébesluit begrepen.   
 5.  Voor zover een bestemmingsplan, een beheersverordening of een ander besluit voor de uitvoering van werken of werkzaamheden een omgevingsvergunning voor een aanlegactiviteit als bedoeld in [artikel 2.1, eerste lid, onderdeel b, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) vereist, geldt zodanige eis niet voor de uitvoering van werken of werkzaamheden ter uitvoering van het tracébesluit in het gebied dat is begrepen in een tracébesluit.   
@@ -294,6 +292,15 @@ c. geldt in plaats van [artikel 4 van de Belemmeringenwet Privaatrecht](../../..
 
 3°. de werking van een besluit als bedoeld in [artikel 2, vijfde lid](../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), of [artikel 3, tweede lid, van de Belemmeringenwet Privaatrecht](../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) opgeschort wordt totdat de termijn voor het indienen van een beroepschrift is verstreken.       
 
+### Artikel  21a  
+
+De in [artikel 18, eerste lid, van de onteigeningswet](../../../wet/onteigeningswet/BWBR0001842/README.md) bedoelde dagvaarding kan geschieden nadat het tracébesluit is vastgesteld.  
+
+### Artikel  21b  
+
+1.  Onverminderd het bepaalde in [artikel 59, eerste lid, van de onteigeningswet](../../../wet/onteigeningswet/BWBR0001842/README.md) kan het vonnis van onteigening van de rechtbank niet eerder in de openbare registers worden ingeschreven dan nadat het tracébesluit onherroepelijk is geworden.   
+2.  In aanvulling op de [artikelen 54n](../../../wet/onteigeningswet/BWBR0001842/README.md) en [59 van de onteigeningswet](../../../wet/onteigeningswet/BWBR0001842/README.md) is ten behoeve van de in het eerste lid bedoelde inschrijving een uitspraak van de Afdeling bestuursrechtspraak van de Raad van State dan wel een verklaring van de Secretaris van de Raad van State nodig, waaruit blijkt dat het tracébesluit onherroepelijk is geworden.   
+
 ### Artikel  22  
 
 1.  Indien een belanghebbende ten gevolge van een tracébesluit schade lijdt of zal lijden, die redelijkerwijs niet of niet geheel te zijnen laste behoort te blijven en ten aanzien waarvan de vergoeding niet of niet voldoende anderszins is verzekerd, kent Onze Minister hem op zijn verzoek een naar billijkheid te bepalen schadevergoeding toe.   
@@ -304,7 +311,7 @@ c. geldt in plaats van [artikel 4 van de Belemmeringenwet Privaatrecht](../../..
 
 1.  Onze Minister onderzoekt voor afloop van de termijn, genoemd in artikel 10, eerste lid, onderdeel f, de gevolgen van de ingebruikneming van een aangelegde of gewijzigde hoofdweg, landelijke spoorweg of hoofdvaarweg ten aanzien van de in dat artikel bedoelde milieuaspecten.   
 2.  Indien het onderzoek betrekking heeft op het aspect luchtkwaliteit, wordt, voor zover voorhanden, gebruik gemaakt van de gegevens als bedoeld in [artikel 5.14 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md), aangegeven welke aanvullende maatregelen naar aanleiding van dat onderzoek nodig zijn en binnen welke termijn die maatregelen worden getroffen.   
-3.  Indien het onderzoek betrekking heeft op het aspect geluidhinder, wordt inzicht gegeven in de geluidbelasting na realisering van de in het tracébesluit opgenomen geluidmaatregelen, aangegeven welke aanvullende maatregelen naar aanleiding van dat onderzoek nodig zijn en binnen welke termijn die maatregelen worden getroffen.   
+3.  Indien het onderzoek betrekking heeft op het aspect geluidhinder, wordt inzicht gegeven in de geluidproductie of geluidsbelasting na realisering van de in het tracébesluit opgenomen geluidmaatregelen, aangegeven welke aanvullende maatregelen naar aanleiding van dat onderzoek nodig zijn en binnen welke termijn die maatregelen worden getroffen.   
 4.  Onze Minister zendt de Tweede Kamer der Staten-Generaal, de betrokken bestuursorganen en, voor zover van toepassing, de beheerder van de landelijke spoorweg de resultaten van het onderzoek toe alsmede een beschrijving van de maatregelen die nodig zijn om alsnog te voldoen aan de milieueisen die ten grondslag liggen aan de in het tracébesluit opgenomen maatregelen.   
 5.  De in het vierde lid bedoelde toezending geschiedt gelijktijdig met die van het eerstvolgende verslag, bedoeld in artikel 24.   
 
@@ -320,18 +327,16 @@ Onze Minister zendt de Staten-Generaal ieder half jaar een verslag over de voort
 
 1.  Tegen een tracébesluit of een ander in artikel 20, tweede lid, bedoeld besluit kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
 2.  In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vangt de termijn voor het indienen van een beroepschrift tegen de in artikel 20, tweede lid, bedoelde besluiten aan met ingang van de dag na die waarop de in artikel 20, tiende lid, bedoelde bekendmaking is geschied.   
-3.  Voor zover beroep kan worden ingesteld tegen een of meer onderdelen van een planologische kernbeslissing als bedoeld in [artikel 39 van de Wet op de Ruimtelijke Ordening](../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md), vangt, in afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de termijn voor het indienen van een beroepschrift ter zake van die onderdelen aan met ingang van de dag waarop beroep kan worden ingesteld tegen het op de planologische kernbeslissing berustende tracébesluit. Indien niet binnen een jaar na het van kracht worden van de planologische kernbeslissing een daarop berustend tracébesluit is vastgesteld, vangt de beroepstermijn aan met ingang van de dag waarop dat jaar is verstreken.   
-4.  [Artikel 7:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing met betrekking tot een tracébesluit.   
 
 ### Artikel  26  
 
-1.  Met betrekking tot beroepen tegen een tracébesluit beslist de Afdeling bestuursrechtspraak van de Raad van State binnen twaalf maanden na ontvangst van een verweerschrift.   
+1.  Met betrekking tot beroepen tegen een tracébesluit beslist de Afdeling bestuursrechtspraak van de Raad van State binnen twaalf maanden na ontvangst van een verweerschrift. Met betrekking tot beroepen tegen het tracébesluit A74 beslist de Afdeling in afwijking van het bepaalde in de eerste volzin binnen zes maanden na ontvangst van het verweerschrift.   
 2.  In bijzondere omstandigheden kan de Afdeling de in het eerste lid genoemde termijn met ten hoogste drie maanden verlengen.   
 3.  Met betrekking tot beroepen tegen de in artikel 20, tweede lid, bedoelde besluiten beslist de Afdeling bestuursrechtspraak van de Raad van State binnen zes maanden na ontvangst van de desbetreffende verweerschriften.   
 
 ### Artikel  27  
 
-Indien tegen een in artikel 20, tweede lid, bedoeld besluit beroep kan worden ingesteld, kan dat beroep geen grond vinden in bedenkingen tegen een planologische kernbeslissing als bedoeld in [artikel 39 van de Wet op de Ruimtelijke Ordening](../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md) of tegen een tracébesluit.  
+Indien tegen een in artikel 20, tweede lid, bedoeld besluit beroep kan worden ingesteld, kunnen bij dit beroep geen gronden worden aangevoerd die betrekking hebben op een tracébesluit waarop dat besluit rust.  
 
 ### Hoofdstuk  VI  
 

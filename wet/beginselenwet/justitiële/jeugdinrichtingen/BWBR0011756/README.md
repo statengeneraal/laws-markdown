@@ -54,7 +54,7 @@ r. strafrestant: het gedeelte van een opgelegde vrijheidsstraf dan wel van het s
 
 s. perspectiefplan: een plan als bedoeld in artikel 20;  
 
-t. scholings- en trainingsprogramma: een programma als bedoeld in artikel 3, eerste lid;  
+t. scholings- en trainingsprogramma: een programma als bedoeld in artikel 3;  
 
 u. huisregels: regels als bedoeld in artikel 4, eerste lid;  
 
@@ -74,7 +74,7 @@ bb. reclasseringswerker: een reclasseringswerker als bedoeld in [artikel 6, eers
 
 cc. rechtsbijstandverlener: de advocaat of de medewerker van een stichting, bedoeld in de [Wet op de rechtsbijstand](../../../../../wet/wet/op/de/rechtsbijstand/BWBR0006368/README.md);  
 
-dd. stichting: een stichting als bedoeld in [artikel 1, onder f, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+dd. stichting: een stichting als bedoeld in [artikel 1 van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
 
 ee. raad voor de kinderbescherming: de raad als bedoeld in [artikel 238 van Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);  
 
@@ -787,6 +787,68 @@ d. de aansprakelijkheid van de directeur voor de voorwerpen.
 3.  Aan de jeugdige kan een zakgeld worden toegekend volgens door Onze Minister te stellen regels.   
 4.  In de huisregels kunnen nadere regels worden gesteld omtrent het bezit van contant geld en het gebruik van de rekening-courant. Deze regels kunnen een beperking inhouden van het bedrag waarover de jeugdige ten hoogste in contanten of door middel van zijn rekening-courant mag beschikken.   
 
+### Paragraaf  1a  
+
+####Verblijf in een bijzondere zorgafdeling in verband met de geestelijke gezondheidstoestand
+
+### Artikel  51a  
+
+Voor de toepassing van deze paragraaf wordt onder gevaar verstaan: 
+
+1. gevaar voor de jeugdige, die het veroorzaakt, hetgeen onder meer bestaat uit: 
+
+a. het gevaar dat de jeugdige zich van het leven zal beroven of zichzelf ernstig lichamelijk letsel zal toebrengen;  
+
+b. het gevaar dat de jeugdige maatschappelijk te gronde gaat;  
+
+c. het gevaar dat de jeugdige zichzelf in ernstige mate zal verwaarlozen;  
+
+d. het gevaar dat de jeugdige met hinderlijk gedrag agressie van anderen zal oproepen.    
+
+2. gevaar voor een of meer anderen, hetgeen onder meer bestaat uit: 
+
+a. het gevaar dat de jeugdige een ander van het leven zal beroven of hem ernstig lichamelijk letsel zal toebrengen;  
+
+b. het gevaar voor de psychische gezondheid van een ander;  
+
+c. het gevaar dat de jeugdige een ander, die aan zijn zorg is toevertrouwd, zal verwaarlozen;    
+
+3. gevaar voor de algemene veiligheid van personen of goederen.    
+
+### Artikel  51b  
+
+1.  De directeur draagt zorg dat binnen twee weken na plaatsing op een afdeling voor intensieve zorg als bedoeld in artikel 22a of een afdeling voor intensieve behandeling als bedoeld in artikel 22b, in overleg met de jeugdige een geneeskundige behandelingsplan wordt vastgesteld.   
+2.  Het geneeskundig behandelingsplan is gericht op het zodanig wegnemen van het gevaar dat de stoornis van de geestvermogens de jeugdige doet veroorzaken dat de jeugdige niet langer in verband met zijn geestelijke gezondheidstoestand op een afdeling voor intensieve zorg of intensieve behandeling behoeft te verblijven. Zo mogelijk geschiedt dit door het behandelen van de stoornis. Indien dit niet mogelijk is, geschiedt dit door het anderszins wegnemen van het gevaar.   
+3.  Bij algemene maatregel van bestuur worden regels gesteld omtrent de eisen waaraan een geneeskundig behandelingsplan tenminste moet voldoen en de voorschriften die bij een wijziging daarvan in acht genomen moeten worden.   
+
+### Artikel  51c  
+
+Behandeling van de jeugdige op een afdeling voor intensieve zorg als bedoeld in artikel 22a of een afdeling voor intensieve behandeling als bedoeld in artikel 22b vindt slechts plaats: 
+
+a. voor zover deze is voorzien in het geneeskundig behandelingsplan bedoeld in artikel 51b, eerste lid  
+
+b. indien het overleg over het geneeskundig behandelingsplan, bedoeld in artikel 51b, eerste lid, heeft geleid tot overeenstemming met de jeugdige en, indien de jeugdige de leeftijd van zestien jaar nog niet heeft bereikt, met zijn ouders of voogd, stiefouder of pleegouders dan wel de stichting, en  
+
+c. indien de jeugdige of, indien de jeugdige de leeftijd van zestien jaar nog niet heeft bereikt, zijn ouders of voogd, stiefouder of pleegouders dan wel de stichting, zich niet tegen de geneeskundige behandeling verzetten.    
+
+### Artikel  51d  
+
+Buiten de situaties bedoeld in artikel 37, kan, indien niet wordt voldaan aan de voorwaarden van artikel 51c, onderdelen b en c, niettemin als uiterste middel behandeling plaatsvinden: 
+
+a. voor zover aannemelijk is dat zonder die behandeling het gevaar dat de stoornis van de geestvermogens de jeugdige doet veroorzaken niet binnen een redelijke termijn kan worden weggenomen, of  
+
+b. voor zover dit volstrekt noodzakelijk is om het gevaar dat de stoornis van de geestvermogens de jeugdige binnen de inrichting doet veroorzaken, af te wenden.    
+
+### Artikel  51e  
+
+1.  Behandeling overeenkomstig artikel 51d, onder a, vindt plaats na een schriftelijke beslissing van de directeur waarin wordt vermeld voor welke termijn zij geldt.   
+2.  Ten behoeve van deze beslissing dient te worden overgelegd een verklaring van de behandelend psychiater alsmede van een psychiater die de jeugdige met het oog daarop kort tevoren heeft onderzocht maar niet bij diens behandeling betrokken was. Uit de verklaringen dient te blijken dat de jeugdige op wie de verklaring betrekking heeft, is gestoord in zijn geestvermogens en dat een geval als bedoeld in artikel 51d, onder a, zich voordoet. De verklaringen moeten met redenen zijn omkleed en ondertekend.   
+3.  De beslissing als bedoeld in het eerste lid wordt gemeld aan de voorzitter van de Commissie van Toezicht. De voorzitter van de Commissie van Toezicht doet onverwijld een melding aan de maandcommissaris.   
+4.  De termijn als bedoeld in het eerste lid is zo kort mogelijk, maar niet langer dan drie maanden, gerekend vanaf de dag waarop de beslissing tot stand komt. De directeur doet onverwijld een afschrift van de beslissing toekomen aan de jeugdige en, indien de jeugdige de leeftijd van 16 jaar nog niet heeft bereikt, tevens aan zijn ouders of voogd, stiefouder of pleegouders dan wel de stichting.   
+5.  Indien na afloop van de termijn als bedoeld in het eerste lid, voortzetting van de behandeling overeenkomstig artikel 51d, onder a, nodig is, geschiedt dit slechts krachtens een schriftelijke beslissing van de directeur. Het bepaalde in de voorgaande volzin is eveneens van toepassing indien binnen zes maanden na afloop van de termijn als bedoeld in artikel 51d, onder a, opnieuw behandeling nodig is. De directeur geeft in zijn beslissing aan waarom van een behandeling alsnog het beoogde effect wordt verwacht. Op zodanige beslissingen is het vierde lid, tweede volzin, van toepassing.   
+6.  Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste, tweede, vierde en vijfde lid alsmede omtrent de toepassing van artikel 51d, onder b.   
+7.  Deze in het zesde lid bedoelde regels betreffen in ieder geval de melding en de registratie van de behandeling alsmede de taak van de behandelend arts. Tevens kunnen categorieën van behandelingsmiddelen of -maatregelen worden aangewezen die niet mogen worden toegepast bij een behandeling overeenkomstig het eerste lid. Bij algemene maatregel van bestuur kunnen voorts ten aanzien van daarbij aangegeven categorieën van behandelingsmiddelen of -maatregelen regels worden gegeven met betrekking tot de wijze waarop tot toepassing daarvan moet worden besloten.   
+
 ### Paragraaf  2  
 
 ####Onderwijs en andere activiteiten
@@ -1136,7 +1198,7 @@ c. vernietiging van de uitspraak van de beklagcommissie.
 
 1.  De betrokkene heeft het recht tegen de beslissing van de selectiefunctionaris op het bezwaar- of verzoekschrift voor zover dit betreft een gehele of gedeeltelijke ongegrondverklaring, onderscheidenlijk afwijzing als bedoeld in de artikelen 18 en 19 een met redenen omkleed beroepschrift in te dienen bij de commissie, bedoeld in artikel 78, eerste lid. De betrokkene heeft ook het recht een beroepschrift in te dienen in het geval dat het indienen van een bezwaarschrift op de grond als vermeld in artikel 18, vijfde lid, achterwege is gebleven.   
 2.  De jeugdige heeft het recht tegen een hem betreffende beslissing aangaande verlof, voor zover hiertegen geen beklag ingevolge artikel 65, eerste en tweede lid, openstaat, een met redenen omkleed beroepschrift in te dienen bij de commissie, bedoeld in artikel 78, eerste lid.   
-3.  Het tweede lid is overeenkomstig van toepassing op de beslissing van de selectiefunctionaris, strekkende tot weigering van het verlenen van een machtiging tot deelname aan het scholings- en trainingsprogramma, na het verzoek, bedoeld in artikel 3, zesde lid.   
+3.  Het tweede lid is overeenkomstig van toepassing op de beslissing van Onze Minister, strekkende tot weigering van het verlenen van een machtiging tot deelname aan het scholings- en trainingsprogramma, na het verzoek, bedoeld in artikel 3, zesde lid. De jeugdige heeft ook het recht een beroepschrift in te dienen indien een tijdige beslissing op de aanvraag tot het verlenen van een machtiging uitblijft en tegen de beslissing tot intrekking van die machtiging door Onze Minister.   
 
 ### Artikel  78  
 

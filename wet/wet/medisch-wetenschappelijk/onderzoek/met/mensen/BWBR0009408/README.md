@@ -76,7 +76,7 @@ b. van de centrale commissie, wanneer het betreft:
 3°. een wetenschappelijk onderzoek waarvan de beoordeling ingevolge artikel 19 bij de centrale commissie berust;  
 
 4°. overige bij algemene maatregel van bestuur aangewezen vormen van wetenschappelijk onderzoek waarvan beoordeling door de centrale commissie gewenst is gelet op de aan het onderzoek verbonden maatschappelijke, ethische of juridische aspecten.       
-3.  De beoordeling door de onderscheiden commissies geschiedt op de grondslag van de paragrafen 2, 3 en voor zover het wetenschappelijk onderzoek met geneesmiddelen betreft, 5a.   
+3.  De beoordeling door de onderscheiden commissies geschiedt op de grondslag van de paragrafen 2 en 3 en de artikelen 9, 11 en 12 en, voorzover het wetenschappelijk onderzoek met geneesmiddelen betreft, paragraaf 5a.   
 
 ### Artikel  2a  
 
@@ -113,9 +113,10 @@ j. het onderzoek ook overigens voldoet aan redelijkerwijs daaraan te stellen eis
 ### Artikel  3a  
 
 1.  Een commissie kan een door haar gegeven positief oordeel over een onderzoeksprotocol opschorten of intrekken indien er gegronde redenen zijn om aan te nemen dat voortzetting van het wetenschappelijk onderzoek zou leiden tot onaanvaardbare risico’s voor de proefpersoon.   
-2.  Behoudens ingeval van dreigend gevaar, stelt de commissie, alvorens het positieve oordeel op te schorten of in te trekken, degene die het wetenschappelijk onderzoek verricht of degene die het wetenschappelijk onderzoek uitvoert, in de gelegenheid binnen één week zijn zienswijze naar voren te brengen.   
-3.  Indien een commissie besluit een door haar gegeven positief oordeel over een onderzoeksprotocol inzake wetenschappelijk onderzoek met geneesmiddelen op te schorten of in te trekken, stelt zij de centrale commissie of Onze Minister, ingeval artikel 13i, vijfde lid, van toepassing is, en het College hiervan op de hoogte, onder opgaaf van redenen.   
-4.  Het College stelt onder opgaaf van redenen het Europese Bureau voor de geneesmiddelenbeoordeling en de Europese Commissie onmiddellijk op de hoogte van de opschorting of intrekking van een gegeven positief oordeel over een onderzoeksprotocol inzake een wetenschappelijk onderzoek met geneesmiddelen.   
+2.  Indien er gegronde redenen zijn om aan te nemen dat voortzetting van het wetenschappelijk onderzoek zou leiden tot onaanvaardbare risico’s voor de proefpersoon, kan de centrale commissie of Onze Minister, ingeval het vijfde lid van artikel 13i van toepassing is, de uitvoering van het wetenschappelijk onderzoek opschorten tot een commissie een nader positief oordeel heeft gegeven over dit onderzoeksprotocol. De centrale commissie of Onze Minister, ingeval het vijfde lid van artikel 13i van toepassing is, meldt de opschorting van de uitvoering van het onderzoek aan de commissie die als laatste een positief oordeel heeft gegeven over het onderzoeksprotocol en aan degene die het wetenschappelijk onderzoek verricht en degene die het onderzoek uitvoert.   
+3.  Behoudens ingeval van dreigend gevaar, stelt de commissie, de centrale commissie of Onze Minister, ingeval het vijfde lid van artikel 13i van toepassing is, alvorens het positieve oordeel op te schorten of in te trekken, dan wel de uitvoering van het wetenschappelijke onderzoek op te schorten, degene die het wetenschappelijk onderzoek verricht of degene die het wetenschappelijk onderzoek uitvoert, in de gelegenheid binnen één week zijn zienswijze naar voren te brengen.   
+4.  Indien een commissie besluit een door haar gegeven positief oordeel over een onderzoeksprotocol inzake wetenschappelijk onderzoek met geneesmiddelen op te schorten of in te trekken, stelt zij de centrale commissie of Onze Minister, ingeval artikel 13i, vijfde lid, van toepassing is, en het College hiervan op de hoogte, onder opgaaf van redenen.   
+5.  Het College stelt onder opgaaf van redenen het Europese Bureau voor de geneesmiddelenbeoordeling en de Europese Commissie onmiddellijk op de hoogte van de opschorting of intrekking van een gegeven positief oordeel over een onderzoeksprotocol inzake een wetenschappelijk onderzoek met geneesmiddelen.   
 
 ### Artikel  4  
 
@@ -149,7 +150,7 @@ b. de risico's die het onderzoek voor de gezondheid van de proefpersoon met zich
 c. de risico's die het tussentijds beëindigen van het onderzoek voor de gezondheid van de proefpersoon met zich zou brengen;  
 
 d. de bezwaren die het onderzoek voor de proefpersoon met zich zou kunnen brengen.     
-6.  De inlichtingen worden op zodanige wijze verstrekt dat redelijkerwijs zeker is dat de betrokkene deze naar haar inhoud heeft begrepen. Hij krijgt een zodanige bedenktijd dat hij op grond van deze inlichtingen een zorgvuldig overwogen beslissing omtrent de gevraagde toestemming kan geven.   
+6.  De inlichtingen worden op zodanige wijze verstrekt dat redelijkerwijs zeker is dat de betrokkene deze naar haar inhoud heeft begrepen. Hij krijgt een zodanige bedenktijd dat hij op grond van deze inlichtingen een zorgvuldig overwogen beslissing omtrent de gevraagde toestemming kan geven. Bij ministeriële regeling kunnen nadere eisen worden gesteld aan de inlichtingen die aan betrokkene worden verstrekt.   
 7.  Degene die het wetenschappelijk onderzoek uitvoert, draagt ervoor zorg dat proefpersonen die de leeftijd van twaalf jaar nog niet hebben bereikt of die niet in staat zijn tot een redelijke waardering van hun belangen ter zake, over het onderzoek worden ingelicht door een daartoe geschoolde persoon op een wijze die past bij hun bevattingsvermogen.   
 8.  De wijze waarop uitvoering wordt gegeven aan het bepaalde in dit artikel wordt vastgelegd in het onderzoeksprotocol.   
 9.  De proefpersoon dan wel, indien deze ingevolge dit artikel niet bevoegd is tot het geven van toestemming, degene die daartoe in zijn plaats bevoegd is, kan de toestemming te allen tijde, zonder opgaaf van redenen, intrekken. Hij is ter zake van de intrekking geen schadevergoeding verschuldigd.   
@@ -160,14 +161,17 @@ d. de bezwaren die het onderzoek voor de proefpersoon met zich zou kunnen brenge
 
 ### Artikel  7  
 
-1.  Het wetenschappelijk onderzoek wordt slechts verricht indien op het tijdstip waarop het onderzoek aanvangt, een verzekering is gesloten die de door het onderzoek veroorzaakte schade door dood of letsel van de proefpersoon dekt. De verzekering behoeft niet te dekken de schade waarvan op grond van de aard van het onderzoek zeker of nagenoeg zeker was dat deze zich zou voordoen.   
-2.  Op de verplichting van de verzekeraar tot vergoeding van de schade als bedoeld in het eerste lid is [afdeling 10 van titel 1 van Boek 6 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) van overeenkomstige toepassing, voor zover de strekking van de betrokken bepalingen in verband met de aard van de verplichting zich daartegen niet verzet.   
-3.  Bij of krachtens algemene maatregel van bestuur worden ter zake van de verzekering nadere regelen gesteld. De bij algemene maatregel van bestuur te stellen regelen kunnen ook afwijkingen bevatten van het bepaalde in het eerste en tweede lid. Krachtens algemene maatregel van bestuur te stellen regels betreffen slechts wijziging van in die maatregel opgenomen geldbedragen die naar hun aard met regelmaat wijziging behoeven. De algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het Staatsblad, waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.   
-4.  De wijze waarop uitvoering wordt gegeven aan het eerste en zesde lid wordt vastgelegd in het onderzoeksprotocol.   
-5.  Is degene die het wetenschappelijk onderzoek uitvoert aansprakelijk voor de schade door dood of letsel van de proefpersoon, dan is mede aansprakelijk degene die het wetenschappelijk onderzoek verricht. Voor zover ter uitvoering van een wetenschappelijk onderzoek verrichtingen plaatsvinden in een facilitaire instelling, rust deze aansprakelijkheid, ook indien het onderzoek niet door die instelling wordt verricht of uitgevoerd, mede op die instelling.   
-6.  Het wetenschappelijk onderzoek wordt voorts slechts verricht indien op het tijdstip waarop het onderzoek aanvangt een verzekering is gesloten ter dekking van het risico van de in het vijfde lid bedoelde aansprakelijkheid van degene die het onderzoek uitvoert of van degene die het onderzoek verricht, dan wel anderszins voldoende is gewaarborgd dat hun verplichtingen ter zake van hun aansprakelijkheid kunnen worden nagekomen.   
-7.  Het eerste en zesde lid zijn niet van toepassing ter zake van het verrichten van wetenschappelijk onderzoek door diensten, instellingen of bedrijven van de rijksoverheid die door Onze Minister zijn aangewezen. De benadeelde heeft jegens een dienst, instelling of bedrijf van de rijksoverheid die geen verzekering als bedoeld in het eerste lid heeft gesloten de rechten welke hij overeenkomstig dit artikel anders tegenover de verzekeraar zou hebben.   
-8.  De aansprakelijkheid van de uitvoerder of, in het geval bedoeld in het vijfde lid, van degene die het wetenschappelijk onderzoek verricht of van de facilitaire instelling, kan niet worden beperkt of uitgesloten.   
+1.  Het wetenschappelijk onderzoek wordt slechts verricht indien op het tijdstip waarop het onderzoek aanvangt, een verzekering is gesloten die de bij algemene maatregel van bestuur aangewezen door het onderzoek veroorzaakte schade door dood of letsel van de proefpersoon dekt. De verzekering behoeft niet te dekken de schade waarvan op grond van de aard van het onderzoek zeker of nagenoeg zeker was dat deze zich zou voordoen.   
+2.  Op de verplichting van de verzekeraar tot vergoeding van de schade, bedoeld in het eerste lid, zijn van [afdeling 6.1.10 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) de [artikelen 95](../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), [96, eerste lid](../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), [97](../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), [100 tot en met 102](../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), [105 tot en met 107a, eerste lid](../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), en [108](../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) van overeenkomstige toepassing.   
+3.  Bij of krachtens algemene maatregel van bestuur worden ter zake van de verzekering en ter zake van de omvang van de dekking van de verzekering nadere regelen gesteld. Krachtens algemene maatregel van bestuur te stellen regels betreffen slechts wijziging van in die maatregel opgenomen geldbedragen die naar hun aard met regelmaat wijziging behoeven. De algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum van uitgifte van het Staatsblad, waarin hij is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.   
+4.  De verzekering dekt uitsluitend de schade van natuurlijke personen.   
+5.  Indien naar het oordeel van de commissie die belast is met de beoordeling van het desbetreffende onderzoeksprotocol, aan het wetenschappelijk onderzoek voor de proefpersoon naar zijn aard geen risico’s verbonden zijn, kan zij bij positief oordeel over het onderzoeksprotocol de verrichter op diens verzoek ontheffing verlenen van de verplichting een verzekering te sluiten.   
+6.  Bij een onderzoek dat tot doel heeft in de kring der beroepsgenoten gebruikelijke handelingen op het gebied van de geneeskunst met elkaar te vergelijken, kan de commissie die belast is met de beoordeling van het desbetreffende onderzoeksprotocol, bij een positief oordeel de verrichter op diens verzoek ontheffing verlenen van de verplichting een verzekering te sluiten indien aan het onderzoek ten gevolge van het vergelijkende karakter daarvan naar het oordeel van de commissie voor de proefpersonen naar zijn aard hooguit verwaarloosbare risico’s verbonden zijn.   
+7.  De wijze waarop uitvoering wordt gegeven aan het eerste en negende lid wordt vastgelegd in het onderzoeksprotocol.   
+8.  Is degene die het wetenschappelijk onderzoek uitvoert aansprakelijk voor de schade door dood of letsel van de proefpersoon, dan is mede aansprakelijk degene die het wetenschappelijk onderzoek verricht. Voor zover ter uitvoering van een wetenschappelijk onderzoek verrichtingen plaatsvinden in een facilitaire instelling, rust deze aansprakelijkheid, ook indien het onderzoek niet door die instelling wordt verricht of uitgevoerd, mede op die instelling.   
+9.  Het wetenschappelijk onderzoek wordt voorts slechts verricht indien op het tijdstip waarop het onderzoek aanvangt een verzekering is gesloten ter dekking van het risico van de in het achtste lid bedoelde aansprakelijkheid van degene die het onderzoek uitvoert of van degene die het onderzoek verricht, dan wel anderszins voldoende is gewaarborgd dat hun verplichtingen ter zake van hun aansprakelijkheid kunnen worden nagekomen.   
+10.  Het eerste en negende lid zijn niet van toepassing ter zake van het verrichten van wetenschappelijk onderzoek door diensten, instellingen of bedrijven van de rijksoverheid die door Onze Minister zijn aangewezen. De benadeelde heeft jegens een dienst, instelling of bedrijf van de rijksoverheid die geen verzekering als bedoeld in het eerste lid heeft gesloten de rechten welke hij overeenkomstig dit artikel anders tegenover de verzekeraar zou hebben.   
+11.  De aansprakelijkheid van de uitvoerder of, in het geval bedoeld in het achtste lid, van degene die het wetenschappelijk onderzoek verricht of van de facilitaire instelling, kan niet worden beperkt of uitgesloten.   
 
 ### Paragraaf  4  
 
@@ -180,7 +184,7 @@ d. de bezwaren die het onderzoek voor de proefpersoon met zich zou kunnen brenge
 
 ### Artikel  9  
 
-Degene die het wetenschappelijk onderzoek verricht, draagt er zorg voor dat de proefpersoon zich voor inlichtingen en advies betreffende het onderzoek kan wenden tot een in het onderzoeksprotocol aan te wijzen arts die niet bij de uitvoering van het onderzoek is betrokken.  
+Degene die het wetenschappelijk onderzoek verricht, draagt er zorg voor dat de proefpersoon zich voor inlichtingen en advies betreffende het onderzoek kan wenden tot een in het onderzoeksprotocol aan te wijzen arts die niet bij de uitvoering van het onderzoek is betrokken of een andere deskundige die in staat moet worden geacht de proefpersoon adequaat van inlichtingen en advies betreffende het onderzoek te voorzien en die niet bij de uitvoering van het onderzoek is betrokken.  
 
 ### Paragraaf  5  
 
@@ -189,7 +193,7 @@ Degene die het wetenschappelijk onderzoek verricht, draagt er zorg voor dat de p
 ### Artikel  10  
 
 1.  Indien het wetenschappelijk onderzoek een verloop neemt dat in noemenswaardige mate voor de proefpersoon ongunstiger is dan in het onderzoeksprotocol is voorzien, doet degene die het onderzoek uitvoert, daarvan terstond mededeling aan de proefpersoon, dan wel indien deze ingevolge deze wet niet bevoegd was tot het geven van toestemming, aan degene die daartoe in zijn plaats bevoegd was en aan de commissie die ingevolge artikel 2 als laatste haar oordeel heeft gegeven, met een verzoek om een nader oordeel. Tot het tijdstip waarop een nader positief oordeel wordt gegeven, wordt de uitvoering van het onderzoek opgeschort, tenzij de gezondheid van de proefpersoon opschorting of beëindiging niet toelaat.   
-2.  Degene die het wetenschappelijk onderzoek uitvoert, doet onder opgave van de redenen aan de in het eerste lid bedoelde commissie eveneens mededeling van de voortijdige beëindiging van een onderzoek.   
+2.  Degene die het wetenschappelijk onderzoek uitvoert, doet onder opgave van de redenen aan de in het eerste lid bedoelde commissie eveneens mededeling van de voortijdige beëindiging van een onderzoek binnen vijftien dagen na de dag waarop het onderzoek voortijdig beëindigd is.   
 
 ### Artikel  11  
 
@@ -282,7 +286,7 @@ e. de redelijke verwachting bestaat dat de voordelen van toediening van het gene
 
 ### Artikel  13j  
 
-1.  De centrale commissie of Onze Minister, ingeval het vijfde lid van artikel 13i van toepassing is, maakt slechts gemotiveerd bezwaar indien in de Europese databank reeds bijwerkingen van het geneesmiddel voor onderzoek zijn opgenomen, die leiden tot onaanvaardbare risico’s voor de proefpersoon.   
+1.  De centrale commissie of Onze Minister, ingeval het vijfde lid van artikel 13i van toepassing is, maakt gemotiveerd bezwaar indien in de Europese databank reeds bijwerkingen van het geneesmiddel voor onderzoek zijn opgenomen die leiden tot onaanvaardbare risico’s voor de proefpersoon of indien er anderszins aanwijzingen zijn dat het wetenschappelijk onderzoek leidt tot onaanvaardbare risico’s voor de proefpersoon.   
 2.  De Inspectie voor de Gezondheidszorg controleert op verzoek van de centrale commissie of van Onze Minister, ingeval het vijfde lid van artikel 13i van toepassing is, of het wetenschappelijk onderzoek met geneesmiddelen naar verwachting kan plaats vinden overeenkomstig deze wet. Het bepaalde in [artikel 5:12](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:15 tot en met 5:20 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
 
 ### Artikel  13k  
@@ -327,23 +331,17 @@ Indien de centrale commissie of Onze Minister, ingeval artikel 13i, vijfde lid v
 1.  Degene die wetenschappelijk onderzoek met geneesmiddelen verricht, draagt er zorg voor dat alle relevante informatie over vermoedens van onverwachte ernstige bijwerkingen van geneesmiddelen voor onderzoek die tot de dood van een proefpersoon hebben geleid of kunnen leiden, wordt geregistreerd en zo spoedig mogelijk doch uiterlijk binnen zeven dagen nadat hij daarvan kennis heeft genomen, wordt gerapporteerd aan het College, de centrale commissie, de betrokken bevoegde instanties van andere lidstaten en de ingevolge artikel 2, tweede lid, bevoegde commissie en dat relevante informatie over de nasleep daarvan binnen nog eens acht dagen wordt medegedeeld aan genoemde instanties.   
 2.  Alle vermoedens van andere dan in het eerste lid genoemde onverwachte ernstige bijwerkingen van geneesmiddelen voor onderzoek worden zo spoedig mogelijk doch uiterlijk binnen vijftien dagen nadat degene die het onderzoek verricht, er kennis van heeft genomen, gerapporteerd aan het College, de centrale commissie, de betrokken bevoegde instanties van andere lidstaten en de ingevolge artikel 2, tweede lid, bevoegde commissie.   
 3.  Degene die het wetenschappelijk onderzoek verricht, informeert alle anderen die het onderzoek uitvoeren.   
+4.  Het College draagt zorg voor de invoering van alle gemelde vermoedens van onverwachte ernstige bijwerkingen van een geneesmiddel voor onderzoek in een Europese databank, als bedoeld in artikel 13m, tweede lid.   
 
 ### Artikel  13q  
 
-1.  Tijdens de gehele duur van het wetenschappelijk onderzoek met geneesmiddelen verstrekt degene die het onderzoek verricht, eenmaal per jaar een lijst van alle vermoedens van ernstige bijwerkingen van geneesmiddelen voor onderzoek, die zich in dat jaar hebben voorgedaan en een rapport betreffende de veiligheid van de proefpersonen aan: 
+Tijdens de gehele duur van het wetenschappelijk onderzoek met geneesmiddelen verstrekt degene die het onderzoek verricht, eenmaal per jaar een lijst van alle vermoedens van ernstige bijwerkingen van geneesmiddelen voor onderzoek, die zich in dat jaar hebben voorgedaan en een rapport betreffende de veiligheid van de proefpersonen aan: 
 
-a. het College;  
+a. de centrale commissie of Onze Minister indien artikel 13i, vijfde lid, van toepassing is;  
 
-b. de centrale commissie of Onze Minister indien artikel 13i, vijfde lid, van toepassing is;  
+b. de bevoegde instanties van de andere lidstaten op het grondgebied waarvan het wetenschappelijk onderzoek met geneesmiddelen wordt uitgevoerd;  
 
-c. de bevoegde instanties van de andere lidstaten op het grondgebied waarvan het wetenschappelijk onderzoek met geneesmiddelen wordt uitgevoerd;  
-
-d. de ingevolge artikel 2, tweede lid, bevoegde commissie.     
-2.  Het College draagt zorg voor invoering van alle gemelde vermoedens van onverwachte ernstige bijwerkingen van een geneesmiddel voor onderzoek in de Europese databank, als bedoeld in artikel 13m, tweede lid.   
-
-### Artikel  13r  
-
-Bij ministeriële regeling kunnen eisen worden gesteld aan de rapportage bedoeld in de artikelen 13o, 13p en 13q.  
+c. de ingevolge artikel 2, tweede lid, bevoegde commissie.    
 
 ### Paragraaf  6  
 
@@ -361,7 +359,7 @@ Bij ministeriële regeling kunnen eisen worden gesteld aan de rapportage bedoeld
 
 ### Artikel  15  
 
-De centrale commissie heeft een secretariaat, waarvan de ambtenaren door Onze Minister, gehoord de centrale commissie, worden benoemd, geschorst en ontslagen. Tot hoofd van het secretariaat wordt benoemd de secretaris van de Gezondheidsraad.  
+De centrale commissie heeft een secretariaat, waarvan de ambtenaren door Onze Minister, gehoord de centrale commissie, worden benoemd, geschorst en ontslagen.  
 
 ### Artikel  16  
 
@@ -372,15 +370,17 @@ a. die in elk geval bestaat uit een of meer artsen en uit personen die deskundig
 
 b. waarvan de leden voldoen aan door de centrale commissie vast te stellen nadere eisen betreffende opleiding en ervaring;  
 
-c. in welker reglement genoegzaam is voorzien in medewerking door andere deskundigen met het oog op de aard van de haar ter beoordeling voorgelegde onderzoeksprotocollen;  
+c. waarvan de leden worden benoemd voor een periode van ten hoogste vier jaar en herbenoeming van de leden twee maal kan plaatsvinden voor telkens een periode van ten hoogste vier jaar;  
 
-d. uit welker reglement blijkt voor welke kring zij werkzaam zal zijn;  
+d. in welker reglement genoegzaam is voorzien in medewerking door andere deskundigen met het oog op de aard van de haar ter beoordeling voorgelegde onderzoeksprotocollen;  
 
-e. in welker reglement genoegzaam is voorzien in de onafhankelijkheid ten opzichte van de organisatie die de commissie heeft ingesteld;  
+e. uit welker reglement blijkt voor welke kring zij werkzaam zal zijn;  
 
-f. welker reglement voorziet in een behoorlijke regeling van haar werkwijze en dat onder andere bevat een voorziening op grond waarvan een lid of een plaatsvervangend lid niet deelneemt aan de beoordeling van een onderzoeksprotocol indien het betrokken is bij het verrichten dan wel uitvoeren van het te beoordelen wetenschappelijk onderzoek;  
+f. in welker reglement genoegzaam is voorzien in de onafhankelijkheid ten opzichte van de organisatie die de commissie heeft ingesteld;  
 
-g. waarvan redelijkerwijs aannemelijk is dat aan haar onderzoeksprotocollen ter beoordeling zullen worden voorgelegd tot tenminste het door de centrale commissie daartoe vastgestelde aantal.     
+g. welker reglement voorziet in een behoorlijke regeling van haar werkwijze en dat onder andere bevat een voorziening op grond waarvan een lid of een plaatsvervangend lid niet deelneemt aan de beoordeling van een onderzoeksprotocol indien het betrokken is bij het verrichten dan wel uitvoeren van het te beoordelen wetenschappelijk onderzoek;  
+
+h. waarvan redelijkerwijs aannemelijk is dat aan haar onderzoeksprotocollen ter beoordeling zullen worden voorgelegd tot tenminste het door de centrale commissie daartoe vastgestelde aantal.     
 
 ### Artikel  17  
 
@@ -398,7 +398,7 @@ Een commissie doet van een wijziging van haar reglement en van haar opheffing sc
 
 ### Artikel  20  
 
-Als vergoeding voor de met de beoordeling gemoeide kosten kan de commissie aan degene die een onderzoeksprotocol ter beoordeling indient, een bedrag in rekening brengen.  
+Als vergoeding voor de met de beoordeling gemoeide kosten kunnen de commissie en de centrale commissie aan degene die een onderzoeksprotocol ter beoordeling indient, een bedrag in rekening brengen.  
 
 ### Artikel  21  
 
@@ -408,13 +408,13 @@ Als vergoeding voor de met de beoordeling gemoeide kosten kan de commissie aan d
 
 ### Artikel  22  
 
-1.  De commissie zendt aan de centrale commissie afschrift van elk ingevolge deze wet gegeven oordeel alsmede van het desbetreffende onderzoeksprotocol of de hoofdzaken daarvan. Voorts doet de commissie bij de centrale commissie melding van de in artikel 10, tweede lid, bedoelde mededelingen.   
+1.  De commissie zendt aan de centrale commissie afschrift van elk ingevolge deze wet gegeven oordeel alsmede van het desbetreffende onderzoeksprotocol of de hoofdzaken daarvan binnen zeven dagen na de dag waarop het oordeel gegeven is. Voorts doet de commissie van de in artikel 10, tweede lid, bedoelde mededelingen binnen zeven dagen na ontvangst ervan melding bij de centrale commissie.   
 2.  De commissie brengt jaarlijks vóór 1 april verslag uit van haar werkzaamheden in het afgelopen kalenderjaar. Dit verslag wordt gezonden aan de centrale commissie en wordt overigens door de commissie, tegen betaling der kosten, voor een ieder verkrijgbaar gesteld.   
 3.  De commissie verleent aan de centrale commissie alle medewerking die voor de vervulling van haar taak redelijkerwijs nodig is.   
 
 ### Artikel  23  
 
-Tegen een door een commissie gegeven oordeel dat geen betrekking heeft op wetenschappelijk onderzoek met geneesmiddelen kan een belanghebbende administratief beroep instellen bij de centrale commissie.  
+Tegen een door een commissie gegeven oordeel kan een belanghebbende administratief beroep instellen bij de centrale commissie.  
 
 ### Artikel  24  
 
@@ -424,12 +424,12 @@ De centrale commissie houdt toezicht op de werkzaamheden van de commissies. Zij 
 
 1.  De centrale commissie trekt een aan een commissie verleende erkenning in indien: 
 
-a. de commissie niet langer voldoet aan een van de in artikel 16, tweede lid, onder a tot en met f, met het oog op erkenning gestelde voorwaarden;  
+a. de commissie niet langer voldoet aan een van de in artikel 16, tweede lid, onder a tot en met g, met het oog op erkenning gestelde voorwaarden;  
 
 b. de commissie de verplichtingen die voor haar voortvloeien uit deze wet, onvoldoende nakomt;  
 
 c. door een wijziging van het reglement van de commissie een goede uitoefening van de werkzaamheden waarmee zij ingevolge deze wet is belast, redelijkerwijs niet langer is verzekerd.     
-2.  De centrale commissie kan voorts een erkenning intrekken indien door de commissie in de laatste twee kalenderjaren een kleiner aantal onderzoeksprotocollen is beoordeeld dan het aantal, bedoeld in artikel 16, tweede lid, onder g.   
+2.  De centrale commissie kan voorts een erkenning intrekken indien door de commissie in de laatste twee kalenderjaren een kleiner aantal onderzoeksprotocollen is beoordeeld dan het aantal, bedoeld in artikel 16, tweede lid, onder h.   
 3.  Een beslissing tot intrekking van een erkenning wordt niet genomen dan nadat de commissie door de centrale commissie is gehoord.   
 4.  Van de intrekking wordt schriftelijk mededeling gedaan aan de commissie. Artikel 17, tweede lid, is van overeenkomstige toepassing.   
 
@@ -440,6 +440,10 @@ Telkens binnen een periode van vijf jaar brengt de centrale commissie een rappor
 ### Paragraaf  7  
 
 ####Verdere bepalingen
+
+### Artikel  27a  
+
+Bij ministeriële regeling kan worden bepaald dat toezending van informatie, die op grond van deze wet moet worden verstrekt aan de centrale commissie, aan Onze Minister ingeval artikel 13i, vijfde lid, van toepassing is, en voorts aan de commissie, het College of de Inspectie voor de Gezondheidszorg, elektronisch geschiedt. Daarbij kunnen regels worden gesteld inzake de vorm waarin dit dient te geschieden.  
 
 ### Artikel  28  
 
@@ -462,7 +466,7 @@ De toepassing van deze wet door de commissies geschiedt met inachtneming van de 
 
 ### Artikel  32  
 
-Onze Minister kan, in overeenstemming met Onze Minister van Defensie, de artikelen 16, tweede lid, onder a, en 25, eerste lid, onder a, buiten werking stellen ten aanzien van commissies die belast zijn met de toetsing van wetenschappelijk onderzoek naar bescherming tegen de omstandigheden waaraan militair personeel bij operationele inzet kan worden blootgesteld, voor zover dit onderzoek wordt verricht met proefpersonen die behoren tot het militair personeel.  
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Onze Minister kan, in overeenstemming met Onze Minister van Defensie, de artikelen 16, tweede lid, onder a, en 25, eerste lid, onder a, buiten werking stellen ten aanzien van commissies die belast zijn met de toetsing van wetenschappelijk onderzoek naar bescherming tegen de omstandigheden waaraan militair personeel bij operationele inzet kan worden blootgesteld, voor zover dit onderzoek wordt verricht met proefpersonen die behoren tot het militair personeel.  
 
 ### Paragraaf  8  
 
@@ -471,7 +475,7 @@ Onze Minister kan, in overeenstemming met Onze Minister van Defensie, de artikel
 ### Artikel  33  
 
 1.  Met gevangenisstraf van ten hoogste een jaar of geldboete van de vierde categorie wordt gestraft degene die al dan niet opzettelijk handelt in strijd met een verbod, vervat in artikel 6, eerste lid.   
-2.  Met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie wordt gestraft degene die handelt in strijd met de verplichting zorg te dragen voor de nakoming van artikel 2, eerste lid of tweede lid, of 7 dan wel in strijd met een verplichting, vervat in de paragrafen 5 en 5a of in strijd met een gedragslijn bedoeld in artikel 13n. Met dezelfde straf wordt gestraft degene die handelt in strijd met een verbod, vervat in de artikelen 4, 5 en 13c en degene die wetenschappelijk onderzoek uitvoert zonder een protocol waarover een positief oordeel is verkregen, dan wel in strijd daarmee.   
+2.  Met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie wordt gestraft degene die handelt in strijd met de verplichting zorg te dragen voor de nakoming van artikel 2, eerste lid of tweede lid, of 7 dan wel in strijd met een verplichting, vervat in de paragrafen 5 en 5a of in strijd met een gedragslijn bedoeld in artikel 13n. Met dezelfde straf wordt gestraft degene die handelt in strijd met een verbod, vervat in de artikelen 4, 5 en 13c, degene die wetenschappelijk onderzoek uitvoert zonder een protocol waarover een positief oordeel is verkregen, dan wel in strijd daarmee en degene die wetenschappelijk onderzoek uitvoert terwijl de commissie een door haar gegeven positief oordeel over het onderzoeksprotocol heeft opgeschort dan wel ingetrokken of de centrale commissie of Onze Minister, ingeval het vijfde lid van artikel 13i van toepassing is, de uitvoering van het onderzoek heeft opgeschort.   
 3.  De in het eerste lid strafbaar gestelde feiten zijn misdrijven; de in het tweede lid strafbaar gestelde feiten zijn overtredingen.   
 
 ### Paragraaf  9  

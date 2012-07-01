@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 16 januari 2007 , kenmerk CZ/IZ-2737805;
 
-Gelet op [artikel 2, tweede lid, van de Wet op bijzondere medische verrichtingen](../../../../../../../../wet/wet/op/bijzondere/medische/verrichtingen/BWBR0008974/README.md);
+Gelet op artikel 2, tweede lid, van de Wet op bijzondere medische verrichtingen;
 
 De Raad van State gehoord (advies van 13 februari 2007, nummer W13.07.0012/I;
 
@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Het is verboden zonder vergunning van Onze Minister van Volksgezondheid, Welzijn en Sport de navolgende verrichtingen uit te voeren of te doen uitvoeren: 
+1.  Het is verboden zonder vergunning van Onze Minister van Volksgezondheid, Welzijn en Sport de navolgende verrichtingen uit te voeren of te doen uitvoeren: 
 
 a. orgaantransplantatie, inhoudende transplantatie van hart, nier, pancreas, long, lever of dunne darm, dan wel delen of cellen van deze organen;  
 
@@ -23,7 +23,15 @@ b. implantatie van kunstorganen, voor zover betrekking hebbend op de organen, ge
 
 c. autologe en allogene transplantatie van hematopoietische stamcellen uit beenmerg, perifeer bloed of navelstrengbloed;  
 
-d. transplantatie van stamcellen om ze te differentiëren tot cellen voor het genereren of regenereren van weefsels of organen;  
+d. celtransplantatie, inhoudende het in- of aanbrengen van menselijke cellen bij patiënten om hun gezondheidstoestand te verbeteren, anders dan: 
+
+– het in- of aanbrengen van menselijke cellen als onderdeel van orgaantransplantatie als bedoeld onder a;  
+
+– autologe en allogene transplantatie van hematopoietische stamcellen uit beenmerg, perifeer bloed of navelstrengbloed als bedoeld onder c;  
+
+– het in- of aanbrengen van weefsel waarvan de voor het beoogde klinisch gebruik relevante biologische eigenschappen, fysiologische functies of structurele eigenschappen niet zijn gewijzigd; of  
+
+– het toepassen van menselijk bloed als zodanig;    
 
 e. bijzondere interventies aan het hart, inhoudende hartchirurgie en alle vormen van therapeutische interventiecardiologie met inbegrip van de implantatie van een defibrillator;  
 
@@ -49,15 +57,22 @@ h. klinisch genetisch onderzoek en erfelijkheidsadvisering, inhoudende:
 
 i. in-vitrofertilisatie, voor zover dit betreft het buiten het lichaam tot stand brengen van menselijke embryo’s;  
 
-j. neonatale intensive care met uitzondering van neonatale chirurgische zorg.    
+j. neonatale intensive care met uitzondering van neonatale chirurgische zorg.     
+2.  In afwijking van het eerste lid, aanhef, en onder d, is het niet verboden om zonder vergunning celtransplantatie toe te passen indien ten aanzien van de gebruikte cellen: 
+
+a. een handelsvergunning op grond van artikel 40, eerste lid, van de Geneesmiddelenwet is verkregen;  
+
+b. op grond van artikel 40, derde lid, onder d of f, van de Geneesmiddelenwet geen handelsvergunning nodig is voor het in voorraad hebben, verkopen, ter hand stellen of invoeren van het geneesmiddel; of  
+
+c. goedkeuring van een bevoegde instantie als bedoeld in artikel 2, tweede lid, van de Wet medisch-wetenschappelijk onderzoek met mensen is verkregen voor een onderzoeksprotocol als bedoeld in artikel 2, eerste lid, van die wet, waarvan het gebruik van die cellen deel uitmaakt.     
 
 ### Artikel  2  
 
-Het [Besluit aanwijzing bijzondere medische verrichtingen](../../../../../../../../AMvB/besluit/aanwijzing/bijzondere/medische/verrichtingen/BWBR0005209/README.md) wordt ingetrokken.  
+Het Besluit aanwijzing bijzondere medische verrichtingen wordt ingetrokken.  
 
 ### Artikel  3  
 
-Vergunningen, verleend ingevolge het in artikel 2 genoemde [besluit](../../../../../../../../AMvB/besluit/aanwijzing/bijzondere/medische/verrichtingen/BWBR0005209/README.md), ingevolge het [Planningsbesluit klinisch-genetisch onderzoek en erfelijkheidsadvisering](../../../../../../../../ministeriele-regeling/planningsbesluit/klinisch/genetisch/onderzoek/en/erfelijkheidsadvisering/BWBR0014594/README.md), de [Regeling stamceltransplantatie](../../../../../../../../ministeriele-regeling/regeling/stamceltransplantatie/BWBR0020462/README.md), de [Regeling transplantatie pancreas en dunne darm](../../../../../../../../ministeriele-regeling/regeling/transplantatie/pancreas/en/dunne/darm/BWBR0018464/README.md) of ingevolge de [Regeling transplantatie eilandjes van Langerhans](../../../../../../../../ministeriele-regeling/regeling/transplantatie/eilandjes/van/langerhans/BWBR0015947/README.md), worden gelijkgesteld met vergunningen, verleend ingevolge het onderhavige besluit.  
+Vergunningen, verleend ingevolge het in artikel 2 genoemde besluit, ingevolge het Planningsbesluit klinisch-genetisch onderzoek en erfelijkheidsadvisering, de Regeling stamceltransplantatie, de Regeling transplantatie pancreas en dunne darm of ingevolge de Regeling transplantatie eilandjes van Langerhans, worden gelijkgesteld met vergunningen, verleend ingevolge het onderhavige besluit.  
 
 ### Artikel  4  
 

@@ -282,11 +282,7 @@ a. zich geneeskundig te laten behandelen of aanwijzingen van een arts op te volg
 
 b. mee te werken aan activiteiten of werkzaamheden, gericht op inschakeling in de arbeid, die het UWV wenselijk acht voor verkrijging van mogelijkheden tot verrichten van algemeen geaccepteerde arbeid;  
 
-c. mee te werken aan aanpassing van de arbeidsplaats en aan persoongebonden voorzieningen die het UWV verstrekt voor verkrijging van mogelijkheden tot verrichten van algemeen geaccepteerde arbeid en zo nodig trachten die aanpassing en die voorzieningen te verkrijgen;  
-
-d. mee te werken aan het opstellen van de re-integratievisie, bedoeld in [artikel 30a, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), en het re-integratieplan, bedoeld in [artikel 30a, derde lid, van die wet](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
-
-e. te voldoen aan de verplichtingen die zijn opgenomen in de re-integratievisie, bedoeld in [artikel 30a, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), en het re-integratieplan, bedoeld in [artikel 30a, derde lid, van die wet](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).     
+c. mee te werken aan aanpassing van de arbeidsplaats en aan persoongebonden voorzieningen die het UWV verstrekt voor verkrijging van mogelijkheden tot verrichten van algemeen geaccepteerde arbeid en zo nodig trachten die aanpassing en die voorzieningen te verkrijgen.     
 
 ### Artikel  15  
 
@@ -389,6 +385,16 @@ a. is het UWV in afwijking van [artikel 4:93, vierde lid, van de Algemene wet be
 
 b. geldt de beslagvrije voet, bedoeld in de [artikelen 475c tot en met 475e van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), in afwijking van [artikel 4:116 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), niet bij de invordering van een bestuurlijke boete bij dwangbevel.     
 5.  Bij ministeriële regeling kunnen regels worden gesteld omtrent de hoogte van het op grond van artikel 24, eerste of tweede lid, te verrekenen bedrag en de termijn of termijnen waarbinnen deze verrekening plaatsvindt.   
+
+### Artikel  24a  
+
+####Verrekening bestuurlijke boete bij recidive
+
+1.  Bij de verrekening, bedoeld in artikel 24, eerste lid, wordt de bestuurlijke boete, bedoeld in artikel 21, vijfde lid, door het Uitvoeringsinstituut werknemersverzekeringen, in afwijking van [artikel 4:93, vierde lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), verrekend gedurende een tijdvak van ten hoogste vijf jaar vanaf het moment van de dagtekening waarop de bestuurlijke boete is opgelegd.   
+2.  Artikel 24, eerste lid, en het eerste lid zijn van overeenkomstige toepassing op de verrekening van de bestuurlijke boete wegens eenzelfde gedraging als bedoeld in artikel 21, zesde lid, indien en voor zover op het moment van verrekening, bedoeld in het eerste lid, de bestuurlijke boete door de overtreder niet is betaald.   
+3.  Het UWV kan op verzoek van de overtreder besluiten het eerste lid en tweede lid niet of niet meer toe te passen indien, gelet op bijzondere omstandigheden, dringende redenen daartoe noodzaken.   
+4.  De voorgaande leden laten de verrekening van de bestuurlijke boete op grond van artikel 24, eerste lid, na het tijdvak, bedoeld in het eerste lid, onverlet.   
+5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de uitkering op grond van deze wet vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de uitkering kan afhankelijk worden gesteld van de leefsituatie.   
 
 ### Artikel  25  
 
@@ -653,6 +659,13 @@ b. de [Regeling terugvordering geringe bedragen](../../../../../../ministeriele-
 c. de [Regeling vrijstelling verplichtingen WW en Wet WIA](../../../../../../ministeriele-regeling/regeling/vrijstelling/verplichtingen/ww/en/wet/wia/BWBR0019305/README.md): artikel 16, eerste lid;  
 
 d. de [Vakantieregeling WW](../../../../../../ministeriele-regeling/vakantieregeling/ww/BWBR0016004/README.md): artikel 6, zesde lid.     
+
+### Artikel  48b  
+
+####Overgangsbepaling in verband met de re-integratievisie en het re-integratieplan
+
+1.  De verplichtingen die zijn opgenomen in de re-integratievisie en het re-integratieplan zoals die zijn opgesteld voor de dag waarop artikel III, onderdeel A, van de Wet van 21 mei 2012 tot wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen in verband met aanpassing van de dienstverlening van het Uitvoeringsinstituut werknemersverzekeringen aan werkgevers en werkzoekenden en van de Werkloosheidswet en enige andere wetten in verband met de beëindiging van de inzet van het re-integratiebudget Werkloosheidswet en van loonkostensubsidies inwerking is getreden blijven van toepassing op de aanvrager en de uitkeringsgerechtigde.   
+2.  Dit artikel vervalt vijf jaar na de dag waarop artikel III, onderdeel A, van de Wet van 21 mei 2012 tot wijziging van de Wet Wet structuur uitvoeringsorganisatie werk en inkomen in verband met aanpassing van de dienstverlening van het Uitvoeringsinstituut werknemersverzekeringen aan werkgevers en werkzoekenden en de opheffing van de Raad voor Werk en Inkomen als publiekrechtelijke rechtspersoon met een wettelijke taak en van de Werkloosheidswet en enige andere wetten in verband met de beëindiging van de inzet van het re-integratiebudget Werkloosheidswet en van loonkostensubsidies in werking is getreden.   
 
 ### Artikel  49  
 

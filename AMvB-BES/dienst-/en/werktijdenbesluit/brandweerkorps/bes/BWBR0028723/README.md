@@ -8,7 +8,7 @@
 
 1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *feestdagen:* hetgeen daaronder wordt verstaan in [artikel 37, vierde lid, van het Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md) wordt verstaan;  
+a. *feestdagen:* hetgeen daaronder wordt verstaan in artikel 37, onderdeel j, van het Rechtspositiebesluit ambtenaren BES wordt verstaan;  
 
 b. *diensturen:* het totaal van de werk-, wacht- en beschikbaarheidsuren;  
 
@@ -29,7 +29,7 @@ i. *werkzaamheden:* activiteiten die voortvloeien uit de door de ambtenaar vervu
 j. *dienstrooster:* de staat waarop voor de werknemers geldende werktijden zijn aangegeven;  
 
 k. *Onze Minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties.     
-2.  Dit besluit is alleen van toepassing op ambtenaren, bedoeld in [artikel 33, tweede lid, onder a, van de Veiligheidswet BES](../../../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md).   
+2.  Dit besluit is alleen van toepassing op ambtenaren, bedoeld in artikel 33, tweede lid, onder a, van de Veiligheidswet BES.   
 
 ####Dienstrooster
 
@@ -73,20 +73,11 @@ Aan de ambtenaar in wachtdienst wordt voor de in een kalenderjaar vallende feest
 
 1.  Overwerk wordt slechts bij uitzondering en alleen in die gevallen opgedragen, waarin de belangen van de dienst zulks onvermijdelijk maken.   
 2.  Van verricht overwerk wordt telkenmale aantekening gehouden op het dienstrooster alsmede op een daartoe bestemd formulier. Het formulier moet worden ondertekend door de ambtenaar die het overwerk verrichtte en door de ambtenaar die de opdracht tot het verrichten van het overwerk gaf.   
-3.  Indien het dienstbelang het onvermijdelijk maakt, dat aan een ambtenaar werk wordt opgedragen buiten de voor hem vastgestelde werktijden, wordt hem door Onze Minister een vergoeding toegekend conform het bepaalde in [artikel 25 van het Rechtspositiebesluit ambtenaren BES](../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md).   
+3.  Indien het dienstbelang het onvermijdelijk maakt, dat aan een ambtenaar werk wordt opgedragen buiten de voor hem vastgestelde werktijden, wordt hem door Onze Minister een vergoeding toegekend conform het bepaalde in artikel 25 van het Rechtspositiebesluit ambtenaren BES.   
 
 ####Paraatheidstoelage
 
-### Artikel  7  
-
-De ambtenaar op wie de verplichting rust buiten de voor hem geldende diensturen ter beschikking te zijn ten behoeve van het brandweerkorps, heeft aanspraak op een vergoeding welke in hoogte kan verschillen per vestiging van het brandweerkorps. Het ter beschikking zijn wordt aangeduid met paraatheid.  
-
 ####Continudiensttoelage
-
-### Artikel  8  
-
-1.  De ambtenaar op Bonaire en Sint Eustatius die ingevolge het voor hem geldende werkrooster in vol- dan wel halfcontinudienst werkzaam is, ontvangt onder voorwaarden door Onze Minister te bepalen, een continudiensttoelage welke in hoogte kan verschillen per vestiging van het brandweerkorps.   
-2.  De ambtenaar wordt geacht in volcontinudienst werkzaam te zijn, indien hij ingevolge het voor hem geldende werkrooster regelmatig rouleert in dag-, avond- en nachtdienst en in halfcontinudienst indien hij regelmatig rouleert in dag- en avonddienst.   
 
 ####Meerurentoelage
 
@@ -98,7 +89,7 @@ De ambtenaar op Bonaire die in de wachtdienst werkzaam is en meer uren dienst ve
 
 ### Artikel  10  
 
-Behoudens het bepaalde in het [Besluit vakantie en vrijstelling van dienst ambtenaren BES](../../../../../../../AMvB-BES/besluit/vakantie/en/vrijstelling/van/dienst/ambtenaren/bes/BWBR0028606/README.md) kan onze Minster voor de ambtenaren in wachtdienst nadere regels stellen over het opnemen van vakantiedagen en snipperdagen en over vrijstelling van dienst in verband met bijzondere omstandigheden.  
+Behoudens het bepaalde in het Besluit vakantie en vrijstelling van dienst ambtenaren BES kan onze Minster voor de ambtenaren in wachtdienst nadere regels stellen over het opnemen van vakantiedagen en snipperdagen en over vrijstelling van dienst in verband met bijzondere omstandigheden.  
 
 ####Maaltijdvergoeding
 
@@ -115,7 +106,7 @@ Bij ministeriële regeling kunnen ter uitvoering van dit besluit nadere regels w
 
 ### Artikel  13  
 
-Dit besluit berust op de [artikelen 42](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md) en [43 van de Ambtenarenwet BES](../../../../../../../wet-BES/ambtenarenwet/bes/BWBR0028215/README.md).  
+Dit besluit berust op de artikelen 42 en 43 van de Ambtenarenwet BES.  
 
 ### Artikel  14  
 

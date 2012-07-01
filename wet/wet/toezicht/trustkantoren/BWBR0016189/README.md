@@ -20,7 +20,17 @@ a. trustkantoor: een rechtspersoon, vennootschap of natuurlijke persoon die, al 
 
 b. doelvennootschap: een rechtspersoon of vennootschap waaraan de in onderdeel d, onder 1° en 2°, genoemde diensten worden verleend;  
 
-c. uiteindelijk belanghebbende: de natuurlijke persoon die een gekwalificeerde deelneming houdt in een doelvennootschap, dan wel begunstigde is van ten minste tien procent van het vermogen van een stichting of van een trust als bedoeld in het Verdrag inzake het recht dat toepasselijk is op trusts en inzake de erkenning van trusts (Trb. 1985, 141);  
+c. uiteindelijk belanghebbende: de natuurlijke persoon die 
+
+1°. een belang houdt van 25 procent of meer van het kapitaalbelang van een doelvennootschap;  
+
+2°. 25 procent of meer van de stemrechten van de algemene vergadering van een doelvennootschap kan uitoefenen;  
+
+3°. feitelijk zeggenschap kan uitoefenen in een doelvennootschap;  
+
+4°. begunstigde van 25 procent of meer van het vermogen van een doelvennootschap is; of  
+
+5°. een bijzondere zeggenschap heeft over 25 procent of meer van het vermogen van een doelvennootschap;   tenzij de doelvennootschap een vennootschap is die is onderworpen aan openbaarmakingvereisten als bedoeld in richtlijn 2004/109/EG van het Europees Parlement en de Raad van 15 december 2004 betreffende de transparantievereisten die gelden voor informatie over uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten en tot wijziging van Richtlijn 2001/34/EG (PbEU L 390) of aan voorschriften van een internationale organisatie die gelijkwaardig zijn aan die richtlijn;  
 
 d. dienst: 
 
@@ -38,11 +48,13 @@ iv) het werven van een bestuurder voor een rechtspersoon of vennootschap;
 
 v) andere bij algemene maatregel van bestuur aan te wijzen bijkomende werkzaamheden;    
 
-3°. het verkopen van rechtspersonen;  
+3°. het verkopen van of bemiddelen bij de verkoop van rechtspersonen;  
 
 4°. het zijn van een trustee in de zin van het Verdrag inzake het recht dat toepasselijk is op trusts en inzake de erkenning van trusts in opdracht van een, niet tot dezelfde groep als waarvan het trustkantoor deel uitmaakt behorende rechtspersoon, vennootschap of natuurlijke persoon; of  
 
-5°. andere bij algemene maatregel van bestuur aan te wijzen diensten;    
+5°. het ten behoeve van de cliënt gebruik maken van een vennootschap, die tot dezelfde groep behoort als waarvan het trustkantoor deel uit maakt;  
+
+6°. andere bij algemene maatregel van bestuur aan te wijzen diensten;    
 
 e. bijkantoor: een of meer onderdelen zonder rechtspersoonlijkheid van een trustkantoor;  
 
@@ -54,7 +66,9 @@ h. Onze Minister: Onze Minister van Financiën;
 
 i. politiek prominente persoon: een persoon als bedoeld in artikel 2 van de Uitvoeringsrichtlijn 2006/70/EG van de Commissie van de Europese Gemeenschappen van 1 augustus 2006 tot vaststelling van uitvoeringsmaatregelen van Richtlijn 2005/60/EG van het Europees Parlement en de Raad wat betreft de definitie van politiek prominente personen en wat betreft de technische criteria voor vereenvoudigde cliëntenonderzoeksprocedures en voor vrijstellingen op grond van occasionele of zeer beperkte financiële activiteiten (PbEU L 214);  
 
-j. toezichthouder: De Nederlandsche Bank N.V..    
+j. toezichthouder: De Nederlandsche Bank N.V.;  
+
+j. trustkantoor met zetel in een niet-aangewezen staat: trustkantoor met zetel in een staat buiten Nederland die niet op grond van artikel 2, vijfde lid, is aangewezen als staat waar toezicht op trustkantoren wordt uitgeoefend dat in voldoende mate waarborgen biedt ten aanzien van de belangen die deze wet beoogt te beschermen.    
 
 ### Hoofdstuk  2  
 
@@ -67,16 +81,25 @@ j. toezichthouder: De Nederlandsche Bank N.V..
 ### Artikel  2  
 
 1.  Het is verboden zonder vergunning van de toezichthouder vanuit een vestiging in Nederland als trustkantoor werkzaam te zijn.   
-2.  Het eerste lid is niet van toepassing op: 
+2.  Het is een ieder met zetel buiten Nederland verboden zonder vergunning van de toezichthouder als trustkantoor werkzaam te zijn door middel van het verrichten van diensten naar Nederland.   
+3.  Het is verboden werkzaamheden te verrichten gericht op het verlenen van trustdiensten door een trustkantoor met zetel in een niet-aangewezen staat dat niet beschikt over een vergunning als bedoeld in het tweede lid.   
+4.  Het eerste lid, tweede en derde lid zijn niet van toepassing op: 
 
-1º. De Nederlandsche Bank N.V.;  
+a. de toezichthouder;  
 
-2º. een publiekrechtelijke rechtspersoon als bedoeld in [artikel 1 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+b. een krachtens publiekrecht ingestelde rechtspersoon als bedoeld in [artikel 1 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
 
-3º. een rechtspersoon, vennootschap of natuurlijke persoon die beroeps- of bedrijfsmatig opdrachten van tijdelijke aard die betrekking hebben op management- en organisatievraagstukken, met de daarbij behorende verantwoordelijkheden en bevoegdheden, uitvoert of doet uitvoeren, voor zover deze de diensten, bedoeld in artikel 1, onderdeel d, onder 1°, verleent.     
-3.  Onze Minister kan vrijstelling verlenen van het in het eerste lid vervatte verbod, indien de situatie van een onderscheiden categorie trustkantoren dat rechtvaardigt, mits zulks naar zijn oordeel niet in strijd is met de belangen die deze wet beoogt te beschermen. Aan een vrijstelling kunnen voorschriften worden verbonden en beperkingen worden gesteld.   
-4.  De toezichthouder kan, op verzoek, ontheffing verlenen van het in het eerste lid vervatte verbod, indien de specifieke situatie van een trustkantoor dat rechtvaardigt, mits zulks naar zijn oordeel niet in strijd is met de belangen die deze wet beoogt te beschermen. Aan een ontheffing kunnen voorschriften worden verbonden en beperkingen worden gesteld.   
-5.  Een vergunning als bedoeld in het eerste lid kan, onder door de toezichthouder te stellen voorschriften en beperkingen, aan een groep van trustkantoren worden verleend. Tenzij in de vergunning anders is bepaald, geldt de vergunning, alsmede de daaraan verbonden voorschriften of gestelde beperkingen, in gelijke zin voor alle trustkantoren die onderdeel uitmaken van de groep.   
+c. een rechtspersoon, vennootschap of natuurlijke persoon die beroeps- of bedrijfsmatig opdrachten van tijdelijke aard die betrekking hebben op management- en organisatievraagstukken, met daarbij behorende verantwoordelijkheden en bevoegdheden, uitvoert of doet uitvoeren, voor zover deze de diensten, bedoeld in artikel 1, onderdeel d, onder 1°, verleent.     
+5.  Het tweede lid is niet van toepassing op trustkantoren met zetel in een door Onze Minister aan te wijzen staat waar toezicht op het verlenen van trustdiensten wordt uitgeoefend dat in voldoende mate waarborgen biedt ten aanzien van de belangen die deze wet beoogt te beschermen.   
+6.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het aanwijzen van staten.   
+7.  Het besluit tot aanwijzing kan door Onze Minister worden ingetrokken.   
+8.  Een besluit tot aanwijzing van een staat als bedoeld in het derde lid of de intrekking daarvan wordt bekend gemaakt in de Staatscourant.   
+
+### Artikel  2a  
+
+1.  Onze Minister kan vrijstelling verlenen van artikel 2, eerste, tweede of derde lid, indien de situatie van een onderscheiden categorie trustkantoren dat rechtvaardigt, mits zulks naar zijn oordeel niet in strijd is met de belangen die deze wet beoogt te beschermen. Aan een vrijstelling kunnen voorschriften worden verbonden en beperkingen worden gesteld.   
+2.  De toezichthouder kan, op verzoek, ontheffing verlenen van artikel 2, eerste, tweede of derde lid, indien de specifieke situatie van een trustkantoor dat rechtvaardigt, mits zulks naar zijn oordeel niet in strijd is met de belangen die deze wet beoogt te beschermen. Aan een ontheffing kunnen voorschriften worden verbonden en beperkingen worden gesteld.   
+3.  Een vergunning als bedoeld in artikel 2, eerste, tweede of derde lid kan, onder door de toezichthouder te stellen voorschriften en beperkingen, aan een groep van trustkantoren worden verleend. Tenzij in de vergunning anders is bepaald, geldt de vergunning, alsmede de daaraan verbonden voorschriften of gestelde beperkingen, in gelijke zin voor alle trustkantoren die onderdeel uitmaken van de groep.   
 
 ### Paragraaf  2  
 
@@ -109,7 +132,7 @@ De toezichthouder verleent een vergunning tenzij:
 
 a. hij op grond van de voornemens of de antecedenten van de personen, bedoeld in artikel 3, eerste lid, onderdelen a, b of c, van oordeel is dat de betrouwbaarheid van een van deze personen niet buiten twijfel staat;  
 
-b. hij van oordeel is dat de deskundigheid van een of meer van de personen, bedoeld in artikel 3, eerste lid, onderdelen a en b, onvoldoende is om het beroep of bedrijf van trustkantoor uit te oefenen;  
+b. hij van oordeel is dat de geschiktheid van een of meer van de personen, bedoeld in artikel 3, eerste lid, onderdelen a en b, onvoldoende is om het beroep of bedrijf van trustkantoor uit te oefenen;  
 
 c. hij van oordeel is dat de groep waartoe het trustkantoor behoort een formele of feitelijke zeggenschapsstructuur heeft die in zodanige mate ondoorzichtig is, dat deze een belemmering vormt of zou kunnen vormen voor het adequaat uitoefenen van toezicht op het trustkantoor;  
 
@@ -230,7 +253,11 @@ h. door het trustkantoor geen dienst wordt verleend, indien niet wordt voldaan a
 ### Artikel  11  
 
 1.  De toezichthouder kan, indien niet is voldaan aan artikel 5, eerste of derde lid, of indien zich een omstandigheid voordoet als bedoeld in artikel 6, onderdeel e, aan het trustkantoor dan wel aan de bevoegde organen, een aanwijzing geven om ten aanzien van met name aan te geven onderwerpen een bepaalde gedragslijn te volgen. Het trustkantoor dan wel de bevoegde organen aan wie de aanwijzing is gegeven, volgt dan wel volgen deze op binnen een door de toezichthouder te stellen termijn.   
-2.  Indien de deskundigheid of betrouwbaarheid van de in artikel 3, eerste lid, onderdelen a, b of c bedoelde personen, voor zover zij via een formele of feitelijke zeggenschapsstructuur het beleid bepalen of mede bepalen van het trustkantoor, niet langer buiten twijfel staat, kan de toezichthouder de aanwijzing geven dat deze personen het beleid van het trustkantoor niet meer kunnen bepalen of mede bepalen.   
+2.  Indien van de in artikel 3, eerste lid, onderdelen a, b of c bedoelde personen, voor zover zij via een formele of feitelijke zeggenschapsstructuur het beleid bepalen of mede bepalen van het trustkantoor, de betrouwbaarheid niet langer buiten twijfel staat, of de geschiktheid niet langer voldoende is, kan de toezichthouder: 
+
+a. met betrekking tot de in artikel 3, eerste lid, onderdelen a en b, bedoelde personen een aanwijzing geven aan het trustkantoor dat deze personen het beleid van het trustkantoor niet meer kunnen bepalen of mede bepalen;  
+
+b. aan de in artikel 3, eerste lid, onderdeel c, bedoelde personen een aanwijzing geven om binnen een door de toezichthouder gestelde redelijke termijn ten aanzien van in de aanwijzingsbeschikking aan te geven punten een bepaalde gedragslijn te volgen.     
 
 ### Hoofdstuk  4  
 
@@ -315,12 +342,12 @@ In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../../
 
 ### Artikel  20  
 
-1.  De toezichthouder kan een last onder dwangsom opleggen ter zake van overtreding van voorschriften, gesteld bij of krachtens de artikelen 2, eerste en derde tot en met vijfde lid, 3, derde lid, 5, 9, tweede en derde lid, voor zover het betreft het voorschrift van [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en het voorschrift inzage te verlenen in zakelijke gegevens en bescheiden, 10, 11, 14, tweede lid, en 16, tweede lid.   
+1.  De toezichthouder kan een last onder dwangsom opleggen ter zake van overtreding van voorschriften, gesteld bij of krachtens de artikelen 2, eerste tot en met derde lid, 2a, eerste tot en met derde lid, 3, derde lid, 5, 9, tweede en derde lid, voor zover het betreft het voorschrift van [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en het voorschrift inzage te verlenen in zakelijke gegevens en bescheiden, 10, 11, 14, tweede lid, 16, tweede lid, 24, eerste lid en 25, vierde lid.   
 2.  Onze Minister kan regels stellen ter zake van de uitoefening van de bevoegdheid, bedoeld in het eerste lid.   
 
 ### Artikel  21  
 
-1.  De toezichthouder kan een bestuurlijke boete opleggen ter zake van overtreding van voorschriften, gesteld bij of krachtens de artikelen 2, eerste en derde tot en met vijfde lid, 3, derde lid, 5, 9, tweede en derde lid, voor zover het betreft het voorschrift van [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en het voorschrift inzage te verlenen in zakelijke gegevens en bescheiden, 10, 11, 14, tweede lid, en 16, tweede lid.   
+1.  De toezichthouder kan een bestuurlijke boete opleggen ter zake van overtreding van voorschriften, gesteld bij of krachtens de artikelen 2, eerste tot en met derde lid, 2a, eerste tot en met derde lid3, derde lid, 5, 9, tweede en derde lid, voor zover het betreft het voorschrift van [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en het voorschrift inzage te verlenen in zakelijke gegevens en bescheiden, 10, 11, 14, tweede lid, 16, tweede lid, 24, eerste lid en 25, vierde lid.   
 2.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de uitoefening van de bevoegdheid, bedoeld in het eerste lid.   
 
 ### Artikel  22  
@@ -340,6 +367,48 @@ In afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../../
 
 1.  Indien tegen een besluit tot het opleggen van een bestuurlijke boete bezwaar of beroep wordt aangetekend, schorst dit de verplichting tot betaling van de bestuurlijke boete totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.   
 2.  De schorsing van de verplichting tot betaling van de bestuurlijke boete schorst niet de berekening van de wettelijke rente.   
+
+### Hoofdstuk  7a  
+
+####Aanwijzing illegaal trustkantoor en aanstelling curator
+
+### Artikel  24  
+
+1.  De toezichthouder kan een ieder die werkzaam is als trustkantoor zonder daartoe bevoegd te zijn op grond van een vergunning als bedoeld in artikel 2, eerste lid, een aanwijzing geven die is gericht op het beëindigen van de desbetreffende werkzaamheden.   
+2.  De aanwijzing vermeldt: 
+
+a. de werkzaamheden die in strijd met het verbod, bedoeld in artikel 2, eerste lid, zijn verleend;  
+
+b. indien van toepassing, een aanduiding van de plaats en het tijdstip waarop of de periode waarin in strijd met het verbod, bedoeld in artikel 2, eerste lid, is gehandeld;  
+
+c. de wijze waarop de dienstverlening dient te worden afgebouwd en beëindigd;  
+
+d. de termijn waarin het handelen in strijd met het bedoelde verbod moet zijn beëindigd.     
+3.  Voordat de toezichthouder een aanwijzing geeft, stelt hij de betrokkene in de gelegenheid zijn zienswijze naar voren te brengen.   
+
+### Artikel  25  
+
+1.  De toezichthouder kan één of meer personen benoemen als curator ten aanzien van alle of bepaalde organen of vertegenwoordigers van een trustkantoor indien dat trustkantoor niet voldoet aan hetgeen ingevolge deze wet is bepaald.   
+2.  Het besluit ingevolge het eerste lid wordt slechts genomen: 
+
+a. nadat door het trustkantoor niet of niet volledig binnen de gestelde termijn aan een aanwijzing als bedoeld in artikel 11, eerste lid, gevolg is gegeven; of  
+
+b. indien de in het eerste lid bedoelde overtreding een adequate functionering van het trustkantoor ernstig in gevaar brengt en dat trustkantoor voorafgaand in de gelegenheid is gesteld zijn zienswijze naar voren te brengen over het voorgenomen besluit.     
+3.  Het benoemingsbesluit bevat onder meer een beschrijving van de belangen waardoor de curator zich dient te laten leiden. De toezichthouder benoemt de curator voor ten hoogste twee jaren, met de mogelijkheid om deze termijn telkens voor ten hoogste een jaar te verlengen; de verlenging wordt terstond van kracht. Met ingang van het tijdstip waarop het besluit tot benoeming van de curator aan het trustkantoor is bekendgemaakt mogen de desbetreffende organen of vertegenwoordigers hun bevoegdheden slechts uitoefenen na goedkeuring door de curator en met inachtneming van de opdrachten van de curator.   
+4.  Na de benoeming van een curator: 
+
+a. verlenen de organen en de vertegenwoordigers van het trustkantoor de curator alle medewerking;  
+
+b. kan de toezichthouder de betrokken organen of vertegenwoordigers van het trustkantoor toestaan bepaalde rechtshandelingen zonder goedkeuring te verrichten;  
+
+c. kan de toezichthouder te allen tijde de door hem aangewezen curator vervangen;  
+
+d. is voor schade ten gevolge van handelingen, die zijn verricht in strijd met een besluit als bedoeld in het eerste lid, elke persoon die deel uitmaakt van het orgaan van het trustkantoor dat deze handelingen verrichtte, hoofdelijk aansprakelijk tegenover het trustkantoor, tenzij het verrichten van deze handelingen niet aan hem is te verwijten en hij niet nalatig is geweest in het treffen van maatregelen om de gevolgen daarvan af te wenden;  
+
+e. zijn de handelingen, bedoeld in onderdeel d, voor zover deze rechtshandelingen zijn, vernietigbaar, indien de wederpartij wist of behoorde te weten dat de vereiste goedkeuring ontbrak.     
+5.  Zodra de omstandigheid, bedoeld in het eerste lid, niet langer aanwezig is, trekt de toezichthouder het besluit tot benoeming van de curator in. De toezichthouder maakt het besluit tot intrekking onverwijld bekend aan het trustkantoor.   
+6.  Dit artikel is van overeenkomstige toepassing op een ieder die beroeps- of bedrijfshalve een dienst verleent zonder een daartoe strekkende vergunning als bedoeld in artikel 2, eerste lid.   
+7.  De kosten van de in het eerste lid bedoelde maatregel komen voor rekening van het in dat lid bedoelde trustkantoor.   
 
 ### Hoofdstuk  8  
 

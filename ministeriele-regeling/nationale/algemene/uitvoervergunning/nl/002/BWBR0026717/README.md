@@ -41,12 +41,17 @@ Voorwaarden en eisen ten aanzien van het gebruik van deze vergunning:
 
 3. Deze algemene vergunning mag niet worden gebruikt indien de eindbestemming van de betrokken producten een douanevrije zone of een vrij entrepot is. Indien de producten tussentijds worden opgeslagen in douane vrije zone of vrij entrepot dan dient de eindbestemming van de betrokken producten een onder deze vergunning vallende bestemming te zijn.  
 
-4. Voorwaarde voor gebruik van deze algemene vergunning is registratie bij de Belastingdienst/ Douane centrale dienst voor in- en uitvoer, Postbus 30003, 9700 RD Groningen.      
+4. Voorwaarde voor gebruik van deze algemene vergunning is dat ten minste twee weken voorafgaand aan het gebruik ervan een schriftelijk verzoek om registratie wordt ingediend bij de Centrale dienst voor in- en uitvoer (CDIU), Postbus 30003, 9700 RD Groningen. Het verzoek tot registratie bevat in ieder geval de naam- en adresgegevens van de exporteur en indien de exporteur daarover beschikt, het nummer, bedoeld in artikel 1, onderdeel 16 van de toepassingsverordening Communautair douanewetboek (EORI-nummer).      
 ### §  4  
 
 ####Mededeling
 
 Voor sommige bestemmingen of goederen zijn boven deze algemene vergunning prevalerende internationale sanctieregelingen van kracht, in welk geval de verboden, beperkingen of voorschriften van die regelingen, voor zover zij betrekking hebben op de uitvoer van goederen voor tweeërlei gebruik, in acht moeten worden genomen.    
+### §  4a  
+
+####Grondslag
+
+Deze uitvoervergunning berust op [artikel 4b van het Besluit strategische goederen](../../../../../../../AMvB/besluit/strategische/goederen/BWBR0024139/README.md).    
 ### §  5  
 
 ####Inwerkingtreding

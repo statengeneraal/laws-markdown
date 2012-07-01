@@ -60,7 +60,7 @@ n. vrijheidsstraf of vrijheidsbenemende maatregel: een bij onherroepelijk geword
 
 a. bruto-minimumloon: het in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) bedoelde bedrag;  
 
-b. netto-minimumloon: het bruto-minimumloon, na aftrek van premies op grond van de [Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), de inkomensafhankelijke bijdrage, bedoeld in [artikel 41 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), over het bruto-minimumloon en loonbelasting, en vermeerderd met de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). De loonbelasting en premie voor de volksverzekeringen, bedoeld in [artikel 1 van de Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), worden berekend voor een werknemer, jonger dan 65 jaar, rekening houdend met uitsluitend 197,5% van de algemene heffingskorting, bedoeld in [artikel 22 van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), over het bruto-minimumloon vermeerderd met de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), en verminderd met het werknemersaandeel in de premie, bedoeld in [afdeling 2 van hoofdstuk 3 van de Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);  
+b. netto-minimumloon: het bruto-minimumloon, na aftrek van premies op grond van de [Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), de inkomensafhankelijke bijdrage, bedoeld in [artikel 41 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), over het bruto-minimumloon en loonbelasting, en vermeerderd met de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). De loonbelasting en premie voor de volksverzekeringen, bedoeld in [artikel 1 van de Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), worden berekend voor een werknemer, jonger dan 65 jaar, rekening houdend met uitsluitend 195% van de algemene heffingskorting, bedoeld in [artikel 22 van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), over het bruto-minimumloon vermeerderd met de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), en verminderd met het werknemersaandeel in de premie, bedoeld in [afdeling 2 van hoofdstuk 3 van de Wet financiering sociale verzekeringen](../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);  
 
 c. bruto-minimumvakantiebijslag: het bedrag waarop degene die aanspraak heeft op het bruto-minimumloon ingevolge [artikel 15 van de Wet minimumloon en minimumvakantiebijslag](../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) aanspraak heeft;  
 
@@ -253,7 +253,8 @@ c. de nabestaande de 65-jarige leeftijd bereikt.
 
 1.  De bruto-nabestaandenuitkering wordt op een zodanig bedrag vastgesteld, dat nadat van dat bedrag vermeerderd met de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), de over dat bedrag en die vergoeding in te houden loonbelasting en premie voor de volksverzekeringen voor een persoon jonger dan 65 jaar, rekening houdend met uitsluitend de algemene heffingskorting, bedoeld in [artikel 22 van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), en de inkomensafhankelijke bijdrage, bedoeld in [artikel 41 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), is afgetrokken, de netto-nabestaandenuitkering gelijk is aan 70% van het netto-minimumloon.   
 2.  In afwijking van het eerste lid wordt de bruto-nabestaandenuitkering van de nabestaande, zolang hij een gezamenlijke huishouding ten behoeve van de verzorging van een hulpbehoevende voert, op een zodanig bedrag vastgesteld, dat nadat van dat bedrag vermeerderd met de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), de over dat bedrag en die vergoeding in te houden loonbelasting en premie voor de volksverzekeringen voor een persoon jonger dan 65 jaar, rekening houdend met uitsluitend de algemene heffingskorting, bedoeld in [artikel 22 van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), en de inkomensafhankelijke bijdrage, bedoeld in [artikel 41 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), is afgetrokken, de netto-nabestaandenuitkering gelijk is aan 50% van het netto-minimumloon.   
-3.  De bruto-nabestaandenuitkering van de nabestaande bedoeld in artikel 4 is niet hoger dan de door de overleden verzekerde aan de nabestaande verschuldigde uitkering tot levensonderhoud van de nabestaande.   
+3.  De bruto-nabestaandenuitkering bedraagt voor een nabestaande die woont buiten Nederland, een van de andere lidstaten van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland, een bij ministeriële regeling vastgesteld percentage van het op grond van het eerste of tweede lid vastgestelde bedrag. Het percentage wordt zo bepaald dat het een weergave is van de verhouding tussen het kostenniveau van het land waar de nabestaande woonachtig is en dat van Nederland. Het percentage bedraagt maximaal 100.   
+4.  De bruto-nabestaandenuitkering van de nabestaande bedoeld in artikel 4 is niet hoger dan de door de overleden verzekerde aan de nabestaande verschuldigde uitkering tot levensonderhoud van de nabestaande.   
 
 ### Artikel  18  
 
@@ -268,6 +269,7 @@ b. voor zover het inkomen uit arbeid meer bedraagt dan het in onderdeel *a* bedo
 – X staat voor het aantal dagen gelegen in de maand waarin de nabestaande de 65-jarige leeftijd bereikt, voordat de nabestaande deze leeftijd heeft bereikt, en  
 
 – Y staat voor het aantal dagen van de maand waarin de nabestaande de 65-jarige leeftijd heeft bereikt.     
+3.  Voor een nabestaande die woont buiten Nederland, een van de andere lidstaten van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland, wordt, in afwijking van het tweede lid, een bij ministeriële regeling vastgesteld percentage van het op grond van dat lid vastgestelde bedrag buiten aanmerking gelaten. Het percentage wordt zo bepaald dat het een weergave is van de verhouding tussen het kostenniveau van het land waar de nabestaande woonachtig is en dat van Nederland. Het percentage bedraagt maximaal 100.   
 
 ### Artikel  19  
 
@@ -319,7 +321,10 @@ b. **waarin de halfwees de leeftijd van 18 jaar bereikt.
 ### Artikel  25  
 
 1.  De bruto-halfwezenuitkering wordt op een zodanig bedrag vastgesteld, dat nadat van dat bedrag vermeerderd met de vergoeding, bedoeld in [artikel 46 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), de over dat bedrag en die vergoeding in te houden loonbelasting en premie voor de volksverzekeringen voor een persoon jonger dan 65 jaar, rekening houdend met uitsluitend de algemene heffingskorting, bedoeld in [artikel 22 van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), de alleenstaande-ouderkorting, bedoeld in [artikel 8.15 van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en de inkomensafhankelijke bijdrage, bedoeld in [artikel 41 van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), is afgetrokken, de netto-halfwezenuitkering gelijk is aan 20% van het netto-minimumloon.   
-2.  Op de halfwezenuitkering ten behoeve van de halfwees, bedoeld in artikel 1, aanhef en onderdeel e, onder 2°, wordt de financiële bijdrage die de overlevende ouder betaalt of op grond van een rechterlijke uitspraak in verband met zijn onderhoudsplicht als bedoeld in [Boek 1 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) dient te betalen in mindering gebracht. De Sociale verzekeringsbank kan hiertoe zelf een onderzoek instellen. Indien de toepassing van de eerste zin tot een onbillijkheid van overwegende aard leidt kan de Sociale verzekeringsbank hiervan afzien.   
+2.  De bruto-halfwezenuitkering ten behoeve van een halfwees die woont buiten Nederland, een van de andere lidstaten van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland, bedraagt een bij ministeriële regeling vastgesteld percentage van het op grond van het eerste lid vastgestelde bedrag. Het percentage wordt zo bepaald dat het een weergave is van de verhouding tussen het kostenniveau van het land waar de halfwees woonachtig is en dat van Nederland. Het percentage bedraagt maximaal 100.   
+3.  Indien een nabestaande recht heeft op een halfwezenuitkering ten aanzien van het overlijden van een van beide ouders ten behoeve van twee of meer kinderen waarvan er ten minste een woonachtig is in Nederland, een van de andere lidstaten van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland, bedraagt de bruto-halfwezenuitkering het op grond van het eerste lid vastgestelde bedrag.   
+4.  Indien een nabestaande recht heeft op een halfwezenuitkering ten aanzien van het overlijden van een van beide ouders ten behoeve van twee of meer kinderen die woonachtig zijn in verschillende landen, waarvoor op grond van het tweede lid percentages zijn vastgesteld bij ministeriële regeling, bedraagt de bruto-halfwezenuitkering het hoogste van die vastgestelde percentages van het op grond van het eerste lid vastgestelde bedrag.   
+5.  Op de halfwezenuitkering ten behoeve van de halfwees, bedoeld in artikel 1, aanhef en onderdeel e, onder 2°, wordt de financiële bijdrage die de overlevende ouder betaalt of op grond van een rechterlijke uitspraak in verband met zijn onderhoudsplicht als bedoeld in [Boek 1 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) dient te betalen in mindering gebracht. De Sociale verzekeringsbank kan hiertoe zelf een onderzoek instellen. Indien de toepassing van de eerste zin tot een onbillijkheid van overwegende aard leidt kan de Sociale verzekeringsbank hiervan afzien.   
 
 ### §  5  
 
@@ -384,6 +389,7 @@ a. jonger is dan 10 jaar: 32,
 b. 10 jaar of ouder doch jonger dan 16 jaar is: 48, en  
 
 c. 16 jaar of ouder doch jonger dan 21 jaar is: 64.     
+3.  De bruto-wezenuitkering bedraagt voor een kind dat woont buiten Nederland, een van de andere lidstaten van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland, een bij ministeriële regeling vastgesteld percentage van het op grond van het eerste en tweede lid vastgestelde bedrag. Het percentage wordt zo bepaald dat het een weergave is van de verhouding tussen het kostenniveau van het land waar het kind woonachtig is en dat van Nederland. Het percentage bedraagt maximaal 100.   
 
 ### §  6a  
 
@@ -398,7 +404,8 @@ c. 16 jaar of ouder doch jonger dan 21 jaar is: 64.
 5.  Geen recht op een tegemoetkoming als bedoeld in het tweede lid bestaat voor een ongehuwde pensioengerechtigde als bedoeld in [artikel 9, eerste lid, onderdeel a, van de Algemene Ouderdomswet](../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) die recht heeft op een tegemoetkoming als bedoeld in [artikel 3 van de Wet mogelijkheid koopkrachttegemoetkoming oudere belastingplichtigen](../../../../wet/wet/mogelijkheid/koopkrachttegemoetkoming/oudere/belastingplichtigen/BWBR0029984/README.md).   
 6.  Artikel 2, derde lid, is van overeenkomstige toepassing.   
 7.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de hoogte, de indexering en de wijze van betaling van de tegemoetkoming.   
-8.  De tegemoetkoming is niet vatbaar voor beslag.   
+8.  De tegemoetkoming bedraagt indien de nabestaande, de halfwees ten behoeve van wie de tegemoetkoming wordt ontvangen of de wees woont buiten Nederland, een van de andere lidstaten van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland, een bij ministeriële regeling vastgesteld percentage van het op grond van het eerste tot en met zevende lid vastgestelde bedrag. Het percentage wordt zo bepaald dat het een weergave is van de verhouding tussen het kostenniveau van het land waar de nabestaande, de halfwees of wees woonachtig is en dat van Nederland. Het percentage bedraagt maximaal 100.   
+9.  De tegemoetkoming is niet vatbaar voor beslag.   
 
 ### §  7  
 
@@ -421,8 +428,10 @@ Recht op vakantie-uitkering over een maand heeft degene die over die maand recht
 
 ### Artikel  32  
 
-1.  Indien de nabestaandenuitkering met toepassing van artikel 17, tweede of derde lid, 18 of 67 wordt verminderd dan wel anderszins op een lager bedrag wordt vastgesteld dan het bedrag, bedoeld in artikel 17, eerste lid, wordt op de vakantie-uitkering een evenredige vermindering toegepast dan wel de vakantie-uitkering evenredig verlaagd.   
+1.  Indien de nabestaandenuitkering met toepassing van artikel 17, tweede, derde of vierde lid, 18 of 67 wordt verminderd dan wel anderszins op een lager bedrag wordt vastgesteld dan het bedrag, bedoeld in artikel 17, eerste lid, wordt op de vakantie-uitkering een evenredige vermindering toegepast dan wel de vakantie-uitkering evenredig verlaagd.   
 2.  Bij ministeriële regeling kunnen nadere regels worden gesteld voor de berekening van de vakantie-uitkering van degene, wiens uitkering met toepassing van artikel 20 is verminderd en die naast de uitkering ingevolge de wetgeving van een andere mogendheid geen recht heeft op een vakantie-uitkering ingevolge die wetgeving.   
+3.  Indien de halfwezenuitkering met toepassing van artikel 25, tweede of vierde lid, op een lager bedrag wordt vastgesteld dan het bedrag, bedoeld in artikel 25, eerste lid, wordt de vakantie-uitkering evenredig verlaagd.   
+4.  Indien de wezenuitkering met toepassing van artikel 29, derde lid, op een lager bedrag wordt vastgesteld dan het bedrag, bedoeld in artikel 29, eerste en tweede lid, wordt de vakantie-uitkering evenredig verlaagd.   
 
 ### §  9  
 
@@ -536,6 +545,16 @@ c. indien het niet of niet behoorlijk nakomen van een verplichting op grond van 
 ### Artikel  35  
 
 De nabestaande, het ouderloos kind en zijn wettelijke vertegenwoordiger alsmede de instelling aan welke ingevolge artikel 49 of 57 de uitkering wordt uitbetaald, zijn verplicht aan de Sociale verzekeringsbank op haar verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee te delen, waarvan hun redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op uitkering, de hoogte van de uitkering, het geldend maken van het recht op uitkering of op het bedrag van de uitkering, dat wordt uitbetaald. De verplichting geldt niet indien die feiten en omstandigheden door de Sociale verzekeringsbank kunnen worden vastgesteld op grond van bij wettelijk voorschrift als authentiek aangemerkte gegevens of kunnen worden verkregen uit bij ministeriële regeling aan te wijzen administraties. Bij ministeriële regeling wordt bepaald voor welke gegevens de tweede zin van toepassing is.  
+
+### Artikel  35a  
+
+In aanvulling op artikel 35 kan de Sociale verzekeringsbank de nabestaande dan wel zijn wettelijke vertegenwoordiger respectievelijk het ouderloos kind dan wel zijn wettelijke vertegenwoordiger verzoeken aan te tonen dat: 
+
+a. de nabestaande geen gezamenlijke huishouding voert anders dan ten behoeve van de verzorging van een hulpbehoevende;  
+
+b. het kind, bedoeld in artikel 26, tweede lid, onderdeel d, ongehuwd is en dat tot zijn huishouden ten minste een ander kind behoort dat recht heeft op een wezenuitkering;  
+
+c. de feitelijke woonsituatie van de nabestaande of van een ouderloos kind in overeenstemming is met het verstrekte adres van die nabestaande of van dat ouderloos kind.   Teneinde hem daartoe in de gelegenheid te stellen kan de Sociale verzekeringsbank bij die verzoeken aanbieden met de toestemming van de nabestaande, het ouderloos kind dan wel de wettelijke vertegenwoordiger de woning van de nabestaande respectievelijk het ouderloos kind binnen te treden.  
 
 ### Artikel  36  
 
@@ -902,6 +921,7 @@ c. met ingang van 1 januari 1998 op de nabestaandenuitkering het overig inkomen 
 – X staat voor het aantal dagen gelegen in de maand waarin de nabestaande de 65-jarige leeftijd bereikt, voordat de nabestaande deze leeftijd heeft bereikt, en  
 
 – Y staat voor het aantal dagen van de maand waarin de nabestaande de 65-jarige leeftijd heeft bereikt.     
+12.  De nabestaandenuitkering en de halfwezenuitkering bedragen voor de nabestaande een bij ministeriële regeling vastgesteld percentage van het op grond van het eerste tot en met het elfde lid vastgestelde bedrag indien de nabestaande respectievelijk de halfwees woont buiten Nederland, een van de andere lidstaten van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte en Zwitserland. Het percentage wordt zo bepaald dat het een weergave is van de verhouding tussen het kostenniveau van het land waar de nabestaande respectievelijk de hafwees woonachtig is en dat van Nederland. Het percentage bedraagt maximaal 100.   
 
 ### Artikel  68  
 

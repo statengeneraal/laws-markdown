@@ -3,60 +3,68 @@
 ##Verordening van het Productschap Pluimvee en Eieren van 3 november 2011, houdende de vaststelling van een bestemmingsheffing ten behoeve van de pluimveevleessector voor het jaar 2012 (Verordening bestemmingsheffingen pluimveevleessector (PPE) 2012)
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op de [artikelen 95](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [126 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 8 van het Instellingsbesluit Productschap Pluimvee en Eieren](../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md);
+Gelet op de artikelen 95 en 126 van de Wet op de bedrijfsorganisatie en artikel 8 van het Instellingsbesluit Productschap Pluimvee en Eieren;
 
-Gezien de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md);
+Gezien de Verordening algemene bepalingen heffingen (PPE) 2005;
 Besluit:     
 ### 1  
 
 ####Begripsbepalingen
 
-### Artikel  1  
+Materieel uitgewerkt per 01-01-2013   
 
-Deze verordening neemt over de begripsbepalingen van de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md) en verstaat voorts onder:  
+### Artikel  1   
+Materieel uitgewerkt per 01-01-2013   
+
+Deze verordening neemt over de begripsbepalingen van de Verordening algemene bepalingen heffingen (PPE) 2005 en verstaat voorts onder:  
 
 | --- | --- | --- |
-|:---|:---|:---|
-| 1. fonds voor onderzoek en ontwikkeling  | :  | het fonds als bedoeld in [artikel 2 van de Verordening fonds voor onderzoek en ontwikkeling (PPE) 2011](../../../../../../../pbo/verordening/fonds/voor/onderzoek/en/ontwikkeling/(ppe)/2011/BWBR0029872/README.md);  |
+|---|---|---|
+| 1. fonds voor onderzoek en ontwikkeling  | :  | het fonds als bedoeld in artikel 2 van de Verordening fonds voor onderzoek en ontwikkeling (PPE) 2011;  |
 | 2. fonds afzetbevordering  | :  | het fonds als bedoeld in artikel 2 van de Verordening fonds voor afzetbevordering (PPE) 2011;  |
-| 3. fonds voor kwaliteitsverbetering  | :  | het fonds als bedoeld in [artikel 2 van de Verordening fonds voor kwaliteitsverbetering (PPE) 2011](../../../../../../../pbo/verordening/fonds/voor/kwaliteitsverbetering/(ppe)/2011/BWBR0029873/README.md);  |
-| 4. M.g. fonds  | :  | het fonds als bedoeld in [artikel 2 van de Verordening financieringsfonds ten behoeve van het ruimen van met M.g. besmette ouderdieren leg- en vleesrassen kippen (PPE) 2003](../../../../../../../pbo/verordening/financieringsfonds/ten/behoeve/van/het/ruimen/van/met/m.g./etc/BWBR0016064/README.md) of diens rechtsopvolger;  |
-| 5. gezondheidszorgfonds  | :  | het fonds als bedoeld in [artikel 2 van de Verordening fonds gezondheidszorg (PPE) 2011](../../../../../../../pbo/verordening/fonds/gezondheidszorg/(ppe)/2011/BWBR0029871/README.md).  |
+| 3. fonds voor kwaliteitsverbetering  | :  | het fonds als bedoeld in artikel 2 van de Verordening fonds voor kwaliteitsverbetering (PPE) 2011;  |
+| 4. M.g. fonds  | :  | het fonds als bedoeld in artikel 2 van de Verordening financieringsfonds ten behoeve van het ruimen van met M.g. besmette ouderdieren leg- en vleesrassen kippen (PPE) 2003 of diens rechtsopvolger;  |
+| 5. gezondheidszorgfonds  | :  | het fonds als bedoeld in artikel 2 van de Verordening fonds gezondheidszorg (PPE) 2011.  |
 
 ### 2  
 
 ####Broedeieren en eendagskuikens
 
-### Artikel  2  
+Materieel uitgewerkt per 01-01-2013   
+
+### Artikel  2   
+Materieel uitgewerkt per 01-01-2013   
 
 1.  De ondernemer die in het kalenderjaar 2012 broedeieren, bestemd om hieruit fok- en vermeerderingspluimvee of gebruikspluimvee te verkrijgen inlegt of pleegt in te leggen, ongeacht of er al dan niet daadwerkelijk eendagskuikens uit worden verkregen, is aan het productschap een bestemmingsheffing verschuldigd.   
 2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt voor broedeieren voor het verkrijgen van fok- en vermeerderingspluimvee:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | a.  | voor vleesrassen kippen  | € 0,00107 per ingelegd broedei;  |
 | b.  | voor eenden  | € 0,00051 per ingelegd broedei.  |
 
 3.  Het tarief van de in het eerste lid bedoelde heffing bedraagt voor broedeieren voor het verkrijgen van gebruikspluimvee:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | a.  | voor vleesrassen kippen  | € 0,00028 per ingelegd broedei,  |
 | b.  | voor eenden  | € 0,00051 per ingelegd broedei,  |
 | c.  | voor kalkoenen  | € 0,00167 per ingelegd broedei.  |
 
-### Artikel  3  
+### Artikel  3   
+Materieel uitgewerkt per 01-01-2013   
 
 1.  De ondernemer die eendagskuikens plaatst om deze op te fokken tot grootmoederdieren of moederdieren is aan het productschap een bestemmingsheffing verschuldigd over de aantallen door hem met dat doel in het kalenderjaar 2012 geplaatste eendagskuikens.   
 2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | a.  | voor vleesrassen kippen  | € 0,01297 per eendagskuiken in geval van opfok grootmoederdieren,  |
-| b.  | voor vleesrassen kippen  | € 0,0135 per eendagskuiken in geval van opfok moederdieren,  |
+| b.  | voor vleesrassen kippen  | € 0,0285 per eendagskuiken in geval van opfok moederdieren,  |
 | c.  | voor kalkoenen  | € 0,07045 per eendagskuiken in geval van opfok moederdieren.  |
 
-### Artikel  4  
+### Artikel  4   
+Materieel uitgewerkt per 01-01-2013   
 
 1.  De ondernemer die een opfokvermeerderingsbedrijf uitoefent is over het kalenderjaar 2012 aan het productschap een bestemmingsheffing verschuldigd ten behoeve van het M.g. fonds.   
 2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt voor tot geslachtsrijpe moederdieren op te fokken kuikens van vleesrassen kippen op opfokvermeerderingsbedrijven € 0,01765 per eendagskuiken.   
@@ -65,13 +73,16 @@ Deze verordening neemt over de begripsbepalingen van de [Verordening algemene be
 
 ####Grootmoederdieren en moederdieren
 
-### Artikel  5  
+Materieel uitgewerkt per 01-01-2013   
+
+### Artikel  5   
+Materieel uitgewerkt per 01-01-2013   
 
 1.  De ondernemer die grootmoederdieren of moederdieren houdt is aan het productschap een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2012 gehouden grootmoederdieren of moederdieren.   
 2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt:  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | a.  | voor vleesrassen kippen  | € 0,17043 per grootmoederdier,  |
 | b.  | voor vleesrassen kippen  | € 0,0682 per moederdier,  |
 | c.  | voor kalkoenen  | € 0,11532 per moederdier.  |
@@ -90,7 +101,8 @@ b. Indien het moederdieren van kalkoenen betreft:
 
 2. zodra de moederdieren de leeftijd van 29 weken hebben bereikt, in het geval zij in het bedrijf van oorsprong als zodanig in productie worden genomen.       
 
-### Artikel  6  
+### Artikel  6   
+Materieel uitgewerkt per 01-01-2013   
 
 1.  De ondernemer die een vermeerderingsbedrijf uitoefent is over het kalenderjaar 2012 aan het productschap een bestemmingsheffing verschuldigd ten behoeve van het M.g. fonds.   
 2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt voor vleesrassen kippen op de vermeerderingsbedrijven € 0,06087 per moederdier.   
@@ -100,15 +112,20 @@ b. Indien het moederdieren van kalkoenen betreft:
 
 ####Vleespluimvee
 
-### Artikel  7  
+Materieel uitgewerkt per 01-01-2013   
+
+### Artikel  7   
+Materieel uitgewerkt per 01-01-2013   
 
 De ondernemer die vleeskuikens houdt is aan het productschap een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2012 opgezette vleeskuikens tegen een tarief van € 0,0019 per opgezet vleeskuiken.  
 
-### Artikel  8  
+### Artikel  8   
+Materieel uitgewerkt per 01-01-2013   
 
 De ondernemer die eenden houdt is aan het productschap een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2012 opgezette eenden tegen een tarief van € 0,00156 per opgezette eend.  
 
-### Artikel  9  
+### Artikel  9   
+Materieel uitgewerkt per 01-01-2013   
 
 De ondernemer die vleeskalkoenen houdt is aan het productschap een bestemmingsheffing verschuldigd over de door hem in het kalenderjaar 2012 opgezette vleeskalkoenen tegen een tarief van € 0,03775 per opgezette vleeskalkoen.  
 
@@ -116,7 +133,10 @@ De ondernemer die vleeskalkoenen houdt is aan het productschap een bestemmingshe
 
 ####Geslacht pluimvee
 
-### Artikel  10  
+Materieel uitgewerkt per 01-01-2013   
+
+### Artikel  10   
+Materieel uitgewerkt per 01-01-2013   
 
 1.  De ondernemer die pluimvee slacht is aan het productschap over het geslacht gewicht van het door hem in het kalenderjaar 2012 geslachte pluimvee een bestemmingsheffing verschuldigd.   
 2.  Het tarief van de in het eerste lid bedoelde heffing bedraagt: 
@@ -134,15 +154,20 @@ d. voor tamme eenden € 0,0008 per kilogram geslacht gewicht.
 
 ####Overige bepalingen
 
-### Artikel  11  
+Materieel uitgewerkt per 01-01-2013   
+
+### Artikel  11   
+Materieel uitgewerkt per 01-01-2013   
 
 De heffingen, bedoeld in de artikelen 2 tot en met 10, zijn bestemd voor de fondsen overeenkomstig de nadere verdeling zoals opgenomen in de bijlage.  
 
-### Artikel  12  
+### Artikel  12   
+Materieel uitgewerkt per 01-01-2013   
 
-Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de [Verordening algemene bepalingen heffingen (PPE) 2005](../../../../../../../pbo/verordening/algemene/bepalingen/heffingen/(ppe)/2005/BWBR0017350/README.md).  
+Voor de toepassing van deze verordening geldt het bepaalde bij of krachtens de Verordening algemene bepalingen heffingen (PPE) 2005.  
 
-### Artikel  13  
+### Artikel  13   
+Materieel uitgewerkt per 01-01-2013   
 
 Het is de voorzitter niet toegestaan de in deze verordening bedoelde heffingen aan de ondernemer op te leggen, indien hieraan niet een door de Europese Commissie goedgekeurde steunmaatregel ten grondslag ligt.  
 
@@ -150,7 +175,10 @@ Het is de voorzitter niet toegestaan de in deze verordening bedoelde heffingen a
 
 ####Slotbepalingen
 
-### Artikel  14  
+Materieel uitgewerkt per 01-01-2013   
+
+### Artikel  14   
+Materieel uitgewerkt per 01-01-2013   
 
 1.  Deze verordening wordt aangehaald als: Verordening bestemmingsheffingen pluimveevleessector (PPE) 2012.   
 2.  Deze verordening treedt in werking met ingang van 1 januari 2012. Indien het Verordeningenblad Bedrijfsorganisatie waarin deze verordening wordt geplaatst, wordt uitgegeven na 1 januari 2012, treedt zij in werking met ingang van de tweede dag na dagtekening van dat Verordeningenblad Bedrijfsorganisatie en werkt zij terug tot en met 1 januari 2012.   
@@ -163,18 +191,19 @@ voorzitter
 B.M. Dellaert  
 secretaris   
 
-### Bijlage  
+### Bijlage   
+Materieel uitgewerkt per 01-01-2013   
 
 Nadere verdeling van de heffingen naar fondsen, zoals bedoeld in artikel 11 van de Verordening bestemmingsheffingen pluimveevleessector (PPE) 2012  
 
-|  *VLEESSECTOR*   | grondslag heffing  | heffingseenheid  |--- | Verdeling van de bestemmingsheffingen over de fondsen:  |--- |--- |--- | heffing  | Kwal / O&O  | afzetbevordering  | Mg bestrijding  | gezondheidszorg  | Sector / artikel  |--- |--- | €  | €  | €  | €  | €  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *VLEESSECTOR*   | grondslag heffing  | heffingseenheid  | Verdeling van de bestemmingsheffingen over de fondsen:  | heffing  | Kwal / O&O  | afzetbevordering  | Mg bestrijding  | gezondheidszorg  | Sector / artikel  |--- |--- | €  | €  | €  | €  | €  |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *Kippen/Kuikens*   | --- | --- | --- | --- | --- | --- | --- |
 |  2, lid 2, sub a    | inleggen broedeieren, ter verkrijging fok-/vermeerderingsplvee  | per stuk  | 0,00107  | 0,00007  | --- | --- | 0,00100  |
 |  2, lid 3, sub a    | inleggen broedeieren, ter verkrijging gebruikspluimvee  | per stuk  | 0,00028  | 0,00002  | --- | --- | 0,00026  |
 |  3, lid 2, sub a    | plaatsen eendagskuikens opfok grootmoederdieren  | per stuk  | 0,01297  | 0,00297  | --- | --- | 0,01000  |
-|  3, lid 2, sub b    | plaatsen eendagskuikens opfok moederdieren  | per stuk  | 0,01350  | 0,00350  | --- | --- | 0,01000  |
-|  4, lid 2    | plaatsen eendagskuikens opfok tot grootmoederdieren  | per stuk  | 0,01765  | --- | --- | 0,01765  | --- |
+|  3, lid 2, sub b    | plaatsen eendagskuikens opfok tot moederdieren  | per stuk  | 0,02850  | 0,00350  | --- | --- | 0,02500  |
+|  4, lid 2    | plaatsen eendagskuikens opfok tot moederdieren  | per stuk  | 0,01765  | --- | --- | 0,01765  | --- |
 |  5, lid 2, sub a    | houden grootmoederdieren  | per stuk  | 0,17043  | 0,16456  | --- | --- | 0,00587  |
 |  5, lid 2, sub b    | houden moederdieren  | per stuk  | 0,06820  | 0,01620  | --- | --- | 0,05200  |
 |  6, lid 2    | houden moederdieren  | per stuk  | 0,06087  | --- | --- | 0,06087  | --- |
@@ -186,10 +215,10 @@ Nadere verdeling van de heffingen naar fondsen, zoals bedoeld in artikel 11 van 
 |  3, lid 2, sub c    | plaatsen eendagskuikens (groot)moederdieren  | per stuk  | 0,07045  | --- | --- | --- | 0,07045  |
 |  5, lid 2, sub c    | houden moederdieren  | per stuk  | 0,11532  | --- | --- | --- | 0,11532  |
 |  9    | houden vleeskalkoenen  | per stuk  | 0,03775  | --- | --- | --- | 0,03775  |
-|  10, lid 2 sub c    | geslachte kalkoenen  | per kg  | 0,00000  | --- | --- | --- | --- |
+|  10, lid 2 sub c    | geslachte kalkoenen  | per kg  | 0,00000  | 0,00000  | --- | --- | --- |
 |  *Eenden*   | --- | --- | --- | --- | --- | --- | --- |
-|  2, lid 2, sub b    | inleggen broedeieren, ter verkrijging fok-/vermeerderingsplvee  | per stuk  | 0,00051  | 0,0001  | --- | --- | 0,00041  |
-|  2, lid 3, sub b    | inleggen broedeieren, ter verkrijging gebruikspluimvee  | per stuk  | 0,00051  | 0,0001  | --- | --- | 0,00041  |
+|  2, lid 2, sub b    | inleggen broedeieren, ter verkrijging fok-/vermeerderingsplvee  | per stuk  | 0,000510  | 0,0001  | --- | --- | 0,00041  |
+|  2, lid 3, sub b    | inleggen broedeieren, ter verkrijging gebruikspluimvee  | per stuk  | 0,000510  | 0,0001  | --- | --- | 0,00041  |
 |  8    | houden eenden  | per stuk  | 0,00156  | 0,00096  | --- | --- | 0,0006  |
 |  10, lid 2, sub d    | geslachte tamme eenden  | per kg  | 0,0008  | 0,0008  | --- | --- | --- |
 

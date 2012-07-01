@@ -1131,9 +1131,10 @@ In gedingen aangevangen voor het van toepassing worden van artikel 69, derde lid
 
 ### Artikel  101e  
 
-####Overgangsrecht [Tijdelijk besluit brugbanen herbeoordeelden](../../../../../AMvB/tijdelijk/besluit/brugbanen/herbeoordeelden/BWBR0023551/README.md)
+####Overgangsrecht loonkostensubsidie
 
-De loonkostensubsidie die voor de dag van inwerkingtreding van de [Wet stimulering arbeidsparticipatie](../../../../../wet/wet/stimulering/arbeidsparticipatie/BWBR0025045/README.md), op grond van het [Tijdelijk besluit brugbanen herbeoordeelden](../../../../../AMvB/tijdelijk/besluit/brugbanen/herbeoordeelden/BWBR0023551/README.md), is verstrekt aan een werkgever ten behoeve van een persoon die op de dag voor aanvang van die gesubsidieerde dienstbetrekking recht had op een arbeidsongeschiktheidsuitkering wordt aangemerkt als loonkostensubsidie als bedoeld in artikel 67f.  
+1.  Ten aanzien van dienstbetrekkingen die voorafgaand aan 1 januari 2012 zijn ingegaan en waarvoor voorafgaand aan 1 januari 2012 een aanvraag voor subsidie voor loonkosten is ingediend, blijven de artikelen 67f en 67g van deze wet, de daarop berustende bepalingen en [artikel 30e van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) zoals die luidden op 31 december 2011 gelden.   
+2.  Dit artikel vervalt vijf jaar na de dag waarop artikel VI van de Wet van 21 mei 2012 tot wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen in verband met aanpassing van de dienstverlening van het Uitvoeringsinstituut werknemersverzekeringen aan werkgevers en werkzoekenden en de opheffing van de Raad voor Werk en Inkomen als publiekrechtelijke rechtspersoon met een wettelijke taak en van de Werkloosheidswet en enige andere wetten in verband met de beëindiging van de inzet van het re-integratiebudget Werkloosheidswet en van loonkostensubsidies in werking is getreden.   
 
 ### Artikel  101f  
 

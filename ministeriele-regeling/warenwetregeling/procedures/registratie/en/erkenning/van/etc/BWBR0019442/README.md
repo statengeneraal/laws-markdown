@@ -24,17 +24,15 @@ f. verordening (EG) 853/2004: verordening (EG) nr. 853/2004 van het Europees Par
 
 g. verordening (EG) 882/2004: verordening (EG) nr. 882/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 inzake officiële controles op de naleving van de wetgeving inzake diervoeders en levensmiddelen en de voorschriften inzake diergezondheid en dierenwelzijn (PbEU L 165 en 191);  
 
-h. VWA: de Voedsel en Waren Autoriteit;  
+h. NVWA: de Nederlandse Voedsel- en Warenautoriteit;  
 
 i. KvK-nummer: het nummer waaronder een bedrijf geregistreerd is bij de Kamer van Koophandel;  
 
-j. het COKZ: de stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel;  
-
-k. het CPE: de stichting Controlebureau voor Pluimvee, Eieren en Eiproducten.    
+j. het COKZ: de stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel . <sup> 2  Postbus 250, 3830 AG Leusden, of http://www.COKZ.nl.  </sup>    
 
 ### Artikel  2  
 
-1.  De exploitant van een levensmiddelenbedrijf verstrekt aan de VWA ter uitvoering van artikel 6, tweede lid, eerste volzin, van verordening (EG) 852/2004, ten aanzien van elke inrichting die onder zijn beheer enigerlei activiteit uitvoert in de stadia van de productie, verwerking en distributie van levensmiddelen, de volgende informatie: 
+1.  De exploitant van een levensmiddelenbedrijf verstrekt aan de NVWA ter uitvoering van artikel 6, tweede lid, eerste volzin, van verordening (EG) 852/2004, ten aanzien van elke inrichting die onder zijn beheer enigerlei activiteit uitvoert in de stadia van de productie, verwerking en distributie van levensmiddelen, de volgende informatie: 
 
 a. naam, adres en vestigingsplaats;  
 
@@ -45,8 +43,8 @@ c. het KvK-nummer;
 d. de bedrijfslocatie; en  
 
 e. de kernactiviteiten.     
-2.  De in het eerste lid bedoelde informatie wordt door de exploitant verstrekt door het in de bijlage bedoelde registratieformulier al dan niet digitaal in te vullen, te ondertekenen en in te leveren bij de VWA. Dit formulier is verkrijgbaar bij de VWA.   
-3.  De VWA bevestigt aan de desbetreffende exploitant schriftelijk dan wel per e-mail de ontvangst van in dit artikel bedoelde informatie, uiterlijk tien werkdagen nadat de informatie door de VWA is ontvangen.   
+2.  De in het eerste lid bedoelde informatie wordt door de exploitant verstrekt door het in de bijlage bedoelde registratieformulier al dan niet digitaal in te vullen, te ondertekenen en in te leveren bij de NVWA. Dit formulier is verkrijgbaar bij de NVWA.   
+3.  De NVWA bevestigt aan de desbetreffende exploitant schriftelijk dan wel per e-mail de ontvangst van in dit artikel bedoelde informatie, uiterlijk tien werkdagen nadat de informatie door de NVWA is ontvangen.   
 
 ### Artikel  3  
 
@@ -74,21 +72,19 @@ j. voor zover het een gezondheidsinstelling betreft, het Ministerie van Volksgez
 
 k. voor zover het een onderwijsinstelling betreft, het Ministerie van Onderwijs, Cultuur en Wetenschap; of  
 
-l. voor zover het een agrarische onderneming betreft, het Ministerie van Landbouw, Natuur en Voedselkwaliteit.     
-2.  De VWA deelt een in het eerste lid bedoelde exploitant schriftelijk of per e-mail mede ten aanzien van welke inrichting of inrichtingen de in artikel 2 bedoelde informatie reeds in het bezit is van de VWA.   
+l. voor zover het een agrarische onderneming betreft, het Ministerie van Economische Zaken, Landbouw en Innovatie.     
+2.  De NVWA deelt een in het eerste lid bedoelde exploitant schriftelijk of per e-mail mede ten aanzien van welke inrichting of inrichtingen de in artikel 2 bedoelde informatie reeds in het bezit is van de NVWA.   
 
 ### Artikel  4  
 
 1.  De exploitant van een levensmiddelenbedrijf die wil bewerkstelligen dat een door hem beheerde inrichting erkend wordt op de voet van artikel 6, derde lid, van verordening (EG) 852/2004, dient een daartoe strekkend verzoek in bij: 
 
-a. het COKZ, voor zover in de desbetreffende inrichting handelingen worden verricht waarvoor bijlage III, sectie IX, van verordening (EG) 853/2004 voorschriften bevat;  
+a. het COKZ, voor zover in de desbetreffende inrichting handelingen worden verricht waarvoor bijlage III, sectie IX of X, van verordening (EG) 853/2004 voorschriften bevat;  
 
-b. het CPE, voor zover in de desbetreffende inrichting handelingen worden verricht waarvoor bijlage III, sectie X, van verordening (EG) 853/2004 voorschriften bevat;  
+b. de NVWA, voor zover in de desbetreffende inrichting handelingen worden verricht waarvoor bijlage III, sectie V, VI, VII, VIII, XI, XII, XIII, XIV of XV, van verordening (EG) 853/2004, voorschriften bevat; of  
 
-c. de VWA, voor zover in de desbetreffende inrichting handelingen worden verricht waarvoor bijlage III, sectie V, VI, VII, VIII, XI, XII, XIII, XIV of XV, van verordening (EG) 853/2004, voorschriften bevat; of  
-
-d. het COKZ, onderscheidenlijk het CPE of de VWA, voor zover in de desbetreffende inrichting handelingen wordt verricht waarop zowel de onderdelen a en b, b en c, of a en c van toepassing zijn.     
-2.  Uiterlijk tien werkdagen na ontvangst van een in het eerste lid bedoeld verzoek, neemt het COKZ onderscheidenlijk het CPE of de VWA contact op met de desbetreffende exploitant voor het maken van een afspraak voor een bezoek ter plaatse, bedoeld in artikel 31, tweede lid, onder b, van verordening (EG) 882/2004.   
+c. het COKZ, onderscheidenlijk het CPE of de NVWA, voor zover in de desbetreffende inrichting handelingen wordt verricht waarop de onderdelen a en b van toepassing zijn.     
+2.  Uiterlijk tien werkdagen na ontvangst van een in het eerste lid bedoeld verzoek, neemt het COKZ onderscheidenlijk de NVWA contact op met de desbetreffende exploitant voor het maken van een afspraak voor een bezoek ter plaatse, bedoeld in artikel 31, tweede lid, onder b, van verordening (EG) 882/2004.   
 
 ### Artikel  5  
 

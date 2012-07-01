@@ -26,7 +26,7 @@ b. een bedrag per kilometer dat in rekening wordt gebracht voor de derde en volg
 a. € 8,32 voor het vaste bedrag;  
 
 b. € 2,43 voor het bedrag per kilometer.     
-2.  Indien het vervoer plaatsvindt in een auto, ingericht voor het vervoer van vijf tot en met acht personen, de bestuurder daaronder niet begrepen, of, ingericht voor het vervoer van een of meerdere personen, zittend in een rolstoel, bedraagt het tarief, bedoeld in artikel 1, eerste lid, ten hoogste: 
+2.  Indien het vervoer plaatsvindt in een auto, ingericht voor het vervoer van vijf tot en met acht personen en waarin ook feitelijk tenminste vijf personen aanwezig zijn, de bestuurder daaronder niet begrepen, of, ingericht voor het vervoer van een of meerdere personen, zittend in een rolstoel, bedraagt het tarief, bedoeld in artikel 1, eerste lid, ten hoogste: 
 
 a. € 13,52 voor het vaste bedrag;  
 

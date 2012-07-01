@@ -14,13 +14,13 @@ Voor de toepassing van deze wet worden verstaan onder:
 
 *benadeelden:* zij die schade hebben geleden welke grond oplevert voor toepassing van deze wet, alsmede hun rechtverkrijgenden;  
 
-*vergunning:* de vergunning die ingevolge [artikel 9, eerste lid, van de Wet toezicht verzekeringsbedrijf BES](../../../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md) is vereist voor de schadegroep Motorrijtuigverzekering;  
+*vergunning:* vergunning die ingevolge de Wet financiële markten BES is vereist voor de branche motorrijtuigverzekering;  
 
-*verzekeraar:* de verzekeringsonderneming die ingevolge de [Wet toezicht verzekeringsbedrijf BES](../../../../../../wet-BES/wet/toezicht/verzekeringsbedrijf/bes/BWBR0028495/README.md) het verzekeringsbedrijf in de schadegroep Motorrijtuigverzekering mag uitoefenen;  
+*verzekeraar:* onderneming die ingevolge de Wet financiële markten BES het bedrijf van schadeverzekeraar in de branche motorrijtuigverzekering mag uitoefenen;  
 
 *weg:* voor het openbaar verkeer openstaand pad, verharde of onverharde rijbaan met inbegrip van de middenberm of middengeleiding, de parkeerstroken en parkeerhavens en vluchtstroken alsmede de in de weg gelegen bruggen en de naast de rijbaan gelegen paden, bermen en zijkanten;  
 
-*Waarborgfonds Motorverkeer en fonds:* de krachtens [artikel 23, eerste lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) aangewezen rechtspersoon.    
+*Waarborgfonds Motorverkeer en fonds:* de krachtens artikel 23, eerste lid, van de Wet aansprakelijkheidsverzekering motorrijtuigen aangewezen rechtspersoon.    
 
 ### Artikel  2  
 
@@ -99,12 +99,14 @@ De som of sommen, waarvoor de in deze wet bedoelde verzekering ten minste moet z
 
 ####Waarborgfonds Motorverkeer
 
-### Artikel  15  
+### Artikel  15   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Het Waarborgfonds Motorverkeer heeft mede tot taak om in de gevallen, in artikel 17 genoemd, aan de benadeelden hun schade te vergoeden overeenkomstig het bepaalde in artikel 18.   
 2.  De Staat waarborgt de verplichtingen van het fonds, voor zover zij voortvloeien uit deze wet.   
 
-### Artikel  16  
+### Artikel  16   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  De verzekeraars betalen jaarlijks aan het fonds een door het fonds te bepalen bedrag, berekend op basis van het aantal en de aard van de door ieder van hen in de openbare lichamen Bonaire, Sint Eustatius en Saba verzekerde motorrijtuigen. De bepaling, bedoeld in de eerste volzin, geschiedt uiterlijk op 30 juni van ieder jaar. De storting moet geschieden binnen een maand na het besluit tot bepaling van het verschuldigde bedrag.   
 2.  Bij de bepaling van dit bedrag worden in aanmerking genomen de over het verleden door het fonds verkregen overschotten of geleden tekorten. Tevens wordt rekening gehouden met de in het komende jaar te verwachten schadelast.   
@@ -113,7 +115,8 @@ De som of sommen, waarvoor de in deze wet bedoelde verzekering ten minste moet z
 
 [vervallen]  
 
-### Artikel  17  
+### Artikel  17   
+Treedt in werking op een nader te bepalen tijdstip   
 
 Een benadeelde kan, wanneer er een wettelijke aansprakelijkheid voor de door een motorrijtuig veroorzaakte schade bestaat, een recht op schadevergoeding tegen het fonds geldend maken: 
 
@@ -123,7 +126,8 @@ b. wanneer de verplichting tot verzekering niet is nagekomen;
 
 c. in geval van onvermogen van de verzekeraar.    
 
-### Artikel  18  
+### Artikel  18   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Het fonds is niet aansprakelijk voor schade, voor zover deze de som of sommen, vastgesteld krachtens artikel 14 overtreft.   
 2.  Het fonds is niet aansprakelijk tegenover benadeelden die ingevolge artikel 4 eerste lid van het recht op een uitkering kunnen worden uitgesloten.   
@@ -133,7 +137,8 @@ c. in geval van onvermogen van de verzekeraar.
 6.  De derde zin van het eerste lid en het tweede lid van artikel 6, alsmede artikel 8 zijn van overeenkomstige toepassing ten opzichte van het fonds.   
 7.  Artikel 9 is van overeenkomstige toepassing op de rechtsvordering van de benadeelde tegenover het fonds.   
 
-### Artikel  19  
+### Artikel  19   
+Treedt in werking op een nader te bepalen tijdstip   
 
 1.  Het fonds heeft een recht van verhaal tegen alle aansprakelijke personen, alsmede tegen degene die zijn verplichting tot verzekering met betrekking tot het motorrijtuig, waarmede de schade is veroorzaakt, niet is nagekomen. Het bepaalde in de vorige zin geldt in het geval van artikel 17 onder c, slechts voor zover aan de verzekeraar een recht van verhaal zou zijn toegekomen. Het fonds heeft voorts tegenover de verzekeraars van de aansprakelijke personen de rechten van een benadeelde.   
 2.  Het fonds heeft overigens tegenover de aansprakelijke personen dezelfde rechten als een verzekeraar tegenover de verzekerden.   
@@ -157,7 +162,7 @@ c. in geval van onvermogen van de verzekeraar.
 
 ### Artikel  21a  
 
-1.  Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de in [artikel 184 van het Wetboek van Strafvordering BES](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) bedoelde ambtenaren.   
+1.  Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de in artikel 184 van het Wetboek van Strafvordering BES bedoelde ambtenaren.   
 2.  Op de eerste vordering van een ambtenaar als bedoeld in het eerste lid, is de bestuurder van een motorrijtuig verplicht dit te doen stil houden en het document, bedoeld in artikel 11, behoorlijk ter inzage af te geven.   
 
 ####Verbods- en strafbepalingen
@@ -171,7 +176,7 @@ c. in geval van onvermogen van de verzekeraar.
 
 ### Artikel  23  
 
-Handelen in strijd met artikel 12, eerste lid, wordt gestraft met hechtenis van ten hoogste dertig dagen of geldboete van ten hoogste USD 84,–.  
+Handelen in strijd met artikel 11, eerste lid, of artikel 12, eerste lid, wordt gestraft met hechtenis van ten hoogste dertig dagen of geldboete van ten hoogste USD 84,–.  
 
 ### Artikel  24  
 

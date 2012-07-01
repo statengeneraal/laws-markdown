@@ -382,9 +382,7 @@ De in artikel 42 bedoelde ambtenaren zijn bevoegd een motorrijtuig te onderwerpe
 
 ### Artikel  45  
 
-1.  [Hoofdstuk VI, afdelingen 3](../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) en [4, van de Wet geluidhinder](../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) is tot een half jaar nadat het verslag, bedoeld in artikel 40, eerste lid, aan de beide kamers der Staten-Generaal is toegezonden, niet van toepassing op de plaatsing van betaalpoorten voor een expresbaantarief.   
-2.  Indien uit een verslag als bedoeld in artikel 40, eerste lid, blijkt dat de aanwijzing van een betaalpoort een reconstructie van een weg als bedoeld in [artikel 1 van de Wet geluidhinder](../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), inhoudt, neemt de beheerder van een weg binnen één jaar na het in [artikel 40, eerste lid](../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), bedoelde tijdstip, een besluit, houdende te treffen maatregelen, gericht op het terugbrengen van de geluidsbelasting, vanwege de weg, van de gevel van woningen of andere geluidsgevoelige gebouwen of aan de grens van geluidsgevoelige terreinen binnen de zone van de weg, tot de voor de aanwijzing van de betaalpoort heersende waarde of tot de eerder ingevolge de [Wet geluidhinder](../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) vastgestelde waarde, indien deze waarde lager is dan die heersende waarde.   
-3.  De kosten van de op grond van het tweede lid te treffen maatregelen komen ten laste van de beheerder van de weg.   
+[Artikel 11.20 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is tot een jaar nadat het verslag, bedoeld in artikel 40, eerste lid, aan de beide kamers der Staten-Generaal is toegezonden, niet van toepassing op een weg waar betaalpoorten voor een expresbaantarief zijn geplaatst.  
 
 ### Artikel  46  
 

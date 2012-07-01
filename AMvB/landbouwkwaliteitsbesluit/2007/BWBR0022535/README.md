@@ -77,11 +77,9 @@ bb. Stichting KCB: Stichting Kwaliteits-Controle-Bureau te ’s-Gravenhage;
 
 cc. Stichting Skal: Stichting Skal te Zwolle;  
 
-dd. Stichting CPE: Stichting Controlebureau voor Pluimvee, Eieren en Eiproducten te Barneveld;  
+dd. Stichting COKZ: Stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel te Leusden;  
 
-ee. Stichting COKZ: Stichting Controleorgaan voor Kwaliteitsaangelegenheden in de Zuivel te Leusden;  
-
-ff. Stichting BKD: Stichting Bloembollenkeuringsdienst te Lisse.     
+ee. Stichting BKD: Stichting Bloembollenkeuringsdienst te Lisse.     
 2.  Dit besluit is niet van toepassing op goederen die zijn aangebracht en aangegeven of op regelmatige wijze zijn aangebracht onder geleide van een document voor communautair douanevervoer en die nog niet zijn vrijgegeven voor een van de douaneregelingen als bedoeld in artikel 4, onder 16, van Verordening (EEG) nr. 2913/92 van de Raad van de Europese Gemeenschappen van 12 oktober 1992 tot vaststelling van het communautair douanewetboek (PbEG L 302).   
 
 ### Artikel  2  
@@ -90,7 +88,7 @@ Bij het in de handel brengen of etiketteren van of reclame maken voor producten 
 
 ### Artikel  3  
 
-Eieren worden slechts in de handel gebracht indien voldaan is aan artikel 116 en Bijlage XIVa A, punten II, III en IV van verordening (EG) 1234/2007 en de artikelen 2, 4, 5 tot en met 23 en 29 van verordening (EG) 589/2008.  
+Eieren worden slechts in de handel gebracht indien voldaan is aan artikel 116 en Bijlage XIV A, punten II, III en IV van verordening (EG) 1234/2007 en de artikelen 2, 4, 5 tot en met 23 en 29 van verordening (EG) 589/2008.  
 
 ### Artikel  4  
 
@@ -100,7 +98,7 @@ Eieren worden slechts in de handel gebracht indien voldaan is aan artikel 116 en
 
 ### Artikel  5  
 
-Vlees van pluimvee wordt slechts in de handel gebracht indien voldaan is aan artikel 116 en Bijlage XIVa B, punt III van verordening (EG) 1234/2007 en de artikelen 3 tot en met 20 van verordening (EG) 543/2008 en de bij of krachtens dit besluit gestelde regels.  
+Vlees van pluimvee wordt slechts in de handel gebracht indien voldaan is aan artikel 116 en Bijlage XIV B, punten II, III en IV van verordening (EG) 1234/2007 en de artikelen 3 tot en met 20 van verordening (EG) 543/2008 en de bij of krachtens dit besluit gestelde regels.  
 
 ### Artikel  6  
 
@@ -125,7 +123,7 @@ Teeltmateriaal van bloembollen wordt slechts in de handel gebracht indien voldaa
 
 ### Artikel  10  
 
-1.  Onze Minister kan nadere regels stellen voor zover dat voor een goede uitvoering van de onderwerpen van de in de artikelen 2 tot en met 7 genoemde Europese verordeningen en voor de in artikelen 8 en 9 genoemde Europese richtlijnen noodzakelijk is.   
+1.  Onze Minister kan nadere regels stellen voor zover dat voor een goede uitvoering van de onderwerpen van de in de artikelen 2 tot en met 7a genoemde Europese verordeningen en voor de in artikelen 8 en 9 genoemde Europese richtlijnen noodzakelijk is.   
 2.  De regels bedoeld in het eerste lid kunnen betrekking hebben op: 
 
 a. de in [artikel 2, eerste en tweede lid, van de Landbouwkwaliteitswet](../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md) bedoelde onderwerpen;  
@@ -136,7 +134,7 @@ c. de wijze van keuring van producten;
 
 d. het uitreiken, aanbrengen, vervaardigen, voorhanden en in voorraad hebben, alsmede het afleveren en gebruiken van bewijsstukken en merken;  
 
-e. de nadere aanduiding van het begrip bloembollen, bedoeld in artikel 1, onder t.     
+e. de nadere aanduiding van het begrip bloembollen, bedoeld in artikel 1, onder r.     
 3.  Onze Minister kan vrijstelling en, op aanvraag, ontheffing verlenen van het bepaalde bij of krachtens dit besluit voor zover het belang van een goede uitvoering van de in het eerste lid bedoelde Europese verordeningen en richtlijnen zich daartegen niet verzet.   
 4.  De wijze van keuring van producten, bedoeld in het tweede lid, onder c, heeft onder meer betrekking op de voorwaarden waaronder betrokkenen door de controle-instellingen of door een controlerende instantie erkend kunnen worden voor het verrichten van de bij ministeriële regeling aan te duiden keuringsactiviteiten.   
 
@@ -162,7 +160,7 @@ b. overige uitvoeringshandelingen die noodzakelijk zijn voor een goede uitvoerin
 
 ### Artikel  13  
 
-De Stichting CPE is de instantie, bedoeld in artikel 15, tweede lid, van verordening (EG) 543/2008 en artikel 24, eerste lid, van verordening (EG) 589/2008 en belast met: 
+De Stichting COKZ is de instantie, bedoeld in artikel 15, tweede lid, van verordening (EG) 543/2008 en artikel 24, eerste lid, van verordening (EG) 589/2008 en belast met: 
 
 a. het toezicht op de naleving van bij of krachtens dit besluit gestelde regels ten aanzien van eieren en ten aanzien van vlees van pluimvee;  
 
@@ -178,13 +176,7 @@ De Stichting KCB is de controle-instantie, bedoeld in artikel 8, eerste lid, ond
 
 a. het toezicht op de naleving van bij of krachtens dit besluit gestelde regels ten aanzien van groenten en fruit, bananen en krenten en rozijnen;  
 
-b. het uitreiken van bewijsstukken, bedoeld in: 
-
-1° artikel 11, derde lid, van verordening (EG) 1580/2007 voor elke voor de uitvoer bestemde partij of zending groenten indien voldaan is aan de voorwaarden genoemd in dat artikel;  
-
-2° artikel 12, tweede lid, van verordening (EG) 1580/2007 voor elke ingevoerde partij of zending indien is voldaan aan artikel 113 bis en de voorwaarden gesteld krachtens artikel 113, eerste lid, onderdeel b, van verordening (EG) 1234/2007;  
-
-3° artikel 19, tweede lid, van verordening (EG) 1580/2007 voor de industriële bestemming van producten indien voldaan is aan de voorwaarden genoemd in dat artikel;    
+b. het uitreiken van bewijsstukken, bedoeld in artikel 12 bis, eerste lid, van verordening (EG) 1580/2007, indien is voldaan aan artikel 113 bis, en de handelsnormen, gesteld krachtens artikel 113, eerste lid, onderdeel b, van verordening (EG) 1234/2007;  
 
 c. de uitvoering van de registratie, bedoeld in artikel 7, tweede lid, van verordening (EG) 2898/95;  
 
@@ -202,23 +194,28 @@ c. overige uitvoeringshandelingen die noodzakelijk zijn voor een goede uitvoerin
 
 ### Artikel  16  
 
-De Stichting COKZ, de Stichting CPE en de Stichting KCB zijn voor zover het producten betreft die reeds op grond van respectievelijk artikel 12, 13 of 14 onder de bevoegdheid van deze instellingen vallen, dan wel voor zover het producten betreft die bij ministeriële regeling zijn aangewezen, de instanties, bedoeld in artikel 10, eerste lid, van verordening (EG) 510/2006 of artikel 14, eerste lid, van verordening (EG) 509/2006 en belast met: 
+1.  De instantie, bedoeld in artikel 14, eerste lid, van verordening (EG) 509/2006 en artikel 10, eerste lid, van verordening (EG) 510/2006, is: 
 
-a. het toezicht op de naleving van bij of krachtens dit besluit gestelde regels ten aanzien van geografische aanduidingen, oorsprongsbenamingen en traditionele specialiteiten ;  
+a. de Stichting COKZ, voor zover het producten betreft die reeds op grond van artikel 12 of artikel 13 onder haar bevoegdheid vallen, dan wel die bij ministeriële regeling zijn aangewezen;  
 
-b. de keuring van producten die een beschermde geografische aanduiding of oorsprongsbenaming dan wel een gegarandeerde traditionele specialiteit hebben ten einde te waarborgen dat deze producten aan de eisen van de desbetreffende productdossiers voldoen als bedoeld in artikel 15 van verordening (EG) 509/2006 dan wel artikel 11 van verordening (EG) 510/2006.    
+b. de Stichting KCB, voor zover het producten betreft die reeds op grond van artikel 14 onder haar bevoegdheid vallen, dan wel die bij ministeriële regeling zijn aangewezen, of  
+
+c. Onze Minister, voor zover het producten betreft die naar hun aard of ingevolge de voorschriften van de Raad, van het Europees Parlement en de Raad gezamenlijk of van de Europese Commissie niet onder de bevoegdheid van de controle-instellingen, bedoeld in het eerste lid, onderdelen a tot en met c, vallen.     
+2.  De instantie, bedoeld in het eerste lid, is belast met: 
+
+a. het toezicht op de naleving van bij of krachtens dit besluit gestelde regels ten aanzien van producten met een beschermde geografische aanduiding of oorsprongsbenaming dan wel gegarandeerde traditionele specialiteiten;  
+
+b. de keuring van producten met een beschermde geografische aanduiding of oorsprongsbenaming, bedoeld in artikel 11 van verordening (EG) 510/2006 dan wel gegarandeerde traditionele specialiteiten, bedoeld in artikel 15 van verordening (EG) 509/2006 ten einde te waarborgen dat deze producten aan de eisen van de desbetreffende productdossiers voldoen.     
 
 ### Artikel  17  
 
 Onze Minister is belast met: 
 
-a. de keuring van de producten waarop verordening (EG) 509/2006 en verordening (EG) 510/2006 betrekking hebben en die naar hun aard of ingevolge de voorschriften van de Raad van de Europese Unie, van het Europees Parlement en de Raad van de Europese Unie gezamenlijk of van de Commissie van de Europese Gemeenschappen niet onder de bevoegdheid van de controle-instellingen vallen als bedoeld in artikel 16;  
+a. de erkenning van de productspecificaties en de onafhankelijke dienst, bedoeld in artikel 16 van verordening (EG) 1760/2000;  
 
-b. de erkenning van de productspecificaties, bedoeld in artikel 16 van verordening (EG) 1760/2000;  
+b. de controles, bedoeld in Bijlage XI bis, punt VII, van verordening (EG) 1234/2007;  
 
-c. de controles, bedoeld in Bijlage XI bis, punt VII, van verordening (EG) 1234/2007;  
-
-d. controles, bedoeld in artikel 27, eerste lid, van verordening (EG) 834/2007.    
+c. controles, bedoeld in artikel 27, eerste lid, van verordening (EG) 834/2007.    
 
 ### Artikel  18  
 
@@ -233,6 +230,16 @@ c. het bestuur van het Productschap voor Vee en Vlees;
 d. het bestuur van het Productschap Tuinbouw; en  
 
 e. het bestuur van het Productschap Zuivel.    
+
+### Artikel  18a  
+
+Het recht zoals dat gold voor 1 juli 2012 blijft van toepassing op: 
+
+a. bezwaar- en beroepsprocedures naar aanleiding van besluiten genomen voor 1 juli 2012 op grond van artikel 13 zoals dat artikel luidde voor die datum of genomen op grond van onderdeel b of c van dit artikel;  
+
+b. de oplegging en inning van tarieven naar aanleiding van handelingen verricht voor 1 juli 2012 op grond van artikel 13 zoals dat artikel luidde voor die datum, en  
+
+c. de toepassing van tuchtrecht naar aanleiding van toezicht uitgevoerd voor 1 juli 2012 op grond van artikel 13 zoals dat artikel luidde voor die datum.    
 
 ### Artikel  19  
 

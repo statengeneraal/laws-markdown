@@ -3,46 +3,49 @@
 ##Besluit van het bestuur van het Productschap Pluimvee en Eieren van 15 september 2011 tot uitwerking van de voorschriften inzake de bestrijding van Salmonella in leghennenbedrijven (Hygiënebesluit leghennenbedrijven (PPE) 2011)
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op de [artikelen 2](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md), [9](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md), [10](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md), [11](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md), en [16](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md), [17](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md), [18](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) en [19 van de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md);
+Gelet op de artikelen 2, 9, 10, 11, en 16, 17, 18 en 19 van de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011;
 Besluit:     
 
 ####Begripsbepalingen
 
 ### Artikel  1  
 
-Dit besluit neemt de terminologie, als omschreven in [artikel 1 van de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) (hierna: de Verordening), over en verstaat daarnaast onder ondernemer: een natuurlijk persoon of rechtspersoon die een leghennenbedrijf uitoefent en onder Salmonella Typhimurium mede: monofasische Salmonella Typhimurium met de antigene formule 1,4,[5],12:i:-.  
+Dit besluit neemt de terminologie, als omschreven in artikel 1 van de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011 (hierna: de Verordening), over en verstaat daarnaast onder ondernemer: een natuurlijk persoon of rechtspersoon die een leghennenbedrijf uitoefent en onder Salmonella Typhimurium mede: monofasische Salmonella Typhimurium met de antigene formule 1,4,[5],12:i:-.  
 
 ####Maatregelen kooihuisvesting
 
 ### Artikel  2  
 
-De in [artikel 2, eerste lid, onderdeel q., van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) bedoelde eisen waaraan de ondernemer die zijn leghennen in kooien houdt, moet voldoen, zijn opgenomen in Bijlage I.  
+De in artikel 2, eerste lid, onderdeel q., van de Verordening bedoelde eisen waaraan de ondernemer die zijn leghennen in kooien houdt, moet voldoen, zijn opgenomen in Bijlage I.  
 
 ####Hygiënogram
 
 ### Artikel  3  
 
-1.  Het hygiënogram als bedoeld in [artikel 1](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) en [artikel 9 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) wordt uitgevoerd door een HOSOWO-instantie overeenkomstig het Besluit erkenningsvoorwaarden en werkwijzen HOSOWO-instanties (PPE) 2011.   
+1.  Het hygiënogram als bedoeld in artikel 1 en artikel 9 van de Verordening wordt uitgevoerd door een HOSOWO-instantie overeenkomstig het Besluit erkenningsvoorwaarden en werkwijzen HOSOWO-instanties (PPE) 2011.   
 2.  Indien de uitslag van het hygiënogram kleiner dan of gelijk aan 2,0 is, dan hoeft de ondernemer geen vervolgmaatregelen in de stal te nemen.   
-3.  Indien de uitslag van het hygiënogram groter dan 2,0 maar kleiner dan of gelijk aan 3,0 is, dan dient de ondernemer de stal opnieuw te reinigen en te laten ontsmetten door een ontsmettingsbedrijf. Na deze reiniging en ontsmetting mag de ondernemer een stalkoppel leghennen in de stal plaatsen. Tijdens de eerstvolgende leegstandsperiode laat hij aansluitend aan het reinigen en ontsmetten opnieuw een hygiënogram in de stal uitvoeren. De ondernemer mag slechts een stalkoppel leghennen in de stal plaatsen indien de uitslag van dit hygiënogram kleiner dan of gelijk is aan 2,0. Indien de uitslag van het hygiënogram groter dan 2,0 is, dan worden de reiniging en ontsmetting en de uitvoering van een hygiënogram net zo lang herhaald totdat de uitslag van het hygiënogram kleiner dan of gelijk aan 2,0 is.   
-4.  Indien de uitslag van het hygiënogram groter dan 3,0 is, dan reinigt en ontsmet de ondernemer de stal opnieuw en laat hij aansluitend opnieuw een hygiënogram in de stal uitvoeren. De ondernemer mag slechts een stalkoppel in de stal plaatsen indien de uitslag van dit hygiënogram kleiner dan of gelijk aan 2,0 is. Indien de uitslag van het hygiënogram groter dan 2,0 is, dan worden de reiniging en ontsmetting en de uitvoering van een hygiënogram net zo lang herhaald totdat de uitslag van het hygiënogram kleiner dan of gelijk aan 2,0 is.   
+3.  Indien de uitslag van het hygiënogram groter dan 2,0 maar kleiner dan 3,0 is, dan dient de ondernemer de stal opnieuw te reinigen en te laten ontsmetten door een ontsmettingsbedrijf. Na deze reiniging en ontsmetting mag de ondernemer een stalkoppel leghennen in de stal plaatsen. Tijdens de eerstvolgende leegstandsperiode laat hij aansluitend aan het reinigen en ontsmetten opnieuw een hygiënogram in de stal uitvoeren. De ondernemer mag slechts een stalkoppel leghennen in de stal plaatsen indien de uitslag van dit hygiënogram kleiner dan of gelijk is aan 2,0. Indien de uitslag van het hygiënogram groter dan 2,0 is, dan worden de reiniging en ontsmetting en de uitvoering van een hygiënogram net zo lang herhaald totdat de uitslag van het hygiënogram kleiner dan of gelijk aan 2,0 is.   
+4.  Indien de uitslag van het hygiënogram gelijk aan 3,0 is, dan reinigt en ontsmet de ondernemer de stal opnieuw en laat hij aansluitend opnieuw een hygiënogram in de stal uitvoeren. De ondernemer mag slechts een stalkoppel in de stal plaatsen indien de uitslag van dit hygiënogram kleiner dan of gelijk aan 2,0 is. Indien de uitslag van het hygiënogram groter dan 2,0 is, dan worden de reiniging en ontsmetting en de uitvoering van een hygiënogram net zo lang herhaald totdat de uitslag van het hygiënogram kleiner dan of gelijk aan 2,0 is.   
 
-####Monsterneming in het kader van [artikel 10 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) (reguliere monsterneming)
+####Monsterneming in het kader van artikel 10 van de Verordening (reguliere monsterneming)
 
 ### Artikel  4  
 
-1.  De ondernemer neemt de monsters als bedoeld in [artikel 10, eerste lid, van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) voor de eerste keer als de leghennen een leeftijd van minimaal 22 weken en maximaal 26 weken hebben en neemt deze monsters vervolgens ten minste één maal per 15 weken, overeenkomstig Bijlage II.   
-2.  Indien de voorzitter heeft vastgesteld dat een stalkoppel leghennen is besmet met Salmonella Enteritidis of Salmonella Typhimurium, dan kan de voorzitter op schriftelijk verzoek van de ondernemer voor dat stalkoppel ontheffing verlenen van het nemen van monsters als bedoeld in [artikel 10, eerste lid, van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md).   
+1.  De monsters als bedoeld in artikel 10, eerste lid, van de Verordening worden genomen met overschoentjes overeenkomstig Bijlage II: 
 
-####Detectie en serotypering in het kader van [artikel 10 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md)
+a) door de ondernemer voor de eerste keer als de leghennen een leeftijd van minimaal 22 weken en maximaal 26 weken hebben en vervolgens ten minste één maal per 15 weken.  
+
+b) in opdracht van de ondernemer door een voor geborgde monsterneming mest erkende HOSOWO-instantie of een pluimveedierenarts, binnen 21 dagen voor de datum waarop het stalkoppel leghennen aan de slachterij wordt geleverd.     
+
+####Detectie en serotypering in het kader van artikel 10 van de Verordening
 
 ### Artikel  5  
 
-1.  De ondernemer zorgt ervoor dat de monsters als bedoeld in [artikel 10, eerste lid, van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) binnen 24 uur na de monsterneming zijn verzonden naar een voor detectie van Salmonella erkend laboratorium.   
+1.  De ondernemer zorgt ervoor dat de monsters als bedoeld in artikel 10, eerste lid, van de Verordening binnen 24 uur na de monsterneming zijn verzonden naar een voor detectie van Salmonella erkend laboratorium.   
 2.  Indien het voor detectie van Salmonella erkende laboratorium Salmonella in een monster heeft gedetecteerd, dan zorgt de ondernemer ervoor dat dit monster onverwijld na de detectie wordt geserotypeerd door een voor serotypering erkend laboratorium.   
 3.  Indien uit de uitslag van de serotypering blijkt dat in een monster van een stalkoppel leghennen Salmonella Enteritidis of Salmonella Typhimurium is aangetoond, dan mag de ondernemer de consumptie-eieren van dit stalkoppel niet van het bedrijf afvoeren anders dan voor vernietiging of verwerking, totdat de voorzitter hiervoor toestemming geeft.   
 
-####Melding uitslagen detectie en serotypering in het kader van [artikel 10 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md)
+####Melding uitslagen detectie en serotypering in het kader van artikel 10 van de Verordening
 
 ### Artikel  6  
 
@@ -62,7 +65,7 @@ De in [artikel 2, eerste lid, onderdeel q., van de Verordening](../../../../../.
 
 * Type monster (overschoentjes, mest),  
 
-* Type onderzoek (regulier, zoals bedoeld in [artikel 10 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md)),  
+* Type onderzoek (regulier, zoals bedoeld in artikel 10 van de Verordening),  
 
 * In geval van een negatieve uitslag: de datum van de uitslag van de detectie,  
 
@@ -76,11 +79,11 @@ De in [artikel 2, eerste lid, onderdeel q., van de Verordening](../../../../../.
 2.  Gedurende het verificatieonderzoek van een stalkoppel leghennen mag de ondernemer de consumptie-eieren van dit stalkoppel niet van het bedrijf afvoeren anders dan voor vernietiging of verwerking   
 3.  De ondernemer zorgt ervoor dat de uitslag van het verificatieonderzoek binnen één werkdag nadat deze uitslag bij hem bekend is, schriftelijk is gemeld aan het bedrjf dat het bemonsterde stalkoppel leghennen heeft geleverd (opfokleghennenbedrijf) en aan de afnemer van het bemonsterde stalkoppel leghennen.   
 
-####Monsterneming in het kader van [artikel 15 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) (officiële monsterneming)
+####Monsterneming in het kader van artikel 15 van de Verordening (officiële monsterneming)
 
 ### Artikel  8  
 
-1.  De voorzitter laat bij de ondernemer monsters als bedoeld in [artikel 15 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) door GD nemen in de volgende gevallen: 
+1.  De voorzitter laat bij de ondernemer monsters als bedoeld in artikel 15 van de Verordening door GD nemen in de volgende gevallen: 
 
 a) bij één stalkoppel leghennen per jaar per leghennenbedrijf waar tenminste duizend leghennen zijn geplaatst,  
 
@@ -91,17 +94,19 @@ c) bij ieder vermoeden van een besmetting met Salmonella naar aanleiding van het
 d) bij alle andere stalkoppels leghennen op een leghennenbedrijf indien de voorzitter Salmonella Enteritidis of Salmonella Typhimurium bij een stalkoppel op dat leghennenbedrijf heeft vastgesteld, en  
 
 e) indien de voorzitter het nodig acht.     
-2.  In het in het eerste lid, onderdeel a), genoemde geval mag een voor het nemen van mestmonsters erkende HOSOWO-instantie de monsters nemen in plaats van GD.   
+2.  In het in het eerste lid, onderdeel a), genoemde geval mag een voor geborgde monsterneming mest erkende HOSOWO-instantie of een pluimveedierenarts de monsters nemen in plaats van GD.   
 3.  De monsters als bedoeld in het eerste lid worden genomen overeenkomstig Bijlage III. De detectie en, in geval van een positieve uitslag, de serotypering van de monsters worden uitgevoerd door GD.   
-4.  Het onderzoek naar Salmonella van de monsters als bedoeld in het eerste lid, onderdeel a) en b) kan in de plaats treden van het onderzoek naar Salmonella van de monsters als bedoeld in [artikel 10 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) juncto artikel 4, eerste lid van dit besluit.   
+4.  Het onderzoek naar Salmonella van de monsters als bedoeld in het eerste lid, onderdeel a) en b) kan in de plaats treden van het onderzoek naar Salmonella van de monsters als bedoeld in artikel 10 van de Verordening juncto artikel 4, eerste lid van dit besluit.   
+5.  Het onderzoek naar Salmonella van de monsters als bedoeld in artikel 4, eerste lid, onderdeel b), kan in de plaats treden van het onderzoek naar Salmonella van de monsters als bedoeld in het eerste lid onderdeel a), mits de monsters worden genomen overeenkomstig Bijlage III en mits de detectie en, in geval van een positieve uitslag, de serotypering van de monsters worden uitgevoerd door GD.   
 
-####Melding uitslagen detectie en serotypering in het kader van [artikel 15 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md)
+####Melding uitslagen detectie en serotypering in het kader van artikel 15 van de Verordening
 
 ### Artikel  9  
 
 1.  Indien uit de uitslag van de serotypering door GD blijkt dat in een monster van een stalkoppel leghennen Salmonella Enteritidis of Salmonella Typhimurium is aangetoond, dan zorgt de ondernemer ervoor dat dit binnen één werkdag nadat deze uitslag bij hem bekend is, schriftelijk is gemeld aan het bedrijf dat het bemonsterde stalkoppel leghennen heeft geleverd (opfokleghennenbedrijf) en aan de afnemer van de consumptie-eieren van het bemonsterde stalkoppel leghennen.   
 2.  Indien uit de uitslag van de detectie door GD blijkt dat in een monster van een stalkoppel leghennen geen Salmonella is aangetoond of indien uit de uitslag van de serotypering blijkt dat in een monster van een stalkoppel leghennen een ander serotype Salmonella dan Salmonella Enteritidis of Salmonella Typhimurium is aangetoond, dan zorgt de ondernemer ervoor dat dit binnen tien werkdagen nadat de negatieve uitslag van de detectie of de uitslag van de serotypering bij hem bekend is, schriftelijk is gemeld aan aan het bedrijf dat het bemonsterde stalkoppel leghennen heeft geleverd (opfokleghennenbedrijf) en aan de afnemer van de consumptie-eieren van het bemonsterde stalkoppel leghennen.   
-3.  De meldingen als bedoeld in het eerste en tweede lid bevatten naast de uitslag van het serotype Salmonella of de negatieve uitslag van de detectie de volgende gegevens: 
+3.  De ondernemer zorgt ervoor dat de uitslag van de detectie en de serotypering van de monsters als bedoeld in artikel 4, eerste lid, onderdeel b) uiterlijk 24 uur voor afvoer schriftelijk wordt gemeld aan de slachterij waaraan het stal koppel leghennen wordt geleverd.   
+4.  De meldingen als bedoeld in het eerste en tweede lid bevatten naast de uitslag van het serotype Salmonella of de negatieve uitslag van de detectie de volgende gegevens: 
 
 * KIP-nummer,  
 
@@ -115,7 +120,7 @@ e) indien de voorzitter het nodig acht.
 
 * Type monster (overschoentjes, mest),  
 
-* Type onderzoek (officieel, zoals bedoeld in [artikel 15 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md)),  
+* Type onderzoek (officieel, zoals bedoeld in artikel 15 van de Verordening),  
 
 * In geval van een negatieve uitslag: de datum van de uitslag van de detectie,  
 
@@ -125,7 +130,7 @@ e) indien de voorzitter het nodig acht.
 
 ### Artikel  10  
 
-Indien de voorzitter op grond van het onderzoek naar Salmonella als bedoeld in [artikel 10](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) dan wel [artikel 15 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) een besmetting met Salmonella Enteritidis of Salmonella Typhimurium heeft vastgesteld bij een stalkoppel leghennen, dan is de ondernemer verplicht om de maatregelen als bedoeld in [artikel 11 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) uit te voeren dan wel te laten uitvoeren (reiniging en ontsmetting, stalonderzoek, ruiming, plaatsing stalkoppel, vaccinatie, merken van eieren, afvoer consumptie-eieren, onderzoek graan).  
+Indien de voorzitter op grond van het onderzoek naar Salmonella als bedoeld in artikel 10 dan wel artikel 15 van de Verordening een besmetting met Salmonella Enteritidis of Salmonella Typhimurium heeft vastgesteld bij een stalkoppel leghennen, dan is de ondernemer verplicht om de maatregelen als bedoeld in artikel 11 van de Verordening uit te voeren dan wel te laten uitvoeren (reiniging en ontsmetting, stalonderzoek, ruiming, plaatsing stalkoppel, vaccinatie, merken van eieren, afvoer consumptie-eieren, onderzoek graan).  
 
 ####Plaatsing stalkoppel leghennen in een meerleeftijdenleghennenstal
 
@@ -137,7 +142,7 @@ Indien de voorzitter een besmetting met Salmonella Enteritidis of Salmonella Typ
 
 ### Artikel  12  
 
-1.  Het stalonderzoek als bedoeld in [artikel 1](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) en [artikel 11 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) wordt uitgevoerd door een HOSOWO-instantie overeenkomstig het Besluit erkenningsvoorwaarden en werkwijzen HOSOWO-instanties (PPE) 2011.   
+1.  Het stalonderzoek als bedoeld in artikel 1 en artikel 11 van de Verordening wordt uitgevoerd door een HOSOWO-instantie overeenkomstig het Besluit erkenningsvoorwaarden en werkwijzen HOSOWO-instanties (PPE) 2011.   
 2.  De ondernemer mag pas een stalkoppel leghennen in de stal plaatsen indien op grond van het stalonderzoek geen Salmonella Enteritidis of Salmonella Typhimurium meer in de stal is aangetoond.   
 
 ####Merken van eieren
@@ -154,7 +159,7 @@ Eieren afkomstig van een met Salmonella Enteritidis of Salmonella Typhimurium be
 
 ### Artikel  14  
 
-Nadat de voorzitter de ondernemer een last heeft verstrekt om consumptie-eieren afkomstig van een met Salmonella Enteritidis of Salmonella Typhimurium besmet stalkoppel leghennen te laten verwerken of vernietigen, is de ondernemer verplicht om afschriften van de afleverbonnen van deze consumptie-eieren aan het productschap te sturen.  
+Nadat de voorzitter de ondernemer een last heeft verstrekt om consumptie-eieren afkomstig van een met Salmonella Enteritidis of Salmonella Typhimurium besmet stal koppel leghennen te laten verwerken of vernietigen, is de ondernemer verplicht om binnen een door de voorzitter gestelde termijn schriftelijk aan het productschap aan te tonen dat deze consumptie-eieren daadwerkelijk verwerkt of vernietigd zijn.  
 
 ####Vaccinatie
 
@@ -175,7 +180,7 @@ In het geval de voorzitter een besmetting met Salmonella Enteritidis bij een sta
 
 ### Artikel  17  
 
-De ondernemer bewaart de uitslagen van het hygiënogram, de detectie en de serotypering, het stalonderzoek, het contra-onderzoek en het graanonderzoek gedurende ten minste twee jaren na ontvangst van deze uitslagen.  
+De ondernemer bewaart de uitslagen van het hygiënogram, de detectie en de serotypering, het stalonderzoek, en het graanonderzoek gedurende ten minste twee jaren na ontvangst van deze uitslagen.  
 
 ####Slotbepaling
 
@@ -212,7 +217,7 @@ Optie B.  *hygiënesluis per bedrijf*  Per bedrijf van kleding wisselen in een a
 
 ####Regulier onderzoek naar Salmonella in leghennenbedrijven
 
-De ondernemer die een leghennenbedrijf uitoefent dient de op het bedrijf aanwezige stalkoppels leghennen te laten onderzoeken op de aanwezigheid van Salmonella Enteritidis en Salmonella Typhimurium. Het onderzoek begint met het nemen van monsters door of in opdracht van de ondernemer (reguliere monsterneming in het kader van [artikel 10 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md)) of op initiatief van de voorzitter (officiële monsterneming in het kader van [artikel 15 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md)). In deze bijlage wordt het onderzoek in het kader van artikel 10 van de Verordening (regulier onderzoek) nader beschreven. 
+De ondernemer die een leghennenbedrijf uitoefent dient de op het bedrijf aanwezige stalkoppels leghennen te laten onderzoeken op de aanwezigheid van Salmonella Enteritidis en Salmonella Typhimurium. Het onderzoek begint met het nemen van monsters door of in opdracht van de ondernemer (reguliere monsterneming in het kader van artikel 10 van de Verordening) of op initiatief van de voorzitter (officiële monsterneming in het kader van artikel 15 van de Verordening). In deze bijlage wordt het onderzoek in het kader van artikel 10 van de Verordening (regulier onderzoek) nader beschreven. 
 ###A. Voorschrift voor het nemen van monsters door de ondernemer
 
 ###Methode 1: Mestmonsters bij kooihuisvesting
@@ -300,7 +305,7 @@ Elke inzending van monsters - zowel de monsters genomen door of in opdracht van 
 
 6. Geboortedatum stalkoppel;  
 
-7. Type onderzoek: regulier (als bedoeld in [artikel 10 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md)) of officieel (als bedoeld in [artikel 15 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md)) + Salmonella;  
+7. Type onderzoek: regulier (als bedoeld in artikel 10 van de Verordening) of officieel (als bedoeld in artikel 15 van de Verordening) + Salmonella;  
 
 8. Monsternemer: pluimveehouder / dierenarts / GD / HOSOWO-instantie / broederij / overig;  
 
@@ -310,16 +315,16 @@ Elke inzending van monsters - zowel de monsters genomen door of in opdracht van 
 Monsters dienen te worden gedetecteerd door een voor detectie erkend laboratorium, en in geval van de aanwezigheid van Salmonella, te worden geserotypeerd op alle typen Salmonella door een voor serotypering erkend laboratorium. De ondernemer zorgt ervoor dat het monster onverwijld na de detectie wordt geserotypeerd. Als het voor detectie erkende laboratorium niet tevens is erkend voor serotypering of als het het serotype Salmonella niet kan bepalen, dan zal dit laboratorium het monster verzenden naar een voor serotypering erkend laboratorium, zonder actieve tussenkomst van de ondernemer. De ondernemer dient daarom het voor detectie erkende laboratorium duidelijk opdracht te geven dat indien de detectie van een monster Salmonella aantoont, dit monster onverwijld wordt geserotypeerd. Na ontvangst van de uitslag van het laboratorium meldt de ondernemer deze uitslag aan de voorzitter. Deze melding dient binnen één werkdag te gebeuren indien het Salmonella Enteritidis of Salmonella Typhimurium betreft. Uitslagen van overige serotypen Salmonella of een negatieve uitslag dient de ondernemer binnen tien werkdagen na ontvangst van het laboratorium aan de voorzitter te melden. 
 ###E. Verificatieonderzoek
 
-Nadat de ondernemer aan de voorzitter en aan GD heeft gemeld dat uit de uitslag van de serotypering is gebleken dat in een monster van een stalkoppel leghennen Salmonella Enteritidis of Salmonella Typhimurium is aangetoond, kan de voorzitter door GD een verificatieonderzoek laten uitvoeren bij het bemonsterde stalkoppel leghennen. Een verificatieonderzoek wordt vrijwel altijd uitgevoerd. In uitzonderingssituaties (bijvoorbeeld als er geen leghennen meer in de stal aanwezig zijn) kan de voorzitter een besmetting met Salmonella Enteritidis of Salmonella Typhimurium vaststellen op grond van de uitslag van de serotypering. Indien de voorzitter besluit tot een verificatieonderzoek, dan voert GD dit vervolgens zo spoedig mogelijk uit. Per stalkoppel leghennen worden zes gepoolde mestmonsters van ieder tenminste 50 cloacaswabs genomen. Wanneer het stalkoppel leghennen is gevaccineerd tegen Salmonella Enteritidis, worden negen gepoolde mestmonsters van ieder 50 cloacaswabs genomen. Tevens worden per stalkoppel nog aselect vijf leghennen meegenomen naar het laboratorium. Deze worden door GD onderzocht op de aanwezigheid van anti-microbiële stoffen of een bacteriegroeiremmend effect. 
+Nadat de ondernemer aan de voorzitter en aan GD heeft gemeld dat uit de uitslag van de serotypering is gebleken dat in een monster van een stalkoppel leghennen Salmonella Enteritidis of Salmonella Typhimurium is aangetoond, kan de voorzitter door GD een verificatieonderzoek laten uitvoeren bij het bemonsterde stalkoppel leghennen. Als de voorzitter besluit om geen verificatieonderzoek uit te voeren dan stelt de voorzitter een besmetting met Salmonella Enteritidis of Salmonella Typhimurium vast op grond van de uitslag van de serotypering. Indien de voorzitter besluit tot een verificatieonderzoek, dan voert GD dit vervolgens zo spoedig mogelijk uit. Per stalkoppel leghennen worden 300 dieren meegenomen. Van deze 300 dieren worden de eileiders en blindedarmen (in 60 pool monsters van elk 5 eileiders en blinde darmen) onderzocht op de aanwezigheid van Salmonella Enteritidis en Salmonella Typhimurium. Tevens worden per stalkoppel nog aselect vijf leghennen meegenomen naar het laboratorium. Deze worden door GD onderzocht op de aanwezigheid van anti-microbiële stoffen of een bacteriegroeiremmend effect. 
 
 ### Bijlage  III  
 
 ####Officieel onderzoek naar Salmonella leghennenbedrijven
 
-De ondernemer die een leghennenbedrijf uitoefent dient de op het bedrijf aanwezige stalkoppels leghennen te laten onderzoeken op de aanwezigheid van Salmonella Enteritidis en Salmonella Typhimurium. De monsters worden in een specifiek aantal gevallen genomen op initiatief van de voorzitter door GD dan wel een door de voorzitter erkende HOSOWO-instantie (officiële monsterneming in het kader van [artikel 15 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md)). In deze bijlage wordt het onderzoek in het kader van artikel 15 van de Verordening (officieel onderzoek) nader beschreven. 
+De ondernemer die een leghennenbedrijf uitoefent dient de op het bedrijf aanwezige stalkoppels leghennen te laten onderzoeken op de aanwezigheid van Salmonella Enteritidis en Salmonella Typhimurium. De monsters worden in een specifiek aantal gevallen genomen op initiatief van de voorzitter door GD dan wel een door de voorzitter erkende HOSOWO-instantie of een pluimveedierenarts (officiële monsterneming in het kader van artikel 15 van de Verordening). In deze bijlage wordt het onderzoek in het kader van artikel 15 van de Verordening (officieel onderzoek) nader beschreven. 
 ###Voorschrift voor het nemen van monsters op initiatief van de voorzitter
 
-Deze wijze van monsterneming is in overeenstemming met het bepaalde in 2.2.2. van de bijlage van Verordening (EU) Nr. 517/2011 van de Commissie. De monsters worden door GD of een door de voorzitter erkende HOSOWO-instantie op dezelfde wijze genomen en op dezelfde wijze en met behulp van hetzelfde inzendformulier verzonden als de monsters die de ondernemer zelf moet nemen (zoals beschreven in Bijlage II van dit Besluit). Dit met dien verstande dat in geval van kooihuisvesting per stal een extra mestmonster moet worden genomen en in geval van grondhuisvesting een extra paar overschoentjes moet worden genomen. De mestmonsters worden gepoold tot één monster. De overschoentjes worden eveneens gepoold tot één monster. Tevens worden in de volgende gevallen per stalkoppel nog aselect vijf leghennen meegenomen naar het laboratorium (zie artikel 8, eerste lid 1, sub b) tot en met e), van dit Besluit): 
+Deze wijze van monsterneming is in overeenstemming met het bepaalde in 2.2.2. van de bijlage van Verordening (EU) Nr. 517/2011 van de Commissie. De monsters worden door GD of een door de voorzitter erkende HOSOWO-instantie of een pluimveedierenarts op dezelfde wijze genomen en op dezelfde wijze en met behulp van hetzelfde inzendformulier verzonden als de monsters die de ondernemer zelf moet nemen (zoals beschreven in Bijlage II van dit Besluit). Dit met dien verstande dat in geval van kooihuisvesting per stal een extra mestmonster moet worden genomen en in geval van grondhuisvesting een extra paar overschoentjes moet worden genomen. De mestmonsters worden gepoold tot één monster. De overschoentjes worden eveneens gepoold tot één monster. Tevens wordt in de volgende gevallen het stalkoppel onderzocht op de aanwezigheid van anti-microbiële stoffen of stoffen met een bacteriegroeiremmend effect (zie artikel 8, eerste lid 1, sub b) tot en met e), van dit Besluit): 
 
 * op de leeftijd van 24 weken bij een stalkoppel leghennen dat is geplaatst in een stal waarin bij een vorig stalkoppel Salmonella Enteritidis of Salmonella Typhimurium door de voorzitter is vastgesteld,  
 
@@ -327,7 +332,7 @@ Deze wijze van monsterneming is in overeenstemming met het bepaalde in 2.2.2. va
 
 * bij alle andere stalkoppels leghennen op een leghennenbedrijf indien de voorzitter Salmonella Enteritidis of Salmonella Typhimurium bij een stalkoppel op dat leghennenbedrijf heeft vastgesteld, en  
 
-* indien de voorzitter het nodig acht. Deze vijf leghennen worden door GD onderzocht op de aanwezigheid van antimicrobiële stoffen of een bacteriegroeiremmend effect. De monsters als bedoeld in deze bijlage worden door middel van detectie en, in voorkomend geval serotypering, onderzocht door GD.   
+* indien de voorzitter het nodig acht. De GD voert dit onderzoek uit door middel van administratieve controles en/of het bemonsteren van vijf leghennen die behoren tot het betreffende stalkoppel. De monsters als bedoeld in deze bijlage worden door middel van detectie en, in voorkomend geval serotypering, onderzocht door GD.   
 
 ### Bijlage  IV  
 

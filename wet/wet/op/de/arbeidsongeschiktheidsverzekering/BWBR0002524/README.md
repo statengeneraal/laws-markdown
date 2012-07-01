@@ -1283,24 +1283,8 @@ Zo nodig in afwijking van de overige artikelen van dit hoofdstuk blijven de arti
 
 ### Artikel  91g  
 
-1.  De loonkostensubsidie die voor de dag van inwerkingtreding van de [Wet stimulering arbeidsparticipatie](../../../../../../wet/wet/stimulering/arbeidsparticipatie/BWBR0025045/README.md), op grond van het [Tijdelijk besluit brugbanen herbeoordeelden](../../../../../../AMvB/tijdelijk/besluit/brugbanen/herbeoordeelden/BWBR0023551/README.md), is verstrekt aan een werkgever ten behoeve van een persoon die op de dag voor aanvang van die gesubsideerde dienstbetrekking recht had op: 
-
-a. een arbeidsongeschiktheidsuitkering;  
-
-b. een tegemoetkoming op grond van de [Tijdelijke regeling inkomensgevolgen herbeoordeelde arbeidsongeschikten](../../../../../../ministeriele-regeling/tijdelijke/regeling/inkomensgevolgen/herbeoordeelde/arbeidsongeschikten/BWBR0017646/README.md); of  
-
-c. een uitkering op grond van de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en een arbeidsongeschiktheidsuitkering op grond van deze wet of op grond van de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) of de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md),   wordt aangemerkt als loonkostensubsidie als bedoeld in artikel 65i.   
-2.  De loonkostensubsidie die voor de dag van inwerkingtreding van de [Wet stimulering arbeidsparticipatie](../../../../../../wet/wet/stimulering/arbeidsparticipatie/BWBR0025045/README.md), op grond van de [Tijdelijke regeling brugbanen niet-uitkeringsgerechtigde herbeoordeelden](../../../../../../ministeriele-regeling/tijdelijke/regeling/brugbanen/niet-uitkeringsgerechtigde/herbeoordeelden/BWBR0023539/README.md), is verstrekt aan een werkgever ten behoeve van een persoon: 
-
-a. wiens arbeidsongeschiktheidsuitkering is ingetrokken als gevolg van de toepassing van: 
-
-1° artikel 34, vierde lid,  
-
-2° [artikel 35, vijfde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), of  
-
-3° [artikel 3:28, vijfde lid, van de Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md); of    
-
-b. bedoeld in [artikel 2, tweede lid, van het Besluit eenmalige herbeoordelingen arbeidsongeschiktheidswetten](../../../../../../AMvB/besluit/eenmalige/herbeoordelingen/arbeidsongeschiktheidswetten/BWBR0017207/README.md), wiens arbeidsongeschiktheidsuitkering is ingetrokken; en die op de dag voor aanvang van die gesubsidieerde dienstbetrekking geen recht had op een uitkering op grond van een wet waaraan uitvoering wordt gegeven door het UWV of de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of een tegemoetkoming op grond van de [Tijdelijke regeling inkomensgevolgen herbeoordeelde arbeidsongeschikten](../../../../../../ministeriele-regeling/tijdelijke/regeling/inkomensgevolgen/herbeoordeelde/arbeidsongeschikten/BWBR0017646/README.md), wordt aangemerkt als loonkostensubsidie als bedoeld in artikel 65i.     
+1.  Ten aanzien van dienstbetrekkingen die voorafgaand aan 1 januari 2012 zijn ingegaan en waarvoor voorafgaand aan 1 januari 2012 een aanvraag voor subsidie voor loonkosten is ingediend, blijven de artikelen 65i en 65j van deze wet, de daarop berustende bepalingen en [artikel 30e van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) zoals die luidden op 31 december 2011 gelden.   
+2.  Dit artikel vervalt vijf jaar na de dag waarop artikel VII van de Wet van 21 mei 2012 tot wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen in verband met aanpassing van de dienstverlening van het Uitvoeringsinstituut werknemersverzekeringen aan werkgevers en werkzoekenden en de opheffing van de Raad voor Werk en Inkomen als publiekrechtelijke rechtspersoon met een wettelijke taak en van de Werkloosheidswet en enige andere wetten in verband met de beëindiging van de inzet van het re-integratiebudget Werkloosheidswet en van loonkostensubsidies in werking is getreden.   
 
 ### Artikel  91h  
 

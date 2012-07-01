@@ -3,12 +3,12 @@
 ##Besluit van bestuur van het Productschap Pluimvee en Eieren van 15 september 2011 tot uitwerking van de voorschriften inzake de bestrijding van Salmonella in vleeskalkoenbedrijven (Hygiënebesluit vleeskalkoenbedrijven (PPE) 2011)
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op de [artikelen 9](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md), [10](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md), [11](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md), [12](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md), [14](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md), [15](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md) en [16 van de Verordening hygiënemaatregelen en bestrijding zoönosen in de kalkoensector (PPE) 2011](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md);
+Gelet op de artikelen 9, 10, 11, 12, 14, 15 en 16 van de Verordening hygiënemaatregelen en bestrijding zoönosen in de kalkoensector (PPE) 2011;
 Besluit:    
 
 ### Artikel  1  
 
-Dit besluit neemt de terminologie, als omschreven in [artikel 1 van de Verordening hygiënemaatregelen en bestrijding zoönosen in de kalkoensector (PPE) 2011](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md) (hierna: de Verordening), over en verstaat daarnaast onder: 
+Dit besluit neemt de terminologie, als omschreven in artikel 1 van de Verordening hygiënemaatregelen en bestrijding zoönosen in de kalkoensector (PPE) 2011 (hierna: de Verordening), over en verstaat daarnaast onder: 
 
 1. ondernemer: een natuurlijk persoon of rechtspersoon die een kalkoenkuikenbroederij uitoefent, en  
 
@@ -18,25 +18,25 @@ Dit besluit neemt de terminologie, als omschreven in [artikel 1 van de Verordeni
 
 ### Artikel  2  
 
-1.  Het hygiënogram als bedoeld in [artikel 9 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md) wordt uitgevoerd door een HOSOWO-instantie overeenkomstig het Besluit erkenningsvoorwaarden en werkwijzen HOSOWO-instanties (PPE) 2011.   
+1.  Het hygiënogram als bedoeld in artikel 9 van de Verordening wordt uitgevoerd door een HOSOWO-instantie overeenkomstig het Besluit erkenningsvoorwaarden en werkwijzen HOSOWO-instanties (PPE) 2011.   
 2.  Indien de uitslag van het hygiënogram kleiner dan of gelijk aan 1,5 is, dan hoeft de ondernemer geen vervolgmaatregelen in de stal te nemen.   
-3.  Indien de uitslag van het hygiënogram groter dan 1,5 maar kleiner dan of gelijk aan 3,0 is, dan laat de ondernemer tijdens de eerstvolgende leegstandsperiode, nadat hij de stal heeft gereinigd en ontsmet, opnieuw een hygiënogram in de stal uitvoeren.   
-4.  Indien de uitslag van het hygiënogram groter dan 3,0 is, dan dient de ondernemer tijdens de eerstvolgende leegstandsperiode de stal na het reinigen te laten ontsmetten door een ontsmettingsbedrijf. Aansluitend laat de ondernemer opnieuw een hygiënogram in de stal uitvoeren.   
+3.  Indien de uitslag van het hygiënogram groter dan 1,5 maar kleiner dan 3,0 is, dan laat de ondernemer tijdens de eerstvolgende leegstandsperiode, nadat hij de stal heeft gereinigd en ontsmet, opnieuw een hygiënogram in de stal uitvoeren.   
+4.  Indien de uitslag van het hygiënogram gelijk aan 3,0 is, dan dient de ondernemer tijdens de eerstvolgende leegstandsperiode de stal na het reinigen te laten ontsmetten door een ontsmettingsbedrijf. Aansluitend laat de ondernemer opnieuw een hygiënogram in de stal uitvoeren.   
 
-####Monsterneming in het kader van [artikel 10 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md) (reguliere monsterneming)
+####Monsterneming in het kader van artikel 10 van de Verordening (reguliere monsterneming)
 
 ### Artikel  3  
 
-De ondernemer neemt de monsters als bedoeld in [artikel 10, eerste lid, van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md) van een stalkoppel vleeskalkoenen binnen 21 dagen voordat dit stalkoppel van het vleeskalkoenbedrijf wordt afgevoerd naar de slachterij. De ondernemer neemt deze monsters overeenkomstig het bepaalde in Bijlage I.  
+De ondernemer neemt de monsters als bedoeld in artikel 10, eerste lid, van de Verordening van een stalkoppel vleeskalkoenen binnen 21 dagen voordat dit stalkoppel van het vleeskalkoenbedrijf wordt afgevoerd naar de slachterij. De ondernemer neemt deze monsters overeenkomstig het bepaalde in Bijlage I.  
 
-####Detectie en serotypering in het kader van [artikel 10 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md)
+####Detectie en serotypering in het kader van artikel 10 van de Verordening
 
 ### Artikel  4  
 
-1.  De ondernemer zorgt ervoor dat de monsters als bedoeld in [artikel 10, eerste lid, van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md) binnen 24 uur na de monsterneming zijn verzonden naar een voor detectie van Salmonella erkend laboratorium.   
+1.  De ondernemer zorgt ervoor dat de monsters als bedoeld in artikel 10, eerste lid, van de Verordening binnen 24 uur na de monsterneming zijn verzonden naar een voor detectie van Salmonella erkend laboratorium.   
 2.  Indien het voor detectie van Salmonella erkende laboratorium Salmonella in een monster heeft gedetecteerd, dan zorgt de ondernemer ervoor dat dit monster onverwijld na de detectie wordt geserotypeerd door een voor serotypering erkend laboratorium.   
 
-####Melding uitslagen detectie en serotypering in het kader van [artikel 10 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md)
+####Melding uitslagen detectie en serotypering in het kader van artikel 10 van de Verordening
 
 ### Artikel  5  
 
@@ -62,15 +62,15 @@ De ondernemer neemt de monsters als bedoeld in [artikel 10, eerste lid, van de V
 
 - In geval van een positieve uitslag de datum van de uitslag van de serotypering.     
 
-####Monsterneming in het kader van [artikel 12 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md) (officiële monsterneming)
+####Monsterneming in het kader van artikel 12 van de Verordening (officiële monsterneming)
 
 ### Artikel  6  
 
-1.   De voorzitter laat bij ten minste tien procent van de vleeskalkoenbedrijven één maal per kalenderjaar monsters als bedoeld in [artikel 12 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md) nemen.  
+1.   De voorzitter laat bij ten minste tien procent van de vleeskalkoenbedrijven één maal per kalenderjaar monsters als bedoeld in artikel 12 van de Verordening nemen.  
 2.  De monsters worden genomen op de vleeskalkoenbedrijven waar op grond van de uitslag van de serotypering in de voorafgaande twaalf maanden een besmetting met Salmonella Enteritidis of Salmonella Typhimurium bij een stalkoppel vleeskalkoenen is aangetoond.   
 3.  De monsters worden genomen met overschoentjes overeenkomstig Bijlage I bij alle stalkoppels vleeskalkoenen die op het betreffende vleeskalkoenbedrijf aanwezig zijn.   
-4.  Het onderzoek naar Salmonella van de monsters als bedoeld in [artikel 12 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md) kan in de plaats treden van het onderzoek naar Salmonella van de monsters als bedoeld in [artikel 10 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md).   
-5.  De voorzitter kan jaarlijks vleeskalkoenbedrijven aanwijzen voor de monstermeming als bedoeld in [artikel 12 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md), teneinde te verzekeren dat per kalenderjaar bij tien procent van het totale aantal vleeskalkoenbedrijven deze monsterneming wordt uitgevoerd.   
+4.  Het onderzoek naar Salmonella van de monsters als bedoeld in artikel 12 van de Verordening kan in de plaats treden van het onderzoek naar Salmonella van de monsters als bedoeld in artikel 10 van de Verordening.   
+5.  De voorzitter kan jaarlijks vleeskalkoenbedrijven aanwijzen voor de monstermeming als bedoeld in artikel 12 van de Verordening, teneinde te verzekeren dat per kalenderjaar bij tien procent van het totale aantal vleeskalkoenbedrijven deze monsterneming wordt uitgevoerd.   
 
 ####Geldigheidsduur uitslagen detectie en serotypering
 
@@ -82,19 +82,19 @@ De uitslagen van de detectie en de serotypering van de overeenkomstig Bijlage I 
 
 ### Artikel  8  
 
-Nadat de ondernemer op grond van de uitslag van de serotypering als bedoeld in [artikel 10](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md) dan wel [artikel 12 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md) in kennis is gesteld van een besmetting met Salmonella bij een stalkoppel vleeskalkoenen, is de ondernemer verplicht om de maatregelen als bedoeld in [artikel 11 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md) uit te voeren dan wel te laten uitvoeren (reiniging en ontsmetting, stalonderzoek, vangen en afvoeren van met Salmonella besmette stalkoppels vleeskalkoenen, onderzoek graan).  
+Nadat de ondernemer op grond van de uitslag van de serotypering als bedoeld in artikel 10 dan wel artikel 12 van de Verordening in kennis is gesteld van een besmetting met Salmonella bij een stalkoppel vleeskalkoenen, is de ondernemer verplicht om de maatregelen als bedoeld in artikel 11 van de Verordening uit te voeren dan wel te laten uitvoeren (reiniging en ontsmetting, stalonderzoek, vangen en afvoeren van met Salmonella besmette stalkoppels vleeskalkoenen, onderzoek graan).  
 
 ####Stalonderzoek
 
 ### Artikel  9  
 
-Het stalonderzoek als bedoeld in [artikel 11 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md) wordt uitgevoerd door een HOSOWO-instantie overeenkomstig het Besluit erkenningsvoorwaarden en werkwijzen HOSOWO-instanties (PPE) 2011.  
+Het stalonderzoek als bedoeld in artikel 11 van de Verordening wordt uitgevoerd door een HOSOWO-instantie overeenkomstig het Besluit erkenningsvoorwaarden en werkwijzen HOSOWO-instanties (PPE) 2011.  
 
 ####Vangen en afvoeren van met Salmonella besmette stalkoppels vleeskalkoenen
 
 ### Artikel  10  
 
-Nadat de ondernemer op grond van de uitslag van de serotypering als bedoeld in [artikel 10 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md) dan wel [artikel 12 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md) in kennis is gesteld van een besmetting met Salmonella bij een stalkoppel vleeskalkoenen, zorgt de ondernemer ervoor dat het betreffende stalkoppel gescheiden van de niet met Salmonella besmette stalkoppels wordt gevangen en gescheiden van het vleeskalkoenbedrijf wordt afgevoerd naar de slachterij.  
+Nadat de ondernemer op grond van de uitslag van de serotypering als bedoeld in artikel 10 van de Verordening dan wel artikel 12 van de Verordening in kennis is gesteld van een besmetting met Salmonella bij een stalkoppel vleeskalkoenen, zorgt de ondernemer ervoor dat het betreffende stalkoppel gescheiden van de niet met Salmonella besmette stalkoppels wordt gevangen en gescheiden van het vleeskalkoenbedrijf wordt afgevoerd naar de slachterij.  
 
 ####Graan
 
@@ -225,7 +225,7 @@ Elke inzending van monsters naar het voor detectie erkende laboratorium moet ver
 
 6. Type monster.  
 
-7. Type onderzoek: regulier (als bedoeld in [artikel 10 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md)) of officieel (als bedoeld in [artikel 12 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md)) + Salmonella.  
+7. Type onderzoek: regulier (als bedoeld in artikel 10 van de Verordening) of officieel (als bedoeld in artikel 12 van de Verordening) + Salmonella.  
 
 8. Monsternemer: kalkoenhouder / dierenarts / GD / HOSOWO-instantie / slachterij / broederij.  
 

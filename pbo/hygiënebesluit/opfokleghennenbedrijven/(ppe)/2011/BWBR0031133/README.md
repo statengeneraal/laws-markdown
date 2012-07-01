@@ -3,40 +3,40 @@
 ##Besluit van het Productschap Pluimvee en Eieren van 3 november 2011 tot uitwerking van de voorschriften inzake de bewaking en bestrijding van Salmonella in opfokleghennenbedrijven (Hygiënebesluit opfokleghennenbedrijven (PPE) 2011)
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op de [artikelen 2](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md), [9](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md), [10](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md), [11](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md), [17](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md), [18](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) en [19 van de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md);
+Gelet op de artikelen 2, 9, 10, 11, 17, 18 en 19 van de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011;
 Besluit:    
 
 ### Artikel  1  
 
-Dit besluit verstaat onder ondernemer een natuurlijk persoon of rechtspersoon die een opfokleghennenbedrijf uitoefent en onder Salmonella Typhimurium mede: monofasische Salmonella Typhimurium met de antigene formule 1,4,[5],12: i:-, en neemt voor het overige de terminologie, als omschreven in [artikel 1 van de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 201](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) 1 (hierna: de Verordening) over.  
+Dit besluit verstaat onder ondernemer een natuurlijk persoon of rechtspersoon die een opfokleghennenbedrijf uitoefent en onder Salmonella Typhimurium mede: monofasische Salmonella Typhimurium met de antigene formule 1,4,[5],12: i:-, en neemt voor het overige de terminologie, als omschreven in artikel 1 van de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 201 1 (hierna: de Verordening) over.  
 
 ### Artikel  2  
 
-De in [artikel 2, eerste lid, onderdeel q., van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) bedoelde eisen waaraan de ondernemer die zijn opfokleghennen in kooien houdt, moet voldoen, zijn opgenomen in Bijlage I.  
+De in artikel 2, eerste lid, onderdeel q., van de Verordening bedoelde eisen waaraan de ondernemer die zijn opfokleghennen in kooien houdt, moet voldoen, zijn opgenomen in Bijlage I.  
 
 ####Hygiënogram
 
 ### Artikel  3  
 
-1.  Het hygiënogram als bedoeld in [artikel 1, onderdeel 48.](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md), en [artikel 9 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) wordt uitgevoerd door een HOSOWO-instantie overeenkomstig het Besluit erkenningsvoorwaarden en werkwijzen HOSOWO-instanties (PPE) 2011.   
+1.  Het hygiënogram als bedoeld in artikel 1, onderdeel 48., en artikel 9 van de Verordening wordt uitgevoerd door een HOSOWO-instantie overeenkomstig het Besluit erkenningsvoorwaarden en werkwijzen HOSOWO-instanties (PPE) 2011.   
 2.  Indien de uitslag van het hygiënogram kleiner dan of gelijk aan 1,5 is, dan hoeft de ondernemer geen vervolgmaatregelen in de stal te nemen.   
-3.  Indien de uitslag van het hygiënogram groter dan 1,5 maar kleiner dan of gelijk aan 3,0 is, dan dient de ondernemer de stal opnieuw te reinigen en te laten ontsmetten door een ontsmettingsbedrijf. Na deze reiniging en ontsmetting mag de ondernemer een stalkoppel opfokleghennen in de stal plaatsen. Tijdens de eerstvolgende leegstandsperiode laat hij aansluitend aan het reinigen en ontsmetten opnieuw een hygiënogram in de stal uitvoeren. De ondernemer mag slechts een stalkoppel opfokleghennen in de stal plaatsen indien de uitslag van dit hygiënogram kleiner dan of gelijk is aan 1,5. Indien de uitslag van het hygiënogram groter dan 1,5 is, dan worden de reiniging en ontsmetting en de uitvoering van een hygiënogram net zo lang herhaald totdat de uitslag van het hygiënogram kleiner dan of gelijk aan 1,5 is.   
-4.  Indien de uitslag van het hygiënogram groter dan 3,0 is, dan reinigt en ontsmet de ondernemer de stal opnieuw en laat hij aansluitend opnieuw een hygiënogram in de stal uitvoeren. De ondernemer mag slechts een stalkoppel in de stal plaatsen indien de uitslag van dit hygiënogram kleiner dan of gelijk aan 1,5 is. Indien de uitslag van het hygiënogram groter dan 1,5 is, dan worden de reiniging en ontsmetting en de uitvoering van een hygiënogram net zo lang herhaald totdat de uitslag van het hygiënogram kleiner dan of gelijk aan 1,5 is.   
+3.  Indien de uitslag van het hygiënogram groter dan 1,5 maar kleiner dan 3,0 is, dan dient de ondernemer de stal opnieuw te reinigen en te laten ontsmetten door een ontsmettingsbedrijf. Na deze reiniging en ontsmetting mag de ondernemer een stalkoppel opfokleghennen in de stal plaatsen. Tijdens de eerstvolgende leegstandsperiode laat hij aansluitend aan het reinigen en ontsmetten opnieuw een hygiënogram in de stal uitvoeren. De ondernemer mag slechts een stalkoppel opfokleghennen in de stal plaatsen indien de uitslag van dit hygiënogram kleiner dan of gelijk is aan 1,5. Indien de uitslag van het hygiënogram groter dan 1,5 is, dan worden de reiniging en ontsmetting en de uitvoering van een hygiënogram net zo lang herhaald totdat de uitslag van het hygiënogram kleiner dan of gelijk aan 1,5 is.   
+4.  Indien de uitslag van het hygiënogram gelijk aan 3,0 is, dan reinigt en ontsmet de ondernemer de stal opnieuw en laat hij aansluitend opnieuw een hygiënogram in de stal uitvoeren. De ondernemer mag slechts een stalkoppel in de stal plaatsen indien de uitslag van dit hygiënogram kleiner dan of gelijk aan 1,5 is. Indien de uitslag van het hygiënogram groter dan 1,5 is, dan worden de reiniging en ontsmetting en de uitvoering van een hygiënogram net zo lang herhaald totdat de uitslag van het hygiënogram kleiner dan of gelijk aan 1,5 is.   
 
-####Monsterneming in het kader van [artikel 10 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md)
+####Monsterneming in het kader van artikel 10 van de Verordening
 
 ### Artikel  4  
 
-De ondernemer neemt de monsters als bedoeld in [artikel 10, eerste lid, van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) binnen tien werkdagen voor de overplaatsing van een stalkoppel opfokleghennen, overeenkomstig Bijlage II.  
+De ondernemer neemt de monsters als bedoeld in artikel 10, eerste lid, van de Verordening binnen tien werkdagen voor de overplaatsing van een stalkoppel opfokleghennen, overeenkomstig Bijlage II.  
 
-####Detectie en serotypering in het kader van [artikel 10 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md)
+####Detectie en serotypering in het kader van artikel 10 van de Verordening
 
 ### Artikel  5  
 
-1.  De ondernemer zorgt ervoor dat de monsters als bedoeld in [artikel 10, eerste lid, van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) binnen 24 uur na de monsterneming zijn verzonden naar een voor detectie van Salmonella erkend laboratorium.   
+1.  De ondernemer zorgt ervoor dat de monsters als bedoeld in artikel 10, eerste lid, van de Verordening binnen 24 uur na de monsterneming zijn verzonden naar een voor detectie van Salmonella erkend laboratorium.   
 2.  Indien het voor detectie van Salmonella erkende laboratorium Salmonella in een monster heeft gedetecteerd, dan zorgt de ondernemer ervoor dat dit monster onverwijld na de detectie wordt geserotypeerd door een voor serotypering erkend laboratorium.   
 
-####Melding uitslagen detectie en serotypering in het kader van [artikel 10 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md)
+####Melding uitslagen detectie en serotypering in het kader van artikel 10 van de Verordening
 
 ### Artikel  6  
 
@@ -56,7 +56,7 @@ Datum monsterneming;
 
 Type monster (overschoentjes, mest);  
 
-Type onderzoek (regulier, zoals bedoeld in [artikel 10 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md));  
+Type onderzoek (regulier, zoals bedoeld in artikel 10 van de Verordening);  
 
 In geval van een negatieve uitslag: de uitslag van de detectie, inclusief de datum van de uitslag;  
 
@@ -73,7 +73,7 @@ In geval van een positieve uitslag: de uitslag van de serotypering, inclusief de
 
 ### Artikel  8  
 
-1.  Het stalonderzoek als bedoeld in [artikel 1](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) en [artikel 11 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) wordt uitgevoerd door een HOSOWO-instantie overeenkomstig het Besluit erkenningsvoorwaarden en werkwijzen HOSOWO-instanties (PPE) 2011.   
+1.  Het stalonderzoek als bedoeld in artikel 1 en artikel 11 van de Verordening wordt uitgevoerd door een HOSOWO-instantie overeenkomstig het Besluit erkenningsvoorwaarden en werkwijzen HOSOWO-instanties (PPE) 2011.   
 2.  De ondernemer mag pas een stalkoppel opfokleghennen in de stal plaatsen indien op grond van het stalonderzoek geen Salmonella Enteritidis of Salmonella Typhimurium meer in de stal is aangetoond.   
 
 ####Bewaarplicht
@@ -113,7 +113,7 @@ De ondernemer die een opfokleghennenbedrijf uitoefent en zijn opfokleghennen in 
 
 ####Onderzoek naar Salmonella opfokleghennenbedrijven
 
-De ondernemer die een opfokleghennenbedrijf uitoefent, dient de op het bedrijf aanwezige stalkoppels opfokleghennen te laten onderzoeken op de aanwezigheid van Salmonella Enteritidis en Salmonella Typhimurium. Het onderzoek begint met het nemen van monsters (reguliere monsterneming in het kader van [artikel 10 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md)). 
+De ondernemer die een opfokleghennenbedrijf uitoefent, dient de op het bedrijf aanwezige stalkoppels opfokleghennen te laten onderzoeken op de aanwezigheid van Salmonella Enteritidis en Salmonella Typhimurium. Het onderzoek begint met het nemen van monsters (reguliere monsterneming in het kader van artikel 10 van de Verordening). 
 
 ### A  
 
@@ -211,7 +211,7 @@ Elke inzending van monsters naar het voor detectie erkende laboratorium moet ver
 
 6. Geboortedatum stalkoppel;  
 
-7. Type onderzoek: regulier (als bedoeld in [artikel 10 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md)) + Salmonella;  
+7. Type onderzoek: regulier (als bedoeld in artikel 10 van de Verordening) + Salmonella;  
 
 8. Monsternemer: pluimveehouder / dierenarts / GD / HOSOWO-instantie / broederij;  
 
@@ -227,5 +227,5 @@ Monsters dienen te worden gedetecteerd door een voor detectie erkend laboratoriu
 
 ####Verificatieonderzoek
 
-Nadat de ondernemer aan de voorzitter en aan GD heeft gemeld dat uit de uitslag van de serotypering is gebleken dat in een monster van een stalkoppel opfokleghennen Salmonella Enteritidis of Salmonella Typhimurium is aangetoond, kan de voorzitter door GD een verificatieonderzoek laten uitvoeren bij het bemonsterde stalkoppel opfokleghennen. Een verificatieonderzoek wordt vrijwel altijd uitgevoerd. Indien de voorzitter besluit tot een verificatieonderzoek, dan voert GD dit vervolgens zo spoedig mogelijk uit. Per stalkoppel opfokleghennen worden zes gepoolde mestmonsters van ieder tenminste 50 cloacaswabs genomen. Wanneer het stalkoppel opfokleghennen is gevaccineerd tegen Salmonella Enteritidis, worden negen gepoolde mestmonsters van ieder 50 cloacaswabs genomen. Tevens worden per stalkoppel nog aselect vijf opfokleghennen meegenomen naar het laboratorium. Deze worden door GD onderzocht op de aanwezigheid van anti-microbiële stoffen of een bacteriegroeiremmend effect.  
+Nadat de ondernemer aan de voorzitter en aan GD heeft gemeld dat uit de uitslag van de serotypering is gebleken dat in een monster van een stal koppel opfokleghennen Salmonella Enteritidis of Salmonella Typhimurium is aangetoond, kan de voorzitter door GD een verificatieonderzoek laten uitvoeren bij het bemonsterde stal koppel opfokleghennen. Indien de voorzitter besluit tot een verificatieonderzoek, dan voert GD dit vervolgens zo spoedig mogelijk uit. Per stal koppel opfokleghennen worden 300 dieren meegenomen. Van deze 300 dieren worden de eileiders en blinde darmen (in 60 poolmonsters van elk 5 eileiders en blinde darmen) onderzocht op de aanwezigheid van Salmonella Enteritidis en Salmonella Typhimurium. Tevens worden per stalkoppel nog aselect vijf opfokleghennen meegenomen naar het laboratorium. Deze worden door GD onderzocht op de aanwezigheid van anti-microbiële stoffen of een bacteriegroeiremmend effect.  
 

@@ -5,7 +5,7 @@
 De Minister van Volksgezondheid, Welzijn en Sport,  
 Handelende in overeenstemming met de Ministers van Landbouw, Natuur en Voedselkwaliteit, en van Financiën;
 
-Gelet op [artikel 25, derde lid](../../../../../../../../wet/warenwet/BWBR0001969/README.md), en [artikel 25a, vierde lid, van de Warenwet](../../../../../../../../wet/warenwet/BWBR0001969/README.md);
+Gelet op artikel 25, derde lid, en artikel 25a, vierde lid, van de Warenwet;
 Besluit:    
 
 ### Artikel  1  
@@ -16,39 +16,33 @@ a. *verordening (EG) 852/2004*: verordening (EG) nr. 852/2004 van het Europees P
 
 b. *verordening (EG) 853/2004*: verordening (EG) nr. 853/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEU L 139 en L 226);  
 
-c. *VWA*: de Voedsel en Waren Autoriteit;  
+c. *NVWA*: de Nederlandse Voedsel- en Warenautoriteit;  
 
-d. *AID*: de Algemene Inspectiedienst;  
+d. *het COKZ*: de stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel;  
 
-e. *het COKZ*: de stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel;  
+e.  vervallen door vernummering;   
 
-f. *het CPE*: de stichting Controlebureau voor Pluimvee, Eieren en Eiproducten;  
+f. *primaire bedrijven*: inrichtingen waarop bijlage I van verordening (EG) 852/2004 van toepassing is en waar geen eieren, eiproducten, rauwe melk of zuivelproducten worden geproduceerd, bereid, verpakt of geëtiketteerd;  
 
-g. *primaire bedrijven*: inrichtingen waarop bijlage I van verordening (EG) 852/2004 van toepassing is en waar geen eieren, eiproducten, rauwe melk of zuivelproducten worden geproduceerd, bereid, verpakt of geëtiketteerd;  
+g. *zuivelinrichtingen*: inrichtingen waar rauwe melk of zuivelproducten worden geproduceerd, bereid, verpakt of geëtiketteerd, bedoeld in bijlage III, sectie IX, van verordening (EG) 853/2004;  
 
-h. *zuivelinrichtingen*: inrichtingen waar rauwe melk of zuivelproducten worden geproduceerd, bereid, verpakt of geëtiketteerd, bedoeld in bijlage III, sectie IX, van verordening (EG) 853/2004;  
+h. *ei- en eiproducteninrichtingen*: inrichtingen waar eieren of eiproducten worden geproduceerd, bereid, verpakt of geëtiketteerd, bedoeld in bijlage III, sectie X, van verordening (EG) 853/2004;  
 
-i. *ei- en eiproducteninrichtingen*: inrichtingen waar eieren of eiproducten worden geproduceerd, bereid, verpakt of geëtiketteerd, bedoeld in bijlage III, sectie X, van verordening (EG) 853/2004;  
-
-j. *gemengde bedrijven*: een combinatie van onder g, h, of i bedoelde bedrijven.    
+i. *gemengde bedrijven*: een combinatie van onder g, h, of i bedoelde bedrijven.    
 
 ### Artikel  2  
 
-1.  Het toezicht op de naleving van de bij of krachtens de [Warenwet](../../../../../../../../wet/warenwet/BWBR0001969/README.md) gestelde regels inzake eet- en drinkwaren wordt uitgeoefend door controleambtenaren van de VWA.   
-2.  Onverminderd het eerste lid wordt het toezicht op de naleving van de bij of krachtens de [Warenwet](../../../../../../../../wet/warenwet/BWBR0001969/README.md) gestelde regels inzake eet- en drinkwaren tevens uitgeoefend door: 
+1.  Het toezicht op de naleving van de bij of krachtens de Warenwet gestelde regels inzake eet- en drinkwaren wordt uitgeoefend door controleambtenaren van de NVWA.   
+2.  Onverminderd het eerste lid wordt het toezicht op de naleving van de bij of krachtens de Warenwet gestelde regels inzake eet- en drinkwaren tevens uitgeoefend door: 
 
-a. controleurs van de AID bij uitsluitend primaire bedrijven;  
+a. controleurs van het COKZ bij uitsluitend zuivelinrichtingen en ei- en eiproducteninrichtingen;  
 
-b. controleurs van het COKZ bij uitsluitend zuivelinrichtingen;  
+b. controleurs van hetzij de NVWA, hetzij het COKZ bij gemengde bedrijven;  
 
-c. controleurs van het CPE bij uitsluitend ei- en eiproducteninrichtingen;  
+c. ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, bij het vanuit derde landen binnen Nederlands grondgebied brengen van eet- en drinkwaren;  
 
-d. controleurs van hetzij de AID, hetzij het COKZ, hetzij het CPE, bij gemengde bedrijven;  
-
-e. ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, bij het vanuit derde landen binnen Nederlands grondgebied brengen van eet- en drinkwaren;  
-
-f. inspectieambtenaren van het Staatstoezicht op de Mijnen, bij uitsluitend mijnbouwinstallaties.     
-3.  De inspecteur-generaal van de VWA stelt na overleg met de directeuren van de AID, het COKZ en het CPE, de taakverdeling vast voor het toezicht op gemengde bedrijven, bedoeld in het tweede lid, onder d.   
+d. inspectieambtenaren van het Staatstoezicht op de Mijnen, bij uitsluitend mijnbouwinstallaties.     
+3.  De inspecteur-generaal van de NVWA stelt na overleg met het COKZ de taakverdeling vast voor het toezicht op gemengde bedrijven, bedoeld in het tweede lid, onder b.   
 
 ### Artikel  3  
 

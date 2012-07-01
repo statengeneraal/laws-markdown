@@ -391,11 +391,9 @@ c. de werknemer wiens werkloosheid is ontstaan na het ontstaan van het recht op 
 
 a. die activiteiten niet langer duren dan zes maanden;  
 
-b. die activiteiten blijkens een intentieverklaring een reëel uitzicht bieden op een aansluitende dienstbetrekking voor ten minste zes maanden;  
+b. die activiteiten blijkens een intentieverklaring een reëel uitzicht bieden op een aansluitende dienstbetrekking voor ten minste zes maanden; en  
 
-c. die activiteiten plaatsvinden in een lidstaat van de Europese Unie, in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of in Zwitserland; en  
-
-d. het bedrag dat het Uitvoeringsinstituut werknemersverzekeringen is verschuldigd terzake van die activiteiten niet hoger is dan het op grond van [artikel 4.2, derde lid, van het Besluit SUWI](../../../AMvB/besluit/suwi/BWBR0013267/README.md) vastgestelde bedrag.     
+c. die activiteiten plaatsvinden in een lidstaat van de Europese Unie, in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of in Zwitserland.     
 10.  Voor de toepassing van dit artikel wordt onder intentieverklaring verstaan: een ondertekende verklaring waarin de ondertekenaar aangeeft dat hij het voornemen heeft om een werknemer die meewerkt aan activiteiten die bevorderlijk zijn voor zijn inschakeling in de arbeid als bedoeld in de hoofdstukken VI en XA, na afloop van die activiteiten in dienst te nemen.   
 
 ### Artikel  20  
@@ -543,9 +541,9 @@ i. de hem op grond van hoofdstuk VI opgelegde verplichtingen na te komen; en
 
 j. de voorschriften op te volgen die het UWV stelt in verband met het genieten van vakantie tijdens de duur van de uitkering;  
 
-k. mee te werken aan het opstellen van de reïntegratievisie, bedoeld in [artikel 30a, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), en het reïntegratieplan, bedoeld in [artikel 30a, derde lid, van die wet](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+k. mee te werken aan het opstellen van de re-integratievisie, bedoeld in [artikel 30a, vierde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), en het re-integratieplan, bedoeld in [artikel 30a, zesde lid, van die wet](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
 
-l. te voldoen aan de verplichtingen die zijn opgenomen in de reïntegratievisie, bedoeld in [artikel 30a, eerste lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), en het reïntegratieplan, bedoeld in [artikel 30a, derde lid, van die wet](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+l. te voldoen aan de verplichtingen die zijn opgenomen in de re-integratievisie, bedoeld in [artikel 30a, vierde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), en het re-integratieplan, bedoeld in [artikel 30a, zesde lid, van die wet](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
 
 m. bij deelname aan een re-integratietraject de reden van het niet naleven van zijn re-integratieverplichtingen onmiddellijk aan het re-integratiebedrijf mee te delen.     
 2.  Het UWV is bevoegd regels te stellen met betrekking tot het tijdstip van registratie, bedoeld in het eerste lid, onderdeel d.   
@@ -1064,17 +1062,15 @@ c. onder werknemer ook verstaan: de persoon die uitsluitend omdat hij 65 jaar of
 
 ### Artikel  72a  
 
-1.  De overheidswerkgever heeft tot taak de inschakeling in de arbeid te bevorderen van: 
+De overheidswerkgever heeft tot taak de inschakeling in de arbeid te bevorderen van: 
 
 a. een persoon die uit hoofde van een dienstbetrekking als overheidswerknemer met die overheidswerkgever recht heeft op uitkering op grond van hoofdstuk II;  
 
-b. een overheidswerknemer die kan aantonen dat de dienstbetrekking binnen vier maanden zal eindigen en van wie naar het oordeel van het UWV redelijkerwijs valt aan te nemen dat hij recht zal hebben op een uitkering op grond van hoofdstuk II.     
-2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het ten behoeve van een persoon als bedoeld in het eerste lid sluiten van een individuele reïntegratieovereenkomst met een reïntegratiebedrijf.   
+b. een overheidswerknemer die kan aantonen dat de dienstbetrekking binnen vier maanden zal eindigen en van wie naar het oordeel van het UWV redelijkerwijs valt aan te nemen dat hij recht zal hebben op een uitkering op grond van hoofdstuk II.    
 
 ### Artikel  73  
 
-1.  De werknemer die recht heeft op een uitkering op grond van deze wet heeft recht op ondersteuning bij arbeidsinschakeling en, met inachtneming van de daarvoor geldende wettelijke bepalingen, op de naar het oordeel van het UWV of de overheidswerkgever noodzakelijk geachte voorziening gericht op arbeidsinschakeling.   
-2.  Voor de toepassing van het eerste lid wordt voor personen die blijkens een indicatiebeschikking of herindicatiebeschikking tot de doelgroep behoren van de [Wet sociale werkvoorziening](../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) onder een voorziening gericht op arbeidsinschakeling mede verstaan een voorziening gericht op het verkrijgen van arbeid in een dienstbetrekking als bedoeld in de [artikelen 2](../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) en [7 van die wet](../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md).   
+De werknemer die recht heeft op een uitkering op grond van deze wet heeft recht op ondersteuning bij arbeidsinschakeling.  
 
 ### Artikel  75  
 
@@ -1355,7 +1351,8 @@ Hoofdstuk IV en de daarop berustende bepalingen zoals deze luidden op de dag voo
 
 ### Artikel  130v  
 
-De loonkostensubsidie die voor de dag van inwerkingtreding van de [Wet stimulering arbeidsparticipatie](../../../wet/wet/stimulering/arbeidsparticipatie/BWBR0025045/README.md), op grond van het [Tijdelijk besluit brugbanen herbeoordeelden](../../../AMvB/tijdelijk/besluit/brugbanen/herbeoordeelden/BWBR0023551/README.md), is verstrekt aan een werkgever ten behoeve van een persoon die op de dag voor aanvang van die gesubsidieerde dienstbetrekking recht had op een uitkering op grond van deze wet en geen recht had op een arbeidsongeschiktheidsuitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) of de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), wordt aangemerkt als loonkostensubsidie als bedoeld in artikel 78a.  
+1.  Ten aanzien van dienstbetrekkingen die voorafgaand aan 1 januari 2012 zijn ingegaan en waarvoor voorafgaand aan 1 januari 2012 een aanvraag voor subsidie voor loonkosten is ingediend, blijven de artikelen 78a en 78b van deze wet, de daarop berustende bepalingen en [artikel 30e van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) zoals die luidden op 31 december 2011 gelden.   
+2.  Dit artikel vervalt vijf jaar na de dag waarop artikel V, onderdeel E, van de Wet van 21 mei 2012 tot wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen in verband met aanpassing van de dienstverlening van het Uitvoeringsinstituut werknemersverzekeringen aan werkgevers en werkzoekenden en de opheffing van de Raad voor Werk en Inkomen als publiekrechtelijke rechtspersoon met een wettelijke taak en van de Werkloosheidswet en enige andere wetten in verband met de beëindiging van de inzet van het re-integratiebudget Werkloosheidswet en van loonkostensubsidies in werking is getreden.   
 
 ### Hoofdstuk  XI  
 

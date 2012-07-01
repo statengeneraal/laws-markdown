@@ -80,7 +80,7 @@ a. financiële ondernemingen die ingevolge de [Wet op het financieel toezicht](.
 
 b. financiële ondernemingen die ingevolge de [Wet op het financieel toezicht](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland rechten van deelneming in een beleggingsinstelling mogen aanbieden of beheerder van een beleggingsinstelling mogen zijn,  
 
-c. de geldtransactiekantoren die zijn geregistreerd op grond van [artikel 2 van de Wet inzake de geldtransactiekantoren](../../../../wet/wet/inzake/de/geldtransactiekantoren/BWBR0013816/README.md),  
+c. financiële ondernemingen die ingevolge de [Wet op het financieel toezicht](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van wisselinstelling mogen uitoefenen,  
 
 d. financiële ondernemingen die ingevolge de [Wet op het financieel toezicht](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland beleggingsdiensten mogen verlenen,  
 
@@ -94,7 +94,7 @@ h. de trustkantoren die zijn ingeschreven in het register, bedoeld in [artikel 7
 
 i. financiële ondernemingen die ingevolge de [Wet op het financieel toezicht](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van elektronischgeldinstelling mogen uitoefenen,  
 
-j. financiële ondernemingen, niet zijnde kredietinstellingen, die ingevolge de [Wet op het financieel toezicht](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van betaaldienstverlener mogen uitoefenen.     
+j. financiële ondernemingen die ingevolge de [Wet op het financieel toezicht](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van betaaldienstverlener mogen uitoefenen.     
 3.  Ten aanzien van personen die door een op grond van het tweede lid aangewezen rechtspersoon belast zijn met het toezicht op de naleving van het bij of krachtens deze afdeling bepaalde zijn de bepalingen van [hoofdstuk 5, afdeling 5.2, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
 4.  Van een besluit tot aanwijzing op grond van het eerste of tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
 
@@ -115,10 +115,9 @@ Onze Minister van Financiën kan een last onder dwangsom opleggen ter zake van o
 ### Artikel  10d  
 
 1.  Onze Minister van Financiën kan een bestuurlijke boete opleggen ter zake van overtreding van regels, gesteld krachtens artikel 10b.   
-2.  Ten aanzien van de ondernemingen en instellingen, bedoeld in artikel 10, tweede lid, onder a, b, d, f, g, h en i, is [artikel 1:85 van de Wet op het financieel toezicht](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van overeenkomstige toepassing.   
-3.  Ten aanzien van de instellingen, bedoeld in artikel 10, tweede lid, onder c, zijn de [artikelen 26](../../../../wet/wet/inzake/de/geldtransactiekantoren/BWBR0013816/README.md) en [27](../../../../wet/wet/inzake/de/geldtransactiekantoren/BWBR0013816/README.md) en de categorie-indeling in [artikel 2 van de bijlage](../../../../wet/wet/inzake/de/geldtransactiekantoren/BWBR0013816/README.md), bedoeld in [artikel 22, van de Wet inzake de geldtransactiekantoren](../../../../wet/wet/inzake/de/geldtransactiekantoren/BWBR0013816/README.md) van overeenkomstige toepassing.   
-4.  Ten aanzien van de instellingen, bedoeld in artikel 10, tweede lid, onder e, zijn [artikel 183](../../../../wet/pensioenwet/BWBR0020809/README.md) en [184 van de Pensioenwet](../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 178](../../../../wet/pensioenwet/BWBR0020809/README.md) en [179 van de Wet verplichte beroepspensioenregeling](../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), en de categorie-indeling op grond van de algemene maatregel van bestuur, bedoeld in [artikel 179 van de Pensioenwet](../../../../wet/pensioenwet/BWBR0020809/README.md), en de algemene maatregel van bestuur, bedoeld in [artikel 174 van de Wet verplichte beroepspensioenregeling](../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) van overeenkomstige toepassing.   
-5.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de uitoefening van de bevoegdheid, bedoeld in het eerste lid.   
+2.  Ten aanzien van de ondernemingen en instellingen, bedoeld in artikel 10, tweede lid, onder a, b, c, d, f, g, h en i, is [artikel 1:85 van de Wet op het financieel toezicht](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van overeenkomstige toepassing.   
+3.  Ten aanzien van de instellingen, bedoeld in artikel 10, tweede lid, onder e, zijn [artikel 183](../../../../wet/pensioenwet/BWBR0020809/README.md) en [184 van de Pensioenwet](../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 178](../../../../wet/pensioenwet/BWBR0020809/README.md) en [179 van de Wet verplichte beroepspensioenregeling](../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), en de categorie-indeling op grond van de algemene maatregel van bestuur, bedoeld in [artikel 179 van de Pensioenwet](../../../../wet/pensioenwet/BWBR0020809/README.md), en de algemene maatregel van bestuur, bedoeld in [artikel 174 van de Wet verplichte beroepspensioenregeling](../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) van overeenkomstige toepassing.   
+4.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de uitoefening van de bevoegdheid, bedoeld in het eerste lid.   
 
 ### Artikel  10e  
 

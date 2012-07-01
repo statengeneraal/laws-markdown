@@ -114,7 +114,7 @@ c. het verlenen van vrijstellingen en de afgifte van vrijstellingscertificaten, 
 
 ### Artikel  15  
 
-Een slachterij die op grond van artikel 11, eerste lid, van verordening (EG) 543/2008 het houderijsysteem bij de etikettering van zijn producten vermeldt, wordt overeenkomstig artikel 12, eerste lid, van die verordening geregistreerd bij de Stichting CPE.  
+Een slachterij die op grond van artikel 11, eerste lid, van verordening (EG) 543/2008 het houderijsysteem bij de etikettering van zijn producten vermeldt, wordt overeenkomstig artikel 12, eerste lid, van die verordening geregistreerd bij de Stichting COKZ.  
 
 ### Artikel  16  
 
@@ -160,7 +160,7 @@ c. de doorzending aan de Commissie van verzoeken tot annulering van een registra
 
 ### Artikel  21  
 
-De producten, bedoeld in [artikel 16, aanhef, van het besluit](../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md) zijn: 
+Als producten als bedoeld in [artikel 16, eerste lid, onderdeel a, van het besluit](../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md) worden aangewezen: 
 
 a. Boeren-Leidse met sleutels in relatie tot het productdossier Boeren-Leidse met sleutels op grond van verordening (EG) 510/2006;  
 
@@ -220,21 +220,52 @@ Als personen belast met het toezicht op de naleving als bedoeld in [artikel 15, 
 
 a. de keurmeesters van de Stichting BKD;  
 
-b. de keurmeesters en controleurs van de Stichting COKZ;  
+b. de controleurs, inspecteurs en keurmeesters van de Stichting COKZ;  
 
-c. de controleurs en inspecteurs van de Stichting CPE;  
+c. de daartoe gekwalificeerde medewerkers van de Stichting KCB;  
 
-d. de daartoe gekwalificeerde medewerkers van de Stichting KCB;  
+d. de inspecteurs van de Stichting Skal;  
 
-e. de inspecteurs van de Stichting Skal;  
-
-f. de ambtenaren van de Voedsel en Waren Autoriteit te ’s-Gravenhage;  
-
-g. de ambtenaren van de Algemene Inspectiedienst te ’s-Gravenhage.    
+e. de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit te ’s-Gravenhage;    
 
 ### Hoofdstuk  8  
 
 ####Overige bepalingen
+
+### Artikel  26a  
+
+In dit hoofdstuk wordt verstaan onder marktdeelnemer: iedere natuurlijke persoon of rechtspersoon die bedrijfsmatig betrokken is bij het in de handel brengen van producten.  
+
+### Artikel  26b  
+
+1.  Een controle-instelling kan de tarieven, bedoeld in [artikel 11, eerste lid, van de Landbouwkwaliteitswet](../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md), in rekening brengen bij aan haar toezicht of keuring onderworpen marktdeelnemers.   
+2.  De controle-instelling kan de tarieven, bedoeld in het eerste lid, in rekening brengen ter dekking van de kosten die verband houden met de activiteiten ten behoeve van het toezicht of de keuring waarmee deze op grond van de [artikelen 11 tot en met 16 van het Landbouwkwaliteitsbesluit 2007](../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md) of [artikel 10 van het Landbouwkwaliteitsbesluit zuivelproducten](../../../../AMvB/landbouwkwaliteitsbesluit/zuivelproducten/BWBR0009770/README.md) is belast. De tarieven kunnen in rekening worden gebracht in de vorm van: 
+
+a. een retributie op basis van de activiteiten die worden verricht door of in opdracht van de controle-instelling ten behoeve van het toezicht of de keuring bij de desbetreffende marktdeelnemer, of  
+
+b. een heffing op basis van het verrichten van activiteiten door marktdeelnemers als gevolg waarvan zij onderworpen zijn aan het toezicht of de keuring door de controle-instelling.     
+3.  Een retributie, bedoeld in het tweede lid, onderdeel a, kan worden gerelateerd aan: 
+
+1°. de tijd besteed aan de activiteiten;  
+
+2°. het aantal of het gewicht van de producten of partijen producten waarop de activiteiten betrekking hebben;  
+
+3°. de oppervlakte van het areaal waarop de activiteiten betrekking hebben, of  
+
+4°. documenten die zijn verstrekt.     
+4.  Een heffing, bedoeld in het tweede lid, onderdeel b, kan worden gerelateerd aan: 
+
+1°. de omzet van de marktdeelnemer, behaald met de activiteiten die aan het toezicht of de keuring door de controle-instelling zijn onderworpen;  
+
+2°. het aantal locaties ten behoeve van de aan het toezicht of de keuring onderworpen activiteiten van de marktdeelnemer;  
+
+3°. het aantal producten waarop de aan het toezicht of de keuring onderworpen activiteiten van de marktdeelnemer betrekking hebben, of  
+
+4°. de omvang van het risico op niet-naleving van het bij of krachtens de wet bepaalde door de desbetreffende marktdeelnemer.     
+
+### Artikel  26c  
+
+Een controle-instelling maakt de tarieven, bedoeld in [artikel 11, eerste lid, van de wet](../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md), bekend op haar website.  
 
 ### Artikel  27  
 

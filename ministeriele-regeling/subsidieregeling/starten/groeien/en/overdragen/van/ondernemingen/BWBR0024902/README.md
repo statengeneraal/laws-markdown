@@ -54,7 +54,7 @@ a. bedrijfsborgstellingskredieten;
 
 b. bodemsaneringsborgstellingskredieten.     
 2.  De subsidie wordt verstrekt in de vorm van een borgstelling voor de terugbetaling van een krediet dat de financier op grond van een kredietovereenkomst aan MKB-ondernemer heeft verstrekt voor de duur van de kredietovereenkomst.   
-3.  In aanvulling op het eerste lid kan de minister ook subsidie verstrekken aan een financier voor het sluiten van een kredietovereenkomst met een MKB-ondernemer die gevestigd is in het openbaar lichaam Bonaire, Sint Eustatius of Saba.   
+3.  In aanvulling op het eerste lid kan de minister ook subsidie verstrekken aan een financier voor het sluiten van een kredietovereenkomst met een MKB-ondernemer die gevestigd is in het openbaar lichaam Bonaire, Sint Eustatius of Saba. Artikel 2.5, eerste lid, onderdeel a, onder 1, is niet van toepassing op deze MKB-ondernemer.   
 
 ### Artikel  2.4  
 
@@ -608,7 +608,7 @@ De geldlening die op grond van de overeenkomst van geldlening ten hoogste kan wo
 ### Artikel  4.8  
 
 1.  Er is een Adviescommissie seed capital technostarters die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in de [artikelen 22](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en [24 van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) en in artikel 4.9, en de rangschikkingscriteria, bedoeld in artikel 4.10.   
-2.  De commissie bestaat uit ten minste vier en ten hoogste zes leden.   
+2.  De commissie bestaat uit ten minste vier en ten hoogste negen leden.   
 3.  De voorzitter en de andere leden worden door de minister voor een termijn van ten hoogste drie jaar benoemd.   
 
 ### Artikel  4.9  
@@ -705,7 +705,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 – *onderwijsinstelling:* een bekostigde instelling voor hoger onderwijs als bedoeld in [artikel 1.8, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
 
-– 
+–  *starter:*  
 
 a. een MKB-ondernemer: 
 
@@ -1175,7 +1175,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 – *veiligheidsmaatregelen:* de in een veiligheidsscan genoemde maatregelen ten behoeve van de preventie van criminaliteit;  
 
-– *veiligheidsscan:* een door een veiligheidsadviseur uitgevoerd onderzoek naar te nemen maatregelen ten behoeve van de preventie van criminaliteit in één of meer vestigingen van een MKB-ondernemer of in de voor de bedrijfsvoering van een MKB-ondernemer relevante bedrijfsmiddelen en waarin in ieder geval wordt ingegaan op de te nemen organisatorische, bouwkundige en elektronische maatregelen en hun onderlinge samenhang.    
+– *veiligheidsscan:* een door een veiligheidsadviseur uitgevoerd onderzoek naar te nemen maatregelen ten behoeve van de preventie van criminaliteit in één of meer vestigingen van een MKB-ondernemer of in de voor de bedrijfsvoering van een MKB-ondernemer relevante bedrijfsmiddelen en waarin in ieder geval wordt ingegaan op de te nemen organisatorische, bouwkundige, elektronische en digitale maatregelen en hun onderlinge samenhang.    
 
 ### Artikel  9.2  
 
@@ -1201,19 +1201,29 @@ De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanv
 
 1.  De minister beslist afwijzend op een aanvraag indien: 
 
-a. aan de MKB-ondernemer voor dezelfde vestiging reeds eerder subsidie is verstrekt op grond van dit hoofdstuk;  
+a. aan de MKB-ondernemer voor dezelfde vestiging of hetzelfde bedrijfsmiddel reeds eerder subsidie is verstrekt op grond van dit hoofdstuk;  
 
 b. de MKB-ondernemer geen Kamer van Koophandel-nummer heeft;  
 
 c. de aanvrager een MKB-ondernemer zonder vestigingen is, die meer dan tien fulltime-equivalents werknemers in dienst heeft;  
 
-d. de aanvrager een MKB-ondernemer met minder dan zes vestigingen is en bij één van die vestigingen meer dan tien fulltime-equivalents werknemers in dienst zijn;  
+d. de aanvrager een MKB-ondernemer met minder dan zes vestigingen is en bij één of meer van die vestigingen meer dan tien fulltime-equivalents werknemers in dienst zijn;  
 
 e. de MKB-ondernemer meer dan vijf vestigingen heeft;  
 
 f. de veiligheidsscan niet wordt uitgevoerd ten behoeve van de bedrijfsuitoefening van de MKB-ondernemer in Nederland;  
 
-g. de veiligheidsscan geen betrekking heeft op de bedrijfsuitoefening van de MKB-ondernemer.     
+g. de veiligheidsscan geen betrekking heeft op de bedrijfsuitoefening van de MKB-ondernemer;  
+
+h. de aanvrager geen KvK-nummer heeft voor de vestiging waarvoor subsidie wordt aangevraagd;  
+
+i. reeds eerder subsidie is verstrekt op grond van dit hoofdstuk voor een vestiging op hetzelfde adres van een tot de groep van de MKB-ondernemer behorende onderneming;  
+
+j. de adresgegevens van de vestiging in het handelsregister niet overeenkomen met de adresgegevens van de vestiging in de aanvraag;  
+
+k. de veiligheidsscan op het moment van de ontvangst van de aanvraag ouder is dan negen maanden;  
+
+l. reeds subsidie is verstrekt door de Minister van Veiligheid en Justitie.     
 2.  De afwijzingsgronden, genoemd in [artikel 23, onderdelen b, c, d, e, f en h, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) zijn niet van toepassing.   
 
 ### §  3  
@@ -1251,10 +1261,11 @@ De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanv
 
 a. geen subsidie aan de MKB-ondernemer is verstrekt op grond van artikel 9.3;  
 
-b. de aanvraag om subsidie niet is gedaan binnen zes maanden na de aanvraag van de MKB-ondernemer om subsidie op grond van artikel 9.3;  
+b. de aanvraag om subsidie niet is ontvangen binnen zes maanden na de datum van de beschikking tot subsidieverlening;  
 
 c. aan de MKB-ondernemer reeds subsidie is verstrekt voor het treffen van één of meer veiligheidsmaatregelen die in dezelfde veiligheidsscan zijn opgenomen.     
-2.  De minister beslist afwijzend op een aanvraag voor zover: 
+3.  In afwijking van het eerste lid, onder a, wordt de aanvraag niet afgewezen, indien voor de uitgevoerde veiligheidsscan subsidie is verstrekt door de Minister van Veiligheid en Justitie.   
+3.  De minister beslist afwijzend op een aanvraag voor zover: 
 
 a. een veiligheidsmaatregel wettelijk niet is toegestaan;  
 
@@ -1262,7 +1273,11 @@ b. de veiligheidsmaatregelen niet zijn getroffen ten behoeve van de bedrijfsuito
 
 c. de veiligheidsmaatregelen geen betrekking hebben op de bedrijfsuitoefening van de MKB-ondernemer;  
 
-d. de veiligheidsadviseur betrokken is bij de verwezenlijking van de in zijn veiligheidsscan opgenomen veiligheidsmaatregelen.     
+d. de veiligheidsadviseur betrokken is bij de verwezenlijking van de in zijn veiligheidsscan opgenomen veiligheidsmaatregelen;  
+
+e. een veiligheidsmaatregel bestaat uit het plaatsen van een camerabewakingsysteem zonder bijbehorend door de leverancier of installateur voor de vestiging opgesteld organisatorisch plan;  
+
+f. de MKB-ondernemer voorafgaand aan de veiligheidsscan een verplichting is aangegaan met betrekking tot een veiligheidsmaatregel waarvoor subsidie wordt aangevraagd.     
 3.  De afwijzingsgronden, genoemd in [artikel 23, onderdelen b, c, d, e, f en h, van het Kaderbesluit EZ-subsidies](../../../../../../../../../AMvB/kaderbesluit/ez-subsidies/BWBR0024796/README.md) zijn niet van toepassing.   
 
 ### §  4  
@@ -1407,7 +1422,7 @@ h. *kredietovereenkomst:* overeenkomst uit hoofde waarvan:
 
 i. *minister:* de Minister van Economische Zaken, Landbouw en Innovatie;  
 
-j. 
+j.  *starter:*  
 
 1°. een MKB-ondernemer, die een natuurlijk persoon is en die niet langer dan drie jaar een onderneming in stand houdt;  
 
@@ -1415,7 +1430,7 @@ j.
 
 k. *starters-borgstellingskrediet:* bedrijfsborgstellingskrediet dat uitsluitend wordt verstrekt aan een starter;  
 
-l. 
+l.  *uitwinning:*  
 
 1°. uitwinning door de Bank, naar normaal bankgebruik, van de door de MKB-ondernemer aan de Bank verstrekte zekerheden;  
 
@@ -1423,7 +1438,9 @@ l.
 
 3°. executoriale verkoop van de vermogensbestanddelen van de MKB-ondernemer;  
 
-4°. indien het faillissement van de MKB-ondernemer is uitgesproken of aan hem surseance van betaling is verleend de onderhandse of executoriale verkoop van de vermogensbestanddelen van de MKB-ondernemer door of met medewerking van de curator of de bewindvoerder.        
+4°. indien het faillissement van de MKB-ondernemer is uitgesproken of aan hem surseance van betaling is verleend de onderhandse of executoriale verkoop van de vermogensbestanddelen van de MKB-ondernemer door of met medewerking van de curator of de bewindvoerder;    
+
+m. liquiditeitsopslag: een door een financier aan een ondernemer in rekening gebracht percentage van de lening, waarvan de hoogte gelijk is voor alle door de desbetreffende financier op dezelfde dag afgesloten of af te sluiten leningen met dezelfde looptijd. Indien een dergelijk percentage niet beschikbaar is, zal in overleg met de financier een ander redelijk, transparant en verifieerbaar percentage worden vastgesteld.      
 
 ### Artikel  2  
 
@@ -1475,7 +1492,7 @@ l. indien de looptijd van de onder k bedoelde bankfaciliteit ten minste even lan
 
 ####Criteria voor MKB-ondernemer bij verstrekken bedrijfsborgstellingskrediet
 
-Ten tijde van het sluiten van een kredietovereenkomst uit hoofde waarvan een bedrijfsborgstellingskrediet aan een MKB-ondernemer wordt verstrekt, moet aan de volgende criteria zijn voldaan: 
+1. Ten tijde van het sluiten van een kredietovereenkomst uit hoofde waarvan een bedrijfsborgstellingskrediet aan een MKB-ondernemer wordt verstrekt, moet aan de volgende criteria zijn voldaan: 
 
 a. de MKB-ondernemer: 
 
@@ -1500,6 +1517,8 @@ a. de MKB-ondernemer:
 b. er is een tekort aan zekerheden bij de MKB-ondernemer, waardoor de Bank naar normaal bankgebruik het krediet niet geheel voor eigen rekening en risico kan verstrekken;  
 
 c. de rentabiliteits- en continuïteitsperspectieven van de onderneming zijn bevredigend.    
+
+2. Het eerste lid, onderdeel a, onder 4, eerste gedachtenstreepje, is niet van toepassing op een MKB-ondernemer die gevestigd is in het openbaar lichaam Bonaire, Sint Eustatius of Saba.    
 
 ### Artikel  5  
 
@@ -1663,7 +1682,7 @@ b. indien de Bank in het kader van het verzoek gegevens heeft verstrekt, waarvan
 
 4. Betalingen door de Staat aan de Bank en door de Bank aan de Staat geschieden door debitering respectievelijk creditering door de Bank van een rekening die de Bank zal aanhouden ten name van het ministerie van Economische Zaken, Landbouw en Innovatie, met vermelding van 'verliesdeclaraties'.  
 
-5. Over het debet- of creditsaldo van de rekening zal een rente berekend worden gelijk aan de in het Financieele Dagblad gepubliceerde basisrente.    
+5. Over het debet- of creditsaldo van de rekening zal een rente berekend worden gelijk aan de basisrente.    
 
 ### Artikel  14  
 
@@ -1683,15 +1702,17 @@ b. indien de Bank in het kader van het verzoek gegevens heeft verstrekt, waarvan
 
 ### Artikel  16  
 
-####Terugbetalen opbrengsten bij verzoek betaling bedrijfsborgstellingskrediet
+####(Terug)betalen bedrijfsborgstellingskrediet
 
 1. De Bank betaalt de vanaf het moment van de indiening van een verzoek om betaling als bedoeld in artikel 11 ontvangen opbrengsten die in mindering komen op het bedrijfsborgstellingskrediet binnen twee maanden na ontvangst aan de Staat.  
 
 2. Voor zover de opbrengsten na de aanvang van de periode, bedoeld in artikel 14, eerste lid, ontvangen zijn wordt de in het eerste lid bedoelde betalingsverplichting beperkt tot 80 procent van de ontvangen opbrengsten, tenzij opbrengsten niet ontvangen zijn uit hoofde van uitwinning.  
 
-3. De Bank zal de rekening, bedoeld in artikel 13, vierde lid, per de datum van verzending van het verzoek, bedoeld in artikel 11, en binnen twee maanden na die datum, debiteren voor het bedrag waarvoor betaling wordt gevraagd, vermeerderd met een rente als bedoeld in artikel 13, vijfde lid, over de periode die verstreken is sinds de dag waarop de vermindering, bedoeld in artikel 9, op grond van artikel 10 is geschorst.  
+3. De Bank zal de rekening, bedoeld in artikel 13, vierde lid, per de datum van verzending van het verzoek, bedoeld in artikel 11, en binnen twee maanden na die datum, debiteren voor het bedrag waarvoor betaling wordt gevraagd, vermeerderd met een rente over de periode die verstreken is sinds de dag waarop de vermindering, bedoeld in artikel 9, op grond van artikel 10 is geschorst.  
 
-4. De Bank zal de rekening op de datum van de reactie van de minister, bedoeld in artikel 11, derde lid, en binnen twee maanden na die datum crediteren of debiteren voor respectievelijk het voor de Staat positieve of negatieve verschil tussen het bedrag waarvoor de rekening ingevolge het derde lid is gedebiteerd en het door de Staat blijkens de reactie, bedoeld in artikel 11, verschuldigde bedrag, vermeerderd met een over dat verschil te berekenen rente als bedoeld in artikel 13, vijfde lid, over de periode die is verstreken sinds de creditering of debitering, bedoeld in het derde lid, en de datum waarop de reactie is ontvangen.    
+4. De Bank zal de rekening op de datum van de reactie van de minister, bedoeld in artikel 11, derde lid, en binnen twee maanden na die datum crediteren of debiteren voor respectievelijk het voor de Staat positieve of negatieve verschil tussen het bedrag waarvoor de rekening ingevolge het derde lid is gedebiteerd en het door de Staat blijkens de reactie, bedoeld in artikel 11, verschuldigde bedrag, vermeerderd met een over dat verschil te berekenen rente over de periode die is verstreken sinds de creditering of debitering, bedoeld in het derde lid, en de datum waarop de reactie is ontvangen.  
+
+5. De rente, bedoeld in het derde en vierde lid, is gelijk aan de zes maands Euribor op het moment van de indiening van een aanvraag als bedoeld in artikel 11, vermeerderd met de door de bank gehanteerde liquiditeitsopslag.    
 
 ### Artikel  17  
 
@@ -1874,7 +1895,7 @@ h. *kredietovereenkomst:* overeenkomst uit hoofde waarvan:
 
 i. *minister:* de Minister van Economische Zaken, Landbouw en Innovatie;  
 
-j. 
+j.  *starter:*  
 
 1°. een MKB-ondernemer, die een natuurlijk persoon is en die niet langer dan drie jaar een onderneming in stand houdt;  
 
@@ -1882,7 +1903,7 @@ j.
 
 k. *starters-borgstellingskrediet:* bedrijfsborgstellingskrediet dat uitsluitend wordt verstrekt aan een starter;  
 
-l. 
+l.  *uitwinning:*  
 
 1°. uitwinning door de Bank, naar normaal bankgebruik, van de door de MKB-ondernemer aan de Bank verstrekte zekerheden;  
 
@@ -1890,7 +1911,9 @@ l.
 
 3°. executoriale verkoop van de vermogensbestanddelen van de MKB-ondernemer;  
 
-4°. indien het faillissement van de MKB-ondernemer is uitgesproken of aan hem surseance van betaling is verleend de onderhandse of executoriale verkoop van de vermogensbestanddelen van de MKB-ondernemer door of met medewerking van de curator of de bewindvoerder.        
+4°. indien het faillissement van de MKB-ondernemer is uitgesproken of aan hem surseance van betaling is verleend de onderhandse of executoriale verkoop van de vermogensbestanddelen van de MKB-ondernemer door of met medewerking van de curator of de bewindvoerder;    
+
+m. liquiditeitsopslag: een door een financier aan een ondernemer in rekening gebracht percentage van de lening, waarvan de hoogte gelijk is voor alle door de desbetreffende financier op dezelfde dag afgesloten of af te sluiten leningen met dezelfde looptijd. Indien een dergelijk percentage niet beschikbaar is, zal in overleg met de financier een ander redelijk, transparant en verifieerbaar percentage worden vastgesteld.      
 
 ### Artikel  2  
 
@@ -1942,7 +1965,7 @@ l. indien de looptijd van de onder k bedoelde bankfaciliteit ten minste even lan
 
 ####Criteria voor MKB-ondernemer bij verstrekken bedrijfsborgstellingskrediet
 
-Ten tijde van het sluiten van een kredietovereenkomst uit hoofde waarvan een bedrijfsborgstellingskrediet aan een MKB-ondernemer wordt verstrekt, moet aan de volgende criteria zijn voldaan: 
+1. Ten tijde van het sluiten van een kredietovereenkomst uit hoofde waarvan een bedrijfsborgstellingskrediet aan een MKB-ondernemer wordt verstrekt, moet aan de volgende criteria zijn voldaan: 
 
 a. de MKB-ondernemer: 
 
@@ -1966,7 +1989,9 @@ a. de MKB-ondernemer:
 
 b. er is een tekort aan zekerheden bij de MKB-ondernemer, waardoor de Bank naar normaal bankgebruik het krediet niet geheel voor eigen rekening en risico kan verstrekken;  
 
-c. de rentabiliteits- en continuïteitsperspectieven van de onderneming zijn bevredigend.    
+c. de rentabiliteits- en continuïteitsperspectieven van de onderneming zijn bevredigend.   
+
+2. Het eerste lid, onderdeel a, onder 4, eerste gedachtenstreepje, is niet van toepassing op een MKB-ondernemer die gevestigd is in het openbaar lichaam Bonaire, Sint Eustatius of Saba.      
 
 ### Artikel  5  
 
@@ -2130,7 +2155,7 @@ b. indien de Bank of de centrale Bank in het kader van het verzoek gegevens heef
 
 4. Betalingen door de Staat aan de Bank en door de Bank aan de Staat geschieden door debitering respectievelijk creditering door de centrale Bank van een rekening die de centrale Bank zal aanhouden ten name van het ministerie van Economische Zaken, Landbouw en Innovatie, met vermelding van 'verliesdeclaraties'.  
 
-5. Over het debet- of creditsaldo van de rekening zal een rente berekend worden gelijk aan de in het Financieele Dagblad gepubliceerde basisrente.    
+5. Over het debet- of creditsaldo van de rekening zal een rente berekend worden gelijk aan de basisrente.    
 
 ### Artikel  14  
 
@@ -2150,15 +2175,17 @@ b. indien de Bank of de centrale Bank in het kader van het verzoek gegevens heef
 
 ### Artikel  16  
 
-####Terugbetalen opbrengsten bij verzoek betaling bedrijfsborgstellingskrediet
+####(Terug)betalen bedrijfsborgstellingskrediet
 
 1. De centrale Bank betaalt de vanaf het moment van de indiening van een verzoek om betaling als bedoeld in artikel 11 ontvangen opbrengsten die in mindering komen op het bedrijfsborgstellingskrediet binnen twee maanden na ontvangst aan de Staat.  
 
 2. Voor zover de opbrengsten na de aanvang van de periode, bedoeld in artikel 14, eerste lid, ontvangen zijn wordt de in het eerste lid bedoelde betalingsverplichting beperkt tot 80 procent van de ontvangen opbrengsten, tenzij opbrengsten niet ontvangen zijn uit hoofde van uitwinning.  
 
-3. De centrale Bank zal de rekening, bedoeld in artikel 13, vierde lid, per de datum van verzending van het verzoek, bedoeld in artikel 11, en binnen twee maanden na die datum, debiteren voor het bedrag waarvoor betaling wordt gevraagd, vermeerderd met een rente als bedoeld in artikel 13, vijfde lid, over de periode die verstreken is sinds de dag waarop de vermindering, bedoeld in artikel 9, op grond van artikel 10 is geschorst.  
+3. De centrale Bank zal de rekening, bedoeld in artikel 13, vierde lid, per de datum van verzending van het verzoek, bedoeld in artikel 11, en binnen twee maanden na die datum, debiteren voor het bedrag waarvoor betaling wordt gevraagd, vermeerderd met een rente over de periode die verstreken is sinds de dag waarop de vermindering, bedoeld in artikel 9, op grond van artikel 10 is geschorst.  
 
-4. De centrale Bank zal de rekening per de datum van de reactie van de minister, bedoeld in artikel 11, derde lid, en binnen twee maanden na die datum crediteren of debiteren voor respectievelijk het voor de Staat positieve of negatieve verschil tussen het bedrag waarvoor de rekening ingevolge het derde lid is gedebiteerd en het door de Staat blijkens de reactie, bedoeld in artikel 11, verschuldigde bedrag, vermeerderd met een over dat verschil te berekenen rente als bedoeld in artikel 13, vijfde lid, over de periode die is verstreken sinds de creditering of debitering, bedoeld in het derde lid, en de datum waarop de reactie is ontvangen.    
+4. De centrale Bank zal de rekening per de datum van de reactie van de minister, bedoeld in artikel 11, derde lid, en binnen twee maanden na die datum crediteren of debiteren voor respectievelijk het voor de Staat positieve of negatieve verschil tussen het bedrag waarvoor de rekening ingevolge het derde lid is gedebiteerd en het door de Staat blijkens de reactie, bedoeld in artikel 11, verschuldigde bedrag, vermeerderd met een over dat verschil te berekenen rente over de periode die is verstreken sinds de creditering of debitering, bedoeld in het derde lid, en de datum waarop de reactie is ontvangen.  
+
+5. De rente, bedoeld in het derde en vierde lid, is gelijk aan de zes maands Euribor op het moment van de indiening van een aanvraag als bedoeld in artikel 11, vermeerderd met de door de bank gehanteerde liquiditeitsopslag.    
 
 ### Artikel  17  
 
@@ -6048,332 +6075,17 @@ Ligt ter inzage bij SenterNovem te Den Haag.
 
 ####behorende bij artikel 9.10, onderdeel a , van de Subsidieregeling starten, groeien en overdragen van ondernemingen
 
-*Veiligheid Kleine Bedrijven*   *Aanvraagformulier*   *versie maart 2010*  Dit is het aanvraagformulier als bedoeld in artikel 9.10, onderdeel a, van de Subsidieregeling starten, groeien en overdragen van ondernemingen (bijlage 9.3) Met dit aanvraagformulier vraagt u subsidie aan voor een maximum van 1.000 euro aan kosten voor de veiligheidsscan(s) en de veiligheidsmaatregelen bij elkaar. (artikel 9.2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen) 
-
-* Per veiligheidsscan bedraagt de subsidie de kosten voor die veiligheidsscan minus 50 euro eigen bijdrage, met een maximum van 300 euro per veiligheidsscan.  
-
-* Voor de veiligheidsmaatregelen bedraagt de subsidie maximaal 700 euro.   Alle bedragen zijn excl. BTW, tenzij u geen BTW in aftrek kunt brengen. Uw aanvraag wordt middels een beschikking (subsidieverlening) bevestigd. 
-
-* U dient de veiligheidsmaatregelen binnen 6 maanden na dagtekening van deze beschikking te realiseren;  
-
-* Deze veiligheidsmaatregelen dienen gebaseerd te zijn op een advies van een gekwalificeerde veiligheidsadviseur. Een overzicht van deze adviseurs kunt u vinden op de Google Maps van het Agentschap NL (zie onze website, linkermenu bij overzicht adviseurs).   Algemene informatie: www.veiligheidkleinebedrijven.nl Vragen graag per e-mail: info@veiligheidkleinebedrijven.nl of vkbinfo@agentschapnl.nl Helpdesk VKB: 088 602 58 58  
-
-| Controle vragen  |
-|:---|
-| Ik heb maximaal vijf vestigingen  | □ ja  | □ nee  |
-| Per vestiging heb ik maximaal 10 fte  | □ ja  | □ nee  |
-| Ik heb nog niet eerder VKB-subsidie ontvangen  | □ ja  | □ nee  |
-| Ik heb in de afgelopen 3 jaren minder dan 200.000 euro de minimis subsidie ontvangen van een overheidsinstelling.  | □ ja  | □ nee  |
-
-*Veiligheid Kleine Bedrijven*   *Aanvraagformulier*   *versie maart 2010*   
-
-| Aanvrager  |
-|:---|
-| Naam bedrijf  | --- |
-| KvK-nummer  | --- |
-| SBI-code  | --- |
-
-| Contactpersoon  |
-|:---|
-| De heer/mevrouw  | □ heer / □ mevrouw  |
-| Voorletters  | --- |
-| Tussenvoegsel(s)  | --- |
-| Achternaam  | --- |
-| Functie  | --- |
-| Postcode  | --- |
-| Adres  | --- |
-| Plaats  | --- |
-| Telefoonnummer  | --- |
-| E-mailadres:  | --- |
-
-| Ondertekening  |
-|:---|
-| □ Aldus naar waarheid ingevuld *(niet vergeten aan te kruisen!)*  |
-| Naam  | --- |
-| Functie  | --- |
-| Plaats en datum  | --- |
-| Handtekening:  | --- |
+![249799](http://wetten.overheid.nl/Illustration/249799)
+![249799](http://wetten.overheid.nl/Illustration/249799)
+![249799](http://wetten.overheid.nl/Illustration/249799)
+![249799](http://wetten.overheid.nl/Illustration/249799)
 
 ### Bijlage  9.4  
 
 ####behorende bij artikel 9.10, onderdeel b , van de Subsidieregeling starten, groeien en overdragen van ondernemingen
 
-*Veiligheid Kleine Bedrijven*   *Aanvraagformulier*   *versie maart 2010*  Dit is het aanvraag formulierformulier, bedoeld in artikel 9.10, onderdeel b, van de Subsidieregeling starten, groeien en overdragen van ondernemingen (bijlage 9.4). Uw aanvraag wordt middels een beschikking bevestigd. 
-
-* De maatregelen dient u binnen 6 maanden na dagtekening van de verleningsbeschikking getroffen te hebben.  
-
-* Deze veiligheidsmaatregelen dienen gebaseerd te zijn op een advies van een gekwalificeerde veiligheidsadviseur.  
-
-* Mocht u al kosten hebben gemaakt of harde verplichtingen zijn aangegaan voor 31 januari 2010, dan kunt u een beroep doen op de zgn. coulance-bepaling zoals opgenomen in artikel 9.11. In dat geval dient u het deel van dit formulier op pagina 3 in te vullen voor de vaststelling en kopieën mee te sturen waarmee u onderbouwt dat u verplichtingen voor veiligheidsmaatregelen bent aangegaan voor 31 januari 2010. *Indien u aan de voorwaarden voldoet wordt de subsidie zonder voorafgaande subsidieverlening vastgesteld*.   Algemene informatie: www.veiligheidkleinebedrijven.nl Vragen graag per e-mail: info@veiligheidkleinebedrijven.nl of vkbinfo@agentschapnl.nl Helpdesk VKB: 088 602 58 58 (op werkdagen van 9.00 tot 12.00)  
-
-| Controle vragen  |
-|:---|
-| Ik heb maximaal vijf vestigingen  | □ ja  | □ nee  |
-| Per vestiging heb ik maximaal 10 fte  | □ ja  | □ nee  |
-| Bent u zich bewust dat deze regeling onder de de-minimis verordening valt?  | □ ja  | □ nee  |
-| Heeft u de afgelopen drie jaar van een bestuursorgaan (overheidsorganisatie) subsidie ontvangen zonder goedkeuring van de Commissie van de Europese Gemeenschappen (zgn. de-minimissteun)?  | □ ja  | □ nee  |
-
-| Aangeven welke aanvraag u wilt doen voor 2010. Hierbij heeft u een aanvraag in 2009 ingediend en doet u een beroep op de 2010 regeling.  |--- |
-|:---|:---|
-| □  | Ingediend in 2009, vanwege budget uitputting is mijn aanvraag niet gehonoreerd; ik ben geen verplichting aangegaan voor 31 januari 2010.  Ik doe een aanvraag voor subsidie in 2010 voor maximaal 1.000 euro. (artikel 9.12  van de Subsidieregeling starten, groeien en overdragen van ondernemingen)  |
-| □  | Ingediend in 2009, vanwege budget uitputting is mijn aanvraag niet gehonoreerd; ik ben verplichtingen aangegaan voor 31 januari 2010 waarvoor ik in totaal (inclusief kosten veiligheidsscan(s)) *minder* dan 1.000 euro subsidie zou ontvangen.  Ik doe een aanvraag voor subsidie in 2010 voor maximaal 1.000 euro. (artikel 9.12  van de Subsidieregeling starten, groeien en overdragen van ondernemingen)  |
-| □  | Ik vraag alleen subsidie aan voor de veiligheidsscan(s), ik vraag geen subsidie aan voor veiligheidsmaatregelen (kopie van de veiligheidsscan(s) en betaalbewijs sluit ik bij) (artikel 9.12  van de Subsidieregeling starten, groeien en overdragen van ondernemingen)  |
-| □  | Ingediend in 2009, vanwege budget uitputting is mijn aanvraag niet gehonoreerd; ik ben verplichting aangegaan voor 31 januari 2010. Ik voeg bewijsstukken hiervan bij deze aanvraag. Ik doe een aanvraag voor subsidie in 2010 voor de coulanceregeling (maximaal 10.000 euro en vergoeding veiligheidsscans). Ik vraag subsidievaststelling aan. (Het onderdeel over de vaststelling coulance-bepaling op pg. 3 moet worden ingevuld) (artikel 9.11  van de Subsidieregeling starten, groeien en overdragen van ondernemingen)  |
-| In 2009 was mijn referentienummer/projectnummer  |  *VKB09*   |
-
-*Veiligheid Kleine Bedrijven*   *Aanvraagformulier*   *versie maart 2010*   
-
-| Aanvrager  |
-|:---|
-| Naam bedrijf  | --- |
-| KvK-nummer  | --- |
-| SBI-code  | --- |
-
-| Contactpersoon (alleen verplicht als deze is veranderd ten opzichte van aanvraag 2009)  |
-|:---|
-| De heer/mevrouw  | □ heer / □ mevrouw  |
-| Voorletters  | --- |
-| Tussenvoegsel(s)  | --- |
-| Achternaam  | --- |
-| Functie  | --- |
-| Postcode  | --- |
-| Adres  | --- |
-| Plaats  | --- |
-| Telefoonnummer  | --- |
-| E-mailadres  | --- |
-
-| gegevens VKB-adviseur en veiligheidsscan  |
-|:---|
-| Achternaam VKB-adviseur  | --- |
-| VKB-nummer van de adviseur  | --- |
-| Datum van de (eerst gedane) veiligheidsscan  | --- |
-
-*Veiligheid Kleine Bedrijven*   *Aanvraagformulier*   *Versie maart 2010*   
-
-| Wat is/zijn de postcode(s) van en de kosten voor de veiligheidsscan voor de locatie(s) waar u veiligheidsmaatregelen hebt getroffen  De subsidie is – na aftrek eigen bijdrage van 50 euro – maximaal 300 euro per veiligheidsscan  |--- | Postcode  | Kosten (ex BTW)  | subsidie  |
-|:---|:---|:---|:---|:---|
-| Vestiging 1  | --- | --- | --- |
-| Vestiging 2  | --- | --- | --- |
-| Vestiging 3  | --- | --- | --- |
-| Vestiging 4  | --- | --- | --- |
-| Vestiging 5  | --- | --- | --- |
-|  *Totaal:*   | --- |
-
-| Vaststelling coulance-bepaling  Als u geen coulance aanvraagt, gaat u door naar Ondertekening.  Veiligheidsmaatregelen:  | Kosten (ex BTW)  |
-|:---|:---|
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| Totaal aan kosten (ex BTW)  | --- |
-|  *Subsidie: 50% van de kosten (ex. BTW).*    *Maximaal 10.000 euro bij coulance*   | --- | --- |
-|  *Totale subsidie (subsidie veiligheidsscans plus subsidie maatregelen).*   | --- |
-
-| Betalingsgegevens  |
-|:---|
-| IBAN-code (voorheen bankrekeningnummer)  | --- |
-| BIC-code (internationale code van de bank)  | --- |
-| Naamstelling bankrekening  | --- |
-
-| Ondertekening  |
-|:---|
-| □  | Aldus naar waarheid ingevuld. *(niet vergeten aan te kruisen!)*  |
-| □  | Ik doe een beroep op de coulance bepaling en heb bewijsstukken bijgevoegd die onderbouwen dat ik voor 31 januari 2010 verplichtingen ben aangegaan voor veiligheidsmaatregelen.  |
-| □  | Ik vraag alleen subsidie aan voor de veiligheidsscan(s) en heb een kopie van de veiligheidsscan(s) en betaalbewijs bijgevoegd  |
-| □  | Ik doe een aanvraag voor subsidie in 2010 voor maximaal 1.000 euro. Ik stuur alleen dit formulier op. De veiligheidsscan en alle betaalbewijzen bewaar ik voor de declaratie.  |
-| Naam  | --- |
-| Functie  | --- |
-| Plaats en datum  | --- |
-| Handtekening:  | --- |
-
-### Bijlage  9.5  
-
-####behorende bij artikel 9.10, onderdeel c , van de Subsidieregeling starten, groeien en overdragen van ondernemingen
-
-*Veiligheid Kleine Bedrijven*   *Aanvraagformulier*   *versie maart 2010*  Dit is het vaststellingsformulier als bedoeld in artikel 9.10, onderdeel c, van de Subsidieregeling starten, groeien en overdragen van ondernemingen (bijlage 9.5) Met dit vaststellingsformulier kunt u tot een maximum van 1.000 euro aan kosten voor de veiligheidsscan(s) en de veiligheidsmaatregelen declareren. 
-
-* Per veiligheidsscan bedraagt de subsidie de kosten voor die veiligheidsscan minus 50 euro eigen bijdrage, met een maximum van 300 euro per veiligheidsscan.  
-
-* Voor de veiligheidsmaatregelen bedraagt de subsidie maximaal 700 euro.   Alle bedragen zijn excl. BTW, tenzij u geen BTW in aftrek kunt brengen. Uw vaststellingsverzoek wordt middels een beschikking bevestigd. 
-
-* De veiligheidsmaatregelen dient u binnen 6 maanden na dagtekening van de verleningsbeschikking getroffen te hebben.  
-
-* De subsidiabele kosten dient u bij indienen van uw vaststellingsformulier gemaakt én betaald te hebben. Uitzondering is dat bij een contract voor leasekoop nog niet alle kosten betaald hoeven te zijn.  
-
-* Deze veiligheidsmaatregelen dienen gebaseerd te zijn op een advies van een veiligheidsadviseur die staat vermeld op de website van Agentschap NL.   Bij het vaststellingsverzoek dient u kopie facturen en betaalbewijzen mee te sturen Algemene informatie: www.veiligheidkleinebedrijven.nl Vragen graag per e-mail: info@veiligheidkleinebedrijven.nl of vkbinfo@agentschapnl.nl Helpdesk VKB: 088 602 58 58 (op werkdagen van 9.00 tot 12.00)  
-
-| Controle vragen  |
-|:---|
-| Ik heb maximaal vijf vestigingen  | □ ja  | □ nee  |
-| Per vestiging heb ik maximaal 10 fte  | □ ja  | □ nee  |
-| Bent u zich bewust dat deze regeling onder de de-minimis verordering valt?  | □ ja  | □ nee  |
-| Heeft u de afgelopen drie jaar van een bestuursorgaan (overheidsorganisatie) subsidie ontvangen zonder goedkeuring van de Commissie van de Europese Gemeenschappen (zgn. de-minimissteun)?  | □ ja  | □ nee  |
-
-| Aangeven welk vaststellingsverzoek u doet  |--- |
-|:---|:---|
-| □  | Regeling 2010 (maximaal 1.000 euro subsidie) (artikel 9.2  van de Subsidieregeling starten, groeien en overdragen van ondernemingen)  |
-| □  | Ingediend in 2009, vanwege budget uitputting is mijn aanvraag niet gehonoreerd; Ik heb een aanvraag voor 2010 gedaan voor maximaal 1.000 euro subsidie. (artikel 9.12  van de Subsidieregeling starten, groeien en overdragen van ondernemingen)  |
-| --- |
-| In 2009 was mijn referentienummer/projectnummer  |  *VKB09*   |
-
-*Veiligheid Kleine Bedrijven*   *Vaststellingsformulier*   *versie maart 2010*   
-
-| Aanvrager  |
-|:---|
-| Naam bedrijf  | --- |
-| KvK-nummer  | --- |
-| SBI-code  | --- |
-
-| Contactpersoon  |
-|:---|
-| De heer/mevrouw  | □ heer / □ mevrouw  |
-| Voorletters  | --- |
-| Tussenvoegsel(s)  | --- |
-| Achternaam  | --- |
-| Functie  | --- |
-| Postcode  | --- |
-| Adres  | --- |
-| Plaats  | --- |
-| Telefoonnummer  | --- |
-| E-mailadres  | --- |
-
-| gegevens VKB-adviseur en veiligheidsscan  |
-|:---|
-| Achternaam VKB-adviseur  | --- |
-| VKB-nummer van de adviseur  | --- |
-| Datum van de veiligheidsscan  | --- |
-
-*Veiligheid Kleine Bedrijven*   *Vaststellingsformulier*   *versie maart 2010*   
-
-| Wat is/zijn de postcode(s) van en de kosten voor de veiligheidsscan voor de locatie(s) waar u veiligheidsmaatregelen hebt getroffen  De subsidie is per veiligheidsscan, na aftrek eigen bijdrage van 50 euro, max. 300 euro.  De totale subsidie is maximaal 1.000 per ondernemer.  |--- | Postcode  | Kosten (ex BTW)  | subsidie  |
-|:---|:---|:---|:---|:---|
-| Vestiging 1  | --- | --- | --- |
-| Vestiging 2  | --- | --- | --- |
-| Vestiging 3  | --- | --- | --- |
-| Vestiging 4  | --- | --- | --- |
-| Vestiging 5  | --- | --- | --- |
-|  *Totaal:*   | --- |
-
-| Veiligheidsmaatregelen  | Kosten (ex BTW)  |
-|:---|:---|
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| Totaal aan kosten (ex BTW)  | --- |
-|  *Subsidie: 50% van de kosten (ex. BTW).*    *Maximaal 10.000 euro bij coulance*   | --- | --- |
-|  *Totale subsidie (subsidie veiligheidsscans plus subsidie maatregelen).*    *Dit is maximaal 1.000 euro*   | --- |
-
-| Betalingsgegevens  |
-|:---|
-| IBAN-code (voorheen bankrekeningnummer)  | --- |
-| BIC-code (internationale code van de bank)  | --- |
-| Naamstelling bankrekening  | --- |
-
-| Ondertekening  |
-|:---|
-| □  | Aldus naar waarheid ingevuld. *(niet vergeten aan te kruisen!)*  |
-| □  | Ik heb kopieën van betaalbewijzen en facturen bijgesloten.  |
-| □  | Ik vraag alleen subsidie aan voor de veiligheidsscan(s) en heb een kopie van de veiligheidsscan(s) en betaalbewijs bijgevoegd  |
-| □  | Ik voeg een kopie van de aanbevelingen uit de veiligheidsscan toe (de veiligheidsscan dient u te bewaren voor eventuele extra controle)  |
-| Naam  | --- |
-| Functie  | --- |
-| Plaats en datum  | --- |
-| Handtekening:  | --- |
-
-### Bijlage  9.6  
-
-####behorende bij artikel 9.10, onderdeel d , van de Subsidieregeling starten, groeien en overdragen van ondernemingen
-
-*Veiligheid Kleine Bedrijven*  *Vaststellingsformulier Pilot en Landelijke regeling* (versie 2010) (aanvraag ingediend in de periode 1 februari t/m 31 augustus 2009 of 8 september t/m 31 december)  
-
-| --- | --- |
-|:---|:---|
-| Bijlage 9.6. Vaststellingsformulier als bedoeld in artikel 9.10, onderdeel d , van de Subsidieregeling starten, groeien en overdragen van ondernemingen.  Voor aanvragen ingediend in de periode van 1 februari t/m 31 augustus 2009  | Dossiercode SenterNovem   *VKB09*   |
-
-| --- |
-|:---|
-| *Indienen bij*: Agentschap NL (Veiligheid Kleine Bedrijven), Postbus 93144, 2509 AC DEN HAAG  *algemene informatie*: www.veiligheidkleinebedrijven.nl  helpdesk (werkdagen van 09.00 - 12.00 uur): 088 602 58 58  |
-
-| Aangeven op welke vaststelling u een beroep wilt doen  |
-|:---|
-| □  | Pilot (aanvraag ingediend op 01-02-2009 tot 31-08-2009)  |
-| □  | Landelijke regeling (aanvraag ingediend op 08-09-2009 t/m 31-12-2009)  |
-
-| Aanvrager  |
-|:---|
-| Naam bedrijf  | --- |
-| KvK-nummer  | --- |
-
-| Contactpersoon  |
-|:---|
-| De heer/mevrouw  | □ heer / □ mevrouw  |
-| Voorletters  | --- |
-| Tussenvoegsel(s)  | --- |
-| Achternaam  | --- |
-| Functie  | --- |
-| Postcode  | --- |
-| Adres  | --- |
-| Plaats  | --- |
-| Telefoonnummer  | --- |
-| E-mailadres  | --- |
-
-| --- |
-|:---|
-|  *NB Lees voor het invullen ook de toelichting ‘Van verlening naar vaststelling’*   |
-
-| Wat is/zijn de postcode(s) van en de kosten voor de veiligheidsscan voor de lokatie(s) waar u veiligheidsmaatregelen hebt getroffen. Niet van toepassing indien u in aanmerking komt voor de Pilot.  |--- | Postcode  | Kosten (ex BTW)  | subsidie  |
-|:---|:---|:---|:---|:---|
-| Vestiging 1  | --- | --- | --- |
-| Vestiging 2  | --- | --- | --- |
-| Vestiging 3  | --- | --- | --- |
-| Vestiging 4  | --- | --- | --- |
-| Vestiging 5  | --- | --- | --- |
-|  *Totaal:*   | --- |
-
-| Veiligheidsmaatregelen  | Kosten (ex BTW)  |
-|:---|:---|
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| --- | --- |
-| Totaal aan kosten (ex BTW)  | --- |
-|  *Subsidie: 50% van de kosten met een maximum van 10.000 euro (ex. BTW)*   | --- | --- |
-
-| Betalingsgegevens  |
-|:---|
-| IBAN-code (voorheen bankrekeningnummer)  | --- |
-| BIC-code (internationale code van de bank)  | --- |
-| Naamstelling bankrekening  | --- |
-
-| Ondertekening  |
-|:---|
-| □  | Aldus naar waarheid ingevuld. *(niet vergeten aan te kruisen!)*  |
-| □  | Ik heb kopieën van betaalbewijzen en facturen bijgesloten.  |
-| Naam  | --- |
-| Functie  | --- |
-| Plaats en datum  | --- |
-| Handtekening:  | --- |
-
-| --- |
-|:---|
-|  *Origineel opsturen; bewaar een kopie, wel éérst dateren en tekenen*   |
+![249803](http://wetten.overheid.nl/Illustration/249803)
+![249803](http://wetten.overheid.nl/Illustration/249803)
+![249803](http://wetten.overheid.nl/Illustration/249803)
+![249803](http://wetten.overheid.nl/Illustration/249803)
 

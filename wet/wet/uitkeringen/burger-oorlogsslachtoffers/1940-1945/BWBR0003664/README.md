@@ -161,9 +161,9 @@ d. de Raad kan, bij beschikking, van het bepaalde onder c afwijken indien naar z
 7.  Indien het burger-oorlogsslachtoffer voldoet aan het bepaalde in artikel 7, onder c, wordt de grondslag vastgesteld op het bedrag, bedoeld in het achtste lid, onder a, tenzij de Raad, rekening houdende met alle omstandigheden, in een individueel geval van oordeel is, dat een hogere grondslag gerechtvaardigd is. Deze grondslag kan niet op een hoger bedrag worden vastgesteld dan de grondslag die zou zijn vastgesteld, indien het burger-oorlogsslachtoffer zou voldoen aan het bepaalde in het tweede lid, onder a of b.   
 8.  De grondslag wordt bepaald op: 
 
-a. ten minste een bedrag van € 1.867,87 per maand per 1 januari 1983 per 1 januari 2012: € 1.991,60;  
+a. ten minste een bedrag van € 1.867,87 per maand per 1 januari 1983 per 1 juli 2012: € 2 004,74;  
 
-b. ten hoogste een bedrag van € 3.877,64 per maand per 1 januari 1983 per 1 januari 2012: € 4.134,52.     
+b. ten hoogste een bedrag van € 3.877,64 per maand per 1 januari 1983 per 1 juli 2012: € 4 161,81.     
 9.  De grondslag, waarnaar de uitkering aan de weduwe of weduwnaar bedoeld in artikel 7, onder d tot en met f, wordt berekend, wordt vastgesteld op hetzelfde bedrag als waarop de grondslag voor het burger-oorlogsslachtoffer zou zijn vastgesteld, indien hij op de datum van de aanvraag, bedoeld in artikel 35, nog in leven zou zijn geweest en op die datum voldaan zou hebben aan het bepaalde in artikel 7, onder a of b.   
 
 ### Artikel  11  

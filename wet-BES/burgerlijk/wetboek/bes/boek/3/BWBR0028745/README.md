@@ -1117,7 +1117,7 @@ Vruchtgebruik ontstaat door vestiging of door verjaring.
 ### Artikel  206  
 
 1.  De vruchtgebruiker moet voor de nakoming van zijn verplichtingen jegens de hoofdgerechtigde zekerheid stellen, tenzij hij hiervan is vrijgesteld of de belangen van de hoofdgerechtigde reeds voldoende zijn beveiligd door de instelling van een bewind.   
-2.  Is de vruchtgebruiker van het stellen van zekerheid vrijgesteld, dan kan de hoofdgerechtigde jaarlijks verlangen dat hem de aan het vruchtgebruik onderworpen zaken worden getoond. Ten aanzien van waardepapieren en gelden kan, behoudens bijzondere omstandigheden, met overlegging van een verklaring van een kredietinstelling als bedoeld in artikel 1, eerste lid, van de Wet toezicht bank- en kredietwezen 1994 BES, worden volstaan.   
+2.  Is de vruchtgebruiker van het stellen van zekerheid vrijgesteld, dan kan de hoofdgerechtigde jaarlijks verlangen dat hem de aan het vruchtgebruik onderworpen zaken worden getoond. Ten aanzien van waardepapieren en gelden kan, behoudens bijzondere omstandigheden, met overlegging van een verklaring van een kredietinstelling in de zin van de Wet financiële markten BES worden volstaan.   
 
 ### Artikel  207  
 
@@ -1368,7 +1368,7 @@ Tenzij anders is bedongen, is de pandhouder verplicht, voor zover hem dit redeli
 
 ### Artikel  253  
 
-1.  De pandhouder houdt, na voldoening van de kosten van executie, van de netto-opbrengst af het aan hem verschuldigde bedrag waarvoor hij pandrecht heeft. Het overschot wordt aan de pandgever uitgekeerd. Zijn er pandhouders of andere beperkt gerechtigden, wier recht op het goed door de executie is vervallen, of hebben schuldeisers op het goed of op de opbrengst beslag gelegd, dan handelt de pandhouder overeenkomstig [artikel 490b van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md).   
+1.  De pandhouder houdt, na voldoening van de kosten van executie, van de netto-opbrengst af het aan hem verschuldigde bedrag waarvoor hij pandrecht heeft. Het overschot wordt aan de pandgever uitgekeerd. Zijn er pandhouders of andere beperkt gerechtigden, wier recht op het goed door de executie is vervallen, of hebben schuldeisers op het goed of op de opbrengst beslag gelegd, dan handelt de pandhouder overeenkomstig artikel 490b van het Wetboek van Burgerlijke Rechtsvordering BES.   
 2.  De pandhouder kan de door hem aan de voormelde belanghebbenden uit te keren bedragen niet voldoen door verrekening, tenzij het een uitkering aan de pandgever betreft en deze uitkering niet plaats vindt gedurende diens faillissement of surséance of de vereffening van zijn nalatenschap.   
 
 ### Artikel  254  

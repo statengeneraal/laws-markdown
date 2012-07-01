@@ -163,9 +163,9 @@ b. In afwijking van het bepaalde onder a wordt, indien de vervolging in het voor
 6.  Bij de vaststelling van de grondslag voor de vervolgde die vóór het tot uiting komen van de ziekten en gebreken, of de verergering daarvan, door of in verband met het volgen van onderwijs nog geen arbeid in beroep of bedrijf uitoefende, wordt rekening gehouden met de omstandigheden die ten tijde van de aanvraag bedoeld in artikel 30 terzake van invloed zijn. Onze Minister stelt te dien aanzien nadere regelen.   
 7.  De in de vorige leden, behoudens in het derde lid, onder b, bedoelde grondslag wordt bepaald op: 
 
-a. tenminste een bedrag van € 1.867,87 per maand per 1 juli 1976 per 1 januari 2012: € 1.991,60 en  
+a. tenminste een bedrag van € 1.867,87 per maand per 1 juli 1976 per 1 juli 2012: € 2 004,74 en  
 
-b. ten hoogste een bedrag van € 3.877,64 per maand per 1 juli 1976 per 1 januari 2012: € 4.134,52.     
+b. ten hoogste een bedrag van € 3.877,64 per maand per 1 juli 1976 per 1 juli 2012: € 4 161,81.     
 8.  De in het derde lid, onder b, bedoelde grondslag wordt bepaald op: 
 
 a. tenminste een bedrag van 23 000 rupiah per maand per 1 januari 2012: 4.523.410 rupiah en  
@@ -193,9 +193,9 @@ c. 80% voor de ongehuwde vervolgde met minderjarige kinderen;
 
 d. 75% voor de alleenstaande vervolgde;  
 
-e. 75% voor de weduwe en de weduwnaar van de vervolgde met minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.533,89 per maand per 1 juli 1976 per 1 januari 2012: € 2.701,74;  
+e. 75% voor de weduwe en de weduwnaar van de vervolgde met minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.533,89 per maand per 1 juli 1976 per 1 juli 2012: € 2 719,57;  
 
-f. 70% voor de weduwe en de weduwnaar van de vervolgde zonder minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.357,75 per maand per 1 juli 1976 per 1 januari 2012: € 2.513,95.     
+f. 70% voor de weduwe en de weduwnaar van de vervolgde zonder minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.357,75 per maand per 1 juli 1976 per 1 juli 2012: € 2 530,54.     
 2.   
 
 a. De percentages, genoemd in het eerste lid, onder a, b, c en d, worden met 15 verminderd met ingang van de dag waarop de uitkeringsgerechtigde de leeftijd van 65 jaar bereikt, tenzij artikel 8, derde lid, onder b, van toepassing is.  

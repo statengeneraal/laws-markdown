@@ -222,7 +222,7 @@ c. een door het bestuur gewaarmerkt afschrift van de uitvoeringsovereenkomst;
 
 d. een actuariële en bedrijfstechnische nota als bedoeld in artikel 140;  
 
-e. een eventuele overeenkomst tot overdracht of herverzekering.     
+e. een eventuele overeenkomst tot overdracht of verzekering.     
 3.  Indien de beroepspensioenregeling wordt uitgevoerd door een verzekeraar of een premiepensioeninstelling gaat de aanvraag tevens vergezeld van: 
 
 a. een door het bestuur van de beroepspensioenvereniging gewaarmerkt afschrift van de getekende overeenkomst tussen de verzekeraar of de premiepensioeninstelling en de beroepspensioenvereniging;  
@@ -1028,7 +1028,7 @@ c. een hoger en een eerder ingaand ouderdomspensioen.
 
 1.  Indien een beroepspensioenregeling voorziet in een ouderdomspensioen, heeft de deelnemer of gewezen deelnemer het recht, in plaats van ouderdomspensioen of een deel van het ouderdomspensioen, te kiezen voor partnerpensioen in elk geval: 
 
-a. bij beëindiging van het deelnemerschap; en  
+a. bij beëindiging van de deelneming; en  
 
 b. met ingang van de datum waarop het ouderdomspensioen ingaat of kan ingaan;   waarbij de hoogte van het partnerpensioen maximaal 70 percent bedraagt van het ouderdomspensioen dat na de uitruil resteert.   
 2.  Indien een beroepspensioenregeling voorziet in een ouderdomspensioen, biedt de pensioenuitvoerder de deelnemer bij beëindiging van de deelneming en in het laatste jaar voor ingang van het ouderdomspensioen standaard de mogelijkheid, genoemd in het eerste lid, aan.   
@@ -1043,6 +1043,7 @@ a. de beroepspensioenregeling niet voorziet in een aanspraak op partnerpensioen 
 b. de deelnemer of gewezen deelnemer gehuwd is of een geregistreerde partnerrelatie heeft.     
 8.  In de beroepspensioenregeling wordt bepaald wat de verhouding is tussen ouderdomspensioen en partnerpensioen na uitruil als bedoeld in het zevende lid.   
 9.  Indien de uitruil, bedoeld in het zevende lid, ertoe zou leiden dat het ouderdomspensioen op jaarbasis lager wordt dan het op grond van artikel 78 bepaalde bedrag wordt de in het achtste lid bedoelde verhouding tussen ouderdomspensioen en partnerpensioen zodanig aangepast dat het ouderdomspensioen op jaarbasis meer bedraagt dan het op grond van artikel 78 bepaalde bedrag.   
+10.  Indien een beroepspensioenregeling voorziet in een partnerpensioen op risicobasis kan in de beroepspensioenregeling worden bepaald dat het zevende lid, aanhef en onderdeel b, van overeenkomstige toepassing is bij beëindiging van de deelneming. Het achtste en negende lid is van toepassing.   
 
 ### Artikel  74  
 
@@ -1102,12 +1103,12 @@ e. in het kader van een verrekening van pensioenrechten bij scheiding de waarde 
 
 ####Afkoop klein ouderdomspensioen bij beëindiging deelneming
 
-1.  De pensioenuitvoerder heeft het recht om op zijn vroegst twee jaar na beëindiging van de deelneming pensioenaanspraken van een gewezen deelnemer af te kopen, indien op basis van de tot het tijdstip van beëindiging opgebouwde aanspraak op ouderdomspensioen de uitkering van het ouderdomspensioen op jaarbasis op de reguliere ingangsdatum minder zal bedragen dan € 400 per 1 januari 2011: € 427,29 per jaar, tenzij: 
+1.  De pensioenuitvoerder heeft het recht om op zijn vroegst twee jaar na beëindiging van de deelneming pensioenaanspraken van een gewezen deelnemer af te kopen, indien op basis van de tot het tijdstip van beëindiging opgebouwde aanspraak op ouderdomspensioen de uitkering van het ouderdomspensioen op jaarbasis op de reguliere ingangsdatum minder zal bedragen dan € 400 per 1 januari 2012: € 438,44 per jaar, tenzij: 
 
 a. dit recht op afkoop in de beroepspensioenregeling en uitvoeringsovereenkomst is beperkt of uitgesloten; of  
 
 b. de gewezen deelnemer binnen twee jaar na beëindiging van de deelneming een procedure tot waardeoverdracht is gestart.     
-2.  Indien de reguliere ingangsdatum van het ouderdomspensioen ligt voor het verstrijken van de in het eerste lid genoemde termijn van twee jaar, heeft de pensioenuitvoerder het recht om bij de ingang van het ouderdomspensioen een aanspraak op ouderdomspensioen en eventuele andere aanspraken ten behoeve van de gepensioneerde of zijn nabestaanden af te kopen, indien de uitkering van het ouderdomspensioen op de ingangsdatum minder bedraagt dan € 400 per 1 januari 2011: € 427,29 per jaar.   
+2.  Indien de reguliere ingangsdatum van het ouderdomspensioen ligt voor het verstrijken van de in het eerste lid genoemde termijn van twee jaar, heeft de pensioenuitvoerder het recht om bij de ingang van het ouderdomspensioen een aanspraak op ouderdomspensioen en eventuele andere aanspraken ten behoeve van de gepensioneerde of zijn nabestaanden af te kopen, indien de uitkering van het ouderdomspensioen op de ingangsdatum minder bedraagt dan € 400 per 1 januari 2012: € 438,44 per jaar.   
 3.  De pensioenuitvoerder die gebruik wil maken van het in het eerste lid bedoelde recht informeert de gewezen deelnemer over zijn besluit hieromtrent binnen zes maanden na afloop van de periode van twee jaar na beëindiging van de deelneming en gaat over tot de uitbetaling van de afkoopwaarde binnen die termijn van zes maanden.   
 4.  De pensioenuitvoerder die gebruik wil maken van het in het tweede lid bedoelde recht informeert de gepensioneerde over zijn besluit hieromtrent binnen zes maanden na de ingang van het pensioen en gaat over tot de uitbetaling van de afkoopwaarde binnen die termijn van zes maanden.   
 5.  De pensioenuitvoerder stelt de afkoopwaarde van de pensioenaanspraken ter beschikking aan de gewezen deelnemer dan wel de gepensioneerde, met uitzondering van de afkoopwaarde van een bijzonder partnerpensioen, die ter beschikking wordt gesteld aan de gewezen partner.   
@@ -1512,7 +1513,7 @@ c. een door het bestuur gewaarmerkt afschrift van de uitvoeringsovereenkomst;
 
 d. een actuariële en bedrijfstechnische nota als bedoeld in artikel 140; en  
 
-e. een eventuele overeenkomst tot herverzekering, overdracht of onderbrenging.     
+e. een eventuele overeenkomst tot verzekering, overdracht of onderbrenging.     
 
 ### Artikel  108  
 
@@ -1528,7 +1529,7 @@ c. een door het bestuur gewaarmerkt afschrift van de wijzigingen in de uitvoerin
 
 d. een door het bestuur gewaarmerkt afschrift van de wijzigingen in de actuariële en bedrijfstechnische nota als bedoeld in artikel 140; en  
 
-e. een door het bestuur gewaarmerkt afschrift van de wijzigingen in de eventuele overeenkomst tot herverzekering, overdracht of onderbrenging,   binnen twee weken na totstandkoming van die wijziging aan de toezichthouder.  
+e. een door het bestuur gewaarmerkt afschrift van de wijzigingen in de eventuele overeenkomst tot verzekering, overdracht of onderbrenging,   binnen twee weken na totstandkoming van die wijziging aan de toezichthouder.  
 
 ### Artikel  109  
 
@@ -1731,7 +1732,7 @@ c. de hoogte van de totale feitelijke premie.
 
 1.  Een beroepspensioenfonds beschikt over een minimaal vereist eigen vermogen, tenzij: 
 
-a. een beroepspensioenfonds tot volledige overdracht, herverzekering of onderbrenging is overgegaan; en  
+a. een beroepspensioenfonds tot volledige overdracht of onderbrenging is overgegaan; en  
 
 b. de toezichthouder heeft ingestemd met het feit dat het beroepspensioenfonds daarom niet beschikt over een minimaal vereist eigen vermogen.     
 2.  Bij of krachtens algemene maatregel van bestuur worden de omvang en de samenstelling van het minimaal vereist eigen vermogen bepaald.   
@@ -1909,7 +1910,7 @@ c. de maximaal te hanteren risicopremies op onder andere aandelen en onroerend g
 
 1.  Het beroepspensioenfonds stelt een actuariële en bedrijfstechnische nota vast waarin in elk geval een omschrijving is opgenomen van de wijze waarop uitvoering wordt gegeven aan het bij of krachtens de artikelen 35, 103, 121 tot en met 132 en 138 bepaalde. De actuariële en bedrijfstechnische nota bevat voorts een verklaring inzake beleggingsbeginselen en een beschrijving van de sturingsmiddelen.   
 2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld ten aanzien van de actuariële en bedrijfstechnische nota.   
-3.  Voorzover risico’s zijn overgedragen, herverzekerd of ondergebracht kan de omschrijving, bedoeld in het eerste lid, beperkt blijven tot een verwijzing naar hetgeen daarover in de betreffende overeenkomsten is opgenomen.   
+3.  Voorzover risico’s zijn overgedragen, verzekerd of ondergebracht kan de omschrijving, bedoeld in het eerste lid, beperkt blijven tot een verwijzing naar hetgeen daarover in de betreffende overeenkomsten is opgenomen.   
 4.  De verklaring inzake beleggingsbeginselen wordt om de drie jaren en voorts onverwijld na iedere belangrijke wijziging van het beleggingsbeleid herzien.   
 
 ### Artikel  141  
@@ -1948,7 +1949,7 @@ j. informatie inzake de uitgevoerde beroepspensioenregeling en eventueel andere 
 
 k. premiegegevens;  
 
-l. informatie inzake herverzekering;  
+l. informatie inzake verzekering;  
 
 m. informatie inzake verplichtingen van het beroepspensioenfonds voor risico van de deelnemers.     
 4.  Met zijn verklaring bedoeld in het derde lid, onderdeel h, bevestigt de actuaris dat hij zich ervan heeft overtuigd dat voldaan is aan de artikelen 121 tot en met 135. Hij is bevoegd zijn verklaring nader toe te lichten of op enig punt een voorbehoud te maken.   
@@ -1966,11 +1967,23 @@ b. de wijze, de periodiciteit en de termijnen van de verstrekking.
 1.  De bevoegde actuaris die het actuarieel verslag waarmerkt, is onafhankelijk van het beroepspensioenfonds en verricht geen andere werkzaamheden voor het beroepspensioenfonds.   
 2.  Het is de waarmerkende actuaris niet toegestaan de werkzaamheden, bedoeld in artikel 142, vierde lid, uit te oefenen voor een beroepspensioenfonds wanneer een andere actuaris of andere deskundige die behoort tot dezelfde organisatie als de waarmerkende actuaris, andere werkzaamheden verricht voor hetzelfde beroepspensioenfonds, tenzij de organisatie van de waarmerkende actuaris een door de toezichthouder goedgekeurde gedragscode heeft over de onafhankelijkheid van de waarmerkende actuaris.   
 
+### Artikel  143a  
+
+####Verbod kapitaalcontracten
+
+Een beroepspensioenfonds kan niet overgaan tot verzekering bij een verzekeraar indien de verzekering gebaseerd is op een kapitaalcontract. Een kapitaalcontract is een overeenkomst tussen een beroepspensioenfonds en een verzekeraar waarbij geldt dat: 
+
+a. risico’s van het beroepspensioenfonds gedurende de contractsperiode worden verzekerd;  
+
+b. de daarbij behorende pensioenaanspraken en pensioenrechten na afloop van de contractsperiode niet op verzoek van het beroepspensioenfonds premievrij bij de verzekeraar achter kunnen worden gelaten; en  
+
+c. de waarden die behoren bij het ouderdomspensioen of nabestaandenpensioen op kapitaalbasis gedurende de contractsperiode geheel of gedeeltelijk in juridisch eigendom van de verzekeraar zijn.    
+
 ### Artikel  144  
 
-####Verplichting tot overdracht, herverzekering of onderbrenging
+####Verplichting tot overdracht, verzekering of onderbrenging
 
-De toezichthouder kan een beroepspensioenfonds de verplichting opleggen om binnen een door de toezichthouder te stellen termijn over te gaan tot herverzekering bij een verzekeraar, overdracht aan een verzekeraar of onderbrenging bij een beroepspensioenfonds indien dit naar het oordeel van de toezichthouder noodzakelijk is in verband met: 
+De toezichthouder kan een beroepspensioenfonds de verplichting opleggen om binnen een door de toezichthouder te stellen termijn over te gaan tot verzekering bij een verzekeraar, overdracht aan een verzekeraar of onderbrenging bij een beroepspensioenfonds indien dit naar het oordeel van de toezichthouder noodzakelijk is in verband met: 
 
 a. de actuariële en bedrijfstechnische opzet van het beroepspensioenfonds; of  
 
@@ -1978,13 +1991,13 @@ b. de deskundigheid en betrouwbaarheid van het bestuur.
 
 ### Artikel  145  
 
-####Overdracht, herverzekering of onderbrenging bij eindigen beroepspensioenregeling
+####Overdracht, verzekering of onderbrenging bij eindigen beroepspensioenregeling
 
 Wanneer een beroepspensioenregeling eindigt tijdens de periode waarin een kortetermijnherstelplan van kracht is: 
 
 a. stelt het beroepspensioenfonds de toezichthouder hiervan op de hoogte;  
 
-b. gaat het beroepspensioenfonds binnen een door de toezichthouder te stellen termijn over tot het herverzekeren bij een verzekeraar, overdragen aan een verzekeraar of onderbrengen bij een beroepspensioenfonds van de pensioenverplichtingen op basis van een procedure welke ter kennis en instemming van de toezichthouder wordt gebracht; en  
+b. gaat het beroepspensioenfonds binnen een door de toezichthouder te stellen termijn over tot het verzekeren bij een verzekeraar, overdragen aan een verzekeraar of onderbrengen bij een beroepspensioenfonds van de pensioenverplichtingen op basis van een procedure welke ter kennis en instemming van de toezichthouder wordt gebracht; en  
 
 c. stelt het beroepspensioenfonds een algemeen overzicht van de procedure, bedoeld in onderdeel b, beschikbaar voor de deelnemers, gewezen deelnemers en pensioengerechtigden of de vertegenwoordigers van de genoemde personen in overeenstemming met het vertrouwelijkheidbeginsel.    
 
@@ -2489,9 +2502,16 @@ a. indien het beoogde gebruik niet in strijd is met het eerste of tweede lid; of
 
 b. voorzover die toezichthoudende instantie op een andere wijze dan in deze wet voorzien vanuit Nederland met inachtneming van de daarvoor geldende wettelijke procedures voor dat andere doel de beschikking over die gegevens of inlichtingen zou kunnen verkrijgen; en  
 
-c. na overleg met Onze Minister van Justitie, indien het in de aanhef bedoelde verzoek betrekking heeft op een onderzoek naar strafbare feiten.     
+c. na overleg met Onze Minister van Veiligheid en Justitie, indien het in de aanhef bedoelde verzoek betrekking heeft op een onderzoek naar strafbare feiten.     
 4.  De Autoriteit Financiële Markten dan wel het organisatieonderdeel van De Nederlandsche Bank N.V. dat is belast met de in artikel 146, derde lid, genoemde taak kan vertrouwelijke informatie of gegevens verstrekken aan het organisatieonderdeel van De Nederlandsche Bank N.V. dat is belast met het vervullen van haar monetaire taak, voorzover de vertrouwelijke gegevens of inlichtingen dienstig zijn voor de uitoefening van die taak.   
 5.  Het eerste tot en met derde lid is van overeenkomstige toepassing op het uitwisselen van vertrouwelijke gegevens of inlichtingen tussen de met verschillende taken belaste organisatieonderdelen van de toezichthouder.   
+
+### Artikel  199a  
+
+####Informatieverstrekking aan de Europese Autoriteit voor verzekeringen en bedrijfspensioenen
+
+1.  De vermelding in het register, bedoeld in artikel 204, in welke lidstaten een beroepspensioenfonds pensioenregelingen uitvoert wordt door de toezichthouder meegedeeld aan de Europese Autoriteit voor verzekeringen en bedrijfspensioenen.   
+2.  De toezichthouder stelt de Europese Autoriteit voor verzekeringen en bedrijfspensioenen in kennis van een besluit om de activiteiten van een beroepspensioenfonds te verbieden.   
 
 ### Artikel  200  
 
@@ -2552,7 +2572,7 @@ a. indien het beoogde gebruik niet in strijd is met het eerste, tweede of derde 
 
 b. voorzover die instantie of persoon op een andere wijze dan in deze wet voorzien met inachtneming van de daarvoor geldende wettelijke procedures voor dat andere doel de beschikking over die gegevens of inlichtingen zou kunnen verkrijgen; en  
 
-c. na overleg met Onze Minister van Justitie indien het in de aanhef bedoelde verzoek betrekking heeft op een onderzoek naar strafbare feiten.     
+c. na overleg met Onze Minister van Veiligheid en Justitie indien het in de aanhef bedoelde verzoek betrekking heeft op een onderzoek naar strafbare feiten.     
 
 ### Artikel  203  
 
@@ -2672,8 +2692,8 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de 
 1.  Ten aanzien van een beroepspensioenregeling die voor 1 januari 2006 is verplichtgesteld, doet Onze Minister de eerste keer het verzoek, bedoeld in artikel 11, eerste lid, ten minste acht weken voordat er vijf jaren zijn verstreken sinds 1 januari 2006, tenzij er na 1 januari 2006 een wijziging van de verplichtstelling heeft plaatsgevonden.   
 2.  Artikel 17 is slechts van toepassing op detacheringen die op of na 25 juli 2001 zijn aangevangen.   
 3.  De laatste volzin van artikel 66, eerste lid, is ten aanzien van aanspraken die zijn opgebouwd voor 1 januari 2006 en die op 1 januari 2006 niet voldoen aan de laatste volzin van artikel 66, eerste lid, gedurende tien jaren na 1 januari 2006 niet van toepassing, met dien verstande dat de financiering van die aanspraken ten minste in gelijke delen per kalenderjaar plaatsvindt. De toezichthouder kan toestaan dat, in afwijking van de eerste zin, gedurende een langere periode, maar niet langer dan gedurende vijftien jaar geen toepassing wordt gegeven aan de laatste volzin van artikel 66, eerste lid, voor zover dat noodzakelijk is ter voorkoming van onaanvaardbare financiële gevolgen voor de betrokken beroepspensioenregeling of de betrokken beroepsgenoten.   
-4.  Artikel 109, eerste lid, en artikel 111 zijn ten aanzien van een beroepspensioenfonds waarvan de beroepspensioenregeling voor 1 januari 2006 is verplichtgesteld of ten aanzien waarvan voor die datum een aanvraag tot verplichtstelling is gedaan, eerst van toepassing met ingang van 1 januari 2008.   
-5.  Voor de toepassing van artikel 8 wordt onder «een daartoe door een beroepspensioenvereniging opgericht beroepspensioenfonds» mede verstaan een beroepspensioenfonds dat een beroepspensioenregeling uitvoert die voor 1 januari 2006 is verplichtgesteld of ten aanzien waarvan voor die datum een aanvraag tot verplichtstelling is gedaan, met betrekking tot de uitvoering van die regeling.   
+4.  Voor de toepassing van artikel 8 wordt onder «een daartoe door een beroepspensioenvereniging opgericht beroepspensioenfonds» mede verstaan een beroepspensioenfonds dat een beroepspensioenregeling uitvoert die voor 1 januari 2006 is verplichtgesteld of ten aanzien waarvan voor die datum een aanvraag tot verplichtstelling is gedaan, met betrekking tot de uitvoering van die regeling.   
+5.  Indien een beroepspensioenfonds voor de datum van inwerkingtreding van [artikel II, onderdeel E, van de Verzamelwet pensioenen 2012](../../../../../wet/verzamelwet/pensioenen/2012/BWBR0030853/README.md) is overgegaan tot verzekering bij een verzekeraar op basis van een kapitaalcontract als bedoeld in artikel 143a geldt het verbod tot verzekering op basis van een kapitaalcontract, bedoeld in artikel 143a, na afloop van het contract of een verlenging daarvan doch uiterlijk vijf jaar na het tijdstip van inwerkingtreding van artikel II, onderdeel E, van de Verzamelwet pensioenen 2012.   
 
 ### Artikel  215  
 

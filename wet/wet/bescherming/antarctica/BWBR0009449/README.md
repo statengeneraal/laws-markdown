@@ -24,7 +24,7 @@ c. Protocol: Protocol betreffende milieubescherming bij het Verdrag (Trb. 1992, 
 
 d. activiteit: een activiteit in de zin van artikel 3 van het Protocol, zijnde een geheel van onderling samenhangende handelingen in het Antarctisch gebied;  
 
-e. organisator: de natuurlijke of rechtspersoon die vanuit Nederland een activiteit organiseert;  
+e. organisator: de natuurlijke of rechtspersoon die vanuit Nederland, daaronder begrepen de openbare lichamen Bonaire, Sint-Eustatius en Saba; een activiteit organiseert;  
 
 f. speciaal beschermd Antarctisch gebied: delen van het Antarctisch gebied, die ingevolge artikel 3, eerste of derde lid, van bijlage V bij het Protocol als zodanig zijn aangewezen;  
 
@@ -48,7 +48,9 @@ o. gevaarlijke afvalstoffen: gevaarlijke afvalstoffen als aangewezen krachtens [
 
 p. afvalwater: afvalwater in de zin van de [Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
 
-q. Onze Ministers: Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuur en Voedselkwaliteit.     
+q. Onze Ministers: Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuur en Voedselkwaliteit;  
+
+r. openbare lichamen: openbare lichamen Bonaire, Sint-Eustatius en Saba.     
 2.  In deze wet en de daarop berustende bepalingen wordt onder het Antarctisch milieu mede verstaan: 
 
 a. de van het Antarctisch milieu afhankelijke en daarmee samenhangende ecosystemen;  
@@ -74,7 +76,7 @@ c. voor zover dit verband houdt met het verzekeren van de veiligheid in het luch
 
 1.  Een ieder neemt in het Antarctisch gebied zo veel mogelijk zorg voor het Antarctisch milieu in acht.   
 2.  De zorg, bedoeld in het eerste lid, houdt in dat een ieder die weet of redelijkerwijs kan vermoeden dat door zijn handelen of nalaten nadelige gevolgen voor het Antarctisch milieu kunnen worden veroorzaakt, verplicht is dergelijk handelen achterwege te laten voor zover zulks in redelijkheid kan worden gevergd, dan wel alle maatregelen te nemen die redelijkerwijs van hem kunnen worden gevergd teneinde die gevolgen te voorkomen of, voor zover die gevolgen niet kunnen worden voorkomen, deze zoveel mogelijk te beperken of ongedaan te maken.   
-3.  Het bepaalde in het eerste en tweede lid laat onverlet de uit het burgerlijk recht voortvloeiende aansprakelijkheid en de mogelijkheid van rechtspersonen als bedoeld in [artikel 1, boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), om uit dien hoofde in rechte op te treden.   
+3.  Het bepaalde in het eerste en tweede lid laat onverlet de uit het burgerlijk recht voortvloeiende aansprakelijkheid en de mogelijkheid van rechtspersonen als bedoeld in [artikel 1, boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), en [artikel 1, boek 2 van het Burgerlijk Wetboek BES](../../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md), om uit dien hoofde in rechte op te treden.   
 
 ### Artikel  4  
 
@@ -86,7 +88,7 @@ b. bij de vervaardiging van stoffen, preparaten en andere produkten, die in het 
 
 c. in het Antarctisch gebied te brengen stoffen, preparaten of andere produkten, zo mogelijk, meer dan eenmaal worden gebruikt;  
 
-d. afvalstoffen zo veel mogelijk ofwel in Nederland worden verwijderd ofwel in een ander land waar regelingen zijn getroffen voor het storten of verbranden van dit afval overeenkomstig internationale overeenkomsten;  
+d. afvalstoffen zo veel mogelijk ofwel, afhankelijk van de plaats van aanvang van de activiteit, in Nederland, daaronder begrepen de openbare lichamen, worden verwijderd ofwel in een ander land waar regelingen zijn getroffen voor het storten of verbranden van dit afval overeenkomstig internationale overeenkomsten;  
 
 e. het onttrekken van levende rijkdommen aan hun populatie zo veel mogelijk wordt voorkomen en, voor zover dit niet kan worden voorkomen, zo min mogelijk pijn en lijden met zich brengt;  
 
@@ -386,7 +388,65 @@ Wijzigt de Wet op de economische delicten.
 ### Artikel  32  
 
 1.  Het bij of krachtens deze wet bepaalde is mede van toepassing op de Nederlander die zich in het Antarctisch gebied bevindt.   
-2.  De Nederlandse strafwet is mede van toepassing op de Nederlander die in het Antarctisch gebied handelt in strijd met het bij of krachtens deze wet bepaalde.   
+2.  De Nederlandse strafwet is mede van toepassing op de Nederlander die in het Antarctisch gebied handelt in strijd met het bij of krachtens deze wet bepaalde. De eerste volzin is niet van toepassing op de Nederlander die ingezetene is van de openbare lichamen.   
+
+### §  7a  
+
+####Openbare lichamen Bonaire, Sint-Eustatius en Saba
+
+### Artikel  32a  
+
+Deze wet en de daarop berustende bepalingen zijn mede van toepassing in de openbare lichamen.  
+
+### Artikel  32b  
+
+Indien: 
+
+a. een aanvraag om een vergunning als bedoeld in artikel 8 wordt gedaan door een ingezetene van de openbare lichamen, of  
+
+b. de beperkingen waaronder een vergunning aan een ingezetene van de openbare lichamen is verleend en de voorschriften die daaraan zijn verbonden, worden gewijzigd, aangevuld of ingetrokken als bedoeld in artikel 20, eerste lid, of  
+
+c. een ingezetene van de openbare lichamen een verzoek als bedoeld in de artikelen 20, tweede lid, 21, eerste lid, of 22, derde lid, indient, of  
+
+d. een intrekking van een vergunning als bedoeld in artikel 22, die is verleend aan een ingezetene van de openbare lichamen, plaatsvindt,   zijn, in afwijking van [artikel 3 van de Invoeringswet openbare lichamen Bonaire, Sint-Eustatius en Saba](../../../../../wet-BES/invoeringswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028063/README.md), de artikelen 11, 20, 21 en 22 onverminderd van toepassing.  
+
+### Artikel  32c  
+
+Een besluit op grond van deze wet wordt, indien dit is gericht tot een natuurlijke persoon of een rechtspersoon die vanuit de openbare lichamen een activiteit organiseert, aangemerkt als een beschikking in de zin van de [Wet administratieve rechtspraak BES](../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md).  
+
+### Artikel  32d  
+
+Met betrekking tot de handhaving in de openbare lichamen, van het bij of krachtens deze wet bepaalde, zijn de [artikelen 10.1](../../../../../wet-BES/wet/volkshuisvesting/ruimtelijke/ordening/en/milieubeheer/bes/BWBR0031218/README.md), [10.3](../../../../../wet-BES/wet/volkshuisvesting/ruimtelijke/ordening/en/milieubeheer/bes/BWBR0031218/README.md), [10.4](../../../../../wet-BES/wet/volkshuisvesting/ruimtelijke/ordening/en/milieubeheer/bes/BWBR0031218/README.md), [10.6](../../../../../wet-BES/wet/volkshuisvesting/ruimtelijke/ordening/en/milieubeheer/bes/BWBR0031218/README.md) en [10.8 tot en met 10.11 van de Wet Volkshuisvesting, ruimtelijke ordening en milieubeheer BES](../../../../../wet-BES/wet/volkshuisvesting/ruimtelijke/ordening/en/milieubeheer/bes/BWBR0031218/README.md) van overeenkomstige toepassing.  
+
+### Artikel  32e  
+
+1.  Voor ingezetenen van de openbare lichamen is: 
+
+a. handelen in strijd met de voorschriften of overtreding van de verboden gegeven in de artikelen 3, eerste lid, 5, 6, eerste en tweede lid, 8, 25, eerste en tweede lid, 29 en 30: 
+
+1°. voor zover opzettelijk begaan, een misdrijf dat wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie;  
+
+2°. voor zover geen misdrijf, een overtreding die wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie;    
+
+b. handelen in strijd met de voorschriften in de artikelen 19, tweede lid, en 33 een overtreding die wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie.     
+2.  Bij de straffen, genoemd in de eerste lid, kan als bijkomende straf worden opgelegd: 
+
+a. gehele of gedeeltelijke stillegging van de inrichting van de veroordeelde, waarin het delict is begaan, voor een tijd van ten hoogste een jaar;  
+
+b. verbeurdverklaring van de voorwerpen, genoemd in [artikel 35 van het Wetboek van Strafrecht BES](../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md);  
+
+c. verbeurdverklaring van voorwerpen, behorende tot de onderneming van een veroordeelde, waarin het delict is begaan, voor zover zij soortgelijk zijn aan en met betrekking tot het delict verband houden met die, genoemd in [artikel 35 van het Wetboek van Strafrecht BES](../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), en  
+
+d. gehele of gedeeltelijke ontzetting van bepaalde rechten of gehele of gedeeltelijke ontzegging van bepaalde voordelen, welke rechten of voordelen de veroordeelde in verband met zijn inrichting van overheidswege zijn of zouden kunnen worden toegekend, voor een tijd van ten hoogste twee jaren.     
+3.  Tezamen met de straffen, bedoeld in het eerste en tweede lid, kunnen de volgende maatregelen worden opgelegd: 
+
+a. onderbewindstelling van de onderneming van de veroordeelde, waarin het delict is begaan, in geval van misdrijf voor een tijd van ten hoogste drie jaren en in geval van overtreding voor een tijd van ten hoogste twee jaren, en  
+
+b. het opleggen van de verplichting tot verrichting van hetgeen wederrechtelijk is nagelaten, tenietdoening van hetgeen wederrechtelijk is verricht en verrichting van prestaties tot het goedmaken van een en ander, alles op kosten van de veroordeelde, voor zover de rechter niet anders bepaalt.     
+
+### Artikel  32f  
+
+Het [Wetboek van Strafrecht BES](../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) is mede van toepassing op de ingezetene van de openbare lichamen die in het Antarctisch gebied handelt in strijd met het bij of krachtens deze wet bepaalde.  
 
 ### §  8  
 

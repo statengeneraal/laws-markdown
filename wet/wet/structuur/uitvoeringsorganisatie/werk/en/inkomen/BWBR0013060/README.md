@@ -20,7 +20,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 a. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;  
 
-b. Raad voor werk en inkomen: de Raad voor werk en inkomen, genoemd in hoofdstuk 3;  
+b. Raad voor werk en inkomen: de Raad voor werk en inkomen, genoemd in hoofdstuk 4 zoals dat luidde op 30 juni 2012;  
 
 c. Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5;  
 
@@ -30,7 +30,7 @@ e. Inspectie Werk en Inkomen: de Inspectie Werk en Inkomen, genoemd in hoofdstuk
 
 f. Raad van bestuur: een Raad van bestuur als bedoeld in artikel 3;  
 
-g. uitvoeringskosten: de kosten ten behoeve van de uitvoering van wetten door de Raad voor werk en inkomen, de Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank;  
+g. uitvoeringskosten: de kosten ten behoeve van de uitvoering van wetten door de Centrale organisatie werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank;  
 
 h. sociaal-fiscaalnummer: het nummer, bedoeld in [artikel 2, derde lid, onderdeel k, van de Algemene wet inzake rijksbelastingen](../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);  
 
@@ -42,7 +42,7 @@ k. werknemer: werknemer in de zin van de werknemersverzekeringen of een werkneme
 
 l. uitkeringsgerechtigde: de persoon die een uitkering of voorziening ontvangt of recht heeft op arbeidsondersteuning op grond van: 
 
-1°. de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet investeren in jongeren](../../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), of  
+1°. de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), of  
 
 2°. de [Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Wet inkomensvoorziening oudere werklozen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md), de [Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria](../../../../../../../../wet/tijdelijke/wet/beperking/inkomensgevolgen/arbeidsongeschiktheidscriteria/BWBR0007891/README.md), de [Ziektewet](../../../../../../../../wet/ziektewet/BWBR0001888/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Toeslagenwet](../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md), de [Algemene Ouderdomswet](../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), de [Algemene nabestaandenwet](../../../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), de [Algemene Kinderbijslagwet](../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) of, de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);    
 
@@ -143,10 +143,10 @@ b. door het Uitvoeringsinstituut werknemersverzekeringen op centraal niveau reke
 
 a. het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank, de gemeenten en Onze Minister over de vormgeving en realisatie van cliëntenparticipatie bij de desbetreffende organen;  
 
-b. de Raad voor werk en inkomen en Onze Minister over voorstellen van de landelijke cliëntenraad inzake beleidsvragen op het gebied van werk en inkomen.     
+b. Onze Minister over voorstellen van de landelijke cliëntenraad inzake beleidsvragen op het gebied van werk en inkomen.     
 4.  De landelijke cliëntenraad heeft een secretariaat en vervult zijn taak met de middelen die hem door Onze Minister ter beschikking worden gesteld.   
 5.  De landelijke cliëntenraad krijgt alle informatie van de in het derde lid genoemde instanties, voor zover hij deze voor de uitoefening van zijn taak nodig heeft.   
-6.  Bij ministeriële regeling kunnen regels worden gesteld over de financiering, de werkwijze en de ondersteuning van de landelijke cliëntenraad en de rol van de Raad voor werk en inkomen daarbij.   
+6.  Bij ministeriële regeling kunnen regels worden gesteld over de financiering, de werkwijze en de ondersteuning van de landelijke cliëntenraad.   
 
 ### Hoofdstuk  3  
 
@@ -156,17 +156,17 @@ b. de Raad voor werk en inkomen en Onze Minister over voorstellen van de landeli
 
 ####Samenwerking
 
-1.  Het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de colleges van burgemeester en wethouders werken samen bij de uitvoering van taken op grond van deze wet, de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet investeren in jongeren](../../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) met het oog op een doeltreffende en klantgerichte uitoefening van die taken.   
+1.  Het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de colleges van burgemeester en wethouders werken samen bij de uitvoering van taken op grond van deze wet, de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) en de [Wet gemeentelijke schuldhulpverlening](../../../../../../../../wet/wet/gemeentelijke/schuldhulpverlening/BWBR0031331/README.md) met het oog op een doeltreffende en klantgerichte uitoefening van die taken.   
 2.  De bestuursorganen, bedoeld in het eerste lid, werken voorts samen met andere diensten, instellingen en bestuursorganen die werkzaamheden verrichten die verband houden met de uitoefening van de taken, bedoeld in het eerste lid.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de vorm van de samenwerking, de afstemming van de samenwerking op de uitvoering van taken opgedragen bij of krachtens andere wetten dan die bedoeld in het eerste lid, en vergoeding van kosten.   
 4.  Bij algemene maatregel van bestuur worden indicatoren vastgesteld voor de taakuitoefening, bedoeld in dit artikel.   
 
 ### Artikel  10  
 
-####Dienstverlening in locaties werk en inkomen
+####Regionale samenwerking bij dienstverlening
 
-1.  Het Uitvoeringsinstituut werknemersverzekeringen en de colleges van burgemeester en wethouders dragen zorg voor de instandhouding van voldoende bereikbare locaties werk en inkomen, waarin zij met betrekking tot de in artikel 9, eerste lid, bedoelde wetten met het oog op een geïntegreerde dienstverlening gezamenlijk diensten aan uitkeringsgerechtigden, werkzoekenden en werkgevers verlenen en taken uitvoeren gericht op het ondersteunen bij de arbeidsinschakeling en vacaturevervulling, het daarbij aanbieden van voorzieningen en het verstrekken van uitkeringen of het verlenen van bijstand, rekening houdend met de regionale arbeidsmarkt en het daarbij gezamenlijk vormgeven van de cliëntenparticipatie.   
-2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de dienstverlening in, de inrichting van en de cliëntenparticipatie bij de locaties werk en inkomen en kunnen werkzaamheden van het Uitvoeringsinstituut werknemersverzekeringen of de colleges van burgemeester en wethouders worden aangewezen die op één of meer locaties werk en inkomen worden verricht, waarbij een onderscheid kan worden gemaakt naar regio’s.   
+1.  Met het oog op de dienstverlening met betrekking tot de in artikel 9, eerste lid, bedoelde wetten werken het Uitvoeringsinstituut werknemersverzekeringen en de colleges van burgemeester en wethouders samen ten aanzien van de registratie van werkzoekenden en vacatures met behulp van de elektronische voorzieningen, bedoeld in artikel 62, tweede lid, en werken zij in regio’s samen bij de dienstverlening aan werkgevers en het verrichten van taken met betrekking tot de regionale arbeidsmarkt.   
+2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de vormgeving en geografische spreiding van de samenwerking, bedoeld in het eerste lid.   
 3.  Onze Minister kan, indien hij met betrekking tot de uitvoering van dit artikel ernstige tekortkomingen vaststelt, aan het Uitvoeringsinstituut werknemersverzekeringen of het college van burgemeester en wethouders een aanwijzing geven met betrekking tot de uitvoering van de taken op grond van dit artikel. Het Uitvoeringsinstituut werknemersverzekeringen of het college van burgemeester en wethouders worden in de gelegenheid gesteld de uitvoering in overeenstemming te brengen met de aanwijzing binnen een door Onze Minister te stellen termijn. Indien Onze Minister van oordeel is dat het Uitvoeringsinstituut werknemersverzekeringen of het college van burgemeester en wethouders na afloop van deze termijn niet aan de aanwijzing heeft voldaan, kan Onze Minister de noodzakelijke voorzieningen treffen.   
 
 ### Artikel  11  
@@ -203,36 +203,6 @@ b. het opstellen van een verslag van werkzaamheden ten behoeve van Onze Minister
 
 ####De Raad voor werk en inkomen
 
-### Artikel  16  
-
-####Raad voor werk en inkomen
-
-1.  Er is een Raad voor werk en inkomen. De Raad voor werk en inkomen heeft rechtspersoonlijkheid en heeft zijn zetel op een door Onze Minister te bepalen plaats.   
-2.  De Raad voor werk en inkomen bestaat uit zestien leden, onder wie een voorzitter, en vijftien plaatsvervangende leden die door Onze Minister worden benoemd en door hem kunnen worden geschorst en ontslagen.   
-3.  De daartoe door Onze Minister aangewezen algemeen erkende centrale organisaties van werknemers, de daartoe door hem aangewezen algemeen erkende en andere representatieve organisaties van werkgevers en de daartoe door hem aangewezen rechtspersoon, die de gemeenten vertegenwoordigt, doen aan Onze Minister een voordracht voor de benoeming van de leden en de plaatsvervangende leden van de Raad voor werk en inkomen. De aangewezen werknemersorganisaties doen daarbij een voordracht voor vijf leden en vijf plaatsvervangende leden, de aangewezen werkgeversorganisaties voor vijf leden en vijf plaatsvervangende leden, en de aangewezen rechtspersoon die de gemeenten vertegenwoordigt voor vijf leden en vijf plaatsvervangende leden.   
-4.  Het derde lid is niet van toepassing op de voorzitter van de Raad voor werk en inkomen.   
-5.  De leden van de Raad voor werk en inkomen worden benoemd voor ten hoogste vier jaar. Herbenoeming kan éénmaal voor ten hoogste vier jaar plaatsvinden. De persoon die tussentijds als lid of als plaatsvervangend lid wordt benoemd, treedt af op het tijdstip waarop degene in wiens plaats hij is benoemd, had moeten aftreden.   
-6.  Alvorens representatieve organisaties als bedoeld in het derde lid aan te wijzen, stelt Onze Minister de Sociaal-Economische Raad in de gelegenheid over de representativiteit van die organisaties advies uit te brengen.   
-7.  Onze Minister stelt de rechtspositie van de voorzitter van de Raad voor werk en inkomen en de vergoedingen van de leden van de Raad voor werk en inkomen vast.   
-8.  Het personeel van de Raad voor werk en inkomen wordt in dienst genomen op arbeidsovereenkomst naar burgerlijk recht. De bepalingen van de [tiende titel van boek 7 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn op deze overeenkomst van toepassing.   
-
-### Artikel  17  
-
-####Taken van de Raad voor werk en inkomen
-
-1.  De Raad voor werk en inkomen heeft tot taak overleg te voeren met Onze Minister over voorstellen van deze Raad betreffende: 
-
-a. het beleid met betrekking tot werk en inkomen;  
-
-b. het arbeidsmarktbeleid;  
-
-c. de bevordering van de kwaliteit en de transparantie van de re-integratiemarkt.     
-2.  De Raad voor werk en inkomen verricht op verzoek van Onze Minister of uit eigen beweging onderzoek en doet voorstellen met betrekking tot de in het eerste lid genoemde onderwerpen. Onze Minister wie het aangaat, kan door tussenkomst van Onze Minister ook een dergelijk verzoek tot de Raad voor werk en inkomen richten.   
-3.  De Raad voor werk en inkomen stelt een regeling op die voorziet in overleg over de in het eerste lid genoemde onderwerpen met personen of vertegenwoordigers van personen die als cliënt betrokken zijn bij uitvoering van die onderwerpen. Dit overleg vindt periodiek plaats, doch ten minste twee maal per jaar.   
-4.  De Raad voor werk en inkomen overlegt met de landelijke cliëntenraad, bedoeld in artikel 8, over de wijze waarop het overleg, bedoeld in het derde lid, plaatsvindt.   
-5.  De Raad voor werk en inkomen stelt een regeling vast die voorziet in overleg met het Uitvoeringsinstituut werknemersverzekeringen over de in het eerste lid genoemde onderwerpen. Dit overleg vindt periodiek plaats, doch ten minste twee maal per jaar.   
-6.  De Raad voor werk en inkomen overlegt met het Uitvoeringsinstituut werknemersverzekeringen over de wijze waarop het overleg, bedoeld in het vijfde lid, plaatsvindt.   
-
 ### Hoofdstuk  5  
 
 ####Het Uitvoeringsinstituut werknemersverzekeringen
@@ -253,7 +223,7 @@ c. de bevordering van de kwaliteit en de transparantie van de re-integratiemarkt
 
 a. ten behoeve van een rechtmatige uitvoering van bij of krachtens deze wet of enige andere wet aan het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank opgedragen taken;  
 
-b. ten behoeve van een rechtmatige uitvoering van aan de colleges van burgemeester en wethouders opgedragen taken bij of krachtens de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet investeren in jongeren](../../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) en de [Wet werk en inkomen kunstenaars](../../../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md);  
+b. ten behoeve van een rechtmatige uitvoering van aan de colleges van burgemeester en wethouders opgedragen taken bij of krachtens de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md);  
 
 c. ten behoeve van Onze Minister met het oog op het toezicht op de naleving van wetten.     
 6.  Het Uitvoeringsinstituut werknemersverzekeringen verstrekt aan Onze Minister op zijn verzoek inlichtingen die nodig zijn voor de beoordeling van een verzoek om ontheffing als bedoeld in [artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](../../../../../../../../KB/buitengewoon/besluit/arbeidsverhoudingen/1945/BWBR0002014/README.md).   
@@ -287,8 +257,9 @@ f. ten aanzien van de jonggehandicapte die volledig en duurzaam arbeidsongeschik
 5.  Het Uitvoeringsinstituut werknemersverzekeringen evalueert, in samenspraak met de uitkeringsgerechtigde, periodiek de re-integratievisie en kan deze bijstellen.   
 6.  Indien de re-integratievisie daartoe aanleiding geeft draagt het Uitvoeringsinstituut werknemersverzekeringen ten behoeve van de uitkeringsgerechtigde, bedoeld in het vierde lid, zorg voor een plan gericht op behoud en verkrijging van mogelijkheden tot het verrichten van arbeid en inschakeling in arbeid. Het re-integratieplan wordt in samenspraak met de uitkeringsgerechtigde opgesteld. Voor zover noodzakelijk in verband met de aard van de voorziening, stelt het Uitvoeringsinstituut werknemersverzekeringen de uitkeringsgerechtigde in de gelegenheid zelf een re-integratieplan op te stellen.   
 7.  In het re-integratieplan worden verplichtingen en rechten van de uitkeringsgerechtigde vermeld voor zover die niet in de re-integratievisie zijn vermeld.   
-8.  Het Uitvoeringsinstituut werknemersverzekeringen laat de werkzaamheden in het kader van zijn taak, bedoeld in het eerste en zesde lid, in elk geval indien het personen met een grotere afstand tot de arbeidsmarkt betreft, verrichten door een re-integratiebedrijf.   
-9.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld voor het derde en achtste lid in ieder geval voor de situaties van samenloop van de taak, bedoeld in het eerste lid met de vergelijkbare taak van werkgevers of in geval van samenloop van uitkeringen, de inhoud van de overeenkomst met het re-integratiebedrijf, het verwerken van gegevens en de soort werkzaamheden.   
+8.  Het Uitvoeringsinstituut werknemersverzekeringen verricht de werkzaamheden, bedoeld in het vierde tot en met zevende lid, niet ten aanzien van een uitkeringsgerechtigde op grond van de [Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) tenzij sprake is van een werknemer als bedoeld in [artikel 20, zesde lid, onderdeel a, van die wet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en niet ten aanzien van een uitkeringsgerechtigde op grond van de [Wet inkomensvoorziening oudere werklozen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md).   
+9.  Uitgezonderd uitkeringsgerechtigden als bedoeld in het achtste lid, laat het Uitvoeringsinstituut werknemersverzekeringen de werkzaamheden in het kader van zijn taak, bedoeld in het eerste en zesde lid, in elk geval indien het personen met een grotere afstand tot de arbeidsmarkt betreft, verrichten door een re-integratiebedrijf.   
+10.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld voor het derde en het negende lid in ieder geval voor de situaties van samenloop van de taak, bedoeld in het eerste lid met de vergelijkbare taak van werkgevers of in geval van samenloop van uitkeringen, de inhoud van de overeenkomst met het re-integratiebedrijf, het verwerken van gegevens en de soort werkzaamheden.   
 
 ### Artikel  30b  
 
@@ -317,7 +288,7 @@ b. indien een termijn als bedoeld in het derde lid is verstreken zonder dat de b
 
 ####Aanvraag van uitkeringen
 
-1.  Het Uitvoeringsinstituut werknemersverzekeringen neemt, onverminderd [artikel 41, tweede lid, van de Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), aanvragen in ontvangst van algemene bijstand op grond van de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) dan wel van een uitkering op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of voor een werkleeraanbod op grond van de [Wet investeren in jongeren](../../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md). Bij het in ontvangst nemen van de aanvraag legt het Uitvoeringsinstituut werknemersverzekeringen de datum van de aanvraag vast en op welke dag hij naam, adres en woonplaats van de belanghebbende heeft geregistreerd en hem in staat heeft gesteld zijn aanvraag in te dienen.   
+1.  Het Uitvoeringsinstituut werknemersverzekeringen neemt, onverminderd [artikel 41, tweede lid, van de Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), aanvragen in ontvangst van algemene bijstand op grond van de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) dan wel van een uitkering op grond van de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md). Bij het in ontvangst nemen van de aanvraag legt het Uitvoeringsinstituut werknemersverzekeringen de datum van de aanvraag vast en op welke dag hij naam, adres en woonplaats van de belanghebbende heeft geregistreerd en hem in staat heeft gesteld zijn aanvraag in te dienen.   
 2.  De belanghebbende verstrekt aan het Uitvoeringsinstituut werknemersverzekeringen op verzoek alle gevraagde gegevens en bewijsstukken die nodig zijn voor de beslissing op zijn aanvraag door het college van burgemeester en wethouders van de betrokken gemeente.   
 3.  De belanghebbende deelt op verzoek van het Uitvoeringsinstituut werknemersverzekeringen of onverwijld uit eigen beweging in verband met de toepassing van dit artikel alle feiten en omstandigheden mee, waarvan hem redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op bijstand of het recht op een uitkering, het geldend maken van het recht op bijstand of het recht op een uitkering, of de hoogte of de duur van de bijstand of de uitkering. Deze verplichting geldt niet indien die feiten en omstandigheden door het Uitvoeringsinstituut werknemersverzekeringen kunnen worden vastgesteld op grond van bij wettelijk voorschrift als authentiek aangemerkte gegevens of kunnen worden verkregen uit bij ministeriële regeling aan te wijzen administraties. Bij ministeriële regeling wordt bepaald voor welke gegevens de tweede zin van toepassing is.   
 4.  Artikel 33a, tweede en vierde lid, zijn van overeenkomstige toepassing.   
@@ -344,12 +315,6 @@ c. in het geval betrokkene niet of niet meer tot de doelgroep van [genoemde wet]
 
 d. in de gevallen, bedoeld in [artikel 6, derde lid, van die wet](../../../../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) aan het college van burgemeester en wethouders van de gemeente waar betrokkene woonachtig is te adviseren omtrent de opzegging van de dienstbetrekking, bedoeld in [die wet](../../../../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md).     
 2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor het besluit, bedoeld in het eerste lid, waaronder de minimale en de maximale geldigheidsduur van het besluit, en over de advisering en de wijze waarop de indicatie en de herindicatie tot stand komt.   
-
-### Artikel  30e  
-
-####Uitstroom vanuit loonkostensubsidie naar reguliere arbeid
-
-Het Uitvoeringsinstituut werknemersverzekeringen wijst een verzoek om een loonkostensubsidie ingevolge de [artikelen 78a van de Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), [67f van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), [2:21](../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) en [3:71 van de Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), [65i van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) en [37a van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) af indien er geen reëel uitzicht is op continuering van de betrokken dienstbetrekking of een dienstbetrekking bij een andere werkgever na beëindiging van de subsidie. Het Uitvoeringsinstituut werknemersverzekeringen hanteert daarbij een beoordelingskader van relevante indicatoren en volgt het verloop van de dienstbetrekkingen waarvoor een loonkostensubsidie is verleend tot ten minste twee maanden na beëindiging van de subsidie. Indien blijkt dat de toekenning van loonkostensubsidies niet in ten minste 50% van de beslissingen is uitgemond in een dienstbetrekking van tenminste zes maanden, stelt het Uitvoeringsinstituut werknemersverzekeringen het beoordelingskader bij op basis van de verworven inzichten, teneinde met de toekenningen in de volgende periode tenminste een dergelijke uitkomst te realiseren.  
 
 ### Artikel  31  
 
@@ -406,6 +371,13 @@ b. de vraag of de werkgever ten aanzien van zijn zieke werknemer, respectievelij
 2.  Bij algemene maatregel van bestuur of ministeriële regeling kunnen taken worden opgedragen aan het Uitvoeringsinstituut werknemersverzekeringen.   
 3.  Een voordracht voor een algemene maatregel van bestuur waarin taken aan het Uitvoeringsinstituut werknemersverzekeringen worden opgedragen wordt gedaan mede namens Onze Minister.   
 4.  Indien taken aan het Uitvoeringsinstituut werknemersverzekeringen worden opgedragen bij regeling van Onze Minister wie het aangaat, wordt deze regeling mede ondertekend door Onze Minister.   
+
+### Artikel  32e  
+
+####Elektronische dienstverlening
+
+1.  In afwijking van [artikel 2:14, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), vindt bij de uitvoering van de [Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Wet inkomensvoorziening oudere werklozen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md) en de [Toeslagenwet](../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md) met betrekking tot uitkeringsgerechtigden op grond van de hiervoor genoemde wetten en bij de uitvoering van taken als bedoeld in artikel 30a, tweede lid, 30b en 30c het verkeer tussen het Uitvoeringsinstituut werknemersverzekeringen en burgers, met uitzondering van besluiten als bedoeld in [artikel 1.3, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) die betrekking hebben op de toekenning, herziening of intrekking van een uitkering op grond van de hiervoor genoemde wetten, uitsluitend plaats langs elektronische weg, tenzij naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen sprake is van omstandigheden die zich daartegen verzetten.   
+2.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de inrichting van de dienstverlening, bedoeld in het eerste lid.   
 
 ### §  5.2  
 
@@ -505,7 +477,7 @@ g. het voeren van een adequate administratie ten behoeve van de uitoefening van 
 
 a. ten behoeve van een rechtmatige uitvoering van bij of krachtens deze wet of enige andere wet aan het Uitvoeringsinstituut werknemersverzekeringen opgedragen taken;  
 
-b. ten behoeve van een rechtmatige uitvoering van aan de colleges van burgemeester en wethouders opgedragen taken bij of krachtens de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet investeren in jongeren](../../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) en de [Wet werk en inkomen kunstenaars](../../../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md);  
+b. ten behoeve van een rechtmatige uitvoering van aan de colleges van burgemeester en wethouders opgedragen taken bij of krachtens de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md);  
 
 c. ten behoeve van Onze Minister met het oog op het toezicht op de naleving van wetten.     
 3.  De Sociale verzekeringsbank verwerkt gegevens afkomstig uit het buitenland en verricht taken in verband met deze gegevensverwerking: 
@@ -560,7 +532,7 @@ f. gegevens te verwerken om te voldoen aan verplichtingen van de Sociale verzeke
 ####Toezicht door Inspectie Werk en Inkomen
 
 1.  Er is een Inspectie Werk en Inkomen die onder Onze Minister ressorteert. Aan het hoofd van de Inspectie staat de inspecteur-generaal.   
-2.  Het toezicht op de uitvoering van de taken die bij of krachtens deze wet of enige andere wet zijn opgedragen aan het Inlichtingenbureau, de Raad voor werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank, wordt onder gezag van Onze Minister uitgeoefend door de Inspectie Werk en Inkomen.   
+2.  Het toezicht op de uitvoering van de taken die bij of krachtens deze wet of enige andere wet zijn opgedragen aan het Inlichtingenbureau, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank, wordt onder gezag van Onze Minister uitgeoefend door de Inspectie Werk en Inkomen.   
 
 ### Artikel  37  
 
@@ -568,7 +540,7 @@ f. gegevens te verwerken om te voldoen aan verplichtingen van de Sociale verzeke
 
 De Inspectie Werk en Inkomen is belast met: 
 
-a. het toezicht op de rechtmatigheid en doelmatigheid, waaronder begrepen doeltreffendheid, van de uitvoering van de bij of krachtens deze wet of enige andere wet aan het Inlichtingenbureau, de Raad voor werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank opgedragen taken;  
+a. het toezicht op de rechtmatigheid en doelmatigheid, waaronder begrepen doeltreffendheid, van de uitvoering van de bij of krachtens deze wet of enige andere wet aan het Inlichtingenbureau, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank opgedragen taken;  
 
 b. 
 
@@ -576,7 +548,7 @@ b.
 
 2°. het geven van het oordeel over de uitvoering van de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), bedoeld in [artikel 74, vierde lid, van die wet](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
 
-3°. het toezicht op de rechtmatigheid en de doeltreffendheid van de uitvoering van de [Wet sociale werkvoorziening](../../../../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) en de [Wet werk en inkomen kunstenaars](../../../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md) door de colleges van burgemeester en wethouders en op de doeltreffendheid van die wetten.    
+3°. het toezicht op de rechtmatigheid en de doeltreffendheid van de uitvoering van de [Wet sociale werkvoorziening](../../../../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) door de colleges van burgemeester en wethouders en op de doeltreffendheid van die wetten.    
 
 c. het toezicht op de rechtmatigheid en doelmatigheid, waaronder begrepen doeltreffendheid, van de wijze waarop het Uitvoeringsinstituut werknemersverzekeringen, de Sociale Verzekeringsbank en de colleges van burgemeester en wethouders bij de uitvoering van de aan hen opgedragen taken samenwerken;  
 
@@ -614,7 +586,7 @@ De Inspectie Werk en Inkomen beoordeelt op verzoek van Onze Minister de mogelijk
 
 ####Gegevensverstrekking aan de Inspectie Werk en Inkomen
 
-1.  Het Inlichtingenbureau, de Raad voor werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank verstrekken op verzoek, kosteloos, aan de Inspectie Werk en Inkomen alle gegevens en inlichtingen die voor de uitoefening van haar taak noodzakelijk zijn.   
+1.  Het Inlichtingenbureau, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank verstrekken op verzoek, kosteloos, aan de Inspectie Werk en Inkomen alle gegevens en inlichtingen die voor de uitoefening van haar taak noodzakelijk zijn.   
 2.  De in het eerste lid genoemde rechtspersonen verlenen de Inspectie Werk en Inkomen op verzoek toegang tot en inzage in gegevens en bescheiden voor zover dat voor de uitoefening van haar taak noodzakelijk is.   
 3.  De Inspectie Werk en Inkomen bepaalt de termijn waarbinnen en de wijze waarop aan de in het eerste en tweede lid bedoelde verplichtingen wordt voldaan.   
 4.  Indien naar het oordeel van de Inspectie Werk en Inkomen gerede twijfel bestaat omtrent de volledigheid of juistheid van de door het Uitvoeringsinstituut werknemersverzekeringen verstrekte stukken als bedoeld in artikel 49, voor zover dit betreft de rechtmatige en doelmatige besteding van door dat instituut ter beschikking gestelde financiële middelen ten behoeve van de inschakeling van werkzoekenden, uitkeringsgerechtigden en werknemers in de arbeid, kan zij het Uitvoeringsinstituut werknemersverzekeringen opdragen bij de natuurlijke of rechtspersoon die deze middelen heeft besteed, ter verificatie een nader onderzoek te doen instellen door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) die bij de verstrekte informatie niet betrokken is geweest. De Inspectie Werk en Inkomen bepaalt welke aspecten van de verstrekte informatie geverifieerd dienen te worden en de termijn waarbinnen het onderzoek wordt verricht.   
@@ -640,8 +612,7 @@ Onze Minister kan regels stellen waarin besluiten van het Inlichtingenbureau, he
 
 ####Uitvoeringskosten
 
-1.  De uitvoeringskosten van de Raad voor werk en inkomen komen ten laste van de daartoe door Onze Minister toegekende rijksbijdrage.   
-2.  De uitvoeringskosten van het Uitvoeringsinstituut werknemersverzekeringen komen ten laste van: 
+1.  De uitvoeringskosten van het Uitvoeringsinstituut werknemersverzekeringen komen ten laste van: 
 
 a. de fondsen, bedoeld in [artikel 1, onderdelen j tot en met m, van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);  
 
@@ -652,20 +623,20 @@ c. het Arbeidsondersteuningsfonds jonggehandicapten, genoemd in [artikel 5:1 van
 d. het Toeslagenfonds, genoemd in [artikel 31 van de Toeslagenwet](../../../../../../../../wet/toeslagenwet/BWBR0004043/README.md);  
 
 e. de daartoe door Onze Minister of Onze Minister wie het aangaat toegekende rijksbijdrage.     
-3.  De uitvoeringskosten van de Sociale verzekeringsbank komen ten laste van: 
+2.  De uitvoeringskosten van de Sociale verzekeringsbank komen ten laste van: 
 
 a. de fondsen, bedoeld in [artikel 1, onderdelen f en g, van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);  
 
 b. het Algemeen Kinderbijslagfonds, genoemd in [artikel 29a van de Algemene Kinderbijslagwet](../../../../../../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md);  
 
 c. de daartoe door Onze Minister toegekende rijksbijdrage, die in ieder geval strekt tot financiering van subsidies en uitkeringen op grond van de [Kaderwet SZW-subsidies](../../../../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md), of de daartoe door Onze Minister wie het aangaat toegekende rijksbijdrage.     
-4.  Bij ministeriële regeling worden regels gesteld omtrent de verdeling van de uitvoeringskosten over de fondsen en de rijksbijdragen.   
+3.  Bij ministeriële regeling worden regels gesteld omtrent de verdeling van de uitvoeringskosten over de fondsen en de rijksbijdragen.   
 
 ### Artikel  46  
 
 ####Jaarplan met begroting en meerjarenbeleidsplan
 
-1.  De Raad voor werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank stellen ieder elk jaar een jaarplan met begroting voor het komende kalenderjaar vast en bieden dit vóór een door hem vast te stellen datum aan Onze Minister aan. Een besluit tot vaststelling van het jaarplan met begroting behoeft de goedkeuring van Onze Minister.   
+1.  Het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank stellen ieder elk jaar een jaarplan met begroting voor het komende kalenderjaar vast en bieden dit vóór een door hem vast te stellen datum aan Onze Minister aan. Een besluit tot vaststelling van het jaarplan met begroting behoeft de goedkeuring van Onze Minister.   
 2.  Het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank stellen ieder elk jaar een meerjarenbeleidsplan vast, dat betrekking heeft op de vijf jaren inclusief het jaar waarop het in het eerste lid bedoelde jaarplan betrekking heeft, en bieden dit vóór een door hem vast te stellen datum aan Onze Minister aan.   
 3.  Bij ministeriële regeling worden regels gesteld omtrent de inhoud en de indiening van het jaarplan met begroting en van het meerjarenbeleidsplan. Ten aanzien van het Uitvoeringsinstituut werknemersverzekeringen hebben deze regels in ieder geval betrekking op de dienstverlening.   
 4.  Onze Minister brengt de in het eerste en tweede lid bedoelde plannen alsmede zijn oordeel over die plannen jaarlijks ter kennis van de beide Kamers der Staten-Generaal.   
@@ -674,7 +645,7 @@ c. de daartoe door Onze Minister toegekende rijksbijdrage, die in ieder geval st
 
 ####Voorafgaande instemming besluiten
 
-1.  Het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de Raad voor werk en inkomen behoeven, tenzij het desbetreffende besluit in het door Onze Minister goedgekeurde jaarplan met begroting is opgenomen, de voorafgaande instemming van Onze Minister voor een besluit tot: 
+1.  Het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank behoeven, tenzij het desbetreffende besluit in het door Onze Minister goedgekeurde jaarplan met begroting is opgenomen, de voorafgaande instemming van Onze Minister voor een besluit tot: 
 
 a. het oprichten dan wel deelnemen in een rechtspersoon;  
 
@@ -695,9 +666,9 @@ g. het doen van aangifte tot faillissement of het aanvragen van surséance van b
 
 ####Vaststelling budget uitvoeringskosten en budgetdiscipline
 
-1.  Onze Minister stelt jaarlijks vóór 1 december het budget voor de uitvoeringskosten van de Raad voor werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank voor het eerstvolgende kalenderjaar vast.   
-2.  Onze Minister kan besluiten het budget voor de uitvoeringskosten van de Raad voor werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank te wijzigen.   
-3.  De Raad voor werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank gaan met betrekking tot de uitvoering van verzekeringen en wetten geen verplichtingen aan en doen geen uitgaven die leiden tot overschrijden van het voor hen vastgestelde budget voor de uitvoeringskosten.   
+1.  Onze Minister stelt jaarlijks vóór 1 december het budget voor de uitvoeringskosten van het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank voor het eerstvolgende kalenderjaar vast.   
+2.  Onze Minister kan besluiten het budget voor de uitvoeringskosten van het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank te wijzigen.   
+3.  Het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank gaan met betrekking tot de uitvoering van verzekeringen en wetten geen verplichtingen aan en doen geen uitgaven die leiden tot overschrijden van het voor hen vastgestelde budget voor de uitvoeringskosten.   
 4.  Wanneer het budget voor de uitvoeringskosten van de in het eerste lid genoemde rechtspersonen niet is vastgesteld vóór 1 januari van het kalenderjaar waarop de begroting betrekking heeft, zijn deze rechtspersonen bevoegd, teneinde hun activiteiten gaande te houden, te beschikken over ten hoogste een derde gedeelte van het budget dat laatstelijk voor hen voor een geheel jaar is vastgesteld.   
 5.  Onze Minister kan besluiten dat een in het tweede lid genoemde rechtspersoon, in een geval als bedoeld in het vierde lid, kan beschikken over meer dan een derde gedeelte van het budget dat laatstelijk voor deze rechtspersoon voor een geheel jaar is vastgesteld.   
 
@@ -717,20 +688,6 @@ c. het bepaalde bij en krachtens de [artikelen 15](../../../../../../../../wet/w
 4.  Onze Minister brengt de jaarrekeningen en jaarverslagen van het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank alsmede zijn oordeel daaromtrent jaarlijks vóór de derde woensdag in mei ter kennis van de beide Kamers der Staten-Generaal.   
 5.  Bij ministeriële regeling worden nadere regels gesteld over het jaarverslag, de jaarrekening, de accountantscontrole, de accountantsverklaring en het aan die verklaring ten grondslag liggende onderzoek en de tussentijdse verslagen.   
 
-### Artikel  50  
-
-####Jaarverslag, jaarrekening, accountantscontrole en tussentijdse verslagen Raad voor werk en inkomen
-
-1.  De Raad voor werk en inkomen biedt jaarlijks een jaarverslag en een jaarrekening vóór 15 maart aan Onze Minister aan.   
-2.  De Raad voor werk en inkomen legt in zijn jaarrekening rekening en verantwoording af over het financieel beheer. De jaarrekening wordt ingericht zoveel mogelijk met overeenkomstige toepassing van [titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
-3.  De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de Raad voor werk en inkomen aangewezen accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). Bij de aanwijzing van de accountant bedingt de Raad voor werk en inkomen dat aan Onze Minister desgevraagd inzicht wordt geboden in de controlewerkzaamheden van de accountant.   
-4.  De verklaring, bedoeld in het derde lid, heeft mede betrekking op de rechtmatige verkrijging en besteding van de middelen.   
-5.  De accountant voegt bij de verklaring, bedoeld in het derde lid, tevens een verslag van zijn bevindingen over de vraag of het beheer en de organisatie van de Raad voor werk en inkomen voldoen aan eisen van doelmatigheid.   
-6.  Het besluit tot vaststelling van de jaarrekening behoeft de goedkeuring van Onze Minister.   
-7.  De Raad voor werk en inkomen verstrekt aan Onze Minister vóór een door deze te bepalen tijdstip tussentijds een verslag over de voorafgaande periode.   
-8.  Bij ministeriële regeling kunnen regels worden gesteld omtrent de jaarrekening, de verklaring, bedoeld in het derde lid, en het aan die verklaring ten grondslag liggende onderzoek, het jaarverslag en het tussentijdse verslag.   
-9.  Onze Minister brengt de jaarrekening en het jaarverslag van de Raad voor werk en inkomen alsmede zijn oordeel daaromtrent jaarlijks vóór de derde woensdag in mei ter kennis van de beide Kamers der Staten-Generaal.   
-
 ### Artikel  51  
 
 ####Financiering uitvoering [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) door de Sociale verzekeringsbank
@@ -746,7 +703,7 @@ c. het bepaalde bij en krachtens de [artikelen 15](../../../../../../../../wet/w
 
 ### Artikel  54  
 
-####Verstrekking van gegevens aan het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de Raad voor werk en inkomen, de Inspectie Werk en Inkomen en de minister
+####Verstrekking van gegevens aan het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank, de Inspectie Werk en Inkomen en de minister
 
 1.  Een ieder verstrekt op verzoek aan het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en Onze Minister en de Inspectie Werk en Inkomen, kosteloos, alle gegevens en inlichtingen die noodzakelijk zijn voor de uitvoering van bij of krachtens deze wet of enige andere wet door het desbetreffende bestuursorgaan en de Inspectie Werk en Inkomen uit te voeren taken ten opzichte van: 
 
@@ -785,11 +742,9 @@ l. het Landelijk Bureau Inning Onderhoudsbijdragen, bedoeld in de [Wet Landelijk
 m. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties voor zover het betreft de uitvoering van de [Wet inburgering](../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md).     
 4.  De in het eerste en derde lid bedoelde gegevens en inlichtingen worden op verzoek, binnen de daarbij gestelde termijn, verstrekt in schriftelijke vorm of in een andere vorm die redelijkerwijs kan worden verlangd.   
 5.  Degene op wie de in het eerste en derde lid bedoelde verplichting rust geeft op verzoek aan een bestuursorgaan als bedoeld in het eerste lid, alsmede aan de Inspectie Werk en Inkomen inzage in alle bescheiden en andere gegevensdragers, stelt deze op verzoek ter beschikking voor het nemen van afschrift en verleent de ter zake verlangde medewerking, voorzover dit noodzakelijk is voor de uitvoering van de in het eerste lid bedoelde taken door het in dat lid bedoelde bestuursorgaan en de Inspectie Werk en Inkomen.   
-6.  Onze Minister verstrekt aan de Raad voor werk en inkomen gegevens en inlichtingen die deze raad nodig heeft voor de uitoefening van zijn taak.   
-7.  Bij ministeriële regeling worden regels gesteld omtrent de verstrekking door het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de colleges van burgemeester en wethouders aan de Raad voor werk en inkomen van gegevens en inlichtingen die deze raad nodig heeft voor de uitoefening van zijn taak.   
-8.  Onze Minister van Veiligheid en Justitie verstrekt ten aanzien van de persoon die rechtens zijn vrijheid is ontnomen of de persoon die zich onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, onverwijld en kosteloos de beschikbare informatie en alle overige opgaven en inlichtingen, die van invloed kunnen zijn op het recht op uitkering, aan de Sociale verzekeringsbank en het Uitvoeringsinstituut werknemersverzekeringen, waarbij hij gebruik kan maken van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer.   
-9.  Re-integratiebedrijven verstrekken aan het Uitvoeringsinstituut werknemersverzekeringen alle opgaven en inlichtingen die noodzakelijk zijn voor de uitvoering van de krachtens deze wet aan het Uitvoeringsinstituut opgedragen taken. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld voor de gegevens die worden verstrekt.   
-10.  Bij algemene maatregel van bestuur kunnen andere instanties dan genoemd in het derde lid worden aangewezen voor wie de verplichtingen, bedoeld in het derde, vierde en vijfde lid, eveneens gelden, voor zover het betreft de verstrekking van nader bij algemene maatregel van bestuur aan te wijzen gegevens en inlichtingen, waarbij bepaald kan worden, dat gegevens, die verwerkt worden door Onze Minister of Onze Minister, wie het aangaat, aangewezen toezichthouders, verstrekt worden aan opsporingsambtenaren als bedoeld in artikel 85, tweede lid.   
+6.  Onze Minister van Veiligheid en Justitie verstrekt ten aanzien van de persoon die rechtens zijn vrijheid is ontnomen of de persoon die zich onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, onverwijld en kosteloos de beschikbare informatie en alle overige opgaven en inlichtingen, die van invloed kunnen zijn op het recht op uitkering, aan de Sociale verzekeringsbank en het Uitvoeringsinstituut werknemersverzekeringen, waarbij hij gebruik kan maken van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer.   
+7.  Re-integratiebedrijven verstrekken aan het Uitvoeringsinstituut werknemersverzekeringen alle opgaven en inlichtingen die noodzakelijk zijn voor de uitvoering van de krachtens deze wet aan het Uitvoeringsinstituut opgedragen taken. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld voor de gegevens die worden verstrekt.   
+8.  Bij algemene maatregel van bestuur kunnen andere instanties dan genoemd in het derde lid worden aangewezen voor wie de verplichtingen, bedoeld in het derde, vierde en vijfde lid, eveneens gelden, voor zover het betreft de verstrekking van nader bij algemene maatregel van bestuur aan te wijzen gegevens en inlichtingen, waarbij bepaald kan worden, dat gegevens, die verwerkt worden door Onze Minister of Onze Minister, wie het aangaat, aangewezen toezichthouders, verstrekt worden aan opsporingsambtenaren als bedoeld in artikel 85, tweede lid.   
 
 ### Artikel  55  
 
@@ -816,9 +771,9 @@ Het Uitvoeringsinstituut werknemersverzekeringen, de rijksbelastingdienst en de 
 
 ####Onderlinge gegevensverstrekking door het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de gemeenten
 
-1.  Het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de colleges van burgemeester en wethouders verstrekken elkaar uit eigen beweging en op verzoek, kosteloos, alle gegevens en inlichtingen die noodzakelijk zijn voor de uitvoering van de taken die bij of krachtens deze wet of enige andere wet aan het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en bij of krachtens de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet investeren in jongeren](../../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) of bij of krachtens andere wetten aan de colleges van burgemeester en wethouders zijn opgedragen, voor zover dit voorvloeit uit de samenwerking, bedoeld in artikel 9. Zij maken daarbij gebruik van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van de personen op wie de gegevens betrekking hebben.   
-2.  Het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de colleges van burgemeester en wethouders dragen gezamenlijk zorg voor de instandhouding van elektronische voorzieningen voor de verwerking van de gegevens, bedoeld in het eerste lid, voor zover dat noodzakelijk is voor de uitvoering van de taken die bij of krachtens deze wet of enige andere wet aan het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en bij of krachtens de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet investeren in jongeren](../../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) aan colleges van burgemeester en wethouders zijn opgedragen. De elektronische voorzieningen hebben mede betrekking op de verwerking van gegevens waarvan de verkrijging en verstrekking door de in de eerste zin genoemde bestuursorganen op grond van enig wettelijk voorschrift is toegestaan.   
-3.  Bij de gegevensverwerking voor de uitvoering van taken en werkzaamheden in de locaties werk en inkomen, bedoeld in artikel 10, zijn het Uitvoeringsinstituut werknemersverzekeringen en de colleges van burgemeester en wethouders gezamenlijk verantwoordelijke in de zin van [Wet bescherming persoonsgegevens](../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) voor de verwerking van gegevens voor de uitvoering van taken ten aanzien van dezelfde uitkeringsgerechtigde of werkzoekende.   
+1.  Het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de colleges van burgemeester en wethouders verstrekken elkaar uit eigen beweging en op verzoek, kosteloos, alle gegevens en inlichtingen die noodzakelijk zijn voor de uitvoering van de taken die bij of krachtens deze wet of enige andere wet aan het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en bij of krachtens de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), de [Wet gemeentelijke schuldhulpverlening](../../../../../../../../wet/wet/gemeentelijke/schuldhulpverlening/BWBR0031331/README.md) of bij of krachtens andere wetten aan de colleges van burgemeester en wethouders zijn opgedragen, voor zover dit voorvloeit uit de samenwerking, bedoeld in artikel 9. Zij maken daarbij gebruik van het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van de personen op wie de gegevens betrekking hebben.   
+2.  Het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en de colleges van burgemeester en wethouders dragen gezamenlijk zorg voor de instandhouding van elektronische voorzieningen voor de verwerking van de gegevens, bedoeld in het eerste lid, voor zover dat noodzakelijk is voor de uitvoering van de taken die bij of krachtens deze wet of enige andere wet aan het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank en bij of krachtens de [Wet werk en bijstand](../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) of de [Wet gemeentelijke schuldhulpverlening](../../../../../../../../wet/wet/gemeentelijke/schuldhulpverlening/BWBR0031331/README.md) aan colleges van burgemeester en wethouders zijn opgedragen. De elektronische voorzieningen hebben mede betrekking op de verwerking van gegevens waarvan de verkrijging en verstrekking door de in de eerste zin genoemde bestuursorganen op grond van enig wettelijk voorschrift is toegestaan.   
+3.  Bij de gegevensverwerking voor de uitvoering van de diensten en taken, bedoeld in artikel 10, zijn het Uitvoeringsinstituut werknemersverzekeringen en de colleges van burgemeester en wethouders gezamenlijk verantwoordelijke in de zin van [Wet bescherming persoonsgegevens](../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) voor de verwerking van gegevens voor de uitvoering van taken ten aanzien van dezelfde uitkeringsgerechtigde of werkzoekende.   
 4.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot het tweede en derde lid in ieder geval met betrekking tot de inrichting, het beheer en de beveiliging van de elektronische voorzieningen.   
 
 ### Artikel  63  
@@ -829,9 +784,9 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor de ta
 
 ### Artikel  72  
 
-####Gegevensverstrekking door de Raad voor werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank aan de Minister
+####Gegevensverstrekking door het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank aan de Minister
 
-De Raad voor werk en inkomen, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank verstrekken op verzoek, kosteloos, aan Onze Minister en, in overeenstemming met Onze Minister, aan de Minister die belast is met aangelegenheden betreffende beleid bij de uitvoering waarvan het betrokken bestuursorgaan een taak heeft, alle gegevens en inlichtingen die voor de uitoefening van de taak van Onze Minister en van Onze betrokken Minister noodzakelijk zijn. Zij verlenen Onze Minister op verzoek toegang tot en inzage in gegevens en bescheiden voor zover dat voor de uitoefening van zijn taken en van Onze Minister wie het aangaat noodzakelijk is. Bij ministeriële regeling kunnen regels worden gesteld voor de termijn waarbinnen en de wijze waarop aan de in dit artikel bedoelde verplichtingen wordt voldaan.  
+De Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank verstrekken op verzoek, kosteloos, aan Onze Minister en, in overeenstemming met Onze Minister, aan de Minister die belast is met aangelegenheden betreffende beleid bij de uitvoering waarvan het betrokken bestuursorgaan een taak heeft, alle gegevens en inlichtingen die voor de uitoefening van de taak van Onze Minister en van Onze betrokken Minister noodzakelijk zijn. Zij verlenen Onze Minister op verzoek toegang tot en inzage in gegevens en bescheiden voor zover dat voor de uitoefening van zijn taken en van Onze Minister wie het aangaat noodzakelijk is. Bij ministeriële regeling kunnen regels worden gesteld voor de termijn waarbinnen en de wijze waarop aan de in dit artikel bedoelde verplichtingen wordt voldaan.  
 
 ### Artikel  73  
 
@@ -902,7 +857,7 @@ Het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank 
 
 ####Nadere regels
 
-Bij ministeriële regeling worden nadere regels gesteld omtrent de verstrekking van inlichtingen en het verlenen van inzage in gegevens en bescheiden door het Inlichtingenbureau, het Uitvoeringsinstituut werknemersverzekeringen, de Raad voor werk en inkomen en de Sociale verzekeringsbank aan Onze Minister en aan de Inspectie Werk en Inkomen op grond van deze wet en kunnen regels worden gesteld omtrent de inrichting van de administratie van de genoemde rechtspersonen.  
+Bij ministeriële regeling worden nadere regels gesteld omtrent de verstrekking van inlichtingen en het verlenen van inzage in gegevens en bescheiden door het Inlichtingenbureau, het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank aan Onze Minister en aan de Inspectie Werk en Inkomen op grond van deze wet en kunnen regels worden gesteld omtrent de inrichting van de administratie van de genoemde rechtspersonen.  
 
 ### Hoofdstuk  10  
 
@@ -997,14 +952,6 @@ In afwijking van [artikel 7:3 van de Algemene wet bestuursrecht](../../../../../
 
 Het Uitvoeringsinstituut werknemersverzekeringen informeert de werknemer, bedoeld in de [Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), van wie door het Uitvoeringsinstituut werknemersverzekeringen gegevens zijn verwerkt op grond van deze wet, over het tijdvak vanaf 1 januari 1998 op de wijze, bedoeld in artikel 33c, over ieder kalenderjaar in dat tijdvak of hij over 52 of meer dagen loon heeft ontvangen als bedoeld in [artikel 42 van de Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en [artikel 15 van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), dan wel [artikel 42a van de Werkloosheidswet](../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) in een kalenderjaar van toepassing is.  
 
-### Artikel  83j  
-
-####Overgangsrecht artikel 20 
-
-1.  Beschikkingen die de Raad voor werk en inkomen namens Onze Minister van Sociale Zaken en Werkgelegenheid heeft genomen op grond van een regeling gebaseerd op artikel 20, zoals dat artikel luidde voor de datum van inwerkingtreding van [artikel I, onderdeel B, van de Wet van 23 december 2004, houdende wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wijzigingswet/enkele/socialeverzekeringswetten/enz./(aanbrengen/enige/etc/BWBR0017841/README.md) in verband met wijziging van de taken en de werkwijze van de Raad voor werk en inkomen, blijven van kracht.   
-2.  Met betrekking tot de uitvoering van een regeling op grond van artikel 20, zoals dat artikel luidde voor de datum van inwerkingtreding van [artikel I, onderdeel B, van de Wet van 23 december 2004, houdende wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wijzigingswet/enkele/socialeverzekeringswetten/enz./(aanbrengen/enige/etc/BWBR0017841/README.md) in verband met wijziging van de taken en de werkwijze van de Raad voor werk en inkomen, blijft het recht zoals dat voor die datum gold van toepassing.   
-3.  Met betrekking tot bezwaarschriften en bestuursrechtelijke gedingen inzake beschikkingen als bedoeld in het eerste lid dan wel gebaseerd op het tweede lid, blijft het recht zoals dat gold voor de datum van inwerkingtreding van [artikel I, onderdeel B, van de Wet van 23 december 2004, houdende wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../wet/wijzigingswet/enkele/socialeverzekeringswetten/enz./(aanbrengen/enige/etc/BWBR0017841/README.md) in verband met wijziging van de taken en de werkwijze van de Raad voor werk en inkomen, van toepassing.   
-
 ### Artikel  83k  
 
 ####Overgangsrecht re-integratietaak Uitvoeringsinstituut werknemersverzekeringen
@@ -1086,6 +1033,36 @@ De rechten en verplichtingen van de Centrale organisatie werk en inkomen die voo
 
 1.  Goedkeuring verleend aan de Centrale organisatie werk en inkomen op grond van artikel 13, eerste lid, zoals dit artikel luidde op 31 december 2008, wordt aangemerkt als goedkeuring of, indien artikel 5, vierde lid, van toepassing is, als melding, van een daartoe strekkend besluit van het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 5.   
 2.  Verplichtingen opgelegd aan de Centrale organisatie werk en inkomen op grond van artikel 13, tweede lid, zoals dit artikel luidde op 31 december 2008, worden aangemerkt als verplichtingen opgelegd aan het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 5.   
+
+### Hoofdstuk  10D  
+
+####Overgangsbepalingen in verband met de opheffing van de Raad voor werk en inkomen
+
+### Artikel  83sa  
+
+####Verlies van rechtspersoonlijkheid door de Raad voor werk en inkomen
+
+Met ingang van de dag waarop artikel IV, onderdeel D, van de Wet van 21 mei 2012 tot wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen in verband met aanpassing van de dienstverlening van het Uitvoeringsinstituut werknemersverzekeringen aan werkgevers en werkzoekenden en de opheffing van de Raad voor Werk en Inkomen als publiekrechtelijke rechtspersoon met een wettelijke taak en van de Werkloosheidswet en enige andere wetten in verband met de beëindiging van de inzet van het re-integratiebudget Werkloosheidswet en van loonkostensubsidies in werking is getreden, verliest de Raad voor werk en inkomen zijn rechtspersoonlijkheid.  
+
+### Artikel  83t  
+
+####Overgang vermogensbestanddelen van de Raad voor werk en inkomen
+
+1.  Alle vermogensbestanddelen van de Raad voor werk en inkomen gaan over op de Staat, zonder dat daarvoor een akte of betekening nodig is.   
+2.  Met betrekking tot de ingevolge het eerste lid overgaande vermogensbestanddelen die in openbare registers te boek zijn gesteld, zal verandering van de tenaamstelling in die registers plaatsvinden door de bewaarders van die registers. De daartoe benodigde opgaven worden door de zorg van Onze Minister aan de bewaarders van de desbetreffende registers gedaan.   
+3.  Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat in afwijking van het eerste lid vermogensbestanddelen van de Raad voor werk en inkomen overgaan op bij die maatregel aan te wijzen rechtspersonen. Dit artikel is ten aanzien van die overgang van overeenkomstige toepassing.   
+
+### Artikel  83u  
+
+####Ontslag voorzitter en leden van de Raad voor werk en inkomen
+
+Aan de leden en de voorzitter van de Raad voor werk en inkomen, die in die functie zijn benoemd voorafgaand aan de datum van inwerkingtreding van artikel IV, onderdeel D, van de Wet van 21 mei 2012 tot wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen in verband met aanpassing van de dienstverlening van het Uitvoeringsinstituut werknemersverzekeringen aan werkgevers en werkzoekenden en de opheffing van de Raad voor werk en inkomen als publiekrechtelijke rechtspersoon met een wettelijke taak en van de Werkloosheidswet en enige andere wetten in verband met de beëindiging van de inzet van het re-integratiebudget Werkloosheidswet en van loonkostensubsidies, wordt met ingang van die datum ontslag verleend.  
+
+### Artikel  83v  
+
+####Nadere regels over de afwikkeling en financiële bijdrage
+
+Bij ministeriële regeling kunnen nadere regels worden gesteld over de afwikkeling van de opheffing van de Raad voor werk en inkomen en kan worden bepaald dat kosten in verband met die opheffing ten laste van ’s Rijks kas worden vergoed.  
 
 ### Hoofdstuk  11  
 

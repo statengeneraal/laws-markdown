@@ -19,7 +19,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De wettelijke rente als bedoeld in [artikel 119 van boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), wordt vastgesteld op vier procent per jaar.  
+De wettelijke rente als bedoeld in artikel 119 van boek 6 van het Burgerlijk Wetboek, wordt vastgesteld op drie procent per jaar.  
 
 ### Artikel  2  
 

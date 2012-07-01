@@ -46,7 +46,7 @@ e. Onze Minister: Onze Minister van Financiën.
 
 ### Artikel  1a  
 
-1.  Deze wet is niet van toepassing op effectenuitgevende instellingen die uitsluitend obligaties of effecten zonder aandelenkarakter als bedoeld in [artikel 5:1, onderdeel e, van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) uitgeven met een nominale waarde per eenheid van ten minste € 50 000.   
+1.  Deze wet is niet van toepassing op effectenuitgevende instellingen die uitsluitend obligaties of effecten zonder aandelenkarakter als bedoeld in [artikel 5:1, onderdeel e, van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) uitgeven met een nominale waarde per eenheid van ten minste € 100 000.   
 2.  Deze wet is niet van toepassing op effectenuitgevende instellingen met zetel in een door Onze Minster aangewezen staat die geen lidstaat is en die op grond van [artikel 5:25v van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) hun financiële verslaggeving opmaken overeenkomstig de in die staat geldende wettelijke voorschriften met betrekking tot financiële verslaggeving. Onze Minister kan een staat uitsluitend aanwijzen indien het in die staat uitgeoefende toezicht op de naleving van de in de vorige volzin bedoelde wettelijke voorschriften voldoende waarborgen biedt ter bescherming van de belangen die deze wet beoogt te beschermen.   
 
 ### Hoofdstuk  2  
@@ -136,7 +136,7 @@ Gegevens en inlichtingen die aan de Autoriteit Financiële Markten zijn verstrek
 
 ### Artikel  8  
 
-De Autoriteit Financiële Markten werkt, wat betreft het toezicht ingevolge deze wet op de financiële verslaggeving van kredietinstellingen, verzekeraars of beleggingsondernemingen als bedoeld in [artikel 1:1 van Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), samen met de Nederlandsche Bank N.V., voorzover dit voor de uitoefening van het toezicht noodzakelijk is.  
+De Autoriteit Financiële Markten werkt, wat betreft het toezicht ingevolge deze wet op de financiële verslaggeving van banken, verzekeraars of beleggingsondernemingen als bedoeld in [artikel 1:1 van Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), samen met de Nederlandsche Bank N.V., voorzover dit voor de uitoefening van het toezicht noodzakelijk is.  
 
 ### Hoofdstuk  5  
 

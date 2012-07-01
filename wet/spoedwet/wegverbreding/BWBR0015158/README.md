@@ -20,7 +20,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 a. Onze Minister: Onze Minister van Infrastructuur en Milieu;  
 
-b. wegaanpassingsbesluit: het besluit, bedoeld in artikel 4.    
+b. wegaanpassingsbesluit: het besluit, bedoeld in artikel 4;  
+
+c. geluidproductieplafond: geluidproductieplafond als bedoeld in [artikel 11.1 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+
+d. referentiepunt: referentiepunt als bedoeld in [artikel 11.19 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+
+e. geluidsgevoelig object: geluidsgevoelig object als bedoeld in [artikel 11.1 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).    
 
 ### Artikel  2  
 
@@ -82,38 +88,30 @@ c. de inventarisatie van de aanwezige flora en fauna en van de gevolgen van de w
 
 ### Artikel  5  
 
-####(toepassing [Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md))
+Ten aanzien van de in de bijlage, onder A, opgenomen wegaanpassingsprojecten is [titel 11.3 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van overeenkomstige toepassing en bevat het wegaanpassingsbesluit: 
 
-1.  Voor de toepassing van deze wet zijn ten aanzien van de in de bijlage, onder A, opgenomen wegaanpassingsprojecten afdeling [2A van hoofdstuk VI](../../../../wet/wet/geluidhinder/BWBR0003227/README.md) en [artikel 111a van de Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md) van overeenkomstige toepassing.   
-2.  Ten aanzien van de in het eerste lid bedoelde wegaanpassingsprojecten bevat het wegaanpassingsbesluit: 
+a. de in acht te nemen geluidproductieplafonds, voor zover dat wegaanpassingsproject zou leiden tot overschrijding van het geldende geluidproductieplafond, en  
 
-a. de beslissing tot het vaststellen van een hogere waarde voor de ten hoogste toelaatbare geluidsbelasting in zones ingevolge de [artikelen 87e tot en met 87i van de Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md) met betrekking tot het gebied dat is begrepen in een wegaanpassingsbesluit;  
-
-b. de aanduiding van de te treffen maatregelen, gericht op het terugbrengen van de geluidsbelasting van de gevel van de woningen of andere geluidsgevoelige gebouwen onderscheidenlijk aan de grens van geluidsgevoelige terreinen als bedoeld in de [Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md).     
-3.  Onze Minister zendt het ontwerp-wegaanpassingsbesluit, indien het hogere waarden bevat voor de ten hoogste toelaatbare geluidsbelasting in zones ingevolge de [artikelen 87e tot en met 87i van de Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md), voordat het ter inzage wordt gelegd aan: 
-
-a. de gebruikers van de woningen of de woonwagenstandplaatsen, het bevoegd gezag van scholen en de directies van ziekenhuizen, verpleeghuizen en andere gezondheidszorggebouwen waarvoor een hogere waarde wordt bepaald;  
-
-b. de ter plaatse bevoegde inspecteur, die door Onze Minister is aangewezen;  
-
-c. Onze Minister van Onderwijs, Cultuur en Wetenschappen, indien het betrekking heeft op scholen.     
+b. de referentiepunten ingeval van aanleg of ingeval van verplaatsing van referentiepunten.    
 
 ### Artikel  6  
 
 ####(specifieke bepalingen met betrekking tot geluidhinder)
 
 1.  Voor de toepassing van dit artikel wordt verstaan onder akoestische gegevens: de berekening van de 70 dB(A) geluidcontour langs de wegvakken, gebaseerd op de verkeersgegevens over het jaar 2000.   
-2.  Ten aanzien van de in de bijlage, onder B, opgenomen wegaanpassingsprojecten is de [Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md) niet van toepassing.   
+2.  Ten aanzien van wegaanpassingsbesluiten voor de in de bijlage, onder B, opgenomen wegaanpassingsprojecten is [titel 11.3 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) niet van toepassing.   
 3.  Ten aanzien van de in het tweede lid bedoelde wegaanpassingsprojecten bevat het wegaanpassingsbesluit de akoestische gegevens, alsmede de maatregel, voor zover deze voortvloeit uit het vierde lid.   
-4.  Indien uit de akoestische gegevens blijkt dat sprake is van een overschrijding van 70 dB(A) bij geluidsgevoelige bestemmingen, wordt in het wegaanpassingsbesluit een geluidreducerende wegdeklaag voorgeschreven, tenzij dit redelijkerwijs niet kan worden gevergd.   
-5.  Uiterlijk twee jaar na het onherroepelijk worden van het wegaanpassingsbesluit stelt Onze Minister ten aanzien van de in het tweede lid bedoelde wegaanpassingsprojecten een plan op voor de te treffen maatregelen, gericht op het terugbrengen van de geluidsbelasting vanwege de weg, van de gevel van de woningen of andere geluidsgevoelige gebouwen of aan de grens van geluidsgevoelige terreinen binnen de zone van de weg overeenkomstig [artikel 74, eerste lid, van de Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md). Artikel 4, vierde lid, met uitzondering van het bepaalde onder b en c, is van overeenkomstige toepassing op het plan.   
-6.  Het plan bevat voorts de vaststelling van de geluidsbelasting van de gevel van de woningen, andere geluidsgevoelige gebouwen en aan de grens van geluidsgevoelige terreinen binnen de zone van de weg overeenkomstig [artikel 74, eerste lid, van de Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md), zoals deze wordt berekend na het treffen van de maatregelen overeenkomstig het plan.   
+4.  Indien uit de akoestische gegevens blijkt dat sprake is van een overschrijding van 70 dB(A) bij geluidsgevoelige objecten, wordt in het wegaanpassingsbesluit een geluidreducerende wegdeklaag voorgeschreven, tenzij dit redelijkerwijs niet kan worden gevergd.   
+5.  Uiterlijk twee jaar na het onherroepelijk worden van het wegaanpassingsbesluit stelt Onze Minister ten aanzien van de in het tweede lid bedoelde wegaanpassingsprojecten een plan op voor de te treffen maatregelen, gericht op het terugbrengen van de geluidsbelasting die de betrokken geluidsgevoelige objecten vanwege de weg ondervinden. Artikel 4, vierde lid, met uitzondering van het bepaalde onder b en c, is van overeenkomstige toepassing op het plan.   
+6.  Het plan bevat voorts: 
+
+a. de in acht te nemen geluidproductieplafonds, voor zover aanleg of wijziging zou leiden tot overschrijding van het geldende geluidproductieplafond, en  
+
+b. de referentiepunten ingeval van aanleg of ingeval van verplaatsing van referentiepunten.     
 7.  Het plan bepaalt de termijn waarbinnen de in het vijfde lid bedoelde maatregelen in uitvoering worden genomen.   
-8.  Voor de toepassing van de artikelen [87f, tweede of derde lid](../../../../wet/wet/geluidhinder/BWBR0003227/README.md), [87g, tweede lid](../../../../wet/wet/geluidhinder/BWBR0003227/README.md), [100, tweede of derde lid](../../../../wet/wet/geluidhinder/BWBR0003227/README.md), [106g, tweede of derde lid](../../../../wet/wet/geluidhinder/BWBR0003227/README.md), en [106h, tweede lid, van de Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md) geldt een krachtens het zesde lid vastgestelde geluidsbelasting als een krachtens [die wet](../../../../wet/wet/geluidhinder/BWBR0003227/README.md) vastgestelde hogere waarde voor de ten hoogste toelaatbare geluidsbelasting.   
-9.  [Artikel 111a van de Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md) is van overeenkomstige toepassing op de vaststelling van de geluidsbelasting van het zesde lid.   
-10.  Voor zover het plan en het bestemmingsplan of de beheersverordening niet met elkaar in overeenstemming zijn, geldt het plan voor de uitvoering daarvan als omgevingsvergunning waarbij ten behoeve van een project van nationaal belang, met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), van het bestemmingsplan of de beheersverordening wordt afgeweken. Bij de toepassing van [artikel 2.10 van die wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) wordt onder bestemmingsplan of beheersverordening mede het plan begrepen.   
-11.  Ten aanzien van het plan is artikel 11, tiende en elfde lid, van overeenkomstige toepassing.   
-12.  Op de voorbereiding van het plan is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
+8.  Vanaf het tijdstip waarop het wegaanpassingsbesluit onherroepelijk is geworden tot het tijdstip waarop de maatregelen, bedoeld in het vijfde lid, zijn uitgevoerd, geldt voor de betreffende referentiepunten een vrijstelling van [artikel 11.20 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
+9.  Voor zover het plan en het bestemmingsplan of de beheersverordening niet met elkaar in overeenstemming zijn, geldt het plan voor de uitvoering daarvan als omgevingsvergunning waarbij ten behoeve van een project van nationaal belang, met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), van het bestemmingsplan of de beheersverordening wordt afgeweken. Bij de toepassing van [artikel 2.10 van die wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) wordt onder bestemmingsplan of beheersverordening mede het tracébesluit begrepen. Artikel 11, achtste en negende lid, is van overeenkomstige toepassing.   
+10.  Op de voorbereiding van het plan is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
 
 ### Artikel  7  
 
@@ -170,16 +168,14 @@ c. zienswijzen naar voren kunnen worden gebracht door een ieder.
 ####(rechtsgevolgen van het wegaanpassingsbesluit)
 
 1.  Voor het gebied dat is begrepen in een vastgesteld wegaanpassingsbesluit geldt dat besluit als voorbereidingsbesluit als bedoeld in [artikel 3.7 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).   
-2.  Ten aanzien van de in de bijlage, onder A, opgenomen wegaanpassingsprojecten geldt voor de bij het wegaanpassingsbesluit behorende zone, bedoeld in [artikel 74, eerste lid, van de Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md), het wegaanpassingsbesluit als voorbereidingsbesluit als bedoeld in [artikel 3.7 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), met dien verstande dat dit slechts geldt met betrekking tot geprojecteerde woningen en andere geluidsgevoelige objecten ten aanzien waarvan de geluidsbelasting vanwege de weg of vanwege binnen de zone van die weg gelegen wegen de waarden die ingevolge de [artikelen 87e tot en met 87i van de Wet geluidhinder](../../../../wet/wet/geluidhinder/BWBR0003227/README.md) als ten hoogste toelaatbare waarden worden aangemerkt, te boven zal gaan.   
-3.  Voor zover het wegaanpassingsbesluit geldt als voorbereidingsbesluit, is [artikel 3.7, vijfde en zesde lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) niet van toepassing.   
-4.  Het wegaanpassingsbesluit geldt niet langer als voorbereidingsbesluit indien voor het in het eerste lid bedoelde gebied een bestemmingsplan in overeenstemming met het wegaanpassingsbesluit van kracht is geworden.   
-5.  Onder een geprojecteerde woning of een ander geprojecteerd geluidsgevoelig object als bedoeld in het tweede lid wordt verstaan een nog niet aanwezige woning of ander geluidsgevoelig object waarvoor het geldende bestemmingsplan verlening van de omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) toelaat, maar deze nog niet is afgegeven.   
-6.  [Artikel 3.3, eerste tot en met derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is niet van toepassing op aanvragen om een omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a, van die wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) ter uitvoering van het wegaanpassingsbesluit.   
-7.  Indien ter uitvoering van het wegaanpassingsbesluit handelingen worden verricht waarvoor krachtens [artikel 15 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) een verkeersbesluit is vereist, is dat artikel niet van toepassing.   
-8.  Voor zover het wegaanpassingsbesluit en het bestemmingsplan of de beheersverordening niet met elkaar in overeenstemming zijn, geldt het besluit voor de uitvoering daarvan als omgevingsvergunning waarbij ten behoeve van een project van nationaal belang, met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), van het bestemmingsplan of de beheersverordening wordt afgeweken. Bij de toepassing van [artikel 2.10 van die wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) wordt onder bestemmingsplan of beheersverordening mede het wegaanpassingsbesluit begrepen.   
-9.  Voor zover een bestemmingsplan, een beheersverordening of een ander besluit voor de uitvoering van werken of werkzaamheden een omgevingsvergunning voor een aanlegactiviteit als bedoeld in [artikel 2.1, eerste lid, onder b, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) vereist, geldt zodanige eis niet in het gebied dat is begrepen in een vastgesteld wegaanpassingsbesluit.   
-10.  De gemeenteraad stelt binnen een jaar nadat het wegaanpassingsbesluit onherroepelijk is geworden een bestemmingsplan of een beheersverordening als bedoeld in de [Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) overeenkomstig het wegaanpassingsbesluit vast. Voor zover een ontwerp van een bestemmingsplan zijn grondslag vindt in het wegaanpassingsbesluit kunnen zienswijzen geen betrekking hebben op dat deel van het ontwerpplan.   
-11.  Indien een bestemmingsplan in strijd is met een onherroepelijk wegaanpassingsbesluit en het bestemmingsplan nog niet is aangepast aan het wegaanpassingsbesluit, is het gemeentebestuur verplicht aan degenen die inzage verlangen in zodanig bestemmingsplan, tevens inzage te verlenen in het ten aanzien van het door dat plan bestreken gebied vastgestelde wegaanpassingsbesluit.   
+2.  Voor zover het wegaanpassingsbesluit geldt als voorbereidingsbesluit, is [artikel 3.7, vijfde en zesde lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) niet van toepassing.   
+3.  Het wegaanpassingsbesluit geldt niet langer als voorbereidingsbesluit indien voor het in het eerste lid bedoelde gebied een bestemmingsplan in overeenstemming met het wegaanpassingsbesluit van kracht is geworden.   
+4.  [Artikel 3.3, eerste tot en met derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is niet van toepassing op aanvragen om een omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a, van die wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) ter uitvoering van het wegaanpassingsbesluit.   
+5.  Indien ter uitvoering van het wegaanpassingsbesluit handelingen worden verricht waarvoor krachtens [artikel 15 van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) een verkeersbesluit is vereist, is dat artikel niet van toepassing.   
+6.  Voor zover het wegaanpassingsbesluit en het bestemmingsplan of de beheersverordening niet met elkaar in overeenstemming zijn, geldt het besluit voor de uitvoering daarvan als omgevingsvergunning waarbij ten behoeve van een project van nationaal belang, met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), van het bestemmingsplan of de beheersverordening wordt afgeweken. Bij de toepassing van [artikel 2.10 van die wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) wordt onder bestemmingsplan of beheersverordening mede het wegaanpassingsbesluit begrepen.   
+7.  Voor zover een bestemmingsplan, een beheersverordening of een ander besluit voor de uitvoering van werken of werkzaamheden een omgevingsvergunning voor een aanlegactiviteit als bedoeld in [artikel 2.1, eerste lid, onder b, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) vereist, geldt zodanige eis niet in het gebied dat is begrepen in een vastgesteld wegaanpassingsbesluit.   
+8.  De gemeenteraad stelt binnen een jaar nadat het wegaanpassingsbesluit onherroepelijk is geworden een bestemmingsplan of een beheersverordening als bedoeld in de [Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) overeenkomstig het wegaanpassingsbesluit vast. Voor zover een ontwerp van een bestemmingsplan zijn grondslag vindt in het wegaanpassingsbesluit kunnen zienswijzen geen betrekking hebben op dat deel van het ontwerpplan.   
+9.  Indien een bestemmingsplan in strijd is met een onherroepelijk wegaanpassingsbesluit en het bestemmingsplan nog niet is aangepast aan het wegaanpassingsbesluit, is het gemeentebestuur verplicht aan degenen die inzage verlangen in zodanig bestemmingsplan, tevens inzage te verlenen in het ten aanzien van het door dat plan bestreken gebied vastgestelde wegaanpassingsbesluit.   
 
 ### Artikel  12  
 

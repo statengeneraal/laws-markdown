@@ -3,32 +3,32 @@
 ##Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieu en de Minister van Verkeer en Waterstaat, van 14 december 2009, nr. BJZ2009064879, houdende nadere regels voor het criterium ter beoordeling van de kosten van maatregelen gericht op het terugbrengen van de verwachte geluidsbelasting van de gevel van woningen of andere geluidsgevoelige gebouwen, onderscheidenlijk aan de grens van geluidsgevoelige terreinen in relatie tot kwaliteit, aard en gebruik van geluidsgevoelige objecten en tot de doeltreffendheid van die maatregelen (Regeling doelmatigheid geluidmaatregelen Wet geluidhinder)
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieu en de Minister van Verkeer en Waterstaat;  
-Gelet op de [artikelen 87b, vierde en vijfde lid](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), en [106, vierde lid, van de Wet geluidhinder](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) en de [artikelen 3.9](../../../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md) en [4.22 van het Besluit geluidhinder](../../../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md);
+Gelet op de artikelen 87b, vierde en vijfde lid, en 106, vierde lid, van de Wet geluidhinder en de artikelen 3.9 en 4.22 van het Besluit geluidhinder;
 Besluiten:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-*aantal maatregelpunten:* aantal maatregelpunten bepaald overeenkomstig artikel 4;  
-
-*aantal reductiepunten:* aantal reductiepunten bepaald overeenkomstig artikel 5;  
-
 *bronmaatregel:* geluidbeperkende maatregel als bedoeld in tabel 1 en tabel 3, onder 1, van Bijlage 1;  
 
 *cluster:* geluidsgevoelig object of verzameling bijeengelegen geluidsgevoelige objecten, gelegen binnen de zone van een weg of spoorweg, die een relevante verlaging van de geluidsbelasting vanwege een weg of spoorweg zou kunnen ondervinden van een aaneengesloten geluidbeperkende maatregel;  
 
-*financieel doelmatig:* de omstandigheid dat er geen overwegende bezwaren van financiële aard bestaan;  
+*geluidbeperkende maatregel:* maatregel of combinatie van maatregelen als bedoeld in de tabellen 1, 2 en 3 van Bijlage 1, indien en voor zover toegepast onder de in die tabellen genoemde voorwaarden;  
 
-*geluidbeperkende maatregel:* maatregel of combinatie van maatregelen als bedoeld in de tabellen 1, 2 en 3 van Bijlage 1, voor zover toegepast onder de in die tabellen genoemde voorwaarden;  
-
-*geluidsgevoelige objecten:* woningen, andere geluidsgevoelige gebouwen, geluidsgevoelige terreinen en woonwagenstandplaatsen;  
+*geluidsgevoelig object:* woning, ander geluidsgevoelig gebouw, woonwagenstandplaats en ligplaats voor een woonschip;  
 
 *geluidreductie:* geluidreductie bepaald overeenkomstig artikel 7;  
 
+*ligplaats voor een woonschip:* ligplaats in het water, bestemd om door een woonschip te worden ingenomen;  
+
+*maatregelpunt:* rekeneenheid waarin de kosten voor het treffen van een geluidbeperkende maatregel zijn uitgedrukt;  
+
 *overdrachtsmaatregel:* geluidbeperkende maatregel als bedoeld in tabel 2 van Bijlage 1;  
 
-*Saneringsobject:* een geluidsgevoelig object waarvoor niet eerder een hogere waarde op grond van de [Wet geluidhinder](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), de [Interimwet stad-en-milieubenadering](../../../../../../../wet/interimwet/stad-en-milieubenadering/BWBR0019466/README.md) of de [Spoedwet wegverbreding](../../../../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md) is vastgesteld, dat is gelegen binnen de zone van een te wijzigen of verbreden hoofdweg of landelijke spoorweg op grond van de [Tracéwet](../../../../../../../wet/tracéwet/BWBR0006147/README.md) en waar de geluidsbelasting: 
+*reductiepunt:* rekeneenheid waarin het budget van een cluster voor het treffen van geluidbeperkende maatregelen is uitgedrukt;  
+
+*Saneringsobject:* een geluidsgevoelig object waarvoor niet eerder een hogere waarde op grond van de Wet geluidhinder, de Interimwet stad-en-milieubenadering of de Spoedwet wegverbreding is vastgesteld, dat is gelegen binnen de zone van een te wijzigen of verbreden hoofdweg of landelijke spoorweg op grond van de Tracéwet en waar de geluidsbelasting: 
 
 a. vanwege de hoofdweg of vanwege binnen het tracé van de hoofdweg of de landelijke spoorweg gelegen wegen op 1 maart 1986, van de gevel van de woning of ander geluidsgevoelig gebouw op dat tijdstip, onderscheidenlijk na ingebruikneming van de hoofdweg of binnen het tracé van de hoofdweg of de landelijke spoorweg gelegen wegen, hoger was dan 60 dB(A);  
 
@@ -36,25 +36,27 @@ b. vanwege de landelijke spoorweg of vanwege binnen het tracé van de landelijke
 
 c. vanwege de landelijke spoorweg of vanwege binnen het tracé van de landelijke spoorweg of de hoofdweg gelegen spoorwegen op 1 juli 1987, van de gevel van het andere geluidsgevoelige gebouw, onderscheidenlijk na ingebruikneming van de landelijke spoorweg of binnen het tracé van de landelijke spoorweg of de hoofdweg gelegen spoorwegen, hoger was dan 60 dB(A);    
 
-*situatie zonder maatregelen:* situatie waarin 
+*situatie zonder maatregelen:* situatie waarin geen geluidbeperkende maatregelen aanwezig zijn en: 
 
-a. geen andere geluidbeperkende maatregelen aanwezig zijn, of  
+a. een weg een wegdek heeft met de akoestische kwaliteit van dicht asfaltbeton, dan wel het wegdek heeft dat feitelijk aanwezig is, indien dit tot een hogere geluidsbelasting leidt dan dicht asfaltbeton;  
 
-b. geen andere geluidbeperkende maatregelen aanwezig zijn dan 
+b. een spoorweg een bovenbouwconstructie heeft van langgelast spoor op houten dwarsliggers, dan wel de bovenbouwconstructie heeft die feitelijk aanwezig is indien deze tot een hogere geluidsbelasting leidt dan langgelast spoor op houten dwarsliggers;    
 
-1. op een rijksweg een wegdek met de akoestische kwaliteit van ZOAB, of  
+*woonwagenstandplaats:* standplaats als bedoeld in artikel 1, eerste lid, onder e, van de Huisvestingswet.    
 
-2. bij een hoofdspoorweg voegloos spoor op betonnen dwarsliggers, tenzij overwegende bezwaren van technische aard zich tegen een dergelijke uitvoering verzetten.        
+### Artikel  1a  
+
+Deze regeling berust mede op artikel 104a, vijfde lid, van de Wet geluidhinder.  
 
 ### Artikel  2  
 
-1.  Indien deze regeling wordt toegepast in het kader van [afdeling 3.2](../../../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md) of [4.3 van het Besluit geluidhinder](../../../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md), bestaat een cluster enkel uit de geluidsgevoelige objecten waarvoor een programma van maatregelen is opgesteld als bedoeld in [artikel 89 van de Wet geluidhinder](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) of [artikel 4.18 van het Besluit geluidhinder](../../../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md) en de geluidsgevoelige objecten waar in het kader van de Nota Mobiliteit geluidbeperkende maatregelen overwogen worden.   
-2.  Deze regeling is van toepassing in het kader van [hoofdstuk VI, afdeling 2A](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) en [afdeling 3](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), en [hoofdstuk VII, afdeling 2, van de Wet geluidhinder](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) en [afdeling 3.2](../../../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md) en [afdeling 4.3 van het Besluit geluidhinder](../../../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md) bij de afweging omtrent het nemen van geluidbeperkende maatregelen.   
+1.  Indien deze regeling wordt toegepast in het kader van afdeling 3.2 of 4.3 van het Besluit geluidhinder, bestaat een cluster enkel uit de geluidsgevoelige objecten waarvoor een programma van maatregelen is opgesteld als bedoeld in artikel 89 van de Wet geluidhinder of artikel 4.18 van het Besluit geluidhinder.   
+2.  Deze regeling is van toepassing in het kader van hoofdstuk VI, afdeling 3 en 7, van de Wet geluidhinder en afdeling 3.2 en afdeling 4.3 van het Besluit geluidhinder bij de afweging omtrent het nemen van geluidbeperkende maatregelen.   
 
 ### Artikel  3  
 
 1.  Een geluidbeperkende maatregel als bedoeld in tabel 1 en tabel 2 van Bijlage 1 is financieel doelmatig, indien het aantal maatregelpunten van de geluidbeperkende maatregel niet hoger is dan het aantal reductiepunten behorende bij het cluster waar de maatregel voor bedoeld is.   
-2.  In afwijking van het eerste lid is een geluidbeperkende maatregel niet financieel doelmatig, indien uit het akoestisch onderzoek blijkt dat: 
+2.  In afwijking van het eerste lid is een geluidbeperkende maatregel niet financieel doelmatig, indien naar het oordeel van de Minister van Infrastructuur en Milieu uit het akoestisch onderzoek blijkt dat: 
 
 a. toepassing van de geluidbeperkende maatregel de grootste geluidreductie oplevert voor het cluster,  
 
@@ -67,7 +69,7 @@ a. naar verwachting bij de start van de uitvoering niet ouder dan tien jaar zal 
 
 b. niet ophoogbaar is, en  
 
-c. een bijna gelijke geluidreductie realiseert als de nieuw te treffen maatregel.     
+c. een geluidreductie realiseert die vrijwel gelijk is aan de nieuw te treffen maatregel.     
 4.  De financiële doelmatigheid van een maatregel als bedoeld in tabel 3 van Bijlage 1 kan worden bepaald door de werkelijke kosten van aanleg en onderhoud van de maatregel af te wegen tegen de geluidreductie die de maatregel kan realiseren en tegen het aantal geluidsgevoelige objecten in het cluster waar de maatregel voor bedoeld is.   
 
 ### Artikel  4  
@@ -78,39 +80,30 @@ c. een bijna gelijke geluidreductie realiseert als de nieuw te treffen maatregel
 
 ### Artikel  5  
 
-1.  Het aantal reductiepunten behorende bij een cluster wordt bepaald door de reductiepunten van alle geluidsgevoelige objecten in het cluster bij elkaar op te tellen.   
-2.  Tabel 1 van Bijlage 2 bevat de reductiepunten van een woning op basis van de toekomstige geluidsbelasting op de woning vanwege een weg of spoorweg in de situatie zonder maatregelen.   
-3.  Bij toepassing van deze regeling in het kader van [afdeling 4.3 van het Besluit geluidhinder](../../../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md) wordt in tabel 1 van bijlage 2 in plaats van de getallen 1000 tot en met 3000 telkens gelezen: 0   
-4.  Ten behoeve van de toepassing van het tweede lid worden andere geluidsgevoelige objecten dan woningen omgerekend naar woningen, waarbij: 
+1.  Het aantal reductiepunten behorende bij een cluster wordt bepaald door het optellen van de reductiepunten per woning, die overeenkomstig het tweede en derde lid worden gegenereerd door alle geluidsgevoelige objecten in het cluster.   
+2.  Het aantal reductiepunten per woning op basis van de hoogste toekomstige geluidsbelasting op de woning vanwege een weg of spoorweg in de situatie zonder maatregelen is opgenomen in tabel 1 van Bijlage 2.   
+3.  Bij toepassing van deze regeling in het kader van afdeling 4.3 van het Besluit geluidhinder wordt in tabel 1 van bijlage 2 in plaats van de getallen 1000 tot en met 3000 telkens gelezen: 0   
+4.  Ten behoeve van de toepassing van het tweede lid en tabel 1 van Bijlage 2 worden andere geluidsgevoelige objecten dan woningen omgerekend naar woningen, waarbij wordt gelijkgesteld aan een woning: 
 
-a. elke 15 strekkende meter geluidsbelaste gevel van een geluidsgevoelig gebouw per bouwlaag, wordt gelijkgesteld aan één woning;  
+a. elke vijftien strekkende meter geluidsbelaste gevel van een geluidsgevoelig object per bouwlaag;  
 
-b. elke 50 strekkende meter geluidsgevoelig terrein dat behoort bij een geluidsgevoelig gebouw, voor zover dat gebruikt wordt of bestemd is voor de in dat gebouw verleende zorg, in de lengte van de richting van de weg of spoorweg wordt gelijkgesteld aan één woning;  
+b. een woonwagenstandplaats;  
 
-c. een woonwagenstandplaats wordt gelijkgesteld aan één woning.     
+c. een ligplaats voor een woonschip.     
 
 ### Artikel  6  
 
-1.  Bij de toepassing van deze regeling worden in de eerste plaats bronmaatregelen in overweging genomen en in de tweede plaats de andere geluidbeperkende maatregelen, al dan niet in combinatie met bronmaatregelen, die achtereenvolgens leiden tot de meeste geluidreductie.   
-2.  Overdrachtsmaatregelen, al dan niet in combinatie met bronmaatregelen, worden bij de toepassing van deze regeling uitsluitend in overweging genomen voor zover deze maatregelen strekken tot een geluidreductie van ten minste 5 dB op ten minste een geluidsgevoelig object in een cluster.   
+1.  Bij de toepassing van deze regeling worden achtereenvolgens in overweging genomen: 
+
+a. bronmaatregelen, en  
+
+b. andere geluidbeperkende maatregelen, al dan niet in combinatie met bronmaatregelen, die leiden tot de meeste geluidreductie.     
+2.  Overdrachtsmaatregelen, al dan niet in combinatie met bronmaatregelen, worden bij de toepassing van deze regeling uitsluitend in overweging genomen voor zover deze maatregelen leiden tot een afname van de geluidsbelasting van ten minste 5 dB op ten minste een geluidsgevoelig object in een cluster.   
 
 ### Artikel  7  
 
 1.  De geluidreductie is het verschil tussen de toekomstige geluidsbelasting, die door geluidsgevoelige objecten zou worden ondervonden vanwege een weg of spoorweg in de situatie zonder maatregelen, en de toekomstige geluidsbelasting vanwege een weg of spoorweg in de situatie dat er geluidbeperkende maatregelen getroffen zijn.   
-2.  Bij toepassing van het eerste lid wordt de waarde uit tabel 2 van Bijlage 2, die op de betreffende situatie van toepassing is, gehanteerd als toekomstige geluidsbelasting vanwege een weg of spoorweg in de situatie dat er geluidbeperkende maatregelen zijn getroffen, ingeval de berekende toekomstige geluidsbelasting in deze situatie lager is dan de waarde, genoemd in tabel 2 van Bijlage 2.   
-
-### Artikel  8  
-
-1.  Deze regeling kan buiten toepassing blijven op de onderstaande besluiten, totdat deze onherroepelijk zijn geworden: 
-
-a. het vaststellen van een tracébesluit waarvan het ontwerp, respectievelijk een gewijzigd ontwerp als bedoeld in [artikel 11, eerste lid, van de Tracéwet](../../../../../../../wet/tracéwet/BWBR0006147/README.md), is vastgesteld vóór de eerste dag van de derde kalendermaand volgend op het tijdstip van inwerkingtreding van deze regeling;  
-
-b. het vaststellen van een saneringsprogramma waarvoor voorbereidingssubsidie is verstrekt voor 1 januari 2009;  
-
-c. het vaststellen van een wegaanpassingsbesluit ten aanzien van de in de [Bijlage, onder a, van de Spoedwet wegverbreding](../../../../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md) opgenomen projecten waarvan het ontwerpbesluit is vastgesteld vóór de eerste dag van de derde kalendermaand volgend op het tijdstip van inwerkingtreding van deze regeling;  
-
-d. het vaststellen van een saneringsprogramma waarvoor ten behoeve van het ontwerpprogramma toepassing is gegeven aan [artikel 3:12 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vóór de eerste dag van de derde kalendermaand volgend op het tijdstip van inwerkingtreding van deze regeling.     
-2.  Deze regeling kan tevens buiten toepassing blijven op het vaststellen van een besluit of het doorlopen van een procedure voor de projecten genoemd in Bijlage III, totdat deze onherroepelijk zijn geworden respectievelijk zijn afgerond.   
+2.  Indien de berekende toekomstige geluidsbelasting, in de situatie dat er geluidbeperkende maatregelen zijn getroffen, lager is dan de waarde in tabel 2 van Bijlage 2, wordt bij toepassing van het eerste lid de waarde uit tabel 2 van Bijlage 2, die op de betreffende situatie van toepassing is, gehanteerd als toekomstige geluidsbelasting vanwege de weg of spoorweg.   
 
 ### Artikel  9  
 
@@ -139,27 +132,22 @@ C.M.P.S.Eurlings
 
 Tabel 1 Bronmaatregelen, de randvoorwaarden en de maatregelpunten 
 
-| omschrijving bronmaatregel  | randvoorwaarden  | maatregelpunten  |
-|:---|:---|:---|
+| Omschrijving bronmaatregel  | Randvoorwaarden  | Maatregelpunten  |
+|---|---|---|
 |  *Weg*   | --- | --- |
-| wegdek Zeer Open Asfalt Beton  | – voldoende verkeersintensiteit  | – 4 per *10 m <sup>2</sup>* t.o.v. DAB  |
-| --- | – geen wringend of remmend verkeer  | --- |
-| --- | – snelheid meer dan 70 km per uur  | --- |
-| wegdek 2-laags Zeer Open Asfalt Beton  | – voldoende verkeersintensiteit  | – 26 per *10 m <sup>2</sup>* t.o.v. DAB  |
-| --- | – geen wringend of remmend verkeer  | – 22 per *10 m <sup>2</sup>* t.o.v. ZOAB  |
-| --- | – snelheid meer dan 70 km per uur  | --- |
-| wegdek dunne deklaag  | – snelheid niet boven 80 km per uur  | – 13 per *10 m <sup>2</sup>* t.o.v. DAB  |
-| --- | – niet op kruisingen of rotondes  | – 9 per *10 m <sup>2</sup>* t.o.v. ZOAB  |
-| --- | --- | --- |
-|  * spoorweg*   | --- | --- |
-| raildemper  | – niet tegen wissels of voegen  | – 46 per meter enkel spoor  |
-| --- | – alleen bij betonnen dwarsliggers  | --- |
-| betonnen dwarsliggers  | – aanwezigheid ballastbed  | – 45 per meter enkel spoor  |
+| Stille elementverharding  | – enkel bij sanering  | 3 per 10 m <sup>2</sup> t.o.v. elementverharding  |
+| Dicht Asfalt Beton (DAB)  | – enkel bij sanering  | 5 per 10 m <sup>2</sup> t.o.v. elementverharding  |
+| Wegdek:  Zeer Open Asfalt Beton (ZOAB)  | – voldoende verkeersintensiteit  – geen wringend of remmend verkeer  – snelheid meer dan 70 km per uur  | 4 per 10 m <sup>2</sup> t.o.v. DAB  |
+| Wegdek:  2-laags Zeer Open Asfalt Beton  | – voldoende verkeersintensiteit  – geen wringend of remmend verkeer  – snelheid meer dan 70 km per uur  | 26 per 10 m <sup>2</sup> t.o.v. DAB  22 per 10 m <sup>2</sup> t.o.v. ZOAB  |
+| Wegdek:  Dunne deklaag  | – snelheid niet boven 80 km per uur  – niet op kruisingen of rotondes  | 13 per 10 m <sup>2</sup> t.o.v. DAB  9 per 10 m <sup>2</sup> t.o.v. ZOAB  16 per 10 m <sup>2</sup> t.o.v. elementverharding  |
+|  *Spoorweg*   | --- | --- |
+| Raildemper  | – niet tegen wissels of voegen  – alleen bij betonnen dwarsliggers  | 46 per meter enkel spoor  |
+| Betonnen dwarsliggers  | – aanwezigheid ballastbed  | 45 per meter enkel spoor  |
 
 Tabel 2 Overdrachtsmaatregelen, de randvoorwaarden en de maatregelpunten 
 
 | omschrijving overdrachtsmaatregel  | voorwaarden  | maatregelpunten  |
-|:---|:---|:---|
+|---|---|---|
 |   *Weg*  | --- | --- | --- |
 | --- | --- | Per strekkende meter bij een hoogte <sup>1</sup> van:  |
 | --- | --- | 1 m  | 53  |
@@ -203,7 +191,7 @@ Tabel 2 Overdrachtsmaatregelen, de randvoorwaarden en de maatregelpunten
 <sup>1</sup> bepaald overeenkomstig artikel 4, derde lid.  Tabel 3 Overige geluidbeperkende maatregelen 
 
 | Omschrijving maatregel  | Voorwaarden  |
-|:---|:---|
+|---|---|
 | 1. bronmaatregelen  |
 | Aanpassen en vervangen van een spoorbrug  | Niet van toepassing  |
 | 2. Overige maatregelen  |
@@ -214,7 +202,7 @@ Tabel 2 Overdrachtsmaatregelen, de randvoorwaarden en de maatregelpunten
 Tabel 1 Bepaling reductiepunten, bedoeld in artikel 5 
 
 | Toekomstige geluidsbelasting op een woning vanwege een weg (dB)  | Toekomstige geluidsbelasting op een woning vanwege een spoorweg (dB)  | Reductiepunten per woning  |
-|:---|:---|:---|
+|---|---|---|
 | 48  | 55  | 0  |
 | 49  | 56  | 1000  |
 | 50  | 57  | 1300  |
@@ -249,19 +237,19 @@ Tabel 1 Bepaling reductiepunten, bedoeld in artikel 5
 Tabel 2 Waarde, bedoeld in artikel 7 
 
 | Situatie  | Waarde weg  | Waarde spoorweg  |
-|:---|:---|:---|
-| aanleg of wijziging of verbreding van een hoofdweg of landelijke spoorweg als bedoeld in [Hoofdstuk VI, afdeling 2A](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), of [hoofdstuk VII, afdeling 2, van de Wet geluidhinder](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), ten aanzien van andere geluidsgevoelige objecten dan saneringsobjecten  | De voor bedoelde objecten ten hoogste toelaatbare geluidsbelasting als bedoeld in [hoofdstuk VI, afdeling 2A, van de Wet geluidhinder](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md)  | De voor bedoelde objecten ten hoogste toelaatbare geluidsbelasting als bedoeld in [hoofdstuk VII, afdeling 2, van de Wet geluidhinder](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md)  |
-| wijziging of verbreding van een hoofdweg of landelijke spoorweg als bedoeld in [hoofdstuk VI, afdeling 2A](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), of [hoofdstuk VII, afdeling 2, van de Wet geluidhinder](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), ten aanzien saneringsobjecten  | de geluidsbelasting van de gevel van de saneringsobjecten, in de situatie dat er voor deze saneringsobjecten financieel doelmatige geluidbeperkende maatregelen zouden zijn getroffen op grond van [hoofdstuk VI, afdeling 3, van de Wet geluidhinder](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) en [afdeling 3.2 van het Besluit geluidhinder](../../../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md)  | de geluidsbelasting van de gevel onderscheidenlijk aan de grens van de saneringsobjecten, in de situatie dat er voor deze saneringsobjecten financieel doelmatige geluidbeperkende maatregelen zouden zijn getroffen op grond van [afdeling 4.3 van het Besluit geluidhinder](../../../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md)  |
-| sanering op grond van [hoofdstuk VI, afdeling 3, van de Wet geluidhinder](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) en [afdeling 3.1](../../../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md) en [4.3 van het Besluit geluidhinder](../../../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md)  | De ten hoogste toelaatbare geluidsbelasting als bedoeld in [Hoofdstuk VI, afdeling 3, van de Wet geluidhinder](../../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) en afdeling 3.1 van het Besluit geluidhinder  | De ten hoogste toelaatbare geluidsbelasting als bedoeld in [afdeling 4.3 van het Besluit geluidhinder](../../../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md)  |
-| wijziging van een spoorweg, als bedoeld in [artikel 4.7 van het Besluit geluidhinder](../../../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md), ten aanzien van geluidsgevoelige objecten die zijn gemeld op grond van [artikel 4.17 van het Besluit geluidhinder](../../../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md)  | n.v.t.  | de geluidsbelasting van de gevel onderscheidenlijk aan de grens van de gemelde objecten, in de situatie dat er voor deze objecten financieel doelmatige geluidbeperkende maatregelen zouden zijn getroffen op grond van [afdeling 4.3 van het Besluit geluidhinder](../../../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md)  |
-| wijziging van een spoorweg, als bedoeld in [artikel 4.7 van het Besluit geluidhinder](../../../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md), ten aanzien van andere geluidsgevoelige objecten dan die zijn gemeld op grond van [artikel 4.17 van het Besluit geluidhinder](../../../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md)  | n.v.t.  | De ten hoogste toelaatbare geluidsbelasting als bedoeld in [§ 4.2.2. van het Besluit geluidhinde](../../../../../../../AMvB/besluit/geluidhinder/BWBR0020445/README.md) r  |
+|---|---|---|
+| Aanleg, reconstructie of wijziging van een weg of spoorweg als bedoeld in hoofdstuk VI, afdeling 7, van de Wet geluidhinder ten aanzien van andere geluidsgevoelige objecten dan die zijn gemeld op grond van artikel 89 van de Wet geluidhinder  | De voor bedoelde objecten ten hoogste toelaatbare geluidsbelasting als bedoeld in hoofdstuk VI, afdeling 4, van de Wet geluidhinder en artikel 3.1 van het Besluit geluidhinder  | De ten hoogste toelaatbare geluidsbelasting als bedoeld in paragraaf 4.2.2 van het Besluit geluidhinder  |
+| Wijziging of reconstructie van een weg of spoorweg als bedoeld in hoofdstuk VI, afdeling 7, van de Wet geluidhinder, ten aanzien van geluidsgevoelige objecten die zijn gemeld op grond van artikel 89 van de Wet geluidhinder  | De geluidsbelasting van de gevel van de saneringsobjecten, in de situatie dat er voor deze saneringsobjecten financieel doelmatige geluidbeperkende maatregelen zouden zijn getroffen op grond van hoofdstuk VI, afdeling 3, van de Wet geluidhinder en afdeling 3.2 van het Besluit geluidhinder  | De geluidsbelasting van de gevel onderscheidenlijk aan de grens van de saneringsobjecten, in de situatie dat er voor deze saneringsobjecten financieel doelmatige geluidbeperkende maatregelen zouden zijn getroffen op grond van afdeling 4.3 van het Besluit geluidhinder  |
+| Sanering op grond van hoofdstuk VI, afdeling 3, van de Wet geluidhinder en afdeling 3.1 en 4.3 van het Besluit geluidhinder  | De ten hoogste toelaatbare geluidsbelasting als bedoeld in hoofdstuk VI, afdeling 3, van de Wet geluidhinder en afdeling 3.1 van het Besluit geluidhinder  | De ten hoogste toelaatbare geluidsbelasting als bedoeld in afdeling 4.3 van het Besluit geluidhinder  |
+| Wijziging van een spoorweg als bedoeld in artikel 4.7 van het Besluit geluidhinder, ten aanzien van geluidsgevoelige objecten die zijn gemeld op grond van artikel 4.17 van het Besluit geluidhinder  | N.v.t.  | De geluidsbelasting van de gevel onderscheidenlijk aan de grens van de gemelde objecten, in de situatie dat er voor deze objecten financieel doelmatige geluidbeperkende maatregelen zouden zijn getroffen op grond van afdeling 4.3 van het Besluit geluidhinder  |
+| Wijziging van een spoorweg als bedoeld in artikel 4.7 van het Besluit geluidhinder, ten aanzien van andere geluidsgevoelige objecten dan die zijn gemeld op grond van artikel 4.17 van het Besluit geluidhinder  | N.v.t.  | De ten hoogste toelaatbare geluidsbelasting als bedoeld in paragraaf 4.2.2 van het Besluit geluidhinder  |
 
 ### Bijlage  3  
 
 ####Lijst van projecten als bedoeld in artikel 8, tweede lid 
 
 |--- | Type Besluit  | Project  |
-|:---|:---|:---|
+|---|---|---|
 | Wegen  |
 | 1  | WAB/MER  | Rw9 Alkmaar–Uitgeest  |
 | 2  | WAB  | Rw2 Maasbracht–Geleen (spitsstrook)  |

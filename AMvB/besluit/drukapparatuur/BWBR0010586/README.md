@@ -8,7 +8,7 @@ Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J
 
 Gelet op richtlijn nr. 97/23/EG van het Europees Parlement en de Raad van de Europese Unie van 29 mei 1997 inzake de onderlinge aanpassing van de wetgevingen der lidstaten betreffende drukapparatuur (PbEG L 181);
 
-Gelet op de [artikelen 1, eerste lid, aanhef, en onderdelen a en b](../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [2](../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [3, eerste en tweede lid](../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [5](../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [6](../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [12, derde lid](../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), en [25a van de Wet op de gevaarlijke werktuigen](../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [artikel 17, eerste lid, van de Brandweerwet 1985](../../../../wet/brandweerwet/1985/BWBR0003764/README.md), [artikel 9, eerste lid, onder a, van de Mijnwet 1903](../../../../wet/mijnwet/1903/BWBR0001870/README.md), [artikel 26, eerste lid, onder b, van de Mijnwet continentaal plat](../../../../wet/mijnwet/continentaal/plat/BWBR0002504/README.md), [artikel 8.40 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en de [artikelen 2](../../../../wet/stoomwet/BWBR0002108/README.md), [3](../../../../wet/stoomwet/BWBR0002108/README.md), [4](../../../../wet/stoomwet/BWBR0002108/README.md), [6](../../../../wet/wet/op/de/gevaarlijke/werktuigen/BWBR0002087/README.md), [21, aanhef en onderdeel c, van de Stoomwet](../../../../wet/stoomwet/BWBR0002108/README.md);
+Gelet op de artikelen 1, eerste lid, aanhef, en onderdelen a en b, 2, 3, eerste en tweede lid, 5, 6, 12, derde lid, en 25a van de Wet op de gevaarlijke werktuigen, artikel 17, eerste lid, van de Brandweerwet 1985, artikel 9, eerste lid, onder a, van de Mijnwet 1903, artikel 26, eerste lid, onder b, van de Mijnwet continentaal plat, artikel 8.40 van de Wet milieubeheer, en de artikelen 2, 3, 4, 6, 21, aanhef en onderdeel c, van de Stoomwet;
 
 De Raad van State gehoord (advies van 6 mei 1999, no. W12.99.0108/IV);
 
@@ -24,7 +24,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. wet: [Warenwet](../../../../wet/warenwet/BWBR0001969/README.md);  
+a. wet: Warenwet;  
 
 b. richtlijn: richtlijn nr.97/23/EG van het Europees Parlement en de Raad van de Europese Unie van 29 mei 1997 (PbEG L 181) inzake de onderlinge aanpassing van de wetgevingen der lidstaten betreffende drukapparatuur;  
 
@@ -66,13 +66,13 @@ r. permanente verbindingen: verbindingen die alleen met destructieve methoden lo
 
 s. Europese materiaalgoedkeuring: technisch document, waarin bij het ontbreken van een geharmoniseerde norm de kenmerken van bij herhaalde toepassing bestemde materialen voor de fabricage van drukapparatuur worden gedefinieerd;  
 
-t. aangewezen keuringsinstelling: een krachtens [artikel 7a van de wet](../../../../wet/warenwet/BWBR0001969/README.md) aangewezen keuringsinstelling;  
+t. aangewezen keuringsinstelling: een krachtens artikel 7a van de wet aangewezen keuringsinstelling;  
 
-u. aangewezen aangemelde keuringsinstelling en aangewezen aangemelde onafhankelijke instelling: een krachtens [artikel 7a van de wet](../../../../wet/warenwet/BWBR0001969/README.md) in het kader van de richtlijn aangewezen en bij de Commissie van de Europese Gemeenschappen aangemelde keuringsinstelling of onafhankelijke instelling, dan wel een door een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte in het kader van de richtlijn aangewezen en bij de Commissie van de Europese Gemeenschappen aangemelde keuringsinstantie of onafhankelijke instelling;  
+u. aangewezen aangemelde keuringsinstelling en aangewezen aangemelde onafhankelijke instelling: een krachtens artikel 7a van de wet in het kader van de richtlijn aangewezen en bij de Commissie van de Europese Gemeenschappen aangemelde keuringsinstelling of onafhankelijke instelling, dan wel een door een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte in het kader van de richtlijn aangewezen en bij de Commissie van de Europese Gemeenschappen aangemelde keuringsinstantie of onafhankelijke instelling;  
 
-v. aangewezen keuringsdienst van gebruikers: een krachtens [artikel 7a van de wet](../../../../wet/warenwet/BWBR0001969/README.md) aangewezen keuringsdienst;  
+v. aangewezen keuringsdienst van gebruikers: een krachtens artikel 7a van de wet aangewezen keuringsdienst;  
 
-w. aangewezen aangemelde keuringsdienst van gebruikers: een krachtens [artikel 7a van de wet](../../../../wet/warenwet/BWBR0001969/README.md) in het kader van de richtlijn aangewezen en bij de Commissie van de Europese Gemeenschappen aangemelde keuringsdienst dan wel, indien deze aanwijzing heeft plaatsgevonden, een door een andere lidstaat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte bij de Commissie van de Europese Gemeenschappen in het kader van de richtlijn aangewezen en aangemelde keuringsdienst van gebruikers;  
+w. aangewezen aangemelde keuringsdienst van gebruikers: een krachtens artikel 7a van de wet in het kader van de richtlijn aangewezen en bij de Commissie van de Europese Gemeenschappen aangemelde keuringsdienst dan wel, indien deze aanwijzing heeft plaatsgevonden, een door een andere lidstaat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte bij de Commissie van de Europese Gemeenschappen in het kader van de richtlijn aangewezen en aangemelde keuringsdienst van gebruikers;  
 
 x. inspectieafdeling van de gebruiker: een organisatorische eenheid die door de gebruiker van drukapparatuur is belast met het verrichten van inspecties.    
 
@@ -84,9 +84,9 @@ a. transportleidingen met een pijp of een geheel van pijpen voor het vervoer van
 
 b. netten voor de aanvoer, distributie en de afvoer van water en de bijbehorende apparaten alsmede leidingen voor aandrijfwater, zoals sluispoorten, drukleidingen en drukschachten voor waterkrachtinstallaties en bijbehorende specifieke appendages;  
 
-c. apparatuur die valt onder het [Warenwetbesluit drukvaten van eenvoudige vorm](../../../../AMvB/besluit/drukvaten/van/eenvoudige/vorm/BWBR0005627/README.md);  
+c. apparatuur die valt onder het Warenwetbesluit drukvaten van eenvoudige vorm;  
 
-d. aërosolen die vallen onder het [Warenwetbesluit drukverpakkingen](../../../../AMvB/warenwetbesluit/drukverpakkingen/BWBR0007965/README.md);  
+d. aërosolen die vallen onder het Warenwetbesluit drukverpakkingen;  
 
 e. apparatuur voor de werking van voertuigen als bedoeld in: 
 
@@ -98,17 +98,17 @@ e. apparatuur voor de werking van voertuigen als bedoeld in:
 
 f. apparatuur die ten hoogste valt onder categorie I, bedoeld in artikel 9 van de richtlijn, en die tevens onder één of meerdere van de volgende besluiten valt: 
 
-1°. [Besluit gastoestellen](../../../../AMvB/besluit/gastoestellen/BWBR0005384/README.md);  
+1°. Besluit gastoestellen;  
 
-2°. [Warenwetbesluit explosieveilig materieel](../../../../AMvB/besluit/explosieveilig/materieel/BWBR0007497/README.md);  
+2°. Warenwetbesluit explosieveilig materieel;  
 
-3°. [Warenwetbesluit liften](../../../../AMvB/besluit/liften/BWBR0008212/README.md);  
+3°. Warenwetbesluit liften;  
 
-4°. [Besluit medische hulpmiddelen](../../../../AMvB/besluit/medische/hulpmiddelen/BWBR0007307/README.md);  
+4°. Besluit medische hulpmiddelen;  
 
-5°. [Warenwetbesluit elektrotechnische producten](../../../../AMvB/warenwetbesluit/elektrotechnische/produkten/BWBR0005587/README.md);  
+5°. Warenwetbesluit elektrotechnische producten;  
 
-6°. [Warenwetbesluit machines](../../../../AMvB/warenwetbesluit/machines/BWBR0005577/README.md);    
+6°. Warenwetbesluit machines;    
 
 g. apparatuur als bedoeld in artikel 223, eerste lid, onderdeel b, van het Verdrag tot oprichting van de Europese Gemeenschap;  
 
@@ -148,11 +148,11 @@ u. inlaat- en uitlaatgeluiddempers.
 2.  Dit besluit en de daarop berustende bepalingen zijn eveneens van toepassing op drukapparatuur, samenstellen en druksystemen indien deze onroerend zijn.   
 3.  De artikelen 12b, 12c, 12d en 14a zijn niet van toepassing ten aanzien van: 
 
-a. draagbare brandblussers als bedoeld in [artikel 1 van het Besluit draagbare blustoestellen 1997](../../../../AMvB/besluit/draagbare/blustoestellen/1997/BWBR0009334/README.md);  
+a. draagbare brandblussers als bedoeld in artikel 1 van het Besluit draagbare blustoestellen 1997;  
 
 b. snelkookpannen als bedoeld in bijlage II, tabel 5, bij de richtlijn;  
 
-c. de krachtens [artikel 21, tweede lid, van het Besluit kerninstallaties, splijtstoffen en ertsen](../../../../AMvB/besluit/kerninstallaties/splijtstoffen/en/ertsen/BWBR0002667/README.md) aangewezen drukapparatuur, samenstellen en druksystemen.     
+c. de krachtens artikel 21, tweede lid, van het Besluit kerninstallaties, splijtstoffen en ertsen aangewezen drukapparatuur, samenstellen en druksystemen.     
 
 ####Verbodsbepalingen
 
@@ -180,7 +180,7 @@ Drukapparatuur, samenstellen en druksystemen zijn zodanig ontworpen en vervaardi
 1.  De drukapparatuur en samenstellen, bedoeld in artikel 7, onderscheidenlijk artikel 8, worden overeenkomstig bijlage II bij de richtlijn naar toenemend risico in categorieën ingedeeld. Indien drukapparatuur uit verschillende ruimten bestaat, wordt het ingedeeld in de hoogste van de verschillende categorieën van de afzonderlijke ruimten. Wanneer een ruimte verschillende stoffen bevat, vindt de indeling plaats op grond van de stof die in de hoogste categorie valt.   
 2.  Met het oog op de categorie-indeling, bedoeld in het eerste lid, worden stoffen ingedeeld in: 
 
-a. groep 1: gevaarlijke stoffen, dat wil zeggen stoffen of preparaten, die op grond van [artikel 9.2.3.1 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) moeten worden ingedeeld in de categorie ontplofbaar, zeer licht ontvlambaar, licht ontvlambaar, ontvlambaar, zeer vergiftig, vergiftig of oxyderend;  
+a. groep 1: gevaarlijke stoffen, dat wil zeggen stoffen of preparaten, die op grond van artikel 9.2.3.1 van de Wet milieubeheer moeten worden ingedeeld in de categorie ontplofbaar, zeer licht ontvlambaar, licht ontvlambaar, ontvlambaar, zeer vergiftig, vergiftig of oxyderend;  
 
 b. groep 2: overige stoffen.     
 3.  Het eerste en tweede lid ten aanzien van samenstellen, zijn van overeenkomstige toepassing op druksystemen.   
@@ -364,7 +364,11 @@ b. kunnen gebruiksvoorwaarden worden gesteld.
 
 ####Intredekeuring drukapparatuur
 
-1.  Dit artikel is van toepassing op drukapparatuur, die voor 29 mei 2002 is vervaardigd overeenkomstig de wettelijke voorschriften van één van de staten, met uitzondering van Nederland, die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte en voor genoemde datum niet in overeenstemming is gebracht met de richtlijn en die op grond van artikel 12c, eerste lid, is aangewezen.   
+1.  Dit artikel is van toepassing op drukapparatuur die: 
+
+a. voor 29 mei 2002 is vervaardigd overeenkomstig de wettelijke voorschriften van een staat, niet zijnde Nederland, die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of  
+
+b. op of na 29 mei 2002 is vervaardigd overeenkomstig de wettelijke voorschriften van een staat, die is toegetreden tot de Europese Unie op of na 29 mei 2002, mits de vervaardiging is geschied voor de datum van toetreding van de desbetreffende staat,   en die niet voor de onder a en b genoemde data in overeenstemming is gebracht met de richtlijn, en die op grond van artikel 12c, eerste lid, is aangewezen.   
 2.  Alvorens de drukapparatuur, bedoeld in het eerste lid, in gebruik wordt genomen, wordt zij aan een intredekeuring onderworpen en gaat vergezeld van een verklaring van intredekeuring en ingebruikneming. De kosten van de intredekeuring zijn voor rekening van de gebruiker, bedoeld in het vierde lid.   
 3.  De verklaring, bedoeld in het tweede lid, wordt, onder overlegging van de gegevens en bescheiden, vermeld in het vierde lid, schriftelijk door de gebruiker aangevraagd bij een aangewezen keuringsinstelling of een aangewezen keuringsdienst van gebruikers.   
 4.  De aanvraag, bedoeld in het derde lid, omvat voorzover van toepassing: 
@@ -453,6 +457,8 @@ a. een aanvulling op de verklaring van ingebruikneming of de verklaring van intr
 b. een verklaring van ingebruikneming afgegeven indien het achtste lid van toepassing is.     
 
 ####Verbodsbepaling
+
+Vervallen per 01-09-2003   
 
 ####CE-markering
 
@@ -593,7 +599,7 @@ b. ten hoogste twaalf maanden voorafgaand aan de datum van indiening van de aanv
 2.  De aanvraag wordt in het geval, genoemd in het eerste lid, onder b, eerst in behandeling genomen nadat twaalf maanden, te rekenen vanaf de dag direct na de datum van de weigering respectievelijk van de intrekking, zijn verstreken.   
 3.  Een aanwijzing kan worden geschorst, ten nadele van de aangewezen keuringsinstelling, aangewezen aangemelde keuringsinstelling, aangewezen aangemelde onafhankelijke instelling, aangewezen keuringsdienst van gebruikers of aangewezen aangemelde keuringsdienst van gebruikers worden gewijzigd of ingetrokken: 
 
-a. op grond van feiten of omstandigheden waarvan Onze Minister bij de aanwijzing redelijkerwijs niet op de hoogte kon zijn en op grond waarvan hij de aanwijzing niet of alleen met voorschriften, bedoeld in [artikel 7a, vierde lid, van de wet](../../../../wet/warenwet/BWBR0001969/README.md) zou hebben gegeven;  
+a. op grond van feiten of omstandigheden waarvan Onze Minister bij de aanwijzing redelijkerwijs niet op de hoogte kon zijn en op grond waarvan hij de aanwijzing niet of alleen met voorschriften, bedoeld in artikel 7a, vierde lid, van de wet zou hebben gegeven;  
 
 b. op grond van door de aangewezen keuringsinstelling, aangewezen aangemelde keuringsinstelling, aangewezen aangemelde onafhankelijke instelling, aangewezen keuringsdienst van gebruikers of aangewezen aangemelde keuringsdienst van gebruikers verstrekte onjuiste inlichtingen over feiten of omstandigheden, mits de onjuistheid daarvan aan de instelling of dienst bekend was of kon zijn;  
 
@@ -675,9 +681,15 @@ Artikel 4, eerste tot en met derde lid, is niet van toepassing op het tentoonste
 
 ####Merk van afkeuring
 
+Vervallen per 01-09-2003   
+
 ####Waarschuwingsplicht
 
+Vervallen per 01-09-2003   
+
 ####Noodmaatregelen
+
+Vervallen per 01-09-2003   
 
 ####Nederlandse taal
 
@@ -689,15 +701,27 @@ De informatie, bedoeld in de punten 3.3 en 3.4 van bijlage I bij de richtlijn, w
 
 ####Wijziging regelgeving
 
+Vervallen per 01-04-2006   
+
 #### Stoombesluit 
+
+Vervallen per 01-04-2006   
 
 ####Mijnreglement 1964
 
+Vervallen per 01-04-2006   
+
 ####Mijnreglement continentaal plat
+
+Vervallen per 01-04-2006   
 
 #### Besluit draagbare blustoestellen 1997 
 
+Vervallen per 01-04-2006   
+
 ####Besluiten op grond van de Wet milieubeheer
+
+Vervallen per 01-04-2006   
 
 ### Hoofdstuk  VIII  
 
@@ -713,14 +737,14 @@ De informatie, bedoeld in de punten 3.3 en 3.4 van bijlage I bij de richtlijn, w
 2.  Met betrekking tot drukapparatuur en samenstellen als bedoeld in het eerste lid waarop dit besluit niet wordt toegepast en waarop ingevolge één of meer andere wettelijke regelingen de CE-markering wordt aangebracht, worden op de bij die drukapparatuur en samenstellen gevoegde documenten, handleidingen of gebruiksaanwijzingen de in het Publicatieblad van de Europese Gemeenschappen bekendgemaakte referenties van de aan die wettelijke regelingen ten grondslag liggende richtlijnen vermeld.   
 3.  Artikel 12a is niet van toepassing op druksystemen die voldoen aan de wettelijke voorschriften ten aanzien van vervaardiging zoals die luidden op de dag voor de inwerkingtreding van het besluit tot wijziging van het Besluit drukapparatuur houdende regels inzake de samenbouw van druksystemen en de ingebruikneming van drukapparatuur, samenstellen en druksystemen en tot wijziging van enige andere besluiten (Stb. 2001, 339) en voor 29 mei 2002 in bedrijf zijn gesteld voorzover zij niet alsnog in overeenstemming zijn gebracht met artikel 12a.   
 4.  Van de apparatuur, bedoeld in het eerste lid, welke voor het eerst of opnieuw in gebruik wordt genomen, wordt vóór de ingebruikneming ervan, voorzover van toepassing, de integratie en beveiliging beoordeeld door een aangewezen keuringsinstelling of aangewezen keuringsdienst van gebruikers. Deze beoordeling vindt uitsluitend plaats voor apparatuur die is voorzien van een vervaardigingsbewijs. Van de beoordeling wordt door de instelling of dienst een rapport opgesteld en een exemplaar van dit rapport wordt beschikbaar gesteld aan de gebruiker. De kosten van de beoordeling zijn voor rekening van de gebruiker.   
-5.  Voor de toepassing van het vierde lid worden een bewijs van onderzoek en beproeving en een verklaring over de vervaardiging en eerste persproef, afgegeven in het kader van de toepassing van de [Stoomwet](../../../../wet/stoomwet/BWBR0002108/README.md), onderscheidenlijk de [Wet Milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), aangemerkt als geldige vervaardigingbewijzen.   
+5.  Voor de toepassing van het vierde lid worden een bewijs van onderzoek en beproeving en een verklaring over de vervaardiging en eerste persproef, afgegeven in het kader van de toepassing van de Stoomwet, onderscheidenlijk de Wet Milieubeheer, aangemerkt als geldige vervaardigingbewijzen.   
 
 ### Artikel  39a  
 
 ####Overgangsrecht ingebruikneming
 
 1.  De artikelen 12b en 23a zijn niet van toepassing op drukapparatuur, samenstellen en druksystemen die reeds in gebruik zijn gesteld op de dag van inwerkingtreding van het besluit tot wijziging van het Besluit drukapparatuur houdende regels inzake de samenbouw van druksystemen en de ingebruikneming van drukapparatuur, samenstellen en druksystemen en tot wijziging van enige andere besluiten (Stb. 2001, 339) en die voldoen aan de wettelijke voorschriften ten aanzien van de ingebruikneming zoals die luidden op de dag voor inwerkingtreding van voornoemd besluit tot het tijdstip waarop deze apparatuur na montage wordt opgesteld en geïnstalleerd op een nieuwe plaats van opstelling.   
-2.  Voor de toepassing van dit besluit wordt een vergunning voor het in werking brengen van stoomtoestellen of damptoestellen op grond van de [Stoomwet](../../../../wet/stoomwet/BWBR0002108/README.md) onderscheidenlijk een verklaring voor het in werking brengen van toestellen onder druk in het kader van de toepassing van de [Wet Milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) aangemerkt als een verklaring van ingebruikneming als bedoeld in artikel 12b, tweede lid, tot het tijdstip waarop de apparatuur na montage wordt opgesteld en geïnstalleerd op een nieuwe plaats van opstelling.   
+2.  Voor de toepassing van dit besluit wordt een vergunning voor het in werking brengen van stoomtoestellen of damptoestellen op grond van de Stoomwet onderscheidenlijk een verklaring voor het in werking brengen van toestellen onder druk in het kader van de toepassing van de Wet Milieubeheer aangemerkt als een verklaring van ingebruikneming als bedoeld in artikel 12b, tweede lid, tot het tijdstip waarop de apparatuur na montage wordt opgesteld en geïnstalleerd op een nieuwe plaats van opstelling.   
 
 ### Artikel  39b  
 
@@ -760,7 +784,7 @@ Een voorlopige verklaring van ingebruikneming, een verklaring van ingebruiknemin
 
 ### Artikel  40a  
 
-Dit besluit berust op de [artikelen 1](../../../../wet/warenwet/BWBR0001969/README.md), [3 tot en met 11](../../../../wet/warenwet/BWBR0001969/README.md), [11a](../../../../wet/warenwet/BWBR0001969/README.md), [13](../../../../wet/warenwet/BWBR0001969/README.md), [14](../../../../wet/warenwet/BWBR0001969/README.md), [16](../../../../wet/warenwet/BWBR0001969/README.md) en [32b, eerste lid, van de wet](../../../../wet/warenwet/BWBR0001969/README.md) en [artikel 30, eerste lid, van de Wet veiligheidsregio’s](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md).  
+Dit besluit berust op de artikelen 1, 3 tot en met 11, 11a, 13, 14, 16 en 32b, eerste lid, van de wet en artikel 30, eerste lid, van de Wet veiligheidsregio’s.  
 
 ####Inwerkingtreding
 

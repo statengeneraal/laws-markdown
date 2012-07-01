@@ -78,31 +78,31 @@ d. zij op grond van een registratie worden aangemerkt als een gezamenlijke huish
 
 a. recht heeft op loondervingsuitkering, en  
 
-b. per dag een inkomen heeft dat lager is dan € 59,80 per 1 januari 2012: € 66,51.     
+b. per dag een inkomen heeft dat lager is dan € 59,80 per 1 juli 2012: € 66,95.     
 2.  Recht op toeslag heeft een ongehuwde, die: 
 
 a. recht heeft op loondervingsuitkering;  
 
 b. een kind heeft jonger dan 18 jaar, dat niet als eigen kind, aangehuwd kind of pleegkind tot het huishouden van een ander behoort en voor wie aan hem op grond van [artikel 18 van de Algemene Kinderbijslagwet](../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) kinderbijslag wordt betaald, zal worden betaald of zou worden betaald indien [artikel 7, tweede lid, van die wet](../../../wet/algemene/kinderbijslagwet/BWBR0002368/README.md) niet van toepassing zou zijn, en  
 
-c. per dag een inkomen heeft dat lager is dan € 54,61 per 1 januari 2012: € 62,90.     
+c. per dag een inkomen heeft dat lager is dan € 54,61 per 1 juli 2012: € 62,91.     
 3.  Behoudens het vierde lid heeft voorts recht op toeslag een ongehuwde, die: 
 
 a. recht heeft op loondervingsuitkering, en  
 
 b. per dag een inkomen heeft dat lager is dan: 
 
-1°. indien hij 23 jaar of ouder is: € 46,12 per 1 januari 2011: € 50,49;  
+1°. indien hij 23 jaar of ouder is: € 46,12 per 1 juli 2011: € 50,51;  
 
-2°. indien hij 22 jaar is: € 35,29 per 1 januari 2012: € 39,55;  
+2°. indien hij 22 jaar is: € 35,29 per 1 juli 2012: € 39,87;  
 
-3°. indien hij 21 jaar is: € 29,64 per 1 januari 2012: € 33,36;  
+3°. indien hij 21 jaar is: € 29,64 per 1 juli 2012: € 33,57;  
 
-4°. indien hij 20 jaar is: € 24,76 per 1 januari 2012: € 27,90;  
+4°. indien hij 20 jaar is: € 24,76 per 1 juli 2012: € 28,01;  
 
-5°. indien hij 19 jaar is: € 21,14 per 1 januari 2012: € 23,34;  
+5°. indien hij 19 jaar is: € 21,14 per 1 juli 2012: € 23,53;  
 
-6°. indien hij 18 jaar is: € 19,06 per 1 januari 2012: € 20,0.       
+6°. indien hij 18 jaar is: € 19,06 per 1 juli 2012: € 20,18.       
 4.  Geen recht op toeslag heeft de in het derde lid bedoelde ongehuwde, die de leeftijd van 21 jaar nog niet heeft bereikt en behoort tot het huishouden van zijn ouders of pleegouders.   
 5.  Zolang een gehuwde of ongehuwde geen recht heeft op een loondervingsuitkering omdat hem rechtens zijn vrijheid is ontnomen of omdat hij zich onttrekt aan de tenuitvoerlegging van een vrijheidsstraf of vrijheidsbenemende maatregel, heeft hij geen recht op toeslag.   
 6.  Zolang een gehuwde of ongehuwde de leeftijd van 18 jaar nog niet heeft bereikt, heeft hij geen recht op toeslag.   
@@ -146,7 +146,7 @@ b. voor een ongehuwde: zijn inkomen uit arbeid of overig inkomen.
 
 a. een bedrag gelijk aan 5% van het minimumloon; alsmede  
 
-b. indien en voor zover het inkomen uit arbeid meer bedraagt dan het in onderdeel *a* bedoelde bedrag, 30% van dat inkomen.     
+b. indien en voor zover het inkomen uit arbeid meer bedraagt dan het in onderdeel a bedoelde bedrag, 30% van dat inkomen.     
 2.  Het niet in aanmerking te nemen inkomen, bedoeld in het eerste lid, bedraagt ten hoogste 15% van het minimumloon.   
 3.  Voor de vaststelling van de in het eerste lid bedoelde periode wordt een periode waarover een uitkering op grond van de [Ziektewet](../../../wet/ziektewet/BWBR0001888/README.md) is ontvangen, buiten beschouwing gelaten.   
 4.  De beperking tot een periode van twee jaren, als bedoeld in het eerste lid, is niet van toepassing ten aanzien van de persoon die recht heeft op een uitkering op grond van de [Werkloosheidswet](../../../wet/werkloosheidswet/BWBR0004045/README.md) terzake van werkloosheid ontstaan na het bereiken van de leeftijd van 57,5 jaar.   
@@ -157,8 +157,8 @@ b. indien en voor zover het inkomen uit arbeid meer bedraagt dan het in onderdee
 
 ### Artikel  8  
 
-1.  Voor de persoon, bedoeld in artikel 2, eerste lid, is de toeslag gelijk aan het verschil tussen € 59,80 per 1 januari 2012: € 66,51 en het inkomen per dag.   
-2.  Voor de persoon, bedoeld in artikel 2, tweede lid, is de toeslag gelijk aan het verschil tussen € 54,61 per 1 januari 2012: € 62,90 en het inkomen per dag.   
+1.  Voor de persoon, bedoeld in artikel 2, eerste lid, is de toeslag gelijk aan het verschil tussen € 59,80 per 1 juli 2012: € 66,95 en het inkomen per dag.   
+2.  Voor de persoon, bedoeld in artikel 2, tweede lid, is de toeslag gelijk aan het verschil tussen € 54,61 per 1 juli 2012: € 62,91 en het inkomen per dag.   
 3.  Voor de persoon, bedoeld in artikel 2, derde lid, is de toeslag gelijk aan het verschil tussen het in artikel 2, derde lid, onderdeel b, bij de leeftijd van die persoon genoemd bedrag en het inkomen per dag.   
 
 ### Artikel  8a  
@@ -222,6 +222,15 @@ c. indien het niet of niet behoorlijk nakomen van een verplichting op grond van 
 ### Artikel  12  
 
 Degene die aanspraak maakt op toeslag, zijn echtgenoot, of zijn wettelijke vertegenwoordiger, alsmede de instelling aan welke ingevolge artikel 22 toeslag wordt uitbetaald, zijn verplicht aan het Uitvoeringsinstituut werknemersverzekeringen op zijn verzoek of onverwijld uit eigen beweging alle feiten en omstandigheden mee te delen waarvan hem of haar redelijkerwijs duidelijk moet zijn dat zij van invloed kunnen zijn op het recht op toeslag, de hoogte van de toeslag, het geldend maken van het recht op toeslag of op het bedrag van de toeslag dat wordt betaald. Deze verplichting geldt niet indien die feiten en omstandigheden door het Uitvoeringsinstituut werknemersverzekeringen kunnen worden vastgesteld op grond van bij wettelijk voorschrift als authentiek aangemerkte gegevens of kunnen worden verkregen uit bij ministeriële regeling aan te wijzen administraties. Bij ministeriële regeling wordt bepaald voor welke gegevens de tweede zin van toepassing is.  
+
+### Artikel  12a  
+
+1.  In aanvulling op artikel 12 kan het Uitvoeringsinstituut werknemersverzekeringen degene die aanspraak maakt op toeslag of zijn wettelijke vertegenwoordiger verzoeken aan te tonen dat: 
+
+a. degene die aanspraak maakt op toeslag een ongehuwde is als bedoeld in artikel 2, tweede of derde lid, onderdeel a en onderdeel b, onder 1°, 2° of 3°;  
+
+b. de feitelijke woonsituatie van degene die aanspraak maakt op toeslag, van zijn echtgenoot of van een kind in overeenstemming is met het verstrekte adres van hemzelf, zijn echtgenoot of van zijn kind.   Teneinde hem daartoe in de gelegenheid te stellen kan het Uitvoeringsinstituut werknemersverzekeringen bij die verzoeken aanbieden met de toestemming van degene die aanspraak maakt op toeslag dan wel zijn wettelijke vertegenwoordiger de woning van degene die aanspraak maakt op toeslag binnen te treden.   
+2.  Indien degene die aanspraak maakt op toeslag dan wel zijn wettelijke vertegenwoordiger niet desgevraagd aantoont dat degene die aanspraak maakt op toeslag een ongehuwde is als bedoeld in artikel 2, tweede lid, of derde lid, onderdeel a en onderdeel b, onder 1°, 2° of 3°, wordt de toeslag toegekend respectievelijk herzien naar een hoogte gelijk aan het verschil tussen de helft van het bedrag, bedoeld in artikel 8, eerste lid, en het inkomen per dag.   
 
 ### Artikel  13  
 

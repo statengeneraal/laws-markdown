@@ -3,43 +3,41 @@
 ##Besluit van het Productschap Pluimvee en Eieren van 3 november 2011 tot uitwerking van de voorschriften inzake de bewaking en bestrijding van Salmonella in opfokbedrijven, fokbedrijven en vermeerderingsbedrijven (Hygiënebesluit opfokbedrijven, fokbedrijven en vermeerderingsbedrijven (PPE) 2011)
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op de [artikelen 3](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md), [4](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md), [5](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md), [15](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md), [17](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md), [18](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) en [19 van de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md);
+Gelet op de artikelen 3, 4, 5, 15, 17, 18 en 19 van de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011;
 Besluit:    
 
 ### Artikel  1  
 
-Dit besluit verstaat onder ondernemer een natuurlijk persoon of rechtspersoon die een fokbedrijf, opfokbedrijf of vermeerderingsbedrijf uitoefent en onder Salmonella Typhimurium mede monofasische Salmonella Typhimurium met de antigene formule 1,4,[5],12:i:-, en neemt voor het overige de begrippen als omschreven in [artikel 1 van de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) (hierna: de Verordening) over.  
+Dit besluit verstaat onder ondernemer een natuurlijk persoon of rechtspersoon die een fokbedrijf, opfokbedrijf of vermeerderingsbedrijf uitoefent en onder Salmonella Typhimurium mede monofasische Salmonella Typhimurium met de antigene formule 1,4,[5],12:i:-, en neemt voor het overige de begrippen als omschreven in artikel 1 van de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011 (hierna: de Verordening) over.  
 
 ####Hygiënogram
 
 ### Artikel  2  
 
-1.  Het hygiënogram als bedoeld in [artikel 1, onderdeel 48](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md)., en [artikel 3 van de Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) wordt uitgevoerd door een HOSOWO-instantie overeenkomstig het Besluit erkenningsvoorwaarden en werkwijzen HOSOWO-instanties (PPE) 2011.   
-2.  Indien de uitslag van het hygiënogram als bedoeld in [artikel 3 van de Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) kleiner dan of gelijk aan 1,5 is, hoeft de ondernemer geen vervolgmaatregelen te nemen.   
-3.  Indien de uitslag van het hygiënogram als bedoeld in [artikel 3 van de Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) groter dan 1,5 maar kleiner dan of gelijk aan 3,0 is, laat de ondernemer de stal reinigen en ontsmetten door een ontsmettingsbedrijf. Vervolgens mag de ondernemer een stalkoppel plaatsen. Na de eerstvolgende leegstandsperiode reinigt en ontsmet de ondernemer de stal en laat hij aansluitend opnieuw een hygiënogram in de stal uitvoeren. De ondernemer mag slechts een stalkoppel in de stal plaatsen indien de uitslag van dit hygiënogram kleiner dan of gelijk aan 1,5 is. Indien de uitslag van het hygiënogram groter dan 1,5 is, dan worden de reiniging en ontsmetting en de uitvoering van een hygiënogram net zo lang herhaald totdat de uitslag van het hygiënogram kleiner dan of gelijk aan 1,5 is.   
-4.  Indien de uitslag van het hygiënogram als bedoeld in [artikel 3 van de Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) groter dan 3,0 is, laat de ondernemer de stal opnieuw reinigen en ontsmetten en laat hij aansluitend opnieuw een hygiënogram in de stal uitvoeren. De ondernemer mag slechts een stalkoppel in de stal plaatsen indien de uitslag van dit hygiënogram kleiner dan of gelijk aan 1,5 is. Indien de uitslag van het hygiënogram groter dan 1,5 is, dan worden de reiniging en ontsmetting en de uitvoering van een hygiënogram net zo lang herhaald totdat de uitslag van het hygiënogram kleiner dan of gelijk aan 1,5 is.   
+1.  Het hygiënogram als bedoeld in artikel 1, onderdeel 48., en artikel 3 van de Verordening wordt uitgevoerd door een HOSOWO-instantie overeenkomstig het Besluit erkenningsvoorwaarden en werkwijzen HOSOWO-instanties (PPE) 2011.   
+2.  Indien de uitslag van het hygiënogram als bedoeld in artikel 3 van de Verordening kleiner dan of gelijk aan 1,5 is, hoeft de ondernemer geen vervolgmaatregelen te nemen.   
+3.  Indien de uitslag van het hygiënogram als bedoeld in artikel 3 van de Verordening groter dan 1,5 maar kleiner dan 3,0 is, laat de ondernemer de stal reinigen en ontsmetten door een ontsmettingsbedrijf. Vervolgens mag de ondernemer een stalkoppel plaatsen. Na de eerstvolgende leegstandsperiode reinigt en ontsmet de ondernemer de stal en laat hij aansluitend opnieuw een hygiënogram in de stal uitvoeren. De ondernemer mag slechts een stalkoppel in de stal plaatsen indien de uitslag van dit hygiënogram kleiner dan of gelijk aan 1,5 is. Indien de uitslag van het hygiënogram groter dan 1,5 is, dan worden de reiniging en ontsmetting en de uitvoering van een hygiënogram net zo lang herhaald totdat de uitslag van het hygiënogram kleiner dan of gelijk aan 1,5 is.   
+4.  Indien de uitslag van het hygiënogram als bedoeld in artikel 3 van de Verordening gelijk aan 3,0 is, laat de ondernemer de stal opnieuw reinigen en ontsmetten en laat hij aansluitend opnieuw een hygiënogram in de stal uitvoeren. De ondernemer mag slechts een stalkoppel in de stal plaatsen indien de uitslag van dit hygiënogram kleiner dan of gelijk aan 1,5 is. Indien de uitslag van het hygiënogram groter dan 1,5 is, dan worden de reiniging en ontsmetting en de uitvoering van een hygiënogram net zo lang herhaald totdat de uitslag van het hygiënogram kleiner dan of gelijk aan 1,5 is.   
 
-####Monsterneming in het kader van [artikel 4 van de Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) (reguliere monsterneming)
+####Monsterneming in het kader van artikel 4 van de Verordening (reguliere monsterneming)
 
 ### Artikel  3  
 
-1.  De ondernemer die een opfokbedrijf uitoefent laat de monsters als bedoeld in [artikel 4, eerste lid, van de Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) door GD nemen: 
+1.  De ondernemer die een opfokbedrijf uitoefent neemt de monsters als bedoeld in artikel 4, eerste lid, van de Verordening bij de plaatsing van het stalkoppel opfokpluimvee op het opfokbedrijf, overeenkomstig Bijlage I, A. (inlegvellen), en laat de monsters als bedoeld in artikel 4, eerste lid, van de Verordening door GD nemen: 
 
-a) bij de plaatsing van het stalkoppel opfokpluimvee op het opfokbedrijf, overeenkomstig Bijlage I, A. (inlegvellen); én  
+a) vier weken na plaatsing van het stalkoppel opfokpluimvee op het opfokbedrijf, overeenkomstig Bijlage I, B. (mestmonsters) én  
 
-b) vier weken na plaatsing van het stalkoppel opfokpluimvee op het opfokbedrijf, overeenkomstig Bijlage I, B. (mestmonsters) én  
+b) maximaal veertien dagen voor overplaatsing van het stalkoppel opfokpluimvee, overeenkomstig Bijlage I, B. (mestmonsters).     
+2.  De ondernemer die een fokbedrijf of vermeerderingsbedrijf uitoefent neemt de monsters als bedoeld in artikel 4, eerste lid, van de Verordening voor het eerst als het stalkoppel fokpluimvee of vermeerderingspluimvee een leeftijd van minimaal 22 weken en maximaal 24 weken heeft en neemt de monsters vervolgens ten minste één maal per drie weken, overeenkomstig Bijlage I, B. (mestmonsters).   
 
-c) maximaal veertien dagen voor overplaatsing van het stalkoppel opfokpluimvee, overeenkomstig Bijlage I, B. (mestmonsters).     
-2.  De ondernemer die een fokbedrijf of vermeerderingsbedrijf uitoefent neemt de monsters als bedoeld in [artikel 4, eerste lid, van de Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) voor het eerst als het stalkoppel fokpluimvee of vermeerderingspluimvee een leeftijd van minimaal 22 weken en maximaal 24 weken heeft en neemt de monsters vervolgens ten minste één maal per drie weken, overeenkomstig Bijlage I, B. (mestmonsters).   
-
-####Detectie en serotypering in het kader van [artikel 4 van de Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md)
+####Detectie en serotypering in het kader van artikel 4 van de Verordening
 
 ### Artikel  4  
 
-1.  De ondernemer zorgt ervoor dat de monsters als bedoeld in [artikel 4, eerste lid, van de Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) binnen 24 uur na de monsterneming zijn verzonden naar een voor detectie van Salmonella erkend laboratorium.   
+1.  De ondernemer zorgt ervoor dat de monsters als bedoeld in artikel 4, eerste lid, van de Verordening binnen 24 uur na de monsterneming zijn verzonden naar een voor detectie van Salmonella erkend laboratorium.   
 2.  Indien het voor detectie van Salmonella erkende laboratorium Salmonella in een monster heeft gedetecteerd, dan zorgt de ondernemer ervoor dat dit monster onverwijld na de detectie wordt geserotypeerd door een voor serotypering erkend laboratorium.   
 
-####Melding uitslagen detectie en serotypering opfokbedrijven in het kader van [artikel 4 van de Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md)
+####Melding uitslagen detectie en serotypering opfokbedrijven in het kader van artikel 4 van de Verordening
 
 ### Artikel  5  
 
@@ -67,7 +65,7 @@ In geval van een negatieve uitslag: de uitslag van de detectie, inclusief de dat
 
 In geval van een positieve uitslag: de uitslag van de serotypering, inclusief de datum van de uitslag.     
 
-####Melding uitslagen detectie en serotypering fokbedrijven en vermeerderingsbedrijven in het kader van [artikel 4 van de Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md)
+####Melding uitslagen detectie en serotypering fokbedrijven en vermeerderingsbedrijven in het kader van artikel 4 van de Verordening
 
 ### Artikel  6  
 
@@ -95,7 +93,7 @@ In geval van een negatieve uitslag: de uitslag van de detectie, inclusief de dat
 
 In geval van een positieve uitslag: de uitslag van de serotypering, inclusief de datum van de uitslag.     
 
-####Monsterneming in het kader van [artikel 15 van de Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) (officiële monsterneming)
+####Monsterneming in het kader van artikel 15 van de Verordening (officiële monsterneming)
 
 ### Artikel  7  
 
@@ -106,8 +104,8 @@ In geval van een positieve uitslag: de uitslag van de serotypering, inclusief de
 
 ### Artikel  8  
 
-1.  Indien in het kader van [artikel 4](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) dan wel [artikel 15 van de Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) aan de voorzitter is gemeld dat Salmonella is aangetoond in een monster van een stalkoppel opfokpluimvee, fokpluimvee of vermeerderingspluimvee in de pluimveevleessector, kan de voorzitter door GD een verificatieonderzoek laten uitvoeren bij het betreffende stalkoppel.   
-2.  Indien in het kader van [artikel 4](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) dan wel [artikel 15 van de Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) aan de voorzitter is gemeld dat Salmonella Enteritidis, Salmonella Typhimurium, Salmonella Hadar, Salmonella Infantis of Salmonella Virchow is aangetoond in een monster van een stalkoppel opfokpluimvee, fokpluimvee of vermeerderingspluimvee in de legsector, kan de voorzitter door GD een verificatieonderzoek laten uitvoeren bij het betreffende stalkoppel.   
+1.  Indien in het kader van artikel 4 dan wel artikel 15 van de Verordening aan de voorzitter is gemeld dat Salmonella is aangetoond in een monster van een stalkoppel opfokpluimvee, fokpluimvee of vermeerderingspluimvee in de pluimveevleessector, kan de voorzitter door GD een verificatieonderzoek laten uitvoeren bij het betreffende stalkoppel.   
+2.  Indien in het kader van artikel 4 dan wel artikel 15 van de Verordening aan de voorzitter is gemeld dat Salmonella Enteritidis, Salmonella Typhimurium, Salmonella Hadar, Salmonella Infantis of Salmonella Virchow is aangetoond in een monster van een stalkoppel opfokpluimvee, fokpluimvee of vermeerderingspluimvee in de legsector, kan de voorzitter door GD een verificatieonderzoek laten uitvoeren bij het betreffende stalkoppel.   
 3.  Indien een verificatieonderzoek wordt uitgevoerd bij een stalkoppel opfokpluimvee, mag de ondernemer dit stalkoppel niet overplaatsen totdat de voorzitter hiervoor toestemming geeft.   
 4.  Indien een verificatieonderzoek wordt uitgevoerd bij een stalkoppel fokpluimvee of vermeerderingspluimvee, dan mag de ondernemer de broedeieren die geproduceerd zijn door het stalkoppel niet van het bedrijf afvoeren totdat de voorzitter hiervoor toestemming geeft.   
 5.  De ondernemer zorgt ervoor dat de uitslag van een verificatieonderzoek uiterlijk binnen één werkdag nadat deze uitslag bij hem bekend is, schriftelijk is gemeld aan het bedrijf dat het bemonsterde stalkoppel opfokpluimvee, fokpluimvee of vermeerderingspluimvee heeft geleverd (kuikenbroederij of opfokbedrijf) en aan de afnemer van het pluimvee of de broedeieren van het bemonsterde stalkoppel (fokbedrijf of vermeerderingsbedrijf respectievelijk kuikenbroederij).   
@@ -116,7 +114,7 @@ In geval van een positieve uitslag: de uitslag van de serotypering, inclusief de
 
 ### Artikel  9  
 
-1.  Het stalonderzoek als bedoeld in [artikel 1](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) en [artikel 5 van de Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) wordt uitgevoerd door een HOSOWO-instantie overeenkomstig het [Besluit erkenningsvoorwaarden en werkwijzen HOSOWO-instanties (PPE) 2011](../../../../../../../../pbo/besluit/erkenningsvoorwaarden/en/werkwijzen/hosowo-instanties/(ppe)/2011/BWBR0031183/README.md).   
+1.  Het stalonderzoek als bedoeld in artikel 1 en artikel 5 van de Verordening wordt uitgevoerd door een HOSOWO-instantie overeenkomstig het Besluit erkenningsvoorwaarden en werkwijzen HOSOWO-instanties (PPE) 2011.   
 2.  De ondernemer mag pas een stalkoppel opfokpluimvee, fokpluimvee of vermeerderingspluimvee in de stal plaatsen indien op grond van het stalonderzoek geen Salmonella meer in de stal is aangetoond.   
 
 ####Bewaarplicht
@@ -144,7 +142,7 @@ secretaris
 
 ####Onderzoek naar Salmonella opfokbedrijven, fokbedrijven en vermeerderingsbedrijven
 
-De ondernemer die een opfokbedrijf, fokbedrijf of vermeerderingsbedrijf uitoefent dient de op het bedrijf aanwezige stalkoppels te laten onderzoeken op de aanwezigheid van Salmonella. De ondernemer die een fokbedrijf of vermeerderingsbedrijf uitoefent neemt de monsters zelf of geeft aan een derde opdracht tot het nemen van deze monsters en de ondernemer die een opfokbedrijf uitoefent laat de monsters door GD nemen (reguliere monsterneming in het kader van [artikel 4 van de Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md)). Daarnaast laat de voorzitter op de fokbedrijven en vermeerderingsbedrijven monsters nemen (officiële monsterneming in het kader van [artikel 15 van de Verordening](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md)). In deze bijlage worden deze vormen van monsterneming nader beschreven. Ondernemers die een fokbedrijf of vermeerderingsbedrijf uitoefenen moeten de monsterneming uitvoeren overeenkomstig het bemonsteringsprotocol genoemd in Verordening (EU) Nr. 200/2010 van de Commissie. Bijlage I is dan ook in overeenstemming met dit bemonsteringsprotocol. 
+De ondernemer die een opfokbedrijf, fokbedrijf of vermeerderingsbedrijf uitoefent dient de op het bedrijf aanwezige stalkoppels te laten onderzoeken op de aanwezigheid van Salmonella. De ondernemer die een fokbedrijf of vermeerderingsbedrijf uitoefent neemt de monsters zelf of geeft aan een derde opdracht tot het nemen van deze monsters (reguliere monsterneming in het kader van artikel 4 van de Verordening). De ondernemer die een opfokbedrijf uitoefent neemt de monsters met inlegvellen zelf of geeft een derde daartoe opdracht, en hij laat de mestmonsters door GD nemen (reguliere monsterneming in het kader van artikel 4 van de Verordening). Daarnaast laat de voorzitter op de fokbedrijven en vermeerderingsbedrijven monsters nemen (officiële monsterneming in het kader van artikel 15 van de Verordening). In deze bijlage worden deze vormen van monsterneming nader beschreven. Ondernemers die een fokbedrijf of vermeerderingsbedrijf uitoefenen moeten de monsterneming uitvoeren overeenkomstig het bemonsteringsprotocol genoemd in Verordening (EU) Nr. 200/2010 van de Commissie. Bijlage I is dan ook in overeenstemming met dit bemonsteringsprotocol. 
 
 ### A  
 
@@ -152,7 +150,7 @@ De ondernemer die een opfokbedrijf, fokbedrijf of vermeerderingsbedrijf uitoefen
 
 ###Doel
 
-Dit werkvoorschrift beschrijft de monsterneming van inlegvellen, zoals voorgeschreven in het kader van het onderzoek naar Salmonella bij plaatsing van het stalkoppel opfokpluimvee op een opfokbedrijf. De monsters worden door GD genomen bij de plaatsing van het stalkoppel opfokpluimvee op het opfokbedrijf. 
+Dit werkvoorschrift beschrijft de monsterneming van inlegvellen, zoals voorgeschreven in het kader van het onderzoek naar Salmonella bij plaatsing van het stalkoppel opfokpluimvee op een opfokbedrijf. De ondernemer neemt de monsters bij de plaatsing van het stalkoppel opfokpluimvee op het opfokbedrijf, of hij geeft opdracht tot het nemen van deze monsters. 
 ###Benodigdheden
 
 1) Steriele goed afsluitbare plastic zakken of potten;  
