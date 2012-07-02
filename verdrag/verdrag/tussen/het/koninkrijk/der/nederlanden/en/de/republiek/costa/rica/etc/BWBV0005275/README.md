@@ -10,13 +10,13 @@ De Regering van het Koninkrijk der Nederlanden, en de Regering van de Republiek 
 
 ####Doelstelling en reikwijdte van het Verdrag
 
-De bevoegde autoriteiten van de verdragsluitende partijen verlenen elkaar bijstand door middel van de uitwisseling van informatie die naar verwachting van belang zal zijn voor de toepassing en handhaving van de nationale wetten van de verdragsluitende partijen die betrekking hebben op de belastingen waarop dit Verdrag van toepassing is. Deze informatie omvat informatie die naar verwachting van belang zal zijn voor de bepaling, vaststelling en inning van deze belastingen, de invordering en tenuitvoerlegging van belastingvorderingen of het onderzoek naar of de vervolging van belastingzaken. Informatie wordt uitgewisseld in overeenstemming met de bepalingen van dit Verdrag en wordt vertrouwelijk behandeld op de wijze voorzien in artikel 8. De uit hoofde van de wetgeving of de bestuursrechtelijke praktijk van de aangezochte partij aan personen toegekende rechten en waarborgen blijven van toepassing voor zover zij de doeltreffende uitwisseling van informatie niet onnodig verhinderen of vertragen.  
+De bevoegde autoriteiten van de verdragsluitende partijen verlenen elkaar bijstand door middel van de uitwisseling van informatie die naar verwachting van belang zal zijn voor de toepassing en handhaving van de nationale wetten van de verdragsluitende partijen die betrekking hebben op de belastingen waarop dit Verdrag van toepassing is. Deze informatie omvat informatie die naar verwachting van belang zal zijn voor de bepaling, vaststelling en inning van deze belastingen, de invordering en tenuitvoerlegging van belastingvorderingen of het onderzoek naar of de vervolging van belastingzaken. Informatie wordt uitgewisseld in overeenstemming met de bepalingen van dit Verdrag en wordt vertrouwelijk behandeld op de wijze voorzien in artikel 8. De uit hoofde van de wetgeving of de bestuursrechtelijke praktijk van de aangezochte partij aan personen toegekende rechten en waarborgen blijven van toepassing voor zover zij de doeltreffende uitwisseling van informatie niet onnodig verhinderen of vertragen. 
 
 ### Artikel  2  
 
 ####Rechtsmacht
 
-Een aangezochte partij is niet verplicht informatie te verstrekken die noch in het bezit is van haar autoriteiten, noch in het bezit of in de macht van personen die onder haar territoriale rechtsmacht vallen.  
+Een aangezochte partij is niet verplicht informatie te verstrekken die noch in het bezit is van haar autoriteiten, noch in het bezit of in de macht van personen die onder haar territoriale rechtsmacht vallen. 
 
 ### Artikel  3  
 
@@ -28,7 +28,7 @@ a. in Nederland: belastingen van elke soort en benaming, met inbegrip van douane
 
 b. in de Republiek Costa Rica: belastingen van elke soort en benaming, met inbegrip van douanerechten die worden geïnd door het ministerie van Financiën.     
 2.  Dit Verdrag is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die na de datum van ondertekening van dit Verdrag naast of in de plaats van de bestaande belastingen worden geheven. De bevoegde autoriteiten van de verdragsluitende partijen doen elkaar mededeling van alle wezenlijke wijzigingen die zijn aangebracht in de belastingheffing en daarmee samenhangende maatregelen ten behoeve van het verzamelen van informatie waarop dit Verdrag van toepassing is.   
-3.  De bevoegde autoriteiten van de verdragsluitende partijen stellen elkaar in kennis van alle relevante wijzigingen in de organisatie, wetgeving of juridische precedenten ter zake van de belastingheffing daarmee samenhangende maatregelen ten behoeve van het verzamelen van informatie waarop dit Verdrag van toepassing is, mits deze wijzigingen van wezenlijk belang zijn voor de uitwisseling van informatie.   
+3.  De bevoegde autoriteiten van de verdragsluitende partijen stellen elkaar in kennis van alle relevante wijzigingen in de organisatie, wetgeving of juridische precedenten ter zake van de belastingheffing daarmee samenhangende maatregelen ten behoeve van het verzamelen van informatie waarop dit Verdrag van toepassing is, mits deze wijzigingen van wezenlijk belang zijn voor de uitwisseling van informatie.  
 
 ### Artikel  4  
 
@@ -74,7 +74,7 @@ p. wordt verstaan onder de uitdrukking „strafrechtelijke belastingzaken” bel
 
 q. wordt verstaan onder de uitdrukking „strafwetten” alle strafrechtelijke bepalingen die krachtens de nationale wetgeving als zodanig worden aangeduid, ongeacht of zij zijn opgenomen in belastingwetten, het wetboek van strafrecht of andere wetten.     
 2.  Wat betreft de toepassing van dit Verdrag, op enig moment, door een verdragsluitende partij heeft, tenzij de context anders vereist of indien de bevoegde autoriteiten overeenkomstig het bepaalde in artikel 11 voor een uitdrukking in dit Verdrag een gezamenlijke betekenis overeenkomen, elke daarin niet omschreven uitdrukking de betekenis welke die uitdrukking op dat tijdstip heeft volgens de wetgeving van die partij, waarbij elke betekenis volgens de toepasselijke belastingwetgeving van die partij prevaleert boven een betekenis die volgens andere wetgeving van die partij aan die uitdrukking wordt gegeven.   
-3.  De toelichting bij het OESO-modelverdrag tot uitwisseling van informatie met betrekking tot belastingaangelegenheden is van toepassing op de uitlegging van dit Verdrag.   
+3.  De toelichting bij het OESO-modelverdrag tot uitwisseling van informatie met betrekking tot belastingaangelegenheden is van toepassing op de uitlegging van dit Verdrag.  
 
 ### Artikel  5  
 
@@ -104,7 +104,7 @@ f. een verklaring dat het verzoek in overeenstemming is met de wetgeving en de b
 
 g. een verklaring dat de verzoekende partij op haar eigen grondgebied alles in het werk heeft gesteld om de informatie te verkrijgen, tenzij dit zou leiden tot onevenredige moeilijkheden.     
 6.  De bevoegde autoriteit van de aangezochte partij doet de verzochte informatie zo spoedig mogelijk toekomen aan de verzoekende partij. Teneinde een snel antwoord te waarborgen bevestigt de bevoegde autoriteit van de aangezochte partij de ontvangst van een verzoek schriftelijk aan de bevoegde autoriteit van de verzoekende partij en stelt zij de bevoegde autoriteit van de verzoekende partij binnen 60 dagen na ontvangst van het verzoek in kennis van eventuele gebreken in het verzoek.   
-7.  Indien de bevoegde autoriteit van de aangezochte partij niet in staat is de informatie binnen 90 dagen na ontvangst van het verzoek te verkrijgen en te verstrekken, onder meer omdat zij belemmeringen ondervindt bij het verstrekken van de informatie dan wel weigert de informatie te verstrekken, stelt zij de verzoekende partij daarvan onverwijld op de hoogte, onder vermelding van de oorzaken van de onmogelijkheid, de aard van de belemmeringen of de redenen voor haar weigering.   
+7.  Indien de bevoegde autoriteit van de aangezochte partij niet in staat is de informatie binnen 90 dagen na ontvangst van het verzoek te verkrijgen en te verstrekken, onder meer omdat zij belemmeringen ondervindt bij het verstrekken van de informatie dan wel weigert de informatie te verstrekken, stelt zij de verzoekende partij daarvan onverwijld op de hoogte, onder vermelding van de oorzaken van de onmogelijkheid, de aard van de belemmeringen of de redenen voor haar weigering.  
 
 ### Artikel  6  
 
@@ -112,7 +112,7 @@ g. een verklaring dat de verzoekende partij op haar eigen grondgebied alles in h
 
 1.  Een verdragsluitende partij kan, voor zover toegestaan ingevolge haar nationale recht, na een verzoek binnen een redelijke termijn van de verzoekende partij, vertegenwoordigers van de bevoegde autoriteit van de verzoekende partij toestaan het grondgebied van de aangezochte partij binnen te komen teneinde natuurlijke personen te ondervragen en stukken te onderzoeken met toestemming van de betrokken personen. De bevoegde autoriteit van de aangezochte partij stelt de bevoegde autoriteit van de verzoekende partij in kennis van het tijdstip en de locatie van de bijeenkomst met de betrokken natuurlijke personen.   
 2.  Op verzoek van de bevoegde autoriteit van de ene verdragsluitende partij, kan de bevoegde autoriteit van de aangezochte partij vertegenwoordigers, voor zover toegestaan ingevolge haar nationale recht na een verzoek binnen een redelijke termijn van de verzoekende partij vertegenwoordigers van de bevoegde autoriteit van de verzoekende partij toestaan aanwezig te zijn bij het daarvoor in aanmerking komende deel van een belastingcontrole in de aangezochte partij.   
-3.  Indien het in het tweede lid bedoelde verzoek wordt ingewilligd, stelt de bevoegde autoriteit van de verdragsluitende partij die de controle uitvoert, de bevoegde autoriteit van de verzoekende partij zo spoedig mogelijk in kennis van het tijdstip en de locatie van de controle, de autoriteit of functionaris die de controle zal uitvoeren en de door de aangezochte partij ten behoeve van de controle vereiste procedures en voorwaarden. Alle beslissingen met betrekking tot het uitvoeren van de belastingcontrole worden genomen door de verdragsluitende partij die de controle uitvoert.   
+3.  Indien het in het tweede lid bedoelde verzoek wordt ingewilligd, stelt de bevoegde autoriteit van de verdragsluitende partij die de controle uitvoert, de bevoegde autoriteit van de verzoekende partij zo spoedig mogelijk in kennis van het tijdstip en de locatie van de controle, de autoriteit of functionaris die de controle zal uitvoeren en de door de aangezochte partij ten behoeve van de controle vereiste procedures en voorwaarden. Alle beslissingen met betrekking tot het uitvoeren van de belastingcontrole worden genomen door de verdragsluitende partij die de controle uitvoert.  
 
 ### Artikel  7  
 
@@ -127,25 +127,25 @@ a. plaatsvindt ten behoeve van het verzoeken om of verstrekken van juridisch adv
 b. plaatsvindt ten behoeve van bestaande of mogelijk in te stellen gerechtelijke procedures.     
 4.  De aangezochte partij kan een verzoek om informatie afwijzen indien openbaarmaking van de informatie in strijd zou zijn met de openbare orde (ordre public).   
 5.  Een verzoek om informatie wordt niet geweigerd op grond van het feit dat de belastingvordering die aanleiding gaf tot het verzoek wordt betwist.   
-6.  De aangezochte partij kan een verzoek om informatie afwijzen indien de informatie door de verzoekende partij wordt gevraagd om een bepaling van de belastingwetgeving van de verzoekende partij toe te passen of te handhaven die, of een daarmee verband houdend vereiste dat, discriminatie inhoudt van een onderdaan van de aangezochte partij ten opzichte van een onderdaan van de verzoekende partij die zich in dezelfde omstandigheden bevindt.   
+6.  De aangezochte partij kan een verzoek om informatie afwijzen indien de informatie door de verzoekende partij wordt gevraagd om een bepaling van de belastingwetgeving van de verzoekende partij toe te passen of te handhaven die, of een daarmee verband houdend vereiste dat, discriminatie inhoudt van een onderdaan van de aangezochte partij ten opzichte van een onderdaan van de verzoekende partij die zich in dezelfde omstandigheden bevindt.  
 
 ### Artikel  8  
 
 ####Vertrouwelijkheid
 
-Alle uit hoofde van dit Verdrag door een verdragsluitende partij ontvangen informatie wordt vertrouwelijk behandeld en wordt uitsluitend ter kennis gebracht van personen of autoriteiten (met inbegrip van gerechtelijke en bestuursrechtelijke instanties) die onder de rechtsmacht van de desbetreffende verdragsluitende partij vallen en betrokken zijn bij de vaststelling of inning van, de tenuitvoerlegging of vervolging ter zake van, of de beslissing in beroepszaken betrekking hebbende op de belastingen waarop dit Verdrag van toepassing is, of het toezicht daarop. Deze personen of autoriteiten mogen uitsluitend voor deze doeleinden van deze informatie gebruikmaken. Zij mogen de informatie bekendmaken in openbare rechtszittingen of in gerechtelijke beslissingen. De informatie mag zonder de uitdrukkelijke schriftelijke toestemming van de bevoegde autoriteit van de aangezochte partij niet worden bekendgemaakt aan een andere persoon, entiteit, autoriteit of een andere rechterlijke instantie, indien een dergelijke toestemming vereist is ingevolge het nationale recht van de aangezochte partij.  
+Alle uit hoofde van dit Verdrag door een verdragsluitende partij ontvangen informatie wordt vertrouwelijk behandeld en wordt uitsluitend ter kennis gebracht van personen of autoriteiten (met inbegrip van gerechtelijke en bestuursrechtelijke instanties) die onder de rechtsmacht van de desbetreffende verdragsluitende partij vallen en betrokken zijn bij de vaststelling of inning van, de tenuitvoerlegging of vervolging ter zake van, of de beslissing in beroepszaken betrekking hebbende op de belastingen waarop dit Verdrag van toepassing is, of het toezicht daarop. Deze personen of autoriteiten mogen uitsluitend voor deze doeleinden van deze informatie gebruikmaken. Zij mogen de informatie bekendmaken in openbare rechtszittingen of in gerechtelijke beslissingen. De informatie mag zonder de uitdrukkelijke schriftelijke toestemming van de bevoegde autoriteit van de aangezochte partij niet worden bekendgemaakt aan een andere persoon, entiteit, autoriteit of een andere rechterlijke instantie, indien een dergelijke toestemming vereist is ingevolge het nationale recht van de aangezochte partij. 
 
 ### Artikel  9  
 
 ####Kosten
 
-De bevoegde autoriteiten bereiken overeenstemming over kosten die voortvloeien uit het verlenen van bijstand.  
+De bevoegde autoriteiten bereiken overeenstemming over kosten die voortvloeien uit het verlenen van bijstand. 
 
 ### Artikel  10  
 
 ####Uitvoeringswetgeving
 
-De verdragsluitende partijen stellen alle wetgeving vast die noodzakelijk is om te voldoen aan en ter uitvoering van de bepalingen van dit Verdrag.  
+De verdragsluitende partijen stellen alle wetgeving vast die noodzakelijk is om te voldoen aan en ter uitvoering van de bepalingen van dit Verdrag. 
 
 ### Artikel  11  
 
@@ -154,7 +154,7 @@ De verdragsluitende partijen stellen alle wetgeving vast die noodzakelijk is om 
 1.  De bevoegde autoriteiten trachten moeilijkheden of twijfelpunten die mochten rijzen tussen de verdragsluitende partijen met betrekking tot de toepassing of de uitlegging van dit Verdrag in onderling overleg op te lossen.   
 2.  Naast de in het eerste lid bedoelde afspraken kunnen de bevoegde autoriteiten van de verdragsluitende partijen in onderling overleg de krachtens de artikelen 5 en 6 te hanteren procedures vaststellen.   
 3.  De bevoegde autoriteiten van de verdragsluitende partijen kunnen zich rechtstreeks met elkaar in verbinding stellen teneinde overeenstemming te bereiken als bedoeld in dit artikel.   
-4.  De verdragsluitende partijen kunnen ook overeenstemming bereiken over andere vormen van geschillenregeling.   
+4.  De verdragsluitende partijen kunnen ook overeenstemming bereiken over andere vormen van geschillenregeling.  
 
 ### Artikel  12  
 
@@ -164,7 +164,7 @@ Dit Verdrag treedt in werking op de eerste dag van de tweede maand na de ontvang
 
 a. strafrechtelijke belastingzaken vanaf die datum; en  
 
-b. alle overige aangelegenheden vanaf die datum waarop artikel 1 van toepassing is, zij het uitsluitend met betrekking tot belastingtijdvakken beginnend op of na die datum, of bij ontbreken van een belastingtijdvak, alle belastingvorderingen ontstaan op of na die datum.    
+b. alle overige aangelegenheden vanaf die datum waarop artikel 1 van toepassing is, zij het uitsluitend met betrekking tot belastingtijdvakken beginnend op of na die datum, of bij ontbreken van een belastingtijdvak, alle belastingvorderingen ontstaan op of na die datum.   
 
 ### Artikel  13  
 
@@ -172,7 +172,7 @@ b. alle overige aangelegenheden vanaf die datum waarop artikel 1 van toepassing 
 
 1.  Elk van de verdragsluitende partijen kan dit Verdrag beëindigen door langs diplomatieke weg een kennisgeving van beëindiging in te dienen bij de andere verdragsluitende partij.   
 2.  Deze beëindiging wordt van kracht op de eerste dag van de maand na het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving van beëindiging door de andere verdragsluitende partij.   
-3.  Na de beëindiging van dit Verdrag blijven de verdragsluitende partijen gebonden door de voorwaarden van artikel 8 ten aanzien van alle uit hoofde van het Verdrag verkregen informatie.   
+3.  Na de beëindiging van dit Verdrag blijven de verdragsluitende partijen gebonden door de voorwaarden van artikel 8 ten aanzien van alle uit hoofde van het Verdrag verkregen informatie.  
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Verdrag hebben ondertekend. GEDAAN te San José, op 29 maart 2011, in tweevoud, in de Nederlandse, de Spaanse en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschil in interpretatie is de Engelse tekst doorslaggevend.  *Voor het Koninkrijk der Nederlanden:*  J. H. M. van BONZEL  *Voor de Republiek Costa Rica:*  F. HERRERO ACOSTA  
 
@@ -202,19 +202,19 @@ g. Indien het nationale recht van de verstrekkende autoriteit ter zake van de ve
 
 h. De verstrekkende en de ontvangende autoriteit zijn verplicht het verstrekken en ontvangen van persoonsgegevens officieel te registreren;  
 
-i. De verstrekkende en de ontvangende autoriteit zijn verplicht doeltreffende maatregelen te nemen ter bescherming van verstrekte persoonsgegevens tegen toegang of wijziging door en bekendmaking aan onbevoegden.     
+i. De verstrekkende en de ontvangende autoriteit zijn verplicht doeltreffende maatregelen te nemen ter bescherming van verstrekte persoonsgegevens tegen toegang of wijziging door en bekendmaking aan onbevoegden.    
 
 ### Artikel  2  
 
 ####(Artikel 5  – kennisgeving op verzoek)
 
-Ter vereenvoudiging van de uitwisseling van informatie uit hoofde van het Verdrag, indien de informatie die door de bevoegde autoriteit van de aangezochte partij is ontvangen niet toereikend is om aan het verzoek om informatie te voldoen, stelt zij de bevoegde autoriteit van de verzoekende partij hiervan in kennis en verzoekt zij om de aanvullende informatie die nodig kan zijn om het verzoek naar behoren te kunnen behandelen.  
+Ter vereenvoudiging van de uitwisseling van informatie uit hoofde van het Verdrag, indien de informatie die door de bevoegde autoriteit van de aangezochte partij is ontvangen niet toereikend is om aan het verzoek om informatie te voldoen, stelt zij de bevoegde autoriteit van de verzoekende partij hiervan in kennis en verzoekt zij om de aanvullende informatie die nodig kan zijn om het verzoek naar behoren te kunnen behandelen. 
 
 ### Artikel  3  
 
 ####(Wijziging van het verdrag)
 
-Een verdragsluitende partij kan te allen tijde na de inwerkingtreding van het Verdrag wijzigingen van het Verdrag voorstellen teneinde het in overeenstemming te brengen met de internationaal overeengekomen normen inzake de uitwisseling van informatie voor fiscale doeleinden. Na ontvangst van een dergelijk verzoek neemt de andere verdragsluitende partij te goeder trouw deel aan de onderhandelingen over het voorstel.  
+Een verdragsluitende partij kan te allen tijde na de inwerkingtreding van het Verdrag wijzigingen van het Verdrag voorstellen teneinde het in overeenstemming te brengen met de internationaal overeengekomen normen inzake de uitwisseling van informatie voor fiscale doeleinden. Na ontvangst van een dergelijk verzoek neemt de andere verdragsluitende partij te goeder trouw deel aan de onderhandelingen over het voorstel. 
 
 ### Artikel  4  
 
@@ -228,15 +228,15 @@ ii. de Republiek Costa Rica een verdrag sluit met een andere mogendheid dat voor
 
 iii. een van de verdragsluitende partijen nieuwe wetgeving invoert die andere vormen van uitwisseling van informatie mogelijk maakt.    
 
-b. Indien het Koninkrijk der Nederlanden met andere mogendheden regelingen treft voor het verstrekken van informatie betreffende belastingzaken die in materieel opzicht minder belastend zijn dan de bepalingen van het Verdrag, kan de Republiek Costa Rica met het Koninkrijk der Nederlanden in overleg treden over wijziging van het Verdrag teneinde soortgelijke regelingen te bewerkstelligen.    
+b. Indien het Koninkrijk der Nederlanden met andere mogendheden regelingen treft voor het verstrekken van informatie betreffende belastingzaken die in materieel opzicht minder belastend zijn dan de bepalingen van het Verdrag, kan de Republiek Costa Rica met het Koninkrijk der Nederlanden in overleg treden over wijziging van het Verdrag teneinde soortgelijke regelingen te bewerkstelligen.   
 
 ### Artikel  5  
 
-Dit Protocol vormt een integrerend onderdeel van het Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Costa Rica inzake de uitwisseling van informatie betreffende belastingzaken en treedt in werking op dezelfde datum als het Verdrag.  
+Dit Protocol vormt een integrerend onderdeel van het Verdrag tussen het Koninkrijk der Nederlanden en de Republiek Costa Rica inzake de uitwisseling van informatie betreffende belastingzaken en treedt in werking op dezelfde datum als het Verdrag. 
 
 ### Artikel  6  
 
-De verdragsluitende partijen kunnen dit Protocol te allen tijde in onderling overleg schriftelijk wijzigen. Een dergelijke wijziging treedt in werking op de eerste dag van de tweede maand nadat de verdragsluitende partijen elkaar langs diplomatieke weg schriftelijk ervan in kennis hebben gesteld dat aan de grondwettelijke of nationale vereisten voor de inwerkingtreding van de wijziging is voldaan.  
+De verdragsluitende partijen kunnen dit Protocol te allen tijde in onderling overleg schriftelijk wijzigen. Een dergelijke wijziging treedt in werking op de eerste dag van de tweede maand nadat de verdragsluitende partijen elkaar langs diplomatieke weg schriftelijk ervan in kennis hebben gesteld dat aan de grondwettelijke of nationale vereisten voor de inwerkingtreding van de wijziging is voldaan. 
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd door hun respectieve Regeringen, dit Protocol hebben ondertekend. GEDAAN te San José, op 29 maart 2011, in tweevoud, in de Nederlandse, de Spaanse en de Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschil in interpretatie is de Engelse tekst doorslaggevend.  *Voor het Koninkrijk der Nederlanden:*  J. H. M. van BONZEL  *Voor de Republiek Costa Rica:*  F. HERRERO ACOSTA  
 
