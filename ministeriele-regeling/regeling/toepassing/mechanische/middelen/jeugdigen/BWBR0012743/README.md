@@ -3,7 +3,7 @@
 ##Regeling toepassing mechanische middelen jeugdigen
 
 De Minister van Justitie,  
-Gelet op [artikel 38, derde lid, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);
+Gelet op artikel 38, derde lid, van de Beginselenwet justitiële jeugdinrichtingen;
 
 Gezien het advies van het College van advies voor de justitiële kinderbescherming van 12 oktober 2000, kenmerk 5056746/00/TH/rb;
 Besluit:    
@@ -12,7 +12,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *wet:* de [Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);  
+a. *wet:* de Beginselenwet justitiële jeugdinrichtingen;  
 
 b.  *mechanische middelen:*  de navolgende middelen:   
 
@@ -24,7 +24,7 @@ b.  *mechanische middelen:*  de navolgende middelen:
 
 4º enkelbanden met tussenstuk;  
 
-5º handboeien van een door de Minister goedgekeurd merk en type;  
+5º handboeien van een door de Minister van Veiligheid en Justitie goedgekeurd merk en type;  
 
 6º valhelm of schuimhelm;  
 
@@ -32,7 +32,7 @@ b.  *mechanische middelen:*  de navolgende middelen:
 
 ### Artikel  2  
 
-1.  Als mechanisch middel in de zin van [artikel 38 van de wet](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) worden slechts toegepast de in artikel 1, onder b, genoemde middelen.   
+1.  Als mechanisch middel in de zin van artikel 38 van de wet worden slechts toegepast de in artikel 1, onder b, genoemde middelen.   
 2.  Indien de toestand van de jeugdige dit vereist, kunnen meerdere mechanische middelen tegelijkertijd worden toegepast.   
 
 ### Artikel  3  
@@ -54,11 +54,11 @@ d. het middel kan snel en gemakkelijk worden bevestigd.
 
 ### Artikel  5  
 
-Bij de toepassing van mechanische middelen bij een jeugdige stelt de directeur de ouders of voogd, stiefouder of pleegouders, de gezinsvoogdij-instelling dan wel de voogdij-instelling daarvan zo spoedig mogelijk op de hoogte.  
+Bij de toepassing van mechanische middelen bij een jeugdige stelt de directeur de ouders of voogd, stiefouder of pleegouders, de stichting bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg daarvan zo spoedig mogelijk op de hoogte.  
 
 ### Artikel  6  
 
-1.  De directeur stelt voor de toepassing van mechanische middelen een protocol vast. De directeur verleent geen machtiging aan personeelsleden of medewerkers het protocol op te stellen. De ouders of voogd, stiefouder of pleegouders, de gezinsvoogdijinstelling dan wel de voogdij-instelling worden in de gelegenheid gesteld kennis te nemen van het protocol.   
+1.  De directeur stelt voor de toepassing van mechanische middelen een protocol vast. De directeur verleent geen machtiging aan personeelsleden of medewerkers het protocol op te stellen. De ouders of voogd, stiefouder of pleegouders, de stichting bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg worden in de gelegenheid gesteld kennis te nemen van het protocol.   
 2.  Het protocol omvat in elk geval: 
 
 a. welke mechanische middelen in de inrichting aanwezig zijn en op welke wijze zij worden toegepast;  

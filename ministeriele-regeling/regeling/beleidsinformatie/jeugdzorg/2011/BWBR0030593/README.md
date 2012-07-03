@@ -3,19 +3,19 @@
 ##Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Veiligheid en Justitie van 26 oktober 2011, nr. J/GJ-3084432, houdende nadere regels inzake beleidsinformatie voor de Wet op de jeugdzorg (Regeling beleidsinformatie jeugdzorg 2011)
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Veiligheid en Justitie,  
-Gelet op de [artikelen 43](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) en [46, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) en de [artikelen 21](../../../../../../AMvB/besluit/beleidsinformatie/jeugdzorg/2011/BWBR0030591/README.md), [22](../../../../../../AMvB/besluit/beleidsinformatie/jeugdzorg/2011/BWBR0030591/README.md) en [23 van het Besluit beleidsinformatie jeugdzorg 2011](../../../../../../AMvB/besluit/beleidsinformatie/jeugdzorg/2011/BWBR0030591/README.md);
+Gelet op de artikelen 43 en 46, eerste lid, van de Wet op de jeugdzorg en de artikelen 21, 22 en 23 van het Besluit beleidsinformatie jeugdzorg 2011;
 Besluiten:    
 
 ### Artikel  1  
 
-1.  De informatieverstrekking, bedoeld in de [artikelen 21](../../../../../../AMvB/besluit/beleidsinformatie/jeugdzorg/2011/BWBR0030591/README.md) en [23 van het Besluit beleidsinformatie jeugdzorg 2011](../../../../../../AMvB/besluit/beleidsinformatie/jeugdzorg/2011/BWBR0030591/README.md), geschiedt volgens het bij deze regeling in bijlage I gevoegde Informatieprotocol beleidsinformatie jeugdzorg 2011.   
-2.  De informatieverstrekking door de raad voor de kinderbescherming, bedoeld in [artikel 22 van het Besluit beleidsinformatie jeugdzorg 2011](../../../../../../AMvB/besluit/beleidsinformatie/jeugdzorg/2011/BWBR0030591/README.md), geschiedt volgens het bij deze regeling in bijlage II gevoegde Informatieprotocol beleidsinformatie raad voor de kinderbescherming – provincies 2011.   
-3.  De informatieverstrekking door de aanvaarde rechtspersoon, bedoeld in [artikel 22 van het Besluit beleidsinformatie jeugdzorg 2011](../../../../../../AMvB/besluit/beleidsinformatie/jeugdzorg/2011/BWBR0030591/README.md), geschiedt volgens het bij deze regeling in bijlage III gevoegde Informatieprotocol beleidsinformatie Nidos 2011.   
+1.  De informatieverstrekking, bedoeld in de artikelen 21 en 23 van het Besluit beleidsinformatie jeugdzorg 2011, geschiedt volgens het bij deze regeling in bijlage I gevoegde Informatieprotocol beleidsinformatie jeugdzorg 2011.   
+2.  De informatieverstrekking door de raad voor de kinderbescherming, bedoeld in artikel 22 van het Besluit beleidsinformatie jeugdzorg 2011, geschiedt volgens het bij deze regeling in bijlage II gevoegde Informatieprotocol beleidsinformatie raad voor de kinderbescherming – provincies 2011.   
+3.  De informatieverstrekking door de aanvaarde rechtspersoon, bedoeld in artikel 22 van het Besluit beleidsinformatie jeugdzorg 2011, geschiedt volgens het bij deze regeling in bijlage III gevoegde Informatieprotocol beleidsinformatie Nidos 2011.   
 
 ### Artikel  2  
 
-1.  De [Regeling beleidsinformatie jeugdzorg](../../../../../../ministeriele-regeling/regeling/beleidsinformatie/jeugdzorg/BWBR0018673/README.md) wordt ingetrokken.   
-2.  De [Regeling beleidsinformatie jeugdzorg](../../../../../../ministeriele-regeling/regeling/beleidsinformatie/jeugdzorg/BWBR0018673/README.md) blijft van toepassing op informatieverstrekking met betrekking tot de periode voor inwerkingtreding van deze regeling.   
+1.  De Regeling beleidsinformatie jeugdzorg wordt ingetrokken.   
+2.  De Regeling beleidsinformatie jeugdzorg blijft van toepassing op informatieverstrekking met betrekking tot de periode voor inwerkingtreding van deze regeling.   
 
 ### Artikel  3  
 
@@ -42,13 +42,13 @@ F.Teeven
 
 ####Inleiding
 
-In het [Besluit beleidsinformatie jeugdzorg 2011](../../../../../../AMvB/besluit/beleidsinformatie/jeugdzorg/2011/BWBR0030591/README.md) (hierna aangeduid met: Besluit) is geregeld welke gegevens geregistreerd moeten worden om een samenhangend jeugdzorgbeleid tot stand te kunnen brengen, wie die gegevens verzamelt en bewerkt en welke gegevens mogen worden verstrekt. De wijze waarop de gegevens moeten worden geregistreerd en verstrekt, de tijdvakken waarop de gegevens die worden verstrekt betrekking hebben en de termijnen waarbinnen de gegevens moeten worden verstrekt zijn slechts deels geregeld in het genoemde besluit. In de [artikelen 21](../../../../../../AMvB/besluit/beleidsinformatie/jeugdzorg/2011/BWBR0030591/README.md) en [23 van het Besluit](../../../../../../AMvB/besluit/beleidsinformatie/jeugdzorg/2011/BWBR0030591/README.md) wordt geregeld dat dit bij ministeriële regeling kan worden bepaald. Daarbij kan krachtens het tweede lid van artikel 21 en het tweede lid van artikel 23 van het Besluit worden verwezen naar een door de Ministers van Volksgezondheid, Welzijn en Sport en van Veiligheid en Justitie vast te stellen informatieprotocol. Het Informatieprotocol beleidsinformatie jeugdzorg 2011 (hierna aangeduid met: Informatieprotocol) geeft invulling aan deze bepalingen. Het Informatieprotocol ‘beleidsinformatie raad voor de kinderbescherming – provincies’ (hierna aangeduid met: Informatieprotocol) heeft tot doel helder en eenduidig vast te leggen hoe wordt omgegaan met de vastlegging en verstrekking van gegevens door de raad voor de kinderbescherming (hierna aangeduid met: Raad) zoals bedoeld in het [Besluit](../../../../../../AMvB/besluit/beleidsinformatie/jeugdzorg/2011/BWBR0030591/README.md). Daartoe bevat het informatieprotocol enerzijds een aantal algemene verplichtingen voor de registratie en gegevensuitwisseling tussen de Raad en de provincies en anderzijds het Rapportageformat beleidsinformatie raad voor de kinderbescherming – provincies (hierna aangeduid met Rapportageformat). Tot slot: er zal (verdere) ervaring opgedaan moeten worden met dit protocol. Door de provincies en de Raad wordt uiterlijk twee jaar na inwerkingtreding van het [Besluit](../../../../../../AMvB/besluit/beleidsinformatie/jeugdzorg/2011/BWBR0030591/README.md) bezien of de informatiebehoefte van de provincies aanleiding geven (onderdelen van) het Informatieprotocol aan te passen. Bij het overleg hierover wordt het Rijk betrokken.  
+In het Besluit beleidsinformatie jeugdzorg 2011 (hierna aangeduid met: Besluit) is geregeld welke gegevens geregistreerd moeten worden om een samenhangend jeugdzorgbeleid tot stand te kunnen brengen, wie die gegevens verzamelt en bewerkt en welke gegevens mogen worden verstrekt. De wijze waarop de gegevens moeten worden geregistreerd en verstrekt, de tijdvakken waarop de gegevens die worden verstrekt betrekking hebben en de termijnen waarbinnen de gegevens moeten worden verstrekt zijn slechts deels geregeld in het genoemde besluit. In de artikelen 21 en 23 van het Besluit wordt geregeld dat dit bij ministeriële regeling kan worden bepaald. Daarbij kan krachtens het tweede lid van artikel 21 en het tweede lid van artikel 23 van het Besluit worden verwezen naar een door de Ministers van Volksgezondheid, Welzijn en Sport en van Veiligheid en Justitie vast te stellen informatieprotocol. Het Informatieprotocol beleidsinformatie jeugdzorg 2011 (hierna aangeduid met: Informatieprotocol) geeft invulling aan deze bepalingen. Het Informatieprotocol ‘beleidsinformatie raad voor de kinderbescherming – provincies’ (hierna aangeduid met: Informatieprotocol) heeft tot doel helder en eenduidig vast te leggen hoe wordt omgegaan met de vastlegging en verstrekking van gegevens door de raad voor de kinderbescherming (hierna aangeduid met: Raad) zoals bedoeld in het Besluit. Daartoe bevat het informatieprotocol enerzijds een aantal algemene verplichtingen voor de registratie en gegevensuitwisseling tussen de Raad en de provincies en anderzijds het Rapportageformat beleidsinformatie raad voor de kinderbescherming – provincies (hierna aangeduid met Rapportageformat). Tot slot: er zal (verdere) ervaring opgedaan moeten worden met dit protocol. Door de provincies en de Raad wordt uiterlijk twee jaar na inwerkingtreding van het Besluit bezien of de informatiebehoefte van de provincies aanleiding geven (onderdelen van) het Informatieprotocol aan te passen. Bij het overleg hierover wordt het Rijk betrokken.  
 
 ### II.2  
 
 ####Algemene verplichtingen
 
-De hieronder genoemde algemene verplichtingen vloeien voort uit de [Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) en het [Besluit](../../../../../../AMvB/besluit/beleidsinformatie/jeugdzorg/2011/BWBR0030591/README.md). 
+De hieronder genoemde algemene verplichtingen vloeien voort uit de Wet op de jeugdzorg en het Besluit. 
 
 II.2.a. Ten behoeve van de adequate registratie van de gegevens wordt gebruik gemaakt van de definities zoals opgenomen in het Gegevenswoordenboek beleidsinformatie jeugdzorg 2011 (hierna aangeduid met: Gegevenswoordenboek).  
 
@@ -56,7 +56,7 @@ II.2.b. De Raad verstrekt de gegevens op de wijze en de tijdstippen, en betrekki
 
 II.2.c. Het Landelijk Bureau van de Raad (hierna aangeduid met: Landelijk Bureau) maakt een rapportage met een overzicht per locatie en een landelijk overzicht. Het Landelijk Bureau verstuurt deze gegevens met een algemene toelichting aan de regio’s van de Raad en het IPO. De regio’s van de Raad sturen het landelijke overzicht en het overzicht van de desbetreffende locaties met zo nodig een lokale toelichting aan alle provincies en grootstedelijke regio’s die binnen het werkgebied van de regio vallen.  
 
-II.2.d. Zowel de verstrekkende als de ontvangende partij voldoet aan de regelgeving ten behoeve van de bescherming van privacygevoelige gegevens ([Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md)). De belangrijkste consequentie voor de inhoud van de rapportages aan de provincies hiervan betreft de omgang met kleine aantallen welke tot een persoon herleidbaar zouden kunnen zijn. Het aantal van 0 of aantallen van 6 en groter geven geen problemen. Echter, indien in een aan te leveren tabel het aantal 1, 2, 3, 4 of 5 zou komen te staan, wordt in de tabel 1 – 5 gepresenteerd, om aan te geven dat het aantal 1, 2, 3, 4 of 5 is.  
+II.2.d. Zowel de verstrekkende als de ontvangende partij voldoet aan de regelgeving ten behoeve van de bescherming van privacygevoelige gegevens (Wet bescherming persoonsgegevens). De belangrijkste consequentie voor de inhoud van de rapportages aan de provincies hiervan betreft de omgang met kleine aantallen welke tot een persoon herleidbaar zouden kunnen zijn. Het aantal van 0 of aantallen van 6 en groter geven geen problemen. Echter, indien in een aan te leveren tabel het aantal 1, 2, 3, 4 of 5 zou komen te staan, wordt in de tabel 1 – 5 gepresenteerd, om aan te geven dat het aantal 1, 2, 3, 4 of 5 is.  
 
 II.2.e. Zowel de verstrekkende als de ontvangende partij draagt zorg voor een adequate informatievoorziening waarmee de integriteit, beveiliging, betrouwbaarheid en reproduceerbaarheid van gegevens gewaarborgd is.  
 
@@ -64,13 +64,13 @@ II.2.f. De gegevens worden door de Raad geregistreerd, verwerkt en verstrekt doo
 
 II.2.g. De gegevens worden op schrift en elektronisch verstrekt.  
 
-II.2.h. De te leveren gegevens mogen uitsluitend gehanteerd worden voor de in de wet en het [Besluit](../../../../../../AMvB/besluit/beleidsinformatie/jeugdzorg/2011/BWBR0030591/README.md) beschreven doelen. De te leveren gegevens zijn altijd voorzien van een toelichting door de leverende partij. Het separeren van gegevens uit hun bestaande format en het op andere wijze ordenen, vergelijken of representeren van gegevens door de ontvangende partij geschiedt slechts na overleg met de leverende partij.    
+II.2.h. De te leveren gegevens mogen uitsluitend gehanteerd worden voor de in de wet en het Besluit beschreven doelen. De te leveren gegevens zijn altijd voorzien van een toelichting door de leverende partij. Het separeren van gegevens uit hun bestaande format en het op andere wijze ordenen, vergelijken of representeren van gegevens door de ontvangende partij geschiedt slechts na overleg met de leverende partij.    
 
 ### II.3  
 
 ####Gegevenswoordenboek beleidsinformatie jeugdzorg 2011
 
-In het Gegevenswoordenboek staan de gegevens gedefinieerd die op grond van het [Besluit](../../../../../../AMvB/besluit/beleidsinformatie/jeugdzorg/2011/BWBR0030591/README.md) geregistreerd moeten worden door de bureaus jeugdzorg en de Raad. Het Gegevenswoordenboek is opgenomen in het Informatieprotocol beleidsinformatie jeugdzorg 2011 (zie I.4 van deze Regeling).  
+In het Gegevenswoordenboek staan de gegevens gedefinieerd die op grond van het Besluit geregistreerd moeten worden door de bureaus jeugdzorg en de Raad. Het Gegevenswoordenboek is opgenomen in het Informatieprotocol beleidsinformatie jeugdzorg 2011 (zie I.4 van deze Regeling).  
 
 ### II.4  
 
@@ -82,7 +82,7 @@ De Raad dient zich bij de gegevensverstrekking te houden aan het Rapportageforma
 
 ####Algemene bepalingen
 
-Dit document maakt onderdeel uit van het Informatieprotocol. In dit deel wordt het rapportageformat beschreven zoals die gebruikt wordt in de informatieverstrekking tussen de Raad en de provincies. Het format beschrijft de inhoud van de rapportages in termen van betrokken gegevens, uitsplitsingen, kruisverbanden en dergelijke. De gegevens die in de beschrijvingen worden genoemd, zijn allemaal gedefinieerd in het Gegevenswoordenboek. Alle in dit document voorkomende rapportages vallen binnen het kader van het [Besluit](../../../../../../AMvB/besluit/beleidsinformatie/jeugdzorg/2011/BWBR0030591/README.md).  
+Dit document maakt onderdeel uit van het Informatieprotocol. In dit deel wordt het rapportageformat beschreven zoals die gebruikt wordt in de informatieverstrekking tussen de Raad en de provincies. Het format beschrijft de inhoud van de rapportages in termen van betrokken gegevens, uitsplitsingen, kruisverbanden en dergelijke. De gegevens die in de beschrijvingen worden genoemd, zijn allemaal gedefinieerd in het Gegevenswoordenboek. Alle in dit document voorkomende rapportages vallen binnen het kader van het Besluit.  
 
 ### II.4.b  
 
@@ -108,7 +108,7 @@ Het begrip jeugdige in de tabellen komt in de registratie bij de Raad overeen me
 Tabel 1 Melding bij de Raad vanwege opgroei- en opvoedingsproblematiek 
 
 | Vervolg  | Raad neemt melding in onderzoek  | Raad verwijst (terug) naar een (andere) instantie  | Besluit Raad dat verdere bemoeienis niet nodig is  |--- |--- |--- |--- | Soort melder  | Jeugdigen  | Jeugdigen  | Jeugdigen  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *Bureau jeugdzorg*   | --- | --- | --- |
 |  *AMK*   | --- | --- | --- |
 |  *Ambtshalve melding*   | --- | --- | --- |
@@ -129,7 +129,7 @@ Middels deze tabel wordt duidelijk:
 Datum melding bij de Raad Soort melder Vervolg na melding bij de Raad   Tabel 2 Onderzoek Raad maatregel met betrekking tot het gezag 
 
 | Onderzoek Raad maatregel met betrekking tot het gezag  | Kindzaken  |--- | Aantal  | Gemiddelde doorlooptijd  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | Rekest ondertoezichtstelling  | --- | --- |
 | Rekest ontzetting <sup>1</sup>  | --- | --- |
 | Rekest ontheffing <sup>1</sup>  | --- | --- |
@@ -152,7 +152,7 @@ Gemiddelde duur in kalenderdagen, afgerond op hele dagen
 Voor duur van het onderzoek is het niet mogelijk onderscheid te maken tussen een voorlopige en een gewone ondertoezichtstelling (hierna aangeduid met OTS) en een voorlopige en een gewone voogdij. De doorlooptijden worden berekend op basis van dezelfde aantallen als in tabel 3. Bij de interpretatie van de gemiddelde doorlooptijden per locatie is het van belang dat rekening wordt gehouden met de absolute omvang van de maatregelen. Het kan gaan om dermate lage aantallen waarover een doorlooptijd is berekend, dat het lastig wordt om uitspraken te doen over de gemiddelde doorlooptijd.  Tabel 3 Verzoek Raad aan rechter voor maatregel met betrekking tot het gezag 
 
 | Aard van het verzoek <sup>1</sup>  | Aantal jeugdigen  |
-|:---|:---|
+|---|---|
 | Rekest ondertoezichtstelling  | --- |
 | Rekest ontzetting <sup>1</sup>  | --- |
 | Rekest ontheffing <sup>1</sup>  | --- |
@@ -179,7 +179,7 @@ Aantal jeugdigen
 Het meetmoment betreft het moment van administratieve afronding door de Raad, wat in de tijd iets na het moment kan liggen dat het verzoek aan de rechter wordt gedaan  Tabel 4 Verwijzing Raad na onderzoek opgroei- en opvoedingsproblematiek (zonder maatregel van kinderbescherming) 
 
 |--- | Aantal jeugdigen  |
-|:---|:---|
+|---|---|
 | Verwijzingen Raad  | --- |
 
 ### *Tabelinhoud* 
@@ -202,7 +202,7 @@ Op dit moment betreft dit gegeven alleen de ‘kale’ verwijzing. Waarnaar verw
 ####Overzicht van provincies en locaties van de Raad
 
 | Provincie/GSR  | Vestiging(en)  |
-|:---|:---|
+|---|---|
 | Friesland  | Leeuwarden  |
 | Groningen/Drenthe  | Groningen  |
 | Overijssel  | Almelo  Zwolle  |
@@ -228,19 +228,19 @@ Op dit moment betreft dit gegeven alleen de ‘kale’ verwijzing. Waarnaar verw
 
 ####Inleiding
 
-Het informatieprotocol beleidsinformatie Nidos 2011 (hierna aangeduid met: Informatieprotocol) heeft tot doel helder en eenduidig vast te leggen hoe wordt omgegaan met de vastlegging en verstrekking van gegevens zoals bedoeld in het [Besluit beleidsinformatie jeugdzorg 2011](../../../../../../AMvB/besluit/beleidsinformatie/jeugdzorg/2011/BWBR0030591/README.md) (hierna aangeduid met: Besluit). Daartoe bevat het Informatieprotocol enerzijds een aantal algemene verplichtingen voor de registratie en gegevensuitwisseling tussen NIDOS en het ministerie van Veiligheid en Justitie (Hierna aangeduid met V&J) en anderzijds het Rapportageformat beleidsinformatie Nidos 2011 (hierna aangeduid met: Rapportageformat). Het Gegevenswoordenboek beleidsinformatie jeugdzorg 2011 (hierna aangeduid met: Gegevenswoordenboek) is opgenomen in het Informatieprotocol beleidsinformatie jeugdzorg 2011 (zie bijlage I.4.) en bevat tevens de gegevensdefinities die van belang zijn voor dit Informatieprotocol.  
+Het informatieprotocol beleidsinformatie Nidos 2011 (hierna aangeduid met: Informatieprotocol) heeft tot doel helder en eenduidig vast te leggen hoe wordt omgegaan met de vastlegging en verstrekking van gegevens zoals bedoeld in het Besluit beleidsinformatie jeugdzorg 2011 (hierna aangeduid met: Besluit). Daartoe bevat het Informatieprotocol enerzijds een aantal algemene verplichtingen voor de registratie en gegevensuitwisseling tussen NIDOS en het ministerie van Veiligheid en Justitie (Hierna aangeduid met V&J) en anderzijds het Rapportageformat beleidsinformatie Nidos 2011 (hierna aangeduid met: Rapportageformat). Het Gegevenswoordenboek beleidsinformatie jeugdzorg 2011 (hierna aangeduid met: Gegevenswoordenboek) is opgenomen in het Informatieprotocol beleidsinformatie jeugdzorg 2011 (zie bijlage I.4.) en bevat tevens de gegevensdefinities die van belang zijn voor dit Informatieprotocol.  
 
 ### III.2  
 
 ####Algemene verplichtingen
 
-De hieronder genoemde algemene verplichtingen vloeien voort uit de [Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) en het Besluit. 
+De hieronder genoemde algemene verplichtingen vloeien voort uit de Wet op de jeugdzorg en het Besluit. 
 
 III.2.a. Ten behoeve van de adequate registratie van de gegevens wordt gebruik gemaakt van de definities zoals opgenomen in het Gegevenswoordenboek.  
 
 III.2.b. De stichting Nidos verstrekt de gegevens op de wijze en de tijdstippen, en betrekking hebbend op de tijdvakken, als voorgeschreven in het Rapportageformat.  
 
-III.2.c. Zowel de verstrekkende als de ontvangende partij voldoet aan de regelgeving ten behoeve van de bescherming van privacygevoelige gegevens ([Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md)).  
+III.2.c. Zowel de verstrekkende als de ontvangende partij voldoet aan de regelgeving ten behoeve van de bescherming van privacygevoelige gegevens (Wet bescherming persoonsgegevens).  
 
 III.2.d. Zowel de verstrekkende als de ontvangende partij draagt zorg voor een adequate informatievoorziening waarmee de integriteit, beveiliging, betrouwbaarheid en reproduceerbaarheid van gegevens gewaarborgd is.  
 
@@ -248,7 +248,7 @@ III.2.e. De gegevens worden door Nidos geregistreerd, verwerkt en verstrekt door
 
 III.2.f. De gegevens worden op schrift en elektronisch verstrekt.  
 
-III.2.g. De te leveren gegevens mogen uitsluitend gehanteerd worden voor de in de wet en het [Besluit](../../../../../../AMvB/besluit/beleidsinformatie/jeugdzorg/2011/BWBR0030591/README.md) beschreven doelen. De te leveren gegevens zijn altijd voorzien van een toelichting door de leverende partij.    
+III.2.g. De te leveren gegevens mogen uitsluitend gehanteerd worden voor de in de wet en het Besluit beschreven doelen. De te leveren gegevens zijn altijd voorzien van een toelichting door de leverende partij.    
 
 ### III.3  
 
@@ -317,7 +317,7 @@ Met de rapportages die in dit hoofdstuk aan de orde komen, wil V&J inzicht krijg
 ####Onderverdeling naar leeftijd jeugdige cliënten
 
 | Kenmerken  | bij aanvang OTS (incl. voorlopige OTS)  | Bij aanvang AMA Voogdij  | bij aanvang Overige voogdij  | bij aanvang Voorl. voogdij  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | 0 tot en met 5 jaar  | --- | --- | --- | --- |
 | 6 tot en met 11 jaar  | --- | --- | --- | --- |
 | 12 tot en met 14 jaar  | --- | --- | --- | --- |
@@ -327,7 +327,7 @@ Met de rapportages die in dit hoofdstuk aan de orde komen, wil V&J inzicht krijg
 | Gemiddelde leeftijd  | --- | --- | --- | --- |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Toelichting op de cijfers  | --- |
 
 ### *Tabelinhoud* 
@@ -339,13 +339,13 @@ Instroom per werkstroom, totaal en onderscheiden naar leeftijd jeugdige cliënt.
 ####Onderverdeling naar geslacht jeugdige cliënten
 
 | Kenmerken  | bij aanvang OTS (incl. voorlopige OTS)  | Bij aanvang AMA Voogdij  | bij aanvang Overige voogdij  | bij aanvang Voorl. voogdij  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | Jongen  | --- | --- | --- | --- |
 | Meisje  | --- | --- | --- | --- |
 | Totalen  | --- | --- | --- | --- |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Toelichting op de cijfers  | --- |
 
 ### *Tabelinhoud* 
@@ -357,7 +357,7 @@ Instroom per werkstroom, totaal en onderscheiden naar geslacht jeugdige cliënt.
 ####Onderverdeling naar leefsituatie jeugdige cliënten
 
 | Kenmerken  | bij aanvang OTS  | Bij aanvang AMA Voogdij  | bij aanvang Overige voogdij  | bij aanvang Voorl. voogdij  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | Zelfstandig  | --- | --- | --- | --- |
 | In één-oudergezin  | --- | --- | --- | --- |
 | In twee-oudergezin  | --- | --- | --- | --- |
@@ -374,7 +374,7 @@ Instroom per werkstroom, totaal en onderscheiden naar geslacht jeugdige cliënt.
 | Totalen  | --- | --- | --- | --- |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Toelichting op de cijfers  | --- |
 
 ### *Tabelinhoud* 
@@ -392,7 +392,7 @@ In bovenstaande tabel genoemde mogelijkheden zijn overgenomen uit het Gegevenswo
 ####Onderverdeling jeugdige cliënten naar afkomst
 
 | Kenmerken  | bij aanvang OTS (incl. voorlopige OTS)  | Bij aanvang AMA Voogdij  | bij aanvang Overige voogdij  | bij aanvang Voorl. voogdij  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | Autochtoon  | --- | --- | --- | --- |
 | Allochtoon – doelgroepland  | --- | --- | --- | --- |
 | – Afghanistan  | --- | --- | --- | --- |
@@ -411,7 +411,7 @@ In bovenstaande tabel genoemde mogelijkheden zijn overgenomen uit het Gegevenswo
 | Totalen  | --- | --- | --- | --- |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Toelichting op de cijfers  | --- |
 
 ### *Tabelinhoud* 
@@ -431,7 +431,7 @@ De rapportages bieden inzicht in de hoeveelheid OTS- en (voorlopige) voogdijmaat
 ####Ondertoezichtstelling en voorlopige, AMA en overige voogdij (totalen)
 
 | Maatregel  | OTS (incl. voorlopige OTS)  | AMA voogdij  | Overige voogdij  | Voorlopige voogdij  | Aantal  |--- |--- |--- |--- |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|
 | Aantal jeugdigen begin  | --- | --- | --- | --- |
 | Aantal nieuwe jeugdigen  | --- | --- | --- | --- |
 | Aantal jeugdigen overgedragen van andere instelling  | --- | nvt  | --- | --- |
@@ -441,7 +441,7 @@ De rapportages bieden inzicht in de hoeveelheid OTS- en (voorlopige) voogdijmaat
 | Aantal verlengingen  | --- | nvt  | nvt  | nvt  |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Toelichting op de cijfers  | --- |
 
 ### *Toelichting* 
@@ -459,12 +459,12 @@ Datum aanvang maatregel ondertoezichtstelling, maatregel voogdij of maatregel vo
 ####Duur ondertoezichtstelling en voorlopige, AMA en overige voogdij
 
 | Maatregel  | OTS (incl. voorlopige OTS)  | AMA voogdij  | Overige voogdij  | Voorlopige voogdij  | Aantal  |--- |--- |--- |--- |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|
 | Aantal beëindigingen  | --- | --- | --- | --- |
 | Gemiddelde duur maatregel  | --- | --- | --- | --- |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Toelichting op de cijfers  | --- |
 
 ### *Toelichting* 
@@ -485,7 +485,7 @@ Kalenderdagen.
 ####Reden beëindiging ondertoezichtstelling en voorlopige, AMA en overige voogdij
 
 | Maatregel  | OTS (incl. voorlopige OTS)  | AMA voogdij  | Overige voogdij  | Voorlopige voogdij  | Aantal  |--- |--- |--- |--- |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|
 | Bij beslissing rechter  | --- | --- | --- | --- |
 | Bereiken meerderjarigheid jeugdige  | --- | --- | --- | --- |
 | Niet verlengd  | --- | --- | Nvt  | Nvt  |
@@ -499,7 +499,7 @@ Kalenderdagen.
 | Aantal beëindigingen (totaal)  | --- | --- | --- | --- |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Toelichting op de cijfers  | --- |
 
 ### *Tabelinhoud* 
@@ -517,12 +517,12 @@ Reden beëindiging: ‘bij beslissing rechter’ en ‘niet verlengd’ zijn bew
 ####Machtiging tot uithuisplaatsing Ondertoezichtstelling (inclusief Voorlopig)
 
 | Machtiging  | Aantal Machtigingen  | Gemiddelde duur machtiging  |
-|:---|:---|:---|
+|---|---|---|
 | N.a.v. indicatiebesluit  | --- | --- |
 | Zonder indicatiebesluit  | --- | --- |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Toelichting op de cijfers  | --- |
 
 ### *Tabelinhoud* 
@@ -540,12 +540,12 @@ Kalenderdagen.
 ####Doorlooptijd van uitspraak tot in kennisstelling
 
 | Maatregel  | OTS (incl. voorlopige OTS)  | AMA voogdij  | Overige voogdij  | Voorlopige voogdij  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | Aantal jeugdigen voor wie bureau jeugdzorg een in kennisstelling heeft gedaan  | --- | --- | --- | --- |
 | Gemiddelde doorlooptijd  | --- | --- | --- | --- |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Toelichting op de cijfers  | --- |
 
 ### *Tabelinhoud* 
@@ -566,13 +566,13 @@ Werkdagen.
 ####Doorlooptijd van uitspraak tot mededeling Nidos aan jeugdige
 
 | Maatregel  | OTS (incl. voorlopige OTS)  | AMA voogdij  | Overige voogdij  | Voorlopige voogdij  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | Aantal jeugdigen aan wie mededeling is gedaan  | --- | --- | --- | --- |
 | Gemiddelde doorlooptijd  | --- | --- | --- | --- |
 | Aantal buiten norm  | --- | --- | --- | --- |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Toelichting op de cijfers  | --- |
 
 ### *Toelichting* 
@@ -596,13 +596,13 @@ Werkdagen.
 ####Doorlooptijd van uitspraak tot vaststelling plan
 
 | Maatregel  | OTS (incl. voorlopige OTS)  | AMA voogdij  | Overige voogdij  | Voorlopige voogdij  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | Aantal jeugdigen voor wie plan is vastgesteld  | --- | --- | --- | --- |
 | Gemiddelde doorlooptijd  | --- | --- | --- | --- |
 | Aantal jeugdigen buiten de norm  | --- | --- | --- | --- |
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Toelichting op de cijfers  | --- |
 
 ### *Tabelinhoud* 
@@ -623,7 +623,7 @@ Werkdagen.
 ####Verblijfplaatsen Ondertoezichtstelling en voorlopige, AMA en overige voogdij
 
 | Aantal  | Aantal jeugdigen begin  | Aantal nieuwe jeugdigen  | Aantal jeugdigen overgedragen van ander opvang type  | Aantal jeugdigen overgedragen naar andere opvang type  | Aantal beëindigingen  | Aantal jeugdigen eind  | Maatregel  |--- |--- |--- |--- |--- |--- |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  *OTS (incl. voorlopige OTS)*   | --- |
 | KWG  | --- | --- | --- | --- | --- | --- |
 | KWE < 15  | --- | --- | --- | --- | --- | --- |
@@ -680,7 +680,7 @@ In bovenstaande tabel gaat het om de verblijfplaats van de jeugdige en dus zijn 
 Onderstaande tabel geeft de classificatie weer van indeling bij de categorie allochtoon dan wel autochtoon. Op grond van de combinatie van geboorteland jongere, geboorteland moeder en geboorteland vader (kolommen 2, 3 en 4) vindt een toedeling plaats naar het land in kolom 5.  
 
 |--- | Geboorteland jongere  | Geboorteland moeder  | Geboorteland vader  | Bepalend land voor classificatie jongere  | Allochtoon/autochtoon  |
-|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|
 | 1.  | Nederland  | Nederland  | Nederland  | Nederland  | Autochtoon  |
 | 2.  | Nederland  | Nederland  | Buitenland  | Geboorteland vader  | Allochtoon  |
 | 3.  | Nederland  | Nederland  | Onbekend  | Nederland  | Autochtoon  |

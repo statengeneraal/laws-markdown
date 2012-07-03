@@ -3,14 +3,14 @@
 ##Regeling van de Minister van Justitie van 12 januari 2005, nr. 5328243/04/DJJ, houdende aanwijzing van gevallen waarin de raad voor de kinderbescherming de stichting kan inschakelen voor vrijwillige begeleiding van een jeugdige (Regeling vrijwillige begeleiding jeugdreclassering)
 
 De Minister van Justitie,  
-Gelet op [artikel 77hh, tweede lid, van het Wetboek van Strafrecht;](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)
+Gelet op artikel 77hh, tweede lid, van het Wetboek van Strafrecht;
 Besluit:    
 
 ### Artikel  1  
 
 Voor de toepassing van deze regeling wordt verstaan onder: 
 
-a. stichting: de stichting, bedoeld in [artikel 1 onder f, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+a. stichting: de stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg;  
 
 b. langdurige detentie: strafduur van meer dan zes maanden;  
 
