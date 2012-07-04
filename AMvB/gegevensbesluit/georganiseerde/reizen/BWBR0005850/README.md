@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In de algemeen verkrijgbare prospectus of andere publikatie, bedoeld in [artikel 501 van Titel 7A van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), vermeldt de reisorganisator de volgende gegevens: 
+In de algemeen verkrijgbare prospectus of andere publikatie, bedoeld in [artikel 501 van Titel 7A van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), vermeldt de reisorganisator de volgende gegevens:  
 
 a. zijn naam, adres en telefoonnummer;  
 
@@ -25,19 +25,19 @@ c. de relevante algemene informatie over de vereiste reisdocumenten en over de f
 
 d. informatie over de mogelijkheid van een annuleringsverzekering;  
 
-e. de termijn waarbinnen de reiziger de reisorganisatie ervan in kennis moet stellen dat de reis niet aan zijn verwachtingen voldoet.    
+e. de termijn waarbinnen de reiziger de reisorganisatie ervan in kennis moet stellen dat de reis niet aan zijn verwachtingen voldoet.   
 
 ### Artikel  2  
 
-Voor zover van toepassing vermeldt de reisorganisator in de algemeen verkrijgbare prospectus of andere publikatie tevens: 
+Voor zover van toepassing vermeldt de reisorganisator in de algemeen verkrijgbare prospectus of andere publikatie tevens:  
 
-a. ten aanzien van het vervoer: 
+a. ten aanzien van het vervoer:  
 
 1°. een aanduiding van de te gebruiken vervoermiddelen, de kenmerken en eventueel de categorie daarvan;  
 
 2°. een aanduiding van de plaatsen van vertrek en aankomst en een zo nauwkeurig mogelijke tijdsaanduiding daarvan;    
 
-b. ten aanzien van het verblijf: 
+b. ten aanzien van het verblijf:  
 
 1°. een aanduiding van de plaats of plaatsen van verblijf;  
 
@@ -49,19 +49,19 @@ b. ten aanzien van het verblijf:
 
 c. de andere toeristische diensten die een significant deel van de reis uitmaken;  
 
-d. dat er een minimaal aantal personen voor de reis vereist is en dat het aantal daarvan in de overeenkomst zal worden opgenomen, evenals de uiterste datum waarop de reiziger in kennis wordt gesteld van de annulering van de reis wegens ontbreken van dat aantal.    
+d. dat er een minimaal aantal personen voor de reis vereist is en dat het aantal daarvan in de overeenkomst zal worden opgenomen, evenals de uiterste datum waarop de reiziger in kennis wordt gesteld van de annulering van de reis wegens ontbreken van dat aantal.   
 
 ### Artikel  3  
 
-Voor de aanvang van de reis verstrekt de reisorganisator de reiziger de volgende gegevens: 
+Voor de aanvang van de reis verstrekt de reisorganisator de reiziger de volgende gegevens:  
 
 a. de naam, het adres en het telefoonnummer van de plaatselijke vertegenwoordiger van de reisorganisator of, bij ontbreken daarvan, van de plaatselijke instantie of instanties die de reiziger kunnen helpen of, bij ontbreken ook daarvan, een telefoonnummer voor noodgevallen of andere informatie waardoor hij in contact kan treden met de reisorganisator;  
 
-b. informatie over de mogelijkheid van een reisverzekering.    
+b. informatie over de mogelijkheid van een reisverzekering.   
 
 ### Artikel  4  
 
-Voor zover van toepassing verstrekt de reisorganisator voor de aanvang van de reis tevens de volgende gegevens: 
+Voor zover van toepassing verstrekt de reisorganisator voor de aanvang van de reis tevens de volgende gegevens:  
 
 a. informatie over de dienstregelingen van het vervoer, de tussenstops en de aansluitende verbindingen;  
 
@@ -69,15 +69,15 @@ b. informatie over de door de reiziger in het vervoermiddel in te nemen plaats;
 
 c. een beschrijving van de route naar de plaats of plaatsen van verblijf;  
 
-d. informatie over de mogelijkheid van rechtstreeks contact met een minderjarige reiziger in het buitenland indien deze niet wordt begeleid door een meerderjarige reiziger, of met de persoon die ter plaatse voor het verblijf van die minderjarige verantwoordelijk is.    
+d. informatie over de mogelijkheid van rechtstreeks contact met een minderjarige reiziger in het buitenland indien deze niet wordt begeleid door een meerderjarige reiziger, of met de persoon die ter plaatse voor het verblijf van die minderjarige verantwoordelijk is.   
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst. 
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: Gegevensbesluit georganiseerde reizen.  
+Dit besluit wordt aangehaald als: Gegevensbesluit georganiseerde reizen. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

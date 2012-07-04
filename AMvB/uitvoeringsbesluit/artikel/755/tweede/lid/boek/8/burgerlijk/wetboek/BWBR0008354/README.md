@@ -15,17 +15,17 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Het bedrag waartoe de aansprakelijkheid uit hoofde van titel 7 van Boek 8 van het Burgerlijk Wetboek voor de in het eerste lid van artikel 755, aanhef en onder *b*, bedoelde vorderingen kan worden beperkt, bedraagt voor schepen, die blijkens hun constructie uitsluitend of in hoofdzaak zijn bestemd tot het vervoer van personen en waarvan de tonnage niet groter is dan 300, 100.000 rekeneenheden.  
+Het bedrag waartoe de aansprakelijkheid uit hoofde van titel 7 van Boek 8 van het Burgerlijk Wetboek voor de in het eerste lid van artikel 755, aanhef en onder *b*, bedoelde vorderingen kan worden beperkt, bedraagt voor schepen, die blijkens hun constructie uitsluitend of in hoofdzaak zijn bestemd tot het vervoer van personen en waarvan de tonnage niet groter is dan 300, 100.000 rekeneenheden. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking tegelijk met de wet van 31 oktober 1996, *Stb*. 548.  
+Dit besluit treedt in werking tegelijk met de wet van 31 oktober 1996, *Stb*. 548. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 
 's-Gravenhage 
 27 november 1996  
-Beatrix  
+Beatrix   
 
 De Minister van Justitie, 
 W. Sorgdrager   
@@ -33,4 +33,4 @@ W. Sorgdrager
 de tiende december 1996 
 
 De Minister van Justitie, 
-W. Sorgdrager    
+W. Sorgdrager     

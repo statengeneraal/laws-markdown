@@ -3,28 +3,28 @@
 ##Rechtspositieregeling voorzitter RWI
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op artikel 16, zevende lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen;
+Gelet op [artikel 16, zevende lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);
 Besluit:    
 
 ### Artikel  5  
 
 ####Arbeidsongeschiktheid
 
-In geval van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte, gebreken, zwangerschap of bevalling zijn de bepalingen ten aanzien van doorbetaling van de bezoldiging van het Algemeen Rijksambtenarenreglement, alsmede de suppletieregeling gedeeltelijke arbeidsongeschiktheid van de sector rijk, van overeenkomstige toepassing.  
+In geval van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte, gebreken, zwangerschap of bevalling zijn de bepalingen ten aanzien van doorbetaling van de bezoldiging van het [Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), alsmede de suppletieregeling gedeeltelijke arbeidsongeschiktheid van de sector rijk, van overeenkomstige toepassing. 
 
 ### Artikel  6  
 
 ####Ontslag en niet-herbenoeming
 
-1.  In geval van niet herbenoeming dan wel tussentijds ontslag, anders dan op eigen verzoek en anders dan ten gevolge van eigen schuld of toedoen, heeft de voorzitter in aanvulling op de reguliere aanspraak op een uitkering krachtens de Werkloosheidswet aanspraak op een bovenwettelijke uitkering.   
-2.  De hoogte en duur van deze uitkering worden vastgesteld overeenkomstig de bepalingen van het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk.   
-3.  De kosten van de uitvoering van dit artikel komen ten laste van het Rijk.   
+1.  In geval van niet herbenoeming dan wel tussentijds ontslag, anders dan op eigen verzoek en anders dan ten gevolge van eigen schuld of toedoen, heeft de voorzitter in aanvulling op de reguliere aanspraak op een uitkering krachtens de [Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md) aanspraak op een bovenwettelijke uitkering.   
+2.  De hoogte en duur van deze uitkering worden vastgesteld overeenkomstig de bepalingen van het [Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Rijk](../../../../../AMvB/besluit/bovenwettelijke/uitkeringen/bij/werkloosheid/voor/de/sector/rijk/BWBR0008114/README.md).  
+3.   De kosten van de uitvoering van dit artikel komen ten laste van het Rijk. 
 
 ### Artikel  10  
 
 ####Grondslag
 
-Deze regeling berust op artikel 83v van de Wet structuur uitvoeringsorganisatie werk en inkomen.  
+Deze regeling berust op [artikel 83v van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md). 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
@@ -32,4 +32,4 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister van Sociale Zaken en Werkgelegenheid, 
-W.A.Vermeend    
+W.A. Vermeend      

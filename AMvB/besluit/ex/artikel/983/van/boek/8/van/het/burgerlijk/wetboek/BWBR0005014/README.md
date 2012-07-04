@@ -16,16 +16,16 @@ Hebben goedgevonden en verstaan:
 ### Artikel  1  
 
 1.  De schadevergoeding, die de vervoerder mogelijkerwijs is verschuldigd uit hoofde van [artikel 974 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) is beperkt tot een bedrag van € 137 000 per reiziger.   
-2.  In het geval dat de schadeloosstelling wordt bepaald in de vorm van een rente mag het gekapitaliseerde bedrag een bedrag van € 137 000 per reiziger niet te boven gaan.   
+2.   In het geval dat de schadeloosstelling wordt bepaald in de vorm van een rente mag het gekapitaliseerde bedrag een bedrag van € 137 000 per reiziger niet te boven gaan.  
 
 ### Artikel  2  
 
 1.  De schadevergoeding, die de vervoerder mogelijkerwijs is verschuldigd in geval van vertraging van een reiziger en verlies, beschadiging of vertraging van diens bagage, is beperkt tot een bedrag van € 1 000.   
-2.  De schadevergoeding die de vervoerder mogelijkerwijs verschuldigd is in geval van een als bagage ten vervoer aangenomen voertuig of schip en de zaken aan boord daarvan is beperkt tot een bedrag van € 9 100per voertuig of schip.   
+2.   De schadevergoeding die de vervoerder mogelijkerwijs verschuldigd is in geval van een als bagage ten vervoer aangenomen voertuig of schip en de zaken aan boord daarvan is beperkt tot een bedrag van € 9 100per voertuig of schip.  
 
 ### Artikel  3  
 
-Dit besluit treedt in werking op het tijdstip, waarop Boek 8 van het Burgerlijk Wetboek in werking treedt.  
+Dit besluit treedt in werking op het tijdstip, waarop Boek 8 van het Burgerlijk Wetboek in werking treedt. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

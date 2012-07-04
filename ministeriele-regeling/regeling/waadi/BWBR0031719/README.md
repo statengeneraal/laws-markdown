@@ -12,11 +12,11 @@ Besluit:
 
 Voor de toepassing van deze regeling wordt verstaan onder: 
 
-*wet:* de [Wet allocatie arbeidskrachten door intermediairs](../../../../wet/wet/allocatie/arbeidskrachten/door/intermediairs/BWBR0009616/README.md).    
+*wet:* de [Wet allocatie arbeidskrachten door intermediairs](../../../../wet/wet/allocatie/arbeidskrachten/door/intermediairs/BWBR0009616/README.md).   
 
 ### Artikel  2  
 
-De Stichting Normering Arbeid wordt aangewezen als bewerker in de zin van [artikel 14b, vierde lid, van de wet](../../../../wet/wet/allocatie/arbeidskrachten/door/intermediairs/BWBR0009616/README.md).  
+De Stichting Normering Arbeid wordt aangewezen als bewerker in de zin van [artikel 14b, vierde lid, van de wet](../../../../wet/wet/allocatie/arbeidskrachten/door/intermediairs/BWBR0009616/README.md). 
 
 ### Artikel  3  
 
@@ -34,20 +34,20 @@ e. aanleiding onderzoek;
 
 f. bevindingen;  
 
-g. reactie onderneming die overtreding heeft begaan.    
+g. reactie onderneming die overtreding heeft begaan.   
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang van 1 juli 2012.  
+Deze regeling treedt in werking met ingang van 1 juli 2012. 
 
 ### Artikel  5  
 
-Deze regeling wordt aangehaald als: Regeling Waadi.  
+Deze regeling wordt aangehaald als: Regeling Waadi. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 21 juni 2012   
 
 De 
-Minister van Sociale Zaken en Werkgelegenheid,
-H.G.J.Kamp   
+Minister van Sociale Zaken en Werkgelegenheid, 
+H.G.J. Kamp     

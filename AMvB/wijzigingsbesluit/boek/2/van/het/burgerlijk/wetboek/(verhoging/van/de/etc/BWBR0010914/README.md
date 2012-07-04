@@ -17,11 +17,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Wijzigt boek 2 van het Burgerlijk Wetboek.   
+Wijzigt boek 2 van het Burgerlijk Wetboek.  
 
 ### Artikel  2  
 
-Wijzigt boek 2 van het Burgerlijk Wetboek.   
+Wijzigt boek 2 van het Burgerlijk Wetboek.  
 
 ### Artikel  3  
 
@@ -29,13 +29,13 @@ De bepalingen van dit besluit zijn voor het eerst van toepassing op de jaarreken
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 1 december 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Justitie, 
 A. H. Korthals   
@@ -43,4 +43,4 @@ A. H. Korthals
 de *veertiende* december 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

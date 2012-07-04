@@ -8,19 +8,19 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Warenwetregeling aanwijzing en werkwijze toezichthouders COKZ en CPE.   
+Wijzigt de Warenwetregeling aanwijzing en werkwijze toezichthouders COKZ en CPE. 
 
 ### Artikel  II  
 
-Wijzigt de Warenwetregeling procedures registratie en erkenning van levensmiddelenbedrijven.   
+Wijzigt de Warenwetregeling procedures registratie en erkenning van levensmiddelenbedrijven. 
 
 ### Artikel  III  
 
-Wijzigt de Warenwetregeling taakverdeling toezichthouders Warenwet voor levensmiddelen.   
+Wijzigt de Warenwetregeling taakverdeling toezichthouders Warenwet voor levensmiddelen. 
 
 ### Artikel  IV  
 
-Wijzigt de Regeling mandaat aan IG-NVWA inzake het verlenen, schorsen en intrekken van bepaalde erkenningen.   
+Wijzigt de Regeling mandaat aan IG-NVWA inzake het verlenen, schorsen en intrekken van bepaalde erkenningen. 
 
 ### Artikel  V  
 
@@ -32,9 +32,9 @@ b. [artikel 3 van de Regeling mandaat aan IG-VWA inzake het verlenen, schorsen e
 
 ### Artikel  VI  
 
-Deze regeling treedt in werking met ingang van 1 juli 2012.  
+Deze regeling treedt in werking met ingang van 1 juli 2012. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-E.I.Schippers   
+Minister van Volksgezondheid, Welzijn en Sport, 
+E.I. Schippers     

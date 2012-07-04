@@ -1,16 +1,16 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van 11 maart 1991, ter uitvoering van artikel 1105 van Boek 8 van het Burgerlijk Wetboek
+##Besluit van 11 maart 1991, ter uitvoering van artikel 1105 van Boek 8 van het Burgerlijk Wetboek 
 
-Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.
+Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz. 
 
-Op de voordracht van Onze Minister van Justitie van 18 juli 1990, Stafafdeling Wetgeving Nieuw Burgerlijk Wetboek nr. 24355/690;
+Op de voordracht van Onze Minister van Justitie van 18 juli 1990, Stafafdeling Wetgeving Nieuw Burgerlijk Wetboek nr. 24355/690; 
 
-Gelet op [artikel 1105 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md);
+Gelet op [artikel 1105 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md); 
 
-De Raad van State gehoord (advies van 27 augustus 1990, nr. W03.90.0337);
+De Raad van State gehoord (advies van 27 augustus 1990, nr. W03.90.0337); 
 
-Gezien het nader rapport van Onze Minister van Justitie van 28 februari 1991, Stafafdeling Wetgeving Nieuw Burgerlijk Wetboek, nr. 46946/91/6;
+Gezien het nader rapport van Onze Minister van Justitie van 28 februari 1991, Stafafdeling Wetgeving Nieuw Burgerlijk Wetboek, nr. 46946/91/6; 
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  
@@ -23,15 +23,15 @@ Het aantal kilogrammen waarvan ter berekening van het in artikel 1 genoemde bedr
 
 ### Artikel  3  
 
-1.  Indien de verpakking van de zaak door of vanwege de vervoerder ter beschikking is gesteld of de zaken onverpakt ten vervoer ter beschikking zijn gesteld en onverschillig of de verpakking al dan niet verloren is gegaan of beschadigd is, wordt uitgegaan van het aantal kilogrammen dat de zaak zonder haar verpakking woog.   
-2.  Indien de verpakking van de zaak niet door of vanwege de vervoerder ter beschikking is gesteld en zij blijkens haar aard bestemd is voor meer dan één vervoer te worden gebezigd, wordt, in geval: 
+1.  Indien de verpakking van de zaak door of vanwege de vervoerder ter beschikking is gesteld of de zaken onverpakt ten vervoer ter beschikking zijn gesteld en onverschillig of de verpakking al dan niet verloren is gegaan of beschadigd is, wordt uitgegaan van het aantal kilogrammen dat de zaak zonder haar verpakking woog.    
+2.   Indien de verpakking van de zaak niet door of vanwege de vervoerder ter beschikking is gesteld en zij blijkens haar aard bestemd is voor meer dan één vervoer te worden gebezigd, wordt, in geval:  
 
-a. de schadevergoeding uitsluitend de zaak betreft, uitgegaan van het aantal kilogrammen dat de zaak zonder haar verpakking woog;  
+a. de schadevergoeding uitsluitend de zaak betreft, uitgegaan van het aantal kilogrammen dat de zaak zonder haar verpakking woog;   
 
-b. de schadevergoeding uitsluitend verpakking betreft, uitgegaan van het aantal kilogrammen dat de verpakking woog;  
+b. de schadevergoeding uitsluitend verpakking betreft, uitgegaan van het aantal kilogrammen dat de verpakking woog;   
 
-c. de schadevergoeding zowel de zaak als de verpakking betreft,   (i). voor de berekening van het bedrag waartoe de aansprakelijkheid van de vervoerder ten aanzien van de zaak is beperkt, uitsluitend uitgegaan van het aantal kilogrammen dat de zaak zonder haar verpakking woog en (ii). voor de berekening van het bedrag waartoe de aansprakelijkheid van de vervoerder ten aanzien van de verpakking is beperkt, uitsluitend aangegaan van het aantal kilogrammen dat de verpakking zonder de zaak woog.   
-3.  Indien de verpakking van de zaak niet door of vanwege de vervoerder ter beschikking is gesteld en zij blijkens haar aard niet bestemd is voor meer dan één vervoer te worden gebezigd, wordt uitgegaan van het aantal kilogrammen dat de verpakking en de zaak te zamen wogen.   
+c. de schadevergoeding zowel de zaak als de verpakking betreft,    (i). voor de berekening van het bedrag waartoe de aansprakelijkheid van de vervoerder ten aanzien van de zaak is beperkt, uitsluitend uitgegaan van het aantal kilogrammen dat de zaak zonder haar verpakking woog en  (ii). voor de berekening van het bedrag waartoe de aansprakelijkheid van de vervoerder ten aanzien van de verpakking is beperkt, uitsluitend aangegaan van het aantal kilogrammen dat de verpakking zonder de zaak woog.    
+3.   Indien de verpakking van de zaak niet door of vanwege de vervoerder ter beschikking is gesteld en zij blijkens haar aard niet bestemd is voor meer dan één vervoer te worden gebezigd, wordt uitgegaan van het aantal kilogrammen dat de verpakking en de zaak te zamen wogen.   
 
 ### Artikel  4  
 
@@ -49,16 +49,16 @@ Het besluit van 15 juli 1983, *Stb.* 351 wordt ingetrokken.
 
 Dit besluit treedt in werking op het tijdstip, waarop Boek 8 van het Burgerlijk Wetboek in werking treedt.  
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.    
 
-'s-Gravenhage 
-11 maart 1991  
-Beatrix  
+'s-Gravenhage  
+11 maart 1991   
+Beatrix   
 
-De Minister van Justitie, 
-E. M. H. Hirsch Ballin   
-
-de eenentwintigste maart 1991 
-
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    
+
+de eenentwintigste maart 1991  
+
+De Minister van Justitie,  
+E. M. H. Hirsch Ballin     

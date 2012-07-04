@@ -19,20 +19,20 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De bedragen, genoemd in [artikel 396 lid 1 onder *a* en *b* van boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) worden verhoogd tot onderscheidenlijk f 5 miljoen en f 10 miljoen.  
+De bedragen, genoemd in [artikel 396 lid 1 onder *a* en *b* van boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) worden verhoogd tot onderscheidenlijk f 5 miljoen en f 10 miljoen. 
 
 ### Artikel  2  
 
-De bedragen genoemd in [artikel 397 lid 1 onder *a* en *b* van boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) worden verhoogd tot onderscheidenlijk f 20 miljoen en f 40 miljoen.  
+De bedragen genoemd in [artikel 397 lid 1 onder *a* en *b* van boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) worden verhoogd tot onderscheidenlijk f 20 miljoen en f 40 miljoen. 
 
 ### Artikel  3  
 
-De bepalingen van dit besluit zijn voor het eerst van toepassing op de jaarrekening, het jaarverslag en de daaraan toe te voegen overige gegevens over het boekjaar dat aanvangt op of na 1 januari 1991.  
+De bepalingen van dit besluit zijn voor het eerst van toepassing op de jaarrekening, het jaarverslag en de daaraan toe te voegen overige gegevens over het boekjaar dat aanvangt op of na 1 januari 1991. 
 
 ### Artikel  4  
 
 1.  Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.   
-2.  Met ingang van de in het eerste lid genoemde datum vervalt het besluit van 24 mei 1985, *Stb.* 1985, 284.   
+2.   Met ingang van de in het eerste lid genoemde datum vervalt het besluit van 24 mei 1985, *Stb.* 1985, 284.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

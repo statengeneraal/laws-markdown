@@ -11,33 +11,33 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ### Artikel  I  
 
-Wijzigt de Wet allocatie arbeidskrachten door intermediairs.   
+Wijzigt de Wet allocatie arbeidskrachten door intermediairs. 
 
 ### Artikel  II  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten. 
 
 ### Artikel  III  
 
-De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  IV  
 
-Deze wet wordt aangehaald als: Wet registratieplicht intermediairs die arbeidskrachten ter beschikking stellen.  
+Deze wet wordt aangehaald als: Wet registratieplicht intermediairs die arbeidskrachten ter beschikking stellen. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren die zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 7 juni 2012  
 Beatrix  
 
-De Minister van Sociale Zaken en Werkgelegenheid, 
+De Minister van Sociale Zaken en Werkgelegenheid,  
 H. G. J. Kamp   
 
-De Staatssecretaris van Financiën, 
+De Staatssecretaris van Financiën,  
 F. H. H. Weekers   
 
 de *negentiende* juni 2012 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

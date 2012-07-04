@@ -16,15 +16,15 @@ Hebben goedgevonden en verstaan:
 ### Artikel  1  
 
 1.  De mededeling bedoeld in [artikel 249 lid 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), en de kennisgeving bedoeld in [artikel 252 van dat boek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) geschieden schriftelijk.   
-2.  In elk geval zijn voldoende: 
+2.   In elk geval zijn voldoende:  
 
 a. een gewone of aangetekende brief;  
 
-b. een telegram, telex of telefax.     
+b. een telegram, telex of telefax.    
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van 1 januari 1992.  
+Dit besluit treedt in werking met ingang van 1 januari 1992. 
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

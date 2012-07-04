@@ -11,11 +11,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-De bedragen, bedoeld in de [artikelen 63b lid 2 onder a](../../../../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [153 lid 2 onder a](../../../../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [263 lid 2 onder a van boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), worden elk verhoogd tot en omgezet in 13 000 000 euro.  
+De bedragen, bedoeld in de [artikelen 63b lid 2 onder a](../../../../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [153 lid 2 onder a](../../../../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [263 lid 2 onder a van boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), worden elk verhoogd tot en omgezet in 13 000 000 euro. 
 
 ### Artikel  II  
 
-Dit besluit treedt in werking met ingang van 1 september 2000.  
+Dit besluit treedt in werking met ingang van 1 september 2000. 
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -29,4 +29,4 @@ A. H. Korthals
 de dertiende juli 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

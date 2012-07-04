@@ -34,25 +34,25 @@ Met het oog op de eerbiediging van de persoonlijke levenssfeer zijn de inventari
 
 ### Artikel  2  
 
-Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in artikel 1, is, tot openbaarwording, slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.  
+Raadpleging of gebruik van de archiefbescheiden geborgen onder de inventarisnummers genoemd in artikel 1, is, tot openbaarwording, slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden. 
 
 ### Artikel  3  
 
-Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in artikel 1, is, tot openbaarwording, slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden.  
+Het vervaardigen van reproducties van documenten geborgen onder de inventarisnummers genoemd in artikel 1, is, tot openbaarwording, slechts mogelijk na voorafgaande schriftelijke toestemming van de directeur van het Nationaal Archief. De directeur van het Nationaal Archief kan aan zijn toestemming voorwaarden verbinden. 
 
 ### Artikel  4  
 
-Het [besluit van 21-09-2011](../../../../../../../../ministeriele-regeling/besluit/beperking/openbaarheid/archiefbescheiden/collectie/bureau/etc/BWBR0030488/README.md), CDC/IVENT/DCDI/SSA nr. 2011013757 komt hiermee te vervallen.  
+Het [besluit van 21-09-2011](../../../../../../../../ministeriele-regeling/besluit/beperking/openbaarheid/archiefbescheiden/collectie/bureau/etc/BWBR0030488/README.md), CDC/IVENT/DCDI/SSA nr. 2011013757 komt hiermee te vervallen. 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit wordt als bijlage gevoegd bij de ‘Verklaring van Overbrenging van de collectie Ordedienst/ Binnenlandse Strijdkrachten, het Militair Gezag en andere organisaties, (1934) 1940–1947 (2003)’.   
 
 Den Haag 
 21 mei 2012   
 
 De 
-Minister van Defensie,voor deze:
-secretaris-generaal,
-A.H.C.Annink   
+Minister van Defensie, voor deze: 
+secretaris-generaal, 
+A.H.C. Annink     

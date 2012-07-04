@@ -16,11 +16,11 @@ Hebben goedgevonden en verstaan:
 ### Artikel  1  
 
 1.  Het in [artikel 978, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) bedoelde recht op premievrije voortzetting tegen verminderde bedragen kan in de overeenkomst worden uitgesloten indien de hoogte van de verminderde uitkering lager is dan € 5.000 op het tijdstip van omzetting.   
-2.  Het eerste lid is niet van toepassing op verzekeringen die periodiek tot uitkering komen.   
+2.  Het eerste lid is niet van toepassing op verzekeringen die periodiek tot uitkering komen.  
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -28,10 +28,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 22 mei 2008  
 Beatrix  
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin   
 
 de *derde* juni 2008 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    

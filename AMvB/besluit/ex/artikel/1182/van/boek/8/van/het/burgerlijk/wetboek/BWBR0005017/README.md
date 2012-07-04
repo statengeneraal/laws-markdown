@@ -16,19 +16,19 @@ Hebben goedgevonden en verstaan:
 ### Artikel  1  
 
 1.  De schadevergoeding die de verhuizer op grond van een door hem aangegane verhuisovereenkomst mogelijkerwijs is verschuldigd wegens het niet nakomen van de op hem uit hoofde van de [artikelen 1173](../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) en [1174](../../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) rustende verplichtingen, is beperkt tot een bedrag van € 23 000.   
-2.  Indien de verhuizer in één en dezelfde overeenkomst op zich neemt meer dan één inboedel te verhuizen is zijn in het eerste lid bedoelde aansprakelijkheid beperkt tot een bedrag van € 23 000 per inboedel.   
+2.   Indien de verhuizer in één en dezelfde overeenkomst op zich neemt meer dan één inboedel te verhuizen is zijn in het eerste lid bedoelde aansprakelijkheid beperkt tot een bedrag van € 23 000 per inboedel.  
 
 ### Artikel  2  
 
-Een bedrag van € 23 van de geleden schade blijft voor risico van de opdrachtgever.  
+Een bedrag van € 23 van de geleden schade blijft voor risico van de opdrachtgever. 
 
 ### Artikel  3  
 
-Het besluit van 15 juli 1983, *Stb.* 353 wordt ingetrokken.  
+Het besluit van 15 juli 1983, *Stb.* 353 wordt ingetrokken. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking op het tijdstip waarop Boek 8 van het Burgerlijk Wetboek in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop Boek 8 van het Burgerlijk Wetboek in werking treedt. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

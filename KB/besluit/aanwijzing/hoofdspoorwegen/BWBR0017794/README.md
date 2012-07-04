@@ -7,50 +7,50 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 14 december 2004, nr. HDJZ/S&W/2004-3064, Hoofddirectie Juridische Zaken;
 
 Gelet op de [artikelen 2, eerste lid](../../../../../wet/spoorwegwet/BWBR0015007/README.md), en [124 van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) en de [artikelen 1, eerste lid](../../../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md), en [2, eerste lid, van de wet van 9 juli 1900, houdende nadere regeling van den dienst en het gebruik van spoorwegen, waarop uitsluitend met beperkte snelheid wordt vervoerd](../../../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) (Stb. 118);
-Hebben goedgevonden en verstaan:    
+Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Als hoofdspoorweg worden aangewezen de spoorwegen, genoemd in de bij dit besluit behorende bijlage 1.   
-2.  Als hoofdspoorwegen worden tevens aangewezen de in onderdeel a van bijlage 2 bij dit besluit genoemde spoorwegen en de berijdbare delen van de spoorwegen gelegen op de in onderdeel b van die bijlage genoemde locaties. Deze spoorwegen vallen onder het toepassingsbereik van [artikel 20, vierde lid, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md).   
+1. Als hoofdspoorweg worden aangewezen de spoorwegen, genoemd in de bij dit besluit behorende bijlage 1.  
+2.  Als hoofdspoorwegen worden tevens aangewezen de in onderdeel a van bijlage 2 bij dit besluit genoemde spoorwegen en de berijdbare delen van de spoorwegen gelegen op de in onderdeel b van die bijlage genoemde locaties. Deze spoorwegen vallen onder het toepassingsbereik van [artikel 20, vierde lid, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md). 
 
-### Artikel  2  
+###Artikel 2 
 
-De volgende beschikkingen tot aanwijzing als locaalspoorweg als bedoeld in [artikel 1, eerste lid, van de wet van 9 juli 1900, houdende nadere regeling van den dienst en het gebruik van spoorwegen, waarop uitsluitend met beperkte snelheid wordt vervoerd](../../../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) (Stb. 118), worden ingetrokken: 
+De volgende beschikkingen tot aanwijzing als locaalspoorweg als bedoeld in [artikel 1, eerste lid, van de wet van 9 juli 1900, houdende nadere regeling van den dienst en het gebruik van spoorwegen, waarop uitsluitend met beperkte snelheid wordt vervoerd](../../../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) (Stb. 118), worden ingetrokken:
 
-a. beschikking van 24 november 1958, nr. V-1/0116890;  
+a.beschikking van 24 november 1958, nr. V-1/0116890;
 
-b. beschikking van 28 december 1959, nr. V-1/0133031;  
+b.beschikking van 28 december 1959, nr. V-1/0133031;
 
-c. beschikking van 15 juni 1993, nr. S-31318, 's-Heer Arendskerke – Sloehaven;  
+c.beschikking van 15 juni 1993, nr. S-31318, 's-Heer Arendskerke – Sloehaven;
 
-d. beschikking van 16 december 1993, nr. S-31975, Weert – Budel Grens.    
+d.beschikking van 16 december 1993, nr. S-31975, Weert – Budel Grens.
 
-### Artikel  3  
+###Artikel 3 
 
-De Concessie uitoefening dienst havenspoorweg Rotterdam Linker Maasoever 1979 wordt ingetrokken.  
+De Concessie uitoefening dienst havenspoorweg Rotterdam Linker Maasoever 1979 wordt ingetrokken.
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van 31 december 2004, met uitzondering van de artikelen 2 en 3, die in werking treden met ingang van het tijdstip waarop de [artikelen 16 tot en met 25 van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) in werking treden.  
+Dit besluit treedt in werking met ingang van 31 december 2004, met uitzondering van de artikelen 2 en 3, die in werking treden met ingang van het tijdstip waarop de [artikelen 16 tot en met 25 van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) in werking treden. 
 
-### Artikel  5  
+###Artikel 5 
 
-Dit besluit wordt aangehaald als: Besluit aanwijzing hoofdspoorwegen.  
+Dit besluit wordt aangehaald als: Besluit aanwijzing hoofdspoorwegen.
 
-Onze Minister van Verkeer en Waterstaat is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
+Onze Minister van Verkeer en Waterstaat is belast met de uitvoering van dit besluit dat met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-'s-Gravenhage 
-20 december 2004  
-Beatrix  
+'s-Gravenhage
+20 december 2004
+Beatrix
 
-De Minister van Verkeer en Waterstaat , 
-K. M. H. Peijs   
+De Minister van Verkeer en Waterstaat ,
+K. M. H.Peijs
 
-de *negenentwintigste* december 2004 
+de *negenentwintigste* december 2004
 
-De Minister van Justitie , 
-J. P. H. Donner    
+De Minister van Justitie ,
+J. P. H.Donner
 
 ### Bijlage  1  
 
@@ -72,9 +72,9 @@ c. Velperbroek Aansluiting – Arnhem Goederenstation;
 
 d. IJsselbrug Westzijde – Arnhem Goederenstation;  
 
-e. Zevenaar – Winterswijk;    
+e. Zevenaar – Winterswijk;   
 
-2. Den Haag Centraal / Rotterdam Centraal > Gouda – Utrecht Centraal – Amersfoort – Zwolle – Meppel < Leeuwarden / Groningen, met de zijtakken: 
+2. Den Haag Centraal / Rotterdam Centraal > Gouda – Utrecht Centraal – Amersfoort – Zwolle – Meppel < Leeuwarden / Groningen, met de zijtakken:
 
 a. Nootdorp Aansluiting – Leidschendam Werkplaats;  
 
@@ -88,47 +88,45 @@ e. Amersfoort – Leusden;
 
 f. Zwolle – Kampen;  
 
-g. Haren – Waterhuizen;    
+g. Haren – Waterhuizen;   
 
-3. Haarlem / Amsterdam Centraal > Uitgeest – Alkmaar – Den Helder, met de zijtakken: 
+3. Haarlem / Amsterdam Centraal > Uitgeest – Alkmaar – Den Helder, met de zijtakken:
 
 a. Heerhugowaard – Hoorn;  
 
 b. Amsterdam Singelgracht Aansluiting – Amsterdam Westhaven;  
 
-c. Amsterdam Sloterdijk – Amsterdam Westhaven;    
+c. Amsterdam Sloterdijk – Amsterdam Westhaven;   
 
-4. Zwolle – Zutphen – Arnhem – Nijmegen – Venlo – Roermond, met de zijtakken: 
+4. Zwolle – Zutphen – Arnhem – Nijmegen – Venlo – Roermond, met de zijtakken:
 
 a. Zutphen – Hengelo;  
 
 b. Zutphen – Winterswijk;  
 
-c. Venlo – Duitse grens;    
+c. Venlo – Duitse grens;   
 
-5. Harlingen Haven / Stavoren > Leeuwarden – Groningen – Nieuweschans – Duitse grens, met de zijtakken: 
+5. Harlingen Haven / Stavoren > Leeuwarden – Groningen – Nieuweschans – Duitse grens, met de zijtakken:
 
 a. Groningen – Sauwerd < Roodeschool / Delfzijl;  
 
-b. Zuidbroek – Veendam;    
+b. Zuidbroek – Veendam;   
 
-6. Zaandam – Hoorn – Enkhuizen;  
+6. Zaandam – Hoorn – Enkhuizen; 
 
-7. Dordrecht – Geldermalsen – Elst;  
+7. Dordrecht – Geldermalsen – Elst; 
 
-8. Amsterdam Centraal – Amersfoort – Apeldoorn – Almelo – Hengelo < Oldenzaal – Duitse grens / Enschede – Duitse grens, met de zijtakken: 
+8. Amsterdam Centraal – Amersfoort – Apeldoorn – Almelo – Hengelo < Oldenzaal – Duitse grens/Enschede – Duitse grens, met de zijtakken: 
 
-a. Weesp – Lelystad;  
+a. Hilversum – Lunetten;  
 
-b. Hilversum – Lunetten;  
+b. Barneveld Aansluiting – Ede-Wageningen;  
 
-c. Barneveld Aansluiting – Ede-Wageningen;  
+c. Apeldoorn – Apeldoorn Zuid;  
 
-d. Apeldoorn – Apeldoorn Zuid;  
+d. Apeldoorn – Zutphen;  
 
-e. Apeldoorn – Zutphen;  
-
-f. Wierden – Zwolle;    
+e. Wierden – Zwolle;    
 
 9. Vlissingen – Roosendaal – Tilburg – ’s-Hertogenbosch – Nijmegen, met de zijtakken: 
 
@@ -144,9 +142,9 @@ b. Schiedam – Hoek van Holland Strand;
 
 c. Lage Zwaluwe – Made en Drimmelen;  
 
-d. Lage Zwaluwe – Breda;    
+d. Lage Zwaluwe – Breda;   
 
-11. Weesp – Schiphol – Leiden, met de zijtak Amsterdam Singelgracht – Amsterdam Riekerpolder;  
+11. Leiden – Schiphol – Amsterdam Zuid – Weesp – Almere – Lelystad – Zwolle, met de zijtak Amsterdam Riekerpolder – Amsterdam Singelgracht;  
 
 12. Utrecht Centraal – 's-Hertogenbosch – Eindhoven – Weert – Roermond –Sittard < Heerlen – Duitse grens / Maastricht – Eijsden – Belgische grens, met de zijtakken: 
 
@@ -160,19 +158,19 @@ d. Heerlen – Maastricht;
 
 e. Landgraaf – Kerkrade Centrum;  
 
-f. Maastricht–Belgische grens;    
+f. Maastricht–Belgische grens;  
 
-13. Zwolle – Mariënberg – Emmen, met de zijtak Mariënberg – Almelo;  
+13. Zwolle – Mariënberg – Emmen, met de zijtak Mariënberg – Almelo; 
 
-14. Terneuzen – Sluiskil Aansluiting – Sas van Gent – Belgische grens;  
+14. Terneuzen – Sluiskil Aansluiting – Sas van Gent – Belgische grens; 
 
-15. Maasvlakte – Kijfhoek;  
+15.Maasvlakte – Kijfhoek;
 
-16. Barendrecht – Belgische grens, inclusief de daarbij horende aansluitingen;  
+16.Barendrecht – Belgische grens, inclusief de daarbij horende aansluitingen;
 
-17. Kijfhoek – Zevenaar;  
+17.Kijfhoek – Zevenaar; 
 
-18. Hoofddorp–Rotterdam West, inclusief de daarbij horende aansluitingen.   
+18.Hoofddorp–Rotterdam West, inclusief de daarbij horende aansluitingen. 
 
 ### Bijlage  2  
 
@@ -250,6 +248,4 @@ b. De spoorwegen gelegen op de volgende locaties zijn hoofdspoorwegen:
 
 30. Arnhem, gemeentelijke stamlijn;  
 
-31. Zwolle Katwolde;  
-
-32. Oss-Elzenburg.     
+31. Oss-Elzenburg.    

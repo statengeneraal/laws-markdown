@@ -19,11 +19,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De wettelijke rente als bedoeld in artikel 119 van boek 6 van het Burgerlijk Wetboek, wordt vastgesteld op drie procent per jaar.  
+De wettelijke rente als bedoeld in [artikel 119 van boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), wordt vastgesteld op drie procent per jaar. 
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de eerste dag van de maand ingaande na de datum van uitgifte van het *Staatsblad*, waarin dit besluit wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste dag van de maand ingaande na de datum van uitgifte van het *Staatsblad*, waarin dit besluit wordt geplaatst. 
 
 Onze Minister van Justitie is belast met de uitvoering van dit besluit, hetwelk in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.   
 

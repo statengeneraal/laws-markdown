@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 4 maart 1994, nr. J 30.273/94, Directoraat-Generaal Scheepvaart en Maritieme Zaken, Stafafdeling Wetgeving en Juridische Zaken, gedaan mede namens de Staatssecretaris van Justitie en de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-Gelet op [artikel 311 *a*, tweede lid, van het Wetboek van Koophandel](../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md) en [artikel 231 van Boek 8 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md);
+Gelet op [artikel 311*a*, tweede lid, van het Wetboek van Koophandel](../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md) en [artikel 231 van Boek 8 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md);
 
 De Raad van State gehoord (advies van 5 april 1994, nr. W09.94.0123);
 
@@ -51,23 +51,23 @@ b. een afschrift van de volmacht, bedoeld in [artikel 311, vierde lid, van het W
 
 a. de meetbrief, afgegeven volgens de bestaande wettelijke voorschriften;  
 
-b. de bijlbrief, de koopbrief of enig ander bewijsstuk van eigendom, dan wel een stuk waaruit de titel krachtens welke de levering van het schip aan de aanvrager zal plaatsvinden binnen vier weken na de dag waarop de aanvraag wordt gedaan.     
+b. de bijlbrief, de koopbrief of enig ander bewijsstuk van eigendom, dan wel een stuk waaruit de titel krachtens welke de levering van het schip aan de aanvrager zal plaatsvinden binnen vier weken na de dag waarop de aanvraag wordt gedaan.    
 
 ### Artikel  2  
 
-De reder doet aan Onze Minister van Verkeer en Waterstaat zo spoedig mogelijk schriftelijk mededeling van iedere wijziging van de bij de aanvraag verstrekte gegevens of verklaringen, bedoeld in artikel 1, eerste tot en met vierde lid, indien die wijziging kennelijk van betekenis is voor het voldoen aan de eisen, bedoeld in [artikel 311 van het Wetboek van Koophandel](../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md). Daarbij legt hij, voor zover van toepassing, een opgave, verklaring of afschrift als bedoeld in artikel 1 over.  
+De reder doet aan Onze Minister van Verkeer en Waterstaat zo spoedig mogelijk schriftelijk mededeling van iedere wijziging van de bij de aanvraag verstrekte gegevens of verklaringen, bedoeld in artikel 1, eerste tot en met vierde lid, indien die wijziging kennelijk van betekenis is voor het voldoen aan de eisen, bedoeld in [artikel 311 van het Wetboek van Koophandel](../../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md). Daarbij legt hij, voor zover van toepassing, een opgave, verklaring of afschrift als bedoeld in artikel 1 over. 
 
 ### Artikel  3  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  4  
 
-Indien het bij koninklijke boodschap van 2 juli 1993 ingediende voorstel van wet tot wijziging van het Burgerlijk Wetboek, het Wetboek van Burgerlijke Rechtsvordering, het Wetboek van Koophandel en de Wet nationaliteit zeeschepen in rompbevrachtiging (wijziging voorwaarden nationaliteitsverlening en registratie zeeschepen) (23 227) tot wet wordt verheven en in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking.  
+Indien het bij koninklijke boodschap van 2 juli 1993 ingediende voorstel van wet tot wijziging van het Burgerlijk Wetboek, het Wetboek van Burgerlijke Rechtsvordering, het Wetboek van Koophandel en de Wet nationaliteit zeeschepen in rompbevrachtiging (wijziging voorwaarden nationaliteitsverlening en registratie zeeschepen) (23 227) tot wet wordt verheven en in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking. 
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als: Besluit nationaliteitstoets zeeschepen.  
+Dit besluit wordt aangehaald als: Besluit nationaliteitstoets zeeschepen. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende Nota van Toelichting in het *Staatsblad* zal worden geplaatst.   
 

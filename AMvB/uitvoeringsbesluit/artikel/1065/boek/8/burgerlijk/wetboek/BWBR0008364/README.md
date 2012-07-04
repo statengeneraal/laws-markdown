@@ -36,7 +36,7 @@ b. wanneer het vorderingen betreft terzake van kosten en schadevergoedingen vers
 c. wanneer het enige andere vordering betreft (zakenfonds): de helft van het bedrag van het personenfonds.     
 2.  Wordt in de gevallen, bedoeld in het eerste lid, onder *a*, 4° en 5°, het personenfonds van de duwboot of van het voortbewegende schip vermeerderd met 100 rekeneenheden per ton laadvermogen van de geduwde bakken of met 100 rekeneenheden per ton laadvermogen of per kubieke meter waterverplaatsing van de andere gekoppelde schepen, dan wordt met betrekking tot vorderingen, die voortkomen uit hetzelfde voorval, het personenfonds voor iedere duwbak of ieder ander gekoppeld schip verminderd met 100 rekeneenheden per ton laadvermogen van de duwbak of 100 rekeneenheden per ton laadvermogen of per kubieke meter waterverplaatsing van het andere gekoppelde schip.   
 3.  In geen geval kan het bedrag van het personenfonds en van het waterverontreinigingsfonds lager dan 200 000 rekeneenheden en van het zakenfonds lager dan 100 000 rekeneenheden zijn.   
-4.  Een hulpverlener aan een binnenschip, die niet van een zee- of binnenschip uit werkzaamheden verricht of die werkzaamheden uitsluitend verricht op het binnenschip waaraan of met betrekking waartoe hij hulp verleent, kan zijn aansprakelijkheid beperken tot de in het derde lid genoemde bedragen.   
+4.  Een hulpverlener aan een binnenschip, die niet van een zee- of binnenschip uit werkzaamheden verricht of die werkzaamheden uitsluitend verricht op het binnenschip waaraan of met betrekking waartoe hij hulp verleent, kan zijn aansprakelijkheid beperken tot de in het derde lid genoemde bedragen.  
 
 ### Artikel  2  
 
@@ -49,9 +49,9 @@ b. 6 miljoen rekeneenheden voor een schip met een toegestane capaciteit van niet
 c. 12 miljoen rekeneenheden voor een schip met een toegestane capaciteit van meer dan 180 reizigers.     
 2.  Onder vorderingen terzake van dood of letsel van reizigers worden voor de toepassing van dit artikel verstaan dergelijke vorderingen ingediend naar aanleiding van een voorval overkomen aan enige persoon vervoerd aan boord van het schip. 
 
-a. op grond van een overeenkomst tot het vervoer van reizigers;  
+a. op grond van een overeenkomst tot het vervoer van reizigers;   
 
-b. die met toestemming van de vervoerder een voertuig of levende dieren vergezelt, die worden vervoerd op grond van een overeenkomst tot goederenvervoer.     
+b. die met toestemming van de vervoerder een voertuig of levende dieren vergezelt, die worden vervoerd op grond van een overeenkomst tot goederenvervoer.    
 
 ### Artikel  3  
 
@@ -81,21 +81,21 @@ d. het bedrag van het eerste lid, onderdeel *f*, wordt gesteld op 1,5 maal de wa
 
 ### Artikel  4  
 
-Aan de in de artikelen 1, 2 en 3 vermelde bedragen wordt toegevoegd de wettelijke rente berekend van de aanvang van de dag volgende op de dag van het voorval, dat aanleiding gaf tot de vordering, tot de aanvang van de dag volgende op de dag waarop hij die een verzoek tot beperking van zijn aansprakelijkheid indiende, voldeed aan een hem krachtens [artikel 642 *c* van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) opgelegd bevel.  
+Aan de in de artikelen 1, 2 en 3 vermelde bedragen wordt toegevoegd de wettelijke rente berekend van de aanvang van de dag volgende op de dag van het voorval, dat aanleiding gaf tot de vordering, tot de aanvang van de dag volgende op de dag waarop hij die een verzoek tot beperking van zijn aansprakelijkheid indiende, voldeed aan een hem krachtens [artikel 642*c* van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) opgelegd bevel. 
 
 ### Artikel  5  
 
-De rekeneenheid, genoemd in de artikelen 1, 2 en 3, is het bijzondere trekkingsrecht, zoals dat is omschreven door het Internationale Monetaire Fonds. De bedragen genoemd in de artikelen 1, 2 en 3 worden omgerekend in Nederlands geld naar de koers van de dag waarop de schuldenaar voldoet aan een ingevolge [artikel 642 *c* van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) gegeven bevel tot storting of andere zekerheidsstelling. De waarde van het Nederlandse geld, uitgedrukt in bijzondere trekkingsrechten, wordt berekend volgens de waarderingsmethode die door het Internationale Monetaire Fonds op de dag van omrekening wordt toegepast voor zijn eigen verrichtingen en transacties.  
+De rekeneenheid, genoemd in de artikelen 1, 2 en 3, is het bijzondere trekkingsrecht, zoals dat is omschreven door het Internationale Monetaire Fonds. De bedragen genoemd in de artikelen 1, 2 en 3 worden omgerekend in Nederlands geld naar de koers van de dag waarop de schuldenaar voldoet aan een ingevolge [artikel 642*c* van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) gegeven bevel tot storting of andere zekerheidsstelling. De waarde van het Nederlandse geld, uitgedrukt in bijzondere trekkingsrechten, wordt berekend volgens de waarderingsmethode die door het Internationale Monetaire Fonds op de dag van omrekening wordt toegepast voor zijn eigen verrichtingen en transacties. 
 
 ### Artikel  6  
 
-Dit besluit treedt in werking tegelijk met de wet van 31 oktober 1996, *Stb.* 548.  
+Dit besluit treedt in werking tegelijk met de wet van 31 oktober 1996, *Stb.* 548. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 
 's-Gravenhage 
 29 november 1996  
-Beatrix  
+Beatrix   
 
 De Minister van Justitie, 
 W. Sorgdrager   
@@ -103,4 +103,4 @@ W. Sorgdrager
 de *tiende* december 1996 
 
 De Minister van Justitie, 
-W. Sorgdrager    
+W. Sorgdrager     

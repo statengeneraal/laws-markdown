@@ -15,19 +15,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Rechtspositiebesluit ambtenaren BES.   
+Wijzigt het Rechtspositiebesluit ambtenaren BES. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit rechtspositie korps politie BES.   
+Wijzigt het Besluit rechtspositie korps politie BES. 
 
 ### Artikel  III  
 
-Ten aanzien van studieopdrachten en studiefaciliteiten die aan de ambtenaar door het bevoegde gezag zijn verstrekt voor 1 november 2011 blijven [artikel 72 van het Rechtspositiebesluit ambtenaren BES](../../../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md), onderscheidenlijk de [artikelen 89](../../../../../../../../../AMvB-BES/besluit/rechtspositie/korps/politie/bes/BWBR0028767/README.md), [91](../../../../../../../../../AMvB-BES/besluit/rechtspositie/korps/politie/bes/BWBR0028767/README.md) en [92 van het Besluit rechtspositie korps politie BES](../../../../../../../../../AMvB-BES/besluit/rechtspositie/korps/politie/bes/BWBR0028767/README.md) zoals die luidden op 31 oktober 2011 van toepassing.  
+Ten aanzien van studieopdrachten en studiefaciliteiten die aan de ambtenaar door het bevoegde gezag zijn verstrekt voor 1 november 2011 blijven [artikel 72 van het Rechtspositiebesluit ambtenaren BES](../../../../../../../../../AMvB-BES/rechtspositiebesluit/ambtenaren/bes/BWBR0028693/README.md), onderscheidenlijk de [artikelen 89](../../../../../../../../../AMvB-BES/besluit/rechtspositie/korps/politie/bes/BWBR0028767/README.md), [91](../../../../../../../../../AMvB-BES/besluit/rechtspositie/korps/politie/bes/BWBR0028767/README.md) en [92 van het Besluit rechtspositie korps politie BES](../../../../../../../../../AMvB-BES/besluit/rechtspositie/korps/politie/bes/BWBR0028767/README.md) zoals die luidden op 31 oktober 2011 van toepassing. 
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking met ingang van de dag na uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en werkt terug tot en met 1 november 2011.  
+Dit besluit treedt in werking met ingang van de dag na uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en werkt terug tot en met 1 november 2011. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -35,10 +35,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 18 juni 2012  
 Beatrix  
 
-De Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 J. W. E. Spies   
 
 de *zevenentwintigste* juni 2012 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

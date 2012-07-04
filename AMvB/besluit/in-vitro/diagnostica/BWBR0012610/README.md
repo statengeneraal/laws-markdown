@@ -8,7 +8,7 @@ Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 26�
 
 Gelet op
 
-– Richtlijn 98/79/EG van het Europees Parlement en de Raad van 27 oktober 1998 betreffende medische hulpmiddelen voor in-vitro diagnostiek (PbEG L 331), artikel 3, eerste lid, van de Wet op de medische hulpmiddelen;
+– Richtlijn 98/79/EG van het Europees Parlement en de Raad van 27 oktober 1998 betreffende medische hulpmiddelen voor in-vitro diagnostiek (PbEG L 331), [artikel 3, eerste lid, van de Wet op de medische hulpmiddelen](../../../../../wet/wet/op/de/medische/hulpmiddelen/BWBR0002697/README.md);
 
 De Raad van State gehoord (advies van 16 maart 2001, No. W13.00.0503/III);
 
@@ -21,17 +21,17 @@ Hebben goedgevonden en verstaan:
 
 1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *in-vitro diagnosticum:* een medisch hulpmiddel dat een reagens, een reactief product, een kalibratiemateriaal, een controlemateriaal, een kit, een instrument, een apparaat, een toestel of een systeem is dat afzonderlijk of in combinatie wordt gebruikt en door de fabrikant is bestemd om te worden gebruikt voor het in-vitro onderzoek van specimens die afkomstig zijn van het menselijk lichaam, met inbegrip van donorbloed en -weefsel, uitsluitend of hoofdzakelijk met het doel om informatie te verschaffen: 
+a.  *in-vitro diagnosticum:* een medisch hulpmiddel dat een reagens, een reactief product, een kalibratiemateriaal, een controlemateriaal, een kit, een instrument, een apparaat, een toestel of een systeem is dat afzonderlijk of in combinatie wordt gebruikt en door de fabrikant is bestemd om te worden gebruikt voor het in-vitro onderzoek van specimens die afkomstig zijn van het menselijk lichaam, met inbegrip van donorbloed en -weefsel, uitsluitend of hoofdzakelijk met het doel om informatie te verschaffen: 
 
 – over een fysiologische of pathologische toestand, of  
 
 – over een aangeboren afwijking, of  
 
-– om de veiligheid en de mate van verenigbaarheid met potentiële ontvangers te bepalen, of  
+– om de veiligheid en de mate van verenigbaarheid met potentiële ontvangers te bepalen, of   
 
 – om de uitwerking van therapeutische maatregelen te toetsen.    
 
-b. *hoog-risicodiagnosticum*: een in-vitrodiagnosticum, uitsluitend of hoofdzakelijk bedoeld voor: 
+b.  *hoog-risicodiagnosticum*: een in-vitrodiagnosticum, uitsluitend of hoofdzakelijk bedoeld voor: 
 
 – het detecteren, confirmeren en kwantificeren van de aanwezigheid in menselijke specimens van merkers van besmetting met HIV, HTLV I en II, en hepatitis B, C en D;  
 
@@ -41,67 +41,67 @@ b. *hoog-risicodiagnosticum*: een in-vitrodiagnosticum, uitsluitend of hoofdzake
 
 – voorspellend genetisch onderzoek.    
 
-c. *controle- en kalibratiemateriaal:* een stof, materiaal of artikel, door de fabrikant ontworpen om een maatverhouding aan te geven, dan wel om de prestatiekenmerken van een in-vitro diagnosticum in relatie tot de bestemming, te controleren;  
+c.  *controle- en kalibratiemateriaal: *een stof, materiaal of artikel, door de fabrikant ontworpen om een maatverhouding aan te geven, dan wel om de prestatiekenmerken van een in-vitro diagnosticum in relatie tot de bestemming, te controleren;  
 
-d. *recipiënt voor specimens:* een medisch hulpmiddel, al dan niet van het vacuümtype, dat door de fabrikant speciaal is bestemd om specimens afkomstig van het menselijk lichaam rechtstreeks op te vangen en te bewaren met het oog op in-vitro diagnostiek;  
+d.  *recipiënt voor specimens: *een medisch hulpmiddel, al dan niet van het vacuümtype, dat door de fabrikant speciaal is bestemd om specimens afkomstig van het menselijk lichaam rechtstreeks op te vangen en te bewaren met het oog op in-vitro diagnostiek;  
 
-e. *hulpstuk:* een product dat geen in-vitro diagnosticum is maar door de fabrikant speciaal is bestemd om samen met een in-vitro diagnosticum te worden gebruikt zodat dat in-vitro diagnosticum overeenkomstig zijn bestemming kan worden aangewend;  
+e.  *hulpstuk:* een product dat geen in-vitro diagnosticum is maar door de fabrikant speciaal is bestemd om samen met een in-vitro diagnosticum te worden gebruikt zodat dat in-vitro diagnosticum overeenkomstig zijn bestemming kan worden aangewend;  
 
-f. *voor zelftesten bestemd in-vitro diagnosticum:* een in-vitro diagnosticum dat door de fabrikant is bestemd om door leken in een thuissituatie te kunnen worden gebruikt;  
+f.  *voor zelftesten bestemd in-vitro diagnosticum: *een in-vitro diagnosticum dat door de fabrikant is bestemd om door leken in een thuissituatie te kunnen worden gebruikt;  
 
-g. *voor doeltreffendheidsonderzoek bestemd in-vitro diagnosticum:* een in-vitro diagnosticum dat door de fabrikant is bestemd om één of meerdere malen op zijn prestatievermogen te worden onderzocht in medische laboratoria of in een andere daarvoor geschikte omgeving buiten zijn eigen bedrijfsruimten;  
+g.  *voor doeltreffendheidsonderzoek bestemd in-vitro diagnosticum: *een in-vitro diagnosticum dat door de fabrikant is bestemd om één of meerdere malen op zijn prestatievermogen te worden onderzocht in medische laboratoria of in een andere daarvoor geschikte omgeving buiten zijn eigen bedrijfsruimten;  
 
-h. *nieuw type in-vitro diagnosticum:* een type in-vitro diagnosticum: 
+h.  *nieuw type in-vitro diagnosticum:* een type in-vitro diagnosticum: 
 
 – dat zich voor wat betreft de te onderzoeken stof of een andere parameter onderscheidt van een ander type dat de voorgaande drie jaar ononderbroken in een lidstaat in de handel is geweest, of  
 
 – bij de toepassing waarvan gebruik wordt gemaakt van een analysetechnologie die gedurende drie voorafgaande jaren niet permanent bij een te onderzoeken stof of een andere parameter is gebezigd;    
 
-i. *fabrikant:* de persoon, rechtspersoon daaronder begrepen, of diens gemachtigde, die: 
+i.  *fabrikant:* de persoon, rechtspersoon daaronder begrepen, of diens gemachtigde, die: 
 
 1°. verantwoordelijk is voor het ontwerp, de vervaardiging, de verpakking en de etikettering van een in-vitro diagnosticum met het oog op het in de handel brengen ervan onder eigen naam, ongeacht of deze verrichtingen door diezelfde persoon of onder zijn verantwoordelijkheid door een derde worden uitgevoerd; of   
 
 2°. één of meer geprefabriceerde producten assembleert, verpakt, behandelt, vernieuwt of etiketteert of tot in-vitro diagnosticum bestemt om deze producten onder eigen naam in de handel te brengen;    
 
-j. *gemachtigde:* de in een lidstaat gevestigde persoon, rechtspersoon daaronder begrepen die, na daartoe uitdrukkelijk door de fabrikant te zijn aangewezen, namens die fabrikant handelt en in diens plaats in rechte kan worden aangesproken ten aanzien van de verplichtingen die bij of krachtens dit besluit aan de fabrikant zijn opgelegd;  
+j.  *gemachtigde:* de in een lidstaat gevestigde persoon, rechtspersoon daaronder begrepen die, na daartoe uitdrukkelijk door de fabrikant te zijn aangewezen, namens die fabrikant handelt en in diens plaats in rechte kan worden aangesproken ten aanzien van de verplichtingen die bij of krachtens dit besluit aan de fabrikant zijn opgelegd;  
 
-k. *bestemming:* het gebruik waartoe het in-vitro diagnosticum is bestemd volgens de aanwijzingen die de fabrikant op het etiket, de gebruiksaanwijzing of in het reclamemateriaal verschaft;  
+k.  *bestemming:* het gebruik waartoe het in-vitro diagnosticum is bestemd volgens de aanwijzingen die de fabrikant op het etiket, de gebruiksaanwijzing of in het reclamemateriaal verschaft;  
 
-l. *in de handel brengen:* het voor het eerst tegen betaling of kosteloos afleveren van een in-vitro diagnosticum dat niet is bestemd voor doeltreffendheidsonderzoek, met het oog op de distributie of het gebruik ervan op de markt van een lidstaat, ongeacht of het gaat om een nieuw of een vernieuwd in-vitro diagnosticum;  
+l.  *in de handel brengen: *het voor het eerst tegen betaling of kosteloos afleveren van een in-vitro diagnosticum dat niet is bestemd voor doeltreffendheidsonderzoek, met het oog op de distributie of het gebruik ervan op de markt van een lidstaat, ongeacht of het gaat om een nieuw of een vernieuwd in-vitro diagnosticum;  
 
-m. *toepassen:* het voor het eerst toepassen van een in-vitro diagnosticum;  
+m.  *toepassen: *het voor het eerst toepassen van een in-vitro diagnosticum;  
 
-n. *aangemelde instantie:* de ter uitvoering van artikel 15 van de richtlijn aangewezen instantie;  
+n.  *aangemelde instantie:* de ter uitvoering van artikel 15 van de richtlijn aangewezen instantie;  
 
-o. *lidstaat:* de staat die lid is van de Europese Unie, alsmede de staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte;  
+o.  *lidstaat: *de staat die lid is van de Europese Unie, alsmede de staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte;  
 
-p. *richtlijn:*Richtlijn nr. 98/79/EG van het Europees Parlement en de Raad van 27 oktober 1998 betreffende medische hulpmiddelen voor in-vitro diagnostiek (PbEG L 331) naar de tekst zoals deze bij die richtlijn is vastgesteld;  
+p.  *richtlijn:* Richtlijn nr. 98/79/EG van het Europees Parlement en de Raad van 27 oktober 1998 betreffende medische hulpmiddelen voor in-vitro diagnostiek (PbEG L 331) naar de tekst zoals deze bij die richtlijn is vastgesteld;  
 
-q. *CE-markering:* de markering overeenkomstig het model opgenomen in bijlage X van de richtlijn.     
+q.  *CE-markering: *de markering overeenkomstig het model opgenomen in bijlage X van de richtlijn.     
 2.  Onder een in-vitro diagnosticum wordt eveneens begrepen: 
 
 – een recipiënt voor specimens;  
 
 – een product voor laboratoriumgebruik, uit de kenmerken waarvan blijkt dat het door de fabrikant speciaal is bestemd om bij in-vitro diagnostiek te worden gebruikt.     
-3.  Onder een hulpstuk wordt niet begrepen een onder de toepassing van het Besluit medische hulpmiddelen vallend invasief medisch hulpmiddel voor het nemen van specimens, alsmede een medisch hulpmiddel dat rechtstreeks in aanraking met het menselijk lichaam wordt gebracht om specimens te verkrijgen.   
+3.  Onder een hulpstuk wordt niet begrepen een onder de toepassing van het [Besluit medische hulpmiddelen](../../../../../AMvB/besluit/medische/hulpmiddelen/BWBR0007307/README.md) vallend invasief medisch hulpmiddel voor het nemen van specimens, alsmede een medisch hulpmiddel dat rechtstreeks in aanraking met het menselijk lichaam wordt gebracht om specimens te verkrijgen.   
 4.  Onder een fabrikant wordt niet begrepen een persoon, rechtspersoon daaronder begrepen, die in-vitro diagnostica die reeds in de handel zijn gebracht, assembleert voor een individuele patiënt, of aanpast overeenkomstig hun beoogde bestemming.   
-5.  Een wijziging van een of meer bijlagen van de richtlijn gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven.   
+5.  Een wijziging van een of meer bijlagen van de richtlijn gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven. 
 
 ### Artikel  2  
 
 1.  Dit besluit is mede van toepassing op het hulpstuk en op de software die voor de goede werking van het in-vitro diagnosticum benodigd zijn.   
-2.  Dit besluit is niet van toepassing op een in-vitro diagnosticum dat uitsluitend wordt toegepast in één en dezelfde instelling in de zin van de Kwaliteitswet zorginstellingen en binnen de bedrijfsruimte waarin het is vervaardigd of in een belendende ruimte, zonder dat er sprake is van aflevering aan een andere rechtspersoon.   
+2.  Dit besluit is niet van toepassing op een in-vitro diagnosticum dat uitsluitend wordt toegepast in één en dezelfde instelling in de zin van de [Kwaliteitswet zorginstellingen](../../../../../wet/kwaliteitswet/zorginstellingen/BWBR0007850/README.md) en binnen de bedrijfsruimte waarin het is vervaardigd of in een belendende ruimte, zonder dat er sprake is van aflevering aan een andere rechtspersoon.  
 
 ### Artikel  3  
 
 1.  Het is de fabrikant verboden een in-vitro diagnosticum voorhanden te hebben of af te leveren indien niet is voldaan aan de artikelen 4 tot en met 8 en 10.   
-2.  Het is een ander dan de fabrikant verboden een in-vitro diagnosticum voorhanden te hebben of af te leveren indien met betrekking tot het in-vitro diagnosticum niet is voldaan aan de artikelen 12 en 13.   
+2.  Het is een ander dan de fabrikant verboden een in-vitro diagnosticum voorhanden te hebben of af te leveren indien met betrekking tot het in-vitro diagnosticum niet is voldaan aan de artikelen 12 en 13.    
 3.  Het is verboden een in-vitro diagnosticum toe te passen indien het in-vitro diagnosticum niet met inachtneming van de artikelen 4 tot en met 8, 10, 12 en 13 is afgeleverd.   
 4.  Het is aan anderen dan de hieronder genoemden verboden een hoog-risicodiagnosticum aan gebruikers af te leveren: 
 
 a. een arts;  
 
-b. een apotheker.     
+b. een apotheker.    
 
 ####Administratieve notificatie van de fabrikant en in-vitro diagnostica
 
@@ -109,7 +109,7 @@ b. een apotheker.
 
 1.  De fabrikant die een in-vitro diagnosticum in de handel brengt, deelt alvorens de aflevering plaatsvindt, aan de daartoe door Onze Minister aangewezen overheidsinstantie mee: 
 
-a. zijn woonplaats in de zin van artikel 10, Boek 1, van het Burgerlijk Wetboek;  
+a. zijn woonplaats in de zin van [artikel 10, Boek 1, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);  
 
 b. met betrekking tot de reagentia, de reactieve producten, het calibratie- en controlemateriaal, de gegevens in termen van gemeenschappelijke technologische kenmerken of de te onderzoeken stoffen, alsmede alle belangrijke wijzigingen daarvan, met inbegrip van beëindiging van het in de handel brengen;  
 
@@ -125,22 +125,22 @@ d. met betrekking tot de in bijlage II van de richtlijn bedoelde in-vitro diagno
 
 – de certificaten alsmede alle belangrijke wijzigingen daarvan, met inbegrip van beëindiging van het in de handel brengen.       
 2.  Indien de in het tweede lid bedoelde kennisgeving betrekking heeft op een nieuw type in-vitro diagnosticum, voorzien van de CE-markering, vermeldt de fabrikant dit in de kennisgeving. In dit geval kan de in het eerste lid bedoelde overheidsinstantie gedurende twee jaar na het in de handel brengen van dat in-vitro diagnosticum van de fabrikant verlangen dat deze een rapport indient over de ervaring die met het in-vitro diagnosticum is opgedaan.   
-3.  De buiten een lidstaat gevestigde fabrikant wijst een gemachtigde aan.   
+3.  De buiten een lidstaat gevestigde fabrikant wijst een gemachtigde aan.  
 
 ####Eisen en verwijzing naar specificaties en normen
 
 ### Artikel  5  
 
 1.  Een in-vitro diagnosticum voldoet aan de in bijlage I van de richtlijn opgenomen eisen, met inachtneming van de bestemming van het betrokken in-vitro diagnosticum.   
-2.  Onze Minister wijst ter uitvoering van artikel 5 van de richtlijn gemeenschappelijke technische specificaties aan bij het voldoen waaraan de in-vitro diagnostica, vermeld in bijlage II, onder lijst A, van de richtlijn en voorzover van toepassing, de in-vitro diagnostica vermeld in bijlage II, onder lijst B, van de richtlijn worden beschouwd te voldoen aan de in het eerste lid bedoelde eisen.   
+2.  Onze Minister wijst ter uitvoering van artikel 5 van de richtlijn gemeenschappelijke technische specificaties aan bij het voldoen waaraan de in-vitro diagnostica, vermeld in bijlage II, onder lijst A, van de richtlijn en voorzover van toepassing, de in-vitro diagnostica vermeld in bijlage II, onder lijst B, van de richtlijn worden beschouwd te voldoen aan de in het eerste lid bedoelde eisen.    
 3.  Onze Minister wijst ter uitvoering van artikel 5 van de richtlijn normen aan, bij het voldoen waaraan in-vitro diagnostica worden beschouwd te voldoen aan de in het eerste lid bedoelde eisen.   
-4.  De referenties van de aangewezen gemeenschappelijke technische specificaties en normen worden in de Staatscourant bekendgemaakt.   
+4.  De referenties van de aangewezen gemeenschappelijke technische specificaties en normen worden in de Staatscourant bekendgemaakt.  
 
 ### Artikel  6  
 
 1.  De in bijlage I, deel B, punt 8, van de richtlijn bedoelde informatie die aan de gebruiker moet worden verstrekt, is opgesteld in de Nederlandse taal.   
 2.  Indien het in-vitro diagnosticum is bestemd om uitsluitend te worden afgeleverd aan een instelling waar in een professionele omgeving in-vitro diagnostiek plaatsvindt, kan in afwijking van het eerste lid de in dat lid bedoelde informatie in de Engelse taal zijn opgesteld, onder de voorwaarde dat de toepasser beschikt over een adequate beheersing van de Engelse taal.   
-3.  Indien een in-vitro diagnosticum is bestemd om uitsluitend aan een in een andere lidstaat gevestigde gebruiker of toepasser te worden afgeleverd, kan in afwijking van het eerste lid de in dat lid bedoelde informatie worden opgesteld in de door die lidstaat vastgestelde taal.   
+3.  Indien een in-vitro diagnosticum is bestemd om uitsluitend aan een in een andere lidstaat gevestigde gebruiker of toepasser te worden afgeleverd, kan in afwijking van het eerste lid de in dat lid bedoelde informatie worden opgesteld in de door die lidstaat vastgestelde taal.  
 
 ####CE-markering
 
@@ -186,7 +186,7 @@ b. de in bijlage V van de richtlijn omschreven procedure inzake het EG-typeonder
 10.  De fabrikant verstrekt de aangemelde instantie iedere inlichting die voor de vervulling van haar taak redelijkerwijs nodig is.   
 11.  Een krachtens de bijlagen III, IV of V van de richtlijn genomen beslissing vervalt na een door de aangemelde instantie te bepalen termijn van maximaal vijf jaar. Op aanvraag van de fabrikant kan de aangemelde instantie deze periode met termijnen van telkenmale maximaal vijf jaar verlengen.   
 12.  De bepalingen van dit artikel en van artikel 3, derde lid, zijn van overeenkomstige toepassing op een persoon, rechtspersoon daaronder begrepen, die een in-vitro diagnosticum vervaardigt en toepast zonder dit af te leveren.   
-13.  Met de in het tweede tot en met vijfde lid bedoelde procedures worden gelijkgesteld de door de daartoe bevoegde autoriteiten van de andere lidstaten in het kader van de richtlijn vastgestelde procedures.   
+13.  Met de in het tweede tot en met vijfde lid bedoelde procedures worden gelijkgesteld de door de daartoe bevoegde autoriteiten van de andere lidstaten in het kader van de richtlijn vastgestelde procedures.  
 
 ####Aangemelde instantie
 
@@ -197,14 +197,14 @@ b. de in bijlage V van de richtlijn omschreven procedure inzake het EG-typeonder
 3.  Wanneer de instantie constateert dat de fabrikant niet heeft voldaan of niet langer voldoet aan de van toepassing zijnde eisen van dit besluit of wanneer geen verklaring had mogen worden afgegeven, moet zij, rekening houdend met het evenredigheidsbeginsel, de afgegeven verklaring schorsen, intrekken of beperken, tenzij de fabrikant er door invoering van een geschikte corrigerende maatregel voor zorgt dat aan bovengenoemde eisen wordt voldaan. In geval van schorsing, intrekking of beperking van de verklaring of indien ingrijpen van de in artikel 4, eerste lid, bedoelde overheidsinstantie nodig zou zijn, stelt zij die overheidsinstantie daarvan in kennis.   
 4.  De instantie stelt desgevraagd de in artikel 4, eerste lid, bedoelde overheidsinstantie en de andere aangemelde instanties in kennis van de afgegeven of geweigerde certificaten en stelt desgevraagd alle relevante informatie ter beschikking.   
 5.  Ter uitvoering van artikel 15 van de richtlijn kan Onze Minister aan de aanwijzing voorschriften verbinden.   
-6.  Onze Minister trekt de aanwijzing in indien de instantie niet voldoet aan het eerste, derde en vierde lid, of aan de op grond van het vijfde lid door de minister gegeven voorschriften.   
+6.  Onze Minister trekt de aanwijzing in indien de instantie niet voldoet aan het eerste, derde en vierde lid, of aan de op grond van het vijfde lid door de minister gegeven voorschriften.  
 
 ####Doeltreffendheidsonderzoek
 
 ### Artikel  10  
 
 1.  Voor de in-vitro diagnostica die voor doeltreffendheidsonderzoek zijn bestemd, volgt de fabrikant de in bijlage VIII van de richtlijn bedoelde procedure en stelt de in die bijlage bedoelde verklaring op alvorens die in-vitro diagnostica ter beschikking te stellen.   
-2.  In afwijking van artikel 5, eerste lid, behoeft een in-vitro diagnosticum dat is bestemd voor doeltreffendheidsonderzoek, op het punt waarop het onderzoek is gericht en op andere door de fabrikant genoemde aspecten, niet te voldoen aan de in bijlage I van de richtlijn bedoelde eisen.   
+2.  In afwijking van artikel 5, eerste lid, behoeft een in-vitro diagnosticum dat is bestemd voor doeltreffendheidsonderzoek, op het punt waarop het onderzoek is gericht en op andere door de fabrikant genoemde aspecten, niet te voldoen aan de in bijlage I van de richtlijn bedoelde eisen.  
 
 ####Jaarbeurzen
 
@@ -214,7 +214,7 @@ De artikelen 5, 6 en 7 zijn niet van toepassing op in-vitro diagnostica die op b
 
 – deze in-vitro diagnostica niet op specimens, afkomstig van de deelnemers aan die gelegenheden, worden toegepast;  
 
-– op duidelijke en zichtbare wijze is aangegeven dat de in-vitro diagnostica niet aan de bepalingen van dit besluit voldoen en niet kunnen worden afgeleverd en worden toegepast alvorens deze door de fabrikant met die bepalingen in overeenstemming zijn gebracht.    
+– op duidelijke en zichtbare wijze is aangegeven dat de in-vitro diagnostica niet aan de bepalingen van dit besluit voldoen en niet kunnen worden afgeleverd en worden toegepast alvorens deze door de fabrikant met die bepalingen in overeenstemming zijn gebracht.   
 
 ####Wederverkopers
 
@@ -232,7 +232,7 @@ b. ingeval het in-vitro diagnosticum in de handel is gebracht:
 
 – indien het niet aan de in artikel 5, eerste lid, en artikel 6, eerste lid, bedoelde eisen voldoet;  
 
-– nadat de in bijlage I, deel B, punt 8.4, onder e, van de richtlijn bedoelde uiterste gebruiksdatum is verstreken.      
+– nadat de in bijlage I, deel B, punt 8.4, onder e, van de richtlijn bedoelde uiterste gebruiksdatum is verstreken.     
 
 ####Aflevering van hoog-risicodiagnostica
 
@@ -260,13 +260,13 @@ b. ingeval het in-vitro diagnosticum in de handel is gebracht:
 
 – het juiste gebruik van het hoog-risicodiagnosticum;  
 
-– de juiste interpretatie van de testresultaten.     
+– de juiste interpretatie van de testresultaten.    
 
-####Wijzigingen Besluit medische hulpmiddelen
+####Wijzigingen [Besluit medische hulpmiddelen](../../../../../AMvB/besluit/medische/hulpmiddelen/BWBR0007307/README.md) 
 
 ### Artikel  14  
 
-Wijzigt het Besluit medische hulpmiddelen.   
+Wijzigt het Besluit medische hulpmiddelen.  
 
 ####Overgangs- en slotbepalingen
 
@@ -279,11 +279,11 @@ Wijzigt het Besluit medische hulpmiddelen.
 
 ### Artikel  16  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 ### Artikel  17  
 
-Dit besluit wordt aangehaald als: Besluit in-vitro diagnostica.  
+Dit besluit wordt aangehaald als: Besluit in-vitro diagnostica. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -297,4 +297,4 @@ E. Borst-Eilers
 de *achtentwintigste* augustus 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

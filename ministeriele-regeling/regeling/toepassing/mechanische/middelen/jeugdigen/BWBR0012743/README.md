@@ -1,38 +1,38 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling toepassing mechanische middelen jeugdigen
+##Regeling toepassing mechanische middelen jeugdigen 
 
 De Minister van Justitie,  
-Gelet op artikel 38, derde lid, van de Beginselenwet justitiële jeugdinrichtingen;
+Gelet op [artikel 38, derde lid, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);
 
 Gezien het advies van het College van advies voor de justitiële kinderbescherming van 12 oktober 2000, kenmerk 5056746/00/TH/rb;
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a. *wet:* de Beginselenwet justitiële jeugdinrichtingen;  
+a.*wet:* de [Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);
 
-b.  *mechanische middelen:*  de navolgende middelen:   
+b.*mechanische middelen:* de navolgende middelen:
 
-1º gecapitonneerde handschoenen;  
+1º  gecapitonneerde handschoenen; 
 
-2º mondafscherming;  
+2º  mondafscherming; 
 
-3º polsbanden aan riem om middel;  
+3º  polsbanden aan riem om middel; 
 
-4º enkelbanden met tussenstuk;  
+4º  enkelbanden met tussenstuk; 
 
-5º handboeien van een door de Minister van Veiligheid en Justitie goedgekeurd merk en type;  
+5º  handboeien van een door de Minister van Veiligheid en Justitie goedgekeurd merk en type; 
 
-6º valhelm of schuimhelm;  
+6º  valhelm of schuimhelm; 
 
-7º dwangjack.    
+7º  dwangjack.  
 
 ### Artikel  2  
 
-1.  Als mechanisch middel in de zin van artikel 38 van de wet worden slechts toegepast de in artikel 1, onder b, genoemde middelen.   
+1.  Als mechanisch middel in de zin van [artikel 38 van de wet](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) worden slechts toegepast de in artikel 1, onder b, genoemde middelen.   
 2.  Indien de toestand van de jeugdige dit vereist, kunnen meerdere mechanische middelen tegelijkertijd worden toegepast.   
 
 ### Artikel  3  
@@ -44,36 +44,36 @@ b.  *mechanische middelen:*  de navolgende middelen:
 
 Een mechanisch middel voldoet aan de volgende eisen: 
 
-a. het middel voldoet aan de algemene eis van deugdelijkheid. Een correcte toepassing van het middel leidt niet tot lichamelijke beschadiging of tot ongemak dat langer duurt dan  
+a.  het middel voldoet aan de algemene eis van deugdelijkheid. Een correcte toepassing van het middel leidt niet tot lichamelijke beschadiging of tot ongemak dat langer duurt dan 
 
-b. noodzakelijkerwijs samenhangt met de toepassing van het middel;  
+b.  noodzakelijkerwijs samenhangt met de toepassing van het middel; 
 
-c. het middel heeft geen scherpe, ruwe of puntige onderdelen;  
+c.  het middel heeft geen scherpe, ruwe of puntige onderdelen; 
 
-d. het middel kan snel en gemakkelijk worden bevestigd.    
+d.  het middel kan snel en gemakkelijk worden bevestigd.   
 
 ### Artikel  5  
 
-Bij de toepassing van mechanische middelen bij een jeugdige stelt de directeur de ouders of voogd, stiefouder of pleegouders, de stichting bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg daarvan zo spoedig mogelijk op de hoogte.  
+Bij de toepassing van mechanische middelen bij een jeugdige stelt de directeur de ouders of voogd, stiefouder of pleegouders, de stichting bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) daarvan zo spoedig mogelijk op de hoogte.  
 
 ### Artikel  6  
 
-1.  De directeur stelt voor de toepassing van mechanische middelen een protocol vast. De directeur verleent geen machtiging aan personeelsleden of medewerkers het protocol op te stellen. De ouders of voogd, stiefouder of pleegouders, de stichting bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg worden in de gelegenheid gesteld kennis te nemen van het protocol.   
+1.  De directeur stelt voor de toepassing van mechanische middelen een protocol vast. De directeur verleent geen machtiging aan personeelsleden of medewerkers het protocol op te stellen. De ouders of voogd, stiefouder of pleegouders, de stichting bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) worden in de gelegenheid gesteld kennis te nemen van het protocol.   
 2.  Het protocol omvat in elk geval: 
 
-a. welke mechanische middelen in de inrichting aanwezig zijn en op welke wijze zij worden toegepast;  
+a.  welke mechanische middelen in de inrichting aanwezig zijn en op welke wijze zij worden toegepast; 
 
-b. de voorschriften voor de toepassing van de mechanische middelen;  
+b.  de voorschriften voor de toepassing van de mechanische middelen; 
 
-c. de aanwijzing van het personeelslid of de medewerker belast met de verzorging van, en het toezicht op, de jeugdige ten aanzien van wie mechanische middelen zijn toegepast;  
+c.  de aanwijzing van het personeelslid of de medewerker belast met de verzorging van, en het toezicht op, de jeugdige ten aanzien van wie mechanische middelen zijn toegepast; 
 
-d. de wijze van verslaglegging inzake de toestand van de jeugdige;  
+d.  de wijze van verslaglegging inzake de toestand van de jeugdige; 
 
-e. de wijze waarop de besluitvorming tot stand komt en wordt vastgelegd ten aanzien van de aanvang, de continuering, de wijziging en de beëindiging van de toepassing van de mechanische middelen;  
+e.  de wijze waarop de besluitvorming tot stand komt en wordt vastgelegd ten aanzien van de aanvang, de continuering, de wijziging en de beëindiging van de toepassing van de mechanische middelen; 
 
-f. de wijze waarop betrokken personeelsleden of medewerkers periodiek worden getraind in de toepassing van mechanische middelen;  
+f.  de wijze waarop betrokken personeelsleden of medewerkers periodiek worden getraind in de toepassing van mechanische middelen; 
 
-g. de wijze van bekendmaking van het protocol en wijzigingen in het protocol.     
+g.  de wijze van bekendmaking van het protocol en wijzigingen in het protocol.    
 
 ### Artikel  7  
 
@@ -97,9 +97,9 @@ Deze regeling treedt in werking met ingang van 1 september 2001.
 
 ### Artikel  10  
 
-Deze regeling wordt aangehaald als: Regeling toepassing mechanische middelen jeugdigen.  
+Deze regeling wordt aangehaald als: Regeling toepassing mechanische middelen jeugdigen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Justitie, 
-A.H.Korthals    
+A.H.  Korthals      
