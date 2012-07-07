@@ -12,15 +12,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *wet:*[Wet arbeid vreemdelingen](../../../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md);  
+a.  *wet:* [Wet arbeid vreemdelingen](../../../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md);  
 
-b. *melding:* de verplichting voor een werkgever om vooraf schriftelijk te melden dat hij een vreemdeling in Nederland arbeid laat verrichten als bedoel in [artikel 2a, eerste lid, van de wet](../../../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md).    
+b.  *melding:* de verplichting voor een werkgever om vooraf schriftelijk te melden dat hij een vreemdeling in Nederland arbeid laat verrichten als bedoel in [artikel 2a, eerste lid, van de wet](../../../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md).   
 
 ### Artikel  2  
 
 ####Bevoegde instantie
 
-Het Uitvoeringsinstituut Werknemersverzekeringen is de instantie waaraan een werkgever de melding doet.  
+Het Uitvoeringsinstituut Werknemersverzekeringen is de instantie waaraan een werkgever de melding doet. 
 
 ### Artikel  3  
 
@@ -32,24 +32,24 @@ a. een door de werkgever schriftelijk en naar waarheid afgelegde verklaring, opg
 
 b. een kopie van het geldige identiteitsbewijs van de vreemdeling, en  
 
-c. bewijsstukken waaruit blijkt dat de vreemdeling rechtmatig in Nederland verblijft en arbeid mag verrichten.    
+c. bewijsstukken waaruit blijkt dat de vreemdeling rechtmatig in Nederland verblijft en arbeid mag verrichten.   
 
 ### Artikel  4  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 mei 2012.  
+Deze regeling treedt in werking met ingang van 1 mei 2012. 
 
 ### Artikel  5  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling melding Wet arbeid vreemdelingen.  
+Deze regeling wordt aangehaald als: Regeling melding Wet arbeid vreemdelingen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 23 april 2012   
 
 De 
-Minister van Sociale Zaken en Werkgelegenheid,
-H.G.J.Kamp   
+Minister van Sociale Zaken en Werkgelegenheid, 
+H.G.J. Kamp     

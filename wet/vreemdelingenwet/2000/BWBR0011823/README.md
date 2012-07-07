@@ -62,7 +62,11 @@ p. langdurig ingezetene: houder van een verblijfsvergunning voor onbepaalde tijd
 
 q. richtlijn asielprocedures: Richtlijn nr. 2005/85/EG van de Raad van de Europese Unie van 1 december 2005 betreffende minimumnormen voor de procedures in lidstaten voor de toekenning of intrekking van de vluchtelingenstatus (PbEU L 326);  
 
-r. Schengengrenscode: Verordening (EG) nr. 562/2006 van het Europees Parlement en de Raad van 15 maart 2006 tot vaststelling van een communautaire code betreffende de overschrijding van de grenzen door personen (Schengengrenscode) (PbEU L 105).    
+r. Schengengrenscode: Verordening (EG) nr. 562/2006 van het Europees Parlement en de Raad van 15 maart 2006 tot vaststelling van een communautaire code betreffende de overschrijding van de grenzen door personen (Schengengrenscode) (PbEU L 105);  
+
+s. terugkeerbesluit: het terugkeerbesluit, bedoeld in artikel 3, punt 4, van de richtlijn nr. 2008/115/EG van het Europees Parlement en de Raad van 16 december 2008 over de gemeenschappelijke normen en procedures in de lidstaten voor de terugkeer van onderdanen van derde landen die illegaal op hun grondgebied verblijven (PbEU L 348/98);  
+
+t. *inreisverbod:* het inreisverbod, bedoeld in artikel 3, punt 6, van de richtlijn, bedoeld onder s.    
 
 ### Artikel  2  
 
@@ -72,6 +76,208 @@ r. Schengengrenscode: Verordening (EG) nr. 562/2006 van het Europees Parlement e
 4.  De commissie heeft tot taak Onze Minister te adviseren over het vreemdelingenrecht en het beleid ter zake, waaronder begrepen wijzigingen van deze wet.   
 5.  Bij algemene maatregel van bestuur worden regels gesteld over de inrichting en de werkwijze van de commissie.   
 6.  De commissie is bevoegd bij een ieder schriftelijk of mondeling de inlichtingen in te winnen welke zij voor de vervulling van haar taak nodig acht.   
+
+### Hoofdstuk  1a  
+
+####Nationale visa
+
+### Afdeling  1  
+
+####Algemeen
+
+### Paragraaf  1  
+
+####Interdepartementale coördinatie
+
+### Artikel  2a*  
+
+1.  Indien het belang van de internationale betrekkingen naar het oordeel van Onze Minister van Buitenlandse Zaken betrokken is bij een besluit inzake verlening van een machtiging tot voorlopig verblijf beslist Onze Minister in overeenstemming met Onze Minister van Buitenlandse Zaken.   
+2.  Onze Minister kan aan het hoofd van de desbetreffende Nederlandse diplomatieke of consulaire vertegenwoordiging aanwijzingen geven over de uitvoering van de bij of krachtens dit hoofdstuk gestelde regels inzake de verlening van de machtiging tot voorlopig verblijf door de ambtenaren werkzaam op die vertegenwoordiging door tussenkomst van en voor zover het de buitenlandse betrekkingen kan raken in overeenstemming met Onze Minister van Buitenlandse Zaken.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het bepaalde in het eerste en tweede lid.   
+
+### Paragraaf  2  
+
+####Benodigde visa
+
+### Artikel  2b*  
+
+Een ten behoeve van de toegang tot Nederland door Onze Minister verleend visum waarvan de geldigheidsduur niet is verstreken, dan wel een door een bevoegde autoriteit van een andere staat verleend visum, dat krachtens verdrag of bindend besluit van een volkenrechtelijke organisatie daaraan is gelijkgesteld, geldt als het ingevolge artikel 3, eerste lid, onderdeel a, voor de toegang tot Nederland benodigde visum, onverminderd het overigens bij of krachtens dit hoofdstuk bepaalde.  
+
+### Paragraaf  3  
+
+####Bevoegdheid
+
+### Artikel  2c*  
+
+Onze Minister is bevoegd: 
+
+a. de aanvraag tot het verlenen van een machtiging tot voorlopig verblijf dan wel terugkeervisum in te willigen, af te wijzen dan wel niet in behandeling te nemen;  
+
+b. een machtiging tot voorlopig verblijf dan wel terugkeervisum te wijzigen, hetzij op aanvraag van de houder ervan, hetzij ambtshalve wegens veranderde omstandigheden;  
+
+c. een machtiging tot voorlopig verblijf dan wel terugkeervisum in te trekken of te annuleren.    
+
+### Paragraaf  4  
+
+####Leges; voorschriften, beperkingen en verplichtingen
+
+### Artikel  2d*  
+
+1.  Voor het behandelen, daaronder begrepen de toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), van een aanvraag tot verlening of wijziging van een machtiging tot voorlopig verblijf dan wel terugkeervisum, is de vreemdeling Onze Minister een bij ministeriële regeling vast te stellen vergoeding verschuldigd.   
+2.  Het eerste lid is niet van toepassing indien op grond van de [Rijkswet op de consulaire tarieven](../../../../rijkswet/rijkswet/op/de/consulaire/tarieven/BWBR0013618/README.md) reeds een vergoeding is verschuldigd.   
+
+### Artikel  2e*  
+
+1.  De machtiging tot voorlopig verblijf wordt verleend onder beperkingen, verband houdend met het doel waarvoor het verblijf wordt toegestaan. Aan de machtiging kunnen voorschriften worden verbonden.   
+2.  Onze Minister kan het terugkeervisum met het oog op de bescherming van de belangen waarop het bepaalde bij of krachtens deze wet betrekking heeft onder beperkingen verlenen en daaraan voorschriften verbinden.   
+3.  Onze Minister kan alsnog voorschriften aan een reeds verleende machtiging tot voorlopig verblijf of reeds verleend terugkeervisum verbinden, voorschriften die daaraan zijn verbonden wijzigen, alsnog beperkingen daaraan verbinden, beperkingen wijzigen, de geldigheidsduur inkorten dan wel de machtiging tot voorlopig verblijf of het terugkeervisum intrekken: 
+
+a. op verzoek van de vreemdeling;  
+
+b. indien uit naderhand gebleken feiten en omstandigheden komt vast te staan dat verlening ervan onjuist was;  
+
+c. indien feiten en omstandigheden zodanig zijn gewijzigd dat deze zich verzetten tegen de handhaving of ongewijzigde handhaving van het verleende; of  
+
+d. indien de vreemdeling de op hem rustende verplichtingen krachtens deze wet niet naleeft.     
+4.  Indien de vreemdeling nog geen toegang heeft verkregen kan Onze Minister de machtiging tot voorlopig verblijf annuleren op de gronden, vermeld in het derde lid.   
+
+### Paragraaf  5  
+
+####Buiten behandeling laten, hoorplicht, rechtsmiddelenclausule en motivering
+
+### Artikel  2f*  
+
+1.  In afwijking van [artikel 4:5, eerste en vierde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan Onze Minister een aanvraag om een machtiging tot voorlopig verblijf dan wel terugkeervisum buiten behandeling laten zonder de vreemdeling in de gelegenheid te hebben gesteld de aanvraag aan te vullen indien: 
+
+a. de door de vreemdeling ingediende aanvraag niet door de vreemdeling in persoon is ingediend;  
+
+b. voor de aanvraag in voorkomend geval geen gebruik is gemaakt van een daartoe voorgeschreven formulier dat volledig is ingevuld en ondertekend;  
+
+c. de aanvraag niet is gesteld in de Nederlandse, Franse of Engelse taal; of  
+
+d. de ter afdoening van de aanvraag verschuldigde leges niet zijn betaald.     
+2.  De [artikelen 4:7](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4:8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn niet van toepassing.   
+
+### Artikel  2g*  
+
+Indien Onze Minister overeenkomstig de aanvraag besluit, kan hij in afwijking van de [artikelen 3:45](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [3:47 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vermelding van de mogelijkheid om bezwaar te maken en van de motivering achterwege laten.  
+
+### Afdeling  2  
+
+####Machtiging tot voorlopig verblijf
+
+### Paragraaf  1  
+
+####Verlening en weigering
+
+### Artikel  2h*  
+
+1.  Onze Minister kan een machtiging tot voorlopig verblijf verlenen aan de vreemdeling die heeft aangetoond of ten behoeve van wie is aangetoond dat hij voldoet aan de bij of krachtens deze wet gestelde voorwaarden voor toegang en verlening van een verblijfsvergunning.   
+2.  Onze Minister kan in afwijking van het eerste lid een machtiging tot voorlopig verblijf verlenen indien daarmee een wezenlijk Nederlands belang is gediend of klemmende redenen van humanitaire aard daartoe nopen dan wel het belang van de internationale betrekkingen de verlening van een machtiging tot voorlopig verblijf vordert.   
+
+### Artikel  2i  
+
+1.  Onze Minister kan een machtiging tot voorlopig verblijf weigeren indien de vreemdeling niet heeft aangetoond dat hij voldoet aan de voorwaarden, bedoeld in artikel 2h, eerste lid, onverminderd het tweede lid van dat artikel.   
+2.  Onze Minister kan een machtiging tot voorlopig verblijf voorts weigeren indien het belang van de internationale betrekkingen zich tegen verlening van de machtiging tot voorlopig verblijf verzet of de vreemdeling niet voldoet aan het overigens bij of krachtens dit hoofdstuk bepaalde.   
+
+### Artikel  2j  
+
+1.  Indien Onze Minister besluit tot verlening van een machtiging tot voorlopig verblijf stelt hij de aanvrager daarvan schriftelijk in kennis. Een machtiging tot voorlopig verblijf kan tot uiterlijk drie maanden na de dagtekening van die kennisgeving worden afgegeven. In geval de machtiging tot voorlopig verblijf niet kan worden afgegeven in het land van herkomst of bestendig verblijf, op grond dat de Nederlandse vertegenwoordiging is gesloten of zich daar niet of niet langer een Nederlandse vertegenwoordiging bevindt, kan de Onze Minister de termijn, bedoeld in de tweede volzin, eenmaal met ten hoogste drie maanden verlengen.   
+2.  De geldigheidsduur van een machtiging tot voorlopig verblijf bedraagt ten hoogste drie maanden vanaf de datum van afgifte, met dien verstande dat een machtiging tot voorlopig verblijf slechts een maal kan worden benut voor het verkrijgen van toegang tot Nederland. De geldigheid van een machtiging tot voorlopig verblijf vervalt in elk geval met ingang van het tijdstip waarop de vreemdeling een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 14 heeft gedaan. De geldigheidsduur van een machtiging tot voorlopig verblijf kan niet worden verlengd.   
+3.  De geldigheidsduur van een machtiging tot voorlopig verblijf kan de geldigheidsduur van het document voor grensoverschrijding van de vreemdeling niet overschrijden, met dien verstande dat het document voor grensoverschrijding na verloop van de machtiging tot voorlopig verblijf nog tenminste drie maanden geldig moet zijn. Onze Minister kan in bijzondere gevallen ontheffing verlenen van het bepaalde in de eerste volzin.   
+
+### Paragraaf  2  
+
+####Aanvraag en afgifte
+
+### Artikel  2k  
+
+1.  In afwijking van [artikel 2:1 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geschiedt de aanvraag van een machtiging tot voorlopig verblijf: 
+
+a. bij de Nederlandse diplomatieke of consulaire vertegenwoordiging in het land van herkomst of van bestendig verblijf dan wel, bij gebreke daarvan, het dichtstbijzijnde land waar wel een vertegenwoordiging is gevestigd, dan wel bij het Kabinet van de Gouverneur van Aruba, van Curaçao, of van Sint Maarten aldaar, door de vreemdeling in persoon; of  
+
+b. bij Onze Minister door een referent. Onze Minister kan besluiten de aanvraag, ingediend door een referent, zijnde een gastgezin van een au pair of een onderneming of rechtspersoon, dan wel een vestiging daarvan, voor zover vereist ingeschreven in het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 2007](../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), die ten behoeve van het voorgenomen verblijf op grond van een machtiging tot voorlopig verblijf of het verblijf op grond van een verblijfsvergunning als bedoeld in artikel 14, niet te behandelen, indien die referent onjuiste gegevens heeft verstrekt dan wel gegevens heeft achtergehouden terwijl die gegevens tot afwijzing van een eerdere aanvraag tot het verlenen, verlengen of wijzigen van een visum of verblijfsvergunning hebben geleid of zouden hebben geleid van een vreemdeling voor wie als referent werd opgetreden. [Artikel 4:5, vierde lid, Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.     
+2.  De machtiging tot voorlopig verblijf wordt bij de vertegenwoordiging dan wel het Kabinet, bedoeld in het eerste lid, aan de vreemdeling in persoon afgegeven.   
+3.  Onze Minister kan in overeenstemming met Onze Minister van Buitenlandse Zaken vrijstelling dan wel ontheffing verlenen van de verplichtingen, bedoeld in het eerste en tweede lid.   
+
+### Paragraaf  3  
+
+####Vereiste gegevens; beslistermijn
+
+### Artikel  2l  
+
+1.  De vreemdeling dan wel de referent verstrekt Onze Minister de door hem voor de beoordeling van de aanvraag om een machtiging tot voorlopig verblijf verlangde gegevens en bescheiden desgevraagd in persoon.   
+2.  Met het oog op de beoordeling van het vereiste ten aanzien van het beschikken over voldoende middelen van bestaan, gesteld bij of krachtens deze wet, kan Onze Minister van de vreemdeling zekerheidstelling voor de daarmee gemoeide kosten verlangen tot een door Onze Minister te bepalen bedrag. Deze zekerheidsstelling kan mede omvatten het beschikken over een toereikende reisverzekering ter dekking van ziektekosten.   
+
+### Artikel  2m  
+
+1.  Onze Minister beslist binnen 90 dagen na ontvangst van een aanvraag om verlening of wijziging van een machtiging tot voorlopig verblijf. Onze Minister kan deze termijn verlengen met ten hoogste drie maanden.   
+2.  In afwijking van het eerste lid maakt Onze Minister de beslissing op een aanvraag om verlening van een machtiging tot voorlopig verblijf onder een beperking verband houdend met verblijf als houder van de Europese blauwe kaart bekend binnen 90 dagen en kan die termijn niet worden verlengd.   
+
+### Paragraaf  4  
+
+####Overige bepalingen
+
+### Artikel  2n  
+
+Onze Minister brengt de machtiging tot voorlopig verblijf aan in het document voor grensoverschrijding of op een blad waarop een visum kan worden aangebracht als bedoeld in artikel 1 van Verordening (EG) nr. 333/2002 van de Raad van de Europese Unie van 18 februari 2002 (PbEG 2002, L53/4).  
+
+### Afdeling  3  
+
+####Terugkeervisum
+
+### Artikel  2o  
+
+1.  Een terugkeervisum kan worden verleend voor de toegang tot Nederland van een vreemdeling die Nederland tijdelijk zal verlaten gedurende het tijdvak dat hij rechtmatig verblijf heeft op grond van artikel 8, aanhef en onder a tot en met h of l.   
+2.  Geen terugkeervisum wordt verleend ten behoeve van de terugkeer uit het land van herkomst van de vreemdeling die rechtmatig verblijf heeft op grond van artikel 8, aanhef en onder c en d.   
+3.  Geen terugkeervisum wordt verleend ten behoeve van de terugkeer uit het land van herkomst van de vreemdeling die een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in de artikelen 28 en 33 heeft gedaan en rechtmatig verblijf heeft op grond van artikel 8, aanhef en onder f, g of h.   
+
+### Artikel  2p  
+
+1.  Een terugkeervisum kan worden geweigerd indien: 
+
+a. de vreemdeling niet door overlegging van documenten aannemelijk heeft gemaakt dat sprake is van een dringende reden die geen uitstel van vertrek mogelijk maakt;  
+
+b. de vreemdeling niet zelfstandig beschikt over een geldig document voor grensoverschrijding;  
+
+c. de vreemdeling zich gedurende zijn verblijf in Nederland aan maatregelen van toezicht op grond van deze wet heeft onttrokken;  
+
+d. uit oogpunt van toezicht op grond van deze wet, opsporing of vervolging van strafbare feiten, tenuitvoerlegging van een vonnis of om andere gewichtige redenen bezwaar bestaat tegen vertrek uit Nederland van de vreemdeling;  
+
+e. het naar het oordeel van Onze Minister in de rede ligt dat binnen de geldigheidsduur van het terugkeervisum een beslissing als bedoeld in artikel 8, onderdeel f, g of h, kan worden verwacht;  
+
+f. de vreemdeling in afwachting is van de beslissing op diens aanvraag om een verblijfsvergunning als bedoeld in artikel 14 dan wel in afwachting is van de beslissing op een bezwaarschrift of een beroepschrift tegen een dergelijke beslissing en niet heeft beschikt over de vereiste machtiging tot voorlopig verblijf, overeenkomend met het verblijfsdoel waarvoor de verblijfsvergunning is aangevraagd, dan wel niet op grond van het bepaalde bij of krachtens deze wet van de verplichting tot het beschikken over een machtiging tot voorlopig verblijf is vrijgesteld of ontheven; of  
+
+g. de vreemdeling een gevaar vormt voor de openbare orde of de nationale veiligheid dan wel zich schuldig heeft gemaakt aan of verdacht wordt van terrorisme, oorlogsmisdaden, of andere misdaden tegen de menselijkheid.     
+2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de toepassing van de gronden, bedoeld in het eerste lid.   
+
+### Artikel  2q  
+
+1.  De geldigheidsduur van een terugkeervisum kan de geldigheidsduur van de aan de vreemdeling verleende verblijfsvergunning niet overschrijden en bedraagt ten hoogste een jaar. Het terugkeervisum kan worden verleend voor een of meer reizen.   
+2.  In afwijking van het eerste lid bedraagt de geldigheidsduur van een terugkeervisum ten behoeve van een vreemdeling die rechtmatig verblijf houdt op grond van artikel 8, onderdeel f, g of h, ten hoogste drie maanden en is het geldig voor één reis.   
+3.  Onze Minister kan vrijstelling dan wel ontheffing verlenen van het eerste en tweede lid.   
+4.  De geldigheidsduur van een terugkeervisum kan niet worden verlengd.   
+
+### Artikel  2r  
+
+Een terugkeervisum wordt door de vreemdeling in persoon aangevraagd. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de wijze van indiening en de behandeling van een aanvraag tot verlening van een terugkeervisum.  
+
+### Artikel  2s  
+
+Onze Minister beslist binnen twee weken na ontvangst van een aanvraag om verlening van een terugkeervisum. Onze Minister kan deze termijn verlengen met ten hoogste twee weken.  
+
+### Artikel  2t  
+
+Onze Minister brengt het terugkeervisum aan in het document voor grensoverschrijding of op een blad waarop een visum kan worden aangebracht als bedoeld in artikel 1 van Verordening (EG) nr. 333/2002 van de Raad van de Europese Gemeenschappen van 18 februari 2002 (PbEG 2002, L53/4).  
+
+### Afdeling  4  
+
+####Nadere regels
+
+### Artikel  2u  
+
+1.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de wijze van indiening en de behandeling van een aanvraag tot verlening of wijziging van een machtiging tot voorlopig verblijf dan wel terugkeervisum, daaronder begrepen de wijze waarop beschikkingen, kennisgevingen, mededelingen of berichten ingevolge dit hoofdstuk aan de vreemdeling of aan andere belanghebbenden worden bekendgemaakt.   
+2.  Bij of krachtens algemene maatregel van bestuur kan worden bepaald in welke gevallen aan de verplichtingen die krachtens dit hoofdstuk op de vreemdeling rusten kan worden voldaan door diens wettelijke vertegenwoordiger.   
 
 ### Hoofdstuk  2  
 
@@ -93,7 +299,7 @@ d. niet voldoet aan de voorwaarden die bij of krachtens algemene maatregel van b
 
 ### Artikel  4  
 
-1.  De vervoerder door wiens tussenkomst de vreemdeling aan een buitengrens of binnen het grondgebied van Nederland wordt gebracht, neemt de nodige maatregelen en houdt het toezicht dat redelijkerwijs van hem kan worden gevorderd om te voorkomen dat door de vreemdeling niet wordt voldaan aan artikel 5, eerste lid, onder a, van de Schengengrenscode of aan artikel 3, eerste lid, onder a, van deze wet.   
+1.  De vervoerder door wiens tussenkomst de vreemdeling aan een buitengrens of binnen het grondgebied van Nederland wordt gebracht, neemt de nodige maatregelen en houdt het toezicht dat redelijkerwijs van hem kan worden gevorderd om te voorkomen dat door de vreemdeling niet wordt voldaan aan artikel 5, eerste lid, onder a of b, van de Schengengrenscode of aan artikel 3, eerste lid, onder a, van deze wet.   
 2.  De vervoerder kan worden verplicht om een afschrift te nemen van het op de vreemdeling betrekking hebbende document voor grensoverschrijding en dit ter hand te stellen aan de ambtenaren belast met de grensbewaking.   
 3.  De vervoerder, bedoeld in het eerste lid, kan ten behoeve van de grensbewaking en het tegengaan van illegale immigratie worden verplicht passagiersgegevens te verzamelen en te verstrekken aan de ambtenaren belast met de grensbewaking.   
 4.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste tot en met het derde lid.   
@@ -287,6 +493,19 @@ g. de vreemdeling die behoort tot een bij algemene maatregel van bestuur aangewe
 h. de vreemdeling die houder is van een EG-verblijfsvergunning voor langdurig ingezetenen die is afgegeven door een andere staat die Partij is bij het Verdrag tot oprichting van de Europese Gemeenschap, dan wel de echtgenoot of het minderjarig kind is van die houder, in geval het gezin reeds was gevormd in die andere staat.     
 2.  De voordracht voor een krachtens het eerste lid, onder g, vast te stellen algemene maatregel van bestuur wordt niet gedaan dan nadat een ontwerp in de Staatscourant is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.   
 
+### Artikel  17a  
+
+1.  Een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14 wordt niet afgewezen met toepassing van artikel 16, eerste lid, onderdeel j, indien het betreft: 
+
+a. de vreemdeling die direct voorafgaand aan de aanvraag rechtmatig verblijf heeft gehad op grond van artikel 8, onder j;  
+
+b. de vreemdeling die in aanmerking komt voor verblijf onder een beperking als bedoeld in artikel 15;  
+
+c. de vreemdeling die minderjarig en alleenstaand is;  
+
+d. de vreemdeling die als slachtoffer of getuige-aangever als bedoeld in artikel 17, eerste lid, onder d, direct voorafgaand aan de aanvraag verblijf heeft gehad op grond van artikel 8, onder a, en in aanmerking komt voor verblijf onder een andere beperking.     
+2.  Bij algemene maatregel van bestuur kunnen andere categorieën worden aangewezen waarin de aanvraag, bedoeld in het eerste lid, niet wordt afgewezen, op grond dat de toepassing van artikel 16, eerste lid, onder j, van een onevenredige hardheid zou kunnen getuigen.   
+
 ### Artikel  18  
 
 1.  Een aanvraag tot het verlengen van de geldigheidsduur van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14 kan worden afgewezen indien: 
@@ -394,7 +613,7 @@ a. de wijze van indiening en behandeling van een aanvraag;
 b. de gegevens die de vreemdeling in persoon moet verstrekken;  
 
 c. de wijze waarop beschikkingen bij of krachtens deze wet ten aanzien van de vreemdeling gegeven, alsmede de bij of krachtens deze wet voorgeschreven kennisgevingen, mededelingen of berichten aan de vreemdeling of aan andere belanghebbenden worden bekendgemaakt. Daarbij kan worden bepaald, dat de bekendmaking van beschikkingen ook kan geschieden door middel van het toezenden of uitreiken van een document en door het stellen van aantekeningen in een daarbij aan te wijzen document.     
-2.  De vreemdeling is, in door Onze Minister te bepalen gevallen en volgens door Onze Minister te geven regels, leges verschuldigd terzake van de afdoening van een aanvraag. Daarbij kan Onze Minister tevens bepalen dat de vreemdeling voor de afgifte van een document waaruit het rechtmatig verblijf blijkt leges verschuldigd is. Als betaling achterwege blijft, wordt de aanvraag niet in behandeling genomen dan wel het document niet afgegeven.   
+2.  De vreemdeling is, in door Onze Minister te bepalen gevallen en volgens door Onze Minister te geven regels, leges verschuldigd terzake van de afdoening van een aanvraag. Daarbij kan Onze Minister tevens bepalen dat de vreemdeling voor de afgifte van een document waaruit het rechtmatig verblijf blijkt leges verschuldigd is. Als betaling achterwege blijft, wordt de aanvraag niet in behandeling genomen dan wel het document niet afgegeven. [Artikel 4:5, vierde lid, Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
 
 ### Paragraaf  4  
 
@@ -433,7 +652,7 @@ e. het wijzigen van een verblijfsvergunning voor onbepaalde tijd als bedoeld in 
 
 ### Artikel  27  
 
-1.  De beschikking waarbij een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14 of een verblijfsvergunning voor onbepaalde tijd als bedoeld in artikel 20 wordt afgewezen, heeft van rechtswege tot gevolg dat: 
+1.  De beschikking waarbij een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 14 of een verblijfsvergunning voor onbepaalde tijd als bedoeld in artikel 20 wordt afgewezen, geldt als terugkeerbesluit, tenzij reeds eerder een terugkeerbesluit tegen de vreemdeling is uitgevaardigd en aan de daaruit voortvloeiende terugkeerverplichting niet is voldaan, en heeft van rechtswege tot gevolg dat: 
 
 a. de vreemdeling niet langer rechtmatig verblijf heeft tenzij er een andere rechtsgrond voor rechtmatig verblijf van toepassing is;  
 
@@ -448,6 +667,7 @@ b. het rechtmatig verblijf van rechtswege is geëindigd;
 
 c. een verblijfsvergunning is ingetrokken of de geldigheidsduur ervan niet is verlengd.     
 3.  De gevolgen, bedoeld in het eerste lid, treden niet in indien de vreemdeling bezwaar of beroep heeft ingesteld en de werking van de beschikking is opgeschort.   
+4.  De beschikking, bedoeld in het eerste lid, kan tevens een inreisverbod inhouden.   
 
 ### Afdeling  4  
 
@@ -491,6 +711,7 @@ e. die als echtgenoot of echtgenote of minderjarig kind feitelijk behoort tot he
 f. die als partner of als meerderjarig kind zodanig afhankelijk is van de vreemdeling, bedoeld onder a tot en met d, dat hij om die reden behoort tot het gezin van deze vreemdeling, die dezelfde nationaliteit heeft als deze vreemdeling en gelijktijdig met deze vreemdeling Nederland is ingereisd dan wel is nagereisd binnen drie maanden, nadat aan de vreemdeling, bedoeld onder a tot en met d, de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28, is verleend.     
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het eerste lid, aanhef en onder a en b. Daarbij wordt bepaald in welke gevallen een verblijfsvergunning als bedoeld in het eerste lid wordt verleend aan de vreemdeling, bedoeld in onderdeel a of b.   
 3.  Bij of krachtens algemene maatregel van bestuur worden indicatoren aangewezen die in ieder geval worden betrokken in de beoordeling of er sprake is van een situatie als bedoeld in het eerste lid, onder d.   
+4.  De verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28, kan eveneens worden verleend aan een gezinslid als bedoeld in het eerste lid, onder e en f, dat slechts niet uiterlijk binnen drie maanden is nagereisd nadat aan de vreemdeling, bedoeld in het eerste lid, onder a tot en met d, een verblijfsvergunning als bedoeld in artikel 28 is verleend, indien binnen die drie maanden door of ten behoeve van dat gezinslid een machtiging tot voorlopig verblijf is aangevraagd.   
 
 ### Artikel  30  
 
@@ -677,7 +898,7 @@ c. het aantal ingediende aanvragen uit een bepaald land of uit een bepaalde regi
 
 ### Artikel  45  
 
-1.  De beschikking waarbij een aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28, of voor onbepaalde tijd, bedoeld in artikel 33, wordt afgewezen, heeft van rechtswege tot gevolg dat: 
+1.  De beschikking waarbij een aanvraag tot het verlenen van de verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 28, of voor onbepaalde tijd, bedoeld in artikel 33, wordt afgewezen, geldt als terugkeerbesluit, tenzij reeds eerder een terugkeerbesluit tegen de vreemdeling is uitgevaardigd en aan de daaruit voortvloeiende terugkeerverplichting niet is voldaan, en heeft van rechtswege tot gevolg dat: 
 
 a. de vreemdeling niet langer rechtmatig in Nederland verblijft tenzij een andere rechtsgrond voor rechtmatig verblijf als bedoeld in artikel 8 van toepassing is;  
 
@@ -698,6 +919,7 @@ b. een verblijfsvergunning is ingetrokken of niet verlengd.
 5.  De vreemdeling op wie het besluit als bedoeld in het vierde lid vantoepassing is, wordt geacht rechtmatig verblijf als bedoeld in artikel 8, onder j, te hebben.   
 6.  De in het eerste lid bedoelde gevolgen van de beschikking treden niet in zolang de uitzetting van de vreemdeling op grond van de richtlijn tijdelijke bescherming achterwege blijft. De reeds ingetreden gevolgen worden opgeschort, indien Onze Minister heeft vastgesteld dat uitzetting op grond van de richtlijn tijdelijke bescherming achterwege blijft. De opgeschorte gevolgen, bedoeld in het eerste lid, treden opnieuw in na afloop van de tijdelijke bescherming.   
 7.  Het verblijf van de vreemdeling, bedoeld in het zesde lid, wordt gelijkgesteld met rechtmatig verblijf in de zin van artikel 8, onder f.   
+8.  De beschikking, bedoeld in het eerste lid, kan tevens een inreisverbod inhouden.   
 
 ### Hoofdstuk  4  
 
@@ -811,7 +1033,11 @@ e. aanmelding binnen een bepaalde termijn na binnenkomst in Nederland;
 
 f. periodieke aanmelding;  
 
-g. het inleveren van het document of schriftelijke verklaring als bedoeld in artikel 9 waaruit het rechtmatig verblijf blijkt.     
+g. het inleveren van het document of schriftelijke verklaring als bedoeld in artikel 9 waaruit het rechtmatig verblijf blijkt;  
+
+h. het stellen van zekerheid;  
+
+i. het overleggen van documenten, anders dan bedoeld onder g.     
 2.  In gevallen waarin Onze Minister zulks in het belang van de openbare orde of de nationale veiligheid nodig oordeelt, kan hij aan een vreemdeling een individuele verplichting tot periodieke aanmelding bij de korpschef opleggen.   
 
 ### Artikel  55  
@@ -856,14 +1082,17 @@ b. die rechtmatig verblijf heeft op grond van artikel 8, onder f, g en h.
 2.  Indien de voor de terugkeer van de vreemdeling noodzakelijke bescheiden voorhanden zijn, dan wel binnen korte termijn voorhanden zullen zijn, wordt het belang van de openbare orde geacht de bewaring van de vreemdeling te vorderen, tenzij de vreemdeling rechtmatig verblijf heeft gehad op grond van artikel 8, onder a tot en met e, en l.   
 3.  Bewaring van een vreemdeling blijft achterwege indien en wordt beëindigd zodra hij te kennen geeft Nederland te willen verlaten en hiertoe voor hem ook gelegenheid bestaat.   
 4.  Bewaring krachtens het eerste lid, onder b, of het tweede lid duurt in geen geval langer dan vier weken. Indien voorafgaande aan de beslissing op de aanvraag toepassing is gegeven aan artikel 39, duurt de bewaring krachtens het eerste lid, onder b, in geen geval langer dan zes weken.   
+5.  Onverminderd het vierde lid duurt de bewaring krachtens het eerste lid niet langer dan zes maanden.   
+6.  In afwijking van het vijfde lid en onverminderd het vierde lid kan de bewaring krachtens het eerste lid ten hoogste met nog eens twaalf maanden worden verlengd, indien de uitzetting, alle redelijke inspanningen ten spijt, wellicht meer tijd zal vergen, op grond dat de vreemdeling niet meewerkt aan zijn uitzetting of de daartoe benodigde documentatie uit derde landen nog ontbreekt.   
+7.  Het vijfde en zesde lid zijn van overeenkomstige toepassing op de vreemdeling aan wie de verplichting of maatregel, bedoeld in artikel 6, eerste of tweede lid, dan wel artikel 58 is opgelegd.   
 
 ### Artikel  60  
 
-Bij algemene maatregel van bestuur worden nadere regels gegeven omtrent de toepassing van dit hoofdstuk. Daarbij kan worden voorzien in de mogelijkheid van verhaal van de kosten van bewaring op de vreemdeling zelf en, indien hij minderjarig is, op degenen die het wettig gezag over hem uitoefenen.  
+Bij of krachtens algemene maatregel van bestuur worden nadere regels gegeven omtrent de toepassing van dit hoofdstuk. Daarbij kan worden voorzien in de mogelijkheid van verhaal van de kosten van bewaring op de vreemdeling zelf en, indien hij minderjarig is, op degenen die het wettig gezag over hem uitoefenen.  
 
 ### Hoofdstuk  6  
 
-####Vertrek, uitzetting en ongewenstverklaring
+####Vertrek, uitzetting, inreisverbod en ongewenstverklaring
 
 ### Afdeling  1  
 
@@ -877,20 +1106,27 @@ Bij algemene maatregel van bestuur worden nadere regels gegeven omtrent de toepa
 
 ### Artikel  62  
 
-1.  Nadat het rechtmatig verblijf van de vreemdeling is geëindigd, dient hij Nederland uit eigen beweging binnen vier weken te verlaten.   
-2.  In afwijking van het eerste lid, dient de vreemdeling, indien de beroepstermijn, bedoeld in artikel 69, ongebruikt verstrijkt en tijdens die termijn de werking van de beschikking, waarbij de aanvraag is afgewezen of de verblijfsvergunning is ingetrokken dan wel niet is verlengd, is opgeschort, Nederland onmiddellijk te verlaten.   
-3.  In afwijking van het eerste lid, dient de vreemdeling: 
+1.  Nadat tegen de vreemdeling een terugkeerbesluit is uitgevaardigd dan wel, indien het een gemeenschapsonderdaan betreft, nadat het rechtmatig verblijf van de vreemdeling is geëindigd, dient hij Nederland uit eigen beweging binnen vier weken te verlaten.   
+2.  Onze Minister kan de voor een vreemdeling geldende termijn, bedoeld in het eerste lid, verkorten, dan wel, in afwijking van het eerste lid, bepalen dat een vreemdeling Nederland onmiddellijk moet verlaten, indien: 
 
-a. wiens rechtmatig verblijf op grond van artikel 8, onder i, is geëindigd;  
+a. een risico bestaat dat de vreemdeling zich aan het toezicht zal onttrekken;  
 
-b. die onmiddellijk voorafgaand aan zijn binnenkomst in Nederland geen rechtmatig verblijf heeft gehad; of  
+b. de aanvraag van de vreemdeling tot het verlenen van een verblijfsvergunning of tot het verlengen van de geldigheidsduur van een verblijfsvergunning is afgewezen als kennelijk ongegrond of wegens het verstrekken van onjuiste of onvolledige gegevens; of  
 
-c. wiens aanvraag is afgewezen binnen een bij algemene maatregel van bestuur te bepalen aantal dagen en die reeds eerder een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 heeft ingediend,   Nederland onmiddellijk te verlaten.   
-4.  Onze Minister kan, in afwijking van het eerste lid, de vertrektermijn verkorten tot minder dan vier weken: 
+c. de vreemdeling een gevaar vormt voor de openbare orde, de openbare veiligheid of de nationale veiligheid.     
+3.  Onze Minister kan de voor een vreemdeling geldende termijn, bedoeld in het eerste lid, verlengen, rekening houdend met de specifieke omstandigheden van het individuele geval. Bij ministeriële regeling worden regels gesteld over de duur van de verlenging en worden de gevallen aangewezen waarin de termijn kan worden verlengd.   
 
-a. in het belang van de uitzetting, of  
+### Artikel  62a  
 
-b. in het belang van de openbare orde of de nationale veiligheid.     
+1.  Onze Minister stelt de vreemdeling, niet zijnde gemeenschapsonderdaan, die niet of niet langer rechtmatig verblijf heeft, schriftelijk in kennis van de verplichting Nederland uit eigen beweging te verlaten en van de termijn waarbinnen hij aan die verplichting moet voldoen, tenzij: 
+
+a. reeds eerder een terugkeerbesluit tegen de vreemdeling is uitgevaardigd en aan de daaruit voortvloeiende terugkeerverplichting niet is voldaan,  
+
+b. de vreemdeling in bezit is van een door een andere lidstaat afgegeven geldige verblijfsvergunning of andere toestemming tot verblijf, of  
+
+c. de vreemdeling door een andere lidstaat van de Europese Unie wordt teruggenomen op grond van een op 13 januari 2009 geldende bilaterale of multilaterale overeenkomst of regeling.     
+2.  De kennisgeving, bedoeld in het eerste lid, geldt als terugkeerbesluit en kan tevens een inreisverbod inhouden.   
+3.  De vreemdeling, bedoeld in het eerste lid, onderdeel b, wordt opgedragen zich onmiddellijk naar het grondgebied van de betrokken lidstaat te begeven. Indien dit bevel niet wordt nageleefd of indien om redenen van openbare orde of nationale veiligheid het onmiddellijke vertrek van vreemdeling is vereist, wordt tegen de vreemdeling een terugkeerbesluit uitgevaardigd.   
 
 ### Afdeling  2  
 
@@ -923,11 +1159,49 @@ Bij algemene maatregel van bestuur worden regels gesteld omtrent de toepassing v
 
 ### Afdeling  3  
 
+####Inreisverbod
+
+### Artikel  66a  
+
+1.  Onze Minister vaardigt een inreisverbod uit tegen de vreemdeling, die geen gemeenschapsonderdaan is, op wie artikel 64 niet van toepassing is en die Nederland: 
+
+a. onmiddellijk moet verlaten ingevolge artikel 62, tweede lid, of  
+
+b. niet uit eigen beweging binnen de daarvoor geldende termijn heeft verlaten, in welk laatste geval het inreisverbod slechts door middel van een zelfstandige beschikking wordt uitgevaardigd dan wel een beschikking die mede strekt tot wijziging van het reeds gegeven terugkeerbesluit.     
+2.  Onze Minister kan een inreisverbod uitvaardigen tegen de vreemdeling, die geen gemeenschapsonderdaan is en die Nederland niet onmiddellijk moet verlaten.   
+3.  De vreemdeling tegen wie een inreisverbod is uitgevaardigd wordt ter fine van weigering van de toegang en het verblijf gesignaleerd in de daartoe bij of krachtens een verdrag, een EU-verordening, -richtlijn, of -besluit of een algemene maatregel van bestuur aangewezen informatie- dan wel signaleringssystemen.   
+4.  Het inreisverbod wordt gegeven voor een bepaalde duur, die ten hoogste vijf jaren bedraagt, tenzij de vreemdeling naar het oordeel van Onze Minister een ernstige bedreiging vormt voor de openbare orde, de openbare veiligheid of de nationale veiligheid. De duur wordt berekend met ingang van de datum waarop de vreemdeling Nederland daadwerkelijk heeft verlaten.   
+5.  Indien de bekendmaking van de beschikking, waarbij het inreisverbod is uitgevaardigd, geschiedt door toezending, wordt van de beschikking mededeling gedaan in de Staatscourant.   
+6.  In afwijking van artikel 8 kan de vreemdeling jegens wie een inreisverbod geldt of die is gesignaleerd ter fine van weigering van de toegang geen rechtmatig verblijf hebben, met uitzondering van het rechtmatig verblijf: 
+
+a. van de vreemdeling die een eerste aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 28 heeft ingediend, zolang op die aanvraag nog niet is beslist;  
+
+b. bedoeld in artikel 8, onder j, en  
+
+c. van de vreemdeling wiens uitzetting op grond van een rechterlijke beslissing achterwege dient te blijven totdat op het bezwaarschrift of beroepschrift is beslist.     
+7.  In afwijking van het zesde lid en artikel 8 en met uitzondering van het rechtmatig verblijf van de vreemdeling die een eerste aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 28 heeft ingediend zolang op die aanvraag nog niet is beslist, kan de vreemdeling jegens wie een inreisverbod geldt geen rechtmatig verblijf hebben, in geval de vreemdeling: 
+
+a. bij onherroepelijk geworden rechtelijk vonnis is veroordeeld wegens een misdrijf waartegen een gevangenisstraf van drie jaren of meer is bedreigd dan wel hem ter zake de maatregel als bedoeld in [artikel 37a van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is opgelegd;  
+
+b. een gevaar vormt voor de openbare orde of de nationale veiligheid;  
+
+c. naar het oordeel van Onze Minister een ernstige bedreiging vormt als bedoeld in het vierde lid, dan wel  
+
+d. ingevolge een verdrag of in het belang van de internationale betrekkingen van Nederland ieder verblijf dient te worden ontzegd.     
+8.  In afwijking van het eerste lid kan Onze Minister om humanitaire of andere redenen afzien van het uitvaardigen van een inreisverbod.   
+
+### Artikel  66b  
+
+1.  Onze Minister kan ambtshalve of wegens gewijzigde omstandigheden dan wel op aanvraag van de vreemdeling besluiten tot opheffing of tijdelijke opheffing van het inreisverbod.   
+2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de toepassing van deze afdeling.   
+
+### Afdeling  4  
+
 ####Ongewenstverklaring
 
 ### Artikel  67  
 
-1.  De vreemdeling kan door Onze Minister ongewenst worden verklaard: 
+1.  Tenzij afdeling 3 van toepassing is, kan Onze Minister de vreemdeling ongewenst verklaren: 
 
 a. indien hij niet rechtmatig in Nederland verblijft en bij herhaling een bij deze wet strafbaar gesteld feit heeft begaan;  
 
@@ -984,6 +1258,7 @@ e. in het belang van de internationale betrekkingen van Nederland.
 1.  Deze afdeling is van toepassing indien de afdelingen 3 en 5 van dit hoofdstuk niet van toepassing zijn.   
 2.  Een beschikking omtrent de afgifte van een visum, waaronder begrepen een machtiging tot voorlopig verblijf, wordt voor de toepassing van dit hoofdstuk gelijkgesteld met een beschikking omtrent een verblijfsvergunning regulier gegeven krachtens deze wet.   
 3.  Voor de toepassing van deze afdeling wordt met een beschikking tevens gelijkgesteld een handeling van een bestuursorgaan ten aanzien van een vreemdeling als zodanig.   
+4.  Voor de toepassing van deze afdeling wordt met een beschikking eveneens gelijk gesteld een kennisgeving als bedoeld in artikel 62a, eerste lid.   
 
 ### Artikel  73  
 
@@ -999,6 +1274,7 @@ c. 21, eerste lid, onder e of f;
 d. 22, eerste lid, onder c.     
 3.  Het eerste lid is voorts niet van toepassing indien het besluit inhoudt de afwijzing van een herhaalde aanvraag of indien het bezwaarschrift of het administratief beroepschrift niet tijdig is ingediend.   
 4.  Het eerste lid is evenmin van toepassing indien de vreemdeling rechtens zijn vrijheid is of wordt ontnomen op grond van artikel 59.   
+5.  Het eerste lid is, voor zover het betreft de opschortende werking gedurende de termijn voor het maken van bezwaar of het instellen van administratief beroep zolang geen bezwaar is gemaakt of administratief beroep is ingesteld, niet van toepassing op de verplichting, bedoeld in artikel 62, eerste lid.   
 
 ### Paragraaf  2  
 
@@ -1010,7 +1286,9 @@ In afwijking van [artikel 7:1 van de Algemene wet bestuursrecht](../../../../wet
 
 a. is gegeven op grond van de artikelen 54, tweede lid, 56 of  59;  
 
-b. een aanwijzing inhoudt overeenkomstig de artikelen 55, 57 of  58.    
+b. een aanwijzing inhoudt overeenkomstig de artikelen 55, 57 of  58;  
+
+c. een kennisgeving inhoudt overeenkomstig artikel 62a, tweede lid.    
 
 ### Artikel  76  
 
@@ -1073,7 +1351,8 @@ c. de afwijzing van de aanvraag op grond van artikel 30, eerste lid, onder a, of
 d. een besluit als bedoeld in de artikelen 43 en 45, vierde lid.     
 3.  Het eerste lid is niet van toepassing indien het beroepschrift niet tijdig is ingediend.   
 4.  Het eerste lid is voorts niet van toepassing indien de vreemdeling rechtens zijn vrijheid is of wordt ontnomen op grond van artikel 6 of  59.   
-5.  Het tweede lid, onder a en b, en het derde en vierde lid zijn niet van toepassing, indien de vreemdeling tijdelijke bescherming heeft.   
+5.  Het eerste lid is, voor zover het betreft de opschortende werking gedurende de beroepstermijn zolang geen beroep is ingesteld, niet van toepassing op de verplichting, bedoeld in artikel 62, eerste lid.   
+6.  Het tweede lid, onder a en b, en het derde en vierde lid zijn niet van toepassing, indien de vreemdeling tijdelijke bescherming heeft.   
 
 ### Artikel  83  
 
@@ -1166,6 +1445,7 @@ In afwijking van [artikel 8:86 van de Algemene wet bestuursrecht](../../../../we
 2.  De rechtbank bepaalt onmiddellijk het tijdstip van het onderzoek ter zitting. De zitting vindt uiterlijk op de veertiende dag na ontvangst van het beroepschrift dan wel de kennisgeving plaats. De rechtbank roept de vreemdeling op om in persoon dan wel in persoon of bij raadsman en Onze Minister om bij gemachtigde te verschijnen teneinde te worden gehoord. In afwijking van [artikel 8:42, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de in dat artikel bedoelde termijn niet worden verlengd.   
 3.  De rechtbank doet mondeling of schriftelijk uitspraak. De schriftelijke uitspraak wordt binnen zeven dagen na de sluiting van het onderzoek gedaan. In afwijking van [artikel 8:66, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de in dat artikel bedoelde termijn niet worden verlengd.   
 4.  Indien de rechtbank bij het beroep van oordeel is dat de toepassing of tenuitvoerlegging van de maatregel in strijd is met deze wet dan wel bij afweging van alle daarbij betrokken belangen in redelijkheid niet gerechtvaardigd is, verklaart zij het beroep gegrond. In dat geval beveelt de rechtbank de opheffing van de maatregel of een wijziging van de wijze van tenuitvoerlegging daarvan.   
+5.  Het eerste, derde en vierde lid zijn van overeenkomstige toepassing op een besluit tot verlenging van een vrijheidsontnemende maatregel als bedoeld in artikel 59, zesde lid. In afwijking van [artikel 8:57 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de rechtbank ook zonder toestemming van partijen bepalen dat het onderzoek ter zitting achterwege blijft.   
 
 ### Artikel  95  
 
@@ -1274,8 +1554,9 @@ d. op welke wijze wordt gewaarborgd dat de verwerkte persoonsgegevens slechts wo
 1.  Met hechtenis van ten hoogste zes maanden of geldboete van de tweede categorie wordt gestraft overtreding van bij ministeriële regeling aan te wijzen voorschriften vastgesteld bij of krachtens de Schengengrenscode, overtreding van een voorschrift, vastgesteld bij of krachtens de artikelen 5, eerste en tweede lid, 46, tweede lid, aanhef, en onder b, alsmede handelen in strijd met artikel 56, eerste lid, dan wel handelen in strijd met een verplichting opgelegd bij of krachtens de artikelen 6, eerste lid, 54, 55, 57, eerste lid, 58, eerste lid, of 65, derde lid.   
 2.  Overtreding van een voorschrift, vastgesteld bij of krachtens artikel 4, eerste tot en met derde lid, wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de vierde categorie.   
 3.  De in het eerste en tweede lid strafbaar gestelde feiten worden beschouwd als overtredingen.   
-4.  Met de opsporing van de in het eerste lid strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de ambtenaren belast met de grensbewaking en ambtenaren belast met het vreemdelingentoezicht. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een aanwijzing, vordering of handeling, gedaan of ondernomen door henzelf.   
+4.  Met de opsporing van de in het eerste en tweede lid strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de ambtenaren belast met de grensbewaking en ambtenaren belast met het vreemdelingentoezicht. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een aanwijzing, vordering of handeling, gedaan of ondernomen door henzelf.   
 5.  In afwijking van het eerste lid wordt handelen in strijd met een verplichting, opgelegd bij of krachtens artikel 54, eerste lid, onder b of e, gestraft met ten hoogste een hechtenis van een maand of een geldboete van de tweede categorie, indien het feit wordt begaan door een gemeenschapsonderdaan. Het derde lid en de eerste volzin van het vierde lid zijn van overeenkomstige toepassing.   
+6.  Het eerste lid is van overeenkomstige toepassing ten aanzien van de vreemdeling die in Nederland verblijft terwijl hij weet of ernstige reden heeft te vermoeden dat tegen hem een inreisverbod is uitgevaardigd, indien het inreisverbod is gegeven anders dan met toepassing van artikel 66a, zevende lid. Het derde lid en de eerste volzin van het vierde lid zijn eveneens van overeenkomstige toepassing.   
 
 ### Paragraaf  3  
 
@@ -1283,11 +1564,11 @@ d. op welke wijze wordt gewaarborgd dat de verwerkte persoonsgegevens slechts wo
 
 ### Artikel  109  
 
-1.  Bij algemene maatregel van bestuur kunnen, ter uitvoering van een voor Nederland bindend verdrag of besluit van een volkenrechtelijke organisatie, bepalingen van deze wet geheel of gedeeltelijk buiten werking worden gesteld, indien dat, naar het gevoelen van de Ministerraad, noodzakelijk is om binnen twaalf maanden uitvoering te geven aan het verdrag of het besluit en daartoe deze wet in overeenstemming moet worden gebracht met het verdrag of het besluit.   
+1.  Bij algemene maatregel van bestuur kunnen, ter uitvoering van een voor Nederland bindend verdrag, EU-verordening, -richtlijn of -besluit, bepalingen van deze wet geheel of gedeeltelijk buiten werking worden gesteld, indien dat, naar het gevoelen van de Ministerraad, noodzakelijk is om binnen twaalf maanden uitvoering te geven aan het verdrag of het besluit en daartoe deze wet in overeenstemming moet worden gebracht met het verdrag of het besluit.   
 2.  De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd.   
 3.  Onze Minister bevordert dat zo spoedig mogelijk na de vaststelling van een krachtens het eerste lid vastgestelde algemene maatregel van bestuur een voorstel van wet bij de Staten-Generaal wordt ingediend, dat ertoe strekt de wet in overeenstemming te brengen met het verdrag of besluit, bedoeld in het eerste lid. Indien het voorstel wordt ingetrokken of indien een van de beide kamers der Staten-Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur terstond ingetrokken. Indien het voorstel tot wet wordt verheven, vervalt de algemene maatregel van bestuur op het tijdstip van inwerkingtreding van die wet.   
-4.  Ter uitvoering van een verdrag waarbij de grenscontrole is verlegd naar buitengrenzen, wordt in de artikelen 5, tweede lid, 54, eerste lid, aanhef en onder a, en e, 56, tweede lid, alsmede 59, derde lid, onder «Nederland» mede verstaan het grondgebied van andere bij dat verdrag aangesloten landen waarover de werking van dat verdrag zich uitstrekt.   
-5.  Ter uitvoering van een verdrag als bedoeld in het vierde lid wordt in artikel 12, eerste lid, onder «openbare orde» alsmede «nationale veiligheid» steeds mede verstaan de openbare orde in, onderscheidenlijk de nationale veiligheid van andere bij dat verdrag aangesloten landen.   
+4.  Ter uitvoering van een verdrag, EU-verordening, -richtlijn of -besluit, op grond waarvan de grenscontrole plaatsvindt aan buitengrenzen, wordt in de artikelen 5, tweede lid, 54, eerste lid, aanhef en onder a en e, 56, tweede lid, 59, derde lid, en 66a, vierde lid, onder «Nederland» mede verstaan de gebieden waarop dat verdrag, die verordening, die richtlijn of dat besluit van toepassing is.   
+5.  Ter uitvoering van een verdrag, EU-verordening, -richtlijn of -besluit, bedoeld in het vierde lid, wordt in artikel 3, eerste lid, en artikel 12, eerste lid, onder «openbare orde» alsmede «nationale veiligheid» steeds mede verstaan de openbare orde in, onderscheidenlijk de nationale veiligheid van andere bij dat verdrag aangesloten staten.   
 
 ### Artikel  110  
 

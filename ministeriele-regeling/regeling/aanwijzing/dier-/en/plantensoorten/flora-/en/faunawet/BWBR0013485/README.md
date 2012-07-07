@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Regeling aanwijzing dier- en plantensoorten Flora- en faunawet
+##Regeling aanwijzing dier- en plantensoorten Flora- en faunawet 
 
 De Staatssecretaris van Landbouw, Natuurbeheer en Visserij,  
 Gelet op het Verdrag inzake het behoud van wilde dieren en planten en hun natuurlijk leefmilieu in Europa (Trb. 1979, 175);
@@ -18,15 +18,15 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. wet:  [Flora- en faunawet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);    b. basisverordening:  verordening (EG) nr. 338/97 van de Raad van de Europese Unie van 9 december 1996 inzake de bescherming van in het wild levende dier- en plantensoorten door controle op het desbetreffende handelsverkeer (PbEG 1997, L 61);    c. richtlijn 92/43/EEG:  richtlijn nr. 92/43/EEG van de Raad van de Europese Gemeenschappen van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna (PbEG L 206);    d. verordening (EG) 1007/2009:  verordening (EG) nr. 1007/2009 van het Europees Parlement en de Raad van de Europese Unie van 16 september 2009 betreffende de handel in zeehondenproducten (PbEU L 286).     
+In deze regeling wordt verstaan onder:   a. wet:   [Flora- en faunawet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);    b.  basisverordening:   verordening (EG) nr. 338/97 van de Raad van de Europese Unie van 9 december 1996 inzake de bescherming van in het wild levende dier- en plantensoorten door controle op het desbetreffende handelsverkeer (PbEG 1997, L 61);    c.  richtlijn 92/43/EEG:   richtlijn nr. 92/43/EEG van de Raad van de Europese Gemeenschappen van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna (PbEG L 206);   d. verordening (EG) 1007/2009:verordening (EG) nr. 1007/2009 van het Europees Parlement en de Raad van de Europese Unie van 16 september 2009 betreffende de handel in zeehondenproducten (PbEU L 286).  
 
 ### Artikel  2  
 
-Als beschermde inheemse plantensoort als bedoeld in [artikel 3, tweede lid, van de wet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) zijn aangewezen de in bijlage 1 bij deze regeling genoemde plantensoorten, met inbegrip van de bij deze bijlage behorende voetnoot.  
+Als beschermde inheemse plantensoort als bedoeld in [artikel 3, tweede lid, van de wet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) zijn aangewezen de in bijlage 1 bij deze regeling genoemde plantensoorten, met inbegrip van de bij deze bijlage behorende voetnoot. 
 
 ### Artikel  3  
 
-Als beschermde inheemse diersoort als bedoeld in [artikel 4, derde lid, van de wet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) zijn aangewezen de in bijlage 2 bij deze regeling genoemde diersoorten.  
+Als beschermde inheemse diersoort als bedoeld in [artikel 4, derde lid, van de wet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) zijn aangewezen de in bijlage 2 bij deze regeling genoemde diersoorten. 
 
 ### Artikel  4  
 
@@ -43,19 +43,19 @@ a. de soorten genoemd in de bijlagen B, C en D bij de basisverordening, met inac
 
 b. Castor canadensis (Canadese bever), Canis latrans (Coyote), Martes zibellina (sabelmarter), Procycon lotor (wasbeer), Ondatra zibethicus (muskusrat), Martes pennanti (Canadese marter), Taxidea taxus (Canadese das) en Martes americana (Amerikaanse marter);  
 
-c. Zeehond als bedoeld in artikel 2, eerste onderdeel, van verordening (EG) 1007/2009.     
+c. Zeehond als bedoeld in artikel 2, eerste onderdeel, van verordening (EG) 1007/2009.    
 
 ### Artikel  5  
 
-Een wijziging van bijlage IV bij richtlijn 92/43/EEG geldt voor de toepassing van deze regeling met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.  
+Een wijziging van bijlage IV bij richtlijn 92/43/EEG geldt voor de toepassing van deze regeling met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven. 
 
 ### Artikel  6  
 
-Deze regeling treedt in werking op het tijdstip waarop de [artikelen 3, tweede lid](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), [4, derde lid](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), en [5, tweede lid, van de Flora- en faunawet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) in werking treden.  
+Deze regeling treedt in werking op het tijdstip waarop de [artikelen 3, tweede lid](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), [4, derde lid](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), en [5, tweede lid, van de Flora- en faunawet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) in werking treden. 
 
 ### Artikel  7  
 
-Deze regeling wordt aangehaald als: Regeling aanwijzing dier- en plantensoorten Flora- en faunawet.  
+Deze regeling wordt aangehaald als: Regeling aanwijzing dier- en plantensoorten Flora- en faunawet. 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
@@ -63,13 +63,13 @@ Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden g
 
 De 
 Staatssecretaris van Landbouw, Natuurbeheer en Visserij, 
-G.H.Faber   
+G.H. Faber     
 
-### Bijlage  1  
+### Bijlage 1  
 
 ####lijst met beschermde inheemse plantensoorten als bedoeld in artikel 2 
 
-|  *Nederlandse naam*   |  *wetenschappelijke naam*   |  *motief voor opname*   |
+| *Nederlandse naam*  | *wetenschappelijke naam*  | *motief voor opname*  |
 |---|---|---|
 | Aangebrande orchis  | Orchis ustulata  | d  |
 | Aapjesorchis  | Orchis simia  | a  |
@@ -83,7 +83,7 @@ G.H.Faber
 | Dennenorchis  | Goodyera repens  | a  |
 | Drijvende waterweegbree  | Luronium natans  | a  |
 | Geelgroene wespenorchis  | Epipactis muelleri  | a  |
-| Gevlekte orchis  <sup> 1   inclusief Bosorchis - Dactylorhiza fuchsii, en Veenorchis - Dactylorhiza sphagnicola    </sup> | Dactylorhiza maculata  | a  |
+| Gevlekte orchis <sup> 1   inclusief Bosorchis - Dactylorhiza fuchsii, en Veenorchis - Dactylorhiza sphagnicola  </sup>  |  Dactylorhiza maculata  | a  |
 | Groene nachtorchis  | Coeloglossum viride  | a  |
 | Groenknolorchis  | Liparis loeselii  | a  |
 | Groot zeegras  | Zostera marina  | a  |
@@ -118,46 +118,49 @@ G.H.Faber
 
 De letters a tot en met d in de derde kolom corresponderen met de onderdelen a tot en met d van [artikel 3, eerste lid, van de wet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) en refereren naar de motieven voor opname in deze lijst van beschermde inheemse plantensoorten die van nature in Nederland voorkomen en die: 
 
-a. in hun voortbestaan worden bedreigd of het gevaar lopen in hun voortbestaan te worden bedreigd;  
+a.  in hun voortbestaan worden bedreigd of het gevaar lopen in hun voortbestaan te worden bedreigd;  
 
 b. niet noodzakelijkerwijs in hun voortbestaan worden bedreigd of dat gevaar lopen, doch ter bescherming waarvan maatregelen noodzakelijk zijn ter voorkoming van overmatige benutting;  
 
-c. uit Nederland zijn verdwenen doch ten aanzien waarvan gerede kans op terugkeer bestaat of  
+c.  uit Nederland zijn verdwenen doch ten aanzien waarvan gerede kans op terugkeer bestaat of  
 
-d. zodanige gelijkenis vertonen met soorten die zijn aangewezen op grond van het bepaalde in de onderdelen a, b of c, dat aanwijzing ervan noodzakelijk is ter bescherming van die soorten.   
+d.  zodanige gelijkenis vertonen met soorten die zijn aangewezen op grond van het bepaalde in de onderdelen a, b of c, dat aanwijzing ervan noodzakelijk is ter bescherming van die soorten.   
 
-### Bijlage  2  
+### Bijlage 2  
 
 ####lijst met beschermde inheemse diersoorten als bedoeld in artikel 3 
 
-|  *Nederlandse naam*   |  *Wetenschappelijke naam*   |  *Motief voor opname*   |
+| *Nederlandse naam*  | *Wetenschappelijke naam*  | *Motief voor opname*  |
 |:---|:---|:---|
 | VISSEN  | PISCES S.L.  | --- |
 | Aal  | Anguilla anguilla  | a  |
 
-|  *Nederlandse naam*   |  *wetenschappelijke naam*   |  *motief voor opname*   |
+| *Nederlandse naam*  | *wetenschappelijke naam*  | *motief voor opname*  |
 |:---|:---|:---|
-| KEVERS  | COLEOPTERA  | --- |
+|  KEVERS  | COLEOPTERA   | --- |
 | Brede geelrandwaterroofkever  | Dytiscus latissimus  | a  |
 | Gestreepte waterroofkever  | Graphoderus bilineatus  | a  |
 | Heldenbok  | Cerambyx cerdo  | a  |
 | Juchtleerkever  | Osmoderma eremita  | a  |
+|Vermiljoenkever  | Cucujus cinnaberinus  |a |
 
-|  *Nederlandse naam*   |  *wetenschappelijke naam*   |  *motief voor opname*   |
+| *Nederlandse naam*  | *wetenschappelijke naam*  | *motief voor opname*  |
 |:---|:---|:---|
-| LIBELLEN  | ODONATA  | --- |
+|  LIBELLEN  | ODONATA  | --- |
 | Bronslibel  | Oxygastra curtisii  | c  |
 | Gaffellibel  | Ophiogomphus cecilia  | a  |
 | Gevlekte witsnuitlibel  | Leucorrhinia pectoralis  | a  |
 | Groene glazenmaker  | Aeshna viridis  | a  |
-| Noordse winterjuffer  | Sympecma paedisca  <sup> 2   Sympecma braueri    </sup> | c  |
+| Noordse winterjuffer  | Sympecma paedisca<sup>2</sup>  |  c  |
 | Oostelijke witsnuitlibel  | Leucorrhinia albifrons  | c  |
 | Rivierrombout  | Stylurus flavipes  | a  |
 | Sierlijke witsnuitlibel  | Leucorrhinia caudalis  | a  |
 
-|  *Nederlandse naam*   |  *wetenschappelijke naam*   |  *motief voor opname*   |
+<sup>2</sup> Sympecma braueri  
+
+| *Nederlandse naam*  | *wetenschappelijke naam*  | *motief voor opname*  |
 |:---|:---|:---|
-| DAGVLINDERS  | LEPIDOPTERA  | --- |
+|  DAGVLINDERS  | LEPIDOPTERA   | --- |
 | Donker pimpernelblauwtje  | Maculinea nausithous  | a  |
 | Grote vuurvlinder  | Lycaena dispar  | a  |
 | Moerasparelmoervlinder  | Euphydryas aurinia  | c  |
@@ -165,33 +168,38 @@ d. zodanige gelijkenis vertonen met soorten die zijn aangewezen op grond van het
 | Tijmblauwtje  | Maculinea arion  | c  |
 | Zilverstreephooibeestje  | Coenonympha hero  | c  |
 
-|  *Nederlandse naam*   |  *wetenschappelijke naam*   |  *motief voor opname*   |
+| *Nederlandse naam*  | *wetenschappelijke naam*  | *motief voor opname*  |
 |:---|:---|:---|
-| TWEEKLEPPIGEN  | BIVALVIA  | --- |
+|  TWEEKLEPPIGEN  | BIVALVIA   | --- |
 | Bataafse stroommossel  | Unio crassus  | a  |
+
+| Nederlandse naam  | wetenschappelijke naam  | motief voor opname  |
+|:---|:---|:---|
+|  *SLAKKEN*   |  *GASTROPODA*   | --- |
+| Platte schijfhoren  | Anisus vorticulus  | a  |
 
 De letters a tot en met d in de derde kolom corresponderen met de onderdelen a tot en met d van [artikel 4, tweede lid, van de wet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) en refereren naar de motieven voor opname in deze lijst van beschermde inheemse diersoorten die van nature in Nederland voorkomen en die: 
 
-a. in hun voortbestaan worden bedreigd of het gevaar lopen in hun voortbestaan te worden bedreigd;  
+a.  in hun voortbestaan worden bedreigd of het gevaar lopen in hun voortbestaan te worden bedreigd;  
 
 b. niet noodzakelijkerwijs in hun voortbestaan worden bedreigd of dat gevaar lopen, doch ter bescherming waarvan maatregelen noodzakelijk zijn ter voorkoming van overmatige benutting;  
 
-c. uit Nederland zijn verdwenen doch ten aanzien waarvan gerede kans op terugkeer bestaat of  
+c.  uit Nederland zijn verdwenen doch ten aanzien waarvan gerede kans op terugkeer bestaat of  
 
-d. zodanige gelijkenis vertonen met soorten die zijn aangewezen op grond van het bepaalde in de onderdelen a, b of c, dat aanwijzing ervan noodzakelijk is ter bescherming van die soorten.   
+d.  zodanige gelijkenis vertonen met soorten die zijn aangewezen op grond van het bepaalde in de onderdelen a, b of c, dat aanwijzing ervan noodzakelijk is ter bescherming van die soorten.   
 
-### Bijlage  3  
+### Bijlage 3  
 
 ####lijst met beschermde uitheemse diersoorten als bedoeld in artikel 4, eerste lid, onderdeel c 
 
-|  *Nederlandse naam*   |  *wetenschappelijke naam*   |
+| *Nederlandse naam*  | *wetenschappelijke naam*  |
 |---|---|
-| Opperdieren  | Primates  |
+|  Opperdieren  | Primates  |
 | Alle soorten primaten (apen en halfapen)  | ordo Primates  |
 
-|  *Nederlandse naam*   |  *wetenschappelijke naam*   |--- |--- |
+| *Nederlandse naam*  | *wetenschappelijke naam*  |--- |--- |
 |---|---|---|---|
-| Roofdieren  | Carnivora  |
+|  Roofdieren  | Carnivora  |
 | --- | --- |
 |  *Felidae*   | --- |
 | Bengaalse Kat  | Prionailurus bengalensis  |

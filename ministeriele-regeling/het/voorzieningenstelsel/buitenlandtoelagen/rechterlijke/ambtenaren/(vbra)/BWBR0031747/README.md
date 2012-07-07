@@ -97,7 +97,7 @@ q.  *berekeningsbasis:*  het twaalfvoud van de bezoldiging, volgens dit artikel 
 
 r.  *gebied buiten Nederland:*  een gebied binnen het Koninkrijk, dat buiten het Europese deel daarvan is gelegen;  
 
-s.  *duurtecorrectie:*  de component die aangeeft hoeveel procent het inkomen moet worden gecorrigeerd om het Nederlandse bestedingsniveau in stand te houden in het land van verblijf;    
+s.  *duurtecorrectie:*   de component die aangeeft hoeveel procent het inkomen moet worden gecorrigeerd om het Nederlandse bestedingsniveau in stand te houden in het land van verblijf;   
 
 ### Artikel  1.2  
 
@@ -109,7 +109,7 @@ s.  *duurtecorrectie:*  de component die aangeeft hoeveel procent het inkomen mo
 a. komt de aanspraak van de belanghebbende op voorzieningen op grond van deze regeling te vervallen, indien het Standaard Netto Nederland van de echtgenoot hoger is;  
 
 b. wordt de aanspraak op voorzieningen verleend aan degene die daarvoor door beiden gezamenlijk is aangewezen, indien het Standaard Netto Nederland van de belanghebbende en dat van zijn echtgenoot gelijk zijn.     
-3.  De belanghebbende, bedoeld in het tweede lid, onder a, alsmede de belanghebbende bedoeld in het tweede lid, onder b, die niet door beiden gezamenlijk is aangewezen, heeft aanspraak op de voorzieningen waarop de ongehuwde rechterlijk ambtenaar, bedoeld in artikel 1.1 onderdeel f, aanspraak zou hebben.   
+3.  De belanghebbende, bedoeld in het tweede lid, onder a, alsmede de belanghebbende bedoeld in het tweede lid, onder b, die niet door beiden gezamenlijk is aangewezen, heeft aanspraak op de voorzieningen waarop de ongehuwde rechterlijk ambtenaar, bedoeld in artikel 1.1 onderdeel f, aanspraak zou hebben.  
 
 ### Hoofdstuk  2  
 
@@ -118,7 +118,7 @@ b. wordt de aanspraak op voorzieningen verleend aan degene die daarvoor door bei
 ### Artikel  2.1  
 
 1.  Uit een medische verklaring moet blijken dat de belanghebbende en de leden van het gezin die hem vergezellen, medisch geschikt zijn om in een gebied buiten Nederland te verblijven.   
-2.  De kosten voortvloeiende uit het eerste lid worden door het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties vergoed.   
+2.  De kosten voortvloeiende uit het eerste lid worden door het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties vergoed.  
 
 ### Hoofdstuk  3  
 
@@ -164,7 +164,7 @@ e. Voor een kind waar voor de aanspraak op kinderbijslag pas ontstaat op de eers
 
 f. Indien een aangehuwd of pleegkind pas tijdens de tewerkstelling van de belanghebbende in een gebied buiten Nederland tot het gezin van de belanghebbende gaat behoren, gaat de aanspraak op de verhoging van de uitzendtoelage in met ingang van de dag waarop het kind tot het gezin gaat behoren.  
 
-g. Indien de aanspraak op kinderbijslag, de basisbeurs, of de fictieve basisbeurs, bedoeld in het eerste lid, voor een kind eindigt, vervalt ten aanzien van dat kind de aanspraak op de verhoging met ingang van de dag waarop die verandering plaatsvindt.       
+g. Indien de aanspraak op kinderbijslag, de basisbeurs, of de fictieve basisbeurs, bedoeld in het eerste lid, voor een kind eindigt, vervalt ten aanzien van dat kind de aanspraak op de verhoging met ingang van de dag waarop die verandering plaatsvindt.      
 
 ####Verandering toelagen
 
@@ -173,7 +173,7 @@ g. Indien de aanspraak op kinderbijslag, de basisbeurs, of de fictieve basisbeur
 1.  De belanghebbende is verplicht alle mutaties die van belang zijn voor de berekening van de toelagen, bedoeld in dit hoofdstuk, onmiddellijk aan de Minister te melden.   
 2.  Een verhoging van de buitenlandtoelage als gevolg van een verandering in de burgerlijke staat van de belanghebbende gaat in op de eerste dag van de maand waarin die verandering plaatsvindt.   
 3.  Onverminderd het vierde lid gaat een verlaging van de buitenlandtoelage als gevolg van een verandering in de burgerlijke staat van de belanghebbende in op de eerste dag van de maand volgende op die waarin die verandering plaatsvindt.   
-4.  Bij overlijden van een lid van zijn gezin vervallen de aanspraken op de toelage, bedoeld onder artikel 3.1 eerste lid, onder a en b, met ingang van de eerste dag van de derde maand volgende op de maand waarin dat overlijden heeft plaatsgevonden.   
+4.  Bij overlijden van een lid van zijn gezin vervallen de aanspraken op de toelage, bedoeld onder artikel 3.1 eerste lid, onder a en b, met ingang van de eerste dag van de derde maand volgende op de maand waarin dat overlijden heeft plaatsgevonden.  
 
 ### Hoofdstuk  4  
 
@@ -212,7 +212,7 @@ d. voor zover geen emballage in natura wordt verstrekt, een bedrag voor de koste
 9.  Indien door de belanghebbende, bij zijn verblijf in een gebied buiten Nederland, geen kosten voor het transport van een personenauto in rekening worden gebracht, wordt aan hem op zijn verzoek een tegemoetkoming in de aanschaf van een personenauto verleend van € 600.   
 10.  Aan de belanghebbende kan – indien hij bij de aanvang van zijn verblijf in een gebied buiten Nederland of bij beëindiging daarvan nog geen woning kan betrekken – op zijn verzoek een vergoeding worden verleend van de kosten voor opslag van de inboedel in het land van aankomst tot maximaal de termijn van tijdelijke huisvesting.   
 11.  Aan de belanghebbende wordt bij een verplaatsing naar een gebied buiten Nederland, uiterlijk vóór de dag van vertrek, 10 werkdagen inschepingverlof verleend.   
-12.  De belanghebbende heeft aanspraak op 10 werkdagen ontschepingverlof. Het ontschepingverlof wordt aaneengesloten aan belanghebbende verleend direct aansluitend aan de dag dat hij in Nederland is teruggekeerd.   
+12.  De belanghebbende heeft aanspraak op 10 werkdagen ontschepingverlof. Het ontschepingverlof wordt aaneengesloten aan belanghebbende verleend direct aansluitend aan de dag dat hij in Nederland is teruggekeerd.  
 
 ### Artikel  4.2  
 
@@ -221,19 +221,19 @@ d. voor zover geen emballage in natura wordt verstrekt, een bedrag voor de koste
 1.  De betrokkene heeft aanspraak op vergoeding van de gemaakte kosten van het dagelijks reizen per openbaar vervoer tussen de woning en de plaats van tewerkstelling als bedoeld in [artikel 12 van het Verplaatsingskostenbesluit 1989](../../../../../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md) en geregeld in de [artikelen 11](../../../../../../../../ministeriele-regeling/verplaatsingskostenregeling/1989/BWBR0004633/README.md) en [12 van de Verplaatsingskostenregeling 1989](../../../../../../../../ministeriele-regeling/verplaatsingskostenregeling/1989/BWBR0004633/README.md).   
 2.  In plaats van de vergoeding, bedoeld in lid 1, kan het bevoegd gezag ook de noodzakelijke vervoerbewijzen verstrekken.   
 3.  De betrokkene die naar het oordeel van het bevoegd gezag de plaats van tewerkstelling niet of niet doelmatig per openbaar vervoer kan bereiken, heeft aanspraak op een tegemoetkoming in de gemaakte reiskosten naar analogie van [artikel 12a van het Verplaatsingskostenbesluit 1989](../../../../../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md) en geregeld in [artikel 12 van de Verplaatsingskostenregeling 1989](../../../../../../../../ministeriele-regeling/verplaatsingskostenregeling/1989/BWBR0004633/README.md).   
-4.  De betrokkene die naar het oordeel van het bevoegd gezag de plaats van tewerkstelling met het openbaar vervoer kan bereiken, maar daarvan geen gebruik maakt, heeft aanspraak op een gedeelte van de tegemoetkoming als bedoeld in [artikel 12b van het Verplaatsingskostenbesluit 1989](../../../../../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md).   
+4.  De betrokkene die naar het oordeel van het bevoegd gezag de plaats van tewerkstelling met het openbaar vervoer kan bereiken, maar daarvan geen gebruik maakt, heeft aanspraak op een gedeelte van de tegemoetkoming als bedoeld in [artikel 12b van het Verplaatsingskostenbesluit 1989](../../../../../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md).  
 
 ### Artikel  4.3  
 
-De belanghebbende heeft bij de reis naar het gebied van verblijf en bij terugkeer naar Nederland voor elk lid van zijn gezin tevens aanspraak op vergoeding van bagage tot ten hoogste 10 kg (begeleide) of tot ten hoogste 20 kg vracht als (onbegeleide) bagage. Deze hoeveelheden hebben betrekking op het gewicht dat komt boven op het door de betrokken luchtvaartmaatschappij vastgestelde gewicht aan bagage vrijdom dat bij het vervoer is inbegrepen.  
+De belanghebbende heeft bij de reis naar het gebied van verblijf en bij terugkeer naar Nederland voor elk lid van zijn gezin tevens aanspraak op vergoeding van bagage tot ten hoogste 10 kg (begeleide) of tot ten hoogste 20 kg vracht als (onbegeleide) bagage. Deze hoeveelheden hebben betrekking op het gewicht dat komt boven op het door de betrokken luchtvaartmaatschappij vastgestelde gewicht aan bagage vrijdom dat bij het vervoer is inbegrepen. 
 
 ### Artikel  4.4  
 
-De totale kosten voor verzekering van het transport van de inboedel, de extra begeleide en onbegeleide bagage, bedoeld in [artikel 9 van het Verplaatsingskostenbesluit 1989](../../../../../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md) hebben betrekking op een verzekerde waarde van ten hoogste € 71.760. Dit bedrag wordt tweejaarlijks bijgesteld aan de hand van de verandering van het consumentenprijsindexcijfer ter zake.  
+De totale kosten voor verzekering van het transport van de inboedel, de extra begeleide en onbegeleide bagage, bedoeld in [artikel 9 van het Verplaatsingskostenbesluit 1989](../../../../../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md) hebben betrekking op een verzekerde waarde van ten hoogste € 71.760. Dit bedrag wordt tweejaarlijks bijgesteld aan de hand van de verandering van het consumentenprijsindexcijfer ter zake. 
 
 ### Artikel  4.5  
 
-Bij de reis naar het gebied van verblijf en bij terugkeer naar Nederland van de belanghebbende worden de kosten van vervoer bedoeld in [artikel 9 van het Verplaatsingskostenbesluit 1989](../../../../../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md) voor de belanghebbende en zijn gezin vergoed tot maximaal de kosten van een vliegticket voor een enkele reis via de kortste route van Nederland naar het land van tewerkstelling of omgekeerd op basis van de goedkoopste (economy) klasse van vervoer.  
+Bij de reis naar het gebied van verblijf en bij terugkeer naar Nederland van de belanghebbende worden de kosten van vervoer bedoeld in [artikel 9 van het Verplaatsingskostenbesluit 1989](../../../../../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md) voor de belanghebbende en zijn gezin vergoed tot maximaal de kosten van een vliegticket voor een enkele reis via de kortste route van Nederland naar het land van tewerkstelling of omgekeerd op basis van de goedkoopste (economy) klasse van vervoer. 
 
 ####Uitrustingskosten en huurauto
 
@@ -246,7 +246,7 @@ Bij de reis naar het gebied van verblijf en bij terugkeer naar Nederland van de 
 – een huurauto van rijkswege en voor rijksrekening voor de eerste twee weken na zijn aankomst in het land van verblijf dan wel tot een maximum van zes weken als de belanghebbende, om reden van transport van zijn eigen auto, daarover niet kan beschikken;  
 
 – een huurauto voor rijksrekening voor maximaal één week direct voorafgaande aan het vertrek uit het land van verblijf in geval niet meer over een eigen auto kan worden beschikt.     
-2.  De gezinsleden van de belanghebbende hebben tevens aanspraak op een tegemoetkoming in de uitrustingskosten overeenkomstig de bedragen genoemd in bijlage 3 van deze regeling, ingeval zij hem voor de duur van ten minste 6 achtereenvolgende maanden naar het gebied van verblijf vergezellen.   
+2.  De gezinsleden van de belanghebbende hebben tevens aanspraak op een tegemoetkoming in de uitrustingskosten overeenkomstig de bedragen genoemd in bijlage 3 van deze regeling, ingeval zij hem voor de duur van ten minste 6 achtereenvolgende maanden naar het gebied van verblijf vergezellen.  
 
 ####Tijdelijke huisvesting
 
@@ -273,11 +273,11 @@ c. in een pension/hotel inclusief de maaltijden, indien geen woonruimte als bedo
 9.  In geval van onderbrenging in een pension/hotel als bedoeld in het derde lid, onder c, bedraagt de eigen bijdrage 40% van de voor belanghebbende geldende netto bezoldiging onderscheidenlijk het voor belanghebbende geldende Standaard Netto Nederland geduurtecorrigeerd naar het land van plaatsing indien de tijdelijke onderbrenging plaats vindt in een gebied buiten Nederland. Het Standaard Netto Nederland wordt alleen geduurtecorrigeerd indien de duurtecorrectie positief is.   
 10.  Indien tot het gezin van belanghebbende kinderen behoren waarvoor aanspraak bestaat op kinderbijslag en die eveneens verblijf houden in het pension, wordt de netto bezoldiging onderscheidenlijk het Standaard Netto Nederland, vermeerderd met het bedrag van deze kinderbijslag.   
 11.  Indien tot het gezin van belanghebbende kinderen behoren waarvoor geen aanspraak bestaat op kinderbijslag en die eveneens verblijf houden in het pension, wordt voor elk kind het percentage van 40% vermeerderd met 7,5 procentpunten. Hierbij wordt geen rekening gehouden met een kind dat in de loop van een kwartaal wordt geboren en voor wie pas aanspraak bestaat op kinderbijslag met ingang van de eerste dag van het daaropvolgende kwartaal.   
-12.  De berekening van de eigen bijdrage over een gedeelte van een maand vindt plaats naar evenredigheid, waarbij het bedrag per dag wordt vastgesteld door het bedrag verschuldigd over een volle maand te delen door dertig.   
+12.  De berekening van de eigen bijdrage over een gedeelte van een maand vindt plaats naar evenredigheid, waarbij het bedrag per dag wordt vastgesteld door het bedrag verschuldigd over een volle maand te delen door dertig.  
 
 ### Artikel  4.8  
 
-De vergoedingen genoemd in hoofdstuk 4 worden toegekend als aanvulling op de aanspraak die de belanghebbende kan maken op grond van de circulaire van 21 februari 1978, nr. 6942/PZ van het voormalig land de Nederlandse Antillen met betrekking tot de uit- en terugzendingsvoorwaarden geldig voor uitgezonden en gedetacheerde ambtenaren, dan wel het overzicht van het Kabinet van de Gevolmachtigde Minister van Aruba van 14 juni 1989, behorende bij de circulaire van het Bestuurscollege van Aruba van 17 september 1975, no. PZ/5047. Daarbij wordt geacht dat het totaal van de vergoedingen van de landen en de vergoedingen volgens hoofdstuk 4 de in hoofdstuk 4 genoemde maximumbedragen niet overschrijden.  
+De vergoedingen genoemd in hoofdstuk 4 worden toegekend als aanvulling op de aanspraak die de belanghebbende kan maken op grond van de circulaire van 21 februari 1978, nr. 6942/PZ van het voormalig land de Nederlandse Antillen met betrekking tot de uit- en terugzendingsvoorwaarden geldig voor uitgezonden en gedetacheerde ambtenaren, dan wel het overzicht van het Kabinet van de Gevolmachtigde Minister van Aruba van 14 juni 1989, behorende bij de circulaire van het Bestuurscollege van Aruba van 17 september 1975, no. PZ/5047. Daarbij wordt geacht dat het totaal van de vergoedingen van de landen en de vergoedingen volgens hoofdstuk 4 de in hoofdstuk 4 genoemde maximumbedragen niet overschrijden. 
 
 ### Hoofdstuk  5  
 
@@ -294,7 +294,7 @@ De vergoedingen genoemd in hoofdstuk 4 worden toegekend als aanvulling op de aan
 5.  Voor de berekening van de huurtegemoetkoming wordt het onderhoud van een zwembad of tuin geacht geen onderdeel uit te maken van de huurprijs van de woning en wordt de door BZK gehanteerde geldende administratiekoers van de desbetreffende maand gehanteerd.   
 6.  De tegemoetkoming in de huurlasten wordt slechts aan één belanghebbende toegekend. Indien meer belanghebbenden op één en hetzelfde adres woonachtig zijn, wordt het bedrag van de tegemoetkoming bedoeld in het eerste lid vastgesteld naar rato van het aantal belanghebbenden dat op het desbetreffende adres woonachtig is.   
 7.  De gehuwde belanghebbende wiens gezin metterwoon in Nederland verblijft, heeft aanspraak op gemeubileerde huisvesting (inclusief de verschuldigde kosten voor gas, water en elektriciteit) op een zodanige afstand van de plaats van tewerkstelling dat er, naar het oordeel van de bevoegde autoriteit, geen belemmering bestaat voor een goede vervulling van de dienst. De vergoeding van de huisvestingskosten (inclusief gas, water en licht) betreft maximaal honderd en tien procent van de in bijlage 4, onder B, vastgestelde huurplafonds voor de ongehuwde belanghebbende.   
-8.  De gehuwde belanghebbende wiens gezin metterwoon in Nederland verblijft, heeft aanspraak op een tegemoetkoming in voedingskosten gedurende de dagen dat hij geacht wordt in de standplaats verblijf te houden, tot ten hoogste een bedrag van 20% van de daggeldvergoeding voor voeding, als bedoeld in het [Reisbesluit buitenland](../../../../../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md).   
+8.  De gehuwde belanghebbende wiens gezin metterwoon in Nederland verblijft, heeft aanspraak op een tegemoetkoming in voedingskosten gedurende de dagen dat hij geacht wordt in de standplaats verblijf te houden, tot ten hoogste een bedrag van 20% van de daggeldvergoeding voor voeding, als bedoeld in het [Reisbesluit buitenland](../../../../../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md).  
 
 ####Onderwijskosten
 
@@ -310,13 +310,13 @@ a.
 
 3. een Internationale school.    
 
-b. *onderwijs:* alle soorten van onderwijs aan een erkende onderwijsinstelling.  
+b.  *onderwijs:* alle soorten van onderwijs aan een erkende onderwijsinstelling.  
 
-c. *onderwijskosten:* voor het onderwijs verschuldigde schoolgelden, met uitzondering van de kosten van huisvesting, schoolmaaltijden, schooluniformen, laptops, excursies en schrijfbenodigdheden.  
+c.  *onderwijskosten:* voor het onderwijs verschuldigde schoolgelden, met uitzondering van de kosten van huisvesting, schoolmaaltijden, schooluniformen, laptops, excursies en schrijfbenodigdheden.  
 
-d. *bijkomende kosten:* de voor het onderwijs verschuldigde kosten van registratie, examenkosten en kosten van onderwijsmateriaal. Uitgezonderd zijn de kosten van huisvesting, schoolmaaltijden, schooluniformen, laptops, excursies en schrijfbenodigdheden.  
+d.  *bijkomende kosten:* de voor het onderwijs verschuldigde kosten van registratie, examenkosten en kosten van onderwijsmateriaal. Uitgezonderd zijn de kosten van huisvesting, schoolmaaltijden, schooluniformen, laptops, excursies en schrijfbenodigdheden.  
 
-e. *schooljaar:* een aaneengesloten periode van 12 maanden gerekend vanaf de datum van aanvang van het betreffende onderwijs.     
+e.  *schooljaar:* een aaneengesloten periode van 12 maanden gerekend vanaf de datum van aanvang van het betreffende onderwijs.     
 2.  De belanghebbende heeft voor elk kind dat met hem metterwoon in een land buiten Nederland verblijft en daar onderwijs geniet aanspraak op een tegemoetkoming in de onderwijskosten en bijkomende kosten. Deze aanspraak bestaat slechts voor zover voor het desbetreffende kind aanspraak bestaat op kinderbijslag of op een tegemoetkoming in de studiekosten. De tegemoetkoming in de onderwijskosten en bijkomende kosten van de Internationale school, als bedoeld in het eerste lid onderdeel a onder 3, worden vergoed tot maximaal de kosten van de gezamenlijke onderwijskosten en bijkomende kosten van een in artikel 5.2. eerste lid, onderdeel a, onder 1, bedoelde onderwijsinstelling.   
 3.  Aanspraak op de tegemoetkoming, bedoeld in het tweede lid, heeft ook de belanghebbende ter zake van de kosten van kleuteronderwijs voor zijn kind en kinderen met de leeftijd van drie jaren, indien: 
 
@@ -326,7 +326,7 @@ b. het kind van de belanghebbende door het niet volgen van dat onderwijs naar he
 4.  Het bedrag van de tegemoetkoming per kind is, met inachtneming van het vijfde lid, gelijk aan 95% van het totaal van de onderwijskosten en bijkomende kosten die gedurende een schooljaar daadwerkelijk zijn gemaakt.   
 5.  Bij het vaststellen van de onderwijskosten worden de op andere wijze genoten of nog te ontvangen bijdragen en uitkeringen – zoals studiebeurzen – daarop in mindering gebracht. Daarbij blijven uitkeringen op grond van een studieverzekering, de basisbeurs, de kinderbijslag en kindertoeslag buiten beschouwing.   
 6.  De tegemoetkoming in de onderwijskosten, bedoeld in het tweede lid, wordt op een daartoe strekkend schriftelijk verzoek van de belanghebbende en onder overlegging van de betalingsbewijzen, originele rekeningen, bank of giro afschriften en de beschikking van de Sociale Verzekeringsbank waaruit de aanspraak op kinderbijslag c.q. studie financiering blijkt, toegekend.   
-7.  Op verzoek van de belanghebbende kan aan hem aan het begin van elk schooljaar een voorschot op de tegemoetkoming in de onderwijskosten worden toegekend.   
+7.  Op verzoek van de belanghebbende kan aan hem aan het begin van elk schooljaar een voorschot op de tegemoetkoming in de onderwijskosten worden toegekend.  
 
 ### Hoofdstuk  6  
 
@@ -344,7 +344,7 @@ b. het kind van de belanghebbende door het niet volgen van dat onderwijs naar he
 8.  De ongehuwde belanghebbende met eigen kinderen heeft, ten behoeve van gezinshereniging met zijn in een ander land dan Nederland achtergebleven kind, eenmaal per periode van twaalf maanden verblijf in het buitenland aanspraak op een vergoeding van de kosten van een vliegreis van het land van verblijf naar het land waar het achtergebleven kind verblijft tot maximaal de kosten van een vliegreis van het land van verblijf naar Nederland en terug.   
 9.  De vergoeding van de kosten van een vliegreis, bedoeld in dit artikel bedraagt niet meer dan de kosten van een retourticket op basis van de goedkoopste economy klasse van vervoer met een geldigheidsduur van maximaal zes weken voor een rechtstreekse vlucht tussen Nederland en het land waar de belanghebbende is tewerkgesteld.   
 10.  De vergoeding van de reiskosten, bedoeld in dit artikel wordt op een daartoe strekkend schriftelijk verzoek van de belanghebbende toegekend, onder overlegging van de desbetreffende betalingsbewijzen en tickets.   
-11.  De aanspraak op de vergoeding van de kosten van de vliegreis, als bedoeld in dit artikel, vervalt indien daar binnen de termijn dat de aanspraak bestaat geen gebruik van is gemaakt.   
+11.  De aanspraak op de vergoeding van de kosten van de vliegreis, als bedoeld in dit artikel, vervalt indien daar binnen de termijn dat de aanspraak bestaat geen gebruik van is gemaakt.  
 
 ### Hoofdstuk  7  
 
@@ -352,25 +352,25 @@ b. het kind van de belanghebbende door het niet volgen van dat onderwijs naar he
 
 ### Artikel  7.1  
 
-De belanghebbende is verplicht elk geval van ziekte of ongeval van hemzelf terstond ter kennis van de Minister te brengen, indien de ziekte of het ongeval van zodanige aard is, dat hij naar verwachting langer dan een maand arbeidsongeschikt zal zijn.  
+De belanghebbende is verplicht elk geval van ziekte of ongeval van hemzelf terstond ter kennis van de Minister te brengen, indien de ziekte of het ongeval van zodanige aard is, dat hij naar verwachting langer dan een maand arbeidsongeschikt zal zijn. 
 
 ### Artikel  7.2  
 
-Indien de Minister in geval van ziekte of ongeval van de belanghebbende na overleg met de autoriteiten van het land waar de belanghebbende tewerk is gesteld en na ter zake advies te hebben ontvangen van de bedrijfsgeneeskundige dienst van het desbetreffende land, van oordeel is dat een langer verblijf van de belanghebbende in het gebied buiten Nederland niet langer verantwoord, raadzaam of van nut is, neemt hij de maatregelen tot terugkeer naar Nederland van de belanghebbende en zijn gezin, indien hij zodanige omstandigheden noodzakelijk acht. De daaruit voortvloeiende kosten, met uitzondering van die waarvan het risico verzekerd is, worden door het Rijk vergoed.  
+Indien de Minister in geval van ziekte of ongeval van de belanghebbende na overleg met de autoriteiten van het land waar de belanghebbende tewerk is gesteld en na ter zake advies te hebben ontvangen van de bedrijfsgeneeskundige dienst van het desbetreffende land, van oordeel is dat een langer verblijf van de belanghebbende in het gebied buiten Nederland niet langer verantwoord, raadzaam of van nut is, neemt hij de maatregelen tot terugkeer naar Nederland van de belanghebbende en zijn gezin, indien hij zodanige omstandigheden noodzakelijk acht. De daaruit voortvloeiende kosten, met uitzondering van die waarvan het risico verzekerd is, worden door het Rijk vergoed. 
 
 ### Artikel  7.3  
 
-Indien de belanghebbende met zijn gezin in het land van plaatsing buiten Nederland verblijft worden bij overlijden van de belanghebbende de toelagen, bedoeld in artikel 3.2 en artikel 5.1, aan de achtergebleven echtgenoot of kinderen doorbetaald tot uiterlijk drie maanden na de datum van overlijden of zoveel eerder dat het gezin naar Nederland is teruggekeerd.  
+Indien de belanghebbende met zijn gezin in het land van plaatsing buiten Nederland verblijft worden bij overlijden van de belanghebbende de toelagen, bedoeld in artikel 3.2 en artikel 5.1, aan de achtergebleven echtgenoot of kinderen doorbetaald tot uiterlijk drie maanden na de datum van overlijden of zoveel eerder dat het gezin naar Nederland is teruggekeerd. 
 
 ### Artikel  7.5  
 
 1.  Bij een ziekte die op korte termijn het overlijden tot gevolg kan hebben of bij het overlijden van de in Nederland achtergebleven kinderen, de partner of de (schoon)ouders van belanghebbende kan aan de belanghebbende een vergoeding van de reiskosten voor hem en zijn gezin worden verleend tot maximaal de kosten voor een retourvlucht op basis van de laagste klasse van vervoer van zijn standplaats naar Nederland en terug.   
 2.  De in het eerste lid genoemde vergoeding wordt verleend op een daartoe strekkend verzoek en voor zover de ernst van de situatie kan worden afgeleid uit een overlijdensbericht of een door de behandelend geneesheer afgegeven verklaring.   
-3.  In dit artikel wordt onder kinderen tevens verstaan het kind ouder dan 21 jaar waarvoor de ouders, volgens Nederlandse wetgeving, niet meer de onderhoudsplicht hebben.   
+3.  In dit artikel wordt onder kinderen tevens verstaan het kind ouder dan 21 jaar waarvoor de ouders, volgens Nederlandse wetgeving, niet meer de onderhoudsplicht hebben.  
 
 ### Artikel  7.6  
 
-Bij repatriëring van de belanghebbende of een van diens gezinsleden wegens ziekte of ongeval wordt de aanspraak op de toelagen, bedoeld in hoofdstuk 3 – rekening houdend met de nog lopende kosten in verband met zijn verblijf in het land van plaatsing – door de Minister nader beoordeeld en vastgesteld.  
+Bij repatriëring van de belanghebbende of een van diens gezinsleden wegens ziekte of ongeval wordt de aanspraak op de toelagen, bedoeld in hoofdstuk 3 – rekening houdend met de nog lopende kosten in verband met zijn verblijf in het land van plaatsing – door de Minister nader beoordeeld en vastgesteld. 
 
 ### Hoofdstuk  8  
 
@@ -380,11 +380,11 @@ Bij repatriëring van de belanghebbende of een van diens gezinsleden wegens ziek
 
 1.  Aan de belanghebbende kan bij aanvang van het verblijf éénmalig een renteloos voorschot worden verstrekt voor de aanloopkosten bij aankomst in dat land tot ten hoogste € 11.000,–. Dit bedrag wordt tweejaarlijks bijgesteld.   
 2.  Het aanloopkostenvoorschot, bedoeld in het eerste lid, wordt in maandelijkse termijnen terugbetaald en heeft een looptijd van ten hoogste 30 maanden of zoveel korter als de plaatsing in het gebied buiten Nederland duurt.   
-3.  Het aanloopkostenvoorschot, bedoeld in het eerste lid, wordt op schriftelijk verzoek van de belanghebbende een maand voor of uiterlijk twee maanden na aanvang van het verblijf in het gebied buiten Nederland verstrekt.   
+3.  Het aanloopkostenvoorschot, bedoeld in het eerste lid, wordt op schriftelijk verzoek van de belanghebbende een maand voor of uiterlijk twee maanden na aanvang van het verblijf in het gebied buiten Nederland verstrekt.  
 
 ### Artikel  8.2  
 
-Indien de belanghebbende aanspraak maakt op vergoedingen, tegemoetkomingen of gewijzigd loon van een andere dan de Nederlandse overheid die verband houdt met de uitoefening van de functie of de beëindiging van het verblijf, dient hij dit onmiddellijk bij de Minister te melden en de door de Minister betaalde vergoedingen, tegemoetkomingen of loon terug te betalen tot maximaal het bedrag dat hij van die andere dan de Nederlandse overheid heeft ontvangen, voor zover door de Minister met dergelijke aanspraken niet reeds rekening is gehouden.  
+Indien de belanghebbende aanspraak maakt op vergoedingen, tegemoetkomingen of gewijzigd loon van een andere dan de Nederlandse overheid die verband houdt met de uitoefening van de functie of de beëindiging van het verblijf, dient hij dit onmiddellijk bij de Minister te melden en de door de Minister betaalde vergoedingen, tegemoetkomingen of loon terug te betalen tot maximaal het bedrag dat hij van die andere dan de Nederlandse overheid heeft ontvangen, voor zover door de Minister met dergelijke aanspraken niet reeds rekening is gehouden. 
 
 ### Hoofdstuk  9  
 
@@ -392,30 +392,30 @@ Indien de belanghebbende aanspraak maakt op vergoedingen, tegemoetkomingen of ge
 
 ### Artikel  9.1  
 
-Voor zover in dit Voorzieningenstelsel niet anders is bepaald, vervallen de uit deze regeling voortvloeiende rechten op vergoedingen indien daarop binnen een termijn van één jaar na het eindigen van de plaatsing geen beroep is gedaan.  
+Voor zover in dit Voorzieningenstelsel niet anders is bepaald, vervallen de uit deze regeling voortvloeiende rechten op vergoedingen indien daarop binnen een termijn van één jaar na het eindigen van de plaatsing geen beroep is gedaan. 
 
 ### Artikel  9.2  
 
 1.  In gevallen waarin niet of niet voldoende in deze regeling is voorzien, beslist de Minister naar redelijkheid en, waar mogelijk, in overeenstemming met de strekking van de bepalingen van deze regeling.   
-2.  De Minister kan voor de maximumtermijn van vijf jaar genoemd in artikel 3.1 lid 1 in uitzonderlijk geval ontheffing verlenen voor de duur van één jaar.   
+2.  De Minister kan voor de maximumtermijn van vijf jaar genoemd in artikel 3.1 lid 1 in uitzonderlijk geval ontheffing verlenen voor de duur van één jaar.  
 
 ### Artikel  9.3  
 
 1.  Dit Voorzieningenstelsel is, met inachtneming van het gestelde in het tweede lid, vanaf de datum van inwerkingtreding van toepassing op iedere belanghebbende in de zin van deze regeling.   
 2.  De Regeling die van kracht was op het moment dat de belanghebbende werd geplaatst in het Caribisch deel van het Koninkrijk blijft na inwerkingtreding van deze regeling van kracht voor die belanghebbende die op het moment van inwerkintreding van deze regeling is geplaatst in een land buiten Nederland en schriftelijk te kennen heeft gegeven voor de resterende duur van zijn initiële plaatsing de aanspraken in de Regeling, op grond waarvan de belanghebbende is uitgezonden, te willen behouden.   
-3.  Op verlengingen van de termijn van plaatsing is deze regeling van toepassing, tenzij bij de oorspronkelijke plaatsing in het gebied buiten Nederland anders is overeengekomen.   
+3.  Op verlengingen van de termijn van plaatsing is deze regeling van toepassing, tenzij bij de oorspronkelijke plaatsing in het gebied buiten Nederland anders is overeengekomen.  
 
 ### Artikel  9.4  
 
-Deze regeling wordt aangehaald als: Het Voorzieningenstelsel Buitenlandtoelagen Rechterlijke Ambtenaren (VBRA)  
+Deze regeling wordt aangehaald als: Het Voorzieningenstelsel Buitenlandtoelagen Rechterlijke Ambtenaren (VBRA) 
 
 ### Artikel  9.5  
 
-Deze regeling treedt in werking met ingang van de tweede dag na publicatie in de Staatscourant en werkt terug tot 1 april 2012.  
+Deze regeling treedt in werking met ingang van de tweede dag na publicatie in de Staatscourant en werkt terug tot 1 april 2012. 
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties,
-J.W.E.Spies  
+Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+J.W.E. Spies    
 
 ### Bijlage  1  
 
@@ -454,17 +454,17 @@ Tabel 1
 
 Bedragen per: inwerkingtreding regeling 
 
-| Gebied  | Basisbedrag per maand  | Duurtecorrectie per maand over gemiddeld kinderbijslagbedrag  |
+|  Gebied   | Basisbedrag per maand   | Duurtecorrectie per maand over gemiddeld kinderbijslagbedrag   |
 |:---|:---|:---|
-| Binnen de keerkringen  | € 53,72  | € 76,12  |
+|  Binnen de keerkringen   | € 53,72   | € 76,12   |
 
 ####Tabel 2. Verhoging buitenlandtoelage (indien het kind niet verblijft in het gebied van plaatsing) ( ad [art. 3.1, onderdeel 3b VUBZK](../../../../../../../../ministeriele-regeling/het/voorzieningenstelsel/uitzendingen/binnenlandse/zaken/en/etc/BWBR0024265/README.md))
 
 Bedragen per: inwerkingtreding regeling 
 
-| Bedrag per maand indien het kind jonger is dan 18 jaar en het niet samenwonen van het kind met het gezin van belanghebbende uitsluitend het gevolg is van het verblijf van dat gezin buiten Nederland  | Bedrag per maand in overige gevallen  |
+| Bedrag per maand indien het kind jonger is dan 18 jaar en het niet samenwonen van het kind met het gezin van belanghebbende uitsluitend het gevolg is van het verblijf van dat gezin buiten Nederland   | Bedrag per maand in overige gevallen   |
 |:---|:---|
-| € 285,02  | € 224,67  |
+|  € 285,02   | € 224,67   |
 
 ### Bijlage  3  
 
@@ -486,21 +486,21 @@ c. voor elk kind: € 153,77   De tegemoetkoming in de uitrustingskosten wordt n
 
 | --- | --- |
 |:---|:---|
-| Aruba  | Af 3330  |
-| Curaçao  | Naf 3108  |
-| Sint Maarten  | USD 2622  |
-| Bonaire  | USD 1770  |
-| Sint Eustatius  | USD 2622  |
-| Saba  | USD 2622  |
+|  Aruba   | Af 3330  |
+|  Curaçao   | Naf 3108  |
+|  Sint Maarten   | USD 2622  |
+|  Bonaire   | USD 1770  |
+|  Sint Eustatius   | USD 2622  |
+|  Saba   | USD 2622  |
 
 *B. Huurplafonds ongehuwde belanghebbende:*   
 
 | --- | --- |
 |:---|:---|
-| Aruba  | Af 2997  |
-| Curaçao  | Naf 2775  |
-| Sint Maarten  | USD 2280  |
-| Bonaire  | USD 1570  |
-| Sint Eustatius  | USD 2280  |
-| Saba  | USD 2280  |
+|  Aruba   | Af 2997  |
+|  Curaçao   | Naf 2775  |
+|  Sint Maarten   | USD 2280  |
+|  Bonaire   | USD 1570  |
+|  Sint Eustatius   | USD 2280  |
+|  Saba   | USD 2280  |
 

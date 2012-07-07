@@ -10,7 +10,7 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling Stimuleringssubsidies 2.   
+Wijzigt de Regeling Stimuleringssubsidies 2. 
 
 ### Artikel  II  
 
@@ -28,16 +28,16 @@ a. reeds vóór 1 oktober is geïnitieerd;
 
 b. niet vóór 1 maart 2013 en op voorspraak of in opdracht van een partner met een belangwekkende culturele uitstraling zal plaatsvinden;  
 
-c. naar het oordeel van het bestuur niet van uitzonderlijke artistieke kwaliteit is.     
+c. naar het oordeel van het bestuur niet van uitzonderlijke artistieke kwaliteit is.    
 
 ### Artikel  III  
 
 1.  Voor zover er ter zake van de subsidieverstrekking op grond van de [Regeling Stimuleringssubsidies 2](../../../../../../../../../zbo/regeling/stimuleringssubsidies/2/BWBR0029725/README.md) na het moment, bedoeld in [artikel 42 van die regeling](../../../../../../../../../zbo/regeling/stimuleringssubsidies/2/BWBR0029725/README.md) nog sprake is van enige bestuursrechtelijke afdoening, met inbegrip van, bezwaar- en beroepsprocedures, vindt deze plaats overeenkomstig de Regeling Stimuleringssubsidies 2 zoals die luidt onmiddellijk voorafgaand aan het moment, bedoeld in artikel 42 van die regeling.   
-2.  Bestaande aanspraken en verplichtingen bij, of op grond of in het kader van de [Regeling Stimuleringssubsidies 2](../../../../../../../../../zbo/regeling/stimuleringssubsidies/2/BWBR0029725/README.md), zoals die luidt onmiddellijk voorafgaand aan het moment, bedoeld in [artikel 42 van die regeling](../../../../../../../../../zbo/regeling/stimuleringssubsidies/2/BWBR0029725/README.md), blijven in stand.   
+2.  Bestaande aanspraken en verplichtingen bij, of op grond of in het kader van de [Regeling Stimuleringssubsidies 2](../../../../../../../../../zbo/regeling/stimuleringssubsidies/2/BWBR0029725/README.md), zoals die luidt onmiddellijk voorafgaand aan het moment, bedoeld in [artikel 42 van die regeling](../../../../../../../../../zbo/regeling/stimuleringssubsidies/2/BWBR0029725/README.md), blijven in stand.  
 
 ### Artikel  IV  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.  
 
 Het bestuur van het Mondriaan Fonds, 
