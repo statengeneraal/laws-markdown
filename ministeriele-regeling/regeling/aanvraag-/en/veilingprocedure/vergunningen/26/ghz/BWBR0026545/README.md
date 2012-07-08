@@ -84,12 +84,6 @@ d. een vergunning C:
 
 2°. wanneer die vergunning betrekking heeft op de frequentieruimte in de boven- en onderband steeds betrekking heeft op de hoogst gelegen frequentieruimte, met dien verstande dat de vergunningen C tevens evenwichtig verdeeld worden over de onder- en bovenband.       
 5.  De vergunning E wordt verleend aan de aanvrager waaraan een vergunning wordt verleend voor het gebruik van de frequentieruimte tussen 2680–2685 MHz.   
-6.  Aan een aanvrager worden niet meer vergunningen A, B of C verleend dan die gezamenlijk en tezamen met de vergelijkbare frequentieruimte waarvan hij uiterlijk op het in artikel 4, tweede lid, genoemde tijdstip reeds vergunninghouder is, overeenkomen met 8 activiteitspunten zoals berekend overeenkomstig artikel 17, eerste lid, en het zevende lid.   
-7.  Het aantal activiteitspunten van de vergelijkbare frequentieruimte van een vergunninghouder wordt berekend overeenkomstig de onderdelen a en b: 
-
-a. met betrekking tot de frequentieruimte binnen het frequentiebereik van 1900–1980 MHz, 2019,7–2025 MHz en 2110–2170 MHz staat 15 MHz gelijk aan één activiteitspunt, en  
-
-b. met betrekking tot de frequentieruimte binnen het frequentiebereik 880–914 MHz, 925–959 MHz, 1710–1782,5 MHz, 1805–1877,5 MHz staat 34 MHz gelijk aan één activiteitspunt,   met dien verstande dat de uitkomst wordt afgerond, waarbij de decimalen worden verwaarloosd indien het eerste cijfer achter de komma kleiner is dan 5 en de decimalen worden verwaarloosd en het getal verhoogd met 1 indien het eerste cijfer achter de komma gelijk is aan of groter is dan 5.   
 
 ### §  3  
 
