@@ -10,43 +10,38 @@ Besluit:
 
 Als modellen voor het bewijs van vrijstelling wegens gemoedsbezwaren van de verplichting tot het sluiten van een verzekering als bedoeld in de [Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) worden vastgesteld: 
 
-a. voor motorrijtuigen die een kenteken behoeven, het bewijs volgens de bij deze beschikking behorende bijlage I;  
+a.  voor motorrijtuigen die een kenteken behoeven, het bewijs volgens de bij deze beschikking behorende bijlage I; 
 
-b. voor motorrijtuigen die geen kenteken behoeven, het bewijs volgens de bij deze beschikking behorende bijlage II.    
+b.  voor motorrijtuigen die geen kenteken behoeven, het bewijs volgens de bij deze beschikking behorende bijlage II.  
 
 ### Artikel  2  
 
-De beschikking van de Minister van Financiën van 29 juni 1984/nr. 384-7188 (Stcrt. 126) wordt ingetrokken.  
+De beschikking van de Minister van Financiën van 29 juni 1984/nr. 384-7188 (Stcrt. 126) wordt ingetrokken. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 De 
 Minister van Financiën, 
-G.Zalm   
+G. Zalm     
 
-### Bijlage  I  
+### Bijlage I  
 
-####Vrijstellingsbewijs A
+####als bedoeld in artikel 1, onder a , van de Regeling van de Minister van Financiën van 1 februari 1999 (Stcrt. 1999, 26)
 
-### *Voorzijde* 
+![250626](http://wetten.overheid.nl/Illustration/250626)
+![250627](http://wetten.overheid.nl/Illustration/250627)
 
-![22740](http://wetten.overheid.nl/Illustration/22740)
-
-### *Achterzijde* 
-
-![22740](http://wetten.overheid.nl/Illustration/22740)
-
-### Bijlage  II  
+### Bijlage II  
 
 ####Vrijstellingsbewijs B
 
-### *Voorzijde* 
+###*Voorzijde*
 
-![22742](http://wetten.overheid.nl/Illustration/22742)
+![22741](http://wetten.overheid.nl/Illustration/22741)
 
-### *Achterzijde* 
+###*Achterzijde*
 
 ![22742](http://wetten.overheid.nl/Illustration/22742)
 

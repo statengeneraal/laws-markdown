@@ -2,13 +2,16 @@
 
 ##Regeling van de secretaris-generaal van het Ministerie van Veiligheid en Justitie van 25 juni 2012, nr. 2012-193556 houdende verlening van mandaat, volmacht en machtiging met betrekking tot het beheer van het politiekorps en het brandweerkorps van Bonaire, Sint Eustatius en Saba (Regeling verlening ondermandaat korpsbeheer politie en brandweer BES 2012)
 
+De secretaris-generaal van het Ministerie van Veiligheid en Justitie,  
+Gelet op de [artikelen 3](../../../../../../../../../../ministeriele-regeling-BES/mandaatregeling/korpsbeheer/politie/en/brandweer/bes/2012/BWBR0031762/README.md), [4](../../../../../../../../../../ministeriele-regeling-BES/mandaatregeling/korpsbeheer/politie/en/brandweer/bes/2012/BWBR0031762/README.md), [6](../../../../../../../../../../ministeriele-regeling-BES/mandaatregeling/korpsbeheer/politie/en/brandweer/bes/2012/BWBR0031762/README.md) en [7 van de Mandaatregeling korpsbeheer politie BES en brandweer BES 2012](../../../../../../../../../../ministeriele-regeling-BES/mandaatregeling/korpsbeheer/politie/en/brandweer/bes/2012/BWBR0031762/README.md) en [artikelen 5](../../../../../../../../../../ministeriele-regeling-BES/organisatie-/en/mandaatbesluit/bzk-bes/2012/BWBR0031745/README.md) en [6 van het Organisatie- en mandaatbesluit BZK-BES 2012](../../../../../../../../../../ministeriele-regeling-BES/organisatie-/en/mandaatbesluit/bzk-bes/2012/BWBR0031745/README.md);
+Besluit:     
 ### Paragraaf  1  
 
 ####Bevoegdheden directeur-generaal Politie inzake politiekorps
 
 ### Artikel  1  
 
-Van het ingevolge [artikel 4, tweede lid, van de Mandaatregeling korpsbeheer politie en brandweer BES 2012](../../../../../../../../../../ministeriele-regeling-BES/mandaatregeling/korpsbeheer/politie/en/brandweer/bes/2012/BWBR0031762/README.md) en [artikel 5, eerste lid, van het Organisatie- en Mandaatbesluit BZK-BES 2012](../../../../../../../../../../ministeriele-regeling-BES/organisatie-/en/mandaatbesluit/bzk-bes/2012/BWBR0031745/README.md) aan de secretaris-generaal verleende mandaat omtrent het politiekorps wordt ondermandaat verleend aan de directeur-generaal Politie.  
+Van het ingevolge [artikel 4, tweede lid, van de Mandaatregeling korpsbeheer politie en brandweer BES 2012](../../../../../../../../../../ministeriele-regeling-BES/mandaatregeling/korpsbeheer/politie/en/brandweer/bes/2012/BWBR0031762/README.md) en [artikel 5, eerste lid, van het Organisatie- en Mandaatbesluit BZK-BES 2012](../../../../../../../../../../ministeriele-regeling-BES/organisatie-/en/mandaatbesluit/bzk-bes/2012/BWBR0031745/README.md) aan de secretaris-generaal verleende mandaat omtrent het politiekorps wordt ondermandaat verleend aan de directeur-generaal Politie. 
 
 ### Artikel  2  
 
@@ -32,7 +35,7 @@ c. worden genomen op grond van [artikel 95 van het Besluit rechtspositie korps p
 
 – immateriële schade, of  
 
-– materiële schade boven een bedrag van € 10.000.      
+– materiële schade boven een bedrag van € 10.000.     
 
 ### Artikel  3  
 
@@ -57,12 +60,12 @@ h. het verrichten van een verzoek om bijstand op grond van [artikel 38 van de Ri
 i. het namens de korpsbeheerder voeren van het overleg als bedoeld in [artikel 48, vijfde lid, van de Rijkswet politie](../../../../../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md) met de procureur-generaal, bedoeld in [artikel 2, tweede lid, van de Rijkswet openbare ministeries van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../../../../../rijkswet/rijkswet/openbare/ministeries/van/curaçao/van/sint/maarten/en/van/bonaire/etc/BWBR0028072/README.md), en de korpschef over het beheer van de politie;  
 
 j. het sluiten van dienstverleningsovereenkomsten met derden ten behoeve van het politiekorps.     
-2.  De directeur-generaal Politie wordt toegestaan ten aanzien van de bevoegdheden, bedoeld in artikel 1, ondermandaat verlenen aan de korpschef van het politiekorps, met uitzondering van de bevoegdheden genoemd in het eerste lid onderdelen h, i en j.   
+2.  De directeur-generaal Politie wordt toegestaan ten aanzien van de bevoegdheden, bedoeld in artikel 1, ondermandaat verlenen aan de korpschef van het politiekorps, met uitzondering van de bevoegdheden genoemd in het eerste lid onderdelen h, i en j.  
 
 ### Artikel  4  
 
 1.  Ondertekening van besluiten en stukken door de directeur-generaal Politie met betrekking tot het beheer van het korps politie Bonaire, Sint Eustatius en Saba vindt plaats op de volgende wijze: De beheerder van het korps politie Bonaire, Sint Eustatius en Saba, namens deze, (handtekening) (naam)  *Directeur-generaal Politie van het Ministerie van Veiligheid en Justitie*    
-2.  Ondertekening van besluiten en stukken door de directeur-generaal Politie met betrekking tot de bevoegdheden van het bevoegd gezag van de ambtenaren van politie vindt plaats op de volgende wijze: De Minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze, (handtekening) (naam)  *Directeur-generaal Politie van het Ministerie van Veiligheid en Justitie*    
+2.  Ondertekening van besluiten en stukken door de directeur-generaal Politie met betrekking tot de bevoegdheden van het bevoegd gezag van de ambtenaren van politie vindt plaats op de volgende wijze: De Minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze, (handtekening) (naam)  *Directeur-generaal Politie van het Ministerie van Veiligheid en Justitie*   
 
 ### Paragraaf  2  
 
@@ -70,7 +73,7 @@ j. het sluiten van dienstverleningsovereenkomsten met derden ten behoeve van het
 
 ### Artikel  5  
 
-Van het ingevolge [artikel 7, tweede lid, van de Mandaatregeling korpsbeheer politie en brandweer BES 2012](../../../../../../../../../../ministeriele-regeling-BES/mandaatregeling/korpsbeheer/politie/en/brandweer/bes/2012/BWBR0031762/README.md) en [artikel 5, eerste lid, van het Organisatie- en mandaatbesluit BZK-BES 2012](../../../../../../../../../../ministeriele-regeling-BES/organisatie-/en/mandaatbesluit/bzk-bes/2012/BWBR0031745/README.md) aan de secretaris-generaal verleende mandaat omtrent het brandweerkorps wordt ondermandaat verleend aan de directeur-generaal Politie.  
+Van het ingevolge [artikel 7, tweede lid, van de Mandaatregeling korpsbeheer politie en brandweer BES 2012](../../../../../../../../../../ministeriele-regeling-BES/mandaatregeling/korpsbeheer/politie/en/brandweer/bes/2012/BWBR0031762/README.md) en [artikel 5, eerste lid, van het Organisatie- en mandaatbesluit BZK-BES 2012](../../../../../../../../../../ministeriele-regeling-BES/organisatie-/en/mandaatbesluit/bzk-bes/2012/BWBR0031745/README.md) aan de secretaris-generaal verleende mandaat omtrent het brandweerkorps wordt ondermandaat verleend aan de directeur-generaal Politie. 
 
 ### Artikel  6  
 
@@ -94,7 +97,7 @@ c. worden genomen op grond van [artikel 69 van het Rechtspositiebesluit ambtenar
 
 – immateriële schade, of  
 
-– materiële schade boven een bedrag van € 10.000.      
+– materiële schade boven een bedrag van € 10.000.     
 
 ### Artikel  7  
 
@@ -113,12 +116,12 @@ e. het toekennen en intrekken van enigerlei vorm van vakantie en verlof aan ambt
 f. het vertegenwoordigen van de Minister van Binnenlandse Zaken en Koninkrijksrelaties namens de Staat der Nederlanden in gerechtelijke procedures met betrekking tot een personele aangelegenheid van het brandweerkorps;  
 
 g. het sluiten van dienstverleningsovereenkomsten met derden ten behoeve van het brandweerkorps.     
-2.  De directeur-generaal Politie wordt toegestaan ten aanzien van de bevoegdheden bedoeld in artikel 4 ondermandaat te verlenen aan de algemeen commandant van het brandweerkorps, met uitzondering van de bevoegdheden genoemd in het eerste lid onder g.   
+2.  De directeur-generaal Politie wordt toegestaan ten aanzien van de bevoegdheden bedoeld in artikel 4 ondermandaat te verlenen aan de algemeen commandant van het brandweerkorps, met uitzondering van de bevoegdheden genoemd in het eerste lid onder g.  
 
 ### Artikel  8  
 
 1.  Ondertekening van besluiten en stukken door de directeur-generaal Politie met betrekking tot het beheer van het brandweerkorps Bonaire, Sint Eustatius en Saba vindt plaats op de volgende wijze: De beheerder van het brandweerkorps Bonaire, Sint Eustatius en Saba, namens deze, (handtekening) (naam)  *Directeur-generaal Politie van het Ministerie van Veiligheid en Justitie*    
-2.  Ondertekening van besluiten en stukken door de directeur-generaal Politie met betrekking tot de bevoegdheden van het bevoegd gezag van ambtenaren van het brandweerkorps vindt plaats op de volgende wijze: De Minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze, (handtekening) (naam)  *Directeur-generaal Politie van het Ministerie van Veiligheid en Justitie*    
+2.  Ondertekening van besluiten en stukken door de directeur-generaal Politie met betrekking tot de bevoegdheden van het bevoegd gezag van ambtenaren van het brandweerkorps vindt plaats op de volgende wijze: De Minister van Binnenlandse Zaken en Koninkrijksrelaties, namens deze, (handtekening) (naam)  *Directeur-generaal Politie van het Ministerie van Veiligheid en Justitie*   
 
 ### Paragraaf  3  
 
@@ -126,11 +129,11 @@ g. het sluiten van dienstverleningsovereenkomsten met derden ten behoeve van het
 
 ### Artikel  9  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst. 
 
 ### Artikel  10  
 
-Deze regeling wordt aangehaald als: Regeling doormandatering korpsbeheer politie en brandweer BES 2012.  
+Deze regeling wordt aangehaald als: Regeling doormandatering korpsbeheer politie en brandweer BES 2012. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De secretaris-generaal van het Ministerie van Veiligheid en Justitie, 
