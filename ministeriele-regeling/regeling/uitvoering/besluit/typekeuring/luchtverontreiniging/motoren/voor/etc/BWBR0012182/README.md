@@ -3,14 +3,14 @@
 ##Regeling uitvoering Besluit typekeuring luchtverontreiniging trekkers en motoren voor mobiele machines
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op richtlijn nr. 97/68/EG van het Europees Parlement en de Raad van de Europese Unie van 16 december 1997 betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake maatregelen tegen de uitstoot van verontreinigende gassen en deeltjes door inwendige verbrandingsmotoren die worden gemonteerd in niet voor de weg bestemde mobiele machines (PbEG 1998, L 59), en op richtlijn nr. 2000/25/EG van het Europees Parlement en de Raad van de Europese Unie van 22 mei 2000 (PbEG L 173) inzake maatregelen tegen de uitstoot van verontreinigende gassen en deeltjes door motoren bestemd voor het aandrijven van landbouw- of bosbouwtrekkers en houdende wijziging van Richtlijn 74/150/EEG van de Raad en op de [artikelen 1, onder e](../../../../../../../../../../AMvB/besluit/typekeuring/luchtverontreiniging/motoren/voor/mobiele/machines/BWBR0012169/README.md), [5, derde en vierde lid](../../../../../../../../../../AMvB/besluit/typekeuring/luchtverontreiniging/motoren/voor/mobiele/machines/BWBR0012169/README.md), [6, derde lid](../../../../../../../../../../AMvB/besluit/typekeuring/luchtverontreiniging/motoren/voor/mobiele/machines/BWBR0012169/README.md), en [7, derde lid, van het Besluit typekeuring luchtverontreiniging trekkers en motoren voor mobiele machines](../../../../../../../../../../AMvB/besluit/typekeuring/luchtverontreiniging/motoren/voor/mobiele/machines/BWBR0012169/README.md);
+Gelet op richtlijn nr. 97/68/EG van het Europees Parlement en de Raad van de Europese Unie van 16 december 1997 betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake maatregelen tegen de uitstoot van verontreinigende gassen en deeltjes door inwendige verbrandingsmotoren die worden gemonteerd in niet voor de weg bestemde mobiele machines (PbEG 1998, L 59), en op richtlijn nr. 2000/25/EG van het Europees Parlement en de Raad van de Europese Unie van 22 mei 2000 (PbEG L 173) inzake maatregelen tegen de uitstoot van verontreinigende gassen en deeltjes door motoren bestemd voor het aandrijven van landbouw- of bosbouwtrekkers en houdende wijziging van Richtlijn 74/150/EEG van de Raad en op de artikelen 1, onder e, 5, derde en vierde lid, 6, derde lid, en 7, derde lid, van het Besluit typekeuring luchtverontreiniging trekkers en motoren voor mobiele machines;
 Besluit:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a. besluit: [Besluit typekeuring luchtverontreiniging trekkers en motoren voor mobiele machines](../../../../../../../../../../AMvB/besluit/typekeuring/luchtverontreiniging/motoren/voor/mobiele/machines/BWBR0012169/README.md);  
+a. besluit: Besluit typekeuring luchtverontreiniging trekkers en motoren voor mobiele machines;  
 
 b. kleine motorfamilie: kleine motorfamilie als bedoeld in artikel 2, eenentwintigste gedachtestreepje, van richtlijn 97/68;  
 
@@ -36,7 +36,7 @@ Een wijziging van richtlijn 97/68 gaat voor de toepassing van artikel 1, onderde
 
 ### Artikel  2  
 
-De Dienst Wegverkeer te Zoetermeer wordt aangewezen als keuringsinstantie als bedoeld in [artikel 1 van het besluit](../../../../../../../../../../AMvB/besluit/typekeuring/luchtverontreiniging/motoren/voor/mobiele/machines/BWBR0012169/README.md). De aanwijzing heeft geen betrekking op binnenschepen en spoorvoertuigen.  
+De Dienst Wegverkeer te Zoetermeer wordt aangewezen als keuringsinstantie als bedoeld in artikel 1 van het besluit. De aanwijzing heeft geen betrekking op binnenschepen en spoorvoertuigen.  
 
 ### Artikel  3  
 
@@ -44,7 +44,7 @@ De keuring, bedoeld in de artikelen 2, onder a, dan wel 3, onder a, van het besl
 
 ### Artikel  4  
 
-1.  Voor een motor of een trekker als bedoeld in [artikel 2, onder a, van het besluit](../../../../../../../../../../AMvB/besluit/typekeuring/luchtverontreiniging/motoren/voor/mobiele/machines/BWBR0012169/README.md) die in Nederland nog niet in de handel is gebracht, houdt de goedkeuring, bedoeld in [artikel 2, onder a of c, van het besluit](../../../../../../../../../../AMvB/besluit/typekeuring/luchtverontreiniging/motoren/voor/mobiele/machines/BWBR0012169/README.md), op te gelden en houdt het goedkeuringscertificaat, bedoeld in dat artikel, onder b, op van kracht te zijn: 
+1.  Voor een motor of een trekker als bedoeld in artikel 2, onder a, van het besluit die in Nederland nog niet in de handel is gebracht, houdt de goedkeuring, bedoeld in artikel 2, onder a of c, van het besluit, op te gelden en houdt het goedkeuringscertificaat, bedoeld in dat artikel, onder b, op van kracht te zijn: 
 
 a. indien het vermogen van een motor of trekker groter dan of gelijk is aan 130 kW doch kleiner is dan 560 kW: met ingang van 1 januari 2002, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van richtlijn 97/68 en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.1.2.3 van bijlage I van richtlijn 97/68;  
 
@@ -67,12 +67,13 @@ i. indien het een motor met compressieontsteking, werkend met een anders dan con
 j. indien het een motor met compressieontsteking, werkend met een anders dan constant toerental, van de motorcategorie Q, bedoeld in artikel 9, derde lid quinquies, van richtlijn 97/68, betreft: met ingang van 1 januari 2014, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van richtlijn 97/68 en daarbij ten minste de grenswaarden zijn hanteerd die zijn aangegeven in tabel 4.1.2.6 van bijlage I bij richtlijn 97/68;  
 
 k. indien het een motor met compressieontsteking, werkend met een anders dan constant toerental, van de motorcategorie R, bedoeld in artikel 9, derde lid quinquies, van richtlijn 97/68, betreft: met ingang van 1 oktober 2014, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van richtlijn 97/68 en daarbij ten minste de grenswaarden zijn hanteerd die zijn aangegeven in tabel 4.1.2.6 van bijlage I bij richtlijn 97/68.     
-2.  In afwijking van het eerste lid kunnen motoren in de handel worden gebracht volgens de procedure, bedoeld in bijlage IV bij richtlijn 2000/25.   
+2.  In afwijking van het eerste lid kunnen motoren in de handel worden gebracht volgens de procedure, bedoeld in artikel 3bis van richtlijn 2000/25 en bijlage IV bij die richtlijn.   
 3.  In afwijking van het eerste lid kunnen motoren van de categorieën, bedoeld in het eerste lid, onder d tot en met k, die voor de in die onderdelen genoemde data zijn geproduceerd, tot uiterlijk 24 maanden na die datum in de handel worden gebracht.   
+4.  In afwijking van het eerste lid kan in overeenstemming met artikel 3bis van richtlijn 2000/25 een beperkt aantal trekkers in gebruik worden genomen in de zin van artikel 1 van richtlijn 2000/25  die niet voldoen aan de op dat moment geldende eisen.   
 
 ### Artikel  5  
 
-1.  Voor een motor als bedoeld in [artikel 3, onder a, van het besluit](../../../../../../../../../../AMvB/besluit/typekeuring/luchtverontreiniging/motoren/voor/mobiele/machines/BWBR0012169/README.md) die in Nederland nog niet in de handel is gebracht, houdt de goedkeuring, bedoeld in [artikel 3, onder a of c, van het besluit](../../../../../../../../../../AMvB/besluit/typekeuring/luchtverontreiniging/motoren/voor/mobiele/machines/BWBR0012169/README.md), op te gelden en houdt het goedkeuringscertificaat, bedoeld in dat artikel, onder b, op van kracht te zijn: 
+1.  Voor een motor als bedoeld in artikel 3, onder a, van het besluit die in Nederland nog niet in de handel is gebracht, houdt de goedkeuring, bedoeld in artikel 3, onder a of c, van het besluit, op te gelden en houdt het goedkeuringscertificaat, bedoeld in dat artikel, onder b, op van kracht te zijn: 
 
 a. indien het vermogen van een motor groter dan of gelijk is aan 130 kW doch kleiner is dan 560 kW: met ingang van 1 januari 2002, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van richtlijn 97/68 en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.1.2.3 van bijlage I van richtlijn 97/68;  
 
@@ -111,13 +112,13 @@ q. indien het een motor met compressieontsteking van de motorcategorie R B, bedo
 r. indien het een motor met compressieontsteking, werkend met een anders dan constant toerental, van de motorcategorie Q, bedoeld in artikel 9, derde lid quinquies, van richtlijn 97/68, betreft: met ingang van 1 januari 2014, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van richtlijn 97/68 en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.1.2.6 van bijlage I van richtlijn 97/68;  
 
 s. indien het een motor met compressieontsteking, werkend met een anders dan constant toerental, van de motorcategorie R, bedoeld in artikel 9, derde lid quinquies, van richtlijn 97/68, betreft: met ingang van 1 oktober 2014, tenzij de goedkeuring of het goedkeuringscertificaat betrekking heeft op een keuring die is verricht aan de hand van richtlijn 97/68 en daarbij ten minste de grenswaarden zijn gehanteerd die zijn aangegeven in tabel 4.1.2.6 van bijlage I van richtlijn 97/68.     
-2.  In afwijking van het eerste lid houdt voor benzinemotoren met elektrische ontsteking van een kleine fabrikant van motoren als bedoeld in het eerste lid, onder d tot en met g, de goedkeuring, bedoeld in [artikel 3, onder a of c, van het besluit](../../../../../../../../../../AMvB/besluit/typekeuring/luchtverontreiniging/motoren/voor/mobiele/machines/BWBR0012169/README.md), op te gelden en het goedkeuringscertificaat, bedoeld in dat artikel, onder b, op van kracht te zijn drie jaar na de datum die bij het desbetreffende onderdeel is aangegeven.   
+2.  In afwijking van het eerste lid houdt voor benzinemotoren met elektrische ontsteking van een kleine fabrikant van motoren als bedoeld in het eerste lid, onder d tot en met g, de goedkeuring, bedoeld in artikel 3, onder a of c, van het besluit, op te gelden en het goedkeuringscertificaat, bedoeld in dat artikel, onder b, op van kracht te zijn drie jaar na de datum die bij het desbetreffende onderdeel is aangegeven.   
 3.  Voor kleine motorfamilies waarbij de betrokken motorfamilies een verschillende cilinderinhoud hebben, is het eerste lid eerst van toepassing op het moment dat er meer dan 25.000 benzinemotoren met elektrische ontsteking in de handel zijn gebracht.   
-4.  In afwijking van het eerste lid houdt voor de benzinemotoren met elektrische ontsteking, bedoeld in artikel 9bis, zevende lid, van richtlijn 97/86, de goedkeuring, bedoeld in [artikel 3, onder a of c, van het besluit](../../../../../../../../../../AMvB/besluit/typekeuring/luchtverontreiniging/motoren/voor/mobiele/machines/BWBR0012169/README.md), op te gelden en het goedkeuringscertificaat, bedoeld in dat artikel, onder b, op van kracht te zijn drie jaar na de datum die bij het desbetreffende onderdeel is aangegeven.   
+4.  In afwijking van het eerste lid houdt voor de benzinemotoren met elektrische ontsteking, bedoeld in artikel 9bis, zevende lid, van richtlijn 97/68, de goedkeuring, bedoeld in artikel 3, onder a of c, van het besluit, op te gelden en het goedkeuringscertificaat, bedoeld in dat artikel, onder b, op van kracht te zijn drie jaar na de datum die bij het desbetreffende onderdeel is aangegeven.   
 5.  In afwijking van het eerste lid kunnen de motoren van de categorieën, bedoeld in het eerste lid, onder h tot en met s, die voor de in die onderdelen genoemde data zijn geproduceerd, tot uiterlijk 24 maanden na die datum in de handel worden gebracht.   
 6.  In afwijking van het eerste lid kunnen motoren van de categorieën, bedoeld in het eerste lid, onderdelen h tot en met o, r en s, volgens de procedure, bedoeld in artikel 4, zesde lid, van richtlijn 97/68, in de handel worden gebracht.   
 7.  Het eerste lid, onder q, is tot uiterlijk 1 januari 2014 niet van toepassing op motoren van de categorie, bedoeld in dat onderdeel, indien met betrekking tot de betreffende motorcategorie of motorfamilie een koopcontract is afgesloten vóór 20 mei 2004.   
-8.  In afwijking van het eerste en vierde lid houdt voor heggenscharen en kettingzagen voor snoeiwerkzaamheden, bedoeld in artikel 9bis, zevende lid, laatste alinea, van richtlijn 97/68, de goedkeuring, bedoeld in [artikel 3, onder a of c, van het besluit](../../../../../../../../../../AMvB/besluit/typekeuring/luchtverontreiniging/motoren/voor/mobiele/machines/BWBR0012169/README.md), op te gelden en het goedkeuringscertificaat, bedoeld in dat artikel, onder b, op van kracht te zijn op 31 juli 2013.   
+8.  In afwijking van het eerste en vierde lid houdt voor heggenscharen en kettingzagen voor snoeiwerkzaamheden, bedoeld in artikel 9bis, zevende lid, laatste alinea, van richtlijn 97/68, de goedkeuring, bedoeld in artikel 3, onder a of c, van het besluit, op te gelden en het goedkeuringscertificaat, bedoeld in dat artikel, onder b, op van kracht te zijn op 31 juli 2013.   
 
 ### Artikel  6  
 
@@ -138,7 +139,7 @@ e. wijst binnen de organisatie een persoon aan die verantwoordelijk is met betre
 1.  Het toezicht wordt uitgeoefend door een door de keuringsinstantie aangewezen functionaris en vindt plaats in een vestiging welke in overleg met de fabrikant wordt vastgesteld.   
 2.  In de vestiging, bedoeld in het eerste lid, moet een overdekte en goed verlichte ruimte aanwezig zijn welke is voorzien van een verwarmingsinstallatie.   
 3.  De in het tweede lid bedoelde ruimte moet zodanige afmetingen hebben en zodanig zijn ingericht dat de motoren en trekkers waarop toezicht wordt uitgeoefend in deze ruimte zodanig kunnen worden opgesteld dat zij van alle zijden goed toegankelijk zijn.   
-4.  In het kader van een steekproef wordt onder medewerking, als bedoeld in [artikel 7, tweede lid](../../../../../../../../../../AMvB/besluit/typekeuring/luchtverontreiniging/motoren/voor/mobiele/machines/BWBR0012169/README.md), van het besluit in ieder geval verstaan: 
+4.  In het kader van een steekproef wordt onder medewerking, als bedoeld in artikel 7, tweede lid, van het besluit in ieder geval verstaan: 
 
 a. het in overleg met de keuringsinstantie treffen van een regeling omtrent de beschikbaarheid van motoren of trekkers voor de steekproef;  
 
