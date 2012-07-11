@@ -79,7 +79,7 @@ Het trustkantoor treft met betrekking tot gelden of geldswaarden van doelvennoot
 
 1.  Het trustkantoor beschikt over een actueel procedurehandboek. Het procedurehandboek voorziet in: 
 
-a. procedures omtrent de naleving van de bij of krachtens de [wet](../../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md), de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) en de [Sanctiewet 1997](../../../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md) gestelde regels;  
+a. procedures omtrent de naleving van de bij of krachtens de [wet](../../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md), de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) en de [Sanctiewet 1977](../../../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md) gestelde regels;  
 
 b. een zodanige vastlegging van taken, verantwoordelijkheden en bevoegdheden van bestuur en personeelsleden dat functiescheiding aanwezig is tussen functies met een uitvoerend en controlerend karakter;  
 
@@ -169,10 +169,14 @@ Het trustkantoor heeft kennis van de relevante delen van de structuur van de gro
 
 ### Artikel  15  
 
-1.  Bij het verkopen van rechtspersonen door het trustkantoor, kent het trustkantoor de identiteit van de koper en van de natuurlijke persoon die een gekwalificeerde deelneming houdt in de koper. Ook beschikt het trustkantoor over gegevens aan de hand waarvan is bepaald welke natuurlijke persoon een gekwalificeerde deelneming houdt in de koper en aan de hand waarvan de identiteit van deze natuurlijke persoon en van de koper is vastgesteld.   
-2.  Indien bij het verkopen van rechtspersonen geen natuurlijke persoon een gekwalificeerde deelneming houdt in de koper, beschikt het trustkantoor over gegevens aan de hand waarvan dit is bepaald.   
+####Het verkopen van of bemiddelen bij de verkoop van rechtspersonen
+
+1.  Bij het verkopen van of bemiddelen bij de verkoop van rechtspersonen door het trustkantoor, kent het trustkantoor de identiteit van de koper en van de natuurlijke persoon die een rechtstreeks of middellijk belang van ten minste vijfentwintig procent van het geplaatste aandelenkapitaal of een daarmee vergelijkbaar belang houdt in de koper, of rechtstreeks of middellijk ten minste vijfentwintig procent van de stemrechten of een daarmee vergelijkbare zeggenschap kan uitoefenen in de koper. Ook beschikt het trustkantoor over gegevens aan de hand waarvan is bepaald welke natuurlijke persoon dergelijk belang houdt of dergelijke zeggenschap kan uitoefenen en aan de hand waarvan de identiteit van deze natuurlijke persoon en van de koper is vastgesteld.   
+2.  Indien bij het verkopen van of bemiddelen bij de verkoop van rechtspersonen geen natuurlijke persoon als bedoeld in het eerste lid kan worden aangewezen, beschikt het trustkantoor over gegevens aan de hand waarvan dit is bepaald.   
 3.  Het trustkantoor heeft kennis van de herkomst van het vermogen van de koper en legt de gegevens omtrent het onderzoek naar de herkomst van het vermogen vast. Ook beoordeelt het trustkantoor of integriteitsrisico's aan de verkoop van rechtspersonen zijn verbonden.   
-4.  Het trustkantoor sluit geen overeenkomst terzake van het verkopen van rechtspersonen voordat aan het eerste en tweede lid is voldaan.   
+4.  Bij het bemiddelen bij de verkoop van rechtspersonen door het trustkantoor zijn het eerste en tweede lid van overeenkomstige toepassing ten aanzien van de verkoper.   
+5.  Het trustkantoor sluit geen overeenkomst ter zake van het verkopen van of bemiddelen bij de verkoop van rechtspersonen, voordat met betrekking tot de cliënt aan het eerste en tweede lid is voldaan.   
+6.  Bij het bemiddelen bij de verkoop van een rechtspersoon voldoet het trustkantoor met betrekking tot de wederpartij van de cliënt aan het eerste, tweede en vierde lid voordat het trustkantoor de overeenkomst tussen die partijen tot stand brengt.   
 
 ####Politiek prominente personen
 
@@ -195,6 +199,27 @@ d) oefent doorlopende controle uit op de zakelijke relatie.
 1.  Indien het trustkantoor optreedt als trustee van een trust, kent het trustkantoor de identiteit van de insteller van de trust en van de uiteindelijk belanghebbende bij de trust en beschikt over gegevens aan de hand waarvan is bepaald wie de insteller is en welke natuurlijke persoon als uiteindelijk belanghebbende kwalificeert. Ook beschikt het trustkantoor over gegevens aan de hand waarvan de identiteit van de insteller en van de uiteindelijk belanghebbende is vastgesteld.   
 2.  Indien er geen uiteindelijk belanghebbende is, beschikt het trustkantoor over gegevens aan de hand waarvan dit is bepaald.   
 3.  Het trustkantoor heeft bij het verlenen van de in het eerste lid genoemde dienst kennis van de herkomst van het vermogen van de insteller van de trust en legt de gegevens omtrent het onderzoek naar de herkomst van het vermogen vast.   
+
+### Artikel  16a  
+
+####Ten behoeve van de cliënt gebruikmaken van een vennootschap
+
+1.  Het trustkantoor dat een dienst verleent als bedoeld in [artikel 1, onderdeel d, subonderdeel 5°, van de wet](../../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md): 
+
+a. kent de identiteit van de cliënt en van de natuurlijke persoon die een rechtstreeks of middellijk belang van ten minste vijfentwintig procent van het geplaatste aandelenkapitaal of een daarmee vergelijkbaar belang houdt in de cliënt, of rechtstreeks of middellijk ten minste vijfentwintig procent van de stemrechten of een daarmee vergelijkbare zeggenschap kan uitoefenen in de cliënt en beschikt over gegevens aan de hand waarvan is bepaald wie een dergelijk belang houdt of dergelijke zeggenschap kan uitoefenen en aan de hand waarvan de identiteit van die natuurlijke persoon is vastgesteld; en  
+
+b. heeft kennis van het doel van zijn dienstverlening, beoordeelt of aan die dienstverlening integriteitsrisico's zijn verbonden en legt zijn bevindingen schriftelijk vast.     
+2.  Indien geen natuurlijke persoon als bedoeld in het eerste lid, onderdeel a, kan worden aangewezen, beschikt het trustkantoor over gegevens aan de hand waarvan dit is bepaald.   
+3.  Indien aan de vennootschap, bedoeld in [artikel 1, onderdeel d, subonderdeel 5°, van de wet](../../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md), middelen ter beschikking worden gesteld: 
+
+a. beschikt het trustkantoor over gegevens die ten grondslag liggen aan de herkomst en bestemming van die middelen;  
+
+b. kent het trustkantoor de identiteit van de persoon die ter zake het risico draagt;  
+
+c. heeft het trustkantoor kennis van gestelde zekerheden;  
+
+d. treft het trustkantoor adequate maatregelen om te waarborgen dat de vennootschap aan haar verplichtingen kan voldoen.     
+4.  Het trustkantoor verleent geen dienst als bedoeld in [artikel 1, onderdeel d, subonderdeel 5°, van de wet](../../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md) voordat aan het eerste, tweede en derde lid is voldaan.   
 
 ####Gegevens met betrekking tot het trustkantoor
 
@@ -222,14 +247,16 @@ h. de vastgestelde jaarrekeningen over de afgelopen drie boekjaren danwel de voo
 
 ### Artikel  18  
 
-1.  Het trustkantoor beschikt over een cliëntacceptatiedossier voor iedere doelvennootschap en terzake van iedere verkoop van een rechtspersoon en terzake van iedere trust waarbij het trustkantoor als trustee optreedt. Een cliëntacceptatiedossier bevat tenminste de volgende bescheiden: 
+####Cliëntacceptatiedossiers
 
-a. de schriftelijke overeenkomsten tussen het trustkantoor en de doelvennootschap en andere overeenkomsten die het trustkantoor heeft gesloten terzake van de door het trustkantoor geleverde diensten waarop het cliëntacceptatiedossier ziet;  
+1.  Het trustkantoor beschikt over een cliëntacceptatiedossier voor iedere doelvennootschap, voor iedere cliënt en ter zake van iedere verkoop en bemiddeling bij de verkoop van een rechtspersoon en ter zake van iedere trust waarbij het trustkantoor als trustee optreedt. Een cliëntacceptatiedossier bevat tenminste de volgende bescheiden: 
 
-b. een overzicht van de door het trustkantoor geleverde diensten waarop het cliëntacceptatiedossier ziet en de gegevens genoemd in de artikelen 12, 13, eerste lid, 14, 15 en 16.     
+a. de schriftelijke overeenkomsten tussen het trustkantoor en de doelvennootschap en andere overeenkomsten die het trustkantoor heeft gesloten ter zake van de door het trustkantoor geleverde diensten waarop het cliëntacceptatiedossier ziet;  
+
+b. een overzicht van de door het trustkantoor geleverde diensten waarop het cliëntacceptatiedossier ziet en de gegevens genoemd in de artikelen 12, 13, eerste lid, 14, 15, 16 en 16a, eerste, tweede en derde lid, onderdelen b en c.     
 2.  Het trustkantoor houdt het cliëntacceptatiedossier beschikbaar voor DNB.   
 3.  Met inachtneming van toepasselijke wettelijke voorschriften wordt een cliëntacceptatiedossier ten minste vijf jaar na beëindiging van de dienstverlening bewaard.   
-4.  Het eerste tot en met het derde lid zijn van overeenkomstige toepassing ten aanzien van andere bij algemene maatregel van bestuur aangewezen diensten, als bedoeld in [artikel 1, onderdeel d, onder 5°, van de wet](../../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md).   
+4.  Het eerste tot en met het derde lid zijn van overeenkomstige toepassing ten aanzien van andere bij algemene maatregel van bestuur aangewezen diensten, als bedoeld in [artikel 1, onderdeel d, onder 6°, van de wet](../../../../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md).   
 
 ### Hoofdstuk  4  
 

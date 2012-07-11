@@ -733,14 +733,14 @@ b. stuurt de minister een schriftelijke verklaring als bedoeld in bijlage II, on
 
 2°. aan wie geen vergunning is verleend op grond van artikel 34, eerste lid of 32, eerste lid.   De minister stuurt een kopie van deze verklaring aan de aanvrager;  
 
-c. betaalt de deelnemer wiens bieding onderdeel uitmaakt van de finale combinatie van winnende biedingen of aan wie een vergunning is verleend op grond van de artikelen 34, eerste lid, of 35, eerste lid, en die een bankgarantie had gesteld, de door hem verschuldigde totaalprijs, door overmaking van dat bedrag op het bankrekeningnummer, genoemd in artikel 15, zesde lid, onder vermelding van ‘Veiling 800, 900 en 1800 MHz’. Zodra de verschuldigde totaalprijs is ontvangen stuurt de minister een schriftelijke verklaring als bedoeld in bijlage II, onder II, onder 4, aan de bank van die deelnemer. De minister stuurt een kopie van deze verklaring aan de deelnemer;  
+c. betaalt de deelnemer wiens bieding onderdeel uitmaakt van de finale combinatie van winnende biedingen of aan wie een vergunning is verleend op grond van de artikelen 34, eerste lid, of 35, eerste lid, en die een bankgarantie had gesteld, de door hem verschuldigde totaalprijs, door overmaking van dat bedrag op het bankrekeningnummer, genoemd in artikel 15, zevende lid, onder vermelding van ‘Veiling 800, 900 en 1800 MHz’. Zodra de verschuldigde totaalprijs is ontvangen stuurt de minister een schriftelijke verklaring als bedoeld in bijlage II, onder II, onder 4, aan de bank van die deelnemer. De minister stuurt een kopie van deze verklaring aan de deelnemer;  
 
 d. wordt de waarborgsom van de deelnemer wiens bieding onderdeel uitmaakt van de finale combinatie van winnende biedingen of aan wie een vergunning is verleend op grond van de artikelen 34, eerste lid, of 35, eerste lid, aangewend voor de betaling van de door hem verschuldigde totaalprijs, met dien verstande dat: 
 
-1°. indien de waarborgsom minder dan de totaalprijs bedraagt, die deelnemer het restant van de totaalprijs betaalt door overmaking van dat restant op het bankrekeningnummer, genoemd in artikel 15, zesde lid, onder vermelding van ‘Ministerie van Economische Zaken, Landbouw en Innovatie, Agentschap Telecom, veiling 800, 900 en 1800 MHz’, uiterlijk twee weken nadat de mededeling, bedoeld in artikel 42, is gedaan, en  
+1°. indien de waarborgsom minder dan de totaalprijs bedraagt, die deelnemer het restant van de totaalprijs betaalt door overmaking van dat restant op het bankrekeningnummer, genoemd in artikel 15, zevende lid, onder vermelding van ‘Ministerie van Economische Zaken, Landbouw en Innovatie, Agentschap Telecom, veiling 800, 900 en 1800 MHz’, uiterlijk twee weken nadat de mededeling, bedoeld in artikel 42, is gedaan, en  
 
 2°. indien de waarborgsom van die deelnemer meer dan de totaalprijs bedraagt, het bedrag van de waarborgsom dat resteert, aan die deelnemer wordt teruggestort, uiterlijk twee weken nadat de mededeling, bedoeld in artikel 42, is gedaan.       
-2.  De minister vergoedt de rente over de gestorte waarborgsom vanaf de dag waarop hij de waarborgsom heeft ontvangen op het bankrekeningnummer, genoemd in artikel 15, zesde lid, met dien verstande dat de rente wordt vergoed tot en met de dag: 
+2.  De minister vergoedt de rente over de gestorte waarborgsom vanaf de dag waarop hij de waarborgsom heeft ontvangen op het bankrekeningnummer, genoemd in artikel 15, zevende lid, met dien verstande dat de rente wordt vergoed tot en met de dag: 
 
 a. voorafgaand aan de dag waarop de waarborgsom door de minister wordt teruggestort: voor de aanvrager wiens bieding geen onderdeel is van de finale combinatievan winnende biedingen en aan wie geen vergunning is verleend op grond van de artikelen 34, eerste lid, of 35, eerste lid, of  
 
@@ -828,9 +828,9 @@ A.4.8 Op goederen als bedoeld in [artikel 1 van Boek 3 van het Burgerlijk Wetboe
 
 Ondergetekende, notaris te .....(plaatsnaam) Verklaart, zonder voorbehoud, dat: 
 
-(i) de informatie die in deze aanvraag is verstrekt onder A.1, A.2, A.3, A.4.1, A.4.2, A.4.3 en A.4.6 door hem is geverifieerd en juist en volledig is bevonden;  
+(i) de informatie die in deze aanvraag is verstrekt onder A.1, A.2, A.4.1, A.4.2, A.4.3 en A.4.6 door hem is geverifieerd en juist en volledig is bevonden;  
 
-(ii) dat de informatie die in deze aanvraag is verstrekt onder A.4.4, A.4.5, A.4.7 en A.4.8 door hem naar beste kunnen is geverifieerd en naar zijn oordeel juist en volledig is;  
+(ii) dat de informatie die in deze aanvraag is verstrekt onder A.3, A.4.4, A.4.5, A.4.7 en A.4.8 door hem naar beste kunnen is geverifieerd en naar zijn oordeel juist en volledig is;  
 
 (iii) de personen genoemd bij A.2 door hem/haar zijn geïdentificeerd in persoon, volgens de regels van de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), ten behoeve van de minister, ten bewijze waarvan een kopie van het identiteitsbewijs aan de hand waarvan verificatie van de identiteit heeft plaatsgevonden hierbij wordt gevoegd, en dat die personen in zijn bijzijn zijn/haar handtekening heeft geplaatst bij A.2.   Naam:..... Plaats..... Datum: .... Handtekening .....  *De verklaring van de notaris mag desgewenst door middel van een bijlage worden verstrekt.*   
 
@@ -1100,10 +1100,10 @@ b. b <sub>i</sub> is kleiner dan of gelijk aan p <sub>i</sub>, en
 
 c. de verzameling {b <sub>1</sub>, b <sub>2</sub>, b <sub>3</sub>, ..., b <sub>n</sub> } voldoet aan de volgende voorwaarde: als bij ongewijzigde biedingen van de deelnemers die geen winnende bieding hebben uitgebracht alle biedingen van een winnende deelnemer w <sub>i</sub> worden verlaagd met (p <sub>i</sub> – b <sub>i</sub>), voor i = 1, 2, ..., n, leidt toepassing van artikel 31, tweede lid, onderdelen a en b, niet tot een andere bieding of een andere combinatie van biedingen die een hogere opbrengst heeft dan wb <sub>1</sub>, wb <sub>2</sub>, wb <sub>3</sub>, ..., wb <sub>n</sub>;  
 
-d. de verzameling {b <sub>1</sub>, b <sub>2</sub>, b <sub>3</sub>, ..., b <sub>n</sub> } heeft de laagst mogelijke opbrengst, ofwel de som van de basisprijzen   ![249746](http://wetten.overheid.nl/Illustration/249746)
+d. de verzameling {b <sub>1</sub>, b <sub>2</sub>, b <sub>3</sub>, ..., b <sub>n</sub> } heeft de laagst mogelijke opbrengst, ofwel de som van de basisprijzen   ![249747](http://wetten.overheid.nl/Illustration/249747)
 is minimaal.    
 
-2. Indien meer verzamelingen {b <sub>1</sub>, b <sub>2</sub>, b <sub>3</sub>, ..., b <sub>n</sub> } aan de onder 1 gestelde voorwaarden voldoen, wordt uit deze verzamelingen de verzameling basisprijzen gekozen met de laagste opportuniteitskostenvariantie OV. De opportuniteitskostenvariantie OV is de som van de kwadratische verschillen tussen de basisprijzen en de bijbehorende opportuniteitskosten, ofwel OV =   ![249746](http://wetten.overheid.nl/Illustration/249746)
+2. Indien meer verzamelingen {b <sub>1</sub>, b <sub>2</sub>, b <sub>3</sub>, ..., b <sub>n</sub> } aan de onder 1 gestelde voorwaarden voldoen, wordt uit deze verzamelingen de verzameling basisprijzen gekozen met de laagste opportuniteitskostenvariantie OV. De opportuniteitskostenvariantie OV is de som van de kwadratische verschillen tussen de basisprijzen en de bijbehorende opportuniteitskosten, ofwel OV =   ![249748](http://wetten.overheid.nl/Illustration/249748)
 , met dien verstande dat: 
 
 a. O <sub>i</sub> de opportuniteitskosten zijn van de winnende bieding wb <sub>i</sub>, bepaald door: O <sub>i</sub> = p <sub>i</sub> –T + Z <sub>i</sub> en  
@@ -1131,10 +1131,10 @@ c. de verzameling {eb <sub>1</sub>, eb <sub>2</sub>, eb <sub>3</sub>, ..., eb <s
 
 – niet verder dan tot nul worden verlaagd,   leidt toepassing van artikel 40, tweede lid, onderdeel a, niet tot een andere bieding of een andere combinatie van biedingen die een hogere opbrengst heeft dan wb <sub>1</sub>, wb <sub>2</sub>, wb <sub>3</sub>, ..., wb <sub>n</sub>;  
 
-d. de verzameling {eb <sub>1</sub>, eb <sub>2</sub>, eb <sub>3</sub>, ..., eb <sub>n</sub> } heeft de laagst mogelijke opbrengst, ofwel de som van de extra prijzen   ![249749](http://wetten.overheid.nl/Illustration/249749)
+d. de verzameling {eb <sub>1</sub>, eb <sub>2</sub>, eb <sub>3</sub>, ..., eb <sub>n</sub> } heeft de laagst mogelijke opbrengst, ofwel de som van de extra prijzen   ![249750](http://wetten.overheid.nl/Illustration/249750)
 is minimaal.    
 
-2. Indien meer verzamelingen {eb <sub>1</sub>, eb <sub>2</sub>, eb <sub>3</sub>, ..., eb <sub>n</sub> } aan de onder 1 gestelde voorwaarden voldoen, wordt uit deze verzamelingen de verzameling extra prijzen gekozen met de laagste opportuniteitskostenvariantie OV. De opportuniteitskostenvariantie OV is de som van de kwadratische verschillen tussen de extra prijzen en de bijbehorende opportuniteitskosten, ofwel OV =   ![249749](http://wetten.overheid.nl/Illustration/249749)
+2. Indien meer verzamelingen {eb <sub>1</sub>, eb <sub>2</sub>, eb <sub>3</sub>, ..., eb <sub>n</sub> } aan de onder 1 gestelde voorwaarden voldoen, wordt uit deze verzamelingen de verzameling extra prijzen gekozen met de laagste opportuniteitskostenvariantie OV. De opportuniteitskostenvariantie OV is de som van de kwadratische verschillen tussen de extra prijzen en de bijbehorende opportuniteitskosten, ofwel OV =   ![249751](http://wetten.overheid.nl/Illustration/249751)
 , met dien verstande dat: 
 
 a. O <sub>i</sub> de opportuniteitskosten zijn van de winnende bieding wb <sub>i</sub>, bepaald door: O <sub>i</sub> = p <sub>i</sub> – T + Z <sub>i</sub>. en  
