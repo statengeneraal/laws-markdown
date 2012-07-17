@@ -3,22 +3,22 @@
 ##Regeling van de Staatssecretaris van Economische Zaken van 23 september 2009, nr. WJZ / 9167013, houdende de vaststelling van de tarieven voor het bel-me-niet-register en de bestandsindeling (Regeling tarieven bel-me-niet-register)
 
 De Staatssecretaris van Economische Zaken,  
-Gelet op [artikel 16.1, zesde lid, van de Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en; [artikel 12, vierde lid, van het Besluit bel-me-niet-register](../../../../../AMvB/besluit/bel-me-niet-register/BWBR0025522/README.md);
+Gelet op artikel 16.1, zesde lid, van de Telecommunicatiewet en; artikel 12, vierde lid, van het Besluit bel-me-niet-register;
 Besluit:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a. *markeerbestand:* het bestand, bedoeld in [artikel 12, tweede lid, van het Besluit bel-me-niet-register](../../../../../AMvB/besluit/bel-me-niet-register/BWBR0025522/README.md);  
+a. *markeerbestand:* het bestand, bedoeld in artikel 12, tweede lid, van het Besluit bel-me-niet-register;  
 
 b. *record:* een bestandsdeel waarin de gegevens van één persoon zijn vermeld;  
 
-c. *ontdubbelingsbestand:* het bestand, bedoeld in [artikel 12, eerste lid, van het Besluit bel-me-niet-register](../../../../../AMvB/besluit/bel-me-niet-register/BWBR0025522/README.md);  
+c. *ontdubbelingsbestand:* het bestand, bedoeld in artikel 12, eerste lid, van het Besluit bel-me-niet-register;  
 
-d. *callcenter:* een onderneming die als dienst aanbiedt natuurlijke personen te benaderen door middel van telefonische oproepen, met het doel daardoor communicatie als bedoeld in [artikel 11.7, vijfde lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) aan te bieden;  
+d. *callcenter:* een onderneming die als dienst aanbiedt natuurlijke personen te benaderen door middel van telefonische oproepen, met het doel daardoor communicatie als bedoeld in artikel 11.7, vijfde lid, van de wet aan te bieden;  
 
-e. *gebruiker:* degene die de communicatie, bedoeld in [artikel 11.7, vijfde lid, van de wet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), aanbiedt.    
+e. *gebruiker:* degene die de communicatie, bedoeld in artikel 11.7, vijfde lid, van de wet, aanbiedt.    
 
 ### Artikel  2  
 
@@ -29,7 +29,7 @@ e. *gebruiker:* degene die de communicatie, bedoeld in [artikel 11.7, vijfde lid
 
 De gebruiker die de dienst van de beheerder afneemt om in een markeerbestand aan te geven welke telefoonnummers in het register zijn opgenomen is daarvoor per merk of dienst een bedrag verschuldigd van: 
 
-a. € 302.50 voor ten hoogste 10.000 records;  
+a. € 302,50 voor ten hoogste 10.000 records;  
 
 b. € 687,50 voor meer dan 10.000 en ten hoogste 25.000 records;  
 
@@ -58,6 +58,7 @@ In geval de gebruiker uitsluitend communicatie aanbiedt met een charitatief doel
 
 1.  Het ontdubbelingsbestand bestaat uit records die zijn opgebouwd op de in bijlage 1 beschreven wijze.   
 2.  Het markeerbestand bestaat uit records die zijn opgebouwd op de in bijlage 2 beschreven wijze.   
+3.  De beheerder kan het ontdubbelingsbestand tevens op andere wijze dan bedoeld in het eerste lid, aanbieden, waaronder gecomprimeerd.   
 
 ### Artikel  8  
 
@@ -80,7 +81,7 @@ F.Heemskerk
 Recordlengte: 362 Volgorde: Postcode huisnummer  
 
 | Rubriek nr.  | Positie  | Aantal posities  | Omschrijving  | Bijzonderheden  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | 04  | 001–008  | 8  | Registratienummer  | --- |
 | 41  | 009–020  | 12  | Voorletter(s)  | --- |
 | 42  | 021–040  | 20  | Voorvoegsel(s)  | --- |
@@ -103,7 +104,7 @@ Recordlengte: 362 Volgorde: Postcode huisnummer
 Recordlengte: 29  
 
 | Positie  | Aantal posities  | Omschrijving  |
-|:---|:---|:---|
+|---|---|---|
 | 001–008  | 8  | Registratienummer Bel-me-niet  |
 | 009–013  | 4  | Netnummer  |
 | 014–021  | 7  | Abonneenummer  |
