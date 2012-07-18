@@ -49,6 +49,10 @@ e. een omschrijving van de toepasselijke vergoedingen en terugbetalingsregelinge
 
 f. de wijze waarop geschillenprocedures als bedoeld in artikel 6 aanhangig kunnen worden gemaakt.    
 
+### Artikel  2a  
+
+Informatie bedoeld in artikel 2, onderdeel g, wordt duidelijk meegedeeld door middel van de facturen of via de website van de leverancier.  
+
 ### Artikel  3  
 
 Een transportovereenkomst met een kleinverbruiker wordt op schrift gesteld en bevat in ieder geval de volgende gegevens: 
@@ -103,12 +107,17 @@ d. het factuuradres, indien dit afwijkt van het adres van de aansluiting.
 
 ### Artikel  9  
 
-1.  De netbeheerder voert de wisseling uit of stelt de leverancier, bedoeld in artikel 8, en, al dan niet door tussenkomst van genoemde leverancier, de afnemer ervan in kennis dat de wisseling niet wordt uitgevoerd, binnen vijf werkdagen, gerekend vanaf de datum waarop hij het verzoek te wisselen heeft ontvangen, tenzij de leverancier en de afnemer een datum voor de wisseling zijn overeengekomen die meer dan vijf werkdagen, gerekend vanaf de dag van ontvangst van het verzoek, in de toekomst ligt.   
-2.  Een kennisgeving, als bedoeld in het eerste lid, vermeldt de redenen waarom de wisseling niet wordt uitgevoerd. Een reden om de wisseling niet uit te voeren, is in ieder geval dat de afnemer de in artikel 8 genoemde gegevens niet, niet volledig of niet tijdig heeft overgelegd.   
+1.  De netbeheerder voert de wisseling binnen 5 werkdagen uit indien de overeengekomen datum van de wisseling, bedoeld in artikel 8, onderdeel b, daartoe noodzaakt.   
+2.  Als de wisseling niet wordt uitgevoerd dan stelt de netbeheerder de leverancier, bedoeld in artikel 8, en, al dan niet door tussenkomst van genoemde leverancier, de afnemer daarvan in kennis, binnen vijf werkdagen, gerekend vanaf de datum waarop de netbeheerder het verzoek te wisselen heeft ontvangen.   
+3.  Een kennisgeving, als bedoeld in het tweede lid, vermeldt de redenen waarom de wisseling niet wordt uitgevoerd. Een reden om de wisseling niet uit te voeren, is in ieder geval dat de afnemer de in artikel 8 genoemde gegevens niet, niet volledig of niet tijdig heeft overlegd.   
 
 ### Artikel  10  
 
 Kleinverbruikers worden geen kosten in rekening gebracht voor een wisseling.  
+
+### Artikel  10a  
+
+Een afnemer die van leverancier wisselt ontvangt de eindafrekening binnen zes weken nadat de oorspronkelijke leverancier door de netbeheerder van deze wisseling op de hoogste is gesteld.  
 
 ### §  4  
 
@@ -227,7 +236,7 @@ Den Haag
 4 juli 2004    
 
 De 
-Minister van Economische Zaken
+Minister van Economische Zaken,
 L.J.Brinkhorst   
 
 ### Bijlage  
