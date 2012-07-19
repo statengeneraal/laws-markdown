@@ -15,26 +15,26 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Reglement voor de bijzondere kamer bij het gerechtshof te Arnhem.   
+Wijzigt het Reglement voor de bijzondere kamer bij het gerechtshof te Arnhem.
 
 ### Artikel  II  
 
-Wijzigt het Reglement voor de ondernemingskamer.   
+Wijzigt het Reglement voor de ondernemingskamer.
 
 ### Artikel  III  
 
-Wijzigt het Reglement voor de pachtkamers.   
+Wijzigt het Reglement voor de pachtkamers.
 
 ### Artikel  IV  
 
 1.  De deskundige leden, bedoeld in de [artikelen 48, derde lid](../../../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [66, vijfde lid](../../../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [67, vijfde lid](../../../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en [69, tweede lid, van de Wet op de rechterlijke organisatie](../../../../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), die op de dag voor inwerkingtreding van dit besluit werkzaam zijn bij de ondernemingskamer, de pachtkamer of de bijzondere kamer bij het gerechtshof te Arnhem, en de eed of belofte, hetzij bij het desbetreffende hetzij bij het naast hoger gelegen gerecht hebben afgelegd, worden geacht te zijn beëdigd bij het gerecht dat vanaf inwerkingtreding van dit besluit bevoegd is.   
 2.  De bij de Hoge Raad aanwezige registers, bedoeld in [artikel 5 van het Reglement voor de bijzondere kamer bij het gerechtshof te Arnhem](../../../../../../../../../../../../AMvB/reglement/voor/de/bijzondere/kamer/bij/het/gerechtshof/te/arnhem/BWBR0003030/README.md) zoals dit luidde op de dag voor inwerkingtreding van dit besluit, betreffende de raden en plaatsvervangende raden die vanaf het moment van inwerkingtreding van dit besluit werkzaam zijn bij de bijzondere kamer bij het gerechtshof te Arnhem, worden overgedragen aan het gerechtshof te Arnhem.   
 3.  De bij de Hoge Raad aanwezige registers, bedoeld in [artikel 5 van het Reglement voor de ondernemingskamer](../../../../../../../../../../../../AMvB/reglement/voor/de/ondernemingskamer/BWBR0002732/README.md) zoals dit luidde op de dag voor inwerkingtreding van dit besluit, betreffende de raden en plaatsvervangende raden die vanaf het moment van inwerkingtreding van dit besluit werkzaam zijn bij de ondernemingskamer, worden overgedragen aan het gerechtshof te Amsterdam.   
-4.  De bij de Hoge Raad en rechtbanken aanwezige registers, bedoeld in [artikel 5 van het Reglement voor de pachtkamers](../../../../../../../../../../../../AMvB/reglement/voor/de/pachtkamers/BWBR0002281/README.md) zoals dit luidde op de dag voor inwerkingtreding van dit besluit, betreffende de leden en plaatsvervangende leden en raden en plaatsvervangende raden die thans werkzaam zijn bij de pachtkamers, worden overgedragen aan de betrokken gerechtshoven en rechtbanken.   
+4.  De bij de Hoge Raad en rechtbanken aanwezige registers, bedoeld in [artikel 5 van het Reglement voor de pachtkamers](../../../../../../../../../../../../AMvB/reglement/voor/de/pachtkamers/BWBR0002281/README.md) zoals dit luidde op de dag voor inwerkingtreding van dit besluit, betreffende de leden en plaatsvervangende leden en raden en plaatsvervangende raden die thans werkzaam zijn bij de pachtkamers, worden overgedragen aan de betrokken gerechtshoven en rechtbanken.  
 
 ### Artikel  V  
 
-Dit besluit treedt in werking met ingang van de eerste dag van de eerste kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste dag van de eerste kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -42,10 +42,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 4 juni 2007  
 Beatrix  
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin 
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin   
 
 de *veertiende* juni 2007 
 
-De Minister van Justitie, 
-E. M. H.Hirsch Ballin  
+De Minister van Justitie , 
+E. M. H. Hirsch Ballin    

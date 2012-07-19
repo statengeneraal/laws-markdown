@@ -8,28 +8,28 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Subsidieregeling internationaal excelleren.   
+Wijzigt de Subsidieregeling internationaal excelleren. 
 
 ### Artikel  II  
 
-Wijzigt de Subsidieregeling internationaal excelleren.   
+Wijzigt de Subsidieregeling internationaal excelleren.
 
 ### Artikel  III  
 
-Op aanvragen om subsidie die vóór de inwerkingtreding van deze regeling zijn ingediend en op subsidies die vóór de inwerkingtreding van deze regeling zijn verstrekt, blijft de [Subsidieregeling internationaal ondernemen](../../../../../../../../../ministeriele-regeling/subsidieregeling/internationaal/ondernemen/BWBR0026819/README.md) van toepassing zoals die onmiddellijk voor dat tijdstip luidde.  
+Op aanvragen om subsidie die vóór de inwerkingtreding van deze regeling zijn ingediend en op subsidies die vóór de inwerkingtreding van deze regeling zijn verstrekt, blijft de [Subsidieregeling internationaal ondernemen](../../../../../../../../../ministeriele-regeling/subsidieregeling/internationaal/ondernemen/BWBR0026819/README.md) van toepassing zoals die onmiddellijk voor dat tijdstip luidde. 
 
 ### Artikel  IV  
 
-Wijzigt de Regeling openstelling en subsidieplafonds EZ 2012.   
+Wijzigt de Regeling openstelling en subsidieplafonds EZ 2012. 
 
 ### Artikel  V  
 
-Deze regeling treedt in werking met ingang van 15 juli 2012.  
+Deze regeling treedt in werking met ingang van 15 juli 2012. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 's-Gravenhage 
 4 juli 2012   
 
 De 
-Staatssecretaris van Economische Zaken, Landbouw en Innovatie,
-H.Bleker   
+Staatssecretaris van Economische Zaken, Landbouw en Innovatie, 
+H. Bleker     

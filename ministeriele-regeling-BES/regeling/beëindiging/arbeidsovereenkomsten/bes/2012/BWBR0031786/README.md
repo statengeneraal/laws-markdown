@@ -2,6 +2,9 @@
 
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 9 juli 2012, nr. AV/AR/2012/9243 tot vervanging van de Regeling beëindiging arbeidsovereenkomsten BES (Regeling beëindiging arbeidsovereenkomsten BES 2012)
 
+De Minister van Sociale Zaken en Werkgelegenheid,  
+Gelet op [artikel 6 van de Wet beëindiging arbeidsovereenkomsten BES](../../../../../../../wet-BES/wet/beëindiging/arbeidsovereenkomsten/bes/BWBR0028174/README.md);
+Besluit:     
 ### Paragraaf  1  
 
 ####Begripsbepalingen
@@ -24,7 +27,7 @@ e. *werknemer:* de arbeider, bedoeld in [artikel 1613a van het Burgerlijk Wetboe
 
 f. *werkgever:* de werkgever, bedoeld in [artikel 1613a van het Burgerlijk Wetboek BES](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/7a/BWBR0028752/README.md);  
 
-g. *arbeidsovereenkomst:* de arbeidsovereenkomst, bedoeld in [artikel 1613a van het Burgerlijk Wetboek BES](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/7a/BWBR0028752/README.md).    
+g. *arbeidsovereenkomst:* de arbeidsovereenkomst, bedoeld in [artikel 1613a van het Burgerlijk Wetboek BES](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/7a/BWBR0028752/README.md).   
 
 ### Paragraaf  2  
 
@@ -38,7 +41,7 @@ Er is een ontslagadviescommissie beëindiging arbeidsovereenkomsten BES voor:
 
 a. Bonaire; en  
 
-b. Sint Eustatius en Saba.    
+b. Sint Eustatius en Saba.   
 
 ### Artikel  2.2  
 
@@ -46,34 +49,34 @@ b. Sint Eustatius en Saba.
 
 1.  De minister benoemt, schorst en ontslaat de leden en plaatsvervangende leden van een ontslagadviescommissie.   
 2.  De benoeming geschiedt voor de duur van ten hoogste vier jaar.   
-3.  Een aftredend lid is terstond herbenoembaar.   
+3.  Een aftredend lid is terstond herbenoembaar.  
 
 ### Artikel  2.3  
 
 ####Onafhankelijkheid
 
 1.  Leden van een ontslagadviescommissie adviseren onafhankelijk en zonder last of ruggespraak. Om dit te waarborgen verstrekken leden van een ontslagadviescommissie aan de minister gegevens over hun hoofd- en nevenfuncties.   
-2.  Een lid van een ontslagadviescommissie adviseert niet in een zaak waarbij hij op enigerlei wijze betrokken is of is geweest.   
+2.  Een lid van een ontslagadviescommissie adviseert niet in een zaak waarbij hij op enigerlei wijze betrokken is of is geweest.  
 
 ### Artikel  2.4  
 
 ####Vergoeding
 
 1.  Aan leden van een ontslagadviescommissie wordt ten laste van de minister een door hem vast te stellen vergoeding toegekend.   
-2.  Om aanspraak te kunnen maken op de vergoeding, ondertekenen de leden van een ontslagadviescommissie per bijgewoonde vergadering een presentielijst.   
+2.  Om aanspraak te kunnen maken op de vergoeding, ondertekenen de leden van een ontslagadviescommissie per bijgewoonde vergadering een presentielijst.  
 
 ### Artikel  2.5  
 
 ####Secretariaat
 
 1.  De voorzitter wordt bijgestaan door een secretaris.   
-2.  De secretaris wordt door de minister aangewezen.   
+2.  De secretaris wordt door de minister aangewezen.  
 
 ### Artikel  2.6  
 
 ####Vernietiging afschriften dossiers
 
-Na behandeling in een ontslagadviescommissie van een verzoek worden de aan de leden toegezonden afschriften van de dossiers betreffende het verzoek bij de secretaris ingeleverd en door hem vernietigd.  
+Na behandeling in een ontslagadviescommissie van een verzoek worden de aan de leden toegezonden afschriften van de dossiers betreffende het verzoek bij de secretaris ingeleverd en door hem vernietigd. 
 
 ### Artikel  2.7  
 
@@ -83,7 +86,7 @@ Na behandeling in een ontslagadviescommissie van een verzoek worden de aan de le
 2.  In een vergadering kunnen geen adviezen worden uitgebracht, indien niet ten minste één lid-vertegenwoordiger van de werknemers en één lid-vertegenwoordiger van de werkgevers aanwezig zijn.   
 3.  Indien het in het tweede lid vermelde minimum aantal leden niet ter vergadering verschijnt, roept de voorzitter op korte termijn een nieuwe vergadering bijeen met dezelfde agenda, in welke vergadering adviezen kunnen worden vastgesteld ongeacht het aantal aanwezige leden.   
 4.  Alle uit te brengen adviezen worden vastgesteld bij meerderheid van stemmen. Bij staking van de stemmen is de stem van de voorzitter doorslaggevend.   
-5.  Wanneer een ontslagadviescommissie niet tot een eenstemmig advies komt, worden de verschillende standpunten aan de minister medegedeeld voor zover de leden van de ontslagadviescommissie daarom verzoeken.   
+5.  Wanneer een ontslagadviescommissie niet tot een eenstemmig advies komt, worden de verschillende standpunten aan de minister medegedeeld voor zover de leden van de ontslagadviescommissie daarom verzoeken.  
 
 ### Paragraaf  3  
 
@@ -93,7 +96,7 @@ Na behandeling in een ontslagadviescommissie van een verzoek worden de aan de le
 
 ####Mogelijkheid voor werkgever tot aanvulling informatie
 
-Indien de door de werkgever bij het verzoek tot beëindiging van de arbeidsovereenkomst verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling van het verzoek, heeft de werkgever de gelegenheid het verzoek binnen acht dagen na mededeling hiervan door de minister aan te vullen. Deze termijn kan door de minister worden verlengd indien bijzondere omstandigheden dit noodzakelijk maken.  
+Indien de door de werkgever bij het verzoek tot beëindiging van de arbeidsovereenkomst verstrekte gegevens en bescheiden onvoldoende zijn voor de beoordeling van het verzoek, heeft de werkgever de gelegenheid het verzoek binnen acht dagen na mededeling hiervan door de minister aan te vullen. Deze termijn kan door de minister worden verlengd indien bijzondere omstandigheden dit noodzakelijk maken. 
 
 ### Artikel  3.2  
 
@@ -103,39 +106,39 @@ Indien de door de werkgever bij het verzoek tot beëindiging van de arbeidsovere
 2.  Indien de werknemer mondeling verweer voert, wordt het verweer door de minister in een door de werknemer ondertekend stuk neergelegd.   
 3.  Na ontvangst van het verweer kan de minister achtereenvolgens de werkgever en de werknemer in de gelegenheid stellen binnen drie dagen hun zienswijze naar voren te brengen.   
 4.  De in het eerste en derde lid voor de werkgever en werknemer gestelde termijnen kunnen door de minister worden verlengd indien bijzondere omstandigheden dit noodzakelijk maken.   
-5.  Indien de werkgever of de werknemer bezwaren heeft tegen het ter kennis brengen van vertrouwelijke gegevens aan de wederpartij, worden deze gegevens niet in beschouwing genomen bij de beoordeling van het verzoek en per omgaande teruggezonden.   
+5.  Indien de werkgever of de werknemer bezwaren heeft tegen het ter kennis brengen van vertrouwelijke gegevens aan de wederpartij, worden deze gegevens niet in beschouwing genomen bij de beoordeling van het verzoek en per omgaande teruggezonden.  
 
 ### Artikel  3.3  
 
 ####Zienswijze werkgever en werknemer na advies
 
-Indien door een controlerende geneeskundige als bedoeld in [artikel 1, onderdeel e, van de Wet ziekteverzekering BES](../../../../../../../wet-BES/wet/ziekteverzekering/bes/BWBR0028728/README.md) of als bedoeld in [artikel 1, onderdeel e, van de Wet ongevallenverzekering BES](../../../../../../../wet-BES/wet/ongevallenverzekering/bes/BWBR0028497/README.md) een advies is uitgebracht in verband met de toepassing van artikel 6.2, kan de minister de werkgever en de werknemer in de gelegenheid stellen binnen twee weken hun zienswijze op dat advies naar voren te brengen.  
+Indien door een controlerende geneeskundige als bedoeld in [artikel 1, onderdeel e, van de Wet ziekteverzekering BES](../../../../../../../wet-BES/wet/ziekteverzekering/bes/BWBR0028728/README.md) of als bedoeld in [artikel 1, onderdeel e, van de Wet ongevallenverzekering BES](../../../../../../../wet-BES/wet/ongevallenverzekering/bes/BWBR0028497/README.md) een advies is uitgebracht in verband met de toepassing van artikel 6.2, kan de minister de werkgever en de werknemer in de gelegenheid stellen binnen twee weken hun zienswijze op dat advies naar voren te brengen. 
 
 ### Artikel  3.4  
 
 ####Verzending verzoek aan ontslagadviescommissie
 
-Na ontvangst van het in artikel 3.2, eerste lid, bedoelde verweer van de werknemer dan wel nadat de werkgever en werknemer hun zienswijze krachtens artikel 3.2, derde lid, naar voren hebben gebracht, zendt de minister zo spoedig mogelijk, maar uiterlijk binnen 28 dagen een afschrift van het verzoek om toestemming en van de daarop betrekking hebbende gegevens en bescheiden, waaronder een verslag van het in artikel 3.2, eerste lid, bedoelde verweer, voor advies aan de ontslagadviescommissie.  
+Na ontvangst van het in artikel 3.2, eerste lid, bedoelde verweer van de werknemer dan wel nadat de werkgever en werknemer hun zienswijze krachtens artikel 3.2, derde lid, naar voren hebben gebracht, zendt de minister zo spoedig mogelijk, maar uiterlijk binnen 28 dagen een afschrift van het verzoek om toestemming en van de daarop betrekking hebbende gegevens en bescheiden, waaronder een verslag van het in artikel 3.2, eerste lid, bedoelde verweer, voor advies aan de ontslagadviescommissie. 
 
 ### Artikel  3.5  
 
 ####Kennisgeving collectief ontslag
 
-Indien een kennisgeving als bedoeld in [artikel 5 van de wet](../../../../../../../wet-BES/wet/beëindiging/arbeidsovereenkomsten/bes/BWBR0028174/README.md) is gedaan, zendt de minister de daarop betrekking hebbende stukken alsmede het afvloeiingsplan, bedoeld in dat artikel, uiterlijk binnen twintig dagen na ontvangst van het afvloeiingsplan aan de ontslagadviescommissie.  
+Indien een kennisgeving als bedoeld in [artikel 5 van de wet](../../../../../../../wet-BES/wet/beëindiging/arbeidsovereenkomsten/bes/BWBR0028174/README.md) is gedaan, zendt de minister de daarop betrekking hebbende stukken alsmede het afvloeiingsplan, bedoeld in dat artikel, uiterlijk binnen twintig dagen na ontvangst van het afvloeiingsplan aan de ontslagadviescommissie. 
 
 ### Artikel  3.6  
 
 ####Uitbrenging advies door ontslagadviescommissie
 
 1.  De ontslagadviescommissie brengt binnen tien dagen na ontvangst van de stukken, bedoeld in artikel 3.4, aan de minister een schriftelijk en met redenen omkleed advies uit over het verzoek tot beëindiging van de arbeidsovereenkomst.   
-2.  Indien niet binnen de termijn, bedoeld in het eerste lid, advies kan worden uitgebracht, geeft de voorzitter van de betrokken ontslagadviescommissie dat schriftelijk, onder opgave van redenen, tijdig te kennen aan de minister.   
+2.  Indien niet binnen de termijn, bedoeld in het eerste lid, advies kan worden uitgebracht, geeft de voorzitter van de betrokken ontslagadviescommissie dat schriftelijk, onder opgave van redenen, tijdig te kennen aan de minister.  
 
 ### Artikel  3.7  
 
 ####Termijn en voorwaarden toestemming
 
 1.  Indien de minister toestemming voor de beëindiging van de arbeidsovereenkomst verleent, bepaalt hij daarbij gedurende welke termijn de toestemming geldt. Deze termijn, welke begint te lopen vanaf de bekendmaking van de toestemming, wordt op ten hoogste acht weken gesteld.   
-2.  Behoudens de in artikel 5.7 genoemde voorwaarde kunnen aan de beslissing inzake het verlenen van toestemming geen voorwaarden worden verbonden.   
+2.  Behoudens de in artikel 5.7 genoemde voorwaarde kunnen aan de beslissing inzake het verlenen van toestemming geen voorwaarden worden verbonden.  
 
 ### Paragraaf  4  
 
@@ -147,7 +150,7 @@ Indien een kennisgeving als bedoeld in [artikel 5 van de wet](../../../../../../
 
 1.  De minister beoordeelt of het voorgenomen ontslag redelijk is.   
 2.  Hij neemt daarbij de mogelijkheden en belangen van de betrokken werkgever en werknemer in aanmerking en andere belangen voor zover de navolgende regels dit inhouden.   
-3.  De werkgever verstrekt aan de minister de gegevens die noodzakelijk zijn voor de beoordeling van een voorgenomen ontslag.   
+3.  De werkgever verstrekt aan de minister de gegevens die noodzakelijk zijn voor de beoordeling van een voorgenomen ontslag.  
 
 ### Paragraaf  5  
 
@@ -163,13 +166,13 @@ Indien een kennisgeving als bedoeld in [artikel 5 van de wet](../../../../../../
 a. het verzoek om toestemming voor beëindiging van de arbeidsovereenkomst verband houdt met en volgt op een kennisgeving als bedoeld in [artikel 5, eerste lid, van de wet](../../../../../../../wet-BES/wet/beëindiging/arbeidsovereenkomsten/bes/BWBR0028174/README.md); en  
 
 b. bij het verzoek om toestemming een akkoord tussen de werkgever en de betreffende vakorganisatie(s) is gevoegd waaruit blijkt dat de door de werkgever aangevoerde redenen leiden tot het vervallen van het door de werkgever voorgestelde aantal arbeidsplaatsen.     
-3.  De minister verleent toestemming voor de beëindiging van de arbeidsovereenkomst van de daarbij betrokken werknemers met inachtneming van de artikelen 5.2 tot en met 5.7.   
+3.  De minister verleent toestemming voor de beëindiging van de arbeidsovereenkomst van de daarbij betrokken werknemers met inachtneming van de artikelen 5.2 tot en met 5.7.  
 
 ### Artikel  5.2  
 
 ####Selectiecriterium bij individueel ontslag
 
-Bij het vervallen van meer dan een arbeidsplaats, zonder dat sprake is van een collectief ontslag als bedoeld in [artikel 5 van de wet](../../../../../../../wet-BES/wet/beëindiging/arbeidsovereenkomsten/bes/BWBR0028174/README.md), geldt dat binnen een categorie van uitwisselbare functies bij een bedrijfsvestiging, de werknemer met het kortste dienstverband als eerste voor ontslag wordt voorgedragen.  
+Bij het vervallen van meer dan een arbeidsplaats, zonder dat sprake is van een collectief ontslag als bedoeld in [artikel 5 van de wet](../../../../../../../wet-BES/wet/beëindiging/arbeidsovereenkomsten/bes/BWBR0028174/README.md), geldt dat binnen een categorie van uitwisselbare functies bij een bedrijfsvestiging, de werknemer met het kortste dienstverband als eerste voor ontslag wordt voorgedragen. 
 
 ### Artikel  5.3  
 
@@ -177,7 +180,7 @@ Bij het vervallen van meer dan een arbeidsplaats, zonder dat sprake is van een c
 
 1.  Ingeval van een collectief ontslag als bedoeld in [artikel 5 van de wet](../../../../../../../wet-BES/wet/beëindiging/arbeidsovereenkomsten/bes/BWBR0028174/README.md) geldt dat voor zover het bij de te vervallen arbeidsplaatsen uitwisselbare functies betreft, per leeftijdsgroep binnen een categorie uitwisselbare functies van de betreffende bedrijfsvestiging, de werknemers met het kortste dienstverband als eerste voor ontslag worden voorgedragen.   
 2.  Het aantal werknemers dat per leeftijdsgroep voor ontslag in aanmerking wordt gebracht, komt voor zover mogelijk voor en na ontslag overeen met de onderlinge verhouding van het aantal werknemers in elk van de leeftijdsgroepen binnen de betreffende categorie uitwisselbare functies.   
-3.  De in het eerste en tweede lid bedoelde leeftijdsgroepen zijn de groepen van 15 tot 25 jaar, van 25 tot 35 jaar, van 35 tot 45 jaar, van 45 tot 55 jaar en van 55 jaar en ouder.   
+3.  De in het eerste en tweede lid bedoelde leeftijdsgroepen zijn de groepen van 15 tot 25 jaar, van 25 tot 35 jaar, van 35 tot 45 jaar, van 45 tot 55 jaar en van 55 jaar en ouder.  
 
 ### Artikel  5.4  
 
@@ -189,13 +192,13 @@ a. bij een individueel of collectief ontslag sprake is van een duidelijk aantoon
 
 b. bij een individueel ontslag toepassing van het in artikel 5.2 omschreven beginsel zou leiden tot een onevenwichtige leeftijdsopbouw binnen het bedrijf van de werkgever; of  
 
-c. er andere redenen zijn waardoor toepassing van de in de aanhef genoemde selectiecriteria voor het functioneren van de bedrijfsvestiging te bezwaarlijk zijn.    
+c. er andere redenen zijn waardoor toepassing van de in de aanhef genoemde selectiecriteria voor het functioneren van de bedrijfsvestiging te bezwaarlijk zijn.   
 
 ### Artikel  5.5  
 
 ####Afwijkingsmogelijkheid selectiecriteria in het belang van werknemer
 
-De minister kan ten aanzien van een werknemer die overeenkomstig de artikelen 5.2, 5.3 of 5.4 voor ontslag in aanmerking komt toestemming weigeren, indien deze werknemer een zwakke arbeidsmarktpositie heeft, en dit niet het geval is met de werknemer die alsdan voor ontslag in aanmerking komt.  
+De minister kan ten aanzien van een werknemer die overeenkomstig de artikelen 5.2, 5.3 of 5.4 voor ontslag in aanmerking komt toestemming weigeren, indien deze werknemer een zwakke arbeidsmarktpositie heeft, en dit niet het geval is met de werknemer die alsdan voor ontslag in aanmerking komt. 
 
 ### Artikel  5.6  
 
@@ -208,13 +211,13 @@ a. met een uitkering op grond van [artikel 5, eerste lid, van de Wet ongevallenv
 
 b. voor wie voorzieningen zijn getroffen tot behoud, herstel of ter bevordering van de mogelijkheid tot het verrichten van arbeid; of  
 
-c. die wegens ziekte recht hebben op ziekengeld als bedoeld in [artikel 5 van de Wet ziekteverzekering BES](../../../../../../../wet-BES/wet/ongevallenverzekering/bes/BWBR0028497/README.md).     
+c. die wegens ziekte recht hebben op ziekengeld als bedoeld in [artikel 5 van de Wet ziekteverzekering BES](../../../../../../../wet-BES/wet/ongevallenverzekering/bes/BWBR0028497/README.md).    
 
 ### Artikel  5.7  
 
 ####Voorwaarde bij beëindiging wegens bedrijfseconomische redenen
 
-Indien de minister toestemming voor de beëindiging van de arbeidsovereenkomst wegens bedrijfseconomische redenen verleent, kan hij aan zijn toestemming de voorwaarde verbinden dat de werkgever binnen 26 weken na de bekendmaking van die toestemming geen werknemer in dienst zal nemen voor het verrichten van werkzaamheden van dezelfde aard, dan nadat hij degene voor wie de toestemming tot beëindiging van de arbeidsovereenkomst wordt verleend, in de gelegenheid heeft gesteld zijn vroegere werkzaamheden op de bij de werkgever gebruikelijke voorwaarden te hervatten.  
+Indien de minister toestemming voor de beëindiging van de arbeidsovereenkomst wegens bedrijfseconomische redenen verleent, kan hij aan zijn toestemming de voorwaarde verbinden dat de werkgever binnen 26 weken na de bekendmaking van die toestemming geen werknemer in dienst zal nemen voor het verrichten van werkzaamheden van dezelfde aard, dan nadat hij degene voor wie de toestemming tot beëindiging van de arbeidsovereenkomst wordt verleend, in de gelegenheid heeft gesteld zijn vroegere werkzaamheden op de bij de werkgever gebruikelijke voorwaarden te hervatten. 
 
 ### Artikel  5.8  
 
@@ -229,7 +232,7 @@ b. het tijdstip of de tijdstippen waarop hij de arbeidsovereenkomsten volgens zi
 
 c. het resultaat van het overleg met de vakorganisatie indien de betrokken werknemers vertegenwoordigd worden door een vakorganisatie; en  
 
-d. maatregelen die de werkgever heeft genomen ter verzachting van de gevolgen van het ontslag van de betrokken werknemers.     
+d. maatregelen die de werkgever heeft genomen ter verzachting van de gevolgen van het ontslag van de betrokken werknemers.    
 
 ### Paragraaf  6  
 
@@ -255,7 +258,7 @@ d. aannemelijk is dat het disfunctioneren van de werknemer niet toe te schrijven
 
 a. de werknemer over onvoldoende middelen en mogelijkheden beschikt om na beëindiging van de arbeidsovereenkomst op sociaal aanvaardbare wijze in zijn onderhoud en dat van zijn eventuele gezin te voorzien, én  
 
-b. de werknemer kan aantonen dat hij zowel geestelijk als lichamelijk nog in staat is de bedongen arbeid te verrichten.     
+b. de werknemer kan aantonen dat hij zowel geestelijk als lichamelijk nog in staat is de bedongen arbeid te verrichten.    
 
 ### Artikel  6.2  
 
@@ -265,7 +268,7 @@ Indien de werkgever als grond voor beëindiging van de arbeidsovereenkomst aanvo
 
 a. deze ongeschiktheid aannemelijk heeft gemaakt en aannemelijk is dat binnen dertien weken geen herstel zal optreden, en  
 
-b. aannemelijk heeft gemaakt dat hij redelijkerwijs niet de mogelijkheid heeft de werknemer binnen dertien weken, indien nodig door middel van scholing, te herplaatsen in een aangepaste dan wel andere functie binnen de onderneming, welke voor die werknemer als passend kan worden beschouwd.    
+b. aannemelijk heeft gemaakt dat hij redelijkerwijs niet de mogelijkheid heeft de werknemer binnen dertien weken, indien nodig door middel van scholing, te herplaatsen in een aangepaste dan wel andere functie binnen de onderneming, welke voor die werknemer als passend kan worden beschouwd.   
 
 ### Paragraaf  7  
 
@@ -275,7 +278,7 @@ b. aannemelijk heeft gemaakt dat hij redelijkerwijs niet de mogelijkheid heeft d
 
 ####Tegengaan discriminatie
 
-Bij de toepassing van de artikelen 5.1 tot en met 6.2 besteedt de minister extra aandacht aan het tegengaan van discriminatie.  
+Bij de toepassing van de artikelen 5.1 tot en met 6.2 besteedt de minister extra aandacht aan het tegengaan van discriminatie. 
 
 ### Paragraaf  8  
 
@@ -285,24 +288,24 @@ Bij de toepassing van de artikelen 5.1 tot en met 6.2 besteedt de minister extra
 
 ####Intrekking [Regeling beëindiging arbeidsovereenkomsten BES](../../../../../../../ministeriele-regeling-BES/regeling/beëindiging/arbeidsovereenkomsten/bes/BWBR0028954/README.md)
 
-De [Regeling beëindiging arbeidsovereenkomsten BES](../../../../../../../ministeriele-regeling-BES/regeling/beëindiging/arbeidsovereenkomsten/bes/BWBR0028954/README.md) wordt ingetrokken.  
+De [Regeling beëindiging arbeidsovereenkomsten BES](../../../../../../../ministeriele-regeling-BES/regeling/beëindiging/arbeidsovereenkomsten/bes/BWBR0028954/README.md) wordt ingetrokken. 
 
 ### Artikel  8.2  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt voor zover het betreft de artikelen 2.1, 2.2 en 2.4, eerste lid, terug tot en met 10 oktober 2010.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst, en werkt voor zover het betreft de artikelen 2.1, 2.2 en 2.4, eerste lid, terug tot en met 10 oktober 2010. 
 
 ### Artikel  8.3  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling beëindiging arbeidsovereenkomsten BES 2012.  
+Deze regeling wordt aangehaald als: Regeling beëindiging arbeidsovereenkomsten BES 2012. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 9 juli 2012   
 
 De 
-Minister van Sociale Zaken en Werkgelegenheid,
-H.G.J.Kamp   
+Minister van Sociale Zaken en Werkgelegenheid, 
+H.G.J. Kamp     

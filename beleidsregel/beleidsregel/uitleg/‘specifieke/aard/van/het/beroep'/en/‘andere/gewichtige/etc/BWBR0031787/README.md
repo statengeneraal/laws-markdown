@@ -12,7 +12,7 @@ Besluit:
 
 ####Specifieke aard van het beroep
 
-Op grond van [artikel 11, onder f](../../../../../../../../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), en [13a, tweede lid, van de Leerplichtwet 1969](../../../../../../../../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) (Leerplichtwet) is om buiten de schoolvakanties op vakantie te gaan vanwege het specifieke beroep van één van de ouders, éénmaal vrijstelling van geregeld schoolbezoek mogelijk voor ten hoogste tien dagen per schooljaar. Dit verlof kan geen betrekking hebben op de eerste twee lesweken van het jaar. Voor een kwalificatieplichtige jongere kan slechts verlof worden verleend voor een evenredig deel van het aantal dagen dat deze verplicht is onderwijs te volgen. Het hoofd van de school of instelling kan hiervoor verlof verlenen. Bij het begrip ‘specifieke aard van het beroep’ bedoeld in [artikel 11, onderdeel f, van de Leerplichtwet](../../../../../../../../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) dient voornamelijk te worden gedacht aan seizoensgebonden werkzaamheden, resp. werkzaamheden in bedrijfstakken die een piekdrukte kennen, waardoor het voor het gezin feitelijk onmogelijk is om in die periode een vakantie op te nemen. Het moet redelijkerwijs te voorzien zijn (en/of worden aangetoond) dat een vakantie in de schoolvakanties tot onoverkomelijke bedrijfseconomische problemen zal leiden. Slechts het gegeven dat gedurende de schoolvakanties een belangrijk deel van de omzet wordt behaald is onvoldoende.  
+Op grond van [artikel 11, onder f](../../../../../../../../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), en [13a, tweede lid, van de Leerplichtwet 1969](../../../../../../../../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) (Leerplichtwet) is om buiten de schoolvakanties op vakantie te gaan vanwege het specifieke beroep van één van de ouders, éénmaal vrijstelling van geregeld schoolbezoek mogelijk voor ten hoogste tien dagen per schooljaar. Dit verlof kan geen betrekking hebben op de eerste twee lesweken van het jaar. Voor een kwalificatieplichtige jongere kan slechts verlof worden verleend voor een evenredig deel van het aantal dagen dat deze verplicht is onderwijs te volgen. Het hoofd van de school of instelling kan hiervoor verlof verlenen. Bij het begrip ‘specifieke aard van het beroep’ bedoeld in [artikel 11, onderdeel f, van de Leerplichtwet](../../../../../../../../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) dient voornamelijk te worden gedacht aan seizoensgebonden werkzaamheden, resp. werkzaamheden in bedrijfstakken die een piekdrukte kennen, waardoor het voor het gezin feitelijk onmogelijk is om in die periode een vakantie op te nemen. Het moet redelijkerwijs te voorzien zijn (en/of worden aangetoond) dat een vakantie in de schoolvakanties tot onoverkomelijke bedrijfseconomische problemen zal leiden. Slechts het gegeven dat gedurende de schoolvakanties een belangrijk deel van de omzet wordt behaald is onvoldoende. 
 
 ### Artikel  2  
 
@@ -24,9 +24,9 @@ Op grond van [artikel 11, onderdeel g](../../../../../../../../../../../../../we
 
 * voor het voldoen aan wettelijke verplichtingen, voor zover dit niet buiten de lesuren kan geschieden: maximaal 10 dagen;  
 
-* voor het bijwonen van het huwelijk van bloed- of aanverwant tot en met de 3e graad: in Nederland maximaal 2 schooldagen indien er ver gereisd moet worden, anders maximaal 1 dag, in het buitenland maximaal 5 schooldagen. *Soort bewijs: trouwkaart (indien twijfelachtig kopie trouwakte);*  
+* voor het bijwonen van het huwelijk van bloed- of aanverwant tot en met de 3e graad: in Nederland maximaal 2 schooldagen indien er ver gereisd moet worden, anders maximaal 1 dag, in het buitenland maximaal 5 schooldagen. *Soort bewijs: trouwkaart (indien twijfelachtig kopie trouwakte);*   
 
-* bij ernstige levensbedreigende ziekte zonder uitzicht op herstel van bloed- of aanverwant tot en met de 3e graad: maximaal 10 dagen. *Soort bewijs: doktersverklaring waar ernstige ziekte uit blijkt;*  
+* bij ernstige levensbedreigende ziekte zonder uitzicht op herstel van bloed- of aanverwant tot en met de 3e graad: maximaal 10 dagen. *Soort bewijs: doktersverklaring waar ernstige ziekte uit blijkt;*   
 
 * bij overlijden van bloed- of aanverwant: 
 
@@ -72,15 +72,15 @@ Op grond van [artikel 11, onderdeel g](../../../../../../../../../../../../../we
 
 * sabbatical;  
 
-* wereldreis/verre reis.    
+* wereldreis/verre reis.   
 
 ### Artikel  3  
 
 ####Inwerkingtreding
 
-Deze beleidsregel treedt in werking met ingang van 1 juli 2012.  
+Deze beleidsregel treedt in werking met ingang van 1 juli 2012. 
 Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap,
-J.M. vanBijsterveldt-Vliegenthart   
+Minister van Onderwijs, Cultuur en Wetenschap, 
+J.M. van Bijsterveldt-Vliegenthart     
