@@ -2,6 +2,10 @@
 
 ##Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 3 juli 2012, nr. WJZ/390448(10167), houdende nadere voorschriften voor de inrichting van de jaarverslaggeving van de bekostigde onderwijsinstellingen in Caribisch Nederland (Regeling jaarverslaggeving onderwijs BES)
 
+De Minister van Onderwijs, Cultuur en Wetenschap,  
+Gelet op [artikel 2, eerste en vierde lid van het Besluit informatievoorziening WPO BES](../../../../../../AMvB-BES/besluit/informatievoorziening/wpo/bes/BWBR0029578/README.md), [artikel 17, vijfde lid, van het Bekostigingsbesluit WVO BES](../../../../../../AMvB-BES/bekostigingsbesluit/wvo/bes/BWBR0029598/README.md) en de [artikelen 2.3.1, negende lid](../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md) en [2.3.2, tweede lid, van de Wet educatie en beroepsonderwijs BES](../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md);
+Besluit:    
+
 ### Artikel  1  
 
 ####Definities
@@ -14,13 +18,13 @@ In deze regeling wordt verstaan onder:
 
 *jaarrekening:* het onderdeel van het jaarverslag, bestaande uit de balans, de staat van baten en lasten, het kasstroomoverzicht, de toelichting op de balans en de staat van baten en lasten – waaronder het overzicht: ‘niet uit de balans blijkende zaken’ – en de overige gegevens;  
 
-*jaarverslag:* het verslag, bestaande uit een bestuursverslag, een jaarrekening en andere gegevens, waarmee het bevoegd gezag interne en externe belanghebbenden informeert over het gevoerde beleid en de gang van zaken bij de instelling, de uitkomsten van het gevoerde beleid in het jaar waarover verslag wordt gedaan alsmede de aanwending van middelen in dat jaar en verantwoording aflegt overeenkomstig de gestelde wettelijke eisen.    
+*jaarverslag:* het verslag, bestaande uit een bestuursverslag, een jaarrekening en andere gegevens, waarmee het bevoegd gezag interne en externe belanghebbenden informeert over het gevoerde beleid en de gang van zaken bij de instelling, de uitkomsten van het gevoerde beleid in het jaar waarover verslag wordt gedaan alsmede de aanwending van middelen in dat jaar en verantwoording aflegt overeenkomstig de gestelde wettelijke eisen.   
 
 ### Artikel  2  
 
 ####Voorschriften voor de inrichting van het jaarverslag door de onderwijsinstellingen
 
-Het jaarverslag wordt ingericht en ingediend overeenkomstig de wettelijke bepalingen en modellen en de nadere aanwijzingen van deze regeling. Onvermijdelijke afwijkingen, of voor het geven van het inzicht noodzakelijke afwijkingen, ten opzichte van de voorschriften in deze regeling worden in het betreffende onderdeel van het jaarverslag aangegeven.  
+Het jaarverslag wordt ingericht en ingediend overeenkomstig de wettelijke bepalingen en modellen en de nadere aanwijzingen van deze regeling. Onvermijdelijke afwijkingen, of voor het geven van het inzicht noodzakelijke afwijkingen, ten opzichte van de voorschriften in deze regeling worden in het betreffende onderdeel van het jaarverslag aangegeven. 
 
 ### Artikel  3  
 
@@ -33,7 +37,7 @@ Het jaarverslag wordt ingericht en ingediend overeenkomstig de wettelijke bepali
 5.  Indien een onderwijsinstelling een interne toezichthouder heeft, wordt aan het jaarverslag een verslag toegevoegd waarin deze verantwoording aflegt over zijn handelen en van de resultaten van dat handelen.   
 6.  De balans, de staat van baten en lasten, het kasstroomoverzicht en de toelichting worden opgesteld overeenkomstig de modellen in de bijlage bij deze regeling, waarbij geldt dat deze modellen de minimale indeling omvatten en naargelang de behoefte kunnen worden uitgebreid.   
 7.  Ten aanzien van onderwijsinstellingen voor openbaar onderwijs zonder afgescheiden vermogen die niet door een privaatrechtelijke rechtspersoon in stand worden gehouden of voor onderwijsinstellingen waarvoor anderszins geen toerekening mogelijk is van een of meer balansposten aan het belang van de instelling, blijft het model van de bijlage, onder A, beperkt tot die posten waarvoor die toerekening wel mogelijk is.   
-8.  Separaat van het jaarverslag wordt door het bevoegd gezag specifieke informatie toegevoegd in de vorm van een aanvullende set met nader te bepalen gegevens.   
+8.  Separaat van het jaarverslag wordt door het bevoegd gezag specifieke informatie toegevoegd in de vorm van een aanvullende set met nader te bepalen gegevens.  
 
 ### Artikel  4  
 
@@ -52,7 +56,7 @@ d. de organisatiestructuur;
 e. een beschrijving van de stand van zaken op de balansdatum en de ontwikkelingen gedurende het boekjaar in de organisatie, de onderwijskundige ontwikkelingen, de onderwijsprestaties, het personeel, de huisvesting en de financiën;  
 
 f. een financieel verslag, waarin aandacht wordt geschonken aan het investeringenbeleid, de financieringsstructuur, de financiële kengetallen en de liquiditeitspositie (treasury verslag). De financiële kengetallen bevatten uitgewerkte calculaties van de liquiditeitspositie, de solvabiliteit, de rentabiliteit, een en ander voorzien van een toelichting op de ontwikkeling van deze kengetallen. Het financieel verslag bevat bovendien een analyse van de realisatie van de begroting en de gevolgen van het gevoerde beleid voor de meerjarenraming.     
-2.  De financiële kengetallen kunnen, in afwijking van het eerste lid, onder f, worden opgenomen in de jaarrekening.   
+2.  De financiële kengetallen kunnen, in afwijking van het eerste lid, onder f, worden opgenomen in de jaarrekening.  
 
 ### Artikel  5  
 
@@ -72,38 +76,38 @@ e. een overzicht van niet uit de balans blijkende zaken;
 
 f. overige gegevens.     
 2.  In de jaarrekening worden gesegmenteerde overzichten en toelichtingen opgenomen als sprake is van meerdere onderwijssectoren binnen het bevoegd gezag of indien dit voor het geven van het vereiste inzicht noodzakelijk is.   
-3.  In de jaarrekening worden de cijfers vergeleken met de overeenkomstige cijfers van het voorafgaande jaar (jaar t-1).   
+3.  In de jaarrekening worden de cijfers vergeleken met de overeenkomstige cijfers van het voorafgaande jaar (jaar t-1).  
 
 ### Artikel  6  
 
 ####Aanleveren gegevens
 
-Het bevoegd gezag levert het jaarverslag uiterlijk 1 juli van het jaar volgend op het verslagjaar in schriftelijke vorm aan bij de Dienst Uitvoering Onderwijs.  
+Het bevoegd gezag levert het jaarverslag uiterlijk 1 juli van het jaar volgend op het verslagjaar in schriftelijke vorm aan bij de Dienst Uitvoering Onderwijs. 
 
 ### Artikel  7  
 
 ####Afwijkingsmogelijkheid
 
-Indien het voor het bevoegd gezag onmogelijk is om deze regeling volledig na te leven, geeft het bevoegd gezag in het jaarverslag uitdrukkelijk en gemotiveerd aan in hoeverre het de in deze regeling opgenomen inrichtingsvoorschriften niet heeft nageleefd met daarbij de aanduiding op welke termijn wel volledig aan de inrichtingsvoorschriften kan worden voldaan.  
+Indien het voor het bevoegd gezag onmogelijk is om deze regeling volledig na te leven, geeft het bevoegd gezag in het jaarverslag uitdrukkelijk en gemotiveerd aan in hoeverre het de in deze regeling opgenomen inrichtingsvoorschriften niet heeft nageleefd met daarbij de aanduiding op welke termijn wel volledig aan de inrichtingsvoorschriften kan worden voldaan. 
 
 ### Artikel  8  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  9  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling jaarverslaggeving onderwijs BES.  
+Deze regeling wordt aangehaald als: Regeling jaarverslaggeving onderwijs BES. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap,
-J.M. vanBijsterveldt-Vliegenthart  
+Minister van Onderwijs, Cultuur en Wetenschap, 
+J.M. van Bijsterveldt-Vliegenthart    
 
-### Bijlage  
+### Bijlage 
 
 ####behorende bij de Regeling jaarverslaggeving onderwijs BES
 

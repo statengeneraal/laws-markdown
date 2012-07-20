@@ -62,7 +62,7 @@ n. consumentenorganisaties: stichtingen of verenigingen met volledige rechtsbevo
 
 1.  De raad bestaat uit drie leden, onder wie de voorzitter.   
 2.  Benoeming vindt plaats op grond van deskundigheid op het gebied van de taken waarmee de raad is belast.   
-3.  De voorzitter wordt benoemd voor een periode van ten hoogste zes jaar en de overige leden worden benoemd voor een periode van ten hoogste vier jaar. De leden kunnen eenmaal worden herbenoemd voor een periode van ten hoogste vier jaar.   
+3.  De voorzitter wordt benoemd voor een periode van zeven jaar en de overige leden worden benoemd voor een periode van vijf jaar. De voorzitter en de leden kunnen eenmaal worden herbenoemd voor eenzelfde periode.   
 
 ### Artikel  4  
 
@@ -407,7 +407,7 @@ Indien een bestuursorgaan een publiekrechtelijke bevoegdheid uitoefent ten aanzi
 
 a. de Minister van Binnenlandse Zaken en Koninkrijksrelaties voor zover de regels betrekking hebben op gemeenten of provincies, en  
 
-b. de Minister van Verkeer en Waterstaat voor zover de regels betrekking hebben op waterschappen.     
+b. de Minister van Infrastructuur en Milieu voor zover de regels betrekking hebben op waterschappen.     
 
 ### Hoofdstuk  5  
 
@@ -974,7 +974,7 @@ De raad kan in geval van overtreding van artikel 49a, vierde lid, de overtreder
 
 ### Artikel  77  
 
-1.  Indien een ambtenaar als bedoeld in artikel 52, eerste lid, vaststelt dat een overtreding als bedoeld in artikel 69, eerste lid, 70a, eerste lid, 70b, eerste lid, 71, 72, 73, 74, eerste lid, 75, eerste lid, of 76a, is begaan, maakt hij daarvan een rapport als bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) op.   
+1.  Indien een ambtenaar als bedoeld in artikel 52, eerste lid, vaststelt dat een overtreding als bedoeld in artikel 69, eerste lid, 70a, eerste lid, 70b, eerste lid, 70c, eerste lid, 71, 72, 73, 74, eerste lid, 75, eerste lid, of 76a, is begaan, maakt hij daarvan een rapport als bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) op.   
 2.  Voor zover het rapport strekt ter voorbereiding van het opleggen van een last onder dwangsom, is [afdeling 5.4.2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
 
 ### Artikel  77a  
