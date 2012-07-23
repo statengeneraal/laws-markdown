@@ -11,23 +11,23 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De gezagsgebieden van de militaire autoriteiten, aangewezen als militaire gezagsdragers, worden opnieuw vastgesteld.  
+De gezagsgebieden van de militaire autoriteiten, aangewezen als militaire gezagsdragers, worden opnieuw vastgesteld. 
 
 ### Artikel  2  
 
-Het gezagsgebied van de bevelhebber der landstrijdkrachten en van de nationaal territoriaal commandant omvat: Nederland.  
+Het gezagsgebied van de bevelhebber der landstrijdkrachten en van de nationaal territoriaal commandant omvat: Nederland. 
 
 ### Artikel  3  
 
-Het gezagsgebied van de provinciale militaire commandanten omvat de provincie, waarover zij het provinciaal militair commando voeren, met dien verstande, dat het gezagsgebied van de provinciaal militair commandant Gelderland tevens omvat de provincie Flevoland. Het gezagsgebied van de regionaal militair commandant Noord omvat de provincies Groningen, Friesland en Drenthe.  
+Het gezagsgebied van de provinciale militaire commandanten omvat de provincie, waarover zij het provinciaal militair commando voeren, met dien verstande, dat het gezagsgebied van de provinciaal militair commandant Gelderland tevens omvat de provincie Flevoland. Het gezagsgebied van de regionaal militair commandant Noord omvat de provincies Groningen, Friesland en Drenthe. 
 
 ### Artikel  4  
 
-Het gezagsgebied van de commandant der zeemacht in Nederland omvat de provincies Groningen, Friesland, Noord-Holland, Zuid-Holland en Zeeland met de aangrenzende territoriale wateren, de zeegaten, het IJsselmeer, het Markermeer en de Waddenzee.  
+Het gezagsgebied van de commandant der zeemacht in Nederland omvat de provincies Groningen, Friesland, Noord-Holland, Zuid-Holland en Zeeland met de aangrenzende territoriale wateren, de zeegaten, het IJsselmeer, het Markermeer en de Waddenzee. 
 
 ### Artikel  5  
 
-Het gezagsgebied van de commandanten der maritieme middelen in Nederland omvat: 
+Het gezagsgebied van de commandanten der maritieme middelen in Nederland omvat:  
 
 a. voor de commandant der maritieme middelen Den Helder: de haven en rede van Den Helder, alsmede de gemeenten Den Helder, Texel, Wieringen, Harlingen, Hefshuizen en Delfzijl;  
 
@@ -35,19 +35,19 @@ b. voor de commandant der maritieme middelen Amsterdam: het Noordzeekanaal met d
 
 c. voor de commandant der maritieme middelen Rotterdam: de waterwegen van Dordrecht tot en met Hoek van Holland met de daaraan gelegen havens alsmede de gemeenten Dordrecht, Rotterdam - met inbegrip van Hoek van Holland -, Schiedam, Vlaardingen, Maassluis, Rozenburg, Hellevoetsluis en Goedereede;  
 
-d. voor de commandant der maritieme middelen Vlissingen: de haven en rede van Vlissingen alsmede de gemeenten Vlissingen, Oostburg, Valkenisse, West-Kapelle, Veere, Borsele, Kapelle, Reimerswaal, Zierikzee, Terneuzen en Hontenisse.    
+d. voor de commandant der maritieme middelen Vlissingen: de haven en rede van Vlissingen alsmede de gemeenten Vlissingen, Oostburg, Valkenisse, West-Kapelle, Veere, Borsele, Kapelle, Reimerswaal, Zierikzee, Terneuzen en Hontenisse.   
 
 ### Artikel  6  
 
-Dit besluit kan worden aangehaald als "Besluit gezagsgebieden militaire gezagsdragers".  
+Dit besluit kan worden aangehaald als "Besluit gezagsgebieden militaire gezagsdragers". 
 
 ### Artikel  7  
 
-Het Koninklijk besluit van 5 september 1975, *Stb.* 525 wordt ingetrokken.  
+Het Koninklijk besluit van 5 september 1975, *Stb.* 525 wordt ingetrokken. 
 
 ### Artikel  8  
 
-Dit besluit treedt in werking met ingang van de datum van ondertekening en werkt terug tot en met 1 januari 1986.  
+Dit besluit treedt in werking met ingang van de datum van ondertekening en werkt terug tot en met 1 januari 1986. 
 
 Onze Minister van Defensie is belast met de uitvoering van dit besluit dat in het *Staatsblad* zal worden geplaatst.   
 
