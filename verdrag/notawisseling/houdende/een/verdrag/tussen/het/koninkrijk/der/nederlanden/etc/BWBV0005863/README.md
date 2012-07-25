@@ -1,17 +1,9 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Notawisseling houdende een Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika betreffende de status van Amerikaanse mariniers aan boord van de Hr Ms Rotterdam in het kader van de Operation Ocean Shield
 
 ### Nr.  I  
-
-MINISTRY OF FOREIGN AFFAIRS The Hague, 18 July 2012 MINBUZA-2012.16215 The Ministry of Foreign Affairs of the Kingdom of the Netherlands presents its compliments to the Embassy of the United States of America and has the honor to refer to the upcoming deployment of members of the United States Marine Corps (USMC) on board the Royal Netherlands Navy vessel Hr Ms Rotterdam in the framework of Operation Ocean Shield. The Ministry has the honor to propose that: 
-
-1. Members of the USMC deployed on board Hr Ms Rotterdam shall be accorded the immunities equivalent to those accorded to members of forces under the [Agreement between the Parties to the North Atlantic Treaty regarding the status of their Forces](../../../../../../../../../../../../verdrag/agreement/between/the/parties/to/the/north/atlantic/treaty/regarding/the/etc/BWBV0004785/README.md) of June 19, 1951.  
-
-2. The Embassy of the United States shall, prior to the deployment of a member of the USMC on board Hr Ms Rotterdam, notify the Ministry by diplomatic note of the name and rank of such member.  
-
-3. The Kingdom of the Netherlands recognizes the particular importance of disciplinary control by the United States Armed Forces authorities over United States personnel and, therefore, authorizes the United States to exercise disciplinary authority over a member of the USMC referred to in the preceding paragraph for the time of his deployment on board Hr Ms Rotterdam.   If this proposal is acceptable to the Embassy of the United States of America the Ministry proposes that this note and the affirmative note of the Embassy shall constitute an Agreement between the Kingdom of the Netherlands and the United States of America which shall enter into force on the date of the Embassy’s reply and which shall remain in force for the duration of the deployment of the members of the USMC on board Hr Ms Rotterdam and for such additional period as is necessary for its winding up, the total duration of this Agreement, however, not to exceed one year. The Ministry of Foreign Affairs of the Kingdom of the Netherlands avails itself of this opportunity to renew to the Embassy of the United States of America the assurances of its highest consideration.  *To the Embassy of the United States of America at The Hague*    
+Vervallen per 19-07-2013 
 
 ### Nr.  II  
+Vervallen per 19-07-2013 
 
-EMBASSY OF THE UNITED STATES OF AMERICA The Hague, July 19 <sup>th</sup>, 2012 DAO No. 027-12 The Embassy of the United States of America presents its compliments to the Ministry of Foreign Affairs of the Kingdom of the Netherlands and has the honor to refer to the Embassy’s note No. MINBUZA-2012.16215 of July, 18 2012, which reads as follows:  (Zoals in Nr. I)  The Embassy of the United States of America has further the honor to inform the Ministry that the proposals set forth in the Ministry’s note are acceptable to the United States of America and to confirm that the Ministry’s note and this note shall constitute an Agreement between the Kingdom of the Netherlands and the United States of America, which enters into force on the date of this reply and which shall remain in force for the duration of the deployment of the member of the USMC on board Hr Ms Rotterdam and for such additional period as is necessary for its winding up, the total duration of this Agreement, however, not to exceed one year. The Embassy of the Unites States of America avails itself of this opportunity to renew to the Ministry of Foreign Affairs of the Kingdom of the Netherlands the assurances of its highest consideration.   

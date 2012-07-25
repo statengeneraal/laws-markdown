@@ -136,12 +136,6 @@ i. energievoorziening.
 3.  De krachtens het eerste lid te stellen regels ten aanzien van een onderwerp waarin ook door een besluit van een of meer instellingen van de Europese Unie is voorzien, mogen niet in strijd zijn met dat besluit.   
 4.  In de krachtens het eerste lid te stellen regels kan worden bepaald dat Onze Minister bevoegd is op aanvraag van de beheerder ontheffing verlenen van die regels.   
 
-### Artikel  7  
-
-1.  Onverminderd de krachtens artikel 6 gestelde regels zijn hoofdspoorwegen waar een snelheid van meer dan 40 kilometer per uur is toegestaan, voorzien van een bij ministeriële regeling te omschrijven systeem van beveiliging.   
-2.  Onverminderd de krachtens artikel 6 gestelde regels zijn gedeelten van een hoofdspoorweg die niet zijn gelegen in een gelijkvloerse kruising met een weg of in een voor het openbaar verkeer openstaande weg, zodanig afgesloten van de omgeving dat het publiek zich niet of slechts met bijzondere moeite op de spoorweg kan begeven.   
-3.  Onze Minister kan ontheffing verlenen van het eerste en tweede lid.   
-
 ### §  3  
 
 ####De interoperabiliteit van de hoofdspoorweginfrastructuur
@@ -255,7 +249,7 @@ b. het verstrekken van gegevens aan Onze Minister ten behoeve van:
 
 1°. het toezicht op de naleving van de concessie;  
 
-2°. het voldoen aan de verplichtingen die Onze Minister met betrekking tot de hoofdspoorwegen heeft ingevolge de [artikelen 116](../../../wet/wet/geluidhinder/BWBR0003227/README.md), [118](../../../wet/wet/geluidhinder/BWBR0003227/README.md) en [122 van de Wet geluidhinder](../../../wet/wet/geluidhinder/BWBR0003227/README.md) ter uitvoering van richtlijn nr. 2002/49/EG van het Europees Parlement en de Raad van de Europese Unie van 25 juni 2002 inzake de evaluatie en de beheersing van omgevingslawaai (PbEG L 189);  
+2°. het voldoen aan de verplichtingen die Onze Minister met betrekking tot de hoofdspoorwegen heeft ingevolge de [artikelen 11.6](../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [11.11 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) ter uitvoering van richtlijn nr. 2002/49/EG van het Europees Parlement en de Raad van de Europese Unie van 25 juni 2002 inzake de evaluatie en de beheersing van omgevingslawaai (PbEG L 189);  
 
 3°. het voldoen aan de verplichtingen die Onze Minister met betrekking tot de hoofdspoorwegen heeft ingevolge [artikel 12.13, eerste lid, van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md);    
 
@@ -265,6 +259,19 @@ d. wijzigingen van hoofdspoorweginfrastructuur die de beheerder aanbesteedt en a
 3.  Een wijziging van de technische of functionele eigenschappen van de hoofdspoorweginfrastructuur die de gebruiksmogelijkheden van de hoofdspoorwegen aanmerkelijk verandert, behoeft de voorafgaande instemming van Onze Minister. De beheerder vermeldt in zijn verzoek om instemming de zienswijzen van betrokken gerechtigden als bedoeld in artikel 57 en, voorzover de wijziging afwijkt van die zienswijzen, een deugdelijke motivering van die afwijking.   
 4.  Het derde lid geldt niet voor een wijziging van de technische of functionele eigenschappen, indien het verbetering of vernieuwing betreft waarvoor Onze Minister een vergunning voor indienststelling respectievelijk nieuwe vergunning voor indienststelling als bedoeld in artikel 9, derde lid, heeft verleend.   
 
+### Artikel  17a  
+
+1.  De beheerder stelt een beheerplan op conform de in de hem verleende concessie vastgelegde voorschriften.   
+2.  Aan de concessie wordt een voorschrift verbonden ten aanzien van de duur van het beheerplan.   
+
+### Artikel  17b  
+
+1.  De beheerder vraagt advies aan de gerechtigden, bedoeld in artikel 57, met uitzondering van de concessieverlener, bedoeld in [artikel 20, eerste lid, van de Wet personenvervoer 2000](../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), over de bij of krachtens algemene maatregel van bestuur aangewezen onderdelen van het beheerplan, bedoeld in artikel 17a.   
+2.  De beheerder stelt de gerechtigden in de gelegenheid met hem overleg te voeren voordat advies wordt uitgebracht.   
+3.  Het advies, bedoeld in het eerste lid, wordt op een zodanig tijdstip gevraagd dat het van wezenlijke invloed kan zijn op het door de beheerder op te stellen beheerplan.   
+4.  Indien na het advies van de gerechtigden een beslissing wordt genomen ten aanzien van de onderdelen van het beheerplan, bedoeld in het eerste lid, worden de gerechtigden door de beheerder zo spoedig mogelijk, doch uiterlijk vier weken voor deze gevolg geeft aan de beslissing, schriftelijk hiervan in kennis gesteld. Indien het advies van de gerechtigden niet of niet geheel is gevolgd, wordt aan hen tevens meegedeeld, waarom van dat advies is afgeweken en wordt hen de gelegenheid geboden binnen vier weken nader te overleggen met de beheerder alvorens deze gevolg geeft aan de beslissing.   
+5.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over de termijnen die bij de adviesprocedure en de overlegprocedure, bedoeld in dit artikel, in acht worden genomen.   
+
 ### Artikel  18  
 
 1.  Onze Minister kan een concessie geheel of gedeeltelijk intrekken indien de beheerder de concessie of een voor de beheerder geldend wettelijk voorschrift niet naleeft.   
@@ -272,6 +279,10 @@ d. wijzigingen van hoofdspoorweginfrastructuur die de beheerder aanbesteedt en a
 3.  Voordat Onze Minister een concessie verleent, wijzigt of geheel of gedeeltelijk intrekt, stelt hij betrokken gerechtigden als bedoeld in artikel 57 in de gelegenheid om gedurende een door Onze Minister daarbij te bepalen termijn van ten hoogste drie weken hun zienswijze naar voren te brengen.   
 4.  Een concessie wordt niet eerder verleend dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 5.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over het verlenen of wijzigen van een concessie en over de aan een concessie te verbinden voorschriften.   
+
+### Artikel  18a  
+
+Een besluit tot verlening of wijziging van een concessie kan worden genomen indien de beheerder niet binnen vier dagen na de dag waarop het voorgenomen besluit aan hem is bekendgemaakt aan de concessieverlener heeft doen blijken dat hij de concessie niet zonder voorbehoud aanvaardt.  
 
 ### Artikel  19  
 
@@ -329,7 +340,11 @@ b. de uitoefening van een veiligheidsfunctie;
 
 c. de uitoefening van een wettelijke taak;  
 
-d. het uitvoeren van werkzaamheden in opdracht van een spoorwegonderneming die beschikt over een veiligheidsattest als bedoeld in artikel 32, eerste lid, of een proefattest als bedoeld in artikel 34.     
+d. het uitvoeren van werkzaamheden in opdracht van een spoorwegonderneming die beschikt over een veiligheidsattest als bedoeld in artikel 32, eerste lid, of een proefattest als bedoeld in artikel 34;  
+
+e. de uitoefening van het houderschap van een spoorvoertuig en de uitoefening van werkzaamheden aan een spoorvoertuig in opdracht van de houder, en  
+
+f. de uitoefening van opleidingsactiviteiten voor een veiligheidsfunctie en de beoordeling op het voldoen aan de eisen voor een veiligheidsfunctie.     
 3.  Onze Minister kan ontheffing verlenen van het in het eerste lid vervatte verbod. Artikel 21, tweede lid, tweede en derde volzin, zijn van toepassing.   
 
 ### Artikel  23  
@@ -379,6 +394,7 @@ c. die niet voldoet aan de voor haar ingevolge artikel 55 geldende verzekeringsp
 d. indien het recht op die toegang niet rechtstreeks voortvloeit uit een toegangsovereenkomst als bedoeld in artikel 59;  
 
 e. die anderszins niet gerechtigd is van de hoofdspoorweg gebruik te maken.     
+3.  Bij algemene maatregel van bestuur kan met inachtneming van de artikelen 1 en 2 van richtlijn 95/18/EG onder daarbij te stellen voorwaarden en beperkingen vrijstelling worden verleend van het tweede lid, onderdeel a, en met inachtneming van artikel 3 van richtlijn 2004/49/EG onder daarbij te stellen voorwaarden en beperkingen vrijstelling worden verleend van het tweede lid, onderdeel b.   
 
 ### §  2  
 
@@ -428,7 +444,7 @@ c. de aan de bedrijfsvergunning te verbinden voorschriften en beperkingen.
 
 ### Artikel  32  
 
-1.  Onze Minister verleent op aanvraag een veiligheidsattest aan de houder of de aanvrager van een bedrijfsvergunning, indien deze aantoont: 
+1.  Onze Minister verleent op aanvraag een veiligheidsattest aan de aanvrager, indien deze aantoont: 
 
 a. bij het voorgenomen gebruik van de spoorweg te kunnen voldoen aan de bij of krachtens dit hoofdstuk gestelde voorschriften en  
 
@@ -498,7 +514,7 @@ d. elk subsysteem voldoet aan de eisen, bedoeld in artikel 15, eerste en tweede 
 
 e. het spoorvoertuig voldoet aan de bij regeling van Onze Minister gestelde voorschriften ten behoeve van de verenigbaarheid van een spoorvoertuig met de hoofdspoorweginfrastructuur.     
 4.  Onze Minister kan op aanvraag, met inachtneming artikel 9 van richtlijn 2008/57/EG, een voor een subsysteem geldende technische specificatie inzake interoperabiliteit buiten toepassing laten.   
-5.  Onze Minister verleent na de beheerder te hebben gehoord, een aanvullende vergunning voor indienststelling voor een spoorvoertuig indien: 
+5.  Onze Minister verleent na de beheerder te hebben gehoord, een aanvullende vergunning voor indienststelling indien: 
 
 a. het spoorvoertuig reeds in een andere staat is toegelaten;  
 
@@ -637,7 +653,7 @@ Indien Onze Minister vaststelt dat een interoperabiliteitsonderdeel, ondanks het
 ### Artikel  48  
 
 1.  Het is verboden onderhoud en herstel van spoorvoertuigen die beschikken over een volledige inschrijving in het register, bedoeld in artikel 37, tweede lid te laten uitvoeren door anderen dan daartoe door Onze Minister erkende natuurlijke personen of rechtspersonen.   
-2.  Een erkenning wordt verleend indien wordt voldaan aan de daarvoor bij algemene maatregel van bestuur gestelde eisen.   
+2.  Een erkenning wordt verleend indien wordt voldaan aan de daarvoor bij regeling van Onze Minister gestelde eisen.   
 3.  Met een erkenning als bedoeld in het eerste lid wordt gelijkgesteld een erkenning, afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een andere staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe of mede daartoe strekkend verdrag dat Nederland bindt, welke erkenning is afgegeven op basis van onderzoekingen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau dat met de nationale onderzoekingen wordt nagestreefd.   
 4.  De eisen of nadere eisen, bedoeld in het tweede lid, onderdeel c, kunnen onder meer betrekking hebben op: 
 
@@ -814,13 +830,15 @@ g. gebruiksvergoeding: vergoeding als bedoeld in artikel 8 van richtlijn 91/440/
 
 ### Artikel  57  
 
-Gerechtigd tot het sluiten van een toegangsovereenkomst en een kaderovereenkomst met de beheerder zijn: 
+1.  Gerechtigd tot het sluiten van een toegangsovereenkomst en een kaderovereenkomst met de beheerder zijn: 
 
-a. spoorwegondernemingen en hun internationale samenwerkingsverbanden als bedoeld in artikel 3 van richtlijn 91/440/EEG die in het bezit zijn van een bedrijfsvergunning of deze hebben aangevraagd, voorzover zij daarmee gerechtigd zijn van de hoofdspoorwegen gebruik te maken op de wijze waarvoor zij de overeenkomst willen sluiten;  
+a. spoorwegondernemingen die in het bezit zijn van een bedrijfsvergunning of deze hebben aangevraagd, voorzover zij daarmee gerechtigd zijn van de hoofdspoorwegen gebruik te maken op de wijze waarvoor zij de overeenkomst willen sluiten;  
 
 b. concessieverleners als bedoeld in [artikel 20 van de Wet personenvervoer 2000](../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) ten behoeve van openbaar vervoer per trein;  
 
-c. andere bij of krachtens algemene maatregel van bestuur aan te wijzen bestuursorganen, personen of rechtspersonen.    
+c. andere bij of krachtens algemene maatregel van bestuur aan te wijzen bestuursorganen, personen of rechtspersonen.     
+2.  De spoorwegonderneming doet uiterlijk tien maanden voor aanvang van de geldigheidsperiode van de dienstregeling, bedoeld in artikel 2, onderdeel m, van richtlijn 2001/14/EG waarin hij met het grensoverschrijdend personenvervoer wil aanvangen aan de raad van bestuur NMa en de beheerder melding van het voornemen om voor dat vervoer capaciteit aan te vragen.   
+3.  Het tweede lid is van overeenkomstige toepassing voor wijzigingen van het grensoverschrijdend personenvervoer.   
 
 ### §  2  
 
@@ -872,9 +890,9 @@ b. de gebruiksvergoeding.
 
 ### Artikel  61  
 
-1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de verdeling van capaciteit. Die regels kunnen strekken ter bescherming van het milieu.   
+1.  Bij algemene maatregel van bestuur worden regels gesteld over de verdeling van capaciteit. Die regels kunnen strekken ter bescherming van het milieu.   
 2.  Bij de algemene maatregel van bestuur, bedoeld in het eerste lid, worden minimale niveaus van capaciteit vastgesteld voor daarbij aangegeven deelmarkten van het goederenvervoer en het personenvervoer en worden regels gesteld over de prioriteitscriteria, bedoeld in artikel 22, derde tot en met vijfde lid, van richtlijn 2001/14/EG.   
-3.  Bij of krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid, wordt bepaald in welke gevallen capaciteit tot een bepaald tijdstip is voorbehouden voor bepaalde soorten gebruik van de hoofdspoorwegen en vanaf welk tijdstip deze capaciteit beschikbaar is voor ander gebruik.   
+3.  Bij de algemene maatregel van bestuur, bedoeld in het eerste lid, wordt bepaald in welke gevallen capaciteit tot een bepaald tijdstip is voorbehouden voor bepaalde soorten gebruik van de hoofdspoorwegen en vanaf welk tijdstip deze capaciteit beschikbaar is voor ander gebruik.   
 4.  De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 
 ### §  6  
@@ -1303,7 +1321,7 @@ Erkenningen op grond van [artikel 32d, zevende lid, van de Spoorwegwet](../../..
 ### Artikel  124  
 
 1.  In afwijking van artikel 2, tweede en vijfde lid, kunnen spoorwegen als hoofdspoorwegen worden aangewezen, indien deze spoorwegen rechtstreeks of middellijk in overwegende mate zijn aangelegd op kosten van het Rijk en naar het oordeel van Onze Minister voldoende is komen vast te staan dat gedurende de periode van twee jaar voorafgaand aan de datum van inwerkingtreding van artikel 2, tweede lid deze spoorwegen door Railinfrabeheer b.v., gevestigd te Utrecht, werden onderhouden.   
-2.  Tot 1 januari 2010 kunnen in afwijking van artikel 2, tweede en vijfde lid, spoorwegen als hoofdspoorwegen worden aangewezen, indien Railinfrabeheer b.v., of Railinfratrust b.v., gevestigd te Utrecht, of hun rechtsopvolger rechthebbende is ten aanzien van deze spoorwegen.   
+2.  Tot 1 januari 2013 kunnen in afwijking van artikel 2, tweede en vijfde lid, spoorwegen als hoofdspoorwegen worden aangewezen, indien Railinfrabeheer b.v., of Railinfratrust b.v., gevestigd te Utrecht, of hun rechtsopvolger rechthebbende is ten aanzien van deze spoorwegen.   
 
 ### Artikel  125  
 

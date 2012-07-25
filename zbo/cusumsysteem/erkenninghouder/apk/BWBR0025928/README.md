@@ -3,24 +3,24 @@
 ##Cusumsysteem Erkenninghouder APK
 
 De Directie van de Dienst Wegverkeer,  
-Gelet op [artikel 37, van de Regeling Erkenning en keuringsbevoegdheid APK](../../../../../ministeriele-regeling/regeling/erkenning/en/keuringsbevoegdheid/apk/BWBR0025735/README.md);
+Gelet op artikel 37, van de Regeling Erkenning en keuringsbevoegdheid APK;
 Besluit:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a. *herkeuring:* steekproef als bedoeld in [artikel 86, eerste lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en het deskundigenonderzoek als bedoeld in [artikel 91 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+a. *herkeuring:* steekproef als bedoeld in artikel 86, eerste lid, van de Wegenverkeerswet 1994 alsmede onderzoeken door de politie of RDW, en het deskundigenonderzoek als bedoeld in artikel 91 van de Wegenverkeerswet 1994 alsmede onderzoeken door de politie of RDW;  
 
-b. *cusumsysteem:* het systeem van bonus- en strafpunten als bedoeld in [artikel 37, van de Regeling Erkenning en keuringsbevoegdheid APK](../../../../../ministeriele-regeling/regeling/erkenning/en/keuringsbevoegdheid/apk/BWBR0025735/README.md);  
+b. *cusumsysteem:* het systeem van bonus- en strafpunten als bedoeld in artikel 37, van de Regeling Erkenning en keuringsbevoegdheid APK;  
 
 c. *cusumbijdrage:* de bijdrage aan straf- en bonuspunten van een herkeuring;  
 
 d. *cusumstand:* startwaarde vermeerderd met de som van bonus- en strafpunten van herkeuringen;  
 
-e. *keuringseisen:* de permanente eisen als bedoeld in [hoofdstuk 5 van de Regeling Voertuigen](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md);  
+e. *keuringseisen:* de permanente eisen als bedoeld in hoofdstuk 5 van de Regeling Voertuigen;  
 
-f. *misser:* bij een herkeuring geconstateerd onjuist of vergeten afkeurpunt, adviespunt, reparatiepunt of reparatieadviespunt als bedoeld in [artikel 1 van de Regeling Erkenning en keuringsbevoegdheid APK](../../../../../ministeriele-regeling/regeling/erkenning/en/keuringsbevoegdheid/apk/BWBR0025735/README.md);  
+f. *misser:* bij een herkeuring geconstateerd onjuist of vergeten afkeurpunt, adviespunt, reparatiepunt of reparatieadviespunt als bedoeld in artikel 1 van de Regeling Erkenning en keuringsbevoegdheid APK;  
 
 g. *gradatie:* kwalificatie van een misser uitgedrukt in strafpunten bij toepassing van de keuringseisen;  
 
@@ -93,7 +93,7 @@ d. in een periode van 12 maanden driemaal plaatsing in de P-klasse heeft plaatsg
 
 ### Artikel  6  
 
-De [Bekendmaking cusumsysteem erkenninghouders APK 2007](../../../../../zbo/bekendmaking/cusumsysteem/erkenninghouders/apk/2007/BWBR0020398/README.md) van 18 oktober 2006, Stcrt 2006, nr. 203 wordt ingetrokken.  
+De Bekendmaking cusumsysteem erkenninghouders APK 2007 van 18 oktober 2006, Stcrt 2006, nr. 203 wordt ingetrokken.  
 
 ### Artikel  7  
 
