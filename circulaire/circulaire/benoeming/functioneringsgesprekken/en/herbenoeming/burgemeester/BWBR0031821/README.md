@@ -31,7 +31,7 @@
 | – Het globale tijdschema: vaststellen profielschets, openstelling vacature, bekend maken van selectie door commissaris van de Koningin, uitnodigen kandidaten door vertrouwenscommissie, ontvangst sollicitanten, uitbrengen verslag van bevindingen, vaststellen aanbeveling, verzending aanbeveling aan minister van Binnenlandse Zaken en Koninkrijksrelaties (BZK) en streefdatum waarop benoeming ingaat. Overigens wordt de tijdsplanning over het algemeen door de kabinetschef van de commissaris van de Koningin kenbaar gemaakt aan, of in bijzondere gevallen: overlegd met, de afdeling Politieke Ambtsdragers van het ministerie van BZK.  |
 | – De datum van de profielschetsvergadering, ook van belang voor het bepalen van de datum waarop de vacature wordt opengesteld.  |
 | – Het opstellen van de profielschets. De conceptprofielschets wordt voorafgaand aan de profielschetsvergadering aan de (kabinetschef van de) commissaris van de Koningin gestuurd. De profielschets moet vanzelfsprekend voldoen aan de wettelijke vereisten. Zo mag bijvoorbeeld geen voorkeur worden uitgesproken voor geloof of leeftijd. Er kan worden besloten burgers en instellingen te betrekken bij opstelling van het profiel, bijvoorbeeld door middel van een enquête.  |
-| – Het opstellen van de verordening op de vertrouwenscommissie. De conceptverordening wordt voorafgaand aan de profielschetsvergadering aan de (kabinetschef van de) commissaris van de Koningin gestuurd.  |
+|  – Het opstellen van de verordening op de vertrouwenscommissie. De conceptverordening wordt voorafgaand aan de profielschetsvergadering aan de (kabinetschef van de) commissaris van de Koningin gestuurd.  |
 | – De communicatie van de vertrouwenscommissie met de commissaris van de Koningin.  |
 | Hierbij wordt de wenselijkheid besproken van een tweede gesprek tussen de vertrouwenscommissie en de commissaris van de Koningin, nadat de vertrouwenscommissie haar standpunt over de geschiktheid van de door haar ontvangen kandidaten heeft bepaald, doch voordat zij schriftelijk verslag uitbrengt aan de gemeenteraad en aan de commissaris van de Koningin. In sommige provincies vindt dit standaard plaats.  |
 | – De mogelijkheid om bij bepaalde kandidaten een assessment af te laten nemen. Zie verder Assessment in de toelichting bij paragraaf V.  |
@@ -252,7 +252,7 @@ C. aannemelijk is dat binnen twee jaar de gemeenteraad van de betrokken gemeente
 | --- |
 |:---|
 |  *Bijlagen*   |
-| In verband met de digitale verwerking van binnenkomende post bij het ministerie van BZK wordt het op prijs gesteld als (uitsluitend) de aangegeven stukken in de aangegeven volgorde worden verstrekt. Overige stukken, zoals bijvoorbeeld achtergrondinformatie over de gemeente en de laatste raadsverkiezingen, behoeven niet te worden meegezonden, tenzij deze voor beoordeling van het proces en de aanbeveling zelf relevant zijn.  |
+| In verband met de digitale verwerking van binnenkomende post bij het ministerie van BZK wordt het op prijs gesteld als (uitsluitend) de aangegeven stukken in de aangegeven volgorde worden verstrekt. Overige stukken, zoals bijvoorbeeld achtergrondinformatie over de gemeente en de laatste raadsverkiezingen, behoeven niet te worden meegezonden, tenzij deze voor beoordeling van het proces en de aanbeveling zelf relevant zijn.   |
 
 ### VIII  
 
@@ -438,8 +438,8 @@ C. aannemelijk is dat binnen twee jaar de gemeenteraad van de betrokken gemeente
 | Afschriften van het Koninklijk besluit tot herbenoeming worden door tussenkomst van de commissaris van de Koningin aan de gemeenteraad en de burgemeester gezonden.  |
 
 De 
-minister van Binnenlandse Zaken en Koninkrijksrelaties,
-J.W.E.Spies  
+minister van Binnenlandse Zaken en Koninkrijksrelaties, 
+J.W.E. Spies    
 
 ####Voorbeeldverordening op de vertrouwenscommissie, die de aanbeveling tot benoeming van de burgemeester voorbereidt, op de raadscommissies, die functioneringsgesprekken met de burgemeester houden en op de raadscommissie, die de aanbeveling tot herbenoeming van de burgemeester voorbereidt
 
@@ -459,7 +459,7 @@ De commissie heeft tot taak:
 
 a. de aanbeveling tot benoeming of herbenoeming van de burgemeester voor te bereiden of  
 
-b. een functioneringsgesprek te houden met de burgemeester.    
+b. een functioneringsgesprek te houden met de burgemeester.   
 
 ### Artikel  2  
 
@@ -492,7 +492,7 @@ b. een functioneringsgesprek te houden met de burgemeester.
 
 3. De (plaatsvervangend) secretaris geeft ambtelijke ondersteuning aan de commissie.  
 
-4. De (plaatsvervangend) secretaris is geen lid van, en heeft geen stemrecht in, de commissie.    
+4. De (plaatsvervangend) secretaris is geen lid van, en heeft geen stemrecht in, de commissie.   
 
 ### Artikel  4  
 
@@ -572,7 +572,7 @@ b. een functioneringsgesprek te houden met de burgemeester.
 
 1. De [Gemeentewet](../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) bepaalt in [artikel 61 lid 4](../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) dat de commissie zich slechts door tussenkomst van de commissaris van de Koningin de door haar nodig geachte informatie over de kandidaten verschaft. Elk overleg met derden, schriftelijk of mondeling, is uitgesloten.  
 
-2. De secretaris nodigt, op verzoek van de commissie, de kandidaten uit voor een gesprek met de commissie. De commissie treft voorzieningen met betrekking tot de wijze waarop de privacy van de sollicitanten wordt beschermd, bijvoorbeeld door de plaats en het tijdstip van de gesprekken zodanig te kiezen dat de vertrouwelijkheid van de gesprekken is gewaarborgd.    
+2. De secretaris nodigt, op verzoek van de commissie, de kandidaten uit voor een gesprek met de commissie. De commissie treft voorzieningen met betrekking tot de wijze waarop de privacy van de sollicitanten wordt beschermd, bijvoorbeeld door de plaats en het tijdstip van de gesprekken zodanig te kiezen dat de vertrouwelijkheid van de gesprekken is gewaarborgd.   
 
 ### Artikel  9  
 
@@ -669,7 +669,7 @@ e. bij herbenoemingen: het verslag van het gesprek met de burgemeester over het 
 
 ####Onvoorziene gevallen
 
-In alle gevallen waarin deze verordening dan wel de circulaire niet voorziet, beslist de commissie.  
+In alle gevallen waarin deze verordening dan wel de circulaire niet voorziet, beslist de commissie. 
 
 ### Artikel  13  
 
@@ -681,7 +681,7 @@ De commissie is ontbonden met ingang van de dag volgende op die waarop:
 
 – bij een functioneringsgesprek: het verslag van het functioneringsgesprek is vastgesteld;  
 
-– bij herbenoeming: door de minister van BZK aan de gemeenteraad bekend is gemaakt dat de voordracht van de minister van BZK door een Koninklijk besluit is gevolgd.    
+– bij herbenoeming: door de minister van BZK aan de gemeenteraad bekend is gemaakt dat de voordracht van de minister van BZK door een Koninklijk besluit is gevolgd.   
 
 ### Artikel  14  
 
@@ -704,7 +704,7 @@ De commissie is ontbonden met ingang van de dag volgende op die waarop:
 
 ####Inwerkingtreding
 
-Deze verordening treedt in werking met ingang van de dag na bekendmaking.  
+Deze verordening treedt in werking met ingang van de dag na bekendmaking. 
 Aldus vastgesteld in de openbare raadsvergadering van ....  
 
 De voorzitter.  

@@ -23,7 +23,7 @@ De Staatsbelastinginspectie onder het Ministerie van Financiën van de Republiek
 ####Bevoegde autoriteiten
 
 1.  Voor de toepassing van dit Memorandum van Overeenstemming zijn de bevoegde autoriteiten: in Litouwen: De Staatsbelastinginspectie onder het Ministerie van Financiën; in Nederland: Belastingdienst / Oost / Central Liaison Office Almelo.   
-2.  Partijen zullen elkaar via briefwisseling op de hoogte stellen van de naam en adresgegevens van de betreffende bevoegde vertegenwoordigers en van eventuele latere wijzigingen daarin.   
+2.  Partijen zullen elkaar via briefwisseling op de hoogte stellen van de naam en adresgegevens van de betreffende bevoegde vertegenwoordigers en van eventuele latere wijzigingen daarin.  
 
 ####Uitwisseling van inlichtingen
 
@@ -51,13 +51,13 @@ h) Betalingen aan studenten voor studie en opleiding, indien beschikbaar (OESO c
 
 i) Overige inkomsten (OESO code 21).     
 2.  De in het eerste lid bedoelde inlichtingen worden periodiek verstrekt en ten minste eenmaal per kalenderjaar, bij voorkeur voor 1 augustus.   
-3.  Indien mocht blijken dat de gegevens die in het kader van de automatische uitwisseling zijn verstrekt onjuist of onvolledig zijn, zijn de bevoegde autoriteiten gehouden hierover zo spoedig mogelijk met elkaar contact op te nemen.   
+3.  Indien mocht blijken dat de gegevens die in het kader van de automatische uitwisseling zijn verstrekt onjuist of onvolledig zijn, zijn de bevoegde autoriteiten gehouden hierover zo spoedig mogelijk met elkaar contact op te nemen.  
 
 ### Artikel  3  
 
 ####Incidentele doelgroepacties
 
-De bevoegde autoriteiten kunnen bij briefwisseling met elkaar overeenkomen andere categorieën dan de hierboven genoemde automatisch met elkaar uit te wisselen voor een bepaalde periode.  
+De bevoegde autoriteiten kunnen bij briefwisseling met elkaar overeenkomen andere categorieën dan de hierboven genoemde automatisch met elkaar uit te wisselen voor een bepaalde periode. 
 
 ### Artikel  4  
 
@@ -75,7 +75,7 @@ c. gevallen waarin termijnoverschrijding dreigt en waarin de aanwezigheid van de
 d. onderzoeken in het kader van een overeengekomen bilateraal of multilateraal onderzoek.     
 3.  Een verzoek tot aanwezigheid van belastingambtenaren wordt schriftelijk ingediend door de bevoegde autoriteit van de verzoekende Staat. In het verzoek wordt de wenselijkheid van de aanwezigheid van belastingambtenaren onderbouwd en wordt een korte omschrijving van de zaak gegeven. De bevoegde autoriteit van de aangezochte Staat neemt zo spoedig mogelijk, doch uiterlijk binnen twee maanden na ontvangst van het verzoek, een beslissing op het verzoek.   
 4.  Indien een verzoek tot aanwezigheid van belastingambtenaren is aanvaard, zendt de bevoegde autoriteit van de aangezochte Staat zo spoedig mogelijk een bericht aan de bevoegde autoriteit van de verzoekende Staat over de autoriteit of de ambtenaar die is aangewezen het onderzoek uit te voeren. De bevoegde autoriteit van de aangezochte Staat informeert de bevoegde autoriteit van de verzoekende Staat eveneens over de vereiste procedures en voorwaarden voor de uitvoering van het onderzoek. Alle beslissingen betreffende de uitvoering van het belastingonderzoek worden genomen door de aangezochte Staat.   
-5.  De bevoegde autoriteit van de aangezochte Staat kan het verzoek afwijzen onder opgave van de redenen van deze beslissing.   
+5.  De bevoegde autoriteit van de aangezochte Staat kan het verzoek afwijzen onder opgave van de redenen van deze beslissing.  
 
 ####Diverse bepalingen
 
@@ -85,7 +85,7 @@ d. onderzoeken in het kader van een overeengekomen bilateraal of multilateraal o
 
 1.  Indien noodzakelijk plegen de bevoegde autoriteiten overleg over de wijze waarop de verplichtingen die dit Memorandum meebrengt, worden uitgevoerd.   
 2.  De in artikel 2 van dit Memorandum bedoelde inlichtingen worden waar mogelijk elektronisch via het Common Communication Network (hierna: CCN) mail in het standaard OESO opmaakformaat (meest recente versie), op papier, dan wel in enig ander opmaakformaat dat de bevoegde autoriteiten zijn overeengekomen, verstrekt.   
-3.  De uit te wisselen inlichtingen bevatten, indien beschikbaar, tevens de fiscale nummers en/of gegevens ten behoeve van de persoonlijke identificatie. Dit heeft betrekking op gegevens die afkomstig zijn uit beide Staten.   
+3.  De uit te wisselen inlichtingen bevatten, indien beschikbaar, tevens de fiscale nummers en/of gegevens ten behoeve van de persoonlijke identificatie. Dit heeft betrekking op gegevens die afkomstig zijn uit beide Staten.  
 
 ####Slotbepalingen
 
@@ -95,17 +95,17 @@ d. onderzoeken in het kader van een overeengekomen bilateraal of multilateraal o
 
 1.  Dit Memorandum van Overeenstemming treedt in werking op de datum van ondertekening en kan op ieder tijdstip worden gewijzigd na schriftelijke overeenstemming tussen de Partijen.   
 2.  Dit Memorandum van Overeenstemming wordt aangegaan voor onbepaalde tijd. Het kan worden beëindigd door een schriftelijke kennisgeving door één van de Partijen en houdt zes maanden na ontvangst van deze kennisgeving op van kracht te zijn.   
-3.  Vanaf de datum van inwerkingtreding van dit Memorandum van Overeenstemming is het Memorandum van Overeenstemming tussen de bevoegde autoriteiten van Litouwen en Nederland inzake de stroomlijning en intensivering van wederzijdse bijstand op het gebied van directe belastingen van 2003, ingetrokken.   
+3.  Vanaf de datum van inwerkingtreding van dit Memorandum van Overeenstemming is het Memorandum van Overeenstemming tussen de bevoegde autoriteiten van Litouwen en Nederland inzake de stroomlijning en intensivering van wederzijdse bijstand op het gebied van directe belastingen van 2003, ingetrokken.  
 
 ### Artikel  7  
 
 ####Citeertitel
 
-Dit Memorandum van Overeenstemming kan worden aangehaald als ‘Memorandum van Overeenstemming tussen Litouwen en Nederland inzake de uitwisseling van inlichtingen op het gebied van de directe belastingen’.  
+Dit Memorandum van Overeenstemming kan worden aangehaald als ‘Memorandum van Overeenstemming tussen Litouwen en Nederland inzake de uitwisseling van inlichtingen op het gebied van de directe belastingen’. 
 
 ### Artikel  8  
 
 ####Evaluatie
 
-Dit Memorandum van Overeenstemming zal vijf jaar na de datum van inwerkingtreding worden geëvalueerd. Vragen met betrekking tot dit Memorandum kunnen echter te allen tijde op verzoek van een van de bevoegde autoriteiten in behandeling worden genomen.  
-Gedaan in Oslo op 5 juli 2012 in twee originele exemplaren, elk in de Litouwse, Nederlandse en Engelse taal, zijnde alle teksten gelijkelijk authentiek. In geval van verschil in interpretatie is de Engelse tekst beslissend.  *Voor de Staatsbelastinginspectie onder het Ministerie van Financiën van de Republiek Litouwen,*   *Modestas Kaseliauskas.*   *Voor het Directoraat-generaal Belastingdienst van Nederland,*   *H. Blokpoel.*       
+Dit Memorandum van Overeenstemming zal vijf jaar na de datum van inwerkingtreding worden geëvalueerd. Vragen met betrekking tot dit Memorandum kunnen echter te allen tijde op verzoek van een van de bevoegde autoriteiten in behandeling worden genomen. 
+Gedaan in Oslo op 5 juli 2012 in twee originele exemplaren, elk in de Litouwse, Nederlandse en Engelse taal, zijnde alle teksten gelijkelijk authentiek.In geval van verschil in interpretatie is de Engelse tekst beslissend.*Voor de Staatsbelastinginspectie onder het Ministerie van Financiën van de Republiek Litouwen,**Modestas Kaseliauskas.**Voor het Directoraat-generaal Belastingdienst van Nederland,**H. Blokpoel.*   

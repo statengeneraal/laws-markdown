@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 19 januari 2001, nr. 5075630/01/6;
 
-Gelet op artikel 29, eerste en tweede lid, van de Wet bescherming persoonsgegevens;
+Gelet op [artikel 29, eerste en tweede lid, van de Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);
 
 De Raad van State gehoord (advies van 27 maart 2001, nr. W03.01.0048/I);
 
@@ -16,17 +16,17 @@ Hebben goedgevonden en verstaan:
 
 ####Inleidende bepalingen
 
-### Artikel  1  
+###Artikel 1 
 
 ####Begripsbepaling
 
-In dit besluit wordt verstaan onder wet: de Wet bescherming persoonsgegevens.  
+In dit besluit wordt verstaan onder wet: de[ Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).
 
-### Artikel  2  
+###Artikel 2 
 
 ####Vrijgestelde verwerkingen
 
-Artikel 27 van de wet is niet van toepassing op de in hoofdstuk 2 van dit besluit bedoelde verwerkingen van persoonsgegevens door of ten behoeve van één verantwoordelijke.  
+[Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op de in hoofdstuk 2 van dit besluit bedoelde verwerkingen van persoonsgegevens door of ten behoeve van één verantwoordelijke.
 
 ### Hoofdstuk  2  
 
@@ -40,14 +40,14 @@ Artikel 27 van de wet is niet van toepassing op de in hoofdstuk 2 van dit beslui
 
 ####Verenigingen, stichtingen en publiekrechtelijke beroepsorganisaties
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen van verenigingen, stichtingen of publiekrechtelijke beroepsorganisaties betreffende hun leden of begunstigers, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen van verenigingen, stichtingen of publiekrechtelijke beroepsorganisaties betreffende hun leden of begunstigers, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt slechts voor: 
 
 a. de activiteiten die gelet op de doelstelling van de vereniging, stichting of publiekrechtelijke beroepsorganisatie gebruikelijk zijn of die door de ledenvergadering zijn goedgekeurd;  
 
 b. het verzenden van informatie aan de betrokkenen;  
 
-c. het bekend maken van informatie over betrokkenen en activiteiten van de vereniging, stichting of publiekrechtelijke beroepsorganisatie na instemming van de ledenvergadering, voorzover aanwezig, op de eigen website;  
+c. het bekend maken van informatie over betrokkenen en activiteiten van de vereniging, stichting of publiekrechtelijke beroepsorganisatie na instemming van de ledenvergadering, voorzover aanwezig, op de eigen website; 
 
 d. het berekenen, vastleggen en innen van contributies en giften, waaronder begrepen het in handen van derden stellen van vorderingen, alsmede andere activiteiten van intern beheer;  
 
@@ -62,7 +62,7 @@ c. gegevens als bedoeld onder a, van de ouders, voogden of verzorgers van minder
 
 d. gegevens betreffende het lidmaatschap of de begunstiging, waaronder begrepen de aard daarvan, alsmede de functie binnen en de deelname aan de activiteiten van de vereniging, de stichting of publiekrechtelijke beroepsorganisatie;  
 
-e. foto’s en videobeelden met of zonder geluid van activiteiten van de vereniging, stichting of publiekrechtelijke beroepsorganisatie;  
+e. foto’s en videobeelden met of zonder geluid van activiteiten van de vereniging, stichting of publiekrechtelijke beroepsorganisatie; 
 
 f. gegevens met het oog op het berekenen, vastleggen en innen van contributies en giften.     
 4.  De persoonsgegevens worden slechts verstrekt aan: 
@@ -73,9 +73,9 @@ b. de ouders, voogden of verzorgers van minderjarige leden of begunstigers;
 
 c. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
 
-d. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet;  
+d. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
 
-e. anderen, in de gevallen bedoeld in artikel 8, onder e en f, van de wet, voor zover het slechts gegevens betreft als bedoeld in het derde lid, onder a, en nadat het voornemen daartoe aan de betrokkene of diens wettelijk vertegenwoordiger is medegedeeld en deze gedurende een redelijke termijn in de gelegenheid is geweest het recht als bedoeld in artikel 40 of  41 van de wet uit te oefenen.     
+e. anderen, in de gevallen bedoeld in [artikel 8, onder e en f, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), voor zover het slechts gegevens betreft als bedoeld in het derde lid, onder a, en nadat het voornemen daartoe aan de betrokkene of diens wettelijk vertegenwoordiger is medegedeeld en deze gedurende een redelijke termijn in de gelegenheid is geweest het recht als bedoeld in [artikel 40](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) of [41 van de wet ](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md)uit te oefenen.     
 5.  Gegevens op de website van de vereniging, stichting of publiekrechtelijke beroepsorganisatie worden slechts verstrekt aan: 
 
 a. de leden of begunstigers;  
@@ -83,99 +83,99 @@ a. de leden of begunstigers;
 b. de ouders, voogden of verzorgers van minderjarige leden of begunstigers;  
 
 c. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijkerwijs zijn betrokken, voor zover zij daartoe door het bestuur zijn geautoriseerd.     
-6.  De verantwoordelijke draagt zorg voor een adequate toegangsbeveiliging van de website, alsmede voor een afdoende bescherming van persoonsgegevens voor verdere verwerking door zoekmachines.   
-7.  De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat het lidmaatschap is beëindigd of de betrokkene te kennen heeft gegeven dat hij niet langer als begunstiger wil worden beschouwd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht. De gegevens op de website worden onverwijld verwijderd wanneer de betrokkene of diens wettelijk vertegenwoordiger daarom verzoekt.   
+6.  De verantwoordelijke draagt zorg voor een adequate toegangsbeveiliging van de website, alsmede voor een afdoende bescherming van persoonsgegevens voor verdere verwerking door zoekmachines.  
+7.  De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat het lidmaatschap is beëindigd of de betrokkene te kennen heeft gegeven dat hij niet langer als begunstiger wil worden beschouwd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht. De gegevens op de website worden onverwijld verwijderd wanneer de betrokkene of diens wettelijk vertegenwoordiger daarom verzoekt.  
 
-### Artikel  4  
+###Artikel 4 
 
 ####Genootschappen op geestelijke grondslag
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen van kerkgenootschappen of andere genootschappen op geestelijke grondslag betreffende de daartoe behorende personen en hun gezinsleden of begunstigers, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
-2.  De verwerking geschiedt slechts voor: 
+1. [Artikel 27 van de wet ](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md)is niet van toepassing op verwerkingen van kerkgenootschappen of andere genootschappen op geestelijke grondslag betreffende de daartoe behorende personen en hun gezinsleden of begunstigers, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.
+2. De verwerking geschiedt slechts voor:
 
-a. de activiteiten die het betrokken genootschap volgens zijn statuut uitoefent;  
+a.de activiteiten die het betrokken genootschap volgens zijn statuut uitoefent;
 
-b. het verzenden van informatie aan de betrokkenen;  
+b.het verzenden van informatie aan de betrokkenen;
 
-c. het berekenen, vastleggen en innen van bijdragen en giften, waaronder begrepen het in handen van derden stellen van vorderingen, alsmede andere activiteiten van intern beheer;  
+c.het berekenen, vastleggen en innen van bijdragen en giften, waaronder begrepen het in handen van derden stellen van vorderingen, alsmede andere activiteiten van intern beheer;
 
-d. het behandelen van geschillen en het doen uitoefenen van accountantscontrole.     
-3.  Geen andere persoonsgegevens worden verwerkt dan: 
+d.het behandelen van geschillen en het doen uitoefenen van accountantscontrole.
+3. Geen andere persoonsgegevens worden verwerkt dan:
 
-a. naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de betrokkene;  
+a.naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de betrokkene;
 
-b. een administratienummer dat geen andere informatie bevat dan bedoeld onder a;  
+b.een administratienummer dat geen andere informatie bevat dan bedoeld onder a;
 
-c. gegevens betreffende het lidmaatschap of de begunstiging, waaronder begrepen de aard daarvan, alsmede de functie binnen en de deelname aan de activiteiten van het genootschap;  
+c.gegevens betreffende het lidmaatschap of de begunstiging, waaronder begrepen de aard daarvan, alsmede de functie binnen en de deelname aan de activiteiten van het genootschap;
 
-d. gegevens met het oog op het berekenen, vastleggen en innen van bijdragen en giften;  
+d.gegevens met het oog op het berekenen, vastleggen en innen van bijdragen en giften;
 
-e. andere dan de onder a tot en met d bedoelde gegevens waarvan de verwerking wordt vereist ingevolge het statuut van het betrokken genootschap;  
+e.andere dan de onder a tot en met d bedoelde gegevens waarvan de verwerking wordt vereist ingevolge het statuut van het betrokken genootschap;
 
-f. gegevens betreffende godsdienst of levensovertuiging van de gezinsleden, tenzij het betrokken gezinslid daartegen schriftelijk bezwaar heeft gemaakt.     
-4.  De persoonsgegevens worden slechts verstrekt aan: 
+f.gegevens betreffende godsdienst of levensovertuiging van de gezinsleden, tenzij het betrokken gezinslid daartegen schriftelijk bezwaar heeft gemaakt.
+4. De persoonsgegevens worden slechts verstrekt aan:
 
-a. de tot het genootschap behorende personen en hun gezinsleden of de begunstigers;  
+a.de tot het genootschap behorende personen en hun gezinsleden of de begunstigers;
 
-b. de ouders, voogden of verzorgers van minderjarige leden of begunstigers;  
+b.de ouders, voogden of verzorgers van minderjarige leden of begunstigers;
 
-c. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
+c.degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;
 
-d. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet.     
-5.  De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat het lidmaatschap of het contact met het betrokken gezinslid is beëindigd, dan wel de betrokkene te kennen heeft gegeven dat hij niet langer als begunstiger wil worden beschouwd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+d.anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).
+5. De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat het lidmaatschap of het contact met het betrokken gezinslid is beëindigd, dan wel de betrokkene te kennen heeft gegeven dat hij niet langer als begunstiger wil worden beschouwd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.
 
 ### Paragraaf  2  
 
 ####Arbeid en pensioen
 
-### Artikel  5  
+###Artikel 5 
 
 ####Sollicitanten
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen betreffende personen die hebben gesolliciteerd om werkzaam te zijn in dienst van of ten behoeve van de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
-2.  De verwerking geschiedt slechts voor: 
+1. [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen betreffende personen die hebben gesolliciteerd om werkzaam te zijn in dienst van of ten behoeve van de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.
+2. De verwerking geschiedt slechts voor:
 
-a. de beoordeling van de geschiktheid van betrokkene voor een functie die vacant is of kan komen;  
+a.de beoordeling van de geschiktheid van betrokkene voor een functie die vacant is of kan komen;
 
-b. de afhandeling van de door de sollicitant gemaakte onkosten;  
+b.de afhandeling van de door de sollicitant gemaakte onkosten;
 
-c. de interne controle en de bedrijfsbeveiliging;  
+c.de interne controle en de bedrijfsbeveiliging;
 
-d. de uitvoering of toepassing van een andere wet.     
-3.  Geen andere persoonsgegevens worden verwerkt dan: 
+d.de uitvoering of toepassing van een andere wet.
+3. Geen andere persoonsgegevens worden verwerkt dan:
 
-a. naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de betrokkene;  
+a.naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de betrokkene;
 
-b. een administratienummer dat geen andere informatie bevat dan bedoeld onder a;  
+b.een administratienummer dat geen andere informatie bevat dan bedoeld onder a;
 
-c. nationaliteit en geboorteplaats;  
+c.nationaliteit en geboorteplaats; 
 
-d. gegevens als bedoeld onder a, van de ouders, voogden of verzorgers van minderjarige sollicitanten;  
+d.gegevens als bedoeld onder a, van de ouders, voogden of verzorgers van minderjarige sollicitanten;
 
-e. gegevens betreffende gevolgde en te volgen opleidingen, cursussen en stages;  
+e.gegevens betreffende gevolgde en te volgen opleidingen, cursussen en stages;
 
-f. gegevens betreffende de functie waarnaar gesolliciteerd is;  
+f.gegevens betreffende de functie waarnaar gesolliciteerd is;
 
-g. gegevens betreffende de aard en inhoud van de huidige dienstbetrekking, alsmede betreffende de beëindiging ervan;  
+g.gegevens betreffende de aard en inhoud van de huidige dienstbetrekking, alsmede betreffende de beëindiging ervan;
 
-h. gegevens betreffende de aard en inhoud van de vorige dienstbetrekkingen, alsmede betreffende de beëindiging ervan;  
+h.gegevens betreffende de aard en inhoud van de vorige dienstbetrekkingen, alsmede betreffende de beëindiging ervan;
 
-i. andere gegevens met het oog op het vervullen van de functie, die door de betrokkene zijn verstrekt of die hem bekend zijn;  
+i.andere gegevens met het oog op het vervullen van de functie, die door de betrokkene zijn verstrekt of die hem bekend zijn;
 
-j. andere dan de onder a tot en met i bedoelde gegevens waarvan de verwerking wordt vereist ingevolge of noodzakelijk is met het oog op de toepassing van een andere wet.     
-4.  De persoonsgegevens worden slechts verstrekt aan: 
+j.andere dan de onder a tot en met i bedoelde gegevens waarvan de verwerking wordt vereist ingevolge of noodzakelijk is met het oog op de toepassing van een andere wet.
+4. De persoonsgegevens worden slechts verstrekt aan:
 
-a. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
+a.degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet.     
-5.  Indien betrokkene aan een medische of psychologische keuring, dan wel aan een assessment wordt onderworpen, worden aan de keurende arts, de psycholoog of degene die is belast met het assessment slechts die persoonsgegevens verstrekt die noodzakelijk zijn met het oog op de keuring of het assessment.   
-6.  De persoonsgegevens worden verwijderd op een daartoe strekkend verzoek van betrokkene en in ieder geval uiterlijk vier weken nadat de sollicitatieprocedure is geëindigd, tenzij de persoonsgegevens met toestemming van de betrokkene gedurende een jaar na beëindiging van de sollicitatieprocedure worden bewaard.   
+b.anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).
+5. Indien betrokkene aan een medische of psychologische keuring, dan wel aan een assessment wordt onderworpen, worden aan de keurende arts, de psycholoog of degene die is belast met het assessment slechts die persoonsgegevens verstrekt die noodzakelijk zijn met het oog op de keuring of het assessment.
+6. De persoonsgegevens worden verwijderd op een daartoe strekkend verzoek van betrokkene en in ieder geval uiterlijk vier weken nadat de sollicitatieprocedure is geëindigd, tenzij de persoonsgegevens met toestemming van de betrokkene gedurende een jaar na beëindiging van de sollicitatieprocedure worden bewaard.
 
 ### Artikel  6  
 
 ####Arbeidsbemiddeling
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen van uitzendondernemingen betreffende personen die beschikbaar zijn voor arbeidsbemiddeling, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen van uitzendondernemingen betreffende personen die beschikbaar zijn voor arbeidsbemiddeling, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt slechts voor: 
 
 a. de beoordeling van de geschiktheid van betrokkene voor arbeidsbemiddeling;  
@@ -201,7 +201,7 @@ d. gegevens als bedoeld onder a, van de ouders, voogden of verzorgers van een mi
 
 e. gegevens betreffende gevolgde en te volgen opleidingen, cursussen en stages;  
 
-f. gegevens betreffende de functie waarnaar betrokkene een voorkeur heeft;  
+f. gegevens betreffende de functie waarnaar betrokkene een voorkeur heeft;   
 
 g. gegevens betreffende de aard en inhoud en opdrachtgever van een lopende arbeidsbemiddeling, alsmede betreffende de beëindiging ervan;  
 
@@ -218,15 +218,15 @@ a. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan 
 
 b. een opdrachtgever die een aanvraag voor arbeidsbemiddeling heeft gedaan met het oog op een mogelijke plaatsing van de betrokkene, voor zover in dat kader noodzakelijk;  
 
-c. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet.     
+c. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).     
 5.  Indien betrokkene aan een medische of psychologische keuring, dan wel aan een assessment wordt onderworpen, worden aan de keurende arts, de psycholoog of degene die is belast met het assessment slechts die persoonsgegevens verstrekt die noodzakelijk zijn met het oog op de keuring of het assessment.   
-6.  De persoonsgegevens worden verwijderd op een daartoe strekkend verzoek van betrokkene, en in ieder geval uiterlijk twee jaren na de dag van inschrijving dan wel na de dag waarop betrokkene voor het laatst op grond van de inschrijving werkzaam is geweest, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+6.  De persoonsgegevens worden verwijderd op een daartoe strekkend verzoek van betrokkene, en in ieder geval uiterlijk twee jaren na de dag van inschrijving dan wel na de dag waarop betrokkene voor het laatst op grond van de inschrijving werkzaam is geweest, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.  
 
 ### Artikel  7  
 
 ####Personeelsadministratie
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen in het kader van de personeelsadministratie betreffende personen in dienst van of werkzaam ten behoeve van de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen in het kader van de personeelsadministratie betreffende personen in dienst van of werkzaam ten behoeve van de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt slechts voor: 
 
 a. het geven van leiding aan de werkzaamheden van betrokkene;  
@@ -289,241 +289,241 @@ k. andere dan de onder a tot en met j bedoelde gegevens waarvan de verwerking wo
 
 a. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet;  
+b. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
 
-c. een vakbond of een vakcentrale met het oog op het overleg met haar leden over de samenstelling van de kandidatenlijst ten behoeve van een wettelijk geregelde verkiezing van de leden van een medezeggenschapsorgaan binnen de organisatie van de verantwoordelijke, voor zover het slechts gegevens betreft als bedoeld in het derde lid, onder a, en nadat het voornemen daartoe aan betrokkene of diens wettelijk vertegenwoordiger is medegedeeld en deze gedurende een redelijke termijn in de gelegenheid is geweest het recht als bedoeld in artikel 40, eerste lid, van de wet uit te oefenen.     
-5.  De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat het dienstverband of de werkzaamheden van de betrokkene ten behoeve van de verantwoordelijke zijn beëindigd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+c. een vakbond of een vakcentrale met het oog op het overleg met haar leden over de samenstelling van de kandidatenlijst ten behoeve van een wettelijk geregelde verkiezing van de leden van een medezeggenschapsorgaan binnen de organisatie van de verantwoordelijke, voor zover het slechts gegevens betreft als bedoeld in het derde lid, onder a, en nadat het voornemen daartoe aan betrokkene of diens wettelijk vertegenwoordiger is medegedeeld en deze gedurende een redelijke termijn in de gelegenheid is geweest het recht als bedoeld in [artikel 40, eerste lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) uit te oefenen.     
+5.  De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat het dienstverband of de werkzaamheden van de betrokkene ten behoeve van de verantwoordelijke zijn beëindigd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.  
 
-### Artikel  8  
+###Artikel 8 
 
 ####Salarisadministratie
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen in het kader van de salarisadministratie betreffende personen in dienst van of werkzaam ten behoeve van de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
-2.  De verwerking geschiedt slechts voor: 
+1. [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen in het kader van de salarisadministratie betreffende personen in dienst van of werkzaam ten behoeve van de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.
+2. De verwerking geschiedt slechts voor:
 
-a. het berekenen, vastleggen en betalen van salarissen, vergoedingen en andere geldsommen en beloningen in natura aan of ten behoeve van betrokkene;  
+a.het berekenen, vastleggen en betalen van salarissen, vergoedingen en andere geldsommen en beloningen in natura aan of ten behoeve van betrokkene;
 
-b. het berekenen, vastleggen en betalen van belasting en premies ten behoeve van betrokkene;  
+b.het berekenen, vastleggen en betalen van belasting en premies ten behoeve van betrokkene;
 
-c. een voor de betrokkene geldende arbeidsvoorwaarde;  
+c.een voor de betrokkene geldende arbeidsvoorwaarde;
 
-d. de personeelsadministratie;  
+d.de personeelsadministratie;
 
-e. het regelen van aanspraken op uitkeringen in verband met de beëindiging van een dienstverband;  
+e.het regelen van aanspraken op uitkeringen in verband met de beëindiging van een dienstverband;
 
-f. de overgang van de betrokkene naar of diens tijdelijke tewerkstelling bij een ander onderdeel van de groep, bedoeld in artikel 2:24b van het Burgerlijk Wetboek waaraan de verantwoordelijke is verbonden;  
+f.de overgang van de betrokkene naar of diens tijdelijke tewerkstelling bij een ander onderdeel van de groep, bedoeld in artikel 2:24b van het Burgerlijk Wetboek waaraan de verantwoordelijke is verbonden;
 
-g. het verlenen van ontslag;  
+g.het verlenen van ontslag;
 
-h. het innen van vorderingen, waaronder begrepen het in handen van derden stellen van vorderingen;  
+h.het innen van vorderingen, waaronder begrepen het in handen van derden stellen van vorderingen;
 
-i. het behandelen van geschillen en het doen uitoefenen van accountantscontrole;  
+i.het behandelen van geschillen en het doen uitoefenen van accountantscontrole;
 
-j. de uitvoering of toepassing van een andere wet.     
-3.  Geen andere persoonsgegevens worden verwerkt dan: 
+j.de uitvoering of toepassing van een andere wet.
+3. Geen andere persoonsgegevens worden verwerkt dan:
 
-a. naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de betrokkene;  
+a.naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de betrokkene;
 
-b. een administratienummer dat geen andere informatie bevat dan bedoeld onder a;  
+b.een administratienummer dat geen andere informatie bevat dan bedoeld onder a;
 
-c. nationaliteit en geboorteplaats;  
+c.nationaliteit en geboorteplaats;
 
-d. gegevens als bedoeld onder a, van de ouders, voogden of verzorgers van minderjarige werknemers;  
+d.gegevens als bedoeld onder a, van de ouders, voogden of verzorgers van minderjarige werknemers;
 
-e. gegevens met het oog op het berekenen, vastleggen en betalen van salarissen, vergoedingen en andere geldsommen en beloningen in natura aan of ten behoeve van de in het eerste lid bedoelde personen;  
+e.gegevens met het oog op het berekenen, vastleggen en betalen van salarissen, vergoedingen en andere geldsommen en beloningen in natura aan of ten behoeve van de in het eerste lid bedoelde personen;
 
-f. gegevens met het oog op het berekenen, vastleggen en betalen van belasting en premies ten behoeve van betrokkene;  
+f.gegevens met het oog op het berekenen, vastleggen en betalen van belasting en premies ten behoeve van betrokkene;
 
-g. gegevens, waaronder begrepen gegevens betreffende gezinsleden en voormalige gezinsleden van de betrokkenen, die noodzakelijk zijn met het oog op een overeengekomen arbeidsvoorwaarde;  
+g.gegevens, waaronder begrepen gegevens betreffende gezinsleden en voormalige gezinsleden van de betrokkenen, die noodzakelijk zijn met het oog op een overeengekomen arbeidsvoorwaarde;
 
-h. andere dan de onder a tot en met g bedoelde gegevens waarvan de verwerking wordt vereist ingevolge of noodzakelijk is met het oog op de toepassing van een andere wet.     
-4.  De persoonsgegevens worden slechts verstrekt aan: 
+h.andere dan de onder a tot en met g bedoelde gegevens waarvan de verwerking wordt vereist ingevolge of noodzakelijk is met het oog op de toepassing van een andere wet.
+4. De persoonsgegevens worden slechts verstrekt aan:
 
-a. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
+a.degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet.     
-5.  De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat het dienstverband of de werkzaamheden van de betrokkene ten behoeve van de verantwoordelijke zijn beëindigd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+b.anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).
+5. De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat het dienstverband of de werkzaamheden van de betrokkene ten behoeve van de verantwoordelijke zijn beëindigd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.
 
-### Artikel  9  
+###Artikel 9 
 
 ####Uitkering bij ontslag
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen betreffende de aanspraken van personeelsleden en oud-personeelsleden van de verantwoordelijke op uitkeringen in verband met de beëindiging van een dienstverband, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
-2.  De verwerking geschiedt slechts voor: 
+1. [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen betreffende de aanspraken van personeelsleden en oud-personeelsleden van de verantwoordelijke op uitkeringen in verband met de beëindiging van een dienstverband, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.
+2. De verwerking geschiedt slechts voor:
 
-a. de berekening, de vastlegging en de betaling van de in het eerste lid bedoelde uitkeringen aan of ten behoeve van de betrokkenen;  
+a.de berekening, de vastlegging en de betaling van de in het eerste lid bedoelde uitkeringen aan of ten behoeve van de betrokkenen; 
 
-b. de berekening, de vastlegging of de afdracht van belasting en premies ten behoeve van de betrokkenen;  
+b.de berekening, de vastlegging of de afdracht van belasting en premies ten behoeve van de betrokkenen;
 
-c. een voor de betrokkene geldende arbeidsvoorwaarde;  
+c.een voor de betrokkene geldende arbeidsvoorwaarde;
 
-d. de personeelsadministratie;  
+d.de personeelsadministratie;
 
-e. de salarisadministratie;  
+e.de salarisadministratie;
 
-f. de vereniging van oud-personeelsleden;  
+f.de vereniging van oud-personeelsleden;
 
-g. de overgang van de betrokkene naar of diens tijdelijke tewerkstelling bij een ander onderdeel van de groep, bedoeld in artikel 2:24b van het Burgerlijk Wetboek waaraan de verantwoordelijke is verbonden;  
+g.de overgang van de betrokkene naar of diens tijdelijke tewerkstelling bij een ander onderdeel van de groep, bedoeld in artikel 2:24b van het Burgerlijk Wetboek waaraan de verantwoordelijke is verbonden;
 
-h. het verlenen van ontslag;  
+h.het verlenen van ontslag;
 
-i. het innen van vorderingen, waaronder begrepen het in handen van derden stellen van vorderingen;  
+i.het innen van vorderingen, waaronder begrepen het in handen van derden stellen van vorderingen;
 
-j. het behandelen van geschillen en het doen uitoefenen van accountantscontrole;  
+j.het behandelen van geschillen en het doen uitoefenen van accountantscontrole;
 
-k. de uitvoering of toepassing van een andere wet.     
-3.  Geen andere persoonsgegevens worden verwerkt dan: 
+k.de uitvoering of toepassing van een andere wet.
+3. Geen andere persoonsgegevens worden verwerkt dan:
 
-a. naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de betrokkene;  
+a.naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de betrokkene;
 
-b. een administratienummer dat geen andere informatie bevat dan bedoeld onder a;  
+b.een administratienummer dat geen andere informatie bevat dan bedoeld onder a;
 
-c. nationaliteit en geboorteplaats;  
+c.nationaliteit en geboorteplaats;
 
-d. gegevens als bedoeld onder a, van de ouders, voogden of verzorgers van minderjarige personeelsleden en oud-personeelsleden;  
+d.gegevens als bedoeld onder a, van de ouders, voogden of verzorgers van minderjarige personeelsleden en oud-personeelsleden;
 
-e. gegevens, waaronder begrepen gegevens betreffende gezinsleden en voormalige gezinsleden van de betrokkenen, met het oog op de vaststelling van de hoogte van de aanspraak aan of ten behoeve van de in het eerste lid bedoelde personen;  
+e.gegevens, waaronder begrepen gegevens betreffende gezinsleden en voormalige gezinsleden van de betrokkenen, met het oog op de vaststelling van de hoogte van de aanspraak aan of ten behoeve van de in het eerste lid bedoelde personen;
 
-f. gegevens met het oog op het berekenen, vastleggen en betalen van belasting en premies ten behoeve van de in het eerste lid bedoelde personen;  
+f.gegevens met het oog op het berekenen, vastleggen en betalen van belasting en premies ten behoeve van de in het eerste lid bedoelde personen;
 
-g. gegevens, waaronder begrepen gegevens betreffende gezinsleden en voormalige gezinsleden van de betrokkenen, die noodzakelijk zijn met het oog op een overeengekomen arbeidsvoorwaarde;  
+g.gegevens, waaronder begrepen gegevens betreffende gezinsleden en voormalige gezinsleden van de betrokkenen, die noodzakelijk zijn met het oog op een overeengekomen arbeidsvoorwaarde;
 
-h. andere dan de onder a tot en met g bedoelde gegevens waarvan de verwerking wordt vereist ingevolge of noodzakelijk is met het oog op de toepassing van een andere wet.     
-4.  De persoonsgegevens worden slechts verstrekt aan: 
+h.andere dan de onder a tot en met g bedoelde gegevens waarvan de verwerking wordt vereist ingevolge of noodzakelijk is met het oog op de toepassing van een andere wet.
+4. De persoonsgegevens worden slechts verstrekt aan:
 
-a. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
+a.degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet.     
-5.  De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat de in het eerste lid bedoelde aanspraken zijn beëindigd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+b.anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).
+5. De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat de in het eerste lid bedoelde aanspraken zijn beëindigd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.
 
-### Artikel  10  
+###Artikel 10 
 
 ####Pensioen en vervroegde uittreding
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen betreffende de aanspraken van personen jegens de verantwoordelijke op pensioen of uitkering in verband met vervroegde uittreding, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
-2.  De verwerking geschiedt slechts voor: 
+1. [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen betreffende de aanspraken van personen jegens de verantwoordelijke op pensioen of uitkering in verband met vervroegde uittreding, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.
+2. De verwerking geschiedt slechts voor:
 
-a. de vaststelling van de hoogte van de aanspraak van de betrokkene;  
+a.de vaststelling van de hoogte van de aanspraak van de betrokkene;
 
-b. het berekenen, vastleggen en innen van premies;  
+b.het berekenen, vastleggen en innen van premies;
 
-c. de berekening, de vastlegging en de betaling van de in het eerste lid bedoelde uitkering aan of ten behoeve van de betrokkenen;  
+c.de berekening, de vastlegging en de betaling van de in het eerste lid bedoelde uitkering aan of ten behoeve van de betrokkenen; 
 
-d. de berekening, de vastlegging of de afdracht van belasting en premies ten behoeve van de betrokkenen;  
+d.de berekening, de vastlegging of de afdracht van belasting en premies ten behoeve van de betrokkenen;
 
-e. het innen van vorderingen, waaronder begrepen het in handen van derden stellen van vorderingen;  
+e.het innen van vorderingen, waaronder begrepen het in handen van derden stellen van vorderingen;
 
-f. het behandelen van geschillen en het doen uitoefenen van accountantscontrole;  
+f.het behandelen van geschillen en het doen uitoefenen van accountantscontrole;
 
-g. de uitvoering of toepassing van een andere wet.     
-3.  Geen andere persoonsgegevens worden verwerkt dan: 
+g.de uitvoering of toepassing van een andere wet.
+3. Geen andere persoonsgegevens worden verwerkt dan:
 
-a. naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de betrokkene;  
+a.naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de betrokkene;
 
-b. een administratienummer dat geen andere informatie bevat dan bedoeld onder a, het tijdstip waarop gegevens over de betrokkene in de administratie zijn opgenomen, een verwijzing naar de werkgever door wiens tussenkomst de in het eerste lid bedoelde aanspraak tot stand is gekomen en een verwijzing naar de betrokken bedrijfstak;  
+b.een administratienummer dat geen andere informatie bevat dan bedoeld onder a, het tijdstip waarop gegevens over de betrokkene in de administratie zijn opgenomen, een verwijzing naar de werkgever door wiens tussenkomst de in het eerste lid bedoelde aanspraak tot stand is gekomen en een verwijzing naar de betrokken bedrijfstak;
 
-c. nationaliteit en geboorteplaats;  
+c.nationaliteit en geboorteplaats;
 
-d. gegevens, waaronder begrepen gegevens betreffende andere begunstigden dan de betrokkene, met het oog op de vaststelling van de hoogte van de aanspraak van de betrokkene;  
+d.gegevens, waaronder begrepen gegevens betreffende andere begunstigden dan de betrokkene, met het oog op de vaststelling van de hoogte van de aanspraak van de betrokkene;
 
-e. gegevens met het oog op het berekenen, vastleggen en innen van premies;  
+e.gegevens met het oog op het berekenen, vastleggen en innen van premies;
 
-f. gegevens met het oog op het berekenen, het vastleggen en het betalen van de in het eerste lid bedoelde uitkering aan of ten behoeve van de betrokkene;  
+f.gegevens met het oog op het berekenen, het vastleggen en het betalen van de in het eerste lid bedoelde uitkering aan of ten behoeve van de betrokkene;
 
-g. andere dan de onder a tot en met f bedoelde gegevens waarvan de verwerking wordt vereist ingevolge of noodzakelijk is met het oog op de toepassing van een andere wet.     
-4.  De persoonsgegevens worden slechts verstrekt aan: 
+g.andere dan de onder a tot en met f bedoelde gegevens waarvan de verwerking wordt vereist ingevolge of noodzakelijk is met het oog op de toepassing van een andere wet.
+4. De persoonsgegevens worden slechts verstrekt aan:
 
-a. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
+a.degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet;  
+b.anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);
 
-c. een vereniging van oud-personeelsleden ten behoeve van het overleg en de organisatie van een medezeggenschapsorgaan van gepensioneerden bij pensioenregelingen, voor zover het slechts gegevens betreft als bedoeld in het derde lid, onder a, en nadat het voornemen daartoe aan betrokkene of diens wettelijk vertegenwoordiger is medegedeeld en deze gedurende een redelijke termijn in de gelegenheid is geweest het recht als bedoeld in artikel 40, eerste lid, van de wet uit te oefenen.     
-5.  De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat de in het eerste lid bedoelde aanspraak is beëindigd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+c.een vereniging van oud-personeelsleden ten behoeve van het overleg en de organisatie van een medezeggenschapsorgaan van gepensioneerden bij pensioenregelingen, voor zover het slechts gegevens betreft als bedoeld in het derde lid, onder a, en nadat het voornemen daartoe aan betrokkene of diens wettelijk vertegenwoordiger is medegedeeld en deze gedurende een redelijke termijn in de gelegenheid is geweest het recht als bedoeld in [artikel 40, eerste lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) uit te oefenen.
+5. De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat de in het eerste lid bedoelde aanspraak is beëindigd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.
 
 ### Paragraaf  3  
 
 ####Goederen en diensten
 
-### Artikel  11  
+###Artikel 11 
 
 ####Abonnementen
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen betreffende abonnees van kranten, tijdschriften of andere publicaties van de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
-2.  De verwerking geschiedt slechts voor: 
+1. [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen betreffende abonnees van kranten, tijdschriften of andere publicaties van de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.
+2. De verwerking geschiedt slechts voor:
 
-a. het verzenden of bezorgen van de publicaties waarop het abonnement betrekking heeft en van andere informatie ten behoeve van de abonnees;  
+a.het verzenden of bezorgen van de publicaties waarop het abonnement betrekking heeft en van andere informatie ten behoeve van de abonnees;
 
-b. het berekenen, vastleggen en innen van abonnementsgelden, waaronder begrepen het in handen van derden stellen van vorderingen, alsmede andere activiteiten van intern beheer;  
+b.het berekenen, vastleggen en innen van abonnementsgelden, waaronder begrepen het in handen van derden stellen van vorderingen, alsmede andere activiteiten van intern beheer;
 
-c. het behandelen van geschillen en het doen uitoefenen van accountantscontrole.     
-3.  Geen andere persoonsgegevens worden verwerkt dan: 
+c.het behandelen van geschillen en het doen uitoefenen van accountantscontrole.
+3. Geen andere persoonsgegevens worden verwerkt dan:
 
-a. naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de betrokkene;  
+a.naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de betrokkene;
 
-b. een administratienummer dat geen andere informatie bevat dan bedoeld onder a;  
+b.een administratienummer dat geen andere informatie bevat dan bedoeld onder a;
 
-c. gegevens, niet zijnde gegevens als bedoeld in paragraaf 2 van hoofdstuk 2 van de wet, betreffende opleiding, functie of beroep, lidmaatschappen en interessegebieden, die met het oog op de aard van de publicatie redelijkerwijs van belang zijn;  
+c.gegevens, niet zijnde gegevens als bedoeld in [paragraaf 2 van hoofdstuk 2 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), betreffende opleiding, functie of beroep, lidmaatschappen en interessegebieden, die met het oog op de aard van de publicatie redelijkerwijs van belang zijn;
 
-d. gegevens betreffende het abonnement, waaronder begrepen de aard van het abonnement;  
+d.gegevens betreffende het abonnement, waaronder begrepen de aard van het abonnement;
 
-e. gegevens met het oog op het berekenen, vastleggen en innen van de abonnementsgelden;  
+e.gegevens met het oog op het berekenen, vastleggen en innen van de abonnementsgelden;
 
-f. een aanduiding betreffende de reden van beëindiging van het abonnement.     
-4.  De persoonsgegevens worden slechts verstrekt aan: 
+f.een aanduiding betreffende de reden van beëindiging van het abonnement.
+4. De persoonsgegevens worden slechts verstrekt aan:
 
-a. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
+a.degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet;  
+b.anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);
 
-c. anderen, in de gevallen bedoeld in artikel 8, onder e en f, van de wet, voor zover het slechts gegevens betreft als bedoeld in het derde lid, onder a, en nadat het voornemen daartoe aan de betrokkene of diens wettelijk vertegenwoordiger is medegedeeld en deze gedurende een redelijke termijn in de gelegenheid is geweest het recht als bedoeld in artikel 40 of  41 van de wet uit te oefenen.     
-5.  De persoonsgegevens worden verwijderd uiterlijk twee jaren na de beëindiging van het abonnement, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+c.anderen, in de gevallen bedoeld in [artikel 8, onder e en f, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), voor zover het slechts gegevens betreft als bedoeld in het derde lid, onder a, en nadat het voornemen daartoe aan de betrokkene of diens wettelijk vertegenwoordiger is medegedeeld en deze gedurende een redelijke termijn in de gelegenheid is geweest het recht als bedoeld in [artikel 40](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) of [41 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) uit te oefenen.
+5. De persoonsgegevens worden verwijderd uiterlijk twee jaren na de beëindiging van het abonnement, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.
 
-### Artikel  12  
+###Artikel 12 
 
 ####Debiteuren en crediteuren
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen, anders dan bedoeld in de artikelen 3 tot en met 11, betreffende debiteuren of crediteuren van de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
-2.  Het eerste lid is niet van toepassing op verwerkingen met het oog op: 
+1. [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen, anders dan bedoeld in de artikelen 3 tot en met 11, betreffende debiteuren of crediteuren van de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.
+2. Het eerste lid is niet van toepassing op verwerkingen met het oog op:
 
-a. de financiële dienstverlening door banken, verzekeringsmaatschappijen en andere instellingen voor financiële dienstverlening;  
+a.de financiële dienstverlening door banken, verzekeringsmaatschappijen en andere instellingen voor financiële dienstverlening;
 
-b. het doen van uitkeringen, het heffen of invorderen van belasting, niet zijnde leges of rechten welke worden geheven als tegenprestatie voor een bepaalde dienst, of het heffen of invorderen van premies door organisaties en instellingen belast met de uitvoering van sociale zekerheidswetten.     
-3.  De verwerking geschiedt slechts voor: 
+b.het doen van uitkeringen, het heffen of invorderen van belasting, niet zijnde leges of rechten welke worden geheven als tegenprestatie voor een bepaalde dienst, of het heffen of invorderen van premies door organisaties en instellingen belast met de uitvoering van sociale zekerheidswetten.
+3. De verwerking geschiedt slechts voor:
 
-a. het berekenen en vastleggen van inkomsten en uitgaven;  
+a.het berekenen en vastleggen van inkomsten en uitgaven;
 
-b. het doen van betalingen of het innen van vorderingen, waaronder begrepen het in handen van derden stellen daarvan;  
+b.het doen van betalingen of het innen van vorderingen, waaronder begrepen het in handen van derden stellen daarvan;
 
-c. het behandelen van geschillen en het doen uitoefenen van accountantscontrole;  
+c.het behandelen van geschillen en het doen uitoefenen van accountantscontrole;
 
-d. het onderhouden van contacten door de verantwoordelijke met de debiteuren en de crediteuren;  
+d.het onderhouden van contacten door de verantwoordelijke met de debiteuren en de crediteuren;
 
-e. de uitvoering of toepassing van een andere wet.     
-4.  Geen andere persoonsgegevens worden verwerkt dan: 
+e.de uitvoering of toepassing van een andere wet. 
+4. Geen andere persoonsgegevens worden verwerkt dan:
 
-a. naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de betrokkene;  
+a.naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de betrokkene;
 
-b. een administratienummer dat geen andere informatie bevat dan bedoeld onder a;  
+b.een administratienummer dat geen andere informatie bevat dan bedoeld onder a;
 
-c. gegevens met het oog op het berekenen en vastleggen van inkomsten en uitgaven, het doen van betalingen en het innen van vorderingen;  
+c.gegevens met het oog op het berekenen en vastleggen van inkomsten en uitgaven, het doen van betalingen en het innen van vorderingen;
 
-d. gegevens met het oog op het onderhouden van contacten met de debiteuren en crediteuren;  
+d.gegevens met het oog op het onderhouden van contacten met de debiteuren en crediteuren;
 
-e. andere dan de onder a tot en met d bedoelde gegevens waarvan de verwerking wordt vereist ingevolge of noodzakelijk is met het oog op de toepassing van een andere wet.     
-5.  De persoonsgegevens worden slechts verstrekt aan: 
+e.andere dan de onder a tot en met d bedoelde gegevens waarvan de verwerking wordt vereist ingevolge of noodzakelijk is met het oog op de toepassing van een andere wet.
+5. De persoonsgegevens worden slechts verstrekt aan:
 
-a. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het derde lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
+a.degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het derde lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet;  
+b.anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);
 
-c. anderen, in de gevallen bedoeld in artikel 8, onder e en f, van de wet, voor zover het slechts gegevens betreft als bedoeld in het vierde lid, onder a, en nadat het voornemen daartoe aan de betrokkene of diens wettelijk vertegenwoordiger is medegedeeld en deze gedurende een redelijke termijn in de gelegenheid is geweest het recht als bedoeld in artikel 40 of  41 van de wet uit te oefenen.     
-6.  De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat de desbetreffende vordering is voldaan, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+c.anderen, in de gevallen bedoeld in [artikel 8, onder e en f, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), voor zover het slechts gegevens betreft als bedoeld in het vierde lid, onder a, en nadat het voornemen daartoe aan de betrokkene of diens wettelijk vertegenwoordiger is medegedeeld en deze gedurende een redelijke termijn in de gelegenheid is geweest het recht als bedoeld in [artikel 40](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) of [41 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) uit te oefenen.
+6. De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat de desbetreffende vordering is voldaan, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.
 
 ### Artikel  13  
 
 ####Afnemers en leveranciers van goederen en diensten en cliënten- en gastenadministraties
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen, anders dan bedoeld in de artikelen 3 tot en met 12 en 14 tot en met 21, betreffende afnemers, leveranciers, cliënten en gasten van de verantwoordelijke of personen die ten aanzien van levering van goederen of het verlenen van diensten tot hem in een soortgelijke relatie staan, voor zover de verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.  [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen, anders dan bedoeld in de artikelen 3 tot en met 12 en 14 tot en met 21, betreffende afnemers, leveranciers, cliënten en gasten van de verantwoordelijke of personen die ten aanzien van levering van goederen of het verlenen van diensten tot hem in een soortgelijke relatie staan, voor zover de verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt slechts voor: 
 
 a. het doen van leveringen en bestellingen of het verlenen van diensten;  
@@ -543,7 +543,7 @@ g. het verlenen van medewerking aan de heffing of invordering van gemeentelijke,
 h. de uitvoering of de toepassing van een andere wet.     
 3.  Geen andere persoonsgegevens worden verwerkt dan: 
 
-a. naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de betrokkene;  
+a. naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de betrokkene;   
 
 b. een administratienummer dat geen andere informatie bevat dan bedoeld onder a;  
 
@@ -553,23 +553,23 @@ d. gegevens met het oog op het berekenen en vastleggen van inkomsten en uitgaven
 
 e. gegevens voor het onderhouden van contacten met de afnemers of leveranciers;  
 
-f. gegevens betreffende iemands gezondheid als bedoeld in artikel 16 van de wet met het oog op het uitvoeren van een dienstverleningsovereenkomst;  
+f. gegevens betreffende iemands gezondheid als bedoeld in [artikel 16 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) met het oog op het uitvoeren van een dienstverleningsovereenkomst;  
 
 g. andere dan de onder a tot en met e bedoelde gegevens waarvan de verwerking is vereist ingevolge of noodzakelijk is met het oog op de toepassing van een andere wet.     
 4.  De persoonsgegevens worden slechts verstrekt aan: 
 
 a. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet;  
+b. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
 
-c. anderen, in de gevallen bedoeld in artikel 8, onder e en f, van de wet, voor zover het slechts gegevens betreft als bedoeld in het derde lid, onder a, en nadat het voornemen daartoe aan de betrokkene of diens wettelijk vertegenwoordiger is medegedeeld en deze gedurende een redelijke termijn in de gelegenheid is geweest het recht als bedoeld in artikel 40 of  41 van de wet uit te oefenen.     
-5.  De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat de desbetreffende transactie is afgehandeld, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+c. anderen, in de gevallen bedoeld in [artikel 8, onder e en f, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), voor zover het slechts gegevens betreft als bedoeld in het derde lid, onder a, en nadat het voornemen daartoe aan de betrokkene of diens wettelijk vertegenwoordiger is medegedeeld en deze gedurende een redelijke termijn in de gelegenheid is geweest het recht als bedoeld in [artikel 40](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) of [41 van de wet ](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) uit te oefenen.     
+5.  De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat de desbetreffende transactie is afgehandeld, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.  
 
 ### Artikel  14  
 
 ####Huur en verhuur
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen met het oog op de huur of verhuur van roerende of onroerende zaken door de verantwoordelijke, waaronder begrepen het aanvragen en verstrekken van een huurtoeslag, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen met het oog op de huur of verhuur van roerende of onroerende zaken door de verantwoordelijke, waaronder begrepen het aanvragen en verstrekken van een huurtoeslag, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt slechts voor: 
 
 a. de uitvoering van de huurovereenkomst;  
@@ -593,7 +593,7 @@ a. naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, pos
 
 b. gegevens als bedoeld onder a, van de voormalig huurder en diens partner en van medehuurders of medebewoners;  
 
-c. een administratienummer dat geen andere informatie bevat dan bedoeld onder a;  
+c. een administratienummer dat geen andere informatie bevat dan bedoeld onder a;   
 
 d. gegevens die noodzakelijk zijn voor de uitvoering van de huurovereenkomst;  
 
@@ -608,16 +608,16 @@ h. andere dan de onder a tot en met g bedoelde gegevens waarvan de verwerking wo
 
 a. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet;  
+b. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
 
-c. anderen, in de gevallen bedoeld in artikel 8, onder e en f, van de wet, voor zover het slechts gegevens betreft als bedoeld in het derde lid, onder a, en nadat het voornemen daartoe aan de betrokkene of diens wettelijk vertegenwoordiger is medegedeeld en deze gedurende een redelijke termijn in de gelegenheid is geweest het recht als bedoeld in artikel 40 of  41 van de wet uit te oefenen.     
-5.  De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat de huur is geëindigd, met dien verstande dat de gegevens met betrekking tot de aanvraag en verstrekking van een huurtoeslag worden verwijderd uiterlijk vijf jaar nadat de huurtoeslag is geëindigd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+c. anderen, in de gevallen bedoeld in [artikel 8, onder e en f, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), voor zover het slechts gegevens betreft als bedoeld in het derde lid, onder a, en nadat het voornemen daartoe aan de betrokkene of diens wettelijk vertegenwoordiger is medegedeeld en deze gedurende een redelijke termijn in de gelegenheid is geweest het recht als bedoeld in [artikel 40](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) of [41 van de wet ](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) uit te oefenen.     
+5.  De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat de huur is geëindigd, met dien verstande dat de gegevens met betrekking tot de aanvraag en verstrekking van een huurtoeslag worden verwijderd uiterlijk vijf jaar nadat de huurtoeslag is geëindigd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.  
 
 ### Artikel  15  
 
 ####Juridische en financiëledienstverleners
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen met het oog op de juridische, onderscheidenlijk financiële dienstverlening aan cliënten van notarissen, advocaten of andere rechtshulpverleners, van gerechtsdeurwaarders voorzover het hun ambtelijke praktijk betreft, registeraccountants en Accountants-Administratieconsulenten en werknemers en andere natuurlijke personen die zich onder verantwoordelijkheid van een financiëledienstverlener rechtstreeks bezighouden met het verlenen van financiële diensten, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.  [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen met het oog op de juridische, onderscheidenlijk financiële dienstverlening aan cliënten van notarissen, advocaten of andere rechtshulpverleners, van gerechtsdeurwaarders voorzover het hun ambtelijke praktijk betreft, registeraccountants en Accountants-Administratieconsulenten en werknemers en andere natuurlijke personen die zich onder verantwoordelijkheid van een financiëledienstverlener rechtstreeks bezighouden met het verlenen van financiële diensten, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt slechts voor: 
 
 a. de juridische of financiële dienstverlening en advisering aan een cliënt;  
@@ -639,7 +639,7 @@ b. een administratienummer dat geen andere informatie bevat dan bedoeld onder a,
 
 c. gegevens als bedoeld onder a, van ouders, voogden of verzorgers van minderjarige cliënten;  
 
-d. gegevens als bedoeld onder a, van de wederpartij of derden;  
+d. gegevens als bedoeld onder a, van de wederpartij of derden;   
 
 e. gegevens met het oog op de behandeling de zaak of de beslechting van het geschil;  
 
@@ -650,8 +650,8 @@ g. andere gegevens, dan bedoeld onder a tot en met f, waarvan de verwerking word
 
 a. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet.     
-5.  De persoonsgegevens worden verwijderd nadat de bewaartermijn op grond van toepasselijke gedrags- en beroepsregels is verstreken, dan wel bij gebreke daarvan, uiterlijk twee jaren na de beëindiging van de behandeling van de zaak, de uitvoering van de controle of de beslechting van het geschil, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+b. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).     
+5.  De persoonsgegevens worden verwijderd nadat de bewaartermijn op grond van toepasselijke gedrags- en beroepsregels is verstreken, dan wel bij gebreke daarvan, uiterlijk twee jaren na de beëindiging van de behandeling van de zaak, de uitvoering van de controle of de beslechting van het geschil, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.  
 
 ### Paragraaf  4  
 
@@ -661,10 +661,10 @@ b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, 
 
 ####Individuele gezondheidszorg
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen van beoefenaren van individuele beroepen in de gezondheidszorg, als bedoeld in de Wet op de beroepen in de individuele gezondheidszorg, betreffende hun patiënten, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen van beoefenaren van individuele beroepen in de gezondheidszorg, als bedoeld in de [Wet op de beroepen in de individuele gezondheidszorg](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), betreffende hun patiënten, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt slechts voor: 
 
-a. het uitoefenen van het beroep in de individuele gezondheidszorg, individueel of in samenwerkingsverband, mits dit samenwerkingsverband niet meer dan zes personen telt;  
+a. het uitoefenen van het beroep in de individuele gezondheidszorg, individueel of in samenwerkingsverband, mits dit samenwerkingsverband niet meer dan zes personen telt;   
 
 b. het berekenen, vastleggen en innen van de vergoeding voor de behandeling, waaronder begrepen het in handen van derden stellen van vorderingen;  
 
@@ -683,13 +683,13 @@ d. gegevens als bedoeld onder a, van de gezins- of familieleden van de patiënt 
 
 e. gegevens betreffende de gezondheidstoestand van de patiënt en, ingeval van erfelijke aandoeningen, diens gezins- en familieleden;  
 
-f. andere bijzondere gegevens, als bedoeld in artikel 16 van de wet, met het oog op de goede behandeling of verzorging van de patiënt;  
+f. andere bijzondere gegevens, als bedoeld in [artikel 16 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), met het oog op de goede behandeling of verzorging van de patiënt;  
 
 g. gegevens betreffende de gevolgde en te volgen behandeling van de patiënt alsmede de verstrekte medicamenten of voorzieningen;  
 
 h. gegevens betreffende het berekenen, vastleggen en innen van de vergoeding;  
 
-i. gegevens betreffende de verzekering van de patiënt;  
+i. gegevens betreffende de verzekering van de patiënt;   
 
 j. andere gegevens noodzakelijk met het oog op de uitoefening van het beroep.     
 4.  De persoonsgegevens worden slechts verstrekt aan: 
@@ -702,19 +702,19 @@ c. zorgverzekeraars voor zover noodzakelijk met het oog op de verplichtingen uit
 
 d. derden die zijn belast met het innen van vorderingen, voor zover de verstrekking daarvoor noodzakelijk is en geen medische gegevens betreft;  
 
-e. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d.     
-5.  De persoonsgegevens worden verwijderd nadat de wettelijke bewaartermijn is verstreken en bij het ontbreken daarvan uiterlijk vijf jaar na beëindiging van de behandeling.   
+e. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).     
+5.  De persoonsgegevens worden verwijderd nadat de wettelijke bewaartermijn is verstreken en bij het ontbreken daarvan uiterlijk vijf jaar na beëindiging van de behandeling.  
 
 ### Artikel  17  
 
 ####Instellingen gezondheidszorg
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen van instellingen, als bedoeld in artikel 1, eerste lid, onderdeel e, van de Algemene Wet Bijzondere Ziektekosten en artikel 1, onderdeel m, van de Zorgverzekeringswet, betreffende personen aan wie zij verblijf, verzorging en zorg verschaffen, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen van instellingen, als bedoeld in [artikel 1, eerste lid, onderdeel e, van de Algemene Wet Bijzondere Ziektekosten](../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) en [artikel 1, onderdeel m, van de Zorgverzekeringswet](../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), betreffende personen aan wie zij verblijf, verzorging en zorg verschaffen, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt slechts voor: 
 
 a. het verlenen van huisvesting en de met de woonfunctie direct samenhangende voorzieningen;  
 
-b. het verlenen van zorg;  
+b. het verlenen van zorg; 
 
 c. het kunnen functioneren als contactadres voor familieleden, curatoren, mentoren en naaste betrekkingen;  
 
@@ -731,7 +731,7 @@ a. naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, pos
 
 b. een administratienummer dat geen andere informatie bevat dan bedoeld onder a;  
 
-c. gegevens die betrekking hebben op het verlenen van huisvesting en de met de woonfunctie direct samenhangende voorzieningen;  
+c. gegevens die betrekking hebben op het verlenen van huisvesting en de met de woonfunctie direct samenhangende voorzieningen; 
 
 d. gegevens die betrekking hebben op het verlenen van zorg;  
 
@@ -746,18 +746,18 @@ h. gegevens met betrekking tot de arts van betrokkene;
 i. andere dan de onder a tot en met h bedoelde gegevens waarvan de verwerking wordt vereist ingevolge of noodzakelijk is met het oog op de toepassing van een andere wet.     
 4.  De persoonsgegevens worden slechts verstrekt aan: 
 
-a. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
+a. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;   
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet;  
+b. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
 
-c. anderen, in de gevallen bedoeld in artikel 8, onder e en f, van de wet, voor zover het slechts gegevens betreft als bedoeld in het derde lid, onder a, en nadat het voornemen daartoe aan de betrokkene of diens wettelijk vertegenwoordiger is medegedeeld en deze gedurende een redelijke termijn in de gelegenheid is geweest het recht als bedoeld in artikel 40 of  41 van de wet uit te oefenen.     
-5.  De persoonsgegevens worden verwijderd uiterlijk vijf jaren nadat de verlening van zorg is geëindigd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+c. anderen, in de gevallen bedoeld in [artikel 8, onder e en f, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), voor zover het slechts gegevens betreft als bedoeld in het derde lid, onder a, en nadat het voornemen daartoe aan de betrokkene of diens wettelijk vertegenwoordiger is medegedeeld en deze gedurende een redelijke termijn in de gelegenheid is geweest het recht als bedoeld in [artikel 40](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) of [41 van de wet ](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) uit te oefenen.     
+5.  De persoonsgegevens worden verwijderd uiterlijk vijf jaren nadat de verlening van zorg is geëindigd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.  
 
 ### Artikel  18  
 
 ####Kinderopvang
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen ten behoeve van het verlenen van kinderopvang, onderscheidenlijk gastouderopvang als bedoeld in artikel 1.1., eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen door of vanwege de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen ten behoeve van het verlenen van kinderopvang, onderscheidenlijk gastouderopvang als bedoeld in [artikel 1.1., eerste lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../wet/wet/kinderopvang/BWBR0017017/README.md) door of vanwege de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt slechts voor: 
 
 a. het organiseren van de opvang en de begeleiding van het kind;  
@@ -792,7 +792,7 @@ h. andere dan de onder a tot en met g bedoelde gegevens waarvan de verwerking wo
 
 a. degenen, waaronder begrepen derden, die leiding geven aan of belast zijn met de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet.     
+b. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).     
 5.  De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat de opvang is beëindigd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
 
 ### Paragraaf  5  
@@ -803,7 +803,7 @@ b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, 
 
 ####Leerlingen, deelnemers en studenten
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen van instellingen voor onderwijs of van andere opleidings- of trainingsinstituten betreffende hun leerlingen, deelnemers of studenten en hun docenten en begeleiders, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.  [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen van instellingen voor onderwijs of van andere opleidings- of trainingsinstituten betreffende hun leerlingen, deelnemers of studenten en hun docenten en begeleiders, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt slechts voor: 
 
 a. de organisatie of het geven van het onderwijs, de begeleiding van leerlingen, deelnemers of studenten, dan wel het geven van studieadviezen;  
@@ -812,7 +812,7 @@ b. het verstrekken of ter beschikking stellen van leermiddelen;
 
 c. het bekend maken van informatie over de organisatie en leermiddelen als bedoeld, onder a en b, alsmede informatie over de leerlingen, deelnemers of studenten, bedoeld in het eerste lid, op de eigen website;  
 
-d. het bekendmaken van de activiteiten van de instelling of het instituut op de eigen website;  
+d. het bekendmaken van de activiteiten van de instelling of het instituut op de eigen website; 
 
 e. het berekenen, vastleggen en innen van inschrijvingsgelden, school- en lesgelden en bijdragen of vergoedingen voor leermiddelen en buitenschoolse activiteiten, waaronder begrepen het in handen van derden stellen van vorderingen;  
 
@@ -841,32 +841,32 @@ i. gegevens met het oog op het berekenen, vastleggen en innen van inschrijvingsg
 
 j. foto’s en videobeelden met of zonder geluid van activiteiten van de instelling of het instituut;  
 
-k. gegevens van docenten en begeleiders, voor zover deze gegevens van belang zijn voor de organisatie van het instituut of de instelling en het geven van onderwijs, opleidingen en trainingen;  
+k. gegevens van docenten en begeleiders, voor zover deze gegevens van belang zijn voor de organisatie van het instituut of de instelling en het geven van onderwijs, opleidingen en trainingen; 
 
 l. andere dan de onder a tot en met k bedoelde gegevens waarvan de verwerking wordt vereist ingevolge of noodzakelijk is met het oog op de toepassing van een andere wet.     
 4.  De persoonsgegevens worden slechts verstrekt aan: 
 
 a. degenen, waaronder begrepen derden, die leiding geven aan of belast zijn met de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet;  
+b. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
 
-c. anderen, in de gevallen bedoeld in artikel 8, onder e en f, van de wet, voor zover het slechts gegevens betreft als bedoeld in het derde lid, onder a, en nadat het voornemen daartoe aan de betrokkene of diens wettelijk vertegenwoordiger is medegedeeld en deze gedurende een redelijke termijn in de gelegenheid is geweest het recht als bedoeld in artikel 40 of  41 van de wet uit te oefenen.     
+c. anderen, in de gevallen bedoeld in [artikel 8, onder e en f, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), voor zover het slechts gegevens betreft als bedoeld in het derde lid, onder a, en nadat het voornemen daartoe aan de betrokkene of diens wettelijk vertegenwoordiger is medegedeeld en deze gedurende een redelijke termijn in de gelegenheid is geweest het recht als bedoeld in [artikel 40](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) of [41 van de wet ](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) uit te oefenen.     
 5.  Persoonsgegevens op de website van de instelling of het instituut worden slechts verstrekt aan: 
 
 a. degenen, waaronder begrepen derden, die leiding geven aan of belast zijn met de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijkerwijs zijn betrokken;  
 
-b. anderen, in de gevallen, bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet, voor zover zij daartoe door het bevoegd gezag zijn geautoriseerd.     
-6.  De verantwoordelijke draagt zorg voor een adequate toegangsbeveiliging van de website, alsmede voor een afdoende bescherming van persoonsgegevens tegen verdere verwerking door zoekmachines.   
-7.  De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat de studie is beëindigd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht. De gegevens op de website worden onverwijld verwijderd wanneer de betrokkene of diens wettelijk vertegenwoordiger daarom verzoekt.   
+b. anderen, in de gevallen, bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), voor zover zij daartoe door het bevoegd gezag zijn geautoriseerd.     
+6.  De verantwoordelijke draagt zorg voor een adequate toegangsbeveiliging van de website, alsmede voor een afdoende bescherming van persoonsgegevens tegen verdere verwerking door zoekmachines.  
+7.  De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat de studie is beëindigd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht. De gegevens op de website worden onverwijld verwijderd wanneer de betrokkene of diens wettelijk vertegenwoordiger daarom verzoekt.  
 
 ### Artikel  20  
 
 ####Leerplicht
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen betreffende leerplichtigen ter uitvoering van de Leerplichtwet 1969 door de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen betreffende leerplichtigen ter uitvoering van de [Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) door de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt slechts voor: 
 
-a. de uitvoering en toepassing van de Leerplichtwet 1969;  
+a. de uitvoering en toepassing van de [Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md);  
 
 b. de behandeling van geschillen.     
 3.  Geen andere persoonsgegevens worden verwerkt dan: 
@@ -883,7 +883,7 @@ e. gegevens met betrekking tot de inschrijving of afschrijving van de leerplicht
 
 f. gegevens ten aanzien van het schoolverloop, het schoolverzuim en van het beroep op een vrijstelling van de leerplicht;  
 
-g. andere dan de onder a tot en met f bedoelde gegevens waarvan de verwerking is vereist ingevolge of noodzakelijk is met het oog op de toepassing van de Leerplichtwet 1969 of een andere wet.     
+g. andere dan de onder a tot en met f bedoelde gegevens waarvan de verwerking is vereist ingevolge of noodzakelijk is met het oog op de toepassing van de [Leerplichtwet 1969](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) of een andere wet.     
 4.  De persoonsgegevens worden slechts verstrekt aan: 
 
 a. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
@@ -896,46 +896,46 @@ d. in de gemeente werkzame schoolartsen;
 
 e. de Minister van Onderwijs, Cultuur en Wetenschappen;  
 
-f. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet;  
+f. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
 
-g. anderen, in de gevallen bedoeld in artikel 8, onder e, van de wet, voor zover het slechts gegevens betreft als bedoeld in het derde lid, onder a, en nadat het voornemen daartoe aan de betrokkene of diens wettelijk vertegenwoordiger is medegedeeld en deze gedurende een redelijke termijn in de gelegenheid is geweest het recht als bedoeld in artikel 40, eerste lid, van de wet uit te oefenen.     
-5.  De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat de leerplicht is geëindigd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+g. anderen, in de gevallen bedoeld in [artikel 8, onder e, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), voor zover het slechts gegevens betreft als bedoeld in het derde lid, onder a, en nadat het voornemen daartoe aan de betrokkene of diens wettelijk vertegenwoordiger is medegedeeld en deze gedurende een redelijke termijn in de gelegenheid is geweest het recht als bedoeld in [artikel 40, eerste lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) uit te oefenen.     
+5.  De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat de leerplicht is geëindigd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.  
 
-### Artikel  21  
+###Artikel 21 
 
 ####Leerlingenvervoer
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen met het oog op het verstrekken door de verantwoordelijke van de vergoeding van de kosten verbonden aan het leerlingenvervoer, als bedoeld in de Wet op het primair onderwijs en de Wet op de expertisecentra, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
-2.  De verwerking geschiedt slechts voor: 
+1. [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen met het oog op het verstrekken door de verantwoordelijke van de vergoeding van de kosten verbonden aan het leerlingenvervoer, als bedoeld in de[ Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md) en de [Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md), voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.
+2. De verwerking geschiedt slechts voor:
 
-a. het verstrekken van vergoedingen voor het leerlingenvervoer;  
+a.het verstrekken van vergoedingen voor het leerlingenvervoer;
 
-b. het organiseren van het leerlingenvervoer;  
+b.het organiseren van het leerlingenvervoer;
 
-c. het berekenen en vastleggen van inkomsten en uitgaven;  
+c.het berekenen en vastleggen van inkomsten en uitgaven;
 
-d. het doen van betalingen en het innen van vorderingen;  
+d.het doen van betalingen en het innen van vorderingen;
 
-e. het behandelen van geschillen en het doen uitoefenen van accountantscontrole.     
-3.  Geen andere persoonsgegevens worden verwerkt dan: 
+e.het behandelen van geschillen en het doen uitoefenen van accountantscontrole.
+3. Geen andere persoonsgegevens worden verwerkt dan: 
 
-a. naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de ouders, voogden of verzorgers van de leerling,  
+a.naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de ouders, voogden of verzorgers van de leerling,
 
-b. een administratienummer dat geen andere informatie bevat dan bedoeld onder a;  
+b.een administratienummer dat geen andere informatie bevat dan bedoeld onder a;
 
-c. gegevens met het oog op het toekennen van de vergoeding, waaronder begrepen financiële gegevens van de ouders, voogden of verzorgers van de leerling;  
+c.gegevens met het oog op het toekennen van de vergoeding, waaronder begrepen financiële gegevens van de ouders, voogden of verzorgers van de leerling;
 
-d. gegevens ten behoeve van de identificatie en de begeleiding van de leerling;  
+d.gegevens ten behoeve van de identificatie en de begeleiding van de leerling;
 
-e. gegevens met betrekking tot de uitvoering van het leerlingenvervoer;  
+e.gegevens met betrekking tot de uitvoering van het leerlingenvervoer;
 
-f. gegevens met het oog op het berekenen en vastleggen van inkomsten en uitgaven, het doen van betalingen en het innen van vorderingen.     
-4.  De persoonsgegevens worden slechts verstrekt aan: 
+f.gegevens met het oog op het berekenen en vastleggen van inkomsten en uitgaven, het doen van betalingen en het innen van vorderingen.
+4. De persoonsgegevens worden slechts verstrekt aan:
 
-a. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
+a.degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet.     
-5.  De persoonsgegevens worden verwijderd uiterlijk twee jaren na afloop van het schooljaar waarop de verstrekking van de vergoeding betrekking heeft, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+b.anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).
+5. De persoonsgegevens worden verwijderd uiterlijk twee jaren na afloop van het schooljaar waarop de verstrekking van de vergoeding betrekking heeft, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.
 
 ### Paragraaf  6  
 
@@ -945,7 +945,7 @@ b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, 
 
 ####Vergunning en melding
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen met het oog op het door de verantwoordelijke ingevolge een wettelijk voorschrift verlenen van vergunningen, ontheffingen of machtigingen, dan wel met het oog op een wettelijk voorgeschreven melding bij de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen met het oog op het door de verantwoordelijke ingevolge een wettelijk voorschrift verlenen van vergunningen, ontheffingen of machtigingen, dan wel met het oog op een wettelijk voorgeschreven melding bij de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt slechts voor: 
 
 a. het voorbereiden of nemen van, dan wel het adviseren over besluiten die op grond van een wettelijk voorschrift met betrekking tot de vergunning, ontheffing of machtiging dan wel de melding worden genomen;  
@@ -959,61 +959,61 @@ a. naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, pos
 
 b. een administratienummer dat geen andere informatie bevat dan bedoeld onder a;  
 
-c. gegevens betreffende de aard, het tijdstip van afgifte en de geldigheidsduur van de vergunning, ontheffing of machtiging, de beperkingen waaronder deze is verleend en de voorschriften die daaraan zijn verbonden, alsmede gegevens betreffende de aard van de melding;  
+c. gegevens betreffende de aard, het tijdstip van afgifte en de geldigheidsduur van de vergunning, ontheffing of machtiging, de beperkingen waaronder deze is verleend en de voorschriften die daaraan zijn verbonden, alsmede gegevens betreffende de aard van de melding;   
 
 d. andere dan de onder a tot en met c bedoelde gegevens waarvan de verwerking is vereist ingevolge of noodzakelijk is met het oog op de toepassing van een op de vergunning, ontheffing of machtiging of de melding betrekking hebbend wettelijk voorschrift.     
-4.  Persoonsgegevens als bedoeld in hoofdstuk 2, paragraaf 2 van de wet, worden niet verwerkt behoudens voor zover de verwerking van zodanig gegeven voortvloeit uit de aard van de vergunning, ontheffing, machtiging of de melding.   
+4.  Persoonsgegevens als bedoeld in [hoofdstuk 2, paragraaf 2 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), worden niet verwerkt behoudens voor zover de verwerking van zodanig gegeven voortvloeit uit de aard van de vergunning, ontheffing, machtiging of de melding.   
 5.  De persoonsgegevens worden slechts verstrekt aan: 
 
 a. degenen, waar onder begrepen derden, die zijn belast met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet;  
+b. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
 
-c. anderen, in de gevallen bedoeld in artikel 8, onder e en f, van de wet, voor zover het slechts gegevens betreft als bedoeld in het derde lid, onder a, en nadat het voornemen daartoe aan de betrokkene of diens wettelijk vertegenwoordiger is medegedeeld en deze gedurende een redelijke termijn in de gelegenheid is geweest het recht als bedoeld in artikel 40 of  41 van de wet uit te oefenen.     
-6.  De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat het betrokken verzoek om verlening van een vergunning, ontheffing of machtiging door de betrokkene is ingetrokken, de desbetreffende vergunning, ontheffing of machtiging is ingetrokken of de geldigheidsduur daarvan is verlopen, dan wel de desbetreffende verplichting tot melding is vervallen, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+c. anderen, in de gevallen bedoeld in [artikel 8, onder e en f, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), voor zover het slechts gegevens betreft als bedoeld in het derde lid, onder a, en nadat het voornemen daartoe aan de betrokkene of diens wettelijk vertegenwoordiger is medegedeeld en deze gedurende een redelijke termijn in de gelegenheid is geweest het recht als bedoeld in [artikel 40](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) of [41 van de wet ](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) uit te oefenen.     
+6.  De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat het betrokken verzoek om verlening van een vergunning, ontheffing of machtiging door de betrokkene is ingetrokken, de desbetreffende vergunning, ontheffing of machtiging is ingetrokken of de geldigheidsduur daarvan is verlopen, dan wel de desbetreffende verplichting tot melding is vervallen, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.  
 
-### Artikel  23  
+###Artikel 23 
 
 ####Decentrale belastingen
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen betreffende belastingplichtigen met het oog op de heffing of invordering van belastingen door de verantwoordelijke op grond van de Gemeentewet, de Provinciewet of de Waterschapswet, dan wel met het oog op de uitvoering door de verantwoordelijke van de Wet waardering onroerende zaken, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
-2.  De verwerking geschiedt slechts voor: 
+1. [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen betreffende belastingplichtigen met het oog op de heffing of invordering van belastingen door de verantwoordelijke op grond van de [Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md), de [Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md) of de [Waterschapswet](../../../../wet/waterschapswet/BWBR0005108/README.md), dan wel met het oog op de uitvoering door de verantwoordelijke van de [Wet waardering onroerende zaken](../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.
+2. De verwerking geschiedt slechts voor:
 
-a. het heffen en invorderen van belastinggelden;  
+a.het heffen en invorderen van belastinggelden;
 
-b. het waarderen van onroerende zaken;  
+b.het waarderen van onroerende zaken;
 
-c. het behandelen van geschillen en het doen uitoefenen van accountantscontrole;  
+c.het behandelen van geschillen en het doen uitoefenen van accountantscontrole;
 
-d. de uitvoering en toepassing van een andere wet.     
-3.  Geen andere persoonsgegevens worden verwerkt dan: 
+d.de uitvoering en toepassing van een andere wet.
+3. Geen andere persoonsgegevens worden verwerkt dan:
 
-a. naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de betrokkene;  
+a.naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de betrokkene;
 
-b. een administratienummer dat geen andere informatie bevat dan bedoeld onder a;  
+b.een administratienummer dat geen andere informatie bevat dan bedoeld onder a;
 
-c. gegevens met betrekking tot de grondslag van de heffing en invordering;  
+c.gegevens met betrekking tot de grondslag van de heffing en invordering;
 
-d. gegevens met het oog op het berekenen en vastleggen van heffingen en invorderingen, het doen van betalingen en het innen van vorderingen;  
+d.gegevens met het oog op het berekenen en vastleggen van heffingen en invorderingen, het doen van betalingen en het innen van vorderingen;
 
-e. gegevens met betrekking tot de waardering van onroerende zaken;  
+e.gegevens met betrekking tot de waardering van onroerende zaken;
 
-f. andere dan de onder a tot en met e bedoelde gegevens waarvan de verwerking wordt vereist ingevolge of noodzakelijk is met het oog op de toepassing van een andere wet.     
-4.  De persoonsgegevens worden slechts verstrekt aan: 
+f.andere dan de onder a tot en met e bedoelde gegevens waarvan de verwerking wordt vereist ingevolge of noodzakelijk is met het oog op de toepassing van een andere wet.
+4. De persoonsgegevens worden slechts verstrekt aan: 
 
-a. degenen die zijn belast met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
+a.degenen die zijn belast met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet.     
-5.  De persoonsgegevens worden verwijderd uiterlijk tien jaar nadat de desbetreffende vordering is voldaan, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+b.anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).
+5. De persoonsgegevens worden verwijderd uiterlijk tien jaar nadat de desbetreffende vordering is voldaan, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.
 
 ### Artikel  24  
 
 ####Reisdocumenten
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen met het oog op de afgifte door de verantwoordelijke van reisdocumenten als bedoeld in de Paspoortwet, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen met het oog op de afgifte door de verantwoordelijke van reisdocumenten als bedoeld in de [Paspoortwet](../../../../rijkswet/paspoortwet/BWBR0005212/README.md), voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt slechts voor: 
 
-a. de afgifte van reisdocumenten in het kader van de uitvoering van de Paspoortwet;  
+a. de afgifte van reisdocumenten in het kader van de uitvoering van de [Paspoortwet](../../../../rijkswet/paspoortwet/BWBR0005212/README.md);  
 
 b. het behandelen van geschillen en het doen uitoefenen van accountantscontrole;  
 
@@ -1046,173 +1046,173 @@ l. gegevens met betrekking tot de instantie die het reisdocument heeft afgegeven
 
 m. gegevens met betrekking tot het voorraadbeheer;  
 
-n. andere dan de onder a tot en met m genoemde gegevens waarvan de verwerking wordt vereist ingevolge of noodzakelijk is met het oog op de toepassing van de Paspoortwet.     
+n. andere dan de onder a tot en met m genoemde gegevens waarvan de verwerking wordt vereist ingevolge of noodzakelijk is met het oog op de toepassing van de [Paspoortwet](../../../../rijkswet/paspoortwet/BWBR0005212/README.md).     
 4.  De persoonsgegevens worden slechts verstrekt aan: 
 
 a. degenen die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten;  
 
 b. de tot afgifte van reisdocumenten bevoegde instanties;  
 
-c. ambtenaren van de politie, in de gevallen bedoeld in artikel 8, onder e, van de wet;  
+c. ambtenaren van de politie, in de gevallen bedoeld in [artikel 8, onder e, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
 
-d. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet.     
+d. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).     
 5.  De persoonsgegevens worden verwijderd uiterlijk vijf jaren nadat het afgegeven reisdocument is ingeleverd of ongeldig is geworden of na het overlijden van betrokkene, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
 
-### Artikel  25  
+###Artikel 25 
 
 ####Grafrechten
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen betreffende personen die bij de verantwoordelijke een recht hebben op een begraafplaats, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
-2.  De verwerking geschiedt slechts voor: 
+1. [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen betreffende personen die bij de verantwoordelijke een recht hebben op een begraafplaats, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.
+2. De verwerking geschiedt slechts voor:
 
-a. het administreren van de in gebruik zijnde graven en de daarvoor verschuldigde grafrechten;  
+a.het administreren van de in gebruik zijnde graven en de daarvoor verschuldigde grafrechten;
 
-b. het administreren van de rechthebbenden;  
+b.het administreren van de rechthebbenden;
 
-c. het berekenen en vastleggen van inkomsten en uitgaven en het doen van betalingen;  
+c.het berekenen en vastleggen van inkomsten en uitgaven en het doen van betalingen;
 
-d. het innen van vorderingen, daaronder begrepen het in handen van derden stellen van vorderingen, ten behoeve van grafrechten;  
+d.het innen van vorderingen, daaronder begrepen het in handen van derden stellen van vorderingen, ten behoeve van grafrechten;
 
-e. activiteiten van intern beheer;  
+e.activiteiten van intern beheer;
 
-f. het behandelen van geschillen en het doen uitoefenen van accountantscontrole;  
+f.het behandelen van geschillen en het doen uitoefenen van accountantscontrole;
 
-g. de uitvoering of toepassing van een andere wet.     
-3.  Geen andere persoonsgegevens worden verwerkt dan: 
+g.de uitvoering of toepassing van een andere wet.
+3. Geen andere persoonsgegevens worden verwerkt dan:
 
-a. naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de rechthebbende op het graf, diens partner of nagelaten betrekkingen;  
+a.naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de rechthebbende op het graf, diens partner of nagelaten betrekkingen;
 
-b. een administratienummer dat geen andere informatie bevat dan bedoeld onder a;  
+b.een administratienummer dat geen andere informatie bevat dan bedoeld onder a;
 
-c. gegevens met betrekking tot de in gebruik zijnde graven;  
+c.gegevens met betrekking tot de in gebruik zijnde graven;
 
-d. gegevens met het oog op het berekenen en vastleggen van inkomsten en uitgaven en het doen van betalingen en het innen vorderingen in verband met de rechten op een graf;  
+d.gegevens met het oog op het berekenen en vastleggen van inkomsten en uitgaven en het doen van betalingen en het innen vorderingen in verband met de rechten op een graf;
 
-e. andere dan de onder a tot en met d bedoelde gegevens waarvan de verwerking wordt vereist ingevolge of noodzakelijk is met het oog op de toepassing van een andere wet.     
-4.  De persoonsgegevens worden slechts verstrekt aan: 
+e.andere dan de onder a tot en met d bedoelde gegevens waarvan de verwerking wordt vereist ingevolge of noodzakelijk is met het oog op de toepassing van een andere wet.
+4. De persoonsgegevens worden slechts verstrekt aan:
 
-a. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
+a.degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet.     
-5.  De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat het recht op het graf is vervallen, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+b.anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).
+5. De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat het recht op het graf is vervallen, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.
 
-### Artikel  26  
+###Artikel 26 
 
 ####Naturalisatie
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen betreffende personen die bij de verantwoordelijke een naturalisatieverzoek hebben gedaan in het kader van de Rijkswet op het Nederlanderschap, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
-2.  De verwerking geschiedt slechts voor: 
+1. [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen betreffende personen die bij de verantwoordelijke een naturalisatieverzoek hebben gedaan in het kader van de [Rijkswet op het Nederlanderschap](../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md), voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.
+2. De verwerking geschiedt slechts voor:
 
-a. de behandeling van naturalisatieverzoeken ter uitvoering van de Rijkswet op het Nederlanderschap;  
+a.de behandeling van naturalisatieverzoeken ter uitvoering van de [Rijkswet op het Nederlanderschap](../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md);
 
-b. het behandelen van geschillen;  
+b.het behandelen van geschillen;
 
-c. de uitvoering of toepassing van de Rijkswet op het Nederlanderschap of een andere wet.     
-3.  Geen andere persoonsgegevens worden verwerkt dan: 
+c.de uitvoering of toepassing van de [Rijkswet op het Nederlanderschap](../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) of een andere wet.
+3. Geen andere persoonsgegevens worden verwerkt dan:
 
-a. naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de betrokkene;  
+a.naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de betrokkene;
 
-b. een administratienummer dat geen andere informatie bevat dan bedoeld onder a;  
+b.een administratienummer dat geen andere informatie bevat dan bedoeld onder a;
 
-c. gegevens met betrekking tot de verklaringen tot verkrijging en afstand van het Nederlanderschap;  
+c.gegevens met betrekking tot de verklaringen tot verkrijging en afstand van het Nederlanderschap;
 
-d. gegevens met betrekking tot familierechtelijke relaties;  
+d.gegevens met betrekking tot familierechtelijke relaties;
 
-e. andere dan de onder a tot en met d bedoelde gegevens waarvan de verwerking wordt vereist ingevolge of noodzakelijk is met het oog op de toepassing van de Rijkswet op het Nederlanderschap of een andere wet.     
-4.  De persoonsgegevens worden slechts verstrekt aan: 
+e.andere dan de onder a tot en met d bedoelde gegevens waarvan de verwerking wordt vereist ingevolge of noodzakelijk is met het oog op de toepassing van de [Rijkswet op het Nederlanderschap](../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) of een andere wet.
+4. De persoonsgegevens worden slechts verstrekt aan:
 
-a. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken, alsmede de Minister van Justitie;  
+a.degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken, alsmede de Minister van Justitie;
 
-b. ambtenaren van de politie en burgemeesters van andere gemeenten, in de gevallen bedoeld in artikel 8, onder e, van de wet;  
+b.ambtenaren van de politie en burgemeesters van andere gemeenten, in de gevallen bedoeld in [artikel 8, onder e, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);
 
-c. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet.     
-5.  De persoonsgegevens worden verwijderd indien de betrokkene de Nederlandse nationaliteit heeft verkregen of, indien het verzoek is afgewezen, uiterlijk twee jaren na de afwijzing van het verzoek, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+c.anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).
+5. De persoonsgegevens worden verwijderd indien de betrokkene de Nederlandse nationaliteit heeft verkregen of, indien het verzoek is afgewezen, uiterlijk twee jaren na de afwijzing van het verzoek, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.
 
-### Artikel  27  
+###Artikel 27 
 
 ####Naamswijziging
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen betreffende personen die bij de verantwoordelijke een verzoek om (geslachts)naamswijziging hebben gedaan, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
-2.  De verwerking geschiedt slechts voor: 
+1. [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen betreffende personen die bij de verantwoordelijke een verzoek om (geslachts)naamswijziging hebben gedaan, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.
+2. De verwerking geschiedt slechts voor:
 
-a. de behandeling van verzoeken tot geslachtsnaamwijziging;  
+a.de behandeling van verzoeken tot geslachtsnaamwijziging;
 
-b. het behandelen van geschillen.     
-3.  Geen andere persoonsgegevens worden verwerkt dan: 
+b.het behandelen van geschillen.
+3. Geen andere persoonsgegevens worden verwerkt dan:
 
-a. naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de betrokkene;  
+a.naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens, alsmede bank- en girorekeningnummer van de betrokkene;
 
-b. een administratienummer dat geen andere informatie bevat dan bedoeld onder a;  
+b.een administratienummer dat geen andere informatie bevat dan bedoeld onder a;
 
-c. gegevens met betrekking tot het voor de wijziging van de geslachtsnaam verschuldigde recht;  
+c.gegevens met betrekking tot het voor de wijziging van de geslachtsnaam verschuldigde recht;
 
-d. andere dan de onder a tot en met c bedoelde gegevens met het oog op de behandeling van de verzoeken om geslachtsnaamwijziging.     
-4.  De persoonsgegevens worden slechts verstrekt aan: 
+d.andere dan de onder a tot en met c bedoelde gegevens met het oog op de behandeling van de verzoeken om geslachtsnaamwijziging.
+4. De persoonsgegevens worden slechts verstrekt aan:
 
-a. degenen die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten en de Minister van Justitie;  
+a.degenen die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten en de Minister van Justitie;
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet.     
-5.  De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat op het verzoek tot geslachtsnaamwijziging is beslist, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+b.anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).
+5. De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat op het verzoek tot geslachtsnaamwijziging is beslist, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.
 
-### Artikel  28  
+###Artikel 28 
 
 ####Dienstplicht
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen binnen een gemeente ter uitvoering van de Kaderwet dienstplicht door de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
-2.  De verwerking geschiedt slechts met betrekking tot ingeschrevenen voor de dienstplicht met het oog op de uitvoering van de Kaderwet dienstplicht.   
-3.  Geen andere persoonsgegevens worden verwerkt dan: 
+1. [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen binnen een gemeente ter uitvoering van de [Kaderwet dienstplicht](../../../../wet/kaderwet/dienstplicht/BWBR0008589/README.md) door de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.
+2. De verwerking geschiedt slechts met betrekking tot ingeschrevenen voor de dienstplicht met het oog op de uitvoering van de [Kaderwet dienstplicht](../../../../wet/kaderwet/dienstplicht/BWBR0008589/README.md).
+3. Geen andere persoonsgegevens worden verwerkt dan:
 
-a. naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens van de betrokkene;  
+a.naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens van de betrokkene;
 
-b. een registratienummer;  
+b.een registratienummer;
 
-c. gegevens als bedoeld onder a, van de gezinsleden van de betrokkene of diens werkgever;  
+c.gegevens als bedoeld onder a, van de gezinsleden van de betrokkene of diens werkgever;
 
-d. keuringsgegevens met betrekking tot de (on)geschiktheid van betrokkene voor het vervullen van de werkelijke dienst;  
+d.keuringsgegevens met betrekking tot de (on)geschiktheid van betrokkene voor het vervullen van de werkelijke dienst;
 
-e. gegevens met betrekking tot de persoonlijke onmisbaarheid en tot de aanwezigheid van bijzondere omstandigheden van betrokkene, waaronder mede begrepen gegevens met betrekking tot de werkgever van betrokkene;  
+e.gegevens met betrekking tot de persoonlijke onmisbaarheid en tot de aanwezigheid van bijzondere omstandigheden van betrokkene, waaronder mede begrepen gegevens met betrekking tot de werkgever van betrokkene;
 
-f. gegevens met betrekking tot de arbeidsomstandigheden van betrokkene;  
+f.gegevens met betrekking tot de arbeidsomstandigheden van betrokkene;
 
-g. gegevens met betrekking tot uitstel, ontheffing of vrijstelling van de dienstplicht;  
+g.gegevens met betrekking tot uitstel, ontheffing of vrijstelling van de dienstplicht;
 
-h. andere dan de onder a tot en met g bedoelde gegevens, waarvan de verwerking wordt vereist ingevolge of noodzakelijk is met het oog op de toepassing van een andere wet.     
-4.  De persoonsgegevens worden slechts verstrekt aan: 
+h.andere dan de onder a tot en met g bedoelde gegevens, waarvan de verwerking wordt vereist ingevolge of noodzakelijk is met het oog op de toepassing van een andere wet.
+4. De persoonsgegevens worden slechts verstrekt aan:
 
-a. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken, alsmede de Minister van Defensie;  
+a.degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken, alsmede de Minister van Defensie;
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet.     
-5.  De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat betrokkene niet meer is ingeschreven voor de dienstplicht als bedoeld in de Kaderwet dienstplicht, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+b.anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).
+5. De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat betrokkene niet meer is ingeschreven voor de dienstplicht als bedoeld in de [Kaderwet dienstplicht](../../../../wet/kaderwet/dienstplicht/BWBR0008589/README.md), tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.
 
 ### Paragraaf  7  
 
 ####Archieven en onderzoek
 
-### Artikel  29  
+###Artikel 29 
 
 ####Archiefbestemming
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen die uitsluitend een archiefbestemming hebben, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
-2.  De verwerking geschiedt slechts voor: 
+1. [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen die uitsluitend een archiefbestemming hebben, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.
+2. De verwerking geschiedt slechts voor:
 
-a. het archiefbeheer;  
+a.het archiefbeheer;
 
-b. het behandelen van geschillen;  
+b.het behandelen van geschillen;
 
-c. het verrichten van wetenschappelijk, statistisch of historisch onderzoek.     
-3.  Geen andere persoonsgegevens worden verwerkt dan de gegevens die deel uitmaken van archiefbescheiden.   
-4.  De persoonsgegevens worden slechts verstrekt aan: 
+c.het verrichten van wetenschappelijk, statistisch of historisch onderzoek.
+3. Geen andere persoonsgegevens worden verwerkt dan de gegevens die deel uitmaken van archiefbescheiden.
+4. De persoonsgegevens worden slechts verstrekt aan:
 
-a. degenen, waaronder begrepen derden, die zijn belast met of leiding geven aan het archiefbeheer, door de verantwoordelijke zijn belast met het behandelen van geschillen, dan wel wetenschappelijk, statistisch of historisch onderzoek verrichten of die daarbij noodzakelijk zijn betrokken;  
+a.degenen, waaronder begrepen derden, die zijn belast met of leiding geven aan het archiefbeheer, door de verantwoordelijke zijn belast met het behandelen van geschillen, dan wel wetenschappelijk, statistisch of historisch onderzoek verrichten of die daarbij noodzakelijk zijn betrokken;
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, van de wet.     
-5.  De persoonsgegevens worden verwijderd zodra zij hun belang voor de archiefbestemming hebben verloren.   
+b.anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).
+5. De persoonsgegevens worden verwijderd zodra zij hun belang voor de archiefbestemming hebben verloren. 
 
 ### Artikel  30  
 
 ####Wetenschappelijk onderzoek en statistiek
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen van organisaties voor wetenschappelijk onderzoek of statistiek die uitsluitend ten dienste staan van door hen te verrichten of verricht onderzoek, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen van organisaties voor wetenschappelijk onderzoek of statistiek die uitsluitend ten dienste staan van door hen te verrichten of verricht onderzoek, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt slechts voor het verzamelen, verwerken en controleren van de gegevens ten behoeve van een bepaald onderzoek of een bepaalde statistiek.   
 3.  Geen andere persoonsgegevens worden verwerkt dan: 
 
@@ -1225,8 +1225,8 @@ c. andere dan de onder a en b bedoelde gegevens, die ten behoeve van een bepaald
 
 a. degenen, waaronder begrepen derden, die zijn belast met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, en artikel 9, derde lid, van de wet.     
-5.  De in het derde lid onder a bedoelde persoonsgegevens, met uitzondering van geslacht, woonplaats en geboortejaar, worden verwijderd uiterlijk zes maanden nadat de in dat lid onder c bedoelde gegevens omtrent de betrokkene zijn verkregen.   
+b. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), en [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).     
+5.  De in het derde lid onder a bedoelde persoonsgegevens, met uitzondering van geslacht, woonplaats en geboortejaar, worden verwijderd uiterlijk zes maanden nadat de in dat lid onder c bedoelde gegevens omtrent de betrokkene zijn verkregen.  
 
 ### Paragraaf  8  
 
@@ -1236,7 +1236,7 @@ b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, en artikel 9, 
 
 ####Documentenbeheer
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen met het oog op de registratie van de ontvangst, de behandeling en de afdoening van documenten door de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen met het oog op de registratie van de ontvangst, de behandeling en de afdoening van documenten door de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt slechts voor: 
 
 a. het organiseren van de ontvangst en verzending van de documenten;  
@@ -1259,15 +1259,15 @@ d. andere gegevens dan bedoeld onder a tot en met c met het oog op de organisati
 
 a. degenen die belast zijn met de in het tweede lid bedoelde activiteiten, met dien verstande dat verstrekking aan derden slechts geschiedt met het oog op het behandelen van geschillen;  
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, en artikel 9, derde lid, van de wet.     
-5.  De persoonsgegevens worden verwijderd uiterlijk vijf jaren nadat de betrokken gegevens werden opgenomen, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+b. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), en [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).     
+5.  De persoonsgegevens worden verwijderd uiterlijk vijf jaren nadat de betrokken gegevens werden opgenomen, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.  
 
 ### Artikel  32  
 
 ####Netwerksystemen
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen in verband met het aanbieden van faciliteiten of diensten op een netwerk aan personen die in dienst zijn van of werkzaam zijn ten behoeve van de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
-2.  Het eerste lid is niet van toepassing op openbare telecommunicatienetwerken als bedoeld in artikel 1.1, onder g, van de Telecommunicatiewet en de openbare telecommunicatiediensten als bedoeld in artikel 1.1, onder f, van de Telecommunicatiewet.   
+1.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen in verband met het aanbieden van faciliteiten of diensten op een netwerk aan personen die in dienst zijn van of werkzaam zijn ten behoeve van de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+2.  Het eerste lid is niet van toepassing op openbare telecommunicatienetwerken als bedoeld in artikel 1.1, onder g, van de Telecommunicatiewet en de openbare telecommunicatiediensten als bedoeld in [artikel 1.1, onder f, van de Telecommunicatiewet](../../../../wet/telecommunicatiewet/BWBR0009950/README.md).   
 3.  De verwerking geschiedt slechts voor: 
 
 a. het faciliteren van de communicatie met de aansluitpunten van het netwerk;  
@@ -1290,14 +1290,14 @@ d. gegevens met betrekking tot elektronische berichten afkomstig van of bestemd 
 
 a. degenen die belast zijn met de in het tweede lid bedoelde activiteiten, met dien verstande dat verstrekking aan derden slechts geschiedt met het oog op het behandelen van geschillen;  
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, en artikel 9, derde lid, van de wet.     
-6.  De persoonsgegevens worden verwijderd uiterlijk 6 maanden nadat zij zijn verkregen dan wel twee jaren nadat het dienstverband of de werkzaamheden van betrokkene ten behoeve van de verantwoordelijke zijn beëindigd.   
+b. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), en [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).     
+6.  De persoonsgegevens worden verwijderd uiterlijk 6 maanden nadat zij zijn verkregen dan wel twee jaren nadat het dienstverband of de werkzaamheden van betrokkene ten behoeve van de verantwoordelijke zijn beëindigd.  
 
 ### Artikel  33  
 
 ####Computersystemen
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen die uitsluitend zijn gericht op het onderhoud, het beheer, de beveiliging, het gebruik en de goede werking van computersystemen of computerprogramma's binnen de organisatie van de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen die uitsluitend zijn gericht op het onderhoud, het beheer, de beveiliging, het gebruik en de goede werking van computersystemen of computerprogramma's binnen de organisatie van de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt slechts voor: 
 
 a. de controle op en de beveiliging van de computersystemen of computerprogramma's;  
@@ -1311,7 +1311,7 @@ d. het aanmaken van reservekopieën van (tussen)bestanden;
 e. het beheer van de systemen of programma's.     
 3.  Geen andere persoonsgegevens worden verwerkt dan: 
 
-a. gegevens met betrekking tot het gebruik van de programmatuur;  
+a. gegevens met betrekking tot het gebruik van de programmatuur;   
 
 b. technische en besturingsgegevens;  
 
@@ -1324,14 +1324,14 @@ e. gebruikersgegevens.
 
 a. degenen, waaronder begrepen derden, die zijn belast met of leiding geven aan het systeem-, gegevensbeheer of applicatiebeheer of die daarbij noodzakelijk zijn betrokken;  
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, en artikel 9, derde lid, van de wet.     
-5.  De persoonsgegevens worden verwijderd uiterlijk 6 maanden nadat zij zijn verkregen, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+b. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), en [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).     
+5.  De persoonsgegevens worden verwijderd uiterlijk 6 maanden nadat zij zijn verkregen, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.  
 
 ### Artikel  34  
 
 ####Communicatieapparatuur
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen in verband met het gebruik van communicatieapparatuur die ter beschikking wordt gesteld aan personen die in dienst zijn van of werkzaam zijn ten behoeve van de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen in verband met het gebruik van communicatieapparatuur die ter beschikking wordt gesteld aan personen die in dienst zijn van of werkzaam zijn ten behoeve van de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt slechts voor: 
 
 a. het tot stand brengen van de verbinding tussen de afzender en de geadresseerde;  
@@ -1350,14 +1350,14 @@ b. gegevens met betrekking tot de datum en het tijdstip waarop de communicatie t
 
 a. degenen die zijn belast met of leiding geven aan de in het tweede lid bedoelde activiteiten, met dien verstande dat verstrekking aan derden slechts geschiedt met het oog op het behandelen van geschillen;  
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, en artikel 9, derde lid, van de wet.     
-5.  De persoonsgegevens worden verwijderd uiterlijk 6 maanden nadat zij zijn verkregen, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+b. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), en [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).     
+5.  De persoonsgegevens worden verwijderd uiterlijk 6 maanden nadat zij zijn verkregen, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.  
 
 ### Artikel  35  
 
 ####Toegangscontrole
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen met het oog op het geven van toegang tot gebouwen of informatiesystemen van de verantwoordelijke, dan wel onderdelen daarvan aan personen die in dienst zijn van of werkzaam zijn ten behoeve van de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen met het oog op het geven van toegang tot gebouwen of informatiesystemen van de verantwoordelijke, dan wel onderdelen daarvan aan personen die in dienst zijn van of werkzaam zijn ten behoeve van de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt slechts voor: 
 
 a. het verlenen van toegang tot gebouwen of informatiesystemen, dan wel onderdelen daarvan;  
@@ -1367,7 +1367,7 @@ b. het toekennen van toegangsbevoegdheden;
 c. de interne controle en bedrijfsbeveiliging.     
 3.  Geen andere persoonsgegevens worden verwerkt dan: 
 
-a. naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens van de betrokkene, waaronder gegevens met betrekking tot het zakelijk adres;  
+a. naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, postcode, woonplaats, telefoonnummer en soortgelijke voor communicatie benodigde gegevens van de betrokkene, waaronder gegevens met betrekking tot het zakelijk adres;   
 
 b. een informatieloos administratienummer;  
 
@@ -1380,16 +1380,16 @@ e. voor zover het toegangscontrole tot gebouwen betreft, een afbeelding van betr
 
 a. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
 
-b. ambtenaren van de politie bij incidenten ingevolge artikel 8, onder e, van de wet;  
+b. ambtenaren van de politie bij incidenten ingevolge [artikel 8, onder e, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
 
-c. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, en artikel 9, derde lid, van de wet.     
-5.  De persoonsgegevens worden verwijderd uiterlijk zes maanden nadat het recht op toegang van betrokkene is vervallen, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+c. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), en [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).     
+5.  De persoonsgegevens worden verwijderd uiterlijk zes maanden nadat het recht op toegang van betrokkene is vervallen, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.  
 
 ### Artikel  36  
 
 ####Overig intern beheer
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen, anders dan bedoeld in de artikelen 3 tot en met 35, betreffende personen die in dienst zijn van of werkzaam zijn ten behoeve van de verantwoordelijke, uitsluitend ten dienste van het interne beheer van de betrokken organisatie, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen, anders dan bedoeld in de artikelen 3 tot en met 35, betreffende personen die in dienst zijn van of werkzaam zijn ten behoeve van de verantwoordelijke, uitsluitend ten dienste van het interne beheer van de betrokken organisatie, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt slechts voor: 
 
 a. het interne beheer;  
@@ -1412,14 +1412,14 @@ f. gegevens betreffende de aan de betrokkene beschikbaar gestelde werk- en bedri
 
 a. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, en artikel 9, derde lid, van de wet.     
-5.  De persoonsgegevens worden verwijderd uiterlijk zes maanden nadat de betrokkene de organisatie van de verantwoordelijke heeft verlaten of diens werkzaamheden ten behoeve van de organisatie heeft beëindigd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+b. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), en [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).     
+5.  De persoonsgegevens worden verwijderd uiterlijk zes maanden nadat de betrokkene de organisatie van de verantwoordelijke heeft verlaten of diens werkzaamheden ten behoeve van de organisatie heeft beëindigd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.  
 
 ### Artikel  37  
 
 ####Bezoekersregistratie
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen betreffende personen die de organisatie van de verantwoordelijke bezoeken of hebben bezocht, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen betreffende personen die de organisatie van de verantwoordelijke bezoeken of hebben bezocht, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt slechts voor: 
 
 a. het interne beheer;  
@@ -1442,16 +1442,16 @@ f. een administratienummer dat geen andere informatie bevat dan bedoeld onder a.
 
 a. degenen, daaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken, alsmede de persoon of de afdeling die het bezoek ontvangt;  
 
-b. ambtenaren van de politie in geval van incidenten ingevolge artikel 8, onder e, van de wet;  
+b. ambtenaren van de politie in geval van incidenten ingevolge [artikel 8, onder e, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
 
-c. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, en artikel 9, derde lid, van de wet.     
-5.  De persoonsgegevens worden verwijderd uiterlijk zes maanden na de datum van het bezoek, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+c. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), en [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).     
+5.  De persoonsgegevens worden verwijderd uiterlijk zes maanden na de datum van het bezoek, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.  
 
 ### Artikel  38  
 
 ####Videocameratoezicht
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen met het oog op de beveiliging van personen, gebouwen, terreinen, zaken en productieprocessen, die zijn toevertrouwd aan de zorg van de verantwoordelijke, door middel van het gebruik van duidelijk zichtbare videocamera's, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen met het oog op de beveiliging van personen, gebouwen, terreinen, zaken en productieprocessen, die zijn toevertrouwd aan de zorg van de verantwoordelijke, door middel van het gebruik van duidelijk zichtbare videocamera's, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  Het eerste lid is niet van toepassing op verwerkingen met het oog op de handhaving van de openbare orde.   
 3.  De verwerking geschiedt slechts voor: 
 
@@ -1464,7 +1464,7 @@ c. de bewaking van zaken die zich in gebouwen of op terreinen bevinden;
 d. de controle op een productieproces;  
 
 e. het vastleggen van incidenten.     
-4.  Geen andere persoonsgegevens worden verwerkt dan: 
+4.  Geen andere persoonsgegevens worden verwerkt dan:  
 
 a. video-opnamen van de gebouwen en terreinen en zich daarop bevindende personen en zaken, waarover de zorg van de verantwoordelijke zich uitstrekt;  
 
@@ -1473,10 +1473,10 @@ b. gegevens met betrekking tot het tijdstip, de datum en de plaats waarop de vid
 
 a. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het derde lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
 
-b. ambtenaren van de politie in geval van incidenten, ingevolge artikel 8, onder e, van de wet;  
+b. ambtenaren van de politie in geval van incidenten, ingevolge [artikel 8, onder e, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
 
-c. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, en artikel 9, derde lid, van de wet.     
-6.  De persoonsgegevens worden verwijderd uiterlijk vier weken nadat de opnamen zijn gemaakt, dan wel na afhandeling van de geconstateerde incidenten.   
+c. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), en [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).     
+6.  De persoonsgegevens worden verwijderd uiterlijk vier weken nadat de opnamen zijn gemaakt, dan wel na afhandeling van de geconstateerde incidenten.  
 
 ### Paragraaf  8a  
 
@@ -1486,7 +1486,7 @@ c. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, en artikel 9, 
 
 ####Intranet
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen binnen een besloten intranet van een verantwoordelijke betreffende personen in dienst van of werkzaam ten behoeve van de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.  [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen binnen een besloten intranet van een verantwoordelijke betreffende personen in dienst van of werkzaam ten behoeve van de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt na instemming van de ondernemingsraad, voorzover deze is ingesteld, slechts voor: 
 
 a. het informeren van betrokkenen over de bedrijfsactiviteiten van de verantwoordelijke;  
@@ -1511,14 +1511,14 @@ a. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan 
 
 b. aan personen in dienst van of werkzaam ten behoeve van de verantwoordelijke;  
 
-c. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, of artikel 9, derde lid, van de wet, voor zover zij hiertoe zijn geautoriseerd door de verantwoordelijke.     
-5.  De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat het dienstverband of de werkzaamheden van de betrokkene ten behoeve van de verantwoordelijke zijn beëindigd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+c. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), of [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), voor zover zij hiertoe zijn geautoriseerd door de verantwoordelijke.     
+5.  De persoonsgegevens worden verwijderd uiterlijk twee jaren nadat het dienstverband of de werkzaamheden van de betrokkene ten behoeve van de verantwoordelijke zijn beëindigd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.  
 
 ### Artikel  38b  
 
 ####Persoonlijke websites
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen door individuele personen op hun persoonlijke website, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.  [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen door individuele personen op hun persoonlijke website, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt slechts voor persoonlijke doeleinden.   
 3.  Geen andere persoonsgegevens worden verwerkt dan: 
 
@@ -1528,7 +1528,7 @@ b. meningen en standpunten over gebeurtenissen, feiten en omstandigheden;
 
 c. foto’s en videobeelden met of zonder geluid.     
 4.  De persoonsgegevens worden verwijderd na beëindiging van de website.   
-5.  De persoonsgegevens van anderen dan de verantwoordelijke worden op verzoek van de betrokkene onverwijld verwijderd.   
+5.  De persoonsgegevens van anderen dan de verantwoordelijke worden op verzoek van de betrokkene onverwijld verwijderd.  
 
 ### Paragraaf  9  
 
@@ -1538,7 +1538,7 @@ c. foto’s en videobeelden met of zonder geluid.
 
 ####Bezwaarschriften, klachten en gerechtelijke procedures
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen betreffende personen die een bezwaarschrift of klacht hebben ingediend bij de verantwoordelijke dan wel ten aanzien waarvan een gerechtelijke procedure aanhangig is bij een rechterlijk college, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen betreffende personen die een bezwaarschrift of klacht hebben ingediend bij de verantwoordelijke dan wel ten aanzien waarvan een gerechtelijke procedure aanhangig is bij een rechterlijk college, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt slechts voor: 
 
 a. de behandeling van het bezwaarschrift, de klacht of de gerechtelijke procedure;  
@@ -1563,14 +1563,14 @@ e. andere dan de onder a tot en met d bedoelde gegevens waarvan de verwerking wo
 
 a. degenen, waaronder begrepen derden, die zijn belast met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, en artikel 9, derde lid, van de wet.     
+b. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), en [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).     
 5.  De persoonsgegevens worden verwijderd uiterlijk twee jaar nadat het bezwaarschrift, de klacht of de gerechtelijke procedure is afgehandeld, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
 
 ### Artikel  40  
 
 ####Registers en lijsten
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen ten behoeve van registers of lijsten betreffende personen die over een bepaalde hoedanigheid beschikken, die voor een bepaalde hoedanigheid of prestatie in aanmerking willen komen, of die in aanmerking kunnen komen voor een benoemingsprocedure en die in verband daarmee op hun verzoek of krachtens wettelijk voorschrift in het register of op de lijst zijn opgenomen, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.  [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen ten behoeve van registers of lijsten betreffende personen die over een bepaalde hoedanigheid beschikken, die voor een bepaalde hoedanigheid of prestatie in aanmerking willen komen, of die in aanmerking kunnen komen voor een benoemingsprocedure en die in verband daarmee op hun verzoek of krachtens wettelijk voorschrift in het register of op de lijst zijn opgenomen, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt slechts voor: 
 
 a. het actueel houden van het register of de lijst;  
@@ -1597,16 +1597,16 @@ e. andere gegevens, dan bedoeld onder a tot en met d, waarvan de verwerking word
 
 a. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, en artikel 9, derde lid, van de wet;  
+b. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), en [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
 
-c. anderen, in de gevallen bedoeld in artikel 8, onder e en f, van de wet, voor zover het slechts gegevens betreft als bedoeld in het derde lid, onder a, en de grond tot opneming in het register of op de lijst geen bijzonder gegeven betreft als bedoeld in paragraaf 2 van hoofdstuk 2 van de wet, en nadat het voornemen daartoe aan de betrokkene of diens wettelijk vertegenwoordiger is medegedeeld en deze gedurende een redelijke termijn in de gelegenheid is geweest het recht als bedoeld in artikel 40 of  41 van de wet uit te oefenen.     
-5.  De persoonsgegevens worden uit het register of van de lijst verwijderd uiterlijk twee jaar nadat de betrokken hoedanigheid is vervallen, de gewenste hoedanigheid is verkregen of de gewenste prestatie is geleverd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.   
+c. anderen, in de gevallen bedoeld in [artikel 8, onder e en f, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), voor zover het slechts gegevens betreft als bedoeld in het derde lid, onder a, en de grond tot opneming in het register of op de lijst geen bijzonder gegeven betreft als bedoeld in [paragraaf 2 van hoofdstuk 2 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), en nadat het voornemen daartoe aan de betrokkene of diens wettelijk vertegenwoordiger is medegedeeld en deze gedurende een redelijke termijn in de gelegenheid is geweest het recht als bedoeld in [artikel 40](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) of [41 van de wet ](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) uit te oefenen.     
+5.  De persoonsgegevens worden uit het register of van de lijst verwijderd uiterlijk twee jaar nadat de betrokken hoedanigheid is vervallen, de gewenste hoedanigheid is verkregen of de gewenste prestatie is geleverd, tenzij de persoonsgegevens noodzakelijk zijn ter voldoening aan een wettelijke bewaarplicht.  
 
 ### Artikel  41  
 
 ####Oud-leden en oud-leerlingen
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen betreffende oud-leden, oud-personeelsleden, oud-leerlingen, oud-deelnemers of oud-studenten van de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen betreffende oud-leden, oud-personeelsleden, oud-leerlingen, oud-deelnemers of oud-studenten van de verantwoordelijke, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt slechts voor: 
 
 a. het onderhouden van contacten met de betrokkenen;  
@@ -1629,14 +1629,14 @@ d. gegevens met het oog op het berekenen, vastleggen en innen van bijdragen en g
 
 a. degenen, waaronder begrepen derden, die zijn belast met of leiding geven aan de in het tweede lid bedoelde activiteiten of die daarbij noodzakelijk zijn betrokken;  
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, en artikel 9, derde lid, van de wet.     
-5.  De persoonsgegevens worden verwijderd op een daartoe strekkend verzoek van de betrokkene of bij diens overlijden.   
+b. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), en [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).     
+5.  De persoonsgegevens worden verwijderd op een daartoe strekkend verzoek van de betrokkene of bij diens overlijden.  
 
 ### Artikel  42  
 
 ####Communicatiebestanden
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen, anders dan bedoeld in de artikelen 3 tot en met 41, van voor communicatie benodigde gegevens, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
+1.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen, anders dan bedoeld in de artikelen 3 tot en met 41, van voor communicatie benodigde gegevens, voor zover deze verwerkingen voldoen aan de in dit artikel vermelde eisen.   
 2.  De verwerking geschiedt slechts voor; 
 
 a. de communicatie met betrokkenen;  
@@ -1653,22 +1653,22 @@ a. naam, voornamen, voorletters, titulatuur, geslacht, geboortedatum, adres, pos
 b. gegevens met betrekking tot de te verzenden en verzonden informatie;  
 
 c. andere gegevens dan bedoeld onder a en b die noodzakelijk zijn met het oog op het onderhouden van het contact met betrokkenen.     
-4.  Uit de verwerking vloeien geen bijzondere gegevens voort als bedoeld in paragraaf 2 van hoofdstuk 2 van de wet.   
+4.  Uit de verwerking vloeien geen bijzondere gegevens voort als bedoeld in [paragraaf 2 van hoofdstuk 2 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
 5.  De persoonsgegevens worden slechts verstrekt aan: 
 
 a. degenen, waaronder begrepen derden, die belast zijn met of leiding geven aan de communicatie met betrokkene of die daarbij noodzakelijk zijn betrokken;  
 
-b. anderen, in de gevallen bedoeld in artikel 8, onder a, c en d, en artikel 9, derde lid, van de wet.     
+b. anderen, in de gevallen bedoeld in [artikel 8, onder a, c en d](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), en [artikel 9, derde lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).     
 6.  De persoonsgegevens worden verwijderd op verzoek van betrokkene of uiterlijk een jaar nadat de relatie tussen betrokkene en de organisatie van de verantwoordelijke is verbroken.   
 
 ### Artikel  43  
 
 ####Combinaties van verwerkingen
 
-1.  Artikel 27 van de wet is niet van toepassing op verwerkingen die een combinatie vormen van twee of meer verwerkingen bedoeld in de artikelen 3, 11 en 13, mits ten aanzien van elk van de onderdelen van de combinatie wordt voldaan aan de daarvoor in de betrokken artikelen vermelde eisen.   
-2.  Artikel 27 van de wet is niet van toepassing op verwerkingen die een combinatie vormen van twee of meer verwerkingen bedoeld in de artikelen 5, 6, 7, 8 en 9, mits ten aanzien van elk van de onderdelen van de combinatie wordt voldaan aan de daarvoor in de betrokken artikelen vermelde eisen.   
-3.  Artikel 27 van de wet is niet van toepassing op verwerkingen die een combinatie vormen van een verwerking als bedoeld in artikel 40 met een verwerking als bedoeld in de artikelen 14, 16, 17, 18 en 19, mits ten aanzien van elk van de onderdelen van de combinatie wordt voldaan aan de daarvoor in de betrokken artikelen vermelde eisen.   
-4.  Artikel 27 van de wet is niet van toepassing op verwerkingen die een combinatie vormen van twee of meer verwerkingen bedoeld in de artikelen 32, 33, 34 en 35, mits ten aanzien van elk van de onderdelen van de combinatie wordt voldaan aan de daarvoor in de betrokken artikelen vermelde eisen.   
+1.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen die een combinatie vormen van twee of meer verwerkingen bedoeld in de artikelen 3, 11 en 13, mits ten aanzien van elk van de onderdelen van de combinatie wordt voldaan aan de daarvoor in de betrokken artikelen vermelde eisen.   
+2.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen die een combinatie vormen van twee of meer verwerkingen bedoeld in de artikelen 5, 6, 7, 8 en 9, mits ten aanzien van elk van de onderdelen van de combinatie wordt voldaan aan de daarvoor in de betrokken artikelen vermelde eisen.   
+3.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen die een combinatie vormen van een verwerking als bedoeld in artikel 40 met een verwerking als bedoeld in de artikelen 14, 16, 17, 18 en 19, mits ten aanzien van elk van de onderdelen van de combinatie wordt voldaan aan de daarvoor in de betrokken artikelen vermelde eisen.   
+4.   [Artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing op verwerkingen die een combinatie vormen van twee of meer verwerkingen bedoeld in de artikelen 32, 33, 34 en 35, mits ten aanzien van elk van de onderdelen van de combinatie wordt voldaan aan de daarvoor in de betrokken artikelen vermelde eisen.  
 
 ### Hoofdstuk  3  
 
@@ -1684,35 +1684,35 @@ a. het een land betreft dat partij is bij de op 2 mei 1992 te Oporto totstandge
 
 b. de Commissie van de Europese Gemeenschappen overeenkomstig artikel 25, zesde lid, van richtlijn nr. 95/46/EG van het Europees Parlement en de Raad van de Europese Unie van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en het vrije verkeer van die gegevens (PbEG L 281), onderscheidenlijk de Raad van de Europese Unie, heeft vastgesteld dat het derde land waarborgen voor een passend beschermingsniveau biedt;  
 
-c. het een geval betreft als bedoeld in artikel 77, eerste lid, onder a of e, van de wet;  
+c. het een geval betreft als bedoeld in [artikel 77, eerste lid, onder a of e, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
 
 d. de gegevens in overeenstemming met de beschikking van de Commissie van de Europese Gemeenschappen nr. 2000/520/EG van 26 juli 2000 overeenkomstig richtlijn nr. 95/46/EG van het Europees Parlement en de Raad, betreffende de gepastheid van de bescherming geboden door de Veiligehavenbeginselen voor de bescherming van de persoonlijke levenssfeer en de daarmee verband houdende Vaak gestelde vragen, die door het ministerie van Handel van de Verenigde Staten zijn gepubliceerd (PbEG L 215) naar een verantwoordelijke of bewerker gevestigd in de Verenigde Staten worden doorgegeven; of,  
 
-e. de gegevens worden doorgegeven krachtens een vergunning als bedoeld in artikel 77, tweede lid, van de wet en deze vergunning betrekking heeft op een intern bindende gedragscode voor de verwerking van persoonsgegevens binnen een groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek.    
+e. de gegevens worden doorgegeven krachtens een vergunning als bedoeld in [artikel 77, tweede lid, van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en deze vergunning betrekking heeft op een intern bindende gedragscode voor de verwerking van persoonsgegevens binnen een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
 
-### Artikel  45  
+###Artikel 45 
 
 ####Voorafgaand onderzoek
 
-Hoofdstuk 2 van dit besluit is niet van toepassing op verwerkingen die zijn onderworpen aan voorafgaand onderzoek.  
+Hoofdstuk 2 van dit besluit is niet van toepassing op verwerkingen die zijn onderworpen aan voorafgaand onderzoek.
 
-### Artikel  46  
+###Artikel 46 
 
 ####Vrijwillige aanmelding
 
-Hoofdstuk 2 van dit besluit is niet van toepassing op verwerkingen waarvan de verantwoordelijke te kennen heeft gegeven ten aanzien daarvan te willen voldoen aan de verplichting ingevolge artikel 27 van de wet.  
+Hoofdstuk 2 van dit besluit is niet van toepassing op verwerkingen waarvan de verantwoordelijke te kennen heeft gegeven ten aanzien daarvan te willen voldoen aan de verplichting ingevolge [artikel 27 van de wet](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).
 
-### Artikel  47  
+###Artikel 47 
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking op het tijdstip waarop de Wet bescherming persoonsgegevens in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de [Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) in werking treedt.
 
-### Artikel  48  
+###Artikel 48 
 
 ####Citeertitel
 
-Dit besluit kan worden aangehaald als: Vrijstellingsbesluit Wbp.  
+Dit besluit kan worden aangehaald als: Vrijstellingsbesluit Wbp. 
 
 Lasten en bevelen dat dit besluit met de daarbij bijbehorende nota van toelichting in het Staatsblad zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 
@@ -1726,4 +1726,4 @@ A. H. Korthals
 de *twaalfde* juni 2001 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

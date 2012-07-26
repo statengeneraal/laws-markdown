@@ -20,14 +20,14 @@ Hebben goedgevonden en verstaan:
 
 1.  In dit besluit wordt verstaan onder: 
 
-a. *interconnector-beheerder elektriciteit of gas:* een interconnector-beheerder als bedoeld in [artikel 1, eerste lid, onder at, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [artikel 2b van de Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md);  
+a.  *interconnector-beheerder elektriciteit of gas:* een interconnector-beheerder als bedoeld in [artikel 1, eerste lid, onder at, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md) en [artikel 2b van de Gaswet](../../../../../../wet/gaswet/BWBR0011440/README.md);  
 
-b. *zeggenschap:* rechten, overeenkomsten of andere middelen die, afzonderlijk of tezamen, met inachtneming van alle feitelijke of juridische omstandigheden, het mogelijk maken een beslissende invloed uit te oefenen op de activiteiten van een onderneming, met name: 
+b.  *zeggenschap:* rechten, overeenkomsten of andere middelen die, afzonderlijk of tezamen, met inachtneming van alle feitelijke of juridische omstandigheden, het mogelijk maken een beslissende invloed uit te oefenen op de activiteiten van een onderneming, met name: 
 
 1°. eigendoms- of gebruiksrechten op alle vermogensbestanddelen van een onderneming of delen daarvan;  
 
 2° rechten of overeenkomsten die een beslissende invloed verschaffen op de samenstelling, het stemgedrag of de besluiten van de organen van een onderneming.       
-2.  In dit besluit wordt onder enig recht in ieder geval verstaan het recht om stemrechten uit te oefenen, de bevoegdheid om leden aan te wijzen van de Raad van Bestuur, de raad van toezicht of een rechtspersoon die het bedrijf juridisch vertegenwoordigt of het hebben van een meerderheidsaandeel.   
+2.  In dit besluit wordt onder enig recht in ieder geval verstaan het recht om stemrechten uit te oefenen, de bevoegdheid om leden aan te wijzen van de Raad van Bestuur, de raad van toezicht of een rechtspersoon die het bedrijf juridisch vertegenwoordigt of het hebben van een meerderheidsaandeel.  
 
 ### §  2  
 
@@ -36,11 +36,11 @@ b. *zeggenschap:* rechten, overeenkomsten of andere middelen die, afzonderlijk o
 ### Artikel  2  
 
 1.  Natuurlijke personen, rechtspersonen en vennootschappen oefenen geen directe of indirecte zeggenschap uit over een rechtspersoon of vennootschap die elektriciteit of gas produceert, levert of daarin handelt en, gelijktijdig, directe of indirecte zeggenschap of enig recht uit over de netbeheerder van het landelijk hoogspanningsnet, de netbeheerder van het landelijk gastransportnet, een interconnector-beheerder elektriciteit of gas, of diens netten.   
-2.  Natuurlijke personen, rechtspersonen en vennootschappen oefenen geen directe of indirecte zeggenschap uit over de netbeheerder van het landelijk hoogspanningsnet, de netbeheerder van het landelijk gastransportnet, een interconnector-beheerder elektriciteit of gas, of diens netten en, gelijktijdig, directe of indirecte zeggenschap of enig recht uit over een rechtspersoon of vennootschap die elektriciteit of gas produceert, levert of daarin handelt.   
+2.  Natuurlijke personen, rechtspersonen en vennootschappen oefenen geen directe of indirecte zeggenschap uit over de netbeheerder van het landelijk hoogspanningsnet, de netbeheerder van het landelijk gastransportnet, een interconnector-beheerder elektriciteit of gas, of diens netten en, gelijktijdig, directe of indirecte zeggenschap of enig recht uit over een rechtspersoon of vennootschap die elektriciteit of gas produceert, levert of daarin handelt.  
 
 ### Artikel  3  
 
-Indien de netbeheerder van het landelijk hoogspanningsnet of de netbeheerder van het landelijk gastransportnet, of een interconnector-beheerder, deelneemt aan een gemeenschappelijke onderneming, waaraan ook een of meer buitenlandse instellingen deelnemen die op grond van nationale wettelijke regels zijn belast met het beheer van een transmissiesysteem als bedoeld in artikel 2, onderdeel 4, van de richtlijnen, dan is het niet noodzakelijk dat die gemeenschappelijke onderneming beschikt over de eigendom van het landelijk hoogspanningsnet of het landelijk gastransportnet.  
+Indien de netbeheerder van het landelijk hoogspanningsnet of de netbeheerder van het landelijk gastransportnet, of een interconnector-beheerder, deelneemt aan een gemeenschappelijke onderneming, waaraan ook een of meer buitenlandse instellingen deelnemen die op grond van nationale wettelijke regels zijn belast met het beheer van een transmissiesysteem als bedoeld in artikel 2, onderdeel 4, van de richtlijnen, dan is het niet noodzakelijk dat die gemeenschappelijke onderneming beschikt over de eigendom van het landelijk hoogspanningsnet of het landelijk gastransportnet. 
 
 ### §  3  
 
@@ -57,7 +57,7 @@ b. er moeten passende maatregelen worden genomen zodat personen die verantwoorde
 c. het gasopslagbedrijf heeft effectieve beslissingsbevoegdheid, onafhankelijk van het geïntegreerde gasbedrijf, wat de activa betreft die noodzakelijk zijn voor de exploitatie, het onderhoud en de ontwikkeling van de opslaginstallaties;  
 
 d. het gasopslagbedrijf heeft een nalevingprogramma met maatregelen die moeten worden genomen om discriminerend en concurrentieverstorend gedrag uit te sluiten. Het nalevingsprogramma bevat de specifieke verplichtingen van de werknemers ter verwezenlijking van die doelstellingen.     
-2.  Een gasbedrijf overlegt een verslag over de uitvoering van het nalevingsprogramma, bedoeld in het eerste lid, onder d, jaarlijks aan de raad van bestuur van de mededingingsautoriteit en publiceert dit verslag jaarlijks op geschikte wijze.   
+2.  Een gasbedrijf overlegt een verslag over de uitvoering van het nalevingsprogramma, bedoeld in het eerste lid, onder d, jaarlijks aan de raad van bestuur van de mededingingsautoriteit en publiceert dit verslag jaarlijks op geschikte wijze.  
 
 ### §  4  
 
@@ -65,11 +65,11 @@ d. het gasopslagbedrijf heeft een nalevingprogramma met maatregelen die moeten w
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als: Besluit uitvoering onafhankelijkheidseisen energierichtlijnen.  
+Dit besluit wordt aangehaald als: Besluit uitvoering onafhankelijkheidseisen energierichtlijnen. 
 
 ### Artikel  6  
 
-De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -77,10 +77,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 12 juli 2012  
 Beatrix  
 
-De Minister van Economische Zaken, Landbouw en Innovatie, 
+De Minister van Economische Zaken, Landbouw en Innovatie,  
 M. J. M. Verhagen   
 
 de *negentiende* juli 2012 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

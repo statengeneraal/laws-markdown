@@ -15,19 +15,19 @@ Besluit:
 ### Artikel  1  
 
 1.  Het College van procureurs-generaal is bevoegd tot het toekennen van de bevoegdheden omschreven in [artikel 8, eerste en derde lid, van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md) aan de buitengewoon opsporingsambtenaar aan wie het College een akte van opsporingsbevoegdheid heeft verleend.   
-2.  Het College van procureurs-generaal kan bepalen dat het toekennen van de in het eerste lid genoemde bevoegdheden namens het College geschiedt.   
+2.  Het College van procureurs-generaal kan bepalen dat het toekennen van de in het eerste lid genoemde bevoegdheden namens het College geschiedt.  
 
 ### Artikel  2  
 
-Het College van procureurs-generaal, bedoeld in artikel 1, eerste lid, is namens de Minister bevoegd in en buiten rechte op te treden in zaken, betreffende de in artikel 1, eerste lid genoemde beslissingen.  
+Het College van procureurs-generaal, bedoeld in artikel 1, eerste lid, is namens de Minister bevoegd in en buiten rechte op te treden in zaken, betreffende de in artikel 1, eerste lid genoemde beslissingen. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van 1 oktober 1994.  
+Dit besluit treedt in werking met ingang van 1 oktober 1994. 
 
 ### Artikel  4  
 
-Dit besluit wordt aangehaald als: Mandaatsbesluit politiebevoegdheden. Dit besluit wordt gepubliceerd in de Staatscourant en het Algemeen Politieblad.  
+Dit besluit wordt aangehaald als: Mandaatsbesluit politiebevoegdheden. Dit besluit wordt gepubliceerd in de Staatscourant en het Algemeen Politieblad. 
 
 's-Gravenhage 
 19 september 1994    
@@ -35,8 +35,8 @@ Dit besluit wordt aangehaald als: Mandaatsbesluit politiebevoegdheden. Dit beslu
 De 
 Minister van Justitie, 
 
-namens deze, 
+namens deze,
 
 Het 
-hoofd van de Directie Politie
-H.P.Wooldrik    
+hoofd van de Directie Politie 
+H.P. Wooldrik    

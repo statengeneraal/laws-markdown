@@ -15,39 +15,39 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Algemeen Rijksambtenarenreglement.   
+Wijzigt het Algemeen Rijksambtenarenreglement. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit algemene rechtspositie politie.   
+Wijzigt het Besluit algemene rechtspositie politie. 
 
 ### Artikel  III  
 
-Wijzigt het Besluit rechtspositie vrijwillige politie.   
+Wijzigt het Besluit rechtspositie vrijwillige politie. 
 
 ### Artikel  IV  
 
-Wijzigt het Burgerlijk Ambtenarenreglement Defensie.   
+Wijzigt het Burgerlijk Ambtenarenreglement Defensie. 
 
 ### Artikel  V  
 
-Wijzigt het Algemeen Militair Ambtenarenreglement.   
+Wijzigt het Algemeen Militair Ambtenarenreglement. 
 
 ### Artikel  VI  
 
-Wijzigt het Ambtenarenreglement Staten-Generaal.   
+Wijzigt het Ambtenarenreglement Staten-Generaal. 
 
 ### Artikel  VII  
 
-Wijzigt het Reglement Dienst Buitenlandse Zaken.   
+Wijzigt het Reglement Dienst Buitenlandse Zaken. 
 
 ### Artikel  VIII  
 
-Voor regelingen die zijn gebaseerd op [artikel 61, derde lid, tweede volzin, van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) respectievelijk [artikel 66, vierde lid, van het Besluit algemene rechtspositie politie](../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), [artikel 19, vierde lid, van het Besluit rechtspositie vrijwillige politie](../../../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md), [artikel 79, vierde lid, van het Burgerlijk Ambtenarenreglement Defensie](../../../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), [artikel 151, vierde lid, van het Algemeen Militair Ambtenarenreglement](../../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) en [artikel 69, derde lid, tweede volzin, van het Reglement Dienst Buitenlandse Zaken](../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) geldt als grondslag [artikel 61, vierde lid, van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) respectievelijk [artikel 55a, vijfde lid, van het Besluit algemene rechtspositie politie](../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), [artikel 14a, vijfde lid van het Besluit rechtspositie vrijwillige politie](../../../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md), [artikel 70, vierde lid, van het Burgerlijk Ambtenarenreglement Defensie](../../../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), [artikel 126b, vijfde lid, van het Algemeen Militair Ambtenarenreglement](../../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) en [artikel 69, vierde lid, van het Reglement Dienst Buitenlandse Zaken](../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md).  
+Voor regelingen die zijn gebaseerd op [artikel 61, derde lid, tweede volzin, van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) respectievelijk [artikel 66, vierde lid, van het Besluit algemene rechtspositie politie](../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), [artikel 19, vierde lid, van het Besluit rechtspositie vrijwillige politie](../../../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md), [artikel 79, vierde lid, van het Burgerlijk Ambtenarenreglement Defensie](../../../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), [artikel 151, vierde lid, van het Algemeen Militair Ambtenarenreglement](../../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) en [artikel 69, derde lid, tweede volzin, van het Reglement Dienst Buitenlandse Zaken](../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) geldt als grondslag [artikel 61, vierde lid, van het Algemeen Rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) respectievelijk [artikel 55a, vijfde lid, van het Besluit algemene rechtspositie politie](../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), [artikel 14a, vijfde lid van het Besluit rechtspositie vrijwillige politie](../../../../../../../../AMvB/besluit/rechtspositie/vrijwillige/politie/BWBR0007321/README.md), [artikel 70, vierde lid, van het Burgerlijk Ambtenarenreglement Defensie](../../../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md), [artikel 126b, vijfde lid, van het Algemeen Militair Ambtenarenreglement](../../../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) en [artikel 69, vierde lid, van het Reglement Dienst Buitenlandse Zaken](../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md). 
 
 ### Artikel  IX  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -62,7 +62,7 @@ De Minister van Buitenlandse Zaken ,
 B. R. Bot   
 
 De Staatssecretaris van Defensie , 
-C. van der Knaap   
+C. van der  Knaap   
 
 de *negende* maart 2006 
 

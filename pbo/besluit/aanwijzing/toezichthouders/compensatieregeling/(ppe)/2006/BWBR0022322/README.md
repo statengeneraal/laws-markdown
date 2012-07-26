@@ -9,12 +9,12 @@ Besluit:
 ### Artikel  1  
 
 1.  Het toezicht op de naleving van de [Verordening tegemoetkoming ter zake van maatregelen ter voorkoming van marktverstoring wegens Aviaire Influenza (PPE) 2006](../../../../../../../../pbo/verordening/tegemoetkoming/ter/zake/van/maatregelen/ter/voorkoming/van/etc/BWBR0020985/README.md) wordt uitgeoefend door controleurs in dienst van de Stichting Controlebureau Pluimvee, Eieren en Eiproducten, statutair gevestigd te Barneveld.   
-2.  De in het eerste lid bedoelde personen dienen, naast een ingevolge [artikel 5:12, eerst lid, van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) voorgeschreven geldig legitimatiebewijs, te beschikken over een door de voorzitter van het Productschap Pluimvee en Eieren op naam gestelde lastgeving.   
+2.  De in het eerste lid bedoelde personen dienen, naast een ingevolge [artikel 5:12, eerst lid, van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) voorgeschreven geldig legitimatiebewijs, te beschikken over een door de voorzitter van het Productschap Pluimvee en Eieren op naam gestelde lastgeving.  
 
 ### Artikel  2  
 
 1.  Dit besluit wordt aangehaald als: Besluit aanwijzing toezichthouders compensatieregeling (PPE) 2006.   
-2.  Dit besluit treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningblad Bedrijfsorganisatie waarin het wordt geplaatst.   
+2.  Dit besluit treedt in werking met ingang van de tweede dag na de dag van dagtekening van het Verordeningblad Bedrijfsorganisatie waarin het wordt geplaatst.  
 
 Zoetermeer 
 14 december 2006   
