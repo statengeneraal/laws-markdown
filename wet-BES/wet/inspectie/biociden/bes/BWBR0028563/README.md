@@ -10,7 +10,7 @@
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-*Onze Minister:* Onze Minister, bedoeld in [artikel 1 van de Wet gewasbeschermingsmiddelen en biociden](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md);  
+*Onze Minister:* Onze Minister, bedoeld in artikel 1 van de Wet gewasbeschermingsmiddelen en biociden;  
 
 *Inspectie:* de Inspectie voor de Volksgezondheid, bedoeld in artikel 2, eerste lid;  
 
@@ -45,9 +45,9 @@ d. het verrichten van andere bij of krachtens wet opgedragen taken.
 1.  Aan het hoofd van de Inspectie staat de Inspecteurgeneraal voor de volksgezondheid.   
 2.  Tot Inspecteurgeneraal voor de volksgezondheid kan slechts worden aangesteld degene die in het bezit is van: 
 
-a. het Nederlands artsdiploma of van een daarmee, op grond van de op grond van het [Besluit geneeskunde BES](../../../../../../AMvB-BES/besluit/geneeskunde/bes/BWBR0028449/README.md) gelijkgesteld diploma; dan wel  
+a. het Nederlands artsdiploma of van een daarmee, op grond van de op grond van het Besluit geneeskunde BES gelijkgesteld diploma; dan wel  
 
-b. het Nederlands apothekersdiploma of van een daarmee, op grond van het [Besluit](../../../../../../AMvB-BES/besluit/geneeskunde/bes/BWBR0028449/README.md) bevoegdheid apothekers en apothekersassistenten, gelijkgesteld diploma.     
+b. het Nederlands apothekersdiploma of van een daarmee, op grond van het Besluit bevoegdheid apothekers en apothekersassistenten, gelijkgesteld diploma.     
 3.  Bij algemene maatregel van bestuur wordt een plaatsvervangend Inspecteurgeneraal benoemd, deze vervangt de Inspecteurgeneraal bij diens afwezigheid wegens ziekte, verlof of ontstentenis. Het tweede lid is van overeenkomstige toepassing.   
 4.  De Inspecteurgeneraal neemt bij de vervulling van zijn taak de in artikel 2, vierde lid, bedoelde aanwijzingen van Onze Minister in acht.   
 
@@ -112,7 +112,7 @@ d. alle plaatsen met uitzondering van woningen zonder de uitdrukkelijke toestemm
 
 e. woningen of tot woning bestemde gedeelten van vaartuigen zonder de uitdrukkelijke toestemming van de bewoner binnen te treden.     
 3.  Zo nodig, wordt de toegang tot een plaats als bedoeld in het tweede lid, onderdeel d, verschaft met behulp van de sterke arm.   
-4.  Op het binnentreden van woningen of van tot woning bestemde gedeelten van vaartuigen als bedoeld in het tweede lid, onderdeel e, is [Titel 4 van het Derde Boek van het Wetboek van Strafvordering BES](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) van overeenkomstige toepassing, met uitzondering van de [artikelen 155, vierde lid](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [156, tweede lid](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [157, tweede en derde lid](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [158, eerste lid, laatste zinsnede](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), en [160, eerste lid](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), en met dien verstande dat de machtiging wordt verleend door de procureurgeneraal.   
+4.  Op het binnentreden van woningen of van tot woning bestemde gedeelten van vaartuigen als bedoeld in het tweede lid, onderdeel e, is Titel 4 van het Derde Boek van het Wetboek van Strafvordering BES van overeenkomstige toepassing, met uitzondering van de artikelen 155, vierde lid, 156, tweede lid, 157, tweede en derde lid, 158, eerste lid, laatste zinsnede, en 160, eerste lid, en met dien verstande dat de machtiging wordt verleend door de procureurgeneraal.   
 5.  Een ieder is verplicht aan de toezichthouder alle medewerking te verlenen die op grond van het tweede lid wordt gevorderd.   
 6.  Zij die uit hoofde van ambt, beroep of wettelijk voorschrift verplicht zijn tot geheimhouding, kunnen het verlenen van medewerking weigeren, voor zover dit uit hun geheimhoudingsplicht voortvloeit.   
 
@@ -158,13 +158,13 @@ De Inspectie is bevoegd tot het doen wegnemen, ontruimen, beletten, in de vorige
 ### Artikel  18  
 
 1.  De Inspectie kan van de overtreder bij dwangbevel de verschuldigde kosten, verhoogd met de op de invordering vallende kosten, invorderen.   
-2.  Het dwangbevel wordt op kosten van de overtreder bij deurwaardersexploot betekend en levert een executoriale titel op in de zin van het [Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md).   
+2.  Het dwangbevel wordt op kosten van de overtreder bij deurwaardersexploot betekend en levert een executoriale titel op in de zin van het Wetboek van Burgerlijke Rechtsvordering BES.   
 3.  Gedurende zes weken na de dag van betekening staat verzet tegen het dwangbevel open door dagvaarding van de openbare lichamen Bonaire, Sint Eustatius en Saba zijn.   
 4.  Het verzet schorst de tenuitvoerlegging. Op verzoek van de openbare lichamen Bonaire, Sint Eustatius en Saba zijn kan het gerecht in eerste aanleg de schorsing van de tenuitvoerlegging opheffen.   
 
 ### Artikel  19  
 
-De kosten verbonden aan de toepassing van bestuursdwang zijn bevoorrecht op de zaak ten aanzien waarvan zij zijn besteed en worden na de kosten, bedoeld in [artikel 284 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md), uit de opbrengst van de zaak betaald.  
+De kosten verbonden aan de toepassing van bestuursdwang zijn bevoorrecht op de zaak ten aanzien waarvan zij zijn besteed en worden na de kosten, bedoeld in artikel 284 van het Burgerlijk Wetboek BES, uit de opbrengst van de zaak betaald.  
 
 ### Artikel  20  
 
@@ -226,7 +226,7 @@ Tot de bevoegdheid tot toepassing van bestuursdwang behoort het verzegelen van g
 
 1.  Ingeval van overtreding van de bij of krachtens de onderscheiden wetten de volksgezondheid betreffende gegeven voorschriften alsmede van de artikelen 11, vijfde lid, en 13, tweede lid, van deze wet kan de Inspectie aan de overtreder een boete opleggen van ten hoogste een geldboete van de zesde categorie.   
 2.  De hoogte van de boete wordt in ieder geval afgestemd op de ernst en de duur van de overtreding, alsmede op de mate waarin de overtreder daarvan een verwijt kan worden gemaakt.   
-3.  De bevoegdheid tot het opleggen van een boete vervalt indien ter zake van de overtreding op grond waarvan de boete kan worden opgelegd, tegen de overtreder een strafvervolging is ingesteld en het onderzoek ter terechtzitting een aanvang heeft genomen, dan wel het recht tot strafvervolging is vervallen ingevolge [artikel 76 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md).   
+3.  De bevoegdheid tot het opleggen van een boete vervalt indien ter zake van de overtreding op grond waarvan de boete kan worden opgelegd, tegen de overtreder een strafvervolging is ingesteld en het onderzoek ter terechtzitting een aanvang heeft genomen, dan wel het recht tot strafvervolging is vervallen ingevolge artikel 76 van het Wetboek van Strafrecht BES.   
 4.  Het recht tot strafvervolging vervalt indien de Inspecteurgeneraal aan de betrokkene ter zake van hetzelfde feit reeds een boete heeft opgelegd.   
 
 ### Artikel  29  
@@ -284,7 +284,7 @@ De werking van een beschikking als bedoeld in artikel 33, eerste lid, wordt opge
 ### Artikel  37  
 
 1.  Bij gebreke van betaling binnen de termijn van twee weken, bedoeld in artikel 36, derde lid, kan de Inspectie van de overtreder de verschuldigde boete, verhoogd met de krachtens artikel 36, tweede lid, verschuldigde rente en de op de aanmaning en invordering betrekking hebbende kosten, invorderen bij dwangbevel.   
-2.  Het dwangbevel wordt op kosten van de overtreder bij deurwaardersexploot betekend en levert een executoriale titel op in de zin van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md).   
+2.  Het dwangbevel wordt op kosten van de overtreder bij deurwaardersexploot betekend en levert een executoriale titel op in de zin van het Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering BES.   
 3.  Gedurende zes weken na de dag van betekening staat verzet tegen het dwangbevel open door dagvaarding van de staat.   
 4.  Het verzet schorst de tenuitvoerlegging. Op verzoek van de staat kan de rechter de schorsing van de tenuitvoerlegging opheffen.   
 5.  De in het eerste lid bedoelde bedragen komen toe aan de openbare lichamen Bonaire, Sint Eustatius en Saba zijn.   
@@ -299,7 +299,7 @@ De bevoegdheid tot het opleggen van een boete vervalt vijf jaar nadat de overtre
 
 ### Artikel  39  
 
-1.  Met de opsporing van de bij wettelijke regelingen op het gebied van de volksgezondheid strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) bedoelde personen en naast de krachtens die wettelijke regeling aangewezen personen, belast de daartoe bij ministeriële regeling aangewezen personen werkzaam bij de Inspectie. Een zodanige aanwijzing wordt bekend gemaakt in de Staatscourant.   
+1.  Met de opsporing van de bij wettelijke regelingen op het gebied van de volksgezondheid strafbaar gestelde feiten zijn, naast de in artikel 184 van het Wetboek van Strafvordering BES bedoelde personen en naast de krachtens die wettelijke regeling aangewezen personen, belast de daartoe bij ministeriële regeling aangewezen personen werkzaam bij de Inspectie. Een zodanige aanwijzing wordt bekend gemaakt in de Staatscourant.   
 2.  Bij algemene maatregel van bestuur, kunnen regels worden gesteld omtrent de vereisten waaraan de ingevolge het eerste lid aangewezen personen dienen te voldoen.   
 
 ### §  6  
@@ -343,4 +343,4 @@ Eenieder die betrokken is bij de uitvoering van deze wet en daarbij de beschikki
 
 ### Artikel  45  
 
-Deze wet wordt aangehaald als: Wet Inspectie voor de Volksgezondheid BES.  
+Deze wet wordt aangehaald als: Wet Inspectie Biociden BES.  

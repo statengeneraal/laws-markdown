@@ -28,7 +28,7 @@ b. maatschappelijke ondersteuning wordt geboden door derden als bedoeld in [arti
 
 c. verslavingszorg wordt verleend;    
 
-2°. een gemeentelijke gezondheidsdienst als bedoeld in [artikel 5, eerste lid, van de Wet collectieve preventie](../../../../../../wet/wet/collectieve/preventie/volksgezondheid/BWBR0004760/README.md);  
+2°. een gemeentelijke gezondheidsdienst als bedoeld in [artikel 14 van de Wet publieke gezondheid](../../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md);  
 
 3°. een kindercentrum als bedoeld in [artikel 1.1, eerste lid](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), een gastouderbureau als bedoeld in artikel 1.1, eerste lid, en een peuterspeelzaal als bedoeld in [artikel 2.1, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md).    
 

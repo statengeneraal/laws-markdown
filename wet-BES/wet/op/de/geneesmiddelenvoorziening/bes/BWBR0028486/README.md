@@ -14,7 +14,7 @@ a. *Onze Minister:* Onze Minister van Volksgezondheid, Welzijn en Sport;
 
 b. *Inspecteur:* de Inspecteur van het Staatstoezicht, bedoeld in onderdeel c;  
 
-c. *Inspectie:* het Staatstoezicht op de Volksgezondheid, bedoeld in [hoofdstuk IV, paragraaf 2, van de Gezondheidswet](../../../../../../../wet/gezondheidswet/BWBR0002202/README.md);  
+c. *Inspectie:* het Staatstoezicht op de Volksgezondheid, bedoeld in hoofdstuk IV, paragraaf 2, van de Gezondheidswet;  
 
 d. *zelfstandigheden:* stoffen, dieren, planten delen of producten van dieren of planten, producten bereid uit dieren of planten of uit gedeelten van dieren of planten, alsmede de mengsels hiervan;  
 
@@ -28,7 +28,7 @@ e.  *geneesmiddelen:*
 
 4°. Zelfstandigheden, als zodanig door Onze Minister aangewezen;    
 
-f. *verpakte geneesmiddelen:* de geneesmiddelen bedoeld onder 3° en die bedoeld onder d, 4°. voor zover deze zich bevinden in een verpakking of voorwerp, en kennelijk bestemd zijn om in die verpakking of in dat voorwerp aan de verbruiker te worden afgeleverd;  
+f. *verpakte geneesmiddelen:* de geneesmiddelen, bedoeld in onderdeel e, onder 3° en 4° voor zover deze zich bevinden in een verpakking of voorwerp, en kennelijk bestemd zijn om in die verpakking of in dat voorwerp aan de verbruiker te worden afgeleverd;  
 
 g. uitoefening der artsenijbereidkunde: 
 
@@ -48,7 +48,7 @@ j. *ziekenhuis:* een inrichting bestemd voor of gebezigd tot verpleging van pers
 
 ### Artikel  2  
 
-1.  Onze Minister wijst zelfstandigen aan, welke zowel als geneesmiddel als voor ander dan geneeskundig doel plegen te worden gebruikt en die onder de voorwaarden, die Onze Minister stelt, niet worden geacht te zijn geneesmiddel.   
+1.  Onze Minister wijst zelfstandigheden aan, welke zowel als geneesmiddel als voor ander dan geneeskundig doel plegen te worden gebruikt en die onder de voorwaarden, die Onze Minister stelt, niet worden geacht te zijn geneesmiddel.   
 2.  Onze Minister wijst geneesmiddelen aan, welke anderen dan de in het eerste lid van artikel 3 bedoelde personen ter aflevering in voorraad mogen hebben, mogen afleveren en mogen terhandstellen.   
 3.  Indien andere dan de in het eerste lid van artikel 3 bedoelde personen geneesmiddelen, aangewezen krachtens de vorige leden, ter aflevering in voorraad hebben of afleveren, worden zij niet geacht de artsenijbereidkunde uit te oefenen.   
 4.  Het afleveren van geneesmiddelen op recept wordt steeds geacht te zijn uitoefening van de artsenijbereidkunde.   
@@ -95,15 +95,15 @@ c. indien de krachtens het eerste lid verschuldigde vergoeding niet is betaald.
 
 ### Artikel  5  
 
-1.  Het is verboden verpakte geneesmiddelen welke niet staan in het register, bedoeld in [artikel 53 van de Geneesmiddelenwet](../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md), te bereiden, in voorraad te hebben, te verkopen, af te leveren, ter hand te stellen, in te voeren, of te verhandelen.   
+1.  Het is verboden verpakte geneesmiddelen welke niet staan in het register, bedoeld in artikel 53 van de Geneesmiddelenwet, te bereiden, in voorraad te hebben, te verkopen, af te leveren, ter hand te stellen, in te voeren, of te verhandelen.   
 2.  Het in het eerste lid vervatte verbod geldt niet voor: 
 
 a. door onze Minister aan te wijzen verpakte geneesmiddelen;  
 
-b. het bereiden, in voorraad hebben, afleveren of terhandstellen van zich nog in het stadium van proefneming bevindende verpakte geneesmiddelen welke niet staan in het register, bedoeld in [artikel 53 van de Geneesmiddelenwet](../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md);  
+b. het bereiden, in voorraad hebben, afleveren of terhandstellen van zich nog in het stadium van proefneming bevindende verpakte geneesmiddelen welke niet staan in het register, bedoeld in artikel 53 van de Geneesmiddelenwet;  
 
-c. de invoer van verpakte geneesmiddelen welke niet staan in het register, bedoeld in [artikel 53 van de Geneesmiddelenwet](../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md), en het in voorraad hebben, de aflevering en de ter hand stelling van deze geneesmiddelen in de bij algemene maatregel van bestuur aangegeven gevallen, een en ander indien is voldaan aan de bij algemene maatregel van bestuur gestelde voorschriften.     
-3.  Indien het belang van de volksgezondheid zulks vordert, is onze Minister bevoegd ten aanzien van een geneesmiddel, welk staat in het register, bedoeld in [artikel 53 van de Geneesmiddelenwet](../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md), te bepalen, dat gedurende een bij zijn beschikking aan te wijzen tijdvak van ten hoogste twaalf maanden niet mag worden afgeleverd of terhandgesteld dan met inachtneming van bij die beschikking gestelde voorwaarden.   
+c. de invoer van verpakte geneesmiddelen welke niet staan in het register, bedoeld in artikel 53 van de Geneesmiddelenwet, en het in voorraad hebben, de aflevering en de ter hand stelling van deze geneesmiddelen in de bij algemene maatregel van bestuur aangegeven gevallen, een en ander indien is voldaan aan de bij algemene maatregel van bestuur gestelde voorschriften.     
+3.  Indien het belang van de volksgezondheid zulks vordert, is onze Minister bevoegd ten aanzien van een geneesmiddel, welk staat in het register, bedoeld in artikel 53 van de Geneesmiddelenwet, te bepalen, dat gedurende een bij zijn beschikking aan te wijzen tijdvak van ten hoogste twaalf maanden niet mag worden afgeleverd of terhandgesteld dan met inachtneming van bij die beschikking gestelde voorwaarden.   
 
 ### Artikel  6  
 
@@ -186,7 +186,7 @@ Het is de apotheker verboden, met een geneeskundige, tandheelkundige of vroedvro
 ### Artikel  16  
 
 1.  De apotheker stelt geneesmiddelen terhand op recept of op enig ander verzoek met inachtneming van het bepaalde bij het tweede lid van artikel 4.   
-2.  De geneesmiddelen welke als UR-geneesmiddelen staan vermeld in de lijst, bedoeld in [artikel 60 van de Geneesmiddelenwet](../../../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md), mogen niet anders dan op recept worden afgeleverd.   
+2.  De geneesmiddelen welke als UR-geneesmiddelen staan vermeld in de lijst, bedoeld in artikel 60 van de Geneesmiddelenwet, mogen niet anders dan op recept worden afgeleverd.   
 3.  Een apotheker die in een apotheek werkt, is bevoegd in spoedgevallen geneesmiddelen, bedoeld in het tweede lid van dit artikel, ter hand te stellen zonder dat een recept wordt overgelegd, indien hij zich voldoende zekerheid heeft verschaft dat gevaar voor misbruik niet kan ontstaan.   
 
 ### Artikel  17  
@@ -252,9 +252,9 @@ e. de Inspecteur.
 
 ### Artikel  24  
 
-1.  Indien een apotheker door ziekte of tijdelijke afwezigheid verhinderd is de artsenijbereidkunde in zijn apotheek uit te oefenen, dan wel de inschrijving volgens artikel 9 is vervallen of ingetrokken, kan de Inspecteur aan een andere apotheker op dienst verzoek toestaan de artsenijbereidkunde in die apotheek als waarnemende apotheker uit te oefenen. De Inspecteur kan aan deze toestemming voorwaarden verbinden.   
+1.  Indien een apotheker door ziekte of tijdelijke afwezigheid verhinderd is de artsenijbereidkunde in zijn apotheek uit te oefenen, dan wel de inschrijving volgens artikel 9 is vervallen of ingetrokken, kan de Inspecteur aan een andere apotheker op diens verzoek toestaan de artsenijbereidkunde in die apotheek als waarnemende apotheker uit te oefenen. De Inspecteur kan aan deze toestemming voorwaarden verbinden.   
 2.  Gedurende de waarneming heeft de waarnemende apotheker alle bevoegdheden en verplichtingen, welke de apotheker ingevolge deze wet of de ter uitvoering daarvan te geven voorschriften heeft.   
-3.  De in het eerste lid bedoelde toestemming wordt door de Inspecteur verleend, indien naar zijn oordeel voldoende waarborgen aanwezig zijn voor het nakomen van de verplichtingen in het tweede lid bedoeld. De toestemming wordt in eerst instantie voor drie maanden verleend en kan op aanvrage telkens met drie maanden worden verlengd, met een maximum van één jaar voor de totale waarnemingsperiode voor die apotheek.   
+3.  De in het eerste lid bedoelde toestemming wordt door de Inspecteur verleend, indien naar zijn oordeel voldoende waarborgen aanwezig zijn voor het nakomen van de verplichtingen in het tweede lid bedoeld. De toestemming wordt in eerste instantie voor drie maanden verleend en kan op aanvrage telkens met drie maanden worden verlengd, met een maximum van één jaar voor de totale waarnemingsperiode voor die apotheek.   
 4.  De Inspecteur is bevoegd een verleende toestemming in te trekken, indien aan de in het tweede lid gestelde verplichtingen of aan de voorwaarden, waaronder de toestemming is verleend, niet wordt voldaan.   
 5.  Voor een toestemming tot waarneming als bedoeld in dit artikel, wordt een vergoeding geheven overeenkomstig regelen bij algemene maatregel van bestuur, vast te stellen. De toestemming tot waarneming wordt niet verleend dan nadat de vergoeding is betaald.   
 
@@ -429,7 +429,7 @@ De geneeskundige, die zich als zodanig voor de dienst op een van de openbare lic
 
 ### Artikel  45  
 
-1.  Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast het Staatstoezicht op de Volksgezondheid, bedoeld in [hoofdstuk IV, paragraaf 2, van de Gezondheidswet](../../../../../../../wet/gezondheidswet/BWBR0002202/README.md), alsmede de bij ministeriële regeling aangewezen personen. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant.   
+1.  Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast het Staatstoezicht op de Volksgezondheid, bedoeld in hoofdstuk IV, paragraaf 2, van de Gezondheidswet, alsmede de bij ministeriële regeling aangewezen personen. Een zodanige aanwijzing wordt bekendgemaakt in de Staatscourant.   
 2.  De krachtens het eerste lid bevoegde personen zijn, uitsluitend voor zover dat voor de vervulling van hun taak redelijkerwijze noodzakelijk is, bevoegd: 
 
 a. alle inlichtingen te vragen;  
@@ -504,7 +504,7 @@ e. niet voldoet aan de voorwaarden, verbonden aan een vergunning krachtens deze 
 
 ### Artikel  51  
 
-Het is verboden geneesmiddelen als bedoeld in [artikel XIX van de Derde Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../wet-BES/derde/aanpassingswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0029250/README.md), af te leveren of ter hand te stellen zonder dat daarbij wordt voldaan aan de door Onze Minister gestelde voorschriften of beperkingen.  
+Het is verboden geneesmiddelen als bedoeld in artikel XIX van de Derde Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba, af te leveren of ter hand te stellen zonder dat daarbij wordt voldaan aan de door Onze Minister gestelde voorschriften of beperkingen.  
 
 ### Artikel  52  
 

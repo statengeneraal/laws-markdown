@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder 
 
-a. *tijdstip van transitie:* het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](../../../../../../../../../../rijkswet/rijkswet/wijziging/statuut/in/verband/met/de/opheffing/van/de/nederlandse/etc/BWBR0028249/README.md) in werking treedt;  
+a. *tijdstip van transitie:* het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt;  
 
 b. *eilandgebieden:* de eilandgebieden Bonaire, Sint Eustatius en Saba, genoemd in artikel 1, onderdeel a, d en c, van de Staatsregeling van de Nederlandse Antillen, zoals die tot het tijdstip van transitie gold;  
 
@@ -39,16 +39,16 @@ b. op andere wijze onmiskenbaar uit enig wettelijk voorschrift volgt dat die wet
 
 ### Artikel  3  
 
-1.  De [Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met uitzondering van [hoofdstuk 9](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is niet van toepassing op besluiten en handelingen van bestuursorganen die hun zetel hebben in het Europese deel van Nederland, ter uitvoering van: 
+1.  De Algemene wet bestuursrecht, met uitzondering van hoofdstuk 9, is niet van toepassing op besluiten en handelingen van bestuursorganen die hun zetel hebben in het Europese deel van Nederland, ter uitvoering van: 
 
 a. een wettelijke regeling die uitsluitend in de openbare lichamen van toepassing is;  
 
 b. een wettelijke regeling die op grond van artikel 2, tweede lid, mede van toepassing is in de openbare lichamen, voor zover het besluit of de handeling gericht is tot een natuurlijk persoon of een rechtspersoon die ten tijde van het nemen van het besluit of het verrichten van de handeling ingezetene is van onderscheidenlijk gevestigd is in de openbare lichamen.     
-2.  De [hoofdstukken 6 tot en met 8 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn niet van toepassing op besluiten en handelingen van bestuursorganen die hun zetel hebben in het Europese deel van Nederland, ter uitvoering van een wettelijk voorschrift als bedoeld in artikel 2, derde lid, voor zover het desbetreffende besluit of de handeling gericht is tot een natuurlijk persoon of een rechtspersoon die ten tijde van het nemen van het besluit of het verrichten van de handeling ingezetene is van onderscheidenlijk gevestigd is in de openbare lichamen.   
-3.  [Hoofdstuk 9 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is tevens van toepassing op gedragingen van in [artikel 1a, eerste lid, onder d en e, van de Wet Nationale ombudsman](../../../../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md) bedoelde bestuursorganen met een zetel in de openbare lichamen.   
-4.  In de gevallen, bedoeld in het eerste en tweede lid, is de [Wet administratieve rechtspraak BES](../../../../../../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) van toepassing voor zover sprake is van een beschikking in de zin van die wet.   
-5.  Indien een beroepschrift tegen een beschikking op grond van een wettelijke regeling als bedoeld in het eerste lid, wordt ingediend bij een onbevoegde administratieve rechter, wordt het, nadat daarop de datum van ontvangst is aangetekend, zo spoedig mogelijk doorgezonden aan het bevoegde orgaan, onder gelijktijdige mededeling hiervan aan de afzender. [Artikel 6:15, derde lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
-6.  Het tweede lid is niet van toepassing op besluiten en handelingen ten aanzien van ambtenaren als bedoeld in [artikel 1 van de Ambtenarenwet](../../../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md) als zodanig, die hun werkzaamheden verrichten in de openbare lichamen.   
+2.  De hoofdstukken 6 tot en met 8 van de Algemene wet bestuursrecht zijn niet van toepassing op besluiten en handelingen van bestuursorganen die hun zetel hebben in het Europese deel van Nederland, ter uitvoering van een wettelijk voorschrift als bedoeld in artikel 2, derde lid, voor zover het desbetreffende besluit of de handeling gericht is tot een natuurlijk persoon of een rechtspersoon die ten tijde van het nemen van het besluit of het verrichten van de handeling ingezetene is van onderscheidenlijk gevestigd is in de openbare lichamen.   
+3.  Hoofdstuk 9 van de Algemene wet bestuursrecht is tevens van toepassing op gedragingen van in artikel 1a, eerste lid, onder d en e, van de Wet Nationale ombudsman bedoelde bestuursorganen met een zetel in de openbare lichamen.   
+4.  In de gevallen, bedoeld in het eerste en tweede lid, is de Wet administratieve rechtspraak BES van toepassing voor zover sprake is van een beschikking in de zin van die wet.   
+5.  Indien een beroepschrift tegen een beschikking op grond van een wettelijke regeling als bedoeld in het eerste lid, wordt ingediend bij een onbevoegde administratieve rechter, wordt het, nadat daarop de datum van ontvangst is aangetekend, zo spoedig mogelijk doorgezonden aan het bevoegde orgaan, onder gelijktijdige mededeling hiervan aan de afzender. Artikel 6:15, derde lid, van de Algemene wet bestuursrecht is van overeenkomstige toepassing.   
+6.  Het tweede lid is niet van toepassing op besluiten en handelingen ten aanzien van ambtenaren als bedoeld in artikel 1 van de Ambtenarenwet als zodanig, die hun werkzaamheden verrichten in de openbare lichamen.   
 7.  Het eerste en tweede lid zijn evenmin van toepassing op de heffing en inning van belastingen of van rechten bij invoer.   
 
 ### Artikel  4  
@@ -61,7 +61,7 @@ Indien in een wettelijk voorschrift dat niet ingevolge artikel 2, eerste of twee
 
 ### Artikel  4a  
 
-In wettelijke regelingen en voorschriften zoals deze van toepassing zijn in de openbare lichamen wordt geen onderscheid gemaakt ten aanzien van de publiekrechtelijke rechtsgevolgen van huwelijken of geregistreerd partnerschappen voltrokken op grond van het in het Europese deel van Nederland geldende Burgerlijk Wetboek, en huwelijken, gesloten op grond van [Boek 1 van het Burgerlijk Wetboek BES](../../../../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/1/BWBR0028743/README.md) in een van de openbare lichamen.  
+In wettelijke regelingen en voorschriften zoals deze van toepassing zijn in de openbare lichamen wordt geen onderscheid gemaakt ten aanzien van de publiekrechtelijke rechtsgevolgen van huwelijken of geregistreerd partnerschappen voltrokken op grond van het in het Europese deel van Nederland geldende Burgerlijk Wetboek, en huwelijken, gesloten op grond van Boek 1 van het Burgerlijk Wetboek BES in een van de openbare lichamen.  
 
 ### Hoofdstuk  2b  
 
@@ -187,7 +187,7 @@ b. de behandeling van een vóór dat tijdstip bij het bestuursorgaan van het eil
 
 ### Artikel  7  
 
-Onverminderd de [artikelen 215](../../../../../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) en [216 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md), worden eilandsverordeningen en eilandsbesluiten, houdende algemene maatregelen, die door de eilandsraad, onderscheidenlijk het bestuurscollege van een eilandgebied zijn vastgesteld ten behoeve van een openbaar lichaam, met ingang van het tijdstip van transitie aangemerkt als door de eilandsraad onderscheidenlijk het bestuurscollege van het desbetreffende openbaar lichaam vastgestelde eilandsverordeningen onderscheidenlijk eilandsbesluiten, houdende algemene maatregelen.  
+Onverminderd de artikelen 215 en 216 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba, worden eilandsverordeningen en eilandsbesluiten, houdende algemene maatregelen, die door de eilandsraad, onderscheidenlijk het bestuurscollege van een eilandgebied zijn vastgesteld ten behoeve van een openbaar lichaam, met ingang van het tijdstip van transitie aangemerkt als door de eilandsraad onderscheidenlijk het bestuurscollege van het desbetreffende openbaar lichaam vastgestelde eilandsverordeningen onderscheidenlijk eilandsbesluiten, houdende algemene maatregelen.  
 
 ### Artikel  8  
 
@@ -201,12 +201,12 @@ Onverminderd de [artikelen 215](../../../../../../../../../../wet-BES/wet/openba
 
 ### Artikel  10  
 
-Op vragen van overgangsrecht waartoe, als gevolg van invoering van deze wet en de [Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../wet-BES/aanpassingswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028129/README.md), de aanpassing van wetgeving van Nederlands-Antilliaanse oorsprong op het terrein van het privaatrecht aanleiding geeft, zijn de [Overgangswet nieuw Burgerlijk Wetboek BES](../../../../../../../../../../wet-BES/overgangswet/nieuw/burgerlijk/wetboek/bes/BWBR0028466/README.md) en de [Overgangswet nieuw Burgerlijk Wetboek BES, tweede gedeelte](../../../../../../../../../../wet-BES/overgangswet/nieuw/burgerlijk/wetboek/bes/tweede/gedeelte/BWBR0028301/README.md), van overeenkomstige toepassing.  
+Op vragen van overgangsrecht waartoe, als gevolg van invoering van deze wet en de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba, de aanpassing van wetgeving van Nederlands-Antilliaanse oorsprong op het terrein van het privaatrecht aanleiding geeft, zijn de Overgangswet nieuw Burgerlijk Wetboek BES en de Overgangswet nieuw Burgerlijk Wetboek BES, tweede gedeelte, van overeenkomstige toepassing.  
 
 ### Artikel  11  
 
 1.  Ten aanzien van rechten en verplichtingen naar burgerlijk recht van de eilandgebieden treden de openbare lichamen op het tijdstip van transitie voor de eilandgebieden in de plaats.   
-2.  Wettelijke procedures en rechtsgedingen waarbij een eilandgebied betrokken was, worden met ingang van het tijdstip van transitie voortgezet door of tegen het desbetreffende openbaar lichaam, voor zover dat openbaar lichaam op grond van het eerste lid in de plaats treedt voor dat eilandgebied. Ten aanzien van de rechtsgedingen is de [elfde afdeling van titel 2 van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) van overeenkomstige toepassing.   
+2.  Wettelijke procedures en rechtsgedingen waarbij een eilandgebied betrokken was, worden met ingang van het tijdstip van transitie voortgezet door of tegen het desbetreffende openbaar lichaam, voor zover dat openbaar lichaam op grond van het eerste lid in de plaats treedt voor dat eilandgebied. Ten aanzien van de rechtsgedingen is de elfde afdeling van titel 2 van het Wetboek van Burgerlijke Rechtsvordering BES van overeenkomstige toepassing.   
 
 ### Artikel  12  
 
@@ -222,7 +222,7 @@ Indien in regelingen als bedoeld in artikel 2, eerste lid, sprake is van een bev
 
 ### Artikel  14  
 
-De bepalingen die voorkomen op de bij de [Coördinatiewet uitzonderingstoestanden behorende lijst A](../../../../../../../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) zijn van overeenkomstige toepassing in de openbare lichamen, voor zover deze bepalingen niet reeds van toepassing zijn in de openbare lichamen, met dien verstande dat telkens in die bepalingen wordt gelezen voor: 
+De bepalingen die voorkomen op de bij de Coördinatiewet uitzonderingstoestanden behorende lijst A zijn van overeenkomstige toepassing in de openbare lichamen, voor zover deze bepalingen niet reeds van toepassing zijn in de openbare lichamen, met dien verstande dat telkens in die bepalingen wordt gelezen voor: 
 
 a. «burgemeester»: gezaghebber;  
 
@@ -230,7 +230,7 @@ b. «Onze Commissaris van de Koning», «Onze Commissaris in de provincie» en �
 
 ### Artikel  15  
 
-1.  Onverminderd de [artikelen 7, eerste lid](../../../../../../../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../../../../../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), kunnen, indien buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, bepalingen die voorkomen op de bij de [Coördinatiewet uitzonderingstoestanden behorende lijst A](../../../../../../../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) voor de openbare lichamen gezamenlijk of ieder afzonderlijk in werking worden gesteld.   
+1.  Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden, kunnen, indien buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, bepalingen die voorkomen op de bij de Coördinatiewet uitzonderingstoestanden behorende lijst A voor de openbare lichamen gezamenlijk of ieder afzonderlijk in werking worden gesteld.   
 2.  Indien een koninklijk besluit als bedoeld in het eerste lid is vastgesteld, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.   
 3.  Wordt het voorstel van wet door de Staten-Generaal verworpen, dan worden bij koninklijk besluit, op voordracht van Onze Minister-President, de bepalingen die ingevolge het eerste lid in werking zijn gesteld, onverwijld buiten werking gesteld.   
 4.  Bij koninklijk besluit, op voordracht van Onze Minister-President, worden bepalingen die ingevolge het eerste lid in werking zijn gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.   
@@ -441,7 +441,7 @@ Onze Minister kan, wanneer de toepassing van 18.2.4c tot onbillijkheden aanleidi
 
 1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze paragraaf zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.   
 2.  Onze Minister wijst ambtenaren aan die zijn belast met onderzoek naar de aanwezigheid van besmettelijke dierziekten.   
-3.  Met de opsporing van de bij de artikelen 18.2.7 en 18.2.8, strafbaar gestelde feiten zijn, onverminderd [artikel 184 Wetboek van Strafvordering BES](../../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), belast de daartoe aangewezen buitengewone opsporingsambtenaren.   
+3.  Met de opsporing van de bij de artikelen 18.2.7 en 18.2.8, strafbaar gestelde feiten zijn, onverminderd artikel 184 Wetboek van Strafvordering BES, belast de daartoe aangewezen buitengewone opsporingsambtenaren.   
 4.  Van een besluit als bedoeld in dit artikel wordt mededeling gedaan door plaatsing in de Staatscourant.   
 
 ### Artikel  18.2.10  
@@ -467,7 +467,7 @@ e. vaartuigen, stilstaande voertuigen en de lading daarvan te onderzoeken.
 
 ### Artikel  18.2.11  
 
-De [artikelen 12 tot en met 35 van de Wet voorschriften bestrijdingsmiddelen BES](../../../../../../../../../../wet-BES/wet/voorschriften/bestrijdingsmiddelen/bes/BWBR0028176/README.md) zijn van overeenkomstige toepassing.  
+De artikelen 12 tot en met 35 van de Wet voorschriften bestrijdingsmiddelen BES zijn van overeenkomstige toepassing.  
 
 ### §  3  
 
@@ -487,9 +487,9 @@ b. het door Onze Minister van Sociale Zaken en Werkgelegenheid aan derden verstr
 
 c. het verwerken van persoonsgegevens bij de uitvoering van dit artikel en de krachtens het vierde lid gestelde regels;  
 
-d. het van toepassing worden van onderdelen van de [Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bij de uitvoering van dit artikel en de krachtens het vierde lid gestelde regels.     
-6.  Een besluit van Onze Minister van Sociale Zaken en Werkgelegenheid tot terugvordering van kosten van onderstand levert een executoriale titel op in de zin van het [Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md).   
-7.  Terugvordering van kosten van onderstand door Onze Minister van Sociale Zaken en Werkgelegenheid is bevoorrecht en volgt onmiddellijk na de vorderingen, bedoeld in [artikel 288 van het Burgerlijk Wetboek BES](../../../../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md).   
+d. het van toepassing worden van onderdelen van de Algemene wet bestuursrecht bij de uitvoering van dit artikel en de krachtens het vierde lid gestelde regels.     
+6.  Een besluit van Onze Minister van Sociale Zaken en Werkgelegenheid tot terugvordering van kosten van onderstand levert een executoriale titel op in de zin van het Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering BES.   
+7.  Terugvordering van kosten van onderstand door Onze Minister van Sociale Zaken en Werkgelegenheid is bevoorrecht en volgt onmiddellijk na de vorderingen, bedoeld in artikel 288 van het Burgerlijk Wetboek BES.   
 8.  De eilandbesturen van de openbare lichamen kunnen Onze Minister van Sociale Zaken en Werkgelegenheid voorstellen doen betreffende het beleid met betrekking tot de uitvoering van dit artikel.   
 9.  Het ontwerp van een krachtens het eerste, vierde of vijfde lid vast te stellen algemene maatregel van bestuur wordt aan de beide kamers der Staten-Generaal overgelegd. De voordracht voor de vast te stellen algemene maatregel van bestuur kan worden gedaan nadat vier weken na de overlegging zijn verstreken, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen worden gegeven dat het onderwerp van de algemene maatregel van bestuur bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend.   
 
@@ -524,7 +524,7 @@ a. zorg:
 
 1°. zorg of dienst als omschreven bij of krachtens het Besluit zorgverzekering BES;  
 
-2°. handelingen op het gebied van de gezondheidszorg als bedoeld in [artikel 1, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), voor zover uitgevoerd, al dan niet onder eigen verantwoordelijkheid, door personen, ingeschreven in een register als bedoeld in [artikel 3 van die wet](../../../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) of door personen als bedoeld in [artikel 34 van die wet](../../../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) en voor zover die handelingen niet zijn begrepen onder 1°;    
+2°. handelingen op het gebied van de gezondheidszorg als bedoeld in artikel 1, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg, voor zover uitgevoerd, al dan niet onder eigen verantwoordelijkheid, door personen, ingeschreven in een register als bedoeld in artikel 3 van die wet of door personen als bedoeld in artikel 34 van die wet en voor zover die handelingen niet zijn begrepen onder 1°;    
 
 b. zorgaanbieder: 
 
@@ -583,6 +583,11 @@ e. de maatregelen met betrekking tot toelating tot of de onttrekking aan het vri
 
 f. het onderwerpen van personen aan de maatregelen van isolatie en quarantaine;    
 
+### Artikel  18.4.7a   
+Treedt in werking op een nader te bepalen tijdstip   
+
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent jeugdzorg in de openbare lichamen, met inbegrip van de toegang, het aanbod, de bekostiging en een bijdrage in de kosten van de jeugdzorg.  
+
 ### Artikel  18.4.8  
 
 De voordracht voor een krachtens de artikelen 18.4.6 en 18.4.7 vast te stellen algemene maatregel van bestuur wordt gedaan door Onze Minister van Volksgezondheid, Welzijn en Sport.  
@@ -600,12 +605,12 @@ De voordracht voor een krachtens de artikelen 18.4.6 en 18.4.7 vast te stellen a
 
 ### Artikel  18.4.11  
 
-De [afdelingen 5.3](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5.4 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.  
+De afdelingen 5.3 en 5.4 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.  
 
 ### Artikel  18.4.12  
 
 1.  Met het toezicht op de naleving van de krachtens de artikelen 18.4.6 en 18.4.7 gestelde regels zijn belast de ambtenaren van het Staatstoezicht op de volksgezondheid.   
-2.  Artikel 16.3.10 en de [artikelen 155 tot en met 163 van het Wetboek van Strafvordering BES](../../../../../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) zijn van overeenkomstige toepassing.   
+2.  Artikel 16.3.10 en de artikelen 155 tot en met 163 van het Wetboek van Strafvordering BES zijn van overeenkomstige toepassing.   
 
 ### Artikel  18.4.13  
 
@@ -692,7 +697,7 @@ E. M. H. Hirsch Ballin
 *A Regelingen die de status van wet verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Landsverordening openbaarheid van Bestuur  | Wet openbaarheid van bestuur BES  |
 
 *B Regelingen die de status van algemene maatregel van bestuur verkrijgen*   *C Regelingen die de status van ministeriële regeling verkrijgen*   
@@ -702,7 +707,7 @@ E. M. H. Hirsch Ballin
 *A Regelingen die de status van wet verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 |  *AMBTENAREN*   | --- |
 | Pensioenlandsverordening overheidsdienaren  | Pensioenwet ambtenaren BES  |
 | Werkliedenverordening 1944  | Werkliedenwet 1944 BES  |
@@ -723,7 +728,7 @@ E. M. H. Hirsch Ballin
 *B Regelingen die de status van algemene maatregel van bestuur verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 |  *POLITIEKE AMBTSDRAGERS*   | --- |
 | Pensioenregeling politieke gezagdragers  | Pensioenbesluit politieke gezagdragers BES  |
 | Landsverordening ter uitvoering van artikel 113 van de Eilandenregeling Nederlandse Antillen  | Rechtspositiebesluit eilandgedeputeerden en eilandsraadsleden BES  |
@@ -752,7 +757,7 @@ E. M. H. Hirsch Ballin
 *C Regelingen die de status van ministeriële regeling verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | AMBTENAREN  | --- |
 | Regeling vergoeding vervoermiddelen 1950  | Regeling vergoeding vervoermiddelen 1950 BES  |
 | Landsbesluit criteria en voorwaarden aanwijzing rechtspersoon  | Regeling criteria en voorwaarden aanwijzing rechtspersoon BES  |
@@ -777,14 +782,14 @@ E. M. H. Hirsch Ballin
 *A Regelingen die de status van wet verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Dienstplichtverordening 1961  | Dienstplichtwet BES  |
 | Landsverordening rechtspositie Kustwacht  | Wet rechtspositie Kustwacht BES  |
 
 *B Regelingen die de status van algemene maatregel van bestuur verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Landsbesluit rechtspositie Kustwacht  | Besluit rechtspositie Kustwacht BES  |
 | Landsbesluit militair keuringsreglement 1995,  | Besluit militair keuringsreglement BES  |
 | Landsbesluit extra beslaglegging dienstplichtigen  | Besluit extra beslaglegging dienstplichtigen BES  |
@@ -793,7 +798,7 @@ E. M. H. Hirsch Ballin
 *C Regelingen die de status van ministeriële regeling verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Beschikking houdende een regeling voor de vergoeding bij dienstreizen en verplaatsingen van militairen behorend tot de Landmacht NA  | Regeling vergoeding bij dienstreizen en verplaatsingen van militairen behorend tot de Landmacht BES  |
 
 ####Minister van Economische Zaken
@@ -801,7 +806,7 @@ E. M. H. Hirsch Ballin
 *A Regelingen die de status van wet verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 |  *DELFSTOFFEN*   | --- |
 | Curaçaosche mijnwet  | Mijnwet BES  |
 | Petroleumlandsverordening Saba Bank  | Petroleumwet Saba Bank BES  |
@@ -830,7 +835,7 @@ E. M. H. Hirsch Ballin
 *B Regelingen die de status van algemene maatregel van bestuur verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 |  *DELFSTOFFEN*   | --- |
 | Mijnverordening ter uitvoering der Curaçaosche mijnwet  | Mijnbesluit BES  |
 |  *INDUSTRIEEL EIGENDOM/MERKEN*   | --- |
@@ -859,7 +864,7 @@ E. M. H. Hirsch Ballin
 *C Regelingen die de status van ministeriële regeling verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 |  *METROLOGIE*   | --- |
 | Landsbesluit houdende algemene maatregelen van 9 juli 1956 ter uitvoering van artikel 20 onder a van de IJklandsverordening 1956 (PB 1956, 72)  | Regeling van 9 juli 1956 ter uitvoering van artikel 20 onder a van de IJkwet BES  |
 | Landsbesluit houdende algemene maatregelen van 9 juli 1956 ter uitvoering van artikel 27 van de IJklandsverordening 1956 (PB 1956, 73)  | Regeling van 9 juli 1956 ter uitvoering van artikel 27 van de IJkwet BES  |
@@ -882,7 +887,7 @@ E. M. H. Hirsch Ballin
 *A Regelingen die de status van wet verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Landsverordening aanmeldingsplicht van grensoverschrijdende geldtransporten  | Wet grensoverschrijdende geldtransporten BES  |
 | Landsverordening Assurantiebemiddelingsbedrijf  | Wet assurantiebemiddelingsbedrijf BES  |
 | Landsverordening identificatie bij financiële dienstverlening  | Wet identificatie bij dienstverlening BES  |
@@ -899,7 +904,7 @@ E. M. H. Hirsch Ballin
 *B Regelingen die de status van algemene maatregel van bestuur verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Beschikking indicatoren ongebruikelijke transacties  | Besluit indicatoren ongebruikelijke transacties BES  |
 | Beschikking indicatoren ongebruikelijke transacties inzake creditcards en money transfers  | Besluit indicatoren ongebruikelijke transacties creditcards en money transfers BES  |
 | Beschikking indicatoren ongebruikelijke transacties inzake fiduciaire diensten  | Besluit indicatoren ongebruikelijke transacties fiduciaire diensten BES  |
@@ -923,7 +928,7 @@ E. M. H. Hirsch Ballin
 *C Regelingen die de status van ministeriële regeling verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Aftrekregeling voor een specifieke categorie buitenlandse belastingplichtingen  | Negentigprocentsregeling buitenlandse belastingplichtigen BES  |
 | Beschikking ex-patriates 1998  | Regeling ex-patriates 1998 BES  |
 | Beschikking pensioenen  | Regeling pensioenen BES  |
@@ -935,7 +940,7 @@ E. M. H. Hirsch Ballin
 *A Regelingen die de status van wet verkrijgen*   *B Regelingen die de status van algemene maatregel van bestuur verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Landsbesluit gezinsvoogdij-instelling  | Besluit gezinsvoogdij-instelling BES  |
 
 *C Regelingen die de status van ministeriële regeling verkrijgen*   
@@ -945,7 +950,7 @@ E. M. H. Hirsch Ballin
 *A Regelingen die de status van wet verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 |  *PRIVAATRECHT*   | --- |
 | Burgerlijk Wetboek  | Burgerlijk Wetboek BES  |
 | Wetboek van Koophandel  | Wetboek van Koophandel BES  |
@@ -993,7 +998,7 @@ E. M. H. Hirsch Ballin
 *B Regelingen die de status van algemene maatregel van bestuur verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 |  *PRIVAATRECHT*   | --- |
 | Landsbesluit burgerlijke stand  | Besluit burgerlijke stand BES  |
 | Landsbesluit van 19 januari 2001 ter uitvoering van artikel 19j, tweede lid, van Boek 1 van het Burgerlijk Wetboek (P.B. 2001, 13)  | Besluit voorlopige akten van de burgerlijke stand BES  |
@@ -1034,7 +1039,7 @@ E. M. H. Hirsch Ballin
 *C Regelingen die de status van ministeriële regeling verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 |  *PRIVAATRECHT*   | --- |
 | Ministeriële beschikking van 16 februari 2004 ter uitvoering van artikel 37, eerste lid, van Boek 2 van het Burgerlijk Wetboek (P.B. 2001, 15)  | Regeling vast recht oprichting rechtspersonen BES  |
 |  *STAATS- EN BESTUURSRECHT*   | --- |
@@ -1052,7 +1057,7 @@ E. M. H. Hirsch Ballin
 *A Regelingen die de status van wet verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Landverordening grondslagen natuurbeheer en -bescherming  | Wet grondslagen natuurbeheer en -bescherming BES  |
 | Visserijlandsverordening  | Visserijwet BES  |
 | Landsverordening van de 18de juli 1961 houdende voorschriften in het belang van de volksgezondheid met betrekking tot bestrijdingsmiddelen van schadelijke dieren en planten  | Wet voorschriften bestrijdingsmiddelen BES  |
@@ -1060,7 +1065,7 @@ E. M. H. Hirsch Ballin
 *B Regelingen die de status van algemene maatregel van bestuur verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Landsverordening slacht- en vleeskeuring  | Besluit slacht- en vleeskeuring Bonaire  |
 | Verordening voorschriften op slachten en verkopen van vlees op Sint Eustatius  | Besluit slachten en verkopen van vee op Sint Eustatius  |
 | Landsverordening invoer kleine dieren 1952 en Landsverordening in- en doorvoerverbod kleine dieren afkomstig uit Zuid- en Midden-Amerika  | Besluit invoer kleine dieren BES  |
@@ -1070,7 +1075,7 @@ E. M. H. Hirsch Ballin
 *C Regelingen die de status van ministeriële regeling verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Landsbesluit houdende algemene maatregelen van 24 september 1974 ter uitvoering van artikel 6, lid 1 van de verordening voorschriften bestrijdingsmiddelen, enz. (aanwijzing bestrijdingsmiddelen op basis van Phosdrin als vergunningsplichtig middel)  | Uitvoeringsregeling Wet voorschiften bestrijdingsmiddelen BES  |
 | en  | --- |
 | Landsbesluit houdende algemene maatregelen van 12 januari 1987 ter uitvoering van artikel 6, lid 1, van de verordening voorschriften bestrijdingsmiddelen, enz. (aanwijzing rodenticiden bevattende thallium- of fosfideverbindingen als vergunningsplichtig bestrijdingsmiddel)  | --- |
@@ -1087,7 +1092,7 @@ E. M. H. Hirsch Ballin
 *A Regelingen die de status van wet verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Archieflandsverordening 2007  | Archiefwet BES  |
 | Landsstudietoelagenregeling  | Wet studiefinanciering BES  |
 | Landsverordening funderend onderwijs  | Wet primair onderwijs BES  |
@@ -1101,7 +1106,7 @@ E. M. H. Hirsch Ballin
 *B Regelingen die de status van algemene maatregel van bestuur verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Archiefbesluit  | Archiefbesluit BES  |
 | Landsbesluit houdende algemene maatregelen van de 24ste november 1972 ter uitvoering van artikel 5, lid 1, onder f, van de Televisie-landsverordening (P.B. 1971, no. 33), (P.B. 1972, no. 237)  | Besluit televisie- en radioreclame voor sterke drank BES  |
 | Landsbesluit scholen v.w.o., h.a.v.o., v.s.b.o. (P.B. 1985, no.155)  | Besluit scholen v.w.o., h.a.v.o., v.s.b.o. BES  |
@@ -1112,7 +1117,7 @@ E. M. H. Hirsch Ballin
 *C Regelingen die de status van ministeriële regeling verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Beschikking digitaal beheer  | Regeling digitaal beheer BES  |
 | Beschikking Meldpunten maritiem archeologisch erfgoed Bonaire Sint Eustatius en Saba  | Regeling Meldpunten maritiem archeologisch erfgoed BES  |
 | Ministeriële beschikking ter uitvoering van voorschriften onderwijsbevoegdheid niet-Antilliaanse diploma’s (P.B. 2000, no. 143)  | Regeling ter uitvoering van voorschriften onderwijsbevoegdheid niet-Antilliaanse diploma’s BES  |
@@ -1125,7 +1130,7 @@ E. M. H. Hirsch Ballin
 *A Regelingen die de status van wet verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Veiligheidslandsverordening 1958  | Arbeidsveiligheidswet BES  |
 | Stuwadoorslandsverordening 1946  | Stuwadoorswet 1946 BES  |
 | Arbeidsregeling 2000  | Arbeidswet 2000 BES  |
@@ -1148,7 +1153,7 @@ E. M. H. Hirsch Ballin
 *B Regelingen die de status van algemene maatregel van bestuur verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Landsbesluit, houdende algemene maatregelen, ter uitvoering van artikel 13, vijfde lid, van de Landsverordening algemene ouderdomsverzekering (P.B. 1979, 59)  | Besluit betaalbaarstelling door andere organen volksverzekeringen BES  |
 | Landsbesluit Beroepsziekten  | Besluit aanwijzing gevaarlijke stoffen, beroepsziektes en letsels Wet ongevallenverzekering BES  |
 | Landsbesluit, houdende algemene maatregelen, ter uitvoering van artikel 12, derde en zesde lid, van de Landsverordening algemene ouderdomsverzekering (P.B. 1960, 135)  | Besluit intrekking, schorsing en opschorting Wet algemene ouderdomsverzekering BES  |
@@ -1168,7 +1173,7 @@ E. M. H. Hirsch Ballin
 *C Regelingen die de status van ministeriële regeling verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Ministeriële beschikking van de 22ste augustus 1960 t.u.v. artikel 2, sub c van het landsbesluit, houdende algemene maatregelen, van de 26ste juli 1960 (P.B. 1960, N°. 131) t.u.v. artikel 5, derde en vierde lid van de landsverordening algemene ouderdomsverzekering (P.B. 1960, N°. 83)  | Ministeriële regeling van de 22ste augustus 1960 t.u.v. artikel 2, sub c, van de Besluit van de 26ste juli 1960 (P.B. 1960, N°. 131) t.u.v. artikel 5, derde en vierde lid, van de Wet algemene ouderdomsverzekering BES  |
 | Ministeriële beschikking van de 21ste oktober 1960 t.u.v. artikel 2, sub c van het landsbesluit, houdende algemene maatregelen, van de 26ste juli 1960 (P.B. 1960, N°. 131) t.u.v. artikel 5, derde en vierde lid van de landsverordening algemene ouderdomsverzekering (P.B. 1960, N°. 83)  | Ministeriële regeling van de 21ste oktober 1960 t.u.v. artikel 2, sub c, van de Besluit van de 26ste juli 1960 (P.B. 1960, N°. 131) t.u.v. artikel 5, derde en vierde lid, van de Wet algemene ouderdomsverzekering BES  |
 | Ministeriële beschikking van de 15de juni 1965 t.u.v. artikel 2 sub c van het landsbesluit houdende algemene maatregelen van de 26ste juli 1960 (P.B. 1960, N° 131) t.u.v. artikel 5 leden 3 en 4 van de landsverordening algemene ouderdomsverzekering (P.B. 1960, N°. 83)  | Ministeriële regeling van de 15de juni 1965 t.u.v. artikel 2, sub c, van de Besluit van de 26ste juli 1960 (P.B. 1960, N° 131) t.u.v. artikel 5, derde en vierde lid, van de Wet algemene ouderdomsverzekering BES  |
@@ -1186,7 +1191,7 @@ E. M. H. Hirsch Ballin
 *A Regelingen die de status van wet verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Vaartuigenverordening 1930  | Vaartuigenwet 1930 BES  |
 | Landsverordening voorkoming van verontreiniging door schepen  | Wet voorkoming van verontreiniging door schepen BES  |
 | Loodsenlandsverordening 2001  | Loodsenwet 2001 BES  |
@@ -1201,7 +1206,7 @@ E. M. H. Hirsch Ballin
 *B Regelingen die de status van algemene maatregel van bestuur verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Landsbesluit ter uitvoering van art. 7, eerste en vierde lid, van de landsverordening voorkoming van verontreiniging door schepen  | Besluit ter uitvoering van art. 7, eerste en vierde lid, van de wet voorkoming van verontreiniging door schepen BES  |
 | Landbesluit toezicht Luchtvaart (P.B. 2003, no. 56)  | Besluit toezicht luchtvaart BES  |
 | Landsbesluit luchtverkeer 2005 (P.B. 2006, no. 11)  | Besluit luchtverkeer BES  |
@@ -1210,7 +1215,7 @@ E. M. H. Hirsch Ballin
 *C Regelingen die de status van ministeriële regeling verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Besluit van den 7n. November 1930, ter uitvoering van artikel 5 van de «Vaartuigenverordening 1930» (P.B. No. 72)  | Regeling ter uitvoering van artikel 5 van de Vaartuigenwet 1930 BES  |
 | Beschikking MAW luchtvaarteenheden (P.B.. 2008, no. 18)  | Regeling luchtvaarteenheden BES  |
 | Beschikking MAW valschermspringen (P.B. 2007, no. 63)  | Regeling valschermspringen BES  |
@@ -1230,7 +1235,7 @@ E. M. H. Hirsch Ballin
 *A Regelingen die de status van wet verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Verordening van den 21sten october 1921, tot regeling van het toezicht op krankzinnigen (P.B. 1922, no. 14)  | Wet tot regeling van het toezicht op krankzinnigen BES  |
 | Landsverordening Inspectie voor de Volksgezondheid  | Wet Inspectie voor de Volksgezondheid BES  |
 | Landsverordening organisatie bloedvoorziening  | Wet organisatie bloedvoorziening BES  |
@@ -1243,11 +1248,12 @@ E. M. H. Hirsch Ballin
 | Landsverordening algemene verzekering bijzondere ziektekosten  | Wet algemene verzekering bijzondere ziektekosten BES  |
 | Landsverordening bestrijding besmettelijke ziekten,  Gezondheidslandsverordening 1952  en  Quarantainelandsverordening  | Wet publieke gezondheid BES  |
 | Landsverordening van de 7 <sup>e</sup> februari 1963 houdende regelen betreffende de handel in dranken en spijzen alsmede het verschaffen van huisvesting met bediening tegen vergoeding  | Vergunningwet BES  |
+| Landsverordening van de 7 <sup>e</sup> februari 1963 houdende regelen betreffende de handel in dranken en spijzen alsmede het verschaffen van huisvesting met bediening tegen vergoeding.  | Vergunningwet BES  |
 
 *B Regelingen die de status van algemene maatregel van bestuur verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Landsbesluit houdende algemene maatregelen van de 4de april 1961 ter uitvoering van de artikelen 1 lid 2, 5, 10 lid 1, 19 lid 3 en 21 lid 1 van de verordening van de 21ste oktober 1921 tot regeling van het toezicht op krankzinnigen. (P.B. 1961, no. 48)  | Besluit tot regeling van het toezicht op krankzinnigen BES  |
 | Verordening regelende de uitoefening van de tandheelkunst (P.B. 1943, no. 46)  | Besluit uitoefening van de tandheelkunst BES  |
 | Landsverordening regelende de uitoefening van de geneeskunde (P.B. 1958, no. 174)  | Besluit geneeskunde BES  |
@@ -1278,7 +1284,7 @@ E. M. H. Hirsch Ballin
 *C Regelingen die de status van ministeriële regeling verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Beschikking van den 8sten december 1939 no. 2377 tot vaststelling van een model-geneeskundige verklaring ter constateering van krankzinnigheid. (P.B. 1939, no. 147)  | Regeling tot vaststelling model geneeskundige verklaring krankzinnigheid BES  |
 | Beschikking visserij producten 1998 (P.B. 1998, no. 65)  | Regeling visserij producten 1998 BES  |
 | Beschikking visserij producten 1998/2 (P.B. 1998, no. 227)  | Regeling visserij producten 1998/2 BES  |
@@ -1297,7 +1303,7 @@ E. M. H. Hirsch Ballin
 *A Regelingen die de status van wet verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Landsverordening Drinkwater  | Wet drinkwater BES  |
 | Landsverordening grondslagen ruimtelijke ontwikkelingsplanning  | Wet grondslagen ruimtelijke ontwikkelingsplanning BES  |
 | Kadasterlandsverordening 1938  | Wet kadaster en registratie onroerende zaken en beperkte rechten BES  |
@@ -1306,13 +1312,13 @@ E. M. H. Hirsch Ballin
 *B Regelingen die de status van algemene maatregel van bestuur verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Landsbesluit van 12 september 2006, houdende algemene maatregelen ter uitvoering van artikel 12 van de Landsverordening drinkwater en artikel 3, eerste en tweede lid, van de Warenlandsverordening (PB 1997, no. 334)  | Besluit kwaliteit drinkwater BES  |
 
 *C Regelingen die de status van ministeriële regeling verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Landsbesluit ongediertebestrijdingsgassen  | Regeling ongediertebestrijdingsgassen BES  |
 
 ####Minister voor Wonen, Wijken en Integratie
@@ -1320,7 +1326,7 @@ E. M. H. Hirsch Ballin
 *A Regelingen die de status van wet verkrijgen*   
 
 | Nederlands-Antilliaanse regeling  | Citeertitel  |
-|:---|:---|
+|---|---|
 | Landsverordening Huurcommissieregeling  | Wet Huurcommissie-Regeling BES  |
 
 *B Regelingen die de status van algemene maatregel van bestuur verkrijgen*   *C Regelingen die de status van ministeriële regeling verkrijgen*   

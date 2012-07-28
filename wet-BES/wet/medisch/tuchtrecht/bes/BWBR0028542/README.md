@@ -43,9 +43,9 @@ Ten aanzien van een geneeskundige, een tandheelkundige, een verloskundige of een
 ### Artikel  6  
 
 1.  Ten aanzien van een geneeskundige, een tandheelkundige, een verloskundige of een apotheker, die de gewoonte maakt van drankmisbruik, misbruik van verdovende middelen als bedoeld in een bij of krachtens algemene maatregel van bestuur vast te stellen regeling, of misbruik van die pharmacologische middelen, waarbij psychische veranderingen kunnen optreden, wordt de maatregel vermeld in artikel 7, eerste lid, onder g, toegepast.   
-2.  Het College kan bepalen, dat de ontzegging niet zal ingaan, mits de betrokkene zich onderwerpt aan een ontwenningskuur, de duur van twee jaar en zes maanden niet te boven gaande, en hij tijdens de duur daarvan geen gebruik maakt van zijn bevoegdheid. De ontzegging zal alsnog ingaan, wanneer het College zulks gelast op grond dat de betrokkene een ontwenningskuur, voorgeschreven door een ten genoegen van het College door hem te kiezen geneeskundige, binnen een door het College te stellen termijn niet naleeft of op grond dat hij geneeskunst, onderscheidenlijk de artsenijbereidkunde uitoefent voordat de geneeskundige, die de kuur heeft voorgeschreven, in overleg met de Inspectie voor de Volksgezondheid de kuur heeft beëindigd verklaard. Gelijke last kan het College geven op grond dat de betrokkene in gebreke blijft binnen de door het College gestelde termijn een geneeskundige ten genoegen van het College te kiezen.   
+2.  Het College kan bepalen, dat de ontzegging niet zal ingaan, mits de betrokkene zich onderwerpt aan een ontwenningskuur, de duur van twee jaar en zes maanden niet te boven gaande, en hij tijdens de duur daarvan geen gebruik maakt van zijn bevoegdheid. De ontzegging zal alsnog ingaan, wanneer het College zulks gelast op grond dat de betrokkene een ontwenningskuur, voorgeschreven door een ten genoegen van het College door hem te kiezen geneeskundige, binnen een door het College te stellen termijn niet naleeft of op grond dat hij geneeskunst, onderscheidenlijk de artsenijbereidkunde uitoefent voordat de geneeskundige, die de kuur heeft voorgeschreven, in overleg met het Staatstoezicht op de volksgezondheid, bedoeld in [hoofdstuk IV, paragraaf 2, van de Gezondheidswet](../../../../../../wet/gezondheidswet/BWBR0002202/README.md) de kuur heeft beëindigd verklaard. Gelijke last kan het College geven op grond dat de betrokkene in gebreke blijft binnen de door het College gestelde termijn een geneeskundige ten genoegen van het College te kiezen.   
 3.  Het voorschrift, regelende de ontwenningskuur, kan zo nodig inhouden, dat de betrokkene zich gedurende een bepaald tijdsverloop, de duur van twee jaren niet te boven gaande, ter verpleging laat opnemen in een daarbij aan te wijzen inrichting.   
-4.  Met het toezicht op de naleving van de gegeven voorschriften is de Inspectie voor de Volksgezondheid belast.   
+4.  Met het toezicht op de naleving van de gegeven voorschriften is het Staatstoezicht op de volksgezondheid, bedoeld in [hoofdstuk IV, paragraaf 2, van de Gezondheidswet](../../../../../../wet/gezondheidswet/BWBR0002202/README.md) belast.   
 
 ### Artikel  7  
 
@@ -82,7 +82,7 @@ g. ontzegging van de bevoegdheid om de geneeskunde, onderscheidenlijk de artseni
 
 ### Artikel  10  
 
-1.  Onverminderd artikel 9 is vereist dat de voorzitter en leden van het College de Nederlandse nationaliteit bezitten. Personen, van overheidswege met het toezicht op de Volksgezondheid belast, zijn niet benoembaar. Indien een lid van het College met dit toezicht wordt belast, houdt zijn lidmaatschap van dit College op.   
+1.  Onverminderd artikel 9 is vereist dat de voorzitter en leden van het College de Nederlandse nationaliteit bezitten. Ambtenaren van het Staatstoezicht op de volksgezondheid, bedoeld in [hoofdstuk IV, paragraaf 2, van de Gezondheidswet](../../../../../../wet/gezondheidswet/BWBR0002202/README.md), zijn niet benoembaar. Indien een lid van het College met dit toezicht wordt belast, houdt zijn lidmaatschap van dit College op.   
 2.  De voorzitter en de leden worden benoemd door Onze Minister voor een tijdvak van zes jaren en zijn terstond herbenoembaar.   
 3.  [vervallen]   
 
@@ -150,7 +150,7 @@ Indien tegen een geneeskundige, een tandheelkundige, een verloskundige of een ap
 
 1.  De leden van het College, zomede de secretaris en de plaatsvervangende secretaris, zijn verplicht tot geheimhouding van de bij het College aanhangige zaken, van de beraadslagingen over en van de beslissingen op een zaak, voorzover niet bij of krachtens algemene maatregel van bestuur als bedoeld in artikel 19, mededeling aan ambtenaren van politie of justitie wordt vereist.   
 2.  Bij zijn beslissing kan het College bepalen dat die beslissing met het oog op het algemeen belang geheel of gedeeltelijk voor bekendmaking in aanmerking komt. Indien één van de in artikel 7 genoemde maatregelen wordt opgelegd, wordt de beslissing bekendgemaakt op een bij algemene maatregel van bestuur te bepalen wijze.   
-3.  Aan de Inspectie voor de Volksgezondheid wordt van de beslissing afschrift gezonden. Deze is, behalve indien zijn ambtsvervulling anders vordert, gehouden tot geheimhouding.   
+3.  Aan het Staatstoezicht op de volksgezondheid, bedoeld in [hoofdstuk IV, paragraaf 2, van de Gezondheidswet](../../../../../../wet/gezondheidswet/BWBR0002202/README.md) wordt van de beslissing afschrift gezonden. Deze is, behalve indien zijn ambtsvervulling anders vordert, gehouden tot geheimhouding.   
 4.  [vervallen]   
 
 ### Artikel  17  
