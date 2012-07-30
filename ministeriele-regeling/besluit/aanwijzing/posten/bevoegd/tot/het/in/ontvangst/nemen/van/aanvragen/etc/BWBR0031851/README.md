@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van de Minister van Buitenlandse Zaken van 28 juni 2012, nr. DJZ/BR/0548-2012, tot aanwijzing van posten bevoegd tot het in ontvangst nemen van aanvragen voor reisdocumenten en identiteitskaarten
+##Besluit van de Minister van Buitenlandse Zaken van 18 juli 2012, nr. DJZ/BR/0599-2012 tot aanwijzing van posten bevoegd tot het in ontvangst nemen van aanvragen voor reisdocumenten en identiteitskaarten
 
 De Minister van Buitenlandse Zaken,  
 Gelet op [artikel 8, eerste lid, van de Paspoortwet](../../../../../../../../../../../../../../rijkswet/paspoortwet/BWBR0005212/README.md);
@@ -24,15 +24,15 @@ e. tweede paspoorten.
 
 ### Artikel  2  
 
-Het [besluit van de Minister van Buitenlandse Zaken van 29 mei 2012, nr. DJZ/BR/0454-2012 tot aanwijzing van posten bevoegd tot het in ontvangst nemen van aanvragen voor reisdocumenten en identiteitskaarten](../../../../../../../../../../../../../../ministeriele-regeling/besluit/aanwijzing/posten/bevoegd/tot/het/in/ontvangst/nemen/van/aanvragen/etc/BWBR0031598/README.md) wordt ingetrokken.  
+Het [besluit van de Minister van Buitenlandse Zaken van 28 juni 2012, nr. DJZ/BR/0548-2012 tot aanwijzing van posten bevoegd tot het in ontvangst nemen van aanvragen voor reisdocumenten en identiteitskaarten](../../../../../../../../../../../../../../ministeriele-regeling/besluit/aanwijzing/posten/bevoegd/tot/het/in/ontvangst/nemen/van/aanvragen/etc/BWBR0031746/README.md) wordt ingetrokken.  
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van 4 juli 2012.  
+Dit besluit treedt in werking met ingang van 30 juli 2012.  
 Dit besluit zal met de bijlagen in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Buitenlandse Zaken,namens deze:
+Minister van Buitenlandse Zaken, namens deze:
 Directeur-generaal Consulaire Zaken en Bedrijfsvoering,
 M.T.G. vanDaalen  
 
@@ -78,7 +78,6 @@ M.T.G. vanDaalen
 | Cuba  | Havanna  | Ambassade  |
 | Cyprus  | Nicosia  | Ambassade  |
 | Denemarken  | Kopenhagen  | Ambassade  |
-| Denemarken  | Fredericia  | Honorair Consulaat  |
 | Dominicaanse Republiek  | Santo Domingo  | Ambassade  |
 | DR Congo  | Kinshasa  | Ambassade  |
 | Duitsland  | Berlijn  | Ambassade  |
@@ -214,7 +213,6 @@ M.T.G. vanDaalen
 | Bulgarije  | Sofia  | Ambassade  |
 | Cyprus  | Nicosia  | Ambassade  |
 | Denemarken  | Kopenhagen  | Ambassade  |
-| Denemarken  | Fredericia  | Honorair Consulaat  |
 | Duitsland  | Berlijn  | Ambassade  |
 | Duitsland  | Düsseldorf  | Consulaat-Generaal  |
 | Duitsland  | München  | Consulaat-Generaal  |
