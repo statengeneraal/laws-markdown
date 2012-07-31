@@ -18,8 +18,6 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 *bestuur:* het bestuur, bedoeld in artikel 3;  
 
-*bijstandsnorm:* de norm voor gehuwden, genoemd in [artikel 21, onderdeel c, van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), verminderd met het overeenkomstig [artikel 19, derde lid](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), van die wet vastgestelde bedrag van de vakantietoeslag;  
-
 *heffingvrij vermogen:* het heffingvrij vermogen, bedoeld in de [artikelen 5.5](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [5.6 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
 
 *inkomen:* het inkomen, zoals berekend ingevolge de artikelen 34a tot en met 34d;  
@@ -483,7 +481,7 @@ g. de organisatie van het kantoor waar de mediator werkzaam is.
 
 ### Artikel  34  
 
-1.  Rechtsbijstand overeenkomstig de bepalingen van deze wet wordt verleend aan hen wier inkomen per jaar € 21 800 per 1 januari 2012: € 24.900 of minder bedraagt, indien zij alleenstaand zijn, dan wel, indien zij met één of meer anderen een gemeenschappelijke huishouding voeren, ten hoogste € 31 000 per 1 januari 2012: € 35.200.   
+1.  Rechtsbijstand overeenkomstig de bepalingen van deze wet wordt verleend aan hen wier inkomen per jaar € 21 800 per 1 januari 2011: € 24.600per 1 januari 2012: € 24.900 of minder bedraagt, indien zij alleenstaand zijn, dan wel, indien zij met één of meer anderen een gemeenschappelijke huishouding voeren, ten hoogste € 31 000 per 1 januari 2011: € 34.700per 1 januari 2012: € 35.200.   
 2.  In afwijking van het bepaalde in het eerste lid wordt geen rechtsbijstand verleend, indien de rechtzoekende beschikt over een vermogen dat meer bedraagt dan het heffingvrij vermogen.   
 3.  Bij de vaststelling van het inkomen en vermogen van de rechtzoekende worden, behoudens het geval van onderling tegenstrijdige belangen, mede in aanmerking genomen het inkomen en vermogen van: 
 
@@ -726,7 +724,7 @@ h. het onderzoek door de accountant, bedoeld in [artikel 4:78 van de Algemene we
 
 a. [artikel 24, derde lid, van de Uitleveringswet](../../../../../../wet/uitleveringswet/BWBR0002559/README.md);  
 
-b. [artikel 100 van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).  
+b. [artikel 100 van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
 
 c. [artikel 65, eerste lid, van de Penitentiaire beginselenwet](../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);  
 

@@ -3,36 +3,36 @@
 ##Besluit van de minister van Buitenlandse Zaken van 2 juni 2010, nr. DSO/GA-265/10, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring van internationale maatschappelijke organisaties op het gebied van seksuele en reproductieve gezondheid en rechten (SRGR) en HIV/aids op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (Fonds Keuzes en Kansen 2011–2014)
 
 De minister van Buitenlandse Zaken,  
-Gelet op [artikel 6 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](../../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md),
+Gelet op [artikel 6 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](../../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md), 
 
-Gelet op [artikel 4.9 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md);
+Gelet op [artikel 4.9 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md); 
 Besluit:    
 
 ### Artikel  1  
 
-Voor subsidieverlening op grond van [artikel 4.9 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) met het oog op de financiering van internationale maatschappelijke organisaties op het gebied van seksuele en reproductieve gezondheid en rechten (SRGR) en HIV/aids in het kader van het Fonds Keuzes en Kansen gelden de als bijlage bij dit besluit gevoegde beleidsregels.  
+Voor subsidieverlening op grond van [artikel 4.9 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) met het oog op de financiering van internationale maatschappelijke organisaties op het gebied van seksuele en reproductieve gezondheid en rechten (SRGR) en HIV/aids in het kader van het Fonds Keuzes en Kansen gelden de als bijlage bij dit besluit gevoegde beleidsregels. 
 
 ### Artikel  2  
 
-Voor subsidieverlening in het kader van het Fonds Keuzes en Kansen geldt voor de periode 1 januari 2011 tot en met 31 december 2014 een subsidieplafond van € 40 miljoen.  
+Voor subsidieverlening in het kader van het Fonds Keuzes en Kansen geldt voor de periode 1 januari 2011 tot en met 31 december 2014 een subsidieplafond van € 40 miljoen. 
 
 ### Artikel  3  
 
-Aanvragen voor een subsidie in het kader van het Fonds Keuzes en Kansen voor activiteiten in het tijdvak vanaf 1 januari 2011 tot en met 31 december 2014 kunnen worden ingediend vanaf het moment van inwerkingtreding van dit besluit tot en met 2 augustus 2010.  
+Aanvragen voor een subsidie in het kader van het Fonds Keuzes en Kansen voor activiteiten in het tijdvak vanaf 1 januari 2011 tot en met 31 december 2014 kunnen worden ingediend vanaf het moment van inwerkingtreding van dit besluit tot en met 2 augustus 2010. 
 
 ### Artikel  4  
 
-De verdeling van het subsidieplafond vindt plaats op grond van een beoordeling overeenkomstig de maatstaven die in de bijlage bij dit besluit zijn neergelegd, met dien verstande dat uit alle aanvragen die voldoen aan de maatstaven, de aanvragen die het beste voldoen aan die maatstaven het eerst voor subsidieverlening in aanmerking komen, binnen het raam van een evenwichtige spreiding als bedoeld in [artikel 8, derde lid, sub d, van het Subsidiebesluit Ministerie van Buitenlandse Zaken](../../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md).  
+De verdeling van het subsidieplafond vindt plaats op grond van een beoordeling overeenkomstig de maatstaven die in de bijlage bij dit besluit zijn neergelegd, met dien verstande dat uit alle aanvragen die voldoen aan de maatstaven, de aanvragen die het beste voldoen aan die maatstaven het eerst voor subsidieverlening in aanmerking komen, binnen het raam van een evenwichtige spreiding als bedoeld in [artikel 8, derde lid, sub d, van het Subsidiebesluit Ministerie van Buitenlandse Zaken](../../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md). 
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het geplaatst wordt en vervalt met ingang van 1 januari 2015.  
+Dit besluit treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin het geplaatst wordt en vervalt met ingang van 1 januari 2015. 
 Dit besluit zal met de bijlage in de Staatscourant worden geplaatst.  
 
 De 
-minister van Buitenlandse Zaken,namens deze: de 
-Directeur-Generaal Internationale Samenwerking,
-J.M.G.Brandt  
+minister van Buitenlandse Zaken, namens deze: de 
+Directeur-Generaal Internationale Samenwerking, 
+J.M.G. Brandt    
 
 ### Bijlage  
 
@@ -40,7 +40,7 @@ J.M.G.Brandt
 
 ####Achtergrond
 
-Ter uitvoering van de beleidsnotitie ‘HIV/aids en seksuele en reproductieve gezondheid en rechten in het buitenlands beleid, Keuzes en Kansen’ wil de minister van Buitenlandse Zaken subsidies verstrekken aan internationale maatschappelijke organisaties die met betrekking tot een aantal Nederlandse prioritaire thema’s op het gebied van seksuele en reproductieve gezondheid en rechten (SRGR) en HIV/aids een strategische meerwaarde hebben. Dit betreft vooral het behalen van de doelstellingen van het Actieprogramma van de Internationale Conferentie over Bevolking en Ontwikkeling (1994), de zogeheten Cairo agenda en doelen voor universele toegang tot HIV/aids preventie, behandeling, zorg en ondersteuning. <sup> 1  Bijlage bij Kamerstukken II 2008/09, 31 250, nr. 45.  </sup> <sup> 2  Report of the International Conference on Population and Development, 1994.  </sup> <sup> 3  Politieke Verklaring VN over HIV/aids, 2006 (60/262).  </sup> Het Nederlandse beleid op het gebied van SRGR en HIV/aids is onlosmakelijk verbonden met twee te onderscheiden perspectieven: mensenrechten en preventie. Met de rechtenbenadering wordt aandacht gevraagd voor gender, discriminatie en ongelijke toegang tot preventie, behandeling en zorg, waardoor mensen de mogelijkheid wordt ontnomen op te komen voor hun recht op gezondheid. Nederland richt zich op die onderwerpen en die groepen die in veel landen nog steeds verwaarloosd worden als gevolg van genderongelijkheid, stigma en discriminatie. Het gaat om onderdelen van de Cairo agenda die onder vuur liggen, zoals het recht van jongeren op volledige informatie over seksualiteit en toegang tot voorbehoedsmiddelen en het recht van vrouwen en meisjes om gevrijwaard te zijn van seksueel geweld en ongewenste zwangerschap. Naast aandacht voor jongeren en vrouwen, is het Nederlandse beleid in het bijzonder gericht op gemarginaliseerde groepen die in grotere mate worden geconfronteerd met seksuele en reproductieve gezondheidsrisico’s, waaronder HIV en andere seksueel overdraagbare aandoeningen (soa’s). Het gaat om drugsgebruikers, sekswerkers, gevangenen, vluchtelingen, mannen die seks hebben met mannen en andere seksuele minderheden. Ook in fragiele staten is de problematiek ten aanzien van SRGR en HIV/aids vaak nijpend en de aanpak moeizaam. Om de doelen van het Nederlandse buitenlandbeleid uit te voeren wordt geïnvesteerd in beleidsvorming, versterking van het maatschappelijk middenveld en capaciteitsopbouw en wordt ingezet op dienstverlening, lobby en pleitbezorging, zowel op nationaal als op internationaal niveau. De Nederlandse inzet bestaat voornamelijk uit: 
+Ter uitvoering van de beleidsnotitie ‘HIV/aids en seksuele en reproductieve gezondheid en rechten in het buitenlands beleid, Keuzes en Kansen’<sup> 1 Bijlage bij Kamerstukken II 2008/09, 31 250, nr. 45. </sup>wil de minister van Buitenlandse Zaken subsidies verstrekken aan internationale maatschappelijke organisaties die met betrekking tot een aantal Nederlandse prioritaire thema’s op het gebied van seksuele en reproductieve gezondheid en rechten (SRGR) en HIV/aids een strategische meerwaarde hebben. Dit betreft vooral het behalen van de doelstellingen van het Actieprogramma van de Internationale Conferentie over Bevolking en Ontwikkeling (1994), de zogeheten Cairo agenda<sup> 2 Report of the International Conference on Population and Development, 1994. </sup>en doelen voor universele toegang tot HIV/aids preventie, behandeling, zorg en ondersteuning.<sup> 3 Politieke Verklaring VN over HIV/aids, 2006 (60/262). </sup>  Het Nederlandse beleid op het gebied van SRGR en HIV/aids is onlosmakelijk verbonden met twee te onderscheiden perspectieven: mensenrechten en preventie. Met de rechtenbenadering wordt aandacht gevraagd voor gender, discriminatie en ongelijke toegang tot preventie, behandeling en zorg, waardoor mensen de mogelijkheid wordt ontnomen op te komen voor hun recht op gezondheid. Nederland richt zich op die onderwerpen en die groepen die in veel landen nog steeds verwaarloosd worden als gevolg van genderongelijkheid, stigma en discriminatie. Het gaat om onderdelen van de Cairo agenda die onder vuur liggen, zoals het recht van jongeren op volledige informatie over seksualiteit en toegang tot voorbehoedsmiddelen en het recht van vrouwen en meisjes om gevrijwaard te zijn van seksueel geweld en ongewenste zwangerschap. Naast aandacht voor jongeren en vrouwen, is het Nederlandse beleid in het bijzonder gericht op gemarginaliseerde groepen die in grotere mate worden geconfronteerd met seksuele en reproductieve gezondheidsrisico’s, waaronder HIV en andere seksueel overdraagbare aandoeningen (soa’s). Het gaat om drugsgebruikers, sekswerkers, gevangenen, vluchtelingen, mannen die seks hebben met mannen en andere seksuele minderheden. Ook in fragiele staten is de problematiek ten aanzien van SRGR en HIV/aids vaak nijpend en de aanpak moeizaam. Om de doelen van het Nederlandse buitenlandbeleid uit te voeren wordt geïnvesteerd in beleidsvorming, versterking van het maatschappelijk middenveld en capaciteitsopbouw en wordt ingezet op dienstverlening, lobby en pleitbezorging, zowel op nationaal als op internationaal niveau. De Nederlandse inzet bestaat voornamelijk uit: 
 
 – Leveren van een bijdrage aan internationale pleitbezorging en beleidsvorming door deelname aan besturen van internationale organisaties, werkgroepen, internationale beleidsdialoog, politieke dialoog;  
 
@@ -52,13 +52,13 @@ Ter uitvoering van de beleidsnotitie ‘HIV/aids en seksuele en reproductieve ge
 
 – Samenwerking op het gebied van SRGR en HIV/aids met Nederlandse en internationale maatschappelijke organisaties, onderzoeksinstellingen en private ondernemingen;  
 
-– Verstrekken van financiële bijdragen aan gouvernementele en maatschappelijke organisaties op het gebied van SRGR en HIV/aids.    
+– Verstrekken van financiële bijdragen aan gouvernementele en maatschappelijke organisaties op het gebied van SRGR en HIV/aids.   
 
 ### II  
 
 ####Fonds Keuzes en Kansen
 
-Voor de periode 2011–2014 bestaat de mogelijkheid om een financiële bijdrage te verstrekken aan een beperkt aantal internationale maatschappelijke organisaties wier activiteiten een aantoonbare toegevoegde waarde hebben met betrekking tot Nederlandse prioritaire thema’s. In totaal is hiervoor voor de periode vanaf 1 januari 2011 tot en met 31 december 2014 € 40 miljoen beschikbaar. Een subsidie uit het Fonds Keuzes en Kansen (hierna aan te duiden als ‘Fonds’) zal niet meer bedragen dan 25% van de jaarlijkse totale inkomsten van de aanvragende organisatie.  
+Voor de periode 2011–2014 bestaat de mogelijkheid om een financiële bijdrage te verstrekken aan een beperkt aantal internationale maatschappelijke organisaties wier activiteiten een aantoonbare toegevoegde waarde hebben met betrekking tot Nederlandse prioritaire thema’s. In totaal is hiervoor voor de periode vanaf 1 januari 2011 tot en met 31 december 2014 € 40 miljoen beschikbaar. Een subsidie uit het Fonds Keuzes en Kansen (hierna aan te duiden als ‘Fonds’) zal niet meer bedragen dan 25% van de jaarlijkse totale inkomsten van de aanvragende organisatie. 
 
 ### III  
 
@@ -72,7 +72,7 @@ B. Bevorderen van integrale benadering van SRGR en HIV/aids in beleid, programme
 
 C. Vergroten van toegang tot preventie en gezondheidsfaciliteiten voor vrouwen, jongeren en gemarginaliseerde groepen.  
 
-D. Empowerment van vrouwen, jongeren en gemarginaliseerde groepen.   In aanvulling op de bepalingen van het [Subsidiebesluit Ministerie van Buitenlandse Zaken](../../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md) en de [Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) geldt gelet op het voorgaande daarom voor subsidieverstrekking in het kader van het Fonds het volgende.  
+D. Empowerment van vrouwen, jongeren en gemarginaliseerde groepen.   In aanvulling op de bepalingen van het [Subsidiebesluit Ministerie van Buitenlandse Zaken](../../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md) en de [Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) geldt gelet op het voorgaande daarom voor subsidieverstrekking in het kader van het Fonds het volgende. 
 
 ### IV  
 
@@ -82,7 +82,7 @@ D. Empowerment van vrouwen, jongeren en gemarginaliseerde groepen.   In aanvulli
 
 ####Internationale maatschappelijke organisaties:
 
-Onder internationale maatschappelijke organisaties wordt in het kader van deze beleidsregels verstaan: niet-Nederlandse maatschappelijke organisaties zonder winstoogmerk die werkzaam zijn in en/of voor ontwikkelingslanden . De organisatie bezit rechtspersoonlijkheid, is niet in Nederland, noch naar Nederlands recht opgericht en niet statutair in Nederland gevestigd (het hoofdkantoor dient dus elders dan in Nederland te zijn gevestigd). <sup> 4  Zie OESO-DAC lijst Official Development Assistance (ODA) ontvangende landen.  </sup>  
+Onder internationale maatschappelijke organisaties wordt in het kader van deze beleidsregels verstaan: niet-Nederlandse maatschappelijke organisaties zonder winstoogmerk die werkzaam zijn in en/of voor ontwikkelingslanden<sup> 4 Zie OESO-DAC lijst Official Development Assistance (ODA) ontvangende landen. </sup>. De organisatie bezit rechtspersoonlijkheid, is niet in Nederland, noch naar Nederlands recht opgericht en niet statutair in Nederland gevestigd (het hoofdkantoor dient dus elders dan in Nederland te zijn gevestigd). 
 
 ### B  
 
@@ -94,7 +94,7 @@ Onder internationale maatschappelijke organisaties wordt in het kader van deze b
 
 3. Lokale maatschappelijke organisaties;  
 
-4. Organisaties die op het moment van de aanvraag rechtstreeks een subsidie ten laste van de begroting van het Ministerie van Buitenlandse Zaken ontvangen, ten behoeve van activiteiten die zullen plaatsvinden in de periode tussen 1 januari 2011 en 31 december 2014. <sup> 5  Het gaat dus om organisaties die in de periode 2011–2014 *subsidie* ontvangen van het Ministerie van Buitenlandse Zaken. Niet onder de uitsluiting vallen internationale maatschappelijke organisaties gevestigd buiten de EU aan welke namens de minister van Buitenlandse Zaken of de minister voor Ontwikkelingssamenwerking door Nederlandse vertegenwoordigingen buiten de EU financiële middelen worden verstrekt op basis van privaatrechtelijke bijdrageovereenkomsten.  </sup>    
+4. Organisaties die op het moment van de aanvraag rechtstreeks een subsidie ten laste van de begroting van het Ministerie van Buitenlandse Zaken ontvangen, ten behoeve van activiteiten die zullen plaatsvinden in de periode tussen 1 januari 2011 en 31 december 2014.<sup> 5 Het gaat dus om organisaties die in de periode 2011–2014 *subsidie* ontvangen van het Ministerie van Buitenlandse Zaken. Niet onder de uitsluiting vallen internationale maatschappelijke organisaties gevestigd buiten de EU aan welke namens de minister van Buitenlandse Zaken of de minister voor Ontwikkelingssamenwerking door Nederlandse vertegenwoordigingen buiten de EU financiële middelen worden verstrekt op basis van privaatrechtelijke bijdrageovereenkomsten. </sup>    
 
 ### C  
 
@@ -132,13 +132,13 @@ a. Bieden van een breed pakket van maatregelen voor harm reduction ten behoeve v
 
 b. Ontwikkelen van harm reduction strategieën en programma’s in samenwerking met vertegenwoordigers van de doelgroepen (drugsgebruikers, hun partners, sekswerkers, gevangenen, kinderen die op straat leven en werken).  
 
-c. Inzetten op capaciteitsopbouw, lobby en pleitbezorging ter bescherming en bevordering van de rechten van gemarginaliseerde groepen.      
+c. Inzetten op capaciteitsopbouw, lobby en pleitbezorging ter bescherming en bevordering van de rechten van gemarginaliseerde groepen.     
 
 ### V  
 
 ####Verdeling middelen
 
-Om voor subsidie in het kader van het Fonds in aanmerking te komen zal allereerst aan een aantal drempelcriteria moeten worden voldaan (zie hierna de paragrafen VI en VII) en zal in voldoende mate moeten worden voldaan aan de beoordelingscriteria (opgenomen in de paragrafen VIII en IX). Als de beschikbare middelen niet toereikend zijn om alle aanvragen die als voldoende zijn beoordeeld volledig te honoreren, zal de verdeling van de middelen over deze aanvragen plaatsvinden aan de hand van een rangschikking van de aanvragen volgens de maatstaven die in deze beleidsregels zijn neergelegd. Daarbij wordt ernaar gestreefd de subsidiegelden zodanig te verdelen over de aanvragen, dat in elk van de bij paragraaf IV.C genoemde thema’s wordt voorzien. Het streven is ook om per thema één organisatie te financieren. Indien de kwaliteit van alle aanvragen die betrekking hebben op een zelfde thema als onvoldoende wordt beoordeeld volgens de in deze beleidsregel neergelegde maatstaven, vindt verdeling van de subsidiegelden plaats over de aanvragen die betrekking hebben op de overige thema’s, voor zover zij wel in voldoende mate aan de criteria voldoen. In dat geval is het mogelijk dat op één of meerdere thema’s meerdere organisaties in aanmerking komen voor een subsidie uit het Fonds. De kwaliteit van de aanvragen tezamen in relatie tot de met de subsidieverlening te behalen doelen kan er in het licht van [artikel 8 Subsidiebesluit BZ](../../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md) toe leiden dat de beschikbare financiële middelen niet evenredig worden verdeeld over de aanvragen die in aanmerking komen voor subsidie in het kader van het Fonds. In aanvulling op de bepalingen van het [Subsidiebesluit Ministerie van Buitenlandse Zaken](../../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md) en de [Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) gelden gelet op het voorgaande de volgende criteria.  
+Om voor subsidie in het kader van het Fonds in aanmerking te komen zal allereerst aan een aantal drempelcriteria moeten worden voldaan (zie hierna de paragrafen VI en VII) en zal in voldoende mate moeten worden voldaan aan de beoordelingscriteria (opgenomen in de paragrafen VIII en IX). Als de beschikbare middelen niet toereikend zijn om alle aanvragen die als voldoende zijn beoordeeld volledig te honoreren, zal de verdeling van de middelen over deze aanvragen plaatsvinden aan de hand van een rangschikking van de aanvragen volgens de maatstaven die in deze beleidsregels zijn neergelegd. Daarbij wordt ernaar gestreefd de subsidiegelden zodanig te verdelen over de aanvragen, dat in elk van de bij paragraaf IV.C genoemde thema’s wordt voorzien. Het streven is ook om per thema één organisatie te financieren. Indien de kwaliteit van alle aanvragen die betrekking hebben op een zelfde thema als onvoldoende wordt beoordeeld volgens de in deze beleidsregel neergelegde maatstaven, vindt verdeling van de subsidiegelden plaats over de aanvragen die betrekking hebben op de overige thema’s, voor zover zij wel in voldoende mate aan de criteria voldoen. In dat geval is het mogelijk dat op één of meerdere thema’s meerdere organisaties in aanmerking komen voor een subsidie uit het Fonds. De kwaliteit van de aanvragen tezamen in relatie tot de met de subsidieverlening te behalen doelen kan er in het licht van [artikel 8 Subsidiebesluit BZ](../../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md) toe leiden dat de beschikbare financiële middelen niet evenredig worden verdeeld over de aanvragen die in aanmerking komen voor subsidie in het kader van het Fonds. In aanvulling op de bepalingen van het [Subsidiebesluit Ministerie van Buitenlandse Zaken](../../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md) en de [Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) gelden gelet op het voorgaande de volgende criteria. 
 
 ### VI  
 
@@ -150,7 +150,7 @@ Om voor subsidie in het kader van het Fonds in aanmerking te komen zal allereers
 
 3. De organisatie ondersteunt maatschappelijke organisaties en/of overheidsinstanties in ontwikkelingslanden en heeft tot doel lokale capaciteit te bevorderen.  
 
-4. De organisatie heeft een gezond financieel beleid en beheer en doelmatige inzet van middelen, conform internationale standaarden.   Indien een aanvraag niet voldoet aan één of meer van deze criteria, wordt deze aanvraag afgewezen.  
+4. De organisatie heeft een gezond financieel beleid en beheer en doelmatige inzet van middelen, conform internationale standaarden.   Indien een aanvraag niet voldoet aan één of meer van deze criteria, wordt deze aanvraag afgewezen. 
 
 ### VII  
 
@@ -166,7 +166,7 @@ Om voor subsidie in het kader van het Fonds in aanmerking te komen zal allereers
 
 5. Een subsidieaanvraag bedraagt ten minste € 1 miljoen per jaar en ten hoogste € 3 miljoen per jaar.  
 
-6. Een subsidieaanvraag uit het Fonds bedraagt niet meer dan 25% van de jaarlijkse inkomsten van de aanvragende organisatie. Indien een subsidieaanvraag wordt ingediend door de penvoerder van een samenwerkingsverband en de activiteiten van de aanvraag in hoofdzaak betrekking hebben op het thema harm reduction, bedraagt de subsidieaanvraag niet meer dan 25% van de jaarlijkse inkomsten van de penvoerder en de in het samenwerkingsverband deelnemende organisaties tezamen.   Indien een aanvraag niet voldoet aan één of meer van deze criteria, wordt deze aanvraag afgewezen.  
+6. Een subsidieaanvraag uit het Fonds bedraagt niet meer dan 25% van de jaarlijkse inkomsten van de aanvragende organisatie. Indien een subsidieaanvraag wordt ingediend door de penvoerder van een samenwerkingsverband en de activiteiten van de aanvraag in hoofdzaak betrekking hebben op het thema harm reduction, bedraagt de subsidieaanvraag niet meer dan 25% van de jaarlijkse inkomsten van de penvoerder en de in het samenwerkingsverband deelnemende organisaties tezamen.   Indien een aanvraag niet voldoet aan één of meer van deze criteria, wordt deze aanvraag afgewezen. 
 
 ### VIII  
 
@@ -186,7 +186,7 @@ Om voor subsidie in het kader van het Fonds in aanmerking te komen zal allereers
 
 7. De organisatie draagt aantoonbaar bij aan vernieuwing op het betreffende thema.  
 
-8. De wijze waarop de organisatie gestalte geeft aan de bewaking van voortgang en kwaliteit van beleid en programma’s: lerende organisatie.   Betrokken wordt het track record van de organisatie inzake de hierboven genoemde punten.  
+8. De wijze waarop de organisatie gestalte geeft aan de bewaking van voortgang en kwaliteit van beleid en programma’s: lerende organisatie.   Betrokken wordt het track record van de organisatie inzake de hierboven genoemde punten. 
 
 ### IX  
 
@@ -204,13 +204,13 @@ Om voor subsidie in het kader van het Fonds in aanmerking te komen zal allereers
 
 6. De mate waarin en de wijze waarop de voorgenomen werkzaamheden innovatief zijn.  
 
-7. De wijze waarop en de mate waarin de activiteiten duurzaamheid bevorderen.    
+7. De wijze waarop en de mate waarin de activiteiten duurzaamheid bevorderen.   
 
 ### X  
 
 ####Procedure en informatie
 
-Aanvragen voor een subsidie in het kader van het Fonds dienen uiterlijk op 2 augustus 2010 *schriftelijk te zijn ontvangen* op het Ministerie van Buitenlandse Zaken, Directie Sociale Ontwikkeling/Afdeling Gezondheid en Aids, Postbus 20061, 2500 EB Den Haag, Nederland. Bij voorkeur wordt de aanvraag ook op Cd-rom ingediend. De minister zal besluiten over de ingediende aanvragen uiterlijk op 1 november 2010. Het subsidieverleningtijdvak van verleende subsidies gaat in met ingang van 1 januari 2011. Voor informatie over dit subsidiekader kan contact worden opgenomen met de Directie Sociale Ontwikkeling, Afdeling Gezondheid en Aids, dso-ga@minbuza.nl, telefoon +31(0)70 348 4665.  
+Aanvragen voor een subsidie in het kader van het Fonds dienen uiterlijk op 2 augustus 2010 *schriftelijk te zijn ontvangen* op het Ministerie van Buitenlandse Zaken, Directie Sociale Ontwikkeling/Afdeling Gezondheid en Aids, Postbus 20061, 2500 EB Den Haag, Nederland. Bij voorkeur wordt de aanvraag ook op Cd-rom ingediend. De minister zal besluiten over de ingediende aanvragen uiterlijk op 1 november 2010. Het subsidieverleningtijdvak van verleende subsidies gaat in met ingang van 1 januari 2011. Voor informatie over dit subsidiekader kan contact worden opgenomen met de Directie Sociale Ontwikkeling, Afdeling Gezondheid en Aids, dso-ga@minbuza.nl, telefoon +31(0)70 348 4665. 
 
 ### XI  
 
@@ -236,5 +236,5 @@ Aanvragen voor een subsidie in het kader van het Fonds dienen uiterlijk op 2 au
 
 10. Financiële raming, voor de periode waarop de aanvraag betrekking heeft uitgezonderd de periode waarop de begroting behorend bij het activiteitenplan reeds betrekking heeft;  
 
-11. Indien beschikbaar de certificering van het kwaliteitsmanagementsysteem, bijvoorbeeld ISO.   Voor de voorwaarden waaraan een activiteitenplan, de begroting en een liquiditeitsprognose moeten voldoen, wordt verwezen naar de [artikelen 25 tot en met 27 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](../../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md).  
+11. Indien beschikbaar de certificering van het kwaliteitsmanagementsysteem, bijvoorbeeld ISO.   Voor de voorwaarden waaraan een activiteitenplan, de begroting en een liquiditeitsprognose moeten voldoen, wordt verwezen naar de [artikelen 25 tot en met 27 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](../../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md). 
 
