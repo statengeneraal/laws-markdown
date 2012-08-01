@@ -184,7 +184,7 @@ e. vrijgesteld van het profielwerkstuk, indien reeds eerder een profielwerkstuk 
 
 f. vrijgesteld van het sectorwerkstuk, indien reeds eerder een sectorwerkstuk is gemaakt dat betrekking heeft op een thema uit die sector, en dat is beoordeeld als «voldoende» of «goed».     
 2.  Het eerste lid is uitsluitend van toepassing indien na het jaar waarin het eindcijfer of de beoordeling is vastgesteld, nog geen 10 jaren zijn verstreken.   
-3.  In aanvulling op het eerste lid, onder a tot en met d, is de daar bedoelde kandidaat eveneens vrijgesteld indien het eindcijfer 5 of 4 is behaald, mits de kandidaat voldoet aan de voorwaarden van artikel 37 om te slagen voor het eindexamen.   
+3.  In aanvulling op het eerste lid, onder a tot en met d, is de daar bedoelde kandidaat eveneens vrijgesteld indien het eindcijfer 5 of 4 is behaald, mits de kandidaat voldoet aan de voorwaarden van artikel 37 of artikel 37a om te slagen voor het eindexamen.   
 4.  Bij ministeriële regeling kunnen nadere voorschriften worden gegeven voor de toepassing van het eerste lid.   
 5.  Bij de toepassing van dit artikel wordt ten hoogste één cijferlijst, die is uitgereikt aan een school voor voortgezet onderwijs, betrokken.   
 
@@ -458,7 +458,7 @@ c. het College voor examens deelt het door de kandidaat behaalde cijfer voor het
 
 1.  In afwijking van artikel 25, tweede lid, kan het bevoegd gezag een leerling uit het voorlaatste leerjaar toelaten tot het centraal examen in één of meer vakken, niet zijnde alle vakken van het eindexamen.   
 2.  Indien toepassing wordt gegeven aan het eerste lid, wordt het schoolexamen in dat vak of die vakken afgesloten voor aanvang van het eerste tijdvak in dat leerjaar.   
-3.  Artikel 37, negende lid, is van overeenkomstige toepassing.   
+3.  Artikel 37, vierde lid, en artikel 37a, vijfde lid, zijn van overeenkomstige toepassing.   
 4.  Indien toepassing wordt gegeven aan het eerste lid, wordt het derde tijdvak aansluitend aan het voorlaatste leerjaar afgenomen door het College voor examens.   
 
 ### Artikel  27  
@@ -536,14 +536,14 @@ Indien door onvoorziene omstandigheden het centraal examen in één of meer vakk
 ####Eindcijfer eindexamen
 
 1.  Het eindcijfer voor alle vakken van het eindexamen wordt uitgedrukt in een geheel cijfer uit de reeks 1 tot en met 10.   
-2.  De directeur bepaalt het eindcijfer op het rekenkundig gemiddelde van het cijfer voor het schoolexamen en het cijfer voor het centraal examen. Voor de vakken van de basisberoepsgerichte leerweg als bedoeld in [artikel 18 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md) en een vak dat op grond van artikel 15, tweede lid, onderdeel kan zijn van de basisberoepsgerichte leerweg geldt in afwijking van de eerste volzin dat voor de bepaling van het eindcijfer, het cijfer voor het schoolexamen tweemaal wordt meegerekend, en het cijfer voor het centraal examen éénmaal. Indien de uitkomst van de berekening, bedoeld in de eerste of tweede volzin, niet een geheel getal is, wordt dat getal indien het eerste cijfer achter de komma een 4 of lager is, naar beneden afgerond en indien dat cijfer een 5 of hoger is, naar boven afgerond.   
+2.  De directeur bepaalt het eindcijfer op het rekenkundig gemiddelde van het cijfer voor het schoolexamen en het cijfer voor het centraal examen. Indien de uitkomst van de berekening niet een geheel getal is, wordt dat getal indien het eerste cijfer achter de komma een 4 of lager is, naar beneden afgerond en indien dat cijfer een 5 of hoger is, naar boven afgerond.   
 3.  Indien in een vak alleen een schoolexamen is gehouden is het cijfer voor het schoolexamen tevens het eindcijfer.   
 
 ### Artikel  36  
 
 ####Vaststelling uitslag
 
-1.  De directeur en de secretaris van het eindexamen stellen in geval van een eindexamen de uitslag vast met inachtneming van artikel 37, en voor zover van toepassing artikel 40.   
+1.  De directeur en de secretaris van het eindexamen stellen in geval van een eindexamen de uitslag vast met inachtneming van artikel 37 of artikel 37a, en voor zover van toepassing artikel 40.   
 2.  De uitslag luidt «geslaagd» of «afgewezen».   
 3.  Indien dat nodig is om de kandidaat te laten slagen betrekken de directeur en de secretaris van het eindexamen een of meer eindcijfers van de vakken niet bij de bepaling van de definitieve uitslag. De overgebleven vakken dienen een eindexamen te vormen.   
 4.  Met het afleggen van het eindexamen in enig jaar aan een instelling voor educatie en beroepsonderwijs wordt gelijkgesteld het in dat jaar afleggen van examen in een of meer vakken aan die instelling met het oogmerk, in dat jaar het diploma te behalen door de combinatie met het overleggen door de desbetreffende kandidaat aan de examencommissie vavo van: 
@@ -562,51 +562,68 @@ d. een of meer bewijzen van ontheffing als bedoeld in artikel 9, vierde lid, van
 
 ### Artikel  37  
 
-####Uitslag
+####Uitslag eindexamen leerwegen vmbo
 
-1.  De kandidaat die eindexamen vmbo heeft afgelegd, is geslaagd indien hij: 
+1.  De kandidaat die het eindexamen van een leerweg in het vmbo heeft afgelegd, is geslaagd indien: 
 
-a. voor ten hoogste één van zijn examenvakken het eindcijfer 5 heeft behaald en voor zijn overige examenvakken een 6 of hoger, of  
+a. het rekenkundig gemiddelde van zijn bij het centraal examen behaalde cijfers ten minste 5,5 is;  
 
-b. voor ten hoogste één van zijn examenvakken het eindcijfer 4 heeft behaald en voor zijn overige examenvakken een 6 of hoger waarvan ten minste één 7 of hoger, of  
+b. hij: 
 
-c. voor twee van zijn examenvakken het eindcijfer 5 heeft behaald en voor zijn overige examenvakken een 6 of hoger waarvan ten minste één 7 of hoger.     
-2.  Voor de toepassing van het eerste lid, onderdelen a, b en c, wordt het eindcijfer van het afdelingsvak of het intrasectorale of intersectorale programma in de basisberoepsgerichte en de kaderberoepsgerichte leerweg meegerekend als twee eindcijfers.   
-3.  In aanvulling op het eerste lid geldt tevens dat voor de vakken lichamelijke opvoeding en het kunstvak uit het gemeenschappelijk deel en in de gemengde en de theoretische leerweg voor het sectorwerkstuk de kwalificatie «voldoende» of «goed» is behaald.   
-4.  In afwijking van het eerste en derde lid, is de kandidaat die eindexamen vmbo heeft afgelegd ter afsluiting van een leerwerktraject als bedoeld in [artikel 19 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md), geslaagd indien hij zowel voor het vak Nederlandse taal als voor het beroepsgerichte programma het eindcijfer 6 of hoger heeft behaald. Indien de vakken waarin examen is afgelegd, tezamen een eindexamen vormen van de basisberoepsgerichte leerweg, bedoeld in [artikel 18 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md), zijn het eerste tot en met derde lid van overeenkomstige toepassing.   
-5.  De kandidaat die eindexamen vwo of havo heeft afgelegd, is geslaagd: 
+1°. voor één van zijn vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 5 of meer en voor de overige vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 6 of meer heeft behaald;  
 
-a. indien hij: 
+2°. voor één van zijn vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 4 en voor de overige vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 6 of meer waarvan ten minste één 7 of meer heeft behaald; of  
 
-1°. voor al zijn vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 6 of meer heeft behaald,  
+3°. voor twee van zijn vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 5 heeft behaald en voor de overige vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 6 of meer waarvan ten minste één 7 of meer heeft behaald;    
 
-2°. voor één van zijn vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 5 en voor de overige vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 6 of meer heeft behaald,  
+c. hij voor de vakken lichamelijke opvoeding en het kunstvak uit het gemeenschappelijk deel de kwalificatie «voldoende» of «goed» heeft behaald; en  
 
-3°. voor één van zijn vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 4 en voor de overige vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 6 of meer heeft behaald, en het gemiddelde van de eindcijfers ten minste 6,0 bedraagt, dan wel  
+d. als het een eindexamen gemengde of theoretische leerweg betreft: hij voor het sectorwerkstuk de kwalificatie «voldoende» of «goed» heeft behaald.     
+2.  Voor de toepassing van het eerste lid, onderdeel b, wordt het eindcijfer van het afdelingsvak of het intrasectorale of intersectorale programma in de basisberoepsgerichte en de kaderberoepsgerichte leerweg meegerekend als twee eindcijfers.   
+3.  In afwijking van het eerste lid, is de kandidaat die eindexamen van een leerweg in het vmbo heeft afgelegd ter afsluiting van een leerwerktraject als bedoeld in [artikel 19 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md) geslaagd indien hij voor het beroepsgerichte programma ten minste het eindcijfer 6 en voor het vak Nederlandse taal ten minste het eindcijfer 5 heeft behaald. Indien de vakken waarin examen is afgelegd, tezamen een eindexamen vormen van de basisberoepsgerichte leerweg, bedoeld in [artikel 18 van de wet](../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md), zijn het eerste en tweede lid van overeenkomstige toepassing.   
+4.  Zodra de eindcijfers en indien mogelijk de uitslag zijn vastgesteld, maakt de directeur deze schriftelijk aan de kandidaat bekend, onder mededeling van het in artikel 38 bepaalde. De uitslag is de definitieve uitslag indien artikel 38, eerste lid, geen toepassing vindt.   
 
-4°. voor twee van zijn vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 5 heeft behaald dan wel voor één van de vakken waarvoor een eindcijfer is vastgesteld als eindcijfer 4 en voor één van deze vakken als eindcijfer 5 heeft behaald, en voor de overige vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 6 of meer heeft behaald, en het gemiddelde van de eindcijfers ten minste 6,0 bedraagt,    
+### Artikel  37a  
 
-b. indien geen van de eindcijfers van onderdelen, genoemd in het zesde lid, lager is dan 4, en  
+####Uitslag eindexamen vwo en havo
 
-c. indien de vakken culturele en kunstzinnige vorming en lichamelijke opvoeding van het gemeenschappelijk deel van elk profiel, zijn beoordeeld als «voldoende» of «goed».     
-6.  Bij de uitslagbepaling volgens het vijfde lid wordt het gemiddelde van de eindcijfers van ten minste de volgende onderdelen aangemerkt als het eindcijfer van één vak, voor zover voor deze onderdelen een eindcijfer is bepaald: maatschappijleer en het profielwerkstuk en voor vwo ook algemene natuurwetenschappen. Het bevoegd gezag kan daaraan toevoegen: 
+1.  De kandidaat die eindexamen vwo of havo heeft afgelegd, is geslaagd indien: 
 
-a. literatuur, als onderdeel van alle afzonderlijke moderne talen, met dien verstande dat indien het bevoegd gezag daartoe niet besluit, literatuur voor de bepaling van de eindcijfers een onderdeel is van het schoolexamen van de desbetreffende taal en literatuur,  
+a. het rekenkundig gemiddelde van zijn bij het centraal examen behaalde cijfers ten minste 5,5 is;  
 
-b. klassieke culturele vorming, met dien verstande dat indien het bevoegd gezag daartoe niet besluit, klassieke culturele vorming voor de bepaling van de eindcijfers een onderdeel is van het schoolexamen van Latijnse taal en literatuur en Griekse taal en literatuur,  
+b. hij voor één van de vakken Nederlandse taal en literatuur, Engelse taal en literatuur en voor zover van toepassing wiskunde A, wiskunde B of wiskunde C als eindcijfer 5 of meer heeft behaald en hij voor het andere vak dan wel vakken, genoemd in dit subonderdeel als eindcijfer 6 of meer heeft behaald;  
 
-c. algemene natuurwetenschappen in het havo,  
+c. hij onverminderd onderdeel b: 
+
+1°. voor één van zijn vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 5 of meer en voor de overige vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 6 of meer heeft behaald;  
+
+2°. voor één van zijn vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 4 en voor de overige vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 6 of meer heeft behaald, en het gemiddelde van de eindcijfers ten minste 6,0 bedraagt;  
+
+3°. voor twee van zijn vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 5 heeft behaald en voor de overige vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 6 of meer heeft behaald, en het gemiddelde van de eindcijfers ten minste 6,0 bedraagt; of  
+
+4°. voor één van de vakken waarvoor een eindcijfer is vastgesteld als eindcijfer 4 en voor één van deze vakken als eindcijfer 5 heeft behaald en voor de overige vakken waarvoor een eindcijfer is vastgesteld, als eindcijfer 6 of meer heeft behaald, en het gemiddelde van de eindcijfers ten minste 6,0 bedraagt;    
+
+d. hij voor geen van de onderdelen, genoemd in het tweede lid, lager dan het eindcijfer 4 heeft behaald; en  
+
+e. hij voor de vakken culturele en kunstzinnige vorming en lichamelijke opvoeding van het gemeenschappelijk deel van elk profiel de kwalificatie «voldoende» of «goed» heeft behaald.     
+2.  Bij de uitslagbepaling volgens het eerste lid, wordt het gemiddelde van de eindcijfers van ten minste de volgende onderdelen aangemerkt als het eindcijfer van één vak, voor zover voor deze onderdelen een eindcijfer is bepaald: maatschappijleer en het profielwerkstuk en voor vwo ook algemene natuurwetenschappen. Het bevoegd gezag kan daaraan toevoegen: 
+
+a. literatuur, als onderdeel van alle afzonderlijke moderne talen, met dien verstande dat indien het bevoegd gezag daartoe niet besluit, literatuur voor de bepaling van de eindcijfers een onderdeel is van het schoolexamen van de desbetreffende taal en literatuur;  
+
+b. klassieke culturele vorming, met dien verstande dat indien het bevoegd gezag daartoe niet besluit, klassieke culturele vorming voor de bepaling van de eindcijfers een onderdeel is van het schoolexamen van Latijnse taal en literatuur en Griekse taal en literatuur;  
+
+c. algemene natuurwetenschappen in het havo;  
 
 d. bij bijzondere scholen: godsdienst of levensbeschouwelijk vormingsonderwijs, met dien verstande dat indien het bevoegd gezag daartoe niet besluit, godsdienst of levensbeschouwelijk vormingsonderwijs geen onderdeel is van het eindexamen, tenzij Onze Minister daarvoor goedkeuring heeft verleend met toepassing van artikel 11, eerste lid, onder c, artikel 12, eerste lid, onder c, of artikel 13, eerste lid, onder c.     
-7.  Indien het bevoegd gezag toepassing geeft aan de tweede volzin van het zesde lid, wordt in het examenreglement, bedoeld in artikel 18, vermeld welk onderdeel of welke onderdelen worden toegevoegd.   
-8.  De directeur bepaalt het eindcijfer, bedoeld in het zesde lid, als het rekenkundig gemiddelde van de eindcijfers van de samenstellende onderdelen. Indien de uitkomst van deze berekening niet een geheel getal is, wordt dat getal indien het eerste cijfer achter de komma een 4 of lager is, naar beneden afgerond en indien dat cijfer een 5 of hoger is, naar boven afgerond.   
-9.  Zodra de eindcijfers en indien mogelijk de uitslag is vastgesteld, maakt de directeur deze schriftelijk aan iedere kandidaat bekend, onder mededeling van het in artikel 38 bepaalde. De uitslag is de definitieve uitslag indien artikel 38, eerste lid, geen toepassing vindt.   
+3.  Indien het bevoegd gezag toepassing geeft aan de tweede volzin van het tweede lid, wordt in het examenreglement, bedoeld in artikel 18, vermeld welk onderdeel of welke onderdelen worden toegevoegd.   
+4.  De directeur bepaalt het eindcijfer, bedoeld in het tweede lid, als het rekenkundig gemiddelde van de eindcijfers van de samenstellende onderdelen. Indien de uitkomst van deze berekening niet een geheel getal is, wordt dat getal indien het eerste cijfer achter de komma een 4 of lager is, naar beneden afgerond en indien dat cijfer een 5 of hoger is, naar boven afgerond.   
+5.  Zodra de eindcijfers en indien mogelijk de uitslag zijn vastgesteld, maakt de directeur deze schriftelijk aan de kandidaat bekend, onder mededeling van het in artikel 38 bepaalde. De uitslag is de definitieve uitslag indien artikel 38, eerste lid, geen toepassing vindt.   
 
 ### Artikel  38  
 
 ####Herkansing centraal examen
 
-1.  De kandidaat heeft voor één vak van het eindexamen waarin hij reeds centraal examen heeft afgelegd, nadat ingevolge artikel 37, negende lid, de eindcijfers zijn bekendgemaakt, het recht om in het tweede tijdvak of, indien artikel 34, eerste lid, van toepassing is, in het derde tijdvak, opnieuw deel te nemen aan het centraal examen of aan het cspe, met dien verstande dat indien het betreft het eindexamen van de basis- of kaderberoepsgerichte leerweg in het vmbo, dit recht eveneens bestaat voor het cspe af te nemen door het bevoegd gezag aansluitend aan het eerste tijdvak of in het tweede tijdvak. De herkansing van het cspe bestaat uit het opnieuw afleggen van deze toets of van één of meer onderdelen daarvan.   
+1.  De kandidaat heeft voor één vak van het eindexamen waarin hij reeds centraal examen heeft afgelegd, nadat ingevolge artikel 37, vierde lid, of artikel 37a, vijfde lid, de eindcijfers zijn bekendgemaakt, het recht om in het tweede tijdvak of, indien artikel 34, eerste lid, van toepassing is, in het derde tijdvak, opnieuw deel te nemen aan het centraal examen of aan het cspe, met dien verstande dat indien het betreft het eindexamen van de basis- of kaderberoepsgerichte leerweg in het vmbo, dit recht eveneens bestaat voor het cspe af te nemen door het bevoegd gezag aansluitend aan het eerste tijdvak of in het tweede tijdvak. De herkansing van het cspe bestaat uit het opnieuw afleggen van deze toets of van één of meer onderdelen daarvan.   
 2.  De kandidaat stelt de directeur voor een door deze laatste te bepalen dag en tijdstip schriftelijk in kennis van gebruikmaking van het in het eerste lid bedoelde recht.   
 3.  Het hoogste van de cijfers behaald bij de herkansing en bij het eerder afgelegde centraal examen geldt als definitief cijfer voor het centraal examen.   
 4.  Na afloop van de herkansing in het laatste leerjaar wordt de uitslag definitief vastgesteld met overeenkomstige toepassing van artikel 36 en wordt deze schriftelijk aan de kandidaat bekendgemaakt.   
@@ -631,7 +648,7 @@ e. de beoordeling van het kunstvak en het vak lichamelijke opvoeding uit het gem
 
 f. volgens welke differentiatie, bedoeld in artikel 6, derde lid, is geëxamineerd,  
 
-g. de eindcijfers voor de examenvakken met inbegrip van het cijfer bepaald op grond van artikel 37, vierde lid, en  
+g. de eindcijfers voor de examenvakken met inbegrip van het cijfer bepaald op grond van artikel 37, derde lid, en  
 
 h. de uitslag van het eindexamen.     
 2.  De directeur reikt op grond van de definitieve uitslag aan elke voor het eindexamen geslaagde kandidaat, daaronder mede begrepen de kandidaat die zijn eindexamen met gunstig gevolg heeft voltooid ten overstaan van het College voor examens, een diploma uit, waarop het profiel of de profielen zijn vermeld die bij de uitslag zijn betrokken. Op het dipoma vmbo is in elk geval de leerweg vermeld die bij de uitslag is betrokken.   
@@ -699,7 +716,7 @@ b. voor het vwo en havo het vak of de vakken en het onderwerp of de titel van he
 
 c. voor het vmbo het thema alsmede de beoordeling van het sectorwerkstuk, en  
 
-d. de eindcijfers voor de examenvakken met inbegrip van het cijfer, bepaald op grond van artikel 37, vierde lid.     
+d. de eindcijfers voor de examenvakken met inbegrip van het cijfer, bepaald op grond van artikel 37, derde lid.     
 2.  De examencommissie vavo reikt aan de in het eerste lid bedoelde kandidaat, alsmede aan de kandidaat aan wie op grond van de definitieve uitslag niet op grond van 39, tweede lid, een diploma kan worden uitgereikt, een certificaat uit, waarop zijn vermeld, voor zover van toepassing: 
 
 a. het vak of de vakken waarvoor de kandidaat een eindcijfer 6 of meer heeft behaald,  
@@ -789,7 +806,7 @@ Ten behoeve van experimenten met een andere inrichting van het eindexamen kan On
 2.  Het bevoegd gezag geeft zijn in het eerste lid bedoelde toestemming uiterlijk voor de aanvang van het eerste tijdvak van het centraal examen. In bijzondere gevallen kan het bevoegd gezag afwijken van de eerste volzin ten behoeve van een kandidaat die nog niet in alle betrokken eindexamenvakken centraal examen heeft afgelegd.   
 3.  Artikel 38, eerste tot en met vierde lid, is ten aanzien van de kandidaat van toepassing in het eerste en in het tweede schooljaar van het gespreid centraal examen, met dien verstande dat het in dat artikel bedoelde recht in het eerste schooljaar ontstaat nadat de eindcijfers van de vakken waarvoor in het eerste schooljaar het centraal examen is afgesloten, voor de eerste maal zijn vastgesteld.   
 4.  Zo spoedig mogelijk na de vaststelling van de eindcijfers, behaald tot en met het eerste schooljaar van het gespreid centraal examen, zendt het bevoegd gezag aan Onze Minister een opgave waarop voor die kandidaat zijn vermeld de gegevens, genoemd in artikel 44, onderdelen a tot en met e.   
-5.  De directeur en de secretaris stellen op verzoek van de kandidaat de uitslag van het eindexamen reeds vast aan het einde van het eerste schooljaar van het gespreid centraal examen of het gespreid schoolexamen, met overeenkomstige toepassing van artikel 37.   
+5.  De directeur en de secretaris stellen op verzoek van de kandidaat de uitslag van het eindexamen reeds vast aan het einde van het eerste schooljaar van het gespreid centraal examen of het gespreid schoolexamen, met overeenkomstige toepassing van artikel 37 of artikel 37a.   
 
 ### Hoofdstuk  VII  
 

@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 13 september 2007, nr: PO/B&B/2007 29983, houdende regels omtrent structurele gegevenslevering in het primair onderwijs (Regeling structurele gegevenslevering WPO/WEC)
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
-Gelet op [artikel 178a, derde lid, van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 164a, derde lid, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), [artikel 11a, tweede lid, van het Besluit bekostiging WPO](../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md), [artikel 10b, tweede lid, van het Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md) en [artikel 4 van het Besluit informatievoorziening WPO/WEC](../../../../../../AMvB/besluit/informatievoorziening/wpowec/BWBR0018065/README.md);
+Gelet op [artikel 178a, derde lid, van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md), [artikel 164a, derde lid, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), [artikel 11a, tweede lid, van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), [artikel 10b, tweede lid, van het Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md) en [artikel 4 van het Besluit informatievoorziening WPO/WEC](../../../../../../AMvB/besluit/informatievoorziening/wpowec/BWBR0018065/README.md);
 Besluit:    
 
 ### Artikel  1  
@@ -47,13 +47,19 @@ a. 16 maart; de personele gegevens, genoemd in bijlage 4 bij deze regeling, over
 
 b. 1 juli; de financiële gegevens, genoemd in bijlage 3 bij deze regeling, over het voorafgaande kalenderjaar;  
 
-c. 1 december; de personele gegevens genoemd in [artikel 11a van het Besluit bekostiging WPO](../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md) of [artikel 10b van het Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md).     
+c. 1 december; de personele gegevens genoemd in [artikel 11a van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) of [artikel 10b van het Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md).     
 3.  Het bevoegd gezag verstrekt maandelijks de volgende gegevens: 
 
 a. de personele gegevens over de verslagmaand bedoeld in onderdeel 3 van bijlage 4 bij deze regeling;  
 
 b. de ontvangen uitkering, bedoeld in artikel 2, van de regeling in mindering brengen uitkeringen.     
 4.  Het bevoegd gezag verstrekt de gegevens genoemd in bijlage 1 bij deze regeling op een door de minister van Onderwijs, Cultuur en Wetenschap te bepalen tijdstip.   
+
+### Artikel  4a  
+
+####Inzage leerlingenadministratie
+
+In geval van een steekproefsgewijze controle door of namens de Minister geeft het bevoegd gezag inzage in de in bijlage 5 genoemde gegevens van leerlingen en hun ouders op basis waarvan de hoogte van de bekostiging is vastgesteld.  
 
 ### Artikel  5  
 
@@ -741,7 +747,7 @@ Elk bevoegd gezag dient gegevens te leveren over het (gedeeltelijk) arbeidsonges
 | 51  | Extractiedatum  | Datum  | Datum waarop de basisgegevens die voor de berekening van de GGL zijn gebruikt, uit de database zijn gehaald  |
 | 52  | Productensom  | Getal met 4 decimalen  | De som van de producten op 1 oktober: leeftijd x betrekkingsomvang van alle leraren, zoals gedefinieerd onder punt 2 in de toelichting bij veld 54, met een nauwkeurigheid van 4 decimalen. Voor de berekeningswijze zie punt 1 bij veld 54  |
 | 53  | Som betrekkingsomvangen  | Getal met 4 decimalen  | De som van de betrekkingsomvangen op 1 oktober van alle leraren, zoals gedefinieerd onder punt 2 in de toelichting bij veld 56 met een nauwkeurigheid van 4 decimalen. Voor de berekeningswijze zie punt 1 bij veld 54  |
-| 54  | Gewogen gemiddelde leeftijd  | Getal met 2 decimalen  | 1 De gewogen gemiddelde leeftijd op 1 oktober van het lopende schooljaar, bedoeld in [artikel 11a van het Besluit bekostiging WPO](../../../../../../KB/bekostigingsbesluit/wpo/BWBR0003862/README.md) en [artikel 10b van het Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), is de betrekkingsomvang aan de desbetreffende school van elke leraar op de school, vermenigvuldigd met diens leeftijd en vervolgens gedeeld door de som van de betrekkingsomvang van alle leraren op de school. Voor leraren ouder dan 50 jaar wordt voor de toepassing van de eerste volzin de leeftijd op 50 jaar vastgesteld. Indien de uitkomst van de berekening van de gewogen gemiddelde leeftijd, bedoeld in de eerste volzin, lager is dan 30 wordt de gewogen gemiddelde leeftijd vastgesteld op 30. De in de eerste volzin bedoelde gewogen gemiddelde leeftijd wordt afgerond op 2 decimalen.  2 Onder leraar als bedoeld onder punt 1 wordt verstaan elk personeelslid dat is aangesteld in een onderwijsgevende functie als bedoeld in [artikel 151 van Rechtspositiebesluit WPO/WEC](../../../../../../AMvB/rechtspositiebesluit/wpowec/BWBR0015136/README.md), zoals dat luidde op 31 juli 2005, met uitzondering van: leraren in opleiding als bedoeld in [artikel 191, onderdeel a](../../../../../../AMvB/rechtspositiebesluit/wpowec/BWBR0015136/README.md), van dat besluit en personeelsleden die in dienst zijn of van wie de betrekkingsomvang is uitgebreid in verband met vervanging, voor zover de kosten van deze dienstbetrekking of uitbreiding van de betrekkingsomvang ten laste komen van de in [artikel 183 van de WPO](../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 169 van de WEC](../../../../../../wet/isovso/BWBR0003549/README.md) bedoelde rechtspersoon.  3 Indien voor de mededeling van de gewogen gemiddelde leeftijd bedoeld in artikel 11a van het Besluit bekostiging WPO en artikel 10b van het Besluit bekostiging WEC, gebruik wordt gemaakt van een geautomatiseerd systeem voor de salarisverwerking, wordt de gewogen gemiddelde leeftijd vastgesteld op basis van de gegevens die in november voorafgaande aan die mededeling door dat systeem zijn verwerkt.  |
+| 54  | Gewogen gemiddelde leeftijd  | Getal met 2 decimalen  | 1 De gewogen gemiddelde leeftijd op 1 oktober van het lopende schooljaar, bedoeld in [artikel 11a van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) en [artikel 10b van het Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), is de betrekkingsomvang aan de desbetreffende school van elke leraar op de school, vermenigvuldigd met diens leeftijd en vervolgens gedeeld door de som van de betrekkingsomvang van alle leraren op de school. Voor leraren ouder dan 50 jaar wordt voor de toepassing van de eerste volzin de leeftijd op 50 jaar vastgesteld. Indien de uitkomst van de berekening van de gewogen gemiddelde leeftijd, bedoeld in de eerste volzin, lager is dan 30 wordt de gewogen gemiddelde leeftijd vastgesteld op 30. De in de eerste volzin bedoelde gewogen gemiddelde leeftijd wordt afgerond op 2 decimalen.  2 Onder leraar als bedoeld onder punt 1 wordt verstaan elk personeelslid dat is aangesteld in een onderwijsgevende functie als bedoeld in [artikel 151 van Rechtspositiebesluit WPO/WEC](../../../../../../AMvB/rechtspositiebesluit/wpowec/BWBR0015136/README.md), zoals dat luidde op 31 juli 2005, met uitzondering van: leraren in opleiding als bedoeld in [artikel 191, onderdeel a](../../../../../../AMvB/rechtspositiebesluit/wpowec/BWBR0015136/README.md), van dat besluit en personeelsleden die in dienst zijn of van wie de betrekkingsomvang is uitgebreid in verband met vervanging, voor zover de kosten van deze dienstbetrekking of uitbreiding van de betrekkingsomvang ten laste komen van de in [artikel 183 van de WPO](../../../../../../wet/wbo/BWBR0003420/README.md) of [artikel 169 van de WEC](../../../../../../wet/isovso/BWBR0003549/README.md) bedoelde rechtspersoon.  3 Indien voor de mededeling van de gewogen gemiddelde leeftijd bedoeld in artikel 11a van het Besluit bekostiging WPO en artikel 10b van het Besluit bekostiging WEC, gebruik wordt gemaakt van een geautomatiseerd systeem voor de salarisverwerking, wordt de gewogen gemiddelde leeftijd vastgesteld op basis van de gegevens die in november voorafgaande aan die mededeling door dat systeem zijn verwerkt.  |
 
 ### 2.3.6  
 
@@ -816,12 +822,14 @@ Aanduiding van de (salaris)administratie waaruit de gegevens afkomstig zijn.
 | Code  | betekenis  |
 |:---|:---|
 | 01  | ADP  |
-| 02  | Randstad HRS  |
+| 02  | Raet ECS  |
 | 03  | Centric  |
 | 04  | Merces  |
 | 05  | Raet  |
-| 06  | Unit4Agresso  |
-| 07  | Magma IT  |
+| 07  | Centric MIT  |
+| 08  | OSG  |
+| 09  | Metrium  |
+| 10  | Prosco  |
 
 Besturen die zelf aan DUO leveren, laten dit veld leeg. Bovenstaande opsomming is voorlopig. Er kunnen nieuwe toeleveranciers komen Formaat: N6 
 ### *Datum* 
@@ -871,7 +879,7 @@ Formaat: A1
 Aanduiding van een hoeveelheid. Reeks cijfers zonder komma. Formaat: Nx (bijvoorbeeld N8: 12345678) 
 ### *Getal met decimalen* 
 
-Aanduiding van een hoeveelheid. Reeks cijfers met een komma gevolgd door twee of vier cijfers. Bij GGL: reeks cijfers met een punt, gevolgd door vier cijfers Formaat: Nx,y (bijvoorbeeld N7,2: 12345,67); bij GGL Nx.4 (bijvoorbeeld: N8.4: 1234.5678) 
+Aanduiding van een hoeveelheid. Reeks cijfers met een komma gevolgd door twee of vier cijfers. Formaat: Nx,y (bijvoorbeeld N7,2: 12345,67); bij GGL Nx,4 (bijvoorbeeld: N8,4: 1234,5678) 
 ### *Ja_nee* 
 
 Aanduiding of iets wel of niet het geval is.  
@@ -1210,22 +1218,22 @@ Per arbeidsrelatie wordt per verlofperiode één regel geleverd. Bij een verande
 
 De aanlevering van de GGL geschiedt elektronisch door aanlevering van een bestand in CSV-formaat. Per instelling wordt één regel geleverd met de volgende specificaties: 
 
-– als veldscheidingsteken moet de puntkomma gebruikt worden;  
+– als veldscheidingsteken wordt de puntkomma gebruikt;  
 
-– als decimaal scheidingsteken dient de punt te worden gebruikt;  
+– als decimaal scheidingsteken wordt de komma gebruikt;  
 
-– er mag geen scheidingsteken voor duizendtallen worden gebruikt;  
+– er wordt geen scheidingsteken voor duizendtallen gebruikt;  
 
-– alle velden dienen een waarde te bevatten.    
+– alle velden bevatten een waarde.    
 
 | Nr  | Veld  | Domein  | Type  |
 |:---|:---|:---|:---|
 | 49.  | Organisatienummer bevoegd gezag  | Bevoegd gezagnummer  | N5  |
 | 50.  | Organisatienummer school  | BRINnummer  | A4  |
 | 51.  | Extractiedatum  | Datum  | N8  |
-| 52.  | Productensom  | Getal met 4 decimalen  | N16.4  |
-| 53.  | Som betrekkingsomvangen  | Getal met 4 decimalen  | N16.4  |
-| 54.  | Gewogen gemiddelde leeftijd  | Getal met 2 decimalen  | N8.2  |
+| 52.  | Productensom  | Getal met 4 decimalen  | N16,4  |
+| 53.  | Som betrekkingsomvangen  | Getal met 4 decimalen  | N16,4  |
+| 54.  | Gewogen gemiddelde leeftijd  | Getal met 2 decimalen  | N8,2  |
 
 ### 5.3  
 
@@ -1261,4 +1269,66 @@ De aanlevering van de gegevens WIA geschiedt elektronisch door middel van het do
 | 65.  | Uitplaatsing 35min  | Getal  | N5  |
 | 66.  | Instroom WGA  | Getal  | N5  |
 | 67.  | Behoud WGA  | Getal  | N5  |
+
+### Bijlage  5  
+
+####bij de Regeling structurele gegevenslevering WPO/WEC
+
+####Inrichting van de leerlingenadministratie
+
+De leerlingenadministratie omvat per leerling de volgende gegevens: 
+
+* persoonsgegevens van de leerling, waaronder het persoonsgebonden nummer, inclusief alle mutaties;  
+
+* gegevens die nodig zijn om het leerlinggewicht vast te stellen;  
+
+* het leerlinggewicht van de leerling;  
+
+* de registratie van het verzuim.   Daartoe zijn vanaf het moment van inschrijving in de leerlingenadministratie de volgende documenten opgenomen:  
+
+### 1  
+
+####Inschrijving
+
+Voor iedere leerling: 
+
+− een volledig ingevuld en door de ouder(s) of verzorger(s) ondertekend inschrijfformulier.   Indien van toepassing: 
+
+− een bewijs van uitschrijving van de vorige school als bedoeld in [artikel 7, eerste lid, onderdeel a, van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md), respectievelijk [artikel 6, eerste lid, onderdeel a, van het Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md);  
+
+− een verklaring als bedoeld in [artikel 7, eerste lid onder b, van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) respectievelijk [artikel 6, eerste lid, onderdeel b of c, van het Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md) met betrekking tot het in de periode van 6 maanden voorafgaand aan de inschrijving niet eerder op een andere school, of een school of instelling voor ander onderwijs ingeschreven staan van de leerling. Een aparte verklaring is niet nodig wanneer de betreffende gegevens zijn opgenomen op het inschrijfformulier;  
+
+− een kopie van het bericht van inschrijving, bedoeld in [artikel 7, derde lid, van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) respectievelijk [artikel 6, derde lid, van het Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), zoals gezonden aan de vorige school;  
+
+− een volledig ingevulde en door de ouder(s) of verzorger(s) ondertekende ouderverklaring waaruit duidelijk het opleidingsniveau van de ouder(s) of verzorger(s) blijkt. Op basis van deze opleidingsgegevens stelt de school het leerlinggewicht, bedoeld in [artikel 27, eerste lid, van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) vast. Een aparte ouderverklaring is niet nodig wanneer de betreffende opleidingsgegevens zijn opgenomen op het inschrijfformulier.   Voorbeelden van een inschrijfformulier en een ouderverklaring zijn beschikbaar op de website van DUO.  
+
+### 2  
+
+####Uitschrijving
+
+− Een kopie van het bewijs van uitschrijving, bedoeld in [artikel 8, eerste lid, van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) en [artikel 7, eerste lid, van het Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md);  
+
+− indien van toepassing het bericht van inschrijving, bedoeld in [artikel 8, tweede lid, van het Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md) en [artikel 7, tweede lid, van het Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md), zoals ontvangen van de volgende school.    
+
+### 3  
+
+####Verzuimregistratie
+
+− De verzuimregistratie per leerling;  
+
+− kennisgevingen aan burgemeester en wethouders van verzuim zonder geldige reden.   Het verzuim dient per dagdeel geregistreerd te worden en bevat van iedere leerling de volgende gegevens: 
+
+− de naam en roepnaam;  
+
+− de groep of klas waarin de leerling is geplaatst;  
+
+− het ziekteverzuim;  
+
+− de afwezigheid anders dan vanwege ziekte;  
+
+− of de afwezigheid anders dan vanwege ziekte al dan niet geoorloofd is.    
+
+####Bewaartermijn:
+
+Voor alle genoemde basisdocumenten geldt een bewaartermijn van vijf jaar na de datum van uitschrijving van de leerling. De documenten mogen eventueel ook in gedigitaliseerde vorm worden opgeslagen. De documenten worden binnen 8 weken na het verstrijken van de bewaartermijn vernietigd ([artikel 9 Besluit bekostiging WPO](../../../../../../KB/besluit/bekostiging/wpo/BWBR0003862/README.md); [artikel 8 Besluit bekostiging WEC](../../../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md)).  
 

@@ -3,7 +3,7 @@
 ##Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 29 mei 2010, nr. VO/FBI 212262, betreffende de bekostiging en inrichting van cursussen Internationaal georiënteerd voortgezet onderwijs (Beleidsregel IGVO 2010)
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [artikel 73 van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);
+Gelet op artikel 4:81 van de Algemene wet bestuursrecht en artikel 73 van de Wet op het voortgezet onderwijs;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -17,7 +17,7 @@ In deze beleidsregel wordt verstaan onder:
 
 a. *Minister:* de Minister van Onderwijs, Cultuur en Wetenschap;  
 
-b. *school:* een uit de openbare kas bekostigde school voor voortgezet onderwijs als bedoeld in [artikel 1 van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+b. *school:* een uit de openbare kas bekostigde school voor voortgezet onderwijs als bedoeld in artikel 1 van de Wet op het voortgezet onderwijs;  
 
 c. *cursus:* een cursus IB MYP of een cursus IB DP;  
 
@@ -68,7 +68,7 @@ c. de prognose voldoet aan artikel 3, derde en vierde lid.
 2.  De kosten ten behoeve van een cursus worden per kalenderjaar voor bekostiging in aanmerking gebracht.   
 3.  De bekostiging wordt verstrekt voor exploitatiekosten en personele kosten.   
 4.  In verband met de exploitatiekosten stelt de Minister een bedrag per leerling vast, afhankelijk van de soort school waaraan een cursus is verbonden.   
-5.  In verband met de personele kosten stelt de Minister een bedrag per leerling vast en een toeslag voor internationaal georiënteerd onderwijs, met dien verstande dat deze bedragen verschillend kunnen worden vastgesteld, afhankelijk van de soort school waaraan een cursus is verbonden en de soort cursus.   
+5.  In verband met de personele kosten stelt de Minister een bedrag per leerling vast, afhankelijk van de soort school waaraan een cursus is verbonden. Voor de leerlingen zoals omschreven in artikel 8, eerste en vierde lid, stelt de minister een toeslag vast voor internationaal georiënteerd voortgezet onderwijs.   
 
 ### Artikel  6  
 
@@ -81,14 +81,14 @@ c. de prognose voldoet aan artikel 3, derde en vierde lid.
 
 ####Beëindiging van de bekostiging
 
-1.  Indien de cursus IB MYP en de cursus IB DP in alle leerjaren worden aangeboden en gedurende drie opeenvolgende schooljaren gezamenlijk door minder dan 100 leerlingen worden bezocht, wordt de bekostiging met ingang van 1 augustus daaropvolgend beëindigd.   
-2.  Totdat de cursussen in alle leerjaren worden aangeboden, wordt de bekostiging beëindigd, indien een of meer van de reeds aangeboden leerjaren door minder dan 16 leerlingen worden bezocht gedurende twee opeenvolgende schooljaren.   
+1.  Indien de cursus IB MYP en de cursus IB DP in alle leerjaren worden aangeboden en gedurende drie opeenvolgende schooljaren gezamenlijk door minder dan 100 leerlingen worden bezocht, wordt de bekostiging met ingang van 1 augustus daaropvolgend beëindigd. Deze 100 leerlingen zijn allen leerlingen in de zin van artikel 8, eerste lid.   
+2.  In de periode dat de cursus nog niet in alle leerjaren wordt aangeboden, wordt de bekostiging beëindigd indien gedurende twee opeenvolgende leerjaren in enig leerjaar dat al werd aangeboden, minder dan 12 leerlingen ingeschreven staan of de cursus volgen.   
 3.  De teldatum is 1 oktober van de in het eerste lid bedoelde leerjaren.   
-4.  Het bevoegd gezag van de school wordt voor 1 mei van het jaar voorafgaand aan het jaar van het beëindigen van de bekostiging door de Minister van dit voornemen op de hoogte gesteld.   
+4.  Het bevoegd gezag van de school wordt voor 1 mei van het jaar voorafgaand aan het jaar van het beëindigen van de bekostiging door de Minister van het komende besluit op de hoogte gesteld.   
 
 ### Hoofdstuk  3  
 
-####Toelating, bevordering en verwijdering van leerlingen; pilot ib dp
+####Toelating, bevordering en verwijdering van leerlingen
 
 ### Artikel  8  
 
@@ -112,7 +112,12 @@ a. een cursus IB MYP met goed gevolg heeft afgerond, of
 
 b. voldoende onderwijs heeft genoten om het onderwijs aan de cursus IB DP met vrucht te kunnen volgen.     
 4.  Tot de cursus IB DP, verbonden aan het United World College te Maastricht, kan in afwijking van het eerste lid ook als leerling worden toegelaten degene die een andere dan de Nederlandse nationaliteit bezit en overigens niet aan de voorwaarden, bedoeld in dat lid, voldoet.   
-5.  Het bevoegd gezag beslist over toelating van een leerling.   
+5.  Tot de cursus IB DP kan tevens worden toegelaten een in Nederland woonachtige leerling die niet behoort tot de categorie bedoeld in het eerste lid, op voorwaarde dat die leerling: 
+
+a. in het bezit is van een diploma hoger algemeen voortgezet onderwijs of van een bewijsstuk dat hij onvoorwaardelijk is bevorderd tot het vijfde leerjaar van een school voor voorbereidend wetenschappelijk onderwijs en  
+
+b. in staat is het onderwijs in de Engelse taal te volgen blijkens een door de leerling over te leggen bewijsstuk, een en ander ten genoege van het bevoegd gezag.     
+6.  Het bevoegd gezag beslist over toelating van een leerling.   
 
 ### Artikel  9  
 
@@ -124,27 +129,7 @@ Toelating tot de cursus IB MYP, de cursus IB DP en de pilot IB DP is afhankelijk
 
 ####Bevordering en verwijdering
 
-Ten aanzien van de voorwaardelijke bevordering, de schorsing en de verwijdering van een leerling zijn de desbetreffende [artikelen 12](../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md), [13](../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md), [14](../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md) en [15 van het Inrichtingsbesluit W.V.O.](../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md) van overeenkomstige toepassing.  
-
-### Artikel  11  
-
-####Pilot IB DP
-
-1.  Aan een school waaraan een cursus IB DP is verbonden, kan de Minister een experiment toekennen waarin in Nederland woonachtige leerlingen die niet behoren tot de categorie leerlingen, bedoeld in artikel 8, eerste lid, het onderwijs aan een cursus IB DP kunnen volgen en ter afsluiting daarvan examen als bedoeld in artikel 15 kunnen afleggen Dit experiment wordt aangeduid als de Pilot IB DP.   
-2.  Het bevoegd gezag van een school waaraan een pilot IB DB is toegekend, kan per leerjaar jaarlijks ten hoogste 20 leerlingen als bedoeld in het eerste lid tot de cursus IB DB toelaten.   
-3.  Een Pilot IB DP kan worden toegekend in de periode 1 augustus 2007 tot en met 31 juli 2012.   
-4.  Het bevoegd gezag van een school die wil deelnemen aan een pilot IB DP, is in de gelegenheid in de periode 1 november 2006 tot en met 31 december 2006 een aanvraag in te dienen.   
-5.  De minister beslist binnen twee maanden op de aanvraag.   
-
-### Artikel  12  
-
-####Toelating leerlingen tot pilot IB DP
-
-In het kader van een pilot IB DP kan een leerling tot een cursus IB DP worden toegelaten die: 
-
-a. in het bezit is van een diploma hoger algemeen voortgezet onderwijs of van een bewijsstuk dat hij onvoorwaardelijk is bevorderd tot het vijfde leerjaar van een school voor voorbereidend wetenschappelijk onderwijs; en  
-
-b. in staat is het onderwijs in de Engelse taal te volgen blijkens een door de leerling over te leggen bewijsstuk, een en ander ten genoegen van het bevoegd gezag.    
+Ten aanzien van de voorwaardelijke bevordering, de schorsing en de verwijdering van een leerling zijn de desbetreffende artikelen 12, 13, 14 en 15 van het Inrichtingsbesluit W.V.O. van overeenkomstige toepassing.  
 
 ### Hoofdstuk  4  
 
@@ -180,22 +165,15 @@ c. de leerlingen de mogelijkheid te bieden om tussentijds, na ieder cursusjaar, 
 
 1.  Het bevoegd gezag stelt een examenreglement vast.   
 2.  Het bevoegd gezag stelt de leerlingen die het laatste leerjaar van de cursus IB MYP volgen, in de gelegenheid ter afsluiting van hun opleiding proeven af te leggen voor het International Baccalaureate Middle Years Certificate of voor deelcertificaten daarvan dan wel examen af te leggen voor het International General Certificate of Secondary Education of voor deelcertificaten daarvan.   
-3.  Het bevoegd gezag stelt de leerlingen die het tweede leerjaar van de cursus IB DP volgen in de gelegenheid ter afsluiting van hun opleiding examen af te leggen voor het International Baccalaureate Diplom volgens de daarvoor geldende regels. Voor het afnemen van de examens is toestemming vereist van de International Baccalaureate Organisation te Genève. Voor een leerling die de Nederlandse nationaliteit als enige nationaliteit bezit, is tevens het afleggen van examen in het vak Nederlands verplicht.   
-4.  De [artikelen 5](../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), [43](../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en [55, eerste en tweede lid, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) zijn van overeenkomstige toepassing.   
-5.  Indien het examenreglement, bedoeld in het eerste lid, geen bepaling inhoudt ten aanzien van de faciliteiten voor gehandicapte kandidaten, indien de kandidaat zich schuldig maakt of heeft gemaakt aan onregelmatigheden dan wel handelt in strijd met de examenvoorschriften of indien twijfel bestaat of het examen op regelmatige wijze heeft plaatsgevonden, wordt gehandeld zoveel mogelijk overeenkomstig [artikel 55, eerste en tweede lid](../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), onderscheidenlijk [artikel 5](../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) dan wel [artikel 43 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.](../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md)   
-
-### Artikel  16  
-
-####Pilot IB DP
-
-1.  Het curriculum van de pilot IB DP bestaat uit de vakken van de cursus IB DP, bedoeld in artikel 14, derde lid, met dien verstande dat het vak Nederlands wordt uitgebreid met het onderdeel tekstverklaring met betrekking tot niet-fictionele teksten, inclusief argumentatieve vaardigheden. Dit vak maakt voor de Nederlandse leerlingen verplicht deel uit van het examen voor het International Baccalaureate Diplom.   
-2.  Artikel 15, derde lid, eerste volzin, is van overeenkomstige toepassing. Het afleggen van examen in het onderdeel tekstverklaring, bedoeld in het eerste lid, is verplicht.   
+3.  Het bevoegd gezag stelt de leerlingen die het tweede leerjaar van de cursus IB DP volgen in de gelegenheid ter afsluiting van hun opleiding examen af te leggen voor het International Baccalaureate Diplom volgens de daarvoor geldende regels. Voor het afnemen van de examens is toestemming vereist van de International Baccalaureate Organisation te Genève. Voor een leerling die de Nederlandse nationaliteit als enige nationaliteit bezit, is tevens het afleggen van examen in het vak Nederlands verplicht. Leerlingen bedoeld in artikel 8, vijfde lid, leggen het examen Nederlands af op het hoogste niveau.   
+4.  De artikelen 5, 43 en 55, eerste en tweede lid, van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o. zijn van overeenkomstige toepassing.   
+5.  Indien het examenreglement, bedoeld in het eerste lid, geen bepaling inhoudt ten aanzien van de faciliteiten voor gehandicapte kandidaten, indien de kandidaat zich schuldig maakt of heeft gemaakt aan onregelmatigheden dan wel handelt in strijd met de examenvoorschriften of indien twijfel bestaat of het examen op regelmatige wijze heeft plaatsgevonden, wordt gehandeld zoveel mogelijk overeenkomstig artikel 55, eerste en tweede lid, onderscheidenlijk artikel 5 dan wel artikel 43 van het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-v.b.o.   
 
 ### Artikel  17  
 
 ####Benoeming en bevoegdheden van het onderwijzend personeel
 
-Met betrekking tot de benoeming en bevoegdheden van leraren voor de cursus IB MYP en de cursus IB DP is het bepaalde bij of krachtens de [artikelen 33 tot en met 36 van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) van overeenkomstige toepassing, met dien verstande dat: 
+Met betrekking tot de benoeming en bevoegdheden van leraren voor de cursus IB MYP en de cursus IB DP is het bepaalde bij of krachtens de artikelen 33 tot en met 36 van de Wet op het voortgezet onderwijs van overeenkomstige toepassing, met dien verstande dat: 
 
 a. voor onderwijs op het niveau hoger algemeen voortgezet onderwijs de eerste drie leerjaren onderscheidenlijk het vierde en vijfde leerjaar van de cursus IB MYP worden aangemerkt als de eerste drie leerjaren onderscheidenlijk het vierde en het vijfde leerjaar van een school voor hoger algemeen voortgezet onderwijs; en  
 
@@ -209,7 +187,7 @@ b. het eerste en het tweede leerjaar van de cursus IB DP worden aangemerkt als h
 
 ####Vervallen artikelen
 
-De artikelen 11, 12 en 16 vervallen.  
+Wijzigt deze regeling.   
 
 ### Artikel  19  
 

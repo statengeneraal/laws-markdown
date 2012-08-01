@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap van 22 september 2010, nr. WJZ/236442 (4874), directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Minister van Landbouw, Natuur en Voedselkwaliteit en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
 
-Gelet op [artikel 35, eerste en vierde lid, van de Wet primair onderwijs BES](../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0028735/README.md), de [artikelen 85](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md) en [86 van de Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md) en [artikel 4.2.3, eerste en derde lid, van de Wet educatie en beroepsonderwijs BES](../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md);
+Gelet op artikel 35, eerste en vierde lid, van de Wet primair onderwijs BES, de artikelen 85 en 86 van de Wet voortgezet onderwijs BES en artikel 4.2.3, eerste en derde lid, van de Wet educatie en beroepsonderwijs BES;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 20 oktober 2010, no. W05.10.0461/I);
 
@@ -22,9 +22,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. *school:* school als bedoeld in de [Wet primair onderwijs BES](../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0028735/README.md) of in de [Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md);  
+a. *school:* school als bedoeld in de Wet primair onderwijs BES of in de Wet voortgezet onderwijs BES;  
 
-b. *instelling:* instelling als bedoeld in [artikel 1.1.1 van de Wet educatie en beroepsonderwijs BES](../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md).    
+b. *instelling:* instelling als bedoeld in artikel 1.1.1 van de Wet educatie en beroepsonderwijs BES.    
 
 ### Artikel  1.2  
 
@@ -68,7 +68,7 @@ g. competentie in reflectie en ontwikkeling.
 
 ####Reikwijdte titel 2
 
-1.  Deze titel heeft, onverminderd het tweede lid, betrekking op het basisonderwijs, bedoeld in de [Wet primair onderwijs BES](../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0028735/README.md).   
+1.  Deze titel heeft, onverminderd het tweede lid, betrekking op het basisonderwijs, bedoeld in de Wet primair onderwijs BES.   
 2.  Deze titel omvat zintuiglijke en lichamelijke oefening in het primair onderwijs uitsluitend voor het onderwijs in de groepen 1 en 2 van het basisonderwijs.   
 
 ### Artikel  2.3  
@@ -77,9 +77,9 @@ g. competentie in reflectie en ontwikkeling.
 
 In deze titel wordt verstaan onder: 
 
-a. *leraar:* leraar als bedoeld in de [Wet primair onderwijs BES](../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0028735/README.md);  
+a. *leraar:* leraar als bedoeld in de Wet primair onderwijs BES;  
 
-b. *primair onderwijs:* onderwijs als bedoeld in de [Wet primair onderwijs BES](../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0028735/README.md).    
+b. *primair onderwijs:* onderwijs als bedoeld in de Wet primair onderwijs BES.    
 
 ### Artikel  2.4  
 
@@ -268,9 +268,9 @@ b. beschikt de leraar over de volgende kennis:
 
 Deze titel heeft betrekking op: 
 
-a. het voorbereidend beroepsonderwijs, het middelbaar algemeen voortgezet onderwijs, de eerste drie leerjaren van het hoger algemeen voortgezet onderwijs en van het voorbereidend wetenschappelijk onderwijs, en het praktijkonderwijs, bedoeld in de [Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md);  
+a. het voorbereidend beroepsonderwijs, het middelbaar algemeen voortgezet onderwijs, de eerste drie leerjaren van het hoger algemeen voortgezet onderwijs en van het voorbereidend wetenschappelijk onderwijs, en het praktijkonderwijs, bedoeld in de Wet voortgezet onderwijs BES;  
 
-b. de educatie en het beroepsonderwijs, bedoeld in de [Wet educatie en beroepsonderwijs BES](../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md).    
+b. de educatie en het beroepsonderwijs, bedoeld in de Wet educatie en beroepsonderwijs BES.    
 
 ### Artikel  2.12  
 
@@ -278,15 +278,15 @@ b. de educatie en het beroepsonderwijs, bedoeld in de [Wet educatie en beroepson
 
 In deze titel wordt verstaan onder: 
 
-a. *leraar vo:* leraar als bedoeld in de [Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md);  
+a. *leraar vo:* leraar als bedoeld in de Wet voortgezet onderwijs BES;  
 
-b. *bve:* beroepsonderwijs en educatie als bedoeld in de [Wet educatie en beroepsonderwijs BES](../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md);  
+b. *bve:* beroepsonderwijs en educatie als bedoeld in de Wet educatie en beroepsonderwijs BES;  
 
-c. *docent bve:* docent als bedoeld in de [Wet educatie en beroepsonderwijs BES](../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md);  
+c. *docent bve:* docent als bedoeld in de Wet educatie en beroepsonderwijs BES;  
 
-d. *leerling:* leerling als bedoeld in de [Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md);  
+d. *leerling:* leerling als bedoeld in de Wet voortgezet onderwijs BES;  
 
-e. *deelnemer:* deelnemer als bedoeld in de [Wet educatie en beroepsonderwijs BES](../../../../../../wet-BES/wet/educatie/en/beroepsonderwijs/bes/BWBR0028395/README.md).    
+e. *deelnemer:* deelnemer als bedoeld in de Wet educatie en beroepsonderwijs BES.    
 
 ### Artikel  2.13  
 
@@ -491,7 +491,7 @@ b. beschikt de leraar vo evenals de docent bve over de volgende kennis:
 
 ####Reikwijdte titel 4
 
-Deze titel heeft betrekking op het voorbereidend hoger onderwijs, bedoeld in [artikel 12, eerste lid, van de Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md).  
+Deze titel heeft betrekking op het voorbereidend hoger onderwijs, bedoeld in artikel 12, eerste lid, van de Wet voortgezet onderwijs BES.  
 
 ### Artikel  2.21  
 
@@ -499,9 +499,9 @@ Deze titel heeft betrekking op het voorbereidend hoger onderwijs, bedoeld in [ar
 
 In deze titel wordt verstaan onder: 
 
-a. *leraar:* leraar als bedoeld in de [Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md);  
+a. *leraar:* leraar als bedoeld in de Wet voortgezet onderwijs BES;  
 
-b. *leerling:* leerling als bedoeld in de [Wet voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md).    
+b. *leerling:* leerling als bedoeld in de Wet voortgezet onderwijs BES.    
 
 ### Artikel  2.22  
 
@@ -704,7 +704,7 @@ b. beschikt de leraar over de volgende kennis:
 
 ####Tijdelijke afwijking bekwaamheidseisen voortgezet onderwijs
 
-1.  Het bevoegd gezag van een school voor voortgezet onderwijs kan toestaan dat de leraar die ten aanzien van een vak of combinatie van vakken in het voorbereidend wetenschappelijk onderwijs of het hoger algemeen voortgezet onderwijs wel voor de eerste drie leerjaren maar niet voor het voorbereidend hoger onderwijs voldoet aan de bekwaamheidseisen van [artikel 84, eerste en vierde lid, van de Wet op het voortgezet onderwijs BES](../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md), dat onderwijs gedurende ten hoogste één schooljaar ook geeft in die hogere leerjaren.   
+1.  Het bevoegd gezag van een school voor voortgezet onderwijs kan toestaan dat de leraar die ten aanzien van een vak of combinatie van vakken in het voorbereidend wetenschappelijk onderwijs of het hoger algemeen voortgezet onderwijs wel voor de eerste drie leerjaren maar niet voor het voorbereidend hoger onderwijs voldoet aan de bekwaamheidseisen van artikel 84, eerste en vierde lid, van de Wet op het voortgezet onderwijs BES, dat onderwijs gedurende ten hoogste één schooljaar ook geeft in die hogere leerjaren.   
 2.  Voorwaarde voor toepassing van het eerste lid is dat: 
 
 a. de werkzaamheden waarmee de leraar is belast binnen zijn betrekkingsomvang voor het grootste gedeelte zijn gelegen buiten het voorbereidend hoger onderwijs, en  
@@ -713,13 +713,13 @@ b. aan een school het totale aantal lessen waarvoor toestemming wordt gegeven op
 
 ### Hoofdstuk  4  
 
-####Aanwijzing onderwijsactiviteiten vakleerkrachten primair onderwijs
+####Aanwijzing onderwijsactiviteiten vakleerkrachten in het primair onderwijs en leerkrachten basisonderwijs in het praktijkonderwijs
 
 ### Artikel  4.1  
 
 ####Aanwijzing onderwijsactiviteiten vakleerkrachten basisonderwijs
 
-De op grond van [artikel 3, eerste lid onder b.1°, van de Wet primair onderwijs BES](../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0028735/README.md) aan te wijzen onderwijsactiviteiten, bedoeld in de [artikelen 11](../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0028735/README.md) of [12 van die wet](../../../../../../wet-BES/wet/primair/onderwijs/bes/BWBR0028735/README.md), zijn: 
+De op grond van artikel 3, eerste lid onder b.1°, van de Wet primair onderwijs BES aan te wijzen onderwijsactiviteiten, bedoeld in de artikelen 11 of 12 van die wet, zijn: 
 
 a. tekenen;  
 
@@ -742,6 +742,34 @@ i. Duitse taal;
 j. Franse taal;  
 
 k. Spaanse taal.    
+
+### Artikel  4.2  
+
+####Aanwijzing onderwijsactiviteiten leerkrachten praktijkonderwijs
+
+De op grond van artikel 80, derde lid, van de Wet voortgezet onderwijs BES aan te wijzen vakken zijn: 
+
+a. tekenen;  
+
+b. muziek;  
+
+c. handvaardigheid;  
+
+d. Nederlands;  
+
+e. Engels;  
+
+f. rekenen/wiskunde;  
+
+g. geschiedenis;  
+
+h. aardrijkskunde;  
+
+i. biologie;  
+
+j. verzorging; en  
+
+k. praktijkoriënterende vakken.    
 
 ### Hoofdstuk  5  
 

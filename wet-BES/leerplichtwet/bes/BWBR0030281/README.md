@@ -151,7 +151,7 @@ c. de instellingen van maatschappelijke zorg die reeds bij de begeleiding van de
 
 ####Inschrijving
 
-1.  De in artikel 6, eerste lid, bedoelde personen zijn verplicht te zorgen dat de jongere overeenkomstig de bepalingen van deze paragraaf staat ingeschreven als leerling of deelnemer bij een school of instelling die volledig onderwijs dan wel een bij de wet geregelde combinatie van leren en werken verzorgt en dat hij deze school of instelling na inschrijving geregeld bezoekt, als: 
+1.  De in artikel 6, eerste lid, bedoelde personen zijn verplicht te zorgen dat de jongere overeenkomstig de bepalingen van deze paragraaf staat ingeschreven als leerling of deelnemer bij een school of instelling die volledig onderwijs, een bij de wet geregelde combinatie van leren en werken, dan wel een onderwijsprogramma als bedoeld in [artikel 62, derde lid, onderdeel d, van de Wet voortgezet onderwijs BES](../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md) verzorgt en dat hij deze school of instelling na inschrijving geregeld bezoekt, als: 
 
 a. ten aanzien van de jongere de leerplicht, bedoeld in paragraaf 2, is geëindigd, en  
 
@@ -170,7 +170,7 @@ De verplichting, bedoeld in artikel 11, eerste lid, vangt aan direct na het eind
 
 ####De invulling van de verplichting tot geregeld schoolbezoek
 
-1.  De jongere die als leerling of deelnemer van een school of instelling staat ingeschreven op grond van artikel 11, eerste lid, is verplicht het volledige onderwijsprogramma respectievelijk het volledige programma van de combinatie leren en werken te volgen dat door die school of instelling wordt aangeboden.   
+1.  De jongere die als leerling of deelnemer van een school of instelling staat ingeschreven op grond van artikel 11, eerste lid, is verplicht het volledige onderwijsprogramma , het volledige programma van de combinatie leren en werken, respectievelijk het onderwijsprogramma, bedoeld in [artikel 62, derde lid, onderdeel d, van de Wet voortgezet onderwijs BES](../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0030284/README.md), te volgen dat door die school of instelling wordt aangeboden.   
 2.  De jongere voldoet aan de verplichting, bedoeld in artikel 11, eerste lid, om de school of instelling na inschrijving geregeld te bezoeken, zolang hij geen les of praktijktijd verzuimt anders dan op een van de gronden, bedoeld in artikel 20.   
 
 ### §  4  

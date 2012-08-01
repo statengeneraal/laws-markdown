@@ -14,7 +14,7 @@ a. *minister:* Minister van Volksgezondheid, Welzijn en Sport;
 
 b. *CZO:* stichting College Zorg Opleidingen statutair gevestigd te Utrecht;  
 
-c. *instelling:* rechtspersoon die een algemeen ziekenhuis, academisch ziekenhuis, radiotherapeutisch instituut of dialysecentrum in stand houdt;  
+c. *instelling:* zorgaanbieder als bedoeld in [artikel 1 van de Kwaliteitswet zorginstellingen](../../../../wet/kwaliteitswet/zorginstellingen/BWBR0007850/README.md);  
 
 d. *studiejaar:* tijdvak dat aanvangt op 1 augustus en eindigt op 31 juli in het daarop volgende kalenderjaar;  
 
@@ -31,11 +31,11 @@ g. *gediplomeerde:* natuurlijke persoon die blijkens een diploma van de CZO met 
 
 ### Artikel  3  
 
-1.  De subsidie wordt op aanvraag verleend.   
-2.  Voor de aanvraag wordt een door de minister vastgesteld formulier gebruikt.   
-3.  De aanvraag wordt uiterlijk voor aanvang van het studiejaar ontvangen.   
-4.  Indien er bij aanvang van het studiejaar geen enkele erkenning door CZO is afgegeven voor een ziekenhuisopleiding van de instelling, wordt de aanvraag in afwijking van het vorige lid uiterlijk op de laatste dag van het studiejaar ontvangen.   
-5.  Een aanvraag die na de termijn, bedoeld in het derde of vierde lid, wordt ontvangen, blijft buiten behandeling.   
+1.  De subsidie wordt op aanvraag of ambtshalve verleend.   
+2.  De subsidie wordt ambtshalve verleend aan een instelling waaraan bij aanvang van het studiejaar een erkenning door het CZO is afgegeven voor een ziekenhuisopleiding.   
+3.  Indien er bij aanvang van het studiejaar geen enkele erkenning door CZO is afgegeven voor een ziekenhuisopleiding van de instelling, wordt de aanvraag uiterlijk op de laatste dag van het studiejaar ontvangen.   
+4.  Voor de aanvraag wordt een door de minister vastgesteld formulier gebruikt.   
+5.  Een aanvraag die na de termijn, bedoeld in het derde lid, wordt ontvangen, wordt afgewezen.   
 6.  De aanvraag wordt ondertekend door een persoon die bevoegd is de instelling te vertegenwoordigen.   
 7.  Op verzoek van de minister legt de instelling over: 
 
@@ -46,16 +46,16 @@ b. de laatst opgemaakte jaarrekening dan wel de balans en de staat van kosten en
 
 ### Artikel  4  
 
-1.  De minister besluit binnen dertien weken na aanvang van het studiejaar of, indien het een aanvraag als bedoeld in artikel 3, vierde lid, betreft, binnen dertien weken na ontvangst van de aanvraag over de verlening van de subsidie.   
+1.  De minister besluit binnen dertien weken na aanvang van het studiejaar of, indien het een aanvraag als bedoeld in artikel 3, derde lid betreft, binnen dertien weken na ontvangst van de aanvraag over de verlening van de subsidie.   
 2.  Het besluit tot verlening van de subsidie vermeldt de wijze waarop het bedrag van de subsidie wordt bepaald.   
 3.  De minister kan bij de verlening van de subsidie verplichtingen opleggen die strekken tot verwezenlijking van het doel van de subsidie.   
 4.  Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 
 ### Artikel  5  
 
-1.  Indien de aanvraag van de subsidie voor aanvang van het studiejaar is ontvangen, verleent de minister bij het besluit tot verlening van de subsidie ambtshalve tevens een voorschot.   
+1.  Indien de subsidie ambtshalve wordt verstrekt of de aanvraag van de subsidie voor aanvang van het studiejaar is ontvangen, verleent de minister bij het besluit tot verlening van de subsidie ambtshalve tevens een voorschot.   
 2.  Het voorschot wordt bepaald aan de hand het aantal instromers en gediplomeerden in het voorafgaande studiejaar bij de instelling zoals opgenomen in de registratie van de CZO op 31 augustus na het voorafgaande studiejaar.   
-3.  Voor het verlenen van voorschotten is voor het studiejaar 2011/2012 € 47.788.000, voor het studiejaar 2012/2013 € 48.830.000 en vanaf het studiejaar 2013/2014 € 49.872.000 beschikbaar.   
+3.  Voor het verlenen van voorschotten is voor het studiejaar 2012/2013 € 49.430.202 en vanaf het studiejaar 2013/2014 € 51.343.224 beschikbaar.   
 4.  Artikel 7, derde lid, onderdelen a, b en c, zijn van overeenkomstige toepassing op de verdeling van het budget voor het verlenen van voorschotten.   
 
 ### Artikel  6  
@@ -77,7 +77,7 @@ e. de voor de uitvoering van de zorgopleidingen benodigde middelen op verantwoor
 
 1.  De minister besluit binnen dertien weken na afloop van het studiejaar ambtshalve over de vaststelling van een verleende subsidie.   
 2.  De subsidie wordt vastgesteld aan de hand van het aantal instromers en gediplomeerden in het studiejaar bij de instelling zoals opgenomen in de registratie van de CZO op 31 augustus na het studiejaar.   
-3.  Voor het vaststellen van subsidies is een budget beschikbaar van € 67.006.000 voor het studiejaar 2010/2011, van € 116.252.000 voor het studiejaar 2011/2012, van € 118.752.000 voor het studiejaar 2012/2013 en van € 119.794.000 vanaf het studiejaar 2013/2014. Het budget wordt als volgt verdeeld: 
+3.  Voor het vaststellen van subsidies is een budget beschikbaar van € 118.252.503 voor het studiejaar 2011/2012, van € 120.211.660 voor het studiejaar 2012/2013 en van € 123.327.923 vanaf het studiejaar 2013/2014. Het budget wordt als volgt verdeeld: 
 
 a. 82% van het budget wordt zodanig verdeeld naar het aantal gediplomeerden bij instellingen waaraan subsidie is verleend dat het subsidiebedrag per gediplomeerde een gelijk percentage, doch niet meer dan 100%, is van het maximale subsidiebedrag per gediplomeerde dat in bijlage is genoemd bij de desbetreffende ziekenhuisopleiding;  
 
@@ -104,13 +104,6 @@ b. ten behoeve van de ontwikkeling van het beleid van de minister;
 c. ten behoeve van het opstellen van landelijke en regionale ramingen van ziekenhuisopleidingen.     
 4.  De instelling bevordert dat de gegevens over de instromers en de gediplomeerden bij de instelling in de registratie van de CZO compleet, accuraat en actueel zijn.   
 
-### Artikel  9  
-
-1.  In afwijking van artikel 3, derde lid, wordt de aanvraag van de subsidie ten behoeve van het studiejaar 2010/2011 uiterlijk 31 mei 2011 ontvangen.   
-2.  In afwijking van artikel 4, eerste lid, besluit de minister uiterlijk 30 juni 2011 op de aanvraag van de subsidie ten behoeve van het studiejaar 2010/2011.   
-3.  Ten behoeve van het studiejaar 2010/2011 wordt geen voorschot verstrekt.   
-4.  In afwijking van artikel 7, derde lid, bedraagt het subsidiebedrag per gediplomeerde of instromer niet meer dan zeventwaalfde deel van het desbetreffende maximale subsidiebedrag.   
-
 ### Artikel  10  
 
 De minister kan een of meer bepalingen van deze regeling buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat de desbetreffende bepaling beoogt te beschermen zal leiden tot een onbillijkheid van overwegende aard.  
@@ -130,19 +123,45 @@ E.I.Schippers
 
 ### Bijlage  
 
+Tabel 1. Opleidingen met maximale vergoedingsbedragen studiejaar 2011–2012 
+
 | Ziekenhuisopleiding  | Maximale subsidie per instromer  | Maximale subsidie per gediplomeerde  |
 |:---|:---|:---|
-| IC-verpleegkundige  | –  | € 66.800  |
-| IC-neonatologie verpleegkundige  | –  | € 41.100  |
-| IC-kinderverpleegkundige  | –  | € 41.100  |
-| kinderverpleegkundige  | –  | € 36.000  |
-| dialyseverpleegkundige  | –  | € 51.400  |
-| oncologieverpleegkundige  | –  | € 41.100  |
-| SEH-verpleegkundige  | –  | € 41.100  |
-| obstetrieverpleegkundige  | –  | € 41.100  |
-| operatieassistent  | € 45.200  | € 90.400  |
-| anesthesiemedewerker  | € 45.200  | € 90.400  |
-| radiodiagnostisch laborant  | € 33.900  | € 67.800  |
-| radiotherapeutisch laborant  | € 33.900  | € 67.800  |
-| klinisch perfusionist  | € 45.200  | € 90.400  |
+| IC-verpleegkundige  | –  | € 67.621  |
+| IC-neonatologie verpleegkundige  | –  | € 41.605  |
+| IC-kinderverpleegkundige  | –  | € 41.605  |
+| kinderverpleegkundige  | –  | € 36.443  |
+| dialyseverpleegkundige  | –  | € 52.032  |
+| oncologieverpleegkundige  | –  | € 41.605  |
+| SEH-verpleegkundige  | –  | € 41.605  |
+| obstetrieverpleegkundige  | –  | € 41.605  |
+| Operatieassistent  | € 45.756  | € 91.511  |
+| Anesthesiemedewerker  | € 45.756  | € 91.511  |
+| radiodiagnostisch laborant  | € 34.317  | € 68.634  |
+| radiotherapeutisch laborant  | € 34.317  | € 68.634  |
+| klinisch perfusionist  | € 45.756  | € 91.511  |
+
+Tabel 2. Opleidingen met maximale vergoedingsbedragen studiejaar 2012–2013 
+
+| Ziekenhuisopleiding  | Maximale subsidie per instromer  | Maximale subsidie per gediplomeerde  |
+|:---|:---|:---|
+| IC-verpleegkundige  | –  | € 68.179  |
+| IC-neonatologie verpleegkundige  | –  | € 41.949  |
+| IC-kinderverpleegkundige  | –  | € 41.949  |
+| kinderverpleegkundige  | –  | € 36.743  |
+| dialyseverpleegkundige  | –  | € 52.461  |
+| oncologieverpleegkundige  | –  | € 41.949  |
+| SEH-verpleegkundige  | –  | € 41.949  |
+| obstetrieverpleegkundige  | –  | € 41.949  |
+| ziekenhuishygiënist  | –  | € 41.949  |
+| gipsverbandmeester  | –  | € 52.461  |
+| Operatieassistent in service  | € 46.133  | € 92.267  |
+| Anesthesiemedewerker in service  | € 46.133  | € 92.267  |
+| radiodiagnostisch laborant in service  | € 34.600  | € 69.200  |
+| radiotherapeutisch laborant in service  | € 34.600  | € 69.200  |
+| klinisch perfusionist  | € 46.133  | € 92.267  |
+| anesthesiemedewerker HBO-V-T  | –  | € 92.267  |
+| operatieassistent HBO-V-T  | –  | € 92.267  |
+| radiodiagnostisch laborant MBRT  | –  | € 69.200  |
+| radiotherapeutisch laborant MBRT  | –  | € 69.200  |
 
