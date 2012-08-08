@@ -77,22 +77,6 @@ Voor de toepassing van deze verordening wordt verstaan onder:
 
 ####Toezicht
 
-### Artikel  7  
-
-1.  De Raad bepaalt met inachtneming van het tweede en derde lid van dit artikel en de grenzen van de hem door het bestuur van de NOvAA verleende mandaat en volmacht, de invulling van de in artikel 2, tweede lid, bedoelde taak en de daarbij te hanteren werkwijze.   
-2.  De Raad voert de in de [Verordening op de periodieke Preventieve Toetsing](../../../../../../../../../../pbo/verordening/op/de/periodieke/preventieve/toetsing/BWBR0014165/README.md) bedoelde toetsing uit.   
-3.  De Raad kan een onderzoek instellen indien sprake is van een redelijk vermoeden van niet-naleving van voor accountants geldende beroepsnormen.   
-
-### Artikel  8  
-
-1.  De accountant dient op eerste aanvraag van de Raad alle gevraagde inlichtingen te verstrekken, inzage in zijn dossiers te geven en toe te staan dat afschriften worden gemaakt.   
-2.  De accountant spant zich ervoor in dat de accountantspraktijk waarin hij optreedt, op dezelfde wijze aan een toetsing of onderzoek zijn medewerking verleent als waartoe hijzelf is gehouden.   
-3.  De accountant is met betrekking tot de in dit artikel neergelegde verplichtingen ontheven van zijn plicht tot geheimhouding zoals is geregeld in artikel A-140.1 van de Verordening Gedragscode.   
-
-### Artikel  9  
-
-De Raad kan zijn bevindingen in de vorm van een klacht ter kennis van de accountantskamer brengen indien hem bij de uitoefening van het toezicht van feiten of omstandigheden blijkt die grond kunnen opleveren tot het opleggen van een tuchtrechtelijke maatregel, althans tot gegrondverklaring van de klacht.  
-
 ### Hoofdstuk  IV  
 
 ####Overige bepalingen
@@ -105,7 +89,7 @@ Jaarlijks voor 1 maart brengt de Raad een geanonimiseerd verslag uit omtrent zij
 
 1.  De Raad kan voor zijn onderzoek externe deskundigen, waaronder accountants, inschakelen.   
 2.  De Raad zal externe deskundigen verplichten tot geheimhouding ter zake van al hetgeen hun bij de vervulling van hun taak ter kennis komt behalve voor zover bij wet anders is bepaald.   
-3.  De Raad zal externe deskundigen van de in het tweede lid genoemde verplichting ontheffen indien dat noodzakelijk is voor het toezicht op de stelsels van kwaliteitsbeheersing of voor het verkrijgen dan wel behouden van de in [artikel 15, eerste lid, van de Verordening op de Periodieke Preventieve Toetsing](../../../../../../../../../../pbo/verordening/op/de/periodieke/preventieve/toetsing/BWBR0014165/README.md) bedoelde accreditatie.   
+3.  De Raad zal externe deskundigen van de in het tweede lid genoemde verplichting ontheffen indien dat noodzakelijk is voor het toezicht op de stelsels van kwaliteitsbeheersing of voor het verkrijgen dan wel behouden van de in [artikel 25, eerste lid, van de Verordening op de kwaliteitstoetsing NOvAA](../../../../../../../../../../pbo/verordening/op/de/kwaliteitstoetsing/novaa/BWBR0031878/README.md) bedoelde accreditatie.   
 
 ### Artikel  12  
 
