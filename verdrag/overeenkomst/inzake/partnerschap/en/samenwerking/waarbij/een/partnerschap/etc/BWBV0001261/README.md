@@ -4,7 +4,7 @@
 
 ####Overeenkomst inzake Partnerschap en Samenwerking waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Russische Federatie, anderzijds
 
-Het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Portugese Republiek, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Verdragsluitende Partijen bij het Verdrag tot oprichting van de Europese Gemeenschap, het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie, hierna „Lid-Staten" te noemen, en de Europese Gemeenschap, de Europese Gemeenschap voor Kolen en Staal en de Europese Gemeenschap voor Atoomenergie, hierna „de Gemeenschap" te noemen, enerzijds, en de Russische Federatie, hierna „Rusland" te noemen, anderzijds, Gelet op het belang van de historische banden tussen de Gemeenschap, haar Lid-Staten en Rusland, en hun gemeenschappelijke waarden, Erkennende dat de Gemeenschap en Rusland deze banden wensen te verstevigen en partnerschap en samenwerking tot stand willen brengen om te komen tot verdieping en verbreding van de betrekkingen die in het verleden zijn aangeknoopt, inzonderheid bij de op 18 december 1989 ondertekende Overeenkomst tussen de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie en de Unie van Socialistische Sovjetrepublieken inzake handel en commerciële en economische samenwerking, hierna „de Overeenkomst van 1989" te noemen, Gelet op de verbintenis van de Gemeenschap en haar Lid-Staten, optredend in het kader van de Europese Unie opgericht bij het Verdrag betreffende de Europese Unie van 7 februari 1992, en van Rusland tot versterking van de politieke en economische vrijheden, die de grondslag van het partnerschap vormen, Gelet op de verbintenis van de Partijen om de internationale vrede en veiligheid en de vreedzame oplossing van geschillen te bevorderen, en om op dit gebied samen te werken in het kader van de Verenigde Naties en de Conferentie over Veiligheid en Samenwerking in Europa, en andere fora, Gelet op de vaste verbintenis van de Gemeenschap en haar Lid-Staten en van Rusland tot volledige uitvoering van alle beginselen en bepalingen van de Slotakte van de Conferentie over Veiligheid en Samenwerking in Europa (CVSE), de slotdocumenten van de vervolgvergaderingen van Madrid en Wenen, het document van de CVSE-Conferentie van Bonn betreffende economische samenwerking, het Handvest van Parijs voor een Nieuw Europa en het CVSE-document van Helsinki 1992 „Uitdagingen van het Veranderingsproces", Bevestigende het grote belang dat de Gemeenschap en haar Lid-Staten en Rusland hechten aan de doelstellingen en beginselen van het Europees Energiehandvest van 17 december 1991 en aan de Verklaring van de Conferentie van Luzern van april 1993, Overtuigd van het allesoverheersende belang van de beginselen van de rechtsstaat en de eerbiediging van de mensenrechten, inzonderheid de rechten van minderheden, de totstandbrenging van een meerpartijenstelsel met vrije en democratische verkiezingen, en economische liberalisering met het oog op de totstandbrenging van een markteconomie; Van oordeel zijnde dat de voortzetting en voltooiing van de politieke en economische hervormingen in Rusland voorwaarde zijn voor de volledige uitvoering van het partnerschap; Verlangende het proces van regionale samenwerking tussen de landen van de voormalige USSR op de door deze Overeenkomst bestreken gebieden te stimuleren om welvaart en stabiliteit in deze regio te bevorderen, Verlangende regelmatige politieke dialoog over bilaterale en internationale vraagstukken van wederzijds belang tot stand te brengen en te ontwikkelen, Rekening houdende met het feit dat de Gemeenschap bereid is passende technische bijstand te verlenen voor de uitvoering van economische hervormingen in Rusland en voor de ontwikkeling van economische samenwerking, Herinnerend aan het nut van de Overeenkomst voor het bevorderen van geleidelijke toenadering tussen Rusland en een uitgestrekter samenwerkingsgebied in Europa en naburige regio's, en de geleidelijke integratie van Rusland in het open internationaal handelssysteem, Gelet op de verbintenis van de Partijen tot vrijmaking van de handel op grond van de beginselen die zijn vervat in de Algemene Overeenkomst betreffende Tarieven en Handel, hierna de „GATT" te noemen, als gewijzigd bij de handelsbesprekingen in het kader van de Uruguay-Ronde, en rekening houdend met de oprichting van de Wereldhandelsorganisatie, hierna de „WTO" te noemen, Erkennende dat Rusland niet langer een land met staatshandel is ; dat het nu een land met een overgangseconomie is en dat verdere vooruitgang op de weg naar een markteconomie zal worden bevorderd door samenwerking tussen de Partijen in de vormen die in deze Overeenkomst zijn uiteengezet; Zich bewust zijnde van de noodzaak verbetering te brengen in de voorwaarden voor bedrijfsleven en investeringen, en de voorwaarden voor, onder andere, de vestiging van ondernemingen, werknemers, het verrichten van diensten en kapitaalverkeer, Ervan overtuigd zijnde dat deze Overeenkomst een nieuw klimaat zal scheppen voor de economische betrekkingen tussen de Partijen, en vooral voor de ontwikkeling van handel en investeringen, die onontbeerlijk zijn voor economische herstructurering en technologische modernisering, Verlangende nauwe samenwerking op het gebied van milieubescherming tot stand te brengen, gezien de onderlinge afhankelijkheid van de Partijen op dit gebied, In gedachten houdende dat de Partijen voornemens zijn hun samenwerking op het gebied van ruimteonderzoek te ontwikkelen, gelet op het complementair karakter van hun activiteiten op dit gebied, Verlangende culturele samenwerking te bevorderen en de doorstroming van informatie te verbeteren, Zijn als volgt overeengekomen:    
+Het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Portugese Republiek, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Verdragsluitende Partijen bij het [Verdrag tot oprichting van de Europese Gemeenschap](../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md), het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal en het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](../../../../../../../../../../../verdrag/verdrag/tot/oprichting/van/de/europese/gemeenschap/voor/atoomenergie/etc/BWBV0004033/README.md), hierna „Lid-Staten” te noemen, en de Europese Gemeenschap, de Europese Gemeenschap voor Kolen en Staal en de Europese Gemeenschap voor Atoomenergie, hierna „de Gemeenschap” te noemen, enerzijds, ende Russische Federatie,hierna „Rusland” te noemen, anderzijds,Gelet op het belang van de historische banden tussen de Gemeenschap, haar Lid-Staten en Rusland, en hun gemeenschappelijke waarden, Erkennende dat de Gemeenschap en Rusland deze banden wensen te verstevigen en partnerschap en samenwerking tot stand willen brengen om te komen tot verdieping en verbreding van de betrekkingen die in het verleden zijn aangeknoopt, inzonderheid bij de op 18 december 1989 ondertekende Overeenkomst tussen de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie en de Unie van Socialistische Sovjetrepublieken inzake handel en commerciële en economische samenwerking, hierna „de Overeenkomst van 1989” te noemen, Gelet op de verbintenis van de Gemeenschap en haar Lid-Staten, optredend in het kader van de Europese Unie opgericht bij het [Verdrag betreffende de Europese Unie](../../../../../../../../../../../verdrag/verdrag/betreffende/de/europese/unie/BWBV0001507/README.md) van 7 februari 1992, en van Rusland tot versterking van de politieke en economische vrijheden, die de grondslag van het partnerschap vormen, Gelet op de verbintenis van de Partijen om de internationale vrede en veiligheid en de vreedzame oplossing van geschillen te bevorderen, en om op dit gebied samen te werken in het kader van de Verenigde Naties en de Conferentie over Veiligheid en Samenwerking in Europa, en andere fora, Gelet op de vaste verbintenis van de Gemeenschap en haar Lid-Staten en van Rusland tot volledige uitvoering van alle beginselen en bepalingen van de Slotakte van de Conferentie over Veiligheid en Samenwerking in Europa (CVSE), de slotdocumenten van de vervolgvergaderingen van Madrid en Wenen, het document van de CVSE-Conferentie van Bonn betreffende economische samenwerking, het Handvest van Parijs voor een Nieuw Europa en het CVSE-document van Helsinki 1992 „Uitdagingen van het Veranderingsproces”, Bevestigende het grote belang dat de Gemeenschap en haar Lid-Staten en Rusland hechten aan de doelstellingen en beginselen van het Europees Energiehandvest van 17 december 1991 en aan de Verklaring van de Conferentie van Luzern van april 1993, Overtuigd van het allesoverheersende belang van de beginselen van de rechtsstaat en de eerbiediging van de mensenrechten, inzonderheid de rechten van minderheden, de totstandbrenging van een meerpartijenstelsel met vrije en democratische verkiezingen, en economische liberalisering met het oog op de totstandbrenging van een markteconomie; Van oordeel zijnde dat de voortzetting en voltooiing van de politieke en economische hervormingen in Rusland voorwaarde zijn voor de volledige uitvoering van het partnerschap; Verlangende het proces van regionale samenwerking tussen de landen van de voormalige USSR op de door deze Overeenkomst bestreken gebieden te stimuleren om welvaart en stabiliteit in deze regio te bevorderen, Verlangende regelmatige politieke dialoog over bilaterale en internationale vraagstukken van wederzijds belang tot stand te brengen en te ontwikkelen, Rekening houdende met het feit dat de Gemeenschap bereid is passende technische bijstand te verlenen voor de uitvoering van economische hervormingen in Rusland en voor de ontwikkeling van economische samenwerking, Herinnerend aan het nut van de Overeenkomst voor het bevorderen van geleidelijke toenadering tussen Rusland en een uitgestrekter samenwerkingsgebied in Europa en naburige regio's, en de geleidelijke integratie van Rusland in het open internationaal handelssysteem, Gelet op de verbintenis van de Partijen tot vrijmaking van de handel op grond van de beginselen die zijn vervat in de [Algemene Overeenkomst betreffende Tarieven en Handel](../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), hierna de „GATT” te noemen, als gewijzigd bij de handelsbesprekingen in het kader van de Uruguay-Ronde, en rekening houdend met de oprichting van de Wereldhandelsorganisatie, hierna de „WTO” te noemen, Erkennende dat Rusland niet langer een land met staatshandel is; dat het nu een land met een overgangseconomie is en dat verdere vooruitgang op de weg naar een markteconomie zal worden bevorderd door samenwerking tussen de Partijen in de vormen die in deze Overeenkomst zijn uiteengezet; Zich bewust zijnde van de noodzaak verbetering te brengen in de voorwaarden voor bedrijfsleven en investeringen, en de voorwaarden voor, onder andere, de vestiging van ondernemingen, werknemers, het verrichten van diensten en kapitaalverkeer, Ervan overtuigd zijnde dat deze Overeenkomst een nieuw klimaat zal scheppen voor de economische betrekkingen tussen de Partijen, en vooral voor de ontwikkeling van handel en investeringen, die onontbeerlijk zijn voor economische herstructurering en technologische modernisering, Verlangende nauwe samenwerking op het gebied van milieubescherming tot stand te brengen, gezien de onderlinge afhankelijkheid van de Partijen op dit gebied, In gedachten houdende dat de Partijen voornemens zijn hun samenwerking op het gebied van ruimteonderzoek te ontwikkelen, gelet op het complementair karakter van hun activiteiten op dit gebied, Verlangende culturele samenwerking te bevorderen en de doorstroming van informatie te verbeteren,  Zijn als volgt overeengekomen:  
 
 ### Artikel  1  
 
@@ -24,7 +24,7 @@ Er wordt een partnerschap tot stand gebracht tussen de Gemeenschap en haar Lid-S
 
 - een passend kader voor de geleidelijke integratie tussen Rusland en een uitgestrekter samenwerkingsgebied in Europa tot stand te brengen;  
 
-- de nodige voorwaarden te scheppen om in de toekomst een vrijhandelszone tussen de Gemeenschap en Rusland tot stand te brengen die wezenlijk alle goederenverkeer tussen beide zal omvatten, en de voorwaarden te scheppen om de vrijheid van vestiging van vennootschappen en vrij grensoverschrijdend diensten- en kapitaalverkeer tot stand te brengen.    
+- de nodige voorwaarden te scheppen om in de toekomst een vrijhandelszone tussen de Gemeenschap en Rusland tot stand te brengen die wezenlijk alle goederenverkeer tussen beide zal omvatten, en de voorwaarden te scheppen om de vrijheid van vestiging van vennootschappen en vrij grensoverschrijdend diensten- en kapitaalverkeer tot stand te brengen.   
 
 ### TITEL  I  
 
@@ -32,20 +32,20 @@ Er wordt een partnerschap tot stand gebracht tussen de Gemeenschap en haar Lid-S
 
 ### Artikel  2  
 
-De eerbiediging van de democratische beginselen en de mensenrechten, als onder meer vastgelegd in de Slotakte van Helsinki en het Handvest van Parijs voor een Nieuw Europa, vormen de grondslag van het binnenlands en buitenlands beleid van de Partijen en zijn een essentieel onderdeel van het partnerschap en van deze Overeenkomst.  
+De eerbiediging van de democratische beginselen en de mensenrechten, als onder meer vastgelegd in de Slotakte van Helsinki en het Handvest van Parijs voor een Nieuw Europa, vormen de grondslag van het binnenlands en buitenlands beleid van de Partijen en zijn een essentieel onderdeel van het partnerschap en van deze Overeenkomst. 
 
 ### Artikel  3  
 
-De Partijen verbinden zich ertoe, voor zover de omstandigheden het toelaten, ontwikkelingen in het kader van de desbetreffende titels van deze Overeenkomst, in het bijzonder titel III en artikel 53, te bekijken met het oog op het tot stand brengen van een onderlinge vrijhandelszone. De Samenwerkingsraad kan de Partijen aanbevelingen met betrekking tot deze ontwikkelingen doen. Aan deze ontwikkelingen wordt slechts uitvoering gegeven in een overeenkomst tussen de Partijen in overeenstemming met hun onderscheiden procedures. De Partijen plegen in 1998 overleg om na te gaan of de omstandigheden van dien aard zijn dat kan worden begonnen met onderhandelingen over de totstandbrenging van een vrijhandelszone.  
+De Partijen verbinden zich ertoe, voor zover de omstandigheden het toelaten, ontwikkelingen in het kader van de desbetreffende titels van deze Overeenkomst, in het bijzonder titel III en artikel 53, te bekijken met het oog op het tot stand brengen van een onderlinge vrijhandelszone. De Samenwerkingsraad kan de Partijen aanbevelingen met betrekking tot deze ontwikkelingen doen. Aan deze ontwikkelingen wordt slechts uitvoering gegeven in een overeenkomst tussen de Partijen in overeenstemming met hun onderscheiden procedures. De Partijen plegen in 1998 overleg om na te gaan of de omstandigheden van dien aard zijn dat kan worden begonnen met onderhandelingen over de totstandbrenging van een vrijhandelszone. 
 
 ### Artikel  4  
 
-De Partijen verbinden zich ertoe samen, in onderlinge overeenstemming, na te gaan welke wijzigingen eventueel in een onderdeel van de Overeenkomst dienen te worden aangebracht in verband met gewijzigde omstandigheden, inzonderheid de situatie als gevolg van de toetreding van Rusland tot de GATT/WTO. Het eerste onderzoek vindt plaats drie jaar na de inwerkingtreding van deze Overeenkomst, of wanneer Rusland tot de GATT/WTO toetreedt, indien dat eerder plaatsvindt.  
+De Partijen verbinden zich ertoe samen, in onderlinge overeenstemming, na te gaan welke wijzigingen eventueel in een onderdeel van de Overeenkomst dienen te worden aangebracht in verband met gewijzigde omstandigheden, inzonderheid de situatie als gevolg van de toetreding van Rusland tot de GATT/WTO. Het eerste onderzoek vindt plaats drie jaar na de inwerkingtreding van deze Overeenkomst, of wanneer Rusland tot de GATT/WTO toetreedt, indien dat eerder plaatsvindt. 
 
 ### Artikel  5  
 
 1.  De krachtens deze Overeenkomst door Rusland toegekende meestbegunstigingsbehandeling gedurende een overgangsperiode die vijf jaar na de inwerkingtreding van deze Overeenkomst afloopt, is niet van toepassing op de in bijlage 1 vermelde voordelen die Rusland heeft toegekend aan andere landen van de voormalige USSR. Deze periode kan, zo nodig, in onderlinge overeenstemming tussen de Partijen worden verlengd voor bepaalde sectoren.   
-2.  Bij meestbegunstiging krachtens titel III eindigt de in lid 1 bedoelde overgangsperiode drie jaar na de inwerkingtreding van deze Overeenkomst of, indien dat eerder plaatsvindt, wanneer Rusland tot de GATT/WTO toetreedt.   
+2.  Bij meestbegunstiging krachtens titel III eindigt de in lid 1 bedoelde overgangsperiode drie jaar na de inwerkingtreding van deze Overeenkomst of, indien dat eerder plaatsvindt, wanneer Rusland tot de GATT/WTO toetreedt.  
 
 ### TITEL  II  
 
@@ -55,16 +55,16 @@ De Partijen verbinden zich ertoe samen, in onderlinge overeenstemming, na te gaa
 
 Er wordt een regelmatige politieke dialoog tot stand gebracht tussen de Partijen, die zal worden ontwikkeld en geïntensiveerd. Deze dialoog begeleidt en consolideert het proces waarbij de Europese Unie en Rusland nader tot elkaar komen, ondersteunt de politieke en economische veranderingen die in Rusland aan de gang zijn en draagt bij tot de totstandkoming van nieuwe vormen van samenwerking. De politieke dialoog strekt ertoe 
 
-- de banden van Rusland met de Europese Unie te versterken; de economische convergentie die door middel van deze Overeenkomst wordt bewerkstelligd, zal leiden tot hechtere politieke betrekkingen;  
+-de banden van Rusland met de Europese Unie te versterken; de economische convergentie die door middel van deze Overeenkomst wordt bewerkstelligd, zal leiden tot hechtere politieke betrekkingen; 
 
 - de standpunten over internationale vraagstukken van wederzijds belang nader tot elkaar te brengen en aldus meer veiligheid en stabiliteit te bewerkstelligen;  
 
-- ervoor te zorgen dat de Partijen streven naar samenwerking voor aangelegenheden op het gebied van de eerbiediging van de democratische beginselen en van de mensenrechten, waarbij zo nodig overleg wordt gepleegd over aangelegenheden die verband houden met de juiste toepassing ervan.    
+- ervoor te zorgen dat de Partijen streven naar samenwerking voor aangelegenheden op het gebied van de eerbiediging van de democratische beginselen en van de mensenrechten, waarbij zo nodig overleg wordt gepleegd over aangelegenheden die verband houden met de juiste toepassing ervan.   
 
 ### Artikel  7  
 
 1.  In beginsel tweemaal per jaar heeft een bijeenkomst plaats tussen de Voorzitter van de Raad van de Europese Unie en de Voorzitter van de Europese Commissie, enerzijds, en de President van Rusland, anderzijds.   
-2.  Op ministerieel niveau vindt de politieke dialoog plaats in het kader van de bij artikel 90 opgerichte Samenwerkingsraad en bij andere gelegenheden, in onderlinge overeenstemming ook met de Trojka van de Europese Unie.   
+2.  Op ministerieel niveau vindt de politieke dialoog plaats in het kader van de bij artikel 90 opgerichte Samenwerkingsraad en bij andere gelegenheden, in onderlinge overeenstemming ook met de Trojka van de Europese Unie.  
 
 ### Artikel  8  
 
@@ -74,11 +74,11 @@ De Partijen voorzien in andere procedures en regelingen voor politieke dialoog, 
 
 - het optimaal gebruik maken van diplomatieke kanalen;  
 
-- alle andere middelen, waaronder vergaderingen van deskundigen, die bijdragen tot het consolideren en ontwikkelen van deze dialoog.    
+- alle andere middelen, waaronder vergaderingen van deskundigen, die bijdragen tot het consolideren en ontwikkelen van deze dialoog.   
 
 ### Artikel  9  
 
-Op parlementair niveau vindt de politieke dialoog plaats in het kader van het bij artikel 95 opgerichte Parlementair Samenwerkingscomité.  
+Op parlementair niveau vindt de politieke dialoog plaats in het kader van het bij artikel 95 opgerichte Parlementair Samenwerkingscomité. 
 
 ### TITEL  III  
 
@@ -91,20 +91,20 @@ Op parlementair niveau vindt de politieke dialoog plaats in het kader van het bi
 
 a. voordelen die aan buurlanden worden toegekend ten einde het grensverkeer te vereenvoudigen;  
 
-b. voordelen die met het oog op de oprichting van een douane-unie of een vrijhandelszone of ingevolge de oprichting van een dergelijke unie of zone worden toegekend. Onder „douane-unie" en „vrijhandelszone" worden verstaan de unies of zones die zijn omschreven in artikel XXIV van de GATT of die volgens lid 10 van dit artikel van de GATT worden ingesteld;  
+b. voordelen die met het oog op de oprichting van een douane-unie of een vrijhandelszone of ingevolge de oprichting van een dergelijke unie of zone worden toegekend. Onder „douane-unie” en „vrijhandelszone” worden verstaan de unies of zones die zijn omschreven in artikel XXIV van de GATT of die volgens lid 10 van dit artikel van de GATT worden ingesteld;  
 
-c. voordelen die aan bepaalde landen worden toegekend overeenkomstig de GATT en andere internationale regelingen ten gunste van ontwikkelingslanden.     
+c. voordelen die aan bepaalde landen worden toegekend overeenkomstig de [GATT](../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) en andere internationale regelingen ten gunste van ontwikkelingslanden.    
 
 ### Artikel  11  
 
 1.  De uit het grondgebied van een Partij herkomstige produkten die op het grondgebied van de andere Partij worden ingevoerd, worden direct noch indirect onderworpen aan enige interne belastingen of andere interne heffingen die hoger zijn dan die welke direct of indirect op soortgelijke binnenlandse produkten van toepassing zijn.   
-2.  Voorts worden deze produkten niet minder gunstig behandeld dan soortgelijke nationale produkten ten aanzien van alle wettelijke en bestuursrechtelijke bepalingen en vereisten met betrekking tot hun verkoop op de binnenlandse markt, aanbieding ten verkoop, aankoop, vervoer, distributie of gebruik. De bepalingen van dit lid vormen geen beletsel voor de toepassing van gedifferentieerde binnenlandse vervoertarieven die uitsluitend gebaseerd zijn op de economisch verantwoorde exploitatie van het vervoermiddel en niet op de nationaliteit van het produkt.   
-3.  Artikel III, leden 8, 9 en 10, van de GATT is van overeenkomstige toepassing tussen de Partijen.   
+2.  Voorts worden deze produkten niet minder gunstig behandeld dan soortgelijke nationale produkten ten aanzien van alle wettelijke en bestuursrechtelijke bepalingen en vereisten met betrekking tot hun verkoop op de binnenlandse markt, aanbieding ten verkoop, aankoop, vervoer, distributie of gebruik. De bepalingen van dit lid vormen geen beletsel voor de toepassing van gedifferentieerde binnenlandse vervoertarieven die uitsluitend gebaseerd zijn op de economisch verantwoorde exploitatie van het vervoermiddel en niet op de nationaliteit van het produkt.  
+3. Artikel III, leden 8, 9 en 10, van de GATT is van overeenkomstige toepassing tussen de Partijen.
 
 ### Artikel  12  
 
 1.  De Partijen zijn het erover eens dat het beginsel van de vrije doorvoer een essentiële voorwaarde is voor het bereiken van de doelstellingen van deze Overeenkomst. Met het oog hierop waarborgt elke Partij de vrije doorgang over zijn grondgebied van goederen die van oorsprong zijn uit of bestemd zijn voor het douanegebied van de andere Partij.   
-2.  De in artikel V, leden 2,3, 4 en 5, van de GATT vastgestelde regels zijn tussen de Partijen van toepassing.   
+2.  De in artikel V, leden 2,3, 4 en 5, van de GATT vastgestelde regels zijn tussen de Partijen van toepassing.  
 
 ### Artikel  13  
 
@@ -112,24 +112,24 @@ De hierna volgende artikelen van de GATT zijn van overeenkomstige toepassing tus
 
 1. artikel VII, leden 1, 2, 3, 4 a, b en d, en 5;  
 
-2. artikel VIII;  
+2.artikel VIII;
 
-3. artikel IX;  
+3.artikel IX;
 
-4. artikel X.    
+4.artikel X. 
 
 ### Artikel  14  
 
-Onverminderd de rechten en verplichtingen die voortvloeien uit de beide Partijen bindende internationale overeenkomsten betreffende de tijdelijke invoer van goederen, verleent elke Partij de andere Partij, in de gevallen en volgens de procedures die zijn vastgesteld in enige andere voor haar bindende internationale overeenkomst op dit gebied en overeenkomstig haar nationale wettelijke regeling ter zake, vrijstelling van invoerrechten en -heffingen op goederen die tijdelijk worden ingevoerd. Deze wettelijke bepalingen worden toegepast met inachtneming van de meestbegunstigingsregeling en, derhalve, onder voorbehoud van de in artikel 10, lid 2, van deze Overeenkomst vermelde uitzonderingen. Hierbij wordt rekening gehouden met de voorwaarden waaronder de uit een dergelijke Overeenkomst voortvloeiende verplichtingen door de betrokken Partij zijn aanvaard.  
+Onverminderd de rechten en verplichtingen die voortvloeien uit de beide Partijen bindende internationale overeenkomsten betreffende de tijdelijke invoer van goederen, verleent elke Partij de andere Partij, in de gevallen en volgens de procedures die zijn vastgesteld in enige andere voor haar bindende internationale overeenkomst op dit gebied en overeenkomstig haar nationale wettelijke regeling ter zake, vrijstelling van invoerrechten en -heffingen op goederen die tijdelijk worden ingevoerd. Deze wettelijke bepalingen worden toegepast met inachtneming van de meestbegunstigingsregeling en, derhalve, onder voorbehoud van de in artikel 10, lid 2, van deze Overeenkomst vermelde uitzonderingen. Hierbij wordt rekening gehouden met de voorwaarden waaronder de uit een dergelijke Overeenkomst voortvloeiende verplichtingen door de betrokken Partij zijn aanvaard. 
 
 ### Artikel  15  
 
 1.  Onverminderd het bepaalde in de artikelen 17, 20 en 21 van deze Overeenkomst en in de artikelen 77, 81, 244, 249 en 280 van de Toetredingsakte van Spanje en Portugal tot de Gemeenschap worden bij de invoer in de Gemeenschap van goederen van oorsprong uit Rusland geen kwantitatieve beperkingen toegepast.   
-2.  Onverminderd het bepaalde in de artikelen 17, 20 en 21 en in bijlage 2 van deze Overeenkomst worden bij de invoer in Rusland van goederen van oorsprong uit de Gemeenschap geen kwantitatieve beperkingen toegepast.   
+2.  Onverminderd het bepaalde in de artikelen 17, 20 en 21 en in bijlage 2 van deze Overeenkomst worden bij de invoer in Rusland van goederen van oorsprong uit de Gemeenschap geen kwantitatieve beperkingen toegepast.  
 
 ### Artikel  16  
 
-In afwachting dat Rusland tot de GATT/WTO toetreedt, plegen de partijen in het Samenwerkingscomité overleg over hun beleid op het gebied van invoerrechten, onder meer over wijzigingen in de tariefbescherming. Meer bepaald wordt dergelijk overleg aangeboden voor een voorgenomen verhoging van de tariefbescherming.  
+In afwachting dat Rusland tot de GATT/WTO toetreedt, plegen de partijen in het Samenwerkingscomité overleg over hun beleid op het gebied van invoerrechten, onder meer over wijzigingen in de tariefbescherming. Meer bepaald wordt dergelijk overleg aangeboden voor een voorgenomen verhoging van de tariefbescherming. 
 
 ### Artikel  17  
 
@@ -139,19 +139,19 @@ In afwachting dat Rusland tot de GATT/WTO toetreedt, plegen de partijen in het S
 4.  In hoogdringende omstandigheden, waarin uitstel moeilijk herstelbare schade zou veroorzaken, kunnen de Partijen maatregelen nemen vóór het overleg heeft plaatsgevonden, op voorwaarde dat onmiddellijk daarna een voorstel tot overleg wordt gedaan.   
 5.  Bij de keuze van de in het kader van dit artikel toe te passen maatregelen geven de Partijen de voorkeur aan maatregelen die het bereiken van de doelstellingen van deze Overeenkomst het minst in de weg staan.   
 6.  Wanneer een Partij overeenkomstig dit artikel een vrijwaringsmaatregel neemt, is de andere Partij ten aanzien van de eerste Partij ontheven van haar verplichtingen uit hoofde van titel III van deze Overeenkomst met betrekking tot een grosso modo gelijkwaardig handelsverkeer. Een dergelijke maatregel wordt niet genomen voor deze andere Partij overleg heeft aangeboden, noch indien binnen 45 dagen na de datum waarop dit overleg werd aangeboden overeenstemming wordt bereikt.   
-7.  Het recht tot het niet nakomen van in lid 6 bedoelde verplichtingen wordt niet uitgeoefend gedurende de eerste drie jaar dat een vrijwaringsmaatregel van toepassing is, mits de vrijwaringsmaatregel werd genomen naar aanleiding van een toename van de invoer in absolute cijfers, voor een periode van ten hoogste vier jaar en overeenkomstig de bepalingen van deze Overeenkomst.   
+7.  Het recht tot het niet nakomen van in lid 6 bedoelde verplichtingen wordt niet uitgeoefend gedurende de eerste drie jaar dat een vrijwaringsmaatregel van toepassing is, mits de vrijwaringsmaatregel werd genomen naar aanleiding van een toename van de invoer in absolute cijfers, voor een periode van ten hoogste vier jaar en overeenkomstig de bepalingen van deze Overeenkomst.  
 
 ### Artikel  18  
 
-Niets in deze titel, inzonderheid in artikel 17 daarvan, staat in de weg aan of heeft gevolgen voor het nemen door een Partij van antidumpingmaatregelen of compenserende maatregelen overeenkomstig artikel VI van de GATT, de Overeenkomst inzake de uitlegging en de toepassing van de artikelen VI, XVI en XXIII van de GATT of aanverwante nationale wetgeving. Elke Partij verklaart zich bereid de door de andere Partij naar voren gebrachte argumenten in verband met antidumping- of antisubsidieprocedures te onderzoeken en de betrokken belanghebbenden in kennis te stellen van de belangrijkste feiten en overwegingen die aan de definitieve beslissing ten grondslag zullen liggen. Voor definitieve antidumpingrechten en compenserende rechten worden ingesteld, doen de Partijen al het mogelijke om het probleem tot een constructieve oplossing te brengen.  
+Niets in deze titel, inzonderheid in artikel 17 daarvan, staat in de weg aan of heeft gevolgen voor het nemen door een Partij van antidumpingmaatregelen of compenserende maatregelen overeenkomstig artikel VI van de GATT, de [Overeenkomst inzake de uitlegging en de toepassing van de artikelen VI](../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), XVI en XXIII van de GATT of aanverwante nationale wetgeving. Elke Partij verklaart zich bereid de door de andere Partij naar voren gebrachte argumenten in verband met antidumping- of antisubsidieprocedures te onderzoeken en de betrokken belanghebbenden in kennis te stellen van de belangrijkste feiten en overwegingen die aan de definitieve beslissing ten grondslag zullen liggen. Voor definitieve antidumpingrechten en compenserende rechten worden ingesteld, doen de Partijen al het mogelijke om het probleem tot een constructieve oplossing te brengen. 
 
 ### Artikel  19  
 
-De Overeenkomst vormt geen beletsel voor verboden of beperkingen op de invoer, de uitvoer of de doorvoer van goederen die gerechtvaardigd zijn uit hoofde van de bescherming van de openbare zedelijkheid, de openbare orde en veiligheid, de gezondheid en het leven van personen en dieren of het behoud van planten, de bescherming van natuurlijke hulpbronnen, de bescherming van het nationaal artistiek, historisch of archeologisch erfgoed of uit hoofde van de bescherming van de intellectuele, industriële of commerciële eigendom, noch voor voorschriften betreffende goud en zilver. Deze verboden of beperkingen mogen echter geen middel tot willekeurige discriminatie, noch een verkapte beperking van de handel tussen de Partijen vormen.  
+De Overeenkomst vormt geen beletsel voor verboden of beperkingen op de invoer, de uitvoer of de doorvoer van goederen die gerechtvaardigd zijn uit hoofde van de bescherming van de openbare zedelijkheid, de openbare orde en veiligheid, de gezondheid en het leven van personen en dieren of het behoud van planten, de bescherming van natuurlijke hulpbronnen, de bescherming van het nationaal artistiek, historisch of archeologisch erfgoed of uit hoofde van de bescherming van de intellectuele, industriële of commerciële eigendom, noch voor voorschriften betreffende goud en zilver. Deze verboden of beperkingen mogen echter geen middel tot willekeurige discriminatie, noch een verkapte beperking van de handel tussen de Partijen vormen. 
 
 ### Artikel  20  
 
-Deze titel laat de Overeenkomst tussen de Europese Economische Gemeenschap en de Russische Federatie betreffende de handel in textielprodukten, die op 12 juni 1993 werd geparafeerd en die met terugwerkende kracht van toepassing is sedert 1 januari 1993, onverlet. Voorts is artikel 15 van de onderhavige Overeenkomst niet van toepassing op de handel in textielprodukten van de hoofdstukken 50 tot en met 63 van de Gecombineerde Nomenclatuur.  
+Deze titel laat de Overeenkomst tussen de Europese Economische Gemeenschap en de Russische Federatie betreffende de handel in textielprodukten, die op 12 juni 1993 werd geparafeerd en die met terugwerkende kracht van toepassing is sedert 1 januari 1993, onverlet. Voorts is artikel 15 van de onderhavige Overeenkomst niet van toepassing op de handel in textielprodukten van de hoofdstukken 50 tot en met 63 van de Gecombineerde Nomenclatuur. 
 
 ### Artikel  21  
 
@@ -160,7 +160,7 @@ Deze titel laat de Overeenkomst tussen de Europese Economische Gemeenschap en de
 - van deze Titel, met uitzondering van artikel 15 daarvan; en  
 
 - van een overeenkomst betreffende kwantitatieve regelingen voor de handel in EGKS-staalprodukten, vanaf het tijdstip van inwerkingtreding daarvan.     
-2.  Een Contactgroep Kolen en Staal wordt opgericht overeenkomstig Protocol 1 bij deze Overeenkomst.   
+2.  Een Contactgroep Kolen en Staal wordt opgericht overeenkomstig Protocol 1 bij deze Overeenkomst.  
 
 ### Artikel  22  
 
@@ -168,7 +168,7 @@ Deze titel laat de Overeenkomst tussen de Europese Economische Gemeenschap en de
 
 1.  De handel in kernmaterialen is geregeld bij: 
 
-- de bepalingen van deze Overeenkomst, met uitzondering van de artikelen 15 en 17, leden 1 tot en met 5, en lid 7;  
+- de bepalingen van deze Overeenkomst, met uitzondering van de artikelen 15 en 17, leden 1 tot en met 5, en lid 7;
 
 - de bepalingen van de artikelen 6, 7, 14 en 15, leden 1, 2, 3, eerste zin, en leden 4 en 5, van de Overeenkomst van 1989;  
 
@@ -184,7 +184,7 @@ Deze titel laat de Overeenkomst tussen de Europese Economische Gemeenschap en de
 
 - wordt de uitdrukking „de Overeenkomstsluitende Partijen" in de artikelen 6, 7, 14 en 15 van de Overeenkomst van 1989 geacht te verwijzen naar de Partijen bij de onderhavige Overeenkomst;  
 
-- wordt de term „Gemengd Comité" in artikel 15 van de Overeenkomst van 1989 geacht te verwijzen naar het Samenwerkingscomité als bedoeld in artikel 92 van de onderhavige Overeenkomst.     
+- wordt de term „Gemengd Comité" in artikel 15 van de Overeenkomst van 1989 geacht te verwijzen naar het Samenwerkingscomité als bedoeld in artikel 92 van de onderhavige Overeenkomst.    
 
 ### TITEL  IV  
 
@@ -197,7 +197,7 @@ Deze titel laat de Overeenkomst tussen de Europese Economische Gemeenschap en de
 ### Artikel  23  
 
 1.  Met inachtneming van de in elke Lid-Staat geldende wettelijke regelingen, voorwaarden en procedures zorgen de Gemeenschap en haar Lid-Staten ervoor dat onderdanen van Rusland die wettig tewerkgesteld zijn op het grondgebied van een Lid-Staat, niet op grond van nationaliteit worden gediscrimineerd ten opzichte van de onderdanen van deze Lid-Staat wat werkomstandigheden, beloning en ontslag betreft.   
-2.  Met inachtneming van de in Rusland geldende voorwaarden en bepalingen kent Rusland aan onderdanen van een lid-Staat die wettig tewerkgesteld zijn op zijn grondgebied, de in lid 1 bepaalde behandeling toe.   
+2.  Met inachtneming van de in Rusland geldende voorwaarden en bepalingen kent Rusland aan onderdanen van een lid-Staat die wettig tewerkgesteld zijn op zijn grondgebied, de in lid 1 bepaalde behandeling toe.  
 
 ### Artikel  24  
 
@@ -213,19 +213,19 @@ De Partijen verbinden zich ertoe overeenkomsten te sluiten met het doel:
 
 - de betrokken werknemers ontvangen in voorkomend geval gezinstoelagen voor hun bovengenoemde gezinsleden.    
 
-2. onverminderd de voorwaarden en bepalingen welke in Rusland van toepassing zijn, de nodige bepalingen vast te stellen opdat werknemers die onderdaan zijn van een Lid-Staat en die wettig tewerkgesteld zijn in Rusland, alsmede hun gezinsleden die er wettig verblijven, een soortgelijke behandeling krijgen als deze bepaald onder het tweede en derde streepje van lid 1.    
+2. onverminderd de voorwaarden en bepalingen welke in Rusland van toepassing zijn, de nodige bepalingen vast te stellen opdat werknemers die onderdaan zijn van een Lid-Staat en die wettig tewerkgesteld zijn in Rusland, alsmede hun gezinsleden die er wettig verblijven, een soortgelijke behandeling krijgen als deze bepaald onder het tweede en derde streepje van lid 1.   
 
 ### Artikel  25  
 
-De overeenkomstig artikel 24 van deze Overeenkomst te nemen maatregelen laten de uit bilaterale overeenkomsten tussen de Lid-Staten en Rusland voortvloeiende rechten en verplichtingen onverlet wanneer deze overeenkomsten in een gunstiger behandeling van onderdanen van de Lid-Staten of Rusland voorzien.  
+De overeenkomstig artikel 24 van deze Overeenkomst te nemen maatregelen laten de uit bilaterale overeenkomsten tussen de Lid-Staten en Rusland voortvloeiende rechten en verplichtingen onverlet wanneer deze overeenkomsten in een gunstiger behandeling van onderdanen van de Lid-Staten of Rusland voorzien. 
 
 ### Artikel  26  
 
-De Samenwerkingsraad gaat na welke verbeteringen kunnen worden aangebracht in de werkomstandigheden van zakenlieden, rekening houdende met de internationale verbintenissen van de Partijen, met inbegrip van die welke in het document van de Conferentie van Bonn van de CVSE zijn neergelegd.  
+De Samenwerkingsraad gaat na welke verbeteringen kunnen worden aangebracht in de werkomstandigheden van zakenlieden, rekening houdende met de internationale verbintenissen van de Partijen, met inbegrip van die welke in het document van de Conferentie van Bonn van de CVSE zijn neergelegd. 
 
 ### Artikel  27  
 
-De Samenwerkingsraad doet aanbevelingen voor de tenuitvoerlegging van de artikelen 23 en 26 van deze Overeenkomst.  
+De Samenwerkingsraad doet aanbevelingen voor de tenuitvoerlegging van de artikelen 23 en 26 van deze Overeenkomst. 
 
 ### HOOFDSTUK  II  
 
@@ -237,15 +237,15 @@ De Samenwerkingsraad doet aanbevelingen voor de tenuitvoerlegging van de artikel
 2.  Onverminderd de in bijlage 3 genoemde voorbehouden kennen de Gemeenschap en haar Lid-Staten de op hun grondgebied gevestigde dochterondernemingen van Russische vennootschappen, wat de werking daarvan betreft, geen minder gunstige behandeling toe dan de meest voordelige behandeling die zij toekennen aan andere vennootschappen uit de Gemeenschap of aan vennootschappen uit de Gemeenschap die dochterondernemingen zijn van een vennootschap uit enig derde land, overeenkomstig hun wettelijke en bestuursrechtelijke bepalingen.   
 3.  Onverminderd de in bijlage 4 genoemde voorbehouden kent Rusland aan de in Rusland gevestigde dochterondernemingen van vennootschappen uit de Gemeenschap, wat de werking daarvan betreft, geen minder gunstige behandeling toe dan de meest voordelige behandeling die het toekent aan andere Russische vennootschappen of aan Russische vennootschappen die dochterondernemingen zijn van een vennootschap uit enig derde land, overeenkomstig zijn wettelijke en bestuursrechtelijke bepalingen.   
 4.  De Gemeenschap en haar Lid-Staten, enerzijds, en Rusland, anderzijds, kennen aan filialen van Russische vennootschappen respectievelijk vennootschappen uit de Gemeenschap, wat de werking daarvan betreft, geen minder gunstige behandeling toe dan die welke zij aan filialen van vennootschappen uit enig derde land toekennen, overeenkomstig hun wettelijke en bestuursrechtelijke bepalingen.   
-5.  De bepalingen van de leden 2 en 3 mogen door de op het grondgebied van een Partij gevestigde dochterondernemingen van vennootschappen uit de andere Partij niet worden gebruikt om de wettelijke en bestuursrechtelijke bepalingen van de eerste Partij in verband met de toegang tot specifieke sectoren of activiteiten te omzeilen. De in de leden 2 en 3 bedoelde behandeling wordt aan vennootschappen die op de datum van inwerkingtreding van deze Overeenkomst in de Gemeenschap of Rusland gevestigd zijn, toegekend met ingang van de datum van inwerkingtreding van deze Overeenkomst, en aan vennootschappen die zich na deze datum in de Gemeenschap of Rusland vestigen met ingang van de datum van vestiging.   
+5.  De bepalingen van de leden 2 en 3 mogen door de op het grondgebied van een Partij gevestigde dochterondernemingen van vennootschappen uit de andere Partij niet worden gebruikt om de wettelijke en bestuursrechtelijke bepalingen van de eerste Partij in verband met de toegang tot specifieke sectoren of activiteiten te omzeilen. De in de leden 2 en 3 bedoelde behandeling wordt aan vennootschappen die op de datum van inwerkingtreding van deze Overeenkomst in de Gemeenschap of Rusland gevestigd zijn, toegekend met ingang van de datum van inwerkingtreding van deze Overeenkomst, en aan vennootschappen die zich na deze datum in de Gemeenschap of Rusland vestigen met ingang van de datum van vestiging.  
 
 ### Artikel  29  
 
-De bepalingen van artikel 28 van deze Overeenkomst, junctis de navolgende bepalingen, zijn van toepassing ten aanzien van de in bijlage 6 bedoelde bancaire en verzekeringsdiensten.  
-1.  Wat de in bijlage 6, deel B, bedoelde bancaire diensten betreft, is de aard van de door Rusland overeenkomstig artikel 28, lid 1, toegekende behandeling in geval van vestiging uitsluitend via dochterondernemingen en de overeenkomstig artikel 28, lid 3, toegekende behandeling omschreven in bijlage 7, deel A. Wat de in bijlage 6, deel A, punten 1 en 2, bedoelde verzekeringsdiensten betreft, is de aard van de door Rusland overeenkomstig artikel 28, lid 1, toegekende behandeling omschreven in bijlage 7, deel B.   
-2.  Geen enkele bepaling van deze Overeenkomst verzet zich ertegen dat een Partij prudentiële regels vaststelt, met name ter bescherming van investeerders, depositogevers, polishouders of personen die een fiduciaire rechtsverhouding hebben met een financiële dienstverlener of ter bescherming van de integriteit en de stabiliteit van het financiële systeem. Deze maatregelen mogen door een Partij niet worden aangewend om zich aan de uit de Overeenkomst voortvloeiende verplichtingen te onttrekken. Geen enkele bepaling van deze Overeenkomst wordt derwijze uitgelegd dat zij een Partij ertoe verplicht informatie betreffende de zakelijke transacties en de financiële situatie van individuele klanten of vertrouwelijke of geoctrooieerde informatie die in het bezit is van overheidsinstanties vrij te geven.   
-3.  Onverminderd het bepaalde in deel A, lid 1, onder d en e, van bijlage 7 verbinden de Gemeenschap en de Lid-Staten, enerzijds, en Rusland, anderzijds, zich ertoe geen nieuwe voorschriften vast te stellen of maatregelen te nemen waardoor, in vergelijking met de situatie op de datum van ondertekening van de Overeenkomst, discriminatie ten aanzien van nationale vennootschappen ontstaat of bestaande discriminatie wordt versterkt, wat de voorwaarden voor de vestiging van vennootschappen van de andere Partij op hun respectieve grondgebieden betreft. De Partijen komen overeen dat het zinsdeel „bestaande discriminatie wordt versterkt" onder meer de verslechtering van discriminerende voorwaarden of de uitbreiding of de wederinvoering daarvan na de huidige toepassingsperiode omvat.   
-4.  Voor de toepassing van deze Overeenkomst met betrekking tot de bankactiviteiten wordt een vennootschap geacht een Russische dochteronderneming van een vennootschap uit de Gemeenschap te zijn, wanneer meer dan vijftig procent (50 %) van het aandelenkapitaal in het bezit is van de vennootschap uit de Gemeenschap.   
+De bepalingen van artikel 28 van deze Overeenkomst, junctis de navolgende bepalingen, zijn van toepassing ten aanzien van de in bijlage 6 bedoelde bancaire en verzekeringsdiensten. 
+1. Wat de in bijlage 6, deel B, bedoelde bancaire diensten betreft, is de aard van de door Rusland overeenkomstig artikel 28, lid 1, toegekende behandeling in geval van vestiging uitsluitend via dochterondernemingen en de overeenkomstig artikel 28, lid 3, toegekende behandeling omschreven in bijlage 7, deel A. Wat de in bijlage 6, deel A, punten 1 en 2, bedoelde verzekeringsdiensten betreft, is de aard van de door Rusland overeenkomstig artikel 28, lid 1, toegekende behandeling omschreven in bijlage 7, deel B.
+2. Geen enkele bepaling van deze Overeenkomst verzet zich ertegen dat een Partij prudentiële regels vaststelt, met name ter bescherming van investeerders, depositogevers, polishouders of personen die een fiduciaire rechtsverhouding hebben met een financiële dienstverlener of ter bescherming van de integriteit en de stabiliteit van het financiële systeem. Deze maatregelen mogen door een Partij niet worden aangewend om zich aan de uit de Overeenkomst voortvloeiende verplichtingen te onttrekken. Geen enkele bepaling van deze Overeenkomst wordt derwijze uitgelegd dat zij een Partij ertoe verplicht informatie betreffende de zakelijke transacties en de financiële situatie van individuele klanten of vertrouwelijke of geoctrooieerde informatie die in het bezit is van overheidsinstanties vrij te geven.
+3. Onverminderd het bepaalde in deel A, lid 1, onder d en e, van bijlage 7 verbinden de Gemeenschap en de Lid-Staten, enerzijds, en Rusland, anderzijds, zich ertoe geen nieuwe voorschriften vast te stellen of maatregelen te nemen waardoor, in vergelijking met de situatie op de datum van ondertekening van de Overeenkomst, discriminatie ten aanzien van nationale vennootschappen ontstaat of bestaande discriminatie wordt versterkt, wat de voorwaarden voor de vestiging van vennootschappen van de andere Partij op hun respectieve grondgebieden betreft. De Partijen komen overeen dat het zinsdeel „bestaande discriminatie wordt versterkt" onder meer de verslechtering van discriminerende voorwaarden of de uitbreiding of de wederinvoering daarvan na de huidige toepassingsperiode omvat.
+4. Voor de toepassing van deze Overeenkomst met betrekking tot de bankactiviteiten wordt een vennootschap geacht een Russische dochteronderneming van een vennootschap uit de Gemeenschap te zijn, wanneer meer dan vijftig procent (50 %) van het aandelenkapitaal in het bezit is van de vennootschap uit de Gemeenschap. 
 
 ### Artikel  30  
 
@@ -265,13 +265,13 @@ f. Onderdaan van een Lid-Staat of van Rusland: een natuurlijke persoon die een o
 
 g. „Transacties": het verrichten van economische activiteiten. Voor de in artikel 29 bedoelde financiële diensten wordt onder „transacties" verstaan het verrichten van alle economische activiteiten waarvoor de vennootschap van de bevoegde autoriteiten een vergunning heeft ontvangen overeenkomstig de wettelijke en bestuursrechtelijke bepalingen van elke Partij.  
 
-h. „Vennootschap uit de Gemeenschap" of „Russische vennootschap": een overeenkomstig het recht van een Lid-Staat respectievelijk Rusland opgerichte vennootschap die haar statutaire zetel, hoofdbestuur of hoofdvestiging op het grondgebied van de Gemeenschap respectievelijk Rusland heeft. Indien een overeenkomstig het recht van een Lid-Staat respectievelijk Rusland opgerichte vennootschap enkel haar statutaire zetel op het grondgebied van de Gemeenschap respectievelijk Rusland heeft, wordt deze vennootschap als een vennootschap uit de Gemeenschap respectievelijk een Russische vennootschap beschouwd, indien uit haar transacties een werkelijke en permanente band met de economie van een Lid-Staat respectievelijk Rusland naar voren treedt. Wat het internationale vervoer over zee betreft zijn de bepalingen van dit hoofdstuk en van hoofdstuk III eveneens van toepassing op buiten de Gemeenschap of Rusland gevestigde scheepvaartmaatschappijen waarover onderdanen van de Gemeenschap respectievelijk Rusland zeggenschap hebben, indien de vaartuigen van deze scheepvaartmaatschappijen in die Lid-Staat respectievelijk in Rusland geregistreerd zijn overeenkomstig de respectieve wettelijke regelingen van de Gemeenschap en Rusland. Voor de toepassing van deze bepaling wordt onder internationaal vervoer over zee onder meer verstaan het intermodale vervoer dat ten dele over zee plaatsvindt, onverminderd de nationale bepalingen betreffende het vervoer van goederen en passagiers met andere wijzen van vervoer.  
+h.  „Vennootschap uit de Gemeenschap" of „Russische vennootschap": een overeenkomstig het recht van een Lid-Staat respectievelijk Rusland opgerichte vennootschap die haar statutaire zetel, hoofdbestuur of hoofdvestiging op het grondgebied van de Gemeenschap respectievelijk Rusland heeft. Indien een overeenkomstig het recht van een Lid-Staat respectievelijk Rusland opgerichte vennootschap enkel haar statutaire zetel op het grondgebied van de Gemeenschap respectievelijk Rusland heeft, wordt deze vennootschap als een vennootschap uit de Gemeenschap respectievelijk een Russische vennootschap beschouwd, indien uit haar transacties een werkelijke en permanente band met de economie van een Lid-Staat respectievelijk Rusland naar voren treedt. Wat het internationale vervoer over zee betreft zijn de bepalingen van dit hoofdstuk en van hoofdstuk III eveneens van toepassing op buiten de Gemeenschap of Rusland gevestigde scheepvaartmaatschappijen waarover onderdanen van de Gemeenschap respectievelijk Rusland zeggenschap hebben, indien de vaartuigen van deze scheepvaartmaatschappijen in die Lid-Staat respectievelijk in Rusland geregistreerd zijn overeenkomstig de respectieve wettelijke regelingen van de Gemeenschap en Rusland. Voor de toepassing van deze bepaling wordt onder internationaal vervoer over zee onder meer verstaan het intermodale vervoer dat ten dele over zee plaatsvindt, onverminderd de nationale bepalingen betreffende het vervoer van goederen en passagiers met andere wijzen van vervoer.  
 
-i. Wat de in bijlage 6, deel B, bedoelde bancaire diensten betreft, wordt voor de toepassing van artikel 29 en bijlage 7 onder „dochteronderneming uit de Gemeenschap" of „Russische dochteronderneming", als omschreven onder e, verstaan een dochteronderneming die een bank is in de zin van de ter zake geldende wetgeving van een Lid-Staat respectievelijk Rusland. Wat de in bijlage 6, deel B, bedoelde bancaire diensten betreft, wordt voor de toepassing van artikel 29 en bijlage 7 onder „vennootschap uit de Gemeenschap" of „Russische vennootschap", als omschreven onder h, verstaan een vennootschap die een bank is in de zin van de ter zake geldende wetgeving van een Lid-Staat respectievelijk Rusland.    
+i. Wat de in bijlage 6, deel B, bedoelde bancaire diensten betreft, wordt voor de toepassing van artikel 29 en bijlage 7 onder „dochteronderneming uit de Gemeenschap" of „Russische dochteronderneming", als omschreven onder e, verstaan een dochteronderneming die een bank is in de zin van de ter zake geldende wetgeving van een Lid-Staat respectievelijk Rusland. Wat de in bijlage 6, deel B, bedoelde bancaire diensten betreft, wordt voor de toepassing van artikel 29 en bijlage 7 onder „vennootschap uit de Gemeenschap" of „Russische vennootschap", als omschreven onder h, verstaan een vennootschap die een bank is in de zin van de ter zake geldende wetgeving van een Lid-Staat respectievelijk Rusland.   
 
 ### Artikel  31  
 
-In afwijking van artikel 100 beletten de bepalingen van deze titel een Partij niet de maatregelen te nemen die zij noodzakelijk acht om te voorkomen dat de door haar genomen maatregelen in verband met de toegang van derde landen tot haar markten door middel van deze Overeenkomst worden omzeild.  
+In afwijking van artikel 100 beletten de bepalingen van deze titel een Partij niet de maatregelen te nemen die zij noodzakelijk acht om te voorkomen dat de door haar genomen maatregelen in verband met de toegang van derde landen tot haar markten door middel van deze Overeenkomst worden omzeild. 
 
 ### Artikel  32  
 
@@ -288,11 +288,11 @@ a. leden van het hogere kader van een organisatie die in de eerste plaats verant
 
 b. binnen een organisatie werkzame personen die beschikken over bijzondere kennis die van wezenlijk belang is voor de dienstverlening van de vestiging, de onderzoeksuitrusting, de technische werkzaamheden of het management. Afgezien van de voor het functioneren van de betrokken vestiging vereiste specifieke kennis, kan deze kennis bestaan in een hoog bekwaamheidsniveau voor de uitvoering van bepaalde werkzaamheden of het uitoefenen van een bepaald beroep waarvoor specifieke technische vaardigheden vereist zijn, met inbegrip van, in voorkomend geval, het lidmaatschap van een erkende beroepsgroep;  
 
-c. een „binnen de onderneming overgeplaatste persoon" is een natuurlijke persoon die voor een organisatie op het grondgebied van een Partij werkzaam is en die tijdelijk wordt overgeplaatst in het kader van economische activiteiten op het grondgebied van de andere Partij. De hoofdvestiging van de betrokken organisatie dient op het grondgebied van een Partij te zijn gevestigd en de overplaatsing dient te geschieden naar een vestiging van deze organisatie die op het grondgebied van de andere Partij daadwerkelijk soortgelijke economische activiteiten verricht.     
+c.  een „binnen de onderneming overgeplaatste persoon" is een natuurlijke persoon die voor een organisatie op het grondgebied van een Partij werkzaam is en die tijdelijk wordt overgeplaatst in het kader van economische activiteiten op het grondgebied van de andere Partij. De hoofdvestiging van de betrokken organisatie dient op het grondgebied van een Partij te zijn gevestigd en de overplaatsing dient te geschieden naar een vestiging van deze organisatie die op het grondgebied van de andere Partij daadwerkelijk soortgelijke economische activiteiten verricht.    
 
 ### Artikel  33  
 
-Wat de vestiging en, voor zover deze overeenkomst hierin niet voorziet, de werking van elkaars vennootschappen op hun grondgebied betreft, erkennen de Partijen dat het belangrijk is elkaar de nationale behandeling toe te kennen en komen zij overeen de mogelijkheid te onderzoeken om op een voor beide Partijen aanvaardbare grondslag en met inachtneming van de aanbevelingen van de Samenwerkingsraad daartoe strekkende maatregelen te nemen.  
+Wat de vestiging en, voor zover deze overeenkomst hierin niet voorziet, de werking van elkaars vennootschappen op hun grondgebied betreft, erkennen de Partijen dat het belangrijk is elkaar de nationale behandeling toe te kennen en komen zij overeen de mogelijkheid te onderzoeken om op een voor beide Partijen aanvaardbare grondslag en met inachtneming van de aanbevelingen van de Samenwerkingsraad daartoe strekkende maatregelen te nemen. 
 
 ### Artikel  34  
 
@@ -303,16 +303,16 @@ Wat de vestiging en, voor zover deze overeenkomst hierin niet voorziet, de werki
 
 - of het voor de Partijen mogelijk is: 
 
-= de verbintenis op te nemen geen maatregelen te nemen of acties te ondernemen die de voorwaarden voor de vestiging en de werking van elkaars vennootschappen restrictiever kunnen maken dan ten tijde van dit onderzoek het geval was, voor zover deze Overeenkomst daarin niet reeds voorziet, of  
+=de verbintenis op te nemen geen maatregelen te nemen of acties te ondernemen die de voorwaarden voor de vestiging en de werking van elkaars vennootschappen restrictiever kunnen maken dan ten tijde van dit onderzoek het geval was, voor zover deze Overeenkomst daarin niet reeds voorziet, of
 
-= andere verbintenissen aan te gaan die hun vrijheid van handelen beperken op gebieden die tussen de Partijen zijn overeengekomen op grond van de in artikel 28 genoemde verbintenissen.     Indien een Partij na een dergelijk onderzoek van mening is dat de andere Partij sedert de ondertekening van deze Overeenkomst maatregelen heeft genomen die tot een situatie hebben geleid die, wat de vestiging of de werking van vennootschappen van de eerste Partij op het grondgebied van de andere Partij betreft aanmerkelijk restrictiever is dan de situatie op de datum van ondertekening van deze Overeenkomst, kan deze Partij de andere Partij verzoeken met haar in overleg te treden. In dat geval zijn de bepalingen van deel A van bijlage 8 van toepassing.   
+=andere verbintenissen aan te gaan die hun vrijheid van handelen beperken op gebieden die tussen de Partijen zijn overeengekomen op grond van de in artikel 28 genoemde verbintenissen.  Indien een Partij na een dergelijk onderzoek van mening is dat de andere Partij sedert de ondertekening van deze Overeenkomst maatregelen heeft genomen die tot een situatie hebben geleid die, wat de vestiging of de werking van vennootschappen van de eerste Partij op het grondgebied van de andere Partij betreft aanmerkelijk restrictiever is dan de situatie op de datum van ondertekening van deze Overeenkomst, kan deze Partij de andere Partij verzoeken met haar in overleg te treden. In dat geval zijn de bepalingen van deel A van bijlage 8 van toepassing.   
 3.  Ter bevordering van de doelstellingen van dit artikel worden maatregelen genomen als bedoeld in deel B van bijlage 8.   
-4.  De bepalingen van dit artikel laten die van artikel 51 onverlet. De omstandigheden waarop artikel 51 van toepassing is, worden uitsluitend beheerst door de bepalingen van dat artikel, met uitsluiting van elk ander artikel.   
+4.  De bepalingen van dit artikel laten die van artikel 51 onverlet. De omstandigheden waarop artikel 51 van toepassing is, worden uitsluitend beheerst door de bepalingen van dat artikel, met uitsluiting van elk ander artikel.  
 
 ### Artikel  35  
 
-1.  Artikel 28 is niet van toepassing op het vervoer door de lucht, over binnenwateren en over zee.   
-2.  Wat evenwel de hierna opgesomde activiteiten van scheepvaartondernemingen op het gebied van diensten aan het internationale vervoer over zee betreft, met inbegrip van het intermodale vervoer dat ten dele over zee plaatsvindt, biedt elke Partij aan vennootschappen van de andere Partij de mogelijkheid op haar grondgebied een handelsvertegenwoordiging in de vorm van dochterondernemingen of filialen te hebben, onder voorwaarden, wat de vestiging en de werking betreft, die niet minder gunstig zijn dan de meest voordelige voorwaarden die zij aan haar eigen vennootschappen of aan dochterondernemingen of filialen van vennootschappen uit enig derde land toekent, een en ander in overeenstemming met de desbetreffende wettelijke en bestuursrechtelijke bepalingen van elke Partij.   
+1.  Artikel 28 is niet van toepassing op het vervoer door de lucht, over binnenwateren en over zee.  
+2.  Wat evenwel de hierna opgesomde activiteiten van scheepvaartondernemingen op het gebied van diensten aan het internationale vervoer over zee betreft, met inbegrip van het intermodale vervoer dat ten dele over zee plaatsvindt, biedt elke Partij aan vennootschappen van de andere Partij de mogelijkheid op haar grondgebied een handelsvertegenwoordiging in de vorm van dochterondernemingen of filialen te hebben, onder voorwaarden, wat de vestiging en de werking betreft, die niet minder gunstig zijn dan de meest voordelige voorwaarden die zij aan haar eigen vennootschappen of aan dochterondernemingen of filialen van vennootschappen uit enig derde land toekent, een en ander in overeenstemming met de desbetreffende wettelijke en bestuursrechtelijke bepalingen van elke Partij.  
 3.  Deze activiteiten omvatten onder meer: 
 
 a. het op de markt brengen en de verkoop van maritieme vervoerdiensten en aanverwante diensten door rechtstreekse contacten met klanten, van prijsopgave tot facturering;  
@@ -321,11 +321,11 @@ b. aankoop en wederverkoop van alle vervoerdiensten en aanverwante diensten, met
 
 c. voorbereiding van documentatie betreffende vervoersdocumenten, douanedocumenten of andere documenten in verband met de oorsprong en de aard van de vervoerde goederen;  
 
-d. het verschaffen van handelsinformatie, op enigerlei wijze, onder meer door middel van geautomatiseerde informatiesystemen en systemen voor elektronische gegevensuitwisseling (onverminderd alle nietdiscriminerende beperkingen op het telecommunicatieverkeer);  
+d. het verschaffen van handelsinformatie, op enigerlei wijze, onder meer door middel van geautomatiseerde informatiesystemen en systemen voor elektronische gegevensuitwisseling (onverminderd alle nietdiscriminerende beperkingen op het telecommunicatieverkeer);   
 
 e. het sluiten van enigerlei handelsovereenkomst met andere scheepvaartmaatschappijen;  
 
-f. optreden namens ondernemingen, onder meer voor het organiseren van de afroep van aanvragen om scheepsruimte of, indien nodig, het overnemen van vracht.     
+f. optreden namens ondernemingen, onder meer voor het organiseren van de afroep van aanvragen om scheepsruimte of, indien nodig, het overnemen van vracht.   
 
 ### HOOFDSTUK  III  
 
@@ -333,11 +333,11 @@ f. optreden namens ondernemingen, onder meer voor het organiseren van de afroep 
 
 ### Artikel  36  
 
-Voor de in bijlage 5 bij deze Overeenkomst vermelde sectoren verlenen de Partijen elkaar een behandeling welke niet minder gunstig is dan die welke zij aan om het even welk derde land toekennen ten aanzien van de voorwaarden voor de grensoverschrijdende dienstverlening door vennootschappen uit de Gemeenschap respectievelijk Russische vennootschappen op het grondgebied van Rusland respectievelijk de Gemeenschap, in overeenstemming met de op het grondgebied van de respectieve Partijen toepasselijke wettelijke en bestuursrechtelijke bepalingen.  
+Voor de in bijlage 5 bij deze Overeenkomst vermelde sectoren verlenen de Partijen elkaar een behandeling welke niet minder gunstig is dan die welke zij aan om het even welk derde land toekennen ten aanzien van de voorwaarden voor de grensoverschrijdende dienstverlening door vennootschappen uit de Gemeenschap respectievelijk Russische vennootschappen op het grondgebied van Rusland respectievelijk de Gemeenschap, in overeenstemming met de op het grondgebied van de respectieve Partijen toepasselijke wettelijke en bestuursrechtelijke bepalingen. 
 
 ### Artikel  37  
 
-Behoudens het bepaalde in artikel 48 van deze Overeenkomst staan de Partijen voor de in bijlage 5 bij deze Overeenkomst vermelde sectoren het tijdelijke verkeer toe van natuurlijke personen die een vennootschap uit de Gemeenschap of een Russische vennootschap vertegenwoordigen en om tijdelijke toegang verzoeken voor onderhandelingen over de verkoop van grensoverschrijdende diensten of voor het sluiten van overeenkomsten betreffende de verkoop van grensoverschrijdende diensten voor die vennootschap, onder de voorwaarde dat die vertegenwoordigers niet zelf betrokken zijn bij de rechtstreekse verkoop aan de gewone afnemer of bij het verstrekken van diensten.  
+Behoudens het bepaalde in artikel 48 van deze Overeenkomst staan de Partijen voor de in bijlage 5 bij deze Overeenkomst vermelde sectoren het tijdelijke verkeer toe van natuurlijke personen die een vennootschap uit de Gemeenschap of een Russische vennootschap vertegenwoordigen en om tijdelijke toegang verzoeken voor onderhandelingen over de verkoop van grensoverschrijdende diensten of voor het sluiten van overeenkomsten betreffende de verkoop van grensoverschrijdende diensten voor die vennootschap, onder de voorwaarde dat die vertegenwoordigers niet zelf betrokken zijn bij de rechtstreekse verkoop aan de gewone afnemer of bij het verstrekken van diensten. 
 
 ### Artikel  38  
 
@@ -349,11 +349,11 @@ Behoudens het bepaalde in artikel 48 van deze Overeenkomst staan de Partijen voo
 
 - of het voor de Partijen mogelijk is: 
 
-= de verplichting op zich te nemen geen maatregelen te treffen of acties op te zetten die de voorwaarden voor het grensoverschrijdend dienstenverkeer waarop artikel 36 betrekking heeft restrictiever kunnen maken dan zij zijn in de op het ogenblik van het onderzoek bestaande situatie;  
+=de verplichting op zich te nemen geen maatregelen te treffen of acties op te zetten die de voorwaarden voor het grensoverschrijdend dienstenverkeer waarop artikel 36 betrekking heeft restrictiever kunnen maken dan zij zijn in de op het ogenblik van het onderzoek bestaande situatie;
 
-= andere verplichtingen op zich te nemen die hun vrijheid van handelen kunnen beperken op de met betrekking tot de in het kader van artikel 36 aangegane verbintenissen door de Partijen overeengekomen gebieden.     Indien een Partij naar aanleiding van een dergelijk onderzoek van mening is dat door de andere Partij sedert de ondertekening van de Overeenkomst genomen maatregelen een situatie tot gevolg hebben die met betrekking tot het grensoverschrijdend dienstenverkeer waarop artikel 36 betrekking heeft, veel restrictiever is dan die welke op de datum van ondertekening van deze Overeenkomst bestond, kan de eerste Partij de andere Partij verzoeken overleg te plegen. In dat geval zijn de bepalingen van deel A van bijlage 8 van toepassing.   
+=andere verplichtingen op zich te nemen die hun vrijheid van handelen kunnen beperken op de met betrekking tot de in het kader van artikel 36 aangegane verbintenissen door de Partijen overeengekomen gebieden.   Indien een Partij naar aanleiding van een dergelijk onderzoek van mening is dat door de andere Partij sedert de ondertekening van de Overeenkomst genomen maatregelen een situatie tot gevolg hebben die met betrekking tot het grensoverschrijdend dienstenverkeer waarop artikel 36 betrekking heeft, veel restrictiever is dan die welke op de datum van ondertekening van deze Overeenkomst bestond, kan de eerste Partij de andere Partij verzoeken overleg te plegen. In dat geval zijn de bepalingen van deel A van bijlage 8 van toepassing.  
 4.  Ter verwezenlijking van de doelstellingen van dit artikel worden maatregelen zoals omschreven in deel B van bijlage 8 genomen.   
-5.  De bepalingen van dit artikel laten het bepaalde in artikel 51 onverlet. Met betrekking tot de in artikel 51 bedoelde situaties zijn alleen de bepalingen van dat artikel, met uitsluiting van alle andere, van toepassing.   
+5.  De bepalingen van dit artikel laten het bepaalde in artikel 51 onverlet. Met betrekking tot de in artikel 51 bedoelde situaties zijn alleen de bepalingen van dat artikel, met uitsluiting van alle andere, van toepassing.  
 
 ### Artikel  39  
 
@@ -369,7 +369,7 @@ a. vanaf de inwerkingtreding van deze Overeenkomst in hun wederzijdse handelsrel
 b. geen bepalingen inzake vrachtverdeling op te nemen in toekomstige bilaterale overeenkomsten met derde landen betreffende het handelsverkeer in droge en vloeibare bulkgoederen en betreffende het lijnverkeer. Dit sluit evenwel niet uit dat dergelijke bepalingen worden vastgesteld met betrekking tot het lijnvrachtverkeer in die uitzonderlijke gevallen waarin de lijnvaartmaatschappijen van een Partij bij deze Overeenkomst anders geen reële kans zouden krijgen om aan het handelsverkeer van en naar het betrokken derde land deel te nemen;  
 
 c. bij het in werking treden van deze Overeenkomst alle unilaterale maatregelen en administratieve, technische en andere belemmeringen op te heffen die een verkapte beperking zouden kunnen vormen op of discriminerende gevolgen zouden kunnen hebben voor de vrije dienstverrichting in het internationaal maritiem vervoer. Elke Partij verleent aan de schepen die worden gebruikt voor het vervoer van goederen, passagiers of beide, en die de vlag van de andere Partij voeren, inter alia geen minder gunstige behandeling dan die welke zij aan haar eigen schepen verleent ten aanzien van de toegang tot de voor buitenlandse vaartuigen toegankelijke havens, het gebruik van de infrastructuur en van de maritieme hulpdiensten van die havens, evenals de daarmee verband houdende vergoedingen en kosten, de douanefaciliteiten en de toewijzing van aanlegplaatsen en installaties voor het laden en lossen.     
-3.  De partijen komen overeen dat zij, na de inwerkingtreding van deze Overeenkomst en niet later dan 31 december 1996, onderhandelingen zullen voeren over het in opeenvolgende fasen openstellen van hun binnenwateren voor de onderdanen en scheepvaartmaatschappijen van de andere Partij, met het oog op de vrijmaking van de op het internationale zeevervoer aansluitende diensten op de binnenwateren.   
+3.  De partijen komen overeen dat zij, na de inwerkingtreding van deze Overeenkomst en niet later dan 31 december 1996, onderhandelingen zullen voeren over het in opeenvolgende fasen openstellen van hun binnenwateren voor de onderdanen en scheepvaartmaatschappijen van de andere Partij, met het oog op de vrijmaking van de op het internationale zeevervoer aansluitende diensten op de binnenwateren.  
 
 ### Artikel  40  
 
@@ -381,19 +381,19 @@ Ten einde gunstige voorwaarden voor het spoorwegvervoer tussen de Partijen tot s
 
 - de onderlinge aanpassing van de voorschriften en procedures voor het internationale vervoer;  
 
-- de beveiliging en uitbreiding van het internationaal personenvervoer tussen de Lid-Staten en Rusland.    
+- de beveiliging en uitbreiding van het internationaal personenvervoer tussen de Lid-Staten en Rusland.   
 
 ### Artikel  41  
 
-In het kader van de samenwerking worden er met betrekking tot lanceringen en transport in de ruimte eerlijke, evenwichtige, op de concurrentie gerichte en op gezonde economische beginselen steunende voorwaarden gehanteerd en worden er met name stappen ondernomen om te komen tot onderhandelingen over en de tenuitvoerlegging van multilaterale regels betreffende de internationale handel in op lanceringen en transport in de ruimte betrekking hebbende diensten. Tijdens de tot het jaar 2000 lopende overgangsperiode worden voorwaarden overeengekomen voor de op ruimtelanceringen betrekking hebbende dienstverlening.  
+In het kader van de samenwerking worden er met betrekking tot lanceringen en transport in de ruimte eerlijke, evenwichtige, op de concurrentie gerichte en op gezonde economische beginselen steunende voorwaarden gehanteerd en worden er met name stappen ondernomen om te komen tot onderhandelingen over en de tenuitvoerlegging van multilaterale regels betreffende de internationale handel in op lanceringen en transport in de ruimte betrekking hebbende diensten. Tijdens de tot het jaar 2000 lopende overgangsperiode worden voorwaarden overeengekomen voor de op ruimtelanceringen betrekking hebbende dienstverlening. 
 
 ### Artikel  42  
 
-De Partijen streven ernaar elkaar alle mogelijke bijstand te verlenen met betrekking tot maatregelen die de grensoverschrijdende handel in mobiele satellietcommunicatiemiddelen op hun respectieve grondgebieden bevorderen, in overeenstemming met de respectieve wetgevingen, procedures en voorwaarden van elke Partij. De Partijen komen in 1996 bijeen ter overweging van de mogelijkheid om elkaar met betrekking tot mobiele satellietdiensten een meestbegunstigingsbehandeling te verlenen.  
+De Partijen streven ernaar elkaar alle mogelijke bijstand te verlenen met betrekking tot maatregelen die de grensoverschrijdende handel in mobiele satellietcommunicatiemiddelen op hun respectieve grondgebieden bevorderen, in overeenstemming met de respectieve wetgevingen, procedures en voorwaarden van elke Partij. De Partijen komen in 1996 bijeen ter overweging van de mogelijkheid om elkaar met betrekking tot mobiele satellietdiensten een meestbegunstigingsbehandeling te verlenen. 
 
 ### Artikel  43  
 
-Met het oog op een gecoördineerde en aan hun commerciële behoeften aangepaste ontwikkeling van het vervoer tussen de Partijen kunnen deze na de inwerkingtreding van deze Overeenkomst bijzondere overeenkomsten sluiten met betrekking tot de voorwaarden voor de wederzijdse toegang tot elkaars markten en het verlenen van diensten in de vervoerssector, voor zover bedoelde voorwaarden nog niet in deze Overeenkomst zijn vastgelegd. Deze overeenkomsten kunnen op meer dan één of op slechts één enkele vervoertak betrekking hebben.  
+Met het oog op een gecoördineerde en aan hun commerciële behoeften aangepaste ontwikkeling van het vervoer tussen de Partijen kunnen deze na de inwerkingtreding van deze Overeenkomst bijzondere overeenkomsten sluiten met betrekking tot de voorwaarden voor de wederzijdse toegang tot elkaars markten en het verlenen van diensten in de vervoerssector, voor zover bedoelde voorwaarden nog niet in deze Overeenkomst zijn vastgelegd. Deze overeenkomsten kunnen op meer dan één of op slechts één enkele vervoertak betrekking hebben. 
 
 ### HOOFDSTUK  IV  
 
@@ -401,30 +401,30 @@ Met het oog op een gecoördineerde en aan hun commerciële behoeften aangepaste 
 
 ### Artikel  44  
 
-Voor de toepassing van de hoofdstukken II en III en van Titel V wordt geen rekening gehouden met de behandeling die door de Gemeenschap, haar Lid-Staten of Rusland wordt toegekend op grond van de verbintenissen welke in het kader van overeenkomsten inzake economische integratie zijn aangegaan.  
+Voor de toepassing van de hoofdstukken II en III en van Titel V wordt geen rekening gehouden met de behandeling die door de Gemeenschap, haar Lid-Staten of Rusland wordt toegekend op grond van de verbintenissen welke in het kader van overeenkomsten inzake economische integratie zijn aangegaan. 
 
 ### Artikel  45  
 
-Vennootschappen waarover de zeggenschap berust bij en die de exclusieve eigendom zijn van vennootschappen uit de Gemeenschap en Russische vennootschappen gezamenlijk, komen eveneens in aanmerking voor de bepalingen van de hoofdstukken II en III van deze titel en van titel V.  
+Vennootschappen waarover de zeggenschap berust bij en die de exclusieve eigendom zijn van vennootschappen uit de Gemeenschap en Russische vennootschappen gezamenlijk, komen eveneens in aanmerking voor de bepalingen van de hoofdstukken II en III van deze titel en van titel V. 
 
 ### Artikel  46  
 
 1.  De bepalingen van deze titel worden toegepast behoudens beperkingen die gerechtvaardigd zijn uit hoofde van de openbare orde, de openbare veiligheid en de volksgezondheid.   
-2.  Zij zijn niet van toepassing op de werkzaamheden die op het grondgebied van elke partij, zij het slechts occasioneel, verband houden met de uitoefening van het openbare gezag.   
+2.  Zij zijn niet van toepassing op de werkzaamheden die op het grondgebied van elke partij, zij het slechts occasioneel, verband houden met de uitoefening van het openbare gezag.  
 
 ### Artikel  47  
 
-De Samenwerkingsraad doet aanbevelingen met betrekking tot de verdere liberalisering van het dienstenverkeer, rekening houdende met de ontwikkeling van de dienstensectoren van de Partijen en met de andere door de Partijen aangegane internationale verbintenissen, vooral in het licht van de eindresultaten van de onderhandelingen betreffende de Algemene Overeenkomst inzake de Handel in Diensten, hierna de „GATS" te noemen.  
+De Samenwerkingsraad doet aanbevelingen met betrekking tot de verdere liberalisering van het dienstenverkeer, rekening houdende met de ontwikkeling van de dienstensectoren van de Partijen en met de andere door de Partijen aangegane internationale verbintenissen, vooral in het licht van de eindresultaten van de onderhandelingen betreffende de [Algemene Overeenkomst inzake de Handel in Diensten](../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), hierna de „GATS” te noemen. 
 
 ### Artikel  48  
 
-Voor de toepassing van deze titel belet geen enkele bepaling van deze Overeenkomst de Partijen hun wettelijke en bestuursrechtelijke bepalingen betreffende toelating en verblijf, het verrichten van werk, arbeidsvoorwaarden, de vestiging van natuurlijke personen en het verrichten van diensten toe te passen, mits zij dat niet op zodanige wijze doen dat de voor een Partij uit een specifieke bepaling van deze Overeenkomst voortvloeiende voordelen teniet worden gedaan of beperkt. Deze bepaling laat de toepassing van artikel 46 onverlet.  
+Voor de toepassing van deze titel belet geen enkele bepaling van deze Overeenkomst de Partijen hun wettelijke en bestuursrechtelijke bepalingen betreffende toelating en verblijf, het verrichten van werk, arbeidsvoorwaarden, de vestiging van natuurlijke personen en het verrichten van diensten toe te passen, mits zij dat niet op zodanige wijze doen dat de voor een Partij uit een specifieke bepaling van deze Overeenkomst voortvloeiende voordelen teniet worden gedaan of beperkt. Deze bepaling laat de toepassing van artikel 46 onverlet. 
 
 ### Artikel  49  
 
 1.  De overeenkomstig de bepalingen van deze titel of titel V toegekende meestbegunstigingsbehandeling is niet van toepassing op de belastingvoordelen waarin de Partijen voorzien of in de toekomst zullen voorzien in het kader van overeenkomsten ter voorkoming van dubbele belasting of andere fiscale regelingen.   
 2.  Niets in deze titel of in titel V kan worden uitgelegd als een beletsel voor het vaststellen of doen naleven door de Partijen van maatregelen ter voorkoming van belastingvermijding of -ontduiking overeenkomstig de bepalingen van overeenkomsten ter voorkoming van dubbele belasting en andere fiscale regelingen, of de nationale fiscale wetgeving.   
-3.  Niets in deze titel of in titel V kan worden uitgelegd als een beletsel voor de Lid-Staten of Rusland om bij de toepassing van de desbetreffende bepalingen van hun fiscaal recht een onderscheid te maken tussen belastingplichtigen die zich niet in identieke situaties bevinden, inzonderheid met betrekking tot hun woonplaats.   
+3.  Niets in deze titel of in titel V kan worden uitgelegd als een beletsel voor de Lid-Staten of Rusland om bij de toepassing van de desbetreffende bepalingen van hun fiscaal recht een onderscheid te maken tussen belastingplichtigen die zich niet in identieke situaties bevinden, inzonderheid met betrekking tot hun woonplaats.  
 
 ### Artikel  50  
 
@@ -438,18 +438,18 @@ Onverminderd de artikelen 32 en 37 kan geen enkele bepaling van de hoofdstukken 
 
 - aan Russische vennootschappen dan wel dochterondernemingen of filialen van Russische vennootschappen in de Gemeenschap tot het voorzien in arbeidskrachten die onderdaan zijn van Rusland en die namens of onder het toezicht van andere personen optreden in het kader van tijdelijke arbeidsovereenkomsten;  
 
-- aan vennootschappen uit de Gemeenschap dan wel dochterondernemingen of filialen van vennootschappen uit de Gemeenschap in Rusland tot het voorzien in arbeidskrachten die onderdanen van Lid-Staten zijn en die namens of onder het toezicht van andere personen optreden in het kader van tijdelijke arbeidsovereenkomsten.    
+- aan vennootschappen uit de Gemeenschap dan wel dochterondernemingen of filialen van vennootschappen uit de Gemeenschap in Rusland tot het voorzien in arbeidskrachten die onderdanen van Lid-Staten zijn en die namens of onder het toezicht van andere personen optreden in het kader van tijdelijke arbeidsovereenkomsten.   
 
 ### Artikel  51  
 
-1.  De in het kader van deze Overeenkomst door een Partij aan de andere toegekende behandeling is met ingang van de termijn van een maand vóór het in werking treden van de daarop betrekking hebbende voorschriften van de GATS, met betrekking tot de sectoren of maatregelen waarop de GATS betrekking heeft, in geen enkel geval gunstiger dan die welke door de eerste Partij in het kader van de GATS en met betrekking tot om het even welke dienstensector, dienstensubsector en wijze van dienstverlening wordt toegekend.   
-2.  Onverminderd het automatisch karakter van het bepaalde in lid 1, stelt de Partij die in het kader van de GATS verplichtingen op zich heeft genomen, de andere Partij in kennis van de desbetreffende bepalingen en de daaruit voor deze Overeenkomst voortvloeiende aanpassingen.   
-3.  Binnen een maand nadat zij van de Partij die in het kader van de GATS verplichtingen op zich heeft genomen, de in lid 2 bedoelde informatie heeft ontvangen, kan de andere Partij aan de eerste Partij kennisgeving doen van haar voornemen haar verplichtingen in het kader van deze titel aan te passen en die aanpassingen op de volgende wijze tot stand brengen: 
+1.  De in het kader van deze Overeenkomst door een Partij aan de andere toegekende behandeling is met ingang van de termijn van een maand vóór het in werking treden van de daarop betrekking hebbende voorschriften van de [GATS](../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), met betrekking tot de sectoren of maatregelen waarop de GATS betrekking heeft, in geen enkel geval gunstiger dan die welke door de eerste Partij in het kader van de GATS en met betrekking tot om het even welke dienstensector, dienstensubsector en wijze van dienstverlening wordt toegekend.   
+2.  Onverminderd het automatisch karakter van het bepaalde in lid 1, stelt de Partij die in het kader van de [GATS](../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) verplichtingen op zich heeft genomen, de andere Partij in kennis van de desbetreffende bepalingen en de daaruit voor deze Overeenkomst voortvloeiende aanpassingen.   
+3.  Binnen een maand nadat zij van de Partij die in het kader van de [GATS](../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) verplichtingen op zich heeft genomen, de in lid 2 bedoelde informatie heeft ontvangen, kan de andere Partij aan de eerste Partij kennisgeving doen van haar voornemen haar verplichtingen in het kader van deze titel aan te passen en die aanpassingen op de volgende wijze tot stand brengen: 
 
-- indien een dienstensector, dienstensubsector of wijze van dienstverlening op grond van lid 1 van deze Overeenkomst wordt uitgesloten dan wel aan beperkingen of aan de vervulling van voorwaarden wordt onderworpen, kan dezelfde sector, subsector of wijze van dienstverlening worden uitgesloten dan wel aan dezelfde beperkingen of de vervulling van identieke of gelijkaardige voorwaarden worden onderworpen.     
+-indien een dienstensector, dienstensubsector of wijze van dienstverlening op grond van lid 1 van deze Overeenkomst wordt uitgesloten dan wel aan beperkingen of aan de vervulling van voorwaarden wordt onderworpen, kan dezelfde sector, subsector of wijze van dienstverlening worden uitgesloten dan wel aan dezelfde beperkingen of de vervulling van identieke of gelijkaardige voorwaarden worden onderworpen.   
 4.  Deze aanpassingen door de andere Partij moeten tot gevolg hebben dat het evenwicht tussen de verplichtingen van de Partijen wordt hersteld.   
 5.  Indien een Partij van oordeel is dat de op grond van lid 3 gemaakte aanpassingen niet hebben geleid tot een herstel van het evenwicht tussen de verplichtingen van de Partijen, kan die Partij de andere Partij verzoeken binnen 30 dagen overleg te plegen ten einde tot een bevredigende oplossing te komen door middel van om het even welke geschikte aanpassing van haar verplichtingen in het kader van deze titel.   
-6.  Indien binnen 30 dagen na het aanvatten van dat overleg geen bevredigende oplossing is gevonden, zijn, indien een Partij daarom verzoekt, de procedures van artikel 101 van toepassing.   
+6.  Indien binnen 30 dagen na het aanvatten van dat overleg geen bevredigende oplossing is gevonden, zijn, indien een Partij daarom verzoekt, de procedures van artikel 101 van toepassing.  
 
 ### TITEL  V  
 
@@ -458,14 +458,14 @@ Onverminderd de artikelen 32 en 37 kan geen enkele bepaling van de hoofdstukken 
 ### Artikel  52  
 
 1.  De Partijen verbinden zich ertoe machtiging te verlenen tot alle betaalverrichtingen op de lopende rekening van de betalingsbalans in vrij convertibele valuta tussen inwoners van de Gemeenschap en van Rusland voor zover deze verrichtingen betrekking hebben op het verkeer van goederen, diensten of personen in overeenstemming met de bepalingen van deze Overeenkomst.   
-2.  Het vrije kapitaalverkeer russen inwoners van de Gemeenschap en van Rusland in de vorm van directe investeringen in vennootschappen die in overeenstemming met de wetten van het gastland zijn opgericht, en directe investeringen in overeenstemming met hoofdstuk II van titel IV, alsook de overmaking naar het buitenland van deze investeringen met inbegrip van alle compensatie-uitkeringen naar aanleiding van maatregelen zoals bijvoorbeeld onteigeningsbesluiten, nationalisatie of maatregelen van gelijke strekking, en van alle opbrengsten daarvan, worden gegarandeerd.   
-3.  Het bepaalde in lid 2 belet Rusland niet beperkingen op te leggen op directe investeringen in het buitenland door inwoners van Rusland. Vijfjaar na de inwerkingtreding van deze Overeenkomst plegen de Partijen, met inachtneming van alle relevante monetaire, fiscale en financiële overwegingen, overleg over het in stand houden van deze beperkingen.   
+2.  Het vrije kapitaalverkeer tussen inwoners van de Gemeenschap en van Rusland in de vorm van directe investeringen in vennootschappen die in overeenstemming met de wetten van het gastland zijn opgericht, en directe investeringen in overeenstemming met hoofdstuk II van titel IV, alsook de overmaking naar het buitenland van deze investeringen met inbegrip van alle compensatie-uitkeringen naar aanleiding van maatregelen zoals bijvoorbeeld onteigeningsbesluiten, nationalisatie of maatregelen van gelijke strekking, en van alle opbrengsten daarvan, worden gegarandeerd.   
+3.  Het bepaalde in lid 2 belet Rusland niet beperkingen op te leggen op directe investeringen in het buitenland door inwoners van Rusland. Vijf jaar na de inwerkingtreding van deze Overeenkomst plegen de Partijen, met inachtneming van alle relevante monetaire, fiscale en financiële overwegingen, overleg over het in stand houden van deze beperkingen.   
 4.  De kapitaalovermakingen waarop lid 2 betrekking heeft, hebben plaats tegen dezelfde wisselkoersvoorwaarden als die voor de lopende transacties.   
 5.  Onverminderd de leden 6 en 7 stellen de Partijen, na het verstrijken van een overgangsperiode van 5 jaar na de inwerkingtreding van deze Overeenkomst, geen nieuwe beperkingen in op het kapitaalverkeer en de daarmee verband houdende lopende betalingen tussen inwoners van de Gemeenschap en van Rusland, en stellen zij geen meer restrictieve regelingen dan de bestaande vast. De invoering van beperkingen in de loop van de overgangsperiode bedoeld in de eeste zin van dit lid, laat evenwel de rechten en verplichtingen van de Partijen op grond van de leden 2, 3, 4 en 9 van dit artikel onverlet.   
 6.  Nadat het in lid 5 bedoelde verbod van kracht is geworden en onverminderd de leden 1 en 2 kunnen de Gemeenschap en Rusland in uitzonderlijke omstandigheden, wanneer kapitaalverkeer tussen inwoners van de Gemeenschap en van Rusland oorzaak is of dreigt te zijn van ernstige moeilijkheden voor de toepassing van het wisselkoersbeleid of het monetaire beleid in de Gemeenschap of in Rusland, elk voor zich vrijwaringsmaatregelen nemen met betrekking tot het kapitaalverkeer tussen de Gemeenschap en Rusland voor een periode van niet meer dan zes maanden, indien het volstrekt nodig is dergelijke maatregelen te nemen.   
-7.  In het kader van dit artikel kan Rusland, in afwachting van een volledige convertibiliteit van de munteenheid van Rusland in de zin van artikel VIII van de Overeenkomst betreffende het Internationaal Monetair Fonds (IMF), deviezenbeperkingen in verband met het verlenen of opnemen van financieel krediet op korte en middellange termijn toepassen, voor zover deze beperkingen aan Rusland voor het verlenen van dergelijke kredieten worden opgelegd en op grond van de IMF-status van Rusland zijn toegestaan. Rusland past deze beperkingen op niet-discriminerende wijze toe. Zij dienen zodanig te worden toegepast dat zij de uitvoering van deze Overeenkomst zo weinig mogelijk verstoren. Rusland doet aan de Samenwerkingsraad onverwijld mededeling van de invoering en van alle wijzigingen van dergelijke maatregelen.   
+7.  In het kader van dit artikel kan Rusland, in afwachting van een volledige convertibiliteit van de munteenheid van Rusland in de zin van [artikel VIII van de Overeenkomst betreffende het Internationaal Monetair Fonds](../../../../../../../../../../../verdrag/articles/of/agreement/of/the/international/monetary/fund/BWBV0005521/README.md) (IMF), deviezenbeperkingen in verband met het verlenen of opnemen van financieel krediet op korte en middellange termijn toepassen, voor zover deze beperkingen aan Rusland voor het verlenen van dergelijke kredieten worden opgelegd en op grond van de IMF-status van Rusland zijn toegestaan. Rusland past deze beperkingen op niet-discriminerende wijze toe. Zij dienen zodanig te worden toegepast dat zij de uitvoering van deze Overeenkomst zo weinig mogelijk verstoren. Rusland doet aan de Samenwerkingsraad onverwijld mededeling van de invoering en van alle wijzigingen van dergelijke maatregelen.   
 8.  De Partijen plegen overleg met het oog op de vergemakkelijking van het kapitaalverkeer tussen de Gemeenschap en Rusland ten einde de verwezenlijking van de doelstellingen van deze Overeenkomst te bevorderen. De Partijen streven in het bijzonder de verdere liberalisering na van kapitaalverkeer dat betrekking heeft op portefeuillebeleggingen en handelskrediet, en kapitaalverkeer dat betrekking heeft op financiële leningen en krediet van inwoners van de Gemeenschap aan inwoners van Rusland. De Samenwerkingsraad doet binnen de eerste vijf jaar na de inwerkingtreding van deze Overeenkomst de daarmee verband houdende aanbevelingen.   
-9.  De Partijen verlenen elkaar met betrekking tot de vrijheid van de lopende betalingen en kapitaalverrichtingen en met betrekking tot de betaalmethoden een meestbegunstigingsbehandeling.   
+9.  De Partijen verlenen elkaar met betrekking tot de vrijheid van de lopende betalingen en kapitaalverrichtingen en met betrekking tot de betaalmethoden een meestbegunstigingsbehandeling.  
 
 ### TITEL  VI  
 
@@ -478,18 +478,18 @@ Onverminderd de artikelen 32 en 37 kan geen enkele bepaling van de hoofdstukken 
 1.  De Partijen komen overeen, door de toepassing van hun mededingingsvoorschriften of anderszins, te bewerkstelligen dat beperkingen van de mededinging door ondernemingen of ten gevolge van overheidsmaatregelen, voor zover zij de handel tussen de Gemeenschap en Rusland ongunstig kunnen beïnvloeden, ongedaan worden gemaakt of worden opgeheven.   
 2.  Met het oog op de verwezenlijking van de in lid 1 genoemde doelstellingen: 
 
-2.1. zorgen de Partijen ervoor dat zij over wetgeving beschikken ter bestrijding van mededingingsbeperkingen door de onder hun rechtsbevoegdheid vallende ondernemingen en op de naleving ervan toezien;  
+2.1.zorgen de Partijen ervoor dat zij over wetgeving beschikken ter bestrijding van mededingingsbeperkingen door de onder hun rechtsbevoegdheid vallende ondernemingen en op de naleving ervan toezien;
 
-2.2. zien de partijen af van het verlenen van steun voor de uitvoer ter begunstiging van bepaalde ondernemingen of van de vervaardiging van produkten welke geen basisprodukten zijn. De Partijen verklaren zich bovendien bereid met ingang van het derde jaar na de datum van inwerkingtreding van deze Overeenkomst met betrekking tot andere steunmaatregelen die de mededinging vervalsen of dreigen te vervalsen en voor zover zij de handel tussen de Gemeenschap en Rusland ongunstig beïnvloeden, strenge voorschriften in te voeren, met inbegrip van een volledig verbod op bepaalde steunmaatregelen. Zij definiëren gezamenlijk deze verschillende categorieën steunmaatregelen en de op ieder daarvan toepasselijke voorschriften binnen een termijn van drie jaar na de inwerkingtreding van deze Overeenkomst. De ene Partij verstrekt de andere op haar verzoek informatie over haar steunprogramma's of over bepaalde afzonderlijke gevallen van staatssteun;  
+2.2.zien de partijen af van het verlenen van steun voor de uitvoer ter begunstiging van bepaalde ondernemingen of van de vervaardiging van produkten welke geen basisprodukten zijn. De Partijen verklaren zich bovendien bereid met ingang van het derde jaar na de datum van inwerkingtreding van deze Overeenkomst met betrekking tot andere steunmaatregelen die de mededinging vervalsen of dreigen te vervalsen en voor zover zij de handel tussen de Gemeenschap en Rusland ongunstig beïnvloeden, strenge voorschriften in te voeren, met inbegrip van een volledig verbod op bepaalde steunmaatregelen. Zij definiëren gezamenlijk deze verschillende categorieën steunmaatregelen en de op ieder daarvan toepasselijke voorschriften binnen een termijn van drie jaar na de inwerkingtreding van deze Overeenkomst.De ene Partij verstrekt de andere op haar verzoek informatie over haar steunprogramma's of over bepaalde afzonderlijke gevallen van staatssteun;
 
-2.3. kan Rusland gedurende een overgangsperiode die vijfjaar na de inwerkingtreding van de Overeenkomst afloopt, maatregelen nemen die in strijd zijn met de tweede zin van lid 2, punt 2, op voorwaarde dat deze maatregelen worden ingevoerd en toegepast in de in bijlage 9 bedoelde omstandigheden;  
+2.3.kan Rusland gedurende een overgangsperiode die vijfjaar na de inwerkingtreding van de Overeenkomst afloopt, maatregelen nemen die in strijd zijn met de tweede zin van lid 2, punt 2, op voorwaarde dat deze maatregelen worden ingevoerd en toegepast in de in bijlage 9 bedoelde omstandigheden;
 
-2.4. verklaren de Partijen zich met betrekking tot de staatsmonopolies van commerciële aard bereid vanaf het derde jaar na de inwerkingtreding van deze Overeenkomst erop toe te zien dat niet wordt gediscrimineerd tussen onderdanen en vennootschappen van de Partijen met betrekking tot de voorwaarden waaronder goederen worden aangeschaft of verkocht; verklaren de Partijen zich met betrekking tot de overheidsondernemingen of ondernemingen waaraan de Lid-Staten of Rusland exclusieve rechten toekennen, bereid vanaf het derde jaar na de inwerkingtreding van deze Overeenkomst erop toe te zien dat geen maatregelen worden vastgesteld of gehandhaafd die voor de respectieve belangen van de Partijen nadelige distorsies van de handel tussen de Gemeenschap en Rusland tot gevolg hebben ; deze bepaling vormt geen juridische of feitelijke belemmering voor de vervulling van de aan bedoelde ondernemingen opgedragen bijzondere taken;  
+2.4.verklaren de Partijen zich met betrekking tot de staatsmonopolies van commerciële aard bereid vanaf het derde jaar na de inwerkingtreding van deze Overeenkomst erop toe te zien dat niet wordt gediscrimineerd tussen onderdanen en vennootschappen van de Partijen met betrekking tot de voorwaarden waaronder goederen worden aangeschaft of verkocht;verklaren de Partijen zich met betrekking tot de overheidsondernemingen of ondernemingen waaraan de Lid-Staten of Rusland exclusieve rechten toekennen, bereid vanaf het derde jaar na de inwerkingtreding van deze Overeenkomst erop toe te zien dat geen maatregelen worden vastgesteld of gehandhaafd die voor de respectieve belangen van de Partijen nadelige distorsies van de handel tussen de Gemeenschap en Rusland tot gevolg hebben ; deze bepaling vormt geen juridische of feitelijke belemmering voor de vervulling van de aan bedoelde ondernemingen opgedragen bijzondere taken;
 
-2.5. kan de in lid 2, punten 2 en 4, genoemde termijn in onderlinge overeenstemming tussen de Partijen worden verlengd.     
+2.5. kan de in lid 2, punten 2 en 4, genoemde termijn in onderlinge overeenstemming tussen de Partijen worden verlengd.  
 3.  Op verzoek van de Gemeenschap of Rusland kan binnen het Samenwerkingscomité overleg plaatshebben over de in leden 1 en 2 bedoelde beperkingen of vervalsing van de mededinging en over het doen naleven van de mededingingsvoorschriften, met inachtneming van de wettelijke beperkingen betreffende de bekendmaking van gegevens, de vertrouwelijkheid van informatie en het bedrijfsgeheim. Het overleg kan eveneens betrekking hebben op problemen in verband met de uitlegging van de leden 1 en 2.   
 4.  De Partij met ervaring op het gebied van de toepassing van mededingingsvoorschriften stelt alles in het werk om de andere Partij, op haar verzoek en binnen de grenzen van de beschikbare middelen, technische bijstand te verlenen met betrekking tot de uitwerking en tenuitvoerlegging van mededingingsvoorschriften.   
-5.  Bovenstaande bepalingen doen op geen enkele wijze afbreuk aan de rechten van een Partij om afdoende maatregelen, en met name die bedoeld in artikel 18, te nemen met betrekking tot distorsies van de handel.   
+5.  Bovenstaande bepalingen doen op geen enkele wijze afbreuk aan de rechten van een Partij om afdoende maatregelen, en met name die bedoeld in artikel 18, te nemen met betrekking tot distorsies van de handel.  
 
 ### Artikel  54  
 
@@ -498,25 +498,25 @@ Onverminderd de artikelen 32 en 37 kan geen enkele bepaling van de hoofdstukken 
 1.  In overeenstemming met de bepalingen van dit artikel en van bijlage 10 bevestigen de Partijen het belang dat zij hechten aan een toereikende en doeltreffende bescherming en eerbiediging van de intellectuele, industriële en commerciële eigendomsrechten.   
 2.  De Partijen bevestigen het belang dat zij hechten aan de verplichtingen welke voortvloeien uit de volgende multilaterale overeenkomsten: 
 
-- het Verdrag van Parijs tot bescherming van de industriële eigendom (Akte van Stockholm, 1967, gewijzigd in 1979);  
+- het [Verdrag van Parijs tot bescherming van de industriële eigendom](../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) (Akte van Stockholm, 1967, gewijzigd in 1979);  
 
-- de Schikking van Madrid betreffende de internationale inschrijving van merken (Akte van Stockholm, 1967, gewijzigd in 1979);  
+- de [Schikking van Madrid betreffende de internationale inschrijving van merken](../../../../../../../../../../../verdrag/schikking/van/madrid/betreffende/de/internationale/inschrijving/van/merken/etc/BWBV0005273/README.md) (Akte van Stockholm, 1967, gewijzigd in 1979);  
 
-- de Overeenkomst van Nice betreffende de internationale classificatie van de waren en diensten ten behoeve van de inschrijving van merken (Genève 1977, gewijzigd in 1979);  
+- de [Overeenkomst van Nice betreffende de internationale classificatie van de waren en diensten ten behoeve van de inschrijving van merken](../../../../../../../../../../../verdrag/nice/agreement/concerning/the/international/classification/of/goods/and/etc/BWBV0003894/README.md) (Genève 1977, gewijzigd in 1979);  
 
-- het Verdrag van Boedapest inzake de internationale erkenning van het depot van micro-organismen ten dienste van de octrooiverlening (1977, gewijzigd in 1980);  
+- het [Verdrag van Boedapest inzake de internationale erkenning van het depot van micro-organismen ten dienste van de octrooiverlening](../../../../../../../../../../../verdrag/budapest/treaty/on/the/international/recognition/of/the/deposit/of/etc/BWBV0004052/README.md) (1977, gewijzigd in 1980);  
 
-- het Verdrag tot samenwerking inzake octrooien (Washington 1970, aangepast en gewijzigd in 1979 en 1984);  
+- het [Verdrag tot samenwerking inzake octrooien](../../../../../../../../../../../verdrag/patent/cooperation/treaty/BWBV0004680/README.md) (Washington 1970, aangepast en gewijzigd in 1979 en 1984);  
 
-- het Protocol bij de Schikking van Madrid inzake de internationale inschrijving van merken (Madrid, 1989).     
-3.  De Partijen bespreken in overeenstemming met artikel 90 geregeld de tenuitvoerlegging van dit artikel en van bijlage 10. Indien op het gebied van de intellectuele, industriële en commerciële eigendom er zich problemen voordoen welke de handelsvoorwaarden beïnvloeden, wordt op verzoek van om het even welke van de Partijen dringend overleg gepleegd ten einde tot wederzijds bevredigende oplossingen te komen.   
+- het [Protocol bij de Schikking van Madrid inzake de internationale inschrijving van merken](../../../../../../../../../../../verdrag/protocol/bij/de/schikking/van/madrid/betreffende/de/internationale/etc/BWBV0003002/README.md) (Madrid, 1989).     
+3.  De Partijen bespreken in overeenstemming met artikel 90 geregeld de tenuitvoerlegging van dit artikel en van bijlage 10. Indien op het gebied van de intellectuele, industriële en commerciële eigendom er zich problemen voordoen welke de handelsvoorwaarden beïnvloeden, wordt op verzoek van om het even welke van de Partijen dringend overleg gepleegd ten einde tot wederzijds bevredigende oplossingen te komen.  
 
 ### Artikel  55  
 
 ####Samenwerking op het gebied van wetgeving
 
 1.  De Partijen erkennen dat een voorname voorwaarde voor het versterken van de economische banden tussen Rusland en de Gemeenschap de aanpassing van de wetgeving van Rusland aan die van de Gemeenschap is. Rusland doet het nodige om ervoor te zorgen dat zijn wetgeving geleidelijk in overeenstemming met die van de Gemeenschap wordt gebracht.   
-2.  De aanpassing van de wetgeving omvat in het bijzonder de volgende terreinen: vennootschapsrecht, bankrecht, boekhoudkundige regels voor vennootschappen, vennootschapsbelastingen, bescherming van werknemers op de arbeidsplaats, financiële diensten, mededingingsregels, overheidsopdrachten, bescherming van de gezondheid en het leven van personen, dieren en planten, milieu, consumentenbescherming, indirecte belastingen, douanewetgeving, technische voorschriften en normen, wettelijke en bestuursrechtelijke voorschriften inzake kernenergie, vervoer.   
+2.  De aanpassing van de wetgeving omvat in het bijzonder de volgende terreinen: vennootschapsrecht, bankrecht, boekhoudkundige regels voor vennootschappen, vennootschapsbelastingen, bescherming van werknemers op de arbeidsplaats, financiële diensten, mededingingsregels, overheidsopdrachten, bescherming van de gezondheid en het leven van personen, dieren en planten, milieu, consumentenbescherming, indirecte belastingen, douanewetgeving, technische voorschriften en normen, wettelijke en bestuursrechtelijke voorschriften inzake kernenergie, vervoer.  
 
 ### TITEL  VII  
 
@@ -539,7 +539,7 @@ Onverminderd de artikelen 32 en 37 kan geen enkele bepaling van de hoofdstukken 
 - het bevorderen van de regionale samenwerking met het oog op een harmonische en duurzame ontwikkeling ervan.     
 4.  De Partijen beschouwen het als noodzakelijk dat zij, tegelijk met de totstandbrenging van partnerschapsbetrekkingen en onderlinge samenwerking, de samenwerking met andere Europese Staten en met andere landen van de voormalige USSR in stand houden en ontwikkelen met het oog op een harmonische ontwikkeling van de regio, en stellen alles in het werk om dit proces aan te moedigen.   
 5.  In voorkomend geval kunnen de economische samenwerking en de andere vormen van samenwerking waarin deze Overeenkomst voorziet, worden ondersteund door de Gemeenschap op basis van de verordeningen van de Raad van de Europese Unie met betrekking tot technische bijstand aan de landen van de voormalige USSR, met inachtneming van de door de Partijen overeengekomen prioriteiten. Er kan eveneens steun worden verleend via de andere eventueel beschikbare communautaire instrumenten. Speciale aandacht wordt door de Partijen verleend aan maatregelen welke de samenwerking met de andere landen van de voormalige USSR kunnen bevorderen.   
-6.  De bepalingen van deze titel laten de handhaving van de mededingingsregels van de Partijen en van de bijzondere mededingingsvoorschriften voor ondernemingen van deze Overeenkomst onverlet.   
+6.  De bepalingen van deze titel laten de handhaving van de mededingingsregels van de Partijen en van de bijzondere mededingingsvoorschriften voor ondernemingen van deze Overeenkomst onverlet.  
 
 ### Artikel  57  
 
@@ -558,7 +558,7 @@ Onverminderd de artikelen 32 en 37 kan geen enkele bepaling van de hoofdstukken 
 - de omschakeling van de defensie-industrie;  
 
 - de uitwerking van de nodige op de marktmechanismen afgestemde commerciële regels en handelwijzen evenals de overdracht van know-how.     
-2.  Initiatieven op het gebied van de industriële samenwerking worden genomen met inachtneming van de door de Gemeenschap en Rusland vastgestelde prioriteiten. De initiatieven dienen in het bijzonder gericht te zijn op het opzetten van geschikte structuren voor ondernemingen, de verbetering van de know-how op het gebied van de bedrijfsvoering en de bevordering van doorzichtigheid met betrekking zowel tot de markten als tot de voorwaarden voor ondernemingen.   
+2.  Initiatieven op het gebied van de industriële samenwerking worden genomen met inachtneming van de door de Gemeenschap en Rusland vastgestelde prioriteiten. De initiatieven dienen in het bijzonder gericht te zijn op het opzetten van geschikte structuren voor ondernemingen, de verbetering van de know-how op het gebied van de bedrijfsvoering en de bevordering van doorzichtigheid met betrekking zowel tot de markten als tot de voorwaarden voor ondernemingen.  
 
 ### Artikel  58  
 
@@ -567,26 +567,26 @@ Onverminderd de artikelen 32 en 37 kan geen enkele bepaling van de hoofdstukken 
 1.  Met inachtneming van de respectieve bevoegdheden van de Gemeenschap en de Lid-Staten is de samenwerking gericht op het creëren van een gunstig klimaat voor binnen- en buitenlandse investeringen, met name door betere voorwaarden voor de bescherming van investeringen, en door de mogelijkheid van kapitaalovermakingen en de uitwisseling van informatie over investeringsmogelijkheden.   
 2.  De samenwerking is in het bijzonder gericht op de volgende doelstellingen: 
 
-- de sluiting, waar nodig, van overeenkomsten tussen de Lid-Staten en Rusland voor de bevordering en bescherming van investeringen;  
+- de sluiting, waar nodig, van overeenkomsten tussen de Lid-Staten en Rusland voor de bevordering en bescherming van investeringen;
 
 - de sluiting, waar nodig, van overeenkomsten ter voorkoming van dubbele belasting tussen de Lid-Staten en Rusland;  
 
 - de uitwisseling van informatie over investeringsmogelijkheden in de vorm van onder andere handelsbeurzen, tentoonstellingen, handelsweken en andere manifestaties;  
 
-- de uitwisseling van informatie over de wettelijke en bestuursrechtelijke regelingen en de administratieve praktijk op het gebied van investeringen.     
+- de uitwisseling van informatie over de wettelijke en bestuursrechtelijke regelingen en de administratieve praktijk op het gebied van investeringen.    
 
 ### Artikel  59  
 
 ####Overheidsopdrachten
 
-De Partijen werken samen met het oog op de vaststelling van voorwaarden voor de gunning via openbare en op mededinging gebaseerde procedures van contracten, met name door middel van aanbestedingen.  
+De Partijen werken samen met het oog op de vaststelling van voorwaarden voor de gunning via openbare en op mededinging gebaseerde procedures van contracten, met name door middel van aanbestedingen. 
 
 ### Artikel  60  
 
 ####Normen en overeenstemmingsbeoordeling; consumentenbescherming
 
 1.  De Partijen treffen binnen de grenzen van hun bevoegdheid en in overeenstemming met hun wetgeving maatregelen om de verschillen die tussen de Partijen bestaan op het gebied van de metrologie, de normalisatie en de certificatie te reduceren door aanmoediging van het gebruik van internationaal erkende instrumenten op die gebieden. De Partijen werken op bovengenoemde gebieden nauw samen met de bevoegde Europese en andere internationale organisaties. De Partijen stimuleren in het bijzonder de nuttige interactieve contacten tussen hun respectieve organisaties met de bedoeling te komen tot onderhandelingen over overeenkomsten inzake wederzijdse erkenning op het gebied van werkzaamheden in verband met de overeenstemmingsbeoordeling.   
-2.  De Partijen werken nauw samen om compatibiliteit van hun consumentenbeschermingssystemen te bereiken. Deze samenwerking is in het bijzonder gericht op de opzet van permanente systemen voor wederzijdse voorlichting betreffende gevaarlijke produkten, de verbetering van de aan de consument verstrekte informatie inzonderheid betreffende de prijzen, de kenmerken van aangeboden produkten en diensten, de ontwikkeling van contacten tussen vertegenwoordigers van de consumentenbelangen, en een toenemende overeenstemming van het beleid inzake consumentenbescherming.   
+2.  De Partijen werken nauw samen om compatibiliteit van hun consumentenbeschermingssystemen te bereiken. Deze samenwerking is in het bijzonder gericht op de opzet van permanente systemen voor wederzijdse voorlichting betreffende gevaarlijke produkten, de verbetering van de aan de consument verstrekte informatie inzonderheid betreffende de prijzen, de kenmerken van aangeboden produkten en diensten, de ontwikkeling van contacten tussen vertegenwoordigers van de consumentenbelangen, en een toenemende overeenstemming van het beleid inzake consumentenbescherming.  
 
 ### Artikel  61  
 
@@ -601,7 +601,7 @@ De Partijen werken samen met het oog op de vaststelling van voorwaarden voor de 
 
 - de opleiding.     
 3.  Deze samenwerking wordt door de partijen geregeld besproken in het kader van een speciaal comité of orgaan dat in overeenstemming met artikel 93 wordt opgericht.   
-4.  Dit artikel laat de in het bijzonder op grondstoffen betrekking hebbende artikelen, met name de artikelen 21, 65 en 66, onverlet.   
+4.  Dit artikel laat de in het bijzonder op grondstoffen betrekking hebbende artikelen, met name de artikelen 21, 65 en 66, onverlet.  
 
 ### Artikel  62  
 
@@ -614,8 +614,8 @@ De Partijen werken samen met het oog op de vaststelling van voorwaarden voor de 
 
 - gezamenlijke O & TO-activiteiten;  
 
-- opleidingsactiviteiten en programma's ter bevordering van de mobiliteit ten behoeve van aan beide zijden bij O & TO betrokken wetenschappers, onderzoekers en technici.   Voor activiteiten in het kader van deze samenwerking die betrekking hebben op onderwijs en/of opleiding, dienen de bepalingen van artikel 63 te worden inachtgenomen. Bij de uitvoering van deze samenwerkingsactiviteiten wordt bijzondere aandacht besteed aan de tewerkstelling elders van wetenschappers, ingenieurs, onderzoekers en technici die zich bezig hebben gehouden met onderzoek naar en/of de produktie van massavernietigingswapens.   
-3.  Deze samenwerking wordt ten uitvoer gelegd via afzonderlijke akkoorden waarvoor de onderhandelingen en de sluiting verlopen overeenkomstig de door elke Partij vastgestelde procedures en waarin onder andere de passende lER-bepalingen worden opgenomen.   
+- opleidingsactiviteiten en programma's ter bevordering van de mobiliteit ten behoeve van aan beide zijden bij O & TO betrokken wetenschappers, onderzoekers en technici.  Voor activiteiten in het kader van deze samenwerking die betrekking hebben op onderwijs en/of opleiding, dienen de bepalingen van artikel 63 te worden inachtgenomen.Bij de uitvoering van deze samenwerkingsactiviteiten wordt bijzondere aandacht besteed aan de tewerkstelling elders van wetenschappers, ingenieurs, onderzoekers en technici die zich bezig hebben gehouden met onderzoek naar en/of de produktie van massavernietigingswapens.   
+3.  Deze samenwerking wordt ten uitvoer gelegd via afzonderlijke akkoorden waarvoor de onderhandelingen en de sluiting verlopen overeenkomstig de door elke Partij vastgestelde procedures en waarin onder andere de passende lER-bepalingen worden opgenomen.  
 
 ### Artikel  63  
 
@@ -645,13 +645,13 @@ De Partijen werken samen met het oog op de vaststelling van voorwaarden voor de 
 - de ontwikkeling van het afstandsonderwijs en van nieuwe opleidingstechnieken;  
 
 - de opleiding van opleiders.     
-3.  De deelneming van een Partij aan de respectieve programma's op onderwijs- en opleidingsgebied van de andere Partij zou kunnen worden overwogen in overeenstemming met hun respectieve procedures, en eventueel kunnen institutionele kaders en samenwerkingsprojecten worden opgezet in aansluiting op de deelneming van Rusland aan het TEMPUS-programma van de Gemeenschap.   
+3.  De deelneming van een Partij aan de respectieve programma's op onderwijs- en opleidingsgebied van de andere Partij zou kunnen worden overwogen in overeenstemming met hun respectieve procedures, en eventueel kunnen institutionele kaders en samenwerkingsprojecten worden opgezet in aansluiting op de deelneming van Rusland aan het TEMPUS-programma van de Gemeenschap.  
 
 ### Artikel  64  
 
 ####Landbouw en de agro-industriële sector
 
-De samenwerking op dit terrein is gericht op de modernisering, herstructurering en privatisering van de landbouw en van de agro-industriële sector in Rusland onder voorwaarden welke de bescherming van het milieu waarborgen. Zij heeft met name betrekking op de ontwikkeling van het particuliere landbouwbedrijf en de distributiekanalen, de opslagmethoden, de afzet en de bedrijfsvoering, de modernisering van de plattelandsinfrastructuur en de verbetering van de landinrichting in de landbouw, de verbetering van de produktiviteit, van de kwaliteit en van de doeltreffendheid, en de overdracht van technologie en know-how. De partijen streven ernaar hun respectieve sanitaire en fytosanitaire normen verenigbaar te maken.  
+De samenwerking op dit terrein is gericht op de modernisering, herstructurering en privatisering van de landbouw en van de agro-industriële sector in Rusland onder voorwaarden welke de bescherming van het milieu waarborgen. Zij heeft met name betrekking op de ontwikkeling van het particuliere landbouwbedrijf en de distributiekanalen, de opslagmethoden, de afzet en de bedrijfsvoering, de modernisering van de plattelandsinfrastructuur en de verbetering van de landinrichting in de landbouw, de verbetering van de produktiviteit, van de kwaliteit en van de doeltreffendheid, en de overdracht van technologie en know-how. De partijen streven ernaar hun respectieve sanitaire en fytosanitaire normen verenigbaar te maken. 
 
 ### Artikel  65  
 
@@ -676,25 +676,25 @@ De samenwerking op dit terrein is gericht op de modernisering, herstructurering 
 
 - verbetering van de technologieën bij de levering en het eindverbruik van de verschillende vormen van energie;  
 
-- het beheer en de technische opleiding in de energiesector.     
+- het beheer en de technische opleiding in de energiesector.    
 
 ### Artikel  66  
 
 ####Kernenergiesector
 
-Met inachtneming van de respectieve bevoegdheden van de Gemeenschap en haar Lid-Staten vindt civiele samenwerking in de kernenergiesector onder meer plaats via de tenuitvoerlegging van twee tussen de Partijen te sluiten overeenkomsten betreffende kernversmelting en nucleaire veiligheid.  
+Met inachtneming van de respectieve bevoegdheden van de Gemeenschap en haar Lid-Staten vindt civiele samenwerking in de kernenergiesector onder meer plaats via de tenuitvoerlegging van twee tussen de Partijen te sluiten overeenkomsten betreffende kernversmelting en nucleaire veiligheid. 
 
 ### Artikel  67  
 
 ####Ruimte
 
-Onverminderd artikel 41 bevorderen de Partijen in voorkomend geval de samenwerking op lange termijn wat betreft onderzoek, ontwikkeling en commerciële toepassingen op het gebied van de civiele ruimte. Zij besteden bijzondere aandacht aan initiatieven die in hun beider voordeel de complementariteit van hun respectieve activiteiten ten volle benutten.  
+Onverminderd artikel 41 bevorderen de Partijen in voorkomend geval de samenwerking op lange termijn wat betreft onderzoek, ontwikkeling en commerciële toepassingen op het gebied van de civiele ruimte. Zij besteden bijzondere aandacht aan initiatieven die in hun beider voordeel de complementariteit van hun respectieve activiteiten ten volle benutten. 
 
 ### Artikel  68  
 
 ####Bouw
 
-Partijen werken samen op het gebied van de bouwnijverheid, met name op de onder de artikelen 55, 57, 60, 62, 63 en 77 van deze Overeenkomst vallende terreinen. Deze samenwerking beoogt onder meer de modernisering en herstructurering van de bouwsector in Rusland overeenkomstig de beginselen van een markteconomie en met inachtneming van de met de bouw verband houdende gezondheids-, veiligheids- en milieu-aspecten.  
+Partijen werken samen op het gebied van de bouwnijverheid, met name op de onder de artikelen 55, 57, 60, 62, 63 en 77 van deze Overeenkomst vallende terreinen. Deze samenwerking beoogt onder meer de modernisering en herstructurering van de bouwsector in Rusland overeenkomstig de beginselen van een markteconomie en met inachtneming van de met de bouw verband houdende gezondheids-, veiligheids- en milieu-aspecten. 
 
 ### Artikel  69  
 
@@ -715,7 +715,7 @@ Partijen werken samen op het gebied van de bouwnijverheid, met name op de onder 
 
 - verbetering van de kwaliteit van het water;  
 
-- beperking, recycling en veilige verwijdering van afval; tenuitvoerlegging van het Verdrag van Bazel;  
+- beperking, recycling en veilige verwijdering van afval; tenuitvoerlegging van het [Verdrag van Bazel](../../../../../../../../../../../verdrag/basel/convention/on/the/control/of/transboundary/movements/of/hazardous/etc/BWBV0002081/README.md);  
 
 - onderzoek van de milieu-effecten van de landbouw, bodemerosie en chemische verontreiniging;  
 
@@ -731,7 +731,7 @@ Partijen werken samen op het gebied van de bouwnijverheid, met name op de onder 
 
 - milieu-opvoeding en -bewustmaking;  
 
-- tenuitvoerlegging van het Verdrag van Espoo inzake milieueffectrapportage in grensoverschrijdend verband.     
+- tenuitvoerlegging van het [Verdrag van Espoo inzake milieueffectrapportage in grensoverschrijdend verband](../../../../../../../../../../../verdrag/verdrag/inzake/milieu-effectrapportage/in/grensoverschrijdend/verband/BWBV0002731/README.md).     
 3.  De samenwerking vindt met name plaats via: 
 
 - de opstelling van plannen voor rampen en andere noodsituaties;  
@@ -746,7 +746,7 @@ Partijen werken samen op het gebied van de bouwnijverheid, met name op de onder 
 
 - uitstippeling van strategieën, vooral in verband met wereldomvattende en klimatologische kwesties en tevens met het oog op de totstandbrenging van duurzame ontwikkeling;  
 
-- milieu-effectstudies.     
+- milieu-effectstudies.    
 
 ### Artikel  70  
 
@@ -760,9 +760,9 @@ De Partijen ontwikkelen en versterken hun samenwerking op vervoergebied. De same
 
 - de bevordering en ontwikkeling van het multimodale vervoer;  
 
-- de bevordering van gezamenlijke onderzoeks- en ontwikkelingsprogramma's;  
+- de bevordering van gezamenlijke onderzoeks- en ontwikkelingsprogramma's;
 
-- de totstandbrenging van het wettelijk en institutioneel kader voor beleidsontwikkeling en -uitvoering, inclusief privatisering van de vervoersector.    
+-  de totstandbrenging van het wettelijk en institutioneel kader voor beleidsontwikkeling en -uitvoering, inclusief privatisering van de vervoersector.   
 
 ### Artikel  71  
 
@@ -795,7 +795,7 @@ De Partijen ontwikkelen en versterken hun samenwerking op vervoergebied. De same
 
 - de modernisering van de Russische post- en omroepdiensten, met inbegrip van de juridische en regelgevingsaspecten daarvan;  
 
-- het beheer van de telecommunicatie-, post-, TV- en omroepdiensten in de veranderende economieën van beide Partijen, omvattend onder meer de organisatiestructuren, de strategie en planning, het tariefbeleid en de aankoopbeginselen.     
+- het beheer van de telecommunicatie-, post-, TV- en omroepdiensten in de veranderende economieën van beide Partijen, omvattend onder meer de organisatiestructuren, de strategie en planning, het tariefbeleid en de aankoopbeginselen.    
 
 ### Artikel  72  
 
@@ -813,13 +813,13 @@ De Partijen werken samen met het oog op de totstandbrenging en ontwikkeling van 
 
 - de uitwisseling van informatie over de respectieve geldende of in voorbereiding zijnde wetten;  
 
-- de modernisering van de infrastructuur van handels- en particuliere banken.    
+- de modernisering van de infrastructuur van handels- en particuliere banken.   
 
 ### Artikel  73  
 
 ####Regionale ontwikkeling
 
-De Partijen versterken hun onderlinge samenwerking op het gebied van regionale ontwikkeling en ruimtelijke ordening. Zij stimuleren tevens de uitwisseling door de nationale, regionale en plaatselijke overheden van informatie over beleid inzake regionale planning en ruimtelijke ordening en over methoden voor het uitstippelen van regionaal beleid met speciale aandacht voor de ontwikkeling van probleemgebieden. Zij moedigen tevens directe contacten aan tussen de respectieve regio's en openbare organisaties die verantwoordelijk zijn voor de planning van de regionale ontwikkeling ten einde onder meer methoden en wijzen van stimulering van regionale ontwikkeling uit te wisselen.  
+De Partijen versterken hun onderlinge samenwerking op het gebied van regionale ontwikkeling en ruimtelijke ordening. Zij stimuleren tevens de uitwisseling door de nationale, regionale en plaatselijke overheden van informatie over beleid inzake regionale planning en ruimtelijke ordening en over methoden voor het uitstippelen van regionaal beleid met speciale aandacht voor de ontwikkeling van probleemgebieden. Zij moedigen tevens directe contacten aan tussen de respectieve regio's en openbare organisaties die verantwoordelijk zijn voor de planning van de regionale ontwikkeling ten einde onder meer methoden en wijzen van stimulering van regionale ontwikkeling uit te wisselen. 
 
 ### Artikel  74  
 
@@ -827,7 +827,7 @@ De Partijen versterken hun onderlinge samenwerking op het gebied van regionale o
 
 1.  De Partijen ontwikkelen hun samenwerking op het gebied van de gezondheid en veiligheid met het oog op de verbetering van het beschermings- en veiligheidsniveau van de werknemers. De samenwerking omvat met name: 
 
-- vorming en opleiding op het gebied van gezondheids- en veiligheidszaken waarbij specifieke aandacht wordt besteed aan de bedrijfssectoren met grote risico's;  
+- vorming en opleiding op het gebied van gezondheids- en veiligheidszaken waarbij specifieke aandacht wordt besteed aan de bedrijfssectoren met grote risico's;
 
 - de ontwikkeling en bevordering van preventieve maatregelen ter bestrijding van beroepsziekten en andere met het beroep samenhangende aandoeningen;  
 
@@ -845,7 +845,7 @@ De Partijen versterken hun onderlinge samenwerking op het gebied van regionale o
 - stimulering van de ontwikkeling van lokale werkgelegenheid;  
 
 - uitwisseling van informatie over programma's inzake soepele tewerkstelling, inclusief programma's die het oprichten van eigen ondernemingen bevorderen.     
-3.  De Partijen besteden bijzondere aandacht aan samenwerking op het gebied van de sociale bescherming, die onder meer samenwerking bij het plannen en ten uitvoer leggen van hervormingen op het gebied van de sociale bescherming in Rusland omvat. Deze hervormingen beogen de ontwikkeling in Rusland van aan markteconomieën inherente beschermingsmethoden en omvatten alle terreinen van de sociale zekerheidsactiviteiten. De samenwerking omvat eveneens technische bijstand voor de ontwikkeling van sociale verzekeringsinstellingen met het oog op de bevordering van een geleidelijke overgang naar een stelsel dat een combinatie is van niet-premievrije vormen van bescherming en sociale bijstand alsmede respectieve niet-gouvernementele organisaties die sociale diensten verlenen.   
+3.  De Partijen besteden bijzondere aandacht aan samenwerking op het gebied van de sociale bescherming, die onder meer samenwerking bij het plannen en ten uitvoer leggen van hervormingen op het gebied van de sociale bescherming in Rusland omvat. Deze hervormingen beogen de ontwikkeling in Rusland van aan markteconomieën inherente beschermingsmethoden en omvatten alle terreinen van de sociale zekerheidsactiviteiten. De samenwerking omvat eveneens technische bijstand voor de ontwikkeling van sociale verzekeringsinstellingen met het oog op de bevordering van een geleidelijke overgang naar een stelsel dat een combinatie is van niet-premievrije vormen van bescherming en sociale bijstand alsmede respectieve niet-gouvernementele organisaties die sociale diensten verlenen.  
 
 ### Artikel  75  
 
@@ -861,7 +861,7 @@ De Partijen versterken en ontwikkelen hun samenwerking met name door de volgende
 
 - overdracht van know-how;  
 
-- bestudering van de mogelijkheden voor gezamenlijke acties.    
+- bestudering van de mogelijkheden voor gezamenlijke acties.   
 
 ### Artikel  76  
 
@@ -874,7 +874,7 @@ De Partijen versterken en ontwikkelen hun samenwerking met name door de volgende
 
 - het verstrekken van de speciale diensten waaraan de KMO's behoefte hebben, zoals management- en marketingopleiding, boekhouding, kwaliteitscontrole en de oprichting en versterking van de organen die dergelijke diensten verlenen;  
 
-- het aanknopen van duurzame banden tussen de Gemeenschap en Russische ondernemers ten einde de informatiestroom naar KMO's te verbeteren en grensoverschrijdende samenwerking te bevorderen, onder meer via het verlenen van toegang tot en het doen functioneren van het BC-net, de EG-adviescentra voor ondernemingen, mits aan de voor deze netwerken noodzakelijke voorwaarden wordt voldaan. De Partijen werken nauw samen om te verzekeren dat aan de noodzakelijke voorwaarden voor toegang tot de netwerken wordt voldaan.     
+- het aanknopen van duurzame banden tussen de Gemeenschap en Russische ondernemers ten einde de informatiestroom naar KMO's te verbeteren en grensoverschrijdende samenwerking te bevorderen, onder meer via het verlenen van toegang tot en het doen functioneren van het BC-net, de EG-adviescentra voor ondernemingen, mits aan de voor deze netwerken noodzakelijke voorwaarden wordt voldaan. De Partijen werken nauw samen om te verzekeren dat aan de noodzakelijke voorwaarden voor toegang tot de netwerken wordt voldaan.   
 
 ### Artikel  77  
 
@@ -889,7 +889,7 @@ De Partijen versterken en ontwikkelen hun samenwerking met name door de volgende
 
 - de ontwikkeling van gezamenlijke programma's betreffende de opleiding van specialisten op het gebied van de informatietechnologieën en informatiediensten;  
 
-- bevordering van Europese technische normen, certificatiesystemen en regelgevingsaanpak.     
+- bevordering van Europese technische normen, certificatiesystemen en regelgevingsaanpak.    
 
 ### Artikel  78  
 
@@ -908,10 +908,10 @@ De Partijen versterken en ontwikkelen hun samenwerking met name door de volgende
 
 - steun bij de invoering en het beheer van moderne douaneinformatiesystemen, inclusief computergestuurde systemen op de douanecontroleposten;  
 
-- onderlinge bijstand en gezamenlijke acties met betrekking tot voor twee doelen inzetbare goederen en goederen waarvoor niet-tarifaire beperkingen gelden;  
+- onderlinge bijstand en gezamenlijke acties met betrekking tot voor twee doelen inzetbare goederen en goederen waarvoor niet-tarifaire beperkingen gelden; 
 
-- de organisatie van studiebijeenkomsten en opleidingsperioden.   Waar nodig wordt technische bijstand verleend.   
-3.  Onverminderd de overige in deze Overeenkomst en met name in de artikelen 82 en 84 overeengekomen samenwerking vindt de wederzijdse bijstand tussen de administratieve autoriteiten in douanezaken van Partijen plaats overeenkomstig het bepaalde in Protocol 2.   
+- de organisatie van studiebijeenkomsten en opleidingsperioden.   Waar nodig wordt technische bijstand verleend.  
+3.  Onverminderd de overige in deze Overeenkomst en met name in de artikelen 82 en 84 overeengekomen samenwerking vindt de wederzijdse bijstand tussen de administratieve autoriteiten in douanezaken van Partijen plaats overeenkomstig het bepaalde in Protocol 2.  
 
 ### Artikel  79  
 
@@ -920,7 +920,7 @@ De Partijen versterken en ontwikkelen hun samenwerking met name door de volgende
 1.  De samenwerking beoogt de verdere ontwikkeling van efficiënte statistische systemen, en informatie- en programma-technologische compatibiliteit van de statistische gegevens om mettertijd betrouwbare statistieken te leveren die nodig zijn om de economische samenwerking tussen de Partijen en het proces van economische hervormingen in Rusland te ondersteunen en te controleren en bij te dragen aan de ontwikkeling van het particulier ondernemerschap in Rusland.   
 2.  De samenwerking tussen Partijen is in het bijzonder gericht op: 
 
-- versterking van de ontwikkeling van een efficiënt statistisch systeem in Rusland, met name om een passend institutioneel kader op te zetten;  
+- versterking van de ontwikkeling van een efficiënt statistisch systeem in Rusland, met name om een passend institutioneel kader op te zetten;
 
 - verbetering van de opleidingsnormen en het beroepsniveau van het statistisch personeel;  
 
@@ -930,7 +930,7 @@ De Partijen versterken en ontwikkelen hun samenwerking met name door de volgende
 
 - het waarborgen van de vertrouwelijkheid van gegevens;  
 
-- de uitwisseling van statistische informatie en met het oog daarop het samenstellen en/of een beroep doen op databanken.     
+- de uitwisseling van statistische informatie en met het oog daarop het samenstellen en/of een beroep doen op databanken.    
 
 ### Artikel  80  
 
@@ -942,20 +942,20 @@ De Partijen versterken en ontwikkelen hun samenwerking met name door de volgende
 
 - economische kwesties van wederzijds belang analyseren, met inbegrip van het plannen van een economisch beleid en de instrumenten voor de tenuitvoerlegging daarvan;  
 
-- uitgebreide samenwerking tussen economen en hoge ambtenaren aanmoedigen ten einde de overdracht van informatie en know-how voor de uitstippeling van economisch beleid te bespoedigen en te zorgen voor ruime verspreiding van de resultaten van onderzoek dat voor het beleid van belang kan zijn.     
+- uitgebreide samenwerking tussen economen en hoge ambtenaren aanmoedigen ten einde de overdracht van informatie en know-how voor de uitstippeling van economisch beleid te bespoedigen en te zorgen voor ruime verspreiding van de resultaten van onderzoek dat voor het beleid van belang kan zijn.    
 
 ### Artikel  81  
 
 ####Het witwassen van geld
 
 1.  De Partijen zijn het eens over de noodzaak al het nodige te doen en samen te werken ten einde te voorkomen dat hun financiële systemen worden gebruikt voor het witwassen van inkomsten uit criminele activiteiten in het algemeen en drugsmisdrijven in het bijzonder.   
-2.  De samenwerking op dit gebied omvat administratieve en technische bijstand met het oog op de vaststelling van passende normen ter voorkoming van het witwassen van geld die gelijkwaardig zijn aan de in deze door de Gemeenschap en internationale fora, in het bijzonder de Financial Action Task Force (FATF), gehanteerde.   
+2.  De samenwerking op dit gebied omvat administratieve en technische bijstand met het oog op de vaststelling van passende normen ter voorkoming van het witwassen van geld die gelijkwaardig zijn aan de in deze door de Gemeenschap en internationale fora, in het bijzonder de Financial Action Task Force (FATF), gehanteerde.  
 
 ### Artikel  82  
 
 ####Verdovende middelen
 
-De Partijen werken samen voor grotere efficiëntie van het beleid en de maatregelen om de illegale produktie en levering van en de in handel in verdovende middelen en psychotrope stoffen, inclusief voorkoming van het oneigenlijk gebruik van precursoren, tegen te gaan, alsmede voor de bevordering van de preventie en terugdringing van de vraag naar verdovende middelen. De Samenwerking op dit gebied is gebaseerd op onderling overleg en nauwe coördinatie tussen Partijen over de doelstellingen en maatregelen op de verschillende met verdovende middelen verband houdende terreinen en voorziet onder meer in de uitwisseling van opleidingsprogramma's en omvat technische bijstand van de Gemeenschap wanneer deze voorhanden is.  
+De Partijen werken samen voor grotere efficiëntie van het beleid en de maatregelen om de illegale produktie en levering van en de in handel in verdovende middelen en psychotrope stoffen, inclusief voorkoming van het oneigenlijk gebruik van precursoren, tegen te gaan, alsmede voor de bevordering van de preventie en terugdringing van de vraag naar verdovende middelen. De Samenwerking op dit gebied is gebaseerd op onderling overleg en nauwe coördinatie tussen Partijen over de doelstellingen en maatregelen op de verschillende met verdovende middelen verband houdende terreinen en voorziet onder meer in de uitwisseling van opleidingsprogramma's en omvat technische bijstand van de Gemeenschap wanneer deze voorhanden is. 
 
 ### Artikel  83  
 
@@ -967,7 +967,7 @@ Onverminderd artikel 52 werken de Partijen, die de noodzaak van een stabiele wer
 
 - de regelmatige uitwisseling van informatie;  
 
-- het helpen ontwikkelen van passende voorschriften.   Ten einde optimale benutting van de beschikbare middelen te verzekeren, zorgen de Partijen voor nauwe coördinatie met de door andere landen en internationale organisaties getroffen maatregelen.  
+- het helpen ontwikkelen van passende voorschriften.   Ten einde optimale benutting van de beschikbare middelen te verzekeren, zorgen de Partijen voor nauwe coördinatie met de door andere landen en internationale organisaties getroffen maatregelen.
 
 ### TITEL  VIII  
 
@@ -977,7 +977,7 @@ Onverminderd artikel 52 werken de Partijen, die de noodzaak van een stabiele wer
 
 De Partijen brengen samenwerking tot stand ter voorkoming van illegale activiteiten, zoals: 
 
-- illegale immigratie en illegale aanwezigheid van natuurlijke personen van hun nationaliteit op hun respectieve grondgebieden, met inachtneming van het beginsel en de praktijk van wedertoelating;  
+- illegale immigratie en illegale aanwezigheid van natuurlijke personen van hun nationaliteit op hun respectieve grondgebieden, met inachtneming van het beginsel en de praktijk van wedertoelating; 
 
 - illegale economische activiteiten, met inbegrip van corruptie;  
 
@@ -985,7 +985,7 @@ De Partijen brengen samenwerking tot stand ter voorkoming van illegale activitei
 
 - vervalsingen;  
 
-- de illegale handel in verdovende middelen en psychotrope stoffen.   De samenwerking op bovengenoemde terreinen zal zijn gebaseerd op wederzijds overleg en nauwe coördinatie en zal voorzien in technische en administratieve bijstand, omvattende: 
+- de illegale handel in verdovende middelen en psychotrope stoffen.   De samenwerking op bovengenoemde terreinen zal zijn gebaseerd op wederzijds overleg en nauwe coördinatie en zal voorzien in technische en administratieve bijstand, omvattende:
 
 - het ontwerpen van nationale wetgeving op het terrein van voorkoming van illegale activiteiten;  
 
@@ -995,7 +995,7 @@ De Partijen brengen samenwerking tot stand ter voorkoming van illegale activitei
 
 - de opleiding van personeel en de ontwikkeling van onderzoeksinfrastructuur;  
 
-- de uitwerking van over en weer aanvaardbare maatregelen die illegale activiteiten verhinderen.    
+- de uitwerking van over en weer aanvaardbare maatregelen die illegale activiteiten verhinderen. 
 
 ### TITEL  IX  
 
@@ -1011,7 +1011,7 @@ De Partijen brengen samenwerking tot stand ter voorkoming van illegale activitei
 - culturele uitwisselingen tussen instituten, kunstenaars en andere in de culturele sector werkzame personen;  
 
 - de vertaling van literaire werken.     
-3.  De Samenwerkingsraad kan aanbevelingen voor de tenuitvoerlegging van dit artikel doen.   
+3.  De Samenwerkingsraad kan aanbevelingen voor de tenuitvoerlegging van dit artikel doen.  
 
 ### TITEL  X  
 
@@ -1023,15 +1023,15 @@ Met het oog op de verwezenlijking van de doelstellingen van deze Overeenkomst, m
 
 ### Artikel  87  
 
-Deze financiële steun wordt geleverd in het kader van het Tacis-programma, zoals in de desbetreffende verordening van de Raad van de Europese Unie bepaald.  
+Deze financiële steun wordt geleverd in het kader van het Tacis-programma, zoals in de desbetreffende verordening van de Raad van de Europese Unie bepaald. 
 
 ### Artikel  88  
 
-De doelstellingen en terreinen van de financiële steun van de Gemeenschap worden vastgesteld in een indicatief programma dat een afspiegeling vormt van de door de Partijen vast te stellen prioriteiten, waarbij rekening wordt gehouden met de behoeften van Rusland, zijn sectoriële opnemingscapaciteiten en de met de hervorming geboekte voortgang. De Partijen stellen de Samenwerkingsraad van een en ander in kennis.  
+De doelstellingen en terreinen van de financiële steun van de Gemeenschap worden vastgesteld in een indicatief programma dat een afspiegeling vormt van de door de Partijen vast te stellen prioriteiten, waarbij rekening wordt gehouden met de behoeften van Rusland, zijn sectoriële opnemingscapaciteiten en de met de hervorming geboekte voortgang. De Partijen stellen de Samenwerkingsraad van een en ander in kennis. 
 
 ### Artikel  89  
 
-Om optimaal profijt te kunnen trekken uit de beschikbare middelen zorgen de Partijen ervoor dat de technische bijstandsbijdragen van de Gemeenschap worden toegekend in nauwe coördinatie met die uit andere financieringsbronnen, zoals de Lid-Staten, andere landen en internationale organisaties, zoals de Internationale Bank voor Herstel en Ontwikkeling en de Europese Bank voor Wederopbouw en Ontwikkeling.  
+Om optimaal profijt te kunnen trekken uit de beschikbare middelen zorgen de Partijen ervoor dat de technische bijstandsbijdragen van de Gemeenschap worden toegekend in nauwe coördinatie met die uit andere financieringsbronnen, zoals de Lid-Staten, andere landen en internationale organisaties, zoals de Internationale Bank voor Herstel en Ontwikkeling en de Europese Bank voor Wederopbouw en Ontwikkeling. 
 
 ### TITEL  XI  
 
@@ -1039,40 +1039,40 @@ Om optimaal profijt te kunnen trekken uit de beschikbare middelen zorgen de Part
 
 ### Artikel  90  
 
-Hierbij wordt een Samenwerkingsraad opgericht, die toeziet op de tenuitvoerlegging van deze Overeenkomst. Deze Samenwerkingsraad komt eens per jaar of telkens wanneer de omstandigheden zulks vereisen op Ministersniveau bijeen. Hij behandelt alle belangrijke vraagstukken die zich in het kader van deze Overeenkomst voordoen, en alle andere, bilaterale of internationale vraagstukken van gemeenschappelijk belang om de doelstellingen van deze Overeenkomst te bereiken. De Samenwerkingsraad kan tevens passende aanbevelingen doen in onderlinge overeenstemming tussen de vertegenwoordigers van de Partijen in de Samenwerkingsraad.  
+Hierbij wordt een Samenwerkingsraad opgericht, die toeziet op de tenuitvoerlegging van deze Overeenkomst. Deze Samenwerkingsraad komt eens per jaar of telkens wanneer de omstandigheden zulks vereisen op Ministersniveau bijeen. Hij behandelt alle belangrijke vraagstukken die zich in het kader van deze Overeenkomst voordoen, en alle andere, bilaterale of internationale vraagstukken van gemeenschappelijk belang om de doelstellingen van deze Overeenkomst te bereiken. De Samenwerkingsraad kan tevens passende aanbevelingen doen in onderlinge overeenstemming tussen de vertegenwoordigers van de Partijen in de Samenwerkingsraad. 
 
 ### Artikel  91  
 
 1.  De Samenwerkingsraad bestaat uit de leden van de Raad van de Europese Unie en leden van de Commissie van de Europese Gemeenschappen, enerzijds, en uit leden van de Regering van de Russische Federatie, anderzijds.   
 2.  De Samenwerkingsraad stelt zijn reglement van orde vast.   
-3.  De Samenwerkingsraad wordt beurtelings voorgezeten door een vertegenwoordiger van de Gemeenschap en door een lid van de Regering van de Russische Federatie.   
+3.  De Samenwerkingsraad wordt beurtelings voorgezeten door een vertegenwoordiger van de Gemeenschap en door een lid van de Regering van de Russische Federatie.  
 
 ### Artikel  92  
 
 1.  De Samenwerkingsraad wordt bij de vervulling van zijn taken bijgestaan door een Samenwerkingscomité, bestaande uit vertegenwoordigers van de leden van de Raad van de Europese Unie en vertegenwoordigers van de Commissie van de Europese Gemeenschappen, enerzijds, en uit vertegenwoordigers van de Regering van de Russische Federatie, anderzijds. In beginsel zullen dit hogere ambtenaren zijn. Het Samenwerkingscomité wordt beurtelings voorgezeten door een vertegenwoordiger van de Gemeenschap en een vertegenwoordiger van de Regering van de Russische Federatie. De Samenwerkingsraad bepaalt in zijn reglement van orde de taken van het Samenwerkingscomité. Deze omvatten onder meer de voorbereiding van de vergaderingen van de Samenwerkingsraad, de taken als bepaald in de artikelen 16, 17 en 53 en in bijlage 2 en de vaststelling van de werkwijze van het Comité.   
-2.  De Samenwerkingsraad mag ongeacht welke van zijn bevoegdheden aan het Samenwerkingscomité delegeren, dat voor de continuïteit zal zorgen tussen de vergaderingen van de Samenwerkingsraad.   
+2.  De Samenwerkingsraad mag ongeacht welke van zijn bevoegdheden aan het Samenwerkingscomité delegeren, dat voor de continuïteit zal zorgen tussen de vergaderingen van de Samenwerkingsraad.  
 
 ### Artikel  93  
 
-De Samenwerkingsraad kan tot de oprichting besluiten van ieder ander speciaal comité of lichaam dat hem bij de uitvoering van zijn taken kan bijstaan en bepaalt de samenstelling en taken van deze comités of lichamen alsmede hun werkwijze.  
+De Samenwerkingsraad kan tot de oprichting besluiten van ieder ander speciaal comité of lichaam dat hem bij de uitvoering van zijn taken kan bijstaan en bepaalt de samenstelling en taken van deze comités of lichamen alsmede hun werkwijze. 
 
 ### Artikel  94  
 
-Bij het onderzoek van ongeacht welke kwestie die zich voordoet in het kader van deze Overeenkomst met betrekking tot een bepaling betreffende een artikel van de GATT houdt de Samenwerkingsraad zoveel mogelijk rekening met de algemeen gebruikelijke interpretatie van het artikel van de GATT in kwestie door de overeenkomstsluitende Partijen bij de GATT.  
+Bij het onderzoek van ongeacht welke kwestie die zich voordoet in het kader van deze Overeenkomst met betrekking tot een bepaling betreffende een artikel van de [GATT](../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) houdt de Samenwerkingsraad zoveel mogelijk rekening met de algemeen gebruikelijke interpretatie van het artikel van de GATT in kwestie door de overeenkomstsluitende Partijen bij de GATT. 
 
 ### Artikel  95  
 
-Er wordt een Parlementair Samenwerkingscomité opgericht. Dit komt met door hem zelf te bepalen tussenpozen bijeen.  
+Er wordt een Parlementair Samenwerkingscomité opgericht. Dit komt met door hem zelf te bepalen tussenpozen bijeen. 
 
 ### Artikel  96  
 
 1.  Het Parlementair Samenwerkingscomité bestaat uit leden van het Europees Parlement, enerzijds, en uit leden van het Federale Parlement van de Russische Federatie, anderzijds.   
 2.  Het Parlementair Samenwerkingscomité stelt zijn reglement van orde vast.   
-3.  Het Parlementair Samenwerkingscomité wordt bij toerbeurt door een lid van het Europees Parlement en door een lid van het Federale Parlement van de Russische Federatie voorgezeten, volgens de in zijn reglement van orde op te nemen bepalingen.   
+3.  Het Parlementair Samenwerkingscomité wordt bij toerbeurt door een lid van het Europees Parlement en door een lid van het Federale Parlement van de Russische Federatie voorgezeten, volgens de in zijn reglement van orde op te nemen bepalingen.  
 
 ### Artikel  97  
 
-Het Parlementair Samenwerkingscomité kan de Samenwerkingsraad om ter zake doende inlichtingen over de tenuitvoerlegging van deze Overeenkomst verzoeken. De Samenwerkingsraad verstrekt het Samenwerkingscomité de verlangde informatie. Het Parlementair Samenwerkingscomité wordt ingelicht over de aanbevelingen van de Samenwerkingsraad. Het Parlementair Samenwerkingscomité kan aanbevelingen doen aan de Samenwerkingsraad.  
+Het Parlementair Samenwerkingscomité kan de Samenwerkingsraad om ter zake doende inlichtingen over de tenuitvoerlegging van deze Overeenkomst verzoeken. De Samenwerkingsraad verstrekt het Samenwerkingscomité de verlangde informatie. Het Parlementair Samenwerkingscomité wordt ingelicht over de aanbevelingen van de Samenwerkingsraad. Het Parlementair Samenwerkingscomité kan aanbevelingen doen aan de Samenwerkingsraad. 
 
 ### Artikel  98  
 
@@ -1085,7 +1085,7 @@ Het Parlementair Samenwerkingscomité kan de Samenwerkingsraad om ter zake doend
 
 - hun ondernemers aan te bevelen in onderling overleg het recht te kiezen dat op hun contracten van toepassing is;  
 
-- aan te moedigen dat een beroep wordt gedaan op de arbitragevoorschriften die zijn uitgewerkt door de Commissie van de Verenigde Naties inzake Internationaal Handelsrecht (Uncitral) en arbitrage door een instantie van een Staat die het Verdrag over de erkenning en tenuitvoerlegging van buitenlandse arbitrale uitspraken dat op 10 juni 1958 in New York werd gesloten, heeft ondertekend.     
+- aan te moedigen dat een beroep wordt gedaan op de arbitragevoorschriften die zijn uitgewerkt door de Commissie van de Verenigde Naties inzake Internationaal Handelsrecht (Uncitral) en arbitrage door een instantie van een Staat die het [Verdrag over de erkenning en tenuitvoerlegging van buitenlandse arbitrale uitspraken](../../../../../../../../../../../verdrag/verdrag/over/de/erkenning/en/tenuitvoerlegging/van/buitenlandse/etc/BWBV0005176/README.md) dat op 10 juni 1958 in New York werd gesloten, heeft ondertekend.    
 
 ### Artikel  99  
 
@@ -1101,7 +1101,7 @@ c. die verband houden met de produktie van of de handel in wapens, munitie of oo
 
 d. in geval van ernstige binnenlandse beroeringen die de openbare orde in gevaar brengen, in tijden van oorlog of ernstige internationale spanningen die een oorlogsdreiging inhouden of om verplichtingen na te komen die zij voor de instandhouding van de vrede en de internationale veiligheid is aangegaan ; of    
 
-2. die zij nodig acht om haar internationale verplichtingen en verbintenissen of autonome maatregelen in overeenstemming met dergelijke algemeen aanvaarde internationale verplichtingen en verbintenissen na te komen met betrekking tot de controle op het tweeledig gebruik van industriële goederen en technologieën.    
+2. die zij nodig acht om haar internationale verplichtingen en verbintenissen of autonome maatregelen in overeenstemming met dergelijke algemeen aanvaarde internationale verplichtingen en verbintenissen na te komen met betrekking tot de controle op het tweeledig gebruik van industriële goederen en technologieën.   
 
 ### Artikel  100  
 
@@ -1110,67 +1110,67 @@ d. in geval van ernstige binnenlandse beroeringen die de openbare orde in gevaar
 - de regelingen die Rusland ten opzichte van de Gemeenschap toepast geen aanleiding geven tot discriminatie tussen de Lid-Staten, hun onderdanen dan wel hun vennootschappen;  
 
 - de regelingen die de Gemeenschap ten opzichte van Rusland toepast geen aanleiding geven tot discriminatie tussen onderdanen of vennootschappen van Rusland.     
-2.  Het bepaalde in lid 1 doet geen afbreuk aan het recht van de Partijen om de ter zake doende bepalingen van hun belastingwetgeving toe te passen op belastingplichtigen die niet in dezelfde situatie verkeren met name ten aanzien van hun woonplaats.   
+2.  Het bepaalde in lid 1 doet geen afbreuk aan het recht van de Partijen om de ter zake doende bepalingen van hun belastingwetgeving toe te passen op belastingplichtigen die niet in dezelfde situatie verkeren met name ten aanzien van hun woonplaats.  
 
 ### Artikel  101  
 
 1.  Elk van de Partijen mag ieder geschil dat verband houdt met de toepassing of de uitlegging van deze Overeenkomst aan de Samenwerkingsraad voorleggen.   
 2.  De Samenwerkingsraad kan het geschil bij aanbeveling beslechten.   
 3.  Indien het geschil niet overeenkomstig lid 2 kan worden beslecht, mag de meest gerede Partij de andere van de benoeming van een bemiddelaar in kennis stellen ; de andere Partij moet dan binnen twee maanden een tweede bemiddelaar benoemen. Voor de toepassing van deze procedure worden de Gemeenschap en haar Lid-Staten geacht één Partij bij het geschil te zijn. De Samenwerkingsraad benoemt een derde bemiddelaar. De aanbevelingen van de bemiddelaars worden met meerderheid van stemmen genomen. Deze aanbevelingen zijn niet bindend voor de Partijen.   
-4.  De Samenwerkingsraad kan procedureregels voor de regeling van geschillen vaststellen.   
+4.  De Samenwerkingsraad kan procedureregels voor de regeling van geschillen vaststellen.  
 
 ### Artikel  102  
 
-De Partijen komen overeen op verzoek van elk van de Partijen onmiddellijk overleg te plegen via passende kanalen om kwesties met betrekking tot de uitlegging of tenuitvoerlegging van deze Overeenkomst en andere relevante aspecten van de betrekkingen tussen de Partijen te bespreken. De bepalingen van dit artikel doen geen afbreuk aan en gelden onder voorbehoud van de artikelen 17, 18, 101 en 107.  
+De Partijen komen overeen op verzoek van elk van de Partijen onmiddellijk overleg te plegen via passende kanalen om kwesties met betrekking tot de uitlegging of tenuitvoerlegging van deze Overeenkomst en andere relevante aspecten van de betrekkingen tussen de Partijen te bespreken. De bepalingen van dit artikel doen geen afbreuk aan en gelden onder voorbehoud van de artikelen 17, 18, 101 en 107. 
 
 ### Artikel  103  
 
-De bij deze Overeenkomst aan Rusland toegekende behandeling zal niet gunstiger zijn dan die welke de Lid-Staten onderling toepassen.  
+De bij deze Overeenkomst aan Rusland toegekende behandeling zal niet gunstiger zijn dan die welke de Lid-Staten onderling toepassen. 
 
 ### Artikel  104  
 
-In de Overeenkomst wordt onder de term „Partijen" verstaan de Gemeenschap, of de Lid-Staten, of de Gemeenschap en haar Lid-Staten, overeenkomstig hun respectieve bevoegdheden, enerzijds, en Rusland, anderzijds.  
+In de Overeenkomst wordt onder de term „Partijen" verstaan de Gemeenschap, of de Lid-Staten, of de Gemeenschap en haar Lid-Staten, overeenkomstig hun respectieve bevoegdheden, enerzijds, en Rusland, anderzijds. 
 
 ### Artikel  105  
 
-Het Verdrag inzake het Energiehandvest en de protocollen daarvan zijn vanaf de inwerkingtreding van deze Overeenkomst van toepassing op zaken die ook onder deze Overeenkomst ressorteren in de mate waarin het Verdrag in die toepassing voorziet.  
+Het [Verdrag inzake het Energiehandvest](../../../../../../../../../../../verdrag/the/energy/charter/treaty/BWBV0001155/README.md) en de protocollen daarvan zijn vanaf de inwerkingtreding van deze Overeenkomst van toepassing op zaken die ook onder deze Overeenkomst ressorteren in de mate waarin het Verdrag in die toepassing voorziet. 
 
 ### Artikel  106  
 
-Deze Overeenkomst wordt gesloten voor een aanvankelijke periode van tien jaar. Zij wordt automatisch telkens met een jaar verlengd tenzij één van beide Partijen de andere Partij ten minste zes maanden voor het verstrijken ervan schriftelijk ervan in kennis stelt dat zij deze Overeenkomst opzegt.  
+Deze Overeenkomst wordt gesloten voor een aanvankelijke periode van tien jaar. Zij wordt automatisch telkens met een jaar verlengd tenzij één van beide Partijen de andere Partij ten minste zes maanden voor het verstrijken ervan schriftelijk ervan in kennis stelt dat zij deze Overeenkomst opzegt. 
 
 ### Artikel  107  
 
 1.  De Partijen treffen alle algemene en bijzondere maatregelen die vereist zijn om aan hun verplichtingen krachtens deze Overeenkomst te voldoen. Zij zullen erop toezien dat de in deze Overeenkomst aangegeven doelstellingen worden bereikt.   
-2.  Indien een van beide Partijen van mening is dat de andere Partij een verplichting krachtens deze Overeenkomst niet is nagekomen, kan zij passende maatregelen treffen. Alvorens dit te doen, verstrekt zij, behalve in bijzonder dringende gevallen, de Samenwerkingsraad alle ter zake doende informatie die nodig is voor een grondig onderzoek van de situatie, ten einde een voor de Partijen aanvaardbare oplossing te vinden. Bij voorrang moeten die maatregelen worden gekozen die de goede werking van deze Overeenkomst het minst verstoren. Deze maatregelen worden onmiddellijk ter kennis van de Samenwerkingsraad gebracht; op verzoek van de andere Partij wordt daaromtrent in de Samenwerkingsraad overleg gepleegd.   
+2.  Indien een van beide Partijen van mening is dat de andere Partij een verplichting krachtens deze Overeenkomst niet is nagekomen, kan zij passende maatregelen treffen. Alvorens dit te doen, verstrekt zij, behalve in bijzonder dringende gevallen, de Samenwerkingsraad alle ter zake doende informatie die nodig is voor een grondig onderzoek van de situatie, ten einde een voor de Partijen aanvaardbare oplossing te vinden. Bij voorrang moeten die maatregelen worden gekozen die de goede werking van deze Overeenkomst het minst verstoren. Deze maatregelen worden onmiddellijk ter kennis van de Samenwerkingsraad gebracht; op verzoek van de andere Partij wordt daaromtrent in de Samenwerkingsraad overleg gepleegd.  
 
 ### Artikel  108  
 
-De bijlagen 1, 2, 3, 4, 5, 6, 7, 8, 9 en 10 en de Protocollen 1 en 2 vormen een integrerend bestanddeel van deze Overeenkomst.  
+De bijlagen 1, 2, 3, 4, 5, 6, 7, 8, 9 en 10 en de Protocollen 1 en 2 vormen een integrerend bestanddeel van deze Overeenkomst. 
 
 ### Artikel  109  
 
-Zolang onder deze Overeenkomst geen gelijkwaardige rechten voor personen en ondernemers zijn verwezenlijkt, zal deze Overeenkomst geen afbreuk doen aan de rechten die hun worden verzekerd door bestaande overeenkomsten, welke bindend zijn voor één of meer Lid-Staten, enerzijds, en voor Rusland, anderzijds, met uitzondering van gebieden die tot de bevoegdheid van de Gemeenschap behoren en zonder afbreuk te doen aan de verplichtingen van de Lid-Staten die voortvloeien uit deze Overeenkomst op gebieden die tot hun bevoegdheid behoren.  
+Zolang onder deze Overeenkomst geen gelijkwaardige rechten voor personen en ondernemers zijn verwezenlijkt, zal deze Overeenkomst geen afbreuk doen aan de rechten die hun worden verzekerd door bestaande overeenkomsten, welke bindend zijn voor één of meer Lid-Staten, enerzijds, en voor Rusland, anderzijds, met uitzondering van gebieden die tot de bevoegdheid van de Gemeenschap behoren en zonder afbreuk te doen aan de verplichtingen van de Lid-Staten die voortvloeien uit deze Overeenkomst op gebieden die tot hun bevoegdheid behoren. 
 
 ### Artikel  110  
 
-Deze Overeenkomst is van toepassing, enerzijds, op de gebieden waar de Verdragen tot oprichting van de Europese Gemeenschap, de Europese Gemeenschap voor Kolen en Staal en de Europese Gemeenschap voor Atoomenergie van toepassing zijn en onder de in die Verdragen neergelegde voorwaarden en, anderzijds, op het grondgebied van Rusland.  
+Deze Overeenkomst is van toepassing, enerzijds, op de gebieden waar de [Verdragen tot oprichting van de Europese Gemeenschap](../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md), de Europese Gemeenschap voor Kolen en Staal en de [Europese Gemeenschap voor Atoomenergie](../../../../../../../../../../../verdrag/verdrag/tot/oprichting/van/de/europese/gemeenschap/voor/atoomenergie/etc/BWBV0004033/README.md) van toepassing zijn en onder de in die Verdragen neergelegde voorwaarden en, anderzijds, op het grondgebied van Rusland. 
 
 ### Artikel  111  
 
-Deze Overeenkomst is opgesteld in twee exemplaren in de Deense, de Duitse, de Engelse, de Franse, de Griekse, de Italiaanse, de Nederlandse, de Portugese, de Spaanse en de Russische taal, zijnde alle teksten gelijkelijk authentiek.  
+Deze Overeenkomst is opgesteld in twee exemplaren in de Deense, de Duitse, de Engelse, de Franse, de Griekse, de Italiaanse, de Nederlandse, de Portugese, de Spaanse en de Russische taal, zijnde alle teksten gelijkelijk authentiek. 
 
 ### Artikel  112  
 
-Deze Overeenkomst wordt door de Partijen volgens hun eigen procedures goedgekeurd. Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand volgende op de dag waarop de Partijen elkaar kennisgeving doen van het feit dat de in de eerste alinea bedoelde procedures zijn voltooid. Bij haar inwerkingtreding vervangt deze Overeenkomst wat de betrekkingen tussen Rusland en de Gemeenschap betreft, onder voorbehoud van artikel 22, leden 1, 3 en 5, de Overeenkomst tussen de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie en de Unie van Socialistische Sovjetrepublieken inzake handel en commerciële en economische samenwerking, die op 18 december 1989 in Brussel werd ondertekend.  
+Deze Overeenkomst wordt door de Partijen volgens hun eigen procedures goedgekeurd. Deze Overeenkomst treedt in werking op de eerste dag van de tweede maand volgende op de dag waarop de Partijen elkaar kennisgeving doen van het feit dat de in de eerste alinea bedoelde procedures zijn voltooid. Bij haar inwerkingtreding vervangt deze Overeenkomst wat de betrekkingen tussen Rusland en de Gemeenschap betreft, onder voorbehoud van artikel 22, leden 1, 3 en 5, de Overeenkomst tussen de Europese Economische Gemeenschap en de Europese Gemeenschap voor Atoomenergie en de Unie van Socialistische Sovjetrepublieken inzake handel en commerciële en economische samenwerking, die op 18 december 1989 in Brussel werd ondertekend. 
 
 GEDAAN te Korfoe, de vierentwintigste juni negentienhonderd vierennegentig.  
 
 ### Bijlage  1  
 
-####Indicatieve lijst van voordelen die Rusland aan de landen van de voormalige USSR toekent op gebieden waarop deze Overeenkomst van toepassing is (met ingang van januari 1994)
+####Indicatieve lijst van voordelen die Rusland aan de landen van de voormalige USSR toekent op gebieden waarop deze Overeenkomst van toepassing is (met ingang van januari 1994) 
 
-De hierna volgende voordelen worden bilateraal door middel van overeenkomsten toegekend of zijn in de praktijk reeds van toepassing. Zij omvatten onder meer: 
+De hierna volgende voordelen worden bilateraal door middel van overeenkomsten toegekend of zijn in de praktijk reeds van toepassing. Zij omvatten onder meer:
 
 1. Belastingen bij invoer en bij uitvoer Er worden geen invoerrechten geheven. Er worden geen uitvoerrechten geheven van goederen die in het kader van de jaarlijkse bilaterale handels- en samenwerkingsovereenkomsten tussen de staten worden geleverd in de hoeveelheden en volgens de nomenclatuur die in deze overeenkomsten zijn genoemd en die worden aangemerkt als „uitvoer ten behoeve van de federatie" als omschreven in de desbetreffende Russische wetgeving. Er wordt geen BTW bij invoer geheven. Er wordt geen accijns bij invoer geheven.  
 
@@ -1184,21 +1184,21 @@ De hierna volgende voordelen worden bilateraal door middel van overeenkomsten to
 
 6. Diensten op het gebied van de communicatie, met inbegrip van postdiensten, koerierdiensten, telecommunicatiediensten, audiovisuele diensten en andere diensten  
 
-7. Toegang tot informatiesystemen en databanken     
+7. Toegang tot informatiesystemen en databanken    
 
-### Bijlage  2  
+###Bijlage 2 
 
 ####Afwijkingen van artikel 15 (kwantitatieve beperkingen)
 
-### 1  
+###1 
 
-Rusland is gemachtigd, in afwijking van artikel 15, uitzonderingsmaatregelen te nemen in de vorm van niet-discriminerende kwantitatieve beperkingen als bedoeld in artikel XIII van de GATT. Dergelijke maatregelen mogen uitsluitend worden genomen aan het einde van het eerste kalenderjaar volgende op de ondertekening van de Overeenkomst.  
+Rusland is gemachtigd, in afwijking van artikel 15, uitzonderingsmaatregelen te nemen in de vorm van niet-discriminerende kwantitatieve beperkingen als bedoeld in artikel XIII van de GATT. Dergelijke maatregelen mogen uitsluitend worden genomen aan het einde van het eerste kalenderjaar volgende op de ondertekening van de Overeenkomst. 
 
-### 2  
+###2 
 
-De genoemde maatregelen mogen uitsluitend worden genomen in de omstandigheden bedoeld in bijlage 9.  
+De genoemde maatregelen mogen uitsluitend worden genomen in de omstandigheden bedoeld in bijlage 9.
 
-### 3  
+###3 
 
 De totale waarde van de invoer waarop deze maatregelen van toepassing zijn, mag niet meer bedragen dan de hiernavolgende percentages van de totale invoer uit de Gemeenschap: 
 
@@ -1206,19 +1206,19 @@ De totale waarde van de invoer waarop deze maatregelen van toepassing zijn, mag 
 
 - 5% in het vierde en vijfde kalenderjaar volgende op de ondertekening van de Overeenkomst;  
 
-- 3% in de daaropvolgende jaren, in afwachting van de toetreding van Rusland tot de GATT/WTO.   De vorengenoemde percentages worden vastgesteld met inachtneming van de waarde van de invoer in Rusland uit de Gemeenschap gedurende het laatste jaar voorafgaande aan de invoering van kwantitatieve beperkingen waarvoor statistische gegevens beschikbaar zijn. Deze bepalingen mogen niet worden ontdoken door een verhoging van de tariefbescherming op de betrokken invoer.  
+- 3% in de daaropvolgende jaren, in afwachting van de toetreding van Rusland tot de GATT/WTO.  De vorengenoemde percentages worden vastgesteld met inachtneming van de waarde van de invoer in Rusland uit de Gemeenschap gedurende het laatste jaar voorafgaande aan de invoering van kwantitatieve beperkingen waarvoor statistische gegevens beschikbaar zijn. Deze bepalingen mogen niet worden ontdoken door een verhoging van de tariefbescherming op de betrokken invoer.
 
-### 4  
+###4 
 
-Deze maatregelen mogen na de toetreding van Rusland tot de GATT/WTO niet meer worden toegepast, tenzij anders bepaald in het Protocol betreffende de toetreding van Rusland tot de GATT/WTO.  
+Deze maatregelen mogen na de toetreding van Rusland tot de GATT/WTO niet meer worden toegepast, tenzij anders bepaald in het Protocol betreffende de toetreding van Rusland tot de GATT/WTO.
 
-### 5  
+###5 
 
-Rusland stelt het Samenwerkingscomité in kennis van alle maatregelen die het voornemens is te treffen in het kader van de onderhavige bijlage. Vóór deze maatregelen worden genomen vindt op verzoek van de Gemeenschap overleg plaats in het Samenwerkingscomité, onder meer over de sectoren waarop zij van toepassing zijn.  
+Rusland stelt het Samenwerkingscomité in kennis van alle maatregelen die het voornemens is te treffen in het kader van de onderhavige bijlage. Vóór deze maatregelen worden genomen vindt op verzoek van de Gemeenschap overleg plaats in het Samenwerkingscomité, onder meer over de sectoren waarop zij van toepassing zijn.
 
 ### Bijlage  3  
 
-####Voorbehouden van de Gemeenschap overeenkomstig artikel 28, lid 2
+####Voorbehouden van de Gemeenschap overeenkomstig artikel 28, lid 2 
 
 ###Mijnbouw
 
@@ -1255,10 +1255,10 @@ In sommige Lid-Staten is de deelneming van buitenlanders in uitgeverijen en omro
 
 1. Voor vennootschappen waarover de zeggenschap bij niet-Russische personen berust kan voor het delven van bepaalde ertsen en metalen een concessie vereist zijn.  
 
-2. Bepaalde speciale veilingen voor het gebruik van de ondergrond en natuurlijke hulpbronnen door kleine bedrijven of defensie-ondernemingen die zich in het omschakelingsproces bevinden zijn soms niet toegankelijk voor niet-Russische ondernemingen.   
+2.Bepaalde speciale veilingen voor het gebruik van de ondergrond en natuurlijke hulpbronnen door kleine bedrijven of defensie-ondernemingen die zich in het omschakelingsproces bevinden zijn soms niet toegankelijk voor niet-Russische ondernemingen. 
 ###Visvangst
 
-Voor de visvangst is een vergunning van de desbetreffende overheidsinstantie vereist. 
+Voor de visvangst is een vergunning van de desbetreffende overheidsinstantie vereist.
 ###Aankoop van onroerend goed en makelaardij
 
 a. Het is niet-Russische ondernemingen niet toegestaan grond aan te kopen. Deze ondernemingen kunnen echter wel grond pachten voor een periode van maximaal 49 jaar.  
@@ -1267,7 +1267,7 @@ b. In afwijking van punt a kunnen niet-Russische ondernemingen grond verwerven w
 
 - in het kader van de privatisering van staats- en gemeenteondernemingen via aanbestedingen en veilingen voor commerciële investeringen;  
 
-- in het kader van de uitbreiding, ook wat bedrijfshuisvesting betreft, van ondernemingen via aanbestedingen en veilingen voor commerciële investeringen.     
+- in het kader van de uitbreiding, ook wat bedrijfshuisvesting betreft, van ondernemingen via aanbestedingen en veilingen voor commerciële investeringen.    
 ###Telecommunicatie
 
 Telecommunicatiediensten, met inbegrip van mobiele en satelliettelefonie, aanleg, installatie, exploitatie en onderhoud van communicatieapparatuur, zijn aan beperkingen onderhevig. 
@@ -1287,87 +1287,87 @@ Voor de huur door vennootschappen met buitenlandse deelneming van federale eigen
 
 Diensten waarvoor de Partijen elkaar meestbegunstiging toekennen 
 
-a. Sectoren volgens de Central Product Classification (CPC) van de Verenigde Naties: 
+a. Sectoren volgens de Central Product Classification (CPC) van de Verenigde Naties:
 
-Advies inzake beoordeling van de boekhouding: onderdeel van CPC 86212 anders dan accountantscontrole  
+Advies inzake beoordeling van de boekhouding: onderdeel van CPC 86212 anders dan accountantscontrole
 
-Advies op het gebied van boekhouddiensten CPC 86220  
+Advies op het gebied van boekhouddiensten CPC 86220 
 
-Diensten van ingenieurs CPC 8672  
+Diensten van ingenieurs CPC 8672
 
-Geïntegreerde diensten van ingenieurs CPC 8673  
+Geïntegreerde diensten van ingenieurs CPC 8673
 
-Diensten van architecten: advies en voorontwerp CPC 86711  
+Diensten van architecten: advies en voorontwerp CPC 86711
 
-Diensten van architecten: bouwkundig ontwerp CPC 86712  
+Diensten van architecten: bouwkundig ontwerp CPC 86712
 
-Diensten in verband met stedebouw en landschapsarchitectuur CPC 8674  
+Diensten in verband met stedebouw en landschapsarchitectuur CPC 8674
 
-Diensten in verband met computers: 
+Diensten in verband met computers:
 
-Advies met betrekking tot de installatie van computerapparatuur CPC 841  
+Advies met betrekking tot de installatie van computerapparatuur CPC 841
 
-Installatie van programmatuur CPC 842  
+Installatie van programmatuur CPC 842
 
-Databanken CPC 844  
+Databanken CPC 844
 
-Reclame CPC 871  
+Reclame CPC 871
 
-Markt- en opinieonderzoek CPC 864  
+Markt- en opinieonderzoek CPC 864
 
-Managementadvies CPC 866  
+Managementadvies CPC 866
 
-Technische beproeving en analyse CPC 8676  
+Technische beproeving en analyse CPC 8676
 
-Advies en consultancy inzake landbouw, jacht en bosbouw  
+Advies en consultancy inzake landbouw, jacht en bosbouw
 
-Advies en consultancy inzake visserij  
+Advies en consultancy inzake visserij
 
-Advies en consultancy inzake mijnbouw  
+Advies en consultancy inzake mijnbouw
 
-Drukkerij en uitgeverij CPC 88442  
+Drukkerij en uitgeverij CPC 88442
 
-Congresdienstverlening  
+Congresdienstverlening
 
-Vertalingen CPC 87905  
+Vertalingen CPC 87905
 
-Interieurarchitectuur CPC 87907    
+Interieurarchitectuur CPC 87907
 
-Telecommunicatie: 
+Telecommunicatie:
 
-Diensten met toegevoegde waarde, met inbegrip van, echter niet beperkt tot: elektronische post, voice mail, on-line raadpleging van databases en andere informatiebronnen, gegevensverwerking, EDI, code en protocolconversie  
+Diensten met toegevoegde waarde, met inbegrip van, echter niet beperkt tot: elektronische post, voice mail, on-line raadpleging van databases en andere informatiebronnen, gegevensverwerking, EDI, code en protocolconversie
 
-Pakketgeschakelde en circuitgeschakelde datadiensten    
+Pakketgeschakelde en circuitgeschakelde datadiensten
 
-Bouwwerkzaamheden en gerelateerde technische werkzaamheden: onderzoek van bouwterreinen CPC 5111  
+Bouwwerkzaamheden en gerelateerde technische werkzaamheden: onderzoek van bouwterreinen CPC 5111
 
-Franchising CPC 8929  
+Franchising CPC 8929
 
-Volwasseneneducatie: schriftelijk onderwijs (onderdeel van CPC 924)  
+Volwasseneneducatie: schriftelijk onderwijs (onderdeel van CPC 924) 
 
-Persagentschappen CPC 962  
+Persagentschappen CPC 962
 
-Verhuur en leasing van auto's en andere vervoermiddelen zonder chauffeur (CPC 83101 personenauto's, CPC 83102 voertuigen voor goederenvervoer, CPC 83105); van overige machines, apparatuur en werktuigen zonder bedieningspersoneel (CPC 83106, 83107, 83108, 83109)  
+Verhuur en leasing van auto's en andere vervoermiddelen zonder chauffeur (CPC 83101 personenauto's, CPC 83102 voertuigen voor goederenvervoer, CPC 83105); van overige machines, apparatuur en werktuigen zonder bedieningspersoneel (CPC 83106, 83107, 83108, 83109)
 
-Handelsbemiddeling en groothandel met betrekking tot de in- en uitvoerhandel (onderdeel van CPC 621 en CPC 622)  
+Handelsbemiddeling en groothandel met betrekking tot de in- en uitvoerhandel (onderdeel van CPC 621 en CPC 622)
 
-Onderzoek en ontwikkeling op het gebied van computerprogrammatuur  
+Onderzoek en ontwikkeling op het gebied van computerprogrammatuur
 
-Herverzekering en retrocessie, alsmede ondersteunende diensten op verzekeringsgebied, zoals advies, actuariële diensten, risicobeoordeling en schaderegeling  
+Herverzekering en retrocessie, alsmede ondersteunende diensten op verzekeringsgebied, zoals advies, actuariële diensten, risicobeoordeling en schaderegeling
 
-Verzekering van risico's met betrekking tot: 
+Verzekering van risico's met betrekking tot:
 
 i. zeevaart, commerciële luchtvaart en ruimtelanceringen plus lading (met inbegrip van satellieten), alsmede verzekering van: ver voerde personen, ingevoerde of uitgevoerde goederen, het voertuig waarmee de goederen vervoerd worden en elke aansprakelijkheid die hieruit voortvloeit;  
 
 ii. goederen in het internationaal vervoer;  
 
-iii. ongevallen en ziekte; aansprakelijkheid voor automobilisten bij grensoverschrijdend verkeer      
+iii. ongevallen en ziekte; aansprakelijkheid voor automobilisten bij grensoverschrijdend verkeer  
 
-b. Gegevensverwerking CPC 843 
+b.Gegevensverwerking CPC 843
 
-Verstrekking en doorzending van financiële informatie; verwerking van financiële gegevens (zie de punten B.ll en B.12 van bijlage 6)  
+Verstrekking en doorzending van financiële informatie; verwerking van financiële gegevens (zie de punten B.ll en B.12 van bijlage 6)
 
-Voor de onder b. genoemde diensten wordt meestbegunstiging toegekend, overeenkomstig artikel 38, zonder toepassing van deel A van bijlage 8.       
+Voor de onder b. genoemde diensten wordt meestbegunstiging toegekend, overeenkomstig artikel 38, zonder toepassing van deel A van bijlage 8.   
 
 ### Bijlage  6  
 
@@ -1425,21 +1425,21 @@ f. andere waardepapieren en financiële activa, met inbegrip van ongemunt goud e
 
 11. Verstrekken en overdragen van financiële informatie, financiële gegevensverwerking en bijbehorende software door verleners van andere financiële diensten  
 
-12. Advisering en andere financiële nevendiensten in verband met de in de punten 1 tot 11 genoemde activiteiten, met inbegrip van kredietreferenties en -analyse, onderzoek en advies in verband met beleggingen en portefeuillesamenstelling, alsmede advies over overnames en over bedrijfsreorganisatie en -strategie     De volgende activiteiten zijn van de definitie van financiële diensten uitgesloten: 
+12. Advisering en andere financiële nevendiensten in verband met de in de punten 1 tot 11 genoemde activiteiten, met inbegrip van kredietreferenties en -analyse, onderzoek en advies in verband met beleggingen en portefeuillesamenstelling, alsmede advies over overnames en over bedrijfsreorganisatie en -strategie    De volgende activiteiten zijn van de definitie van financiële diensten uitgesloten: 
 
 a. activiteiten van centrale banken of andere overheidsinstellingen voor de tenuitvoerlegging van het monetair beleid of het wisselkoersbeleid  
 
 b. activiteiten die voor rekening of met garantie van de Staat worden verricht door centrale banken, overheidsinstanties of -organisaties of openbare instellingen, behalve wanneer die activiteiten door financiële dienstverleners in concurrentie met die overheidslichamen mogen worden uitgevoerd  
 
-c. activiteiten die deel uitmaken van een wettelijk stelsel van sociale zekerheid of van wettelijke pensioenregelingen, behalve wanneer die activiteiten door financiële dienstverleners in concurrentie met overheidslichamen of particuliere instellingen mogen worden uitgevoerd.     
+c. activiteiten die deel uitmaken van een wettelijk stelsel van sociale zekerheid of van wettelijke pensioenregelingen, behalve wanneer die activiteiten door financiële dienstverleners in concurrentie met overheidslichamen of particuliere instellingen mogen worden uitgevoerd.    
 
-### Bijlage  7  
+###Bijlage  7  
 
 ####Financiële diensten
 
-A. Wat de in bijlage 6, deel B, vermelde bancaire diensten betreft, betekent de door Rusland krachtens artikel 28, lid 1, toegekende meestbegunstigingsbehandeling ten aanzien van vestiging door middel van de oprichting van uitsluitend een dochteronderneming (en dus niet vestiging door middel van de oprichting van een filiaal) en de door Rusland krachtens artikel 28, lid 3, toegekende nationale behandeling, een behandeling die niet minder gunstig is dan de door Rusland aan zijn eigen vennootschappen toegekende behandeling; hierop zijn de volgende uitzonderingen: 
+A.Wat de in bijlage 6, deel B, vermelde bancaire diensten betreft, betekent de door Rusland krachtens artikel 28, lid 1, toegekende meestbegunstigingsbehandeling ten aanzien van vestiging door middel van de oprichting van uitsluitend een dochteronderneming (en dus niet vestiging door middel van de oprichting van een filiaal) en de door Rusland krachtens artikel 28, lid 3, toegekende nationale behandeling, een behandeling die niet minder gunstig is dan de door Rusland aan zijn eigen vennootschappen toegekende behandeling; hierop zijn de volgende uitzonderingen: 
 
-1. Rusland behoudt zich het recht voor om: 
+1.Rusland behoudt zich het recht voor om: 
 
 a. op Russische dochterondernemingen en filialen van vennootschappen uit de Gemeenschap het maximum te blijven toepassen dat het totale aandeel van buitenlands kapitaal in het Russische bankstelsel dat op de datum van ondertekening van de Overeenkomst geldt, beperkt;  
 
@@ -1451,11 +1451,11 @@ d. een minimumniveau vast te stellen dat niet hoger is dan 55.000 ecu voor saldo
 
 e. Russische dochterondernemingen van vennootschappen uit de Gemeenschap te verbieden transacties uit te voeren met aandelen en instrumenten die converteerbaar zijn in aandelen van Russische vennootschappen op aandelen;  
 
-f. Russische dochterondernemingen van vennootschappen uit de Gemeenschap te verbieden transacties met Russische ingezetenen uit te voeren.    
+f. Russische dochterondernemingen van vennootschappen uit de Gemeenschap te verbieden transacties met Russische ingezetenen uit te voeren.  
 
-2. De in punt 1 vermelde uitzonderingen zijn slechts onder de volgende voorwaarden van toepassing : 
+2.De in punt 1 vermelde uitzonderingen zijn slechts onder de volgende voorwaarden van toepassing : 
 
-i. mits zij worden toegepast op dochterondernemingen van vennootschappen van elk land en  
+i.  mits zij worden toegepast op dochterondernemingen van vennootschappen van elk land en
 
 ii. voor de in punt 1, sub c, d en e, vermelde uitzonderingen, 
 
@@ -1465,22 +1465,22 @@ b. wanneer het aandeel in het aandelenkapitaal van de Russische dochterondernemi
 
 c. op Russische dochterondernemingen van na de inwerkingtreding van deze uitzonderingen gevestigde vennootschappen uit de Gemeenschap;    
 
-iii. voor de in punt 1, sub f, vermelde uitzondering tot 1 januari 1996 en slechts op Russische dochterondernemingen van vennootschappen uit de Gemeenschap die na 15 november 1993 zijn gevestigd of die hun activiteiten met Russische ingezetenen niet vóór 15 november 1993 begonnen.    
+iii. voor de in punt 1, sub f, vermelde uitzondering tot 1 januari 1996 en slechts op Russische dochterondernemingen van vennootschappen uit de Gemeenschap die na 15 november 1993 zijn gevestigd of die hun activiteiten met Russische ingezetenen niet vóór 15 november 1993 begonnen.  
 
 3. 
-a. Na het verstrijken van vijf jaar vanaf de datum van ondertekening van de Overeenkomst beziet Rusland de mogelijkheid van: 
+a. Na het verstrijken van vijf jaar vanaf de datum van ondertekening van de Overeenkomst beziet Rusland de mogelijkheid van:
 
 i. verhoging van het in punt 1, sub a, vermelde maximum dat het totale aandeel van buitenlands kapitaal in het Russische bankstelsel dat op de datum van ondertekening van deze Overeenkomst geldt, beperkt, met inachtneming van alle ter zake doende monetaire, fiscale, financiële en betalingsbalansoverwegingen en de toestand van het bankstelsel in Rusland;  
 
-ii. verlaging van het in punt 1, sub b, vermelde verplichte minimumvermogen, met inachtneming van alle ter zake doende monetaire, fiscale, financiële en betalingsbalansoverwegingen en de staat van het bankstelsel in Rusland.    
+ii. verlaging van het in punt 1, sub b, vermelde verplichte minimumvermogen, met inachtneming van alle ter zake doende monetaire, fiscale, financiële en betalingsbalansoverwegingen en de staat van het bankstelsel in Rusland.  
 
-b. Na het verstrijken van drie jaar vanaf de datum van ondertekening van deze Overeenkomst zal Rusland verzachting van de in punt 1, sub c en d, vermelde beperkingen overwegen, met inachtneming van alle ter zake doende monetaire, fiscale, financiële en betalingsbalansoverwegingen en de staat van het bankstelsel in Rusland.      
+b. Na het verstrijken van drie jaar vanaf de datum van ondertekening van deze Overeenkomst zal Rusland verzachting van de in punt 1, sub c en d, vermelde beperkingen overwegen, met inachtneming van alle ter zake doende monetaire, fiscale, financiële en betalingsbalansoverwegingen en de staat van het bankstelsel in Rusland. 
 
-B. Ten aanzien van de in bijlage 6, deel A, punten 1 en 2, vermelde verzekeringsdiensten wordt de meestbegunstigingsbehandeling die krachtens artikel 28, lid 1, wordt toegekend aan vestiging door middel van de oprichting van uitsluitend een dochteronderneming aan welke verzekeringsactiviteiten zijn toegestaan, uiteengezet in de op de dag van vestiging in Rusland geldende wetgeving en voorschriften, met inachtneming van de volgende voorwaarden : 
+B.Ten aanzien van de in bijlage 6, deel A, punten 1 en 2, vermelde verzekeringsdiensten wordt de meestbegunstigingsbehandeling die krachtens artikel 28, lid 1, wordt toegekend aan vestiging door middel van de oprichting van uitsluitend een dochteronderneming aan welke verzekeringsactiviteiten zijn toegestaan, uiteengezet in de op de dag van vestiging in Rusland geldende wetgeving en voorschriften, met inachtneming van de volgende voorwaarden : 
 
 1. na ten hoogste vijf jaar na de ondertekening van de Overeenkomst schaft Rusland de maximumgrens van buitenlands aandeelhouderschap van 49 % in vermogen van vennootschappen af;  
 
-2. tijdens de overgangsperiode van vijf jaar weerhoudt de afschaffing van de maximumgrens voor buitenlands aandeelhouderschap Rusland niet van het invoeren van maatregelen voor het verlenen van vergunningen aan vennootschappen uit de Gemeenschap voor enkele soorten verzekeringen. Deze maatregelen kunnen slechts worden genomen op het gebied van verplichte verzekeringsstelsels in de sociale zekerheid of voor overheidsaankopen of om de in artikel 29, lid 2, beschreven redenen en mogen de gevolgen van de afschaffing van de maximumgrens van buitenlands aandeelhouderschap van 49 % niet tenietdoen of ernstig schaden.       
+2. tijdens de overgangsperiode van vijf jaar weerhoudt de afschaffing van de maximumgrens voor buitenlands aandeelhouderschap Rusland niet van het invoeren van maatregelen voor het verlenen van vergunningen aan vennootschappen uit de Gemeenschap voor enkele soorten verzekeringen. Deze maatregelen kunnen slechts worden genomen op het gebied van verplichte verzekeringsstelsels in de sociale zekerheid of voor overheidsaankopen of om de in artikel 29, lid 2, beschreven redenen en mogen de gevolgen van de afschaffing van de maximumgrens van buitenlands aandeelhouderschap van 49 % niet tenietdoen of ernstig schaden.  
 
 ### Bijlage  8  
 
@@ -1494,12 +1494,12 @@ Het overleg vangt binnen dertig dagen aan na het verzoek daartoe door de eerste 
 
 - aanpassingen van de verplichtingen van beide partijen; of  
 
-- aanpassingen door de eerste partij ter compensatie van de meer restrictieve situatie die door toedoen van de andere partij is ontstaan.   Indien binnen zestig dagen na het verzoek om overleg door de eerste partij geen overeenstemming is bereikt, mag deze partij zijn verplichtingen aanpassen, in de mate en voor zolang dit nodig is om de aanmerkelijk restrictievere situatie te compenseren die door toedoen van de andere partij is ontstaan. Prioriteit moet worden gegeven aan die maatregelen die de werking van de overeenkomst het minst verstoren. Deze aanpassingen mogen geen afbreuk doen aan de rechten die ondernemingen ten tijde van deze aanpassingen op grond van de overeenkomst hebben verworven. 
+- aanpassingen door de eerste partij ter compensatie van de meer restrictieve situatie die door toedoen van de andere partij is ontstaan.  Indien binnen zestig dagen na het verzoek om overleg door de eerste partij geen overeenstemming is bereikt, mag deze partij zijn verplichtingen aanpassen, in de mate en voor zolang dit nodig is om de aanmerkelijk restrictievere situatie te compenseren die door toedoen van de andere partij is ontstaan. Prioriteit moet worden gegeven aan die maatregelen die de werking van de overeenkomst het minst verstoren. Deze aanpassingen mogen geen afbreuk doen aan de rechten die ondernemingen ten tijde van deze aanpassingen op grond van de overeenkomst hebben verworven.
 ###Deel B
 
 1. Tijdens de overgangsperiode van drie jaar die op de ondertekening van de overeenkomst volgt, stelt de Regering van Rusland, in een geest van partnerschap en samenwerking, de Gemeenschap van haar voornemen in kennis nieuwe wetten in te voeren of nieuwe voorschriften goed te keuren die beperkingen kunnen inhouden van de voorwaarden voor de vestiging of werking van Russische filialen of dochterondernemingen van ondernemingen van de Gemeenschap ten opzichte van de situatie op de dag voorafgaande aan de datum van ondertekening van de overeenkomst. De Gemeenschap kan Rusland verzoeken haar de ontwerp-teksten van deze wetten of voorschriften mede te delen en overleg te houden over deze teksten.  
 
-2. Indien nieuwe wetten of voorschriften die tijdens de in lid 1 bedoelde overgangsperiode in Rusland worden ingevoerd ertoe leiden dat de voorwaarden voor de werking van Russische filialen en dochterondernemingen van ondernemingen van de Gemeenschap restrictiever worden ten opzichte van de situatie op de dag voorafgaande aan de datum van ondertekening van de overeenkomst, dan zijn deze wetten of voorschriften gedurende drie jaar vanaf hun inwerkingtreding niet van toepassing op die filialen en dochterondernemingen die bij de inwerkingtreding van bedoelde besluiten reeds in Rusland waren gevestigd.     
+2. Indien nieuwe wetten of voorschriften die tijdens de in lid 1 bedoelde overgangsperiode in Rusland worden ingevoerd ertoe leiden dat de voorwaarden voor de werking van Russische filialen en dochterondernemingen van ondernemingen van de Gemeenschap restrictiever worden ten opzichte van de situatie op de dag voorafgaande aan de datum van ondertekening van de overeenkomst, dan zijn deze wetten of voorschriften gedurende drie jaar vanaf hun inwerkingtreding niet van toepassing op die filialen en dochterondernemingen die bij de inwerkingtreding van bedoelde besluiten reeds in Rusland waren gevestigd.    
 
 ### Bijlage  9  
 
@@ -1513,7 +1513,7 @@ De in artikel 53, lid 2.3, en bijlage 2, lid 2, genoemde omstandigheden gelden t
 
 - die geconfronteerd worden met de verdwijning of een drastische inkrimping van het totale marktaandeel van Russische bedrijven of onderdanen in een bepaalde sector of bedrijfstak in Rusland, of  
 
-- die nieuw opkomende bedrijfstakken in Rusland zijn.     
+- die nieuw opkomende bedrijfstakken in Rusland zijn.    
 
 ### Bijlage  10  
 
@@ -1521,29 +1521,29 @@ De in artikel 53, lid 2.3, en bijlage 2, lid 2, genoemde omstandigheden gelden t
 
 ### 1  
 
-Rusland legt zich verder toe op het verbeteren van de bescherming van de intellectuele, industriële en commerciële eigendomsrechten, ten einde tegen het einde van het vijfde jaar na de vankrachtwording van de Overeenkomst te kunnen voorzien in een mate van bescherming welke overeenstemt met de in de Gemeenschap verleende bescherming, met inbegrip van doeltreffende middelen om de eerbiediging van die rechten af te dwingen.  
+Rusland legt zich verder toe op het verbeteren van de bescherming van de intellectuele, industriële en commerciële eigendomsrechten, ten einde tegen het einde van het vijfde jaar na de vankrachtwording van de Overeenkomst te kunnen voorzien in een mate van bescherming welke overeenstemt met de in de Gemeenschap verleende bescherming, met inbegrip van doeltreffende middelen om de eerbiediging van die rechten af te dwingen. 
 
 ### 2  
 
 Tegen het einde van het vijfde jaar na de vankrachtwording van de Overeenkomst treedt Rusland toe tot de multilaterale overeenkomsten inzake intellectuele, industriële en commerciële eigendomsrechten waarbij de Lid-Staten partij zijn of welke de facto door de Lid-Staten in overeenstemming met de desbetreffende bepalingen van die overeenkomsten worden toegepast; het gaat daarbij om : 
 
-- de Berner-conventie voor de bescherming van werken van letterkunde en kunst (Akte van Parijs, 1971);  
+-de [Berner-conventie voor de bescherming van werken van letterkunde en kunst](../../../../../../../../../../../verdrag/berner/conventie/voor/de/bescherming/van/werken/van/letterkunde/en/kunst/etc/BWBV0003977/README.md) (Akte van Parijs, 1971);
 
-- het Internationaal Verdrag inzake de bescherming van uitvoerende kunstenaars, producenten van fonogrammen en omroeporganisaties (Rome, 1961);  
+-het [Internationaal Verdrag inzake de bescherming van uitvoerende kunstenaars, producenten van fonogrammen en omroeporganisaties](../../../../../../../../../../../verdrag/international/convention/for/the/protection/of/performers/producers/of/etc/BWBV0004329/README.md) (Rome, 1961);
 
-- het Internationaal Verdrag tot bescherming van kweekprodukten (UPOV) (Akte van Genève, 1978).    
+-het [Internationaal Verdrag tot bescherming van kweekprodukten](../../../../../../../../../../../verdrag/internationaal/verdrag/tot/bescherming/van/kweekprodukten/van/2/december/etc/BWBV0002685/README.md) (UPOV) (Akte van Genève, 1978). 
 
 ### 3  
 
-De Samenwerkingsraad kan aanbevelen dat punt 2 van deze bijlage wordt toegepast op andere multilaterale overeenkomsten.  
+De Samenwerkingsraad kan aanbevelen dat punt 2 van deze bijlage wordt toegepast op andere multilaterale overeenkomsten. 
 
 ### 4  
 
-Met ingang van de datum van de vankrachtwording van deze Overeenkomst kent Rusland aan ondernemingen en onderdanen van de Gemeenschap wat de erkenning en de bescherming van intellectuele, industriële en commerciële eigendom betreft, een behandeling toe die niet minder gunstig is dan die welke dit land uit hoofde van bilaterale overeenkomsten aan om het even welk derde land toekent.  
+Met ingang van de datum van de vankrachtwording van deze Overeenkomst kent Rusland aan ondernemingen en onderdanen van de Gemeenschap wat de erkenning en de bescherming van intellectuele, industriële en commerciële eigendom betreft, een behandeling toe die niet minder gunstig is dan die welke dit land uit hoofde van bilaterale overeenkomsten aan om het even welk derde land toekent. 
 
 ### 5  
 
-Punt 4 is niet van toepassing op de voordelen die Rusland op een daadwerkelijke grondslag van reciprociteit aan om het even welk derde land toekent of op de voordelen welke Rusland aan een ander land van de voormalige USSR toekent.  
+Punt 4 is niet van toepassing op de voordelen die Rusland op een daadwerkelijke grondslag van reciprociteit aan om het even welk derde land toekent of op de voordelen welke Rusland aan een ander land van de voormalige USSR toekent. 
 
 ### Protocol  1  
 
@@ -1551,39 +1551,39 @@ Punt 4 is niet van toepassing op de voordelen die Rusland op een daadwerkelijke 
 
 ### 1  
 
-De partijen richten een Contactgroep op, die is samengesteld uit vertegenwoordigers van de Gemeenschap en van Rusland.  
+De partijen richten een Contactgroep op, die is samengesteld uit vertegenwoordigers van de Gemeenschap en van Rusland. 
 
 ### 2  
 
-De Contactgroep wisselt informatie uit over de situatie van de kolen- en staalindustrie op hun grondgebied en over de handel in kolen en staal, in het bijzonder met het doel de problemen te onderkennen die zich mochten voordoen.  
+De Contactgroep wisselt informatie uit over de situatie van de kolen- en staalindustrie op hun grondgebied en over de handel in kolen en staal, in het bijzonder met het doel de problemen te onderkennen die zich mochten voordoen. 
 
 ### 3  
 
-De Contactgroep onderzoekt tevens de situatie van de kolen- en staalindustrie op wereldniveau, met inbegrip van de ontwikkelingen in de internationale handel.  
+De Contactgroep onderzoekt tevens de situatie van de kolen- en staalindustrie op wereldniveau, met inbegrip van de ontwikkelingen in de internationale handel. 
 
 ### 4  
 
-De Contactgroep wisselt alle nuttige informatie uit over de structuur van de betrokken bedrijfstakken, de ontwikkeling van hun produktiecapaciteit, de vooruitgang van wetenschap en onderzoek op de betrokken gebieden en de ontwikkelingen van de werkgelegenheid. De Groep onderzoekt tevens vervuiling en de milieuproblematiek.  
+De Contactgroep wisselt alle nuttige informatie uit over de structuur van de betrokken bedrijfstakken, de ontwikkeling van hun produktiecapaciteit, de vooruitgang van wetenschap en onderzoek op de betrokken gebieden en de ontwikkelingen van de werkgelegenheid. De Groep onderzoekt tevens vervuiling en de milieuproblematiek. 
 
 ### 5  
 
-De Contactgroep onderzoekt tevens de vooruitgang op het gebied van de technische bijstand tussen partijen, waaronder hulp bij de financiële, commerciële en technische bedrijfsvoering.  
+De Contactgroep onderzoekt tevens de vooruitgang op het gebied van de technische bijstand tussen partijen, waaronder hulp bij de financiële, commerciële en technische bedrijfsvoering. 
 
 ### 6  
 
-De Contactgroep wisselt alle relevante informatie uit over de standpunten die in internationale organisaties en fora zijn of moeten worden ingenomen.  
+De Contactgroep wisselt alle relevante informatie uit over de standpunten die in internationale organisaties en fora zijn of moeten worden ingenomen. 
 
 ### 7  
 
-Indien partijen overeenkomen dat de aanwezigheid en/of deelname van vertegenwoordigers van de bedrijfstakken wenselijk is, wordt de Contactgroep met deze vertegenwoordigers uitgebreid.  
+Indien partijen overeenkomen dat de aanwezigheid en/of deelname van vertegenwoordigers van de bedrijfstakken wenselijk is, wordt de Contactgroep met deze vertegenwoordigers uitgebreid. 
 
 ### 8  
 
-De Contactgroep komt tweemaal per jaar, beurtelings op het grondgebied van de ene en van de andere partij, bijeen.  
+De Contactgroep komt tweemaal per jaar, beurtelings op het grondgebied van de ene en van de andere partij, bijeen. 
 
 ### 9  
 
-Het voorzitterschap van de Contactgroep wordt beurtelings waargenomen door een vertegenwoordiger van de Commissie van de Europese Gemeenschappen en een vertegenwoordiger van de Regering van de Russische Federatie.  
+Het voorzitterschap van de Contactgroep wordt beurtelings waargenomen door een vertegenwoordiger van de Commissie van de Europese Gemeenschappen en een vertegenwoordiger van de Regering van de Russische Federatie. 
 
 ### Protocol  2  
 
@@ -1603,14 +1603,14 @@ c. verzoekende autoriteit: een bevoegde administratieve autoriteit die hiertoe d
 
 d. aangezochte autoriteit: een bevoegde administratieve autoriteit die hiertoe door een Partij is aangewezen en die een verzoek om administratieve bijstand in douanezaken ontvangt;  
 
-e. overtreding: elke inbreuk op de douanewetgeving en elke poging daartoe.    
+e. overtreding: elke inbreuk op de douanewetgeving en elke poging daartoe.   
 
 ### Artikel  2  
 
 ####Werkingssfeer
 
 1.  De Partijen verlenen elkaar, binnen hun bevoegdheden, bijstand, op de wijze en onder de voorwaarden vastgesteld in dit protocol, met het oog op de correcte toepassing van de douanewetgeving, in het bijzonder wat de preventie, de opsporing en het onderzoek van overtredingen van deze wetgeving betreft.   
-2.  De bijstand in douanezaken waarin dit protocol voorziet, geldt voor elke administratieve autoriteit van de Partijen die bevoegd is voor de toepassing van dit protocol. De bijstand in douanezaken doet geen afbreuk aan de regels betreffende de wederzijdse bijstand in strafzaken en geldt niet voor informatie, met inbegrip van documenten, die is verkregen krachtens bevoegdheden die op verzoek van de rechterlijke autoriteiten worden uitgeoefend, tenzij deze autoriteiten hiermee instemmen.   
+2.  De bijstand in douanezaken waarin dit protocol voorziet, geldt voor elke administratieve autoriteit van de Partijen die bevoegd is voor de toepassing van dit protocol. De bijstand in douanezaken doet geen afbreuk aan de regels betreffende de wederzijdse bijstand in strafzaken en geldt niet voor informatie, met inbegrip van documenten, die is verkregen krachtens bevoegdheden die op verzoek van de rechterlijke autoriteiten worden uitgeoefend, tenzij deze autoriteiten hiermee instemmen.  
 
 ### Artikel  3  
 
@@ -1626,7 +1626,7 @@ b. plaatsen waar voorraden goederen zo zijn samengebracht dat er redenen zijn om
 
 c. goederenbewegingen waarover wordt medegedeeld dat zij aanleiding kunnen geven tot overtredingen van de douanewetgeving;  
 
-d. vervoermiddelen ten aanzien waarvan een gegrond vermoeden bestaat dat zij voor het plegen van inbreuken op de douanewetgeving werden gebruikt, worden gebruikt of kunnen worden gebruikt.     
+d. vervoermiddelen ten aanzien waarvan een gegrond vermoeden bestaat dat zij voor het plegen van inbreuken op de douanewetgeving werden gebruikt, worden gebruikt of kunnen worden gebruikt.    
 
 ### Artikel  4  
 
@@ -1638,7 +1638,7 @@ De Partijen verlenen elkaar bijstand zonder voorafgaande aanvraag en binnen hun 
 
 - nieuwe middelen of methoden die bij dergelijke transacties worden gebruikt;  
 
-- goederen waarvan bekend is dat zij het voorwerp vormen van een ernstige overtreding van de douanewetgeving inzake invoer, uitvoer, doorvoer of andere douaneprocedures.    
+- goederen waarvan bekend is dat zij het voorwerp vormen van een ernstige overtreding van de douanewetgeving inzake invoer, uitvoer, doorvoer of andere douaneprocedures.   
 
 ### Artikel  5  
 
@@ -1659,7 +1659,7 @@ e. zo nauwkeurig en volledig mogelijke informatie betreffende de natuurlijke per
 
 f. een overzicht van de relevante feiten.     
 3.  De verzoeken worden ingediend in een officiële taal van de aangezochte autoriteit of in een voor deze aanvaardbare taal.   
-4.  Indien een verzoek niet in de juiste vorm wordt gedaan, kan om correctie of aanvulling worden verzocht. Er kunnen echter reeds conservatoire maatregelen worden genomen.   
+4.  Indien een verzoek niet in de juiste vorm wordt gedaan, kan om correctie of aanvulling worden verzocht. Er kunnen echter reeds conservatoire maatregelen worden genomen.  
 
 ### Artikel  6  
 
@@ -1669,7 +1669,7 @@ f. een overzicht van de relevante feiten.
 2.  De aangezochte autoriteit behandelt verzoeken om bijstand, binnen de grenzen van haar bevoegdheden en de haar beschikbare middelen, alsof zij voor eigen rekening of in opdracht van een andere autoriteit van dezelfde Partij handelde, met name door reeds beschikbare informatie te verstrekken en het nodige onderzoek te verrichten of te doen verrichten.   
 3.  Gemachtigde ambtenaren van een Partij kunnen met instemming van de andere betrokken Partij en onder de voorwaarden die laatstgenoemde stelt, van de diensten van de aangezochte autoriteit of van een andere autoriteit die onder de aangezochte autoriteit ressorteert, informatie over inbreuken op de douanewetgeving verkrijgen die de verzoekende autoriteit nodig heeft ter uitvoering van het bepaalde in dit protocol.   
 4.  Ambtenaren van een Partij kunnen, in bijzondere gevallen, met instemming van de andere betrokken Partij en onder de voorwaarden die laatstgenoemde stelt, aanwezig zijn bij onderzoek dat op het grondgebied van laatstgenoemde wordt verricht.   
-5.  Ambtenaren van een partij die onder de in dit Protocol voorziene omstandigheden aanwezig zijn bij onderzoek dat op het grondgebied van de andere partij wordt verricht, moeten zich steeds kunnen legitimeren. Zij mogen geen uniform dragen of wapens bij zich hebben.   
+5.  Ambtenaren van een partij die onder de in dit Protocol voorziene omstandigheden aanwezig zijn bij onderzoek dat op het grondgebied van de andere partij wordt verricht, moeten zich steeds kunnen legitimeren. Zij mogen geen uniform dragen of wapens bij zich hebben.  
 
 ### Artikel  7  
 
@@ -1677,7 +1677,7 @@ f. een overzicht van de relevante feiten.
 
 1.  Partijen delen elkaar informatie mede in de vorm van bescheiden, voor echt gewaarmerkte afschriften van bescheiden, rapporten en dergelijke onder de voorwaarden en binnen de grenzen als in dit Protocol omschreven.   
 2.  Originele dossiers en documenten kunnen op verzoek slechts worden toegezonden wanneer voor echt gewaarmerkt kopieën niet toereikend zouden zijn. Deze dossiers en documenten worden zo spoedig mogelijk teruggezonden.   
-3.  De in lid 1 bedoelde bescheiden kunnen worden vervangen door informatie die, in ongeacht welke vorm, met behulp van systemen voor automatische gegevensverwerking voor hetzelfde doel wordt verstrekt. Alle relevante informatie voor het gebruik van het materiaal wordt op verzoek verstrekt.   
+3.  De in lid 1 bedoelde bescheiden kunnen worden vervangen door informatie die, in ongeacht welke vorm, met behulp van systemen voor automatische gegevensverwerking voor hetzelfde doel wordt verstrekt. Alle relevante informatie voor het gebruik van het materiaal wordt op verzoek verstrekt.  
 
 ### Artikel  8  
 
@@ -1689,7 +1689,7 @@ a. hun soevereiniteit, openbare orde, veiligheid of andere wezenlijke belangen z
 
 b. de schending zou inhouden van een industrieel geheim, een handelsgeheim of een beroepsgeheim.     
 2.  Wanneer de verzoekende autoriteit om een vorm van bijstand verzoekt die zij desgevraagd zelf niet zou kunnen verlenen, vermeldt zij dit in haar verzoek. De aangezochte autoriteit bepaalt zelf hoe zij op een dergelijk verzoek reageert.   
-3.  Indien bijstand wordt geweigerd, dienen het daartoe strekkende besluit en de redenen ervan onverwijld aan de verzoekende autoriteit te worden medegedeeld.   
+3.  Indien bijstand wordt geweigerd, dienen het daartoe strekkende besluit en de redenen ervan onverwijld aan de verzoekende autoriteit te worden medegedeeld.  
 
 ### Artikel  9  
 
@@ -1697,9 +1697,9 @@ b. de schending zou inhouden van een industrieel geheim, een handelsgeheim of ee
 
 1.  Alle informatie, in welke vorm dan ook, die ter uitvoering van dit protocol is verstrekt, heeft een vertrouwelijk karakter en valt onder de geheimhoudingsplicht. Op deze informatie is de wetgeving van toepassing die op soortgelijke informatie van de ontvangende Partij van toepassing is. Tevens zijn de ter zake geldende bepalingen van toepassing waaraan de communautaire autoriteiten zijn onderworpen.   
 2.  Nominatieve gegevens worden niet verstrekt wanneer er redenen zijn om aan te nemen dat de mededeling of het gebruik ervan strijdig zou zijn met de fundamentele rechtsbeginselen van een der partijen en, in het bijzonder, indien de fundamentele mensenrechten van de betrokkene hierdoor zouden worden geschonden. De Partij die de gegevens ontvangt, deelt de Partij die de gegevens verstrekt desgevraagd mede voor welk doel deze is gebruikt en welke resultaten ermee zijn bereikt.   
-3.  Nominatieve gegevens mogen uitsluitend worden medegedeeld aan douane-autoriteiten en, indien vereist ten behoeve van rechtsvervolging, aan het openbaar ministerie en de gerechtelijke autoriteiten. Andere personen of autoriteiten kunnen dergelijke informatie uitsluitend verkrijgen na voorafgaande toestemming van de autoriteit die ze verstrekt.   
+3.  Nominatieve gegevens mogen uitsluitend worden medegedeeld aan douane-autoriteiten en, indien vereist ten behoeve van rechtsvervolging, aan het openbaar ministerie en de gerechtelijke autoriteiten. Andere personen of autoriteiten kunnen dergelijke informatie uitsluitend verkrijgen na voorafgaande toestemming van de autoriteit die ze verstrekt.    
 4.  De Partij die de gegevens verstrekt, controleert de juistheid daarvan. Wanneer blijkt dat verstrekte gegevens onjuist zijn of dienen te worden geannuleerd, wordt de ontvangende partij daarvan onverwijld in kennis gesteld. Laatstgenoemde is gehouden de correctie of annulatie uit te voeren.   
-5.  Tenzij dit strijdig is met het algemeen belang, kan de betrokkene, op zijn verzoek, informatie verkrijgen omtrent opgeslagen gegevens en de redenen voor deze opslag.   
+5.  Tenzij dit strijdig is met het algemeen belang, kan de betrokkene, op zijn verzoek, informatie verkrijgen omtrent opgeslagen gegevens en de redenen voor deze opslag.  
 
 ### Artikel  10  
 
@@ -1707,66 +1707,66 @@ b. de schending zou inhouden van een industrieel geheim, een handelsgeheim of ee
 
 1.  De verkregen informatie mag uitsluitend worden gebruikt voor de in dit protocol omschreven doeleinden. Een Partij mag deze informatie slechts voor andere doeleinden gebruiken na schriftelijke toestemming van de administratieve autoriteit die ze heeft verstrekt, op de door deze autoriteit vastgestelde voorwaarden.   
 2.  Het bepaalde in lid 1 vormt geen beletsel voor het gebruik van informatie in gerechtelijke of administratieve procedures die achteraf worden ingesteld wegens niet-naleving van de douanewetgeving.   
-3.  De Partijen kunnen de overeenkomstig het bepaalde in dit protocol verkregen informatie en geraadpleegde bescheiden als bewijsmateriaal gebruiken in hun rapporten, getuigenverklaringen en in gerechtelijke procedures.   
+3.  De Partijen kunnen de overeenkomstig het bepaalde in dit protocol verkregen informatie en geraadpleegde bescheiden als bewijsmateriaal gebruiken in hun rapporten, getuigenverklaringen en in gerechtelijke procedures.  
 
 ### Artikel  11  
 
 ####Deskundigen en getuigen
 
-Een onder een aangezochte autoriteit ressorterende ambtenaar kan worden gemachtigd, binnen de perken van de hem verleende machtiging, in het rechtsgebied van een andere Partij als getuige of deskundige op te treden in gerechtelijke of administratieve procedures die betrekking hebben op aangelegenheden waarop dit protocol van toepassing is en daarbij de voor deze procedures noodzakelijke voorwerpen, bescheiden of voor echt gewaarmerkte afschriften van bescheiden voor te leggen. In de convocatie dient uitdrukkelijk te worden vermeld over welk onderwerp en in welke functie of hoedanigheid de betrokken ambtenaar zal worden ondervraagd.  
+Een onder een aangezochte autoriteit ressorterende ambtenaar kan worden gemachtigd, binnen de perken van de hem verleende machtiging, in het rechtsgebied van een andere Partij als getuige of deskundige op te treden in gerechtelijke of administratieve procedures die betrekking hebben op aangelegenheden waarop dit protocol van toepassing is en daarbij de voor deze procedures noodzakelijke voorwerpen, bescheiden of voor echt gewaarmerkte afschriften van bescheiden voor te leggen. In de convocatie dient uitdrukkelijk te worden vermeld over welk onderwerp en in welke functie of hoedanigheid de betrokken ambtenaar zal worden ondervraagd. 
 
 ### Artikel  12  
 
 ####Kosten van de bijstand
 
-De Partijen brengen elkaar geen kosten in rekening voor uitgaven die ter uitvoering van dit protocol zijn gemaakt, met uitzondering, in voor komend geval, van de uitgaven voor deskundigen, getuigen, tolken en vertalers die niet in overheidsdienst zijn.  
+De Partijen brengen elkaar geen kosten in rekening voor uitgaven die ter uitvoering van dit protocol zijn gemaakt, met uitzondering, in voor komend geval, van de uitgaven voor deskundigen, getuigen, tolken en vertalers die niet in overheidsdienst zijn. 
 
 ### Artikel  13  
 
 ####Tenuitvoerlegging
 
 1.  De centrale douane-autoriteiten van Rusland, enerzijds, en de bevoegde diensten van de Commissie van de Europese Gemeenschappen en, in voorkomend geval, de douaneautoriteiten van de Lid-Staten, anderzijds, zijn belast met de uitvoering van dit Protocol. Deze instanties stellen alle praktische maatregelen en regelingen voor de toepassing van dit protocol vast, met inachtneming van de voorschriften op het gebied van de gegevensbescherming. Zij kunnen de Samenwerkingsraad aanbevelingen doen voor wijzigingen die huns inziens in dit protocol dienen te worden aangebracht.   
-2.  De Partijen raadplegen elkaar en stellen elkaar vervolgens in kennis van alle uitvoeringsbepalingen die overeenkomstig dit artikel worden genomen.   
+2.  De Partijen raadplegen elkaar en stellen elkaar vervolgens in kennis van alle uitvoeringsbepalingen die overeenkomstig dit artikel worden genomen.  
 
 ### Artikel  14  
 
 ####Complementariteit
 
 1.  Dit protocol vormt een aanvulling op en geen beletsel voor de toepassing van alle overeenkomsten inzake wederzijdse bijstand die tussen een of meer Lid-Staten en Rusland gesloten zijn of kunnen worden. Het staat een ruimere wederzijdse bijstand waarin dergelijke gesloten of te sluiten overeenkomsten voorzien, niet in de weg.   
-2.  Onverminderd het bepaalde in artikel 10 doen deze overeenkomsten geen afbreuk aan de communautaire bepalingen betreffende de uitwisseling, tussen de bevoegde diensten van de Commissie en de douaneautoriteiten van de Lid-Staten, van informatie over douanezaken die voor de Gemeenschap van belang kan zijn.   
+2.  Onverminderd het bepaalde in artikel 10 doen deze overeenkomsten geen afbreuk aan de communautaire bepalingen betreffende de uitwisseling, tussen de bevoegde diensten van de Commissie en de douaneautoriteiten van de Lid-Staten, van informatie over douanezaken die voor de Gemeenschap van belang kan zijn.  
 
 ### Slotakte  
 
-De gevolmachtigden van: het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Portugese Republiek, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Verdragsluitende Partijen bij het Verdrag tot oprichting van de Europese Gemeenschap, het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal en het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie, hierna de „Lid-Staten" te noemen, en van de Europese Gemeenschap, de Europese Gemeenschap voor Kolen en Staal en de Europese Gemeenschap voor Atoomenergie, hierna „de Gemeenschap" te noemen, enerzijds, en de gevolmachtigde van de Russische Federatie, hierna „Rusland" te noemen, anderzijds, bijeengekomen te Korfoe, op de vierentwintigste juni negentienhonderd vierennegentig, voor de ondertekening van de Overeenkomst inzake Partnerschap en Samenwerking, waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Russische Federatie, anderzijds, hierna „Partnerschaps- en samenwerkingsovereenkomst" te noemen, hebben de volgende teksten aangenomen:     De Partnerschaps- en samenwerkingsovereenkomst, met bijlagen, en de volgende protocollen; Protocol 1 betreffende de oprichting van een Contactgroep Kolen en Staal, Protocol 2 betreffende wederzijdse administratieve bijstand voor de correcte toepassing van de douanewetgeving. De gevolmachtigden van de Lid-Staten en van de Gemeenschap en de gevolmachtigde van Rusland hebben de volgende gemeenschappelijke verklaringen aangenomen, die aan deze Slotakte zijn gehecht: Gemeenschappelijke verklaring betreffende titel III en artikel 94 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 10 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 12 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 17 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 18 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 22, lid 1, tweede streepje, van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 24 van de Overeenkomst Gemeenschappelijke verklaring betreffende de artikelen 26, 32 en 37 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 28 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 29, lid 3, van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 30 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 30, onder a en g, van de Overeenkomst Gemeenschappelijke verklaring betreffende het begrip „zeggenschap" in artikel 30, onder b, en artikel 45 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 30, onder h, derde alinea, van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 31 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 34, lid 1, van de Overeenkomst Gemeenschappelijke verklaring betreffende de artikelen 34 en 38 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 35 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 39, lid 2, onder c, tweede alinea, van de Overeenkomst betreffende het openstellen van havens Gemeenschappelijke verklaring betreffende artikel 39, lid 2, onder c, tweede alinea, van de Overeenkomst betreffende schepen die onder de vlag van een derde land varen Gemeenschappelijke verklaring betreffende artikel 44 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 46, lid 2, van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 48 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 52 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 53, lid 2.2, van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 54 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 99 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 101 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 107 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 107, lid 2, van de Overeenkomst Gemeenschappelijke verklaring betreffende de artikelen 2 en 107 van de overeenkomst Gemeenschappelijke verklaring betreffende artikel 112 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 6 van Protocol 2. De gevolmachtigden van de Lid-Staten en van de Gemeenschap en de gevolmachtigde van Rusland hebben tevens kennis genomen van de volgende briefwisselingen, die aan deze Slotakte zijn gehecht: Briefwisseling met betrekking tot artikel 22 van de Overeenkomst Briefwisseling met betrekking tot artikel 52 van de Overeenkomst. De gevolmachtigde van Rusland heeft kennis genomen van de volgende verklaringen, die aan deze Slotakte zijn gehecht: Verklaring van de Gemeenschap betreffende artikel 36 van de Overeenkomst Verklaring van de Gemeenschap betreffende artikel 54 van de Overeenkomst. De gevolmachtigden van de Lid-Staten en van de Gemeenschap hebben kennis genomen van de volgende verklaringen, die aan deze Slotakte zijn gehecht: Verklaring van Rusland betreffende artikel 36 van de Overeenkomst.   
-GEDAAN te Korfoe, de vierentwintigste juni negentienhonderd vierennegentig.  
+De gevolmachtigden van: het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, de Helleense Republiek, het Koninkrijk Spanje, de Franse Republiek, Ierland, de Italiaanse Republiek, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden, de Portugese Republiek, het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland, Verdragsluitende Partijen bij het [Verdrag tot oprichting van de Europese Gemeenschap](../../../../../../../../../../../verdrag/verdrag/betreffende/de/werking/van/de/europese/unie/BWBV0001506/README.md), het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal en het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](../../../../../../../../../../../verdrag/verdrag/tot/oprichting/van/de/europese/gemeenschap/voor/atoomenergie/etc/BWBV0004033/README.md), hierna de „Lid-Staten” te noemen, en van  de Europese Gemeenschap, de Europese Gemeenschap voor Kolen en Staal en de Europese Gemeenschap voor Atoomenergie, hierna „de Gemeenschap” te noemen,enerzijds, en de gevolmachtigde van de Russische Federatie, hierna „Rusland” te noemen, anderzijds, bijeengekomen te Korfoe, op de vierentwintigste juni negentienhonderd vierennegentig, voor de ondertekening van de Overeenkomst inzake Partnerschap en Samenwerking, waarbij een partnerschap tot stand wordt gebracht tussen de Europese Gemeenschappen en hun Lid-Staten, enerzijds, en de Russische Federatie, anderzijds, hierna „Partnerschaps- en samenwerkingsovereenkomst” te noemen, hebben de volgende teksten aangenomen:  De Partnerschaps- en samenwerkingsovereenkomst, met bijlagen, en de volgende protocollen; Protocol 1 betreffende de oprichting van een Contactgroep Kolen en Staal, Protocol 2 betreffende wederzijdse administratieve bijstand voor de correcte toepassing van de douanewetgeving. De gevolmachtigden van de Lid-Staten en van de Gemeenschap en de gevolmachtigde van Rusland hebben de volgende gemeenschappelijke verklaringen aangenomen, die aan deze Slotakte zijn gehecht: Gemeenschappelijke verklaring betreffende titel III en artikel 94 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 10 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 12 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 17 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 18 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 22, lid 1, tweede streepje, van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 24 van de Overeenkomst Gemeenschappelijke verklaring betreffende de artikelen 26, 32 en 37 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 28 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 29, lid 3, van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 30 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 30, onder a en g, van de Overeenkomst Gemeenschappelijke verklaring betreffende het begrip „zeggenschap" in artikel 30, onder b, en artikel 45 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 30, onder h, derde alinea, van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 31 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 34, lid 1, van de Overeenkomst Gemeenschappelijke verklaring betreffende de artikelen 34 en 38 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 35 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 39, lid 2, onder c, tweede alinea, van de Overeenkomst betreffende het openstellen van havens Gemeenschappelijke verklaring betreffende artikel 39, lid 2, onder c, tweede alinea, van de Overeenkomst betreffende schepen die onder de vlag van een derde land varen Gemeenschappelijke verklaring betreffende artikel 44 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 46, lid 2, van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 48 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 52 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 53, lid 2.2, van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 54 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 99 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 101 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 107 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 107, lid 2, van de Overeenkomst Gemeenschappelijke verklaring betreffende de artikelen 2 en 107 van de overeenkomst Gemeenschappelijke verklaring betreffende artikel 112 van de Overeenkomst Gemeenschappelijke verklaring betreffende artikel 6 van Protocol 2. De gevolmachtigden van de Lid-Staten en van de Gemeenschap en de gevolmachtigde van Rusland hebben tevens kennis genomen van de volgende briefwisselingen, die aan deze Slotakte zijn gehecht: Briefwisseling met betrekking tot artikel 22 van de Overeenkomst Briefwisseling met betrekking tot artikel 52 van de Overeenkomst.De gevolmachtigde van Rusland heeft kennis genomen van de volgende verklaringen, die aan deze Slotakte zijn gehecht: Verklaring van de Gemeenschap betreffende artikel 36 van de Overeenkomst Verklaring van de Gemeenschap betreffende artikel 54 van de Overeenkomst. De gevolmachtigden van de Lid-Staten en van de Gemeenschap hebben kennis genomen van de volgende verklaringen, die aan deze Slotakte zijn gehecht: Verklaring van Rusland betreffende artikel 36 van de Overeenkomst.   
+GEDAAN te Korfoe, de vierentwintigste juni negentienhonderd vierennegentig.
 
 ####Gemeenschappelijke verklaring betreffende titel III en artikel 94
 
-Voor de toepassing van titel III en artikel 94 wordt onder de GATT verstaan de in 1947 in Genève ondertekende Algemene Overeenkomst betreffende Tarieven en Handel, als gewijzigd, zoals toegepast op de datum van ondertekening van de onderhavige Overeenkomst, tenzij de Partijen anders overeenkomen in het kader van de bij artikel 90 ingestelde Samenwerkingsraad.   
+Voor de toepassing van titel III en artikel 94 wordt onder de [GATT](../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md) verstaan de in 1947 in Genève ondertekende Algemene Overeenkomst betreffende Tarieven en Handel, als gewijzigd, zoals toegepast op de datum van ondertekening van de onderhavige Overeenkomst, tenzij de Partijen anders overeenkomen in het kader van de bij artikel 90 ingestelde Samenwerkingsraad.  
 
 ####Gemeenschappelijke verklaring betreffende artikel 10
 
-De Partijen komen overeen dat het bepaalde in artikel 10, lid 1, niet van toepassing is op voorwaarden voor de invoer van produkten op het grondgebied van Rusland in het kader van leningen en kredieten die zijn toegekend voor ontwikkeling en humanitaire doeleinden, technische en humanitaire bijstand en andere soortgelijke regelingen die zijn gesloten tussen Rusland en derde Staten of internationale organisaties, voor zover deze Staten of internationale organisaties een speciale behandeling voor deze invoer vereisen.   
+De Partijen komen overeen dat het bepaalde in artikel 10, lid 1, niet van toepassing is op voorwaarden voor de invoer van produkten op het grondgebied van Rusland in het kader van leningen en kredieten die zijn toegekend voor ontwikkeling en humanitaire doeleinden, technische en humanitaire bijstand en andere soortgelijke regelingen die zijn gesloten tussen Rusland en derde Staten of internationale organisaties, voor zover deze Staten of internationale organisaties een speciale behandeling voor deze invoer vereisen.  
 
 ####Gemeenschappelijke verklaring betreffende artikel 12
 
-Artikel 12 van titel III (goederenverkeer) heeft betrekking op doorvoer. De Partijen zijn het erover eens dat artikel 12 uitsluitend betrekking heeft op de vrijheid van doorvoer van goederen. Een en ander is in overeenstemming met de gewone GATT-praktijk. Het doorvoervraagstuk kan in het kader van toekomstige onderhandelingen over vervoersovereenkomsten worden besproken zoals is aangegeven in artikel 43.   
+Artikel 12 van titel III (goederenverkeer) heeft betrekking op doorvoer. De Partijen zijn het erover eens dat artikel 12 uitsluitend betrekking heeft op de vrijheid van doorvoer van goederen. Een en ander is in overeenstemming met de gewone GATT-praktijk. Het doorvoervraagstuk kan in het kader van toekomstige onderhandelingen over vervoersovereenkomsten worden besproken zoals is aangegeven in artikel 43.    
 
 ####Gemeenschappelijke verklaring betreffende artikel 17
 
-De Gemeenschap en Rusland verklaren dat de tekst van de vrijwaringsclausule (artikel 17) geen GATT-vrijwaringsbehandeling toekent.   
+De Gemeenschap en Rusland verklaren dat de tekst van de vrijwaringsclausule (artikel 17) geen GATT-vrijwaringsbehandeling toekent.  
 
 ####Gemeenschappelijke verklaring betreffende artikel 18
 
-Overeengekomen wordt dat de bepalingen van artikel 18 en deze van de volgende alinea niet ten doel hebben, noch tot gevolg mogen hebben dat de in de onderscheiden wettelijke regelingen van de Partijen vervatte procedures inzake anti-dumping- en subsidieonderzoek worden vertraagd, verhinderd of belet. Onverminderd hun wetgeving en praktijk komen de partijen overeen dat bij het vaststellen van de normale waarde terdege, over het geheel, en met inachtneming van de merites van elk geval, rekening wordt gehouden met natuurlijke comparatieve voordelen die door de betrokken fabrikanten kunnen worden aangetoond ten aanzien van factoren zoals toegang tot grondstoffen, produktieprocédés, nabijheid van de produktie ten opzichte van de klanten en speciale kenmerken van het produkt.   
+Overeengekomen wordt dat de bepalingen van artikel 18 en deze van de volgende alinea niet ten doel hebben, noch tot gevolg mogen hebben dat de in de onderscheiden wettelijke regelingen van de Partijen vervatte procedures inzake anti-dumping- en subsidieonderzoek worden vertraagd, verhinderd of belet.Onverminderd hun wetgeving en praktijk komen de partijen overeen dat bij het vaststellen van de normale waarde terdege, over het geheel, en met inachtneming van de merites van elk geval, rekening wordt gehouden met natuurlijke comparatieve voordelen die door de betrokken fabrikanten kunnen worden aangetoond ten aanzien van factoren zoals toegang tot grondstoffen, produktieprocédés, nabijheid van de produktie ten opzichte van de klanten en speciale kenmerken van het produkt.  
 
 ####Gemeenschappelijke verklaring betreffende artikel 22, lid 1, tweede streepje
 
-Wat de Gemeenschap betreft, omvatten de voorschriften als bedoeld in artikel 6 van de Overeenkomst van 1989 onder meer het Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie en de desbetreffende uitvoeringsverordeningen, met name de in die teksten vervatte bepalingen waarin de rechten, bevoegdheden en verantwoordelijkheden van het Voorzieningsagentschap van Euratom en van de Commissie van de Europese Gemeenschappen zijn vastgesteld.   
+Wat de Gemeenschap betreft, omvatten de voorschriften als bedoeld in artikel 6 van de Overeenkomst van 1989 onder meer het [Verdrag tot oprichting van de Europese Gemeenschap voor Atoomenergie](../../../../../../../../../../../verdrag/verdrag/tot/oprichting/van/de/europese/gemeenschap/voor/atoomenergie/etc/BWBV0004033/README.md) en de desbetreffende uitvoeringsverordeningen, met name de in die teksten vervatte bepalingen waarin de rechten, bevoegdheden en verantwoordelijkheden van het Voorzieningsagentschap van Euratom en van de Commissie van de Europese Gemeenschappen zijn vastgesteld.  
 
 ####Gemeenschappelijke verklaring betreffende artikel 24
 
-Overeengekomen wordt dat het begrip „hun gezinsleden" overeenkomstig de nationale wetgeving van het betrokken gastland wordt omschreven.   
+Overeengekomen wordt dat het begrip „hun gezinsleden" overeenkomstig de nationale wetgeving van het betrokken gastland wordt omschreven.  
 
 ####Gemeenschappelijke verklaring betreffende de artikelen 26, 32 en 37
 
@@ -1778,7 +1778,7 @@ Onverminderd het bepaalde in de artikelen 50 en 51 komen de Partijen overeen dat
 
 ####Gemeenschappelijke verklaring betreffende artikel 29, lid 3
 
-De Partijen bevestigen dat niets in artikel 29, lid 3, Rusland belet nieuwe voorschriften of maatregelen vast te stellen die voorzien in de invoering of verzwaring van discriminatie ten opzichte van de situatie die op de datum van ondertekening van de Overeenkomst bestaat ten aanzien van voorwaarden voor de vestiging van niet-communautaire vennootschappen op zijn grondgebied in vergelijking met zijn eigen vennootschappen.   
+De Partijen bevestigen dat niets in artikel 29, lid 3, Rusland belet nieuwe voorschriften of maatregelen vast te stellen die voorzien in de invoering of verzwaring van discriminatie ten opzichte van de situatie die op de datum van ondertekening van de Overeenkomst bestaat ten aanzien van voorwaarden voor de vestiging van niet-communautaire vennootschappen op zijn grondgebied in vergelijking met zijn eigen vennootschappen.  
 
 ####Gemeenschappelijke verklaring betreffende artikel 30
 
@@ -1788,37 +1788,37 @@ De Partijen bevestigen dat het belangrijk is ervoor te zorgen dat de afgifte van
 
 - niet meer ongemak veroorzaakt dan noodzakelijk is om de kwaliteit van de dienstverlening te garanderen;  
 
-- als zodanig geen beperking vormt op het verlenen van de dienst.     
+- als zodanig geen beperking vormt op het verlenen van de dienst.  
 
 ####Gemeenschappelijke verklaring betreffende artikel 30, onder a en g
 
-In artikel 30, onder a, tweede alinea, en onder g, tweede alinea, wordt rekening gehouden met het in het kader van de Overeenkomst overeengekomen specifieke karakter van de toegang tot financiële diensten, en genoemde bepalingen doen geen afbreuk aan de definities van „vestiging" en „werking" die van toepassing zijn op financiële diensten voor andere doeleinden dan voor het doel van de Overeenkomst.   
+In artikel 30, onder a, tweede alinea, en onder g, tweede alinea, wordt rekening gehouden met het in het kader van de Overeenkomst overeengekomen specifieke karakter van de toegang tot financiële diensten, en genoemde bepalingen doen geen afbreuk aan de definities van „vestiging" en „werking" die van toepassing zijn op financiële diensten voor andere doeleinden dan voor het doel van de Overeenkomst.  
 
 ####Gemeenschappelijke verklaring betreffende het begrip „zeggenschap" in artikel 30, onder b, en artikel 45
 
 ### 1  
 
-De Partijen bevestigen dat zij het onderling eens zijn dat „zeggenschap" afhangt van de feitelijke omstandigheden van elk geval.  
+De Partijen bevestigen dat zij het onderling eens zijn dat „zeggenschap" afhangt van de feitelijke omstandigheden van elk geval. 
 
 ### 2  
 
 Een vennootschap wordt bijvoorbeeld geacht onder „zeggenschap" van een andere vennootschap te staan, en dus een dochteronderneming van de betrokken vennootschap te zijn, indien: 
 
-- de andere vennootschap rechtstreeks of middellijk beschikt over een meerderheid van de stemrechten, of  
+-de andere vennootschap rechtstreeks of middellijk beschikt over een meerderheid van de stemrechten, of
 
-- de andere vennootschap het recht heeft een meerderheid van de leden van het bestuurs, leidinggevend of toezichthoudend orgaan aan te stellen of af te zetten, en terzelfder tijd aandeelhouder of lid van de dochteronderneming is.    
+-de andere vennootschap het recht heeft een meerderheid van de leden van het bestuurs, leidinggevend of toezichthoudend orgaan aan te stellen of af te zetten, en terzelfder tijd aandeelhouder of lid van de dochteronderneming is. 
 
 ### 3  
 
-Beide partijen verklaren dat de in punt 2 vermelde criteria geen limitatieve opsomming vormen.  
+Beide partijen verklaren dat de in punt 2 vermelde criteria geen limitatieve opsomming vormen. 
 
 ####Gemeenschappelijke verklaring betreffende artikel 30, onder h, derde alinea
 
-Gelet op de beperkingen die op dit ogenblik bestaan ten aanzien van het vervoer van goederen en passagiers door takken van het overlandvervoer, komen de Partijen overeen dat, totdat deze beperkingen worden opgeheven, onder de uitdrukking „het intermodale vervoer dat ten dele over zee plaatsvindt" wordt verstaan de organisatie van dat vervoer.   
+Gelet op de beperkingen die op dit ogenblik bestaan ten aanzien van het vervoer van goederen en passagiers door takken van het overlandvervoer, komen de Partijen overeen dat, totdat deze beperkingen worden opgeheven, onder de uitdrukking „het intermodale vervoer dat ten dele over zee plaatsvindt" wordt verstaan de organisatie van dat vervoer.  
 
 ####Gemeenschappelijke verklaring betreffende artikel 31
 
-Artikel 31 stelt de Partijen in staat alle maatregelen te nemen om te voorkomen dat een vennootschap van een derde land van om het even welke door deze Overeenkomst geboden mogelijkheid gebruik maakt om de door de Partijen gestelde voorwaarden voor de vestiging van vennootschappen van dat derde land op hun respectieve grondgebieden te omzeilen.   
+Artikel 31 stelt de Partijen in staat alle maatregelen te nemen om te voorkomen dat een vennootschap van een derde land van om het even welke door deze Overeenkomst geboden mogelijkheid gebruik maakt om de door de Partijen gestelde voorwaarden voor de vestiging van vennootschappen van dat derde land op hun respectieve grondgebieden te omzeilen.    
 
 ####Gemeenschappelijke verklaring betreffende artikel 34, lid 1
 
@@ -1834,7 +1834,7 @@ De Partijen komen overeen dat de in artikel 35, lid 3, onder a en b, bedoelde ac
 
 ####Gemeenschappelijke verklaring betreffende artikel 39, lid 2, onder c, tweede alinea, met betrekking tot het openstellen van havens
 
-Op basis van de door Rusland verstrekte informatie over de voor buitenlandse vaartuigen toegankelijke Russische havens neemt de Gemeenschap er nota van dat Rusland van plan is nog maatregelen te nemen om het aantal voor buitenlandse vaartuigen toegankelijke havens te vergroten. Rusland neemt er eveneens nota van dat de Gemeenschap als beleid heeft alle voor het internationaal handelsverkeer beschikbare havens voor buitenlandse vaartuigen open te houden. De Partijen zijn van oordeel dat de mate waarin de havens toegankelijk zijn voor buitenlandse vaartuigen, zeer belangrijk is als indicatie in hoeverre is voldaan aan de noodzakelijke voorwaarden voor het vrije dienstenverkeer in het internationaal maritiem vervoer. Zij verbinden zich derhalve ertoe de situatie met betrekking tot de voor buitenlandse vaartuigen toegankelijke havens ten minste om de twee jaar opnieuw te bezien in het kader van overleg binnen de Samenwerkingsraad. Indien er ernstige problemen rijzen in verband met het openhouden van een haven voor buitenlandse vaartuigen, brengt de Partij op wiens grondgebied die haven zich bevindt, de andere Partij hiervan op de hoogte. Op verzoek van laatstgenoemde Partij wordt overleg gepleegd om te garanderen dat alle maatregelen welke worden genomen, de vrije dienstverrichting in de internationale maritieme sector zo weinig mogelijk aantasten.   
+Op basis van de door Rusland verstrekte informatie over de voor buitenlandse vaartuigen toegankelijke Russische havens neemt de Gemeenschap er nota van dat Rusland van plan is nog maatregelen te nemen om het aantal voor buitenlandse vaartuigen toegankelijke havens te vergroten. Rusland neemt er eveneens nota van dat de Gemeenschap als beleid heeft alle voor het internationaal handelsverkeer beschikbare havens voor buitenlandse vaartuigen open te houden. De Partijen zijn van oordeel dat de mate waarin de havens toegankelijk zijn voor buitenlandse vaartuigen, zeer belangrijk is als indicatie in hoeverre is voldaan aan de noodzakelijke voorwaarden voor het vrije dienstenverkeer in het internationaal maritiem vervoer. Zij verbinden zich derhalve ertoe de situatie met betrekking tot de voor buitenlandse vaartuigen toegankelijke havens ten minste om de twee jaar opnieuw te bezien in het kader van overleg binnen de Samenwerkingsraad. Indien er ernstige problemen rijzen in verband met het openhouden van een haven voor buitenlandse vaartuigen, brengt de Partij op wiens grondgebied die haven zich bevindt, de andere Partij hiervan op de hoogte. Op verzoek van laatstgenoemde Partij wordt overleg gepleegd om te garanderen dat alle maatregelen welke worden genomen, de vrije dienstverrichting in de internationale maritieme sector zo weinig mogelijk aantasten.    
 
 ####Gemeenschappelijke verklaring betreffende artikel 39, lid 2, onder c, tweede alinea, met betrekking tot schepen die onder de vlag van een derde land varen
 
@@ -1878,11 +1878,11 @@ Het feit dat een visum wordt vereist voor natuurlijke personen van bepaalde Part
 
 ####Gemeenschappelijke verklaring betreffende artikel 53, lid 2.2
 
-„Basisprodukten" zijn die welke als zodanig worden omschreven in de GATT.   
+„Basisprodukten” zijn die welke als zodanig worden omschreven in de [GATT](../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md).   
 
 ####Gemeenschappelijke verklaring betreffende artikel 54
 
-De Partijen komen overeen dat voor de toepassing van de Overeenkomst de intellectuele, industriële en commerciële eigendom mede betrekking heeft op met name het auteursrecht met inbegrip van het copyright voor computerprogramma's en naburige rechten, octrooien, industriële ontwerpen, geografische aanduidingen met inbegrip van benamingen van oorsprong, warenmerken en dienstmerken, topografieën van geïntegreerde schakelingen alsook de bescherming tegen oneerlijke mededinging zoals bedoeld in artikel 10 bis van het Verdrag van Parijs tot bescherming van de industriële eigendom, en de bescherming van geheime informatie inzake know-how.   
+De Partijen komen overeen dat voor de toepassing van de Overeenkomst de intellectuele, industriële en commerciële eigendom mede betrekking heeft op met name het auteursrecht met inbegrip van het copyright voor computerprogramma's en naburige rechten, octrooien, industriële ontwerpen, geografische aanduidingen met inbegrip van benamingen van oorsprong, warenmerken en dienstmerken, topografieën van geïntegreerde schakelingen alsook de bescherming tegen oneerlijke mededinging zoals bedoeld in [artikel 10 bis van het Verdrag van Parijs tot bescherming van de industriële eigendom](../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md), en de bescherming van geheime informatie inzake know-how.    
 
 ####Gemeenschappelijke verklaring betreffende artikel 99
 
@@ -1924,38 +1924,38 @@ De Partijen bevestigen dat hoewel de huidige Overeenkomst wat hun onderlinge bet
 
 De Partijen stemmen ermee in voor het volgende goederenverkeer onverwijld de nodige maatregelen te nemen om elkaar bij te staan zoals bepaald in dit Protocol: 
 
-a. verkeer van wapens, ammunitie, explosieven en explosieve middelen;  
+a.verkeer van wapens, ammunitie, explosieven en explosieve middelen;
 
-b. verkeer van kunst- en antieke voorwerpen, die voor één van de Partijen van aanzienlijke historische, culturele of archeologische waarde zijn;  
+b.verkeer van kunst- en antieke voorwerpen, die voor één van de Partijen van aanzienlijke historische, culturele of archeologische waarde zijn;
 
-c. verkeer van giftige produkten alsmede van stoffen die gevaarlijk zijn voor het milieu en de volksgezondheid;  
+c.verkeer van giftige produkten alsmede van stoffen die gevaarlijk zijn voor het milieu en de volksgezondheid;
 
-d. verkeer van gevoelige en strategische goederen die onderworpen zijn aan niet-tarifaire beperkingen in overeenstemming met de door de Partijen overeengekomen lijsten.    
+d.verkeer van gevoelige en strategische goederen die onderworpen zijn aan niet-tarifaire beperkingen in overeenstemming met de door de Partijen overeengekomen lijsten. 
 
 ### 2  
 
-De Partijen stemmen ermee in, indien zulks volgens de beginselen van hun respectieve rechtsstelsels is toegestaan, de nodige maatregelen te nemen om ervoor te zorgen dat een correct gebruik kan worden gemaakt van het systeem van gecontrolleerde levering op basis van door hen in overeenstemming met de procedures van dit Protocol onderling overeengekomen toepassingsbepalingen.  
+De Partijen stemmen ermee in, indien zulks volgens de beginselen van hun respectieve rechtsstelsels is toegestaan, de nodige maatregelen te nemen om ervoor te zorgen dat een correct gebruik kan worden gemaakt van het systeem van gecontrolleerde levering op basis van door hen in overeenstemming met de procedures van dit Protocol onderling overeengekomen toepassingsbepalingen. 
 
 ### 3  
 
 De partijen stemmen ermee in om, in overeenstemming met hun respectieve wetgevingen, alle nodige maatregelen te nemen, om alle onder dit Protocol ressorterende 
 
-- documenten af te leveren,  
+-documenten af te leveren,
 
-- besluiten mede te delen,   aan geadresseerden die hun woonplaats hebben of gevestigd zijn in hun respectieve grondgebieden, op basis van door hen onderling overeengekomen toepassingsbepalingen die zij hebben vastgesteld in overeenstemming met de procedures van dit Protocol. In dat geval is artikel 5, lid 3, van toepassing.  
+-besluiten mede te delen,aan geadresseerden die hun woonplaats hebben of gevestigd zijn in hun respectieve grondgebieden, op basis van door hen onderling overeengekomen toepassingsbepalingen die zij hebben vastgesteld in overeenstemming met de procedures van dit Protocol. In dat geval is artikel 5, lid 3, van toepassing. 
 
 ### 4  
 
-De Partijen komen overeen dat een autoriteit bij wie een verzoek is ingediend waaraan deze zelf geen gevolg kan geven, dit verzoek richt aan een administratieve afdeling die onder dezelfde voorwaarden te werk gaat als die welke van toepassing zijn op de autoriteit tot wie het verzoek gericht is.  
+De Partijen komen overeen dat een autoriteit bij wie een verzoek is ingediend waaraan deze zelf geen gevolg kan geven, dit verzoek richt aan een administratieve afdeling die onder dezelfde voorwaarden te werk gaat als die welke van toepassing zijn op de autoriteit tot wie het verzoek gericht is. 
 
 ####Briefwisseling met betrekking tot artikel 22
 
 ###A. Brief van Rusland
 
-Mijnheer, In deze brief bevestig ik u dat wij met betrekking tot de handel in kernmaterialen als bedoeld in artikel 22 van de heden ondertekende Overeenkomst inzake Partnerschap en Samenwerking het volgende zijn overeengekomen: Rusland is voornemens als solide, betrouwbare en op lange termijn handelende leverancier van kernmaterialen aan de Gemeenschap op te treden en de Gemeenschap erkent dit voornemen. De Russische Regering neemt er nota van dat de Gemeenschap Rusland vooral in het kader van haar voorzieningsbeleid op nucleair gebied beschouwt als afzonderlijke leverancier die zich van andere leveranciers onderscheidt. Om moeilijkheden in het handelsverkeer te voorkomen zal op gezette tijden of op een daartoe strekkend verzoek overleg worden gepleegd over ontwikkelingen op het gebied van de handel in kernmaterialen tussen Rusland en de Gemeenschap. Bij dit overleg kan onder meer een permanente en regelmatige dialoog over marktontwikkelingen en -prognoses worden gevoerd. Dit overleg zal plaatsvinden in het kader van artikel 92. Zoals in artikel 13 van de Overeenkomst inzake Partnerschap en Samenwerking is bepaald, zullen de in artikel 6 van de Overeenkomst van 1989 bedoelde voorschriften op uniforme, onpartijdige en billijke wijze worden uitgevoerd. Ik verwijs naar onze gemeenschappelijke wens om er met alle bruikbare middelen voor te zorgen dat de nucleaire ontwapening die aan de gang is, wordt vergemakkelijkt. Wij zijn overeengekomen alle nodige maatregelen te treffen om overleg met alle betrokken landen te voeren als blijkt dat de uitvoering van de respectieve bilaterale en multilaterale overeenkomsten de installaties van de Partijen ernstig schaadt of dreigt te schaden. Ik stel voor dat deze brief en uw antwoord een formele overeenkomst tussen ons tot stand brengen. Gelieve, Mijnheer, de verzekering van mijn bijzondere hoogachting te aanvaarden. Voor de Regering van de Russische Federatie   
+Mijnheer, In deze brief bevestig ik u dat wij met betrekking tot de handel in kernmaterialen als bedoeld in artikel 22 van de heden ondertekende Overeenkomst inzake Partnerschap en Samenwerking het volgende zijn overeengekomen: Rusland is voornemens als solide, betrouwbare en op lange termijn handelende leverancier van kernmaterialen aan de Gemeenschap op te treden en de Gemeenschap erkent dit voornemen. De Russische Regering neemt er nota van dat de Gemeenschap Rusland vooral in het kader van haar voorzieningsbeleid op nucleair gebied beschouwt als afzonderlijke leverancier die zich van andere leveranciers onderscheidt. Om moeilijkheden in het handelsverkeer te voorkomen zal op gezette tijden of op een daartoe strekkend verzoek overleg worden gepleegd over ontwikkelingen op het gebied van de handel in kernmaterialen tussen Rusland en de Gemeenschap. Bij dit overleg kan onder meer een permanente en regelmatige dialoog over marktontwikkelingen en -prognoses worden gevoerd. Dit overleg zal plaatsvinden in het kader van artikel 92. Zoals in artikel 13 van de Overeenkomst inzake Partnerschap en Samenwerking is bepaald, zullen de in artikel 6 van de Overeenkomst van 1989 bedoelde voorschriften op uniforme, onpartijdige en billijke wijze worden uitgevoerd. Ik verwijs naar onze gemeenschappelijke wens om er met alle bruikbare middelen voor te zorgen dat de nucleaire ontwapening die aan de gang is, wordt vergemakkelijkt. Wij zijn overeengekomen alle nodige maatregelen te treffen om overleg met alle betrokken landen te voeren als blijkt dat de uitvoering van de respectieve bilaterale en multilaterale overeenkomsten de installaties van de Partijen ernstig schaadt of dreigt te schaden. Ik stel voor dat deze brief en uw antwoord een formele overeenkomst tussen ons tot stand brengen. Gelieve, Mijnheer, de verzekering van mijn bijzondere hoogachting te aanvaarden. Voor de Regering van de Russische Federatie  
 ###B. Brief van de Gemeenschap
 
-Ik heb de eer U de ontvangst te bevestigen van uw brief van heden, die als volgt luidt: „In deze brief bevestig ik u dat wij met betrekking tot de handel in kernmateriaal als bedoeld in artikel 22 van de heden ondertekende Partnerschaps en Samenwerkingsovereenkomst het volgende zijn overeengekomen: Rusland is voornemens als solide, betrouwbare en op lange termijn handelende leverancier van kernmateriaal aan de Gemeenschap op te treden en de Gemeenschap erkent dit voornemen. De Russische regering neemt er nota van dat de Gemeenschap Rusland vooral in het kader van haar voorzieningsbeleid op nucleair gebied beschouwt als afzonderlijke leverancier die zich van andere leveranciers onderscheidt. Om moeilijkheden in het handelsverkeer te voorkomen zal regelmatig overleg ter zake worden gepleegd of, op een daartoe strekkend verzoek, over ontwikkelingen op het gebied van de handel in kernmaterialen tussen Rusland en de Gemeenschap. Bij dit overleg kan onder meer een permanente en regelmatige dialoog over marktontwikkelingen en -prognoses worden gevoerd. Dit overleg zal plaatsvinden in het kader van artikel 92. Zoals in artikel 13 van de Overeenkomst inzake Partnerschap en Samenwerking is bepaald, zullen de in artikel 6 van de Overeenkomst van 1989 bedoelde voorschriften op uniforme, onpartijdige en billijke wijze worden uitgevoerd. Ik verwijs naar onze gemeenschappelijke wens om er met alle bruikbare middelen voor te zorgen dat de nucleaire ontwapening die aan de gang is, wordt vergemakkelijkt. Wij zijn overeengekomen alle nodige maatregelen te treffen om overleg met alle betrokken landen te voeren als blijkt dat de uitvoering van de respectieve bilaterale en multilaterale overeenkomsten de installaties van de Partijen ernstig schaadt of dreigt te schaden. Ik stel voor dat deze brief en uw antwoord een formele overeenkomst tussen ons tot stand brengen.". Ik heb de eer u te bevestigen dat uw brief en de onderhavige een formele overeenkomst tussen ons vormen. Gelieve, Mijnheer, de verzekering van mijn bijzondere hoogachting te aanvaarden. Namens de Europese Gemeenschappen   
+Ik heb de eer U de ontvangst te bevestigen van uw brief van heden, die als volgt luidt: „In deze brief bevestig ik u dat wij met betrekking tot de handel in kernmateriaal als bedoeld in artikel 22 van de heden ondertekende Partnerschaps en Samenwerkingsovereenkomst het volgende zijn overeengekomen: Rusland is voornemens als solide, betrouwbare en op lange termijn handelende leverancier van kernmateriaal aan de Gemeenschap op te treden en de Gemeenschap erkent dit voornemen. De Russische regering neemt er nota van dat de Gemeenschap Rusland vooral in het kader van haar voorzieningsbeleid op nucleair gebied beschouwt als afzonderlijke leverancier die zich van andere leveranciers onderscheidt. Om moeilijkheden in het handelsverkeer te voorkomen zal regelmatig overleg ter zake worden gepleegd of, op een daartoe strekkend verzoek, over ontwikkelingen op het gebied van de handel in kernmaterialen tussen Rusland en de Gemeenschap. Bij dit overleg kan onder meer een permanente en regelmatige dialoog over marktontwikkelingen en -prognoses worden gevoerd. Dit overleg zal plaatsvinden in het kader van artikel 92.Zoals in artikel 13 van de Overeenkomst inzake Partnerschap en Samenwerking is bepaald, zullen de in artikel 6 van de Overeenkomst van 1989 bedoelde voorschriften op uniforme, onpartijdige en billijke wijze worden uitgevoerd. Ik verwijs naar onze gemeenschappelijke wens om er met alle bruikbare middelen voor te zorgen dat de nucleaire ontwapening die aan de gang is, wordt vergemakkelijkt. Wij zijn overeengekomen alle nodige maatregelen te treffen om overleg met alle betrokken landen te voeren als blijkt dat de uitvoering van de respectieve bilaterale en multilaterale overeenkomsten de installaties van de Partijen ernstig schaadt of dreigt te schaden. Ik stel voor dat deze brief en uw antwoord een formele overeenkomst tussen ons tot stand brengen.".Ik heb de eer u te bevestigen dat uw brief en de onderhavige een formele overeenkomst tussen ons vormen. Gelieve, Mijnheer, de verzekering van mijn bijzondere hoogachting te aanvaarden. Namens de Europese Gemeenschappen 
 
 ####Briefwisseling met betrekking tot artikel 52
 
@@ -1964,7 +1964,7 @@ Ik heb de eer U de ontvangst te bevestigen van uw brief van heden, die als volgt
 Mijnheer, Met betrekking tot artikel 52 van de Overeenkomst inzake Partnerschap en Samenwerking bevestig ik hierbij dat niets in dit artikel kan worden uitgelegd als een beperking op het overmaken naar het buitenland door inwoners van de Gemeenschap van de door inwoners van de Gemeenschap in Rusland gedane investeringen met inbegrip van alle compensatie-uitkeringen naar aanleiding van bijvoorbeeld onteigeningsmaatregelen, nationalisatie of maatregelen van gelijke strekking, en van alle opbrengsten daarvan. Ik stel voor aan de hand van deze brief en uw antwoord tot een formele overeenkomst te komen. Gelieve, Mijnheer, de verzekering van mijn bijzondere hoogachting te aanvaarden. Voor de Regering van de Russische Federatie   
 ###B. Brief van de Gemeenschap
 
-Mijnheer, Ik heb de eer u de ontvangst te bevestigen van uw brief van heden, die als volgt luidt: „Met betrekking tot artikel 52 van de Overeenkomst inzake Partnerschap en Samenwerking bevestig ik hierbij dat niets in dit artikel kan worden uitgelegd als een beperking op het overmaken naar het buitenland door inwoners van de Gemeenschap van de door inwoners van de Gemeenschap in Rusland gedane investeringen met inbegrip van alle compensatie-uitkeringen naar aanleiding van bijvoorbeeld onteigeningsmaatregelen, nationalisatie of maatregelen van gelijke strekking, en van alle opbrengsten daarvan. Ik stel voor aan de hand van deze brief en uw antwoord tot een formele overeenkomst te komen.". Ik heb de eer u te bevestigen dat uw brief en de onderhavige een formele overeenkomst tussen ons vormen. Gelieve, Mijnheer, de verzekering van mijn bijzondere hoogachting te aanvaarden. Namens de Europese Gemeenschappen   
+Mijnheer, Ik heb de eer u de ontvangst te bevestigen van uw brief van heden, die als volgt luidt: „Met betrekking tot artikel 52 van de Overeenkomst inzake Partnerschap en Samenwerking bevestig ik hierbij dat niets in dit artikel kan worden uitgelegd als een beperking op het overmaken naar het buitenland door inwoners van de Gemeenschap van de door inwoners van de Gemeenschap in Rusland gedane investeringen met inbegrip van alle compensatie-uitkeringen naar aanleiding van bijvoorbeeld onteigeningsmaatregelen, nationalisatie of maatregelen van gelijke strekking, en van alle opbrengsten daarvan.Ik stel voor aan de hand van deze brief en uw antwoord tot een formele overeenkomst te komen.". Ik heb de eer u te bevestigen dat uw brief en de onderhavige een formele overeenkomst tussen ons vormen. Gelieve, Mijnheer, de verzekering van mijn bijzondere hoogachting te aanvaarden. Namens de Europese Gemeenschappen 
 
 ####Verklaring van de Gemeenschap betreffende artikel 36
 
@@ -1980,27 +1980,27 @@ Rusland verklaart dat onder de dienstverleners bedoeld in de verklaring van de G
 
 ####Briefwisseling met betrekking tot de gevolgen van de uitbreiding
 
-###A. Brief van de Gemeenschap
+###A. Brief van de Gemeenschap<sup>Buiten het kader van de overeenkomst </sup>
 
-<sup>  Buiten het kader van de overeenkomst  </sup> Mijnheer, Onder verwijzing naar de vandaag ondertekende Overeenkomst inzake Partnerschap en Samenwerking bevestig ik u dat indien wijzigingen in deze Overeenkomst nodig mochten blijken als gevolg van een uitbreiding van de Gemeenschap, hierover overeenkomstig artikel 90 overleg zou worden gepleegd tussen de Partijen en in dit verband zoveel mogelijk rekening zou worden gehouden met het karakter van de bilaterale handels- en economische betrekkingen tussen Rusland en de toetredende Staten. Ik moge u verzoeken mij te willen bevestigen dat Rusland met de inhoud van dit schrijven instemt. Gelieve, Mijnheer, de verzekering van mijn bijzondere hoogachting te aanvaarden. Namens de Europese Gemeenschappen (w.g.) LEON BRITTAN HANS VAN DEN BROEK 
+Mijnheer,Onder verwijzing naar de vandaag ondertekende Overeenkomst inzake Partnerschap en Samenwerking bevestig ik u dat indien wijzigingen in deze Overeenkomst nodig mochten blijken als gevolg van een uitbreiding van de Gemeenschap, hierover overeenkomstig artikel 90 overleg zou worden gepleegd tussen de Partijen en in dit verband zoveel mogelijk rekening zou worden gehouden met het karakter van de bilaterale handels- en economische betrekkingen tussen Rusland en de toetredende Staten.Ik moge u verzoeken mij te willen bevestigen dat Rusland met de inhoud van dit schrijven instemt.Gelieve, Mijnheer, de verzekering van mijn bijzondere hoogachting te aanvaarden.Namens deEuropese Gemeenschappen(w.g.) LEON BRITTANHANS VAN DEN BROEK 
 ###B. Письмо России
 
-Господин. Благодарю Вас за Ваше письмо от сего числа следующего содержания: "Я ссылаюсь на Соглашение о партнерстве и сотрудничестве, подписанное сего числа, и подтверждаю, что, если в результате расширения Сообщества потребуется какое-либо изменение этого Соглашения, это будет предметом консультаций между Сторонами в соответствии со статьей 90, и в этом контексте будет приниматься во внимание, насколько возможно, характер двусторонней торговли и экономических отношений между Россией и присоединяющимися государствами. Был бы признателен, если бы Вы могли подтвердить согласие Вашего Правительства с содержанием настоящего письма." Имею честь подтвердить, что мое Правительство согласно с содержанием Вашего письма. Примите, господин, уверения в моем высочайшем к Вам уважении. За Правительство Российской Федерации (w.g.) KOZIREV CHOKIN   
+Господин. Благодарю Вас за Ваше письмо от сего числа следующего содержания: "Я ссылаюсь на Соглашение о партнерстве и сотрудничестве, подписанное сего числа, и подтверждаю, что, если в результате расширения Сообщества потребуется какое-либо изменение этого Соглашения, это будет предметом консультаций между Сторонами в соответствии со статьей 90, и в этом контексте будет приниматься во внимание, насколько возможно, характер двусторонней торговли и экономических отношений между Россией и присоединяющимися государствами. Был бы признателен, если бы Вы могли подтвердить согласие Вашего Правительства с содержанием настоящего письма." Имею честь подтвердить, что мое Правительство согласно с содержанием Вашего письма. Примите, господин, уверения в моем высочайшем к Вам уважении. За Правительство Российской Федерации (w.g.) KOZIREV CHOKIN  
 
 ####Briefwisseling met betrekking tot de Uruguay-ronde
 
-###A. Brief van de Gemeenschap
+###A. Brief van de Gemeenschap<sup>Buiten het kader van de overeenkomst </sup>
 
-<sup>  Buiten het kader van de overeenkomst  </sup> Mijnheer, Onder verwijzing naar de vandaag ondertekende Overeenkomst inzake Partnerschap en Samenwerking bevestig ik dat wij het erover eens zijn dat de situatie die ontstaat na de inwerkingtreding van de multilaterale overeenkomsten in het kader van de Uruguay-Ronde en het vaststellen van amendementen in de GATT, de codes en andere overeenkomsten in verband met de GATT, zou kunnen worden beschouwd als een verandering van omstandigheden in de zin van artikel 4 van de Overeenkomst, waarbij het passend zou zijn na te gaan of de Overeenkomst moet worden gewijzigd. Ik moge u verzoeken mij te willen bevestigen dat Rusland met de inhoud van dit schrijven instemt. Gelieve, Mijnheer, de verzekering van mijn bijzondere hoogachting te aanvaarden. Namens de Europese Gemeenschappen (w.g.) LEON BRITTAN HANS VAN DEN BROEK 
+Mijnheer, Onder verwijzing naar de vandaag ondertekende Overeenkomst inzake Partnerschap en Samenwerking bevestig ik dat wij het erover eens zijn dat de situatie die ontstaat na de inwerkingtreding van de multilaterale overeenkomsten in het kader van de Uruguay-Ronde en het vaststellen van amendementen in de [GATT](../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md), de codes en andere overeenkomsten in verband met de GATT, zou kunnen worden beschouwd als een verandering van omstandigheden in de zin van artikel 4 van de Overeenkomst, waarbij het passend zou zijn na te gaan of de Overeenkomst moet worden gewijzigd. Ik moge u verzoeken mij te willen bevestigen dat Rusland met de inhoud van dit schrijven instemt. Gelieve, Mijnheer, de verzekering van mijn bijzondere hoogachting te aanvaarden. Namens de Europese Gemeenschappen(w.g.) LEON BRITTANHANS VAN DEN BROEK  
 ###B. Письмо России
 
-Господин, Благодарю Вас за Ваше письмо от сего числа следующего содержания: "Я ссылаюсь на Соглашение о партнерстве и сотрудничестве, подписанное сего числа, и подтверждаю наше согласие, что одним из случаев изменения обстоятельств по смыслу статьи 4 этого Соглашения, в котором было бы целесообразно изучить, следует ли внести поправки в Соглашение, была бы ситуация, возникающая после вступления в силу многосторонних соглашений Уругвайского раунда и заключения соглашений касательно изменений к ГАТТ, его кодексов и других связанных с ним соглашений. Был бы признателен, если бы Вы смогли подтвердить согласие Вашего Правительства с содержанием настоящего письма." Имею честь подтвердить, что мое Правительство согласно с содержанием Вашего письма. Примите, господин, уверения в моем высочайшем к Вам уважении. За Правительство Российской Федерации (w.g.) KOZIREV CHOKIN   
+Господин, Благодарю Вас за Ваше письмо от сего числа следующего содержания: "Я ссылаюсь на Соглашение о партнерстве и сотрудничестве, подписанное сего числа, и подтверждаю наше согласие, что одним из случаев изменения обстоятельств по смыслу статьи 4 этого Соглашения, в котором было бы целесообразно изучить, следует ли внести поправки в Соглашение, была бы ситуация, возникающая после вступления в силу многосторонних соглашений Уругвайского раунда и заключения соглашений касательно изменений к ГАТТ, его кодексов и других связанных с ним соглашений. Был бы признателен, если бы Вы смогли подтвердить согласие Вашего Правительства с содержанием настоящего письма." Имею честь подтвердить, что мое Правительство согласно с содержанием Вашего письма. Примите, господин, уверения в моем высочайшем к Вам уважении. За Правительство Российской Федерации (w.g.) KOZIREV CHOKIN  
 
 ####Briefwisseling met betrekking tot onder de EGKS vallende staalprodukten
 
-###A. Letter from the Community
+###A. Letter from the Community<sup>Buiten het kader van de overeenkomst </sup>
 
-<sup>  Buiten het kader van de overeenkomst  </sup> Dear Sir, I refer to the Agreement on Partnership and Cooperation signed today and in particular Article 21 thereof. I confirm our understanding that the Community and the Russian Federation will use their best endeavours to ensure that the agreement on quantitative arrangements concerning exchanges of ECSC steel products between them shall be concluded as rapidly as possible having due regard to all factors they agree are relevant including in particular the steel production of the Russian Federation relative to that of the major steel producing States of the former Soviet Union. The operation of the agreement on ECSC products by way, inter alia, of a system of double licensing together with control of origin should ensure predictable trade in these products. I further confirm our understanding that appropriate account will be taken in the agreement of the accession of new Member States to the European Union as from the date of their accession. I would be obliged if you could confirm the agreement of the Russian Federation to the contents of this letter. Please accept, Sir, the assurance of my highest consideration. On behalf of the European Communities (sd.) LEON BRITTAN HANS VAN DEN BROEK 
+Dear Sir, I refer to the Agreement on Partnership and Cooperation signed today and in particular Article 21 thereof. I confirm our understanding that the Community and the Russian Federation will use their best endeavours to ensure that the agreement on quantitative arrangements concerning exchanges of ECSC steel products between them shall be concluded as rapidly as possible having due regard to all factors they agree are relevant including in particular the steel production of the Russian Federation relative to that of the major steel producing States of the former Soviet Union. The operation of the agreement on ECSC products by way, inter alia, of a system of double licensing together with control of origin should ensure predictable trade in these products. I further confirm our understanding that appropriate account will be taken in the agreement of the accession of new Member States to the European Union as from the date of their accession. I would be obliged if you could confirm the agreement of the Russian Federation to the contents of this letter. Please accept, Sir, the assurance of my highest consideration. On behalf of the European Communities (sd.) LEON BRITTAN HANS VAN DEN BROEK 
 ###B. Письмо России
 
-Господин, Благодарю Вас за Ваше письмо от сего числа следующего содержания: "Я ссылаюсь на Соглашение о партнерстве и сотрудничестве, подписанное сего числа, и в частности, на статью 21 этого Соглашения. Я подтверждаю наше понимание, что Сообщество и Российская Федерация сделают все возможное с тем, чтобы обеспечить заключение между ними соглашения о количественных условиях торговли товарами из стали номенклатуры ЕОУС как можно скорее, уделяя должное внимание всем факторам, которые они считают уместными, включая, в частности, соотношение объема производства стали Российской Федерацией с объемом такого производства в основных государствах-производителях стали в бывшем СССР. Действие соглашения по товарами номенклатуры ЕОУС должно обеспечить предсказуемые условия торговли этими товарами за счет, 1п1;ег аИа, системы двойного лицензирования в сочетании с контролем за происхождением. Далее, я подтверждаю наше понимание, что в соглашении будет уделено соответствующее внимание присоединению новых государств к Европейскому союзу с даты их присоединения. Был бы признателен, если бы Вы могли подтвердить согласие Вашего Правительства с содержанием настоящего письма. " Имею честь подтвердить, что мое Правительство согласно с содержанием данного письма. Примите, господин, уверения в моем высочайшем к Вам уважении. За Правительство Российской Федерации (w.g.) KOZIREV CHOKIN   
+Господин, Благодарю Вас за Ваше письмо от сего числа следующего содержания: "Я ссылаюсь на Соглашение о партнерстве и сотрудничестве, подписанное сего числа, и в частности, на статью 21 этого Соглашения. Я подтверждаю наше понимание, что Сообщество и Российская Федерация сделают все возможное с тем, чтобы обеспечить заключение между ними соглашения о количественных условиях торговли товарами из стали номенклатуры ЕОУС как можно скорее, уделяя должное внимание всем факторам, которые они считают уместными, включая, в частности, соотношение объема производства стали Российской Федерацией с объемом такого производства в основных государствах-производителях стали в бывшем СССР. Действие соглашения по товарами номенклатуры ЕОУС должно обеспечить предсказуемые условия торговли этими товарами за счет, 1п1;ег аИа, системы двойного лицензирования в сочетании с контролем за происхождением. Далее, я подтверждаю наше понимание, что в соглашении будет уделено соответствующее внимание присоединению новых государств к Европейскому союзу с даты их присоединения. Был бы признателен, если бы Вы могли подтвердить согласие Вашего Правительства с содержанием настоящего письма. " Имею честь подтвердить, что мое Правительство согласно с содержанием данного письма. Примите, господин, уверения в моем высочайшем к Вам уважении. За Правительство Российской Федерации (w.g.) KOZIREV CHOKIN
