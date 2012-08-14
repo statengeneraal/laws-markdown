@@ -638,7 +638,101 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
 ### Bijlage  5  
 
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat en bij de Inspectie Verkeer en Waterstaat te Hoofddorp.  
+####, behorende bij de Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001
+
+### 1  
+
+####: Lijst van klassebevoegdverklaringen zoals toegestaan in een RPL voor de categorie vliegtuigen
+
+####Klassebevoegdverklaringen
+
+a. Eenmotorige vliegtuigen met zuigermotor – Eénvlieger gecertificeerd  
+
+| 1  Fabrikant  | 2  Vliegtuigen  | 3  | 4  Bevoegdverklaring  |
+|:---|:---|:---|:---|
+| Alle fabrikanten  | Alle Single-engine piston (land) zonder VP, RU, T, P of TW  | --- | SEP(land)  |
+| Alle fabrikanten  | Single-engine piston (land) with  Variable pitch propellers (VP)  Retractable undercarriage (RU)  Turbo/super charged engines (T)  Cabin pressurisation (P)  Tail Wheel (TW)  | (V)  | SEP(land)  |
+
+b. Touring Motor Gliders – Eénvlieger gecertificeerd  
+
+| 1  Fabrikant  | 2  Vliegtuigen  | 3  | 4  Bevoegdverklaring  |
+|:---|:---|:---|:---|
+| Alle fabrikanten  | Alle motorzweefvliegtuigen met een integraal gemonteerde en niet intrekbare motor en een niet intrekbare propeller  | --- | TMG  |
+
+c. Micro Light Aeroplanes – Eénvlieger toegelaten  
+
+| 1  Fabrikant  | 2  Vliegtuigen  | 3  | 4  Bevoegdverklaring  |
+|:---|:---|:---|:---|
+| Alle fabrikanten  | Alle Micro Light Aeroplanes  | --- | MLA  |
+
+Een scheidslijn in kolom 2 geeft een variant aan binnen de bevoegdverklaring, zoals weergegeven in kolom 3. (V) geeft aan dat de bevoegdverklaring wordt afgegeven onder de beperking, dat de houder van de bevoegdverklaring die op een andere variant binnen die bevoegdverklaring, zoals aangegeven in kolom 2, gaat vliegen, voor zover vereist op grond van JAR-FCL 1.235(c) een familiarisatie- of verschillencursus doet, die voldoet aan de eisen, bedoeld in JAR-OPS 1.950 en 1.980(b) opgenomen in bijlage 1 die deel uitmaakt van deze regeling.    
+
+### 2  
+
+####: Lijst van klassebevoegdverklaringen zoals toegestaan in een RPL voor de categorie helikopters
+
+####Micro Light Helikopters – Eénvlieger toegelaten
+
+| 1  Fabrikant  | 2  Helikopters  | 3  | 4  Bevoegdverklaring  |
+|:---|:---|:---|:---|
+| Alle fabrikanten  | Alle Micro Light Helikopters exclusief gyroplanes tot en met MTOM 560 kg  | --- | MLH – helikopters  |
+| Alle fabrikanten  | Alle Micro Light Helikopters voor zover het gaat om gyroplanes tot en met MTOM 560 kg  | --- | MLH – gyroplanes  |
+
+### 3  
+
+####: Lijst van typebevoegdverklaringen zoals toegestaan in een RPL voor de categorie helikopters
+
+| 1  Fabrikant  | 2  Helikopters  | 3  | 4  Bevoegdverklaring  |
+|:---|:---|:---|:---|
+|  *Agusta-Bell*   |
+|  *–SE Piston–*   | Agusta Bell 47G-2  Agusta Bell 47G-2A-1  Agusta Bell 47G-3B-1  Agusta Bell 47G-4  Agusta Bell 47G-4A  Agusta Bell 47J  Agusta Bell 47J-2  Agusta Bell 47J-3  | --- | Bell47  |
+|  *Bell Helicopters*   |
+|  *–SE Piston–*   | Bell 47 D  Bell 47 G  Bell 47 G-1  Bell 47 G-2  Bell 47 G-3 B-1  Bell 47 G-4  Bell 47 G-4A  Bell 47 G-5  Bell 47 H-1  Bell 47 J  Bell 47 J-2  Bell 47 J-2 A  | --- | Bell47  |
+|  *–SE Turbine–*   | Bell47T  | --- | Bell 47 T  |
+| Bell 47 TA  |
+| *Brantle* y  |
+|  *–SE Piston–*   | B-2  B-2 B  | --- | BrantleyB2  |
+|  *Breda Nardi*   |
+|  *–SE Piston–*   | Breda Nardi 269  | --- | HU269  |
+|  *–SE Turbine–*   | Breda Nardi 369  | --- | HU369  |
+|  *Enstrom*   |
+|  *–SE Piston–*   | F 28 A – D  F 28 C 2  F28 F  F 280 C  F 280 F  F 280 FX  F 280 D  | --- | ENF28  |
+|  *Hiller*   |
+|  *–SE Piston–*   | UH 12 A  UH 12 B  UH 12 E  | --- | UH12  |
+|  *–SE Turbine–*   | UH 12 T  | --- | UH 12 T  |
+|  *Hughes/Schweizer*   |
+|  *–SE Piston–*   | 269 A  269 B  269 C  300 C  300 CB  300 CBi  | --- | HU269  |
+|  *–SE Turbine–*   | 330 SP  333  | --- | SC330  |
+|  *Kaman*   |
+|  *–SE Turbine–*   | Kaman K 1200  | --- | K1200  |
+|  *MD Helicopters / McDonnell*    *Douglas Helicopters*   |
+|  *–SE Turbine–*   | Hughes 369 D  Hughes 369 E  Hughes 369 HE  Hughes 369 HS  | (V)  | HU369/MD500N/600  |
+| MD 500 N (NOTAR)  MD 520 N  |
+| MD 600  |
+|  *RAF*   |
+|  *–Gyroplane–*   | 2000 GTX SE  | --- | RAF 2000 GTX SE <sup>1</sup>  |
+|  *Revolution*   |
+|  *–SE Piston–*   | MINI 500  | --- | MINI 500  |
+|  *Rotorway*   |
+|  *–SE Piston–*   | EXEC 162 F  | --- | EXEC 162 F  |
+|  *Robinson*   |
+|  *–SE Piston–*   | R 22  R 22 A  R 22 B  | --- | R22  |
+| R 44  R 44 Raven  R 44 Raven II  | R 44  |
+|  *Silvercraft*   |
+|  *–SE Piston–*   | SV 4  | --- | SV 4  |
+|  *Westland*   |
+|  *–SE Piston–*   | Westland Bell 47 G3 B-1  | --- | Bell 47  |
+
+<sup>1</sup> Deze RAF 2000 gyroplane blijft hier staan omdat de MTOM hoger is dan 560 kg. Een scheidslijn in kolom 2 geeft een variant aan binnen de bevoegdverklaring zoals weergegeven in kolom 3. (V) geeft aan dat de bevoegdverklaring wordt afgegeven onder de beperking, dat de houder van de bevoegdverklaring die op een andere variant binnen die bevoegdverklaring, zoals aangegeven in kolom 2, gaat vliegen, voor zover vereist op grond van JAR-FCL 2.235(c) een familiarisatie- of verschillencursus doet, die voldoet aan de eisen, bedoeld in JAR-OPS 3.950 en 3.980(b) opgenomen in bijlage 1 die deel uitmaakt van deze regeling.  
+
+### 4  
+
+####: Lijst van Lijst van klassebevoegdverklaringen zoals toegestaan in een CPL voor de categorie Vrije Ballonnen
+
+| 1  Fabrikant  | 2  Vrije Ballonnen  | 3  | 4  Bevoegdverklaring  |
+|:---|:---|:---|:---|
+| Alle fabrikanten  | Alle heteluchtballonnen  | --- | Heteluchtballonnen  |
+| Alle fabrikanten  | Alle gasballonnen  | --- | Gasballonnen  |
 
 ### Bijlage  6  
 

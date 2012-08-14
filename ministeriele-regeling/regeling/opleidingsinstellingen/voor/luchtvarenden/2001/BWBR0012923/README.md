@@ -15,7 +15,7 @@ Besluit:
 
 *CR:* klassebevoegdverklaring (Class Rating);  
 
-*erkende taalbeoordelingsinstantie:* door Onze Minister met betrekking tot het aanbieden en afnemen van de test ten behoeve van de taalvaardigheidsaantekening erkende opleidingsinstelling;.  
+*erkende taalbeoordelingsinstantie:* door Onze Minister met betrekking tot het aanbieden en afnemen van de test ten behoeve van de taalvaardigheidsaantekening erkende opleidingsinstelling;  
 
 *FTO:* door Onze Minister gekwalificeerde opleidingsinstelling voor het in delen of een geheel geven van training voor het verkrijgen van bepaalde bewijzen van bevoegdheid en bevoegdverklaringen (Flight Training Organisation);  
 
@@ -216,7 +216,151 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
 ### Bijlage  2  
 
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.  
+####bedoeld in de artikelen 10 onderdeel b onder 3 , en 11 onderdeel b onder 2 , van de Regeling opleidingsinstellingen voor luchtvarenden 2001
+
+### 1  
+
+####De opleiding voor RPL(A)
+
+De opleiding voor RPL(A)SE piston(land) wordt aangeboden door: 
+
+a. een geregistreerde opleidingsinstelling met instructeurs die in het bezit zijn van een geldige RFI in hun RPL(A)SE piston(land), of  
+
+b. een geregistreerde of gekwalificeerde opleidingsinstelling voor PPL(A)SE piston(land) met instructeurs die in het bezit zijn van een geldige FI in hun PPL(A)SE piston(land), CPL(A)SE piston(land) of ATPL(A)SE piston(land).   De opleiding voor RPL(A)TMG wordt aangeboden door: 
+
+a. een geregistreerde opleidingsinstelling met instructeurs die in het bezit zijn van een geldige RFI in hun RPL(A)TMG, of  
+
+b. een geregistreerde of gekwalificeerde opleidingsinstelling voor PPL(A)TMG met instructeurs met een geldig FI in hun PPL(A)TMG, CPL(A)TMG of ATPL(A)TMG.   De opleiding voor RPL(A)MLA wordt aangeboden door: een geregistreerde opleiding met instructeurs die in het bezit zijn van een geldige RFI in hun RPL(A)MLA.  
+
+### 2  
+
+####De opleiding voor RPL(H)
+
+De opleiding voor RPL(H) voor type bevoegdverklaringen voor eenmotorige helikopters of voor gyroplanes wordt aangeboden door: 
+
+a. een geregistreerde opleidingsinstelling met instructeurs die in het bezit zijn van een geldige RFI(H) in hun RPL(H) of FI in hun PPL(H), CPL(H) of ATPL(H) en de typebevoegdverklaring waarvoor ze instructie geven, of  
+
+b. een geregistreerde of gekwalificeerde opleidingsinstelling voor PPL(H) met instructeurs die in het bezit zijn van een geldige FI in hun PPL(H), CPL(H) of ATPL(H) en de typebevoegdverklaring waarvoor ze instructie geven.    
+
+### 3  
+
+####De praktijkopleiding voor RPL(A)
+
+De praktijkopleiding voor elke klasse binnen het RPL(A) omvat ten minste 30 uur, waarvan ten minste: 
+
+a. 20 uur dubbelbesturingsonderricht op een vliegtuig uit de gewenste klasse (dit kan minder zijn bij leerling-vliegers die in aanmerking komen voor compensatie als bedoeld in de [Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001](../../../../../../../ministeriele-regeling/regeling/bewijzen/van/bevoegdheid/en/bevoegdverklaringen/voor/etc/BWBR0021240/README.md)),  
+
+b. 5 uur solo op een vliegtuig uit de gewenste klasse, en   op een vliegtuig uit een willekeurige klasse uit RPL(A): 
+
+a. 1 solo overlandvlucht waarbij op twee andere luchtvaartterreinen wordt geland en gestart dan waarop men vertrekt, of  
+
+b. een driehoeksvlucht over een afstand van ten minste 100 km en daarnaast een start en een landing op ten minste drie verschillende terreinen.   Het opleidingsplan voor de praktijkopleiding voor RPL(A) omvat ten minste: 
+
+a. de vluchtvoorbereiding inclusief de berekening van de massa en het zwaartepunt, de voor-de-vlucht-inspectie van het vliegtuig en de staat van onderhoud;  
+
+b. het gebruik van het luchtvaartterrein en het luchtverkeerscircuit, het vermijden van botsingen (voorzorgen en uitwijkprocedures);  
+
+c. het besturen van het vliegtuig met behulp van het zicht naar buiten;  
+
+d. het vliegen met een kritische lage luchtsnelheid, herkenning van en het herstellen uit een beginnende en volledige overtrek;  
+
+e. het vliegen met een kritische hoge luchtsnelheid, herkenning van en het herstellen uit een spiraalduikvlucht of herkenning en het vermijden van een spiraalduikvlucht;  
+
+f. starts en landingen normaal en bij dwarswind;  
+
+g. starts waarbij een maximumprestatie van het vliegtuig is vereist (kort veld en over hindernissen), landingen op een korte baan;  
+
+h. het maken van overlandvluchten met herkenningspunten op de grond, gegist bestek en, wanneer dat beschikbaar is, radionavigatiehulpmiddelen;  
+
+i. noodprocedures, inclusief gesimuleerde situaties waarbij de uitrusting van het vliegtuig niet of niet meer goed werkt;  
+
+j. het voorbereiden van vluchten van, naar en via verschillende luchtvaartterreinen, procedures met luchtverkeersdienstverlening; en radiotelefonieprocedures en terminologie.    
+
+### 4  
+
+####De opleidingsvliegtuigen voor RPL(A)
+
+a. De opleidingsinstelling zorgt voor een adequate vloot van opleidingsvliegtuigen die geschikt zijn voor de bedoelde opleiding en die zijn uitgerust en onderhouden volgens de geldende regels.  
+
+b. Elk vliegtuig is voorzien van een dubbel besturingssysteem dat onafhankelijk kan worden gebruikt door de instructeur en de leerling. Een overzwenkbare besturing is niet acceptabel.  
+
+c. De vloot bevat ook ten minste één vliegtuig dat geschikt is om te leren hoe men een overtrek kan vermijden.    
+
+### 5  
+
+####De theorieopleiding voor RPL(A)
+
+De opleidingsinstelling zorgt voor theorieonderwijs voor het theorie-examen PPL(A)/RPL(A), inclusief het theorie-gedeelte voor communicatie.  
+
+### 6  
+
+####De praktijkopleiding voor RPL(H)
+
+De praktijkopleiding voor elk type eenmotorige helikopter of gyroplane of voor de klasse MLH binnen het RPL(H) omvat ten minste 30 uur, waarvan ten minste: 
+
+a. 20 uur dubbelbesturingsonderricht op het gewenste type eenmotorige helikopter of gyroplane of de klasse MLH (dit kan minder zijn bij leerling-vliegers die in aanmerking komen voor compensatie als bedoeld in de Regeling bewijzen van bevoegdheid en bevoegdverklaringen voor luchtvarenden 2001),  
+
+b. 5 uur solo op het gewenste type eenmotorige helikopter of gyroplane of de klasse MLH, en   op het gewenste type eenmotorige helikopter of gyroplane of de klasse MLH: 
+
+a. 1 solo overlandvlucht waarbij op twee andere luchthavens wordt geland en gestart dan waarop men vertrekt, of  
+
+b. een driehoeksvlucht over een afstand van ten minste 100 km en daarnaast een start en een landing op ten minste drie verschillende terreinen,   bij een gyroplane kunnen (voor zowel het type als voor de klasse MLH) de DBO uren, gevlogen op een ongemotoriseerde gyroplane tot een maximum van 5 uren in mindering worden gebracht. Het opleidingsplan voor de praktijkopleiding voor RPL(H) voor eenmotorige helikopters omvat ten minste: 
+
+a. de vluchtvoorbereiding inclusief de berekening van de massa en het zwaartepunt, de voor-de-vlucht-inspectie van de helikopter en de staat van onderhoud;  
+
+b. het gebruik van het luchtvaartterrein en het luchtverkeerscircuit, het vermijden van botsingen (voorzorgen en uitwijkprocedures);  
+
+c. het besturen van de helikopter met behulp van het zicht naar buiten;  
+
+d. starts, landingen, stilhangen, uitkijkbochten en normale overgangsvluchten van en naar stilhangen;  
+
+e. noodprocedures, elementaire autorotaties, gesimuleerde motorstoring, herstel van grondresonantie indien relevant voor het type;  
+
+f. zijwaartse en achterwaartse vlucht, bochten op de plek;  
+
+g. autorotaties op een landingspunt, gesimuleerde landingen met motor uit, oefenen van noodlandingen. Gesimuleerde storingen van uitrusting en noodtoestandprocedures met betrekking tot storing van motoren, besturing, elektrische en hydraulische circuits; steile bochten;  
+
+h. overgangsvluchten, snelle stops, manoeuvres uit de wind, landingen en starts op hellend terrein;  
+
+i. vluchten met beperkt vermogen en beperkte ruimte inclusief het kiezen van en het opereren naar en van onvoorbereide plaatsen;  
+
+j. overlandvlucht met visuele referentie, gegist bestek en waar beschikbaar, radionavigatiehulpmiddelen;  
+
+k. het voorbereiden van vluchten van, naar en via verschillende luchtvaartterreinen, procedures met luchtverkeersdienstverlening.   Het opleidingsplan voor de praktijkopleiding voor RPL(H) voor gyroplanes omvat ten minste: 
+
+a. de vluchtvoorbereiding inclusief de berekening van de massa en het zwaartepunt, de voor-de-vlucht-inspectie van de gyroplane en de staat van onderhoud;  
+
+b. wielblokprocedure, motor- en rotorstartprocedure evt. met de hand, taxiën met of zonder rotorrotatie, taxiën met rugwind, tegenwind en dwarswind;  
+
+c. het gebruik van het luchtvaartterrein en het luchtverkeerscircuit, het vermijden van botsingen (voorzorgen en uitwijkprocedures);  
+
+d. het besturen van de gyroplane met behulp van het zicht naar buiten;  
+
+e. rotormanagement bij de gyroplane met draaiende motor, waaronder herstelprocedure bij flapping;  
+
+f. start zonder wind, met tegenwind, dwarswind en short-field start gevolgd door motorstoring in grondeffect tijdens de start;  
+
+g. gecoördineerde horizontale bochten, klimmende en dalende bochten en steile bochten, het klimmen met vol vermogen, maximum snelheid en het vliegen met minimaal vermogen; vliegen met lage snelheid aan de backside van de powercurve;  
+
+h. normale landing met een flare, landing met een steile nadering, landing met doorstart, noodlanding (motor uit), doellanding, landing met vermogen en landing met minimaal vermogen (idle);  
+
+i. het stoppen van de rotor, het stoppen van de motor en het veilig parkeren van de gyroplane; uitsluitend bij gebruikmaking van niet-gemotoriseerde gyroplanes:  
+
+j. het herstellen van pilot induced occilation (glider);  
+
+k. het herstellen van een pendel beweging (glider).    
+
+### 7  
+
+####De opleidingshelikopters of gyroplanes voor RPL(H)
+
+De opleidingsinstelling zorgt voor een adequate vloot van opleidingshelikopters of gyroplanes die geschikt zijn voor de bedoelde opleiding en die zijn uitgerust en onderhouden volgens de geldende regels. Elke helikopter inclusief gyroplane is voorzien van een dubbel besturingssysteem dat onafhankelijk kan worden gebruikt door de instructeur en de leerling. Een overzwenkbare besturing is niet acceptabel.  
+
+### 8  
+
+####De theorieopleiding voor RPL(H)
+
+De opleidingsinstelling zorgt voor theorieonderwijs voor het theorie-examen PPL(H), inclusief het theorie-gedeelte voor communicatie.  
 
 ### Bijlage  3  
 

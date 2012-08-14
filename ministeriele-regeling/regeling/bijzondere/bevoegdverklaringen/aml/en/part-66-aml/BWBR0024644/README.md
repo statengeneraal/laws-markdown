@@ -3,7 +3,7 @@
 ##Regeling betreffende de bijzondere bevoegdverklaringen die op een AML (Aircraft Maintenance Licence) kunnen worden vermeld en de eisen inzake basiskennis, typekennis en ervaring voor afgifte, verlenging van de geldigheidsduur en wederafgifte, alsmede nadere procedurele regels over bijzondere bevoegdverklaringen met betrekking tot onderhoudscertificeringspersoneel (Regeling bijzondere bevoegdverklaringen AML en Part-66-AML)
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad van 20 februari 2008 tot vaststelling van gemeenschappelijke regels op het gebied van burgerluchtvaart en tot oprichting van een Europees Agentschap voor de veiligheid van de luchtvaart, houdende intrekking van Richtlijn 91/670/EEG, Verordening (EG) nr. 1592/2002 en Richtlijn 2004/36/EG (PbEU L 79) en de [artikelen 2.5, negende lid](../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [2.6, vijfde lid](../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), en [3.30, van de Wet luchtvaart](../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [5](../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), [8, eerste lid](../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md) en [9, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md);
+Gelet op verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad van 20 februari 2008 tot vaststelling van gemeenschappelijke regels op het gebied van burgerluchtvaart en tot oprichting van een Europees Agentschap voor de veiligheid van de luchtvaart, houdende intrekking van Richtlijn 91/670/EEG, Verordening (EG) nr. 1592/2002 en Richtlijn 2004/36/EG (PbEU L 79) en de artikelen 2.5, negende lid, 2.6, vijfde lid, en 3.30, van de Wet luchtvaart en 5, 8, eerste lid en 9, van het Besluit bewijzen van bevoegdheid voor de luchtvaart;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -12,6 +12,10 @@ Besluit:
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
+
+*AR:* Airworthiness Review, beoordeling van de luchtwaardigheid van een luchtvaartuig conform Part M, subpart I, van verordening (EG) nr. 2042/2003;  
+
+*ELA 1-luchtvaartuig:* European Light Aircraft, luchtvaartuig als bedoeld in artikel 2 van verordening (EG) nr. 2042/2003;  
 
 *Minister:* Minister van Verkeer en Waterstaat.    
 
@@ -76,8 +80,8 @@ In deze regeling wordt verstaan onder:
 4.  De houder van een AML met de bijzondere bevoegdverklaring AB2Z voor een type vliegtuig zonder drukcabine met een niet intrekbaar onderstel, is bevoegd werkzaamheden waarvoor de bijzondere bevoegdverklaring AB2Z vereist is, te verrichten aan alle vliegtuigen van de klasse 2Z zonder drukcabine met een niet intrekbaar onderstel.   
 5.  De houder van een AML met de bijzondere bevoegdverklaring AB2Z voor een type vliegtuig zonder drukcabine met een intrekbaar onderstel, is bevoegd werkzaamheden waarvoor de bijzondere bevoegdverklaring AB2Z vereist is, te verrichten aan alle vliegtuigen van de klasse 2Z zonder drukcabine.   
 6.  De houder van een AML met de bijzondere bevoegdverklaring AB2Z voor een meermotorig vliegtuig met drukcabine, is bevoegd werkzaamheden waarvoor een bijzondere bevoegdverklaring AB2Z vereist is, te verrichten aan alle vliegtuigen van de klasse 2Z en alle overige vliegtuigen van de klasse 2Z zonder drukcabine.   
-7.  De houder van een AML met de bijzondere bevoegdverklaring als bedoeld in artikel 2 of 3, eerste lid, mits voorzien van een bijzondere bevoegdverklaring A en B dan wel C, is bevoegd dezelfde werkzaamheden, als waartoe de desbetreffende bijzondere bevoegdverklaring strekt, te verrichten aan een MLA of een amateurbouwluchtvaartuig.   
-8.  De houder van een AML met bijzondere bevoegdverklaring AB als bedoeld in artikel 2 of met de bijzondere bevoegdverklaringen A en B, bedoeld in artikel 3, eerste lid, is bevoegd tot het mede ondertekenen van de verklaring als bedoeld in [artikel 4, derde lid, van de Regeling MLA’s](../../../../../../../../ministeriele-regeling/regeling/mla's/BWBR0015237/README.md).   
+7.  De houder van een AML met de bijzondere bevoegdverklaring als bedoeld in artikel 2 of 3, eerste lid, mits voorzien van een bijzondere bevoegdverklaring A en B dan wel C, is bevoegd dezelfde werkzaamheden, als waartoe de desbetreffende bijzondere bevoegdverklaring strekt, te verrichten aan een MLA, een MLH of een amateurbouwluchtvaartuig.   
+8.  De houder van een AML met bijzondere bevoegdverklaring AB als bedoeld in artikel 2 of met de bijzondere bevoegdverklaringen A en B, bedoeld in artikel 3, eerste lid, is bevoegd tot het mede ondertekenen van de verklaring als bedoeld in artikel 4, derde lid, van de Regeling MLA’s.   
 
 ### §  4  
 
@@ -101,7 +105,7 @@ c. voor de bijzondere bevoegdverklaring AB1Z, AB1T, AB2Z, AB2T, AB3Z, AB3T, CF, 
 2.  Wanneer de aanvrager houder is van een AML, zijn in afwijking van het eerste lid, de eisen inzake ervaring van toepassing volgens de onderstaande tabel.  
 
 |--- | Reeds houder van de bijzondere bevoegdverklaring:  | Aangevraagde bijzondere bevoegdverklaring  | AB1Z  | AB1T  | AB2Z  | AB2T  | AB3Z  | AB3T  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|
 | AB1Z  | –  | 12 maanden  | n.v.t.  | 12 maanden  | 6 maanden  | 12 maanden  |
 | AB1T  | 12 maanden  | –  | 12 maanden  | n.v.t.  | 12 maanden  | 6 maanden  |
 | AB2Z  | 12 maanden  | 18 maanden  | –  | 12 maanden  | 12 maanden  | 18 maanden  |
@@ -148,15 +152,21 @@ Een bijzondere bevoegdverklaring waarvan de geldigheidsduur langer dan twee maan
 
 ### Artikel  9  
 
-1.  De houder van een Part-66-AML met de bijzondere bevoegdverklaring B1.2, is tevens bevoegd werkzaamheden te verrichten waarvoor de bijzondere bevoegdverklaring B volgens artikel 3, eerste lid, vereist is.   
-2.  De houder van een Part-66-AML met de bijzondere bevoegdverklaring voor werkzaamheden aan luchtvaartuigen met een maximum startmassa van 5700 kg of minder, is bevoegd dezelfde werkzaamheden, als waartoe de desbetreffende bijzondere bevoegdverklaring strekt, te verrichten en vrij te geven aan: 
+1.  De houder van een Part-66-AML met de bijzondere bevoegdverklaring B1.2 of B3, is tevens bevoegd werkzaamheden te verrichten waarvoor de bijzondere bevoegdverklaring B volgens artikel 3, eerste lid, vereist is.   
+2.  De houder van een Part-66 AML met de bijzondere bevoegdverklaring in een categorie of subcategorie voor werkzaamheden aan luchtvaartuigen met een maximum startmassa van 5.700 kg of minder, is bevoegd dezelfde werkzaamheden, als waartoe de desbetreffende Part-66 AML strekt, te verrichten en vrij te geven aan: 
 
-a. luchtvaartuigen met een maximum startmassa van 5700 kg of minder als genoemd in onderdeel a van Bijlage II bij verordening (EG) nr. 216/2008 (PbEU L 79),  
+a. luchtvaartuigen van dezelfde categorie of subcategorie met een maximum startmassa van 5.700 kg of minder als genoemd in onderdeel a van Bijlage II bij verordening (EG) nr. 216/2008 (PbEU L 79);  
 
-b. amateurbouwluchtvaartuigen en  
+b. amateurbouwluchtvaartuigen;  
 
-c. MLA’s.     
-3.  De houder van een Part-66-AML met de bijzondere bevoegdverklaring B1 voor werkzaamheden aan luchtvaartuigen met een maximum startmassa van 5700 kg of minder, is bevoegd tot het mede ondertekenen van de verklaring als bedoeld in [artikel 4, derde lid, van de Regeling MLA’s](../../../../../../../../ministeriele-regeling/regeling/mla's/BWBR0015237/README.md).   
+c. MLA’s; en  
+
+d. MLH’s.     
+3.  De houder van een Part-66-AML met de bijzondere bevoegdverklaring B1 voor werkzaamheden aan luchtvaartuigen met een maximum startmassa van 5700 kg of minder, is bevoegd tot het mede ondertekenen van de verklaring als bedoeld in artikel 4, derde lid, van de Regeling MLA’s.   
+
+### Artikel  9a  
+
+De minister kan op aanvraag van een houder van een Part-66 AML de bevoegdheid verlenen tot het uitvoeren van een AR voor ELA 1-luchtvaartuigen die vallen binnen zijn bevoegdheden zoals vermeld op de Part-66 AML indien aan de voorwaarden van Part-M van verordening (EG) nr. 2042/2003 wordt voldaan.  
 
 ### Hoofdstuk  4  
 
@@ -186,7 +196,7 @@ c. MLA’s.
 
 ### Artikel  12  
 
-De [Regeling bijzondere bevoegdverklaringen AML](../../../../../../../../ministeriele-regeling/regeling/bijzondere/bevoegdverklaringen/aml/BWBR0024312/README.md) en de [Regeling bijzondere bevoegdverklaringen JAR-66-AML](../../../../../../../../ministeriele-regeling/regeling/bijzondere/bevoegdverklaringen/jar-66/aml/BWBR0021204/README.md) worden ingetrokken.  
+De Regeling bijzondere bevoegdverklaringen AML en de Regeling bijzondere bevoegdverklaringen JAR-66-AML worden ingetrokken.  
 
 ### Artikel  13  
 

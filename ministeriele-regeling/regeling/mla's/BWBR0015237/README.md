@@ -13,13 +13,13 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *minister:* Minister van Verkeer en Waterstaat;  
+a. *minister:* Minister van Infrastructuur en Milieu;  
 
 b. *luchtwerk:* een activiteit waarbij het luchtvaartuig wordt gebruikt voor speciale diensten.    
 
 ### Artikel  1a  
 
-Deze regeling berust op de [artikelen 2, vierde lid](../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), [9](../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), en [13, aanhef en onderdelen a,b en c, van het Besluit luchtvaartuigen 2008](../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md) en [artikel 56 van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md).  
+Deze regeling berust op de [artikelen 2, vierde lid](../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), [9](../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), en [13, aanhef en onderdelen a,b en c, van het Besluit luchtvaartuigen 2008](../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), [artikel 7 van het Besluit vluchtuitvoering](../../../../AMvB/besluit/vluchtuitvoering/BWBR0020111/README.md) en [artikel 56 van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md).  
 
 ### Hoofdstuk  II  
 
@@ -27,94 +27,102 @@ Deze regeling berust op de [artikelen 2, vierde lid](../../../../AMvB/besluit/lu
 
 ### Artikel  2  
 
-1.  MLA's voldoen aan een veiligheidsniveau, dat gelijkwaardig is aan de luchtwaardigheidseisen, zoals die zijn vastgesteld in een van de navolgende landen overeenkomstig de daarbij genoemde luchtwaardigheidseisen: 
-
-a. Duitsland, de eisen, bedoeld in de Lufttüchtigkeitsforderungen für schwerkraftgesteuerte Ultraleichtflugzeuge of in de Lufttüchtigkeitsforderungen für dreiachsgesteuerte Ultraleicht-Flugzeuge;  
-
-b. Groot-Brittannië, de eisen, bedoeld in de British civil airworthiness requirements, CAP 482, Section S; of  
-
-c. Tsjechië, de eisen, bedoeld in de Tsjechische luchtwaardigheidscode, vastgesteld onder nummer 869/91-220.   De onder a, b en c genoemde eisen zijn als bijlage A, B respectievelijk C bij deze regeling gevoegd.   
-2.  MLA's voldoen voorts aan de aanwijzingen, afgegeven door de luchtvaartautoriteit van het in het eerste lid genoemde land aan welks luchtwaardigheidseisen het desbetreffende MLA voldoet, alsmede aan de door de minister afgegeven aanwijzingen.   
-3.  Indien een MLA is voorzien van in Duitsland voorgeschreven reddingsapparatuur, voldoet deze apparatuur aan de Lufttüchtigkeitsforderungen für Rettungsgeräte für Ultraleicht-Flugzeuge.   
-4.  De geluidsproductie van de door de luchtvaartautoriteit van één der in het eerste lid genoemde landen goedgekeurde configuratie bedraagt niet meer dan 60 dB(A) gemeten volgens de in de bij deze regeling behorende bijlage 1 beschreven procedure.   
-
-### Artikel  3  
-
 1.  Een speciaal-BvL wordt aangevraagd door indiening bij de minister van een volledig ingevuld en ondertekend formulier waarvan exemplaren kosteloos bij de minister zijn te verkrijgen.   
-2.  Voor de behandeling van de aanvraag van een speciaal-BvL worden de volgende bescheiden overgelegd: 
+2.  Aan de houder van een MLA, MLH of gemotoriseerd schermvliegtuig wordt een speciaal-BvL afgegeven indien de volgende bescheiden worden overgelegd: 
 
-a. een document, afgegeven door de luchtvaartautoriteit van het desbetreffende land, waaruit blijkt dat het desbetreffende type en configuratie MLA voldoet aan de in artikel 2, eerste lid, onderdeel a, b respectievelijk c genoemde luchtwaardigheidseisen;  
+a. een document, afgegeven door de luchtvaartautoriteiten van Duitsland, Groot-Brittannië of Tsjechië waaruit blijkt dat het desbetreffende type en configuratie MLA, MLH of gemotoriseerd schermvliegtuig voldoet aan de desbetreffende luchtwaardigheideisen zoals die zijn vastgesteld in één van de genoemde landen;  
 
-b. een verklaring van de houder waaruit blijkt dat wordt voldaan aan de van toepassing zijnde aanwijzingen als bedoeld in artikel 2, tweede lid;  
+b. een verklaring van de houder waaruit blijkt dat wordt voldaan aan de aanwijzingen, afgegeven door de luchtvaartautoriteit van het in onderdeel a genoemde land aan wiens luchtwaardigheidseisen het desbetreffende MLA, MLH of gemotoriseerd schermvliegtuig voldoet en aan de door de minister afgegeven aanwijzingen;  
 
-c. een vlieghandboek of gebruiksaanwijzing van de fabrikant van het MLA;  
+c. een verklaring van de houder, waarin deze verklaart dat de configuratie MLA, MLH of gemotoriseerd schermvliegtuig identiek is aan de goedgekeurde configuratie;  
 
-d. een verklaring van de houder, waarin deze verklaart dat de configuratie van het MLA identiek is aan de goedgekeurde configuratie;  
+d. een uittreksel van het geluidmeetrapport, opgesteld door of namens één van de in onderdeel a bedoelde autoriteiten dan wel door een door de minister erkende of geaccepteerde organisatie, waaruit blijkt dat de geluidsproductie gemeten volgens de in de bij deze regeling behorende bijlage 1 beschreven procedure: 
 
-e. een geluidmeetrapport, opgesteld door of namens één der in artikel 2, derde lid, bedoelde autoriteiten dan wel door een door de minister erkende of geaccepteerde organisatie, waaruit blijkt dat aan de in dat lid genoemde eisen wordt voldaan;  
+i. voor het desbetreffende type en configuratie MLA of gemotoriseerd schermvliegtuig niet meer dan 60 dB(A) bedraagt;  
 
-f. een uittreksel uit het geluidmeetrapport van de goedgekeurde configuratie; en  
+ii. voor de desbetreffende type en configuratie MLH niet meer dan 68 dB(A) bedraagt; en    
 
-g. een verklaring overeenkomstig de bij deze regeling behorende bijlage 2, in tweevoud, van een door de minister erkende of geaccepteerde organisatie of persoon, dat het betreffende MLA voor wat betreft de voor de geluidsproductie van belang zijnde aspecten overeenstemt met het MLA waaraan de geluidsmetingen zijn uitgevoerd.     
-3.  Het model van het speciaal-BvL is opgenomen in de bij deze regeling behorende bijlage 3.   
+e. een verklaring, in tweevoud, overeenkomstig de bij deze regeling behorende bijlage 2 van een door de minister erkende of geaccepteerde organisatie of persoon, dat het desbetreffende MLA, MLH of gemotoriseerd schermvliegtuig voor wat betreft de voor de geluidsproductie van belang zijnde aspecten overeenstemt met het MLA, de MLH of het gemotoriseerd schermvliegtuig waaraan de geluidsmetingen zijn uitgevoerd.     
+3.  Indien een MLA of gemotoriseerd schermvliegtuig is voorzien van in Duitsland voorgeschreven reddingsapparatuur, voldoet deze apparatuur aan de in Duitsland daarvoor geldende luchtwaardigheidseisen.   
+4.  Het model van het speciaal-BvL is opgenomen in de bij deze regeling behorende bijlage 3.   
 
 ### Artikel  4  
 
 1.  Voor het verlengen van de termijn van geldigheid van het speciaal-BvL wordt door de houder een aanvraag ingediend bij de minister door middel van een volledig ingevuld en ondertekend formulier, waarvan exemplaren kosteloos bij de minister verkrijgbaar zijn.   
 2.  De aanvraag wordt vergezeld van een verklaring van de houder waaruit blijkt dat: 
 
-a. het MLA nog steeds in luchtwaardige toestand verkeert;  
+a. het MLA, de MLH of het gemotoriseerd schermvliegtuig nog steeds in luchtwaardige toestand verkeert;  
 
-b. wordt voldaan aan de van toepassing zijnde aanwijzingen, bedoeld in artikel 2, tweede lid;  
+b. wordt voldaan aan de van toepassing zijnde aanwijzingen, bedoeld in artikel 2, tweede lid, onderdeel b;  
 
-c. eventuele wijzigingen zijn goedgekeurd door de ontwerper van het MLA;  
+c. eventuele wijzigingen zijn goedgekeurd door de ontwerper van het MLA, de MLH of het gemotoriseerd schermvliegtuig;  
 
 d. de minister heeft ingestemd met eventuele wijzigingen in de geluidsproductie; en  
 
-e. het MLA is onderhouden conform de aanwijzingen van de ontwerper van het MLA.     
+e. het MLA, de MLH of het gemotoriseerd schermvliegtuig is onderhouden conform de aanwijzingen van de ontwerper van het MLA, de MLH of het gemotoriseerd schermvliegtuig.     
 3.  De verklaring, bedoeld in het tweede lid, is mede ondertekend door de houder van: 
 
 a. een bewijs van bevoegdheid als bedoeld in [artikel 4, achtste lid](../../../../ministeriele-regeling/regeling/bijzondere/bevoegdverklaringen/aml/en/part-66-aml/BWBR0024644/README.md), of [artikel 9, derde lid, van de Regeling bijzondere bevoegdverklaringen AML en Part-66-AML](../../../../ministeriele-regeling/regeling/bijzondere/bevoegdverklaringen/aml/en/part-66-aml/BWBR0024644/README.md), of  
 
-b. een door de Deutsche Aero Club e.V. afgegeven Erlaubnis für Prüfer von Luftfahrtgerät, Klasse 5.     
+b. een door de Deutsche Aero Club e.V. of de Deutsche Ultraleichtflugverbandes e.V. afgegeven Erlaubnis für Prüfer von Luftfahrtgerät, Klasse 5.     
 4.  Het derde lid is niet van toepassing op schermvliegtuigen als bedoeld in [artikel 1, eerste lid, van het Besluit bewijzen van bevoegheid voor de luchtvaart](../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), in combinatie met een motor.   
 
 ### Artikel  5  
 
-1.  Wijzigingen, die op grond van de bij deze regeling behorende bijlage 4 van invloed zijn op de geluidsproductie van het MLA, behoeven de instemming van de minister.   
-2.  De aanvraag voor het verkrijgen van instemming met de wijziging van het MLA wordt in tweevoud ingediend bij de minister, middels een volledig ingevuld en ondertekend formulier, waarvan exemplaren kosteloos bij de minister te verkrijgen zijn. Bij de aanvraag worden de voor de beoordeling noodzakelijke gegevens gevoegd.   
+1.  Wijzigingen, die op grond van de bij deze regeling behorende bijlage 4 van invloed zijn op de geluidsproductie van het MLA, de MLH of het gemotoriseerd schermvliegtuig, behoeven de instemming van de minister.   
+2.  De aanvraag voor het verkrijgen van instemming met de wijziging van het MLA, de MLH of het gemotoriseerd schermvliegtuig wordt in tweevoud ingediend bij de minister, middels een volledig ingevuld en ondertekend formulier, waarvan exemplaren kosteloos bij de minister te verkrijgen zijn. Bij de aanvraag worden de voor de beoordeling noodzakelijke gegevens gevoegd.   
 3.  Een inspectie van het ontwerp kan onderdeel uitmaken van de beoordelingsprocedure.   
 4.  De aanvraag wordt tenminste vier weken voor de gewenste datum van verkrijging van instemming ingediend.   
-5.  Indien naar het oordeel van de minister door de wijziging van het MLA niet meer met het ten aanzien van dat MLA afgegeven geluidmeetrapport volstaan kan worden, dient door of namens één der in artikel 3, tweede lid, onder a, genoemde autoriteiten dan wel door een door de minister erkende of geaccepteerde organisatie een nieuw geluidmeetrapport opgesteld te worden en aan de minister toegezonden te worden tezamen met een verklaring als bedoeld in artikel 3, tweede lid, onder g.   
-6.  Indien het vijfde lid toepassing vindt, wordt de instemming eerst verleend, nadat de in artikel 3, tweede lid, onderdeel g, bedoelde verklaring, die op het tijdstip van indiening van de in het tweede lid bedoelde aanvraag geldig was, bij de minister is ingeleverd.   
+5.  Indien naar het oordeel van de minister door de wijziging van het MLA, de MLH of het gemotoriseerd schermvliegtuig niet meer met het ten aanzien van dat MLA, die MLH of dat gemotoriseerd schermvliegtuig afgegeven uittreksel van het geluidmeetrapport volstaan kan worden, dient door of namens één van de in artikel 2, tweede lid, onder a, genoemde autoriteiten dan wel een door de minister erkende of geaccepteerde organisatie een nieuw uittreksel op basis van een nieuw geluidmeetrapport opgesteld te worden en aan de minister gezonden te worden tezamen met een verklaring als bedoeld in artikel 2, tweede lid, onder e.   
+6.  Indien het vijfde lid toepassing vindt, wordt de instemming eerst verleend, nadat de in artikel 2, tweede lid, onderdeel e, bedoelde verklaring, die op het tijdstip van indiening van de in het tweede lid bedoelde aanvraag geldig was, bij de minister is ingeleverd.   
 
 ### Hoofdstuk  III  
 
-####Gebruik van het MLA
+####Gebruik van het MLA, de MLH, of het schermvliegtuig
 
 ### Artikel  7  
 
-Het is verboden met een MLA luchtwerk te verrichten, met uitzondering van het slepen van een zeilvliegtuig, als bedoeld in [artikel 1, eerste lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), met een MLA, dat is voorzien van een sleepinrichting, die is geaccepteerd door een luchtvaartautoriteit van één der in artikel 2, eerste lid, genoemde landen.  
+1.  Het is verboden: 
+
+a. met een MLA luchtwerk te verrichten, met uitzondering van het slepen van een zeilvliegtuig, als bedoeld in [artikel 1, eerste lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), met een MLA, dat is voorzien van een sleepinrichting, die is geaccepteerd door een luchtvaartautoriteit van één van de in artikel 2, tweede lid, onderdeel a, genoemde landen;  
+
+b. een MLA te gebruiken tegen vergoeding, met baat of voor commerciële doeleinden.     
+2.  Het is verboden met een MLH luchtwerk te verrichten of te gebruiken tegen vergoeding, met baat of voor commerciële doeleinden.   
+3.  Het is verboden met een schermvliegtuig luchtwerk te verrichten of te gebruiken tegen vergoeding, met baat of voor commerciële doeleinden.   
 
 ### Artikel  8  
 
-Onverminderd artikel 7 mogen met MLA’s slechts vluchten worden uitgevoerd: 
+Onverminderd artikel 7 mogen met MLA’s, MLH’s en schermvliegtuigen slechts vluchten worden uitgevoerd: 
 
 a. met inachtneming van de blijkens het vlieghandboek van de fabrikant op het luchtvaartuig betrekking hebbende gebruiksbeperkingen;  
 
 b. gedurende de daglichtperiode als bedoeld in [artikel 1 van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md);  
 
-c. indien met betrekking tot het MLA een verzekering is gesloten tegen de burgerrechtelijke aansprakelijkheid voor dood of letsel van de inzittenden van het MLA en dood of letsel van derden of schade toegebracht aan derden op het aardoppervlak.    
+c. indien met betrekking tot het MLA, de MLH of het schermvliegtuig een verzekering is gesloten tegen de burgerrechtelijke aansprakelijkheid voor dood of letsel van de inzittenden of derden of andere schade toegebracht aan de inzittenden of derden.    
 
 ### Artikel  9  
 
-1.  De gezagvoerder van een MLA is verplicht om tijdens de vlucht naast de in [artikel 5, onderdelen a tot en met g van de Regeling vluchtuitvoering](../../../../ministeriele-regeling/regeling/vluchtuitvoering/BWBR0024167/README.md) genoemde documenten het bewijs, dat een verzekering bedoeld in artikel 8, onder f, is gesloten, een afschrift van deze regeling met uitzondering van de bijlagen en de verklaring als bedoeld in artikel 3, tweede lid, onder g, die door de minister is geaccepteerd, aan boord te hebben.   
-2.  De gezagvoerder informeert iedere passagier voorafgaand aan de vlucht dat het MLA niet is gecertificeerd volgens internationale luchtwaardigheidseisen.   
+1.  De gezagvoerder van een MLA, en voor zover van toepassing een MLH of een gemotoriseerd schermvliegtuig is verplicht om tijdens de vlucht naast de in [artikel 5, onderdelen a tot en met g van de Regeling vluchtuitvoering](../../../../ministeriele-regeling/regeling/vluchtuitvoering/BWBR0024167/README.md) genoemde documenten het bewijs, dat een verzekering bedoeld in artikel 8, onderdeel c, is gesloten, een afschrift van deze regeling met uitzondering van de bijlagen en de verklaring als bedoeld in artikel 2, tweede lid, onderdeel e, die door de minister is geaccepteerd, aan boord te hebben.   
+2.  De gezagvoerder informeert iedere passagier voorafgaand aan de vlucht dat het MLA, de MLH of het schermvliegtuig niet is gecertificeerd volgens internationale luchtwaardigheidseisen.   
 3.  De houder van een MLA is verplicht om in het luchtvaartuig op een voor elke inzittende zichtbare plaats duidelijk leesbaar de volgende waarschuwing aan te brengen:  *Waarschuwing voor inzittenden*  Deze MLA is niet gecertificeerd volgens internationale luchtwaardigheidsvoorschriften. Het veiligheidsniveau is niet vastgesteld.  *Occupant Warning*  This aircraft has not been certificated to international standards. The safety level has not been determinated.   
+4.  De houder van een MLH is verplicht om in het luchtvaartuig op een voor elke inzittende zichtbare plaats duidelijk leesbaar de volgende waarschuwing aan te brengen: 
+###Waarschuwing voor inzittenden
+
+Deze MLH is niet gecertificeerd volgens internationale luchtwaardigheidsvoorschriften. Het veiligheidsniveau is niet vastgesteld. 
+###Occupant Warning
+
+This aircraft has not been certificated to international standards. The safety level has not been determinated.   
+5.  De houder van een gemotoriseerd schermvliegtuig is verplicht om in het luchtvaartuig op een voor elke inzittende zichtbare plaats duidelijk leesbaar de volgende waarschuwing aan te brengen: 
+###Waarschuwing voor inzittenden
+
+Dit schermvliegtuig is niet gecertificeerd volgens internationale luchtwaardigheidsvoorschriften. Het veiligheidsniveau is niet vastgesteld. 
+###Occupant Warning
+
+This aircraft has not been certificated to international standards. The safety level has not been determinated.   
 
 ### Artikel  9a  
 
-Ten behoeve van het tijdelijk gebruik in het Nederlandse luchtruim van in andere lidstaten van de European Civil Aviation Conference ingeschreven MLA’s, die niet voorzien zijn van een geldig bewijs van luchtwaardigheid als bedoeld in [artikel 3.8 van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), gelden de volgende voorschriften en beperkingen: 
+Ten behoeve van het tijdelijk gebruik in het Nederlandse luchtruim van in andere lidstaten van de European Civil Aviation Conference ingeschreven MLA’s, MLH’s of schermvliegtuigen, die niet voorzien zijn van een geldig bewijs van luchtwaardigheid als bedoeld in [artikel 3.8 van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), gelden de volgende voorschriften en beperkingen: 
 
 a. door het bevoegde gezag van de desbetreffende lidstaat, die het bewijs van inschrijving heeft afgegeven, is tevens een bewijs afgegeven waaruit blijkt dat de uitoefening van de luchtvaart met het betrokken luchtvaartuig in die staat is toegestaan, en  
 
@@ -130,51 +138,64 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  14  
 
-Deze regeling wordt aangehaald als: Regeling MLA's.  
+Deze regeling wordt aangehaald als: Regeling MLA’s, MLH’s en schermvliegtuigen.  
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlagen A en B, die ter inzage worden gelegd bij het Ministerie van Verkeer en Waterstaat.   
 
 De 
 Staatssecretaris van Verkeer en Waterstaat, 
 M.H.Schultz van Haegen   
 
-### Bijlage  A  
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.  
-
-### Bijlage  B  
-
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.  
-
-### Bijlage  C  
-
-Niet opgenomen.  
-
 ### Bijlage  1  
 
-####bedoeld in artikel 2, derde lid 
+####bedoeld in artikel 2, tweede lid, onder d 
 
-*Geluidmeetprocedure.*  De geluidmeetprocedure vindt plaats overeenkomstig de Lärmschutzforderungen für Ultraleichtflugzeuge van 1 augustus 1996. De geluidmeting vindt plaats tijdens de start van een MLA. Het MLA is tijdens de meetvlucht beladen tot aan de maximale startmassa (MTOM). De meetopstelling, waar overheen moet worden overvlogen, ligt op 2500 meter van het startpunt van het MLA in het verlengde van de startrichting. De vliegsnelheid die wordt gehanteerd komt overeen met de beste stijgsnelheid van het MLA, terwijl motorvermogen en toerental maximaal zijn. Voor een goede meting moet bij het overvliegen van de meetopstelling de vlieghoogte tussen de 75 en 150 meter liggen. Een en ander conform figuur 1.    ![44661](http://wetten.overheid.nl/Illustration/44661)
-Achteraf wordt aan de hand van gegevens uit het handboek van het MLA de geluidproductie berekend bij een normale start en een normale stijgprocedure. De rekenhoogte mag niet meer bedragen dan 450 meter. De in figuur 2 aangegeven afwijkingen van de vliegbaan zijn toelaatbaar.    ![44661](http://wetten.overheid.nl/Illustration/44661)
+*Geluidmeetprocedure.*  De geluidmeetprocedure vindt plaats conform de volgende procedure: De geluidmeting vindt plaats tijdens de start van een MLA, een MLH of een gemotoriseerd schermvliegtuig. Het MLA, de MLH of het gemotoriseerd schermvliegtuig is tijdens de meetvlucht beladen tot aan de maximale startmassa. De meetopstelling, waar overheen moet worden overvlogen, ligt op 2500 meter van het startpunt van het MLA, de MLH of het gemotoriseerd schermvliegtuig in het verlengde van de startrichting. De vliegsnelheid die wordt gehanteerd komt overeen met de beste stijgsnelheid van het MLA, de MLH of het gemotoriseerd schermvliegtuig, terwijl motorvermogen en toerental maximaal zijn. Voor een goede meting moet bij het overvliegen van de meetopstelling de vlieghoogte tussen de 75 en 150 meter liggen. Een en ander conform figuur 1.   ![44661](http://wetten.overheid.nl/Illustration/44661)
+Achteraf wordt aan de hand van gegevens uit het handboek van het MLA de geluidproductie berekend bij een normale start en een normale stijgprocedure. De rekenhoogte mag niet meer bedragen dan 450 meter. De in figuur 2 aangegeven afwijkingen van de vliegbaan zijn toelaatbaar.   ![44662](http://wetten.overheid.nl/Illustration/44662)
 Foto's als bedoeld in bijlage 2 moeten bij de geluidmeting aanwezig zijn. 
 
 ### Bijlage  2  
 
-####bedoeld in artikel 3, tweede lid, onder g 
+####bedoeld in artikel 2, tweede lid, onder e 
 
+![250653](http://wetten.overheid.nl/Illustration/250653)
+![250654](http://wetten.overheid.nl/Illustration/250654)
+![250655](http://wetten.overheid.nl/Illustration/250655)
+![250656](http://wetten.overheid.nl/Illustration/250656)
+![250657](http://wetten.overheid.nl/Illustration/250657)
+![250658](http://wetten.overheid.nl/Illustration/250658)
 ![250659](http://wetten.overheid.nl/Illustration/250659)
-![250659](http://wetten.overheid.nl/Illustration/250659)
-![250659](http://wetten.overheid.nl/Illustration/250659)
-![250659](http://wetten.overheid.nl/Illustration/250659)
-![250659](http://wetten.overheid.nl/Illustration/250659)
-![250659](http://wetten.overheid.nl/Illustration/250659)
-![250659](http://wetten.overheid.nl/Illustration/250659)
-*Toelichting op de voorgeschreven foto's.*  De eerste foto is van het gehele (opgebouwde) toestel, het op het MLA aangebrachte kenmerk moet duidelijk te zien zijn. De tweede foto is van de propeller; de foto is gemaakt van recht voor of recht achter (al naar gelang een trek- of duwschroef) het MLA, in het verlengde van de lengteas. De derde foto is van het inlaatsysteem, waarbij de aanwezige cowlings geheel zijn verwijderd; hierop moet de carburateur dan wel één van de carburateurs en het eventueel aanwezige inlaatfilter te zien zijn. De vierde foto is van het uitlaatsysteem, waarbij de aanwezige cowlings geheel zijn verwijderd; de uitlaatdemper met eventuele nademper en uitlaatpijp dienen op de foto duidelijk zichtbaar te zijn. Op alle foto's worden de datum waarop de foto is gemaakt en het kenmerk mee gefotografeerd. De foto's worden gemaakt van zo dicht bij het desbetreffende MLA als mogelijk is. 
+
+####Toelichting op de voorgeschreven foto’s
+
+De eerste foto is van het gehele (opgebouwde) toestel; het op het MLA, MLH en het gemotoriseerd schermvliegtuig aangebrachte kenmerk moet duidelijk te zien zijn. De tweede foto is van de propeller; de foto is gemaakt van recht voor of recht achter (al naar gelang een trek- of duwschroef) het MLA, de MLH of het gemotoriseerd schermvliegtuig, in het verlengde van de lengteas. De derde foto is van het inlaatsysteem, waarbij de aanwezige cowlings geheel zijn verwijderd; hierop moet de carburateur dan wel één van de carburateurs en het eventueel aanwezige inlaatfilter te zien zijn. De vierde foto is van het uitlaatsysteem, waarbij de aanwezige cowlings geheel zijn verwijderd; de uitlaatdemper met eventuele nademper en uitlaatpijp dienen op de foto duidelijk zichtbaar te zijn. Op alle foto’s worden de datum waarop de foto is gemaakt en het kenmerk mee gefotografeerd. De foto’s worden gemaakt van zo dicht bij het desbetreffende MLA, de desbetreffende MLH en gemotoriseerd schermvliegtuig als mogelijk is.  
 
 ### Bijlage  3  
 
-####bedoeld in artikel 3, derde lid 
+####bedoeld in artikel 2, vierde lid 
 
-![44670](http://wetten.overheid.nl/Illustration/44670)
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+|  *SPECIAL CERTIFICATE OF AIRWORTHINESS*   |
+| --- | --- | --- |
+| --- | Human Environment and Transport Inspectorate  Civil Aviation Authority Netherlands  | --- |
+| --- | --- | --- |
+| --- | Correspondence address:  P.O. Box 575, 2130 AN Hoofddorp, The Netherlands  |  *Registration number: ...*    *ICAO aircraft designator: ...*   |
+|  *1. Nat. & registration marks:*    *P H – ...*   |  *2. Manufacturer and manufacturer's designation of aircraft:*   ..............................  |  *3. Aircraft serial number:*   ...  |
+|  *4. Categories:*   |
+| 5. This Special Certificate of Airworthiness is issued pursuant to the Netherlands Act on Aviation for aircraft excluded from the European Regulation (EC) No 216/2008 and also do not comply with the airworthiness requirements of ICAO. The abovementioned aircraft is considered to be airworthy when maintained and operated in accordance with the foregoing and the pertinent operating limitations.  |
+| --- |
+| *Date of issue:*....................  |  *Signature:*   The State Secretary for Infrastructure and the Environment,  On behalf,  |
+| --- | --- |
+| --- | --- |
+| --- | --- |
+| --- | --- |
+| --- | --- |
+| --- | --- |
+|  *Limitations / Remarks:*   | --- |
+| 6. This Special Certificate of Airworthiness is valid up to and including ......, unless revoked.  |
+| --- |
+| --- |
+|  *This certificate shall be carried on board during all flights*   | Document Number: ......  |
 
 ### Bijlage  4  
 
