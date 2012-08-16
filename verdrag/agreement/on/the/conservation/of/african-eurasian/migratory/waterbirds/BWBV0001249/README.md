@@ -10,20 +10,20 @@ The Contracting Parties, Recalling that the Convention on the Conservation of Mi
 
 ####Scope, Definitions and Interpretation
 
-1.  The geographic scope of this Agreement is the area of the migration systems of African-Eurasian waterbirds, as defined in Annex 1 to this Agreement, hereafter referred to as the “Agreement Area".   
+1.  The geographic scope of this Agreement is the area of the migration systems of African-Eurasian waterbirds, as defined in Annex 1 to this Agreement, hereafter referred to as the “Agreement Area”.   
 2.  For the purpose of this Agreement: 
 
-a) “Convention" means the Convention on the Conservation of Migratory Species of Wild Animals, 1979;  
+a) “Convention” means the Convention on the Conservation of Migratory Species of Wild Animals, 1979;  
 
-b) “Convention Secretariat" means the body established under Article IX of the Convention;  
+b) “Convention Secretariat” means the body established under Article IX of the Convention;  
 
-c) “Waterbirds" means those species of birds that are ecologically dependent on wetlands for at least part of their annual cycle, have a range which lies entirely or partly within the Agreement Area and are listed in Annex 2 to this Agreement;  
+c) “Waterbirds” means those species of birds that are ecologically dependent on wetlands for at least part of their annual cycle, have a range which lies entirely or partly within the Agreement Area and are listed in Annex 2 to this Agreement;  
 
-d) “Agreement secretariat" means the body established under Article VI, paragraph 7, subparagraph b), of this Agreement;  
+d) “Agreement secretariat” means the body established under Article VI, paragraph 7, subparagraph b), of this Agreement;  
 
-e) “Parties" means, unless the context otherwise indicates, Parties to this Agreement; and  
+e) “Parties” means, unless the context otherwise indicates, Parties to this Agreement; and  
 
-f) “Parties present and voting" means the Parties present and casting an affirmative or negative vote; those abstaining from voting shall not be counted amongst the Parties present and voting.   In addition, the terms defined in Article I, subparagraphs 1(a) to (k), of the Convention shall have the same meaning, *mutatis mutandis,* in this Agreement.   
+f) “Parties present and voting” means the Parties present and casting an affirmative or negative vote; those abstaining from voting shall not be counted amongst the Parties present and voting.   In addition, the terms defined in Article I, subparagraphs 1(a) to (k), of the Convention shall have the same meaning, *mutatis mutandis,* in this Agreement.   
 3.  This Agreement is an AGREEMENT within the meaning of Article IV, paragraph 3, of the Convention.   
 4.  The annexes to this Agreement form an integral part thereof. Any reference to the Agreement includes a reference to its annexes.   
 
@@ -311,7 +311,7 @@ The boundary of the Agreement area is defined as follows: from the North Pole so
 
 ####Map of the Agreement Area
 
-![10000022016](http://wetten.overheid.nl/Illustration/10000022016)
+![]()
 
 ### Annex  2  
 
@@ -320,7 +320,7 @@ The boundary of the Agreement area is defined as follows: from the North Pole so
 <sup> 1)  As adopted at the fourth session of the Meeting of the Parties, which took place from 15–19 September 2008, Antananarivo, Madagascar  </sup>    
 
 | --- | --- |
-|:---|:---|
+|---|---|
 |  *SPHENISCIDAE*   | --- |
 | --- | --- |
 |  *Spheniscus demersus*   | African Penguin  |
@@ -418,7 +418,7 @@ The boundary of the Agreement area is defined as follows: from the North Pole so
 |  *PHOENICOPTERIDAE*   | --- |
 | --- | --- |
 |  *Phoenicopterus ruber*   | Greater Flamingo  |
-|  *Phoenicopterus minor*   | Lesser Flamingo  |
+|  *Phoeniconaias minor*   | Lesser Flamingo  |
 | --- | --- |
 |  *ANATIDAE*   | --- |
 | --- | --- |
@@ -577,8 +577,8 @@ The boundary of the Agreement area is defined as follows: from the North Pole so
 |  *Tringa nebularia*   | Common Greenshank  |
 |  *Tringa ochropus*   | Green Sandpiper  |
 |  *Tringa glareola*   | Wood Sandpiper  |
-|  *Tringa cinerea*   | Terek Sandpiper  |
-|  *Tringa hypoleucos*   | Common Sandpiper  |
+|  *Xenus cinereus*   | Terek Sandpiper  |
+|  *Actitis hypoleucos*   | Common Sandpiper  |
 |  *Arenaria interpres*   | Ruddy Turnstone  |
 |  *Calidris tenuirostris*   | Great Knot  |
 |  *Calidris canutus*   | Red Knot  |
@@ -680,35 +680,69 @@ The boundary of the Agreement area is defined as follows: from the North Pole so
 
 2.1  *Legal measures*  
 
-2.1.1 Parties with populations listed in column A of Table 1 shall provide protection to those populations listed in accordance with Article III, paragraph 2(a), of this Agreement. Such Parties shall in particular and subject to paragraph 2.1.3 below: 
+2.1.1 Parties with populations listed in Column A of Table 1 shall provide protection to those populations listed in accordance with Article III, paragraph 2(a), of this Agreement. Such Parties shall in particular and subject to paragraph 2.1.3 below: 
 
 a) prohibit the taking of birds and eggs of those populations occurring in their territory;  
 
 b) prohibit deliberate disturbance in so far as such disturbance would be significant for the conservation of the population concerned; and  
 
-c) prohibit the possession or utilization of, and trade in, birds or eggs of those populations which have been taken in contravention of the prohibitions laid down pursuant to subparagraph (a) above, as well as the possession or utilization of, and trade in, any readily recognizable parts or derivatives of such birds and their eggs.   By way of exception for those populations listed in Categories 2 and 3 in Column A only and which are marked by an asterisk, hunting may continue on a sustainable use basis where hunting of such populations is a long-established cultural practice. This sustainable use shall be conducted within the framework of special provisions of a species action plan at the appropriate international level.  
+c) prohibit the possession or utilisation of, and trade in, birds or eggs of those populations which have been taken in contravention of the prohibitions laid down pursuant to subparagraph (a) above, as well as the possession or utilisation of, and trade in, any readily recognizable parts or derivatives of such birds and their eggs.   By way of exception for those populations listed in Categories 2 and 3 in Column A and which are marked by an asterisk, and those populations listed in Category 4 in Column A, hunting may continue on a sustainable use basis . This sustainable use shall be conducted within the framework of an international species action plan, through which Parties will endeavour to implement the principles of adaptive harvest management. Such use shall, as a minimum, be subject to the same legal measures as the taking of birds from populations listed in Column B of Table 1, as required in paragraph 2.1.2 below. <sup> 1)  “Sustainable use” means the use of components of biological diversity in a way and at a rate that does not lead to the long-term decline of biological diversity, thereby maintaining its potential to meet the needs and aspirations of present and future generations.  </sup> <sup> 2)  Adaptive Harvest Management is the periodic process of setting hunting regulations based on a system of population and habitat monitoring, harvest level recording, data analysis and defining regulatory options.  </sup>  
 
-2.1.2 Parties with populations listed in Table 1 shall regulate the taking of birds and eggs of all populations listed in column B of Table 1. The object of such legal measures shall be to maintain or contribute to the restoration of those populations to a favourable conservation status and to ensure, on the basis of the best available knowledge of population dynamics, that any taking or other use is sustainable. Such legal measures, subject to paragraph 2.1.3 below, shall in particular: 
+2.1.2 Parties with populations listed in Table 1 shall regulate the taking of birds and eggs of all populations listed in Column B of Table 1. The object of such legal measures shall be to maintain or contribute to the restoration of those populations to a favourable conservation status and to ensure, on the basis of the best available knowledge of population dynamics, that any taking or other use is sustainable. Such legal measures, subject to paragraph 2.1.3 below, shall in particular: 
 
 a) prohibit the taking of birds belonging to the populations concerned during their various stages of reproduction and rearing and during their return to their breeding grounds if the taking has an unfavourable impact on the conservation status of the population concerned;  
 
-b) regulate the modes of taking;  
+b) regulate the modes of taking, and in particular prohibit the use of all indiscriminate means of taking and the use of all means capable of causing mass destructions, as well as local disappearance of, or serious disturbance to, populations of a species, including: 
+
+– snares,  
+
+– limes,  
+
+– hooks,  
+
+– live birds which are blind or mutilated used as decoys,  
+
+– tape recorders and other electronic devices,  
+
+– electrocuting devices,  
+
+– artificial light sources,  
+
+– mirrors and other dazzling devices,  
+
+– devices for illuminating targets,  
+
+– sighting devices for night shooting comprising an electronic image magnifier or image converter,  
+
+– explosives,  
+
+– nets,  
+
+– traps,  
+
+– poison,  
+
+– poisoned or anaesthetic baits,  
+
+– semi-automatic or automatic weapons with a magazine capable of holding more than two rounds of ammunition,  
+
+– hunting from aircraft, motor vehicles, or boats driven at a speed exceeding 5km p/h (18km p/h on the open sea).   Parties may grant exemptions from the prohibitions laid down in paragraph 2.1.2 (b) to accommodate use for livelihood purposes, where sustainable;  
 
 c) establish limits on taking, where appropriate, and provide adequate controls to ensure that these limits are observed; and  
 
-d) prohibit the possession or utilization of, and trade in, birds and eggs of the populations which have been taken in contravention of any prohibition laid down pursuant to the provisions of this paragraph, as well as the possession or utilization of, and trade in, any readily recognizable parts or derivatives of such birds and their eggs.    
+d) prohibit the possession or utilisation of, and trade in, birds and eggs of the populations which have been taken in contravention of any prohibition laid down pursuant to the provisions of this paragraph, as well as the possession or utilization of, and trade in, any readily recognizable parts or derivatives of such birds and their eggs.    
 
 2.1.3 Parties may grant exemptions to the prohibitions laid down in paragraphs 2.1.1 and 2.1.2, irrespective of the provisions of Article III, paragraph 5, of the Convention, where there is no other satisfactory solution, for the following purposes: 
 
 a) to prevent serious damage to crops, water and fisheries;  
 
-b) in the interests of air safety or other overriding public interests;  
+b) in the interests of air safety, public health and public safety, or for other imperative reasons of overriding public interest, including those of a social or economic nature and beneficial consequences of primary importance to the environment;  
 
 c) for the purpose of research and education, of re-establishment and for the breeding necessary for these purposes;  
 
 d) to permit under strictly supervised conditions, on a selective basis and to a limited extent, the taking and keeping or other judicious use of certain birds in small numbers; and  
 
-e) for the purpose of enhancing the propagation or survival of the populations concerned. Such exemptions shall be precise as to content and limited in space and time and shall not operate to the detriment of the populations listed in Table 1. Parties shall as soon as possible inform the Agreement secretariat of any exemptions granted pursuant to this provision.      
+e) for the purpose of enhancing the propagation or survival of the populations concerned.   Such exemptions shall be precise as to content and limited in space and time and shall not operate to the detriment of the populations listed in Table 1. Parties shall, as soon as possible, inform the Agreement secretariat of any exemptions granted pursuant to this provision.    
 
 2.2  *Single Species Action Plans*  
 
@@ -722,9 +756,9 @@ e) for the purpose of enhancing the propagation or survival of the populations c
 
 2.5  *Introductions*  
 
-2.5.1 Parties shall, if they consider it necessary, prohibit the introduction of non-native species of animals and plants which may be detrimental to the populations listed in Table 1.  
+2.5.1 Parties shall prohibit the introduction into the environment of non-native species of animals and plants which may be detrimental to the populations listed in Table 1.  
 
-2.5.2 Parties shall, if they consider it necessary, require the taking of appropriate precautions to avoid the accidental escape of captive birds belonging to non-native species.  
+2.5.2 Parties shall require the taking of appropriate precautions to avoid the accidental escape of captive animals belonging to non-native species, which may be detrimental to the populations listed in Table 1.  
 
 2.5.3 Parties shall take measures to the extent feasible and appropriate, including taking, to ensure that when non-native species or hybrids thereof have already been introduced into their territory, those species or their hybrids do not pose a potential hazard to the populations listed in Table 1.      
 
@@ -752,7 +786,7 @@ b) prepare and distribute information materials, in the appropriate languages, d
 
 3.2.4 Parties shall endeavour to develop strategies, according to an ecosystem approach, for the conservation of the habitats of all populations listed in Table 1, including the habitats of those populations that are dispersed.    
 
-3.3  *Rehabilitation and Restoration*  Parties shall endeavour to rehabilitate or restore, where feasible and appropriate, areas which were previously important for the populations listed in Table 1.    
+3.3  *Rehabilitation and Restoration*  Parties shall endeavour to rehabilitate or restore, where feasible and appropriate, areas which were previously important for the populations listed in Table 1, including areas that suffer degradation as a result of the impacts of factors such as climate change, hydrological change, agriculture, spread of aquatic invasive non-native species, natural succession, uncontrolled fires, unsustainable use, eutrophication and pollution.    
 
 ### 4  
 
@@ -764,7 +798,7 @@ b) prepare and distribute information materials, in the appropriate languages, d
 
 4.1.2 The Agreement secretariat shall be kept informed by the Parties of their legislation relating to the hunting of populations listed in Table 1.  
 
-4.1.3 Parties shall cooperate with a view to developing a reliable and harmonized system for the collection of harvest data in order to assess the annual harvest of populations listed in Table 1. They shall provide the Agreement secretariat with estimates of the total annual take for each population, when available.  
+4.1.3 Parties shall cooperate with a view to developing a reliable and harmonised system for the collection of harvest data in order to assess the annual harvest of populations listed in Table 1. They shall provide the Agreement secretariat with estimates of the total annual take for each population, when available.  
 
 4.1.4 Parties shall endeavour to phase out the use of lead shot for hunting in wetlands as soon as possible in accordance with self-imposed and published timetables.  
 
@@ -772,7 +806,7 @@ b) prepare and distribute information materials, in the appropriate languages, d
 
 4.1.6 Parties shall develop and implement measures to reduce, and as far as possible eliminate, illegal taking.  
 
-4.1.7 Where appropriate, Parties shall encourage hunters, at local, national and international levels, to form clubs or organizations to coordinate their activities and to help ensure sustainability.  
+4.1.7 Where appropriate, Parties shall encourage hunters, at local, national and international levels, to form clubs or organisations to coordinate their activities and to help ensure sustainability.  
 
 4.1.8 Parties shall, where appropriate, promote the requirement of a proficiency test for hunters, including among other things, bird identification.    
 
@@ -790,21 +824,23 @@ b) prepare and distribute information materials, in the appropriate languages, d
 
 4.3.3 Parties shall cooperate with a view to identifying appropriate techniques to minimize damage, or to mitigate the effects of damage, in particular to crops and to fisheries, caused by populations listed in Table 1, drawing on the experience gained elsewhere in the world.  
 
-4.3.4 Parties shall cooperate with a view to developing single species action plans for populations which cause significant damage, in particular to crops and to fisheries. The Agreement secretariat shall coordinate the development and harmonization of such plans.  
+4.3.4 Parties shall cooperate with a view to developing single species management plans for populations which cause significant damage, in particular to crops and to fisheries. The Agreement secretariat shall coordinate the development and harmonization of such plans.  
 
 4.3.5 Parties shall, as far as possible, promote high environmental standards in the planning and construction of structures to minimize their impact on populations listed in Table 1. They should consider steps to minimize the impact of structures already in existence where it becomes evident that they constitute a negative impact for the populations concerned.  
 
 4.3.6 In cases where human disturbance threatens the conservation status of waterbird populations listed in Table 1, Parties should endeavour to take measures to limit the level of threat. Special attention should be given to problem of human disturbance at breeding colonies of colonially-nesting waterbirds, especially when they are situated in the areas which are popular for outdoor recreation. Appropriate measures might include, *inter alia*, the establishment of disturbance-free zones in protected areas where public access is not permitted.  
 
-4.3.7. Parties are urged to take appropriate actions nationally or through the framework of Regional Fisheries Management Organisations (RFMOs) and relevant international organisations to minimise the impact of fisheries on migratory waterbirds, and where possible cooperate within these forums, in order to decrease the mortality in areas within and beyond national jurisdiction; appropriate measures shall especially address incidental killing and bycatch in fishing gear including the use of gill nets, longlines and trawling. <sup> 2)  “fisheries” includes aquaculture and refers to either marine or freshwater fish, crustaceans, and molluscs (e.g. bivalves, gastropods and cephalopods).  </sup>  
+4.3.7 Parties are urged to take appropriate actions nationally or through the framework of Regional Fisheries Management Organisations (RFMOs) and relevant international organisations to minimise the impact of fisheries on migratory waterbirds, and where possible cooperate within these forums, in order to decrease the mortality in areas within and beyond national jurisdiction; appropriate measures shall especially address incidental killing and bycatch in fishing gear including the use of gill nets, longlines and trawling. <sup> 2)  “fisheries” includes aquaculture and refers to either marine or freshwater fish, crustaceans, and molluscs (e.g. bivalves, gastropods and cephalopods).  </sup>  
 
-4.3.8. Parties are also urged to take appropriate actions nationally or through the framework of Regional Fisheries Management Organisations (RFMOs) and relevant international organisations to minimise the impact of fisheries on migratory waterbirds resulting in particular from unsustainable fishing that causes depletion of food resources for migratory waterbirds.  
+4.3.8 Parties are also urged to take appropriate actions nationally or through the framework of Regional Fisheries Management Organisations (RFMOs) and relevant international organisations to minimise the impact of fisheries on migratory waterbirds resulting in particular from unsustainable fishing that causes depletion of food resources for migratory waterbirds.  
 
-4.3.9. Parties shall establish and effectively enforce adequate statutory pollution controls in accordance with international norms and legal agreements, particularly as related to oil spills, discharge and dumping of solid wastes, for the purpose of minimizing their impacts on the populations listed in Table 1.  
+4.3.9 Parties shall establish and effectively enforce adequate statutory pollution controls in accordance with international norms and legal agreements, particularly as related to oil spills, discharge and dumping of solid wastes, for the purpose of minimizing their impacts on the populations listed in Table 1.  
 
-4.3.10. Parties shall establish appropriate measures, ideally to eliminate or otherwise to mitigate the threat from non-native terrestrial predators to breeding migratory waterbirds on islands and islets. Measures should refer to contingency planning to prevent invasion, emergency responses to remove introduced predators, and restoration programmes for islands where predator populations are already established.  
+4.3.10 Parties shall establish appropriate measures, ideally to eliminate or otherwise to mitigate the threat from non-native terrestrial predators to breeding migratory waterbirds on islands and islets. Measures should refer to contingency planning to prevent invasion, emergency responses to remove introduced predators, and restoration programmes for islands where predator populations are already established.  
 
-4.3.11. Parties are urged to establish appropriate measures to tackle threats to migratory waterbirds from aquaculture, including environmental assessment for developments that threaten wetlands of importance for waterbirds, especially when dealing with new or enlargement of existing installations, and involving issues such as pollution (e.g. from residues of pharmaceutical treatments used in aquaculture or eutrophication), habitat loss, entanglement risks, and introduction of non-native and potentially invasive species.”      
+4.3.11 Parties are urged to establish appropriate measures to tackle threats to migratory waterbirds from aquaculture, including environmental assessment for developments that threaten wetlands of importance for waterbirds, especially when dealing with new or enlargement of existing installations, and involving issues such as pollution (e.g. from residues of pharmaceutical treatments used in aquaculture or eutrophication), habitat loss, entanglement risks, and introduction of non-native and potentially invasive species.”  
+
+4.3.12 Parties, the Agreement secretariat and the Technical Committee will, as appropriate, work together to provide further documentation on the nature and scale of the effects of lead fishing weights on waterbirds and to consider that documentation, noting that lead in general poses a threat to the environment with harmful effects on waterbirds. Parties will, as appropriate, seek alternatives to lead fishing weights, taking into consideration the impact on waterbirds and water quality.      
 
 ### 5  
 
@@ -893,65 +929,60 @@ g) the status of introduced non-native waterbird species and hybrids thereof.
 <sup> 1)  Table 1, “Status of the populations of migratory waterbirds” forms part of the Action Plan contained in Annex 3 to the Agreement.  </sup>   
 ###Key to classification
 
-The following key to Table 1 is a basis for implementation of the Action Plan:  
+The following key to Table 1 is a basis for implementation of the Action Plan: 
+###Column A
 
-| --- | --- |
-|:---|:---|
-|  *Column A*   |
-| --- | --- |
-| Category 1:  | (a) Species which are included in Appendix I to the Convention on the Conservation of Migratory species of Wild Animals;  |
-| --- | (b) Species which are listed as threatened on the IUCN Red list of Threatened Species, as reported in the most recent summary by BirdLife International; or  |
-| --- | (c) Populations, which number less than around 10,000 individuals.  |
-| --- | --- |
-| Category 2:  | Populations numbering between around 10,000 and around 25,000 individuals.  |
-| --- | --- |
-| Category 3:  | Populations numbering between around 25,000 and around 100,000 individuals and considered to be at risk as a result of:  |
-| --- | (a) Concentration onto a small number of sites at any stage of their annual cycle;  |
-| --- | (b) Dependence on a habitat type, which is under severe threat;  |
-| --- | (c) Showing significant long-term decline; or  |
-| --- | (d) Showing extreme fluctuations in population size or trend.  |
-| --- | --- |
+Category 1: 
 
-For species listed in categories 2 and 3 above, see paragraph 2.1.1 of the Action Plan contained in Annex 3 to the Agreement.  
+a) Species, which are included in Appendix I to the Convention on the Conservation of Migratory species of Wild Animals;  
 
-| --- | --- |
-|:---|:---|
-|  *Column B*   |
-| --- | --- |
-| Category 1:  | Populations numbering between around 25,000 and around 100,000 individuals and which do not fulfil the conditions in respect of column A, as described above.  |
-| --- | --- |
-| Category 2:  | Populations numbering more than around 100,000 individuals and considered to be in need of special attention as a result of:  |
-| --- | (a) Concentration onto a small number of sites at any stage of their annual cycle;  |
-| --- | (b) Dependence on a habitat type, which is under severe threat;  |
-| --- | (c) Showing significant long-term decline; or  |
-| --- | (d) Showing extreme fluctuations in population size or trend.  |
-| --- | --- |
-|  *Column C*   |
-| --- | --- |
-| Category 1:  | Populations numbering more than around 100,000 individuals which could significantly benefit from international cooperation and which do not fulfil the conditions in respect of either column A or column B, above.  |
+b) Species, which are listed as threatened on the IUCN Red List of Threatened Species, as reported in the most recent summary by BirdLife International; or  
 
-### *Review of table 1* 
+c) Populations, which number less than around 10,000 individuals.   Category 2: Populations numbering between around 10,000 and around 25,000 individuals. Category 3: Populations numbering between around 25,000 and around 100,000 individuals and considered to be at risk as a result of: 
+
+a) Concentration onto a small number of sites at any stage of their annual cycle;  
+
+b) Dependence on a habitat type, which is under severe threat;  
+
+c) Showing significant long-term decline; or  
+
+d) Showing large fluctuations in population size or trend.   Category 4: Species, which are listed as Near Threatened on the IUCN Red List of Threatened species, as reported in the most recent summary by BirdLife International, but do not fulfil the conditions in respect of Category 1, 2 or 3, as described above, and which are pertinent for international action. For species listed in Categories 2, 3 and 4 above, see paragraph 2.1.1 of the Action Plan contained in Annex 3 to the Agreement. 
+###Column B
+
+Category 1: Populations numbering between around 25,000 and around 100,000 individuals and which do not fulfil the conditions in respect of Column A, as described above. Category 2: Populations numbering more than around 100,000 individuals and considered to be in need of special attention as a result of: 
+
+a) Concentration onto a small number of sites at any stage of their annual cycle;  
+
+b) Dependence on a habitat type, which is under severe threat;  
+
+c) Showing significant long-term decline; or  
+
+d) Showing large fluctuations in population size or trend.   
+###Column C
+
+Category 1: Populations numbering more than around 100,000 individuals which could significantly benefit from international cooperation and which do not fulfil the conditions in respect of either Column A or Column B, above. 
+###Review of Table 1
 
 The Table shall be: 
 
-(a) Reviewed regularly by the Technical Committee in accordance with article VII, paragraph 3(b), of the Agreement; and  
+a) Reviewed regularly by the Technical Committee in accordance with article VII, paragraph 3(b), of the Agreement; and  
 
-(b) Amended as necessary by the Meeting of the Parties, in accordance with article VI, paragraph 9(d) of the Agreement, in light of the conclusions of such reviews.   
-### *Definition of geographical terms used in range descriptions* 
+b) Amended as necessary by the Meeting of the Parties, in accordance with article VI, paragraph 9(d) of the Agreement, in light of the conclusions of such reviews.   
+###Definition of geographical terms used in range descriptions
 
-<sup> 2)  These definitions do not follow any geo-political or economic regionalisation; they are based on the ranges and biogeographical delineation of waterbird populations. Therefore, certain countries may appear in more than one definition.  </sup>  
+Note that waterbird ranges respect biological, not political, boundaries and that precise alignment of biological and political entities is extremely unusual. The range descriptions used have no political significance and are for general guidance only, and for concise, mapped summaries of waterbird ranges, practitioners should consult the Critical Site Network Tool internet portal: http://wow.wetlands.org/informationflyway/criticalsitenetworktool/tabid/1349/language/en-US/Default.aspx  
 
 | --- | --- |
-|:---|:---|
-| North Africa  | Algeria, Egypt, the Libyan Arab Jamahiriya, Morocco, Tunisia.  |
+|---|---|
+| North Africa  | Algeria, Egypt, Libya, Morocco, Tunisia.  |
 | --- | --- |
 | West Africa  | Benin, Burkina Faso, Cameroon, Cape Verde, Chad, Côte d’Ivoire, the Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Mauritania, Niger, Nigeria, Senegal, Sierra Leone, Togo.  |
 | --- | --- |
-| Eastern Africa  | Burundi, Djibouti, Eritrea, Ethiopia, Kenya, Rwanda, Somalia, Sudan, Uganda, the United Republic of Tanzania.  |
+| Eastern Africa  | Burundi, Djibouti, Eritrea, Ethiopia, Kenya, Rwanda, Somalia, South Sudan, Sudan, Uganda, the United Republic of Tanzania.  |
 | --- | --- |
 | North-west Africa  | Morocco, Algeria and Tunisia.  |
 | --- | --- |
-| North-east Africa  | Djibouti, Egypt, Eritrea, Ethiopia, Somalia, Sudan.  |
+| North-east Africa  | Djibouti, Egypt, Eritrea, Ethiopia, Somalia, South Sudan, Sudan.  |
 | --- | --- |
 | Southern Africa  | Angola, Botswana, Lesotho, Malawi, Mozambique, Namibia, South Africa, Swaziland, Zambia, Zimbabwe.  |
 | --- | --- |
@@ -975,9 +1006,11 @@ The Table shall be:
 | --- | --- |
 | Central Europe  | Austria, the Czech Republic, Estonia, Germany, Hungary, Latvia, Liechtenstein, Lithuania, Poland, the Russian Federation around the Gulf of Finland and Kaliningrad, Slovakia, Switzerland.  |
 | --- | --- |
-| South-west Europe  | France, Italy, Malta, Monaco, Portugal, San Marino, Spain  |
+| South-west Europe  | Mediterranean France, Italy, Malta, Monaco, Portugal, San Marino, Spain.  |
 | --- | --- |
-| South-east Europe  | Albania, Armenia, Bosnia & Herzegovina, Bulgaria, Croatia, Cyprus, Georgia, Greece, FYR Macedonia, Moldova, Montenegro, Romania, Serbia, Slovenia and Turkey.  |
+| South-east Europe  | Albania, Armenia, Bosnia & Herzegovina, Bulgaria, Croatia, Cyprus, Georgia, Greece, Republic of Moldova, Montenegro, Romania, Serbia, Slovenia, The Former Yugoslav Republic of Macedonia and Turkey.  |
+| --- | --- |
+| South Europe  | South-west Europe and South-east Europe, as defined above.  |
 | --- | --- |
 | North Atlantic  | Faroes, Greenland, Iceland, Ireland, Norway, the north-west coast of the Russian Federation, Svalbard, the United Kingdom of Great Britain and Northern Ireland.  |
 | --- | --- |
@@ -987,15 +1020,15 @@ The Table shall be:
 | --- | --- |
 | Central Siberia  | The Russian Federation from the Yenisey River to the eastern boundary of the Taimyr Peninsula and south to the Altai Mountains.  |
 | --- | --- |
-| West Mediterranean  | Algeria, France, Italy, Malta, Monaco, Morocco, Portugal, San Marino, Spain, Tunisia*.*  |
+| West Mediterranean  | Algeria, France, Italy, Malta, Monaco, Morocco, Portugal, San Marino, Spain, Tunisia.  |
 | --- | --- |
-| East Mediterranean  | Albania, Bosnia and Herzegovina, Croatia, Cyprus, Egypt, Greece, Israel, Lebanon, the Libyan Arab Jamahiriya, Montenegro, Serbia, Slovenia, the Syrian Arab Republic, The Former Yugoslav Republic of Macedonia, Turkey.  |
+| East Mediterranean  | Albania, Bosnia and Herzegovina, Croatia, Cyprus, Egypt, Greece, Israel, Lebanon, Libya, Montenegro, Serbia, Slovenia, the Syrian Arab Republic, The former Yugoslav Republic of Macedonia, Turkey.  |
 | --- | --- |
 | Black Sea  | Armenia, Bulgaria, Georgia, Republic of Moldova, Romania, the Russian Federation, Turkey, Ukraine.  |
 | --- | --- |
 | Caspian  | Azerbaijan, Islamic Republic of Iran, Kazakhstan, South-west Russia, Turkmenistan, Uzbekistan.  |
 | --- | --- |
-| South-west Asia  | Bahrain, Islamic Republic of Iran, Iraq, Israel, Jordan, Kazakhstan, Kuwait, Lebanon, Oman, Qatar, Saudi Arabia, the Syrian Arab Republic, eastern Turkey, Turkmenistan, the United Arab Emirates, Uzbekistan, Yemen.  |
+| South-west Asia  | Bahrain, Iraq, Islamic Republic of Iran, Israel, Jordan, Kazakhstan, Kuwait, Lebanon, Oman, Qatar, Saudi Arabia, the Syrian Arab Republic, eastern Turkey, Turkmenistan, the United Arab Emirates, Uzbekistan, Yemen.  |
 | --- | --- |
 | Gulf  | the Persian Gulf, Gulf of Oman and Arabian Sea west to the Gulf of Aden.  |
 | --- | --- |
@@ -1005,35 +1038,33 @@ The Table shall be:
 | --- | --- |
 | Southern Asia  | Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, Sri Lanka.  |
 | --- | --- |
-| Indian Ocean  | Comoros, Madagascar, Mauritius and Seychelles.  |
+| Indian Ocean  | Comoros, Madagascar, Mauritius, Seychelles.  |
 
-### *Key to abbreviations and symbols* 
+###Key to abbreviations and symbols
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | bre:  | breeding  | win:  | wintering  |
 | N:  | Northern  | E:  | Eastern  |
 | S:  | Southern  | W:  | Western  |
 | NE:  | North-eastern  | NW:  | North-western  |
 | SE:  | South-eastern  | SW:  | South-western  |
-| --- | --- | --- | --- |
-| ()  | Population status unknown. Conservation status estimated.  | --- |
-| *  | By way of exception for those populations marked by an asterisk, hunting may continue on a sustainable use basis where hunting of such populations is a long-established cultural practice (see paragraph 2.1.1 of Annex 3 to the Agreement).  |
 
-### *Notes* 
+() Population status unknown. Conservation status estimated. * By way of exception for those populations listed in Categories 2 and 3 in Column A and which are marked by an asterisk, hunting may continue to be conducted on a sustainable use basis. This sustainable use shall be conducted within the framework of special provisions of an international species action plan, which shall seek to implement the principles of adaptive harvest management (see paragraph 2.1.2 of Annex 3 to the Agreement). 
+###Notes
 
 1. The population data used to compile Table 1 as far as possible correspond to the number of individuals in the potential breeding stock in the Agreement area. The status is based on the best available published population estimates.  
 
 2. Suffixes (bre) or (win) in population listings are solely aids to population identification. They do not indicate seasonal restrictions to actions in respect of these populations under the Agreement and Action Plan.  
 
-3. The brief descriptions used to identify the populations are based on the descriptions used in the fourth edition of *Waterbird Population Estimates* and *the Handbook of the Birds of the World*.  
+3. The brief descriptions used to identify the populations are based on the descriptions used in the most recently published edition of *Waterbird Population Estimates*.  
 
 4. Slash signs (/) are used to separate breeding areas from wintering areas.  
 
-5. Where a species’ population is listed in Table 1 with multiple categorisations, the obligations of the Action Plan relate to the strictest category listed.    
+5. Where a species’ population is listed in Table 1 with multiple categorisation, the obligations of the Action Plan relate to the strictest category listed.    
 
 |--- |  *A*   |  *B*   |  *C*   |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | --- | --- | --- | --- |
 |  *SPHENISCIDAE*   | --- | --- | --- |
 |  *Spheniscus demersus*   | --- | --- | --- |
@@ -1042,7 +1073,7 @@ The Table shall be:
 |  *GAVIIDAE*   | --- | --- | --- |
 |  *Gavia stellata*   | --- | --- | --- |
 | – North-west Europe (win)  | --- | 2c  | --- |
-| – Caspian, Black Sea & East Mediterranean (win)  | --- | (1)  | --- |
+| – Caspian, Black Sea & East Mediterranean (win)  | 1c  | --- | --- |
 |  *Gavia arctica arctica*   | --- | --- | --- |
 | – Northern Europe & Western Siberia/Europe  | --- | 2c  | --- |
 |  *Gavia arctica suschkini*   | --- | --- | --- |
@@ -1077,14 +1108,14 @@ The Table shall be:
 | – Southern Africa  | 2  | --- | --- |
 | --- | --- | --- | --- |
 |  *PHAETHONTIDAE*   | --- | --- | --- |
-|  *Phaethon aetheras aetheras*   | --- | --- | --- |
-| – South Atlantic  | 1c  | --- | --- |
-|  *Phaethon aetheras indicus*   | --- | --- | --- |
+|  *Phaethon aetherus aetherus*   | --- | --- | --- |
+| *–* South Atlantic  | 1c  | --- | --- |
+|  *Phaethon aetherus indicus*   | --- | --- | --- |
 | – Persian Gulf, Gulf of Aden, Red Sea  | 1c  | --- | --- |
 |  *Phaethon rubricauda rubricauda*   | --- | --- | --- |
-| – Indian Ocean  | 1c  | --- | --- |
+| – Indian Ocean  | 2  | --- | --- |
 |  *Phaethon lepturus lepturus*   | --- | --- | --- |
-| – Persian Gulf, Gulf of Aden, Red Sea  | 1c  | --- | --- |
+| *-* W Indian Ocean  | 2  | --- | --- |
 | --- | --- | --- | --- |
 |  *PELECANIDAE*   | --- | --- | --- |
 |  *Pelecanus onocrotalus*   | --- | --- | --- |
@@ -1095,15 +1126,15 @@ The Table shall be:
 |  *Pelecanus rufescens*   | --- | --- | --- |
 | – Tropical Africa & SW Arabia  | --- | 1  | --- |
 |  *Pelecanus crispus*   | --- | --- | --- |
-| – Black Sea & Mediterranean (win)  | 1a 1c  | --- | --- |
-| – South-west Asia & South Asia (win)  | 1a 1c  | --- | --- |
+| – Black Sea & Mediterranean (win)  | 1a 1b 1c  | --- | --- |
+| – South-west Asia & South Asia (win)  | 1a 1b 1c  | --- | --- |
 | --- | --- | --- | --- |
 |  *SULIDAE*   | --- | --- | --- |
-|  *Sula (Morus) bassana*   | --- | 2a  | --- |
+|  *Sula (Morus) bassana*   | --- | --- | 1  |
 |  *Sula (Morus) capensis*   | --- | --- | --- |
 | – Southern Africa  | 1b  | 2a 2c  | --- |
 |  *Sula dactylatra melanops*   | --- | --- | --- |
-| *–* W Indian Ocean  | 1c  | --- | --- |
+| – W Indian Ocean  | 2  | --- | --- |
 | --- | --- | --- | --- |
 |  *PHALACROCORACIDAE*   | --- | --- | --- |
 |  *Phalacrocorax coronatus*   | --- | --- | --- |
@@ -1127,13 +1158,13 @@ The Table shall be:
 | – Arabian Coast  | 1b  | 2a 2c  | --- |
 | – Gulf of Aden, Socotra, Arabian Sea  | 1b  | 1  | --- |
 |  *Phalacrocorax capensis*   | --- | --- | --- |
-| – Coastal Southern Africa  | --- | 2a 2c  | --- |
+| – Coastal Southern Africa  | 4  | --- | --- |
 | --- | --- | --- | --- |
 |  *FREGATIDAE*   | --- | --- | --- |
 |  *Fregata minor aldabrensis*   | --- | --- | --- |
-| – W Indian Ocean  | 1c  | --- | --- |
+| – W Indian Ocean  | 2  | --- | --- |
 |  *Fregata ariel iredalei*   | --- | --- | --- |
-| – W Indian Ocean  | 1c  | --- | --- |
+| – W Indian Ocean  | 2  | --- | --- |
 | --- | --- | --- | --- |
 |  *ARDEIDAE*   | --- | --- | --- |
 |  *Egretta ardesiaca*   | --- | --- | --- |
@@ -1162,7 +1193,7 @@ The Table shall be:
 |  *Ardea purpurea purpurea*   | --- | --- | --- |
 | – Tropical Africa  | --- | 1  | --- |
 | – West Europe & West Mediterranean/West Africa  | 2  | --- | --- |
-| – East Europe & South-west Asia/Sub-Saharan Africa  | --- | (2c)  | --- |
+| – East Europe, Black Sea & Mediterranean/Sub-Saharan Africa  | --- | (2c)  | --- |
 |  *Casmerodius albus albus*   | --- | --- | --- |
 | – W, C & SE Europe/Black Sea & Mediterranean  | --- | 1  | --- |
 | – Western Asia/South-west Asia  | --- | (1)  | --- |
@@ -1192,8 +1223,8 @@ The Table shall be:
 | – C & E Europe/Black Sea & E Mediterranean (bre)  | --- | 2c  | --- |
 | – Western Asia/SW Asia & NE Africa  | --- | (1)  | --- |
 |  *Ixobrychus minutus minutus*   | --- | --- | --- |
-| W Europe, NW Africa/Subsaharan Africa  | 2  | --- | --- |
-| C & E Europe, Black Sea & E Mediterranean/Subsaharan Africa  | --- | 2c  | --- |
+| – W Europe, NW Africa/ Sub-Saharan Africa  | 2  | --- | --- |
+| – C & E Europe, Black Sea & E Mediterranean/Sub-Saharan Africa  | --- | 2c  | --- |
 | – West & South-west Asia/Sub-Saharan Africa  | --- | (1)  | --- |
 |  *Ixobrychus minutus payesii*   | --- | --- | --- |
 | – Sub-Saharan Africa  | --- | (1)  | --- |
@@ -1221,7 +1252,7 @@ The Table shall be:
 | – Sub-Saharan Africa  | --- | (1)  | --- |
 |  *Ciconia ciconia ciconia*   | --- | --- | --- |
 | – Southern Africa  | 1c  | --- | --- |
-| – Iberia & North-west Africa/Sub-Saharan Africa  | 3b  | --- | --- |
+| –W Europe & North-west Africa/Sub-Saharan Africa  | 3b  | --- | --- |
 | – Central & Eastern Europe/Sub-Saharan Africa  | --- | --- | 1  |
 | – Western Asia/South-west Asia  | 2  | --- | --- |
 |  *Leptoptilos crumeniferus*   | --- | --- | --- |
@@ -1229,7 +1260,7 @@ The Table shall be:
 | --- | --- | --- | --- |
 |  *BALAENICIPITIDAE*   | --- | --- | --- |
 |  *Balaeniceps rex*   | --- | --- | --- |
-| – Central Tropical Africa  | 1c  | --- | --- |
+| – Central Tropical Africa  | 1b 1c  | --- | --- |
 | --- | --- | --- | --- |
 |  *THRESKIORNITHIDAE*   | --- | --- | --- |
 |  *Plegadis falcinellus falcinellus*   | --- | --- | --- |
@@ -1247,7 +1278,7 @@ The Table shall be:
 | – Cent. & SE Europe/Mediterranean & Tropical Africa  | 2  | --- | --- |
 |  *Platalea leucorodia archeri*   | --- | --- | --- |
 | – Red Sea & Somalia  | 1c  | --- | --- |
-| Platalea leucorodia balsaci  | --- | --- | --- |
+|  *Platalea leucorodia balsaci*   | --- | --- | --- |
 | – Coastal West Africa (Mauritania)  | 1c  | --- | --- |
 |  *Platalea leucorodia major*   | --- | --- | --- |
 | – Western Asia/South-west & South Asia  | 2  | --- | --- |
@@ -1264,12 +1295,12 @@ The Table shall be:
 | – South-west & South Asia  | --- | 2a  | --- |
 |  *Phoeniconaias minor*   | --- | --- | --- |
 | – West Africa  | 2  | --- | --- |
-| – Eastern Africa  | --- | 2a 2c  | --- |
+| – Eastern Africa  | 4  | --- | --- |
 | – Southern Africa (to Madagascar)  | 3a  | --- | --- |
 | --- | --- | --- | --- |
 |  *ANATIDAE*   | --- | --- | --- |
 |  *Dendrocygna bicolor*   | --- | --- | --- |
-| – West Africa (Senegal to Chad)  | --- | 1  | --- |
+| – West Africa (Senegal to Chad)  | 2  | --- | --- |
 | – Eastern & Southern Africa  | --- | --- | (1)  |
 |  *Dendrocygna viduata*   | --- | --- | --- |
 | – West Africa (Senegal to Chad)  | --- | --- | 1  |
@@ -1300,20 +1331,20 @@ The Table shall be:
 | – East Greenland & Iceland/UK  | --- | 2a  | --- |
 | – Svalbard/North-west Europe  | --- | 1  | --- |
 |  *Anser fabalis fabalis*   | --- | --- | --- |
-| – North-east Europe/North-west Europe  | --- | 1  | --- |
+| – North-east Europe/North-west Europe  | 3c*  | --- | --- |
+| – West & Central Siberia/Turkmenistan to W China  | 1c  | --- | --- |
 |  *Anser fabalis rossicus*   | --- | --- | --- |
 | – West & Central Siberia/NE & SW Europe  | --- | --- | (1)  |
-|  *Anser fabalis johanseni*   | --- | --- | --- |
-| – West & Central Siberia/Turkmenistan to W China  | --- | --- | (1)  |
 |  *Anser albifrons albifrons*   | --- | --- | --- |
 | – NW Siberia & NE Europe/North-west Europe  | --- | --- | 1  |
-| – Western Siberia/Central Europe  | 3c*  | --- | --- |
+| – Western Siberia/Central Europe  | --- | --- | 1  |
 | – Western Siberia/Black Sea & Turkey  | --- | --- | 1  |
 | – Northern Siberia/Caspian & Iraq  | 2  | --- | --- |
 |  *Anser albifrons flavirostris*   | --- | --- | --- |
 | – Greenland/Ireland & UK  | 2*  | --- | --- |
 |  *Anser erythropus*   | --- | --- | --- |
-| – N Europe & W Siberia/Black Sea & Caspian  | 1a 1b 2  | --- | --- |
+| – NE Europe & W Siberia/Black Sea & Caspian  | 1a 1b 2  | --- | --- |
+| – Fennoscandia  | 1a 1b 1c  | --- | --- |
 |  *Anser anser anser*   | --- | --- | --- |
 | – Iceland/UK & Ireland  | --- | 1  | --- |
 | – NW Europe/South-west Europe  | --- | --- | 1  |
@@ -1323,13 +1354,13 @@ The Table shall be:
 | – Western Siberia/Caspian & Iraq  | --- | --- | 1  |
 |  *Branta leucopsis*   | --- | --- | --- |
 | – East Greenland/Scotland & Ireland  | --- | 1  | --- |
-| – Svalbard/South-west Scotland  | --- | 1  | --- |
+| – Svalbard/South-west Scotland  | 3a  | --- | --- |
 | – Russia/Germany & Netherlands  | --- | --- | 1  |
 |  *Branta bernicla bernicla*   | --- | --- | --- |
-| – Western Siberia/Western Europe  | --- | 2b 2c  | --- |
+| – Western Siberia/Western Europe  | --- | 2b  | --- |
 |  *Branta bernicla hrota*   | --- | --- | --- |
 | – Svalbard/Denmark & UK  | 1c  | --- | --- |
-| – Canada & Greenland/Ireland  | 2  | --- | --- |
+| – Canada & Greenland/Ireland  | 3a  | --- | --- |
 |  *Branta ruficollis*   | --- | --- | --- |
 | – Northern Siberia/Black Sea & Caspian  | 1a 1b 3a 3c  | --- | --- |
 |  *Alopochen aegyptiacus*   | --- | --- | --- |
@@ -1340,10 +1371,10 @@ The Table shall be:
 | – East Mediterranean & Black Sea/North-east Africa  | 2  | --- | --- |
 | – Western Asia & Caspian/Iran & Iraq  | --- | 1  | --- |
 |  *Tadorna cana*   | --- | --- | --- |
-| – Southern Africa  | --- | 1  | --- |
+| – Southern Africa  | 3c  | --- | --- |
 |  *Tadorna tadorna*   | --- | --- | --- |
 | – North-west Europe  | --- | 2a  | --- |
-| – Black Sea & Mediterranean  | 3c  | --- | --- |
+| – Black Sea & Mediterranean  | --- | --- | 1  |
 | – Western Asia/Caspian & Middle East  | --- | 1  | --- |
 |  *Plectropterus gambensis gambensis*   | --- | --- | --- |
 | – West Africa  | --- | 1  | --- |
@@ -1357,27 +1388,27 @@ The Table shall be:
 | – West Africa  | 1c  | --- | --- |
 | – Southern & Eastern Africa  | --- | --- | (1)  |
 |  *Anas capensis*   | --- | --- | --- |
-| – Eastern Africa (Rift Valley)<sup></sup>  | 1c  | --- | --- |
+| – Eastern Africa (Rift Valley)  | 1c  | --- | --- |
 | – Lake Chad basin <sup>2</sup>  | 1c  | --- | --- |
 | – Southern Africa (N to Angola & Zambia)  | --- | --- | 1  |
 |  *Anas strepera strepera*   | --- | --- | --- |
 | – North-west Europe  | --- | 1  | --- |
-| – North-east Europe/Black Sea & Mediterranean  | --- | 2c  | --- |
+| – North-east Europe/Black Sea & Mediterranean  | --- | --- | 1  |
 | – Western Siberia/SW Asia & NE Africa  | --- | --- | (1)  |
 |  *Anas penelope*   | --- | --- | --- |
 | – Western Siberia & NE Europe/NW Europe  | --- | --- | 1  |
-| – W Siberia & NE Europe/Black Sea & Mediterranean  | --- | 2c  | --- |
+| – W Siberia & NE Europe/Black Sea & Mediterranean  | --- | --- | 1  |
 | – Western Siberia/SW Asia & NE Africa  | --- | 2c  | --- |
 |  *Anas platyrhynchos platyrhynchos*   | --- | --- | --- |
 | – North-west Europe  | --- | --- | 1  |
 | – Northern Europe/West Mediterranean  | --- | --- | 1  |
-| – Eastern Europe/Black Sea & East Mediterranean  | --- | --- | 1  |
+| – Eastern Europe/Black Sea & East Mediterranean  | --- | 2c  | --- |
 | – Western Siberia/South-west Asia  | --- | --- | (1)  |
 |  *Anas undulata undulata*   | --- | --- | --- |
 | – Southern Africa  | --- | --- | 1  |
 |  *Anas clypeata*   | --- | --- | --- |
 | – North-west & Central Europe (win)  | --- | 1  | --- |
-| – W Siberia, NE & E Europe/S Europe & West Africa  | --- | 2c  | --- |
+| – W Siberia, NE & E Europe/S Europe & West Africa  | --- | --- | 1  |
 | – W Siberia/SW Asia, NE & Eastern Africa  | --- | 2c  | --- |
 |  *Anas erythrorhyncha*   | --- | --- | --- |
 | – Southern Africa  | --- | --- | 1  |
@@ -1385,7 +1416,7 @@ The Table shall be:
 | – Madagascar  | 2  | --- | --- |
 |  *Anas acuta*   | --- | --- | --- |
 | – North-west Europe  | --- | 1  | --- |
-| – W Siberia, NE & E Europe/S Europe & West Africa  | --- | 2c  | --- |
+| – W Siberia, NE & E Europe/S Europe & West Africa  | --- | --- | 1  |
 | – Western Siberia/SW Asia & Eastern Africa  | --- | --- | (1)  |
 |  *Anas querquedula*   | --- | --- | --- |
 | – Western Siberia & Europe/West Africa  | --- | 2c  | --- |
@@ -1409,8 +1440,8 @@ The Table shall be:
 |  *Netta erythrophthalma brunnea*   | --- | --- | --- |
 | – Southern & Eastern Africa  | --- | 1  | --- |
 |  *Aythya ferina*   | --- | --- | --- |
-| – North-east Europe/North-west Europe  | --- | --- | 1  |
-| – Central & NE Europe/Black Sea & Mediterranean  | --- | --- | 1  |
+| – North-east Europe/North-west Europe  | --- | 2c  | --- |
+| – Central & NE Europe/Black Sea & Mediterranean  | --- | 2c  | --- |
 | – Western Siberia/South-west Asia  | --- | 2c  | --- |
 |  *Aythya nyroca*   | --- | --- | --- |
 | – West Mediterranean/North & West Africa  | 1a 1c  | --- | --- |
@@ -1418,10 +1449,10 @@ The Table shall be:
 | – Western Asia/SW Asia & NE Africa  | 1a 3c  | --- | --- |
 |  *Aythya fuligula*   | --- | --- | --- |
 | – North-west Europe (win)  | --- | --- | 1  |
-| – Central Europe, Black Sea & Mediterranean (win)  | --- | --- | 1  |
+| – Central Europe, Black Sea & Mediterranean (win)  | --- | 2c  | --- |
 | – Western Siberia/SW Asia & NE Africa  | --- | --- | (1)  |
 |  *Aythya marila marila*   | --- | --- | --- |
-| – Northern Europe/Western Europe  | --- | --- | 1  |
+| – Northern Europe/Western Europe  | --- | 2c  | --- |
 | – Western Siberia/Black Sea & Caspian  | --- | --- | 1  |
 |  *Somateria mollissima mollissima*   | --- | --- | --- |
 | – Baltic, Denmark & Netherlands  | --- | 2d  | --- |
@@ -1431,14 +1462,14 @@ The Table shall be:
 |  *Somateria spectabilis*   | --- | --- | --- |
 | – East Greenland, NE Europe & Western Siberia  | --- | --- | 1  |
 |  *Polysticta stelleri*   | --- | --- | --- |
-| – Western Siberia/North-east Europe  | 1a 2  | --- | --- |
+| – Western Siberia/North-east Europe  | 1a 1b 2  | --- | --- |
 |  *Clangula hyemalis*   | --- | --- | --- |
 | – Iceland & Greenland  | --- | --- | 1  |
-| – Western Siberia/North Europe  | --- | --- | 1  |
+| – Western Siberia/North Europe  | --- | 2c  | --- |
 |  *Melanitta nigra nigra*   | --- | --- | --- |
-| – W Siberia & N Europe/W Europe & NW Africa  | --- | 2a  | --- |
+| – W Siberia & N Europe/W Europe & NW Africa  | --- | 2a 2c  | --- |
 |  *Melanitta fusca fusca*   | --- | --- | --- |
-| – Western Siberia & Northern Europe/NW Europe  | --- | 2a  | --- |
+| – Western Siberia & Northern Europe/NW Europe  | --- | 2a 2c  | --- |
 | – Black Sea & Caspian  | 1c  | --- | --- |
 |  *Bucephala clangula clangula*   | --- | --- | --- |
 | – North-west & Central Europe (win)  | --- | --- | 1  |
@@ -1460,13 +1491,13 @@ The Table shall be:
 | --- | --- | --- | --- |
 |  *GRUIDAE*   | --- | --- | --- |
 |  *Balearica pavonina pavonina*   | --- | --- | --- |
-| – West Africa (Senegal to Chad)  | 2  | --- | --- |
+| – West Africa (Senegal to Chad)  | 1b 1c  | --- | --- |
 |  *Balearica pavonina ceciliae*   | --- | --- | --- |
-| – Eastern Africa (Sudan to Uganda)  | 3c  | --- | --- |
+| – Eastern Africa (Sudan to Uganda)  | 1b 3c  | --- | --- |
 |  *Balearica regulorum regulorum*   | --- | --- | --- |
-| – Southern Africa (N to Angola & S Zimbabwe)  | 1c  | --- | --- |
+| – Southern Africa (N to Angola & S Zimbabwe)  | 1b 1c  | --- | --- |
 |  *Balearica regulorum gibbericeps*   | --- | --- | --- |
-| – Eastern Africa (Kenya to Mozambique)  | 3c  | --- | --- |
+| – Eastern Africa (Kenya to Mozambique)  | 1b 3c  | --- | --- |
 |  *Grus leucogeranus*   | --- | --- | --- |
 | – Iran (win)  | 1a 1b 1c  | --- | --- |
 |  *Grus virgo*   | --- | --- | --- |
@@ -1503,7 +1534,7 @@ The Table shall be:
 |  *Crecopsis egregia*   | --- | --- | --- |
 | – Sub-Saharan Africa  | --- | --- | (1)  |
 |  *Crex crex*   | --- | --- | --- |
-| – Europe & Western Asia/Sub-Saharan Africa  | 1b  | 2c  | --- |
+| – Europe & Western Asia/Sub-Saharan Africa  | --- | --- | 1  |
 |  *Amaurornis flavirostris*   | --- | --- | --- |
 | – Sub-Saharan Africa  | --- | --- | 1  |
 |  *Porzana parva parva*   | --- | --- | --- |
@@ -1531,11 +1562,11 @@ The Table shall be:
 | --- | --- | --- | --- |
 |  *DROMADIDAE*   | --- | --- | --- |
 |  *Dromas ardeola*   | --- | --- | --- |
-| – North-west Indian Ocean, Red Sea & Gulf  | 3a  | --- | --- |
+| – North-west Indian Ocean, Red Sea & Gulf  | --- | 1  | --- |
 | --- | --- | --- | --- |
 |  *HAEMATOPODIDAE*   | --- | --- | --- |
 |  *Haematopus ostralegus ostralegus*   | --- | --- | --- |
-| – Europe/South & West Europe & NW Africa  | --- | --- | 1  |
+| – Europe/South & West Europe & NW Africa  | --- | 2c  | --- |
 |  *Haematopus ostralegus longipes*   | --- | --- | --- |
 | – SE Eur & W Asia/SW Asia & NE Africa  | --- | 2c  | --- |
 |  *Haematopus moquini*   | --- | --- | --- |
@@ -1544,7 +1575,7 @@ The Table shall be:
 |  *RECURVIROSTRIDAE*   | --- | --- | --- |
 |  *Himantopus himantopus himantopus*   | --- | --- | --- |
 | – Sub-Saharan Africa (excluding south)  | --- | --- | (1)  |
-| – Southern Africa (“ *meridionalis* ”)  | 2  | --- | --- |
+| – Southern Africa (‘ *meridionalis* ’)  | 2  | --- | --- |
 | – SW Europe & North-west Africa/West Africa  | --- | 1  | --- |
 | – Central Europe & E Mediterranean/N-Central Africa  | --- | 1  | --- |
 | – W, C & SW Asia/SW Asia & NE Africa  | --- | (1)  | --- |
@@ -1557,9 +1588,9 @@ The Table shall be:
 | --- | --- | --- | --- |
 |  *BURHINIDAE*   | --- | --- | --- |
 |  *Burhinus senegalensis senegalensis*   | --- | --- | --- |
-| – West Africa  | (2)  | --- | --- |
+| – West Africa  | --- | 1  | --- |
 |  *Burhinus senegalensis inornatus*   | --- | --- | --- |
-| – North-east & Eastern Africa  | (2)  | --- | --- |
+| – North-east & Eastern Africa  | --- | 1  | --- |
 | --- | --- | --- | --- |
 |  *GLAREOLIDAE*   | --- | --- | --- |
 |  *Pluvianus aegyptius aegyptius*   | --- | --- | --- |
@@ -1571,7 +1602,7 @@ The Table shall be:
 | – Black Sea & E Mediterranean/Eastern Sahel zone  | 2  | --- | --- |
 | – SW Asia/SW Asia & NE Africa  | --- | (1)  | --- |
 |  *Glareola nordmanni*   | --- | --- | --- |
-| – SE Europe & Western Asia/Southern Africa  | --- | 2b 2c  | --- |
+| – SE Europe & Western Asia/Southern Africa  | 4  | --- | --- |
 |  *Glareola ocularis*   | --- | --- | --- |
 | – Madagascar/East Africa  | 1c  | --- | --- |
 |  *Glareola nuchalis nuchalis*   | --- | --- | --- |
@@ -1618,7 +1649,7 @@ The Table shall be:
 | – Black Sea & East Mediterranean/Eastern Sahel  | 3c  | --- | --- |
 | – SW & Central Asia/SW Asia & NE Africa  | --- | (1)  | --- |
 |  *Charadrius marginatus mechowi*   | --- | --- | --- |
-| *– mechowi/tenellus* Inland East & Central Africa  | 2  | --- | --- |
+| – *mechowi/tenellus* Inland East & Central Africa  | 2  | --- | --- |
 | – Coastal E Africa  | 2  | --- | --- |
 | – West Africa  | 2  | --- | --- |
 |  *Charadrius mongolus pamirensis*   | --- | --- | --- |
@@ -1635,8 +1666,7 @@ The Table shall be:
 | – Europe/North-west Africa  | (3c)  | --- | --- |
 | – Asia/Middle East  | --- | (1)  | --- |
 |  *Vanellus vanellus*   | --- | --- | --- |
-| – Europe/Europe & North Africa  | --- | 2c  | --- |
-| – Western Asia/South-west Asia  | --- | --- | (1)  |
+| – Europe, W Asia/Europe, N Africa & SW Asia  | --- | --- | 1  |
 |  *Vanellus spinosus*   | --- | --- | --- |
 | – Black Sea & Mediterranean (bre)  | --- | 1  | --- |
 |  *Vanellus albiceps*   | --- | --- | --- |
@@ -1673,8 +1703,8 @@ The Table shall be:
 |  *Gallinago stenura*   | --- | --- | --- |
 | – Northern Siberia/South Asia & Eastern Africa  | --- | --- | (1)  |
 |  *Gallinago media*   | --- | --- | --- |
-| – Scandinavia/probably West Africa  | --- | 1  | --- |
-| – Western Siberia & NE Europe/South-east Africa  | --- | 2c  | --- |
+| – Scandinavia/probably West Africa  | 4  | --- | --- |
+| – Western Siberia & NE Europe/South-east Africa  | 4  | --- | --- |
 |  *Gallinago gallinago gallinago*   | --- | --- | --- |
 | – Europe/South & West Europe & NW Africa  | --- | 2c  | --- |
 | – Western Siberia/South-west Asia & Africa  | --- | --- | 1  |
@@ -1684,11 +1714,11 @@ The Table shall be:
 | – Northern Europe/S & W Europe & West Africa  | --- | 2b  | --- |
 | – Western Siberia/SW Asia & NE Africa  | --- | --- | 1  |
 |  *Limosa limosa limosa*   | --- | --- | --- |
-| – Western Europe/NW & West Africa  | --- | 2c  | --- |
-| – Eastern Europe/Central & Eastern Africa  | --- | 2c  | --- |
-| – West-central Asia/SW Asia & Eastern Africa  | --- | (1)  | --- |
+| – Western Europe/NW & West Africa  | 4  | --- | --- |
+| – Eastern Europe/Central & Eastern Africa  | 4  | --- | --- |
+| – West-central Asia/SW Asia & Eastern Africa  | 4  | --- | --- |
 |  *Limosa limosa islandica*   | --- | --- | --- |
-| – Iceland/Western Europe  | 3a*  | --- | --- |
+| – Iceland/Western Europe  | 4  | --- | --- |
 |  *Limosa lapponica lapponica*   | --- | --- | --- |
 | – Northern Europe/Western Europe  | --- | 2a  | --- |
 |  *Limosa lapponica taymyrensis*   | --- | --- | --- |
@@ -1705,17 +1735,17 @@ The Table shall be:
 |  *Numenius tenuirostris*   | --- | --- | --- |
 | – Central Siberia/Mediterranean & SW Asia  | 1a 1b 1c  | --- | --- |
 |  *Numenius arquata arquata*   | --- | --- | --- |
-| – Europe/Europe, North & West Africa  | --- | --- | 1  |
+| – Europe/Europe, North & West Africa  | 4  | --- | --- |
 |  *Numenius arquata orientalis*   | --- | --- | --- |
 | – Western Siberia/SW Asia, E & S Africa  | 3c  | --- | --- |
 |  *Numenius arquata suschkini*   | --- | --- | --- |
-| – South-east Europe & South-west Asia (bre)  | 2  | --- | --- |
+| – South-east Europe & South-west Asia (bre)  | 1c  | --- | --- |
 |  *Tringa erythropus*   | --- | --- | --- |
 | – N Europe/Southern Europe, North & West Africa  | --- | --- | (1)  |
 | – Western Siberia/SW Asia, NE & Eastern Africa  | --- | (1)  | --- |
 |  *Tringa totanus totanus*   | --- | --- | --- |
-| Northern Europe (breeding)  | --- | --- | 1  |
-| Central & East Europe (breeding)  | --- | 2c  | --- |
+| – Northern Europe (breeding)  | --- | --- | 1  |
+| – Central & East Europe (breeding)  | --- | 2c  | --- |
 |  *Tringa totanus britannica*   | --- | --- | --- |
 | – Britain & Ireland/Britain, Ireland, France  | --- | 2c  | --- |
 |  *Tringa totanus ussuriensis*   | --- | --- | --- |
@@ -1734,21 +1764,21 @@ The Table shall be:
 |  *Tringa glareola*   | --- | --- | --- |
 | – North-west Europe/West Africa  | --- | --- | 1  |
 | – NE Europe & W Siberia/Eastern & Southern Africa  | --- | --- | (1)  |
-|  *Tringa cinerea*   | --- | --- | --- |
+|  *Xenus cinereus*   | --- | --- | --- |
 | – NE Europe & W Siberia/SW Asia, E & S Africa  | --- | --- | 1  |
-|  *Tringa hypoleucos*   | --- | --- | --- |
+|  *Actitis hypoleucos*   | --- | --- | --- |
 | – West & Central Europe/West Africa  | --- | --- | 1  |
 | – E Europe & W Siberia/Central, E & S Africa  | --- | --- | (1)  |
 |  *Arenaria interpres interpres*   | --- | --- | --- |
-| – NE Canada & Greenland/W Europe & NW Africa  | --- | 1  | --- |
+| – NE Canada & Greenland/W Europe & NW Africa  | --- | --- | 1  |
 | – Northern Europe/West Africa  | --- | --- | 1  |
 | – West & Central Siberia/SW Asia, E & S Africa  | --- | --- | (1)  |
 |  *Calidris tenuirostris*   | --- | --- | --- |
-| – Eastern Siberia/SW Asia & W Southern Asia  | 1c  | --- | --- |
+| – Eastern Siberia/SW Asia & W Southern Asia  | 1b 1c  | --- | --- |
 |  *Calidris canutus canutus*   | --- | --- | --- |
 | – Northern Siberia/West & Southern Africa  | --- | 2a 2c  | --- |
 |  *Calidris canutus islandica*   | --- | --- | --- |
-| – NE Canada & Greenland/Western Europe  | --- | 2a 2c  | --- |
+| – NE Canada & Greenland/Western Europe  | --- | 2a  | --- |
 |  *Calidris alba*   | --- | --- | --- |
 | – East Atlantic Europe, West & Southern Africa (win)  | --- | --- | 1  |
 | – South-west Asia, Eastern & Southern Africa (win)  | --- | --- | 1  |
@@ -1759,8 +1789,8 @@ The Table shall be:
 | – Fennoscandia/North & West Africa  | --- | (1)  | --- |
 | – NE Europe & W Siberia/SW Asia & Eastern Africa  | --- | --- | (1)  |
 |  *Calidris maritima maritima*   | --- | --- | --- |
-| N Europe & W Siberia (breeding)  | --- | 1  | --- |
-| NE Canada & N Greenland (breeding)  | 3c  | --- | --- |
+| – N Europe & W Siberia (breeding)  | --- | 1  | --- |
+| – NE Canada & N Greenland (breeding)  | 3c  | --- | --- |
 |  *Calidris alpina alpina*   | --- | --- | --- |
 | – NE Europe & NW Siberia/W Europe & NW Africa  | --- | --- | 1  |
 |  *Calidris alpina centralis*   | --- | --- | --- |
@@ -1789,16 +1819,16 @@ The Table shall be:
 |  *Stercorarius longicaudus longicaudus*   | --- | --- | 1  |
 | --- | --- | --- | --- |
 |  *LARIDAE*   | --- | --- | --- |
-| Larus leucophthalmus  | --- | --- | --- |
+|  *Larus leucophthalmus*   | --- | --- | --- |
 | – Red Sea & nearby coasts  | 1a  | 1  | --- |
 |  *Larus hemprichii*   | --- | --- | --- |
-| – Red Sea, Gulf, Arabia & Eastern Africa  | --- | 2a  | --- |
+| – Red Sea, Gulf, Arabia & Eastern Africa  | --- | --- | 1  |
 |  *Larus canus canus*   | --- | --- | --- |
 | – NW & Cent. Europe/Atlantic coast & Mediterranean  | --- | 2c  | --- |
 |  *Larus canus heinei*   | --- | --- | --- |
 | – NE Europe & Western Siberia/Black Sea & Caspian  | --- | --- | 1  |
 |  *Larus audouinii*   | --- | --- | --- |
-| – Mediterranean/N & W coasts of Africa  | 1a3a  | --- | --- |
+| – Mediterranean/N & W coasts of Africa  | 1a 3a  | --- | --- |
 |  *Larus marinus*   | --- | --- | --- |
 | – North & West Europe  | --- | --- | 1  |
 |  *Larus dominicanus vetula*   | --- | --- | --- |
@@ -1824,7 +1854,7 @@ The Table shall be:
 |  *Larus cachinnans michahellis*   | --- | --- | --- |
 | – Mediterranean, Iberia & Morocco  | --- | --- | 1  |
 |  *Larus fuscus fuscus*   | --- | --- | --- |
-| – NE Europe/Black Sea, SW Asia & Eastern Africa  | --- | (2c)  | --- |
+| – NE Europe/Black Sea, SW Asia & Eastern Africa  | 3c  | --- | --- |
 |  *Larus fuscus graellsii*   | --- | --- | --- |
 | – Western Europe/Mediterranean & West Africa  | --- | --- | 1  |
 |  *Larus fuscus intermedius*   | --- | --- | --- |
@@ -1838,13 +1868,13 @@ The Table shall be:
 |  *Larus hartlaubii*   | --- | --- | --- |
 | – Coastal South-west Africa  | --- | 1  | --- |
 |  *Larus ridibundus*   | --- | --- | --- |
-| – W Europe/W Europe, W Mediterranean, West Africa  | --- | 2c  | --- |
+| – W Europe/W Europe, W Mediterranean, West Africa  | --- | --- | 1  |
 | – East Europe/Black Sea & East Mediterranean  | --- | --- | 1  |
 | – West Asia/SW Asia & NE Africa  | --- | --- | (1)  |
 |  *Larus genei*   | --- | --- | --- |
 | – West Africa (bre)  | 2  | --- | --- |
 | – Black Sea & Mediterranean (bre)  | --- | 2a  | --- |
-| – West, South-west & South Asia (bre)  | --- | 2a  | --- |
+| – West, South-west & South Asia (bre)  | --- | --- | 1  |
 |  *Larus melanocephalus*   | --- | --- | --- |
 | – W Europe, Mediterranean & NW Africa  | --- | 2a  | --- |
 |  *Larus minutus*   | --- | --- | --- |
@@ -1852,7 +1882,7 @@ The Table shall be:
 | – W Asia/E Mediterranean, Black Sea & Caspian  | --- | (1)  | --- |
 |  *Xema sabini sabini*   | --- | --- | --- |
 | – Canada & Greenland/SE Atlantic  | --- | --- | (1)  |
-|  *Rissa tridactyla tridactyla*   | --- | 2a  | --- |
+|  *Rissa tridactyla tridactyla*   | --- | 2c  | --- |
 | --- | --- | --- | --- |
 |  *STERNIDAE*   | --- | --- | --- |
 |  *Sterna nilotica nilotica*   | --- | --- | --- |
@@ -1862,14 +1892,15 @@ The Table shall be:
 |  *Sterna caspia caspia*   | --- | --- | --- |
 | – Southern Africa (bre)  | 1c  | --- | --- |
 | – West Africa (bre)  | --- | 1  | --- |
-| – Europe (bre)  | 1c  | --- | --- |
+| – Baltic (bre)  | 1c  | --- | --- |
+| – Black Sea (bre)  | 1c  | --- | --- |
 | – Caspian (bre)  | 2  | --- | --- |
 |  *Sterna maxima albidorsalis*   | --- | --- | --- |
 | – West Africa (bre)  | --- | 2a  | --- |
 |  *Sterna bengalensis bengalensis*   | --- | --- | --- |
-| – Gulf/Southern Asia  | --- | 2a  | --- |
+| – Gulf/Southern Asia  | --- | --- | 1  |
 |  *Sterna bengalensis par*   | --- | --- | --- |
-| – Red Sea/Eastern Africa  | 3a  | --- | --- |
+| – Red Sea/Eastern Africa  | --- | 1  | --- |
 |  *Sterna bengalensis emigrata*   | --- | --- | --- |
 | – S Mediterranean/NW & West Africa coasts  | 1c  | --- | --- |
 |  *Sterna bergii bergii*   | --- | --- | --- |
@@ -1881,9 +1912,9 @@ The Table shall be:
 |  *Sterna bergii velox*   | --- | --- | --- |
 | – Red Sea & North-east Africa  | 2  | --- | --- |
 |  *Sterna sandvicensis sandvicensis*   | --- | --- | --- |
-| – Western Europe/West Africa  | --- | 2a  | --- |
+| – Western Europe/West Africa  | --- | --- | 1  |
 | – Black Sea & Mediterranean (bre)  | --- | 2a  | --- |
-| – West & Central Asia/South-west & South Asia  | --- | 2a  | --- |
+| – West & Central Asia/South-west & South Asia  | --- | --- | 1  |
 |  *Sterna dougallii dougallii*   | --- | --- | --- |
 | – Southern Africa  | 1c  | --- | --- |
 | – East Africa  | 3a  | --- | --- |
@@ -1903,8 +1934,9 @@ The Table shall be:
 |  *Sterna paradisaea*   | --- | --- | --- |
 | – Western Eurasia (bre)  | --- | --- | 1  |
 |  *Sterna albifrons albifrons*   | --- | --- | --- |
-| – Eastern Atlantic (bre)  | 3b 3c  | --- | --- |
-| – Black Sea & Mediterranean (bre)  | 3b 3c  | --- | --- |
+| – Europe north of Mediterranean (bre)  | 2  | --- | --- |
+| – West Mediterranean / W Africa (bre)  | 3b  | --- | --- |
+| – Black Sea & East Mediterranean (bre)  | 3b 3c  | --- | --- |
 | – Caspian (bre)  | 2  | --- | --- |
 |  *Sterna albifrons guineae*   | --- | --- | --- |
 | – West Africa (bre)  | 1c  | --- | --- |
@@ -1915,11 +1947,11 @@ The Table shall be:
 |  *Sterna repressa*   | --- | --- | --- |
 | – W South Asia, Red Sea, Gulf & Eastern Africa  | --- | 2c  | --- |
 |  *Sterna anaethetus melanopterus*   | --- | --- | --- |
-| – W Africa  | 1  | --- | --- |
+| – W Africa  | 1c  | --- | --- |
 |  *Sterna anaethetus fuligula*   | --- | --- | --- |
 | – Red Sea, E Africa, Persian Gulf, Arabian Sea to W India  | --- | --- | 1  |
 |  *Sterna anaethetus antarctica*   | --- | --- | --- |
-| – S Indian Ocean  | --- | 1  | --- |
+| – W Indian Ocean  | 2  | --- | --- |
 |  *Sterna fuscata nubilosa*   | --- | --- | --- |
 | – Red Sea, Gulf of Aden, E to Pacific  | --- | 2a  | --- |
 |  *Chlidonias hybridus hybridus*   | --- | --- | --- |
@@ -1945,15 +1977,15 @@ The Table shall be:
 | --- | --- | --- | --- |
 |  *ALCIDAE*   | --- | --- | --- |
 |  *Alle alle alle*   | --- | --- | --- |
-| – High Arctic, Baffin Is – Novaya Zemlya  | --- | 2a  | --- |
+| – High Arctic, Baffin Is – Novaya Zemlya  | --- | --- | 1  |
 |  *Uria aalge aalge*   | --- | --- | --- |
-| – E North America, Greenland, Iceland, Faeroes, Scotland, S Norway, Baltic  | --- | 2a  | --- |
+| – E North America, Greenland, Iceland, Faeroes, Scotland, S Norway, Baltic  | --- | 2c  | --- |
 |  *Uria aalge albionis*   | --- | --- | --- |
-| – Ireland, S Britain, France, Iberia, Helgoland  | --- | 2a  | --- |
+| – Ireland, S Britain, France, Iberia, Helgoland  | --- | --- | 1  |
 |  *Uria aalge hyperborea*   | --- | --- | --- |
-| – Svalbard, N Norway to Novaya Zemlya  | --- | 2a  | --- |
+| – Svalbard, N Norway to Novaya Zemlya  | --- | --- | 1  |
 |  *Uria lomvia lomvia*   | --- | --- | --- |
-| – E North America, Greenland, E to Severnaya Zemlya  | --- | 2a  | --- |
+| – E North America, Greenland, E to Severnaya Zemlya  | --- | 2c  | --- |
 |  *Alca torda torda*   | --- | --- | --- |
 | – E North America, Greenland, E to Baltic & White Seas  | --- | --- | 1  |
 |  *Alca torda islandica*   | --- | --- | --- |
@@ -1963,16 +1995,15 @@ The Table shall be:
 |  *Cepphus grylle mandtii*   | --- | --- | --- |
 | – Arctic E North America to Greenland, Jan Mayen & Svalbard E through Siberia to Alaska  | --- | 1  | --- |
 |  *Cepphus grylle arcticus*   | --- | --- | --- |
-| – N America, S Greenland, Britain, Ireland, Scandinavia, White Sea  | --- | 1  | --- |
+| – N America, S Greenland, Britain, Ireland, Scandinavia, White Sea  | --- | --- | 1  |
 |  *Cepphus grylle islandicus*   | --- | --- | --- |
-| – Iceland  | --- | 1  | --- |
+| – Iceland  | 3c  | --- | --- |
 |  *Cepphus grylle faeroeensis*   | --- | --- | --- |
-| – Faeroes  | --- | 1  | --- |
+| – Faeroes  | 1c  | --- | --- |
 |  *Fratercula arctica arctica*   | --- | --- | --- |
-| – Hudson bay & Maine E to S Greenland, Iceland, Bear Is, Norway to S Novaya Zemlya  | --- | 2a  | --- |
+| – Hudson bay & Maine E to S Greenland, Iceland, Bear Is, Norway to S Novaya Zemlya  | --- | --- | 1  |
 |  *Fratercula arctica naumanni*   | --- | --- | --- |
-| – NE Canada, N Greenland, to Jan Mayen, Svalbard, N Novaya Zemlya  | --- | 2a  | --- |
+| – NE Canada, N Greenland, to Jan Mayen, Svalbard, N Novaya Zemlya  | 3a  | --- | --- |
 |  *Fratercula arctica grabae*   | --- | --- | --- |
-| – Faeroes, S Norway & Sweden, Britain, Ireland, NW France  | --- | 2a  | --- |
-| --- | --- | --- | --- |
+| – Faeroes, S Norway & Sweden, Britain, Ireland, NW France  | --- | --- | 1  |
 

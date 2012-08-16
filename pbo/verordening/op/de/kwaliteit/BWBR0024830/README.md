@@ -5,7 +5,7 @@
 De ledenraad van de Koninklijke Notariële Beroepsorganisatie KNB;  
 Overwegende dat het gewenst is regelen te stellen met betrekking tot de kwaliteit en de integriteit van de notaris en de kandidaat-notaris;
 
-Gelet op [artikel 61, tweede lid, Wet op het notarisambt](../../../../../../wet/notariswet/BWBR0010388/README.md);
+Gelet op artikel 61 a, Wet op het notarisambt;
 
 Gezien het ontwerp van het bestuur met bijbehorende toelichting;
 
@@ -18,9 +18,9 @@ Stelt de navolgende verordening vast:
 
 In deze verordening wordt verstaan onder: 
 
-a. *notaris:* de notaris, genoemd in [artikel 1, onder b, Wet op het notarisambt](../../../../../../wet/notariswet/BWBR0010388/README.md), alsmede de kandidaat-notaris, genoemd in [artikel 1, onder b, Wet op het notarisambt](../../../../../../wet/notariswet/BWBR0010388/README.md), tenzij uit de aard van de bepaling anders voortvloeit;  
+a. *notaris:* de notaris, genoemd in artikel 1, onder b, Wet op het notarisambt, alsmede de kandidaat-notaris, genoemd in artikel 1, onder b, Wet op het notarisambt, tenzij uit de aard van de bepaling anders voortvloeit;  
 
-b. *bestuur:* het bestuur van de KNB, genoemd in [artikel 64, eerste lid, Wet op het notarisambt](../../../../../../wet/notariswet/BWBR0010388/README.md);  
+b. *bestuur:* het bestuur van de KNB, genoemd in artikel 64, eerste lid, Wet op het notarisambt;  
 
 c. *eigen verklaring:* door de notaris ondertekende verklaring overeenkomstig het door het bestuur vastgestelde model;  
 
@@ -32,18 +32,12 @@ f. *toetser:* notariële deskundige die door de KNB is opgeleid om in opdracht v
 
 ### Artikel  2  
 
-1.  Notarissen verstrekken desgevraagd aan het bestuur of de namens het bestuur optredende personen inlichtingen over de wijze waarop zij . voldoen aan de bij of krachtens de [Wet op het notarisambt](../../../../../../wet/notariswet/BWBR0010388/README.md) gegeven bepalingen of een op deze wet berustende verordening, 
+1.  Notarissen verstrekken desgevraagd aan het bestuur of de namens het bestuur optredende personen inlichtingen over de wijze waarop zij . voldoen aan de bij of krachtens de Wet op het notarisambt gegeven bepalingen of een op deze wet berustende verordening, 
 
 * de zorg betrachten die zij als notarissen behoren te betrachten ten opzichte van degenen te wier behoeve zij optreden en  
 
 * handelen of nalaten zoals een behoorlijk notaris betaamt.     
 2.  Notarissen verstrekken deze inlichtingen door overlegging van een eigen verklaring en door deel te nemen aan een intercollegiale kwaliteitstoetsing of nadere toetsing op hun kantoor.   
-3.  Onderdeel van de intercollegiale kwaliteitstoetsing is een onderzoek naar de opzet en werking van de administratieve organisatie ter naleving van het bepaalde bij of krachtens de Wet voorkoming witwassen en terrorismefinanciering.   
-
-### Artikel  3  
-
-1.  De notarissen zijn verplicht medewerking te verlenen aan de uitvoering van de intercollegiale kwaliteitstoetsing of nadere toetsing. Zij zijn niet bevoegd zich op hun geheimhoudingsplicht te beroepen tegenover de toetsers.   
-2.  De toetsers zijn verplicht al hetgeen waarvan zij in het kader van de uitoefening van deze functie kennis nemen en dat onder de notariële geheimhoudingplicht valt vertrouwelijk te behandelen en niet te openbaren aan anderen dan aan hen aan wie zij conform de wettelijke voorschriften daartoe zijn verplicht.   
 
 ### Artikel  4  
 
@@ -64,7 +58,7 @@ Deze verordening kan worden aangehaald als ‘Verordening op de kwaliteit’.
 ### Artikel  8  
 
 1.  De verordening treedt in werking met ingang van 2 januari 2009.   
-2.  De [Verordening op de kwaliteit (onderdeel WID/MOT)](../../../../../../pbo/verordening/op/de/kwaliteit/(onderdeel/widmot)/BWBR0021333/README.md) vervalt drie maanden na de datum waarop de Verordening op de kwaliteit in werking treedt.   
+2.  De Verordening op de kwaliteit (onderdeel WID/MOT) vervalt drie maanden na de datum waarop de Verordening op de kwaliteit in werking treedt.   
 
 ### Bijlage  
 
