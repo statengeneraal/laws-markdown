@@ -25,29 +25,29 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-1. *Ambtenaar:* de rijksambtenaren aangesteld bij de arrondissementsparketten Breda en Middelburg, die zijn belast met taken op het gebied van bedrijfsvoering;  
+1.  *Ambtenaar:* de rijksambtenaren aangesteld bij de arrondissementsparketten Breda en Middelburg, die zijn belast met taken op het gebied van bedrijfsvoering;  
 
-2. *Bedrijfsvoering:* de dienstverlening op het terrein van personeel, informatie, organisatie, formatie, administratie, aanschaffingen en huisvesting gericht op het realiseren van de taken en doelen van de organisatie, het signaleren en adviseren over de (interne) sturing en beheersing van de primaire en ondersteunende processen en het faciliteren van de planning en controll cyclus;  
+2.  *Bedrijfsvoering:* de dienstverlening op het terrein van personeel, informatie, organisatie, formatie, administratie, aanschaffingen en huisvesting gericht op het realiseren van de taken en doelen van de organisatie, het signaleren en adviseren over de (interne) sturing en beheersing van de primaire en ondersteunende processen en het faciliteren van de planning en controll cyclus;  
 
-3. *Bestuur:* het Bestuur van de Regio bestaande uit de hoofdofficieren van justitie en de directeur bedrijfsvoering;  
+3.  *Bestuur:* het Bestuur van de Regio bestaande uit de hoofdofficieren van justitie en de directeur bedrijfsvoering;  
 
-4. *College:* het College van procureurs-generaal;  
+4.  *College:* het College van procureurs-generaal;  
 
-5. *Machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, die betrekking hebben op het openbaar ministerie;  
+5.  *Machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, die betrekking hebben op het openbaar ministerie;  
 
-6. *Mandaat:* de bevoegdheid om in naam van de minister besluiten te nemen die betrekking hebben op het openbaar ministerie;  
+6.  *Mandaat:* de bevoegdheid om in naam van de minister besluiten te nemen die betrekking hebben op het openbaar ministerie;  
 
-7. *Minister:* de minister van justitie;  
+7.  *Minister:* de minister van justitie;  
 
-8. *Regionaal directeur bedrijfsvoering:* de directeur bedrijfsvoering van het arrondissementsparket te Breda;  
+8.  *Regionaal directeur bedrijfsvoering:* de directeur bedrijfsvoering van het arrondissementsparket te Breda;  
 
-9. *(Regionaal) managementteam:* het managementteam bestaande uit de hoofdofficieren van justitie, de fungerend hoofdofficier van justitie, de directeur bedrijfsvoering en de regionale afdelingshoofden;  
+9.  *(Regionaal) managementteam:* het managementteam bestaande uit de hoofdofficieren van justitie, de fungerend hoofdofficier van justitie, de directeur bedrijfsvoering en de regionale afdelingshoofden;  
 
-10. *Rijksambtenaren:* de ambtenaren die werkzaam zijn bij dienstonderdelen van het openbaar ministerie krachtens een aanstelling op grond van het Algemeen rijksambtenarenreglement;  
+10.  *Rijksambtenaren:* de ambtenaren die werkzaam zijn bij dienstonderdelen van het openbaar ministerie krachtens een aanstelling op grond van het Algemeen rijksambtenarenreglement;  
 
-11. *Volmacht:* de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten die betrekking hebben op het openbaar ministerie;  
+11.  *Volmacht:* de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten die betrekking hebben op het openbaar ministerie;  
 
-12. *Voorzitter Bestuur:* de hoofdofficier van justitie van het arrondissementsparket te Breda.    
+12.  *Voorzitter Bestuur:* de hoofdofficier van justitie van het arrondissementsparket te Breda.   
 
 ### Paragraaf  2  
 
@@ -84,7 +84,7 @@ c) het sturen van ontvangstbevestigingen;
 d) het sturen van tussenberichten, waaronder uitstelberichten, of;  
 
 e) stukken naar aanleiding van pogingen van de nationale Ombudsman om ter vermijding van een volledig onderzoek te bevorderen dat alsnog aan de klacht tegemoet wordt gekomen (interventies).     
-8.   [Wet openbaarheid van bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md)  Aan de regionaal directeur bedrijfsvoering wordt mandaat en machtiging verleend om besluiten te nemen op verzoeken op grond van de [Wet openbaarheid van bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) met uitzondering van de besluiten die belangrijke politieke, bestuurlijke of maatschappelijke gevolgen kunnen hebben.   
+8.  [Wet openbaarheid van bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) Aan de regionaal directeur bedrijfsvoering wordt mandaat en machtiging verleend om besluiten te nemen op verzoeken op grond van de [Wet openbaarheid van bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) met uitzondering van de besluiten die belangrijke politieke, bestuurlijke of maatschappelijke gevolgen kunnen hebben.  
 
 ### Paragraaf  3  
 
@@ -110,7 +110,7 @@ c. Het verlenen van ontslag op grond van de [artikelen 99 van het Algemeen rijks
 
 a. de bepalingen van de [Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
 
-b. de. [Comptabiliteitswet](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md);  
+b. de.[Comptabiliteitswet](../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md);  
 
 c. de arbeidsvoorwaardelijke en rechtspositionele regels zoals die gelden in de sector rijk, de sector rechterlijke macht of de sector politie;  
 
@@ -118,7 +118,7 @@ d. de algemeen geldende regels zoals die binnen het openbaar ministerie gelden, 
 
 e. de specifieke beleidsregels zoals die gelden binnen de regio ‘naam’.     
 4.  De regionaal directeur bedrijfsvoering legt over het gevoerde bedrijfsvoeringbeleid en het gevoerde beheer verantwoording af aan de voorzitter van het Bestuur.   
-5.  De regionaal directeur bedrijfsvoering is gehouden schriftelijke beslissingen die op grond van zijn budgetmandaat, organisatie en formatiemandaat, beheermandaat, personeelsmandaat en mandaat arbeidsomstandigheden worden genomen, als volgt te ondertekenen: ‘De Minister van Justitie’ ‘namens deze,’ ‘naam ondertekenaar’ ‘directeur bedrijfsvoering’.   
+5.  De regionaal directeur bedrijfsvoering is gehouden schriftelijke beslissingen die op grond van zijn budgetmandaat, organisatie en formatiemandaat, beheermandaat, personeelsmandaat en mandaat arbeidsomstandigheden worden genomen, als volgt te ondertekenen: ‘De Minister van Justitie’ ‘namens deze,’ ‘naam ondertekenaar’ ‘directeur bedrijfsvoering’.  
 
 ### Paragraaf  4  
 
@@ -129,7 +129,7 @@ e. de specifieke beleidsregels zoals die gelden binnen de regio ‘naam’.
 ####Beslissingen op bezwaar en beroep
 
 1.  De hoofdofficier van justitie van het arrondissementsparket te Breda beslist op een bezwaar of een beroep dat is gericht tegen een beslissing die is genomen door de regionaal directeur bedrijfsvoering, alsmede op een daarmee verband houdend verzoek als bedoeld in [artikel 7:1a, eerste lid van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-2.  De regionaal directeur bedrijfsvoering beslist op een bezwaar dat is gericht tegen een beslissing die is genomen op grond van een door hem verleend ondermandaat, alsmede op een daarmee verband houdend verzoek als bedoeld in [artikel 7:1a, eerste lid van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+2.  De regionaal directeur bedrijfsvoering beslist op een bezwaar dat is gericht tegen een beslissing die is genomen op grond van een door hem verleend ondermandaat, alsmede op een daarmee verband houdend verzoek als bedoeld in [artikel 7:1a, eerste lid van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
 
 ### Paragraaf  5  
 
@@ -140,7 +140,7 @@ e. de specifieke beleidsregels zoals die gelden binnen de regio ‘naam’.
 ####Ondermandaat
 
 1.  De regionaal directeur bedrijfsvoering wordt toegestaan – met de nadrukkelijke instemming van het Bestuur – ondermandaat te verlenen en de aan hem toegekende volmacht en machtiging door te geven aan onder hem ressorterende functionarissen.   
-2.  Het krachtens dit artikel verleende ondermandaat en de doorgegeven machtiging en volmacht kunnen één hiërarchisch niveau verder worden doorgegeven.   
+2.  Het krachtens dit artikel verleende ondermandaat en de doorgegeven machtiging en volmacht kunnen één hiërarchisch niveau verder worden doorgegeven.  
 
 ### Paragraaf  6  
 
@@ -148,22 +148,22 @@ e. de specifieke beleidsregels zoals die gelden binnen de regio ‘naam’.
 
 ### Artikel  6  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 20 november 2009.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 20 november 2009. 
 
 ### Artikel  7  
 
-Dit besluit kan worden aangehaald als: Mandaatbesluit openbaar ministerie regionaal directeur bedrijfsvoering arrondissementsparketten te Breda en Middelburg 2009.  
+Dit besluit kan worden aangehaald als: Mandaatbesluit openbaar ministerie regionaal directeur bedrijfsvoering arrondissementsparketten te Breda en Middelburg 2009. 
 
 Breda 
 20 april 2010   
 
 De 
-Minister van Justitie,namens deze:
-de hoofdofficier van Justitie,
-H.M.P.Hillenaar. 
+Minister van Justitie, namens deze: 
+de hoofdofficier van Justitie, 
+H.M.P. Hillenaar.   
 
 De 
-Minister van Justitie,namens deze:
-de hoofdofficier van Justitie,
-D.Greive. 
+Minister van Justitie, namens deze: 
+de hoofdofficier van Justitie, 
+D. Greive.   
 

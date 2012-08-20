@@ -17,7 +17,7 @@ Gezien het advies van de regionale ondernemingsraad van 21 juni 2010;
 Besluit:     
 ### Paragraaf  1  
 
-#### *Definities* 
+#### * Definities* 
 
 ### Artikel  1  
 
@@ -25,39 +25,39 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-1) *Ambtenaren:* de rechterlijke en niet rechterlijke ambtenaren aangesteld bij de arrondissementsparketten Dordrecht en Rotterdam;  
+1)  *Ambtenaren:* de rechterlijke en niet rechterlijke ambtenaren aangesteld bij de arrondissementsparketten Dordrecht en Rotterdam;  
 
-2) *Bedrijfsvoering:* de dienstverlening op het terrein van personeel, informatie, organisatie, formatie, administratie, aanschaffingen en huisvesting gericht op het realiseren van de taken en doelen van de organisatie, het signaleren en adviseren over de (interne) sturing en beheersing van de primaire en ondersteunende processen en het faciliteren van de planning en control cyclus;  
+2)  *Bedrijfsvoering:* de dienstverlening op het terrein van personeel, informatie, organisatie, formatie, administratie, aanschaffingen en huisvesting gericht op het realiseren van de taken en doelen van de organisatie, het signaleren en adviseren over de (interne) sturing en beheersing van de primaire en ondersteunende processen en het faciliteren van de planning en control cyclus;  
 
-3) *Bestuur:* het Bestuur van de Regio bestaande uit de hoofdofficieren van justitie, de plaatsvervangend hoofdofficier van justitie en de directeur bedrijfsvoering;  
+3)  *Bestuur:* het Bestuur van de Regio bestaande uit de hoofdofficieren van justitie, de plaatsvervangend hoofdofficier van justitie en de directeur bedrijfsvoering;  
 
-4) *College:* het College van procureurs-generaal;  
+4)  *College:* het College van procureurs-generaal;  
 
-5) *Machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, die betrekking hebben op het openbaar ministerie;  
+5)  *Machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, die betrekking hebben op het openbaar ministerie;  
 
-6) *Mandaat:* de bevoegdheid om in naam van de minister besluiten te nemen die betrekking hebben op het openbaar ministerie;  
+6)  *Mandaat:* de bevoegdheid om in naam van de minister besluiten te nemen die betrekking hebben op het openbaar ministerie;  
 
-7) *Minister:* de minister van justitie;  
+7)  *Minister:* de minister van justitie;  
 
-8) *Niet rechterlijk ambtenaar:* de rijksambtenaren en de politieambtenaren;  
+8)  *Niet rechterlijk ambtenaar:* de rijksambtenaren en de politieambtenaren;  
 
-9) *Politieambtenaren:* de ambtenaren die werkzaam zijn bij de rijksrecherche krachtens een aanstelling op grond van het besluit algemene rechtspositie politie;  
+9)  *Politieambtenaren:* de ambtenaren die werkzaam zijn bij de rijksrecherche krachtens een aanstelling op grond van het besluit algemene rechtspositie politie;  
 
-10) *Rechterlijk ambtenaar:* de in de [Wet op de rechterlijke organisatie](../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) als zodanig aangeduide ambtenaren;  
+10)  *Rechterlijk ambtenaar:* de in de [Wet op de rechterlijke organisatie](../../../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) als zodanig aangeduide ambtenaren;  
 
-11) *Regionaal directeur bedrijfsvoering:* de directeur bedrijfsvoering van de arrondissementsparketten te Rotterdam en Dordrecht;  
+11)  *Regionaal directeur bedrijfsvoering:* de directeur bedrijfsvoering van de arrondissementsparketten te Rotterdam en Dordrecht;  
 
-12) *(Regionaal) managementteam:* het managementteam bestaande uit de hoofdofficieren van justitie, de plaatsvervangend hoofdofficier van justitie, de directeur bedrijfsvoering en de regionale afdelingshoofden;  
+12)  *(Regionaal) managementteam:* het managementteam bestaande uit de hoofdofficieren van justitie, de plaatsvervangend hoofdofficier van justitie, de directeur bedrijfsvoering en de regionale afdelingshoofden;  
 
-13) *Rijksambtenaren:* de ambtenaren die zijn aangesteld bij de arrondissementsparketten Dordrecht en Rotterdam op grond van het [Algemeen rijksambtenarenreglement](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+13)  *Rijksambtenaren:* de ambtenaren die zijn aangesteld bij de arrondissementsparketten Dordrecht en Rotterdam op grond van het [Algemeen rijksambtenarenreglement](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
 
-14) *Volmacht:* de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten die betrekking hebben op het openbaar ministerie;  
+14)  *Volmacht:* de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten die betrekking hebben op het openbaar ministerie;  
 
-15) *Voorzitter Bestuur:* de hoofdofficier van justitie van het arrondissementsparket te Rotterdam.    
+15)  *Voorzitter Bestuur:* de hoofdofficier van justitie van het arrondissementsparket te Rotterdam.   
 
 ### Paragraaf  2  
 
-#### *De bevoegdheden* 
+####*De bevoegdheden*
 
 ### Artikel  2  
 
@@ -85,7 +85,7 @@ c) Besluiten te nemen waarmee aan ambtenaren een eenmalige of periodieke toeslag
 
 a) Aan de regionaal directeur bedrijfsvoering wordt mandaat verleend om het arbeidsomstandighedenbeleid te coördineren en uit te voeren zoals dat geldt binnen het openbaar ministerie en hij volgt daarbij – voor zover het betreft de huisvesting en de materiële voorzieningen – het voor het openbaar ministerie geldende arbeidsomstandighedenbeleid.  
 
-b) Aan de regionaal directeur bedrijfsvoering wordt mandaat verleend de bevoegdheden uit te oefenen die op grond van de [Arbeidsomstandighedenwet](../../../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) vereist zijn.      
+b) Aan de regionaal directeur bedrijfsvoering wordt mandaat verleend de bevoegdheden uit te oefenen die op grond van de [Arbeidsomstandighedenwet](../../../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) vereist zijn.     
 
 ### Artikel  3  
 
@@ -125,11 +125,11 @@ e) de specifieke beleidsregels zoals die gelden binnen de regio ‘naam’.
 
 5) De regionaal directeur bedrijfsvoering legt over het gevoerde bedrijfsvoeringbeleid en het gevoerde beheer verantwoording af aan de voorzitter van het Bestuur.  
 
-6) De regionaal directeur bedrijfsvoering is gehouden schriftelijke beslissingen die op grond van zijn budgetmandaat, organisatie en formatiemandaat, beheermandaat, personeelsmandaat en mandaat arbeidsomstandigheden worden genomen, als volgt te ondertekenen: ‘De Minister van Justitie’ ‘namens deze,’ ‘naam ondertekenaar’ ‘directeur bedrijfsvoering’.    
+6) De regionaal directeur bedrijfsvoering is gehouden schriftelijke beslissingen die op grond van zijn budgetmandaat, organisatie en formatiemandaat, beheermandaat, personeelsmandaat en mandaat arbeidsomstandigheden worden genomen, als volgt te ondertekenen: ‘De Minister van Justitie’ ‘namens deze,’ ‘naam ondertekenaar’ ‘directeur bedrijfsvoering’.   
 
 ### Paragraaf  4  
 
-#### *Beslissingen op bezwaar en beroep* 
+####*Beslissingen op bezwaar en beroep* 
 
 ### Artikel  4  
 
@@ -137,11 +137,11 @@ e) de specifieke beleidsregels zoals die gelden binnen de regio ‘naam’.
 
 1) De hoofdofficier van justitie van het arrondissementsparket te Rotterdam beslist op een bezwaar of een beroep dat is gericht tegen een beslissing die is genomen door de regionaal directeur bedrijfsvoering, evenals op een daarmee verband houdend verzoek als bedoeld in [artikel 7:1a, eerste lid van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
 
-2) De regionaal directeur bedrijfsvoering beslist op een bezwaar dat is gericht tegen een beslissing die is genomen op grond van een door hem verleend ondermandaat, evenals op een daarmee verband houdend verzoek als bedoeld in [artikel 7:1a, eerste lid van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).    
+2) De regionaal directeur bedrijfsvoering beslist op een bezwaar dat is gericht tegen een beslissing die is genomen op grond van een door hem verleend ondermandaat, evenals op een daarmee verband houdend verzoek als bedoeld in [artikel 7:1a, eerste lid van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
 
 ### Paragraaf  5  
 
-#### *Verlenen van ondermandaat* 
+####*Verlenen van ondermandaat* 
 
 ### Artikel  5  
 
@@ -149,32 +149,32 @@ e) de specifieke beleidsregels zoals die gelden binnen de regio ‘naam’.
 
 1) De regionaal directeur bedrijfsvoering wordt toegestaan – met de nadrukkelijke instemming van het Bestuur – ondermandaat te verlenen en de aan hem toegekende volmacht en machtiging door te geven aan onder hem ressorterende functionarissen.  
 
-2) Het krachtens dit artikel verleende ondermandaat en de doorgegeven machtiging en volmacht kunnen één hiërarchisch niveau verder worden doorgegeven.    
+2) Het krachtens dit artikel verleende ondermandaat en de doorgegeven machtiging en volmacht kunnen één hiërarchisch niveau verder worden doorgegeven.   
 
 ### Paragraaf  6  
 
-#### *Overgangs- en slotbepalingen* 
+####*Overgangs- en slotbepalingen* 
 
 ### Artikel  6  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 20 november 2009.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 20 november 2009. 
 
 ### Artikel  7  
 
-Dit besluit kan worden aangehaald als: Mandaatbesluit openbaar ministerie regionaal directeur bedrijfsvoering arrondissementsparketten te Dordrecht en Rotterdam 2009.  
+Dit besluit kan worden aangehaald als: Mandaatbesluit openbaar ministerie regionaal directeur bedrijfsvoering arrondissementsparketten te Dordrecht en Rotterdam 2009. 
 
 Dordrecht 
 23 juni 2010   
 
 De 
-Minister van Justitie,namens deze: de 
-hoofdofficier van justitie,
-G.P. van deBeek  
+Minister van Justitie, namens deze:de 
+hoofdofficier van justitie, 
+G.P. van de Beek    
 
 Rotterdam 
 23 juni 2010   
 
 De 
-Minister van Justitie,namens deze: de 
-hoofdofficier van justitie,
-H.C.D.Korvinus   
+Minister van Justitie, namens deze:de 
+hoofdofficier van justitie, 
+H.C.D. Korvinus     

@@ -20,7 +20,7 @@ b. centrale verwerking openbaar ministerie (CVOM);
 
 c. de dienstverleningsorganisatie openbaar ministerie (DVOM);  
 
-d. de Rijksrecherche.    
+d. de Rijksrecherche.   
 
 ### Artikel  2  
 
@@ -34,7 +34,7 @@ b. het verlenen van algemene faciliteiten aan het openbaar ministerie;
 
 c. het verlenen van zaakondersteuning aan de zaaksofficier;  
 
-d. het verlenen van ondersteuning aan het Centraal Justitieel Incasso Bureau.    
+d. het verlenen van ondersteuning aan het Centraal Justitieel Incasso Bureau.   
 
 ### Artikel  3  
 
@@ -54,7 +54,7 @@ a. beslissingen voor te bereiden in het kader van:
 
 ○ verzoeken op grond van de [Wet openbaarheid van bestuur](../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) die niet zijn gerelateerd aan een strafzaak of een zaak op grond van de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../../../wet/wet/mulder/BWBR0004581/README.md) die in behandeling is bij de CVOM, alsmede de daaraan gerelateerde verzoeken op grond van de [Wet dwangsom en beroep bij niet tijdig beslissen](../../../../../../wet/wet/dwangsom/en/beroep/bij/niet/tijdig/beslissen/BWBR0026450/README.md), klachten en informatieverzoeken op grond van de [Wet justitiële en strafvorderlijke gegevens](../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) en de [Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).    
 
-b. het namens het openbaar ministerie optreden in een beroepsprocedure op grond van de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../../../wet/wet/mulder/BWBR0004581/README.md) of een beroepsprocedure met betrekking tot een verzoek om kostenvergoeding op basis van het [Besluit proceskosten bestuursrecht](../../../../../../AMvB/besluit/proceskosten/bestuursrecht/BWBR0006358/README.md).    
+b. het namens het openbaar ministerie optreden in een beroepsprocedure op grond van de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../../../wet/wet/mulder/BWBR0004581/README.md) of een beroepsprocedure met betrekking tot een verzoek om kostenvergoeding op basis van het [Besluit proceskosten bestuursrecht](../../../../../../AMvB/besluit/proceskosten/bestuursrecht/BWBR0006358/README.md).   
 
 ### Artikel  4  
 
@@ -64,38 +64,38 @@ De dienstverleningsorganisatie openbaar ministerie (DVOM) heeft tot taak:
 
 a. het verlenen van ondersteuning aan de portefeuillehouder bedrijfsvoering van het College van procureurs-generaal;  
 
-b. het verrichten van de uitvoerende bedrijfsvoeringstaken voor alle onderdelen van het openbaar ministerie, met name op de terreinen van personeel & organisatie, financiën, ICT en facilitair beheer.    
+b. het verrichten van de uitvoerende bedrijfsvoeringstaken voor alle onderdelen van het openbaar ministerie, met name op de terreinen van personeel & organisatie, financiën, ICT en facilitair beheer.   
 
 ### Artikel  5  
 
 ####Rijksrecherche
 
-De Rijksrecherche heeft tot taak het doen van onderzoek in opdracht van het College van procureurs-generaal, naar feiten of gedragingen die mogelijk een strafbaar feit opleveren.  
+De Rijksrecherche heeft tot taak het doen van onderzoek in opdracht van het College van procureurs-generaal, naar feiten of gedragingen die mogelijk een strafbaar feit opleveren. 
 
 ### Artikel  6  
 
 ####Intrekking voorgaande regelingen
 
-De [Organisatieregeling dienstonderdelen OM](../../../../../../ministeriele-regeling/organisatieregeling/dienstonderdelen/om/BWBR0009155/README.md) van 15 december 1997, het [Aanvullend besluit bij de Organisatieregeling dienstonderdelen OM](../../../../../../ministeriele-regeling/wijzigingsbesluit/bij/het/mandaatbesluit/dienstonderdelen/openbaar/etc/BWBR0012274/README.md) van 27 februari 2001 en het [Aanvullend besluit bij de Organisatieregeling dienstonderdelen Openbaar Ministerie](../../../../../../ministeriele-regeling/aanvullend/besluit/bij/de/organisatieregeling/dienstonderdelen/openbaar/etc/BWBR0018700/README.md) van 26 augustus 2005 worden ingetrokken.  
+De [Organisatieregeling dienstonderdelen OM](../../../../../../ministeriele-regeling/organisatieregeling/dienstonderdelen/om/BWBR0009155/README.md) van 15 december 1997, het [Aanvullend besluit bij de Organisatieregeling dienstonderdelen OM](../../../../../../ministeriele-regeling/wijzigingsbesluit/bij/het/mandaatbesluit/dienstonderdelen/openbaar/etc/BWBR0012274/README.md) van 27 februari 2001 en het [Aanvullend besluit bij de Organisatieregeling dienstonderdelen Openbaar Ministerie](../../../../../../ministeriele-regeling/aanvullend/besluit/bij/de/organisatieregeling/dienstonderdelen/openbaar/etc/BWBR0018700/README.md) van 26 augustus 2005 worden ingetrokken. 
 
 ### Artikel  7  
 
 ####Inwerkingtreding
 
 1.  Deze regeling treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin zijn wordt geplaatst.   
-2.  In afwijking van het eerste lid, werkt artikel 4 terug tot en met 1 januari 2011.   
+2.  In afwijking van het eerste lid, werkt artikel 4 terug tot en met 1 januari 2011.  
 
 ### Artikel  8  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Organisatieregeling dienstonderdelen OM 2012.  
+Dit besluit wordt aangehaald als: Organisatieregeling dienstonderdelen OM 2012. 
 Dit besluit zal met toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 3 augustus 2012   
 
 De 
-minister van Veiligheid en Justitie,namens deze:
-G.N.Roes,
-directeur-generaal Rechtspleging en Rechtshandhaving.   
+minister van Veiligheid en Justitie, namens deze: 
+G.N. Roes,  
+directeur-generaal Rechtspleging en Rechtshandhaving.    

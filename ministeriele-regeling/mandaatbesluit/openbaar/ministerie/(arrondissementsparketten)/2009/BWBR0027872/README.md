@@ -27,25 +27,25 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-1. *College:* het College van procureurs-generaal;  
+1.  *College:* het College van procureurs-generaal;  
 
-2. *Directeur bedrijfsvoering:* de directeuren bedrijfsvoering van de arrondissementsparketten Amsterdam, Den Bosch en Den Haag en de regionaal directeuren bedrijfsvoering van de arrondissementsparketten Arnhem, Breda, Groningen, Haarlem, Maastricht, Rotterdam, Utrecht en Zwolle-Lelystad;  
+2.  *Directeur bedrijfsvoering:* de directeuren bedrijfsvoering van de arrondissementsparketten Amsterdam, Den Bosch en Den Haag en de regionaal directeuren bedrijfsvoering van de arrondissementsparketten Arnhem, Breda, Groningen, Haarlem, Maastricht, Rotterdam, Utrecht en Zwolle-Lelystad;  
 
-3. *Hoofdofficier van Justitie:* de officier van justitie als bedoeld in [artikel 1, aanhef, onderdeel b, sub 6, van de Wet op de rechterlijke organisatie](../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) die op grond van [artikel 136, derde lid van de Wet op de rechterlijke organisatie](../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) is aangewezen als hoofd van het arrondissementsparket;  
+3.  *Hoofdofficier van Justitie:* de officier van justitie als bedoeld in [artikel 1, aanhef, onderdeel b, sub 6, van de Wet op de rechterlijke organisatie](../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) die op grond van [artikel 136, derde lid van de Wet op de rechterlijke organisatie](../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) is aangewezen als hoofd van het arrondissementsparket;  
 
-4. *Machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit, of een privaatrechtelijke rechtshandeling zijn, die betrekking hebben op het openbaar ministerie;  
+4.  *Machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit, of een privaatrechtelijke rechtshandeling zijn, die betrekking hebben op het openbaar ministerie;  
 
-5. *Mandaat:* de bevoegdheid om in naam van de minister besluiten te nemen die betrekking hebben op het openbaar ministerie;  
+5.  *Mandaat:* de bevoegdheid om in naam van de minister besluiten te nemen die betrekking hebben op het openbaar ministerie;  
 
-6. *Minister:* de minister van justitie;  
+6.  *Minister:* de minister van justitie;  
 
-7. *Niet rechterlijk ambtenaar:* de rijksambtenaren en de politieambtenaren;  
+7.  *Niet rechterlijk ambtenaar:* de rijksambtenaren en de politieambtenaren;  
 
-8. *Politieambtenaren:* de ambtenaren die werkzaam zijn bij de rijksrecherche krachtens een aanstelling op grond van het [besluit algemene rechtspositie politie](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
+8.  *Politieambtenaren:* de ambtenaren die werkzaam zijn bij de rijksrecherche krachtens een aanstelling op grond van het [besluit algemene rechtspositie politie](../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
 
-9. *Rechterlijk ambtenaar:* de in de [Wet op de rechterlijke organisatie](../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) als zodanig aangeduide ambtenaren;  
+9.  *Rechterlijk ambtenaar:* de in de [Wet op de rechterlijke organisatie](../../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) als zodanig aangeduide ambtenaren;  
 
-10. *(Regionaal) managementteam:* het managementteam bestaande uit de hoofdofficieren van justitie, de fungerend hoofdofficier van justitie en de directeur bedrijfsvoering van de hierna genoemde gezamenlijke arrondissementsparketten: 
+10.  *(Regionaal) managementteam:* het managementteam bestaande uit de hoofdofficieren van justitie, de fungerend hoofdofficier van justitie en de directeur bedrijfsvoering van de hierna genoemde gezamenlijke arrondissementsparketten: 
 
 a. Arrondissementsparket Amsterdam;  
 
@@ -69,11 +69,11 @@ j. Arrondissementsparket Utrecht en Zwolle-Lelystad, vestiging Lelystad, en;
 
 k. Arrondissementsparketten Almelo en Zwolle-Lelystad, exclusief de vestiging Lelystad;    
 
-11. *Rijksambtenaren:* de ambtenaren die werkzaam zijn bij dienstonderdelen van het openbaar ministerie krachtens een aanstelling op grond van het [Algemeen rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+11.  *Rijksambtenaren:* de ambtenaren die werkzaam zijn bij dienstonderdelen van het openbaar ministerie krachtens een aanstelling op grond van het [Algemeen rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
 
-12. *Volmacht:* de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten die betrekking hebben op het openbaar ministerie;  
+12.  *Volmacht:* de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten die betrekking hebben op het openbaar ministerie;  
 
-13. *Voorzitter van het regionaal managementteam:* de in artikel 2 aangewezen hoofdofficieren van justitie.    
+13.  *Voorzitter van het regionaal managementteam:* de in artikel 2 aangewezen hoofdofficieren van justitie.   
 
 ### Paragraaf  2  
 
@@ -104,7 +104,7 @@ i. De hoofdofficier van justitie te Rotterdam indien en voor zover het gaat om d
 j. De hoofdofficier van justitie te Utrecht indien en voor zover het gaat om het arrondissementsparket te Utrecht en Zwolle-Lelystad, vestiging Lelystad;  
 
 k. De hoofdofficier van justitie te Zwolle indien en voor zover het gaat om de gezamenlijke arrondissementsparketten te Almelo en Zwolle-Lelystad, exclusief de vestiging Lelystad.     
-2.  De in het eerste lid, onder a, d, e en j, genoemde hoofdofficieren van justitie wijzen een fungerend hoofdofficier van justitie, die lid is van het managementteam, aan als plaatsvervangend voorzitter van het managementteam. De in het eerste lid onder b, c, f, g, h, i en k genoemde hoofdofficieren van justitie wijzen een hoofdofficier van justitie, die lid is van het regionaal managementteam, aan als plaatsvervangend voorzitter van het regionaal managementteam. In geval van afwezigheid, belet of ontstentenis van de in het eerste lid genoemde hoofdofficieren van justitie worden deze vervangen door hun plaatsvervanger.   
+2.  De in het eerste lid, onder a, d, e en j, genoemde hoofdofficieren van justitie wijzen een fungerend hoofdofficier van justitie, die lid is van het managementteam, aan als plaatsvervangend voorzitter van het managementteam. De in het eerste lid onder b, c, f, g, h, i en k genoemde hoofdofficieren van justitie wijzen een hoofdofficier van justitie, die lid is van het regionaal managementteam, aan als plaatsvervangend voorzitter van het regionaal managementteam. In geval van afwezigheid, belet of ontstentenis van de in het eerste lid genoemde hoofdofficieren van justitie worden deze vervangen door hun plaatsvervanger.  
 
 ### Paragraaf  3  
 
@@ -122,7 +122,7 @@ b. het mandaat dat op grond van artikel 4, eerste lid aan de hoofdofficier van j
 2.  Budgetmandaat Aan de voorzitter van het regionaal managementteam bedoeld in artikel 2, eerste lid, wordt mandaat verleend om besluiten te nemen met betrekking tot de verdeling, toedeling en besteding van het gezamenlijke budget van de arrondissementsparketten die onder het bereik van het betreffende regionaal managementteam vallen, een en ander met inachtneming van het aan hem toegekende budget en de voor het budgethouderschap geldende voorschriften.   
 3.  Het College behoudt zich het recht voor om bij een nader aanvullend besluit nadere aanwijzingen te geven ten aanzien van de administratieve organisatie van het budgetmandaat, de wijze waarop verplichtingen worden aangegaan, de wijze waarop betaalbaarstelling ten laste van het budget plaatsheeft en de wijze waarop bestedingen van het budget worden verantwoord.   
 4.  Aan de voorzitter van het regionaal managementteam bedoeld in artikel 2, eerste lid, wordt mandaat verleend om via het jaarplan aanwijzingen te geven aan de hoofdofficieren van justitie met betrekking tot de besteding en de uitputting van het budget.   
-5.  Mandaat organisatie en formatie Aan de voorzitter van het regionaal managementteam bedoeld in artikel 2, eerste lid, wordt mandaat verleend om, passend binnen de hoofdlijnen van de organisatie en formatie en met inachtneming van de budgettaire kaders zoals die in het jaarplan zijn vastgelegd en het geldende functiehuis voor de sectoren rechterlijke macht en rijk, de organisatie en formatie vast te stellen van de arrondissementsparketten die onder het bereik van het betreffende regionaal managementteam vallen.   
+5.  Mandaat organisatie en formatie Aan de voorzitter van het regionaal managementteam bedoeld in artikel 2, eerste lid, wordt mandaat verleend om, passend binnen de hoofdlijnen van de organisatie en formatie en met inachtneming van de budgettaire kaders zoals die in het jaarplan zijn vastgelegd en het geldende functiehuis voor de sectoren rechterlijke macht en rijk, de organisatie en formatie vast te stellen van de arrondissementsparketten die onder het bereik van het betreffende regionaal managementteam vallen.  
 
 ### Artikel  4  
 
@@ -151,7 +151,7 @@ a. het sturen van ontvangstbevestigingen;
 b. het sturen van tussenberichten, waaronder uitstelberichten, of;  
 
 c. stukken naar aanleiding van pogingen van de nationale Ombudsman om ter vermijding van een volledig onderzoek te bevorderen dat alsnog aan de klacht tegemoet wordt gekomen (interventies).     
-8.   [Wet openbaarheid van bestuur](../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md)  Aan de hoofdofficier van justitie wordt mandaat en machtiging verleend om besluiten te nemen op verzoeken op grond van de [Wet openbaarheid van bestuur](../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) met uitzondering van de besluiten die belangrijke politieke, bestuurlijke of maatschappelijke gevolgen kunnen hebben.   
+8.  [Wet openbaarheid van bestuur](../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) Aan de hoofdofficier van justitie wordt mandaat en machtiging verleend om besluiten te nemen op verzoeken op grond van de [Wet openbaarheid van bestuur](../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) met uitzondering van de besluiten die belangrijke politieke, bestuurlijke of maatschappelijke gevolgen kunnen hebben.  
 
 ### Artikel  5  
 
@@ -207,7 +207,7 @@ e. de specifieke beleidsregels zoals die gelden binnen het dienstonderdeel.
 
 7. De hoofdofficier van justitie legt over het gevoerde beheer verantwoording af aan de voorzitter van het regionaal managementteam.  
 
-8. De voorzitter van het regionaal managementteam en de hoofdofficier van justitie zijn gehouden schriftelijke beslissingen die op grond van hun beheermandaat, budgetmandaat, organisatie en formatiemandaat, personeelsmandaat en mandaat arbeidsomstandigheden worden genomen, als volgt te ondertekenen: ‘De Minister van Justitie’ ‘namens deze,’ ‘naam ondertekenaar’ ‘functie ondertekenaar’.    
+8. De voorzitter van het regionaal managementteam en de hoofdofficier van justitie zijn gehouden schriftelijke beslissingen die op grond van hun beheermandaat, budgetmandaat, organisatie en formatiemandaat, personeelsmandaat en mandaat arbeidsomstandigheden worden genomen, als volgt te ondertekenen: ‘De Minister van Justitie’ ‘namens deze,’ ‘naam ondertekenaar’ ‘functie ondertekenaar’.   
 
 ### Paragraaf  4  
 
@@ -218,7 +218,7 @@ e. de specifieke beleidsregels zoals die gelden binnen het dienstonderdeel.
 ####Beslissingen op bezwaar en beroep
 
 1.  Het College beslist op een bezwaar of een beroep dat is gericht tegen een besluit dat is genomen door de hoofdofficier van justitie, alsmede op een daarmee verband houdend verzoek als bedoeld in [artikel 7:1a, eerste lid van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-2.  De hoofdofficier van justitie beslist op een bezwaar dat op grond van een door hen verleend ondermandaat is genomen alsmede op een daarmee verband houdend verzoek als bedoeld in [artikel 7:1a, eerste lid van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+2.  De hoofdofficier van justitie beslist op een bezwaar dat op grond van een door hen verleend ondermandaat is genomen alsmede op een daarmee verband houdend verzoek als bedoeld in [artikel 7:1a, eerste lid van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
 
 ### Paragraaf  5  
 
@@ -236,7 +236,7 @@ a. Ondermandaat te verlenen aan de hoofdofficier van justitie die op grond van a
 b. Ondermandaat te verlenen aan de regionaal directeur bedrijfsvoering, en;  
 
 c. Ondermandaat te verlenen aan onder hem ressorterende functionarissen.     
-3.  Het krachtens dit artikel verleende ondermandaat en de doorgegeven machtiging en volmacht kunnen één hiërarchisch niveau verder worden doorgegeven.   
+3.  Het krachtens dit artikel verleende ondermandaat en de doorgegeven machtiging en volmacht kunnen één hiërarchisch niveau verder worden doorgegeven.  
 
 ### Paragraaf  6  
 
@@ -245,24 +245,24 @@ c. Ondermandaat te verlenen aan onder hem ressorterende functionarissen.
 ### Artikel  8  
 
 1.  Bestaande regelingen waarin de in het [Mandaatbesluit dienstonderdelen openbaar ministerie](../../../../../../../ministeriele-regeling/mandaatbesluit/dienstonderdelen/openbaar/ministerie/2009/etc/BWBR0027871/README.md) verleende mandaten, volmachten en machtigingen verder worden doorgegeven, worden geacht te zijn gegrond op deze regeling, voor zover zij daarmee niet strijdig zijn, totdat op grond van deze regeling nieuwe ondermandaten zijn vastgesteld of volmachten en machtigingen worden doorgegeven.   
-2.  Bestaande regelingen waarin de in het Mandaatbesluit dienstonderdelen openbaar ministerie verleende mandaten, volmachten en machtigingen verder worden doorgegeven, worden geacht op 1 juli 2010 te zijn ingetrokken, tenzij deze reeds op een eerder tijdstip worden ingetrokken en zijn vervangen door een op dit besluit gegronde regeling van het ondermandaat of het doorgeven van volmacht en machtigingen.   
+2.  Bestaande regelingen waarin de in het Mandaatbesluit dienstonderdelen openbaar ministerie verleende mandaten, volmachten en machtigingen verder worden doorgegeven, worden geacht op 1 juli 2010 te zijn ingetrokken, tenzij deze reeds op een eerder tijdstip worden ingetrokken en zijn vervangen door een op dit besluit gegronde regeling van het ondermandaat of het doorgeven van volmacht en machtigingen.  
 
 ### Artikel  9  
 
-Het Mandaatbesluit dienstonderdelen openbaar ministerie van 15 december 1997, nummer 665431 L/897, wordt ingetrokken.  
+Het Mandaatbesluit dienstonderdelen openbaar ministerie van 15 december 1997, nummer 665431 L/897, wordt ingetrokken. 
 
 ### Artikel  10  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 20 november 2009.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 20 november 2009. 
 
 ### Artikel  11  
 
-Dit besluit kan worden aangehaald als: Mandaatbesluit openbaar ministerie (arrondissementsparketten) 2009.  
+Dit besluit kan worden aangehaald als: Mandaatbesluit openbaar ministerie (arrondissementsparketten) 2009. 
 
 ’s-Gravenhage 
 18 december 2009   
 
 De 
-Minister van Justitie,namens deze,
-Voorzitter van het College van procureurs generaal,
-H.M.Brouwer   
+Minister van Justitie, namens deze, 
+Voorzitter van het College van procureurs generaal, 
+H.M. Brouwer     

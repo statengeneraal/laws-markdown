@@ -25,29 +25,29 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-1. *Ambtenaar:* de rijksambtenaren aangesteld bij de arrondissementsparketten Assen, Groningen en Leeuwarden, die zijn belast met taken op het gebied van bedrijfsvoering;  
+1.  *Ambtenaar:* de rijksambtenaren aangesteld bij de arrondissementsparketten Assen, Groningen en Leeuwarden, die zijn belast met taken op het gebied van bedrijfsvoering;  
 
-2. *Bedrijfsvoering:* de dienstverlening op het terrein van personeel, informatie, organisatie, formatie, administratie, aanschaffingen en huisvesting gericht op het realiseren van de taken en doelen van de organisatie, het signaleren en adviseren over de (interne) sturing en beheersing van de primaire en ondersteunende processen en het faciliteren van de planning en controll cyclus;  
+2.  *Bedrijfsvoering:* de dienstverlening op het terrein van personeel, informatie, organisatie, formatie, administratie, aanschaffingen en huisvesting gericht op het realiseren van de taken en doelen van de organisatie, het signaleren en adviseren over de (interne) sturing en beheersing van de primaire en ondersteunende processen en het faciliteren van de planning en controll cyclus;  
 
-3. *Bestuur:* het Bestuur van de Regio bestaande uit de hoofdofficieren van justitie en de directeur bedrijfsvoering;  
+3.  *Bestuur:* het Bestuur van de Regio bestaande uit de hoofdofficieren van justitie en de directeur bedrijfsvoering;  
 
-4. *College:* het College van procureurs-generaal;  
+4.  *College:* het College van procureurs-generaal;  
 
-5. *Machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, die betrekking hebben op het openbaar ministerie;  
+5.  *Machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, die betrekking hebben op het openbaar ministerie;  
 
-6. *Mandaat:* de bevoegdheid om in naam van de minister besluiten te nemen die betrekking hebben op het openbaar ministerie;  
+6.  *Mandaat:* de bevoegdheid om in naam van de minister besluiten te nemen die betrekking hebben op het openbaar ministerie;  
 
-7. *Minister:* de minister van justitie;  
+7.  *Minister:* de minister van justitie;  
 
-8. *Regionaal directeur bedrijfsvoering:* de directeur bedrijfsvoering van het arrondissementsparket te Groningen;  
+8.  *Regionaal directeur bedrijfsvoering:* de directeur bedrijfsvoering van het arrondissementsparket te Groningen;  
 
-9. *(Regionaal) managementteam:* het managementteam bestaande uit de hoofdofficieren van justitie, de directeur bedrijfsvoering en de regionale afdelingshoofden;  
+9.  *(Regionaal) managementteam:* het managementteam bestaande uit de hoofdofficieren van justitie, de directeur bedrijfsvoering en de regionale afdelingshoofden;  
 
-10. *Rijksambtenaren:* de ambtenaren die werkzaam zijn bij dienstonderdelen van het openbaar ministerie krachtens een aanstelling op grond van het [Algemeen rijksambtenarenreglement](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+10.  *Rijksambtenaren:* de ambtenaren die werkzaam zijn bij dienstonderdelen van het openbaar ministerie krachtens een aanstelling op grond van het [Algemeen rijksambtenarenreglement](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
 
-11. *Volmacht:* de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten die betrekking hebben op het openbaar ministerie;  
+11.  *Volmacht:* de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten die betrekking hebben op het openbaar ministerie;  
 
-12. *Voorzitter Bestuur:* de hoofdofficier van justitie van het arrondissementsparket te Groningen.    
+12.  *Voorzitter Bestuur:* de hoofdofficier van justitie van het arrondissementsparket te Groningen.   
 
 ### Paragraaf  2  
 
@@ -75,7 +75,7 @@ c) Besluiten te nemen waarmee aan medewerkers bedrijfsvoering een eenmalige of p
 
 a) Aan de regionaal directeur bedrijfsvoering wordt mandaat verleend om het arbeidsomstandighedenbeleid te coördineren en uit te voeren zoals dat geldt binnen het openbaar ministerie en hij volgt daarbij – voor zover het betreft de huisvesting en de materiële voorzieningen – het voor het openbaar ministerie geldende arbeidsomstandighedenbeleid.  
 
-b) Aan de regionaal directeur bedrijfsvoering wordt mandaat verleend de bevoegdheden uit te oefenen die op grond van de [Arbeidsomstandighedenwet](../../../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) vereist zijn.     
+b) Aan de regionaal directeur bedrijfsvoering wordt mandaat verleend de bevoegdheden uit te oefenen die op grond van de [Arbeidsomstandighedenwet](../../../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) vereist zijn.    
 
 ### Paragraaf  3  
 
@@ -109,7 +109,7 @@ d. de algemeen geldende regels zoals die binnen het openbaar ministerie gelden, 
 
 e. de specifieke beleidsregels zoals die gelden binnen de regio ‘naam’.     
 4.  De regionaal directeur bedrijfsvoering legt over het gevoerde bedrijfsvoeringbeleid en het gevoerde beheer verantwoording af aan de voorzitter van het Bestuur.   
-5.  De regionaal directeur bedrijfsvoering is gehouden schriftelijke beslissingen die op grond van zijn budgetmandaat, organisatie en formatiemandaat, beheermandaat, personeelsmandaat en mandaat arbeidsomstandigheden worden genomen, als volgt te ondertekenen: ‘De Minister van Justitie’ ‘namens deze,’ ‘naam ondertekenaar’ ‘directeur bedrijfsvoering’.   
+5.  De regionaal directeur bedrijfsvoering is gehouden schriftelijke beslissingen die op grond van zijn budgetmandaat, organisatie en formatiemandaat, beheermandaat, personeelsmandaat en mandaat arbeidsomstandigheden worden genomen, als volgt te ondertekenen: ‘De Minister van Justitie’ ‘namens deze,’ ‘naam ondertekenaar’ ‘directeur bedrijfsvoering’.  
 
 ### Paragraaf  4  
 
@@ -120,7 +120,7 @@ e. de specifieke beleidsregels zoals die gelden binnen de regio ‘naam’.
 ####Beslissingen op bezwaar en beroep
 
 1.  De hoofdofficier van justitie van het arrondissementsparket te Groningen beslist op een bezwaar of een beroep dat is gericht tegen een beslissing die is genomen door de regionaal directeur bedrijfsvoering, alsmede op een daarmee verband houdend verzoek als bedoeld in [artikel 7:1a, eerste lid van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-2.  De regionaal directeur bedrijfsvoering beslist op een bezwaar dat is gericht tegen een beslissing die is genomen op grond van een door hem verleend ondermandaat, alsmede op een daarmee verband houdend verzoek als bedoeld in [artikel 7:1a, eerste lid van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+2.  De regionaal directeur bedrijfsvoering beslist op een bezwaar dat is gericht tegen een beslissing die is genomen op grond van een door hem verleend ondermandaat, alsmede op een daarmee verband houdend verzoek als bedoeld in [artikel 7:1a, eerste lid van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
 
 ### Paragraaf  5  
 
@@ -131,7 +131,7 @@ e. de specifieke beleidsregels zoals die gelden binnen de regio ‘naam’.
 ####Ondermandaat
 
 1.  De regionaal directeur bedrijfsvoering wordt toegestaan – met de nadrukkelijke instemming van het Bestuur – ondermandaat te verlenen en de aan hem toegekende volmacht en machtiging door te geven aan onder hem ressorterende functionarissen.   
-2.  Het krachtens dit artikel verleende ondermandaat en de doorgegeven machtiging en volmacht kunnen één hiërarchisch niveau verder worden doorgegeven.   
+2.  Het krachtens dit artikel verleende ondermandaat en de doorgegeven machtiging en volmacht kunnen één hiërarchisch niveau verder worden doorgegeven.  
 
 ### Paragraaf  6  
 
@@ -139,26 +139,26 @@ e. de specifieke beleidsregels zoals die gelden binnen de regio ‘naam’.
 
 ### Artikel  6  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 20 november 2009.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 20 november 2009. 
 
 ### Artikel  7  
 
-Dit besluit kan worden aangehaald als: Mandaatbesluit openbaar ministerie regionaal directeur bedrijfsvoering arrondissementsparketten te Assen, Groningen en Leeuwarden 2009.  
+Dit besluit kan worden aangehaald als: Mandaatbesluit openbaar ministerie regionaal directeur bedrijfsvoering arrondissementsparketten te Assen, Groningen en Leeuwarden 2009. 
 
 Groningen 
 26 mei 2010   
 
 De 
-Minister van Justitie,namens deze:
-De hoofdofficier van Justitie,
-M.A.A. vanCapelle. 
+Minister van Justitie, namens deze: 
+De hoofdofficier van Justitie, 
+M.A.A. van Capelle.   
 
 De 
-Minister van Justitie,namens deze:
-De hoofdofficier van Justitie,
-L.Ph. denHollander. 
+Minister van Justitie, namens deze: 
+De hoofdofficier van Justitie, 
+L.Ph. den Hollander.   
 
 De 
-Minister van Justitie,namens deze:
-De hoofdofficier van Justitie,
-A.H. vanBronsvoort.   
+Minister van Justitie, namens deze: 
+De hoofdofficier van Justitie, 
+A.H. van Bronsvoort.     

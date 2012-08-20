@@ -25,25 +25,25 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-1. *Ambtenaar:* de rijksambtenaren aangesteld bij het arrondissementsparket Den Bosch, die zijn belast met taken op het gebied van bedrijfsvoering;  
+1.  *Ambtenaar:* de rijksambtenaren aangesteld bij het arrondissementsparket Den Bosch, die zijn belast met taken op het gebied van bedrijfsvoering;  
 
-2. *Bedrijfsvoering:* de dienstverlening op het terrein van personeel, informatie, organisatie, formatie, administratie, aanschaffingen en huisvesting gericht op het realiseren van de taken en doelen van de organisatie, het signaleren en adviseren over de (interne) sturing en beheersing van de primaire en ondersteunende processen en het faciliteren van de planning en controll cyclus;  
+2.  *Bedrijfsvoering:* de dienstverlening op het terrein van personeel, informatie, organisatie, formatie, administratie, aanschaffingen en huisvesting gericht op het realiseren van de taken en doelen van de organisatie, het signaleren en adviseren over de (interne) sturing en beheersing van de primaire en ondersteunende processen en het faciliteren van de planning en controll cyclus;  
 
-3. *College:* het College van procureurs-generaal;  
+3.  *College:* het College van procureurs-generaal;  
 
-4. *Directeur bedrijfsvoering:* de directeur bedrijfsvoering van het arrondissementsparket te Den Bosch;  
+4.  *Directeur bedrijfsvoering:* de directeur bedrijfsvoering van het arrondissementsparket te Den Bosch;  
 
-5. *Machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, die betrekking hebben op het openbaar ministerie;  
+5.  *Machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn, die betrekking hebben op het openbaar ministerie;  
 
-6. *Mandaat:* de bevoegdheid om in naam van de minister besluiten te nemen die betrekking hebben op het openbaar ministerie;  
+6.  *Mandaat:* de bevoegdheid om in naam van de minister besluiten te nemen die betrekking hebben op het openbaar ministerie;  
 
-7. *Minister:* de minister van justitie;  
+7.  *Minister:* de minister van justitie;  
 
-8. *Rijksambtenaren:* de ambtenaren die werkzaam zijn bij dienstonderdelen van het openbaar ministerie krachtens een aanstelling op grond van het [Algemeen rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+8.  *Rijksambtenaren:* de ambtenaren die werkzaam zijn bij dienstonderdelen van het openbaar ministerie krachtens een aanstelling op grond van het [Algemeen rijksambtenarenreglement](../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
 
-9. *Volmacht:* de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten die betrekking hebben op het openbaar ministerie;  
+9.  *Volmacht:* de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten die betrekking hebben op het openbaar ministerie;  
 
-10. *Voorzitter van het Bestuur:* de hoofdofficier van justitie van het arrondissementsparket te Den Bosch.    
+10.  *Voorzitter van het Bestuur:* de hoofdofficier van justitie van het arrondissementsparket te Den Bosch.   
 
 ### Paragraaf  2  
 
@@ -80,7 +80,7 @@ c) het sturen van ontvangstbevestigingen;
 d) het sturen van tussenberichten, waaronder uitstelberichten, of;  
 
 e) stukken naar aanleiding van pogingen van de nationale Ombudsman om ter vermijding van een volledig onderzoek te bevorderen dat alsnog aan de klacht tegemoet wordt gekomen (interventies).     
-8.   [Wet openbaarheid van bestuur](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md)  Aan de directeur bedrijfsvoering wordt mandaat en machtiging verleend om besluiten te nemen op verzoeken op grond van de [Wet openbaarheid van bestuur](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) met uitzondering van de besluiten die belangrijke politieke, bestuurlijke of maatschappelijke gevolgen kunnen hebben.   
+8.  [Wet openbaarheid van bestuur](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) Aan de directeur bedrijfsvoering wordt mandaat en machtiging verleend om besluiten te nemen op verzoeken op grond van de [Wet openbaarheid van bestuur](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) met uitzondering van de besluiten die belangrijke politieke, bestuurlijke of maatschappelijke gevolgen kunnen hebben.  
 
 ### Paragraaf  3  
 
@@ -114,7 +114,7 @@ d. de algemeen geldende regels zoals die binnen het openbaar ministerie gelden, 
 
 e. de specifieke beleidsregels zoals die gelden binnen de regio ‘naam’.     
 4.  De directeur bedrijfsvoering legt over het gevoerde bedrijfsvoeringbeleid en het gevoerde beheer verantwoording af aan de voorzitter van het Bestuur.   
-5.  De directeur bedrijfsvoering is gehouden schriftelijke beslissingen die op grond van zijn budgetmandaat, organisatie en formatiemandaat, beheermandaat, personeelsmandaat en mandaat arbeidsomstandigheden worden genomen, als volgt te ondertekenen: ‘De Minister van Justitie’ ‘namens deze,’ ‘naam ondertekenaar’ ‘directeur bedrijfsvoering’.   
+5.  De directeur bedrijfsvoering is gehouden schriftelijke beslissingen die op grond van zijn budgetmandaat, organisatie en formatiemandaat, beheermandaat, personeelsmandaat en mandaat arbeidsomstandigheden worden genomen, als volgt te ondertekenen: ‘De Minister van Justitie’ ‘namens deze,’ ‘naam ondertekenaar’ ‘directeur bedrijfsvoering’.  
 
 ### Paragraaf  4  
 
@@ -125,7 +125,7 @@ e. de specifieke beleidsregels zoals die gelden binnen de regio ‘naam’.
 ####Beslissingen op bezwaar en beroep
 
 1.  De hoofdofficier van justitie van het arrondissementsparket te Den Bosch beslist op een bezwaar of een beroep dat is gericht tegen een beslissing die is genomen door de directeur bedrijfsvoering, alsmede op een daarmee verband houdend verzoek als bedoeld in [artikel 7:1a, eerste lid van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-2.  De directeur bedrijfsvoering beslist op een bezwaar dat is gericht tegen een beslissing die is genomen op grond van een door hem verleend ondermandaat, alsmede op een daarmee verband houdend verzoek als bedoeld in [artikel 7:1a, eerste lid van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+2.  De directeur bedrijfsvoering beslist op een bezwaar dat is gericht tegen een beslissing die is genomen op grond van een door hem verleend ondermandaat, alsmede op een daarmee verband houdend verzoek als bedoeld in [artikel 7:1a, eerste lid van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
 
 ### Paragraaf  5  
 
@@ -136,7 +136,7 @@ e. de specifieke beleidsregels zoals die gelden binnen de regio ‘naam’.
 ####Ondermandaat
 
 1.  De directeur bedrijfsvoering wordt toegestaan – met de nadrukkelijke instemming van de hoofdofficier van justitie van het arrondissementsparket te Den Bosch – ondermandaat te verlenen en de aan hem toegekende volmacht en machtiging door te geven aan onder hem ressorterende functionarissen.   
-2.  Het krachtens dit artikel verleende ondermandaat en de doorgegeven machtiging en volmacht kunnen één hiërarchisch niveau verder worden doorgegeven.   
+2.  Het krachtens dit artikel verleende ondermandaat en de doorgegeven machtiging en volmacht kunnen één hiërarchisch niveau verder worden doorgegeven.  
 
 ### Paragraaf  6  
 
@@ -144,16 +144,16 @@ e. de specifieke beleidsregels zoals die gelden binnen de regio ‘naam’.
 
 ### Artikel  6  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 20 november 2009.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot 20 november 2009. 
 
 ### Artikel  7  
 
-Dit besluit kan worden aangehaald als: Mandaatbesluit openbaar ministerie directeur bedrijfsvoering arrondissementsparket te Den Bosch 2009.  
+Dit besluit kan worden aangehaald als: Mandaatbesluit openbaar ministerie directeur bedrijfsvoering arrondissementsparket te Den Bosch 2009. 
 
 Den Bosch 
 24 maart 2010   
 
 De 
-Minister van Justitie,namens deze:
-de hoofdofficier van justitie,
-G.V. van derBurg.   
+Minister van Justitie, namens deze: 
+de hoofdofficier van justitie, 
+G.V. van der Burg.     

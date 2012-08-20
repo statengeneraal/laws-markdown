@@ -5,7 +5,7 @@
 De ledenraad van de Koninklijke Notariële Beroepsorganisatie KNB;  
 Overwegende dat het gewenst is regelen te stellen met betrekking tot de kwaliteit en de integriteit van de notaris en de kandidaat-notaris;
 
-Gelet op artikel 61 a, Wet op het notarisambt;
+Gelet op [artikel 61 a, Wet op het notarisambt](../../../../../../wet/notariswet/BWBR0010388/README.md);
 
 Gezien het ontwerp van het bestuur met bijbehorende toelichting;
 
@@ -18,47 +18,47 @@ Stelt de navolgende verordening vast:
 
 In deze verordening wordt verstaan onder: 
 
-a. *notaris:* de notaris, genoemd in artikel 1, onder b, Wet op het notarisambt, alsmede de kandidaat-notaris, genoemd in artikel 1, onder b, Wet op het notarisambt, tenzij uit de aard van de bepaling anders voortvloeit;  
+a.  *notaris:* de notaris, genoemd in [artikel 1, onder b, Wet op het notarisambt](../../../../../../wet/notariswet/BWBR0010388/README.md), alsmede de kandidaat-notaris, genoemd in [artikel 1, onder b, Wet op het notarisambt](../../../../../../wet/notariswet/BWBR0010388/README.md), tenzij uit de aard van de bepaling anders voortvloeit;  
 
-b. *bestuur:* het bestuur van de KNB, genoemd in artikel 64, eerste lid, Wet op het notarisambt;  
+b.  *bestuur:* het bestuur van de KNB, genoemd in [artikel 64, eerste lid, Wet op het notarisambt](../../../../../../wet/notariswet/BWBR0010388/README.md);  
 
-c. *eigen verklaring:* door de notaris ondertekende verklaring overeenkomstig het door het bestuur vastgestelde model;  
+c.  *eigen verklaring:* door de notaris ondertekende verklaring overeenkomstig het door het bestuur vastgestelde model;  
 
-d. *intercollegiale kwaliteitstoetsing:* onafhankelijk onderzoek door notariële deskundigen naar de wijze waarop de notaris voldoet aan de voor hem geldende normen van kwaliteit en integriteit, op basis van gesprekken en het doornemen van dossiers met de notaris en medewerkers van de notaris;  
+d.  *intercollegiale kwaliteitstoetsing:* onafhankelijk onderzoek door notariële deskundigen naar de wijze waarop de notaris voldoet aan de voor hem geldende normen van kwaliteit en integriteit, op basis van gesprekken en het doornemen van dossiers met de notaris en medewerkers van de notaris;  
 
-e. *nadere toetsing:* nadere intercollegiale kwaliteitstoetsing;  
+e.  *nadere toetsing:* nadere intercollegiale kwaliteitstoetsing;  
 
-f. *toetser:* notariële deskundige die door de KNB is opgeleid om in opdracht van het bestuur intercollegiale kwaliteitstoetsingen te verrichten.    
+f.  *toetser:* notariële deskundige die door de KNB is opgeleid om in opdracht van het bestuur intercollegiale kwaliteitstoetsingen te verrichten.   
 
 ### Artikel  2  
 
-1.  Notarissen verstrekken desgevraagd aan het bestuur of de namens het bestuur optredende personen inlichtingen over de wijze waarop zij . voldoen aan de bij of krachtens de Wet op het notarisambt gegeven bepalingen of een op deze wet berustende verordening, 
+1.  Notarissen verstrekken desgevraagd aan het bestuur of de namens het bestuur optredende personen inlichtingen over de wijze waarop zij . voldoen aan de bij of krachtens de [Wet op het notarisambt](../../../../../../wet/notariswet/BWBR0010388/README.md) gegeven bepalingen of een op deze wet berustende verordening, 
 
 * de zorg betrachten die zij als notarissen behoren te betrachten ten opzichte van degenen te wier behoeve zij optreden en  
 
 * handelen of nalaten zoals een behoorlijk notaris betaamt.     
-2.  Notarissen verstrekken deze inlichtingen door overlegging van een eigen verklaring en door deel te nemen aan een intercollegiale kwaliteitstoetsing of nadere toetsing op hun kantoor.   
+2.  Notarissen verstrekken deze inlichtingen door overlegging van een eigen verklaring en door deel te nemen aan een intercollegiale kwaliteitstoetsing of nadere toetsing op hun kantoor.  
 
 ### Artikel  4  
 
-De criteria aan de hand waarvan de intercollegiale kwaliteitstoetsing en nadere toetsing plaats vinden hebben betrekking op de beoordeling van de opdracht, voorlichting over de gevraagde werkzaamheden en de opdrachtbevestiging, de uitvoering en afronding van de opdracht en het besef van kwaliteit en integriteit. De criteria zijn nader uitgewerkt in de aan deze verordening gehechte bijlage.  
+De criteria aan de hand waarvan de intercollegiale kwaliteitstoetsing en nadere toetsing plaats vinden hebben betrekking op de beoordeling van de opdracht, voorlichting over de gevraagde werkzaamheden en de opdrachtbevestiging, de uitvoering en afronding van de opdracht en het besef van kwaliteit en integriteit. De criteria zijn nader uitgewerkt in de aan deze verordening gehechte bijlage. 
 
 ### Artikel  5  
 
-De toetser kan op basis van zijn bevindingen aan het bestuur een nadere toetsing aanbevelen met het oog op een eventueel door het bestuur in te dienen klacht of verzoek om onderzoek bij de kamer van toezicht.  
+De toetser kan op basis van zijn bevindingen aan het bestuur een nadere toetsing aanbevelen met het oog op een eventueel door het bestuur in te dienen klacht of verzoek om onderzoek bij de kamer van toezicht. 
 
 ### Artikel  6  
 
-Het bestuur geeft met betrekking tot de in deze verordening behandelde onderwerpen nadere regels. Deze betreffen in elk geval de frequentie, de onderwerpen en het model van de eigen verklaring, de wijze waarop de intercollegiale kwaliteitstoetsing en nadere toetsing plaats vinden en een geschillenregeling. Over het ontwerp van deze nadere regels wordt de ledenraad geraadpleegd. De regels worden zo spoedig mogelijk na vaststelling ter kennis van de Minister van Justitie gebracht.  
+Het bestuur geeft met betrekking tot de in deze verordening behandelde onderwerpen nadere regels. Deze betreffen in elk geval de frequentie, de onderwerpen en het model van de eigen verklaring, de wijze waarop de intercollegiale kwaliteitstoetsing en nadere toetsing plaats vinden en een geschillenregeling. Over het ontwerp van deze nadere regels wordt de ledenraad geraadpleegd. De regels worden zo spoedig mogelijk na vaststelling ter kennis van de Minister van Justitie gebracht. 
 
 ### Artikel  7  
 
-Deze verordening kan worden aangehaald als ‘Verordening op de kwaliteit’.  
+Deze verordening kan worden aangehaald als ‘Verordening op de kwaliteit’. 
 
 ### Artikel  8  
 
 1.  De verordening treedt in werking met ingang van 2 januari 2009.   
-2.  De Verordening op de kwaliteit (onderdeel WID/MOT) vervalt drie maanden na de datum waarop de Verordening op de kwaliteit in werking treedt.   
+2.  De [Verordening op de kwaliteit (onderdeel WID/MOT)](../../../../../../pbo/verordening/op/de/kwaliteit/(onderdeel/widmot)/BWBR0021333/README.md) vervalt drie maanden na de datum waarop de Verordening op de kwaliteit in werking treedt.  
 
 ### Bijlage  
 
@@ -78,7 +78,7 @@ Deze verordening kan worden aangehaald als ‘Verordening op de kwaliteit’.
 
 5. De notaris vergewist zich ervan of er aanleiding is voor acties buiten de oorspronkelijke opdracht.  
 
-6. Identificatie vindt op de juiste wijze plaats.    
+6. Identificatie vindt op de juiste wijze plaats.   
 
 ### II  
 
@@ -88,7 +88,7 @@ Deze verordening kan worden aangehaald als ‘Verordening op de kwaliteit’.
 
 8. De cliënten worden adequaat voorgelicht over de kosten.  
 
-9. De opdracht wordt aan de cliënten bevestigd.    
+9. De opdracht wordt aan de cliënten bevestigd.   
 
 ### III  
 
@@ -108,7 +108,7 @@ Deze verordening kan worden aangehaald als ‘Verordening op de kwaliteit’.
 
 16. Er zijn interne inhoudelijke controles.  
 
-17. Het dossier wordt zowel juridisch als feitelijk gesloten.    
+17. Het dossier wordt zowel juridisch als feitelijk gesloten.   
 
 ### IV  
 
@@ -116,5 +116,5 @@ Deze verordening kan worden aangehaald als ‘Verordening op de kwaliteit’.
 
 18. Het kantoor heeft afspraken gemaakt om de kwaliteit van de werkzaamheden te waarborgen.  
 
-19. Het kantoor heeft afspraken gemaakt om de integriteit van de werkzaamheden te waarborgen.    
+19. Het kantoor heeft afspraken gemaakt om de integriteit van de werkzaamheden te waarborgen.   
 

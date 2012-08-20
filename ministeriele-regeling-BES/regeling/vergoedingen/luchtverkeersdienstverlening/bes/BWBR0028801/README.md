@@ -2,30 +2,38 @@
 
 ##Regeling vergoedingen luchtverkeersdienstverlening BES
 
+De Minister van Verkeer en Waterstaat,  
+Gelet op [artikel 22a, vierde, vijfde en zesde lid, Luchtvaartwet BES](../../../../../../wet-BES/luchtvaartwet/bes/BWBR0028549/README.md);
+Besluit:    
+
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
 *vergoedingen:* vergoedingen voor luchtverkeersdienstverlening als bedoeld in [artikel 22a, eerste lid, Luchtvaartwet BES](../../../../../../wet-BES/luchtvaartwet/bes/BWBR0028549/README.md);  
 
-*verleners van luchtverkeersdiensten:* rechtspersonen zoals aangewezen overeenkomstig [artikel 70, eerste lid, van Besluit luchtverkeer BES](../../../../../../AMvB-BES/besluit/luchtverkeer/bes/BWBR0028639/README.md).    
+*verleners van luchtverkeersdiensten:* rechtspersonen zoals aangewezen overeenkomstig [artikel 70, eerste lid, van Besluit luchtverkeer BES](../../../../../../AMvB-BES/besluit/luchtverkeer/bes/BWBR0028639/README.md).   
 
 ### Artikel  2  
 
-Vergoedingen worden aan de hand van een jaarlijks door de minister vast te stellen eenheidstarief berekend op basis van de formule opgenomen in de bij deze regeling behorende bijlage.  
+Vergoedingen worden aan de hand van een door de minister voor een periode van maximaal 5 jaren vast te stellen eenheidstarief berekend op basis van de formule opgenomen in de bij deze regeling behorende: 
+
+a. Bijlage 1 voor zover het betreft luchtverkeersdiensten aan ‘en route’-verkeer,  
+
+b. Bijlage 2 voor zover het betreft luchtverkeersdiensten aan naderings- en terminalverkeer.   
 
 ### Artikel  3  
 
 1.  De verleners van luchtverkeersdiensten dragen zorg voor de bekendmaking van de hoogte van het eenheidstarief van vergoedingen.   
-2.  De bekendmaking vindt plaats in de luchtvaartpublicaties, bedoeld in [artikel 70, eerste lid, onderdeel f, Besluit luchtverkeer BES](../../../../../../AMvB-BES/besluit/luchtverkeer/bes/BWBR0028639/README.md).   
+2.  De bekendmaking vindt plaats in de luchtvaartpublicaties, bedoeld in [artikel 70, eerste lid, onderdeel f, Besluit luchtverkeer BES](../../../../../../AMvB-BES/besluit/luchtverkeer/bes/BWBR0028639/README.md).  
 
 ### Artikel  4  
 
-Vergoedingen worden voldaan in USD.  
+Vergoedingen worden voldaan in USD. 
 
 ### Artikel  5  
 
-De verleners van luchtverkeersdiensten dragen zorg voor de inning van vergoedingen.  
+De verleners van luchtverkeersdiensten dragen zorg voor de inning van vergoedingen. 
 
 ### Artikel  6  
 
@@ -33,11 +41,11 @@ Betaling van vergoedingen geschiedt aan de verlener van luchtverkeersdiensten of
 
 a. contante betaling van het verschuldigde bedrag,  
 
-b. overmaking van het verschuldigde bedrag.    
+b. overmaking van het verschuldigde bedrag.   
 
 ### Artikel  7  
 
-Vergoedingen worden betaald door de betalingsplichtigen, bedoeld in [artikel 22a, eerste lid, van de Luchtvaartwet BES](../../../../../../wet-BES/luchtvaartwet/bes/BWBR0028549/README.md), binnen 30 dagen na de dag van de verzending van de rekening door de verlener van luchtverkeersdiensten.  
+Vergoedingen worden betaald door de betalingsplichtigen, bedoeld in [artikel 22a, eerste lid, van de Luchtvaartwet BES](../../../../../../wet-BES/luchtvaartwet/bes/BWBR0028549/README.md), binnen 30 dagen na de dag van de verzending van de rekening door de verlener van luchtverkeersdiensten. 
 
 ### Artikel  8  
 
@@ -55,28 +63,28 @@ b. de gebruikers van luchtvaartuigen waarmede de volgende vluchten worden uitgev
 
 4°. proefvluchten en vluchten die uitsluitend worden uitgevoerd voor het opleiden en oefenen van vliegend personeel, mits zij eindigen op dezelfde luchthaven binnen de Nederlandse Antillen waar zij zijn aangevangen;    
 
-c. de gebruikers van luchtvaartuigen waarvan het maximaal toegelaten totaalgewicht minder is dan 5.7 ton.    
+c. de gebruikers van luchtvaartuigen in het ‘en route’-verkeer waarvan het maximaal toegelaten totaalgewicht minder is dan 5.7 ton.   
 
 ### Artikel  9  
 
-Wijzigt de Regeling vervoer gevaarlijke stoffen door de lucht BES.   
+Wijzigt de Regeling vervoer gevaarlijke stoffen door de lucht BES. 
 
 ### Artikel  10  
 
-Deze regeling treedt in werking met ingang van 10 oktober 2010.  
+Deze regeling treedt in werking met ingang van 10 oktober 2010. 
 
 ### Artikel  11  
 
-Deze regeling wordt aangehaald als: Regeling vergoedingen luchtverkeersdienstverlening BES.  
+Deze regeling wordt aangehaald als: Regeling vergoedingen luchtverkeersdienstverlening BES. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Verkeer en Waterstaat,
-C.M.P.S.Eurlings  
+Minister van Verkeer en Waterstaat, 
+C.M.P.S. Eurlings    
 
-### Bijlage  
+### Bijlage 1 
 
-####behorende bij artikel 2  van de Regeling vergoedingen luchtverkeersdienstverlening BES
+####behorende bij artikel 2, onderdeel a , van de Regeling vergoedingen luchtverkeersdienstverlening BES
 
 Formule voor de berekening van het eenheidstarief vergoedingen luchtverkeersdiensten De vergoeding wordt berekend op basis van de volgende formule. r = ti x d x p, waarin wordt verstaan onder: r: vergoeding; ti: eenheidstarief in USD, dat jaarlijks wordt vastgesteld door de minister overeenkomstig Standard rules for determination of en route air navigation charges als bedoeld onder 3; d: de faktor afstand, die gelijk is aan het door honderd gedeelde aantal kilometers, gemeten langs de grootcirkel tussen een luchtvaartterrein op het territoir van de openbare lichamen Bonaire, Sint Eustatius en Saba als bedoeld in [artikel 1, tweede lid, van de Luchtvaartwet BES](../../../../../../wet-BES/luchtvaartwet/bes/BWBR0028549/README.md) waarvan wordt vertrokken, of het punt waar het luchtruim boven dat territoir wordt binnengevlogen en een luchtvaartterrein op dat territoir waarop de eerstvolgende landing wordt uitgevoerd of het punt waar het bovenbedoelde luchtruim wordt verlaten. Deze punten worden gekozen met inachtneming van de meest gebruikelijke route tussen twee luchtvaartterreinen of, indien deze niet kan worden bepaald, de kortste route. Bij elke start of landing wordt de afstand met twintig kilometer verminderd. Teneinde rekening te houden met eventuele wijzigingen in het routestelsel of de verkeersstructuur wordt de meest gebruikelijke route jaarlijks bepaald door de luchtverkeersdienstverlener. p: de vierkantswortel van het getal dat verkregen wordt door het maximaal toegelaten totaal-gewicht (‘maximum certificated take-off weight’) van het luchtvaartuig uitgedrukt in tonnen te delen door 50, welke uitkomst zal worden uitgedrukt in een getal met 2 decimalen. Wanneer een betalingsplichtige twee of meer luchtvaartuigen van hetzelfde type, maar in verschillende uitvoeringen te zijner beschikking heeft, wordt als het gewicht voor de berekening van de vergoeding genomen het gemiddelde van de maximaal toegelaten totaalgewichten van de verschillende uitvoeringen. Deze berekening wordt tenminste ieder jaar herhaald. Voor zover gegevens beschikbaar zijn wordt voor de berekening het gewicht van de zwaarste uitvoering van het desbetreffende type luchtvaartuig worden gehanteerd. De Standard rules for determination of en route air navigation facility charges voor de berekening van het eenheidstarief ti, bedoeld in onderdeel 1, zijn als volgt: r = ti x N r = the charge ti = the service unit rate N = the number of service units The number of service units designated as N, shall be obtained as follows: N = d x p d = the distance factor p = the weight factor (the maximum certificated take-off weight) – Charge The charge is the total cost for each category of aircraft along the routes concerned. The resulting charge (r) for each category of aircraft on the routes listed are rounded up to the nearest whole cent. 
 
@@ -93,3 +101,24 @@ Formule voor de berekening van het eenheidstarief vergoedingen luchtverkeersdien
 − Communication facilities and visual and radio aids to navigation, including radar, for safety and regularity of en route flights, including both air-to-ground and ground-to-ground communications when these are used directly or indirectly in connection with the preparation for, or the conduct of, a flight. Communications used for approach or aerodrome control are excluded, as also are the communication facilities used by the carriers for purely commercial purposes.  
 
 − All that part of the services allocable to civil aviation or any permanent civil establishment of equipment and personnel maintained for the purposes of providing such services as search and rescue, accident investigation, aeronautical charts and information services.   NOTE The service units rendered each year are calculated using the relevant civil aviation traffic statistics. 
+
+### Bijlage 2 
+
+####behorende bij artikel 2, onderdeel b , van de Regeling vergoedingen luchtverkeersdienstverlening BES
+
+Formule voor de berekening van het eenheidstarief voor vergoedingen van luchtverkeersdiensten naderings- en terminalverkeer.
+
+1. De vergoeding wordt berekend op basis van de volgende formule r = ti x d x p, waarin wordt verstaan onder: r: de vergoeding; ti: eenheidstarief in USD, dat wordt vastgesteld door de Minister voor een combinatie van één landing en één start; d: de factor afstand, die gelijk is aan de gevlogen afstand in de naderings- en terminalheffingenzone, gemeten in kilometers gedeeld door 100 kilometers; p: de factor gewicht bepaald per categorie Maximaal Toegelaten Totaal-gewicht (‘maximum certified take-off weight’) conform onderstaande tabel
+
+| Categorie  | MTOW (in tonnen)  | Factor  |
+|:---|:---|:---|
+| 1  | 0–2  | 0,14  |
+| 2  | 2–5,7  | 0,26  |
+| 3  | 5,7–25  | 0,55  |
+| 4  | 25–50  | 0,87  |
+| 5  | 50–100  | 1,22  |
+| 6  | 100–150  | 1,58  |
+| 7  | 150–250  | 2,00  |
+| 8  | Meer 250  | 2,45  |
+
+2. Wanneer een betalingsplichtige twee of meer luchtvaartuigen van hetzelfde type, maar in verschillende uitvoeringen te zijner beschikking heeft, wordt als het gewicht voor de berekening van de vergoeding genomen het gemiddelde van de maximaal toegelaten totaalgewichten van de verschillende uitvoeringen. Deze berekening wordt tenminste ieder jaar herhaald. Voor zover gegevens beschikbaar zijn wordt voor de berekening het gewicht van de zwaarste uitvoering van het desbetreffende type luchtvaartuig gehanteerd. 
