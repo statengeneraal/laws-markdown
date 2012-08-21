@@ -1,17 +1,17 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Statuut van het Internationaal Agentschap voor hernieuwbare energie (IRENA)
+##Statuut van het Internationaal Agentschap voor hernieuwbare energie (IRENA) 
 
 ####Statute of the International Renewable Energy Agency (IRENA)
 
-The Parties to this Statute, desiring to promote the widespread and increased adoption and use of renewable energy with a view to sustainable development, inspired by their firm belief in the vast opportunities offered by renewable energy for addressing and gradually alleviating problems of energy security and volatile energy prices, convinced of the major role that renewable energy can play in reducing greenhouse gas concentrations in the atmosphere, thereby contributing to the stabilisation of the climate system, and allowing for a sustainable, secure and gentle transit to a low carbon economy, desiring to foster the positive impact that renewable energy technologies can have on stimulating sustainable economic growth and creating employment, motivated by the huge potential of renewable energy in providing decentralised access to energy, particularly in developing countries, and access to energy for isolated and remote regions and islands, concerned about the serious negative implications that the use of fossil fuels and the inefficient use of traditional biomass can have on health, convinced that renewable energy, combined with enhanced energy efficiency, can increasingly cover the anticipated steep increase in global energy needs in the coming decades, affirming their desire to establish an international organisation for renewable energy, that facilitates the cooperation between its Members, while also establishing a close collaboration with existing organisations that promote the use of renewable energy,   have agreed as follows:    
+The Parties to this Statute, desiring to promote the widespread and increased adoption and use of renewable energy with a view to sustainable development, inspired by their firm belief in the vast opportunities offered by renewable energy for addressing and gradually alleviating problems of energy security and volatile energy prices, convinced of the major role that renewable energy can play in reducing greenhouse gas concentrations in the atmosphere, thereby contributing to the stabilisation of the climate system, and allowing for a sustainable, secure and gentle transit to a low carbon economy, desiring to foster the positive impact that renewable energy technologies can have on stimulating sustainable economic growth and creating employment, motivated by the huge potential of renewable energy in providing decentralised access to energy, particularly in developing countries, and access to energy for isolated and remote regions and islands, concerned about the serious negative implications that the use of fossil fuels and the inefficient use of traditional biomass can have on health,  convinced that renewable energy, combined with enhanced energy efficiency, can increasingly cover the anticipated steep increase in global energy needs in the coming decades, affirming their desire to establish an international organisation for renewable energy, that facilitates the cooperation between its Members, while also establishing a close collaboration with existing organisations that promote the use of renewable energy,   have agreed as follows:    
 
 ### Article  I  
 
 ####Establishment of the Agency
 
 A.  The Parties to this Statute hereby establish the International Renewable Energy Agency (hereinafter referred to as “the Agency”) in accordance with the following terms and conditions.   
-B.  The Agency is based on the principle of the equality of all its Members and shall pay due respect to the sovereign rights and competencies of its Members in performing its activities.   
+B.  The Agency is based on the principle of the equality of all its Members and shall pay due respect to the sovereign rights and competencies of its Members in performing its activities.  
 
 ### Article  II  
 
@@ -19,15 +19,15 @@ B.  The Agency is based on the principle of the equality of all its Members and 
 
 The Agency shall promote the widespread and increased adoption and the sustainable use of all forms of renewable energy, taking into account: 
 
-a) national and domestic priorities and benefits derived from a combined approach of renewable energy and energy efficiency measures, and  
+a) national and domestic priorities and benefits derived from a combined approach of renewable energy and energy efficiency measures, and   
 
-b) the contribution of renewable energy to environmental preservation, through limiting pressure on natural resources and reducing deforestation, particularly tropical deforestation, desertification and biodiversity loss; to climate protection; to economic growth and social cohesion including poverty alleviation and sustainable development; to access to and security of energy supply; to regional development and to inter-generational responsibility.    
+b) the contribution of renewable energy to environmental preservation, through limiting pressure on natural resources and reducing deforestation, particularly tropical deforestation, desertification and biodiversity loss; to climate protection; to economic growth and social cohesion including poverty alleviation and sustainable development; to access to and security of energy supply; to regional development and to inter-generational responsibility.   
 
 ### Article  III  
 
 ####Definition
 
-In this Statute the term “renewable energy” means all forms of energy produced from renewable sources in a sustainable manner, which include, inter alia: 
+In this Statute the term “renewable energy” means all forms of energy produced from renewable sources in a sustainable manner, which include, inter alia:  
 
 1. bioenergy;  
 
@@ -39,7 +39,7 @@ In this Statute the term “renewable energy” means all forms of energy produc
 
 5. solar energy; and  
 
-6. wind energy.    
+6. wind energy.   
 
 ### Article  IV  
 
@@ -79,14 +79,14 @@ C.  The Agency shall:
 
 2. inform Members about its policy advice after it was given; and  
 
-3. inform Members about consultation and cooperation with and the work of existing international organisations working in this field.     
+3. inform Members about consultation and cooperation with and the work of existing international organisations working in this field.    
 
 ### Article  V  
 
 ####Work programme and projects
 
 A.  The Agency shall perform its activities on the basis of the annual work programme, prepared by the Secretariat, considered by the Council and adopted by the Assembly.   
-B.  The Agency may, in addition to its work programme, after consultation of its Members and, in case of disagreement, after approval by the Assembly, carry out projects initiated and financed by Members subject to the availability of non-financial resources of the Agency.   
+B.  The Agency may, in addition to its work programme, after consultation of its Members and, in case of disagreement, after approval by the Assembly, carry out projects initiated and financed by Members subject to the availability of non-financial resources of the Agency.  
 
 ### Article  VI  
 
@@ -98,7 +98,7 @@ B.  Such States and regional intergovernmental economic integration organisation
 1. original Members of the Agency by having signed this Statute and having deposited an instrument of ratification;  
 
 2. other Members of the Agency by depositing an instrument of accession after their application for membership has been approved. Membership shall be regarded as approved if three months after the application has been sent to Members no disagreement has been expressed. In case of disagreement the application shall be decided on by the Assembly in accordance with Article IX paragraph H number 1.     
-C.  In the case of any regional intergovernmental economic integration organisation, the organisation and its Member States shall decide on their respective responsibilities for the performance of their obligations under this Statute. The organisation and its Member States shall not be entitled to exercise rights, including voting rights, under the Statute concurrently. In their instruments of ratification or accession, the organisations referred to above shall declare the extent of their competence with respect to the matters governed by this Statute. These organisations shall also inform the Depositary Government of any relevant modification in the extent of their competence. In the case of voting on matters within their competence, regional intergovernmental economic integration organisations shall vote with the number of votes equal to the total number of votes attributable to their Member States which are also Members of this Agency.   
+C.  In the case of any regional intergovernmental economic integration organisation, the organisation and its Member States shall decide on their respective responsibilities for the performance of their obligations under this Statute. The organisation and its Member States shall not be entitled to exercise rights, including voting rights, under the Statute concurrently. In their instruments of ratification or accession, the organisations referred to above shall declare the extent of their competence with respect to the matters governed by this Statute. These organisations shall also inform the Depositary Government of any relevant modification in the extent of their competence. In the case of voting on matters within their competence, regional intergovernmental economic integration organisations shall vote with the number of votes equal to the total number of votes attributable to their Member States which are also Members of this Agency.  
 
 ### Article  VII  
 
@@ -111,20 +111,20 @@ A.  Observer status may be granted by the Assembly to:
 2. Signatories that have not ratified the Statute; and  
 
 3. applicants for membership whose application for membership has been approved in accordance with Article VI paragraph B number 2.     
-B.  Observers may participate without the right to vote in the public sessions of the Assembly and its subsidiary organs.   
+B.  Observers may participate without the right to vote in the public sessions of the Assembly and its subsidiary organs.  
 
 ### Article  VIII  
 
 ####Organs
 
-A.  There are hereby established as the principal organs of the Agency: 
+A.  There are hereby established as the principal organs of the Agency:  
 
 1. the Assembly;  
 
 2. the Council; and  
 
 3. the Secretariat.     
-B.  The Assembly and the Council, subject to approval by the Assembly, may establish such subsidiary organs as they find necessary for the exercise of their functions in accordance with this Statute.   
+B.  The Assembly and the Council, subject to approval by the Assembly, may establish such subsidiary organs as they find necessary for the exercise of their functions in accordance with this Statute.  
 
 ### Article  IX  
 
@@ -173,7 +173,7 @@ H.  The Assembly shall by consensus of the Members present, which if no consensu
 
 5. decide in case of disagreement between its Members on additional projects in accordance with Article V paragraph B.     
 I.  The Assembly shall designate the seat of the Agency and the Director-General of the Secretariat (hereinafter referred to as “Director-General“) by consensus of the Members present, or, if no consensus can be reached, by a majority vote of two thirds of the Members present and voting.   
-J.  The Assembly shall consider and approve as appropriate at its first session any decisions, draft agreements, provisions and guidelines developed by the Preparatory Commission in accordance with the voting procedures for the respective issue as outlined in Article IX paragraphs F to I.   
+J.  The Assembly shall consider and approve as appropriate at its first session any decisions, draft agreements, provisions and guidelines developed by the Preparatory Commission in accordance with the voting procedures for the respective issue as outlined in Article IX paragraphs F to I.  
 
 ### Article  X  
 
@@ -202,7 +202,7 @@ F.  The Council shall:
 
 8. have the authority to refer to the Assembly matters for its consideration; and  
 
-9. establish subsidiary organs, when necessary, in accordance with Article VIII paragraph B, and decide on their terms of reference and duration.     
+9. establish subsidiary organs, when necessary, in accordance with Article VIII paragraph B, and decide on their terms of reference and duration.    
 
 ### Article  XI  
 
@@ -225,7 +225,7 @@ E.  The Secretariat shall:
 5. facilitate communication between the Agency and its Members; and  
 
 6. circulate the policy advice after it was given to the Members of the Agency in accordance with Article IV paragraph C number 2 and prepare and submit to the Assembly and the Council a report on its policy advice for each of their sessions. The report to the Council shall include also the planned policy advice in implementing the annual work programme.     
-F.  In the performance of their duties, the Director-General and the other members of the staff shall not seek or receive instructions from any government or from any other source external to the Agency. They shall refrain from any action that might reflect on their positions as international officers responsible only to the Assembly and the Council. Each Member shall respect the exclusively international character of the responsibilities of the Director-General and the other members of the staff and shall not seek to influence them in the discharge of their responsibilities.   
+F.  In the performance of their duties, the Director-General and the other members of the staff shall not seek or receive instructions from any government or from any other source external to the Agency. They shall refrain from any action that might reflect on their positions as international officers responsible only to the Assembly and the Council. Each Member shall respect the exclusively international character of the responsibilities of the Director-General and the other members of the staff and shall not seek to influence them in the discharge of their responsibilities.  
 
 ### Article  XII  
 
@@ -239,20 +239,20 @@ A.  The budget of the Agency shall be financed by:
 
 3. other possible sources in accordance with the financial rules to be adopted by the Assembly by consensus, as laid down in Article IX paragraph G of this Statute. The financial rules and the budget shall secure a solid financial basis of the Agency and shall ensure the effective and efficient implementation of the Agency’s activities, as defined by the work programme. Mandatory contributions will finance core activities and administrative costs.     
 B.  The draft budget of the Agency shall be prepared by the Secretariat and submitted to the Council for examination. The Council shall either forward it to the Assembly with a recommendation for approval or return it to the Secretariat for review and re-submission.   
-C.  The Assembly shall appoint an external auditor who shall hold office for a period of four years and who shall be eligible for re-election. The first auditor shall hold office for a period of two years. The auditor shall examine the accounts of the Agency and shall make such observations and recommendations as deemed necessary with respect to the efficiency of the management and the internal financial controls.   
+C.  The Assembly shall appoint an external auditor who shall hold office for a period of four years and who shall be eligible for re-election. The first auditor shall hold office for a period of two years. The auditor shall examine the accounts of the Agency and shall make such observations and recommendations as deemed necessary with respect to the efficiency of the management and the internal financial controls.  
 
 ### Article  XIII  
 
 ####Legal personality, privileges and immunities
 
 A.  The Agency shall have international legal personality. In the territory of each Member and subject to its national legislation, it shall enjoy such domestic legal capacity as may be necessary for the exercise of its functions and the fulfilment of its purposes.   
-B.  Members shall decide upon a separate agreement on privileges and immunities.   
+B.  Members shall decide upon a separate agreement on privileges and immunities.  
 
 ### Article  XIV  
 
 ####Relations with other organisations
 
-Subject to the approval of the Assembly the Council shall be authorised to conclude agreements on behalf of the Agency establishing appropriate relations with the United Nations and any other organisations whose work is related to that of the Agency. The provisions of this Statute shall not affect the rights and obligations of any Member deriving from any existing international treaty.  
+Subject to the approval of the Assembly the Council shall be authorised to conclude agreements on behalf of the Agency establishing appropriate relations with the United Nations and any other organisations whose work is related to that of the Agency. The provisions of this Statute shall not affect the rights and obligations of any Member deriving from any existing international treaty. 
 
 ### Article  XV  
 
@@ -265,21 +265,21 @@ B.  Amendments shall come into force for all Members:
 
 2. after all the Members have consented to be bound by the amendment in accordance with their respective constitutional processes. Members shall express their consent to be bound by depositing a corresponding instrument with the Depositary referred to in Article XX paragraph A.     
 C.  At any time after five years from the date when this Statute takes effect in accordance with paragraph D of Article XIX, a Member may withdraw from the Agency by notice in writing to that effect given to the Depositary referred to in Article XX paragraph A, which shall promptly inform the Council and all Members.   
-D.  Such withdrawal shall take effect at the end of the year in which it is expressed. Withdrawal by a Member from the Agency shall not affect its contractual obligations entered into pursuant to Article V paragraph B or its financial obligations for the year in which it withdraws.   
+D.  Such withdrawal shall take effect at the end of the year in which it is expressed. Withdrawal by a Member from the Agency shall not affect its contractual obligations entered into pursuant to Article V paragraph B or its financial obligations for the year in which it withdraws.  
 
 ### Article  XVI  
 
 ####Settlement of disputes
 
-A.  Members shall settle any dispute between them concerning the interpretation or application of this Statute by peaceful means in accordance with Article 2 paragraph 3 of the Charter of the United Nations and, to this end, shall seek a solution by the means indicated in Article 33 paragraph 1 of the Charter of the United Nations.   
-B.  The Council may contribute to the settlement of a dispute by whatever means it deems appropriate, including offering its good offices, calling upon the Members to a dispute to start the settlement process of their choice and recommending a time limit for any agreed procedure.   
+A.  Members shall settle any dispute between them concerning the interpretation or application of this Statute by peaceful means in accordance with [Article 2 paragraph 3 of the Charter of the United Nations](../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) and, to this end, shall seek a solution by the means indicated in [Article 33 paragraph 1 of the Charter of the United Nations](../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).   
+B.  The Council may contribute to the settlement of a dispute by whatever means it deems appropriate, including offering its good offices, calling upon the Members to a dispute to start the settlement process of their choice and recommending a time limit for any agreed procedure.  
 
 ### Article  XVII  
 
 ####Temporary suspension of rights
 
 A.  Any Member of the Agency which is in arrears with its financial contributions to the Agency shall have no right to vote if its arrears reach or exceed the amount of its contributions for the two preceding years. However, the Assembly may permit this Member to vote if it is convinced that the non-payment is due to circumstances beyond the Member's control.   
-B.  A Member which has persistently violated the provisions of this Statute or of any agreement entered into by it pursuant to this Statute may be suspended from the exercise of the privileges and rights of membership by the Assembly acting by a two-thirds majority of the Members present and voting upon recommendation by the Council.   
+B.  A Member which has persistently violated the provisions of this Statute or of any agreement entered into by it pursuant to this Statute may be suspended from the exercise of the privileges and rights of membership by the Assembly acting by a two-thirds majority of the Members present and voting upon recommendation by the Council.  
 
 ### Article  XVIII  
 
@@ -296,21 +296,21 @@ B.  For States and regional intergovernmental economic integration organisations
 C.  Consent to be bound by this Statute shall be expressed by depositing an instrument of ratification or accession with the Depositary. Ratification of or accession to this Statute shall be effected by States in accordance with their respective constitutional processes.   
 D.  This Statute shall enter into force on the thirtieth day after the date of deposit of the twenty-fifth instrument of ratification.   
 E.  For States or regional intergovernmental economic integration organisations having deposited an instrument of ratification or accession after the entry into force of the Statute, this Statute shall enter into force on the thirtieth day after the date of deposit of the relevant instrument.   
-F.  No reservations may be made to any of the provisions contained in this Statute.   
+F.  No reservations may be made to any of the provisions contained in this Statute.  
 
 ### Article  XX  
 
 ####Depositary, registration, authentic text
 
 A.  The Government of the Federal Republic of Germany is hereby designated as the Depositary of this Statute and any instrument of ratification or accession.   
-B.  This Statute shall be registered by the Depositary Government pursuant to Article 102 of the Charter of the United Nations.   
+B.  This Statute shall be registered by the Depositary Government pursuant to [Article 102 of the Charter of the United Nations](../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).   
 C.  This Statute, done in English, shall be deposited in the archives of the Depositary Government.   
 D.  Duly certified copies of this Statute shall be transmitted by the Depositary Government to the governments of States and to the executive organs of regional intergovernmental economic integration organisations which have signed or have been approved for membership according to Article VI paragraph B number 2.   
 E.  The Depositary Government shall promptly inform all Signatories to this Statute of the date of each deposit of any instrument of ratification and the date of entry into force of the Statute.   
 F.  The Depositary Government shall promptly inform all Signatories and Members of the dates on which States or regional intergovernmental economic integration organisations subsequently become Members thereto.   
-G.  The Depositary Government shall promptly send new applications for membership to all Members of the Agency for consideration in accordance with Article VI paragraph B number 2.   
+G.  The Depositary Government shall promptly send new applications for membership to all Members of the Agency for consideration in accordance with Article VI paragraph B number 2.  
 
-IN WITNESS WHEREOF the undersigned, being duly authorised, have signed this Statute. DONE at Bonn, this 26 <sup>th</sup> January 2009, in a single original, in the English language.  
+IN WITNESS WHEREOF the undersigned, being duly authorised, have signed this Statute. DONE at Bonn, this 26<sup>th</sup> January 2009, in a single original, in the English language.  
 
 ####Statuut van het Internationaal Agentschap voor hernieuwbare energie (IRENA)
 
@@ -321,17 +321,17 @@ De partijen bij dit Statuut, geleid door de wens de grootschalige en verdere inv
 ####Oprichting van het Agentschap
 
 A.  De partijen bij dit Statuut richten hierbij het Internationaal Agentschap voor hernieuwbare energie op (hierna te noemen „het Agentschap”) in overeenstemming met de volgende voorwaarden en bepalingen.   
-B.  Het Agentschap is gebaseerd op het beginsel van gelijkheid van al zijn leden en neemt bij de uitvoering van zijn werkzaamheden de soevereine rechten en bevoegdheden van zijn leden zorgvuldig in acht.   
+B.  Het Agentschap is gebaseerd op het beginsel van gelijkheid van al zijn leden en neemt bij de uitvoering van zijn werkzaamheden de soevereine rechten en bevoegdheden van zijn leden zorgvuldig in acht.  
 
 ### Artikel  II  
 
 ####Doelstellingen
 
-Het Agentschap bevordert de grootschalige en verdere invoering en het duurzame gebruik van alle vormen van hernieuwbare energie, en houdt daarbij rekening met: 
+Het Agentschap bevordert de grootschalige en verdere invoering en het duurzame gebruik van alle vormen van hernieuwbare energie, en houdt daarbij rekening met:  
 
 a. nationale en binnenlandse prioriteiten en voordelen die worden behaald dankzij een combinatie van hernieuwbare energie en maatregelen om de energie-efficiëntie te vergroten, en  
 
-b. de bijdrage die hernieuwbare energie levert aan milieubehoud, door vermindering van de druk op natuurlijke hulpbronnen en het terugdringen van ontbossing, met name de ontbossing in de tropen, woestijnvorming en het verlies van biodiversiteit, aan klimaatbescherming, aan economische groei en sociale cohesie met inbegrip van armoedebestrijding en duurzame ontwikkeling, aan toegang tot en zekerheid van energievoorziening, aan regionale ontwikkeling en aan de verantwoordelijkheid die de generaties jegens elkaar hebben.    
+b. de bijdrage die hernieuwbare energie levert aan milieubehoud, door vermindering van de druk op natuurlijke hulpbronnen en het terugdringen van ontbossing, met name de ontbossing in de tropen, woestijnvorming en het verlies van biodiversiteit, aan klimaatbescherming, aan economische groei en sociale cohesie met inbegrip van armoedebestrijding en duurzame ontwikkeling, aan toegang tot en zekerheid van energievoorziening, aan regionale ontwikkeling en aan de verantwoordelijkheid die de generaties jegens elkaar hebben.   
 
 ### Artikel  III  
 
@@ -349,7 +349,7 @@ Onder „hernieuwbare energie” worden in dit Statuut verstaan alle vormen van 
 
 5. zonne-energie; en  
 
-6. windenergie.    
+6. windenergie.   
 
 ### Artikel  IV  
 
@@ -382,21 +382,21 @@ B.  Bij het uitoefenen van zijn werkzaamheden:
 
 2. wijst het Agentschap zijn middelen zodanig toe dat het doelmatige gebruik ervan gewaarborgd wordt teneinde al zijn doelstellingen op passende wijze te verwezenlijken en zijn werkzaamheden zodanig uit te voeren dat deze het grootst mogelijke voordeel opleveren voor zijn leden en in alle delen van de wereld, met inachtneming van de bijzondere behoeften van ontwikkelingslanden en afgelegen en geïsoleerde regio's en eilanden;  
 
-3. werkt het Agentschap nauw samen en streeft het naar betrekkingen met bestaande instellingen en organisaties die wederzijds voordeel opleveren teneinde onnodig dubbel werk te voorkomen en voort te bouwen op en op doelmatige en doeltreffende wijze gebruik te maken van hulpbronnen en lopende activiteiten van regeringen, overige organisaties en agentschappen die zich inzetten om hernieuwbare energie te bevorderen.     
+3. werkt het Agentschap nauw samen en streeft het naar betrekkingen met bestaande instellingen en organisaties die wederzijds voordeel opleveren teneinde onnodig dubbel werk te voorkomen en voort te bouwen op en op doelmatige en doeltreffende wijze gebruik te maken van hulpbronnen en lopende activiteiten van regeringen, overige organisaties en agentschappen die zich inzetten om hernieuwbare energie te bevorderen.      
 C.  Het Agentschap: 
 
 1. legt zijn leden een jaarverslag inzake zijn werkzaamheden voor;  
 
 2. stelt zijn leden in kennis van zijn beleidsadvies na het verstrekken daarvan; en  
 
-3. stelt zijn leden in kennis van de raadpleging van en samenwerking met bestaande internationale organisaties die op dit terrein werkzaam zijn en van het door hen uitgevoerde werk.     
+3. stelt zijn leden in kennis van de raadpleging van en samenwerking met bestaande internationale organisaties die op dit terrein werkzaam zijn en van het door hen uitgevoerde werk.    
 
 ### Artikel  V  
 
 ####Werkprogramma en projecten
 
 A.  Het Agentschap verricht zijn werkzaamheden op basis van het jaarlijkse werkprogramma dat door het Secretariaat wordt opgesteld, door de Raad wordt bestudeerd en door de Vergadering wordt aangenomen.   
-B.  Het Agentschap kan, naast zijn werkprogramma, na raadpleging van zijn leden en, in geval van onenigheid, na goedkeuring door de Vergadering, projecten uitvoeren die door leden worden geïnitieerd en gefinancierd, onder voorbehoud van de beschikbaarheid van niet-financiële middelen van het Agentschap.   
+B.  Het Agentschap kan, naast zijn werkprogramma, na raadpleging van zijn leden en, in geval van onenigheid, na goedkeuring door de Vergadering, projecten uitvoeren die door leden worden geïnitieerd en gefinancierd, onder voorbehoud van de beschikbaarheid van niet-financiële middelen van het Agentschap.  
 
 ### Artikel  VI  
 
@@ -408,7 +408,7 @@ B.  Dergelijke staten en regionale intergouvernementele organisaties voor econom
 1. oorspronkelijke leden van het Agentschap na ondertekening van dit Statuut en nederlegging van een akte van bekrachtiging;  
 
 2. overige leden van het Agentschap na nederlegging van een akte van toetreding nadat hun verzoek om lidmaatschap is goedgekeurd. Het lidmaatschap wordt als goedgekeurd beschouwd indien drie maanden nadat het verzoek naar de leden is verzonden geen bezwaar is aangetekend. In geval van bezwaar neemt de Vergadering een besluit over het verzoek in overeenstemming met artikel IX, lid H, onderdeel 1.     
-C.  In het geval van een regionale intergouvernementele organisatie voor economische integratie beslissen de organisatie en haar lidstaten over hun onderscheiden verantwoordelijkheden ten aanzien van de nakoming van hun verplichtingen uit hoofde van dit Statuut. De organisatie en haar lidstaten zijn niet gerechtigd gelijktijdig de uit dit Statuut voortvloeiende rechten, met inbegrip van stemrechten, uit te oefenen. In hun akten van bekrachtiging of toetreding geven de bovenbedoelde organisaties de reikwijdte van hun bevoegdheden ter zake van door dit Statuut geregelde aangelegenheden aan. Deze organisaties doen de regering die depositaris is tevens mededeling van iedere relevante verandering in de reikwijdte van hun bevoegdheden. Bij een stemming over aangelegenheden die binnen hun bevoegdheden liggen, stemmen de regionale intergouvernementele organisaties voor economische integratie met het aantal stemmen dat gelijk is aan het totaal van de stemmen dat is toegekend aan hun lidstaten die tevens lid van dit Agentschap zijn.   
+C.  In het geval van een regionale intergouvernementele organisatie voor economische integratie beslissen de organisatie en haar lidstaten over hun onderscheiden verantwoordelijkheden ten aanzien van de nakoming van hun verplichtingen uit hoofde van dit Statuut. De organisatie en haar lidstaten zijn niet gerechtigd gelijktijdig de uit dit Statuut voortvloeiende rechten, met inbegrip van stemrechten, uit te oefenen. In hun akten van bekrachtiging of toetreding geven de bovenbedoelde organisaties de reikwijdte van hun bevoegdheden ter zake van door dit Statuut geregelde aangelegenheden aan. Deze organisaties doen de regering die depositaris is tevens mededeling van iedere relevante verandering in de reikwijdte van hun bevoegdheden. Bij een stemming over aangelegenheden die binnen hun bevoegdheden liggen, stemmen de regionale intergouvernementele organisaties voor economische integratie met het aantal stemmen dat gelijk is aan het totaal van de stemmen dat is toegekend aan hun lidstaten die tevens lid van dit Agentschap zijn.  
 
 ### Artikel  VII  
 
@@ -421,20 +421,20 @@ A.  De Vergadering kan de status van waarnemer toekennen aan:
 2. ondertekenaars die het Statuut niet hebben bekrachtigd; en  
 
 3. aanvragers van het lidmaatschap wier verzoek om lidmaatschap is goedgekeurd in overeenstemming met artikel VI, lid B, onderdeel 2.     
-B.  Waarnemers kunnen zonder stemrecht deelnemen aan de openbare zittingen van de Vergadering en haar hulporganen.   
+B.  Waarnemers kunnen zonder stemrecht deelnemen aan de openbare zittingen van de Vergadering en haar hulporganen.  
 
 ### Artikel  VIII  
 
 ####Organen
 
-A.  Hierbij worden als de hoofdorganen van het Agentschap ingesteld: 
+A.  Hierbij worden als de hoofdorganen van het Agentschap ingesteld:  
 
 1. de Vergadering;  
 
 2. de Raad; en  
 
 3. het Secretariaat.     
-B.  De Vergadering en de Raad kunnen, op voorwaarde van goedkeuring door de Vergadering, de hulporganen oprichten die zij nodig achten voor de uitoefening van hun taken overeenkomstig dit Statuut.   
+B.  De Vergadering en de Raad kunnen, op voorwaarde van goedkeuring door de Vergadering, de hulporganen oprichten die zij nodig achten voor de uitoefening van hun taken overeenkomstig dit Statuut.  
 
 ### Artikel  IX  
 
@@ -483,7 +483,7 @@ H.  De Vergadering, bij consensus van de aanwezige leden, die, indien geen conse
 
 5. beslist, in geval van onenigheid tussen haar leden, over aanvullende projecten in overeenstemming met artikel V, lid B.     
 I.  De Vergadering stelt de zetel van het Agentschap vast en wijst de Directeur-Generaal van het Secretariaat (hierna te noemen „Directeur-Generaal”) aan bij consensus van de aanwezige leden, of, indien geen consensus kan worden bereikt, met een tweederdemeerderheid van de aanwezige leden die hun stem uitbrengen.   
-J.  Tijdens haar eerste zitting bestudeert de Vergadering en verleent zij goedkeuring aan, naar gelang wat van toepassing is, alle besluiten, conceptovereenkomsten, bepalingen en richtlijnen die door de Voorbereidende Commissie zijn opgesteld, in overeenstemming met de stemprocedures voor de desbetreffende kwestie zoals vervat in artikel IX, leden F tot en met I.   
+J.  Tijdens haar eerste zitting bestudeert de Vergadering en verleent zij goedkeuring aan, naar gelang wat van toepassing is, alle besluiten, conceptovereenkomsten, bepalingen en richtlijnen die door de Voorbereidende Commissie zijn opgesteld, in overeenstemming met de stemprocedures voor de desbetreffende kwestie zoals vervat in artikel IX, leden F tot en met I.  
 
 ### Artikel  X  
 
@@ -512,7 +512,7 @@ F.  De Raad:
 
 8. heeft de bevoegdheid aangelegenheden ter bestudering aan de Vergadering voor te leggen; en  
 
-9. richt, zo nodig, hulporganen op, in overeenstemming met artikel VIII, lid B, en stelt het reglement van orde en de termijn ervan vast.     
+9. richt, zo nodig, hulporganen op, in overeenstemming met artikel VIII, lid B, en stelt het reglement van orde en de termijn ervan vast.    
 
 ### Artikel  XI  
 
@@ -526,7 +526,7 @@ E.  Het Secretariaat:
 
 1. stelt het conceptwerkprogramma en de ontwerpbegroting van het Agentschap op en legt deze aan de Raad voor;  
 
-2. voert het werkprogramma en de besluiten van het Agentschap uit;  
+2. voert het werkprogramma en de besluiten van het Agentschap uit;   
 
 3. stelt het conceptjaarverslag inzake de werkzaamheden van het Agentschap en de door de Vergadering of de Raad gevraagde overige verslagen op en legt deze voor aan de Raad;  
 
@@ -535,7 +535,7 @@ E.  Het Secretariaat:
 5. vergemakkelijkt de communicatie tussen het Agentschap en zijn leden; en  
 
 6. verspreidt het beleidsadvies na verstrekking daarvan onder de leden van het Agentschap in overeenstemming met artikel IV, lid C, onderdeel 2, en legt de Vergadering en de Raad voorafgaand aan elk van hun zittingen een door hem opgesteld verslag inzake het beleidsadvies voor. Het verslag aan de Raad omvat tevens het voorgenomen beleidsadvies voor de tenuitvoerlegging van het jaarlijkse werkprogramma.     
-F.  Bij de vervulling van hun werkzaamheden mogen de Directeur-Generaal en de overige leden van het personeel geen instructies vragen of ontvangen van enige regering of van enige andere bron buiten het Agentschap. Zij dienen zich te onthouden van handelingen die hun positie als internationale ambtenaren die alleen aan de Vergadering en de Raad verantwoording verschuldigd zijn zouden kunnen schaden. Elk lid verbindt zich ertoe het uitsluitend internationale karakter van de taken van de Directeur-Generaal en de overige leden van het personeel te eerbiedigen en niet te trachten hen te beïnvloeden bij de vervulling van deze taken.   
+F.  Bij de vervulling van hun werkzaamheden mogen de Directeur-Generaal en de overige leden van het personeel geen instructies vragen of ontvangen van enige regering of van enige andere bron buiten het Agentschap. Zij dienen zich te onthouden van handelingen die hun positie als internationale ambtenaren die alleen aan de Vergadering en de Raad verantwoording verschuldigd zijn zouden kunnen schaden. Elk lid verbindt zich ertoe het uitsluitend internationale karakter van de taken van de Directeur-Generaal en de overige leden van het personeel te eerbiedigen en niet te trachten hen te beïnvloeden bij de vervulling van deze taken.  
 
 ### Artikel  XII  
 
@@ -549,20 +549,20 @@ A.  De begroting van het Agentschap wordt gefinancierd door:
 
 3. overige mogelijke bronnen   in overeenstemming met de financiële regels die door de Vergadering bij consensus dienen te worden aangenomen, zoals vervat in artikel IX, lid G, van dit Statuut. De financiële regels en de begroting waarborgen een solide financiële basis van het Agentschap en garanderen de doeltreffende en doelmatige tenuitvoerlegging van de werkzaamheden van het Agentschap, zoals vastgelegd in het werkprogramma. Met de verplichte bijdragen worden de kernactiviteiten en administratieve kosten gefinancierd.   
 B.  De ontwerpbegroting van het Agentschap wordt opgesteld door het Secretariaat en ter beoordeling voorgelegd aan de Raad. De Raad zendt de ontwerpbegroting ofwel naar de Vergadering met de aanbeveling deze goed te keuren ofwel terug naar het Secretariaat voor herziening en nieuwe indiening.   
-C.  De Vergadering benoemt een externe accountant die deze functie voor een termijn van vier jaar vervult en voor een nieuwe termijn kan worden benoemd. De eerste accountant vervult de functie voor een termijn van twee jaar. De accountant controleert de rekeningen van het Agentschap en plaatst de opmerkingen en doet de aanbevelingen die hij nodig acht ter zake van de doeltreffendheid van het management en de interne financiële controle.   
+C.  De Vergadering benoemt een externe accountant die deze functie voor een termijn van vier jaar vervult en voor een nieuwe termijn kan worden benoemd. De eerste accountant vervult de functie voor een termijn van twee jaar. De accountant controleert de rekeningen van het Agentschap en plaatst de opmerkingen en doet de aanbevelingen die hij nodig acht ter zake van de doeltreffendheid van het management en de interne financiële controle.  
 
 ### Artikel  XIII  
 
 ####Rechtspersoonlijkheid, voorrechten en immuniteiten
 
 A.  Het Agentschap bezit internationale rechtspersoonlijkheid. Op het grondgebied van elk lid en met inachtneming van zijn nationale wetgeving, beschikt het Agentschap over de handelingsbevoegdheid die nodig is voor het uitoefenen van zijn taken en het verwezenlijken van zijn doelstellingen.   
-B.  De leden beslissen over een afzonderlijke regeling inzake voorrechten en immuniteiten.   
+B.  De leden beslissen over een afzonderlijke regeling inzake voorrechten en immuniteiten.  
 
 ### Artikel  XIV  
 
 ####Betrekkingen met andere organisaties
 
-Onder voorbehoud van goedkeuring door de Vergadering is de Raad gemachtigd namens het Agentschap overeenkomsten te sluiten en passende betrekkingen met de Verenigde Naties tot stand te brengen alsook met alle andere organisaties wier werkzaamheden verband houden met die van het Agentschap. De bepalingen van dit Statuut laten de rechten en verplichtingen van elk lid die voortvloeien uit bestaande internationale verdragen onverlet.  
+Onder voorbehoud van goedkeuring door de Vergadering is de Raad gemachtigd namens het Agentschap overeenkomsten te sluiten en passende betrekkingen met de Verenigde Naties tot stand te brengen alsook met alle andere organisaties wier werkzaamheden verband houden met die van het Agentschap. De bepalingen van dit Statuut laten de rechten en verplichtingen van elk lid die voortvloeien uit bestaande internationale verdragen onverlet. 
 
 ### Artikel  XV  
 
@@ -575,21 +575,21 @@ B.  Wijzigingen treden voor alle leden in werking:
 
 2. nadat alle leden hun instemming door de wijziging te worden gebonden kenbaar hebben gemaakt in overeenstemming met hun onderscheiden constitutionele procedures. leden kunnen hun instemming door dit Statuut te worden gebonden tot uitdrukking brengen door een dienovereenkomstige akte neder te leggen bij de in artikel XX, lid A, bedoelde depositaris.     
 C.  Elk lid kan zich te allen tijde na het verstrijken van een periode van vijf jaar na de datum van inwerkingtreding van dit Statuut in overeenstemming met artikel XIX, lid D, terugtrekken uit het Agentschap door de in artikel XX, lid A, bedoelde depositaris daarvan schriftelijk kennis te geven. De depositaris stelt de Raad en alle leden onverwijld van deze terugtrekking in kennis.   
-D.  Een dergelijke terugtrekking wordt van kracht aan het eind van het jaar waarin deze kenbaar is gemaakt. De terugtrekking door een lid uit het Agentschap laat zijn contractuele verplichtingen uit hoofde van artikel V, lid B, of zijn financiële verplichtingen voor het jaar waarin het zich terugtrekt onverlet.   
+D.  Een dergelijke terugtrekking wordt van kracht aan het eind van het jaar waarin deze kenbaar is gemaakt. De terugtrekking door een lid uit het Agentschap laat zijn contractuele verplichtingen uit hoofde van artikel V, lid B, of zijn financiële verplichtingen voor het jaar waarin het zich terugtrekt onverlet.  
 
 ### Artikel  XVI  
 
 ####Beslechting van geschillen
 
-A.  Mogelijke geschillen betreffende de interpretatie of toepassing van dit Statuut worden door de leden op vreedzame wijze beslecht in overeenstemming met artikel 2, derde lid, van het Handvest van de Verenigde Naties en zij maken daartoe gebruik van de middelen die staan aangegeven in artikel 33, eerste lid, van het Handvest van de Verenigde Naties.   
-B.  De Raad kan met alle door hem nodig geachte middelen een bijdrage leveren aan de beslechting van het geschil, met inbegrip van het aanbieden van zijn goede diensten, het oproepen van de leden bij een geschil aan te vangen met de procedure van hun keuze voor de beslechting van het geschil en het aanbevelen van een termijn voor een overeengekomen procedure.   
+A.  Mogelijke geschillen betreffende de interpretatie of toepassing van dit Statuut worden door de leden op vreedzame wijze beslecht in overeenstemming met [artikel 2, derde lid, van het Handvest van de Verenigde Naties](../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) en zij maken daartoe gebruik van de middelen die staan aangegeven in [artikel 33, eerste lid, van het Handvest van de Verenigde Naties](../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).   
+B.  De Raad kan met alle door hem nodig geachte middelen een bijdrage leveren aan de beslechting van het geschil, met inbegrip van het aanbieden van zijn goede diensten, het oproepen van de leden bij een geschil aan te vangen met de procedure van hun keuze voor de beslechting van het geschil en het aanbevelen van een termijn voor een overeengekomen procedure.  
 
 ### Artikel  XVII  
 
 ####Tijdelijke opschorting van rechten
 
 A.  Elk lid van het Agentschap dat achterstallig is met de betaling van zijn financiële bijdragen aan het Agentschap mag zijn stemrecht niet uitoefenen indien het bedrag van zijn achterstalligheid gelijk is aan of hoger dan dat van de bijdragen over de voorgaande twee jaren. De Vergadering kan het betreffende lid evenwel toestaan zijn stemrecht uit te oefenen indien zij ervan overtuigd is dat de achterstalligheid te wijten is aan omstandigheden buiten de macht van dat lid.   
-B.  Een lid dat voortdurend de bepalingen van dit Statuut of van enige uit hoofde van dit Statuut door hem gesloten overeenkomst heeft geschonden, kan op aanbeveling van de Raad door de Vergadering met een meerderheid van twee derde van de aanwezige leden die hun stem uitbrengen worden geschorst in de uitoefening van de rechten en voorrechten van het lidmaatschap.   
+B.  Een lid dat voortdurend de bepalingen van dit Statuut of van enige uit hoofde van dit Statuut door hem gesloten overeenkomst heeft geschonden, kan op aanbeveling van de Raad door de Vergadering met een meerderheid van twee derde van de aanwezige leden die hun stem uitbrengen worden geschorst in de uitoefening van de rechten en voorrechten van het lidmaatschap.  
 
 ### Artikel  XVIII  
 
@@ -606,19 +606,19 @@ B.  Voor staten en regionale intergouvernementele organisaties voor economische 
 C.  Door de nederlegging van een akte van bekrachtiging of toetreding bij de depositaris wordt de instemming door dit Statuut te worden gebonden tot uitdrukking gebracht. Bekrachtiging van of toetreding tot dit Statuut wordt door de staten verricht in overeenstemming met hun onderscheiden constitutionele procedures.   
 D.  Dit Statuut treedt in werking dertig dagen na de datum van nederlegging van de vijfentwintigste akte van bekrachtiging.   
 E.  Voor staten of regionale intergouvernementele organisaties voor economische integratie die een akte van bekrachtiging of toetreding hebben nedergelegd na de inwerkingtreding van het Statuut, treedt het Statuut in werking dertig dagen na de datum van nederlegging van de desbetreffende akte.   
-F.  Ten aanzien van de bepalingen van dit Statuut mogen geen voorbehouden worden gemaakt.   
+F.  Ten aanzien van de bepalingen van dit Statuut mogen geen voorbehouden worden gemaakt.  
 
 ### Artikel  XX  
 
 ####Depositaris, registratie, authentieke tekst
 
 A.  De Regering van de Bondsrepubliek Duitsland wordt hierbij aangewezen als de depositaris van dit Statuut en van elke akte van bekrachtiging of toetreding.   
-B.  Dit Statuut wordt door de regering die depositaris is geregistreerd in overeenstemming met de bepalingen van artikel 102 van het Handvest van de Verenigde Naties.   
+B.  Dit Statuut wordt door de regering die depositaris is geregistreerd in overeenstemming met de bepalingen van [artikel 102 van het Handvest van de Verenigde Naties](../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).   
 C.  Dit Statuut, opgesteld in de Engelse taal, wordt nedergelegd in de archieven van de regering die depositaris is.   
 D.  Naar behoren gewaarmerkte afschriften van dit Statuut worden door de regering die depositaris is gezonden naar de regeringen van de staten en naar de bestuursorganen van de regionale intergouvernementele organisaties voor economische integratie die het Statuut ondertekend hebben of wier verzoek om lidmaatschap is goedgekeurd in overeenstemming met artikel VI, lid B, onderdeel 2.   
 E.  De regering die depositaris is, stelt alle ondertekenaars van dit Statuut onverwijld in kennis van de datum van nederlegging van elke akte van bekrachtiging en de datum van inwerkingtreding van het Statuut.   
 F.  De regering die depositaris is, stelt alle ondertekenaars en leden onverwijld in kennis van de data waarop staten of regionale intergouvernementele organisaties voor economische integratie nadien lid worden van het Agentschap.   
-G.  De regering die depositaris is, zendt nieuwe verzoeken om lidmaatschap onverwijld naar alle leden van het Agentschap ter bestudering in overeenstemming met artikel VI, lid B, onderdeel 2.   
+G.  De regering die depositaris is, zendt nieuwe verzoeken om lidmaatschap onverwijld naar alle leden van het Agentschap ter bestudering in overeenstemming met artikel VI, lid B, onderdeel 2.  
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe naar behoren gemachtigd, dit Statuut hebben ondertekend. GEDAAN te Bonn op 26 januari 2009, in een oorspronkelijk exemplaar in de Engelse taal.  
 
