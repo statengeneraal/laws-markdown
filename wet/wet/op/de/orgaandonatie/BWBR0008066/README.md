@@ -264,7 +264,7 @@ a. degene die opzettelijk teweegbrengt of bevordert dat een ander aan een derde 
 
 b. degene die openlijk hetzij voor het ontvangen van een orgaan een vergoeding aanbiedt die meer bedraagt dan de kosten, bedoeld in artikel 2, hetzij zich tegen een dergelijke vergoeding als donor aanbiedt hetzij diensten aanbiedt bestaande uit gedragingen, strafbaar gesteld in onderdeel *a*;  
 
-c.  vervallen;   
+c. degene die de behoefte aan, of de beschikbaarheid van organen onder de aandacht brengt met het oogmerk financiële of vergelijkbare voordelen aan te bieden of te behalen;  
 
 d. degene die opzettelijk teweegbrengt of bevordert dat bestanddelen van een persoon of van een stoffelijk overschot, bij wie onderscheidenlijk waarbij de hersenen geheel of nagenoeg geheel ontbreken, worden gebruikt met het oogmerk om in of aan het lichaam van een ander ten behoeve van diens geneeskundige behandeling te worden in- of aangebracht.     
 3.  Met gevangenisstraf van ten hoogste zes maanden of geldboete van de vijfde categorie wordt gestraft degene die handelt in strijd met het bepaalde in de artikelen 22 en 24.   
