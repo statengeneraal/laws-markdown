@@ -22,21 +22,21 @@ In dit besluit wordt verstaan onder:
 
 a. *gebruiksjaar*: de periode van een jaar die loopt van 1 november tot en met 31 oktober;  
 
-b. *vliegtuig*: het begrip zoals dat is bepaald in [artikel 1, onderdeel ak, van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), met uitzondering van draagschroefvliegtuigen;  
+b. *vliegtuig*: het begrip zoals dat is bepaald in artikel 1, onderdeel ak, van het Luchtverkeersreglement, met uitzondering van draagschroefvliegtuigen;  
 
 c. *straalvliegtuig*: een vliegtuig waarbij de voortstuwing direct door ten minste één straalmotor wordt verzorgd;  
 
 d. *vliegtuigbeweging*: de aankomst of het vertrek van een vliegtuig op of van de luchthaven;  
 
-e. *taxiën*: het begrip zoals dat is bepaald in [artikel 1, onderdeel af, van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md).  
+e. *taxiën*: het begrip zoals dat is bepaald in artikel 1, onderdeel af, van het Luchtverkeersreglement.  
 
-f. *vlieghoogte en vliegniveau*: de begrippen zoals deze zijn bepaald in [artikel 1, onderdelen ai en aj, van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), met dien verstande dat: 
+f. *vlieghoogte en vliegniveau*: de begrippen zoals deze zijn bepaald in artikel 1, onderdelen ai en aj, van het Luchtverkeersreglement, met dien verstande dat: 
 
 1° een vlieghoogte die is uitgedrukt in voeten altijd bepaald wordt ten opzichte van het gemiddeld zeeniveau;  
 
 2° een vlieghoogte niet van toepassing is in het luchtruim boven de Nederlandse territoriale zee en boven de Noordzee buiten de territoriale zee;    
 
-g. *Schiphol TMA en Schiphol CTR*: de begrippen zoals deze zijn bepaald op grond van de [artikelen 2](../../../../ministeriele-regeling/regeling/luchtverkeersdienstverlening/BWBR0009899/README.md) en [5 van de Regeling luchtverkeersdienstverlening](../../../../ministeriele-regeling/regeling/luchtverkeersdienstverlening/BWBR0009899/README.md);  
+g. *Schiphol TMA en Schiphol CTR*: de begrippen zoals deze zijn bepaald op grond van de artikelen 2 en 5 van de Regeling luchtverkeersdienstverlening;  
 
 h. *exploitatiebeperkingen:* met de geluidssituatie samenhangende maatregelen waarbij de toegang van civiele subsonische straalvliegtuigen tot een luchthaven wordt beperkt of teruggebracht en welke onder meer gericht kunnen zijn op de uitdienstneming van marginaal conforme vliegtuigen op de luchthaven;  
 
@@ -80,7 +80,7 @@ De luchtverkeerwegen zijn de in bijlage 1 bij dit besluit als zodanig afgebakend
 3.  Bij de nadering van een straalvliegtuig van de luchthaven buiten de in het eerste lid bedoelde gevallen, draagt de gezagvoerder er zorg voor dat de vlieghoogte van het vliegtuig blijft op of boven de in de navolgende tabel beschreven waarden.  *Minimum vlieghoogten*   
 
 | Positie  | Periode  | Vlieghoogte  |
-|:---|:---|:---|
+|---|---|---|
 | Tot grens Schiphol TMA  | Gehele etmaal  | Vliegniveau 70  |
 | Van grens Schiphol TMA tot eindnadering  | Van 6 tot 23 uur  | 2000 voet  |
 | Van 23 tot 6 uur  | 3000 voet  |
@@ -95,7 +95,7 @@ De luchtverkeerwegen zijn de in bijlage 1 bij dit besluit als zodanig afgebakend
 3.  De LVNL draagt er zorg voor dat het aantal afwijkingen als bedoeld in het tweede lid in een gebruiksjaar beneden de in de navolgende tabel vermelde percentages blijft. Het aantal afwijkingen wordt bepaald als percentage van het aantal vliegtuigbewegingen in het gebruiksjaar dat valt binnen de desbetreffende regel van de tabel.  *Afwijkingen*   
 
 | Afwijkingen in het horizontale of het verticale vlak  | Vertrekkend of naderend verkeer  | Positie  | Periode  | Percentage  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | Horizontaal  | Vertrek  | Vlieghoogte 0 tot 3000 voet  | Van 6 tot 23 uur  | 3,00%  |
 | Vlieghoogte 0 tot vliegniveau 90  | Van 23 tot 6 uur  | 0,05%  |
 | Nadering  | --- | Van 23 tot 6 uur  | 0,05%  |
@@ -118,7 +118,7 @@ De exploitant van de luchthaven draagt zorg voor de beschikbaarstelling van het 
 4.  Het gebruik van het banenstelsel is gebonden aan de beperkingen die zijn beschreven in de navolgende tabel.  *Beperkingen banenstelsel*   
 
 | Baan  | Starts  | Landingen  | Verboden in periode  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Baan 18R/36L (Polderbaan)  | Baan 18R  | Baan 36L  | Gehele etmaal  |
 | Baan 18C/36C (Zwanenburgbaan)  | Baan 36C  | Baan 18C  | Van 23:00 tot 6:00 uur  |
 | Baan 18L/36R(Aalsmeerbaan)  | Baan 36R  | Baan 18L  | Gehele etmaal  |
@@ -214,7 +214,7 @@ b. de waarde die bij het punt in bijlage 3 bij dit besluit tussen haken is verme
 1.  De uitstoot ten gevolge van het luchthavenluchtverkeer bedraagt per gecorrigeerde vliegtuigbeweging per gebruiksjaar niet meer dan de in de navolgende tabel in gram per ton vermelde waarden.  
 
 | Stof  | Eerste en tweede gebruiksjaar  | Vanaf het derde tot en met het zevende gebruiksjaar  | Vanaf het achtste gebruiksjaar  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | CO  | 73,1  | 58,1  | 55,0  |
 | NO <sub>x</sub>  | 74,6  | 74,6  | 74,6  |
 | VOS  | 15,6  | 9,9  | 8,4  |
@@ -245,7 +245,7 @@ De exploitant van de luchthaven en de inspecteur-generaal nemen bij het toepasse
 ### Artikel  4A.3  
 
 1.  Bij de besluitvorming over het opleggen van exploitatiebeperkingen wordt rekening gehouden met de in de Bijlage II van richtlijn nr. 2002/30/EG van het Europees Parlement en de Raad van de Europese Unie van 26 maart 2002 betreffende de vaststelling van regels en procedures met betrekking tot de invoering van geluidgerelateerde exploitatiebeperkingen op luchthavens in de Gemeenschap (PbEG L85) gespecificeerde informatie, voor zover dat voor de betrokken exploitatiebeperkingen en de kenmerken van de luchthaven passend en mogelijk is.   
-2.  Aan het eerste lid is in elk geval voldaan indien sprake is van een luchthavenproject dat is onderworpen aan een milieueffectbeoordeling als bedoeld in het [Besluit milieueffectrapportage](../../../../AMvB/besluit/milieueffectrapportage/BWBR0006788/README.md), mits daarbij zoveel mogelijk rekening is gehouden met de specifieke informatie, bedoeld in het eerste lid.   
+2.  Aan het eerste lid is in elk geval voldaan indien sprake is van een luchthavenproject dat is onderworpen aan een milieueffectbeoordeling als bedoeld in het Besluit milieueffectrapportage, mits daarbij zoveel mogelijk rekening is gehouden met de specifieke informatie, bedoeld in het eerste lid.   
 
 ### Artikel  4A.4  
 
@@ -296,7 +296,7 @@ b. vliegtuigen die niet-commerciële vluchten verrichten met het oog op wijzigin
 
 ### Artikel  4A.9  
 
-De artikelen 4A.2 tot en met 4A.7, eerste en tweede lid, zijn van overeenkomstige toepassing op Onze Minister van Verkeer en Waterstaat, voor zover deze ter uitvoering van [artikel 11.15 Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) exploitatiebeperkingen toepast.  
+De artikelen 4A.2 tot en met 4A.7, eerste en tweede lid, zijn van overeenkomstige toepassing op Onze Minister van Verkeer en Waterstaat, voor zover deze ter uitvoering van artikel 11.15 Wet luchtvaart exploitatiebeperkingen toepast.  
 
 ### Hoofdstuk  5  
 
@@ -336,7 +336,7 @@ c. de bepaalde hoeveelheid met deze som te vermenigvuldigen.
 6.  Bij de toepassing van artikel 4.3.1, derde lid, in het tweede gebruiksjaar wordt de in dat lid bedoelde hoeveelheid gevonden door deze te bepalen alsof de in de eerste kolom van de tabel bij het eerste lid van dat artikel genoemde grenswaarden in het jaar voorafgaande aan het tweede gebruiksjaar van toepassing waren.  *Dagwaarden eerste gebruiksjaar*   
 
 | Dagen in de maand  | jan  | feb  | mrt  | apr  | mei  | jun  | jul  | aug  | sep  | okt  | nov  | dec  |
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Waarde (in duizendsten)  | *Totale risicogewichten L*<sub>den</sub> en uitstoot van stoffen  | 2,53  | 2,65  | 2,66  | 2,73  | 2,85  | 2,87  | 2,93  | 2,91  | 2,90  | 2,85  | 2,60  | 2,45  |
 |  *L* <sub>night</sub>   | **1,95  | 2,08  | 2,04  | 2,62  | 3,17  | 3,23  | 3,56  | 3,63  | 3,39  | 3,19  | 2,02  | 2,01  |
 
@@ -347,8 +347,8 @@ c. de bepaalde hoeveelheid met deze som te vermenigvuldigen.
 ### Artikel  6.1  
 
 1.  Uiterlijk drie jaar na de inwerkingtreding van dit besluit wordt door Onze Minister van Verkeer en Waterstaat een milieueffectrapport opgesteld.   
-2.  Het rapport is gericht op een vergelijking van het beschermingsniveau, zoals dat wordt geboden door dit besluit, met het beschermingsniveau zoals dat voor de inwerkingtreding van artikel VI van de wet van 27 juni 2002 houdende wijziging van de Wet luchtvaart inzake de inrichting en het gebruik van de luchthaven Schiphol (Stb. 374) ten aanzien van het vijfbanenstelsel is beschreven in de PKB Schiphol en Omgeving. [Artikel IX van die wet](../../../../wet/wijzigingswet/wet/luchtvaart/(inrichting/en/gebruik/van/de/luchthaven/etc/BWBR0013815/README.md) wordt hierbij in acht genomen.   
-3.  Voor zover uit het rapport blijkt dat bij de vaststelling van dit besluit het bepaalde in de [artikelen X tot en met XIII van de wet van 27 juni 2002 houdende wijziging van de Wet luchtvaart inzake de inrichting en het gebruik van de luchthaven Schiphol (Stb. 374)](../../../../wet/wijzigingswet/wet/luchtvaart/(inrichting/en/gebruik/van/de/luchthaven/etc/BWBR0013815/README.md) niet in acht is genomen, bevordert Onze Minister van Verkeer en Waterstaat in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer dat zulks alsnog geschiedt.   
+2.  Het rapport is gericht op een vergelijking van het beschermingsniveau, zoals dat wordt geboden door dit besluit, met het beschermingsniveau zoals dat voor de inwerkingtreding van artikel VI van de wet van 27 juni 2002 houdende wijziging van de Wet luchtvaart inzake de inrichting en het gebruik van de luchthaven Schiphol (Stb. 374) ten aanzien van het vijfbanenstelsel is beschreven in de PKB Schiphol en Omgeving. Artikel IX van die wet wordt hierbij in acht genomen.   
+3.  Voor zover uit het rapport blijkt dat bij de vaststelling van dit besluit het bepaalde in de artikelen X tot en met XIII van de wet van 27 juni 2002 houdende wijziging van de Wet luchtvaart inzake de inrichting en het gebruik van de luchthaven Schiphol (Stb. 374) niet in acht is genomen, bevordert Onze Minister van Verkeer en Waterstaat in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer dat zulks alsnog geschiedt.   
 
 ### Artikel  6.2  
 
@@ -378,180 +378,184 @@ J. P. H. Donner
 ### Bijlage  1  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- |  *ontwerp wijziging*   |
 |  *Luchtverkeerwegen*   |  *Luchthavenverkeerbesluit Schiphol*   |
 | Vertrekkend verkeer baan 36C (periode van 06.00 tot 23.00 uur)  | Bijlage 1 kaart 01/21  |
 
-![247183](http://wetten.overheid.nl/Illustration/247183)
+![]()
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- |  *ontwerp wijziging*   |
 |  *Luchtverkeerwegen*   |  *Luchthavenverkeerbesluit Schiphol*   |
 | Vertrekkend verkeer baan 36C (periode van 23.00 tot 06.00 uur)  | Bijlage 1 kaart 02/21  |
 
-![247183](http://wetten.overheid.nl/Illustration/247183)
+![]()
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- |  *ontwerp wijziging*   |
 |  *Luchtverkeerwegen*   |  *Luchthavenverkeerbesluit Schiphol*   |
 | Vertrekkend verkeer baan 04 (periode van 06.00 tot 23.00 uur)  | Bijlage 1 kaart 03/21  |
 
-![247183](http://wetten.overheid.nl/Illustration/247183)
+![]()
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- |  *ontwerp wijziging*   |
 |  *Luchtverkeerwegen*   |  *Luchthavenverkeerbesluit Schiphol*   |
 | Vertrekkend verkeer baan 04 (periode van 23.00 tot 06.00 uur)  | Bijlage 1 kaart 04/21  |
 
-![247183](http://wetten.overheid.nl/Illustration/247183)
+![]()
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- |  *ontwerp wijziging*   |
 |  *Luchtverkeerwegen*   |  *Luchthavenverkeerbesluit Schiphol*   |
 | Vertrekkend verkeer baan 06 (periode van 06.00 tot 23.00 uur)  | Bijlage 1 kaart 05/21  |
 
-![247183](http://wetten.overheid.nl/Illustration/247183)
+![]()
 
 | --- | --- |
-|:---|:---|
-| --- |  *ontwerp wijziging*   |
+|---|---|
 |  *Luchtverkeerwegen*   |  *Luchthavenverkeerbesluit Schiphol*   |
-| Vertrekkend verkeer baan 06 (periode van 23.00 tot 06.00 uur)  | Bijlage 1 kaart 06/21  |
+| Vertrekkend verkeer baan 06 (periode van 23.00 tot 06.45 uur)  | Bijlage 1 kaart 06/21  |
 
-![247183](http://wetten.overheid.nl/Illustration/247183)
+![]()
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- |  *ontwerp wijziging*   |
 |  *Luchtverkeerwegen*   |  *Luchthavenverkeerbesluit Schiphol*   |
 | Vertrekkend verkeer baan 09 (periode van 06.00 tot 23.00 uur)  | Bijlage 1 kaart 07/21  |
 
-![247183](http://wetten.overheid.nl/Illustration/247183)
+![]()
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- |  *ontwerp wijziging*   |
 |  *Luchtverkeerwegen*   |  *Luchthavenverkeerbesluit Schiphol*   |
 | Vertrekkend verkeer baan 09 (periode van 23.00 tot 06.00 uur)  | Bijlage 1 kaart 08/21  |
 
-![247183](http://wetten.overheid.nl/Illustration/247183)
+![]()
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- |  *ontwerp wijziging*   |
 |  *Luchtverkeerwegen*   |  *Luchthavenverkeerbesluit Schiphol*   |
 | Vertrekkend verkeer baan 18L (periode van 06.00 tot 23.00 uur)  | Bijlage 1 kaart 09/21  |
 
-![247183](http://wetten.overheid.nl/Illustration/247183)
+![]()
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- |  *ontwerp wijziging*   |
 |  *Luchtverkeerwegen*   |  *Luchthavenverkeerbesluit Schiphol*   |
 | Vertrekkend verkeer baan 18L (periode van 23.00 tot 06.00 uur)  | Bijlage 1 kaart 10/21  |
 
-![247183](http://wetten.overheid.nl/Illustration/247183)
+![]()
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- |  *ontwerp wijziging*   |
 |  *Luchtverkeerwegen*   |  *Luchthavenverkeerbesluit Schiphol*   |
 | Vertrekkend verkeer baan 18C (periode van 06.00 tot 23.00 uur)  | Bijlage 1 kaart 11/21  |
 
-![247183](http://wetten.overheid.nl/Illustration/247183)
+![]()
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- |  *ontwerp wijziging*   |
 |  *Luchtverkeerwegen*   |  *Luchthavenverkeerbesluit Schiphol*   |
 | Vertrekkend verkeer baan 18C (periode van 23.00 tot 06.00 uur)  | Bijlage 1 kaart 12/21  |
 
-![247183](http://wetten.overheid.nl/Illustration/247183)
+![]()
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- |  *ontwerp wijziging*   |
 |  *Luchtverkeerwegen*   |  *Luchthavenverkeerbesluit Schiphol*   |
 | Vertrekkend verkeer baan 22 (periode van 06.00 tot 23.00 uur)  | Bijlage 1 kaart 13/21  |
 
-![247183](http://wetten.overheid.nl/Illustration/247183)
+![]()
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- |  *ontwerp wijziging*   |
 |  *Luchtverkeerwegen*   |  *Luchthavenverkeerbesluit Schiphol*   |
 | Vertrekkend verkeer baan 22 (periode van 23.00 tot 06.00 uur)  | Bijlage 1 kaart 14/21  |
 
-![247183](http://wetten.overheid.nl/Illustration/247183)
+![]()
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- |  *ontwerp wijziging*   |
 |  *Luchtverkeerwegen*   |  *Luchthavenverkeerbesluit Schiphol*   |
 | Vertrekkend verkeer baan 24 (periode van 06.00 tot 23.00 uur)  | Bijlage 1 kaart 15/21  |
 
-![247183](http://wetten.overheid.nl/Illustration/247183)
+![]()
 
 | --- | --- |
-|:---|:---|
-| --- |  *ontwerp wijziging*   |
+|---|---|
 |  *Luchtverkeerwegen*   |  *Luchthavenverkeerbesluit Schiphol*   |
-| Vertrekkend verkeer baan 24 (periode van 23.00 tot 06.00 uur)  | Bijlage 1 kaart 16/21  |
+| Vertrekkend verkeer baan 24 (periode van 23.00 tot 06.45 uur)  | Bijlage 1 kaart 16/21  |
 
-![247183](http://wetten.overheid.nl/Illustration/247183)
+![]()
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- |  *ontwerp wijziging*   |
 |  *Luchtverkeerwegen*   |  *Luchthavenverkeerbesluit Schiphol*   |
 | Vertrekkend verkeer baan 27 (periode van 06.00 tot 23.00 uur)  | Bijlage 1 kaart 17/21  |
 
-![247183](http://wetten.overheid.nl/Illustration/247183)
+![]()
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- |  *ontwerp wijziging*   |
 |  *Luchtverkeerwegen*   |  *Luchthavenverkeerbesluit Schiphol*   |
 | Vertrekkend verkeer baan 27 (periode van 23.00 tot 06.00 uur)  | Bijlage 1 kaart 18/21  |
 
-![247183](http://wetten.overheid.nl/Illustration/247183)
+![]()
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- |  *ontwerp wijziging*   |
 |  *Luchtverkeerwegen*   |  *Luchthavenverkeerbesluit Schiphol*   |
 | Vertrekkend verkeer baan 36L (periode van 06.00 tot 23.00 uur)  | Bijlage 1 kaart 19/21  |
 
-![247183](http://wetten.overheid.nl/Illustration/247183)
+![]()
 
 | --- | --- |
-|:---|:---|
-| --- |  *ontwerp wijziging*   |
+|---|---|
 |  *Luchtverkeerwegen*   |  *Luchthavenverkeerbesluit Schiphol*   |
-| Vertrekkend verkeer baan 36L (periode van 23.00 tot 06.00 uur)  | Bijlage 1 kaart 20/21  |
+| Vertrekkend verkeer baan 36L (periode van 23.00 tot 06.45 uur)  | Bijlage 1 kaart 20/21  |
 
-![247183](http://wetten.overheid.nl/Illustration/247183)
+![]()
+
+| --- | --- |
+|---|---|
+|  *Luchtverkeerwegen*   |  *Luchthavenverkeerbesluit Schiphol*   |
+| Naderend verkeer baan 06 en baan 18R, (periode van 23.00 tot 06.45 uur)  |     Bijlage 1 kaart 21/21  |
+
+![]()
 
 ### Bijlage  2  
 
 ####Handhavingspunten etmaalperiode
 
-![246340](http://wetten.overheid.nl/Illustration/246340)
+![]()
 
 ### Bijlage  3  
 
 ####Handhavingspunten periode van 23.00 tot 7.00 uur
 
-![246341](http://wetten.overheid.nl/Illustration/246341)
+![]()
 
 ### Bijlage  4  
 
 ####Locaties van de afhandelingsplaatsen met vaste stroom en preconditioned air
 
-![246342](http://wetten.overheid.nl/Illustration/246342)
+![]()
 
