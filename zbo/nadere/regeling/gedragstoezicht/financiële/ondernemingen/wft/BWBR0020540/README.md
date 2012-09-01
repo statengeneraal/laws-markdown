@@ -3,7 +3,7 @@
 ##Nadere regeling van de Autoriteit Financiële Markten van 15 november 2006, houdende regels voor het gedragstoezicht op financiële ondernemingen op grond van de Wet op het financieel toezicht (Nadere Regeling gedragstoezicht financiële ondernemingen Wft)
 
 De Autoriteit Financiële Markten,  
-Gelet op de [artikelen 31](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [35](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [54](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [56](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [58](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [59](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [66](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [67](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [69](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [70](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [71](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [84](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [110](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [112](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [118](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [123](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [124](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [133](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [134](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [164](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [165](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), en [167 van het Besluit gedragstoezicht financiële ondernemingen Wft](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md);
+Gelet op de [artikelen 1:12](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [2:59](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [2:74](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [2:79](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [2:85](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [4:7](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [5:5](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5:20 van de Wet op het financieel toezicht](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en de [artikelen 31](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [35](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [54](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [56](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [58](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [59](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [66](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [67](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [69](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [70](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [71](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [84](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [110](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [112](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [118](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [123](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [124](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [133](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [134](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [164](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [165](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), en [167 van het Besluit gedragstoezicht financiële ondernemingen Wft](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md);
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -87,9 +87,15 @@ ad. uitkering: uitbetaling door de aanbieder van een complex product aan de cons
 
 ae. verkoopkosten: kosten die direct kunnen worden gerelateerd aan de verkoop van het beleggingsobject aan de consument;  
 
-af. voorbeeldwaarde: waarde van de opbrengst bij verkoop van een recht van deelneming in de beleggingsinstelling, waarbij verkoopkosten al zijn afgetrokken;  
+af. vermeldingsverplichting: de verplichting een vermelding, als bedoeld in [artikelen 1:12, vierde lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [2:59, derde lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [2:74, tweede lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [2:79, derde lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [2:85, derde lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [4:7, tweede lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [5:5, tweede lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5:20, vijfde lid, van de wet](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), op te nemen in de toepasselijke vermeldingsuitingen;  
 
-ag. waarde: som van alle door de consument onderscheidenlijk deelnemer verrichte betalingen voor een complex product aan de aanbieder plus een bepaald jaarlijks rendement over het deel van die betalingen dat wordt aangewend ten einde rendement te genereren ten behoeve van de consument onderscheidenlijk deelnemer.    
+ag. vermeldingsuitingen: de in de [artikelen 1:12, vierde lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [2:59, derde lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [2:74, tweede lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [2:79, derde lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [2:85, derde lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [4:7, tweede lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); [5:5, tweede lid](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5:20, vijfde lid, van de wet](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bedoelde aanbiedingen, documenten, reclame-uitingen en andere onverplichte precontractuele informatie;  
+
+ah. voorbeeldwaarde: waarde van de opbrengst bij verkoop van een recht van deelneming in de beleggingsinstelling, waarbij verkoopkosten al zijn afgetrokken;  
+
+ai. waarde: som van alle door de consument onderscheidenlijk deelnemer verrichte betalingen voor een complex product aan de aanbieder plus een bepaald jaarlijks rendement over het deel van die betalingen dat wordt aangewend ten einde rendement te genereren ten behoeve van de consument onderscheidenlijk deelnemer;  
+
+aj. de wet: de [Wet op het financieel toezicht](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).    
 
 ### Hoofdstuk  2  
 
@@ -97,9 +103,30 @@ ag. waarde: som van alle door de consument onderscheidenlijk deelnemer verrichte
 
 ### §  2.1  
 
-####Regels met betrekking tot reclame-uitingen als bedoeld in [artikel 53, achtste lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md)
+####Regels met betrekking tot vermeldingsverplichtingen
 
 ### Artikel  2:1  
+
+1.  Indien een vermeldingsuiting op schrift is gesteld, op internet is geplaatst, of op televisie wordt getoond of ten gehore wordt gebracht, wordt de in het tweede lid gespecificeerde afbeelding, onverminderd de overige leden van dit artikel, goed leesbaar opgenomen bij de vermeldingsuiting. Indien een vermeldingsuiting ten gehore wordt gebracht via internet of radio wordt het in het tweede lid gespecificeerde geluidsfragment ten gehore gebracht na de vermeldingsuiting.   
+2.  Indien een vermeldingsverplichting bij of krachtens [artikel 1:12](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:59](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:74](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:79](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [2:85](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [4:7 van de wet](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is gesteld, wordt één van de in de in bijlage 1.1 weergegeven afbeeldingen opgenomen in de vermeldingsuiting, of, indien van toepassing, wordt het in bijlage 1.1 weergegeven geluidsfragment ten gehore gebracht na de vermeldingsuiting. Indien een vermeldingsverplichting bij of krachtens [artikel 5:5](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [5:20 van de wet](../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is gesteld, wordt één van de in de in bijlage 1.2 weergegeven afbeeldingen opgenomen in de vermeldingsuiting, of, indien van toepassing, wordt het in bijlage 1.2 weergegeven geluidsfragment ten gehore gebracht na de vermeldingsuiting. Indien in de vermeldingsuiting zowel bij of krachtens artikel 2:74 van de wet als bij of krachtens artikel 5:5 of 5:20 van de wet een in die artikelen genoemde vermelding moet worden opgenomen, wordt één van de in de in bijlage 1.3 weergeven afbeeldingen opgenomen in de vermeldingsuiting, of, indien van toepassing, wordt het in bijlage 1.3 weergegeven geluidsfragment ten gehore gebracht na de vermeldingsuiting. De verschillende afbeeldingen en geluidsfragmenten zijn te downloaden vanaf www.afm.nl/vrijstellingsvermelding en www.afm.nl/exemption-notification.   
+3.  Indien een vermeldingsuiting in de Nederlandse taal wordt weergegeven of ten gehore wordt gebracht, is de in het eerste lid bedoelde afbeelding respectievelijk het in dat lid bedoelde geluidsfragment Nederlandstalig. Indien een vermeldingsuiting in een andere taal dan de Nederlandse taal wordt weergegeven of ten gehore wordt gebracht, is de in het eerste lid bedoelde afbeelding respectievelijk het in dat lid bedoelde geluidsfragment Engelstalig.   
+4.  De oorspronkelijke verhouding van de afbeelding als bedoeld in het eerste lid, wordt niet gewijzigd. Onverminderd het vijfde lid mag de afbeelding worden vergroot of verkleind, waarbij bij een vermeldingsuiting op schrift een lettergrootte van de afbeelding van 7 punten niet wordt onderschreden.   
+5.  De afbeelding als bedoeld in het eerste lid, wordt opgenomen op de volgende wijze: 
+
+a. Indien de vermeldingsuiting op schrift is gesteld, wordt de afbeelding gecentreerd onderaan getoond, waarbij de breedte van de afbeelding gelijk is aan de breedte van de vermeldingsuiting en de hoogte van de afbeelding minimaal 10% bedraagt van de hoogte van de vermeldingsuiting met inbegrip van de afbeelding. Indien de vermeldingsuiting meerdere pagina's beslaat, wordt de afbeelding op de eerste pagina van de vermeldingsuiting weergegeven op de wijze als in dit onderdeel bepaald.  
+
+b. Indien de vermeldingsuiting de definitieve voorwaarden van een basisprospectus betreft, wordt de afbeelding op een inlegvel, of een kaft, weergegeven op de wijze als in onderdeel a bepaald.  
+
+c. Indien de vermeldingsuiting op internet is geplaatst, wordt de afbeelding gecentreerd bovenaan getoond, waarbij de breedte van de afbeelding gelijk is aan de breedte van de vermeldingsuiting en de hoogte van de afbeelding minimaal 10% bedraagt van de hoogte van de vermeldingsuiting met inbegrip van de afbeelding. De afbeelding dient zodanig te worden weergegeven op de internetpagina dat deze altijd zichtbaar is.  
+
+d. Gedurende een vermeldingsuiting die op televisie wordt getoond of ten gehore wordt gebracht, wordt gecentreerd onderaan in het televisiescherm de afbeelding getoond, waarbij de breedte van de afbeelding gelijk is aan de breedte van het beeld dat op het televisiescherm wordt getoond en de hoogte minimaal 10 % van het televisiescherm beslaat.     
+6.  Direct aansluitend aan een vermeldingsuiting die via radio of internet ten gehore wordt gebracht, wordt het in het eerste lid bedoelde geluidsfragment ten gehore gebracht. Het geluidsfragment wordt op oorspronkelijke snelheid afgespeeld met eenzelfde volume als de vermeldingsuiting zelf.   
+
+### §  2.2  
+
+####Regels met betrekking tot reclame-uitingen als bedoeld in [artikel 53, achtste lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md)
+
+### Artikel  2:2  
 
 1.  In een reclame-uiting als bedoeld in [artikel 53, achtste lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), die op schrift is gesteldwordt gecentreerd onderaan de in het vijfde lid bedoelde waarschuwing getoond in zijn oorspronkelijke verhouding, waarbij de breedte van de waarschuwing gelijk is aan de breedte van de reclame-uiting en de hoogte van de waarschuwing minimaal 10% van de hoogte van reclame-uiting inclusief waarschuwing bedraagt. Indien een reclame-uiting meerdere pagina’s beslaat, dient onderaan op de eerste pagina van die reclame-uiting de in het vijfde lid bedoelde waarschuwing getoond te worden.   
 2.  In een reclame-uiting als bedoeld in [artikel 53, achtste lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), die op internet is geplaatst, wordt gecentreerd bovenaan de in het vijfde lid bedoelde waarschuwing getoond in zijn oorspronkelijke verhouding, waarbij de breedte van de waarschuwing gelijk is aan de breedte van de reclame-uiting en de hoogte van de waarschuwing minimaal 10% van de hoogte van reclame-uiting inclusief waarschuwing bedraagt.   
@@ -107,11 +134,11 @@ ag. waarde: som van alle door de consument onderscheidenlijk deelnemer verrichte
 4.  Gedurende een reclame-uiting als bedoeld in [artikel 53, achtste lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), die via televisie wordt getoond of ten gehore wordt gebracht, wordt gecentreerd onderaan in het beeld dat op het televisiescherm wordt getoond een waarschuwing getoond. Deze waarschuwing is de vanaf www.afm.nl/kredietwaarschuwing te downloaden afbeelding. Deze afbeelding wordt in zijn oorspronkelijke verhouding afgebeeld, waarbij de breedte van de afbeelding gelijk is aan de breedte van het beeld dat op het televisiescherm wordt getoond.   
 5.  De in het eerste en tweede lid genoemde waarschuwing is de vanaf www.afm.nl/kredietwaarschuwing te downloaden afbeelding. De hoogte van de te downloaden afbeelding, zoals geplaatst in de reclame-uiting overeenkomstig het eerste dan wel het tweede lid, beslaat minimaal 10% van de hoogte van de reclame-uiting inclusief waarschuwing. De afbeelding mag vergroot en verkleind worden, met als uiterste minimumwaarde een lettergrootte van 7 punten voor de letters welke gebruikt zijn in de afbeelding.   
 
-### §  2.2  
+### §  2.3  
 
 ####Regels met betrekking tot de presentatie en formulering van reclame-uitingen met betrekking tot complexe producten
 
-### Artikel  2:2  
+### Artikel  2:3  
 
 1.  Informatie over de belangrijkste financiële risico’s van een complex product in een schriftelijke reclame-uiting, bedoeld in [artikel 52, eerste lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), wordt weergegeven rechtsboven in de reclame-uiting door middel van de risico-indicator te downloaden van www.afm.nl/reclameteksten. De waarde van de risico-indicator is daarbij voor rechten van deelneming in een beleggingsinstelling gelijk aan de waarde van de risico-indicator zoals berekend ten behoeve van de actuele essentiële beleggersinformatie, bedoeld in [artikel 65, tweede lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md). Voor een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling, wordt de risico-indicator berekend op grond van artikel 3:6. In afwijking van artikel 3:5, derde lid, geldt voor een opbouwproduct geen tussentijdse looptijd.   
 2.  Informatie over de belangrijkste financiële risico’s van een complex product in een reclame-uiting, bedoeld in [artikel 52, eerste lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), via internet wordt weergegeven in de onmiddellijke nabijheid van de informatie over de opbrengsten van het complexe product in de reclame-uiting door middel van de risico-indicator te downloaden van www.afm.nl/reclameteksten. De waarde van de risico-indicator is daarbij voor rechten van deelneming in een beleggingsinstelling gelijk aan de waarde van de risico-indicator zoals berekend ten behoeve van de actuele essentiële beleggersinformatie, bedoeld in [artikel 65, tweede lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md). Voor een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling, wordt de risico-indicator berekend op grond van artikel 3:6. In afwijking van artikel 3:5, derde lid, geldt voor een opbouwproduct geen tussentijdse looptijd.   
@@ -119,17 +146,17 @@ ag. waarde: som van alle door de consument onderscheidenlijk deelnemer verrichte
 4.  In afwijking van artikel 3:6, tweede lid en derde lid, worden de risico’s: ‘klein’ en ‘groot’ niet benoemd maar wel weergegeven in de risico-indicator van een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling als bedoeld in het eerste tot en met derde lid.   
 5.  Informatie over de belangrijkste financiële risico’s van een complex product in een reclame-uiting, bedoeld in [artikel 52, derde lid, van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), via radio wordt weergegeven aan het einde van de reclame-uiting door overneming van het geluidsbestand, te downloaden van www.afm.nl/reclameteksten.   
 6.  De Autoriteit Financiële Markten kan de risico-indicator voor gebruik in reclame-uitingen, bedoeld in het eerste tot en met derde lid, of een geluidsbestand als bedoeld in het vorige lid geheel of gedeeltelijk wijzigen. Een aanbieder van het complexe product verwerkt een dergelijke wijziging uiterlijk de eerste dag van de vierde kalendermaand na bekendmaking daarvan.   
-7.  De risico-indicator voor een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling als bedoeld in het eerste en tweede lid wordt opgesteld conform de vormgeving van bijlage 1, onder 1, met dien verstande dat de risico-indicator, bedoeld in het tweede lid, de consument door middel van een hyperlink verwijst naar www.afm.nl/risicometer. De risico-indicator voor een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling als bedoeld in het derde lid wordt opgesteld conform de vormgeving van bijlage 1, onder 2. De risico-indicator voor rechten van deelneming in een beleggingsinstelling als bedoeld in het eerste en tweede lid wordt opgesteld conform de vormgeving van bijlage 1, onder 3, met dien verstande dat de risico-indicator, bedoeld in het tweede lid, de consument door middel van een hyperlink verwijst naar www.afm.nl/ebi. De risico-indicator voor rechten van deelneming in een beleggingsinstelling als bedoeld in het derde lid wordt opgesteld conform de vormgeving van bijlage 1, onder 4.   
+7.  De risico-indicator voor een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling als bedoeld in het eerste en tweede lid wordt opgesteld conform de vormgeving van bijlage 1.4, onder 1, met dien verstande dat de risico-indicator, bedoeld in het tweede lid, de consument door middel van een hyperlink verwijst naar www.afm.nl/risicometer. De risico-indicator voor een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling als bedoeld in het derde lid wordt opgesteld conform de vormgeving van bijlage 1.4, onder 2. De risico-indicator voor rechten van deelneming in een beleggingsinstelling als bedoeld in het eerste en tweede lid wordt opgesteld conform de vormgeving van bijlage 1.4, onder 3, met dien verstande dat de risico-indicator, bedoeld in het tweede lid, de consument door middel van een hyperlink verwijst naar www.afm.nl/ebi. De risico-indicator voor rechten van deelneming in een beleggingsinstelling als bedoeld in het derde lid wordt opgesteld conform de vormgeving van bijlage 1.4, onder 4.   
 8.  De informatie, bedoeld in het eerste lid, wordt weergegeven, voor uitingen met een oppervlakte kleiner of gelijk aan A4, in een minimale diameter van 4 centimeter, in de kleur zwart of rood.   
 9.  De informatie, bedoeld in het eerste lid, wordt weergegeven, voor uitingen met een oppervlakte groter dan A4, in een oppervlakte van minimaal 5 procent van de totale oppervlakte van de reclame-uiting, in de kleur zwart of rood.   
 10.  De informatie, bedoeld in het tweede lid, wordt weergegeven in een minimale grootte van 180 pixels bij 180 pixels, in de kleur zwart of rood, met dien verstande dat voor de bepaling van de grootte een ingestelde beeldschermresolutie van 1024 × 768 beeldlijnen als uitgangspunt wordt genomen.   
 11.  De informatie, bedoeld in het derde lid, wordt weergegeven in een grootte van tien procent van de grootte van de reclame-uiting.   
 
-### §  2.3  
+### §  2.4  
 
 ####Regels met betrekking tot de berekening van historische en toekomstige rendementen, kosten en risico’s
 
-### Artikel  2:3  
+### Artikel  2:4  
 
 1.  Informatie over een historisch rendement, bedoeld in [artikel 52, vijfde of zesde lid van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), niet zijnde van een beleggingsinstelling, wordt berekend conform het opbrengstscenario bedoeld in artikel 3:9, eerste lid, onder a en mag worden aangevuld met de vermelding van de daadwerkelijk gerealiseerde rendementen over de gebruikte historie.   
 2.  Informatie over een toekomstig rendement, bedoeld in [artikel 52, vijfde of zesde lid van het besluit](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), niet zijnde van een beleggingsinstelling, wordt berekend conform het opbrengstscenario bedoeld in artikel 3:9, eerste lid, onder a, b of c dan wel een rendement op basis van een eigen berekening, welk rendement echter het opbrengstscenario bedoeld in het eerste lid niet overschrijdt.   
@@ -138,7 +165,7 @@ ag. waarde: som van alle door de consument onderscheidenlijk deelnemer verrichte
 5.  Informatie als bedoeld in het vierde lid kan worden vervangen door een risico-indicator, die is berekend op basis van gegevens van de consument.   
 6.  De informatie over het complexe product bedoeld in het vierde of vijfde lid wordt weergegeven op een duidelijk en herkenbare wijze in de onmiddellijke nabijheid van de informatie over rendementen, als bedoeld in het eerste en tweede lid.   
 
-### Artikel  2:4  
+### Artikel  2:5  
 
 Indien in een reclame-uiting van een beheerder of beleggingsinstelling werkelijke rendementscijfers worden gepresenteerd: 
 
@@ -157,50 +184,6 @@ f. indien wordt uitgegaan van de waardeverandering van de intrinsieke waarde: wo
 g. indien gebruik wordt gemaakt van gesimuleerde rendementscijfers: certificeert een deskundige, als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), dat de simulatie rekenkundig juist, objectief meetbaar en representatief is. In de reclame-uiting wordt melding gemaakt van het feit dat gebruik is gemaakt van een simulatie. De certificering van de deskundige behoeft niet in de reclame-uiting te worden opgenomen; en  
 
 h. indien de rendementscijfers niet in euro’s luiden wordt de gebruikte valuta vermeld.    
-
-### Artikel  2:5  
-
-Wanneer in een reclame-uiting van een beheerder of beleggingsinstelling rendementsprognoses worden gepresenteerd: 
-
-a. is artikel 2.4 onderdelen a, b, f, g en h van overeenkomstige toepassing op de berekeningswijze van de rendementscijfers;  
-
-b. wordt in de reclame-uiting vermeld dat het prognoses betreft; en  
-
-c. worden de prognoses onderbouwd en wordt het model dat daarbij wordt gebruikt door een deskundige als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) getoetst op de elementen die zich daartoe lenen. Het resultaat van deze toetsing wordt schriftelijk vastgelegd.    
-
-### §  2.4  
-
-####Regels met betrekking tot de berekening van historische en toekomstige rendementen, kosten en risico’s
-
-### Artikel  2:4  
-
-Indien in een reclame-uiting van een beheerder of beleggingsinstelling werkelijke rendementscijfers worden gepresenteerd: 
-
-a. wordt de referentieperiode vermeld;  
-
-b. worden rendementscijfers die betrekking hebben op meerdere jaren teruggebracht tot een gemiddeld jaarrendement of als afzonderlijke jaarrendementen vermeld. Indien een gemiddeld jaarrendement over meer dan één jaar wordt gepresenteerd, wordt een meetperiode van minimaal drie jaar gehanteerd. Indien de beleggingsinstelling nog niet zo lang actief is, kan gerekend worden vanaf het moment van initiële uitgifte van deelnemingsrechten;  
-
-c. kunnen resultaten over kortere perioden dan 12 maanden worden gepresenteerd, mits de presentatie geschiedt op consistente wijze en de resultaten niet worden geëxtrapoleerd naar rendementen op jaarbasis;  
-
-d. wordt bij vergelijking van de resultaten met een vergelijkingsmaatstaf (benchmark) deze benchmark genoemd en is de referentieperiode van de benchmark gelijk aan de genoemde referentieperiode van de beleggingsinstelling;  
-
-e. worden de rendementscijfers gepresenteerd in procenten waardeverandering van ofwel consequent de intrinsieke waarde dan wel consequent de beurswaarde per aandeel of recht van deelnemingsrecht aan het begin van het boekjaar/de periode, rekening houdend met de distributies aan aandeelhouders of deelnemers in de betreffende periode(s) waarbij die distributies mogen worden opgerent naar het einde van het boekjaar of de periode. Als rendementscijfers worden gepresenteerd aan de hand van veranderingen van de intrinsieke waarde en deze intrinsieke waarde per deelnemingsrecht afwijkt van de verkoopwaarde van dat deelnemingsrecht, dan dient dit laatste expliciet te worden vermeld;  
-
-f. indien wordt uitgegaan van de waardeverandering van de intrinsieke waarde: wordt gerefereerd aan het totale rendement van de beleggingsinstelling. Een en ander is consistent met de betreffende jaarrekeningen. Indien de instelling belastingplichtig is, wordt het rendement na belastingen genoemd;  
-
-g. indien gebruik wordt gemaakt van gesimuleerde rendementscijfers: certificeert een deskundige, als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), dat de simulatie rekenkundig juist, objectief meetbaar en representatief is. In de reclame-uiting wordt melding gemaakt van het feit dat gebruik is gemaakt van een simulatie. De certificering van de deskundige behoeft niet in de reclame-uiting te worden opgenomen; en  
-
-h. indien de rendementscijfers niet in euro’s luiden wordt de gebruikte valuta vermeld.    
-
-### Artikel  2:5  
-
-Wanneer in een reclame-uiting van een beheerder of beleggingsinstelling rendementsprognoses worden gepresenteerd: 
-
-a. is artikel 2.4 onderdelen a, b, f, g en h van overeenkomstige toepassing op de berekeningswijze van de rendementscijfers;  
-
-b. wordt in de reclame-uiting vermeld dat het prognoses betreft; en  
-
-c. worden de prognoses onderbouwd en wordt het model dat daarbij wordt gebruikt door een deskundige als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) getoetst op de elementen die zich daartoe lenen. Het resultaat van deze toetsing wordt schriftelijk vastgelegd.    
 
 ### Artikel  2:6  
 
@@ -804,33 +787,33 @@ o. de beleggersgiro beschikt over een bedrag aan eigen vermogen van tenminste 12
 
 Een beleggingsonderneming die voor de uitoefening van het bedrijf van bank een door de Nederlandsche Bank verleende vergunning heeft, kan aan het vereiste, bedoeld in artikel 6:14, voldoen door het sluiten van een overeenkomst met de cliënt, waarin tenminste is bepaald dat creditering of debitering van de bij de kredietinstelling aangehouden rekening in financiële instrumenten van de cliënt uitsluitend geschiedt tegen gelijktijdige debitering of creditering van het ingevolge de nota inzake financiële instrumenten te ontvangen of verschuldigde bedrag op de daarvoor bestemde geldrekening van de cliënt en: 
 
-a. indien de financiële instrumenten onder de [Wet giraal effectenverkeer](../../../../../../../../wet/wet/giraal/effectenverkeer/BWBR0003109/README.md) vallen en de beleggingsonderneming is aangesloten bij Necigef, de financiële instrumenten overeenkomstig de bepalingen van de [Wet giraal effectenverkeer](../../../../../../../../wet/wet/giraal/effectenverkeer/BWBR0003109/README.md) worden bewaard en geadministreerd; of  
+a. indien de financiële instrumenten onder de [Wet giraal effectenverkeer](../../../../../../../../wet/wet/giraal/effectenverkeer/BWBR0003109/README.md) vallen, de financiële instrumenten overeenkomstig de bepalingen van de Wet giraal effectenverkeer worden bewaard en geadministreerd; of  
 
 b. de financiële instrumenten worden bewaard bij een bewaarinstelling en aan de volgende voorwaarden is voldaan: 
 
-– de bewaarinstelling is een rechtspersoon naar Nederlands recht;  
+* de bewaarinstelling is een rechtspersoon naar Nederlands recht;  
 
-– een ieder die de bewaarinstelling krachtens statuten of reglementen vertegenwoordigt dan wel het dagelijks beleid van de bewaarinstelling bepaalt voldoende deskundig is in verband met de bedrijfsvoering van de bewaarinstelling. Tevens dient de betrouwbaarheid van de in de vorige volzin bedoelde personen, alsmede van de personen die rechtstreeks of middellijk bevoegd zijn om die personen te benoemen of te ontslaan buiten twijfel te staan;  
+* een ieder die de bewaarinstelling krachtens statuten of reglementen vertegenwoordigt dan wel het dagelijks beleid van de bewaarinstelling bepaalt voldoende deskundig is in verband met de bedrijfsvoering van de bewaarinstelling. Tevens dient de betrouwbaarheid van de in de vorige volzin bedoelde personen, alsmede van de personen die rechtstreeks of middellijk bevoegd zijn om die personen te benoemen of te ontslaan buiten twijfel te staan;  
 
-– degene die ten behoeve van de bewaarinstelling werkzaamheden verrichten mogen niet werkzaam zijn voor het bedrijfsonderdeel van de beleggingsonderneming die voor de uitoefening van het bedrijf van bank een door de Nederlandsche Bank verleende vergunning heeft dat transacties in financiële instrumenten uitvoert;  
+* degene die ten behoeve van de bewaarinstelling werkzaamheden verrichten mogen niet werkzaam zijn voor het bedrijfsonderdeel van de beleggingsonderneming die voor de uitoefening van het bedrijf van bank een door de Nederlandsche Bank verleende vergunning heeft dat transacties in financiële instrumenten uitvoert;  
 
-– de bewaarinstelling verricht geen andere activiteiten dan het bewaren van financiële instrumenten;  
+* de bewaarinstelling verricht geen andere activiteiten dan het bewaren van financiële instrumenten;  
 
-– de bewaarinstelling beschikt over een bedrag aan eigen vermogen van tenminste 125.000 euro;  
+* de bewaarinstelling beschikt over een bedrag aan eigen vermogen van tenminste 125.000 euro;  
 
-– de som van de rechten van cliënten op financiële instrumenten komt overeen met de som van de door de bewaarinstelling voor cliënten bewaarde financiële instrumenten;  
+* de som van de rechten van cliënten op financiële instrumenten komt overeen met de som van de door de bewaarinstelling voor cliënten bewaarde financiële instrumenten;  
 
-– de nakoming van de verplichtingen van de bewaarinstelling is gegarandeerd door de beleggingsonderneming;  
+* de nakoming van de verplichtingen van de bewaarinstelling is gegarandeerd door de beleggingsonderneming;  
 
-– de Autoriteit Financiële Markten kan bij de bewaarinstelling alle inlichtingen inwinnen of doen inwinnen, die naar het oordeel van de Autoriteit Financiële Markten nodig zijn voor de juiste uitoefening van haar wettelijke taken en bevoegdheden;  
+* de Autoriteit Financiële Markten kan bij de bewaarinstelling alle inlichtingen inwinnen of doen inwinnen, die naar het oordeel van de Autoriteit Financiële Markten nodig zijn voor de juiste uitoefening van haar wettelijke taken en bevoegdheden;  
 
-– de bewaarder treedt uitsluitend op in het belang van de cliënten van de beleggingsonderneming voor wie financiële instrumenten en gelden bij de bewaarder in bewaring zijn gegeven;  
+* de bewaarder treedt uitsluitend op in het belang van de cliënten van de beleggingsonderneming voor wie financiële instrumenten en gelden bij de bewaarder in bewaring zijn gegeven;  
 
-– de bewaarder is jegens de cliënten aansprakelijk voor de door hen geleden schade, voorzover die schade het gevolg is van verwijtbare niet-nakoming van zijn verplichtingen;  
+* de bewaarder is jegens de cliënten aansprakelijk voor de door hen geleden schade, voorzover die schade het gevolg is van verwijtbare niet-nakoming van zijn verplichtingen;  
 
-– de bewaarder voorziet in een procedure in geval de bewaarder het voornemen te kennen geeft zijn functie neer te leggen; en  
+* de bewaarder voorziet in een procedure in geval de bewaarder het voornemen te kennen geeft zijn functie neer te leggen; en  
 
-– De bewaarinstelling richt de bedrijfsvoering zodanig in dat deze een beheerste en integere bedrijfsvoering van haar bedrijf waarborgt overeenkomstig de [artikelen 31eerste, tweede en derde](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [31b](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [35 eerste, tweede en vierde lid](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) en [165 eerste lid onderdeel a tot en met c BGfo](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md)      
+* De bewaarinstelling richt de bedrijfsvoering zodanig in dat deze een beheerste en integere bedrijfsvoering van haar bedrijf waarborgt overeenkomstig de [artikelen 31eerste, tweede en derde](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [31b](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md), [35 eerste, tweede en vierde lid](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) en [165 eerste lid onderdeel a tot en met c BGfo](../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md)      
 
 ### Artikel  6:19  
 
@@ -881,9 +864,90 @@ A.W.H.Docters van Leeuwen
 Bestuurslid, 
 P.M.Koster RA  
 
-### Bijlage  1  
+### Bijlage  1.1  
 
-####Bijlage ter uitvoering van artikel 2:2 , houdende het model voor risico-indicator in reclame
+####ter uitvoering van artikel 2:1 , houdende de uitvoering van de vermeldingsverplichting
+
+### A  
+
+####afbeelding
+
+![249490](http://wetten.overheid.nl/Illustration/249490)
+![249490](http://wetten.overheid.nl/Illustration/249490)
+![249490](http://wetten.overheid.nl/Illustration/249490)
+![249490](http://wetten.overheid.nl/Illustration/249490)
+![249490](http://wetten.overheid.nl/Illustration/249490)
+![249490](http://wetten.overheid.nl/Illustration/249490)
+![249490](http://wetten.overheid.nl/Illustration/249490)
+![249490](http://wetten.overheid.nl/Illustration/249490)
+![249490](http://wetten.overheid.nl/Illustration/249490)
+![249490](http://wetten.overheid.nl/Illustration/249490)
+![249490](http://wetten.overheid.nl/Illustration/249490)
+![249490](http://wetten.overheid.nl/Illustration/249490)
+
+### B  
+
+####geluidsfragment
+
+‘Let op! U belegt buiten AFM-toezicht. Geen vergunningplicht voor deze activiteit.’ Het geluidsfragment duurt vier seconden. ‘Attention! This investment falls outside AFM supervision. No license required for this activity.’ Het geluidsfragment duurt zes seconden.  
+
+### Bijlage  1.2  
+
+####ter uitvoering van artikel 2:1 , houdende de uitvoering van de vermeldingsverplichting
+
+### A  
+
+####afbeelding
+
+![249502](http://wetten.overheid.nl/Illustration/249502)
+![249502](http://wetten.overheid.nl/Illustration/249502)
+![249502](http://wetten.overheid.nl/Illustration/249502)
+![249502](http://wetten.overheid.nl/Illustration/249502)
+![249502](http://wetten.overheid.nl/Illustration/249502)
+![249502](http://wetten.overheid.nl/Illustration/249502)
+![249502](http://wetten.overheid.nl/Illustration/249502)
+![249502](http://wetten.overheid.nl/Illustration/249502)
+![249502](http://wetten.overheid.nl/Illustration/249502)
+![249502](http://wetten.overheid.nl/Illustration/249502)
+![249502](http://wetten.overheid.nl/Illustration/249502)
+![249502](http://wetten.overheid.nl/Illustration/249502)
+
+### B  
+
+####geluidsfragment
+
+‘Let op! U belegt buiten AFM-toezicht. Geen prospectusplicht voor deze activiteit.’ Het geluidsfragment duurt vijf seconden. ‘Attention! This investment falls outside AFM supervision. No prospectus required for this activity.’ Het geluidsfragment duurt zes seconden.  
+
+### Bijlage  1.3  
+
+####ter uitvoering van artikel 2:1 , houdende de uitvoering van de vermeldingsverplichting
+
+### A  
+
+####afbeelding
+
+![249514](http://wetten.overheid.nl/Illustration/249514)
+![249514](http://wetten.overheid.nl/Illustration/249514)
+![249514](http://wetten.overheid.nl/Illustration/249514)
+![249514](http://wetten.overheid.nl/Illustration/249514)
+![249514](http://wetten.overheid.nl/Illustration/249514)
+![249514](http://wetten.overheid.nl/Illustration/249514)
+![249514](http://wetten.overheid.nl/Illustration/249514)
+![249514](http://wetten.overheid.nl/Illustration/249514)
+![249514](http://wetten.overheid.nl/Illustration/249514)
+![249514](http://wetten.overheid.nl/Illustration/249514)
+![249514](http://wetten.overheid.nl/Illustration/249514)
+![249514](http://wetten.overheid.nl/Illustration/249514)
+
+### B  
+
+####geluidsfragment
+
+‘Let op! U belegt buiten AFM-toezicht. Geen vergunning- en prospectusplicht voor deze activiteit.’ Het geluidsfragment duurt vijf seconden. ‘Attention! This investment falls outside AFM supervision. No license and no prospectus required for this activity.’ Het geluidsfragment duurt zes seconden  
+
+### Bijlage  1.4  
+
+####Bijlage ter uitvoering van artikel 2:2 
 
 ### 1  
 
@@ -895,13 +959,13 @@ P.M.Koster RA
 
 ####Reclame-uiting op televisie voor complexe producten niet zijnde rechten van deelneming in een beleggingsinstelling
 
-![241807](http://wetten.overheid.nl/Illustration/241807)
+![249479](http://wetten.overheid.nl/Illustration/249479)
 
 ### 3  
 
 ####Schriftelijke reclame-uiting of reclame-uiting op internet voor rechten van deelneming in een beleggingsinstelling
 
-![241808](http://wetten.overheid.nl/Illustration/241808)
+![249480](http://wetten.overheid.nl/Illustration/249480)
 
 ### 4  
 

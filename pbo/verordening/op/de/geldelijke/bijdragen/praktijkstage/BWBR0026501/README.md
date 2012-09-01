@@ -21,15 +21,9 @@ c. praktijkstage: praktijkstage als bedoeld in [artikel 67, eerste lid, van de W
 
 ### Artikel  2  
 
-Ingevolge [artikel 15 van de Verordening op de praktijkstage](../../../../../../../../pbo/verordening/op/de/praktijkstage/BWBR0025948/README.md) worden de volgende bedragen vastgesteld: 
-
-1. Kandidaten die aan de praktijkstage willen deelnemen, zijn eenmalig een bedrag van € 166,- inschrijfgeld verschuldigd.  
-
-2. Kandidaten die aan de praktijkstage deelnemen, zijn jaarlijks een bedrag van € 166,- verschuldigd.  
-
-3. Kandidaten die aan de praktijkstage en de examinering daarvan deelnemen, zijn voor de examinering van het praktijkverslag, als bedoeld in [artikel 12, eerste lid, onderdeel a, van de Verordening op de praktijkstage](../../../../../../../../pbo/verordening/op/de/praktijkstage/BWBR0025948/README.md) een bedrag van € 340,- verschuldigd.  
-
-4. Kandidaten zijn voor de examinering van de afstudeerscriptie als bedoeld in [artikel 12, eerste lid, onderdeel b](../../../../../../../../pbo/verordening/op/de/praktijkstage/BWBR0025948/README.md), en de mondelinge examinering, bedoeld in [artikel 12, eerste lid, onderdeel c, van de Verordening op de praktijkstage](../../../../../../../../pbo/verordening/op/de/praktijkstage/BWBR0025948/README.md), een bedrag van € 422,- verschuldigd.    
+1.  Kandidaten die aan de praktijkstage willen deelnemen zijn eenmalig een stagegeld van € 799 verschuldigd.   
+2.  Kandidaten zijn voor de examinering van het praktijkverslag, bedoeld in [artikel 12, eerste lid, onderdeel a, van de Verordening op de praktijkstage](../../../../../../../../pbo/verordening/op/de/praktijkstage/BWBR0025948/README.md) een bedrag van € 348 verschuldigd.   
+3.  Kandidaten zijn voor de examinering van de afstudeerscriptie, bedoeld in [artikel 12, eerste lid, onderdeel b](../../../../../../../../pbo/verordening/op/de/praktijkstage/BWBR0025948/README.md), alsmede de mondelinge examinering, bedoeld in artikel 12, eerste lid, onderdeel c, van de Verordening op de praktijkstage, een bedrag van € 433 verschuldigd.   
 
 ### Artikel  3  
 
