@@ -113,110 +113,9 @@ In afwijking van [artikel 50, eerste lid, onderdelen d en e, van de Flora- en Fa
 
 Deze paragraaf is niet van toepassing op gevogelte, gehouden in dierentuinen.  
 
-### §  2.2  
+### §  2.1  
 
-####Beperkingsgebieden in verband met laagpathogene Aviaire Influenza in februari en maart 2012
-
-### Artikel  2.1.1  
-
-####(aanvullende begripsbepalingen)
-
-In deze paragraaf wordt verstaan onder: 
-
-a. *laagpathogene aviaire influenza (LPAI):* een besmetting van gevogelte of andere gehouden vogels als omschreven in bijlage I, onderdeel 3, van richtlijn nr. 2005/94/EG;  
-
-b. *zoogdier:* een tot de klasse Mammalia behorend dier;  
-
-c. *gebied:* in bijlage I of bijlage II aangewezen beperkingsgebied.    
-
-### Artikel  2.1.2  
-
-####(gebiedsbepaling)
-
-Het is in een gebied verboden te handelen in strijd met de in bijlage I van toepassing verklaarde artikelen of artikelonderdelen van deze regeling.  
-
-### Artikel  2.1.3  
-
-####(vervoers- en uitrijdverboden)
-
-1.  Het vervoer, met inbegrip van verplaatsing over de openbare weg zonder vervoermiddel, van: 
-
-a. gevogelte of andere gehouden vogels, uitgezonderd duiven,  
-
-b. gebruikt strooisel, mest of drijfmest,  
-
-c. broed-, vaccin- en consumptie-eieren, of  
-
-d. sperma ten behoeve van de bevruchting van gevogelte   uit, of binnen het gebied, is verboden.   
-2.  Het aanwenden van gebruikt strooisel, mest of drijfmest binnen het gebied is verboden.   
-3.  Het vervoer, met inbegrip van verplaatsing over de openbare weg zonder vervoermiddel, van gedomesticeerde zoogdieren van of naar een bedrijf, waar gevogelte, met uitzondering van hobbypluimvee of duiven, wordt gehouden, is verboden.   
-4.  In afwijking van het bepaalde in het eerste en tweede lid is de afvoer, het vervoer en de aanwending van mest, niet zijnde mest afkomstig van gevogelte, toegestaan, indien de mest afkomstig is van een bedrijf waar geen gevogelte, behalve hobbypluimvee of duiven, wordt gehouden.   
-5.  Het verbod bedoeld in het eerste lid is niet van toepassing ten aanzien van het vervoer van consumptie-eieren afkomstig van bedrijven, anders dan bedrijven waar zich gevogelte bevindt.   
-6.  In afwijking van het bepaalde in het eerste lid is de doorvoer van de in dat lid genoemde dieren en dierlijke producten over de snelweg A2 door het gebied, zonder dat halt gehouden wordt om te laden of te lossen, toegestaan.   
-
-### Artikel  2.1.4  
-
-####(verzamelverbod)
-
-Alle wedvluchten, culturele elementen, tentoonstellingen, keuringen of andere tijdelijke verzamelingen waar gevogelte en andere vogels afkomstig van verschillende plaatsen tijdelijk op één plaats worden verzameld zijn verboden. Vrijstellingen op grond van artikel 2.5, tweede en derde lid, zijn geschorst.  
-
-### Artikel  2.1.5  
-
-####(diervoeders en melk)
-
-1.  De aanvoer van diervoeders op en de afvoer van rauwe melk van een bedrijf waar gevogelte, uitgezonderd hobbypluimvee of duiven, wordt gehouden is verboden.   
-2.  Het verbod, bedoeld in het eerste lid, geldt niet voor het rechtstreekse vervoer van de diervoeders naar het bedrijf respectievelijk het rechtstreekse vervoer van de melk naar de melkfabriek waarbij de vervoermiddelen bij het verlaten van het bedrijf worden gereinigd en ontsmet in overeenstemming met een door de NVWA goedgekeurd hygiëneprotocol dat in overeenstemming is met de eisen voor reiniging en ontsmetting vermeld in bijlage VI bij richtlijn nr. 2005/94/EG.   
-
-### Artikel  2.1.6  
-
-####(verplaatsingsverbod risicovolle voertuigen)
-
-1.  Het is verboden vervoermiddelen, gebruikt of kennelijk bestemd voor het vervoer van: 
-
-a. gevogelte of andere gehouden vogels;  
-
-b. gedomesticeerde zoogdieren afkomstig van een bedrijf waar tevens gevogelte aanwezig is;  
-
-c. voeder, gebruikt strooisel, rauwe melk of mest afkomstig van of bestemd voor een bedrijf waar tevens gevogelte aanwezig is, of  
-
-d. broed-, vaccin- en consumptie-eieren   te verplaatsen binnen het gebied.   
-2.  Het verbod, bedoeld in het eerste lid, is niet van toepassing indien: 
-
-a. de bestuurder van het vervoermiddel kan aantonen dat het vervoer betreft anders dan het vervoer als bedoeld in het eerste lid, of  
-
-b. het vervoermiddel aantoonbaar een reiniging en ontsmetting heeft ondergaan in overeenstemming met een door de NVWA goedgekeurd hygiëneprotocol dat in overeenstemming is met de eisen voor reiniging en ontsmetting vermeld in bijlage VI bij richtlijn nr. 2005/94/EG.     
-
-### Artikel  2.1.7  
-
-####(ontheffing door NVWA)
-
-Op verzoek van een houder kan de NVWA onder voorwaarden ontheffing verlenen van het bepaalde in de artikelen 2.1.3 en 2.1.4.  
-
-### Artikel  2.1.8  
-
-####(bezoekersregeling)
-
-1.  De houder van gevogelte, niet zijnde hobbypluimvee of duiven, neemt maatregelen zodat elk contact tussen bezoekers en gevogelte is uitgesloten.   
-2.  Het is de houder, bedoeld in het eerste lid, toegestaan: 
-
-a. ambtenaren van politie, huisartsen, ambulancepersoneel, brandweerlieden, psychosociale hulpverleners en andere soortgelijke noodhulpdiensten en hun materieel;  
-
-b. monteurs, loonwerkers, dierenartsen en bedrijfsverzorgers met inbegrip van pluimveeservicebedrijven, indien er een acuut gevaar voor de gezondheid van gevogelte aanwezig is en werkzaamheden van deze personen noodzakelijk zijn om deze situatie op te heffen;  
-
-c. toezichthouders;   in de uitoefening van hun functie in contact te laten treden met gevogelte, mits de in de onderdelen a, b en c bedoelde personen bij het betreden en het verlaten van een bedrijfsgebouw de nodige hygiënemaatregelen in acht nemen om elk risico van verspreiding van LPAI zo veel mogelijk te beperken en de kleding en het materieel van deze personen bij het betreden en het verlaten van een bedrijfsgebouw is gereinigd en ontsmet om te voorkomen dat besmetting met of verspreiding van LPAI zich voordoet.   
-
-### Artikel  2.1.9  
-
-####(bioveiligheidsmaatregelen, afschermplicht)
-
-1.  De houder van gevogelte brengt afscheidingen aan tussen het gevogelte en de op het landbouwbedrijf aanwezige zoogdieren.   
-2.  De houder van gevogelte, niet zijnde hobbypluimvee of duiven, neemt passende maatregelen om zo veel mogelijk te voorkomen dat de door hem gehouden dieren in contact komen met buiten het verblijf levende wilde dieren, zoals in het wild levende vogels, of hun uitwerpselen.   
-3.  Onder passende maatregelen als bedoeld in het tweede lid wordt ten minste begrepen het binnen een gebouw brengen en daar houden van het gevogelte.   
-4.  Het derde lid is niet van toepassing op dieren van een soort behorende tot de orde van de eendvogels (Anseriformes), de families van de struisvogels (Struthionidae), emoes (Dromaiidae) en nandoes (Rheidae).   
-
-### Artikel  2.1.10  
-
-Deze paragraaf laat het bepaalde op grond van [artikel 25 van de wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en het bepaalde in paragraaf 2 van deze regeling onverlet met dien verstande dat artikel 2.5, tweede en derde lid, van paragraaf 2 niet van toepassing is in het gebied.  
+####Maatregelen in verband met laagpathogene Aviaire Influenza
 
 ### §  3  
 
@@ -240,61 +139,33 @@ De NVWA is de bevoegde autoriteit bedoeld in artikel 8, derde lid, vierde lid, o
 
 ### Artikel  3.5  
 
-1.  Het is verboden in strijd te handelen met de voorwaarden van artikel 8, eerste, derde, vierde, vijfde lid en lid 5 bis en artikel 9 bis van verordening (EG) nr. 1266/2007.   
-2.  Het is verboden herkauwers die oorspronkelijk afkomstig zijn uit gebieden waar bluetongue voorkomt in Nederland te brengen.   
-3.  Het tweede lid is niet van toepassing op herkauwers indien wordt voldaan aan: 
-
-a. voor zover het gaat om herkauwers, jonger dan 90 dagen, de voorwaarden van artikel 9 bis, eerste lid, onderdelen b en c, en vierde lid, van verordening (EG) nr. 1266/2007, of  
-
-b. de toepasselijke voorwaarden van artikel 8 van verordening (EG) nr. 1266/2007 en voor zover hierop van toepassing de voorwaarden van artikel 9 bis van verordening (EG) nr. 1266/2007.     
-4.  Het is verboden herkauwers te houden die niet overeenkomstig het derde lid in Nederland zijn binnengebracht.   
-5.  Het tweede, derde en vierde lid zijn van toepassing tot en met de datum genoemd in artikel 9 bis, eerste lid, van verordening (EG) nr. 1266/2007.   
+1.  Het is verboden herkauwers die oorspronkelijk afkomstig zijn uit gebieden waar bluetongue voorkomt in Nederland te brengen.   
+2.  Het eerste lid is niet van toepassing op herkauwers indien wordt voldaan aan bijlage III van verordening (EG) nr. 1266/2007.   
+3.  Het is verboden herkauwers die oorspronkelijk afkomstig zijn uit gebieden waar bluetongue voorkomt te houden die niet overeenkomstig het tweede lid in Nederland zijn binnengebracht.   
+4.  Het is verboden in strijd te handelen met de voorwaarden van artikel 8, eerste, derde, vierde, vijfde lid en lid 5 bis van verordening (EG) nr. 1266/2007.   
 
 ### Artikel  3.6  
 
 1.  De doorvoer van herkauwers is verboden.   
-2.  Het eerste lid is niet van toepassing indien is voldaan aan de voorwaarden: 
-
-a. genoemd in artikel 9, eerste lid, onderdelen a, b of c, en vierde lid, van verordening (EG) nr. 1266/2007;  
-
-b. genoemd in artikel 9, derde lid, van verordening (EG) nr. 1266/2007.     
+2.  Het eerste lid is niet van toepassing indien is voldaan aan de voorwaarden genoemd in artikel 9, eerste en derde lid, van verordening (EG) nr. 1266/2007.   
 3.  Het eerste en tweede lid zijn niet van toepassing indien wordt voldaan aan artikel 9, tweede lid, van verordening (EG) nr. 1266/2007.   
 
 ### §  3.1  
 
-####Vaccinatie bluetongue
+####Vaccinatie
+
+### Artikel  3.1.1  
+
+1.  Van het verbod in [artikel 3 van het Besluit gebruik sera en entstoffen](../../../../../../AMvB/besluit/gebruik/sera/en/entstoffen/BWBR0009198/README.md) wordt vrijstelling verleend voor het overeenkomstig deze regeling vaccineren van herkauwers of kameelachtigen tegen bluetongue.   
+2.  De vaccinatie wordt uitsluitend uitgevoerd met een in Nederland toegelaten geïnactiveerd vaccin tegen bluetongue.   
 
 ### §  3.2  
 
-####Export gevaccineerde dieren
+####Export gevaccineerde runderen naar derde landen
 
 ### Artikel  3.2.1  
 
-1.  Export van gevaccineerde runderen overeenkomstig de voorwaarden, bedoeld in bijlage III, punt 5, van verordening (EG) nr. 1266/2007 vindt plaats: 
-
-a. vanaf de locatie waar de dieren zijn gevaccineerd rechtstreeks naar een buiten Nederland gelegen locatie, of  
-
-b. vanaf een exportverzamelcentrum.     
-2.  Export van gevaccineerde schapen en geiten overeenkomstig de voorwaarden, bedoeld in bijlage III, punt 5, van verordening (EG) nr. 1266/2007 vindt plaats vanaf de locatie waar de dieren zijn gevaccineerd rechtstreeks naar een buiten Nederland gelegen locatie.   
-
-### Artikel  3.2.2  
-
-1.  Ten aanzien van export als bedoeld in artikel 3.2.1, eerste lid, aanhef en onderdeel a, wordt voldaan aan het bepaalde in artikel 3.2.3.   
-2.  Ten aanzien van export als bedoeld in artikel 3.2.1, eerste lid, aanhef en onderdeel b, wordt voldaan aan het bepaalde in artikel 3.2.4.   
-3.  Ten aanzien van export als bedoeld in artikel 3.2.1, tweede lid, wordt voldaan aan het bepaalde in artikel 3.2.3.   
-
-### Artikel  3.2.3  
-
-1.  Tegen bluetongue gevaccineerde herkauwers, die bestemd zijn voor export overeenkomstig de voorwaarden, bedoeld in bijlage III, punt 5, van verordening (EG) nr. 1266/2007, gaan vergezeld van een door de Minister verstrekt exportformulier.   
-2.  Het exportformulier, bedoeld in het eerste lid, is terstond na vaccinatie ondertekend door de houder en de dierenarts die de dieren heeft gevaccineerd en bevat in elk geval: 
-
-a. de locatie waar de dieren zijn gevaccineerd en  
-
-b. gegevens over de identificatie van de gevaccineerde herkauwers.     
-
-### Artikel  3.2.4  
-
-1.  Tegen bluetongue gevaccineerde runderen, die bestemd zijn voor export overeenkomstig de voorwaarden, bedoeld in bijlage III, punt 5, van verordening (EG) nr. 1266/2007, gaan vergezeld van een vaccinatieverklaring.   
+1.  Tegen bluetongue gevaccineerde runderen, die bestemd zijn voor export naar derde landen, gaan vergezeld van een vaccinatieverklaring.   
 2.  De GD geeft onverwijld op aanvraag aan de houder van runderen een vaccinatieverklaring af voor gevaccineerde runderen, die op een ter identificatie van zijn bedrijf toegekend UBN als bedoeld in [artikel 3, eerste lid, van de Regeling identificatie en registratie van dieren](../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), zijn geregistreerd.   
 
 ### §  3.3  
@@ -612,84 +483,4 @@ Den Haag
 
 De 
 Minister van Landbouw, Natuur en Voedselkwaliteit, 
-G.Verburg  
-
-### Bijlage  I  
-
-####Beperkingsgebied in verband met LPAI Zuidwolde
-
-1. De artikelen 2.1.3 tot en met 2.1.9 zijn op dit gebied van toepassing.  
-
-2. Het gebied is als volgt begrensd: 
-
-1. Vanaf de kruising van de Stapelerveldweg en Fort, Fort volgend in zuidoostelijke richting tot aan de Meeuwenweg.  
-
-2. Meeuwenweg volgend in zuidelijke richting tot aan het bospad van de Takkenhoogte.  
-
-3. Bospad van de Takkenhoogte volgend in westelijke richting tot aan Nieuwe Dijk.  
-
-4. Nieuwe Dijk volgend in noordelijke richting tot aan Pieperij.  
-
-5. Pieperij volgend in westelijke richting tot aan de provinciegrens tussen Overijssel en Drenthe (rivier de Reest).  
-
-6. Provinciegrens tussen Overijssel en Drenthe (rivier de Reest) volgend in noordwestelijke richting tot aan Lutten Oever.  
-
-7. Lutten Oever volgend in noordelijke richting tot aan Stapelerweg.  
-
-8. Stapelerweg volgend in noordelijke richting tot aan Stapelerveldweg.  
-
-9. Stapelerveldweg volgend in oostelijke richting tot aan Fort.     
-
-### Bijlage  II  
-
-####Beperkingsgebied in verband met LPAI Leudal (Kelpen Oler)
-
-1. De artikelen 2.1.3 tot en met 2.1.9 zijn op dit gebied van toepassing.  
-
-2. Het gebied is als volgt begrensd: 
-
-1. Vanaf N280 via Mildert in noordelijke / oostelijkerichting overgaand in Kolenhofweg tot aan Kelperweg.  
-
-2. Kelperweg volgen in noordelijke richting tot aan Deckersstraat.  
-
-3. Deckersstraat in oostelijke richting volgen tot aan Dorpsstraat.  
-
-4. Dorpstraat volgen in oostelijke richting overgaand Leveroyseweg tot aan Roorstraat.  
-
-5. Roorstraat in zuidelijke richting volgen tot aan Arenbos.  
-
-6. Arenbos in oostelijke richting overgaand in Belenbroeklaan volgend tot aan Kouk.  
-
-7. Kouk volgen in zuidwestelijke richting overgaand in op de Bos overgaand in Stationstraat.  
-
-8. Stationstraat volgen in zuidelijke richting overgaand in Dorpsstraat.  
-
-9. Dorpsstraat volgen tot aan rijksweg in noordelijke richting volgend tot aan Kasteelweg.  
-
-10. Kasteelweg volgend in xuidwestelijke richting overgaand in Baexemerweg.  
-
-11. Baexemerweg volgend in zuidwestelijke richting overgaand in Markt.  
-
-12. Markt volgen tot aan Brugstraat in zuidelijke richting volgen tot aan Napoleonseweg zuid.  
-
-13. Napoleonseweg zuid volgen in westelijke richting tot aan E25.  
-
-14. E25 volgen in noordelijke via Parellelweg richting tot aan Beekstraat.  
-
-15. Beekstraat volgen in westelijke richting tot aan Kallerstraat.  
-
-16. Kallerstraat volgen in noordelijke richting overgaand in Weverstraat.  
-
-17. Weversstraat overgaand in Hoogstraat volgen in noordelijke richting tot aan Niesstraat.  
-
-18. Niesstraat volgen in noordelijke richting tot aan Swartboekstraat .  
-
-19. Swartbroekstraat overgaand in ittervoortseweg ot aan Hunnestraatje.  
-
-20. Hunnestraatje volgend in noordoostelijke richting volgend tot aan Molenbrugweg.  
-
-21. Molenbrugweg volgen in Noordelijke richting tot aan N280 (Roermondseweg).  
-
-22. N280 volgen in oostelijke richting tot aan kanaalweg.  
-
-23. Kanaalweg volgen in noordelijke richting overgaand in Mildert.     
+G.Verburg   

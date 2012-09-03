@@ -15,11 +15,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Een leidinggevende voldoet aan de in dit besluit gestelde eisen ten aanzien van het zedelijk gedrag of daaraan gelijkwaardige eisen van een andere lidstaat van de Europese Unie of van de Europese Economische Ruimte.  
+Een leidinggevende voldoet aan de in dit besluit gestelde eisen ten aanzien van het zedelijk gedrag of daaraan gelijkwaardige eisen van een andere lidstaat van de Europese Unie of van de Europese Economische Ruimte. 
 
 ### Artikel  2  
 
-Een leidinggevende is niet met toepassing van [artikel 37 van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) in een psychiatrisch ziekenhuis geplaatst of met toepassing van [artikel 37a van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) ter beschikking gesteld.  
+Een leidinggevende is niet met toepassing van [artikel 37 van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) in een psychiatrisch ziekenhuis geplaatst of met toepassing van [artikel 37a van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) ter beschikking gesteld. 
 
 ### Artikel  3  
 
@@ -30,7 +30,7 @@ Een leidinggevende is niet met toepassing van [artikel 37 van het Wetboek van St
 
 a. bij de weigering van een vergunning teruggerekend vanaf de datum van beslissing op de aanvraag van de vergunning;  
 
-b. bij de intrekking van een vergunning teruggerekend vanaf de datum van de intrekking van deze vergunning.     
+b. bij de intrekking van een vergunning teruggerekend vanaf de datum van de intrekking van deze vergunning.    
 
 ### Artikel  4  
 
@@ -40,7 +40,7 @@ a. bepalingen gesteld bij of krachtens de [Drank- en Horecawet](../../../../../.
 
 b. bepalingen gesteld bij of krachtens de [Wet op de accijns](../../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en de [Algemene douanewet](../../../../../../../../../../wet/algemene/douanewet/BWBR0023746/README.md), voor zover het betreft alcoholhoudende dranken;  
 
-c. de [artikelen 137c tot en met 137g](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [140](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [240b](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [250ter](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [252](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [416](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [417](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [417bis](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [426](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [429quater](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [453 van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+c. de [artikelen 137c tot en met 137g](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [140](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [240b ](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [250ter ](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [252](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [416](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [417](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [417bis](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [426](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [429quater](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [453 van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
 
 d. de [artikelen 8](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [162, derde lid](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), alsmede [artikel 6](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) j° [artikel 8](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) of j° [artikel 163 van de Wegenverkeerswet 1994](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
 
@@ -51,34 +51,34 @@ f. de [artikelen 2](../../../../../../../../../../wet/wet/op/de/weerkorpsen/BWBR
 g. de [artikelen 54](../../../../../../../../../../wet/douanewet/BWBR0007632/README.md) en [55 van de Wet wapens en munitie](../../../../../../../../../../wet/douanewet/BWBR0007632/README.md).     
 2.  Met een veroordeling als bedoeld in het eerste lid, wordt gelijkgesteld betaling van een geldsom als bedoeld in [artikel 74, tweede lid, onder a, van het Wetboek van Strafrecht](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [artikel 76, derde lid, onder a, van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) ter zake van een overtreding als bedoeld in het eerste lid, tenzij de geldsom € 375 of minder bedraagt.   
 3.  Met een veroordeling tot een onvoorwaardelijke geldboete van € 500 of meer als bedoeld in het eerste lid wordt gelijkgesteld een bevel tot tenuitvoerlegging van een zodanige voorwaardelijke straf.   
-4.  Artikel 3, vierde lid, is van overeenkomstige toepassing.   
+4.  Artikel 3, vierde lid, is van overeenkomstige toepassing.  
 
 ### Artikel  5  
 
-1.  Een leidinggevende is binnen de laatste vijf jaar geen leidinggevende geweest van een inrichting waarvan de vergunning is ingetrokken op grond van [artikel 31, eerste lid, onder *d*, van de Drank- en Horecawet](../../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md) of die voor ten minste een maand is gesloten op grond van [artikel 13b van de Opiumwet](../../../../../../../../../../wet/opiumwet/BWBR0001941/README.md) of van [artikel 174 Gemeentewet](../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) of van een op grond van [artikel 149 van de Gemeentewet](../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) vastgestelde verordening, tenzij aannemelijk is dat hem ter zake geen verwijt treft.   
-2.  Artikel 3, vierde lid, is van overeenkomstige toepassing.   
+1.  Een leidinggevende is binnen de laatste vijf jaar geen leidinggevende geweest van een inrichting waarvan de vergunning is ingetrokken op grond van [artikel 31, eerste lid, onder c, van de Drank- en Horecawet](../../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md) of die voor ten minste een maand is gesloten op grond van [artikel 13b van de Opiumwet](../../../../../../../../../../wet/opiumwet/BWBR0001941/README.md) of van [artikel 174 Gemeentewet](../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) of van een op grond van [artikel 149 van de Gemeentewet](../../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) vastgestelde verordening, tenzij aannemelijk is dat hem ter zake geen verwijt treft.   
+2.  Artikel 3, vierde lid, is van overeenkomstige toepassing.  
 
 ### Artikel  6  
 
-In afwijking van artikel 3 en 4 gelden, gedurende 5 jaar na inwerkingtreding van dit besluit, ten aanzien van een leidinggevende die op de datum van inwerkingtreding van dit besluit vermeld staat op een vergunning als bedoeld in [artikel 3, eerste lid, van de Drank- en Horecawet](../../../../../../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md), voor wat betreft veroordelingen die voor die datum zijn uitgesproken, de artikelen 3 en 4 van het Besluit eisen zedelijk gedrag Drank- en Horecawet.  
+Voor de berekening van de laatste vijf jaar, bedoeld in artikel 3, 4 en 5, telt de periode waarin een onvoorwaardelijke vrijheidsstraf is ondergaan, niet mee. 
 
 ### Artikel  7  
 
-Het Besluit eisen zedelijk gedrag Drank- en Horecawet wordt ingetrokken.  
+Het Besluit eisen zedelijk gedrag Drank- en Horecawet wordt ingetrokken. 
 
 ### Artikel  8  
 
-Dit besluit wordt aangehaald als: Besluit eisen zedelijk gedrag Drank- en Horecawet 1999.  
+Dit besluit wordt aangehaald als: Besluit eisen zedelijk gedrag Drank- en Horecawet 1999. 
 
 ### Artikel  9  
 
-Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de eerste dag van de tweede kalendermaand na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
 's-Gravenhage 
 25 augustus 1999  
-Beatrix  
+Beatrix   
 
 De Minister van Volksgezondheid, Welzijn en Sport, 
 E. Borst-Eilers   
@@ -86,4 +86,4 @@ E. Borst-Eilers
 de *veertiende* september 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

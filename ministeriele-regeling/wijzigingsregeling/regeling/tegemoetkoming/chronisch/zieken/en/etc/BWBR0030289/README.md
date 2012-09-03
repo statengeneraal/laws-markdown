@@ -8,20 +8,20 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt het Besluit tegemoetkoming chronisch zieken en gehandicapten.   
+Wijzigt het Besluit tegemoetkoming chronisch zieken en gehandicapten. 
 
 ### Artikel  II  
 
-Wijzigt de Regeling tegemoetkoming chronisch zieken en gehandicapten.   
+Wijzigt de Regeling tegemoetkoming chronisch zieken en gehandicapten. 
 
 ### Artikel  III  
 
-Voor het beantwoorden van de vraag of onderdeel A van Artikel II ([artikel 1a van de Regeling tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../../ministeriele-regeling/regeling/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025132/README.md)) op een rechthebbende van toepassing is, geldt, zo nodig in afwijking van dat artikel, het jaar 2009 als eerste jaar waarover wordt nagegaan of de rechthebbende voor rekening van zijn zorgverzekeraar een in dat artikel aangewezen hulpmiddel heeft verkregen of heeft laten repareren.  
+Voor het beantwoorden van de vraag of onderdeel A van Artikel II ([artikel 1a van de Regeling tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../../ministeriele-regeling/regeling/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025132/README.md)) op een rechthebbende van toepassing is, geldt, zo nodig in afwijking van dat artikel, het jaar 2009 als eerste jaar waarover wordt nagegaan of de rechthebbende voor rekening van zijn zorgverzekeraar een in dat artikel aangewezen hulpmiddel heeft verkregen of heeft laten repareren. 
 
 ### Artikel  IV  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2010.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2010. 
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport,
-E.I.Schippers   
+Minister van Volksgezondheid, Welzijn en Sport, 
+E.I. Schippers     

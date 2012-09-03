@@ -15,23 +15,23 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit tegemoetkoming chronisch zieken en gehandicapten.   
+Wijzigt het Besluit tegemoetkoming chronisch zieken en gehandicapten. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit zorgverzekering.   
+Wijzigt het Besluit zorgverzekering. 
 
 ### Artikel  III  
 
 1.  Een rechthebbende wordt voor de tegemoetkoming, bedoeld in [artikel 2, eerste lid, van de Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md), over het tegemoetkomingsjaar 2009 voor wat betreft de geneeskundige zorg, bedoeld in [artikel 10 van de Zorgverzekeringswet](../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), die hij in een andere lidstaat van de Europese Unie heeft ontvangen, ingedeeld in de diagnose kostengroep met de chronische aandoening, die te identificeren is op grond van uitgevoerde diagnose behandeling combinaties die naar aard en strekking met die geneeskundige zorg overeenkomen.   
-2.  Voor de toepassing van dit artikel wordt met een lidstaat van de Europese Unie gelijkgesteld, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.   
+2.  Voor de toepassing van dit artikel wordt met een lidstaat van de Europese Unie gelijkgesteld, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte.  
 
 ### Artikel  IV  
 
 1.  Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.   
 2.  Artikel I werkt terug tot en met 1 januari 2010.   
 3.  Artikel II werkt terug tot en met 1 januari 2009.   
-4.  Artikel III werkt terug tot en met 1 januari 2009.   
+4.  Artikel III werkt terug tot en met 1 januari 2009.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -39,10 +39,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 15 augustus 2012  
 Beatrix  
 
-De Minister van Volksgezondheid, Welzijn en Sport, 
+De Minister van Volksgezondheid, Welzijn en Sport,  
 E. I. Schippers   
 
 de *dertigste* augustus 2012 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

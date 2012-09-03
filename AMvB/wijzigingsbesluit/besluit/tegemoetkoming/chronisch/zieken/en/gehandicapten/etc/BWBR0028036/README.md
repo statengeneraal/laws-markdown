@@ -15,16 +15,16 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit tegemoetkoming chronisch zieken en gehandicapten.   
+Wijzigt het Besluit tegemoetkoming chronisch zieken en gehandicapten. 
 
 ### Artikel  II  
 
-De ministeriële regeling, bedoeld in [artikel 2, eerste lid, onderdelen a, b en c, en tweede lid, onderdeel a, van het Besluit tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../../../AMvB/besluit/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025007/README.md), wordt voor de eerste maal vastgesteld in het tweede kwartaal van 2011.  
+De ministeriële regeling, bedoeld in [artikel 2, eerste lid, onderdelen a, b en c, en tweede lid, onderdeel a, van het Besluit tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../../../AMvB/besluit/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025007/README.md), wordt voor de eerste maal vastgesteld in het tweede kwartaal van 2011. 
 
 ### Artikel  III  
 
 1.  Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt terug tot en met 1 januari 2010.   
-2.  Artikel I, onderdeel D, treedt in werking op het tijdstip waarop het bij koninklijke boodschap van 10 december 2009 ingediende voorstel van wet houdende Aanpassing van de Wet investeren in jongeren en enkele andere wetten ter verduidelijking en verbetering van enige punten (Kamerstukken I, 2009/10, 32 260, A) tot wet is verheven en in werking treedt en werkt terug tot en met 1 januari 2010.   
+2.  Artikel I, onderdeel D, treedt in werking op het tijdstip waarop het bij koninklijke boodschap van 10 december 2009 ingediende voorstel van wet houdende Aanpassing van de Wet investeren in jongeren en enkele andere wetten ter verduidelijking en verbetering van enige punten (Kamerstukken I, 2009/10, 32 260, A) tot wet is verheven en in werking treedt en werkt terug tot en met 1 januari 2010.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -32,13 +32,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 4 augustus 2010  
 Beatrix  
 
-De Minister van Volksgezondheid, Welzijn en Sport, 
+De Minister van Volksgezondheid, Welzijn en Sport,  
 A. Klink   
 
-De Minister van Sociale Zaken en Werkgelegenheid, 
+De Minister van Sociale Zaken en Werkgelegenheid,  
 J. P. H. Donner   
 
 de *zeventiende* augustus 2010 
 
-De Minister van Justitie, 
+De Minister van Justitie,  
 E. M. H. Hirsch Ballin    
