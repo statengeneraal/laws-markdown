@@ -3,7 +3,7 @@
 ##Verordening registratie en verstrekking van gegevens (PPE) 2003
 
 Het Bestuur van het Productschap Pluimvee en Eieren heeft,  
-gelet op de artikelen 5 en 6 en 8 van de lnstellingsverordening Productschap Pluimvee en Eieren 1998-I en de [artikelen 93](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104 van de Wet op de Bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md):
+gelet op de artikelen 5 en 6 en 8 van de lnstellingsverordening Productschap Pluimvee en Eieren 1998-I en de artikelen 93 en 104 van de Wet op de Bedrijfsorganisatie:
 op 12 juni 2003 vastgesteld de navolgende VERORDENING     
 ### Titel  I  
 
@@ -20,7 +20,7 @@ Voor de toepassing van het bij of krachtens deze verordening bepaalde wordt vers
 | c.  | bestuur  | :  | het bestuur van het productschap;  |
 | d.  | onderneming  | :  | een onderneming waarin;    1°  pluimvee-, edelpelsdieren- of konijnenhouderij wordt uitgeoefend;     2°  pluimvee, wild en tamme konijnen of daaruit verkregen producten worden be- of verwerkt tot producten welke, al dan niet na verdere be- of verwerking, tot menselijk voedsel kunnen dienen;     3°  eieren of daaruit verkregen producten worden be- en verwerkt tot producten welke, al dan niet na verdere be- en verwerking, tot menselijk voedsel kunnen dienen dan wel kunnen dienen als grondstof voor producten welke niet bestemd zijn tot menselijk voedsel;     4°  de handel wordt uitgeoefend in    a. pluimvee, eieren, wild of tamme konijnen of in daaruit verkregen producten welke, al dan niet na verdere be- of verwerking, tot menselijk voedsel kunnen dienen;     b. broedeieren en eendagskuikens;     c. bont;     d. technische eiproducten.          |
 | e.  | ondernemer  | :  | een natuurlijke of rechtspersoon, die een onderneming drijft;  |
-| f.  | Nederlandse grootte eenheid  | :  | een eenheid berekend op basis van het bruto standaard saldi zoals deze bij de laatste Staatscourant gepubliceerde Regeling Landbouwtelling ingevolge de [artikelen 24](../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) en [25 van de Landbouwwet](../../../../../../../../../../wet/landbouwwet/BWBR0002252/README.md) wordt toegepast;  |
+| f.  | Nederlandse grootte eenheid  | :  | een eenheid berekend op basis van het bruto standaard saldi zoals deze bij de laatste Staatscourant gepubliceerde Regeling Landbouwtelling ingevolge de artikelen 24 en 25 van de Landbouwwet wordt toegepast;  |
 | g.  | groothandel in eieren en eiproducten en eiproducten industrie  | :  | onderneming waarin eieren of daaruit verkregen producten worden be- en verwerkt tot producten welke al dan niet na verdere be- en verwerking, tot menselijk voedsel kunnen dienen of een onderneming waarin de handel wordt uitgeoefend in eieren of in daaruit verkregen producten, die al dan niet na verdere be- en verwerking tot menselijk voedsel kunnen dienen;  |
 | h.  | eieren  | :  | eieren van kippen, onderscheidenlijk eenden, onderscheidenlijk ganzen, onderscheidenlijk parelhoenders, onderscheidenlijk kalkoenen;  |
 | i.  | eiproducten  | :  | de ondernemer, die ongesorteerde eieren ophaalt bij of koopt van een pluimveehouder of van een verzamelaar, teneide deze eieren, gesorteerd naar kwaliteit en gewicht, te leveren aan anderen dan consumenten;  |
@@ -38,7 +38,7 @@ Voor de toepassing van het bij of krachtens deze verordening bepaalde wordt vers
 ### Artikel  2  
 
 1.  De ondernemer is verplicht zich bij vestiging van de onderneming binnen 4 weken ter registratie bij het productschap aan te melden aan de hand van een door het productschap verstrekt registratieformulier. Het registratieformulier wordt op aanvraag door het productschap verstrekt.   
-2.  Indien het een ondernemer betreft die een onderneming drijft, waarin de pluimvee-, edelpelsdieren - of konijnenhouderij wordt uitgeoefend, geldt de registratieplicht, als bedoeld in het vorige lid, indien de bedrijfsomvang ten minste gelijk is aan, ofwel is gaan voldoen aan de norm van drie Nederlandse grootte eenheden.   
+2.  Indien het een ondernemer betreft die een onderneming drijft, waarin de pluimvee-, edelpelsdieren - of konijnenhouderij wordt uitgeoefend, geldt de registratieplicht, als bedoeld in het vorige lid, indien de ondernemer respectievelijk 250 of meer stuks pluimvee, 30 of meer nertsen of 30 of meer voedsters, houdt.   
 
 ### Artikel  3  
 
@@ -64,6 +64,7 @@ b. De categorieën, waarin de onderneming als bedoeld in lid 2, sub a, wordt ing
 
 5°. (technische) eiproductenhandelaar;       
 3.  De ondernemer dient het in artikel 2, lid 1, bedoelde registratieformulier volledig en naar waarheid ingevuld en ondertekend bij het productschap in te dienen.   
+4.  Het bestuur kan bij besluit nadere regels vaststellen omtrent de wijze van registreren door de ondernemer als bedoeld in artikel 2, lid 1, en artikel 3, lid 1 alsmede omtrent de wijze van melden van wijzigingen van gegevens als bedoeld in artikel 4. Het besluit wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.   
 
 ### Artikel  4  
 
@@ -129,7 +130,7 @@ De in deze verordening gestelde regels, waarbij aan ondernemers verplichtingen w
 
 ### Artikel  10  
 
-1.  Het toezicht op de naleving van de bij of krachtens deze verordening gestelde voorschriften wordt namens het productschap uitgeoefend door een door het bestuur aangewezen personen.   
+1.  Het toezicht op de naleving van de bij of krachtens deze verordening gestelde voorschriften wordt namens het productschap uitgeoefend door personen en instanties die hiervoor door het bestuur bij besluit zijn aangewezen.   
 2.  Ondernemers zijn verplicht: 
 
 a. aan de door het bestuur aangewezen dienst of aan de door het bestuur aangewezen personen al die gegevens te verstrekken of te doen verstrekken, die naar diens/hun oordeel nodig is/zijn voor de vervulling van diens/hun taak;  
@@ -140,10 +141,11 @@ c. aan de door het bestuur aangewezen dienst of aan de door het bestuur aangewez
 
 d. te gedogen dat controleurs van de door het bestuur aangewezen dienst of de door het bestuur aangewezen personen monsters nemen uit de voorraden (waaronder begrepen verpakkingsmateriaal) van het bedrijf van de ondernemer, ongeacht de plaats waar of waarin zich die voorraden bevinden en de ondernemer zal alsdan de van hem gevorderde medewerking verlenen overeenkomstig de aanwijzingen van die controleurs of aangewezen personen.     
 3.  De in het eerste lid bedoelde personen zijn bevoegd berichtingsrapporten ten behoeve van tuchtrechtelijke afhandeling op te maken.   
+4.  Het besluit als bedoeld in het eerste lid wordt gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.   
 
 ### Artikel  11  
 
-1.  De door het productschap uit hoofde van deze verordening verkregen gegevens omtrent ondernemingen worden in handen gesteld van de voorzitter van het productschap; zij worden, behoudens aan personeelsleden van het secretariaat van het productschap, alsmede ten behoeve van de handhaving van het bepaalde in deze verordening, met verder bekendgemaakt.   
+1.  Uit hoofde van deze verordening verkregen en geregistreerde gegevens worden door het productschap slechts aan derden verstrekt voor zover zulks in overeenstemming is met de artikelen 8 en 9 van de Wet bescherming persoonsgegevens.   
 2.  De door de voorzitter aangewezen dienst of personen dien(t)(en), ter bescherming van de privacy van de ondernemer, vertrouwelijk en op verantwoorde wijze om te gaan met de uit hoofde van het toezicht verkregen gegevens.   
 
 ### Titel  VI  
@@ -152,7 +154,7 @@ d. te gedogen dat controleurs van de door het bestuur aangewezen dienst of de do
 
 ### Artikel  12  
 
-Op overtreding van het bij de artikelen 2, 3, derde lid, 4, 6, 7, derde lid, en 10, tweede lid, bepaalde worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md).  
+Op overtreding van het bij de artikelen 2, 3, derde lid, 4, 6, 7, derde lid, en 10, tweede lid, bepaalde worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de Wet tuchtrechtspraak bedrijfsorganisatie 2004.  
 
 ### Titel  VII  
 
@@ -169,9 +171,9 @@ Verordening omtrent het verstrekken van gegevens pluimveehandel en -industrie
 Registratieverordening groothandel in eieren en eiproducten en eiproductenindustrie 1999 Verordening omtrent het verstrekken van gegevens voor de Groothandel in Eieren en Eiproducten en de Eiproductenindustrie     
 2.  
 
-a. De [artikelen 2 t/m 6 van de Verordening registratie pluimveeslachterijen en heffingen pluimveevlees 2003](../../../../../../../../../../pbo/verordening/registratie/pluimveeslachterijen/en/heffingen/pluimveevlees/etc/BWBR0014270/README.md) komen te vervallen.  
+a. De artikelen 2 t/m 6 van de Verordening registratie pluimveeslachterijen en heffingen pluimveevlees 2003 komen te vervallen.  
 
-b. De [artikel 2 t/m 6 van de Verordening registratie verzamelaars, grossiers en houders van een pakstation en heffingen consumptie-eieren 2003](../../../../../../../../../../pbo/verordening/registratie/verzamelaars/grossiers/en/houders/pakstation/en/etc/BWBR0014278/README.md) komen te vervallen.     
+b. De artikel 2 t/m 6 van de Verordening registratie verzamelaars, grossiers en houders van een pakstation en heffingen consumptie-eieren 2003 komen te vervallen.     
 
 ### Artikel  14  
 
