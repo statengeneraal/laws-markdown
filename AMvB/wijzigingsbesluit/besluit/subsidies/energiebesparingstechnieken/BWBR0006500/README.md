@@ -15,16 +15,16 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
 
 1.  Met betrekking tot subsidies die vóór 1 januari 1994 zijn toegezegd, is het Besluit subsidies energiebesparingstechnieken van toepassing zoals het luidde vóór de inwerkingtreding van dit besluit.   
-2.  De in artikel 7, eerste lid, bedoelde rangschikking wordt in het jaar 1994, voor zover het gaat om aanvragen met betrekking tot voorzieningen, aangewezen in categorie 1.1, toegepast op aanvragen die worden ontvangen in de maanden januari tot en met april, en, voor zover het gaat om aanvragen met betrekking tot voorzieningen, aangwezen in categorie 1.2, toegepast op aanvragen die worden ontvangen in de maanden januari tot en met juni.   
+2.   De in artikel 7, eerste lid, bedoelde rangschikking wordt in het jaar 1994, voor zover het gaat om aanvragen met betrekking tot voorzieningen, aangewezen in categorie 1.1, toegepast op aanvragen die worden ontvangen in de maanden januari tot en met april, en, voor zover het gaat om aanvragen met betrekking tot voorzieningen, aangwezen in categorie 1.2, toegepast op aanvragen die worden ontvangen in de maanden januari tot en met juni.  
 
 ### Artikel  III  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 
