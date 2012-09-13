@@ -2,7 +2,7 @@
 
 ##Vaststelling van Aanwijzingen inzake externe contacten van rijksambtenaren alsmede intrekking van de Aanwijzingen inzake contacten tussen Kamercommissies en ambtenaren en tussen Kamercommissies en regeringsadviescolleges en intrekking van de Aanwijzing inzake ambtelijk optreden (extern)
 
-De Minister-President, Minister van Algemene Zaken,  
+De Minister-President, Minister van Algemene Zaken,   
 handelende in overeenstemming met het gevoelen van de ministerraad;
 Besluit:    
 
@@ -20,7 +20,7 @@ De Aanwijzing inzake ambtelijk optreden (extern) wordt ingetrokken.
 
 ### Artikel  IV  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -30,7 +30,7 @@ De
 Minister-President, 
 
 Minister van Algemene Zaken, 
-W.Kok   
+W. Kok     
 
 ####Aanwijzingen inzake externe contacten van rijksambtenaren
 
@@ -49,16 +49,16 @@ Deze aanwijzingen zijn in verband met het beperkte gezagsbereik van de ministers
 
 In deze aanwijzingen wordt verstaan onder: 
 
-a. *de Staten-Generaal*: de beide kamers der Staten-Generaal of commissies uit die kamers;  
+a. *de Staten-Generaal*: de beide kamers der Staten-Generaal of commissies uit die kamers; 
 
-b. *kamerlid*: lid van een van beide kamers der Staten-Generaal;  
+b.*kamerlid*: lid van een van beide kamers der Staten-Generaal;
 
-c. *de minister*: de minister wie het aangaat en in voorkomende gevallen de staatssecretaris wie het aangaat;  
+c. *de minister*: de minister wie het aangaat en in voorkomende gevallen de staatssecretaris wie het aangaat;
 
-d. *ambtenaren*: personen die werkzaam zijn onder het gezagsbereik van een minister.   
+d. *ambtenaren*: personen die werkzaam zijn onder het gezagsbereik van een minister. 
 ###Toelichting:
 
-Onderdeel d: Aan het begrip ’ambtenaren’ wordt in deze aanwijzingen een ruime betekenis toegekend. Het gaat hierbij om alle personen die vallen onder het gezagsbereik van een minister. Daarbij gaat het niet alleen om ambtenaren die werkzaam zijn voor de ministers en de staatssecretarissen of voor een van de onder hen ressorterende ambten, instellingen of diensten. Onder het gezagsbereik van een minister of staatssecretaris vallen bij voorbeeld ook militaire ambtenaren, de als regeringscommissarissen aangestelde personen, medewerkers van de planbureau’s, medewerkers van de belastingdienst en leden van het openbaar ministerie. Deze aanwijzingen gelden voorts ook voor de interim-manager of de ’ingehuurde’ externe adviseur die ingevolge een privaatrechtelijke overeenkomst (detacheringsovereenkomst, overeenkomst inzake uitzendarbeid e.d.) in ondergeschiktheid voor een minister werkzaam is - als ware hij een in de desbetreffende functie benoemde ambtenaar. In voorkomende gevallen kan het zinvol zijn om expliciet in de desbetreffende overeenkomst zijn gebondenheid aan deze aanwijzingen op te nemen.  
+Onderdeel d: Aan het begrip ’ambtenaren’ wordt in deze aanwijzingen een ruime betekenis toegekend. Het gaat hierbij om alle personen die vallen onder het gezagsbereik van een minister. Daarbij gaat het niet alleen om ambtenaren die werkzaam zijn voor de ministers en de staatssecretarissen of voor een van de onder hen ressorterende ambten, instellingen of diensten. Onder het gezagsbereik van een minister of staatssecretaris vallen bij voorbeeld ook militaire ambtenaren, de als regeringscommissarissen aangestelde personen, medewerkers van de planbureau’s, medewerkers van de belastingdienst en leden van het openbaar ministerie. Deze aanwijzingen gelden voorts ook voor de interim-manager of de ’ingehuurde’ externe adviseur die ingevolge een privaatrechtelijke overeenkomst (detacheringsovereenkomst, overeenkomst inzake uitzendarbeid e.d.) in ondergeschiktheid voor een minister werkzaam is - als ware hij een in de desbetreffende functie benoemde ambtenaar. In voorkomende gevallen kan het zinvol zijn om expliciet in de desbetreffende overeenkomst zijn gebondenheid aan deze aanwijzingen op te nemen. 
 
 ### §  2  
 
@@ -68,7 +68,7 @@ Onderdeel d: Aan het begrip ’ambtenaren’ wordt in deze aanwijzingen een ruim
 
 1.  Op alle verzoeken vanwege een van beide kamers der Staten-Generaal om schriftelijke of mondelinge contacten met ambtenaren beslist de minister onder wie zij ressorteren van geval tot geval.   
 2.  De minister kan het gevraagde contact met ambtenaren weigeren.   
-3.  Indien de minister op het verzoek ingaat, wijst hij de ambtenaren aan met wie contact wordt gelegd.  
+3.   Indien de minister op het verzoek ingaat, wijst hij de ambtenaren aan met wie contact wordt gelegd.  
 ###Toelichting:
 
 In het algemeen vinden geen rechtstreekse contacten plaats tussen de beide kamers der Staten-Generaal en ambtenaren. De minister is degene die in het Nederlandse staatsbestel aan de Staten-Generaal inlichtingen verstrekt en verantwoording aflegt over het gevoerde beleid (vgl. de [artikelen 42, tweede lid](../../../../../../wet/grondwet/BWBR0001840/README.md), en [68 van de Grondwet](../../../../../../wet/grondwet/BWBR0001840/README.md)). Deze aanwijzing sluit niet uit dat een minister kan beslissen dat aan een verzoek om schriftelijke of mondelinge contacten namens hem direct door een door hem aan te wijzen ambtenaar zal worden voldaan. Ten aanzien van het optreden van een ambtenaar geldt in eventuele contacten met de Staten-Generaal, dat waar deze plaatsvinden in het kader van de functievervulling door de ambtenaar, de betrokkene handelt onder volledige ministeriële verantwoordelijkheid: de verantwoordelijkheid voor deze contacten berust bij de minister onder wie de ambtenaren ressorteren. Dat brengt mee dat de ambtenaar de toestemming van de betrokken bewindspersoon behoeft voor contacten met leden van de Staten-Generaal in het kader van zijn functievervulling. [Artikel 42 van het Reglement van Orde van de Tweede Kamer](../../../../../../reglement/regeling/van/22/juni/1993/BWBR0006023/README.md) sluit daarbij aan voor het geval een kamercommissie ambtenaren wil horen. Deze aanwijzing ziet op alle ’vanwege’ de kamers gedane verzoeken: dus op een verzoek van de voorzitter van een van beide kamers of van een voorzitter of griffier van een kamercommissie, namens die commissie.  
@@ -164,17 +164,17 @@ De normen, neergelegd in [artikel 125a, eerste lid, Ambtenarenwet](../../../../.
 
 Factoren die een rol kunnen spelen bij de beoordeling door het bevoegd gezag of de normen, neergelegd in [artikel 125a, eerste lid, Ambtenarenwet](../../../../../../wet/ambtenarenwet/BWBR0001947/README.md) en [artikel 12a, eerste lid, Militaire Ambtenarenwet](../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md), zijn overschreden, zijn: 
 
-a) de afstand tussen de functie van de betrokken ambtenaar en het beleidsterrein waarover de uitlatingen zijn gedaan;  
+a)  de afstand tussen de functie van de betrokken ambtenaar en het beleidsterrein waarover de uitlatingen zijn gedaan;  
 
-b) de politieke gevoeligheid van de materie;  
+b)  de politieke gevoeligheid van de materie;  
 
-c) het tijdstip waarop de uitspraken worden gedaan;  
+c)   het tijdstip waarop de uitspraken worden gedaan;  
 
-d) de wijze waarop de uitspraken zijn gedaan;  
+d)   de wijze waarop de uitspraken zijn gedaan;  
 
-e) de voorzienbaarheid van de schadelijkheid ten tijde van de uitspraken;  
+e)  de voorzienbaarheid van de schadelijkheid ten tijde van de uitspraken;  
 
-f) de ernst en de duur van de door de uitspraken ontstane problemen voor de dienstvervulling van de betrokken ambtenaar of het functioneren van de openbare dienst, voor zover deze in verband staat met diens dienstvervulling.   
+f)   de ernst en de duur van de door de uitspraken ontstane problemen voor de dienstvervulling van de betrokken ambtenaar of het functioneren van de openbare dienst, voor zover deze in verband staat met diens dienstvervulling.   
 ###Toelichting:
 
 Of de normen van [125a, eerste lid, Ambtenarenwet](../../../../../../wet/ambtenarenwet/BWBR0001947/README.md) en [artikel 12a, eerste lid, Militaire Ambtenarenwet](../../../../../../wet/militaire/ambtenarenwet/1931/BWBR0001952/README.md) zijn overschreden, dient te worden beoordeeld aan de hand van verschillende factoren, die in samenhang met elkaar tot die conclusie kunnen leiden. De onder a tot en met f genoemde factoren kunnen bij die beoordeling als leidraad worden gehanteerd. Voor wat betreft de onder a) genoemde factor geldt dat hoe verder het beleidsterrein van de ambtenaar verwijderd ligt van het beleidsterrein waarover hij zich heeft uitgelaten, hoe minder snel kan worden aangenomen dat voornoemde normen zijn overschreden. Indien de ambtenaar onder de verantwoordelijkheid van de minister valt en diens beleid aanvalt, maar met het desbetreffende beleidsterrein in zijn hoedanigheid van ambtenaar geen enkele bemoeienis heeft, geldt voor wat zijn recht op vrijheid van meningsuiting betreft geen andere beperking dan die voor iedere andere burger geldt. Naarmate het terrein van de betrokken ambtenaar dichter bij het terrein ligt, waarover hij zich uitlaat, kan de maatschappelijke impact van die uitspraken groter zijn en zal hij daarmee zijn eigen functioneren of de goede functionering van de openbare dienst kunnen schaden. De factor, genoemd onder d, betreft onder andere de bewoordingen waarin de uiting is gedaan, het middel waarmee de uitlating is gedaan, of in hoeverre de betrokken ambtenaar duidelijk heeft gemaakt in welke hoedanigheid hij de uitingen heeft gedaan (zie ook de toelichting bij aanwijzing 13). De onder f) genoemde factor brengt met zich dat niet elke belemmering of elke complicatie met betrekking tot de goede functionering leidt tot overtreding van de norm. De belemmering of complicatie van de goede functionering moet naar objectieve maatstaven gemeten een zekere ernst en bestendigheid hebben: de problemen met betrekking tot de functievervulling en de functionering van de openbare dienst moeten uit de gedragingen van de betrokkene zelf voortvloeien; zij mogen niet primair te wijten zijn aan eventuele subjectieve negatieve reacties van derden.  

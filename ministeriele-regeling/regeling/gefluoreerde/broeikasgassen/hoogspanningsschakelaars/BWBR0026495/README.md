@@ -15,15 +15,15 @@ In deze regeling wordt verstaan onder:
 
 *deelnemer:* deelnemer aan het examen, bedoeld in artikel 3, eerste lid;  
 
-*EG-verordening hoogspanningsschakelaars:*verordening (EG) nr. 305/2008 van de Europese Commissie van 2 april 2008 tot vaststelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad, van minimumeisen en de voorwaarden voor wederzijdse erkenning van de certificering van personeel voor de terugwinning van bepaalde gefluoreerde broeikasgassen uit hoogspanningsschakelaars (PbEU L 92);  
+*EG-verordening hoogspanningsschakelaars:* verordening (EG) nr. 305/2008 van de Europese Commissie van 2 april 2008 tot vaststelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad, van minimumeisen en de voorwaarden voor wederzijdse erkenning van de certificering van personeel voor de terugwinning van bepaalde gefluoreerde broeikasgassen uit hoogspanningsschakelaars (PbEU L 92);  
 
 *examen:* examen als bedoeld in artikel 3, eerste lid;  
 
 *exameninstelling:* door de minister aangewezen instelling als bedoeld in artikel 3, tweede lid;  
 
-*minister:* Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;  
+*minister:* Minister van Infrastructuur en Milieu;  
 
-*terugwinnen:* verzamelen en opslaan van gefluoreerde broeikasgassen tijdens onderhoud of voorafgaand aan de verwijdering van hoogspanningsschakelaars.    
+*terugwinnen:* verzamelen en opslaan van gefluoreerde broeikasgassen tijdens onderhoud of voorafgaand aan de verwijdering van hoogspanningsschakelaars.   
 
 ### Hoofdstuk  2  
 
@@ -36,7 +36,7 @@ In deze regeling wordt verstaan onder:
 ### Artikel  2  
 
 1.  Personen die belast zijn met het terugwinnen van gefluoreerde broeikasgassen uit hoogspanningsschakelaars beschikken over een bij deze werkzaamheid behorend diploma.   
-2.  Voor personen die voldoen aan artikel 3, tweede lid, van de EG-verordening hoogspanningsschakelaars is het eerste lid voor een periode van maximaal een jaar niet van toepassing, te rekenen vanaf de aanvangsdatum van de opleiding.   
+2.  Voor personen die voldoen aan artikel 3, tweede lid, van de EG-verordening hoogspanningsschakelaars is het eerste lid voor een periode van maximaal een jaar niet van toepassing, te rekenen vanaf de aanvangsdatum van de opleiding.  
 
 ### Paragraaf  2.2  
 
@@ -49,30 +49,30 @@ In deze regeling wordt verstaan onder:
 3.  Een persoon meldt zich voor het afleggen van het examen vooraf aan bij de exameninstelling.   
 4.  Tijdens het examen wordt getoetst of een deelnemer voldoet aan de exameneisen, die zijn neergelegd in de bijlage bij de EG-verordening hoogspanningsschakelaars.   
 5.  Onverminderd de artikelen 8, vijfde lid, onder c, en 16 is de geldigheidsduur van het diploma onbeperkt.   
-6.  Onder het examen wordt in deze regeling mede verstaan het herexamen, tenzij nadrukkelijk anders is bepaald.   
+6.  Onder het examen wordt in deze regeling mede verstaan het herexamen, tenzij nadrukkelijk anders is bepaald.  
 
 ### Artikel  4  
 
 1.  De minister stelt de inhoud van het examen vast waarmee getoetst wordt of een deelnemer voldoet aan de exameneisen, bedoeld in artikel 3, vierde lid. Voorafgaande aan de vaststelling adviseert de exameninstelling de minister over de inhoud van het examen.   
-2.  Het examen bestaat uit een theorie- en een praktijkgedeelte.   
+2.  Het examen bestaat uit een theorie- en een praktijkgedeelte.  
 
 ### Artikel  5  
 
-De minister stelt de uitslag van het examen met inachtneming van het advies van de exameninstelling inzake de resultaten van het door een deelnemer afgelegde examen vast en draagt er zorg voor dat de uitslag binnen drie weken na ontvangst van dat advies aan een deelnemer wordt verzonden.  
+De minister stelt de uitslag van het examen met inachtneming van het advies van de exameninstelling inzake de resultaten van het door een deelnemer afgelegde examen vast en draagt er zorg voor dat de uitslag binnen drie weken na ontvangst van dat advies aan een deelnemer wordt verzonden. 
 
 ### Artikel  6  
 
 1.  Indien een deelnemer een of meer onderdelen van het examen niet met goed gevolg heeft afgelegd, wordt hij in de gelegenheid gesteld een herexamen te doen voor het betreffende onderdeel of de betreffende onderdelen.   
 2.  Het herexamen vindt plaats binnen zes maanden nadat een deelnemer van de resultaten van het examen op de hoogte is gesteld.   
-3.  Indien een deelnemer een of meer onderdelen van het herexamen niet met goed gevolg heeft afgelegd, is hij niet gerechtigd opnieuw herexamen te doen.   
+3.  Indien een deelnemer een of meer onderdelen van het herexamen niet met goed gevolg heeft afgelegd, is hij niet gerechtigd opnieuw herexamen te doen.  
 
 ### Artikel  7  
 
 1.  Een deelnemer is voor het afleggen van het examen voorafgaand een vergoeding verschuldigd aan de exameninstelling.   
 2.  Indien de verschuldigde vergoeding niet voor de dag waarop het examen zal worden afgenomen is ontvangen wordt de deelnemer uitgesloten van deelname aan het examen.   
 3.  De exameninstelling doet de minister jaarlijks een voorstel voor de hoogte van de verschuldigde vergoeding voor het afleggen van het examen voor het volgende kalenderjaar. De minister stelt de hoogte van de vergoeding vast.   
-4.  De hoogte van de vergoeding, bedoeld in het eerste lid, bedraagt voor een examen dat wordt afgelegd € 324,– inclusief BTW. Voor een herexamen is geen vergoeding verschuldigd.   
-5.  De hoogte van de vergoeding, bedoeld in het eerste lid, is niet hoger dan de noodzakelijke kosten van de exameninstelling voor het afnemen van het examen.   
+4.  De hoogte van de vergoeding, bedoeld in het eerste lid, bedraagt voor een examen dat wordt afgelegd € 272,– exclusief BTW. Voor een herexamen is geen vergoeding verschuldigd.  
+5.  De hoogte van de vergoeding, bedoeld in het eerste lid, is niet hoger dan de noodzakelijke kosten van de exameninstelling voor het afnemen van het examen.  
 
 ### Artikel  8  
 
@@ -104,7 +104,7 @@ a. dat een deelnemer voor een periode van ten hoogste zes maanden wordt uitgeslo
 
 b. tot ongeldigverklaring van het examen;  
 
-c. tot intrekking van een reeds verleend diploma als bedoeld in artikel 2, eerste lid.     
+c. tot intrekking van een reeds verleend diploma als bedoeld in artikel 2, eerste lid.    
 
 ### Paragraaf  2.3  
 
@@ -146,7 +146,7 @@ b. de procedures voor interne controles en evaluaties van de uitvoering van deze
 4.  Het examenreglement, het huishoudelijk reglement, en wijzigingen hiervan behoeven de goedkeuring van de minister.   
 5.  De exameninstelling voldoet aan artikel 6, eerste lid, tweede alinea, van de EG-verordening hoogspanningsschakelaars en neemt bij de uitvoering van de werkzaamheden het examenreglement en het huishoudelijk reglement in acht.   
 6.  De exameninstelling neemt afdoende maatregelen om fraude voor, tijdens en na het examen te voorkomen.   
-7.  Indien de exameninstelling niet meer voldoet aan een of meer van haar verplichtingen, bericht zij dit onverwijld schriftelijk aan de minister.   
+7.  Indien de exameninstelling niet meer voldoet aan een of meer van haar verplichtingen, bericht zij dit onverwijld schriftelijk aan de minister.  
 
 ### Artikel  10  
 
@@ -156,13 +156,13 @@ a. ten minste dertien weken na de dag van het examen;
 
 b. ten minste dertien weken na de dag waarop de beslissing op het bezwaarschrift bekend is gemaakt, indien tegen de uitslag van het examen bezwaar is gemaakt, of  
 
-c. ten minste dertien weken na de dag waarop het beroep onherroepelijk is, indien tegen een beslissing op bezwaar beroep is ingesteld.    
+c. ten minste dertien weken na de dag waarop het beroep onherroepelijk is, indien tegen een beslissing op bezwaar beroep is ingesteld.   
 
 ### Artikel  11  
 
 1.  De exameninstelling verstrekt desgevraagd aan de minister alle voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van alle zakelijke gegevens en bescheiden, indien dat voor de vervulling van zijn taak redelijkerwijs nodig is.   
 2.  De exameninstelling zendt elk jaar een jaarverslag aan de minister waarin verantwoording wordt afgelegd over de wijze waarop zij in het voorafgaande kalenderjaar uitvoering heeft gegeven aan haar taken en verplichtingen voortvloeiend uit deze regeling.   
-3.  Het jaarverslag wordt opgesteld met inachtneming van de richtsnoeren, bedoeld in de bijlage bij deze regeling.   
+3.  Het jaarverslag wordt opgesteld met inachtneming van de richtsnoeren, bedoeld in de bijlage bij deze regeling.  
 
 ### Paragraaf  2.4  
 
@@ -172,7 +172,7 @@ c. ten minste dertien weken na de dag waarop het beroep onherroepelijk is, indie
 
 1.  De minister kan de aanwijzing van de exameninstelling schorsen, indien de instelling naar het oordeel van de minister een of meer van de taken of verplichtingen, bedoeld in de artikelen 9 tot en met 11, niet of onvoldoende uitvoert respectievelijk nakomt.   
 2.  In geval van schorsing geeft de minister de exameninstelling gedurende een door hem te bepalen periode de gelegenheid de tekortkoming ongedaan te maken.   
-3.  Indien de tekortkoming door de exameninstelling binnen de door de minister gestelde termijn naar het oordeel van de minister ongedaan is gemaakt, wordt de schorsing van de aanwijzing opgeheven.   
+3.  Indien de tekortkoming door de exameninstelling binnen de door de minister gestelde termijn naar het oordeel van de minister ongedaan is gemaakt, wordt de schorsing van de aanwijzing opgeheven.  
 
 ### Artikel  13  
 
@@ -186,7 +186,7 @@ c. de instelling niet meewerkt aan een controle door de minister in het kader va
 
 d. de aanwijzing ingevolge artikel 12, eerste lid, is geschorst en de tekortkoming binnen de door de minister gestelde termijn niet ongedaan is gemaakt, of  
 
-e. de exameninstelling surseance van betaling is verleend of in staat van faillissement verkeert.    
+e. de exameninstelling surseance van betaling is verleend of in staat van faillissement verkeert.   
 
 ### Paragraaf  2.5  
 
@@ -195,24 +195,19 @@ e. de exameninstelling surseance van betaling is verleend of in staat van failli
 ### Artikel  14  
 
 1.  De minister verstrekt het diploma aan een deelnemer die met gunstig gevolg het examen, bedoeld in artikel 3, eerste lid, heeft afgelegd.   
-2.  De minister registreert aan wie een diploma als bedoeld in artikel 2, eerste lid, is uitgereikt. Deze gegevens worden bewaard totdat de betrokkene de pensioengerechtigde leeftijd heeft bereikt doch ten minste vijf jaar.   
+2.  De minister registreert aan wie een diploma als bedoeld in artikel 2, eerste lid, is uitgereikt. Deze gegevens worden bewaard totdat de betrokkene de pensioengerechtigde leeftijd heeft bereikt doch ten minste vijf jaar.  
 
 ### Artikel  15  
 
-Het diploma vermeldt ten minste de gegevens, bedoeld in artikel 4, tweede lid, van de EG-verordening hoogspanningsschakelaars.  
+Het diploma vermeldt ten minste de gegevens, bedoeld in artikel 4, tweede lid, van de EG-verordening hoogspanningsschakelaars. 
 
 ### Artikel  16  
 
-Indien de houder van een diploma bij voortduring in strijdt handelt met deze regeling of [artikel 3 van het Besluit gefluoreerde broeikasgassen milieubeheer](../../../../../../AMvB/besluit/gefluoreerde/broeikasgassen/wms/2007/BWBR0022857/README.md) kan de minister tot intrekking van het diploma besluiten. In dat geval levert de betrokkene zijn diploma in bij de minister.  
+Indien de houder van een diploma bij voortduring in strijdt handelt met deze regeling of [artikel 3 van het Besluit gefluoreerde broeikasgassen milieubeheer](../../../../../../AMvB/besluit/gefluoreerde/broeikasgassen/wms/2007/BWBR0022857/README.md) kan de minister tot intrekking van het diploma besluiten. In dat geval levert de betrokkene zijn diploma in bij de minister. 
 
 ### Paragraaf  2.6  
 
 ####Vergoeding aan de minister
-
-### Artikel  17  
-
-1.  Een deelnemer is aan de minister een vergoeding verschuldigd voor het ontvangen van de de uitslag van het examen.   
-2.  De hoogte van de vergoeding, bedoeld in het eerste lid, bedraagt: € 20,–.   
 
 ### Hoofdstuk  3  
 
@@ -220,7 +215,7 @@ Indien de houder van een diploma bij voortduring in strijdt handelt met deze reg
 
 ### Artikel  18  
 
-Een diploma voor het terugwinnen van gefluoreerde broeikasgassen bij hoogspanningsschakelaars dat na 14 oktober 2009 en voor 1 januari 2010 door de minister is verstrekt, wordt aangemerkt als een diploma als bedoeld in artikel 2, eerste lid.  
+Een diploma voor het terugwinnen van gefluoreerde broeikasgassen bij hoogspanningsschakelaars dat na 14 oktober 2009 en voor 1 januari 2010 door de minister is verstrekt, wordt aangemerkt als een diploma als bedoeld in artikel 2, eerste lid. 
 
 ### Hoofdstuk  4  
 
@@ -228,11 +223,11 @@ Een diploma voor het terugwinnen van gefluoreerde broeikasgassen bij hoogspannin
 
 ### Artikel  19  
 
-Deze regeling treedt in werking met ingang van 1 januari 2010.  
+Deze regeling treedt in werking met ingang van 1 januari 2010. 
 
 ### Artikel  20  
 
-Deze regeling wordt aangehaald als: Regeling gefluoreerde broeikasgassen hoogspanningsschakelaars.  
+Deze regeling wordt aangehaald als: Regeling gefluoreerde broeikasgassen hoogspanningsschakelaars. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -240,9 +235,9 @@ Den Haag
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J.M.Cramer  
+J.M. Cramer    
 
-### Bijlage  
+### Bijlage 
 
 ####, behorend bij artikel 11, derde lid 
 

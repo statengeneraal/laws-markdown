@@ -37,9 +37,9 @@ In deze regeling wordt verstaan onder:
 
 *koudemiddelenregistratie:* registratie waarbij wordt bijgehouden de hoeveelheid gefluoreerde broeikasgassen en gereguleerde stoffen die wordt gevuld of bijgevuld in koelinstallaties en de teruggewonnen hoeveelheid gefluoreerde broeikasgassen en gereguleerde stoffen uit koelinstallaties evenals de bestemming hiervan;  
 
-*lekcontrole:* controle op lekkage als bedoeld in artikel 3, tweede lid, van de f-gassenverordening voor zover het gefluoreerde broeikasgassen betreft en controle op lekdichtheid als bedoeld in [artikel 3.2, onder c, van de Regeling lekdichtheid koelinstallaties](../../../../../../../../../ministeriele-regeling/regeling/lekdichtheid/koelinstallaties/in/de/gebruiksfase/2006/BWBR0020550/README.md) in de gebruiksfase 2006 voorzover het gereguleerde stoffen betreft;  
+*lekcontrole:* controle op lekkage als bedoeld in artikel 3, tweede lid, van de f-gassenverordening voor zover het gefluoreerde broeikasgassen betreft en controle op lekdichtheid als bedoeld in artikel 23 van de EG-verordening ozonlaagafbrekende stoffen en artikel 29a voorzover het gereguleerde stoffen betreft;  
 
-*minister:* Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;  
+*minister:* de Minister van Infrastructuur en Milieu;  
 
 *mobiele airco:* airco van een voertuig of airco van een mobiel werktuig;  
 
@@ -53,7 +53,7 @@ In deze regeling wordt verstaan onder:
 
 *stationaire koelinstallatie:* koelinstallatie die tijdens het functioneren niet mobiel is;  
 
-*terugwinnen:* verzamelen en opslaan van gefluoreerde broeikasgassen of gereguleerde stoffen tijdens onderhoud of voorafgaand aan de verwijdering van koelinstallaties of houders als bedoeld in artikel 2, onder 12, van de f-gassenverordening.    
+*terugwinnen:* verzamelen en opslaan van gefluoreerde broeikasgassen of gereguleerde stoffen tijdens onderhoud of voorafgaand aan de verwijdering van koelinstallaties of houders als bedoeld in artikel 2, onder 12, van de f-gassenverordening.   
 
 ### Hoofdstuk  2  
 
@@ -97,7 +97,7 @@ d. categorie IV: de houder van het diploma is bevoegd de werkzaamheid, genoemd i
 
 a. die een opleiding voor het kunnen verrichten van de betreffende werkzaamheid volgen met het oogmerk het hierbij behorende diploma te verkrijgen, en  
 
-b. die tot het moment dat het diploma voor die betreffende werkzaamheid is verkregen bij het verrichten van die werkzaamheid werkzaam zijn onder direct toezicht en verantwoordelijkheid van iemand die over een bij het bij die werkzaamheid behorend diploma beschikt, is het eerste lid voor een periode van maximaal twee jaar en het derde lid voor een periode van maximaal een jaar niet van toepassing, te rekenen vanaf de aanvangsdatum van de opleiding.     
+b. die tot het moment dat het diploma voor die betreffende werkzaamheid is verkregen bij het verrichten van die werkzaamheid werkzaam zijn onder direct toezicht en verantwoordelijkheid van iemand die over een bij het bij die werkzaamheid behorend diploma beschikt, is het eerste lid voor een periode van maximaal twee jaar en het derde lid voor een periode van maximaal een jaar niet van toepassing, te rekenen vanaf de aanvangsdatum van de opleiding.    
 
 ### Paragraaf  2.2  
 
@@ -113,22 +113,22 @@ b. die tot het moment dat het diploma voor die betreffende werkzaamheid is verkr
 6.  Tijdens het examen voor een diploma als bedoeld in artikel 2, eerste lid, wordt getoetst of een deelnemer voldoet aan de exameneisen behorend bij de betreffende categorie van werkzaamheden, die zijn neergelegd in bijlage II bij deze regeling.   
 7.  Tijdens het examen voor een diploma als bedoeld in artikel 2, derde lid, wordt getoetst of een deelnemer voldoet aan de exameneisen, die zijn neergelegd in bijlage III bij deze regeling.   
 8.  Onverminderd de artikelen 8, vijfde lid, onder c, en 16 is de geldigheidsduur van het diploma onbeperkt.   
-9.  Onder het examen wordt in deze regeling mede verstaan het herexamen, tenzij nadrukkelijk anders is bepaald.   
+9.  Onder het examen wordt in deze regeling mede verstaan het herexamen, tenzij nadrukkelijk anders is bepaald.  
 
 ### Artikel  4  
 
 1.  De minister stelt de inhoud van het examen, bedoeld in artikel 3, eerste lid, vast waarmee getoetst wordt of een deelnemer voldoet aan de exameneisen behorend bij de betreffende categorie van werkzaamheden, die zijn neergelegd in de bijlagen II of III bij deze regeling. Voorafgaande aan de vaststelling adviseert de exameninstelling de minister over de inhoud van het examen.   
-2.  Het examen, bedoeld in artikel 3, eerste lid, bestaat uit een theorie- en een praktijkgedeelte.   
+2.  Het examen, bedoeld in artikel 3, eerste lid, bestaat uit een theorie- en een praktijkgedeelte.  
 
 ### Artikel  5  
 
-De minister stelt de uitslag van het examen, bedoeld in artikel 3, eerste lid, met inachtneming van het advies van de exameninstelling inzake de resultaten van het door een deelnemer afgelegde examen vast en draagt er zorg voor dat de uitslag binnen drie weken na ontvangst van dat advies aan een deelnemer wordt verzonden.  
+De minister stelt de uitslag van het examen, bedoeld in artikel 3, eerste lid, met inachtneming van het advies van de exameninstelling inzake de resultaten van het door een deelnemer afgelegde examen vast en draagt er zorg voor dat de uitslag binnen drie weken na ontvangst van dat advies aan een deelnemer wordt verzonden. 
 
 ### Artikel  6  
 
 1.  Indien een deelnemer een of meer onderdelen van het examen, bedoeld in artikel 3, eerste lid, niet met goed gevolg heeft afgelegd, wordt hij in de gelegenheid gesteld een herexamen te doen voor het betreffende onderdeel of de betreffende onderdelen.   
 2.  Het herexamen vindt plaats binnen zes maanden nadat een deelnemer van de resultaten van het examen op de hoogte is gesteld.   
-3.  Indien een deelnemer een of meer onderdelen van het herexamen niet met goed gevolg heeft afgelegd, is hij niet gerechtigd opnieuw herexamen te doen.   
+3.  Indien een deelnemer een of meer onderdelen van het herexamen niet met goed gevolg heeft afgelegd, is hij niet gerechtigd opnieuw herexamen te doen.  
 
 ### Artikel  7  
 
@@ -139,22 +139,28 @@ De minister stelt de uitslag van het examen, bedoeld in artikel 3, eerste lid, m
 
 a. met het oog op het verkrijgen van een diploma voor werkzaamheden als bedoeld in artikel 2, tweede lid, onder a of b: 
 
-1°. voor een examen of een herexamen op alle onderdelen: € 714,– inclusief BTW;  
+1°. voor een examen of een herexamen op alle onderdelen: € 635,– exclusief BTW;  
 
-2°. voor een herexamen van het theoriegedeelte: € 119,– inclusief BTW;  
+2°. voor een herexamen van het theoriegedeelte: € 135,– exclusief BTW;  
 
-3°. voor een herexamen van een onderdeel van het praktijkgedeelte: € 327,– inclusief BTW;    
+3°. voor een herexamen van een onderdeel van het praktijkgedeelte: € 310,– exclusief BTW;    
 
-b. met het oog op het verkrijgen van een diploma voor werkzaamheden als bedoeld in artikel 2, tweede lid, onder c of d voor een examen of voor een herexamen: € 476,– inclusief BTW;  
+b. met het oog op het verkrijgen van een diploma voor werkzaamheden als bedoeld in artikel 2, tweede lid, onder c of d: 
+
+1°. voor een examen of een herexamen op beide onderdelen: € 435,– exclusief BTW;  
+
+2°. voor een herexamen van het theoriegedeelte: € 135,– exclusief BTW;  
+
+3°. voor een herexamen van het praktijkgedeelte: € 310,– exclusief BTW.    
 
 c. met het oog op het verkrijgen van een diploma voor werkzaamheden als bedoeld in artikel 2, derde lid: 
 
-1°. voor een examen of een herexamen op alle onderdelen: € 286,– inclusief BTW;  
+1°. voor een examen of een herexamen op alle onderdelen: € 240,– exclusief BTW;  
 
-2°. voor een herexamen van het theoriegedeelte: € 89,– inclusief BTW;  
+2°. voor een herexamen van het theoriegedeelte: € 75,– exclusief BTW;  
 
-3°. voor een herexamen van het praktijkgedeelte: € 250,– inclusief BTW.       
-5.  In afwijking van het vierde lid, onder a, bedraagt de hoogte van de vergoeding voor een examen of een herexamen met het oog op het verkrijgen van een diploma voor werkzaamheden als bedoeld in artikel 2, tweede lid, onder a, indien de deelnemer al beschikt over een diploma voor werkzaamheden als bedoeld in artikel 2, tweede lid, onder b, voor een examen of voor een herexamen: € 268,– inclusief BTW.   
+3°. voor een herexamen van het praktijkgedeelte: € 210,– exclusief BTW.       
+5.  In afwijking van het vierde lid, onder a, bedraagt de hoogte van de vergoeding voor een examen of een herexamen met het oog op het verkrijgen van een diploma voor werkzaamheden als bedoeld in artikel 2, tweede lid, onder a, indien de deelnemer al beschikt over een diploma voor werkzaamheden als bedoeld in artikel 2, tweede lid, onder b, voor een examen of voor een herexamen: € 245,– exclusief BTW.  
 
 ### Artikel  8  
 
@@ -186,7 +192,7 @@ a. dat een deelnemer voor een periode van ten hoogste zes maanden wordt uitgeslo
 
 b. tot ongeldigverklaring van het examen;  
 
-c. tot intrekking van een reeds verleend diploma op grond van deze regeling.     
+c. tot intrekking van een reeds verleend diploma op grond van deze regeling.    
 
 ### Paragraaf  2.3  
 
@@ -236,7 +242,7 @@ d. de procedures voor interne controles en evaluaties van de uitvoering van deze
 4.  Het examenreglement, het huishoudelijk reglement, en wijzigingen hiervan behoeven de goedkeuring van de minister.   
 5.  De exameninstelling is onafhankelijk en onpartijdig en neemt bij de uitvoering van de werkzaamheden het examenreglement en het huishoudelijk reglement in acht.   
 6.  De exameninstelling neemt afdoende maatregelen om fraude voor, tijdens en na het examen te voorkomen.   
-7.  Indien de exameninstelling niet meer voldoet aan een of meer van haar verplichtingen, bericht zij dit onverwijld schriftelijk aan de minister.   
+7.  Indien de exameninstelling niet meer voldoet aan een of meer van haar verplichtingen, bericht zij dit onverwijld schriftelijk aan de minister.  
 
 ### Artikel  10  
 
@@ -246,13 +252,13 @@ a. ten minste dertien weken na de dag van het examen;
 
 b. ten minste dertien weken na de dag waarop de beslissing op het bezwaarschrift bekend is gemaakt, indien tegen de uitslag van het examen bezwaar is gemaakt, of  
 
-c. ten minste dertien weken na de dag waarop het beroep onherroepelijk is, indien tegen een beslissing op bezwaar beroep is ingesteld.    
+c. ten minste dertien weken na de dag waarop het beroep onherroepelijk is, indien tegen een beslissing op bezwaar beroep is ingesteld.   
 
 ### Artikel  11  
 
 1.  De exameninstelling verstrekt desgevraagd aan de minister alle voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van alle zakelijke gegevens en bescheiden, indien dat voor de vervulling van zijn taak redelijkerwijs nodig is.   
 2.  De exameninstelling zendt elk jaar een jaarverslag aan de minister waarin verantwoording wordt afgelegd over de wijze waarop zij in het voorafgaande kalenderjaar uitvoering heeft gegeven aan haar taken en verplichtingen voortvloeiend uit deze regeling.   
-3.  Het jaarverslag wordt opgesteld met inachtneming van de richtsnoeren, bedoeld in bijlage IV bij deze regeling.   
+3.  Het jaarverslag wordt opgesteld met inachtneming van de richtsnoeren, bedoeld in bijlage IV bij deze regeling.  
 
 ### Paragraaf  2.4  
 
@@ -262,7 +268,7 @@ c. ten minste dertien weken na de dag waarop het beroep onherroepelijk is, indie
 
 1.  De minister kan de aanwijzing van de exameninstelling schorsen, indien de instelling naar het oordeel van de minister een of meer van de taken of verplichtingen, bedoeld in de artikelen 9 tot en met 11, niet of onvoldoende uitvoert respectievelijk nakomt.   
 2.  In geval van schorsing geeft de minister de exameninstelling gedurende een door hem te bepalen periode de gelegenheid de tekortkoming ongedaan te maken.   
-3.  Indien de tekortkoming door de exameninstelling binnen de door de minister gestelde termijn naar het oordeel van de minister ongedaan is gemaakt, wordt de schorsing van de aanwijzing opgeheven.   
+3.  Indien de tekortkoming door de exameninstelling binnen de door de minister gestelde termijn naar het oordeel van de minister ongedaan is gemaakt, wordt de schorsing van de aanwijzing opgeheven.  
 
 ### Artikel  13  
 
@@ -276,7 +282,7 @@ c. de instelling niet meewerkt aan een controle door de minister in het kader va
 
 d. de aanwijzing ingevolge artikel 12, eerste lid, is geschorst en de tekortkoming binnen de door de minister gestelde termijn niet ongedaan is gemaakt, of  
 
-e. de instelling surseance van betaling is verleend of in staat van faillissement verkeert.    
+e. de instelling surseance van betaling is verleend of in staat van faillissement verkeert.   
 
 ### Paragraaf  2.5  
 
@@ -285,7 +291,7 @@ e. de instelling surseance van betaling is verleend of in staat van faillissemen
 ### Artikel  14  
 
 1.  De minister verstrekt het diploma aan een deelnemer die met gunstig gevolg het examen, bedoeld in artikel 3, eerste lid, heeft afgelegd.   
-2.  De minister registreert aan wie een diploma als bedoeld in artikel 3, eerste lid, is uitgereikt. Deze gegevens worden bewaard totdat de betrokkene de pensioengerechtigde leeftijd heeft bereikt doch ten minste vijf jaar.   
+2.  De minister registreert aan wie een diploma als bedoeld in artikel 3, eerste lid, is uitgereikt. Deze gegevens worden bewaard totdat de betrokkene de pensioengerechtigde leeftijd heeft bereikt doch ten minste vijf jaar.  
 
 ### Artikel  15  
 
@@ -293,24 +299,19 @@ Het diploma vermeldt ten minste:
 
 a. de volledige naam van de houder van het diploma;  
 
-b. een registratienummer afgegeven door de minister;  
+b. een registratienummer;  
 
 c. de werkzaamheden, bedoeld in de artikelen 2, eerste of derde lid, die de houder van het diploma bevoegd is te verrichten;  
 
-d. de datum van afgifte en de ondertekening door de minister.    
+d. de datum van afgifte en de ondertekening door de minister.   
 
 ### Artikel  16  
 
-Indien de houder van een diploma bij voortduring in strijd handelt met deze regeling, [artikel 3 van het Besluit gefluoreerde broeikasgassen milieubeheer](../../../../../../../../../AMvB/besluit/gefluoreerde/broeikasgassen/wms/2007/BWBR0022857/README.md), of de [Regeling lekdichtheid koelinstallaties in de gebruiksfase 2006](../../../../../../../../../ministeriele-regeling/regeling/lekdichtheid/koelinstallaties/in/de/gebruiksfase/2006/BWBR0020550/README.md) kan de minister tot intrekking van het diploma besluiten. In dat geval levert de betrokkene zijn diploma in bij de minister.  
+Indien de houder van een diploma bij voortduring in strijd handelt met deze regeling, [artikel 3 van het Besluit gefluoreerde broeikasgassen milieubeheer](../../../../../../../../../AMvB/besluit/gefluoreerde/broeikasgassen/wms/2007/BWBR0022857/README.md), artikel 3 van het Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen of artikel 29a kan de minister tot intrekking van het diploma besluiten. In dat geval levert de betrokkene zijn diploma in bij de minister. 
 
 ### Paragraaf  2.6  
 
 ####Vergoeding aan de minister
-
-### Artikel  17  
-
-1.  Een deelnemer is aan de minister een vergoeding verschuldigd voor het ontvangen van de uitslag van het examen.   
-2.  De hoogte van de vergoeding, bedoeld in het eerste lid, bedraagt: € 20,–.   
 
 ### Hoofdstuk  3  
 
@@ -322,7 +323,7 @@ Indien de houder van een diploma bij voortduring in strijd handelt met deze rege
 
 ### Artikel  18  
 
-Een bedrijf dat stationaire of mobiele koelinstallaties installeert of onderhoudt mag deze werkzaamheden uitsluitend verrichten indien het beschikt over een geldig bedrijfscertificaat dat is afgegeven door een keuringsinstantie.  
+Een bedrijf dat stationaire of mobiele koelinstallaties installeert of onderhoudt mag deze werkzaamheden uitsluitend verrichten indien het beschikt over een geldig bedrijfscertificaat dat is afgegeven door een keuringsinstantie. 
 
 ### Artikel  19  
 
@@ -343,10 +344,11 @@ b. een document waarin de voor het personeel noodzakelijke instrumenten en proce
 
 c. een koudemiddelenregistratie, en  
 
-d. het registratienummer uit het handelsregister.     
+d. het registratienummer uit het handelsregister.    
 3.  Een bedrijf als bedoeld in artikel 18 kan een aanvraag voor een bedrijfscertificaat indienen bij een keuringinstantie.   
-4.  Een bedrijf voldoet na afgifte van een bedrijfscertificaat bij voortduring aan de eisen, bedoeld in het eerste lid, en stelt op verzoek van de keuringsinstantie de gegevens van de koudemiddelenregistratie beschikbaar.   
-5.  Indien een bedrijf niet meer voldoet aan de eisen op basis waarvan een bedrijfscertificaat is verleend, bericht zij dit onverwijld schriftelijk aan de keuringsinstantie.   
+4.  Een bedrijf bewaart de gegevens, bedoeld in het eerste lid, onderdeel d, ten minste vijf jaar.  
+5.  Een bedrijf voldoet na afgifte van een bedrijfscertificaat bij voortduring aan de eisen, bedoeld in het eerste lid, en stelt op verzoek van de keuringsinstantie de gegevens van de koudemiddelenregistratie beschikbaar.   
+6.  Indien een bedrijf niet meer voldoet aan de eisen op basis waarvan een bedrijfscertificaat is verleend, bericht zij dit onverwijld schriftelijk aan de keuringsinstantie.  
 
 ### Artikel  20  
 
@@ -358,12 +360,12 @@ b. een registratienummer afgegeven door de keuringsinstantie;
 
 c. de werkzaamheden, bedoeld in artikel 18, die de houder van het bedrijfscertificaat bevoegd is te verrichten;  
 
-d. de datum van afgifte en de ondertekening door een vertegenwoordiger van de keuringinstantie.    
+d. de datum van afgifte en de ondertekening door een vertegenwoordiger van de keuringinstantie.   
 
 ### Artikel  21  
 
 1.  De keuringsinstantie voert vierentwintig maanden na afgifte van een bedrijfscertificaat een tussentijdse beoordeling uit waarbij wordt bezien of een bedrijf nog voldoet aan de eisen, genoemd in artikel 19, eerste lid. De tussentijdse beoordeling wordt vervolgens iedere achtenveertig maanden herhaald.   
-2.  De keuringsinstantie voert achtenveertig maanden na afgifte van een bedrijfscertificaat een herkeuring uit waarbij wordt beoordeeld of een bedrijf nog voldoet aan de eisen, genoemd in artikel 19, eerste lid. De herkeuring wordt vervolgens iedere achtenveertig maanden herhaald.   
+2.  De keuringsinstantie voert achtenveertig maanden na afgifte van een bedrijfscertificaat een herkeuring uit waarbij wordt beoordeeld of een bedrijf nog voldoet aan de eisen, genoemd in artikel 19, eerste lid. De herkeuring wordt vervolgens iedere achtenveertig maanden herhaald.  
 
 ### Artikel  22  
 
@@ -371,19 +373,19 @@ d. de datum van afgifte en de ondertekening door een vertegenwoordiger van de ke
 
 a. indien een bedrijf hierom verzoekt;  
 
-b. indien een bedrijf naar het oordeel van de keuringinstantie niet meer voldoet aan een of meer eisen als genoemd in artikel 19, eerste lid, of in strijd handelt met artikel 19, vierde of vijfde lid, of  
+b. indien een bedrijf naar het oordeel van de keuringinstantie niet meer voldoet aan een of meer eisen als genoemd in artikel 19, eerste lid, of in strijd handelt met artikel 19, vierde, vijfde of zesde lid;  
 
-c. indien een bedrijf niet of onvoldoende meewerkt aan een tussentijdse beoordeling of herkeuring door de keuringinstantie of de keuringsinstantie anderszins niet in staat is een bedrijf te beoordelen.  
+c. indien een bedrijf niet of onvoldoende meewerkt aan een tussentijdse beoordeling of herkeuring door de keuringinstantie of de keuringsinstantie anderszins niet in staat is een bedrijf te beoordelen, of  
 
 d. een bedrijf surseance van betaling is verleend of in staat van faillissement verkeert.     
 2.  Bij een tijdelijke intrekking stelt de keuringinstantie een bedrijf gedurende een door de keuringinstantie te bepalen periode in de gelegenheid de tekortkoming ongedaan te maken.   
 3.  Indien de tekortkoming door een bedrijf binnen de door de keuringinstantie gestelde termijn naar het oordeel van de keuringinstantie ongedaan is gemaakt, wordt de tijdelijke intrekking van een bedrijfscertificaat opgeheven.   
 4.  De keuringinstantie kan een bedrijfscertificaat in ieder geval definitief intrekken, indien een bedrijfscertificaat tijdelijk is ingetrokken en de tekortkoming binnen de door de keuringinstantie gestelde termijn niet ongedaan is gemaakt.   
-5.  Indien de aanwijzing van de keuringsinstantie ingevolge artikel 29, eerste lid, wordt ingetrokken, vervalt het oorspronkelijke bedrijfscertificaat van rechtswege na vierentwintig maanden te rekenen vanaf de dag van de intrekking van de aanwijzing, of zoveel eerder als een nieuw bedrijfscertificaat door een andere keuringsinstantie is verleend.   
+5.  Indien de aanwijzing van de keuringsinstantie ingevolge artikel 29, eerste lid, wordt ingetrokken, vervalt het oorspronkelijke bedrijfscertificaat van rechtswege na vierentwintig maanden te rekenen vanaf de dag van de intrekking van de aanwijzing, of zoveel eerder als een nieuw bedrijfscertificaat door een andere keuringsinstantie is verleend.  
 
 ### Artikel  23  
 
-De keuringsinstantie neemt bij de certificering, tussentijdse beoordeling en herkeuring van bedrijven, bedoeld in de artikelen 19 en 21, en de tijdelijke en definitieve intrekking van bedrijfscertificaten, bedoeld in artikel 22, de bepalingen die zijn neergelegd in bijlage V bij deze regeling in acht.  
+De keuringsinstantie neemt bij de certificering, tussentijdse beoordeling en herkeuring van bedrijven, bedoeld in de artikelen 19 en 21, en de tijdelijke en definitieve intrekking van bedrijfscertificaten, bedoeld in artikel 22, de bepalingen die zijn neergelegd in bijlage V bij deze regeling in acht. 
 
 ### Paragraaf  3.2  
 
@@ -391,7 +393,7 @@ De keuringsinstantie neemt bij de certificering, tussentijdse beoordeling en her
 
 ### Artikel  24  
 
-De keuringinstantie is belast met het beoordelen van bedrijven in het kader van deze regeling, het afgeven van bedrijfscertificaten en het in voorkomende gevallen tijdelijk of definitief intrekken hiervan.  
+De keuringinstantie is belast met het beoordelen van bedrijven in het kader van deze regeling, het afgeven van bedrijfscertificaten en het in voorkomende gevallen tijdelijk of definitief intrekken hiervan. 
 
 ### Artikel  25  
 
@@ -409,18 +411,18 @@ e. zij registreert op een geaggregeerd niveau de gegevens van de resultaten van 
 2.  De keuringinstantie bewaart de gegevens, bedoeld in het eerste lid, onder b en e, ten minste vijf jaar.   
 3.  De keuringinstantie neemt bij de uitvoering van de werkzaamheden ingevolge paragraaf 3.1 van deze regeling het reglement, bedoeld in het eerste lid, onder c, in acht en voldoet bij voortduring aan de voorwaarden, bedoeld in het eerste lid.   
 4.  Indien de keuringsinstantie niet meer voldoet aan een of meer van haar verplichtingen, bericht zij dit onverwijld schriftelijk aan de minister.   
-5.  De minister overlegt periodiek met alle keuringinstanties. De keuringinstanties zijn verplicht aan dit overleg deel te nemen.   
+5.  De minister overlegt periodiek met alle keuringinstanties. De keuringinstanties zijn verplicht aan dit overleg deel te nemen.  
 
 ### Artikel  26  
 
 1.  Een instantie kan een aanvraag voor een aanwijzing als bedoeld in artikel 25, eerste lid, indienen bij de minister.   
-2.  Bij de aanvraag toont de instantie aan dat zij voldoet aan de eisen, genoemd in artikel 25, eerste lid, door overlegging van de daarvoor noodzakelijke gegevens en bescheiden die direct of indirect van belang zijn voor de beoordeling van de aanvraag.   
+2.  Bij de aanvraag toont de instantie aan dat zij voldoet aan de eisen, genoemd in artikel 25, eerste lid, door overlegging van de daarvoor noodzakelijke gegevens en bescheiden die direct of indirect van belang zijn voor de beoordeling van de aanvraag.  
 
 ### Artikel  27  
 
 1.  De keuringinstantie verstrekt desgevraagd aan de minister alle voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van alle zakelijke gegevens en bescheiden, indien dat voor de vervulling van zijn taak redelijkerwijs nodig is.   
 2.  De keuringinstantie stuurt elk jaar een jaarverslag aan de minister waarin verantwoording wordt afgelegd over de wijze waarop zij in het voorafgaande kalenderjaar uitvoering heeft gegeven aan haar taken en verplichtingen voortvloeiende uit deze regeling.   
-3.  Het jaarverslag wordt opgesteld met inachtneming van de richtsnoeren, die zijn neergelegd in bijlage VII bij deze regeling.   
+3.  Het jaarverslag wordt opgesteld met inachtneming van de richtsnoeren, die zijn neergelegd in bijlage VII bij deze regeling.  
 
 ### Paragraaf  3.3  
 
@@ -434,7 +436,7 @@ a. niet meer voldoet aan een of meer van de verplichtingen, bedoeld in de artike
 
 b. niet geacht wordt in staat te zijn een of meer van de werkzaamheden, bedoeld in paragraaf 3.1, naar behoren uit te voeren.     
 2.  Bij schorsing geeft de minister de keuringinstantie gedurende een door hem te bepalen periode gelegenheid de tekortkoming ongedaan te maken.   
-3.  Indien de tekortkoming door de keuringinstantie binnen de door de minister gestelde termijn naar het oordeel van de minister ongedaan is gemaakt, wordt de schorsing opgeheven.   
+3.  Indien de tekortkoming door de keuringinstantie binnen de door de minister gestelde termijn naar het oordeel van de minister ongedaan is gemaakt, wordt de schorsing opgeheven.  
 
 ### Artikel  29  
 
@@ -452,7 +454,24 @@ e. de aanwijzing ingevolge artikel 28, eerste lid, is geschorst en de tekortkomi
 
 f. de instantie surseance van betaling is verleend of in staat van faillissement verkeert.     
 2.  De keuringsinstantie overlegt bij intrekking van de aanwijzing aan de minister alle relevante inlichtingen en bescheiden, waaronder het register, bedoeld in artikel 25, eerste lid, onder b.   
-3.  De keuringsinstantie stelt de betrokken bedrijven onverwijld op de hoogte van het besluit van de minister tot intrekking van de aanwijzing.   
+3.  De keuringsinstantie stelt de betrokken bedrijven onverwijld op de hoogte van het besluit van de minister tot intrekking van de aanwijzing.  
+
+### Hoofdstuk  3a  
+
+####Lekdichtheid koelinstallaties
+
+### Artikel  29a  
+
+1.  De EG-verordening standaardlekcontroles stationaire koelinstallaties is van overeenkomstige toepassing op koelinstallaties voor zover het gereguleerde stoffen betreft.   
+2.  Artikel 23, tweede en derde lid, van de EG-verordening ozonlaagafbrekende stoffen, is van overeenkomstige toepassing op mobiele koelinstallaties voor zover het gereguleerde stoffen betreft.  
+
+### Artikel  29b  
+
+De exploitant van een koelinstallatie die gereguleerde stoffen bevat en is voorzien van een lekdetectiesysteem, draagt er zorg voor dat ten minste een keer per twaalf maanden dat lekdetectiesysteem wordt gecontroleerd door een persoon die beschikt over het bij de betreffende categorie werkzaamheden behorende diploma, bedoeld in artikel 2, eerste lid, om te garanderen dat dat lekdetectiesysteem behoorlijk functioneert, waarbij wordt verstaan onder: 
+
+a.  *exploitant:* natuurlijke of rechtspersoon die de feitelijke controle uitoefent over het technisch functioneren van de koelinstallatie;  
+
+b.  *lekdetectiesysteem:* geijkt mechanisch, elektrisch of elektronisch apparaat om lekken van gereguleerde stoffen op te sporen, dat waarschuwt als het deze stoffen heeft vastgesteld.   
 
 ### Hoofdstuk  4  
 
@@ -462,13 +481,13 @@ f. de instantie surseance van betaling is verleend of in staat van faillissement
 
 1.  Degene die houder is van een diploma STEK-monteur of een diploma CFK-monteur wordt geacht tot 1 juli 2010 houder te zijn van een diploma behorend bij categorie I als bedoeld in artikel 2, tweede lid, onder a.   
 2.  Artikel 2, derde lid, is tot 1 juli 2010 niet van toepassing op een persoon die beschikt over een diploma auto-airco monteur (STEK) of een diploma demonteur auto-airco (STEK).   
-3.  Een bedrijf dat aan de ter zake geldende eisen ingevolge de Aanwijzingsregeling Stichting Erkenningsregeling voor de uitoefening van het Koeltechnisch Installatiebedrijf voldoet en als zodanig is erkend wordt geacht tot 1 juli 2011 houder te zijn van een tussentijds bedrijfscertificaat ten behoeve van het kunnen verrichten van de werkzaamheden, bedoeld in artikel 18.   
+3.  Een bedrijf dat aan de ter zake geldende eisen ingevolge de Aanwijzingsregeling Stichting Erkenningsregeling voor de uitoefening van het Koeltechnisch Installatiebedrijf voldoet en als zodanig is erkend wordt geacht tot 1 juli 2011 houder te zijn van een tussentijds bedrijfscertificaat ten behoeve van het kunnen verrichten van de werkzaamheden, bedoeld in artikel 18.  
 
 ### Artikel  31  
 
 1.  Nadat degene die houder is van een diploma STEK-monteur of een diploma CFK-monteur dit diploma aan de minister heeft toegezonden, verstrekt de minister een diploma behorend bij categorie I als bedoeld in artikel 2, tweede lid, onder a.   
 2.  Nadat degene die houder is van een diploma auto-airco monteur (STEK) of een diploma demonteur auto-airco (STEK) dit diploma aan de minister heeft toegezonden, verstrekt de minister een diploma als bedoeld in artikel 2, derde lid.   
-3.  Indien de toezending van het diploma, bedoeld in het eerste of tweede lid, geschiedt voor 1 maart 2010, zendt de minister het diploma behorend bij categorie I als bedoeld in artikel 2, tweede lid, onder a, of het diploma, bedoeld in artikel 2, derde lid, tezamen met het oorspronkelijke diploma voor 1 juli 2010 aan de betrokkene toe.   
+3.  Indien de toezending van het diploma, bedoeld in het eerste of tweede lid, geschiedt voor 1 maart 2010, zendt de minister het diploma behorend bij categorie I als bedoeld in artikel 2, tweede lid, onder a, of het diploma, bedoeld in artikel 2, derde lid, tezamen met het oorspronkelijke diploma voor 1 juli 2010 aan de betrokkene toe.  
 
 ### Hoofdstuk  5  
 
@@ -478,27 +497,27 @@ f. de instantie surseance van betaling is verleend of in staat van faillissement
 
 1.  Met de beroepseisen, bedoeld in artikel 2, eerste lid, en waarop Verordening (EG) nr. 303/2008 van de Europese Commissie van 2 april 2008 tot instelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad van de Europese Unie, van minimumeisen en de voorwaarden voor wederzijdse erkenning voor de certificering van bedrijven en personeel betreffende stationaire koel-, klimaatregelings- en warmtepompapparatuur die bepaalde gefluoreerde broeikasgassen bevat (PbEU L 92) niet van toepassing is, worden gelijkgesteld beroepseisen die worden gesteld in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die een beroepsniveau waarborgen dat ten minste gelijkwaardig is aan het niveau van deze regeling.   
 2.  Met de beroepseisen, bedoeld in artikel 2, derde lid, en waarop Verordening (EG) nr. 307/2008 van de Europese Commissie van 2 april 2008 tot vaststelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad van de Europese Unie, van minimumeisen voor opleidingsprogramma’s en de voorwaarden voor wederzijdse erkenning van opleidingsvoorschriften voor personeel op het gebied van bepaalde gefluoreerde broeikasgassen bevattende klimaatregelingssystemen in bepaalde motorvoertuigen (PbEU L 92) niet van toepassing is, worden gelijkgesteld beroepseisen die worden gesteld in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die een beroepsniveau waarborgen dat ten minste gelijkwaardig is aan het niveau van deze regeling.   
-3.  Met een bedrijfscertificaat als bedoeld in artikel 18 en waarop Verordening (EG) nr. 303/2008 van de Europese Commissie van 2 april 2008 tot instelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad van de Europese Unie, van minimumeisen en de voorwaarden voor wederzijdse erkenning voor de certificering van bedrijven en personeel betreffende stationaire koel-, klimaatregelings- en warmtepompapparatuur die bepaalde gefluoreerde broeikasgassen bevat (PbEU L 92) niet van toepassing is, wordt gelijkgesteld een verklaring van goedkeuring, afgegeven door een onafhankelijke keuringsinstantie in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, welke verklaring is afgegeven op basis van onderzoekingen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau van deze regeling.   
+3.  Met een bedrijfscertificaat als bedoeld in artikel 18 en waarop Verordening (EG) nr. 303/2008 van de Europese Commissie van 2 april 2008 tot instelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad van de Europese Unie, van minimumeisen en de voorwaarden voor wederzijdse erkenning voor de certificering van bedrijven en personeel betreffende stationaire koel-, klimaatregelings- en warmtepompapparatuur die bepaalde gefluoreerde broeikasgassen bevat (PbEU L 92) niet van toepassing is, wordt gelijkgesteld een verklaring van goedkeuring, afgegeven door een onafhankelijke keuringsinstantie in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, welke verklaring is afgegeven op basis van onderzoekingen die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het niveau van deze regeling.  
 
 ### Hoofdstuk  6  
 
 ####Slotbepalingen
 
-### Artikel  33  
+###Artikel 33 
 
-De [Aanwijzingsregeling Stichting Erkenningsregeling voor de uitoefening van het Koeltechnisch Installatiebedrijf](../../../../../../../../../ministeriele-regeling/aanwijzingsregeling/stichting/erkenningsregeling/voor/de/uitoefening/van/etc/BWBR0005786/README.md) wordt met ingang van 1 juli 2011 ingetrokken.  
+De [Aanwijzingsregeling Stichting Erkenningsregeling voor de uitoefening van het Koeltechnisch Installatiebedrijf](../../../../../../../../../ministeriele-regeling/aanwijzingsregeling/stichting/erkenningsregeling/voor/de/uitoefening/van/etc/BWBR0005786/README.md) wordt met ingang van 1 juli 2011 ingetrokken.
 
-### Artikel  34  
+###Artikel  34 
 
-Wijzigt de Inzamelingsregeling CFK en halonen.   
+Wijzigt de Inzamelingsregeling CFK en halonen.
 
 ### Artikel  35  
 
-Deze regeling treedt in werking met ingang van 1 januari 2010.  
+Deze regeling treedt in werking met ingang van 1 januari 2010. 
 
 ### Artikel  36  
 
-Deze regeling wordt aangehaald als: Regeling gefluoreerde broeikasgassen en gereguleerde stoffen koelinstallaties.  
+Deze regeling wordt aangehaald als: Regeling gefluoreerde broeikasgassen en gereguleerde stoffen koelinstallaties. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -506,9 +525,9 @@ Den Haag
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J.M.Cramer  
+J.M. Cramer    
 
-### Bijlage  I  
+### Bijlage I 
 
 ####, behorende bij artikel 1 
 
@@ -542,7 +561,7 @@ Werktuigen waarop deze regeling van toepassing is:
 
 14. Wals Zelfrijdend, door een motor aangedreven werktuig dat met banden of rollen en al dan niet voorzien van een trilmechanisme een zodanig gewicht op een grondlaag brengt, dat deze verdicht.   
 
-### Bijlage  II  
+### Bijlage  II 
 
 ####, behorend bij artikel 3, zesde lid 
 
@@ -569,10 +588,10 @@ b. een praktijkgedeelte waarbij een deelnemer de bijbehorende opdrachten verrich
 | 1.04  | Beschrijving van de functie van de hoofdonderdelen van een stationaire/mobiele koelinstallatie (compressor, verdamper, condensor, thermostatische expansieventielen) en de thermodynamische transformaties van de gefluoreerde broeikasgassen of gereguleerde stoffen.  | T  | T  | –  | –  |
 | 1.05  | Kennis van de basiswerking van de volgende in een stationaire/mobiele koelinstallatie toegepaste onderdelen en hun rol en belang voor preventie en identificatie van koellekkage: (a) ventielen (kogelventielen, membranen, bolventielen, ontlastventielen), (b) temperatuur- en drukregelaars, (c) kijkglazen en vochtindicators, (d) ontdooiingsregelaars, (e) systeembeschermers, (f) meetinstrumenten zoals een manifoldthermometer, (g) olieregelsystemen, (h) ontvangers, (i) vloeistof- en olieafscheiders.  | –  | –  | –  |
 |  *2*   |  *Milieueffect van gefluoreerde broeikasgassen of gereguleerde stoffen* *en bijbehorende milieuvoorschriften*   |
-| 2.01  | Basiskennis van klimaatverandering en het Kyoto-protocol. <sup>1</sup>  | T  | T  | T  | T  |
-| 2.02  | Basiskennis van het concept aardopwarmingsvermogen (GWP), het gebruik van gefluoreerde broeikasgassen en andere stoffen als koudemiddelen, het effect van de emissies van gefluoreerde broeikasgassen op het klimaat (grootteorde van hun GWP), relevante bepalingen van de f-gassenverordening, verordening 1516/2007 <sup>2</sup> en verordening 1494/2007 <sup>3</sup> en het Besluit gefluoreerde broeikasgassen milieubeheer.  | T  | T  | T  | T  |
-| 2.03  | Basiskennis van ozonlaagaantasting en het Montreal-protocol. <sup>4</sup>  | T  | T  | T  | T  |
-| 2.04  | Basiskennis van het concept ozon afbrekend vermogen (ODP), het gebruik van gereguleerde stoffen en andere stoffen als koudemiddelen, het effect van de emissies van gereguleerde stoffen op de ozonlaag (grootteorde van hun ODP) en het klimaat (grootteorde van hun GWP) en relevante bepalingen van de ozonverordening, het [Besluit ozonlaagafbrekende stoffen milieubeheer](../../../../../../../../../AMvB/besluit/ozonlaagafbrekende/stoffen/wms/2003/BWBR0015507/README.md) en de [Regeling lekdichtheid koelinstallaties in de gebruiksfase 2006](../../../../../../../../../ministeriele-regeling/regeling/lekdichtheid/koelinstallaties/in/de/gebruiksfase/2006/BWBR0020550/README.md).  | T  | T  | T  | T  |
+| 2.01  | Basiskennis van klimaatverandering en het Kyoto-protocol.<sup>1</sup>   | T  | T  | T  | T  |
+| 2.02  | Basiskennis van het concept aardopwarmingsvermogen (GWP), het gebruik van gefluoreerde broeikasgassen en andere stoffen als koudemiddelen, het effect van de emissies van gefluoreerde broeikasgassen op het klimaat (grootteorde van hun GWP), relevante bepalingen van de f-gassenverordening, verordening 1516/2007<sup>2</sup> en verordening 1494/2007<sup>3</sup> en het Besluit gefluoreerde broeikasgassen milieubeheer.  | T  | T  | T  | T  |
+| 2.03  | Basiskennis van ozonlaagaantasting en het Montreal-protocol.<sup>4</sup>  | T  | T  | T  | T  |
+| 2.04  | Basiskennis van het concept ozon afbrekend vermogen (ODP), het gebruik van gereguleerde stoffen en andere stoffen als koudemiddelen, het effect van de emissies van gereguleerde stoffen op de ozonlaag (grootteorde van hun ODP) en het klimaat (grootteorde van hun GWP) en relevante bepalingen van de EG-verordening ozonlaagafbrekende stoffen, het [Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen](../../../../../../../../../AMvB/uitvoeringsbesluit/eg-verordening/ozonlaagafbrekende/stoffen/BWBR0030095/README.md) en de Regeling gefluoreerde broeikasgassen en gereguleerde stoffen koelinstallaties.  | T  | T  | T  | T  |
 | 2.05  | Basiskennis van het [Warenwetbesluit drukapparatuur](../../../../../../../../../AMvB/besluit/drukapparatuur/BWBR0010586/README.md).  | T  | T  | –  | –  |
 |  *3*   |  *Controles vóór de inwerkingstelling na een lange periode van niet-gebruik, na onderhoud of reparatie, of tijdens de werking.*   |
 | 3.01  | Uitvoeren van een druktest om de sterkte van de stationaire/mobiele koelinstallatie te controleren.  | P  | P  | –  | –  |
@@ -583,9 +602,9 @@ b. een praktijkgedeelte waarbij een deelnemer de bijbehorende opdrachten verrich
 |  *4*   |  *Lekcontroles*   |
 | 4.01  | Kennis van potentiële lekkagepunten van stationaire/mobiele koelinstallaties.  | T  | T  | –  | T  |
 | 4.02  | Controle van het logboek vóór een lekcontrole en vastleggen van de relevante informatie over terugkerende punten of probleemgebieden die bijzondere aandacht vereisen  | T  | T  | –  | T  |
-| 4.03  | Visuele en manuele inspectie van de hele stationaire/mobiele koelinstallatie in overeenstemming met verordening 1516/2007 en [Regeling lekdichtheid koelinstallaties in de gebruiksfase 2006](../../../../../../../../../ministeriele-regeling/regeling/lekdichtheid/koelinstallaties/in/de/gebruiksfase/2006/BWBR0020550/README.md).  | P  | P  | –  | P  |
+| 4.03  | Visuele en manuele inspectie van de hele stationaire/mobiele koelinstallatie in overeenstemming met verordening 1516/2007 en de relevante bepalingen van de Regeling gefluoreerde broeikasgassen en gereguleerde stoffen koelinstallaties.  | P  | P  | –  | P  |
 | 4.04  | Uitvoering van een lekcontrole van de stationaire/mobiele koelinstallatie aan de hand van een indirecte methode in overeenstemming met verordening 1516/2007 en het instructieboekje van de stationaire/ mobiele koelinstallatie.  | P  | P  | –  | P  |
-| 4.05  | Gebruik van draagbare meettoestellen zoals manometers, thermometers en multimeters voor volt/amp/ohm-meting in de context van indirecte methoden voor lekcontrole, en interpretatie van de gemeten parameters.  | P  | P  | –  | P <sup>5</sup>  |
+| 4.05  | Gebruik van draagbare meettoestellen zoals manometers, thermometers en multimeters voor volt/amp/ohm-meting in de context van indirecte methoden voor lekcontrole, en interpretatie van de gemeten parameters.  | P  | P  | –  | P<sup>5</sup>   |
 | 4.06  | Uitvoering van een lekcontrole van de stationaire/mobiele koelinstallatie aan de hand van een van de directe methoden in de zin van verordening 1516/2007.  | P  | –  | –  | –  |
 | 4.07  | Uitvoering van een lekcontrole van de stationaire/mobiele koelinstallatie aan de hand van de directe methoden waarbij het koelcircuit niet wordt geopend, in de zin van verordening 1516/2007.  | P  | P  | –  | P  |
 | 4.08  | Gebruik van een elektronisch lekdetectieapparaat.  | P  | P  | –  | P  |
@@ -642,9 +661,9 @@ b. een praktijkgedeelte waarbij een deelnemer de bijbehorende opdrachten verrich
 | 10.01  | Lekdichte verbinding door lassen, hardsolderen en/of zachtsolderen van metalen buizen en leidingen die te gebruiken zijn in stationaire/mobiele koelinstallaties.  | P  | P  | –  | –  |
 | 10.02  | Vervaardiging/controle van steunen voor leidingen en onderdelen.  | P  | P  | –  | –  |
 
-<sup>1</sup> Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering en de gezamenlijke nakoming van daaruit voortvloeiende verplichtingen (Trb. 2005, 1). <sup>2</sup> Verordening (EG) nr. 1516/2007 van de Europese Commissie van 19 december 2007 tot vaststelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad van de Europese Unie, van basisvoorschriften inzake controle op lekkage van stationaire koel-, klimaatregelings- en warmtepompapparatuur die bepaalde gefluoreerde broeikasgassen bevat (PbEU L 335). <sup>3</sup> Verordening (EG) nr. 1494/2007 van de Europese Commissie van 17 december 2007 tot vaststelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad van de Europese Unie, van de vorm van etiketteringseisen betreffende producten en apparatuur die bepaalde gefluoreerde broeikasgassen bevatten (PbEU L 332). <sup>4</sup> Het op 16 september 1987 te Montreal tot stand gekomen Protocol betreffende stoffen die de ozonlaag afbreken, met bijlagen (Trb. 1988, 11). <sup>5</sup> Handelingen welke opening van het koelcircuit vereisen behoren niet tot de bevoegdheden van personeel dat categorie IV werkzaamheden uitvoert. 
+<sup>1</sup> Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering en de gezamenlijke nakoming van daaruit voortvloeiende verplichtingen (Trb. 2005, 1).<sup>2</sup> Verordening (EG) nr. 1516/2007 van de Europese Commissie van 19 december 2007 tot vaststelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad van de Europese Unie, van basisvoorschriften inzake controle op lekkage van stationaire koel-, klimaatregelings- en warmtepompapparatuur die bepaalde gefluoreerde broeikasgassen bevat (PbEU L 335).<sup>3</sup> Verordening (EG) nr. 1494/2007 van de Europese Commissie van 17 december 2007 tot vaststelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad van de Europese Unie, van de vorm van etiketteringseisen betreffende producten en apparatuur die bepaalde gefluoreerde broeikasgassen bevatten (PbEU L 332).<sup>4</sup> Het op 16 september 1987 te Montreal tot stand gekomen Protocol betreffende stoffen die de ozonlaag afbreken, met bijlagen (Trb. 1988, 11).<sup>5</sup> Handelingen welke opening van het koelcircuit vereisen behoren niet tot de bevoegdheden van personeel dat categorie IV werkzaamheden uitvoert.
 
-### Bijlage  III  
+### Bijlage III 
 
 ####, behorend bij artikel 3, zevende lid 
 
@@ -659,7 +678,7 @@ b. een praktijkgedeelte waarbij een deelnemer de bijbehorende opdracht verricht 
 | 1. Kennis van de werking van mobiele airco’s, van de milieueffecten van als koudemiddel gebruikte gefluoreerde broeikasgassen of gereguleerde stoffenen de desbetreffende milieuregelgeving  |
 | 1.1  | Basiskennis hebben van de werking van mobiele airco’s.  | T  |
 | 1.2  | Basiskennis hebben van het gebruik en de eigenschappen van gefluoreerde broeikasgassen en gereguleerde stoffen gebruikt als koudemiddel in mobiele airco’s en over de effecten van de emissies van die gassen op het milieu (orde van grootte van hun aardopwarmingsvermogen in verband met klimaatverandering en orde van grootte van ozonafbrekend vermogen in verband met de aantasting van de ozonlaag).  | T  |
-| 1.3  | Basiskennis hebben van de betrokken bepalingen van de f-gassenverordening, richtlijn 2006/40/EG<sup>1</sup> en de ter uitvoering van die richtlijn relevante bepalingen in de Wegenverkeerswet en [Regeling voertuigen](../../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), de ozonverordening, het Besluit ozonlaagafbrekende stoffen miliebeheer en de [Regeling lekdichtheid koelinstallaties in de gebruikfase 2006](../../../../../../../../../ministeriele-regeling/regeling/lekdichtheid/koelinstallaties/in/de/gebruiksfase/2006/BWBR0020550/README.md).  | T  |
+| 1.3  | Basiskennis hebben van de betrokken bepalingen van de f-gassenverordening, richtlijn 2006/40/EG<sup>1</sup> en de ter uitvoering van die richtlijn relevante bepalingen in de Wegenverkeerswet en [Regeling voertuigen](../../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), de EG-verordening ozonlaagafbrekende stoffen, het [Uitvoeringsbesluit EG-verordening ozonlaagafbrekende stoffen](../../../../../../../../../AMvB/uitvoeringsbesluit/eg-verordening/ozonlaagafbrekende/stoffen/BWBR0030095/README.md), het [Besluit gefluoreerde broeikasgassen milieubeheer](../../../../../../../../../AMvB/besluit/gefluoreerde/broeikasgassen/wms/2007/BWBR0022857/README.md) en de Regeling gefluoreerde broeikasgassen en gereguleerde stoffen koelinstallaties.  | T  |
 | --- | --- | --- |
 | 2. Kennis over de milieuvriendelijke terugwinning van gefluoreerde broeikasgassen en gereguleerde stoffen  |
 | 2.1  | Kennis hebben van de gebruikelijke procedures voor de terugwinning van gefluoreerde broeikasgassen en gereguleerde stoffen.  | T  |
@@ -669,7 +688,7 @@ b. een praktijkgedeelte waarbij een deelnemer de bijbehorende opdracht verricht 
 
 <sup>1</sup>Richtlijn 2006/40/EG van het Europees Parlement en de Raad van de Europese Unie van 17 mei 2006 betreffende emissies van klimaatregelingsapparatuur in motorvoertuigen en houdende wijziging van Richtlijn 70/156/EEG van de Raad (PbEU L 161). 
 
-### Bijlage  IV  
+### Bijlage IV 
 
 ####, behorende bij artikel 11, derde lid 
 
@@ -691,7 +710,7 @@ c. het aantal collectieve en individuele examens en herexamens per examenlocatie
 
 5. De relevante onderdelen van de jaarrekening over het afgelopen kalenderjaar waaronder de verantwoording van de tariefstelling van de exameninstelling.   
 
-### Bijlage  V  
+### Bijlage V 
 
 ####, behorend bij artikel 23 
 
@@ -709,23 +728,23 @@ b. aan dit personeel ten aanzien van de werkzaamheden voorschriften kunnen worde
 
 c. een bedrijf te allen tijde aansprakelijk blijft voor het doen of nalaten van dit personeel (aansprakelijkheid); en  
 
-d. minimaal één van deze personen bij haar in dienst is met een arbeidsovereenkomst voor bepaalde of onbepaalde tijd, al dan niet in deeltijd.   Indien een bedrijf een eenmanszaak betreft is het gestelde in de aanhef en onder a van overeenkomstige toepassing op de eigenaar. <sup> 1  Om te controleren of een bedrijf beschikt over ‘voldoende’ personeel in relatie tot het ter zake te verwachten werkaanbod, beoordeelt de keuringsinstantie het huidige werkvolume en het verwachte werkvolume op het moment van de beoordeling.  </sup>  
+d. minimaal één van deze personen bij haar in dienst is met een arbeidsovereenkomst voor bepaalde of onbepaalde tijd, al dan niet in deeltijd.   Indien een bedrijf een eenmanszaak betreft is het gestelde in de aanhef en onder a van overeenkomstige toepassing op de eigenaar.<sup> 1 Om te controleren of een bedrijf beschikt over ‘voldoende’ personeel in relatie tot het ter zake te verwachten werkaanbod, beoordeelt de keuringsinstantie het huidige werkvolume en het verwachte werkvolume op het moment van de beoordeling. </sup>   
 
 2. Een bedrijf beschikt over de ‘noodzakelijke procedures’ (artikel 19, eerste lid, onder c), waaronder wordt verstaan dat een bedrijf, afhankelijk van de aard van de te verwachte werkzaamheden, beschikt over één of meerdere van volgende beschreven en voor het personeel beschikbare procedures: 
 
 a. Procedure voor het installeren van een stationaire of mobiele koelinstallatie. Deze bevat minimaal de volgende punten: 
 
-– een beschrijving van de adequate instrumenten waarmee bepaalde werkzaamheden in de procedure worden uitgevoerd;  
+– een beschrijving van de adequate instrumenten waarmee bepaalde werkzaamheden in de procedure worden uitgevoerd, waarbij onder adequate instrumenten worden verstaan instrumenten waarmee de werkzaamheden zodanig kunnen worden uitgevoerd dat lekkage van gefluoreerde broeikasgassen of gereguleerde stoffen kan worden voorkomen of tot een minimum kan worden beperkt;  
 
 – voor elke procedurestap die een diploma vereist volgens artikel 2, eerste lid, wordt aangegeven met welk diploma (of diploma’s) deze procedurestap mag worden uitgevoerd;  
 
 – welke voorzieningen of technieken moeten worden toegepast tijdens de bouw van een koelinstallatie ten behoeve van het voorkomen van lekkage zodra de koelinstallatie in gebruik wordt genomen;  
 
-– bepalingen voor de stationaire en mobiele koelinstallaties ten aanzien van het uitvoeren van lekcontroles overeenkomstig de EG-verordening standaardlekcontroles stationaire koelinstallaties, voor zover het gefluoreerde broeikasgassen betreft, en overeenkomstig de [Regeling lekdichtheid koelinstallaties in de gebruiksfase 2006](../../../../../../../../../ministeriele-regeling/regeling/lekdichtheid/koelinstallaties/in/de/gebruiksfase/2006/BWBR0020550/README.md), voor zover het gereguleerde stoffen betreft, zodra een stationaire of mobiele koelinstallatie hiermee is gevuld;    
+– bepalingen voor de stationaire en mobiele koelinstallaties ten aanzien van het uitvoeren van lekcontroles overeenkomstig de EG-verordening standaardlekcontroles stationaire koelinstallaties en de artikelen 29a en 29b;    
 
 b. Procedure voor het onderhouden van stationaire koelinstallaties die niet hermetisch gesloten zijn en minder dan drie kilogram gefluoreerde broeikasgassen of gereguleerde stoffen bevatten of die hermetisch gesloten zijn en minder dan zes kilogram gefluoreerde broeikasgassen of gereguleerde stoffen bevatten. Deze bevat minimaal de volgende punten: 
 
-– een beschrijving van de adequate instrumenten waarmee bepaalde werkzaamheden in de procedure worden uitgevoerd;  
+– een beschrijving van de adequate instrumenten waarmee bepaalde werkzaamheden in de procedure worden uitgevoerd, waarbij onder adequate instrumenten worden verstaan instrumenten waarmee de werkzaamheden zodanig kunnen worden uitgevoerd dat lekkage van gefluoreerde broeikasgassen of gereguleerde stoffen kan worden voorkomen of tot een minimum kan worden beperkt;  
 
 – voor elke procedurestap waarbij een diploma vereist is op grond van artikel 2, eerste lid, wordt aangegeven met welk diploma (of diploma’s) deze procedurestap mag worden uitgevoerd;  
 
@@ -739,11 +758,11 @@ b. Procedure voor het onderhouden van stationaire koelinstallaties die niet herm
 
 c. Procedure voor het onderhouden van stationaire koelinstallaties die niet hermetisch gesloten zijn en drie kilogram of meer gefluoreerde broeikasgassen of gereguleerde stoffen bevatten of die hermetisch gesloten zijn en zes kilogram of meer gefluoreerde broeikasgassen of gereguleerde stoffen bevatten en mobiele koelinstallaties. Deze bevat minimaal de volgende punten: 
 
-– een beschrijving van de adequate instrumenten waarmee bepaalde werkzaamheden in de procedure worden uitgevoerd;  
+– een beschrijving van de adequate instrumenten waarmee bepaalde werkzaamheden in de procedure worden uitgevoerd, waarbij onder adequate instrumenten worden verstaan instrumenten waarmee de werkzaamheden zodanig kunnen worden uitgevoerd dat lekkage van gefluoreerde broeikasgassen of gereguleerde stoffen kan worden voorkomen of tot een minimum kan worden beperkt;  
 
 – bij elke procedurestap waarbij een diploma vereist is op grond van artikel 2, eerste lid, wordt aangegeven met welk diploma (of diploma’s) deze procedurestap mag worden uitgevoerd;  
 
-– bepalingen voor de stationaire en mobiele koelinstallaties ten aanzien van het uitvoeren van lekcontroles overeenkomstig de EG-verordening standaardlekcontroles stationaire koelinstallaties, voor zover het gefluoreerde broeikasgassen betreft, en overeenkomstig de [Regeling lekdichtheid koelinstallaties in de gebruiksfase 2006](../../../../../../../../../ministeriele-regeling/regeling/lekdichtheid/koelinstallaties/in/de/gebruiksfase/2006/BWBR0020550/README.md), voor zover het gereguleerde stoffen betreft, waaronder instructies met betrekking tot het buiten bedrijf stellen van de stationaire of mobiele koelinstallatie ingeval een eventuele lekkage niet direct verholpen kan worden;  
+– bepalingen voor de stationaire en mobiele koelinstallaties ten aanzien van het uitvoeren van lekcontroles overeenkomstig de EG-verordening standaardlekcontroles stationaire koelinstallaties en de artikelen 29a en 29b;  
 
 – indien er sprake is van lekkage wordt de eigenaar of gebruiker van de stationaire of mobiele koelinstallatie er op geattendeerd dat deze de koelinstallatie binnen een maand na herstel van de lekkage opnieuw moet laten controleren;  
 
@@ -753,7 +772,7 @@ d. Procedure voor het bijhouden van een logboek bij de koelinstallatie (altijd);
 
 e. Procedure voor het bijhouden van de koudemiddelenregistratie.    
 
-3. Een bedrijf beschikt over ‘adequate’ instrumenten (artikel 19, eerste lid, onder c), Daaronder wordt verstaan: instrumenten die beschikbaar zijn voor het personeel en die voldoen aan de eisen gesteld in de relevante regelgeving (o.a. EG-verordening standaardlekcontroles stationaire koelinstallaties en de [Regeling lekdichtheid koelinstallaties in de gebruiksfase 2006](../../../../../../../../../ministeriele-regeling/regeling/lekdichtheid/koelinstallaties/in/de/gebruiksfase/2006/BWBR0020550/README.md)). Dit betekent dat deze instrumenten een ijking en gevoeligheid kennen (uitgedrukt in druk, p.p.m., etc.) die minimaal aan deze eisen voldoen.  
+3. Een bedrijf beschikt over ‘adequate’ instrumenten (artikel 19, eerste lid, onder c), Daaronder wordt verstaan: instrumenten die beschikbaar zijn voor het personeel en die voldoen aan de eisen gesteld in de relevante regelgeving (o.a. EG-verordening standaardlekcontroles stationaire koelinstallaties en artikel 29a). Dit betekent dat deze instrumenten een ijking en gevoeligheid kennen (uitgedrukt in druk, p.p.m., etc.) die minimaal aan deze eisen voldoen.  
 
 4. Een bedrijf beschikt over ‘voldoende’ instrumenten (artikel 19, eerste lid, onder c). Daaronder wordt verstaan dat het personeel dat verondersteld wordt gelijktijdig met deze instrumenten te werken hier ook daadwerkelijk over kan beschikken.  
 
@@ -761,29 +780,27 @@ e. Procedure voor het bijhouden van de koudemiddelenregistratie.
 
 a. Per individueel geïdentificeerde stationaire koelinstallatie die niet hermetisch gesloten is en drie kilogram of meer gefluoreerde broeikasgassen of gereguleerde stoffen bevat of die hermetisch gesloten is en zes kilogram of meer gefluoreerde broeikasgassen of gereguleerde stoffen bevat en mobiele koelinstallaties, die door een bedrijf wordt geïnstalleerd of onderhouden: 
 
-– het type koelinstallatie;  
+– het type koelinstallaties overeenkomstig de door het Intergovernmental Panel on Climate Change (IPCC) gehanteerde categorie-indeling in de ‘Guidelines for National Greenhouse Gas Inventories’;  
 
 – de totale nominale vulling van de koelinstallatie;  
 
-– het in de koelinstallatie aanwezige type gefluoreerde broeikasgas of gereguleerde stof, genoemd in bijlage I, deel 1, bij de f-gassenverordening, respectievelijk bijlage I bij de ozonverordening;  
+– het in de koelinstallatie aanwezige type gefluoreerde broeikasgas of gereguleerde stof, genoemd in bijlage I, deel 1, bij de f-gassenverordening, respectievelijk bijlage I bij de EG-verordening ozonlaagafbrekende stoffen;  
 
-– de resultaten van de uitgevoerde lekdichtheidscontroles;  
-
-– de hoeveelheid verbruikte of bijgevulde gefluoreerde broeikasgassen of gereguleerde stoffen, de reden van bijvulling, te specificeren naar nieuwbouw, retrofit, uitbreiding, bijvullen nominale vulling of lekkage;  
+– de hoeveelheid verbruikte of bijgevulde gefluoreerde broeikasgassen of gereguleerde stoffen, de reden van bijvulling, te specificeren naar nieuwbouw, retrofit of lekkage;  
 
 – de hoeveelheid afgetapte gefluoreerde broeikasgassen of gereguleerde stoffen, de reden van aftappen, te specificeren naar retrofit, noodzakelijk voor onderhoud, ontmanteling;    
 
-b. Per type gefluoreerde broeikasgas of gereguleerde stof, genoemd in bijlage I, deel 1, bij de f-gassenverordening, respectievelijk bijlage I bij de ozonverordening, een koudemiddelbalans, met daarin aangegeven per kalenderjaar: 
+b. Per type gefluoreerde broeikasgas of gereguleerde stof, genoemd in bijlage I, deel 1, bij de f-gassenverordening, respectievelijk bijlage I bij de EG-verordening ozonlaagafbrekende stoffen, een koudemiddelbalans, met daarin aangegeven per kalenderjaar: 
 
 – de totaal aanwezige voorraad per eerste en laatste dag van het kalenderjaar (berekend én gewogen);  
 
 – de totale hoeveelheid ingekochte gefluoreerde broeikasgassen of gereguleerde stoffen (in kilogram);  
 
-– de totale hoeveelheid verkochte gefluoreerde broeikasgassen of gereguleerde stoffen (in kilogram) ten behoeve van: nieuwbouw, retrofit, uitbreiding, bijvulling nominale vulling of lekkage;  
+– de totale hoeveelheid verkochte gefluoreerde broeikasgassen of gereguleerde stoffen (in kilogram) ten behoeve van: nieuwbouw, retrofit of lekkage;  
 
 – de totale hoeveelheid teruggenomen gefluoreerde broeikasgassen of gereguleerde stoffen (in kilogram) als gevolg van retrofit, onderhoud of ontmanteling;  
 
-– de totale hoeveelheid afgevoerd gefluoreerde broeikasgassen of gereguleerde stoffen (in kilogram).        
+– de totale hoeveelheid afgevoerd gefluoreerde broeikasgassen of gereguleerde stoffen (in kilogram).       
 
 ### 2  
 
@@ -819,7 +836,7 @@ d. een koudemiddelenregistratie waarin de gegevens, bedoeld in deze regeling, ku
 
 6. Zodra de keuringsinstantie een bedrijf een bedrijfscertificaat heeft verleend, wordt dat bedrijf opgenomen in het betreffende register van de keuringsinstantie.  
 
-7. De keuringsinstantie kan als sluitstuk van de bedrijfscertificering binnen zes maanden na afgifte van een bedrijfscertificaat de functionaliteit van de door een bedrijf opgestelde procedures bezien.    
+7. De keuringsinstantie kan als sluitstuk van de bedrijfscertificering binnen zes maanden na afgifte van een bedrijfscertificaat de functionaliteit van de door een bedrijf opgestelde procedures bezien.   
 
 ### 3  
 
@@ -853,7 +870,7 @@ d. of een bedrijf beschikt over voldoende en adequate instrumenten in het geval 
 
 7. Indien de keuringsinstantie besluit tot het tijdelijk of definitief intrekken (zie paragraaf 5) van een bedrijfscertificaat bericht zij dit schriftelijk aan een bedrijf.  
 
-8. Indien bij de tussentijdse beoordeling tekortkomingen waren geconstateerd, of indien een bedrijfscertificaat naar aanleiding van de tussentijdse beoordeling tijdelijk was ingetrokken en de tekortkoming nadien is hersteld, kan de keuringsinstantie als sluitstuk van de tussentijdse beoordeling binnen zes maanden na afloop van de tussentijdse beoordeling een aanvullende beoordeling uitvoeren.    
+8. Indien bij de tussentijdse beoordeling tekortkomingen waren geconstateerd, of indien een bedrijfscertificaat naar aanleiding van de tussentijdse beoordeling tijdelijk was ingetrokken en de tekortkoming nadien is hersteld, kan de keuringsinstantie als sluitstuk van de tussentijdse beoordeling binnen zes maanden na afloop van de tussentijdse beoordeling een aanvullende beoordeling uitvoeren.   
 
 ### 4  
 
@@ -869,7 +886,7 @@ De keuringsinstantie herkeurt een bedrijf na afgifte van een bedrijfscertificaat
 
 a. de gegevens in de koudemiddelenregistratie correct zijn bijgehouden over de afgelopen vierentwintig maanden;  
 
-b. het installeren en onderhouden, de lekcontroles en andere handelingen met gefluoreerde broeikasgassen en gereguleerde stoffen in de afgelopen vierentwintig maanden zijn uitgevoerd door daartoe adequaat gediplomeerde personeel.      
+b. het installeren en onderhouden, de lekcontroles en andere handelingen met gefluoreerde broeikasgassen en gereguleerde stoffen in de afgelopen vierentwintig maanden zijn uitgevoerd door daartoe adequaat gediplomeerde personeel.     
 
 ### 5  
 
@@ -899,9 +916,9 @@ f. een bedrijf niet kan aantonen dat de afgelopen vierentwintig maanden voor de 
 
 4. De keuringsinstantie besluit tot het definitief intrekken van een bedrijfscertificaat indien de tekortkoming niet meer ongedaan kan worden gemaakt of indien een bedrijf de tekortkoming die geleid heeft tot het tijdelijk intrekken van het certificaat niet binnen de door de keuringsinstantie gestelde termijn heeft verholpen.  
 
-5. Indien de keuringsinstantie heeft besloten een bedrijfscertificaat definitief in te trekken bericht de keuringsinstantie dit schriftelijk aan een bedrijf.    
+5. Indien de keuringsinstantie heeft besloten een bedrijfscertificaat definitief in te trekken bericht de keuringsinstantie dit schriftelijk aan een bedrijf.   
 
-### Bijlage  VI  
+### Bijlage VI 
 
 ####, behorend bij artikel 25, eerste lid, onder d 
 
@@ -911,19 +928,7 @@ Degene als bedoeld in artikel 25, eerste lid, onder d, die beoordelingen van bed
 
 ####Algemene eisen
 
-Hij: 
-
-a. beschikt over relevante koeltechnische werkervaring;  
-
-b. beschikt over goede sociale en communicatieve vaardigheden;  
-
-c. is accuraat, doortastend en zelfstandig;  
-
-d. heeft verantwoordelijkheidsbesef;  
-
-e. heeft een representatief voorkomen, en  
-
-f. is klantgericht, flexibel en integer.    
+Hij beschikt over relevante koeltechnische werkervaring. 
 
 ### B  
 
@@ -941,9 +946,9 @@ d. beschikt over relevante kennis van wet- en regelgeving op het gebied van gefl
 
 e. heeft basiskennis van de koeltechniek verkregen door opleiding of ervaring, en  
 
-f. heeft minimaal één jaar ervaring met controle- en auditwerkzaamheden.    
+f. heeft minimaal één jaar ervaring met controle- en auditwerkzaamheden.   
 
-### Bijlage  VII  
+### Bijlage VII 
 
 ####, behorend bij artikel 27, derde lid 
 

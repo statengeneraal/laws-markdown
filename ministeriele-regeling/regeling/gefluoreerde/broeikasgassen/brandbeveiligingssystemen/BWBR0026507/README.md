@@ -15,7 +15,7 @@ In deze regeling wordt verstaan onder:
 
 *deelnemer:* deelnemer aan het examen;  
 
-*EG-verordening brandbeveiligingssystemen:*verordening (EG) nr. 304/2008 van de Europese Commissie van 2 april 2008 tot vaststelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad, van minimumeisen en de voorwaarden voor wederzijdse erkenning voor de certificering van bedrijven en personeel op het gebied van stationaire brandbeveiligingssystemen en brandblusapparaten die bepaalde gefluoreerde broeikasgassen bevatten (PbEU L 92);  
+*EG-verordening brandbeveiligingssystemen:* verordening (EG) nr. 304/2008 van de Europese Commissie van 2 april 2008 tot vaststelling, ingevolge Verordening (EG) nr. 842/2006 van het Europees Parlement en de Raad, van minimumeisen en de voorwaarden voor wederzijdse erkenning voor de certificering van bedrijven en personeel op het gebied van stationaire brandbeveiligingssystemen en brandblusapparaten die bepaalde gefluoreerde broeikasgassen bevatten (PbEU L 92);  
 
 *examen:* examen als bedoeld in artikel 3, eerste lid;  
 
@@ -29,11 +29,11 @@ In deze regeling wordt verstaan onder:
 
 *lekcontrole:* controle op lekkage als bedoeld in artikel 3, tweede lid, van de f-gassenverordening;  
 
-*minister:* Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;  
+*minister:* Minister van Infrastructuur en Milieu;  
 
 *onderhouden:* alle werkzaamheden waarbij wordt gewerkt aan de blusmiddelen met gefluoreerde broeikasgassen bevattende houders of houders die daartoe ontworpen zijn, of aan de bijbehorende onderdelen, met uitzondering van die onderdelen die niet van invloed zijn op de insluiting van het blusmiddel voordat het wordt gebruikt om vuur te blussen;  
 
-*terugwinnen:* verzamelen en opslaan van gefluoreerde broeikasgassen tijdens onderhoud of voorafgaand aan de verwijdering van stationaire brandbeveiligingssystemen, brandblusapparaten of houders.    
+*terugwinnen:* verzamelen en opslaan van gefluoreerde broeikasgassen tijdens onderhoud of voorafgaand aan de verwijdering van stationaire brandbeveiligingssystemen, brandblusapparaten of houders.   
 
 ### Hoofdstuk  2  
 
@@ -54,7 +54,7 @@ b. het terugwinnen bij stationaire brandbeveiligingssystemen en brandblusapparat
 c. het installeren van stationaire brandbeveiligingssystemen;  
 
 d. het onderhouden van stationaire brandbeveiligingssystemen.     
-2.  Voor personen die voldoen aan artikel 4, tweede lid, van de EG-verordening brandbeveiligingssystemen is het eerste lid voor een periode van maximaal een jaar niet van toepassing, te rekenen vanaf de aanvangsdatum van de opleiding.   
+2.  Voor personen die voldoen aan artikel 4, tweede lid, van de EG-verordening brandbeveiligingssystemen is het eerste lid voor een periode van maximaal een jaar niet van toepassing, te rekenen vanaf de aanvangsdatum van de opleiding.  
 
 ### Paragraaf  2.2  
 
@@ -66,22 +66,22 @@ d. het onderhouden van stationaire brandbeveiligingssystemen.
 2.  Een persoon meldt zich voor het afleggen van het examen vooraf aan bij de betreffende exameninstelling.   
 3.  Tijdens het examen wordt getoetst of een deelnemer voldoet aan de exameneisen, die zijn neergelegd in de bijlage bij de EG-verordening brandbeveiligingssystemen.   
 4.  Onverminderd de artikelen 8, vijfde lid, onder c, en 17 is de geldigheidsduur van het diploma onbeperkt.   
-5.  Onder het examen wordt in deze regeling mede verstaan het herexamen, tenzij nadrukkelijk anders is bepaald.   
+5.  Onder het examen wordt in deze regeling mede verstaan het herexamen, tenzij nadrukkelijk anders is bepaald.  
 
 ### Artikel  4  
 
 1.  De minister stelt de inhoud van het examen vast waarmee getoetst wordt of een deelnemer voldoet aan de exameneisen, bedoeld in artikel 3, derde lid. Voorafgaande aan de vaststelling adviseert de exameninstelling de minister over de inhoud van het examen.   
-2.  Het examen bestaat uit een theorie- en een praktijkgedeelte.   
+2.  Het examen bestaat uit een theorie- en een praktijkgedeelte.  
 
 ### Artikel  5  
 
-De minister stelt de uitslag van het examen met inachtneming van het advies van de exameninstelling inzake de resultaten van het door een deelnemer afgelegde examen vast en draagt er zorg voor dat de uitslag binnen drie weken na ontvangst van dat advies aan een deelnemer wordt verzonden.  
+De minister stelt de uitslag van het examen met inachtneming van het advies van de exameninstelling inzake de resultaten van het door een deelnemer afgelegde examen vast en draagt er zorg voor dat de uitslag binnen drie weken na ontvangst van dat advies aan een deelnemer wordt verzonden. 
 
 ### Artikel  6  
 
 1.  Indien een deelnemer een of meer onderdelen van het examen niet met goed gevolg heeft afgelegd, wordt hij in de gelegenheid gesteld een herexamen te doen voor het betreffende onderdeel of de betreffende onderdelen.   
 2.  Het herexamen vindt plaats binnen zes maanden nadat een deelnemer van de resultaten van het examen op de hoogte is gesteld.   
-3.  Indien een deelnemer een of meer onderdelen van het herexamen niet met goed gevolg heeft afgelegd, is hij niet gerechtigd opnieuw herexamen te doen.   
+3.  Indien een deelnemer een of meer onderdelen van het herexamen niet met goed gevolg heeft afgelegd, is hij niet gerechtigd opnieuw herexamen te doen.  
 
 ### Artikel  7  
 
@@ -90,12 +90,12 @@ De minister stelt de uitslag van het examen met inachtneming van het advies van 
 3.  De exameninstelling doet de minister jaarlijks een voorstel voor de hoogte van de verschuldigde vergoeding voor het afleggen van het examen voor het volgende kalenderjaar. De minister stelt de hoogte van de vergoeding vast.   
 4.  De hoogte van de vergoeding, bedoeld in het eerste lid, bedraagt voor een examen of herexamen dat wordt afgelegd: 
 
-a. voor een examen of een herexamen op alle onderdelen: € 482,–;  
+a. voor een examen of een herexamen op alle onderdelen: € 405,– exclusief BTW;  
 
-c. voor een herexamen van het theoriegedeelte: € 143,–;  
+b. voor een herexamen van het theoriegedeelte: € 120,– exclusief BTW;  
 
-d. voor een herexamen van het praktijkgedeelte: € 339,–.     
-5.  De hoogte van de vergoeding, bedoeld in het eerste lid, is niet hoger dan de noodzakelijke kosten van de exameninstelling voor het afnemen van het examen.   
+c. voor een herexamen van het praktijkgedeelte: € 285,– exclusief BTW.    
+5.  De hoogte van de vergoeding, bedoeld in het eerste lid, is niet hoger dan de noodzakelijke kosten van de exameninstelling voor het afnemen van het examen.  
 
 ### Artikel  8  
 
@@ -127,7 +127,7 @@ a. dat een deelnemer voor een periode van ten hoogste zes maanden wordt uitgeslo
 
 b. tot ongeldigverklaring van het examen;  
 
-c. tot intrekking van een reeds verleend diploma als bedoeld in artikel 2, eerste lid.     
+c. tot intrekking van een reeds verleend diploma als bedoeld in artikel 2, eerste lid.    
 
 ### Paragraaf  2.3  
 
@@ -151,7 +151,7 @@ f. het factureren van de vergoeding, bedoeld in artikel 7, eerste lid, aan een d
 
 g. het binnen drie weken na afloop van het examen uitbrengen van het advies, bedoeld in artikel 5, en  
 
-h. het registeren van individuele en algemene resultaten van de examens.    
+h. het registeren van individuele en algemene resultaten van de examens.   
 
 ### Artikel  10  
 
@@ -185,18 +185,18 @@ c. ten minste dertien weken na de dag waarop het beroep onherroepelijk is, indie
 4.  De exameninstelling neemt bij de uitvoering van de werkzaamheden het examenreglement en het huishoudelijke reglement in acht en voldoet bij voortduring aan de voorwaarde, bedoeld in het eerste lid, onder a.   
 5.  De exameninstelling neemt afdoende maatregelen om fraude voor, tijdens en na het examen te voorkomen.   
 6.  Indien de exameninstelling niet meer voldoet aan een of meer van haar verplichtingen, bericht zij dit onverwijld schriftelijk aan de minister.   
-7.  De minister overlegt periodiek met alle exameninstellingen. De exameninstellingen zijn verplicht aan dit overleg deel te nemen.   
+7.  De minister overlegt periodiek met alle exameninstellingen. De exameninstellingen zijn verplicht aan dit overleg deel te nemen.  
 
 ### Artikel  11  
 
 1.  Een instelling kan een aanvraag voor een aanwijzing als bedoeld in artikel 10, eerste lid, indienen bij de minister.   
-2.  Bij de aanvraag toont de instelling aan dat zij voldoet aan de eisen genoemd in artikel 10, eerste lid, door overlegging van de daarvoor noodzakelijke gegevens en bescheiden.   
+2.  Bij de aanvraag toont de instelling aan dat zij voldoet aan de eisen genoemd in artikel 10, eerste lid, door overlegging van de daarvoor noodzakelijke gegevens en bescheiden.  
 
 ### Artikel  12  
 
 1.  De exameninstelling verstrekt desgevraagd aan de minister alle voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van alle zakelijke gegevens en bescheiden, indien dat voor de vervulling van zijn taak redelijkerwijs nodig is.   
 2.  De exameninstelling zendt elk jaar een jaarverslag aan de minister waarin verantwoording wordt afgelegd over de wijze waarop zij in het voorafgaande kalenderjaar uitvoering heeft gegeven aan haar taken en verplichtingen voortvloeiend uit deze regeling.   
-3.  Het jaarverslag wordt opgesteld met inachtneming van de richtsnoeren, bedoeld in bijlage I bij deze regeling.   
+3.  Het jaarverslag wordt opgesteld met inachtneming van de richtsnoeren, bedoeld in bijlage I bij deze regeling.  
 
 ### Paragraaf  2.4  
 
@@ -206,7 +206,7 @@ c. ten minste dertien weken na de dag waarop het beroep onherroepelijk is, indie
 
 1.  De minister kan de aanwijzing van de exameninstelling schorsen, indien de instelling naar het oordeel van de minister een of meer van de taken of verplichtingen, bedoeld in de artikelen 9, 10 en 12, niet of onvoldoende uitvoert respectievelijk nakomt.   
 2.  In geval van schorsing geeft de minister de exameninstelling gedurende een door hem te bepalen periode de gelegenheid de tekortkoming ongedaan te maken.   
-3.  Indien de tekortkoming door de exameninstelling binnen de door de minister gestelde termijn naar het oordeel van de minister ongedaan is gemaakt wordt de schorsing van de aanwijzing opgeheven.   
+3.  Indien de tekortkoming door de exameninstelling binnen de door de minister gestelde termijn naar het oordeel van de minister ongedaan is gemaakt wordt de schorsing van de aanwijzing opgeheven.  
 
 ### Artikel  14  
 
@@ -220,7 +220,7 @@ c. de instelling niet meewerkt aan een controle door de minister in het kader va
 
 d. de aanwijzing ingevolge artikel 13, eerste lid, is geschorst en de tekortkoming binnen de door de minister gestelde termijn niet ongedaan is gemaakt, of  
 
-e. de exameninstelling surseance van betaling is verleend of in staat van faillissement verkeert.    
+e. de exameninstelling surseance van betaling is verleend of in staat van faillissement verkeert.   
 
 ### Paragraaf  2.5  
 
@@ -229,24 +229,19 @@ e. de exameninstelling surseance van betaling is verleend of in staat van failli
 ### Artikel  15  
 
 1.  De minister verstrekt het diploma aan een deelnemer die met gunstig gevolg het examen heeft afgelegd.   
-2.  De minister registreert aan wie een diploma als bedoeld in artikel 2, eerste lid, is uitgereikt. Deze gegevens worden bewaard totdat de betrokkene de pensioengerechtigde leeftijd heeft bereikt doch ten minste vijf jaar.   
+2.  De minister registreert aan wie een diploma als bedoeld in artikel 2, eerste lid, is uitgereikt. Deze gegevens worden bewaard totdat de betrokkene de pensioengerechtigde leeftijd heeft bereikt doch ten minste vijf jaar.  
 
 ### Artikel  16  
 
-Het diploma vermeldt ten minste de gegevens, bedoeld in artikel 5, tweede lid, van de EG-verordening brandbeveiligingssystemen.  
+Het diploma vermeldt ten minste de gegevens, bedoeld in artikel 5, tweede lid, van de EG-verordening brandbeveiligingssystemen. 
 
 ### Artikel  17  
 
-Indien degene die een diploma bezit bij voortduring in strijd handelt met deze regeling of [artikel 3 van het Besluit gefluoreerde broeikasgassen milieubeheer](../../../../../../AMvB/besluit/gefluoreerde/broeikasgassen/wms/2007/BWBR0022857/README.md) kan de minister tot intrekking van het diploma besluiten. In dat geval levert de betrokkene zijn diploma in bij de minister.  
+Indien degene die een diploma bezit bij voortduring in strijd handelt met deze regeling of [artikel 3 van het Besluit gefluoreerde broeikasgassen milieubeheer](../../../../../../AMvB/besluit/gefluoreerde/broeikasgassen/wms/2007/BWBR0022857/README.md) kan de minister tot intrekking van het diploma besluiten. In dat geval levert de betrokkene zijn diploma in bij de minister. 
 
 ### Paragraaf  2.6  
 
 ####Vergoeding aan de minister
-
-### Artikel  18  
-
-1.  Een deelnemer is aan de minister een vergoeding verschuldigd voor het ontvangen van de uitslag van het examen.   
-2.  De hoogte van de vergoeding, bedoeld in het eerste lid, bedraagt: € 20,–.   
 
 ### Hoofdstuk  3  
 
@@ -258,7 +253,7 @@ Indien degene die een diploma bezit bij voortduring in strijd handelt met deze r
 
 ### Artikel  19  
 
-Een bedrijf dat stationaire brandbeveiligingssystemen installeert of onderhoudt mag deze werkzaamheden uitsluitend verrichten indien het beschikt over een geldig bedrijfscertificaat dat is afgegeven door een keuringsinstantie.  
+Een bedrijf dat stationaire brandbeveiligingssystemen installeert of onderhoudt mag deze werkzaamheden uitsluitend verrichten indien het beschikt over een geldig bedrijfscertificaat dat is afgegeven door een keuringsinstantie. 
 
 ### Artikel  20  
 
@@ -275,10 +270,10 @@ a. een overzicht van de beschikbaarheid van het personeel, bedoeld in het eerste
 
 b. een document waarin de voor het personeel noodzakelijke instrumenten en procedures zijn beschreven, en  
 
-c. het registratienummer uit het handelsregister.     
+c. het registratienummer uit het handelsregister.    
 3.  Een bedrijf als bedoeld in artikel 19 kan een aanvraag voor een bedrijfscertificaat indienen bij een keuringinstantie.   
 4.  Een bedrijf voldoet na afgifte van het bedrijfscertificaat bij voortduring aan de eisen, bedoeld in het eerste lid.   
-5.  Indien het bedrijf niet meer voldoet aan de eisen op basis waarvan het bedrijfscertificaat is verleend, bericht zij dit onverwijld schriftelijk aan de keuringsinstantie.   
+5.  Indien het bedrijf niet meer voldoet aan de eisen op basis waarvan het bedrijfscertificaat is verleend, bericht zij dit onverwijld schriftelijk aan de keuringsinstantie.  
 
 ### Artikel  21  
 
@@ -290,12 +285,12 @@ b. een registratienummer afgegeven door de keuringsinstantie;
 
 c. de werkzaamheden, bedoeld in artikel 19, die degene die in het bezit is van het bedrijfscertificaat bevoegd is te verrichten;  
 
-d. de datum van afgifte en de ondertekening door een vertegenwoordiger van de keuringinstantie.    
+d. de datum van afgifte en de ondertekening door een vertegenwoordiger van de keuringinstantie.   
 
 ### Artikel  22  
 
 1.  De keuringinstantie voert vierentwintig maanden na afgifte van het bedrijfscertificaat een tussentijdse beoordeling uit waarbij wordt bezien of een bedrijf nog voldoet aan de eisen, genoemd in artikel 20, eerste lid. De tussentijdse beoordeling wordt vervolgens iedere achtenveertig maanden herhaald.   
-2.  De keuringsinstantie voert achtenveertig maanden na afgifte van het bedrijfscertificaat een herkeuring uit waarbij wordt beoordeeld of het bedrijf nog voldoet aan de eisen, genoemd in artikel 20, eerste lid. De herkeuring wordt vervolgens iedere achtenveertig maanden herhaald.   
+2.  De keuringsinstantie voert achtenveertig maanden na afgifte van het bedrijfscertificaat een herkeuring uit waarbij wordt beoordeeld of het bedrijf nog voldoet aan de eisen, genoemd in artikel 20, eerste lid. De herkeuring wordt vervolgens iedere achtenveertig maanden herhaald.  
 
 ### Artikel  23  
 
@@ -311,11 +306,11 @@ d. het bedrijf surseance van betaling is verleend of in staat van faillissement 
 2.  Bij een tijdelijke intrekking stelt de keuringinstantie een bedrijf gedurende een door de keuringinstantie te bepalen periode in de gelegenheid de tekortkoming ongedaan te maken.   
 3.  Indien de tekortkoming door een bedrijf binnen de door de keuringinstantie gestelde termijn naar het oordeel van de keuringinstantie ongedaan is gemaakt, wordt de tijdelijke intrekking van het bedrijfscertificaat opgeheven.   
 4.  De keuringinstantie kan een bedrijfscertificaat in ieder geval definitief intrekken, indien het bedrijfscertificaat tijdelijk is ingetrokken en de tekortkoming binnen de door de keuringinstantie gestelde termijn niet ongedaan is gemaakt.   
-5.  Indien de aanwijzing van de keuringsinstantie ingevolge artikel 30, eerste lid, wordt ingetrokken, vervalt het oorspronkelijke bedrijfscertificaat van rechtswege na vierentwintig maanden te rekenen vanaf de dag van de intrekking van de aanwijzing, of zoveel eerder als dat een nieuw bedrijfscertificaat door een andere keuringsinstantie is verleend.   
+5.  Indien de aanwijzing van de keuringsinstantie ingevolge artikel 30, eerste lid, wordt ingetrokken, vervalt het oorspronkelijke bedrijfscertificaat van rechtswege na vierentwintig maanden te rekenen vanaf de dag van de intrekking van de aanwijzing, of zoveel eerder als dat een nieuw bedrijfscertificaat door een andere keuringsinstantie is verleend.  
 
 ### Artikel  24  
 
-De keuringsinstantie neemt bij de certificering, tussentijdse beoordeling en herkeuring van bedrijven, bedoeld in de artikelen 20 en 22 en de tijdelijke en definitieve intrekking van bedrijfscertificaten, bedoeld in artikel 23, de bepalingen die zijn neergelegd in bijlage II bij deze regeling in acht.  
+De keuringsinstantie neemt bij de certificering, tussentijdse beoordeling en herkeuring van bedrijven, bedoeld in de artikelen 20 en 22 en de tijdelijke en definitieve intrekking van bedrijfscertificaten, bedoeld in artikel 23, de bepalingen die zijn neergelegd in bijlage II bij deze regeling in acht. 
 
 ### Paragraaf  3.2  
 
@@ -323,7 +318,7 @@ De keuringsinstantie neemt bij de certificering, tussentijdse beoordeling en her
 
 ### Artikel  25  
 
-De keuringinstantie is belast met het beoordelen van bedrijven in het kader van deze regeling, het afgeven van bedrijfscertificaten en het in voorkomende gevallen tijdelijk of definitief intrekken hiervan.  
+De keuringinstantie is belast met het beoordelen van bedrijven in het kader van deze regeling, het afgeven van bedrijfscertificaten en het in voorkomende gevallen tijdelijk of definitief intrekken hiervan. 
 
 ### Artikel  26  
 
@@ -339,18 +334,18 @@ d. zij beschikt over personeel dat voor het uitvoeren van de beoordelingen van d
 2.  De keuringinstantie bewaart de gegevens, bedoeld in het eerste lid, onder b, ten minste vijf jaar.   
 3.  De keuringinstantie neemt bij de uitvoering van de werkzaamheden ingevolge paragraaf 3.1 van deze regeling het reglement, bedoeld in het eerste lid, onder c, in acht en voldoet bij voortduring aan de voorwaarden, bedoeld in het eerste lid.   
 4.  Indien de keuringsinstantie niet meer voldoet aan een of meer van haar verplichtingen, bericht zij dit onverwijld schriftelijk aan de minister.   
-5.  De minister overlegt periodiek met alle keuringinstanties. De keuringinstanties zijn verplicht aan dit overleg deel te nemen.   
+5.  De minister overlegt periodiek met alle keuringinstanties. De keuringinstanties zijn verplicht aan dit overleg deel te nemen.  
 
 ### Artikel  27  
 
 1.  Een instantie kan een aanvraag voor een aanwijzing als bedoeld in artikel 26, eerste lid, indienen bij de minister.   
-2.  Bij de aanvraag toont de instantie aan dat zij voldoet aan de eisen, genoemd in artikel 26, eerste lid, door overlegging van de daarvoor noodzakelijke gegevens en bescheiden die direct of indirect van belang zijn voor de beoordeling van de aanvraag.   
+2.  Bij de aanvraag toont de instantie aan dat zij voldoet aan de eisen, genoemd in artikel 26, eerste lid, door overlegging van de daarvoor noodzakelijke gegevens en bescheiden die direct of indirect van belang zijn voor de beoordeling van de aanvraag.  
 
 ### Artikel  28  
 
 1.  De keuringinstantie verstrekt desgevraagd aan de minister alle voor de uitoefening van zijn taak benodigde inlichtingen. De minister kan inzage vorderen van alle zakelijke gegevens en bescheiden, indien dat voor de vervulling van zijn taak redelijkerwijs nodig is.   
 2.  De keuringinstantie stuurt elk jaar een jaarverslag aan de minister waarin verantwoording wordt afgelegd over de wijze waarop zij in het voorafgaande kalenderjaar uitvoering heeft gegeven aan haar taken en verplichtingen voortvloeiende uit deze regeling.   
-3.  Het jaarverslag wordt opgesteld met inachtneming van de richtsnoeren, die zijn neergelegd in bijlage IV bij deze regeling.   
+3.  Het jaarverslag wordt opgesteld met inachtneming van de richtsnoeren, die zijn neergelegd in bijlage IV bij deze regeling.  
 
 ### Paragraaf  3.3  
 
@@ -364,7 +359,7 @@ a. niet meer voldoet aan een of meer van de verplichtingen, bedoeld in de artike
 
 b. niet geacht wordt in staat te zijn een of meer van de werkzaamheden, bedoeld in paragraaf 3.1, naar behoren uit te voeren.     
 2.  Bij schorsing geeft de minister de keuringinstantie gedurende een door hem te bepalen periode gelegenheid de tekortkoming ongedaan te maken.   
-3.  Indien de tekortkoming door de keuringinstantie binnen de door de minister gestelde termijn naar het oordeel van de minister ongedaan is gemaakt wordt de schorsing opgeheven.   
+3.  Indien de tekortkoming door de keuringinstantie binnen de door de minister gestelde termijn naar het oordeel van de minister ongedaan is gemaakt wordt de schorsing opgeheven.  
 
 ### Artikel  30  
 
@@ -382,7 +377,7 @@ e. de aanwijzing ingevolge artikel 29, eerste lid, is geschorst en de tekortkomi
 
 f. de instantie surseance van betaling is verleend of in staat van faillissement verkeert.     
 2.  De keuringsinstantie overlegt bij intrekking van de aanwijzing aan de minister alle relevante inlichtingen en bescheiden, waaronder het register, bedoeld in artikel 26, eerste lid, onder b.   
-3.  De keuringsinstantie stelt de betrokken bedrijven onverwijld op de hoogte van het besluit van de minister tot intrekking van de aanwijzing.   
+3.  De keuringsinstantie stelt de betrokken bedrijven onverwijld op de hoogte van het besluit van de minister tot intrekking van de aanwijzing.  
 
 ### Hoofdstuk  4  
 
@@ -391,7 +386,7 @@ f. de instantie surseance van betaling is verleend of in staat van faillissement
 ### Artikel  31  
 
 1.  Een diploma voor het verrichten van lekcontroles van brandbeveiligingssystemen die drie kilogram of meer gefluoreerde broeikasgassen bevatten, en voor het terugwinnen bij en het, installeren en onderhouden van brandbeveiligingssystemen en voor het terugwinnen bij brandblusapparaten dat na 14 oktober 2009 en voor 1 januari 2010 door de minister is verstrekt, wordt aangemerkt als een diploma als bedoeld in artikel 2, eerste lid.   
-2.  Een bedrijf dat beschikt over een geldig bedrijfscertificaat ‘blusgasinstallatiebedrijf’ dat door LPCB Nederland B.V. is afgegeven wordt geacht tot 1 juli 2010 in het bezit te zijn van een tussentijds bedrijfscertificaat ten behoeve van het kunnen verrichten van werkzaamheden als bedoeld in artikel 19.   
+2.  Een bedrijf dat beschikt over een geldig bedrijfscertificaat ‘blusgasinstallatiebedrijf’ dat door LPCB Nederland B.V. is afgegeven wordt geacht tot 1 juli 2010 in het bezit te zijn van een tussentijds bedrijfscertificaat ten behoeve van het kunnen verrichten van werkzaamheden als bedoeld in artikel 19.  
 
 ### Hoofdstuk  5  
 
@@ -399,11 +394,11 @@ f. de instantie surseance van betaling is verleend of in staat van faillissement
 
 ### Artikel  32  
 
-Deze regeling treedt in werking met ingang van 1 januari 2010.  
+Deze regeling treedt in werking met ingang van 1 januari 2010. 
 
 ### Artikel  33  
 
-Deze regeling wordt aangehaald als: Regeling gefluoreerde broeikasgassen brandbeveiligingssystemen.  
+Deze regeling wordt aangehaald als: Regeling gefluoreerde broeikasgassen brandbeveiligingssystemen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -411,9 +406,9 @@ Den Haag
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J.M.Cramer  
+J.M. Cramer    
 
-### Bijlage  I  
+### Bijlage I 
 
 ####, behorende bij artikel 12, derde lid 
 
@@ -435,7 +430,7 @@ c. het aantal collectieve en individuele examens en herexamens per examenlocatie
 
 5. De relevante onderdelen van de jaarrekening over het afgelopen kalenderjaar waaronder de verantwoording van de tariefstelling van de exameninstelling.   
 
-### Bijlage  II  
+### Bijlage II 
 
 ####, behorend bij artikel 24 
 
@@ -453,7 +448,7 @@ b. aan dit personeel ten aanzien van de werkzaamheden voorschriften kunnen worde
 
 c. een bedrijf te allen tijde aansprakelijk blijft voor het doen of nalaten van dit personeel (aansprakelijkheid); en  
 
-d. minimaal één van deze personen bij haar in dienst is met een arbeidsovereenkomst voor bepaalde of onbepaalde tijd, al dan niet in deeltijd.   Indien een bedrijf een eenmanszaak betreft is het gestelde in de aanhef en onder a van overeenkomstige toepassing op de eigenaar. <sup> 1  Om te controleren of een bedrijf beschikt over ‘voldoende’ personeel in relatie tot het ter zake te verwachten werkaanbod, beoordeelt de keuringinstantie het huidige werkvolume en het verwachte werkvolume op het moment van de beoordeling.  </sup>  
+d. minimaal één van deze personen bij haar in dienst is met een arbeidsovereenkomst voor bepaalde of onbepaalde tijd, al dan niet in deeltijd.   Indien een bedrijf een eenmanszaak betreft is het gestelde in de aanhef en onder a van overeenkomstige toepassing op de eigenaar.<sup> 1 Om te controleren of een bedrijf beschikt over ‘voldoende’ personeel in relatie tot het ter zake te verwachten werkaanbod, beoordeelt de keuringinstantie het huidige werkvolume en het verwachte werkvolume op het moment van de beoordeling. </sup>   
 
 2. Een bedrijf beschikt over de ‘noodzakelijke procedures’ (artikel 20, eerste lid, onder c), waaronder wordt verstaan dat een bedrijf, afhankelijk van de aard van de te verwachten werkzaamheden, beschikt over één of meerdere van volgende beschreven en voor het personeel beschikbare procedures: 
 
@@ -491,7 +486,7 @@ d. Procedure voor het bijhouden van een logboek bij het stationaire brandbeveili
 
 3. Een bedrijf beschikt over ‘adequate’ instrumenten (artikel 20, eerste lid, onder c), Daaronder wordt verstaan: instrumenten die beschikbaar zijn voor het personeel en die voldoen aan de eisen gesteld in de relevante regelgeving (o.a. EG-verordening standaardlekcontroles brandbeveiligingssystemen). Dit betekent dat deze instrumenten een ijking en gevoeligheid kennen (uitgedrukt in druk, p.p.m., etc.) die minimaal aan deze eisen voldoen.  
 
-4. Een bedrijf beschikt over ‘voldoende’ instrumenten (artikel 20, eerste lid, onder c). Daaronder wordt verstaan dat het personeel dat verondersteld wordt gelijktijdig met deze instrumenten te werken hier ook daadwerkelijk over kan beschikken.    
+4. Een bedrijf beschikt over ‘voldoende’ instrumenten (artikel 20, eerste lid, onder c). Daaronder wordt verstaan dat het personeel dat verondersteld wordt gelijktijdig met deze instrumenten te werken hier ook daadwerkelijk over kan beschikken.   
 
 ### 2  
 
@@ -521,7 +516,7 @@ c. voldoende en adequate instrumenten om de verwachte werkzaamheden en het verwa
 
 6. Zodra de keuringsinstantie een bedrijf een bedrijfscertificaat heeft verleend, wordt dat bedrijf opgenomen in het betreffende register van de keuringsinstantie.  
 
-7. De keuringsinstantie kan als sluitstuk van de bedrijfscertificering binnen zes maanden na afgifte van een bedrijfscertificaat de functionaliteit van de door een bedrijf opgestelde procedures bezien.    
+7. De keuringsinstantie kan als sluitstuk van de bedrijfscertificering binnen zes maanden na afgifte van een bedrijfscertificaat de functionaliteit van de door een bedrijf opgestelde procedures bezien.   
 
 ### 3  
 
@@ -549,7 +544,7 @@ d. of een bedrijf beschikt over voldoende en adequate instrumenten in het geval 
 
 6. Indien de keuringsinstantie besluit tot het tijdelijk of definitief intrekken (zie paragraaf 5) van een bedrijfscertificaat bericht zij dit schriftelijk aan een bedrijf.  
 
-7. Indien bij de tussentijdse beoordeling tekortkomingen waren geconstateerd, of indien een bedrijfscertificaat naar aanleiding van de tussentijdse beoordeling tijdelijk was ingetrokken en de tekortkoming nadien is hersteld, kan de keuringsinstantie als sluitstuk van de tussentijdse beoordeling binnen zes maanden na afloop van die beoordeling een aanvullende beoordeling uitvoeren.    
+7. Indien bij de tussentijdse beoordeling tekortkomingen waren geconstateerd, of indien een bedrijfscertificaat naar aanleiding van de tussentijdse beoordeling tijdelijk was ingetrokken en de tekortkoming nadien is hersteld, kan de keuringsinstantie als sluitstuk van de tussentijdse beoordeling binnen zes maanden na afloop van die beoordeling een aanvullende beoordeling uitvoeren.   
 
 ### 4  
 
@@ -561,7 +556,7 @@ De keuringsinstantie herkeurt een bedrijf na afgifte van een bedrijfscertificaat
 
 2. Voor de herkeuring is paragraaf 2, onder 2 tot en met 4, en paragraaf 3, onder 4 tot en met 7, van overeenkomstige toepassing.  
 
-3. De herkeuring wordt aangevuld met een beoordeling of het installeren en onderhouden, de lekcontroles en andere handelingen met gefluoreerde broeikasgassen in de afgelopen vierentwintig maanden zijn uitgevoerd door daartoe adequaat gediplomeerde personeel.    
+3. De herkeuring wordt aangevuld met een beoordeling of het installeren en onderhouden, de lekcontroles en andere handelingen met gefluoreerde broeikasgassen in de afgelopen vierentwintig maanden zijn uitgevoerd door daartoe adequaat gediplomeerde personeel.   
 
 ### 5  
 
@@ -587,9 +582,9 @@ e. een bedrijf niet kan aantonen dat de afgelopen vierentwintig maanden voor de 
 
 4. De keuringsinstantie besluit tot het definitief intrekken van een bedrijfscertificaat indien de tekortkoming niet meer ongedaan kan worden gemaakt of indien een bedrijf de tekortkoming die geleid heeft tot het tijdelijk intrekken van het certificaat niet binnen de door de keuringsinstantie gestelde termijn heeft verholpen.  
 
-5. Indien de keuringsinstantie heeft besloten een bedrijfscertificaat definitief in te trekken bericht de keuringsinstantie dit schriftelijk aan een bedrijf.    
+5. Indien de keuringsinstantie heeft besloten een bedrijfscertificaat definitief in te trekken bericht de keuringsinstantie dit schriftelijk aan een bedrijf.   
 
-### Bijlage  III  
+### Bijlage III 
 
 ####, behorend bij artikel 26, eerste lid, onder d 
 
@@ -611,7 +606,7 @@ d. heeft verantwoordelijkheidsbesef;
 
 e. heeft een representatief voorkomen, en  
 
-f. is klantgericht, flexibel en integer.    
+f. is klantgericht, flexibel en integer.   
 
 ### B  
 
@@ -629,9 +624,9 @@ d. heeft relevante kennis van wet- en regelgeving op het gebied van gefluoreerde
 
 e. beschikt over basiskennis van stationaire brandbeveiligingssystemen verkregen door opleiding of ervaring, en  
 
-f. heeft minimaal één jaar ervaring met controle- en auditwerkzaamheden.    
+f. heeft minimaal één jaar ervaring met controle- en auditwerkzaamheden.   
 
-### Bijlage  IV  
+### Bijlage IV 
 
 ####, behorend bij artikel 28, derde lid 
 

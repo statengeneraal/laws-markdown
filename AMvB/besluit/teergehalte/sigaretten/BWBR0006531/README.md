@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van 21 maart 1994, tot uitvoering van artikel 2, tweede lid, van de Tabakswet
+##Besluit van 21 maart 1994 tot uitvoering van artikel 2, tweede lid, van de Tabakswet (Besluit teergehalte sigaretten)
 
 Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Nassau, enz. enz. enz.
 
@@ -21,7 +21,7 @@ a. teer: het ongezuiverde water- en nicotinevrije condensaat van rook;
 
 b. nicotine: nicotinealkaloïden;  
 
-c. ingrediënten: stoffen of bestanddelen, met uitzondering van tabaksbladeren en andere natuurlijke of niet-getransformeerde delen van de tabaksplant, die bij de productie of de bereiding van tabaksproducten worden gebruikt en nog in het eindproduct aanwezig zijn, al dan niet in gewijzigde vorm, met inbegrip van papier, filter, inkt en kleefstoffen.    
+c. ingrediënten: stoffen of bestanddelen, met uitzondering van tabaksbladeren en andere natuurlijke of niet-getransformeerde delen van de tabaksplant, die bij de productie of de bereiding van tabaksproducten worden gebruikt en nog in het eindproduct aanwezig zijn, al dan niet in gewijzigde vorm, met inbegrip van papier, filter, inkt en kleefstoffen.   
 
 ### Artikel  2  
 
@@ -33,20 +33,20 @@ a. 10 milligram teer;
 b. 1 milligram nicotine;  
 
 c. 10 milligram koolmonoxide.     
-3.  Tot 1 januari 2007 geldt het tweede lid niet voor sigaretten die voor export naar landen buiten de Europese Unie bestemd zijn.   
+3.  Tot 1 januari 2007 geldt het tweede lid niet voor sigaretten die voor export naar landen buiten de Europese Unie bestemd zijn.  
 
 ### Artikel  3  
 
 1.  Met ingang van 1 mei 2004 is het teergehalte van shag zodanig dat het gehalte in een shagje van 750 milligram niet meer dan 12 milligram bedraagt.   
-2.  Shag die vóór 1 mei 2004 is vervaardigd en niet voldoet aan de in het eerste lid gestelde eis, mag bedrijfsmatig worden verstrekt of daartoe aanwezig zijn tot 1 mei 2005.   
+2.  Shag die vóór 1 mei 2004 is vervaardigd en niet voldoet aan de in het eerste lid gestelde eis, mag bedrijfsmatig worden verstrekt of daartoe aanwezig zijn tot 1 mei 2005.  
 
 ### Artikel  4  
 
-Bij regeling van Onze Minister worden methoden van onderzoek aangewezen, die bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot een sigaret of een shagje aan de in dit besluit gestelde eisen ter zake van de gehaltes aan teer, nicotine of koolmonoxide is voldaan.  
+Bij regeling van Onze Minister worden methoden van onderzoek aangewezen, die bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot een sigaret of een shagje aan de in dit besluit gestelde eisen ter zake van de gehaltes aan teer, nicotine of koolmonoxide is voldaan. 
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: Besluit maximumgehaltes aan teer, nicotine en koolmonoxide in sigaretten en shag.  
+Dit besluit wordt aangehaald als: Besluit maximumgehaltes aan teer, nicotine en koolmonoxide in sigaretten en shag. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 
