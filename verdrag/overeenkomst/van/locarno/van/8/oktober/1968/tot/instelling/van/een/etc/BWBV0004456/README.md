@@ -8,110 +8,110 @@
 
 ####Establishment of a Special Union; Adoption of an International Classification
 
-(1).  The countries to which this Agreement applies constitute a Special Union.   
-(2).  They adopt a single classification for industrial designs (hereinafter designated as “the international classification”).   
-(3).  The international classification shall comprise: 
+(1). The countries to which this Agreement applies constitute a Special Union.
+(2). They adopt a single classification for industrial designs (hereinafter designated as “the international classification”).
+(3). The international classification shall comprise:
 
-(i) a list of classes and subclasses;  
+(i)a list of classes and subclasses;
 
-(ii) an alphabetical list of goods in which industrial designs are incorporated, with an indication of the classes and subclasses into which they fall;  
+(ii)an alphabetical list of goods in which industrial designs are incorporated, with an indication of the classes and subclasses into which they fall;
 
-(iii) explanatory notes.     
-(4).  The list of classes and subclasses is the list annexed to the present Agreement, subject to such amendments and additions as the Committee of Experts set up under Article 3 (hereinafter designated as “the Committee of Experts”) may make to it.   
-(5).  The alphabetical list of goods and the explanatory notes shall be adopted by the Committee of Experts in accordance with the procedure laid down in Article 3.   
-(6).  The international classification may be amended or supplemented by the Committee of Experts, in accordance with the procedure laid down in Article 3.   
-(7).  
+(iii)explanatory notes.
+(4). The list of classes and subclasses is the list annexed to the present Agreement, subject to such amendments and additions as the Committee of Experts set up under Article 3 (hereinafter designated as “the Committee of Experts”) may make to it.
+(5). The alphabetical list of goods and the explanatory notes shall be adopted by the Committee of Experts in accordance with the procedure laid down in Article 3.
+(6). The international classification may be amended or supplemented by the Committee of Experts, in accordance with the procedure laid down in Article 3.
+(7). 
 
-(a) The international classification shall be established in the English and French languages.  
+(a)The international classification shall be established in the English and French languages.
 
-(b) Official texts of the international classification, in such other languages as the Assembly referred to in Article 5 may designate, shall be established, after consultation with the interested Governments, by the International Bureau of Intellectual Property (hereinafter designated as “the International Bureau”) referred to in the Convention establishing the World Intellectual Property Organization (hereinafter designated as “the Organisation”).     
+(b)Official texts of the international classification, in such other languages as the Assembly referred to in Article 5 may designate, shall be established, after consultation with the interested Governments, by the International Bureau of Intellectual Property (hereinafter designated as “the International Bureau”) referred to in the [Convention establishing the World Intellectual Property Organization](../../../../../../../../../../../../../../verdrag/convention/establishing/the/world/intellectual/property/organization/etc/BWBV0004328/README.md) (hereinafter designated as “the Organisation”).
 
 ### Article  2  
 
 ####Use and Legal Scope of the International Classification
 
-(1).  Subject to the requirements prescribed by this Agreement, the international classification shall be solely of an administrative character. Nevertheless, each country may attribute to it the legal scope which it considers appropriate. In particular, the international classification shall not bind the countries of the Special Union as regards the nature and scope of the protection afforded to the design in those countries.   
-(2).  Each country of the Special Union reserves the right to use the international classification as a principal or as a subsidiary system.   
-(3).  The Offices of the countries of the Special Union shall include in the official documents for the deposit or registration of designs, and if they are officially published, in the publications in question, the numbers of the classes and subclasses of the international classification into which the goods incorporating the designs belong.   
-(4).  In selecting terms for inclusion in the alphabetical list of goods, the Committee of Experts shall exercise reasonable care to avoid using terms in which exclusive rights may exist. The inclusion of any word in the alphabetical index, however, is not an expression of opinion of the Committee of Experts on whether or not it is subject to exclusive rights.   
+(1). Subject to the requirements prescribed by this Agreement, the international classification shall be solely of an administrative character.Nevertheless, each country may attribute to it the legal scope which it considers appropriate. In particular, the international classification shall not bind the countries of the Special Union as regards the nature and scope of the protection afforded to the design in those countries.
+(2). Each country of the Special Union reserves the right to use the international classification as a principal or as a subsidiary system.
+(3). The Offices of the countries of the Special Union shall include in the official documents for the deposit or registration of designs, and if they are officially published, in the publications in question, the numbers of the classes and subclasses of the international classification into which the goods incorporating the designs belong.
+(4). In selecting terms for inclusion in the alphabetical list of goods, the Committee of Experts shall exercise reasonable care to avoid using terms in which exclusive rights may exist. The inclusion of any word in the alphabetical index, however, is not an expression of opinion of the Committee of Experts on whether or not it is subject to exclusive rights.
 
 ### Article  3  
 
 ####Committee of Experts
 
-(1).  A Committee of Experts shall be entrusted with the tasks referred to in Article 1 (4), 1 (5) and 1 (6). Each country of the Special Union shall be represented on the Committee of Experts, which shall be organized according to rules of procedure adopted by a simple majority of the countries represented.   
-(2).  The Committee of Experts shall adopt the alphabetical list and explanatory notes by a simple majority of the votes of the countries of the Special Union.   
-(3).  Proposals for amendments or additions to the international classification may be made by the office of any country of the Special Union or by the International Bureau. Any proposal emanating from an Office shall be communicated by that Office to the International Bureau. Proposals from Offices and from the International Bureau shall be transmitted by the latter to the members of the Committee of Experts not later than two months before the session of the Committee at which the said proposals are to be considered.   
-(4).  The decisions of the Committee of Experts concerning the adoption of amendments and additions to be made in the international classification shall be by a simple majority of the countries of the Special Union. Nevertheless, if such decisions entail the setting up of a new class or any transfer of goods from one class to another, unanimity shall be required.   
-(5).  Each expert shall have the right to vote by mail.   
-(6).  If a country does not appoint a representative for a given session of the Committee of Experts, or if the expert appointed has not expressed his vote during the session or within a period to be prescribed by the rules of procedure of the Committee of Experts, the country concerned shall be considered to have accepted the decision of the Committee.   
+(1). A Committee of Experts shall be entrusted with the tasks referred to in Article 1 (4), 1 (5) and 1 (6). Each country of the Special Union shall be represented on the Committee of Experts, which shall be organized according to rules of procedure adopted by a simple majority of the countries represented.
+(2). The Committee of Experts shall adopt the alphabetical list and explanatory notes by a simple majority of the votes of the countries of the Special Union.
+(3). Proposals for amendments or additions to the international classification may be made by the office of any country of the Special Union or by the International Bureau. Any proposal emanating from an Office shall be communicated by that Office to the International Bureau. Proposals from Offices and from the International Bureau shall be transmitted by the latter to the members of the Committee of Experts not later than two months before the session of the Committee at which the said proposals are to be considered.
+(4). The decisions of the Committee of Experts concerning the adoption of amendments and additions to be made in the international classification shall be by a simple majority of the countries of the Special Union.Nevertheless, if such decisions entail the setting up of a new class or any transfer of goods from one class to another, unanimity shall be required.
+(5). Each expert shall have the right to vote by mail.
+(6). If a country does not appoint a representative for a given session of the Committee of Experts, or if the expert appointed has not expressed his vote during the session or within a period to be prescribed by the rules of procedure of the Committee of Experts, the country concerned shall be considered to have accepted the decision of the Committee.
 
 ### Article  4  
 
 ####Notification and publication of the classification and of its amendments and additions thereto
 
-(1).  The alphabetical list of goods and the explanatory notes adopted by the Committee of Experts, as well as any amendment or addition to the international classification decided by the Committee, shall be communicated to the Offices of the countries of the Special Union by the International Bureau. The decisions of the Committee of Experts shall enter into force as soon as the communication is received. Nevertheless, if such decisions entail the setting up of a new class or any transfer of goods from one class to another, they shall enter into force within a period of six months from the date of said communication.   
-(2).  The International Bureau, as depositary of the international classification, shall incorporate therein the amendments and additions which have entered into force. Announcements of the amendments and additions shall be published in the periodicals to be designated by the Assembly.   
+(1). The alphabetical list of goods and the explanatory notes adopted by the Committee of Experts, as well as any amendment or addition to the international classification decided by the Committee, shall be communicated to the Offices of the countries of the Special Union by the International Bureau. The decisions of the Committee of Experts shall enter into force as soon as the communication is received. Nevertheless, if such decisions entail the setting up of a new class or any transfer of goods from one class to another, they shall enter into force within a period of six months from the date of said communication.
+(2). The International Bureau, as depositary of the international classification, shall incorporate therein the amendments and additions which have entered into force. Announcements of the amendments and additions shall be published in the periodicals to be designated by the Assembly.
 
 ### Article  5  
 
 ####Assembly of the Special Union
 
-(1).  
+(1). 
 
-(a) The Special Union shall have an Assembly consisting of the countries of the Special Union.  
+(a)The Special Union shall have an Assembly consisting of the countries of the Special Union.
 
-(b) The Government of each country of the Special Union shall be represented by one delegate, who may be assisted by alternate delegates, advisors, and experts.  
+(b)The Government of each country of the Special Union shall be represented by one delegate, who may be assisted by alternate delegates, advisors, and experts.
 
-(c) The expenses of each delegation shall be borne by the Government which has appointed it.     
-(2).  
+(c)The expenses of each delegation shall be borne by the Government which has appointed it.
+(2). 
 
-(a) Subject to the provisions of Article 3, the Assembly shall: 
+(a)Subject to the provisions of Article 3, the Assembly shall:
 
-(i) deal with all matters concerning the maintenance and development of the Special Union and the implementation of this Agreement;  
+(i)deal with all matters concerning the maintenance and development of the Special Union and the implementation of this Agreement;
 
-(ii) give directions to the International Bureau concerning the preparation for conferences of revision;  
+(ii)give directions to the International Bureau concerning the preparation for conferences of revision;
 
-(iii) review and approve the reports and activities of the Director General of the Organization (hereinafter designated as “the Director General”) concerning the Special Union, and give him all necessary instructions concerning matters within the competence of the Special Union;  
+(iii)review and approve the reports and activities of the Director General of the Organization (hereinafter designated as “the Director General”) concerning the Special Union, and give him all necessary instructions concerning matters within the competence of the Special Union;
 
-(iv) determine the program and adopt the biennial budget of the Special Union, and approve its final accounts;  
+(iv)determine the program and adopt the biennial budget of the Special Union, and approve its final accounts;
 
-(v) adopt the financial regulations of the Special Union;  
+(v)adopt the financial regulations of the Special Union;
 
-(vi) decide on the establishment of official texts of the international classification in languages other than English and French;  
+(vi)decide on the establishment of official texts of the international classification in languages other than English and French;
 
-(vii) establish, in addition to the Committee of Experts set up under Article 3, such other committees of experts and working groups as it deems appropriate to achieve the objectives of the Special Union;  
+(vii)establish, in addition to the Committee of Experts set up under Article 3, such other committees of experts and working groups as it deems appropriate to achieve the objectives of the Special Union;
 
-(viii) determine which countries not members of the Special Union and which intergovernmental and international non-governmental organizations shall be admitted to its meetings as observers;  
+(viii)determine which countries not members of the Special Union and which intergovernmental and international non-governmental organizations shall be admitted to its meetings as observers;
 
-(ix) adopt amendments to Articles 5 to 8;  
+(ix)adopt amendments to Articles 5 to 8;
 
-(x) take any other appropriate action designed to further the objectives of the Special Union;  
+(x)take any other appropriate action designed to further the objectives of the Special Union;
 
-(xi) perform such other functions as are appropriate under this Agreement.    
+(xi)perform such other functions as are appropriate under this Agreement.
 
-(b) With respect to matters which are of interest also to other Unions administered by the Organization, the Assembly shall make its decisions after having heard the advice of the Coordination Committee of the Organization.     
-(3).  
+(b)With respect to matters which are of interest also to other Unions administered by the Organization, the Assembly shall make its decisions after having heard the advice of the Coordination Committee of the Organization.
+(3). 
 
-(a) Each country member of the Assembly shall have one vote.  
+(a)Each country member of the Assembly shall have one vote.
 
-(b) One-half of the countries members of the Assembly shall constitute a quorum.  
+(b)One-half of the countries members of the Assembly shall constitute a quorum.
 
-(c) Notwithstanding the provisions of subparagraph (b), if, in any session, the number of countries represented is less than one-half but equal to or more than one-third of the countries members of the Assembly, the Assembly may make decisions but, with the exception of decisions concerning its own procedure, all such decisions shall take effect only if the conditions set forth hereinafter are fulfilled. The International Bureau shall communicate the said decisions to the countries members of the Assembly which were not represented and shall invite them to express in writing their vote or abstention within a period of three months from the date of the communication. If, at the expiration of this period, the number of countries having thus expressed their vote or abstention attains the number of countries which was lacking for attaining the quorum in the session itself, such decisions shall take effect provided that at the same time the required majority still obtains.  
+(c)Notwithstanding the provisions of subparagraph (b), if, in any session, the number of countries represented is less than one-half but equal to or more than one-third of the countries members of the Assembly, the Assembly may make decisions but, with the exception of decisions concerning its own procedure, all such decisions shall take effect only if the conditions set forth hereinafter are fulfilled. The International Bureau shall communicate the said decisions to the countries members of the Assembly which were not represented and shall invite them to express in writing their vote or abstention within a period of three months from the date of the communication. If, at the expiration of this period, the number of countries having thus expressed their vote or abstention attains the number of countries which was lacking for attaining the quorum in the session itself, such decisions shall take effect provided that at the same time the required majority still obtains.
 
-(d) Subject to the provisions of Article 8 (2), the decisions of the Assembly shall require two-thirds of the votes cast.  
+(d)Subject to the provisions of Article 8 (2), the decisions of the Assembly shall require two-thirds of the votes cast.
 
-(e) Abstentions shall not be considered as votes.  
+(e)Abstentions shall not be considered as votes.
 
-(f) A delegate may represent, and vote in the name of, one country only.     
+(f)A delegate may represent, and vote in the name of, one country only.
 (4).  
 
-(a) The Assembly shall meet once in every second calendar year in ordinary session upon convocation by the Director General and, in the absence of exceptional circumstances, during the same period and at the same place as the General Assembly of the Organization.  
+(a)The Assembly shall meet once in every second calendar year in ordinary session upon convocation by the Director General and, in the absence of exceptional circumstances, during the same period and at the same place as the General Assembly of the Organization.
 
-(b) The Assembly shall meet in extraordinary session upon convocation by the Director General, at the request of one-fourth of the countries members of the Assembly.  
+(b)The Assembly shall meet in extraordinary session upon convocation by the Director General, at the request of one-fourth of the countries members of the Assembly.
 
-(c) The agenda of each session shall be prepared by the Director-General.     
-(5).  The Assembly shall adopt its own rules of procedure.   
+(c)The agenda of each session shall be prepared by the Director-General.
+(5). The Assembly shall adopt its own rules of procedure.
 
 ### Article  6  
 
@@ -119,577 +119,577 @@
 
 (1).  
 
-(a) Administrative tasks concerning the Special Union shall be performed by the International Bureau.  
+(a)Administrative tasks concerning the Special Union shall be performed by the International Bureau.
 
-(b) In particular, the International Bureau shall prepare the meetings and provide the secretariat of the Assembly, the Committee of Experts, and such other committees of experts and working groups as may have been established by the Assembly or the Committee of Experts.  
+(b)In particular, the International Bureau shall prepare the meetings and provide the secretariat of the Assembly, the Committee of Experts, and such other committees of experts and working groups as may have been established by the Assembly or the Committee of Experts.
 
-(c) The Director General shall be the chief executive of the Special Union and shall represent the Special Union.     
-(2).  The Director General and any staff member designated by him shall participate, without the right to vote, in all meetings of the Assembly, the Committee of Experts, and such other committees of experts or working groups as may have been established by the Assembly or the Committee of Experts. The Director General, or a staff member designated by him, shall be ex officio secretary of those bodies.   
-(3).  
+(c)The Director General shall be the chief executive of the Special Union and shall represent the Special Union.
+(2). The Director General and any staff member designated by him shall participate, without the right to vote, in all meetings of the Assembly, the Committee of Experts, and such other committees of experts or working groups as may have been established by the Assembly or the Committee of Experts. The Director General, or a staff member designated by him, shall be ex officio secretary of those bodies.
+(3). 
 
-(a) The International Bureau shall, in accordance with the directions of the Assembly, make the preparations for the conferences of revision of the provisions of the Agreement other than Articles 5 to 8.  
+(a)The International Bureau shall, in accordance with the directions of the Assembly, make the preparations for the conferences of revision of the provisions of the Agreement other than Articles 5 to 8.
 
-(b) The International Bureau may consult with intergovernmental and international non-governmental organizations concerning preparations for conferences of revision.  
+(b)The International Bureau may consult with intergovernmental and international non-governmental organizations concerning preparations for conferences of revision.
 
-(c) The Director General and persons designated by him shall take part, without the right to vote, in the discussions at those conferences.     
-(4).  The International Bureau shall carry out any other tasks assigned to it.   
+(c)The Director General and persons designated by him shall take part, without the right to vote, in the discussions at those conferences.
+(4). The International Bureau shall carry out any other tasks assigned to it.
 
 ### Article  7  
 
 ####Finances
 
-(1).  
+(1). 
 
-(a) The Special Union shall have a budget.  
+(a)The Special Union shall have a budget.
 
-(b) The budget of the Special Union shall include the income and expenses proper to the Special Union, its contribution to the budget of expenses common to the Unions, and, where applicable, the sum made available to the budget of the Conference of the Organization.  
+(b)The budget of the Special Union shall include the income and expenses proper to the Special Union, its contribution to the budget of expenses common to the Unions, and, where applicable, the sum made available to the budget of the Conference of the Organization.
 
-(c) Expenses not attributable exclusively to the Special Union but also to one or more other Unions administered by the Organization shall be considered as expenses common to the Unions. The share of the Special Union in such common expenses shall be in proportion to the interest the Special Union has in them.     
-(2).  The budget of the Special Union shall be established with due regard to the requirements of coordination with the budgets of the other Unions administered by the Organization.   
-(3).  The budget of the Special Union shall be financed from the following sources: 
+(c)Expenses not attributable exclusively to the Special Union but also to one or more other Unions administered by the Organization shall be considered as expenses common to the Unions. The share of the Special Union in such common expenses shall be in proportion to the interest the Special Union has in them.
+(2). The budget of the Special Union shall be established with due regard to the requirements of coordination with the budgets of the other Unions administered by the Organization.
+(3). The budget of the Special Union shall be financed from the following sources:
 
-(i) contributions of the countries of the Special Union;  
+(i)contributions of the countries of the Special Union;
 
-(ii) fees and charges due for services rendered by the International Bureau concerning the Special Union;  
+(ii)fees and charges due for services rendered by the International Bureau concerning the Special Union;
 
-(iii) sale of, or royalties on, the publications of the International Bureau in relation to the Special Union;  
+(iii)sale of, or royalties on, the publications of the International Bureau in relation to the Special Union;
 
-(iv) gifts, bequests, and subventions;  
+(iv)gifts, bequests, and subventions;
 
-(v) rents, interests, and other miscellaneous income.     
-(4).  
+(v)rents, interests, and other miscellaneous income.
+(4). 
 
-(a) For the purpose of establishing its contribution referred to in paragraph (3) (i), each country of the Special Union shall belong to the same class as it belongs to in the Paris Union for the Protection of Industrial Property, and shall pay its annual contributions on the basis of the same number of units as is fixed for that class in that Union.  
+(a)For the purpose of establishing its contribution referred to in paragraph (3) (i), each country of the Special Union shall belong to the same class as it belongs to in the Paris Union for the Protection of Industrial Property, and shall pay its annual contributions on the basis of the same number of units as is fixed for that class in that Union.
 
-(b) The annual contribution of each country of the Special Union shall be an amount in the same proportion to the total sum to be contributed to the budget of the Special Union by all countries as the number of its units is to the total of the units of all contributing countries.  
+(b)The annual contribution of each country of the Special Union shall be an amount in the same proportion to the total sum to be contributed to the budget of the Special Union by all countries as the number of its units is to the total of the units of all contributing countries.
 
-(c) Contributions shall become due on the first of January of each year.  
+(c)Contributions shall become due on the first of January of each year.
 
-(d) A country which is in arrears in the payment of its contributions may not exercise its right to vote in any organ of the Special Union if the amount of its arrears equals or exceeds the amounts of the contributions due from it for the preceding two full years. However, any organ of the Special Union may allow such a country to continue to exercise its right to vote in that organ if, and as long as, it is satisfied that the delay in payment is due to exceptional and unavoidable circumstances.  
+(d)A country which is in arrears in the payment of its contributions may not exercise its right to vote in any organ of the Special Union if the amount of its arrears equals or exceeds the amounts of the contributions due from it for the preceding two full years. However, any organ of the Special Union may allow such a country to continue to exercise its right to vote in that organ if, and as long as, it is satisfied that the delay in payment is due to exceptional and unavoidable circumstances.
 
-(e) If the budget is not adopted before the beginning of a new financial period, it shall be at the same level as the budget of the previous year, as provided in the financial regulations.     
-(5).  The amount of the fees and charges due for services rendered by the International Bureau in relation to the Special Union shall be established, and shall be reported to the Assembly, by the Director General.   
-(6).  
+(e)If the budget is not adopted before the beginning of a new financial period, it shall be at the same level as the budget of the previous year, as provided in the financial regulations.
+(5). The amount of the fees and charges due for services rendered by the International Bureau in relation to the Special Union shall be established, and shall be reported to the Assembly, by the Director General.
+(6). 
 
-(a) The Special Union shall have a working capital fund which shall be constituted by a single payment made by each country of the Special Union. If the fund becomes insufficient, the Assembly shall decide to increase it.  
+(a)The Special Union shall have a working capital fund which shall be constituted by a single payment made by each country of the Special Union. If the fund becomes insufficient, the Assembly shall decide to increase it.
 
-(b) The amount of the initial payment of each country to the said fund or of its participation in the increase thereof shall be a proportion of the contribution of that country for the year in which the fund is established or the decision to increase it is made.  
+(b)The amount of the initial payment of each country to the said fund or of its participation in the increase thereof shall be a proportion of the contribution of that country for the year in which the fund is established or the decision to increase it is made.
 
-(c) The proportion and the terms of payment shall be fixed by the Assembly on the proposal of the Director General and after it has heard the advice of the Coordination Committee of the Organization.     
-(7).  
+(c)The proportion and the terms of payment shall be fixed by the Assembly on the proposal of the Director General and after it has heard the advice of the Coordination Committee of the Organization.
+(7). 
 
-(a) In the headquarters agreement concluded with the country on the territory of which the Organization has its headquarters, it shall be provided that, whenever the working capital fund is insufficient, such country shall grant advances. The amount of those advances and the conditions on which they are granted shall be the subject of separate agreements, in each case, between such country and the Organization,  
+(a)In the headquarters agreement concluded with the country on the territory of which the Organization has its headquarters, it shall be provided that, whenever the working capital fund is insufficient, such country shall grant advances. The amount of those advances and the conditions on which they are granted shall be the subject of separate agreements, in each case, between such country and the Organization,
 
-(b) The country referred to in subparagraph (a) and the Organization shall each have the right to denounce the obligation to grant advances, by written notification. Denunciation shall take effect three years after the end of the year in which it has been notified.     
-(8).  The auditing of the accounts shall be effected by one or more of the countries of the Special Union or by external auditors, as provided in the financial regulations. They shall be designated, with their agreement, by the Assembly.   
+(b)The country referred to in subparagraph (a) and the Organization shall each have the right to denounce the obligation to grant advances, by written notification. Denunciation shall take effect three years after the end of the year in which it has been notified.
+(8). The auditing of the accounts shall be effected by one or more of the countries of the Special Union or by external auditors, as provided in the financial regulations. They shall be designated, with their agreement, by the Assembly.
 
 ### Article  8  
 
 ####Amendment of Articles 5 to 8
 
-(1).  Proposals for the amendment of Articles 5, 6, 7 and the present Article, may be initiated by any country of the Special Union or by the Director General. Such proposals shall be communicated by the Director General to the countries of the Special Union at least six months in advance of their consideration by the Assembly.   
-(2).  Amendments to the Articles referred to in paragraph (1) shall be adopted by the Assembly. Adoption shall require three-fourths of the votes cast, provided that any amendment to Article 5, and to the present paragraph, shall require four-fifths of the votes cast.   
-(3).  Any amendment to the Articles referred to in paragraph (1) shall enter into force one month after written notifications of acceptance, effected in accordance with their respective constitutional processes, have been received by the Director General from three-fourths of the countries members of the Special Union at the time the amendment was adopted. Any amendment to the said Articles thus accepted shall bind all the countries which are members of the Special Union at the time the amendment enters into force, or which become members thereof at a subsequent date, provided that any amendment increasing the financial obligations of countries of the Special Union shall bind only those countries which have notified their acceptance of such amendment.   
+(1). Proposals for the amendment of Articles 5, 6, 7 and the present Article, may be initiated by any country of the Special Union or by the Director General. Such proposals shall be communicated by the Director General to the countries of the Special Union at least six months in advance of their consideration by the Assembly.
+(2). Amendments to the Articles referred to in paragraph (1) shall be adopted by the Assembly. Adoption shall require three-fourths of the votes cast, provided that any amendment to Article 5, and to the present paragraph, shall require four-fifths of the votes cast.
+(3). Any amendment to the Articles referred to in paragraph (1) shall enter into force one month after written notifications of acceptance, effected in accordance with their respective constitutional processes, have been received by the Director General from three-fourths of the countries members of the Special Union at the time the amendment was adopted. Any amendment to the said Articles thus accepted shall bind all the countries which are members of the Special Union at the time the amendment enters into force, or which become members thereof at a subsequent date, provided that any amendment increasing the financial obligations of countries of the Special Union shall bind only those countries which have notified their acceptance of such amendment.
 
 ### Article  9  
 
 ####Ratification and Accession; Entry Into Force
 
-(1).  Any country party to the Paris Convention for the Protection of Industrial Property which has signed this Agreement may ratify it, and, if it has not signed it, may accede to it.   
-(2).  Instruments of ratification and accession shall be deposited with the Director General.   
-(3).  
+(1). Any country party to the [Paris Convention for the Protection of Industrial Property](../../../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) which has signed this Agreement may ratify it, and, if it has not signed it, may accede to it.
+(2). Instruments of ratification and accession shall be deposited with the Director General.
+(3). 
 
-(a) With respect to the first five countries which have deposited their instruments of ratification or accession, this Agreement shall enter into force three months after the deposit of the fifth such instrument.  
+(a)With respect to the first five countries which have deposited their instruments of ratification or accession, this Agreement shall enter into force three months after the deposit of the fifth such instrument.
 
-(b) With respect to any other country, this Agreement shall enter into force three months after the date on which its ratification or accession has been notified by the Director General, unless a subsequent date has been indicated in the instrument of ratification or accession. In the latter case, this Agreement shall enter into force with respect to that country on the date thus indicated.     
-(4).  Ratification or accession shall automatically entail acceptance of all the clauses and admission to all the advantages of this Agreement.   
+(b)With respect to any other country, this Agreement shall enter into force three months after the date on which its ratification or accession has been notified by the Director General, unless a subsequent date has been indicated in the instrument of ratification or accession. In the latter case, this Agreement shall enter into force with respect to that country on the date thus indicated.
+(4). Ratification or accession shall automatically entail acceptance of all the clauses and admission to all the advantages of this Agreement.
 
 ### Article  10  
 
 ####Force and Duration of the Agreement
 
-This Agreement shall have the same force and duration as the Paris Convention for the Protection of Industrial Property.  
+This Agreement shall have the same force and duration as the [Paris Convention for the Protection of Industrial Property](../../../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md).
 
 ### Article  11  
 
 ####Revision of articles 1 to 4 and 9 to 15
 
-(1).  Articles 1 to 4 and 9 to 15 of this Agreement may be submitted to revision with a view to the introduction of desired improvements.   
-(2).  Every revision shall be considered at a conference which shall be held among the delegates of the countries of the Special Union.   
+(1). Articles 1 to 4 and 9 to 15 of this Agreement may be submitted to revision with a view to the introduction of desired improvements.
+(2). Every revision shall be considered at a conference which shall be held among the delegates of the countries of the Special Union.
 
 ### Article  12  
 
 ####Denunciation
 
-(1).  Any country may denounce this Agreement by notification addressed to the Director General. Such denunciation shall affect only the country making it, the Agreement remaining in full force and effect as regards the other countries of the Special Union.   
-(2).  Denunciation shall take effect one year after the day on which the Director General has received the notification.   
-(3).  The right of denunciation provided by this Article shall not be exercised by any country before the expiration of five years from the date upon which it becomes a member of the Special Union.   
+(1). Any country may denounce this Agreement by notification addressed to the Director General. Such denunciation shall affect only the country making it, the Agreement remaining in full force and effect as regards the other countries of the Special Union.
+(2). Denunciation shall take effect one year after the day on which the Director General has received the notification.
+(3). The right of denunciation provided by this Article shall not be exercised by any country before the expiration of five years from the date upon which it becomes a member of the Special Union.
 
 ### Article  13  
 
 ####Territories
 
-The provisions of Article 24 of the Paris Convention for the Protection of Industrial Property shall apply to this Agreement.  
+The provisions of [Article 24 of the Paris Convention for the Protection of Industrial Property](../../../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) shall apply to this Agreement.
 
 ### Article  14  
 
 ####Signature, Languages, Notifications
 
-(1).  
+(1). 
 
-(a) This Agreement shall be signed in a single copy in the English and French languages, both texts being equally authentic, and shall be deposited with the Government of Switzerland,  
+(a)This Agreement shall be signed in a single copy in the English and French languages, both texts being equally authentic, and shall be deposited with the Government of Switzerland,
 
-(b) This Agreement shall remain open for signature at Berne until June 30, 1969.     
-(2).  Official texts shall be established by the Director General, after consultation with the interested Governments, in such other languages as the Assembly may designate.   
-(3).  The Director General shall transmit two copies, certified by the Government of Switzerland, of the signed text of this Agreement to the Governments of the countries that have signed it and, on request, to the Government of any other country.   
-(4).  The Director General shall register this Agreement with the Secretariat of the United Nations.   
-(5).  The Director General shall notify the Governments of all countries of the Special Union of the date of entry into force of the Agreement, signatures, deposits of instruments of ratification or accession, acceptances of amendments to this Agreement and the dates on which such amendments enter into force, and notifications of denunciation.   
+(b)This Agreement shall remain open for signature at Berne until June 30, 1969.
+(2). Official texts shall be established by the Director General, after consultation with the interested Governments, in such other languages as the Assembly may designate.
+(3). The Director General shall transmit two copies, certified by the Government of Switzerland, of the signed text of this Agreement to the Governments of the countries that have signed it and, on request, to the Government of any other country.
+(4). The Director General shall register this Agreement with the Secretariat of the United Nations.
+(5). The Director General shall notify the Governments of all countries of the Special Union of the date of entry into force of the Agreement, signatures, deposits of instruments of ratification or accession, acceptances of amendments to this Agreement and the dates on which such amendments enter into force, and notifications of denunciation.
 
 ### Article  15  
 
 ####Transitional Provision
 
-Until the first Director General assumes office, references in this Agreement to the International Bureau of the Organization or to the Director General shall be deemed to be references to the United International Bureaux for the Protection of Intellectual Property (BIRPI) or its Director, respectively.  
+Until the first Director General assumes office, references in this Agreement to the International Bureau of the Organization or to the Director General shall be deemed to be references to the United International Bureaux for the Protection of Intellectual Property (BIRPI) or its Director, respectively.
 
-IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed this Agreement. DONE at Locarno, on October 8, 1968.  
+IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed this Agreement.DONE at Locarno, on October 8, 1968.
 
-### Annex  
+###  Annex 
 
 ####LIST OF CLASSES AND SUBCLASSES OF THE INTERNATIONAL CLASSIFICATION
 
-Class – Foodstuffs, Including Dietetic Foods 
+Class – Foodstuffs, Including Dietetic Foods
 
-01) Bakers' products, biscuits, pastry, macaroni, etc.  
+01)Bakers' products, biscuits, pastry, macaroni, etc.
 
-02) Chocolates, confectionery, ices  
+02)Chocolates, confectionery, ices
 
-03) Cheeses, butter and other dairy produce and substitutes  
+03)Cheeses, butter and other dairy produce and substitutes
 
-04) Butchers' meat (including pork products)  
+04)Butchers' meat (including pork products)
 
-05) Animal foodstuffs  
+05)Animal foodstuffs
 
-99) Miscellaneous   Class 2 – Articles of Clothing, Including Footwear 
+99)MiscellaneousClass 2 – Articles of Clothing, Including Footwear
 
-01) Garments  
+01)Garments
 
-02) Undergarments, lingerie, corsets, brassieres  
+02)Undergarments, lingerie, corsets, brassieres
 
-03) Headwear  
+03)Headwear
 
-04) Footwear (including boots, shoes and slippers)  
+04)Footwear (including boots, shoes and slippers)
 
-05) Socks and stockings  
+05)Socks and stockings
 
-06) Neckties, scarves and neckerchiefs  
+06)Neckties, scarves and neckerchiefs
 
-07) Gloves  
+07)Gloves
 
-08) Haberdashery  
+08)Haberdashery
 
-99) Miscellaneous   Class 3 – Travel Goods and Personal Belongings, Not Elsewhere Specified 
+99)MiscellaneousClass 3 – Travel Goods and Personal Belongings, Not Elsewhere Specified
 
-01) Trunks, suitcases and briefcases  
+01)Trunks, suitcases and briefcases
 
-02) Handbags, wallets, pocketbooks, purses, boxes  
+02)Handbags, wallets, pocketbooks, purses, boxes
 
-03) Umbrellas, walking sticks  
+03)Umbrellas, walking sticks
 
-04) Fans  
+04)Fans
 
-99) Miscellaneous   Class 4 – Brushware 
+99)MiscellaneousClass 4 – Brushware
 
-01) Brushes for cleaning and brooms  
+01)Brushes for cleaning and brooms
 
-02) Toilet and clothes brushes  
+02)Toilet and clothes brushes
 
-03) Brushes for industry  
+03)Brushes for industry
 
-04) Paint-brushes  
+04)Paint-brushes 
 
-99) Miscellaneous   Class 5 – Textile Piece-goods Articles, and Other Sheet Material 
+99)MiscellaneousClass 5 – Textile Piece-goods Articles, and Other Sheet Material
 
-01) Spun articles  
+01)Spun articles
 
-02) Textile fabrics (woven, knitted, etc.)  
+02)Textile fabrics (woven, knitted, etc.)
 
-03) Sheet material  
+03)Sheet material
 
-04) Felt  
+04)Felt
 
-05) Covering sheets (wallpaper, linoleum, etc.)  
+05)Covering sheets (wallpaper, linoleum, etc.)
 
-06) Lace  
+06)Lace
 
-07) Embroideries  
+07)Embroideries
 
-08) Ribbons, braids and other trimmings  
+08)Ribbons, braids and other trimmings
 
-09) Leather and substitutes  
+09)Leather and substitutes
 
-99) Miscellaneous   Class 6 – Furnishing 
+99)MiscellaneousClass 6 – Furnishing
 
-01) Furniture  
+01)Furniture
 
-02) Mattresses and cushions  
+02)Mattresses and cushions
 
-03) Curtains (ready-made)  
+03)Curtains (ready-made)
 
-04) Carpets  
+04)Carpets
 
-05) Mats and floor rugs  
+05)Mats and floor rugs
 
-06) Mirrors and frames  
+06)Mirrors and frames
 
-07) Garment hangers  
+07)Garment hangers
 
-08) Bedspreads  
+08)Bedspreads
 
-09) Household linen and napery  
+09)Household linen and napery
 
-99) Miscellaneous   Class 7 – Household Goods, Not Elsewhere Specified 
+99)MiscellaneousClass 7 – Household Goods, Not Elsewhere Specified
 
-01) China, glassware, dishes and other articles of similar nature  
+01)China, glassware, dishes and other articles of similar nature
 
-02) Cooking utensils and containers  
+02)Cooking utensils and containers
 
-03) Knives, forks and spoons  
+03)Knives, forks and spoons
 
-04) Cooking stoves, toasters, etc.  
+04)Cooking stoves, toasters, etc.
 
-05) Chopping, mincing, grinding and mixing machines  
+05)Chopping, mincing, grinding and mixing machines
 
-06) Flat-irons and laundering, cleaning and drying equipment  
+06)Flat-irons and laundering, cleaning and drying equipment
 
-99) Miscellaneous   Class 8 – Tools and Hardware 
+99)MiscellaneousClass 8 – Tools and Hardware
 
-01) Tools and implements for agriculture, forestry and horticulture  
+01)Tools and implements for agriculture, forestry and horticulture
 
-02) Other tools and implements  
+02)Other tools and implements
 
-03) Locks and other hardware fittings  
+03)Locks and other hardware fittings
 
-04) Nails, screws, nuts, bolts, etc.  
+04)Nails, screws, nuts, bolts, etc.
 
-99) Miscellaneous   Class 9 – Packages and Containers 
+99)MiscellaneousClass 9 – Packages and Containers
 
-01) Bottles, flasks, carboys, demijohns and pots  
+01)Bottles, flasks, carboys, demijohns and pots
 
-02) Closing means  
+02)Closing means
 
-03) Drums and casks  
+03)Drums and casks
 
-04) Boxes and cases  
+04)Boxes and cases
 
-05) Hampers, crates and baskets  
+05)Hampers, crates and baskets
 
-06) Bags, wrappers and tubes and capsules  
+06)Bags, wrappers and tubes and capsules
 
-07) Cans  
+07)Cans
 
-08) Ropes and hooping materials  
+08)Ropes and hooping materials
 
-99) Miscellaneous   Class 10 – Clocks and Watches, and Measuring Instruments 
+99)MiscellaneousClass 10 – Clocks and Watches, and Measuring Instruments
 
-01) House clocks  
+01)House clocks
 
-02) Watches and wrist-watches  
+02)Watches and wrist-watches
 
-03) Alarms  
+03)Alarms
 
-04) Other clocks  
+04)Other clocks
 
-05) All other chronometrical instruments  
+05)All other chronometrical instruments
 
-06) Dials, hands and all other parts of watches, clocks, and of other chronometrical instruments  
+06)Dials, hands and all other parts of watches, clocks, and of other chronometrical instruments
 
-07) Geodetic, nautical, acoustic and meteorological articles  
+07)Geodetic, nautical, acoustic and meteorological articles
 
-08) Instruments for measuring physical sizes, like length, pressure, etc.  
+08)Instruments for measuring physical sizes, like length, pressure, etc.
 
-09) Instruments for measuring temperature  
+09)Instruments for measuring temperature
 
-10) Instruments for measuring electric sizes (voltmeters, etc.)  
+10)Instruments for measuring electric sizes (voltmeters, etc.)
 
-11) Testing instruments  
+11)Testing instruments
 
-99) iscellaneous   Class 11 – Articles of Adornment 
+99)MiscellaneousClass 11 – Articles of Adornment
 
-01) Jewelry  
+01)Jewelry
 
-02) Trinkets, table, mantel and wall ornaments, including flower vases  
+02)Trinkets, table, mantel and wall ornaments, including flower vases
 
-03) Medals and badges  
+03)Medals and badges
 
-04) Artificial flowers, fruits and plants  
+04)Artificial flowers, fruits and plants
 
-05) Festive decorations  
+05)Festive decorations
 
-99) Miscellaneous   Class 12 – Vehicles 
+99)MiscellaneousClass 12 – Vehicles
 
-01) Vehicles drawn by animals  
+01)Vehicles drawn by animals
 
-02) Trolleys, trucks and barrows, hand-drawn  
+02)Trolleys, trucks and barrows, hand-drawn
 
-03) Locomotives and rolling-stock for railways and all other rail vehicles  
+03)Locomotives and rolling-stock for railways and all other rail vehicles
 
-04) Telepher carrier and chair lifts  
+04)Telepher carrier and chair lifts
 
-05) Elevators and hoists  
+05)Elevators and hoists
 
-06) Ships and boats  
+06)Ships and boats
 
-07) Aircraft and space vehicles  
+07)Aircraft and space vehicles
 
-08) Motor-cars and buses  
+08)Motor-cars and buses
 
-09) Lorries and tractors  
+09)Lorries and tractors
 
-10) Trailers, including camping or house trailers  
+10)Trailers, including camping or house trailers
 
-11) Motorcycles, scooters, bicycles and tricycles  
+11)Motorcycles, scooters, bicycles and tricycles
 
-12) Perambulators and invalid chairs  
+12)Perambulators and invalid chairs
 
-13) Special vehicles  
+13)Special vehicles
 
-14) Pneumatic tyres, inner tubes and all other equipment or accessories, not elsewhere specified  
+14)Pneumatic tyres, inner tubes and all other equipment or accessories, not elsewhere specified
 
-99) Miscellaneous   Class 13 – Equipment for Production, Distribution and Transformation of Electricity 
+99)MiscellaneousClass 13 – Equipment for Production, Distribution and Transformation of Electricity
 
-01) Generators and motors  
+01)Generators and motors
 
-02) Power transformers, rectifiers, batteries and accumulators  
+02)Power transformers, rectifiers, batteries and accumulators
 
-03) Equipment for distribution and control of electric power (conductors, switch-gear, etc.)  
+03)Equipment for distribution and control of electric power (conductors, switch-gear, etc.)
 
-99) Miscellaneous   Class 14 – Electrical and Electronic Equipment 
+99)MiscellaneousClass 14 – Electrical and Electronic Equipment
 
-01) Equipment for the recording and reproduction of sounds or pictures  
+01)Equipment for the recording and reproduction of sounds or pictures
 
-02) Equipment for the recording, reproduction and retrieval of information  
+02)Equipment for the recording, reproduction and retrieval of information
 
-03) Communications equipment (telegraph, telephone, teletype, television and radio)  
+03)Communications equipment (telegraph, telephone, teletype, television and radio)
 
-04) Amplifiers  
+04)Amplifiers
 
-99) Miscellaneous   Class 15 – Industrial and Household Machines 
+99)MiscellaneousClass 15 – Industrial and Household Machines
 
-01) Engines (not electrical)  
+01)Engines (not electrical)
 
-02) Pumps and compressors  
+02)Pumps and compressors
 
-03) Agricultural machinery  
+03)Agricultural machinery
 
-04) Construction machinery  
+04)Construction machinery
 
-05) Industrial machines, not elsewhere specified  
+05)Industrial machines, not elsewhere specified
 
-06) Industrial laundry and cleaning machines  
+06)Industrial laundry and cleaning machines
 
-07) Household laundry and cleaning machines  
+07)Household laundry and cleaning machines
 
-08) Industrial textile sewing, knitting and embroidering machines  
+08)Industrial textile sewing, knitting and embroidering machines
 
-09) Household textile sewing, knitting and embroidering machines  
+09)Household textile sewing, knitting and embroidering machines
 
-10) Industrial refrigeration apparatus  
+10)Industrial refrigeration apparatus
 
-11) Household refrigeration apparatus  
+11)Household refrigeration apparatus
 
-12) Food preparation machines  
+12)Food preparation machines
 
-99) Miscellaneous   Class 16 – Photographic, Cinematographic and Optical Apparatus 
+99)MiscellaneousClass 16 – Photographic, Cinematographic and Optical Apparatus
 
-01) Photographic cameras  
+01)Photographic cameras
 
-02) Film cameras  
+02)Film cameras
 
-03) Projectors (for slides)  
+03)Projectors (for slides)
 
-04) Projectors (for films)  
+04)Projectors (for films)
 
-05) Photocopying apparatus and enlargers  
+05)Photocopying apparatus and enlargers
 
-06) Developing apparatus  
+06)Developing apparatus
 
-07) Accessories  
+07)Accessories
 
-08) Optical articles, such as spectacles, microscopes, etc.  
+08)Optical articles, such as spectacles, microscopes, etc.
 
-99) Miscellaneous   Class 17 – Musical Instruments 
+99)MiscellaneousClass 17 – Musical Instruments
 
-01) Keyboard instruments (including electronic and other organs)  
+01)Keyboard instruments (including electronic and other organs)
 
-02) Wind instruments (including piano accordions)  
+02)Wind instruments (including piano accordions)
 
-03) Stringed instruments  
+03)Stringed instruments
 
-04) Percussion instruments  
+04)Percussion instruments
 
-05) Mechanical instruments  
+05)Mechanical instruments
 
-99) Miscellaneous   Class 18 – Printing and Office Machinery 
+99)MiscellaneousClass 18 – Printing and Office Machinery
 
-01) Typewriters and calculating machines, with the exception of electronic machines  
+01)Typewriters and calculating machines, with the exception of electronic machines
 
-02) Typographical machinery  
+02)Typographical machinery
 
-03) Machinery for printing by processes other than typography (excluding photocopying machinery)  
+03)Machinery for printing by processes other than typography (excluding photocopying machinery)
 
-04) Characters and type faces  
+04)Characters and type faces
 
-05) Massicots  
+05)Massicots
 
-99) Miscellaneous   Class 19 – Stationers' Goods, Desk Equipment, Artists' and Teaching Materials 
+99)MiscellaneousClass 19 – Stationers' Goods, Desk Equipment, Artists' and Teaching Materials
 
-01) Writing paper and envelopes  
+01)Writing paper and envelopes
 
-02) Desk equipment  
+02)Desk equipment
 
-03) Calendars  
+03)Calendars
 
-04) Bindings  
+04)Bindings
 
-05) Illustrated cards and other printed matter  
+05)Illustrated cards and other printed matter
 
-06) Materials and instruments for writing by hand  
+06)Materials and instruments for writing by hand
 
-07) Materials and instruments for painting (excluding brushes), for sculpture, for engraving and for other artistic techniques  
+07)Materials and instruments for painting (excluding brushes), for sculpture, for engraving and for other artistic techniques
 
-08) Teaching materials  
+08)Teaching materials
 
-99) Miscellaneous   Class 20 – Sales and Advertising Equipment 
+99)MiscellaneousClass 20 – Sales and Advertising Equipment
 
-01) Automatic vending machines  
+01)Automatic vending machines
 
-02) Display and sales equipment  
+02)Display and sales equipment
 
-03) Signboards and advertising materials  
+03)Signboards and advertising materials
 
-99) Miscellaneous   Class 21 – Games, Toys and Sports Goods 
+99)MiscellaneousClass 21 – Games, Toys and Sports Goods
 
-01) Games  
+01)Games
 
-02) Toys  
+02)Toys
 
-03) Gymnastics and sports apparatus and equipment  
+03)Gymnastics and sports apparatus and equipment
 
-04) Amusement and entertainment articles  
+04)Amusement and entertainment articles
 
-05) Tents  
+05)Tents
 
-99) Miscellaneous   Class 22 – Arms and Tackle for Hunting, Fishing and Vermin Trapping 
+99)MiscellaneousClass 22 – Arms and Tackle for Hunting, Fishing and Vermin Trapping
 
-01) Side arms  
+01)Side arms
 
-02) Projectile weapons  
+02)Projectile weapons
 
-03) Ammunition, fuses and projectiles  
+03)Ammunition, fuses and projectiles
 
-04) Hunting equipment (excluding weapons)  
+04)Hunting equipment (excluding weapons)
 
-05) Fishing rods  
+05)Fishing rods
 
-06) Reels for fishing rods  
+06)Reels for fishing rods
 
-07) Baits  
+07)Baits
 
-08) Other pieces of fishing tackle  
+08)Other pieces of fishing tackle
 
-09) Traps and articles for vermin destruction  
+09)Traps and articles for vermin destruction
 
-99) Miscellaneous   Class 23 – Sanitary, Heating, Ventilation and Air-Conditioning Equipment 
+99)MiscellaneousClass 23 – Sanitary, Heating, Ventilation and Air-Conditioning Equipment
 
-01) Fluid and gas-distribution equipment (including pipes and pipe fittings)  
+01)Fluid and gas-distribution equipment (including pipes and pipe fittings)
 
-02) Sanitary fittings and equipment (baths, showers, washbasins, lavatories, sanitary units, etc.)  
+02)Sanitary fittings and equipment (baths, showers, washbasins, lavatories, sanitary units, etc.)
 
-03) Heating equipment  
+03)Heating equipment
 
-04) Ventilation and air-conditioning  
+04)Ventilation and air-conditioning
 
-05) Solid fuel  
+05)Solid fuel
 
-99) Miscellaneous   Class 24 – Medical and Laboratory Equipment 
+99)MiscellaneousClass 24 – Medical and Laboratory Equipment
 
-01) Equipment for transport and accommodation for patients  
+01)Equipment for transport and accommodation for patients
 
-02) Hospital and laboratory equipment (for diagnostic, tests, operations, treatment, eye-testing)  
+02)Hospital and laboratory equipment (for diagnostic, tests, operations, treatment, eye-testing)
 
-03) Medical, surgical, dental instruments  
+03)Medical, surgical, dental instruments
 
-04) Prosthetic articles  
+04)Prosthetic articles
 
-05) Material for dressing and nursing  
+05)Material for dressing and nursing
 
-99) Miscellaneous   Class 25 – Building Units and Construction Elements 
+99)MiscellaneousClass 25 – Building Units and Construction Elements
 
-01) Building material and elements, such as bricks, beams, tiles, slates, panels, etc.  
+01)Building material and elements, such as bricks, beams, tiles, slates, panels, etc.
 
-02) Windows, doors, blinds, etc.  
+02)Windows, doors, blinds, etc.
 
-03) Sections, angles and channels  
+03)Sections, angles and channels
 
-04) Houses, garages, and all other buildings  
+04)Houses, garages, and all other buildings
 
-05) Civil engineering elements  
+05)Civil engineering elements
 
-99) Miscellaneous   Class 26 – Lighting Apparatus 
+99)MiscellaneousClass 26 – Lighting Apparatus
 
-01) Luminous sources, electrical or not, such as incandescent bulbs, luminous tubes and plates  
+01)Luminous sources, electrical or not, such as incandescent bulbs, luminous tubes and plates
 
-02) Lamps, standard lamps, chandeliers, wall and ceiling fixtures  
+02)Lamps, standard lamps, chandeliers, wall and ceiling fixtures
 
-03) Public lighting fixtures (outside lamps, stagelichting, floodlights)  
+03)Public lighting fixtures (outside lamps, stagelichting, floodlights)
 
-04) Torches and hand lamps and lanterns  
+04)Torches and hand lamps and lanterns
 
-05) Candles, candlesticks  
+05)Candles, candlesticks
 
-06) Lamp-shades  
+06)Lamp-shades
 
-99) Miscellaneous   Class 27 – Tobacco and Smokers' Supplies 
+99)MiscellaneousClass 27 – Tobacco and Smokers' Supplies
 
-01) Tobacco, cigars and cigarettes  
+01)Tobacco, cigars and cigarettes
 
-02) Pipes, cigar and cigarette holders  
+02)Pipes, cigar and cigarette holders
 
-03) Ash-trays  
+03)Ash-trays
 
-04) Matches  
+04)Matches
 
-05) Lighters  
+05)Lighters
 
-06) Cigar cases, cigarette cases, tobacco jars and pouches  
+06)Cigar cases, cigarette cases, tobacco jars and pouches
 
-99) Miscellaneous   Class 28 – Pharmaceutical and Cosmetic Articles and Products, Toilet Articles and Apparatus 
+99) MiscellaneousClass 28 – Pharmaceutical and Cosmetic Articles and Products, Toilet Articles and Apparatus
 
-01) Pharmaceutical articles and products  
+01)Pharmaceutical articles and products
 
-02) Cosmetic articles and products  
+02)Cosmetic articles and products
 
-03) Toilet and beauty parlor equipment  
+03)Toilet and beauty parlor equipment
 
-99) Miscellaneous   Class 29 – Safety and Protective Devices and Equipment for Human Beings 
+99)MiscellaneousClass 29 – Safety and Protective Devices and Equipment for Human Beings
 
-01) Devices and equipment against fire hazards  
+01)Devices and equipment against fire hazards
 
-02) Devices and equipment for water rescue  
+02)Devices and equipment for water rescue
 
-03) Devices and equipment for mountain rescue  
+03)Devices and equipment for mountain rescue
 
-99) Devices and equipment against other hazards (roads, mines, industries, etc.)   Class 30 – Care and Handling of Animals 
+99)Devices and equipment against other hazards (roads, mines, industries, etc.)Class 30 – Care and Handling of Animals
 
-01) Shelters and pens  
+01)Shelters and pens
 
-02) Feeders and waterers  
+02)Feeders and waterers
 
-03) Saddlery  
+03)Saddlery
 
-04) Safety and protective devices and equipment for animals  
+04)Safety and protective devices and equipment for animals
 
-99) Other articles   Class 31 – Miscellaneous All the products not included in the preceding Classes.   
+99)Other articlesClass 31 – MiscellaneousAll the products not included in the preceding Classes.
 
 ####Overeenkomst van Locarno van 8 oktober 1968 tot instelling van een internationale classificatie voor tekeningen en modellen van nijverheid
 
@@ -713,7 +713,7 @@ iii) toelichtingen.
 
 a) De internationale classificatie is opgesteld in de Engelse en de Franse taal.  
 
-b) In overleg met de betrokken regeringen worden door het Internationale Bureau van de intellectuele eigendom (hierna te noemen „het Internationale Bureau"), genoemd in het Verdrag ter oprichting van de Wereldorganisatie voor de intellectuele eigendom (hierna te noemen „de Organisatie”), officiële teksten van de internationale classificatie vastgelegd in de andere talen die de Algemene Vergadering, bedoeld in artikel 5, kan aangeven.     
+b) In overleg met de betrokken regeringen worden door het Internationale Bureau van de intellectuele eigendom (hierna te noemen „het Internationale Bureau"), genoemd in het [Verdrag ter oprichting van de Wereldorganisatie voor de intellectuele eigendom](../../../../../../../../../../../../../../verdrag/convention/establishing/the/world/intellectual/property/organization/etc/BWBV0004328/README.md) (hierna te noemen „de Organisatie”), officiële teksten van de internationale classificatie vastgelegd in de andere talen die de Algemene Vergadering, bedoeld in artikel 5, kan aangeven.    
 
 ### Artikel  2  
 
@@ -733,14 +733,14 @@ b) In overleg met de betrokken regeringen worden door het Internationale Bureau 
 3).  Voorstellen tot wijziging of aanvulling van de internationale classificatie kunnen worden gedaan door de Administratie van ieder land van de bijzondere Unie of door het Internationale Bureau. Elk voorstel van een Administratie wordt door deze ter kennis gebracht van het Internationale Bureau. De voorstellen van de Administraties en van het Internationale Bureau worden door het laatste toegezonden aan de leden van de Commissie van deskundigen, uiterlijk twee maanden voor de zitting van de Commissie waarin de voorstellen zullen worden behandeld.   
 4).  De besluiten van de Commissie van deskundigen betreffende wijzigingen van en aanvullingen op de internationale classificatie worden met eenvoudige meerderheid van stemmen van de landen van de bijzondere Unie genomen. Indien deze besluiten de instelling van een nieuwe klasse of de overbrenging van voortbrengselen van de ene klasse naar de andere inhouden, is evenwel eenstemmigheid vereist.   
 5).  De deskundigen zijn bevoegd hun stem per brief uit te brengen.   
-6).  Ingeval een land geen vertegenwoordiger heeft aangewezen voor een bepaalde zitting van de Commissie van deskundigen, of de aangewezen deskundige zijn stem niet heeft uitgebracht tijdens de zitting of binnen een in het huishoudelijke reglement van de Commissie van deskundigen vastgestelde termijn, wordt het desbetreffende land geacht het besluit van de Commissie te hebben aanvaard.   
+6).  Ingeval een land geen vertegenwoordiger heeft aangewezen voor een bepaalde zitting van de Commissie van deskundigen, of de aangewezen deskundige zijn stem niet heeft uitgebracht tijdens de zitting of binnen een in het huishoudelijke reglement van de Commissie van deskundigen vastgestelde termijn, wordt het desbetreffende land geacht het besluit van de Commissie te hebben aanvaard.  
 
 ### Artikel  4  
 
 ####Kennisgeving en bekendmaking van de classificatie, alsmede van aanvullingen en wijzigingen daarvan
 
 1).  De alfabetische lijst van voortbrengselen en de toelichtingen vastgesteld door de Commissie van deskundigen, alsmede alle wijzigingen en aanvullingen van de internationale classificatie waartoe de Commissie besluit, worden door het Internationale Bureau ter kennis gebracht van de Administraties van de landen van de bijzondere Unie. De besluiten van de Commissie van deskundigen treden in werking na ontvangst van de kennisgeving. Indien zij de instelling van een nieuwe klasse of de overbrenging van voortbrengselen van de ene klasse naar de andere inhouden, treden zij evenwel in werking binnen een termijn van zes maanden, te rekenen van de datum van verzending van de kennisgeving.   
-2).  Het Internationale Bureau brengt in zijn hoedanigheid van bewaarder van de internationale classificatie daarin de in werking getreden wijzigingen en aanvullingen aan. Van deze wijzigingen en aanvullingen geschiedt bekendmaking in de door de Algemene Vergadering aan te wijzen periodieken.   
+2).  Het Internationale Bureau brengt in zijn hoedanigheid van bewaarder van de internationale classificatie daarin de in werking getreden wijzigingen en aanvullingen aan. Van deze wijzigingen en aanvullingen geschiedt bekendmaking in de door de Algemene Vergadering aan te wijzen periodieken.  
 
 ### Artikel  5  
 
@@ -769,13 +769,13 @@ v) stelt zij het financiële reglement van de bijzondere Unie vast;
 
 vi) besluit zij over de opstelling van de officiële teksten van de internationale classificatie in andere talen dan het Engels en het Frans;  
 
-vii) roept zij, naast de Commissie van deskundigen ingesteld bij artikel 3, de andere commissies van deskundigen en de werkgroepen in het leven welke zij van belang acht voor de verwezenlijking van de doelstellingen van de bijzondere Unie;  
+vii) roept zij, naast de Commissie van deskundigen ingesteld bij artikel 3, de andere commissies van deskundigen en de werkgroepen in het leven welke zij van belang acht voor de verwezenlijking van de doelstellingen van de bijzondere Unie;   
 
 viii) beslist zij welke landen, geen leden der bijzondere Unie zijnde, en welke intergouvernementele en niet-gouvernementele internationale organisaties als waarnemers tot haar vergaderingen kunnen worden toegelaten;  
 
 ix) neemt zij de wijzigingen aan van de artikelen 5 tot en met 8;  
 
-x) verricht zij iedere handeling die dienstig is ter verwezenlijking van de doelstellingen van de bijzondere Unie;  
+x)  verricht zij iedere handeling die dienstig is ter verwezenlijking van de doelstellingen van de bijzondere Unie;  
 
 xi) verricht zij alle overige taken die in deze Overeenkomst besloten liggen.    
 
@@ -800,7 +800,7 @@ a) De Algemene Vergadering komt eenmaal in de twee jaar in gewone zitting bijeen
 b) De Algemene Vergadering komt in buitengewone zitting bijeen op uitnodiging van de Directeur-Generaal ingevolge een verzoek van een vierde van de landen die lid zijn van de Algemene Vergadering.  
 
 c) Voor elke zitting wordt de agenda opgesteld door de Directeur-Generaal.     
-5).  De Algemene Vergadering stelt haar reglement van orde vast.   
+5).  De Algemene Vergadering stelt haar reglement van orde vast.  
 
 ### Artikel  6  
 
@@ -821,7 +821,7 @@ a) Het Internationale Bureau bereidt volgens de aanwijzingen van de Algemene Ver
 b) Het Internationale Bureau kan bij de voorbereiding van de herzieningsconferenties het advies inwinnen van intergouvernementele en niet-gouvernementele internationale organisaties.  
 
 c) De Directeur-Generaal en de door hem aangewezen personen nemen zonder stemrecht deel aan de beraadslagingen tijdens deze herzieningsconferenties.     
-4).  Het Internationale Bureau voert alle overige hem opgedragen taken uit.   
+4).  Het Internationale Bureau voert alle overige hem opgedragen taken uit.  
 
 ### Artikel  7  
 
@@ -870,7 +870,7 @@ c) Het aandeel en de wijze van storting worden vastgesteld door de Algemene Verg
 a) De Overeenkomst betreffende de zetelvestiging, gesloten met het land op welks grondgebied de Organisatie haar zetel heeft, bepaalt dat, indien het operationele fonds niet toereikend is, dat land voorschotten verstrekt. Het bedrag van deze voorschotten en de voorwaarden waarop zij worden verstrekt, vormen telkenmale het onderwerp van afzonderlijke overeenkomsten tussen het betrokken land en de Organisatie.  
 
 b) Het land bedoeld onder a), en de Organisatie, hebben elk het recht de overeenkomst tot het verstrekken van voorschotten schriftelijk op te zeggen. De opzegging wordt van kracht drie jaar na afloop van het jaar waarin de kennisgeving is gedaan.     
-8).  Het nazien der rekeningen wordt verricht, op de wijze voorzien in het financiële reglement, door een of meer landen van de bijzondere Unie of door onafhankelijke controleurs, die met hun instemming zijn aangewezen door de Algemene Vergadering.   
+8).  Het nazien der rekeningen wordt verricht, op de wijze voorzien in het financiële reglement, door een of meer landen van de bijzondere Unie of door onafhankelijke controleurs, die met hun instemming zijn aangewezen door de Algemene Vergadering.  
 
 ### Artikel  8  
 
@@ -878,33 +878,33 @@ b) Het land bedoeld onder a), en de Organisatie, hebben elk het recht de overeen
 
 1).  Voorstellen tot wijziging van de artikelen 5, 6 en 7 en van dit artikel kunnen worden ingediend door ieder land van de bijzondere Unie of door de Directeur-Generaal. Deze voorstellen worden door laatstgenoemde ten minste zes maanden voor zij aan de behandeling door de Algemene Vergadering worden onderworpen, medegedeeld aan de landen van de bijzondere Unie.   
 2).  De wijzigingen van de in het eerste lid genoemde artikelen worden door de Algemene Vergadering vastgesteld. Voor deze vaststelling is drie vierde van de uitgebrachte stemmen vereist; voor een wijziging van artikel 5 en van dit lid is evenwel vier vijfde van de uitgebrachte stemmen vereist.   
-3).  De wijzigingen van de in het eerste lid genoemde artikelen worden van kracht één maand na ontvangst door de Directeur-Generaal van de schriftelijke verklaringen van aanvaarding, verricht overeenkomstig hun onderscheiden grondwettelijke procedures, door drie vierde van de landen die lid waren van de bijzondere Unie op het tijdstip waarop de herziening werd aanvaard. Een aldus aanvaarde herziening van de genoemde artikelen bindt alle landen die lid zijn van de bijzondere Unie op het tijdstip waarop de wijziging van kracht wordt, of die op een latere datum lid worden; wijzigingen, die de financiële verplichtingen van de landen der bijzondere Unie verzwaren, binden evenwel slechts die landen die te kennen hebben gegeven deze wijzigingen te aanvaarden.   
+3).  De wijzigingen van de in het eerste lid genoemde artikelen worden van kracht één maand na ontvangst door de Directeur-Generaal van de schriftelijke verklaringen van aanvaarding, verricht overeenkomstig hun onderscheiden grondwettelijke procedures, door drie vierde van de landen die lid waren van de bijzondere Unie op het tijdstip waarop de herziening werd aanvaard. Een aldus aanvaarde herziening van de genoemde artikelen bindt alle landen die lid zijn van de bijzondere Unie op het tijdstip waarop de wijziging van kracht wordt, of die op een latere datum lid worden; wijzigingen, die de financiële verplichtingen van de landen der bijzondere Unie verzwaren, binden evenwel slechts die landen die te kennen hebben gegeven deze wijzigingen te aanvaarden.  
 
 ### Artikel  9  
 
 ####Bekrachtiging, toetreding; inwerkingtreding
 
-1).  Elk land dat partij is bij het Verdrag van Parijs voor de bescherming van de industriële eigendom en dat deze Overeenkomst heeft ondertekend, kan haar bekrachtigen en, zo het deze niet heeft ondertekend, daartoe toetreden.   
+1).  Elk land dat partij is bij het [Verdrag van Parijs voor de bescherming van de industriële eigendom](../../../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) en dat deze Overeenkomst heeft ondertekend, kan haar bekrachtigen en, zo het deze niet heeft ondertekend, daartoe toetreden.   
 2).  De akten van bekrachtiging en van toetreding worden nedergelegd bij de Directeur-Generaal.   
 3).  
 
 a) Voor de eerste vijf landen die hun akten van bekrachtiging of van toetreding hebben nedergelegd, treedt deze Overeenkomst in werking drie maanden na de datum waarop de vijfde akte van bekrachtiging of van toetreding is nedergelegd.  
 
 b) Voor ieder ander land treedt deze Overeenkomst in werking drie maanden na de datum waarop zijn bekrachtiging of zijn toetreding door de Directeur-Generaal is bekendgemaakt, tenzij in de akte van bekrachtiging of van toetreding een latere datum is vermeld. In dit laatste geval treedt voor het betrokken land deze Overeenkomst in werking op de aldus aangegeven datum.     
-4).  Bekrachtiging of toetreding houdt van rechtswege in toetreding tot alle bepalingen en toelating tot alle voordelen in deze Overeenkomst vastgelegd.   
+4).  Bekrachtiging of toetreding houdt van rechtswege in toetreding tot alle bepalingen en toelating tot alle voordelen in deze Overeenkomst vastgelegd.  
 
 ### Artikel  10  
 
 ####Rechtskracht en looptijd van de Overeenkomst
 
-Deze Overeenkomst heeft dezelfde rechtskracht en dezelfde looptijd als het Verdrag van Parijs voor de bescherming van de industriële eigendom.  
+Deze Overeenkomst heeft dezelfde rechtskracht en dezelfde looptijd als het [Verdrag van Parijs voor de bescherming van de industriële eigendom](../../../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md). 
 
 ### Artikel  11  
 
 ####Herziening van de artikelen 1 tot en met 4 en 9 tot en met 15
 
 1).  De artikelen 1 tot en met 4 en 9 tot en met 15 van deze Overeenkomst kunnen worden herzien ten einde daarin wenselijk geachte verbeteringen aan te brengen.   
-2).  Elk van deze herzieningen zal worden behandeld in een conferentie van afgevaardigden van de landen van de bijzondere Unie.   
+2).  Elk van deze herzieningen zal worden behandeld in een conferentie van afgevaardigden van de landen van de bijzondere Unie.  
 
 ### Artikel  12  
 
@@ -912,13 +912,13 @@ Deze Overeenkomst heeft dezelfde rechtskracht en dezelfde looptijd als het Verdr
 
 1).  Elk land kan deze Overeenkomst opzeggen door een kennisgeving gericht aan de Directeur-Generaal. Deze opzegging geldt alleen ten aanzien van het land dat heeft opgezegd; de Overeenkomst blijft van kracht en uitvoerbaar ten opzichte van de andere landen van de bijzondere Unie.   
 2).  De opzegging wordt van kracht een jaar na de datum waarop de Directeur-Generaal de kennisgeving heeft ontvangen.   
-3).  De bevoegdheid tot opzegging, bedoeld in dit artikel, kan door een land slechts worden uitgeoefend na afloop van een termijn van vijf jaren, te rekenen van de datum waarop dat land lid is geworden van de bijzondere Unie.   
+3).  De bevoegdheid tot opzegging, bedoeld in dit artikel, kan door een land slechts worden uitgeoefend na afloop van een termijn van vijf jaren, te rekenen van de datum waarop dat land lid is geworden van de bijzondere Unie.  
 
 ### Artikel  13  
 
 ####Grondgebieden
 
-De bepalingen van artikel 24 van het Verdrag van Parijs voor de bescherming van de industriële eigendom zijn van toepassing op deze Overeenkomst.  
+De bepalingen van [artikel 24 van het Verdrag van Parijs voor de bescherming van de industriële eigendom](../../../../../../../../../../../../../../verdrag/verdrag/van/parijs/tot/bescherming/van/de/industriële/eigendom/van/20/etc/BWBV0004120/README.md) zijn van toepassing op deze Overeenkomst. 
 
 ### Artikel  14  
 
@@ -932,13 +932,13 @@ b) Deze Overeenkomst staat open voor ondertekening te Bern tot 30 juni 1969.
 2).  Officiële teksten worden vastgesteld door de Directeur-Generaal, na raadpleging van de betrokken Regeringen, in andere door de Algemene Vergadering aan te wijzen talen.   
 3).  De Directeur-Generaal doet twee door de Regering van Zwitserland voor eensluidend gewaarmerkte afschriften van de ondertekende tekst van deze Overeenkomst toekomen aan de Regeringen van de landen die haar hebben ondertekend en, op verzoek, aan de Regeringen van andere landen.   
 4).  De Directeur-Generaal doet deze Overeenkomst registreren bij het Secretariaat van de Organisatie der Verenigde Naties.   
-5).  De Directeur-Generaal brengt de datum van inwerkingtreding van de Overeenkomst, de ondertekeningen, de nederleggingen van akten van bekrachtiging of toetreding, de aanvaardingen van wijzigingen van deze Overeenkomst en de data waarop deze wijzigingen van kracht worden, alsmede de kennisgevingen van opzegging ter kennis van de Regeringen van alle landen van de bijzondere Unie.   
+5).  De Directeur-Generaal brengt de datum van inwerkingtreding van de Overeenkomst, de ondertekeningen, de nederleggingen van akten van bekrachtiging of toetreding, de aanvaardingen van wijzigingen van deze Overeenkomst en de data waarop deze wijzigingen van kracht worden, alsmede de kennisgevingen van opzegging ter kennis van de Regeringen van alle landen van de bijzondere Unie.  
 
 ### Artikel  15  
 
 ####Overgangsbepaling
 
-Tot het tijdstip van ambtsaanvaarding van de eerste Directeur-Generaal worden de verwijzingen in deze Overeenkomst naar het Internationale Bureau van de Organisatie of naar de Directeur-Generaal geacht betrekking te hebben op de Verenigde Internationale Bureaus voor de bescherming van de intellectuele eigendom (BIRPI) respectievelijk op hun Directeur.  
+Tot het tijdstip van ambtsaanvaarding van de eerste Directeur-Generaal worden de verwijzingen in deze Overeenkomst naar het Internationale Bureau van de Organisatie of naar de Directeur-Generaal geacht betrekking te hebben op de Verenigde Internationale Bureaus voor de bescherming van de intellectuele eigendom (BIRPI) respectievelijk op hun Directeur. 
 
 TEN BLIJKE WAARVAN de ondergetekenden, hiertoe behoorlijk gemachtigd, deze Overeenkomst hebben ondertekend. GEDAAN te Locarno, de 8ste oktober 1968.  
 
@@ -958,7 +958,7 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 05) Voedingsmiddelen voor dieren  
 
-99) Diversen   Klasse 2 - Kleding, waaronder begrepen schoeisel 
+99) Diversen Klasse 2 - Kleding, waaronder begrepen schoeisel
 
 01) Kleding  
 
@@ -976,7 +976,7 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 08) Kledingfournituren  
 
-99) Diversen   Klasse 3 - Reisartikelen en voorwerpen voor persoonlijk gebruik, niet ingedeeld in andere klassen 
+99) Diversen Klasse 3 - Reisartikelen en voorwerpen voor persoonlijk gebruik, niet ingedeeld in andere klassen
 
 01) Reiskoffers, valiezen, aktentassen  
 
@@ -986,7 +986,7 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 04) Waaiers  
 
-99) Diversen   Klasse 4 - Borstelwerk 
+99) Diversen Klasse 4 - Borstelwerk
 
 01) Schoonmaakborstels en bezems  
 
@@ -996,7 +996,7 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 04) Kwasten en penselen  
 
-99) Diversen   Klasse 5 - Stukgoederen van textiel; natuurlijke stoffen of kunststoffen; leder 
+99) Diversen Klasse 5 - Stukgoederen van textiel; natuurlijke stoffen of kunststoffen; leder
 
 01) Garens  
 
@@ -1016,7 +1016,7 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 09) Leder en kunstledersoorten  
 
-99) Diversen   Klasse 6 - Meubilair 
+99) Diversen Klasse 6 - Meubilair
 
 01) Meubelen  
 
@@ -1036,7 +1036,7 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 09) Huishoudlinnen en tafellinnen  
 
-99) Diversen   Klasse 7 - Huishoudelijke artikelen, voor zover niet begrepen in andere klassen 
+99) Diversen Klasse 7 - Huishoudelijke artikelen, voor zover niet begrepen in andere klassen
 
 01) Vaatwerk en glaswerk  
 
@@ -1050,7 +1050,7 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 06) Strijkijzers, apparaten voor wassen, drogen en reinigen  
 
-99) Diversen   Klasse 8 - Gereedschappen en ijzerwaren 
+99) Diversen Klasse 8 - Gereedschappen en ijzerwaren
 
 01) Gereedschappen en werktuigen voor de land-, bos- en tuinbouw  
 
@@ -1060,7 +1060,7 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 04) Spijkers, schroeven, moeren, bouten, enz.  
 
-99) Diversen   Klasse 9 - Verpakkingsmiddelen en houders 
+99) Diversen Klasse 9 - Verpakkingsmiddelen en houders
 
 01) Flessen, flacons, bonbonnières en potten  
 
@@ -1076,9 +1076,9 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 07) Conservenblikken  
 
-08) Touw en ander bindmateriaal  
+08) Touw en ander bindmateriaal 
 
-99) Diversen   Klasse 10 - Uurwerken en meetinstrumenten 
+99) Diversen Klasse 10 - Uurwerken en meetinstrumenten
 
 01) Kamerklokken en pendules  
 
@@ -1098,11 +1098,11 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 09) Instrumenten voor de meting van temperaturen  
 
-10) Instrumenten voor de meting van elektrische grootheden (voltmeters, enz.)  
+10) Instrumenten voor de meting van elektrische grootheden (voltmeters, enz.) 
 
-11) Beproevingsinstrumenten  
+11) Beproevingsinstrumenten 
 
-99) Diversen   Klasse 11 - Voorwerpen voor versiering 
+99) Diversen Klasse 11 - Voorwerpen voor versiering
 
 01) Bijouterieën, juwelen  
 
@@ -1114,7 +1114,7 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 05) Feestversiering  
 
-99) Diversen   Klasse 12 - Voertuigen 
+99) Diversen Klasse 12 - Voertuigen
 
 01) Voertuigen, bestemd om door dieren te worden getrokken  
 
@@ -1138,13 +1138,13 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 11) Motorrijwielen en rijwielen  
 
-12) Kinderwagens en invaliden wagens  
+12) Kinderwagens en invalidenwagens  
 
 13) Bijzondere voertuigen  
 
 14) Buiten- en binnenbanden en andere uitrustingsstukken en toebehoren voor automobielen, voor zover niet in andere klassen begrepen  
 
-99) Diversen   Klasse 13 - Apparaten voor de opwekking, verdeling en omzetting van elektriciteit 
+99) Diversen Klasse 13 - Apparaten voor de opwekking, verdeling en omzetting van elektriciteit
 
 01) Generatoren en motoren  
 
@@ -1152,7 +1152,7 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 03) Materialen voor de distributie en de beheersing van elektrische energie (geleiders, schakelaars, schakelborden, enz.)  
 
-99) Diversen   Klasse 14 - Elektrische en elektronische toestellen 
+99) Diversen Klasse 14 - Elektrische en elektronische toestellen
 
 01) Toestellen voor het opnemen en weergeven van geluiden of beelden  
 
@@ -1162,7 +1162,7 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 04) Geluidsversterkers  
 
-99) Diversen   Klasse 15 - Machines en werktuigen voor de industrie en voor huishoudelijk gebruik 
+99) Diversen Klasse 15 - Machines en werktuigen voor de industrie en voor huishoudelijk gebruik
 
 01) Motoren (geen elektromotoren)  
 
@@ -1188,7 +1188,7 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 12) Machines voor voedselbereiding  
 
-99) Diversen   Klasse 16 - Artikelen voor de fotografie en de cinematografie, optische artikelen 
+99) Diversen Klasse 16 - Artikelen voor de fotografie en de cinematografie, optische artikelen
 
 01) Fotografietoestellen  
 
@@ -1206,7 +1206,7 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 08) Optische artikelen, zoals brillen, microscopen, enz.  
 
-99) Diversen   Klasse 17 - Muziekinstrumenten 
+99) Diversen Klasse 17 - Muziekinstrumenten
 
 01) Instrumenten met een klavier (elektronische orgels en andere daaronder begrepen)  
 
@@ -1218,7 +1218,7 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 05) Mechanische instrumenten  
 
-99) Diversen   Klasse 18 - Apparaten voor drukkerijen en kantoormachines 
+99) Diversen Klasse 18 - Apparaten voor drukkerijen en kantoormachines
 
 01) Schrijfmachines en rekenmachines (elektronische machines uitgezonderd)  
 
@@ -1230,7 +1230,7 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 05) Loodglit  
 
-99) Diversen   Klasse 19 - Papierwaren, kantoorartikelen, materiaal voor kunstenaars en voor het onderwijs 
+99) Diversen Klasse 19 - Papierwaren, kantoorartikelen, materiaal voor kunstenaars en voor het onderwijs
 
 01) Schrijfpapier en enveloppen  
 
@@ -1248,7 +1248,7 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 08) Onderwijsmateriaal  
 
-99) Diversen   Klasse 20 - Uitrusting voor verkoop en reclame 
+99) Diversen Klasse 20 - Uitrusting voor verkoop en reclame
 
 01) Verkoopautomaten  
 
@@ -1256,7 +1256,7 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 03) Schilden en ander materiaal voor reclamedoeleinden  
 
-99) Diversen   Klasse 21 - Spellen, speelgoed en sportartikelen 
+99) Diversen Klasse 21 - Spellen, speelgoed en sportartikelen
 
 01) Spellen  
 
@@ -1268,7 +1268,7 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 05) Tenten  
 
-99) Diversen   Klasse 22 - Wapens en artikelen bestemd voor de jacht, de visserij en de verdelging van schadelijk gedierte 
+99) Diversen Klasse 22 - Wapens en artikelen bestemd voor de jacht, de visserij en de verdelging van schadelijk gedierte
 
 01) Blanke wapens  
 
@@ -1288,7 +1288,7 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 09) Vallen en artikelen voor de verdelging van schadelijk gedierte  
 
-99) Diversen   Klasse 23 - Sanitaire installaties, installaties voor verwarming, ventilatie en luchtbehandeling 
+99) Diversen Klasse 23 - Sanitaire installaties, installaties voor verwarming, ventilatie en luchtbehandeling
 
 01) Apparaten voor de geleiding van vloeistoffen en gas (kranen en pijpen daaronder begrepen)  
 
@@ -1300,7 +1300,7 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 05) Vaste brandstoffen  
 
-99) Diversen   Klasse 24 - Geneeskunde en laboratoria 
+99) Diversen Klasse 24 - Geneeskunde en laboratoria
 
 01) Materiaal voor het vervoer van zieken en voor opneming in een ziekenhuis  
 
@@ -1312,7 +1312,7 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 05) Verbandmiddelen, zwachtels en artikelen voor medische verzorging  
 
-99) Diversen   Klasse 25 - Gebouwen en bouwelementen 
+99) Diversen Klasse 25 - Gebouwen en bouwelementen
 
 01) Materiaal en elementen voor de constructie van gebouwen zoals stenen, balken, dakpannen, leien, panelen, enz.  
 
@@ -1322,9 +1322,9 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 04) Huizen, garages en alle andere gebouwen  
 
-05) Constructie-elementen voor de bouwkunde  
+05) Constructie-elementen voor de bouwkunde 
 
-99) Diversen   Klasse 26 - Verlichtingstoestellen 
+99) Diversen Klasse 26 - Verlichtingstoestellen
 
 01) Lichtbronnen, al dan niet elektrisch, zoals gloeilampen, buizen en licht-uitstralende platen  
 
@@ -1338,7 +1338,7 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 06) Lampekappen  
 
-99) Diversen   Klasse 27 - Tabak en rokersartikelen 
+99) Diversen Klasse 27 - Tabak en rokersartikelen
 
 01) Tabak, sigaren en sigaretten  
 
@@ -1352,7 +1352,7 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 06) Sigaren- en sigarettenkokers, tabakszakken en tabakspotten  
 
-99) Diversen   Klasse 28 - Farmaceutische en kosmetische produkten en artikelen, toiletartikelen en -materialen 
+99) Diversen Klasse 28 - Farmaceutische en kosmetische produkten en artikelen, toiletartikelen en -materialen
 
 01) Farmaceutische produkten en artikelen  
 
@@ -1360,7 +1360,7 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 03) Toiletartikelen en materialen voor schoonheidsverzorging  
 
-99) Diversen   Klasse 29 - Toestellen en uitrusting voor reddingswerkzaamheden en de bescherming van de mens 
+99) Diversen Klasse 29 - Toestellen en uitrusting voor reddingswerkzaamheden en de bescherming van de mens
 
 01) Toestellen en uitrusting voor brandbestrijding  
 
@@ -1368,7 +1368,7 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 03) Toestellen en uitrusting voor reddingswerkzaamheden in de bergen  
 
-99) Toestellen en uitrusting tegen andere gevaren (op de weg, in de mijnen, in de industrie, enz.)   Klasse 30 - Verzorging en onderhoud van dieren 
+99) Toestellen en uitrusting tegen andere gevaren (op de weg, in de mijnen, in de industrie, enz.) Klasse 30 - Verzorging en onderhoud van dieren
 
 01) Open en gesloten hokken  
 
@@ -1376,4 +1376,4 @@ Klasse 1 - Voedingsmiddelen, waaronder begrepen diëtische voedingsmiddelen
 
 03) Zadelmakerswerk  
 
-04) Toestellen en uitrusting voor de redding van dieren   Klasse 31 - Overige Alle produkten niet begrepen in de voorgaande klassen.   
+04) Toestellen en uitrusting voor de redding van dieren   Klasse 31 - OverigeAlle produkten niet begrepen in de voorgaande klassen.  
