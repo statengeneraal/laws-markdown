@@ -11,17 +11,17 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wet op de lijkbezorging.   
+Wijzigt de Wet op de lijkbezorging. 
 
 ### Artikel  II  
 
-Een gemeentelijke lijkschouwer die niet is ingeschreven in een register als bedoeld in [artikel 5 van de Wet op de lijkbezorging](../../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md), kan tot drie jaar na de inwerkingtreding van artikel I, onderdeel Bb, als zodanig benoemd blijven.  
+Een gemeentelijke lijkschouwer die niet is ingeschreven in een register als bedoeld in [artikel 5 van de Wet op de lijkbezorging](../../../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md), kan tot drie jaar na de inwerkingtreding van artikel I, onderdeel Bb, als zodanig benoemd blijven. 
 
 ### Artikel  III  
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 12 juni 2009  
