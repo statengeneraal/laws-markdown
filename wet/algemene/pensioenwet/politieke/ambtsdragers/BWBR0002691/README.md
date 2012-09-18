@@ -141,7 +141,7 @@ b. wegens enig strafbaar feit is veroordeeld waaruit naar Ons oordeel blijkt dat
 
 ####Duur van de uitkering
 
-1.  De uitkering wordt toegekend voor een duur gelijk aan de tijd waarin de belanghebbende minister is geweest, maar ten minste voor de duur van twee jaren en ten hoogste voor de duur van vier jaren. Indien de belanghebbende met een of meer onderbrekingen minister is geweest, wordt in aanmerking genomen de tijd gedurende welke hij minister is geweest in een tijdvak, laatstelijk voor zijn ontslag, waarin zijn ministerschap voor ten hoogste een zesde deel van dat tijdvak is onderbroken.   
+1.  De uitkering wordt toegekend voor een duur gelijk aan de tijd waarin de belanghebbende minister is geweest, maar ten minste voor de duur van twee jaren en ten hoogste voor de duur van drie jaren en twee maanden. Indien de belanghebbende met een of meer onderbrekingen minister is geweest, wordt in aanmerking genomen de tijd gedurende welke hij minister is geweest in een tijdvak, laatstelijk voor zijn ontslag, waarin zijn ministerschap voor ten hoogste een zesde deel van dat tijdvak is onderbroken.   
 2.  In afwijking van het eerste lid wordt de uitkering toegekend voor de duur van zes maanden, indien de belanghebbende korter dan drie maanden minister is geweest.   
 3.  Indien de belanghebbende ten tijde van zijn aftreden de leeftijd van 55 jaar heeft bereikt en hij in het tijdvak van twaalf jaren dat direct aan zijn ontslag voorafgaat ten minste tien jaren minister is geweest, wordt de uitkering voortgezet tot het tijdstip waarop hij de leeftijd van 65 jaar bereikt.   
 4.  Voor de berekening van de uitkeringsduur, bedoeld in het eerste lid, en de tien jaren, bedoeld in het derde lid, wordt met tijd waarin de belanghebbende minister is geweest gelijkgesteld de tijd waarin hij een functie heeft bekleed als genoemd in artikel 2, tweede lid, onder b en d. Indien sprake is van gelijkgestelde tijd als bedoeld in de vorige zin wordt met betrekking tot die tijd op dezelfde wijze als in de tweede zin van het eerste lid rekening gehouden met onderbreking in de uitoefening van deze functies.   
@@ -596,7 +596,7 @@ b. voor de wees bedoeld in artikel 25, eerste lid, onder b, 0,75 percent van het
 
 1.  De nabestaande die de leeftijd van 65 jaar nog niet heeft bereikt, heeft tot de dag waarop hij die leeftijd bereikt recht op een toeslag op zijn volgens de voorgaande artikelen berekende pensioen ten bedrage van 15 percent van dat pensioen voorzover berekend over tijd vóór 1 augustus 2003 en van 7,5 percent voorzover berekend over tijd na 31 juli 2003, behoudens het bepaalde in het tweede en vierde lid.   
 2.  Voor de toepassing van het eerste lid wordt onder een pensioen als daar bedoeld verstaan het pensioen nadat eventueel hoofdstuk 17 toepassing heeft gevonden.   
-3.  Dit artikel is niet van toepassing ten aanzien van degene die recht heeft op bijzonder nabestaandenpensioen, noch degene wiens nabestaandenpensioen wegens hertrouwen of een aanmelding opnieuw is vastgesteld.   
+3.  Dit artikel is niet van toepassing ten aanzien van degene die recht heeft op bijzonder nabestaandenpensioen, noch degene wiens nabestaandenpensioen met toepassing van artikel 24 opnieuw is vastgesteld.   
 4.  De in het eerste lid bedoelde toeslag bedraagt ten hoogste vijftien percent van f 72.309,80 per 1 januari 2008 € 38.727,06. Dit bedrag wordt telkens gewijzigd bij de ministeriële regeling, bedoeld in artikel 105, derde lid, overeenkomstig de aanpassing van een bedrag dat, omgerekend naar euro's, op 1 januari 1985  € 28 678,91 bedroeg.   
 
 ### Artikel  27b  
@@ -702,6 +702,12 @@ De met ingang van een datum voorafgaande aan het tijdstip van de inwerkingtredin
 1.  Ten aanzien van de gewezen minister aan wie een uitkering is toegekend ter zake van een ontslag als zodanig ná 31 december 1963 doch vóór 1 september 1966, wordt het bedrag van de uitkering, na aftrek van de eventueel daarop toegepaste vermindering wegens inkomsten, verhoogd met een compensatie van de premie die ingevolge de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) en de Algemene Weduwen- en Wezenwet van de uitkering wordt geheven, van 5,6 ten honderd van bedoeld bedrag over het jaar 1964 en daarna van 7,1 ten honderd van bedoeld bedrag, met inachtneming van de desbetreffende maximale grens.   
 2.  Ten aanzien van uitkeringen die zijn toegekend ter zake van een ontslag voor het tijdstip van de inwerkingtreding van deze wet, blijft het bepaalde in artikel 3, eerste lid, en artikel 8, eerste lid, van de wet van 1 augustus 1956, *Stb.* 455, van kracht.   
 3.  Uitkeringen die zijn toegekend ter zake van een ontslag voor het tijdstip van de inwerkingtreding van deze wet, worden te rekenen van 1 januari 1969 of het latere tijdstip waarop de uitkering is ingegaan, overeenkomstig het bepaalde in artikel 8 herzien.   
+
+### Artikel  39a  
+
+####(behoort bij hoofdstuk 3 )
+
+Ten aanzien van de uitkeringen die zijn toegekend ter zake van een ontslag vóór het tijdstip van inwerkingtreding van de [Wet aanpassing uitkeringsduur Appa](../../../../../../wet/wet/aanpassing/uitkeringsduur/appa/BWBR0031991/README.md), blijft de uitkeringsduur van kracht zoals deze gold op de dag voorafgaand aan dat tijdstip.  
 
 ### Artikel  40  
 
@@ -820,7 +826,7 @@ b. indien aan de belanghebbende rechtens zijn vrijheid is ontnomen.
 
 ####Duur van de uitkering
 
-1.  De uitkering wordt toegekend voor een duur gelijk aan de tijd waarin de belanghebbende kamerlid is geweest, maar ten minste voor de duur van twee jaren en ten hoogste voor de duur van vier jaren. Indien de belanghebbende met een of meer onderbrekingen kamerlid is geweest, wordt in aanmerking genomen de tijd gedurende welke hij kamerlid is geweest in een tijdvak, laatstelijk voor zijn aftreden, waarin zijn kamerlidmaatschap voor ten hoogste een zesde deel van dat tijdvak is onderbroken.   
+1.  De uitkering wordt toegekend voor een duur gelijk aan de tijd waarin de belanghebbende kamerlid is geweest, maar ten minste voor de duur van twee jaren en ten hoogste voor de duur van drie jaren en twee maanden. Indien de belanghebbende met een of meer onderbrekingen kamerlid is geweest, wordt in aanmerking genomen de tijd gedurende welke hij kamerlid is geweest in een tijdvak, laatstelijk voor zijn aftreden, waarin zijn kamerlidmaatschap voor ten hoogste een zesde deel van dat tijdvak is onderbroken.   
 2.  In afwijking van het eerste lid wordt de uitkering toegekend voor de duur van zes maanden, indien de belanghebbende korter dan drie maanden kamerlid is geweest.   
 3.  Indien de belanghebbende ten tijde van zijn aftreden de leeftijd van 55 jaar heeft bereikt en hij in het tijdvak van twaalf jaren dat direct aan zijn aftreden voorafgaat ten minste tien jaren kamerlid is geweest, wordt de uitkering voortgezet tot het tijdstip waarop hij de leeftijd van 65 jaar bereikt.   
 4.  Voor de berekening van de uitkeringsduur, bedoeld in het eerste lid, en de tien jaren, bedoeld in het derde lid, wordt met tijd waarin de belanghebbende kamerlid is geweest gelijkgesteld de tijd waarin hij een functie heeft bekleed als genoemd in artikel 2, tweede lid, onder a en d. Indien sprake is van gelijkgestelde tijd als bedoeld in de vorige zin wordt met betrekking tot die tijd op dezelfde wijze als in de tweede zin van het eerste lid rekening gehouden met onderbrekingen in de uitoefening van deze functies.   
@@ -1368,6 +1374,12 @@ De in de hoofdstukken 10 en 11 van deze afdeling vervatte regelingen zullen geen
 2.  Ten aanzien van de belanghebbende die op het tijdstip van inwerkingtreding van artikel 52, vierde lid, lid is van de Tweede Kamer van de Staten-Generaal en na de eerstvolgende verkiezing voor de leden van de Tweede Kamer niet wordt herbenoemd, dan wel bij herbenoeming onmiddellijk na de eerstvolgende verkiezing de leeftijd van 50 jaar heeft bereikt, wordt in artikel 52, eerste lid, voor «vier jaren» gelezen «zes jaren» en in artikel 52, derde lid, voor «55 jaar» gelezen: 50 jaar.   
 3.  Ten aanzien van de belanghebbende die op het tijdstip van inwerkingtreding van de artikelen 52a tot en met 52c lid is van de Tweede Kamer van de Staten-Generaal en na de eerstvolgende verkiezing voor de leden van de Tweede Kamer niet wordt herbenoemd, zijn de artikelen 52a tot en met 52c niet van toepassing.   
 
+### Artikel  84b  
+
+####(behoort bij hoofdstuk 10 )
+
+Ten aanzien van de uitkeringen die zijn toegekend ter zake van een ontslag of aftreden vóór het tijdstip van inwerkingtreding van de [Wet aanpassing uitkeringsduur Appa](../../../../../../wet/wet/aanpassing/uitkeringsduur/appa/BWBR0031991/README.md), blijft de uitkeringsduur van kracht zoals deze gold op de dag voorafgaand aan dat tijdstip.  
+
 ### Artikel  85  
 
 ####Het bedrag van het eigen pensioen (behoort bij hoofdstuk 11)
@@ -1848,7 +1860,7 @@ b. indien aan de belanghebbende rechtens zijn vrijheid is ontnomen.
 
 ### Artikel  132  
 
-1.  De uitkering wordt toegekend voor een duur gelijk aan de tijd waarin de belanghebbende lid van gedeputeerde staten is geweest, maar tenminste voor de duur van twee jaren en ten hoogste voor de duur van vier jaren. Indien de belanghebbende met een of meer onderbrekingen lid van gedeputeerde staten is geweest, wordt in aanmerking genomen de tijd gedurende welke hij lid van gedeputeerde staten is geweest in een tijdvak, laatstelijk voordat hij ophield lid van gedeputeerde staten te zijn, waarin zijn lidmaatschap van gedeputeerde staten voor ten hoogste een zesde deel van dat tijdvak is onderbroken.   
+1.  De uitkering wordt toegekend voor een duur gelijk aan de tijd waarin de belanghebbende lid van gedeputeerde staten is geweest, maar tenminste voor de duur van twee jaren en ten hoogste voor de duur van drie jaren en twee maanden. Indien de belanghebbende met een of meer onderbrekingen lid van gedeputeerde staten is geweest, wordt in aanmerking genomen de tijd gedurende welke hij lid van gedeputeerde staten is geweest in een tijdvak, laatstelijk voordat hij ophield lid van gedeputeerde staten te zijn, waarin zijn lidmaatschap van gedeputeerde staten voor ten hoogste een zesde deel van dat tijdvak is onderbroken.   
 2.  Indien de belanghebbende ten tijde van zijn aftreden als lid van gedeputeerde staten de leeftijd van 55 jaar heeft bereikt en hij in het tijdvak van twaalf jaren dat direct aan zijn aftreden voorafgaat ten minste tien jaren lid van gedeputeerde staten is geweest, wordt de uitkering voortgezet tot het tijdstip waarop hij de leeftijd van 65 jaar bereikt.   
 3.  Voor de berekening van de uitkeringsduur, bedoeld in het eerste lid, en de tien jaren, bedoeld in het tweede lid, wordt met tijd waarin de belanghebbende lid van gedeputeerde staten is geweest gelijkgesteld de tijd waarin hij een functie heeft bekleed als genoemd in artikel 2, tweede lid, onder a, b en d. Indien sprake is van gelijkgestelde tijd als bedoeld in de vorige zin wordt met betrekking tot die tijd op dezelfde wijze als in de tweede zin van het eerste lid rekening gehouden met onderbrekingen in de uitoefening van deze functies.   
 4.  In afwijking van het eerste lid wordt de uitkering toegekend voor de duur van zes maanden, indien de belanghebbende korter dan drie maanden lid van gedeputeerde staten is geweest.   
@@ -2328,7 +2340,7 @@ b. voor de wees bedoeld in artikel 148, eerste lid, onder b, 0,75 percent van he
 
 1.  De nabestaande die de leeftijd van 65 jaar nog niet heeft bereikt, heeft tot de dag waarop hij die leeftijd bereikt recht op een toeslag op zijn volgens de voorgaande artikelen berekende pensioen ten bedrage van 15 percent van dat pensioen voorzover berekend over tijd vóór 1 augustus 2003 en van 7,5 percent voorzover berekend over tijd na 31 juli 2003, behoudens het bepaalde in het tweede en vierde lid.   
 2.  Voor de toepassing van het eerste lid wordt onder een pensioen als daar bedoeld verstaan het pensioen nadat eventueel hoofdstuk 25 toepassing heeft gevonden.   
-3.  Dit artikel is niet van toepassing ten aanzien van degene die recht heeft op bijzonder nabestaandenpensioen, noch degene wiens nabestaandenpensioen wegens hertrouwen dan wel een aanmelding opnieuw is vastgesteld.   
+3.  Dit artikel is niet van toepassing ten aanzien van degene die recht heeft op bijzonder nabestaandenpensioen, noch degene wiens nabestaandenpensioen met toepassing van artikel 147 opnieuw is vastgesteld.   
 4.  De in het eerste lid bedoelde toeslag bedraagt ten hoogste vijftien percent van f 72.309,80 per 1 januari 2008 € 38.727,06. Dit bedrag wordt telkens gewijzigd bij de ministeriële regeling, bedoeld in artikel 157, derde lid, overeenkomstig de aanpassing van een bedrag dat, omgerekend naar euro's, op 1 januari 1985  € 28 678,91 bedroeg.   
 
 ### Artikel  150b  
@@ -2474,6 +2486,12 @@ In afwijking van artikel 130 is deze afdeling niet van toepassing op gewezen com
 ### Artikel  163d  
 
 Ten aanzien van leden van het dagelijks bestuur van een waterschap die na de waterschapsverkiezingen in 2008 op 8 januari 2009 zijn herbenoemd, wordt voor de opbouw van het pensioen over de pensioengeldige tijd tot en met 7 januari 2009 gerekend met de pensioengrondslag gebaseerd op de wedde die het lid van het dagelijks bestuur genoot op 7 januari 2009.  
+
+### Artikel  163e  
+
+####(behoort bij hoofdstuk 21 )
+
+Ten aanzien van de uitkeringen die zijn toegekend ter zake van een ontslag of aftreden vóór het tijdstip van inwerkingtreding van de [Wet aanpassing uitkeringsduur Appa](../../../../../../wet/wet/aanpassing/uitkeringsduur/appa/BWBR0031991/README.md), blijft de uitkeringsduur van kracht zoals deze gold op de dag voorafgaand aan dat tijdstip.  
 
 ### Zesde  afdeling  
 

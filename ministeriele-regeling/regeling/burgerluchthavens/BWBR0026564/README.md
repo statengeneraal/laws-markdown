@@ -5,31 +5,31 @@
 De Minister van Verkeer en Waterstaat en de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
 Gelet op:
 
-– de artikelen 8.49, vierde lid, 8.55, tweede lid, juncto artikel 8.29, tweede lid, 8.64, zesde lid, juncto artikel 8.49, vierde lid, 8.72, tweede lid en 8a.50, tweede lid van de Wet luchtvaart;  
+– de [artikelen 8.49, vierde lid](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [8.55, tweede lid](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), juncto [artikel 8.29, tweede lid](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [8.64, zesde lid](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), juncto [artikel 8.49, vierde lid](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [8.72, tweede lid](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [8a.50, tweede lid van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
 
-– de artikelen 3, vierde lid, 13, vierde lid, 14, eerste en derde lid, 15, eerste en derde lid, en 17, derde lid, van het Besluit burgerluchthavens;     Besluiten:     
+– de [artikelen 3, vierde lid](../../../../AMvB/besluit/burgerluchthavens/BWBR0026525/README.md), [13, vierde lid](../../../../AMvB/besluit/burgerluchthavens/BWBR0026525/README.md), [14, eerste en derde lid](../../../../AMvB/besluit/burgerluchthavens/BWBR0026525/README.md), [15, eerste en derde lid](../../../../AMvB/besluit/burgerluchthavens/BWBR0026525/README.md), en [17, derde lid, van het Besluit burgerluchthavens](../../../../AMvB/besluit/burgerluchthavens/BWBR0026525/README.md);     Besluiten:     
 ### Hoofdstuk  1  
 
 ####Algemeen
 
 ### Artikel  1  
 
-1.  In deze regeling wordt verstaan onder: 
+1. In deze regeling wordt verstaan onder: 
 
-*10 <sup>-5</sup> en 10 <sup>-6</sup> plaatsgebonden risicocontouren:* contouren ter aanduiding van de beperkingengebieden in verband met het externe-veiligheidsrisico vanwege het luchthavenluchtverkeer als bedoeld in artikel 9 van het Besluit burgerluchthavens;  
+*10<sup>-5</sup> en 10<sup>-6</sup> plaatsgebonden risicocontouren:* contouren ter aanduiding van de beperkingengebieden in verband met het externe-veiligheidsrisico vanwege het luchthavenluchtverkeer als bedoeld in [artikel 9 van het Besluit burgerluchthavens](../../../../AMvB/besluit/burgerluchthavens/BWBR0026525/README.md);  
 
-*besluit:*Besluit burgerluchthavens;  
+*besluit:* [Besluit burgerluchthavens](../../../../AMvB/besluit/burgerluchthavens/BWBR0026525/README.md);  
 
-*L <sub>den</sub> -contouren:* contouren ter aanduiding van de beperkingengebieden in verband met de geluidbelasting vanwege het luchthavenluchtverkeer als bedoeld in artikel 9 van het Besluit burgerluchthavens;  
+*L<sub>den</sub>-contouren:* contouren ter aanduiding van de beperkingengebieden in verband met de geluidbelasting vanwege het luchthavenluchtverkeer als bedoeld in [artikel 9 van het Besluit burgerluchthavens](../../../../AMvB/besluit/burgerluchthavens/BWBR0026525/README.md);  
 
-*totaal risicogewicht:* grenswaarde met betrekking tot het externe veiligheidsrisico vanwege het luchthavenluchtverkeer als bedoeld in artikel 3, eerste lid, van het besluit;  
+*totaal risicogewicht:* grenswaarde met betrekking tot het externe veiligheidsrisico vanwege het luchthavenluchtverkeer als bedoeld in [artikel 3, eerste lid, van het besluit](../../../../AMvB/besluit/burgerluchthavens/BWBR0026525/README.md);  
 
-*verdrag:* het Verdrag inzake de internationale burgerluchtvaart (Trb. 2009, 48).     
-2.  In deze regeling wordt onder schermzweeftoestel en zeilvliegtuig verstaan hetgeen daaronder wordt verstaan in artikel 1 van het Luchtverkeersreglement.   
+*verdrag:* het Verdrag inzake de internationale burgerluchtvaart (Trb. 2009, 48).    
+2.  In deze regeling wordt onder schermzweeftoestel en zeilvliegtuig verstaan hetgeen daaronder wordt verstaan in [artikel 1 van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md). 
 
 ### Artikel  2  
 
-Indien de tekst van de in deze regeling genoemde bijlagen bij het verdrag wijzigt, geldt deze wijziging vanaf het moment dat van deze wijziging mededeling is gedaan in het Tractatenblad.  
+Indien de tekst van de in deze regeling genoemde bijlagen bij het verdrag wijzigt, geldt deze wijziging vanaf het moment dat van deze wijziging mededeling is gedaan in het Tractatenblad. 
 
 ### Hoofdstuk  2  
 
@@ -37,25 +37,25 @@ Indien de tekst van de in deze regeling genoemde bijlagen bij het verdrag wijzig
 
 ### Artikel  3  
 
-Dit hoofdstuk is van toepassing op overige burgerluchthavens als bedoeld in artikel 8.1 van de wet.  
+Dit hoofdstuk is van toepassing op overige burgerluchthavens als bedoeld in [artikel 8.1 van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md). 
 
 ### Artikel  4  
 
-1.  De L <sub>den</sub> -contouren, de L <sub>den</sub> -grenswaarden in handhavingspunten en de geluidbelasting in handhavingspunten worden berekend en bepaald overeenkomstig het in bijlage 1 van deze regeling opgenomen voorschrift. Daarbij wordt gebruik gemaakt van de door het Nationaal Lucht- en Ruimtevaartlaboratorium opgestelde Indelingslijst luchtvaartuigtypen en van de Appendices van de voorschriften voor de berekening van de geluidbelasting in L <sub>den</sub>.   
-2.  Van het verschijnen van een nieuwe versie van de in het eerste lid bedoelde indelingslijst of appendices wordt mededeling gedaan in de Staatscourant.   
+1.  De L<sub>den</sub>-contouren, de L<sub>den</sub>-grenswaarden in handhavingspunten en de geluidbelasting in handhavingspunten worden berekend en bepaald overeenkomstig het in bijlage 1 van deze regeling opgenomen voorschrift. Daarbij wordt gebruik gemaakt van de door het Nationaal Lucht- en Ruimtevaartlaboratorium opgestelde Indelingslijst luchtvaartuigtypen en van de Appendices van de voorschriften voor de berekening van de geluidbelasting in L<sub>den</sub>.   
+2.  Van het verschijnen van een nieuwe versie van de in het eerste lid bedoelde indelingslijst of appendices wordt mededeling gedaan in de Staatscourant.  
 
 ### Artikel  5  
 
-1.  De 10 <sup>-5</sup> en 10 <sup>-6</sup> plaatsgebonden risicocontouren en het totaal risicogewicht worden berekend en bepaald overeenkomstig het in bijlage 2 van deze regeling opgenomen voorschrift. Daarbij wordt gebruik gemaakt van de bij het Rijksinstituut voor Volksgezondheid en Milieu in beheer zijnde lijst met standaardgegevens voor vliegtuigen en helikopters.   
-2.  Van het verschijnen van een nieuwe versie van de in het eerste lid bedoelde lijst wordt mededeling gedaan in de Staatscourant.   
+1.  De 10<sup>-5</sup> en 10<sup>-6</sup> plaatsgebonden risicocontouren en het totaal risicogewicht worden berekend en bepaald overeenkomstig het in bijlage 2 van deze regeling opgenomen voorschrift. Daarbij wordt gebruik gemaakt van de bij het Rijksinstituut voor Volksgezondheid en Milieu in beheer zijnde lijst met standaardgegevens voor vliegtuigen en helikopters.   
+2.  Van het verschijnen van een nieuwe versie van de in het eerste lid bedoelde lijst wordt mededeling gedaan in de Staatscourant.  
 
 ### Artikel  6  
 
-Het berekenen en bepalen van de L <sub>den</sub> -contouren en de 10 <sup>-5</sup> en 10 <sup>-6</sup> plaatsgebonden risicocontouren geschiedt, ten behoeve van het vaststellen van een luchthavenbesluit, op basis van dezelfde geprognotiseerde gebruiksgegevens van de luchthaven als die gebruikt worden voor het berekenen van de in het luchthavenbesluit vast te stellen grenswaarden in handhavingspunten.  
+Het berekenen en bepalen van de L<sub>den</sub>-contouren en de 10<sup>-5</sup> en 10<sup>-6</sup> plaatsgebonden risicocontouren geschiedt, ten behoeve van het vaststellen van een luchthavenbesluit, op basis van dezelfde geprognotiseerde gebruiksgegevens van de luchthaven als die gebruikt worden voor het berekenen van de in het luchthavenbesluit vast te stellen grenswaarden in handhavingspunten. 
 
 ### Artikel  7  
 
-1.  De omvang van het veiligheidsgebied als bedoeld in artikel 13 van het besluit wordt vastgesteld overeenkomstig het in bijlage 3 van deze regeling opgenomen voorschrift.   
+1.  De omvang van het veiligheidsgebied als bedoeld in [artikel 13 van het besluit](../../../../AMvB/besluit/burgerluchthavens/BWBR0026525/README.md) wordt vastgesteld overeenkomstig het in bijlage 3 van deze regeling opgenomen voorschrift.   
 2.  In het veiligheidsgebied: 
 
 a. zijn hellingen niet groter dan 5%;  
@@ -63,11 +63,11 @@ a. zijn hellingen niet groter dan 5%;
 b. zijn hellingovergangen zo geleidelijk mogelijk; en  
 
 c. zijn abrupte overgangen en plotseling tegengestelde hellingen niet toegestaan.     
-3.  In het veiligheidsgebied voldoen obstakels aan de voorschriften die zijn opgenomen in de hoofdstukken 2, 3, 4 en 7 van ICAO DOC 9157 Aerodrome Design Manual part 6, dat als bijlage 4 bij deze regeling is opgenomen, met uitzondering van de onderdelen 2.1.2 tot en met 2.1.15, 2.2.3, 2.2.6 tot en met 2.2.8, 3.1.3 tot en met 3.1.10, 4.1.1 tot en met 4.1.3, 4.1.5, 4.3, 4.4.1, 4.4.2, 4.9.1 tot en met 4.9.10, 4.9.25, 4.9.26, 4.9.31, 7.1 en 7.3, en met dien verstande dat het voorschrift in de onderdelen 3.3.1 en 4.9.30 geldt voor alle obstakels in het veiligheidsgebied.   
+3.  In het veiligheidsgebied voldoen obstakels aan de voorschriften die zijn opgenomen in de hoofdstukken 2, 3, 4 en 7 van ICAO DOC 9157 Aerodrome Design Manual part 6, dat als bijlage 4 bij deze regeling is opgenomen, met uitzondering van de onderdelen 2.1.2 tot en met 2.1.15, 2.2.3, 2.2.6 tot en met 2.2.8, 3.1.3 tot en met 3.1.10, 4.1.1 tot en met 4.1.3, 4.1.5, 4.3, 4.4.1, 4.4.2, 4.9.1 tot en met 4.9.10, 4.9.25, 4.9.26, 4.9.31, 7.1 en 7.3, en met dien verstande dat het voorschrift in de onderdelen 3.3.1 en 4.9.30 geldt voor alle obstakels in het veiligheidsgebied.  
 
 ### Artikel  8  
 
-1.  Het gebied met hoogtebeperkingen in verband met de vliegveiligheid als bedoeld in artikel 14 van het besluit wordt vastgesteld overeenkomstig de voorschriften en aanbevelingen van hoofdstuk 4 van deel I (Aerodrome Design and Operations) van bijlage 14 van het verdrag, met uitzondering van de onderdelen 4.1.11, 4.1.12, 4.1.17 tot en met 4.1.24, 4.2.3, 4.2.4, 4.2.5, 4.2.10 tot en met 4.2.12, 4.2.14, 4.2.15, 4.2.18 tot en met 4.2.21, 4.2.25, 4.2.27, 4.3.1, 4.3.2, 4.4.1, 4.4.2, figuur 4-2 en de in tabel 4-1 opgenomen inner approach surface, inner transitional surface en balked landing surface en de daarbij behorende dimensies, en met dien verstande dat: 
+1.  Het gebied met hoogtebeperkingen in verband met de vliegveiligheid als bedoeld in [artikel 14 van het besluit](../../../../AMvB/besluit/burgerluchthavens/BWBR0026525/README.md) wordt vastgesteld overeenkomstig de voorschriften en aanbevelingen van hoofdstuk 4 van deel I (Aerodrome Design and Operations) van bijlage 14 van het verdrag, met uitzondering van de onderdelen 4.1.11, 4.1.12, 4.1.17 tot en met 4.1.24, 4.2.3, 4.2.4, 4.2.5, 4.2.10 tot en met 4.2.12, 4.2.14, 4.2.15, 4.2.18 tot en met 4.2.21, 4.2.25, 4.2.27, 4.3.1, 4.3.2, 4.4.1, 4.4.2, figuur 4-2 en de in tabel 4-1 opgenomen inner approach surface, inner transitional surface en balked landing surface en de daarbij behorende dimensies, en met dien verstande dat: 
 
 a. voor luchthavens met een approach runway met code number 1 of 2 als bedoeld in tabel 4-1 de outer horizontal surface en de conical surface worden vastgesteld overeenkomstig bijlage 5 van deze regeling;  
 
@@ -88,19 +88,19 @@ c. voor het toepassen van het begrip non-instrument FATO, gebruik wordt gemaakt 
 
 d. voor het toepassen van de begrippen elevated heliport, final approach and take-off area (FATO), helicopter clearway, heliport, obstacle, safety area and surface level heliport gebruik wordt gemaakt van de desbetrefffende definities in hoofdstuk 1 van deel II (Heliports) van bijlage 14 van het verdrag;  
 
-e. voor klasse 2 en 3 helikopters geldt voor de eerste sectie van de naderings- en startsector, bedoeld in onderdeel 4.2.5, een helling van 12,5%.     
+e. voor klasse 2 en 3 helikopters geldt voor de eerste sectie van de naderings- en startsector, bedoeld in onderdeel 4.2.5, een helling van 12,5%.    
 
 ### Artikel  9  
 
-Het gebied met hoogtebeperkingen in verband met de goede werking van de apparatuur voor luchtverkeerscommunicatie, -navigatie of -begeleiding als bedoeld in artikel 15 van het besluit alsmede de daarin geldende hoogtebeperkingen worden vastgesteld overeenkomstig het in bijlage 6 van deze regeling opgenomen voorschrift.  
+Het gebied met hoogtebeperkingen in verband met de goede werking van de apparatuur voor luchtverkeerscommunicatie, -navigatie of -begeleiding als bedoeld in [artikel 15 van het besluit](../../../../AMvB/besluit/burgerluchthavens/BWBR0026525/README.md) alsmede de daarin geldende hoogtebeperkingen worden vastgesteld overeenkomstig het in bijlage 6 van deze regeling opgenomen voorschrift. 
 
 ### Artikel  10  
 
-Het laserstraalvrije gebied als bedoeld in artikel 17 van het besluit wordt vastgesteld: 
+Het laserstraalvrije gebied als bedoeld in [artikel 17 van het besluit](../../../../AMvB/besluit/burgerluchthavens/BWBR0026525/README.md) wordt vastgesteld: 
 
-a. in het geval van een luchthaven met naderingsluchtverkeersleiding overeenkomstig onderdeel 5.3.1.2 en de figuren 5-10, 5-11 en 5-12 van hoofdstuk 5 van deel I (Aerodrome Design en Operations) van bijlage 14 van het verdrag met dien verstande dat de omvang van de laser-beam sensitive flight zone gelijk is aan de omvang van het naderingsluchtverkeersleidingsgebied van de desbetreffende luchthaven bedoeld in de Regeling luchtverkeersdienstverlening;  
+a. in het geval van een luchthaven met naderingsluchtverkeersleiding overeenkomstig onderdeel 5.3.1.2 en de figuren 5-10, 5-11 en 5-12 van hoofdstuk 5 van deel I (Aerodrome Design en Operations) van bijlage 14 van het verdrag met dien verstande dat de omvang van de laser-beam sensitive flight zone gelijk is aan de omvang van het naderingsluchtverkeersleidingsgebied van de desbetreffende luchthaven bedoeld in de [Regeling luchtverkeersdienstverlening](../../../../ministeriele-regeling/regeling/luchtverkeersdienstverlening/BWBR0009899/README.md);  
 
-b. in het geval van een luchthaven zonder naderingsluchtverkeersleiding overeenkomstig onderdeel 5.3.1.2 en de figuren 5-10, 5-11 en 5-12 van hoofdstuk 5 van deel 1 (Aerodrome Design en Operations) van bijlage 14 van het verdrag met dien verstande dat geen laser-beam sensitive flight zone wordt vastgesteld.    
+b. in het geval van een luchthaven zonder naderingsluchtverkeersleiding overeenkomstig onderdeel 5.3.1.2 en de figuren 5-10, 5-11 en 5-12 van hoofdstuk 5 van deel 1 (Aerodrome Design en Operations) van bijlage 14 van het verdrag met dien verstande dat geen laser-beam sensitive flight zone wordt vastgesteld.   
 
 ### Hoofdstuk  3  
 
@@ -108,7 +108,7 @@ b. in het geval van een luchthaven zonder naderingsluchtverkeersleiding overeenk
 
 ### Artikel  11  
 
-1.  De aanvraag voor een verklaring als bedoeld in artikel 8.49, eerste lid, van de wet bevat in ieder geval de volgende gegevens: 
+1.  De aanvraag voor een verklaring als bedoeld in [artikel 8.49, eerste lid, van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) bevat in ieder geval de volgende gegevens: 
 
 a. het aantal en de soort luchtvaartuigen die naar verwachting van de luchthaven gebruik zullen maken;  
 
@@ -129,7 +129,7 @@ d. indien de aanvraag betrekking heeft op een luchthavenbesluit of luchthavenreg
 e. indien de aanvraag betrekking heeft op een luchthaven met een instrumentbaan categorie I, II of III op een terrein dat nog niet eerder als luchthaven in gebruik is geweest: een onderzoek op grond waarvan kan worden beoordeeld in hoeverre het grondgebruik in een straal van 6 kilometer rond het luchthavengebied gevaar oplevert voor de vliegveiligheid in verband met vogelaanvaringen; en  
 
 f. het door provinciale staten voor de desbetreffende luchthaven vastgestelde luchthavenbesluit of de luchthavenregeling.     
-2.  De aanvraag wordt ingediend bij de Inspecteur-Generaal van de Inspectie Verkeer en Waterstaat.   
+2.  De aanvraag wordt ingediend bij de Inspecteur-Generaal van de Inspectie Verkeer en Waterstaat.  
 
 ### Hoofdstuk  4  
 
@@ -137,13 +137,13 @@ f. het door provinciale staten voor de desbetreffende luchthaven vastgestelde lu
 
 ### Artikel  12  
 
-De artikelen 13 tot en met 16 zijn van toepassing op overige burgerluchthavens als bedoeld in artikel 8.1 van de wet met dien verstande dat in het geval van een luchthaven van regionale betekenis de gegevens bedoeld in artikel 13, tweede lid, en de termijn bedoeld in artikel 13, derde lid, worden verstrekt aan respectievelijk wordt gesteld door gedeputeerde staten en deze artikelen op een luchthaven van regionale betekenis slechts van toepassing zijn voor zover bij provinciale verordening, met gebruikmaking van artikel 8.54, tweede lid van de wet, geen afwijkende bepalingen zijn vastgesteld.  
+De artikelen 13 tot en met 16 zijn van toepassing op overige burgerluchthavens als bedoeld in [artikel 8.1 van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) met dien verstande dat in het geval van een luchthaven van regionale betekenis de gegevens bedoeld in artikel 13, tweede lid, en de termijn bedoeld in artikel 13, derde lid, worden verstrekt aan respectievelijk wordt gesteld door gedeputeerde staten en deze artikelen op een luchthaven van regionale betekenis slechts van toepassing zijn voor zover bij provinciale verordening, met gebruikmaking van [artikel 8.54, tweede lid van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), geen afwijkende bepalingen zijn vastgesteld. 
 
 ### Artikel  13  
 
 1.  De exploitant van de luchthaven registreert en berekent de in bijlage 7 van deze regeling aangegeven gegevens over de daarbij aangegeven tijdvakken.   
 2.  De exploitant van de luchthaven verstrekt deze gegevens binnen de in bijlage 7 van deze regeling vermelde termijn aan de Inspecteur-Generaal van de Inspectie Verkeer en Waterstaat.   
-3.  In het geval van een dreigende overschrijding van een in een luchthavenbesluit of luchthavenregeling opgenomen grenswaarde kan de Inspecteur-Generaal een andere dan de in het tweede lid bedoelde termijn bepalen waarbinnen de exploitant de desbetreffende in het eerste lid bedoelde gegevens dient te verstrekken.   
+3.  In het geval van een dreigende overschrijding van een in een luchthavenbesluit of luchthavenregeling opgenomen grenswaarde kan de Inspecteur-Generaal een andere dan de in het tweede lid bedoelde termijn bepalen waarbinnen de exploitant de desbetreffende in het eerste lid bedoelde gegevens dient te verstrekken.  
 
 ### Artikel  14  
 
@@ -153,24 +153,24 @@ a. maakt dagelijks een back-up van de in artikel 13, eerste lid, bedoelde gegeve
 
 b. bewaart de gegevens gedurende een periode van 5 jaar;  
 
-c. draagt er zorg voor dat de gegevens worden beveiligd tegen ongeautoriseerde wijzigingen, diefstal en brand.    
+c. draagt er zorg voor dat de gegevens worden beveiligd tegen ongeautoriseerde wijzigingen, diefstal en brand.   
 
 ### Artikel  15  
 
-De exploitant van de luchthaven draagt er zorg voor dat de bevoegde personen die de registraties en berekeningen bedoeld in artikel 13, eerste lid, uitvoeren, aantoonbaar in staat zijn om de registraties en berekeningen uit te voeren.  
+De exploitant van de luchthaven draagt er zorg voor dat de bevoegde personen die de registraties en berekeningen bedoeld in artikel 13, eerste lid, uitvoeren, aantoonbaar in staat zijn om de registraties en berekeningen uit te voeren. 
 
 ### Artikel  16  
 
-De exploitant van de luchthaven beschikt over de benodigde middelen en infrastructuur om de registratie, berekening en verstrekking van de in artikel 13, eerste lid, bedoelde gegevens te kunnen uitvoeren en draagt er zorg voor dat deze middelen en infrastructuur worden onderhouden en worden beveiligd tegen ongeautoriseerd gebruik, diefstal en brand.  
+De exploitant van de luchthaven beschikt over de benodigde middelen en infrastructuur om de registratie, berekening en verstrekking van de in artikel 13, eerste lid, bedoelde gegevens te kunnen uitvoeren en draagt er zorg voor dat deze middelen en infrastructuur worden onderhouden en worden beveiligd tegen ongeautoriseerd gebruik, diefstal en brand. 
 
 ### Artikel  17  
 
-1.  Het verslag bedoeld in de artikelen 8.55 en 8.65 juncto 8.55 van de wet bevat ten minste: 
+1.  Het verslag bedoeld in de [artikelen 8.55](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [8.65](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) juncto [8.55 van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) bevat ten minste: 
 
 a. een overzicht van zich in het afgelopen gebruiksjaar voorgedane overschrijdingen van in het luchthavenbesluit of de luchthavenregeling opgenomen grenswaarden, en  
 
-b. een beschrijving van de ter uitvoering van artikel 8.45 of 8.64 juncto artikel 8.45 van de wet getroffen maatregelen en van de doelmatigheid en doeltreffendheid van die maatregelen.     
-2.  Het in het eerste lid bedoelde verslag, alsmede het verslag, bedoeld in de artikelen 8.73 en 8.78 juncto 8.73 van de wet, wordt uitgebracht en openbaar gemaakt binnen 3 maanden na het einde van het gebruiksjaar van de luchthaven.   
+b. een beschrijving van de ter uitvoering van [artikel 8.45](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) of [8.64](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) juncto [artikel 8.45 van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) getroffen maatregelen en van de doelmatigheid en doeltreffendheid van die maatregelen.     
+2.  Het in het eerste lid bedoelde verslag, alsmede het verslag, bedoeld in de [artikelen 8.73](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [8.78](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) juncto [8.73 van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), wordt uitgebracht en openbaar gemaakt binnen 3 maanden na het einde van het gebruiksjaar van de luchthaven.  
 
 ### Hoofdstuk  5  
 
@@ -178,7 +178,7 @@ b. een beschrijving van de ter uitvoering van artikel 8.45 of 8.64 juncto artike
 
 ### Artikel  18  
 
-1.  Van het verbod bedoeld in artikel 8.1a, derde lid, eerste volzin, van de wet worden vrijgesteld: 
+1. Van het verbod bedoeld in [artikel 8.1a, derde lid, eerste volzin, van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) worden vrijgesteld: 
 
 a. luchthavens die buiten de provinciegrenzen zijn gelegen;  
 
@@ -188,12 +188,12 @@ c. luchthavens die uitsluitend worden gebruikt voor het opstijgen met vrije ball
 
 d. luchthavens die uitsluitend worden gebruikt voor het opstijgen met schermzweeftoestellen;  
 
-e. luchthavens die uitsluitend worden gebruikt voor het opstijgen met zeilvliegtuigen.     
-2.  Van de in het vorige lid, onderdelen c, d en e bedoelde vrijstelling kan slechts gebruik worden gemaakt onder de voorwaarde dat de gebruiker van de luchthaven beschikt over een door de burgemeester van de gemeente waar de luchthaven is gelegen, in verband met de openbare orde en veiligheid, afgegeven verklaring van geen bezwaar.   
+e. luchthavens die uitsluitend worden gebruikt voor het opstijgen met zeilvliegtuigen.   
+2.  Van de in het vorige lid, onderdelen c, d en e bedoelde vrijstelling kan slechts gebruik worden gemaakt onder de voorwaarde dat de gebruiker van de luchthaven beschikt over een door de burgemeester van de gemeente waar de luchthaven is gelegen, in verband met de openbare orde en veiligheid, afgegeven verklaring van geen bezwaar. 
 
 ### Artikel  19  
 
-Van het verbod bedoeld in artikel 8.1a, vierde lid, van de wet zijn vrijgesteld luchthavens die uitsluitend worden gebruikt door helikopters.  
+Van het verbod bedoeld in [artikel 8.1a, vierde lid, van de wet](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) zijn vrijgesteld luchthavens die uitsluitend worden gebruikt door helikopters. 
 
 ### Hoofdstuk  6  
 
@@ -201,22 +201,22 @@ Van het verbod bedoeld in artikel 8.1a, vierde lid, van de wet zijn vrijgesteld 
 
 ### Artikel  20  
 
-Deze regeling kan worden aangehaald als: Regeling burgerluchthavens.  
+Deze regeling kan worden aangehaald als: Regeling burgerluchthavens. 
 
 ### Artikel  21  
 
-Deze regeling treedt in werking met ingang van 1 november 2009.  
+Deze regeling treedt in werking met ingang van 1 november 2009. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst met uitzondering van de bijlage 4 die ter inzage zal worden gelegd bij de bibliotheek van de Hoofddirectie Juridische Zaken van het Ministerie van Verkeer en Waterstaat.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings 
+C.M.P.S. Eurlings   
 
 De 
 Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J.M.Cramer  
+J.M. Cramer    
 
-### Bijlage  3  
+### Bijlage 3 
 
 ####bedoeld in artikel 7, eerste lid 
 
@@ -226,7 +226,7 @@ J.M.Cramer
 
 *Strook:* runway strip als bedoeld in Hoofdstuk 1 van deel 1 (Aerodrome Design and Operations) van bijlage 14 van het verdrag.  
 
-*Baancode:* de aerodrome reference code als bepaald op basis van tabel 1-1 in Hoofdstuk 1 van deel 1 (Aerodrome Design and Operations) van het verdrag.    
+*Baancode:* de aerodrome reference code als bepaald op basis van tabel 1-1 in Hoofdstuk 1 van deel 1 (Aerodrome Design and Operations) van het verdrag.   
 
 ####Berekenen omvang van het veiligheidsgebied
 
@@ -244,13 +244,13 @@ J.M.Cramer
 
 – 80 m bij een start- en landingsbaan met een baancode 2;  
 
-– 150 m bij een start- en landingsbaan met een baancode 3 of 4.    
+– 150 m bij een start- en landingsbaan met een baancode 3 of 4.   
 
-### Bijlage  4  
+###Bijlage 4 
 
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.  
+Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
-### Bijlage  5  
+### Bijlage 5 
 
 ####als bedoeld in artikel 8, eerste lid 
 
@@ -260,14 +260,14 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
 *Baancode:* de aerodrome reference code als bepaald op basis van tabel 1-1 in hoofdstuk 1 van deel 1 (Aerodrome Design and Operations) van het verdrag.  
 
-*Approach runway:* een non-instrument runway of een instrument runway als bedoeld in hoofdstuk 1 van deel 1 (Aerodrome Design and Operations) van het verdrag.    
+*Approach runway:* een non-instrument runway of een instrument runway als bedoeld in hoofdstuk 1 van deel 1 (Aerodrome Design and Operations) van het verdrag.   
 
 ####Berekeningsvoorschrift
 
 De dimensie van de outer horizontal surface en de conical surface voor een approach runway met baancode 1 of 2 wordt bepaald overeenkomstig de onderstaande afmetingen.  
 
 | Baancode  | 1  | 2  |
-|---|---|---|
+|:---|:---|:---|
 | OUTER HORIZONTAL SURFACE  | --- | --- |
 | Height  | 100m  | 100m  |
 | Radius  | 5100m  | 5100m  |
@@ -275,7 +275,7 @@ De dimensie van de outer horizontal surface en de conical surface voor een appro
 | CONICAL SURFACE  | --- | --- |
 | Height  | 55m  | 55m  |
 
-### Bijlage  6  
+### Bijlage 6 
 
 ####als bedoeld in artikel 9 
 
@@ -284,7 +284,7 @@ De dimensie van de outer horizontal surface en de conical surface voor een appro
 Het gebied en de hoogtebeperkingen worden voor de onderscheidenlijk aangeduide apparatuur berekend aan de hand van de onderstaande tabellen en figuren.  
 
 | APPARATUUR  | TABEL  | FIGUUR  |
-|---|---|---|
+|:---|:---|:---|
 | Distance Measuring Epuipment (DME) omni-directional  | 1  | 1  |
 | Distance Measuring Epuipment (DME) directional behorend bij ILS  | 2  | 2 en 3  |
 | VHF Omnidirectional Range (VOR)  | 1  | 1  |
@@ -301,7 +301,7 @@ Het gebied en de hoogtebeperkingen worden voor de onderscheidenlijk aangeduide a
 Tabel 1: Geharmoniseerde afmetingen voor omni-directionele navigatie systemen 
 
 | Type van het navigatie systeem  | Alfa (α – conus) (°)  | Straal (R –conus) (m)  | Straal (r – cilinder)  | Oorsprong van de conus  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | DME  | 1,0  | 3000  | 300  | Basis van de antenne op grond niveau  |
 | VOR  | 1,0  | 3000  | 600  | Middelpunt van het antenne systeem op grond niveau  |
 | Direction Finder (DF)  | 1,0  | 3000  | 500  | Basis van de antenne op grond niveau  |
@@ -314,7 +314,7 @@ Tabel 1: Geharmoniseerde afmetingen voor omni-directionele navigatie systemen
 Tabel 2 Geharmoniseerde afmetingen voor directionele navigatie systemen 
 
 | Type van het navigatie systeem  | a (m)  | b (m)  | h (m)  | r (m)  | D (m)  | H (m)  | L (m)  | α (°)  |
-|---|---|---|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | ILS LLZ (een frequentie systeem)  | afstand tot de baandrempel (typische waarde ± 300 m)  | 500  | 70  | a+6000  | 500  | 10  | 2300  | 30  |
 | ILS LLZ (twee frequentie systeem)  | afstand tot de baandrempel (typische waarde ± 300 m)  | 500  | 70  | a+6000  | 500  | 20  | 1500  | 20  |
 | ILS GP M-Type (twee frequentie systeem)  | 800  | 50  | 70  | 6000  | 250  | 5  | 325  | 10  |
@@ -325,27 +325,27 @@ Tabel 2 Geharmoniseerde afmetingen voor directionele navigatie systemen
 Tabel 3 Geharmoniseerde afmetingen voor omni-directionele communicatie systemen 
 
 | Type van het communicatie systeem  | Alfa (α – conus) (°)  | Straal (R – conus) (m)  | Straal (r – cilinder)  | Oorsprong van de conus  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | VHF Communicatie zender (Voice en digital)  | 1,0  | 2000  | 300  | Basis van de antenne op grond niveau  |
 | VHF Communicatie ontvanger (Voice en digital)  | 1,0  | 2000  | 300  | Basis van de antenne op grond niveau  |
 
 Tabel 4 Geharmoniseerde afmetingen voor omnidirectionele radar systemen 
 
 | Type van het radar systeem  | Alfa (α – conus) (°)  | Straal (R – conus) (m)  | Straal (r – cilinder)  | Oorsprong van de conus  |
-|---|---|---|---|---|
+|:---|:---|:---|:---|:---|
 | Primaire Radar  | 0,25  | 15000  | 500  | Basis van de antenne op grond niveau  |
 | Secundaire Radar  | 0,25  | 15000  | 500  | Basis van de antenne op grond niveau  |
 
-Figuur 1 Omnidirectionele systemen   ![]()
-De cilinder heeft als referentie de hoogte van het terrein ter plekke, de conus heeft als referentie een horizontaal vlak door het terrein ter plekke. Figuur 2 Directionele systemen   ![]()
-Figuur 3 3D Weergave voor directionele systemen   ![]()
+Figuur 1 Omnidirectionele systemen![245314](http://wetten.overheid.nl/Illustration/245314)
+De cilinder heeft als referentie de hoogte van het terrein ter plekke, de conus heeft als referentie een horizontaal vlak door het terrein ter plekke. Figuur 2 Directionele systemen![245315](http://wetten.overheid.nl/Illustration/245315)
+Figuur 3 3D Weergave voor directionele systemen![245316](http://wetten.overheid.nl/Illustration/245316)
 
-### Bijlage  7  
+### Bijlage 7 
 
 ####als bedoeld in artikel 13  van de Regeling burgerluchthavens
 
 | Gegevens  | Tijdvak  | Termijn  |
-|---|---|---|
+|:---|:---|:---|
 | De geluidbelasting gedurende het etmaal, in de handhavingspunten zoals aangegeven in luchthavenbesluit of luchthavenregeling uitgedrukt in dB(A) met twee decimalen.  | Vanaf het begin van het gebruiksjaar tot het einde van ieder kwartaal van dat gebruiksjaar.  | Twee weken na afloop van het tijdvak  |
 | De geluidbelasting gedurende het etmaal, in de handhavingspunten zoals aangegeven in luchthavenbesluit of luchthavenregeling uitgedrukt in dB(A) met twee decimalen.  | Vanaf het begin van het gebruiksjaar tot het moment dat de geluidbelasting in een handhavingspunt hoger is dan de bij dat punt in het luchthavenbesluit of luchthavenregeling aangegeven waarde in dat gebruiksjaar.  | Vier werkdagen na afloop van het tijdvak  |
 | Het aantal luchtvaartuigbewegingen per etmaal in het geval in een luchthavenbesluit of luchthavenregeling een grenswaarde of regel in de vorm van een aantal luchtvaartuigbewegingen is opgenomen.  | Vanaf het begin van het gebruiksjaar tot het einde van ieder kwartaal van dat gebruiksjaar.  | Twee weken na afloop van het tijdvak  |
