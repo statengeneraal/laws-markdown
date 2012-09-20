@@ -11,29 +11,29 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### ARTIKEL  I  
 
-Wijzigt Boek 7A van het Burgerlijk Wetboek.   
+Wijzigt Boek 7A van het Burgerlijk Wetboek.  
 
 ### ARTIKEL  II  
 
-Wijzigt de Ambtenarenwet.   
+Wijzigt de Ambtenarenwet.  
 
 ### ARTIKEL  III  
 
 1.  Het maken van onderscheid op grond van een verschil in arbeidsduur is verboden bij de voorwaarden waaronder een arbeidsovereenkomst wordt aangegaan, voortgezet dan wel beëindigd, en bij de voorwaarden waaronder een aanstelling wordt verleend, verlengd dan wel beëindigd, tenzij een dergelijk onderscheid objectief is gerechtvaardigd.   
 2.  Een beding in strijd met het eerste lid is nietig.   
-3.  De Commissie gelijke behandeling, genoemd in [artikel 11 van de Algemene wet gelijke behandeling](../../../../../../../../../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in het eerste lid. De [artikelen 12](../../../../../../../../../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md), [13](../../../../../../../../../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md), [14](../../../../../../../../../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md), [15](../../../../../../../../../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md), [20](../../../../../../../../../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md), tweede lid, en [33 van de Algemene wet gelijke behandeling](../../../../../../../../../../../../../wet/algemene/wet/gelijke/behandeling/BWBR0006502/README.md) zijn van overeenkomstige toepassing.   
+3.  Het College, genoemd in [artikel 1 van de Wet College voor de rechten van de mens](../../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), kan onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in het eerste lid. De [artikelen 10](../../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [11](../../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [12](../../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [13](../../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md), [22](../../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md) en [23 van de Wet College voor de rechten van de mens](../../../../../../../../../../../../../wet/wet/college/voor/de/rechten/van/de/mens/BWBR0030733/README.md) zijn van overeenkomstige toepassing.  
 
 ### ARTIKEL  IV  
 
-Wijzigt Boek 7 van het Burgerlijk Wetboek.   
+Wijzigt Boek 7 van het Burgerlijk Wetboek.  
 
 ### ARTIKEL  V  
 
-In geval een natuurlijk persoon, rechtspersoon of bevoegd gezag een ander onder zijn gezag arbeid laat verrichten, anders dan krachtens arbeidsovereenkomst naar burgerlijk recht of ambtelijke aanstelling, is artikel 648 van Boek 7 van het Burgerlijk Wetboek van overeenkomstige toepassing.  
+In geval een natuurlijk persoon, rechtspersoon of bevoegd gezag een ander onder zijn gezag arbeid laat verrichten, anders dan krachtens arbeidsovereenkomst naar burgerlijk recht of ambtelijke aanstelling, is artikel 648 van Boek 7 van het Burgerlijk Wetboek van overeenkomstige toepassing. 
 
-### ARTIKEL  IV  
+### ARTIKEL  VI  
 
-Wijzigt deze wet.   
+Wijzigt deze wet.  
 
 ### ARTIKEL  VII  
 
@@ -43,13 +43,13 @@ Lasten en bevelen dat deze in het *Staatsblad* zal worden geplaatst en dat alle 
 
 Gegeven te 's-Gravenhage 
 3 juli 1996  
-Beatrix  
+Beatrix   
 
 De Minister van Sociale Zaken en Werkgelegenheid, 
-A. P. W. Melkert   
+A. P. W. Melkert    
 
 De Minister van Justitie, 
-W. Sorgdrager   
+W. Sorgdrager    
 
 De Minister van Binnenlandse Zaken, 
 H. F. Dijkstal   

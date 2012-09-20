@@ -2,7 +2,7 @@
 
 ##Circulaire Risiconormering vervoer gevaarlijke stoffen
 
-### 1  
+###1 
 
 ####Inleiding
 
@@ -10,78 +10,78 @@
 
 ####Algemeen
 
-### 1.1.1  
+###1.1.1 
 
 ####Doel circulaire
 
-Deze circulaire heeft betrekking op het beleid van de ministers van Infrastructuur en Milieu en van Veiligheid en Justitie over de afweging van veiligheidsbelangen die een rol spelen bij het vervoer van gevaarlijke stoffen in relatie tot de omgeving. Sommige geadresseerden van deze circulaire vallen niet onder de verantwoordelijkheid van een van deze bewindspersonen. Hen wordt gevraagd om medewerking aan dit beleid te verlenen door bij besluitvorming die onder hun verantwoordelijkheid valt de veiligheidsbelangen overeenkomstig deze circulaire af te wegen. Hierbij gaat het om zowel vervoersbesluiten als om omgevingsbesluiten. Het externe veiligheidsbeleid voor het vervoer van gevaarlijke stoffen was aanvankelijk gebaseerd op de Nota risiconormering vervoer gevaarlijke stoffen. Dit beleid is inmiddels geëvalueerd. In de Nota vervoer gevaarlijke stoffen is naar deze resultaten verwezen. In het Vierde Nationaal Milieu Beleidsplan (NMP-4) is een wettelijke verankering van de risiconormen voor het vervoer van gevaarlijke stoffen aangekondigd. Bij deze wettelijke verankering zullen de resultaten van voormelde evaluatie worden betrokken. Tot het moment van realisatie van deze verankering wordt in deze circulaire het beleid met betrekking tot risiconormering geoperationaliseerd en verduidelijkt. Daarmee treedt deze circulaire in de plaats van de Nota risiconormering vervoer gevaarlijke stoffen. Deze Circulaire vervalt van rechtswege op de dag nadat de Wet tot wijziging van de Wet vervoer gevaarlijke stoffen in verband met de totstandkoming van een basisnet (Wet Basisnet) en het Besluit transportroutes externe veiligheid in werking zijn getreden.    
-### 1.1.2  
+Deze circulaire heeft betrekking op het beleid van de ministers van Infrastructuur en Milieu en van Veiligheid en Justitie over de afweging van veiligheidsbelangen die een rol spelen bij het vervoer van gevaarlijke stoffen in relatie tot de omgeving. Sommige geadresseerden van deze circulaire vallen niet onder de verantwoordelijkheid van een van deze bewindspersonen. Hen wordt gevraagd om medewerking aan dit beleid te verlenen door bij besluitvorming die onder hun verantwoordelijkheid valt de veiligheidsbelangen overeenkomstig deze circulaire af te wegen. Hierbij gaat het om zowel vervoersbesluiten als om omgevingsbesluiten. Het externe veiligheidsbeleid voor het vervoer van gevaarlijke stoffen was aanvankelijk gebaseerd op de Nota risiconormering vervoer gevaarlijke stoffen. Dit beleid is inmiddels geëvalueerd. In de Nota vervoer gevaarlijke stoffen is naar deze resultaten verwezen.  In het Vierde Nationaal Milieu Beleidsplan (NMP-4) is een wettelijke verankering van de risiconormen voor het vervoer van gevaarlijke stoffen aangekondigd. Bij deze wettelijke verankering zullen de resultaten van voormelde evaluatie worden betrokken. Tot het moment van realisatie van deze verankering wordt in deze circulaire het beleid met betrekking tot risiconormering geoperationaliseerd en verduidelijkt. Daarmee treedt deze circulaire in de plaats van de Nota risiconormering vervoer gevaarlijke stoffen. Deze Circulaire vervalt van rechtswege op de dag nadat de Wet tot wijziging van de Wet vervoer gevaarlijke stoffen in verband met de totstandkoming van een basisnet (Wet Basisnet) en het Besluit transportroutes externe veiligheid in werking zijn getreden. 
+###1.1.2 
 
 ####Situaties in overeenstemming brengen met circulaire
 
-Met de inwerkingtreding van deze circulaire kan aan het licht komen dat in het verleden een andere interpretatie van de risicobenadering is aangehouden, dan op grond van de circulaire wordt aanbevolen. Het is zelfs mogelijk dat de risicobenadering helemaal niet is toegepast. In dergelijke situaties dient alles wat redelijkerwijs mogelijk is te worden gedaan om de ontstane situatie alsnog met deze circulaire in overeenstemming te brengen. In elk geval moet in overleg met alle betrokken bestuursorganen worden nagegaan op welke andere wijze de veiligheidssituatie geoptimaliseerd kan worden. Daarbij dient tevens aandacht te worden besteed aan de bestrijding van een onverhoopt incident en de mate waarin personen tijdig een veilig heenkomen kunnen zoeken.     
-### 1.2  
+Met de inwerkingtreding van deze circulaire kan aan het licht komen dat in het verleden een andere interpretatie van de risicobenadering is aangehouden, dan op grond van de circulaire wordt aanbevolen. Het is zelfs mogelijk dat de risicobenadering helemaal niet is toegepast. In dergelijke situaties dient alles wat redelijkerwijs mogelijk is te worden gedaan om de ontstane situatie alsnog met deze circulaire in overeenstemming te brengen. In elk geval moet in overleg met alle betrokken bestuursorganen worden nagegaan op welke andere wijze de veiligheidssituatie geoptimaliseerd kan worden. Daarbij dient tevens aandacht te worden besteed aan de bestrijding van een onverhoopt incident en de mate waarin personen tijdig een veilig heenkomen kunnen zoeken.  
+###1.2 
 
-####Aansluiting bij Besluit externe veiligheid inrichtingen
+####Aansluiting bij [Besluit externe veiligheid inrichtingen](../../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md)
 
-In deze circulaire is zoveel mogelijk aangesloten bij het Besluit externe veiligheid inrichtingen (BEVI). Daarbij gaat het onder meer om: 
+In deze circulaire is zoveel mogelijk aangesloten bij het [Besluit externe veiligheid inrichtingen](../../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) (BEVI). Daarbij gaat het onder meer om:
 
-* De uitwerking van de normen voor het plaatsgebonden risico (voorheen: individueel risico) en de toepassing daarvan;  
+*De uitwerking van de normen voor het plaatsgebonden risico (voorheen: individueel risico) en de toepassing daarvan;
 
-* De wijze waarop met een overschrijding van de oriëntatiewaarde van het groepsrisico of toename van het groepsrisico moet worden omgegaan;  
+*De wijze waarop met een overschrijding van de oriëntatiewaarde van het groepsrisico of toename van het groepsrisico moet worden omgegaan;
 
-* Het betrekken van zelfredzaamheid en hulpverlening bij de afweging van het groepsrisico;  
+*Het betrekken van zelfredzaamheid en hulpverlening bij de afweging van het groepsrisico;
 
-* De vaststelling van een lijst van kwetsbare en beperkt kwetsbare objecten.      
-### 1.3  
+*De vaststelling van een lijst van kwetsbare en beperkt kwetsbare objecten.
+###1.3 
 
 ####Toepassingsbereik van deze circulaire
 
-### 1.3.1  
+###1.3.1 
 
 ####Vervoer vs inrichtingen
 
-In deze circulaire wordt de risicobenadering uitgewerkt voor het vervoer van gevaarlijke stoffen. Het vervoer van gevaarlijke stoffen binnen inrichtingen valt niet binnen het toepassingsbereik. Dit betekent dat deze circulaire niet ziet op bijvoorbeeld stuwadoorsinrichtingen, terminals of emplacementen. Evenmin is hieronder het vervoer over de weg op andere dan openbare wegen begrepen. Als het gaat om binnenwateren is de circulaire van toepassing op die binnenwateren waarop ook de Binnenvaartwet of het Binnenvaart politiereglement van toepassing is.    
-### 1.3.2  
+In deze circulaire wordt de risicobenadering uitgewerkt voor het vervoer van gevaarlijke stoffen. Het vervoer van gevaarlijke stoffen binnen inrichtingen valt niet binnen het toepassingsbereik. Dit betekent dat deze circulaire niet ziet op bijvoorbeeld stuwadoorsinrichtingen, terminals of emplacementen. Evenmin is hieronder het vervoer over de weg op andere dan openbare wegen begrepen. Als het gaat om binnenwateren is de circulaire van toepassing op die binnenwateren waarop ook de [Binnenvaartwet](../../../../../../../wet/binnenvaartwet/BWBR0023009/README.md) of het Binnenvaart politiereglement van toepassing is.  
+###1.3.2 
 
 ####Wat zijn gevaarlijke stoffen?
 
-Onder 'gevaarlijke stoffen' worden, met uitzondering van het vervoer door buisleidingen, die stoffen verstaan die in het kader van artikel 1, eerste lid, onderdeel b, sub 1 tot en met 9, van de Wet vervoer gevaarlijke stoffen (verder te noemen: WVGS) als gevaarlijk moeten worden beschouwd. Meer in het bijzonder zijn dit de stoffen, preparaten en voorwerpen die krachtens artikel 3 van de WVGS zijn aangewezen. Deze stoffen zijn te vinden in de bijlagen bij de verdragen die zijn gesloten voor de verschillende vervoermodaliteiten, te weten het ADR (wegvervoer) , het ADN (binnenvaart) en het RID (spoorvervoer) . Deze bijlagen zijn tevens opgenomen als bijlage 1 bij de verschillende Nederlandse regelingen, te weten de Regeling vervoer over land van gevaarlijke stoffen (VLG), de Regeling vervoer over de binnenwateren van gevaarlijke stoffen (VBG) en de Regeling vervoer over de spoorweg van gevaarlijke stoffen (VSG). <sup> 4  Het begrip stoffen in de zin van artikel 3 WVGS en in de zin van deze circulaire omvat dus zowel stoffen in de chemische betekenis van elementen en hun verbindingen en voorwerpen die stoffen in deze chemische betekenis bevatten.  </sup> <sup> 5  Accord Européen relatif au transport international des marchandises dangereuses par route.  </sup> <sup> 6  Règlement pour le transport des matières dangereuses sur le Rhin.  </sup> <sup> 7  Règlement concernant le transport international ferroviaire des marchandises dangereuses.  </sup> Bij het vervoer door buisleidingen worden onder 'gevaarlijke stoffen' die stoffen verstaan die op grond van artikel 9.2.3.1, tweede lid, van de Wet milieubeheer moeten worden beschouwd als ontplofbaar, oxiderend, zeer licht ontvlambaar, licht ontvlambaar, zeer vergiftig of vergiftig. In het kader van de risicobenadering zijn steeds die stoffen bepalend die een risico van een zwaar ongeval opleveren. Dit risico wordt in belangrijke mate bepaald door de schadelijke eigenschappen van de desbetreffende stof, de omvang van het transport en de kwetsbaarheid van de omgeving. Voorbeelden van schadelijke eigenschappen zijn giftigheid, brandbaarheid of explosiviteit. Veel voorkomende stoffen die deze eigenschappen bezitten zijn brandbare gassen (zoals propaan), brandbare vloeistoffen (zoals benzine) en giftige gassen (zoals ammoniak).    
+Onder 'gevaarlijke stoffen' worden, met uitzondering van het vervoer door buisleidingen, die stoffen verstaan die in het kader van [artikel 1, eerste lid, onderdeel b, sub 1 tot en met 9, van de Wet vervoer gevaarlijke stoffen](../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) (verder te noemen: WVGS) als gevaarlijk moeten worden beschouwd. Meer in het bijzonder zijn dit de stoffen, preparaten en voorwerpen<sup>4Het begrip stoffen in de zin van [artikel 3 WVGS](../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) en in de zin van deze circulaire omvat dus zowel stoffen in de chemische betekenis van elementen en hun verbindingen en voorwerpen die stoffen in deze chemische betekenis bevatten.</sup> die krachtens [artikel 3 van de WVGS](../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) zijn aangewezen. Deze stoffen zijn te vinden in de bijlagen bij de verdragen die zijn gesloten voor de verschillende vervoermodaliteiten, te weten het ADR (wegvervoer)<sup>5Accord Européen relatif au transport international des marchandises dangereuses par route.</sup>, het ADN (binnenvaart)<sup>6Règlement pour le transport des matières dangereuses sur le Rhin.</sup> en het RID (spoorvervoer)<sup>7Règlement concernant le transport international ferroviaire des marchandises dangereuses.</sup>. Deze bijlagen zijn tevens opgenomen als bijlage 1 bij de verschillende Nederlandse regelingen, te weten de [Regeling vervoer over land van gevaarlijke stoffen](../../../../../../../ministeriele-regeling/regeling/vervoer/over/land/van/gevaarlijke/stoffen/BWBR0010054/README.md) (VLG), de [Regeling vervoer over de binnenwateren van gevaarlijke stoffen](../../../../../../../ministeriele-regeling/regeling/vervoer/over/de/binnenwateren/van/gevaarlijke/stoffen/BWBR0010115/README.md) (VBG) en de [Regeling vervoer over de spoorweg van gevaarlijke stoffen](../../../../../../../ministeriele-regeling/regeling/vervoer/over/de/spoorweg/van/gevaarlijke/stoffen/BWBR0010053/README.md) (VSG). Bij het vervoer door buisleidingen worden onder 'gevaarlijke stoffen' die stoffen verstaan die op grond van [artikel 9.2.3.1, tweede lid, van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) moeten worden beschouwd als ontplofbaar, oxiderend, zeer licht ontvlambaar, licht ontvlambaar, zeer vergiftig of vergiftig. In het kader van de risicobenadering zijn steeds die stoffen bepalend die een risico van een zwaar ongeval opleveren. Dit risico wordt in belangrijke mate bepaald door de schadelijke eigenschappen van de desbetreffende stof, de omvang van het transport en de kwetsbaarheid van de omgeving. Voorbeelden van schadelijke eigenschappen zijn giftigheid, brandbaarheid of explosiviteit. Veel voorkomende stoffen die deze eigenschappen bezitten zijn brandbare gassen (zoals propaan), brandbare vloeistoffen (zoals benzine) en giftige gassen (zoals ammoniak).   
 ### 1.3.3  
 
 ####Vervoer van gevaarlijke stoffen door buisleidingen
 
-Op 1 januari 2011 zijn in werking getreden het Besluit externe veiligheid buisleidingen (Stb. 2010, 686, hierna: Bevb) en de Regeling externe veiligheid buisleidingen (Stcrt. 2010, nr. 21009 van 31 december 2010 en Stcrt. 2011, nr. 9370 van 31 mei 2011, hierna: Revb). De Circulaires ’Zonering langs hogedruk aardgastransportleidingen‘ van 26 november 1984 en ‘Bekendmaking van beleid ten behoeve van de zonering langs transportleidingen voor brandbare vloeistoffen van de K1-, K2-, K3-categorie’ van 24 april 1991 zijn daarmee vervallen. In de praktijk betekent dit dat transportleidingen voor aardgas en aardolieproducten onder het Bevb en de Revb vallen. Het voornemen bestaat om ook de andere transportleidingen met chemische stoffen onder de werking van dit besluit en van deze regeling te brengen. Naar verwachting zal dat eind 2012 gebeuren. Het rijk beveelt aan om voor de ruimtelijke inpassing van alle buisleidingen zoveel mogelijk het Bevb en de Revb te volgen. Formeel vallen de transportleidingen voor chemische stoffen (anders dan aardgas of aardolieproducten) nog onder de werking van de Circulaire Risiconormering vervoer gevaarlijke stoffen. Indien de ruimtelijke inpassing van buisleidingen conform het Bevb en de Revb is, wordt deze inpassing geacht tevens te voldoen aan de Circulaire. Onder het oude regime van het Structuurschema Buisleidingen (Kamerstukken II, 1984–1985, 17 375, nrs. 37–38) gold in principe een bouwverbod voor kwetsbare objecten in het veiligheidsgebied van 55 meter ter weerszijden van de leidingstrook. In de nieuw vast te stellen structuurvisie vervalt het veiligheidsgebied en daarmee de beperking binnen een vaste afstand van 55 m rondom de strook. In plaats daarvan zal de verplichting gaan gelden dat de externe veiligheidscontour van nieuwe leidingen binnen de leidingstrook moet vallen. In de structuurvisie komt ter weerszijden van de bestaande leidingstroken in principe dus meer ruimte beschikbaar dan voorheen voor nieuwe ruimtelijke ontwikkelingen (voor zover er geen beperkingen zijn door risicocontouren van bestaande leidingen). Dit is mogelijk doordat bij de aanleg van nieuwe aardgastransportleidingen en naar verwachting ook bij de aanleg van voor K1, K2 en K3-leidingen (brandbare vloeistoffen) de PR 10 <sup>-6</sup> contour ‘op de leiding’ ligt. De nieuwe structuurvisie wordt in 2012 verwacht.    
-### 1.3.4  
+Op 1 januari 2011 zijn in werking getreden het [Besluit externe veiligheid buisleidingen](../../../../../../../AMvB/besluit/externe/veiligheid/buisleidingen/BWBR0028265/README.md) (Stb. 2010, 686, hierna: Bevb) en de [Regeling externe veiligheid buisleidingen](../../../../../../../ministeriele-regeling/regeling/externe/veiligheid/buisleidingen/BWBR0029356/README.md) (Stcrt. 2010, nr. 21009 van 31 december 2010 en Stcrt. 2011, nr. 9370 van 31 mei 2011, hierna: Revb). De Circulaires ’Zonering langs hogedruk aardgastransportleidingen‘ van 26 november 1984 en ‘Bekendmaking van beleid ten behoeve van de zonering langs transportleidingen voor brandbare vloeistoffen van de K1-, K2-, K3-categorie’ van 24 april 1991 zijn daarmee vervallen. In de praktijk betekent dit dat transportleidingen voor aardgas en aardolieproducten onder het [Bevb](../../../../../../../AMvB/besluit/externe/veiligheid/buisleidingen/BWBR0028265/README.md) en de [Revb](../../../../../../../ministeriele-regeling/regeling/externe/veiligheid/buisleidingen/BWBR0029356/README.md) vallen. Het voornemen bestaat om ook de andere transportleidingen met chemische stoffen onder de werking van dit besluit en van deze regeling te brengen. Naar verwachting zal dat eind 2012 gebeuren. Het rijk beveelt aan om voor de ruimtelijke inpassing van alle buisleidingen zoveel mogelijk het Bevb en de Revb te volgen. Formeel vallen de transportleidingen voor chemische stoffen (anders dan aardgas of aardolieproducten) nog onder de werking van de Circulaire Risiconormering vervoer gevaarlijke stoffen. Indien de ruimtelijke inpassing van buisleidingen conform het Bevb en de Revb is, wordt deze inpassing geacht tevens te voldoen aan de Circulaire. Onder het oude regime van het Structuurschema Buisleidingen (Kamerstukken II, 1984–1985, 17 375, nrs. 37–38) gold in principe een bouwverbod voor kwetsbare objecten in het veiligheidsgebied van 55 meter ter weerszijden van de leidingstrook. In de nieuw vast te stellen structuurvisie vervalt het veiligheidsgebied en daarmee de beperking binnen een vaste afstand van 55 m rondom de strook. In plaats daarvan zal de verplichting gaan gelden dat de externe veiligheidscontour van nieuwe leidingen binnen de leidingstrook moet vallen. In de structuurvisie komt ter weerszijden van de bestaande leidingstroken in principe dus meer ruimte beschikbaar dan voorheen voor nieuwe ruimtelijke ontwikkelingen (voor zover er geen beperkingen zijn door risicocontouren van bestaande leidingen). Dit is mogelijk doordat bij de aanleg van nieuwe aardgastransportleidingen en naar verwachting ook bij de aanleg van voor K1, K2 en K3-leidingen (brandbare vloeistoffen) de PR 10<sup>-6</sup> contour ‘op de leiding’ ligt. De nieuwe structuurvisie wordt in 2012 verwacht. 
+###1.3.4 
 
 ####Blootgestelde groepen
 
-Deze circulaire gaat alleen over de bescherming van personen die in de omgeving van infrastructuur verblijven. Zij heeft geen betrekking op de bescherming van verkeersdeelnemers, zoals bestuurders of reizigers. Deze maken deel uit van het risicoveroorzakende systeem: de infrastructuur met de daarop plaatsvindende vervoershandelingen. Hierop is gewoonlijk de term 'interne veiligheid' van toepassing. Overigens kunnen verkeersdeelnemers in het kader van de herziening van het groepsrisico wel in de afweging worden meegenomen. Hiervoor wordt verwezen naar de ‘Handreiking verantwoordingsplicht groepsrisico’ (uitgave november 2007) die door de Ministeries van BZK, VROM en VenW in samenwerking met de medeoverheden is opgesteld.    
-### 1.3.5  
+Deze circulaire gaat alleen over de bescherming van personen die in de omgeving van infrastructuur verblijven. Zij heeft geen betrekking op de bescherming van verkeersdeelnemers, zoals bestuurders of reizigers. Deze maken deel uit van het risicoveroorzakende systeem: de infrastructuur met de daarop plaatsvindende vervoershandelingen. Hierop is gewoonlijk de term 'interne veiligheid' van toepassing. Overigens kunnen verkeersdeelnemers in het kader van de herziening van het groepsrisico wel in de afweging worden meegenomen. Hiervoor wordt verwezen naar de ‘Handreiking verantwoordingsplicht groepsrisico’ (uitgave november 2007) die door de Ministeries van BZK, VROM en VenW in samenwerking met de medeoverheden is opgesteld. 
+###1.3.5 
 
 ####Overbouwen, overkappen en tunnels
 
-Bij beslissingen over ondertunneling of overkapping moet specifiek naar de externe en interne veiligheidssituatie worden gekeken. Als er sprake is van een EV probleem, dan zijn de risiconormen uit deze circulaire van toepassing. Er moet worden afgezien van het overbouwen van infrastructuur waarbij zonder enige extra bescherming werk- of woonfuncties boven de infrastructuur worden gerealiseerd, tenzij de betreffende objecten aan de normen in deze circulaire voldoen.    
-### 1.3.6  
+Bij beslissingen over ondertunneling of overkapping moet specifiek naar de externe en interne veiligheidssituatie worden gekeken. Als er sprake is van een EV probleem, dan zijn de risiconormen uit deze circulaire van toepassing. Er moet worden afgezien van het overbouwen van infrastructuur waarbij zonder enige extra bescherming werk- of woonfuncties boven de infrastructuur worden gerealiseerd, tenzij de betreffende objecten aan de normen in deze circulaire voldoen. 
+###1.3.6 
 
 ####Letselschade
 
-Deze circulaire besteedt in kwantitatieve zin geen aandacht aan letselschade door ongevallen. Voor het in beeld brengen en beoordelen van dergelijke risico's zijn tot op heden geen of nauwelijks bruikbare instrumenten ontwikkeld. Omdat deze risico's wel van belang kunnen zijn, moeten ze in overleg met de verantwoordelijke diensten geïnventariseerd worden en bij ramp- en ongevalsbestrijding en hulpverlening worden betrokken.     
-### 1.4  
+Deze circulaire besteedt in kwantitatieve zin geen aandacht aan letselschade door ongevallen. Voor het in beeld brengen en beoordelen van dergelijke risico's zijn tot op heden geen of nauwelijks bruikbare instrumenten ontwikkeld. Omdat deze risico's wel van belang kunnen zijn, moeten ze in overleg met de verantwoordelijke diensten geïnventariseerd worden en bij ramp- en ongevalsbestrijding en hulpverlening worden betrokken. 
+###1.4 
 
 ####Totstandkoming circulaire
 
-De nota RNVGS is destijds tot stand gekomen in overleg met een groot aantal betrokkenen. Dit waren onder andere de toenmalige ministeries van BZK en van Economische Zaken, het Interprovinciaal Overleg (IPO), de Vereniging van Nederlandse Gemeenten (VNG), de DCMR Milieudienst Rijnmond, enkele gemeentes en het bedrijfsleven. Deze afstemming heeft geleid tot een breed draagvlak voor het in de nota RNVGS neergelegde beleid. In grote lijnen is het beleid dat ten grondslag ligt aan deze circulaire niet gewijzigd ten opzichte van de nota RNVGS. Deze circulaire kan op instemming rekenen van de ministeries van Veiligheid en Justitie en van BZK en van EL&I en is afgestemd met vertegenwoordigers van het IPO en van de VNG. Ook vertegenwoordigers van het bedrijfsleven zijn betrokken bij de totstandkoming van de circulaire.    
-### 1.5  
+De nota RNVGS is destijds tot stand gekomen in overleg met een groot aantal betrokkenen. Dit waren onder andere de toenmalige ministeries van BZK en van Economische Zaken, het Interprovinciaal Overleg (IPO), de Vereniging van Nederlandse Gemeenten (VNG), de DCMR Milieudienst Rijnmond, enkele gemeentes en het bedrijfsleven. Deze afstemming heeft geleid tot een breed draagvlak voor het in de nota RNVGS neergelegde beleid. In grote lijnen is het beleid dat ten grondslag ligt aan deze circulaire niet gewijzigd ten opzichte van de nota RNVGS. Deze circulaire kan op instemming rekenen van de ministeries van Veiligheid en Justitie en van BZK en van EL&I en is afgestemd met vertegenwoordigers van het IPO en van de VNG. Ook vertegenwoordigers van het bedrijfsleven zijn betrokken bij de totstandkoming van de circulaire.  
+###1.5 
 
 ####Leeswijzer
 
-In hoofdstuk 2 wordt allereerst ingegaan op het externe veiligheidsbeleid in het algemeen en het externe veiligheidsbeleid voor het vervoer van gevaarlijke stoffen in het bijzonder dat zijn beslag heeft gekregen in de zogenaamde risicobenadering. In de hoofdstukken daarna worden achtereenvolgens de drie stappen van de risicobenadering uitgewerkt. Zo gaat hoofdstuk 3 in op de identificatie van risico's, besteedt hoofdstuk 4 aandacht aan de normstelling en de toetsing aan de normen en wordt in hoofdstuk 5 uiteengezet op welke wijze je de risico's kunt reduceren bij overschrijding van de risiconormen. In hoofdstuk 6 wordt tenslotte stilgestaan bij de toepassing van de risicobenadering bij onder andere vervoersbesluiten en omgevingsbesluiten.     
-### 2  
+In hoofdstuk 2 wordt allereerst ingegaan op het externe veiligheidsbeleid in het algemeen en het externe veiligheidsbeleid voor het vervoer van gevaarlijke stoffen in het bijzonder dat zijn beslag heeft gekregen in de zogenaamde risicobenadering. In de hoofdstukken daarna worden achtereenvolgens de drie stappen van de risicobenadering uitgewerkt. Zo gaat hoofdstuk 3 in op de identificatie van risico's, besteedt hoofdstuk 4 aandacht aan de normstelling en de toetsing aan de normen en wordt in hoofdstuk 5 uiteengezet op welke wijze je de risico's kunt reduceren bij overschrijding van de risiconormen. In hoofdstuk 6 wordt tenslotte stilgestaan bij de toepassing van de risicobenadering bij onder andere vervoersbesluiten en omgevingsbesluiten.  
+###2 
 
 ####Introductie van de risicobenadering
 
-### 2.1  
+###2.1 
 
 ####Algemeen
 
@@ -91,37 +91,37 @@ a. het gebruik, de opslag en de productie van gevaarlijke stoffen (inrichtingen)
 
 b. het transport van gevaarlijke stoffen (openbare wegen, water- en spoorwegen, buisleidingen);  
 
-c. het gebruik van luchthavens.   Externe veiligheid heeft betrekking op de veiligheid van degenen die niet bij de risicovolle activiteit zelf zijn betrokken, maar als gevolg van die activiteit wel risico's kunnen lopen, zoals omwonenden. De minister van IenM is belast met de interdepartementale coördinatie van het externe veiligheidsbeleid en is tevens verantwoordelijk voor de veiligheid van het vervoer van gevaarlijke stoffen. De minister van VenJ is verantwoordelijk voor de coördinatie van veiligheid in bredere zin, op basis van o.a. de Wet veiligheidsregio’s.    
-### 2.2  
+c. het gebruik van luchthavens.   Externe veiligheid heeft betrekking op de veiligheid van degenen die niet bij de risicovolle activiteit zelf zijn betrokken, maar als gevolg van die activiteit wel risico's kunnen lopen, zoals omwonenden. De minister van IenM is belast met de interdepartementale coördinatie van het externe veiligheidsbeleid en is tevens verantwoordelijk voor de veiligheid van het vervoer van gevaarlijke stoffen. De minister van VenJ is verantwoordelijk voor de coördinatie van veiligheid in bredere zin, op basis van o.a. de [Wet veiligheidsregio’s](../../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md). 
+###2.2 
 
 ####Risicobenadering
 
-Het externe veiligheidsbeleid heeft vorm gekregen in de risicobenadering. Op grond van de risicobenadering worden grenzen gesteld aan de risico's gelet op de kwetsbaarheid van de omgeving en vice versa. De toepassing van de risicobenadering heeft dus primair betrekking op de onderdelen pro-actie, de preventie en de preparatie van de veiligheidsketen. In deze circulaire wordt de risicobenadering verder uitgewerkt. De risicobenadering bestaat uit vier onderdelen: 
+Het externe veiligheidsbeleid heeft vorm gekregen in de risicobenadering. Op grond van de risicobenadering worden grenzen gesteld aan de risico's gelet op de kwetsbaarheid van de omgeving en vice versa. De toepassing van de risicobenadering heeft dus primair betrekking op de onderdelen pro-actie, de preventie en de preparatie van de veiligheidsketen. In deze circulaire wordt de risicobenadering verder uitgewerkt.De risicobenadering bestaat uit vier onderdelen:
 
-1. identificatie van de risico's;  
+1.identificatie van de risico's;
 
-2. risicoanalyse;  
+2. risicoanalyse;
 
-3. toetsing van de risico's aan normen;  
+3.toetsing van de risico's aan normen;
 
-4. risicoreductie en aspecten van zelfredzaamheid en hulpverlening.   Alvorens deze onderdelen verder toe te lichten, wordt eerst ingegaan op het begrip 'risico'.    
-### 2.3  
+4.risicoreductie en aspecten van zelfredzaamheid en hulpverlening.Alvorens deze onderdelen verder toe te lichten, wordt eerst ingegaan op het begrip 'risico'. 
+###2.3 
 
 ####Het begrip risico
 
-Het begrip risico wordt in beeld gebracht door middel van twee begrippen: het plaatsgebonden risico en het groepsrisico. In hoofdstuk 3 wordt nader ingegaan op de toetsing van risico's aan de norm, waarna in hoofdstuk 4 wordt ingegaan op risicoreductie en aspecten van zelfredzaamheid en hulpverlening.   
-### 2.3.1  
+Het begrip risico wordt in beeld gebracht door middel van twee begrippen: het plaatsgebonden risico en het groepsrisico. In hoofdstuk 3 wordt nader ingegaan op de toetsing van risico's aan de norm, waarna in hoofdstuk 4 wordt ingegaan op risicoreductie en aspecten van zelfredzaamheid en hulpverlening. 
+###2.3.1 
 
 ####Plaatsgebonden risico
 
-Het plaatsgebonden risico is de kans per jaar dat een persoon die onafgebroken en onbeschermd op een plaats langs een transportroute verblijft, komt te overlijden als gevolg van een incident met het vervoer van gevaarlijke stoffen. Daarbij is de omvang van het risico een functie van de afstand waarbij meestal geldt: hoe groter de afstand, des te kleiner het risico. De diverse niveaus van het plaatgebonden risico worden geografisch weergegeven door zogenaamde iso-risicocontouren (lijnen) langs de infrastructuur. Daarbij verbindt elke lijn plaatsen in de omgeving van een transportas met een even hoog plaatsgebonden risico.   ![]()
-In de figuur is de iso-contour voor het plaatsgebonden risico van 10 <sup>-6</sup> en de iso-contour voor het plaatsgebonden risico van 10 <sup>-7</sup> weergegeven.    
-### 2.3.2  
+Het plaatsgebonden risico is de kans per jaar dat een persoon die onafgebroken en onbeschermd op een plaats langs een transportroute verblijft, komt te overlijden als gevolg van een incident met het vervoer van gevaarlijke stoffen. Daarbij is de omvang van het risico een functie van de afstand waarbij meestal geldt: hoe groter de afstand, des te kleiner het risico. De diverse niveaus van het plaatgebonden risico worden geografisch weergegeven door zogenaamde iso-risicocontouren (lijnen) langs de infrastructuur. Daarbij verbindt elke lijn plaatsen in de omgeving van een transportas met een even hoog plaatsgebonden risico. ![148968](http://wetten.overheid.nl/Illustration/148968)
+In de figuur is de iso-contour voor het plaatsgebonden risico van 10<sup>-6</sup> en de iso-contour voor het plaatsgebonden risico van 10<sup>-7</sup> weergegeven.  
+###2.3.2 
 
 ####Groepsrisico
 
-Het groepsrisico is de kans per jaar per kilometer transportroute dat een groep van 10 of meer personen in de omgeving van de transportroute in één keer het (dodelijk) slachtoffer wordt van een ongeval op die transportroute. Het groepsrisico geeft de aandachtspunten op een transportroute aan waar zich mogelijk een ramp met veel slachtoffers kan voordoen en houdt daarmee rekening met de aard en dichtheid van de bebouwing in de nabijheid van de transportroute. Het groepsrisico wordt weergegeven in een grafiek waarin op de verticale as de cumulatieve kans op het aantal doden per jaar en op de horizontale het aantal doden logaritmisch is weergegeven. De volgende figuur illustreert dit.   ![]()
-De kromme lijnen geven de verschillende 'externe veiligheidsscores' weer van bijvoorbeeld nieuwe infrastructuur of ruimtelijke ontwikkelingen. De rechte lijn geeft de oriëntatiewaarde (OW) van het groepsrisico weer. Aan de rechterkant van deze lijn is sprake van een overschrijding van deze oriëntatiewaarde.      
+Het groepsrisico is de kans per jaar per kilometer transportroute dat een groep van 10 of meer personen in de omgeving van de transportroute in één keer het (dodelijk) slachtoffer wordt van een ongeval op die transportroute. Het groepsrisico geeft de aandachtspunten op een transportroute aan waar zich mogelijk een ramp met veel slachtoffers kan voordoen en houdt daarmee rekening met de aard en dichtheid van de bebouwing in de nabijheid van de transportroute. Het groepsrisico wordt weergegeven in een grafiek waarin op de verticale as de cumulatieve kans op het aantal doden per jaar en op de horizontale het aantal doden logaritmisch is weergegeven. De volgende figuur illustreert dit.![148969](http://wetten.overheid.nl/Illustration/148969)
+De kromme lijnen geven de verschillende 'externe veiligheidsscores' weer van bijvoorbeeld nieuwe infrastructuur of ruimtelijke ontwikkelingen. De rechte lijn geeft de oriëntatiewaarde (OW) van het groepsrisico weer. Aan de rechterkant van deze lijn is sprake van een overschrijding van deze oriëntatiewaarde.   
 ### 3  
 
 ####Risicobenadering deel I: Identificatie van de risico's
@@ -147,27 +147,27 @@ Om te kunnen bepalen of het vervoer van gevaarlijke stoffen over een bepaalde we
 * het effect van de op/aan de vaarweg te wijzigen aspecten/onderdelen op alle hier bovenstaande punten.   Voor de berekening van het groepsrisico zijn de vervoergegevens en populatiegevens benodigd. Informatie over het vervoer over Rijks(vaar)wegen is verkrijgbaar bij Rijkswaterstaat en over het spoorvervoer bij ProRail. Voor de populatiegegevens wordt verwezen naar www.populatiebestandgr.vrom.nl. Naar verwachting is eind 2012 de invoermodule voor RBMII beschikbaar. Hiermee kunnen de populatiebestanden automatisch worden ingevoerd. Overigens blijft degene die de populatiebestanden gebruikt eindverantwoordelijk voor de juistheid van de gegevens. 
 ###Vuistregels
 
-In sommige gevallen kan de berekening van het plaatsgebonden risico en het groepsrisico achterwege blijven. Om dit te beoordelen zijn in HART zogenaamde vuistregels opgenomen. Op basis van de vuistregels kan een goede indicatie worden verkregen of bij een bepaalde vervoersstroom het plaatsgebonden risico kleiner dan 10 <sup>-6</sup> per jaar is. Ook kan met behulp van de vuistregels een goede indicatie worden verkregen of het groepsrisico onder 0,1 keer de oriëntatiewaarde blijft. In die gevallen kan de berekening van het plaatsgebonden risico respectievelijk groepsrisico achterwege blijven.    
+In sommige gevallen kan de berekening van het plaatsgebonden risico en het groepsrisico achterwege blijven. Om dit te beoordelen zijn in HART zogenaamde vuistregels opgenomen. Op basis van de vuistregels kan een goede indicatie worden verkregen of bij een bepaalde vervoersstroom het plaatsgebonden risico kleiner dan 10<sup>-6</sup> per jaar is. Ook kan met behulp van de vuistregels een goede indicatie worden verkregen of het groepsrisico onder 0,1 keer de oriëntatiewaarde blijft. In die gevallen kan de berekening van het plaatsgebonden risico respectievelijk groepsrisico achterwege blijven.   
 ### 3.2  
 
 ####Toepassen oude berekeningsregels
 
-In afwijking van het bovenstaande, mag in geval een ontwerp van een vervoersbesluit of omgevingsbesluit reeds voor 31 juli 2012 ter inzage is gelegd of – in geval het besluit niet met toepassing van paragraaf 3.4 van de Awb wordt toegepast – anderszins in voorbereiding was, gebruik worden gemaakt van de risicobenadering als verwoord in de Circulaire zoals die voor 31 juli 2012 luidde.    
+In afwijking van het bovenstaande, mag in geval een ontwerp van een vervoersbesluit of omgevingsbesluit reeds voor 31 juli 2012 ter inzage is gelegd of – in geval het besluit niet met toepassing van paragraaf 3.4 van de [Awb](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt toegepast – anderszins in voorbereiding was, gebruik worden gemaakt van de risicobenadering als verwoord in de Circulaire zoals die voor 31 juli 2012 luidde.    
 ### 3.3  
 
 ####Risicobeoordeling ruimtelijke ontwikkelingen rondom het Basisnet
 
 ###Plaatsgebonden risico
 
-Bij de in paragraaf 6.1.2 genoemde omgevingsbesluiten die ruimtelijke ontwikkelingen mogelijk maken langs spoorlijnen of (vaar)wegen die deel uitmaken van Basisnet Spoor, Basisnet Weg of Basisnet Water kan de berekening van het plaatsgebonden risico achterwege blijven. Bij Basisnet Weg en Basisnet Spoor gelden namelijk de afstanden die in bijlage 2 respectievelijk bijlage 4 bij deze circulaire zijn opgenomen. Deze afstanden, gemeten vanaf het midden van de infrastructuur, resulteren in plaatsen waar het plaatsgebonden risico vanwege het vervoer van gevaarlijke stoffen niet meer bedragen dan 10 <sup>-6</sup> per jaar. Daar waar de afstand ‘0’ is vermeld, betekent dit dat het plaatsgebonden risico vanwege dat vervoer op het midden van de (spoor)weg niet meer mag bedragen dan 10 <sup>-6</sup> per jaar. Hoewel niet in bijlage 4 genoemde spoorwegen gebruikt kunnen worden voor het vervoer van gevaarlijke stoffen, gelden hiervoor geen afstanden. Op die spoorwegen vindt momenteel geen structureel vervoer van gevaarlijke stoffen plaats of is de omvang van het vervoer zo laag, dat er van uit mag worden gegaan dat het plaatsgebonden risico kleiner is dan 10 <sup>-6</sup> per jaar. Ten aanzien van ruimtelijke ontwikkelingen langs vaarwegen die deel uitmaken van Basisnet Water zijn in bijlage 3 bij deze circulaire de vaarwegen onderverdeeld in ‘rode’ en ‘zwarte’ vaarwegen. Op zowel rode als zwarte vaarwegen worden veel brandbare vloeistoffen getransporteerd. Op zwarte vaarwegen wordt alleen gebruik gemaakt van binnenvaartschepen en op de rode vaarwegen bovendien van zeeschepen. Bij rode en zwarte vaarwegen is er, met name uit pragmatische overwegingen, voor gekozen om lijnen vast te stellen die vrijwel overeen komen met de rand van de vaarweg. Deze gelden als risicolijn waar het plaatsgebonden risico vanwege het vervoer van gevaarlijke stoffen over die vaarweg niet meer mag bedragen dan 10 <sup>-6</sup> per jaar. Tussen deze risicolijnen is bebouwing in beginsel niet toegestaan. In geval van concrete bouwplannen langs de vaarweg kan de ligging van de risicolijn worden opgevraagd bij de Dienst Verkeer en Scheepvaart van Rijkswaterstaat. Voor niet in bijlage 3 genoemde vaarwegen, die door de binnenvaart worden gebruikt voor het vervoer van gevaarlijke stoffen, gelden geen afstanden. Op die vaarwegen mag er van uit worden gegaan dat het plaatsgebonden risico op het water kleiner is dan 10 <sup>-6</sup> per jaar. Voor veel locaties langs vaarwegen is het onwaarschijnlijk dat het vervoer van gevaarlijke stoffen in de toekomst dusdanig zal groeien dat het plaatsgebonden risico van 10 <sup>-6</sup> per jaar daadwerkelijk de risicolijn zal bereiken. In bijzondere omstandigheden is afwijking van de risicolijnen dan ook mogelijk. Voorwaarde daarbij is dat uit het advies van Rijkswaterstaat blijkt dat ook gelet op de vervoersverwachtingen voor de desbetreffende vaarweg het plaatsgebonden risico ter hoogte van het te bouwen object of de bouwplannen niet meer bedraagt dan 10 <sup>-6</sup>. Dit advies laat overigens de mogelijke noodzakelijke toestemming van de vaarwegbeheerder in verband met andere aspecten dan externe veiligheid – bijvoorbeeld in het kader van de Waterwet – onverlet. Voor alle in paragraaf 6.1.2 genoemde omgevingsbesluiten waarvan ontwerpen na 1 januari 2010 respectievelijk 31 juli 2012 ter inzage zijn of worden gelegd dienen de bijlagen 2 en 3 respectievelijk bijlage 4 te worden toegepast, op de wijze als hierboven vermeld. Met dien verstande dat de per 31 juli 2012 in de bijlagen 2 en 3 aangebrachte aanpassingen (aangeduid met een asterix) slechts toepassing behoeven voor zover ontwerpen van genoemde omgevingsbesluiten na 31 juli 2012 ter inzage worden gelegd. 
+Bij de in paragraaf 6.1.2 genoemde omgevingsbesluiten die ruimtelijke ontwikkelingen mogelijk maken langs spoorlijnen of (vaar)wegen die deel uitmaken van Basisnet Spoor, Basisnet Weg of Basisnet Water kan de berekening van het plaatsgebonden risico achterwege blijven. Bij Basisnet Weg en Basisnet Spoor gelden namelijk de afstanden die in bijlage 2 respectievelijk bijlage 4 bij deze circulaire zijn opgenomen. Deze afstanden, gemeten vanaf het midden van de infrastructuur, resulteren in plaatsen waar het plaatsgebonden risico vanwege het vervoer van gevaarlijke stoffen niet meer bedragen dan 10<sup>-6</sup> per jaar. Daar waar de afstand ‘0’ is vermeld, betekent dit dat het plaatsgebonden risico vanwege dat vervoer op het midden van de (spoor)weg niet meer mag bedragen dan 10<sup>-6</sup> per jaar. Hoewel niet in bijlage 4 genoemde spoorwegen gebruikt kunnen worden voor het vervoer van gevaarlijke stoffen, gelden hiervoor geen afstanden. Op die spoorwegen vindt momenteel geen structureel vervoer van gevaarlijke stoffen plaats of is de omvang van het vervoer zo laag, dat er van uit mag worden gegaan dat het plaatsgebonden risico kleiner is dan 10<sup>-6</sup> per jaar. Ten aanzien van ruimtelijke ontwikkelingen langs vaarwegen die deel uitmaken van Basisnet Water zijn in bijlage 3 bij deze circulaire de vaarwegen onderverdeeld in ‘rode’ en ‘zwarte’ vaarwegen. Op zowel rode als zwarte vaarwegen worden veel brandbare vloeistoffen getransporteerd. Op zwarte vaarwegen wordt alleen gebruik gemaakt van binnenvaartschepen en op de rode vaarwegen bovendien van zeeschepen. Bij rode en zwarte vaarwegen is er, met name uit pragmatische overwegingen, voor gekozen om lijnen vast te stellen die vrijwel overeen komen met de rand van de vaarweg. Deze gelden als risicolijn waar het plaatsgebonden risico vanwege het vervoer van gevaarlijke stoffen over die vaarweg niet meer mag bedragen dan 10<sup>-6</sup> per jaar. Tussen deze risicolijnen is bebouwing in beginsel niet toegestaan. In geval van concrete bouwplannen langs de vaarweg kan de ligging van de risicolijn worden opgevraagd bij de Dienst Verkeer en Scheepvaart van Rijkswaterstaat. Voor niet in bijlage 3 genoemde vaarwegen, die door de binnenvaart worden gebruikt voor het vervoer van gevaarlijke stoffen, gelden geen afstanden. Op die vaarwegen mag er van uit worden gegaan dat het plaatsgebonden risico op het water kleiner is dan 10<sup>-6</sup> per jaar. Voor veel locaties langs vaarwegen is het onwaarschijnlijk dat het vervoer van gevaarlijke stoffen in de toekomst dusdanig zal groeien dat het plaatsgebonden risico van 10<sup>-6</sup> per jaar daadwerkelijk de risicolijn zal bereiken. In bijzondere omstandigheden is afwijking van de risicolijnen dan ook mogelijk. Voorwaarde daarbij is dat uit het advies van Rijkswaterstaat blijkt dat ook gelet op de vervoersverwachtingen voor de desbetreffende vaarweg het plaatsgebonden risico ter hoogte van het te bouwen object of de bouwplannen niet meer bedraagt dan 10<sup>-6</sup>. Dit advies laat overigens de mogelijke noodzakelijke toestemming van de vaarwegbeheerder in verband met andere aspecten dan externe veiligheid – bijvoorbeeld in het kader van de Waterwet – onverlet. Voor alle in paragraaf 6.1.2 genoemde omgevingsbesluiten waarvan ontwerpen na 1 januari 2010 respectievelijk 31 juli 2012 ter inzage zijn of worden gelegd dienen de bijlagen 2 en 3 respectievelijk bijlage 4 te worden toegepast, op de wijze als hierboven vermeld. Met dien verstande dat de per 31 juli 2012 in de bijlagen 2 en 3 aangebrachte aanpassingen (aangeduid met een asterix) slechts toepassing behoeven voor zover ontwerpen van genoemde omgevingsbesluiten na 31 juli 2012 ter inzage worden gelegd.
 ###Groepsrisico
 
-De beoordeling en verantwoording van het groepsrisico, bedoeld in paragraaf 4.3, dient alleen plaats te vinden bij de omgevingsbesluiten die in paragraaf 6.1.2 in de onderdelen a tot en met c zijn genoemd. Dit laat uiteraard onverlet dat bij de voorbereiding van de aldaar in de onderdelen d tot en met h genoemde besluiten moet worden voldaan aan eisen van een zorgvuldige (ruimtelijke) besluitvorming. Indien het besluit daartoe aanleiding geeft, zal het bestuursorgaan dat het besluit vaststelt derhalve in de motivering moeten ingaan op de mogelijke gevolgen van dat besluit voor het groepsrisico. Wat de berekening van het groepsrisico betreft dient voor bestemmingsplannen, inpassingsplannen en projectbesluiten die na 1 januari 2010 respectievelijk 31 juli 2012 ter inzage worden gelegd en die betrekking hebben op de omgeving van de in de bijlagen 2 en 3 genoemde wegen en vaarwegen respectievelijk op de omgeving van de in bijlage 4 genoemde spoorwegen, uit te worden gegaan van de in die bijlagen vermelde vervoercijfers. Die vervoercijfers zijn gebaseerd op een maximale benutting van de groeiruimte voor het vervoer. De in bijlage 2 vermelde vervoercijfers hebben alleen betrekking op LPG. Dit laat onverlet dat de omvang van het invloedsgebied mede wordt bepaald door andere gevaarlijke stoffen. Het invloedsgebied wordt derhalve ook voor de in bijlage 2 genoemde wegen bepaald door de gevaarlijke stof die over de betreffende weg wordt vervoerd met grootste 1% letaliteitsgrens (voor het begrip invloedsgebied zie paragraaf 4.3). Gegevens omtrent het gerealiseerde vervoer kunnen eventueel worden betrokken bij de planning van de te nemen veiligheidsverhogende maatregelen. Voor niet in bijlage 3 genoemde vaarwegen en voor niet in bijlage 4 genoemde spoorwegen behoeft het groepsrisico niet beoordeeld en verantwoord te worden, omdat de hoeveelheden gevaarlijke stoffen die over deze vaarwegen respectievelijk spoorwegen worden vervoerd niet of nauwelijks van invloed zijn op het groepsrisico. Indien het ontwerp voor een bestemmingsplan, inpassingsplan of projectbesluit ter inzage is gelegd vóór 1 januari 2010 respectievelijk vóór 31 juli 2012, dan wordt het aan het oordeel van het bestuursorgaan dat het plan of besluit vaststelt overgelaten of de motivering van dat plan of besluit met het oog op de verantwoording van het groepsrisico alsnog wordt aangepast aan de in bijlagen 2 en 3 respectievelijk bijlage 4 bij deze circulaire opgenomen vervoercijfers. De met een asterix in bijlagen 2 en 3 aangeduide aanpassingen van vervoerscijfers en afstanden behoeven slechts te worden toegepast in geval het ontwerp van een besluit als hiervoor bedoeld 31 juli 2012 ter inzage wordt gelegd. Uiteraard laat het voorgaande onverlet dat een dergelijk plan of besluit moet voldoen aan de eisen van een goede ruimtelijke ordening respectievelijk een goede ruimtelijke onderbouwing, zoals beschreven in paragraaf 4.3.     
-### 4  
+De beoordeling en verantwoording van het groepsrisico, bedoeld in paragraaf 4.3, dient alleen plaats te vinden bij de omgevingsbesluiten die in paragraaf 6.1.2 in de onderdelen a tot en met c zijn genoemd. Dit laat uiteraard onverlet dat bij de voorbereiding van de aldaar in de onderdelen d tot en met h genoemde besluiten moet worden voldaan aan eisen van een zorgvuldige (ruimtelijke) besluitvorming. Indien het besluit daartoe aanleiding geeft, zal het bestuursorgaan dat het besluit vaststelt derhalve in de motivering moeten ingaan op de mogelijke gevolgen van dat besluit voor het groepsrisico. Wat de berekening van het groepsrisico betreft dient voor bestemmingsplannen, inpassingsplannen en projectbesluiten die na 1 januari 2010 respectievelijk 31 juli 2012 ter inzage worden gelegd en die betrekking hebben op de omgeving van de in de bijlagen 2 en 3 genoemde wegen en vaarwegen respectievelijk op de omgeving van de in bijlage 4 genoemde spoorwegen, uit te worden gegaan van de in die bijlagen vermelde vervoercijfers. Die vervoercijfers zijn gebaseerd op een maximale benutting van de groeiruimte voor het vervoer. De in bijlage 2 vermelde vervoercijfers hebben alleen betrekking op LPG. Dit laat onverlet dat de omvang van het invloedsgebied mede wordt bepaald door andere gevaarlijke stoffen. Het invloedsgebied wordt derhalve ook voor de in bijlage 2 genoemde wegen bepaald door de gevaarlijke stof die over de betreffende weg wordt vervoerd met grootste 1% letaliteitsgrens (voor het begrip invloedsgebied zie paragraaf 4.3). Gegevens omtrent het gerealiseerde vervoer kunnen eventueel worden betrokken bij de planning van de te nemen veiligheidsverhogende maatregelen. Voor niet in bijlage 3 genoemde vaarwegen en voor niet in bijlage 4 genoemde spoorwegen behoeft het groepsrisico niet beoordeeld en verantwoord te worden, omdat de hoeveelheden gevaarlijke stoffen die over deze vaarwegen respectievelijk spoorwegen worden vervoerd niet of nauwelijks van invloed zijn op het groepsrisico. Indien het ontwerp voor een bestemmingsplan, inpassingsplan of projectbesluit ter inzage is gelegd vóór 1 januari 2010 respectievelijk vóór 31 juli 2012, dan wordt het aan het oordeel van het bestuursorgaan dat het plan of besluit vaststelt overgelaten of de motivering van dat plan of besluit met het oog op de verantwoording van het groepsrisico alsnog wordt aangepast aan de in bijlagen 2 en 3 respectievelijk bijlage 4 bij deze circulaire opgenomen vervoercijfers. De met een asterix in bijlagen 2 en 3 aangeduide aanpassingen van vervoerscijfers en afstanden behoeven slechts te worden toegepast in geval het ontwerp van een besluit als hiervoor bedoeld 31 juli 2012 ter inzage wordt gelegd. Uiteraard laat het voorgaande onverlet dat een dergelijk plan of besluit moet voldoen aan de eisen van een goede ruimtelijke ordening respectievelijk een goede ruimtelijke onderbouwing, zoals beschreven in paragraaf 4.3.   
+###4 
 
 ####Risicobenadering deel II: De normstelling en toetsing aan de normen
 
-### 4.1  
+###4.1 
 
 ####Definities
 
@@ -183,105 +183,105 @@ d. beperkt kwetsbaar object: object opgenomen van bij bijlage 2 van deze circula
 
 e. geprojecteerd kwetsbaar of beperkt kwetsbaar object: nog niet aanwezig kwetsbaar of beperkt kwetsbaar object dat op grond van het voor het betrokken gebied geldende bestemmingsplan toelaatbaar is.  
 
-f. infrastructuur: een openbare weg, een openbaar binnenwater of een spoorweg gelegen buiten het terrein van een inrichting. Als het gaat om een spoorweg op een emplacement dat onderdeel is van het landelijke spoornet, dan valt een doorgaand transport eveneens onder deze definitie.      
-### 4.2  
+f. infrastructuur: een openbare weg, een openbaar binnenwater of een spoorweg gelegen buiten het terrein van een inrichting. Als het gaat om een spoorweg op een emplacement dat onderdeel is van het landelijke spoornet, dan valt een doorgaand transport eveneens onder deze definitie.    
+###4.2 
 
 ####Normen voor het plaatsgebonden risico
 
-In de volgende tabel wordt weergegeven welke normen voor het plaatsgebonden risico op de verschillende situaties van toepassing zijn.  
+In de volgende tabel wordt weergegeven welke normen voor het plaatsgebonden risico op de verschillende situaties van toepassing zijn.
 
-|--- |--- |  *Vervoersbesluit*   |  *Omgevingsbesluit*   |
-|---|---|---|---|
-|  *Bestaande situatie*   | --- | Grenswaarde PR 10 <sup>-5</sup>  | Grenswaarde PR 10 <sup>-5</sup>  |
-| --- | --- | Streven naar PR 10 <sup>-6</sup>  | Streven naar PR 10 <sup>-6</sup>  |
-|  *Nieuwe situatie*   |  *Kwetsbaar*   | Grenswaarde PR 10 <sup>-6</sup>  | Grenswaarde PR 10 <sup>-6</sup>  |
-| --- |  *Beperkt kwetsbaar*   | Richtwaarde PR 10 <sup>-6</sup>  | Richtwaarde PR 10 <sup>-6</sup>  |
+|--- |--- |*Vervoersbesluit* |*Omgevingsbesluit* |
+|:---|:---|:---|:---|
+|*Bestaande situatie* | --- |Grenswaarde PR 10<sup>-5</sup> |Grenswaarde PR 10<sup>-5</sup> |
+| --- | --- |Streven naar PR 10<sup>-6</sup> |Streven naar PR 10<sup>-6</sup> |
+|*Nieuwe situatie* |*Kwetsbaar* |Grenswaarde PR 10<sup>-6</sup> |Grenswaarde PR 10<sup>-6</sup> |
+| --- |*Beperkt kwetsbaar* |Richtwaarde PR 10<sup>-6</sup> |Richtwaarde PR 10<sup>-6</sup> |
 
-### 4.2.1  
+###4.2.1 
 
 ####Grenswaardes en richtwaardes
 
-Zoals in de inleiding is aangegeven, sluit deze circulaire voor onder andere de aard van de normstelling aan bij de systematiek van het BEVI. In het Besluit wordt voor de kwaliteitseisen voor het plaatsgebonden risico onderscheid gemaakt tussen grenswaarden en richtwaarden. Deze begrippen worden in de Wet milieubeheer als volgt gedefinieerd: 
+Zoals in de inleiding is aangegeven, sluit deze circulaire voor onder andere de aard van de normstelling aan bij de systematiek van het [BEVI](../../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md). In het [Besluit](../../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) wordt voor de kwaliteitseisen voor het plaatsgebonden risico onderscheid gemaakt tussen grenswaarden en richtwaarden. Deze begrippen worden in de [Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) als volgt gedefinieerd:
 
-* 'Een grenswaarde geeft de kwaliteit aan die op het in de maatregel aangegeven tijdstip ten minste moet zijn bereikt, en die, waar zij aanwezig is, ten minste moet worden instandgehouden.'  
+*'Een grenswaarde geeft de kwaliteit aan die op het in de maatregel aangegeven tijdstip ten minste moet zijn bereikt, en die, waar zij aanwezig is, ten minste moet worden instandgehouden.'
 
-* 'Een richtwaarde geeft de kwaliteit aan die op het in de maatregel aangegeven tijdstip zoveel mogelijk moet zijn bereikt, en die, waar zij aanwezig is, zoveel mogelijk moet worden instandgehouden.'   Dit komt erop neer dat grenswaarden bij de uitoefening van een aangewezen wettelijke bevoegdheid in acht moeten worden genomen, terwijl met richtwaarden zoveel mogelijk rekening moet worden gehouden. Het onderscheid tussen grenswaarden en richtwaarden wordt in deze circulaire aangehouden met betrekking tot kwetsbare objecten enerzijds en beperkt kwetsbare objecten anderzijds. Dit onderscheid heeft dus betrekking op de geadviseerde 'hardheid' van de besluitvorming.    
-### 4.2.2  
+*'Een richtwaarde geeft de kwaliteit aan die op het in de maatregel aangegeven tijdstip zoveel mogelijk moet zijn bereikt, en die, waar zij aanwezig is, zoveel mogelijk moet worden instandgehouden.'Dit komt erop neer dat grenswaarden bij de uitoefening van een aangewezen wettelijke bevoegdheid in acht moeten worden genomen, terwijl met richtwaarden zoveel mogelijk rekening moet worden gehouden.Het onderscheid tussen grenswaarden en richtwaarden wordt in deze circulaire aangehouden met betrekking tot kwetsbare objecten enerzijds en beperkt kwetsbare objecten anderzijds. Dit onderscheid heeft dus betrekking op de geadviseerde 'hardheid' van de besluitvorming. 
+###4.2.2 
 
 ####Bestaande en nieuwe situaties
 
-Er is niet alleen onderscheid tussen grenswaarden en richtwaarden, maar ook in de hoogte van de normen voor het plaatsgebonden risico tussen bestaande en nieuwe situaties. Op dit punt volgt de circulaire de nota RNVGS in plaats van het BEVI.Ook dit onderscheid heeft betrekking op de geadviseerde 'hardheid' van de besluitvorming. Onder bestaande situaties wordt verstaan: 
+Er is niet alleen onderscheid tussen grenswaarden en richtwaarden, maar ook in de hoogte van de normen voor het plaatsgebonden risico tussen bestaande en nieuwe situaties. Op dit punt volgt de circulaire de nota RNVGS in plaats van het [BEVI](../../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md).Ook dit onderscheid heeft betrekking op de geadviseerde 'hardheid' van de besluitvorming.Onder bestaande situaties wordt verstaan:
 
-voor de transportroute: 
+voor de transportroute:
 
-o bestaande transportstroom    
+o bestaande transportstroom
 
-voor de omgeving van de transportroute: 
+voor de omgeving van de transportroute:
 
-o bij vigerend bestemmingsplan: ontwikkelingen waarin het plan voorziet;  
+o bij vigerend bestemmingsplan: ontwikkelingen waarin het plan voorziet;
 
-o indien er geen vigerend bestemmingsplan is: fysiek aanwezige situatie;  
+o indien er geen vigerend bestemmingsplan is: fysiek aanwezige situatie;
 
-o vervangende nieuwbouw.     Onder nieuwe situaties wordt verstaan: 
+o vervangende nieuwbouw.Onder nieuwe situaties wordt verstaan:
 
-voor de transportroute: 
+voor de transportroute:
 
-o een nieuwe route;  
+o een nieuwe route;
 
-o een significante wijziging van de transportstroom op een bestaande route.    
+o een significante wijziging van de transportstroom op een bestaande route.
 
-punt voor de omgeving van de transportroute: 
+punt voor de omgeving van de transportroute:
 
-o bij vigerend bestemmingsplan: ontwikkelingen waarin het plan niet voorziet;  
+o bij vigerend bestemmingsplan: ontwikkelingen waarin het plan niet voorziet;
 
-o indien er geen vigerend bestemmingsplan is: elk nieuwbouwinitiatief dat geen vervangende nieuwbouw is.     In bestaande situaties mag het plaatsgebonden risico nooit groter zijn dan 10 <sup>-5</sup> in het gebied rondom de infrastructuur, de buisleiding en de krachtens wettelijk voorschrift of zakelijk recht direct daaraan verbonden zone als daarin kwetsbare of beperkt kwetsbare objecten aanwezig zijn. Indien het plaatsgebonden risico in het gebied waarin een (geprojecteerd) kwetsbaar of beperkt kwetsbaar object is gelegen, hoger is dan 10 <sup>-6</sup>, dan dient naar een vermindering van het risico te worden gestreefd . Dit kan tot uitdrukking worden gebracht in bijvoorbeeld strategische besluitvorming van vervoerseconomische of planologische aard. <sup> 14  In bijlage 3 is een overzicht opgenomen van mogelijke maatregelen die kunnen worden getroffen om de risico's te verminderen.  </sup>    
-### 4.2.3  
+o indien er geen vigerend bestemmingsplan is: elk nieuwbouwinitiatief dat geen vervangende nieuwbouw is.In bestaande situaties mag het plaatsgebonden risico nooit groter zijn dan 10<sup>-5</sup> in het gebied rondom de infrastructuur, de buisleiding en de krachtens wettelijk voorschrift of zakelijk recht direct daaraan verbonden zone als daarin kwetsbare of beperkt kwetsbare objecten aanwezig zijn.Indien het plaatsgebonden risico in het gebied waarin een (geprojecteerd) kwetsbaar of beperkt kwetsbaar object is gelegen, hoger is dan 10<sup>-6</sup>, dan dient naar een vermindering van het risico te worden gestreefd<sup>14In bijlage 3 is een overzicht opgenomen van mogelijke maatregelen die kunnen worden getroffen om de risico's te verminderen.</sup>. Dit kan tot uitdrukking worden gebracht in bijvoorbeeld strategische besluitvorming van vervoerseconomische of planologische aard. 
+###4.2.3 
 
 ####Afwijken van de normen
 
 ####Grenswaardes
 
-In navolging van de nota RNVGS kunnen er bijzondere omstandigheden zijn waarbij het bevoegd gezag op basis van een integrale belangenafweging van grenswaardes kan afwijken. Dit besluit moet ter goedkeuring worden voorgelegd aan de betrokken ministers die dit in overleg met betrokken partijen zullen beoordelen. Dit kan bijvoorbeeld het geval zijn als het gaat om: 
+In navolging van de nota RNVGS kunnen er bijzondere omstandigheden zijn waarbij het bevoegd gezag op basis van een integrale belangenafweging van grenswaardes kan afwijken. Dit besluit moet ter goedkeuring worden voorgelegd aan de betrokken ministers die dit in overleg met betrokken partijen zullen beoordelen. Dit kan bijvoorbeeld het geval zijn als het gaat om:
 
-* een voor een stad of regio zeer belangrijke ruimtelijke ontwikkeling;  
+*een voor een stad of regio zeer belangrijke ruimtelijke ontwikkeling;
 
-* een situatie waarin er niet meer zou kunnen worden vervoerd;  
+*een situatie waarin er niet meer zou kunnen worden vervoerd;
 
-* een situatie waarbij door toepassing van de normen de externe veiligheidsproblematiek elders (sterk) toeneemt.      
+*een situatie waarbij door toepassing van de normen de externe veiligheidsproblematiek elders (sterk) toeneemt.
 
 ####Richtwaardes
 
-Afwijking van een richtwaarde is bij alle beperkt kwetsbare objecten mogelijk vanwege zwaarwegende belangen op het gebied van vervoer, ruimtelijke ordening en economie (verder te noemen: gewichtige redenen). Afwijking is tevens toegestaan bij het opvullen van kleine open gaten in bestaand stedelijk gebied of vervangende nieuwbouw in het kader van de herstructurering van stedelijk gebied. Afwijking is primair een verantwoordelijkheid van het ter zake van een besluit aangewezen bevoegde gezag. Daarbij dient voorafgaand overleg met alle betrokken bestuursorganen plaats te vinden. In de motivering bij het betrokken besluit moet worden aangegeven waarom wordt afgeweken van de norm.     
-### 4.2.4  
+Afwijking van een richtwaarde is bij alle beperkt kwetsbare objecten mogelijk vanwege zwaarwegende belangen op het gebied van vervoer, ruimtelijke ordening en economie (verder te noemen: gewichtige redenen). Afwijking is tevens toegestaan bij het opvullen van kleine open gaten in bestaand stedelijk gebied of vervangende nieuwbouw in het kader van de herstructurering van stedelijk gebied.Afwijking is primair een verantwoordelijkheid van het ter zake van een besluit aangewezen bevoegde gezag. Daarbij dient voorafgaand overleg met alle betrokken bestuursorganen plaats te vinden. In de motivering bij het betrokken besluit moet worden aangegeven waarom wordt afgeweken van de norm. 
+###4.2.4 
 
 ####Tijdelijk afwijken van de normen: anticipatieregel
 
-Als op termijn door bepaalde ontwikkelingen de veiligheidssituatie zal verbeteren, kan tijdelijk worden afgeweken van de normen voor het plaatsgebonden risico. Het gaat dan om ontwikkelingen zoals verplaatsing of aanleg van infrastructuur of uit andere hoofde ingezette sanering van bebouwing. Het anticiperen op de verbetering van de veiligheidssituatie mag alleen plaatsvinden voor ontwikkelingen waarvan is vastgelegd dat zij binnen vijf jaar worden gerealiseerd.    
-### 4.2.5  
+Als op termijn door bepaalde ontwikkelingen de veiligheidssituatie zal verbeteren, kan tijdelijk worden afgeweken van de normen voor het plaatsgebonden risico. Het gaat dan om ontwikkelingen zoals verplaatsing of aanleg van infrastructuur of uit andere hoofde ingezette sanering van bebouwing. Het anticiperen op de verbetering van de veiligheidssituatie mag alleen plaatsvinden voor ontwikkelingen waarvan is vastgelegd dat zij binnen vijf jaar worden gerealiseerd. 
+###4.2.5 
 
 ####Overschrijding van een norm ten tijde van inwerkingtreding van deze circulaire
 
-Vervallen per 31-07-2012   
+Vervallen per 31-07-2012 
 
-### 4.3  
+###4.3 
 
 ####De beoordeling van het groepsrisico
 
 De oriëntatiewaarde voor het groepsrisico bij het vervoer van gevaarlijke stoffen is per transportsegment gemeten per kilometer en per jaar: 
 
-* 10 <sup>-4</sup> voor een ongeval met ten minste 10 dodelijke slachtoffers;  
+* 10<sup>-4</sup> voor een ongeval met ten minste 10 dodelijke slachtoffers;  
 
-* 10 <sup>-6</sup> voor een ongeval met ten minste 100 slachtoffers;  
+* 10<sup>-6</sup> voor een ongeval met ten minste 100 slachtoffers;  
 
-* 10 <sup>-8</sup> voor een ongeval met ten minste 1000 slachtoffers;  
+* 10<sup>-8</sup> voor een ongeval met ten minste 1000 slachtoffers;  
 
-* enz. (een lijn door deze punten bepaalt de oriëntatiewaarde).   Bij de toetsing moet worden bezien of de kans per kilometer route of tracé op een bepaald aantal slachtoffers groter is dan bovengenoemde oriëntatiewaarden. Deze oriëntatiewaarden gelden in alle situaties, dus voor zowel vervoersbesluiten als omgevingsbesluiten en in zowel bestaande als nieuwe situaties. Bij een overschrijding van de oriëntatiewaarde van het groepsrisico of een toename van het groepsrisico, moeten beslissingsbevoegde overheden het groepsrisico betrekken bij de vaststelling van het vervoersbesluit of omgevingsbesluit. Dit is in het bijzonder van belang in verband met aspecten van zelfredzaamheid en hulpverlening. Er moet altijd worden nagegaan of door het treffen van maatregelen niet alsnog aan de oriëntatiewaarde kan worden voldaan of dat de toename van het groepsrisico niet kan worden verminderd . Als dit niet mogelijk blijkt te zijn, dan dient in overleg met betrokken overheden te worden gestreefd naar een zo laag mogelijk risico uit hoofde van het ALARA-beginsel (As Low As Reasonably Achievable). <sup> 15  In bijlage 3 is een overzicht opgenomen van mogelijke maatregelen die kunnen worden getroffen om de risico's te verminderen.  </sup> Over elke overschrijding van de oriëntatiewaarde van het groepsrisico of toename van het groepsrisico moet verantwoording worden afgelegd. Het betrokken bestuursorgaan moet, al dan niet in verband met de totstandkoming van een besluit, expliciet aangeven hoe de diverse factoren zijn beoordeeld en eventuele in aanmerking komende maatregelen, zijn afgewogen. Daarbij moet steeds in overleg worden getreden met andere betrokken overheden over de te volgen aanpak. Het bestuur van de veiligheidsregio dient in de gelegenheid te worden gesteld om in verband met het groepsrisico advies uit te brengen over de mogelijkheden tot voorbereiding van bestrijding en beperking van de omvang van een ramp en over de zelfredzaamheid van personen in het invloedsgebied. In de motivering bij het betrokken besluit moeten de volgende gegevens worden opgenomen: 
+* enz. (een lijn door deze punten bepaalt de oriëntatiewaarde).   Bij de toetsing moet worden bezien of de kans per kilometer route of tracé op een bepaald aantal slachtoffers groter is dan bovengenoemde oriëntatiewaarden. Deze oriëntatiewaarden gelden in alle situaties, dus voor zowel vervoersbesluiten als omgevingsbesluiten en in zowel bestaande als nieuwe situaties. Bij een overschrijding van de oriëntatiewaarde van het groepsrisico of een toename van het groepsrisico, moeten beslissingsbevoegde overheden het groepsrisico betrekken bij de vaststelling van het vervoersbesluit of omgevingsbesluit. Dit is in het bijzonder van belang in verband met aspecten van zelfredzaamheid en hulpverlening. Er moet altijd worden nagegaan of door het treffen van maatregelen niet alsnog aan de oriëntatiewaarde kan worden voldaan of dat de toename van het groepsrisico niet kan worden verminderd<sup>15In bijlage 3 is een overzicht opgenomen van mogelijke maatregelen die kunnen worden getroffen om de risico's te verminderen.</sup>. Als dit niet mogelijk blijkt te zijn, dan dient in overleg met betrokken overheden te worden gestreefd naar een zo laag mogelijk risico uit hoofde van het ALARA-beginsel (As Low As Reasonably Achievable). Over elke overschrijding van de oriëntatiewaarde van het groepsrisico of toename van het groepsrisico moet verantwoording worden afgelegd. Het betrokken bestuursorgaan moet, al dan niet in verband met de totstandkoming van een besluit, expliciet aangeven hoe de diverse factoren zijn beoordeeld en eventuele in aanmerking komende maatregelen, zijn afgewogen. Daarbij moet steeds in overleg worden getreden met andere betrokken overheden over de te volgen aanpak. Het bestuur van de veiligheidsregio dient in de gelegenheid te worden gesteld om in verband met het groepsrisico advies uit te brengen over de mogelijkheden tot voorbereiding van bestrijding en beperking van de omvang van een ramp en over de zelfredzaamheid van personen in het invloedsgebied. In de motivering bij het betrokken besluit moeten de volgende gegevens worden opgenomen: 
 
 * het groepsrisico;  
 
 * indien van toepassing: het eerder vastgestelde groepsrisico;  
 
-* een aanduiding van het invloedsgebied ; <sup> 16  Het invloedsgebied is het gebied waarin personen nog worden meegeteld voor de berekening van het groepsrisico. Dit gebied wordt bepaald door de berekening van het grootst mogelijke ongeval waar nog bij 1% van de blootgestelde personen dodelijk letsel optreedt.  </sup>  
+* een aanduiding van het invloedsgebied<sup>16Het invloedsgebied is het gebied waarin personen nog worden meegeteld voor de berekening van het groepsrisico. Dit gebied wordt bepaald door de berekening van het grootst mogelijke ongeval waar nog bij 1% van de blootgestelde personen dodelijk letsel optreedt.</sup>;  
 
 * de aanwezige dichtheid van personen en de in de toekomst redelijkerwijs voorzienbare dichtheid per hectare in dit invloedsgebied;  
 
@@ -293,54 +293,54 @@ De oriëntatiewaarde voor het groepsrisico bij het vervoer van gevaarlijke stoff
 
 * de mogelijkheden tot beperking van het groepsrisico, zowel nu als in de toekomst (periode van tien jaar), met betrekking tot het vervoer en de ruimtelijke ontwikkelingen en de voor- en nadelen hiervan;  
 
-* de mogelijkheden van de voorbereiding op de bestrijding van en de beperking van de omvang van een ramp als bedoeld in artikel 1 van de Wet veiligheidsregio’s;  
+*de mogelijkheden van de voorbereiding op de bestrijding van en de beperking van de omvang van een ramp als bedoeld in [artikel 1 van de Wet veiligheidsregio’s](../../../../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md); 
 
-* de mogelijkheden voor personen die zich bevinden in het invloedsgebied van de route of het tracé om zich in veiligheid te brengen indien zich een ramp of zwaar ongeval voordoet.   Ten behoeve van de verantwoording hebben de toenmalige ministeries van BZK, VROM en VenW in samenwerking met de medeoverheden een ‘Handreiking verantwoordingsplicht groepsrisico opgesteld, waarin ook de elementen zelfredzaamheid en hulpverlening zijn opgenomen. Zie onder ‘Documenten en publicaties’ op www.rijksoverheid.nl.     
-### 5  
+* de mogelijkheden voor personen die zich bevinden in het invloedsgebied van de route of het tracé om zich in veiligheid te brengen indien zich een ramp of zwaar ongeval voordoet.   Ten behoeve van de verantwoording hebben de toenmalige ministeries van BZK, VROM en VenW in samenwerking met de medeoverheden een ‘Handreiking verantwoordingsplicht groepsrisico opgesteld, waarin ook de elementen zelfredzaamheid en hulpverlening zijn opgenomen. Zie onder ‘Documenten en publicaties’ op www.rijksoverheid.nl.  
+###5 
 
 ####Risicobenadering deel III: Risicoreductie bij overschrijding normen
 
-### 5.1  
+###5.1 
 
 ####Wanneer zijn maatregelen nodig
 
-Bij overschrijding van de grenswaarden voor het plaatsgebonden risico zijn in beginsel altijd risicoreducerende maatregelen nodig. Bij overschrijding van de richtwaarden voor het plaatsgebonden risico moet eveneens gestreefd worden naar risicoreductie. Hier is echter geen sprake van een resultaatsverplichting. Ook bij overschrijding van de oriëntatiewaarde van het groepsrisico of een toename van het groepsrisico moet worden nagegaan of risicoreducerende maatregelen genomen kunnen worden. In paragraaf 5.3 wordt beschreven wie welke maatregel moet nemen. Bij het nemen van maatregelen voor het verminderen van het groepsrisico moet worden uitgegaan van een integrale benadering van de problematiek van externe veiligheid. Dit houdt in dat rekening moet worden gehouden met de diverse factoren die bijdragen aan een geconstateerde overschrijding van de normen van het groepsrisico. Dit houdt in dat niet alleen moet worden gekeken naar het vervoer, het verkeer, de infrastructuur of de ruimtelijke ordening, maar ook naar de mogelijkheden voor hulpverlening en zelfredzaamheid. Vooral in verband met de zelfredzaamheid en de hulpverlening kan het van belang zijn de secundaire effecten (bijvoorbeeld gevaar van instorting) en de potentiële aard en omvang van de effecten (aantal gewonden en aard van de verwondingen) van een ongeval in beschouwing te nemen. Ook de beoordeling of en zo ja, welke groepsrisicoverminderende maatregelen moeten worden getroffen, moet integraal plaatsvinden. Daarbij moet niet alleen rekening worden gehouden met de kosten van die maatregelen, maar ook moeten de maatschappelijke baten van die maatregelen in beschouwing worden genomen. Dit houdt in dat niet alleen rekening moet worden gehouden met de bijdrage van de activiteit aan de Nederlandse economie, maar ook met de baten die verbonden zijn aan het treffen van maatregelen, denk bijvoorbeeld aan een vergroting van de mogelijkheden van het ruimtegebruik. Bij de maatschappelijke kosten gaat het om de kosten van het indirect ruimtegebruik en de maatregelen die op kosten van de overheid moeten worden gerealiseerd om dat ruimtegebruik te minimaliseren. Bij de afweging kan gebruik worden gemaakt van de ‘Handreiking verantwoordingsplicht groepsrisico'. Als het niet mogelijk blijkt te zijn risicoreducerende maatregelen te treffen, dan dient te worden gestreefd naar een zo laag mogelijk risico uit hoofde van het ALARA-beginsel (As Low As Reasonably Achievable). Zoals in de vorige paragraaf is toegelicht moet over elke overschrijding van de oriëntatiewaarde van het groepsrisico of toename van het groepsrisico verantwoording worden afgelegd.    
-### 5.2  
+Bij overschrijding van de grenswaarden voor het plaatsgebonden risico zijn in beginsel altijd risicoreducerende maatregelen nodig. Bij overschrijding van de richtwaarden voor het plaatsgebonden risico moet eveneens gestreefd worden naar risicoreductie. Hier is echter geen sprake van een resultaatsverplichting. Ook bij overschrijding van de oriëntatiewaarde van het groepsrisico of een toename van het groepsrisico moet worden nagegaan of risicoreducerende maatregelen genomen kunnen worden. In paragraaf 5.3 wordt beschreven wie welke maatregel moet nemen. Bij het nemen van maatregelen voor het verminderen van het groepsrisico moet worden uitgegaan van een integrale benadering van de problematiek van externe veiligheid. Dit houdt in dat rekening moet worden gehouden met de diverse factoren die bijdragen aan een geconstateerde overschrijding van de normen van het groepsrisico. Dit houdt in dat niet alleen moet worden gekeken naar het vervoer, het verkeer, de infrastructuur of de ruimtelijke ordening, maar ook naar de mogelijkheden voor hulpverlening en zelfredzaamheid. Vooral in verband met de zelfredzaamheid en de hulpverlening kan het van belang zijn de secundaire effecten (bijvoorbeeld gevaar van instorting) en de potentiële aard en omvang van de effecten (aantal gewonden en aard van de verwondingen) van een ongeval in beschouwing te nemen. Ook de beoordeling of en zo ja, welke groepsrisicoverminderende maatregelen moeten worden getroffen, moet integraal plaatsvinden. Daarbij moet niet alleen rekening worden gehouden met de kosten van die maatregelen, maar ook moeten de maatschappelijke baten van die maatregelen in beschouwing worden genomen. Dit houdt in dat niet alleen rekening moet worden gehouden met de bijdrage van de activiteit aan de Nederlandse economie, maar ook met de baten die verbonden zijn aan het treffen van maatregelen, denk bijvoorbeeld aan een vergroting van de mogelijkheden van het ruimtegebruik. Bij de maatschappelijke kosten gaat het om de kosten van het indirect ruimtegebruik en de maatregelen die op kosten van de overheid moeten worden gerealiseerd om dat ruimtegebruik te minimaliseren. Bij de afweging kan gebruik worden gemaakt van de ‘Handreiking verantwoordingsplicht groepsrisico'. Als het niet mogelijk blijkt te zijn risicoreducerende maatregelen te treffen, dan dient te worden gestreefd naar een zo laag mogelijk risico uit hoofde van het ALARA-beginsel (As Low As Reasonably Achievable). Zoals in de vorige paragraaf is toegelicht moet over elke overschrijding van de oriëntatiewaarde van het groepsrisico of toename van het groepsrisico verantwoording worden afgelegd.  
+###5.2 
 
 ####Welke maatregelen kunnen worden getroffen
 
-Risicoreducerende maatregelen zijn onder te verdelen in bron- en effectgerichte maatregelen of een combinatie daarvan . Bij vervoersbesluiten moeten in beginsel maatregelen aan de bron worden getroffen. Daarbij kan het ook gaan om maatregelen die door aanpassingen in de omgeving de consequenties van een mogelijk ongeval beperken, zogenaamde maatregelen in de sfeer van de overdracht. <sup> 17  In bijlage 3 is een overzicht opgenomen van mogelijke maatregelen die kunnen worden getroffen om de risico's te verminderen.  </sup>   
-### 5.2.1  
+Risicoreducerende maatregelen zijn onder te verdelen in bron- en effectgerichte maatregelen of een combinatie daarvan<sup>17In bijlage 3 is een overzicht opgenomen van mogelijke maatregelen die kunnen worden getroffen om de risico's te verminderen.</sup>. Bij vervoersbesluiten moeten in beginsel maatregelen aan de bron worden getroffen. Daarbij kan het ook gaan om maatregelen die door aanpassingen in de omgeving de consequenties van een mogelijk ongeval beperken, zogenaamde maatregelen in de sfeer van de overdracht. 
+###5.2.1 
 
 ####Brongerichte maatregelen
 
-Brongerichte maatregelen zijn maatregelen ten aanzien van het vervoer los van de (inter)nationale specifieke regels die gelden voor het vervoer van gevaarlijke stoffen. Hierbij kan worden gedacht aan: 
+Brongerichte maatregelen zijn maatregelen ten aanzien van het vervoer los van de (inter)nationale specifieke regels die gelden voor het vervoer van gevaarlijke stoffen. Hierbij kan worden gedacht aan:
 
-* een besluit tot vaststelling van een route voor gevaarlijke stoffen op grond van hoofdstuk III van de WVGS;  
+*een besluit tot vaststelling van een route voor gevaarlijke stoffen op grond van [hoofdstuk III van de WVGS](../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md);
 
-* verkeersmaatregelen zoals snelheidsbeperking, verkeersbegeleiding, railgeleiding, scheiding van verkeersstromen, beveiliging van kruisingen en verbetering van infrastructuur;  
+*verkeersmaatregelen zoals snelheidsbeperking, verkeersbegeleiding, railgeleiding, scheiding van verkeersstromen, beveiliging van kruisingen en verbetering van infrastructuur;
 
-* maatregelen in de sfeer van het vestigingsbeleid, veiligheidsmanagement en transportbesparing.     
+*maatregelen in de sfeer van het vestigingsbeleid, veiligheidsmanagement en transportbesparing.
 
 ####Beperkingen aan het treffen van brongerichte maatregelen
 
-De regelgeving voor het vervoer van gevaarlijke stoffen heeft een overwegend internationale grondslag. Dit kan de mogelijkheden tot het treffen van aanvullende maatregelen op nationaal niveau beperken. Dit geldt in het bijzonder voor de mogelijkheden tot het stellen van beperkingen of aanvullende eisen aan het vervoer van gevaarlijke stoffen. Ook bij het routeren van het vervoer van gevaarlijke stoffen dient het internationale aspect in de gaten te worden gehouden. Verkeersmaatregelen en maatregelen in verband met het vervoer van gevaarlijke stoffen voor het scheepvaartverkeer op de Rijn, de Lek en de Waal, worden genomen door de Centrale Commissie voor de Rijnvaart te Straatsburg. Dit volgt uit de Akte van Mannheim die rechtstreeks doorwerkt in de Nederlandse rechtsorde. Ook op nationaal niveau kunnen beperkingen van juridische aard aan de orde zijn, bijvoorbeeld op grond van de Wegenverkeerswet. Aan een verkeersmaatregel zal in bepaalde gevallen naast een externe veiligheidsbelang, ook een verkeersveiligheidsbelang ten grondslag moeten liggen.     
-### 5.2.2  
+De regelgeving voor het vervoer van gevaarlijke stoffen heeft een overwegend internationale grondslag. Dit kan de mogelijkheden tot het treffen van aanvullende maatregelen op nationaal niveau beperken. Dit geldt in het bijzonder voor de mogelijkheden tot het stellen van beperkingen of aanvullende eisen aan het vervoer van gevaarlijke stoffen. Ook bij het routeren van het vervoer van gevaarlijke stoffen dient het internationale aspect in de gaten te worden gehouden. Verkeersmaatregelen en maatregelen in verband met het vervoer van gevaarlijke stoffen voor het scheepvaartverkeer op de Rijn, de Lek en de Waal, worden genomen door de Centrale Commissie voor de Rijnvaart te Straatsburg. Dit volgt uit de Akte van Mannheim die rechtstreeks doorwerkt in de Nederlandse rechtsorde.Ook op nationaal niveau kunnen beperkingen van juridische aard aan de orde zijn, bijvoorbeeld op grond van de Wegenverkeerswet. Aan een verkeersmaatregel zal in bepaalde gevallen naast een externe veiligheidsbelang, ook een verkeersveiligheidsbelang ten grondslag moeten liggen. 
+###5.2.2 
 
 ####Maatregelen in de sfeer van de overdracht
 
-Soms zijn ook maatregelen in de sfeer van de overdracht mogelijk zoals bepaalde overkapping- of tunnelconstructies. Deze kunnen de gevolgen van een eventueel ongeval in de omgeving beperken. Bij dit type maatregelen moeten echter wel de gevolgen voor de veiligheid van verkeersdeelnemers (interne veiligheid) betrokken worden. Daarmee wordt aangesloten bij het advies van Raad van Verkeer en Waterstaat en de VROM-Raad 'Verantwoorde risico's, veilige ruimte' . <sup> 18  Advies 037, juni 2003.  </sup>    
-### 5.2.3  
+Soms zijn ook maatregelen in de sfeer van de overdracht mogelijk zoals bepaalde overkapping- of tunnelconstructies. Deze kunnen de gevolgen van een eventueel ongeval in de omgeving beperken. Bij dit type maatregelen moeten echter wel de gevolgen voor de veiligheid van verkeersdeelnemers (interne veiligheid) betrokken worden. Daarmee wordt aangesloten bij het advies van Raad van Verkeer en Waterstaat en de VROM-Raad 'Verantwoorde risico's, veilige ruimte'<sup>18Advies 037, juni 2003.</sup>. 
+###5.2.3 
 
 ####Effectgerichte maatregelen
 
-Bij effectgerichte maatregelen gaat het onder andere om beperkingen aan ruimtelijke ontwikkelingen in de nabijheid van een bestaande transportroute voor gevaarlijke stoffen. Het kan gaan om een plaatsgebonden, maar ook om generieke beperking. Van een generieke beperking is sprake indien de beperkingen gelden langs de gehele transportroute of een belangrijk deel daarvan. Er hoeven in principe geen beperkingen aan het ruimtegebruik te worden gesteld in het gebied dat op meer dan 200 meter van een route of tracé ligt. Dit laat onverlet dat bestuursorganen in verband met de mogelijke effecten van een ongeval met gevaarlijke stoffen, die soms verder reiken dan de genoemde 200 meter, wel andere maatregelen kunnen overwegen. Indien nodig moeten bij de overschrijding van de oriëntatiewaarde voor het groepsrisico (mede) als gevolg van de kwetsbaarheid van de omgeving buiten dit gebied, wel andere beperkingen worden getroffen. Daarbij kan het bijvoorbeeld gaan om maatregelen in de sfeer van de zelfredzaamheid van de bevolking, zoals het belang van goede vluchtwegen, slimme bouwvoorschriften en specifieke voorlichting. Dergelijke maatregelen kunnen overigens ook aan de orde zijn als er geen sprake is van een overschrijding van de grenswaarde voor het plaatsgebonden risico en de oriëntatiewaarde voor het groepsrisico.     
-### 5.3  
+Bij effectgerichte maatregelen gaat het onder andere om beperkingen aan ruimtelijke ontwikkelingen in de nabijheid van een bestaande transportroute voor gevaarlijke stoffen. Het kan gaan om een plaatsgebonden, maar ook om generieke beperking. Van een generieke beperking is sprake indien de beperkingen gelden langs de gehele transportroute of een belangrijk deel daarvan. Er hoeven in principe geen beperkingen aan het ruimtegebruik te worden gesteld in het gebied dat op meer dan 200 meter van een route of tracé ligt. Dit laat onverlet dat bestuursorganen in verband met de mogelijke effecten van een ongeval met gevaarlijke stoffen, die soms verder reiken dan de genoemde 200 meter, wel andere maatregelen kunnen overwegen. Indien nodig moeten bij de overschrijding van de oriëntatiewaarde voor het groepsrisico (mede) als gevolg van de kwetsbaarheid van de omgeving buiten dit gebied, wel andere beperkingen worden getroffen. Daarbij kan het bijvoorbeeld gaan om maatregelen in de sfeer van de zelfredzaamheid van de bevolking, zoals het belang van goede vluchtwegen, slimme bouwvoorschriften en specifieke voorlichting. Dergelijke maatregelen kunnen overigens ook aan de orde zijn als er geen sprake is van een overschrijding van de grenswaarde voor het plaatsgebonden risico en de oriëntatiewaarde voor het groepsrisico.  
+###5.3 
 
 ####Wie neemt welke maatregel
 
-Als uitvloeisel van het beginsel 'de veroorzaker betaalt', moeten maatregelen worden getroffen door degene die de risico's veroorzaakt dan wel doet vergroten. Dit geldt zowel in nieuwe als bestaande situaties. Indien de toename van risico's worden veroorzaakt door ontwikkelingen verband houdend met het vervoer, dan rust de plicht tot vermindering van de risico's aan de vervoerskant. Is de overschrijding van de norm voor het plaatsgebonden risico veroorzaakt door ontwikkelingen van planologische aard, dan moet de oplossing voor het verminderen van het risico vooral worden gevonden door het bestuursorgaan dat de meeste verantwoordelijkheid voor de bouwontwikkelingen draagt.     
-### 6  
+Als uitvloeisel van het beginsel 'de veroorzaker betaalt', moeten maatregelen worden getroffen door degene die de risico's veroorzaakt dan wel doet vergroten. Dit geldt zowel in nieuwe als bestaande situaties. Indien de toename van risico's worden veroorzaakt door ontwikkelingen verband houdend met het vervoer, dan rust de plicht tot vermindering van de risico's aan de vervoerskant. Is de overschrijding van de norm voor het plaatsgebonden risico veroorzaakt door ontwikkelingen van planologische aard, dan moet de oplossing voor het verminderen van het risico vooral worden gevonden door het bestuursorgaan dat de meeste verantwoordelijkheid voor de bouwontwikkelingen draagt.  
+###6 
 
 ####Toepassing risicobenadering
 
@@ -348,85 +348,85 @@ Als uitvloeisel van het beginsel 'de veroorzaker betaalt', moeten maatregelen wo
 
 ####Toepassing risicobenadering bij besluitvorming
 
-Toepassing van de risicobenadering vindt plaats bij zowel vervoersbesluiten als omgevingsbesluiten.   
-### 6.1.1  
+Toepassing van de risicobenadering vindt plaats bij zowel vervoersbesluiten als omgevingsbesluiten.  
+###6.1.1 
 
 ####Vervoersbesluiten
 
 De toepassing van de risicobenadering dient plaats te vinden bij besluiten op grond van: 
 
-a. hoofdstuk 7 van de Wet milieubeheer en het Besluit milieueffectrapportage in verband met de aanleg van bepaalde infrastructuur of buisleidingen;  
+a. [hoofdstuk 7 van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en het [Besluit milieueffectrapportage](../../../../../../../AMvB/besluit/milieueffectrapportage/BWBR0006788/README.md) in verband met de aanleg van bepaalde infrastructuur of buisleidingen;  
 
-b. een besluit op grond van de Tracéwet;  
+b. een besluit op grond van de [Tracéwet](../../../../../../../wet/tracéwet/BWBR0006147/README.md);  
 
-c. de vaststelling van een tracé anders dan op grond van de Tracéwet, zoals op grond van verordeningen vanwege een provincie, gemeente of waterschap;  
+c. de vaststelling van een tracé anders dan op grond van de [Tracéwet](../../../../../../../wet/tracéwet/BWBR0006147/README.md), zoals op grond van verordeningen vanwege een provincie, gemeente of waterschap;  
 
-d. de vaststelling van een wegaanpassingsbesluit op grond van de Spoedwet wegverbreding;  
+d. de vaststelling van een wegaanpassingsbesluit op grond van de [Spoedwet wegverbreding](../../../../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md);  
 
-e. de vaststelling van een besluit tot verandering of aanpassing van een weg anders dan op grond van de Tracéwet, bijvoorbeeld op grond van een verordening vanwege een provincie, gemeente of waterschap;  
+e. de vaststelling van een besluit tot verandering of aanpassing van een weg anders dan op grond van de [Tracéwet](../../../../../../../wet/tracéwet/BWBR0006147/README.md), bijvoorbeeld op grond van een verordening vanwege een provincie, gemeente of waterschap;  
 
-f. de wet beheer rijkswaterstaatswerken en artikel 6.5, onderdeel c, van de Waterwet in verband met het daarover brengen van kwetsbare objecten of beperkt kwetsbare objecten;  
+f. de [wet beheer rijkswaterstaatswerken](../../../../../../../wet/wet/beheer/rijkswaterstaatswerken/BWBR0008331/README.md) en [artikel 6.5, onderdeel c, van de Waterwet](../../../../../../../wet/waterwet/BWBR0025458/README.md) in verband met het daarover brengen van kwetsbare objecten of beperkt kwetsbare objecten;  
 
-g. de Wet vervoer gevaarlijke stoffen in het kader van de vaststelling van een bepaalde routeringsregeling voor het vervoer van gevaarlijke stoffen;  
+g. de [Wet vervoer gevaarlijke stoffen](../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) in het kader van de vaststelling van een bepaalde routeringsregeling voor het vervoer van gevaarlijke stoffen;  
 
-h. artikel 95 van het Mijnbouwbesluit in verband met een, al dan niet in overeenstemming met de minister van Defensie of de minister van IenM door de minister van EL&I te verlenen vergunning voor het aanleggen van een pijpleiding dan wel artikel10. 1 of 10.2 van de Mijnbouwregeling juncto 6.3 van NEN 3650 in verband met de te stellen eisen aan de eigenschappen, aanleg, ligging en het onderhoud van een pijpleiding;  
+h. [artikel 95 van het Mijnbouwbesluit](../../../../../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) in verband met een, al dan niet in overeenstemming met de minister van Defensie of de minister van IenM door de minister van EL&I te verlenen vergunning voor het aanleggen van een pijpleiding dan wel [artikel10. 1](../../../../../../../ministeriele-regeling/mijnbouwregeling/BWBR0014468/README.md) of [10.2 van de Mijnbouwregeling](../../../../../../../ministeriele-regeling/mijnbouwregeling/BWBR0014468/README.md) juncto 6.3 van NEN 3650 in verband met de te stellen eisen aan de eigenschappen, aanleg, ligging en het onderhoud van een pijpleiding;  
 
-i. een op voordracht van de Minister van IenM door de Kroon te verlenen concessie op grond van artikel 1 van de Belemmeringenwet Privaatrecht of Belemmeringenwet Verordeningen ter zake van de vaststelling van een tracé voor de aanleg of in gebruik name van een buisleiding dan wel een te verlenen beschikking op grond van een provinciale of andersoortige verordening voor de aanleg of in gebruik name of het gebruik van een buisleiding;  
+i. een op voordracht van de Minister van IenM door de Kroon te verlenen concessie op grond van [artikel 1 van de Belemmeringenwet Privaatrecht](../../../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) of [Belemmeringenwet Verordeningen](../../../../../../../wet/belemmeringenwet/verordeningen/BWBR0001865/README.md) ter zake van de vaststelling van een tracé voor de aanleg of in gebruik name van een buisleiding dan wel een te verlenen beschikking op grond van een provinciale of andersoortige verordening voor de aanleg of in gebruik name of het gebruik van een buisleiding;  
 
-j. de verlening van een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht, in verband met de beperking van de nadelige gevolgen voor het milieu van het vervoer van gevaarlijke stoffen van en naar de inrichting (in de onmiddellijke omgeving van de inrichting).   Deze opsomming heeft betrekking op de uitoefening van bevoegdheden in verband met te treffen maatregelen aan de 'bron'. Dat deze opsomming zo uitgebreid is hangt samen met de eigen structuur van de regelgeving voor verkeer en vervoer. Deze is gericht op afzonderlijke onderwerpen (aanleg en gebruik van infrastructuur, verkeer en vervoer) en op afzonderlijke modaliteiten. Overigens is deze opsomming niet limitatief. Ook bij andere vormen van besluitvorming, zoals de verkeersregelgeving, kan (een deel van) de risicobenadering worden toegepast. Daarnaast kunnen met de toepassing van de risicobenadering verkregen gegevens ook worden gebruikt in het kader van de informatieplicht van gemeenten naar burgers. Deze informatieplicht is neergelegd in het Besluit informatie inzake rampen en crises op grond van de Wet rampen en zware ongevallen.    
-### 6.1.2  
+j. de verlening van een omgevingsvergunning voor een activiteit als bedoeld in [artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), in verband met de beperking van de nadelige gevolgen voor het milieu van het vervoer van gevaarlijke stoffen van en naar de inrichting (in de onmiddellijke omgeving van de inrichting).   Deze opsomming heeft betrekking op de uitoefening van bevoegdheden in verband met te treffen maatregelen aan de 'bron'. Dat deze opsomming zo uitgebreid is hangt samen met de eigen structuur van de regelgeving voor verkeer en vervoer. Deze is gericht op afzonderlijke onderwerpen (aanleg en gebruik van infrastructuur, verkeer en vervoer) en op afzonderlijke modaliteiten. Overigens is deze opsomming niet limitatief. Ook bij andere vormen van besluitvorming, zoals de verkeersregelgeving, kan (een deel van) de risicobenadering worden toegepast. Daarnaast kunnen met de toepassing van de risicobenadering verkregen gegevens ook worden gebruikt in het kader van de informatieplicht van gemeenten naar burgers. Deze informatieplicht is neergelegd in het [Besluit informatie inzake rampen en crises](../../../../../../../AMvB/besluit/informatie/inzake/rampen/BWBR0006755/README.md) op grond van de [Wet rampen en zware ongevallen](../../../../../../../wet/rampenwet/BWBR0003765/README.md).   
+###6.1.2 
 
 ####Omgevingsbesluiten
 
 Toepassing van de risicobenadering moet plaatsvinden bij de volgende besluiten: 
 
-a. de vaststelling van een bestemmingsplan, bedoeld in artikel 3.1, eerste en tweede lid, van de Wet ruimtelijke ordening;  
+a. de vaststelling van een bestemmingsplan, bedoeld in [artikel 3.1, eerste en tweede lid, van de Wet ruimtelijke ordening](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
 
-b. het verlenen van een omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 3o, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan of de beheersverordening wordt afgeweken;  
+b.  het verlenen van een omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 3o, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan of de beheersverordening wordt afgeweken;  
 
-c. de vaststelling van een inpassingsplan, bedoeld in de artikelen 3.26, eerste lid, en 3.28, eerste lid, van de Wet ruimtelijke ordening;  
+c. de vaststelling van een inpassingsplan, bedoeld in de [artikelen 3.26, eerste lid](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), en [3.28, eerste lid, van de Wet ruimtelijke ordening](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
 
-d. de wijziging of uitwerking van een bestemmingsplan of het stellen van nadere eisen, bedoeld in artikel 3.6, eerste lid, van de Wet ruimtelijke ordening;  
+d. de wijziging of uitwerking van een bestemmingsplan of het stellen van nadere eisen, bedoeld in [artikel 3.6, eerste lid, van de Wet ruimtelijke ordening](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
 
-e. het verlenen van een omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 1o of 2o, of tweede lid, van de Wet algemene bepalingen omgevingsrecht van het bestemmingsplan of de beheersverordening wordt afgeweken dan wel krachtens artikel 11 van de Woningwet van de bouwverordening wordt afgeweken;  
+e. het verlenen van een omgevingsvergunning waarbij met toepassing van [artikel 2.12, eerste lid, onder a, onder 1o of 2o, of tweede lid, van de Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van het bestemmingsplan of de beheersverordening wordt afgeweken dan wel krachtens [artikel 11 van de Woningwet](../../../../../../../wet/woningwet/BWBR0005181/README.md) van de bouwverordening wordt afgeweken;  
 
-f. de vaststelling van een beheersverordening, bedoeld in artikel 3.38, eerste lid, van de Wet ruimtelijke ordening;  
+f. de vaststelling van een beheersverordening, bedoeld in [artikel 3.38, eerste lid, van de Wet ruimtelijke ordening](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
 
-g. het geven van een aanwijzing, bedoeld in de artikelen 4.2, eerste lid, en 4.4, eerste lid, onderdeel a, van de Wet ruimtelijke ordening.   Ook deze opsomming is niet limitatief.    
+g. het geven van een aanwijzing, bedoeld in de [artikelen 4.2, eerste lid](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), en [4.4, eerste lid, onderdeel a, van de Wet ruimtelijke ordening](../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md).   Ook deze opsomming is niet limitatief.  
 ### 6.1.3  
 
 ####Nieuwe ruimtelijke ontwikkelingen rondom Basisnet Weg en Basisnet Water
 
-Vervallen per 31-07-2012   
+Vervallen per 31-07-2012 
 
-### 6.2  
+###6.2 
 
 ####Andere mogelijke toepassing van de risicobenadering
 
-De risicobenadering wordt idealiter ook toegepast zonder dat daaraan een bepaald besluit ten grondslag ligt, bijvoorbeeld bij bestaande infrastructuur. Het initiatief hiervoor rust bij de beheerder van de infrastructuur. In ieder geval zal de minister van IenM zorgdragen voor een periodieke inventarisatie van de risico's rond de door het Rijk beheerde infrastructuur. Dit sluit aan bij de werkzaamheden in het kader van de zogenaamde risicoatlassen. Door elke vijf jaar de risico's in bestaande situaties te inventariseren, kunnen tijdig eventuele externe veiligheidsproblemen worden gesignaleerd. Het kan soms verstandig zijn om de risico's eerder opnieuw te inventariseren, bijvoorbeeld als het vermoeden bestaat dat deze substantieel zijn toegenomen. Zo kunnen vervoerstromen aanzienlijk zijn toegenomen of kan nieuwbouw nabij infrastructuur of buisleidingen plaatsvinden in gebieden waarvoor een bestemmingsplan ontbreekt of is verouderd.    
-### 6.3  
+De risicobenadering wordt idealiter ook toegepast zonder dat daaraan een bepaald besluit ten grondslag ligt, bijvoorbeeld bij bestaande infrastructuur. Het initiatief hiervoor rust bij de beheerder van de infrastructuur. In ieder geval zal de minister van IenM zorgdragen voor een periodieke inventarisatie van de risico's rond de door het Rijk beheerde infrastructuur. Dit sluit aan bij de werkzaamheden in het kader van de zogenaamde risicoatlassen. Door elke vijf jaar de risico's in bestaande situaties te inventariseren, kunnen tijdig eventuele externe veiligheidsproblemen worden gesignaleerd. Het kan soms verstandig zijn om de risico's eerder opnieuw te inventariseren, bijvoorbeeld als het vermoeden bestaat dat deze substantieel zijn toegenomen. Zo kunnen vervoerstromen aanzienlijk zijn toegenomen of kan nieuwbouw nabij infrastructuur of buisleidingen plaatsvinden in gebieden waarvoor een bestemmingsplan ontbreekt of is verouderd.  
+###6.3 
 
 ####Bestuurlijke afstemming en inspraak
 
-Bij de toepassing van de risicobenadering moet worden gezorgd voor adequate bestuurlijke afstemming en waar nodig voor inspraak. Problemen en denkbare oplossingen kunnen betrekking hebben op een groot gebied en op meerdere routes en tracés. Bovendien kunnen door een bestuursorgaan voorgenomen oplossingen van grote invloed zijn op de mogelijkheden en risico's in andere gebieden en kan bestuurlijke afstemming onnodige bestuurlijke lasten voorkomen. Het uiteindelijke doel is te komen tot een optimalisering van de veiligheid. In deze zin zou de circulaire dan ook moeten worden toegepast. Een goede afstemming is van belang, in alle fases van de risicobenadering, dus zowel bij de voorbereiding als bij de toepassing daarvan. Verder is een integrale aanpak van de problemen geboden. Gezien het voorgaande kan het soms handig zijn één bestuursorgaan, in overleg met alle andere betrokken bestuursorganen, een coördinerende rol te geven bij de benodigde bestuurlijke afstemming. Dit kan bijvoorbeeld het Rijk, de provincie of de beheerder van infrastructuur zijn. Dit is afhankelijk van de aard en omvang van de problemen en de mogelijke oplossingen. De coördinerende rol is vooral van regisserende, organisatorische en procesmatige aard. In hoofdlijnen gaat het om het tot stand brengen en vormgeven van de juiste overlegkaders, het begeleiden en stimuleren van de invulling, uitvoering en het tot een goed einde brengen van de verschillende besluitvormingsprocessen. Ook kan het aangewezen coördinerende bestuursorgaan erop toezien dat de gemaakte afspraken tussen betrokkenen ook daadwerkelijk worden nagekomen. Ook betrokkenheid van burgers en bedrijven kan geboden zijn. Bij de toepassing van de risicobenadering kunnen namelijk hun belangen in het geding zijn. In verband met bestuurlijke afstemming en inspraak wordt gewezen op procedure van afdeling 3.4 van de Algemene wet bestuursrecht. Deze procedure biedt de mogelijkheid de risicobenadering met betrokkenheid van burgers en bedrijven ook toe te passen bij de voorbereiding van besluiten. Vooral de toepassing van de risicobenadering voor bestaande infrastructuur leent zich bij uitstek voor inspraak van burgers en bedrijven. Het is dan ook raadzaam om de openbare voorbereidingsprocedure van afdeling 3.4 op dergelijke besluiten van toepassing te verklaren.       
+Bij de toepassing van de risicobenadering moet worden gezorgd voor adequate bestuurlijke afstemming en waar nodig voor inspraak. Problemen en denkbare oplossingen kunnen betrekking hebben op een groot gebied en op meerdere routes en tracés. Bovendien kunnen door een bestuursorgaan voorgenomen oplossingen van grote invloed zijn op de mogelijkheden en risico's in andere gebieden en kan bestuurlijke afstemming onnodige bestuurlijke lasten voorkomen.Het uiteindelijke doel is te komen tot een optimalisering van de veiligheid. In deze zin zou de circulaire dan ook moeten worden toegepast. Een goede afstemming is van belang, in alle fases van de risicobenadering, dus zowel bij de voorbereiding als bij de toepassing daarvan. Verder is een integrale aanpak van de problemen geboden.Gezien het voorgaande kan het soms handig zijn één bestuursorgaan, in overleg met alle andere betrokken bestuursorganen, een coördinerende rol te geven bij de benodigde bestuurlijke afstemming. Dit kan bijvoorbeeld het Rijk, de provincie of de beheerder van infrastructuur zijn. Dit is afhankelijk van de aard en omvang van de problemen en de mogelijke oplossingen.De coördinerende rol is vooral van regisserende, organisatorische en procesmatige aard. In hoofdlijnen gaat het om het tot stand brengen en vormgeven van de juiste overlegkaders, het begeleiden en stimuleren van de invulling, uitvoering en het tot een goed einde brengen van de verschillende besluitvormingsprocessen. Ook kan het aangewezen coördinerende bestuursorgaan erop toezien dat de gemaakte afspraken tussen betrokkenen ook daadwerkelijk worden nagekomen.Ook betrokkenheid van burgers en bedrijven kan geboden zijn. Bij de toepassing van de risicobenadering kunnen namelijk hun belangen in het geding zijn.In verband met bestuurlijke afstemming en inspraak wordt gewezen op procedure van [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). Deze procedure biedt de mogelijkheid de risicobenadering met betrokkenheid van burgers en bedrijven ook toe te passen bij de voorbereiding van besluiten. Vooral de toepassing van de risicobenadering voor bestaande infrastructuur leent zich bij uitstek voor inspraak van burgers en bedrijven. Het is dan ook raadzaam om de openbare voorbereidingsprocedure van [afdeling 3.4](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) op dergelijke besluiten van toepassing te verklaren.  
 
 De 
-Minister van Verkeer en Waterstaat, 
-K.M.H.Peijs  
+Minister van Verkeer en Waterstaat,
+K.M.H.Peijs
 
 De 
-Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-J.W.Remkes 
+Minister van Binnenlandse Zaken en Koninkrijksrelaties,
+J.W.Remkes
 
 De 
-Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-P.L.B.A. vanGeel  
+Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
+P.L.B.A. vanGeel 
 
-### Bijlage  1  
+###Bijlage 1 
 
 ####: Lijst met kwetsbare en beperkt kwetsbare objecten
 
-De begrippen 'kwetsbaar object' en 'beperkt kwetsbaar object' spelen een rol bij de toetsing van het plaatsgebonden risico aan de normen. De vraag is wat onder deze begrippen moet worden verstaan en evenzo wat niet als een kwetsbaar object wordt beschouwd. Het onderscheid tussen kwetsbare en beperkt kwetsbare objecten wordt gemaakt om pragmatische redenen. Het is niet mogelijk en gaat voorbij aan andere belangen zoals vervoer en ruimtelijke ordening, om helemaal geen bestemmingen toe te laten in de risicozone. Door het genoemde onderscheid wordt de kwetsbaarheid in de directe omgeving van risico opleverende activiteiten echter waar mogelijk beperkt. Het onderscheid tussen kwetsbare en beperkt kwetsbare objecten is gebaseerd op de gedachte dat sommige maatschappelijke groepen meer bescherming nodig hebben dan andere. Op de eerste plaats gaat het daarbij om woningen omdat veel personen worden geacht daar langdurig te verblijven. Op de tweede plaats verdienen bepaalde groepen uit hoofde van hun ontwikkeling of fysieke/mentale gesteldheid bijzondere bescherming zoals kinderen, ouderen en zieken. Ook de mate van en de kans op langdurige aanwezigheid van bepaalde groepen personen in een object, de functionele binding van objecten ten opzichte van de risico opleverende activiteit en de aanwezigheid van adequate vluchtmogelijkheden zijn bepalend voor het onderscheid tussen kwetsbare en beperkt kwetsbare objecten. Tot nu toe circuleerden in beleidsnota's over externe veiligheid verschillende lijsten met (beperkt) kwetsbare objecten. Met bijgaande lijst wordt zoveel mogelijk aangesloten bij de lijst die is opgenomen in het BEVI. 
+De begrippen 'kwetsbaar object' en 'beperkt kwetsbaar object' spelen een rol bij de toetsing van het plaatsgebonden risico aan de normen. De vraag is wat onder deze begrippen moet worden verstaan en evenzo wat niet als een kwetsbaar object wordt beschouwd. Het onderscheid tussen kwetsbare en beperkt kwetsbare objecten wordt gemaakt om pragmatische redenen. Het is niet mogelijk en gaat voorbij aan andere belangen zoals vervoer en ruimtelijke ordening, om helemaal geen bestemmingen toe te laten in de risicozone. Door het genoemde onderscheid wordt de kwetsbaarheid in de directe omgeving van risico opleverende activiteiten echter waar mogelijk beperkt. Het onderscheid tussen kwetsbare en beperkt kwetsbare objecten is gebaseerd op de gedachte dat sommige maatschappelijke groepen meer bescherming nodig hebben dan andere. Op de eerste plaats gaat het daarbij om woningen omdat veel personen worden geacht daar langdurig te verblijven. Op de tweede plaats verdienen bepaalde groepen uit hoofde van hun ontwikkeling of fysieke/mentale gesteldheid bijzondere bescherming zoals kinderen, ouderen en zieken. Ook de mate van en de kans op langdurige aanwezigheid van bepaalde groepen personen in een object, de functionele binding van objecten ten opzichte van de risico opleverende activiteit en de aanwezigheid van adequate vluchtmogelijkheden zijn bepalend voor het onderscheid tussen kwetsbare en beperkt kwetsbare objecten. Tot nu toe circuleerden in beleidsnota's over externe veiligheid verschillende lijsten met (beperkt) kwetsbare objecten. Met bijgaande lijst wordt zoveel mogelijk aangesloten bij de lijst die is opgenomen in het [BEVI](../../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md).  
 
 ### I  
 
@@ -444,15 +444,15 @@ b. gebouwen bestemd voor het verblijf, al dan niet gedurende een gedeelte van de
 
 c. gebouwen waarin grote aantallen personen gedurende een groot gedeelte van de dag aanwezig zijn, zoals: 
 
-1°. kantoorgebouwen en hotels met een bruto vloeroppervlak van meer dan 1500 m <sup>2</sup> per object;  
+1°. kantoorgebouwen en hotels met een bruto vloeroppervlak van meer dan 1500 m<sup>2</sup> per object;  
 
-2°. complexen, waarin meer dan 5 winkels zijn gevestigd en waarvan het gezamenlijk bruto vloeroppervlak meer dan 1000 m <sup>2</sup> bedraagt, en winkels met een totaal bruto vloeroppervlak van meer dan 2000 m <sup>2</sup> per object, voor zover in die complexen of in die winkels een supermarkt, hypermarkt of warenhuis is gevestigd;    
+2°. complexen, waarin meer dan 5 winkels zijn gevestigd en waarvan het gezamenlijk bruto vloeroppervlak meer dan 1000 m<sup>2</sup> bedraagt, en winkels met een totaal bruto vloeroppervlak van meer dan 2000 m<sup>2</sup> per object, voor zover in die complexen of in die winkels een supermarkt, hypermarkt of warenhuis is gevestigd;    
 
 d. kampeer- en andere recreatieterreinen bestemd voor het verblijf van meer dan 50 personen gedurende meerdere aaneengesloten dagen;    
 
-### II  
+### II 
 
-####Beperkt kwetsbaar object:
+#### Beperkt kwetsbaar object:
 
 a. 
 
@@ -480,21 +480,21 @@ i. objecten met een hoge infrastructurele waarde, zoals een telefoon- of elektri
 
 j. objecten, zoals wegrestaurants over of naast een weg en passagiersstations, die een functionele binding hebben met de risico opleverende activiteit.    
 
-### III  
+### III 
 
 ####Objecten noch kwetsbaar, noch beperkt kwetsbaar:
 
-Inrichtingen in de zin van de Wet milieubeheer waarin gevaarlijke stoffen in voor de externe veiligheid niet te verwaarlozen hoeveelheden aanwezig zijn of kunnen zijn. Het gaat daarbij in ieder geval om: 
+Inrichtingen in de zin van de [Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) waarin gevaarlijke stoffen in voor de externe veiligheid niet te verwaarlozen hoeveelheden aanwezig zijn of kunnen zijn. Het gaat daarbij in ieder geval om: 
 
-a. een inrichting waarop het Besluit risico's zware ongevallen 1999 van toepassing is;  
+a. een inrichting waarop het [Besluit risico's zware ongevallen 1999](../../../../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) van toepassing is;  
 
 b. een inrichting die bestemd is voor de opslag in verband met vervoer van gevaarlijke stoffen, al dan niet in combinatie met andere stoffen en producten;  
 
 c. een door de minister van VROM bij regeling aangewezen spoorwegemplacement dat wordt gebruikt voor het rangeren van wagons met gevaarlijke stoffen;  
 
-d. andere door de minister van VROM bij regeling aangewezen categorieën van inrichtingen dan inrichtingen als bedoeld onder a tot en met c, waarvan het plaatsgebonden risico hoger is of kan zijn dan 10 <sup>-6</sup> per jaar, niet zijnde inrichtingen waarvoor regels gelden krachtens artikel 8.40 van de Wet milieubeheer;  
+d. andere door de minister van VROM bij regeling aangewezen categorieën van inrichtingen dan inrichtingen als bedoeld onder a tot en met c, waarvan het plaatsgebonden risico hoger is of kan zijn dan 10<sup>-6</sup> per jaar, niet zijnde inrichtingen waarvoor regels gelden krachtens [artikel 8.40 van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
 
-e. een LPG-tankstation als bedoeld in artikel 1, eerste lid, onder b, van het Besluit LPG-tankstations milieubeheer;  
+e. een LPG-tankstation als bedoeld in [artikel 1, eerste lid, onder b, van het Besluit LPG-tankstations milieubeheer](../../../../../../../AMvB/besluit/lpg-tankstations/milieubeheer/BWBR0004327/README.md);  
 
 f. een inrichting waar gevaarlijke stoffen, gevaarlijke afvalstoffen of bestrijdingsmiddelen in emballage worden opgeslagen in een hoeveelheid van meer dan 10.000 kg per opslaggebouw, niet zijnde een inrichting als bedoeld in onderdeel a of d;  
 
@@ -504,55 +504,55 @@ h. vervoersassen.   Objecten die tot de hierboven genoemde inrichtingen behoren 
 
 ###Toelichting op de hiervoor gegeven lijsten
 
-### Categorie  I  
+###Categorie I 
 
-Om te bepalen of een object als kwetsbaar, beperkt kwetsbaar of niet kwetsbaar dient te worden beschouwd, moet worden uitgegaan van de hoofdfunctie van het object. In veel gevallen zullen in een gebouwencomplex of op een terrein meerdere activiteiten worden uitgeoefend. Indien het om diverse als zelfstandig te beoordelen activiteiten gaat, moet voor de bepaling van de kwetsbaarheid worden uitgegaan van de meest kwetsbare functie in dat gebouw of op dat terrein. Als een (beperkt) kwetsbaar object slechts gedeeltelijk in het gebied ligt waarin het plaatsgebonden risico groter is dan 10 <sup>-6</sup> of 10 <sup>-5</sup> dan wordt dit object geacht in zijn geheel in dit gebied te liggen. Onder een woning wordt begrepen een verblijfsruimte van een gebouw of een deel van een gebouw dat voor permanente bewoning is bestemd. Dus ook met woningen vergelijkbare objecten zoals asielzoekerscentra, woonboten, penitentiaire inrichtingen, gevangenissen en andere verblijfsinstellingen vallen hieronder. Een vakantiewoning die vrijwel het hele jaar in gebruik is, moet tevens aan een woning gelijk worden gesteld. Overigens dient het wel steeds te gaan om ruimten die ook daadwerkelijk voor bewoning bedoeld zijn. Het illegaal gebruik van bijvoorbeeld bedrijfspanden voor woningdoeleinden valt niet hieronder. Bij de interpretatie van het begrip onderwijsinstelling moet uiteraard worden gedacht aan instellingen voor het basisonderwijs en het voortgezet onderwijs. Niet alle objecten met een (gedeeltelijke) onderwijsfunctie vallen echter onder het begrip onderwijsinstelling. Denk bijvoorbeeld aan centra voor educatie en cursussen of voor instellingen voor alleen beroeps- of volwassenenonderwijs. Gebouwen zoals kantoorpanden waarin zich gewoonlijk gedurende een groot deel van de dag veel personen bevinden, worden als kwetsbaar bestempeld. Daarbij wordt in beginsel uitgegaan van het bruto vloeroppervlak. Showrooms vallen niet hieronder.  
+Om te bepalen of een object als kwetsbaar, beperkt kwetsbaar of niet kwetsbaar dient te worden beschouwd, moet worden uitgegaan van de hoofdfunctie van het object. In veel gevallen zullen in een gebouwencomplex of op een terrein meerdere activiteiten worden uitgeoefend. Indien het om diverse als zelfstandig te beoordelen activiteiten gaat, moet voor de bepaling van de kwetsbaarheid worden uitgegaan van de meest kwetsbare functie in dat gebouw of op dat terrein.Als een (beperkt) kwetsbaar object slechts gedeeltelijk in het gebied ligt waarin het plaatsgebonden risico groter is dan 10<sup>-6</sup> of 10<sup>-5</sup> dan wordt dit object geacht in zijn geheel in dit gebied te liggen.Onder een woning wordt begrepen een verblijfsruimte van een gebouw of een deel van een gebouw dat voor permanente bewoning is bestemd. Dus ook met woningen vergelijkbare objecten zoals asielzoekerscentra, woonboten, penitentiaire inrichtingen, gevangenissen en andere verblijfsinstellingen vallen hieronder. Een vakantiewoning die vrijwel het hele jaar in gebruik is, moet tevens aan een woning gelijk worden gesteld. Overigens dient het wel steeds te gaan om ruimten die ook daadwerkelijk voor bewoning bedoeld zijn. Het illegaal gebruik van bijvoorbeeld bedrijfspanden voor woningdoeleinden valt niet hieronder.Bij de interpretatie van het begrip onderwijsinstelling moet uiteraard worden gedacht aan instellingen voor het basisonderwijs en het voortgezet onderwijs. Niet alle objecten met een (gedeeltelijke) onderwijsfunctie vallen echter onder het begrip onderwijsinstelling. Denk bijvoorbeeld aan centra voor educatie en cursussen of voor instellingen voor alleen beroeps- of volwassenenonderwijs.Gebouwen zoals kantoorpanden waarin zich gewoonlijk gedurende een groot deel van de dag veel personen bevinden, worden als kwetsbaar bestempeld. Daarbij wordt in beginsel uitgegaan van het bruto vloeroppervlak. Showrooms vallen niet hieronder.
 
-### Categorie  II  
+###Categorie II 
 
-Infrastructurele objecten met een voor de samenleving vitale waarde worden als beperkt kwetsbaar beschouwd. Dit is bijvoorbeeld het geval bij telefooncentrales, vluchtleidingscentra of centra voor essentiële datacommunicatie. Deze objecten verdienen uit hoofde van deze circulaire alleen bescherming als zij in zekere mate kwetsbaar zijn vanwege de bij een mogelijk ongeval vrijkomende gevaarlijke stoffen. Zo zullen deze objecten vooral gevaar lopen bij een explosie en niet per se bij het vrijkomen van giftige stoffen. De beoordeling daarvan moet per geval plaatsvinden. Deze circulaire geeft tevens een oplossing voor objecten die niet met zoveel woorden zijn opgenomen in de categorieën I of II. Zo kan worden voorkomen dat bepaalde objecten ten onrechte niet als kwetsbaar of beperkt kwetsbaar worden aangeduid. Daarbij kan gedacht worden aan jeugdherbergen, conferentieoorden en buurthuizen. De mate van kwetsbaarheid van deze objecten moet worden bepaald aan de hand van de gemiddelde verblijfstijd en de in een object aanwezige personen. Indien dit overeenkomt met een van de objecten in categorie I of II, dan moet het betreffende object worden ingedeeld in dezelfde categorie als het object waarmee dit overeenkomt. Zo moet een object waarin zich bijvoorbeeld hoofdzakelijk kwetsbare groepen als minderjarigen, ouderen, zieken of gehandicapten bevinden, worden aangeduid als een kwetsbaar object. Hierbij kan gedacht worden aan het gebruik van een ijsbaan of een bioscoop door minderjarigen. Als (beperkt) kwetsbaar moeten niet alleen de reeds aanwezige objecten worden beschouwd, maar ook de zogenaamde geprojecteerde objecten. Dit zijn objecten die nog niet aanwezig zijn, maar waarvan de realisatie op grond van het bestemmingsplan wel aannemelijk is.  
+Infrastructurele objecten met een voor de samenleving vitale waarde worden als beperkt kwetsbaar beschouwd. Dit is bijvoorbeeld het geval bij telefooncentrales, vluchtleidingscentra of centra voor essentiële datacommunicatie. Deze objecten verdienen uit hoofde van deze circulaire alleen bescherming als zij in zekere mate kwetsbaar zijn vanwege de bij een mogelijk ongeval vrijkomende gevaarlijke stoffen. Zo zullen deze objecten vooral gevaar lopen bij een explosie en niet per se bij het vrijkomen van giftige stoffen. De beoordeling daarvan moet per geval plaatsvinden.Deze circulaire geeft tevens een oplossing voor objecten die niet met zoveel woorden zijn opgenomen in de categorieën I of II. Zo kan worden voorkomen dat bepaalde objecten ten onrechte niet als kwetsbaar of beperkt kwetsbaar worden aangeduid. Daarbij kan gedacht worden aan jeugdherbergen, conferentieoorden en buurthuizen. De mate van kwetsbaarheid van deze objecten moet worden bepaald aan de hand van de gemiddelde verblijfstijd en de in een object aanwezige personen. Indien dit overeenkomt met een van de objecten in categorie I of II, dan moet het betreffende object worden ingedeeld in dezelfde categorie als het object waarmee dit overeenkomt. Zo moet een object waarin zich bijvoorbeeld hoofdzakelijk kwetsbare groepen als minderjarigen, ouderen, zieken of gehandicapten bevinden, worden aangeduid als een kwetsbaar object. Hierbij kan gedacht worden aan het gebruik van een ijsbaan of een bioscoop door minderjarigen.Als (beperkt) kwetsbaar moeten niet alleen de reeds aanwezige objecten worden beschouwd, maar ook de zogenaamde geprojecteerde objecten. Dit zijn objecten die nog niet aanwezig zijn, maar waarvan de realisatie op grond van het bestemmingsplan wel aannemelijk is.
 
-### Categorie  III  
+###Categorie III 
 
-Deze circulaire gaat ook in op bedrijventerreinen. Om de bereikbaarheid en bedrijvigheid in dit land niet te veel te verstoren zijn bedrijventerreinen met een bepaalde bestemming uitgezonderd van de werking van deze circulaire. Hierbij gaat het om gronden waaraan een bestemming is gegeven die de mogelijkheid van vestiging van inrichtingen als bedoeld in categorie III, onder f, insluit. Hierbij gaat het om inrichtingen waarin activiteiten met of opslag van gevaarlijke stoffen plaatsvinden. Dit zijn dus bedrijven die zelf een bepaald risico met zich meebrengen. Het voorgaande geldt ook voor gronden die in een gemeentelijk structuurplan, een gemeentelijke verordening of een daarop gebaseerd besluit voor de vestiging van dergelijke bedrijven zijn aangewezen. Deze mogelijkheid wordt geboden omdat in de praktijk vaak geen (actueel) bestemmingsplan aanwezig is voor deze gronden. Voorwaarde om objecten op bedrijventerreinen niet als (beperkt) kwetsbaar te beschouwen, is dat in het besluit op grond waarvan bovengenoemde bedrijven zijn toegelaten de mogelijkheid van vestiging van bepaalde ondernemingen wordt uitgesloten. Hierbij gaat het om ondernemingen op het gebied van horeca, post, telecommunicatie en zakelijke dienstverlening alsmede financiële instellingen en instellingen op het gebied van onderwijs, zorg, cultuur, sport en recreatie. Een uitzondering hierop zijn ondernemingen en instellingen die een functionele binding hebben met een op diezelfde gronden gevestigde inrichting. In dat geval moeten deze ondernemingen en instellingen als onderdeel van die inrichting worden beschouwd. Een voorbeeld hiervan is een bedrijfsrestaurant dat alleen de op het terrein aanwezige bedrijven bedient of een school die aan een bedrijf verbonden is. Overigens geldt de eis van een functionele binding niet voor objecten die bestemd zijn voor bijvoorbeeld kinderopvang voor (onder andere) de werknemers van de betrokken bedrijven. Dergelijke objecten moeten gewoon als kwetsbaar object worden beschouwd. Dit betekent dat degenen die werkzaam zijn in de niet als kwetsbaar bestempelde bedrijven geen bescherming ontlenen aan de normstelling voor het plaatsgebonden risico. Wel moet rekening worden gehouden met hun aanwezigheid in verband met het groepsrisico en de voorbereiding op de ramp- en ongevalbestrijding. Dit geldt ook voor bedrijventerreinen waarvoor in het bestemmingsplan, een gemeentelijk structuurplan of krachtens een gemeentelijk verordening een regeling is gegeven die de vestiging van dergelijke bedrijven insluit.  
+Deze circulaire gaat ook in op bedrijventerreinen. Om de bereikbaarheid en bedrijvigheid in dit land niet te veel te verstoren zijn bedrijventerreinen met een bepaalde bestemming uitgezonderd van de werking van deze circulaire. Hierbij gaat het om gronden waaraan een bestemming is gegeven die de mogelijkheid van vestiging van inrichtingen als bedoeld in categorie III, onder f, insluit. Hierbij gaat het om inrichtingen waarin activiteiten met of opslag van gevaarlijke stoffen plaatsvinden. Dit zijn dus bedrijven die zelf een bepaald risico met zich meebrengen. Het voorgaande geldt ook voor gronden die in een gemeentelijk structuurplan, een gemeentelijke verordening of een daarop gebaseerd besluit voor de vestiging van dergelijke bedrijven zijn aangewezen. Deze mogelijkheid wordt geboden omdat in de praktijk vaak geen (actueel) bestemmingsplan aanwezig is voor deze gronden.Voorwaarde om objecten op bedrijventerreinen niet als (beperkt) kwetsbaar te beschouwen, is dat in het besluit op grond waarvan bovengenoemde bedrijven zijn toegelaten de mogelijkheid van vestiging van bepaalde ondernemingen wordt uitgesloten. Hierbij gaat het om ondernemingen op het gebied van horeca, post, telecommunicatie en zakelijke dienstverlening alsmede financiële instellingen en instellingen op het gebied van onderwijs, zorg, cultuur, sport en recreatie. Een uitzondering hierop zijn ondernemingen en instellingen die een functionele binding hebben met een op diezelfde gronden gevestigde inrichting. In dat geval moeten deze ondernemingen en instellingen als onderdeel van die inrichting worden beschouwd. Een voorbeeld hiervan is een bedrijfsrestaurant dat alleen de op het terrein aanwezige bedrijven bedient of een school die aan een bedrijf verbonden is.Overigens geldt de eis van een functionele binding niet voor objecten die bestemd zijn voor bijvoorbeeld kinderopvang voor (onder andere) de werknemers van de betrokken bedrijven. Dergelijke objecten moeten gewoon als kwetsbaar object worden beschouwd. Dit betekent dat degenen die werkzaam zijn in de niet als kwetsbaar bestempelde bedrijven geen bescherming ontlenen aan de normstelling voor het plaatsgebonden risico. Wel moet rekening worden gehouden met hun aanwezigheid in verband met het groepsrisico en de voorbereiding op de ramp- en ongevalbestrijding. Dit geldt ook voor bedrijventerreinen waarvoor in het bestemmingsplan, een gemeentelijk structuurplan of krachtens een gemeentelijk verordening een regeling is gegeven die de vestiging van dergelijke bedrijven insluit.
 
 ####Correctiefactoren
 
-De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voor de berekening van het groepsrisico in gevallen waarin dat risico wordt veroorzaakt door een inrichting als bedoeld in artikel 4, vijfde lid, onderdelen a tot en met d, van het Besluit Externe Veiligheid Inrichtingen.  
+De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voor de berekening van het groepsrisico in gevallen waarin dat risico wordt veroorzaakt door een inrichting als bedoeld in [artikel 4, vijfde lid, onderdelen a tot en met d, van het Besluit Externe Veiligheid Inrichtingen](../../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md).
 
-| Objecten  | Correctiefactoren  |
-|---|---|
-|  *Kwetsbaar*   | --- |
-| Woonbestemmingen  | 1,1  |
-| Onderwijsinstellingen  | 2,5  |
-| Gezondheidsinstellingen  | 1,3  |
-| Kinderopvang en dagverblijven  | 1,9  |
-| Gevangenissen  | 1,3  |
-|  *Beperkt kwetsbaar*   | --- |
-| Kantoren, bedrijven en instellingen zonder bebouwing  | 2,2  |
-| Sport- en recreatieaccommodatie  | 2,2  |
-| Stadions  | 14  |
-| Aanleghavens voor passanten en jachthavens  | 4,2  |
-| Volkstuinen  | 2,9  |
-| Kampeerterreinen  | 2,4  |
-| Dagrecreatiegebieden  | 6,1  |
-| Winkels  | 1,5  |
-| Horeca  | 1,4  |
-| Parkeerterreinen  | 10  |
-| Stations  | 1,2  |
-| Kerken  | 6,5  |
-| Theaters, bioscopen, zalencentra en buurthuizen  | 1,6  |
-| Crematoria en uitvaartcentra  | 2,4  |
-| Brandweerkazernes  | 2,0  |
-| Objecten met een hoge infrastructurele waarde  | -  |
+|Objecten |Correctiefactoren |
+|:---|:---|
+|*Kwetsbaar* | --- |
+|Woonbestemmingen |1,1 |
+|Onderwijsinstellingen |2,5 |
+|Gezondheidsinstellingen |1,3 |
+|Kinderopvang en dagverblijven |1,9 |
+|Gevangenissen |1,3 |
+|*Beperkt kwetsbaar* | --- |
+|Kantoren, bedrijven en instellingen zonder bebouwing |2,2 |
+|Sport- en recreatieaccommodatie |2,2 |
+|Stadions |14 |
+|Aanleghavens voor passanten en jachthavens |4,2 |
+|Volkstuinen |2,9 |
+|Kampeerterreinen |2,4 |
+|Dagrecreatiegebieden |6,1 |
+|Winkels |1,5 |
+|Horeca |1,4 |
+|Parkeerterreinen |10 |
+|Stations |1,2 |
+|Kerken |6,5 |
+|Theaters, bioscopen, zalencentra en buurthuizen |1,6 |
+|Crematoria en uitvaartcentra |2,4 |
+|Brandweerkazernes |2,0 |
+|Objecten met een hoge infrastructurele waarde |- |
 
 ### Bijlage  2  
 
 ####– Tabel afstanden en vervoerscijfers Basisnet weg
 
 | Wegvak  | Naamgeving  | Veiligheidszone gemeten vanaf het midden van de weg  | Vervoershoeveelheid GF3 voor het berekenen van het GR  | Bijzonderheden  |
-|---|---|---|---|---|
-| --- |  *Rijksweg A1*   | --- | --- | --- |
+|:---|:---|:---|:---|:---|
+| --- | *Rijksweg A1*  | --- | --- | --- |
 | N1  | A1: knp. Watergraafsmeer – knp. Diemen  | 0  | 4000  | --- |
 | N2  | A1: knp. Diemen – knp. Muiderberg  | 0  | 4000  | --- |
 | N3  | A1: knp. Muiderberg – knp. Eemnes  | 0  | 4000  | --- |
@@ -568,16 +568,16 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | G2  | A1: knp. Beekbergen – afrit 23 (Deventer)  | 15  | 4000  | --- |
 | O2  | A1: afrit 23 (Deventer) – afrit 24 (Deventer Oost)  | 12  | 4000  | --- |
 | O113  | A1: afrit 24 (Deventer Oost) – afrit 26 (Lochem)  | 12  | 4000  | --- |
-| O3  | A1: afrit 26 (Lochem) – afrit 28 (Rijssen)  | 1 <sup>1</sup>  | 4000 <sup>1</sup>  | --- |
-| O76  | A1: afrit 28 (Rijssen) – knp. Azelo  | 1 <sup>1</sup>  | 4000 <sup>1</sup>  | --- |
-| O4  | A1/A35: knp. Azelo – knp. Buren  | 1 <sup>1</sup>  | 4000  | --- |
-| O5  | A1: knp. Buren – afrit 30 (Hengelo)  | 1 <sup>1</sup>  | 4000 <sup>1</sup>  | --- |
-| O6  | A1: afrit 30 (Hengelo) – afrit 32 (Oldenzaal)  | 1v <sup>1</sup>  | 4000 <sup>1</sup>  | --- |
-| O7  | A1: afrit 32 (Oldenzaal) – afrit 33 (Oldenzaal Zuid)  | 1 <sup>1</sup>  | 4000 <sup>1</sup>  | --- |
-| O8  | A1: afrit 33 (Oldenzaal Zuid) – Grens Duitsland  | 1 <sup>1</sup>  | 4000 <sup>1</sup>  | --- |
-| --- |  *Rijksweg A2/N2*   | --- | --- | --- |
+| O3  | A1: afrit 26 (Lochem) – afrit 28 (Rijssen)  | 1<sup>1</sup>   | 4000<sup>1</sup>  | --- |
+| O76  | A1: afrit 28 (Rijssen) – knp. Azelo  | 1<sup>1</sup>   | 4000<sup>1</sup>   | --- |
+| O4  | A1/A35: knp. Azelo – knp. Buren  | 1<sup>1</sup>   | 4000  | --- |
+| O5  | A1: knp. Buren – afrit 30 (Hengelo)  | 1<sup>1</sup>   | 4000<sup>1</sup>   | --- |
+| O6  | A1: afrit 30 (Hengelo) – afrit 32 (Oldenzaal)  | 1v<sup>1</sup>   | 4000<sup>1</sup>   | --- |
+| O7  | A1: afrit 32 (Oldenzaal) – afrit 33 (Oldenzaal Zuid)  | 1<sup>1</sup>   | 4000<sup>1</sup>   | --- |
+| O8  | A1: afrit 33 (Oldenzaal Zuid) – Grens Duitsland   | 1<sup>1</sup>   | 4000<sup>1</sup>   | --- |
+| --- | *Rijksweg A2/N2*  | --- | --- | --- |
 | N4  | A2: knp. Amstel – knp. Holendrecht 1  | 0  | 3000  | --- |
-| N5  | A2/A9: knp. Holendrecht 1 – knp. Holendrecht 2  | 0  | 3000  | --- |
+| N5  | A2/A9: knp. Holendrecht 1 – knp. Holendrecht 2   | 0  | 3000  | --- |
 | U12  | A2: knp. Holendrecht 2 – afrit 4 (Vinkeveen)  | 0  | 4000  | --- |
 | U13  | A2: afrit 4 (Vinkeveen) – afrit 5 (Breukelen)  | 0  | 4000  | --- |
 | U73  | A2: afrit 5 (Breukelen) – afrit 6 (Ring Utrecht Noord)  | 0  | 4000  | --- |
@@ -613,14 +613,14 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | L44  | A2: afrit 51 (Meerssen) – knp. Kruisdonk  | 0  | 1000  | --- |
 | L45  | A2: knp. Kruisdonk – N2 (Pres. Rooseveltweg/Terblijterweg/Viaductweg)  | 0  | 1000  | --- |
 | L46  | N2: Pres. Rooseveltweg/Terblijterweg/Viaductweg – Pres. Rooseveltlaan/Scharnerweg/Wilhelminasingel  | 0  | 1000  | Wegtype binnen bebouwde kom  |
-| L47  | N2: Pres. Rooseveltlaan/Scharnerweg/Wilhelminasingel – Knp. Europaplein  | 0  | 1000  | Wegtype binnen bebouwde kom  |
+| L47  | N2: Pres. Rooseveltlaan/Scharnerweg/Wilhelminasingel – Knp. Europaplein   | 0  | 1000  | Wegtype binnen bebouwde kom  |
 | L48  | A2: knp. Europaplein – afrit 58 (Eijsden)  | 0  | 1000  | --- |
-| L92  | A2: afrit 58 (Eijsden) – Grens België  | 0  | 1000  | --- |
-| --- |  *Rijksweg N3*   | --- | --- | --- |
+| L92  | A2: afrit 58 (Eijsden) – Grens België   | 0  | 1000  | --- |
+| --- | *Rijksweg N3*  | --- | --- | --- |
 | Z98  | N3: A15 – Burg. Keijzerweg (Papendrecht)  | 32  | 8316  | Snelweg met verhoogde ongeval frequentie  |
-| Z115  | N3: Burg. Keijzerweg (Papendrecht) – Baanhoekweg/Merwedestraat (Dordrecht)  | 33  | 8435  | Snelweg met verhoogde ongeval frequentie  |
-| Z97  | N3: Baanhoekweg/Merwedestraat (Dordrecht) – A16  | 47  | 9725  | Snelweg met verhoogde ongeval frequentie. Na aanpassing aansluiting A16 kan dit wegdeel beschouwd worden als snelweg en geldt een zone van 21 meter  |
-| --- |  *Rijksweg A4*   | --- | --- | --- |
+| Z115  | N3: Burg. Keijzerweg (Papendrecht) – Baanhoekweg/Merwedestraat (Dordrecht)   | 33  | 8435  | Snelweg met verhoogde ongeval frequentie  |
+| Z97  | N3: Baanhoekweg/Merwedestraat (Dordrecht) – A16  | 47  | 9725  | Snelweg met verhoogde ongeval frequentie. Na aanpassing aansluiting A16 kan dit wegdeel beschouwd worden als snelweg en geldt een zone van 21 meter   |
+| --- | *Rijksweg A4*  | --- | --- | --- |
 | N6  | A4: knp. De Nieuwe Meer – knp. Badhoevedorp  | 0  | 3000  | --- |
 | N87  | A4: knp. Badhoevedorp – knp. De Hoek (incl. Schipholtunnel)  | 0  | 3000  | Categorie A tunnel  |
 | N7  | A4: knp. De Hoek – afrit 3 (Hoofddorp)  | 0  | 3000  | --- |
@@ -638,10 +638,10 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | B24  | A4 & N259: Halsterseweg/Randweg Noord/Randweg West – knp. Zoomland  | 0  | 1000  | --- |
 | B1  | A4/A58: knp. Zoomland – afrit 30 (Hoogerheide)  | 25  | 3851  | --- |
 | B127  | A4/A58: afrit 30 (Hoogerheide) – knp. Markiezaat  | 30  | 5715  | --- |
-| B35  | A4: knp. Markiezaat – Grens België  | 22  | 3098  | --- |
-| --- |  *Rijksweg A5*   | --- | --- | --- |
+| B35  | A4: knp. Markiezaat – Grens België   | 22  | 3098  | --- |
+| --- | *Rijksweg A5*  | --- | --- | --- |
 | N90  | A5: knp. Raasdorp – knp. De Hoek  | 0  | 3000  | --- |
-| --- |  *Rijksweg A6*   | --- | --- | --- |
+| --- | *Rijksweg A6*  | --- | --- | --- |
 | F1  | A6: knp. Muiderberg – afrit 3 (Almere Stad West)  | 0  | 3000  | --- |
 | F39  | A6: afrit 3 (Almere Stad West) – afrit 5 (Almere Stad)  | 0  | 3000  | --- |
 | F41  | A6: afrit 5 (Almere Stad) – afrit 6 (Almere Buiten West)  | 0  | 3000  | --- |
@@ -654,7 +654,7 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | F38  | A6: afrit 14 (Emmeloord) – knp. Emmeloord  | 0  | 4000  | --- |
 | F47  | A6: knp. Emmeloord – afrit 15 (De Munt)  | 0  | 3000  | --- |
 | F2  | A6: afrit 15 (De Munt) – knp. Joure  | 0  | 3000  | --- |
-| --- |  *Rijksweg A7/N7*   | --- | --- | --- |
+| --- | *Rijksweg A7/N7*  | --- | --- | --- |
 | N33  | A7: knp. Zaandam – afrit 6 (Purmerend Noord)  | 0  | 4000  | --- |
 | N34  | A7: afrit 6 (Purmerend Noord) – afrit 7 (Avenhorn)  | 0  | 3000  | --- |
 | N82  | A7: afrit 7 (Avenhorn) – afrit 8 (Hoorn)  | 0  | 3000  | --- |
@@ -675,12 +675,12 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | Gr2  | A7: knp. Europaplein – afrit 44 (Veendam)  | 0  | 1500  | --- |
 | Gr3  | A7: afrit 44 (Veendam) – afrit 45 (Scheemda)  | 0  | 1000  | --- |
 | Gr29  | A7: afrit 45 (Scheemda) – Grens Duitsland  | 0  | 1000  | --- |
-| --- |  *Rijksweg A8*   | --- | --- | --- |
+| --- | *Rijksweg A8*  | --- | --- | --- |
 | N31  | A8: knp. Coenplein – afrit 1 (Oostzaan)  | 0  | 4000  | --- |
 | N91  | A8: afrit 1 (Oostzaan) – knp. Zaandam  | 0  | 4000  | --- |
 | N99  | A8: knp. Zaandam – afrit 2 (Zaandijk)  | 0  | 1500  | --- |
 | N32  | A8: afrit 2 (Zaandijk) – N246  | 0  | 1500  | --- |
-| --- |  *Rijksweg A9/N9*   | --- | --- | --- |
+| --- | *Rijksweg A9/N9*  | --- | --- | --- |
 | N29  | N9: N250 (De Kooy) – N503 (bij Schagerbrug)  | 0  | 500  | --- |
 | N28  | N9: N503 (bij Schagerbrug) – ringweg Alkmaar (Huiswaarderweg)  | 0  | 500  | --- |
 | N27  | N9: Huiswaarderweg – Vkp. Kooimeer  | 0  | 500  | --- |
@@ -693,10 +693,10 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | N88  | A9: knp. Raasdorp – knp. Badhoevedorp  | 0  | 3000  | --- |
 | N86  | A9: knp. Badhoevedorp – afrit 5 (Amstelveen)  | 0  | 3000  | --- |
 | N21  | A9: afrit 5 (Amstelveen) – knp. Holendrecht 2  | 0  | 3000  | --- |
-| --- |  *A2/A9: knp. Holendrecht 2 – knp. Holendrecht 1*   | --- | --- | Zie wegvak N5 bij Rijksweg A2  |
+| --- | *A2/A9: knp. Holendrecht 2 – knp. Holendrecht 1*  | --- | --- | Zie wegvak N5 bij Rijksweg A2  |
 | N20  | A9: knp. Holendrecht 1 – afrit 1 (S113, Gaasperplas)  | 0  | 3000  | --- |
 | N107  | A9: afrit 1 (S113, Gaasperplas) -knp. Diemen  | 0  | 3000  | --- |
-| --- |  *Rijksweg A10*   | --- | --- | --- |
+| --- | *Rijksweg A10*  | --- | --- | --- |
 | N15  | A10: knp. Coenplein – afrit S101 (Westpoort 2000-3000) (incl. Coentunnel)  | 0  | 0  | Categorie C tunnel  |
 | N98  | A10: afrit S101 (Westpoort 2000-3000) – afrit S102 (Westpoort 3000-9000)  | 0  | 1000  | --- |
 | N14  | A10: afrit S102 (Westpoort 3000-9000) – afrit S103 (Haarlem)  | 0  | 1329  | --- |
@@ -708,14 +708,14 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | N19  | Omleidingsroute Zeeburgertunnel via Zuiderzeeweg  | 0  | 2562  | Omleidingsroute tunnel; wegtype binnen bebouwde kom  |
 | N17  | A10: afrit S115 (Nieuwendam) – afrit S116 (Volendam)  | 0  | 4000  | --- |
 | N16  | A10: afrit S116 (Volendam) – knp. Coenplein  | 0  | 4000  | --- |
-| --- |  *Rijksweg N11*   | --- | --- | --- |
+| --- | *Rijksweg N11*  | --- | --- | --- |
 | Z22  | N11: A4 – afrit N209 (Hazerswoude Rijndijk)  | 0  | 1500  | --- |
 | Z119  | N11: afrit N209 (Hazerswoude Rijndijk) – afrit N207 (Alphen aan den Rijn)  | 0  | 1500  | --- |
 | Z21  | N11: afrit N207 (Alphen aan den Rijn) – afrit N458 (Bodegraven)  | 0  | 1500  | --- |
 | Z20  | N11: afrit N458 (Bodegraven) – A12  | 0  | 1500  | --- |
-| --- |  *Rijksweg A12*   | --- | --- | --- |
+| --- | *Rijksweg A12*  | --- | --- | --- |
 | Z16b  | A12: afrit 3 (Bezuidenhout) – afrit 4 (Voorburg)  | 0  | 0  | Routering geen gebruiksruimte GF3  |
-| Z16a  | A12: afrit 4 (Voorburg) – knp. Prins Clausplein  | 0  | 1500 <sup>1</sup>  | --- |
+| Z16a  | A12: afrit 4 (Voorburg) – knp. Prins Clausplein  | 0  | 1500<sup>1</sup>   | --- |
 | Z17  | A12: knp. Prins Clausplein – afrit 7 (Zoetermeer)  | 0  | 1500  | --- |
 | Z124  | A12: afrit 7 (Zoetermeer) – afrit 9 (Zevenhuizen)  | 0  | 1500  | --- |
 | Z135  | A12: afrit 9 (Zevenhuizen) – knp. Gouwe  | 0  | 1500  | --- |
@@ -736,18 +736,18 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | G9  | A12: afrit 24 (Wageningen) – knp. Grijsoord  | 0  | 4000  | --- |
 | G10  | A12/A50: Knp. Grijsoord – knp. Waterberg  | 21  | 5138  | --- |
 | G11  | A12: knp. Waterberg – knp. Velperbroek  | 16  | 3428  | --- |
-| G12  | A12: knp. Velperbroek – knp. Oud-Dijk  | 1 <sup>1</sup>  | 4000  | --- |
-| G13  | A12: knp Oud-Dijk – Grens Duitsland  | 1 <sup>1</sup>  | 4000 <sup>1</sup>  | --- |
-| --- |  *Rijksweg A13*   | --- | --- | --- |
+| G12  | A12: knp. Velperbroek – knp. Oud-Dijk  | 1<sup>1</sup>   | 4000  | --- |
+| G13  | A12: knp Oud-Dijk – Grens Duitsland   | 1<sup>1</sup>   | 4000<sup>1</sup>   | --- |
+| --- | *Rijksweg A13*  | --- | --- | --- |
 | Z29  | A13: knp. Ypenburg – afrit 9 (Delft)  | 17  | 3639  | --- |
 | Z113  | A13: afrit 9 (Delft) – afrit 10 (Delft Zuid)  | 17  | 3200  | --- |
 | Z30  | A13: afrit 10 (Delft Zuid) – afrit 11 (Berkel en Rodenrijs)  | 16  | 2829  | --- |
 | Z114  | A13: afrit 11 (Berkel en Rodenrijs) – knp. Kleinpolderplein  | 6  | 2717  | --- |
-| --- |  *Rijksweg N14*   | --- | --- | --- |
+| --- | *Rijksweg N14*  | --- | --- | --- |
 | Z53  | N14: A4 afrit 8 Leidschendam – N44 Wassenaar (incl. Sytwendetunnel)  | 0  | 0  | Categorie C tunnel  |
-| --- |  *Rijksweg A15/N15*   | --- | --- | --- |
+| --- | *Rijksweg A15/N15*  | --- | --- | --- |
 | Z65  | N15: Maasvlakte – afrit 10  | 16  | 7022  | --- |
-| Z66  | N15: afrit 10 – afrit 12 (Brielle)  | 40  | 10289  | --- |
+| Z66  | N15: afrit 10 – afrit 12 (Brielle)   | 40  | 10289  | --- |
 | Z47  | A15: afrit 12 (Brielle) – afrit 13 (Rozenburg) (incl. Thomassentunnel)  | 15  | 0  | Categorie C tunnel  |
 | Z148  | A15: Omleidingsroute Thomassentunnel  | 27  | 11676  | omleidingsroute tunnel  |
 | Z126  | A15: afrit 13 (Rozenburg) – afrit 15 (Havens)  | 49  | 11676  | --- |
@@ -772,10 +772,10 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | G78  | A15: afrit 33 (Tiel) – afrit 34 (Echteld)  | 38  | 11754  | --- |
 | G16  | A15: afrit 34 (Echteld) – knp. Valburg  | 30  | 10044  | --- |
 | G17  | A15: knp. Valburg – knp. Ressen  | 8  | 4000  | --- |
-| --- |  *Rijksweg A16*   | --- | --- | --- |
+| --- | *Rijksweg A16*  | --- | --- | --- |
 | Z54  | A16: knp. Terbregseplein – afrit 25 (Rotterdam Centrum)  | 38  | 11421  | --- |
 | Z134  | A16: afrit 25 (Rotterdam Centrum) – Knp. Ridderkerk Noord  | 58  | 16263  | --- |
-| --- |  *A15/A16: knp. Ridderkerk Noord – knp. Ridderkerk Zuid*   | --- | --- | Zie wegvak Z55 bij rijksweg A16  |
+| --- | *A15/A16: knp. Ridderkerk Noord – knp. Ridderkerk Zuid*  | --- | --- |  Zie wegvak Z55 bij rijksweg A16  |
 | Z181  | A16: knp. Ridderkerk Zuid – afrit 22 (Zwijndrecht)  | 26  | 500  | --- |
 | Z56  | A16: afrit 22 (Zwijndrecht) – afrit 21 (Dordrecht) (incl. Drechttunnel)  | 26  | 0  | Categorie C tunnel  |
 | Z57  | A16: afrit 21 (Dordrecht) – afrit 20 (Randweg Dordrecht)  | 22  | 500  | --- |
@@ -786,20 +786,20 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | B40  | A16/A58: Knp. Princeville – afrit 15 (Rijsbergen)  | 26  | 4728  | --- |
 | B116  | A16/A58: afrit 15 (Rijsbergen) – Knp. Galder  | 30  | 4295  | --- |
 | B108  | A16: knp. Galder – Grens België  | 8  | 4000  | --- |
-| --- |  *Rijksweg A17*   | --- | --- | --- |
+| --- | *Rijksweg A17*  | --- | --- | --- |
 | B11  | A17: knp. Klaverpolder – afrit 26 (Industrie Moerdijk)  | 27  | 3627  | --- |
 | B12  | A17: afrit 26 (Industrie Moerdijk) – afrit 25 (Zevenbergen)  | 16  | 3345  | --- |
 | B100  | A17: afrit 25 (Zevenbergen) – knp. Noordhoek  | 20  | 4011  | --- |
 | B13  | A17: knp. Noordhoek – afrit 21 (Roosendaal Noord)  | 17  | 2118  | --- |
 | B99  | A17: afrit 21 (Roosendaal Noord) – knp. De Stok  | 19  | 3122  | --- |
-| --- |  *Rijksweg A18/N18*   | --- | --- | --- |
+| --- | *Rijksweg A18/N18*  | --- | --- | --- |
 | G18  | A18: knp. Oud-Dijk – afrit 4 (Doetinchem Oost)  | 0  | 4000  | --- |
 | G19  | A18: afrit 4 (Doetinchem Oost) – afrit 5 (Varsseveld)  | 0  | 4000  | --- |
 | G20  | N18: afrit 5 (Varsseveld) – afrit N319 (Groenlo)  | 0  | 1000  | --- |
 | G21  | N18: afrit N319 (Groenlo) – afrit N822 (Eibergen)  | 0  | 1000  | --- |
 | G22  | N18: afrit N822 (Eibergen) – afrit N347 (Haaksbergen)  | 0  | 1000  | --- |
 | O35  | N18: afrit N347 (Haaksbergen) – A35  | 0  | 1000  | --- |
-| --- |  *Rijksweg A20*   | --- | --- | --- |
+| --- | *Rijksweg A20*  | --- | --- | --- |
 | Z122  | A20: afrit N223 (bij Maasdijk) – afrit 6 (Maasdijk)  | 0  | 1000  | --- |
 | Z48  | A20: afrit 6 (Maasdijk) – knp. Kethelplein  | 0  | 1000  | --- |
 | Z49  | A20: knp. Kethelplein – knp. Kleinpolderplein  | 20  | 1050  | --- |
@@ -807,11 +807,11 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | Z125  | A20: afrit 14 (Rotterdam Centrum) – knp. Terbregseplein  | 11  | 3656  | --- |
 | Z51  | A20: knp. Terbregseplein – afrit 17 (Nieuwerkerk aan de Yssel)  | 32  | 10952  | --- |
 | Z136  | A20: afrit 17 (Nieuwerkerk aan de Yssel) – Knp. Gouwe  | 22  | 8847  | --- |
-| --- |  *Rijksweg A22*   | --- | --- | --- |
+| --- | *Rijksweg A22*  | --- | --- | --- |
 | N83  | A22: knp. Beverwijk – afrit Beverwiijk  | 0  | 1500  | --- |
 | N93  | A22: afrit Beverwijk – afrit IJmuiden (incl. Velsertunnel)  | 0  | 0  | Categorie D tunnel  |
 | N89  | A22: afrit IJmuiden – knp. Velsen  | 0  | 3000  | --- |
-| --- |  *Rijksweg A27*   | --- | --- | --- |
+| --- | *Rijksweg A27*  | --- | --- | --- |
 | F3  | A27: knp. Almere – afrit 36 (Almere Stad)  | 0  | 4000  | --- |
 | F43  | A27: afrit 36 (Almere Stad) – knp. Eemnes  | 0  | 4000  | --- |
 | N67  | A27: knp. Eemnes – afrit 33 (Hilversum)  | 0  | 4000  | --- |
@@ -830,7 +830,7 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | B110  | A27: afrit 15 (Breda) – knp. Annabosch  | 0  | 4000  | --- |
 | B101  | A27/A58: knp. Annabosch – afrit 14 (Ulvenhout)  | 23  | 3771  | --- |
 | B4  | A27/A58: afrit 14 (Ulvenhout) – knp. Galder  | 24  | 3950  | --- |
-| --- |  *Rijksweg A28*   | --- | --- | --- |
+| --- | *Rijksweg A28*  | --- | --- | --- |
 | D5  | A28: knp. Julianaplein – afrit 36 (Zuidlaren)  | 0  | 1500  | --- |
 | D26  | A28: afrit 36 (Zuidlaren) – afrit 34 (Assen Noord)  | 0  | 1500  | --- |
 | D4  | A28: afrit 34 (Assen Noord) – afrit 32 (Assen Zuid)  | 0  | 3000  | --- |
@@ -851,18 +851,18 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | U2  | A28: afrit 6 (Leusden Zuid) – afrit 5 (Maarn)  | 14  | 6570  | --- |
 | U3  | A28: afrit 5 (Maarn) – afrit 3 (Den Dolder)  | 16  | 7011  | --- |
 | U83  | A28: afrit 3 (Den Dolder) – knp. Rijnsweerd  | 13  | 6707  | --- |
-| --- |  *Rijksweg A29*   | --- | --- | --- |
-| Z182  | A29: knp. Vaanplein – afrit 20 (Barendrecht)  | 0  | 500 <sup>1</sup>  | --- |
+| --- | *Rijksweg A29*  | --- | --- | --- |
+| Z182  | A29: knp. Vaanplein – afrit 20 (Barendrecht)  | 0  | 500<sup>1</sup>   | --- |
 | Z88  | A29: afrit 20 (Barendrecht) – afrit 21 (Oud Beijerland) (incl. Heinenoordtunnel)  | 0  | 0  | Categorie D tunnel  |
 | Z133  | A29: afrit 21 (Oud Beijerland) – knp. Hellegatsplein  | 0  | 1000  | --- |
 | B19  | A29/A59: knp. Hellegatsplein – knp. Sabina  | 0  | 3000  | --- |
 | B20  | A29: knp. Sabina – afrit 24 (Dinteloord)  | 0  | 1000  | --- |
-| --- |  *Rijksweg A30*   | --- | --- | --- |
+| --- | *Rijksweg A30*  | --- | --- | --- |
 | G32  | A30: A1 – afrit 4 (Barneveld Zuid)  | 0  | 4000  | --- |
 | G67  | A30: afrit 4 (Barneveld Zuid) – afrit 2 (Ede)  | 0  | 4000  | --- |
 | G68  | A30: afrit 2 (Ede) – afrit 1 (Industriegebied Ede)  | 0  | 4000  | --- |
 | G85  | A30: afrit 1 (Industriegebied Ede) – knp. Maanderbroek  | 0  | 4000  | --- |
-| --- |  *Rijksweg A31/N31*   | --- | --- | --- |
+| --- | *Rijksweg A31/N31*  | --- | --- | --- |
 | Fr8  | A31: knp. Zurich – afrit 22 (Marssum)  | 0  | 1000  | --- |
 | Fr9  | N31: afrit 22 (Marssum) – afrit N359 (Boksum)  | 0  | 1000  | --- |
 | Fr10  | N31: afrit N359 (Boksum) – A32 (Leeuwarden)  | 0  | 1000  | --- |
@@ -870,14 +870,14 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | Fr37  | N31: afrit N913 (Garijp) – afrit N356 (Nijega)  | 0  | 1000  | --- |
 | Fr32  | N31: afrit N356 (Nijega) – afrit N369 (Drachten)  | 0  | 1500  | --- |
 | Fr36  | N31: afrit N369 (Drachten) – knp. Drachten (A7)  | 0  | 1500  | --- |
-| --- |  *Rijksweg A32*   | --- | --- | --- |
+| --- | *Rijksweg A32*  | --- | --- | --- |
 | Fr15  | A32: Leeuwarden – knp. Heerenveen  | 0  | 1500  | --- |
 | Fr31  | A32: knp. Heerenveen – afrit 8 (Wolvega)  | 0  | 1500  | --- |
 | O18  | A32: afrit 8 (Wolvega) – afrit 7 (Steenwijk Noord)  | 0  | 3000  | --- |
 | O115  | A32: afrit 7 (Steenwijk Noord) – afrit 5 (Steenwijk Zuid)  | 0  | 3000  | --- |
 | O116  | A32: afrit 5 (Steenwijk Zuid) – afrit 4 (Havelte)  | 0  | 3000  | --- |
 | O19  | A32: afrit 4 (Havelte) – knp. Lankhorst  | 0  | 3000  | --- |
-| --- |  *Rijksweg N33*   | --- | --- | --- |
+| --- | *Rijksweg N33*  | --- | --- | --- |
 | Gr5  | N33: Eemshaven – afrit N997 (bij Holwierde)  | 15  | 1500  | Wegtype buiten bebouwde kom  |
 | Gr6  | N33: afrit N997 (bij Holwierde) – afrit N360 (Appingedam)  | 15  | 1500  | Wegtype buiten bebouwde kom  |
 | Gr7  | N33: afrit N360 (Appingedam) – afrit N362 (bij Opwierde)  | 15  | 1500  | Wegtype buiten bebouwde kom  |
@@ -885,47 +885,47 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | Gr9  | N33: A7 – afrit N366 (Veendam)  | 20  | 1500  | Wijzigt van buiten bebouwde kom naar autosnelweg vanwege aanpassingen (Veiligheidszone komt na aanpassingen te vervallen)  |
 | D15  | N33: afrit N366 (Veendam) – N34 (Gieten)  | 20  | 1500  |
 | D14  | N33: N34 (Gieten) – A28  | 15  | 1500  |
-| --- |  *Rijksweg N34*   | --- | --- | --- |
+| --- | *Rijksweg N34*  | --- | --- | --- |
 | O95  | N34: N48 (Ommen) – afrit N347 (Ommen)  | 0  | 1000  | Wegtype buiten bebouwde kom  |
 | O96  | N34: afrit N347 (Ommen) – N36 (bij Rheezerveen)  | 0  | 1000  | Wegtype buiten bebouwde kom  |
-| --- |  *Rijksweg N35/A35*   | --- | --- | --- |
+| --- | *Rijksweg N35/A35*  | --- | --- | --- |
 | O59  | N35: (Zwolle) – afrit N348 (Raalte, Ommerweg)  | 0  | 500  | Wegtype buiten bebouwde kom  |
-| O60  | N35: afrit N348 (Raalte, Ommerweg) – afrit N347 (Nijverdal)  | 0  | 500 <sup>1</sup>  | --- |
-| O65  | N35: afrit N347 (Nijverdal) – N35/Burg. H. Boersingel (Nijverdal)  | 0  | 500 <sup>1</sup>  | hier komt een categorie C tunnel, gebruiksruimte wordt dan aangepast  |
+| O60  | N35: afrit N348 (Raalte, Ommerweg) – afrit N347 (Nijverdal)  | 0  | 500<sup>1</sup>   | --- |
+| O65  | N35: afrit N347 (Nijverdal) – N35/Burg. H. Boersingel (Nijverdal)  | 0  | 500<sup>1</sup>   | hier komt een categorie C tunnel, gebruiksruimte wordt dan aangepast  |
 | O62  | N35: N35/Burg. H. Boersingel (Nijverdal) – afrit N350 (Wierden)  | 0  | 500  | Wegtype buiten bebouwde kom  |
 | O63  | N35: afrit N350 (Wierden) – N36  | 0  | 1000  | Wegtype buiten bebouwde kom  |
 | O120  | A35: N36 – afrit N349 (Almelo)  | 0  | 1500  | --- |
 | O28  | A35: afrit N349 (Almelo) – knp. Azelo  | 0  | 1500  | --- |
-| --- |  *A1/A35: knp. Azelo – knp. Buren*   | --- | --- | Zie wegvak O4 op rijksweg A1  |
+| --- | *A1/A35: knp. Azelo – knp. Buren*  | --- | --- | Zie wegvak O4 op rijksweg A1  |
 | O22  | A35: knp. Buren – afrit 28 (Delden)  | 0  | 3000  | --- |
 | O128  | A35: afrit 28 (Delden) – afrit 27 (Ind. Twentekanaal)  | 0  | 1500  | --- |
 | O23  | A35: afrit 27 (Ind. Twentekanaal) – afrit 26 (Enschede West)  | 0  | 1500  | --- |
 | O24  | A35/N35: afrit 26 (Enschede West) – Grens Duitsland  | 0  | 1500  | --- |
-| --- |  *Rijksweg N36*   | --- | --- | --- |
+| --- | *Rijksweg N36*  | --- | --- | --- |
 | O40  | N36: N34 (bij Rheezerveen) – afrit N341 (Westerhaar-Vriezeveensewijk)  | 0  | 1000  | Wegtype buiten bebouwde kom  |
 | O39  | N36: afrit N341 (Westerhaar-Vriezeveensewijk) – afrit N748 (Vriezenveen)  | 0  | 1000  | Wegtype buiten bebouwde kom  |
 | O38  | N36: afrit N748 (Vriezenveen) – A35 (Almelo)  | 0  | 1000  | Wegtype buiten bebouwde kom  |
-| --- |  *Rijksweg A37/N37*   | --- | --- | --- |
+| --- | *Rijksweg A37/N37*  | --- | --- | --- |
 | D7  | A37: knp. Hoogeveen – afrit 1 (Hoogeveen Oost)  | 0  | 1500  | --- |
 | D30  | A37: afrit 1 (Hoogeveen Oost) – knp. Holsloot  | 0  | 1500  | --- |
 | D8  | N37: knp. Holsloot – afrit N376 (bij Veenoord)  | 0  | 1500  | --- |
 | D28  | N37: afrit N376 (bij Veenoord) – Duitse Grens  | 0  | 1500  | --- |
-| --- |  *Rijksweg A44*   | --- | --- | --- |
+| --- | *Rijksweg A44*  | --- | --- | --- |
 | N9  | A44: knp. Burgerveen – afrit 3 (Noordwijkerhout)  | 0  | 3000  | --- |
 | Z1  | A44: afrit 3 (Noordwijkerhout) – afrit 8 (Leiden)  | 0  | 3000  | --- |
 | Z2  | A44: afrit 8 (Leiden) – Wassenaar  | 0  | 3000  | --- |
-| --- |  *Rijksweg N48*   | --- | --- | --- |
+| --- | *Rijksweg N48*  | --- | --- | --- |
 | D6  | N48: knp. Hoogeveen – afrit N377 (Balkbrug)  | 0  | 500  | Wegtype buiten bebouwde kom  |
 | O43/O118  | N48: afrit N377 (Balkbrug) – N34 (Ommen)  | 0  | 500  | Wegtype buiten bebouwde kom  |
-| --- |  *Rijksweg N50/A50*   | --- | --- | --- |
+| --- | *Rijksweg N50/A50*  | --- | --- | --- |
 | F26  | N50: knp. Emmeloord – afrit N352 (Ens)  | 0  | 1500  | --- |
 | O52  | N50: afrit N352 (Ens) – afrit N307 (Kampen)  | 0  | 1500  | --- |
 | O123  | N50: afrit N307 (Kampen) – afrit N764 (Kampen)  | 0  | 1500  | --- |
 | O124  | N50: afrit N764 (Kampen) – knp. Hattemerbroek  | 0  | 1500  | --- |
 | G3  | A50: knp. Hattemerbroek – knp. Beekbergen  | 0  | 3000  | --- |
 | G4  | A50: knp. Beekbergen – knp. Waterberg  | 11  | 2309  | --- |
-| --- |  *A12/A50: knp. Waterberg – knp. Grijsoord*   | --- | --- | Zie wegvak G10 op rijksweg A12  |
-| G5  | A50: knp. Grijsoord – Knp. Valburg  | 9 <sup>1</sup>  | 4000 <sup>1</sup>  | --- |
+| --- | *A12/A50: knp. Waterberg – knp. Grijsoord*  | --- | --- | Zie wegvak G10 op rijksweg A12  |
+| G5  | A50: knp. Grijsoord – Knp. Valburg  | 9<sup>1</sup>   | 4000<sup>1</sup>  | --- |
 | G6  | A50: knp. Valburg – knp. Ewijk  | 18  | 4932  | --- |
 | G65  | A50: knp. Ewijk – knp. Bankhoef  | 0  | 3000  | --- |
 | B79  | A50: knp. Bankhoef – knp. Paalgraven  | 0  | 3000  | --- |
@@ -935,7 +935,7 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | B87  | A50: afrit 12 (Veghel Noord) – afrit 11 (Veghel)  | 0  | 1500  | --- |
 | B81  | A50: afrit 11 (Veghel) – afrit 10 (Eerde)  | 0  | 1500  | --- |
 | B132  | A50: afrit 10 (Eerde) – A58 (Eindhoven)  | 0  | 1500  | --- |
-| --- |  *Rijksweg N57*   | --- | --- | --- |
+| --- | *Rijksweg N57*  | --- | --- | --- |
 | Z89  | N57: A15 – afrit N218 (bij Zwartewaal)  | 0  | 1500  | --- |
 | Z90  | N57: afrit N218 (bij Zwartewaal) – afrit N495 (Nieuwehoorn)  | 12  | 1500  | Wegtype buiten bebouwde kom  |
 | Z91  | N57: afrit N495 (Nieuwehoorn) – afrit N215 (Stellendam)  | 10  | 1500  | Wegtype buiten bebouwde kom  |
@@ -943,7 +943,7 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | Ze47  | N57: N59 – afrit N255 (bij Kamperland)  | 0  | 1000  | Wegtype buiten bebouwde kom  |
 | Ze48  | N57: afrit N255 (bij Kamperland) – afrit N287 (Serooskerke)  | 0  | 1000  | Wegtype buiten bebouwde kom  |
 | Ze12  | N57: afrit N287 (Serooskerke) – Middelburg  | 0  | 1000  | Wegtype buiten bebouwde kom  |
-| --- |  *Rijksweg A58*   | --- | --- | --- |
+| --- | *Rijksweg A58*  | --- | --- | --- |
 | Ze4  | A58: N288 – afrit 39 (Middelburg)  | 0  | 500  | --- |
 | Ze8  | A58 : afrit 39 (Middelburg) – afrit 38 (Arnestein)  | 0  | 500  | --- |
 | Ze49  | A58: afrit 38 (Arnestein) – afrit 36 (Heinkenzand)  | 0  | 500  | --- |
@@ -953,28 +953,28 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | Ze43  | Omleidingsroute Vlaketunnel (A58): Oude Rijksweg  | 19  | 3834  | omleidingsroute tunnel, wegtype buiten bebouwde kom  |
 | Ze52  | A58: afrit 33 (Yerseke) – afrit 32 (Kruiningen)  | 0  | 4000  | --- |
 | Ze10  | A58: afrit 32 (Kruiningen) – knp. Markiezaat  | 0  | 4000  | --- |
-| --- |  *A4/A58: Knp. Markiezaat – knp. Zoomland*   | --- | --- | Zie wegvakken B1 en B127 op rijksweg A4  |
+| --- | *A4/A58: Knp. Markiezaat – knp. Zoomland*  | --- | --- | Zie wegvakken B1 en B127 op rijksweg A4  |
 | B2  | A58: knp. Zoomland – knp. De Stok  | 29  | 3720  | --- |
 | B3  | A58: knp. De Stok – afrit 24 (Roosendaal)  | 0  | 4000  | --- |
 | B114  | A58: afrit 24 (Roosendaal) – afrit 19 (Industriegebied Vosdonk)  | 0  | 4000  | --- |
 | B136  | A58: afrit 19 (Industriegebied Vosdonk) – afrit 18 (Etten-Leur)  | 0  | 4000  | --- |
 | B129  | A58: afrit 18 (Etten-Leur) – knp. Princeville  | 0  | 4000  | --- |
-| --- |  *A16/A58 knp. Princeville – A27/A58 knp. Annabosch*   | --- | --- | Zie wegvakken B40 en B116 op rijksweg A16 en wegvakken B4 en B101 op rijksweg A27  |
+| --- | *A16/A58 knp. Princeville – A27/A58 knp. Annabosch*  | --- | --- |  Zie wegvakken B40 en B116 op rijksweg A16 en wegvakken B4 en B101 op rijksweg A27  |
 | B5  | A58: knp. Annabosch – afrit 12 (Gilze)  | 21  | 4178  | --- |
 | B113  | A58: afrit 12 (Gilze) – afrit 11 (Goirle)  | 23  | 4460  | --- |
 | B111  | A58: afrit 11 (Goirle) – afrit 10 (Hilvarenbeek)  | 24  | 4542  | --- |
 | B120  | A58: afrit 10 (Hilvarenbeek) – knp. De Baars  | 19  | 4140  | --- |
 | B6  | A58: knp. De Baars – afrit 8 (Oirschot)  | 16  | 4065  | --- |
 | B141  | A58: afrit 8 (Oirschot) – knp. Batadorp  | 18  | 3188  | --- |
-| --- |  *A2/A58: knp.Batadorp – knp. Ekkerswijer*   | --- | --- | Zie wegvak B7 op rijksweg A2  |
+| --- | *A2/A58: knp.Batadorp – knp. Ekkerswijer*  | --- | --- | Zie wegvak B7 op rijksweg A2  |
 | B8  | A58: knp. Ekkersweijer – A50 (Eindhoven )  | 0  | 3000  | --- |
-| --- |  *Rijksweg N59/A59*   | --- | --- | --- |
+| --- | *Rijksweg N59/A59*  | --- | --- | --- |
 | Ze38  | N59: N57 (Serooskerke) – afrit N256 (Zierikzee)  | 0  | 1000  | Wegtype buiten bebouwde kom  |
-| Ze39  | N59: afrit N256 (Zierikzee) – Bruinisse  | 0  | 1000  | Wegtype buiten bebouwde kom  |
+| Ze39  | N59: afrit N256 (Zierikzee) – Bruinisse   | 0  | 1000  | Wegtype buiten bebouwde kom  |
 | Ze40  | N59: Bruinisse – afrit N257 (incl. Grevelingendam)  | 0  | 1000  | Wegtype buiten bebouwde kom  |
 | Z94  | N59: afrit N257 – afrit N215 (Oude-Tonge)  | 0  | 1000  | Wegtype buiten bebouwde kom  |
 | Z93  | N59: afrit N215 (Oude-Tonge) – knp. Hellegatsplein  | 0  | 1000  | Wegtype buiten bebouwde kom  |
-| --- |  *A29/A59: knp. Hellegatsplein – knp. Sabina*   | --- | --- | Zie wegvak B19 op rijksweg A29  |
+| --- | *A29/A59: knp. Hellegatsplein – knp. Sabina*  | --- | --- | Zie wegvak B19 op rijksweg A29  |
 | B14  | A59: knp. Sabina – afrit 24 (Fijnaart)  | 0  | 3000  | --- |
 | B98  | A59: afrit 24 (Fijnaart) – knp. Noordhoek  | 0  | 3000  | --- |
 | B15  | A59: knp. Zonzeel – afrit 31 (Terheijden)  | 10  | 4000  | --- |
@@ -982,21 +982,21 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | B16  | A59: knp. Hooipolder – afrit 37 (Waalwijk)  | 0  | 3000  | --- |
 | B17  | A59: afrit 37 (Waalwijk) – afrit 42 (Heusden)  | 0  | 3000  | --- |
 | B18  | A59: afrit 42 (Heusden) – knp. Empel  | 0  | 3000  | --- |
-| --- |  *A2/A59: knp. Empel – knp. Hintham*   | --- | --- | Zie wegvak B60 op rijksweg A2  |
+| --- | *A2/A59: knp. Empel – knp. Hintham*  | --- | --- | Zie wegvak B60 op rijksweg A2  |
 | B78  | A59: knp. Hintham – knp. Paalgraven  | 0  | 3000  | --- |
-| --- |  *Rijksweg N61*   | --- | --- | --- |
+| --- | *Rijksweg N61*  | --- | --- | --- |
 | Ze28  | N62: N683 (Westdorpe) – N62 (Terneuzen)  | 0  | 1000  | Wegtype buiten bebouwde kom  |
 | Ze61  | N61: N252 (Terneuzen) – N62 (Terneuzen)  | 0  | 1000  | Wegtype buiten bebouwde kom  |
-| --- |  *Rijksweg N62*   | --- | --- | --- |
+| --- | *Rijksweg N62*  | --- | --- | --- |
 | Ze6  | N62: N254 (Nieuwdorp) – N666 ('s-Heerenhoek)  | 0  | 3000  | Wegtype buiten bebouwde kom  |
 | Ze58  | N62: N666 ('s-Heerenhoek) – N681 (Terneuzen) (incl. Westerscheldetunnel)  | 0  | 0  | Categorie C tunnel  |
-| --- |  *Rijksweg A65*   | --- | --- | --- |
+| --- | *Rijksweg A65*  | --- | --- | --- |
 | B58  | A65: knp. Vught – afrit 3 (Tilburg Noord)  | 0  | 1500  | --- |
 | B138  | A65: afrit 3 (Tilburg Noord) – knp. De Baars  | 0  | 1500  | --- |
-| --- |  *Rijksweg A67*   | --- | --- | --- |
+| --- | *Rijksweg A67*  | --- | --- | --- |
 | B71  | A67: Grens België – afrit 32 (Eersel)  | 28  | 5844  | --- |
 | B103  | A67: afrit 32 (Eersel) – knp. De Hogt  | 29  | 5739  | --- |
-| --- |  *A2/A67: knp. De Hogt – knp. Leenderheide*   | --- | --- | Zie wegvakken B72 en B104 op rijksweg A2  |
+| --- | *A2/A67: knp. De Hogt – knp. Leenderheide*  | --- | --- | Zie wegvakken B72 en B104 op rijksweg A2  |
 | B73  | A67: knp. Leenderheide – afrit 35 (Someren)  | 29  | 6719  | --- |
 | B112  | A67: afrit 35 (Someren) – afrit 38 (Helden)  | 32  | 4832  | --- |
 | L5  | A67: afrit 38 (Helden) – afrit 39 (Sevenum)  | 26  | 5247  | --- |
@@ -1004,7 +1004,7 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | L6  | A67: Knp. Zaarderheiken – afrit 40 (Velden)  | 30  | 8402  | --- |
 | L90  | A67: afrit 40 (Velden) – afrit 41 (Venlo)  | 29  | 7025  | --- |
 | L91  | A67: afrit 41 (Venlo) – Grens Duitsland  | 27  | 4185  | --- |
-| --- |  *Rijksweg A73*   | --- | --- | --- |
+| --- | *Rijksweg A73*  | --- | --- | --- |
 | G28  | A73: knp. Ewijk – knp. Neerbosch  | 13  | 4848  | --- |
 | G27  | A73: knp. Neerbosch – afrit 1A (Wijchen)  | 13  | 3395  | --- |
 | G26  | A73: afrit 1A (Wijchen) – afrit 3 (Malden)  | 15  | 4124  | --- |
@@ -1025,7 +1025,7 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | L112  | A73: afrit 20 (Roermond-Oost) – afrit 21 (Linne) (incl. Roertunnel)  | 0  | 3000  | Categorie A tunnel. Weg was nog niet in gebruik ten tijde van de tellingen  |
 | L113  | A73: afrit 21 (Linne) – afrit 22 (Maasbree)  | 0  | 3000  | Weg was nog niet in gebruik ten tijde van de tellingen  |
 | L115  | A73: afrit 22 (Maasbree) – knp. Het Vonderen  | 0  | 3000  | Weg was nog niet in gebruik ten tijde van de tellingen  |
-| --- |  *Rijksweg A76*   | --- | --- | --- |
+| --- | *Rijksweg A76*  | --- | --- | --- |
 | L62  | A76: Grens België – knp. Kerensheide  | 13  | 4485  | --- |
 | L63  | A76: knp. Kerensheide – afrit 2 (Geleen)  | 14  | 4985  | --- |
 | L93  | A76: afrit 2 (Geleen) – afrit 5 (Nuth)  | 6  | 4205  | --- |
@@ -1033,26 +1033,26 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | L64  | A76: knp. Ten Esschen – knp. Kunderberg  | 7  | 4397  | --- |
 | L65  | A76: knp. Kunderberg – knp. Bocholz  | 2  | 4000  | --- |
 | L66  | A76: knp. Bocholz – grens Duitsland  | 3  | 4000  | --- |
-| --- |  *Rijksweg A77*   | --- | --- | --- |
+| --- | *Rijksweg A77*  | --- | --- | --- |
 | B97  | A77: knp. Rijkevoort – afrit 2 (Gennep)  | 0  | 4000  | --- |
 | L8  | A77: afrit 2 (Gennep) – Grens Duitsland  | 0  | 4000  | --- |
-| --- |  *Rijksweg A79*   | --- | --- | --- |
+| --- | *Rijksweg A79*  | --- | --- | --- |
 | L109  | A79: knp. Kruisdonk – afrit 1 (Bunde)  | 0  | 1000  | --- |
 | L61  | A79: afrit 1 (Bunde) – afrit 4 (Hulsberg)  | 0  | 1000  | --- |
 | L102  | A79: afrit 4 (Hulsberg) – knp. Kunderberg  | 0  | 1000  | --- |
 | L67  | A79: knp. Kunderberg – Keulseweg Heerlen  | 0  | 500  | --- |
-| --- |  *Rijksweg N99*   | --- | --- | --- |
+| --- | *Rijksweg N99*  | --- | --- | --- |
 | N30  | N99: N250 (De Kooy) – afrit N249 (van Ewijcksluis)  | 0  | 500  | Wegtype buiten bebouwde kom  |
 | N79  | N99: N249 (van Ewijcksluis) – A7  | 0  | 500  | Wegtype buiten bebouwde kom  |
-| --- |  *Rijksweg A200/N200*   | --- | --- | --- |
+| --- | *Rijksweg A200/N200*  | --- | --- | --- |
 | N96  | N200: Haarlem – knp. Rottepolderplein  | 0  | 1000  | --- |
 | N61  | A200/N200: knp. Rottepolderplein – A10  | 15  | 1037  | --- |
-| --- |  *Knooppunten (niet genoemde bogen hebben geen zone)*   | --- |
+| --- | *Knooppunten (niet genoemde bogen hebben geen zone)*  | --- |
 | U90  | knp. Hoevelaken: aansluiting A28/A1 van afrit 9 Nijkerk en afrit 6 Leusden Zuid richting A1 afrit 13 Amersfoort Noord  | 5  | 4000  | --- |
 | U82  | knp. Hoevelaken: aansluiting A1 van afrit 13 Amersfoort Noord – A28 richting afrit 6 Leusden Zuid  | 7  | 6795  | --- |
 | G31  | knp. Hoevelaken: aansluiting A1 (van afrit 13 Amersfoort Noord) – A28 richting afrit 9 Nijkerk  | 10  | 8781  | --- |
 | G2  | knp. Beekbergen: aansluiting A50 – A1 richting afrit 23 Deventer  | 7,5  | 4000  | --- |
-| G4  | knp. Beekbergen: aansluiting A1 (van afrit 19 Hoenderloo) – A50 richting knp. Waterberg  | 5,5  | 3000  | --- |
+| G4   | knp. Beekbergen: aansluiting A1 (van afrit 19 Hoenderloo) – A50 richting knp. Waterberg  | 5,5  | 3000  | --- |
 | B63  | knp. Batadorp: aansluiting A58 van knp. Ekkersweijer – A2 richting afrit 30 Eindhoven Centrum  | 10,5  | 4421  | --- |
 | B141  | knp. Batadorp: aansluiting A2 (afrit 30 Eindhoven Centrum) – A58 afrit 8 Oirschot  | 9  | 3188  | --- |
 | B72  | knp. De Hogt: aansluiting A2 – A67 richting afrit 33 Waalre  | 15  | 8400  | --- |
@@ -1062,7 +1062,7 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | B73  | knp. Leenderheide: aansluiting A2 – A67 richting afrit 35 Someren  | 14,5  | 6719  | --- |
 | B104  | knp. Leenderheide: aansluiting Leenderweg – A67 richting afrit 33 Waalre  | 20  | 9570  | --- |
 | Z8  | knp. Prins Clausplein: aansluiting A12 van Benoordenhoutseweg/Utrechtsebaan/Zuid Hollandlaan – A4 richting knp. Ypenburg  | 11,5  | 3743  | --- |
-| Z8  | knp. Prins Clausplein: aansluiting A12 van afrit 7 Zoetermeer – A4 richting knp. Ypenburg  | 11,5  | 3743  | --- |
+| Z8   | knp. Prins Clausplein: aansluiting A12 van afrit 7 Zoetermeer – A4 richting knp. Ypenburg  | 11,5  | 3743  | --- |
 | Z11  | knp. Kethelplein: aansluiting A20 van afrit 6 Maasdijk – A4 richting knp. Benelux  | 11,5  | 500  | --- |
 | Z49  | knp. Kethelplein: aansluiting A4/A20 richting knp. Kleinpolderplein  | 10  | 1050  | --- |
 | Z11  | knp. Kethelplein: aansluiting A20 van knp. Kleinpolderplein – A4 richting knp. Benelux  | 11,5  | 500  | --- |
@@ -1075,7 +1075,7 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | B35  | knp Markiezaat: aansluiting A4 – A58 richting grens Belgie  | 11  | 3098  | --- |
 | B127  | knp Markiezaat: aansluiting A58 – A4 richting afrit 30 Hoogerheide  | 15  | 5715  | --- |
 | Gr30  | knp. Europaplein: aansluiting A7 – N7 richting knp. Julianaplein  | 6  | 1000  | --- |
-| Z136  | knp. Gouwe: aansluiting A12 – A20 richting afrit 17 Nieuwerkerk aan de IJssel  | 5  | 8847  | --- |
+| Z136   | knp. Gouwe: aansluiting A12 – A20 richting afrit 17 Nieuwerkerk aan de IJssel  | 5  | 8847  | --- |
 | Z18  | knp. Gouwe: aansluiting A20 – A12 richting afrit 11 Gouda  | 5  | 8486  | --- |
 | U86  | knp. Oudenrijn: aansluiting A2 – A12 richting afrit 15 De Meern  | 5  | 8468  | --- |
 | U9  | knp. Oudenrijn: aansluiting A2 – A12 richting afrit 18 Hoograven  | 12,5  | 6855  | --- |
@@ -1089,7 +1089,7 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | G4  | knp. Waterberg: aansluiting A12 ( van knp. Velperbroek) – A50 richting knp. Beekbergen  | 5,5  | 3000  | --- |
 | G4  | knp. Waterberg: aansluiting A12 (van knp. Grijsoord) – A50 richting knp. Beekbergen  | 5,5  | 3000  | --- |
 | G11  | knp. Velperbroek: aansluiting A348 – A12 richting knp. Waterberg  | 8  | 3428  | --- |
-| Z8  | knp. Ypenburg: aansluiting A13 – A4 richting knp. Prins Clausplein  | 11,5  | 3743  | --- |
+| Z8   | knp. Ypenburg: aansluiting A13 – A4 richting knp. Prins Clausplein  | 11,5  | 3743  | --- |
 | Z29  | knp. Ypenburg: aansluiting A4 van afrit 12 Den Haag Zuid – A13 richting afrit 9 Delft  | 8,5  | 3639  | --- |
 | Z29  | knp. Ypenburg: aansluiting A4 van afrit 12 Den Haag Zuid – A13 richting afrit 9 Delft  | 8,5  | 3639  | --- |
 | Z114  | knp. Kleinpolderplein: aansluiting A20 – A 13 richting afrit 11 Berkel en Rodenrijs  | 5  | 2717  | --- |
@@ -1112,33 +1112,33 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | G6  | knp. Valburg: aansluiting A15 (van afrit 34 Echteld en knp. Ressen) – A50 richting knp. Ewijk  | 9  | 4932  | --- |
 | G17  | knp. Valburg: aansluiting A50 (van knp. Valburg en knp. Ewijk) – A15 richting knp. Ressen  | 5  | 4000  | --- |
 | G5  | knp. Valburg: aansluiting A15 (van afrit 34 Echteld en knp. Ressen) – A50 richting knp. Grijsoord  | 5  | 3150  | --- |
-| G16  | knp. Valburg: aansluiting A50 (van knp. Valburg en knp. Ewijk) – A15 richting afrit 34 Echteld  | 8  | 10044  | --- |
-| G17  | knp. Ressen: aansluiting A325 – A15 richting knp. Valburg  | 5  | 4000  | --- |
+| G16   | knp. Valburg: aansluiting A50 (van knp. Valburg en knp. Ewijk) – A15 richting afrit 34 Echteld  | 8  | 10044  | --- |
+| G17   | knp. Ressen: aansluiting A325 – A15 richting knp. Valburg  | 5  | 4000  | --- |
 | Z54  | knp. Terbregseplein: aansluiting A20 (van afrit 14 Rotterdam Centrum) – A16 richting afrit 25 Rotterdam Centrum  | 14  | 11421  | --- |
 | Z51  | knp. Terbregseplein: aansluiting A16 – A20 richting afrit 17 Nieuwerkerk aan de IJssel  | 10  | 10952  | --- |
-| Z125  | knp. Terbregseplein: aansluiting A16 afrit 25 Rotterdam Centrum – A20 richting afrit 14 Rotterdam Centrum  | 5,5  | 3656  | --- |
+| Z125   | knp. Terbregseplein: aansluiting A16 afrit 25 Rotterdam Centrum – A20 richting afrit 14 Rotterdam Centrum  | 5,5  | 3656  | --- |
 | Z54  | knp. Terbregseplein: aansluiting A20 (van afrit 17 Nieuwerkerk aan de IJssel) – A16 richting afrit 25 Rotterdam Centrum  | 14  | 11421  | --- |
 | B11  | knp. Klaverpolder: aansluiting A16 (van afrit 20 's Gravendeel) – A17 richting afrit 26 Industrie Moerdijk  | 13,5  | 3627  | --- |
-| B37  | knp. Klaverpolder: aansluiting A17/A16 richting knp. Zonzeel  | 16,5  | 6519  | --- |
+| B37   | knp. Klaverpolder: aansluiting A17/A16 richting knp. Zonzeel  | 16,5  | 6519  | --- |
 | Z58  | knp. Klaverpolder: aansluiting A17 – A16 richting afrit 20 's Gravendeel  | 25  | 9047  | --- |
-| B11  | knp. Klaverpolder: aansluiting A16 ( van knp. Zonzeel) – A17 richting afrit 26 Industrie Moerdijk  | 13,5  | 3627  | --- |
+| B11   | knp. Klaverpolder: aansluiting A16 ( van knp. Zonzeel) – A17 richting afrit 26 Industrie Moerdijk  | 13,5  | 3627  | --- |
 | B15  | knp. Zonzeel: aansluiting A16 (van knp. Klaverpolder) – A59 richting frit 31 Terheijden  | 5  | 4000  | --- |
 | B15  | knp. Zonzeel: aansluiting A16 ( van afrit 17 Prinsenbeek) – A59 richting afrit 31 Terheijden  | 5  | 4000  | --- |
-| B37  | knp. Zonzeel: aansluiting A59/A16 richting knp. Klaverpolder  | 16,5  | 6519  | --- |
+| B37   | knp. Zonzeel: aansluiting A59/A16 richting knp. Klaverpolder  | 16,5  | 6519  | --- |
 | B38  | knp. Zonzeel: aansluiting A59 – A16 richting afrit 17 Prinsenbeek  | 14  | 5466  | --- |
 | B40  | knp. Princeville: aansluiting A58 – A16 richting afrit 15 Rijsbergen  | 13  | 4728  | --- |
 | B39  | knp. Princeville: aansluiting A58 – A16 richting afrit 17 Prinsenbeek  | 16,5  | 5364  | --- |
 | B4  | knp. Galder: aansluiting A16 (van afrit 15 Rijsbergen) – A58 richting afrit 14 Ulvenhout  | 12  | 3950  | --- |
 | B4  | knp. Galder: aansluiting A16 (van grens Belgie) – A58 richting afrit 14 Ulvenhout  | 12  | 3950  | --- |
-| B108  | knp. Galder: aansluiting A58 – A16 richting grens Belgie  | 5  | 4000  | --- |
+| B108   | knp. Galder: aansluiting A58 – A16 richting grens Belgie  | 5  | 4000  | --- |
 | B116  | knp. Galder: aansluiting A58 – A16 richting afrit 15 Rijsbergen  | 15  | 4295  | --- |
 | B13  | knp. Noordhoek: aansluiting A59 – A17 richting afrit 21 Roosendaal Noord  | 8,5  | 3000  | --- |
 | B100  | knp. Noordhoek: aansluiting A59 – A17 richting afrit 25 Zevenbergen  | 10  | 4011  | --- |
 | B2  | knp. De Stok: aansluiting A58 – A17 richting knp. Zoomland  | 14,5  | 3720  | --- |
 | B99  | knp. De stok: aansluiting A58 – A17 richting afrit 21 Roosendaal Noord  | 9,5  | 3122  | --- |
 | U83  | knp. Rijnsweerd: aansluiting A27 (van knp. Lunetten) – A28 richting afrit 3 Den Dolder  | 6,5  | 6707  | --- |
-| U6  | knp. Rijnsweerd: aansluiting A28 – A27 richting knp. Lunetten  | 11,5  | 7298  | --- |
-| U83  | knp. Rijnsweerd: aansluiting A27 (van afrit 31 Ring Utrecht Noord) – A28 richting afrit 3 Den Dolder  | 6,5  | 6707  | --- |
+| U6   | knp. Rijnsweerd: aansluiting A28 – A27 richting knp. Lunetten  | 11,5  | 7298  | --- |
+| U83   | knp. Rijnsweerd: aansluiting A27 (van afrit 31 Ring Utrecht Noord) – A28 richting afrit 3 Den Dolder  | 6,5  | 6707  | --- |
 | U7  | knp. Everdingen: aansluiting A2 (van afrit 12 Everdingen) – A27 richting knp. Lunetten)  | 5  | 5832  | --- |
 | Z128  | knp. Everdingen: aansluiting A2 – A27 richting afrit 25 Noordeloos  | 8  | 5424  | --- |
 | B102  | knp. Hooipolder: aansluiting A59 – A27 richting afrit 19 Oosterhout  | 5  | 4000  | --- |
@@ -1147,7 +1147,7 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | B101  | knp. Annabsoch: aansluiting A58 (van afrit 14 Ulvenhout) – A27 richting Afrit 15 Breda  | 11,5  | 3771  | --- |
 | O111  | knp. Lankhorst: aansluiting A28 – A32 richting afrit 4 Havelte  | 9  | 3314  | --- |
 | O114  | knp. Hattemerbroek: A28 – N50 richting Kampen  | 6,5  | 3293  | --- |
-| G6  | knp. Ewijk: aansluiting A50 – A73 richting knp. Neerbosch  | 9  | 4932  | --- |
+| G6   | knp. Ewijk: aansluiting A50 – A73 richting knp. Neerbosch  | 9  | 4932  | --- |
 | G28  | knp. Ewijk: aansluiting A73 – A50 richting knp. Valburg  | 6,5  | 4848  | --- |
 | Ze50  | knp. De Poel: aansluiting A256 – A58 richting afrit 36 Heinkenzand  | 5  | 4229  | --- |
 | B6  | knp. De Baars: aansluiting A58 (van afrit 10 Hilvarenbeek) – A65 richting afrit 8 Oirschot  | 8  | 4065  | --- |
@@ -1160,25 +1160,25 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | L64  | knp. Ten Esschen: aansluiting A76 (van afrit 5 Nuth) – A76 richting knp. Kunderberg  | 5  | 4397  | --- |
 | N61  | knp. Rottepolderplein: aansluiting A9 (van knp. Velsen en knp. Rottepolderplein/Haarlem Zuid – A200 richting A10/N200/Haarlemmerweg Amsterdam (A10 afrit S103 Haarlem)  | 7,5  | 1037  | --- |
 
-<sup>1</sup> Wijzigingen ten opzichte van de tabel zoals deze luidde voor 31 juli 2012. 
+<sup>1</sup> Wijzigingen ten opzichte van de tabel zoals deze luidde voor 31 juli 2012.
 
-### Bijlage  3  
+### Bijlage  3 
 
 ####– Tabel vaarwegen en bijbehorende vervoerscijfers Basisnet water
 
-| Vaarwegen  | Aantallen schepen met gevaarlijke stoffen voor berekening van het GR <sup>1</sup>  | Categorie  | Naamgeving  | Type schepen  | LF1  | LF2  | LT1  | LT2  | GF2  | GF3  | GT3  | GT5  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Vaarwegen  | Aantallen schepen met gevaarlijke stoffen voor berekening van het GR<sup>1</sup>  | Categorie  | Naamgeving  | Type schepen  | LF1   | LF2   | LT1   | LT2   | GF2   | GF3   | GT3   | GT5  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | Route Rotterdam – Duitsland  | Binnenvaartschepen  | 9.882  | 13.958  | 146  | 0  | 0  | 2.135  | 196  | 0  |
-| Rood  | Ingang haven  | Zeeschepen  | 9.196  | 3.334  | 347  | 0  | 1.046  | 902  | 38  | 0 <sup>2</sup>  |
-| Rood  | Noord-ingang  | 5.475  | 2.563  | 297  | 0  | 227  | 260  | 0  | 0 <sup>2</sup>  |
-| Rood  | Zuid-ingang  | 3.721  | 771  | 50  | 0  | 819  | 642  | 38  | 0  |
-| Rood  | Beerkanaal (o.a. Maasvlakte)  | 1.241  | 442  | 48  | 0  | 69  | 61  | 3  | 0  |
-| Rood  | Calandkanaal  | 2.480  | 329  | 2  | 0  | 750  | 581  | 35  | 0  |
-| Rood  | Nieuwe Waterweg (tot splitsing Oude en Nieuwe Maas)  | 5.475  | 2.563  | 297  | 0  | 227  | 260  | 0  | 0 <sup>2</sup>  |
-| Rood  | Nieuwe Maas (route splitsing Oude en Nieuwe Maas – kern Pernis)  | 1.257  | 489  | 53  | 0  | 39  | 128 <sup>2</sup>  | 0  | 0  |
-| Rood  | Nieuwe Maas (route kern Pernis – Delfshavense Schie)  | 297  | 67  | 33  | 0  | 5  | 40 <sup>2</sup>  | 0  | 0  |
-| Rood  | Oude Maas (route splitsing Oude en Nieuwe Maas – Botlekbrug)  | 524  | 202  | 17  | 0  | 86  | 77  | 0  | 0 <sup>2</sup>  |
-| Rood  | Oude Maas (route Botlekbrug – Drechtsteden)  | 323  | 115  | 7  | 0  | 84  | 77  | 0  | 0 <sup>2</sup>  |
+| Rood  | Ingang haven  | Zeeschepen  | 9.196   | 3.334   | 347   | 0   | 1.046   | 902   | 38   | 0<sup>2</sup>  |
+| Rood  | Noord-ingang  | 5.475   | 2.563   | 297   | 0   | 227   | 260   | 0   | 0<sup>2</sup>   |
+| Rood  | Zuid-ingang  | 3.721   | 771   | 50   | 0   | 819   | 642   | 38   | 0   |
+| Rood  | Beerkanaal (o.a. Maasvlakte)  | 1.241   | 442   | 48   | 0   | 69   | 61   | 3   | 0   |
+| Rood  | Calandkanaal  | 2.480   | 329   | 2   | 0   | 750   | 581   | 35   | 0   |
+| Rood  | Nieuwe Waterweg (tot splitsing Oude en Nieuwe Maas)  | 5.475   | 2.563   | 297   | 0   | 227   | 260   | 0   | 0<sup>2</sup>   |
+| Rood  | Nieuwe Maas (route splitsing Oude en Nieuwe Maas – kern Pernis)  | 1.257   | 489   | 53   | 0   | 39   | 128<sup>2</sup>   | 0   | 0   |
+| Rood  | Nieuwe Maas (route kern Pernis – Delfshavense Schie)  | 297   | 67   | 33   | 0   | 5   | 40<sup>2</sup>   | 0   | 0   |
+| Rood  | Oude Maas (route splitsing Oude en Nieuwe Maas – Botlekbrug)  | 524   | 202   | 17   | 0   | 86   | 77   | 0   | 0<sup>2</sup>   |
+| Rood  | Oude Maas (route Botlekbrug – Drechtsteden)  | 323   | 115   | 7   | 0   | 84   | 77   | 0   | 0<sup>2</sup>   |
 | Zwart  | Beneden Merwede  | --- |
 | Zwart  | Bijlandsch kanaal  |
 | Zwart  | Boven Merwede  |
@@ -1187,22 +1187,22 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | Zwart  | Noord  |
 | Zwart  | Oude Maas (route Beneden Merwede – Dordtse Kil)  |
 | Zwart  | Waal  |
-| Route Amsterdam – Rijn  | Binnenvaartschepen  | 8.303  | 9.063  | 0  | 0  | 0  | 332  | 0  | 0  |
-| Zeeschepen (inclusief buitenhaven)  | 319  | 368  | 0  | 0  | 0  | 113  | 22  | 0  |
+| Route Amsterdam – Rijn  | Binnenvaartschepen  | 8.303   | 9.063   | 0   | 0   | 0   | 332   | 0   | 0   |
+| Zeeschepen (inclusief buitenhaven)  | 319   | 368   | 0   | 0   | 0   | 113   | 22   | 0   |
 | Rood  | Noordzeekanaal (route Buitenhaven Noordzee-Coenhaven Amsterdam)  | --- |
 | Zwart  | Amsterdam-Rijnkanaal  |
 | Zwart  | Het IJ (route Coenhaven-Oranjesluizen Amsterdam)  |
 | Zwart  | Lek (route Nieuwe Maas-Lekkanaal)  | --- |
 | Zwart  | Lekkanaal  |
 | Zwart  | Pannerdenskanaal  |
-| Route Westerschelde  | Binnenvaartschepen  | 4.691  | 1.089  | 1  | 7  | 0  | 37  | 62  | 0  |
-| Zeeschepen  | 0  | 0  | 0  | 0  | 814 <sup>2</sup>  | 2205 <sup>2</sup>  | 90 <sup>2</sup>  | 0  |
+| Route Westerschelde  | Binnenvaartschepen  | 4.691   | 1.089   | 1   | 7   | 0   | 37   | 62   | 0   |
+| Zeeschepen  | 0   | 0   | 0   | 0   | 814<sup>2</sup>   | 2205<sup>2</sup>   | 90<sup>2</sup>   | 0   |
 | Rood  | Wielingen  | --- |
 | Rood  | Westerschelde (incl. Oostgat)  |
-| Kanaal Gent-Terneuzen  | Binnenvaartschepen  | 4.691  | 1.089  | 1  | 7  | 0  | 37  | 62  | 0  |
-| Zeeschepen  | 242 <sup>2</sup>  | 302 <sup>2</sup>  | 20 <sup>2</sup>  | 8 <sup>2</sup>  | 5 <sup>2</sup>  | 5 <sup>2</sup>  | 92 <sup>2</sup>  | 0  |
-| Route Westerschelde – Rijn  | Binnenvaartschepen  | 7.191  | 5.612  | 90  | 0  | 0  | 3.735  | 41  | 0  |
-| Zeeschepen  | 239  | 82  | 1  | 0  | 70  | 74  | 0  | 0  |
+| Kanaal Gent-Terneuzen  | Binnenvaartschepen  | 4.691   | 1.089   | 1   | 7   | 0   | 37   | 62   | 0   |
+| Zeeschepen  | 242<sup>2</sup>   | 302<sup>2</sup>   | 20<sup>2</sup>  | 8<sup>2</sup>   | 5<sup>2</sup>   | 5<sup>2</sup>   | 92<sup>2</sup>   | 0   |
+| Route Westerschelde – Rijn  | Binnenvaartschepen  | 7.191   | 5.612   | 90   | 0   | 0   | 3.735   | 41   | 0   |
+| Zeeschepen  | 239   | 82   | 1   | 0   | 70   | 74   | 0   | 0   |
 | Rood  | Dordtsche Kil  | --- |
 | Rood  | Hollandsch Diep (route Dordtsche Kill-haven Moerdijk)  |
 | Zwart  | Brabantsche Vaarwater  |
@@ -1215,18 +1215,18 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | Zwart  | Schelde-Rijnkanaal  |
 | Zwart  | Volkerak  |
 | Zwart  | Zijpe  |
-| Route Amsterdam – Noord- Nederland  | Binnenvaartschepen  | 2.786  | 1.162  | 0  | 0  | 0  | 0  | 30  | 0  |
+| Route Amsterdam – Noord- Nederland  | Binnenvaartschepen  | 2.786   | 1.162   | 0   | 0   | 0   | 0   | 30   | 0   |
 | Zwart  | Eemskanaal  | --- |
 | Zwart  | IJmeer (route Oranjesluizen Amsterdam-Markermeer)  |
 | Zwart  | IJsselmeer (route Houtrib  sluizen Lelystad-Markermeer/ Prinses Magrietkanaal)  |
 | Zwart  | Markermeer (route IJmeer-Houtribsluizen Lelystad)  | --- |
 | Zwart  | Prinses Margrietkanaal  |
 | Zwart  | Van Starkenborghkanaal  |
-| Route Rijn – Oost-Nederland  | Binnenvaartschepen  | 810  | 347  | 0  | 0  | 0  | 0  | 0  | 0  |
+| Route Rijn – Oost-Nederland   | Binnenvaartschepen  | 810   | 347   | 0   | 0   | 0   | 0   | 0   | 0   |
 | Zwart  | Geldersche IJssel  | --- |
 | Zwart  | Keteldiep  |
 | Zwart  | Ketelmeer (route Ketelbrug-Keteldiep)  |
-| Route Maasroute  | Binnenvaartschepen  | 803  | 2.710  | 40  | 0  | 0  | 289  | 258  | 0  |
+| Route Maasroute  | Binnenvaartschepen  | 803   | 2.710   | 40   | 0   | 0   | 289   | 258   | 0   |
 | Zwart  | Julianakanaal  | --- |
 | Zwart  | Kanaal van Sint Andries  |
 | Zwart  | Lateraalkanaal Linne/Buggenum  |
@@ -1234,28 +1234,28 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | Zwart  | Maas (route Lateraalkanaal Linne/Buggenum-Julianakanaal)  |
 | Zwart  | Maas-Waalkanaal  |
 
-<sup>1</sup> Voor de rode vaarwegen moeten GR-berekeningen worden uitgevoerd met de aantallen binnenvaart- plus zeeschepen. Voor zwarte vaarwegen moeten GR-berekeningen worden uitgevoerd met alleen de aantallen binnenvaartschepen. <sup>2</sup> Wijzigingen ten opzichte van de tabel zoals deze luidde voor 31 juli 2012. 
+<sup>1</sup> Voor de rode vaarwegen moeten GR-berekeningen worden uitgevoerd met de aantallen binnenvaart- plus zeeschepen. Voor zwarte vaarwegen moeten GR-berekeningen worden uitgevoerd met alleen de aantallen binnenvaartschepen.<sup>2</sup> Wijzigingen ten opzichte van de tabel zoals deze luidde voor 31 juli 2012.
 
-### Bijlage  4  
+###Bijlage 4 
 
 ####– Tabel afstanden en vervoerscijfers Basisnet Spoor
 
-| 1  | 2  | 3  | 4  | 5  | 6  | 7  | Spoorvak begincoördinaat, (m)  | Spoorvak eindcoördinaat, (m)  | Naamgeving  | Breedtecategorie spoor (m)  | PR10 <sup>-6</sup> contour (m)  | Transportgegevens voor het berekenen van het GR  (in aantal ketelwagenequivalenten)  | Bijzonderheden  K = Kopmaken  L = Lage  snelheid  W = Wissel  T *i* = Tunnel  V *i* = Veiligheids- maatregel  (*i* = volgnr.)  | Brandbare gassen  | Toxische gassen  | Zeer toxische gassen  | Zeer brandbare vloeistoffen  | Toxische vloeistoffen  | Zeer toxische vloeistoffen  | Warme/Koude Bleveverhouding  | X : Y  | X : Y  | A  | B2  | B3  | C3  | D3  | D4  | A  | B2  |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|  *40809 : 385096*   |  *51807 : 390975*   |  *Traject 11010: Sloehaven – Roosendaal West*   | --- | --- |  *10300*   |  *600*   |  *0*   |  *2700*   |  *600*   |  *300*   |  *0.03*   |  *1.84*   |  *Vlissingen*   |
-| 40809 : 385096  | 40851 : 385197  | 1: Sloehaven – Franse Monument  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 40851 : 385197  | 40866 : 385248  | 2: Sloehaven – Franse Monument  | 25–49  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 40866 : 385248  | 40872 : 385286  | 3: Sloehaven – Franse Monument  | 50–74  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 40872 : 385286  | 40874 : 385322  | 4: Sloehaven – Franse Monument  | 75–99  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 40874 : 385322  | 40866 : 385382  | 5: Sloehaven – Franse Monument  | 100–124  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 40866 : 385382  | 40849 : 385430  | 6: Sloehaven – Franse Monument  | 125–149  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 40849 : 385430  | 40843 : 385446  | 7: Sloehaven – Franse Monument  | 100–124  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 40843 : 385446  | 40841 : 385453  | 8: Sloehaven – Franse Monument  | 125–149  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 40841 : 385453  | 40569 : 385997  | 9: Sloehaven – Franse Monument  | 100–124  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 40569 : 385997  | 40560 : 386034  | 10: Sloehaven – Franse Monument  | 75–99  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 40560 : 386034  | 40554 : 386065  | 11: Sloehaven – Franse Monument  | 50–74  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 40554 : 386065  | 40546 : 386100  | 12: Sloehaven – Franse Monument  | 25–49  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 40546 : 386100  | 40493 : 386243  | 13: Sloehaven – Franse Monument  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 1  | 2  | 3  | 4  | 5  | 6  | 7  | Spoorvak begincoördinaat, (m)  | Spoorvak eindcoördinaat, (m)  | Naamgeving   | Breedtecategorie spoor (m)  | PR10<sup>-6</sup> contour (m)  | Transportgegevens voor het berekenen van het GR  (in aantal ketelwagenequivalenten)  | Bijzonderheden  K = Kopmaken  L = Lage  snelheid  W = Wissel  T*i * = Tunnel  V*i * = Veiligheids- maatregel  (*i* = volgnr.)  | Brandbare gassen  | Toxische gassen  | Zeer toxische gassen  | Zeer brandbare vloeistoffen  | Toxische vloeistoffen  | Zeer toxische vloeistoffen  | Warme/Koude Bleveverhouding  | X : Y  | X : Y  | A  | B2  | B3  | C3  | D3  | D4  | A  | B2  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *40809 : 385096*   |  *51807 : 390975*   |  *Traject 11010: Sloehaven – Roosendaal West *   | --- | --- |  *10300*   |  *600*   |  *0*   |  *2700*   |  *600*   |  *300*   |  *0.03*   |  *1.84*   |  *Vlissingen*   |
+| 40809 : 385096  | 40851 : 385197  | 1: Sloehaven – Franse Monument   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 40851 : 385197  | 40866 : 385248  | 2: Sloehaven – Franse Monument   | 25–49  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 40866 : 385248  | 40872 : 385286  | 3: Sloehaven – Franse Monument   | 50–74  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 40872 : 385286  | 40874 : 385322  | 4: Sloehaven – Franse Monument   | 75–99  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 40874 : 385322  | 40866 : 385382  | 5: Sloehaven – Franse Monument   | 100–124  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 40866 : 385382  | 40849 : 385430  | 6: Sloehaven – Franse Monument   | 125–149  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 40849 : 385430  | 40843 : 385446  | 7: Sloehaven – Franse Monument   | 100–124  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 40843 : 385446  | 40841 : 385453  | 8: Sloehaven – Franse Monument   | 125–149  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 40841 : 385453  | 40569 : 385997  | 9: Sloehaven – Franse Monument   | 100–124  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 40569 : 385997  | 40560 : 386034  | 10: Sloehaven – Franse Monument   | 75–99  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 40560 : 386034  | 40554 : 386065  | 11: Sloehaven – Franse Monument   | 50–74  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 40554 : 386065  | 40546 : 386100  | 12: Sloehaven – Franse Monument   | 25–49  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 40546 : 386100  | 40493 : 386243  | 13: Sloehaven – Franse Monument   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 40493 : 386243  | 39671 : 387511  | 14: Sloehaven – Franse Monument  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 39671 : 387511  | 38545 : 391806  | 15: Sloehaven – Franse Monument  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 38545 : 391806  | 45692 : 391282  | 16: Franse Monument – Bergen Op Zoom  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1264,7 +1264,7 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 50066 : 390985  | 50954 : 390972  | 19: Franse Monument – Bergen Op Zoom  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 50954 : 390972  | 51413 : 390977  | 20: Franse Monument – Bergen Op Zoom  | 25–49  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 51413 : 390977  | 51807 : 390975  | 21: Franse Monument – Bergen Op Zoom  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-|  *51807 : 390975*   |  *90165 : 394400*   |  *Traject 11010: Sloehaven – Roosendaal West*   | --- | --- |  *10300*   |  *600*   |  *0*   |  *2700*   |  *600*   |  *300*   |  *0.03*   |  *1.84*   |  *Woensdrecht*   |
+|  *51807 : 390975*   |  *90165 : 394400*   |  *Traject 11010: Sloehaven – Roosendaal West *   | --- | --- |  *10300*   |  *600*   |  *0*   |  *2700*   |  *600*   |  *300*   |  *0.03*   |  *1.84*   |  *Woensdrecht*   |
 | 51807 : 390975  | 60355 : 387582  | 22: Franse Monument – Bergen Op Zoom  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 60355 : 387582  | 62121 : 386488  | 23: Franse Monument – Bergen Op Zoom  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 62121 : 386488  | 65750 : 384080  | 24: Franse Monument – Bergen Op Zoom  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1278,8 +1278,8 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 80427 : 391335  | 82240 : 391604  | 32: Bergen Op Zoom – Roosendaal West  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 82240 : 391604  | 83229 : 391751  | 33: Bergen Op Zoom – Roosendaal West  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 83229 : 391751  | 89875 : 393630  | 34: Bergen Op Zoom – Roosendaal West  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 89875 : 393630  | 89987 : 393889  | 35: Bergen Op Zoom – Roosendaal West  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 89987 : 393889  | 90165 : 394400  | 36: Bergen Op Zoom – Roosendaal West  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 89875 : 393630  | 89987 : 393889  | 35: Bergen Op Zoom – Roosendaal West   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 89987 : 393889  | 90165 : 394400  | 36: Bergen Op Zoom – Roosendaal West   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 |  *91050 : 395470*   |  *105079 : 399568*   |  *Traject 12010: Roosendaal – Breda West*   | --- | --- |  *4350*   |  *2500*   |  *0*   |  *1450*   |  *50*   |  *50*   |  *0*   |  *0.47*   |  *Woensdrecht*   |
 | 91050 : 395470  | 91307 : 395652  | 1: Roosendaal – Breda West  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
 | 91307 : 395652  | 91559 : 395696  | 2: Roosendaal – Breda West  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
@@ -1340,9 +1340,9 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 158612 : 386089  | 159722 : 384743  | 16: Boxtel – Station Eindhoven  | 0–24  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 159722 : 384743  | 160336 : 384010  | 17: Boxtel – Station Eindhoven  | 0–24  | 6  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 160336 : 384010  | 161211 : 383709  | 18: Boxtel – Station Eindhoven  | 0–24  | 6  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 161211 : 383709  | 161308 : 383731  | 19: Boxtel – Station Eindhoven  | 25–49  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 161308 : 383731  | 161403 : 383762  | 20: Boxtel – Station Eindhoven  | 50–74  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 161403 : 383762  | 162009 : 383891  | 21: Station Eindhoven – Eindhoven  | 75–99  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 161211 : 383709  | 161308 : 383731  | 19: Boxtel – Station Eindhoven  | 25–49  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
+| 161308 : 383731  | 161403 : 383762  | 20: Boxtel – Station Eindhoven  | 50–74  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
+| 161403 : 383762  | 162009 : 383891  | 21: Station Eindhoven – Eindhoven  | 75–99  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
 | 162009 : 383891  | 162526 : 384007  | 22: Station Eindhoven – Eindhoven  | 50–74  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 162526 : 384007  | 162842 : 384016  | 23: Eindhoven – Eindhoven Oost  | 25–49  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 162842 : 384016  | 162895 : 384012  | 24: Eindhoven – Eindhoven Oost  | 0–24  | 6  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
@@ -1406,7 +1406,7 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 95055 : 434696  | 94674 : 435430  | 6: R'dam IJsselmonde – R'dam CS  | 0–24  | 7  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 94674 : 435430  | 94620 : 435525  | 7: R'dam IJsselmonde – R'dam CS  | 25–49  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 94620 : 435525  | 94596 : 435567  | 8: R'dam IJsselmonde – R'dam CS  | 25–49  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 94596 : 435567  | 94463 : 435779  | 9: R'dam IJsselmonde – Rotterdam Westelijke Splitsing  | 0–24  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 94596 : 435567  | 94463 : 435779  | 9: R'dam IJsselmonde – Rotterdam Westelijke Splitsing   | 0–24  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 94463 : 435779  | 93658 : 437840  | Willemspoortunnel  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | T2  |
 | 93658 : 437840  | 92343 : 437912  | 12: Rotterdam Stadion – Rotterdam CS  | 0–24  | 7  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 92343 : 437912  | 92199 : 437895  | 13: R'dam IJsselmonde – R'dam CS  | 0–24  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
@@ -1418,8 +1418,8 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 91296 : 437663  | 91226 : 437656  | 19: Rotterdam – Rotterdam Blijdorp  | 50–74  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
 | 91226 : 437656  | 91009 : 437645  | 20: Rotterdam – Rotterdam Blijdorp  | 75–99  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
 | 91009 : 437645  | 90895 : 437637  | 21: Station R'dam – Rotterdam Blijdorp  | 50–74  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
-| 90895 : 437637  | 90729 : 437648  | 22: Rotterdam Blijdorp – Gouda  | 50–74  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 90729 : 437648  | 90493 : 437795  | 23: Rotterdam Blijdorp – Gouda  | 75–99  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 90895 : 437637  | 90729 : 437648  | 22: Rotterdam Blijdorp – Gouda   | 50–74  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 90729 : 437648  | 90493 : 437795  | 23: Rotterdam Blijdorp – Gouda   | 75–99  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 90493 : 437795  | 90472 : 437831  | 24: Rotterdam Blijdorp – Gouda  | 75–99  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 90472 : 437831  | 90443 : 437933  | 25: Rotterdam Blijdorp – Gouda  | 50–74  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 90443 : 437933  | 90441 : 438037  | 26: Rotterdam Blijdorp – Gouda  | 25–49  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
@@ -1509,13 +1509,13 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 130443 : 481464  | 131343 : 480754  | 3: Diemen – Weesp  | 0–24  | 7  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 131343 : 480754  | 131735 : 480399  | 4: Diemen – Weesp  | 25–49  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 131735 : 480399  | 131953 : 480163  | 5: Diemen – Weesp  | 0–24  | 7  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-|  *131953 : 480163*   |  *138431 : 477960*   |  *Traject 30130: Weesp – Amersfoort West*   | --- | --- |  *1440*   |  *910*   |  *0*   |  *6020*   |  *1110*   |  *180*   |  *0*   |  *0.84*   |  *Schiphol*   |
+|  *131953 : 480163*   |  *138431 : 477960*   |  *Traject 30130: Weesp – Amersfoort West *   | --- | --- |  *1440*   |  *910*   |  *0*   |  *6020*   |  *1110*   |  *180*   |  *0*   |  *0.84*   |  *Schiphol*   |
 | 131953 : 480163  | 132174 : 479956  | 1: Weesp – Hilversum  | 0–24  | 7  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 132174 : 479956  | 133395 : 479356  | 2: Weesp – Hilversum  | 0–24  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 133395 : 479356  | 134121 : 479020  | 3: Weesp – Hilversum  | 0–24  | 7  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 134121 : 479020  | 135052 : 478402  | 4: Weesp – Hilversum  | 0–24  | 7  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 135052 : 478402  | 138431 : 477960  | 5: Weesp – Hilversum  | 0–24  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  *138431 : 477960*   |  *153510 : 462833*   |  *Traject 30130: Weesp – Amersfoort West*   | --- | --- |  *1440*   |  *910*   |  *0*   |  *6020*   |  *1110*   |  *180*   |  *0*   |  *0.84*   |  *Soesterberg*   |
+|  *138431 : 477960*   |  *153510 : 462833*   |  *Traject 30130: Weesp – Amersfoort West *   | --- | --- |  *1440*   |  *910*   |  *0*   |  *6020*   |  *1110*   |  *180*   |  *0*   |  *0.84*   |  *Soesterberg*   |
 | 138431 : 477960  | 139269 : 477119  | 6: Weesp – Hilversum  | 0–24  | 7  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 139269 : 477119  | 139328 : 476851  | 7: Weesp – Hilversum  | 25–49  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 139328 : 476851  | 139584 : 475780  | 8: Weesp – Hilversum  | 0–24  | 7  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
@@ -1533,24 +1533,24 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 141814 : 470258  | 146704 : 469039  | 20: Hilversum – Baarn  | 0–24  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 146704 : 469039  | 148713 : 467906  | 21: Hilversum – Baarn  | 0–24  | 7  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 148713 : 467906  | 148825 : 467775  | 22: Hilversum – Baarn  | 0–24  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 148825 : 467775  | 152079 : 463956  | 23: Baarn – Amersfoort West  | 0–24  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 152013 : 464033  | 152289 : 463709  | 24: Baarn – Amersfoort West  | 0–24  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 152289 : 463709  | 152340 : 463650  | 25: Baarn – Amersfoort West  | 0–24  | 7  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 152340 : 463650  | 152754 : 463181  | 26: Baarn – Amersfoort West  | 0–24  | 7  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 152754 : 463181  | 152856 : 463080  | 27: Baarn – Amersfoort West  | 25–49  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 152856 : 463080  | 152934 : 463011  | 28: Baarn – Amersfoort West  | 50–74  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 152934 : 463011  | 153004 : 462967  | 29: Baarn – Amersfoort West  | 75–99  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 153004 : 462967  | 153104 : 462923  | 30: Baarn – Amersfoort West  | 100–124  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 153104 : 462923  | 153237 : 462883  | 31: Baarn – Amersfoort West  | 125–149  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
-| 153237 : 462883  | 153350 : 462862  | 32: Baarn – Amersfoort West  | 100–124  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
-| 153350 : 462862  | 153448 : 462845  | 33: Baarn – Amersfoort West  | 75–99  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
-| 153448 : 462845  | 153510 : 462833  | 34: Baarn – Amersfoort West  | 50–74  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
+| 148825 : 467775  | 152079 : 463956  | 23: Baarn – Amersfoort West   | 0–24  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 152013 : 464033  | 152289 : 463709  | 24: Baarn – Amersfoort West   | 0–24  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 152289 : 463709  | 152340 : 463650  | 25: Baarn – Amersfoort West   | 0–24  | 7  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 152340 : 463650  | 152754 : 463181  | 26: Baarn – Amersfoort West   | 0–24  | 7  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 152754 : 463181  | 152856 : 463080  | 27: Baarn – Amersfoort West   | 25–49  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 152856 : 463080  | 152934 : 463011  | 28: Baarn – Amersfoort West   | 50–74  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 152934 : 463011  | 153004 : 462967  | 29: Baarn – Amersfoort West   | 75–99  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 153004 : 462967  | 153104 : 462923  | 30: Baarn – Amersfoort West   | 100–124  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 153104 : 462923  | 153237 : 462883  | 31: Baarn – Amersfoort West   | 125–149  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
+| 153237 : 462883  | 153350 : 462862  | 32: Baarn – Amersfoort West   | 100–124  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
+| 153350 : 462862  | 153448 : 462845  | 33: Baarn – Amersfoort West   | 75–99  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
+| 153448 : 462845  | 153510 : 462833  | 34: Baarn – Amersfoort West   | 50–74  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
 |  *153510 : 462833*   |  *155600 : 464517*   |  *Traject 30140: Amersfoort West – Amersfoort Oost*   | --- | --- |  *1440*   |  *910*   |  *0*   |  *6020*   |  *1110*   |  *180*   |  *0*   |  *0.84*   |  *Soesterberg*   |
 | 153510 : 462833  | 153593 : 462824  | 1: Amersfoort West – Amersfoort  | 50–74  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
 | 153593 : 462824  | 153669 : 462824  | 2: Amersfoort West – Amersfoort  | 75–99  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
 | 153669 : 462824  | 153776 : 462829  | 3: Amersfoort West – Amersfoort  | 100–124  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
 | 153776 : 462829  | 154117 : 462853  | 4: Station Amersfoort  | 75–99  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
-| 154117 : 462853  | 154415 : 462986  | 5: Amersfoort – Amersfoort Oost  | 50–74  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
+| 154117 : 462853  | 154415 : 462986  | 5: Amersfoort – Amersfoort Oost   | 50–74  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
 | 154415 : 462986  | 154455 : 463028  | 6: Amersfoort – Amersfoort Oost  | 25–49  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
 | 154455 : 463028  | 154546 : 463136  | 7: Amersfoort – Amersfoort Oost  | 25–49  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 154546 : 463136  | 154754 : 463401  | 8: Amersfoort – Amersfoort Oost  | 0–24  | 7  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
@@ -1583,12 +1583,12 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 207590 : 474798  | 207611 : 474787  | 1: Deventer West – Station Deventer  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 207611 : 474787  | 207903 : 474600  | 2: Deventer West – Station Deventer  | 25–49  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 207821 : 474656  | 207988 : 474538  | 3: Deventer West – Station Deventer  | 25–49  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-|  *207988 : 474538*   |  *210200 : 474118*   |  *Traject 30170: Station Deventer – Deventer Oost*   | --- | --- |  *410*   |  *400*   |  *0*   |  *1100*   |  *100*   |  *100*   |  *0*   |  *0.95*   |  *Deelen K*   |
+|  *207988 : 474538*   |  *210200 : 474118*   |  *Traject 30170: Station Deventer – Deventer Oost *   | --- | --- |  *410*   |  *400*   |  *0*   |  *1100*   |  *100*   |  *100*   |  *0*   |  *0.95*   |  *Deelen K*   |
 | 207988 : 474538  | 208342 : 474456  | 1: Station Deventer – Deventer  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 208342 : 474456  | 209014 : 474686  | 2: Station Deventer – Deventer  | 25–49  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 209014 : 474686  | 209142 : 474714  | 3: Deventer – Deventer Oost  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 209142 : 474714  | 210200 : 474118  | 4: Deventer – Deventer Oost  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-|  *210200 : 474118*   |  *215174 : 474121*   |  *Traject 30180: Deventer Oost – Bathmen Aansl.*   | --- | --- |  *210*   |  *200*   |  *0*   |  *1000*   |  *50*   |  *50*   |  *0*   |  *0.95*   |  *Deelen*   |
+| 209014 : 474686  | 209142 : 474714  | 3: Deventer – Deventer Oost   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 209142 : 474714  | 210200 : 474118  | 4: Deventer – Deventer Oost   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+|  *210200 : 474118*   |  *215174 : 474121*   |  *Traject 30180: Deventer Oost – Bathmen Aansl. *   | --- | --- |  *210*   |  *200*   |  *0*   |  *1000*   |  *50*   |  *50*   |  *0*   |  *0.95*   |  *Deelen*   |
 | 210200 : 474118  | 210479 : 473927  | 1: Deventer Oost – Bathmen Aansl.  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 210479 : 473927  | 210618 : 473906  | 2: Deventer Oost – Bathmen Aansl.  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 210618 : 473906  | 214674 : 474087  | 3: Deventer Oost – Bathmen Aansl.  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1604,10 +1604,10 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 236665 : 486598  | 237901 : 486726  | 11: Wierden – Almelo  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 237901 : 486726  | 240183 : 486989  | 12: Wierden – Almelo  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 240183 : 486989  | 240461 : 486943  | 13: Wierden – Almelo  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 240461 : 486943  | 240847 : 486747  | 14: Wierden – Almelo  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 240847 : 486747  | 240920 : 486704  | 15: Wierden – Almelo  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 240920 : 486704  | 241028 : 486617  | 16: Wierden – Almelo  | 25–49  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 241028 : 486617  | 241366 : 486261  | 17: Wierden – Almelo  | 50–74  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 240461 : 486943  | 240847 : 486747  | 14: Wierden – Almelo   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 240847 : 486747  | 240920 : 486704  | 15: Wierden – Almelo   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 240920 : 486704  | 241028 : 486617  | 16: Wierden – Almelo   | 25–49  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 241028 : 486617  | 241366 : 486261  | 17: Wierden – Almelo   | 50–74  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 241366 : 486261  | 241431 : 486174  | 18: Station Almelo  | 25–49  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 241431 : 486174  | 241588 : 485956  | 21: Almelo – Station Hengelo  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 241588 : 485956  | 241676 : 485536  | 20: Almelo – Station Hengelo  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
@@ -1644,10 +1644,10 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 103783 : 414484  | 104156 : 413523  | 7: Station Dordrecht – Lage Zwaluwe  | 0–24  | 17  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 104156 : 413523  | 104178 : 413456  | 8: Station Dordrecht – Lage Zwaluwe  | 25–49  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 104178 : 413456  | 104416 : 412957  | 9: Station Dordrecht – Lage Zwaluwe  | 25–49  | 16  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 104416 : 412957  | 104553 : 412610  | 10: Station Dordrecht – Lage Zwaluwe  | 50–74  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 104553 : 412610  | 104579 : 412524  | 11: Station Dordrecht – Lage Zwaluwe  | 25–49  | 16  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 104579 : 412524  | 104598 : 412462  | 12: Station Dordrecht – Lage Zwaluwe  | 25–49  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 104598 : 412462  | 104637 : 412354  | 13: Station Dordrecht – Lage Zwaluwe  | 0–24  | 17  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 104416 : 412957  | 104553 : 412610  | 10: Station Dordrecht – Lage Zwaluwe   | 50–74  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 104553 : 412610  | 104579 : 412524  | 11: Station Dordrecht – Lage Zwaluwe   | 25–49  | 16  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 104579 : 412524  | 104598 : 412462  | 12: Station Dordrecht – Lage Zwaluwe   | 25–49  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 104598 : 412462  | 104637 : 412354  | 13: Station Dordrecht – Lage Zwaluwe   | 0–24  | 17  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 104637 : 412354  | 104757 : 412055  | 14: Station Dordrecht – Lage Zwaluwe  | 0–24  | 17  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 |  *104757 : 412055*   |  *105031 : 411413*   |  *Traject 30060: Lage Zwaluwe – Lage Zwaluwe-Zuid*   | --- | --- |  *21660*   |  *5960*   |  *50*   |  *26660*   |  *8010*   |  *1890*   |  *0.14*   |  *1*   |  *Gilze-Rijen K*   |
 | 104757 : 412055  | 104770 : 412026  | 1: Lage Zwaluwe – Lage Zwaluwe-Zuid  | 0–24  | 22  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
@@ -1655,26 +1655,26 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 104838 : 411889  | 104958 : 411600  | 3: Lage Zwaluwe – Lage Zwaluwe-Zuid  | 50–74  | 44  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 104958 : 411600  | 105019 : 411446  | 4: Lage Zwaluwe – Lage Zwaluwe-Zuid  | 50–74  | 28  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 105019 : 411446  | 105031 : 411413  | 5: Lage Zwaluwe – Lage Zwaluwe-Zuid  | 50–74  | 44  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-|  *105031 : 411413*   |  *105181 : 410975*   |  *Traject 30050: Lage Zwaluwe-Zuid – Zevenbergsehoek aansluiting*   | --- | --- |  *20020*   |  *5960*   |  *50*   |  *24940*   |  *8010*   |  *1890*   |  *0.14*   |  *1*   |  *Gilze-Rijen*   |
+|  *105031 : 411413*   |  *105181 : 410975*   |  *Traject 30050: Lage Zwaluwe-Zuid – Zevenbergsehoek aansluiting*   | --- | --- |  *20020*   |  *5960*   |  *50*   |  *24940*   |  *8010*   |  *1890*   |  *0.14*   |  *1*   |  *Gilze-Rijen *   |
 | 105031 : 411413  | 105044 : 411371  | 1: Lage Zwaluwe-Zuid – Zevenbergsehoek aansluiting  | 50–74  | 43  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 105044 : 411371  | 105076 : 411254  | 2: Lage Zwaluwe-Zuid – Zevenbergsehoek aansluiting  | 25–49  | 33  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 105076 : 411254  | 105181 : 410975  | 3: Lage Zwaluwe-Zuid – Zevenbergsehoek aansluiting  | 0–24  | 21  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-|  *105181 : 410975*   |  *96752 : 401080*   |  *Traject 30040: Zevenbergsehoek aansluiting – Roosendaal West*   | --- | --- |  *19020*   |  *4960*   |  *50*   |  *20340*   |  *4260*   |  *1890*   |  *0.15*   |  *0.86*   |  *Gilze-Rijen*   |
-| 105181 : 410975  | 105340 : 410501  | 1: Zevenbergsehoek aansluiting – Roosendaal West  | 0–24  | 18  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 105340 : 410501  | 101392 : 406411  | 2: Zevenbergsehoek aansluiting – Roosendaal West  | 0–24  | 12  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 101392 : 406411  | 100331 : 404733  | 3: Zevenbergsehoek aansluiting – Roosendaal West  | 0–24  | 18  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 100331 : 404733  | 96752 : 401080  | 4: Zevenbergsehoek aansluiting – Roosendaal West  | 0–24  | 12  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  *96752 : 401080*   |  *91050 : 395470*   |  *Traject 30040: Zevenbergsehoek aansluiting – Roosendaal West*   | --- | --- |  *19020*   |  *4960*   |  *50*   |  *20340*   |  *4260*   |  *1890*   |  *0.15*   |  *0.86*   |  *Woensdrecht*   |
-| 96752 : 401080  | 96381 : 400738  | 5: Zevenbergsehoek aansluiting – Roosendaal West  | 0–24  | 12  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 96381 : 400738  | 94897 : 399369  | 6: Zevenbergsehoek aansluiting – Roosendaal West  | 0–24  | 18  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 94897 : 399369  | 91489 : 396171  | 7: Zevenbergsehoek aansluiting – Roosendaal West  | 0–24  | 12  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 91489 : 396171  | 91412 : 395997  | 8: Zevenbergsehoek aansluiting – Roosendaal West  | 0–24  | 12  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 91412 : 395997  | 91333 : 395820  | 9: Zevenbergsehoek aansluiting – Roosendaal West  | 0–24  | 18  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 91333 : 395820  | 91050 : 395470  | 10: Zevenbergsehoek aansluiting – Roosendaal West  | 0–24  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
-|  *91050 : 395470*   |  *90740 : 395213*   |  *Traject 30030: Roosendaal West – Roosendaal*   | --- | --- |  *23370*   |  *6160*   |  *50*   |  *21790*   |  *4310*   |  *1940*   |  *0.06*   |  *0.44*   |  *Woensdrecht*   |
+|  *105181 : 410975*   |  *96752 : 401080*   |  *Traject 30040: Zevenbergsehoek aansluiting – Roosendaal West *   | --- | --- |  *19020*   |  *4960*   |  *50*   |  *20340*   |  *4260*   |  *1890*   |  *0.15*   |  *0.86*   |  *Gilze-Rijen*   |
+| 105181 : 410975  | 105340 : 410501  | 1: Zevenbergsehoek aansluiting – Roosendaal West   | 0–24  | 18  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 105340 : 410501  | 101392 : 406411  | 2: Zevenbergsehoek aansluiting – Roosendaal West   | 0–24  | 12  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 101392 : 406411  | 100331 : 404733  | 3: Zevenbergsehoek aansluiting – Roosendaal West   | 0–24  | 18  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 100331 : 404733  | 96752 : 401080  | 4: Zevenbergsehoek aansluiting – Roosendaal West   | 0–24  | 12  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  *96752 : 401080*   |  *91050 : 395470*   |  *Traject 30040: Zevenbergsehoek aansluiting – Roosendaal West *   | --- | --- |  *19020*   |  *4960*   |  *50*   |  *20340*   |  *4260*   |  *1890*   |  *0.15*   |  *0.86*   |  *Woensdrecht*   |
+| 96752 : 401080  | 96381 : 400738  | 5: Zevenbergsehoek aansluiting – Roosendaal West   | 0–24  | 12  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 96381 : 400738  | 94897 : 399369  | 6: Zevenbergsehoek aansluiting – Roosendaal West   | 0–24  | 18  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 94897 : 399369  | 91489 : 396171  | 7: Zevenbergsehoek aansluiting – Roosendaal West   | 0–24  | 12  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 91489 : 396171  | 91412 : 395997  | 8: Zevenbergsehoek aansluiting – Roosendaal West   | 0–24  | 12  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 91412 : 395997  | 91333 : 395820  | 9: Zevenbergsehoek aansluiting – Roosendaal West   | 0–24  | 18  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 91333 : 395820  | 91050 : 395470  | 10: Zevenbergsehoek aansluiting – Roosendaal West   | 0–24  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
+|  *91050 : 395470*   |  *90740 : 395213*   |  *Traject 30030: Roosendaal West – Roosendaal *   | --- | --- |  *23370*   |  *6160*   |  *50*   |  *21790*   |  *4310*   |  *1940*   |  *0.06*   |  *0.44*   |  *Woensdrecht*   |
 | 91050 : 395470  | 90955 : 395386  | 1: Roosendaal West – Roosendaal  | 0–24  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
 | 90955 : 395386  | 90864 : 395316  | 2: Roosendaal West – Roosendaal  | 25–49  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
-| 90864 : 395316  | 90740 : 395213  | 3: Roosendaal West – Roosendaal  | 50–74  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
+| 90864 : 395316  | 90740 : 395213  | 3: Roosendaal West – Roosendaal   | 50–74  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
 |  *90740 : 395213*   |  *90165 : 394400*   |  *Traject 30020: Roosendaal – Roosendaal Oost*   | --- | --- |  *23370*   |  *6160*   |  *50*   |  *21790*   |  *4310*   |  *1940*   |  *0.12*   |  *0.88*   |  *Woensdrecht K*   |
 | 90740 : 395213  | 90287 : 394744  | 1: Roosendaal – Station Roosendaal  | 75–99  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
 | 90287 : 394744  | 90248 : 394662  | 2: Station Roosendaal – Roosendaal Oost  | 50–74  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
@@ -1850,9 +1850,9 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 197448 : 356080  | 197537 : 356395  | 17: Roermond – Roermond-Noord  | 50–74  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 197537 : 356395  | 197612 : 356586  | 18: Roermond – Roermond-Noord  | 25–49  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 197612 : 356586  | 197807 : 356894  | 19: Roermond – Roermond-Noord  | 0–24  | 10  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-|  *197807 : 356894*   |  *208777 : 373302*   |  *Traject 50050: Roermond-Noord – Venlo*   | --- | --- |  *12400*   |  *3500*   |  *0*   |  *1600*   |  *2500*   |  *0*   |  *0*   |  *1.24*   |  *Beek*   |
-| 197807 : 356894  | 198097 : 357322  | 1: Roermond-Noord – Venlo  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 198097 : 357322  | 198137 : 357384  | 2: Roermond-Noord – Venlo  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  *197807 : 356894*   |  *208777 : 373302*   |  *Traject 50050: Roermond-Noord – Venlo *   | --- | --- |  *12400*   |  *3500*   |  *0*   |  *1600*   |  *2500*   |  *0*   |  *0*   |  *1.24*   |  *Beek*   |
+| 197807 : 356894  | 198097 : 357322  | 1: Roermond-Noord – Venlo   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 198097 : 357322  | 198137 : 357384  | 2: Roermond-Noord – Venlo   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 198137 : 357384  | 199148 : 359269  | 3: Roermond-Noord – Venlo  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 199135 : 359236  | 199209 : 359428  | 4: Roermond-Noord – Venlo  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 199209 : 359428  | 199594 : 360350  | 5: Roermond-Noord – Venlo  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
@@ -1864,10 +1864,10 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 206856 : 371458  | 207137 : 371872  | 11: Roermond-Noord – Venlo  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 207137 : 371872  | 208187 : 372869  | 12: Roermond-Noord – Venlo  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 208187 : 372869  | 208777 : 373302  | 13: Roermond-Noord – Venlo  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  *208777 : 373302*   |  *210014 : 374689*   |  *Traject 50050: Roermond-Noord – Venlo*   | --- | --- |  *12400*   |  *3500*   |  *0*   |  *1600*   |  *2500*   |  *0*   |  *0*   |  *1.24*   |  *Volkel*   |
+|  *208777 : 373302*   |  *210014 : 374689*   |  *Traject 50050: Roermond-Noord – Venlo *   | --- | --- |  *12400*   |  *3500*   |  *0*   |  *1600*   |  *2500*   |  *0*   |  *0*   |  *1.24*   |  *Volkel*   |
 | 208777 : 373302  | 209871 : 374142  | 14: Roermond-Noord – Venlo  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 209871 : 374142  | 209918 : 374212  | 15: Roermond-Noord – Venlo  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 209918 : 374212  | 210014 : 374689  | 16: Roermond-Noord – Venlo  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 209918 : 374212  | 210014 : 374689  | 16: Roermond-Noord – Venlo   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 |  *135659 : 397053*   |  *148322 : 408261*   |  *Traject 61010: Tilburg – Vught*   | --- | --- |  *700*   |  *200*   |  *0*   |  *1050*   |  *50*   |  *50*   |  *0*   |  *0.95*   |  *Gilze-Rijen*   |
 | 135659 : 397053  | 136074 : 397432  | 1: Tilburg – Vught  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 136074 : 397432  | 136816 : 398867  | 2: Tilburg – Vught  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1891,8 +1891,8 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 189963 : 444248  | 190102 : 444219  | 13: Arnhem West Aansl. – Station Arnhem  | 50–74  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 190102 : 444219  | 190371 : 444169  | 14: Station Arnhem – Arnhem  | 75–99  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 190371 : 444169  | 190453 : 444170  | 15: Station Arnhem – Arnhem  | 50–74  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 190453 : 444170  | 190554 : 444179  | 16: Arnhem – Velperpoort Aansl.  | 25–49  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 190554 : 444179  | 190689 : 444199  | 17: Arnhem – Velperpoort Aansl.  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 190453 : 444170  | 190554 : 444179  | 16: Arnhem – Velperpoort Aansl.   | 25–49  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 190554 : 444179  | 190689 : 444199  | 17: Arnhem – Velperpoort Aansl.   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 190689 : 444199  | 191344 : 444280  | 18: Arnhem – Velperpoort Aansl.  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 191344 : 444280  | 191429 : 444265  | 19: Arnhem – Velperpoort Aansl.  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 191429 : 444265  | 192039 : 444043  | 20: Arnhem – Velperpoort Aansl.  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
@@ -1921,7 +1921,7 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 211631 : 471416  | 211455 : 471884  | 5: Deventer Aansl. Bg – Deventer Aansl.  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 211455 : 471884  | 210606 : 473594  | 6: Deventer Aansl. Bg – Deventer Aansl.  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 210606 : 473594  | 210383 : 473881  | 7: Deventer Aansl. Bg – Deventer Aansl.  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 210383 : 473881  | 210200 : 474118  | 8: Deventer Aansl. – Deventer Oost  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 210383 : 473881  | 210200 : 474118  | 8: Deventer Aansl. – Deventer Oost   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 |  *148830 : 412297*   |  *187349 : 433950*   |  *Traject 64010: 's-Hertogenbosch – Nijmegen Noord*   | --- | --- |  *700*   |  *200*   |  *0*   |  *1050*   |  *50*   |  *50*   |  *0*   |  *0.95*   |  *Volkel*   |
 | 148830 : 412297  | 149012 : 412503  | 1: 's-Hertogenbosch – Station Nijmegen  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 149012 : 412503  | 149420 : 412556  | 2: 's-Hertogenbosch – Station Nijmegen  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
@@ -1940,10 +1940,10 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 187172 : 428846  | 187380 : 429506  | 15: Nijmegen – Nijmegen Noord  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 187380 : 429506  | 187379 : 433427  | 16: Nijmegen – Nijmegen Noord  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 187379 : 433427  | 187349 : 433950  | 17: Nijmegen – Nijmegen Noord  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-|  *187349 : 433950*   |  *187281 : 435036*   |  *Traject 64020: Nijmegen Noord – Ressen Zuid*   | --- | --- |  *700*   |  *200*   |  *0*   |  *1050*   |  *50*   |  *50*   |  *0*   |  *0.95*   |  *Volkel*   |
-| 187349 : 433950  | 187318 : 434425  | 1: Nijmegen Noord – Ressen Zuid  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 187318 : 434425  | 187315 : 434472  | 2: Nijmegen Noord – Ressen Zuid  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 187315 : 434472  | 187281 : 435036  | 3: Nijmegen Noord – Ressen Zuid  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+|  *187349 : 433950*   |  *187281 : 435036*   |  *Traject 64020: Nijmegen Noord – Ressen Zuid *   | --- | --- |  *700*   |  *200*   |  *0*   |  *1050*   |  *50*   |  *50*   |  *0*   |  *0.95*   |  *Volkel*   |
+| 187349 : 433950  | 187318 : 434425  | 1: Nijmegen Noord – Ressen Zuid   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 187318 : 434425  | 187315 : 434472  | 2: Nijmegen Noord – Ressen Zuid   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 187315 : 434472  | 187281 : 435036  | 3: Nijmegen Noord – Ressen Zuid   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 |  *127902 : 464254*   |  *135658 : 456339*   |  *Traject 71010: Breukelen – Utrecht Noord*   | --- | --- |  *600*   |  *200*   |  *0*   |  *2750*   |  *200*   |  *100*   |  *0*   |  *1.98*   |  *Soesterberg*   |
 | 127902 : 464254  | 128292 : 463245  | 1: Breukelen – Utrecht Noord  | 25–49  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 128292 : 463245  | 130144 : 461500  | 2: Breukelen – Utrecht Noord  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2023,7 +2023,7 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 147017 : 431307  | 146708 : 430869  | 1: Geldermalsen – West boog  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 146708 : 430869  | 146914 : 430161  | 2: Geldermalsen – West boog  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 146914 : 430161  | 147554 : 430097  | 3: Geldermalsen – West boog  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-|  *186524 : 332755*   |  *177289 : 307698*   |  *Traject 100010: Lutterade – Visee B*   | --- | --- |  *3000*   |  *3500*   |  *0*   |  *400*   |  *0*   |  *0*   |  *0*   |  *0.4*   |  *Beek*   |
+|  *186524 : 332755*   |  *177289 : 307698*   |  *Traject 100010: Lutterade – Visee B *   | --- | --- |  *3000*   |  *3500*   |  *0*   |  *400*   |  *0*   |  *0*   |  *0*   |  *0.4*   |  *Beek*   |
 | 186524 : 332755  | 185930 : 332075  | 1: Lutterade – Maastricht  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 185930 : 332075  | 185187 : 331173  | 2: Lutterade – Maastricht  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 185187 : 331173  | 184123 : 329919  | 3: Lutterade – Maastricht  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2040,15 +2040,15 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 177363 : 318675  | 177314 : 318578  | 14: Lutterade – Maastricht  | 25–49  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 177314 : 318578  | 177438 : 317925  | 15: Lutterade – Maastricht  | 50–74  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
 | 177438 : 317925  | 177472 : 317801  | 16: Maastricht – Station Maastricht  | 50–74  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
-| 177472 : 317801  | 177485 : 317706  | 17: Maastricht – Visee B  | 25–49  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
-| 177485 : 317706  | 177680 : 317283  | 18: Maastricht – Visee B  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
-| 177680 : 317283  | 177854 : 317121  | 19: Maastricht – Visee B  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 177854 : 317121  | 178186 : 316729  | 20: Maastricht – Visee B  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 178186 : 316729  | 178005 : 309865  | 21: Maastricht – Visee B  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 178005 : 309865  | 177580 : 308579  | 22: Maastricht – Visee B  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 177580 : 308579  | 177289 : 307698  | 23: Maastricht – Visee B  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 177472 : 317801  | 177485 : 317706  | 17: Maastricht – Visee B   | 25–49  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
+| 177485 : 317706  | 177680 : 317283  | 18: Maastricht – Visee B   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
+| 177680 : 317283  | 177854 : 317121  | 19: Maastricht – Visee B   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 177854 : 317121  | 178186 : 316729  | 20: Maastricht – Visee B   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 178186 : 316729  | 178005 : 309865  | 21: Maastricht – Visee B   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 178005 : 309865  | 177580 : 308579  | 22: Maastricht – Visee B   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 177580 : 308579  | 177289 : 307698  | 23: Maastricht – Visee B   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  *162895 : 384012*   |  *175453 : 362354*   |  *Traject 110010: Eindhoven – Weert*   | --- | --- |  *1500*   |  *2300*   |  *0*   |  *4600*   |  *3750*   |  *0*   |  *0*   |  *0.73*   |  *Eindhoven*   |
-| 162895 : 384012  | 163407 : 383949  | 1: Eindhoven – Weert  | 0–24  | 5  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 162895 : 384012  | 163407 : 383949  | 1: Eindhoven – Weert   | 0–24  | 5  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 163407 : 383949  | 163724 : 383881  | 2: Eindhoven – Weert  | 0–24  | 5  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 163724 : 383881  | 165648 : 382075  | 3: Eindhoven – Weert  | 0–24  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 165648 : 382075  | 166274 : 381326  | 4: Eindhoven – Weert  | 0–24  | 5  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
@@ -2061,7 +2061,7 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 171580 : 369132  | 172115 : 368035  | 11: Eindhoven – Weert  | 0–24  | 5  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 172115 : 368035  | 174997 : 362516  | 12: Eindhoven – Weert  | 0–24  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 174997 : 362516  | 175453 : 362354  | 13: Eindhoven – Weert  | 0–24  | 5  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-|  *175453 : 362354*   |  *185184 : 361286*   |  *Traject 110020: Weert – Roermond*   | --- | --- |  *1500*   |  *2300*   |  *0*   |  *4600*   |  *3750*   |  *0*   |  *0*   |  *0.73*   |  *Eindhoven*   |
+|  *175453 : 362354*   |  *185184 : 361286*   |  *Traject 110020: Weert – Roermond *   | --- | --- |  *1500*   |  *2300*   |  *0*   |  *4600*   |  *3750*   |  *0*   |  *0*   |  *0.73*   |  *Eindhoven*   |
 | 175453 : 362354  | 176277 : 362271  | 1: Weert – Roermond  | 0–24  | 5  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 176277 : 362271  | 176374 : 362246  | 2: Weert – Roermond  | 25–49  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 176374 : 362246  | 176544 : 362213  | 3: Weert – Roermond  | 50–74  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
@@ -2070,22 +2070,22 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 176952 : 362199  | 177349 : 362182  | 6: Weert – Roermond  | 25–49  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 177349 : 362182  | 178102 : 362122  | 7: Weert – Roermond  | 0–24  | 5  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 178102 : 362122  | 185184 : 361286  | 8: Weert – Roermond  | 0–24  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  *185184 : 361286*   |  *197807 : 356894*   |  *Traject 110020: Weert – Roermond*   | --- | --- |  *1500*   |  *2300*   |  *0*   |  *4600*   |  *3750*   |  *0*   |  *0*   |  *0.73*   |  *Beek*   |
+|  *185184 : 361286*   |  *197807 : 356894*   |  *Traject 110020: Weert – Roermond *   | --- | --- |  *1500*   |  *2300*   |  *0*   |  *4600*   |  *3750*   |  *0*   |  *0*   |  *0.73*   |  *Beek*   |
 | 185184 : 361286  | 192842 : 360095  | 9: Weert – Roermond  | 0–24  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 192842 : 360095  | 194818 : 359973  | 10: Weert – Roermond  | 0–24  | 5  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 194818 : 359973  | 197544 : 358728  | 11: Weert – Roermond  | 0–24  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 197544 : 358728  | 198120 : 357460  | 12: Weert – Roermond  | 0–24  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 198120 : 357460  | 198078 : 357335  | 13: Weert – Roermond  | 0–24  | 5  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 198078 : 357335  | 197807 : 356894  | 14: Weert – Roermond  | 0–24  | 5  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 198078 : 357335  | 197807 : 356894  | 14: Weert – Roermond   | 0–24  | 5  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 |  *111133 : 400591*   |  *105181 : 410975*   |  *Traject 120010: Lage Zwaluwe – Breda*   | --- | --- |  *1000*   |  *2300*   |  *0*   |  *4600*   |  *3750*   |  *0*   |  *0*   |  *0.73*   |  *Gilze-Rijen*   |
-| 111133 : 400591  | 110548 : 400723  | 1: Lage Zwaluwe – Breda  | 0–24  | 5  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 110548 : 400723  | 110506 : 400735  | 2: Lage Zwaluwe – Breda  | 0–24  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 111133 : 400591  | 110548 : 400723  | 1: Lage Zwaluwe – Breda   | 0–24  | 5  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 110548 : 400723  | 110506 : 400735  | 2: Lage Zwaluwe – Breda   | 0–24  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 110506 : 400735  | 107698 : 404885  | 3: Lage Zwaluwe – Breda  | 0–24  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 107698 : 404885  | 107251 : 405947  | 4: Lage Zwaluwe – Breda  | 0–24  | 5  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 107251 : 405947  | 105362 : 410508  | 5: Lage Zwaluwe – Breda  | 0–24  | 1  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 105362 : 410508  | 105181 : 410975  | 6: Lage Zwaluwe – Breda  | 0–24  | 5  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 |  *211582 : 463864*   |  *225656 : 464861*   |  *Traject 130010: Zutphen – Delden*   | --- | --- |  *1700*   |  *200*   |  *0*   |  *1050*   |  *50*   |  *50*   |  *0*   |  *0.95*   |  *Deelen*   |
-| 211582 : 463864  | 211656 : 463964  | 1: Zutphen – Delden  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 211582 : 463864  | 211656 : 463964  | 1: Zutphen – Delden   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 211656 : 463964  | 211987 : 464204  | 2: Zutphen – Delden  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 211987 : 464204  | 212943 : 464487  | 3: Zutphen – Delden  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 212943 : 464487  | 218349 : 465155  | 4: Zutphen – Delden  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2141,24 +2141,24 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 203948 : 501025  | 203954 : 501351  | 7: Deventer – Zwolle  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 203954 : 501351  | 203729 : 501595  | 8: Deventer – Zwolle  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 |  *105737 : 424474*   |  *109153 : 425450*   |  *Traject 170010: Dordrecht – Ind. De Staart*   | --- | --- |  *0*   |  *0*   |  *0*   |  *2000*   |  *0*   |  *700*   |  *0*   |  *0*   |  *Rotterdam*   |
-| 105737 : 424474  | 106014 : 424431  | 1: Dordrecht – Ind. De Staart  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 105737 : 424474  | 106014 : 424431  | 1: Dordrecht – Ind. De Staart   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 106014 : 424431  | 108344 : 423986  | 2: Dordrecht – Ind. De Staart  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 108344 : 423986  | 109817 : 424054  | 3: Dordrecht – Ind. De Staart  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 109817 : 424054  | 110142 : 424431  | 4: Dordrecht – Ind. De Staart  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 110142 : 424431  | 110307 : 424891  | 5: Dordrecht – Ind. De Staart  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 110307 : 424891  | 110214 : 425117  | 6: Dordrecht – Ind. De Staart  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 110214 : 425117  | 109153 : 425450  | 7: Dordrecht – Ind. De Staart  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-|  *44085 : 359140*   |  *43778 : 360356*   |  *Traject 180010: Belgie – Sas van Gent*   | --- | --- |  *4600*   |  *1160*   |  *0*   |  *3250*   |  *910*   |  *80*   |  *0.09*   |  *0.21*   |  *Vlissingen*   |
+|  *44085 : 359140*   |  *43778 : 360356*   |  *Traject 180010: Belgie – Sas van Gent *   | --- | --- |  *4600*   |  *1160*   |  *0*   |  *3250*   |  *910*   |  *80*   |  *0.09*   |  *0.21*   |  *Vlissingen*   |
 | 44085 : 359140  | 44029 : 359434  | 1: Belgie – Sas van Gent  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 44029 : 359434  | 43896 : 359916  | 2: Belgie – Sas van Gent  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 43896 : 359916  | 43778 : 360356  | 3: Belgie – Sas van Gent  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-|  *43778 : 360356*   |  *46085 : 367369*   |  *Traject 180020: Sas van Gent – Sluiskil Aansl.*   | --- | --- |  *4600*   |  *2160*   |  *0*   |  *3250*   |  *910*   |  *80*   |  *0.09*   |  *0.11*   |  *Vlissingen K*   |
-| 43778 : 360356  | 43699 : 360901  | 1: Sas van Gent – Sluiskil Aansl.  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 43699 : 360901  | 43699 : 361401  | 2: Sas van Gent – Sluiskil Aansl.  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 43699 : 361401  | 43816 : 362113  | 3: Sas van Gent – Sluiskil Aansl.  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 43816 : 362113  | 44205 : 363031  | 4: Sas van Gent – Sluiskil Aansl.  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 44205 : 363031  | 46086 : 366859  | 5: Sas van Gent – Sluiskil Aansl.  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 46086 : 366859  | 46085 : 367369  | 6: Sas van Gent – Sluiskil Aansl.  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 43896 : 359916  | 43778 : 360356  | 3: Belgie – Sas van Gent   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+|  *43778 : 360356*   |  *46085 : 367369*   |  *Traject 180020: Sas van Gent – Sluiskil Aansl. *   | --- | --- |  *4600*   |  *2160*   |  *0*   |  *3250*   |  *910*   |  *80*   |  *0.09*   |  *0.11*   |  *Vlissingen K*   |
+| 43778 : 360356  | 43699 : 360901  | 1: Sas van Gent – Sluiskil Aansl.   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
+| 43699 : 360901  | 43699 : 361401  | 2: Sas van Gent – Sluiskil Aansl.   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
+| 43699 : 361401  | 43816 : 362113  | 3: Sas van Gent – Sluiskil Aansl.   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 43816 : 362113  | 44205 : 363031  | 4: Sas van Gent – Sluiskil Aansl.   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
+| 44205 : 363031  | 46086 : 366859  | 5: Sas van Gent – Sluiskil Aansl.   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 46086 : 366859  | 46085 : 367369  | 6: Sas van Gent – Sluiskil Aansl.   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
 |  *46085 : 367369*   |  *44028 : 372891*   |  *Traject 180030: Sluiskil Aansl. – Sluiskil racc. Dow Chemical*   | --- | --- |  *4600*   |  *660*   |  *0*   |  *3250*   |  *910*   |  *80*   |  *0.09*   |  *0.37*   |  *Vlissingen*   |
 | 46085 : 367369  | 46173 : 368343  | 1: Sluiskil Aansl. – Sluiskil racc. Dow Chemical  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 46173 : 368343  | 44028 : 372891  | 2: Sluiskil Aansl. – Sluiskil racc. Dow Chemical  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2178,33 +2178,33 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 245328 : 603617  | 245721 : 603947  | 13: Sauwerd – Roodeschool Aansl.  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 245721 : 603947  | 246440 : 604647  | 14: Roodeschool Aansl. – Roodeschool  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 |  *96995 : 430847*   |  *96214 : 431222*   |  *Traject 201050: Barendrecht Aansl. – Barendrecht Vork*   | --- | --- |  *34630*   |  *17720*   |  *580*   |  *144480*   |  *5695*   |  *4760*   |  *0.2*   |  *0.49*   |  *Rotterdam V1*   |
-| 96995 : 430847  | 96214 : 431222  | 1: Barendrecht Aansl. – Barendrecht Vork  | 0–24  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 96995 : 430847  | 96214 : 431222  | 1: Barendrecht Aansl. – Barendrecht Vork  | 0–24  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
 |  *96214 : 431222*   |  *92883 : 430976*   |  *Traject 201045: Barendrecht Vork – Waalhaven Zuid Oost*   | --- | --- |  *35150*   |  *17470*   |  *540*   |  *138890*   |  *11390*   |  *2455*   |  *0.18*   |  *0.57*   |  *Rotterdam V1*   |
 | 96214 : 431222  | 95434 : 431197  | 1: Barendrecht Vork – Waalhaven Zuid Oost  | 0–24  | 25  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 95434 : 431197  | 94766 : 431276  | 2: Barendrecht Vork – Waalhaven Zuid Oost  | 0–24  | 25  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 94766 : 431276  | 94025 : 431201  | 3: Barendrecht Vork – Waalhaven Zuid Oost  | 0–24  | 16  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 94025 : 431201  | 93253 : 431055  | 4: Barendrecht Vork – Waalhaven Zuid Oost  | 0–24  | 25  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 93253 : 431055  | 93147 : 431033  | 5: Barendrecht Vork – Waalhaven Zuid Oost  | 25–49  | 37  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 93147 : 431033  | 92883 : 430976  | 6: Barendrecht Vork – Waalhaven Zuid Oost  | 25–49  | 37  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 94025 : 431201  | 93253 : 431055  | 4: Barendrecht Vork – Waalhaven Zuid Oost  | 0–24  | 25  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
+| 93253 : 431055  | 93147 : 431033  | 5: Barendrecht Vork – Waalhaven Zuid Oost  | 25–49  | 37  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
+| 93147 : 431033  | 92883 : 430976  | 6: Barendrecht Vork – Waalhaven Zuid Oost  | 25–49  | 37  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
 |  *92883 : 430976*   |  *90326 : 431842*   |  *Traject 201043: Waalhaven Zuid Oost – Waalhaven Zuid*   | --- | --- |  *17080*   |  *9010*   |  *280*   |  *67070*   |  *5870*   |  *2530*   |  *0.2*   |  *0.57*   |  *Rotterdam V1*   |
-| 92883 : 430976  | 92580 : 430928  | 1: Waalhaven Zuid Oost – Waalhaven Zuid  | 25–49  | 32  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 92580 : 430928  | 92391 : 430961  | 2: Waalhaven Zuid Oost – Waalhaven Zuid  | 0–24  | 17  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 92883 : 430976  | 92580 : 430928  | 1: Waalhaven Zuid Oost – Waalhaven Zuid  | 25–49  | 32  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
+| 92580 : 430928  | 92391 : 430961  | 2: Waalhaven Zuid Oost – Waalhaven Zuid  | 0–24  | 17  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
 | 92391 : 430961  | 91607 : 431454  | 3: Waalhaven Zuid Oost – Waalhaven Zuid  | 0–24  | 13  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 91607 : 431454  | 91264 : 431624  | 4: Waalhaven Zuid Oost – Waalhaven Zuid  | 0–24  | 17  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 91264 : 431624  | 90735 : 431891  | 5: Waalhaven Zuid Oost – Waalhaven Zuid  | 0–24  | 17  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 90735 : 431891  | 90638 : 431894  | 6: Waalhaven Zuid Oost – Waalhaven Zuid  | 25–49  | 32  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 90638 : 431894  | 90543 : 431879  | 7: Waalhaven Zuid Oost – Waalhaven Zuid  | 50–74  | 42  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 90543 : 431879  | 90459 : 431859  | 8: Waalhaven Zuid Oost – Waalhaven Zuid  | 75–99  | 52  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 90459 : 431859  | 90400 : 431850  | 9: Waalhaven Zuid Oost – Waalhaven Zuid  | 100–124  | 63  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 90400 : 431850  | 90326 : 431842  | 10: Waalhaven Zuid Oost – Waalhaven Zuid  | 125–149  | 73  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 91607 : 431454  | 91264 : 431624  | 4: Waalhaven Zuid Oost – Waalhaven Zuid  | 0–24  | 17  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
+| 91264 : 431624  | 90735 : 431891  | 5: Waalhaven Zuid Oost – Waalhaven Zuid  | 0–24  | 17  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
+| 90735 : 431891  | 90638 : 431894  | 6: Waalhaven Zuid Oost – Waalhaven Zuid  | 25–49  | 32  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
+| 90638 : 431894  | 90543 : 431879  | 7: Waalhaven Zuid Oost – Waalhaven Zuid  | 50–74  | 42  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
+| 90543 : 431879  | 90459 : 431859  | 8: Waalhaven Zuid Oost – Waalhaven Zuid  | 75–99  | 52  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
+| 90459 : 431859  | 90400 : 431850  | 9: Waalhaven Zuid Oost – Waalhaven Zuid  | 100–124  | 63  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
+| 90400 : 431850  | 90326 : 431842  | 10: Waalhaven Zuid Oost – Waalhaven Zuid  | 125–149  | 73  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
 |  *90326 : 431842*   |  *88928 : 431942*   |  *Traject 201042: Waalhaven Zuid – Waalhaven Zuid West*   | --- | --- |  *17080*   |  *9010*   |  *280*   |  *67070*   |  *5870*   |  *2530*   |  *0.2*   |  *0.57*   |  *Rotterdam V1*   |
-| 90326 : 431842  | 89825 : 431826  | 1: Waalhaven Zuid – Waalhaven Zuid West  | 125–149  | 73  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 89825 : 431826  | 89744 : 431823  | 2: Waalhaven Zuid – Waalhaven Zuid West  | 100–124  | 63  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 89744 : 431823  | 89433 : 431849  | 3: Waalhaven Zuid – Waalhaven Zuid West  | 75–99  | 52  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 89479 : 431848  | 89403 : 431849  | 4: Waalhaven Zuid – Waalhaven Zuid West  | 75–99  | 52  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 89403 : 431849  | 89277 : 431853  | 5: Waalhaven Zuid – Waalhaven Zuid West  | 50–74  | 42  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 89277 : 431853  | 89120 : 431881  | 6: Waalhaven Zuid – Waalhaven Zuid West  | 25–49  | 32  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 89120 : 431881  | 88928 : 431942  | 7: Waalhaven Zuid – Waalhaven Zuid West  | 0–24  | 17  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 90326 : 431842  | 89825 : 431826  | 1: Waalhaven Zuid – Waalhaven Zuid West  | 125–149  | 73  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
+| 89825 : 431826  | 89744 : 431823  | 2: Waalhaven Zuid – Waalhaven Zuid West  | 100–124  | 63  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
+| 89744 : 431823  | 89433 : 431849  | 3: Waalhaven Zuid – Waalhaven Zuid West  | 75–99  | 52  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
+| 89479 : 431848  | 89403 : 431849  | 4: Waalhaven Zuid – Waalhaven Zuid West  | 75–99  | 52  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
+| 89403 : 431849  | 89277 : 431853  | 5: Waalhaven Zuid – Waalhaven Zuid West  | 50–74  | 42  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
+| 89277 : 431853  | 89120 : 431881  | 6: Waalhaven Zuid – Waalhaven Zuid West  | 25–49  | 32  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
+| 89120 : 431881  | 88928 : 431942  | 7: Waalhaven Zuid – Waalhaven Zuid West  | 0–24  | 17  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
 |  *88928 : 431942*   |  *86769 : 432638*   |  *Traject 201040: Waalhaven Zuid West – Pernis*   | --- | --- |  *33130*   |  *17470*   |  *540*   |  *130110*   |  *11390*   |  *4910*   |  *0.2*   |  *0.57*   |  *Rotterdam V1*   |
 | 88928 : 431942  | 86769 : 432638  | 1: Waalhaven Zuid West – Pernis  | 0–24  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 |  *86769 : 432638*   |  *79148 : 431631*   |  *Traject 201030: Pernis – Botlek*   | --- | --- |  *32680*   |  *18120*   |  *560*   |  *128550*   |  *11820*   |  *5100*   |  *0.2*   |  *0.57*   |  *Rotterdam V1*   |
@@ -2214,25 +2214,25 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 83760 : 432470  | 83733 : 432467  | 4: Pernis – Botlek  | 25–49  | 39  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 83733 : 432467  | 82691 : 432146  | 5: Pernis – Botlek  | 0–24  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 82691 : 432146  | 82279 : 432006  | 6: Pernis – Botlek  | 0–24  | 17  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 82279 : 432006  | 80369 : 431734  | 7: Pernis – Botlek  | 0–24  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 80369 : 431734  | 79920 : 431681  | 8: Pernis – Botlek  | 25–49  | 39  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 79920 : 431681  | 79148 : 431631  | 9: Pernis – Botlek  | 0–24  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 82279 : 432006  | 80369 : 431734  | 7: Pernis – Botlek  | 0–24  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
+| 80369 : 431734  | 79920 : 431681  | 8: Pernis – Botlek  | 25–49  | 39  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
+| 79920 : 431681  | 79148 : 431631  | 9: Pernis – Botlek  | 0–24  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
 |  *79148 : 431631*   |  *75468 : 435423*   |  *Traject 201020: Botlek – Europoort*   | --- | --- |  *38120*   |  *29120*   |  *0*   |  *141980*   |  *9990*   |  *4590*   |  *0.08*   |  *0.57*   |  *Rotterdam V1*   |
-| 79148 : 431631  | 77791 : 432018  | 1: Botlek – Europoort  | 0–24  | 28  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 79148 : 431631  | 77791 : 432018  | 1: Botlek – Europoort  | 0–24  | 28  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
 | 77791 : 432018  | 75468 : 435423  | 2: Botlek – Europoort  | 0–24  | 17  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  *75468 : 435423*   |  *74636 : 435411*   |  *Traject 201020: Botlek – Europoort*   | --- | --- |  *38120*   |  *29120*   |  *0*   |  *141980*   |  *9990*   |  *4590*   |  *0.08*   |  *0.57*   |  *Hoek van Holland V1*   |
 | 75468 : 435423  | 74636 : 435411  | 3: Botlek – Europoort  | 0–24  | 17  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  *74636 : 435411*   |  *61478 : 440730*   |  *Traject 201010: Europoort – Maasvlakte*   | --- | --- |  *39700*   |  *9700*   |  *0*   |  *141840*   |  *10660*   |  *4900*   |  *0.1*   |  *0.57*   |  *Hoek_van_Holland*    *V1*   |
 | 74636 : 435411  | 73836 : 435935  | 1: Europoort – Maasvlakte  | 0–24  | 17  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 73836 : 435935  | 73073 : 436527  | 2: Europoort – Maasvlakte  | 0–24  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 73073 : 436527  | 72417 : 437073  | 3: Europoort – Maasvlakte  | 25–49  | 39  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 72417 : 437073  | 71777 : 437676  | 4: Europoort – Maasvlakte  | 0–24  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 73836 : 435935  | 73073 : 436527  | 2: Europoort – Maasvlakte  | 0–24  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
+| 73073 : 436527  | 72417 : 437073  | 3: Europoort – Maasvlakte  | 25–49  | 39  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
+| 72417 : 437073  | 71777 : 437676  | 4: Europoort – Maasvlakte  | 0–24  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
 | 71777 : 437676  | 71707 : 437809  | 5: Europoort – Maasvlakte  | 0–24  | 17  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 71707 : 437809  | 71196 : 438657  | 6: Europoort – Maasvlakte  | 0–24  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 71196 : 438657  | 69070 : 439287  | 7: Europoort – Maasvlakte  | 0–24  | 17  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 69070 : 439287  | 67210 : 439937  | 8: Europoort – Maasvlakte  | 0–24  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 69070 : 439287  | 67210 : 439937  | 8: Europoort – Maasvlakte  | 0–24  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
 | 67210 : 439937  | 63189 : 438798  | 9: Europoort – Maasvlakte  | 0–24  | 17  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 63189 : 438798  | 61478 : 440730  | 10: Europoort – Maasvlakte  | 0–24  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 63189 : 438798  | 61478 : 440730  | 10: Europoort – Maasvlakte  | 0–24  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W   |
 |  *100368 : 427447*   |  *142006 : 429076*   |  *Traject 202010: Kijfhoek – Geldermalsen ZW-boog*   | --- | --- |  *50920*   |  *6240*   |  *730*   |  *111880*   |  *6380*   |  *3920*   |  *0.15*   |  *0.89*   |  *Rotterdam V2*   |
 | 100368 : 427447  | 100595 : 427290  | 1: Kijfhoek – Geldermalsen ZW-boog  | 0–24  | 16  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 100595 : 427290  | 101743 : 426597  | 2: Kijfhoek – Geldermalsen ZW-boog  | 0–24  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
@@ -2282,10 +2282,10 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 200915 : 437809  | 202399 : 437259  | Tunnel Zevenaar  | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | T7  |
 | 202399 : 437259  | 202933 : 437060  | 5: Elst NW-boog – Zevenaar  | 0–24  | 16  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 202933 : 437060  | 203398 : 436887  | 6: Elst NW-boog – Zevenaar  | 0–24  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 203398 : 436887  | 204382 : 436479  | 7: Zevenaar – Emmerich  | 0–24  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 204382 : 436479  | 204970 : 436145  | 8: Zevenaar – Emmerich  | 0–24  | 16  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 204970 : 436145  | 205921 : 435600  | 9: Zevenaar – Emmerich  | 0–24  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 205921 : 435600  | 206648 : 435017  | 10: Zevenaar – Emmerich  | 0–24  | 16  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 203398 : 436887  | 204382 : 436479  | 7: Zevenaar – Emmerich   | 0–24  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 204382 : 436479  | 204970 : 436145  | 8: Zevenaar – Emmerich   | 0–24  | 16  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 204970 : 436145  | 205921 : 435600  | 9: Zevenaar – Emmerich   | 0–24  | 30  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 205921 : 435600  | 206648 : 435017  | 10: Zevenaar – Emmerich   | 0–24  | 16  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  *100377 : 427448*   |  *104317 : 424936*   |  *Traject 203010: Kijfhoek – Dordrecht*   | --- | --- |  *16560*   |  *4760*   |  *50*   |  *22220*   |  *6810*   |  *1990*   |  *0.13*   |  *0.78*   |  *Rotterdam*   |
 | 100377 : 427448  | 101028 : 426994  | 1: Kijfhoek – Dordrecht  | 275-299  | 65  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 101028 : 426994  | 101068 : 426961  | 2: Kijfhoek – Dordrecht  | 250-274  | 65  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
@@ -2381,12 +2381,12 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 123663 : 487527  | 123572 : 487561  | 17: Amsterdam Muiderpoort – Amsterdam Singelgracht  | 75–99  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 123572 : 487561  | 123475 : 487597  | 18: Amsterdam Muiderpoort – Amsterdam Singelgracht  | 50–74  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 123475 : 487597  | 122699 : 487785  | 19: Amsterdam Muiderpoort – Amsterdam Singelgracht  | 25–49  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 122699 : 487785  | 122224 : 487799  | 20: Amsterdam Muiderpoort – Amsterdam Singelgracht  | 25–49  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
-| 122224 : 487799  | 122002 : 487925  | 21: Amsterdam Muiderpoort – Amsterdam Singelgracht  | 50–74  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
-| 122002 : 487925  | 121698 : 488109  | 22: Amsterdam Muiderpoort – Amsterdam Singelgracht  | 75–99  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
-| 121698 : 488109  | 121295 : 488345  | 23: Amsterdam Muiderpoort – Amsterdam Singelgracht  | 50–74  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
-| 121295 : 488345  | 121198 : 488402  | 24: Amsterdam Muiderpoort – Amsterdam Singelgracht  | 50–74  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 121198 : 488402  | 121133 : 488440  | 25: Amsterdam Muiderpoort – Amsterdam Singelgracht  | 25–49  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 122699 : 487785  | 122224 : 487799  | 20: Amsterdam Muiderpoort – Amsterdam Singelgracht   | 25–49  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
+| 122224 : 487799  | 122002 : 487925  | 21: Amsterdam Muiderpoort – Amsterdam Singelgracht   | 50–74  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
+| 122002 : 487925  | 121698 : 488109  | 22: Amsterdam Muiderpoort – Amsterdam Singelgracht   | 75–99  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
+| 121698 : 488109  | 121295 : 488345  | 23: Amsterdam Muiderpoort – Amsterdam Singelgracht   | 50–74  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W L  |
+| 121295 : 488345  | 121198 : 488402  | 24: Amsterdam Muiderpoort – Amsterdam Singelgracht   | 50–74  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 121198 : 488402  | 121133 : 488440  | 25: Amsterdam Muiderpoort – Amsterdam Singelgracht   | 25–49  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 121133 : 488440  | 121095 : 488464  | 26: Amsterdam Muiderpoort – Amsterdam Singelgracht  | 25–49  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 121095 : 488464  | 121011 : 488528  | 27: Amsterdam Muiderpoort – Amsterdam Singelgracht  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 121011 : 488528  | 120803 : 488719  | 28: Amsterdam Muiderpoort – Amsterdam Singelgracht  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
@@ -2451,7 +2451,7 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 257145 : 533490  | 257144 : 533983  | 22: Coevorden – Emmen  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 257144 : 533983  | 257109 : 535234  | 23: Coevorden – Emmen  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 |  *187804 : 334267*   |  *204109 : 321405*   |  *Traject 380010: Sittard Aansl. – Herzogenrath*   | --- | --- |  *2670*   |  *0*   |  *0*   |  *0*   |  *0*   |  *0*   |  *0*   |  *0*   |  *Beek*   |
-| 187804 : 334267  | 187645 : 333924  | 1: Sittard Aansl. – Heerlen  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 187804 : 334267  | 187645 : 333924  | 1: Sittard Aansl. – Heerlen   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 187645 : 333924  | 187641 : 333732  | 2: Sittard Aansl. – Heerlen  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 187641 : 333732  | 190341 : 326606  | 3: Sittard Aansl. – Heerlen  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 190341 : 326606  | 190485 : 325877  | 4: Sittard Aansl. – Heerlen  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
@@ -2459,10 +2459,10 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 | 190838 : 325398  | 191569 : 324994  | 6: Sittard Aansl. – Heerlen  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 191569 : 324994  | 194637 : 323348  | 7: Sittard Aansl. – Heerlen  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 194637 : 323348  | 194952 : 323179  | 8: Sittard Aansl. – Heerlen  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 194952 : 323179  | 196218 : 322546  | 9: Sittard Aansl. – Heerlen  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 196218 : 322546  | 196491 : 322469  | 10: Sittard Aansl. – Heerlen  | 25–49  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 196491 : 322469  | 197132 : 322393  | 11: Sittard Aansl. – Heerlen  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
-| 197132 : 322393  | 197680 : 322444  | 12: Sittard Aansl. – Heerlen  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 194952 : 323179  | 196218 : 322546  | 9: Sittard Aansl. – Heerlen   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 196218 : 322546  | 196491 : 322469  | 10: Sittard Aansl. – Heerlen   | 25–49  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 196491 : 322469  | 197132 : 322393  | 11: Sittard Aansl. – Heerlen   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
+| 197132 : 322393  | 197680 : 322444  | 12: Sittard Aansl. – Heerlen   | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 197680 : 322444  | 198455 : 322782  | 13: Heerlen. – Herzogenrath  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 198455 : 322782  | 198898 : 323014  | 14: Heerlen. – Herzogenrath  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
 | 198898 : 323014  | 199381 : 323133  | 15: Heerlen. – Herzogenrath  | 0–24  | 0  | --- | --- | --- | --- | --- | --- | --- | --- | W  |
@@ -2519,7 +2519,7 @@ De volgende tabel vermeldt (beperkt) kwetsbare objecten en correctiefactoren voo
 Toelichting tabel:  
 
 | KOLOM  | UITLEG  |
-|---|---|
+|:---|:---|
 | 1,2.  | De coördinaten zijn in RDM coördinaten weergegeven (eenheid is meters).  |
 | --- | --- |
 | 3.  | Het nummer van de trajecten in de groene balk correspondeert met een traject op de kaart van knoop naar knoop (wissel, eindpunt) met gelijke vervoershoeveelheden conform Basisnet Spoor. Het nummer bestaat uit een route nummer met een trajectnummer.  |
@@ -2535,8 +2535,8 @@ Toelichting tabel:
 | --- | 50–74  | 74  | --- |
 | --- | Vorige + 25m  | Vorige + 25m  | --- |
 | --- |
-| 5.  | De PR 10 <sup>-6</sup> -contour betreft de veiligheidszone gerekend vanuit het midden van de doorgaande spoorbundel.  |
-| --- | Bij een berekende 10 <sup>-6</sup> contour van 0 en een vervoerstroom van meer dan 3.500 ketelwageneenheden/per jaar brandbare vloeistoffen is de veiligheidszone op 1 meter vastgesteld.  |
+| 5.  | De PR 10<sup>-6 </sup>-contour betreft de veiligheidszone gerekend vanuit het midden van de doorgaande spoorbundel.  |
+| --- | Bij een berekende 10<sup>-6</sup> contour van 0 en een vervoerstroom van meer dan 3.500 ketelwageneenheden/per jaar brandbare vloeistoffen is de veiligheidszone op 1 meter vastgesteld.   |
 | --- |
 | 6.  | De vervoerscijfers zijn conform Basisnet Spoor en hebben betrekking op gepland vervoer rond 2020. De waarden in de subkolom Warme/Koude Bleve verhouding zijn afgeleid uit de vervoerscijfers en samenstelling van treinen op het traject.  |
 | --- | In deze waarde is de verdeling over bonte- en bloktreinen verdisconteerd. De genoemde waarden hebben betrekking op de vervoercijfers van A en B2 uit deze tabel (in het rekenmodel RBMII worden deze als bont ingevoerd).  |
@@ -2550,7 +2550,7 @@ Toelichting tabel:
 | --- | Deze besluitvorming kan ook consequenties hebben voor het traject Roosendaal – Lage Zwaluwe en Zutphen – Deventer – Almelo – Hengelo.  |
 | --- |
 | --- | De plaatsnaam betreft het weerstation dat in de berekeningen wordt gebruikt.  |
-| --- | Er zijn twee geindexeerde bijzonderheden: Tunnels (Ti) en Risicoreductie door extra maatregelen (Vi).  |
+| --- | Er zijn twee geindexeerde bijzonderheden: Tunnels (Ti) en Risicoreductie door extra maatregelen (Vi).   |
 | --- | Ti  | Tunnel  | --- |
 | --- | T1  | Spoortunnel Best  | --- |
 | --- | T2  | Willemspoortunnel  | --- |
@@ -2563,16 +2563,16 @@ Toelichting tabel:
 | --- | Voor de risicoreductie zijn de volgende waarden onderscheiden:  |
 | --- | Vi  | Veiligheidsmaatregel  | Risicoreductie  |
 | --- | V1  | Maatregelen Havenspoorlijn  | 40%  |
-| --- | V2  | Maatregelen Betuweroute  | 46%  |
+| --- | V2  | Maatregelen Betuweroute   | 46%  |
 | --- |
 | --- | De achtergrond van deze informatie is gegeven in de Memo BN-spoor bepalen risicoruimte op de Betuweroute (11 maart 2011 van het ministerie I&M).  |
 
-Algemeen: Het rekenprotocol, versie 10 is de basis van de gegevens zoals gepresenteerd in deze tabel. 
+Algemeen: Het rekenprotocol, versie 10 is de basis van de gegevens zoals gepresenteerd in deze tabel.
 ###Trajectnummers Noord-Nederland
 
-![]()
+![250650](http://wetten.overheid.nl/Illustration/250650)
 
 ###Trajectnummers Zuid-Nederland
 
-![]()
+![250651](http://wetten.overheid.nl/Illustration/250651)
 
