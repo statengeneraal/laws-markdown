@@ -3,12 +3,12 @@
 ##Besluit van het bestuur van het Productschap van Pluimvee en Eieren van 15 september 2011 tot uitwerking van de voorschriften inzake de bestrijding van Salmonella in kalkoenkuikenbroederijen (Hygiënebesluit kalkoenkuikenbroederijen (PPE) 2011)
 
 Het bestuur van het Productschap Pluimvee en Eieren;  
-Gelet op de [artikelen 6](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md), [7](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md), [8](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md), [14](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md), [15](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md) en [16 van de Verordening hygiënemaatregelen en bestrijding zoönosen in de kalkoensector (PPE) 2011](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md);
+Gelet op de artikelen 6, 7, 8, 14, 15 en 16 van de Verordening hygiënemaatregelen en bestrijding zoönosen in de kalkoensector (PPE) 2011;
 Besluit:    
 
 ### Artikel  1  
 
-Dit besluit neemt de terminologie, als omschreven in [artikel 1 van de Verordening hygiënemaatregelen en bestrijding zoönosen in de kalkoensector (PPE) 2011](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md) (hierna: de Verordening), over en verstaat daarnaast onder: 
+Dit besluit neemt de terminologie, als omschreven in artikel 1 van de Verordening hygiënemaatregelen en bestrijding zoönosen in de kalkoensector (PPE) 2011 (hierna: de Verordening), over en verstaat daarnaast onder: 
 
 1. ondernemer: een natuurlijk persoon of rechtspersoon die een kalkoenkuikenbroederij uitoefent, en  
 
@@ -20,18 +20,19 @@ Dit besluit neemt de terminologie, als omschreven in [artikel 1 van de Verordeni
 
 1.  De ondernemer laat zes keer per kalenderjaar een hygiëneonderzoek door GD uitvoeren, overeenkomstig Bijlage I.   
 2.  De ondernemer mag onderdelen van het hygiëneonderzoek zelf uitvoeren. overeenkomstig Bijlage II.   
+3.  De ondernemer neemt op grond van de uitslag van het hygiëneonderzoek de maatregelen die zijn opgenomen in Bijlage I, hoofdstuk C, onderdelen 1., 2. en 3.   
 
-####Monsterneming in het kader van [artikel 7 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md) (reguliere monsterneming)
+####Monsterneming in het kader van artikel 7 van de Verordening (reguliere monsterneming)
 
 ### Artikel  3  
 
-De ondernemer neemt de monsters als bedoeld in [artikel 7, eerste lid, van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md) overeenkomstig de werkvoorschriften opgenomen in Bijlage III (dons, meconium, eierschalen, inlegvellen en liggenblijvers).  
+De ondernemer neemt de monsters als bedoeld in artikel 7, eerste lid, van de Verordening overeenkomstig de werkvoorschriften opgenomen in Bijlage III (dons, meconium of liggenblijvers).  
 
 ####Detectie en serotypering monsters
 
 ### Artikel  4  
 
-1.  De ondernemer zorgt ervoor dat de monsters als bedoeld in [artikel 7, eerste lid, van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md) binnen 24 uur na de monsterneming zijn verzonden naar een voor detectie van Salmonella erkend laboratorium.   
+1.  De ondernemer zorgt ervoor dat de monsters als bedoeld in artikel 7, eerste lid, van de Verordening binnen 24 uur na de monsterneming zijn verzonden naar een voor detectie van Salmonella erkend laboratorium.   
 2.  Indien het voor detectie van Salmonella erkende laboratorium Salmonella in een monster heeft gedetecteerd, dan zorgt de ondernemer ervoor dat dit monster onverwijld na de detectie wordt geserotypeerd door een voor serotypering erkend laboratorium.   
 
 ####Melding uitslagen onderzoek naar Salmonella
@@ -40,32 +41,32 @@ De ondernemer neemt de monsters als bedoeld in [artikel 7, eerste lid, van de Ve
 
 1.  Indien uit de uitslag van de serotypering blijkt dat in een monster Salmonella Enteritidis of Salmonella Typhimurium, Salmonella Hadar, Salmonella Infantis of Salmonella Virchow is aangetoond, dan zorgt de ondernemer ervoor dat dit binnen één werkdag nadat deze uitslag bij hem bekend is, is gemeld aan de voorzitter, aan GD, aan het fokbedrijf of vermeerderingsbedrijf dat de broedeieren heeft geproduceerd waarvan de monsters afkomstig zijn en aan het bedrijf dat de kalkoenen afneemt die uit deze broedeieren zijn geboren (opfokbedrijf, fokbedrijf, vermeerderingsbedrijf of vleeskalkoenbedrijf).   
 2.  Indien uit de uitslag van de detectie blijkt dat geen Salmonella in een monster is aangetoond of indien uit de uitslag van de serotypering blijkt dat in een monster een ander serotype Salmonella dan Salmonella Enteritidis, Salmonella Typhimurium, Salmonella Hadar, Salmonella Infantis, Salmonella Virchow is aangetoond, dan zorgt de ondernemer ervoor dat dit binnen tien werkdagen nadat de uitslag bij hem bekend is, is gemeld aan de voorzitter, aan het fokbedrijf of vermeerderingsbedrijf dat de broedeieren heeft geproduceerd waarvan de monsters afkomstig zijn en aan het bedrijf dat de kalkoenen afneemt die uit deze broedeieren zijn geboren (opfokbedrijf, fokbedrijf, vermeerderingsbedrijf of vleeskalkoenbedrijf).   
-3.  De ondernemer meldt de uitslag van de laatst uitgevoerde detectie en serotypering van de monsters van een stalkoppel fokkalkoenen of vermeerderingskalkoenen waarvan de broedeieren afkomstig zijn, als bedoeld in [artikel 3, tweede lid, van het Hygiënebesluit fokbedrijven, opfokbedrijven en vermeerderingsbedrijven kalkoensector (PPE) 2011](../../../../../../pbo/hygiënebesluit/fokbedrijven/opfokbedrijven/en/vermeerderingsbedrijven/etc/BWBR0031080/README.md), schriftelijk aan het bedrijf dat de kalkoenen afneemt gelijktijdig met de aflevering van deze kalkoenen aan dit bedrijf (opfokbedrijf, fokbedrijf, vermeerderingsbedrijf of vleeskalkoenbedrijf)   
+3.  De ondernemer meldt de uitslag van de laatst uitgevoerde detectie en serotypering van de monsters van een stalkoppel fokkalkoenen of vermeerderingskalkoenen waarvan de broedeieren afkomstig zijn, als bedoeld in artikel 3, tweede lid, van het Hygiënebesluit fokbedrijven, opfokbedrijven en vermeerderingsbedrijven kalkoensector (PPE) 2011, schriftelijk aan het bedrijf dat de kalkoenen afneemt gelijktijdig met de aflevering van deze kalkoenen aan dit bedrijf (opfokbedrijf, fokbedrijf, vermeerderingsbedrijf of vleeskalkoenbedrijf)   
 4.  De in het eerste en tweede lid bedoelde melding aan de voorzitter bevat naast de uitslag van het serotype Salmonella of de negatieve uitslag van de detectie de volgende gegevens: 
 
-* KIP-nummer,  
+Naam of KIP-nummer van het fokbedrijf of vermeerderingsbedrijf dat de broedeieren heeft geproduceerd waarvan de monsters afkomstig zijn,  
 
-* Activiteit: kalkoenkuikenbroederij,  
+Activiteit: kalkoenkuikenbroederij,  
 
-* Geboortedatum kalkoenkuikens,  
+Geboortedatum kalkoenkuikens,  
 
-* Kastnummer,  
+Kastnummer,  
 
-* Datum monsterneming,  
+Datum monsterneming,  
 
-* Type monster (inlegvellen, dons, meconium, liggenblijvers, eierschalen),  
+Type monster (dons, meconium of liggenblijvers),  
 
-* Type onderzoek (regulier + Salmonella),  
+Type onderzoek (regulier + Salmonella),  
 
-* In geval van een negatieve uitslag de datum van de uitslag van de detectie,  
+In geval van een negatieve uitslag de datum van de uitslag van de detectie,  
 
-* In geval van een positieve uitslag de datum van de uitslag van de serotypering.     
+In geval van een positieve uitslag de datum van de uitslag van de serotypering.     
 
 ####Maatregelen bij een besmetting met Salmonella
 
 ### Artikel  6  
 
-Indien de voorzitter op grond van het onderzoek naar Salmonella als bedoeld in [artikel 4, tweede lid](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md), of [artikel 7, tweede lid](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md), dan wel het verificatieonderzoek als bedoeld in artikel 4, vierde lid, of artikel 7, vierde lid van de Verordening, een besmetting met Salmonella Enteritidis of Salmonella Typhimurium heeft vastgesteld bij het stalkoppel fokkalkoenen of vermeerderingskalkoenen dat de broedeieren heeft geproduceerd waarvan de monsters als bedoeld in artikel 7 afkomstig zijn, dan is de ondernemer verplicht om de maatregelen als bedoeld in [artikel 8 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md) uit te voeren.  
+Indien de voorzitter op grond van het onderzoek naar Salmonella als bedoeld in artikel 4, tweede lid, of artikel 7, tweede lid, dan wel het verificatieonderzoek als bedoeld in artikel 4, vierde lid, of artikel 7, vierde lid van de Verordening, een besmetting met Salmonella Enteritidis of Salmonella Typhimurium heeft vastgesteld bij het stalkoppel fokkalkoenen of vermeerderingskalkoenen dat de broedeieren heeft geproduceerd waarvan de monsters als bedoeld in artikel 7 afkomstig zijn, dan is de ondernemer verplicht om de maatregelen als bedoeld in artikel 8 van de Verordening uit te voeren.  
 
 ####Hygiëne-eisen inrichting kalkoenkuikenbroederij
 
@@ -78,7 +79,8 @@ Indien de voorzitter op grond van het onderzoek naar Salmonella als bedoeld in [
 
 ### Artikel  8  
 
-De ondernemer bewaart de uitslagen van het hygiëneonderzoek, de detectie en de serotypering gedurende ten minste twee jaren na ontvangst van de uitslagen.  
+1.  De ondernemer bewaart de uitslagen van het hygiëneonderzoek, de detectie en de serotypering gedurende ten minste twee jaren na ontvangst van de uitslagen.   
+2.  De ondernemer registreert de uitslagen van de ingevolge de artikelen 4 en 7 van de Verordening uitgevoerde onderzoeken naar Salmonella per kalkoenkuikenbroederij, per fokbedrijf, per vermeerderingsbedrijf en per stal van het fokbedrijf of vermeerderingsbedrijf. De ondernemer bewaart deze uitslagen gedurende ten minste twee jaren nadat het betreffende stalkoppel is geruimd.   
 
 ####Slotbepaling
 
@@ -99,128 +101,148 @@ secretaris
 
 ####Hygiëneonderzoeken in de kalkoenkuikenbroederij
 
-###Procedure
+####Procedure
 
-De kalkoenkuikenbroederij dient gecontroleerd te worden op een tijdstip dat de ruimten na het ontsmetten zijn opgedroogd, het desinfectans zijn werk heeft gedaan en het oppervlak nog niet bezoedeld is door de uitvoering van de werkzaamheden. De ruimten waarin niet routinematig gewerkt wordt, worden op onverwachte tijdstippen onderzocht door GD. Dit kortere onderzoek vindt viermaal per jaar plaats en staat beschreven in onderdeel A : “Onderzoek routine”. De gehele kalkoenkuikenbroederij wordt twee keer per jaar volledig gecontroleerd. Hiervoor wordt van tevoren een afspraak gemaakt met de betreffende kalkoenkuikenbroederij. De controle wordt beschreven in onderdeel B : “Onderzoek speciaal”. De beide type onderzoeken worden door GD uitgevoerd. Onder voorwaarden kan een kalkoenkuikenbroederij het onderzoek van onderdeel A: “Onderzoek routine” zelf uitvoeren. Deze voorwaarden staan beschreven in bijlage II van dit besluit. Indien het onderdeel niet bemonsterd kan worden dan dient dit vermeld te worden op het uitslagformulier. Van elk lokaal wordt een lokaal gemiddelde berekend. Het totaal gemiddelde wordt berekend door de gemiddelden van alle lokalen en kasten op te tellen en te delen door de som van het aantal lokalen + kasten (gemiddelde van de gemiddelden). De monsters worden afhankelijk van de bedrijfsgrootte van de kalkoenkuikenbroederij genomen met een veelvoud van 12 rodacplaatjes met een diameter van 5.5 cm. De verwerking van de monsters voor het hygiëneonderzoek in kalkoenkuikenbroederijen dient plaats te vinden volgens het onderzoek zoals beschreven in het Besluit erkenningsvoorwaarden en werkwijzen HOSOWO-instanties (PPE) 2011.  
+In deze bijlage wordt de procedure voor het uitvoeren van hygiëneonderzoeken in de kalkoenkuikenbroederij omschreven. Het hygiëneonderzoek bestaat uit een bepaling van de hygiënestatus door middel van het bepalen van het aantal kolonie vormende eenheden (kve) met Rodacplaatjes (zie onderdeel A. van deze bijlage) en een onderzoek naar Salmonella door middel van swabs (zie onderdeel B. van deze bijlage). Er zijn twee typen hygiëneonderzoeken: 
 
-| --- | --- |
-|:---|:---|
+1. Een standaard hygiëneonderzoek, vier keer per kalenderjaar;  
+
+2. Een uitgebreid hygiëneonderzoek, twee keer per kalenderjaar.   Beide typen hygiëneonderzoek worden uitgevoerd door GD. Het standaard hygiëne onderzoek wordt onaangekondigd uitgevoerd. Voor het uitgebreide hygiëneonderzoek dient de ondernemer van tevoren een afspraak met GD te maken. Onder bepaalde voorwaarden kan de ondernemer het standaard hygiëneonderzoek zelf uitvoeren. Deze voorwaarden staan beschreven in Bijlage II van dit besluit. Het standaard hygiëneonderzoek en het uitgebreide hygiëneonderzoek zijn beschreven in tabel 2. Beide typen hygiëneonderzoek worden uitgevoerd op een tijdstip dat de ruimten van de kalkoenkuikenbroederij na het ontsmetten zijn opgedroogd, het desinfectans zijn werk heeft gedaan en het oppervlak nog niet bezoedeld is door de uitvoering van de werkzaamheden. 
+
+### A  
+
+####Bepalen hygiënestatus
+
+Indien één of meerdere onderdelen genoemd in tabel 2 niet bemonsterd kunnen worden dan dient dit met redenen omkleed vermeld te worden op het uitslagformulier. Van elk onderdeel wordt een individueel gemiddelde berekend. Het totale gemiddelde wordt berekend door de gemiddelden van alle onderdelen op te tellen en te delen door de som van het aantal onderdelen (dit vormt het gemiddelde van de gemiddelden). De monsters worden genomen met Rodacplaatjes met een diameter van 5,5 cm. Tabel 1 wordt aangehouden bij het bepalen van de score per Rodacplaatje. Tabel 2 bepaalt hoeveel Rodacplaatjes worden gebruikt bij het uitvoeren van het hygiëneonderzoek. De verwerking van de monsters voor het hygiëneonderzoek in kalkoenkuikenbroederijen dient plaats te vinden volgens het onderzoek zoals beschreven in het Besluit erkenningsvoorwaarden en werkwijzen HOSOWO-instanties (PPE) 2011.  Tabel 1 Bepalen score Rodacplaatje 
+
+|
+|
 | Aantal kolonie vormende eenheden (kve) op het Rodacplaatje  | Score  |
 | 0  | 0  |
 | 1 t/m 40  | 1  |
-| 41 t/m 121  | 2  |
+| 41 t/m 120  | 2  |
 | 121 t/m 400  | 3  |
 | > 400  | 4  |
-| ontelbaar  | 5  |
+| Ontelbaar  | 5  |
 
-| --- | --- | --- | --- |
-|:---|:---|:---|:---|
-| --- | --- | Onderzoek "routine" (A)  | Onderzoek "routine" (B)  |
-| Lokaal  | locatie monsterneming  | Aantal afdrukken  | Aantal afdrukken  |
-| aanvoerlokaal + eiersorteer  | Vloer  inventaris  transportkar  | 2  1  1  | 2    1  |
-| Hygiënesluis  | Vloer  wand  | --- | 1  1  |
-| Afraaplokaal  | Vloer  inventaris  | --- | 2  2  |
-| Kantine  | vloer  tafel  | 1  1  | 2  1  |
-| Spoelruimte  | vloer  inventaris  bak  |   2  1  | 2  2  2  |
-| Kleedlokaal  | vloer  | --- | 2  |
-| Schouwlokaal  | vloer  inventaris  | 1  1  | 1  2  |
-| Gang  | vloer  | --- | 2  |
-| Marek depot  | vloer  tafel  | --- | 2  1  |
-| Afvoergarage  | vloer  | --- | 2  |
-| 1 voorbroedlokaal  | vloer  wand  | 2    | 2  1  |
-| 1 uitkomstlokaal  | vloer  wand  | 2    | 2  1  |
-| 2 voorbroedkasten  | vloer  wand  eieren  | 2 x 2    2 x 1  | 2 x 2  2 x 1  2 x 1  |
-| 1 uitkomstkast  | vloer  wand  plafond  | 1 x 2      | 1 x 2  1 x 1  1 x 1  |
+Tabel 2 Monsterschema 
+
+|--- |--- | Standaard hygiëneonderzoek  | Uitgebreide hygiëneonderzoek  |
+|---|---|---|---|
+| Onderdeel  | Locatie monsterneming  | Aantal afdrukken  | Aantal afdrukken  |
+| Aanvoerlokaal + eiersorteer  | Vloer  Inventaris  Transportkar  | 2  1  1  | 2    1  |
+| Hygiënesluis  | Vloer  Wand  | --- | 1  1  |
+| Afraaplokaal  | Vloer  Inventaris  | --- | 2  2  |
+| Kantine  | Vloer  Tafel  | 1  1  | 2  1  |
+| Spoelruimte  | Vloer  Inventaris  Bak  |   2  1  | 2  2  2  |
+| Kleedlokaal  | Vloer  | --- | 2  |
+| Schouwlokaal  | Vloer  Inventaris  | 1  1  | 1  2  |
+| Gang  | Vloer  | --- | 2  |
+| Afvoergarage  | Vloer  | --- | 2  |
+| 1 voorbroedlokaal  | Vloer  Wand  | 2  | 2  1  |
+| 1 uitkomstlokaal  | Vloer  Wand  | 2  | 2  1  |
+| 2 voorbroedkasten  | Vloer  Wand  Eieren  | 2 x 2    2 x 1  | 2 x 2  2 x 1  2 x 1  |
+| 1 uitkomstkast  | Vloer  Wand  Plafond  | 1 x 2  | 1 x 2  1 x 1  1 x 1  |
 | Negatieve controle  | --- | 1  | 1  |
 | Totaal  | --- | 24  | 49  |
-
-###Onderzoek naar Salmonella
-
-In de kalkoenkuikenbroederij moet tijdens alle bezoeken vóór het hygiëneonderzoek een onderzoek naar Salmonella worden uitgevoerd. Doel van dit onderzoek is het controleren of eventueel, via de broedeieren, ingesleepte Salmonella in de kalkoenkuikenbroederij achterblijven en zich in de kalkoenkuikenbroederij verspreiden. Het doel is niet het aantonen van eventueel besmette koppels kuikens. Het onderzoek naar Salmonella begint met een monsterneming van 60 swabs. De swabs worden tijdens de monsterneming bevochtigd met Pepton/Fysiologisch-zout. Per swab wordt een oppervlakte van 25 cm <sup>2</sup> bemonsterd. De swabs worden, per 20 stuks, verzameld in één pot. De volgende locaties dienen te worden bemonsterd:  
-
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
-| Locatie  | Locatie monsterneming  | aantal swabs  | pot-nummer  |
-| Aanvoerlokaal + eiersorteer  | vloer  inventaris  containers  | 5  2  2  | 1      |
-| Kleedlokaal  | Vloer  inventaris  wc  | 3  2  1  | 1      |
-| Kantine  | Vloer  inventaris  | 3  2  | 1    |
+
+### B  
+
+####Onderzoek naar Salmonella
+
+In de kalkoenkuikenbroederij moet tijdens elk hygiëneonderzoek een onderzoek naar Salmonella worden uitgevoerd. Doel van dit onderzoek is om te controleren of eventueel Salmonella in de kalkoenkuikenbroederij aanwezig is. Het doel is niet om aan te tonen dat de broedeieren en de kalkoenen besmet zijn met Salmonella. Daarvoor dient het onderzoek naar dons, meconium of liggenblijvers. Het onderzoek naar Salmonella bestaat uit een monsterneming van 60 swabs. De swabs worden tijdens de monsterneming bevochtigd met Pepton/Fysiologisch zout. Per swab wordt een oppervlakte van 25 cm2 bemonsterd. De swabs worden, per 20 stuks, verzameld in één pot. De swabs moeten worden onderzocht door een door de voorzitter voor detectie van Salmonella erkend laboratorium. De locaties genoemd in tabel 3 dienen te worden bemonsterd.  Tabel 3 Locatie onderzoek naar Salmonella 
+
+| Locatie  | Locatie monsterneming  | Aantal swabs  | Pot-nummer  |
+|---|---|---|---|
+| Aanvoerlokaal + eiersorteer  | Vloer  Inventaris  Containers  | 5  2  2  | 1  |
+| Kleedlokaal  | Vloer  Inventaris  wc  | 3  2  1  | 1  |
+| Kantine  | Vloer  Inventaris  | 3  2  | 1  |
 | --- | --- | --- | --- |
-| Voorbroedlokalen  | vloer  | 6  | 2  |
-| Voorbroedkasten en gereinigde uitkomstkasten  | vloer  | 14  | 2  |
-| --- | --- | 1  | --- |
-| Spoelruimte  | vloer  krattenwasser  inventaris  | 3  1  2  | 3      |
-| Schouwlokaal  | vloer  inventaris  | 3  3  | 3    |
-| Afraaplokaal  | vloer  inventaris  | 5  3  | 3    |
+| Voorbroedlokalen  | Vloer  | 6  | 2  |
+| Voorbroedkasten en gereinigde uitkomstkasten  | Vloer  | 14  | 2  |
+| --- | --- | --- | --- |
+| Spoelruimte  | Vloer  Krattenwasser  Inventaris  | 3  1  2  | 3  |
+| Schouwlokaal  | Vloer  Inventaris  | 3  3  | 3  |
+| Afraaplokaal  | Vloer  Inventaris  | 5  3  | 3  |
 
-###Beoordeling en actie
+### C  
 
-De beoordeling is gebaseerd op het hoogste gemiddelde van de lokalen/kasten en een totaal gemiddelde van de kalkoenkuikenbroederij. Op basis van de gemiddelden en de aanwezigheid van Salmonella dient actie te worden ondernomen. 
-###1. Resultaat hygiëneonderzoek lokaal/kast
+####Beoordeling uitslagen en maatregelen
 
-Het gemiddelde van de resultaten van de hygiëneonderzoeken per lokaal of kast mag niet hoger zijn dan 3, tenzij de monsternemer heeft aangegeven dat tijdens de monsterneming dusdanige werkzaamheden werden uitgevoerd dat deze de uitslag beïnvloedden. In dat geval wordt het genoemde gemiddelde niet meegenomen in de totaal beoordeling. In het geval een lokaal/kast gemiddelde boven de 3 uitkomt, dient de uitslag bij het volgende onderzoek ten minste voldoende te zijn. Indien het betreffende lokaal of de kast wederom een gemiddelde van 3 of hoger scoort, dient binnen een tijdsbestek van 2 maanden een extra "onderzoek speciaal" te worden uitgevoerd. Lokaal- of kast gemiddelde (individuele beoordeling)  
+De beoordeling van de uitslagen is gebaseerd op het hoogste individuele gemiddelde van de onderdelen en een totaal gemiddelde van de kalkoenkuikenbroederij. Op basis van de gemiddelden en de aanwezigheid van Salmonella dient de ondernemer al dan niet maatregelen te nemen. 
 
-| --- | --- | --- |
-|:---|:---|:---|
-| Lokaal of kast gemiddelde  | Beoordeling  | Actie  |
-| kleiner of gelijk aan 1  | zeer goed  | geen  |
-| groter dan 1 en kleiner of gelijk aan 2  | goed  | geen  |
-| groter dan 2 kleiner of gelijk aan 3  | voldoende  | geen  |
-| groter dan 3  | onvoldoende  | Lokaal- of kastgemiddelde van de volgende bemonstering minimaal voldoende, anders een extra 'onderzoek speciaal' binnen 2 maanden  |
+### 1  
 
-###2. Resultaat hygiëneonderzoek kalkoenkuikenbroederij (totale beoordeling)
+####Maatregelen na beoordeling van het gemiddelde per bemonsterde ruimte
 
-Het gemiddelde van de resultaten van de hygiëneonderzoeken van de verschillende lokalen of kasten in een broederij mag niet hoger zijn dan 3.0. In het geval het gemiddelde van een broederij boven 3.0 uitkomt, dient binnen een periode van 1 maand een extra ‘onderzoek speciaal’ te worden uitgevoerd. Wanneer het gemiddelde van een broederij groter is dan 2.0 en kleiner is dan 3.0 dan dient, binnen een periode van 2 maanden, een extra ‘onderzoek speciaal’ te worden uitgevoerd. Als het gemiddelde van een broederij groter is dan 1.5 en kleiner dan 2.0 dient het gemiddelde van de broederij bij een volgende bemonstering ten minster voldoende te zijn. Wanneer bij een volgende bemonstering wederom het gemiddelde tussen de 1.5 en 2.0 bedraagt dient, binnen een periode van 2 maanden, een extra ‘onderzoek speciaal’ te worden uitgevoerd.  
+Het gemiddelde van de uitslagen van de hygiëneonderzoeken per onderdeel mag niet hoger zijn dan 3, tenzij de monsternemer heeft aangegeven dat tijdens de monsterneming dusdanige werkzaamheden werden uitgevoerd dat deze de uitslag beïnvloedden. In dat geval wordt het genoemde gemiddelde niet meegenomen in de totale beoordeling. In het geval een individueel gemiddelde meer dan 3 is, dient de uitslag bij het volgende onderzoek ten minste voldoende te zijn. Indien het betreffende onderdeel wederom een gemiddelde van 3 of hoger scoort, dient de ondernemer binnen een tijdsbestek van twee maanden een extra uitgebreid hygiëneonderzoek te laten uitvoeren.  Tabel 4 Maatregelen na beoordeling van het gemiddelde per onderdeel (individuele beoordeling) 
 
-| --- | --- | --- |
-|:---|:---|:---|
-| Kalkoenkuikenbroederij gemiddelde  | Beoordeling  | Actie  |
-| 0  | Zeer goed  | Geen  |
-| groter dan 0.0 en kleiner of gelijk aan 0,5  | Goed  | Geen  |
-| groter dan 0.5 en kleiner of gelijk aan 1.0  | Voldoende  | Geen  |
-| groter dan 1.0 en kleiner of gelijk aan 1.5  | Onvoldoende  | Geen  |
-| groter dan 1.5 en kleiner of gelijk aan 2.0  | --- | Kalkoenkuiken-broederij gemiddelde van de volgende bemonstering dient minimaal voldoende te zijn, anders een extra speciale controle binnen 2 maanden  |
-| groter dan 2 en kleiner of gelijk aan 3.0  | Slecht  | extra speciale controle binnen 2 maanden  |
-| groter dan 3.0  | Zeer slecht  | extra speciale controle binnen 1m aand  |
+|  *Gemiddelde van individueel onderdeel*   |  *Beoordeling*   |  *Maatregelen*   |
+|---|---|---|
+| Kleiner dan of gelijk aan 1  | Zeer goed  | Geen  |
+| Groter dan 1 en kleiner dan of gelijk aan 2  | Goed  | Geen  |
+| Groter dan 2 en kleiner dan of gelijk aan 3  | Voldoende  | Geen  |
+| Groter dan 3  | Onvoldoende  | Gemiddelde van de volgende bemonstering van het betreffende onderdeel minimaal voldoende, anders een extra uitgebreid hygiëneonderzoek binnen twee maanden.  |
 
-###3. Actie bij een besmetting met Salmonella
+### 2  
 
-Een isolatie van een Salmonella leidt tot een extra "onderzoek speciaal" binnen één maand na het bekend worden van de positieve isolatie. 
+####Maatregelen na beoordeling van het gemiddelde van de totale kalkoenkuikenbroederij
+
+lokalen of kasten in een kalkoenkuikenbroederij mag niet hoger zijn dan 3. In het geval het gemiddelde van een kalkoenkuikenbroederij groter dan 3 is, dient de ondernemer binnen een periode van één maand een extra uitgebreid hygiëneonderzoek te laten uitvoeren. Wanneer het gemiddelde van een kalkoenkuikenbroederij groter is dan 2 en kleiner is dan 3 dan dient de ondernemer binnen een periode van twee maanden een extra uitgebreid hygiëneonderzoek te laten uitvoeren. Als het gemiddelde van een kalkoenkuikenbroederij groter is dan 1,5 en kleiner dan 2, dan dient het gemiddelde van de kalkoenkuikenbroederij bij een volgende bemonstering ten minste voldoende te zijn. Wanneer bij een volgende bemonstering wederom het gemiddelde tussen de 1,5 en 2 bedraagt dient de ondernemer binnen een periode van twee maanden, een extra uitgebreid hygiëneonderzoek te laten uitvoeren.  
+Tabel 5 Maatregelen na beoordeling van het gemiddelde per kalkoenkuikenbroederij (totale beoordeling) 
+
+|  *Kalkoenkuikenbroederij gemiddelde*   |  *Beoordeling*   |  *Maatregelen*   |
+|---|---|---|
+| 0  | Uitstekend  | Geen  |
+| Groter dan 0 en kleiner dan of gelijk aan 0,5  | Zeer goed  | Geen  |
+| Groter dan 0,5 en kleiner dan of gelijk aan 1  | Goed  | Geen  |
+| Groter dan 1 en kleiner dan of gelijk aan 1,5  | Voldoende  | Geen  |
+| Groter dan 1,5 en kleiner dan of gelijk aan 2  | Onvoldoende  | Kalkoenkuiken-broederij gemiddelde van de volgende bemonstering dient minimaal voldoende te zijn, anders een extra uitgebreid hygiëneonderzoek binnen twee maanden  |
+| Groter dan 2 en kleiner dan of gelijk aan 3  | Slecht  | extra uitgebreid hygiëneonderzoek binnen twee maanden  |
+| Groter dan 3  | Zeer slecht  | extra uitgebreid hygiëneonderzoek binnen één maand  |
+
+### 3  
+
+####Maatregelen uitkomst onderzoek naar Salmonella
+
+Een isolatie van een Salmonella leidt tot een extra uitgebreid hygiëneonderzoek binnen één maand na het bekend worden van de positieve isolatie.  
 
 ### Bijlage  II  
 
 ####Voorwaarden voor het uitvoeren van onderdelen van het hygiëneonderzoek door de ondernemer zelf
 
-Het programma voor hygiëneonderzoeken zoals beschreven in Bijlage I bestaat uit een uitgebreid aangekondigd onderzoek dat twee maal per jaar plaatsvindt en uit vier korte onderzoeken. Het routine hygiëneonderzoek (onderdeel A uit bijlage I) kan door de kalkoenkuikenbroederij zelf worden uitgevoerd, mits wordt voldaan aan de volgende voorwaarden: 
+Het hygiëneonderzoek zoals beschreven in Bijlage I bestaat uit een aangekondigd uitgebreid hygiëneonderzoek dat twee maal per kalenderjaar plaatsvindt en uit korte hygiëneonderzoeken die vier maal per kalenderjaar plaatsvinden: de zogenaamde standaard hygiëneonderzoeken. Het standaard hygiëneonderzoek kan door de ondernemer zelf worden uitgevoerd, mits wordt voldaan aan de volgende voorwaarden: 
 
-1. Het hygiëneonderzoek wordt uitgevoerd op de wijze zoals in het protocol van bijlage I beschreven; en  
+1. Het hygiëneonderzoek en de maatregelen worden uitgevoerd op de wijze zoals beschreven in bijlage I; en  
 
-2. De resultaten van de uitgebreide hygiëneonderzoeken tenminste voldoende zijn; en  
+2. De uitslagen van de uitgebreide hygiëneonderzoeken zoals beschreven in tabel 4 en tabel 5 van Bijlage I tenminste voldoende zijn; en  
 
-3. Het hygiëneonderzoek wordt uitgevoerd op het moment dat de broederij niet in bedrijf is. Dit houdt in dat het hygiëneonderzoek plaatsvindt nadat het verplicht reinigen en ontsmetten heeft plaatsgevonden en voordat de werkzaamheden weer worden hervat;  
-
-4. De analyse van de monsters wordt uitgevoerd door een door de voorzitter voor analyse erkende HOSOWO-instantie.   De resultaten van het onderzoek worden meegenomen in de controle van de kalkoenkuikenbroederijen als bedoeld in [artikel 21, tweede lid, van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md). Wanneer uit de resultaten van de controle blijkt dat de korte hygiëneonderzoeken niet correct zijn uitgevoerd of na de beoordeling niet de juiste actie is genomen dan wordt het korte hygiëneonderzoek gedurende één jaar wederom uitgevoerd door GD. Het halfjaarlijkse uitgebreide onderzoek wordt door GD uitgevoerd. Wanneer de resultaten van het uitgebreide onderzoek onvoldoende of slecht zijn dan wordt door GD de korte onderzoeken opnieuw uitgevoerd, totdat uit twee opeenvolgende uitgebreide onderzoeken blijkt dat de kalkoenkuikenbroederij weer tenminste voldoende scoort voor de uitgebreide onderzoeken. 
+3. Op basis van het onderzoek naar Salmonella als bedoeld in bijlage I is geen Salmonella in de kalkoenkuikenbroederij aangetoond.   De uitslagen van het hygiëneonderzoek worden meegenomen in de controle van de kalkoenkuikenbroederijen als bedoeld in artikel 17, tweede lid, van de Verordening. Wanneer uit de resultaten van de controle blijkt dat de standaard hygiëneonderzoeken niet correct zijn uitgevoerd of dat na de beoordeling niet de juiste maatregel is genomen dan worden de standaard hygiëneonderzoeken gedurende één jaar wederom uitgevoerd door GD. Het halfjaarlijkse uitgebreide hygiëneonderzoek wordt door GD uitgevoerd. Wanneer de resultaten van het uitgebreide hygiëneonderzoek onvoldoende of slecht zijn dan voert GD de standaard hygiëneonderzoeken opnieuw uit, totdat uit twee opeenvolgende uitgebreide hygiëneonderzoeken blijkt dat de kalkoenkuikenbroederij tenminste voldoende scoort voor de uitgebreide hygiëneonderzoeken. 
 
 ### Bijlage  III  
 
 ####Werkvoorschrift voor het nemen van monsters in de kalkoenkuikenbroederij
 
-###Doel
+####Doel
 
-Dit werkvoorschrift beschrijft de monsterneming van dons, meconium, eierschalen en inlegvellen uit uitkomstladen in kalkoenkuikenbroederijen in het kader van het verplichte onderzoek naar Salmonella. De monsters worden genomen door een medewerker van de kalkoenkuikenbroederij. 
-###Werkvoorschriften monsterneming
+Dit werkvoorschrift beschrijft de monsterneming van dons, meconium en liggenblijvers uit uitkomstladen in kalkoenkuikenbroederijen als bedoeld in artikel 7 van de Verordening en artikel 3 van dit besluit. De monsters van dons, meconium en liggenblijvers worden genomen door of in opdracht van de ondernemer.  
 
-### *Algemeen* 
+####Werkvoorschriften monsterneming
 
-1. Monsters moeten zijn te traceren zijn naar de stal(len) van herkomst van het stalkoppel fokkalkoenen of vermeerderingskalkoenen dat de broedeieren heeft geproduceerd waarvan de monsters afkomstig zijn;  
+*Algemeen*  
 
-2. De verantwoordelijkheid om de uitslagen van de monsters te traceren op stalniveau ligt bij de kalkoenkuikenbroederij.   De kalkoenkuikenbroederij moet een protocol hebben waarin staat vermeld: 
+1. De monsters worden genomen van iedere uitkomst in iedere uitkomstkast van de kalkoenkuikenbroederij;  
 
-1. wie verantwoordelijk is voor de monsterneming,  
+2. Monsters genomen van de broedeieren in één uitkomstkast worden beschouwd als zijnde afkomstig van één partij, ook indien de broedeieren geproduceerd zijn door meerdere stalkoppels fokkalkoenen of vermeerderingskalkoenen;  
 
-2. hoe, waar en wanneer de monsterneming wordt uitgevoerd  
+3. Indien een monster positief wordt bevonden draagt de kalkoenkuikenbroederij zorg voor een tijdige melding aan alle leveranciers die broedeieren hebben geleverd voor de betreffende partij broedeieren.   De kalkoenkuikenbroederij moet een protocol hebben waarin staat vermeld: 
 
-3. hoe de monsters kunnen worden getraceerd naar het bedrijf/de stal(len) van herkomst.   
-### *Benodigdheden voor het nemen van monsters* 
+1. Wie verantwoordelijk is voor de monsterneming,  
+
+2. Hoe, waar en wanneer de monsterneming wordt uitgevoerd,  
+
+3. Hoe de monsters kunnen worden getraceerd naar het bedrijf/de stal(len) van herkomst.    *Benodigdheden voor het nemen van monsters*  
 
 1. Steriele goed afsluitbare plastic zak of pot;  
 
@@ -228,56 +250,39 @@ Dit werkvoorschrift beschrijft de monsterneming van dons, meconium, eierschalen 
 
 3. Steriele plastic handschoenen;  
 
-4. Inzendformulier.   
-###A. Werkwijze monsterneming eierschalen
+4. Inzendformulier.    
 
-1. Per uitkomstkast worden uit tenminste 25 afzonderlijke uitkomstladen eierschalen bemonsterd;  
+### A  
 
-2. Per uitkomstlade wordt 10 gram gebroken eierschalen genomen;  
+####Uitvoering monsterneming dons
 
-3. De 25 monsters van tenminste 10 gram worden fijngemalen en gemengd waarna hiervan een deelmonster van 25 gram wordt genomen;  
+1. Per uitkomstkast worden ten minste 5 donsmonsters genomen.  
 
-4. Het monster (in totaal 25 gram fijngemalen eierschaal) kan in één pot of zak verzameld worden;  
-
-5. Het monster wordt genomen zonder de eierschalen met de handen aan te raken of anderszins risico van kruisbesmetting te lopen;   
-###B. Werkwijze monsterneming inlegvellen van uitkomstladen
-
-1. Er wordt minimaal één verzamelmonster van zichtbaar met faeces (meconium) besmeurde inlegvellen genomen.  
-
-2. Inlegvellen worden bemonsterd van uitkomstladen die aselect van 5 verschillende uitkomstladen of plaatsen in de uitkomstbroeder worden genomen.  
-
-3. De bemonsterde inlegvellen hebben een gezamenlijk oppervlak van tenminste 1 m2.  
-
-4. Indien de broedeieren van een koppel fokkalkoenen of vermeerderingskalkoenen over meer dan één broedmachine verdeeld zijn, wordt van iedere broedmachine een verzamelmonster genomen.  
-
-5. Monsterneming dient te geschieden zonder de inlegvellen met de handen aan te raken of anderszins risico van kruisbesmetting te lopen.  
-
-6. Het monster wordt zodanig genomen dat niet met iets anders in aanraking wordt gekomen, om een eventuele besmetting van/vanuit de omgeving te voorkomen  
-
-7. De monsters kunnen in één pot of zak worden verzameld.   
-###C. Uitvoering monsterneming dons
-
-1. Per uitkomstkast worden tenminste 5 donsmonsters genomen.  
-
-2. Elk donsmonster moet een monster zijn van minimaal 5 gram natte dons, genomen op de dag dat de kuikens worden afgeraapt, nadat de kast leeg is.  
+2. Elk donsmonster moet een monster zijn van minimaal 5 gram natte dons, genomen op de dag dat de kuikens worden afgeraapt, nadat de laatste kuikens uit de kast zijn verwijderd.  
 
 3. De monsters dienen op verschillende plaatsen in de uitkomstkast genomen te worden waarbij bij voorkeur een monster van de ventilator of grond genomen moet worden en monsters genomen dienen te worden van de linker-, rechter-, boven- en onderkant van de koelbuizen.  
 
 4. De monsters (in totaal 25 gram dons) kunnen in één pot of zak verzameld worden.  
 
-5. Het monster wordt genomen zonder het dons met de handen aan te raken of anderszins risico van kruisbesmetting te lopen.   
-###D. Uitvoering monsterneming meconium
+5. Het monster wordt genomen zonder het dons met de handen aan te raken of anderszins risico van kruisbesmetting te lopen.    
 
-1. Van één leverantie broedeieren dienen tenminste 250 meconiummonsters te worden verzameld.  
+### B  
+
+####Uitvoering monsterneming meconium
+
+1. Van één leverantie broedeieren dienen ten minste 250 meconiummonsters te worden verzameld.  
 
 2. De monsters dienen op verschillende plaatsen in de uitkomstkasten te worden genomen.  
 
-3. Monsterneming dient te geschieden zonder de meconiums met de handen aan te raken of anderszins risico van kruisbesmetting te lopen.  
+3. Monsterneming dient te geschieden zonder het meconium met de handen aan te raken of anderszins risico van kruisbesmetting te lopen.  
 
-4. Het monster wordt zodanig genomen dat niet met iets anders in aanraking wordt gekomen, om een eventuele besmetting van/vanuit de omgeving te voorkomen  
+4. Het monster wordt zodanig genomen dat het monster niet met iets anders in aanraking kan komen, om een eventuele besmetting van/vanuit de omgeving te voorkomen.  
 
-5. De monsters kunnen in één plastic pot of zak worden verzameld.   
-###E. Uitvoering monsterneming liggenblijvers
+5. De monsters kunnen in één plastic pot of zak worden verzameld.    
+
+### C  
+
+####Uitvoering monsterneming liggenblijvers
 
 1. Van één leverantie broedeieren dienen karkassen van 60 niet aangepikte liggenblijvers (broedeieren) die in de schaal zijn gestorven te worden bemonsterd.  
 
@@ -285,26 +290,29 @@ Dit werkvoorschrift beschrijft de monsterneming van dons, meconium, eierschalen 
 
 3. Monsterneming dient te geschieden zonder de dode kuikens met de handen aan te raken of anderszins risico van kruisbesmetting te lopen.  
 
-4. Het monster wordt zodanig genomen dat niet met iets anders in aanraking wordt gekomen, om een eventuele besmetting van/vanuit de omgeving te voorkomen.  
+4. Het monster wordt zodanig genomen dat het monster niet met iets anders in aanraking kan komen, om een eventuele besmetting van/vanuit de omgeving te voorkomen.  
 
-5. De monsters kunnen in één plastic pot of zak worden verzameld.   
-###Voor de monsters genomen onder A., B., C., D. en E. geldt vervolgens:
+5. De monsters kunnen in één plastic pot of zak worden verzameld.    
 
-Iedere pot of plastic zak dient direct na het vullen zorgvuldig gesloten te worden. Elke pot of plastic zak moet van een etiket met de volgende gegevens worden voorzien: 
+####Voor de monsters genomen onder A., B. en C. geldt vervolgens:
+
+Iedere pot of plastic zak dient direct na het vullen zorgvuldig gesloten te worden. Elke pot of plastic zak moet van een etiket met daarop de volgende gegevens worden voorzien: 
 
 1. datum van monsterneming,  
 
 2. registratie-nummer (KIP-nummer) en naam van de broederij,  
 
-3. uitkomstkastnummer(s).   
-###Verzenden monsters
+3. uitkomstkastnummer(s).    
 
-Bij de verzending van de monsters houdt de ondernemer of degene die de officiële monsterneming uitvoert zich aan het volgende: 
+####Verzenden monsters
+
+Bij de verzending van de monsters houdt de ondernemer of degene die de monsterneming uitvoert zich aan het volgende: 
 
 1. De monsters moeten binnen 24 uur verzonden zijn naar een voor detectie van Salmonella erkend laboratorium.  
 
-2. De monsters moeten zo zijn verpakt dat onderweg geen lekkage kan optreden en zo geadresseerd dat voor de transporteur en de ontvanger geen verwarring ontstaat.   
-###Inzendformulier
+2. De monsters moeten zo zijn verpakt dat onderweg geen lekkage kan optreden en zo geadresseerd dat voor de transporteur en de ontvanger geen verwarring ontstaat.    
+
+####Inzendformulier
 
 Elke inzending van monsters naar het voor detectie erkende laboratorium moet vergezeld gaan van een inzendformulier met ten minste de volgende, duidelijk leesbare, gegevens. Indien deze gegevens geheel of gedeeltelijk op een andere manier al bij het laboratorium bekend zijn, dan hoeven deze niet opnieuw te worden doorgegeven. 
 
@@ -320,14 +328,15 @@ Elke inzending van monsters naar het voor detectie erkende laboratorium moet ver
 
 6. Type monster;  
 
-7. Type onderzoek: regulier (als bedoeld in [artikel 7 van de Verordening](../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/de/kalkoensector/etc/BWBR0030628/README.md)) + Salmonella;  
+7. Type onderzoek: regulier (als bedoeld in artikel 7 van de Verordening) + Salmonella;  
 
 8. Monsternemer: dierenarts / GD / HOSOWO-instantie / broederij;  
 
-9. Datum monsterneming.   
-###Laboratorium
+9. Datum monsterneming.    
 
-Monsters dienen te worden gedetecteerd door een voor detectie erkend laboratorium, en in geval van de aanwezigheid van Salmonella, te worden geserotypeerd op alle typen Salmonella door een voor serotypering erkend laboratorium. De ondernemer zorgt ervoor dat het monster onverwijld na de detectie wordt geserotypeerd. Als het voor detectie erkende laboratorium niet tevens is erkend voor serotypering of het serotype Salmonella niet kan bepalen, dan zal dit laboratorium het monster verzenden naar een voor serotypering erkend laboratorium, zonder actieve tussenkomst van de ondernemer. De ondernemer dient daarom het voor detectie erkende laboratorium duidelijk opdracht te geven dat indien de detectie van een monster Salmonella aantoont, dit monster onverwijld wordt geserotypeerd. Na ontvangst van de uitslag van het laboratorium meldt de ondernemer deze uitslag aan de voorzitter. Deze melding dient binnen één werkdag te gebeuren indien het Salmonella Enteritidis, Salmonella Typhimurium, Salmonella Hadar, Salmonella Infantis of Salmonella Virchow betreft. Uitslagen van overige serotypen Salmonella of een negatieve uitslag dient de ondernemer binnen tien werkdagen na ontvangst van het laboratorium aan de voorzitter te melden. 
+####Laboratorium
+
+Monsters dienen te worden onderzocht door een voor detectie erkend laboratorium, en in geval van de aanwezigheid van Salmonella, te worden geserotypeerd op alle typen Salmonella door een voor serotypering erkend laboratorium. De ondernemer zorgt ervoor dat het monster onverwijld na de detectie wordt geserotypeerd. Als het voor detectie erkende laboratorium niet tevens is erkend voor serotypering of het serotype Salmonella niet kan bepalen, dan zal dit laboratorium het monster verzenden naar een voor serotypering erkend laboratorium, zonder actieve tussenkomst van de ondernemer. De ondernemer dient daarom het voor detectie erkende laboratorium duidelijk opdracht te geven dat indien de detectie van een monster Salmonella aantoont, dit monster onverwijld wordt geserotypeerd. Na ontvangst van de uitslag van het laboratorium meldt de ondernemer deze uitslag aan de voorzitter. Deze melding dient binnen één werkdag te gebeuren indien het Salmonella Enteritidis, Salmonella Typhimurium, Salmonella Hadar, Salmonella Infantis of Salmonella Virchow betreft. Uitslagen van overige serotypen Salmonella of een negatieve uitslag dient de ondernemer binnen tien werkdagen na ontvangst van het laboratorium aan de voorzitter te melden.  
 
 ### Bijlage  IV  
 
