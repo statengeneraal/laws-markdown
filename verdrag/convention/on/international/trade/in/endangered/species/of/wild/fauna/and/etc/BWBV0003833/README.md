@@ -142,7 +142,7 @@ For the purpose of the present Convention, unless the context otherwise requires
 2.  Where a Management Authority of the State of export or reexport is satisfied that a specimen was acquired before the provisions of the present Convention applied to that specimen, the provisions of Articles III, IV and V shall not apply to that specimen where the Management Authority issues a certificate to that effect.   
 3.  The provisions of Articles III, IV and V shall not apply to specimens that are personal or household effects. This exemption shall not apply where: 
 
-(a) in the case of specimens of a species included in Appendix I, they were acquired by the owner outside his State of usual residence, nd are being imported into that State; or  
+(a) in the case of specimens of a species included in Appendix I, they were acquired by the owner outside his State of usual residence, and are being imported into that State; or  
 
 (b) in the case of specimens of species included in Appendix II: 
 
@@ -277,7 +277,7 @@ Where export or re-export is to, or import is from, a State not a party to the p
 
 1.  The provisions of the present Convention shall in no way affect the right of Parties to adopt: 
 
-(a) stricter domestic measures regarding the conditions for trade, king, possession or transport of specimens of species included in Appendices I, II and III, or the complete prohibition thereof; or  
+(a) stricter domestic measures regarding the conditions for trade, taking, possession or transport of specimens of species included in Appendices I, II and III, or the complete prohibition thereof; or  
 
 (b) domestic measures restricting or prohibiting trade, taking, possession, or transport of species not included in Appendices I, II or III.     
 2.  The provisions of the present Convention shall in no way affect the provisions of any domestic measures or the obligations of Parties deriving from any treaty, convention, or international agreement relating to other aspects of trade, taking, possession, or transport of specimens which is in force or subsequently may enter into force for any Party including any measure pertaining to the Customs, public health, veterinary or plant quarantine fields.   
@@ -313,7 +313,7 @@ Where export or re-export is to, or import is from, a State not a party to the p
 
 (g) If an objection by any Party is received by the Secretariat, the proposed amendment shall be submitted to a postal vote in accordance with the provisions of sub-paragraphs (h), (i) and (j) of this paragraph.  
 
-(h) The Secretariat shall notify the Parties that notificationof objection has been received.  
+(h) The Secretariat shall notify the Parties that notification of objection has been received.  
 
 (i) Unless the Secretariat receives the votes for, against or in abstention from at least one-half of the Parties within 60 days of the date of notification under sub-paragraph (h) of this paragraph, the proposed amendment shall be referred to the next meeting of the Conference for further consideration.  
 
@@ -403,7 +403,7 @@ IN WITNESS WHEREOF the undersigned Plenipotentiaries, being duly authorized to t
 
 ### Appendices  I, II and III  
 
-####valid from 27 April 2011
+####valid from 25 September 2012
 
 ###Interpretation
 
@@ -429,21 +429,21 @@ b) “var(s).” is used to denote variety (varieties).
 
 7. When a species is included in one of the Appendices, all parts and derivatives of the species are also included in the same Appendix unless the species is annotated to indicate that only specific parts and derivatives are included. The symbol # followed by a number placed against the name of a species or higher taxon included in Appendix II or III refers to a footnote that indicates the parts or derivatives of plants that are designated as “specimens” subject to the provisions of the Convention in accordance with Article I, paragraph (b), subparagraph (iii).    
 
-| Appendices  | I  | II  | III  |
-|---|---|---|---|
+|--- | Appendices  |--- | I  | II  | III  |
+|---|---|---|---|---|---|
 |  *FAUNA (ANIMALS)*    *PHYLUM CHORDATA*    *CLASS MAMMALIA*    *(MAMMALS)*   |
-| ARTIODACTYLA  |
-| Antilocapridae Pronghorn  |
+| ARTIODACTYLA  | --- | --- |
+| Antilocapridae Pronghorn  | --- | --- |
 | *Antilocapra americana* (Only the population of Mexico; no other population is included in the Appendices)  | --- | --- |
 | Bovidae Antelopes, cattle, duikers, gazelles, goats, sheep, etc.  |
 |  *Addax nasomaculatus*   | --- | --- |
 | --- |  *Ammotragus lervia*   | --- |
-| --- | --- |  *Antilope cervicapra (Nepal)*   |
+| --- | --- | *Antilope cervicapra* (Nepal)  |
 | --- |  *Bison bison athabascae*   | --- |
-| *Bos gaurus* (Excludes the domesticated form, which is referenced as *Bos frontalis*, and is not subject to the provisions of the Convention )  | --- | --- |
-| *Bos mutus* (Excludes the domesticated form, which is referenced as *Bos grunniens*, and is not subject to the provisions of the Convention )  | --- | --- |
+| *Bos gaurus* (Excludes the domesticated form, which is referenced as Bos frontalis, and is not subject to the provisions of the Convention )  | --- | --- |
+| *Bos mutus* (Excludes the domesticated form, which is referenced as Bos grunniens, and is not subject to the provisions of the Convention )  | --- | --- |
 |  *Bos sauveli*   | --- | --- |
-| --- | --- | *Bubalus arnee* (Nepal) (Excludes the domesticated form, which is referenced as *Bubalus bubalis*)  |
+| --- | --- | *Bubalus arnee* (Nepal) (Excludes the domesticated form, which is referenced as Bubalus bubalis)  |
 |  *Bubalus depressicornis*   | --- | --- |
 |  *Bubalus mindorensis*   | --- | --- |
 |  *Bubalus quarlesi*   | --- | --- |
@@ -489,7 +489,7 @@ b) “var(s).” is used to denote variety (varieties).
 | Camelidae Guanaco, vicuna  |
 | --- |  *Lama guanicoe*   | --- |
 | *Vicugna vicugna* [Except the populations of: Argentina (the populations of the Provinces of Jujuy and Catamarca and the semi-captive populations of the Provinces of Jujuy, Salta, Catamarca, La Rioja and San Juan); Chile (population of the Primera Región); Peru (the whole population); and the Plurinational State of Bolivia (the whole population); which are included in Appendix II]  | --- | --- |
-| --- | *Vicugna vicugna* [Only the populations of Argentina <sup>1)</sup> (the populations of the Provinces of Jujuy and Catamarca and the semi-captive populations of the Provinces of Jujuy, Salta, Catamarca, La Rioja and San Juan); Chile <sup>2)</sup> (population of the Primera Región); Peru <sup>3)</sup> (the whole population); and the Plurinational State of Bolivia <sup>4)</sup>  (the whole population); all other populations are included in Appendix I]  | --- |
+| --- | *Vicugna vicugna* [Only the populations of Argentina <sup>1</sup> (the populations of the Provinces of Jujuy and Catamarca and the semi-captive populations of the Provinces of Jujuy, Salta, Catamarca, La Rioja and San Juan); Chile <sup>2</sup> (population of the Primera Región); Peru <sup>3</sup> (the whole population); and the Plurinational State of Bolivia <sup>4</sup> (the whole population); all other populations are included in Appendix I]  | --- |
 | Cervidae Deer, guemals, muntjacs, pudus  |
 |  *Axis calamianensis*   | --- | --- |
 |  *Axis kuhlii*   | --- | --- |
@@ -499,21 +499,23 @@ b) “var(s).” is used to denote variety (varieties).
 | --- | --- | *Cervus elaphus barbarus* (Algeria, Tunisia)  |
 |  *Cervus elaphus hanglu*   | --- | --- |
 |  *Dama dama mesopotamica*   | --- | --- |
-|  *Hippocamelus* *spp.*   | --- | --- |
+|  *Hippocamelus spp.*   | --- | --- |
 | --- | --- | *Mazama temama cerasina* (Guatemala)  |
 |  *Muntiacus crinifrons*   | --- | --- |
 |  *Muntiacus vuquangensis*   | --- | --- |
-| --- | --- | *Odocoileus virginianus mayensis* (Guatemala)  |
+| --- | --- |  *Odocoileus virginianus*   |
+| --- | --- | *mayensis* (Guatemala)  |
 |  *Ozotoceros bezoarticus*   | --- | --- |
 | --- |  *Pudu mephistophiles*   | --- |
 |  *Pudu puda*   | --- | --- |
 |  *Rucervus duvaucelii*   | --- | --- |
 |  *Rucervus eldii*   | --- | --- |
 | Hippopotamidae Hippopotamuses  |
-| --- |  *Hexaprotodon liberiensis Hippopotamus amphibius*   | --- |
+| --- |  *Hexaprotodon liberiensis*   | --- |
+| --- |  *Hippopotamus amphibius*   | --- |
 | Moschidae Musk deer  |
-| *Moschus*   *spp.* (Only the populations of Afghanistan, Bhutan, India, Myanmar, Nepal and Pakistan; all other populations are included in Appendix II)  | --- | --- |
-| --- | *Moschus*   *spp.* (Except the populations of Afghanistan, Bhutan, India, Myanmar, Nepal and Pakistan, which are included in Appendix I)  | --- |
+| *Moschus spp.* (Only the populations of Afghanistan, Bhutan, India, Myanmar, Nepal and Pakistan; all other populations are included in Appendix II)  | --- | --- |
+| --- | *Moschus spp.* (Except the populations of Afghanistan, Bhutan, India, Myanmar, Nepal and Pakistan, which are included in Appendix I)  | --- |
 | Suidae Babirusa, pygmy hog  |
 |  *Babyrousa babyrussa*   | --- | --- |
 |  *Babyrousa bolabatuensis*   | --- | --- |
@@ -521,15 +523,15 @@ b) “var(s).” is used to denote variety (varieties).
 |  *Babyrousa togeanensis*   | --- | --- |
 |  *Sus salvanius*   | --- | --- |
 | Tayassuidae Peccaries  |
-| --- | *Tayassuidae spp.* (Except the species included in Appendix I and the populations of *Pecari tajacu* of Mexico and the United States of America, which are not included in the Appendices)  | --- |
+| --- | *Tayassuidae spp.* (Except the species included in Appendix I and the populations of Pecari tajacu of Mexico and the United States of America, which are not included in the Appendices)  | --- |
 |  *Catagonus wagneri*   | --- | --- |
-| CARNIVORA  |
-| Ailuridae Red panda  |
+| CARNIVORA  | --- | --- |
+| Ailuridae Red panda  | --- | --- |
 |  *Ailurus fulgens*   | --- | --- |
 | Canidae Bush dog, foxes, wolves  |
 | --- | --- | *Canis aureus* (India)  |
-| *Canis lupus* (Only the populations of Bhutan, India, Nepal and Pakistan; all other populations are included in Appendix II. Excludes the domesticated form and the dingo which are referenced as *Canis**lupus familiaris* and *Canis lupus dingo)*  | --- | --- |
-| --- | *Canis lupus* (Except the populations of Bhutan, India, Nepal and Pakistan, which are included in Appendix I. Excludes the domesticated form and the dingo which are referenced as *Canis lupus familiaris* and *Canis lupus dingo)*  | --- |
+| *Canis lupus* (Only the populations of Bhutan, India, Nepal and Pakistan; all other populations are included in Appendix II. Excludes the domesticated form and the dingo which are referenced as *Canis**lupus familiaris and Canis lupus dingo)*  | --- | --- |
+| --- | *Canis lupus* (Except the populations of Bhutan, India, Nepal and Pakistan, which are included in Appendix I. Excludes the domesticated form and the dingo which are referenced as *Canis lupus familiaris and Canis lupus dingo)*  | --- |
 | --- |  *Cerdocyon thous*   | --- |
 | --- |  *Chrysocyon brachyurus*   | --- |
 | --- |  *Cuon alpinus*   | --- |
@@ -550,7 +552,7 @@ b) “var(s).” is used to denote variety (varieties).
 | --- |  *Fossa fossana*   | --- |
 | Felidae Cats  |
 | --- | *Felidae spp.* (Except the species included in Appendix I. Specimens of the domesticated form are not subject to the provisions of the Convention )  | --- |
-| *Acinonyx jubatus* (Annual export quotas for live specimens and hunting trophies are granted as follows: Botswana: 5;  Namibia: 150; Zimbabwe: 50. The trade in such specimens is subject to the provisions of Article III of the Convention )  | --- | --- |
+| *Acinonyx jubatus* (Annual export quotas for live specimens and hunting trophies are granted as follows: Botswana: 5; Namibia: 150; Zimbabwe: 50. The trade in such specimens is subject to the provisions of Article III  of the Convention  | --- | --- |
 | *Caracal caracal* (Only the population of Asia; all other populations are included in Appendix II)  | --- | --- |
 |  *Catopuma temminckii*   | --- | --- |
 |  *Felis nigripes*   | --- | --- |
@@ -611,11 +613,11 @@ b) “var(s).” is used to denote variety (varieties).
 | Odobenidae Walrus  |
 | --- | --- | *Odobenus rosmarus* (Canada)  |
 | Otariidae Fur seals, sealions  |
-| --- | *Arctocephalus**spp. (Except the* species included in Appendix I)  | --- |
+| --- | *Arctocephalus spp.* (Except the species included in Appendix I)  | --- |
 |  *Arctocephalus townsendi*   | --- | --- |
 | Phocidae Seals  |
 | --- |  *Mirounga leonina*   | --- |
-| *Monachus*   *spp.*  | --- | --- |
+|  *Monachus spp.*   | --- | --- |
 | Procyonidae Coatis, kinkajou, olingos  |
 | --- | --- | *Bassaricyon gabbii* (Costa Rica)  |
 | --- | --- | *Bassariscus sumichrasti* (Costa Rica)  |
@@ -641,14 +643,14 @@ b) “var(s).” is used to denote variety (varieties).
 | --- | --- | *Paradoxurus jerdoni* (India)  |
 | --- |  *Prionodon linsang*   | --- |
 |  *Prionodon pardicolor*   | --- | --- |
-| --- | --- |  **Viverra civettina* (India)*   |
-| --- | --- |  **Viverra zibetha* (India)*   |
-| --- | --- |  **Viverricula indica* (India)*   |
+| --- | --- | *Viverra civettina* (India)  |
+| --- | --- | *Viverra zibetha* (India)  |
+| --- | --- | *Viverricula indica* (India)  |
 | CETACEA Dolphins, porpoises, whales  |
 | --- | *CETACEA spp.* (Except the species included in Appendix I. A zero annual export quota has been established for live specimens from the Black Sea population of *Tursiops truncatus* removed from the wild and traded for primarily commercial purposes)  | --- |
 | Balaenidae Bowhead whale, right whales  |
 |  *Balaena mysticetus*   | --- | --- |
-| *Eubalaena*   *spp.*  | --- | --- |
+|  *Eubalaena spp.*   | --- | --- |
 | Balaenopteridae Humpback whale, rorquals  |
 | *Balaenoptera acutorostrata* (Except the population of West Greenland, which is included in Appendix II)  | --- | --- |
 |  *Balaenoptera bonaerensis*   | --- | --- |
@@ -661,8 +663,8 @@ b) “var(s).” is used to denote variety (varieties).
 | Delphinidae Dolphins  |
 |  *Orcaella brevirostris*   | --- | --- |
 |  *Orcaella heinsohni*   | --- | --- |
-| *Sotalia*   *spp.*  | --- | --- |
-| *Sousa*   *spp.*  | --- | --- |
+|  *Sotalia spp.*   | --- | --- |
+|  *Sousa spp.*   | --- | --- |
 | Eschrichtiidae Grey whale  |
 |  *Eschrichtius robustus*   | --- | --- |
 | Iniidae River dolphins  |
@@ -674,18 +676,18 @@ b) “var(s).” is used to denote variety (varieties).
 |  *Phocoena sinus*   | --- | --- |
 | Physeteridae Sperm whales  |
 |  *Physeter macrocephalus*   | --- | --- |
-| Platanistidae River dolphins  |
-|  *Platanista* *spp.*   | --- | --- |
+| Platanistidae River dolphins  | --- | --- |
+|  *Platanista spp.*   | --- | --- |
 | Ziphiidae Beaked whales, bottle-nosed whales  |
-|  *Berardius* *spp.*   | --- | --- |
-|  *Hyperoodon* *spp.*   | --- | --- |
+|  *Berardius spp.*   | --- | --- |
+|  *Hyperoodon spp.*   | --- | --- |
 | CHIROPTERA  |
 | Phyllostomidae Broad-nosed bat  |
 | --- | --- | *Platyrrhinus lineatus* (Uruguay)  |
 | Pteropodidae Fruit bats, flying foxes  |
-| --- | *Acerodon*   *spp.* (Except the species included in Appendix I)  | --- |
+| --- | *Acerodon spp.* (Except the species included in Appendix I)  | --- |
 |  *Acerodon jubatus*   | --- | --- |
-| --- | *Pteropus*   *spp.* (Except the species included in Appendix I)  | --- |
+| --- | *Pteropus spp.* (Except the species included in Appendix I)  | --- |
 |  *Pteropus insularis*   | --- | --- |
 |  *Pteropus loochoensis*   | --- | --- |
 |  *Pteropus mariannus*   | --- | --- |
@@ -707,7 +709,7 @@ b) “var(s).” is used to denote variety (varieties).
 |  *Sminthopsis longicaudata*   | --- | --- |
 |  *Sminthopsis psammophila*   | --- | --- |
 | Thylacinidae Tasmanian wolf, thylacine  |
-| *Thylacinus cynocephalus* (possibly extinct)  | --- | --- |
+| *Thylacinus* cynocephalus (possibly extinct)  | --- | --- |
 | DIPROTODONTIA  |
 | Macropodidae Kangaroos, wallabies  |
 | --- |  *Dendrolagus inustus*   | --- |
@@ -716,7 +718,7 @@ b) “var(s).” is used to denote variety (varieties).
 |  *Lagostrophus fasciatus*   | --- | --- |
 |  *Onychogalea fraenata*   | --- | --- |
 |  *Onychogalea lunata*   | --- | --- |
-| Phalangeridae Cuscuses  |
+| Phalangeridae Cuscuses  | --- |
 | --- |  *Phalanger intercastellanus*   | --- |
 | --- |  *Phalanger mimicus*   | --- |
 | --- |  *Phalanger orientalis*   | --- |
@@ -724,8 +726,8 @@ b) “var(s).” is used to denote variety (varieties).
 | --- |  *Spilocuscus maculatus*   | --- |
 | --- |  *Spilocuscus papuensis*   | --- |
 | Potoroidae Rat-kangaroos  |
-| *Bettongia*   *spp.*  | --- | --- |
-| *Caloprymnus campestris* (possibly extinct)  | --- | --- |
+|  *Bettongia spp.*   | --- | --- |
+|  *Caloprymnus campestris (possibly extinct)*   | --- | --- |
 | Vombatidae Northern hairy-nosed wombat  |
 |  *Lasiorhinus krefftii*   | --- | --- |
 | LAGOMORPHA  |
@@ -734,7 +736,7 @@ b) “var(s).” is used to denote variety (varieties).
 |  *Romerolagus diazi*   | --- | --- |
 | MONOTREMATA  |
 | Tachyglossidae Echidnas, spiny anteaters  |
-| --- | *Zaglossus*   *spp.*  | --- |
+| --- |  *Zaglossus spp.*   | --- |
 | PERAMELEMORPHIA  |
 | Chaeropodidae Pig-footed bandicoots  |
 | *Chaeropus ecaudatus* (possibly extinct)  | --- | --- |
@@ -746,7 +748,7 @@ b) “var(s).” is used to denote variety (varieties).
 | PERISSODACTYLA  |
 | Equidae Horses, wild asses, zebras  |
 | *Equus africanus* (Excludes the domesticated form, which is referenced as *Equus asinus*, and is not subject to the provisions of the Convention )  | --- | --- |
-|  *Equus grevyi*   | --- | --- |
+|  *Equus grevyi*   |
 | --- | *Equus hemionus* (Except the subspecies included in Appendix I)  | --- |
 |  *Equus hemionus hemionus*   | --- | --- |
 |  *Equus hemionus khur*   | --- | --- |
@@ -755,14 +757,14 @@ b) “var(s).” is used to denote variety (varieties).
 | --- |  *Equus zebra hartmannae*   | --- |
 |  *Equus zebra zebra*   | --- | --- |
 | Rhinocerotidae Rhinoceroses  |
-| *Rhinocerotidae spp*. (Except the subspecies included in Appendix II)  | --- | --- |
-| --- |  *Ceratotherium simum simum*   (Only the populations of South Africa and Swaziland; all other populations are included in Appendix I. For the exclusive purpose of allowing international trade in live animals to appropriate and acceptable destinations and hunting trophies. All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly)  | --- |
+| *Rhinocerotidae spp.* (Except the subspecies included in Appendix II)  | --- | --- |
+| --- | *Ceratotherium simum simum* (Only the populations of South Africa and Swaziland; all other populations are included in Appendix I. For the exclusive purpose of allowing international trade in live animals to appropriate and acceptable destinations and hunting trophies. All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly)  | --- |
 | Tapiridae Tapirs  |
 | *Tapiridae spp.* (Except the species included in Appendix II)  | --- | --- |
 | --- |  *Tapirus terrestris*   | --- |
 | PHOLIDOTA  |
 | Manidae Pangolins  |
-| --- | *Manis*   *spp.* (A zero annual export quota has been established for *Manis crassicaudata, M. culionensis, M. javanica and M. pentadactyla* for specimens removed from the wild and traded for primarily commercial purposes)  | --- |
+| --- | *Manis spp.* (A zero annual export quota has been established for *Manis crassicaudata, M. culionensis, M. javanica* and *M. pentadactyla* for specimens removed from the wild and traded for primarily commercial purposes)  | --- |
 | PILOSA  |
 | Bradypodidae Three-toed sloth  |
 | --- |  *Bradypus variegatus*   | --- |
@@ -786,7 +788,7 @@ b) “var(s).” is used to denote variety (varieties).
 |  *Callimico goeldii*   | --- | --- |
 |  *Callithrix aurita*   | --- | --- |
 |  *Callithrix flaviceps*   | --- | --- |
-|  *Leontopithecus* *spp.*   | --- | --- |
+|  *Leontopithecus spp.*   | --- | --- |
 |  *Saguinus bicolor*   | --- | --- |
 |  *Saguinus geoffroyi*   | --- | --- |
 |  *Saguinus leucopus*   | --- | --- |
@@ -805,7 +807,7 @@ b) “var(s).” is used to denote variety (varieties).
 |  *Piliocolobus rufomitratus*   | --- | --- |
 |  *Presbytis potenziani*   | --- | --- |
 |  *Pygathrix spp.*   | --- | --- |
-| *Rhinopithecus*   *spp.*  | --- | --- |
+|  *Rhinopithecus spp.*   | --- | --- |
 |  *Semnopithecus ajax*   | --- | --- |
 |  *Semnopithecus dussumieri*   | --- | --- |
 |  *Semnopithecus entellus*   | --- | --- |
@@ -836,21 +838,21 @@ b) “var(s).” is used to denote variety (varieties).
 | Lepilemuridae Sportive lemurs  |
 |  *Lepilemuridae spp.*   | --- | --- |
 | Lorisidae Lorises  |
-| *Nycticebus*   *spp.*  | --- | --- |
-| Pithecidae Sakis and uakaris  |
-| *Cacajao*   *spp.*  | --- | --- |
+|  *Nycticebus spp.*   | --- | --- |
+| Pitheciidae Sakis and uakaris  |
+|  *Cacajao spp.*   | --- | --- |
 |  *Chiropotes albinasus*   | --- | --- |
 | PROBOSCIDEA  |
 | Elephantidae Elephants  |
 |  *Elephas maximus*   | --- | --- |
-| *Loxodonta africana* (Except the populations of Botswana, Namibia, South Africa and Zimbabwe, which are included in Appendix II)  | --- | --- |
-| --- | *Loxodonta africana*<sup>5)</sup> (Only the populations of Botswana, Namibia, South Africa and Zimbabwe; all other populations are included in Appendix I)  | --- |
-| RODENTIA  |
-| Chinchillidae Chinchillas  |
+| *Loxodonta africana (Except the* populations of Botswana, Namibia, South Africa and Zimbabwe, which are included in Appendix II)  | --- | --- |
+| --- | *Loxodonta africana <sup>5</sup>* (Only the populations of Botswana, Namibia, South Africa and Zimbabwe; all other populations are included in Appendix I)  | --- |
+| RODENTIA  | --- | --- |
+| Chinchillidae Chinchillas  | --- | --- |
 | *Chinchilla spp.* (Specimens of the domesticated form are not subject to the provisions of the Convention )  | --- | --- |
-| Cuniculidae Paca  |
+| Cuniculidae Paca  | --- | --- |
 | --- | --- | *Cuniculus paca* (Honduras)  |
-| Dasyproctidae Agouti  |
+| Dasyproctidae Agouti  | --- | --- |
 | --- | --- | *Dasyprocta punctata* (Honduras)  |
 | Erethizontidae New World porcupines  |
 | --- | --- | *Sphiggurus mexicanus* (Honduras)  |
@@ -864,7 +866,7 @@ b) “var(s).” is used to denote variety (varieties).
 |  *Cynomys mexicanus*   | --- | --- |
 | --- | --- | *Marmota caudata* (India)  |
 | --- | --- | *Marmota himalayana* (India)  |
-| --- | *Ratufa*   *spp.*  | --- |
+| --- |  *Ratufa spp.*   | --- |
 | --- | --- | *Sciurus deppei* (Costa Rica)  |
 | SCANDENTIA Tree shrews  |
 | --- |  *SCANDENTIA spp.*   | --- |
@@ -875,7 +877,7 @@ b) “var(s).” is used to denote variety (varieties).
 |  *Trichechus inunguis*   | --- | --- |
 |  *Trichechus manatus*   | --- | --- |
 | --- |  *Trichechus senegalensis*   | --- |
-| --- |  *CLASS AVES*    *(BIRDS)*   | --- |
+| --- |  *CLASS AVES (BIRDS)*   | --- |
 | ANSERIFORMES  |
 | Anatidae Ducks, geese, swans, etc.  |
 |  *Anas aucklandica*   | --- | --- |
@@ -895,7 +897,7 @@ b) “var(s).” is used to denote variety (varieties).
 | --- | --- | *Dendrocygna autumnalis* (Honduras)  |
 | --- | --- | *Dendrocygna bicolor* (Honduras)  |
 | --- |  *Oxyura leucocephala*   | --- |
-| *Rhodonessa caryophyllacea* (possibly extinct)  | --- | --- |
+|  *Rhodonessa caryophyllacea*   (possibly extinct)  | --- | --- |
 | --- |  *Sarkidiornis melanotos*   | --- |
 | APODIFORMES  |
 | Trochilidae Hummingbirds  |
@@ -904,7 +906,7 @@ b) “var(s).” is used to denote variety (varieties).
 | CHARADRIIFORMES  |
 | Burhinidae Thick-knee  |
 | --- | --- | *Burhinus bistriatus* (Guatemala)  |
-| Laridae Gull  | --- | --- |
+| Laridae Gull  |
 |  *Larus relictus*   | --- | --- |
 | Scolopacidae Curlews, greenshanks  |
 |  *Numenius borealis*   | --- | --- |
@@ -931,24 +933,24 @@ b) “var(s).” is used to denote variety (varieties).
 |  *Caloenas nicobarica*   | --- | --- |
 |  *Ducula mindorensis*   | --- | --- |
 | --- |  *Gallicolumba luzonica*   | --- |
-| --- | *Goura*   *spp.*  | --- |
-| --- | --- | *Nesoenas mayeri* (Mauritius)  |
+| --- |  *Goura spp.*   | --- |
+| --- | --- |  *Nesoenas mayeri (Mauritius)*   |
 | CORACIIFORMES  |
 | Bucerotidae Hornbills  |
-| --- | *Aceros*   *spp.* (Except the species included in Appendix I)  | --- |
+| --- | *Aceros spp.* (Except the species included in Appendix I)  | --- |
 |  *Aceros nipalensis*   | --- | --- |
-| --- | *Anorrhinus*   *spp.*  | --- |
-| --- | *Anthracoceros*   *spp.*  | --- |
-| --- | *Berenicornis*   *spp.*  | --- |
-| --- | *Buceros*   *spp.* (Except the species included in Appendix I)  | --- |
+| --- |  *Anorrhinus spp.*   | --- |
+| --- |  *Anthracoceros spp.*   | --- |
+| --- |  *Berenicornis spp.*   | --- |
+| --- | *Buceros spp.* (Except the species included in Appendix I)  | --- |
 |  *Buceros bicornis*   | --- | --- |
-| --- | *Penelopides*   *spp.*  | --- |
+| --- |  *Penelopides spp.*   | --- |
 |  *Rhinoplax vigil*   | --- | --- |
-| --- | *Rhyticeros*   *spp.* (Except the species included in Appendix I)  | --- |
+| --- | *Rhyticeros spp.* (Except the  species included in Appendix I)  | --- |
 |  *Rhyticeros subruficollis*   | --- | --- |
 | CUCULIFORMES  |
 | Musophagidae Turacos  |
-| --- | *Tauraco*   *spp.*  | --- |
+| --- |  *Tauraco spp.*   | --- |
 | FALCONIFORMES Eagles, falcons, hawks, vultures  |
 | --- | *FALCONIFORMES spp.* (Except the species included in Appendices I and III and the species of the family Cathartidae)  | --- |
 | Accipitridae Hawks, eagles  |
@@ -979,8 +981,8 @@ b) “var(s).” is used to denote variety (varieties).
 | --- | --- | *Crax rubra* (Colombia, Costa Rica, Guatemala, Honduras)  |
 |  *Mitu mitu*   | --- | --- |
 |  *Oreophasis derbianus*   | --- | --- |
-| --- | --- | *Ortalis vetula**(Guatemala,* Honduras)  |
-| --- | --- |  *Pauxi pauxi* *(Colombia)*   |
+| --- | --- | *Ortalis vetula* (Guatemala, Honduras)  |
+| --- | --- | *Pauxi pauxi* (Colombia)  |
 |  *Penelope albipennis*   | --- | --- |
 | --- | --- | *Penelope purpurascens* (Honduras)  |
 | --- | --- | *Penelopina nigra* (Guatemala)  |
@@ -1045,10 +1047,10 @@ b) “var(s).” is used to denote variety (varieties).
 | Atrichornithidae Scrub-bird  |
 |  *Atrichornis clamosus*   | --- | --- |
 | Cotingidae Cotingas  |
-| --- | --- | *Cephalopterus ornatus* (Colombia)  |
-| --- | --- | *Cephalopterus penduliger* (Colombia)  |
+| --- | --- |  *Cephalopterus ornatus*   (Colombia)  |
+| --- | --- |  *Cephalopterus penduliger*   (Colombia)  |
 |  *Cotinga maculata*   | --- | --- |
-| --- | *Rupicola*   *spp.*  | --- |
+| --- |  *Rupicola spp.*   | --- |
 |  *Xipholena atropurpurea*   | --- | --- |
 | Emberizidae Cardinals, tanagers  |
 | --- |  *Gubernatrix cristata*   | --- |
@@ -1071,7 +1073,7 @@ b) “var(s).” is used to denote variety (varieties).
 | Muscicapidae Old World flycatchers  |
 | --- | --- | *Acrocephalus rodericanus* (Mauritius)  |
 | --- |  *Cyornis ruckii*   | --- |
-|  *Dasyornis broadbenti litoralis* *(possibly extinct)*   | --- | --- |
+| *Dasyornis broadbenti litoralis* (possibly extinct)  | --- | --- |
 |  *Dasyornis longirostris*   | --- | --- |
 | --- |  *Garrulax canorus*   | --- |
 | --- |  *Garrulax taewanus*   | --- |
@@ -1080,7 +1082,7 @@ b) “var(s).” is used to denote variety (varieties).
 | --- |  *Liocichla omeiensis*   | --- |
 |  *Picathartes gymnocephalus*   | --- | --- |
 |  *Picathartes oreas*   | --- | --- |
-| --- | --- | *Terpsiphone bourbonnensis* (Mauritius)  |
+| --- | --- |  *Terpsiphone bourbonnensis*   (Mauritius)  |
 | Paradisaeidae Birds of paradise  |
 | --- |  *Paradisaeidae spp.*   | --- |
 | Pittidae Pittas  |
@@ -1111,7 +1113,7 @@ b) “var(s).” is used to denote variety (varieties).
 | Ramphastidae Toucans  |
 | --- | --- | *Baillonius bailloni* (Argentina)  |
 | --- |  *Pteroglossus aracari*   | --- |
-| --- | --- | *Pteroglossus castanotis* (Argentina)  |
+| --- | --- |  *Pteroglossus castanotis*   (Argentina)  |
 | --- |  *Pteroglossus viridis*   | --- |
 | --- | --- | *Ramphastos dicolorus* (Argentina)  |
 | --- |  *Ramphastos sulfuratus*   | --- |
@@ -1136,7 +1138,7 @@ b) “var(s).” is used to denote variety (varieties).
 | Loriidae Lories, lorikeets  |
 |  *Eos histrio*   | --- | --- |
 |  *Vini ultramarina*   | --- | --- |
-| Psittacidae Amazons, macaws, parakeets, parrots  |
+| Psittacidae Amazons, macaws, parakeets, parrots  | --- |
 |  *Amazona arausiaca*   | --- | --- |
 |  *Amazona auropalliata*   | --- | --- |
 |  *Amazona barbadensis*   | --- | --- |
@@ -1153,7 +1155,7 @@ b) “var(s).” is used to denote variety (varieties).
 |  *Amazona vinacea*   | --- | --- |
 |  *Amazona viridigenalis*   | --- | --- |
 |  *Amazona vittata*   | --- | --- |
-| *Anodorhynchus*   *spp.*  | --- | --- |
+|  *Anodorhynchus spp.*   | --- | --- |
 |  *Ara ambiguus*   | --- | --- |
 | *Ara glaucogularis* (Often traded under the incorrect designation *Ara caninde)*  | --- | --- |
 |  *Ara macao*   | --- | --- |
@@ -1179,11 +1181,11 @@ b) “var(s).” is used to denote variety (varieties).
 | *Psephotus pulcherrimus* (possibly extinct)  | --- | --- |
 |  *Psittacula echo*   | --- | --- |
 |  *Pyrrhura cruentata*   | --- | --- |
-| *Rhynchopsitta*   *spp.*  | --- | --- |
+|  *Rhynchopsitta spp.*   | --- | --- |
 |  *Strigops habroptilus*   | --- | --- |
 | RHEIFORMES  |
 | Rheidae Rheas  |
-| *Pterocnemia pennata* (Except Pterocnemia pennata pennata which is included in Appendix II)  | --- | --- |
+| *Pterocnemia pennata* (Except *Pterocnemia pennata pennata* which is included in Appendix II)  | --- | --- |
 | --- |  *Pterocnemia pennata pennata*   | --- |
 | --- |  *Rhea americana*   | --- |
 | SPHENISCIFORMES  |
@@ -1197,26 +1199,27 @@ b) “var(s).” is used to denote variety (varieties).
 |  *Mimizuku gurneyi*   | --- | --- |
 |  *Ninox natalis*   | --- | --- |
 |  *Ninox novaeseelandiae undulata*   | --- | --- |
+| --- | --- |
 | Tytonidae Barn owls  |
 |  *Tyto soumagnei*   | --- | --- |
 | STRUTHIONIFORMES  |
 | Struthionidae Ostrich  |
-| *Struthio camelus* (Only the populations of Algeria, Burkina Faso, Cameroon, the Central African Republic, Chad, Mali, Mauritania, Morocco, the Niger, Nigeria, Senegal and the Sudan; all other populations are not included in the Appendices)  | --- | --- |
+| *Struthio camelus (Only the* populations of Algeria, Burkina Faso, Cameroon, the Central African Republic, Chad, Mali, Mauritania, Morocco, the Niger, Nigeria, Senegal and the Sudan; all other populations are not included in the Appendices)  | --- | --- |
 | TINAMIFORMES  |
 | Tinamidae Tinamous  |
 |  *Tinamus solitarius*   | --- | --- |
 | TROGONIFORMES  |
 | Trogonidae Quetzals  |
 |  *Pharomachrus mocinno*   | --- | --- |
-|  *CLASS REPTILIA*    *(REPTILES)*   |
+| --- |  *CLASS REPTILIA*    *(REPTILES)*   | --- |
 | CROCODYLIA Alligators, caimans, crocodiles  |
 | --- | *CROCODYLIA spp.* (Except the species included in Appendix I)  | --- |
 | Alligatoridae Alligators, caimans  |
 |  *Alligator sinensis*   | --- | --- |
-|  *Caiman crocodilus apaporiensis*   | --- | --- |
+|  *Caiman crocodilus*    *apaporiensis*   | --- | --- |
 | *Caiman latirostris* (Except the population of Argentina, which is included in Appendix II)  | --- | --- |
 | *Melanosuchus niger* (Except the population of Brazil, which is included in Appendix II, and the population of Ecuador, which is included in Appendix II and is subject to a zero annual export quota until an annual export quota has been approved by the CITES Secretariat and the IUCN/SSC Crocodile Specialist Group)  | --- | --- |
-| Crocodylidae Crocodiles  |
+| Crocodylidae Crocodiles  | --- | --- |
 | *Crocodylus acutus* (Except the population of Cuba, which is included in Appendix II)  | --- | --- |
 |  *Crocodylus cataphractus*   | --- | --- |
 |  *Crocodylus intermedius*   | --- | --- |
@@ -1233,40 +1236,40 @@ b) “var(s).” is used to denote variety (varieties).
 |  *Gavialis gangeticus*   | --- | --- |
 | RHYNCHOCEPHALIA  |
 | Sphenodontidae Tuatara  |
-| *Sphenodon*   *spp.*  | --- | --- |
+|  *Sphenodon spp.*   | --- | --- |
 | SAURIA  |
-| Agamidae Agamas, mastigures  |
-| --- | *Uromastyx*   *spp.*  | --- |
+| Agamidae Agamas, mastigures  | --- | --- |
+| --- |  *Uromastyx spp.*   | --- |
 | Chamaeleonidae Chameleons  |
-| --- | *Bradypodion*   *spp.*  | --- |
-| --- | *Brookesia*   *spp.* (Except the species included in Appendix I)  | --- |
+| --- |  *Bradypodion spp.*   | --- |
+| --- | *Brookesia spp.* (Except the species included in Appendix I)  | --- |
 |  *Brookesia perarmata*   | --- | --- |
-| --- | *Calumma*   *spp.*  | --- |
-| --- | *Chamaeleo*   *spp.*  | --- |
-| --- | *Furcifer*   *spp.*  | --- |
-| --- | *Kinyongia*   *spp.*  | --- |
-| --- | *Nadzikambia*   *spp.*  | --- |
+| --- |  *Calumma spp.*   | --- |
+| --- |  *Chamaeleo spp.*   | --- |
+| --- |  *Furcifer spp.*   | --- |
+| --- |  *Kinyongia spp.*   | --- |
+| --- |  *Nadzikambia spp.*   | --- |
 | Cordylidae Spiny-tailed lizards  |
-| --- | *Cordylus*   *spp.*  | --- |
+| --- |  *Cordylus spp.*   | --- |
 | Gekkonidae Geckos  |
 | --- |  *Cyrtodactylus serpensinsula*   | --- |
-| --- | --- | *Hoplodactylus*   *spp.* (New Zealand)  |
-| --- | --- | *Naultinus*   *spp.* (New Zealand)  |
-| --- | *Phelsuma*   *spp.*  | --- |
-| --- | *Uroplatus*   *spp.*  | --- |
+| --- | --- | *Hoplodactylus spp.* (New  Zealand)  |
+| --- | --- | *Naultinus spp.* (New Zealand)  |
+| --- |  *Phelsuma spp.*   | --- |
+| --- |  *Uroplatus spp.*   | --- |
 | Helodermatidae Beaded lizard, gila monster  |
-| --- | *Heloderma*   *spp.* (Except the subspecies included in Appendix I)  | --- |
+| --- | *Heloderma spp.* (Except the subspecies included in Appendix I)  | --- |
 |  *Heloderma horridum charlesbogerti*   | --- | --- |
 | Iguanidae Iguanas  |
 | --- |  *Amblyrhynchus cristatus*   | --- |
-| *Brachylophus*   *spp.*  | --- | --- |
-| --- | *Conolophus*   *spp.*  | --- |
+|  *Brachylophus spp.*   | --- | --- |
+| --- |  *Conolophus spp.*   | --- |
 | --- |  *Ctenosaura bakeri*   | --- |
 | --- |  *Ctenosaura oedirhina*   | --- |
 | --- |  *Ctenosaura melanosterna*   | --- |
 | --- |  *Ctenosaura palearis*   | --- |
 |  *Cyclura spp.*   | --- | --- |
-| --- | *Iguana*   *spp.*  | --- |
+| --- |  *Iguana spp.*   | --- |
 | --- |  *Phrynosoma blainvillii*   | --- |
 | --- |  *Phrynosoma cerroense*   | --- |
 | --- |  *Phrynosoma coronatum*   | --- |
@@ -1280,10 +1283,10 @@ b) “var(s).” is used to denote variety (varieties).
 | --- |  *Corucia zebrata*   | --- |
 | Teiidae Caiman lizards, tegu lizards  |
 | --- |  *Crocodilurus amazonicus*   | --- |
-| --- | *Dracaena*   *spp.*  | --- |
-| --- | *Tupinambis*   *spp.*  | --- |
+| --- |  *Dracaena spp.*   | --- |
+| --- |  *Tupinambis spp.*   | --- |
 | Varanidae Monitor lizards  |
-| --- | *Varanus*   *spp.* (Except the species included in Appendix I)  | --- |
+| --- | *Varanus spp.* (Except the species included in Appendix I)  | --- |
 |  *Varanus bengalensis*   | --- | --- |
 |  *Varanus flavescens*   | --- | --- |
 |  *Varanus griseus*   | --- | --- |
@@ -1293,7 +1296,7 @@ b) “var(s).” is used to denote variety (varieties).
 | --- |  *Shinisaurus crocodilurus*   | --- |
 | SERPENTES Snakes  |
 | Boidae Boas  |
-| --- | *Boidae spp.* (Except the species included in Appendix I)  | --- |
+| --- | *Boidae spp.* (Except the species  included in Appendix I)  | --- |
 |  *Acrantophis spp.*   | --- | --- |
 |  *Boa constrictor occidentalis*   | --- | --- |
 |  *Epicrates inornatus*   | --- | --- |
@@ -1315,7 +1318,7 @@ b) “var(s).” is used to denote variety (varieties).
 | Elapidae Cobras, coral snakes  |
 | --- |  *Hoplocephalus bungaroides*   | --- |
 | --- | --- | *Micrurus diastema* (Honduras)  |
-| --- | --- | *Micrurus nigrocinctus* (Honduras)  |
+| --- | --- |  *Micrurus nigrocinctus*   (Honduras)  |
 | --- |  *Naja atra*   | --- |
 | --- |  *Naja kaouthia*   | --- |
 | --- |  *Naja mandalayensis*   | --- |
@@ -1352,19 +1355,19 @@ b) “var(s).” is used to denote variety (varieties).
 | --- | --- | *Macrochelys temminckii* (United States of America)  |
 | Dermatemydidae Central American river turtle  |
 | --- |  *Dermatemys mawii*   | --- |
-| Dermochelyidae Leatherback turtle  |
+| Dermochelyidae Leatherback turtle  | --- | --- |
 |  *Dermochelys coriacea*   | --- | --- |
 | Emydidae Box turtles, freshwater turtles  |
 | --- |  *Glyptemys insculpta*   | --- |
 |  *Glyptemys muhlenbergii*   | --- | --- |
-| --- | --- | *Graptemys*   *spp.* (United States of America)  |
-| --- | *Terrapene*   *spp.* (Except the species included in Appendix I)  | --- |
+| --- | --- | *Graptemys spp.* (United States of America)  |
+| --- | *Terrapene spp.* (Except the species included in Appendix I)  | --- |
 |  *Terrapene coahuila*   | --- | --- |
 | Geoemydidae Box turtles, freshwater turtles  |
 |  *Batagur affinis*   | --- | --- |
 |  *Batagur baska*   | --- | --- |
-| --- | *Batagur*   *spp.* (Except the species included in Appendix I)  | --- |
-| --- | *Cuora*   *spp.*  | --- |
+| --- | *Batagur spp.* (Except the species included in Appendix I)  | --- |
+| --- |  *Cuora spp.*   | --- |
 |  *Geoclemys hamiltonii*   | --- | --- |
 | --- | --- | *Geoemyda spengleri* (China)  |
 | --- |  *Heosemys annandalii*   | --- |
@@ -1376,7 +1379,7 @@ b) “var(s).” is used to denote variety (varieties).
 | --- |  *Malayemys subtrijuga*   | --- |
 | --- |  *Mauremys annamensis*   | --- |
 | --- | --- | *Mauremys iversoni* (China)  |
-| --- | --- | *Mauremys megalocephala* (China)  |
+| --- | --- |  *Mauremys megalocephala*   (China)  |
 | --- |  *Mauremys mutica*   | --- |
 | --- | --- | *Mauremys nigricans* (China)  |
 | --- | --- | *Mauremys pritchardi* (China)  |
@@ -1388,7 +1391,7 @@ b) “var(s).” is used to denote variety (varieties).
 | --- | --- | *Ocadia glyphistoma* (China)  |
 | --- | --- | *Ocadia philippeni* (China)  |
 | --- |  *Orlitia borneensis*   | --- |
-| --- | *Pangshura*   *spp.* (Except the species included in Appendix I)  | --- |
+| --- | *Pangshura spp.* (Except the species included in Appendix I)  | --- |
 |  *Pangshura tecta*   | --- | --- |
 | --- | --- | *Sacalia bealei* (China)  |
 | --- | --- | *Sacalia pseudocellata* (China)  |
@@ -1398,11 +1401,11 @@ b) “var(s).” is used to denote variety (varieties).
 | Platysternidae Big-headed turtle  |
 | --- |  *Platysternon megacephalum*   | --- |
 | Podocnemididae Afro-American side-necked turtles  |
-| --- |  *Erymnochelys madagascariensis*   | --- |
+| --- |  *Erymnochelys*    *madagascariensis*   | --- |
 | --- |  *Peltocephalus dumerilianus*   | --- |
-| --- | *Podocnemis*   *spp.*  | --- |
+| --- |  *Podocnemis spp.*   | --- |
 | Testudinidae Tortoises  |
-| --- | *Testudinidae spp.* (Except the species included in Appendix I. A zero annual export quota has been established for *Geochelone sulcata* for specimens removed from the wild and traded for primarily commercial purposes)  | --- |
+| --- | *Testudinidae spp.* (Except the species included in Appendix I. A zero annual export quota has been established for *Geochelone**sulcata* for specimens removed from the wild and traded for primarily commercial purposes)  | --- |
 |  *Astrochelys radiata*   | --- | --- |
 |  *Astrochelys yniphora*   | --- | --- |
 |  *Chelonoidis nigra*   | --- | --- |
@@ -1417,11 +1420,11 @@ b) “var(s).” is used to denote variety (varieties).
 |  *Aspideretes gangeticus*   | --- | --- |
 |  *Aspideretes hurum*   | --- | --- |
 |  *Aspideretes nigricans*   | --- | --- |
-| --- | *Chitra*   *spp.*  | --- |
+| --- |  *Chitra spp.*   | --- |
 | --- |  *Lissemys punctata*   | --- |
 | --- |  *Lissemys scutata*   | --- |
 | --- | --- | *Palea steindachneri* (China)  |
-| --- | *Pelochelys*   *spp.*  | --- |
+| --- |  *Pelochelys spp.*   | --- |
 | --- | --- | *Pelodiscus axenaria* (China)  |
 | --- | --- | *Pelodiscus maackii* (China)  |
 | --- | --- | *Pelodiscus parviformis* (China)  |
@@ -1429,12 +1432,12 @@ b) “var(s).” is used to denote variety (varieties).
 |  *CLASS AMPHIBIA*    *(AMPHIBIANS)*   |
 | ANURA  |
 | Bufonidae Toads  |
-| *Altiphrynoides*   *spp.*  | --- | --- |
+|  *Altiphrynoides spp.*   | --- | --- |
 |  *Atelopus zeteki*   | --- | --- |
 |  *Bufo periglenes*   | --- | --- |
 |  *Bufo superciliaris*   | --- | --- |
-| *Nectophrynoides*   *spp.*  | --- | --- |
-| *Nimbaphrynoides*   *spp.*  | --- | --- |
+|  *Nectophrynoides spp.*   | --- | --- |
+|  *Nimbaphrynoides spp.*   | --- | --- |
 |  *Spinophrynoides spp.*   | --- | --- |
 | Calyptocephalellidae Chilean toads  |
 | --- | --- | *Calyptocephalella gayi* (Chile)  |
@@ -1442,13 +1445,13 @@ b) “var(s).” is used to denote variety (varieties).
 | --- |  *Allobates femoralis*   | --- |
 | --- |  *Allobates zaparo*   | --- |
 | --- |  *Cryptophyllobates azureiventris*   | --- |
-| --- | *Dendrobates*   *spp.*  | --- |
-| --- | *Epipedobates*   *spp.*  | --- |
-| --- | *Phyllobates*   *spp.*  | --- |
+| --- |  *Dendrobates spp.*   | --- |
+| --- |  *Epipedobates spp.*   | --- |
+| --- |  *Phyllobates spp.*   | --- |
 | Hylidae Tree frogs  |
-| --- | *Agalychnis*   *spp.*  | --- |
+| --- |  *Agalychnis spp. <sup>10</sup>*   | --- |
 | Mantellidae Mantellas  |
-| --- | *Mantella*   *spp.*  | --- |
+| --- |  *Mantella spp.*   | --- |
 | Microhylidae Red rain frog, tomato frog  |
 |  *Dyscophus antongilii*   | --- | --- |
 | --- |  *Scaphiophryne gottlebei*   | --- |
@@ -1456,27 +1459,33 @@ b) “var(s).” is used to denote variety (varieties).
 | --- |  *Euphlyctis hexadactylus*   | --- |
 | --- |  *Hoplobatrachus tigerinus*   | --- |
 | Rheobatrachidae Gastric-brooding frogs  |
-| --- | *Rheobatrachus*   *spp.*  | --- |
+| --- |  *Rheobatrachus spp.*   | --- |
 | CAUDATA  |
 | Ambystomatidae Axolotls  |
 | --- |  *Ambystoma dumerilii*   | --- |
 | --- |  *Ambystoma mexicanum*   | --- |
-| Cryptobranchidae Giant salamanders  |
-| *Andrias*   *spp.*  | --- | --- |
+| Cryptobranchidae Hellbender and giant salamanders  |
+|  *Andrias spp.*   | --- | --- |
+| --- | --- |  *Cryptobranchus alleganiensis (United States of America)*   |
 | Salamandridae Newts and salamanders  |
 |  *Neurergus kaiseri*   | --- | --- |
+| --- | --- | --- |
 |  *CLASS ELASMOBRANCHII*    *(SHARKS)*   |
+| CARCHARHINIFORMES  |
+| Sphyrnidae Hammerhead sharks  |
+| --- | --- | *Sphyrna lewini* (Costa Rica)  |
 | LAMNIFORMES  |
 | Cetorhinidae Basking shark  |
 | --- |  *Cetorhinus maximus*   | --- |
-| Lamnidae Great white shark  |
+| Lamnidae Sharks  |
 | --- |  *Carcharodon carcharias*   | --- |
+| --- | --- | *Lamna nasus* (Belgium, Cyprus, Denmark <sup>11</sup>, Estonia, Finland, France, Germany, Greece, Ireland, Italy, Latvia, Lithuania, Malta, Netherlands, Poland, Portugal, Slovenia, Spain, Sweden and United Kingdom of Great Britain and Northern Ireland)  |
 | ORECTOLOBIFORMES  |
 | Rhincodontidae Whale shark  |
 | --- |  *Rhincodon typus*   | --- |
-| RAJIFORMES  |
+| PRISTIFORMES  |
 | Pristidae Sawfishes  |
-| *Pristidae spp*. (Except the species included in Appendix II)  | --- | --- |
+| *Pristidae spp.* (Except the species included in Appendix II)  | --- | --- |
 | --- | *Pristis microdon* (For the exclusive purpose of allowing international trade in live animals to appropriate and acceptable aquaria for primarily conservation purposes)  | --- |
 |  *CLASS ACTINOPTERYGII*    *(FISHES)*   |
 | ACIPENSERIFORMES Paddlefishes, sturgeons  |
@@ -1496,9 +1505,9 @@ b) “var(s).” is used to denote variety (varieties).
 | OSTEOGLOSSIFORMES  |
 | Osteoglossidae Arapaima, bonytongue  |
 | --- |  *Arapaima gigas*   | --- |
-|  *Scleropages formosus*   | --- | --- |
+|  *Scleropages formosus <sup>12</sup>*   | --- | --- |
 | PERCIFORMES  |
-| Labridae Wrasses  |
+| Labridae Wrasses  | --- | --- |
 | --- |  *Cheilinus undulatus*   | --- |
 | Sciaenidae Totoaba  |
 |  *Totoaba macdonaldi*   | --- | --- |
@@ -1507,19 +1516,18 @@ b) “var(s).” is used to denote variety (varieties).
 |  *Pangasianodon gigas*   | --- | --- |
 | SYNGNATHIFORMES  |
 | Syngnathidae Pipefishes, seahorses  |
-| --- | *Hippocampus*   *spp.*  | --- |
+| --- |  *Hippocampus spp.*   | --- |
 |  *CLASS SARCOPTERYGII*    *(LUNGFISHES)*   |
 | CERATODONTIFORMES  |
 | Ceratodontidae Australian lungfish  |
 | --- |  *Neoceratodus forsteri*   | --- |
-| COELACANTHIFORMES  |
+| COELACANTHIFORMES  | --- | --- |
 | Latimeriidae Coelacanths  |
-| *Latimeria*   *spp.*  | --- | --- |
-|  *PHYLUM ECHINODERMATA*    *CLASS HOLOTHUROIDEA*    *(SEA CUCUMBERS)*   |
-| ASPIDOCHIROTIDA  |
-| Stichopodidae Sea cucumbers  |
+|  *Latimeria spp.*   | --- | --- |
+|  *PHYLUMECHINODERMATA*    *CLASS HOLOTHUROIDEA*    *(SEA CUCUMBERS)*   |
+| ASPIDOCHIROTIDA Stichopodidae Sea cucumbers  |
 | --- | --- | *Isostichopus fuscus* (Ecuador)  |
-|  *PHYLUM ARTHROPODA*    *CLASS ARACHNIDA*    *(SCORPIONS AND SPIDERS)*   |
+|  *PHYLUMARTHROPODA*    *CLASS ARACHNIDA*    *(SCORPIONS AND SPIDERS)*   |
 | ARANEAE  |
 | Theraphosidae Red-kneed tarantulas, tarantulas  |
 | --- |  *Aphonopelma albiceps*   | --- |
@@ -1532,32 +1540,34 @@ b) “var(s).” is used to denote variety (varieties).
 | --- |  *Pandinus imperator*   | --- |
 |  *CLASS INSECTA*    *(INSECTS)*   |
 | COLEOPTERA  |
-| Lucanidae Cape stag beetles  |
-| --- | --- | *Colophon*   *spp.* (South Africa)  |
+| Lucanidae Cape stag beetles  | --- | --- |
+| --- | --- | *Colophon spp.* (South Africa)  |
 | Scarabaeidae Scarab beetles  |
 | --- |  *Dynastes satanas*   | --- |
 | LEPIDOPTERA  |
 | Nymphalidae Brush-footed butterflies  |
-| --- | --- | *Agrias amydon boliviensis* (Plurinational State of Bolivia) *Morpho godartii lachaumei* (Plurinational State of Bolivia) *Prepona praeneste buckleyana* (Plurinational State of Bolivia)  |
+| --- | --- | *Agrias amydon boliviensis* (Plurinational State of Bolivia)  |
+| --- | --- | *Morpho godartii lachaumei* (Plurinational State of Bolivia)  |
+| --- | --- | *Prepona praeneste buckleyana* (Plurinational State of Bolivia)  |
 | Papilionidae Birdwing butterflies, swallowtail butterflies  |
 | --- |  *Atrophaneura jophon*   | --- |
 | --- |  *Atrophaneura pandiyana*   | --- |
 | --- |  *Bhutanitis spp.*   | --- |
-| --- | *Ornithoptera*   *spp.* (Except the species included in Appendix I)  | --- |
+| --- | *Ornithoptera spp.* (Except the species included in Appendix I)  | --- |
 |  *Ornithoptera alexandrae*   | --- | --- |
 |  *Papilio chikae*   | --- | --- |
 |  *Papilio homerus*   | --- | --- |
 |  *Papilio hospiton*   | --- | --- |
-| --- |  *Parnassius Apollo*   | --- |
-| --- | *Teinopalpus*   *spp.*  | --- |
-| --- | *Trogonoptera* spp.  | --- |
-| --- | *Troides* spp.  | --- |
-|  *PHYLUM ANNELIDA*    *CLASS HIRUDINOIDEA*    *(LEECHES)*   |
+| --- |  *Parnassius apollo*   | --- |
+| --- |  *Teinopalpus spp.*   | --- |
+| --- |  *Trogonoptera spp.*   | --- |
+| --- |  *Troides spp.*   | --- |
+|  *PHYLUMANNELIDA*    *CLASS HIRUDINOIDEA*    *(LEECHES)*   |
 | ARHYNCHOBDELLIDA  |
 | Hirudinidae Medicinal leeches  |
 | --- |  *Hirudo medicinalis*   | --- |
 | --- |  *Hirudo verbana*   | --- |
-|  *PHYLUM MOLLUSCA*    *CLASS BIVALVIA*    *(CLAMS AND MUSSELS)*   |
+|  *PHYLUMMOLLUSCA*    *CLASS BIVALVIA*    *(CLAMS AND MUSSELS)*   |
 | MYTILOIDA  |
 | Mytilidae Marine mussels  |
 | --- |  *Lithophaga lithophaga*   | --- |
@@ -1570,11 +1580,11 @@ b) “var(s).” is used to denote variety (varieties).
 |  *Epioblasma florentina*   | --- | --- |
 |  *Epioblasma sampsonii*   | --- | --- |
 |  *Epioblasma sulcata perobliqua*   | --- | --- |
-|  *Epioblasma torulosa gubernaculum*   | --- | --- |
+|  *Epioblasma torulosa*    *gubernaculum*   | --- | --- |
 | --- |  *Epioblasma torulosa rangiana*   | --- |
 |  *Epioblasma torulosa torulosa*   | --- | --- |
 |  *Epioblasma turgidula*   | --- | --- |
-|  *Epioblasma walker*   | --- | --- |
+|  *Epioblasma walkeri*   | --- | --- |
 |  *Fusconaia cuneolus*   | --- | --- |
 |  *Fusconaia edgariana*   | --- | --- |
 |  *Lampsilis higginsii*   | --- | --- |
@@ -1590,21 +1600,21 @@ b) “var(s).” is used to denote variety (varieties).
 |  *Quadrula sparsa*   | --- | --- |
 |  *Toxolasma cylindrella*   | --- | --- |
 |  *Unio nickliniana*   | --- | --- |
-|  *Unio tampicoensis tecomatensis*   | --- | --- |
+|  *Unio tampicoensis*    *tecomatensis*   | --- | --- |
 |  *Villosa trabalis*   | --- | --- |
-| VENEROIDA  |
+| VENEROIDA  | --- | --- |
 | Tridacnidae Giant clams  |
-| --- | *Tridacnidae*   *spp.*  | --- |
+| --- |  *Tridacnidae spp.*   | --- |
 |  *CLASS GASTROPODA*    *(SNAILS AND CONCHES)*   |
 | MESOGASTROPODA  |
 | Strombidae Queen conch  |
 | --- |  *Strombus gigas*   | --- |
 | STYLOMMATOPHORA  |
 | Achatinellidae Agate snails, oahu tree snails  |
-| *Achatinella*   *spp.*  | --- | --- |
+|  *Achatinella spp.*   | --- | --- |
 | Camaenidae Green tree snail  |
 | --- |  *Papustyla pulcherrima*   | --- |
-|  *PHYLUM CNIDARIA*    *CLASS ANTHOZOA*    *(CORALS AND SEA ANEMONES)*   |
+|  *PHYLUMCNIDARIA*    *CLASS ANTHOZOA*    *(CORALS AND SEA ANEMONES)*   |
 | ANTIPATHARIA Black corals  |
 | --- |  *ANTIPATHARIA spp.*   | --- |
 | GORGONACEAE  |
@@ -1626,29 +1636,28 @@ b) “var(s).” is used to denote variety (varieties).
 | Milleporidae Fire corals  |
 | --- | *Milleporidae spp.* (Fossils are not subject to the provisions of the Convention )  | --- |
 | STYLASTERINA  |
-| Stylasteridae Lace corals  | --- | --- |
+| Stylasteridae Lace corals  |
 | --- | *Stylasteridae spp.* (Fossils are not subject to the provisions of the Convention )  | --- |
-|  *FLORA (PLANTS)*   |
+| --- |  *FLORA (PLANTS)*   | --- |
 | AGAVACEAE Agaves  |
 |  *Agave parviflora*   | --- | --- |
 | --- |  *Agave victoriae-reginae* <sup>#4</sup>   | --- |
 | --- |  *Nolina interrata*   | --- |
 | AMARYLLIDACEAE Snowdrops, sternbergias  |
-| --- | *Galanthus*   *spp.*<sup>#4</sup>  | --- |
-| --- | *Sternbergia*   *spp.*<sup>#4</sup>  | --- |
+| --- |  *Galanthus spp.* <sup>#4</sup>   | --- |
+| --- |  *Sternbergia spp.* <sup>#4</sup>   | --- |
 | ANACARDIACEAE Cashews  |
 | --- |  *Operculicarya hyphaenoides*   | --- |
 | --- |  *Operculicarya pachypus*   | --- |
 | APOCYNACEAE Elephant trunks, hoodias  |
-| --- | *Hoodia*   *spp.*<sup>#9</sup>  | --- |
-| --- | *Pachypodium*   *spp.*<sup>#4</sup> (Except the species included in Appendix I)  | --- |
+| --- |  *Hoodia spp.* <sup>#9</sup>   | --- |
+| --- | *Pachypodium spp.*<sup>#4</sup> (Except the species included in Appendix I)  | --- |
 |  *Pachypodium ambongense*   | --- | --- |
 |  *Pachypodium baronii*   | --- | --- |
 |  *Pachypodium decaryi*   | --- | --- |
-| --- |  *Rauvolfia serpentine* <sup>#2</sup>   | --- |
+| --- |  *Rauvolfia serpentina* <sup>#2</sup>   | --- |
 | ARALIACEAE Ginseng  |
-| --- | *Panax ginseng*<sup>#3</sup> (Only the population of the Russian Federation; no other population is included in the Appendices)  | --- |
-| --- |  *Panax quinquefolius* <sup>#3</sup>   | --- |
+| --- | *Panax ginseng*<sup>#3</sup> (Only the population of the Russian Federation; no other population is included in the Appendices) *Panaxquinquefolius*<sup>#3</sup>  | --- |
 | ARAUCARIACEAE Monkey-puzzle tree  |
 |  *Araucaria araucana*   | --- | --- |
 | BERBERIDACEAE May-apple  |
@@ -1662,13 +1671,12 @@ b) “var(s).” is used to denote variety (varieties).
 | --- |  *Tillandsia sucrei* <sup>#4</sup>   | --- |
 | --- |  *Tillandsia xerographica* <sup>#4</sup>   | --- |
 | CACTACEAE Cacti  |
-| --- | *CACTACEAE spp*<sup>6)</sup><sup>#4</sup> (Except the species included in Appendix I and except *Pereskia* spp., *Pereskiopsis* spp. and *Quiabentia* spp.)  | --- |
-| *Ariocarpus*   *spp.*  | --- | --- |
-|  *Astrophytum asterias*   | --- | --- |
+| --- | *CACTACEAE spp.*<sup>6</sup>   <sup>#4</sup> (Except the species included in Appendix I and except *Pereskia* spp., *Pereskiopsis* spp. and *Quiabentia* spp.)  | --- |
+|  *Ariocarpus spp.*    *Astrophytum asterias*   | --- | --- |
 |  *Aztekium ritteri*   | --- | --- |
 |  *Coryphantha werdermannii*   | --- | --- |
-| *Discocactus*   *spp.*  | --- | --- |
-|  *Echinocereus ferreirianus ssp. Lindsayi*   | --- | --- |
+|  *Discocactus spp.*   | --- | --- |
+| *Echinocereus ferreirianus*   *ssp.**lindsayi*  | --- | --- |
 |  *Echinocereus schmollii*   | --- | --- |
 |  *Escobaria minima*   | --- | --- |
 |  *Escobaria sneedii*   | --- | --- |
@@ -1685,8 +1693,9 @@ b) “var(s).” is used to denote variety (varieties).
 |  *Pediocactus paradinei*   | --- | --- |
 |  *Pediocactus peeblesianus*   | --- | --- |
 |  *Pediocactus sileri*   | --- | --- |
-| *Pelecyphora*   *spp.*  | --- | --- |
-|  *Sclerocactus brevihamatus ssp. tobuschii*   | --- | --- |
+|  *Pelecyphora spp.*   | --- | --- |
+| *Sclerocactus brevihamatus*   *ssp.**tobuschii*  | --- | --- |
+| --- | --- |
 |  *Sclerocactus erectocentrus*   | --- | --- |
 |  *Sclerocactus glaucus*   | --- | --- |
 |  *Sclerocactus mariposensis*   | --- | --- |
@@ -1695,10 +1704,10 @@ b) “var(s).” is used to denote variety (varieties).
 |  *Sclerocactus papyracanthus*   | --- | --- |
 |  *Sclerocactus pubispinus*   | --- | --- |
 |  *Sclerocactus wrightiae*   | --- | --- |
-| *Strombocactus*   *spp.*  | --- | --- |
-| *Turbinicarpus*   *spp.*  | --- | --- |
-| *Uebelmannia*   *spp.*  | --- | --- |
-| CARYOCARACEAE Ajo  |
+|  *Strombocactus spp.*   | --- | --- |
+|  *Turbinicarpus spp.*   | --- | --- |
+|  *Uebelmannia spp.*   | --- | --- |
+| CARYOCARACEAE Ajo  | --- | --- |
 | --- |  *Caryocar costaricense* <sup>#4</sup>   | --- |
 | COMPOSITAE (Asteraceae) Kuth  |
 |  *Saussurea costus*   | --- | --- |
@@ -1712,28 +1721,133 @@ b) “var(s).” is used to denote variety (varieties).
 |  *Fitzroya cupressoides*   | --- | --- |
 |  *Pilgerodendron uviferum*   | --- | --- |
 | CYATHEACEAE Tree-ferns  |
-| --- | *Cyathea*   *spp.*<sup>#4</sup>  | --- |
+| --- |  *Cyathea spp.* <sup>#4</sup>   | --- |
 | CYCADACEAE Cycads  |
 | --- | *CYCADACEAE spp.*<sup>#4</sup> (Except the species included in Appendix I)  | --- |
 |  *Cycas beddomei*   | --- | --- |
 | DICKSONIACEAE Tree-ferns  |
 | --- |  *Cibotium barometz* <sup>#4</sup>   | --- |
-| --- | *Dicksonia*   *spp.*<sup>#4</sup> (Only the populations of the Americas; no other population is included in the Appendices)  | --- |
+| --- | *Dicksonia spp.*<sup>#4</sup> (Only the populations of the Americas; no other population is included in the Appendices)  | --- |
 | DIDIEREACEAE Alluaudias, didiereas  |
 | --- |  *DIDIEREACEAE spp.* <sup>#4</sup>   | --- |
 | DIOSCOREACEAE Elephant’s foot, kniss  |
 | --- |  *Dioscorea deltoidea* <sup>#4</sup>   | --- |
 | DROSERACEAE Venus’ flytrap  |
 | --- |  *Dionaea muscipula* <sup>#4</sup>   | --- |
+| EBENACEAE Ebonies  |
+| --- | --- | *Diospyros aculeata*<sup>#5</sup> (includes var. *meridionalis*) (Madagascar)  |
+| --- | --- | *Diospyros analamerensis*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros anosivolensis*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros baroniana*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros bemarivensis*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros bernieri*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros bernieriana*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros bezofensis*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros boinensis*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros boivinii*<sup>#5</sup> (includes var. *manongarivensis*) (Madagascar)  |
+| --- | --- | *Diospyros calophylla*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros caucheana*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros cinnamomoides*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros clusiifolia*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros conifera*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros coursiana*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros cupulifera*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros* danguyana <sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros decaryana*<sup>#5</sup> (Madagascar)  |
+| --- | --- |  *Diospyros dycorypheoides* <sup>#5</sup>   (includes var. meridionalis) (Madagascar)  |
+| --- | --- | *Diospyros ebenifera*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros enervis*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros erinacea*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros erythrosperma*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros filipes*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros fuscovelutina*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros geayana*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros gneissicola*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros gracilipes*<sup>#5</sup> (includes vars *lecomtei, parvifolia, velutipes* and subenervis) (Madagascar)  |
+| --- | --- | *Diospyros greveana*<sup>#5</sup> (includes var. boinensis) (Madagascar)  |
+| --- | --- | *Diospyros haplostylis*<sup>#5</sup> (includes var. hildebrandtii) (Madagascar)  |
+| --- | --- | *Diospyros hazomainty*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros hemiteles*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros heterosepala*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros humbertiana*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros humbertii*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros implexicalyx*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros ketsensis*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros laevis*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros lamiana*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros lanceolata*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros latispathulata*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros lenticellata*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros leucomelas*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros leucocalyx*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros lokohensis*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros louveli*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros madagascariensis*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros madecassa*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros magnifolia*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros manampetsae*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros mangabensis*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros mangorensis*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros mapingo*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros masoalensis*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros mcphersonii*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros meeusiana*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros microrhombus*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros montigena*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros myriophylla*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros myrtifolia*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros myrtilloides*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros natalensis*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros neraudii*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros nigricans*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros nodosa*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros obducta*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros occlusa*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros olacinoides*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros onivensis*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros parifolia*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros parvifolia*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros perreticulata*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros perrieri*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros pervillei*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros platycalyx*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros pruinosa*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros quartzitarium*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros quercina*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros revaughanii*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros rubrolanata*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros sakalavarum*<sup>#5</sup> (includes var. *mollifolia*) (Madagascar)  |
+| --- | --- | *Diospyros sclerophylla*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros seychellarum*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros sphaerosepala*<sup>#5</sup> (includes var. *calyculata*) (Madagascar)  |
+| --- | --- | *Diospyros stenocarpa*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros striicalyx*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros subacuta*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros subenervis*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros subfalciformis*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros subsessilifolia*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros subtrinervis*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros tampinensis*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros tetraceros*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros tetrapoda*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros torquata*<sup>#5</sup> (includes var. *mabaoides*) (Madagascar)  |
+| --- | --- | *Diospyros toxicaria*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros tropophylla*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros urschii*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros velutipes*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros vera*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Diospyros vescoi*<sup>#5</sup> (includes var. mandrarensis) (Madagascar)  |
+| --- | --- | *Diospyros viguieriana*<sup>#5</sup> (Madagascar)  |
 | EUPHORBIACEAE Spurges  |
-| --- | *Euphorbia spp.*<sup>#4</sup> (Succulent species only except *Euphorbia misera and the species included in* Appendix I. Artificially propagated specimens of cultivars of *Euphorbia trigona, artificially* propagated specimens of crested, fan-shaped or colour mutants of *Euphorbia lactea, when grafted on* artificially propagated root stock of *Euphorbia neriifolia, and artificially* propagated specimens of cultivars of *Euphorbia* “Milii” when they are traded in shipments of 100 or more plants and readily recognizable as artificially propagated specimens, are not subject to the provisions of the Convention )  | --- |
+| --- | **Euphorbia spp.**<sup>#4</sup> (Succulent species only except *Euphorbia**misera* and the species included in Appendix I.  | --- |
+| --- | Artificially propagated specimens of cultivars of *Euphorbia trigona,* artificially propagated specimens of crested, fan-shaped or colour mutants of *Euphorbia lactea,* when grafted on artificially propagated root stock of *Euphorbia neriifolia,* and artificially propagated specimens of cultivars of *Euphorbia* ‘Milii’ when they are traded in shipments of 100 or more plants and readily recognizable as artificially propagated specimens, are not subject to the provisions of the Convention )  | --- |
 |  *Euphorbia ambovombensis*   | --- | --- |
 |  *Euphorbia capsaintemariensis*   | --- | --- |
-| *Euphorbia cremersii* (Includes the forma *viridifolia* and the var. *rakotozafyi*)  | --- | --- |
+| *Euphorbia cremersii* (Includes the *forma viridifolia* and the var. *rakotozafyi)*  | --- | --- |
 | *Euphorbia cylindrifolia* (Includes the ssp. *tuberifera*)  | --- | --- |
-| *Euphorbia decaryi* (Includes the vars. ampanihyensis, robinsonii and spirosticha)  | --- | --- |
+| *Euphorbia decaryi* (Includes the vars. *ampanihyensis*, *robinsonii* and *spirosticha*)  | --- | --- |
 |  *Euphorbia francoisii*   | --- | --- |
-| *Euphorbia moratii* (Includes the vars. *antsingiensis, bemarahensis and multiflora*)  | --- | --- |
+| *Euphorbia moratii* (Includes *the* vars. *antsingiensis*, *bemarahensis* and *multiflora*)  | --- | --- |
 |  *Euphorbia parvicyathophora*   | --- | --- |
 |  *Euphorbia quartziticola*   | --- | --- |
 |  *Euphorbia tulearensis*   | --- | --- |
@@ -1749,9 +1863,15 @@ b) “var(s).” is used to denote variety (varieties).
 | --- |  *Aniba rosaeodora* <sup>#12</sup>   | --- |
 | LEGUMINOSAE (Fabaceae) Afrormosia, cristobal, rosewood, sandalwood  |
 | --- |  *Caesalpinia echinata* <sup>#10</sup>   | --- |
+| --- | --- | *Dalbergia darienensis*<sup>#2</sup> [population of Panama (Panama)]  |
+| --- | --- | *Dalbergia louvelii*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Dalbergia monticola*<sup>#5</sup> (Madagascar)  |
 |  *Dalbergia nigra*   | --- | --- |
-| --- | --- | *Dalbergia retusa*<sup>#5</sup> [population of Guatemala (Guatemala)]  |
+| --- | --- | *Dalbergia normandii*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Dalbergia purpurascens*<sup>#5</sup> (Madagascar)  |
+| --- | --- | *Dalbergia retusa* [population of Guatemala (Guatemala)] <sup>#5</sup> [population of Panama (Panama)] <sup>#2</sup>  |
 | --- | --- | *Dalbergia stevensonii*<sup>#5</sup> [population of Guatemala (Guatemala)]  |
+| --- | --- | *Dalbergia xerophila*<sup>#5</sup> (Madagascar)  |
 | --- | --- | *Dipteryx panamensis* (Costa Rica, Nicaragua)  |
 | --- |  *Pericopsis elata* <sup>#5</sup>   | --- |
 | --- |  *Platymiscium pleiostachyum* <sup>#4</sup>   | --- |
@@ -1764,13 +1884,13 @@ b) “var(s).” is used to denote variety (varieties).
 |  *Aloe bakeri*   | --- | --- |
 |  *Aloe bellatula*   | --- | --- |
 |  *Aloe calcairophila*   | --- | --- |
-| *Aloe compressa* (Includes the vars. *paucituberculata, rugosquamosa* and *schistophila*)  | --- | --- |
+| *Aloe compressa* (Includes the vars. *paucituberculata*, *rugosquamosa* and *schistophila)*  | --- | --- |
 |  *Aloe delphinensis*   | --- | --- |
 |  *Aloe descoingsii*   | --- | --- |
 |  *Aloe fragilis*   | --- | --- |
 | *Aloe haworthioides* (Includes the var. *aurantiaca*)  | --- | --- |
 |  *Aloe helenae*   | --- | --- |
-| *Aloe laeta* (Includes the var. *maniaensis*)  | --- | --- |
+|  **Aloe laeta* (Includes the var. maniaensis)*   | --- | --- |
 |  *Aloe parallelifolia*   | --- | --- |
 |  *Aloe parvula*   | --- | --- |
 |  *Aloe pillansii*   | --- | --- |
@@ -1786,23 +1906,22 @@ b) “var(s).” is used to denote variety (varieties).
 | --- | --- | *Cedrela lilloi*<sup>#5</sup> (Plurinational State of Bolivia)  |
 | --- | --- | *Cedrela odorata*<sup>#5</sup> (Brazil and the Plurinational State of Bolivia. In addition, the following countries have listed their national populations: Colombia, Guatemala and Peru)  |
 | --- |  *Swietenia humilis* <sup>#4</sup>   | --- |
-| --- |  *Swietenia macrophylla* <sup>#6</sup>   | --- |
-| --- | (Populations of the Neotropics)  | --- |
+| --- | *Swietenia macrophylla*<sup>#6</sup> (Populations of the Neotropics)  | --- |
 | --- |  *Swietenia mahagoni* <sup>#5</sup>   | --- |
-| NEPENTHACEAE Pitcher-plants (Old World)  |
-| --- | *Nepenthes*   *spp.*<sup>#4</sup> (Except the species included in Appendix I)  | --- |
+| NEPENTHACEAE Pitcher-plants (Old World)  | --- |
+| --- | *Nepenthes spp.*<sup>#4</sup> (Except the species included in Appendix I)  | --- |
 |  *Nepenthes khasiana*   | --- | --- |
 |  *Nepenthes rajah*   | --- | --- |
 | ORCHIDACEAE Orchids  |
-| --- | *ORCHIDACEAE spp*<sup>7)</sup><sup>#4</sup> (Except the species included in Appendix I)  | --- |
-| (For all of the following Appendix-I species, seedling or tissue cultures obtained *in vitro*, in solid or liquid media, and transported in sterile containers are not subject to the provisions of the Convention  only if the specimens meet the definition of “artificially propagated” agreed by the Conference of the Parties)  | --- | --- |
+| --- | *ORCHIDACEAE spp.*<sup>7</sup>   <sup>#4</sup> (Except the species included in  Appendix I)  | --- |
+| (For all of the following Appendix-I species, seedling or tissue cultures obtained *in vitro*, in solid or liquid media, and transported in sterile containers are not subject to the provisions of the Convention  only if the specimens meet the definition of ‘artificially propagated’ agreed by the Conference of the Parties)  | --- | --- |
 |  *Aerangis ellisii*   | --- | --- |
 |  *Dendrobium cruentum*   | --- | --- |
 |  *Laelia jongheana*   | --- | --- |
 |  *Laelia lobata*   | --- | --- |
-| *Paphiopedilum*   *spp.*  | --- | --- |
+|  *Paphiopedilum spp.*   | --- | --- |
 |  *Peristeria elata*   | --- | --- |
-| *Phragmipedium*   *spp.*  | --- | --- |
+|  *Phragmipedium spp.*   | --- | --- |
 |  *Renanthera imschootiana*   | --- | --- |
 | OROBANCHACEAE Broomrape  |
 | --- |  *Cistanche deserticola* <sup>#4</sup>   | --- |
@@ -1811,8 +1930,7 @@ b) “var(s).” is used to denote variety (varieties).
 |  *Chrysalidocarpus decipiens*   | --- | --- |
 | --- |  *Lemurophoenix halleuxii*   | --- |
 | --- | --- | *Lodoicea maldivica*<sup>#13</sup> (Seychelles)  |
-| --- |  *Marojejya darianii*   | --- |
-| --- |  *Neodypsis decaryi* <sup>#4</sup>   | --- |
+| --- |  *Marojejya darianii Neodypsis decaryi* <sup>#4</sup>   | --- |
 | --- |  *Ravenea louvelii*   | --- |
 | --- |  *Ravenea rivularis*   | --- |
 | --- |  *Satranala decussilvae*   | --- |
@@ -1828,38 +1946,37 @@ b) “var(s).” is used to denote variety (varieties).
 | --- | --- | *Podocarpus neriifolius*<sup>#1</sup> (Nepal)  |
 |  *Podocarpus parlatorei*   | --- | --- |
 | PORTULACACEAE Lewisias, portulacas, purslanes  |
-| --- | *Anacampseros*   *spp.*<sup>#4</sup>  | --- |
-| --- | *Avonia*   *spp.*<sup>#4</sup>  | --- |
+| --- |  *Anacampseros spp.* <sup>#4</sup>   | --- |
+| --- |  *Avonia spp.* <sup>#4</sup>   | --- |
 | --- |  *Lewisia serrata* <sup>#4</sup>   | --- |
 | PRIMULACEAE Cyclamens  |
-| --- | *Cyclamen*   *spp*<sup>8)</sup><sup>#4</sup>  | --- |
+| --- | *Cyclamen spp.*<sup>8</sup>   <sup>#4</sup>  | --- |
 | RANUNCULACEAE Golden seals, yellow adonis, yellow root  |
 | --- |  *Adonis vernalis* <sup>#2</sup>   | --- |
 | --- |  *Hydrastis canadensis* <sup>#8</sup>   | --- |
-|  *ROSACEAE African cherry, stinkwood*   |
+| ROSACEAE African cherry, stinkwood  |
 | --- |  *Prunus africana* <sup>#4</sup>   | --- |
 | RUBIACEAE Ayugue  |
 |  *Balmea stormiae*   | --- | --- |
 | SARRACENIACEAE Pitcher-plants (New World)  |
-| --- | *Sarracenia*   *spp.*<sup>#4</sup> (Except the species included in Appendix I)  | --- |
+| --- | *Sarracenia spp.*<sup>#4</sup> (Except the species included in Appendix I)  | --- |
 |  *Sarracenia oreophila*   | --- | --- |
-| *Sarracenia rubra*   *ssp.**Alabamensis*  | --- | --- |
-| *Sarracenia rubra*   *ssp.**Jonesii*  | --- | --- |
+| *Sarracenia rubra**ssp.*   *alabamensis*  | --- | --- |
+|  *Sarracenia rubra ssp. jonesii*   | --- | --- |
 | SCROPHULARIACEAE Kutki  |
-| --- | *Picrorhiza kurrooa*<sup>#2</sup> (Excludes *Picrorhiza scrophulariiflora*)  | --- |
+| --- | *Picrorhiza kurrooa*<sup>#2</sup> (Excludes *Picrorhiza scrophulariiflora)*  | --- |
 | STANGERIACEAE Stangerias  |
-| --- | *Bowenia*   *spp.*<sup>#4</sup>  | --- |
+| --- |  *Bowenia spp.* <sup>#4</sup>   | --- |
 |  *Stangeria eriopus*   | --- | --- |
-|  *TAXACEAE Himalayan yew*   |
+| TAXACEAE Himalayan yew  |
 | --- | *Taxus chinensis* and infraspecific taxa of this species <sup>#2</sup>  | --- |
-| --- | *Taxus cuspidata* and infraspecific taxa of this species <sup>9)</sup><sup>#2</sup>  | --- |
+| --- | *Taxus cuspidata* and infraspecific taxa of this species <sup>9</sup>   <sup>#2</sup>  | --- |
 | --- | *Taxus fuana* and infraspecific taxa of this species <sup>#2</sup>  | --- |
-| --- | *Taxus sumatrana* and infraspecific taxa of this species <sup>#2</sup>  | --- |
-| --- |  *Taxus wallichiana* <sup>#2</sup>   | --- |
+| --- | *Taxus sumatrana* and infraspecific taxa of this species <sup>#2</sup> Taxus wallichiana <sup>#2</sup>  | --- |
 | THYMELAEACEAE (Aquilariaceae) Agarwood, ramin  |
-| --- | *Aquilaria*   *spp.*<sup>#4</sup>  | --- |
-| --- | *Gonystylus*   *spp.*<sup>#4</sup>  | --- |
-| --- | *Gyrinops*   *spp.*<sup>#4</sup>  | --- |
+| --- |  *Aquilaria spp.* <sup>#4</sup>   | --- |
+| --- |  *Gonystylus spp.* <sup>#4</sup>   | --- |
+| --- |  *Gyrinops spp.* <sup>#4</sup>   | --- |
 | TROCHODENDRACEAE (Tetracentraceae) Tetracentron  |
 | --- | --- | *Tetracentron sinense*<sup>#1</sup> (Nepal)  |
 | VALERIANACEAE Himalayan spikenard  |
@@ -1869,102 +1986,25 @@ b) “var(s).” is used to denote variety (varieties).
 | --- |  *Cyphostemma montagnacii*   | --- |
 | WELWITSCHIACEAE Welwitschia  |
 | --- |  *Welwitschia mirabilis* <sup>#4</sup>   | --- |
+| --- | --- | --- |
 | ZAMIACEAE Cycads  |
 | --- | *ZAMIACEAE spp.*<sup>#4</sup> (Except the species included in Appendix I)  | --- |
-| *Ceratozamia*   *spp.*  | --- | --- |
-| *Chigua*   *spp.*  | --- | --- |
-| *Encephalartos*   *spp.*  | --- | --- |
+|  *Ceratozamia spp.*   | --- | --- |
+|  *Chigua spp.*   | --- | --- |
+|  *Encephalartos spp.*   | --- | --- |
 |  *Microcycas calocoma*   | --- | --- |
 | ZINGIBERACEAE Ginger lily  |
-| --- |  *Hedychium philippinense* <sup>#4</sup>   | --- |
+| --- |  * *Hedychium philippinense* <sup>#4</sup> *   | --- |
 | ZYGOPHYLLACEAE Lignum-vitae  |
 | --- |  *Bulnesia sarmientoi* <sup>#11</sup>   | --- |
-| --- | *Guaiacum*   *spp.*<sup>#2</sup>  | --- |
+| --- | *Guaiacum* spp. <sup>#2</sup>  | --- |
 
-<sup>1)</sup> Population of Argentina (listed in Appendix II): For the exclusive purpose of allowing international trade in wool sheared from live vicuñas, in cloth, and in derived manufactured products and other handicraft artefacts. The reverse side of the cloth must bear the logotype adopted by the range States of the species, which are signatories to the *Convenio para la Conservación y Manejo de la Vicuña*, and the selvages the words “VICUÑA-ARGENTINA”. Other products must bear a label including the logotype and the designation “VICUÑA-ARGENTINA-ARTESANÍA”. All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly. <sup>2)</sup> Population of Chile (listed in Appendix II): For the exclusive purpose of allowing international trade in wool sheared from live vicuñas, and in cloth and items made thereof, including luxury handicrafts and knitted articles. The reverse side of the cloth must bear the logotype adopted by the range States of the species, which are signatories to the *Convenio para la Conservación y Manejo de la Vicuña*, and the selvages the words ‘VICUÑA-CHILE’. Other products must bear a label including the logotype and the designation “VICUÑA-CHILE-ARTESANÍA”. All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly. <sup>3)</sup> Population of Peru (listed in Appendix II): For the exclusive purpose of allowing international trade in wool sheared from live vicuñas and in the stock extant at the time of the ninth meeting of the Conference of the Parties (November 1994) of 3249 kg of wool, and in cloth and items made thereof, including luxury handicrafts and knitted articles. The reverse side of the cloth must bear the logotype adopted by the range States of the species, which are signatories to the *Convenio para la Conservación y Manejo de la Vicuña*, and the selvages the words “VICUÑA-PERÚ”. Other products must bear a label including the logotype and the designation “VICUÑA-PERÚ-ARTESANÍA”. All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly. <sup>4)</sup> Population of the Plurinational State of Bolivia (listed in Appendix II): For the exclusive purpose of allowing international trade in wool sheared from live vicuñas, and in cloth and items made thereof, including luxury handicrafts and knitted articles. The reverse side of the cloth must bear the logotype adopted by the range States of the species, which are signatories to the *Convenio para la Conservación y Manejo de la Vicuña*, and the selvages the words “VICUÑA-BOLIVIA”. Other products must bear a label including the logotype and the designation “VICUÑA-BOLIVIA-ARTESANÍA”. All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly. <sup>5)</sup> Populations of Botswana, Namibia, South Africa and Zimbabwe (listed in Appendix II): For the exclusive purpose of allowing: 
-
-a) trade in hunting trophies for non-commercial purposes;  
-
-b) trade in live animals to appropriate and acceptable destinations, as defined in Resolution Conf. 11.20, for Botswana and Zimbabwe and for *in situ* conservation programmes for Namibia and South Africa;  
-
-c) trade in hides;  
-
-d) trade in hair;  
-
-e) trade in leather goods for commercial or non-commercial purposes for Botswana, Namibia and South Africa and for non-commercial purposes for Zimbabwe;  
-
-f) trade in individually marked and certified ekipas incorporated in finished jewellery for non-commercial purposes for Namibia and ivory carvings for non-commercial purposes for Zimbabwe;  
-
-g) trade in registered raw ivory (for Botswana, Namibia, South Africa and Zimbabwe, whole tusks and pieces) subject to the following: 
-
-(i) only registered government-owned stocks, originating in the State (excluding seized ivory and ivory of unknown origin);  
-
-(ii) only to trading partners that have been verified by the Secretariat, in consultation with the Standing Committee, to have sufficient national legislation and domestic trade controls to ensure that the imported ivory will not be re-exported and will be managed in accordance with all requirements of Resolution Conf. 10.10 (Rev. CoP14) concerning domestic manufacturing and trade;  
-
-(iii) not before the Secretariat has verified the prospective importing countries and the registered government-owned stocks;  
-
-(iv) raw ivory pursuant to the conditional sale of registered government-owned ivory stocks agreed at CoP12, which are 20,000 kg (Botswana), 10,000 kg (Namibia) and 30,000 kg (South Africa);  
-
-(v) in addition to the quantities agreed at CoP12, government-owned ivory from Botswana, Namibia, South Africa and Zimbabwe registered by 31 January 2007 and verified by the Secretariat may be traded and despatched, with the ivory in paragraph g) iv) above, in a single sale per destination under strict supervision of the Secretariat;  
-
-(vi) the proceeds of the trade are used exclusively for elephant conservation and community conservation and development programmes within or adjacent to the elephant range; and  
-
-(vii) the additional quantities specified in paragraph g) v) above shall be traded only after the Standing Committee has agreed that the above conditions have been met; and    
-
-h) no further proposals to allow trade in elephant ivory from populations already in Appendix II shall be submitted to the Conference of the Parties for the period from CoP14 and ending nine years from the date of the single sale of ivory that is to take place in accordance with provisions in paragraphs g) i), g) ii), g) iii), g) vi) and g) vii). In addition such further proposals shall be dealt with in accordance with Decisions 14.77 and 14.78 (Rev. CoP15).   On a proposal from the Secretariat, the Standing Committee can decide to cause this trade to cease partially or completely in the event of non-compliance by exporting or importing countries, or in the case of proven detrimental impacts of the trade on other elephant populations All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly. <sup>6)</sup> Artificially propagated specimens of the following hybrids and/or cultivars are not subject to the provisions of the Convention: 
-
-– *Hatiora* x *graeseri*  
-
-– *Schlumbergera* x *buckleyi*  
-
-– *Schlumbergera russelliana* x *Schlumbergera truncata*  
-
-– *Schlumbergera orssichiana* x *Schlumbergera truncata*  
-
-– *Schlumbergera opuntioides* x *Schlumbergera truncata*  
-
-– *Schlumbergera truncata* (cultivars)  
-
-– Cactaceae spp. colour mutants grafted on the following grafting stocks: *Harrisia* “Jusbertii”, *Hylocereus trigonus or Hylocereus undatus*  
-
-– *Opuntia microdasys* (cultivars).   <sup>7)</sup> Artificially propagated hybrids of the following genera are not subject to the provisions of the Convention, if conditions, as indicated under a) and b), are met: *Cymbidium, Dendrobium, Phalaenopsis* and *Vanda*: 
-
-a) Specimens are readily recognizable as artificially propagated and do not show any signs of having been collected in the wild such as mechanical damage or strong dehydration resulting from collection, irregular growth and heterogeneous size and shape within a taxon and shipment, algae or other epiphyllous organisms adhering to leaves, or damage by insects or other pests; and  
-
-b) 
-
-(i) when shipped in non-flowering state, the specimens must be traded in shipments consisting of individual containers (such as cartons, boxes, crates or individual shelves of CC-containers) each containing 20 or more plants of the same hybrid; the plants within each container must exhibit a high degree of uniformity and healthiness; and the shipment must be accompanied by documentation, such as an invoice, which clearly states the number of plants of each hybrid; or  
-
-(ii) when shipped in flowering state, with at least one fully open flower per specimen, no minimum number of specimens per shipment is required but specimens must be professionally processed for commercial retail sale, e.g. labelled with printed labels or packaged with printed packages indicating the name of the hybrid and the country of final processing. This should be clearly visible and allow easy verification.     Plants not clearly qualifying for the exemption must be accompanied by appropriate CITES documents. <sup>8)</sup> Artificially propagated specimens of cultivars of *Cyclamen persicum* are not subject to the provisions of the Convention. However, the exemption does not apply to such specimens traded as dormant tubers. <sup>9)</sup> Artificially propagated hybrids and cultivars of *Taxus cuspidata,* live, in pots or other small containers, each consignment being accompanied by a label or document stating the name of the taxon or taxa and the text “artificially propagated”, are not subject to the provisions of the Convention. #1 All parts and derivatives, except: 
-
-a) seeds, spores and pollen (including pollinia);  
-
-b) seedling or tissue cultures obtained *in vitro*, in solid or liquid media, transported in sterile containers;  
-
-c) cut flowers of artificially propagated plants; and  
-
-d) fruits, and parts and derivatives thereof, of artificially propagated plants of the genus *Vanilla*.   #2 All parts and derivatives except: 
-
-a) seeds and pollen; and  
-
-b) finished products packaged and ready for retail trade.   #3 Whole and sliced roots and parts of roots. #4 All parts and derivatives, except: 
-
-a) seeds (including seedpods of Orchidaceae), spores and pollen (including pollinia). The exemption does not apply to seeds from Cactaceae spp. exported from Mexico, and to seeds from *Beccariophoenix madagascariensis* and *Neodypsis decaryi* exported from Madagascar;  
-
-b) seedling or tissue cultures obtained *in vitro*, in solid or liquid media, transported in sterile containers;  
-
-c) cut flowers of artificially propagated plants;  
-
-d) fruits, and parts and derivatives thereof, of naturalized or artificially propagated plants of the genus *Vanilla* (Orchidaceae) and of the family Cactaceae;  
-
-e) stems, flowers, and parts and derivatives thereof, of naturalized or artificially propagated plants of the genera *Opuntia* subgenus *Opuntia* and *Selenicereus* (Cactaceae); and  
-
-f) finished products of *Euphorbia antisyphilitica* packaged and ready for retail trade.   #5 Logs, sawn wood and veneer sheets. #6 Logs, sawn wood, veneer sheets and phywood. #7 Logs, wood-chips, powder and extracts. #8 Underground parts (i.e. roots, rhizomes): whole, parts and powdered. #9 All parts and derivatives except those bearing a label “Produced from *Hoodia* spp. material obtained through controlled harvesting and production in collaboration with the CITES Management Authorities of Botswana/Namibia/South Africa under agreement no. BW/NA/ZA xxxxxx”. #10 Logs, sawn wood, veneer sheets, including unfinished wood articles used for the fabrication of bows for stringed musical instruments. #11 Logs, sawn wood, veneer sheets, plywood, powder and extracts #12 Logs, sawn wood, veneer sheets, plywood and essential oil (excluding finished products packaged and ready for retail trade). #13 The kernel (also known as “endosperm”, “pulp” or “copra”) and any derivate thereof.   
+<sup>1</sup> Population of Argentina (listed in Appendix II): For the exclusive purpose of allowing international trade in wool sheared from live vicuñas, in cloth, and in derived manufactured products and other handicraft artefacts. The reverse side of the cloth must bear the logotype adopted by the range States of the species, which are signatories to the *Convenio para la Conservación y Manejo de la Vicuña*, and the selvages the words ‘VICUÑAARGENTINA’. Other products must bear a label including the logotype and the designation ‘VICUÑA-ARGENTINA-ARTESANÍA’. All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly. <sup>2</sup> Population of Chile (listed in Appendix II): For the exclusive purpose of allowing international trade in wool sheared from live vicuñas, and in cloth and items made thereof, including luxury handicrafts and knitted articles. The reverse side of the cloth must bear the logotype adopted by the range States of the species, which are signatories to the *Convenio para la Conservación y Manejo de la Vicuña*, and the selvages the words ‘VICUÑACHILE’. Other products must bear a label including the logotype and the designation ‘VICUÑA-CHILE-ARTESANÍA’. All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly. <sup>3</sup> Population of Peru (listed in Appendix II): For the exclusive purpose of allowing international trade in wool sheared from live vicuñas and in the stock extant at the time of the ninth meeting of the Conference of the Parties (November 1994) of 3249 kg of wool, and in cloth and items made thereof, including luxury handicrafts and knitted articles. The reverse side of the cloth must bear the logotype adopted by the range States of the species, which are signatories to the *Convenio para la Conservación y Manejo de la Vicuña*, and the selvages the words ‘VICUÑA-PERÚ’. Other products must bear a label including the logotype and the designation ‘VICUÑA-PERÚ-ARTESANÍA’. All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly. <sup>4</sup> Population of the Plurinational State of Bolivia (listed in Appendix II): For the exclusive purpose of allowing international trade in wool sheared from live vicuñas, and in cloth and items made thereof, including luxury handicrafts and knitted articles. The reverse side of the cloth must bear the logotype adopted by the range States of the species, which are signatories to the *Convenio para la Conservación y Manejo de la Vicuña*, and the selvages the words “VICUÑA-BOLIVIA”. Other products must bear a label including the logotype and the designation “VICUÑA-BOLIVIA-ARTESANÍA”. All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly. <sup>5</sup> Populations of Botswana, Namibia, South Africa and Zimbabwe (listed in Appendix II): For the exclusive purpose of allowing: a) trade in hunting trophies for non-commercial purposes; b) trade in live animals to appropriate and acceptable destinations, as defined in Resolution Conf. 11.20, for Botswana and Zimbabwe and for *in situ* conservation programmes for Namibia and South Africa; c) trade in hides; d) trade in hair; e) trade in leather goods for commercial or non-commercial purposes for Botswana, Namibia and South Africa and for non-commercial purposes for Zimbabwe; f) trade in individually marked and certified ekipas incorporated in finished jewellery for non-commercial purposes for Namibia and ivory carvings for non-commercial purposes for Zimbabwe; g) trade in registered raw ivory (for Botswana, Namibia, South Africa and Zimbabwe, whole tusks and pieces) subject to the following: i) only registered government-owned stocks, originating in the State (excluding seized ivory and ivory of unknown origin); ii) only to trading partners that have been verified by the Secretariat, in consultation with the Standing Committee, to have sufficient national legislation and domestic trade controls to ensure that the imported ivory will not be re-exported and will be managed in accordance with all requirements of Resolution Conf. 10.10 (Rev. CoP14) concerning domestic manufacturing and trade; iii) not before the Secretariat has verified the prospective importing countries and the registered government-owned stocks; iv) raw ivory pursuant to the conditional sale of registered government-owned ivory stocks agreed at CoP12, which are 20,000 kg (Botswana), 10,000 kg (Namibia) and 30,000 kg (South Africa); v) in addition to the quantities agreed at CoP12, government-owned ivory from Botswana, Namibia, South Africa and Zimbabwe registered by 31 January 2007 and verified by the Secretariat may be traded and despatched, with the ivory in paragraph g) iv) above, in a single sale per destination under strict supervision of the Secretariat; vi) the proceeds of the trade are used exclusively for elephant conservation and community conservation and development programmes within or adjacent to the elephant range; and vii) the additional quantities specified in paragraph g) v) above shall be traded only after the Standing Committee has agreed that the above conditions have been met; and h) no further proposals to allow trade in elephant ivory from populations already in Appendix II shall be submitted to the Conference of the Parties for the period from CoP14 and ending nine years from the date of the single sale of ivory that is to take place in accordance with provisions in paragraphs g) i), g) ii), g) iii), g) vi) and g) vii). In addition such further proposals shall be dealt with in accordance with Decisions 14.77 and 14.78 (Rev. CoP15). On a proposal from the Secretariat, the Standing Committee can decide to cause this trade to cease partially or completely in the event of non-compliance by exporting or importing countries, or in the case of proven detrimental impacts of the trade on other elephant populations. All other specimens shall be deemed to be specimens of species included in Appendix I and the trade in them shall be regulated accordingly. <sup>6</sup> Artificially propagated specimens of the following hybrids and/or cultivars are not subject to the provisions of the Convention: *– Hatiora* x *graeseri* *– Schlumbergera* x *buckleyi* *– Schlumbergera russelliana* x *Schlumbergera truncata* *– Schlumbergera orssichiana* x *Schlumbergera truncata* *– Schlumbergera opuntioides* x *Schlumbergera truncata* *– Schlumbergera truncata* (cultivars) *–* Cactaceae spp. colour mutants grafted on the following grafting stocks: *Harrisia* “Jusbertii”, *Hylocereus trigonus* or *Hylocereus undatus* – *Opuntia microdasys* (cultivars). <sup>7</sup> Artificially propagated hybrids of the following genera are not subject to the provisions of the Convention, if conditions, as indicated under a) and b), are met: *Cymbidium, Dendrobium, Phalaenopsis* and *Vanda*: a) Specimens are readily recognizable as artificially propagated and do not show any signs of having been collected in the wild such as mechanical damage or strong dehydration resulting from collection, irregular growth and heterogeneous size and shape within a taxon and shipment, algae or other epiphyllous organisms adhering to leaves, or damage by insects or other pests; and b) i) when shipped in non-flowering state, the specimens must be traded in shipments consisting of individual containers (such as cartons, boxes, crates or individual shelves of CC-containers) each containing 20 or more plants of the same hybrid; the plants within each container must exhibit a high degree of uniformity and healthiness; and the shipment must be accompanied by documentation, such as an invoice, which clearly states the number of plants of each hybrid; or ii) when shipped in flowering state, with at least one fully open flower per specimen, no minimum number of specimens per shipment is required but specimens must be professionally processed for commercial retail sale, e.g. labelled with printed labels or packaged with printed packages indicating the name of the hybrid and the country of final processing. This should be clearly visible and allow easy verification. Plants not clearly qualifying for the exemption must be accompanied by appropriate CITES documents. <sup>8</sup> Artificially propagated specimens of cultivars of *Cyclamen persicum* are not subject to the provisions of the Convention. However, the exemption does not apply to such specimens traded as dormant tubers. <sup>9</sup> Artificially propagated hybrids and cultivars of *Taxus cuspidata,* live, in pots or other small containers, each consignment being accompanied by a label or document stating the name of the taxon or taxa and the text “artificially propagated”, are not subject to the provisions of the Convention. <sup>10</sup> The following species are the only ones considered to be included in Appendix II: *Agalychnis annae, Agalychnis callidryas, Agalychnis moreletii, Agalychnis saltator* and *Agalychnis spurrelli.* <sup>11</sup> Excluding the dependent territory of Greenland. <sup>12</sup> Includes the taxon *Scleropages inscriptus*. <sup>#1</sup> All parts and derivatives, except: a) seeds, spores and pollen (including pollinia); b) seedling or tissue cultures obtained *in vitro*, in solid or liquid media, transported in sterile containers; c) cut flowers of artificially propagated plants; and d) fruits, and parts and derivatives thereof, of artificially propagated plants of the genus *Vanilla*. <sup>#2</sup> All parts and derivatives except: a) seeds and pollen; and b) finished products packaged and ready for retail trade. <sup>#3</sup> Whole and sliced roots and parts of roots. <sup>#4</sup> All parts and derivatives, except: a) seeds (including seedpods of Orchidaceae), spores and pollen (including pollinia). The exemption does not apply to seeds from Cactaceae spp. exported from Mexico, and to seeds from *Beccariophoenix madagascariensis* and *Neodypsis decaryi* exported from Madagascar; b) seedling or tissue cultures obtained *in vitro*, in solid or liquid media, transported in sterile containers; c) cut flowers of artificially propagated plants; d) fruits, and parts and derivatives thereof, of naturalized or artificially propagated plants of the genus *Vanilla* (Orchidaceae) and of the family Cactaceae; e) stems, flowers, and parts and derivatives thereof, of naturalized or artificially propagated plants of the genera *Opuntia* subgenus *Opuntia* and *Selenicereus* (Cactaceae); and f) finished products of *Euphorbia antisyphilitica* packaged and ready for retail trade. <sup>#5</sup> Logs, sawn wood and veneer sheets. <sup>#6</sup> Logs, sawn wood, veneer sheets and plywood. <sup>#7</sup> Logs, wood-chips, powder and extracts. <sup>#8</sup> Underground parts (i.e. roots, rhizomes): whole, parts and powdered. <sup>#9</sup> All parts and derivatives except those bearing a label “Produced from *Hoodia* spp. material obtained through controlled harvesting and production in collaboration with the CITES Management Authorities of Botswana/Namibia/South Africa under agreement no. BW/NA/ZA xxxxxx”. <sup>#10</sup> Logs, sawn wood, veneer sheets, including unfinished wood articles used for the fabrication of bows for stringed musical instruments. <sup>#11</sup> Logs, sawn wood, veneer sheets, plywood, powder and extracts. <sup>#12</sup> Logs, sawn wood, veneer sheets, plywood and essential oil (excluding finished products packaged and ready for retail trade). <sup>#13</sup> The kernel (also known as “endosperm”, “pulp” or “copra”) and any derivative thereof.   
 
 ### Appendix  IV  
 
-![10000052189](http://wetten.overheid.nl/Illustration/10000052189)
-![10000052189](http://wetten.overheid.nl/Illustration/10000052189)
+![]()
+![]()
 
 ####Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantesoorten
 
@@ -2071,7 +2111,7 @@ b) ten genoege van een administratieve instantie van de Staat van wederuitvoer i
 a) een wetenschappelijke autoriteit van de Staat waar het specimen is aangevoerd heeft verklaard dat de aanvoer het voortbestaan van genoemde soort niet schaadt;  
 
 b) ten genoege van een administratieve instantie van de Staat waar het specimen is aangevoerd, is aangetoond dat elk levend specimen op zodanige wijze zal worden behandeld dat risico's van verwondingen, schade aan de gezondheid of ruwe behandeling tot een minimum worden beperkt.     
-7.  De in het zesde lid van dit artikel bedoelde certificaten kunnen worden uitgereikt op advies van een wetenschappelijke autoriteit, nadat deze overleg heeft gepleegd met andere nationale of eventueel internationale wetenschappelijke autoriteiten over de totale aantallen specimens die mogen worden aangevoerd gedurende perioden van niét langer dan een jaar.   
+7.  De in het zesde lid van dit artikel bedoelde certificaten kunnen worden uitgereikt op advies van een wetenschappelijke autoriteit, nadat deze overleg heeft gepleegd met andere nationale of eventueel internationale wetenschappelijke autoriteiten over de totale aantallen specimens die mogen worden aangevoerd gedurende perioden van niet langer dan een jaar.   
 
 ### Artikel  V  
 
@@ -2279,7 +2319,7 @@ g) Indien het Secretariaat een bezwaar van een Partij ontvangt, moet over de voo
 
 h) Het Secretariaat stelt de Partijen in kennis van een ingediend bezwaar.  
 
-i) Tenzij het Secretariaat de stemmen voor of tegen of de ontvangen van ten minste de helft der Partijen heeft ontvangen nnen 60 dagen na de datum der kennisgeving overeenkomstig letter h) van dit lid, wordt de voorgestelde wijziging verwezen naar de volgende vergadering van de Conferentie om opnieuw te worden behandeld.  
+i) Tenzij het Secretariaat de stemmen voor of tegen of de ontvangen van ten minste de helft der Partijen heeft ontvangen binnen 60 dagen na de datum der kennisgeving overeenkomstig letter h) van dit lid, wordt de voorgestelde wijziging verwezen naar de volgende vergadering van de Conferentie om opnieuw te worden behandeld.  
 
 j) Mits door ten minste de helft der Partijen een stem is uitgebracht, wordt de voorgestelde wijziging aangenomen bij een meerderheid van twee derde der Partijen die hetzij één stem voor, hetzij één stem tegen hebben uitgebracht.  
 
@@ -2365,440 +2405,12 @@ Elke Partij kan deze Overeenkomst opzeggen door middel van een aan de depot-Rege
 
 TEN BLIJKE WAARVAN de ondergetekende Gevolmachtigden, hiertoe behoorlijk gemachtigd, deze Overeenkomst hebben ondertekend. GEDAAN te Washington drie maart, negentienhonderd drieënzeventig.  
 
-### Bijlage  I  
+### Bijlage  I, II en III  
 
-Interpretatie: 
-
-1. De in deze Bijlage opgenomen soorten worden aangeduid: 
-
-a) door de naam van de soort; of  
-
-b) door de verzamelnaam der soorten die behoren tot een hoger taxon of een aangegeven deel daarvan.    
-
-2. De afkorting „ssp” dient ter aanduiding van alle soorten van een hoger taxon.  
-
-3. Andere verwijzingen naar taxa die hoger dan soorten zijn worden uitsluitend ter informatie of classificatie gegeven.  
-
-4. Een sterretje (*) voor de naam van een soort of een hoger taxon betekent dat een of meer geografisch geïsoleerde populaties, ondersoorten of soorten van dat taxon, in Bijlage II zijn opgenomen en dat die populaties, ondersoorten of soorten niet in Bijlage I zijn opgenomen.  
-
-5. Het teken (–) gevolgd door een voor de naam van een soort of een hoger taxon geplaatst nummer betekent de uitsluiting van die soort of dat taxon van aangegeven geografisch geïsoleerde populaties, ondersoorten of soorten; bijvoorbeeld: 
-
-101 Lemur catta  
-
-102 Australische populatie    
-
-6. Het teken (+) gevolgd door een voor de naam van een soort geplaatst nummer betekent dat alleen een aangegeven geografisch geïsoleerde populatie of ondersoort van die soort in deze Bijlage is opgenomen; bijvoorbeeld: 
-
-+ 201 Alleen Italiaanse populatie    
-
-7. Het teken (†) voor de naam van een soort of een hoger taxon betekent dat de betreffende soorten worden beschermd overeenkomstig het programma van 1972 van de Internationale Walvis Commissie.    
-
-| --- | --- |
-|:---|:---|
-|  *FAUNA*   |
-| MAMMALIA  |
-| MARSUPIALIA  | --- |
-| Macropodidae  |  *Macropus parma*   |
-| --- |  *Onychogalea frenata*    *O. lunata*    *Lagorchestes hirsutus*    *Lagostrophus fasciatus*    *Caloprymnus campestris*    *Bettongia penicillata*    *B. lesueur*    *B. tropica*   |
-| Phalangeridae  |  *Wyulda squamicaudata*   |
-| Burramyidae  |  *Burramys parvus*   |
-| Vombatidae  |  *Lasiorhinus gillespiei*   |
-| Peramelidae  |  *Perameles bougainville*   |
-| --- |  *Chaeropus ecaudatus*    *Macrotis lagotis*    *M. leucura*   |
-| Dasyuridae  |  *Planigale tenuirostris*   |
-| --- |  *P. subtilissima*    *Sminthopsis psammophila*    *S. longicaudata*    *Antechinomys laniger*    *Myrmecobius fasciatus rufus*   |
-| Thylacinidae  |  *Thylacinus cynocephalus*   |
-| PRIMATES  | --- |
-| Lemuridae  | *Lemur* spp. * –101  |
-| --- | *Lepilemur* spp.  *Hapalemur* spp.  *Allocebus* spp.  *Cheirogaleus* spp.  *Microcebus* spp.  *Phaner* spp.  |
-| Indriidae  | *Indri* spp.  *Propithecus* spp.  *Avahi* spp.  |
-| Daubentoniidae  |  *Daubentonia madagascariensis*   |
-| Callithricidae  | *Leontopithecus (Leontideus)* spp.  |
-| --- |  *Callimico goeldii*   |
-| Cebidae  |  *Saimiri oerstedii*   |
-| --- | *Chiropotes albinasus Cacajao* spp.   *Alouatta palliata (villosa)*    *Ateles geoffroyi frontatus*    *A. g. panamensis*    *Brachyteles arachnoides*   |
-| Cercopithecidae  |  *Cercocebus galeritus galeritus*   |
-| --- |  *Macaca silenus*    *Colobus badius rufomitratus*    *C. b. kirkii*    *Presbytis geei*    *P. pileatus*    *P. entellus*    *Nasalis larvatus*    *Simias concolor P*    *Pygathrix nemaeus*   |
-| Hylobatidae  | *Hylobates* spp.  |
-| --- |  *Symphalangus syndactylus*   |
-| Pongidae  |  *Pongo pygmaeus pygmaeus*   |
-| --- |  *P. p. abelii*    *Gorilla gorilla*   |
-| EDENTATA  | --- |
-| Dasypodidae  |  *Priodontes giganteus (= maximus)*   |
-| PHOLIDOTA  | --- |
-| Manidae  |  *Manis temmincki*   |
-| LAGOMORPHA  | --- |
-| Leporidae  |  *Romerolagus diazi*   |
-| --- |  *Caprolagus hispidus*   |
-| RODENTIA  | --- |
-| Sciuridae  |  *Cynomys mexicanus*   |
-| Castoridae  |  *Castor fiber birulai*   |
-| --- |  *Castor canadensis mexicanus*   |
-| Muridae  |  *Zyzomys pedunculatus*   |
-| --- |  *Leporillus conditor*    *Pseudomys novaehollandiae*    *P. praeconis*    *P. shortridgei*    *P. fumeus*    *P. occidentalis*    *P. fieldi*    *Notomys aquilo*    *Xeromys myoides*   |
-| Chinchillidae  |  *Chinchilla brevicaudata boliviana*   |
-| CETACEA  | --- |
-| Platanistidae  |  *Platanista gangetica*   |
-| Eschrichtidae  |  *Eschrichtius robustus (glaucus) †*   |
-| Balaenopteridae  |  *Balaenoptera musculus †*    *Megaptera novaeangliae †*   |
-| Balaenidae  |  *Balaena mysticetus †*   *Eubalaena* spp. *†*  |
-| CARNIVORA  | --- |
-| Canidae  |  *Canis lupus monstrabilis*    *Vulpes velox hebes*   |
-| Viverridae  |  *Prionodon pardicolor*   |
-| Ursidae  |  *Ursus americanus emmonsii*    *U. arctos pruinosus*   *U. arctos ** +201   *U. a. nelsoni*   |
-| Mustelidae  |  *Mustela nigripes*    *Lutra longicaudis (platensis/annectens)*    *L. felina*    *L. provocax*    *Pteronura brasiliensis*    *Aonyx microdon*    *Enhydra lutris nereis*   |
-| Hyaenidae  |  *Hyaena brunnea*   |
-| Felidae  |  *Felis planiceps*    *F. nigripes*    *F. concolor coryi*    *F. c. costaricensis*    *F. c. cougar*    *F. temmincki*    *Felis bengalensis bengalensis*    *F. yagouaroundi cacomitli*    *F. y. fossata*    *F. y. panamensis*    *F: y. tolteca*    *F. pardalls mearnsi*    *F. p. mitis*    *F. wiedii nicaraguae*    *F. w. salvinia*    *F. tigrina oncilla*    *F. marmorata*    *F. jacobita*    *F. (Lynx) rufa escuinapae*    *Neofelis nebulosa*    *Panthera tigris **    *P. pardus*    *P. uncia*    *P. onca*    *Acinonyx jubatus*   |
-| PINNIPEDIA  | --- |
-| Phocidae  | *Monachus* spp.   *Mirounga angustirostris*   |
-| PROBOSCIDEA  | --- |
-| Elephantidae  |  *Elephas maximus*   |
-| SIRENIA  | --- |
-| Dugongidae  | *Dugong dugon ** -102  |
-| Trichechidae  |  *Trichechus manatus*    *T. inunguis*   |
-| PERISSODACTYLA  | --- |
-| Equidae  |  *Equus przewalskii*    *E. hemionus hemionus*    *E.h.khur*    *E. zebra zebra*   |
-| Tapiridae  |  *Tapirus pinchaque*    *T. bairdii*    *T. indicus*   |
-| Rhinocerotidae  |  *Rhinoceros unicornis*    *R. sondaicus*    *Didermocerus sumatrensis*    *Ceratotherium simum cottoni*   |
-| ARTIODACTYLA  | --- |
-| Suidae  |  *Sus salvanius*    *Babyrousa babyrussa*   |
-| Camelidae  |  *Vicugna vicugna*    *Camelus bactrianus*   |
-| Cervidae  |  *Moschus moschiferus moschiferus*    *Axis (Hyelaphus) porcinus annamiticus*    *A. (Hyelaphus) calamianensis*    *A. (Hyelaphus) kuhli*    *Cervus duvauceli*    *C. eldi*    *C. elaphus hanglu*    *Hippocamelus bisulcus*    *H. antisensis*    *Blastocerus dichotomus*    *Ozotoceros bezoarticus*    *Pudu pudu*   |
-| Antilocapridae  |  *Antilocapra americana sonoriensis*    *A. a. peninsularis*   |
-| Bovidae  |  *Bubalus (Anoa) mindorensis*    *B. (Anoa) depressicornis*    *B. (Anoa) quarlesi*    *Bos gaurus*    *B. (grunniens) mutus*    *Novibos (Bos) sauveli*    *Bison bison athabascae*    *Kobus leche*    *Hippotragus niger variani*    *Oryx leucoryx*    *Damaliscus dorcas dorcas*    *Saiga tatarica mongolica*    *Nemorhaedus goral*    *Capricornis sumatraensis*    *Rupicapra rupicapra ornata*    *Capra falconeri jerdoni*    *C. f. megaceros*    *C. f. chiltanensis*    *Ovis orientalis ophion*    *O. ammon hodgsoni*    *O. vignei*   |
-| AVES  |
-| TINAMIFORMES  | --- |
-| Tinamidae  |  *Tinamus solitarius*   |
-| PODICIPEDIFORMES  | --- |
-| Podicipedidae  |  *Podilymbus gigas*   |
-| PROCELLARIIFORMES  | --- |
-| Diomedeidae  |  *Diomedea albatrus*   |
-| PELECANIFORMES  | --- |
-| Sulidae  |  *Sula abbotti*   |
-| Fregatidae  |  *Fregata andrewsi*   |
-| CICONIIFORMES  | --- |
-| Ciconiidae  |  *Ciconia ciconia boyciana*   |
-| Threskiornithidae  |  *Nipponia nippon*   |
-| ANSERIFORMES  | --- |
-| Anatidae  |  *Anas aucklandica nesiotis*    *Anas oustaleti*    *Anas laysanensis*    *Anas diazi*    *Cairina scutulata*    *Rhodonessa caryophyllacea*    *Branta canadensis leucopareia*    *Branta sandvicensis*   |
-| FALCONIFORMES  | --- |
-| Cathartidae  |  *Vultur gryphus*    *Gymnogyps californianus*   |
-| Accipitridae  |  *Pithecophaga jefferyi*    *Harpia harpyja*    *Haliaetus l. leucocephalus*    *Haliaetus heliaca adalberti*    *Haliaetus albicilla groenlandicus*   |
-| Falconidae  |  *Falco peregrinus anatum*    *Falco peregrinus tundrius*    *Falco peregrinus peregrinus*    *Falco peregrinus babylonicus*   |
-| GALLIFORMES  | --- |
-| Megapodiidae  |  *Macrocephalon maleo*   |
-| Cracidae  |  *Crax blumenbachii*    *Pipile p. pipile*    *Pipile jacutinga*    *Mitu mitu mitu*    *Oreophasis derbianus*   |
-| Tetraonidae  |  *Tympanuchus cupido attwateri*   |
-| Phasianidae  |  *Colinus virginianus ridgwayi*    *Tragopan blythii*    *Tragopan caboti*    *Tragopan melanocephalus*    *Lophophorus sclateri*    *Lophophorus Ihuysii*    *Lophophorus impejanus*    *Crossoptilon mantchuricum*    *Crossoptilon crossoptilon*    *Lophura swinhoii*    *Lophura imperialis*    *Lophura edwardsi*    *Syrmaticus ellioti*    *Syrmaticus humiae*    *Syrmaticus mikado*    *Polyplectron emphanum*    *Tetraogallus tibetanus*    *Tetraogallus caspius*    *Cyrtonyx montezumae merriami*   |
-| GRUIFORMES  | --- |
-| Gruidae  |  *Grus japonensis*    *Grus leucogeranus*    *Grus americana*    *Grus canadensis pulla*    *Grus canadensis nesiotes*    *Grus nigricollis*    *Grus vipio*    *Grus monacha*   |
-| Rallidae  |  *Tricholimnas sylvestris*   |
-| Rhynochetidae  |  *Rhynochetos jubatus*   |
-| Otididae  |  *Eupodotis bengalensis*   |
-| CHARADRIIFORMES  | --- |
-| Scolopacidae  |  *Numenius borealis*    *Tringa guttifer*   |
-| Laridae  |  *Larus relictus*   |
-| COLUMBIFORMES  | --- |
-| Columbidae  |  *Ducula mindorensis*   |
-| PSITTACIFORMES  | --- |
-| Psittacidae  |  *Strigops habroptilus*    *Rhynchopsitta pachyrhyncha*    *Amazona leucocephala*    *Amazona vittata*    *Amazona guildingii*    *Amazona versicolor*    *Amazona imperialis*    *Amazona rhodocorytha*    *Amazona pretrei pretrei*    *Amazona vinacea*    *Pyrrhura cruentata*    *Anodorhynchus glaucus*    *Anodorhynchus leari*    *Cyanopsitta spixii*    *Pionopsitta pileata*    *Aratinga guaruba*    *Psittacula krameri echo*    *Psephotus pulcherrimus*    *Psephotus chrysopterygius*    *Neophema chrysogaster*    *Neophema splendida*    *Cyanoramphus novaezelandiae*    *Cyanoramphus auriceps forbesi*    *Geopsittacus occidentalis*    *Psittacus erithacus princeps*   |
-| APODIFORMES  | --- |
-| Trochilidae  |  *Ramphodon dohrnii*   |
-| TROGONIFORMES  | --- |
-| Trogonidae  |  *Pharomachrus mocinno mocinno*    *Pharomachrus mocinno costaricensis*   |
-| STRIGIFORMES  | --- |
-| Strigidae  |  *Otus gurneyi*   |
-| CORACIIFORMES  | --- |
-| Bucerotidae  |  *Rhinoplax vigil*   |
-| PICIFORMES  | --- |
-| Picidae  |  *Dryocopus javensis richardsi*    *Campephilus imperialis*   |
-| PASSERIFORMES  | --- |
-| Cotingidae  |  *Cotinga maculata*    *Xipholena atro-purpurea*   |
-| Pittidae  |  *Pitta kochi*   |
-| Atrichornithidae  |  *Atrichornis clamosa*   |
-| Muscicapidae  |  *Picathartes gymnocephalus*    *Picathartes oreas*    *Psophodes nigrogularis*    *Amytornis goyderi*    *Dasyornis brachypterus longirostris*    *Dasyornis broadbenti littoralis*   |
-| Sturnidae  |  *Leucopsar rothschildi*   |
-| Meliphagidae  |  *Meliphaga cassidix*   |
-| Zosteropidae  |  *Zosterops albogularis*   |
-| Fringillidae  |  *Spinus cucullatus*   |
-| AMPHIBIA  |
-| URODELA  | --- |
-| Cryptobranchidae  |  *Andrias (= Megalobatrachus) japonicus*    *Andrias (= Megalobatrachus) davidianus*   |
-| SALIENTIA  | --- |
-| Bufonidae  |  *Bufo superciliaris*   *Bufo periglenes Nectophrynoides* spp.  |
-| Atelopodidae  |  *Atelopus varius zeteki*   |
-| --- | REPTILIA  |
-| CROCODYLIA  | --- |
-| Alligatoridae  |  *Alligator mississippiensis*    *Alligator sinensis*    *Melanosuchus niger*    *Caiman crocodilus apaporiensis*    *Caiman latirostris*   |
-| Crocodylidae  |  *Tomistoma schlegelii*    *Osteolaemus tetraspis tetraspis*    *Osteolaemus tetraspis osborni*    *Crocodylus cataphractus*    *Crocodylus siamensis*    *Crocodylus palustris palustris*    *Crocodylus palustris kimbula*    *Crocodylus novaeguineae mindorensis*    *Crocodylus intermedius*    *Crocodylus rhombifer*    *Crocodylus moreletii*    *Crocodylus niloticus*   |
-| Gavialidae  |  *Gavialis gangeticus*   |
-| TESTUDINATA  | --- |
-| Emydidae  |  *Batagur baska*    *Geoclemys (= Damonia) hamiltonii*    *Geoemyda (= Nicoria) tricarinata*    *Kachuga tecta tecta*    *Morenia ocellata*    *Terrapene coahuila*   |
-| Testudinidae  |  *Geochelone (= Testudo) elephantopus*    *Geochelone ( = Testudo) geomeirica*    *Geochelone (= Testudo) radiata*    *Geochelone (= Testudo) yniphora*   |
-| Cheloniidae  |  *Eretmochelys imbricata imbricata*    *Lepidochelys kempii*   |
-| Trionychidae  |  *Lissemys punctata punctata*    *Trionyx ater*    *Trionyx nigricans*    *Trionyx gangeticus*    *Trionyx hurum*   |
-| Chelidae  |  *Pseudemydura umbrina*   |
-| SAURIA  | --- |
-| Varanidae  |  *Varanus komodoensis*    *Varanus flavescens*    *Varanus bengalensis*    *Varanus griseus*   |
-| SERPENTES  | --- |
-| Boidae  |  *Epicrates inornatus inornatus*    *Epicrates subflavus*    *Python molurus molurus*   |
-| RHYNCHOCEPHALIA  | --- |
-| Sphenodontidae  |  *Sphenodon punctatus*   |
-| --- | PISCES  |
-| ACIPENSERIFORMES  | --- |
-| Acipenseridae  |  *Acipenser brevirostrum*    *Acipenser oxyrhynchus*   |
-| OSTEOGLOSSIFORMES  | --- |
-| Osteoglossidae  |  *Scleropages formosus*   |
-| SALMONIFORMES  | --- |
-| Salmonidae  |  *Coregonus alpenae*   |
-| CYPRINIFORMES  | --- |
-| Catostomidae  |  *Chasmistes cujus*   |
-| Cyprinidae  |  *Probarbus jullieni*   |
-| SILURIFORMES  | --- |
-| Schilbeidae  |  *Pangasianodon gigas*   |
-| PERCIFORMES  | --- |
-| Percidae  |  *Stizostedion vitreum glaucum*   |
-| --- | MOLLUSCA  |
-| NAIADOIDA  | --- |
-| Unionidae  |  *Conradilla caelata*    *Dromus dromas*    *Epioblasma (= Dysnomia) florentina curtisi*    *Epioblasma (= Dysnomia) florentina florentina*    *Epioblasma (= Dysnomia) sampsoni*    *Epioblasma (= Dysnomia) sulcata perobliqua*    *Epioblasma (= Dysnomia) torulosa gubernaculum*    *Epioblasma ( = Dysnomia) torulosa torulosa*    *Epioblasma (= Dysnomia) turgidula*    *Epioblasma (= Dysnomia) walkeri*    *Fusconaia cuneolus*    *Fusconaia edgariana*    *Lampsilis higginsi*    *Lampsilis orbiculata orbiculata*    *Lampsilis satura*    *Lampsilis virescens*    *Plethobasis cicatricosus*    *Plethobasis cooperianus*    *Pleurobema plenum*    *Potamilus (= Proptera) capax*    *Quadrula intermedia*    *Quadrula sparsa*    *Toxolasma (= Carunculina) cylindrella*    *Unio (Megalonaias/?/) nickliniana*    *Unio (Lampsilis/?/) tampicoensis tecomatensis*    *Villosa (= Micromyaj trabalis*   |
-| FLORA  |
-| ARACEAE  |  *Alocasia sanderana*    *Alocasia zebrina*   |
-| CARYOCARACEAE  |  *Caryocar costaricense*   |
-| CARYOPHYLLACEAE  |  *Gymnocarpos przewalskii*    *Melandrium mongolicum*    *Silene mongolica*    *Stellaria pulvinata*   |
-| CUPRESSACEAE  |  *Pilgerodendron uviferum*   |
-| CYCADACEAE  | *Encephalartos* spp.   *Microcycas calocoma*    *Stangeria eriopus*   |
-| GENTIANACEAE  |  *Prepusa hookeriana*   |
-| HUMIRIACEAE  |  *Vantanea barbourii*   |
-| JUGLANDACEAE  |  *Engelhardtia pterocarpa*   |
-| LEGUMINOSAE  |  *Ammopiptanthus mongolicus*    *Cynometra hemitomophylla*    *Platymiscium pleiostachyum*   |
-| LILIACEAE  |  *Aloe albida*    *Aloe pillansii*    *Aloe polyphylla*    *Aloe thorncroftii*    *Aloe vossii*   |
-| MELASTOMATACEAE  |  *Lavoisiera itambana*   |
-| LEGUMINOSAE  |  *Guarea longipetiola*    *Tachigalia versicolor*   |
-| MORACEAE  |  *Batocarpus costaricensis*   |
-| ORCHIDACEAE  |  *Laelia jongheana*    *Cattleya skinneri*    *Cattleya trianae*    *Didiciea cunninghamii*    *Laelia lobata*   *Lycaste virginalis* var. *alba*   *Peristeria elata*   |
-| PINACEAE  |  *Abies guatemalensis*    *Abies nebrodensis*   |
-| PODOCARPACEAE  |  *Podocarpus costalis*    *Podocarpus parlatorei*   |
-| PROTEACEAE  |  *Orothamnus zeyheri*    *Protea odorata*   |
-| RUBIACEAE  |  *Balmea stormae*   |
-| SAXIFRAGACEAE (GROSSULARIACEAE)  |  *Ribes sardoum*   |
-| CUPRESSACEAE  |  *Fitzroya cupressoides*   |
-| ULMACEAE  |  *Celtis aetnensis*   |
-| WELWITSCHIACEAE  |  *Welwitschia bainesii*   |
-| ZINGIBERACEAE  |  *Hedychium philippinense*   |
-
-### Bijlage  II  
-
-Interpretatie: 
-
-1. De in deze Bijlage voorkomende soorten worden aangeduid: 
-
-a) door de naam van de soort; of  
-
-b) door de verzamelnaam der soorten die behoren tot een hoger taxon of aangegeven deel daarvan.    
-
-2. De afkorting „ssp” dient ter aanduiding van alle soorten van een hoger taxon.  
-
-3. Andere verwijzingen naar taxa die hoger zijn dan soorten worden uitsluitend ter informatie of classificatie gegeven.  
-
-4. Een sterretje (*) voor de naam van een soort of een hoger taxon betekent dat een of meer geografisch geïsoleerde populaties, ondersoorten of soorten van dat taxon in Bijlage I zijn opgenomen en dat deze populaties, ondersoorten of soorten niet in Bijlage II zijn opgenomen.  
-
-5. Het teken *(#)* gevolgd door een voor de naam van een soort of een hoger taxon geplaatst nummer dient voor de toepassing van deze Overeenkomst ter aanduiding van delen of produkten die in verband hiermee worden genoemd; bijvoorbeeld: 
-
-# 1, duidt op wortels  
-
-# 2, duidt op hout  
-
-# 3, duidt op stammen    
-
-6. Het teken (–) gevolgd door een voor de naam van een soort of hoger taxon geplaatst nummer betekent de uitsluiting van dat soort of taxon van aangegeven geografisch geïsoleerde populaties, ondersoorten, soorten of groepen soorten; bijvoorbeeld: 
-
-101 niet saprijke soorten    
-
-7. Het teken (+) gevolgd door een voor de naam van een soort of hoger taxon geplaatst nummer betekent dat alleen nader aangegeven geografisch geïsoleerde populaties, ondersoorten of soorten van dat soort of van het hogere taxon in deze Bijlage zijn opgenomen; bijvoorbeeld: 
-
-+ 201 Alle ondersoorten van Noord-Amerika  
-
-+ 202 Soorten van Nieuw-Zeeland  
-
-+ 203 Alle soorten van de familie in de beide Amerika's  
-
-+ 204 Australische populatie.      
-
-| --- | --- |
-|:---|:---|
-|  *FAUNA*   |
-| MAMMALIA  |
-| MARSUPIALIA  | --- |
-| Macropodidae  |  *Dendrolagus inustus*    *Dendrolagus ursinus*   |
-| INSECTIVORA  | --- |
-| Erinaceidae  |  *Erinaceus frontalis*   |
-| PRIMATES  | --- |
-| Lemuridae  |  *Lemur catta **   |
-| Lorisidae  |  *Nycticebus coucang*    *Loris tardigradus*   |
-| Cebidae  |  *Cebus capucinus*   |
-| Cercopithecidae  |  *Macaca sylvanus*    *Colobus badius gordonorum*    *Colobus verus*    *Rhinopithecus roxellanae*    *Presbytis johnii*   |
-| Pongidae  |  *Pan paniscus*    *Pan troglodytes*   |
-| EDENTATA  | --- |
-| Myrmecophagidae  |  *Myrmecophaga tridactyla*    *Tamandua tetradactyla chapadensis*   |
-| Bradypodidae  |  *Bradypus boliviensis*   |
-| PHOLIDOTA  | --- |
-| Manidae  |  *Manis crassicaudata*    *Manis pentadactyla*    *Manis javanica*   |
-| LAGOMORPHA  | --- |
-| Leporidae  |  *Nesolagus netscheri*   |
-| RODENTIA  | --- |
-| Heteromyidae  |  *Dipodomys phillipsii phillipsii*   |
-| Sciuridae  |  *Ratufa spp.*    *Lariscus hosei*   |
-| Castoridae  |  *Castor canadensis frondator*    *Castor canadensis repentinus*   |
-| Cricetidae  |  *Ondatra zibethicus bernardi*   |
-| CARNIVORA  | --- |
-| Canidae  |  *Canis lupus pallipes*    *Canis lupus irremotus*    *Canis lupus crassodon*    *Chrysocyon brachyurus*    *Cuon alpinus*   |
-| Ursidae  |  *Ursus (Thalarctos) maritimus*    *Ursus arctos * +201*    *Helarctos malayanus*   |
-| Procyonidae  |  *Ailures fulgens*   |
-| Mustelidae  |  *Martes americana atrata*   |
-| Viveridae  |  *Prionodon linsang*    *Cynogale bennetti*    *Helogale derbianus*   |
-| Felidae  |  *Felis yagouaroundi **    *Felis colocolo pajeros*    *Felis colocolo crespoi*    *Felis colocolo budini*    *Felis concolor missoulensis*    *Felis concolor mayensis*    *Felis concolor azteca*    *Felis serval*    *Felis lynx isaballina*    *Felis wiedii **    *Felis pardalis **    *Felis tigrina **    *Felis (=Caracal) caracal*    *Panthera leo persica*    *Panthera tigris altaica (= amurensis)*   |
-| PINNIPEDIA  | --- |
-| Otariidae  |  *Arctocephalus australis*    *Arctocephalus galapagoensis*    *Arctocephalus philippii*    *Arctocephalus townsendi*   |
-| Phocidae  |  *Mirounga australis*    *Mirounga leonina*   |
-| TUBULIDENTATA  | --- |
-| Orycteropidae  |  *Orycteropus afer*   |
-| SIRENIA  | --- |
-| Dugongidae  |  *Dugong dugon * +204*   |
-| Trichechidae  |  *Trichechus senegalensis*   |
-| PERISSODACTYLA  | --- |
-| Equidae  |  *Equus hemionus **   |
-| Tapiridae  |  *Tapirus terrestris*   |
-| Rhinocerotidae  |  *Diceros bicornis*   |
-| ARTIODACTYLA  | --- |
-| Hippopotamidae  |  *Choeropsis liberiensis*   |
-| Cervidae  |  *Cervus elaphus bactrianus*    *Pudu mephistophiles*   |
-| Antilocapridae  |  *Antilocapra americana mexicana*   |
-| Bovidae  |  *Cephalophus monticola*    *Oryx (tao) dammah*    *Addax nasomaculatus*    *Pantholops hodgsoni*    *Capra falconeri **    *Ovis ammon **    *Ovis canadensis*   |
-| AVES  |
-| SPHENISCIFORMES  | --- |
-| Spheniscidae  |  *Spheniscus demersus*   |
-| RHEIFORMES  | --- |
-| Rheidae  |  *Rhea americana albescens*    *Pterocnemia pennata pennata*    *Pterocnemia pennata garleppi*   |
-| TINAMIFORMES  | --- |
-| Tinamidae  |  *Rhynchotus rufescens rufescens*    *Rhynchotus rufescens pallescens*    *Rhynchotus rufescens maculicollis*   |
-| CICONIIFORMES  | --- |
-| Ciconiidae  |  *Ciconia nigra*   |
-| Threskiornithidae  |  *Geronticus calvus*    *Platalea leucorodia*   |
-| Phoenicopteridae  |  *Phoenicopterus ruber chilensis*    *Phoenicoparrus andinus*    *Phoenicoparrus jamesi*   |
-| PELECANIFORMES  | --- |
-| Pelecanidae  |  *Pelecanus crispus*   |
-| ANSERIFORMES  | --- |
-| Anatidae  |  *Anas aucklandica aucklandica*    *Anas aucklandica chlorotis*    *Anas bernieri*    *Dendrocygna arborea*    *Sarkidiornis melanotos*    *Anser albifrons gambelli*    *Cygnus bewickii jankowskii*    *Cygnus melancoryphus*    *Coscoroba coscoroba*    *Branta ruficollis*   |
-| FALCONIFORMES  | --- |
-| Accipitridae  |  *Gypaetus barbatus meridionalis*    *Aquila chrysaetos*   |
-| Falconidae  | Spp.*  |
-| GALLIFORMES  | --- |
-| Megapodiidae  |  *Megapodius freycinet nicobariensis*    *Megapodius freycinet abbotti*   |
-| Tetraonidae  |  *Tympanuchus cupido pinnatus*   |
-| Phasianidae  |  *Francolinus ochropectus*    *Francolinus swierstrai*    *Catreus wallichii*    *Polyplectron malacense*    *Polyplectron germaini*    *Polyplectron bicalcaratum*    *Gallus sonneratii*    *Argusianus argus*    *Ithaginis cruentus*    *Cyrtonyx montezumae montezumae*    *Cyrtonyx montezumae mearnsi*   |
-| GUIFORMES  | --- |
-| Gruidae  |  *Balearica regulorum*    *Grus canadensis pratensis*   |
-| Rallidae  |  *Gallirallus australis hectori*   |
-| Otididae  |  *Chlamydotis undulata*    *Choriotis nigriceps*    *Otis tarda*   |
-| CHARADRIIFORMES  | --- |
-| Scolopacidae  |  *Numenius tenuirostris*    *Numenius minutus*   |
-| Laridae  |  *Larus brunneicephalus*   |
-| COLUMBIFORMES  | --- |
-| Columbidae  |  *Gallicolumba luzonica*    *Goura cristata*    *Goura scheepmakeri*    *Goura victoria*    *Caloenas nicobarica pelewensis*   |
-| PSITTACIFORMES  | --- |
-| Psittacidae  |  *Coracopsis nigra barklyi*    *Prosopeia personata*    *Eunymphicus cornutus*    *Cyanoramphus unicolor*    *Cyanoramphus novaezelandiae*    *Cyanoramphus malherbi*    *Poicephalus robustus*    *Tanygnathus lucionensis*    *Probosciger aterrimus*   |
-| CUCULIFORMES  | --- |
-| Musophagidae  |  *Tauraco corythaix*    *Gallirex porphyreolophus*   |
-| STRIGIFORMES  | --- |
-| Strigidae  |  *Otus nudipes newtoni*   |
-| CORACIIFORMES  | --- |
-| Bucerotidae  |  *Buceros rhinoceros rhinoceros*    *Buceros bicornis*    *Buceros hydrocorax hydrocorax*    *Aceros narcondami*   |
-| PICIFORMES  | --- |
-| Picidae  |  *Picus squamatus flavirostris*   |
-| PASSERIFORMES  | --- |
-| Cotingidae  |  *Rupicola rupicola*    *Rupicola peruviana*   |
-| Pittidae  |  *Pitta brachyura nympha*   |
-| Hirundinidae  |  *Pseudochelidon sirintarae*   |
-| Paradisaeidae  | Spp.  |
-| Muscicapidae  |  *Muscicapa ruecki*   |
-| Fringillidae  |  *Spinus yarrellii*   |
-| AMPHIBIA  |
-| URODELA  | --- |
-| Ambystomidae  |  *Ambystoma mexicanum*    *Ambystoma dumerilii*    *Ambystoma lermaensis*   |
-| SALIENTIA  | --- |
-| Bufonidae  |  *Bufo retiformis*   |
-| REPTILIA  |
-| CROCODYLIA  | --- |
-| Alligatoridae  |  *Caiman crocodilus crocodilus*    *Caiman crocodilus yacare*    *Caiman crocodilus fuscus*    *(chiapasius)*    *Paleosuchus palpebrosus*    *Paleosuchus trigonatus*   |
-| Crocodylidae  |  *Crocodylus johnsoni*    *Crocodylus novaeguineae novaeguineae*    *Crocodylus porosus*    *Crocodylus acutus*   |
-| TESTUDINATA  | --- |
-| Emydidae Testudinidae  |  *Clemmys muhlenbergi*    *Chersine spp.*    *Geochelone spp. **    *Gopherus spp.*    *Homopus spp.*    *Kinixys spp.*    *Malacochersus spp.*    *Pyxis spp.*    *Testudo spp. **   |
-| Celoniidae  |  *Caretta caretta*    *Chelonia mydas*    *Chelonia depressa*    *Eretmochelys imbricata bissa*    *Lepidochelys olivacea*   |
-| Dermochelyidae  |  *Dermochelys coriacea*   |
-| Pelomedusidae  |  *Podocnemis spp.*   |
-| SAURIA  | --- |
-| Teiidae  |  *Cnemidophorus hyperythrus*   |
-| Iguanidae  |  *Conolophus pallidus*    *Conolophus subcristatus*    *Amblyrhynchus cristatus*    *Phrynosoma coronatum blainvillei*   |
-| Helodermatidae  |  *Heloderma suspectum*    *Heloderma horridum*   |
-| Varanidae  |  *Varanus spp. **   |
-| SERPENTES  | --- |
-| Boidae  |  *Epicrates cenchris cenchris*    *Eunectes notaeus*    *Constrictor constrictor Python spp. **   |
-| Colubridae  |  *Cyclagras gigas*    *Pseudoboa cloelia*    *Elachistodon westermanni*    *Thamnophis elegans hammondi*   |
-| PISCES  |
-| ACIPENSERIFORMES  | --- |
-| Acipenseridae  |  *Acipenser fulvescens*    *Acipenser sturio*   |
-| OSTEOGLOSSIFORMES  | --- |
-| Osteoglossidae  |  *Arapaima gigas*   |
-| SALMONIFORMES  | --- |
-| Salmonidae  |  *Stenodus leucichthys leucichthys*    *Salmo chrysogaster*   |
-| CYPRINIFORMES  | --- |
-| Cyprinidae  |  *Plagopterus argentissimus*    *Ptychocheilus lucius*   |
-| ATHERINIFORMES  | --- |
-| Cyprinodontidae  |  *Cynolebias constanciae*    *Cynolebias marmoratus*    *Gynolebias minimus*    *Cynolebias opalescens*    *Cynolebias splendens*   |
-| Poeciliidae  |  *Xiphophorus couchianus*   |
-| COELACANTHIFORMES  | --- |
-| Coelacanthidae  |  *Latimeria chalumnae*   |
-| CERATODIFORMES  | --- |
-| Ceratodidae  |  *Neoceratodus forsteri*   |
-| MOLLUSCA  |
-| NAIADOIDA  | --- |
-| Unionidae  |  *Cyprogenia aberti*    *Epioblasma (= Dysnomia) torulosa rangiana*    *Fusconaia subrotunda*    *Lampsilis brevicula*    *Lexingtonia dolabelloides*    *Pleorobema clava*   |
-| STYLOMMATOPHORA  | --- |
-| Camaenidae  |  *Papustyla (= Papuina) pulcherrima*   |
-| Paraphantidae  |  *Paraphanta spp. +202*   |
-| PROSOBRANCHIA  | --- |
-| Hydrobiidae  |  *Coahuilix hubbsi*    *CoChliopina milleri*    *Durangonella coahuilae*    *Mexipyrgus carranzae*    *Mexipyrgus churinceanus*    *Mexipyrgus escobedae*    *Mexipyrgus lugoi **    *Mexipyrgus mojarralis*    *Mexipyrgus multiliheaius*    *Mexithauma quadripaludium*    *Nymphophilus minckleyi*    *Paludiscala caramba*   |
-| INSECTA  |
-| LEPIDOPTERA  | --- |
-| Papilionidae  |  *Parnassius apollo apollo*   |
-|  *FLORA*   |
-| APOCYNACEAE  | *Pachypodium* spp.  |
-| ARALIACEAE  |  *Panax quinquefolius # 1*   |
-| ARAUCARIACEAE  |  *Araucaria araucana # 2*   |
-| CACTACEAE  |  *Cactaceae spp. +203*    *Rhipsalis spp.*   |
-| COMPOSITAE  |  *Saussurea lappa # 1*   |
-| CYATHEACEAE  |  *Cyathea (Hemitelia) capensis # 3*    *Cyathea dregei # 3*    *Cyathea mexicana # 3*    *Cyathea (Alsophila) salvinii # 3*   |
-| DIOSCOREACEAE  |  *Dioscorea deltoidea # 1*   |
-| EUPHORBIACEAE  |  *Euphorbia spp. -101*   |
-| FAGACEAE  |  *Quercus copeyensis # 2*   |
-| LEGUMINOSAE  |  *Thermopsis mongolica*   |
-| LILIACEAE  |  *Aloe spp. **   |
-| MELIACEAE  |  *Swietenia humilis # 2*   |
-| ORCHIDACEAE  |  *Spp. **   |
-| PALMAE  |  *Areca ipot*    *Phoenix hanceana var. philippinensis*    *Zalacca clemensiana*   |
-| PORTULACACEAE  |  *Anacampseros spp.*   |
-| PRIMULACEAE  |  *Cyclamen spp.*   |
-| SOLANACEAE  |  *Solanum sylvestre*   |
-| STERCULIACEAE  |  *Basiloxylon excelsum # 2*   |
-| VERBENACEAE  |  *Caryopteris mongolica*   |
-| ZYGOPHYLLACEAE  |  *Guaiacum sanctum # 2*   |
-
-### Bijlage  III  
-
-[Red: *(Deze Bijlage komt tot stand door mededelingen der Overeenkomstsluitende Partijen in overeenstemming met artikel XVI.)* ]   
+De tekst van de vertaling is niet beschikbaar.    
 
 ### Bijlage  IV  
 
-![10000052189](http://wetten.overheid.nl/Illustration/10000052189)
-![10000052189](http://wetten.overheid.nl/Illustration/10000052189)
+![]()
+![]()
 
