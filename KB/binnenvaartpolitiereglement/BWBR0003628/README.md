@@ -116,9 +116,9 @@ b. *lange stoot*: geluidssein durende ongeveer 4 seconden; de tijdruimte tussen 
 
 7°. *exploitant*: eigenaar, rompbevrachter of ieder ander die de zeggenschap heeft over het gebruik van een schip;  
 
-8°. *ADNR*: Reglement voor het vervoer van gevaarlijke stoffen over de Rijn;  
+8°. *ADN*: Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke goederen over de binnenwateren;  
 
-9°. *vaarbevoegdheidsbewijs*: vaarbewijs als bedoeld in de [artikelen 13](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), [14](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), [15](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) en [16 van het Binnenvaartbesluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md), bewijs van bekwaamheid voor de binnenvaart als bedoeld in [artikel 32, eerste en tweede lid, van de Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md), Rijnpatent als bedoeld in [artikel 6.02, eerste lid, van het Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) of bewijs van vaarbekwaamheid als bedoeld in artikel 6.02, derde lid, onder b, van het Reglement betreffende het scheepvaartpersoneel op de Rijn;  
+9°. *vaarbevoegdheidsbewijs*: vaarbewijs als bedoeld in de artikelen 13, 14, 15 en 16 van het Binnenvaartbesluit, bewijs van bekwaamheid voor de binnenvaart als bedoeld in artikel 32, eerste en tweede lid, van de Binnenvaartwet, Rijnpatent als bedoeld in artikel 6.02, eerste lid, van het Reglement betreffende het scheepvaartpersoneel op de Rijn of bewijs van vaarbekwaamheid als bedoeld in artikel 6.02, derde lid, onder b, van het Reglement betreffende het scheepvaartpersoneel op de Rijn;  
 
 10°. *richtlijn nr. 2002/59/EG*: richtlijn nr. 2002/59/EG van het Europees Parlement en de Raad van de Europese Unie van 27 juni 2002 betreffende de invoering van een communautair monitoring- en informatiesysteem voor de zeescheepvaart en tot intrekking van Richtlijn 93/75/EEG van de Raad (PbEG L 208);  
 
@@ -222,11 +222,11 @@ c. een minimum leeftijd van 12 jaar voor het sturen van een klein open motorschi
 
 a. de meetbrief van het schip;  
 
-b. de bescheiden vereist door het ADNR, nrs. 8.1.2.1, 8.1.2.2 en 8.1.2.3;  
+b. de bescheiden vereist door het ADN, nrs. 8.1.2.1, 8.1.2.2 en 8.1.2.3;  
 
 c. het vaarbevoegdheidsbewijs;  
 
-d. het radarpatent dan wel een ander diploma dat overeenkomstig het [Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) is toegelaten; deze documenten behoeven niet aan boord te zijn, indien het Rijnpatent of een ander overeenkomstig het Reglement betreffende het scheepvaartpersoneel op de Rijn toegelaten diploma van de schipper de vermelding «Radar» bevat;  
+d. het radarpatent dan wel een ander diploma dat overeenkomstig het Reglement betreffende het scheepvaartpersoneel op de Rijn is toegelaten; deze documenten behoeven niet aan boord te zijn, indien het Rijnpatent of een ander overeenkomstig het Reglement betreffende het scheepvaartpersoneel op de Rijn toegelaten diploma van de schipper de vermelding «Radar» bevat;  
 
 e. het Handboek voor de marifonie in de binnenvaart, algemeen en regionaal deel;  
 
@@ -234,7 +234,7 @@ f. het registratiebewijs gebruik frequentieruimte (maritiem mobiel);
 
 g. het marifoon bedieningscertificaat;  
 
-h. het certificaat van onderzoek, overeenkomstig [artikel 7, tweede lid, van de Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md), met inbegrip van het stuwplan of de ladinglijst voor de actuele beladingstoestand en de stabiliteitsberekening, met inbegrip van de daarbij gebruikte berekeningsmethode en het resultaat daarvan, voor de actuele, of een vergelijkbare vorige, dan wel een standaard beladingstoestand;  
+h. het certificaat van onderzoek, overeenkomstig artikel 7, tweede lid, van de Binnenvaartwet, met inbegrip van het stuwplan of de ladinglijst voor de actuele beladingstoestand en de stabiliteitsberekening, met inbegrip van de daarbij gebruikte berekeningsmethode en het resultaat daarvan, voor de actuele, of een vergelijkbare vorige, dan wel een standaard beladingstoestand;  
 
 i. het certificaat voor de navigatielantaarns;  
 
@@ -652,17 +652,17 @@ b. hetzij:
 
 ####Bijkomende tekens van varende schepen die bepaalde gevaarlijke stoffen vervoeren
 
-1.  Een schip dat bepaalde brandbare stoffen vervoert, bedoeld in het ADNR, nr. 7.1.5.0 en nr. 7.2.5.0, moet, teneinde dit kenbaar te maken, als bijkomend teken voeren: 
+1.  Een schip dat bepaalde brandbare stoffen vervoert, bedoeld in het ADN, nr. 7.1.5.0.1 of nr. 7.2.5.0.2, moet, teneinde dit kenbaar te maken, als bijkomend teken voeren: 
 
 a. ’s nachts: een blauw licht;  
 
 b. overdag: een blauwe kegel met de punt naar beneden.   Dit teken moet op een geschikte plaats en op een zodanige hoogte worden gevoerd, dat het van alle zijden zichtbaar is. In plaats van het dagteken kan ook telkens één blauwe kegel op het voor- en één op het achterschip op een hoogte van ten minste 3 m worden gevoerd.   
-2.  Een schip dat bepaalde voor de gezondheid schadelijke stoffen vervoert, bedoeld in het ADNR, nr. 7.1.5.0 en nr. 7.2.5.0, moet, teneinde dit kenbaar te maken, als bijkomende tekens voeren: 
+2.  Een schip dat bepaalde voor de gezondheid schadelijke stoffen vervoert, bedoeld in het ADN, nr. 7.1.5.0.1 of nr. 7.2.5.0.2, moet, teneinde dit kenbaar te maken, als bijkomende tekens voeren: 
 
 a. ’s nachts: twee blauwe lichten;  
 
 b. overdag: twee blauwe kegels met de punt naar beneden.   Deze tekens moeten in een verticale lijn met een onderlinge afstand van ongeveer 1 m, op een geschikte plaats en op een zodanige hoogte worden gevoerd, dat zij van alle zijden zichtbaar zijn. In plaats van twee blauwe kegels kunnen ook telkens twee blauwe kegels op het voor- en op het achterschip worden gevoerd, waarvan de onderste op een hoogte van tenminste 3 m.   
-3.  Een schip dat bepaalde ontplofbare stoffen vervoert, bedoeld in het ADNR, nr. 7.1.5.0, moet, teneinde dit kenbaar te maken, als bijkomende tekens voeren: 
+3.  Een schip dat bepaalde ontplofbare stoffen vervoert, bedoeld in het ADN, nr. 7.1.5.0.1, moet, teneinde dit kenbaar te maken, als bijkomende tekens voeren: 
 
 a. ’s nachts: drie blauwe lichten;  
 
@@ -670,7 +670,7 @@ b. overdag: drie blauwe kegels met de punt naar beneden.   Deze tekens moeten in
 4.  Indien een duwstel of een gekoppeld samenstel één of meer schepen bevat, bedoeld in één der voorgaande leden, moet, in plaats van dit schip of van deze schepen, de duwboot of het schip dat dient voor het voortbewegen van het gekoppeld samenstel het teken of de tekens, vermeld in dat lid, voeren.   
 5.  Een duwstel, dat door twee duwboten naast elkaar wordt voortbewogen, moet de tekens bedoeld in het vierde lid op de duwboot aan stuurboord voeren.   
 6.  Een schip, een duwstel of een gekoppeld samenstel dat verschillende gevaarlijke stoffen vervoert, bedoeld in het eerste, tweede of derde lid, moet uitsluitend de tekens voeren voor de gevaarlijke stof die volgens de voorgaande leden het grootste aantal blauwe lichten of kegels vereist.   
-7.  Een schip, dat in het bezit is van een certificaat van goedkeuring, als bedoeld in het ADNR, nr. 8.1.8, en dat voldoet aan de veiligheidsvoorschriften die gelden voor een schip als bedoeld in het eerste lid, mag, indien het gelijktijdig met een schip, dat de tekens bedoeld in het eerste lid moet voeren, wil worden geschut, bij het naderen van een sluis, de tekens bedoeld in het eerste lid voeren.   
+7.  Een schip, dat in het bezit is van een certificaat van goedkeuring, als bedoeld in het ADN, nr. 8.1.8.1, en dat voldoet aan de veiligheidsvoorschriften die gelden voor een schip als bedoeld in het eerste lid, mag, indien het gelijktijdig met een schip, dat de tekens bedoeld in het eerste lid moet voeren, wil worden geschut, bij het naderen van een sluis, de tekens bedoeld in het eerste lid voeren.   
 8.  De sterkte van de blauwe lichten voorgeschreven in één der voorgaande leden dient tenminste gelijk te zijn aan die van blauwe gewone lichten.   
 
 ### Artikel  3.15  
@@ -1058,7 +1058,7 @@ b. een groot schip, niet zijnde een motorschip, en een klein motorschip door mid
 
 a. het is uitgerust met een voor de behoeften van de binnenvaart geschikte radarinstallatie dan wel een Inland ECDIS installatie die kan functioneren in de navigatie modus en een bochtaanwijzer die goed functioneren en die van een type zijn dat voor de binnenvaart door de daartoe aangewezen instantie is goedgekeurd volgens de daaromtrent vastgestelde voorschriften; en  
 
-b. zich aan boord een persoon bevindt die houder is van een radarpatent als bedoeld in het [Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md). Bij goed zicht mag van radar worden gebruik gemaakt teneinde hiermede te oefenen, zonder dat zich een zodanig persoon aan boord bevindt.     
+b. zich aan boord een persoon bevindt die houder is van een radarpatent als bedoeld in het Reglement betreffende het scheepvaartpersoneel op de Rijn. Bij goed zicht mag van radar worden gebruik gemaakt teneinde hiermede te oefenen, zonder dat zich een zodanig persoon aan boord bevindt.     
 2.  Onverminderd het eerste lid moet een klein schip zijn uitgerust met een marifooninstallatie die geschikt is voor de daartoe aangewezen kanalen en die goed functioneert.   
 3.  Op de daartoe aangewezen vaarwegen mag een schip, in plaats van met een radarinstallatie als bedoeld in het eerste lid, onder a, zijn uitgerust met een voor het varen op deze vaarwegen geschikte radarinstallatie die goed functioneert en die van een type is dat voor het varen op die vaarwegen door de in het eerste lid, onder a, bedoelde instantie is goedgekeurd volgens de daaromtrent vastgestelde voorschriften.   
 4.  Een schip behorende tot een daartoe aangewezen categorie mag op de daartoe aangewezen vaarwegen in plaats van met een bochtaanwijzer als bedoeld in het eerste lid, onder a, zijn uitgerust met een ander daartoe bruikbaar middel. Een niet-vrijvarende veerpont behoeft daarmede niet te zijn uitgerust.   
@@ -1076,6 +1076,8 @@ Een binnenschip mag gebruik maken van een Inland AIS apparaat dat in overeenstem
 ### Hoofdstuk  4A  
 
 ####Marifoon en radar
+
+Vervallen per 01-12-2004   
 
 ### Hoofdstuk  5  
 
@@ -1631,7 +1633,7 @@ b. schepen waaraan de bevoegde autoriteit dit recht heeft verleend.
 
 ####Op radar varende schepen
 
-1.  Een schip mag slechts op radar varen, indien zowel een persoon die houder is van een radarpatent als bedoeld in het [Reglement betreffende het scheepvaartpersoneel op de Rijn](../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) en die tevens houder is van het vereiste vaarbevoegdheidsbewijs als een tweede persoon die met het varen op radar voldoende op de hoogte is zich voortdurend in de stuurhut bevindt. Voor een schip dat is uitgerust met een eenmansstuurstelling voor het varen op radar en dat voldoet aan de daaromtrent vastgestelde voorschriften behoeft de tweede persoon slechts aan boord beschikbaar te zijn. Voor een niet-vrijvarende veerpont kan de bevoegde autoriteit van de verplichting van dit lid ontheffing verlenen.   
+1.  Een schip mag slechts op radar varen, indien zowel een persoon die houder is van een radarpatent als bedoeld in het Reglement betreffende het scheepvaartpersoneel op de Rijn en die tevens houder is van het vereiste vaarbevoegdheidsbewijs als een tweede persoon die met het varen op radar voldoende op de hoogte is zich voortdurend in de stuurhut bevindt. Voor een schip dat is uitgerust met een eenmansstuurstelling voor het varen op radar en dat voldoet aan de daaromtrent vastgestelde voorschriften behoeft de tweede persoon slechts aan boord beschikbaar te zijn. Voor een niet-vrijvarende veerpont kan de bevoegde autoriteit van de verplichting van dit lid ontheffing verlenen.   
 2.  Voor een op radar varend schip blijft artikel 1.09, derde lid, omtrent het hebben naar alle zijden van een voldoende vrij direct of indirect uitzicht buiten toepassing.   
 3.  Een op radar varend schip moet, zodra het op het scherm een schip waarneemt waarvan de positie of het gedrag tot een gevaarlijke situatie zou kunnen leiden of wanneer het een vak van de vaarweg nadert waar zich schepen zouden kunnen bevinden die nog niet op het scherm te zien zijn, aan de andere schepen op het schip--schip kanaal dan wel op het andere aangewezen kanaal opgeven: zijn naam, zijn positie, zijn vaarrichting en of het een groot schip, een klein schip, een snel schip, of een bovenmaats schip is. Het moet vervolgens met die schepen het voorbijvaren afspreken. Een klein schip of een snel schip moet daarbij opgeven naar welke zijde het uitwijkt.   
 4.  Een op radar varend schip dat per marifoon wordt opgeroepen moet op het schip--schip kanaal dan wel op het andere aangewezen kanaal antwoorden en opgeven: zijn naam, zijn positie, zijn vaarrichting en of het een groot schip, een klein schip, een snel schip, of een bovenmaats schip is. Het moet vervolgens met de andere schepen het voorbijvaren afspreken. Een klein schip of een snel schip moet daarbij opgeven naar welke zijde het uitwijkt.   
@@ -1763,7 +1765,7 @@ c. binnen 100 m van een schip, een duwstel of een gekoppeld samenstel dat de tek
 
 a. voor een schip, een duwstel of een gekoppeld samenstel dat eveneens dit teken voert;  
 
-b. voor een schip, een duwstel of een gekoppeld samenstel dat dit teken niet voert, maar dat voorzien is van een certificaat van goedkeuring bedoeld in het ADNR, nr. 8.1.8, en dat voldoet aan de veiligheidsvoorschriften die gelden voor een schip als bedoeld in artikel 3.14, eerste lid.     
+b. voor een schip, een duwstel of een gekoppeld samenstel dat dit teken niet voert, maar dat voorzien is van een certificaat van goedkeuring bedoeld in het ADN, nr. 8.1.8.1, en dat voldoet aan de veiligheidsvoorschriften die gelden voor een schip als bedoeld in artikel 3.14, eerste lid.     
 3.  De bevoegde autoriteit kan voor het ligplaats nemen in bijzondere gevallen kleinere afstanden toestaan dan die welke in het eerste lid zijn vermeld.   
 4.  Dit artikel is van overeenkomstige toepassing voor de afstanden binnen welke een schip, een duwstel of een gekoppeld samenstel, dat verplicht is de tekens bedoeld in artikel 3.14 te voeren, geen ligplaats mag nemen van een ander schip.   
 
@@ -1771,7 +1773,7 @@ b. voor een schip, een duwstel of een gekoppeld samenstel dat dit teken niet voe
 
 ####Bewaking en toezicht
 
-1.  Een stilliggend schip dat is geladen met de stoffen, bedoeld in het ADNR, nr. 7.1.5.0 en nr. 7.2.5.0, of dat na het vervoer van dergelijke stoffen nog niet is ontdaan van gassen die gevaar op kunnen leveren moet zijn gesteld onder een zich voortdurend aan boord bevindende terzake kundige wachtsman. Deze verplichting geldt niet voor een in een haven stilliggend schip waaraan de bevoegde autoriteit daarvan vrijstelling of ontheffing heeft verleend.   
+1.  Een stilliggend schip dat is geladen met de stoffen, bedoeld in het ADN, nr. 7.1.5.0.1 of nr. 7.2.5.0.2, of dat na het vervoer van dergelijke stoffen nog niet is ontdaan van gassen die gevaar op kunnen leveren moet zijn gesteld onder een zich voortdurend aan boord bevindende terzake kundige wachtsman. Deze verplichting geldt niet voor een in een haven stilliggend schip waaraan de bevoegde autoriteit daarvan vrijstelling of ontheffing heeft verleend.   
 2.  Een ander stilliggend schip moet, voor zover het geen schipper heeft, zijn gesteld onder toezicht van een persoon die zo nodig snel kan ingrijpen, tenzij de bevoegde autoriteit aan een schip van deze verplichting vrijstelling heeft verleend, dan wel hij gedoogt dat dit zonder toezicht stilligt. Deze bepaling is eveneens van toepassing op een drijvend voorwerp en een drijvende inrichting wanneer zij stilliggen.   
 
 ### Artikel  7.09  
@@ -1898,7 +1900,7 @@ g. in de door de bevoegde autoriteit aangewezen gebieden.
 
 ####Toepassingsgebied
 
-Dit hoofdstuk is van toepassing op de in [artikel 2, eerste en derde lid, van het Vaststellingsbesluit Binnenvaartpolitiereglement](../../../AMvB/vaststellingsbesluit/binnenvaartpolitiereglement/BWBR0003627/README.md) bedoelde vaarwegen, voorzover deze in beheer zijn bij het Rijk en op de in bijlage 10 vermelde vaarwegen.  
+Dit hoofdstuk is van toepassing op de in artikel 2, eerste en derde lid, van het Vaststellingsbesluit Binnenvaartpolitiereglement bedoelde vaarwegen, voorzover deze in beheer zijn bij het Rijk en op de in bijlage 10 vermelde vaarwegen.  
 
 ### Artikel  9.02  
 
@@ -1960,7 +1962,7 @@ c. aan de kop van het samenstel een vanuit de stuurhut van de duwboot of van het
 
 d. de waterstand aan de peilschaal te Lobith tussen 8,50 m en 13,50 m is gelegen;  
 
-e. het geen gevaarlijke stoffen vervoert voor het vervoer waarvan een certificaat van goedkeuring als bedoeld in het ADNR vereist wordt.     
+e. het geen gevaarlijke stoffen vervoert voor het vervoer waarvan een certificaat van goedkeuring als bedoeld in het ADN vereist wordt.     
 2.  Onverminderd het eerste lid geldt voor duwstellen met een duwboot met een lengte van niet meer dan 40 m: 
 
 a. het maximale vermogen van de aandrijving van de duwboot mag niet groter zijn dan 4500 kW;  
@@ -1974,7 +1976,7 @@ b. de gemiddelde diepgang groter is dan 2,00 m of de diepgang over tenminste 50%
 
 c. het duwstel wordt geassisteerd.     
 4.  Op de in bijlage 17, onder c, vermelde vaarwegen mogen een alleenvarend motorschip en een duwstel en een gekoppeld samenstel waarvan de lengte meer bedraagt dan 90 m varen, indien zij zijn voorzien van een kopbesturing van voldoende effectief vermogen die vanuit de stuurhut kan worden bediend.   
-5.  Op de in bijlage 17, onder d, vermelde vaarwegen mag een duwstel dat is voorzien van een certificaat van onderzoek als bedoeld in [artikel 7, tweede lid, van de Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md) of van een document als bedoeld in [artikel 7, onderdelen a en c, van het Binnenvaartbesluit](../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) en waarvan de lengte meer bedraagt dan 137 m doch niet meer dan 193 m varen, indien het is voorzien van een kopbesturing van voldoende effectief vermogen die vanuit de stuurhut kan worden bediend.   
+5.  Op de in bijlage 17, onder d, vermelde vaarwegen mag een duwstel dat is voorzien van een certificaat van onderzoek als bedoeld in artikel 7, tweede lid, van de Binnenvaartwet of van een document als bedoeld in artikel 7, onderdelen a en c, van het Binnenvaartbesluit en waarvan de lengte meer bedraagt dan 137 m doch niet meer dan 193 m varen, indien het is voorzien van een kopbesturing van voldoende effectief vermogen die vanuit de stuurhut kan worden bediend.   
 6.  Als kopbesturing van een duwstel wordt tevens beschouwd de boegschroef van de duwboot, indien deze zich op ten hoogste 45% van de lengte van het duwstel gerekend vanaf de kop daarvan bevindt.   
 7.  De in dit artikel bedoelde duwstellen en gekoppelde samenstellen mogen buiten de daarvoor aangewezen ligplaatsen slechts met toestemming van de bevoegde autoriteit worden samengesteld of ontkoppeld.   
 8.  De bevoegde autoriteit kan duwstellen en gekoppelde samenstellen met grotere afmetingen dan die welke volgens dit artikel zijn toegelaten, met andere wijzen van aandrijving en vermogen en bij andere waterstanden voor het te bevaren vaarweggedeelte toelaten.   
@@ -1987,7 +1989,7 @@ c. het duwstel wordt geassisteerd.
 2.  Een in het eerste lid bedoeld groot schip, luistert op de in bijlage 9 en bijlage 10 genoemde vaarwegen uit en neemt zonodig deel aan de ter plaatse gevoerde communicatie op het door de bevoegde autoriteit aangewezen marifoonkanaal, overeenkomstig de daartoe gestelde regels.   
 3.  De in het eerste lid bedoelde meldingsplicht is tevens van toepassing op een klein schip, waarmee wordt vervoerd een gevaarlijke stof als bedoeld in artikel 3, onderdeel g, of een schadelijke stof als bedoeld in artikel 3, onderdeel h, van richtlijn nr. 2002/59/EG.   
 4.  De in het tweede lid bedoelde uitluister- en communicatieplicht is tevens van toepassing op een klein schip, wanneer het de in het derde lid bedoelde stoffen vervoert, of wanneer het een klein schip betreft dat is uitgerust met een marifooninstallatie.   
-5.  De in het eerste en derde lid bedoelde meldingsplicht is niet van toepassing op een schip dat zich reeds op grond van [artikel 2 van het Besluit meldingsformaliteiten en gegevensverwerkingen scheepvaart](../../../AMvB/besluit/meldingsformaliteiten/en/gegevensverwerkingen/scheepvaart/BWBR0031560/README.md) en de daarop berustende bepalingen voor vertrek moet melden.   
+5.  De in het eerste en derde lid bedoelde meldingsplicht is niet van toepassing op een schip dat zich reeds op grond van artikel 2 van het Besluit meldingsformaliteiten en gegevensverwerkingen scheepvaart en de daarop berustende bepalingen voor vertrek moet melden.   
 6.  De in het eerste en tweede lid bedoelde regels kunnen betrekking hebben op het gebruik van bepaalde communicatiemiddelen aan boord van het schip, het melden van aankomst, vertrek of positie van het schip, alsmede op gegevens met betrekking tot het schip, de daarmee vervoerde lading of de uit te voeren reis.   
 
 ### Artikel  9.08  
@@ -2188,7 +2190,7 @@ Behoudens toestemming van de bevoegde autoriteit is het verboden met andere sche
 ####Letter of lettercombinatie ter onderscheiding van het land waar de thuishaven of de plaats van teboekstelling van een schip is gelegen
 
 | A  | :  | Oostenrijk  |
-|:---|:---|:---|
+|---|---|---|
 | B  | :  | België  |
 | BG  | :  | Bulgarije  |
 | BY  | :  | Wit Rusland  |
@@ -2341,27 +2343,27 @@ Behoudens toestemming van de bevoegde autoriteit is het verboden met andere sche
 |---|---|---|
 | Lichten  | Schets  | Dagtekens  |
 | --- | 31b  | --- |
-| Artikel 3.14, lid 1: Bijkomende tekens van schepen die bepaalde brandbare stoffen vervoeren als bedoeld in het ADNR en die geen deel uitmaken van een duwstel of een gekoppeld samenstel.  |
+| Artikel 3.14, lid 1: Bijkomende tekens van schepen die bepaalde brandbare stoffen vervoeren als bedoeld in het ADN en die geen deel uitmaken van een duwstel of een gekoppeld samenstel.  |
 | --- | 32a  | --- |
 | --- |
 | --- | 32b  | --- |
-| Artikel 3.14, lid 2: Bijkomende tekens van schepen die bepaalde voor de gezondheid schadelijke stoffen vervoeren als bedoeld in het ADNR en die geen deel uitmaken van een duwstel of een gekoppeld samenstel.  |
+| Artikel 3.14, lid 2: Bijkomende tekens van schepen die bepaalde voor de gezondheid schadelijke stoffen vervoeren als bedoeld in het ADN en die geen deel uitmaken van een duwstel of een gekoppeld samenstel.  |
 
 | --- | --- | --- |
 |---|---|---|
 | Lichten  | Schets  | Dagtekens  |
 | --- | 33  | --- |
-| Artikel 3.14, lid 3: Bijkomende tekens van schepen die bepaalde ontplofbare stoffen vervoeren als bedoeld in het ADNR en die geen deel uitmaken van een duwstel of een gekoppeld samenstel.    |
+| Artikel 3.14, lid 3: Bijkomende tekens van schepen die bepaalde ontplofbare stoffen vervoeren als bedoeld in het ADN en die geen deel uitmaken van een duwstel of een gekoppeld samenstel.    |
 | --- | 34  | --- |
-| Artikel 3.14, lid 4: Bijkomende tekens van duwstellen die gevaarlijke stoffen vervoeren als bedoeld in het ADNR.  |
+| Artikel 3.14, lid 4: Bijkomende tekens van duwstellen die gevaarlijke stoffen vervoeren als bedoeld in het ADN.  |
 | --- | 35  | --- |
-| Artikel 3.14, lid 4: Bijkomende tekens van gekoppelde samenstellen die gevaarlijke stoffen vervoeren als bedoeld in het ADNR.  |
+| Artikel 3.14, lid 4: Bijkomende tekens van gekoppelde samenstellen die gevaarlijke stoffen vervoeren als bedoeld in het ADN.  |
 
 | --- | --- | --- |
 |---|---|---|
 | Lichten  | Schets  | Dagtekens  |
 | --- | 36  | --- |
-| Artikel 3.14, lid 5: Bijkomende tekens van een duwstel dat door twee duwboten naast elkaar wordt voortbewogen en dat gevaarlijke stoffen vervoert als bedoeld in het ADNR.  |
+| Artikel 3.14, lid 5: Bijkomende tekens van een duwstel dat door twee duwboten naast elkaar wordt voortbewogen en dat gevaarlijke stoffen vervoert als bedoeld in het ADN.  |
 | --- | 36a  | --- |
 | Artikel 3.15: Varend passagiersschip waarvan de maximale lengte van de romp minder is dan 20 m.  |
 | --- | 37  | --- |
@@ -2492,7 +2494,7 @@ Behoudens toestemming van de bevoegde autoriteit is het verboden met andere sche
 ####Geluidsseinen
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | A.  | Algemene seinen  |
 | B.  | Seinen bij naderen op tegengestelde koersen  |
 | C.  | Seinen bij voorbijlopen  |
@@ -2504,7 +2506,7 @@ Behoudens toestemming van de bevoegde autoriteit is het verboden met andere sche
 ###Toelichting.
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | Zeer korte stoot, tijdsduur ongeveer een kwart seconde  |
 | --- | Korte stoot, tijdsduur ongeveer 1 seconde  |
 | --- | Lange stoot, tijdsduur ongeveer 4 seconden  |
@@ -2513,7 +2515,7 @@ Behoudens toestemming van de bevoegde autoriteit is het verboden met andere sche
 De tijdruimte tussen twee opéénvolgende stoten bedraagt ongeveer 1 seconde. Een reeks zeer korte stoten wordt gevormd door tenminste 6 stoten, elke durende ongeveer een kwart seconde, waarbij de tijdruimte tussen de opéénvolgende stoten ongeveer een kwart seconde bedraagt. (art. 1.01, onder C, 8°). Een reeks klokslagen moet ongeveer 4 seconden duren. In plaats daarvan mogen ook reeksen slagen van metaal op metaal worden gegeven. Een groot motorschip moet gelijktijdig met een geluidssein een geel helder rondom schijnend lichtsein tonen. (art. 4.01, lid 2). Een klein schip moet ter voorkoming van aanvaring zonodig het attentiesein, het sein «Ik kan niet manoeuvreren» en het noodsein, vermeld in afdeling A van bijlage 6, geven en het mag zonodig een der overige algemene geluidsseinen, vermeld in afdeling A, en het mistsein, vermeld in afdeling G van bijlage 6, geven, maar mag niet de manoeuvreerseinen, vermeld in afdeling B, C, D en E van bijlage 6, geven (art. 4.02, lid 2 en lid 3).   
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | A.  | ALGEMENE SEINEN  | Artikel  |
 | --- | --- | Attentie  | --- |
 | --- | --- | Ik ga stuurboord uit  | --- |
@@ -2527,7 +2529,7 @@ De tijdruimte tussen twee opéénvolgende stoten bedraagt ongeveer 1 seconde. Ee
 | --- | --- | Verzoek tot het bedienen van een beweegbare brug of van een sluis  |  6.26, lid 7     6.28, lid 4    |
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | B.  | SEINEN BIJ NADEREN OP TEGENGESTELDE KOERSEN  | Artikel  |
 |  *1.*   |  *Op alle vaarwegen met uitzondering van de Geldersche IJssel en de Maas*   | --- |
 | --- |  *Voornemen tot ontmoeten stuurboord op stuurboord; afwijking van de hoofdregel; (tevens tonen lichtblauw bord)*   | --- |
@@ -2543,7 +2545,7 @@ De tijdruimte tussen twee opéénvolgende stoten bedraagt ongeveer 1 seconde. Ee
 | --- | --- | Afvarend schip: «Akkoord, u kunt stuurboord op stuurboord voorbijvaren»  | --- |
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | C.  | SEINEN BIJ HET VOORBIJLOPEN  | Artikel  |
 | --- |  *Voornemen tot voorbijlopen aan bakboord van de opgelopene*     | --- |
 | --- | --- | Oploper: «Ik wil u aan bakboord voorbijlopen»  | --- |
@@ -2561,24 +2563,24 @@ De tijdruimte tussen twee opéénvolgende stoten bedraagt ongeveer 1 seconde. Ee
 | --- | --- | Opgelopene: «U kunt mij niet voorbijlopen»  | --- |
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | D.  | SEINEN BIJ HET KEREN  | Artikel  |
 | --- | --- | Ik ga over stuurboord keren  | --- |
 | --- | --- | Ik ga over bakboord keren  | --- |
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | E.  | ﻿SEINEN BIJ HET UIT- EN INVAREN VAN HAVENS EN NEVENVAARWATEREN EN HET DAARBIJ INVAREN OF OVERSTEKEN VAN EEN HOOFDVAARWATER  | Artikel  |
 | --- | --- | Ik ga stuurboord uit  | --- |
 | --- | --- | Ik ga bakboord uit  | --- |
 | --- | --- | Ik ga oversteken  | --- |
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | F.  | NIET OVERGENOMEN  |
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | G.  | SEINEN BIJ SLECHT ZICHT  | Artikel  |
 |  *1.*   |  *Op radar varende schepen (zo dikwijls als nodig is te geven)*   | --- |
 | --- | --- | Varend groot schip of samenstel , dat met de andere schepen geen marifooncontact tot stand kan brengen  <sup> 2   Bij een samenstel moet het geluidssein slechts worden gegeven door het schip aan boord waarvan zich de schipper van het samenstel bevindt. (art. 6.32, lid 6 en art. 6.33, lid 1)    </sup> |  6.32, lid 5    |
@@ -2595,7 +2597,7 @@ De tijdruimte tussen twee opéénvolgende stoten bedraagt ongeveer 1 seconde. Ee
 *Markering van het vaarwater*   
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 1.  | Algemeen  |
 | 1.1  |  *Principes van het systeem*   |
 | 1.2  |  *De begrippen rechts en links*   |
@@ -2656,7 +2658,7 @@ De betekenis der lichten blijkt uit de kleur en het karakter. Bij de laterale en
 Lichten worden in grote lijnen onderscheiden in vaste lichten en periodelichten. Een vast licht toont een ononderbroken schijnsel van gelijkmatige sterkte. Vaste lichten worden, behalve als navigatieverlichting, in beginsel gebruikt als verkeerstekens (zie bijlage 7). Bij een periodelicht wordt het schijnsel regelmatig afgewisseld met één of meer verduisteringen. Periodelichten dienen in principe voor de markering van het vaarwater. Onder de periode van een licht wordt verstaan de tijdsduur waarin éénmaal alle fasen van het licht worden doorlopen, derhalve de totale duur van schijnsel(s) en verduistering(en). De periode wordt aangegeven in seconden en afgekort als s. Het karakter geeft een nadere specificatie van een licht; het wordt volgens internationale afspraken aangeduid met de Engelse afkorting.  De karakters zijn gebaseerd op de volgende hoofdindeling;  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | karakter/omschrijving  | int. benaming  | int. afk.  |
 | *snelflikkerlicht:* ononderbroken flikkeringen, 100 á 120 per minuut  | very quick flash  | VQ  |
 | *flikkerlicht:* als boven, 50 á 60 per minuut  | quick flash  | Q  |
@@ -2668,7 +2670,7 @@ Lichten worden in grote lijnen onderscheiden in vaste lichten en periodelichten.
 | *onderbroken licht:* schijnsel is langer dan verduistering  | occulting  | Oc  |
 | *vast licht:* ononderbroken schijnsel  | fixed  | F  |
 
-In Nederland worden voornamelijk de volgende karakters toegepast, waarbij in het algemeen geldt: hoe sneller het karakter, hoe gevaarlijker het te markeren punt.   ![68739](http://wetten.overheid.nl/Illustration/68739)
+In Nederland worden voornamelijk de volgende karakters toegepast, waarbij in het algemeen geldt: hoe sneller het karakter, hoe gevaarlijker het te markeren punt.   ![]()
 
 ### *1.3.4. Kentekens* 
 
@@ -2690,7 +2692,7 @@ Deze markering geeft de zijdelingse begrenzing van het vaarwater aan, dan wel de
 2.1.1 Rechterzijde  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | vorm:  | stompe boei of ton, sparboei, drijfbaken, kopbaken, walbaken (driehoekig teken met de punt naar beneden gericht) of los steekbaken  | --- |
 | kleur:  | rood  |
 | topteken:  <sup> 1   indien aanwezig    </sup> | rode cilinder  |
@@ -2700,7 +2702,7 @@ Deze markering geeft de zijdelingse begrenzing van het vaarwater aan, dan wel de
 2.1.2 Linkerzijde  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | vorm:  | spitse boei of ton, sparboei, drijfbaken, kopbaken, walbaken (driehoekig teken met de punt naar boven gericht) of bijeengebonden steekbaken  | --- |
 | kleur:  | groen  |
 | topteken:  <sup> 1   indien aanwezig    </sup> | groene kegel met de top naar boven gericht  |
@@ -2711,7 +2713,7 @@ Deze markering geeft de zijdelingse begrenzing van het vaarwater aan, dan wel de
 ###a. Vaarwaters van gelijk belang
 
 | vorm:  | bolvormige boei of ton, sparboei, drijfbaken, of kopbaken  |--- |
-|:---|:---|:---|
+|---|---|---|
 | --- | --- | --- |
 | kleur:  | rood-groen horizontaal gestreept  | --- |
 | topteken:  | rood-groene bol  | --- |
@@ -2723,7 +2725,7 @@ Deze markering geeft de zijdelingse begrenzing van het vaarwater aan, dan wel de
 <sup> 3  <<van boven naar beneden>> gerekend.  </sup>  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | vorm:  | bolvormige boei of ton, sparboei, drijfbaken, kopbaken of walbaken  | --- |
 | kleur:  | rood boven en groen onder  |
 | topteken:  | rode cilinder, op sparboei, drijf- en kopbaken tevens rode bol  |
@@ -2735,7 +2737,7 @@ Deze markering geeft de zijdelingse begrenzing van het vaarwater aan, dan wel de
 <sup> 3  <<van boven naar beneden>> gerekend.  </sup>  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | vorm:  | bolvormige boei of ton, sparboei, drijfbaken, kopbaken of walbaken  | --- |
 | kleur:  | groen boven en rood onder  |
 | topteken:  | groene kegel met de top naar boven gericht, op sparboei, drijf- en kopbaken tevens groene bol  |
@@ -2745,7 +2747,7 @@ Deze markering geeft de zijdelingse begrenzing van het vaarwater aan, dan wel de
 ###d. Splitsingspunt
 
 | vorm:  | walbaken (driehoekig rood teken met de punt naar beneden gericht boven een driehoekig groen teken met de punt naar boven gericht)  |--- |
-|:---|:---|:---|
+|---|---|---|
 | --- | --- | --- |
 | licht :  <sup> 1   indien aanwezig    </sup> | wit snel isofaselicht (2s)  | --- |
 | kenteken <sup>1</sup>:  | nummering aansluitend aan laterale walbakens; voor oevermarkering een nummering aansluitend aan die van de rechter- of de linkerzijde.  | --- |
@@ -2757,7 +2759,7 @@ Deze markering geeft de zijdelingse begrenzing van het vaarwater aan, dan wel de
 Op brede vaarwaters kan naast de hoofdbetonning gebruik worden gemaakt van de hierna genoemde aanvullende markering. Deze geeft dan de begrenzing aan van eveneens bruikbaar vaarwater buiten de hoofdbetonning. 2.2.1 Rechterzijde  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | vorm:  | stomp, in principe een ander betonningsvoorwerp dan gebruikt voor de hoofdbetonning  | --- |
 | kleur:  | rood-wit horizontaal gestreept  |
 | topteken:  <sup> 1   indien aanwezig    </sup> | rode cilinder.  |
@@ -2765,7 +2767,7 @@ Op brede vaarwaters kan naast de hoofdbetonning gebruik worden gemaakt van de hi
 2.2.2 Linkerzijde  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | vorm:  | vorm: spits, in principe een ander betonningsvoorwerp dan gebruikt voor de hoofdbetonning  | --- |
 | kleur:  | groen-wit horizontaal gestreept  |
 | topteken:  <sup> 1   indien aanwezig    </sup> | groene kegel met de top naar boven gericht.  |
@@ -2785,12 +2787,12 @@ In of nabij het vaarwater kan ter markering van gevaarlijke punten en obstakels 
 Deze markering is niet in de eerste plaats bestemd voor de navigatie, maar duidt een bepaald gebied of voorwerp aan, dat doorgaans is omschreven in nautische of andere daarvoor bestemde publicaties. Deze betonning wordt bijvoorbeeld toegepast ter markering van verboden gebieden, bagger-, stort- en ankerplaatsen, oefen- en visserijgebieden, voor het afbakenen van speciale gebieden zoals voor snelle motorboten, waterskiërs, zeilplanken, wedstrijden, e.d. en voor het aangeven van posities met een speciaal doel zoals kabels, instrumenten, etc.  *Opmerking*  De bijzondere betonning moet door de *doorgaande* scheepvaart, d.w.z. schepen die niet een aldus gemarkeerd gebied als bestemming hebben, aan dezelfde zijde worden gehouden als de "gewone" betonning.  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | vorm:  | stompe, spitse of bolvormige boei, ton, sparboei, drijf- of kopbaken.  | --- |
 | kleur:  | geel  |
 | topteken:  <sup> *   indien aanwezig    </sup> | geel liggend kruis of, alleen in geval van een verboden gebied het verbodsteken A.1 (bijlage 5) in de vorm van een cilinder  | --- |
 | licht:  <sup> *   indien aanwezig    </sup> | geel schitterlicht of groepschitterlicht, uitgezonderd het groepschitterlicht bestaande uit 2 schitteringen  | --- |
-| kenteken:  <sup> *   indien aanwezig    </sup> | de aanduiding - of een afkorting daarvan - van het doel waarvoor de markering is gelegd, of een pictogram (teken van bijlage 5 onder A en E) dat de betekenis van het gebied aangeeft.  | b.v. Gas  b.v.    ![65676](http://wetten.overheid.nl/Illustration/65676)
+| kenteken:  <sup> *   indien aanwezig    </sup> | de aanduiding - of een afkorting daarvan - van het doel waarvoor de markering is gelegd, of een pictogram (teken van bijlage 5 onder A en E) dat de betekenis van het gebied aangeeft.  | b.v. Gas  b.v.    ![]()
 |
 
 ### 5  
@@ -2800,7 +2802,7 @@ Deze markering is niet in de eerste plaats bestemd voor de navigatie, maar duidt
 *5.1 Ligging van de vaargeul*  Deze tekens zijn geplaatst op die oever van een rivier, waarlangs (het diepste gedeelte van) de vaargeul loopt. 5.1.1. Rechter oever  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | dagmerk:  | vierkant rood teken met horizontale witte band aan boven- en onderzijde, geplaatst op de vlakke zijde  | --- |
 | licht:  <sup> (*)   indien aanwezig    </sup> | rood onderbroken licht, met verschillende perioden van de even en de oneven genummerde lichten  | --- |
 | kenteken:  <sup> (*)   indien aanwezig    </sup> | opeenvolgende nummering, onafhankelijk van de kleur.  | b.v. 1, 2, 4, etc.  |
@@ -2808,7 +2810,7 @@ Deze markering is niet in de eerste plaats bestemd voor de navigatie, maar duidt
 5.1.2. Linker oever  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | dagmerk:  | vierkant teken, groen boven en wit onder, geplaatst op de punt  | --- |
 | licht:  <sup> (*)   indien aanwezig    </sup> | groen onderbroken licht, met verschillende perioden van de even en de oneven genummerde lichten  | --- |
 | kenteken:  <sup> (*)   indien aanwezig    </sup> | opeenvolgende nummering, onafhankelijk van de kleur.  | b.v. 3, 5, 6, etc.  |
@@ -2816,7 +2818,7 @@ Deze markering is niet in de eerste plaats bestemd voor de navigatie, maar duidt
 *5.2. Overgangen*  De punten waar de vaargeul van de ene oever naar de andere overgaat kunnen aanvullend als volgt zijn gemarkeerd: 5.2.1. Rechter oever  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | dagmerk:  | vierkant geel teken met verticale zwarte balk in het midden, geplaatst op de vlakke zijde  | --- |
 | licht:  <sup> (*)   indien aanwezig    </sup> | geel onderbroken licht  | --- |
 | kenteken:  <sup> (*)   indien aanwezig    </sup> | nummering aansluitend aan die van 5.1.1 en 5.1.2  | b.v. 8  |
@@ -2824,7 +2826,7 @@ Deze markering is niet in de eerste plaats bestemd voor de navigatie, maar duidt
 5.2.2. Linker oever  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | dagmerk:  | vierkant geel teken met verticale diagonale zwarte balk, geplaatst op de punt  | --- |
 | licht:  <sup> (*)   indien aanwezig    </sup> | geel onderbroken licht  | --- |
 | kenteken:  <sup> (*)   indien aanwezig    </sup> | nummering aansluitend aan die van 5.1.1 en 5.1.2  | b.v. 7  |
@@ -2832,30 +2834,30 @@ Deze markering is niet in de eerste plaats bestemd voor de navigatie, maar duidt
 5.2.3 Geleidelijnen  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Ter markering van een overgang over langere afstand kan op dezelfde oever een stel van de onder 5.2.1 of 5.2.2 genoemde tekens zijn geplaatst, waarvan het achterste teken hoger is dan het voorste. Deze tekens inéén (verticaal boven elkaar) gezien geven de as van de overgang aan.  | --- |
 
 *Opmerking*  De hiervoor genoemde lichten kunnen in plaats van de dagmerken voorkomen.  *5.3 Lichtenlijnen (geleidelichten)*   
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Volgens hetzelfde principe als onder 5.2.3 genoemd geven geleidelichten, inéén gezien, de as van een aanlooproute vanuit zee of een meer, dan wel het diepste gedeelte van een vaargeul aan. Lichtenlijnen worden toegepast in gevallen waar andere vaarwatermarkering onvoldoende leiding geeft of ontbreekt. De lichten zijn doorgaans synchroon brandende periodelichten van dezelfde kleur; het hoge licht kan evenwel een vast licht zijn. De kleur is meestal wit; ter betere onderscheiding (achtergrondverlichting, meerdere lichtenlijnen naast elkaar) kunnen ook andere kleuren worden toegepast.  | --- |
 
 *5.4 Sectorlichten*   
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Deze dienen eveneens als geleidelichten. Bij een sectorlicht is de lichtbundel verdeeld in één of meer witte en rode en/of groene sectoren. In het algemeen geeft een witte sector de ligging van het vaarwater aan ten opzichte van ondiepten en/of oevers, die gedekt worden door de naastliggende groene of rode sectoren. Aangezien de aldus gemarkeerde gevaren meestal op verschillende afstanden van het licht zijn gelegen, is plaatselijke bekendheid of het raadplegen van een kaart onontbeerlijk voor de juiste interpretatie van dergelijke lichten.  | --- |
 
 ### 6  
 
 ####MARKERING OP BREDE VAARWATERS EN MEREN
 
-Op brede vaarwaters en meren kunnen ook de volgende markeringen worden toegepast.  *6.1. Cardinale markering*  Deze markering wordt gebruikt in samenhang met het kompas en geeft aan waar zich, ten opzichte van een gevaar, bevaarbaar water bevindt. De markeringen worden genoemd naar het kwadrant waarin ze liggen; deze benaming duidt tevens de zijde aan waarlangs de markering moet worden gepasseerd. De kwadranten liggen tussen de volgende peilingslijnen, gezien vanuit het te markeren punt: Noord kwadrant: tussen NW en NO, Oost kwadrant: tussen NO en ZO, Zuid kwadrant: tussen ZO en ZW, West kwadrant : tussen ZW en NW. De belangrijkste kenmerken van de cardinale markering zijn het topteken, altijd bestaande uit twee kegels, en het licht, bestaande uit een (groep-) flikkerlicht (Q) of snelflikkerlicht (VQ).   ![68758](http://wetten.overheid.nl/Illustration/68758)
+Op brede vaarwaters en meren kunnen ook de volgende markeringen worden toegepast.  *6.1. Cardinale markering*  Deze markering wordt gebruikt in samenhang met het kompas en geeft aan waar zich, ten opzichte van een gevaar, bevaarbaar water bevindt. De markeringen worden genoemd naar het kwadrant waarin ze liggen; deze benaming duidt tevens de zijde aan waarlangs de markering moet worden gepasseerd. De kwadranten liggen tussen de volgende peilingslijnen, gezien vanuit het te markeren punt: Noord kwadrant: tussen NW en NO, Oost kwadrant: tussen NO en ZO, Zuid kwadrant: tussen ZO en ZW, West kwadrant : tussen ZW en NW. De belangrijkste kenmerken van de cardinale markering zijn het topteken, altijd bestaande uit twee kegels, en het licht, bestaande uit een (groep-) flikkerlicht (Q) of snelflikkerlicht (VQ).   ![]()
 *6.1.1. Noord Cardinaal betonningsvoorwerp*   
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | vorm:  | pilaar, ton, sparboei, drijf- of kopbaken  |
 | kleur:  | zwart boven geel  |
 | topteken:  | 2 boven elkaar geplaatste zwarte kegels met de toppen naar boven gericht  |
@@ -2866,7 +2868,7 @@ Op brede vaarwaters en meren kunnen ook de volgende markeringen worden toegepast
 *6.1.2. Oost Cardinaal betonningsvoorwerp*   
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | vorm:  | pilaar, ton, sparboei, drijf- of kopbaken  |
 | kleur:  | zwart met één brede gele horizontale band  |
 | topteken:  | 2 boven elkaar geplaatste zwarte kegels met de basis naar elkaar toe gericht  |
@@ -2877,7 +2879,7 @@ Op brede vaarwaters en meren kunnen ook de volgende markeringen worden toegepast
 *6.1.3. Zuid Cardinaal betonningsvoorwerp*   
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | vorm:  | pilaar, ton, sparboei, drijf- of kopbaken  |
 | kleur:  | geel boven zwart  |
 | topteken:  | 2 boven elkaar geplaatste zwarte kegels met de toppen naar beneden gericht  |
@@ -2888,7 +2890,7 @@ Op brede vaarwaters en meren kunnen ook de volgende markeringen worden toegepast
 *6.1.4. West Cardinaal betonningsvoorwerp*   
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | vorm:  | pilaar, ton, sparboei, drijf- of kopbaken  |
 | kleur:  | geel met één brede zwarte horizontale ban  |
 | topteken:  | 2 boven elkaar geplaatste zwarte kegels met de toppen naar elkaar toe gericht  |
@@ -2899,7 +2901,7 @@ Op brede vaarwaters en meren kunnen ook de volgende markeringen worden toegepast
 *6.2. Markering van een afzonderlijk gevaar*  Deze markering geeft losliggende gevaren aan die beperkt van afmeting zijn en die - op voldoende afstand - rondom passeerbaar zijn. Evenals bij de cardinale markering zijn de belangrijkste kenmerken het topteken, altijd bestaande uit 2 bollen, en het licht, bestaande uit 2 schitteringen.  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | vorm:  | pilaar of sparboei, eventueel drijf- of kopbaken  | --- |
 | kleur:  | zwart met een brede rode horizontale band  |
 | topteken:  | 2 boven elkaar geplaatste zwarte bollen  |
@@ -2910,7 +2912,7 @@ Op brede vaarwaters en meren kunnen ook de volgende markeringen worden toegepast
 *6.3. Markering van veilig vaarwater*  Deze markering geeft een positie aan waar rondom veilig genavigeerd kan worden. Zij wordt gebruikt om het midden of het diepste gedeelte van een vaarwater, of een aanloop of verkenningspositie aan te geven. Deze betonning wordt in het BPR-gebied zonder topteken toegepast, ter onderscheiding van de scheidingsmarkering (2.1.3).  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | vorm:  | bolvormige boei of ton eventueel sparboei  | --- |
 | kleur:  | rood-wit verticaal gestreept  |
 | licht:  <sup> (*)   indien aanwezig    </sup> | - kleur: wit  | --- |
@@ -2930,14 +2932,14 @@ De ingangen van havens, zijvaarten, aftakkingen, e.d. kunnen als volgt zijn gema
 7.1.1 Bakboordszijde  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | dagmerk:  | rood-wit horizontaal gestreepte (cilindervormige) lichtopstand  | --- |
 | licht:  | rood vast licht of rood flikkerlicht  <sup> 1   In deze gevallen wordt ter betere ondersdcheiding van andere vaarwegmarkeringen afgeweken van het onder 1.3.3 beschreven beginsel    </sup> | --- |
 
 7.1.2 Stuurboordszijde  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | dagmerk:  | groen-wit horizontaal gestreepte (kegelvormige) lichtopstand  | --- |
 | licht:  | groen vast licht of groen flikkerlicht  <sup> 1   In deze gevallen wordt ter betere ondersdcheiding van andere vaarwegmarkeringen afgeweken van het onder 1.3.3 beschreven beginsel    </sup> | --- |
 
@@ -2948,13 +2950,13 @@ De ingangen van havens, zijvaarten, aftakkingen, e.d. kunnen als volgt zijn gema
 7.2.1 Bakboordszijde  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | dagmerk  | rood-wit horizontaal gestreepte paal met rood cilindervormig topteken  | --- |
 
 7.2.2 Stuurboordszijde  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | dagmerk  | rood-wit horizontaal gestreepte paal met rood cilindervormig topteken  | --- |
 
 ### Bijlage  9  
@@ -3098,7 +3100,7 @@ c. stoffen van de klasse 2, die overeenkomstig de IMDG-code moeten worden voorzi
 ####Toegestane afmetingen van een schip of een samenstel op de vaarwegen, bedoeld in artikel 9.02, eerste lid 
 
 | Vaarweg  | Lengte in m  | Breedte in m  | Diepgang in m  |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *Fryslân*   | --- | --- | --- |
 | Haven Terschelling  | 85  | 12,00  | 3,40  |
 | Haven Vlieland  | 60  | 10,00  | 3,40  |
@@ -3106,28 +3108,29 @@ c. stoffen van de klasse 2, die overeenkomstig de IMDG-code moeten worden voorzi
 | --- | --- | --- | --- |
 |  *Overijssel*   | --- | --- | --- |
 | Kanaal Zutphen-Enschede van de Twenthekanalen  | --- | --- | --- |
-| – Geldersche IJssel–Delden (beneden de sluis)  – Delden–Enschede  | 110  110  110  110  | 11,50  11,50  9,75  | 2,80 <sup>1</sup> of  2,20  2,20 of  2,60 <sup>1</sup>  |
+| – Geldersche IJssel – Delden (beneden de sluis)  | 110  110  | 11,50  11,50  | 2,80 <sup>1</sup> of  2,20  |
+| – Delden – Enschede  | 110  110  | 9,75  | 2,60 of  2,20  |
 | Zijkanaal naar Almelo van de Twenthekanalen  | 110  | 9,75  | 2,50  |
 | --- | --- | --- | --- |
 |  *Overijssel/Gelderland*   | --- | --- | --- |
-| Geldersche IJssel <sup>15</sup> en Keteldiep  | 110  | 12,00  | --- |
-| Zwolle-IJsselkanaal  | 110  | 12,00  | 3,25 <sup>2</sup>  |
-| Overijsselsche Vecht  | --- | --- | --- |
-| - gedeelte rijksweg 28 - stuw Junne  | 35  | 5,00  | 1,00  |
+|  *Geldersche IJssel*   | --- | --- | --- |
+| – IJsselkop <sup>2</sup> – Stadsbrug Kampen  | 110  | 12,00  | --- |
+| – Stadsbrug Kampen – Ketelmeer  | 200  | 17,50  | --- |
+| Zwolle-IJsselkanaal  | 110  | 12,00  | 3,25 <sup>3</sup>  |
 | Meppelerdiep  | --- | --- | --- |
-| - van Zwarte Water via Meppelerdiep-sluis - Kaapbrug  | 110  | 12,00  | 3,25 <sup>2</sup>  |
-| - via Grote Kolksluis  | 67  | 8,20  | 2,80 <sup>2</sup>  |
-| Zwarte Water  | 110  | 12,00  | 3,25 <sup>2</sup>  |
-| Zwolsche Diep  | 110  | 12,00  | 3,00 <sup>2</sup>  |
-| Zwanendiep  | 110  | 12.00  | 2,70 <sup>2</sup>  |
-| Ramsdiep  | 110  | 11,50  | 3,00 <sup>2</sup>  |
+| – van Zwarte Water via Meppelerdiepkeersluis – Kaapbrug  | 110  | 12,00  | 3,25 <sup>4</sup>  |
+| – via Grote Kolksluis  | 55  | 8,20  | 2,80 <sup>4</sup>  |
+| Zwarte Water  | 110  | 12,00  | 3,25 <sup>3</sup>  |
+| Zwolsche Diep  | 110  | 12,00  | 3,00 <sup>5</sup>  |
+| Ramsdiep  | 110  | 11,50  | 3,00 <sup>5</sup>  |
+| Zwanendiep  | 85  | 9,50  | 2,70 <sup>3</sup>  |
 | --- | --- | --- | --- |
 |  *Noord-Holland*   | --- | --- | --- |
 | Haven Oudeschild  | 90  | <12,50  | 4,50  |
 | De betonde vaarwateren tussen zee en Den Helder  | --- | --- | 9.00  |
 | Marinehaven Willemsoord  | 200  | --- | 8.00  |
 | Oranjesluizencomplex  | --- | --- | --- |
-| – Noordersluis  | 70  | 13,50  | 3,50 <sup>6</sup>  |
+| – Noordersluis  | 70  | 13,50  | 3,50 <sup>5</sup>  |
 | – Middensluis  | 90  | 17,50  | 3,50 <sup>6</sup>  |
 | – Zuidersluis  | 70  | 13,50  | 3,50 <sup>6</sup>  |
 | – Prins Willem Alexandersluis  | 200  | 23,00  | 3,50 <sup>6</sup>  |
@@ -3140,7 +3143,7 @@ c. stoffen van de klasse 2, die overeenkomstig de IMDG-code moeten worden voorzi
 | – Zijkanaal C  | --- | 11,40  | 3,00  |
 | – Zijkanaal D  | --- | --- | 3,00  |
 | – Zijkanaal E  | --- | --- | 2,20  |
-| – Zijkanaal G over een lengte van 1000 m gemeten uit de as van het Noordzeekanaal  | --- | --- | 8,00  |
+| – Zijkanaal G over een lengte van 1000 m gemeten uit de as van het Noordzeekanaal  | --- | --- | 8,00  |
 | – Zijkanaal H  | --- | --- | 1,30  |
 | Haven Marken  | 55  | 6,60  | 2,00  |
 | --- | --- | --- | --- |
@@ -3149,7 +3152,7 @@ c. stoffen van de klasse 2, die overeenkomstig de IMDG-code moeten worden voorzi
 | – Houtribsluis  | 190  | 17,50  | 3,50  |
 | – Krabbersgatsluis  | 110  | 11,60  | 3,50  |
 | – Lorentzsluizen:  | --- | --- | --- |
-| grote sluis  | 120  | 13,00  | 3,50 <sup>7</sup>  |
+| grote sluis  | 120  | 13,00  | 3,50 <sup>6</sup>  |
 | kleine sluis  | 67  | 8,20  | 3,50 <sup>7</sup>  |
 | – Stevinsluis  | 120  | 13,00  | 3,50 <sup>7</sup>  |
 | – Noorderhaven Breezanddijk  | 50  | 11,50  | 2,80 <sup>7</sup>  |
@@ -3163,40 +3166,40 @@ c. stoffen van de klasse 2, die overeenkomstig de IMDG-code moeten worden voorzi
 | Buitenhaven van Muiden en toegangsgeul  | --- | --- | --- |
 | – Groote Zeesluis – IJmeer  | 45  | 7,50  | 1,80  |
 | Amsterdam-Rijnkanaal  | 200  | 23,50  | 4,00  |
-| Lekkanaal  | 200  | 17,70  | 3,50 <sup>8</sup>  |
-| Merwedekanaal (benoorden de Lek)  | 110  | 11,50  | 2,80 <sup>9</sup>  |
+| Lekkanaal  | 200  | 17,70  | 3,50 <sup>7</sup>  |
+| Merwedekanaal (benoorden de Lek)  | 110  | 11,50  | 2,80 <sup>8</sup>  |
 | Gekanaliseerde Hollandsche Ijssel  | --- | --- | --- |
-| – Doorslagsluis – km 2,2  | 39  | 5,45  | 1,75 <sup>10</sup>  |
-| – km 2,2 – Oudewater (km 17,9)  | 39  | 5,45  | 1,75  |
+| – Doorslagsluis – km 2,2  | 39  | 5,45  | 1,75 <sup>9</sup>  |
+| – km 2,2 – Oudewater (km 17,9)  | 39  | 5,45  | 1,75  |
 | – km 17,9 – Haastrechtse brug  | 39  | 5,45  | 1,90  |
 | --- | --- | --- | --- |
 |  *Zuid-Holland*   | --- | --- | --- |
 | Hollandsche IJssel  | --- | --- | --- |
-| – van km 0.0 tot km 1.1  | 39  | 5,45  | 2,50 <sup>11</sup>  |
-| – van km 1.1 tot km 3.4  | 110  | 11,50  | 3,15 <sup>11</sup>  |
-| – van km 3.4 tot km 4.5  | 110  | 11,50  | 3,60 <sup>11</sup>  |
-| – van km 4.5 tot km 7.0  | 110  | 11,50  | 4,05 <sup>11</sup>  |
-| – van km 7.0 tot km 19.7  | 110  | 11,50  | 4,70 <sup>11</sup>  |
+| – van km 0.0 tot km 1.1  | 39  | 5,45  | 2,50 <sup>10</sup>  |
+| – van km 1.1 tot km 3.4  | 110  | 11,50  | 3,15 <sup>11</sup>  |
+| – van km 3.4 tot km 4.5  | 110  | 11,50  | 3,60 <sup>11</sup>  |
+| – van km 4.5 tot km 7.0  | 110  | 11,50  | 4,05 <sup>11</sup>  |
+| – van km 7.0 tot km 19.7  | 110  | 11,50  | 4,70 <sup>11</sup>  |
 | Oude Maas (zeevaart)  | 175  | 25  | 8,80  |
 | Dordtsche Kil en de daarop aansluitende vaarweg naar de havens van het Industrie- en Havenschap Moerdijk (zeevaart)  | 175  | 25,00  | 8,00  |
 | Volkeraksluizen  | 225  | 23,50  | 4,75  |
 | Boven-Merwede/Beneden-Merwede/ Nieuwe Merwede/Noord/Oude Maas/Dordtsche Kil/ Hollandsch Diep/Amer/Haringvliet  | --- | --- | --- |
 | – algemeen  | 225  | 23,50  | --- |
-| – duwstellen in afvaart brede formatie (gedeelte vóór de duwboot (maximum lengte 40 m))  | 153  | 34,35  | --- |
-| – duwstellen in opvaart lange formatie (gedeelte vóór de duwboot (maximum lengte 40 m))  | 229,50  | 22,90  | --- |
+| – duwstellen in afvaart brede formatie (gedeelte vóór de duwboot (maximum lengte 40m))  | 153  | 34,35  | --- |
+| – duwstellen in opvaart lange formatie (gedeelte vóór de duwboot (maximum lengte 40m))  | 229,50  | 22,90  | --- |
 | Beneden-Merwede  | --- | --- | 4,40 <sup>11</sup>  |
-| Bergsche Maas  | 193  | 17,50  | 4,00 <sup>12</sup>  |
+| Bergsche Maas  | 193  | 17,50  | 4,00 <sup>11</sup>  |
 | Nieuwe Merwede (Biesboschsluis)  | 55  | 6,60  | 3,20  |
 | Noord  | --- | --- | 4,40 <sup>11</sup>  |
 | Nieuwe Maas (beheersgebied Rijkswaterstaat, directie Zuid-Holland)  | 225  | 23,50  | --- |
-| – duwstellen in afvaart brede formatie (gedeelte voor de duwboot (maximum lengte 40 m))  | 153  | 34,35  | 4,50  |
-| – duwstellen in opvaart lange formatie (gedeelte voor de duwboot (maximum lengte 40 m))  | 229,50  | 22,90  | 4,50  |
+| – duwstellen in afvaart brede formatie (gedeelte voor de duwboot (maximum lengte 40m))  | 153  | 34,35  | 4,50  |
+| – duwstellen in opvaart lange formatie (gedeelte voor de duwboot (maximum lengte 40m))  | 229,50  | 22,90  | 4,50  |
 | --- | --- | --- | --- |
 |  *Noord-Brabant*   | --- | --- | --- |
 | Zuid-Willemsvaart, met inbegrip van de Gekanaliseerde Dieze en het kanaal Engelen-Henriëttewaard  | --- | --- | --- |
 | – sluis 13 t/m sluis 4  | 50,50  | 6,70  | 1,90  |
-| – sluis 4 tot Gekanaliseerde Dieze  | 90 <sup>13</sup>  | 6,70  | 2,10  |
-| – Gekanaliseerde Dieze  | 90  | 12  | 2,70 <sup>14</sup>  |
+| – sluis 4 tot Gekanaliseerde Dieze  | 90 <sup>12</sup>  | 6,70  | 2,10  |
+| – Gekanaliseerde Dieze  | 90  | 12  | 2,70 <sup>13</sup>  |
 | – Kanaal Engelen – Henriëttewaard  | 90  | 12  | 2,70  |
 | Wilhelminakanaal, met inbegrip van de Amertak  | --- | --- | --- |
 | – Amer – sluis I  | 110  | 11,50  | 3,00  |
@@ -3213,59 +3216,60 @@ c. stoffen van de klasse 2, die overeenkomstig de IMDG-code moeten worden voorzi
 | Zuid-Vlije/Krammer/ Zijpe/Mastgat/Keeten/ Oosterschelde  | 200  | 23,50  | --- |
 | Schelde-Rijnverbinding  | 225  | 23,50  | 4,30  |
 | Volkerak  | 225  | 23,50  | 4,75  |
-| Krammersluizen  | 200  | 23,50  | 4,75 <sup>15*</sup>  |
+| Krammersluizen  | 200  | 23,50  | 4,75 <sup>14</sup>  |
 | Kanaal door Zuid-Beveland  | --- | --- | --- |
-| – gehele kanaal  | 200  | 23,50  | 4,75 <sup>15*</sup>  |
-| – vanaf de parallel 51° 27'.9 N  | 200  | 23,50  | 5,25 <sup>16</sup>  |
+| – gehele kanaal  | 200  | 23,50  | 4,75 <sup>15</sup>  |
+| – vanaf de parallel 51° 27’.9 N  | 200  | 23,50  | 5,25 <sup>15</sup>  |
 | Veerse Meer  | 130  | 18,00  | --- |
-| Roompotsluis  | 95  | 14,50  | 5,00 <sup>17</sup>  |
-| Bergsediepsluis  | 34  | 6,00  | 2,00 <sup>18</sup>  |
-| Handelshaven Breskens <sup>19</sup>  | 95  | --- | --- |
+| Roompotsluis  | 95  | 14,50  | 5,00 <sup>16</sup>  |
+| Bergsediepsluis  | 34  | 6,00  | 2,00 <sup>17</sup>  |
+| Handelshaven Breskens <sup>18</sup>  | 95  | --- | --- |
 | Veerhaven Terneuzen  | 80  | 9,50  | --- |
 | --- | --- | --- | --- |
 |  *Limburg*   | --- | --- | --- |
 | Maas  | --- | --- | --- |
 | – van km 8,650 – invaart Julianakanaal  | 137,50  | 14,00  | 3,00  |
 | – van km 64,5 – monding Julianakanaal  | 110  | 12,00  | 2,80  |
-| – sluis Linne  | 137,50  | 13,50  | 3,00 <sup>20</sup>  |
-| > 137 m  | 193  | 13,50  | 3,00 <sup>20</sup>  |
-| – sluis Roermond  | 137,50  | 13,50  | 3,00 <sup>21</sup>  |
-| > 137,50 m  | 193  | 13,50  | 3,00 <sup>21</sup>  |
-| - sluis Belfeld oude:  | 137,50  | 13,50  | 3,00 <sup>22</sup>  |
-| > 137,50 m  | 193  | 13,50  | 3,00 <sup>22</sup>  |
+| – sluis Linne  | 193  | 13,50  | 3,00 <sup>19</sup>  |
+| – sluis Roermond  | 193  | 13,50  | 3,00 <sup>20</sup>  |
+| – sluis Belfeld oude:  | 193  | 13,50  | 3,00 <sup>21</sup>  |
 | nieuwe:  | 137,50  | 15,50  | 3,00  |
-| – sluis Sambeek oude:  | 137,50  | 13,50  | 3,00 <sup>23</sup>  |
-| > 137,50 m  | 193  | 13,50  | 3,00 <sup>23</sup>  |
+| – sluis Sambeek oude:  | 193  | 13,50  | 3,00 <sup>21</sup>  |
 | nieuwe:  | 137,50  | 15,50  | 3,00  |
 | – sluis Grave  | 137,50  | 15,50  | 3,20  |
 | – Prinses Maxima sluizen te Lith  | --- | --- | --- |
-| Zuidkolk  | 113,50  | 13,50  | 3,50 <sup>24</sup>  |
-| Noordkolk  | 193  | 17,50  | 4,00 <sup>25</sup>  |
+| Zuidkolk  | 113,50  | 13,50  | 3,50 <sup>22</sup>  |
+| Noordkolk  | 193  | 17,50  | 4,00 <sup>23</sup>  |
 | – Maasbracht monding – sluis Sambeek  | --- | --- | --- |
+| <= 137,50 m  | 137,50  | 15,50  | 3,20  |
 | > 137,50 m  | 193  | 13,50  | 3,00  |
-| – Traject Sambeek – km 226,5  | --- | --- | --- |
+| – Traject Sambeek – km 226,5  | --- | --- | --- |
+| <= 137,50 m  | 137,50  | 15,50  | 3,20  |
 | > 137,50 m  | 193  | 13,50  | 3,20  |
 | Julianakanaal  | --- | --- | --- |
 | – Gekanaliseerde Maas – Beatrixhaven  | 137,50  | 14,00  | 3,00  |
-| – Beatrixhaven - haven Stein  | 110  | 12,00  | 3,00  |
-| > 110 m <sup>26</sup>  | 137,50  | 11,50  | 3,00  |
+| – Beatrixhaven – haven Stein  | 110  | 12,00  | 3,00  |
+| > 110 m <sup>24</sup>  | 137,50  | 11,50  | 3,00  |
 | – Haven Stein – sluis Born  | 137,50  | 14,00  | 3,00  |
-| oude sluis Born  | 132,50  | 13,50  | 3,00  |
-| – sluis Born – km 36,6  | 137,50  | 15,50  | 3,00  |
-| – sluis Maasbracht – km 36,6  | 137,50  | 15,50  | 3,00  |
+| oude sluis Born  | 132,50  | 13,50  | 2,80  |
+| – sluis Born – km 36,6  | 137,50  | 15,50  | 3,00  |
+| – sluis Maasbracht – km 36,6  | 193  | 13,50  | 3,00  |
+| <= 137,50 m  | 137,50  | 15,50  | 3,00  |
 | > 137,50 m  | 193  | 13,50  | 3,00  |
 | Lateraalkanaal Linne-Buggenum  | --- | --- | --- |
 | > 137,50 m  | 193  | 13,50  | 3,00  |
 | Sluis Heel  | 137,50  | 15,50  | 3,00  |
 | Maas-Waalkanaal  | --- | --- | --- |
-| Maas – Maas-Waalkanaal km 10,7  | 137,50  | 15,50  | 3,20 <sup>27</sup>  |
-| > 137,5 m  | 193  | 13,50  | 3,20 <sup>28</sup>  |
-| km 10,7 – km 12,9  | 225  | 15,50  | 3,70 <sup>29</sup>  |
-| km 12,9 – km 13,4 (Waal)  | 193  | 22,90  | 3,70 <sup>30</sup>  |
-| > 193  | 225  | 17,50  | 3,70 <sup>31</sup>  |
-| Kanaal van Sint Andries  | 110  | 13,50  | 3,50 <sup>32</sup>  |
+| km 0,0 (Maas)- km 10,7  | --- | --- | --- |
+| <= 137,50 m  | 137,50  | 15,50  | 3,20 <sup>25</sup>  |
+| > 137,5 m  | 193  | 13,50  | 3,20 <sup>25</sup>  |
+| km 10,7 – km 12,9  | 225  | 15,50  | 3,70 <sup>26</sup>  |
+| km 12,9 – km 13,4 (Waal)  | --- | --- | --- |
+| <= 193 m  | 193  | 22,90  | 3,70 <sup>26</sup>  |
+| > 193 m  | 225  | 17,50  | 3,70 <sup>26</sup>  |
+| Kanaal van Sint Andries  | 110  | 13,50  | 3,50 <sup>27</sup>  |
 | Verbindingskanaal in het Bossche Veld  | 80  | 8,30  | 2,50  |
-| > 80 m <sup>33</sup>  | 86  | 8,30  | 2,50  |
+| > 80 m <sup>28</sup>  | 86  | 8,30  | 2,50  |
 | Zuid-Willemsvaart  | --- | --- | --- |
 | sluis 19 – Verbindingskanaal  | 20  | 4,50  | 1,65  |
 | Verbindingskanaal – Smeermaas  | 80  | 8,30  | 2,50  |
@@ -3274,14 +3278,14 @@ c. stoffen van de klasse 2, die overeenkomstig de IMDG-code moeten worden voorzi
 | via sluis 16 en 15 tot sluis 13  | 65  | 7,25  | 2,10  |
 | sluis 15 – Randwegbrug  | 95  | 9,50  | 2,10  |
 | Kanaal Wessem – Nederweert  | --- | --- | --- |
-| – km 0,00 – km 0,85  | 137,50  | 15,50  | 3,20  |
-| – km 0,85 – km 2,20  | 95  | 9,50  | 2,50  |
-| – km 2,20 – km 16,30  | 95  | 9,50  | 2,10  |
+| – km 0,00 – km 0,85  | 137,50  | 15,50  | 3,00  |
+| – km 0,85 – km 2,20  | 95  | 9,50  | 2,50  |
+| – km 2,20 – km 16,30  | 95  | 9,50  | 2,10  |
 | oude sluis Panheel  | 95  | 7,25  | 2,10  |
 | Noordervaart  | --- | --- | --- |
 | Sluis Hulzen  | 62  | 7,25  | 1,65  |
 
-<sup>1</sup> Op het pand Geldersche IJssel – Eefde (voorpand) evenveel minder dan 2,80 m als de buitenwaterstand sluis Eefde lager is dan NAP + 3,20 m. <sup>2</sup> Bij waterstand = NAP of zoveel minder dan de waterstand lager is dan NAP. De drempeldiepte van de Meppelerdiep-brug ligt op NAP – 3,50 m. De keersluis in Zwartsluis wordt gesloten bij een waterstand hoger dan NAP + 0,50 m en bij een waterstand lager dan NAP – 0,50 m. <sup>3</sup> Bij waterstand = NAP of zoveel minder dan de waterstand lager is dan NAP. <sup>4</sup> Bij waterstand = NAP of zoveel minder dan de waterstand lager is dan NAP. De drempeldiepte van de Meppelerdiep-brug ligt op NAP – 3,50 m. De keersluis in Zwartsluis wordt gesloten bij een waterstand hoger dan NAP + 0,50 m en bij een waterstand lager dan NAP – 0,50 m. <sup>5</sup> Bij waterstand = NAP of zoveel minder dan de waterstand lager is dan NAP. In de bochten en bij de bruggen geldt een verbod op ontmoeten en voorbijlopen voor schepen en duwstellen met een lengte van >110 m. <sup>6</sup> Bij een waterstand van NAP – 0,50 m of hoger of zoveel minder dan de waterstand lager is dan NAP – 0,50 m. <sup>7</sup> Bij een waterstand op de Waddenzee gelijk aan of boven NAP of op het IJsselmeer gelijk aan of boven NAP – 0,50 m dan wel evenveel minder dan de waterstand lager is dan NAP respectievelijk NAP – 0,50 m. <sup>8</sup> Bij een waterstand van NAP –0,40 m of zoveel minder dan de waterstand lager is dan NAP – 0,40 m. <sup>9</sup> Bij een waterstand van NAP – 0,40 m op het Amsterdam-Rijnkanaal of hoger of zoveel minder dan de waterstand lager is. Bij een waterstand van NAP +1,35 m of hoger of zoveel minder als de waterstand op de Lek bij de Koninginnesluis is. <sup>10</sup> Bij een waterstand van NAP + 0,50 m of hoger of zoveel minder dan de waterstand is bij de Doorslagsluis te Nieuwegein. <sup>11</sup> Bij een waterstand t.o.v. NAP, of zoveel hoger of zoveel minder dan de waterstand t.o.v. NAP. <sup>12</sup> Bij een waterstand = NAP of zoveel minder dan de waterstand lager is dan NAP. <sup>13</sup> Schepen langer dan 65 m moeten zijn uitgerust met een actieve kopbesturing. <sup>14</sup> Bij een waterstand van NAP +0,50 m of hoger of zoveel minder dan de waterstand beneden NAP + 0,50 m. <sup>15</sup> Schepen die gebruik maken van de hefopening in de spoor- en verkeersbrug Zutphen (km 928.150) moeten rekening houden met de volgende beperkingen: a. de bodem ligt op ca. NAP + 0,50 m, d.w.z. ongeveer 0,50 cm hoger dan overigens in dat riviervak; b. de bodembreedte op NAP +0,50 m is slechts 8,00 m; c. eerst op ca NAP + 2,50 m is een breedte van 12 m aanwezig; d. bij doorvaart hiervan is een sterke waterspiegeldaling mogelijk. <sup>15*</sup> Bij een waterstand hoger dan of gelijk aan NAP – 0,75 m of zoveel minder dan de waterstand lager is dan NAP – 0,75 m. <sup>16</sup> Bij een waterstand hoger dan of gelijk aan NAP – 0,55 m of zoveel minder dan de waterstand lager is dan NAP – 0,55 m met dien verstande dat deze diepgang slechts is toegestaan voor schepen die vanaf de Westerschelde komen met als directe bestemming loswal «Kaai 85» te Schore, alsmede voor schepen die vertrekken vanaf deze loswal met als directe bestemming Westerschelde. <sup>17</sup> Bij een waterstand = NAP of zoveel minder dan de waterstand lager is dan NAP. <sup>18</sup> Bij waterstand Oosterschelde-zijde NAP – 1,50 m of hoger. <sup>19</sup> Kielspeling 10% van de waterdiepte. <sup>20</sup> Of zoveel minder dan de waterstand in het benedentoeleidingskanaal lager is dan NAP + 16,95 m. <sup>21</sup> Of zoveel minder dan de waterstand in het benedentoeleidingskanaal lager is dan NAP + 14,20 m. <sup>22</sup> Of zoveel minder dan de waterstand in het benedentoeleidingskanaal lager is dan NAP + 10,95 m. <sup>23</sup> Of zoveel minder dan de waterstand in het benedentoeleidingskanaal lager is dan NAP + 7,70 m. <sup>24</sup> Bij een waterstand NAP + 1 m of zoveel minder dan de buitenwaterstand in het benedentoeleidingskanaal lager is dan NAP + 1 m. <sup>25</sup> Bij een waterstand van NAP of zoveel minder dan de buitenwaterstand in het benedentoeleidingskanaal lager is dan NAP. <sup>26</sup> Schepen of duwstellen langer dan 110 m moeten zijn uitgerust met een actieve kopbesturing. <sup>27</sup> Bij een waterstand NAP + 7,70 m of zoveel minder dan de waterstand bij sluis Heumen aan de Maaszijde lager is dan NAP + 7,70 m. <sup>28</sup> Bij een waterstand NAP + 7,70 m of zoveel minder dan de waterstand bij sluis Heumen aan de Maaszijde lager is dan NAP + 7,70 m. <sup>29</sup> Of zoveel minder dan de buiten- of de binnenwaterstand lager is dan NAP + 7,20 m. <sup>30</sup> Of zoveel minder dan de buiten- of de binnenwaterstand lager is dan NAP + 7,20 m. <sup>31</sup> Of zoveel minder dan de buiten- of de binnenwaterstand lager is dan NAP + 7,20 m. <sup>32</sup> Bij een waterstand NAP + 1 m of zoveel minder dan de waterstand bij sluis St. Andries v.w.b. de Maaszijde lager is dan NAP + 1 m dan wel v.w.b. de Waalzijde lager is dan NAP + 2 m. <sup>33</sup> Schepen of duwstellen langer dan 110 m moeten zijn uitgerust met een actieve kopbesturing. 
+<sup>1</sup> Op het pand Geldersche IJssel – Eefde (voorpand) evenveel minder dan 2,80 m als de buitenwaterstand sluis Eefde lager is dan NAP + 3,20 m. <sup>2</sup> Schepen die gebruik maken van de hefopening in de spoor- en verkeersbrug Zutphen (km 928.150) moeten rekening houden met de volgende beperkingen: a. de bodem ligt op ca. NAP + 0,50 m, d.w.z. ongeveer 0,50 cm hoger dan overigens in dat riviervak; b. de bodembreedte op NAP +0,50 m is slechts 8,00 m; c. eerst op ca NAP + 2,50 m is een breedte van 12 m aanwezig; d. bij doorvaart hiervan is een sterke waterspiegeldaling mogelijk. <sup>3</sup> Bij waterstand = NAP of zoveel minder dan de waterstand lager is dan NAP. <sup>4</sup> Bij waterstand = NAP of zoveel minder dan de waterstand lager is dan NAP. De drempeldiepte van de Meppelerdiep-brug ligt op NAP – 3,50 m. De keersluis in Zwartsluis wordt gesloten bij een waterstand hoger dan NAP + 0,50 m en bij een waterstand lager dan NAP – 0,50 m. <sup>5</sup> Bij een waterstand van NAP – 0,50 m of hoger of zoveel minder dan de waterstand lager is dan NAP – 0,50 m. <sup>6</sup> Bij een waterstand op de Waddenzee gelijk aan of boven NAP of op het IJsselmeer gelijk aan of boven NAP – 0,50 m dan wel evenveel minder dan de waterstand lager is dan NAP respectievelijk NAP – 0,50 m. <sup>7</sup> Bij een waterstand van NAP – 0,40 m of zoveel minder dan de waterstand lager is dan NAP – 0,40 m. <sup>8</sup> Bij een waterstand van NAP – 0,40 m op het Amsterdam-Rijnkanaal of hoger of zoveel minder dan de waterstand lager is. Bij een waterstand van NAP +1,35 m of hoger of zoveel minder als de waterstand op de Lek bij de Koninginnesluis is. <sup>9</sup> Bij een waterstand van NAP + 0,50 m of hoger of zoveel minder dan de waterstand is bij de Doorslagsluis te Nieuwegein. <sup>10</sup> Bij een waterstand t.o.v. NAP, of zoveel hoger of zoveel minder dan de waterstand t.o.v. NAP. <sup>11</sup> Bij een waterstand = NAP of zoveel minder dan de waterstand lager is dan NAP. <sup>12</sup> Schepen langer dan 65 m moeten zijn uitgerust met een actieve kopbesturing. <sup>13</sup> Bij een waterstand van NAP + 0,50 m of hoger of zoveel minder dan de waterstand beneden NAP + 0,50 m. <sup>14</sup> Bij een waterstand hoger dan of gelijk aan NAP – 0,75 m of zoveel minder dan de waterstand lager is dan NAP – 0,75 m. <sup>15</sup> Bij een waterstand hoger dan of gelijk aan NAP – 0,55 m of zoveel minder dan de waterstand lager is dan NAP – 0,55 m met dien verstande dat deze diepgang slechts is toegestaan voor schepen die vanaf de Westerschelde komen met als directe bestemming loswal «Kaai 85» te Schore, alsmede voor schepen die vertrekken vanaf deze loswal met als directe bestemming Westerschelde. <sup>16</sup> Bij een waterstand = NAP of zoveel minder dan de waterstand lager is dan NAP. <sup>17</sup> Bij waterstand Oosterschelde-zijde NAP – 1,50 m of hoger. <sup>18</sup> Kielspeling 10% van de waterdiepte. <sup>19</sup> Of zoveel minder dan de waterstand in het benedentoeleidingskanaal lager is dan NAP + 16,95 m. <sup>20</sup> Of zoveel minder dan de waterstand in het benedentoeleidingskanaal lager is dan NAP + 14,20 m. <sup>21</sup> Of zoveel minder dan de waterstand in het benedentoeleidingskanaal lager is dan NAP + 7,70 m. <sup>22</sup> Bij een waterstand NAP + 1 m of zoveel minder dan de buitenwaterstand in het benedentoeleidingskanaal lager is dan NAP + 1 m. <sup>23</sup> Bij een waterstand van NAP of zoveel minder dan de buitenwaterstand in het benedentoeleidingskanaal lager is dan NAP. <sup>24</sup> Schepen of duwstellen langer dan 110 m moeten zijn uitgerust met een actieve kopbesturing. <sup>25</sup> Bij een waterstand NAP + 7,70 m of zoveel minder dan de waterstand bij sluis Heumen aan de Maaszijde lager is dan NAP + 7,70 m. <sup>26</sup> Of zoveel minder dan de buiten- of de binnenwaterstand lager is dan NAP + 7,20 m. <sup>27</sup> Bij een waterstand NAP + 1 m of zoveel minder dan de waterstand bij sluis St. Andries v.w.b. de Maaszijde lager is dan NAP + 1 m dan wel v.w.b. de Waalzijde lager is dan NAP + 2 m. <sup>28</sup> Schepen of duwstellen langer dan 110 m moeten zijn uitgerust met een actieve kopbesturing. 
 
 ### Bijlage  14  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 19 januari 1990, nr. S/J 30.057/90, Directoraat-Generaal Scheepvaart en Maritieme Zaken;
 
-Gelet op de [artikelen 4](../../../../../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), [18](../../../../../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) en [31, tiende lid, van de Scheepvaartverkeerswet](../../../../../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) (*Stb.* 1988, 352);
+Gelet op de artikelen 4, 18 en 31, tiende lid, van de Scheepvaartverkeerswet (*Stb.* 1988, 352);
 
 De Raad van State gehoord (advies van 29 mei 1990, nr. W09.90.0029);
 
@@ -277,12 +277,12 @@ c. op eerste vordering van de bevoegde autoriteit zijn schip onverwijld te verha
 8.  Voor het vastmaken van meerdraden, kabels of kettingen mag alleen gebruik gemaakt worden van de daartoe bestemde voorzieningen.   
 9.  Een schip mag ankeren noch afmeren binnen de afstanden van een ander schip zoals hieronder wordt bepaald: 
 
-a. binnen 10 meter van een schip dat een blauw licht of een blauwe kegel, bedoeld in artikel 25, tweede lid, onder *a,* voert;  
+a. binnen 10 meter van een schip dat een blauw licht of een blauwe kegel, bedoeld in artikel 25, tweede lid, onder a, voert;  
 
-b. binnen 50 meter van een schip dat twee blauwe lichten of kegels, bedoeld in artikel 25, tweede lid, onder *b,* of een rood helder rondom zichtbaar licht of de internationale seinvlag "B", bedoeld in artikel 25, eerste lid, voert;  
+b. binnen 50 meter van een schip dat twee blauwe lichten of kegels, bedoeld in artikel 25, tweede lid, onder b, of een rood helder rondom zichtbaar licht of de internationale seinvlag "B", bedoeld in artikel 25, eerste lid, voert;  
 
-c. binnen 100 meter van een schip dat drie blauwe lichten of kegels, bedoeld in artikel 25, tweede lid, onder *c*, voert.     
-10.  Het verbod in het negende lid, onder *a*, geldt niet voor een schip dat eveneens dit licht of dit dagmerk voert. Het verbod geldt evenmin voor een schip dat, zonder dat het dit licht of dit dagmerk voert, is voorzien van een certificaat van goedkeuring, bedoeld in het Reglement voor het vervoer van gevaarlijke stoffen over de Rijn (ADNR) nr. 8.1.8, en dat voldoet aan de veiligheidsvoorschriften voor een schip dat ingevolge artikel 25, tweede lid, onder *a*, verplicht is een blauw licht of een blauwe kegel te voeren.   
+c. binnen 100 meter van een schip dat drie blauwe lichten of kegels, bedoeld in artikel 25, tweede lid, onder c, voert.     
+10.  Het verbod in het negende lid, onder *a*, geldt niet voor een schip dat eveneens dit licht of dit dagmerk voert. Het verbod geldt evenmin voor een schip dat, zonder dat het dit licht of dit dagmerk voert, is voorzien van een certificaat van goedkeuring, bedoeld in de Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke goederen over de binnenwateren (ADN) nr. 8.1.8, en dat voldoet aan de veiligheidsvoorschriften voor een schip dat ingevolge artikel 25, tweede lid, onder a, verplicht is een blauw licht of een blauwe kegel te voeren.   
 11.  De bevoegde autoriteit kan voor het ankeren en afmeren kleinere afstanden toestaan dan die in het negende lid worden vermeld.   
 12.  Het bepaalde in het negende, tiende en elfde lid is van overeenkomstige toepassing voor de afstanden waar binnen een schip, bedoeld in artikel 25, niet mag ankeren of afmeren ten opzichte van een ander schip.   
 
@@ -482,7 +482,7 @@ b. gewoon licht, helder licht en krachtig licht:
 
 1. voor zeeschepen: lichten die op een afstand van onderscheidenlijk ten minste 1.000 meter, 2.000 meter en 3.000 meter zichtbaar zijn;  
 
-2. voor binnenschepen: de lichten die voldoen aan de eisen van [bijlage 1.5 van de Binnenvaartregeling](../../../../../../../../../../ministeriele-regeling/binnenvaartregeling/BWBR0025958/README.md).      
+2. voor binnenschepen: de lichten die voldoen aan de eisen van bijlage 1.5 van de Binnenvaartregeling.      
 
 ### Artikel  23  
 
@@ -541,19 +541,19 @@ b. een ruitvormig dagmerk aan of nabij het achterste uiteinde van de sleep.
 - bij dag: de seinvlag "B" van het Internationaal seinboek;   waar zij het best kunnen worden gezien en op een hoogte van ten minste 6 meter boven het dek.   
 2.   
 
-a. Een binnenschip dat bepaalde brandbare stoffen vervoert, bedoeld in het Reglement voor het vervoer van gevaarlijke stoffen over de Rijn (ADNR) nr. 7.1.5.0 of nr. 7.2.5.0, moet, behalve de lichten of dagmerken die worden voorgeschreven bij de overige bepalingen van dit reglement, voeren: 
+a. Een binnenschip dat bepaalde brandbare stoffen vervoert, bedoeld in de Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke goederen over de binnenwateren (ADN), nr. 7.1.5.0.1 of nr. 7.2.5.0.2, moet, behalve de lichten of dagmerken die worden voorgeschreven bij de overige bepalingen van dit reglement, voeren: 
 
 - bij nacht: één rondom zichtbaar blauw licht;  
 
 - bij dag: één blauwe kegel met de punt naar beneden.   In plaats van één blauwe kegel, kan ook één blauwe kegel op het voor- en één op het achterschip op een hoogte van ten minste 3 meter boven het vlak der inzinkingsmerken worden gevoerd.  
 
-b. Een binnenschip dat bepaalde voor de gezondheid schadelijke stoffen vervoert, bedoeld in het ADNR, nr. 7.1.5.0 of nr. 7.2.5.0, moet, behalve de lichten of dagmerken die worden voorgeschreven bij de overige bepalingen van dit reglement, voeren: 
+b. Een binnenschip dat bepaalde voor de gezondheid schadelijke stoffen vervoert, bedoeld in het ADN, nr. 7.1.5.0.1 of nr. 7.2.5.0.2, moet, behalve de lichten of dagmerken die worden voorgeschreven bij de overige bepalingen van dit reglement, voeren: 
 
 - bij nacht: twee rondom zichtbare blauwe lichten;  
 
 - bij dag: twee blauwe kegels met de punt naar beneden; in een verticale lijn en met een onderlinge afstand van ongeveer 1 meter.   In plaats van twee blauwe kegels, kunnen ook telkens twee blauwe kegels op het voor- en op het achterschip worden gevoerd, waarvan de ondersten op een hoogte van ten minste 3 meter boven het vlak der inzinkingsmerken worden gevoerd.  
 
-c. Een binnenschip dat bepaalde ontplofbare stoffen vervoert, bedoeld in ADNR, nr. 7.1.5.0 of nr. 7.2.5.0, moet, behalve de lichten of dagmerken die worden voorgeschreven bij de overige bepalingen van dit reglement, voeren: 
+c. Een binnenschip dat bepaalde ontplofbare stoffen vervoert, bedoeld in ADN, nr. 7.1.5.0.1 of nr. 7.2.5.0.2, moet, behalve de lichten of dagmerken die worden voorgeschreven bij de overige bepalingen van dit reglement, voeren: 
 
 - bij nacht: drie rondom zichtbare blauwe lichten;  
 
@@ -565,7 +565,7 @@ e. Een binnenschip, een duwstel of een gekoppeld samenstel, geladen met verschil
 
 f. De sterkte van de blauwe lichten voorgeschreven in dit lid dient ten minste gelijk te zijn aan die van blauwe gewone lichten.     
 3.  Het eerste en tweede lid zijn ook van toepassing op tankschepen, die na het lossen van de in de bij dit besluit behorende bijlage 1 bedoelde stoffen nog niet gereinigd, ontgast of geheel geïnertiseerd zijn.   
-4.  Een binnenschip, dat in het bezit is van een certificaat van goedkeuring als bedoeld in het ADNR, nr. 8.1.8 en dat voldoet aan de veiligheidsvoorschriften die gelden voor een schip als bedoeld in het tweede lid, onderdeel *a*, mag, indien het gelijktijdig geschut wil worden met een schip dat de tekens van het tweede lid, onder *a*, moet voeren, bij nadering van een sluis de tekens, bedoeld in het tweede lid, onder *a*, voeren.   
+4.  Een binnenschip, dat in het bezit is van een certificaat van goedkeuring als bedoeld in het ADN, nr. 8.1.8.0 en dat voldoet aan de veiligheidsvoorschriften die gelden voor een schip als bedoeld in het tweede lid, onderdeel *a*, mag, indien het gelijktijdig geschut wil worden met een schip dat de tekens van het tweede lid, onder *a*, moet voeren, bij nadering van een sluis de tekens, bedoeld in het tweede lid, onder *a*, voeren.   
 
 ### Artikel  26  
 
@@ -1012,7 +1012,7 @@ Een schip gebruikt geen verkeerstekens om daaraan te meren of daaraan te verhale
 2.  Een schip neemt niet deel aan de scheepvaart indien door de wijze van belading de stabiliteit in gevaar wordt gebracht.   
 3.  Onverminderd het bepaalde in het tweede lid, neemt een binnenschip niet deel aan de scheepvaart indien aan boord niet aanwezig zijn: 
 
-a. het certificaat van onderzoek overeenkomstig [artikel 7, tweede lid, van de Binnenvaartwet](../../../../../../../../../../wet/binnenvaartwet/BWBR0023009/README.md);  
+a. het certificaat van onderzoek overeenkomstig artikel 7, tweede lid, van de Binnenvaartwet;  
 
 b. het stuwplan of de ladinglijst voor de actuele beladingstoestand;  
 
@@ -1213,12 +1213,12 @@ Vervallen.
 *Opmerking*  Deze tekens kunnen worden aangevuld of verduidelijkt met bijkomende tekens, vermeld onder F  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
-| A.1  | --- | In-, uit- of doorvaren verboden  (algemeen teken)  |   ![65433](http://wetten.overheid.nl/Illustration/65433)
+|---|---|---|---|
+| A.1  | --- | In-, uit- of doorvaren verboden  (algemeen teken)  |   ![]()
 *)  of  |
-| --- | --- | --- |   ![65433](http://wetten.overheid.nl/Illustration/65433)
+| --- | --- | --- |   ![]()
 *)  of  |
-| --- | --- | --- |   ![65433](http://wetten.overheid.nl/Illustration/65433)
+| --- | --- | --- |   ![]()
 *)  |
 | A.1.  | a  | Buiten gebruik gestelde gedeelten van de vaarweg; vaarverbod, niet geldend voor een klein schip dat geen motorschip is  | --- |
 | A.2  | --- | Voorbijlopen verboden  | --- |
@@ -1249,7 +1249,7 @@ Vervallen.
 *Opmerking*  Deze tekens kunnen worden aangevuld of verduidelijkt met bijkomende tekens, vermeld onder F  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | B.1  | a  | Verplichting te varen in de richting aangegeven door de pijl  | --- |
 | B.1  | b  | idem  | --- |
 | B.2  | a  | Verplichting zich naar de bakboordszijde van het vaarwater te begeven  | --- |
@@ -1274,7 +1274,7 @@ Vervallen.
 *Opmerking*  Deze tekens kunnen worden aangevuld of verduidelijkt met bijkomende tekens, vermeld onder F  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | C.1  | Beperkte waterdiepte; eventueel de beschikbare diepte aangegeven in centimeters  | --- |
 | C.2  | Beperkte doorvaarthoogte; eventueel de beschikbare doorvaarthoogte aangegeven in meters *  | --- |
 | C.3  | Beperkte breedte van doorvaart of vaarwater; eventueel de beschikbare breedte aangegeven in meters  | --- |
@@ -1290,7 +1290,7 @@ Vervallen.
 *Opmerking*  Deze tekens kunnen worden aangevuld of verduidelijkt met bijkomende tekens, vermeld onder F  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | D.1  | --- | Aanbevolen doorvaartopening (vaste bruggen); *  doorvaart toegestaan (gesloten beweegbare bruggen)  | --- |
 | --- | a  | doorvaart uit de tegengestelde richting toegestaan  | --- |
 | --- | b  | doorvaart uit de tegengestelde richting verboden  | --- |
@@ -1310,7 +1310,7 @@ Vervallen.
 *Opmerking*  Deze tekens kunnen worden aangevuld of verduidelijkt met bijkomende tekens, vermeld onder F  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | E.1  | --- | In-, uit- of doorvaren toegestaan (algemeen teken)  | --- |
 | E.2  | --- | Hoogspanningslijn  | --- |
 | E.3  | --- | Niet overgenomen  | --- |
@@ -1373,7 +1373,7 @@ Vervallen.
 *Opmerking*  Deze tekens kunnen worden aangevuld of verduidelijkt met bijkomende tekens, vermeld onder F 
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *F.1*   | --- |  *Afstandsaanduidingen:*   | --- |
 | --- | --- | borden boven het hoofdteken, vermeldende na welke afstand (*) het hoofdteken geldt   *Voorbeelden:*   | --- |
 | --- | --- | Maximum snelheid 7 km/u, ingaande na 800 m.  | --- |
@@ -1382,7 +1382,7 @@ Vervallen.
 (* in meters, tenzij anders vermeld.)  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *F.2*   | --- |  *Richtingaanduidingen:*   | --- |
 | --- | a  | borden naast het hoofdteken, aangevende de richting van het vaarweggedeelte waarop het hoofdteken betrekking heeft. Hierop kan de lengte van het betreffende traject zijn vermeld. (*) Voorbeelden:  | --- |
 | --- | --- | Ligplaats nemen toegestaan op het gedeelte tussen de borden  | --- |
@@ -1395,7 +1395,7 @@ Vervallen.
 (*) in meters, tenzij anders vermeld.  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *F.3*   | --- |  *Aanvullende aanduidingen:*   | --- |
 | --- | --- | borden onder het hoofdteken, waarop een nadere verklaring of aanwijzing is vermeld.   *Voorbeelden:*   | --- |
 | --- | --- | Versmalling in verband met brugbouw  | --- |
@@ -1404,7 +1404,7 @@ Vervallen.
 | --- | --- | Opletten, regeling scheepvaart  | --- |
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *F.4*   | --- |  *Categorie aanduidingen:*   | --- |
 | --- | --- | borden onder het hoofdteken, aangevende de categorie waarvoor het hoofdteken geldt.   *Voorbeelden:*   | --- |
 | --- | --- | Verplichte vaarrichting, geldend voor motorschepen  | --- |
@@ -1415,7 +1415,7 @@ Vervallen.
 ####TEKENS AAN KUNSTWERKEN
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 |  *Algemeen*   |
 | Bij de hierna onder G.1 t/m G.4 genoemde markeringen kunnen de volgende tekens worden toegepast:  |
 | A.1:  | hetzij rode vaste lichten  | --- | hetzij rood-wit-rode rechthoekige borden  | --- |
@@ -1424,7 +1424,7 @@ Vervallen.
 | --- | groene flikkerlichten  | --- | --- | --- |
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *G.1*   | --- |  *Vaste bruggen en vaste delen van bruggen (*)*   |
 | --- | a  |  *Begrenzing vaargeulbreedte*   | --- |
 | --- | --- | verboden buiten de aangegeven begrenzing te varen (A.10)  | --- |
@@ -1437,7 +1437,7 @@ Vervallen.
 (*) Niet gemarkeerde brugopeningen kunnen op eigen risico worden gebruikt. (**) Bij een vaste brug met slechts één doorvaartopening kan een geel licht boven die doorvaartopening zijn aangebracht als oriënteringslicht  
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *G.2*   | --- |  *Beweegbare bruggen*   |
 | --- | --- |  *Opmerking:*   Het kan voorkomen dat de rode en groene lichten slechts aan één zijde van de doorvaartopening (als regel stuurboordszijde) zijn geplaatst.  |
 | --- | a  |  *Bruggen in bedrijf*   | --- |
@@ -1456,7 +1456,7 @@ Vervallen.
 ###G.3 niet overgenomen
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *G.4*   | --- |  *Sluizen*   |
 | --- | --- | *Opmerking:* Het kan voorkomen dat de rode en groene lichten slechts aan één zijde van de invaart (als regel stuurboordszijde) zijn geplaatst  |
 | 4.1  | --- |  *Algemeen*   |
@@ -1473,7 +1473,7 @@ Vervallen.
 | --- | --- | invaart of uitvaart sluis en doorvaart brug toegestaan  | --- |
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *G.5*   | --- |  *Hoogteaanduidingen*   |
 | --- | --- | De beschikbare doorvaarthoogte van bruggen of andere overspanningen kan zijn aangegeven door middel van hoogteschalen of hoogteborden.  | --- |
 | 5.1  | --- |  *Hoogteschaal*   | --- |
@@ -1497,13 +1497,13 @@ Vervallen.
 ####OVERIGE AANDUIDINGEN
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *H.1*   | --- |  *Kilomtrering*   | --- |
 | --- | a  | Kilometeraanduiding  | --- |
 | --- | b  | Hectometeraanduiding  | --- |
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *H.2*   | --- |  *Bewegwijzering*   | --- |
 | 2.1  | --- |  *Aanduiding hoofddoelen*   Hierop kunnen zowel plaatsnamen als vaarwegnamen zijn vermeld.  | --- |
 | --- | a  | Vooraanduiding  (vóór een vertakking)  | --- |
@@ -1515,7 +1515,7 @@ Vervallen.
 | 2.4  | --- |  *Naamgeving vaarwater of object (haven, brug, sluis, e.d.*   | --- |
 
 | --- | --- | --- | --- |
-|:---|:---|:---|:---|
+|---|---|---|---|
 |  *H.3*   | --- |  *Spui- en inlaattekens*   | --- |
 | --- | a  | Er wordt gespuid  | --- |
 | --- | b  | Er wordt ingelaten  | --- |
@@ -1551,8 +1551,8 @@ b. op zijvaarten en -geulen: in de richting van de hoofdvaarweg, respectievelijk
 
 ####Markeringsvoorwerpen
 
-De betekenis van de markering is afhankelijk van één of meer van de volgende kenmerken: *des daags:* vorm, topteken en kleur, *des nachts:* kleur en karakter van het licht. De toegepaste betonningsvoorwerpen (licht)boei, ton, sparboei, drijfbaken, kopbaken en steekbaken geven tevens een indicatie over de belangrijkheid van een vaarwater, m.a.w. de betonningsvoorwerpen zijn groter naarmate het vaarwater belangrijker is. 1.3.1 Vorm en topteken De hoofdvormen van de laterale markeringen en van de daarbij behorende toptekens zijn stomp (rechter zijde), spits (linker zijde) en bolvormig (splitsingen); alleen de bijzondere markering kan een bijzonder topteken hebben. Lateraal gebruikte sparboeien zijn in Nederland eveneens stomp en spits van vorm. Indien een betonningsvoorwerp niet de vereiste stompe, spitse of bolvorm heeft dan wordt die vorm aangegeven door het bijbehorende topteken (cilinder, kegel, bol). Drijf- en kopbakens zijn altijd van een topteken voorzien, tonnen en sparboeien alleen wanneer zulks ter onderscheiding nodig wordt geacht (b.v. in een bocht, ter onderbreking van een rij éénvormige tonnen, aan het begin of het einde van een vaarwater). Bij steekbakens wordt de stompe vorm gesuggereerd door de losse takken, de spitse door de bijeen gebonden takken, Een splitsing wordt hierbij meestal aangegeven door twee of drie steekbakens bij elkaar. 1.3.2 Kleur Voor de laterale betonning en de oevermarkering zijn de hoofdkleuren rood aan de rechter zijde, groen aan de linker zijde en een combinatie van beide bij splitsingen. Geel is kenmerkend voor de bijzondere markering. Markeringsvoorwerpen kunnen zijn voorzien van retroreflecterend materiaal, waarvan de kleur overeenkomt met die van de betreffende markering. De kleuren worden internationaal aangeduid met de Engelse afkortingen R (red), G (Green), W (white), Y (yellow) en B (black). 1.3.3 Lichten De betekenis der lichten blijkt uit de kleur en het karakter. Bij de laterale en de oevermarkering komt de kleur overeen met die van het markeringsvoorwerp: rood aan de rechter zijde en groen aan de linker zijde; het karakter is "rustig". Een splitsing van hoofd- en nevenvaarwater toont eveneens rood of groen licht (voor het hoofdvaarwater), van vaarwaters van gelijk belang wit; het karakter is in beide gevallen snel. Bij de bijzondere markering is het licht evenals de betonning geel, het karakter is altijd schitter of groepschitter. Lichtkarakters Lichten worden in grote lijnen onderscheiden in vaste lichten en periodelichten. Een *vast licht* toont een ononderbroken schijnsel van gelijkmatige sterkte. Vaste lichten worden, behalve als navigatieverlichting, in beginsel gebruikt als verkeerstekens (zie bijlage 7). Bij een *periodelicht* wordt het schijnsel regelmatig afgewisseld met één of meer verduisteringen. Periodelichten dienen in principe voor de markering van het vaarwater. Onder de *periode* van een licht wordt verstaan de tijdsduur waarin éénmaal alle fasen van het licht worden doorlopen, derhalve de totale duur van schijnsel(s) en verduistering(en). De periode wordt aangegeven in seconden en afgekort als s. Het *karakter* geeft een nadere specificatie van een licht; het wordt volgens internationale afspraken aangeduid met de Engelse afkorting. De karakters zijn gebaseerd op de volgende hoofdindeling;   ![3524](http://wetten.overheid.nl/Illustration/3524)
-In Nederland worden voornamelijk de volgende karakters toegepast, waarbij in het algemeen geldt: hoe sneller het karakter, hoe gevaarlijker het te markeren punt.   ![3524](http://wetten.overheid.nl/Illustration/3524)
+De betekenis van de markering is afhankelijk van één of meer van de volgende kenmerken: *des daags:* vorm, topteken en kleur, *des nachts:* kleur en karakter van het licht. De toegepaste betonningsvoorwerpen (licht)boei, ton, sparboei, drijfbaken, kopbaken en steekbaken geven tevens een indicatie over de belangrijkheid van een vaarwater, m.a.w. de betonningsvoorwerpen zijn groter naarmate het vaarwater belangrijker is. 1.3.1 Vorm en topteken De hoofdvormen van de laterale markeringen en van de daarbij behorende toptekens zijn stomp (rechter zijde), spits (linker zijde) en bolvormig (splitsingen); alleen de bijzondere markering kan een bijzonder topteken hebben. Lateraal gebruikte sparboeien zijn in Nederland eveneens stomp en spits van vorm. Indien een betonningsvoorwerp niet de vereiste stompe, spitse of bolvorm heeft dan wordt die vorm aangegeven door het bijbehorende topteken (cilinder, kegel, bol). Drijf- en kopbakens zijn altijd van een topteken voorzien, tonnen en sparboeien alleen wanneer zulks ter onderscheiding nodig wordt geacht (b.v. in een bocht, ter onderbreking van een rij éénvormige tonnen, aan het begin of het einde van een vaarwater). Bij steekbakens wordt de stompe vorm gesuggereerd door de losse takken, de spitse door de bijeen gebonden takken, Een splitsing wordt hierbij meestal aangegeven door twee of drie steekbakens bij elkaar. 1.3.2 Kleur Voor de laterale betonning en de oevermarkering zijn de hoofdkleuren rood aan de rechter zijde, groen aan de linker zijde en een combinatie van beide bij splitsingen. Geel is kenmerkend voor de bijzondere markering. Markeringsvoorwerpen kunnen zijn voorzien van retroreflecterend materiaal, waarvan de kleur overeenkomt met die van de betreffende markering. De kleuren worden internationaal aangeduid met de Engelse afkortingen R (red), G (Green), W (white), Y (yellow) en B (black). 1.3.3 Lichten De betekenis der lichten blijkt uit de kleur en het karakter. Bij de laterale en de oevermarkering komt de kleur overeen met die van het markeringsvoorwerp: rood aan de rechter zijde en groen aan de linker zijde; het karakter is "rustig". Een splitsing van hoofd- en nevenvaarwater toont eveneens rood of groen licht (voor het hoofdvaarwater), van vaarwaters van gelijk belang wit; het karakter is in beide gevallen snel. Bij de bijzondere markering is het licht evenals de betonning geel, het karakter is altijd schitter of groepschitter. Lichtkarakters Lichten worden in grote lijnen onderscheiden in vaste lichten en periodelichten. Een *vast licht* toont een ononderbroken schijnsel van gelijkmatige sterkte. Vaste lichten worden, behalve als navigatieverlichting, in beginsel gebruikt als verkeerstekens (zie bijlage 7). Bij een *periodelicht* wordt het schijnsel regelmatig afgewisseld met één of meer verduisteringen. Periodelichten dienen in principe voor de markering van het vaarwater. Onder de *periode* van een licht wordt verstaan de tijdsduur waarin éénmaal alle fasen van het licht worden doorlopen, derhalve de totale duur van schijnsel(s) en verduistering(en). De periode wordt aangegeven in seconden en afgekort als s. Het *karakter* geeft een nadere specificatie van een licht; het wordt volgens internationale afspraken aangeduid met de Engelse afkorting. De karakters zijn gebaseerd op de volgende hoofdindeling;   ![]()
+In Nederland worden voornamelijk de volgende karakters toegepast, waarbij in het algemeen geldt: hoe sneller het karakter, hoe gevaarlijker het te markeren punt.   ![]()
 1.3.4 Kentekens Indien een markering is voorzien van een nummering dan loopt deze "van beneden naar boven", dus tegengesteld aan de onder 1.2 genoemde richtingen, op.  
 
 ### 2  
@@ -1568,7 +1568,7 @@ Deze markering geeft de zijdelingse begrenzing van het vaarwater aan, dan wel de
 2.1.1 Rechterzijde  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | vorm:  | stompe boei of ton, sparboei, drijfbaken, kopbaken, walbaken (driehoekig teken met de punt naar beneden gericht) of los steekbaken  | --- |
 | kleur:  | rood  |
 | topteken: ¹  | rode cilinder  |
@@ -1578,7 +1578,7 @@ Deze markering geeft de zijdelingse begrenzing van het vaarwater aan, dan wel de
 ¹ indien aanwezig ² m.u.v. kop-, steek- en walbakens 2.1.2 Linkerzijde  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | vorm:  | spitse boei of ton, sparboei, drijfbaken, kopbaken, walbaken (driehoekig teken met de punt naar boven gericht) of bijeengebonden steekbaken  | --- |
 | kleur:  | groen  |
 | topteken: ¹  | groene kegel met de top naar boven gericht  |
@@ -1589,7 +1589,7 @@ Deze markering geeft de zijdelingse begrenzing van het vaarwater aan, dan wel de
 ###a. Vaarwaters van gelijk belang
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | vorm:  | bolvormige boei of ton, sparboei, drijfbaken, kopbaken of walbaken (driehoekig rood teken met de punt naar beneden gericht boven een driehoekig groen teken met de punt naar boven gericht)  | --- |
 | kleur:  | rood-groen horizontaal gestreept  |
 | topteken:  | rood-groene bol)  |
@@ -1602,7 +1602,7 @@ Deze markering geeft de zijdelingse begrenzing van het vaarwater aan, dan wel de
 <sup> 3  <<van boven naar beneden>> gerekend.  </sup>  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | vorm:  | bolvormige boei of ton, sparboei, drijfbaken, kopbaken of walbaken  | --- |
 | kleur:  | rood boven en groen onder  |
 | topteken:  | rode cilinder, op sparboei, drijf- en kopbaken tevens rode bol  |
@@ -1615,7 +1615,7 @@ Deze markering geeft de zijdelingse begrenzing van het vaarwater aan, dan wel de
 <sup> 3  <<van boven naar beneden>> gerekend.  </sup>  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | vorm:  | bolvormige boei of ton, sparboei, drijfbaken, kopbaken of walbaken  | --- |
 | kleur:  | groen boven en rood onder  |
 | topteken:  | groene kegel met de top naar boven gericht, op sparboei, drijf- en kopbaken tevens groene bol  |
@@ -1631,7 +1631,7 @@ Deze markering geeft de zijdelingse begrenzing van het vaarwater aan, dan wel de
 Op brede vaarwaters kan naast de hoofdbetonning gebruik worden gemaakt van de hierna genoemde aanvullende markering. Deze geeft dan de begrenzing aan van eveneens bruikbaar vaarwater buiten de hoofdbetonning. 2.2.1 Rechterzijde  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | vorm:  | stomp, in principe een ander betonningsvoorwerp dan gebruikt voor de hoofdbetonning  | --- |
 | kleur:  | rood-wit horizontaal gestreept  |
 | topteken: ¹  | rode cilinder.  |
@@ -1639,7 +1639,7 @@ Op brede vaarwaters kan naast de hoofdbetonning gebruik worden gemaakt van de hi
 ¹ indien aanwezig 2.2.2 Linkerzijde  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | vorm:  | vorm: spits, in principe een ander betonningsvoorwerp dan gebruikt voor de hoofdbetonning  | --- |
 | kleur:  | groen-wit horizontaal gestreept  |
 | topteken: ¹  | groene kegel met de top naar boven gericht.  |
@@ -1659,12 +1659,12 @@ In of nabij het vaarwater kan ter markering van gevaarlijke punten en obstakels 
 Deze markering is niet in de eerste plaats bestemd voor de navigatie, maar duidt een bepaald gebied of voorwerp aan, dat doorgaans is omschreven in nautische of andere daarvoor bestemde publicaties. Deze betonning wordt bijvoorbeeld toegepast ter markering van verboden gebieden, bagger-, stort- en ankerplaatsen, oefen- en visserij gebieden, voor het afbakenen van speciale gebieden zoals voor snelle motorboten, waterskiërs, zeilplanken, wedstrijden, e.d. en voor het aangeven van posities met een speciaal doel zoals kabels, instrumenten, etc. Opmerking De bijzondere betonning moet door de *doorgaande* scheepvaart, d.w.z. schepen die niet een aldus gemarkeerd gebied als bestemming hebben, aan dezelfde zijde worden gehouden als de "gewone" betonning.  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | vorm:  | stompe, spitse of bolvormige boei, ton, sparboei, drijf- of kopbaken.  | --- |
 | kleur:  | geel  |
 | topteken: *  | geel liggend kruis of, alleen in geval van een verboden gebied het verbodsteken A.1 (bijlage 5) in de vorm van een cilinder  | --- |
 | licht: *  | geel schitterlicht of groepschitterlicht, uitgezonderd het groepschitterlicht bestaande uit 2 schitteringen  | --- |
-| kenteken: *  | de aanduiding - of een afkorting daarvan - van het doel waarvoor de markering is gelegd, of een pictogram (teken van bijlage 5 onder A en E) dat de betekenis van het gebied aangeeft.  | b.v. Gas  b.v.    ![65676](http://wetten.overheid.nl/Illustration/65676)
+| kenteken: *  | de aanduiding - of een afkorting daarvan - van het doel waarvoor de markering is gelegd, of een pictogram (teken van bijlage 5 onder A en E) dat de betekenis van het gebied aangeeft.  | b.v. Gas  b.v.    ![]()
 |
 
 * indien aanwezig  
@@ -1676,19 +1676,19 @@ Deze markering is niet in de eerste plaats bestemd voor de navigatie, maar duidt
 5.1, 5.2.1 en 5.2.2: niet overgenomen  5.2.3 Geleidelijnen  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Ter markering van een overgang over langere afstand kan op dezelfde oever een stel van de onder 5.2.1 of 5.2.2 genoemde tekens zijn geplaatst, waarvan het achterste teken hoger is dan het voorste. Deze tekens inéén (verticaal boven elkaar) gezien geven de as van de overgang aan.  | --- |
 
 Opmerking De hiervoor genoemde lichten kunnen in plaats van de dagmerken voorkomen. 5.3 Lichtenlijnen (geleidelichten)  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Volgens hetzelfde principe als onder 5.2.3 genoemd geven geleidelichten, inéén gezien, de as van een aanlooproute vanuit zee of een meer, dan wel het diepste gedeelte van een vaargeul aan. Lichtenlijnen worden toegepast in gevallen waar andere vaarwatermarkering onvoldoende leiding geeft of ontbreekt. De lichten zijn doorgaans synchroon brandende periodelichten van dezelfde kleur; het hoge licht kan evenwel een vast licht zijn. De kleur is meestal wit; ter betere onderscheiding (achtergrondverlichting, meerdere lichtenlijnen naast elkaar) kunnen ook andere kleuren worden toegepast.  | --- |
 
 5.4 Sectorlichten  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | Deze dienen eveneens als geleidelichten. Bij een sectorlicht is de lichtbundel verdeeld in één of meer witte en rode en/of groene sectoren. In het algemeen geeft een witte sector de ligging van het vaarwater aan ten opzichte van ondiepten en/of oevers, die gedekt worden door de naastliggende groene of rode sectoren. Aangezien de aldus gemarkeerde gevaren meestal op verschillende afstanden van het licht zijn gelegen, is plaatselijke bekendheid of het raadplegen van een kaart onontbeerlijk voor de juiste interpretatie van dergelijke lichten.  | --- |
 
 ### 6  
@@ -1708,14 +1708,14 @@ De ingangen van havens, zijvaarten, aftakkingen, e.d. kunnen als volgt zijn gema
 7.1.1 Bakboordszijde  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | dagmerk:  | rood-wit horizontaal gestreepte (cilindervormige) lichtopstand  | --- |
 | licht:  | rood vast licht ¹ of rood flikkerlicht  | --- |
 
 ¹ In deze gevallen wordt ter betere ondersdcheiding van andere vaarwegmarkeringen afgeweken van het onder 1.3.3 beschreven beginsel 7.1.2 Stuurboordszijde  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | dagmerk:  | groen-wit horizontaal gestreepte (kegelvormige) lichtopstand  | --- |
 | licht:  | groen vast licht ¹ of groen flikkerlicht  | --- |
 
@@ -1728,12 +1728,12 @@ De ingangen van havens, zijvaarten, aftakkingen, e.d. kunnen als volgt zijn gema
 7.2.1 Bakboordszijde  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | dagmerk  | rood-wit horizontaal gestreepte paal met rood cilindervormig topteken  | --- |
 
 7.2.2 Stuurboordszijde  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | dagmerk  | rood-wit horizontaal gestreepte paal met rood cilindervormig topteken  | --- |
 

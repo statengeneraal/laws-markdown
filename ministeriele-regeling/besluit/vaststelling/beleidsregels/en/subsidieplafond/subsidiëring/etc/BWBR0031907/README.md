@@ -3,27 +3,27 @@
 ##Besluit van de Staatssecretaris van Buitenlandse Zaken van 6 augustus 2012, nr. DSO/GA-236/12, tot vaststelling van beleidsregels en een subsidieplafond voor subsidiëring op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 (SRGR Fonds)
 
 De Staatssecretaris van Buitenlandse Zaken,  
-Gelet op [artikel 6 van het Subsidiebesluit Ministerie van Buitenlandse Zaken](../../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md);
+Gelet op artikel 6 van het Subsidiebesluit Ministerie van Buitenlandse Zaken;
 
-Gelet op [artikel 4.8 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md);
+Gelet op artikel 4.8 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006;
 Besluit:    
 
 ### Artikel  1  
 
-Voor subsidieverlening op grond van [artikel 4.8 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) met het oog op de financiering van activiteiten ter bevordering van de Seksuele en Reproductieve Gezondheid en Rechten inclusief hiv/aids gelden de als bijlage bij dit besluit gevoegde beleidsregels.  
+Voor subsidieverlening op grond van artikel 4.8 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 met het oog op de financiering van activiteiten ter bevordering van de Seksuele en Reproductieve Gezondheid en Rechten inclusief hiv/aids gelden de als bijlage bij dit besluit gevoegde beleidsregels.  
 
 ### Artikel  2  
 
-Voor subsidieverlening in het kader SRGR Fonds ten behoeve van activiteiten, bedoeld in [artikel 4.8 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md), geldt voor activiteiten in de periode 1 januari 2013 tot en met 31 december 2015 een subsidieplafond van € 125 miljoen.  
+Voor subsidieverlening in het kader SRGR Fonds ten behoeve van activiteiten, bedoeld in artikel 4.8 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006, geldt voor activiteiten in de periode 1 januari 2013 tot en met 31 december 2015 een subsidieplafond van € 125 miljoen.  
 
 ### Artikel  3  
 
 1.  Aanvragen voor een subsidie in het kader van het SRGR Fonds worden ingediend aan de hand van het daartoe door de Staatssecretaris vastgestelde aanvraagformulier en voorzien van de op het aanvraagformulier gevraagde bescheiden. <sup> 1  Het aanvraagformulier zal twee weken na publicatie van het subsidiekader in de Staatscourant geplaatst worden op http://www.rijksoverheid.nl/onderwerpen/subsidies-voor-ontwikkelingssamenwerking-en-europa/subsidies-maatschappelijke-organisaties.  </sup>   
-2.  Aanvragen voor een subsidie in het kader van het SRGR Fonds voor activiteiten, bedoeld in [artikel 4.8 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md), worden ingediend vanaf het moment van inwerkingtreding van dit besluit tot en met 12 oktober 2012.   
+2.  Aanvragen voor een subsidie in het kader van het SRGR Fonds voor activiteiten, bedoeld in artikel 4.8 van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006, worden ingediend vanaf het moment van inwerkingtreding van dit besluit tot en met 12 oktober 2012.   
 
 ### Artikel  4  
 
-De verdeling van het subsidieplafond vindt plaats op grond van een beoordeling overeenkomstig de maatstaven die in de bijlage bij dit besluit zijn neergelegd, met dien verstande dat uitsluitend aanvragen die voldoen aan de maatstaven voor subsidieverlening in aanmerking kunnen komen, met inachtneming van de kwaliteit van de desbetreffende aanvragen en binnen het raam van een evenwichtige spreiding als bedoeld in [artikel 8, derde lid, sub d, van het Subsidiebesluit Ministerie van Buitenlandse Zaken](../../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md).  
+De verdeling van het subsidieplafond vindt plaats op grond van een beoordeling overeenkomstig de maatstaven die in de bijlage bij dit besluit zijn neergelegd, met dien verstande dat uitsluitend aanvragen die voldoen aan de maatstaven voor subsidieverlening in aanmerking kunnen komen, met inachtneming van de kwaliteit van de desbetreffende aanvragen en binnen het raam van een evenwichtige spreiding als bedoeld in artikel 8, derde lid, sub d, van het Subsidiebesluit Ministerie van Buitenlandse Zaken.  
 
 ### Artikel  5  
 
@@ -61,11 +61,11 @@ Tussen 2009 en 2011 hebben de Minister en de Staatssecretaris van Buitenlandse Z
 
 1. jongeren hebben meer kennis en zijn zo in staat gezondere keuzes te maken over hun seksualiteit;  
 
-2. een groeiend aantal mensen krijgt toegang tot aidsremmers, voorbehoedmiddelen en andere levensreddende middelen voor een goede seksuele gezondheid;  
+2. een groeiend aantal mensen krijgt toegang tot aidsremmers, voorbehoedmiddelen en andere levensreddende middelen voor een goede seksuele en reproductieve gezondheid;  
 
 3. publieke en private klinieken bieden betere seksuele en reproductieve zorg inclusief veilige abortus aan, waar een toenemend aantal mensen gebruik van maakt;  
 
-4. meer respect voor seksuele en reproductieve rechten van groepen aan wie deze rechten worden onthouden.   In de Kamerbrief wordt voorgenomen beleidsinzet nader beschreven. Het nieuwe fonds onderscheidt zich van eerdere fondsen doordat het vooral programma’s wil financieren gericht op onderdelen van het beleid waaraan in eerdere subsidierondes minder of onvoldoende aandacht is gegeven, zoals: (a) een geïntegreerde aanpak van SRGR en hiv/aids, (b) seksuele en reproductieve rechten van adolescenten en jongeren en (c) toegang tot middelen in nauwe samenhang met dienstverlening, obstakels aan de vraagzijde en omgevingsfactoren . Het grootste deel van het Fonds is bestemd voor programma’s die de resultaatgebieden in hun onderlinge samenhang benaderen, waarbij voor de uitvoering allianties gevormd moeten worden. Verwacht wordt dat juist allianties meerwaarde kunnen geven aan de uit te voeren geïntegreerde programma’s. <sup> 6  Finalization of The Netherlands Reproductive Health Commodities Strategy: Key issues affecting access to sexual and reproductive health commodities and options for future DGIS engagement. A report by Stefanie Meredith and Emma Back.  </sup> Ook geeft het Fonds ruimte voor het indienen van voorstellen die gericht zijn op specifieke subthema’s van SRGR. Een klein deel van het Fonds biedt de mogelijkheid voor het indienen van innovatieve ideeën op het terrein van SRGR, die vooralsnog niet getoetst zijn op haalbaarheid en/of impact. Gedacht zou kunnen worden aan experimentele benaderingen voor verandering van seksueel gedrag en het doorbreken van taboes.  
+4. meer respect voor seksuele en reproductieve rechten van mensen aan wie deze rechten worden onthouden.   In de Kamerbrief wordt voorgenomen beleidsinzet nader beschreven. Het nieuwe fonds onderscheidt zich van eerdere fondsen doordat het vooral programma’s wil financieren gericht op onderdelen van het beleid waaraan in eerdere subsidierondes minder of onvoldoende aandacht is gegeven, zoals: (a) een geïntegreerde aanpak van SRGR en hiv/aids, (b) seksuele en reproductieve rechten van adolescenten en jongeren en (c) toegang tot middelen in nauwe samenhang met dienstverlening, obstakels aan de vraagzijde en omgevingsfactoren . Het grootste deel van het Fonds is bestemd voor programma’s die de resultaatgebieden in hun onderlinge samenhang benaderen, waarbij voor de uitvoering allianties gevormd moeten worden. Verwacht wordt dat juist allianties meerwaarde kunnen geven aan de uit te voeren geïntegreerde programma’s. <sup> 6  Finalization of The Netherlands Reproductive Health Commodities Strategy: Key issues affecting access to sexual and reproductive health commodities and options for future DGIS engagement. A report by Stefanie Meredith and Emma Back.  </sup> Ook geeft het Fonds ruimte voor het indienen van voorstellen die gericht zijn op specifieke subthema’s van SRGR. Een klein deel van het Fonds biedt de mogelijkheid voor het indienen van innovatieve ideeën op het terrein van SRGR, die vooralsnog niet getoetst zijn op haalbaarheid en/of impact. Gedacht zou kunnen worden aan experimentele benaderingen voor verandering van seksueel gedrag en het doorbreken van taboes.  
 
 ### 2.2  
 
@@ -77,13 +77,13 @@ A. Loket A biedt ruimte aan geïntegreerde programma’s in meerdere landen. Voo
 
 B. Loket B is bedoeld voor financiering van activiteiten die zich richten op specifieke subthema’s: 
 
-1. Bevorderen van kwaliteit, en vergroten van capaciteit van professionele begeleiding bij zwangerschap, bevallen en abortus.  
+1. Bevorderen van kwaliteit en vergroten van capaciteit van professionele begeleiding rondom zwangerschap, bevalling en kraamtijd, evenals family-planning en abortus.  
 
 2. Verbeterde *comprehensive sexuality education* via het formele onderwijssysteem en daarbuiten met behulp van traditionele en/of moderne kanalen zoals sociale media en *m- en e-learning.*  
 
 3. Adresseren van gender- en sociaal-culturele aspecten van SRGR, met bijzondere aandacht voor de rol van jongens en mannen.  
 
-4. Verbeterde capaciteit en coördinatie voor de behandeling en preventie van blijvend letsel na bevalling, met name fistels.    
+4. Verbeterde capaciteit en coördinatie voor de behandeling en preventie van blijvend letsel na zwangerschap en bevalling, met name fistels.    
 
 C. Loket C is bedoeld om enkele innovatieve activiteiten te financieren. Het gaat hierbij om experimentele activiteiten op het brede terrein van SRGR, maar wel binnen de grenzen van de vier onder 2.1 genoemde resultaatgebieden.    
 
@@ -113,7 +113,7 @@ Organisaties die een subsidie aanvragen in het kader van het SRGR Fonds moeten a
 
 ####Beoordeling
 
-De bepalingen van de [Algemene Wet Bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), het [Subsidiebesluit Ministerie van Buitenlandse Zaken](../../../../../../../../../AMvB/subsidiebesluit/ministerie/van/buitenlandse/zaken/BWBR0018039/README.md) en de [Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) zijn onverkort van toepassing op de beoordeling van aanvragen en de uiteindelijke subsidieverstrekking. De aanvragen zullen worden beoordeeld met inachtneming van deze regelgeving en overeenkomstig de maatstaven die in deze beleidsregels zijn neergelegd. Daarnaast zijn de beleidsregels van toepassing zoals vastgesteld in het Standaardkader Ontwikkelingssamenwerking . Indien de beleidsregels voor het SRGR Fonds afwijken van het Standaardkader Ontwikkelingssamenwerking hebben de beleidsregels voor het SRGR Fonds voorrang. <sup> 7  Besluit van de Staatssecretaris van Buitenlandse Zaken van 1 december 2010, nr. DJZ/BR/0874-10, tot vaststelling van beleidsregels houdende algemene bepalingen voor subsidieverlening ten behoeve van activiteiten in het kader van ontwikkelingssamenwerking (Standaardkader ontwikkelingssamenwerking), Stcrt. 2010, nr. 19701.  </sup> De beoordeling van de aanvragen voor subsidiëring van activiteiten en de toekenning en verdeling van de daarvoor beschikbare middelen vindt plaats via een tender: van alle aanvragen wordt de kwaliteit beoordeeld volgens dezelfde criteria. Uitsluitend aanvragen die voldoen aan de maatstaven van deze beleidsregels kunnen voor toekenning in aanmerking komen. De mate waarin de aanvragen worden gehonoreerd is gerelateerd aan de kwaliteit van de programmavoorstellen van de desbetreffende aanvragen. Besluitvorming over de subsidieaanvragen door de Staatssecretaris vindt plaats uiterlijk op 16 november 2011.  
+De bepalingen van de Algemene Wet Bestuursrecht, het Subsidiebesluit Ministerie van Buitenlandse Zaken en de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 zijn onverkort van toepassing op de beoordeling van aanvragen en de uiteindelijke subsidieverstrekking. De aanvragen zullen worden beoordeeld met inachtneming van deze regelgeving en overeenkomstig de maatstaven die in deze beleidsregels zijn neergelegd. Daarnaast zijn de beleidsregels van toepassing zoals vastgesteld in het Standaardkader Ontwikkelingssamenwerking . Indien de beleidsregels voor het SRGR Fonds afwijken van het Standaardkader Ontwikkelingssamenwerking hebben de beleidsregels voor het SRGR Fonds voorrang. <sup> 7  Besluit van de Staatssecretaris van Buitenlandse Zaken van 1 december 2010, nr. DJZ/BR/0874-10, tot vaststelling van beleidsregels houdende algemene bepalingen voor subsidieverlening ten behoeve van activiteiten in het kader van ontwikkelingssamenwerking (Standaardkader ontwikkelingssamenwerking), Stcrt. 2010, nr. 19701.  </sup> De beoordeling van de aanvragen voor subsidiëring van activiteiten en de toekenning en verdeling van de daarvoor beschikbare middelen vindt plaats via een tender: van alle aanvragen wordt de kwaliteit beoordeeld volgens dezelfde criteria. Uitsluitend aanvragen die voldoen aan de maatstaven van deze beleidsregels kunnen voor toekenning in aanmerking komen. De mate waarin de aanvragen worden gehonoreerd is gerelateerd aan de kwaliteit van de programmavoorstellen van de desbetreffende aanvragen. Besluitvorming over de subsidieaanvragen door de Staatssecretaris vindt plaats uiterlijk op 23 november 2012.  
 
 ### 3.3  
 
@@ -137,7 +137,7 @@ In fase 2 wordt de kwaliteit van het programmavoorstel beoordeeld. Hierbij wordt
 
 ####Toets in fase 3
 
-De toets in fase 3 omvat een beoordeling van de kwaliteit van de organisatie aan de hand van een organisatietoets. Organisaties die in het kader van de beoordeling van een aanvraag om subsidie op grond van de [Subsidieregeling Ministerie van Buitenlandse Zaken 2006](../../../../../../../../../ministeriele-regeling/subsidieregeling/ministerie/van/buitenlandse/zaken/2006/BWBR0019366/README.md) niet eerder dan vier jaar voor inwerkingtreding van deze beleidsregels reeds een organisatietoets of een zogenaamde COCA-toets (*Checklist for Organisational Capacity Assessment)* met een voldoende resultaat hebben doorlopen worden voor de toepassing van deze beleidsregels geacht de organisatietoets met een voldoende resultaat te hebben afgesloten. Het voorgaande lijdt uitzondering indien feiten en omstandigheden sindsdien zodanig zijn gewijzigd dat de resultaten van de organisatie- of COCA-toets geheel of gedeeltelijk achterhaald zijn. Aanvragers zijn verplicht daarvan melding te doen. Aanvragers zonder recente en relevante organisatie- of COCA-toets die de programmatoets in fase 2 met een voldoende resultaat hebben afgesloten, zullen met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) door de Staatssecretaris in de gelegenheid worden gesteld hun aanvraag aan te vullen met de voor de organisatietoets vereiste gegevens. <sup> 8  Zie Annex 1 van dit document. De checklist bevat de neerslag van de toets, aan de hand van de daarop betrekking gegevens ten aanzien van de organisatie.  </sup> De organisatietoets dient met een voldoende resultaat te zijn afgesloten, maar speelt overigens geen rol bij de verdeling van de beschikbare middelen.  
+De toets in fase 3 omvat een beoordeling van de kwaliteit van de organisatie aan de hand van een organisatietoets. Organisaties die in het kader van de beoordeling van een aanvraag om subsidie op grond van de Subsidieregeling Ministerie van Buitenlandse Zaken 2006 niet eerder dan vier jaar voor inwerkingtreding van deze beleidsregels reeds een relevante organisatietoets of een zogenaamde COCA-toets (*Checklist for Organisational Capacity Assessment)* met een voldoende resultaat hebben doorlopen worden voor de toepassing van deze beleidsregels geacht de organisatietoets met een voldoende resultaat te hebben afgesloten. Het voorgaande lijdt uitzondering indien feiten en omstandigheden sindsdien zodanig zijn gewijzigd dat de resultaten van de organisatie- of COCA-toets geheel of gedeeltelijk achterhaald zijn. Aanvragers zijn verplicht daarvan melding te doen. Aanvragers zonder recente en relevante organisatie- of COCA-toets zullen zo spoedig mogelijk doch uiterlijk op 2 november 2012 met toepassing van artikel 4:5 van de Algemene wet bestuursrecht door de Staatssecretaris in de gelegenheid worden gesteld hun aanvraag aan te vullen met de voor de organisatietoets vereiste gegevens. <sup> 8  Zie Annex 1 van dit document. De checklist bevat de neerslag van de toets, aan de hand van de daarop betrekking gegevens ten aanzien van de organisatie.  </sup> De organisatietoets dient met een voldoende resultaat te zijn afgesloten, maar speelt overigens geen rol bij de verdeling van de beschikbare middelen.  
 
 ### 3.3.4  
 
@@ -146,7 +146,7 @@ De toets in fase 3 omvat een beoordeling van de kwaliteit van de organisatie aan
 Selectie van de voorstellen vindt plaats op basis van kwaliteit van het programmavoorstel, waarbij rekening gehouden wordt met een adequate spreiding over subthema’s en regio’s. Voor loket B komen alle thema’s aan bod, tenzij de kwaliteit van de voorstellen dat niet toelaat. Als de beschikbare middelen niet toereikend zijn om alle aanvragen die geselecteerd zijn volledig te honoreren, kan er een korting plaats vinden waarbij rekening wordt gehouden met de kwaliteit van de verschillende voorstellen. Indien de kwaliteit van de aanvragen die betrekking hebben op eenzelfde loket als onvoldoende wordt beoordeeld volgens de in dit beleidskader neergelegde maatstaven om het daarvoor beschikbare deelplafond geheel uit te putten, vindt verdeling van de resterende subsidiegelden plaats over de aanvragen die zijn geselecteerd voor subsidie bij de overige loketten voor zover zij wel in voldoende mate aan de criteria voldoen. Het subsidieplafond voor het SRGR Fonds bedraagt € 125 miljoen dat als volgt over de afzonderlijke thema’s is verdeeld:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | --- |
 | Loket A  | € 90 miljoen  |
 | Loket B  | € 30 miljoen  |
@@ -158,7 +158,7 @@ Het subsidieplafond is van toepassing onder voorbehoud dat de begrotingswetgever
 
 ####Aanvraagprocedure
 
-Aanvragen voor een subsidie in het kader van het SRGR Fonds worden ingediend met gebruikmaking van het daartoe door de Staatssecretaris vastgestelde en ter beschikking gestelde aanvraagstramien . Aanvragen dienen compleet en zonder voorbehoud te worden ingediend, rechtsgeldig ondertekend, in vijfvoud op papier en op een elektronische drager. Tevens moeten bij de aanvraag stukken worden ingediend die staan vermeld onder 3.5 (deze kunnen in tweevoud worden opgestuurd). Op de enveloppe moet duidelijk worden aangegeven voor welk loket het voorstel wordt ingediend. Het is niet mogelijk om een voorlopige aanvraag in te dienen. De aanvraag dient te worden opgesteld in de Nederlandse of Engelse taal. <sup> 9  Het aanvraagformulier wordt 2 weken na publicatie van het subsidiekader in de Staatscourant, geplaatst op http://www.rijksoverheid.nl/onderwerpen/subsidies-voor-ontwikkelingssamenwerking-en-europa/subsidies-maatschappelijke-organisaties.  </sup> Aanvragen voor subsidiëring van activiteiten dienen uiterlijk op vrijdag 12 oktober 2012, 16.30 uur (Nederlandse tijd) te zijn ontvangen op het Ministerie van Buitenlandse Zaken, DHM/MR, Bezuidenhoutseweg 67 te Den Haag. Mochten er vragen ontstaan naar aanleiding van dit document of andere zaken dan kunt u deze via e-mail indienen, waarna de vragen geanonimiseerd beantwoord worden, door middel van publicatie via internet. Vragen kunnen ingediend worden per e-mail op het adres: dso-tender@minbuza.nl. De antwoorden worden wekelijks bijgewerkt op internet. Verder zal begin september een consultatiebijeenkomst worden gehouden. Informatie over tijd en plaats zal op de website worden gepubliceerd.  
+Aanvragen voor een subsidie in het kader van het SRGR Fonds worden ingediend met gebruikmaking van het daartoe door de Staatssecretaris vastgestelde en ter beschikking gestelde aanvraagstramien . Aanvragen dienen compleet en zonder voorbehoud te worden ingediend, rechtsgeldig ondertekend, in vijfvoud op papier en op een elektronische drager. Tevens moeten bij de aanvraag stukken worden ingediend die staan vermeld onder 3.5 (deze kunnen in tweevoud worden opgestuurd). Op de enveloppe moet duidelijk worden aangegeven voor welk loket het voorstel wordt ingediend. Het is niet mogelijk om een voorlopige aanvraag in te dienen. De aanvraag dient te worden opgesteld in de Nederlandse of Engelse taal. <sup> 9  Het aanvraagformulier wordt 2 weken na publicatie van het subsidiekader in de Staatscourant, geplaatst op http://www.rijksoverheid.nl/onderwerpen/subsidies-voor-ontwikkelingssamenwerking-en-europa/subsidies-maatschappelijke-organisaties.  </sup> Aanvragen voor subsidiëring van activiteiten dienen uiterlijk op vrijdag 12 oktober 2012, 16.30 uur (Nederlandse tijd) te zijn ontvangen op het Ministerie van Buitenlandse Zaken, DSO/GA, Bezuidenhoutseweg 67 te Den Haag. De ten behoeve van de organisatietoets gevraagde aanvullende gegevens dienen uiterlijk op vrijdag 9 november 2012, 16.30 uur (Nederlandse tijd) te zijn ontvangen. Mochten er vragen ontstaan naar aanleiding van dit document of andere zaken dan kunt u deze via e-mail indienen, waarna de vragen geanonimiseerd beantwoord worden, door middel van publicatie via internet. Vragen kunnen ingediend worden per e-mail op het adres: dso-tender@minbuza.nl. De antwoorden worden wekelijks bijgewerkt op internet. Verder zal begin september een consultatiebijeenkomst worden gehouden. Informatie over tijd en plaats zal op de website worden gepubliceerd.  
 
 ### 3.5  
 
@@ -196,11 +196,11 @@ Voor de drempelcriteria geldt dat indien een aanvraag niet aan één of meerdere
 
 * jongeren hebben meer kennis en zijn zo in staat gezondere keuzes te maken over hun seksualiteit;  
 
-* een groeiend aantal mensen krijgt toegang tot aidsremmers, voorbehoedmiddelen en andere levensreddende middelen voor een goede seksuele gezondheid;  
+* een groeiend aantal mensen krijgt toegang tot aidsremmers, voorbehoedmiddelen en andere levensreddende middelen voor een goede seksuele en reproductieve gezondheid;  
 
 * publieke en private klinieken bieden betere seksuele en reproductieve zorg inclusief veilige abortus aan, waar een toenemend aantal mensen gebruik van maakt;  
 
-* meer respect voor seksuele en reproductieve rechten van groepen aan wie deze rechten worden onthouden.   Dit blijkt uit het voorstel en bijbehorende begroting en meerjarenraming. *Criterium D.8* Minimaal 50% van de aangevraagde middelen moet bestemd zijn voor activiteiten in de door Nederland geselecteerde partnerlanden. Dit blijkt uit het voorstel en bijbehorende begroting en meerjarenraming. *Criterium D.9* De aanvraag bevat zowel een monitoringskader dat aansluit bij het monitoringskader voor SRGR van het Ministerie van Buitenlandse Zaken als details over planning en inhoud van operationeel onderzoek. <sup> 10  Zie: http://www.rijksoverheid.nl/onderwerpen/subsidies-voor-ontwikkelingssamenwerking-en-europa/subsidies-maatschappelijke-organisaties.  </sup> *Criterium D.10* Voor aanvragende organisaties onder loket A geldt dat alleen een alliantie van nationale en/of internationale maatschappelijke organisaties, onderzoeksinstituten, VN instellingen en mogelijkerwijs een private onderneming (met of zonder winstoogmerk) voor financiering in aanmerking komt. Het penvoerderschap van de alliantie kan alleen bij een (internationale) maatschappelijke organisatie of onderzoeksinstituut liggen en dient te liggen bij de organisatie met het grootste aandeel in de aanvraag . Een schriftelijke en door alle participerende partijen ondertekende samenwerkingsovereenkomst moet de medewerking van partijen en de naleving van de gemaakte afspraken waarborgen. <sup> 11  Gezien het feit dat de aanvraag betrekking heeft op een alliantie van organisaties, kan de subsidie slechts aan één van de organisaties worden toegekend: de penvoerder. Deze subsidieontvanger is jegens de Staatssecretaris ten volle aansprakelijk voor de naleving van alle aan de subsidie verbonden verplichtingen, ook al strekt de subsidie mede tot bekostiging van de activiteiten van andere organisaties in de alliantie.  </sup> *Criterium D.11* Voor aanvragen die worden ingediend onder loket A geldt dat ze betrekking moeten hebben op ten minste twee van de vier onder 2.1 genoemde resultaatgebieden in meerdere landen.  
+* meer respect voor seksuele en reproductieve rechten van mensen aan wie deze rechten worden onthouden.   Dit blijkt uit het voorstel en bijbehorende begroting en meerjarenraming. *Criterium D.8* Minimaal 50% van de aangevraagde middelen moet bestemd zijn voor activiteiten in de door Nederland geselecteerde partnerlanden. Dit blijkt uit het voorstel en bijbehorende begroting en meerjarenraming. *Criterium D.9* De aanvraag bevat zowel een monitoringskader dat aansluit bij het monitoringskader voor SRGR van het Ministerie van Buitenlandse Zaken als details over planning en inhoud van operationeel onderzoek. <sup> 10  Zie: http://www.rijksoverheid.nl/onderwerpen/subsidies-voor-ontwikkelingssamenwerking-en-europa/subsidies-maatschappelijke-organisaties.  </sup> *Criterium D.10a* Voor aanvragende organisaties onder loket A geldt dat uitsluitend een alliantie van nationale en/of internationale maatschappelijke organisaties, onderzoeksinstituten, VN instellingen en mogelijkerwijs een private onderneming (met of zonder winstoogmerk) voor financiering in aanmerking komt. *D.10.b* Wanneer een voorstel namens een alliantie wordt ingediend, kan het penvoerderschap van de alliantie uitsluitend bij een (internationale) maatschappelijke organisatie of onderzoeksinstituut met het grootste aandeel in de aanvraag liggen . Een schriftelijke en door alle participerende partijen ondertekende samenwerkingsovereenkomst moet de medewerking van partijen en de naleving van de gemaakte afspraken waarborgen. <sup> 11  Gezien het feit dat de aanvraag betrekking heeft op een alliantie van organisaties, kan de subsidie slechts aan één van de organisaties worden toegekend: de penvoerder. Deze subsidieontvanger is jegens de Staatssecretaris ten volle aansprakelijk voor de naleving van alle aan de subsidie verbonden verplichtingen, ook al strekt de subsidie mede tot bekostiging van de activiteiten van andere organisaties in de alliantie.  </sup> *Criterium D.11* Voor aanvragen die worden ingediend onder loket A geldt dat ze betrekking moeten hebben op ten minste twee van de vier onder 2.1 genoemde resultaatgebieden in meerdere landen.  
 
 ### 4.2  
 
@@ -216,7 +216,7 @@ Bij het programmavoorstel wordt de kwaliteit van het programma beoordeeld. Dit g
 
 1. *Ontwikkelingsrelevantie:* de mate waarin de activiteiten bijdragen aan de doelen gesteld in de Kamerbrief van 7 mei jl.  
 
-2. *Relevantie van de gekozen landen:* de mate waarin de activiteiten die buiten de door Nederland geselecteerde partnerlanden plaats vinden, zich concentreren in die DAC-landen waar sprake is van hoge moedersterfte, hoge onvervulde behoefte aan voorbehoedmiddelen en/of van een relevante epidemiologische of sociaal-culturele achterstandssituatie voor kwetsbare groepen, jongeren inbegrepen. Deze landenkeuze moet worden toegelicht in de aanvraag.  
+2. *Relevantie van de gekozen landen:* de mate waarin de activiteiten zich concentreren in die DAC-landen waar sprake is van hoge moedersterfte, hoge onvervulde behoefte aan voorbehoedmiddelen en/of van een relevante epidemiologische of sociaal-culturele achterstandssituatie voor kwetsbare groepen, jongeren inbegrepen. Deze landenkeuze moet worden toegelicht in de aanvraag.  
 
 3. *Complementariteit:* de mate waarin de activiteiten zijn afgestemd op activiteiten die in het betreffende land worden ondernomen door Nederland of andere donoren (organisaties of landen).  
 
@@ -224,13 +224,9 @@ Bij het programmavoorstel wordt de kwaliteit van het programma beoordeeld. Dit g
 
 * *Innovatief karakter:* de mate waarin het voorstel (deels) vernieuwend is, in thematische zin, door verbeteringen in de gehanteerde interventiestrategie (verhoging van de effectiviteit van de programma’s) en door efficiencywinst in de uitvoering van de programma’s.  
 
-* *Operationeel onderzoek:* De mate waarin en de wijze waarop kennis wordt opgebouwd middels operationeel onderzoek en de wijze waarop resultaten worden gedocumenteerd en beschikbaar worden gesteld.  
+* *Operationeel onderzoek:* De mate waarin en de wijze waarop kennis wordt opgebouwd middels operationeel onderzoek en de wijze waarop resultaten worden gedocumenteerd en beschikbaar worden gesteld.   Voor aanvragen onder loket A gelden bovendien de volgende criteria: 
 
-* 
-
-1. De wijze waarop en de mate waarin de alliantiepartners toegevoegde waarde van hun samenwerking kunnen aantonen.  
-
-2. Waar aangetoonde meerwaarde bestaat, is het een pre als een jongerenorganisatie (waar mogelijk youth-led) deel uit maakt van de alliantie.     Voor aanvragen onder loket A gelden bovendien de volgende criteria: 
+*  *Samenstelling van de alliantie:*  Ten aanzien van alle alliantiepartners dient de toegevoegde waarde van hun samenwerking te kunnen worden aangetoond. Onverminderd de eerste volzin is het een pre als een jongerenorganisatie (waar mogelijk youth-led) deel uitmaakt van de alliantie.  
 
 * De mate waarin samenwerking tussen private en publieke zorg ten aanzien van SRGR wordt verbeterd.  
 
@@ -273,7 +269,7 @@ Ten aanzien van de technische kwaliteit van de programma’s, worden de ondersta
 <sup> 1  Mandatory field.  </sup>  Organisation: [Max.150 characters] <sup> 1  Mandatory field.  </sup> Organisation code: [Max. 10 characters] <sup> 1  Mandatory field.  </sup> Budget holder code: [Max. 3 characters] <sup> 1  Mandatory field.  </sup> Full address: Email/fax  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | --- | --- |
 | Director:  <sup> 1   Mandatory field.    </sup> | --- |
 | Contact person:  <sup> 1   Mandatory field.    </sup> | Position:  <sup> 1   Mandatory field.    </sup> |
@@ -323,7 +319,7 @@ b. Reasons <sup> 1  Mandatory field.  </sup> Maximum 250 characters
 <sup> 1  Mandatory field.  </sup>   
 
 | --- | --- |
-|:---|:---|
+|---|---|
 |  *Part of:*   |  *Sponsored by:*   |
 
 ### 1.3  
@@ -333,7 +329,7 @@ b. Reasons <sup> 1  Mandatory field.  </sup> Maximum 250 characters
 <sup> 1  Mandatory field.  </sup>   *Country code*   *Previous experience of implementing activities sponsored by the Dutch government*   
 
 | Activity code  | Area/Country code   | Period  |
-|:---|:---|:---|
+|---|---|---|
 | --- | --- | --- |
 | --- | --- | --- |
 | --- | --- | --- |
@@ -373,11 +369,11 @@ D – Highly Unsatisfactory   Give your reasons. Maximum 500 characters
 5. Assess how external factors and relations with relevant stakeholders influence, positively or otherwise, the realisation of outputs and contribute to the sustainability of the organisation’s activities.   References  
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Name  | Contact address  | Reasons  |
 
 | Name  | Contact address (in full)  | Reasons for and period of cooperation  |
-|:---|:---|:---|
+|---|---|---|
 | --- | --- | --- |
 | --- | --- | --- |
 | --- | --- | --- |
@@ -530,7 +526,7 @@ Specify source documents used and resource persons interviewed. Maximum 500 char
 ####Details of assessment
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | 12.1  | Date of assessment:  | [dd/mm/yyyy]  |
 | 12.2  | Assessment performed by:  | [Max. 50 characters]  |
 | 12.3  | Assessment approved by:  | [Max. 50 characters]  |

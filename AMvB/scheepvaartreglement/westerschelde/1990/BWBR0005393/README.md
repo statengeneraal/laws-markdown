@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 19 januari 1990, nr. S/J 30.056/90, Directoraat-Generaal Scheepvaart en Maritieme Zaken;
 
-Gelet op de [artikelen 4](../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) en [31, tiende lid, van de Scheepvaartverkeerswet](../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) (*Stb.* 1988, 352);
+Gelet op de artikelen 4 en 31, tiende lid, van de Scheepvaartverkeerswet (*Stb.* 1988, 352);
 
 De Raad van State gehoord (advies van 29 mei 1990, no. W09.90.0030);
 
@@ -436,7 +436,7 @@ b. gewoon licht, helder licht en krachtig licht:
 
 1. voor zeeschepen: lichten die op een afstand van onderscheidenlijk ten minste 1.000 meter, 2.000 meter en 3.000 meter zichtbaar zijn;  
 
-2. voor binnenschepen: de lichten die voldoen aan de eisen van [bijlage 1.5 van de Binnenvaartregeling](../../../../../ministeriele-regeling/binnenvaartregeling/BWBR0025958/README.md).      
+2. voor binnenschepen: de lichten die voldoen aan de eisen van bijlage 1.5 van de Binnenvaartregeling.      
 
 ### Artikel  23  
 
@@ -599,19 +599,19 @@ a. een rondom zichtbaar rood helder licht, daar waar dit het best kan worden gez
 b. een seinvlag B van het Internationaal seinboek.     
 6.  
 
-a. Een binnenschip geladen met bepaalde brandbare stoffen, bedoeld in het Reglement voor het vervoer van gevaarlijke stoffen over de Rijn (ADNR) nr. 7.1.5.0 of nr. 7.2.5.0, moet, behalve de lichten of dagmerken die worden voorgeschreven bij de overige bepalingen van dit reglement, voeren: 
+a. Een binnenschip geladen met bepaalde brandbare stoffen, bedoeld in de Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke goederen over de binnenwateren (ADN), nr. 7.1.5.0.1 of nr. 7.2.5.0.2, moet, behalve de lichten of dagmerken die worden voorgeschreven bij de overige bepalingen van dit reglement, voeren: 
 
 - bij nacht: één rondom zichtbaar blauw licht;  
 
 - bij dag: één blauwe kegel met de punt naar beneden.   In plaats één blauwe kegel, kan ook één blauwe kegel op het voor- en één op het achterschip op een hoogte van ten minste 3 meter boven het vlak der inzinkingsmerken worden gevoerd.  
 
-b. Een binnenschip dat bepaalde voor de gezondheid schadelijke stoffen vervoert, bedoeld in het ADNR, nr. 7.1.5.0 of nr. 7.2.5.0, moet, behalve de lichten of dagmerken die worden voorgeschreven bij de overige bepalingen van dit reglement, voeren: 
+b. Een binnenschip dat bepaalde voor de gezondheid schadelijke stoffen vervoert, bedoeld in het ADN, nr. 7.1.5.0.1 of nr. 7.2.5.0.2, moet, behalve de lichten of dagmerken die worden voorgeschreven bij de overige bepalingen van dit reglement, voeren: 
 
 - bij nacht: twee rondom zichtbare blauwe lichten;  
 
 - bij dag: twee blauwe kegels met de punt naar beneden; in een verticale lijn en met een onderlinge afstand van ongeveer 1 meter.   In plaats van twee blauwe kegels, kunnen ook telkens twee blauwe kegels op het voor- en op het achterschip worden gevoerd, waarvan de ondersten op een hoogte van ten minste 3 meter boven het vlak der inzinkingsmerken worden gevoerd.  
 
-c. Een binnenschip dat bepaalde ontplofbare stoffen vervoert, bedoeld in het ADNR, nr. 7.1.5.0 of nr. 7.2.5.0, moet, behalve de lichten of dagmerken die worden voorgeschreven bij de overige bepalingen van dit reglement, voeren: 
+c. Een binnenschip dat bepaalde ontplofbare stoffen vervoert, bedoeld in het ADN, nr. 7.1.5.0.1 of nr. 7.2.5.0.2, moet, behalve de lichten of dagmerken die worden voorgeschreven bij de overige bepalingen van dit reglement, voeren: 
 
 - bij nacht: drie rondom zichtbare blauwe lichten;  
 
@@ -921,7 +921,7 @@ Een schip gebruikt geen verkeerstekens om daaraan te meren of daaraan te verhale
 2.  Een schip neemt niet deel aan de scheepvaart indien door de wijze van belading de stabiliteit in gevaar wordt gebracht.   
 3.  onverminderd het bepaalde in het tweede lid, neemt een binnenschip niet deel aan de scheepvaart indien aan boord niet aanwezig zijn: 
 
-a. het certificaat van onderzoek overeenkomstig [artikel 7, tweede lid, van de Binnenvaartwet](../../../../../wet/binnenvaartwet/BWBR0023009/README.md);  
+a. het certificaat van onderzoek overeenkomstig artikel 7, tweede lid, van de Binnenvaartwet;  
 
 b. het stuwplan of de ladinglijst voor de actuele beladingstoestand;  
 
