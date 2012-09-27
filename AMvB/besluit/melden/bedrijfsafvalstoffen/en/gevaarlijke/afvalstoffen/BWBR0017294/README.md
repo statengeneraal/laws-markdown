@@ -11,8 +11,8 @@ Gelet op de [artikelen 10.41 tot en met 10.43](../../../../../../../../wet/wet/m
 De Raad van State gehoord (advies van 28 juni 2004, nr W08.04.0159/V);
 
 Gezien het nader rapport van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 1 oktober 2004, nr. MJZ 2004093834, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
-Hebben goedgevonden en verstaan:     
-### §  1  
+Hebben goedgevonden en verstaan:  
+###§ 1 
 
 ####Begripsbepalingen
 
@@ -36,11 +36,11 @@ g. *regelmatige afvalstoffen:* afvalstoffen die regelmatig tijdens hetzelfde pro
 
 h. *korrelvormige afvalstoffen:* afvalstoffen, niet zijnde monolithische afvalstoffen;  
 
-i. *monolithische afvalstoffen:* afvalstoffen die door menging met toeslagstoffen of andersoortige bewerkingen zijn omgevormd tot afvalstoffen met een beperkte uitloging en een duurzame vaste vorm;  
+i. *monolithische afvalstoffen:* afvalstoffen die door menging met toeslagstoffen of andersoortige bewerkingen zijn omgevormd tot afvalstoffen met een beperkte uitloging en een duurzame vaste vorm; 
 
-j. *schone kunststoffen:* kunststoffen of mengsels daarvan, mits deze niet zijn vermengd met andere afvalstoffen en zij overeenkomstig een specificatie zijn vervaardigd.    
+j.  *schone kunststoffen:* kunststoffen of mengsels daarvan, mits deze niet zijn vermengd met andere afvalstoffen en zij overeenkomstig een specificatie zijn vervaardigd.  
 
-### §  2  
+###§ 2 
 
 ####De ontvangstmelding
 
@@ -57,19 +57,21 @@ a. uitsluitend het opslaan, overslaan, verwerken of het verrichten van een combi
 
 b. uitsluitend het opslaan, overslaan, verwerken of het verrichten van een combinatie van deze handelingen met betrekking tot banden,  
 
-c. uitsluitend een combinatie van de handelingen van het opslaan, overslaan of verwerken met betrekking tot papier, textiel, ferro- of non-ferrometalen, schroot, schone kunststoffen, glas, banden of een combinatie van deze afvalstoffen,  
+c. uitsluitend het opslaan, overslaan, verwerken of het verrichten van een combinatie van deze handelingen met betrekking tot kabelschroot omhuld of geïsoleerd met kunststoffen, niet zijnde grondkabels, 
 
-d. uitsluitend het verrichten van de handelingen: het opslaan, overslaan, verwerken of een combinatie van deze handelingen met betrekking tot batterijen en accu’s als bedoeld in [artikel 1, onderdelen a en b, van de Regeling beheer batterijen en accu’s 2008](../../../../../../../../ministeriele-regeling/regeling/beheer/batterijen/en/accu's/2008/BWBR0024492/README.md), producten als bedoeld in [artikel 1, eerste lid, onder b, van de Regeling beheer elektrische en elektronische apparatuur](../../../../../../../../ministeriele-regeling/regeling/beheer/elektrische/en/elektronische/apparatuur/BWBR0017053/README.md), autowrakken als bedoeld in [artikel 1, onder b, van het Besluit beheer autowrakken](../../../../../../../../AMvB/besluit/beheer/autowrakken/BWBR0013707/README.md), of een combinatie daarvan, of,  
+d. uitsluitend een combinatie van de handelingen van het opslaan, overslaan of verwerken met betrekking tot papier, textiel, ferro- of non-ferrometalen, schroot, schone kunststoffen, glas, banden, kabelschroot omhuld of geïsoleerd met kunststoffen, niet zijnde grondkabels, of een combinatie van deze afvalstoffen,  
 
-e. uitsluitend het verrichten van een combinatie van de handelingen, bedoeld in de onderdelen a tot en met d;    
+e. uitsluitend het verrichten van de handelingen: het opslaan, overslaan, verwerken of een combinatie van deze handelingen met betrekking tot afgedankte batterijen of accu’s als bedoeld in de [Regeling beheer batterijen en accu’s 2008](../../../../../../../../ministeriele-regeling/regeling/beheer/batterijen/en/accu's/2008/BWBR0024492/README.md), afgedankte elektrische en elektronische apparatuur als bedoeld in de [Regeling beheer elektrische en elektronische apparatuur](../../../../../../../../ministeriele-regeling/regeling/beheer/elektrische/en/elektronische/apparatuur/BWBR0017053/README.md), autowrakken als bedoeld in het [Besluit beheer autowrakken](../../../../../../../../AMvB/besluit/beheer/autowrakken/BWBR0013707/README.md), of een combinatie daarvan, indien voor de desbetreffende batterijen of accu’s, elektrische en elektronische apparatuur of autowrakken verslag wordt gedaan als bedoeld in respectievelijk [artikel 13, eerste lid, van de Regeling beheer batterijen en accu’s 2008](../../../../../../../../ministeriele-regeling/regeling/beheer/batterijen/en/accu's/2008/BWBR0024492/README.md), [artikel 16 van de Regeling beheer elektrische en elektronische apparatuur](../../../../../../../../ministeriele-regeling/regeling/beheer/elektrische/en/elektronische/apparatuur/BWBR0017053/README.md) of [artikel 15, eerste lid, van het Besluit beheer autowrakken](../../../../../../../../AMvB/besluit/beheer/autowrakken/BWBR0013707/README.md), of,  
 
-2°. voor het opslaan van verontreinigde grond, waaronder begrepen verontreinigde baggerspecie, die van buiten de inrichting afkomstig is, met een opslagcapaciteit ten aanzien daarvan van 50 m <sup>3</sup> of meer;  
+f. uitsluitend het verrichten van een combinatie van de handelingen, bedoeld in de onderdelen a tot en met e;   
 
-3°. voor het overslaan van huishoudelijke afvalstoffen of bedrijfsafvalstoffen, die van buiten de inrichting afkomstig zijn, met een opslagcapaciteit ten aanzien daarvan van 50 m <sup>3</sup> of meer;  
+2°. voor het opslaan van verontreinigde grond, waaronder begrepen verontreinigde baggerspecie, die van buiten de inrichting afkomstig is, met een opslagcapaciteit ten aanzien daarvan van 50 m<sup>3</sup> of meer;  
 
-4°. voor het sorteren van bouw- en sloopafvalstoffen met een opslagcapaciteit van meer dan 50 m <sup>3</sup>, of  
+3°. voor het overslaan van huishoudelijke afvalstoffen of bedrijfsafvalstoffen, die van buiten de inrichting afkomstig zijn, met een opslagcapaciteit ten aanzien daarvan van 50 m<sup>3</sup> of meer;  
 
-5°. voor het composteren van groenafval met een verwerkingscapaciteit van meer dan 50 m <sup>3</sup> per jaar, en    
+4°. voor het sorteren van bouw- en sloopafvalstoffen met een opslagcapaciteit van meer dan 50 m<sup>3</sup>, of  
+
+5°. voor het composteren van groenafval met een verwerkingscapaciteit van meer dan 50 m<sup>3</sup> per jaar, en   
 
 b. de afgifte, bedoeld onder a, geen betrekking heeft op bedrijfsafvalstoffen of gevaarlijke afvalstoffen die behoren tot een in bijlage I aangegeven categorie.     
 3.  Een persoon als bedoeld in [artikel 10.40, eerste lid, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) voor wie de in dat lid gestelde verplichting ingevolge dit besluit niet geldt, registreert de in dat lid bedoelde gegevens op een zodanige wijze dat: 
@@ -77,7 +79,7 @@ b. de afgifte, bedoeld onder a, geen betrekking heeft op bedrijfsafvalstoffen of
 a. controle daarvan door degenen die belast zijn met het toezicht op de naleving van de wet binnen een redelijke termijn mogelijk is, en  
 
 b. deze gedurende ten minste vijf jaar zijn te raadplegen.     
-4.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de wijze van registreren.   
+4.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de wijze van registreren.  
 
 ### Artikel  3  
 
@@ -94,14 +96,14 @@ b. door inzameling verkregen afvalstoffen die behoren tot een door Onze Minister
 a. binnen vier weken na afloop van de maand waarin een afgifte heeft plaatsgevonden, en  
 
 b. langs elektronische weg of schriftelijk.     
-6.  Degene die een melding als bedoeld in [artikel 10.40, eerste lid, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) doet, bewaart gedurende ten minste vijf jaar de begeleidingsbrieven of de elektronische versie hiervan.   
-7.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de ingevolge [artikel 10.40, eerste lid, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en dit besluit te melden gegevens en de wijze waarop de melding wordt gedaan.   
+6.  Degene die een melding als bedoeld in [artikel 10.40, eerste lid, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) doet, bewaart gedurende ten minste vijf jaar de begeleidingsbrieven of de elektronische versie hiervan.  
+7.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de ingevolge [artikel 10.40, eerste lid, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en dit besluit te melden gegevens en de wijze waarop de melding wordt gedaan.  
 
 ### Artikel  4  
 
-In de categorieën van gevallen waarin de ingevolge [artikel 10.40, eerste lid, aanhef en onder b of c, voorzover het betreft de gebruikelijke benaming, en d tot en met f, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en artikel 3 te melden gegevens reeds aan de meldingsinstantie zijn gemeld en deze gegevens niet zijn gewijzigd, wordt, zolang het voor de ontvangst van de afvalstoffen verstrekte afvalstroomnummer niet is vervallen, aan [artikel 10.40, eerste lid, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) uitvoering gegeven door het melden van het afvalstroomnummer, het aantal afgiften en de totale hoeveelheid afvalstoffen die met het afvalstroomnummer in de voorafgaande maand in ontvangst zijn genomen.  
+In de categorieën van gevallen waarin de ingevolge [artikel 10.40, eerste lid, aanhef en onder b of c, voorzover het betreft de gebruikelijke benaming, en d tot en met f, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en artikel 3 te melden gegevens reeds aan de meldingsinstantie zijn gemeld en deze gegevens niet zijn gewijzigd, wordt, zolang het voor de ontvangst van de afvalstoffen verstrekte afvalstroomnummer niet is vervallen, aan [artikel 10.40, eerste lid, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) uitvoering gegeven door het melden van het afvalstroomnummer, het aantal afgiften en de totale hoeveelheid afvalstoffen die met het afvalstroomnummer in de voorafgaande maand in ontvangst zijn genomen. 
 
-### §  3  
+###§ 3 
 
 ####De afgiftemelding
 
@@ -109,23 +111,23 @@ In de categorieën van gevallen waarin de ingevolge [artikel 10.40, eerste lid, 
 
 1.  De in [artikel 10.38, derde lid, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) gestelde verplichting geldt niet voor andere dan de ingevolge het tweede lid aangewezen categorieën van gevallen.   
 2.  Als categorieën van gevallen waarin de in [artikel 10.38, derde lid, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) gestelde verplichting geldt, worden aangewezen de categorieën van gevallen waarin de afgifte geschiedt door een persoon als bedoeld in artikel 2, tweede lid, onder a, aan een persoon als bedoeld in [artikel 10.37, tweede lid, onder a of b, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), niet zijnde een persoon als bedoeld in artikel 2, tweede lid, onder a, met dien verstande dat een melding als bedoeld in de [artikelen 32](../../../../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) en [42 van het Besluit bodemkwaliteit](../../../../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) en [artikel 2a van het Besluit gebruik meststoffen](../../../../../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md) wordt gelijkgesteld met het voldoen aan de in [artikel 10.38, derde lid, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) gestelde verplichting.   
-3.  Bij regeling van Onze Minister kunnen categorieën van inrichtingen worden aangewezen die zijn vrijgesteld van de verplichting, bedoeld in het tweede lid.   
+3.  Bij regeling van Onze Minister kunnen categorieën van inrichtingen worden aangewezen die zijn vrijgesteld van de verplichting, bedoeld in het tweede lid. 
 
 ### Artikel  6  
 
 1.  Aan [artikel 10.38, derde lid, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) in verbinding met het eerste lid, onder a, van dat artikel wordt uitvoering gegeven door het melden van het aantal afgiften dat in de voorafgaande maand heeft plaatsgevonden.   
 2.  Aan [artikel 10.38, derde lid, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) in verbinding met het eerste lid, onder c, van dat artikel wordt, voorzover het betreft de hoeveelheid, uitvoering gegeven door het melden van de totale hoeveelheid afvalstoffen waarvan de afgifte in de voorafgaande maand heeft plaatsgevonden.   
 3.  Degene die een melding als bedoeld in [artikel 10.38, derde lid, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) doet, meldt daarbij tevens de van toepassing zijnde code van de afvalstoffenlijst.   
-4.  Artikel 3, vijfde en zevende lid, is van overeenkomstige toepassing.   
+4.  Artikel 3, vijfde en zevende lid, is van overeenkomstige toepassing.  
 
 ### Artikel  7  
 
 1.  [Artikel 10.38, derde lid, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is van overeenkomstige toepassing in de categorieën van gevallen waarin een persoon als bedoeld in artikel 2, tweede lid, onder a, zich van stoffen, preparaten of producten, niet zijnde bedrijfsafvalstoffen of gevaarlijke afvalstoffen, ontdoet door afgifte aan een ander persoon of toepast binnen of buiten de eigen inrichting.   
 2.  In de categorieën van gevallen, bedoeld in het eerste lid, zijn de artikelen 3, vijfde lid, en 6, eerste tot en met derde lid, van overeenkomstige toepassing.   
-3.  Voor zover geen code van de afvalstoffenlijst van toepassing is wordt aan artikel 6, derde lid, uitvoering gegeven door melding van de van toepassing zijnde code van de gecombineerde nomenclatuur, bedoeld in artikel 1, eerste lid, van verordening nr. 2658/87/EEG van de Raad van de Europese Gemeenschappen van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG L 256).   
-4.  Dit artikel berust op [artikel 9.2.2.1 van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
+3.  Voor zover geen code van de afvalstoffenlijst van toepassing is wordt aan artikel 6, derde lid, uitvoering gegeven door melding van de van toepassing zijnde code van de gecombineerde nomenclatuur, bedoeld in artikel 1, eerste lid, van verordening nr. 2658/87/EEG van de Raad van de Europese Gemeenschappen van 23 juli 1987 met betrekking tot de tarief- en statistieknomenclatuur en het gemeenschappelijk douanetarief (PbEG L 256).  
+4. Dit artikel berust op [artikel 9.2.2.1 van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).
 
-### §  4  
+###§ 4 
 
 ####Het afvalstroomnummer
 
@@ -137,7 +139,7 @@ a. indien de afvalstoffen aan hem worden afgegeven door een persoon die krachten
 
 b. in andere gevallen: aan degene die zich van de afvalstoffen ontdoet.     
 2.  De in het eerste lid gestelde verplichting geldt niet voor een in de aanhef van dat lid bedoelde persoon, in de categorieën van gevallen waarin het de afgifte van door route-inzameling verkregen bedrijfsafvalstoffen of gevaarlijke afvalstoffen die behoren tot een in bijlage II aangegeven categorie, of de afgifte van door inzameling verkregen afvalstoffen als bedoeld in artikel 3, derde lid, onder b, betreft en hij voorafgaand aan de route-inzameling onderscheidenlijk de inzameling een afvalstroomnummer aan degene die zodanige afvalstoffen inzamelt, heeft verstrekt.   
-3.  Degene die door een inzameling als bedoeld in het tweede lid bedrijfsafvalstoffen of gevaarlijke afvalstoffen in ontvangst neemt en aan wie met toepassing van het tweede lid een afvalstroomnummer is verstrekt, deelt dat afvalstroomnummer mede aan degene die zich van de afvalstoffen ontdoet.   
+3.  Degene die door een inzameling als bedoeld in het tweede lid bedrijfsafvalstoffen of gevaarlijke afvalstoffen in ontvangst neemt en aan wie met toepassing van het tweede lid een afvalstroomnummer is verstrekt, deelt dat afvalstroomnummer mede aan degene die zich van de afvalstoffen ontdoet.  
 
 ### Artikel  9  
 
@@ -147,7 +149,7 @@ a. een voor de persoon die de afvalstoffen in ontvangst neemt, uniek nummer dat 
 
 b. een nummer dat de persoon die de afvalstoffen in ontvangst neemt, vaststelt.     
 2.  De meldingsinstantie verstrekt op verzoek van een persoon die krachtens artikel 2 verplicht is om melding te maken van aan hem afgegeven afvalstoffen onverwijld een nummer als bedoeld in het eerste lid, onder a. De meldingsinstantie kan het nummer intrekken als de persoon ingevolge artikel 2 niet langer verplicht is tot het melden van de aan hem afgegeven afvalstoffen.   
-3.  Een afvalstroomnummer vervalt indien gedurende vijf jaar geen melding van de ontvangst van afvalstoffen met gebruikmaking van dat nummer heeft plaatsgevonden.   
+3.  Een afvalstroomnummer vervalt indien gedurende vijf jaar geen melding van de ontvangst van afvalstoffen met gebruikmaking van dat nummer heeft plaatsgevonden.  
 
 ### §  5  
 
@@ -178,9 +180,9 @@ a. gegevens over de spreiding in de samenstelling van de afzonderlijke afvalstof
 
 b. gegevens over de spreiding en variabiliteit van de specifieke eigenschappen van de afvalstoffen;  
 
-c. indien de afvalstoffen tijdens hetzelfde proces in verschillende installaties ontstaan: het aantal keren dat per installatie analyses als bedoeld in het derde lid zijn uitgevoerd.     
+c. indien de afvalstoffen tijdens hetzelfde proces in verschillende installaties ontstaan: het aantal keren dat per installatie analyses als bedoeld in het derde lid zijn uitgevoerd.    
 5.  Degene die ten behoeve van het verstrekken van een omschrijving gebruik maakt van schriftelijk of elektronisch vastgelegde gegevens omtrent aard, eigenschappen en samenstelling van de afvalstoffen, bewaart deze gegevens gedurende ten minste vijf jaar na de laatste afgifte van afvalstoffen waarop die omschrijving betrekking heeft.   
-6.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot het verstrekken van een omschrijving.   
+6.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot het verstrekken van een omschrijving.  
 
 ### Artikel  10a  
 
@@ -207,9 +209,9 @@ g. afvalstoffen, behorende tot een categorie die krachtens het vijfde lid, onder
 a. worden nadere regels gesteld omtrent de monsterneming, de analyse van monsters en de registratie, bedoeld in het eerste lid;  
 
 b. kunnen categorieën van afvalstoffen worden aangewezen die in ieder geval worden aangemerkt als categorieën van afvalstoffen waarvan het uitlooggedrag en de samenstelling algemeen bekend zijn of ten aanzien waarvan het technisch niet mogelijk is deze te testen of te onderwerpen aan passende testmethoden.     
-6.  Het is verboden te doen handelen in strijd met het derde en vierde lid.   
+6.  Het is verboden te doen handelen in strijd met het derde en vierde lid.  
 
-### §  6  
+###§ 6 
 
 ####De begeleidingsbrief
 
@@ -229,14 +231,14 @@ e. ingezamelde huishoudelijke afvalstoffen waarvan kan worden aangetoond dat dez
 
 f. bedrijfsafvalstoffen naar soort en aard vergelijkbaar met huishoudelijke afvalstoffen waarvan kan worden aangetoond dat deze rechtstreeks worden vervoerd naar een inrichting waar die bedrijfsafvalstoffen uitsluitend worden overgeslagen;  
 
-g. veegvuil, marktafval, drijfafval en RKG-slib waarvan kan worden aangetoond dat deze rechtstreeks worden vervoerd naar een inrichting waar die bedrijfsafvalstoffen uitsluitend worden overgeslagen.     
-2.  De in [artikel 10.39, eerste lid, onder b, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) gestelde verplichting geldt evenmin in de categorieën van gevallen waarin afvalstoffen worden afgegeven aan een persoon die de afvalstoffen door route-inzameling verkrijgt of door inzameling verkrijgt ingeval de afvalstoffen behoren tot een krachtens artikel 3, derde lid, onder b, aangewezen categorie, en het op de afvalstoffen betrekking hebbende afvalstroomnummer met toepassing van artikel 8, derde lid, aan hem is verstrekt.   
+g. veegvuil, marktafval, drijfafval en RKG-slib waarvan kan worden aangetoond dat deze rechtstreeks worden vervoerd naar een inrichting waar die bedrijfsafvalstoffen uitsluitend worden overgeslagen.    
+2.  De in [artikel 10.39, eerste lid, onder b, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) gestelde verplichting geldt evenmin in de categorieën van gevallen waarin afvalstoffen worden afgegeven aan een persoon die de afvalstoffen door route-inzameling verkrijgt of door inzameling verkrijgt ingeval de afvalstoffen behoren tot een krachtens artikel 3, derde lid, onder b, aangewezen categorie, en het op de afvalstoffen betrekking hebbende afvalstroomnummer met toepassing van artikel 8, derde lid, aan hem is verstrekt.  
 
 ### Artikel  12  
 
 1.  Onverminderd het tweede lid wordt voor de begeleidingsbrief, bedoeld in [artikel 10.39, eerste lid, onder b, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) gebruik gemaakt van een bij regeling van Onze Minister vastgesteld formulier dat voor de daarbij aangegeven categorieën van gevallen verschillend kan worden vastgesteld.   
 2.  Onze Minister kan toestemming geven om gebruik te maken van een andere gegevensdrager dan een formulier als bedoeld in het eerste lid.   
-3.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de toepassing van het eerste lid. Tevens kunnen daarbij categorieën van gevallen worden aangewezen waarvoor de verplichting, bedoeld in het eerste lid, niet geldt.   
+3.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de toepassing van het eerste lid. Tevens kunnen daarbij categorieën van gevallen worden aangewezen waarvoor de verplichting, bedoeld in het eerste lid, niet geldt.  
 
 ### §  6a  
 
@@ -255,7 +257,7 @@ g. veegvuil, marktafval, drijfafval en RKG-slib waarvan kan worden aangetoond da
 *SIKB:* Stichting Kwaliteitsborging Infrastructuur Bodembeheer te Gouda;  
 
 *vestigingsplaats:* adres en woonplaats van een persoon of adres en woonplaats waar een instelling zetelt.     
-2.  Deze paragraaf is uitsluitend van toepassing op monsterneming die wordt uitgevoerd ter bepaling van de in de omschrijving op te nemen gegevens over de samenstelling en het uitlooggedrag van afvalstoffen.   
+2.  Deze paragraaf is uitsluitend van toepassing op monsterneming die wordt uitgevoerd ter bepaling van de in de omschrijving op te nemen gegevens over de samenstelling en het uitlooggedrag van afvalstoffen.  
 
 ### Artikel  12b  
 
@@ -263,7 +265,7 @@ g. veegvuil, marktafval, drijfafval en RKG-slib waarvan kan worden aangetoond da
 2.  De beschikking vermeldt ten minste de naam van de persoon of instelling, de vestigingsplaats en, indien van toepassing, de naam van de natuurlijk persoon die voor de erkende persoon of instelling de monsterneming van afvalstoffen uitvoert.   
 3.  Een erkenning wordt voor onbepaalde tijd verleend.   
 4.  Onze Minister stelt een lijst met erkende personen en instellingen beschikbaar via een bij regeling van Onze Minister aangewezen website.   
-5.  Een erkenning is niet overdraagbaar.   
+5.  Een erkenning is niet overdraagbaar.  
 
 ### Artikel  12c  
 
@@ -277,7 +279,7 @@ b. het certificaat voor de monsterneming;
 c. de vestigingsplaats van de persoon of instelling;  
 
 d. indien van toepassing, de naam en een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), die niet ouder is dan zes maanden, van de natuurlijk persoon, bedoeld in artikel 12b, tweede lid.     
-3.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de in het tweede lid bedoelde gegevens.   
+3.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de in het tweede lid bedoelde gegevens.  
 
 ### Artikel  12d  
 
@@ -288,37 +290,37 @@ a. niet in staat van faillissement of surseance van betaling verkeert en
 
 b. heeft voldaan aan artikel 12c, tweede lid.     
 3.  De erkenning wordt gebaseerd op een certificaat.   
-4.  Een erkenning kan geheel of gedeeltelijk worden geweigerd indien de desbetreffende persoon of instelling of een bestuurder van deze persoon of instelling, in de drie jaar voorafgaande aan de aanvraag een wettelijk voorschrift heeft overtreden dat is gesteld bij of krachtens deze paragraaf of [artikel 225 van het Wetboek van Strafrecht](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover de overtreding verband houdt met het nemen van monsters van afvalstoffen.   
+4.  Een erkenning kan geheel of gedeeltelijk worden geweigerd indien de desbetreffende persoon of instelling of een bestuurder van deze persoon of instelling, in de drie jaar voorafgaande aan de aanvraag een wettelijk voorschrift heeft overtreden dat is gesteld bij of krachtens deze paragraaf of [artikel 225 van het Wetboek van Strafrecht](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover de overtreding verband houdt met het nemen van monsters van afvalstoffen.  
 
 ### Artikel  12e  
 
 1.  Op verzoek van de erkende persoon of instelling kan de erkenning worden gewijzigd. Artikel 12b, vierde lid, is van overeenkomstige toepassing.   
 2.  Het verzoek wordt, door middel van een bij regeling van Onze Minister vastgesteld formulier, ingediend bij Onze Minister. Artikel 12c, tweede en derde lid, is van overeenkomstige toepassing.   
-3.  Onze Minister beslist binnen vier weken na de datum van ontvangst van het verzoek. Artikel 12d, tweede en vierde lid, is van overeenkomstige toepassing.   
+3.  Onze Minister beslist binnen vier weken na de datum van ontvangst van het verzoek. Artikel 12d, tweede en vierde lid, is van overeenkomstige toepassing.  
 
 ### Artikel  12f  
 
 1.  Met een verklaring omtrent het gedrag als bedoeld in artikel 12c, tweede lid, onder d, wordt gelijkgesteld een verklaring omtrent het gedrag afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van onderzoekingen of documenten die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de nationale onderzoekingen of documenten wordt geboden, mits die verklaring niet ouder is dan zes maanden.   
 2.  Met een certificaat wordt gelijkgesteld een certificaat afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van onderzoekingen of documenten die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de nationale onderzoekingen of documenten wordt geboden.   
-3.  Met een erkenning wordt gelijkgesteld een erkenning of vergelijkbare beschikking afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van voorwaarden die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de in artikel 12c, tweede lid, gestelde eisen wordt geboden. De artikelen 12b, vierde lid, en 12l zijn van overeenkomstige toepassing.   
+3.  Met een erkenning wordt gelijkgesteld een erkenning of vergelijkbare beschikking afgegeven door een daartoe bevoegde instantie in een andere lidstaat van de Europese Unie dan wel in een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend verdrag dat Nederland bindt, op basis van voorwaarden die een beschermingsniveau bieden dat ten minste gelijkwaardig is aan het beschermingsniveau dat met de in artikel 12c, tweede lid, gestelde eisen wordt geboden. De artikelen 12b, vierde lid, en 12l zijn van overeenkomstige toepassing.  
 
 ### Artikel  12g  
 
 1.  Het is verboden monsters van afvalstoffen te nemen zonder daartoe verleende erkenning.   
 2.  De monsters kunnen worden genomen door een natuurlijk persoon die staat vermeld op de erkenning.   
-3.  Het bepaalde in het eerste en tweede lid geldt niet voor zover de werkzaamheid wordt uitgevoerd voor het verkrijgen van een certificaat.   
+3.  Het bepaalde in het eerste en tweede lid geldt niet voor zover de werkzaamheid wordt uitgevoerd voor het verkrijgen van een certificaat.  
 
 ### Artikel  12h  
 
-Het is een persoon of instelling verboden een resultaat van een monsterneming van afvalstoffen te gebruiken of aan een ander ter beschikking te stellen indien hij weet of redelijkerwijs had kunnen vermoeden dat dit resultaat, gelet op het doel waarvoor dit wordt gebruikt, geen betrouwbaar beeld verschaft van de eigenschappen, aard, hoedanigheid of samenstelling van de afvalstof.  
+Het is een persoon of instelling verboden een resultaat van een monsterneming van afvalstoffen te gebruiken of aan een ander ter beschikking te stellen indien hij weet of redelijkerwijs had kunnen vermoeden dat dit resultaat, gelet op het doel waarvoor dit wordt gebruikt, geen betrouwbaar beeld verschaft van de eigenschappen, aard, hoedanigheid of samenstelling van de afvalstof. 
 
 ### Artikel  12i  
 
-De houder van een erkenning meldt onverwijld aan een door Onze Minister aangewezen instantie zijn door de rechtbank uitgesproken faillissement of surseance van betaling. De melding geschiedt door middel van een bij regeling van Onze Minister vastgesteld formulier.  
+De houder van een erkenning meldt onverwijld aan een door Onze Minister aangewezen instantie zijn door de rechtbank uitgesproken faillissement of surseance van betaling. De melding geschiedt door middel van een bij regeling van Onze Minister vastgesteld formulier. 
 
 ### Artikel  12j  
 
-Een certificeringsinstelling meldt een schorsing of intrekking van een certificaat voor de monsterneming onverwijld aan een door Onze Minister aangewezen instantie. De melding geschiedt door middel van een bij regeling van Onze Minister vastgesteld formulier.  
+Een certificeringsinstelling meldt een schorsing of intrekking van een certificaat voor de monsterneming onverwijld aan een door Onze Minister aangewezen instantie. De melding geschiedt door middel van een bij regeling van Onze Minister vastgesteld formulier. 
 
 ### Artikel  12k  
 
@@ -338,43 +340,43 @@ e. indien de erkende persoon of instelling of de natuurlijk persoon, bedoeld in 
 a. het bewijs van certificatie voor de desbetreffende werkzaamheid is geschorst, of  
 
 b. sprake is van een overtreding als bedoeld in het eerste lid, onder e.     
-3.  In geval van aanwijzingen dat er sprake is van een overtreding als bedoeld in het eerste lid, onder e, kan Onze Minister de desbetreffende persoon of instelling verzoeken binnen een redelijke termijn een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) over te leggen, die niet ouder is dan twee maanden. Indien de desbetreffende persoon of instelling niet binnen de gestelde termijn aan dit verzoek voldoet of kan voldoen, kan Onze Minister de erkenning voor een periode van ten hoogste twee jaar geheel of gedeeltelijk schorsen.   
+3.  In geval van aanwijzingen dat er sprake is van een overtreding als bedoeld in het eerste lid, onder e, kan Onze Minister de desbetreffende persoon of instelling verzoeken binnen een redelijke termijn een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) over te leggen, die niet ouder is dan twee maanden. Indien de desbetreffende persoon of instelling niet binnen de gestelde termijn aan dit verzoek voldoet of kan voldoen, kan Onze Minister de erkenning voor een periode van ten hoogste twee jaar geheel of gedeeltelijk schorsen.  
 
 ### Artikel  12l  
 
-Onze Minister verwerkt de schorsing en intrekking van de erkenning in de lijst, bedoeld in artikel 12b, vierde lid.  
+Onze Minister verwerkt de schorsing en intrekking van de erkenning in de lijst, bedoeld in artikel 12b, vierde lid. 
 
-### §  7  
+###§ 7 
 
 ####Slotbepalingen
 
 ### Artikel  13  
 
-Indien een melding als bedoeld in [artikel 10.38, derde lid](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), of [10.40, eerste lid, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) betrekking heeft op een afgifte die heeft plaatsgevonden op of na de inwerkingtreding van dit besluit en vóór de eerste dag van de maand volgende op die inwerkingtreding, geschiedt, in afwijking van artikel 6, vierde lid, dan wel artikel 3, vijfde lid, aanhef en onder a, die melding uiterlijk tien weken na de datum van inwerkingtreding van dit besluit.  
+Indien een melding als bedoeld in [artikel 10.38, derde lid](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), of [10.40, eerste lid, van de wet](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) betrekking heeft op een afgifte die heeft plaatsgevonden op of na de inwerkingtreding van dit besluit en vóór de eerste dag van de maand volgende op die inwerkingtreding, geschiedt, in afwijking van artikel 6, vierde lid, dan wel artikel 3, vijfde lid, aanhef en onder a, die melding uiterlijk tien weken na de datum van inwerkingtreding van dit besluit. 
 
 ### Artikel  14  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  15  
 
-Dit besluit wordt aangehaald als: Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen.  
+Dit besluit wordt aangehaald als: Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen. 
 
-Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
+Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.
 
-'s-Gravenhage 
-7 oktober 2004  
-Beatrix  
+'s-Gravenhage
+7 oktober 2004
+Beatrix
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer , 
-P. L. B. A. van Geel   
+P. L. B. A. vanGeel
 
-de *zesentwintigste* oktober 2004 
+de *zesentwintigste* oktober 2004
 
-De Minister van Justitie , 
-J. P. H. Donner    
+De Minister van Justitie ,
+J. P. H.Donner
 
-### bijlage  I  
+###bijlage I 
 
 ####, behorende bij artikel 2, tweede lid, onderdeel b 
 
@@ -394,9 +396,9 @@ J. P. H. Donner
 
 7. bedrijfsafvalstoffen naar soort en aard vergelijkbaar met huishoudelijke afvalstoffen, voor zover zij uitsluitend worden overgeslagen;  
 
-8. veegvuil, marktafval, drijfafval en RKG-slib, voor zover zij uitsluitend worden overgeslagen.    
+8. veegvuil, marktafval, drijfafval en RKG-slib, voor zover zij uitsluitend worden overgeslagen.   
 
-### Bijlage  II  
+### Bijlage  II 
 
 ####, behorende bij artikel 8 
 
