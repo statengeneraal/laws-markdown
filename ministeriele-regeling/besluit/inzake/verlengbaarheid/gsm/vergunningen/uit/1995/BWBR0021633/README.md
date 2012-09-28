@@ -8,19 +8,19 @@ Besluit:
 
 ### Artikel  1  
 
-De op grond van artikel 13a van de Wet op de telecommunicatievoorzieningen op 15 maart 1995 verleende vergunningen voor GSM zijn na afloop van hun looptijd op 31 maart 2010 verlengbaar tot en met 25 februari 2013.  
+De op grond van artikel 13a van de Wet op de telecommunicatievoorzieningen op 15 maart 1995 verleende vergunningen voor GSM zijn na afloop van hun looptijd op 31 maart 2010 verlengbaar tot en met 25 februari 2013. 
 
 ### Artikel  2  
 
-De voorschriften en beperkingen waaronder de vergunningen, bedoeld in artikel 1, zijn verleend, blijven bij een verlenging ongewijzigd van kracht.  
+De voorschriften en beperkingen waaronder de vergunningen, bedoeld in artikel 1, zijn verleend, blijven bij een verlenging ongewijzigd van kracht. 
 
 ### Artikel  3  
 
-Op grond van de aan KPN toegekende frequentieruimte is bij een verlenging van de vergunning KPN € 39.790.372 aan de Staat verschuldigd en is Vodafone op grond van de aan haar toegekende frequentieruimte € 36.581.471 aan de Staat verschuldigd.  
+Op grond van de aan KPN toegekende frequentieruimte is bij een verlenging van de vergunning KPN € 39.790.372 aan de Staat verschuldigd en is Vodafone op grond van de aan haar toegekende frequentieruimte € 36.581.471 aan de Staat verschuldigd. 
 
 ### Artikel  4  
 
-Het door de vergunninghouder verschuldigde bedrag is verdeeld in drie termijnen waarvan jaarlijks één termijn in rekening zal worden gebracht, te beginnen in het jaar 2010.  
+Het door de vergunninghouder verschuldigde bedrag is verdeeld in drie termijnen waarvan jaarlijks één termijn in rekening zal worden gebracht, te beginnen in het jaar 2010. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -28,4 +28,4 @@ Den Haag
 
 De 
 Staatssecretaris van Economische Zaken, 
-F.Heemskerk   
+F. Heemskerk     

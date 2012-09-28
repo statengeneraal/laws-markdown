@@ -13,13 +13,13 @@ Besluit:
 
 1.  In deze regeling wordt verstaan onder: 
 
-– *beweging:* een start of een landing met een luchtvaartuig;  
+–  *beweging:* een start of een landing met een luchtvaartuig;  
 
-– *exploitant:* gemeente Ameland;  
+–  *exploitant:* gemeente Ameland;  
 
-– *wet:*[wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur](../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md).     
+–  *wet:* [wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur](../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md).     
 2.  In deze regeling wordt verstaan onder daglichtperiode, helikopter en vliegtuig hetgeen daaronder wordt verstaan in [artikel 1 van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md).   
-3.  Het gebruiksjaar van de luchthaven betreft de periode van 1 juli van enig jaar tot 1 juli van het daarop volgende jaar.   
+3.  Het gebruiksjaar van de luchthaven betreft de periode van 1 juli van enig jaar tot 1 juli van het daarop volgende jaar.  
 
 ### Hoofdstuk  2  
 
@@ -28,7 +28,7 @@ Besluit:
 ### Artikel  2  
 
 1.  Deze regeling is van toepassing op de luchthaven Ameland.   
-2.  Het luchthavengebied is aangegeven op de kaart in bijlage 1 bij deze regeling.   
+2.  Het luchthavengebied is aangegeven op de kaart in bijlage 1 bij deze regeling.  
 
 ### Artikel  3  
 
@@ -38,7 +38,7 @@ a. een onverharde baan in de geografische richting 09° – 27° met een lengte 
 
 b. een onverharde zweefvliegbaan gelegen in de geografische richting 09° – 27°, zoals aangegeven op de kaart in bijlage 1 bij deze regeling;  
 
-c. een landingsplaats voor helikopters ter grootte van 30 bij 30 meter zoals aangegeven op de kaart in bijlage 1 bij deze regeling.    
+c. een landingsplaats voor helikopters ter grootte van 30 bij 30 meter zoals aangegeven op de kaart in bijlage 1 bij deze regeling.   
 
 ### Hoofdstuk  3  
 
@@ -53,15 +53,15 @@ c. een landingsplaats voor helikopters ter grootte van 30 bij 30 meter zoals aan
 
 a. op eerste aanwijzing van de exploitant wordt het modelvliegen gestaakt;  
 
-b. tijdens het landen en opstijgen van luchtvaartuigen op de luchthaven, alsmede tijdens het vliegen met luchtvaartuigen op een afstand van minder dan drie kilometer van de luchthaven is het gebruik van modelvliegtuigen verboden.     
+b. tijdens het landen en opstijgen van luchtvaartuigen op de luchthaven, alsmede tijdens het vliegen met luchtvaartuigen op een afstand van minder dan drie kilometer van de luchthaven is het gebruik van modelvliegtuigen verboden.    
 
 ### Artikel  5  
 
-Het gebruik van de luchthaven vindt plaats binnen de daglichtperiode overeenkomstig de zichtvliegvoorschriften, bedoeld in [hoofdstuk 3, afdeling 3, van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md).  
+Het gebruik van de luchthaven vindt plaats binnen de daglichtperiode overeenkomstig de zichtvliegvoorschriften, bedoeld in [hoofdstuk 3, afdeling 3, van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md). 
 
 ### Artikel  6  
 
-De ligging van de handhavingspunten, bedoeld in [artikel X, eerste lid, van de wet](../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md), en de grenswaarden voor de geluidbelasting op die punten, zijn opgenomen op de kaart onderscheidenlijk in de tabel in bijlage 1 bij deze regeling.  
+De ligging van de handhavingspunten, bedoeld in [artikel X, eerste lid, van de wet](../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md), en de grenswaarden voor de geluidbelasting op die punten, zijn opgenomen op de kaart onderscheidenlijk in de tabel in bijlage 1 bij deze regeling. 
 
 ### Hoofdstuk  4  
 
@@ -69,7 +69,7 @@ De ligging van de handhavingspunten, bedoeld in [artikel X, eerste lid, van de w
 
 ### Artikel  7  
 
-Het beperkingengebied, bedoeld in [artikel X, vijfde lid, van de wet](../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md), is aangegeven op de kaart in bijlage 2 bij deze regeling.  
+Het beperkingengebied, bedoeld in [artikel X, vijfde lid, van de wet](../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md), is aangegeven op de kaart in bijlage 2 bij deze regeling. 
 
 ### Hoofdstuk  5  
 
@@ -77,24 +77,24 @@ Het beperkingengebied, bedoeld in [artikel X, vijfde lid, van de wet](../../../.
 
 ### Artikel  8  
 
-Deze regeling treedt in werking met ingang van 1 april 2011.  
+Deze regeling treedt in werking met ingang van 1 april 2011. 
 
 ### Artikel  9  
 
-Deze regeling wordt aangehaald als: Omzettingsregeling luchthaven Ameland.  
+Deze regeling wordt aangehaald als: Omzettingsregeling luchthaven Ameland. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Infrastructuur en Milieu,
-J.J.Atsma  
+Staatssecretaris van Infrastructuur en Milieu, 
+J.J. Atsma    
 
 ### Bijlage  1  
 
 ####, bedoeld in de artikelen 2 , 3  en 6  van de Omzettingsregeling luchthaven Ameland: ligging van de baan en plaats van de handhavingspunten, grenswaarden in de handhavingspunten
 
-![250899](http://wetten.overheid.nl/Illustration/250899)
+![250903](http://wetten.overheid.nl/Illustration/250903)
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####, bedoeld in artikel 7  van de Omzettingsregeling luchthaven Ameland: het beperkingengebied
 

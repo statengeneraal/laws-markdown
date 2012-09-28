@@ -1182,7 +1182,13 @@ d. ter zake van gebouwde onroerende zaken als bedoeld in artikel 117, onderdeel 
 
 1.  In afwijking van artikel 121, eerste lid, onderdelen b, c, en d kan het algemeen bestuur in de in artikel 120, eerste lid, genoemde verordening de heffing maximaal 75% lager vaststellen voor buitendijks gelegen onroerende zaken en voor onroerende zaken die blijkens de legger, bedoeld in artikel 78, tweede lid, als waterberging worden gebruikt.   
 2.  In afwijking van artikel 121, eerste lid, onderdelen b, c, en d kan het algemeen bestuur in de in artikel 120, eerste lid, genoemde verordening de heffing maximaal 100% hoger vaststellen voor onroerende zaken gelegen in bemalen gebieden.   
-3.  In afwijking van artikel 121, eerste lid, onderdelen b, c, en d kan het algemeen bestuur in de in artikel 120, eerste lid, genoemde verordening de heffing maximaal 100% hoger vaststellen voor onroerende zaken die in hoofdzaak bestaan uit glasopstanden als bedoeld in [artikel 220d, eerste lid, onderdeel b, van de Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md) en voor verharde openbare wegen.   
+3.  In afwijking van artikel 121, eerste lid, onderdelen b, c, en d kan het algemeen bestuur in de in artikel 120, eerste lid, genoemde verordening de heffing: 
+
+a. maximaal 100% hoger vaststellen voor onroerende zaken die in hoofdzaak bestaan uit glasopstanden als bedoeld in [artikel 220d, eerste lid, onderdeel b, van de Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md);  
+
+b. maximaal 100% hoger vaststellen voor verharde openbare wegen, indien het algemeen bestuur voor 1 juli 2012 geen tariefdifferentiatie toepaste;  
+
+c. maximaal 400% hoger vaststellen voor verharde openbare wegen, indien het algemeen bestuur voor 1 juli 2012 tariefdifferentiatie toepaste.     
 4.  De afwijkingen als bedoeld in het eerste, tweede en derde lid kunnen naast elkaar worden toegepast.   
 
 ### Hoofdstuk  XVIIa  
@@ -1596,6 +1602,22 @@ Op termijnen gesteld in een verordening van het waterschap zijn de [artikelen 1 
 ### Artikel  173  
 
 Artikel 44, vierde tot en met zevende lid, artikel 44a, vierde en vijfde lid, onderscheidenlijk artikel 48, zesde en zevende lid, is niet van toepassing op het bij inwerkingtreding van die bepaling zittende lid van het dagelijks bestuur onderscheidenlijk de voorzitter van het dagelijks bestuur van een waterschap, zolang deze zonder onderbreking zijn ambt vervult in hetzelfde waterschap.  
+
+### Artikel  174  
+
+1.  In afwijking van artikel 23 en onverminderd artikel 27 blijft het op 31 december 2012 zittende algemeen bestuur aan tot 8 januari 2015.   
+2.  Onverminderd artikel 27 treden de leden van het in het eerste lid bedoelde algemeen bestuur tegelijk af met ingang van 8 januari 2015.   
+
+### Artikel  175  
+
+1.  Bij een besluit tot instelling van een waterschap als bedoeld in artikel 2, eerste lid, voor 1 januari 2013 kan worden bepaald dat: 
+
+a. in afwijking van de artikelen 27, tweede lid, en 28 geen verkiezingen worden gehouden ten behoeve van het in te stellen waterschap;  
+
+b. een algemeen bestuur wordt aangesteld voor het in te stellen waterschap waarbij per categorie als bedoeld in artikel 12, tweede lid, het aantal zetels wordt vastgesteld en het totaal aantal zetels niet groter is dan 30, en  
+
+c. de zetels worden toegewezen ingevolge het bepaalde krachtens deze wet zoals die luidde op 13 november 2008 op grond van de uitslag van de verkiezingen die in dat jaar zijn gehouden voor de bij het besluit op te heffen waterschappen.     
+2.  Artikel 29, vierde lid, is niet van toepassing op het eindigen van de zittingsperiode van de leden van een algemeen bestuur aangesteld met toepassing van het eerste lid en het plaatsvinden van verkiezingen in het waterschap ingesteld bij een besluit, bedoeld in het eerste lid.   
 
 ### Artikel  180  
 
