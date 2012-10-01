@@ -28,7 +28,7 @@ e. basisregistratie: verzameling gegevens waarvan bij wet is bepaald dat deze ee
 
 f. brondocument: document waarin rechtsfeiten en andere voor de registraties relevante feiten zijn neergelegd;  
 
-g. Dienst: Dienst voor het kadaster en de openbare registers, genoemd in [artikel 2 van de Organisatiewet Kadaster](../../../../../../../wet/organisatiewet/kadaster/BWBR0006463/README.md);  
+g. Dienst: Dienst voor het kadaster en de openbare registers, genoemd in artikel 2 van de Organisatiewet Kadaster;  
 
 h. gebouwenregister: gemeentelijk register dat brondocumenten met betrekking tot panden, verblijfsobjecten, standplaatsen, ligplaatsen en feitelijk gebruik van een terrein of plaats in het water als bedoeld in artikel 10, eerste lid, onderdeel b, onder 2° respectievelijk 3°, bevat;  
 
@@ -66,9 +66,9 @@ De basisregistraties, bedoeld in artikel 2, worden gehouden met als doel het aan
 
 ### Artikel  4  
 
-1.  Ten aanzien van de verwerking van persoonsgegevens ter uitvoering van deze wet zijn burgemeester en wethouders respectievelijk is het bestuur van de Dienst, ieder voor zover die verwerking onder hun respectievelijk zijn verantwoordelijkheid plaatsvindt, verantwoordelijke in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
-2.  [Artikel 35 van de Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is niet van toepassing.   
-3.  Gegevens uit de basisregistraties, bedoeld in artikel 2, die kunnen worden herleid tot een geïdentificeerde of identificeerbare natuurlijk persoon worden slechts verstrekt indien dit voortvloeit uit het doel, genoemd in artikel 3, en de afnemer bevoegd is die gegevens te verwerken op één van de gronden, genoemd in [artikel 8, onderdelen a en c tot en met f, van de Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
+1.  Ten aanzien van de verwerking van persoonsgegevens ter uitvoering van deze wet zijn burgemeester en wethouders respectievelijk is het bestuur van de Dienst, ieder voor zover die verwerking onder hun respectievelijk zijn verantwoordelijkheid plaatsvindt, verantwoordelijke in de zin van artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens.   
+2.  Artikel 35 van de Wet bescherming persoonsgegevens is niet van toepassing.   
+3.  Gegevens uit de basisregistraties, bedoeld in artikel 2, die kunnen worden herleid tot een geïdentificeerde of identificeerbare natuurlijk persoon worden slechts verstrekt indien dit voortvloeit uit het doel, genoemd in artikel 3, en de afnemer bevoegd is die gegevens te verwerken op één van de gronden, genoemd in artikel 8, onderdelen a en c tot en met f, van de Wet bescherming persoonsgegevens.   
 
 ### Artikel  5  
 
@@ -91,7 +91,7 @@ Burgemeester en wethouders dragen er zorg voor dat de definitieve geometrie van 
 
 ### Artikel  8  
 
-1.  De door burgemeester en wethouders aangewezen ambtenaren die zijn belast met de vaststelling van de geometrie, bedoeld in artikel 7, zijn bevoegd, met medeneming van de benodigde apparatuur en andere hulpmiddelen, elke plaats te betreden, onverminderd [artikel 2 van de Algemene wet op het binnentreden](../../../../../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md), en daar waarnemingen of metingen te verrichten, voor zover dat redelijkerwijs nodig is voor de vervulling van hun taak.   
+1.  De door burgemeester en wethouders aangewezen ambtenaren die zijn belast met de vaststelling van de geometrie, bedoeld in artikel 7, zijn bevoegd, met medeneming van de benodigde apparatuur en andere hulpmiddelen, elke plaats te betreden, onverminderd artikel 2 van de Algemene wet op het binnentreden, en daar waarnemingen of metingen te verrichten, voor zover dat redelijkerwijs nodig is voor de vervulling van hun taak.   
 2.  De eigenaar, de beperkt gerechtigde en de gebruiker van een pand of een verblijfsobject zijn verplicht aan de ambtenaren, bedoeld in het eerste lid, binnen de door dezen gestelde redelijke termijn alle medewerking te verlenen die dezen redelijkerwijs kunnen vorderen bij de uitoefening van de bevoegdheden, genoemd in het eerste lid, met dien verstande dat toegang slechts wordt verleend tussen acht uur ’s morgens en zes uur ’s avonds en dat die niet behoeft te worden verleend op zaterdagen, zondagen en algemeen erkende feestdagen.   
 3.  Indien de toegang wordt geweigerd, verschaffen de ambtenaren, bedoeld in het eerste lid, zich zo nodig toegang met behulp van de sterke arm. Indien het verrichten van de handelingen, bedoeld in het eerste lid, niet wordt toegestaan zijn de ambtenaren, bedoeld in het eerste lid, bevoegd het verrichten van die handelingen zo nodig met behulp van de sterke arm mogelijk te maken.   
 4.  De schade die uit de toepassing van het eerste lid voortvloeit, wordt door burgemeester en wethouders op verzoek vergoed. De vordering tot schadevergoeding staat ter kennisneming van de kantonrechter bij de rechtbank van het arrondissement waarin de gemeente is gelegen. Tegen de uitspraak staat geen rechtsmiddel open.   
@@ -424,7 +424,11 @@ Bij algemene maatregel van bestuur kunnen regels worden gegeven omtrent het behe
 a. verlenen burgemeester en wethouders eenieder inzage in het adressenregister, het gebouwenregister, de adressenregistratie en de gebouwenregistratie, alsmede verstrekken zij aan eenieder de in de adressenregistratie respectievelijk de gebouwenregistratie opgenomen gegevens;  
 
 b. verleent de Dienst eenieder inzage in de landelijke voorziening en verstrekt de Dienst aan eenieder de daarin opgenomen gegevens.     
-2.  [Artikel 10, eerste en tweede lid, van de Wet openbaarheid van bestuur](../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) is van overeenkomstige toepassing op de inzage in en het verstrekken van gegevens, bedoeld in het eerste lid.   
+2.  Artikel 10 van de Wet openbaarheid van bestuur is van overeenkomstige toepassing op de inzage in en het verstrekken van gegevens, bedoeld in het eerste lid, met dien verstande dat: 
+
+a. voor zover aan een bestuursorgaan of andere afnemer inzage in de adressenregistratie of de gebouwenregistratie dan wel in de landelijke voorziening wordt verleend met behulp van zoekdiensten, uitsluitend de gronden, bedoeld in artikel 10, eerste lid, onderdeel b, tweede lid, onderdeel a, en zevende lid, onderdeel b, van de Wet openbaarheid van bestuur van overeenkomstige toepassing zijn;  
+
+b. voor zover aan een bestuursorgaan met het oog op het vervullen van een publiekrechtelijke taak die van invloed kan zijn op het milieu inzage in de adressenregistratie of de gebouwenregistratie dan wel in de landelijke voorziening wordt verleend met behulp van raadpleegdiensten, of aan dat bestuursorgaan met het oog op het vervullen van die taak uit de adressenregistratie of de gebouwenregistratie dan wel uit de landelijke voorziening gegevens worden verstrekt, uitsluitend de gronden, bedoeld in artikel 10, eerste lid, onderdeel b, tweede lid, onderdelen a en c, en zevende lid, onderdeel b, van de Wet openbaarheid van bestuur van overeenkomstige toepassing zijn.     
 3.  Bij algemene maatregel van bestuur kunnen ter bescherming van de persoonlijke levenssfeer van personen tot wie de gegevens die zijn opgenomen in de basisregistraties, bedoeld in artikel 2, herleidbaar zijn voor daarbij aangewezen gegevens of categorieën van gegevens beperkingen worden vastgesteld ten aanzien van het bepaalde in het eerste lid.   
 4.  Bij ministeriële regeling kunnen regels worden gegeven omtrent de inzage in en het verstrekken van gegevens als bedoeld in het eerste lid.   
 
@@ -434,7 +438,7 @@ Bij verstrekking van gegevens als bedoeld in artikel 32, eerste lid:
 
 a. is het auteursrecht voorbehouden, en  
 
-b. zijn de rechten, bedoeld in [artikel 2 van de Databankenwet](../../../../../../../wet/databankenwet/BWBR0010591/README.md), voorbehouden aan burgemeester en wethouders onderscheidenlijk de Dienst.    
+b. zijn de rechten, bedoeld in artikel 2 van de Databankenwet, voorbehouden aan burgemeester en wethouders onderscheidenlijk de Dienst.    
 
 ### Artikel  34  
 
@@ -454,27 +458,31 @@ b. niet-commercieel en commercieel gebruik van die gegevens.
 1.  Indien een bestuursorgaan bij het vervullen van zijn publiekrechtelijke taak een gegeven nodig heeft dat krachtens deze wet als authentiek gegeven in de adressenregistratie respectievelijk de gebouwenregistratie beschikbaar is, gebruikt het dat authentieke gegeven.   
 2.  Een bestuursorgaan kan een ander gegeven gebruiken dan een krachtens deze wet beschikbaar authentiek gegeven, ingeval: 
 
-a. bij het desbetreffende authentieke gegeven de aantekening «in onderzoek» is geplaatst;  
+a. bij het desbetreffende authentieke gegeven de aanduiding is geplaatst dat de opneming is gebaseerd op een proces-verbaal als bedoeld in artikel 10, eerste lid, onderdeel b;  
 
-b. het met betrekking tot het desbetreffende authentieke gegeven een melding heeft gedaan als bedoeld in artikel 37;  
+b. bij het desbetreffende authentieke gegeven de aantekening «in onderzoek» is geplaatst;  
 
-c. het door toepassing van het eerste lid zijn publiekrechtelijke taak niet naar behoren zou kunnen vervullen, of  
+c. het met betrekking tot het desbetreffende authentieke gegeven een melding heeft gedaan als bedoeld in artikel 37;  
 
-d. bij wettelijk voorschrift anders is bepaald dan in het eerste lid.     
+d. het door toepassing van het eerste lid zijn publiekrechtelijke taak niet naar behoren zou kunnen vervullen, of  
+
+e. bij wettelijk voorschrift anders is bepaald dan in het eerste lid.     
 
 ### Artikel  36  
 
 Degene aan wie door een bestuursorgaan gevraagd wordt om een gegeven te verstrekken dat krachtens deze wet als authentiek gegeven in de adressenregistratie respectievelijk de gebouwenregistratie beschikbaar is, behoeft dat gegeven niet te verstrekken behoudens: 
 
-a. ingeval bij het desbetreffende authentieke gegeven de aantekening «in onderzoek» is geplaatst;  
+a. ingeval bij het desbetreffende authentieke gegeven de aanduiding is geplaatst dat de opneming is gebaseerd op een proces-verbaal als bedoeld in artikel 10, eerste lid, onderdeel b;  
 
-b. in geval van opsporing of onderzoek naar overtreding van een wettelijk voorschrift of van controle op de naleving van een wettelijk voorschrift;  
+b. ingeval bij het desbetreffende authentieke gegeven de aantekening «in onderzoek» is geplaatst;  
 
-c. in geval van dreiging van, of het zich voordoen van, een oproerige beweging, wanordelijkheden, verstoring van de openbare orde, rampen of zware ongevallen;  
+c. in geval van opsporing of onderzoek naar overtreding van een wettelijk voorschrift of van controle op de naleving van een wettelijk voorschrift;  
 
-d. ingeval bij wettelijk voorschrift anders is bepaald, of  
+d. in geval van dreiging van, of het zich voordoen van, een oproerige beweging, wanordelijkheden, verstoring van de openbare orde, rampen of zware ongevallen;  
 
-e. ingeval het desbetreffende authentieke gegeven noodzakelijk is voor de identificatie van een object.    
+e. ingeval bij wettelijk voorschrift anders is bepaald, of  
+
+f. ingeval het desbetreffende authentieke gegeven noodzakelijk is voor de identificatie van een object.    
 
 ### Hoofdstuk  6  
 
@@ -517,32 +525,28 @@ De belanghebbende die gerede twijfel heeft over de juistheid van een in een adre
 
 ### Artikel  42  
 
-1.  Burgemeester en wethouders laten eens per drie jaar de uitvoering van het bij of krachtens deze wet bepaalde alsmede de juistheid, volledigheid en actualiteit van de in de registraties opgenomen gegevens controleren door een van de krachtens het tweede lid aangewezen bedrijven.   
-2.  Onze Minister wijst de bedrijven aan die bevoegd zijn de controle, bedoeld in het eerste lid, uit te voeren. De aanwijzing wordt gepubliceerd in de Staatscourant.   
-3.  Burgemeester en wethouders zenden aan Onze Minister een afschrift van de bij algemene maatregel van bestuur aan te wijzen onderdelen van de controleresultaten. Burgemeester en wethouders maken de controleresultaten openbaar door terinzagelegging van de controleresultaten bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.   
-4.  Bij ministeriële regeling wordt bepaald welke kosten van de controle aan de betrokken gemeente worden vergoed.   
+1.  Burgemeester en wethouders laten eens per drie jaar de uitvoering van het bij of krachtens deze wet bepaalde controleren door een bedrijf dat voldoet aan de eisen, bedoeld in het vierde lid, onderdeel c.   
+2.  Burgemeester en wethouders zenden aan Onze Minister een afschrift van de controleresultaten. Onze Minister maakt deze controleresultaten openbaar door terinzagelegging daarvan bij het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.   
+3.  Bij algemene maatregel van bestuur worden regels gegeven omtrent de elementen van de controle, bedoeld in het eerste lid.   
+4.  Bij ministeriële regeling: 
+
+a. worden regels gegeven omtrent de wijze van uitvoering van de controle, bedoeld in het eerste lid;  
+
+b. wordt bepaald welke kosten van die controle aan de betrokken gemeente worden vergoed;  
+
+c. worden eisen gesteld aan de bedrijven die in aanmerking komen om die controle te verrichten, en  
+
+d. kunnen eisen worden gesteld omtrent de uitvoering van de verplichting, bedoeld in het tweede lid, eerste volzin.     
 
 ### Artikel  43  
 
-1.  Indien uit de controle, bedoeld in artikel 42, eerste lid, blijkt dat niet wordt voldaan aan bij algemene maatregel van bestuur gestelde eisen, dragen burgemeester en wethouders zorg voor het alsnog voldoen aan die eisen en laten zij binnen een jaar een hernieuwde controle uitvoeren op die onderdelen die bij de eerdere controle niet voldeden aan die eisen. Artikel 42, derde lid, is van overeenkomstige toepassing.   
+1.  Indien uit de controle, bedoeld in artikel 42, eerste lid, blijkt dat niet wordt voldaan aan het bij of krachtens deze wet bepaalde, dragen burgemeester en wethouders er zorg voor om daaraan alsnog te voldoen en laten zij binnen een jaar een hernieuwde controle uitvoeren op die onderdelen die bij de eerste controle niet voldeden. Artikel 42, tweede lid, is van overeenkomstige toepassing.   
 2.  De kosten van een hernieuwde controle als bedoeld in het eerste lid worden niet vergoed aan de betrokken gemeente.   
+3.  Bij ministeriële regeling worden regels gegeven omtrent de wijze van uitvoering van de hernieuwde controle, bedoeld in het eerste lid.   
 
 ### Artikel  44  
 
-1.  De krachtens artikel 42, tweede lid, aangewezen bedrijven hebben ten behoeve van een controle als bedoeld in artikel 42, eerste lid, respectievelijk artikel 43, eerste lid, toegang tot de registers en de registraties, bedoeld in artikel 2. Burgemeester en wethouders verlenen hiertoe de nodige medewerking.   
-2.  Bij algemene maatregel van bestuur: 
-
-a. worden regels gegeven omtrent de elementen die de controle, bedoeld in artikel 42, eerste lid, ten minste moet bevatten;  
-
-b. worden regels gegeven omtrent de hernieuwde controle, bedoeld in artikel 43, eerste lid, en  
-
-c. kunnen regels worden gegeven omtrent de controle, bedoeld in artikel 42, eerste lid.     
-
-### Artikel  45  
-
-1.  Indien burgemeester en wethouders naar het oordeel van Onze Minister een of meer van hun taken krachtens deze wet ernstig verwaarlozen kan Onze Minister de noodzakelijke voorzieningen treffen namens burgemeester en wethouders en ten laste van de gemeente.   
-2.  De in het eerste lid bedoelde voorzieningen worden, spoedeisende gevallen uitgezonderd, niet getroffen dan nadat burgemeester en wethouders in de gelegenheid zijn gesteld om binnen een door Onze Minister te stellen termijn alsnog hun taak naar behoren uit te voeren.   
-3.  Onze Minister stelt beide Kamers der Staten-Generaal onverwijld in kennis van door hem getroffen voorzieningen als bedoeld in het eerste lid.   
+De bedrijven die voldoen aan de eisen, bedoeld in artikel 42, vierde lid, onderdeel c, hebben ten behoeve van een controle als bedoeld in artikel 42, eerste lid, respectievelijk artikel 43, eerste lid, toegang tot de registers en de registraties, bedoeld in artikel 2. Burgemeester en wethouders verlenen hiertoe de nodige medewerking.  
 
 ### Hoofdstuk  8  
 

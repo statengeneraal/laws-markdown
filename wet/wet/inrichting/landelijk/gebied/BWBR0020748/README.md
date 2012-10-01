@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Landbouw, Natuur en Voedselkwaliteit;  
+a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. gebiedsgericht beleid: beleid, gericht op de verbetering van de kwaliteit van het landelijke gebied, in elk geval ten aanzien van natuur, recreatie, landschap, landbouw, sociaal-economische vitaliteit, milieu en water, voor zover het betreft inrichting, gebruik en beheer van daarvoor specifiek in aanmerking komende delen van het landelijke gebied, met inbegrip van de reconstructie van de concentratiegebieden, bedoeld in [artikel 4 van de Reconstructiewet concentratiegebieden](../../../../../../wet/reconstructiewet/concentratiegebieden/BWBR0013399/README.md);  
 
@@ -42,7 +42,7 @@ i. rechthebbende:
 
 j. openbare registers: openbare registers als bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md);  
 
-k. Dienst landelijk gebied: Dienst landelijk gebied van het Ministerie van Landbouw, Natuur en Voedselkwaliteit;  
+k. Dienst landelijk gebied: Dienst landelijk gebied van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
 
 l. landinrichting: maatregelen en voorzieningen gericht op de inrichting van het landelijke gebied met gebruikmaking van de bevoegdheden en instrumenten, bedoeld in de hoofdstukken 4 tot en met 9;  
 
@@ -56,9 +56,9 @@ b. gedeputeerde staten: gedeputeerde staten van de provincie waarin het in te ri
 ### Artikel  2  
 
 1.  Gedeputeerde staten van de onderscheiden provincies dragen zorg voor de realisatie van het gebiedsgerichte beleid.   
-2.  Onze Minister en Onze Ministers wie het mede aangaat dragen zorg voor de bevordering en de ondersteuning van de realisatie van het gebiedsgerichte beleid. Onze Minister en Onze Ministers wie het mede aangaat doen dit onder meer door de verstrekking van een investeringsbudget en door de inzet van capaciteit van de Dienst landelijk gebied en in voorkomend geval van andere diensten van het Ministerie van Landbouw, Natuur en Voedselkwaliteit.   
+2.  Onze Minister en Onze Ministers wie het mede aangaat dragen zorg voor de bevordering en de ondersteuning van de realisatie van het gebiedsgerichte beleid. Onze Minister en Onze Ministers wie het mede aangaat doen dit onder meer door de verstrekking van een investeringsbudget en door de inzet van capaciteit van de Dienst landelijk gebied en in voorkomend geval van andere diensten van het Ministerie van Economische Zaken, Landbouw en Innovatie.   
 3.  Gedeputeerde staten kunnen de op grond van de hoofdstukken 4 tot en met 8 van deze wet aan hen toekomende bevoegdheden delegeren aan een bestuurscommissie als bedoeld in [artikel 81, eerste lid, van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md) of aan een ander orgaan.   
-4.  Gedeputeerde staten maken voor de uitvoering van het gebiedsgerichte beleid gebruik van de Dienst landelijk gebied en in voorkomend geval van andere diensten van het Ministerie van Landbouw, Natuur en Voedselkwaliteit, voor zover door Onze Minister capaciteit van deze diensten ten behoeve van de realisatie van het gebiedsgerichte beleid wordt ingezet ingevolge de bestuursovereenkomst, bedoeld in artikel 7, eerste lid.   
+4.  Gedeputeerde staten maken voor de uitvoering van het gebiedsgerichte beleid gebruik van de Dienst landelijk gebied en in voorkomend geval van andere diensten van het Ministerie van Economische Zaken, Landbouw en Innovatie, voor zover door Onze Minister capaciteit van deze diensten ten behoeve van de realisatie van het gebiedsgerichte beleid wordt ingezet ingevolge de bestuursovereenkomst, bedoeld in artikel 7, eerste lid.   
 
 ### Hoofdstuk  2  
 
@@ -77,7 +77,7 @@ b. een indicatie van de te bereiken doelen voor de daaropvolgende tijdvakken.
 
 ### Artikel  4  
 
-1.  Provinciale staten stellen voor hun provincie een provinciaal meerjarenprogramma voor het gebiedsgerichte beleid vast met inachtneming van het structuurvisies als bedoeld in [artikel 2.2 van de Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), en het provinciale beleid met betrekking tot de ontwikkeling van het landelijk gebied.   
+1.  Provinciale staten stellen voor hun provincie een provinciaal meerjarenprogramma voor het gebiedsgerichte beleid vast met inachtneming van structuurvisies als bedoeld in [artikel 2.2 van de Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), en het provinciale beleid met betrekking tot de ontwikkeling van het landelijk gebied.   
 2.  Het provinciale meerjarenprogramma heeft betrekking op een tijdvak van zeven kalenderjaren. Het eerste tijdvak waarvoor een meerjarenprogramma wordt vastgesteld vangt aan op 1 januari 2007.   
 3.  Het provinciale meerjarenprogramma bevat in ieder geval: 
 
@@ -109,7 +109,7 @@ a. de in de provincie in het investeringstijdvak te realiseren bijdrage aan de d
 
 b. de hoogte van het door Onze Minister en Onze Ministers wie het mede aangaat ter beschikking te stellen investeringsbudget;  
 
-c. de door Onze Minister gedurende het investeringstijdvak ten behoeve van de realisatie van het gebiedsgerichte beleid in te zetten capaciteit van de Dienst landelijk gebied en, in voorkomend geval, van andere diensten van het Ministerie van Landbouw, Natuur en Voedselkwaliteit; en  
+c. de door Onze Minister gedurende het investeringstijdvak ten behoeve van de realisatie van het gebiedsgerichte beleid in te zetten capaciteit van de Dienst landelijk gebied en, in voorkomend geval, van andere diensten van het Ministerie van Economische Zaken, Landbouw en Innovatie; en  
 
 d. een aanduiding van de omvang van de beschikbare provinciale middelen.     
 2.  Onze Minister, Onze Ministers wie het mede aangaat en gedeputeerde staten stellen de bestuursovereenkomst in ontwerp vast voor 15 augustus van het jaar dat voorafgaat aan het investeringstijdvak.   
@@ -157,9 +157,8 @@ c. de aanvraag tot vaststelling van het investeringsbudget niet of niet tijdig i
 
 1.  Gedeputeerde staten zijn bevoegd ten laste van het verleende investeringsbudget verplichtingen aan te gaan door het aangaan van overeenkomsten, door het verlenen van subsidies, dan wel door op andere wijze de toegekende middelen te besteden, met dien verstande dat de aanwending van de middelen geschiedt ter verwezenlijking van de doelen, bedoeld in artikel 7, eerste lid, onderdeel a, en met inachtneming van het bij of krachtens deze wet bepaalde.   
 2.  Verplichtingen als bedoeld in het eerste lid kunnen in enig jaar van het investeringstijdvak worden aangegaan tot ten hoogste 100 procent van de tranche van het investeringsbudget dat voor het desbetreffende jaar ter beschikking is gesteld. In voorkomend geval kunnen voorts verplichtingen worden aangegaan ten laste van tranches die betrekking hebben op daarop volgende jaren van het investeringstijdvak, met dien verstande dat ten laste van die tranches slechts verplichtingen kunnen worden aangegaan tot ten hoogste een percentage van het voor die tranche beschikbaar gestelde bedrag dat voor elk volgende jaar 10 procentpunten lager is dan het voor het voorgaande jaar geldende maximumpercentage, uitgaande van 100 procent in het jaar waarin de verplichtingen worden aangegaan.   
-3.  Provinciale staten van de onderscheiden provincies stellen een verordening vast met betrekking tot ten laste van het investeringsbudget uitgevoerde steunmaatregelen als bedoeld in de artikelen 87, 88 en 89 van het Verdrag tot oprichting van de Europese Gemeenschap en maatregelen die ingevolge Verordening (EG) nr. 1698/2005 van de Raad van 20 september 2005 inzake steun voor plattelandsontwikkeling uit het Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO) (PbEU L 277) voor cofinanciering uit het Europees Landbouwfonds voor Plattelandsontwikkeling in aanmerking worden gebracht. De verordening regelt de activiteiten waarvoor subsidie wordt verstrekt, de subsidievoorwaarden en het subsidiebedrag. De verordening behoeft de goedkeuring van Onze Minister.   
-4.  Provinciale staten kunnen de bevoegdheid, bedoeld in het derde lid, geheel of gedeeltelijk overdragen aan gedeputeerde staten, met dien verstande dat ook de op grond van deze overdracht door gedeputeerde staten vastgestelde verordeningen de goedkeuring van Onze Minister behoeven.   
-5.  Het niet tijdig bekendmaken van een besluit omtrent goedkeuring of een besluit tot verdaging van goedkeuring heeft niet het rechtsgevolg, bedoeld in [artikel 10:31, vierde lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+3.  Provinciale staten van de onderscheiden provincies stellen een verordening vast met betrekking tot ten laste van het investeringsbudget uitgevoerde steunmaatregelen als bedoeld in de artikelen 87, 88 en 89 van het Verdrag tot oprichting van de Europese Gemeenschap en maatregelen die ingevolge Verordening (EG) nr. 1698/2005 van de Raad van 20 september 2005 inzake steun voor plattelandsontwikkeling uit het Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO) (PbEU L 277) voor cofinanciering uit het Europees Landbouwfonds voor Plattelandsontwikkeling in aanmerking worden gebracht. De verordening regelt de activiteiten waarvoor subsidie wordt verstrekt, de subsidievoorwaarden en het subsidiebedrag.   
+4.  Provinciale staten kunnen de bevoegdheid, bedoeld in het derde lid, geheel of gedeeltelijk overdragen aan gedeputeerde staten.   
 
 ### Artikel  12  
 

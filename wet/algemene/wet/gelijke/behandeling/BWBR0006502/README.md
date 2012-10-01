@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om, mede in verband met [artikel 1 van de Grondwet](../../../../../../wet/grondwet/BWBR0001840/README.md), ter bevordering van de deelneming op gelijke voet aan het maatschappelijk leven bescherming te bieden tegen discriminatie op grond van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat, dat het daarom wenselijk is behoudens wettelijke uitzonderingen onderscheid op deze gronden te verbieden en dat het in verband met de handhaving van dit verbod wenselijk is een Commissie gelijke behandeling in te stellen;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is om, mede in verband met artikel 1 van de Grondwet, ter bevordering van de deelneming op gelijke voet aan het maatschappelijk leven bescherming te bieden tegen discriminatie op grond van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat, dat het daarom wenselijk is behoudens wettelijke uitzonderingen onderscheid op deze gronden te verbieden en dat het in verband met de handhaving van dit verbod wenselijk is een Commissie gelijke behandeling in te stellen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  1  
 
@@ -71,9 +71,9 @@ b. het geestelijk ambt.
 
 Deze wet laat onverlet: 
 
-a. de [Wet gelijke behandeling van mannen en vrouwen](../../../../../../wet/wet/gelijke/behandeling/van/mannen/en/vrouwen/BWBR0003299/README.md);  
+a. de Wet gelijke behandeling van mannen en vrouwen;  
 
-b. de [artikelen 646](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [647](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [667](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [670 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).    
+b. de artikelen 646, 647, 667 en 670 van Boek 7 van het Burgerlijk Wetboek.    
 
 ### §  3  
 
@@ -114,7 +114,7 @@ b. het verschil in behandeling berust op een kenmerk dat verband houdt met godsd
 c. dat kenmerk vanwege de aard van de betrokken specifieke beroepsactiviteit of de context waarin deze wordt uitgeoefend, een wezenlijk en bepalend beroepsvereiste vormt, mits het doel legitiem is en het vereiste evenredig is aan dat doel.     
 4.  Het eerste lid is niet van toepassing op eisen met betrekking tot de politieke gezindheid die in redelijkheid kunnen worden gesteld in verband met de vervulling van functies in bestuursorganen en adviesorganen.   
 5.  Het eerste lid is niet van toepassing op eisen met betrekking tot de politieke gezindheid die in redelijkheid kunnen worden gesteld in verband met de vervulling van vertrouwensfuncties.   
-6.  Het eerste lid, onderdeel e, is niet van toepassing op onderscheid op grond van burgerlijke staat met betrekking tot nabestaandenpensioen-voorzieningen en met betrekking tot aanspraken op pensioen die vóór de datum van inwerkingtreding van [artikel I, onderdeel B, van de wet van 21 december 2000, houdende wijziging van de Pensioen- en spaarfondsenwet en enige andere wetten in verband met het recht van keuze voor ouderdomspensioen in plaats van nabestaandenpensioen en gelijke behandeling van mannen en vrouwen](../../../../../../wet/wijzigingswet/pensioen-/en/spaarfondsenwet/(recht/van/keuze/voor/etc/BWBR0012090/README.md) (Stb. 625), zijn opgebouwd.   
+6.  Het eerste lid, onderdeel e, is niet van toepassing op onderscheid op grond van burgerlijke staat met betrekking tot nabestaandenpensioen-voorzieningen en met betrekking tot aanspraken op pensioen die vóór de datum van inwerkingtreding van artikel I, onderdeel B, van de wet van 21 december 2000, houdende wijziging van de Pensioen- en spaarfondsenwet en enige andere wetten in verband met het recht van keuze voor ouderdomspensioen in plaats van nabestaandenpensioen en gelijke behandeling van mannen en vrouwen (Stb. 625), zijn opgebouwd.   
 
 ### Artikel  6  
 
@@ -165,7 +165,7 @@ c. het verschil in behandeling door een legitiem doel wordt gerechtvaardigd en d
 ### Artikel  8  
 
 1.  Beëindiging van de arbeidsverhouding door de werkgever in strijd met artikel 5, wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op artikel 5 of terzake bijstand heeft verleend, is vernietigbaar.   
-2.  Onverminderd [hoofdstuk 8 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), vervalt twee maanden na de beëindiging van de arbeidsverhouding de bevoegdheid van de werknemer een beroep te doen op de vernietigingsgrond, bedoeld in het eerste lid. Het beroep op de vernietigingsgrond geschiedt door kennisgeving aan de werkgever. [Artikel 55 van Boek 3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is niet van toepassing.   
+2.  Onverminderd hoofdstuk 8 van de Algemene wet bestuursrecht, vervalt twee maanden na de beëindiging van de arbeidsverhouding de bevoegdheid van de werknemer een beroep te doen op de vernietigingsgrond, bedoeld in het eerste lid. Het beroep op de vernietigingsgrond geschiedt door kennisgeving aan de werkgever. Artikel 55 van Boek 3 van het Burgerlijk Wetboek is niet van toepassing.   
 3.  Een rechtsvordering in verband met de vernietiging verjaart door verloop van zes maanden na de dag waarop de arbeidsverhouding is geëindigd.   
 4.  De beëindiging, bedoeld in het eerste lid, maakt de werkgever niet schadeplichtig.   
 
@@ -181,113 +181,17 @@ Bedingen in strijd met deze wet zijn nietig.
 ### Artikel  10  
 
 1.  Indien degene die meent dat in zijn nadeel een onderscheid is of wordt gemaakt als bedoeld in deze wet, in rechte feiten aanvoert die dat onderscheid kunnen doen vermoeden, dient de wederpartij te bewijzen dat niet in strijd met deze wet is gehandeld.   
-2.  Het eerste lid is van overeenkomstige toepassing op vorderingen als bedoeld in [artikel 305a van Boek 3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en op beroepen ingesteld in bestuursrechtelijke procedures door belanghebbenden in de zin van [artikel 1:2, derde lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+2.  Het eerste lid is van overeenkomstige toepassing op vorderingen als bedoeld in artikel 305a van Boek 3 van het Burgerlijk Wetboek en op beroepen ingesteld in bestuursrechtelijke procedures door belanghebbenden in de zin van artikel 1:2, derde lid, van de Algemene wet bestuursrecht.   
 
 ### Hoofdstuk  2  
 
 ####De commissie gelijke behandeling
 
-### Artikel  11  
-
-1.  Er is een Commissie gelijke behandeling, hierna te noemen: de Commissie.   
-2.  De Commissie kan uit haar midden kamers vormen voor het vervullen van haar taak.   
-
-### Artikel  12  
-
-1.  De Commissie kan op schriftelijk verzoek onderzoeken of een onderscheid is of wordt gemaakt als bedoeld in deze wet, de [Wet gelijke behandeling van mannen en vrouwen](../../../../../../wet/wet/gelijke/behandeling/van/mannen/en/vrouwen/BWBR0003299/README.md) of [artikel 646 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), en haar oordeel daaromtrent kenbaar maken. Voorts kan de Commissie uit eigen beweging onderzoeken of zodanig onderscheid stelselmatig wordt gemaakt en haar oordeel daarover kenbaar maken.   
-2.  Een schriftelijk verzoek als bedoeld in het eerste lid, kan worden ingediend door: 
-
-a. degene die meent dat te zijnen nadele een onderscheid is of wordt gemaakt als bedoeld in deze wet, de [Wet gelijke behandeling van mannen en vrouwen](../../../../../../wet/wet/gelijke/behandeling/van/mannen/en/vrouwen/BWBR0003299/README.md) of [artikel 646 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
-
-b. de natuurlijke persoon, de rechtspersoon of het bevoegd gezag, die wensen te weten of zij een onderscheid maken als bedoeld in deze wet, de [Wet gelijke behandeling van mannen en vrouwen](../../../../../../wet/wet/gelijke/behandeling/van/mannen/en/vrouwen/BWBR0003299/README.md) of [artikel 646 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
-
-c. degene die belast is met de beslissing over een geschil met betrekking tot onderscheid als bedoeld in deze wet, de [Wet gelijke behandeling van mannen en vrouwen](../../../../../../wet/wet/gelijke/behandeling/van/mannen/en/vrouwen/BWBR0003299/README.md) of [artikel 646 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
-
-d. een ondernemingsraad, die meent dat in de onderneming waarvoor deze is ingesteld, onderscheidenlijk een met die ondernemingsraad vergelijkbaar medezeggenschapsorgaan, dat meent dat in het organisatorisch samenwerkingsverband waarvoor het is ingesteld, onderscheid wordt gemaakt als bedoeld in deze wet, in [artikel 646 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) of in de [Wet gelijke behandeling van mannen en vrouwen](../../../../../../wet/wet/gelijke/behandeling/van/mannen/en/vrouwen/BWBR0003299/README.md);  
-
-e. een vereniging met volledige rechtsbevoegdheid of stichting, die in overeenstemming met haar statuten de belangen behartigt van diegenen in wier bescherming deze wet, de [Wet gelijke behandeling van mannen en vrouwen](../../../../../../wet/wet/gelijke/behandeling/van/mannen/en/vrouwen/BWBR0003299/README.md) of [artikel 646 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) beoogt te voorzien.     
-3.  In het geval een schriftelijk verzoek als bedoeld in het tweede lid, onderdelen *d* en *e*, personen noemt ten nadele van wie zou zijn gehandeld, dan wel indien een onderzoek ingesteld uit eigen beweging, betrekking heeft op zodanige personen, stelt de Commissie deze personen op de hoogte van het voornemen tot onderzoek. De Commissie is niet bevoegd in het onderzoek en de beoordeling personen als bedoeld in de eerste volzin te betrekken die schriftelijk hebben verklaard daartegen bedenkingen te hebben.   
-
-### Artikel  13  
-
-1.  De Commissie stelt een onderzoek in en brengt haar oordeel schriftelijk en met redenen omkleed ter kennis van de verzoeker, van degene die het onderscheid zou maken, alsmede, in voorkomend geval, van degene, jegens wie het onderscheid zou worden gemaakt.   
-2.  De Commissie kan bij het ter kennis brengen van haar oordeel aan degene die het onderscheid zou maken, aanbevelingen doen.   
-3.  De Commissie kan haar oordeel ter kennis brengen van Onze Ministers wie het aangaat, van naar haar mening in aanmerking komende organisaties van werkgevers, van werknemers, uit het beroepsleven of van overheidspersoneel, van eindgebruikers van goederen of diensten en van betrokken overlegorganen.   
-
-### Artikel  14  
-
-1.  De Commissie stelt geen onderzoek in, indien: 
-
-a. het in artikel 12, tweede lid, bedoelde verzoek kennelijk ongegrond is;  
-
-b. het belang van de verzoeker of het gewicht van de gedraging kennelijk onvoldoende is;  
-
-c. sinds het in artikel 12 bedoelde onderscheid een zodanige termijn is verstreken dat in redelijkheid geen onderzoek meer kan plaatsvinden.     
-2.  Indien zich gevallen als bedoeld in het eerste lid voordoen, doet de Commissie daarover aan verzoeker schriftelijk en met redenen omkleed mededeling.   
-
-### Artikel  15  
-
-1.  De Commissie kan in rechte vorderen dat een gedraging die in strijd is met deze wet, de [Wet gelijke behandeling van mannen en vrouwen](../../../../../../wet/wet/gelijke/behandeling/van/mannen/en/vrouwen/BWBR0003299/README.md) of [artikel 646 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) onrechtmatig wordt verklaard, dat deze wordt verboden of dat een bevel wordt gegeven om de gevolgen van die gedraging ongedaan te maken.   
-2.  Een gedraging kan niet ten grondslag worden gelegd aan een vordering als bedoeld in het eerste lid, voor zover degene die door deze gedraging wordt getroffen, daartegen bedenkingen heeft.   
-
-### Artikel  16  
-
-1.  De Commissie bestaat uit negen leden, onder wie een voorzitter en twee ondervoorzitters. Voorts kunnen plaatsvervangende leden worden benoemd.   
-2.  De voorzitter en de ondervoorzitters moeten voldoen aan de bij of krachtens [artikel 5 van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) gestelde vereisten voor benoembaarheid tot rechterlijk ambtenaar.   
-3.  De benoeming van de leden en de plaatsvervangende leden geschiedt door Onze Minister van Justitie, in overeenstemming met Onze Ministers van Binnenlandse Zaken, van Sociale Zaken en Werkgelegenheid, van Onderwijs en Wetenschappen en van Welzijn, Volksgezondheid en Cultuur.   
-4.  De [artikelen 46c](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46d, tweede lid](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46f](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46g](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46i, met uitzondering van het eerste lid, onderdeel c](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46j](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46l, eerste lid, met uitzondering van onderdeel c, en derde lid](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46m](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46n](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46o](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en [46p van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) zijn van overeenkomstige toepassing, met dien verstande dat: 
-
-a. de disciplinaire maatregel, bedoeld in [artikel 46c, eerste lid](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), ten aanzien van de leden van de Commissie door de voorzitter van het College wordt opgelegd;  
-
-b. het in [artikel 46c, eerste lid, onderdeel b](../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), genoemde verbod zich in een onderhoud of een gesprek in te laten met partijen of haar advocaten of gemachtigden of een bijzondere inlichting of schriftelijk stuk van hen aan te nemen niet op de leden van de Commissie van toepassing is.     
-5.  De benoeming van de leden en van de plaatsvervangende leden geschiedt voor een tijdvak van ten hoogste zes jaar. Herbenoeming is terstond mogelijk. Op eigen verzoek worden zij door de Minister van Justitie ontslagen.   
-6.  De [artikelen 13a tot en met 13g van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) zijn van overeenkomstige toepassing ten aanzien van gedragingen van de leden van de Commissie, met dien verstande dat: 
-
-a. voor de overeenkomstige toepassing van die artikelen onder «het betrokken gerechtsbestuur» wordt verstaan: de voorzitter van de Commissie; en  
-
-b. voor de overeenkomstige toepassing van [artikel 13b, eerste lid, onderdelen b en c](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), onder «overeenkomstig [artikel 26](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) of [75](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) een klacht» wordt verstaan: een klacht.     
-
-### Artikel  17  
-
-1.  Aan de Commissie staat ter ondersteuning van haar taak een bureau ten dienste.   
-2.  Onze Minister van Justitie benoemt, bevordert, schorst en ontslaat, op voordracht van de Commissie, de personen die tot het bureau behoren. Onze Minister van Justitie bepaalt in welke gevallen zij worden benoemd, bevorderd, geschorst en ontslagen.   
-
-### Artikel  18  
-
-1.  De Commissie kan zich bij de uitoefening van haar taak doen bijstaan door daartoe door Onze Minister wie het aangaat aangewezen ambtenaren.   
-2.  De Commissie kan zich bij de uitoefening van haar taak doen bijstaan door een of meer personen ten einde haar de inlichtingen te verschaffen die voor de vervulling van de taak van de Commissie nodig zijn.   
-
-### Artikel  19  
-
-1.  De Commissie en de in artikel 17 bedoelde personen die door de Commissie daartoe zijn aangewezen, kunnen alle inlichtingen en bescheiden vorderen die voor de vervulling van de taak van de Commissie redelijkerwijze nodig zijn.   
-2.  Een ieder is verplicht, behoudens verschoning wegens ambts- of beroepsgeheim, de ingevolge het eerste lid gevorderde inlichtingen en bescheiden volledig en naar waarheid te verstrekken, een en ander op de wijze en binnen de termijn door of namens de Commissie vast te stellen. Deze verplichting geldt niet, indien een persoon daardoor of zichzelf of een van zijn bloed- of aanverwanten in de rechte lijn of in de zijlijn in de tweede of de derde graad of zijn echtgenoot of eerdere echtgenoot dan wel geregistreerde partner of eerdere geregistreerde partner aan het gevaar van een strafrechtelijke veroordeling ter zake van een misdrijf zou blootstellen.   
-
-### Artikel  20  
-
-1.  De Commissie brengt jaarlijks verslag uit van haar werkzaamheden en maakt dit verslag openbaar. Zij zendt dit verslag in ieder geval aan Onze Ministers wie het aangaat en aan de adviesorganen die het aangaat.   
-2.  De Commissie stelt, te rekenen vanaf het tijdstip waarop deze wet in werking is getreden, telkens na verloop van vijf jaar een rapport op van haar bevindingen ten aanzien van de werking in de praktijk van deze wet, de [Wet gelijke behandeling van mannen en vrouwen](../../../../../../wet/wet/gelijke/behandeling/van/mannen/en/vrouwen/BWBR0003299/README.md) en [artikel 646 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md). Zij zendt dit rapport aan Onze Minister van Binnenlandse Zaken.   
-
-### Artikel  21  
-
-1.  Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de werkwijze van de Commissie, waaronder in ieder geval regels betreffende: 
-
-a. de wijze van behandeling;  
-
-b. hoor en wederhoor;  
-
-c. de openbaarheid van zittingen;  
-
-d. de openbaarmaking van haar oordeel, bedoeld in artikel 13, derde lid.     
-2.  De leden van de Commissie genieten een bezoldiging voor hun werkzaamheden. Over hun rechtspositie worden nadere regels gesteld bij algemene maatregel van bestuur. Deze regels hebben in ieder geval betrekking op aanstelling en loopbaanvorming, bezoldiging, toelagen, toeslagen, vergoedingen, rechten en plichten bij reorganisaties, disciplinaire straffen, schorsing en ontslag.   
-3.  De plaatsvervangende leden genieten een zittingsgeld voor hun werkzaamheden, alsmede een vergoeding van reis- en verblijfkosten.   
+Vervallen per 01-10-2012   
 
 ### Hoofdstuk  3  
 
 ####Slotbepalingen
-
-### Artikel  33  
-
-Onze Minister van Binnenlandse Zaken zendt in overeenstemming met Onze Ministers van Justitie, van Sociale Zaken en Werkgelegenheid, van Onderwijs en Wetenschappen en van Welzijn, Volksgezondheid en Cultuur zo spoedig mogelijk na de ontvangst van het in artikel 20, tweede lid, bedoelde rapport, aan de Staten-Generaal een verslag over de werking in de praktijk van deze wet, de [Wet gelijke behandeling van mannen en vrouwen](../../../../../../wet/wet/gelijke/behandeling/van/mannen/en/vrouwen/BWBR0003299/README.md) en [artikel 646 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).  
 
 ### Artikel  34  
 

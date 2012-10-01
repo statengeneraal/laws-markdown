@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Landbouw, Natuur en Voedselkwaliteit;  
+a. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. natuurmonument: terrein of water, dan wel samenstel van terreinen of wateren, dat van algemeen belang is om zijn natuurwetenschappelijke betekenis of zijn natuurschoon;  
 
@@ -71,7 +71,7 @@ o. omgevingsvergunning: omgevingsvergunning als bedoeld in [artikel 1.1, eerste 
 
 ### Artikel  3  
 
-In dit hoofdstuk wordt verstaan onder Onze Ministers: Onze Minister tezamen met Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Verkeer en Waterstaat voorzover het aangelegenheden betreft die tot hun verantwoordelijkheid behoren.  
+In dit hoofdstuk wordt verstaan onder Onze Ministers: Onze Minister tezamen met Onze Minister van Infrastructuur en Milieu voorzover het aangelegenheden betreft die tot zijn verantwoordelijkheid behoren.  
 
 ### Artikel  4  
 
@@ -126,8 +126,8 @@ b. de redelijkerwijze te verwachten financiële en economische gevolgen van het 
 
 ### Artikel  9b  
 
-1.  Onze Minister wijst, tezamen met – ieder voorzover het hem aangaat – Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van Verkeer en Waterstaat en van Economische Zaken, overheidsinstellingen aan, die door het Milieu- en Natuurplanbureau in ieder geval worden betrokken bij het opstellen van de in artikel 9a bedoelde rapporten.   
-2.  Onze Minister kan, tezamen met – ieder voorzover het hem aangaat – Onze Ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van Verkeer en Waterstaat en van Economische Zaken, regels stellen ten aanzien van de wijze waarop de krachtens het eerste lid aangewezen overheidsinstellingen bij het opstellen van de rapporten worden betrokken.   
+1.  Onze Minister wijst, tezamen met – voor zover het hem aangaat – Onze Minister van Infrastructuur en Milieu, overheidsinstellingen aan, die door het Milieu- en Natuurplanbureau in ieder geval worden betrokken bij het opstellen van de in artikel 9a bedoelde rapporten.   
+2.  Onze Minister kan, tezamen met – voor zover het hem aangaat – Onze Minister van Infrastructuur en Milieu, regels stellen ten aanzien van de wijze waarop de krachtens het eerste lid aangewezen overheidsinstellingen bij het opstellen van de rapporten worden betrokken.   
 3.  Het Milieu- en Natuurplanbureau en de op grond van het eerste lid aangewezen instellingen verschaffen elkaar desgevraagd alle inlichtingen en gegevens waarover zij kunnen beschikken voorzover dat voor het opstellen van de rapporten, bedoeld in artikel 9a, eerste en tweede lid, redelijkerwijs noodzakelijk is.   
 
 ### Artikel  9c  
@@ -291,7 +291,7 @@ a. Onze Minister, indien:
 
 1°. voor het desbetreffende Natura 2000-gebied geen onherroepelijk geworden beheerplan als bedoeld in de artikelen 19a of  19b is vastgesteld, of  
 
-2°. het gebruik een krachtens artikel 19d, vierde lid, aangewezen project of andere handeling is, of het gebruik plaatsvindt in of gevolgen heeft voor categorieën van gebieden die krachtens dat lid zijn aangewezen;    
+2°. het gebruik een krachtens artikel 19d, vijfde lid, aangewezen project of andere handeling is, of het gebruik plaatsvindt in of gevolgen heeft voor categorieën van gebieden die krachtens dat lid zijn aangewezen;    
 
 b. gedeputeerde staten, in andere gevallen dan die, bedoeld in onderdeel a.     
 6.  Het eerste tot en met het vijfde lid zijn niet van toepassing op bestaand gebruik dat overeenkomstig een beheerplan als bedoeld in de artikelen 19a of  19b wordt uitgeoefend.   
@@ -468,10 +468,10 @@ b. in andere gevallen dan die, bedoeld in onderdeel a:
 
 ### Artikel  19kg  
 
-1.  Onze Minister en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer stellen in overeenstemming met Onze Ministers van Verkeer en Waterstaat en van Economische Zaken, een programma vast ter vermindering van de stikstofdepositie, afkomstig van in Nederland aanwezige bronnen, in de in het programma opgenomen Natura 2000-gebieden, met het oog op de realisatie van de instandhoudingsdoelstelling, bedoeld in artikel 10a, tweede lid.   
+1.  Onze Minister en Onze Minister van Infrastructuur en Milieu stellen een programma vast ter vermindering van de stikstofdepositie, afkomstig van in Nederland aanwezige bronnen, in de in het programma opgenomen Natura 2000-gebieden, met het oog op de realisatie van de instandhoudingsdoelstelling, bedoeld in artikel 10a, tweede lid.   
 2.  Ingeval het beheerplan voor een Natura 2000-gebied als bedoeld in het eerste lid wordt vastgesteld door gedeputeerde staten, vindt de opname van dat gebied in het programma, bedoeld in het eerste lid niet plaats dan op voordracht van desbetreffende gedeputeerde staten. Het programma, bedoeld in het eerste lid, wordt vastgesteld in overeenstemming met desbetreffende gedeputeerde staten.   
 3.  Indien een Natura 2000-gebied wordt opgenomen in het programma, bedoeld in het eerste lid, zal in het beheerplan een doelstelling ten aanzien van stikstofdepositie worden opgenomen die strekt tot een ambitieuze en re-alistische daling, in een gelijkmatige reductie per beheerplanperiode, van de stikstofdepositie in het Natura 2000-gebied met het oog op de realisatie binnen afzienbare termijn van de instandhoudingsdoelstelling in dat gebied. Hierbij kan onderscheid worden gemaakt tussen de depositie van ammoniak en andere stikstofverbindingen.   
-4.  Het programma wordt ten minste eenmaal in de zes jaar en voor de eerste keer uiterlijk twee jaar na inwerkingtreding van de Crisis- en herstelwet vastgesteld. Na het verstrijken van de eerste drie jaar van de geldingsduur kan naar aanleiding van een beoordeling van de in die periode opgedane ervaringen het plan door Onze Minister en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer in overeenstemming met de provincies, worden aangepast.   
+4.  Het programma wordt ten minste eenmaal in de zes jaar en voor de eerste keer uiterlijk twee jaar na inwerkingtreding van de Crisis- en herstelwet vastgesteld. Na het verstrijken van de eerste drie jaar van de geldingsduur kan naar aanleiding van een beoordeling van de in die periode opgedane ervaringen het plan door Onze Minister en Onze Minister van Infrastructuur en Milieu in overeenstemming met de provincies, worden aangepast.   
 
 ### Artikel  19kh  
 
@@ -505,20 +505,20 @@ c. gebiedsgerichte of effectgerichte maatregelen van bestuurorganen van het Rijk
 
 ### Artikel  19ki  
 
-Onze Minister en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer in overeenstemming met de provincies, wijzigen of vervangen op verzoek van een bestuursorgaan dat het aangaat, in het programma opgenomen maatregelen als bedoeld in artikel 19kh, eerste lid, onderdeel c, indien het desbetreffende bestuursorgaan ten genoegen van Onze voornoemde Ministers en de provincies heeft aangetoond dat die wijziging of de vervangende maatregel per saldo een vergelijkbaar of positiever effect zal hebben op de vermindering van de stikstofdepositie.  
+Onze Minister en Onze Minister van Infrastructuur en Milieu in overeenstemming met de provincies, wijzigen of vervangen op verzoek van een bestuursorgaan dat het aangaat, in het programma opgenomen maatregelen als bedoeld in artikel 19kh, eerste lid, onderdeel c, indien het desbetreffende bestuursorgaan ten genoegen van Onze voornoemde Ministers en de provincies heeft aangetoond dat die wijziging of de vervangende maatregel per saldo een vergelijkbaar of positiever effect zal hebben op de vermindering van de stikstofdepositie.  
 
 ### Artikel  19kj  
 
 1.  De daartoe bevoegde bestuursorganen dragen zorg voor een tijdige uitvoering van de in het programma beschreven of genoemde maatregelen, bedoeld in artikel 19kh, eerste lid, onderdeel c.   
-2.  Ingeval Onze Minister en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer in overeenstemming met de provincies van oordeel zijn dat een in het programma benoemde of beschreven maatregel niet meer nodig is, nemen zij het besluit dat het eerste lid niet meer van toepassing is op de desbetreffende maatregel.   
+2.  Ingeval Onze Minister en Onze Minister van Infrastructuur en Milieu in overeenstemming met de provincies van oordeel zijn dat een in het programma benoemde of beschreven maatregel niet meer nodig is, nemen zij het besluit dat het eerste lid niet meer van toepassing is op de desbetreffende maatregel.   
 
 ### Artikel  19kk  
 
-Bij ministeriële regeling van Onze Minister en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer kunnen nadere regels worden gesteld over de inpassing van onderdelen van het programma, bedoeld in artikel 19kg, die betrekking hebben op, of van belang zijn voor een in het programma, bedoeld in artikel 19kg, eerste lid, opgenomen Natura 2000-gebied, in het desbetreffende beheerplan.  
+Bij ministeriële regeling van Onze Minister en Onze Minister van Infrastructuur en Milieu kunnen nadere regels worden gesteld over de inpassing van onderdelen van het programma, bedoeld in artikel 19kg, die betrekking hebben op, of van belang zijn voor een in het programma, bedoeld in artikel 19kg, eerste lid, opgenomen Natura 2000-gebied, in het desbetreffende beheerplan.  
 
 ### Artikel  19kl  
 
-1.  Onze Minister en Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer stellen in overeenstemming met Onze Ministers van Verkeer en Waterstaat en van Economische Zaken, uiterlijk vier maanden na inwerkingtreding van de [Crisis- en herstelwet](../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md) een voorlopig programma vast ter vermindering van de stikstofdepositie.   
+1.  Onze Minister en Onze Minister van Infrastructuur en Milieu stellen uiterlijk vier maanden na inwerkingtreding van de [Crisis- en herstelwet](../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md) een voorlopig programma vast ter vermindering van de stikstofdepositie.   
 2.  In het voorlopige programma, bedoeld in het eerste lid, worden in elk geval beschreven of genoemd de maatregelen en effecten, bedoeld in artikel 19kh, eerste lid, onderdeel c, in samenhang met het tweede lid, onderdeel a.   
 3.  Het voorlopige programma vervalt op het moment dat een eerste programma als bedoeld in artikel 19kg, eerste lid, wordt vastgesteld.   
 4.  De artikelen 19kh, eerste lid, onderdeel f, 19ki en 19kj zijn van overeenkomstige toepassing.   
@@ -725,20 +725,6 @@ d. de omstandigheden sedert het tijdstip waarop de vergunning is verleend zodani
 2.  Indien gedeputeerde staten bevoegd zijn tot verlening van een vergunning, zenden zij een afschrift van de stukken, bedoeld in het eerste lid, aan burgemeester en wethouders van de gemeenten, bedoeld in het eerste lid, alsmede aan Onze Minister.   
 3.  Gedeputeerde staten en burgemeester en wethouders, onderscheidenlijk burgemeester en wethouders, kunnen binnen acht weken na de op de ontvangstbevestiging vermelde datum bij het tot verlening van de vergunning bevoegd orgaan hun zienswijze naar voren brengen.   
 
-### Artikel  45  
-
-1.  Onze Minister kan, indien dat in het algemeen belang geboden is, gedeputeerde staten een aanwijzing geven ter zake van het nemen van een besluit ten aanzien van een aanvraag om een vergunning als bedoeld in de artikelen 6, 19d, en 19ia in samenhang met 16, een reeds verleende vergunning als bedoeld in de artikelen 6, 19d, en 19ia in samenhang met 16, en een beheerplan als bedoeld in de artikelen 17 en 19a een passende maatregel als bedoeld in de artikelen 19c, eerste lid, en 19ia in samenhang met 19c, een oplegging van een verplichting of het geven van instructies als bedoeld in artikel 19ke, tweede lid.   
-2.  Onze Minister pleegt over het voornemen tot het geven van een aanwijzing overleg met de betrokken gedeputeerde staten.   
-3.  De aanwijzing wordt door gedeputeerde staten vermeld in de beschikking terzake waarvan zij is gegeven.   
-4.  Indien gedeputeerde staten niet binnen de door Onze Minister bij de in het eerste lid bedoelde aanwijzing gestelde termijn aan de aanwijzing gevolg geven, dan wel daaraan niet naar behoren gevolg geven, neemt Onze Minister het besluit waarop de aanwijzing betrekking had.   
-
-### Artikel  45a  
-
-1.  Onze Minister kan, indien dat in het algemeen belang geboden is, het bevoegde bestuursorgaan een aanwijzing geven ter zake van een besluit als bedoeld in artikel 19j, eerste lid.   
-2.  De bevoegdheid, bedoeld in het eerste lid, geldt niet ten aanzien van bestuursorganen die behoren tot de Staat.   
-3.  Onze Minister pleegt over het voornemen tot het geven van een aanwijzing overleg met de betrokken bestuursorganen.   
-4.  De betrokken bestuursorganen zijn verplicht een besluit als bedoeld in het eerste lid binnen zes maanden in overeenstemming te brengen met de aanwijzingen van Onze Minister.   
-
 ### Hoofdstuk  IX  
 
 ####Omgevingsvergunning
@@ -824,7 +810,7 @@ Het is verboden in strijd te handelen met een voorschrift van een omgevingsvergu
 
 a. de bij besluit van Onze Minister aangewezen ambtenaren;  
 
-b. de door Onze Minister van Justitie op grond van [artikel 17 van de Wet op de economische delicten](../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten belaste ambtenaren, en  
+b. de door Onze Minister van Veiligheid en Justitie op grond van [artikel 17 van de Wet op de economische delicten](../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten belaste ambtenaren, en  
 
 c. de bij besluit van gedeputeerde staten aangewezen ambtenaren.     
 2.  Van een besluit als bedoeld in het eerste lid, onderdeel a, wordt mededeling gedaan door plaatsing in de Staatscourant.   
@@ -832,14 +818,11 @@ c. de bij besluit van gedeputeerde staten aangewezen ambtenaren.
 ### Artikel  57  
 
 1.  Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bij of krachtens deze wet bepaalde, ter zake van projecten en andere handelingen waarvoor hij ingevolge de artikelen 16, 19d, en 19ia in samenhang met 16 bevoegd is vergunning te verlenen, alsmede ter zake van de verplichtingen en instructies die hij krachtens de artikelen 16, 19ia in samenhang met 19c, en 19ke bevoegd is op te leggen onderscheidenlijk te geven.   
-2.  Gedeputeerde staten geven op verzoek van Onze Minister een beschikking tot oplegging van een last onder bestuursdwang indien de bij of krachtens deze wet gestelde verplichtingen niet worden nageleefd. Bij het verzoek kan Onze Minister bepalen waarbinnen aan zijn verzoek wordt voldaan.   
-3.  Gedeputeerde staten zenden aan Onze Minister een exemplaar van de in het tweede lid bedoelde beschikking.   
-4.  Gedeputeerde staten zijn bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bij of krachtens deze wet bepaalde, ter zake van projecten en andere handelingen waarvoor zij ingevolge de artikelen 16, 19d, en 19ia in samenhang met 16 bevoegd zijn vergunning te verlenen, en waarvoor zij ingevolge de artikelen 19c, 19ia in samenhang met 19c, en 19ke, bevoegd zijn verplichtingen op te leggen en instructies te geven.   
-5.  Dit artikel is niet van toepassing met betrekking tot de handhaving van het bij of krachtens hoofdstuk IX bepaalde.   
+2.  Dit artikel is niet van toepassing met betrekking tot de handhaving van het bij of krachtens hoofdstuk IX bepaalde.   
 
 ### Artikel  57a  
 
-1.  Met betrekking tot de handhaving van het bij of krachtens hoofdstuk IX bepaalde zijn de [artikelen 5.3 tot en met 5.25 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing.   
+1.  Met betrekking tot de handhaving van het bij of krachtens hoofdstuk IX bepaalde zijn de [artikelen 5.3 tot en met 5.23 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing.   
 2.  Het in [artikel 5.2 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) bedoelde bestuursorgaan heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de op grond van hoofdstuk IX voor degene die de betrokken activiteit verricht, geldende voorschriften.   
 
 ### Hoofdstuk  XI  
@@ -862,7 +845,7 @@ Besluiten die zijn genomen op grond van de [artikelen 7](../../../../wet/natuurb
 1.  Besluiten die zijn genomen op grond van [artikel 12 van de Natuurbeschermingswet](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md) voor projecten of andere handelingen als bedoeld in artikel 19d, eerste lid, gelden ter zake van een Natura 2000-gebied als besluiten die zijn genomen op grond van artikel 19d.   
 2.  Besluiten die zijn genomen op grond van [artikel 16, tweede lid, onderdeel c, van de Natuurbeschermingswet](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md) gelden als besluiten die zijn genomen op grond van artikel 16 of artikel 19d van deze wet.   
 3.  Het eerste en het tweede lid gelden niet met betrekking tot de toepassing van artikel 31 van deze wet.   
-4.  De besluiten van Onze Minister van Landbouw, Natuur en Voedselkwaliteit houdende de aanwijzing van gebieden ter uitvoering van richtlijn 79/409/EEG gelden als besluiten als bedoeld in artikel 10a.   
+4.  De besluiten van Onze Minister houdende de aanwijzing van gebieden ter uitvoering van richtlijn 79/409/EEG gelden als besluiten als bedoeld in artikel 10a.   
 5.  Voor zover een beschermd natuurmonument als bedoeld in artikel 10 geheel of gedeeltelijk deel uitmaakt van een gebied als bedoeld in het vierde lid, vervalt in afwijking van artikel 15a, tweede lid, een besluit houdende de aanwijzing van dat beschermde natuurmonument geheel of gedeeltelijk met ingang van 1 oktober 2005. Artikel 15a, derde lid, is van overeenkomstige toepassing.   
 6.  Op besluiten, waarbij artikel 6 van de richtlijn 92/43/EEG aan de orde is, op voor 1 oktober 2005 ingediende aanvragen om vergunning of ontheffing en ingediende verzoeken om toestemming anderszins blijft deze wet buiten toepassing, totdat de bezwaar- of beroepstermijn is verstreken dan wel, indien beroep is ingesteld, onherroepelijk op het beroep is beslist.   
 7.  Een beheerplan dat is vastgesteld op grond van [artikel 14 van de Natuurbeschermingswet](../../../../wet/natuurbeschermingswet/BWBR0002611/README.md), behoudt zijn gelding gedurende de periode waarvoor het plan is aangegaan.   
@@ -933,8 +916,8 @@ Wijzigt de Algemene wet bestuursrecht.
 
 1.  De [Wet deelneming Grevelingen](../../../../wet/wet/deelneming/grevelingen/BWBR0003806/README.md) wordt ingetrokken.   
 2.  Het Natuur- en Recreatieschap De Grevelingen ontvangt ter zake van de uittreding van het Rijk uit de gemeenschappelijke regeling Natuur- en Recreatiegebied De Grevelingen een vergoeding van het Rijk van 9,75 miljoen euro, onder de voorwaarde dat de vergoeding door het Natuur- en Recreatieschap De Grevelingen of diens rechtsopvolger wordt besteed aan de behartiging van de belangen van natuur, landschap en openluchtrecreatie in De Grevelingen.   
-3.  Het Natuur- en Recreatieschap De Grevelingen of diens rechtsopvolger legt aan Onze Minister van Landbouw, Natuur en Voedselkwaliteit verantwoording af over de besteding van de afkoopsom en overlegt daartoe jaarlijks aan Onze Minister van Landbouw, Natuur en Voedselkwaliteit een jaarrekening tezamen met een accountantsverklaring. De eerste volzin is van toepassing tot 1 januari 2030 of, als dit eerder is, tot 1 januari van het jaar volgend op het jaar waarin het Natuur- en Recreatieschap De Grevelingen of diens rechtsopvolger is opgehouden te bestaan.   
-4.  Ingeval niet is voldaan aan de voorwaarde, bedoeld in het tweede lid, of aan de verplichtingen, bedoeld in het derde lid, eerste volzin, kan Onze Minister van Landbouw, Natuur en Voedselkwaliteit de vergoeding geheel of gedeeltelijk terugvorderen.   
+3.  Het Natuur- en Recreatieschap De Grevelingen of diens rechtsopvolger legt aan Onze Minister verantwoording af over de besteding van de afkoopsom en overlegt daartoe jaarlijks aan Onze Minister een jaarrekening tezamen met een accountantsverklaring. De eerste volzin is van toepassing tot 1 januari 2030 of, als dit eerder is, tot 1 januari van het jaar volgend op het jaar waarin het Natuur- en Recreatieschap De Grevelingen of diens rechtsopvolger is opgehouden te bestaan.   
+4.  Ingeval niet is voldaan aan de voorwaarde, bedoeld in het tweede lid, of aan de verplichtingen, bedoeld in het derde lid, eerste volzin, kan Onze Minister de vergoeding geheel of gedeeltelijk terugvorderen.   
 
 ### Artikel  74  
 

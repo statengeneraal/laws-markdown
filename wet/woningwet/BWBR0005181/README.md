@@ -342,24 +342,6 @@ Indien het bevoegd gezag een besluit als bedoeld in artikel 13, 13a, 14, eerste 
 
 ####Vergunning tot hergebruik van een ontruimde onbewoonbaarverklaarde woning of woonwagen
 
-### Afdeling  4  
-
-####Vergunning voor toegelaten instellingen tot vervreemden van onroerende zaken en daarop vestigen van zakelijke rechten
-
-### Artikel  61a  
-
-1.  Het is een toegelaten instelling als bedoeld in artikel 70, eerste lid, in bij of krachtens algemene maatregel van bestuur aangegeven gevallen, verboden zonder vergunning van Onze Minister haar onroerende zaken te vervreemden aan of daarop een recht van erfpacht, van opstal of van vruchtgebruik te vestigen ten behoeve van een wederpartij die geen zodanige toegelaten instelling en geen huurder van een onroerende zaak van een zodanige toegelaten instelling is. Onze Minister stelt voor het aanvragen van een zodanige vergunning en het in verband daarmee door de betrokken toegelaten instelling verstrekken van gegevens een formulier vast.   
-2.  Onze Minister kan de in het eerste lid bedoelde vergunning weigeren, indien de toegelaten instelling bij een voorgenomen vervreemding aan of vestiging van een recht als bedoeld in dat lid naar zijn oordeel: 
-
-a. onvoldoende rekening houdt met de gevolgen daarvan voor de huurders van de betrokken onroerende zaken;  
-
-b. onvoldoende motiveert waarom zij afziet van vervreemding aan of vestiging van een zodanig recht ten behoeve van een andere wederpartij, of  
-
-c. de bij of krachtens algemene maatregel van bestuur gegeven, op een handeling als bedoeld in het eerste lid van toepassing zijnde voorschriften niet naleeft.     
-3.  Onze Minister kan de in het eerste lid bedoelde vergunning intrekken, indien hem blijkt dat hij de vergunning ten gevolge van een onjuiste of onvolledige opgave heeft verleend.   
-4.  Onze Minister kan de in het eerste lid bedoelde vergunning tevens weigeren of intrekken in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
-5.  Voordat toepassing wordt gegeven aan het vierde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.   
-
 ### Hoofdstuk  V  
 
 ####Voorziening in de woningbehoefte
@@ -611,15 +593,6 @@ Een algemene maatregel van bestuur als bedoeld in de artikelen 71a, 71b en 71e, 
 1.  Burgemeester en wethouders kunnen, ingeval dit noodzakelijk is voor het naar behoren uitvoeren van deze wet, besluiten rechtstreeks van gemeentewege voorzieningen in het belang van de volkshuisvesting te treffen.   
 2.  Indien ter uitvoering van het eerste lid van gemeentewege woningen, woonwagens of standplaatsen worden gebouwd, geschiedt dit slechts, indien aannemelijk is, dat door het bouwen van woningen, woonwagens of standplaatsen door toegelaten instellingen niet voldoende in de woningbehoefte zal worden voorzien.   
 
-### Artikel  80  
-
-1.  Indien blijkt, dat in een gemeente onvoldoende wordt voorzien in de volkshuisvesting, kan bij koninklijk besluit, gedeputeerde staten gehoord, de gemeenteraad onderscheidenlijk burgemeester en wethouders of het bevoegde gezag van een samenwerkingsverband van gemeenten worden verplicht de in dat besluit aangegeven voorzieningen in het belang van de volkshuisvesting te treffen.   
-2.  Indien blijkt, dat in een provincie onvoldoende wordt voorzien in de volkshuisvesting, kunnen bij koninklijk besluit, de inspecteur gehoord, provinciale staten of gedeputeerde staten worden verplicht de in dat besluit aangegeven voorzieningen in het belang van de volkshuisvesting te treffen.   
-3.  Bij het in het eerste en tweede lid bedoelde besluit kan worden bepaald op welke wijze en binnen welke termijn aan dat besluit moet worden voldaan.   
-4.  Indien de gemeenteraad onderscheidenlijk burgemeester en wethouders of het bevoegde gezag van het samenwerkingsverband van gemeenten niet binnen de in het derde lid bedoelde termijn heeft voldaan aan het in het eerste lid bedoelde besluit, geven gedeputeerde staten uitvoering aan dat besluit op kosten van de gemeente of het samenwerkingsverband van gemeenten.   
-5.  Indien provinciale staten of gedeputeerde staten niet binnen de in het derde lid bedoelde termijn hebben voldaan aan het in het tweede lid bedoelde besluit, geeft Onze Minister uitvoering aan dat besluit op kosten van de provincie.   
-6.  Indien hetgeen ingevolge het derde lid is bepaald, niet strookt met de voorschriften van enige plaatselijke, regionale of provinciale verordening, blijven die voorschriften buiten toepassing.   
-
 ### Afdeling  4a  
 
 ####Stedelijke vernieuwing
@@ -642,9 +615,7 @@ Een algemene maatregel van bestuur als bedoeld in de artikelen 71a, 71b en 71e, 
 
 a. het geval waarin een provincie bevoegdheden en verplichtingen al dan niet dient over te dragen;  
 
-b. de gehoudenheid van een provincie uitvoering te geven aan een door Onze Minister gegeven aanwijzing ter zake van een overdracht als bedoeld in onderdeel a, binnen een in die aanwijzing bepaalde termijn, en  
-
-c. de wijze waarop in geval van overdracht verantwoording aan Onze Minister wordt afgelegd.     
+b. de wijze waarop in geval van overdracht verantwoording aan Onze Minister wordt afgelegd.     
 4.  Bij of krachtens de algemene maatregel van bestuur, bedoeld in het tweede lid, kan worden bepaald dat de gemeenteraad, het algemeen bestuur van een plusregio of provinciale staten voorschriften geeft of geven omtrent het door burgemeester en wethouders, het dagelijks bestuur van een plusregio of gedeputeerde staten verstrekken van subsidie ten laste van de uit ’s Rijks kas aan hen verstrekte financiële middelen voor de activiteiten, bedoeld in het eerste lid.   
 5.  Bij algemene maatregel van bestuur kunnen ter bevordering van eenheid in de voorschriften, bedoeld in het vierde lid, regelen worden gegeven omtrent de inhoud van die voorschriften.   
 6.  De gemeenteraad, het algemeen bestuur van een plusregio of provinciale staten brengen de door hen gegeven voorschriften, bedoeld in het vierde lid, binnen zes maanden na het van kracht worden van de algemene maatregel van bestuur, bedoeld in het vijfde lid, in overeenstemming met de bij die algemene maatregel van bestuur gegeven voorschriften.   
@@ -732,7 +703,7 @@ In aanvulling op [artikel 5.11, eerste lid, van de Wet algemene bepalingen omgev
 
 ### Artikel  101a  
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Indien schaarste dreigt te ontstaan dan wel bestaat aan arbeidskrachten, geldmiddelen of materialen, kunnen bij of krachtens algemene maatregel van bestuur, zo nodig in afwijking van de in de hoofdstukken III en V of de [Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) vervatte bepalingen, voorschriften worden gegeven omtrent de toepassing van die bepalingen of de verlening van een omgevingsvergunning.  
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.  Indien schaarste dreigt te ontstaan dan wel bestaat aan arbeidskrachten, geldmiddelen of materialen, kunnen bij of krachtens algemene maatregel van bestuur, zo nodig in afwijking van de in de hoofdstukken III en V of de [Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) vervatte bepalingen, voorschriften worden gegeven omtrent de toepassing van die bepalingen of de verlening van een omgevingsvergunning voor het bouwen van een bouwwerk.  
 
 ### Artikel  102  
 

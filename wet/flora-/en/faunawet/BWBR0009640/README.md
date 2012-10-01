@@ -1104,7 +1104,7 @@ Hetgeen krachtens het voorgaande artikel verschuldigd is, kan worden ingevorderd
 ### Artikel  113a  
 
 1.  Deze paragraaf is niet van toepassing met betrekking tot de handhaving van het bij of krachtens afdeling 2a bepaalde.   
-2.  Met betrekking tot de handhaving van het bij of krachtens afdeling 2a bepaalde zijn de [artikelen 5.3 tot en met 5.25 van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing.   
+2.  Met betrekking tot de handhaving van het bij of krachtens afdeling 2a bepaalde zijn de [artikelen 5.3 tot en met 5.23 van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing.   
 3.  Het in [artikel 5.2 van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) bedoelde bestuursorgaan heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de op grond van afdeling 2a voor degene die de betrokken activiteit verricht.   
 
 ### Hoofdstuk  IX  

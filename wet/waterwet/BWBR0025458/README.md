@@ -245,7 +245,7 @@ b. waarschuwingen en verdere inlichtingen worden verschaft aan de beheerders van
 
 ### Artikel  3.6  
 
-1.  De gemeenteraad en het college van burgemeester en wethouders dragen zorg voor het in het openbaar gemeentelijke gebied treffen van maatregelen teneinde structureel nadelige gevolgen van de grondwaterstand voor de aan de grond gegeven bestemming zoveel mogelijk te voorkomen of te beperken, voor zover het treffen van die maatregelen doelmatig is en niet tot de zorg van het waterschap of de provincie behoort.   
+1.  De gemeenteraad en het college van burgemeester en wethouders dragen zorg voor het in het openbaar gemeentelijke gebied treffen van maatregelen teneinde structureel nadelige gevolgen van de grondwaterstand voor de aan de grond gegeven bestemming zoveel mogelijk te voorkomen of te beperken, voor zover het treffen van die maatregelen doelmatig is en niet tot de zorg van de beheerder of de provincie behoort.   
 2.  De maatregelen, bedoeld in het eerste lid, omvatten mede de verwerking van het ingezamelde grondwater, waaronder in ieder geval worden begrepen de berging, het transport, de nuttige toepassing en het, al dan niet na zuivering, op of in de bodem of in het oppervlaktewater brengen van ingezameld grondwater, en het afvoeren naar een zuiveringtechnisch werk.   
 
 ### §  1a  
@@ -333,7 +333,7 @@ Waterschappen en gemeenten dragen zorg voor de met het oog op een doelmatig en s
 
 1.  Onze Minister kan, indien internationale verplichtingen of bovenregionale belangen dat noodzakelijk maken, gedeputeerde staten of het bestuur van een waterschap een aanwijzing geven omtrent de uitoefening van taken of bevoegdheden in het kader van het waterbeheer. Artikel 3.12, tweede lid, is van overeenkomstige toepassing.   
 2.  Een aanwijzing wordt niet gegeven dan nadat het betrokken bestuursorgaan en, indien de aanwijzing is gericht tot het bestuur van een waterschap, gedeputeerde staten van de provincie of provincies waaraan het toezicht op dat waterschap is opgedragen, in de gelegenheid zijn gesteld van hun gevoelen omtrent het voornemen tot het geven van de aanwijzing te doen blijken, tenzij spoedeisende omstandigheden zich daartegen verzetten.   
-3.  Wanneer gedeputeerde staten of het bestuur van een waterschap een krachtens het eerste lid gevorderde beslissing niet of niet naar behoren neemt, is Onze Minister bevoegd daarin namens dat bestuur en ten laste van het desbetreffende openbaar lichaam te voorzien.   
+3.  Wanneer het bestuur van een waterschap een krachtens het eerste lid gevorderde beslissing niet of niet naar behoren neemt dan wel een krachtens het eerste lid gevorderde handeling niet of niet naar behoren verricht, besluit Onze Minister daarin te voorzien ten laste van het waterschap. De [artikelen 121, tweede en vierde lid](../../../wet/provinciewet/BWBR0005645/README.md), [121a tot en met 121e](../../../wet/provinciewet/BWBR0005645/README.md) en [121g van de Provinciewet](../../../wet/provinciewet/BWBR0005645/README.md) zijn van overeenkomstige toepassing.   
 
 ### Artikel  3.14  
 
@@ -899,11 +899,17 @@ c. indien een voor Nederland verbindend verdrag of besluit van een volkenrechtel
 
 ### Artikel  6.26  
 
-1.  Op vergunningen voor het lozen of storten van stoffen zijn de [artikelen 2.14, eerste, derde, vierde en zesde lid](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.25, eerste lid](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.30](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.31, eerste lid, onder b](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.33, eerste lid, onder b](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), en [8.1 van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van overeenkomstige toepassing, met dien verstande dat voor «omgevingsvergunning» wordt gelezen: vergunning.   
+1.  Op vergunningen voor het lozen of storten van stoffen zijn de volgende bepalingen van de [Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van overeenkomstige toepassing: 
+
+a. [2.14, eerste lid en derde tot en met zesde lid](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md),  
+
+b. [2.22, vijfde lid, eerste en tweede volzin](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), met dien verstande dat aan de watervergunning voorschriften worden verbonden die strengere eisen bevatten dan de algemeen verbindende voorschriften, bedoeld in de eerste volzin van dat lid, voor zover deze eisen naar het oordeel van het bevoegd gezag noodzakelijk zijn ter verwezenlijking van de voor het desbetreffende oppervlaktewaterlichaam in het beheerplan, bedoeld in hoofdstuk 4, paragraaf 3, van deze wet, opgenomen maatregelen;  
+
+c. [2.25, eerste lid](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.30](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.31, eerste lid, aanhef en onder b](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [2.33, eerste lid, aanhef en onder b](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), en [8.1](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), met dien verstande dat voor «omgevingsvergunning» wordt gelezen «vergunning» dat voor «milieu» wordt gelezen «chemische en ecologische kwaliteit van watersystemen» en voor «een inrichting of mijnbouwwerk of de werking daarvan»: het storten of lozen van stoffen.     
 2.  In afwijking van artikel 6.16, eerste lid, is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de voorbereiding van een beschikking op de aanvraag tot wijziging van een vergunning voor het lozen van stoffen, die niet leidt tot andere of grotere nadelige gevolgen voor de chemische en ecologische kwaliteit van watersystemen dan volgens de geldende vergunning zijn toegestaan. De [artikelen 3.8](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [3.9, eerste lid, onderdeel a, en tweede tot en met vierde lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) zijn van overeenkomstige toepassing op de voorbereiding, bedoeld in de eerste volzin, met dien verstande dat voor «omgevingsvergunning» wordt gelezen: vergunning.   
 3.  Een vergunning voor het infiltreren van water wordt slechts verleend, indien er geen gevaar is voor verontreiniging van het grondwater. Bij de beoordeling van dat gevaar worden de krachtens [artikel 12 van de Wet bodembescherming](../../../wet/wet/bodembescherming/BWBR0003994/README.md) gestelde regels in acht genomen.   
-4.  Onverminderd artikel 6.20 worden aan een vergunning als bedoeld in het tweede lid voorschriften verbonden volgens de krachtens [artikel 12 van de Wet bodembescherming](../../../wet/wet/bodembescherming/BWBR0003994/README.md) gestelde regels. Aan de vergunning worden in ieder geval voorschriften verbonden ter verzekering van de controle op de kwaliteit van het grondwater.   
-5.  Het tweede en derde lid zijn van overeenkomstige toepassing op de aan een vergunning voor het onttrekken van grondwater te verbinden voorschriften, voor zover die voorschriften betrekking hebben op het infiltreren van water.   
+4.  Onverminderd artikel 6.20 worden aan een vergunning als bedoeld in het derde lid voorschriften verbonden volgens de krachtens [artikel 12 van de Wet bodembescherming](../../../wet/wet/bodembescherming/BWBR0003994/README.md) gestelde regels. Aan de vergunning worden in ieder geval voorschriften verbonden ter verzekering van de controle op de kwaliteit van het grondwater.   
+5.  Het derde en vierde lid zijn van overeenkomstige toepassing op de aan een vergunning voor het onttrekken van grondwater te verbinden voorschriften, voor zover die voorschriften betrekking hebben op het infiltreren van water.   
 
 ### §  4  
 
@@ -937,7 +943,7 @@ In een geval als bedoeld in artikel 6.27, eerste lid, waarin burgemeester en wet
 
 ### Artikel  6.30  
 
-Het bevoegd gezag en de bestuursorganen die zijn betrokken bij de beslissing op de aanvraag om een watervergunning, maken gebruik van de voorziening, bedoeld in artikel 7.6, eerste lid, van de Wet algemene bepalingen omgevingsrecht. Artikel 7.6, tweede lid, tweede en derde volzin, van die wet zijn van overeenkomstige toepassing.  
+Het bevoegd gezag en de bestuursorganen die zijn betrokken bij de beslissing op de aanvraag om een watervergunning, maken gebruik van de voorziening, bedoeld in [artikel 7.6, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md). Artikel 7.6, tweede lid, tweede en derde volzin, van die wet zijn van overeenkomstige toepassing.  
 
 ### Hoofdstuk  7  
 

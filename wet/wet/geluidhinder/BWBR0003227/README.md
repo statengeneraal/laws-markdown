@@ -14,13 +14,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-In deze wet en de daarop berustende bepalingen wordt verstaan onder: *andere geluidsgevoelige gebouwen*: 
-
-1°. onderwijsgebouwen;  
-
-2°. ziekenhuizen en verpleeghuizen;  
-
-3°. bij algemene maatregel van bestuur aan te wijzen andere gezondheidszorggebouwen dan bedoeld onder 2°;   delen van het gebouw die niet zijn bestemd voor geluidsgevoelige onderwijsactiviteiten maken voor de toepassing van deze wet geen deel uit van een onderwijsgebouw; *bebouwde kom*: bebouwde kom, vastgesteld krachtens de [Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md); *bestemmingsplan*: bestemmingsplan als bedoeld in [artikel 3.1 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), een inpassingsplan als bedoeld in [artikel 3.26](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of  [3.28 van die wet](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) hieronder mede begrepen; *buitenstedelijk gebied*: gebied buiten de bebouwde kom alsmede, voor de toepassing van de hoofdstukken VI en VII voor zover het betreft een autoweg of autosnelweg als bedoeld in het [Reglement verkeersregels en verkeerstekens 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), het gebied binnen de bebouwde kom, voor zover liggend binnen de zone langs die autoweg of autosnelweg; *equivalent geluidsniveau*: gemiddelde – te bepalen op een door Onze Minister krachtens toepassing van artikel 110d aangegeven wijze – van de afwisselende niveaus van het ter plaatse in de loop van een bepaalde periode optredende geluid, vastgesteld volgens de door Onze Minister krachtens toepassing van dat artikel gestelde regels; *etmaalwaarde van het equivalente geluidsniveau in dB(A) met betrekking tot een industrieterrein*: hoogste van de volgende drie waarden: 
+In deze wet en de daarop berustende bepalingen wordt verstaan onder: *ander geluidsgevoelig gebouw*: bij algemene maatregel van bestuur als zodanig aangewezen gebouw dat vanwege de bestemming of het gebruik daarvan bijzondere bescherming tegen geluid behoeft, niet zijnde een woning; *bebouwde kom*: bebouwde kom, vastgesteld krachtens de [Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md); *bestemmingsplan*: bestemmingsplan als bedoeld in [artikel 3.1 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), een inpassingsplan als bedoeld in [artikel 3.26](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) of  [3.28 van die wet](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) hieronder mede begrepen; *buitenstedelijk gebied*: gebied buiten de bebouwde kom alsmede, voor de toepassing van de hoofdstukken VI en VII voor zover het betreft een autoweg of autosnelweg als bedoeld in het [Reglement verkeersregels en verkeerstekens 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), het gebied binnen de bebouwde kom, voor zover liggend binnen de zone langs die autoweg of autosnelweg; *equivalent geluidsniveau*: gemiddelde – te bepalen op een door Onze Minister krachtens toepassing van artikel 110d aangegeven wijze – van de afwisselende niveaus van het ter plaatse in de loop van een bepaalde periode optredende geluid, vastgesteld volgens de door Onze Minister krachtens toepassing van dat artikel gestelde regels; *etmaalwaarde van het equivalente geluidsniveau in dB(A) met betrekking tot een industrieterrein*: hoogste van de volgende drie waarden: 
 
 1°. de waarde van het equivalente geluidsniveau over de periode 07.00–19.00 uur (dag);  
 
@@ -30,47 +24,31 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder: *andere gel
 
 1°. de waarde van het equivalente geluidsniveau over de periode 07.00–19.00 uur (dag);  
 
-2°. de met 10 dB(A) verhoogde waarde van het equivalente geluidsniveau over de periode 23.00–07.00 uur (nacht);   *geluid*: met het menselijk oor waarneembare luchttrillingen; *geluidhinder*: gevaar, schade of hinder, als gevolg van geluid; *geluidsbelasting binnen een woning*: geluidsbelasting binnen een geluidsgevoelige ruimte; *geluidsbelasting in dB(A) vanwege een industrieterrein*: etmaalwaarde van het equivalente geluidsniveau in dB(A) op een bepaalde plaats, veroorzaakt door de gezamenlijke inrichtingen op een industrieterrein; *geluidsbelasting in dB(A) vanwege een weg*: etmaalwaarde van het equivalente geluidsniveau in dB(A) op een bepaalde plaats, veroorzaakt door het gezamenlijke wegverkeer op een bepaald weggedeelte of een combinatie van weggedeelten; *geluidsbelasting in dB*: op een geheel getal af te ronden geluidsbelasting in L <sub>den</sub> op een plaats en vanwege een bron over alle perioden van 07.00–19.00 uur, van 19.00–23.00 uur en van 23.00–07.00 uur van een jaar als omschreven in bijlage I, onderdeel 1, van richtlijn nr. 2002/49/EG van het Europees Parlement en de Raad van de Europese Unie van 25 juni 2002 inzake de evaluatie en de beheersing van omgevingslawaai (PbEG L 189); *geluidsbelasting L <sub>night</sub>*: geluidsbelasting op een plaats en vanwege een bron over alle perioden van 23.00–07.00 uur van een jaar als omschreven in bijlage I, onderdeel 2, van richtlijn nr. 2002/49/EG van het Europees Parlement en de Raad van de Europese Unie van 25 juni 2002 inzake de evaluatie en de beheersing van omgevingslawaai (PbEG L 189); *geluidsgevoelige ruimte*: ruimte binnen een woning voor zover die kennelijk als slaap-, woon-, of eetkamer wordt gebruikt of voor een zodanig gebruik is bestemd, alsmede een keuken van ten minste 11 m <sup>2</sup>; *geluidsgevoelige terreinen*: 
-
-1°. terreinen die behoren bij andere gezondheidszorggebouwen dan algemene, categorale en academische ziekenhuizen, alsmede verpleeghuizen, voor zover deze bestemd zijn of worden gebruikt voor de in die gebouwen verleende zorg, of  
-
-2°. woonwagenstandplaatsen;   *geluidsniveau in dB(A)*: gemeten of berekende geluidsniveau, uitgedrukt in dB(A) overeenkomstig de door de Internationale Electrotechnische Commissie terzake opgestelde regels; *geluidsvermogen*: hoeveelheid geluidsenergie die door een toestel of inrichting per tijdseenheid naar de omgevende lucht kan worden uitgestraald; *geprojecteerde weg*: nog niet in aanleg zijnde weg, in de aanleg waarvan door een geldend bestemmingsplan wordt voorzien; *geprojecteerde woning of gebouw*: nog niet aanwezige woning of nog niet aanwezig gebouw, waarvoor het geldende bestemmingsplan verlening van de omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) toelaat, maar deze nog niet is afgegeven; *gevel*: bouwkundige constructie die een ruimte in een woning of gebouw scheidt van de buitenlucht, daaronder begrepen het dak; *hoofdspoorweg*: krachtens [artikel 2 van de Spoorwegwet](../../../../wet/spoorwegwet/BWBR0015007/README.md) aangewezen hoofdspoorweg, niet zijnde een spoorwegemplacement; *industrieterrein:* terrein waaraan in hoofdzaak een bestemming is gegeven voor de vestiging van inrichtingen en waarvan de bestemming voor het gehele terrein of een gedeelte daarvan de mogelijkheid insluit van vestiging van inrichtingen, behorende tot een bij algemene maatregel van bestuur aan te wijzen categorie van inrichtingen, die in belangrijke mate geluidhinder kunnen veroorzaken; *inrichting*: inrichting als aangewezen krachtens [artikel 1.1, derde lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md); *inspecteur*: als zodanig bij besluit van Onze Minister aangewezen ambtenaar; *internationaal racecircuit:* TT-Circuit Assen, Circuit Park Zandvoort of een ander bij ministeriële regeling aan te wijzen verhard circuit voor het houden van grootschalige internationale wedstrijden voor gemotoriseerde voertuigen; *motorvoertuig*: motorvoertuig als bedoeld in het [Reglement verkeersregels en verkeerstekens 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md); *NEN*: door de Stichting Nederlands Normalisatie-instituut uitgegeven norm; *Onze Minister*: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer; *reconstructie van een weg*: een of meer wijzigingen op of aan een aanwezige weg ten gevolge waarvan uit akoestisch onderzoek als bedoeld in artikel 77, eerste lid, onder a, en artikel 77, derde lid, blijkt dat de berekende geluidsbelasting vanwege de weg in het toekomstig maatgevende jaar zonder het treffen van maatregelen ten opzichte van de geluidsbelasting die op grond van artikel 100 dan wel het bepaalde krachtens artikel 100b, aanhef en onder a, als de ten hoogste toelaatbare geluidsbelasting geldt met 2 dB of meer wordt verhoogd; *rijstrook*: strook van de rijbaan van een weg, welke voldoende plaats biedt aan een enkele rij rijdende motorvoertuigen op meer dan drie wielen, of, indien door middel van markering een bredere strook als rijstrook is aangegeven, die strook; *spoorweg*: spoorweg als bedoeld in [artikel 1 van de Spoorwegwet](../../../../wet/spoorwegwet/BWBR0015007/README.md), voor zover deze is aangegeven op een bij of krachtens deze wet vastgestelde kaart; *stedelijk gebied*: gebied binnen de bebouwde kom, doch, voor de toepassing van de hoofdstukken VI en VII voor zover het betreft een autoweg of autosnelweg als bedoeld in het [Reglement verkeersregels en verkeerstekens 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), met uitzondering van het gebied binnen de bebouwde kom, voor zover liggend binnen de zone langs die autoweg of autosnelweg; *toestel*: toestel dat bij gebruik anders dan door menselijke energie geluidhinder kan veroorzaken, een luchtvaartuig daaronder niet begrepen; *vaststellen van een bestemmingsplan*: vaststellen of herzien van een bestemmingsplan; *weg*: voor het openbaar rij- of ander verkeer openstaande weg of pad, met inbegrip van de daarin liggende bruggen of duikers; *wegaanlegger*: opdrachtgever tot aanleg of reconstructie van een weg; *weg in aanleg*: weg met de aanleg waarvan een begin van uitvoering is gemaakt; *wijziging van een spoorweg*: wijziging met betrekking tot een aanwezige spoorweg, die verandering brengt in de omstandigheden welke ingevolge de regels die gelden bij de vaststelling van de geluidsbelasting vanwege die spoorweg in acht genomen moeten worden en waarvan uit akoestisch onderzoek blijkt dat de berekende geluidsbelasting vanwege de spoorweg in het toekomstig maatgevende jaar zonder het treffen van maatregelen hoger zal zijn dan 63 dB of, indien die berekende geluidsbelasting vanwege de spoorweg in het toekomstig maatgevende jaar 63 dB of lager zal zijn maar hoger dan een bij algemene maatregel van bestuur aangegeven geluidsbelasting, uit het onderzoek blijkt dat de geluidsbelasting vanwege de spoorweg in het toekomstig maatgevende jaar zonder het treffen van maatregelen ten opzichte van de geluidsbelasting voorafgaand aan de wijziging zal toenemen met ten minste 3 dB; *woning*: gebouw dat voor bewoning gebruikt wordt of daartoe bestemd is; *woning of gebouw in aanbouw*: nog niet aanwezige woning of nog niet aanwezig gebouw, waarvoor de omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is afgegeven; *woonwagenstandplaats*: standplaats als bedoeld in [artikel 1, eerste lid, onder e, van de Huisvestingswet](../../../../wet/huisvestingswet/BWBR0005674/README.md).  
-
-### Artikel  1a  
-
-In deze wet en de daarop berustende bepalingen wordt onder een woning als bedoeld in artikel 1 niet verstaan een opvangcentrum als bedoeld in [artikel 1, onderdeel d, van de Wet Centraal Orgaan opvang asielzoekers](../../../../wet/wet/centraal/orgaan/opvang/asielzoekers/BWBR0006685/README.md).  
+2°. de met 10 dB(A) verhoogde waarde van het equivalente geluidsniveau over de periode 23.00–07.00 uur (nacht);   *geluid*: met het menselijk oor waarneembare luchttrillingen; *geluidhinder*: gevaar, schade of hinder, als gevolg van geluid; *geluidplafondkaart*: kaart met daarop aangegeven de wegen en spoorwegen, alsmede de geprojecteerde wegen en spoorwegen, waarop [titel 11.3 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en de daarop berustende bepalingen van toepassing zijn; *geluidsbelasting binnen een woning*: geluidsbelasting binnen een geluidsgevoelige ruimte; *geluidsbelasting in dB(A) vanwege een industrieterrein*: etmaalwaarde van het equivalente geluidsniveau in dB(A) op een bepaalde plaats, veroorzaakt door de gezamenlijke inrichtingen op een industrieterrein; *geluidsbelasting in dB(A) vanwege een weg*: etmaalwaarde van het equivalente geluidsniveau in dB(A) op een bepaalde plaats, veroorzaakt door het gezamenlijke wegverkeer op een bepaald weggedeelte of een combinatie van weggedeelten; *geluidsbelasting in dB*: op een geheel getal af te ronden geluidsbelasting in L <sub>den</sub> op een plaats en vanwege een bron over alle perioden van 07.00–19.00 uur, van 19.00–23.00 uur en van 23.00–07.00 uur van een jaar als omschreven in bijlage I, onderdeel 1, van richtlijn nr. 2002/49/EG van het Europees Parlement en de Raad van de Europese Unie van 25 juni 2002 inzake de evaluatie en de beheersing van omgevingslawaai (PbEG L 189); *geluidsbelasting L <sub>night</sub>*: geluidsbelasting op een plaats en vanwege een bron over alle perioden van 23.00–07.00 uur van een jaar als omschreven in bijlage I, onderdeel 2, van richtlijn nr. 2002/49/EG van het Europees Parlement en de Raad van de Europese Unie van 25 juni 2002 inzake de evaluatie en de beheersing van omgevingslawaai (PbEG L 189); *geluidsgevoelige ruimte*: ruimte binnen een woning voor zover die kennelijk als slaap-, woon-, of eetkamer wordt gebruikt of voor een zodanig gebruik is bestemd, alsmede een keuken van ten minste 11 m <sup>2</sup>; *geluidsgevoelig terrein*: bij algemene maatregel van bestuur als zodanig aangewezen terrein dat vanwege de bestemming of het gebruik daarvan bijzondere bescherming tegen geluid behoeft; *geluidsniveau in dB(A)*: gemeten of berekende geluidsniveau, uitgedrukt in dB(A) overeenkomstig de door de Internationale Electrotechnische Commissie terzake opgestelde regels; *geluidsvermogen*: hoeveelheid geluidsenergie die door een toestel of inrichting per tijdseenheid naar de omgevende lucht kan worden uitgestraald; *geprojecteerde weg*: nog niet in aanleg zijnde weg, in de aanleg waarvan door een geldend bestemmingsplan wordt voorzien; *geprojecteerde woning of gebouw*: nog niet aanwezige woning of nog niet aanwezig gebouw, waarvoor het geldende bestemmingsplan verlening van de omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) toelaat, maar deze nog niet is afgegeven; *gevel*: bouwkundige constructie die een ruimte in een woning of gebouw scheidt van de buitenlucht, daaronder begrepen het dak; *hoofdspoorweg*: krachtens [artikel 2 van de Spoorwegwet](../../../../wet/spoorwegwet/BWBR0015007/README.md) aangewezen hoofdspoorweg, niet zijnde een spoorwegemplacement; *hoofdweg*: een weg waarvoor een verbinding is aangegeven op een kaart van indicatieve en limitatieve hoofdwegverbindingen, die behoort tot een structuurvisie als bedoeld in [artikel 2.3 van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md); *industrieterrein:* terrein waaraan in hoofdzaak een bestemming is gegeven voor de vestiging van inrichtingen en waarvan de bestemming voor het gehele terrein of een gedeelte daarvan de mogelijkheid insluit van vestiging van inrichtingen, behorende tot een bij algemene maatregel van bestuur aan te wijzen categorie van inrichtingen, die in belangrijke mate geluidhinder kunnen veroorzaken; *inrichting*: inrichting als aangewezen krachtens [artikel 1.1, derde lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md); *inspecteur*: als zodanig bij besluit van Onze Minister aangewezen ambtenaar; *internationaal racecircuit:* TT-Circuit Assen, Circuit Park Zandvoort of een ander bij ministeriële regeling aan te wijzen verhard circuit voor het houden van grootschalige internationale wedstrijden voor gemotoriseerde voertuigen; *motorvoertuig*: motorvoertuig als bedoeld in het [Reglement verkeersregels en verkeerstekens 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md); *NEN*: door de Stichting Nederlands Normalisatie-instituut uitgegeven norm; *Onze Minister*: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer; *reconstructie van een weg*: een of meer wijzigingen op of aan een aanwezige weg ten gevolge waarvan uit akoestisch onderzoek als bedoeld in artikel 77, eerste lid, onder a, en artikel 77, derde lid, blijkt dat de berekende geluidsbelasting vanwege de weg in het toekomstig maatgevende jaar zonder het treffen van maatregelen ten opzichte van de geluidsbelasting die op grond van artikel 100 dan wel het bepaalde krachtens artikel 100b, aanhef en onder a, als de ten hoogste toelaatbare geluidsbelasting geldt met 2 dB of meer wordt verhoogd; *rijstrook*: strook van de rijbaan van een weg, welke voldoende plaats biedt aan een enkele rij rijdende motorvoertuigen op meer dan drie wielen, of, indien door middel van markering een bredere strook als rijstrook is aangegeven, die strook; *spoorweg*: spoorweg als bedoeld in [artikel 1 van de Spoorwegwet](../../../../wet/spoorwegwet/BWBR0015007/README.md); *stedelijk gebied*: gebied binnen de bebouwde kom, doch, voor de toepassing van de hoofdstukken VI en VII voor zover het betreft een autoweg of autosnelweg als bedoeld in het [Reglement verkeersregels en verkeerstekens 1990](../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), met uitzondering van het gebied binnen de bebouwde kom, voor zover liggend binnen de zone langs die autoweg of autosnelweg; *toestel*: toestel dat bij gebruik anders dan door menselijke energie geluidhinder kan veroorzaken, een luchtvaartuig daaronder niet begrepen; *tracébesluit*: tracébesluit als bedoeld in de [Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md); *vaststellen van een bestemmingsplan*: vaststellen of herzien van een bestemmingsplan; *weg*: voor het openbaar rij- of ander verkeer openstaande weg of openstaand pad, met inbegrip van de daarin liggende bruggen of duikers, alsmede een spoorweg die niet is aangegeven op de kaart, bedoeld in artikel 106, of de geluidplafondkaart; *wegaanlegger*: opdrachtgever tot aanleg of reconstructie van een weg; *weg in aanleg*: weg met de aanleg waarvan een begin van uitvoering is gemaakt; *woning*: gebouw dat voor bewoning gebruikt wordt of daartoe bestemd is; *woning of gebouw in aanbouw*: nog niet aanwezige woning of nog niet aanwezig gebouw, waarvoor de omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is afgegeven.  
 
 ### Artikel  1b  
 
-1.  In afwijking van artikel 1 wordt in deze wet en de daarop berustende bepalingen bij de bepaling van de geluidsbelasting vanwege een industrieterrein, vanwege een weg of vanwege een spoorweg, van de gevel van onderwijsgebouwen en medische kleuterdagverblijven, de waarde van de geluidsbelasting over de periode 19.00–23.00 uur (avond) of de periode 23.00–07.00 uur (nacht) buiten beschouwing gelaten voor zover genoemde gebouwen in de betrokken periode niet als zodanig worden gebruikt.   
+1.  In afwijking van artikel 1 kan bij algemene maatregel van bestuur worden bepaald dat bij de bepaling van de geluidsbelasting vanwege een industrieterrein, vanwege een weg of vanwege een spoorweg, van de gevel van bij de maatregel aangegeven categorieën van andere geluidsgevoelige gebouwen, de waarde van de geluidsbelasting over de periode 19.00–23.00 uur (avond) of de periode 23.00–07.00 uur (nacht) buiten beschouwing wordt gelaten voor zover genoemde gebouwen in de betrokken periode niet overeenkomstig hun bestemming worden gebruikt.   
 2.  In afwijking van artikel 1 wordt in deze wet en de daarop berustende bepalingen bij de bepaling van de geluidsbelasting in dB(A) vanwege een industrieterrein buiten beschouwing gelaten: 
 
 a. het geluid van windturbines welke duurzame energie opwekken;  
 
 b. het geluid vanwege een internationaal racecircuit gedurende ten hoogste 12 dagen per kalenderjaar.     
-3.  In deze wet en de daarop berustende bepalingen is de geluidsbelasting L <sub>night</sub> vanwege een industrieterrein, vanwege een weg en vanwege een spoorweg, niet van toepassing ten aanzien van de gevel van onderwijsgebouwen en medische kleuterdagverblijven voor zover genoemde gebouwen in de betrokken periode niet als zodanig worden gebruikt.   
-4.  In afwijking van artikel 1 wordt onder wijziging van een spoorweg in deze wet en de daarop berustende bepalingen niet verstaan de afzonderlijke omstandigheid die bestaat uit: 
-
-a. een wijziging van de intensiteit, de verkeerssnelheid of een combinatie van beiden in het toekomstig maatgevende jaar van door Onze Minister te bepalen categorieën spoorvoertuigen op een bepaald spoorweggedeelte of een combinatie van spoorweggedeelten als gevolg waarvan de geluidemissie van de betreffende spoorgedeelten of de combinatie daarvan onafgerond niet meer dan 1,0 dB toeneemt ten opzichte van de gemiddelde geluidemissie, bepaald volgens bij ministeriële regeling te stellen regels, van de drie jaren voorafgaand aan de wijziging;  
-
-b. een horizontale verplaatsing van de spoorstaven over een afstand kleiner dan twee meter;  
-
-c. een verticale verplaatsing van de spoorstaven over een afstand kleiner dan één meter, dan wel  
-
-d. het ter vervanging aanbrengen van een baanconstructie, die, bepaald met inachtneming van de door Onze Minister op grond van artikel 107 gestelde regels, niet meer geluid emitteert dan de te vervangen constructie.     
-5.  In afwijking van artikel 1 wordt onder een gevel in de zin van deze wet en de daarop berustende bepalingen niet verstaan: 
+3.  In deze wet en de daarop berustende bepalingen is de geluidsbelasting L <sub>night</sub> vanwege een industrieterrein, vanwege een weg en vanwege een spoorweg, niet van toepassing ten aanzien van de gevel van bij algemene maatregel van bestuur aangegeven categorieën van andere geluidsgevoelige gebouwen, voor zover genoemde gebouwen in de betrokken periode niet overeenkomstig hun bestemming worden gebruikt.   
+4.  In afwijking van artikel 1 wordt onder een gevel in de zin van deze wet en de daarop berustende bepalingen niet verstaan: 
 
 a. een bouwkundige constructie waarin geen te openen delen aanwezig zijn en met een in NEN 5077 bedoelde karakteristieke geluidwering die ten minste gelijk is aan het verschil tussen de geluidsbelasting van die constructie en 33 dB onderscheidenlijk 35 dB(A), alsmede  
 
 b. een bouwkundige constructie waarin alleen bij uitzondering te openen delen aanwezig zijn, mits de delen niet direct grenzen aan een geluidsgevoelige ruimte.     
-6.  In afwijking van artikel 1 wordt onder een wijziging op of aan een weg in deze wet en de daarop berustende bepalingen niet verstaan een wijziging die slechts bestaat uit: 
+5.  In afwijking van artikel 1 wordt onder een wijziging op of aan een weg in deze wet en de daarop berustende bepalingen niet verstaan een wijziging die slechts bestaat uit: 
 
 a. een snelheidsverlaging;  
 
 b. de vervanging van een wegdeklaag door een wegdeklaag met dezelfde of een grotere geluidsreducerende werking, of  
 
 c. een snelheidsverhoging tot ten hoogste de maximumsnelheid, zoals die gold vóór een tijdelijke snelheidsverlaging die als maatregel is opgenomen in een programma als bedoeld in [artikel 5.12 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).     
-7.  In het geval van een tijdelijke snelheidsverlaging als bedoeld in het zesde lid, onder c, wordt als heersende waarde aangemerkt de waarde van de geluidsbelasting, zoals die zou zijn zonder de tijdelijke snelheidsverlaging.   
+6.  In het geval van een tijdelijke snelheidsverlaging als bedoeld in het vijfde lid, onder c, wordt als heersende waarde aangemerkt de waarde van de geluidsbelasting, zoals die zou zijn zonder de tijdelijke snelheidsverlaging.   
+7.  Bij algemene maatregel van bestuur kan worden bepaald dat daarbij aangegeven categorieën van gebouwen niet worden aangemerkt als woning in de zin van deze wet.   
 
 ### Artikel  1c  
 
@@ -151,7 +129,7 @@ De ten hoogste toelaatbare geluidsbelasting vanwege het betrokken industrieterre
 1.  Bij wijziging van een zone kan de ingevolge artikel 44 of 45 geldende waarde voor woningen in dat gebied worden gewijzigd.   
 2.  Een verhoging van de in het eerste lid bedoelde waarde mag ten hoogste 5 dB(A) bedragen, met dien verstande dat: 
 
-a. degene ten behoeve van wie de waarde wordt verhoogd heeft verklaard dat hij uiterlijk gelijktijdig met de verhoging financiële middelen ter beschikking stelt ten behoeve van de uitvoering van maatregelen om de geluidsbelasting vanwege het industrieterrein, van de gevels van woningen die door de wijziging van de zone dan wel vaststelling van het bestemmingsplan een hogere geluidsbelasting ondervinden te beperken en te voldoen aan artikel 111, eerste lid, onder b, en  
+a. degene ten behoeve van wie de waarde wordt verhoogd heeft verklaard dat hij uiterlijk gelijktijdig met de verhoging financiële middelen ter beschikking stelt ten behoeve van de uitvoering van maatregelen om de geluidsbelasting vanwege het industrieterrein, van de gevels van woningen die door de wijziging van de zone dan wel vaststelling van het bestemmingsplan een hogere geluidsbelasting ondervinden te beperken en te voldoen aan artikel 111b, eerste lid, onder b, en  
 
 b. de waarde van wat ten tijde van de eerste zonevaststelling geprojecteerde woningen betreft 55 dB(A) en wat ten tijde van de eerste zonevaststelling aanwezige of in aanbouw zijnde woningen betreft 60 dB(A) niet te boven mag gaan.     
 3.  Bij algemene maatregel van bestuur kan worden bepaald dat de bevoegdheid, bedoeld in het eerste lid, enkel in bij die maatregel aan te geven gevallen kan worden toegepast.   
@@ -227,7 +205,7 @@ De artikelen 41 tot en met 43 en 47 zijn van overeenkomstige toepassing op het w
 2.  Bij algemene maatregel van bestuur kan worden bepaald dat de bevoegdheid, bedoeld in het eerste en vierde lid, enkel in bij die maatregel aan te geven gevallen kan worden toegepast.   
 3.  Een verhoging van de in het eerste lid bedoelde waarde mag ten hoogste 5 dB(A) bedragen, met dien verstande dat: 
 
-a. degene ten behoeve van wie de waarde wordt verhoogd heeft verklaard dat hij uiterlijk gelijktijdig met de verhoging financiële middelen ter beschikking stelt ten behoeve van de uitvoering van maatregelen om de geluidsbelasting vanwege het industrieterrein, van de gevels van woningen die door de wijziging van de bestaande zone dan wel vaststelling van het bestemmingsplan een hogere geluidsbelasting ondervinden te beperken en te voldoen aan artikel 111, eerste lid, onder a of b, en  
+a. degene ten behoeve van wie de waarde wordt verhoogd heeft verklaard dat hij uiterlijk gelijktijdig met de verhoging financiële middelen ter beschikking stelt ten behoeve van de uitvoering van maatregelen om de geluidsbelasting vanwege het industrieterrein, van de gevels van woningen die door de wijziging van de bestaande zone dan wel vaststelling van het bestemmingsplan een hogere geluidsbelasting ondervinden te beperken en te voldoen aan artikel 111b, eerste lid, onder a of b, en  
 
 b. de waarde wat ten tijde van de eerste zonevaststelling geprojecteerde woningen betreft 55 dB(A) en wat ten tijde van de eerste zonevaststelling aanwezige of in aanbouw zijnde woningen betreft 60 dB(A) niet te boven mag gaan.     
 4.  Bij wijziging van een bestaande zone, bij vaststelling van een bestemmingsplan voor gronden die krachtens die vaststelling deel gaan uitmaken van de bestaande zone, kan met betrekking tot geprojecteerde, aanwezige of in aanbouw zijnde woningen in dat gebied, een hogere waarde dan 50 dB(A) worden vastgesteld, met dien verstande dat deze waarde voor geprojecteerde woningen de waarde 55 dB(A) en voor wat aanwezige of in aanbouw zijnde woningen betreft 60 dB(A) niet te boven mag gaan.   
@@ -291,7 +269,7 @@ b. een wezenlijke toename van het aantal geluidgehinderden bij toetsing op bouwp
 
 ### Artikel  62  
 
-1.  Gedeputeerde staten stellen uitsluitend ten aanzien van de woningen die op grond van artikel 62, eerste lid, zoals dat luidde voor 1 januari 2007 aan gedeputeerde staten zijn gemeld, met inachtneming van de regels, gegeven krachtens het tweede lid, en gelet op de maatregelen, in verband met andere woningen binnen de zone voortvloeiend uit de zonevaststelling, bedoeld in afdeling 2, §§ 2 en 3, van hoofdstuk V van de Wet geluidhinder zoals deze luidden op 1 januari 2007, een programma op van maatregelen die naar hun oordeel in aanmerking komen om de geluidsbelasting, vanwege het industrieterrein, van de gevels van de in het eerste lid bedoelde woningen te beperken tot 55 dB(A) en te voldoen aan artikel 111, eerste lid, onder a. Bij algemene maatregel van bestuur kan worden bepaald dat tevens één of meer overeenkomstige programma's dienen te worden opgesteld, gericht op een beperking van de geluidsbelasting van de gevels van de bedoelde woningen tot bij de maatregel aangegeven hogere waarden.   
+1.  Gedeputeerde staten stellen uitsluitend ten aanzien van de woningen die op grond van artikel 62, eerste lid, zoals dat luidde voor 1 januari 2007 aan gedeputeerde staten zijn gemeld, met inachtneming van de regels, gegeven krachtens het tweede lid, en gelet op de maatregelen, in verband met andere woningen binnen de zone voortvloeiend uit de zonevaststelling, bedoeld in afdeling 2, §§ 2 en 3, van hoofdstuk V van de Wet geluidhinder zoals deze luidden op 1 januari 2007, een programma op van maatregelen die naar hun oordeel in aanmerking komen om de geluidsbelasting, vanwege het industrieterrein, van de gevels van de in het eerste lid bedoelde woningen te beperken tot 55 dB(A) en te voldoen aan artikel 111b, eerste lid, onder a. Bij algemene maatregel van bestuur kan worden bepaald dat tevens één of meer overeenkomstige programma's dienen te worden opgesteld, gericht op een beperking van de geluidsbelasting van de gevels van de bedoelde woningen tot bij de maatregel aangegeven hogere waarden.   
 2.  Bij algemene maatregel van bestuur worden regels gegeven omtrent de aard van de maatregelen die in aanmerking komen en omstandigheden waaronder dit het geval is, alsmede met betrekking tot de opzet van een programma als bedoeld in het tweede lid en het tijdstip van uitvoering daarvan. Hierbij kan tevens worden aangegeven dat gedeputeerde staten in aangegeven categorieën van gevallen bij het opstellen van een programma kunnen uitgaan van een geluidsbelasting die het gevolg is van te verwachten ontwikkelingen.   
 
 ### Artikel  63  
@@ -335,7 +313,8 @@ a. het te voeren beleid om de geluidbelasting binnen en buiten de bestaande zone
 b. de voorgenomen in de eerstvolgende vijf jaar te treffen maatregelen om de geluidbelasting binnen die periode voor het hele industrieterrein te verminderen tot beneden de bedoelde grenswaarden;  
 
 c. de wijze waarop de vermindering van de geluidsbelasting van het betreffende industrieterrein zal worden gerealiseerd indien de geluidsbelasting binnen de onder b genoemde periode niet is verminderd tot beneden de grenswaarden.     
-3.  Artikel 123 is van overeenkomstige toepassing.   
+3.  Een geluidreductieplan wordt voorbereid met overeenkomstige toepassing van de in [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geregelde procedure, met dien verstande dat in afwijking van [artikel 3:15 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), een ieder zienswijzen naar voren kan brengen.   
+4.  Burgemeester en wethouders stellen een geluidreductieplan niet vast dan nadat de gemeenteraad een ontwerp van het geluidreductieplan is toegezonden en deze in de gelegenheid is gesteld zijn wensen en zienswijze ter kennis van burgemeester en wethouders te brengen.   
 
 ### Hoofdstuk  VI  
 
@@ -343,7 +322,17 @@ c. de wijze waarop de vermindering van de geluidsbelasting van het betreffende i
 
 ### Afdeling  1  
 
-####Omvang geluidszones
+####Algemeen
+
+### Artikel  73  
+
+Dit hoofdstuk is van toepassing op: 
+
+a. de aanleg en reconstructie van wegen die niet zijn aangegeven op de geluidplafondkaart;  
+
+b. de sanering van de op grond van artikel 88, eerste lid, zoals dat luidde voor 1 januari 2007, aan Onze Minister gemelde aanwezige woningen, andere geluidsgevoelige gebouwen en geluidsgevoelige terreinen, voor zover die niet zijn gemeld vanwege de ondervonden geluidsbelasting van wegen die zijn aangegeven op de geluidplafondkaart;  
+
+c. de projectie van woningen, andere geluidsgevoelige gebouwen en geluidsgevoelige terreinen binnen de zones van wegen, bedoeld in artikel 74.    
 
 ### Artikel  74  
 
@@ -351,28 +340,28 @@ c. de wijze waarop de vermindering van de geluidsbelasting van het betreffende i
 
 a. in stedelijk gebied: 
 
-1°. voor een weg, bestaande uit drie of meer rijstroken: 350 meter;  
+1°. voor een weg, bestaande uit een of twee rijstroken of een of twee sporen: 200 meter;  
 
-2°. voor een weg, bestaande uit een of twee rijstroken: 200 meter;    
+2°. voor een weg, bestaande uit drie of meer rijstroken of drie of meer sporen: 350 meter;    
 
 b. in buitenstedelijk gebied: 
 
-1°. voor een weg, bestaande uit vijf of meer rijstroken: 600 meter;  
+1°. voor een weg, bestaande uit een of twee rijstroken of een of twee sporen: 250 meter;  
 
-2°. voor een weg, bestaande uit drie of vier rijstroken: 400 meter;  
+2°. voor een weg, bestaande uit drie of vier rijstroken of drie of meer sporen: 400 meter;  
 
-3°. voor een weg, bestaande uit een of twee rijstroken: 250 meter.       
-2.  Het eerste lid geldt niet met betrekking tot: 
+3°. voor een weg, bestaande uit vijf of meer rijstroken: 600 meter.       
+2.  Het eerste lid geldt niet met betrekking tot een weg: 
 
-a. wegen die gelegen zijn binnen een als woonerf aangeduid gebied;  
+a. die gelegen is binnen een als woonerf aangeduid gebied, of  
 
-b. wegen waarvoor een maximum snelheid van 30 km per uur geldt.     
-3.  Voor de toepassing van artikel 76 wordt, indien het een nog aan te leggen weg betreft, de daarbij behorende zone geacht aanwezig te zijn, zodra die weg in een ontwerp-bestemmingsplan is opgenomen.   
-4.  De ruimte boven en onder de weg behoort tot de zone langs de weg.   
+b. waarvoor een maximum snelheid van 30 km per uur geldt.     
+3.  Voor de toepassing van artikel 76 wordt, indien het een nog aan te leggen weg als bedoeld in het eerste of derde lid van dat artikel betreft, de daarbij behorende zone geacht aanwezig te zijn, zodra die weg in een ontwerp-bestemmingsplan is opgenomen.   
+4.  De ruimte boven en onder de weg behoort tot de zone.   
 
 ### Artikel  75  
 
-1.  De afstanden, genoemd in artikel 74, eerste lid, worden aan weerszijden van de weg gemeten vanaf de buitenste begrenzing van de buitenste rijstrook.   
+1.  De afstanden, genoemd in artikel 74, eerste lid, worden aan weerszijden van de weg gemeten vanaf de buitenste begrenzing van de buitenste rijstrook of het buitenste spoor.   
 2.  Indien zich langs een weg een zone bevindt die bestaat uit delen met een onderling verschillende breedte, geldt voor de aansluiting van de verschillende zonedelen dat het breedste zonedeel over een afstand gelijk aan een derde van de breedte van dat zonedeel, gemeten vanaf het punt van versmalling van de zonebreedte, nog langs de wegas doorloopt en met een loodlijn aansluit op de smalste zone.   
 3.  Aan de uiteinden van een weg loopt de zone door over een afstand gelijk aan de breedte van de zone ter hoogte van het einde van de weg. De zone loopt door langs een lijn die is gelegen in het verlengde van de wegas. Zij behoudt de breedte die zij had ter hoogte van het einde van de weg.   
 
@@ -471,208 +460,6 @@ b. een wezenlijke toename van het aantal geluidgehinderden bij toetsing op bouwp
 
 ####De aanleg, wijziging of verbreding van een hoofdweg in de zin van [artikel 8 van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md)
 
-### Artikel  87b  
-
-1.  In deze afdeling wordt verstaan onder: 
-
-a. Onze Ministers: Onze Minister en Onze Minister van Verkeer en Waterstaat dan wel Onze Minister van Verkeer en Waterstaat, indien dat volgt uit de beslissing, bedoeld in [artikel 2, tweede lid, onderdeel e](../../../../wet/tracéwet/BWBR0006147/README.md), of [artikel 4, eerste lid, onderdeel d, van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
-
-b. hoofdweg: hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
-
-c. aanleg, wijziging of verbreding van een hoofdweg: aanleg, wijziging of verbreding van een hoofdweg in de zin van [artikel 8 van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
-
-d. woonwagenstandplaats: een standplaats als bedoeld in [artikel 1, eerste lid, onder h, van de Woningwet](../../../../wet/woningwet/BWBR0005181/README.md);  
-
-e. andere geluidsgevoelige gebouwen: 
-
-1°. onderwijsgebouwen;  
-
-2°. ziekenhuizen en verpleeghuizen;  
-
-3°. bij algemene maatregel van bestuur aan te wijzen andere gezondheidszorggebouwen dan bedoeld onder 2°;    
-
-f. geluidsgevoelige terreinen: 
-
-1°. terreinen die behoren bij gebouwen als bedoeld onder e, 3°, voor zover deze bestemd zijn of worden gebruikt voor de in die gebouwen verleende zorg, of  
-
-2°. woonwagenstandplaatsen;    
-
-g. tracé: tracé als omschreven in [artikel 10, eerste en tweede lid, van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
-
-h. aanpassing van een weg: een aanpassing met betrekking tot een aanwezige weg waarvan uit akoestisch onderzoek als bedoeld in artikel 87d blijkt dat ten gevolge van die aanpassing de berekende geluidsbelasting vanwege de weg in het toekomstig maatgevende jaar zonder het treffen van maatregelen ten opzichte van de geluidsbelasting die op grond van deze afdeling en afdeling 2 van hoofdstuk VII als de ten hoogste toelaatbare geluidsbelasting geldt met 2 dB of meer wordt verhoogd;  
-
-i. equivalent geluidsniveau in dB(A) met betrekking tot een spoorweg: het equivalente geluidsniveau in dB(A), bepaald volgens op grond van artikel 107 vastgestelde regels;  
-
-j. etmaalwaarde van het equivalente geluidsniveau in dB(A) met betrekking tot een spoorweg: de hoogste van de volgende drie waarden: 
-
-1°. de waarde van het equivalente geluidsniveau over de periode 07.00–19.00 uur (dagwaarde),  
-
-2°. de met 5 dB(A) verhoogde waarde van het equivalente geluidsniveau over de periode 19.00–23.00 uur (avondwaarde),  
-
-3°. de met 10 dB(A) verhoogde waarde van het equivalente geluidsniveau over de periode 23.00–07.00 uur (nachtwaarde);    
-
-k. geluidsbelasting in dB(A) vanwege een spoorweg: de etmaalwaarde van het equivalente geluidsniveau in dB(A) op een bepaalde plaats, veroorzaakt door het gezamenlijke spoorwegverkeer op een bepaald spoorweggedeelte of een combinatie van spoorweggedeelten;  
-
-l. aanpassing van een spoorweg: een aanpassing met betrekking tot een aanwezige spoorweg, die verandering brengt in de omstandigheden welke ingevolge de regels die gelden bij de vaststelling van de geluidsbelasting vanwege die spoorweg in acht genomen moeten worden en waarvan uit akoestisch onderzoek blijkt dat de berekende geluidsbelasting vanwege de spoorweg in het toekomstig maatgevende jaar zonder het treffen van maatregelen hoger zal zijn dan 63 dB of, indien die berekende geluidsbelasting vanwege de spoorweg in het toekomstig maatgevende jaar 63 dB of lager zal zijn maar hoger dan de geluidsbelasting die op grond van deze afdeling en afdeling 2 van hoofdstuk VII als de ten hoogste toelaatbare geluidsbelasting geldt, uit het onderzoek blijkt dat de geluidsbelasting vanwege de spoorweg in het toekomstig maatgevende jaar zonder het treffen van maatregelen ten opzichte van de geluidsbelasting voorafgaand aan de wijziging zal toenemen met ten minste 3 dB.     
-2.  Een gymnastieklokaal maakt voor de toepassing van deze afdeling geen deel uit van de in het eerste lid, onder e, 1°, bedoelde scholen.   
-3.  Onder aanpassing van een spoorweg wordt in deze afdeling niet verstaan de afzonderlijke omstandigheid die bestaat uit: 
-
-a. een wijziging van de intensiteit, de verkeerssnelheid of een combinatie van beide in het toekomstig maatgevende jaar van door Onze Minister te bepalen categorieën spoorvoertuigen op een bepaald spoorweggedeelte of een combinatie van spoorweggedeelten als gevolg waarvan de geluidemissie van de betreffende spoorgedeelten of de combinatie daarvan onafgerond niet meer dan 1,0 dB toeneemt ten opzichte van de gemiddelde geluidemissie, bepaald volgens bij ministeriële regeling te stellen regels, van de drie jaren voorafgaand aan de wijziging;  
-
-b. een horizontale verplaatsing van de spoorstaven over een afstand kleiner dan twee meter;  
-
-c. een verticale verplaatsing van de spoorstaven over een afstand kleiner dan één meter, dan wel  
-
-d. het ter vervanging aanbrengen van een baanconstructie, die, bepaald met inachtneming van de door Onze Minister op grond van artikel 107 gestelde regels, niet meer geluid emitteert dan de te vervangen constructie.     
-4.  Overwegende bezwaren van financiële aard bestaan voor de toepassing van deze afdeling niet tegen maatregelen gericht op het terugbrengen van de verwachte geluidsbelasting van de gevel van woningen of andere geluidsgevoelige gebouwen, onderscheidenlijk aan de grens van geluidsgevoelige terreinen, waarvan de kosten in redelijke verhouding staan tot kwaliteit, aard en gebruik van de woning, het andere geluidsgevoelige gebouw of het geluidsgevoelige terrein en tot de doeltreffendheid van die maatregelen.   
-5.  Bij ministeriële regeling kunnen Onze Minister en Onze Minister van Verkeer en Waterstaat nadere regels stellen voor de toepassing van het criterium, bedoeld in het vierde lid.   
-
-### Artikel  87c  
-
-De afdelingen 2, 3, 4 en 6 van dit hoofdstuk, alsmede afdeling 1 van hoofdstuk VIIIA, zijn niet van toepassing op deze afdeling.  
-
-### Artikel  87d  
-
-1.  Bij het voorbereiden van de aanleg van een hoofdweg wordt vanwege Onze Ministers een akoestisch onderzoek ingesteld naar: 
-
-a. de geluidsbelasting die door woningen, door andere geluidsgevoelige gebouwen of geluidsgevoelige terreinen binnen de zone van de hoofdweg vanwege de hoofdweg of vanwege binnen het tracé van die hoofdweg aan te leggen wegen of spoorwegen zou worden ondervonden zonder de invloed van maatregelen die de geluidsoverdracht beperken;  
-
-b. de doeltreffendheid van de in aanmerking komende maatregelen, om te voorkomen dat de in de toekomst binnen de zone van de hoofdweg vanwege de hoofdweg of vanwege binnen het tracé van die hoofdweg aan te leggen wegen of spoorwegen optredende geluidsbelasting van de onder a bedoelde objecten, de waarden die ingevolge de artikelen 87e tot en met 87i als de ten hoogste toelaatbare worden aangemerkt, te boven gaan.     
-2.  Bij het voorbereiden van een wijziging of verbreding van een hoofdweg wordt vanwege Onze Ministers een akoestisch onderzoek als bedoeld in het eerste lid ingesteld. Dit onderzoek geeft tevens inzicht in: 
-
-a. de voor de wijziging of verbreding ter plaatse heersende geluidsbelasting die door woningen, door andere geluidsgevoelige gebouwen of geluidsgevoelige terreinen binnen de zone van de hoofdweg vanwege de hoofdweg of vanwege binnen het tracé van die hoofdweg gelegen wegen of spoorwegen wordt ondervonden;  
-
-b. de geluidsbelasting die door woningen, door andere geluidsgevoelige gebouwen of geluidsgevoelige terreinen binnen de zone van de hoofdweg vanwege de hoofdweg of vanwege binnen het tracé van die hoofdweg gelegen wegen werd ondervonden op 1 maart 1986;  
-
-c. geluidsbelasting die door woningen, door andere geluidsgevoelige gebouwen of geluidsgevoelige terreinen binnen de zone van de hoofdweg vanwege binnen het tracé van die hoofdweg gelegen spoorwegen werd ondervonden op 1 juli 1987.     
-3.  Indien redelijkerwijs kan worden aangenomen dat de wijziging of verbreding van een hoofdweg zal leiden tot een aanpassing van andere wegen dan de te wijzigen of te verbreden hoofdweg of tot aanpassing van de niet te wijzigen of te verbreden gedeelten van de hoofdweg, heeft het in het eerste lid bedoelde onderzoek tevens betrekking op die andere wegen of de niet te wijzigen of te verbreden gedeelten van de betrokken hoofdweg.   
-4.  De in het eerste lid gestelde regels zijn mede van toepassing met betrekking tot de geluidsbelasting binnen de zone van een te wijzigen of te verbreden hoofdweg, vanwege binnen het tracé van die hoofdweg aan te leggen wegen en spoorwegen.   
-5.  De in het tweede lid gestelde regels zijn mede van toepassing met betrekking tot de geluidsbelasting binnen de zone van een aan te leggen hoofdweg, vanwege binnen het tracé van die hoofdweg gelegen wegen en spoorwegen.   
-
-### Artikel  87e  
-
-1.  Behoudens het tweede en derde lid is de voor woningen binnen de zone van een aan te leggen hoofdweg, ten hoogste toelaatbare geluidsbelasting van de gevel, vanwege de hoofdweg of vanwege binnen het tracé van die hoofdweg aan te leggen wegen of spoorwegen, 48 dB vanwege deze wegen, onderscheidenlijk 55 dB vanwege deze spoorwegen.   
-2.  Onze Ministers kunnen een hogere dan de in het eerste lid bedoelde waarde vaststellen, met dien verstande dat deze waarde in geval van geluidsbelasting vanwege wegen 58 dB, onderscheidenlijk vanwege spoorwegen 68 dB niet te boven mag gaan.   
-3.  Voor zover het woningen in stedelijk gebied betreft kunnen Onze Ministers een hogere waarde dan 58 dB voor de ten hoogste toelaatbare geluidsbelasting vanwege de in het eerste lid bedoelde wegen vaststellen, met dien verstande dat deze waarde 63 dB niet te boven mag gaan.   
-4.  Onze Ministers kunnen slechts toepassing geven aan het tweede of derde lid in die gevallen waarin toepassing van maatregelen, gericht op het terugbrengen van de verwachte geluidsbelasting van de gevel van de betrokken woningen, vanwege de hoofdweg of vanwege binnen het tracé van die hoofdweg aan te leggen wegen of spoorwegen, tot de ingevolge het eerste lid geldende waarde, onvoldoende doeltreffend zal zijn, dan wel overwegende bezwaren ontmoet van stedenbouwkundige, verkeerskundige, landschappelijke of financiële aard.   
-5.  De in het eerste tot en met vierde lid gestelde regels zijn mede van toepassing binnen de zone van een te wijzigen of te verbreden hoofdweg, vanwege binnen het tracé van die hoofdweg aan te leggen wegen of spoorwegen.   
-6.  De in het eerste tot en met vijfde lid gestelde regels zijn mede van toepassing met betrekking tot de ten hoogste toelaatbare geluidsbelasting van andere geluidsgevoelige gebouwen, met dien verstande dat: 
-
-a. in het eerste lid in plaats van «55 dB» wordt gelezen« 53 dB»;  
-
-b. in het tweede lid in plaats van «58 dB» wordt gelezen «58 dB voor zover het andere geluidsgevoelige gebouwen als bedoeld in artikel 87b, eerste lid, onder e, 1° en 2°, betreft, of 53 dB voor zover het andere geluidsgevoelige gebouwen als bedoeld in artikel 87b, eerste lid, onder e, 3°, betreft» en  
-
-c. in het derde lid in plaats van «woningen in stedelijk gebied» wordt gelezen: andere geluidsgevoelige gebouwen als bedoeld in artikel 87b, eerste lid, onder e, 1° en 2°, in stedelijk gebied.     
-7.  De in het eerste, tweede, vierde en vijfde lid gestelde regels zijn mede van toepassing met betrekking tot de ten hoogste toelaatbare geluidsbelasting aan de grens van geluidsgevoelige terreinen, met dien verstande dat: 
-
-a. in het eerste lid in plaats van «48 dB» wordt gelezen« indien het woonwagenstandplaatsen betreft 48 dB en in de overige gevallen 53 dB» en  
-
-b. in het tweede lid in plaats van «58 dB» wordt gelezen« indien het woonwagenstandplaatsen betreft 53 dB en in de overige gevallen 58 dB» en in plaats van «68 dB» wordt gelezen: indien het woonwagenstandplaatsen betreft 63 dB en in de overige gevallen 66 dB.     
-
-### Artikel  87f  
-
-1.  Behoudens het tweede tot en met vierde lid is de voor woningen binnen de zone van een te wijzigen of te verbreden hoofdweg ten gevolge waarvan de hoofdweg of binnen het tracé van die hoofdweg gelegen wegen worden aangepast, ten hoogste toelaatbare geluidsbelasting van de gevel, vanwege de hoofdweg of vanwege binnen het tracé van die hoofdweg gelegen wegen 48 dB, indien: 
-
-a. de geluidsbelasting vanwege deze hoofdweg of vanwege binnen het tracé van die hoofdweg gelegen wegen op 1 maart 1986, van de gevel van deze woningen op dat tijdstip, onderscheidenlijk na ingebruikneming van deze hoofdweg of wegen lager was dan of gelijk was aan 60 dB(A), of  
-
-b. deze hoofdweg na 1 januari 1982 is aangelegd op grond van een overeenkomstig de artikelen 76 en 77 vastgesteld of herzien bestemmingsplan, of  
-
-c. binnen het tracé van die hoofdweg gelegen wegen na 1 januari 1982 zijn aangelegd op grond van een overeenkomstig de artikelen 76 en 77 vastgesteld of herzien bestemmingsplan.     
-2.  In geval eerder bij of krachtens deze wet, de [Experimentenwet Stad en Milieu](../../../../wet/experimentenwet/stad/en/milieu/BWBR0010041/README.md), de [Interimwet stad-en-milieubenadering](../../../../wet/interimwet/stad-en-milieubenadering/BWBR0019466/README.md) of de [Spoedwet wegverbreding](../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md) een hogere waarde voor de ten hoogste toelaatbare geluidsbelasting, vanwege de betrokken weg of wegen is vastgesteld dan 48 dB en de heersende waarde hoger is dan 48 dB, is de voor woningen binnen de zone van een te wijzigen of te verbreden hoofdweg ten gevolge waarvan de hoofdweg of binnen het tracé van die hoofdweg gelegen wegen worden aangepast, ten hoogste toelaatbare geluidsbelasting van de gevel, vanwege de hoofdweg of vanwege binnen het tracé van die hoofdweg gelegen wegen, de laagste van de volgende twee waarden: 
-
-a. de heersende waarde;  
-
-b. de eerder vastgestelde waarde.     
-3.  Ingeval de betrokken hoofdweg of wegen op 1 januari 2007 aanwezig, in aanleg of geprojecteerd waren en niet eerder een hogere waarde voor de ten hoogste toelaatbare geluidsbelasting, vanwege de betrokken hoofdweg of wegen van de gevel van woningen is vastgesteld dan 48 dB en de heersende waarde is hoger dan 48 dB, geldt voor de woningen die op 1 januari 2007 aanwezig, in aanbouw of geprojecteerd waren binnen de zone van een te wijzigen of te verbreden hoofdweg ten gevolge waarvan die hoofdweg of binnen het tracé van die hoofdweg gelegen wegen worden aangepast, als de ten hoogste toelaatbare geluidsbelasting van de gevel, vanwege de hoofdweg of binnen het tracé van die hoofdweg gelegen wegen, de heersende waarde.   
-4.  Onze Ministers kunnen een hogere dan de in het eerste, tweede of derde lid bedoelde waarde vaststellen, met dien verstande dat de verhoging 5 dB niet te boven mag gaan, behoudens in gevallen waarin: 
-
-1°. ten gevolge van de aanpassing van de weg de geluidsbelasting van de gevel van ten minste een gelijk aantal woningen elders met een ten minste gelijke waarde zal verminderen, en  
-
-2°. de wegbeheerder heeft verklaard dat hij financiële middelen ter beschikking stelt uiterlijk voor afloop van de aanpassing van de weg ten behoeve van de toepassing van artikel 111a, eerste, derde of negende lid, met betrekking tot woningen die door de aanpassing van de weg een hogere geluidsbelasting ondervinden.     
-5.  De krachtens het vierde lid vast te stellen waarde wordt niet hoger vastgesteld dan 58 dB bij een aanpassing van een weg in buitenstedelijk gebied en 63 dB bij een aanpassing van een weg in stedelijk gebied indien voor de betrokken woning eerder toepassing is gegeven aan artikel 83 of 84, tweede lid, zoals dat luidde voor 1 september 1991 of de heersende waarde 53 dB niet te boven gaat. Voor andere dan de in de eerste volzin bedoelde woningen wordt de krachtens het vierde lid vast te stellen waarde niet hoger vastgesteld dan 68 dB. In afwijking van de eerste en tweede volzin wordt de krachtens het vierde lid vast te stellen waarde voor woningen met betrekking waartoe eerder bij of krachtens deze wet, de [Experimentenwet Stad en Milieu](../../../../wet/experimentenwet/stad/en/milieu/BWBR0010041/README.md), de [Interimwet stad-en-milieubenadering](../../../../wet/interimwet/stad-en-milieubenadering/BWBR0019466/README.md) of de [Spoedwet wegverbreding](../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md) een hogere waarde is vastgesteld dan de krachtens die volzinnen ten hoogste toelaatbare waarde, niet hoger vastgesteld dan die eerder vastgestelde waarde.   
-6.  Onze Ministers kunnen slechts toepassing geven aan het vierde en vijfde lid in die gevallen waarin toepassing van maatregelen gericht op het terugbrengen van de verwachte geluidsbelasting van de gevel van de betrokken woningen, vanwege de hoofdweg of vanwege binnen het tracé van die hoofdweg gelegen wegen, tot de ingevolge het eerste, tweede of derde lid geldende waarde, onvoldoende doeltreffend zal zijn, dan wel overwegende bezwaren ontmoet van stedenbouwkundige, verkeerskundige, landschappelijke of financiële aard.   
-7.  De in het eerste tot en met zesde lid gestelde regels zijn mede van toepassing binnen de zone van een aan te leggen hoofdweg, vanwege binnen het tracé van die hoofdweg gelegen wegen.   
-8.  Het eerste tot en met zevende lid zijn mede van toepassing met betrekking tot de ten hoogste toelaatbare geluidsbelasting van andere geluidsgevoelige gebouwen, met dien verstande dat 
-
-a. het vierde lid wordt gelezen als «Onze Ministers kunnen een hogere dan de in het eerste, tweede of derde lid bedoelde waarde vaststellen, met dien verstande dat een verhoging 5 dB niet te boven mag gaan» en  
-
-b. het vijfde lid wordt gelezen als: Indien voor het betrokken andere geluidsgevoelige gebouw eerder bij of krachtens deze wet een hogere waarde voor de ten hoogste toelaatbare geluidsbelasting is vastgesteld of indien de heersende waarde 53 dB niet te boven gaat, wordt de krachtens het vierde lid vast te stellen waarde niet hoger vastgesteld dan: 
-
-1°. 58 dB voor andere geluidsgevoelige gebouwen als bedoeld in artikel 87b, eerste lid, onder e, 1° en 2° in buitenstedelijk gebied,  
-
-2°. 63 dB voor andere geluidsgevoelige gebouwen als bedoeld in artikel 87b, eerste lid, onder e, 1° en 2° in stedelijk gebied, en  
-
-3°. 53 dB voor andere geluidsgevoelige gebouwen als bedoeld in artikel 87b, eerste lid, onder e, 3°.     Voor andere dan de in de eerste volzin bedoelde andere geluidsgevoelige gebouwen wordt de krachtens het vierde lid vast te stellen waarde niet hoger vastgesteld dan 68 dB voor andere geluidsgevoelige gebouwen als bedoeld in artikel 87b, eerste lid, onder e, 1° en 2°, en 58 dB voor andere geluidsgevoelige gebouwen als bedoeld in artikel 87b, eerste lid, onder e, 3°. In afwijking van de eerste en tweede volzin wordt de krachtens het vierde lid vast te stellen waarde voor andere geluidsgevoelige gebouwen met betrekking waartoe eerder bij of krachtens deze wet, de [Experimentenwet Stad en Milieu](../../../../wet/experimentenwet/stad/en/milieu/BWBR0010041/README.md), de [Interimwet stad-en-milieubenadering](../../../../wet/interimwet/stad-en-milieubenadering/BWBR0019466/README.md) of de [Spoedwet wegverbreding](../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md) een hogere waarde is vastgesteld dan de krachtens die volzinnen ten hoogste toelaatbare waarde, niet hoger vastgesteld dan die eerder vastgestelde waarde.   
-9.  De in het eerste tot en met zevende lid gestelde regels zijn mede van toepassing met betrekking tot de ten hoogste toelaatbare geluidsbelasting aan de grens van geluidsgevoelige terreinen, met dien verstande dat: 
-
-a. in het eerste, tweede en derde lid in plaats van «48 dB» telkens wordt gelezen «indien het woonwagenstandplaatsen betreft 48 dB en in de overige gevallen 53 dB»,  
-
-b. het vierde lid, onder 1° en 2°, niet van toepassing is, en  
-
-c. in het vijfde lid in plaats van «58 dB bij een aanpassing van een weg in buitenstedelijk gebied en 63 dB bij een aanpassing van een weg in stedelijk gebied indien voor de betrokken woning eerder toepassing is gegeven aan artikel 83 of 84, tweede lid, zoals dat luidde voor 1 september 1991 of de heersende waarde 53 dB niet te boven gaat» wordt gelezen «53 dB indien het woonwagenstandplaatsen betreft en 58 dB in de overige gevallen» en de tweede volzin van dat lid niet van toepassing is.     
-
-### Artikel  87g  
-
-1.  Behoudens het tweede tot en met vijfde lid is de voor woningen binnen de zone van een te wijzigen of te verbreden hoofdweg ten hoogste toelaatbare geluidsbelasting van de gevel, vanwege de hoofdweg of vanwege binnen het tracé van die hoofdweg gelegen wegen, indien de geluidsbelasting vanwege deze hoofdweg of vanwege binnen het tracé van die hoofdweg gelegen wegen op 1 maart 1986, van de gevel van deze woningen op dat tijdstip, onderscheidenlijk na ingebruikneming van de hoofdweg of binnen het tracé van die hoofdweg gelegen wegen hoger was dan 60 dB(A), de waarde 48 dB.   
-2.  Ingeval eerder bij of krachtens deze wet of de [Spoedwet wegverbreding](../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md) een hogere waarde voor de ten hoogste toelaatbare geluidsbelasting, vanwege de betrokken weg of wegen is vastgesteld dan 48 dB, is de voor woningen binnen de zone van een te wijzigen of te verbreden hoofdweg ten gevolge waarvan de hoofdweg of binnen het tracé van die hoofdweg gelegen wegen worden aangepast, ten hoogste toelaatbare geluidsbelasting van de gevel, vanwege de hoofdweg of vanwege binnen het tracé van die hoofdweg gelegen wegen: 
-
-a. 48 dB als de heersende waarde lager is dan of gelijk is aan 48 dB, en  
-
-b. de laagste van de volgende twee waarden als de heersende waarde hoger is dan 48 dB: 
-
-1°. de heersende waarde;  
-
-2°. de eerder vastgestelde waarde.       
-3.  Onze Ministers kunnen een hogere dan de in het eerste lid bedoelde waarde vaststellen, met dien verstande dat deze de waarde 68 dB niet te boven mag gaan.   
-4.  Onze Ministers kunnen een hogere dan de in het tweede lid bedoelde waarde vaststellen, met dien verstande dat de verhoging 5 dB niet te boven mag gaan, behoudens in gevallen waarin: 
-
-1°. ten gevolge van de aanpassing van de weg de geluidsbelasting van de gevel van ten minste een gelijk aantal woningen elders met een ten minste gelijke waarde zal verminderen, en  
-
-2°. de wegbeheerder heeft verklaard dat hij financiële middelen ter beschikking stelt uiterlijk voor afloop van de aanpassing van de weg ten behoeve van de toepassing van artikel 111a, tweede of vierde lid, met betrekking tot woningen die door de aanpassing van de weg een hogere geluidsbelasting ondervinden. De krachtens dit lid vast te stellen waarde mag de waarde 68 dB niet te boven gaan.     
-5.  In afwijking van het derde lid kunnen Onze Ministers met overeenkomstige toepassing van artikel 90, vierde lid, een hogere waarde dan 68 dB vaststellen.   
-6.  Indien eerder bij of krachtens deze wet of de [Spoedwet wegverbreding](../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md) een hogere waarde dan 68 dB is vastgesteld, mag de vast te stellen hogere waarde, in afwijking van het vierde lid, niet hoger worden vastgesteld dan de eerder vastgestelde waarde.   
-7.  Onze Ministers kunnen slechts toepassing geven aan het derde tot en met vijfde lid in die gevallen waarin toepassing van maatregelen gericht op het terugbrengen van de verwachte geluidsbelasting van de gevel van de betrokken woningen, vanwege de hoofdweg of vanwege binnen het tracé van die hoofdweg gelegen wegen, tot de ingevolge het eerste of tweede lid geldende waarde, onvoldoende doeltreffend zal zijn, dan wel overwegende bezwaren ontmoet van stedenbouwkundige, verkeerskundige, landschappelijke of financiële aard.   
-8.  De in het eerste tot en met zevende lid gestelde regels zijn mede van toepassing binnen de zone van een aan te leggen hoofdweg, vanwege binnen het tracé van die hoofdweg gelegen wegen.   
-9.  De in het eerste tot en met vierde en zevende en achtste lid gestelde regels zijn mede van toepassing met betrekking tot de ten hoogste toelaatbare geluidsbelasting van andere geluidsgevoelige gebouwen, met dien verstande dat: 
-
-a. in het derde en vierde lid in plaats van «de waarde 68 dB» telkens wordt gelezen «met betrekking tot andere geluidsgevoelige gebouwen als bedoeld in artikel 87b, eerste lid, onder e, 1° en 2°, de waarde 68 dB, onderscheidenlijk met betrekking tot andere geluidsgevoelige gebouwen als bedoeld in artikel 87b, eerste lid, onder e, 3°, de waarde 58 dB», en  
-
-b. het vierde lid, onder 1° en 2°, niet van toepassing is.     
-
-### Artikel  87h  
-
-1.  Behoudens het tweede en derde lid is de voor woningen binnen de zone van een te wijzigen of te verbreden hoofdweg ten gevolge waarvan binnen het tracé van die hoofdweg gelegen spoorwegen worden aangepast, ten hoogste toelaatbare geluidsbelasting van de gevel, vanwege binnen het tracé van die hoofdweg gelegen spoorwegen, indien: 
-
-a. de geluidsbelasting vanwege binnen het tracé van die hoofdweg gelegen spoorwegen op 1 juli 1987, van de gevel van deze woningen op dat tijdstip, onderscheidenlijk na ingebruikneming van deze spoorwegen lager was dan of gelijk was aan 65 dB(A), of  
-
-b. binnen het tracé van die hoofdweg gelegen spoorwegen na 1 juli 1987 zijn aangelegd op grond van een bestemmingsplan dat is vastgesteld of herzien met toepassing van het bij of krachtens deze wet bepaalde,   de voor de wijziging of verbreding van de hoofdweg ter plaatse heersende geluidsbelasting, met dien verstande dat een geluidsbelasting waarvan de waarde 55 dB niet te boven gaat, in elk geval als toelaatbaar aangemerkt blijft.   
-2.  In geval eerder bij of krachtens deze wet, de [Experimentenwet Stad en Milieu](../../../../wet/experimentenwet/stad/en/milieu/BWBR0010041/README.md) of de [Interimwet stad-en-milieubenadering](../../../../wet/interimwet/stad-en-milieubenadering/BWBR0019466/README.md) een hogere waarde voor de ten hoogst toelaatbare geluidsbelasting, vanwege de betrokken spoorwegen is vastgesteld dan 55 dB, is de voor woningen binnen de zone van een te wijzigen of te verbreden hoofdweg ten gevolge waarvan binnen het tracé van die hoofdweg gelegen spoorwegen worden aangepast, ten hoogste toelaatbare geluidsbelasting van de gevel, vanwege binnen het tracé van die hoofdweg gelegen spoorwegen, de laagste van de volgende twee waarden, met dien verstande dat een geluidsbelasting waarvan de waarde 55 dB niet te boven gaat, in elk geval als toelaatbaar aangemerkt blijft: 
-
-a. de heersende waarde;  
-
-b. de eerder vastgestelde waarde.     
-3.  Onze Ministers kunnen een hogere dan de in het eerste of tweede lid bedoelde waarde vaststellen, met dien verstande dat de waarde 71 dB niet te boven mag gaan, behoudens ingeval eerder op grond van de [Experimentenwet Stad en Milieu](../../../../wet/experimentenwet/stad/en/milieu/BWBR0010041/README.md) of de [Interimwet stad-en-milieubenadering](../../../../wet/interimwet/stad-en-milieubenadering/BWBR0019466/README.md) een hogere waarde dan 71 dB is vastgesteld. In dat geval mag de vast te stellen hogere waarde niet hoger worden gesteld dan de eerder vastgestelde waarde.   
-4.  Onze Ministers kunnen slechts toepassing geven aan het derde lid in die gevallen waarin toepassing van maatregelen gericht op het terugbrengen van de verwachte geluidsbelasting van de gevel van de betrokken woningen, vanwege binnen het tracé van die hoofdweg gelegen spoorwegen, tot de ingevolge het eerste of tweede lid geldende waarde, onvoldoende doeltreffend zal zijn, dan wel overwegende bezwaren ontmoet van stedenbouwkundige, verkeerskundige, landschappelijke of financiële aard.   
-5.  De in het eerste tot en met vierde lid gestelde regels zijn mede van toepassing binnen de zone van een aan te leggen hoofdweg, vanwege binnen het tracé van die hoofdweg gelegen spoorwegen.   
-6.  De in het eerste tot en met vijfde lid gestelde regels zijn mede van toepassing met betrekking tot de ten hoogste toelaatbare geluidsbelasting van andere geluidsgevoelige gebouwen, met dien verstande dat in het eerste lid in plaats van «65 dB(A)» wordt gelezen «60 dB(A)» en in plaats van «de waarde 55dB» wordt gelezen: de waarde 53 dB.   
-7.  De in het eerste tot en met vijfde lid gestelde regels zijn mede van toepassing met betrekking tot de ten hoogste toelaatbare geluidsbelasting van geluidsgevoelige terreinen, met dien verstande dat in het derde lid in plaats van «de waarde 71 dB» wordt gelezen: de waarde indien het woonwagenstandplaatsen betreft 63 dB en in de overige gevallen 66 dB.   
-
-### Artikel  87i  
-
-1.  Behoudens het tweede tot en met vijfde lid is de voor woningen binnen de zone van een te wijzigen of te verbreden hoofdweg ten hoogste toelaatbare geluidsbelasting van de gevel, vanwege binnen het tracé van die hoofdweg gelegen spoorwegen, indien de geluidsbelasting vanwege binnen het tracé van die hoofdweg gelegen spoorwegen op 1 juli 1987, van de gevel van deze woningen op dat tijdstip, onderscheidenlijk na ingebruikneming van deze spoorwegen hoger was dan 65 dB(A), de waarde 55 dB.   
-2.  In geval eerder bij of krachtens deze wet een hogere waarde voor de ten hoogste toelaatbare geluidsbelasting vanwege de betrokken spoorwegen is vastgesteld dan 55 dB, is de voor woningen binnen de zone van een te wijzigen of te verbreden hoofdweg ten gevolge waarvan binnen het tracé van die hoofdweg gelegen spoorwegen worden aangepast, ten hoogste toelaatbare geluidsbelasting van de gevel, vanwege binnen het tracé van die hoofdweg gelegen spoorwegen, de laagste van de volgende twee waarden, met dien verstande dat een geluidsbelasting waarvan de waarde 55 dB niet te boven gaat, in elk geval als toelaatbaar aangemerkt blijft: 
-
-a. de heersende waarde;  
-
-b. de eerder vastgestelde waarde.     
-3.  Onze Ministers kunnen een hogere dan de in het eerste lid bedoelde waarde vaststellen, met dien verstande dat deze de waarde 71 dB niet te boven mag gaan.   
-4.  Onze Ministers kunnen een hogere dan de in het tweede lid bedoelde waarde vaststellen, met dien verstande dat deze waarde 71 dB niet te boven mag gaan, behoudens ingeval eerder bij of krachtens deze wet een hogere waarde dan 71 dB is vastgesteld. In dat geval mag de vast te stellen hogere waarde niet hoger worden gesteld dan de eerder vastgestelde waarde.   
-5.  In afwijking van het derde lid kunnen Onze Ministers met overeenkomstige toepassing van artikel 90, vierde lid, een hogere waarde dan 71 dB vaststellen.   
-6.  Onze Ministers kunnen slechts toepassing geven aan het derde tot en met vijfde lid in die gevallen waarin toepassing van maatregelen gericht op het terugbrengen van de verwachte geluidsbelasting van de gevel van de betrokken woningen, vanwege binnen het tracé van die hoofdweg gelegen spoorwegen, tot de ingevolge het eerste of tweede lid geldende waarde, onvoldoende doeltreffend zal zijn, dan wel overwegende bezwaren ontmoet van stedenbouwkundige, verkeerskundige, landschappelijke of financiële aard.   
-7.  De in het eerste tot en met zesde lid gestelde regels zijn mede van toepassing binnen de zone van een aan te leggen hoofdweg, vanwege binnen het tracé van die hoofdweg gelegen spoorwegen.   
-8.  De in het eerste tot en met vierde en zesde en zevende lid gestelde regels zijn mede van toepassing met betrekking tot de ten hoogste toelaatbare geluidsbelasting van andere geluidsgevoelige gebouwen, met dien verstande dat in het eerste lid in plaats van «hoger was dan 65 dB(A), de waarde 55 dB» wordt gelezen: hoger was dan 60 dB(A), de waarde 58 dB.   
-9.  De in het eerste tot en met vierde en zesde en zevende lid gestelde regels zijn mede van toepassing met betrekking tot de ten hoogste toelaatbare geluidsbelasting van geluidsgevoelige terreinen, met dien verstande dat in het eerste lid in plaats van «de waarde 55 dB» wordt gelezen: de waarde 63 dB.   
-
 ### Afdeling  3  
 
 ####Bestaande situaties
@@ -680,12 +467,12 @@ b. de eerder vastgestelde waarde.
 ### Artikel  87j  
 
 1.  Afdeling 1 van hoofdstuk VIIIA is niet van toepassing op deze afdeling.   
-2.  Op de voorbereiding van een saneringsprogramma door burgemeester en wethouders of door de wegaanlegger is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
+2.  Op de voorbereiding van een saneringsprogramma is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
 
 ### Artikel  89  
 
-1.  Burgemeester en wethouders of indien toepassing wordt gegeven aan artikel 98 burgemeester en wethouders of de wegaanlegger stellen uitsluitend ten aanzien van de woningen die op grond van artikel 88, eerste lid, zoals dat luidde voor 1 januari 2007 aan Onze Minister zijn gemeld, met inachtneming van de regels, gegeven krachtens het derde lid, een programma op van maatregelen die naar hun oordeel in aanmerking komen om de geluidsbelasting, vanwege de weg, van de gevels van de op grond van artikel 88, zoals dat luidde voor 1 januari 2007 gemelde woningen zoveel mogelijk te beperken tot 48 dB en om zo nodig te voldoen aan artikel 111, tweede lid.   
-2.  Met betrekking tot gevallen, die aan Onze Minister zijn gemeld op grond van artikel 88, eerste lid, zoals dat luidde voor 1 januari 2007, worden bij of krachtens algemene maatregel van bestuur regels gegeven omtrent de aard van de maatregelen die in aanmerking komen en de omstandigheden waaronder dit het geval is, alsmede omtrent de opzet en het tijdstip van vaststelling van een programma.   
+1.  Burgemeester en wethouders of indien toepassing wordt gegeven aan artikel 98 burgemeester en wethouders of de wegaanlegger stellen uitsluitend ten aanzien van de woningen die op grond van artikel 88, eerste lid, zoals dat luidde voor 1 januari 2007 aan Onze Minister zijn gemeld, met inachtneming van de regels, gegeven krachtens het tweede lid, een programma op van maatregelen die naar hun oordeel in aanmerking komen om de geluidsbelasting, vanwege de weg, van de gevels van de op grond van artikel 88, zoals dat luidde voor 1 januari 2007 gemelde woningen zoveel mogelijk te beperken tot 48 dB en om zo nodig te voldoen aan artikel 111b, tweede lid.   
+2.  Met betrekking tot gevallen als bedoeld in het eerste lid worden bij of krachtens algemene maatregel van bestuur regels gegeven omtrent de aard van de maatregelen die in aanmerking komen, en de omstandigheden waaronder dit het geval is, alsmede omtrent de opzet en het tijdstip van vaststelling van een programma.   
 
 ### Artikel  90  
 
@@ -705,12 +492,22 @@ b. de eerder vastgestelde waarde.
 
 ### Artikel  98  
 
-Ten behoeve van een reconstructie van een weg met betrekking waartoe ingevolge artikel 88, zoals dat luidde voor 1 januari 2007 aan Onze Minister uiterlijk twee jaar na 1 januari 2007 melding is gedaan of is gedaan, is deze afdeling niet van toepassing en geeft Onze Minister toepassing aan artikel 90, tweede tot en met vijfde lid.  
+1.  Ten behoeve van een reconstructie van een weg met betrekking waartoe ingevolge artikel 88, zoals dat luidde voor 1 januari 2007 aan Onze Minister uiterlijk twee jaar na 1 januari 2007 melding is gedaan of is gedaan, is deze afdeling niet van toepassing en geeft Onze Minister toepassing aan artikel 90, tweede tot en met vijfde lid.   
+2.  In afwijking van het eerste lid, indien toepassing wordt gegeven aan artikel 104a, eerste lid: 
+
+a. zijn de artikelen 89 en 90, eerste lid, niet van toepassing, en  
+
+b. worden in afwijking van artikel 90, tweede en vijfde lid, de in die leden bedoelde maatregelen en ten hoogste toelaatbare waarden vastgesteld als onderdeel van een tracébesluit, en blijft in het tweede lid de zinsnede «na ontvangst van zodanig programma» buiten toepassing.     
+3.  In afwijking van het eerste lid, indien toepassing wordt gegeven aan artikel 104a, tweede of derde lid: 
+
+a. zijn de artikelen 89 en 90, eerste lid, niet van toepassing, en  
+
+b. worden in afwijking van artikel 90, tweede en vijfde lid, de in die leden bedoelde maatregelen en ten hoogste toelaatbare waarden vastgesteld als onderdeel van een wegaanpassingsbesluit als bedoeld in [artikel 5 van de Spoedwet wegverbreding](../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md), of geluidplan als bedoeld in [artikel 6, vijfde lid, van de Spoedwet wegverbreding](../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md), en blijft in het tweede lid de zinsnede «na ontvangst van zodanig programma» buiten toepassing.     
 
 ### Artikel  99  
 
 1.  Tot reconstructie van een weg wordt, indien binnen de aanwezige of toekomstige zone van die weg woningen, andere geluidsgevoelige gebouwen of geluidsgevoelige terreinen aanwezig, in aanbouw of geprojecteerd zijn, niet overgegaan dan in overeenstemming met een bestemmingsplan of een besluit tot vrijstelling als bedoeld in [artikel 19 van de Wet op de Ruimtelijke Ordening](../../../../wet/wet/op/de/ruimtelijke/ordening/BWBR0002375/README.md) dat in de reconstructie voorziet dan wel met een besluit van burgemeester en wethouders, met overeenkomstige toepassing van artikel 81 genomen naar aanleiding van een door de wegbeheerder aan burgemeester en wethouders gedane mededeling van zijn voornemen en na een met overeenkomstige toepassing van artikel 80 ingesteld onderzoek.   
-2.  Indien redelijkerwijs kan worden aangenomen dat de reconstructie van een weg zal leiden tot een toename van de geluidsbelasting van 2 dB of meer vanwege andere wegen dan de te reconstrueren weg of - als een weg gedeeltelijk wordt gereconstrueerd - vanwege de niet te reconstrueren gedeelten daarvan, heeft het in het eerste lid bedoelde onderzoek tevens betrekking op die andere wegen of de niet te reconstrueren gedeelten van de betrokken weg.   
+2.  Indien redelijkerwijs kan worden aangenomen dat de reconstructie van een weg zal leiden tot een toename van de geluidsbelasting van 2 dB of meer vanwege andere wegen dan de te reconstrueren weg of – als een weg gedeeltelijk wordt gereconstrueerd – vanwege de niet te reconstrueren gedeelten daarvan, heeft het in het eerste lid bedoelde onderzoek tevens betrekking op die andere wegen of de niet te reconstrueren gedeelten van de betrokken weg.   
 3.  Bij het nemen van een besluit als bedoeld in het eerste lid worden de waarden die ingevolge de artikelen 100, 100a en 100b als de ten hoogste toelaatbare worden aangemerkt, in acht genomen.   
 4.  Ingeval bij de reconstructie het aantal rijstroken zal worden verhoogd, wordt de zone in aanmerking genomen, die uit het hogere aantal rijstroken zal voortvloeien.   
 
@@ -736,7 +533,7 @@ a. de verhoging 5 dB niet te boven mag gaan, behoudens in gevallen waarin:
 
 1°. ten gevolge van de reconstructie de geluidsbelasting van de gevel van ten minste een gelijk aantal woningen elders met een ten minste gelijke waarde zal verminderen, en  
 
-2°. de wegbeheerder heeft verklaard dat hij financiële middelen ter beschikking stelt uiterlijk voor afloop van de reconstructie ten behoeve van de toepassing van artikel 90 of artikel 111, tweede of derde lid, met betrekking tot woningen die door de reconstructie een hogere geluidsbelasting ondervinden, en    
+2°. de wegbeheerder heeft verklaard dat hij financiële middelen ter beschikking stelt uiterlijk voor afloop van de reconstructie ten behoeve van de toepassing van artikel 90 of artikel 111b, tweede of derde lid, met betrekking tot woningen die door de reconstructie een hogere geluidsbelasting ondervinden, en    
 
 b. ingeval voor de betrokken woning eerder toepassing is gegeven aan artikel 83 of artikel 84, tweede lid, zoals dat luidde voor 1 september 1991 of, indien geen toepassing is gegeven aan het betrokken artikel en de heersende waarde 53 dB niet te boven gaat, de waarde niet hoger mag worden gesteld dan: 
 
@@ -766,6 +563,44 @@ b. artikel 100a.
 
 Bij algemene maatregel van bestuur kunnen voor andere geluidsgevoelige gebouwen en geluidsgevoelige terreinen met betrekking tot de in de artikelen 88 tot en met 90, 98 en 99 geregelde onderwerpen overeenkomstige regels worden gesteld.  
 
+### Afdeling  7  
+
+####De aanleg of wijziging van een hoofdweg met toepassing van de [Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md)
+
+### Artikel  104a  
+
+1.  Indien de aanleg of wijziging van een hoofdweg waarop de [Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md) van toepassing is, leidt tot aanleg, reconstructie of wijziging van een weg of spoorweg, en daartoe binnen het betrokken tracé een hogere waarde vereist is voor de ten hoogste toelaatbare geluidsbelasting vanwege die weg of spoorweg, zijn de artikelen 79 en 99, eerste lid, niet van toepassing en wordt door Onze Minister: 
+
+a. die hogere waarde, in afwijking van artikel 110a, eerste, tweede en zevende lid, vastgesteld als onderdeel van het tracébesluit, en  
+
+b. het akoestisch onderzoek, bedoeld in artikel 77, dan wel als voorgeschreven op grond van artikel 107, ingesteld.     
+2.  Indien de uitvoering van een in de [bijlage bij de Spoedwet wegverbreding](../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md), onder A, opgenomen wegaanpassingsproject, leidt tot aanleg, reconstructie of wijziging van een weg of spoorweg, en daartoe binnen de grens van het gebied dat is begrepen in een wegaanpassingsbesluit een hogere waarde vereist is voor de ten hoogste toelaatbare geluidsbelasting vanwege die weg of spoorweg, zijn de artikelen 79 en 99, eerste lid, niet van toepassing en wordt door Onze Minister: 
+
+a. die hogere waarde, in afwijking van artikel 110a, eerste, tweede en zevende lid, vastgesteld als onderdeel van het wegaanpassingsbesluit, en  
+
+b. het akoestisch onderzoek, bedoeld in artikel 77, dan wel als voorgeschreven op grond van artikel 107, ingesteld.     
+3.  Indien een in de [bijlage bij de Spoedwet wegverbreding](../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md), onder B, opgenomen wegaanpassingsproject, leidt tot aanleg, reconstructie of wijziging van een weg of spoorweg, en daartoe binnen de grens van het gebied dat is begrepen in een geluidplan een hogere waarde vereist is voor de ten hoogste toelaatbare geluidsbelasting vanwege die weg of spoorweg, zijn de artikelen 79 en 99, eerste lid, niet van toepassing en wordt door Onze Minister: 
+
+a. die hogere waarde, in afwijking van artikel 110a, eerste, tweede en zevende lid, vastgesteld als onderdeel van het geluidplan, en  
+
+b. het akoestisch onderzoek, bedoeld in artikel 77, dan wel als voorgeschreven op grond van artikel 107, ingesteld.     
+4.  Indien toepassing wordt gegeven aan het eerste lid, wordt: 
+
+a. in artikel 83, eerste lid, voor «53 dB» gelezen: 58 dB;  
+
+b. in artikel 110a, zesde lid, in plaats van «geven burgemeester en wethouders» gelezen «geeft Onze Minister» en wordt in plaats van «naar hun oordeel» gelezen «naar zijn oordeel»;  
+
+c. in artikel 110b, eerste lid, in plaats van «kunnen burgemeester en wethouders» gelezen «kan Onze Minister»;  
+
+d. in artikel 110b, tweede lid, in plaats van «kunnen gedeputeerde staten» gelezen «kan Onze Minister», en  
+
+e. in artikel 111b in plaats van «treffen burgemeester en wethouders» gelezen «treft de beheerder».     
+5.  Bij de toepassing van het eerste tot en met derde lid neemt het bevoegd gezag een maatregel gericht op het terugbrengen van de verwachte geluidsbelasting van de gevel van woningen of andere geluidsgevoelige gebouwen, niet in aanmerking, indien het treffen daarvan: 
+
+a. financieel niet doelmatig is met betrekking tot het beperken van de geluidsbelasting, dan wel  
+
+b. stuit op overwegende bezwaren van stedenbouwkundige, verkeerskundige, vervoerskundige, landschappelijke of technische aard.   Onze Minister stelt regels voor de toepassing van het criterium, bedoeld onder a.   
+
 ### Hoofdstuk  VII  
 
 ####Zones langs spoorwegen
@@ -776,221 +611,30 @@ Bij algemene maatregel van bestuur kunnen voor andere geluidsgevoelige gebouwen 
 
 ### Artikel  105  
 
-In het belang van het voorkomen of beperken van geluidhinder, veroorzaakt door het gebruik van een spoor-, tram-, of metroweg, kunnen bij of krachtens algemene maatregel van bestuur eisen worden gesteld met betrekking tot aard, samenstelling, wijze van aanleg of gebruik van de spoorweginfrastructuur.  
+In het belang van het voorkomen of beperken van geluid- of trillinghinder, veroorzaakt door het gebruik van een spoorweg, kunnen bij of krachtens algemene maatregel van bestuur eisen worden gesteld met betrekking tot aard, samenstelling, wijze van aanleg of gebruik van de spoorweginfrastructuur.  
 
 ### Afdeling  2  
 
 ####De aanleg of wijziging van een landelijke spoorweg in de zin van [artikel 8 van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md)
 
-### Artikel  105a  
-
-Afdeling 1 van hoofdstuk VIIIA is niet van toepassing op deze afdeling.  
-
-### Artikel  106  
-
-1.  In deze afdeling wordt verstaan onder: 
-
-a. Onze Ministers: Onze Minister en Onze Minister van Verkeer en Waterstaat dan wel Onze Minister van Verkeer en Waterstaat, indien dat volgt uit de beslissing, bedoeld in [artikel 2, tweede lid, onderdeel e](../../../../wet/tracéwet/BWBR0006147/README.md), of [artikel 4, eerste lid, onderdeel d, van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
-
-b. landelijke spoorweg: hetgeen daaronder wordt verstaan in [artikel 1, eerste lid, van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
-
-c. aanleg of wijziging van een landelijke spoorweg: aanleg of wijziging van een landelijke spoorweg in de zin van [artikel 8 van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
-
-d. woonwagenstandplaats: een standplaats als bedoel in [artikel 1, eerste lid, onder h, van de Woningwet](../../../../wet/woningwet/BWBR0005181/README.md);  
-
-e. andere geluidsgevoelige gebouwen: 
-
-1°. onderwijsgebouwen;  
-
-2°. ziekenhuizen en verpleeghuizen;  
-
-3°. bij algemene maatregel van bestuur aan te wijzen andere gezondheidszorggebouwen dan bedoeld onder 2°;    
-
-f. geluidsgevoelige terreinen: 
-
-1°. terreinen die behoren bij gebouwen als bedoeld onder e, 3°, voor zover deze bestemd zijn of worden gebruikt voor de in die gebouwen verleende zorg, of  
-
-2°. woonwagenstandplaatsen;    
-
-g. tracé: tracé als omschreven in [artikel 10, eerste en derde lid, van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md);  
-
-h. aanpassing van een weg: hetgeen daaronder wordt verstaan in artikel 87b, eerste lid, onder h;  
-
-i. equivalent geluidsniveau in dB(A) met betrekking tot een spoorweg: het equivalente geluidsniveau in dB(A), bepaald volgens de op grond van artikel 107 vastgestelde regels;  
-
-j. etmaalwaarde van het equivalente geluidsniveau in dB(A) met betrekking tot een spoorweg: de hoogste van de volgende drie waarden: 
-
-1°. de waarde van het equivalente geluidsniveau over de periode 07.00–19.00 uur (dagwaarde),  
-
-2°. de met 5 dB(A) verhoogde waarde van het equivalente geluidsniveau over de periode 19.00–23.00 uur (avondwaarde),  
-
-3°. de met 10 dB(A) verhoogde waarde van het equivalente geluidsniveau over de periode 23.00–07.00 uur (nachtwaarde);    
-
-k. geluidsbelasting in dB(A) vanwege een spoorweg: de etmaalwaarde van het equivalente geluidsniveau in dB(A) op een bepaalde plaats, veroorzaakt door het gezamenlijke spoorwegverkeer op een bepaald spoorweggedeelte of een combinatie van spoorweggedeelten;  
-
-l. aanpassing van een spoorweg: hetgeen daaronder wordt verstaan in artikel 87b, eerste lid, onder l, onder toepasselijkheid van het derde lid van dat artikel;     
-2.  Een gymnastieklokaal maakt voor de toepassing van deze afdeling geen deel uit van de in het eerste lid, onder 1° en 2°, bedoelde scholen.   
-3.  In afwijking van het eerste lid, onder k, is de geluidsbelasting, vanwege een spoorweg, van de gevel van scholen en van medische kleuterdagverblijven de dagwaarde van het equivalente geluidsniveau in dB(A).   
-4.  Artikel 87b, vierde en vijfde lid, is van overeenkomstige toepassing.   
-
-### Artikel  106a  
-
-Zodra dat van belang is voor de aanleg of wijziging van een landelijke spoorweg, geeft Onze Minister in overeenstemming met Onze Minister van Verkeer en Waterstaat na overleg met de betrokken spoorwegexploitant en de betrokken gemeenteraden en colleges van burgemeester en wethouders landelijke spoorwegen aan op een bij ministeriële regeling vast te stellen kaart.  
-
-### Artikel  106b  
-
-Langs een landelijke spoorweg bevindt zich een zone, waarvan de breedte, gemeten vanuit de buitenste spoorstaaf, is aangegeven op de in artikel 106a bedoelde kaart.  
-
-### Artikel  106c  
-
-1.  Bij het voorbereiden van de aanleg van een landelijke spoorweg wordt vanwege Onze Ministers een akoestisch onderzoek ingesteld naar: 
-
-a. de geluidsbelasting die door woningen, door andere geluidsgevoelige gebouwen of geluidsgevoelige terreinen binnen de zone van de landelijke spoorweg vanwege de landelijke spoorweg of vanwege binnen het tracé van die landelijke spoorweg aan te leggen wegen of spoorwegen zou worden ondervonden zonder de invloed van maatregelen die de geluidsoverdracht beperken;  
-
-b. de doeltreffendheid van de in aanmerking komende maatregelen, om te voorkomen dat de in de toekomst binnen de zone van de landelijke spoorweg vanwege de landelijke spoorweg of vanwege binnen het tracé van die landelijke spoorweg aan te leggen wegen of spoorwegen optredende geluidsbelasting van de onder a bedoelde objecten, de waarden die ingevolge de artikelen 106d tot en met 106h als de ten hoogste toelaatbare worden aangemerkt, te boven gaan.     
-2.  Bij het voorbereiden van een wijziging van een landelijke spoorweg wordt vanwege Onze Ministers een akoestisch onderzoek als bedoeld in het eerste lid ingesteld. Dit onderzoek geeft tevens inzicht in: 
-
-a. de voor de wijziging ter plaatse heersende geluidsbelasting die door woningen, door andere geluidsgevoelige gebouwen of geluidsgevoelige terreinen binnen de zone van de landelijke spoorweg vanwege de landelijke spoorweg of vanwege binnen het tracé van die landelijke spoorweg gelegen wegen of spoorwegen wordt ondervonden;  
-
-b. de geluidsbelasting die door woningen, door andere geluidsgevoelige gebouwen of geluidsgevoelige terreinen binnen de zone van de landelijke spoorweg vanwege de landelijke spoorweg of vanwege binnen het tracé van die landelijke spoorweg gelegen spoorwegen werd ondervonden op 1 juli 1987;  
-
-c. de geluidsbelasting die door woningen, door andere geluidsgevoelige gebouwen of geluidsgevoelige terreinen binnen de zone van de landelijke spoorweg vanwege binnen het tracé van die landelijke spoorweg gelegen wegen werd ondervonden op 1 maart 1986.     
-3.  Indien redelijkerwijs kan worden aangenomen dat de wijziging van een landelijke spoorweg zal leiden tot een aanpassing van wegen, heeft het in het eerste lid bedoelde onderzoek tevens betrekking op die wegen.   
-4.  De in het eerste lid gestelde regels zijn mede van toepassing met betrekking tot de geluidsbelasting binnen de zone van een te wijzigen landelijke spoorweg, vanwege binnen het tracé van die landelijke spoorweg aan te leggen wegen en spoorwegen.   
-5.  De in het tweede lid gestelde regels zijn mede van toepassing met betrekking tot de geluidsbelasting binnen de zone van een aan te leggen landelijke spoorweg, vanwege binnen het tracé van die landelijke spoorweg gelegen wegen en spoorwegen.   
-6.  Onze Minister kan nadere regels stellen omtrent akoestische onderzoeken als bedoeld in het eerste en tweede lid.   
-
-### Artikel  106d  
-
-1.  Behoudens het tweede lid is de voor woningen, binnen de zone van een aan te leggen landelijke spoorweg ten hoogste toelaatbare geluidsbelasting van de gevel, vanwege de landelijke spoorweg of vanwege binnen het tracé van die landelijke spoorweg aan te leggen wegen of spoorwegen, 48 dB vanwege deze wegen, onderscheidenlijk 55dB vanwege deze spoorwegen.   
-2.  Onze Ministers kunnen een hogere dan de in het eerste lid bedoelde waarde vaststellen, met dien verstande dat deze waarde in geval van geluidsbelasting vanwege wegen 58 dB, onderscheidenlijk vanwege spoorwegen 68 dB niet te boven mag gaan.   
-3.  Voor zover het woningen in stedelijk gebied betreft kunnen Onze Ministers een hogere waarde dan 58 dB voor de ten hoogste toelaatbare geluidsbelasting vanwege de in het eerste lid bedoelde wegen vaststellen, met dien verstande dat deze waarde 63 dB niet te boven mag gaan.   
-4.  Onze Ministers kunnen slechts toepassing geven aan het tweede of derde lid in die gevallen waarin toepassing van maatregelen, gericht op het terugbrengen van de verwachte geluidsbelasting van de gevel van de betrokken woningen, vanwege de landelijke spoorweg of vanwege binnen het tracé van die landelijke spoorweg aan te leggen wegen of spoorwegen, tot de ingevolge het eerste lid geldende waarde, onvoldoende doeltreffend zal zijn, dan wel overwegende bezwaren ontmoet van stedenbouwkundige, verkeerskundige, landschappelijke of financiële aard.   
-5.  De in het eerste tot en met vierde lid gestelde regels zijn mede van toepassing binnen de zone van een te wijzigen landelijke spoorweg, vanwege binnen het tracé van die landelijke spoorweg aan te leggen wegen of spoorwegen.   
-6.  De in het eerste tot en met vijfde lid gestelde regels zijn mede van toepassing met betrekking tot de ten hoogste toelaatbare geluidsbelasting van andere geluidsgevoelige gebouwen, met dien verstande dat: 
-
-a. in het eerste lid in plaats van «55 dB» wordt gelezen« 53 dB»;  
-
-b. in het tweede lid in plaats van «58 dB» wordt gelezen «58dB voor zover het andere geluidsgevoelige gebouwen als bedoeld in artikel 106, eerste lid, onder e, 1° en 2° betreft, of 53 dB voor zover het andere geluidsgevoelige gebouwen als bedoeld in artikel 106, eerste lid, onder e, 3°, betreft» en  
-
-c. in het derde lid in plaats van «woningen in stedelijk gebied» wordt gelezen: andere geluidsgevoelige gebouwen als bedoeld in artikel 106, eerste lid, onder e, 1° en 2°, in stedelijk gebied.     
-7.  De in het eerste, tweede, vierde en vijfde lid gestelde regels zijn mede van toepassing met betrekking tot de ten hoogste toelaatbare geluidsbelasting aan de grens van geluidsgevoelige terreinen, met dien verstande dat: 
-
-a. in het eerste lid in plaats van «48 dB» wordt gelezen« indien het woonwagenstandplaatsen betreft 48 dB en in de overige gevallen 53 dB»;  
-
-b. in het tweede lid in plaats van «58 dB» wordt gelezen« indien het woonwagenstandplaatsen betreft 53 dB en in de overige gevallen 58 dB» en in plaats van «68 dB» wordt gelezen: indien het woonwagenstandplaatsen betreft 63 dB en in de overige gevallen 66 dB.     
-
-### Artikel  106e  
-
-1.  Behoudens het tweede en derde lid is de voor woningen binnen de zone van een te wijzigen landelijke spoorweg ten gevolge waarvan de landelijke spoorweg of de binnen het tracé van die landelijke spoorweg gelegen spoorwegen worden aangepast, ten hoogste toelaatbare geluidsbelasting van de gevel, vanwege de landelijke spoorweg of vanwege binnen het tracé van die landelijke spoorweg gelegen spoorwegen, indien: 
-
-a. de geluidsbelasting vanwege deze landelijke spoorweg of vanwege binnen het tracé van die landelijke spoorweg gelegen spoorwegen op 1 juli 1987, van de gevel van deze woningen op dat tijdstip, onderscheidenlijk na ingebruikneming van deze landelijke spoorweg of spoorwegen lager was dan of gelijk was aan 65 dB(A), of  
-
-b. deze landelijke spoorweg na 1 juli 1987 is aangelegd op grond van een bestemmingsplan dat is vastgesteld of herzien met toepassing van het bij of krachtens deze wet bepaalde, of  
-
-c. binnen de zone van die landelijke spoorweg gelegen spoorwegen na 1 juli 1987 zijn aangelegd op grond van een bestemmingsplan dat is vastgesteld of herzien met toepassing van het bij of krachtens deze wet bepaalde,   de voor de wijziging ter plaatse heersende geluidsbelasting, met dien verstande dat een geluidsbelasting waarvan de waarde 55 dB niet te boven gaat, in elk geval als toelaatbaar aangemerkt blijft.   
-2.  In geval eerder bij of krachtens deze wet, de [Experimentenwet Stad en Milieu](../../../../wet/experimentenwet/stad/en/milieu/BWBR0010041/README.md) of de [Interimwet stad-en-milieubenadering](../../../../wet/interimwet/stad-en-milieubenadering/BWBR0019466/README.md) een hogere waarde voor de ten hoogste toelaatbare geluidsbelasting, vanwege de betrokken landelijke spoorweg of spoorwegen is vastgesteld dan 55 dB, is de voor woningen binnen de zone van een te wijzigen landelijke spoorweg ten gevolge waarvan de landelijke spoorweg of binnen het tracé van die landelijke spoorweg gelegen spoorwegen worden aangepast, ten hoogste toelaatbare geluidsbelasting van de gevel, vanwege de landelijke spoorweg of vanwege binnen het tracé van die landelijke spoorweg gelegen spoorwegen, de laagste van de volgende twee waarden, met dien verstande dat een geluidsbelasting waarvan de waarde 55 dB niet te boven gaat, in elk geval als toelaatbaar aangemerkt blijft: 
-
-a. de heersende waarde;  
-
-b. de eerder vastgestelde waarde.     
-3.  Onze Ministers kunnen een hogere dan de in het eerste of tweede lid bedoelde waarde vaststellen, met dien verstande dat de waarde 71 dB niet te boven mag gaan, behoudens ingeval eerder op grond van de [Experimentenwet Stad en Milieu](../../../../wet/experimentenwet/stad/en/milieu/BWBR0010041/README.md) of de [Interimwet stad-en-milieubenadering](../../../../wet/interimwet/stad-en-milieubenadering/BWBR0019466/README.md) een hogere waarde dan 71 dB is vastgesteld. In dat geval mag de vast te stellen hogere waarde niet hoger worden gesteld dan de eerder vastgestelde waarde.   
-4.  Onze Ministers kunnen slechts toepassing geven aan het derde lid in die gevallen waarin toepassing van maatregelen gericht op het terugbrengen van de verwachte geluidsbelasting van de gevel van de betrokken woningen, vanwege de landelijke spoorweg of vanwege binnen het tracé van die landelijke spoorweg gelegen spoorwegen, tot de ingevolge het eerste of tweede lid geldende waarde, onvoldoende doeltreffend zal zijn, dan wel overwegende bezwaren ontmoet van stedenbouwkundige, verkeerskundige, landschappelijke of financiële aard.   
-5.  De in het eerste tot en met vierde lid gestelde regels zijn mede van toepassing binnen de zone van een aan te leggen landelijke spoorweg, vanwege binnen het tracé van die landelijke spoorweg gelegen spoorwegen.   
-6.  De in het eerste tot en met vijfde lid gestelde regels zijn mede van toepassing met betrekking tot de ten hoogste toelaatbare geluidsbelasting van andere geluidsgevoelige gebouwen, met dien verstande dat in het eerste lid in plaats van «65 dB(A)» wordt gelezen «60 dB(A)» en in plaats van «de waarde 55 dB» wordt gelezen: de waarde 53 dB.   
-7.  De in het eerste tot en met vijfde lid gestelde regels zijn mede van toepassing met betrekking tot de ten hoogste toelaatbare geluidsbelasting van geluidsgevoelige terreinen, met dien verstande dat in het derde lid in plaats van «de waarde 71 dB» wordt gelezen: de waarde indien het woonwagenstandplaatsen betreft 63 dB en in de overige gevallen 66 dB.   
-
-### Artikel  106f  
-
-1.  Behoudens het tweede tot en met vijfde lid is de voor woningen binnen de zone van een te wijzigen landelijke spoorweg ten hoogste toelaatbare geluidsbelasting van de gevel, vanwege de landelijke spoorweg of vanwege binnen het tracé van die landelijke spoorweg gelegen spoorwegen, indien de geluidsbelasting vanwege deze landelijke spoorweg of vanwege binnen het tracé van die landelijke spoorweg gelegen spoorwegen op 1 juli 1987, van de gevel van deze woningen op dat tijdstip, onderscheidenlijk na ingebruikneming van de landelijke spoorweg of binnen het tracé van die landelijke spoorweg gelegen spoorwegen hoger was dan 65 dB(A), de waarde 55 dB.   
-2.  In geval eerder bij of krachtens deze wet een hogere waarde voor de ten hoogste toelaatbare geluidsbelasting, vanwege de betrokken landelijke spoorweg of spoorwegen is vastgesteld dan 55 dB, is de voor woningen binnen de zone van een te wijzigen landelijke spoorweg ten gevolge waarvan de landelijke spoorweg of binnen het tracé van die landelijke spoorweg gelegen spoorwegen worden aangepast, ten hoogste toelaatbare geluidsbelasting van de gevel, vanwege de landelijke spoorweg of vanwegebinnen het tracé van die landelijke spoorweg gelegen spoorwegen, de laagste van de volgende twee waarden, met dien verstande dat een geluidsbelasting waarvan de waarde 55 dB niet te boven gaat, in elk geval als toelaatbaar aangemerkt blijft: 
-
-a. de heersende waarde;  
-
-b. de eerder vastgestelde waarde.     
-3.  Onze Ministers kunnen een hogere dan de in het eerste lid bedoelde waarde vaststellen, met dien verstande dat deze de waarde 71 dB niet te boven mag gaan.   
-4.  Onze Ministers kunnen een hogere dan de in het tweede lid bedoelde waarde vaststellen, met dien verstande dat deze waarde 71 dB niet te boven mag gaan, behoudens ingeval eerder bij of krachtens deze wet een hogere waarde dan 71 dB is vastgesteld. In dat geval mag de vast te stellen hogere waarde niet hoger worden gesteld dan de eerder vastgestelde waarde.   
-5.  In afwijking van het derde lid kunnen Onze Ministers met overeenkomstige toepassing van artikel 90, vierde lid, een hogere waarde dan 71 dB vaststellen.   
-6.  Onze Ministers kunnen slechts toepassing geven aan het derde tot en met vijfde lid in die gevallen waarin toepassing van maatregelen gericht op het terugbrengen van de verwachte geluidsbelasting van de gevel van de betrokken woningen, vanwege de landelijke spoorweg of vanwege binnen het tracé van die landelijke spoorweg gelegen spoorwegen, tot de ingevolge het eerste of tweede lid geldende waarde, onvoldoende doeltreffend zal zijn, dan wel overwegende bezwaren ontmoet van stedenbouwkundige, verkeerskundige, landschappelijke of financiële aard.   
-7.  De in het eerste tot en met zesde lid gestelde regels zijn mede van toepassing binnen de zone van een aan te leggen landelijke spoorweg, vanwege binnen het tracé van die landelijke spoorweg gelegen spoorwegen.   
-8.  De in het eerste tot en met vierde en zesde en zevende lid gestelde regels zijn mede van toepassing met betrekking tot de ten hoogste toelaatbare geluidsbelasting van andere geluidsgevoelige gebouwen, met dien verstande dat in het eerste lid in plaats van «hoger was dan 65 dB(A), de waarde 55 dB» wordt gelezen: hoger was dan 60 dB(A), de waarde 58 dB.   
-9.  De in het eerste tot en met vierde en zesde en zevende lid gestelde regels zijn mede van toepassing met betrekking tot de ten hoogste toelaatbare geluidsbelasting van geluidsgevoelige terreinen, met dien verstande dat in het eerste lid in plaats van «de waarde 55 dB» wordt gelezen: de waarde 63 dB.   
-
-### Artikel  106g  
-
-1.  Behoudens het tweede tot en met vierde lid is de voor woningen binnen de zone van een te wijzigen landelijke spoorweg ten gevolge waarvan binnen het tracé van die landelijke spoorweg gelegen wegen worden aangepast, ten hoogste toelaatbare geluidsbelasting van de gevel, vanwege binnen het tracé van die landelijke spoorweg gelegen wegen 48 dB, indien: 
-
-a. de geluidsbelasting vanwege binnen het tracé van deze landelijke spoorweg gelegen wegen op 1 maart 1986, van de gevel van deze woningen op dat tijdstip, onderscheidenlijk na ingebruikneming van deze wegen lager was dan of gelijk was aan 60 dB(A), of  
-
-b. binnen het tracé van die landelijke spoorweg gelegen wegen na 1 januari 1982 zijn aangelegd op grond van een overeenkomstig de artikelen 76 en 77 vastgesteld of herzien bestemmingsplan.     
-2.  In geval eerder bij of krachtens deze wet, de [Experimentenwet Stad en Milieu](../../../../wet/experimentenwet/stad/en/milieu/BWBR0010041/README.md), de [Interimwet stad-en-milieubenadering](../../../../wet/interimwet/stad-en-milieubenadering/BWBR0019466/README.md) of de [Spoedwet wegverbreding](../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md) een hogere waarde voor de ten hoogste toelaatbare geluidsbelasting, vanwege de betrokken wegen is vastgesteld dan 48 dB en de heersende waarde hoger is dan 48 dB, is de voor woningen binnen de zone van een te wijzigen landelijke spoorweg ten gevolge waarvan binnen het tracé van die landelijke spoorweg gelegen wegen worden aangepast, ten hoogste toelaatbare geluidsbelasting van de gevel, vanwege binnen het tracé van die landelijke spoorweg gelegen wegen, de laagste van de volgende twee waarden: 
-
-a. de heersende waarde;  
-
-b. de eerder vastgestelde waarde.     
-3.  Ingeval de betrokken wegen op 1 januari 2007 aanwezig, in aanleg of geprojecteerd waren en niet eerder een hogere waarde voor de ten hoogste toelaatbare geluidsbelasting, vanwege de betrokken wegen van de gevel van woningen is vastgesteld dan 48 dB en de heersende waarde is hoger dan 48 dB, geldt voor de woningen die op 1 januari 2007 aanwezig, in aanbouw of geprojecteerd waren binnen de zone van een te wijzigen of te verbreden landelijke spoorweg ten gevolge waarvan binnen het tracé van die landelijke spoorweg gelegen wegen worden aangepast, als de ten hoogste toelaatbare geluidsbelasting van de gevel, vanwege binnen het tracé van die landelijke spoorweg gelegen wegen, de heersende waarde.   
-4.  Onze Ministers kunnen een hogere dan de in het eerste, tweede of derde lid bedoelde waarde vaststellen, met dien verstande dat de verhoging 5 dB niet te boven mag gaan, behoudens in gevallen waarin: 
-
-1°. ten gevolge van de aanpassing van de weg de geluidsbelasting van de gevel van ten minste een gelijk aantal woningen elders met een ten minste gelijke waarde zal verminderen, en  
-
-2°. de wegbeheerder heeft verklaard dat hij financiële middelen ter beschikking stelt uiterlijk voor afloop van de aanpassing van de weg ten behoeve van de toepassing van artikel 111a, vijfde, zevende of negende lid, met betrekking tot woningen die door de aanpassing van de weg een hogere geluidsbelasting ondervinden.     
-5.  De krachtens het vierde lid vast te stellen waarde wordt niet hoger vastgesteld dan 58 dB bij een aanpassing van een weg in buitenstedelijk gebied en 63 dB bij een aanpassing van een weg in stedelijk gebied, indien voor de betrokken woning eerder toepassing is gegeven aan artikel 83 of 84, tweede lid, zoals dat luidde voor 1 september 1991 of de heersende waarde 53 dB niet te boven gaat. Voor andere dan de in de eerste volzin bedoelde woningen wordt de krachtens het vierde lid vast te stellen waarde niet hoger vastgesteld dan 68 dB. In afwijking van de eerste en tweede volzin wordt de krachtens het vierde lid vast te stellen waarde voor woningen met betrekking waartoe eerder bij of krachtens deze wet, de [Experimentenwet Stad en Milieu](../../../../wet/experimentenwet/stad/en/milieu/BWBR0010041/README.md), de [Interimwet stad-en-milieubenadering](../../../../wet/interimwet/stad-en-milieubenadering/BWBR0019466/README.md) of de [Spoedwet wegverbreding](../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md) een hogere waarde is vastgesteld dan de krachtens die volzinnen ten hoogste toelaatbare waarde, niet hoger vastgesteld dan die eerder vastgestelde waarde.   
-6.  Onze Ministers kunnen slechts toepassing geven aan het vierde en vijfde lid in die gevallen waarin toepassing van maatregelen gericht op het terugbrengen van de verwachte geluidsbelasting van de gevel van de betrokken woningen, vanwege binnen het tracé van de landelijke spoorweg gelegen wegen, tot de ingevolge het eerste, tweede of derde lid geldende waarde, onvoldoende doeltreffend zal zijn, dan wel overwegende bezwaren ontmoet van stedenbouwkundige, verkeerskundige, landschappelijke of financiële aard.   
-7.  De in het eerste tot en met zesde lid gestelde regels zijn mede van toepassing binnen de zone van een aan te leggen landelijke spoorweg, vanwege binnen het tracé van die landelijke spoorweg gelegen wegen.   
-8.  Het eerste tot en met zevende lid zijn mede van toepassing met betrekking tot de ten hoogste toelaatbare geluidsbelasting van andere geluidsgevoelige gebouwen, met dien verstande dat: 
-
-a. het vierde lid wordt gelezen als «Onze Ministers kunnen een hogere dan de in het eerste, tweede of derde lid, bedoelde waarde vaststellen, met dien verstande dat een verhoging 5 dB niet te boven mag gaan», en  
-
-b. het vijfde lid wordt gelezen als: Indien voor het betrokken andere geluidsgevoelige gebouw eerder bij of krachtens deze wet een hogere waarde voor de ten hoogste toelaatbare geluidsbelasting is vastgesteld of indien de heersende waarde 53 dB niet te boven gaat, wordt de krachtens het vierde lid vast te stellen waarde niet hoger vastgesteld dan: 
-
-1°. 58 dB voor andere geluidsgevoelige gebouwen als bedoeld in artikel 87b, eerste lid, onder e, 1° en 2° in buitenstedelijk gebied,  
-
-2°. 63 dB voor andere geluidsgevoelige gebouwen als bedoeld in artikel 87b, eerste lid, onder e, 1° en 2° in stedelijk gebied, en  
-
-3°. 53 dB voor andere geluidsgevoelige gebouwen als bedoeld in artikel 87b, eerste lid, onder e, 3°.     Voor andere dan de in de eerste volzin bedoelde andere geluidsgevoelige gebouwen wordt de krachtens het vierde lid vast te stellen waarde niet hoger vastgesteld dan 68 dB voor andere geluidsgevoelige gebouwen als bedoeld in artikel 87b, eerste lid, onder e, 1° en 2°, en 58 dB voor andere geluidsgevoelige gebouwen als bedoeld in artikel 87b, eerste lid, onder e, 3°. In afwijking van de eerste en tweede volzin wordt de krachtens het vierde lid vast te stellen waarde voor andere geluidsgevoelige gebouwen met betrekking waartoe eerder bij of krachtens deze wet, de [Experimentenwet Stad en Milieu](../../../../wet/experimentenwet/stad/en/milieu/BWBR0010041/README.md), de [Interimwet stad-en-milieubenadering](../../../../wet/interimwet/stad-en-milieubenadering/BWBR0019466/README.md) of de [Spoedwet wegverbreding](../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md) een hogere waarde is vastgesteld dan de krachtens die volzinnen ten hoogste toelaatbare waarde, niet hoger vastgesteld dan die eerder vastgestelde waarde.   
-9.  De in het eerste tot en met zevende lid gestelde regels zijn mede van toepassing met betrekking tot de ten hoogste toelaatbare geluidsbelasting aan de grens van geluidsgevoelige terreinen, met dien verstande dat: 
-
-a. in het eerste, tweede en derde lid in plaats van «48 dB» telkens wordt gelezen «indien het woonwagenstandplaatsen betreft 48 dB en in de overige gevallen 53 dB»;  
-
-b. het in het vierde lid, onder 1° en 2°, gestelde niet van toepassing is, en  
-
-c. in het vijfde lid in plaats van «58 dB bij een wijziging van een weg in buitenstedelijk gebied en 63 dB bij een wijziging van een weg in stedelijk gebied, indien voor de betrokken woning eerder toepassing is gegeven aan artikel 83 of 84, tweede lid, zoals dat luidde voor 1 september 1991 of de heersende waarde 53 dB niet te boven gaat» wordt gelezen «53 dB indien het woonwagenstandplaatsen betreft en 58 dB in de overige gevallen» en de tweede volzin van dat lid niet van toepassing is.     
-
-### Artikel  106h  
-
-1.  Behoudens het tweede tot en met vijfde lid is de voor woningen binnen de zone van een te wijzigen landelijke spoorweg ten hoogste toelaatbare geluidsbelasting van de gevel, vanwege binnen het tracé van die landelijke spoorweg gelegen wegen, indien de geluidsbelasting vanwege binnen het tracé van die landelijke spoorweg gelegen wegen op 1 maart 1986, van de gevel van deze woningen op dat tijdstip, onderscheidenlijk na ingebruikneming van de wegen hoger was dan 60 dB(A), de waarde 48 dB.   
-2.  In geval eerder bij of krachtens deze wet of de [Spoedwet wegverbreding](../../../../wet/spoedwet/wegverbreding/BWBR0015158/README.md) een hogere waarde voor de ten hoogste toelaatbare geluidsbelasting, vanwege de betrokken wegen, is vastgesteld dan 48 dB, is de voor woningen binnen het tracé van een te wijzigen landelijke spoorweg ten gevolge waarvan binnen het tracé van die landelijke spoorweg gelegen wegen worden aangepast, ten hoogste toelaatbare geluidsbelasting van de gevel, vanwege binnen het tracé van die landelijke spoorweg gelegen wegen: 
-
-a. 48 dB als de heersende waarde lager is dan of gelijk is aan 48 dB en  
-
-b. de laagste van de volgende twee waarden als de heersende waarde hoger is dan 48 dB: 
-
-1°. de heersende waarde;  
-
-2°. de eerder vastgestelde waarde.       
-3.  Onze Ministers kunnen een hogere dan de in het eerste lid bedoelde waarde vaststellen, met dien verstande dat deze de waarde 68 dB niet te boven mag gaan.   
-4.  Onze Ministers kunnen een hogere dan de in het tweede lid bedoelde waarde vaststellen, met dien verstande dat de verhoging 5 dB niet te boven mag gaan, behoudens in gevallen waarin: 
-
-1°. ten gevolge van de aanpassing van de weg de geluidsbelasting van de gevel van ten minste een gelijk aantal woningen elders met een ten minste gelijke waarde zal verminderen, en  
-
-2°. de wegbeheerder heeft verklaard dat hij financiële middelen ter beschikking stelt uiterlijk voor afloop van de aanpassing van de weg ten behoeve van de toepassing van artikel 111a, zesde of achtste lid, met betrekking tot woningen die door de aanpassing van de weg een hogere geluidsbelasting ondervinden. De krachtens dit lid vast te stellen waarde mag 68 dB niet te boven gaan.     
-5.  In afwijking van het derde lid kunnen Onze Ministers met overeenkomstige toepassing van artikel 90, vierde lid, een hogere waarde dan 68 dB vaststellen.   
-6.  Indien eerder bij of krachtens deze wet een hogere waarde dan 68 dB is vastgesteld, mag de vast te stellen hogere waarde, in afwijking van het vierde lid, niet hoger worden vastgesteld dan de eerder vastgestelde waarde.   
-7.  Onze Ministers kunnen slechts toepassing geven aan het derde tot en met vijfde lid in die gevallen waarin toepassing van maatregelen gericht op het terugbrengen van de verwachte geluidsbelasting van de gevel van de betrokken woningen, vanwege binnen het tracé van de landelijke spoorweg gelegen wegen, tot de ingevolge het eerste of tweede lid geldende waarde, onvoldoende doeltreffend zal zijn, dan wel overwegende bezwaren ontmoet van stedenbouwkundige, verkeerskundige, landschappelijke of financiële aard.   
-8.  De in het eerste tot en met zevende lid gestelde regels zijn mede van toepassing binnen de zone van een aan te leggen landelijke spoorweg, vanwege binnen het tracé van die landelijke spoorweg gelegen wegen.   
-9.  De in het eerste tot en met vierde en zevende en achtste lid gestelde regels zijn mede van toepassing met betrekking tot de ten hoogste toelaatbare geluidsbelasting van andere geluidsgevoelige gebouwen, met dien verstande dat: 
-
-a. in het derde en vierde lid in plaats van «de waarde 68 dB» telkens wordt gelezen: met betrekking tot andere geluidsgevoelige gebouwen als bedoeld in artikel 106, eerste lid, onder e, 1° en 2°, de waarde 68 dB, onderscheidenlijk met betrekking tot andere geluidsgevoelige gebouwen als bedoeld in artikel 106, eerste lid, onder e, 3°, de waarde 58 dB, en  
-
-b. het in het vierde lid, onder 1° en 2°, gestelde niet van toepassing is.     
-
 ### Afdeling  3  
 
 ####Overige spoorwegen
 
+### Artikel  106  
+
+1.  Deze afdeling is van toepassing op: 
+
+a. de aanleg en wijziging van spoorwegen die daartoe zijn aangegeven op een kaart;  
+
+b. de sanering van bij algemene maatregel van bestuur aangegeven woningen, andere geluidsgevoelige gebouwen en geluidsgevoelige terreinen vanwege de ondervonden geluidsbelasting van spoorwegen die zijn aangegeven op de kaart;  
+
+c. de projectie van woningen, andere geluidsgevoelige gebouwen en geluidsgevoelige terreinen binnen de zones van spoorwegen die zijn aangegeven op de kaart, bedoeld in het eerste lid, of op de geluidplafondkaart.     
+2.  De kaart, bedoeld in het eerste lid, wordt door Onze Minister vastgesteld.   
+
 ### Artikel  107  
 
-In het belang van het voorkomen of beperken van geluidhinder vanwege spoorwegen kunnen bij of krachtens algemene maatregel van bestuur, voor gevallen waarin geen toepassing wordt gegeven aan hoofdstuk VI, afdeling 2a, of hoofdstuk VII, afdeling 2, omtrent de onderwerpen die ter beperking van de geluidsbelasting vanwege wegen geregeld zijn in de hoofdstukken VI of VIIIA, regels worden gesteld. Daarbij kunnen bepalingen van dat hoofdstuk van overeenkomstige toepassing worden verklaard.  
+In het belang van het voorkomen of beperken van geluidhinder vanwege spoorwegen kunnen bij of krachtens algemene maatregel van bestuur, omtrent de onderwerpen die ter beperking van de geluidsbelasting vanwege wegen geregeld zijn in de hoofdstukken VI of VIIIA, regels worden gesteld. Daarbij kunnen bepalingen van dat hoofdstuk van overeenkomstige toepassing worden verklaard.  
 
 ### Hoofdstuk  VIII  
 
@@ -1050,11 +694,12 @@ b. de voorbereiding van een besluit als bedoeld in artikel 110a.
 
 ### Artikel  110d  
 
-Ten behoeve van de vaststelling van de geluidsbelasting vanwege een industrieterrein, weg of spoorweg wordt voor het bepalen van het equivalente geluidsniveau bij ministeriële regeling aangegeven: 
+1.  Ten behoeve van de vaststelling van de geluidsbelasting vanwege een industrieterrein, weg of spoorweg wordt voor het bepalen van het equivalente geluidsniveau bij ministeriële regeling aangegeven: 
 
 a. op welke wijze en met inachtneming van welke bestaande of te verwachten omstandigheden, de afwisselende niveaus van het ter plaatse optredende geluid worden vastgesteld, en  
 
-b. op welke wijze uit de over een bepaalde periode verkregen uitkomsten het in vorengenoemde omschrijving bedoelde gemiddelde wordt afgeleid.    
+b. op welke wijze uit de over een bepaalde periode verkregen uitkomsten het in vorengenoemde omschrijving bedoelde gemiddelde wordt afgeleid.     
+2.  Het eerste lid is niet van toepassing met betrekking tot de vaststelling van de geluidsbelasting vanwege een weg of spoorweg die is aangegeven op de geluidplafondkaart.   
 
 ### Artikel  110e  
 
@@ -1066,11 +711,11 @@ Onze Minister kan regels stellen omtrent al hetgeen betrekking heeft op de wijze
 
 a. Afdeling 1 en afdeling 2 van hoofdstuk V,  
 
-b. Afdeling 2, 2a, 3 en 4 van hoofdstuk VI,  
+b. Afdeling 2, 3 en 4 van hoofdstuk VI,  
 
 c. hoofdstuk VII, en  
 
-d. hoofdstuk VIII,   van toepassing is op woningen, andere geluidsgevoelige gebouwen en geluidsgevoelige terreinen gelegen in twee of meer aanwezige of toekomstige geluidszones als bedoeld in de artikelen 40, 52, 74, 106b en 108, of als vastgesteld krachtens artikel 107, dan wel in één of meer hiervoor genoemde geluidszones alsmede in een met het oog op de geluidsbelasting vastgesteld beperkingengebied als bedoeld in [hoofdstuk 8](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) of [artikel 10.17 van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), dient degene, die bij of krachtens deze wet verplicht is tot het verrichten van een akoestisch onderzoek, ter plaatse van die woningen, andere geluidsgevoelige gebouwen en geluidsgevoelige terreinen, overeenkomstig de door Onze Minister gestelde regels, tevens onderzoek te doen naar de effecten van de samenloop van de verschillende geluidsbronnen. Aangegeven dient te worden op welke wijze met de samenloop rekening is gehouden bij de te treffen maatregelen.   
+d. hoofdstuk VIII,   van toepassing is op woningen, andere geluidsgevoelige gebouwen en geluidsgevoelige terreinen gelegen in twee of meer aanwezige of toekomstige geluidszones als bedoeld in de artikelen 40, 52, 74 en 108, of als vastgesteld krachtens artikel 107, dan wel in één of meer hiervoor genoemde geluidszones alsmede in een met het oog op de geluidsbelasting vastgesteld beperkingengebied als bedoeld in [hoofdstuk 8](../../../../wet/wet/luchtvaart/BWBR0005555/README.md) of [artikel 10.17 van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), dient degene, die bij of krachtens deze wet verplicht is tot het verrichten van een akoestisch onderzoek, ter plaatse van die woningen, andere geluidsgevoelige gebouwen en geluidsgevoelige terreinen, overeenkomstig de door Onze Minister gestelde regels, tevens onderzoek te doen naar de effecten van de samenloop van de verschillende geluidsbronnen. Aangegeven dient te worden op welke wijze met de samenloop rekening is gehouden bij de te treffen maatregelen.   
 2.  Indien in een bepaald gebied een of meer van de in het eerste lid genoemde onderdelen van deze wet of van het krachtens die onderdelen bepaalde van toepassing zijn, terwijl voor dat gebied tevens uit anderen hoofde van Rijkswege een saneringsprogramma ter zake van het voorkomen of bestrijden van geluidhinder moet worden opgesteld, draagt Onze Minister zorg voor de noodzakelijke onderlinge afstemming en samenhang van de te treffen maatregelen.   
 3.  Het eerste en tweede lid zijn uitsluitend van toepassing indien voor een woning, ander geluidgevoelig gebouw of geluidgevoelig terrein: 
 
@@ -1099,6 +744,10 @@ Indien voorafgaand aan 1 januari 2007 een hogere waarde voor de ten hoogste toel
 
 ### Artikel  111  
 
+Dit hoofdstuk is niet van toepassing op de binnenwaarden van aanwezige of in aanbouw zijnde woningen en gebouwen in zones van wegen of spoorwegen die zijn aangegeven op de geluidplafondkaart, voor zover het betreft de geluidsbelasting vanwege die wegen of spoorwegen.  
+
+### Artikel  111b  
+
 1.  Indien met betrekking tot gevels van in aanbouw zijnde of aanwezige woningen een hogere geluidsbelasting, vanwege een industrieterrein, als de ten hoogste toelaatbare is vastgesteld, treffen burgemeester en wethouders met betrekking tot de geluidwering van die gevels maatregelen om te bevorderen dat de geluidsbelasting binnen de woning bij gesloten ramen ten hoogste bedraagt: 
 
 a. ingeval met toepassing van artikel 63, tweede lid, een hogere geluidsbelasting dan 55 dB(A) als de ten hoogste toelaatbare is vastgesteld: 40 dB(A);  
@@ -1106,45 +755,6 @@ a. ingeval met toepassing van artikel 63, tweede lid, een hogere geluidsbelastin
 b. in andere gevallen: 35 dB(A).     
 2.  Indien met betrekking tot gevels van in aanbouw zijnde of aanwezige woningen een hogere geluidsbelasting dan 48 dB vanwege een weg, als de ten hoogste toelaatbare is vastgesteld, treffen burgemeester en wethouders met betrekking tot de geluidwering van die gevels, ingeval het een weg betreft die na 1 januari 1982 is of wordt aangelegd en is opgenomen in een overeenkomstig de artikelen 76 en 77 vastgesteld bestemmingsplan, dan wel na dat tijdstip ingevolge een besluit, genomen met toepassing van de artikelen 79 tot en met 81, is aangelegd, maatregelen om te bevorderen dat de geluidsbelasting binnen de woning bij gesloten ramen ten hoogste 33 dB bedraagt.   
 3.  Indien met betrekking tot de gevels van woningen waarvan de geluidsbelasting vanwege de weg op 1 maart 1986 hoger was dan 55 dB(A) en met toepassing van artikel 90, tweede lid, een hogere geluidsbelasting dan 48 dB, vanwege de weg als de ten hoogste toelaatbare is vastgesteld, treffen burgemeester en wethouders met betrekking tot de geluidwering van die gevels maatregelen om te bevorderen dat de geluidsbelasting binnen de woning bij gesloten ramen ten hoogste 43 dB bedraagt.   
-
-### Artikel  111a  
-
-1.  Indien met toepassing van artikel 87e, tweede lid of derde lid, 87f, vierde of vijfde lid, of  87h, derde lid, met betrekking tot de gevels van in aanbouw zijnde of aanwezige woningen voor de eerste maal een hogere geluidsbelasting dan 48 dB vanwege de hoofdweg of vanwege binnen het tracé van die hoofdweg gelegen wegen, onderscheidenlijk een hogere geluidsbelasting dan 55 dB vanwege binnen het tracé van die hoofdweg gelegen spoorwegen als de ten hoogste toelaatbare is vastgesteld, treffen burgemeester en wethouders met betrekking tot de geluidwering van die gevels maatregelen om te bevorderen dat de geluidsbelasting binnen de woning bij gesloten ramen in geval van geluidsbelasting vanwege wegen ten hoogste 33 dB, onderscheidenlijk vanwege spoorwegen ten hoogste 35 dB bedraagt.   
-2.  Indien met toepassing van artikel 87g, derde tot en met zesde lid, of  87i, derde tot en met vijfde lid, met betrekking tot de gevels van in aanbouw zijnde of aanwezige woningen een hogere geluidsbelasting dan 53 dB vanwege de hoofdweg of vanwege binnen het tracé van die hoofdweg gelegen wegen, onderscheidenlijk een hogere geluidsbelasting dan 63 dB vanwege binnen het tracé van die hoofdweg gelegen spoorwegen als de ten hoogste toelaatbare is vastgesteld, treffen burgemeester en wethouders met betrekking tot de geluidwering van die gevels maatregelen om te bevorderen dat de geluidsbelasting binnen de woning bij gesloten ramen ten hoogste 43 dB bedraagt.   
-3.  Indien met toepassing van artikel 87e, zesde lid, 87f, achtste lid of 87h, zesde lid, met betrekking tot de gevels van andere geluidsgevoelige gebouwen voor de eerste maal een hogere geluidsbelasting dan 48 dB vanwege de hoofdweg of vanwege binnen het tracé van die hoofdweg gelegen wegen, onderscheidenlijk een hogere geluidsbelasting dan 53 dB vanwege binnen het tracé van die hoofdweg gelegen spoorwegen, als de ten hoogste toelaatbare is vastgesteld, treffen burgemeester en wethouders met betrekking tot de geluidwering van die gevels maatregelen om te bevorderen dat de geluidsbelasting bij gesloten ramen binnen: 
-
-a. leslokalen en theorielokalen van onderwijsgebouwen,  
-
-b. onderzoeks- en behandelingsruimten van ziekenhuizen en verpleeghuizen, bedoeld in artikel 87b, eerste lid, onder e, 2°,  
-
-c. onderzoeks-, behandelings-, recreatie- en conversatieruimten, alsmede woon- en slaapruimten van gebouwen, bedoeld in artikel 87b, eerste lid, onder e, 3°, ten hoogste 28 dB bedraagt, onderscheidenlijk binnen: 
-
-a. theorievaklokalen van onderwijsgebouwen,  
-
-b. ruimten voor patiëntenhuisvesting, alsmede recreatie- en conversatieruimten van ziekenhuizen en verpleeghuizen als bedoeld in artikel 87b, eerste lid, onder e, 2°, ten hoogste 33 dB bedraagt.       
-4.  Het derde lid is van overeenkomstige toepassing, indien met toepassing van artikel 87g, negende lid of 87i, achtste lid, met betrekking tot de gevels van andere geluidsgevoelige gebouwen een hogere geluidsbelasting dan 48 dB vanwege de hoofdweg of vanwege binnen het tracé van die hoofdweg gelegen wegen, onderscheidenlijk een hogere geluidsbelasting dan 53 dB vanwege binnen het tracé van die hoofdweg gelegen spoorwegen, als de ten hoogste toelaatbare is vastgesteld, met dien verstande dat in plaats van «28 dB» wordt gelezen «38 dB» en in plaats van «33 dB» wordt gelezen: 43 dB.   
-5.  Indien met toepassing van artikel 106d, tweede lid of derde lid, 106e, derde lid, of  106g, vierde of vijfde lid, met betrekking tot de gevels van in aanbouw zijnde of aanwezige woningen voor de eerste maal een hogere geluidsbelasting dan 55 dB vanwege de landelijke spoorweg of vanwege binnen het tracé van die landelijke spoorweg gelegen spoorwegen, onderscheidenlijk een hogere geluidsbelasting dan 48 dB vanwege binnen het tracé van die landelijke spoorweg gelegen wegen, als de ten hoogste toelaatbare is vastgesteld, treffen burgemeester en wethouders met betrekking tot de geluidwering van die gevels maatregelen om te bevorderen dat de geluidsbelasting binnen de woning bij gesloten ramen in geval van geluidsbelasting vanwege spoorwegen ten hoogste 35 dB, onderscheidenlijk vanwege wegen ten hoogste 33 dB bedraagt.   
-6.  Indien met toepassing van artikel 106f, derde tot en met vijfde lid, of  106h, derde tot en met zesde lid, met betrekking tot de gevels van in aanbouw zijnde of aanwezige woningen een hogere geluidsbelasting dan 63 dB vanwege de landelijke spoorweg of vanwege binnen het tracé van die landelijke spoorweg gelegen spoorwegen, onderscheidenlijk een hogere geluidsbelasting dan 53 dB vanwege binnen het tracé van die landelijke spoorweg gelegen wegen als de ten hoogste toelaatbare is vastgesteld, treffen burgemeester en wethouders met betrekking tot de geluidwering van die gevels maatregelen om te bevorderen dat de geluidsbelasting binnen de woning bij gesloten ramen ten hoogste 43 dB bedraagt.   
-7.  Indien met toepassing van artikel 106d, zesde lid, 106e, zesde lid of 106g, achtste lid, met betrekking tot de gevels van in aanbouw zijnde of aanwezige andere geluidsgevoelige gebouwen voor de eerste maal een hogere geluidsbelasting dan 53 dB vanwege de landelijke spoorweg of vanwege binnen het tracé van die landelijke spoorweg gelegen spoorwegen, onderscheidenlijk een hogere geluidsbelasting dan 48 dB vanwege binnen het tracé van die landelijke spoorweg gelegen wegen, als de ten hoogste toelaatbare is vastgesteld, treffen burgemeester en wethouders met betrekking tot de geluidwering van die gevels maatregelen om te bevorderen dat de geluidsbelasting bij gesloten ramen binnen: 
-
-a. leslokalen en theorielokalen van onderwijsgebouwen,  
-
-b. onderzoeks- en behandelingsruimten van ziekenhuizen en verpleeghuizen, bedoeld in artikel 106b, eerste lid, onder e, 2°,  
-
-c. onderzoeks-, behandelings-, recreatie- en conversatieruimten, alsmede woon- en slaapruimten van gebouwen, bedoeld in artikel 106b, eerste lid, onder e, 3°, ten hoogste 28 dB bedraagt, onderscheidenlijk binnen: 
-
-a. theorievaklokalen van onderwijsgebouwen,  
-
-b. ruimten voor patiëntenhuisvesting, alsmede recreatie- en conversatieruimten van ziekenhuizen en verpleeghuizen als bedoeld in artikel 106b, eerste lid, onder e, 2°, ten hoogste 33 dB bedraagt.       
-8.  Het zevende lid is van overeenkomstige toepassing, indien met toepassing van artikel 106f, achtste lid, of 106h, negende lid, met betrekking tot de gevels van andere geluidsgevoelige gebouwen een hogere geluidsbelasting dan 53 dB vanwege de landelijke spoorweg of vanwege binnen het tracé van die landelijke spoorweg gelegen spoorwegen, onderscheidenlijk een hogere geluidsbelasting dan 48 dB vanwege binnen het tracé van die landelijke spoorweg gelegen wegen, als de ten hoogste toelaatbare is vastgesteld, met dien verstande dat in plaats van «28 dB» wordt gelezen «38 dB» en in plaats van «33 dB» wordt gelezen: 43 dB.   
-9.  Indien met betrekking tot de gevels van woningen of andere geluidsgevoelige gebouwen waarvan de geluidsbelasting vanwege de weg op 1 maart 1986 hoger was dan 55 dB(A) en waarvoor met toepassing van artikel 87f, vierde, vijfde, zevende of achtste lid, of artikel 106g, vierde, vijfde, zevende of achtste lid, voor de eerste maal een hogere geluidsbelasting dan 48 dB, vanwege de weg als de ten hoogste toelaatbare is vastgesteld, treffen burgemeester en wethouders met betrekking tot de geluidwering van die gevels in afwijking van het eerste, derde, vijfde en zevende lid, maatregelen om te bevorderen dat de geluidsbelasting: 
-
-a. binnen de woning bij gesloten ramen ten hoogste 43 dB bedraagt,  
-
-b. binnen de leslokalen en theorielokalen van onderwijsgebouwen, de onderzoeks- en behandelruimten van ziekenhuizen en verpleegtehuizen, bedoeld in 87b, eerste lid, onder e, 2°, en de onderzoeks, behandelings-, recreatie- en conversatieruimten, alsmede woon- en slaapruimten van gebouwen, bedoeld in artikel 87b, eerste lid, onder 3°, bij gesloten ramen ten hoogste 38 dB bedraagt, onderscheidenlijk  
-
-c. binnen de theorievaklokalen van onderwijsgebouwen en de ruimten voor patiëntenhuisvesting, alsmede recreatie- en conversatieruimten voor ziekenhuizen en verpleeghuizen als bedoeld in artikel 87b, eerste lid, onder e, 2°, bij gesloten ramen ten hoogste 43 dB bedraagt.     
-10.  Ingeval voor de betrokken woningen of andere geluidsgevoelige gebouwen eerder een hogere waarde voor de geluidsbelasting is vastgesteld, treffen burgemeester en wethouders met betrekking tot de geluidwering van die gevels in afwijking van het eerste, derde, vijfde, zevende en negende lid, maatregelen om te bevorderen dat de geluidsbelasting, binnen de woning bij gesloten ramen na de aanpassing ten hoogste de waarde die voor de aanpassing van de weg ingevolge het bij of krachtens deze wet voor de onderscheiden situaties bepaalde, dan wel ingevolge het krachtens [artikel 3 van de Woningwet](../../../../wet/woningwet/BWBR0005181/README.md) bepaalde ten hoogste toelaatbaar was, bedraagt.   
 
 ### Artikel  112  
 
@@ -1156,11 +766,11 @@ b. ingeval voor de betrokken woningen eerder een hogere waarde voor de geluidsbe
 
 ### Artikel  113  
 
-Bij algemene maatregel van bestuur kunnen voor daarbij aan te wijzen andere geluidsgevoelige gebouwen met betrekking tot de in de artikelen 111 en 112 geregelde onderwerpen overeenkomstige regels worden gesteld.  
+Bij algemene maatregel van bestuur kunnen voor daarbij aan te wijzen andere geluidsgevoelige gebouwen met betrekking tot de in de artikelen 111b en 112 geregelde onderwerpen overeenkomstige regels worden gesteld.  
 
 ### Artikel  114  
 
-1.  Indien toepassing wordt gegeven aan hoofdstuk VII of VIII, kunnen bij algemene maatregel van bestuur voor aanwezige of in aanbouw zijnde woningen en andere geluidsgevoelige gebouwen met betrekking tot de in de artikelen 111 en 112 geregelde onderwerpen overeenkomstige regels worden gesteld.   
+1.  Indien toepassing wordt gegeven aan hoofdstuk VII of VIII, kunnen bij algemene maatregel van bestuur voor aanwezige of in aanbouw zijnde woningen en andere geluidsgevoelige gebouwen met betrekking tot de in de artikelen 111b en 112 geregelde onderwerpen overeenkomstige regels worden gesteld.   
 2.  In afwijking van het eerste lid hebben, ingeval toepassing wordt gegeven aan hoofdstuk VIII met betrekking tot geluidhinder vanwege luchtvaartterreinen, de regels van een in het eerste lid bedoelde maatregel betrekking op de waarde van de geluidwering die de gevels van aanwezige of in aanbouw zijnde woningen en andere geluidsgevoelige bestemmingen ten minste moeten bieden.   
 
 ### Artikel  114a  
@@ -1183,119 +793,17 @@ c. de wijze waarop burgemeester en wethouders aan de rechthebbende mededeling do
 
 ####Algemeen
 
-### Artikel  115  
-
-In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder: geluidsbelasting L <sub>den</sub>: geluidsbelasting op een plaats en vanwege een bron als omschreven in bijlage I, onderdeel 1, van richtlijn 2002/49/EG van het Europees Parlement en de Raad van de Europese Unie van 25 juni 2002 inzake de evaluatie en de beheersing van omgevingslawaai (PbEG L 189) over alle perioden van 07.00 uur tot 19.00 uur, van 19.00 uur tot 23.00 uur en van 23.00 tot 7.00 uur van een jaar; verzameling van inrichtingen: 
-
-a. inrichtingen op een industrieterrein;  
-
-b. bij algemene maatregel van bestuur aangewezen inrichtingen, die zijn gelegen binnen een daarbij aangegeven gebied; stille gebieden: bij algemene maatregel van bestuur of overeenkomstig de maatregel als zodanig aangewezen categorieën van gebieden.    
-
-### Artikel  116  
-
-1.  Onze Minister van Verkeer en Waterstaat en gedeputeerde staten melden vóór 1 april 2005 aan Onze Minister op welke delen van rijkswegen, onderscheidenlijk provinciale wegen naar verwachting in het kalenderjaar 2006 meer dan zes miljoen maal een motorvoertuig zal passeren.   
-2.  Onze Minister van Verkeer en Waterstaat meldt voor de in het eerste lid genoemde datum tevens aan Onze Minister op welke delen van hoofdspoorwegen naar verwachting in 2006 meer dan 60 000 maal een trein zal passeren.   
-3.  Onze Minister van Verkeer en Waterstaat en gedeputeerde staten melden vóór 30 september 2008, vóór 1 april 2010 en vervolgens elke vijf jaar vóór 1 april aan Onze Minister op welke delen van rijkswegen, onderscheidenlijk provinciale wegen naar verwachting in het daaropvolgende kalenderjaar meer dan drie miljoen maal een motorvoertuig zal passeren.   
-4.  Onze Minister van Verkeer en Waterstaat meldt voor de in het derde lid genoemde data tevens aan Onze Minister op welke delen van hoofdspoorwegen naar verwachting meer dan 30 000 maal een trein zal passeren.   
-
-### Artikel  117  
-
-1.  Onze Minister publiceert vóór 30 juni 2005 in de Staatscourant op welke delen van rijkswegen en provinciale wegen naar verwachting in 2006 meer dan zes miljoen maal een motorvoertuig zal passeren.   
-2.  Het eerste lid is van overeenkomstige toepassing op delen van hoofdspoorwegen waarop naar verwachting in 2006 meer dan 60 000 maal een trein zal passeren.   
-3.  Onze Minister publiceert vóór 31 december 2008, voor 30 juni 2010 en vervolgens elke vijf jaar voor 30 juni in de Staatscourant op welke delen van rijkswegen en provinciale wegen naar verwachting in het daaropvolgende kalenderjaar meer dan drie miljoen maal een motorvoertuig zal passeren.   
-4.  Het derde lid is van overeenkomstige toepassing op delen van hoofdspoorwegen waarop naar verwachting in het daaropvolgende kalenderjaar meer dan 30 000 maal een trein zal passeren.   
-
-### Artikel  117a  
-
-1.  Onze Minister wijst vóór 30 juni 2005 als agglomeratie aan verstedelijkte gebieden met ten minste 250 000 inwoners.   
-2.  Onze Minister wijst vóór 31 december 2008, voor 30 juni 2010 en vervolgens elke vijf jaar voor 30 juni als agglomeratie aan verstedelijkte gebieden met ten minste 100 000 inwoners.   
-
 ### §  2  
 
 ####Geluidsbelastingkaarten
-
-### Artikel  118  
-
-1.  Onze Minister van Verkeer en Waterstaat, onderscheidenlijk gedeputeerde staten, stellen vóór 30 juni 2007 en vervolgens vóór 30 juni van ten minste elk vijfde kalenderjaar, geluidsbelastingkaarten vast. Deze kaarten hebben betrekking op: 
-
-a. de geluidsbelasting L <sub>den</sub> en de geluidsbelasting L <sub>night</sub> op woningen, andere geluidsgevoelige gebouwen en geluidsgevoelige terreinen vanwege delen van rijkswegen en hoofdspoorwegen, onderscheidenlijk provinciale wegen als bedoeld in artikel 117;  
-
-b. stille gebieden in de omgeving van delen van rijkswegen en hoofdspoorwegen, onderscheidenlijk provinciale wegen als bedoeld in artikel 117.     
-2.  Het eerste lid is van overeenkomstige toepassing op burgemeester en wethouders van gemeenten die behoren tot krachtens artikel 117a aangewezen agglomeraties met dien verstande dat de geluidsbelastingkaarten betrekking hebben op de geluidsbelasting L <sub>den</sub> en de geluidsbelasting L <sub>night</sub> vanwege: 
-
-a. wegen,  
-
-b. spoorwegen die niet deel uitmaken van een weg,  
-
-c. luchthavens als bedoeld in de [Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), en  
-
-d. inrichtingen of verzamelingen van inrichtingen.     
-3.  De geluidsbelastingkaarten geven ten minste een weergave van: 
-
-a. de geluidsbelasting L <sub>den</sub> en de geluidsbelasting L <sub>night</sub> veroorzaakt door de in het eerste, onderscheidenlijk tweede lid, bedoelde geluidsbronnen in het kalenderjaar voorafgaand aan dat van de vaststelling van de geluidsbelastingkaart en  
-
-b. het aantal woningen, andere geluidsgevoelige gebouwen, geluidsgevoelige terreinen en bewoners van woningen die aan bepaalde waarden van de geluidsbelasting L <sub>den</sub> en de geluidsbelasting L <sub>night</sub> worden blootgesteld.     
-4.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de inhoud, vormgeving en inrichting van geluidsbelastingkaarten, welke regels kunnen verschillen voor rijkswegen, provinciale wegen, hoofdspoorwegen en agglomeraties.   
-
-### Artikel  118a  
-
-1.  Ten behoeve van de vaststelling van een geluidsbelastingkaart als bedoeld in artikel 118, eerste lid, verschaffen burgemeester en wethouders aan Onze Minister van Verkeer en Waterstaat en gedeputeerde staten op hun verzoek, alle inlichtingen en gegevens waarover zij kunnen beschikken, voor zover die voor het opstellen van die kaart noodzakelijk zijn.   
-2.  Ten behoeve van de vaststelling van een geluidsbelastingkaart als bedoeld in artikel 118, tweede lid, verschaffen Onze Minister, Onze Minister van Verkeer en Waterstaat, gedeputeerde staten en burgemeester en wethouders aan betrokken burgemeester en wethouders op hun verzoek, alle inlichtingen en gegevens waarover zij kunnen beschikken, voor zover die voor het opstellen van die kaart noodzakelijk zijn. Op een dergelijk verzoek verschaft Onze Minister van Defensie de contourenkaarten, bedoeld in [artikel 10.23 van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md).   
-3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld inzake de te verschaffen inlichtingen en gegevens, waaronder de wijze waarop en de termijn waarbinnen of de datum waarvoor deze verschaft worden.   
-
-### Artikel  119  
-
-1.  Ten behoeve van de bepaling van de geluidsbelasting L <sub>den</sub> en de geluidsbelasting L <sub>night</sub> vanwege een weg, spoorweg, inrichting of verzameling van inrichtingen kunnen bij regeling van Onze Minister regels worden gesteld.   
-2.  Ten behoeve van de bepaling van de geluidsbelasting L <sub>den</sub> en de geluidsbelasting L <sub>night</sub> vanwege een luchthaven kunnen bij regeling van Onze Minister in overeenstemming met Onze Minister van Verkeer en Waterstaat en Onze Minister van Defensie regels worden gesteld.   
-
-### Artikel  120  
-
-1.  Binnen één maand na de vaststelling van een geluidsbelastingkaart als bedoeld in artikel 118, eerste en tweede lid, geven Onze Minister van Verkeer en Waterstaat, gedeputeerde staten, onderscheidenlijk burgemeester en wethouders van deze vaststelling kennis in één of meer dag- , nieuws-, of huis-aan-huisbladen, dan wel op andere geschikte wijze. Hierbij geven zij aan op welke wijze kennis kan worden gekregen van de inhoud van de geluidsbelastingkaart.   
-2.  De in het eerste lid bedoelde bestuursorganen: 
-
-a. stellen de geluidsbelastingkaart zo mogelijk elektronisch ter beschikking van eenieder;  
-
-b. voegen bij de geluidsbelastingkaart een overzicht van de belangrijkste punten van die kaart.     
-3.  Onze Minister van Verkeer en Waterstaat, gedeputeerde staten, onderscheidenlijk burgemeester en wethouders zenden de geluidsbelastingkaart binnen één maand na vaststelling aan Onze Minister.   
-4.  Bij regeling van Onze Minister kunnen regels worden gesteld over de wijze waarop de geluidsbelastingkaart ter beschikking van Onze Minister wordt gesteld.   
-
-### Artikel  121  
-
-1.  Indien gedeputeerde staten niet of niet tijdig voldoen aan een verplichting als bedoeld in artikel 118, eerste lid, is [artikel 121 van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md) van overeenkomstige toepassing.   
-2.  Indien burgemeester en wethouders niet of niet tijdig voldoen aan een verplichting als bedoeld in artikel 118, tweede lid, is [artikel 124 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) van overeenkomstige toepassing met dien verstande dat Onze Minister in de plaats treedt van gedeputeerde staten.   
 
 ### §  3  
 
 ####Actieplannen
 
-### Artikel  122  
-
-1.  Onze Minister van Verkeer en Waterstaat, onderscheidenlijk gedeputeerde staten stellen vóór 18 juli 2008 aan de hand van de geluidsbelastingkaarten, bedoeld in artikel 118, een actieplan vast met betrekking tot de krachtens artikel 117 gepubliceerde delen van rijkswegen en hoofdspoorwegen, onderscheidenlijk provinciale wegen. Indien er sprake is van een belangrijke ontwikkeling die van invloed is op de geluidhindersituatie, en daarnaast ten minste elke vijf jaar na de vaststelling wordt het actieplan opnieuw overwogen, en zo nodig aangepast.   
-2.  Het eerste lid is van overeenkomstige toepassing op burgemeester en wethouders van gemeenten die behoren tot krachtens artikel 117a aangewezen agglomeraties, met dien verstande dat het actieplan betrekking heeft op de in artikel 118, tweede lid, bedoelde geluidsbronnen.   
-3.  Een actieplan bevat ten minste een beschrijving van: 
-
-a. het te voeren beleid om de geluidsbelasting L <sub>den</sub> en de geluidsbelasting L <sub>night</sub> te beperken, en  
-
-b. de voorgenomen in de eerstvolgende vijf jaar te treffen maatregelen om overschrijding van overeenkomstig algemene maatregel van bestuur vast te stellen waarden van de geluidsbelasting L <sub>den</sub> of de geluidsbelasting L <sub>night</sub> te voorkomen of ongedaan te maken en de te verwachten effecten van die maatregelen.     
-4.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de inhoud, vormgeving en inrichting van actieplannen. Deze regels kunnen verschillen voor rijkswegen, provinciale wegen, hoofdspoorwegen en agglomeraties.   
-
-### Artikel  123  
-
-1.  Een actieplan wordt voorbereid met overeenkomstige toepassing van de in [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) geregelde procedure, met dien verstande dat in afwijking van [artikel 3:15 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), eenieder zienswijzen naar voren kan brengen.   
-2.  Burgemeester en wethouders stellen een actieplan niet vast dan nadat de gemeenteraad een ontwerp van het actieplan is toegezonden en deze in de gelegenheid is gesteld zijn wensen en zienswijze ter kennis van burgemeester en wethouders te brengen.   
-
-### Artikel  123a  
-
-Artikel 120 is van overeenkomstige toepassing op de vaststelling van actieplannen.  
-
 ### §  4  
 
 ####Inlichtingen in verband met het opstellen van geluidsbelastingkaarten door een andere lidstaat van de Europese Unie
-
-### Artikel  123b  
-
-1.  Onze Minister van Verkeer en Waterstaat, gedeputeerde staten en burgemeester en wethouders verschaffen op verzoek van een bevoegde autoriteit van een van de lidstaten van de Europese Unie alle inlichtingen en gegevens waarover zij kunnen beschikken, voor zover die voor het opstellen van een geluidsbelastingkaart in de desbetreffende lidstaat noodzakelijk zijn. Op een dergelijk verzoek verschaft Onze Minister van Defensie de contourenkaarten, bedoeld in [artikel 10.23 van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md).   
-2.  Artikel 118a, derde lid, is van overeenkomstige toepassing.   
 
 ### Hoofdstuk  X  
 
@@ -1348,12 +856,6 @@ In afwijking van de artikelen 125 of 126 kan Onze Minister volgens bij ministeri
 
 In geval van reconstructie van een weg komen de kosten van de maatregelen, vastgesteld krachtens Afdeling 4 van hoofdstuk VI, voor zover deze kosten verband houden met de reconstructie, ten laste van de wegaanlegger.  
 
-### Artikel  127a  
-
-1.  In geval van de aanleg, wijziging of verbreding van een hoofdweg als bedoeld in afdeling 2a van hoofdstuk VI, komen de kosten van maatregelen gericht op het terugbrengen van de verwachte geluidsbelasting van de gevel van woningen of andere geluidsgevoelige gebouwen, onderscheidenlijk aan de grens van geluidsgevoelige terreinen, vastgesteld krachtens de [Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md), voor zover deze kosten verband houden met de aanleg of wijziging, ten laste van de wegaanlegger.   
-2.  In geval van de aanleg of wijziging van een landelijke spoorweg als bedoeld in afdeling 2 van hoofdstuk VII, komen kosten van maatregelen gericht op het terugbrengen van de verwachte geluidsbelasting van de gevel van woningen of andere geluidsgevoelige gebouwen, onderscheidenlijk aan de grens van geluidsgevoelige terreinen, vastgesteld krachtens de [Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md), voor zover deze kosten verband houden met de aanleg of wijziging, ten laste van de spoorwegaanlegger.   
-3.  Artikel 126, derde lid, is van overeenkomstige toepassing.   
-
 ### Artikel  128  
 
 1.  Indien een wegaanlegger, onderscheidenlijk wegbeheerder, of een gemeente zich ten gevolge van de toepassing van artikel 126 of 127 voor kosten ziet gesteld, die redelijkerwijs niet of niet geheel te zijnen laste behoren te blijven, kan Onze Minister hem, voor zover op andere wijze in een redelijke vergoeding niet is of kan worden voorzien, op diens verzoek een naar billijkheid te bepalen vergoeding toekennen.   
@@ -1396,7 +898,7 @@ Beroep op de administratieve rechter staat open overeenkomstig [hoofdstuk 20 van
 
 ### Artikel  148  
 
-1.  Met betrekking tot de handhaving van het bij of krachtens deze wet bepaalde zijn de [artikelen 5.3 tot en met 5.16](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [5.18 tot en met 5.25 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing, met dien verstande dat met het toezicht op de naleving van het bij of krachtens deze wet bepaalde ten aanzien van inrichtingen als bedoeld in artikel 170, eerste lid, uitsluitend belast zijn de daartoe bij besluit van Onze Minister aangewezen ambtenaren.   
+1.  Met betrekking tot de handhaving van het bij of krachtens deze wet bepaalde zijn de [artikelen 5.3 tot en met 5.16](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [5.18 tot en met 5.23 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing, met dien verstande dat met het toezicht op de naleving van het bij of krachtens deze wet bepaalde ten aanzien van inrichtingen als bedoeld in artikel 170, eerste lid, uitsluitend belast zijn de daartoe bij besluit van Onze Minister aangewezen ambtenaren.   
 2.  Het in [artikel 5.2, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) bedoelde bestuursorgaan heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de op grond van het bepaalde bij of krachtens deze wet voor degene die het project, bedoeld in dat lid, uitvoert, geldende voorschriften.   
 
 ### §  2  
@@ -1455,7 +957,7 @@ Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering 
 
 ### Artikel  176  
 
-Alle - anders dan met toepassing van de [Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de [Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) of de [Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) - krachtens de onderhavige wet ter inzage te leggen, te publiceren of aan belanghebbenden toe te zenden stukken, die in een vreemde taal zijn gesteld en waarbij niet een vertaling in de Nederlandse taal wordt gevoegd, of die wegens hun omvang, hun inhoud dan wel om andere redenen niet geacht kunnen worden voor de beoordeling ervan voldoende inzicht te geven aan een algemeen publiek, gaan vergezeld van een in de Nederlandse taal gestelde samenvatting. Onze Minister kan nadere regels geven over de wijze waarop deze samenvatting dient te worden opgesteld.  
+Alle – anders dan met toepassing van de [Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de [Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) of de [Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) – krachtens de onderhavige wet ter inzage te leggen, te publiceren of aan belanghebbenden toe te zenden stukken, die in een vreemde taal zijn gesteld en waarbij niet een vertaling in de Nederlandse taal wordt gevoegd, of die wegens hun omvang, hun inhoud dan wel om andere redenen niet geacht kunnen worden voor de beoordeling ervan voldoende inzicht te geven aan een algemeen publiek, gaan vergezeld van een in de Nederlandse taal gestelde samenvatting. Onze Minister kan nadere regels geven over de wijze waarop deze samenvatting dient te worden opgesteld.  
 
 ### Hoofdstuk  XVI  
 

@@ -67,7 +67,7 @@ De naamloze vennootschap met statutaire zetel in Nederland die overeenkomstig ar
 
 ### Artikel  11  
 
-1.  De benoeming van de leden van het leidinggevend orgaan geschiedt door het toezichthoudend orgaan, tenzij in de statuten is bepaald dat benoeming geschiedt door de algemene vergadering van aandeelhouders.   
+1.  De benoeming van de leden van het leidinggevend orgaan geschiedt door het toezichthoudend orgaan, tenzij in de statuten is bepaald dat benoeming geschiedt door de algemene vergadering.   
 2.  Voor de toepassing van artikel 39, tweede lid, van de Verordening zijn de [artikelen 133](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [134 van boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) van overeenkomstige toepassing op de Europese naamloze vennootschap met statutaire zetel in Nederland.   
 
 ### Artikel  12  
@@ -84,7 +84,7 @@ Voor de toepassing van artikel 47, eerste lid, van de Verordening geldt dat de l
 
 ### Artikel  15  
 
-Voor de toepassing van artikel 54 van de Verordening geldt dat de eerste algemene vergadering van aandeelhouders binnen achttien maanden na de oprichting mag plaatsvinden.  
+Voor de toepassing van artikel 54 van de Verordening geldt dat de eerste algemene vergadering binnen achttien maanden na de oprichting mag plaatsvinden.  
 
 ### Artikel  16  
 

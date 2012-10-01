@@ -207,12 +207,6 @@ c. het bevoegd gezag bij de voorbereiding van zijn advies de bestuursorganen bet
 
 d. naar voren gebrachte zienswijzen omtrent het ontwerpbesluit, bedoeld in artikel 9, zo spoedig mogelijk doch in elk geval daags na afloop van de terinzagelegging van het ontwerpbesluit aan Onze Minister en Onze Minister van Landbouw, Natuur en Voedselkwaliteit worden gestuurd.     
 
-### Artikel  13  
-
-1.  Een besluit als bedoeld in artikel 9 behoeft de goedkeuring van Onze Minister en Onze Minister van Landbouw, Natuur en Voedselkwaliteit.   
-2.  Indien naar voren gebrachte zienswijzen daartoe aanleiding geven, kan goedkeuring als bedoeld in het eerste lid worden onthouden wegens strijd met het belang van zuinig en doelmatig ruimtegebruik en met het belang van het bereiken van optimale leefomgevingskwaliteit.   
-3.  Op een besluit van provinciale staten tot wijziging of intrekking van een besluit als bedoeld in artikel 9 zijn het eerste en tweede lid van overeenkomstige toepassing.   
-
 ### Artikel  14  
 
 1.  Op een besluit van de gemeenteraad tot wijziging van een besluit als bedoeld in de artikelen 2 en 3 zijn de artikelen 5 tot en met 8, 11, 12, eerste en tweede lid, onderdelen a, c en d, 16 en 18 van overeenkomstige toepassing.   
@@ -239,12 +233,6 @@ b. het toepassen van [artikel 2.31, eerste lid, onder b, en tweede lid, onder b,
 ### §  5a  
 
 ####Toezicht op de uitvoering en de handhaving
-
-### Artikel  16a  
-
-1.  Met het toezicht op de uitvoering en de handhaving van het bij of krachtens deze wet bepaalde zijn belast de bij besluit van Onze Minister aangewezen ambtenaren.   
-2.  De [artikelen 5:13](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:16](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:17](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
-3.  Onze Minister kan bij ministeriële regeling bepalen dat bestuursorganen die met de uitvoering of de handhaving van het bij of krachtens deze wet bepaalde zijn belast, daarbij aan te geven gegevens verstrekken aan de krachtens het eerste lid aangewezen ambtenaren. Bij de regeling kunnen regels worden gesteld met betrekking tot het tijdstip waarop, de frequentie waarmee en de vorm waarin de gegevens worden verstrekt. Tevens kan bij de regeling worden bepaald dat daarbij gestelde regels slechts gelden in daarbij aangegeven gevallen.   
 
 ### §  6  
 

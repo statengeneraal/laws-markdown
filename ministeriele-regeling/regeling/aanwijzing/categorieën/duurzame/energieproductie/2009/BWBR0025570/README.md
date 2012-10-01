@@ -141,7 +141,7 @@ b. artikel 7a, tweede lid: € 546.000.000,–.
 ### Artikel  7c  
 
 1.  Subsidie als bedoeld in artikel 7a, eerste en tweede lid, wordt voor een periode van 15 jaar verstrekt.   
-2.  De subsidie-ontvanger neemt de productie-installatie als bedoeld in artikel 7a, eerste en tweede lid, binnen 5 jaar na de datum van de beschikking tot subsidieverlening in gebruik.   
+2.  De subsidie-ontvanger neemt de productie-installatie als bedoeld in artikel 7a, eerste en tweede lid, binnen 6 jaar na de datum van de beschikking tot subsidieverlening in gebruik.   
 
 ### Artikel  7d  
 
@@ -637,16 +637,16 @@ Ligt ter inzage bij SenterNovem te Zwolle.
 
 ####behorende bij artikel 7a, vijfde lid , van de Regeling aanwijzing categorieën duurzame energieproductie 2009
 
+![246157](http://wetten.overheid.nl/Illustration/246157)
+![246158](http://wetten.overheid.nl/Illustration/246158)
+![246159](http://wetten.overheid.nl/Illustration/246159)
+![246160](http://wetten.overheid.nl/Illustration/246160)
+![246161](http://wetten.overheid.nl/Illustration/246161)
+![246162](http://wetten.overheid.nl/Illustration/246162)
+![246163](http://wetten.overheid.nl/Illustration/246163)
 ![246164](http://wetten.overheid.nl/Illustration/246164)
-![246164](http://wetten.overheid.nl/Illustration/246164)
-![246164](http://wetten.overheid.nl/Illustration/246164)
-![246164](http://wetten.overheid.nl/Illustration/246164)
-![246164](http://wetten.overheid.nl/Illustration/246164)
-![246164](http://wetten.overheid.nl/Illustration/246164)
-![246164](http://wetten.overheid.nl/Illustration/246164)
-![246164](http://wetten.overheid.nl/Illustration/246164)
-![246164](http://wetten.overheid.nl/Illustration/246164)
-![246164](http://wetten.overheid.nl/Illustration/246164)
-![246164](http://wetten.overheid.nl/Illustration/246164)
-![246164](http://wetten.overheid.nl/Illustration/246164)
+![246165](http://wetten.overheid.nl/Illustration/246165)
+![246166](http://wetten.overheid.nl/Illustration/246166)
+![246167](http://wetten.overheid.nl/Illustration/246167)
+![246168](http://wetten.overheid.nl/Illustration/246168)
 

@@ -27,10 +27,13 @@ Commuun
 Het niet voldoen aan een bevel of vordering gegeven op grond van de openbare orde is in principe de meest lichte vorm van dit delict. Door omstandigheden zoals de gevaarzetting van de situatie (relletjes, ongeregeldheden e.d.) of de mogelijke gevolgen van de weigering (bij brand, ongeval, e.d.) dient een zwaardere sanctie toegepast te worden. 
 ### *Toepasselijk kader* 
 
-Commuun en verkeer 
+Aanwijzing Kader voor strafvordering 
 ### *Basispunten* 
 
 5 punten 
+###Strafbeschikking
+
+Indien van toepassing: afhankelijk van beleid van het parket 
 ### *Basisfactoren* 
 
 Bij oploop, rellen, ongeregeldheden, e.d.  
@@ -56,12 +59,19 @@ Medeplegen
 | – Er is geen sprake van medeplegen  | +0 %  |
 | – Er is sprake van medeplegen  | +25 %  |
 
-In samenhang met een sportevenement  
+In samenhang met een evenement 
 
 | --- | --- |
 |:---|:---|
-| – Geen sprake van samenhang met een sportevenement  | +0 %  |
-| – Er is sprake van samenhang met een sportevenement  | +25 %  |
+| – Geen sprake van samenhang met een evenement  | +0 %  |
+| – Er is sprake van samenhang met een evenement  | +75%  |
+
+Voetbal gerelateerde normschending 
+
+| --- | --- |
+|:---|:---|
+| - Er is geen sprake van een voetbal gerelateerde normschending  | +0 %  |
+| - Er is sprake van een voetbal gerelateerde normschending  | +50 %  |
 
 ### *Wettelijke factoren* 
 
@@ -74,21 +84,32 @@ Medeplichtigheid
 
 ### *Recidiveregeling* 
 
-Mate van recidive (5 jaar)  
+Mate van recidive (5 jaar) 
 
-| --- | --- |
-|:---|:---|
-| – Geen recidive  | +0 %  |
-| – 1 maal  | +10 %  |
-| – Meermalen  | +20 %  |
-| --- | +dagvaarden  |
+| --- | --- | --- |
+|:---|:---|:---|
+| – Geen recidive  | +0 %  | --- |
+| – 1 maal binnen 2 jaar  | +50 %  |  *(NH)*   |
+| – 1 maal binnen 2-5 jaar  | +50 %  | --- |
+| – Meermalen  | +100 %  |  *(DV, NH)*   |
 
+*(NH) + naast hogere sanctie*   *(DV) + dagvaarden*  
 ### *Draagkracht* 
 
 Geen 
+###Maatwerk
+
+*Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr.*   Taakstrafverbod als bedoeld in art 22b lid 2 WvSr 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | +0 %  | --- |
+| - Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | +0 %  |  *(CKT)*   |
+
+*(CKT) + contra-indicatie kale taakstraf*  
 ### *Speciale regelingen* 
 
-– Schaderegeling 
+Geen 
 ### *Bijzonderheden* 
 
 Geen     
@@ -102,10 +123,13 @@ Geen
 Het niet voldoen aan een bevel of vordering gegeven in het kader van de opsporing of het onderzoek van strafbare feiten belemmert de opsporende instantie in haar taak. Dit gevolg van het niet voldoen aan het bevel of de vordering wordt als ernstiger beoordeeld dan het niet voldoen aan een bevel of vordering, gegeven op grond van de openbare orde. 
 ### *Toepasselijk kader* 
 
-Commuun en verkeer 
+Aanwijzing Kader voor strafvordering 
 ### *Basispunten* 
 
 7 punten 
+###Strafbeschikking
+
+Indien van toepassing: afhankelijk van beleid van het parket 
 ### *Basisfactoren* 
 
 Bij oploop, rellen, ongeregeldheden, e.d.  
@@ -131,12 +155,19 @@ Medeplegen
 | – Er is geen sprake van medeplegen  | +0 %  |
 | – Er is sprake van medeplegen  | +25 %  |
 
-In samenhang met een sportevenement  
+In samenhang met een evenement 
 
 | --- | --- |
 |:---|:---|
-| – Geen sprake van samenhang met een sportevenement  | +0 %  |
-| – Er is sprake van samenhang met een sportevenement  | +25 %  |
+| – Geen sprake van samenhang met een evenement  | +0 %  |
+| – Er is sprake van samenhang met een evenement  | +75%  |
+
+Voetbal gerelateerde normschending 
+
+| --- | --- |
+|:---|:---|
+| - Er is geen sprake van een voetbal gerelateerde normschending  | +0 %  |
+| - Er is sprake van een voetbal gerelateerde normschending  | +50 %  |
 
 ### *Wettelijke factoren* 
 
@@ -149,21 +180,32 @@ Medeplichtigheid
 
 ### *Recidiveregeling* 
 
-Mate van recidive (5 jaar)  
+Mate van recidive (5 jaar) 
 
-| --- | --- |
-|:---|:---|
-| – Geen recidive  | +0 %  |
-| – 1 maal  | +10 %  |
-| – Meermalen  | +20 %  |
-| --- | +dagvaarden  |
+| --- | --- | --- |
+|:---|:---|:---|
+| – Geen recidive  | +0 %  | --- |
+| – 1 maal binnen 2 jaar  | +50 %  |  *(NH)*   |
+| – 1 maal binnen 2-5 jaar  | +50 %  | --- |
+| – Meermalen  | +100 %  |  *(DV, NH)*   |
 
+*(NH) + naast hogere sanctie*   *(DV) + dagvaarden*  
 ### *Draagkracht* 
 
 Geen 
+###Maatwerk
+
+*Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr.*   Taakstrafverbod als bedoeld in art 22b lid 2 WvSr 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | +0 %  | --- |
+| - Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | +0 %  |  *(CKT)*   |
+
+*(CKT) + contra-indicatie kale taakstraf*  
 ### *Speciale regelingen* 
 
-– Schaderegeling 
+Geen 
 ### *Bijzonderheden* 
 
 Geen     
@@ -177,10 +219,13 @@ Geen
 Van de bevelen of vorderingen, gegeven in het kader van het opsporen of onderzoeken van strafbare feiten is er één die relatief vaak voorkomt en betrekking heeft op de Wegenverkeerswetgeving: dit is het geven van een stopteken. In verband met het frequent voorkomen en het specifieke gebruik (namelijk in het kader van de [Wegenverkeerswet](../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)) wordt deze vorm van bevel of vordering ondergebracht in een afzonderlijk basisdelict. Het negeren van een stopteken is vrijwel altijd een poging tot het beletten van de opsporing van een strafbaar feit. Indien bovendien geen staandehouding heeft kunnen volgen wordt de opsporing of het onderzoek ernstig gehinderd. 
 ### *Toepasselijk kader* 
 
-Commuun en verkeer 
+Aanwijzing Kader voor strafvordering 
 ### *Basispunten* 
 
 9 punten 
+###Strafbeschikking
+
+Indien van toepassing: afhankelijk van beleid van het parket 
 ### *Basisfactoren* 
 
 Staandehouding  
@@ -205,21 +250,32 @@ Geen
 Geen 
 ### *Recidiveregeling* 
 
-Mate van recidive (5 jaar)  
+Mate van recidive (5 jaar) 
 
-| --- | --- |
-|:---|:---|
-| – Geen recidive  | +0 %  |
-| – 1 maal  | +10 %  |
-| – Meermalen  | +20 %  |
-| --- | +dagvaarden  |
+| --- | --- | --- |
+|:---|:---|:---|
+| – Geen recidive  | +0 %  | --- |
+| – 1 maal binnen 2 jaar  | +50 %  |  *(NH)*   |
+| – 1 maal binnen 2-5 jaar  | +50 %  | --- |
+| – Meermalen  | +100 %  |  *(DV, NH)*   |
 
+*(NH) + naast hogere sanctie*   *(DV) + dagvaarden*  
 ### *Draagkracht* 
 
 Geen 
+###Maatwerk
+
+*Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr.*   Taakstrafverbod als bedoeld in art 22b lid 2 WvSr 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | +0 %  | --- |
+| - Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | +0 %  |  *(CKT)*   |
+
+*(CKT) + contra-indicatie kale taakstraf*  
 ### *Speciale regelingen* 
 
-– Schaderegeling 
+Geen 
 ### *Bijzonderheden* 
 
 Geen      

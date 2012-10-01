@@ -260,16 +260,7 @@ g. voor zover de ouder in dat jaar een persoon is als bedoeld in artikel 1.6, ee
 
 ### Artikel  1.23  
 
-1.  Het college van burgemeester en wethouders stelt op aanvraag van de ouder vast of hij of zijn partner dan wel het kind van de ouder een geïndiceerde persoon is als bedoeld in artikel 6, eerste lid, onderdeel k of l, en in welke mate uit dien hoofde, voor zover andere voorzieningen geen passender oplossing kunnen bieden, kinderopvang in de zin van deze wet noodzakelijk is.   
-2.  Een aanvraag als bedoeld in het eerste lid wordt ingediend bij het college van burgemeester en wethouders van de gemeente waar de ouder zijn woonplaats heeft als bedoeld in de [artikelen 10, eerste lid](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), en [11 van Boek 1 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md).   
-3.  Alvorens te besluiten, wint het college van burgemeester en wethouders ten behoeve van de vaststelling van de noodzakelijkheid van kinderopvang als bedoeld in het eerste lid advies in van een onafhankelijke organisatie die beschikt over adequate deskundigheid.   
-4.  Het besluit van het college van burgemeester en wethouders vermeldt de geldigheidsduur van de indicatie.   
-5.  Het college van burgemeester en wethouders kan periodiek herindicatie verrichten van personen als bedoeld in het eerste lid. De herindicatie vindt plaats overeenkomstig het derde lid.   
-6.  Bij of krachtens algemene maatregel van bestuur kunnen: 
-
-a. nadere regels worden gesteld met betrekking tot de krachtens dit artikel aan de gemeente opgedragen taken en de wijze van uitoefening daarvan;  
-
-b. organisaties als bedoeld in het derde lid worden aangewezen, waarbij tevens regels kunnen worden gesteld omtrent de door die organisaties te hanteren werkwijze.     
+Door vernummering vervallen.   
 
 ### Artikel  1.24  
 
@@ -363,7 +354,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 ### Artikel  1.35  
 
 1.  Het college van burgemeester en wethouders kan besluiten dat een ouder, die een persoon is als bedoeld in artikel 1.6, eerste lid, onder c, e of f, voor wie het college van burgemeester en wethouders op grond van [artikel 7, eerste lid, aanhef en onder a, of derde lid, tweede volzin, van de Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [artikel 34, eerste lid, onder a, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), [artikel 34, eerste lid, onder a, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) of [artikel 30a, derde lid, onderdeel a, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), verantwoordelijk is voor het ondersteunen bij arbeidsinschakeling, na beëindiging van de aanspraak op grond van artikel 1.22, in aansluiting daarop aanspraak heeft op een tegemoetkoming jegens de gemeente. Artikel 1.24 is van toepassing.   
-2.  Het Uitvoeringsinstituut werknemersverzekeringen kan besluiten dat een ouder, die een persoon is als bedoeld in artikel 1.6, eerste lid, onder h of i, tenzij het college van burgemeester en wethouders op grond van [artikel 30a, derde lid, onder a, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) of op grond van [artikel 7, derde lid, tweede volzin, van de Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) verantwoordelijk is voor het ondersteunen bij arbeidsinschakeling, na beëindiging van de aanspraak op grond van artikel 1.29, in aansluiting daarop aanspraak heeft op een tegemoetkoming jegens het Uitvoeringsinstituut werknemersverzekeringen. artikel 1.30 is van toepassing.   
+2.  Het Uitvoeringsinstituut werknemersverzekeringen kan besluiten dat een ouder, die een persoon is als bedoeld in artikel 1.6, eerste lid, onder h of i, tenzij het college van burgemeester en wethouders op grond van [artikel 30a, derde lid, onder a, van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) of op grond van [artikel 7, derde lid, tweede volzin, van de Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) verantwoordelijk is voor het ondersteunen bij arbeidsinschakeling, na beëindiging van de aanspraak op grond van artikel 1.29, in aansluiting daarop aanspraak heeft op een tegemoetkoming jegens het Uitvoeringsinstituut werknemersverzekeringen. Artikel 1.30 is van toepassing.   
 3.  Een besluit als bedoeld in het eerste of tweede lid wordt slechts genomen met betrekking tot een ouder of diens partner, die naar het oordeel van het college van burgemeesters en wethouders onderscheidenlijk het Uitvoeringsinstituut werknemersverzekeringen of een met het college van burgemeester en wethouders onderscheidenlijk Uitvoeringsinstituut werknemersverzekeringen vergelijkbaar bestuursorgaan in een andere lidstaat of Zwitserland, naar vermogen tracht arbeid in dienstbetrekking te verkrijgen. In een zodanig geval heeft de ouder eveneens aanspraak op een kinderopvangtoeslag, voor zover hij niet reeds een aanspraak heeft op grond van artikel 1.6.   
 4.  Bij regeling van Onze Minister worden regels gesteld omtrent de maximale duur van aanspraken, verleend op grond van het eerste of tweede lid.   
 
@@ -510,9 +501,10 @@ f. het pedagogisch beleid en de pedagogische praktijk;
 g. de accommodatie en de inrichting van de ruimte die bestemd is voor kinderopvang;  
 
 h. de beschikbare ruimte voor kinderen.     
-3.  De houder van een kindercentrum en de personen werkzaam bij een kindercentrum zijn in het bezit van een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md).   
+3.  De houder van een kindercentrum en de personen werkzaam bij een onderneming waarmee de houder een kindercentrum exploiteert, zijn in het bezit van een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md).   
 4.  De verklaring, bedoeld in het derde lid, wordt aan de houder van het kindercentrum overgelegd, voordat een persoon als bedoeld in het derde lid zijn werkzaamheden aanvangt. De verklaring is op het moment dat zij wordt overgelegd, niet ouder dan twee maanden.   
 5.  Indien de houder van het kindercentrum of de toezichthouder redelijkerwijs mag vermoeden dat een persoon als bedoeld in het derde lid niet langer voldoet aan de eisen voor het afgeven van een verklaring omtrent het gedrag, verlangt deze houder al dan niet op verzoek van de toezichthouder dat die persoon opnieuw een verklaring omtrent het gedrag overlegt die niet ouder is dan twee maanden. De desbetreffende persoon legt de verklaring over binnen een door deze houder of de toezichthouder vast te stellen termijn.   
+6.  De verplichting van het vierde lid geldt voor personen die als stagiair of uitzendkracht werkzaam zijn de eerste maal voordat deze personen de werkzaamheden aanvangen.   
 
 ### Artikel  1.50a  
 
@@ -559,7 +551,7 @@ Bij regeling van Onze Minister kunnen ten behoeve van een goede uitvoering van d
 
 1.  De houder van een gastouderbureau organiseert zijn werkzaamheden op zodanige wijze, voorziet het bureau zowel kwalitatief als kwantitatief zodanig van personeel en materieel, draagt zorg voor een zodanige verantwoordelijkheidstoedeling en voert een zodanig beleid, dat een en ander leidt of redelijkerwijs moet leiden tot verantwoorde uitvoering van die werkzaamheden.   
 2.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de kwaliteit van gastouderbureaus, waaronder regels omtrent de opleidingseisen waaraan de beroepskrachten voldoen.   
-3.  Op de houder van een gastouderbureau en personen, werkzaam bij een gastouderbureau, is artikel 1.50, derde, vierde en vijfde lid, van overeenkomstige toepassing. Op de houder van een gastouderbureau is artikel 1.54 van overeenkomstige toepassing.   
+3.  Op de houder van een gastouderbureau en op de personen werkzaam bij een onderneming waarmee de houder een gastouderbureau exploiteert, is artikel 1.50, derde tot en met zesde lid, van overeenkomstige toepassing. Op de houder van een gastouderbureau is artikel 1.54 van overeenkomstige toepassing.   
 4.  Gastouderopvang geschiedt op basis van een schriftelijke overeenkomst tussen de houder van het gastouderbureau en de ouder. Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot de inhoud van de overeenkomst.   
 5.  Bij regeling van Onze Minister kan worden bepaald dat de uitvoeringskosten een bij die regeling vast te stellen maximum per nader te bepalen soort kosten niet te boven gaan.   
 6.  Bij regeling van Onze Minister kunnen ten behoeve van een goede uitvoering van deze wet regels worden gesteld omtrent: 
@@ -593,14 +585,15 @@ f. het pedagogisch beleid en de pedagogische praktijk.
 4.  De verklaringen, bedoeld in het derde lid, worden door de gastouder aan de houder van het gastouderbureau overgelegd, voordat de gastouder zijn werkzaamheden aanvangt. De verklaringen zijn op het moment dat zij worden overgelegd, niet ouder dan twee maanden.   
 5.  Indien de houder van het gastouderbureau of de toezichthouder redelijkerwijs mag vermoeden dat een persoon als bedoeld in het derde lid niet langer voldoet aan de eisen voor het afgeven van een verklaring omtrent het gedrag, verlangt deze houder of de toezichthouder dat die persoon opnieuw een verklaring omtrent het gedrag overlegt die niet ouder is dan twee maanden. De desbetreffende persoon legt de verklaring over binnen een door deze houder of de toezichthouder vast te stellen termijn.   
 6.  De artikelen 1.51, 1.53, 1.54, tweede lid en 1.55 zijn van overeenkomstige toepassing op de gastouder.   
+7.  De verplichting van het vierde lid geldt voor personen die als stagiair werkzaam zijn de eerste maal dat deze personen de werkzaamheden aanvangen.   
 
 ### Artikel  1.57  
 
-Indien de kinderopvang in een kindercentrum geschiedt uitsluitend en onbezoldigd door ten minste een van de ouders van de in die voorziening opgevangen kinderen worden voor de toepassing van artikel 1.50, eerste lid, ouders gelijkgesteld met personeel en beroepskrachten. Op ouders, bedoeld in de eerste zin, is artikel 1.50, tweede tot en met vijfde lid, van overeenkomstige toepassing.  
+Indien de kinderopvang in een kindercentrum geschiedt uitsluitend en onbezoldigd door ten minste een van de ouders van de in die voorziening opgevangen kinderen worden voor de toepassing van artikel 1.50, eerste lid, ouders gelijkgesteld met personeel en beroepskrachten. Op ouders, bedoeld in de eerste zin, is artikel 1.50, tweede tot en met zesde lid, van overeenkomstige toepassing.  
 
 ### Artikel  1.57a  
 
-1.  Onze Minister kan beleidsregels stellen omtrent de toepassing van de artikelen 1.49, 1.50, eerste, derde, vierde en vijfde lid, 1.51, 1.56, eerste en derde lid, en 1.56b, eerste, derde, vierde, vijfde en zesde lid, voor zover dat laatste lid betrekking heeft op artikel 1.51.   
+1.  Onze Minister kan beleidsregels stellen omtrent de toepassing van de artikelen 1.49, 1.50, eerste en derde tot en met zesde lid, 1.51, 1.56, eerste en derde lid, en 1.56b, eerste, derde, vierde, vijfde en zesde lid, voor zover dat laatste lid betrekking heeft op artikel 1.51.   
 2.  De bekendmaking van de beleidsregels geschiedt door plaatsing in de Staatscourant.   
 
 ### Paragraaf  3  
@@ -706,11 +699,6 @@ b. dat de kwaliteit van een gastouderbureau zodanig tekort schiet, en daardoor h
 1.  Het college van burgemeester en wethouders kan de houder verbieden de exploitatie van een kindercentrum, een voorziening voor gastouderopvang of een gastouderbureau voort te zetten, zolang hij een bevel of aanwijzing niet opvolgt en het opleggen van een last onder bestuursdwang niet mogelijk is.   
 2.  Indien uit een onderzoek als bedoeld in artikel 1.62 of anderszins blijkt dat het kindercentrum, de voorziening voor gastouderopvang of het gastouderbureau naar verwachting niet dan wel niet langer aan de bij of krachtens afdeling 3, paragraaf 2, van dit hoofdstuk gegeven voorschriften zal voldoen, kan het college van burgemeester en wethouders zolang die situatie zich voordoet, de houder verbieden dat kindercentrum, die voorziening voor gastouderopvang of dat gastouderbureau in exploitatie te nemen.   
 
-### Artikel  1.67  
-
-1.  Het college van burgemeester en wethouders stelt jaarlijks op een door Onze Minister te bepalen tijdstip een verslag vast van alle werkzaamheden die hij en de toezichthouders in het kader van dit hoofdstuk in het voorafgaande kalenderjaar hebben verricht. Het college zendt het verslag aan de gemeenteraad en een afschrift daarvan aan Onze Minister.   
-2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de in het verslag op te nemen gegevens.   
-
 ### Paragraaf  2a  
 
 ####Informatieverstrekking aan de GGD
@@ -721,23 +709,13 @@ De Belastingdienst/Toeslagen verstrekt aan de GGD kosteloos de gegevens en inlic
 
 ### Paragraaf  3  
 
-####Rijkstoezicht op gemeentelijk toezicht en ingrijpen
+####Informatie aan minister door colleges van burgemeester en wethouders
 
 ### Artikel  1.68  
 
-1.  Onze Minister houdt toezicht op de rechtmatigheid en de doeltreffendheid van de uitvoering van de bij of krachtens afdeling 3, paragraaf 1, afdeling 4 en afdeling 6, van dit hoofdstuk gestelde regels door het college van burgemeester en wethouders, met uitzondering van de bij artikel 1.50b gestelde regels.   
-2.  Het toezicht, bedoeld in het eerste lid, wordt uitgeoefend door de Inspectie van het onderwijs, genoemd in [artikel 2, eerste lid, van de Wet op het onderwijstoezicht](../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md). De [artikelen 3](../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md), [4, tweede lid](../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md), [7](../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md), [22](../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md) en [23 van de Wet op het onderwijstoezicht](../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md) zijn van overeenkomstige toepassing.   
-3.  Onze Minister kan, indien hij met betrekking tot de rechtmatige uitvoering de bij of krachtens afdeling 3, paragraaf 1, afdeling 4 en afdeling 6, van dit hoofdstuk gestelde regels ernstige tekortkomingen constateert, aan het college van burgemeester en wethouders, nadat het gedurende acht weken in de gelegenheid is gesteld zijn zienswijze naar voren te brengen, een aanwijzing geven. Hij treedt daarbij niet in de besluitvorming inzake individuele gevallen. In een aanwijzing wordt een termijn opgenomen waarbinnen het college van burgemeester en wethouders de uitvoering in overeenstemming heeft gebracht met de aanwijzing.   
-
-### Artikel  1.69  
-
-1.  Het college van burgemeester en wethouders en de gemeenteraad verstrekken Onze Minister alle gegevens en inlichtingen die hij voor het toezicht nodig heeft.   
-2.  Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot de wijze waarop het college van burgemeester en wethouders de in het eerste lid bedoelde gegevens en inlichtingen verzamelen en verstrekken.   
+1.  Het college van burgemeester en wethouders verstrekt desgevraagd aan Onze Minister gegevens en inlichtingen die hij voor de informatievoorziening en beleidsvorming en de statistiek met betrekking tot hoofdstuk 1 van deze wet nodig heeft.   
+2.  Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot de informatie die het college verstrekt over de uitvoering van zijn werkzaamheden op grond van dit hoofdstuk en de wijze waarop het college de gegevens en inlichtingen verstrekt en verzamelt en of en op welke wijze deze informatie openbaar wordt gemaakt.   
 3.  De gegevens en inlichtingen, bedoeld in het eerste lid, worden kosteloos verstrekt.   
-
-### Artikel  1.70  
-
-Onze Minister stelt jaarlijks een verslag vast van de werkzaamheden die hij in het kader van dit hoofdstuk in het voorafgaande kalenderjaar heeft verricht. Hij zendt afschrift van het verslag aan de Tweede Kamer der Staten-Generaal.  
 
 ### Afdeling  5  
 
@@ -824,7 +802,7 @@ In dit hoofdstuk en de op dit hoofdstuk berustende bepalingen wordt verstaan ond
 
 *GGD:* gemeentelijke gezondheidsdienst als bedoeld in [artikel 17 van de Wet publieke gezondheid](../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md);  
 
-*houder:* degene die een peuterspeelzaal in stand houdt;  
+*houder:* degene aan wie een onderneming als bedoeld in de [Handelsregisterwet 2007](../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md) toebehoort en die met die onderneming een peuterspeelzaal exploiteert;  
 
 *ouder:* bloed- of aanverwant in opgaande lijn of de pleegouder van een kind op wie het peuterspeelzaalwerk betrekking heeft, met dien verstande dat bij de beoordeling of sprake is van pleegouderschap een subsidie op grond van de [Wet op de jeugdzorg](../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) buiten beschouwing blijft;  
 
@@ -909,9 +887,10 @@ d. het aantal beroepskrachten en vrijwilligers in relatie tot het aantal kindere
 e. de groepsgrootte;  
 
 f. het pedagogisch beleid en de pedagogische praktijk.     
-3.  Personen die op structurele basis werkzaam zijn ten behoeve van de verzorging, de opvoeding en het bijdragen aan de ontwikkeling van kinderen in een peuterspeelzaal zijn in het bezit van een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md).   
+3.  De houder van een peuterspeelzaal en de personen die werkzaam zijn bij een onderneming waarmee de houder een peuterspeelzaal exploiteert, zijn in het bezit van een verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md).   
 4.  De verklaring, bedoeld in het derde lid, wordt aan de houder overgelegd, voordat een persoon als bedoeld in het derde lid zijn werkzaamheden aanvangt. De verklaring is op het moment dat zij wordt overgelegd, niet ouder dan twee maanden.   
 5.  Indien de houder of de toezichthouder redelijkerwijs mag vermoeden dat een persoon als bedoeld in het derde lid niet langer voldoet aan de eisen voor het afgeven van een verklaring omtrent het gedrag, verlangt deze houder al dan niet op verzoek van de toezichthouder dat die persoon opnieuw een verklaring omtrent het gedrag overlegt die niet ouder is dan twee maanden. De desbetreffende persoon legt de verklaring over binnen een door deze houder of de toezichthouder vast te stellen termijn.   
+6.  De verplichting van het vierde lid geldt voor personen die als stagiair of uitzendkracht werkzaam zijn de eerste maal voordat deze personen de werkzaamheden aanvangen.   
 
 ### Artikel  2.7  
 
@@ -1054,15 +1033,15 @@ De houder treft een regeling voor de behandeling van klachten van de oudercommis
 1.  Het college van burgemeester en wethouders kan de houder verbieden de instandhouding van een peuterspeelzaal voort te zetten, zolang hij een bevel of aanwijzing niet opvolgt en het opleggen van een last onder bestuursdwang niet mogelijk is.   
 2.  Indien uit een onderzoek als bedoeld in artikel 2.20 of anderszins blijkt dat de peuterspeelzaal naar verwachting niet dan wel niet langer aan de bij of krachtens afdeling 2, paragraaf 2, van dit hoofdstuk gegeven voorschriften zal voldoen, kan het college van burgemeester en wethouders zolang die situatie zich voordoet, de houder verbieden die peuterspeelzaal in exploitatie te nemen.   
 
+### Paragraaf  3  
+
+####Informatie aan minister door colleges van burgemeester en wethouders
+
 ### Artikel  2.25  
 
-1.  Het college van burgemeester en wethouders stelt jaarlijks op een door Onze Minister te bepalen tijdstip een verslag vast van alle werkzaamheden die hij en de toezichthouders in het kader van deze afdeling in het voorafgaande kalenderjaar hebben verricht. Het college zendt het verslag aan de gemeenteraad en een afschrift daarvan aan Onze Minister.   
-2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld omtrent de in het verslag op te nemen gegevens.   
-
-### Artikel  2.26  
-
-1.  Wanneer het college van burgemeester en wethouders een krachtens deze wet gevorderde beslissing niet of niet naar behoren neemt dan wel een krachtens deze wet gevorderde handeling niet of niet naar behoren verricht, besluit Onze Minister daarin te voorzien ten laste van de gemeente.   
-2.  Het eerste lid vindt geen toepassing dan nadat het college van burgemeester en wethouders in de gelegenheid is gesteld binnen een door Onze Minister gestelde termijn alsnog de in het eerste lid bedoelde taken uit te voeren.   
+1.  Het college van burgemeester en wethouders verstrekt desgevraagd aan Onze Minister gegevens en inlichtingen die hij voor de informatievoorziening en beleidsvorming en de statistiek met betrekking tot dit hoofdstuk nodig heeft.   
+2.  Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot de informatie die het college verstrekt over de uitvoering van zijn werkzaamheden op grond van dit hoofdstuk en de wijze waarop het college de gegevens en inlichtingen verstrekt en verzamelt en of en op welke wijze deze informatie openbaar wordt gemaakt.   
+3.  De gegevens en inlichtingen, bedoeld in het eerste lid, worden kosteloos verstrekt.   
 
 ### Afdeling  4  
 
@@ -1163,13 +1142,9 @@ De artikelen 3.1 tot en met 3.6 vervallen drie jaar na inwerkingtreding van de [
 a. van de gastouder die de opvang verzorgt in een gelijkgestelde voorziening één voorzienig voor gastouderopvang is opgenomen in het register kinderopvang; en  
 
 b. de gelijkgestelde voorzieningen voor gastouderopvang voldoen aan het bepaalde bij of krachtens de paragrafen 2 en 3 van afdeling 3 van hoofdstuk 1.     
-2.  Indien opvang plaatsvindt in meer dan een voorzienig van gastouderopvang heeft een aanvraag als bedoeld in artikel 1.45, tweede lid, betrekking: 
-
-a. op het woonadres van de gastouder, indien de gastouderopvang zal plaatsvinden op zowel het woonadres van de gastouder als op het woonadres van een of meer ouders; of  
-
-b. op een van de woonadressen van de ouders, indien de gastouderopvang uitsluitend zal plaatsvinden op twee of meer woonadressen van ouders.     
-3.  Indien de gastouder van wie een voorziening voor gastouderopvang met het woonadres van een ouder is ingeschreven in het register kinderopvang, na die inschrijving tevens opvang gaat bieden op het eigen woonadres, wordt dit aangemerkt als een wijziging in de gegevens als bedoeld in artikel 1.47, eerste lid.   
-4.  Op het in exploitatie nemen van een op grond van het eerste lid gelijkgestelde voorziening voor gastouderopvang zijn de artikelen 1.45 tot en met 1.47a niet van toepassing.   
+2.   Vervallen.    
+3.   Vervallen.    
+4.   Vervallen.    
 5.  Een ouder die gebruik maakt van een of meer voorzieningen die zijn gelijkgesteld op grond van het eerste lid, verstrekt het in artikel 1.10 bedoelde unieke nummer dat is afgegeven voor de geregistreerde voorziening bedoeld in het eerste lid, onder a, eveneens ten aanzien van de gelijkgestelde voorzieningen.   
 6.  Dit artikel geldt vanaf het berekeningsjaar 2011 en vervalt met ingang van een bij koninklijk besluit te bepalen tijdstip waarbij de verschillende leden op verschillende tijdstippen kunnen vervallen.   
 
@@ -1186,6 +1161,30 @@ b. op een van de woonadressen van de ouders, indien de gastouderopvang uitsluite
 ### Artikel  3.8  
 
 Ten aanzien van voor het tijdstip van inwerkingtreding van de Wet kinderopvang door het Rijk en gemeenten op grond van de [Welzijnswet 1994](../../../../wet/welzijnswet/1994/BWBR0006705/README.md) verleende subsidies en uitkeringen aan kinderopvang, voorzover dat kinderopvang betreft waarop deze wet van toepassing is, blijft het bepaalde bij of krachtens de [Welzijnswet 1994](../../../../wet/welzijnswet/1994/BWBR0006705/README.md), zoals dat laatstelijk voor 1 januari 2005 luidde, van toepassing op de financiële verantwoording, vaststelling en uitbetaling van die subsidies en uitkeringen.  
+
+### Artikel  3.8a  
+
+Voor een berekeningsjaar dat voorafgaat aan 2013 blijft deze wet, zoals die luidde op 31 december van dat berekeningsjaar, van toepassing op de kinderopvangtoeslag en de tegemoetkoming, bedoeld in artikel 1.5, eerste lid, zoals dat luidde op 31 december 2012.  
+
+### Artikel  3.8b  
+
+1.  Het college van burgemeester en wethouders blijft bevoegd een beslissing te nemen op een aanvraag voor een tegemoetkoming als bedoeld in artikel 1.22, zoals dat luidde op 31 december 2012, voor een berekeningsjaar dat voorafgaat aan 2013, voor zover nog niet onherroepelijk op deze aanvraag is beslist.   
+2.  Het college van burgemeester en wethouders dat een besluit in verband met een tegemoetkoming als bedoeld in artikel 1.22, zoals dat luidde op 31 december 2012, voor een berekeningsjaar dat voorafgaat aan 2013 heeft genomen waartegen een bezwaarschrift is ingediend dan wel nog kan worden ingediend, blijft bevoegd op het bezwaar te beslissen.   
+3.  In een geding in beroep en hoger beroep, gericht tegen een besluit als bedoeld in het tweede lid, blijft het college partij en staat hoger beroep in verband met deze besluiten open.   
+
+### Artikel  3.8c  
+
+1.  Het Uitvoeringsinstituut werknemersverzekeringen blijft bevoegd een beslissing te nemen op een aanvraag voor een tegemoetkoming als bedoeld in artikel 1.29, zoals dat luidde op 31 december 2012, voor een berekeningsjaar dat voorafgaat aan 2013, voor zover nog niet onherroepelijk op deze aanvraag is beslist.   
+2.  Het Uitvoeringsinstituut werknemersverzekeringen dat een besluit in verband met een tegemoetkoming als bedoeld in artikel 1.29, zoals dat luidde op 31 december 2012, voor een berekeningsjaar dat voorafgaat aan 2013 heeft genomen waartegen een bezwaarschrift is ingediend dan wel nog kan worden ingediend, blijft bevoegd op het bezwaar te beslissen.   
+3.  In een geding in beroep en hoger beroep, gericht tegen een besluit als bedoeld in het tweede lid, blijft het Uitvoeringsinstituut werknemersverzekeringen partij en staat hoger beroep in verband met deze besluiten open.   
+
+### Artikel  3.8d  
+
+Personen die werkzaam zijn bij een onderneming waarmee de houder een kindercentrum exploiteert en personen die werkzaam zijn bij een onderneming waarmee de houder een gastouderbureau exploiteert en van wie tot het tijdstip van inwerkingtreding van artikel I, onderdelen Ra en Rb, van de Wet tot wijziging van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen in verband met het aanbrengen van grondslagen die hervorming van en bezuiniging op de kinderopvangtoeslag mogelijk maken en in verband met het incorporeren van de tegemoetkoming in de kosten van kinderopvang van de gemeente en het Uitvoeringsinstituut werknemersverzekeringen in verband met de kinderopvangtoeslag geen verklaring omtrent het gedrag, bedoeld in artikel 1.50, derde lid, werd verlangd, leggen aan de houder van een kindercentrum respectievelijk van een gastouderbureau voor 1 januari 2013 een verklaring over als bedoeld in voornoemd artikel. De verklaring is op het moment dat zij wordt overgelegd niet ouder dan twee maanden.  
+
+### Artikel  3.8e  
+
+Personen die werkzaam zijn bij een onderneming waarmee de houder een peuterspeelzaal exploiteert en van wie tot het tijdstip van inwerkingtreding van artikel I, onderdeel Ub, van de Wet tot wijziging van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen in verband met het aanbrengen van grondslagen die hervorming van en bezuiniging op de kinderopvangtoeslag mogelijk maken en in verband met het incorporeren van de tegemoetkoming in de kosten van kinderopvang van de gemeente en het Uitvoeringsinstituut werknemersverzekeringen in verband met de kinderopvangtoeslag geen verklaring omtrent het gedrag, bedoeld in artikel 2.6, derde lid, werd verlangd, leggen aan de houder van een kindercentrum voor 1 januari 2013 een verklaring over als bedoeld in voornoemd artikel. De verklaring is op het moment dat zij wordt overgelegd niet ouder dan twee maanden.  
 
 ### Paragraaf  2  
 

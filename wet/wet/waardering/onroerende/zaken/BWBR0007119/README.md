@@ -130,12 +130,6 @@ De Waarderingskamer stelt een bestuursreglement vast, waarin in ieder geval rege
 3.  De Waarderingskamer beslist binnen dertien weken nadat het geschil is voorgelegd. De Waarderingskamer kan deze termijn, met redenen omkleed, eenmaal met dertien weken verlengen. Zij kan voorts de termijn verder verlengen met instemming van de betrokken partijen.   
 4.  De Waarderingskamer is bevoegd de kosten die door haar zijn gemaakt in verband met het voorgelegde geschil in rekening te brengen aan de partijen. Zij kan beslissen dat de kosten die door partijen zijn gemaakt, worden gedragen door de in het ongelijk gestelde partij.   
 
-### Artikel  15  
-
-1.  Onze Minister kan, de Waarderingskamer gehoord, aan het college van een gemeente een aanwijzing geven omtrent de uitvoering van de wet.   
-2.  Onze Minister verbindt aan de aanwijzing een termijn.   
-3.  De Waarderingskamer is bevoegd tot het doen uitvoeren van de aanwijzing op kosten van de gemeente indien het college de aanwijzing niet binnen de in het tweede lid bedoelde termijn heeft opgevolgd.   
-
 ### Hoofdstuk  III  
 
 ####De waardebepaling
@@ -356,6 +350,14 @@ De [artikelen 73](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWB
 1.  Er is een basisregistratie WOZ waarin waardegegevens met bijbehorende temporele en meta-kenmerken zijn opgenomen. Het waardegegeven, bedoeld in de vorige volzin, is een authentiek gegeven.   
 2.  In de basisregistratie WOZ zijn ook bij algemene maatregel van bestuur aan te wijzen authentieke gegevens uit andere basisregistraties opgenomen.   
 3.  De basisregistratie WOZ heeft tot doel de afnemers te voorzien van waardegegevens.   
+
+### Artikel  37aa   
+Treedt in werking op een nader te bepalen tijdstip   
+
+1.  Er is een geautomatiseerde landelijke voorziening WOZ met als doel waardegegevens met bijbehorende temporele en meta-kenmerken te verstrekken aan de afnemers, alsmede het op regelmatige basis verstrekken van waardegegevens inzake onroerende zaken die hoofdzakelijk tot woning dienen aan een loket voor openbare WOZ-waarden.   
+2.  De Dienst houdt en beheert de landelijke voorziening WOZ waarin de gegevens uit de door de gemeenten gehouden basisregistratie WOZ zijn opgenomen.   
+3.  De Dienst draagt er zorg voor dat de weergave van een in de landelijke voorziening WOZ opgenomen gegeven overeenstemt met het overeenkomstig artikel 37b, eerste lid, door het college verstrekte gegeven.   
+4.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gegeven omtrent het beheer, de vorm en de inrichting van de landelijke voorziening WOZ.   
 
 ### Artikel  37b  
 

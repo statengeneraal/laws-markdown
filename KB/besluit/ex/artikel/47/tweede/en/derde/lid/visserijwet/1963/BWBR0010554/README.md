@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Landbouw, Natuurbeheer en Visserij van 18 juni 1999, No. TRCJZ/1999/5502, Directie Juridische Zaken;
 
-Gelet op [artikel 47, tweede en derde lid, van de Visserijwet 1963](../../../../../../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md);
+Gelet op artikel 47, tweede en derde lid, van de Visserijwet 1963;
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  
@@ -15,7 +15,7 @@ De navolgende organisaties worden aangewezen tot het voordragen van het achter h
 
 a. de Combinatie van Beroepsvissers: 3 leden;  
 
-b. de Nederlandse Vereniging van Sportvissersfederaties: 3 leden;  
+b. Sportvisserij Nederland: 3 leden;  
 
 c. de Unie van Waterschappen: 1 lid;  
 

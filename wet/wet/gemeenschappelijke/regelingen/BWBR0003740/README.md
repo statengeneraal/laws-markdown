@@ -900,27 +900,19 @@ Indien het een regeling betreft tussen gemeenten die in meer dan een provincie l
 1.  Onze Minister wie het aangaat kan, in overeenstemming met Onze Minister van Binnenlandse Zaken, gedeputeerde staten uitnodigen tot het geven van een aanwijzing als bedoeld in artikel 99, eerste lid.   
 2.  Een uitnodiging wordt niet gedaan dan nadat Onze Minister wie het aangaat gedeputeerde staten heeft gehoord.   
 3.  Bij de uitnodiging stelt Onze Minister wie het aangaat een termijn binnen welke gedeputeerde staten een aanwijzing dienen te geven.   
-4.  Indien niet binnen de termijn, bedoeld in het derde lid, door gedeputeerde staten een aanwijzing is gegeven, wordt een aanwijzing gegeven door Onze Minister wie het aangaat, in overeenstemming met Onze Minister van Binnenlandse Zaken. Artikel 99 is van overeenkomstige toepassing.   
-
-### Artikel  103  
-
-1.  Bij koninklijk besluit wordt een regeling overeenkomstig de aanwijzing, bedoeld in artikel 102, vierde lid, opgelegd, indien binnen zes maanden na de aanwijzing geen regeling ter kennisneming aan Onze Minister wie het aangaat en Onze Minister van Binnenlandse Zaken is gezonden of indien uit de ter kennisneming toegezonden regeling blijkt dat aan de aanwijzing onvoldoende gevolg is gegeven. Artikel 100, tweede lid, is van overeenkomstige toepassing.   
-2.  Alvorens een regeling wordt opgelegd hoort Onze Minister wie het aangaat de besturen van de betrokken gemeenten en gedeputeerde staten van de betrokken provincie over het ontwerp van de op te leggen regeling. Artikel 100, derde lid, is van overeenkomstige toepassing.   
-3.  De voordracht tot oplegging wordt gedaan door of mede door Onze Minister van Binnenlandse Zaken.   
-4.  Besluiten die geheel of gedeeltelijk met toepassing van het eerste lid tot stand zijn gekomen, worden ter kennisneming gezonden aan gedeputeerde staten van de betrokken provincie.   
 
 ### Artikel  103a  
 
-De commissaris van de Koning treedt voor de toepassing van de artikelen 99 tot en met 103 in de plaats van gedeputeerde staten, indien het betreft een regeling uitsluitend tussen burgemeesters.  
+De commissaris van de Koning treedt voor de toepassing van de artikelen 99 tot en met 102 in de plaats van gedeputeerde staten, indien het betreft een regeling uitsluitend tussen burgemeesters.  
 
 ### Artikel  103b  
 
-De aanwijzing, bedoeld in artikel 99, eerste lid, kan ook betreffen de deelneming van gemeenten aan een regeling als bedoeld in hoofdstuk V en hoofdstuk VIII, voor zover daaraan geen provincies deelnemen. De artikel 99, derde en vierde lid, en 100 tot en met 103 zijn van overeenkomstige toepassing.  
+De aanwijzing, bedoeld in artikel 99, eerste lid, kan ook betreffen de deelneming van gemeenten aan een regeling als bedoeld in hoofdstuk V en hoofdstuk VIII, voor zover daaraan geen provincies deelnemen. De artikel 99, derde lid, en 100 tot en met 102 zijn van overeenkomstige toepassing.  
 
 ### Artikel  103c  
 
 1.  De aanwijzing, bedoeld in artikel 99, eerste lid, kan ook betreffen de deelneming van gemeenten aan een regeling als bedoeld in de hoofdstukken IV en VI, alsmede VIII, voor zover daaraan provincies deelnemen, met dien verstande dat de aanwijzing wordt gegeven door Onze Minister wie het aangaat, in overeenstemming met Onze Minister van Binnenlandse Zaken. Artikel 99, derde lid, is van overeenkomstige toepassing.   
-2.  Bij de aanwijzing, bedoeld in het eerste lid, stelt Onze Minister wie het aangaat een termijn binnen welke een regeling ter kennisneming aan hem dient te worden gezonden. Artikel 103 is van overeenkomstige toepassing.   
+2.  Bij de aanwijzing, bedoeld in het eerste lid, stelt Onze Minister wie het aangaat een termijn binnen welke een regeling ter kennisneming aan hem dient te worden gezonden.   
 3.  Bij toepassing van het eerste lid pleegt Onze Minister wie het aangaat tevens overleg met de besturen van de betrokken waterschappen, andere openbare lichamen en rechtspersonen. Bij toepassing van het tweede lid worden deze besturen tevens gehoord.   
 
 ### Artikel  103d  
@@ -933,8 +925,8 @@ Voor zover in dit hoofdstuk niet anders is bepaald, is bij de oplegging van een 
 
 ### Artikel  103f  
 
-1.  Tegen een besluit tot aanwijzing als bedoeld in de artikelen 99, eerste lid, 102, vierde lid, 103 *b* en 103 *c*, eerste lid, kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
-2.  Tegen een besluit tot oplegging als bedoeld in de artikelen 100, eerste lid, en 103, eerste lid, kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
+1.  Tegen een besluit tot aanwijzing als bedoeld in de artikelen 99, eerste lid, 103b en 103c, eerste lid, kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
+2.  Tegen een besluit tot oplegging als bedoeld in de artikel 100, eerste lid, kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
 3.  Bezwaar of beroep tegen een besluit tot oplegging kan geen grond vinden in bezwaar of beroep tegen het aanwijzingsbesluit.   
 
 ### Hoofdstuk  XI  
@@ -981,7 +973,7 @@ Indien naar hun oordeel instelling van een plusregio bijzonder aangewezen is, en
 
 ### Artikel  110  
 
-1.  Tot toetreding tot, uittreding uit of opheffing van een plusregio wordt niet besloten dan na een verklaring van geen bezwaar van gedeputeerde staten en, indien bij wet één of meer bevoegdheden of taken aan de plusregio zijn opgedragen, van Onze Ministers wie het aangaat.   
+1.  De besturen van gemeenten besluiten tot toetreding tot, uittreding uit of opheffing van een plusregio, met dien verstande dat met betrekking tot een plusregio die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat, opheffing van de plusregio bij wet geschiedt.   
 2.  De artikelen 107, 108, tweede lid, en 109, tweede lid, zijn van overeenkomstige toepassing op een besluit als bedoeld in het eerste lid.   
 
 ### §  3  
@@ -1024,15 +1016,8 @@ Bij een oplegging als bedoeld in deze paragraaf treedt artikel 114 in de plaats 
 
 ### Artikel  116  
 
-1.  Indien naar het oordeel van gedeputeerde staten het bestuur van een plusregio tekort schiet in de uitoefening respectievelijk uitvoering van een aan dat bestuur krachtens de regeling of bij of krachtens de wet op- of overgedragen bevoegdheid of taak, kunnen zij aan dat bestuur een aanwijzing geven die inhoudt dat het bestuur die bevoegdheid of taak uitoefent respectievelijk uitvoert op de wijze als in de aanwijzing bepaald.   
-2.  De aanwijzing wordt niet gegeven dan nadat gedeputeerde staten het bestuur van de plusregio hebben gehoord.   
-3.  Bij de aanwijzing stellen gedeputeerde staten een termijn binnen welke het bestuur van de plusregio aan de aanwijzing moet voldoen.   
-4.  Indien het bestuur van de plusregio niet binnen de termijn, bedoeld in het derde lid, aan de aanwijzing voldoet, oefenen respectievelijk voeren gedeputeerde staten de desbetreffende bevoegdheid of taak uit namens dat bestuur en ten laste van de plusregio.   
-
-### Artikel  117  
-
-1.  Onze Minister wie het aangaat, kan, in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, gedeputeerde staten uitnodigen toepassing te geven aan artikel 116, eerste lid. De uitnodiging vermeldt de termijn binnen welke een aanwijzing dient te worden gegeven.   
-2.  Indien gedeputeerde staten aan de uitnodiging geen gevolg geven, wordt de aanwijzing gegeven door Onze Minister wie het aangaat, in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties. Artikel 116, tweede tot en met vierde lid, is van overeenkomstige toepassing.   
+1.  Met betrekking tot een aan een plusregio op- of overgedragen bevoegdheid of taak zijn de [artikelen 124](../../../../../wet/gemeentewet/BWBR0005416/README.md), [124a](../../../../../wet/gemeentewet/BWBR0005416/README.md), [124c tot en met 124i](../../../../../wet/gemeentewet/BWBR0005416/README.md), alsmede [hoofdstuk XVII van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) van overeenkomstige toepassing.   
+2.  Met betrekking tot de bij of krachtens een andere wet dan deze of de Provinciewet aan een plusregio op- of overgedragen bevoegdheid of taak, worden de bevoegdheden die in de [artikelen 124](../../../../../wet/gemeentewet/BWBR0005416/README.md), [124c](../../../../../wet/gemeentewet/BWBR0005416/README.md), [124d](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [artikel 124f van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) aan gedeputeerde staten onderscheidenlijk de commissaris van de Koning zijn toegekend, in zoverre in afwijking van die artikelen uitgeoefend door Onze Minister wie het aangaat.   
 
 ### §  6  
 
@@ -1217,6 +1202,11 @@ Een verordening van het samenwerkingslichaam tot heffing van een belasting regel
 ### Hoofdstuk  XII  
 
 ####Slotbepalingen
+
+### Artikel  136  
+
+1.  Voor zover bij of krachtens deze wet bij of krachtens de [Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md) of de [Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) gestelde regels van toepassing zijn verklaard, zijn de regels van toepassing, gesteld bij of krachtens de Provinciewet zoals die luidde op 11 maart 2003 onderscheidenlijk de Gemeentewet zoals die luidde op 6 maart 2002.   
+2.  Het eerste lid is niet van toepassing op de bij of krachtens de [hoofdstukken VIII, paragraaf 3](../../../../../wet/gemeentewet/BWBR0005416/README.md), [XII tot en met XIV](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [XVIII van de Provinciewet](../../../../../wet/provinciewet/BWBR0005645/README.md) en de bij of krachtens de [hoofdstukken VIII, paragraaf 3](../../../../../wet/gemeentewet/BWBR0005416/README.md), [XII tot en met XIV](../../../../../wet/gemeentewet/BWBR0005416/README.md) en [XVII van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) gestelde regels.   
 
 ### Artikel  137  
 

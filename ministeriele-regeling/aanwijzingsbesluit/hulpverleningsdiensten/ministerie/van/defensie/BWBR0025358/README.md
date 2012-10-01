@@ -12,15 +12,25 @@ Als hulpverleningsdiensten als bedoeld in [artikel 29, eerste lid, van het Regle
 
 a. de explosieven opruimingsdiensten van het ministerie van Defensie;  
 
-b. het Coördinatiecentrum Expertise Militaire Gezondheidszorg, ten behoeve van het verrichten van metingen bij stralingsincidenten.    
+b. het Coördinatiecentrum Expertise Militaire Gezondheidszorg, ten behoeve van het verrichten van metingen bij stralingsincidenten;  
+
+c. het Advies en Assistentieteam en het Radiologisch/Chemisch Verkenningsteam van de CBRN-responscapaciteit van het Commando Landstrijdkrachten;  
+
+d. de sectie Brandweerzorg van het Commando Landstrijdkrachten;  
+
+e. het bureau Brandweer van het Commando Luchtstrijdkrachten;  
+
+f. het Korps Marinebrandweer van het Commando Zeestrijdkrachten;  
+
+g. de bedrijfsbrandweer van de Defensie Materieel Organisatie.  
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van het tijdstip waarop de Regeling optische en geluidssignalen 2009 in werking treedt.  
+Dit besluit treedt in werking met ingang van het tijdstip waarop de Regeling optische en geluidssignalen 2009 in werking treedt. 
 
 ### Artikel  3  
 
-Dit besluit wordt aangehaald als: Aanwijzingsbesluit hulpverleningsdiensten ministerie van Defensie.  
+Dit besluit wordt aangehaald als: Aanwijzingsbesluit hulpverleningsdiensten ministerie van Defensie. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -28,4 +38,4 @@ Den Haag
 
 De 
 Staatssecretaris van Defensie, 
-J.G. deVries   
+J.G. de Vries     

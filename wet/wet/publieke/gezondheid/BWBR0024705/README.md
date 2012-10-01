@@ -183,8 +183,8 @@ c. bron- en contactopsporing bij meldingen als bedoeld in de artikelen 21, 22, 2
 1.  In de situatie, bedoeld in artikel 6, vierde lid, geeft Onze Minister leiding aan de bestrijding en kan Onze Minister de voorzitter van de veiligheidsregio opdragen hoe de bestrijding ter hand te nemen, waaronder begrepen het opdragen tot het toepassen van de maatregelen, bedoeld in hoofdstuk V.   
 2.  In afwijking van artikel 6, derde lid, geeft Onze Minister leiding aan de bestrijding van een infectieziekte behorend tot groep B1 of B2, indien de burgemeester van een gemeente die het aangaat daartoe verzoekt. Onze Minister kan dan de burgemeester opdragen hoe de bestrijding ter hand te nemen, waaronder begrepen het opdragen tot het toepassen van de maatregelen, bedoeld in hoofdstuk V.   
 3.  Onze Minister kan de burgemeester opdragen om, ter uitvoering van de aanbevelingen, bedoeld in de artikelen 15 en 16 van de Internationale Gezondheidsregeling, toepassing te geven aan de maatregelen, bedoeld in de artikelen 51, 54 en 55, alsook om de maatregelen, bedoeld in [artikel 22a van de Wet op de lijkbezorging](../../../../../wet/wet/op/de/lijkbezorging/BWBR0005009/README.md), toe te passen.   
-4.  Voordat toepassing wordt gegeven aan het eerste, tweede of derde lid, voert Onze Minister een bestuurlijk afstemmingsoverleg waarbij in ieder geval Onze Minister van Verkeer en Waterstaat en de veiligheidsregio’s of gemeenten die het aangaat, worden betrokken.   
-5.  Zodra toepassing wordt gegeven aan het eerste of tweede lid, informeert Onze Minister de Minister van Binnenlandse Zaken en Koninkrijksrelaties.   
+4.  Voordat toepassing wordt gegeven aan het eerste, tweede of derde lid, voert Onze Minister een bestuurlijk afstemmingsoverleg waarbij in ieder geval Onze Minister van Infrastructuur en Milieu en de veiligheidsregio’s of gemeenten die het aangaat, worden betrokken.   
+5.  Zodra toepassing wordt gegeven aan het eerste of tweede lid, informeert Onze Minister Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Veiligheid en Justitie.   
 6.  Indien toepassing wordt gegeven aan het eerste, tweede of derde lid, verstrekt de voorzitter van de veiligheidsregio of de burgemeester aan Onze Minister, indien deze daarom verzoekt, de gegevens die Onze Minister nodig heeft ter uitoefening van die taak.   
 
 ### Artikel  8  
@@ -199,15 +199,15 @@ b. een nieuw subtype humaan influenzavirus, waarbij ernstig gevaar voor de volks
 
 ### Artikel  9  
 
-Onze Minister kan in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties bepalen dat, in daarbij aangewezen gevallen, een andere burgemeester de taak, dan wel een bepaald deel van de taak, bedoeld in artikel 6, derde lid, dient te vervullen.  
+Onze Minister kan in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Veiligheid en Justitie bepalen dat, in daarbij aangewezen gevallen, een andere burgemeester de taak, dan wel een bepaald deel van de taak, bedoeld in artikel 6, derde lid, dient te vervullen.  
 
 ### Artikel  10  
 
-Onverminderd artikel 7, tweede en derde lid, kan Onze Minister een aanwijzing geven aan de burgemeester, indien deze niet of niet naar behoren maatregelen treft ter bestrijding van een epidemie van een infectieziekte behorend tot groep B1, B2 of C, terwijl er ernstig gevaar voor de volksgezondheid dreigt.  
+Onverminderd artikel 7, eerste, tweede en derde lid, kunnen bij regeling van Onze Minister regels worden gesteld betreffende de door de burgemeester te treffen maatregelen ter bestrijding van een epidemie van een infectieziekte behorend tot groep B1, B2 of C.  
 
 ### Artikel  11  
 
-1.  Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, kunnen regels worden gesteld over de verdeling van vaccins en therapeutische farmaproducten, indien er een beperkte beschikbaarheid is van deze middelen en ten behoeve van de bestrijding van een infectieziekte behorend tot groep A prioriteiten moeten worden gesteld voor de verdeling ervan.   
+1.  Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties en Onze Minister van Veiligheid en Justitie, kunnen regels worden gesteld over de verdeling van vaccins en therapeutische farmaproducten, indien er een beperkte beschikbaarheid is van deze middelen en ten behoeve van de bestrijding van een infectieziekte behorend tot groep A prioriteiten moeten worden gesteld voor de verdeling ervan.   
 2.  Onze Minister stelt de beide Kamers der Staten-Generaal onverwijld op de hoogte van de vastgestelde regeling.   
 
 ### Artikel  12  
@@ -550,7 +550,7 @@ c. waren vernietigen.
 ### Artikel  48  
 
 1.  Bij regeling van Onze Minister worden de havens en luchthavens aangewezen waarop de eisen van deze paragraaf van toepassing zijn. De havens of luchthavens kunnen per categorie worden aangewezen voor toepassing van artikel 49.   
-2.  Een burgerhaven of burgerluchthaven wordt aangewezen in overeenstemming met Onze Minister van Verkeer en Waterstaat.   
+2.  Een burgerhaven of burgerluchthaven wordt aangewezen in overeenstemming met Onze Minister van Infrastructuur en Milieu.   
 3.  Een militaire haven of militaire luchthaven wordt aangewezen in overeenstemming met Onze Minister van Defensie.   
 
 ### Artikel  49  
@@ -563,7 +563,7 @@ c. waren vernietigen.
 
 1.  De gezagvoerder van een schip dat een internationale reis maakt, die een haven wil aandoen en wetenschap heeft of een ernstig vermoeden heeft dat er aan boord van zijn schip één of meer ziektegevallen zijn die wijzen op een ziekte van infectueuze aard die een ernstig gevaar voor de volksgezondheid kan opleveren, zorgt ervoor dat de verkeersleiding van de haven en de aan boord komende loods hiervan zo spoedig mogelijk doch voor aankomst op de hoogte worden gesteld.   
 2.  De gezagvoerder van een luchtvaartuig dat een internationale reis maakt, die een luchthaven wil aandoen en wetenschap heeft of een ernstig vermoeden heeft dat er aan boord van zijn luchtvaartuig één of meer ziektegevallen zijn die wijzen op een ziekte van infectueuze aard die een ernstig gevaar voor de volksgezondheid kan opleveren, zorgt ervoor dat de luchtverkeersleiding van de luchthaven hiervan zo spoedig mogelijk doch voor aankomst op de hoogte wordt gesteld.   
-3.  De verkeersleiding van de burgerhaven geeft een melding onverwijld door aan Onze Minister van Verkeer en Waterstaat, het samenwerkingsverband van registerloodsen en de exploitant van de burgerhaven. De luchtverkeersleiding van de burgerluchthaven geeft een melding onverwijld door aan Onze Minister van Verkeer en Waterstaat en de exploitant van de burgerluchthaven.   
+3.  De verkeersleiding van de burgerhaven geeft een melding onverwijld door aan Onze Minister van Infrastructuur en Milieu, het samenwerkingsverband van registerloodsen en de exploitant van de burgerhaven. De luchtverkeersleiding van de burgerluchthaven geeft een melding onverwijld door aan Onze Minister van Infrastructuur en Milieu en de exploitant van de burgerluchthaven.   
 4.  De exploitant van de burgerhaven of burgerluchthaven geeft een melding onverwijld door aan de gemeentelijke gezondheidsdienst. De gemeentelijke gezondheidsdienst geeft een melding onverwijld door aan de burgemeester en het RIVM.   
 5.  De verkeersleiding van de militaire haven of de luchtverkeersleiding van de militaire luchthaven geeft een melding onverwijld door aan de gemeentelijke gezondheidsdienst en het RIVM. De gemeentelijke gezondheidsdienst geeft een melding onverwijld door aan de burgemeester.   
 
@@ -575,7 +575,7 @@ c. waren vernietigen.
 
 ### Artikel  52  
 
-In geval van een melding als bedoeld in artikel 50 of indien anderszins blijkt van omstandigheden aan boord van een schip of luchtvaartuig dat een internationale reis maakt, die een ernstig gevaar voor de volksgezondheid kunnen meebrengen, kan Onze Minister van Verkeer en Waterstaat, na overleg met Onze Minister, bepalen in welke burgerhaven of burgerluchthaven het schip of luchtvaartuig aankomt, alsook, na overleg met het samenwerkingsverband van registerloodsen, hoe de loodsdienstverlening aan het schip plaatsvindt.  
+In geval van een melding als bedoeld in artikel 50 of indien anderszins blijkt van omstandigheden aan boord van een schip of luchtvaartuig dat een internationale reis maakt, die een ernstig gevaar voor de volksgezondheid kunnen meebrengen, kan Onze Minister van Infrastructuur en Milieu, na overleg met Onze Minister, bepalen in welke burgerhaven of burgerluchthaven het schip of luchtvaartuig aankomt, alsook, na overleg met het samenwerkingsverband van registerloodsen, hoe de loodsdienstverlening aan het schip plaatsvindt.  
 
 ### Artikel  53  
 
@@ -715,6 +715,118 @@ In het geval van een besmetting of infectie of bij een gegrond vermoeden daarvan
 2.  Met een gevangenisstraf van ten hoogste vier jaar of geldboete van de vijfde categorie wordt gestraft de gezagvoerder die handelt in strijd met artikel 53, derde lid, onder a.   
 3.  Met een gevangenisstraf van ten hoogste vier jaar of geldboete van de vijfde categorie wordt gestraft degene die zich onttrekt aan een op grond van de artikelen 31 of  35 ten aanzien van hem genomen maatregel.   
 4.  De in het eerste, tweede en derde lid strafbaar gestelde feiten zijn misdrijven.   
+
+### Hoofdstuk  Va  
+
+####Openbare lichamen Bonaire, Sint Eustatius en Saba
+
+### Artikel  68a  
+
+Tenzij in dit hoofdstuk anders is bepaald, is het bepaalde bij of krachtens deze wet mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met dien verstande dat telkens in die bepalingen wordt gelezen voor: 
+
+a. *«de gemeente»:* het openbare lichaam Bonaire, Sint Eustatius of Saba;  
+
+b. *«gemeenteraad»:* eilandsraad;  
+
+c. *«college van burgemeester en wethouders» en «bestuur van de veiligheidsregio»:* bestuurscollege;  
+
+d. *«burgemeester» en «voorzitter van de veiligheidsregio»:* gezaghebber;  
+
+e. *«gemeentelijke gezondheidsdienst»:* de in artikel 68c, eerste lid, bedoelde geneeskundige;  
+
+f. *«nota gemeentelijk gezondheidsbeleid»:* nota gezondheidsbeleid;  
+
+g. *«samenwerkingsverband van registerloodsen»:* een loods als bedoeld in [artikel 1, eerste lid, onder a, van de Loodsenwet 2001 BES](../../../../../wet-BES/loodsenwet/2001/bes/BWBR0028220/README.md);  
+
+h. *«lijk»:* een lijk als bedoeld in de [Begrafeniswet BES](../../../../../wet-BES/begrafeniswet/bes/BWBR0028363/README.md);  
+
+i. *«goed»:* tastbaar product, met inbegrip van planten en met uitzondering van dieren, vervoermiddelen en lijken als bedoeld in de [Begrafeniswet BES](../../../../../wet-BES/begrafeniswet/bes/BWBR0028363/README.md);  
+
+j. *«waar»:* waar alsmede eet- en drinkwaar als bedoeld in [artikel 1, onderdelen b en c, van de Warenwet BES](../../../../../wet-BES/warenwet/bes/BWBR0028619/README.md);  
+
+k. *«last onder bestuursdwang»:* bestuursdwang als bedoeld in artikel 58j, eerste lid;  
+
+l. *«burgerservicenummer»:* het nummer van een geldig identiteitsdocument als bedoeld in [artikel 2 van de Wet identificatieplicht BES](../../../../../wet-BES/wet/identificatieplicht/bes/BWBR0028575/README.md);  
+
+m. *«ziekenhuis»:* zorginstelling als bedoeld in [artikel 1, onder k, van de Wet zorginstellingen BES](../../../../../wet-BES/wet/zorginstellingen/bes/BWBR0028734/README.md);  
+
+n. *«verweerschrift als bedoeld in artikel 282, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering»:* een verweerschrift als bedoeld in [artikel 429h, vierde lid, van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md);  
+
+o. *«crisisplan, bedoeld in artikel 16 van de Wet veiligheidsregio’s»:* rampen- en crisisplan, bedoeld in [artikel 44 van de Veiligheidswet BES](../../../../../wet-BES/veiligheidswet/bes/BWBR0028586/README.md).    
+
+### Artikel  68b  
+
+De artikelen 8, derde lid, 14 tot en met 17, 64 en 65 zijn niet van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.  
+
+### Artikel  68c  
+
+1.  Ter uitvoering van de bij of krachtens deze wet opgedragen taken draagt het bestuurscollege er in ieder geval zorg voor dat het beschikt over ten minste één geneeskundige die is belast met de infectieziektebestrijding.   
+2.  Bij algemene maatregel van bestuur kunnen eisen worden gesteld met betrekking tot het opleidingsniveau of de deskundigheid van de geneeskundige, bedoeld in het eerste lid.   
+
+### Artikel  68d  
+
+Het bestuurscollege draagt zorg voor het aanbieden van vaccinaties uit en onder voorwaarden van het bij regeling van Onze Minister vast te stellen vaccinatieprogramma.  
+
+### Artikel  68e  
+
+1.  Ingeval er een gegrond vermoeden bestaat van besmetting van goederen kan de gezaghebber het brengen op het grondgebied van het openbaar lichaam van deze goederen verbieden, dan wel verbieden indien niet wordt voldaan aan bij beschikking op te leggen voorschriften. De gezaghebber heft de maatregel op als het gevaar is geweken.   
+2.  Indien een lijk is besmet met een infectueus of giftig agens of een infectueuze of giftige stof, of een gegrond vermoeden daarvoor bestaat, waardoor een ernstig gevaar voor de volksgezondheid kan ontstaan, kan de gezaghebber maatregelen treffen om dit gevaar af te wenden. Deze maatregelen bestaan uit het afnemen van bloed of andere vloeistoffen, het isoleren of het verbranden van het lijk.   
+
+### Artikel  68f  
+
+1.  Onze Minister kan, in overeenstemming met Onze Minister van Veiligheid en Justitie, een laboratorium aanwijzen voor het verrichten van onderzoek ten behoeve van de publieke gezondheid en justitie in de openbare lichamen Bonaire, Sint Eustatius en Saba.   
+2.  De volgende instanties kunnen een beroep doen op de organisatie, bedoeld in het eerste lid: de geneeskundige, bedoeld in artikel 68c, eerste lid, het Staatstoezicht voor de Volksgezondheid, het RIVM en het openbaar ministerie van Bonaire, Sint Eustatius en Saba.   
+3.  De aanwijzing wordt ingetrokken, indien de organisatie naar het gezamenlijk oordeel van Onze Minister en de Minister van Veiligheid en Justitie niet meer in staat blijkt te zijn het laboratoriumonderzoek naar behoren te vervullen dan wel een publiek belang dit vereist.   
+4.  De organisatie, bedoeld in het eerste lid, stelt jaarlijks vóór 1 juli een verslag op van zijn werkzaamheden, alsmede de doelmatigheid en doeltreffendheid van zijn werkzaamheden en werkwijze in het afgelopen jaar. Het verslag wordt aan Onze Minister gezonden.   
+5.  De werknemers van de organisatie, bedoeld in het eerste lid, zijn verplicht tot geheimhouding van hetgeen hun bij het verrichten van hun werkzaamheden bekend is geworden, behoudens voor zover enig wettelijk voorschrift hen tot bekendmaking verplicht of uit de uitvoering van de krachtens deze wet opgelegde taak de noodzaak tot bekendmaking voortvloeit.   
+
+### Artikel  68g  
+
+Bij regeling van Onze Minister kan aan de openbare lichamen Bonaire, Sint Eustatius en Saba een bijzondere uitkering worden verstrekt voor de uitvoering van de taken in deze wet, en kunnen regels worden gesteld over: 
+
+a. de vaststelling van de uitkering;  
+
+b. de aan de verlening van de uitkering verbonden verplichtingen;  
+
+c. de betaling en de terugvordering van de uitkering.    
+
+### Artikel  68h  
+
+1.  Wat betreft het bij of krachtens deze wet voor de openbare lichamen Bonaire, Sint Eustatius en Saba bepaalde zijn de ambtenaren van het Staatstoezicht op de Volksgezondheid belast met het uitoefenen van de in [artikel 36, eerste en tweede lid, van de Gezondheidswet](../../../../../wet/gezondheidswet/BWBR0002202/README.md) genoemde taken. Artikel 36, derde lid, van de Gezondheidswet is niet van toepassing.   
+2.  Met de opsporing van de bij of krachtens deze wet in de openbare lichamen Bonaire, Sint Eustatius en Saba strafbare gestelde feiten zijn, onverminderd [artikel 184 van het Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), belast de ambtenaren van het Staatstoezicht op de Volksgezondheid.   
+
+### Artikel  68i  
+
+Voor het toepassen van bestuursdwang in de openbare lichamen Bonaire, Sint Eustatius en Saba op grond van deze wet zijn de artikelen 68j en 68k van toepassing.  
+
+### Artikel  68j  
+
+1.  Bestuursdwang omvat het doen wegnemen, ontruimen, beletten, in de vorige toestand herstellen of verrichten van hetgeen in strijd met de desbetreffende bepalingen van deze landsverordening is of wordt gedaan, gehouden of nagelaten.   
+2.  Een beslissing tot het toepassen van bestuursdwang wordt op schrift gesteld en geldt als een beschikking. De beschikking vermeldt welk voorschrift is overtreden.   
+3.  De beschikking wordt bekendgemaakt aan de overtreder en andere belanghebbenden.   
+4.  In de beschikking wordt een termijn gesteld waarbinnen de overtreder en eventuele andere rechthebbenden de tenuitvoerlegging van bestuursdwang kunnen voorkomen door zelf de in de beschikking vermelde maatregelen te treffen. Geen termijn behoeft te worden gegund indien de vereiste spoed zich daartegen verzet.   
+5.  Indien de situatie dermate spoedeisend is dat de beslissing tot toepassing van bestuursdwang niet tevoren op schrift kan wordt gezet, wordt zo spoedig mogelijk alsnog voor de opschriftstelling en bekendmaking gezorgd.   
+
+### Artikel  68k  
+
+1.  De overtreder is de kosten verbonden aan de toepassing van bestuursdwang verschuldigd, tenzij de kosten redelijkerwijze niet of niet geheel te zijnen laste behoren te komen.   
+2.  De beschikking vermeldt dat de toepassing van bestuursdwang op kosten van de overtreder plaatsvindt.   
+3.  Indien de kosten echter geheel of gedeeltelijk niet ten laste van de overtreder zullen worden gebracht, wordt dat in de beschikking vermeld.   
+4.  Onder de kosten worden begrepen de kosten verbonden aan de voorbereiding van bestuursdwang, voor zover deze kosten zijn gemaakt na het tijdstip waarop de termijn bedoeld in artikel 68j, vierde lid, is verstreken.   
+5.  De kosten zijn ook verschuldigd indien de bestuursdwang door opheffing van de onrechtmatige situatie niet of niet volledig is uitgevoerd.   
+6.  Bij dwangbevel kan van de overtreder de verschuldigde kosten, verhoogd met de op de invordering vallende kosten, worden ingevorderd.   
+7.  Het dwangbevel wordt op kosten van de overtreder bij deurwaardersexploot betekend en levert een executoriale titel op in de zin van het [Wetboek van Burgerlijke Rechtsvordering BES](../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md).   
+8.  Gedurende zes weken na de dag van betekening staat verzet tegen het dwangbevel open door dagvaarding van het openbaar lichaam.   
+9.  Het verzet schorst de tenuitvoerlegging. Op verzoek van het openbaar lichaam kan het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba de schorsing van de tenuitvoerlegging opheffen.   
+10.  De kosten verbonden aan de toepassing van bestuursdwang zijn bevoorrecht op de zaak ten aanzien waarvan zij zijn besteed en worden na de kosten, bedoeld in [artikel 284 van het Burgerlijk Wetboek BES](../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md), uit de opbrengst van de zaak betaald.   
+
+### Artikel  68l  
+
+1.  Met een hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft degene die in strijd handelt met artikel 68e, eerste lid, of die het in artikel 68e, tweede lid, bedoelde lijk onttrekt aan een krachtens dat artikel genomen maatregel.   
+2.  Met een hechtenis van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft degene die verwijtbaar de geheimhoudingsplicht, bedoeld in artikel 68f, vijfde lid, schendt.   
+3.  Met een gevangenisstraf van ten hoogste twee jaar of geldboete van de vierde categorie wordt gestraft degene die opzettelijk de geheimhoudingsplicht, bedoeld in artikel 68f, vijfde lid, schendt.   
+4.  Geen vervolging wordt ingesteld anders dan op verzoek van degene te wiens aanzien de geheimhoudingsplicht, bedoeld in artikel 68f, vijfde lid, is geschonden.   
+5.  De in het eerste en tweede lid strafbaar gestelde feiten zijn overtredingen. Het in het derde lid strafbaar gestelde feit is een misdrijf.   
 
 ### Hoofdstuk  VIII  
 

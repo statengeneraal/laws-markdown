@@ -146,31 +146,14 @@ d. een gebruiker van het netwerk, die de in artikel 4, tweede lid, bedoelde beri
 1.  Het college van burgemeester en wethouders dat in het bezit is van een toestemming als bedoeld in artikel 7, draagt zorg dat de inrichting, de werking en de beveiliging van de basisadministratie voldoen aan de regels, bedoeld in artikel 6, eerste lid.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent het verschaffen van inlichtingen door het college van burgemeester en wethouders aan Onze Minister in verband met het aanbrengen van een verandering in de wijze van uitvoering van de regels, bedoeld in artikel 6, eerste lid.   
 
-### Artikel  11  
-
-1.  Onze Minister kan na het ingevolge artikel 6, tweede lid, bepaalde tijdstip een onderzoek verrichten naar de inrichting, de werking en de beveiliging van een basisadministratie.   
-2.  Onze Minister kan voor dit tijdstip een onderzoek verrichten naar de inrichting, de werking en de beveiliging van een basisadministratie, indien het college van burgemeester en wethouders in het bezit is van een toestemming als bedoeld in artikel 7.   
-3.  Artikel 9, tweede en derde lid, is van toepassing.   
-
-### Artikel  12  
-
-1.  Onze Minister kan het college van burgemeester en wethouders een aanwijzing geven in verband met de uitvoering van de in artikel 6, eerste lid, bedoelde regels indien: 
-
-a. het college van burgemeester en wethouders niet voor het tijdstip, bedoeld in artikel 8, een in dat artikel bedoeld verzoek heeft ingediend;  
-
-b. uit een onderzoek als bedoeld in artikel 9 blijkt, dat de inrichting, de werking of de beveiliging van de in dat artikel bedoelde voorzieningen, op de in het onderzoek opgenomen onderdelen niet voldoet aan de regels, bedoeld in artikel 6, eerste lid;  
-
-c. uit een onderzoek als bedoeld in artikel 11 blijkt, dat de inrichting, de werking of de beveiliging van de basisadministratie, op de in het onderzoek opgenomen onderdelen niet voldoet aan de regels, bedoeld in artikel 6, eerste lid.     
-2.  Het college van burgemeester en wethouders is verplicht binnen een door Onze Minister te stellen termijn aan de aanwijzing te voldoen.   
-
 ### Artikel  13  
 
 1.  In een regeling tot wijziging van de in artikel 6, eerste lid, bedoelde regels kan worden bepaald dat het college van burgemeester en wethouders slechts bevoegd is uitvoering te geven aan de gewijzigde regels met toestemming van Onze Minister.   
-2.  De artikelen 7, tweede lid, en 8 tot en met 12, zijn van overeenkomstige toepassing op een toestemming als bedoeld in het eerste lid.   
+2.  De artikelen 7, tweede lid, en 8 tot en met 10, zijn van overeenkomstige toepassing op een toestemming als bedoeld in het eerste lid.   
 3.  Een regeling tot wijziging van de in artikel 6, eerste lid, bedoelde regels waarin de in het eerste lid bedoelde bepaling is opgenomen, wordt niet vastgesteld dan nadat de betrokken gemeenten, afnemers en derden de mogelijkheid is geboden hun zienswijze omtrent het voorstel tot wijziging naar voren te brengen.   
 4.  In een regeling tot wijziging van de in artikel 6, eerste lid, bedoelde regels, wordt bepaald op welk tijdstip de voor de uitvoering van die regeling te treffen voorzieningen moeten zijn gerealiseerd en vanaf welk tijdstip die regeling moet worden uitgevoerd.   
 5.  Onze Minister kan na het ingevolge het vierde lid bepaalde tijdstip, onderzoek verrichten naar de getroffen voorzieningen.   
-6.  De artikelen 9, tweede en derde lid, en 12 zijn van overeenkomstige toepassing.   
+6.  De artikelen 9, tweede en derde lid, zijn van overeenkomstige toepassing.   
 
 ### Artikel  14  
 
@@ -883,9 +866,9 @@ Aan een derde wordt geen rechtstreekse toegang verleend tot de basisadministrati
 
 1.  Bij of krachtens algemene maatregel van bestuur kan een regeling worden getroffen omtrent de systematische verstrekking van algemene en verwijsgegevens aan: 
 
-a. pensioenfondsen, verzekeraars die overeenkomstig een wettelijke regeling betreffende pensioenvoorzieningen belast zijn met de uitvoering van pensioenregelingen, spaarfondsen en fondsen tot uitvoering van een regeling inzake vervroegd uittreden,  
+a. pensioenfondsen, premiepensioeninstellingen, verzekeraars die overeenkomstig een wettelijke regeling betreffende pensioenvoorzieningen belast zijn met de uitvoering van pensioenregelingen, spaarfondsen en fondsen tot uitvoering van een regeling inzake vervroegd uittreden,  
 
-b. kredietinstellingen, effecteninstellingen, verzekeraars en beleggingsinstellingen die aanspraken van gerechtigden op, al dan niet op termijn opvorderbare gelden, effecten of goederen op de instelling of verzekeraar moeten honoreren,  
+b. banken, effecteninstellingen, verzekeraars en beleggingsinstellingen die aanspraken van gerechtigden op, al dan niet op termijn opvorderbare gelden, effecten of goederen op de instelling of verzekeraar moeten honoreren,  
 
 c. zorgverzekeraars die overeenkomstig een wettelijke regeling zorgverzekeringen aanbieden en uitvoeren,    voor zover deze gegevens noodzakelijk zijn voor de vervulling van hun bovengenoemde taak en voor zover de verstrekking haar grond vindt in de uitvoering van een algemeen verbindend voorschrift dan wel in het verwerken van persoonsgegevens op een wijze die toelaatbaar is ingevolge de [Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md). De maatregel bepaalt welke fondsen, verzekeraars en instellingen voor de verstrekking in aanmerking komen. Artikel 88, tweede, derde en vierde lid, is van overeenkomstige toepassing.   
 2.  Bij of krachtens algemene maatregel van bestuur kan een regeling worden getroffen omtrent de systematische verstrekking van algemene en verwijsgegevens over de naam, de geslachtsnaam van de echtgenoot, de eerdere echtgenoot, de geregistreerde partner of de eerdere geregistreerde partner, het gebruik door de ingeschrevene van de geslachtsnaam van de echtgenoot, de eerdere echtgenoot, de geregistreerde partner of de eerdere geregistreerde partner, het adres, de gemeente van inschrijving, de geboortedatum, de datum van overlijden en het administratienummer aan één samenwerkingsverband van kerkgenootschappen of andere genootschappen op geestelijke grondslag, voor zover deze gegevens noodzakelijk zijn voor het verwerken van persoonsgegevens betreffende de tot de genootschappen behorende leden op een wijze die toelaatbaar is ingevolge de [Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md). De maatregel bepaalt welk samenwerkingsverband voor de verstrekking in aanmerking komt. Artikel 88, tweede en derde lid, is van overeenkomstige toepassing.   

@@ -18,13 +18,13 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 a.  *instelling:*  
 
-1°. kredietinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die ingevolge [artikel 107, tweede lid, onderdeel a, onder 1° tot en met 4° van die wet](../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) geregistreerd is;  
+1°. bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die ingevolge [artikel 107, tweede lid, onderdeel a, onder 1° tot en met 4° van die wet](../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) geregistreerd is;  
 
 2°. financiële instelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
-3°. onderneming, niet zijnde een kredietinstelling of financiële instelling, die werkzaamheden verricht die zijn opgenomen onder punt 14 van Bijlage I van richtlijn nr. 2006/48/EG van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2006 betreffende de toegang tot en de uitoefening van de werkzaamheden van kredietinstellingen (herschikking) (PbEU L 177);  
+3°. onderneming, niet zijnde een bank of financiële instelling, die werkzaamheden verricht die zijn opgenomen onder punt 14 van Bijlage I van richtlijn nr. 2006/48/EG van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2006 betreffende de toegang tot en de uitoefening van de werkzaamheden van kredietinstellingen (herschikking) (PbEU L 177);  
 
-4°. geldtransactiekantoor als bedoeld in [artikel 1 van de Wet inzake de geldtransactiekantoren](../../../../../../../../../../../wet/wet/inzake/de/geldtransactiekantoren/BWBR0013816/README.md), voor zover dit kantoor geldtransacties verricht als bedoeld in artikel 1, onderdeel c, onder 1° en 3°, van de Wet inzake de geldtransactiekantoren;  
+4°. wisselinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), voor zover deze wisseltransacties verricht als bedoeld in de onderdelen a en c van de definitie van het begrip wisseltransactie in dat artikel;  
 
 5°. levensverzekeraar als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met uitzondering van een levensverzekeraar die uitsluitend het bedrijf van natura-uitvaartverzekeraar als bedoeld in dat artikel uitoefent;  
 
@@ -82,7 +82,7 @@ e. *politiek prominente persoon:* een persoon als bedoeld in artikel 2, eerste l
 
 f.  *uiteindelijk belanghebbende:*  
 
-1°. natuurlijke persoon die een belang houdt van meer dan 25 procent van het kapitaalbelang of meer dan 25 procent van de stemrechten van de aandeelhoudersvergadering kan uitoefenen van een rechtspersoon anders dan een stichting, dan wel op andere wijze feitelijk zeggenschap kan uitoefenen in deze rechtspersoon, tenzij deze rechtspersoon een vennootschap is die is onderworpen aan openbaarmakingsvereisten als bedoeld in richtlijn nr. 2004/109 van het Europees Parlement en de Raad van de Europese Unie van 15 december 2004 betreffende de transparantievereisten die gelden voor informatie over uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten en tot wijziging van Richtlijn 2001/34/EG (PbEU L 390) of aan voorschriften van een internationale organisatie die gelijkwaardig zijn aan die richtlijn;  
+1°. natuurlijke persoon die een belang houdt van meer dan 25 procent van het kapitaalbelang of meer dan 25 procent van de stemmen kan uitoefenen in de algemene vergadering van een rechtspersoon anders dan een stichting, dan wel op andere wijze feitelijk zeggenschap kan uitoefenen in deze rechtspersoon, tenzij deze rechtspersoon een vennootschap is die is onderworpen aan openbaarmakingsvereisten als bedoeld in richtlijn nr. 2004/109 van het Europees Parlement en de Raad van de Europese Unie van 15 december 2004 betreffende de transparantievereisten die gelden voor informatie over uitgevende instellingen waarvan effecten tot de handel op een gereglementeerde markt zijn toegelaten en tot wijziging van Richtlijn 2001/34/EG (PbEU L 390) of aan voorschriften van een internationale organisatie die gelijkwaardig zijn aan die richtlijn;  
 
 2°. begunstigde van 25 procent of meer van het vermogen van een stichting of een trust als bedoeld in het Verdrag inzake het recht dat toepasselijk is op trusts en inzake de erkenning van trusts (Trb. 1985, 141) of degene die bijzondere zeggenschap heeft over 25 procent of meer van het vermogen van een stichting of een trust;    
 
@@ -114,7 +114,9 @@ p. *Uitvoeringsrichtlijn:*Richtlijn nr. 2006/70/EG van de Commissie van de Europ
 
 q. *meldpunt:* het Meldpunt ongebruikelijke transacties, bedoeld in artikel 12, eerste lid;  
 
-r. *bank:* een bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).     
+r. *bank:* een bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+
+s. *platform voor de veiling van emissierechten:* Platform voor de veiling van emissierechten als bedoeld in hoofdstuk VII van Verordening (EU) nr. 1031/2010 van de Europese Commissie van 12 november 2010 inzake de tijdstippen, het beheer en andere aspecten van de veiling van broeikasgasemissierechten overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap (PbEU L 302).     
 2.  Deze wet is niet van toepassing op belastingadviseurs als bedoeld in het eerste lid, onderdeel a, onder 11°, en de personen, bedoeld in het eerste lid, onderdeel a, onder 12° en 13°, voor zover zij voor een cliënt werkzaamheden verrichten betreffende de bepaling van diens rechtspositie, diens vertegenwoordiging en verdediging in rechte, het geven van advies voor, tijdens en na een rechtsgeding of het geven van advies over het instellen of vermijden van een rechtsgeding.   
 
 ### Artikel  2  
@@ -163,7 +165,7 @@ e. indien het risico van betrokkenheid van een bestaande cliënt bij witwassen o
 1.  Een instelling voldoet aan artikel 3, tweede lid, onderdelen a en b, voordat de zakelijke relatie wordt aangegaan of een incidentele transactie als bedoeld in artikel 3, derde lid, onderdeel b, wordt uitgevoerd.   
 2.  In afwijking van het eerste lid is het een instelling toegestaan de identiteit van de cliënt en, indien van toepassing, de identiteit van de uiteindelijk belanghebbende te verifiëren tijdens het aangaan van de zakelijke relatie, indien dit noodzakelijk is om de dienstverlening niet te verstoren en indien er weinig risico op witwassen of financieren van terrorisme bestaat. In dat geval verifieert de instelling de identiteit zo spoedig mogelijk na het eerste contact met de cliënt.   
 3.  In afwijking van het eerste en tweede lid is het een instelling als bedoeld in artikel 1, eerste lid, onderdeel a, onder 5°, toegestaan de begunstigde van een polis te identificeren en de identiteit te verifiëren nadat de zakelijke relatie is aangegaan. In dat geval vindt het identificeren en het verifiëren van de identiteit plaats op of voor het tijdstip van uitbetaling, dan wel op of voor het tijdstip waarop de begunstigde zijn rechten krachtens de polis wil uitoefenen.   
-4.  In afwijking van het eerste en tweede lid is het een kredietinstelling als bedoeld in artikel 1, eerste lid, onderdeel a, onder 1°, toegestaan een rekening te openen voordat de verificatie van de identiteit van de cliënt heeft plaatsgevonden, indien zij waarborgt dat deze rekening niet kan worden gebruikt voordat de verificatie heeft plaatsgevonden.   
+4.  In afwijking van het eerste en tweede lid is het een bank als bedoeld in artikel 1, eerste lid, onderdeel a, onder 1°, toegestaan een rekening te openen voordat de verificatie van de identiteit van de cliënt heeft plaatsgevonden, indien zij waarborgt dat deze rekening niet kan worden gebruikt voordat de verificatie heeft plaatsgevonden.   
 5.  In afwijking van het eerste en tweede lid kan een notaris of kandidaat-notaris als bedoeld in artikel 1, eerste lid, onderdeel a, onder 12°, de identiteit van de cliënt en, indien van toepassing, van de uiteindelijk belanghebbende verifiëren op het moment dat identificatie op grond van [artikel 39 van de Wet op het notarisambt](../../../../../../../../../../../wet/notariswet/BWBR0010388/README.md) is vereist.   
 
 ### Artikel  5  
@@ -215,11 +217,12 @@ b. producten met betrekking tot een pensioen als bedoeld in [artikel 1 van de Pe
 
 c. elektronisch geld als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), waarvan: 
 
-1°. indien de geldswaarde die is opgeslagen op de elektronische drager of die op afstand is opgeslagen in een centrale rekeningadministratie niet kan worden heropgeladen, het maximumbedrag niet meer dan € 150 bedraagt; of  
+1°. indien de geldswaarde die is opgeslagen op de elektronische drager of die op afstand is opgeslagen in een centrale rekeningadministratie niet kan worden heropgeladen, het maximumbedrag niet meer dan € 250 bedraagt; of  
 
 2°. indien de geldswaarde die is opgeslagen op de elektronische drager of die op afstand is opgeslagen in een centrale rekeningadministratie kan worden opgeladen, het totaalbedrag van de transacties die in een kalenderjaar kunnen worden verricht niet meer dan € 2.500 bedraagt, tenzij de houder een bedrag van € 1 000 of meer heeft laten terugbetalen in datzelfde kalenderjaar.       
 2.  Een instelling verzamelt voldoende gegevens om te kunnen vaststellen of het eerste lid op een product van toepassing is.   
 3.  Bij algemene maatregel van bestuur kunnen producten of transacties worden aangewezen waarop het eerste lid van overeenkomstige toepassing is.   
+4.  Voor nationale betalingstransacties wordt het in het eerste lid genoemde bedrag van € 250 verdubbeld.   
 
 ### §  2.3  
 
@@ -433,9 +436,10 @@ d. instellingen als bedoeld in artikel 1, eerste lid, onderdeel a, onder 1° tot
 1.  Bij besluit van Onze Minister van Financiën en Onze Minister van Justitie gezamenlijk kunnen personen worden aangewezen die belast zijn met het toezicht op de naleving door de instellingen van deze wet.   
 2.  De personen die op grond van het eerste lid belast zijn met het toezicht op de instellingen, bedoeld in artikel 1, eerste lid, onderdeel a, onder 10° tot en met 15°, kunnen het toezicht op een risicogeoriënteerde wijze uitoefenen.   
 3.  De Nederlandsche Bank N.V. is belast met het toezicht op de naleving van de Verordening nr. 2006/1781/EG van het Europees Parlement en de Raad betreffende bij geldovermakingen te voegen informatie over de betaler.   
-4.  Ten aanzien van personen die op grond van het eerste lid belast zijn met het toezicht op de naleving van de artikelen, genoemd in het eerste en derde lid, zijn de bepalingen van [hoofdstuk 5, afdeling 5.2, van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
-5.  Van een besluit tot aanwijzing op grond van het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
-6.  Bij ministeriële regeling kunnen banken die deel uitmaken van een groep banken die op 15 december 1977 blijvend was aangesloten bij een centrale kredietinstelling die controle uitoefent op de bedrijfsvoering en uitbesteding van die banken worden vrijgesteld van het toezicht door de Nederlandsche Bank N.V. op de naleving van deze wet, indien de centrale kredietinstelling toezicht houdt op die groep banken en in voldoende mate bevoegd is voor de naleving van deze wet noodzakelijke instructies te geven aan die banken. Aan deze vrijstelling kunnen beperkingen worden gesteld en voorschriften worden verbonden.   
+4.  De Stichting Autoriteit Financiële Markten is belast met het toezicht op de naleving van Verordening (EU) nr. 1031/2010 van de Europese Commissie van 12 november 2010 inzake de tijdstippen, het beheer en andere aspecten van de veiling van broeikasgasemissierechten overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap (PbEU L 302).   
+5.  Ten aanzien van personen die op grond van het eerste lid belast zijn met het toezicht op de naleving van de artikelen, genoemd in het eerste en derde lid, zijn de bepalingen van [hoofdstuk 5, afdeling 5.2, van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
+6.  Van een besluit tot aanwijzing op grond van het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
+7.  Bij ministeriële regeling kunnen banken die deel uitmaken van een groep banken die op 15 december 1977 blijvend was aangesloten bij een centrale kredietinstelling die controle uitoefent op de bedrijfsvoering en uitbesteding van die banken worden vrijgesteld van het toezicht door de Nederlandsche Bank N.V. op de naleving van deze wet, indien de centrale kredietinstelling toezicht houdt op die groep banken en in voldoende mate bevoegd is voor de naleving van deze wet noodzakelijke instructies te geven aan die banken. Aan deze vrijstelling kunnen beperkingen worden gesteld en voorschriften worden verbonden.   
 
 ### Artikel  25  
 
@@ -443,12 +447,12 @@ Indien de personen die met wettelijk toezicht op instellingen zijn belast bij de
 
 ### Artikel  26  
 
-1.  Onze Minister van Financiën kan een last onder dwangsom opleggen ter zake van overtreding van de artikelen 2, 3, eerste tot en met derde en zevende lid, 4, eerste lid, tweede lid, tweede volzin, derde lid, tweede volzin, en vierde lid, 5, eerste en derde lid, 6, tweede lid, 7, tweede lid, 8, 10, tweede lid, 11, 16, 17, tweede lid, 23 eerste en tweede lid, 33, 34 en 35 van deze wet, [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en het bepaalde in Verordening (EG) nr. 2006/1781 van het Europees Parlement en de Raad van de Europese Unie van 15 november 2006 betreffende bij geldovermakingen te voegen informatie over de betaler (PbEU L 345).   
+1.  Onze Minister van Financiën kan een last onder dwangsom opleggen ter zake van overtreding van de artikelen 2, 3, eerste tot en met derde en zevende lid, 4, eerste lid, tweede lid, tweede volzin, derde lid, tweede volzin, en vierde lid, 5, eerste en derde lid, 6, tweede lid, 7, tweede lid, 8, 10, tweede lid, 11, 16, 17, tweede lid, 23 eerste en tweede lid, 33, 34 en 35 van deze wet, [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), het bepaalde in Verordening (EG) nr. 2006/1781 van het Europees Parlement en de Raad van de Europese Unie van 15 november 2006 betreffende bij geldovermakingen te voegen informatie over de betaler (PbEU L 345) en het bepaalde in Verordening (EU) nr. 1031/2010 van de Europese Commissie van 12 november 2010 inzake de tijdstippen, het beheer en andere aspecten van de veiling van broeikasgasemissierechten overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap (PbEU L 302).   
 2.  Het eerste lid is niet van toepassing ten aanzien van degene die, in geval van bezwaren tegen diens handelen of nalaten in de beroepsuitoefening, onderworpen is aan bij wet geregelde tuchtrechtspraak.   
 
 ### Artikel  27  
 
-1.  Onze Minister van Financiën kan een bestuurlijke boete opleggen ter zake van overtreding van de artikelen 2, 3, eerste tot en met derde en zevende lid, 4, eerste lid, tweede lid, tweede volzin, derde lid, tweede volzin, en vierde lid, 5, eerste en derde lid, 6, tweede lid, 7, tweede lid, 8, 10, tweede lid, 11, 16, eerste en tweede lid, 17, tweede lid, 23, eerste en tweede lid, 33, 34, en 35 van deze wet, [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en het bepaalde in Verordening (EG) nr. 2006/1781 van het Europees Parlement en de Raad van de Europese Unie van 15 november 2006 betreffende bij geldovermakingen te voegen informatie over de betaler (PbEU L 345).   
+1.  Onze Minister van Financiën kan een bestuurlijke boete opleggen ter zake van overtreding van de artikelen 2, 3, eerste tot en met derde en zevende lid, 4, eerste lid, tweede lid, tweede volzin, derde lid, tweede volzin, en vierde lid, 5, eerste en derde lid, 6, tweede lid, 7, tweede lid, 8, 10, tweede lid, 11, 16, eerste en tweede lid, 17, tweede lid, 23, eerste en tweede lid, 33, 34, en 35 van deze wet, [artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), het bepaalde in Verordening (EG) nr. 2006/1781 van het Europees Parlement en de Raad van de Europese Unie van 15 november 2006 betreffende bij geldovermakingen te voegen informatie over de betaler (PbEU L 345) en het bepaalde in Verordening (EU) nr. 1031/2010 van de Europese Commissie van 12 november 2010 inzake de tijdstippen, het beheer en andere aspecten van de veiling van broeikasgasemissierechten overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap (PbEU L 302).   
 2.  Het eerste lid is niet van toepassing ten aanzien van degene die, in geval van bezwaren tegen diens handelen of nalaten in de beroepsuitoefening, onderworpen is aan bij wet geregelde tuchtrechtspraak.   
 
 ### Artikel  28  
@@ -574,6 +578,10 @@ Op bezwaar of beroep, ingesteld vóór het tijdstip van inwerkingtreding van dez
 ### Artikel  42  
 
 Een aanwijzing die is gegeven op grond van [artikel 17u van de Wet melding ongebruikelijke transacties](../../../../../../../../../../../wet/wet/melding/ongebruikelijke/transacties/BWBR0006331/README.md), wordt vanaf het tijdstip van inwerkingtreding van deze wet aangemerkt als een aanwijzing als bedoeld in artikel 32.  
+
+### Artikel  42a  
+
+De artikelen 19, 20, 22, 23 en 33 tot en met 35 zijn van overeenkomstige toepassing op een platform voor de veiling van emissierechten.  
 
 ### Artikel  43  
 

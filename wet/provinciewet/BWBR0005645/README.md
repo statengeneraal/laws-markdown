@@ -1229,12 +1229,48 @@ De bepalingen van provinciale verordeningen in wier onderwerp door een wet of ee
 
 ### Artikel  120  
 
-Wanneer provinciale staten of, indien aan een bestuurscommissie bevoegdheden van provinciale staten of van gedeputeerde staten zijn overgedragen, de commissie bij of krachtens een andere dan deze wet gevorderde beslissingen niet of niet naar behoren nemen, voorzien gedeputeerde staten daarin.  
+1.  Wanneer aan een bestuurscommissie bevoegdheden van provinciale staten zijn overgedragen en de commissie een bij of krachtens een andere dan deze wet gevorderde beslissing niet of niet naar behoren neemt, voorzien provinciale staten daarin.   
+2.  Wanneer aan een bestuurscommissie bevoegdheden van gedeputeerde staten zijn overgedragen en de commissie een bij of krachtens een andere dan deze wet gevorderde beslissing niet of niet naar behoren neemt, voorzien gedeputeerde staten daarin.   
 
 ### Artikel  121  
 
-1.  Wanneer gedeputeerde staten of de commissaris van de Koning bij of krachtens een andere dan deze wet gevorderde beslissingen niet of niet naar behoren nemen, voorziet Onze Minister daarin namens gedeputeerde staten of de commissaris van de Koning en ten laste van de provincie.   
-2.  Spoedeisende gevallen uitgezonderd, vindt het eerste lid geen toepassing dan nadat gedeputeerde staten, onderscheidenlijk de commissaris in de gelegenheid zijn gesteld binnen een door Onze Minister gestelde termijn alsnog de bij of krachtens een andere dan deze wet gevorderde beslissingen te nemen.   
+1.  Wanneer provinciale staten, gedeputeerde staten of de commissaris van de Koning een bij of krachtens een andere dan deze wet gevorderde beslissing niet of niet naar behoren nemen dan wel een bij of krachtens een andere dan deze wet gevorderde handeling niet of niet naar behoren verrichten, of anderszins een bij of krachtens een andere dan deze wet gevorderd resultaat niet, niet tijdig of niet naar behoren tot stand brengen, besluit Onze Minister wie het aangaat daarin namens provinciale staten, gedeputeerde staten of de commissaris van de Koning te voorzien ten laste van de provincie.   
+2.  Spoedeisende gevallen uitgezonderd, voert Onze Minister wie het aangaat het besluit tot indeplaatsstelling niet uit dan nadat een in het besluit genoemde termijn is verstreken, waarbinnen provinciale staten, gedeputeerde staten of de commissaris van de Koning de gelegenheid hebben alsnog zelf te voorzien in hetgeen het besluit vordert. Indien de situatie dermate spoedeisend is dat Onze Minister wie het aangaat de beslissing om over te gaan tot indeplaatsstelling niet tevoren op schrift kan stellen, zorgt hij alsnog zo spoedig mogelijk voor de opschriftstelling en voor de bekendmaking.   
+3.  Indien het besluit tot indeplaatsstelling een bij of krachtens een andere dan deze wet gevorderd resultaat betreft dat niet tijdig tot stand zal worden gebracht, geeft Onze Minister wie het aangaat in het besluit aan welke beslissingen, handelingen of resultaten moeten zijn genomen, verricht of tot stand gebracht binnen de in het tweede lid bedoelde termijn. Onze Minister wie het aangaat kan voor verschillende beslissingen, handelingen of resultaten een verschillende termijn stellen. Indien provinciale staten, gedeputeerde staten of de commissaris van de Koning niet binnen die termijn hebben voorzien in hetgeen het besluit van hen vordert, voorziet Onze Minister wie het aangaat verder in het tot stand brengen van het gevorderde resultaat.   
+4.  Van een besluit tot indeplaatsstelling, alsmede van het voornemen tot het nemen van een dergelijk besluit, wordt mededeling gedaan in een dag-, nieuws- of huis-aan-huisblad, dan wel op een andere geschikte wijze. Een afschrift van het besluit en van het voornemen wordt gezonden aan Onze Minister en provinciale staten.   
+5.  Indien meer dan één van Onze Ministers overwegen ten aanzien van dezelfde provincie in met elkaar samenhangende beslissingen, handelingen of resultaten toepassing te geven aan het eerste lid, kunnen zij hun bevoegdheden op grond van dit artikel aan een van hen overdragen.   
+
+### Artikel  121a  
+
+1.  Bij de uitvoering van het besluit tot indeplaatsstelling, beschikt Onze Minister wie het aangaat over de bevoegdheden waarover provinciale staten, gedeputeerde staten of de commissaris van de Koning bij of krachtens deze wet en de andere wet, bedoeld in artikel 121, eerste lid beschikken. In afwijking van artikel 176, eerste lid, vertegenwoordigt Onze Minister wie het aangaat de provincie zonodig in en buiten rechte.   
+2.  Voor zover het provinciebestuur, had hij de bevoegdheden, bedoeld in het eerste lid, zelf uitgeoefend, de kosten van de uitvoering in rekening kan brengen bij derden, heeft hij bij die derden verhaal voor de door Onze Minister wie het aangaat ten laste van de provincie gebrachte kosten. Het provinciebestuur kan het bedrag invorderen bij dwangbevel.   
+
+### Artikel  121b  
+
+Onze Minister wie het aangaat kan een besluit tot indeplaatsstelling intrekken, indien provinciale staten, gedeputeerde staten of de commissaris van de Koning voldoende aannemelijk maken dat zij zonder voorbehoud zullen voorzien in hetgeen het besluit van hen vordert.  
+
+### Artikel  121c  
+
+Onze Minister wie het aangaat kan ambtenaren aanwijzen ten behoeve van het toezicht op de uitvoering van de aan het provinciebestuur bij of krachtens andere wet dan deze opgedragen taken. Deze ambtenaren beschikken over de bevoegdheden van de [artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). De [artikelen 5:12](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.  
+
+### Artikel  121d  
+
+1.  Indien Onze Minister wie het aangaat bij de uitvoering van het besluit tot indeplaatsstelling namens provinciale staten, gedeputeerde staten of de commissaris van de Koning een besluit neemt, kan voor de toepassing van [artikel 7:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bezwaar worden gemaakt bij Onze Minister wie het aangaat. Onze Minister wie het aangaat beslist op het bezwaar.   
+2.  Onze Minister wie het aangaat is de verwerende partij inzake een beroep tegen een namens provinciale staten, gedeputeerde staten of de commissaris van de Koning genomen besluit als bedoeld in het eerste lid.   
+3.  Het provinciebestuur kan geen beroep instellen tegen een besluit als bedoeld in het eerste lid.   
+
+### Artikel  121e  
+
+1.  Het provinciebestuur werkt mee met de uitvoering van een besluit tot indeplaatsstelling. Onze Minister wie het aangaat kan ter zake van de uitvoering van het besluit aanwijzingen geven. Het provinciebestuur stelt op eerste vordering van Onze Minister wie het aangaat de voor de uitvoering van het besluit benodigde provincieambtenaren ter beschikking en verschaft op eerste vordering van Onze Minister wie het aangaat alle informatie die nodig is voor de uitvoering van het besluit tot indeplaatsstelling.   
+2.  Onze Minister wie het aangaat kan ambtenaren aanwijzen die ten behoeve van de uitvoering van een besluit tot indeplaatsstelling beschikken over de bevoegdheden van de [artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). De [artikelen 5:12](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing. Het provinciebestuur verschaft de aangewezen ambtenaren desgevraagd de faciliteiten die zij nodig hebben.   
+
+### Artikel  121f  
+
+Bij algemene maatregel van bestuur, op voordracht van Onze Minister, kunnen regels worden gesteld over de verstrekking van systematische informatie aan Onze Minister wie het aangaat, betreffende de uitvoering door het provinciebestuur van de andere wet, bedoeld in artikel 121, eerste lid. Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de toepassing.  
+
+### Artikel  121g  
+
+Provinciale staten en gedeputeerde staten kunnen, onderscheidenlijk de commissaris van de Koning kan tegen een tot hen onderscheidenlijk hem gericht besluit tot indeplaatsstelling beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State. [Artikel 7:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.  
 
 ### §  4  
 
@@ -1246,12 +1282,6 @@ Wanneer provinciale staten of, indien aan een bestuurscommissie bevoegdheden van
 2.  De bevoegdheid tot oplegging van een last onder bestuursdwang wordt uitgeoefend door gedeputeerde staten, indien de last dient tot handhaving van regels welke het provinciebestuur uitvoert.   
 3.  De bevoegdheid tot oplegging van een last onder bestuursdwang wordt uitgeoefend door de commissaris van de Koning, indien de last dient tot handhaving van regels welke hij uitvoert.   
 4.  Een bestuurscommissie waaraan bevoegdheden van provinciale staten of gedeputeerde staten zijn overgedragen, bezit de bevoegdheid tot oplegging van een last onder bestuursdwang en de bevoegdheid tot het geven van een machtiging tot binnentreden van een woning slechts indien ook die bevoegdheid uitdrukkelijk is overgedragen.   
-
-### Artikel  132  
-
-1.  In geval van toepassing van artikel 121 kan Onze Minister een last onder bestuursdwang opleggen namens het provinciebestuur en ten laste van de provincie.   
-2.  De provincie heeft in dat geval voor het bedrag van de te haren laste gebrachte kosten verhaal op de overtreder.   
-3.  [Artikel 5:26 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is alsdan van toepassing.   
 
 ### §  5  
 
@@ -1510,10 +1540,6 @@ c. het aangevallen besluit door het bevoegde overheidsorgaan is ingetrokken of g
 4.  Alvorens een uitspraak te doen op het verzet, stellen gedeputeerde staten onderscheidenlijk de kamer uit welke het lid van een enkelvoudige kamer is aangewezen, de indiener van het verzetschrift die daarom vroeg in de gelegenheid in een openbare vergadering te worden gehoord en de stukken die op zijn zaak betrekking hebben in te zien, tenzij zij van oordeel zijn dat het verzet gegrond is.   
 5.  Al hetgeen verder de indiening en de behandeling van, alsmede de uitspraak op het verzetschrift betreft wordt door provinciale staten nader geregeld in de verordening, bedoeld in artikel 168.   
 
-### Artikel  173  
-
-Indien een besluit van de raad of van burgemeester en wethouders van een gemeente in hun provincie naar het oordeel van gedeputeerde staten voor vernietiging in aanmerking komt, doen zij daarvan mededeling aan Onze Minister wie het aangaat.  
-
 ### Artikel  174  
 
 Gedeputeerde staten trachten alle geschillen tussen in hun provincie gevestigde gemeenten, waterschappen en lichamen, ingesteld bij gemeenschappelijke regeling, in der minne te doen bijleggen.  
@@ -1556,10 +1582,6 @@ b. zijn bevindingen over het eerste lid, onder c.
 ### Artikel  180  
 
 De artikelen 168 tot en met 170 zijn van overeenkomstige toepassing op de behandeling door de commissaris van administratieve geschillen, aan zijn beslissing onderworpen.  
-
-### Artikel  181  
-
-Indien een besluit van de burgemeester van een gemeente in zijn provincie naar het oordeel van de commissaris voor vernietiging in aanmerking komt, doet hij daarvan mededeling aan Onze Minister wie het aangaat.  
 
 ### Artikel  182  
 
@@ -1864,7 +1886,7 @@ Een belastingverordening vermeldt, in de daartoe leidende gevallen, de belasting
 ### Artikel  222  
 
 1.  Er kunnen provinciale opcenten op de hoofdsom van de motorrijtuigenbelasting worden geheven van de in de provincie wonende of gevestigde houders van personenauto’s en motorrijwielen, bedoeld in [artikel 2, onderdelen b en d](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), en [artikel 3 van de Wet op de motorrijtuigenbelasting 1994](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) en van degenen op wier naam een kenteken als bedoeld in [artikel 62 van die wet](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) is gesteld.   
-2.  Het aantal opcenten bedraagt voor de belastingtijdvakken die na 31 maart 1997 aanvangen ten hoogste 66,4.   
+2.  Het aantal opcenten bedraagt voor de belastingtijdvakken die na 31 december 2011 aanvangen ten hoogste 105.   
 3.  Voor de berekening van het aan opcenten verschuldigde bedrag wordt uitgegaan van het tarief van de [Wet op de motorrijtuigenbelasting 1994](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) zoals dat geldt op 1 april 1995, met dien verstande dat: 
 
 a. dit tarief voor motorrijwielen wordt vermenigvuldigd met het tarief zoals dat luidt op 1 april 2007 gedeeld door het tarief zoals dat luidde op 31 maart 2007;  
@@ -1873,21 +1895,21 @@ b. dit tarief voor motorrijtuigen, bedoeld in [artikel 30, eerste lid, onderdele
 
 c. dit tarief voor motorrijtuigen, bedoeld in [artikel 23a, tweede lid, van de Wet op de motorrijtuigenbelasting 1994](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), wordt gedeeld door twee; en  
 
-d. dit tarief voor motorrijtuigen, bedoeld in [artikel 23b van de Wet op de motorrijtuigenbelasting 1994](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), bedraagt nihil;  
+d. dit tarief voor motorrijtuigen, bedoeld in [artikel 23b van de Wet op de motorrijtuigenbelasting 1994](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), nihil bedraagt;  
 
 e. buiten beschouwing blijft de verhoging van de belasting, bedoeld in [artikel 23, tweede lid, van die wet](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md).     
-4.  Het in het tweede lid genoemde aantal opcenten wordt jaarlijks aangepast aan de hand van het vierjaarlijks voortschrijdend gemiddelde van de gerealiseerde nominale ontwikkeling van het nationaal inkomen. Onze Minister van Financiën bepaalt jaarlijks vóór 1 juli van enig jaar, in overeenstemming met Onze Minister, het aantal opcenten dat de provincies ten hoogste kunnen heffen in de periode die aanvangt op 1 april nadien. Dit aantal wordt naar boven afgerond op één decimaal.   
+4.  Vanaf 1 januari 2013 wordt bij het begin van het kalenderjaar het aantal opcenten, genoemd in het tweede lid, bij ministeriële regeling van Onze Minister van Financiën vervangen door een ander aantal. Dit aantal wordt berekend door het te vervangen aantal te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet op de inkomstenbelasting 2001](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en de uitkomst, indien deze twee of meer decimalen telt, af te ronden op één decimaal. Indien het aantal opcenten in het voorafgaande jaar is afgerond, wordt de tabelcorrectiefactor toegepast op het niet afgeronde bedrag van het voorgaande jaar.   
 5.  Het aantal opcenten is voor alle motorrijtuigen, bedoeld in het eerste lid, gelijk.   
 6.  Onze Minister van Financiën verstrekt de provinciale besturen jaarlijks vóór 1 september een naar soort, gewichtsklasse en aantal gespecificeerd overzicht van de motorrijtuigen, bedoeld in het eerste lid. Het overzicht wordt opgesteld naar de toestand per 1 juli van het lopende jaar.   
 
 ### Artikel  222a  
 
-1.  Besluiten tot het invoeren, wijzigen of afschaffen van provinciale opcenten op de hoofdsom van de motorrijtuigenbelasting treden in werking met ingang van 1 april van enig jaar. Een desbetreffend besluit wordt vóór 31 december van het voorafgaande jaar in afschrift ter kennis gebracht van Onze Minister van Financiën.   
-2.  Een in het eerste lid bedoeld besluit heeft geen gevolgen voor de opcenten die zijn betaald over een tijdvak dat vóór de datum van inwerkingtreding van dat besluit is aangevangen.   
-3.  Bij naheffing van belasting worden opcenten berekend volgens het hoogste aantal dat in enige provincie van toepassing was op de dag waarop de in de artikelen 33, 34, 35, 36, 52, 53, 69 en 76 van de Wet op de motorrijtuigenbelasting 1994 bedoelde feiten zijn geconstateerd.   
+1.  Besluiten tot het invoeren, wijzigen of afschaffen van provinciale opcenten op de hoofdsom van de motorrijtuigenbelasting treden in werking met ingang van 1 januari van enig jaar. Een desbetreffend besluit wordt vóór 1 december van het voorafgaande jaar in afschrift ter kennis gebracht van Onze Minister van Financiën.   
+2.  Een in het eerste lid bedoeld besluit heeft geen gevolgen voor de opcenten die verschuldigd zijn over een tijdvak dat vóór de datum van inwerkingtreding van dat besluit is aangevangen.   
+3.  Bij naheffing van belasting worden opcenten berekend volgens het hoogste aantal dat in enige provincie van toepassing was op de dag waarop de in de [artikelen 33](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [34](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [35](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [36](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), [69](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) en [76 van de Wet op de motorrijtuigenbelasting 1994](../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md) bedoelde feiten zijn geconstateerd.   
 4.  De houders van motorrijtuigen die niet hier te lande wonen of gevestigd zijn, maar die wel aan de heffing van motorrijtuigenbelasting zijn onderworpen, worden voor de heffing van opcenten geacht te wonen of te zijn gevestigd in een provincie die het hoogste aantal opcenten heft. In bijzondere gevallen kan Onze Minister van Financiën in overeenstemming met Onze Minister ook voor andere houders van motorrijtuigen een provincie aanwijzen waar deze houders worden geacht te wonen of te zijn gevestigd.   
 5.  De opbrengsten van de opcenten die worden geheven volgens het derde en vierde lid, worden naar evenredigheid van het aandeel van een provincie in de totale opbrengst van de ten behoeve van de provincies geheven opcenten over alle provincies verdeeld.   
-6.  Verandering van woonplaats of van plaats van vestiging van de houder van een motorrijtuig in de loop van het tijdvak waarover de motorrijtuigenbelasting is betaald, vormt geen aanleiding tot het heffen van opcenten over het nog niet verstreken gedeelte van het tijdvak door een andere provincie of tot het verlenen van teruggaaf van geheven opcenten.   
+6.  Verandering van woonplaats of van plaats van vestiging van de houder van een motorrijtuig in de loop van het tijdvak waarover de motorrijtuigenbelasting verschuldigd is, vormt geen aanleiding tot het heffen van opcenten over het nog niet verstreken gedeelte van het tijdvak door een andere provincie of tot het verlenen van teruggaaf van geheven opcenten.   
 
 ### Artikel  222c  
 
@@ -2132,6 +2154,10 @@ Bij of krachtens algemene maatregel van bestuur kunnen inzake provinciale belast
 1.  Een voordracht tot schorsing wordt gedaan door Onze Minister wie het aangaat.   
 2.  Over de voordracht pleegt Onze Minister wie het aangaat overleg met Onze Minister, tenzij schorsing onverwijld plaats dient te vinden. In de voordracht wordt het achterwege blijven van overleg gemotiveerd.   
 
+### Artikel  268  
+
+In het koninklijk besluit kan voor de duur van de schorsing een voorziening worden getroffen.  
+
 ### Artikel  270  
 
 Indien een bekend gemaakt besluit niet is vernietigd binnen de tijd waarvoor het is geschorst, wordt hiervan door het provinciebestuur openbaar kennis gegeven.  
@@ -2141,13 +2167,22 @@ Indien een bekend gemaakt besluit niet is vernietigd binnen de tijd waarvoor het
 1.  De voordracht tot vernietiging wordt gedaan door of mede door Onze Minister.   
 2.  [Artikel 17, derde lid, van de Wet op de Raad van State](../../../wet/wet/op/de/raad/van/state/BWBR0002367/README.md) is niet van toepassing.   
 
+### Artikel  271a  
+
+1.  In het koninklijk besluit kan een voorziening worden getroffen voor de periode tussen de inwerkingtreding en het tijdstip dat het op grond van artikel 274 genomen besluit in werking is getreden.   
+2.  Indien, gelet op het koninklijk besluit, het provinciebestuur bij de toepassing van artikel 274 niet over beleidsvrijheid beschikt, kan het koninklijk besluit bepalen dat het in de plaats treedt van het vernietigde besluit.   
+3.  In het koninklijk besluit kan worden bepaald dat ter zake van het vernietigde besluit geen nieuw besluit wordt genomen.   
+4.  In het koninklijk besluit kan het provinciebestuur een aanwijzing worden gegeven over de uitvoering van het koninklijk besluit. De artikelen 121 tot en met 121g zijn van overeenkomstige toepassing ingeval de aanwijzing niet wordt opgevolgd.   
+5.  Indien het koninklijk besluit betrekking heeft op de vernietiging van een algemeen verbindend voorschrift of een ander besluit van algemene strekking, kan worden bepaald dat de vernietiging tevens betrekking heeft op besluiten die zijn genomen op grond van of ter uitvoering van het algemeen verbindend voorschrift of het andere besluit van algemene strekking.   
+
 ### Artikel  272  
 
 Het koninklijk besluit tot schorsing, opheffing of verlenging van de schorsing of tot vernietiging wordt in het *Staatsblad* geplaatst.  
 
 ### Artikel  274  
 
-Het provinciebestuur neemt opnieuw een besluit omtrent het onderwerp van het vernietigde besluit, waarbij met het koninklijk besluit wordt rekening gehouden.  
+1.  Het provinciebestuur neemt opnieuw een besluit omtrent het onderwerp van het vernietigde besluit, waarbij met het koninklijk besluit wordt rekening gehouden, tenzij in het koninklijk besluit toepassing is gegeven aan artikel 271a, tweede of derde lid.   
+2.  In het koninklijk besluit kan een termijn worden gesteld waarbinnen toepassing wordt gegeven aan het eerste lid. De artikelen 121 tot en met 121g zijn van overeenkomstige toepassing ingeval niet binnen de termijn toepassing is gegeven aan het eerste lid.   
 
 ### Artikel  274a  
 

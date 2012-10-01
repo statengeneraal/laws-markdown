@@ -357,7 +357,7 @@ In afwijking van artikel 8 wordt, bij toepassing van [artikel 31c, tweede lid va
 
 ### Artikel  9  
 
-1.  De belasting bedraagt 19 percent.   
+1.  De belasting bedraagt 21 percent.   
 2.  In afwijking van het eerste lid bedraagt de belasting: 
 
 a. 6 percent voor leveringen van goederen en diensten, genoemd in de bij deze wet behorende tabel I;  
@@ -701,7 +701,7 @@ b. de bijkomende kosten, zoals kosten van commissie, verpakking, vervoer en verz
 
 ### Artikel  20  
 
-1.  De belasting bedraagt 19 percent.   
+1.  De belasting bedraagt 21 percent.   
 2.  In afwijking van het eerste lid bedraagt de belasting: 
 
 a. 6 percent voor de invoer van goederen, genoemd in de bij deze wet behorende tabel I, onderdeel *a*;  
@@ -867,9 +867,9 @@ b. diensten welke naar hun aard bijdragen tot de agrarische produktie en welke z
 
 c. leveringen van gebruikte bedrijfsmiddelen en andere in het bedrijf gebruikte goederen.     
 2.  De in het eerste lid bedoelde ondernemers zijn met betrekking tot de aldaar bedoelde prestaties ontheven van de verplichtingen, opgelegd bij of krachtens de artikelen 34 en 35. Zij hebben met betrekking tot die prestaties geen aanspraak op aftrek op de voet van artikel 15.   
-3.  Aan de in het eerste lid bedoelde ondernemers die goederen als aldaar bedoeld in onderdeel *a* leveren met toepassing van artikel 5 *a*, eerste lid, wordt op verzoek teruggaaf van belasting verleend, ingeval de levering leidt tot verschuldigdheid van belasting in de lid-staat van aankomst van het vervoer. De teruggaaf bedraagt 5,1 percent van het door de ondernemer in rekening gebrachte bedrag.   
-4.  Ondernemers aan wie de in het eerste lid bedoelde ondernemers goederen als aldaar zijn bedoeld in onderdeel *a*, leveren, of diensten als aldaar zijn bedoeld in onderdeel *b*, verlenen, kunnen 5,1 percent van het aan hen in rekening gebrachte bedrag op de voet van artikel 15 in aftrek brengen.   
-5.  Aan de in artikel 1 *a*, tweede lid, bedoelde ondernemers en rechtspersonen, andere dan ondernemers, die zijn gevestigd in een andere lid-staat, aan wie de in het eerste lid bedoelde ondernemers goederen als aldaar bedoeld in onderdeel *a* leveren, wordt op verzoek teruggaaf van belasting verleend, voor zover deze goederen in die andere lid-staat zijn onderworpen aan heffing van belasting ter zake van intracommunautaire verwerving van die goederen. De teruggaaf bedraagt 5,1 percent van het door de leverancier in rekening gebrachte bedrag.   
+3.  Aan de in het eerste lid bedoelde ondernemers die goederen als aldaar bedoeld in onderdeel *a* leveren met toepassing van artikel 5a, eerste lid, wordt op verzoek teruggaaf van belasting verleend, ingeval de levering leidt tot verschuldigdheid van belasting in de lid-staat van aankomst van het vervoer. De teruggaaf bedraagt 5,4 percent van het door de ondernemer in rekening gebrachte bedrag.   
+4.  Ondernemers aan wie de in het eerste lid bedoelde ondernemers goederen als aldaar zijn bedoeld in onderdeel *a*, leveren, of diensten als aldaar zijn bedoeld in onderdeel *b*, verlenen, kunnen 5,4 percent van het aan hen in rekening gebrachte bedrag op de voet van artikel 15 in aftrek brengen.   
+5.  Aan de in artikel 1a, tweede lid, bedoelde ondernemers en rechtspersonen, andere dan ondernemers, die zijn gevestigd in een andere lid-staat, aan wie de in het eerste lid bedoelde ondernemers goederen als aldaar bedoeld in onderdeel *a* leveren, wordt op verzoek teruggaaf van belasting verleend, voor zover deze goederen in die andere lid-staat zijn onderworpen aan heffing van belasting ter zake van intracommunautaire verwerving van die goederen. De teruggaaf bedraagt 5,4 percent van het door de leverancier in rekening gebrachte bedrag.   
 6.  De in het eerste lid bedoelde ondernemers kunnen aan de inspecteur verzoeken om het eerste en het tweede lid op hen niet van toepassing te doen zijn. Bij inwilliging van het verzoek geldt zulks tot wederopzegging door belanghebbende doch ten minste voor vijf jaren; alsdan zijn ook het derde, vierde en vijfde lid niet van toepassing. Een hernieuwd verzoek kan eerst vijf jaren na die wederopzegging worden ingewilligd. De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking.   
 7.  Artikel 25 is niet van toepassing op landbouwers, veehouders, tuinbouwers en bosbouwers, die prestaties verrichten als zijn bedoeld in het eerste lid.   
 8.  De voorgaande leden blijven buiten toepassing ten aanzien van veehouders, voor zover hun bedrijfsuitoefening niet samenhangt met de exploitatie van de bodem.   
@@ -881,7 +881,7 @@ c. leveringen van gebruikte bedrijfsmiddelen en andere in het bedrijf gebruikte 
 
 ### Artikel  28  
 
-De heffing van de belasting ter zake van de levering, de intracommunautaire verwerving en de invoer van tabaksprodukten als bedoeld in [artikel 29 van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) alsmede van pruimtabak en snuiftabak als bedoeld in de [artikelen 11](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md) en [12 van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md) geschiedt met overeenkomstige toepassing van de voor die accijns of die verbruiksbelasting geldende regelen, met dien verstande dat het tarief 19/119 deel bedraagt van de voor de berekening van de accijns of van die verbruiksbelasting in aanmerking komende kleinhandelsprijs. Die belasting komt niet voor aftrek als is bedoeld in artikel 15 in aanmerking.  
+De heffing van de belasting ter zake van de levering, de intracommunautaire verwerving en de invoer van tabaksprodukten als bedoeld in [artikel 29 van de Wet op de accijns](../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) alsmede van pruimtabak en snuiftabak als bedoeld in de [artikelen 11](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md) en [12 van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md) geschiedt met overeenkomstige toepassing van de voor die accijns of die verbruiksbelasting geldende regelen, met dien verstande dat het tarief 21/121 deel bedraagt van de voor de berekening van de accijns of van die verbruiksbelasting in aanmerking komende kleinhandelsprijs. Die belasting komt niet voor aftrek als is bedoeld in artikel 15 in aanmerking.  
 
 ### Artikel  28a  
 
@@ -908,13 +908,11 @@ e. een ondernemer of een wederverkoper uit een andere lid-staat, mits het een le
 
 ### Artikel  28c  
 
-1.  Op verzoek van de wederverkoper is artikel 28 *b*, eerste lid, van overeenkomstige toepassing op de leveringen van: 
+1.  Op verzoek van de wederverkoper is artikel 28b, eerste lid, van overeenkomstige toepassing op de leveringen van: 
 
-a. kunstvoorwerpen die hem zijn geleverd door de maker of diens rechthebbenden;  
+a. kunstvoorwerpen die hem zijn geleverd met toepassing van de bij deze wet behorende tabel I, onderdeel  *a*, post 29, onderdeel b;  
 
-b. kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten die hij zelf heeft ingevoerd, met dien verstande dat alsdan de winstmarge het verschil is tussen de vergoeding en de douanewaarde vermeerderd met de ter zake van de invoer in Nederland verschuldigde omzetbelasting;  
-
-c. kunstvoorwerpen die hem zijn geleverd door een andere ondernemer dan een wederverkoper, wanneer die levering aan het verlaagde tarief uit hoofde van artikel 103 van de BTW-richtlijn 2006 en de ter zake geldende wettelijke bepaling onderworpen is.     
+b. kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten die hij zelf heeft ingevoerd, met dien verstande dat alsdan de winstmarge het verschil is tussen de vergoeding en de douanewaarde vermeerderd met de ter zake van de invoer in Nederland verschuldigde omzetbelasting.     
 2.  De inspecteur beslist op het verzoek bij voor bezwaar vatbare beschikking. Bij inwilliging van het verzoek geldt zulks tot wederopzegging door belanghebbende doch ten minste voor twee kalenderjaren. Een hernieuwd verzoek kan eerst twee jaren na die wederopzegging worden ingewilligd.   
 
 ### Artikel  28d  
@@ -1720,9 +1718,9 @@ c. produkten die zijn bestemd om te worden aangewend als aanvulling op dan wel t
 3. pootgoed bestemd voor de teelt van groenten en fruit;  
 
 4. 
-a. rundvee, schapen, geiten, varkens en paarden;  
+a. rundvee, schapen, geiten en varkens;  
 
-b. andere dan de onder a vallende dieren die kennelijk zijn bestemd voor de voortbrenging of de produktie van de in post 1 bedoelde voedingsmiddelen, alsmede dieren die kennelijk zijn bestemd voor het fokken van die dieren;  
+b. andere dan de onder a vallende dieren die kennelijk zijn bestemd voor de voortbrenging of de productie van de in post 1 bedoelde voedingsmiddelen of die kennelijk zijn bestemd voor gebruik in de landbouw, alsmede dieren die kennelijk zijn bestemd voor het fokken van die dieren;  
 
 c. slachtafvallen van de onder a en b vallende dieren;  
 
@@ -1776,7 +1774,15 @@ d. goederen die kennelijk zijn bestemd voor de voortplanting van de onder a en b
 
 28. water;  
 
-29.  vervallen;   
+29. 
+
+a. kunstvoorwerpen, voorwerpen voor verzamelingen en antiquiteiten, voor zover deze worden ingevoerd;  
+
+b. kunstvoorwerpen voor zover deze worden geleverd door: 
+
+1°. de maker of diens rechtverkrijgende onder algemene titel; of  
+
+2°. een ondernemer, andere dan een wederverkoper, die ingevolge artikel 15, eerste lid, de belasting ter zake van zijn verkrijging volledig in aftrek brengt;      
 
 30. boeken, met inbegrip van alle andere dan papieren fysieke dragers waarop de inhoud van een boek is aangebracht; digitale educatieve informatie die is aangebracht op fysieke dragers en die kennelijk uitsluitend of nagenoeg uitsluitend is bestemd voor informatieoverdracht in het onderwijs; dagbladen, weekbladen, tijdschriften en andere tenminste driemaal per jaar periodiek verschijnende uitgaven;  
 
@@ -1868,7 +1874,7 @@ b. dierentuinen;
 
 c. openbare musea of verzamelingen, daaronder begrepen nauw daarmee samenhangende leveringen van goederen, zoals catalogi, foto’s en fotokopieën;  
 
-d.  vervallen;   
+d. muziekuitvoeringen en toneeluitvoeringen, daaronder begrepen opera's, operettes, dansen, pantomimes, revues, musicals en cabarets, alsmede lezingen, met uitzondering van peepshows en andere optredens die primair zijn gericht op erotisch vermaak;  
 
 e. bioscopen;  
 
@@ -1880,7 +1886,7 @@ g. attractieparken, speel- en siertuinen, en andere dergelijke primair en perman
 
 16. de oplevering van roerende zaken als bedoeld in onderdeel *a* door degene die de zaken heeft vervaardigd;  
 
-17.  vervallen;   
+17. het optreden door uitvoerende kunstenaars;  
 
 18. het vervoer van gas dat valt onder de toepassing van post a 32. Bij ministeriële regeling kunnen nadere regels worden gesteld inzake de toepassing van deze post;  
 

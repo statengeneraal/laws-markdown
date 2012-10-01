@@ -26,39 +26,49 @@ Commuun
 Ambtsdwang door geweld tegen goederen 
 ###Toepasselijk kader
 
-Commuun en verkeer 
+Aanwijzing Kader voor strafvordering 
 ###Basispunten
 
 10 punten 
+###Strafbeschikking
+
+Indien van toepassing: afhankelijk van beleid van het parket 
 ###Basisfactoren
 
 Geen 
 ###Delictspecifieke factoren
 
-*Medeplegen*   
+Medeplegen 
 
 | --- | --- |
 |:---|:---|
 | – Er is geen sprake van medeplegen  | +0 %  |
 | – Er is sprake van medeplegen  | +25%  |
 
-###In samenhang met een sportevenement
+In samenhang met een evenement 
 
 | --- | --- |
 |:---|:---|
-| – Geen sprake van samenhang met een sportevenement  | +0 %  |
-| – Er is sprake van samenhang met een sportevenement  | +25%  |
+| – Geen sprake van samenhang met een evenement  | +0 %  |
+| – Er is sprake van samenhang met een evenement  | +75%  |
+
+*Indien er sprake is van een voetbal gerelateerd delict tegen een ambtenaar of andere beroepsoefenaar tijdens een evenement, zal de strafverhoging van deze factor niet worden meegeteld; alsdan zijn alleen de verhogingspercentages genoemd bij de factoren ’slachtoffer kwalificeert de strafmaat’ en ‘in samenhang met een evenement’ van toepassing.*   Voetbal gerelateerde normschending 
+
+| --- | --- |
+|:---|:---|
+| - Er is geen sprake van een voetbal gerelateerde normschending  | +0 %  |
+| - Er is sprake van een voetbal gerelateerde normschending  | +50 %  |
 
 ###Wettelijke factoren
 
-*Medeplichtigheid*   
+Medeplichtigheid 
 
 | --- | --- |
 |:---|:---|
 | – Dader  | +0 %  |
 | – Medeplichtige  | -33 %  |
 
-###Poging
+Poging 
 
 | --- | --- |
 |:---|:---|
@@ -67,24 +77,35 @@ Geen
 
 ###Recidiveregeling
 
-Mate van recidive (5 jaar)  
+Mate van recidive (5 jaar) 
 
-| --- | --- |
-|:---|:---|
-| – Geen recidive  | +0 %  |
-| – 1 maal  | +10 %  |
-| – Meermalen  | +20 %  |
-| --- | +dagvaarden  |
+| --- | --- | --- |
+|:---|:---|:---|
+| – Geen recidive  | +0 %  | --- |
+| – 1 maal binnen 2 jaar  | +50 %  |  *(NH)*   |
+| – 1 maal binnen 2-5 jaar  | +50 %  | --- |
+| – Meermalen  | +100 %  |  *(DV, NH)*   |
 
+*(NH) + naast hogere sanctie*   *(DV) + dagvaarden*  
 ###Draagkracht
 
 Geen 
+###Maatwerk
+
+*Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr.*   Taakstrafverbod als bedoeld in art 22b lid 2 WvSr 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | +0 %  | --- |
+| - Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | +0 %  |  *(CKT)*   |
+
+*(CKT) + contra-indicatie kale taakstraf*  
 ###Speciale regelingen
 
-– Schaderegeling 
+Geen 
 ###Bijzonderheden
 
-Geen    
+Indien bij "ambtsdwang door geweld tegen goederen" sprake is van eendaadse samenloop met andere misdrijven verdient het in verband met [art. 55, lid 1 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) de voorkeur te vervolgen voor het zwaarste delict.    
 
 ####Basisdelict
 
@@ -94,81 +115,105 @@ Geen
 Ambtsdwang door geweld tegen personen 
 ###Toepasselijk kader
 
-Commuun en verkeer 
+Aanwijzing Kader voor strafvordering 
 ###Basispunten
 
 14 punten 
+###Strafbeschikking
+
+Indien van toepassing: afhankelijk van beleid van het parket 
 ###Basisfactoren
 
-Aard van het letsel  
+Aard van het letsel 
 
-| --- | --- |
-|:---|:---|
-| – Geen letsel  | 0 pt  |
-| – Licht letsel, zoals blauw oog, bloedneus, tand door de lip, lichte kneuzingen of lichte ontvellingen; letsel waarvoor in de regel geen medische hulp hoeft te worden ingeroepen.  | 3 pt  |
-| – Letsel voor de behandeling waarvan hulp van een eerstelijns arts dient te worden ingeroepen, zoals wonden waarvoor, uit cosmetisch oogpunt minder ernstige, hechtingen nodig zijn, een lichte hersenschudding, zwaardere kneuzingen of ontvellingen  | 8 pt  |
-| – Zwaarder letsel, voor de behandeling waarvan een medisch specialist nodig is. Letsel dat als regel niet wordt begrepen in [art. 82 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) zoals gebitsschade, gebroken neus, jukbeen of sleutelbeen, littekens in het gezicht of een zware hersenschudding  | 21 pt  |
-| – Zwaar lichamelijk letsel, zoals bedoeld in [art. 82 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | 35 pt  |
+| --- | --- | --- |
+|:---|:---|:---|
+| – Geen letsel  | 0 pt  | --- |
+| – Licht letsel, zoals blauw oog, bloedneus, tand door de lip, lichte kneuzingen of lichte ontvellingen; letsel waarvoor in de regel geen medische hulp hoeft te worden ingeroepen.  | 5 pt  |  *(CKT)*   |
+| – Letsel voor de behandeling waarvan hulp van een eerstelijns arts dient te worden ingeroepen, zoals wonden waarvoor, uit cosmetisch oogpunt minder ernstige, hechtingen nodig zijn, een lichte hersenschudding, zwaardere kneuzingen of ontvellingen  | 15 pt  |  *(CKT)*   |
+| – Zwaarder letsel, voor de behandeling waarvan een medisch specialist nodig is. Letsel dat als regel niet wordt begrepen in [art. 82 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) zoals gebitsschade, gebroken neus, jukbeen of sleutelbeen, littekens in het gezicht of een zware hersenschudding  | 30 pt  |  *(DV,CKT)*   |
+| – Zwaar lichamelijk letsel, zoals bedoeld in [art. 82 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). Ook buiten die gevallen kan lichamelijk letsel als zwaar worden beschouwd. Daarbij geldt het criterium dat het letsel voldoende belangrijk is om naar normaal spraakgebruik als zwaar te worden aangemerkt. Van belang zijn daarbij de aard van het letsel, de eventuele noodzaak en aard van medisch ingrijpen en het uitzicht op (volledig) herstel.  | 50 pt  |  *(DV,CKT)*   |
 
-###Gebruik van een wapen
+*(CKT) + contra-indicatie kale taakstraf*   *(DV) + dagvaarden*   Gebruik van een wapen 
 
-| --- | --- |
-|:---|:---|
-| – Geen wapen  | 0 pt  |
-| – Slag- of stootwapen of een als zodanig aan te merken voorwerp.  Overig voor bedreiging/mishandeling geschikt voorwerp/wapen.  | 7 pt  |
-| – Steekwapen, of een als zodanig aan te merken voorwerp  | 17 pt  |
-| – (Nep)vuurwapen, niet uitsluitend gebruikt als slag- of stootwapen  | 52 pt  |
+| --- | --- | --- |
+|:---|:---|:---|
+| – Geen wapen  | 0 pt  | --- |
+| – Slag- of stootwapen of een als zodanig aan te merken voorwerp.  Overig voor bedreiging/mishandeling geschikt voorwerp/wapen.  | 20 pt  | --- |
+| – Steekwapen, of een als zodanig aan te merken voorwerp  | 40 pt  | --- |
+| – (Nep)vuurwapen, niet uitsluitend gebruikt als slag- of stootwapen  | 60 pt  |  *(DV,GS)*   |
 
+*(DV) + dagvaarden*   *(GS) + in beginsel gevangenisstraf*  
 ###Delictspecifieke factoren
 
-Medeplegen  
+Medeplegen 
 
 | --- | --- |
 |:---|:---|
 | – Er is geen sprake van medeplegen  | +0 %  |
 | – Er is sprake van medeplegen  | +25%  |
 
-In samenhang met een sportevenement  
+In samenhang met een evenement 
 
 | --- | --- |
 |:---|:---|
-| – Geen sprake van samenhang met een sportevenement  | +0 %  |
-| – Er is sprake van samenhang met een sportevenement  | +25%  |
+| – Geen sprake van samenhang met een evenement  | +0 %  |
+| – Er is sprake van samenhang met een evenement  | +75%  |
+
+*Indien er sprake is van een voetbal gerelateerd delict tegen een ambtenaar of andere beroepsoefenaar tijdens een evenement, zal de strafverhoging van deze factor niet worden meegeteld; alsdan zijn alleen de verhogingspercentages genoemd bij de factoren ’slachtoffer kwalificeert de strafmaat’ en ‘in samenhang met een evenement’ van toepassing.*   Voetbal gerelateerde normschending 
+
+| --- | --- |
+|:---|:---|
+| - Er is geen sprake van een voetbal gerelateerde normschending  | +0 %  |
+| - Er is sprake van een voetbal gerelateerde normschending  | +50 %  |
 
 ###Wettelijke factoren
 
-Medeplichtigheid  
+Medeplichtigheid 
 
 | --- | --- |
 |:---|:---|
 | – Dader  | +0 %  |
 | – Medeplichtige  | -33 %  |
 
-Poging  
+Poging 
 
 | --- | --- |
 |:---|:---|
 | – Voltooid delict  | +0 %  |
 | – Poging tot plegen  | -33 %  |
 
-Recidiveregeling Mate van recidive (5 jaar)  
+###Recidiveregeling
 
-| --- | --- |
-|:---|:---|
-| – Geen recidive  | +0 %  |
-| – 1 maal  | +10 %  |
-| – Meermalen  | +20 %  |
-| --- | +dagvaarden  |
+Mate van recidive (5 jaar) 
 
+| --- | --- | --- |
+|:---|:---|:---|
+| – Geen recidive  | +0 %  | --- |
+| – 1 maal binnen 2 jaar  | +50 %  |  *(NH)*   |
+| – 1 maal binnen 2-5 jaar  | +50 %  | --- |
+| – Meermalen  | +100 %  |  *(DV, NH)*   |
+
+*(NH) + naast hogere sanctie*   *(DV) + dagvaarden*  
 ###Draagkracht
 
 Geen 
+###Maatwerk
+
+*Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr.*   Taakstrafverbod als bedoeld in art 22b lid 2 WvSr 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | +0 %  | --- |
+| - Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | +0 %  |  *(CKT)*   |
+
+*(CKT) + contra-indicatie kale taakstraf*  
 ###Speciale regelingen
 
-– Schaderegeling 
+Geen 
 ###Bijzonderheden
 
-Geen    
+Indien bij "ambtsdwang door geweld tegen personen" sprake is van eendaadse samenloop met andere misdrijven verdient het in verband met [art. 55, lid 1 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) de voorkeur te vervolgen voor het zwaarste delict.    
 
 ####Basisdelict
 
@@ -178,69 +223,92 @@ Geen
 Ambtsdwang door bedreiging met geweld 
 ###Toepasselijk kader
 
-Commuun en verkeer 
+Aanwijzing Kader voor strafvordering 
 ###Basispunten
 
 14 punten 
+###Strafbeschikking
+
+Indien van toepassing: afhankelijk van beleid van het parket 
 ###Basisfactoren
 
-Gebruik van een wapen  
+Gebruik van een wapen 
 
-| --- | --- |
-|:---|:---|
-| – Geen wapen  | 0 pt  |
-| –Slag- of stootwapen of een als zodanig aan te merken voorwerp  | --- |
-| Overig voor bedreiging/mishandeling geschikt voorwerp/wapen.  | 7 pt  |
-| – Steekwapen, of een als zodanig aan te merken voorwerp  | 17 pt  |
-| – (Nep)vuurwapen, niet uitsluitend gebruyikt als slag- of stootwapen  | 52 pt  |
+| --- | --- | --- |
+|:---|:---|:---|
+| – Geen wapen  | 0 pt  | --- |
+| –Slag- of stootwapen of een als zodanig aan te merken voorwerp  Overig voor bedreiging/mishandeling geschikt voorwerp/wapen.  | 20 pt  | --- |
+| – Steekwapen, of een als zodanig aan te merken voorwerp  | 40 pt  | --- |
+| – (Nep)vuurwapen, niet uitsluitend gebruikt als slag- of stootwapen  | 60 pt  |  *(DV,GS)*   |
 
+*(DV) + dagvaarden*   *(GS) + in beginsel gevangenisstraf*  
 ###Delictspecifieke factoren
 
-Medeplegen  
+Medeplegen 
 
 | --- | --- |
 |:---|:---|
 | – Er is geen sprake van medeplegen  | + 0%  |
 | – Er is sprake van medeplegen  | + 25%  |
 
-###In samenhang met een sportevenement
+In samenhang met een evenement  
 
 | --- | --- |
 |:---|:---|
-| – Geen sprake van samenhang met een sportevenement  | + 0%  |
-| – Er is sprake van samenhang met een sportevenement  | + 25%  |
+| – Geen sprake van samenhang met een evenement  | +0 %  |
+| – Er is sprake van samenhang met een evenement  | +75%  |
+
+*Indien er sprake is van een voetbal gerelateerd delict tegen een ambtenaar of andere beroepsoefenaar tijdens een evenement, zal de strafverhoging van deze factor niet worden meegeteld; alsdan zijn alleen de verhogingspercentages genoemd bij de factoren ’slachtoffer kwalificeert de strafmaat’ en ‘in samenhang met een evenement’ van toepassing.*   Voetbal gerelateerde normschending 
+
+| --- | --- |
+|:---|:---|
+| - Er is geen sprake van een voetbal gerelateerde normschending  | +0 %  |
+| - Er is sprake van een voetbal gerelateerde normschending  | +50 %  |
 
 ###Wettelijke factoren
 
-Medeplichtigheid  
+Medeplichtigheid 
 
 | --- | --- |
 |:---|:---|
 | – Dader  | + 0%  |
 | – Medeplichtige  | - 33%  |
 
-###Poging
+Poging 
 
 | --- | --- |
 |:---|:---|
 | – Voltooid delict  | + 0%  |
 | – Poging tot plegen  | - 33%  |
 
-Recidiveregeling Mate van recidive (5 jaar)  
+###Recidiveregeling
 
-| --- | --- |
-|:---|:---|
-| – Geen recidive  | +0 %  |
-| – 1 maal  | +10 %  |
-| – Meermalen  | +20 %  |
-| --- | +dagvaarden  |
+Mate van recidive (5 jaar) 
 
+| --- | --- | --- |
+|:---|:---|:---|
+| – Geen recidive  | +0 %  | --- |
+| – 1 maal binnen 2 jaar  | +50 %  |  *(NH)*   |
+| – 1 maal binnen 2-5 jaar  | +50 %  | --- |
+| – Meermalen  | +100 %  |  *(DV, NH)*   |
+
+*(NH) + naast hogere sanctie*   *(DV) + dagvaarden*  
 ###Draagkracht
 
 Geen 
+###Maatwerk
+
+*Indien sprake is van recidive volgens beoordelingsfactor 3.01.59 of beoordelingsfactor 3.04.04 dient bepaald te worden of het delict een contraindicatie voor een taakstraf heeft op grond van art 22b lid 2 WvSr.*   Taakstrafverbod als bedoeld in art 22b lid 2 WvSr 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| - Er is geen sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | +0 %  | --- |
+| - Er is sprake van een taakstrafverbod als bedoeld in [art 22b lid 2 WvSr](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)  | +0 %  |  *(CKT)*   |
+
+*(CKT) + contra-indicatie kale taakstraf*  
 ###Speciale regelingen
 
-– Schaderegeling 
+Geen 
 ###Bijzonderheden
 
-Geen     
+Indien bij "ambtsdwang door bedreiging met geweld" sprake is van eendaadse samenloop met andere misdrijven verdient het in verband met [art. 55, lid 1 WvSr.](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) de voorkeur te vervolgen voor het zwaarste delict.     

@@ -21,13 +21,12 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 ### Artikel  2  
 
-1.  In elke gemeente, waarin aan een gemeentelijke bank van leening genoegzame behoefte bestaat, wordt zoodanige bank opgericht.   
-2.  Gedeputeerde Staten zijn bevoegd, burgemeester en wethouders gehoord, om zoo zij oordeelen, dat een gemeente nalatig is in het nakomen van de in het vorige lid bedoelde verplichting, de oprichting te bevelen.   
+In elke gemeente, waarin aan een gemeentelijke bank van leening genoegzame behoefte bestaat, wordt zoodanige bank opgericht.  
 
 ### Artikel  3  
 
-1.  Een gemeentelijke bank van leening wordt opgericht en opgeheven bij besluit van burgemeester en wethouders. Een besluit tot opheffing van een gemeentelijke bank van leening wordt onderworpen aan de goedkeuring van Gedeputeerde Staten.   
-2.  Burgemeester en wethouders stellen een reglement vast voor de gemeentelijke bank van leening. Het reglement en wijzigingen daarvan worden onderworpen aan de goedkeuring van Gedeputeerde Staten.   
+1.  Een gemeentelijke bank van leening wordt opgericht en opgeheven bij besluit van burgemeester en wethouders.   
+2.  Burgemeester en wethouders stellen een reglement vast voor de gemeentelijke bank van leening.   
 
 ### Artikel  4  
 
@@ -97,7 +96,7 @@ Indien een pand door brand of diefstal verloren is gegaan, en de panden tegen br
 
 ### Artikel  11  
 
-1.  In geval van onbevoegdheid van de pandgever is [artikel 238 lid 1 van Boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) van toepassing, indien de bank te goeder trouw is op het tijdstip waarop de zaak in zijn macht is gebracht.   
+1.  In geval van onbevoegdheid van de pandgever is artikel 238 lid 1 van Boek 3 van het Burgerlijk Wetboek van toepassing, indien de bank te goeder trouw is op het tijdstip waarop de zaak in zijn macht is gebracht.   
 2.  Indien de bank op dat tijdstip niet te goeder trouw is of indien de zaak door diefstal is verloren, wordt de zaak, mits deze nog in de macht van de bank is, aan de eigenaar teruggegeven tegen betaling van de beleensom en van hetgeen ter zake van de belening is verschuldigd.   
 3.  Een zaak, die voor de aanneming tot pand met duidelijke omschrijving als door diefstal verloren bij de bank is aangegeven, wordt aan de eigenaar onvergolden teruggegeven, indien de afgifte binnen zes maanden na de aangifte wordt gevraagd en het pand nog in de macht van de bank is.   
 4.  Is het pand reeds verkocht op het tijdstip van de aanvraag, en is hetgeen de verkoopsom meer bedraagt dan de beleensom en hetgeen ter zake van de beleening verschuldigd is, nog niet aan den houder van het pandbewijs uitgekeerd, dan geschiedt de uitkeering aan den eigenaar.   
@@ -106,7 +105,7 @@ Indien een pand door brand of diefstal verloren is gegaan, en de panden tegen br
 ### Artikel  12  
 
 1.  Het pand strekt tot zekerheid uitsluitend van de schuld, voor welke het is verbonden en kan zonder toestemming van den pandgever niet strekken tot zekerheid van een andere schuld.   
-2.  Het pandbewijs geeft, behoudens in het geval, bedoeld in [art. 11](../../../../wet/overgangswet/w.v.o./BWBR0002595/README.md), recht de lossing van het pand te vorderen tegen betaling van de beleensom en hetgeen ter zake van de beleening verschuldigd is.   
+2.  Het pandbewijs geeft, behoudens in het geval, bedoeld in art. 11, recht de lossing van het pand te vorderen tegen betaling van de beleensom en hetgeen ter zake van de beleening verschuldigd is.   
 3.  Indien ter lossing van het pand volstaan wordt met de enkele afgifte van kwijting, blijft de bank gedurende zes maanden na de lossing van het pand tot het bedrag van de geschatte waarde voor het pand aansprakelijk jegens de rechtmatige houder van het pandbewijs.   
 
 ####Van particuliere banken van leening
@@ -227,7 +226,7 @@ Indien een pand door brand of diefstal verloren is gegaan, wordt hetgeen de krac
 
 ### Artikel  33  
 
-1.  In geval van onbevoegdheid van de pandgever is [artikel 238 lid 1 van Boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) van toepassing, indien de bank te goeder trouw is op het tijdstip waarop de zaak in zijn macht is gebracht.   
+1.  In geval van onbevoegdheid van de pandgever is artikel 238 lid 1 van Boek 3 van het Burgerlijk Wetboek van toepassing, indien de bank te goeder trouw is op het tijdstip waarop de zaak in zijn macht is gebracht.   
 2.  Indien de bank op dat tijdstip niet te goeder trouw is of indien de zaak door diefstal is verloren, wordt de zaak, mits deze nog in de macht van de bank is, aan de eigenaar teruggegeven tegen betaling van de beleensom en van hetgeen ter zake van de belening is verschuldigd.   
 3.  Een zaak, die voor de aanneming tot pand met duidelijke omschrijving als door diefstal verloren bij de bank is aangegeven, wordt aan de eigenaar onvergolden teruggegeven, indien de afgifte binnen zes maanden na de aangifte wordt gevraagd en het pand nog in de macht van de bank is.   
 4.  Is het pand reeds verkocht op het tijdstip van de aanvraag, en is hetgeen de verkoopsom meer bedraagt dan de beleensom en hetgeen ter zake van de beleening verschuldigd is, nog niet aan den houder van het pandbewijs uitgekeerd, dan geschiedt de uitkeering aan den eigenaar.   
@@ -261,7 +260,7 @@ d. de dagen en de uren, gedurende welke de inrichting geopend is.
 
 ### Artikel  37  
 
-1.  Burgemeester en wethouders kunnen onder goedkeuring van Gedeputeerde Staten bepalen: 
+1.  Burgemeester en wethouders kunnen bepalen: 
 
 a. eischen, waaraan localiteiten, waarin een bank van leening zal worden gehouden, moeten voldoen, alvorens de toelating, bedoeld in art. 13, kan worden verleend;  
 
@@ -274,7 +273,7 @@ d. uren gedurende welke de banken van leening gesloten moeten zijn;
 e. dat in de localiteiten of in het perceel, waarin een bank van leening gehouden wordt, zekere beroepen of bedrijven niet of niet zonder toestemming van Burgemeester en Wethouders uitgeoefend mogen worden of zekere bezigheden niet of niet zonder toestemming van Burgemeester en Wethouders mogen geschieden;  
 
 f. wat door den houder van een bank van leening moet worden gedaan ter wering van verspreiding van besmettelijke ziekten door panden.     
-2.  Een besluit, vastgesteld ingevolge het vorige lid, wordt na de goedkeuring door Gedeputeerde Staten ter openbare kennis gebracht en aan de houders van banken van leening medegedeeld. De houders van banken van leening zijn van den tweeden dag af na den dag der mededeeling gehouden tot naleving van een besluit als bedoeld onder letter *c* en *d* van het vorige lid; tot naleving van een besluit, als bedoeld onder letter *b*, *e* en *f* zijn zij gehouden van den dertigsten dag af na den dag der mededeeling.   
+2.  Een besluit, vastgesteld ingevolge het vorige lid, wordt ter openbare kennis gebracht en aan de houders van banken van leening medegedeeld. De houders van banken van leening zijn van den tweeden dag af na den dag der mededeeling gehouden tot naleving van een besluit als bedoeld onder letter *c* en *d* van het vorige lid; tot naleving van een besluit, als bedoeld onder letter *b*, *e* en *f* zijn zij gehouden van den dertigsten dag af na den dag der mededeeling.   
 
 ### Artikel  38  
 
@@ -374,7 +373,7 @@ De reglementen van de gemeentelijke banken van leening vervallen zes maanden na 
 
 ####Slotbepalingen
 
-1.  De bepalingen van de [afdelingen 1 en 2 van titel 9 van Boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en de bepalingen van de veertiende titel van Boek 7A van dat wetboek zijn op de banken van lening van toepassing, voor zover daarvan bij deze wet niet wordt afgeweken.   
+1.  De bepalingen van de afdelingen 1 en 2 van titel 9 van Boek 3 van het Burgerlijk Wetboek en de bepalingen van de veertiende titel van Boek 7A van dat wetboek zijn op de banken van lening van toepassing, voor zover daarvan bij deze wet niet wordt afgeweken.   
 2.  Ter zake van vorderingen op den pandnemer wordt geen beslag gelegd op panden.   
 3.  De wet van 16 Pluviôse an XII vervalt.   
 
@@ -384,7 +383,7 @@ De processen-verbaal van verkoop van panden worden gratis geregistreerd.
 
 ### Artikel  59  
 
-De feiten, bij de [artt. 48](../../../../wet/overgangswet/w.v.o./BWBR0002595/README.md), 49, 50 en 51 strafbaar gesteld, worden beschouwd als overtredingen.  
+De feiten, bij de artt. 48, 49, 50 en 51 strafbaar gesteld, worden beschouwd als overtredingen.  
 
 ### Artikel  60  
 

@@ -94,7 +94,7 @@ Onze Minister beslist op een aanvraag voor een vergunning.
 
 ### Artikel  5a  
 
-1.  De vervoerder die openbaar vervoer of besloten verricht, alsmede de bestuurder van een bus of auto waarmee openbaar vervoer of besloten wordt verricht, draagt er zorg voor dat in de bus of auto waarmee dat vervoer wordt verricht een geldig vergunningbewijs aanwezig is.   
+1.  De vervoerder die openbaar vervoer of besloten busvervoer verricht, alsmede de bestuurder van een bus of auto waarmee openbaar vervoer of besloten busvervoer wordt verricht, draagt er zorg voor dat in de bus of auto waarmee dat vervoer wordt verricht een geldig vergunningbewijs aanwezig is.   
 2.  Vergunningbewijzen kunnen op aanvraag door Onze Minister worden verstrekt aan de vergunninghouder.   
 
 ### Artikel  6  
@@ -187,6 +187,15 @@ b. de beperkingen waaronder een ontheffing is verleend en de aan een ontheffing 
 2.  Vervoerders die openbaar vervoer verrichten dragen op zodanige wijze financieel bij aan een door Onze Minister aan te wijzen exploitant van een reisinformatiesysteem met een landelijk bereik, dat daardoor de instandhouding van dat systeem is gewaarborgd.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de aard van gegevens als bedoeld in het eerste lid, de gevallen waarin Onze Minister een exploitant aanwijst, en over de wijze waarop aan het tweede lid toepassing wordt gegeven.   
 
+### Artikel  14a  
+
+1.  Het jaarlijks te publiceren overzichtsverslag, bedoeld in artikel 7, eerste lid, van verordening (EG) 1370/2007 is voor eenieder elektronisch toegankelijk.   
+2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot het in het eerste lid bedoelde overzichtsverslag.   
+
+### Artikel  14b  
+
+De concessieverleners, bedoeld in artikel 20, tweede en derde lid, verstrekken desgevraagd aan Onze Minister gegevens voor zover hij die nodig heeft om te kunnen voldoen aan een verzoek van de Commissie van de Europese Gemeenschappen als bedoeld in artikel 6, tweede lid, van verordening (EG) 1370/2007.  
+
 ### §  5  
 
 ####Taken van de raad van bestuur van de mededingingsautoriteit
@@ -215,7 +224,28 @@ Gegevens of inlichtingen omtrent een onderneming, die in verband met enige werkz
 
 1.  Het is verboden openbaar vervoer te verrichten zonder daartoe verleende concessie.   
 2.  Indien op grond van artikel 42 of  43 een concessie is opgehouden te bestaan, kan maximaal één jaar openbaar vervoer worden verricht zonder concessie volgens bij ministeriële regeling nader te stellen regels.   
-3.  Het eerste lid geldt niet ten aanzien van vervoer per trein verricht door internationale samenwerkingsverbanden als bedoeld in richtlijn 91/440/EEG van de Raad van de Europese Gemeenschappen van 29 juli 1991 betreffende de ontwikkeling van de spoorwegen in de Gemeenschap (PbEG L 237) voor zover de in artikel 10 van die richtlijn bedoelde diensten worden verricht.   
+3.  Het verbod, bedoeld in het eerste lid, geldt niet voor grensoverschrijdend personenvervoer per trein waarbij slechts een station in Nederland wordt aangedaan.   
+4.  Het verbod, bedoeld in het eerste lid, geldt niet voor grensoverschrijdend personenvervoer per trein indien daarvan overeenkomstig [artikel 57, tweede lid, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) melding is gemaakt en daarvoor geen aanvraag als bedoeld in artikel 19a, tweede lid, is gedaan.   
+5.  Het verbod, bedoeld in het eerste lid, geldt niet voor grensoverschrijdend personenvervoer per trein indien daarvoor een of meer aanvragen als bedoeld in artikel 19a, tweede lid, zijn gedaan en de raad van bestuur van de mededingingsautoriteit heeft vastgesteld dat: 
+
+a. het hoofddoel van het vervoer internationaal passagiersvervoer is of dat geen aanvraag het hoofddoel betreft, en  
+
+b. het vervoer van passagiers tussen stations in Nederland het economisch evenwicht van een of meer concessies van een spoorwegonderneming niet in gedrang brengt of dat geen aanvraag het economisch evenwicht betreft.     
+6.  Het verbod, bedoeld in het eerste lid, geldt niet voor grensoverschrijdend personenvervoer per trein indien daarvoor een of meer aanvragen als bedoeld in artikel 19a, tweede lid, zijn gedaan, en de raad van bestuur van de mededingingsautoriteit heeft vastgesteld dat: 
+
+a. het hoofddoel van dat vervoer internationaal passagiersvervoer is of dat geen aanvraag het hoofddoel betreft, en  
+
+b. het vervoer van passagiers tussen stations in Nederland het economisch evenwicht van een of meer concessies van een spoorwegonderneming in gedrang brengt.     
+7.  Het hoofddoel van grensoverschrijdend personenvervoer per trein is internationaal passagiersvervoer indien op basis van bij algemene maatregel van bestuur te stellen regels: 
+
+a. het internationale traject substantieel buiten Nederland is gelegen;  
+
+b. het hoofdzakelijk vervoer betreft van reizigers die de Nederlandse grens passeren, en  
+
+c. de omzet van het openbaar vervoer hoofdzakelijk afkomstig is van de reizigers, bedoeld in onderdeel b.     
+8.  Het economisch evenwicht van een of meer verleende concessies komt in het gedrang indien overeenkomstig bij algemene maatregel van bestuur te stellen regels het aantal reizigers of de omzet van een of meer betrokken concessiehouders in betekenisvolle mate afneemt.   
+9.  Het vierde tot en met achtste lid is van overeenkomstige toepassing op wijzigingen van het grensoverschrijdend personenvervoer per trein.   
+10.  De voordracht voor een krachtens het zevende of achtste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 
 ### Artikel  19a  
 
@@ -289,14 +319,13 @@ c. de concessie zowel openbaar vervoer per trein als ander openbaar vervoer omva
 1.  Een concessie bevat een omschrijving van het openbaar vervoer en van het gebied waarvoor de concessie is verleend alsmede de prijs die de concessiehouder betaalt voor de concessie.   
 2.  Een concessie kan tevens betrekking hebben op het verrichten van openbaar vervoer van en naar het gebied, bedoeld in het eerste lid, indien dit is overeengekomen met de concessieverleners die het betreft.   
 3.  In afwijking van het eerste lid bevat een concessie voor openbaar vervoer per trein, in plaats van een omschrijving van het gebied waarvoor de concessie is verleend, een omschrijving van de stations waartussen het openbaar vervoer wordt afgewikkeld.   
-4.  Bij de concessie en de daarbij behorende financiële afspraken wordt rekening gehouden met de voor de concessiehouder geldende gebruiksvergoeding, bedoeld in [artikel 62 van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md).   
+4.  De omschrijving, bedoeld in het derde lid, kan ook stations buiten Nederland betreffen, indien de eventueel daarvoor vereiste toestemming door de daartoe bevoegde autoriteit of autoriteiten in de desbetreffende andere lidstaat of lidstaten van de Europese Unie is gegeven.   
+5.  Bij de concessie en de daarbij behorende financiële afspraken wordt rekening gehouden met de voor de concessiehouder geldende gebruiksvergoeding, bedoeld in [artikel 62 van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md).   
 
 ### Artikel  26  
 
 1.  Voordat een concessie wordt verleend of gewijzigd, pleegt de concessieverlener, bedoeld in artikel 20, tweede en derde lid, overleg met de concessieverleners die bevoegd zijn tot het verlenen van concessies in aangrenzende gebieden. Het overleg voorziet in ieder geval in afspraken inzake de afstemming van het openbaar vervoer tussen aangrenzende concessiegebieden.   
 2.  Het eerste lid is van overeenkomstige toepassing op een concessie als bedoeld in artikel 25, tweede lid.   
-3.  Onze Minister kan, indien de in het eerste lid bedoelde afstemming onvoldoende gestalte krijgt, aan de betrokken concessieverleners een aanwijzing geven ter waarborging van die afstemming.   
-4.  Een aanwijzing als bedoeld in het derde lid wordt niet gegeven dan nadat overleg is gepleegd tussen Onze Minister en de betrokken concessieverleners.   
 
 ### Artikel  27  
 
@@ -316,10 +345,10 @@ De concessieverlener informeert ten minste eenmaal per jaar de consumentenorgani
 
 ### Artikel  29  
 
-1.  De concessieverlener kan een ontheffing verlenen van het verbod, bedoeld in artikel 19, aan een vervoerder die openbaar vervoer anders dan openbaar vervoer per trein, wil verrichten in een gebied waarvoor hem geen concessie is verleend.   
+1.  De concessieverlener kan een ontheffing verlenen van het verbod, bedoeld in artikel 19, eerste lid, aan een ieder, die openbaar vervoer anders dan per trein wil verrichten of die verzoekt om door een ander dan de desbetreffende concessiehouder openbaar vervoer anders dan per trein te laten verrichten in een gebied waarvoor aan de verzoeker geen concessie is verleend. De ontheffing, bedoeld in de vorige zin, kan niet worden verleend aan de concessiehouder van het gebied waarvoor openbaar vervoer anders dan per trein wordt verzocht.   
 2.  De concessieverlener kan de ontheffing wijzigen of intrekken.   
 3.  Een ontheffing wordt verleend voor een bepaalde tijd.   
-4.  Een ontheffing kan slechts worden geweigerd, indien naar het oordeel van de concessieverlener de vervoersvoorziening waarvoor een ontheffing is aangevraagd, een zodanige gelijkenis vertoont met openbaar vervoer waarvoor een concessie is verleend voor het gebied, bedoeld in het eerste lid, dat daarmee een onevenredige afbreuk wordt gedaan aan de exploitatie van die concessie.   
+4.  Een ontheffing wordt onverminderd het eerste lid, slechts geweigerd, indien naar het oordeel van de concessieverlener de vervoersvoorziening waarvoor een ontheffing is aangevraagd, een zodanige gelijkenis vertoont met openbaar vervoer waarvoor een concessie is verleend voor het gebied, bedoeld in het eerste lid, dat daarmee een onevenredige afbreuk wordt gedaan aan de exploitatie van die concessie.   
 5.  De concessieverlener kan de ontheffing onder beperkingen verlenen of aan de ontheffing voorschriften verbinden.   
 
 ### Artikel  29a  
@@ -345,6 +374,7 @@ Een besluit tot verlening of wijziging van een concessie zonder dat daartoe een 
 4.  Het advies, bedoeld in het eerste lid, wordt op een zodanig tijdstip gevraagd dat het van wezenlijke invloed kan zijn op de door de concessiehouder te nemen beslissing.   
 5.  Indien na het advies van de consumentenorganisaties een beslissing wordt genomen ten aanzien van de onderwerpen, bedoeld in het eerste lid, worden de consumentenorganisaties door de concessiehouder zo spoedig mogelijk, doch uiterlijk zes weken voor deze gevolg geeft aan de beslissing, schriftelijk hiervan in kennis gesteld. Indien het advies van de consumentenorganisaties niet of niet geheel is gevolgd, wordt aan de consumentenorganisaties tevens meegedeeld, waarom van dat advies is afgeweken en wordt hen de gelegenheid geboden nader te overleggen met de concessiehouder alvorens deze gevolg geeft aan de beslissing.   
 6.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de termijnen die bij de adviesprocedure en de overlegprocedure, bedoeld in dit artikel, in acht worden genomen.   
+7.  Indien een voorgenomen wijziging van een dienstregeling, het tarief en overige in de concessie geregelde onderwerpen door de concessieverlener is geïnitieerd, vraagt in afwijking van het eerste lid die concessieverlener advies aan de in dat lid bedoelde consumentenorganisaties. Het tweede tot en met het zesde lid zijn van overeenkomstige toepassing.   
 
 ### Artikel  32  
 
@@ -398,6 +428,11 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omt
 
 Een ieder die enig recht kan doen gelden op bij algemene maatregel van bestuur te bepalen infrastructuur met uitzondering van hoofdspoorweginfrastructuur als bedoeld in de [Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), waarover openbaar vervoer per trein plaatsvindt, is verplicht het gebruik daarvan door de concessiehouder redelijkerwijs te gedogen voorzover dit voor de goede uitvoering van de concessie nodig is.  
 
+### Artikel  35a  
+
+1.  De concessiehouder van een concessie voor openbaar vervoer per trein als bedoeld in artikel 20, eerste lid, stelt een vervoerplan op conform de in de hem verleende concessie vastgelegde voorschriften.   
+2.  Aan de concessie, bedoeld in het eerste lid, wordt een voorschrift verbonden ten aanzien van de duur van het vervoerplan.   
+
 ### §  4  
 
 ####Overgang, beëindiging en overdracht van een concessie
@@ -406,6 +441,11 @@ Een ieder die enig recht kan doen gelden op bij algemene maatregel van bestuur t
 
 1.  Voor de toepassing van deze paragraaf wordt onder overgang van een concessie verstaan: het geheel of gedeeltelijk eindigen van een concessie gevolgd door het ingaan van geheel of gedeeltelijk dezelfde concessie als gevolg van verlening van deze concessie aan een andere vervoerder.   
 2.  De artikelen 37 en 38 zijn van toepassing op de overgang van een concessie, tenzij iets anders voortvloeit uit een overeenkomst tussen de voormalige concessiehouder, de nieuwe concessiehouder en de belanghebbende verenigingen van werknemers als bedoeld in [artikel 3, vierde lid, van de Wet melding collectief ontslag](../../../../../wet/wet/melding/collectief/ontslag/BWBR0003026/README.md), welke overeenkomst is tot stand gekomen binnen een maand na het besluit tot verlening van een concessie als bedoeld in het eerste lid.   
+
+### Artikel  36a  
+
+1.  Bij een overgang van openbaar vervoer met een concessie naar een situatie als bedoeld in artikel 19, tweede lid, in samenhang met artikel 5, vijfde lid, van verordening(EG) 1370/2007, is geen sprake van een overgang van een concessie.   
+2.  Bij een overgang van openbaar vervoer zonder concessie als bedoeld in artikel 19, tweede lid, naar de situatie dat openbaar vervoer wordt verricht met een daartoe verleende concessie, zijn de artikelen 36 en 37 tot en met 40 van overeenkomstige toepassing.   
 
 ### Artikel  37  
 
@@ -435,6 +475,7 @@ b. gaan door de overgang van de concessie de rechten en verplichtingen welke op 
 1.  Op verzoek van de concessieverlener verstrekt de concessiehouder binnen de bij verzoek te bepalen termijn aan de concessieverlener ten behoeve van het programma van eisen een openbare schriftelijke opgave van de rechten en verplichtingen, bedoeld in artikel 38, met betrekking tot de ten behoeve van het verrichte openbaar vervoer werkzame personen, met inbegrip van een gemotiveerde toelichting van de wijze waarop de loonkosten zijn samengesteld, alsmede van de samenstelling en het aantal van het met toepassing van artikel 37, eerste lid, onderdelen a en b, voor overgang in aanmerking komend personeel.   
 2.  De in het eerste lid bedoelde opgave geschiedt naar de toestand op het tijdstip van de opgave en naar de te verwachten toestand op het tijdstip van het eindigen van de concessie. De opgave gaat vergezeld van een verklaring van één of meer onafhankelijke deskundigen, dat de opgave is opgesteld overeenkomstig het eerste lid.   
 3.  De in het tweede lid bedoelde deskundigen worden aangewezen door de concessieverlener en hun kosten komen voor rekening van de concessieverlener. De concessiehouder is verplicht aan de deskundigen alle door dezen gewenste inlichtingen te verstrekken.   
+4.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de gegevens die de in het eerste lid bedoelde opgave ten minste moet bevatten.   
 
 ### Artikel  40  
 
@@ -673,6 +714,66 @@ b. onverminderd artikel 3, eerste lid, de concessie betrekking heeft op openbaar
 2.  De rapportage is niet eerder openbaar dan nadat Onze Minister een besluit over de aanvraag heeft genomen.   
 3.  De rapportage wordt meegezonden met de beslissing op de aanvraag.   
 
+### §  4a  
+
+####Uitzonderingen op de aanbesteding van concessies
+
+### Artikel  63a  
+
+In afwijking van artikel 61, eerste lid, kan een concessieverlener voor openbaar vervoer, anders dan per trein, in een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) die de gemeente Amsterdam, ’s-Gravenhage, Rotterdam of Utrecht omvat, een concessie verlenen zonder dat daartoe een aanbesteding is gehouden indien deze concessie wordt verleend aan een vervoerder waarop de desbetreffende plusregio net als over haar eigen diensten zeggenschap uitoefent. Artikel 5, tweede lid, van verordening (EG) 1370/2007 is van toepassing.  
+
+### §  4b  
+
+####Bepalingen inzake reciprociteit, gescheiden boekhouding en prestatievergelijking
+
+### Artikel  63ab  
+
+1.  De raad van bestuur van de mededingingsautoriteit voert een prestatievergelijking uit van vervoerders aan wie op grond van artikel 63a een concessie is verleend, die betrekking heeft op de klantenservice, kostenefficiëntie en doelmatigheid van de vervoerders.   
+2.  Bij ministeriele regeling kunnen nadere regels worden gesteld ten behoeve van de onderlinge vergelijkbaarheid van de verschillende vervoerders en de frequentie van de prestatievergelijking.   
+
+### Artikel  63b  
+
+1.  Een vervoerder aan wie op grond van artikel 63a een concessie is verleend, doet niet mee aan de aanbesteding van: 
+
+a. concessies voor openbaar vervoer buiten de plusregio waar de concessie, bedoeld in de aanhef, verleend is;  
+
+b. concessies voor openbaar vervoer binnen de plusregio waar de concessie, bedoeld in de aanhef, verleend is indien de concessieverlener dit heeft uitgesloten als bedoeld in artikel 62, derde lid.  
+
+c. vervoer buiten het grondgebied van de plusregio waar de concessie verleend is waarop bij algemene maatregel van bestuur als bedoeld in artikel 2, tweede of vierde lid, dit artikel van toepassing is verklaard.     
+2.  In afwijking van het eerste lid mag een vervoerder aan wie op grond van artikel 63a een concessie is verleend, meedoen aan een aanbesteding indien wordt voldaan aan de voorwaarden, genoemd in artikel 5, tweede lid, onderdeel c, van verordening (EG) 1370/2007.   
+
+### Artikel  63c  
+
+1.  Een vervoerder aan wie op grond van artikel 63a een concessie is verleend, waarbij voor die concessie een subsidie als bedoeld in artikel 22 is verstrekt, en die in een groep als bedoeld in [artikel 24b van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) verbonden is met aanbieders van andere activiteiten dan dat openbaar vervoer, voert een gescheiden boekhouding voor het verrichten van het openbaar vervoer waarvoor die concessie is verleend ten opzichte van andere activiteiten die binnen die groep worden verricht.   
+2.  Een vervoerder aan wie op grond van artikel 63a een concessie is verleend, waarbij voor die concessie een subsidie als bedoeld in artikel 22 is verstrekt, en die niet in een groep als bedoeld in het eerste lid is verbonden, en wel tevens andere activiteiten verricht binnen een organisatie, voert voor het verrichten van openbaar vervoer waarvoor die concessie is verleend, een gescheiden administratie binnen de boekhouding, waarbinnen de kosten en opbrengsten van het verrichten van dat openbaar vervoer afzonderlijk worden geadministreerd.   
+3.  Een vervoerder aan wie anders dan op grond van artikel 63a een concessie voor openbaar vervoer is verleend zonder dat daartoe een aanbesteding is gehouden en waarbij voor die concessie een subsidie als bedoeld in artikel 22 is verstrekt, voert voor het verrichten van openbaar vervoer waarvoor die concessie is verleend, een gescheiden administratie binnen de boekhouding, waarbinnen de kosten en opbrengsten van het verrichten van het openbaar vervoer waarvoor subsidie is verstrekt afzonderlijk worden geadministreerd.   
+4.  De boekhouding en de administratie, bedoeld in het eerste tot en met het derde lid, zijn zodanig vorm gegeven dat: 
+
+a. de registratie van de lasten en baten van de verschillende activiteiten gescheiden zijn;  
+
+b. alle lasten en baten, op grond van consequent toegepaste en objectief te rechtvaardigen beginselen inzake kostprijsadministratie, correct worden toegerekend;  
+
+c. de beginselen inzake kostprijsadministratie volgens welke de administratie wordt gevoerd, duidelijk zijn vastgelegd.     
+5.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de boekhouding, de gescheiden administratie en de kostprijsadministratie, bedoeld in het eerste tot en met vierde lid.   
+6.  Een vervoerder als bedoeld in het eerste, tweede en derde lid, bewaart de in het vierde lid bedoelde gegevens gedurende vijf jaar, te rekenen vanaf het einde van het boekjaar waarop de gegevens betrekking hebben.   
+7.  Indien een vervoerder als bedoeld in het eerste of tweede lid, niet uit hoofde van een andere wettelijke verplichting een jaarrekening opstelt, stelt hij een daarmee overeenkomend financieel overzicht op en legt hij dat overzicht voor eenieder ter inzage op al zijn kantoren op een bij regeling van Onze Minister te bepalen tijdstip.   
+8.  Indien een vervoerder als bedoeld in het eerste of tweede lid, niet reeds uit hoofde van een andere wettelijke verplichting zijn jaarrekening openbaar maakt, legt hij zijn jaarrekening voor eenieder ter inzage op al zijn kantoren op een bij regeling van Onze Minister te bepalen tijdstip.   
+9.  Een vervoerder als bedoeld in het eerste en tweede lid laat jaarlijks over het voorgaande boekjaar een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) opstellen waaruit blijkt dat de financiële verhouding: 
+
+a. voldoet aan de in het eerste, tweede, vierde en vijfde lid gestelde eisen, en  
+
+b. tussen hem en de aanbieders van andere activiteiten voldoet aan in de in onderdeel 5 van de bijlage bij verordening (EG) 1370/2007 gestelde voorwaarden.   Deze verklaring ligt tegelijkertijd met de jaarrekening of het financieel overzicht voor eenieder ter inzage op alle kantoren van de vervoerder.   
+10.  Een vervoerder als bedoeld in het derde lid laat jaarlijks over het voorgaande boekjaar een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) opstellen waaruit blijkt dat de financiële verhouding ten opzichte van een concessie als bedoeld in dat lid: 
+
+a. voldoet aan de in het derde, vierde en vijfde lid gestelde eisen, en  
+
+b. voldoet aan de in onderdeel 5 van de bijlage bij verordening (EG) 1370/2007 gestelde voorwaarden.   Deze verklaring ligt voor eenieder ter inzage op alle kantoren van de vervoerder.   
+11.  Dit artikel is van overeenkomstige toepassing op een vervoerder 
+
+a. die op grond van de artikelen 3 of 19, tweede lid, openbaar vervoer verricht op een andere grondslag dan op grond van een concessie;  
+
+b. die vervoerder verricht waarop bij algemene maatregel van bestuur als bedoeld in artikel 2, tweede of vierde lid, dit artikel of leden daarvan, van toepassing is verklaard, zonder dat voor het in de onderdelen a of b bedoelde vervoer een aanbesteding is gehouden en waarbij voor dat vervoer een subsidie als bedoeld in artikel 22, eerste lid, is verstrekt.     
+
 ### §  5  
 
 ####Bijzondere bepalingen inzake door Onze Minister te verlenen concessies
@@ -693,8 +794,9 @@ c. de criteria voor het verlenen van een concessie.
 ### Artikel  65  
 
 1.  In deze paragraaf wordt verstaan onder het hoofdrailnet: de spoorvervoerdiensten die als zodanig bij koninklijk besluit zijn aangewezen.   
-2.  Onze Minister kan bepalen dat een door hem verleende concessie voor het hoofdrailnet geheel of voor een door Onze Minister daarbij te bepalen aanmerkelijk gedeelte door de concessiehouder zal worden uitgevoerd met gebruikmaking van een of meer door Onze Minister aan te wijzen rechtspersonen.   
-3.  Een in het eerste lid bedoeld koninklijk besluit wordt niet eerder vastgesteld dan vier weken nadat het ontwerp aan de Tweede Kamer der Staten-Generaal is overlegd.   
+2.  De krachtens het eerste lid aangewezen spoorvervoerdiensten kunnen met ingang van 1 januari 2015 mede de diensten met stations buiten Nederland betreffen, indien de eventueel daarvoor vereiste toestemming door de daartoe bevoegde autoriteit of autoriteiten in de desbetreffende andere lidstaat of lidstaten van de Europese Unie, is gegeven.   
+3.  Onze Minister kan bepalen dat een door hem verleende concessie voor het hoofdrailnet geheel of voor een door Onze Minister daarbij te bepalen aanmerkelijk gedeelte door de concessiehouder zal worden uitgevoerd met gebruikmaking van een of meer door Onze Minister aan te wijzen rechtspersonen.   
+4.  Een in het eerste lid bedoeld koninklijk besluit wordt niet eerder vastgesteld dan vier weken nadat het ontwerp aan de Tweede Kamer der Staten-Generaal is overlegd.   
 
 ### Artikel  66  
 
@@ -713,6 +815,11 @@ e. of Onze Minister voornemens is artikel 69b, tweede lid, toe te passen.
 3.  Voordat Onze Minister het beleidsvoornemen vaststelt, legt hij dit voornemen ter advisering voor aan de in artikel 27 bedoelde consumentenorganisaties. Artikel 27 is van overeenkomstige toepassing.   
 4.  Onze Minister legt het vastgestelde beleidsvoornemen voor aan de Tweede Kamer der Staten-Generaal. Indien binnen 30 dagen na deze voorlegging ten minste 30 leden te kennen geven nadere inlichtingen te willen ontvangen over de voorgenomen concessieverlening, zal de aanvang van procedure tot concessieverlening niet eerder plaatsvinden dan dat veertien dagen zijn verstreken na het verstrekken van die inlichtingen.   
 5.  Indien binnen 30 dagen na de voorlegging of binnen 14 dagen na de verstrekking van de inlichtingen, bedoeld in het vierde lid, de Kamer als haar oordeel uitspreekt dat de concessieverlening machtiging bij wet behoeft, wordt de concessie eerst verleend nadat die machtiging is verleend.   
+
+### Artikel  66a  
+
+1.  Voorafgaand aan de verlening van een concessie voor het hoofdrailnet, stelt Onze Minister een programma van eisen vast als bedoeld in artikel 44, tweede lid.   
+2.  Voordat Onze Minister het programma van eisen vaststelt, legt hij dit programma voor aan de Tweede Kamer der Staten-Generaal.   
 
 ### Artikel  67  
 
@@ -1050,6 +1157,10 @@ De reiziger die de leeftijd van veertien jaar nog niet heeft bereikt, is verplic
 2.  Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen en van verordening 1371/2007/EG.   
 3.  De raad van bestuur van de mededingingsautoriteit is bevoegd tot het opleggen van een last onder dwangsom ter handhaving van artikel 19a, vierde lid.   
 
+### Artikel  93a  
+
+Het dagelijks bestuur van een plusregio als bedoeld in artikel 20, tweede en derde lid, is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de verplichtingen gesteld bij of krachtens de artikelen 19, eerste en tweede lid, 29, 32, 34, 39, 46 en 63c, eerste, tweede en derde lid, met uitzondering van openbaar vervoer per trein waarvoor op grond van deze wet Onze Minister het bevoegde bestuursorgaan is, en elfde lid, voor zover de bevoegdheid tot handhaving niet op grond van artikel 94, eerste lid, aan de raad van bestuur van de mededingingsautoriteit is toegekend.  
+
 ### Artikel  94  
 
 1.  Ingeval van overtreding van artikel 69, eerste, vijfde en zevende lid, kan de raad van bestuur van de mededingingsautoriteit de rechtspersoon aan wie het gemeentelijk vervoerbedrijf toebehoort dan wel de desbetreffende concessiehouder, een last onder dwangsom opleggen.   
@@ -1066,14 +1177,21 @@ De reiziger die de leeftijd van veertien jaar nog niet heeft bereikt, is verplic
 1.  De raad van bestuur van de mededingingsautoriteit kan een last onder dwangsom wijzigen of intrekken.   
 2.  In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) stelt de raad van bestuur van de mededingingsautoriteit, alvorens toepassing te geven aan het eerste lid, belanghebbenden in de gelegenheid mondeling of schriftelijk hun zienswijze kenbaar te maken.   
 
+### Artikel  96a  
+
+1.  In geval van overtreding van artikel 63c, eerste, tweede, vierde, zesde tot en met tiende en elfde lid, onderdeel b, voor zover artikel 96a op dat vervoer bij algemene maatregel van bestuur als bedoeld in artikel 2, tweede of vierde lid, van toepassing is verklaard, en met uitzondering van openbaar vervoer per trein waarvoor op grond van deze wet Onze Minister het bevoegde bestuursorgaan is, kan de raad van bestuur van de mededingingsautoriteit een bestuurlijke boete opleggen van ten hoogste € 450 000,– of indien dat meer is, 1% van de netto-omzet van de overtreder in het boekjaar voorafgaande aan de beschikking.   
+2.  De berekening van de netto-omzet, bedoeld in het eerste lid, geschiedt op de voet van [artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+
 ### Artikel  97  
 
 Indien naar het oordeel van de in de artikelen 87 of  89 bedoelde ambtenaren en personen in onvoldoende mate medewerking wordt verleend bij de uitvoering van de hun opgedragen taak, treffen zij zo nodig met behulp van de sterke arm de nodige maatregelen.  
 
 ### Artikel  98  
 
-1.  Indien de reiziger handelt in strijd met de artikelen 70 tot en met 74 zijn de in de artikelen 87 en 89 bedoelde ambtenaren en personen bevoegd zijn vervoerbewijs in te trekken en hem zo nodig met behulp van de sterke arm het gebruik van het openbaar vervoer te ontzeggen.   
-2.  De in de artikelen 87 en 89 bedoelde ambtenaren en personen zijn bevoegd bij vermoeden van een ten aanzien van handbagage gepleegde overtreding van het in artikel 72 bepaalde, zich in tegenwoordigheid van de reiziger van aard en inhoud daarvan te overtuigen en onbevoegd meegenomen handbagage uit de vervoermiddelen te weren of verwijderen.   
+1.  Indien de reiziger handelt in strijd met de artikelen 70 tot en met 74 zijn de in de artikelen 87 en 89 bedoelde ambtenaren en personen bevoegd zijn vervoerbewijs in te trekken en hem zo nodig met behulp van de sterke arm het gebruik van het gehele openbaar vervoer te ontzeggen.   
+2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de duur van een ontzegging als bedoeld in het eerste lid.   
+3.  Het is verboden in strijd te handelen met een op grond van het eerste lid opgelegde ontzegging.   
+4.  De in de artikelen 87 en 89 bedoelde ambtenaren en personen zijn bevoegd bij vermoeden van een ten aanzien van handbagage gepleegde overtreding van het in artikel 72 bepaalde, zich in tegenwoordigheid van de reiziger van aard en inhoud daarvan te overtuigen en onbevoegd meegenomen handbagage uit de vervoermiddelen te weren of verwijderen.   
 
 ### Artikel  99  
 
@@ -1093,7 +1211,7 @@ c. in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevord
 
 ### Artikel  101  
 
-1.  Niet naleving van de artikelen 70 tot en met 73, alsmede – voor zover aangeduid als strafbare feiten – het bepaalde krachtens artikel 74, tweede lid, is een overtreding en wordt gestraft met een hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie.   
+1.  Niet naleving van de artikelen 70 tot en met 73 en 98, derde lid, alsmede – voor zover aangeduid als strafbare feiten – het bepaalde krachtens artikel 74, tweede lid, is een overtreding en wordt gestraft met een hechtenis van ten hoogste twee maanden of een geldboete van de tweede categorie.   
 2.  Indien de reiziger ten aanzien van wie door een ambtenaar of persoon, bedoeld in de artikelen 87 en 89, is vastgesteld dat hij in strijd handelt met de artikelen 70 of  71, niet voldoet aan de verplichting, bedoeld in artikel 92, worden de in het eerste lid bedoelde straffen verhoogd tot een hechtenis van ten hoogste vier maanden, onderscheidenlijk een geldboete van de derde categorie.   
 
 ### Artikel  102  
@@ -1130,7 +1248,7 @@ e. de vergoedingen die zijn verschuldigd voor de met de ingevolge de onderdelen 
 ### Artikel  105  
 
 1.  Tegen een op grond van deze wet genomen besluit kan een belanghebbende beroep instellen bij het College van Beroep voor het bedrijfsleven.   
-2.  In afwijking van het eerste lid is voor beroepen tegen besluiten op grond van de artikelen 56, eerste lid, 59, eerste lid, 94, eerste lid, en 96, eerste lid, de rechtbank te Rotterdam bevoegd.   
+2.  In afwijking van het eerste lid is voor beroepen tegen besluiten op grond van de artikelen 19a, tweede, vijfde en zevende lid, 56, eerste lid, 59, eerste lid, 94, eerste lid en 96, eerste lid, de rechtbank te Rotterdam bevoegd.   
 
 ### Artikel  106  
 
@@ -1230,6 +1348,38 @@ Keuringsbewijzen, duplicaten van keuringsbewijzen en andere bewijzen die zijn af
 ### Artikel  124  
 
 In afwijking van artikel 123 wordt een bezwaar- of beroepschrift, gericht tegen een besluit omtrent het verrichten van taxivervoer, dat op of na 1 januari 2000 op grond van de Wet personenvervoer is ingediend en voor zover daarop bij de inwerkingtreding van artikel 127 nog niet is beslist, afgehandeld volgens deze wet.  
+
+### Artikel  124a  
+
+In de artikelen 124b tot en met 124e wordt verstaan onder: 
+
+*een gemeentelijk vervoerbedrijf:* een vervoerbedrijf in de zin van artikel 69, eerste of zevende lid, zoals dat artikel luidde voor de inwerkingtreding van de [Wet aanbestedingsvrijheid OV grote steden](../../../../../wet/wet/aanbestedingsvrijheid/ov/grote/steden/BWBR0032225/README.md).    
+
+### Artikel  124ab  
+
+Een ontheffing die voor de datum van inwerkingtreding van de [Wet aanbestedingsvrijheid OV grote steden](../../../../../wet/wet/aanbestedingsvrijheid/ov/grote/steden/BWBR0032225/README.md) is verleend, op grond van artikel 24, tweede lid, of artikel 61, tweede lid, zoals die artikelen luidden voor de inwerkingtreding van genoemde wet, blijft van kracht voor de duur waarvoor deze ontheffing is verleend, onverminderd mogelijke wijziging, intrekking of het van rechtswege vervallen.  
+
+### Artikel  124b  
+
+Een concessie die voor de inwerkingtreding van de [Wet aanbestedingsvrijheid OV grote steden](../../../../../wet/wet/aanbestedingsvrijheid/ov/grote/steden/BWBR0032225/README.md) aan een gemeentelijk vervoerbedrijf is verleend, blijft na de inwerkingtreding van die wet van kracht tot uiterlijk 31 december 2019, tenzij er reeds sprake is van een vervoerder aan wie op grond van artikel 63a een concessie is verleend.  
+
+### Artikel  124c  
+
+Nadat een concessieverlener als bedoeld in artikel 63a besluit dat een aan het desbetreffende gemeentelijk vervoerbedrijf verleende concessie voor het openbaar vervoer per bus wordt verleend nadat daarvoor een aanbesteding is gehouden, mag dat vervoerbedrijf meedingen naar een concessie voor openbaar vervoer die wordt verleend door middel van een aanbesteding en wordt dat vervoerbedrijf om reden van dat besluit niet uitgesloten van deelname aan aanbestedingen.  
+
+### Artikel  124d  
+
+1.  Op een gemeentelijk vervoerbedrijf is artikel 69, eerste, tweede, derde, en vijfde lid, zoals dat luidde voor de inwerkingtreding van de [Wet aanbestedingsvrijheid OV grote steden](../../../../../wet/wet/aanbestedingsvrijheid/ov/grote/steden/BWBR0032225/README.md) van toepassing.   
+2.  Met het toezicht op de naleving van het eerste lid, zijn belast de bij besluit van de raad van bestuur van de mededingingsautoriteit aangewezen ambtenaren van de Nederlandse Mededingingsautoriteit.   
+3.  De artikelen 94 tot en met 96a zijn van overeenkomstige toepassing in geval van niet naleving van de in het eerste lid bedoelde eisen.   
+
+### Artikel  124e  
+
+Artikel 38, tweede en derde lid, is van overeenkomstige toepassing indien een concessie is verleend aan een gemeentelijk vervoerbedrijf en deze concessie geheel of gedeeltelijk eindigt als gevolg van verlening van die concessie aan een andere vervoerder.  
+
+### Artikel  124f  
+
+De artikelen 124a tot en met 124f vervallen met ingang van 31 december 2019.  
 
 ### §  3  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J.F. Hoogervorst, mede namens Onze Minister van Volksgezondheid, Welzijn en Sport van 4 juli 2001, kenmerk AV/RV/2001/40324;
 
-Gelet op de [artikelen 9](../../../../wet/wet/op/de/medische/keuringen/BWBR0008819/README.md) en [14, tweede lid, van de Wet op de medische keuringen](../../../../wet/wet/op/de/medische/keuringen/BWBR0008819/README.md);
+Gelet op de artikelen 9 en 14, tweede lid, van de Wet op de medische keuringen;
 
 De Raad van State gehoord (advies van 3 augustus 2001, nr. W12.01.0306/IV);
 
@@ -20,19 +20,19 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder 
+####Begripsbepaling
 
-a. arbodienst: de arbodienst, bedoeld in de [Arbeidsomstandighedenwet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md);  
+In dit besluit wordt verstaan onder: 
 
-b. deskundige persoon: een persoon als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) die belast is met de taken, bedoeld in [artikel 14, eerste lid, onderdeel c, van die wet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md);  
+a. *wet:* de Wet op de medische keuringen;  
 
-c. wet: de [Wet op de medische keuringen](../../../../wet/wet/op/de/medische/keuringen/BWBR0008819/README.md).    
+b. *bedrijfsarts:* een arts die als bedrijfsarts is ingeschreven in een erkend specialistenregister als bedoeld in artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg.    
 
 ####Toepasselijkheid
 
 ### Artikel  2  
 
-Dit besluit is van toepassing op een keuring als bedoeld in [artikel 1, onderdeel a, onder 1° en 2°, van de wet](../../../../wet/wet/op/de/medische/keuringen/BWBR0008819/README.md).  
+Dit besluit is van toepassing op een keuring als bedoeld in artikel 1, onderdeel a, onder 1° en 2°, van de wet.  
 
 ### §  2  
 
@@ -40,8 +40,9 @@ Dit besluit is van toepassing op een keuring als bedoeld in [artikel 1, onderdee
 
 ### Artikel  3  
 
-1.  Keuringen worden slechts verricht indien aan de vervulling van de functie, waarop de arbeidsverhouding of aanstelling in openbare dienst betrekking heeft, en de daarbij behorende taken bijzondere eisen op het punt van de medische geschiktheid moeten worden gesteld, waaronder wordt begrepen de bescherming van de gezondheid en de veiligheid van de keurling en van derden bij de uitvoering van de desbetreffende arbeid, terwijl de risico's voor de gezondheid en veiligheid niet met gangbare maatregelen, overeenkomstig de stand der wetenschap en professionele dienstverlening, kunnen worden gereduceerd.   
-2.  De keuringvrager legt de eisen, bedoeld in het eerste lid, schriftelijk vast. Alvorens hij deze eisen alsmede het doel van de keuring, de vragen welke ten aanzien van de gezondheid zullen worden gesteld, en de medische onderzoeken welke mogen worden verricht, schriftelijk vastlegt, vraagt hij daarover en over de rechtmatigheid van de keuring schriftelijk advies aan een deskundige persoon of een arbodienst.   
+1.  Een bedrijfsarts verricht slechts keuringen indien aan de vervulling van de functie, waarop de arbeidsverhouding of aanstelling in openbare dienst betrekking heeft, en de daarbij behorende taken bijzondere eisen op het punt van de medische geschiktheid moeten worden gesteld, waaronder wordt begrepen de bescherming van de gezondheid en de veiligheid van de keurling en van derden bij de uitvoering van de desbetreffende arbeid, terwijl de risico's voor de gezondheid en veiligheid niet met gangbare maatregelen, overeenkomstig de stand der wetenschap en professionele dienstverlening, kunnen worden gereduceerd. De in dit lid bedoelde keuringen worden slechts verricht door een bedrijfsarts.   
+2.  De keuringvrager legt de eisen, bedoeld in het eerste lid, schriftelijk vast. Voordat hij deze eisen, het doel van de keuring, de vragen welke ten aanzien van de gezondheid zullen worden gesteld en de medische onderzoeken welke mogen worden verricht, schriftelijk vastlegt, vraagt hij daarover en over de rechtmatigheid van de keuring schriftelijk advies aan een bedrijfsarts, tenzij een dergelijk schriftelijk advies al eerder met betrekking tot een zelfde functie is verstrekt en de omstandigheden en de gangbare maatregelen ongewijzigd zijn gebleven.   
+3.  In afwijking van het tweede lid, hoeft de keuringvrager geen schriftelijk advies te vragen aan een bedrijfsarts over de bijzondere eisen op het punt van de medische geschiktheid voor de betreffende functie, het doel van de keuring, de vragen welke ten aanzien van de gezondheid zullen worden gesteld en de medische onderzoeken die mogen worden verricht voor zover deze onderdelen zijn uitgewerkt in een wettelijke regeling.   
 
 ### Artikel  4  
 
@@ -49,17 +50,13 @@ Bij elke werving voor een functie waarvoor een keuring als bedoeld in artikel 3,
 
 ### Artikel  5  
 
-Onverminderd [artikel 8, tweede lid, van de wet](../../../../wet/wet/op/de/medische/keuringen/BWBR0008819/README.md) stelt de keuringvrager de keurling tijdig voor de aanvang van de keuring desgevraagd het advies van de deskundige persoon of de arbodienst ter beschikking en informeert hij de keurling over de mogelijkheid om een klacht in te dienen bij de commissie klachtenbehandeling aanstellingskeuringen, bedoeld in [artikel 3 van het Besluit klachtenbehandeling aanstellingskeuringen](../../../../AMvB/besluit/klachtenbehandeling/aanstellingskeuringen/BWBR0013030/README.md).  
+Onverminderd artikel 8, tweede lid, van de wet stelt de keuringvrager de keurling tijdig voor de aanvang van de keuring desgevraagd het advies van de bedrijfsarts ter beschikking en informeert de keuringvrager de keurling over de mogelijkheid om een klacht in te dienen bij de commissie klachtenbehandeling aanstellingskeuringen, bedoeld in artikel 3 van het Besluit klachtenbehandeling aanstellingskeuringen.  
 
 ### §  3  
 
 ####Slotbepalingen
 
 ####Evaluatie
-
-### Artikel  6  
-
-Onze Minister van Sociale Zaken en Werkgelegenheid zendt in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport binnen drie jaar na inwerkingtreding van dit besluit aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van dit besluit in de praktijk.  
 
 ####Inwerkingtreding
 

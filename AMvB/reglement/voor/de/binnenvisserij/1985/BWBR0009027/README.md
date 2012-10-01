@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Landbouw, Natuurbeheer en Visserij, van 23 juli 1997, no. J. 977964, Directie Juridische Zaken;
 
-Gelet op [artikel 16 van de Visserijwet 1963](../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md);
+Gelet op artikel 16 van de Visserijwet 1963;
 
 De Raad van State gehoord (advies van 12 augustus 1997, no. W11.97.0503);
 
@@ -29,7 +29,7 @@ e. «aalfuik»: fuik waarvan het netwerk een maaswijdte heeft van ten hoogste 35
 
 f. «ankerkuil»: vistuig bestaande uit een trechtervormig net dat aan de voorzijde wordt opengehouden door een rechthoekig raamwerk of twee horizontale bomen, voorzien van een inkeling waarbij het gedeelte achter de inkeling is opgehoepeld aan tenminste drie hoepels, welke niet meer dan 1 m van elkaar verwijderd zijn, terwijl de zich achter het opgehoepelde deel bevindende zak korter is dan 50 cm;  
 
-g. «aalkistje»: vistuig bestaande uit een langwerpige doos waarin aan de uiteinden inkelingen zijn aangebracht, waarin tenminste in elke inkeling één zuiver rond ringetje van metaal of enige andere niet rekbare stof met een middellijn van een door Onze Minister tenminste vastgestelde maat binnenwerks is aangebracht en, onderscheidenlijk of, waarin in de zijwanden tenminste twee gaten met een middellijn van een door Onze Minister tenminste vastgestelde maat binnenwerks zijn aangebracht;  
+g. «aalkistje»: vistuig bestaande uit een langwerpige doos waarin aan de uiteinden inkelingen zijn aangebracht, waarin ten minste in elke inkeling één zuiver rond ringetje van metaal of enige andere niet rekbare stof met een middellijn van tenminste 12 mm binnenwerks is aangebracht of, waarin in de zijwanden tenminste twee gaten met een middellijn van tenminste 12 mm binnenwerks zijn aangebracht;  
 
 h. «aalhoekwant»: vistuig bestaande uit een lange lijn met daaraan aan zijlijntjes bevestigde enkeltandige haken, waarvan de kortste afstand tussen de punt en de steel tenminste 7 mm bedraagt;  
 
@@ -47,7 +47,11 @@ n. «gebbe»: vistuig bestaande uit een boom van tenminste 3 m lengte met daaraa
 
 o. «kruisnet»: vistuig bestaande uit een netwerk met een maaswijdte van ten hoogste 25 mm dat op enigerlei wijze wordt opengehouden en aan één centraal bevestigde lijn wordt opgehaald;  
 
-p. «electrovisapparaat»: vistuig bestaande uit één of twee negatieve polen en één positieve pool waartussen met al of niet pulserende gelijkstroom een spanningsverschil wordt opgewekt.     
+p. «electrovisapparaat»: vistuig bestaande uit één of twee negatieve polen en één positieve pool waartussen met al of niet pulserende gelijkstroom een spanningsverschil wordt opgewekt;  
+
+q. «kreeftenkorf»: vistuig bestaande uit een frame van kunststof of een ander niet vervormbaar materiaal, met een maximale afmeting van 100 cm lengte, 100 cm breedte en 60 cm hoogte, voorzien van een niet vervormbare omkleding, dan wel een omkleding van netwerk, met een open inzwemopening met een inkeling van niet vervormbaar materiaal met een doorsnede van minimaal 20 mm;  
+
+r. «schepnet»: vistuig bestaande uit een aan een stok of steel gemonteerd frame dat voorzien is van een zakvormig knoop- of strikwerk waarvan de diepte ten hoogste 150 cm bedraagt, en een framebreedte heeft van ten hoogste 100 cm, een framehoogte van ten hoogste 80 cm, dan wel een frameoppervlak van ten hoogste 0,8 m <sup>2</sup>.     
 2.  In dit besluit en de daarop berustende bepalingen wordt onder het IJsselmeer mede verstaan de daaraan gelegen open havens.   
 3.  Waar het IJsselmeer in verbinding staat met andere binnenwateren geldt als grens: 
 
@@ -63,7 +67,7 @@ a. de hengel;
 
 b. de peur;  
 
-c. het spieringtuig;  
+c. de kreeftenkorf;  
 
 d. de visfuik;  
 
@@ -89,14 +93,19 @@ n. de gebbe;
 
 o. het kruisnet;  
 
-p. het electrovisapparaat.     
-2.  Het gebruik van een schepnet is slechts toegestaan om gevangen vis op te scheppen, over te zetten of te vervoeren.   
-3.  Het is verboden te vissen met een vistuig waarvan het netwerk van metaal- of niet vervormend kunststofgaas is vervaardigd.   
+p. het electrovisapparaat;  
+
+q. het schepnet.     
+2.  Het gebruik van een schepnet is slechts toegestaan om: 
+
+a. gevangen vis op te scheppen of over te zetten, of  
+
+b. vis te vangen, mits de gevangen vis levend in hetzelfde water wordt teruggezet.     
+3.  Het is verboden te vissen met een vistuig waarvan het netwerk van metaal- of niet vervormend kunststofgaas is vervaardigd, met uitzondering van de kreeftenkorf.   
 
 ### Artikel  3  
 
-1.  Het is verboden te vissen met gebruikmaking van een electrovisapparaat zonder vergunning van Onze Minister.   
-2.  Een vergunning als bedoeld in het eerste lid wordt na overleg met Onze Minister van Sociale Zaken en Werkgelegenheid slechts verleend, indien redelijkerwijze mag worden verwacht, dat geen bij de visserij in het water of complex van wateren, waarin de electro-visserij zal worden uitgeoefend, betrokken belangen van derden in aanmerkelijke mate zullen worden geschaad en dat de veiligheid zal zijn verzekerd zowel van degenen die het visapparaat zullen bedienen als van derden.   
+Het is degene die vist met de hengel of de peur verboden de daarmee gevangen vis in de handel te brengen, te koop aan te bieden of te vervreemden.  
 
 ### Artikel  4  
 
@@ -119,7 +128,7 @@ a. de hengel;
 
 b. de peur;  
 
-c. het spieringtuig;  
+c. het schepnet;  
 
 d. de aaskuil in het IJsselmeer;  
 
@@ -129,7 +138,7 @@ e. de zegen, mits deze is voorzien van een bovenpees van een lengte van meer dan
 
 1.  Het is verboden te vissen van 1 april tot en met 31 mei met: 
 
-a. de hengel, voor zover geaasd met slachtproducten, worm, een dood visje, een stukje vis of enig kunstaas met uitzondering van kunstvliegen met een afmeting van ten hoogste 2,5 cm;  
+a. de hengel, voor zover geaasd met slachtproducten, een dood visje, een stukje vis of enig kunstaas met uitzondering van kunstvliegen met een afmeting van ten hoogste 2,5 cm;  
 
 b. de visfuik;  
 
@@ -146,66 +155,44 @@ e. het staand net.
 1.  Het is verboden tussen twee uur na zonsondergang en één uur voor zonsopgang te vissen.   
 2.  Het verbod geldt niet: 
 
-a. voor het vissen met de hengel in de periode van 1 juni tot en met 31 augustus in andere dan door Onze Minister aangewezen wateren;  
+a. voor het vissen met de hengel in andere dan door Onze Minister aangewezen wateren;  
 
-b. voor het vissen met de peur, de ankerkuil, het aalkistje, het aalhoekwant, de aaldogger en het kruisnet;  
+b. voor het vissen met de peur, het aalkistje, het aalhoekwant en de aaldogger;  
 
-c. voor zover het betreft het te water hebben van de in artikel 2, onderdelen d tot en met i en m genoemde vistuigen;  
+c. voor het te water hebben van de aalfuik, het staand net, de visfuik, de ankerkuil en de kreeftenkorf;  
 
-d. voor het vissen met de aalzegen in andere wateren dan het IJsselmeer.     
-3.  Voorts geldt het verbod niet voor het vissen in de wateren: 
+d. voor het vissen met de aalzegen in andere wateren dan het IJsselmeer;  
 
-1°. de Rijn, de Maas en alle andere stromende wateren, welke met de twee eerstgenoemde in open gemeenschap staan en daarvan water afvoeren;  
+e. voor het vissen in de Rijn, de Maas, de IJssel en alle andere stromende wateren die met deze wateren in open verbinding staan en daarvan water afvoeren.     
 
-2°. de wateren gelegen in de Dordtsche en Brabantsche Biesbosch, voor zover zij in open gemeenschap staan met enig in het eerste onderdeel bedoeld water;  
+### Artikel  7a  
 
-3°. de Hollandsche IJssel beneden de afdamming bij Gouda;  
-
-4°. de Donge, beneden de lijn, gaande van het punt van samenvloeiing met de 's-Gravenmoersche Vaart, haaks over de stroom;  
-
-5°. het Oude Maasje en het Zuiderkanaal tot de Schutsluis in de haven van Waalwijk en de daaraan gelegen open havens en de daarmee in open gemeenschap staande inhammen, kreken, stranken, hanken, killen en gaten beneden de volgende grenzen: 
-
-1°. in de Lek: de lijn gaande van de Waag te Ammerstol naar de mond van Sluiskil, gelegen op de grens tussen de gemeenten Groot-Ammers en Streefkerk;  
-
-2°. in de Merwede: de lijn gaande van de Waterpoort te Woudrichem naar het zuidelijke uiteinde van de Kraaiweg onder Dalem;  
-
-3°. in de Bergsche Maas: de as van de brug westelijk van Heusden.        
+1.  Het is verboden te vissen met de vistuigen genoemd in artikel 2, eerste lid, onderdelen c tot en met q, tenzij dat vissen plaatsvindt in het IJsselmeer.   
+2.  Het verbod is niet van toepassing op de visrechthebbende en de houder van een schriftelijke toestemming, als bedoeld in artikel 21, tweede lid, onderdeel a, van de Visserijwet 1963, die beroepsmatig de visserij uitoefent en voldoet aan bij ministeriële regeling gestelde voorwaarden.   
 
 ### Artikel  8  
 
 1.  Het is verboden te vissen in het IJsselmeer zonder voorzien te zijn van een vergunning van Onze Minister geldende voor de visserij, welke wordt uitgeoefend.   
-2.  Het verbod geldt niet voor zover wordt gevist met ten hoogste twee hengels en: 
-
-a. baars, onmiddellijk nadat deze is opgehaald weer in het water wordt teruggezet met dien verstande, dat het elke visser is toegestaan een hoeveelheid baars van ten hoogste 30 stuks voor eigen gebruik te behouden;  
-
-b. snoekbaars, onmiddellijk nadat deze is opgehaald weer in het water wordt teruggezet met dien verstande, dat het elke visser is toegestaan een hoeveelheid snoekbaars van ten hoogste vijf stuks voor eigen gebruik te behouden.     
-3.  Het is verboden op of in de onmiddellijke nabijheid van het IJsselmeer een hoeveelheid van meer dan 30 stuks baars dan wel vijf stuks snoekbaars voorhanden of in voorraad te hebben dan wel te vervoeren, indien niet kan worden aangetoond dat deze overeenkomstig het bepaalde bij dit artikel is gevangen.   
+2.  Het verbod geldt niet voor zover wordt gevist met ten hoogste twee hengels.   
 
 ### Artikel  9  
 
-1.  Het is verboden met enig vistuig te vissen in de rivieren de Neder-Rijn, de Maas, de Lek en de Overijsselsche Vecht: 
-
-a. binnen een afstand van 75 m stroomafwaarts van een stuw;  
-
-b. in een bij een stuw aangebrachte vispassage;  
-
-c. binnen een straal van 25 m voor de bovenmond van een bij een stuw aangebrachte vispassage.     
-2.  Het verbod geldt niet gedurende de tijden dat de stuw buiten werking is gesteld.   
+Bij ministeriële regeling kan het vissen in daarbij aan te wijzen wateren binnen een daarbij te bepalen afstand van vispassages, stuwen, sluizen en gemalen worden verboden, waarbij kan worden bepaald dat het verbod slechts voor bij die regeling te bepalen vistuigen geldt.  
 
 ### Artikel  10  
 
 1.  Het is verboden op of in de nabijheid van enig binnenwater een of meer vistuigen voorhanden te hebben indien: 
 
-a. het gebruik daarvan in het betrokken water ingevolge het bepaalde in de artikelen 2 tot en met 9 verboden is;  
+a. het gebruik daarvan in het betrokken water bij of krachtens de artikelen 2 tot en met 9 verboden is;  
 
 b. men niet bevoegd is daarmee te vissen;  
 
 c. men niet gerechtigd is in het betrokken water daarmee te vissen.   2. Het verbod, bedoeld in het eerste lid, geldt niet, indien het vistuig zodanig verpakt of in zodanige toestand is, dat dadelijk gebruik daarvan niet mogelijk is.   
-3.  Het is verboden op het IJsselmeer, anders dan in een haven, vistuig aan boord van een vissersvaartuig als bedoeld in [artikel 1, onderdeel b, van het Besluit registratie vissersvaartuigen 1998](../../../../../../../AMvB/besluit/registratie/vissersvaartuigen/1998/BWBR0009353/README.md) te hebben, indien het gebruik daarvan, ingevolge het bij of krachtens dit besluit bepaalde, verboden is.   
+3.  Het is verboden op het IJsselmeer, anders dan in een haven, vistuig aan boord van een vissersvaartuig als bedoeld in artikel 1, onderdeel b, van het Besluit registratie vissersvaartuigen 1998 te hebben, indien het gebruik daarvan, ingevolge het bij of krachtens dit besluit bepaalde, verboden is.   
 
 ### Artikel  10a  
 
-1.  Een ieder die vis van de door Onze Minister aangewezen soorten aanvoert, aan- of verkoopt of onder zich houdt, of die bemiddeling verleent bij het veilen van die vis, is verplicht een administratie te voeren en aan de Directeur Visserij van het Ministerie van Landbouw, Natuurbeheer en Visserij periodiek opgave te doen van de hoeveelheden vis door hem aangevoerd, aan- of verkocht, onder zich gehouden, dan wel aan hem ter veiling aangeboden.   
+1.  Een ieder die vis van de door Onze Minister aangewezen soorten aanvoert, aan- of verkoopt of onder zich houdt, of die bemiddeling verleent bij het veilen van die vis, is verplicht een administratie te voeren en aan Onze Minister periodiek opgave te doen van de hoeveelheden vis door hem aangevoerd, aan- of verkocht, onder zich gehouden, dan wel aan hem ter veiling aangeboden.   
 2.  Onze Minister stelt nadere regels ten aanzien van de eisen waaraan de in het eerste lid bedoelde administratie dient te voldoen en de wijze waarop de in dat lid bedoelde opgave dient te geschieden, en kan voorschriften geven in het belang van de naleving van deze regels.   
 
 ### Artikel  10b  

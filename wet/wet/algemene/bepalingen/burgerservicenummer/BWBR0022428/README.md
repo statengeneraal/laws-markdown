@@ -212,15 +212,6 @@ b. de gegevensverwerkingen van gebruikers, waarbij burgerservicenummers worden g
 
 Onze Minister benoemt een functionaris voor de gegevensbescherming als bedoeld in [artikel 62 van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), die toeziet op de verwerking van persoonsgegevens in verband met de uitvoering van deze wet, voor zover Onze Minister voor deze gegevensverwerkingen de verantwoordelijke is.  
 
-### Artikel  20  
-
-1.  Onze Minister ziet er op toe dat de toekenning van burgerservicenummers geschiedt overeenkomstig het bij of krachtens de wet bepaalde.   
-2.  Onze Minister is in verband met de uitvoering van het eerste lid bevoegd: 
-
-a. inlichtingen te verlangen van de bestuursorganen die burgerservicenummers toekennen, en  
-
-b. aanwijzingen te geven aan het college van burgemeester en wethouders, die noodzakelijk zijn in verband met de toekenning van burgerservicenummers overeenkomstig het bij of krachtens de wet bepaalde.     
-
 ### Artikel  21  
 
 1.  Onze Minister verricht eens per drie jaar een onderzoek naar de inrichting, de werking en de beveiliging van de beheervoorziening.   

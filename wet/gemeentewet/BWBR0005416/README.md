@@ -1414,13 +1414,59 @@ De bepalingen van gemeentelijke verordeningen in wier onderwerp door een wet, ee
 
 ### Artikel  123  
 
-1.  Wanneer de raad of, indien aan een bestuurscommissie, een deelraad of het dagelijks bestuur van een deelgemeente bevoegdheden van de raad of van het college zijn overgedragen, deze commissie, die deelraad of dat dagelijks bestuur bij of krachtens een andere dan deze wet gevorderde beslissingen niet of niet naar behoren neemt, voorziet het college daarin.   
-2.  Wanneer aan een bestuurscommissie of de voorzitter van het dagelijks bestuur van een deelgemeente bevoegdheden van de burgemeester zijn overgedragen en die commissie of die voorzitter bij of krachtens een andere dan deze wet gevorderde beslissingen niet of niet naar behoren neemt, voorziet de burgemeester daarin.   
+1.  Wanneer aan een bestuurscommissie of een deelraad bevoegdheden van de raad zijn overgedragen en deze commissie of die deelraad een bij of krachtens een andere dan deze wet gevorderde beslissing niet of niet naar behoren neemt, voorziet de raad daarin.   
+2.  Wanneer aan een bestuurscommissie of het dagelijks bestuur van een deelgemeente bevoegdheden van het college zijn overgedragen en deze commissie of dat dagelijks bestuur een bij of krachtens een andere dan deze wet gevorderde beslissing niet of niet naar behoren neemt, voorziet het college daarin.   
+3.  Wanneer aan een bestuurscommissie of de voorzitter van het dagelijks bestuur van een deelgemeente bevoegdheden van de burgemeester zijn overgedragen en die commissie of die voorzitter bij of krachtens een andere dan deze wet gevorderde beslissingen niet of niet naar behoren neemt, voorziet de burgemeester daarin.   
 
 ### Artikel  124  
 
-1.  Wanneer het college of de burgemeester bij of krachtens een andere dan deze wet gevorderde beslissingen niet of niet naar behoren neemt, voorzien gedeputeerde staten, onderscheidenlijk de commissaris van de Koning daarin namens het college of de burgemeester en ten laste van de gemeente.   
-2.  Spoedeisende gevallen uitgezonderd, vindt het eerste lid geen toepassing dan nadat het college, onderscheidenlijk de burgemeester in de gelegenheid is gesteld binnen een door gedeputeerde staten, onderscheidenlijk de commissaris gestelde termijn alsnog de bij of krachtens een andere dan deze wet gevorderde beslissingen te nemen.   
+1.  Wanneer de raad, het college of de burgemeester een bij of krachtens een andere dan deze wet gevorderde beslissing niet of niet naar behoren neemt dan wel bij of krachtens een andere dan deze wet gevorderde handeling niet of niet naar behoren verricht, of anderszins een bij of krachtens een andere dan deze wet gevorderd resultaat niet, niet tijdig of niet naar behoren tot stand brengt, besluiten gedeputeerde staten onderscheidenlijk de commissaris van de Koning als het de burgemeester betreft daarin namens de raad, het college of de burgemeester te voorzien ten laste van de gemeente.   
+2.  Spoedeisende gevallen uitgezonderd, voeren gedeputeerde staten of de commissaris van de Koning het besluit tot indeplaatsstelling niet uit dan nadat een in het besluit genoemde termijn is verstreken, waarbinnen de raad, het college of de burgemeester de gelegenheid heeft alsnog te voorzien in hetgeen het besluit vordert. Indien de situatie dermate spoedeisend is dat gedeputeerde staten of de commissaris van de Koning de beslissing om over te gaan tot indeplaatsstelling niet tevoren op schrift kan stellen, zorgen zij alsnog zo spoedig mogelijk voor de opschriftstelling en voor de bekendmaking.   
+3.  Indien het besluit tot indeplaatsstelling een bij of krachtens een andere dan deze wet gevorderd resultaat betreft dat niet tijdig tot stand zal worden gebracht, geven gedeputeerde staten of de commissaris van de Koning in het besluit tot indeplaatsstelling aan welke beslissingen, handelingen of resultaten moeten zijn uitgevoerd binnen de in het tweede lid bedoelde termijn. Gedeputeerde staten of de commissaris van de Koning kunnen voor verschillende beslissingen, handelingen of resultaten een verschillende termijn stellen. Indien de raad, het college onderscheidenlijk de burgemeester niet binnen die termijn heeft voorzien in hetgeen het besluit van hem vordert, voorzien gedeputeerde staten of de commissaris van de Koning verder in het tot stand brengen van het gevorderde resultaat.   
+4.  Van een besluit tot indeplaatsstelling, alsmede van het voornemen tot het nemen van een dergelijk besluit, wordt mededeling gedaan in een dag-, nieuws- of huis-aan-huisblad, dan wel op een andere geschikte wijze. Een afschrift van het besluit en van het voornemen wordt gezonden aan de raad.   
+
+### Artikel  124a  
+
+1.  In overeenstemming met Onze Minister, kan Onze Minister wie het aangaat, indien hij van oordeel is dat toepassing van artikel 124, eerste lid, uit oogpunt van een zwaarwegend algemeen belang gewenst is, gedeputeerde staten onderscheidenlijk de commissaris van de Koning verzoeken toepassing te geven aan artikel 124, eerste lid. Een afschrift van het verzoek wordt gezonden aan de raad en provinciale staten. Indien gedeputeerde staten onderscheidenlijk de commissaris van de Koning niet binnen een door Onze Minister wie het aangaat gestelde termijn toepassing hebben gegeven aan artikel 124, eerste lid, gaat de bevoegdheid van artikel 124, eerste lid, over op Onze Minister wie het aangaat.   
+2.  De artikelen 124, tweede tot en met vierde lid, 124c, 124d, en 124f zijn van overeenkomstige toepassing bij toepassing van artikel 124, eerste lid, door Onze Minister wie het aangaat.   
+
+### Artikel  124b  
+
+1.  Ter zake van de in de bijlage bij deze wet opgenomen wetten worden de bevoegdheden die in de artikelen 124, 124c, 124d en artikel 124f aan gedeputeerde staten onderscheidenlijk de commissaris van de Koning zijn toegekend, in zoverre in afwijking van die artikelen uitgeoefend door Onze Minister wie het aangaat.   
+2.  Voorafgaand aan het nemen van een besluit tot indeplaatsstelling, informeert Onze Minister wie het aangaat gedeputeerde staten.   
+
+### Artikel  124c  
+
+1.  Bij de uitvoering van het besluit tot indeplaatsstelling beschikken gedeputeerde staten onderscheidenlijk de commissaris van de Koning over de bevoegdheden waarover de raad, het college of de burgemeester bij of krachtens deze wet of de andere wet, bedoeld in artikel 124, eerste lid, beschikt. In afwijking van artikel 171, eerste lid, vertegenwoordigt de commissaris van de Koning de gemeente zonodig in en buiten rechte.   
+2.  Voor zover het gemeentebestuur, had hij de bevoegdheden, bedoeld in het eerste lid, zelf uitgeoefend, de kosten van de uitvoering in rekening kan brengen bij derden, heeft hij bij die derden verhaal voor de door gedeputeerde staten onderscheidenlijk de commissaris van de Koning ten laste van de gemeente gebrachte kosten. Het gemeentebestuur kan het bedrag invorderen bij dwangbevel.   
+
+### Artikel  124d  
+
+Gedeputeerde staten onderscheidenlijk de commissaris van de Koning, kunnen een besluit tot indeplaatsstelling intrekken, indien de raad, het college of de burgemeester voldoende aannemelijk maakt dat hij zonder voorbehoud zal voorzien in hetgeen het besluit van hem vordert.  
+
+### Artikel  124e  
+
+Gedeputeerde staten, de commissaris van de Koning onderscheidenlijk Onze Minister wie het aangaat, bedoeld in artikel 124b, eerste lid, kunnen ambtenaren aanwijzen ten behoeve van het toezicht op de uitvoering van de aan het gemeentebestuur bij of krachtens andere wet dan deze opgedragen taken. Deze ambtenaren beschikken over de bevoegdheden van de [artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). De [artikelen 5:12](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.  
+
+### Artikel  124f  
+
+1.  Indien gedeputeerde staten onderscheidenlijk de commissaris van de Koning bij de uitvoering van het besluit tot indeplaatsstelling namens de raad, het college of de burgemeester een besluit nemen, kan voor de toepassing van [artikel 7:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bezwaar worden gemaakt bij gedeputeerde staten onderscheidenlijk de commissaris van de Koning. Gedeputeerde staten beslissen onderscheidenlijk de commissaris van de Koning beslist op het bezwaar.   
+2.  Gedeputeerde staten zijn onderscheidenlijk de commissaris van de Koning is de verwerende partij inzake een beroep tegen een namens de raad, het college of de burgemeester genomen besluit als bedoeld in het eerste lid.   
+3.  Het gemeentebestuur kan geen beroep instellen tegen een besluit als bedoeld in het eerste lid.   
+
+### Artikel  124g  
+
+1.  Het gemeentebestuur werkt mee met de uitvoering van een besluit tot indeplaatsstelling. Gedeputeerde staten, de commissaris van de Koning onderscheidenlijk Onze Minister wie het aangaat kunnen ter zake van de uitvoering van het besluit aanwijzingen geven. Het gemeentebestuur stelt op eerste vordering van gedeputeerde staten onderscheidenlijk de commissaris van de Koning, de voor de uitvoering van het besluit benodigde gemeenteambtenaren ter beschikking en verschaft op eerste vordering van gedeputeerde staten onderscheidenlijk de commissaris van de Koning, alle informatie die nodig is voor de uitvoering van het besluit tot indeplaatsstelling.   
+2.  Gedeputeerde staten, de commissaris van de Koning onderscheidenlijk Onze Minister wie het aangaat kunnen ambtenaren aanwijzen die ten behoeve van de uitvoering van een besluit tot indeplaatsstelling beschikken over de bevoegdheden van de [artikelen 5:15 tot en met 5:17 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). De [artikelen 5:12](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing. Het gemeentebestuur verschaft de aangewezen ambtenaren desgevraagd de faciliteiten die zij nodig hebben.   
+
+### Artikel  124h  
+
+Bij algemene maatregel van bestuur, op voordracht van Onze Minister, kunnen regels worden gesteld over de verstrekking van systematische informatie aan het provinciebestuur of, in het geval artikel 124b, eerste lid, van toepassing is, Onze Minister wie het aangaat, betreffende de uitvoering door het gemeentebestuur van de andere wet, bedoeld in artikel 124, eerste lid. Bij ministeriële regeling of bij provinciale verordening kunnen nadere regels worden gesteld omtrent de toepassing.  
+
+### Artikel  124i  
+
+1.  De raad, het college onderscheidenlijk de burgemeester kan tegen een tot hem gericht besluit tot indeplaatsstelling beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State. [Artikel 7:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
+2.  Gedeputeerde staten kunnen onderscheidenlijk de commissaris van de Koning kan tegen een tot hen onderscheidenlijk hem gericht verzoek als bedoeld in artikel 124a, eerste lid, beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State. [Artikel 7:1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
 
 ### §  4  
 
@@ -1432,12 +1478,6 @@ De bepalingen van gemeentelijke verordeningen in wier onderwerp door een wet, ee
 2.  De bevoegdheid tot oplegging van een last onder bestuursdwang wordt uitgeoefend door het college, indien de last dient tot handhaving van regels welke het gemeentebestuur uitvoert.   
 3.  De bevoegdheid tot oplegging van een last onder bestuursdwang wordt uitgeoefend door de burgemeester, indien de last dient tot handhaving van regels welke hij uitvoert.   
 4.  Een bestuurscommissie, een deelraad, het dagelijks bestuur van een deelgemeente of de voorzitter van het dagelijks bestuur van een deelgemeente waaraan bevoegdheden van de raad, het college of de burgemeester zijn overgedragen, bezit de bevoegdheid tot oplegging van een last onder bestuursdwang en de bevoegdheid tot het geven van een machtiging tot binnentreden van een woning slechts indien ook die bevoegdheid uitdrukkelijk is overgedragen.   
-
-### Artikel  135  
-
-1.  In geval van toepassing van artikel 124 kunnen gedeputeerde staten, onderscheidenlijk de commissaris van de Koning een last onder bestuursdwang opleggen namens het gemeentebestuur en ten laste van de gemeente.   
-2.  De gemeente heeft in dat geval voor het bedrag van de te haren laste gebrachte kosten verhaal op de overtreder.   
-3.  [Artikel 5:26 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is alsdan van toepassing.   
 
 ### §  5  
 
@@ -2604,10 +2644,20 @@ Bij of krachtens algemene maatregel van bestuur kunnen inzake de belastingen, be
 2.  Gedeputeerde staten zenden de stukken, vergezeld van hun advies, binnen een week na de dagtekening van de mededeling van de burgemeester toe aan Onze Minister wie het aangaat.   
 3.  Het besluit ten aanzien waarvan het eerste lid toepassing heeft gevonden, wordt niet of niet verder uitgevoerd, voordat van Onze Minister wie het aangaat de mededeling is ontvangen, dat voor schorsing of vernietiging geen redenen bestaan. Indien het besluit niet binnen vier weken na de dagtekening van de mededeling van de burgemeester is geschorst of vernietigd, wordt het uitgevoerd.   
 
+### Artikel  273a  
+
+1.  Indien een besluit van de raad of het college naar het oordeel van gedeputeerde staten of indien een besluit van de burgemeester naar het oordeel van de commissaris van de Koning voor vernietiging in aanmerking komt, doen zij daarvan binnen tien dagen nadat het te hunner kennis is gekomen, mededeling aan Onze Minister wie het aangaat. Zij geven hiervan tegelijkertijd kennis aan het orgaan dat het besluit nam, en zo nodig aan het orgaan dat met de uitvoering van het besluit is belast en aan de geadresseerde van het besluit.   
+2.  Het besluit ten aanzien waarvan het eerste lid toepassing heeft gevonden, wordt niet of niet verder uitgevoerd, voordat van Onze Minister wie het aangaat de mededeling is ontvangen, dat voor schorsing of vernietiging geen redenen bestaan. Indien het besluit niet binnen vier weken na de dagtekening van de mededeling van gedeputeerde staten of de commissaris van de Koning is geschorst of vernietigd, wordt het uitgevoerd.   
+3.  In geval de bevoegdheid tot het nemen van een besluit aan de raad, het college of de burgemeester is verleend bij andere wet dan deze en het besluit in aanmerking komt voor vernietiging wegens strijd met het recht, kunnen gedeputeerde staten onderscheidenlijk de commissaris van de Koning mededeling doen dat zij overwegen toepassing te geven aan het eerste lid. De mededeling wordt gedaan aan het orgaan dat het besluit heeft genomen, het orgaan dat met de uitvoering van het besluit is belast en de geadresseerde van het besluit. Nadat gedeputeerde staten onderscheidenlijk de commissaris van de Koning, mededeling hebben gedaan, wordt het besluit niet of niet verder uitgevoerd. Indien niet binnen tien dagen toepassing is gegeven aan het eerste lid, dan wel indien gedeputeerde staten onderscheidenlijk de commissaris van de Koning mededelen dat geen toepassing wordt gegeven aan het eerste lid, wordt het besluit uitgevoerd.   
+
 ### Artikel  274  
 
 1.  Een voordracht tot schorsing wordt gedaan door Onze Minister wie het aangaat.   
 2.  Over de voordracht pleegt Onze Minister wie het aangaat overleg met Onze Minister, tenzij schorsing onverwijld plaats dient te vinden. In de voordracht wordt het achterwege blijven van overleg gemotiveerd.   
+
+### Artikel  275  
+
+In het koninklijk besluit kan voor de duur van de schorsing een voorziening worden getroffen.  
 
 ### Artikel  277  
 
@@ -2618,13 +2668,22 @@ Indien een bekend gemaakt besluit niet is vernietigd binnen de tijd waarvoor het
 1.  De voordracht tot vernietiging wordt gedaan door of mede door Onze Minister.   
 2.  [Artikel 17, derde lid, van de Wet op de Raad van State](../../../wet/wet/op/de/raad/van/state/BWBR0002367/README.md) is niet van toepassing.   
 
+### Artikel  278a  
+
+1.  In het koninklijk besluit kan een voorziening worden getroffen voor de periode tussen de inwerkingtreding en het tijdstip dat het op grond van artikel 281 genomen besluit in werking is getreden.   
+2.  Indien, gelet op het koninklijk besluit, het gemeentebestuur bij de toepassing van artikel 281 niet over beleidsvrijheid beschikt, kan het koninklijk besluit bepalen dat het in de plaats treedt van het vernietigde besluit.   
+3.  In het koninklijk besluit kan worden bepaald dat ter zake van het vernietigde besluit geen nieuw besluit wordt genomen.   
+4.  In het koninklijk besluit kan het gemeentebestuur een aanwijzing worden gegeven over de uitvoering van het koninklijk besluit. De artikelen 124 tot en met 124i zijn van overeenkomstige toepassing ingeval de aanwijzing niet wordt opgevolgd.   
+5.  Indien het koninklijk besluit betrekking heeft op de vernietiging van een algemeen verbindend voorschrift of een ander besluit van algemene strekking, kan worden bepaald dat de vernietiging tevens betrekking heeft op besluiten die zijn genomen op grond van of ter uitvoering van het algemeen verbindend voorschrift of het andere besluit van algemene strekking.   
+
 ### Artikel  279  
 
 Het koninklijk besluit tot schorsing, opheffing of verlenging van de schorsing of tot vernietiging wordt in het *Staatsblad* geplaatst.  
 
 ### Artikel  281  
 
-Het gemeentebestuur neemt opnieuw een besluit omtrent het onderwerp van het vernietigde besluit, waarbij met het koninklijk besluit wordt rekening gehouden.  
+1.  Het gemeentebestuur neemt opnieuw een besluit omtrent het onderwerp van het vernietigde besluit, waarbij met het koninklijk besluit wordt rekening gehouden, tenzij in het koninklijk besluit toepassing is gegeven aan artikel 278a, tweede of derde lid.   
+2.  In het koninklijk besluit kan een termijn worden gesteld waarbinnen toepassing wordt gegeven aan het eerste lid. De artikelen 124 tot en met 124i zijn van overeenkomstige toepassing ingeval niet binnen de termijn toepassing is gegeven aan het eerste lid.   
 
 ### Artikel  281a  
 
@@ -2710,4 +2769,86 @@ E. M. H. Hirsch Ballin
 | Hoofdstuk XVII.  | De vernietiging van besluiten (artt. 268-281)  |
 | Titel VI  | Wijziging van de gemeentelijke indeling en wijziging van gemeentegrenzen (artt. 282-288)  |
 | Titel VII  | Overgangs- en slotbepalingen (artt. 289-310)  |
+
+### Bijlage  I  
+
+####, bedoeld in artikel 124b, eerste lid , van de Gemeentewet
+
+### A  
+
+#### *Ministerie van Binnenlandse Zaken en Koninkrijksrelaties* 
+
+1. [Ambtenarenwet](../../../wet/ambtenarenwet/BWBR0001947/README.md).  
+
+2. [Paspoortwet](../../../rijkswet/paspoortwet/BWBR0005212/README.md).  
+
+3. [Wet algemene bepalingen burgerservicenummer](../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md).  
+
+4. [Wet gemeentelijke basisadministratie persoonsgegevens](../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md).  
+
+5. [Kieswet](../../../wet/kieswet/BWBR0004627/README.md).    
+
+### B  
+
+#### *Ministerie van Sociale Zaken en Werkgelegenheid* 
+
+1. [Wet werk en bijstand](../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).  
+
+2. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md).  
+
+3. [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md).  
+
+4. [Wet werk en inkomen kunstenaars](../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md).  
+
+5. [Wet sociale werkvoorziening](../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md).  
+
+6. [Wet investeren in jongeren](../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md).  
+
+7. [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../wet/wet/kinderopvang/BWBR0017017/README.md).    
+
+### C  
+
+#### *Ministerie van Infrastructuur en Milieu* 
+
+1. [Wet vervoer gevaarlijke stoffen](../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md).  
+
+2. [Havenbeveiligingswet](../../../wet/havenbeveiligingswet/BWBR0016991/README.md).  
+
+3. [Wet basisregistraties adressen en gebouwen](../../../wet/wet/basisregistraties/adressen/en/gebouwen/BWBR0023466/README.md).  
+
+4. [Titel 5.2 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md).    
+
+### D  
+
+#### *Ministerie van Volksgezondheid, Welzijn en Sport* 
+
+1. [Drank- en Horecawet](../../../wet/drank-/en/horecawet/BWBR0002458/README.md).  
+
+2. [Wet publieke gezondheid](../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md).  
+
+3. [Wet maatschappelijke ondersteuning](../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).    
+
+### E  
+
+#### *Ministerie van Onderwijs, Cultuur en Wetenschap* 
+
+1. [Wet op het primair onderwijs](../../../wet/wbo/BWBR0003420/README.md).  
+
+2. [Wet op het voortgezet onderwijs](../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).  
+
+3. [Wet op de expertisecentra](../../../wet/isovso/BWBR0003549/README.md).  
+
+4. [Wet educatie en beroepsonderwijs](../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).    
+
+### F  
+
+#### *Ministerie van Financiën* 
+
+1.  [Wet waardering onroerende zaken](../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md)     
+
+### G  
+
+#### *Ministerie van Veiligheid en Justitie* 
+
+1. [Wet veiligheidsregio’s](../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md).    
 

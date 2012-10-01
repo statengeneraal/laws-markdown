@@ -46,7 +46,7 @@ a. in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrel
 
 b. in overeenstemming met Onze Minister van Verkeer en Waterstaat ten aanzien van waterschappen en gemeenschappelijke regelingen waaraan uitsluitend waterschappen deelnemen.     
 3.  Een aanwijzing wordt niet gegeven ten aanzien van de uitoefening van rechtspraak.   
-4.  Dit artikel is niet van toepassing op bestuursorganen van provincies, gemeenten en gemeenschappelijke regelingen waaraan zij deelnemen, indien de bevoegdheden van [artikel 121](../../../../../../../../wet/provinciewet/BWBR0005645/README.md) en [hoofdstuk XVIII van de Provinciewet](../../../../../../../../wet/provinciewet/BWBR0005645/README.md) en van [artikel 124](../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) en [hoofdstuk XVII van de Gemeentewet](../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) toereikend zijn om het niet of niet naar behoren voldoen als bedoeld in het eerste lid te herstellen.   
+4.  Dit artikel is niet van toepassing op bestuursorganen van provincies, gemeenten en gemeenschappelijke regelingen waaraan zij deelnemen, indien de bevoegdheden van [artikel 121](../../../../../../../../wet/provinciewet/BWBR0005645/README.md) en [hoofdstuk XVIII van de Provinciewet](../../../../../../../../wet/provinciewet/BWBR0005645/README.md) en van de [artikelen 124](../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) en [124a](../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) en [hoofdstuk XVII van de Gemeentewet](../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) toereikend zijn om het niet of niet naar behoren voldoen als bedoeld in het eerste lid te herstellen.   
 
 ### Artikel  3  
 

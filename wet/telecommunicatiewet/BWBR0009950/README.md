@@ -24,7 +24,7 @@ c. raad van bestuur van de mededingingsautoriteit: raad van bestuur van de Neder
 
 d. nationale regelgevende instantie: instantie in een andere lidstaat van de Europese Unie die krachtens het recht van die lidstaat is belast met een of meer regelgevende of daarmee verband houdende uitvoerende taken die zijn toegekend in de richtlijnen nrs. 2002/19/EG, 2002/20/EG, 2002/21/EG, 2002/22/EG of  2002/58/EG;  
 
-e. elektronisch communicatienetwerk: transmissiesystemen, waaronder mede begrepen de schakel- of routeringsapparatuur en andere middelen, die het mogelijk maken signalen over te brengen via kabels, radiogolven, optische of andere elektromagnetische middelen, waaronder satellietnetwerken, vaste en mobiele terrestrische netwerken, elektriciteitsnetten, voor zover deze voor overdracht van signalen worden gebruikt en netwerken voor radio- en televisieomroep en kabeltelevisienetwerken, ongeacht de aard van de overgebrachte informatie;  
+e. elektronisch communicatienetwerk: transmissiesystemen, waaronder mede begrepen de schakel- of routeringsapparatuur, netwerkelementen die niet actief zijn en andere middelen, die het mogelijk maken signalen over te brengen via kabels, radiogolven, optische of andere elektromagnetische middelen, waaronder satellietnetwerken, vaste en mobiele terrestrische netwerken, elektriciteitsnetten, voor zover deze voor overdracht van signalen worden gebruikt en netwerken voor radio- en televisieomroep en kabeltelevisienetwerken, ongeacht de aard van de overgebrachte informatie;  
 
 f. elektronische communicatiedienst: gewoonlijk tegen vergoeding aangeboden dienst die geheel of hoofdzakelijk bestaat in het overbrengen van signalen via elektronische communicatienetwerken, waaronder telecommunicatiediensten en transmissiediensten op netwerken die voor omroep worden gebruikt, doch niet de dienst waarbij met behulp van elektronische communicatienetwerken en -diensten overgebrachte inhoud wordt geleverd of redactioneel wordt gecontroleerd. Het omvat niet de diensten van de informatiemaatschappij zoals omschreven in artikel 1 van de notificatierichtlijn die niet geheel of hoofdzakelijk bestaan uit het overbrengen van signalen via elektronische communicatienetwerken;  
 
@@ -34,11 +34,11 @@ h. openbaar elektronisch communicatienetwerk: elektronisch communicatienetwerk d
 
 i. aanbieden van een elektronisch communicatienetwerk: het bouwen, exploiteren, beheren of beschikbaar stellen van een elektronisch communicatienetwerk;  
 
-j. bijbehorende faciliteiten: bij een elektronisch communicatienetwerk of een elektronische communicatiedienst behorende faciliteiten die het aanbieden van diensten via dat netwerk of die dienst mogelijk maken of ondersteunen, alsmede systemen voor voorwaardelijke toegang en elektronische programmagidsen;  
+j. bijbehorende faciliteiten: de bij een elektronisch communicatienetwerk of een elektronische communicatiedienst behorende diensten, fysieke infrastructuren en andere faciliteiten of elementen die het aanbieden van diensten via dat netwerk of die dienst mogelijk maken of ondersteunen of het potentieel hiertoe bezitten;  
 
-k. netwerkaansluitpunt: fysiek punt waarop een abonnee de toegang tot een openbaar communicatienetwerk wordt geboden; in het geval van netwerken met schakelings- of routeringsfuncties wordt het netwerkaansluitpunt bepaald door middel van een specifiek netwerkadres, dat met een abonneenummer of -naam kan zijn verbonden;  
+k. netwerkaansluitpunt: fysiek punt waarop een abonnee de toegang tot een openbaar elektronisch communicatienetwerk wordt geboden; in het geval van netwerken met schakelings- of routeringsfuncties wordt het netwerkaansluitpunt bepaald door middel van een specifiek netwerkadres, dat met een abonneenummer of -naam kan zijn verbonden;  
 
-l. toegang: het aan een andere onderneming beschikbaar stellen van netwerkonderdelen, bijbehorende faciliteiten of diensten onder uitdrukkelijke voorwaarden al dan niet op exclusieve basis ten behoeve van het aanbieden van elektronische communicatiediensten of het verspreiden van programma's aan het publiek door die onderneming;  
+l. toegang: het aan een andere onderneming beschikbaar stellen van netwerkonderdelen, bijbehorende faciliteiten of diensten onder uitdrukkelijke voorwaarden, al dan niet op exclusieve basis, ten behoeve van het aanbieden van elektronische communicatiediensten, het aanbieden van diensten voor de informatiemaatschappij of het verspreiden van programma’s aan het publiek, door die onderneming;  
 
 m. interconnectie: specifiek type toegang dat wordt gerealiseerd tussen exploitanten van openbare netwerken, inhoudende het fysiek en logisch verbinden van openbare communicatienetwerken die door dezelfde of een andere onderneming worden gebruikt om het de gebruikers van een onderneming mogelijk te maken te communiceren met die van dezelfde of van een andere onderneming of toegang te hebben tot diensten die door een andere onderneming worden aangeboden;  
 
@@ -54,15 +54,15 @@ r. onderneming: onderneming in de zin van artikel 81, eerste lid, van het Verdra
 
 s. onderneming die beschikt over een aanmerkelijke marktmacht: onderneming die alleen of tezamen met andere ondernemingen over een economische kracht beschikt die haar in staat stelt zich in belangrijke mate onafhankelijk van haar concurrenten, klanten en uiteindelijk consumenten te gedragen;  
 
-t. transnationale markt: bij beschikking, bedoeld in artikel 15, vierde lid, van richtlijn nr. 2002/21/EG, gedefinieerde markt die ten minste een gedeelte van Nederland beslaat;  
+t. transnationale markt: bij beschikking, bedoeld in artikel 15, vierde lid, van richtlijn nr. 2002/21/EG, gedefinieerde markt die de Europese Unie of een aanzienlijk, zich over meer dan één lidstaat uitstrekkend, deel daarvan beslaat;  
 
-u. huurlijn: publiekelijk ter beschikking gestelde transparante transmissiecapaciteit tussen twee netwerkaansluitpunten van een of meer elektronische communicatienetwerken, zonder routeringsfuncties waarover gebruikers kunnen beschikken als onderdeel van de geleverde huurlijn;  
+u.  vervallen;   
 
-v. minimumpakket van huurlijnen: door de Commissie van de Europese Gemeenschappen op grond van de artikelen 17 en 22 van richtlijn nr. 2002/21/EG of de artikelen 18 en 37 van richtlijn nr. 2002/22/EG vastgesteld minimumpakket van huurlijnen, zoals vermeld in een lijst van in het Publicatieblad van de Europese Gemeenschappen gepubliceerde normen;  
+v.  vervallen;   
 
-w. openbaar telefoonnetwerk: elektronisch communicatienetwerk dat wordt gebruikt om openbare telefoondiensten aan te bieden; het ondersteunt de overdracht tussen netwerkaansluitpunten van spraakcommunicatie en ook andere vormen van communicatie, zoals fax en data;  
+w.  vervallen;   
 
-x. openbare telefoondienst: dienst die voor het publiek beschikbaar is voor uitgaande en binnenkomende gesprekken;  
+x. openbare telefoondienst: dienst die voor het publiek beschikbaar is voor direct of indirect uitgaande en binnenkomende nationale of internationale gesprekken, met behulp van een nummer of een aantal nummers in een nationaal of internationaal nummerplan;  
 
 y. programma: programma als bedoeld in [artikel 1.1 van de Mediawet 2008](../../../wet/mediawet/2008/BWBR0025028/README.md);  
 
@@ -134,17 +134,27 @@ yy. ondertekenaar: voor de toepassing van deze wet geldt de definitiebepaling va
 
 zz. openbare betaaltelefoon: voor het publiek toegankelijk telefoontoestel waarmee uitgaande gesprekken gevoerd kunnen worden en waarvan de betaling voor het gebruik kan geschieden door middel van munten, krediet- of debetkaarten of vooruitbetaalde telefoonkaarten;  
 
-aaa. notificatierichtlijn: richtlijn nr. 98/34/EG van het Europees Parlement en de Raad van de Europese Unie van 22 juni 1998 betreffende een informatieprocedure op het gebied van normen en technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEG L 204);  
+aaa. notificatierichtlijn: richtlijn nr. 98/34/EG van het Europees Parlement en de Raad van de Europese Unie van 22 juni 1998 betreffende een informatieprocedure op het gebied van normen en technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEG L 204);  
 
-ccc. programmadienst: dienst die geheel of hoofdzakelijk bestaat uit het aanbieden van programma’s aan het algemene publiek of een deel daarvan;  
+bbb. programmadienst: dienst die geheel of hoofdzakelijk bestaat uit het aanbieden van programma’s aan het algemene publiek of een deel daarvan;  
 
-bbb. conformiteitsrichtlijn: richtlijn van het Europees Parlement en de Raad van de Europese Unie, die geheel of gedeeltelijk berust op artikel 95 van het EG-Verdrag en regels stelt over het op de markt brengen of het gebruik van apparaten;  
+ccc. conformiteitsrichtlijn: richtlijn van het Europees Parlement en de Raad van de Europese Unie, die geheel of gedeeltelijk berust op artikel 95 van het EG-Verdrag en regels stelt over het op de markt brengen of het gebruik van apparaten;  
 
-ccc. nummerhouder: degene aan wie het college op aanvraag een nummer heeft toegekend;  
+ddd. nummerhouder: degene aan wie het college op aanvraag een nummer heeft toegekend;  
 
-ddd. nummergebruiker: degene die een nummer gebruikt;  
+eee. nummergebruiker: degene die een nummer gebruikt;  
 
-eee. roamingverordening: verordening nr. 717/2007 van het Europees Parlement en de Raad van de Europese Unie van 27 juni 2007 betreffende roaming op openbare mobiele telefoonnetwerken binnen de Gemeenschap en tot wijziging van Richtlijn 2002/21/EG inzake een gemeenschappelijk regelgevingskader voor elektronische-communicatienetwerken en -diensten (PbEU L 171).    
+fff. roamingverordening: op grond van artikel 114 van het Verdrag betreffende de werking van de Europese Unie vastgestelde verordening van het Europees Parlement en de Raad van de Europese Unie betreffende roaming op openbare mobiele-communicatienetwerken binnen de Unie, en de op grond van die verordening door de Europese Commissie vastgestelde uitvoeringshandelingen;  
+
+ggg. bijbehorende diensten: de bij een elektronisch communicatienetwerk of een elektronische communicatiedienst behorende diensten die het aanbieden van diensten via dat netwerk of die dienst mogelijk maken of ondersteunen of het potentieel hiertoe bezitten;  
+
+hhh. schadelijke interferentie: interferentie die het functioneren van een radionavigatiedienst of van andere veiligheidsvoorzieningen in gevaar brengt, of die een overeenkomstig de geldende internationale, communautaire of nationale voorschriften werkende radiocommunicatiedienst op een andere wijze ernstig verslechtert, hindert of herhaaldelijk onderbreekt;  
+
+iii. BEREC: het orgaan van Europese regelgevende instanties voor elektronische communicatie, opgericht bij Verordening (EG) nr. 1211/2009 van het Europees Parlement en de Raad van 25 november 2009 tot oprichting van het Orgaan van Europese regelgevende instanties voor elektronische communicatie (BEREC) en het Bureau;  
+
+jjj. Het Bureau: het Bureau als bedoeld in artikel 6 van Verordening (EG) nr. 1211/2009 van het Europees Parlement en de Raad van 25 november 2009 tot oprichting van het Orgaan van Europese regelgevende instanties voor elektronische communicatie (BEREC) en het Bureau;  
+
+kkk. ITU: Internationale Unie voor Telecommunicatie.    
 
 ### Artikel  1.2  
 
@@ -152,16 +162,15 @@ De bepalingen vastgesteld bij of krachtens deze wet gelden mede op en met betrek
 
 ### Artikel  1.3  
 
-1.  Het college draagt er zorg voor dat zijn besluiten bijdragen aan het verwezenlijken van de doelstellingen als bedoeld in artikel 8, tweede, derde en vierde lid, van richtlijn nr. 2002/21/EG in elk geval door: 
+1.  Het college draagt er zorg voor dat zijn besluiten bijdragen aan het verwezenlijken van de doelstellingen als bedoeld in artikel 8, tweede tot en met vijfde lid, van richtlijn nr. 2002/21/EG in elk geval door: 
 
 a. het bevorderen van concurrentie bij het leveren van elektronische communicatienetwerken, elektronische communicatiediensten, of bijbehorende faciliteiten, onder meer door efficiënte investeringen op het gebied van infrastructuur aan te moedigen en innovaties te steunen;  
 
 b. de ontwikkeling van de interne markt;  
 
 c. het bevorderen van belangen van eindgebruikers wat betreft keuze, prijs en kwaliteit.     
-2.  Het college houdt bij de uitoefening van zijn taken en bevoegdheden rekening met aanbevelingen van de Commissie van de Europese Gemeenschappen als bedoeld in artikel 19, eerste lid, van richtlijn nr. 2002/21/EG, voor zover die aanbevelingen betrekking hebben op de bij of krachtens deze wet aan het college opgedragen taken of verleende bevoegdheden.   
-3.  Indien het college geen toepassing geeft aan een aanbeveling als bedoeld in het tweede lid, informeert hij, onder vermelding van de redenen, de Commissie van de Europese Gemeenschappen en Onze Minister.   
-4.  Indien het college een besluit neemt, dat aanzienlijke gevolgen voor de desbetreffende markt heeft, onderbouwt het college, onder andere op basis van een verantwoording van de voorzienbare relevante gevolgen, zowel in kwalitatieve, als voor zover redelijkerwijs mogelijk in kwantitatieve zin dat de maatregel noodzakelijk is voor het bereiken van de in het eerste lid genoemde doelstellingen en dat een andere minder ingrijpende maatregel niet effectief is.   
+2.  Het college houdt bij de uitoefening van zijn taken en bevoegdheden zoveel mogelijk rekening met aanbevelingen van de Europese Commissie als bedoeld in artikel 19, eerste lid, van richtlijn nr. 2002/21/EG, en met door BEREC gegeven adviezen en gemeenschappelijke standpunten, voor zover die aanbevelingen, adviezen en standpunten betrekking hebben op de bij of krachtens deze wet aan het college opgedragen taken of verleende bevoegdheden.   
+3.  Indien het college geen toepassing geeft aan een aanbeveling van de Europese Commissie als bedoeld in het tweede lid, informeert hij, onder vermelding van de redenen, de Commissie van de Europese Gemeenschappen en Onze Minister.   
 
 ### Hoofdstuk  2  
 
@@ -234,8 +243,62 @@ Het college is verantwoordelijke in de zin van [artikel 1, onderdeel d, van de W
 
 ### Artikel  3.1  
 
-1.  Onze Minister stelt, in overeenstemming met het gevoelen van de ministerraad een frequentieplan vast, dat in ieder geval de verdeling van frequentieruimte over te onderscheiden bestemmingen alsmede over categorieën van gebruik bevat. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzien van de inrichting van het frequentieplan.   
-2.  Op de voorbereiding van het frequentieplan is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
+1.  Onze Minister stelt na overleg met Onze Minister wie het mede aangaat, een frequentieplan en wijzigingen daarvan vast.   
+2.  Het frequentieplan bevat in ieder geval: 
+
+a. de bestemmingen van te onderscheiden frequentiebanden,  
+
+b. de aanwijzing van frequentiebanden waarbinnen onder verantwoordelijkheid van Onze Minister wie het mede aangaat bij regeling van Onze Minister aan te wijzen publieke taken worden uitgevoerd op het gebied van defensie, veiligheid van de staat, handhaving van de rechtsorde, wetenschap, veiligheid van het verkeer en hulpverlening,  
+
+c. de aanwijzing van frequentiebanden waarbinnen de vergunningen voor het gebruik van frequentieruimte ten behoeve van het verzorgen van taken op het gebied van de publieke mediadienst bedoeld in [artikel 1.1 van de Mediawet 2008](../../../wet/mediawet/2008/BWBR0025028/README.md), worden verleend zonder toepassing van een van de procedures, bedoeld in artikel 3.3, vierde lid,  
+
+d. de aanwijzing van frequentiebanden waarbinnen voor bepaalde bestemmingen frequentieruimte al dan niet tezamen met categorieën van radiozendapparaten als bedoeld in artikel 3.4 en al dan niet met een meldingsplicht, zonder vergunning mag worden gebruikt,  
+
+e. de aanwijzing van frequentiebanden waarbinnen frequentieruimte voor bepaalde bestemmingen niet zonder vergunning mag worden gebruikt, alsmede de aanduiding of vergunningen worden verleend met toepassing van de procedure, bedoeld in artikel 3.3, vierde lid,  
+
+f. de aanwijzing van frequentiebanden waarbinnen in bij besluit van Onze Minister nader aan te wijzen geografische gebieden frequentieruimte uitsluitend mag worden gebruikt voor het ontvangen van signalen, en  
+
+g. de aanwijzing van frequentiebanden binnen welke voor bepaalde bestemmingen medegebruik kan worden opgelegd, met dien verstande dat de aanwijzing, bedoeld in onderdeel e, uitsluitend wordt gedaan voor zover dat nodig is om: 
+
+1°. te voldoen aan een bindende internationale overeenkomst betreffende het gebruik van frequentieruimte;  
+
+2°. in die frequentiebanden: 
+
+– schadelijke interferentie te vermijden,  
+
+– de technische kwaliteit van elektronische communicatienetwerken en -diensten te verzekeren,  
+
+– een doelmatig gebruik van frequentieruimte te waarborgen, of  
+
+– andere doelstellingen van algemeen belang te vervullen.         
+3.  Bij de bestemming en de aanwijzing van frequentiebanden, bedoeld in het tweede lid, onderdelen a en e, kunnen ten behoeve van elektronische communicatienetwerken en -diensten in het frequentieplan proportionele en niet-discriminerende beperkingen worden opgelegd met betrekking tot de te gebruiken technologie indien dat nodig is om: 
+
+a. schadelijke interferentie te vermijden;  
+
+b. de volksgezondheid te beschermen tegen elektromagnetische velden;  
+
+c. de technische kwaliteit van de dienst te garanderen;  
+
+d. te zorgen voor zoveel mogelijk gedeeld gebruik van de radiofrequenties;  
+
+e. een doelmatig gebruik van frequentieruimte te waarborgen;  
+
+f. een doelstelling van algemeen belang te verwezenlijken;  
+
+g. te voldoen aan een bindende internationale overeenkomst betreffende het gebruik van frequentieruimte.     
+4.  Bij de bestemming en de aanwijzing van frequentiebanden, bedoeld in het tweede lid, onderdelen a en e, kunnen in het frequentieplan proportionele en niet-discriminerende beperkingen worden opgelegd met betrekking tot de soorten elektronische communicatiediensten die worden aangeboden indien dat nodig is om te voldoen aan een bindende internationale overeenkomst betreffende het gebruik van frequentieruimte of om een doelstelling van algemeen belang te verwezenlijken.   
+5.  Als een doelstelling van algemeen belang als bedoeld in het derde lid, onderdeel f, en het vierde lid, worden in ieder geval aangemerkt: 
+
+a. de veiligheid van het menselijk leven;  
+
+b. de bevordering van sociale, regionale of territoriale samenhang;  
+
+c. het doelmatig gebruik van frequentieruimte;  
+
+d. het bevorderen van de culturele en taalkundige diversiteit en het pluralisme van de media.     
+6.  Indien een beperking als bedoeld in het vierde en vijfde lid wordt opgelegd, onderzoekt Onze Minister uiterlijk vijf jaar na het opleggen van de beperking, en vervolgens iedere vijf jaar, of de beperking kan worden opgeheven. Indien een beperking niet meer nodig is voor de verwezenlijking van een van de in het vierde en vijfde lid genoemde doelstellingen, wordt het frequentieplan hierop aangepast.   
+7.  Op de voorbereiding van het frequentieplan en wijzigingen daarvan is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing, met dien verstande dat in aanvulling op [artikel 3:15, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), ook een gebruiker en een consument zijn zienswijze over het ontwerp naar voren kan brengen.   
+8.  Onze Minister kan bij ministeriële regeling nadere regels stellen ten aanzien van de inrichting van het frequentieplan.   
 
 ### Artikel  3.2  
 
@@ -278,7 +341,7 @@ b. de toepassing en uitvoering van de procedures, bedoeld in het vierde lid, en
 
 c. de criteria die worden toegepast bij een vergelijkende toets als bedoeld in het vierde lid, onder b.     
 10.  Onze Minister kan besluiten dat een of meer aanbieders van openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten worden uitgesloten van het verkrijgen van een vergunning voor het gebruik van bij dat besluit te bepalen frequentieruimte indien die vergunning wordt verleend volgens een procedure als bedoeld in het vierde lid, onder b, of onder c, met dien verstande dat dit slechts kan geschieden indien dat met het oog op de totstandbrenging of instandhouding van daadwerkelijke mededinging noodzakelijk is.   
-11.  De vergunning wordt verleend voor een bij die vergunning te bepalen termijn. De vergunning kan worden verlengd met een door Onze Minister te bepalen termijn.   
+11.  Vergunningen worden verleend voor een bij die vergunning te bepalen termijn die gerelateerd is aan de betrokken dienstverlening, het met de vergunningverlening nagestreefde doel en die rekening houdt met een passende periode die nodig is voor de afschrijving van investeringen. De vergunning kan worden verlengd met een door Onze Minister te bepalen termijn.   
 
 ### Artikel  3.3a  
 
@@ -340,9 +403,33 @@ b. meer dan de helft van de leden van het bestuur of het toezichthoudend orgaan 
 ### Artikel  3.5  
 
 1.  Een vergunning kan in het belang van een goede verdeling van frequentieruimte, alsmede in het belang van een ordelijk en doelmatig gebruik van frequentieruimte onder beperkingen worden verleend. In die belangen kunnen aan een vergunning voorschriften worden verbonden.   
-2.  Onverminderd het eerste lid kan bij een vergunning worden voorgeschreven dat de frequentieruimte waarop de vergunning ziet moet worden gebruikt voor de verzorging voor het publiek van bij de vergunning aan te wijzen diensten. In dat geval kunnen de in het eerste lid bedoelde beperkingen en voorschriften tevens zien op het belang van een goede dienstverlening.   
-3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld terzake van de beperkingen waaronder een vergunning kan worden verleend en de voorschriften die op grond van het eerste of tweede lid aan een vergunning kunnen worden verbonden.   
-4.  In het geval frequentieruimte moet worden gebruikt voor de verzorging voor het publiek van diensten als bedoeld in het tweede lid, kunnen bij of krachtens algemene maatregel van bestuur in het belang van een goede dienstverlening regels worden gesteld voor aanbieders van die diensten.   
+2.  Onverminderd het eerste lid kan aan een vergunning het voorschrift worden verbonden dat de frequentieruimte waarop de vergunning betrekking heeft, moet worden gebruikt voor de verzorging van bij de vergunning aan te wijzen diensten, voor zover dat nodig is voor de verwezenlijking van een doelstelling van algemeen belang. In dat geval kunnen de in het eerste lid bedoelde beperkingen en voorschriften tevens betrekking hebben op het belang van een goede dienstverlening.   
+3.  Als redenen van algemeen belang als bedoeld in het tweede lid, worden in ieder geval aangemerkt: 
+
+a. de veiligheid van het menselijk leven;  
+
+b. het bevorderen van de sociale, regionale of territoriale samenhang;  
+
+c. het doelmatig gebruik van frequentieruimte;  
+
+d. de bevordering van culturele en taalkundige diversiteit en pluralisme van de media.     
+4.  Onverminderd het eerste lid kan aan een vergunning het voorschrift worden verbonden dat de frequentieruimte waarop de vergunning betrekking heeft moet worden gebruikt voor de toepassing van bij de vergunning aan te wijzen technologieën, indien dat nodig is om: 
+
+a. schadelijke interferentie te vermijden;  
+
+b. de volksgezondheid te beschermen tegen elektromagnetische velden;  
+
+c. de technische kwaliteit van de dienst te garanderen;  
+
+d. te zorgen voor zoveel mogelijk gedeeld gebruik van de radiofrequenties;  
+
+e. een doelmatige gebruik van frequentieruimte te waarborgen;  
+
+f. een doelstelling van algemeen belang zoals bedoeld in het derde lid, te verwezenlijken.     
+5.  Indien een voorschrift als bedoeld in het tweede en vierde lid wordt opgelegd, onderzoekt Onze Minister uiterlijk vijf jaar nadat het voorschrift aan de vergunning is verbonden, en vervolgens iedere vijf jaar, of het voorschrift kan worden geschrapt. Indien een voorschrift niet meer nodig is voor de verwezenlijking van een van de in het tweede en vierde lid genoemde doelstellingen, wordt de vergunning hierop aangepast.   
+6.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld terzake van de beperkingen waaronder een vergunning kan worden verleend en de voorschriften die op grond van het eerste of tweede lid aan een vergunning kunnen worden verbonden.   
+7.  In het geval frequentieruimte moet worden gebruikt voor de verzorging voor het publiek van diensten als bedoeld in het tweede lid, kunnen bij of krachtens algemene maatregel van bestuur in het belang van een goede dienstverlening regels worden gesteld voor aanbieders van die diensten.   
+8.  Indien een vergunning wordt verleend met toepassing van een van de procedures, bedoeld in artikel 3.3, vierde lid, onder b of c, wordt een voornemen om een vergunning onder beperkingen te verlenen en een voornemen om aan een vergunning voorschriften te verbinden, op passende wijze bekendgemaakt. Belanghebbenden, gebruikers en consumenten kunnen tot vier weken na bekendmaking van een voornemen hun zienswijze over het voornemen naar voren brengen.   
 
 ### Artikel  3.6  
 
@@ -394,6 +481,30 @@ f. de instandhouding van de vergunning de daadwerkelijke mededinging op de relev
 
 g. de vergunning met toepassing van artikel 3.4a is verleend en de zeggenschap over het gebruik van de vergunning is overgegaan naar een andere vergunninghouder aan wie eveneens met toepassing van dat artikel een vergunning is verleend voor frequentieruimte met een zelfde bestemming, en daardoor de maximale hoeveelheid te verkrijgen frequentieruimte wordt overschreden en rekeninghoudend met de dan geldende omstandigheden een evenwichtige verdeling van schaarse frequentieruimte het in stand laten van de vergunning niet langer rechtvaardigt.     
 3.  Op de gronden, genoemd in het tweede lid, kan Onze Minister in plaats van de vergunning intrekken deze ook wijzigen.   
+
+### Artikel  3.7a  
+
+1.  Indien een van de gronden, bedoeld in artikel 3.7, tweede lid, van toepassing is, kan Onze Minister in plaats van intrekken of wijzigen van een vergunning, de houder van een vergunning verplichten om die vergunning overeenkomstig de in het zevende lid, onderdeel a, bedoelde procedure binnen een bij ministeriële regeling te bepalen termijn geheel of gedeeltelijk over te dragen aan een natuurlijke of rechtspersoon die een toestemming heeft verkregen van Onze Minister. De houder van de vergunning deelt Onze Minister binnen zeven dagen na afloop van de in de eerste volzin bedoelde periode mede aan wie de vergunning is overgedragen.   
+2.  Indien na afloop van de in het eerste lid, bedoelde periode overdracht van de vergunning uitblijft, neemt Onze Minister de in het zevende lid, onderdeel a, bedoelde procedure tot overdracht ter hand en draagt Onze Minister die vergunning geheel of gedeeltelijk over aan de natuurlijke of rechtspersoon die overeenkomstig die bedoelde procedure, de hoogste prijs of de minimumprijs heeft geboden voor die vergunning. In het geval meerdere natuurlijke of rechtspersonen de hoogste of de minimumprijs hebben geboden, wordt door middel van loting bepaald aan wie van die personen de vergunning wordt overgedragen.   
+3.  Aan de in het zevende lid, onderdeel a, bedoelde procedure kunnen uitsluitend natuurlijke of rechtspersonen deelnemen die op grond van het bepaalde op grond van het zevende lid, onderdeel b, een toestemming als bedoeld in het eerste lid, hebben verkregen.   
+4.  Artikel 3.8, tweede en vierde lid, zijn van overeenkomstige toepassing.   
+5.  De houder van een vergunning aan wie Onze minister kenbaar heeft gemaakt dat hij voornemens is om de in het eerste lid, bedoelde verplichting op te leggen, kan uiterlijk binnen een bij ministeriële regeling gestelde periode na de datum van kennisgeving van het ontwerpbesluit verzoeken om: 
+
+a. intrekking van de vergunning op grond van artikel 3.7, eerste lid, onderdeel a,  
+
+b. wijziging van de vergunning op grond van artikel 3.7, derde lid, of  
+
+c. toestemming voor overdracht op grond van artikel 3.8, eerste lid.   Onze minister wijst een verzoek dat wordt ingediend na afloop van deze periode af.   
+6.  Gedurende de procedure, bedoeld in het zevende lid, onderdeel a, en gedurende acht weken na het tijdstip waarop de procedure is afgerond, zijn artikel 3:7, eerste lid, aanhef en onderdeel a, tweede en derde lid, en artikel 3.8, eerste lid, eerste volzin, niet van toepassing op de vergunning waarop het ontwerpbesluit, bedoeld in het eerste lid, betrekking heeft.   
+7.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van: 
+
+a. de door de houder van de vergunning, bedoeld in het eerste lid, of door Onze Minister te volgen procedure om te bepalen aan welke natuurlijke of rechtspersoon als bedoeld in het derde lid, de vergunning wordt overgedragen;  
+
+b. de eisen die worden gesteld aan natuurlijke personen of rechtspersonen, de aanvraag en de procedure om een toestemming als bedoeld in het eerste lid te verkrijgen;  
+
+c. de wijze waarop bepaald wordt welke natuurlijke of rechtspersoon die een toestemming heeft verkregen de vergunning verkrijgt;  
+
+d. de bepaling en betaling van de prijs voor de vergunning.     
 
 ### Artikel  3.8  
 
@@ -476,7 +587,11 @@ Onverminderd artikel 3.12 is het college bevoegd om op eigen initiatief in concr
 
 ### Artikel  4.1  
 
-1.  Onze Minister stelt, na overleg met het college, nummerplannen vast waarin in ieder geval de bestemming van de daarin opgenomen nummers wordt aangegeven. In een nummerplan kan worden bepaald dat eenzelfde nummer aan meerdere aanvragers kan worden toegekend.   
+1.  Onze Minister stelt, na overleg met het college, nummerplannen vast waarin in ieder geval de bestemming van de daarin opgenomen nummers wordt aangegeven. In een nummerplan kan voorts: 
+
+a. worden bepaald dat eenzelfde nummer aan meerdere aanvragers kan worden toegekend;  
+
+b. ter bescherming van de consument een maximum worden gesteld aan het tarief van een in het nummerplan opgenomen nummer.     
 2.  Op de voorbereiding van een nummerplan is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
 3.  Het tweede lid is niet van toepassing indien het vast te stellen nummerplan slechts betrekking heeft op: 
 
@@ -489,7 +604,7 @@ c. overige wijzigingen die van ondergeschikte aard zijn en waarvan in het nummer
 
 ### Artikel  4.1a  
 
-Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van overeenkomstig artikel 19, tweede lid, van richtlijn nr. 2002/21/EG vastgestelde technische uitvoeringsmaatregelen inzake de harmonisatie van nummervoorraden in de Europese Unie teneinde de ontwikkeling van pan-Europese diensten te ondersteunen.  
+Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van overeenkomstig artikel 19, eerste en derde lid, onderdeel b, van richtlijn nr. 2002/21/EG vastgestelde technische uitvoeringsmaatregelen inzake de harmonisatie van nummervoorraden in de Europese Unie teneinde de ontwikkeling van pan-Europese diensten te ondersteunen.  
 
 ### Artikel  4.2  
 
@@ -500,7 +615,11 @@ a. een aanbieder van een elektronisch communicatienetwerk ten behoeve van het ve
 b. een aanbieder van een elektronische communicatiedienst ten behoeve van het verzorgen van zijn elektronische communicatiedienst, of  
 
 c. een natuurlijke persoon of rechtspersoon ten behoeve van het gebruik van een elektronische communicatiedienst.     
-2.  Een besluit over een aanvraag om toekenning van nummers wordt binnen drie weken na ontvangst van de aanvraag genomen en bekendgemaakt. Indien de aanvraag betrekking heeft op een nummer, waarvan in een nummerplan is vastgelegd dat dit wordt toegekend door middel van een procedure van veiling, wordt de termijn verlengd met drie weken.   
+2.  Een besluit over een aanvraag om toekenning van nummers wordt binnen drie weken na ontvangst van de aanvraag genomen en bekendgemaakt. Indien de aanvraag betrekking heeft op een nummer, waarvan in een nummerplan is vastgelegd dat dit wordt toegekend door middel van een procedure van veiling: 
+
+a. wordt de termijn verlengd met drie weken, en  
+
+b. is [artikel 4:14, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing.     
 3.  In het belang van een doelmatige toekenning van nummers kan bij ministeriële regeling worden bepaald dat nummers voor een bij die regeling aangewezen bestemming of categorie van gevallen, slechts kunnen worden toegekend aan één, onderscheidenlijk twee, van de in het eerste lid, onder a tot en met c, bedoelde categorieën van aanvragers.   
 4.  Een toekenning van nummers kan in het belang van een doelmatig gebruik van nummers onder beperkingen worden verleend. In dat belang kunnen aan een toekenning voorschriften worden verbonden.   
 5.  Gedurende de voorbereiding van een nummerplan kan het college, in overeenstemming met door Onze Minister aan te wijzen bestemmingen en de daarbij behorende nummers, nummers toekennen gedurende een bij dat besluit vast te stellen termijn. Het verbod van artikel 4.1, vierde lid, is van overeenkomstige toepassing op de door Onze Minister aangewezen nummers.   
@@ -614,7 +733,11 @@ a. de mogelijkheid te bieden het in het kader van de afgenomen elektronische com
 b. de mogelijkheid te bieden het in het kader van de afgenomen elektronische communicatiedienst bij hem in gebruik zijnde nummer te blijven gebruiken indien hij binnen een bepaald gebied van adres verandert, of  
 
 c. de mogelijkheid te bieden het in het kader van de afgenomen elektronische communicatiedienst bij hem in gebruik zijnde nummer te blijven gebruiken indien hij er voor kiest een andere bij die maatregel aan te wijzen elektronische communicatiedienst af te nemen.     
-2.  Een aanbieder van krachtens het eerste lid aangewezen categorie van elektronische communicatiediensten op wie een verplichting als bedoeld in dat lid, onderdeel a, rust, is tevens verplicht aan degene met wie hij overeenkomt de desbetreffende elektronische communicatiedienst te leveren de mogelijkheid te bieden het voorheen in het kader van die dienst bij diegene in gebruik zijnde nummer te blijven gebruiken.   
+2.  Een aanbieder van een krachtens het eerste lid aangewezen categorie van openbare elektronische communicatiediensten op wie een verplichting als bedoeld in dat lid, onderdeel a, rust, is tevens verplicht: 
+
+a. aan degene met wie hij overeenkomt de desbetreffende openbare elektronische communicatiedienst te leveren de mogelijkheid te bieden het voorheen in het kader van die dienst bij diegene in gebruik zijnde nummer te blijven gebruiken, en  
+
+b. indien de abonnee tijdig met de aanbieder de levering van de desbetreffende openbare elektronische communicatiedienst overeenkomt en daarbij laat weten gebruik te maken van de mogelijkheid bedoeld in het eerste lid, onderdeel a, de levering van de dienst via het bij de abonnee in gebruik zijnde nummer zo spoedig mogelijk aan te vangen, doch niet later dan de werkdag volgend op de dag waarop de levering van de dienst door de vorige aanbieder wordt beëindigd.     
 3.  Bij een verplichting opgelegd, krachtens het eerste lid, onderdeel a, gaat: 
 
 a. in het geval het betreffende nummer is toegekend aan een aanbieder van een openbaar elektronisch communicatienetwerk en voor de betreffende openbare elektronische communicatiedienst voortaan het openbare elektronisch communicatienetwerk van een andere aanbieder wordt gebruikt, de toekenning van het betreffende nummer over op die andere aanbieder van dat netwerk;  
@@ -755,7 +878,7 @@ f. de wijze van melding en uitvoering van spoedeisende werkzaamheden in verband 
 5.  In andere gevallen dan bedoeld in het eerste of tweede lid, is de aanbieder slechts verplicht over te gaan tot maatregelen, waaronder het verplaatsen van de kabels, indien degene op wie de gedoogplicht rust hem de kosten daarvan vergoedt.   
 6.  Ingeval een verzoek tot het nemen van maatregelen is gedaan, gaat de aanbieder zo snel mogelijk over tot de gevraagde maatregelen, doch niet later dan zestien weken na de datum van ontvangst van het verzoek. Indien het verzoek het verplaatsen van kabels betreft gaat de aanbieder zo snel mogelijk over tot de gevraagde verplaatsing, doch niet later dan twaalf weken nadat een plaats waar de kabels kunnen worden gelegd beschikbaar is gekomen. Het verzoek bevat een omschrijving van de op te richten gebouwen dan wel de uit te voeren werken en in geval het verzoek een verplaatsing van kabels betreft voor zover mogelijk een voorstel voor de plaats waar de kabels kunnen worden aangelegd.   
 7.  Bij gebrek aan overeenstemming over de vraag wie de kosten van de te nemen maatregelen dient te dragen, kan degene op wie de gedoogplicht rust dan wel de aanbieder het college verzoeken een beschikking te geven.   
-8.  Het college geeft de beschikking binnen acht weken na ontvangst van het verzoek.   
+8.  Het college geeft de beschikking binnen zeventien weken na ontvangst van het verzoek.   
 
 ### Artikel  5.10  
 
@@ -820,27 +943,21 @@ De [artikelen 17, eerste lid, onder k, van Boek 3 van het Burgerlijk Wetboek](..
 2.  Het college kan voorts ambtshalve, al dan niet in het kader van een aanvraag als bedoeld in het eerste lid, aanbieders van openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten, die daarbij de toegang tot eindgebruikers controleren, verplichtingen opleggen met betrekking tot het tot stand brengen en waarborgen van eind- tot eindverbindingen, indien dit in het voorliggende geval in het licht van de doelstellingen, bedoeld in artikel 1.3 gerechtvaardigd is.   
 3.  Van een besluit als bedoeld in het eerste of tweede lid wordt mededeling gedaan in de Staatscourant. Van gegevens als bedoeld in [artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) wordt geen mededeling gedaan.   
 
-### Artikel  6.3  
-
-1.  Bij algemene maatregel van bestuur kunnen, indien dit in het licht van de doelstellingen, bedoeld in artikel 1.3 gerechtvaardigd is, categorieën van openbare elektronische communicatiediensten worden aangewezen waarvan de aanbieders van de tot een aangewezen categorie behorende diensten en de aanbieders van de daarbij betrokken netwerken, voor zover zij de toegang tot eindgebruikers controleren, in Nederland eind- tot eindverbindingen tot stand moeten brengen en waarborgen.   
-2.  Op verzoek van aanbieders die buiten Nederland elektronische communicatiediensten aanbieden die behoren tot een krachtens het eerste lid aangewezen categorie van diensten, nemen de aanbieders, bedoeld in het eerste lid, de nodige maatregelen voor het tot stand brengen en waarborgen van eind- tot eindverbindingen met betrekking tot de in het buitenland aangeboden diensten.   
-3.  Indien het tot stand brengen van eind- tot eindverbindingen technisch niet uitvoerbaar dan wel economisch niet haalbaar is of anderszins het nemen van de vereiste maatregelen redelijkerwijs niet kan worden verlangd in het licht van de middelen die beschikbaar zijn, kan het college aan een aanbieder ontheffing verlenen van de verplichting, bedoeld in het eerste of tweede lid, tot het tot stand brengen en het waarborgen van eind- tot eindverbindingen.   
-4.  Onverminderd het derde lid, treedt ter uitvoering van het eerste of, ingeval van een verzoek, tweede lid iedere daar bedoelde aanbieder met andere daar bedoelde aanbieders in onderhandeling om overeenkomsten te sluiten op basis waarvan maatregelen worden genomen opdat eind- tot eindverbindingen tot stand komen en zijn gewaarborgd.   
-
 ### Artikel  6.4  
 
 Voorschriften als bedoeld in artikel 6.1, derde lid, of verplichtingen als bedoeld in artikel 6.2, eerste of tweede lid, zijn objectief, transparant, proportioneel en niet-discriminerend.  
 
 ### Artikel  6.5  
 
-1.  Bij of krachtens algemene maatregel van bestuur worden voor aanbieders van openbare telefoonnetwerken of openbare telefoondiensten regels gesteld: 
+1.  Aanbieders van openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten die daarbij de toegang tot eindgebruikers controleren zorgen ervoor dat zich in de Europese Unie bevindende eindgebruikers toegang hebben tot alle: 
 
-a. met betrekking tot het behandelen van oproepen van de Europese telefoonnummeringsruimte;  
+a. in de Europese Unie toegekende nummers van een nationaal nummerplan,  
 
-b. die er op gericht zijn dat zich in Nederland bevindende abonnees die gebruik maken van een door het college krachtens artikel 4.2, eerste lid, toegekend niet-geografisch nummer op dit nummer kunnen worden opgeroepen door zich in andere lidstaten van de Europese Unie bevindende eindgebruikers;  
+b. nummers van de Europese telefoonnnummerruimte, en  
 
-c. die er op gericht zijn dat zich in andere lidstaten van de Europese Unie bevindende abonnees die gebruik maken van een niet-geografisch nummer dat is toegekend door een nationale regelgevende instantie op dit nummer kunnen worden opgeroepen door zich in Nederland bevindende eindgebruikers.     
-2.  Bij de regels, bedoeld in het eerste lid, kunnen taken worden opgedragen en bevoegdheden worden verleend aan het college.   
+c. door ITU toegekende nummers,   en gebruik kunnen maken van diensten met gebruikmaking van de in de onderdelen a tot en met c bedoelde nummers, tenzij dat technisch of economisch niet haalbaar is, of een opgeroepen abonnee heeft besloten de toegang van oproepende gebruikers die zich in specifieke geografische gebieden bevinden, te beperken.   
+2.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regel worden gesteld ter waarborging van de verplichting, bedoeld in het eerste lid. Deze regels kunnen onder meer betrekking hebben op de vergoedingen voor de toegang tot de in het eerste lid, bedoelde nummers.   
+3.  De regels, bedoeld in het tweede lid, kunnen voor bij die regels te bepalen categorieën van aanbieders, als bedoeld in het eerste lid, verschillen. Bij die regels kunnen taken worden opgedragen en bevoegdheden worden verleend aan het college.   
 
 ### Artikel  6.6  
 
@@ -857,15 +974,15 @@ Artikel 6.1, tweede lid, is van overeenkomstige toepassing op onderhandelingen t
 ### Artikel  6a.1  
 
 1.  Het college bepaalt in overeenstemming met de beginselen van het algemene Europese mededingingsrecht de relevante markten in de elektronische communicatiesector waarvan de product- of dienstenmarkt overeenkomt met een in een aanbeveling als bedoeld in artikel 15, eerste lid, van richtlijn nr. 2002/21/EG vermelde product- of dienstenmarkt. Het college bepaalt in elk geval zo spoedig mogelijk nadat een aanbeveling als bedoeld in de eerste volzin in werking is getreden, de in die volzin bedoelde relevante markten.   
-2.  Het college bepaalt in overeenstemming met de beginselen van het algemene Europese mededingingsrecht andere dan de in het eerste lid bedoelde relevante markten in de elektronische communicatiesector indien hier naar zijn oordeel aanleiding toe is, of indien dit voortvloeit uit artikel 6a.4 of uit artikel 27 van richtlijn nr. 2002/21/EG.   
-3.  Het college onderzoekt de overeenkomstig het eerste en tweede lid bepaalde relevante markten zo spoedig mogelijk.   
+2.  Het college bepaalt in overeenstemming met de beginselen van het algemene Europese mededingingsrecht andere dan de in het eerste lid bedoelde relevante markten in de elektronische communicatiesector indien hier naar zijn oordeel aanleiding toe is, of indien dit voortvloeit uit artikel 6a.4.   
+3.  Het college onderzoekt de overeenkomstig het eerste en tweede lid, bepaalde relevante markten zo spoedig mogelijk, doch voor markten waarvoor nog niet eerder een kennisgeving bij de Europese Commissie is gedaan uiterlijk binnen twee jaar, nadat een aanbeveling als bedoeld in artikel 15, eerste lid, van richtlijn nr. 2002/21/EG in werking is getreden. De termijn van twee jaar kan door het college worden verlengd met zes maanden indien het college met bijstand van BEREC de relevante markten onderzoekt.   
 4.  Het college onderzoekt een transnationale markt zo spoedig mogelijk nadat een beschikking van de Commissie van de Europese Gemeenschappen die hieraan ten grondslag ligt in werking is getreden en vervolgens op gezette tijden.   
 5.  Het in het derde en vierde lid bedoelde onderzoek is er in ieder geval op gericht om vast te stellen: 
 
 a. of de desbetreffende markt al dan niet daadwerkelijk concurrerend is en of hierop ondernemingen die openbare elektronische communicatienetwerken, bijbehorende faciliteiten of openbare elektronische communicatiediensten aanbieden actief zijn die beschikken over een aanmerkelijke marktmacht, en  
 
 b. welke verplichtingen als bedoeld in de artikelen 6a.6 tot en met 6a.10 en 6a.12 tot en met 6a.15 passend zijn voor de onder a bedoelde ondernemingen die beschikken over een aanmerkelijke marktmacht.     
-6.  Nadat het onderzoek als bedoeld in het derde of vierde lid is afgerond, geeft het college zo spoedig mogelijk uitvoering aan de artikelen 6a.2, eerste lid, of  6a.3.   
+6.  Nadat het onderzoek als bedoeld in het derde of vierde lid is afgerond, geeft het college zo spoedig mogelijk uitvoering aan de artikelen 6a.2, eerste lid, of 6a.3, doch voor relevante markten waarvoor nog niet eerder een kennisgeving bij de Europese Commissie is gedaan uiterlijk binnen de in het derde lid, bedoelde termijn van twee jaar. De termijn van twee jaar kan door het college worden verlengd met zes maanden indien het college met bijstand van BEREC de relevante markten onderzoekt.   
 7.  Het college houdt bij de uitoefening van zijn taken en bevoegdheden op grond van dit hoofdstuk rekening met door de Commissie van de Europese Gemeenschappen krachtens artikel 15, tweede lid, van richtlijn nr. 2002/21/EG vastgestelde richtsnoeren.   
 8.  Bij het beoordelen of twee of meer ondernemingen tezamen beschikken over een economische kracht als bedoeld in artikel 1.1, onderdeel s, hanteert het college in elk geval de criteria bedoeld in bijlage II van richtlijn nr. 2002/21/EG.   
 9.  Het college oefent bij transnationale markten zijn taken en bevoegdheden op grond van dit hoofdstuk uit in samenspraak met de betrokken nationale regelgevende instanties.   
@@ -883,7 +1000,7 @@ c. trekt hij eerder opgelegde of in stand gehouden verplichtingen, voor zover zi
 
 a. verplichtingen als bedoeld in de artikelen 6a.6 tot en met 6a.10 alleen op aan ondernemingen die openbare elektronische communicatienetwerken of bijbehorende faciliteiten aanbieden;  
 
-b. verplichtingen als bedoeld in artikel 6a.12 tot en met 6a.15 alleen op, indien de relevante markt onderscheidenlijk transnationale markt een eindgebruikersmarkt is en de verplichtingen, bedoeld in de artikelen 6a.6 tot en met 6a.11 en 6a.17 ontoereikend zijn om daadwerkelijke concurrentie te verwezenlijken of de belangen van eindgebruikers te beschermen.     
+b. verplichtingen als bedoeld in artikel 6a.12 tot en met 6a.15 alleen op, indien de relevante markt onderscheidenlijk transnationale markt een eindgebruikersmarkt is en de verplichtingen, bedoeld in de artikelen 6a.6 tot en met 6a.11 ontoereikend zijn om daadwerkelijke concurrentie te verwezenlijken of de belangen van eindgebruikers te beschermen.     
 3.  Een verplichting als bedoeld in het eerste lid, is passend indien deze gebaseerd is op de aard van het op de desbetreffende markt geconstateerde probleem en in het licht van de doelstellingen van artikel 1.3 proportioneel en gerechtvaardigd is.   
 4.  Bij de beoordeling of het opleggen van een verplichting om te voldoen aan redelijke verzoeken tot toegang als bedoeld in artikel 6a.6 passend is, houdt het college met name rekening met de factoren, bedoeld in artikel 12, tweede lid, van richtlijn nr. 2002/19/EG.   
 
@@ -895,15 +1012,83 @@ b. verplichtingen als bedoeld in artikel 6a.12 tot en met 6a.15 alleen op, indie
 
 ### Artikel  6a.4  
 
-Uiterlijk binnen drie jaar nadat een besluit als bedoeld in artikel 6a.2, eerste lid, inzake het opleggen of in stand houden van verplichtingen met betrekking tot een onderneming die beschikt over een aanmerkelijke macht op een relevante markt in werking is getreden, besluit het college op grond van: 
+1.  Uiterlijk binnen drie jaar nadat een besluit als bedoeld in artikel 6a.2, eerste lid, inzake het opleggen of in stand houden van verplichtingen met betrekking tot een onderneming die beschikt over een aanmerkelijke macht op een relevante markt in werking is getreden, besluit het college op grond van: 
 
 a. artikel 6a.2, eerste lid, onderdeel b, om deze verplichtingen in stand te houden, of  
 
-b. de artikelen 6a.2, eerste lid, onderdeel c, of 6a.3 om deze verplichtingen in te trekken.    
+b. de artikelen 6a.2, eerste lid, onderdeel c, of  6a.3 om deze verplichtingen in te trekken.     
+2.  De termijn van drie jaar, bedoeld in het eerste lid, kan in uitzonderlijke gevallen door het college worden verlengd met ten hoogste drie jaar indien het college daartoe bij de Europese Commissie een gemotiveerd verzoek heeft ingediend en de Europese Commissie niet binnen een maand na ontvangst van dat verzoek bezwaar heeft gemaakt tegen de verlenging. Voorts wordt deze termijn verlengd met zes maanden indien het college met bijstand van BEREC de relevante markten en de verplichtingen, bedoeld in het eerste lid, onderzoekt.   
+
+### Artikel  6a.4a  
+
+1.  Indien naar het oordeel van het college na het opleggen van een verplichting als bedoeld in de artikelen 6a.6 tot en met 6a.10, voor zover deze passend zijn, die verplichtingen ontoereikend zijn gebleken om daadwerkelijke en duurzame op infrastructuur gegronde concurrentie te verwezenlijken op een relevante markt onderscheidenlijk een transnationale markt, kan het college die onderneming de verplichting opleggen om de activiteiten die verband houden met het aanbieden van door het college te bepalen vormen van toegang in een zelfstandig opererende bedrijfseenheid te plaatsen en deze activiteiten te leveren aan alle ondernemingen onder dezelfde voorwaarden en prijzen en door middel van dezelfde systemen en processen.   
+2.  Het college gaat in het besluit, bedoeld in het eerste lid, in ieder geval in op de volgende elementen: 
+
+a. de exacte aard en het niveau van de scheiding, waarbij met name de rechtsstatus van de zelfstandig opererende bedrijfseenheid wordt vermeld;  
+
+b. de identificatie van de activa van de zelfstandig opererende bedrijfseenheid en de producten of diensten die door deze bedrijfseenheid worden geleverd;  
+
+c. bestuursregelingen om te zorgen voor de onafhankelijkheid van het personeel dat in dienst is bij de afzonderlijke bedrijfseenheid, en de dienovereenkomstige stimulerende structuur;  
+
+d. de voorschriften om te zorgen voor naleving van de wetgeving;  
+
+e. de voorschriften om te zorgen voor transparantie van de operationele procedures;  
+
+f. een instrument om de mate van naleving van het besluit, bedoeld in het eerste lid, jaarlijks te meten, en  
+
+g. publicatie in het jaarverslag van de resultaten van de meting, bedoeld in onderdeel f.     
+3.  Het college kan in het besluit, bedoeld in het eerste lid, verplichtingen opleggen ten aanzien van de elementen, bedoeld in het tweede lid, voor zover dat nodig is om te waarborgen dat de zelfstandige bedrijfseenheid de activiteiten die verband houden met het aanbieden van door het college te bepalen vormen van toegang aan alle ondernemingen onder dezelfde voorwaarden en prijzen levert.   
+4.  Het college legt het ontwerp van het besluit, bedoeld in het eerste lid, en de gronden die aan het ontwerpbesluit ten grondslag liggen voor aan de Europese Commissie, en voegt het volgende bij: 
+
+a. het bewijs dat het ontwerpbesluit is gerechtvaardigd;  
+
+b. een gemotiveerde evaluatie waaruit blijkt dat er binnen een redelijke termijn weinig of geen kans is op daadwerkelijke en duurzame op infrastructuur gegronde concurrentie;  
+
+c. een analyse van de verwachte impact van het ontwerpbesluit op het college, de onderneming, de werknemers van de onderneming, de elektronische communicatiesector als geheel en de stimuli om in deze sector als een geheel te investeren, de sociale en territoriale cohesie, en op andere belanghebbenden alsmede de verwachte impact op de mededinging op het gebied van infrastructuur en gevolgen voor de consument, en  
+
+d. een analyse van de redenen waarom deze verplichting het efficiëntste middel zou zijn om de geïdentificeerde mededingingsproblematiek of markttekortkomingen op te lossen.     
+5.  Het college kan de verplichting tot functionele scheiding pas opleggen nadat de Europese Commissie ten aanzien van het ontwerpbesluit, bedoeld in het eerste lid, een besluit heeft genomen dat het college toestaat een verplichting tot functionele scheiding op te leggen. Het college stelt in dit besluit tevens vast of ingevolge de in het eerste lid bedoelde verplichting op de betrokken relevante markt tevens verplichtingen als bedoeld in de artikelen 6a.6 tot en met 6a.10, op grond van: 
+
+a. artikel 6a.2, eerste lid, onderdeel a, worden opgelegd,  
+
+b. artikel 6a.2, eerste lid, onderdeel b, in stand gehouden worden, of  
+
+c. de artikelen 6a.2, eerste lid, onderdeel c, ingetrokken worden.     
+6.  Het college stelt voorts vast of ingevolge het in het eerste lid bedoelde besluit tevens op aan het toegangsnetwerk verbonden markten verplichtingen, bedoeld in de artikelen 6a.6 tot en met 6a.10 en 6a.12 tot en met 6a.15, op grond van: 
+
+a. artikel 6a.2, eerste lid, onderdeel a, worden opgelegd,  
+
+b. artikel 6a.2, eerste lid, onderdeel b, in stand gehouden worden, of  
+
+c. de artikelen 6a.2, eerste lid, onderdeel c, of 6a.3, ingetrokken worden.     
+
+### Artikel  6a.4b  
+
+1.  Een onderneming waarvan het college overeenkomstig artikel 6a.2, eerste lid, heeft vastgesteld dat die beschikt over een aanmerkelijke marktmacht, informeert het college over de beslissing van het bestuur van de onderneming om de activiteiten die verband houden met het aanbieden van vormen van toegang op groothandelsniveau: 
+
+a. geheel of grotendeels over te dragen aan een onafhankelijke juridische eenheid met een andere eigenaar, of  
+
+b. voor een belangrijk deel in een zelfstandig opererende bedrijfseenheid te plaatsen, teneinde aan alle ondernemingen gelijkwaardige vormen van toegang aan te bieden onder dezelfde voorwaarden en prijzen.   Hierbij overlegt de onderneming de beslissing van het bestuur, alsmede alle informatie die het college nodig heeft voor het besluit, bedoeld in het tweede lid.   
+2.  Zo spoedig mogelijk, doch uiterlijk binnen twee jaar na ontvangst van een beslissing van het bestuur als bedoeld in het eerste lid, stelt het college in een ontwerpbesluit vast of de verplichtingen als bedoeld in de artikelen 6a.6 tot en met 6a.10 of 6a.12 tot en met 6a.15 op de betrokken markt en op de aan het toegangsnetwerk verbonden markten op grond van: 
+
+a. artikel 6a.2, eerste lid, onderdeel a, worden opgelegd,  
+
+b. artikel 6a.2, eerste lid, onderdeel b, in stand gehouden worden, of  
+
+c. de artikelen 6a.2, eerste lid, onderdeel c, of 6a.3, ingetrokken worden.     
+3.  De onderneming die het college heeft geïnformeerd over een beslissing, bedoeld in het eerste lid, informeert het college tevens zo spoedig mogelijk over wijzigingen van die beslissing en over het tijdstip waarop de beslissing is uitgevoerd. Voorts verstrekt de onderneming desgevraagd alle informatie die het college nodig heeft voor het nemen van het besluit, bedoeld in het tweede lid.   
+4.  Zo spoedig mogelijk, doch uiterlijk binnen vier weken na vaststelling van het ontwerpbesluit als bedoeld in het tweede lid, beslist het college of de verplichtingen als bedoeld in de artikelen 6a.6 tot en met 6a.10 of 6a.12 tot en met 6a.15 op de betrokken markt en op de aan het toegangsnetwerk verbonden markten op grond van: 
+
+a. artikel 6a.2, eerste lid, onderdeel a, worden opgelegd  
+
+b. artikel 6a.2, eerste lid, onderdeel b, in stand gehouden worden, of  
+
+c. de artikelen 6a.2, eerste lid, onderdeel c, of 6a.3, ingetrokken worden.     
+5.  Indien de onderneming voor het einde van de in het vierde lid genoemde termijn geen uitvoering heeft gegeven aan de beslissing van het bestuur als bedoeld in het eerste lid, stelt het college het besluit als bedoeld in het vierde lid eerst vast uiterlijk binnen vier weken nadat de onderneming uitvoering heeft gegeven aan die beslissing van het bestuur.   
 
 ### Artikel  6a.5  
 
-Van een besluit als bedoeld in de artikelen 6a.2, eerste lid, of  6a.3 wordt door het college mededeling gedaan in de Staatscourant. Van gegevens als bedoeld in [artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) wordt geen mededeling gedaan.  
+Van een besluit als bedoeld in de artikelen 6a.2, eerste lid, 6a.3, 6a.4a, eerste lid en 6a.4b, vierde lid wordt door het college mededeling gedaan in de Staatscourant. Van gegevens als bedoeld in [artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) wordt geen mededeling gedaan.  
 
 ### §  6a.2  
 
@@ -924,13 +1109,15 @@ d. op groothandelsbasis bepaalde diensten aanbiedt voor wederverkoop door aanbie
 
 e. open toegang verleent tot technische interfaces, protocollen of andere kerntechnologieën die onmisbaar zijn voor de interoperabiliteit van openbare elektronische communicatiediensten of virtuele netwerkdiensten;  
 
-f. co-locatie of andere vormen van gedeeld gebruik van faciliteiten aanbiedt, inclusief gedeeld gebruik van kabelgoten, gebouwen of masten;  
+f. collocatie of andere vormen van gedeeld gebruik van bijbehorende faciliteiten aanbiedt;  
 
 g. bepaalde diensten aanbiedt die nodig zijn voor de interoperabiliteit van de aan gebruikers geleverde eind- tot einddiensten, inclusief faciliteiten voor intelligente netwerkdiensten of roaming binnen mobiele elektronische communicatienetwerken;  
 
 h. toegang verleent tot operationele ondersteuningssystemen of vergelijkbare softwaresystemen die nodig zijn om eerlijke concurrentie bij het aanbieden van elektronische communicatiediensten te waarborgen;  
 
-i. zorgt voor interconnectie van openbare elektronische communicatienetwerken of netwerkfaciliteiten.     
+i. zorgt voor interconnectie van openbare elektronische communicatienetwerken of netwerkfaciliteiten;  
+
+j. toegang verschaffen tot bijbehorende diensten.     
 3.  Het college kan aan de verplichting, bedoeld in het eerste lid, voorschriften verbinden betreffende billijkheid, redelijkheid en opportuniteit.   
 4.  Indien dit nodig is om de normale werking van het betrokken openbare elektronische communicatienetwerk te garanderen, kan het college technische of operationele voorschriften vaststellen die: 
 
@@ -1040,43 +1227,9 @@ Ter uitvoering van artikel 17 van richtlijn nr. 2002/22/EG kunnen bij algemene m
 
 ####Carrierkeuze en carriervoorkeuze op openbare telefoonnetwerken op een vaste locatie
 
-### Artikel  6a.16  
-
-1.  Een onderneming ten aanzien waarvan op grond van artikel 6a.2, eerste lid, is vastgesteld dat zij op één relevante markt onderscheidenlijk transnationale markt of op meer relevante markten of transnationale markten tezamen, beschikt over een aanmerkelijke marktmacht bij de aanbieding van toegang tot en het gebruik van openbare telefoonnetwerken op een vaste locatie, wordt als zodanig aangewezen door het college.   
-2.  Het college trekt een aanwijzing als bedoeld in het eerste lid in voor zover uit een onderzoek als bedoeld in artikel 6a.1, derde of vierde lid, blijkt dat: 
-
-a. een relevante markt of transnationale markt die betrekking heeft op de aanbieding van toegang tot en het gebruik van openbare telefoonnetwerken op een vaste locatie daadwerkelijk concurrerend is geworden, of  
-
-b. de desbetreffende onderneming niet langer beschikt over een aanmerkelijke marktmacht bij de aanbieding van toegang tot en het gebruik van openbare telefoonnetwerken op een vaste locatie.     
-3.  Van een besluit als bedoeld in het eerste of tweede lid wordt door het college mededeling gedaan in de Staatscourant. Van gegevens als bedoeld in [artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) wordt geen mededeling gedaan.   
-
-### Artikel  6a.17  
-
-1.  Een onderneming die krachtens artikel 6a.16, eerste lid, is aangewezen draagt, voor zover zij is aangewezen, er zorg voor dat voor haar abonnees de voorzieningen beschikbaar zijn die het hen mogelijk maken om per oproep door middel van een keuzecode of standaard door middel van een voorkeuze de diensten af te nemen van aanbieders die toegang hebben tot haar openbare telefoonnetwerk op een vaste locatie en de openbare telefoondienst, of een substantieel onderdeel daarvan, op een vaste locatie aanbieden.   
-2.  De in het eerste lid bedoelde voorkeuze moet door de abonnee op individuele basis kunnen worden gewijzigd door middel van het kiezen van een daartoe bestemd nummer uit een door Onze Minister op grond van artikel 4.1 vastgesteld nummerplan.   
-3.  Het college kan een krachtens artikel 6a.16, eerste lid, aangewezen onderneming voorschriften geven met betrekking tot de functionaliteit van de voorzieningen, bedoeld in het eerste lid.   
-4.  Een onderneming die krachtens artikel 6a.16, eerste lid, is aangewezen voldoet, voor zover zij is aangewezen, aan redelijke verzoeken tot toegang tot haar openbare telefoonnetwerken op een vaste locatie van aanbieders die ten minste een substantieel onderdeel van de openbare telefoondienst op een vaste locatie door middel van de in het tweede lid bedoelde keuze of voorkeuze willen aanbieden. De tarieven voor de in de eerste volzin bedoelde toegang zijn op kosten georiënteerd.   
-5.  Teneinde te voorkomen dat de abonnees worden ontmoedigd in het gebruik van de in het eerste lid bedoelde voorzieningen kunnen bij ministeriële regeling regels worden gesteld met betrekking tot de maximale hoogte van het tarief dat voor deze voorzieningen door een krachtens artikel 6a.16, eerste lid, aangewezen onderneming aan haar abonnees in rekening mag worden gebracht.   
-
 ### §  6a.5  
 
 ####Het minimumpakket van huurlijnen
-
-### Artikel  6a.18  
-
-1.  Een onderneming ten aanzien waarvan op grond van artikel 6a.2, eerste lid, is vastgesteld dat zij op een relevante markt onderscheidenlijk een transnationale markt beschikt over een aanmerkelijke marktmacht bij de aanbieding van een type huurlijn uit het minimumpakket van huurlijnen wordt als zodanig aangewezen door het college.   
-2.  Het college trekt een aanwijzing als bedoeld in het eerste lid in voor zover uit een onderzoek als bedoeld in artikel 6a.1, derde of vierde lid, blijkt dat: 
-
-a. een relevante markt of transnationale markt waartoe het desbetreffende type huurlijn uit het minimumpakket van huurlijnen deel uitmaakt daadwerkelijk concurrerend is geworden, of  
-
-b. de desbetreffende onderneming niet langer beschikt over een aanmerkelijke marktmacht bij de aanbieding van het type huurlijn uit het minimumpakket van huurlijnen waarvoor zij is aangewezen.     
-3.  Een aanwijzing als bedoeld in eerste lid vervalt op het tijdstip waarop het desbetreffende type huurlijn uit het minimumpakket van huurlijnen geen deel meer uitmaakt van het minimumpakket van huurlijnen.   
-4.  Van een besluit als bedoeld in het eerste of tweede lid, wordt door het college mededeling gedaan in de Staatscourant. Van gegevens als bedoeld in [artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) wordt geen mededeling gedaan.   
-
-### Artikel  6a.19  
-
-1.  Een onderneming die krachtens artikel 6a.18, eerste lid, is aangewezen, levert op verzoek en binnen een redelijke termijn de typen huurlijnen uit het minimumpakket van huurlijnen waarvoor zij is aangewezen.   
-2.  Bij ministeriële regeling worden ter uitvoering van bijlage VII van richtlijn nr. 2002/22/EG regels gesteld ten aanzien van ondernemingen die krachtens artikel 6a.18, eerste lid, zijn aangewezen. Daarbij kunnen aan het college taken worden opgedragen en bevoegdheden worden verleend.   
 
 ### §  6a.6  
 
@@ -1115,6 +1268,11 @@ c. trekt hij eerder opgelegde verplichtingen, voor zover zij betrekking hebben o
 4.  Voor de toepassing van dit artikel wordt onder «eindgebruiker», bedoeld in de artikelen 6a.12 tot en met 6a.14, verstaan: een natuurlijk persoon of rechtspersoon die gebruik maakt of verzoekt om een programmadienst.   
 5.  De artikelen 6a.1, zesde, zevende en achtste lid, 6a.2, derde lid, 6a.3, eerste en tweede lid, 6a.4, 6a.5, 6a.13, derde, vierde en vijfde lid, 6a.14, tweede tot en met zevende lid, 6b.1, 6b.3 en 6b.6 zijn van overeenkomstige toepassing.   
 
+### Artikel  6a.21a  
+
+1.  Het college kan aan een onderneming die een aanmerkelijke marktmacht heeft bij het aanbieden van programmadiensten, op grond van artikel 6a.21, derde lid, mede verplichtingen in verband met toegang opleggen als bedoeld in de artikelen 6a.6 tot en met 6a.10.   
+2.  Het college legt aan een onderneming die een aanmerkelijke marktmacht heeft bij het aanbieden van programmadiensten, op grond van artikel 6a.21, derde lid, de verplichting op om op groothandelsniveau programmadiensten en bijbehorende faciliteiten aan te bieden voor de wederverkoop aan eindgebruikers tegen een door het college vastgesteld tarief, tenzij de geringe omvang van het omroepnetwerk of de geringe potentiële vraag naar wederverkoop zulks niet rechtvaardigt.   
+
 ### Artikel  6a.22  
 
 Bij algemene maatregel van bestuur kunnen andere verplichtingen dan de verplichtingen, bedoeld in de artikelen 6a.12 tot en met 6a.14, worden aangewezen die het college op grond van artikel 6a.21, derde lid, kan opleggen aan ondernemingen die een aanmerkelijke marktmacht hebben bij het aanbieden van programmadiensten.  
@@ -1125,27 +1283,42 @@ Bij algemene maatregel van bestuur kunnen andere verplichtingen dan de verplicht
 
 ### Artikel  6b.1  
 
-1.  Op de voorbereiding van een besluit van het college als bedoeld in de artikelen 6.2, 6a.2, 6a.3, 6a.16 en 6a.18, is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
+1.  Op de voorbereiding van een besluit van het college als bedoeld in de artikelen 6.2, 6a.2, 6a.3, 6a.4a en 6b.2, vijfde lid, onderdeel a, is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
 2.  In afwijking van het eerste lid kan het college besluiten om de in het eerste lid bedoelde procedure niet toe te passen indien het besluit geen aanzienlijke gevolgen heeft voor de desbetreffende markt.   
 3.  Indien het een besluit op aanvraag betreft, is [artikel 3:18 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing.   
 
 ### Artikel  6b.2  
 
-1.  Indien een besluit als bedoeld in artikel 6b.1, eerste lid, van invloed is op de handel tussen de lidstaten, legt het college het ontwerp van het desbetreffende besluit en de gronden die aan het ontwerpbesluit ten grondslag liggen, voor aan de Commissie van de Europese Gemeenschappen en aan de nationale regelgevende instanties, bedoeld in artikel 7 van richtlijn nr. 2002/21/EG en stelt het college hen gedurende een maand in de gelegenheid daarover opmerkingen te maken.   
+1.  Indien een besluit als bedoeld in artikel 6b.1, eerste lid, van invloed is op de handel tussen de lidstaten, legt het college het ontwerp van het desbetreffende besluit en de gronden die aan het ontwerpbesluit ten grondslag liggen, voor aan: 
+
+a. de Europese Commissie,  
+
+b. de nationale regelgevende instanties, bedoeld in artikel 7 van richtlijn nr. 2002/21/EG, en  
+
+c. BEREC,   en stelt het college hen gedurende een maand in de gelegenheid daarover opmerkingen te maken.   
 2.  Het college neemt het besluit niet dan nadat de in het eerste lid bedoelde termijn van een maand is verstreken.   
-3.  Het college houdt bij het nemen van het besluit zoveel mogelijk rekening met de opmerkingen die de Commissie van de Europese Gemeenschappen en de nationale regelgevende instanties met betrekking tot het ontwerp aan het college hebben medegedeeld.   
-4.  Indien de Commissie van de Europese Gemeenschappen binnen de termijn, bedoeld in het tweede lid, heeft medegedeeld dat zij van mening is dat het voorgelegde ontwerpbesluit een belemmering vormt voor de interne Europese markt of dat zij ernstige twijfels heeft omtrent de verenigbaarheid van het ontwerpbesluit met het Gemeenschapsrecht, wacht het college tenminste twee maanden vanaf de datum van die mededeling met het vaststellen van zijn besluit.   
-5.  Indien de Commissie van de Europese Gemeenschappen overeenkomstig artikel 7, vierde lid, van richtlijn nr. 2002/21/EG een beschikking heeft gegeven: 
+3.  Het college houdt bij het nemen van het besluit zoveel mogelijk rekening met de opmerkingen die de Europese Commissie, de nationale regelgevende instanties en BEREC met betrekking tot het ontwerp aan het college hebben medegedeeld.   
+4.  Indien de Europese Commissie binnen de termijn, bedoeld in het tweede lid, heeft medegedeeld dat zij van mening is dat de bepaling van een relevante markt op grond van artikel 6a.1, tweede lid, of de aanwijzing van een onderneming met aanmerkelijke marktmacht, bedoeld in artikel 6a.2, eerste lid, aanhef, een belemmering vormt voor de interne Europese markt of dat zij ernstige twijfels heeft omtrent de verenigbaarheid van het ontwerpbesluit met het Gemeenschapsrecht, wacht het college tenminste twee maanden vanaf de datum van die mededeling met het vaststellen van het besluit.   
+5.  Uiterlijk zes maanden na de dag waarop de Europese Commissie overeenkomstig artikel 7, vijfde lid, onderdeel a, van richtlijn nr. 2002/21/EG een beschikking heeft gegeven omtrent een ontwerpbesluit als bedoeld in het vierde lid: 
 
-a. brengt het college het ontwerp met betrekking tot de door de Commissie in de beschikking aangegeven voorstellen in overeenstemming met het Gemeenschapsrecht, of  
+a. brengt het college het ontwerp met betrekking tot de door de Europese Commissie in de beschikking aangegeven voorstellen in overeenstemming met het Gemeenschapsrecht, of  
 
-b. besluit het college het desbetreffende ontwerpbesluit niet vast te stellen. Van dit besluit wordt mededeling gedaan in de Staatscourant.     
-6.  Het college stuurt een overeenkomstig dit artikel voorbereid besluit in afschrift aan de Commissie van de Europese Gemeenschappen.   
+b. besluit het college het desbetreffende ontwerpbesluit niet vast te stellen.     
+6.  Van het besluit, bedoeld in het vijfde lid, onder b, doet het college mededeling in de Staatscourant.   
+7.  Indien de Europese Commissie binnen de termijn, bedoeld in het tweede lid, heeft medegedeeld dat zij van mening is dat een in het ontwerpbesluit voorgestelde verplichting als bedoeld in de artikelen 6.2, 6a.2, eerste lid, onderdelen a tot en met c, of 6a.4a, vijfde of zesde lid, een belemmering vormt voor de interne Europese markt of dat zij ernstige twijfels heeft omtrent de verenigbaarheid daarvan met het Gemeenschapsrecht, neemt het college het besluit niet dan nadat de termijn van vier maanden vanaf de datum van die mededeling is verstreken. In afwijking van deze termijn kan het college het besluit nemen zodra de aanbeveling is gedaan of het voorbehoud is ingetrokken.   
+8.  Indien het college een verplichting als bedoeld in het zevende lid in overeenstemming brengt met een advies van BEREC als bedoeld in artikel 7bis, derde lid, van richtlijn nr. 2002/21/EG, of een aanbeveling van de Europese Commissie als bedoeld in artikel 7bis, vijfde lid, onder a, met betrekking tot die verplichting, is artikel 6b.1 van overeenkomstige toepassing.   
+9.  Indien het college een verplichting als bedoeld in het zevende lid, niet in overeenstemming brengt met: 
+
+a. een advies van BEREC als bedoeld in artikel 7bis, derde lid, van richtlijn nr. 2002/21/EG, of  
+
+b. een aanbeveling van de Europese Commissie als bedoeld in artikel 7bis, vijfde lid, onder a, met betrekking tot die verplichting, motiveert het college waarom zij de verplichting in het ontwerpbesluit niet wijzigt of intrekt.     
+10.  Het college stuurt een overeenkomstig dit artikel voorbereid besluit in afschrift aan de Europese Commissie en BEREC. In het geval van een aanbeveling of een voorbehoud als bedoeld in het zevende lid, verstuurt het college het afschrift binnen een maand nadat de aanbeveling is gedaan of het voorbehoud is ingetrokken. De termijn van een maand kan door het college worden verlengd indien het college de wijziging van het ontwerpbesluit voorbereidt overeenkomstig artikel 6b.1, eerste lid.   
 
 ### Artikel  6b.3  
 
-1.  Het college kan in uitzonderlijke omstandigheden indien de vereiste spoed zich verzet tegen de toepassing van de procedures, bedoeld in de artikelen 6b.1, eerste lid, of  6b.2, die procedures buiten toepassing laten bij het nemen van een besluit als bedoeld in de artikelen 6.2, 6a.2, eerste lid, onder a, 6a.16, eerste lid, of  6a.18, eerste lid, ten einde de concurrentie te waarborgen of de belangen van de gebruikers te beschermen.   
+1.  Het college kan in uitzonderlijke omstandigheden indien de vereiste spoed zich verzet tegen de toepassing van de procedures, bedoeld in de artikelen 6b.1, eerste lid, of 6b.2, die procedure buiten toepassing laten bij het nemen van een besluit als bedoeld in de artikelen 6.2 en 6a.2, eerste lid, onder a, teneinde de concurrentie te waarborgen of de belangen van de gebruikers te beschermen.   
 2.  Een besluit als bedoeld in het eerste lid geldt voor een periode van maximaal 26 weken.   
+3.  Het college stuurt een afschrift van een besluit als bedoeld in het eerste lid aan de Europese Commissie, de nationale regelgevende instanties, bedoeld in artikel 7 van richtlijn nr. 2002/21/EG, en BEREC.   
 
 ### Artikel  6b.4  
 
@@ -1163,11 +1336,7 @@ Voor de mogelijkheid van beroep ingevolge [hoofdstuk 8 van de Algemene wet bestu
 
 a. een besluit als bedoeld in artikel 6a.2, eerste lid, en de aan een dergelijk besluit ten grondslag liggende bepaling van de relevante markt, bedoeld in artikel 6a.1, eerste of tweede lid, en het onderzoek van die markt, bedoeld in artikel 6a.1, derde lid, respectievelijk het onderzoek van een transnationale markt, bedoeld in artikel 6a.1, vierde lid;  
 
-b. een besluit als bedoeld in artikel 6a.3, eerste, tweede of derde lid, en de aan een dergelijk besluit ten grondslag liggende bepaling van de relevante markt, bedoeld in artikel 6a.1, eerste of tweede lid, en het onderzoek van die markt als bedoeld in artikel 6a.1, derde lid, respectievelijk het onderzoek van een transnationale markt als bedoeld in artikel 6a.1, vierde lid;  
-
-c. een besluit als bedoeld in artikel 6a.16, eerste of tweede lid, en de aan een dergelijk besluit ten grondslag liggende bepaling van de relevante markten, bedoeld in artikel 6a.1, eerste of tweede lid, en het onderzoek van die markten, bedoeld in artikel 6a.1, derde lid, respectievelijk het onderzoek van de transnationale markten, bedoeld in artikel 6a.1, vierde lid;  
-
-d. een besluit als bedoeld in artikel 6a.18, eerste of tweede lid, en de aan een dergelijk besluit ten grondslag liggende bepaling van de relevante markt, bedoeld in artikel 6a.1, eerste of tweede lid, het onderzoek van die markt, bedoeld in artikel 6a.1, derde lid, respectievelijk het onderzoek van een transnationale markt als bedoeld in artikel 6a.1, vierde lid.    
+b. een besluit als bedoeld in artikel 6a.3, eerste, tweede of derde lid, en de aan een dergelijk besluit ten grondslag liggende bepaling van de relevante markt, bedoeld in artikel 6a.1, eerste of tweede lid, en het onderzoek van die markt als bedoeld in artikel 6a.1, derde lid, respectievelijk het onderzoek van een transnationale markt als bedoeld in artikel 6a.1, vierde lid.    
 
 ### Hoofdstuk  7  
 
@@ -1175,46 +1344,68 @@ d. een besluit als bedoeld in artikel 6a.18, eerste of tweede lid, en de aan een
 
 ### Artikel  7.1  
 
-1.  Een aanbieder van een openbare elektronische communicatiedienst verstrekt voor of bij het sluiten van een overeenkomst met een consument aan hem de volgende gegevens op schrift of op een andere te zijner beschikking staande en voor hem toegankelijke duurzame gegevensdrager: 
+1.  Een aanbieder van een openbare elektronische communicatiedienst of een openbaar elektronisch communicatienetwerk verstrekt voor of bij het sluiten van een overeenkomst met een consument of een andere hierom verzoekende eindgebruiker aan hem de volgende gegevens in een heldere, begrijpelijke vorm op schrift of op een andere te zijner beschikking staande en voor hem gemakkelijk toegankelijke duurzame gegevensdrager: 
 
 a. de naam en het adres van vestiging van de aanbieder;  
 
-b. de te verstrekken diensten en de wachttijd bij eerste aansluiting op een openbare elektronische communicatiedienst;  
+b. de te verstrekken diensten;  
 
-c. het kwaliteitsniveau van de te verstrekken diensten;  
+c. de geldende tariefstructuur, de belangrijkste tarieven, de wijze waarop informatie verkregen kan worden over de geldende tarieven en onderhoudskosten, de wijze waarop betaald kan worden en de kosten die aan deze betalingswijzen zijn verbonden;  
 
-d. de soorten onderhoudsdiensten;  
+d de duur van de overeenkomst alsmede de voorwaarden waaronder de overeenkomst of onderdelen daarvan, kan worden verlengd of beëindigd;  
 
-e. de geldende tariefstructuur, de belangrijkste tarieven en de wijze waarop informatie verkregen kan worden over de geldende tarieven en onderhoudskosten;  
+e. de schadevergoedingsregeling of terugbetalingsregeling die geldt indien de overeenkomst, voor zover het het kwaliteitsniveau van de geleverde dienst betreft, niet wordt nagekomen, en  
 
-f. de duur van de overeenkomst alsmede de voorwaarden waaronder de overeenkomst of onderdelen daarvan, kan worden verlengd of beëindigd;  
+f. de wijze waarop gebruik kan worden gemaakt van de geschillencommissie, bedoeld in artikel 12.1 of van de procedure, bedoeld in artikel 12.9;  
 
-g. de schadevergoedingsregeling of terugbetalingsregeling die geldt indien de overeenkomst, voor zover het het kwaliteitsniveau van de geleverde dienst betreft, niet wordt nagekomen, en  
+g. de in artikel 11.6, tweede lid, genoemde keuzemogelijkheden van de abonnee met betrekking tot de vraag of zijn persoonsgegevens al dan niet zullen worden opgenomen in een abonneelijst en in voor abonnee-informatiediensten gebruikte abonneebestanden, en de op te nemen gegevens;  
 
-h. de wijze waarop gebruik kan worden gemaakt van de geschillencommissie, bedoeld in artikel 12.1 of van de procedure, bedoeld in artikel 12.9.     
+h. de maatregelen die de onderneming neemt of kan nemen in reactie op beveiligings- en integriteitsincidenten of bedreigingen en kwetsbaarheden.     
 2.  Een aanbieder van een openbare elektronische communicatiedienst zorgt ervoor dat de gegevens die hij voor of bij het sluiten van de overeenkomst verstrekt, opgenomen worden in de tussen hem en de desbetreffende consument te sluiten overeenkomst.   
 3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op aanbieders van programmadiensten.   
 4.  Bij ministeriële regeling kunnen categorieën van openbare elektronische communicatiediensten of programmadiensten worden aangewezen met betrekking waartoe voor de desbetreffende aanbieder de in het eerste en tweede lid bedoelde verplichting geheel of gedeeltelijk buiten toepassing blijft.   
+5.  Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van de in het eerste lid genoemde gegevens nadere regels worden gesteld.   
 
 ### Artikel  7.2  
 
-1.  Ten minste vier weken voordat een voorgenomen wijziging van een beding dat is opgenomen in een overeenkomst van kracht wordt: 
+1.  Ten minste een maand voordat een voorgenomen wijziging van een beding dat is opgenomen in een overeenkomst van kracht wordt: 
 
-a. biedt een aanbieder van een openbare elektronische communicatiedienst de abonnee de mogelijkheid om de overeenkomst kosteloos te beëindigen, en  
+a. biedt een aanbieder van een openbare elektronische communicatiedienst of een openbaar elektronisch communicatienetwerk de abonnee de mogelijkheid om de overeenkomst kosteloos te beëindigen, en  
 
 b. stelt de aanbieder de abonnee op genoegzame wijze op de hoogte van de inhoud van de voorgenomen wijziging en van de mogelijkheid om de overeenkomst kosteloos te beëindigen.     
 2.  Het eerste lid is van overeenkomstige toepassing op aanbieders van programmadiensten. Bij ministeriële regeling kunnen categorieën van programmadiensten worden aangewezen met betrekking waartoe voor de desbetreffende aanbieder de in de vorige volzin bedoelde verplichting geheel of gedeeltelijk buiten toepassing blijft.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de opmaak van de mededeling waarmee de abonnee op de hoogte wordt gesteld van een voorgenomen wijziging, bedoeld in het eerste lid.   
 
 ### Artikel  7.2a  
 
 1.  De overeenkomst tussen een aanbieder en een consument met betrekking tot de levering van een elektronische communicatiedienst of programmadienst die is aangegaan voor een onbepaalde duur, kan door de consument te allen tijde kosteloos worden opgezegd.   
-2.  De overeenkomst tussen een aanbieder en een consument met betrekking tot de levering van een elektronische communicatiedienst of programmadienst die is aangegaan voor een bepaalde duur, kan na verloop van die duur stilzwijgend worden verlengd of vernieuwd, mits de consument de overeenkomst hierna te allen tijde kosteloos kan opzeggen.   
+2.  Een aanbieder biedt een eindgebruiker de mogelijkheid een overeenkomst voor een bepaalde duur met een looptijd van ten hoogste twaalf maanden aan te gaan. De overeenkomst tussen een aanbieder en een consument met betrekking tot de levering van een openbare elektronische communicatiedienst of programmadienst kan worden aangegaan voor een bepaalde duur, waarbij de looptijd ten hoogste 24 maanden bedraagt. De overeenkomst tussen een aanbieder en een consument met betrekking tot de levering van een elektronische communicatiedienst of programmadienst die is aangegaan voor een bepaalde duur, kan na verloop van die duur stilzwijgend worden verlengd of vernieuwd, mits de consument de overeenkomst hierna te allen tijde kosteloos kan opzeggen.   
 3.  De bij de opzegging door de consument in acht te nemen termijn is in alle gevallen niet langer dan een maand.   
 
 ### Artikel  7.3  
 
-1.  Onverminderd artikel 11.9, worden bij ministeriële regeling regels gesteld ter uitvoering van de bijlagen I, deel B, en II van richtlijn nr. 2002/22/EG. Deze regels hebben in elk geval betrekking op het door aanbieders van openbare telefoonnetwerken aan hun eindgebruikers beschikbaar stellen van faciliteiten als bedoeld in de in de eerste volzin bedoelde bijlage I, deel B, en het door aanbieders van openbare telefoondiensten bekendmaken van informatie over de geldende tarieven en voorwaarden met betrekking tot de toegang tot en het gebruik van die telefoondiensten.   
-2.  Het college kan ontheffing verlenen van een krachtens het eerste lid opgelegde verplichting die strekt tot uitvoering van bijlage I, deel B, van richtlijn nr. 2002/22/EG, indien deze technisch niet uitvoerbaar dan wel economisch niet haalbaar is. Een ontheffing kan onder beperkingen worden verleend. Het college kan voorschriften verbinden aan een ontheffing.   
+1.  Bij ministeriële regeling kan worden bepaald dat aanbieders van openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten transparante, vergelijkbare, toereikende, actuele, duidelijke en volledige informatie bekendmaken over: 
+
+a. de geldende tarieven,  
+
+b. eventuele in rekening gebrachte kosten bij beëindiging van een overeenkomst,  
+
+c. de algemene voorwaarden met betrekking tot de toegang tot en het gebruik van de diensten als bedoeld in bijlage II van richtlijn nr. 2002/22/EG die door hen aan eindgebruikers worden aangeboden, of  
+
+d. eventuele beperkingen van de toegang tot of het gebruik van diensten en toepassingen.     
+2.  De informatie, bedoeld in het eerste lid, wordt bekendgemaakt in een gemakkelijk toegankelijke vorm. Bij ministeriële regeling kunnen regels worden gesteld ten aanzien van de vorm waarin de informatie bekend wordt gemaakt.   
+3.  Een ieder kan de informatie, bedoeld in het eerste lid, kosteloos gebruiken voor het aanbieden van interactieve gidsen of soortgelijke technieken die de eindgebruiker in staat stelt zich een onafhankelijk oordeel te vormen over de kosten van een alternatief gebruikspatroon.   
+4.  Bij ministeriële regeling kunnen regels worden gesteld over het door de aanbieder van openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten aan de eindgebruiker en Onze Minister te verstrekken informatie met betrekking tot: 
+
+a. wijzigingen betreffende de toegang tot noodhulpdiensten of de nauwkeurigheid van de op grond van artikel 11.10 te verstrekken gegevens;  
+
+b. wijzigingen in de voorwaarden voor beperking van de toegang tot of het gebruik van diensten en toepassingen;  
+
+c. de door de aanbieder ingestelde maatregelen bij congestie en de gevolgen daarvan voor de kwaliteit van de dienstverlening;  
+
+d. de in artikel 11.6, tweede lid, genoemde keuzemogelijkheden van de abonnee met betrekking tot de vraag of zijn persoonsgegevens in een gids al dan niet zullen worden opgenomen, en de gegevens in kwestie; en  
+
+e. producten en diensten voor eindgebruikers met een fysieke beperking.     
 
 ### Artikel  7.3a  
 
@@ -1240,13 +1431,18 @@ a. de nummers zijn genoemd in een mededeling als bedoeld in het eerste lid, en
 b. de oproepen hebben plaatsgevonden gedurende de periode waarop die mededeling betrekking heeft.     
 3.  Indien de consument reeds heeft betaald voor oproepen naar nummers als bedoeld in het tweede lid, betaalt de aanbieder de bedragen binnen twee maanden na publicatie van de mededeling als bedoeld in het eerste lid, terug.   
 
+### Artikel  7.3d  
+
+1.  In aanvulling op de artikelen 7.3a tot en met 7.3c kunnen bij of krachtens algemene maatregel van bestuur regels worden gesteld voor aanbieders van openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten inzake het blokkeren van de toegang tot een nummer of dienst en het opschorten van de aan dat nummer of die dienst gerelateerde betaling indien niet voldaan is aan het gestelde bij of krachtens deze wet of een gedraging als bedoeld in artikel 4.4 verricht is.   
+2.  Bij de regels, bedoeld in het eerste lid, kunnen taken worden opgedragen en bevoegdheden worden verleend aan het college.   
+
 ### Artikel  7.4  
 
-1.  Aanbieders van openbare telefoondiensten op een vaste locatie of van openbare betaaltelefoons die krachtens artikel 9.2 zijn aangewezen en aanbieders van vaste openbare telefoondiensten of van openbare betaaltelefoons die langer dan tweeënvijftig weken dergelijke diensten leveren, maken jaarlijks voor 1 april op genoegzame wijze een overzicht over het voorafgaande kalenderjaar bekend van de kwaliteit van de door hen aangeboden diensten op basis van de in bijlage III van richtlijn nr. 2002/22/EG gespecificeerde parameters, definities en meetmethoden. Het in de eerste volzin bedoelde overzicht wordt voor bekendmaking aan het college ter beschikking gesteld.   
+1.  Aanbieders van openbare telefoondiensten op een vaste locatie of van openbare betaaltelefoons die krachtens artikel 9.2 zijn aangewezen en aanbieders van vaste openbare telefoondiensten of van openbare betaaltelefoons die langer dan tweeënvijftig weken dergelijke diensten leveren, maken jaarlijks voor 1 april op genoegzame wijze een overzicht over het voorafgaande kalenderjaar bekend van de kwaliteit van de door hen aangeboden diensten op basis van de in bijlage III van richtlijn nr. 2002/22/EG gespecificeerde parameters, definities en meetmethoden. Het in de eerste volzin bedoelde overzicht bevat een beschrijving van de door de aanbieder genomen maatregelen om gelijkwaardige toegang voor eindgebruikers met een fysieke beperking te waarborgen. Het in de eerste volzin bedoelde overzicht wordt voor bekendmaking aan het college ter beschikking gesteld.   
 2.  Bij ministeriële regeling kunnen ten aanzien van de in het eerste lid genoemde verplichtingen nadere regels worden gesteld.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen, voor zover niet voorzien op grond van het eerste lid, regels worden gesteld inzake het: 
 
-a. door aanbieders van openbare elektronische communicatiediensten of programmadiensten maken van een periodiek overzicht van de kwaliteit van de door hen aangeboden diensten aan de hand van bij of krachtens die algemene maatregel van bestuur te bepalen parameters, definities en meetmethoden;  
+a. door aanbieders van openbare elektronische communicatiediensten, aanbieders van openbare elektronische communicatienetwerken of programmadiensten maken van een periodiek overzicht van de kwaliteit van de door hen aangeboden diensten aan de hand van bij of krachtens die algemene maatregel van bestuur te bepalen parameters, definities en meetmethoden;  
 
 b. door het college, of een door het college aan te wijzen onafhankelijke deskundige derde, onderzoeken of het overzicht in overeenstemming is met de desbetreffende regels, en  
 
@@ -1254,21 +1450,59 @@ c. bekendmaken van het overzicht en het ter beschikking stellen daarvan aan het 
 4.  De regels, bedoeld in het derde lid, kunnen verschillen voor bij die regels te bepalen categorieën van openbare elektronische communicatiediensten of programmadiensten.   
 5.  Bij de regels, bedoeld in het tweede en derde lid, kunnen taken worden opgedragen en bevoegdheden worden verleend aan het college.   
 
+### Artikel  7.4a  
+
+1.  Aanbieders van openbare elektronische communicatienetwerken waarover internettoegangsdiensten worden geleverd en aanbieders van internettoegangsdiensten belemmeren of vertragen geen diensten of toepassingen op het internet, tenzij en voor zover de betreffende maatregel waarmee diensten of toepassingen worden belemmerd of vertraagd noodzakelijk is: 
+
+a. om de gevolgen van congestie te beperken, waarbij gelijke soorten verkeer gelijk worden behandeld;  
+
+b. ten behoeve van de integriteit en de veiligheid van het netwerk en de dienst van de betrokken aanbieder of het randapparaat van de eindgebruiker;  
+
+c. om de doorgifte van ongevraagde communicatie als bedoeld in artikel 11.7, eerste lid, aan een eindgebruiker te beperken, mits de eindgebruiker daarvoor voorafgaand toestemming heeft verleend, of  
+
+d. ter uitvoering van een wettelijk voorschrift of rechterlijk bevel.     
+2.  Indien een inbreuk op de integriteit of veiligheid van het netwerk of de dienst of een randapparaat van een eindgebruiker, bedoeld in het eerste lid, onderdeel b, wordt veroorzaakt door verkeer afkomstig van een randapparaat van een eindgebruiker, doet de aanbieder voorafgaand aan het nemen van een maatregel waarmee het verkeer wordt belemmerd of vertraagd, melding aan de betrokken eindgebruiker, zodat de eindgebruiker de gelegenheid heeft de inbreuk te staken. Wanneer dit wegens de vereiste spoed niet voorafgaand aan het nemen van de maatregel mogelijk is, doet de aanbieder zo snel mogelijk melding van de maatregel. Wanneer het een eindgebruiker van een andere aanbieder betreft is de eerste volzin niet van toepassing.   
+3.  Aanbieders van internettoegangsdiensten stellen de hoogte van tarieven voor internettoegangsdiensten niet afhankelijk van de diensten en toepassingen die via deze diensten worden aangeboden of gebruikt.   
+4.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het bepaalde in het eerste tot en met derde lid. De voordracht voor een krachtens dit lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
+5.  Bij of krachtens algemene maatregel van bestuur kunnen ter voorkoming van een achteruitgang van de dienstverlening en een belemmering of vertraging van het verkeer over openbare elektronische communicatienetwerken, nadere minimumvoorschriften inzake de kwaliteit van openbare elektronische communicatiediensten worden gesteld aan aanbieders van openbare elektronische communicatienetwerken.   
+
 ### Artikel  7.5  
 
 Bij algemene maatregel van bestuur worden regels gesteld inzake het, met inachtneming van het bepaalde bij of krachtens hoofdstuk 11, aan derden ter beschikking stellen van bij die regels aan te wijzen categorieën van nummers met bijbehorende gegevens ten behoeve van de beschikbaarheid van telefoongidsen en van een abonnee-informatiedienst.  
 
 ### Artikel  7.6  
 
-1.  Aanbieders van openbare telefoonnetwerken en openbare telefoondiensten zorgen ervoor dat de eindgebruikers van dat netwerk en van die diensten toegang hebben tot de diensten van een telefonist en tot een abonnee-informatiedienst.   
+1.  Aanbieders van openbare telefoondiensten of openbare elektronische communicatienetwerken voor zover die worden gebruikt om openbare telefoondiensten aan te bieden zorgen ervoor dat de eindgebruikers van dat netwerk en van die diensten toegang hebben tot de diensten van een telefonist en tot een abonnee-informatiedienst.   
 2.  Bij algemene maatregel van bestuur worden regels gesteld waaraan de in het eerste lid bedoelde abonnee-informatiedienst moet voldoen.   
+
+### Artikel  7.6a  
+
+1.  Een aanbieder van een internettoegangsdienst aan een eindgebruiker kan de levering van deze dienst slechts geheel of gedeeltelijk beëindigen of opschorten: 
+
+a. op verzoek van de abonnee;  
+
+b. bij een tekortkoming in de nakoming van de betalingsverplichting door de abonnee of faillissement van de abonnee;  
+
+c. bij bedrog in de zin van [artikel 3:44 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) door de abonnee;  
+
+d. wanneer de looptijd van de overeenkomst van bepaalde duur tot levering van de internettoegangsdienst afloopt en de overeenkomst met instemming van de abonnee niet wordt verlengd of vernieuwd;  
+
+e. ter uitvoering van een wettelijk voorschrift of rechterlijk bevel; en  
+
+f. bij overmacht en onvoorziene omstandigheden in de zin van [artikel 6:258 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).     
+2.  De aanbieder gaat niet over tot een maatregel als bedoeld in het eerste lid, aanhef en onderdeel c, dan nadat hij de abonnee schriftelijk op de hoogte heeft gesteld van het voornemen om tot deze maatregel over te gaan, voorzien van een schriftelijke motivering omtrent het gestelde bedrog, en hij de abonnee een redelijke termijn heeft geboden om op het voornemen en het gestelde bedrog te reageren.   
 
 ### Artikel  7.7  
 
-1.  Aanbieders van openbare telefoonnetwerken, openbare betaaltelefoons en openbare telefoondiensten stellen het gebruik van alarmnummers kosteloos en zonder toegangsbelemmeringen ter beschikking aan alle gebruikers van hun dienst.   
+1.  Aanbieders van openbare elektronische communicatienetwerken die worden gebruikt om uitgaande gesprekken naar een nummer in het nummerplan aan te bieden, openbare betaaltelefoons en openbare telefoondiensten stellen het gebruik van alarmnummers kosteloos en zonder toegangsbelemmeringen ter beschikking aan alle gebruikers van hun dienst.   
 2.  Onder een alarmnummer als bedoeld in het eerste lid, wordt verstaan een nummer dat in een nummerplan als bedoeld in artikel 4.1, eerste lid, bestemd is als alarmnummer.   
-3.  Aanbieders van openbare telefoonnetwerken, openbare betaaltelefoons en openbare telefoondiensten treffen de voorzieningen die noodzakelijk zijn om de toegang tot alarmnummers te waarborgen in het geval van congestie in het desbetreffende openbare telefoonnetwerk.   
+3.  Aanbieders van openbare elektronische communicatienetwerken die worden gebruikt om uitgaande gesprekken naar een nummer in het nummerplan aan te bieden, openbare betaaltelefoons en openbare telefoondiensten treffen de voorzieningen die noodzakelijk zijn om de ononderbroken toegang tot alarmnummers te waarborgen.   
 4.  Onze Minister kan ontheffing verlenen van het bepaalde in het derde lid, indien het technisch niet uitvoerbaar dan wel economisch niet haalbaar is de in dat lid bedoelde voorzieningen te treffen. Een ontheffing kan onder beperkingen worden verleend. Onze Minister kan voorschriften verbinden aan een ontheffing.   
+
+### Artikel  7.7a  
+
+1.  Onverminderd artikel 11.9, kunnen bij ministeriële regeling regels worden gesteld ter uitvoering van bijlage I van richtlijn nr. 2002/22/EG. Deze regels hebben betrekking op het door aanbieders van openbare elektronische communicatienetwerken of openbare telefoondiensten aan hun eindgebruikers beschikbaar stellen van faciliteiten als bedoeld in de in de eerste volzin bedoelde bijlage I.   
+2.  Een krachtens het eerste lid opgelegde verplichting die strekt tot uitvoering van bijlage I, deel B, van richtlijn nr. 2002/22/EG, geldt niet indien deze technisch niet uitvoerbaar dan wel economisch niet haalbaar is.   
 
 ### Artikel  7.8  
 
@@ -1280,6 +1514,11 @@ b. de tarifering van bij ministeriële regeling aangewezen categorieën van numm
 
 c. de omstandigheden waaronder een aanbieder de levering van een openbare elektronische communicatiedienst mag opschorten of beëindigen.     
 2.  De regels, bedoeld in het eerste lid, kunnen voor bij die regels te bepalen categorieën van openbare elektronische communicatienetwerken, openbare elektronische communicatiediensten, nummergebruikers of programmadiensten verschillen. Bij die regels kunnen taken worden opgedragen en bevoegdheden worden verleend aan het college.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld voor aanbieders van openbare elektronische communicatiediensten en -netwerken waardoor eindgebruikers met een fysieke beperking: 
+
+a. toegang tot openbare elektronische communicatiediensten hebben die gelijkwaardig is aan die van de meerderheid van de eindgebruikers, en  
+
+b. profiteren van de keuze tussen ondernemingen en diensten die ter beschikking staan van de meerderheid van de eindgebruikers.     
 
 ### Hoofdstuk  8  
 
@@ -1317,7 +1556,7 @@ c. het voeren van een gescheiden boekhouding voor de activiteiten in verband met
 
 ### Artikel  8.6  
 
-1.  Met het oog op het waarborgen van de toegang van eindgebruikers tot bij algemene maatregel van bestuur aan te wijzen diensten die op digitale wijze worden uitgezonden en die kunnen worden ontvangen met behulp van televisie- of radiosystemen, kunnen bij algemene maatregel van bestuur regels worden gegeven met betrekking tot het verlenen van toegang tot applicatieprogramma-interfaces of elektronische programmagidsen door aanbieders.   
+1.  Met het oog op het waarborgen van de toegang van eindgebruikers en eindgebruikers met een fysieke beperking tot bij algemene maatregel van bestuur aan te wijzen diensten die op digitale wijze worden uitgezonden en die kunnen worden ontvangen met behulp van televisie- of radiosystemen, kunnen bij algemene maatregel van bestuur regels worden gegeven met betrekking tot het verlenen van toegang tot applicatieprogramma-interfaces of elektronische programmagidsen door aanbieders.   
 2.  De in het eerste lid bedoelde regels hebben ten aanzien van aanbieders van applicatieprogramma-interfaces dan wel elektronische programmagidsen in elk geval betrekking op: 
 
 a. het verlenen van toegang tot applicatieprogramma-interfaces dan wel elektronische programmagidsen, alsmede de voorwaarden waaronder dit geschiedt;  
@@ -1349,50 +1588,67 @@ b. de onderneming die de openbare elektronische communicatienetwerken aanbiedt g
 
 ### Artikel  9.1  
 
-1.  De volgende diensten zijn voor iedere eindgebruiker, onafhankelijk van diens geografische locatie, tegen een betaalbare prijs en met een bepaalde kwaliteit beschikbaar: 
+1.  De volgende diensten en voorzieningen zijn voor iedere eindgebruiker, onafhankelijk van diens geografische locatie, tegen een betaalbare prijs en met een bepaalde kwaliteit beschikbaar: 
 
-a. het naar aanleiding van een redelijk verzoek aansluiten op het openbare telefoonnetwerk op een vaste locatie en het bieden van toegang tot de openbare telefoondienst op een vaste locatie;  
+a. het naar aanleiding van een redelijk verzoek aansluiten op een openbaar elektronisch communicatienetwerk op een vaste locatie;  
 
-b. openbare betaaltelefoons;  
+b. het leveren van een openbare telefoondienst over de in onderdeel a bedoelde netwerkaansluiting;  
 
-c. gedrukte telefoongidsen;  
+c. openbare betaaltelefoons;  
 
-d. elektronische telefoongidsen, en  
+d. gedrukte en elektronische telefoongidsen;  
 
-e. een abonnee-informatiedienst.     
-2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de kwaliteit van de in het eerste lid bedoelde diensten.   
+e. een abonnee-informatiedienst, en  
+
+f. diensten of voorzieningen waardoor eindgebruikers met een fysieke beperking toegang hebben tot de in onderdeel b, d en e genoemde diensten en voorzieningen op een niveau gelijkwaardig aan dat van andere eindgebruikers.     
+2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de kwaliteit en de aard van de in het eerste lid bedoelde diensten en voorzieningen.   
 3.  Ter uitvoering van hoofdstuk II van richtlijn nr. 2002/22/EG, kunnen bij algemene maatregel van bestuur andere dan de in het eerste lid bedoelde openbare elektronische communicatiediensten of daarmee samenhangende voorzieningen worden aangewezen die voor in die maatregel te bepalen categorieën van eindgebruikers, onafhankelijk van hun geografische locatie, beschikbaar moeten zijn tegen een betaalbare prijs en met een bij of krachtens die maatregel te bepalen kwaliteit.   
 4.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de in het eerste of derde lid bedoelde prijs. Bij de in de eerste volzin bedoelde regels over de prijs kan onderscheid gemaakt worden tussen groepen eindgebruikers.   
 
 ### Artikel  9.2  
 
-1.  Indien naar het oordeel van Onze Minister de beschikbaarheid, de betaalbaarheid of de kwaliteit van een of meer van de openbare elektronische communicatiediensten of voorzieningen, bedoeld in artikel 9.1, eerste of derde lid, niet door het normale functioneren van de markt wordt of zal kunnen worden gegarandeerd, kan Onze Minister bij besluit de verzorging van de desbetreffende diensten of voorzieningen in een bij dat besluit te bepalen verzorgingsgebied voor ten hoogste vijf jaar opdragen aan degene die overeenkomstig de in dit artikel geregelde procedure wordt aangewezen als degene die de laagste totale nettokosten verwacht.   
-2.  Bij of krachtens algemene maatregel van bestuur worden ter uitvoering van hoofdstuk II van richtlijn nr. 2002/22/EG nadere regels gesteld die van toepassing zijn in het geval een opdracht tot verzorging van een of meer tot de universele dienst behorende diensten of voorzieningen is gegeven. Hierbij kunnen ter uitvoering van het in de eerste volzin genoemde hoofdstuk taken worden opgedragen en bevoegdheden worden verleend aan het college.   
-3.  Onze Minister maakt het voornemen over te gaan tot een opdracht bekend aan de aanbieder van het openbare elektronische communicatienetwerk waarop in het verzorgingsgebied de meeste eindgebruikers zijn aangesloten die reeds gebruik maken van de openbare elektronische communicatiedienst die wordt opgedragen of, indien er sprake is van een op te dragen voorziening, de aanbieder van het openbare elektronische communicatienetwerk waarop in het verzorgingsgebied de meeste eindgebruikers zijn aangesloten die gebruik maken van de openbare elektronische communicatiedienst waarmee de op te dragen voorziening samenhangt. In het voornemen worden de te verzorgen openbare elektronische communicatiedienst of voorziening, het verzorgingsgebied en de periode waarvoor de opdracht zal worden gegeven neergelegd.   
-4.  Van het voornemen wordt mededeling gedaan door plaatsing in de Staatscourant. Daarbij wordt gewezen op de in het zesde lid geregelde mogelijkheid een aanvraag in te dienen om een opdracht.   
-5.  Binnen acht weken na de datum van de in het derde lid, eerste volzin, bedoelde bekendmaking wordt door de in het derde lid bedoelde aanbieder aan Onze Minister meegedeeld of hij verwacht in aanmerking te komen voor een vergoeding op grond van artikel 9.3 indien aan hem een opdracht zou worden gegeven. Verwacht de in de vorige zin bedoelde aanbieder in aanmerking te komen voor een vergoeding dan deelt hij Onze Minister tevens mee wat per kalenderjaar naar zijn verwachting de hoogte van de in artikel 9.3, tweede lid, bedoelde nettokosten zullen zijn.   
-6.  Binnen acht weken na de datum van de in het vierde lid bedoelde bekendmaking kan bij Onze Minister door anderen dan de in het derde lid bedoelde aanbieder, een aanvraag worden ingediend om een opdracht.   
-7.  De aanvraag bevat in ieder geval een verklaring van de aanvrager of hij verwacht in aanmerking te komen voor een vergoeding op grond van artikel 9.3, indien aan hem een opdracht zou worden gegeven. Verwacht de aanvrager in aanmerking te komen voor een vergoeding dan deelt hij Onze Minister tevens mee wat per kalenderjaar naar zijn verwachting de hoogte van de in artikel 9.3, tweede lid, bedoelde nettokosten zullen zijn.   
-8.  Een opdracht wordt geweigerd indien de aanvrager naar verwachting de opdracht niet naar behoren zal kunnen verzorgen.   
-9.  De opdracht wordt, na een onderlinge vergelijking van de hoogte van de door aanvragers aan wie de opdracht op grond van het achtste lid niet is geweigerd, verwachte totale nettokosten en door de in het derde lid bedoelde aanbieders verwachte totale nettokosten, opgedragen aan degene die de laagste totale nettokosten verwacht.   
-10.  Indien op grond van de in het negende lid bedoelde vergelijking meerdere opdrachten kunnen worden gegeven wordt door middel van het lot beslist aan wie de opdracht wordt gegeven.   
+1.  Indien naar het oordeel van Onze Minister de beschikbaarheid, de betaalbaarheid of de kwaliteit van een of meer van de openbare elektronische communicatiediensten of voorzieningen, bedoeld in artikel 9.1, eerste of derde lid, niet door het normale functioneren van de markt wordt of zal kunnen worden gegarandeerd, kan Onze Minister bij besluit overeenkomstig de in artikel 9.3 geregelde procedure een onderneming aanwijzen die de universele dienst in een bij dat besluit te bepalen verzorgingsgebied voor ten hoogste tien jaar verzorgt. Onze Minister kan verschillende ondernemingen aanwijzen die verschillende diensten of voorzieningen, bedoeld in artikel 9.1, eerste of derde lid, aanbieden of verschillende verzorgingsgebieden bestrijken.   
+2.  Bij of krachtens algemene maatregel van bestuur worden ter uitvoering van hoofdstuk II van richtlijn nr. 2002/22/EG nadere regels gesteld die van toepassing zijn in het geval een aanwijzing tot verzorging van een of meer tot de universele dienst behorende diensten of voorzieningen is gegeven. Hierbij kunnen ter uitvoering van het in de eerste volzin genoemde hoofdstuk taken worden opgedragen en bevoegdheden worden verleend aan het college.   
 
 ### Artikel  9.3  
 
-1.  Degene die op grond van een opdracht als bedoeld in artikel 9.2, eerste lid, openbare elektronische communicatiediensten of voorzieningen verzorgt kan binnen een half jaar na afloop van een kalenderjaar waarin hij die diensten of voorzieningen heeft verzorgd bij het college een aanvraag indienen om vergoeding van de in het afgelopen kalenderjaar bij de verzorging gemaakte nettokosten.   
-2.  De nettokosten zijn de kosten die een aanbieder als gevolg van een opdracht voor een bepaalde dienst of voorziening maakt en waartegenover als gevolg van de bij of krachtens artikel 9.1 gestelde regels omtrent de betaalbaarheid geen vergoeding door eindgebruikers staat, verminderd met andere op geld waardeerbare voordelen die verband houden met de opdracht, waaronder begrepen immateriële voordelen. Bij ministeriële regeling kunnen ter uitvoering van bijlage IV, deel A, van richtlijn nr. 2002/22/EG nadere regels worden gesteld omtrent de berekening van de nettokosten.   
-3.  Een vergoeding wordt slechts toegekend voorzover naar het oordeel van het college het bestaan en de hoogte van de nettokosten op grond van de verstrekte gegevens voldoende is aangetoond. De vergoeding is niet hoger dan de door de aanvrager op grond van artikel 9.2, vijfde of zevende lid, voor het kalenderjaar waarop de aanvraag betrekking heeft verwachte nettokosten.   
-4.  Indien een vergoeding wordt toegekend wordt dit onder vermelding van het te vergoeden bedrag bekend gemaakt in de Staatscourant.   
-5.  Een vergoeding wordt uitbetaald binnen een week nadat de in artikel 9.4, vijfde lid, bedoelde termijn is verstreken.   
+1.  Indien Onze Minister voornemens is over te gaan tot een aanwijzing als bedoeld in artikel 9.2, eerste lid, stelt Onze Minister vast of de aanwijzing een onredelijke last in de zin van artikel 12, eerste lid, van richtlijn nr. 2002/22/EG kan vormen voor degene die wordt aangewezen als universeledienstverlener. Onze Minister kan voorafgaand aan die vaststelling het college vragen om advies.   
+2.  Indien Onze Minister vaststelt dat het aanwijzen van een universeledienstverlener geen onredelijke last kan vormen voor degene die wordt aangewezen, wordt de aanbieder, bedoeld in het vierde lid, aangewezen als universeledienstverlener. Het derde tot en met negende lid en de artikelen 9.4 en 9.5 zijn niet van toepassing.   
+3.  Indien Onze Minister vaststelt dat de aanwijzing een onredelijke last kan vormen voor degene die wordt aangewezen als universeledienstverlener maakt Onze Minister het voornemen over te gaan tot een aanwijzing bekend in de Staatscourant. In die bekendmaking worden de te verzorgen dienst of voorziening, het verzorgingsgebied en de periode waarvoor de aanwijzing zal gelden vermeld en wordt gewezen op de in het vijfde lid geregelde mogelijkheid een bod uit te brengen op de aanwijzing.   
+4.  Onze Minister maakt op de datum van de in het derde lid bedoelde bekendmaking het voornemen voorts bekend aan: 
+
+a. in het geval van een te verzorgen dienst, bedoeld in artikel 9.1, eerste lid, onderdeel a: de aanbieder van het openbare elektronische communicatienetwerk waarop in het verzorgingsgebied de meeste eindgebruikers zijn aangesloten;  
+
+b. in het geval van een te verzorgen dienst, bedoeld in artikel 9.1, eerste lid, onderdeel b tot en met f: de aanbieder van de te verzorgen openbare elektronische communicatiedienst, of, bij het ontbreken daarvan, een daarmee samenhangende dienst, waarvan in het verzorgingsgebied de meeste eindgebruikers gebruik maken; of  
+
+c. in het geval van een te verzorgen voorziening: de aanbieder van de met de te verzorgen voorziening samenhangende openbare elektronische communicatiedienst waarvan in het verzorgingsgebied de meeste eindgebruikers gebruik maken.   Daarbij wordt gewezen op de in het vijfde lid geregelde verplichting voor deze aanbieder een bod uit te brengen op de aanwijzing.   
+5.  Binnen acht weken na de datum van de in het derde lid, bedoelde bekendmaking kan bij Onze Minister een bod worden uitgebracht op de aanwijzing en brengt de aanbieder, bedoeld in het vierde lid, in ieder geval zijn bod uit.   
+6.  Bij ministeriële regeling wordt bepaald of een bod wordt uitgebracht door: 
+
+a. het opgeven van een bedrag per jaar, of  
+
+b. het opgeven van een bedrag per in de ministeriële regeling aangewezen eenheid van het gebruik of de af te nemen voorziening.   Bij ministeriële regeling kan worden bepaald dat aanvullend op het bod een van het gebruik onafhankelijk bedrag wordt vergoed, en wat de hoogte is van dat bedrag.   
+7.  Een bod wordt geweigerd indien de bieder naar verwachting de universele dienst niet naar behoren zal kunnen verzorgen.   
+8.  Degene die het laagste bod heeft uitgebracht, dat niet op grond van het zevende lid is geweigerd, wordt aangewezen als universeledienstverlener.   
+9.  Indien uit de in het achtste lid bedoelde vergelijking blijkt dat meer dan een bieder het laagste bod hebben uitgebracht, wordt door middel van het lot beslist wie van hen wordt aangewezen als universeledienstverlener.   
 
 ### Artikel  9.4  
 
-1.  Indien ingevolge artikel 9.3 aan degene die op grond van een opdracht een openbare elektronische communicatiedienst of voorziening verzorgt, een vergoeding wordt toegekend, is eenieder die een openbare elektronische communicatiedienst aanbiedt die behoort tot een voor de desbetreffende opgedragen dienst of voorziening bij algemene maatregel van bestuur bepaalde categorie van openbare elektronische communicatiediensten, en die in het kalenderjaar waarop de te betalen vergoeding betrekking heeft, voor die dienst in Nederland een hogere omzet heeft dan een bij ministeriële regeling te bepalen bedrag, aan het college een bijdrage verschuldigd.   
-2.  De verschuldigde bijdrage wordt door het college binnen een half jaar na toekenning van de vergoeding vastgesteld en aan degene die de bijdrage is verschuldigd, meegedeeld.   
-3.  De bijdrage wordt berekend door de te betalen vergoeding te vermenigvuldigen met de in het vierde lid bedoelde breuk.   
-4.  De teller van de breuk bestaat uit de jaaromzet in Nederland van de bijdrageverschuldigde aanbieder in de in het eerste lid bedoelde openbare elektronische communicatiediensten in het jaar waarop de te betalen vergoeding betrekking heeft. De noemer van de breuk bestaat uit de som van de jaaromzetten in Nederland van de bijdrageverschuldigde aanbieders in de desbetreffende diensten in het jaar waarop de te betalen vergoeding betrekking heeft.   
-5.  De bijdrage wordt betaald binnen vier weken na ontvangst van de beschikking waarin de bijdrage is vastgesteld.   
-6.  Op verzoek van degene die op grond van artikel 9.3 een vergoeding krijgt toegekend, wordt een door hem te betalen bijdrage verrekend met de door hem te ontvangen vergoeding.   
+1.  Indien het bod op de in artikel 9.3, zesde lid, onderdeel a, bedoelde wijze is uitgebracht, bestaat de vergoeding uit het bod, uitgebracht door degene die op grond van artikel 9.3, achtste of negende lid, is aangewezen.   
+2.  Indien het bod op de in artikel 9.3, zesde lid, onderdeel b, bedoelde wijze is uitgebracht, bestaat de vergoeding uit het bod, uitgebracht door degene die op grond van artikel 9.3, achtste of negende lid, is aangewezen als universeledienstverlener, vermenigvuldigd met het aantal daadwerkelijk gebruikte eenheden in het betreffende kalenderjaar, vermeerderd met het eventueel in de ministeriële regeling op grond van artikel 9.3, zesde lid, vastgestelde van het gebruik onafhankelijke bedrag.   
+3.  In afwijking van het bepaalde in het eerste en tweede lid, kan het in het bod genoemde bedrag door Onze Minister gematigd worden voor zover het bod bestaat uit onevenredig meer dan de door Onze Minister verwachte werkelijke kosten die de aanbieder maakt als gevolg van de aanwijzing en waartegenover als gevolg van de bij of krachtens artikel 9.1, vierde lid, gestelde regels omtrent de betaalbaarheid geen vergoeding door eindgebruikers staat, met inbegrip van een redelijke winstopslag.   
+4.  De hoogte van de vergoeding wordt bekendgemaakt in de Staatscourant.   
+5.  Indien het bod op de in artikel 9.3, zesde lid, onderdeel b, bedoelde wijze werd uitgebracht verstrekt degene die op grond van artikel 9.3, achtste of negende lid, is aangewezen als universeledienstverlener het aantal daadwerkelijk in het betreffende kalenderjaar gebruikte eenheden binnen vier weken na het eind van het kalenderjaar aan Onze Minister. Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop de gegevens worden verstrekt. Onze Minister publiceert de vergoeding voor het betreffende kalenderjaar in de Staatscourant.   
+6.  Onze Minister betaalt de vergoeding voor het betreffende kalenderjaar uit binnen drie maanden na afloop van het kalenderjaar. Deze termijn kan worden verlengd met het aantal dagen waarmee de in het vijfde lid bedoelde termijn wordt overschreden.   
+
+### Artikel  9.5  
+
+1.  Indien ingevolge artikel 9.4 aan degene die is aangewezen als universeledienstverlener, een vergoeding wordt toegekend, is eenieder die openbare elektronische communicatiediensten, openbare elektronische communicatienetwerken of bijbehorende faciliteiten aanbiedt, en die in het kalenderjaar voorafgaande aan het kalenderjaar waarop de te betalen vergoeding betrekking heeft, daaruit in Nederland een hogere omzet realiseert dan een bij of krachtens algemene maatregel van bestuur te bepalen bedrag, aan het college een bijdrage verschuldigd.   
+2.  Bij algemene maatregel van bestuur wordt bepaald hoe de bijdrage, bedoeld in het eerste lid, wordt berekend en wanneer deze verschuldigd is.   
+
+### Artikel  9.6  
+
+Degene die op grond van een aanwijzing als bedoeld in artikel 9.2, eerste lid, openbare elektronische communicatiediensten of voorzieningen verzorgt, draagt gedurende de looptijd van de aanwijzing niet een belangrijk deel of het geheel van zijn aansluitnetwerk over aan een afzonderlijke rechtspersoon met een andere eigenaar dan nadat daartoe toestemming van Onze Minister is verkregen. Onze Minister verleent toestemming tenzij hij verwacht dat een dergelijke overdracht een nadelige invloed heeft op de levering van de in artikel 9.1, eerste lid, onderdelen a en b, genoemde diensten. Onze Minister kan voorwaarden opleggen overeenkomstig artikel 6, tweede lid, van de Machtigingsrichtlijn.  
 
 ### Hoofdstuk  10  
 
@@ -1547,30 +1803,71 @@ b. verkeersgegevens: gegevens die worden verwerkt voor het overbrengen van commu
 
 c. verwerking van verkeersgegevens: verwerking als bedoeld in [artikel 1, onderdeel b, van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), met dien verstande dat de desbetreffende handelingen mede betrekking hebben op verkeersgegevens van abonnees die geen natuurlijke personen zijn;  
 
-d. locatiegegevens: gegevens die worden verwerkt in een elektronisch communicatienetwerk waarmee de geografische positie van de randapparatuur van een gebruiker van een openbare elektronische communicatiedienst wordt aangegeven;  
+d. locatiegegevens: gegevens die worden verwerkt in een openbaar elektronisch communicatienetwerk of een openbare elektronische communicatiedienst waarmee de geografische positie van de randapparatuur van een gebruiker van een openbare elektronische communicatiedienst wordt aangegeven;  
 
 e. communicatie: informatie die wordt uitgewisseld of overgebracht tussen een eindig aantal partijen door middel van een openbare elektronische communicatiedienst; dit omvat niet de informatie die via een omroepdienst over een elektronisch communicatienetwerk wordt overgebracht, behalve wanneer de informatie kan worden gerelateerd aan de identificeerbare abonnee of gebruiker die de informatie ontvangt;  
 
-f. oproep: een door middel van een openbare telefoondienst tot stand gebrachte verbinding die zonder noemenswaardige vertraging communicatie tussen gebruikers of abonnees over en weer mogelijk maakt;  
+f. oproep: een door middel van een openbare elektronische communicatiedienst tot stand gebrachte verbinding die spraakcommunicatie tussen gebruikers of abonnees over en weer mogelijk maakt;  
 
 g. toestemming van een gebruiker of abonnee: toestemming van een betrokkene als bedoeld in [artikel 1, onder i, van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), met dien verstande dat de toestemming mede betrekking kan hebben op gegevens van abonnees die geen natuurlijke personen zijn;  
 
 h. dienst met toegevoegde waarde: dienst die de verwerking vereist van verkeersgegevens of locatiegegevens, niet zijnde verkeersgegevens, en die verder gaat dan hetgeen noodzakelijk is voor de overbrenging van een communicatie of de facturering daarvan;  
 
-i. elektronisch bericht: tekst-, spraak-, geluids- of beeldbericht dat over een openbaar elektronisch communicatienetwerk wordt verzonden en in het netwerk of in de randapparatuur van de ontvanger kan worden opgeslagen tot het door de ontvanger wordt opgehaald.    
+i. elektronisch bericht: tekst-, spraak-, geluids- of beeldbericht dat over een openbaar elektronisch communicatienetwerk wordt verzonden en in het netwerk of in de randapparatuur van de ontvanger kan worden opgeslagen tot het door de ontvanger wordt opgehaald;  
+
+j. inbreuk in verband met persoonsgegevens: een inbreuk op de beveiliging die resulteert in een onbedoelde of onwettige vernietiging, verlies of wijziging van, of een niet geautoriseerde toegang tot persoonsgegevens die zijn verstuurd, opgeslagen of anderszins verwerkt in verband met de levering van een openbare elektronische communicatiedienst in de Europese Unie.    
 
 ### Artikel  11.2  
 
 Onverminderd de [Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en het overigens bij of krachtens deze wet bepaalde dragen de aanbieder van een openbaar elektronisch communicatienetwerk en de aanbieder van een openbare elektronische communicatiedienst zorg voor de bescherming van persoonsgegevens en de bescherming van de persoonlijke levenssfeer van abonnees en gebruikers van zijn netwerk, onderscheidenlijk zijn dienst.  
 
+### Artikel  11.2a  
+
+1.  Onverminderd het [Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en het overigens bij of krachtens deze wet bepaalde, dragen de aanbieder van een openbaar elektronisch communicatienetwerk en de aanbieder van een openbare elektronische communicatiedienst zorg voor het vertrouwelijke karakter van de communicatie en de daarmee verband houdende gegevens via hun netwerken onderscheidenlijk hun diensten.   
+2.  De aanbieder van een openbaar elektronisch communicatienetwerk en de aanbieder van een openbare elektronische communicatiedienst onthouden zich van het aftappen, afluisteren of anderszins onderscheppen of controleren van de communicatie via een openbaar elektronisch communicatienetwerk of openbare elektronische communicatiedienst en de daarmee verband houdende gegevens tenzij en voor zover: 
+
+a. de betrokken abonnee voor deze handelingen zijn uitdrukkelijke toestemming heeft gegeven;  
+
+b. deze handelingen noodzakelijk zijn om de integriteit en de veiligheid van de netwerken en diensten van de betrokken aanbieder te waarborgen;  
+
+c. deze handelingen noodzakelijk zijn voor het overbrengen van informatie via de netwerken en diensten van de betrokken aanbieder, of  
+
+d. deze handelingen noodzakelijk zijn ter uitvoering van een wettelijk voorschrift of rechterlijk bevel.     
+3.  Voorafgaand aan het verkrijgen van toestemming als bedoeld in het tweede lid, onderdeel a, verstrekt de aanbieder aan de abonnee de volgende informatie: 
+
+a. de soort gegevens die wordt afgetapt, afgeluisterd, onderschept of gecontroleerd;  
+
+b. de doeleinden waarvoor de gegevens worden afgetapt, afgeluisterd, onderschept of gecontroleerd, en  
+
+c. de duur van het aftappen, afluisteren, onderscheppen of controleren van de gegevens.     
+4.  Een abonnee kan de verleende toestemming, bedoeld in het tweede lid, onderdeel a, op elk moment intrekken.   
+
 ### Artikel  11.3  
 
 1.  De in artikel 11.2 bedoelde aanbieders treffen in het belang van de bescherming van persoonsgegevens en de bescherming van de persoonlijke levenssfeer van abonnees en gebruikers passende technische en organisatorische maatregelen ten behoeve van de veiligheid en beveiliging van de door hen aangeboden netwerken en diensten. De maatregelen garanderen, rekening houdend met de stand van de techniek en de kosten van de tenuitvoerlegging, een passend beveiligingsniveau dat in verhouding staat tot het desbetreffende risico.   
-2.  De in artikel 11.2 bedoelde aanbieders dragen er zorg voor dat de abonnees worden geïnformeerd over: 
+2.  De maatregelen als bedoeld in het eerste lid omvatten in elk geval: 
+
+a. waarborgen dat slechts daartoe gemachtigd personeel voor wettelijk toegestane doeleinden toegang heeft tot de persoonsgegevens,  
+
+b. de bescherming van opgeslagen of verzonden persoonsgegevens tegen onbedoelde of niet toegestane opslag, verwerking, toegang, verstrekking, wijziging, verlies, vernietiging, en  
+
+c. de invoering van een veiligheidsbeleid met betrekking tot de verwerking van persoonsgegevens.     
+3.  De in artikel 11.2 bedoelde aanbieders dragen er zorg voor dat de abonnees worden geïnformeerd over: 
 
 a. bijzondere risico's voor de doorbreking van de veiligheid of de beveiliging van het aangeboden netwerk of de aangeboden dienst;  
 
 b. de eventuele middelen waarmee de onder a bedoelde risico's kunnen worden tegengegaan, voor zover het andere maatregelen betreft dan die welke de aanbieder op grond van het eerste lid gehouden is te treffen, alsmede een indicatie van de verwachte kosten.     
+4.  Bij of krachtens algemene maatregel van bestuur kunnen de in artikel 11.2 bedoelde aanbieders in het belang van de bescherming van persoonsgegevens en de bescherming van de persoonlijke levenssfeer van abonnees en gebruikers nadere verplichtingen en beperkingen worden opgelegd ten behoeve van de veiligheid en beveiliging van de door hen aangeboden netwerken en diensten.   
+
+### Artikel  11.3a  
+
+1.  De aanbieder van een openbare elektronische communicatiedienst stelt het college onverwijld in kennis van een inbreuk op de beveiliging, bedoeld in artikel 11.3, die nadelige gevolgen heeft voor de bescherming van persoonsgegevens die zijn verwerkt in verband met de levering van een openbare elektronische communicatiedienst in de Europese Unie.   
+2.  De aanbieder, bedoeld in het eerste lid, stelt degene wiens persoonsgegevens het betreft onverwijld in kennis van een inbreuk in verband met persoonsgegevens indien de inbreuk waarschijnlijk ongunstige gevolgen zal hebben voor diens persoonlijke levenssfeer.   
+3.  De kennisgeving aan het college en de persoon wiens persoonsgegevens het betreft, omvat in ieder geval de aard van de inbreuk in verband met persoonsgegevens, de instanties waar meer informatie over de inbreuk kan worden verkregen en de aanbevolen maatregelen om de negatieve gevolgen van de inbreuk te beperken. De kennisgeving aan het college omvat tevens de gevolgen van de inbreuk op de persoonsgegevens en de maatregelen die de aanbieder voorstelt of heeft getroffen om de inbreuk aan te pakken.   
+4.  Indien de aanbieder van een openbare elektronische communicatiedienst geen kennisgeving als bedoeld in het tweede lid doet, kan het college, indien het van oordeel is dat de inbreuk in verband met persoonsgegevens waarschijnlijk ongunstige gevolgen zal hebben voor de persoonlijke levenssfeer van de persoon wiens persoonsgegevens het betreft, van de aanbieder verlangen dat hij die persoon alsnog in kennis stelt van de inbreuk.   
+5.  De kennisgeving, bedoeld in het tweede lid, is niet vereist indien de aanbieder naar het oordeel van het college gepaste technische beschermingsmaatregelen heeft genomen waardoor de persoonsgegevens die het betreft, versleuteld of anderszins onbegrijpelijk zijn voor een ieder die geen recht heeft op toegang tot die gegevens.   
+6.  De aanbieder van een openbare elektronische communicatiedienst houdt een overzicht bij van alle inbreuken in verband met persoonsgegevens. Dit overzicht bevat in elk geval de feiten en de in het derde lid bedoelde gegevens.   
+7.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gegeven met betrekking tot de in dit artikel bedoelde eisen met betrekking tot het verstrekken van informatie en de kennisgeving.   
 
 ### Artikel  11.4  
 
@@ -1590,7 +1887,7 @@ b. de mogelijkheid te bieden kosteloos en op eenvoudige wijze de doorschakeling 
 
 a. marktonderzoek of verkoopactiviteiten met betrekking tot elektronische communicatiediensten, of  
 
-b. de levering van diensten met toegevoegde waarde,   mits de abonnee of de gebruiker waarop de verkeersgegevens betrekking hebben daarvoor zijn toestemming heeft gegeven. De abonnee of gebruiker kan de gegeven toestemming voor de verwerking van verkeersgegevens te allen tijde intrekken.   
+b. de levering van diensten met toegevoegde waarde,   mits de abonnee of de gebruiker waarop de verkeersgegevens betrekking hebben daarvoor voorafgaand aan de verwerking zijn toestemming heeft gegeven. De abonnee of gebruiker kan de gegeven toestemming voor de verwerking van verkeersgegevens te allen tijde intrekken.   
 4.  De aanbieder stelt de abonnee of gebruiker in kennis van de soorten verkeersgegevens die worden verwerkt voor de in het tweede en derde lid bedoelde doeleinden alsmede omtrent de duur van de verwerking. Voor zover het de verwerking van verkeersgegevens ten behoeve van de doeleinden, bedoeld in het derde lid betreft, wordt de desbetreffende informatie verstrekt voorafgaand aan het verkrijgen van de in dat lid bedoelde toestemming van de abonnee of gebruiker.   
 5.  De verwerking van verkeersgegevens in overeenstemming met het eerste tot en met vierde lid mag alleen geschieden door personen die werkzaam zijn onder het gezag van de aanbieder voor facturering, verkeersbeheer, behandeling van verzoeken om inlichtingen van klanten, opsporing van fraude alsmede marktonderzoek of verkoopactiviteiten met betrekking tot elektronische communicatiediensten of de levering van diensten met toegevoegde waarde en moet beperkt blijven tot hetgeen noodzakelijk is om die activiteiten te kunnen uitvoeren.   
 6.  De aanbieder mag de verkeersgegevens verstrekken aan personen en instanties die zijn belast met de berechting van enig geschil dan wel de beslissing van een geschil als bedoeld in de artikelen 12.1, 12.2 voor zover van toepassing, of  12.9.   
@@ -1635,26 +1932,26 @@ b. de soorten persoonsgegevens die, gelet op de vastgestelde doeleinden van de d
 
 ### Artikel  11.7  
 
-1.  Het gebruik van automatische oproepsystemen zonder menselijke tussenkomst, faxen en elektronische berichten voor het overbrengen van ongevraagde communicatie voor commerciële, ideële of charitatieve doeleinden aan abonnees is uitsluitend toegestaan, mits de verzender kan aantonen dat de desbetreffende abonnee daarvoor voorafgaand toestemming heeft verleend, onverminderd hetgeen is bepaald in het tweede en derde lid.   
-2.  Indien de abonnee, bedoeld in het eerste lid, een rechtspersoon is dan wel een natuurlijke persoon die handelt in de uitoefening van zijn beroep of bedrijf, geldt met betrekking tot het door middel van elektronische berichten overbrengen van ongevraagde communicatie voor commerciële, ideële of charitatieve doeleinden dat geen voorafgaande toestemming is vereist: 
+1.  Het gebruik van automatische oproep- en communicatiesystemen zonder menselijke tussenkomst, faxen en elektronische berichten voor het overbrengen van ongevraagde communicatie voor commerciële, ideële of charitatieve doeleinden aan abonnees of gebruikers is uitsluitend toegestaan, mits de verzender kan aantonen dat de desbetreffende abonnee of gebruiker daarvoor voorafgaand toestemming heeft verleend, onverminderd hetgeen is bepaald in het tweede en derde lid.   
+2.  Indien de gebruiker, bedoeld in het eerste lid, een rechtspersoon is dan wel een natuurlijke persoon die handelt in de uitoefening van zijn beroep of bedrijf, geldt met betrekking tot het door middel van elektronische berichten overbrengen van ongevraagde communicatie voor commerciële, ideële of charitatieve doeleinden dat geen voorafgaande toestemming is vereist: 
 
-a. indien de verzender bij het overbrengen van de communicatie gebruik maakt van elektronische contactgegevens die door de abonnee daarvoor zijn bestemd en bekendgemaakt, en deze zijn gebruikt in overeenstemming met de door de abonnee aan die contactgegevens verbonden doeleinden, of  
+a. indien de verzender bij het overbrengen van de communicatie gebruik maakt van elektronische contactgegevens die door de gebruiker daarvoor zijn bestemd en bekendgemaakt, en deze zijn gebruikt in overeenstemming met de door de gebruiker aan die contactgegevens verbonden doeleinden, of  
 
-b. indien de abonnee is gevestigd buiten de Europese Economische Ruimte en voldaan is aan de in het desbetreffende land geldende voorschriften met betrekking tot het verzenden van ongevraagde communicatie.     
+b. indien de gebruiker is gevestigd buiten de Europese Economische Ruimte en voldaan is aan de in het desbetreffende land geldende voorschriften met betrekking tot het verzenden van ongevraagde communicatie.     
 3.  Een ieder die elektronische contactgegevens voor elektronische berichten heeft verkregen in het kader van de verkoop van zijn product of dienst mag deze gegevens gebruiken voor het overbrengen van communicatie voor commerciële, ideële of charitatieve doeleinden met betrekking tot eigen gelijksoortige producten of diensten, mits bij de verkrijging van de contactgegevens aan de klant duidelijk en uitdrukkelijk de gelegenheid is geboden om kosteloos en op gemakkelijke wijze verzet aan te tekenen tegen het gebruik van die elektronische contactgegevens, en, indien de klant hiervan geen gebruik heeft gemaakt, hem bij elke overgebrachte communicatie de mogelijkheid wordt geboden om onder dezelfde voorwaarden verzet aan te tekenen tegen het verder gebruik van zijn elektronische contactgegevens. [Artikel 41, tweede lid, van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is van overeenkomstige toepassing.   
-4.  Bij het gebruik van elektronische berichten voor de in het eerste lid genoemde doeleinden dienen te allen tijde de volgende gegevens te worden vermeld: 
+4.  Op het gebruik van elektronische berichten voor de in het eerste lid genoemde doeleinden zijn de vereisten van [artikel 15e, eerste lid, onderdelen a tot en met c, van boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) van overeenkomstige toepassing en bedoeld gebruik bevat geen aanmoedigingen informatie op het internet te raadplegen die in strijd is met dat artikel. Bij dat gebruik dienen te allen tijde de volgende gegevens te worden vermeld: 
 
 a. de werkelijke identiteit van degene namens wie de communicatie wordt overgebracht, en  
 
 b. een geldig postadres of nummer waaraan de ontvanger een verzoek tot beëindiging van dergelijke communicatie kan richten.     
-5.  Het gebruik van andere dan de in het eerste lid bedoelde middelen voor het overbrengen van ongevraagde communicatie voor commerciële, ideële of charitatieve doeleinden aan abonnees is toegestaan met inachtneming van het bepaalde in het zesde tot en met twaalfde lid, tenzij de abonnee op de in het zesde lid bedoelde wijze dan wel anderszins te kennen heeft gegeven dat hij de ongevraagde communicatie niet wenst te ontvangen.   
+5.  Het gebruik van andere dan de in het eerste lid bedoelde middelen voor het overbrengen van ongevraagde communicatie voor commerciële, ideële of charitatieve doeleinden is toegestaan met inachtneming van het bepaalde in het zesde tot en met twaalfde lid, tenzij de abonnee op de in het zesde lid bedoelde wijze dan wel anderszins te kennen heeft gegeven dat hij de ongevraagde communicatie niet wenst te ontvangen.   
 6.  Er is een register waarin de contactgegevens van de abonnee worden opgenomen die daarmee te kennen geeft dat hij ongevraagde communicatie als bedoeld in het vijfde lid niet wenst te ontvangen. De inschrijving in het register is voor onbepaalde tijd totdat de abonnee te kennen geeft dat zijn contactgegevens uit het register verwijderd kunnen worden. Het register wordt gehouden door een door Onze Minister aan te wijzen beheerder. De beheerder is verantwoordelijke als bedoeld in [artikel 1, onder d, van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
 7.  Het register heeft als doel de abonnee te vrijwaren van de ongevraagde communicatie waarvan hij heeft aangegeven dat hij die niet wenst te ontvangen. De contactgegevens van de abonnee die zijn opgenomen in dit register worden niet voor enig ander doel gebruikt.   
 8.  De beheerder blokkeert of verwijdert op verzoek van degene die communicatie als bedoeld in het vijfde lid wil overbrengen contactgegevens van abonnees die in het register zijn opgenomen uit aan hem aangeboden bestanden met contactgegevens van abonnees, of stelt op verzoek de contactgegevens van abonnees uit het register voor dat doel beschikbaar aan degene die ongevraagde communicatie als bedoeld in het vijfde lid wil overbrengen.   
 9.  Het is verboden om communicatie als bedoeld in het vijfde lid over te brengen aan een abonnee die door opname van zijn contactgegevens in het register te kennen heeft gegeven deze ongevraagde communicatie niet te willen ontvangen.   
 10.  Degene die communicatie als bedoeld in het vijfde lid overbrengt, gebruikt voor het overbrengen van ongevraagde communicatie uitsluitend bestanden waaruit de contactgegevens die in het register zijn opgenomen, zijn geblokkeerd of verwijderd.   
 11.  Het negende en tiende lid zijn niet van toepassing op het overbrengen van communicatie als bedoeld in het vijfde lid voor zover de contactgegevens zijn verkregen in het kader van de verkoop van een product of dienst of in het kader van schenking aan een ideële of charitatieve organisatie en deze worden gebruikt voor het overbrengen van communicatie als bedoeld in het vijfde lid met betrekking tot eigen gelijksoortige producten of diensten of schenkingen aan de ideële of charitatieve organisatie.   
-12.  Tijdens elke overgebrachte communicatie wordt de abonnee, tijdens het gesprek, gewezen op het register, wordt hem de mogelijkheid geboden verzet aan te tekenen tegen het verdere gebruik van zijn elektronische contactgegevens en wordt hem de mogelijkheid geboden tot onmiddellijke opname in het register, bedoeld in het zesde lid. Aan de abonnee worden in dat geval geen kosten in rekening gebracht van voorzieningen waarmee wordt voorkomen dat hem ongevraagde communicatie wordt overgebracht. [Artikel 41, tweede lid, van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is van overeenkomstige toepassing.   
+12.  Tijdens elke overgebrachte communicatie wordt tijdens het gesprek gewezen op het register en op de mogelijkheid voor de abonnee verzet aan te tekenen tegen het verdere gebruik van zijn elektronische contactgegevens en wordt de abonnee de mogelijkheid geboden tot onmiddellijke opname in het register, bedoeld in het zesde lid. Aan de abonnee worden in dat geval geen kosten in rekening gebracht van voorzieningen waarmee wordt voorkomen dat hem ongevraagde communicatie wordt overgebracht. [Artikel 41, tweede lid, van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is van overeenkomstige toepassing.   
 13.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzien van: 
 
 a. het blokkeren of verwijderen van contactgegevens van abonnees uit bestanden die gebruikt worden om communicatie over te brengen als bedoeld in het vijfde lid, het beschikbaar stellen van contactgegevens van abonnees uit het register en de periode gedurende welke de bestanden bewaard blijven en gebruikt kunnen worden;  
@@ -1667,9 +1964,29 @@ d. de mogelijkheid van verzet als bedoeld in het twaalfde lid;
 
 e. de mogelijkheid van onmiddellijke opname in het register als bedoeld in het twaalfde lid.     
 
+### Artikel  11.7a  
+
+1.  Onverminderd de [Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) dient een ieder die door middel van elektronische communicatienetwerken toegang wenst te verkrijgen tot gegevens die zijn opgeslagen in de randapparatuur van een gebruiker dan wel gegevens wenst op te slaan in de randapparatuur van de gebruiker: 
+
+a. de gebruiker duidelijke en volledige informatie te verstrekken overeenkomstig de Wet bescherming persoonsgegevens, en in ieder geval omtrent de doeleinden waarvoor men toegang wenst te verkrijgen tot de desbetreffende gegevens dan wel waarvoor men gegevens wenst op te slaan, en  
+
+b. van de gebruiker toestemming te hebben verkregen voor de desbetreffende handeling.     
+2.  De in het eerste lid, onder a en b, genoemde vereisten zijn ook van toepassing in het geval op een andere wijze dan door middel van een elektronisch communicatienetwerk wordt bewerkstelligd dat via een elektronisch communicatienetwerk gegevens worden opgeslagen of toegang wordt verleend tot op het randapparaat opgeslagen gegevens.   
+3.  Het bepaalde in het eerste en tweede lid is niet van toepassing, voor zover het de technische opslag of toegang tot gegevens betreft met als uitsluitend doel: 
+
+a. de communicatie over een elektronisch communicatienetwerk uit te voeren, of  
+
+b. de door de abonnee of gebruiker gevraagde dienst van de informatiemaatschappij te leveren en de opslag of toegang tot gegevens daarvoor strikt noodzakelijk is.     
+4.  Bij algemene maatregel van bestuur kunnen in overeenstemming met Onze Minister van Veiligheid en Justitie nadere regels worden gegeven met betrekking tot de in het eerste lid, onder a en b, genoemde vereisten. Het College bescherming persoonsgegevens wordt om advies gevraagd over een ontwerp van bedoelde algemene maatregel van bestuur.   
+
 ### Artikel  11.8  
 
 De toepassing van de artikelen 11.6 en 11.7, vijfde tot en met twaalfde lid, is beperkt tot abonnees die natuurlijke personen zijn.  
+
+### Artikel  11.8a  
+
+1.  Indien het college met bevoegde nationale instanties in andere lidstaten maatregelen overeen komt aangaande grensoverschrijdende samenwerking bij de handhaving van hoofdstuk 11 waarbij grensoverschrijdende gegevensstromen betrokken zijn, verstrekt het college de Europese Commissie ruime tijd voordat die maatregelen worden vastgelegd een samenvatting van de redenen voor optreden, de geplande afspraken en de voorgestelde aanpak.   
+2.  Bij het vastleggen van de maatregelen houdt het college zoveel mogelijk rekening met de door de Europese Commissie gemaakte opmerkingen en aanbevelingen.   
 
 ### §  11.2  
 
@@ -1720,6 +2037,7 @@ c. 24 uur in alle overige gevallen.
 8.  De op grond van het eerste lid aangewezen beheerder vergoedt de kosten die zijn gemoeid met het verstrekken van de in het eerste lid, onder a en b, en de in het tweede lid bedoelde gegevens.   
 9.  De bekendmaking van het besluit tot aanwijzing van de beheerders, bedoeld in het eerste lid, en de publieke diensten, bedoeld in het vierde lid, geschiedt door plaatsing in de Staatscourant door Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.   
 10.  De beheerders, bedoeld in het eerste lid, zijn bevoegd om ten behoeve van de controle op de effectiviteit van de hulpverlening in noodsituaties de bij het alarmnummer voor publieke diensten ingekomen oproepen vast te leggen en voor ten hoogste twee maanden te bewaren. Bij de vastlegging worden de datum en het tijdstip van de oproep geregistreerd.   
+11.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de nauwkeurigheid en betrouwbaarheid van de te verstrekken gegevens, bedoeld in het eerste en tweede lid.   
 
 ### Artikel  11.11  
 
@@ -1770,6 +2088,30 @@ a. de nationale veiligheid;
 b. de voorkoming, opsporing en vervolging van strafbare feiten.     
 2.  De verkeers- en locatiegegevens die de aanbieders van openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten bewaren op grond van artikel 13.2a, tweede lid, worden door de aanbieders niet voor andere doelen verwerkt, tenzij het gegevens betreft waarvan de verwerking op grond van de artikelen 11.5 en 11.5a is toegestaan en de verwerking plaatsvindt met inachtneming van die artikelen.   
 3.  Aanbieders van openbare elektronische communicatienetwerken en openbare elektronische communicatiediensten mogen, in afwijking van artikel 11.5, eerste lid, verkeersgegevens verwerken, indien en voor zolang dat noodzakelijk is voor een onderzoek als bedoeld in artikel 11.11, vierde en vijfde lid. De verkeersgegevens mogen voor een periode van ten hoogste drie maanden na beëindiging van een onderzoek als bedoeld in artikel 11.11, vierde lid, door de desbetreffende aanbieders worden bewaard. Na afloop van deze periode worden de verkeersgegevens verwijderd.   
+
+### Hoofdstuk  11a  
+
+####Continuïteit
+
+### Artikel  11a.1  
+
+1.  Aanbieders van openbare elektronische communicatienetwerken en openbare elektronische communicatiediensten nemen passende technische en organisatorische maatregelen om de risico’s voor de veiligheid en de integriteit van hun netwerken en diensten te beheersen.   
+2.  Onverminderd het eerste lid nemen aanbieders van openbare telefoondiensten en aanbieders van openbare elektronische communicatienetwerken waarover openbare telefoondiensten worden aangeboden alle noodzakelijke maatregelen om de beschikbaarheid van de openbare telefoondiensten over de openbare elektronische communicatienetwerken zo volledig mogelijk te waarborgen in geval van een technische storing of uitval van het elektriciteitsnetwerk.   
+3.  Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van de technische uitvoeringsmaatregelen als bedoeld in artikel 13bis, vierde lid, Kaderrichtlijn.   
+4.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gegeven met betrekking tot de in dit artikel bedoelde technische en organisatorische maatregelen en kunnen technische en organisatorische eisen worden gesteld aan aanbieders van openbare elektronische communicatienetwerken en openbare elektronische communicatiediensten.   
+5.  Onze Minister kan een aanbieder van openbare elektronische communicatienetwerken en openbare elektronische communicatiediensten de verplichting opleggen om binnen een bepaalde termijn een technische of organisatorische maatregel te treffen met betrekking tot de veiligheid en integriteit van openbare elektronische communicatienetwerken en openbare elektronische communicatiediensten.   
+6.  Onze Minister kan een aanbieder van openbare elektronische communicatienetwerken en openbare elektronische communicatiediensten de verplichting opleggen om binnen een bepaalde termijn een veiligheidscontrole te laten uitvoeren door een onafhankelijke deskundige. De aanbieder van openbare elektronische communicatienetwerken en openbare elektronische communicatiediensten draagt de kosten van deze controle.   
+
+### Artikel  11a.2  
+
+1.  Aanbieders van openbare elektronische communicatienetwerken en openbare elektronische communicatiediensten stellen Onze Minister onverwijld in kennis van: 
+
+a. een inbreuk op de veiligheid,  
+
+b. een verlies van integriteit,   waardoor de continuïteit van openbare elektronische communicatienetwerken en openbare elektronische communicatiediensten in belangrijke mate werd onderbroken.   
+2.  Aanbieders van openbare elektronische communicatienetwerken en openbare elektronische communicatiediensten verstrekken onze Minister op zijn verzoek alle informatie die nodig is om de veiligheid en integriteit van hun netwerken en diensten te beoordelen.   
+3.  Indien openbaarmaking in het algemeen belang is, kan Onze Minister een inbreuk op de veiligheid en een verlies van integriteit, bedoeld in het eerste lid, openbaar maken of de aanbieder verplichten tot openbaarmaking.   
+4.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gegeven met betrekking tot de in het eerste lid bedoelde kennisgeving, het verstrekken van de in het tweede lid bedoelde informatie, en de in het derde lid bedoelde openbaarmaking, en kunnen inbreuken of verliezen als bedoeld in het eerste lid, onderdelen a en b, worden aangewezen waarvan Onze Minister in ieder geval in kennis gesteld moet worden.   
 
 ### Hoofdstuk  12  
 
@@ -1829,6 +2171,7 @@ Van een besluit als bedoeld in artikel 12.2 wordt mededeling gedaan in de Staats
 
 1.  Het college overlegt met de desbetreffende nationale regelgevende instantie aan wie de bevoegdheid tot het beslechten van geschillen is opgedragen, over de beslechting van een geschil dat landsgrensoverschrijdende aspecten heeft en dat overeenkomstig deze paragraaf aan het college is voorgelegd, dan wel aan de desbetreffende nationale regelgevende instantie is voorgelegd en door die instantie aan het college is voorgelegd.   
 2.  In afwijking van artikel 12.5, eerste lid, beslist het college op een aanvraag als bedoeld in het eerste lid, binnen 24 weken na ontvangst van die aanvraag.   
+3.  Indien het college of de desbetreffende nationale regelgevende instantie, bedoeld in het eerste lid, advies van BEREC heeft gevraagd over de beslechting van een geschil als bedoeld in het eerste lid, neemt het college het besluit niet dan nadat BEREC het advies heeft gegeven. In afwachting van het advies van BEREC schorst het college de termijn van 24 weken, bedoeld in het tweede lid, op.   
 
 ### §  12.2.2  
 
@@ -1942,7 +2285,12 @@ Na de ondertekening van deze wet wordt de Bijlage behorende bij artikel 13.2a va
 
 ### Artikel  14.1  
 
-In bijzondere omstandigheden in verband met de handhaving van de internationale rechtsorde of met de internationale betrekkingen is Onze Minister bevoegd in overeenstemming met Onze Minister van Buitenlandse Zaken aan aanbieders van openbare telecommunicatienetwerken, openbare telecommunicatiediensten en huurlijnen aanwijzingen te geven met betrekking tot de verzorging van telecommunicatie van en naar het buitenland.  
+1.  In bijzondere omstandigheden in verband met de handhaving van de internationale rechtsorde of met de internationale betrekkingen is Onze Minister bevoegd in overeenstemming met Onze Minister van Buitenlandse Zaken aan aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten aanwijzingen te geven met betrekking tot de verzorging van telecommunicatie van en naar het buitenland.   
+2.  Onze Minister is bevoegd in overeenstemming met Onze Minister van Veiligheid en Justitie aan aanbieders van openbare telecommunicatienetwerken en openbare telecommunicatiediensten aanwijzingen te geven betreffende: 
+
+a. het gebruik van mededelingen van overheidsinstanties om het publiek te waarschuwen voor dreigende rampen of noodsituaties en om de gevolgen van rampen of noodsituaties te verzachten;  
+
+b. het waarborgen van de communicatie tussen en met hulpdiensten en overheidsinstanties tijdens rampen of noodsituaties.     
 
 ### Artikel  14.2  
 
@@ -1959,32 +2307,30 @@ Ingeval voor Nederland of een gedeelte daarvan, op grond van de [artikelen 7, ee
 
 ### Artikel  14.4  
 
-1.   Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.  Onze Minister is bevoegd aan aanbieders van openbare telecommunicatienetwerken, openbare telecommunicatiediensten, huurlijnen en aan gebruikers van de frequentieruimte aanwijzingen te geven met betrekking tot: 
+1.   Dit lid is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit lid in werking treden.  Onze Minister is bevoegd aan aanbieders van openbare telecommunicatienetwerken, openbare telecommunicatiediensten en aan gebruikers van de frequentieruimte aanwijzingen te geven met betrekking tot: 
 
 a. de instandhouding en exploitatie van hun openbare telecommunicatienetwerken;  
 
 b. het verzorgen en het gebruiken van hun openbare telecommunicatiediensten;  
 
-c. de instandhouding en exploitatie dan wel beperking of beëindiging van het gebruik van hun radiozendapparaten, en  
-
-d. het ter beschikking stellen van huurlijnen en het gebruik daarvan, van, naar of in het gebied waarvoor een besluit als bedoeld in artikel 14.2, eerste lid, van kracht is.     
-2.  Onze Minister kan bij toepassing van het eerste lid afwijken van de verplichtingen die ingevolge deze wet op aanbieders van openbare telecommunicatienetwerken, openbare telecommunicatiediensten, huurlijnen en op gebruikers van de frequentieruimte rusten.   
-3.  De aanwijzingen die ingevolge het eerste lid aan aanbieders van openbare telecommunicatienetwerken, openbare telecommunicatiediensten, huurlijnen en aan gebruikers van de frequentieruimte zijn gegeven, zijn voor deze verbindend.   
-4.  Indien aanbieders van openbare telecommunicatienetwerken, openbare telecommunicatiediensten, huurlijnen en gebruikers van de frequentieruimte als gevolg van aanwijzingen gegeven op grond van het eerste lid onevenredig financieel nadeel ondervinden, kent Onze Minister hen een naar billijkheid te bepalen vergoeding toe.   
+c. de instandhouding en exploitatie dan wel beperking of beëindiging van het gebruik van hun radiozendapparaten.     
+2.  Onze Minister kan bij toepassing van het eerste lid afwijken van de verplichtingen die ingevolge deze wet op aanbieders van openbare telecommunicatienetwerken, openbare telecommunicatiediensten en op gebruikers van de frequentieruimte rusten.   
+3.  De aanwijzingen die ingevolge het eerste lid aan aanbieders van openbare telecommunicatienetwerken, openbare telecommunicatiediensten en aan gebruikers van de frequentieruimte zijn gegeven, zijn voor deze verbindend.   
+4.  Indien aanbieders van openbare telecommunicatienetwerken, openbare telecommunicatiediensten en gebruikers van de frequentieruimte als gevolg van aanwijzingen gegeven op grond van het eerste lid onevenredig financieel nadeel ondervinden, kent Onze Minister hen een naar billijkheid te bepalen vergoeding toe.   
 
 ### Artikel  14.5  
 
-1.  Bij toepassing van artikel 14 van de Wet buitengewone bevoegdheden burgerlijk gezag zijn aanbieders van openbare telecommunicatienetwerken, openbare telecommunicatiediensten, huurlijnen en gebruikers van de frequentieruimte verplicht de op grond van het eerste lid van genoemd artikel aangewezen autoriteiten alle medewerking te verlenen, daaronder begrepen het uitvoeren van door die autoriteiten gegeven opdrachten.   
-2.  Bij toepassing van artikel 31 van de Oorlogswet voor Nederland zijn aanbieders van openbare telecommunicatienetwerken, openbare telecommunicatiediensten, huurlijnen en gebruikers van de frequentieruimte verplicht het militair gezag alle medewerking te verlenen, daaronder begrepen het uitvoeren van door dat gezag gegeven opdrachten.   
+1.  Bij toepassing van artikel 14 van de Wet buitengewone bevoegdheden burgerlijk gezag zijn aanbieders van openbare telecommunicatienetwerken, openbare telecommunicatiediensten en gebruikers van de frequentieruimte verplicht de op grond van het eerste lid van genoemd artikel aangewezen autoriteiten alle medewerking te verlenen, daaronder begrepen het uitvoeren van door die autoriteiten gegeven opdrachten.   
+2.  Bij toepassing van artikel 31 van de Oorlogswet voor Nederland zijn aanbieders van openbare telecommunicatienetwerken, openbare telecommunicatiediensten en gebruikers van de frequentieruimte verplicht het militair gezag alle medewerking te verlenen, daaronder begrepen het uitvoeren van door dat gezag gegeven opdrachten.   
 
 ### Artikel  14.6  
 
 1.  Onze Minister kan na overleg met Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Defensie regels stellen ten aanzien van de te nemen organisatorische en personele maatregelen en de te treffen bijzondere voorzieningen met betrekking tot de voorbereiding van het verzorgen van elektronisch transport van gegevens in buitengewone omstandigheden als bedoeld in artikel 14.2, alsmede omtrent de aan Onze Minister daaromtrent te verstrekken informatie.   
-2.  De regels, bedoeld in het eerste lid, zijn uitsluitend van toepassing op door Onze Minister na overleg met Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Defensie aan te wijzen aanbieders van openbare telecommunicatienetwerken, openbare telecommunicatiediensten, huurlijnen en gebruikers van de frequentieruimte.   
-3.  Bij de regeling, bedoeld in het eerste lid, wordt bepaald welke kosten van de uitvoering redelijkerwijze ten laste van de aangewezen aanbieders van openbare telecommunicatienetwerken, openbare telecommunicatiediensten, huurlijnen en van gebruikers van de frequentieruimte dienen te komen.   
+2.  De regels, bedoeld in het eerste lid, zijn uitsluitend van toepassing op door Onze Minister na overleg met Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Defensie aan te wijzen aanbieders van openbare telecommunicatienetwerken, openbare telecommunicatiediensten en gebruikers van de frequentieruimte.   
+3.  Bij de regeling, bedoeld in het eerste lid, wordt bepaald welke kosten van de uitvoering redelijkerwijze ten laste van de aangewezen aanbieders van openbare telecommunicatienetwerken, openbare telecommunicatiediensten en van gebruikers van de frequentieruimte dienen te komen.   
 4.  De in het eerste lid bedoelde bijzondere voorzieningen hebben betrekking op: 
 
-a. de beschikbaarheid van openbare telecommunicatienetwerken dan wel delen daarvan, openbare telecommunicatiediensten, radiozendapparaten en huurlijnen;  
+a. de beschikbaarheid van openbare telecommunicatienetwerken dan wel delen daarvan, openbare telecommunicatiediensten en radiozendapparaten;  
 
 b. de beveiliging van bepaalde onderdelen van een openbaar telecommunicatienetwerk of van radiozendapparaten;  
 
@@ -2014,7 +2360,7 @@ d. technische regelingen als bedoeld in artikel 8.4a;
 
 e. openbare elektronische communicatienetwerken als bedoeld in artikel 8.3;  
 
-f. het verstrekken van een opdracht tot verzorging van tot de universele dienst behorende diensten of voorzieningen als bedoeld in artikel 9.2, eerste en derde tot en met tiende lid;  
+f.  vervallen;   
 
 g. ter zake van uitrusting gestelde voorschriften als geregeld in hoofdstuk 10 en hoofdstuk 20;  
 
@@ -2024,9 +2370,9 @@ i. bevoegd aftappen en het bewaren van gegevens als geregeld in hoofdstuk 13;
 
 j. buitengewone omstandigheden als geregeld in hoofdstuk 14;  
 
-j. verdere onderwerpen als bedoeld in de artikelen 12.4, voor zover het bevoegdheden betreft van Onze Minister, 18.1, voor zover het bevoegdheden betreft van Onze Minister, 18.2, voor zover het bevoegdheden betreft van Onze Minister, 18.4, tweede lid, 18.7, voor zover het bevoegdheden betreft van Onze Minister, 18.9, 18.12, voor zover het bevoegdheden betreft van Onze Minister, 18.16, 18.17, 18.17a, 20.2, voor zover het bevoegdheden betreft van Onze Minister, en 20.14.     
+k. verdere onderwerpen als bedoeld in de artikelen 11a.1, 11a.2, 12.4, voor zover het bevoegdheden betreft van Onze Minister, 18.1, voor zover het bevoegdheden betreft van Onze Minister, 18.2, voor zover het bevoegdheden betreft van Onze Minister, 18.4, tweede lid, 18.7, voor zover het bevoegdheden betreft van Onze Minister, 18.9, 18.12, voor zover het bevoegdheden betreft van Onze Minister, 18.16, 18.17, 18.17a, 20.2, voor zover het bevoegdheden betreft van Onze Minister, en 20.14.     
 2.  Met het toezicht op de naleving van artikel 6a.20, derde lid, zijn belast de bij besluit van de raad van bestuur van de mededingingsautoriteit aangewezen ambtenaren.   
-3.  Met het toezicht op de naleving van het bepaalde bij of krachtens andere bepalingen van deze wet dan bedoeld in het eerste en tweede lid en met het toezicht op de naleving van de bepalingen van de roamingverordening zijn belast de bij besluit van het college aangewezen ambtenaren. De vorige volzin is niet van toepassing op het bepaalde bij of krachtens de artikelen 5.1, 5.4, 5.5, 5.6, tweede, derde lid, vierde en vijfde lid, 5.7, 5.13 en 5.14 van deze wet.   
+3.  Met het toezicht op de naleving van het bepaalde bij of krachtens andere bepalingen van deze wet dan bedoeld in het eerste en tweede lid en met het toezicht op de naleving van de bepalingen van de roamingverordening zijn belast de bij besluit van het college aangewezen ambtenaren. De vorige volzin is niet van toepassing op het bepaalde bij of krachtens de artikelen 5.1, 5.4, 5.5, 5.6, tweede, derde lid, vierde en vijfde lid, 5.7, 5.13 en 5.14 van deze wet en voor zover Onze Minister de geadresseerde is.   
 4.  Van een besluit als bedoeld in het eerste, tweede, en derde lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
 
 ### Artikel  15.2  
@@ -2075,7 +2421,7 @@ b. overtreding van een op grond van artikel 12.2 genomen besluit, voor zover de 
 
 a. in het boekjaar voorafgaand aan de beschikking waarbij de bestuurlijke boete wordt opgelegd;  
 
-b. berekend op de voet van [artikel 337, zesde lid, van boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) voor de netto-omzet en  
+b. berekend op de voet van [artikel 377, zesde lid, van boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) voor de netto-omzet en  
 
 c. voor zover betrekking hebbend op de omzet die de desbetreffende onderneming had bij het aanbieden van openbare elektronische communicatienetwerken, openbare elektronische communicatiediensten en bijbehorende faciliteiten.     
 
@@ -2163,6 +2509,13 @@ Het college is de nationale regelgevende instantie, bedoeld in de roamingverorde
 2.  Het college en de raad van bestuur van de mededingingsautoriteit maken in het belang van een effectieve en efficiënte besluitvorming gezamenlijk afspraken over de wijze van behandeling van aangelegenheden van wederzijds belang. Daartoe stellen zij een samenwerkingsprotocol op. Het samenwerkingsprotocol wordt gepubliceerd in de Staatscourant.   
 3.  Het samenwerkingsprotocol bevat afspraken over de uitleg van begrippen die worden gehanteerd bij de toepassing van de [artikelen 24](../../../wet/mededingingswet/BWBR0008691/README.md) en [88 van de Mededingingswet](../../../wet/mededingingswet/BWBR0008691/README.md), indien het college die begrippen hanteert bij de uitoefening van zijn bevoegdheden.   
 4.  Het college en het Commissariaat voor de Media, bedoeld in [artikel 7.1 van de Mediawet 2008](../../../wet/mediawet/2008/BWBR0025028/README.md), maken in het belang van een effectieve en efficiënte besluitvorming afspraken over de wijze van behandeling van aangelegenheden van wederzijds belang.   
+5.  Onze Minister en het College bescherming persoonsgegevens, bedoeld in [artikel 51 van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), onderscheidenlijk het college en het College bescherming persoonsgegevens, maken in het belang van een effectief en efficiënt toezicht op het verwerken van persoonsgegevens overeenkomstig de hoofdstukken 11 en 13 van deze wet afspraken over de wijze van behandeling van aangelegenheden van wederzijds belang. Daartoe stellen zij een samenwerkingsprotocol vast. Het samenwerkingsprotocol wordt bekendgemaakt in de Staatscourant.   
+
+### Artikel  18.3a  
+
+1.  Onze Minister, onderscheidenlijk het college, verstrekken elkaar en andere bestuursorganen de gegevens betreffende aanbieders van elektronische communicatiediensten en de door hen verwerkte persoonsgegevens welke zij behoeven ter uitvoering van hun taak.   
+2.  Andere bestuursorganen zijn bevoegd uit eigen beweging en verplicht desgevraagd Onze Minister onderscheidenlijk het college de gegevens te verstrekken die noodzakelijk zijn voor de uitvoering en het toezicht op de naleving van deze wet.   
+3.  De in het eerste en tweede lid bedoelde gegevensverstrekking vindt niet plaats indien de persoonlijke levenssfeer van de betrokkene daardoor onevenredig wordt geschaad.   
 
 ### Artikel  18.4  
 
@@ -2194,10 +2547,6 @@ a. het omschrijven van het onderwerp waarover inlichtingen moeten worden gegeven
 b. de bij het verstrekken van de inlichtingen aan te houden mate van detail.     
 5.  Degene van wie de verstrekking van inlichtingen is gevorderd, is verplicht binnen de door Onze Minister, onderscheidenlijk het college, te bepalen redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij het uitoefenen van zijn bevoegdheden. [Artikel 5:20, tweede lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing.   
 6.  Met het oog op het bevorderen van een open en concurrerende markt in de elektronische communicatiesector maakt het college informatie met betrekking tot aanbieders van openbare elektronische communicatienetwerken, bijbehorende faciliteiten of openbare elektronische communicatiediensten op een door het college te bepalen wijze bekend voor zover die informatie verband houdt met bij of krachtens de hoofdstukken 4 tot en met 9 en 11 van deze wet opgelegde verplichtingen. Van gegevens als bedoeld in [artikel 10, eerste lid, onderdeel c, van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) wordt geen mededeling gedaan.   
-
-### Artikel  18.8  
-
-Onze Minister kan met betrekking tot de veiligheid en de beveiliging van openbare elektronische communicatienetwerken en openbare elektronische communicatiediensten regels stellen. Deze regels bevatten technische en organisatorische eisen die aan aanbieders van openbare elektronische communicatienetwerken of openbare elektronische communicatiediensten kunnen worden gesteld.  
 
 ### Artikel  18.9  
 
@@ -2298,14 +2647,14 @@ b. voldoende is gewaarborgd dat de gegevens of inlichtingen niet zullen worden g
 
 ### Artikel  18.20  
 
-1.  Het college verstrekt na een daartoe strekkend verzoek van de Commissie van de Europese Gemeenschappen dan wel van een nationale regelgevende instantie, de gegevens of inlichtingen die de Commissie respectievelijk die nationale regelgevende instantie nodig heeft voor de uitoefening van haar taken uit hoofde van het Gemeenschapsrecht mits: 
+1.  Het college verstrekt na een daartoe strekkend verzoek van de Europese Commissie, van BEREC dan wel van een nationale regelgevende instantie, de gegevens of inlichtingen die de Europese Commissie, respectievelijk BEREC en het Bureau, respectievelijk die nationale regelgevende instantie nodig heeft voor de uitoefening van haar taken uit hoofde van het recht van de Europese Unie mits: 
 
 a. de geheimhouding, voor zover er naar het oordeel van het college sprake is van bedrijfsvertrouwelijke gegevens of inlichtingen, van de gegevens of inlichtingen in voldoende mate is gewaarborgd,  
 
 b. voldoende gewaarborgd is dat de gegevens of inlichtingen niet zullen worden gebruikt voor een ander doel dan waarvoor deze zijn verstrekt, en  
 
 c. het verzoek gegevens of inlichtingen betreft die het college uit hoofde van zijn taken en bevoegdheden op grond van deze wet heeft verkregen.     
-2.  Indien het college van oordeel is dat er sprake is van bedrijfsvertrouwelijke gegevens of inlichtingen, vermeldt het college bij het verstrekken van die gegevens of inlichtingen aan de Commissie van de Europese Gemeenschappen onderscheidenlijk de nationale regelgevende instantie, uitdrukkelijk en met redenen omkleed dat die informatie niet aan derden ter beschikking mag worden gesteld.   
+2.  Indien het college van oordeel is dat er sprake is van bedrijfsvertrouwelijke gegevens of inlichtingen, vermeldt het college bij het verstrekken van die gegevens of inlichtingen aan de Commissie van de Europese Gemeenschappen, BEREC en het Bureau onderscheidenlijk de nationale regelgevende instantie, uitdrukkelijk en met redenen omkleed dat die informatie niet aan derden ter beschikking mag worden gesteld.   
 3.  Indien het college aan de Commissie van de Europese Gemeenschappen gegevens of inlichtingen verstrekt die het college heeft verkregen van een aanbieder van een openbaar elektronisch communicatienetwerk, een openbare elektronische communicatiedienst of bijbehorende faciliteiten, stelt het college de betreffende aanbieder daarvan op de hoogte.   
 
 ### Artikel  18.21  
@@ -2320,7 +2669,8 @@ b. het gebruik van applicatieprogramma-interfaces indien het toepassen van die n
 
 ### Artikel  18.22  
 
-Een wijziging van richtlijn nr. 2002/19/EG, richtlijn nr. 2002/20/EG, richtlijn nr. 2002/21/EG, of richtlijn nr. 2002/22/EG gaat voor de toepassing van de Telecommunicatiewet gelden met ingang van de dag waarop aan de betrokken wijziging van de desbetreffende richtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.  
+1.  Een wijziging van richtlijn nr. 2002/19/EG, richtlijn nr. 2002/20/EG, richtlijn nr. 2002/21/EG, of richtlijn nr. 2002/22/EG gaat voor de toepassing van de Telecommunicatiewet gelden met ingang van de dag waarop aan de betrokken wijziging van de desbetreffende richtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.   
+2.  Onze Minister doet in de Staatscourant mededeling van de titel, de vindplaats en de datum van inwerkingtreding van de roamingverordening.   
 
 ### Hoofdstuk  19  
 
@@ -2377,8 +2727,8 @@ Op besluiten die door het college zijn genomen op grond van hoofdstuk 6, waarteg
 
 ### Artikel  20.1  
 
-1.  Behoudens de artikelen 9.3 en 9.4 geldt, in afwijking van de in artikel 9.2 vervatte procedure, voor de toepassing van het bij of krachtens deze wet bepaalde voor elk van de in artikel 9.1, eerste lid, bedoelde openbare elektronische communicatiediensten of voorzieningen KPN Telecom B.V. als een krachtens artikel 9.2 aangewezen aanbieder.   
-2.  Aan de uit het vorige lid voortvloeiende verplichting voor KPN Telecom B.V. om de in artikel 9.1, eerste lid, bedoelde openbare elektronische communicatiediensten en voorzieningen te verzorgen komt een einde een jaar na het tijdstip waarop: 
+1.  In afwijking van de in artikel 9.3 vervatte procedure geldt, voor de toepassing van het bij of krachtens deze wet bepaalde voor elk van de in artikel 9.1, eerste lid, onderdelen a tot en met e, bedoelde openbare elektronische communicatiediensten of voorzieningen KPN Telecom B.V. als een krachtens artikel 9.2 aangewezen aanbieder.   
+2.  Aan de uit het vorige lid voortvloeiende verplichting voor KPN Telecom B.V. om de in artikel 9.1, eerste lid, onderdelen a tot en met e, bedoelde openbare elektronische communicatiediensten en voorzieningen te verzorgen komt een einde een jaar na het tijdstip waarop: 
 
 a. KPN Telecom B.V. Onze Minister schriftelijk heeft medegedeeld een verplichting tot verzorging van een bepaalde dienst of voorziening niet langer te willen nakomen, of  
 

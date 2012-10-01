@@ -186,7 +186,7 @@ Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering 
 
 ### Artikel  90  
 
-1.  Met betrekking tot de handhaving van het bij of krachtens deze wet bepaalde zijn de [artikelen 5.3 tot en met 5.16](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [5.18 tot en met 5.25 van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing.   
+1.  Met betrekking tot de handhaving van het bij of krachtens deze wet bepaalde zijn de [artikelen 5.3 tot en met 5.16](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [5.18 tot en met 5.23 van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing.   
 2.  Het in [artikel 5.2, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) bedoelde bestuursorgaan heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de op grond van het bepaalde bij of krachtens deze wet voor degene die het project, bedoeld in dat lid, uitvoert, geldende voorschriften.   
 
 ### Artikel  91  

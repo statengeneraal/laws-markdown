@@ -56,11 +56,11 @@ b. het ingaan van het ouderdomspensioen;
 
 – directeur-grootaandeelhouder: 
 
-a. persoonlijk houder van aandelen welke ten minste een tiende deel van het geplaatste kapitaal van de vennootschap van de werkgever vertegenwoordigen;  
+a. persoonlijk houder van aandelen welke ten minste een tiende deel van het geplaatste kapitaal van de vennootschap van de werkgever vertegenwoordigen en waaraan stemrecht in de algemene vergadering is verbonden;  
 
-b. indirect persoonlijk houder van aandelen welke ten minste een tiende deel van het geplaatste kapitaal van de vennootschap van de werkgever vertegenwoordigen; of  
+b. indirect persoonlijk houder van aandelen welke ten minste een tiende deel van het geplaatste kapitaal van de vennootschap van de werkgever vertegenwoordigen en waaraan stemrecht in de algemene vergadering is verbonden; of  
 
-c. houder van certificaten van aandelen, uitgegeven door tussenkomst van een administratiekantoor waarvan hij voor ten minste een tiende deel in het bestuur vertegenwoordigd is, welke ten minste een tiende deel van het geplaatste kapitaal van de vennootschap vertegenwoordigen;    
+c. houder van certificaten van aandelen, uitgegeven door tussenkomst van een administratiekantoor waarvan hij voor ten minste een tiende deel in het bestuur vertegenwoordigd is, welke ten minste een tiende deel van het geplaatste kapitaal van de vennootschap vertegenwoordigen en aan welke aandelen stemrecht in de algemene vergadering is verbonden;    
 
 – elektronisch: door middel van een elektronische informatiedrager die de ontvanger in staat stelt de verstrekte informatie duurzaam te bewaren;  
 
@@ -2777,6 +2777,13 @@ b. voorzover die toezichthoudende instantie op een andere wijze dan in deze wet 
 c. na overleg met Onze Minister van Veiligheid en Justitie indien het in de aanhef bedoelde verzoek betrekking heeft op een onderzoek naar strafbare feiten.     
 4.  De Autoriteit Financiële Markten dan wel het organisatieonderdeel van de Nederlandsche Bank N.V. dat is belast met de in artikel 151, derde lid, genoemde taak kan vertrouwelijke informatie of gegevens verstrekken aan het organisatieonderdeel van de Nederlandsche Bank N.V. dat is belast met het vervullen van haar monetaire taak, voorzover de vertrouwelijke gegevens of inlichtingen dienstig zijn voor de uitoefening van die taak.   
 5.  Het eerste tot en met derde lid is van overeenkomstige toepassing op het uitwisselen van vertrouwelijke gegevens of inlichtingen tussen de met verschillende taken belaste organisatieonderdelen van de toezichthouder.   
+
+### Artikel  205a  
+
+####Informatieverstrekking aan de Europese Autoriteit voor verzekeringen en bedrijfspensioenen
+
+1.  De vermelding in het register, bedoeld in artikel 210, in welke lidstaten een pensioenfonds pensioenregelingen uitvoert wordt door de toezichthouder meegedeeld aan de Europese Autoriteit voor verzekeringen en bedrijfspensioenen.   
+2.  De toezichthouder stelt de Europese Autoriteit voor verzekeringen en bedrijfspensioenen in kennis van een besluit om de activiteiten van een pensioenfonds te verbieden.   
 
 ### Artikel  206  
 

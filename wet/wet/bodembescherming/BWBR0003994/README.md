@@ -14,7 +14,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-In deze wet en de daarop berustende bepalingen wordt verstaan onder: Onze Minister: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer; inspecteur: als zodanig bij besluit van Onze Minister aangewezen ambtenaar; bodem: het vaste deel van de aarde met de zich daarin bevindende vloeibare en gasvormige bestanddelen en organismen; belang van de bescherming van de bodem: het belang van het voorkomen, beperken of ongedaan maken van veranderingen van hoedanigheden van de bodem, die een vermindering of bedreiging betekenen van de functionele eigenschappen die de bodem voor mens, plant of dier heeft; geval van verontreiniging: geval van verontreiniging of dreigende verontreiniging van de bodem dat betrekking heeft op grondgebieden die vanwege die verontreiniging, de oorzaak of de gevolgen daarvan in technische, organisatorische en ruimtelijke zin met elkaar samenhangen; oriënterend onderzoek: onderzoek naar aanleiding van een vermoeden dat sprake is van een geval van verontreiniging; nader onderzoek: onderzoek met betrekking tot de vraag of een geval van verontreiniging een geval van ernstige verontreiniging is; onderzoeksgeval: geval waarin oriënterend of nader onderzoek zal plaatsvinden of plaatsvindt; saneren: het beperken en zoveel mogelijk ongedaan maken van verontreiniging en de directe gevolgen daarvan of van dreigende verontreiniging van de bodem; geval van ernstige verontreiniging: geval van verontreiniging waarbij de bodem zodanig is of dreigt te worden verontreinigd, dat de functionele eigenschappen die de bodem voor mens, plant of dier heeft, ernstig zijn of dreigen te worden verminderd; saneringsonderzoek: inventarisatie van de mogelijke wijzen van sanering, inhoudende een beschrijving van hun milieuhygiënische, technische en financiële aspecten, alsmede van de kwaliteit van de bodem die met de op die wijzen uitgevoerde sanering zal worden bereikt, uitmondend in een keuze van de wijze van sanering; beheerder: beheerder als bedoeld in [artikel 1.1 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md); provinciaal milieuprogramma: provinciaal milieuprogramma, bedoeld in [artikel 4.14 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), voor zover dat betrekking heeft op gevallen als bedoeld in het [tweede lid, onder a, onder 1°, van dat artikel](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).  
+In deze wet en de daarop berustende bepalingen wordt verstaan onder: Onze Minister: Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer; inspecteur: als zodanig bij besluit van Onze Minister aangewezen ambtenaar; bodem: het vaste deel van de aarde met de zich daarin bevindende vloeibare en gasvormige bestanddelen en organismen; belang van de bescherming van de bodem: het belang van het voorkomen, beperken of ongedaan maken van veranderingen van hoedanigheden van de bodem, die een vermindering of bedreiging betekenen van de functionele eigenschappen die de bodem voor mens, plant of dier heeft; geval van verontreiniging: geval van verontreiniging of dreigende verontreiniging van de bodem dat betrekking heeft op grondgebieden die vanwege die verontreiniging, de oorzaak of de gevolgen daarvan in technische, organisatorische en ruimtelijke zin met elkaar samenhangen; oriënterend onderzoek: onderzoek naar aanleiding van een vermoeden dat sprake is van een geval van verontreiniging; nader onderzoek: onderzoek met betrekking tot de vraag of een geval van verontreiniging een geval van ernstige verontreiniging is; onderzoeksgeval: geval waarin oriënterend of nader onderzoek zal plaatsvinden of plaatsvindt; saneren: het beperken en zoveel mogelijk ongedaan maken van verontreiniging en de directe gevolgen daarvan of van dreigende verontreiniging van de bodem; geval van ernstige verontreiniging: geval van verontreiniging waarbij de bodem zodanig is of dreigt te worden verontreinigd, dat de functionele eigenschappen die de bodem voor mens, plant of dier heeft, ernstig zijn of dreigen te worden verminderd; saneringsonderzoek: inventarisatie van de mogelijke wijzen van sanering, inhoudende een beschrijving van hun milieuhygiënische, technische en financiële aspecten, alsmede van de kwaliteit van de bodem die met de op die wijzen uitgevoerde sanering zal worden bereikt, uitmondend in een keuze van de wijze van sanering; beheerder: beheerder als bedoeld in [artikel 1.1 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md); provinciaal milieuprogramma: provinciaal milieuprogramma, bedoeld in [artikel 4.14 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), voor zover dat betrekking heeft op gevallen als bedoeld in het [tweede lid, onder a, onder 1°, van dat artikel](../../../../wet/wet/milieubeheer/BWBR0003245/README.md); gebiedsgerichte aanpak: aanpak die is gericht op de sanering van meerdere verontreinigingen van het diepere grondwater in een daartoe aangewezen gebied.  
 
 ### Hoofdstuk  II  
 
@@ -297,7 +297,7 @@ f. indien de verontreinigde bodem geheel of gedeeltelijk niet zal worden gereini
 
 ### Artikel  28a  
 
-Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent: 
+Bij ministeriële regeling kunnen regels worden gesteld omtrent: 
 
 a. de beoordeling van de reinigbaarheid of de immobiliseerbaarheid van verontreinigde grond, bedoeld in de artikelen 27 en 28 van deze wet of in een algemene maatregel van bestuur krachtens [artikel 8.40 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
 
@@ -348,8 +348,7 @@ Indien Onze commissaris in de provincie waar een verontreiniging of aantasting a
 
 ### Artikel  33  
 
-1.  De burgemeester van een gemeente waar zich een verontreiniging of een aantasting als bedoeld in artikel 30 voordoet dan wel de directe gevolgen daarvan zich voordoen, en de inspecteur kunnen gedeputeerde staten onderscheidenlijk Onze commissaris verzoeken aan de in artikel 30 bedoelde maatregelen toepassing te geven.   
-2.  Van de beschikking, houdende de beslissing op zodanig verzoek, wordt tevens mededeling gedaan aan de andere in het eerste lid genoemde instantie die kan verzoeken toepassing aan de in artikel 30 bedoelde maatregelen te geven.   
+De burgemeester van een gemeente waar zich een verontreiniging of een aantasting als bedoeld in artikel 30 voordoet dan wel de directe gevolgen daarvan zich voordoen kan gedeputeerde staten onderscheidenlijk Onze commissaris verzoeken aan de in artikel 30 bedoelde maatregelen toepassing te geven.  
 
 ### Artikel  34  
 
@@ -553,7 +552,7 @@ b. niet voldoet aan het eerste lid, onder *b*, doch niet in overwegende mate is 
 
 ### Artikel  48  
 
-Gedeputeerde staten zijn belast met het oriënterend onderzoek en het nader onderzoek in hun provincie alsmede met het saneringsonderzoek en de sanering van in hun provincie gelegen gevallen van ernstige verontreiniging voor zover daarin niet is voorzien op de wijze, bedoeld in de artikelen 13, 27, 28, 43 tot en met 47 of 72.  
+Gedeputeerde staten zijn belast met het oriënterend onderzoek en het nader onderzoek in hun provincie alsmede met het saneringsonderzoek en de sanering van in hun provincie gelegen gevallen van ernstige verontreiniging voor zover daarin niet is voorzien op de wijze, bedoeld in de artikelen 13, 27, 28, 43 tot en met 47, 55b of 72.  
 
 ### Artikel  49  
 
@@ -605,11 +604,100 @@ Artikel 52 is van overeenkomstige toepassing indien burgemeester en wethouders o
 
 In deze paragraaf en de daarop berustende bepalingen wordt onder een bedrijfsterrein verstaan een perceel als bedoeld in [artikel 1, eerste lid, van de Kadasterwet](../../../../wet/kadasterwet/BWBR0004541/README.md) waarop bedrijfsactiviteiten worden verricht door een onderneming in de zin van de [Wet op de inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) of de [Wet op de vennootschapsbelasting 1969](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), niet behorend tot de landbouwsector, zoals opgenomen in de Communautaire richtsnoeren voor staatssteun in de landbouwsector van 1 februari 2000 (PbEG C 28) dan wel overeenkomstig daarvoor in de plaats tredende regelgeving.  
 
+### Artikel  55ab  
+
+1.  De eigenaar of indien op het bedrijfsterrein een recht van erfpacht rust, de erfpachter van een bedrijfsterrein waar zich blijkens een oriënterend onderzoek of een ander veldonderzoek met betrekking tot de kwaliteit van de bodem een verontreiniging bevindt of de directe gevolgen van een verontreiniging zich voordoen en dat behoort tot een bij of krachtens algemene maatregel van bestuur aangewezen categorie bedrijfsterreinen waarvan aannemelijk is dat een geval van ernstige verontreiniging is ontstaan en spoedige sanering noodzakelijk zal zijn als bedoeld in artikel 37, eerste lid, verricht een nader onderzoek met betrekking tot die verontreiniging.   
+2.  Het nader onderzoek wordt verricht binnen zes maanden na de datum van inwerkingtreding van dit artikel, en onverwijld overgelegd aan gedeputeerde staten.   
+3.  Indien de eigendom of de erfpacht wordt overgedragen, blijft de verplichting om het nader onderzoek te verrichten rusten op de eigenaar of de erfpachter die zijn eigendom respectievelijk zijn recht van erfpacht heeft overgedragen, en komt deze verplichting mede te rusten op de opvolgende eigenaar of erfpachter.   
+
 ### Artikel  55b  
 
 1.  De eigenaar of indien op het bedrijfsterrein een recht van erfpacht rust, de erfpachter van een bedrijfsterrein waar een geval van ernstige verontreiniging is ontstaan, is verplicht de bodem te saneren indien in een beschikking als bedoeld in artikel 37, eerste lid, is vastgesteld dat spoedige sanering noodzakelijk is. Met de sanering wordt begonnen uiterlijk voor het tijdstip dat is bepaald in de beschikking. De bedoelde eigenaar of erfpachter is verplicht tijdelijke beveiligingsmaatregelen als bedoeld in artikel 37, derde lid, of maatregelen als bedoeld in artikel 37, vierde lid, te nemen en van de uitvoering van die maatregelen verslag te doen, voor zover dat is aangegeven in de beschikking, bedoeld in artikel 37, eerste lid.   
 2.  Artikel 43, derde lid, is niet van toepassing voor zover het de mogelijkheid van gedeputeerde staten betreft om de eigenaar of de erfpachter van een bedrijfsterrein als bedoeld in het eerste lid, te bevelen de bodem te saneren, tijdelijke beveiligingsmaatregelen te nemen dan wel de maatregelen te nemen die zijn aangegeven overeenkomstig artikel 37, vierde lid.   
 3.  Indien de eigendom of de erfpacht wordt overgedragen, blijft de verplichting om te saneren mede rusten op de eigenaar of de erfpachter die zijn eigendom respectievelijk zijn recht van erfpacht heeft overgedragen tot het tijdstip waarop de opvolgende eigenaar of de opvolgende erfpachter financiële zekerheid voor de saneringskosten heeft gesteld, en daarmee door gedeputeerde staten is ingestemd. Artikel 39f, tweede lid, is van toepassing.   
+
+### §  3b  
+
+####Bijzondere bepalingen inzake een gebiedsgerichte aanpak
+
+### Artikel  55c  
+
+1.  Gedeputeerde staten kunnen op verzoek van een bestuursorgaan of ambtshalve een gebied aanwijzen waar een gebiedsgerichte aanpak zal plaatsvinden.   
+2.  Een gebiedsgerichte aanpak is gericht op: 
+
+a. het zoveel mogelijk voorkomen van de risico’s van verspreiding van verontreiniging buiten het aangewezen gebied, en  
+
+b. de bescherming van bestaande en beoogde functies van, in en op de bodem binnen het aangewezen gebied.     
+3.  Van de in het eerste lid bedoelde bevoegdheid kan gebruik worden gemaakt indien gevallen van verontreiniging in het diepere grondwater in een gebied zodanig gemengd zijn of gemengd kunnen raken dat deze gevallen voor de toepassing van deze wet naar het oordeel van gedeputeerde staten niet ten opzichte van elkaar zijn te onderscheiden en af te bakenen, dan wel indien gevallen van verontreiniging in het diepere grondwater in een gebied elkaar naar het oordeel van gedeputeerde staten bij een afzonderlijke aanpak van die gevallen in betekenende mate kunnen beïnvloeden, en, naar het oordeel van gedeputeerde staten: 
+
+a. wenselijk geachte ruimtelijke ontwikkelingen en andere plannen voor ontwikkeling van het gebied hierdoor worden belemmerd;  
+
+b. het treffen van maatregelen ter voorkoming van verspreiding van verontreiniging buiten het gebied hierdoor achterwege dreigt te blijven of niet op doelmatige of kosteneffectieve wijze kan plaatsvinden, of  
+
+c. andere bijzondere omstandigheden een gebiedsgerichte aanpak wenselijk maken.     
+
+### Artikel  55d  
+
+1.  Een gebiedsgerichte aanpak wordt uitgevoerd overeenkomstig een daartoe vastgesteld en goedgekeurd plan. De uitvoering geschiedt door het bestuursorgaan dat het plan heeft vastgesteld.   
+2.  Artikel 29, alsmede de paragrafen 3 en 3a van hoofdstuk IV vinden geen toepassing op de sanering van de verontreinigingen in het diepere grondwater die overeenkomstig artikel 55g in het plan zijn aangegeven.   
+
+### Artikel  55e  
+
+1.  Het plan, bedoeld in artikel 55d, eerste lid, wordt vastgesteld door: 
+
+a. het bestuursorgaan dat voornemens is het verzoek, bedoeld in artikel 55c, eerste lid, te doen, of  
+
+b. gedeputeerde staten, indien zij voornemens zijn ambtshalve een besluit te nemen als bedoeld in artikel 55c, eerste lid.     
+2.  Het plan bevat ten minste de volgende gegevens: 
+
+a. de doelstellingen van de gebiedsgerichte aanpak binnen het beheergebied alsmede de maatregelen die ter verwezenlijking hiervan worden genomen;  
+
+b. de termijn waarbinnen deze doelstellingen zullen worden verwezenlijkt;  
+
+c. een beschrijving van het onderzoek dat is verricht met het oog op het opstellen van het plan;  
+
+d. de wijze waarop het plan past binnen relevante ruimtelijke en waterplannen;  
+
+e. een begroting van de kosten van de sanering en een overzicht van de daarvoor beschikbare middelen;  
+
+f. de wijze waarop belemmeringen voor een doelmatige gebiedsgerichte aanpak zullen worden weggenomen, alsmede de wijze waarop met gedeputeerde staten zal worden samengewerkt indien het plan niet door gedeputeerde staten wordt vastgesteld, en  
+
+g. de verontreinigingen in het diepere grondwater, bedoeld in artikel 55g.     
+3.  In het plan wordt rekening gehouden met de gevolgen van de gebiedsgerichte aanpak voor terreinen die daarvan geen onderdeel uitmaken, en worden zo nodig voorzieningen opgenomen om mogelijk voor die terreinen optredende gevolgen te monitoren alsmede maatregelen om alsdan in te grijpen.   
+4.  Op de voorbereiding van het plan is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
+5.  Indien een verzoek wordt gedaan als bedoeld in artikel 55c, eerste lid, wordt het vastgestelde plan bedoeld in het eerste lid, onder a, bij dat verzoek aan gedeputeerde staten ter instemming overgelegd.   
+
+### Artikel  55f  
+
+Een plan dat niet door gedeputeerde staten is vastgesteld, behoeft de instemming van gedeputeerde staten. Gedeputeerde staten kunnen de instemming met het plan onthouden indien zij geen gebruik maken van hun bevoegdheid bedoeld in artikel 55c, eerste lid, of naar hun oordeel voldoende aannemelijk is dat de gebiedsgerichte aanpak niet zal voldoen aan de doelstellingen, genoemd in artikel 55c, tweede lid.  
+
+### Artikel  55g  
+
+1.  Het bestuursorgaan dat het plan, bedoeld in artikel 55d, eerste lid, vaststelt, treedt voor een verontreiniging die zal worden gesaneerd als onderdeel van de gebiedsgerichte aanpak en welke als zodanig in het overeenkomstig artikel 55e vastgestelde, en onherroepelijk geworden, plan is vermeld, onherroepelijk in de plaats van degene aan wie krachtens artikel 43 met betrekking tot de betrokken verontreiniging een bevel kan worden gegeven of op wie een verplichting als bedoeld in artikel 55b van toepassing is.   
+2.  Het bestuursorgaan dat het plan, bedoeld in artikel 55d, eerste lid, heeft vastgesteld, kan aan het vastgestelde plan verontreinigingen toevoegen. Artikel 55e, vierde lid, en  55f, zijn op deze wijzigingen niet van toepassing. Het eerste lid is op een zodanige verontreiniging van overeenkomstige toepassing zodra het wijzigingsbesluit onherroepelijk is geworden.   
+3.  Het bestuursorgaan dat het plan vaststelt, stelt gedeputeerde staten op de hoogte van een wijziging van het plan, bedoeld in het tweede lid.   
+
+### Artikel  55h  
+
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot: 
+
+a. de gegevens die worden overgelegd bij een verzoek als bedoeld in artikel 55c, eerste lid;  
+
+b. het verrichten van bodemonderzoek ter voorbereiding van een plan als bedoeld in artikel 55d, eerste lid;  
+
+c. de onderwerpen die ten minste in het plan worden opgenomen;  
+
+d. de monitoring en evaluatie van de voortgang van een gebiedsgerichte aanpak.    
+
+### Artikel  55i  
+
+Indien in het gebied meer dan één bestuursorgaan bevoegd is op grond van artikel 88, eerste of zevende lid, dan wel de artikelen genoemd in dat eerste lid, geldt dat de bevoegdheden van gedeputeerde staten, bedoeld in deze paragraaf, worden uitgeoefend door: 
+
+a. gedeputeerde staten van de provincie waarin het grootste gedeelte van het gebied is gelegen, indien het gebied in meer dan één provincie is gelegen;  
+
+b. burgemeester en wethoudersvan de gemeentewaarop artikel 88, eerste lid, van toepassing is, indien op een deel van het gebied gedeputeerde staten bevoegd gezag is, en het grootste gedeelte van het gebied in die gemeente is gelegen;  
+
+c. gedeputeerde staten, in alle overige grensoverschrijdende situaties.    
 
 ### §  4  
 
@@ -923,7 +1011,7 @@ b. de voortgang van de uitvoering van de bodemsaneringsoperatie.
 
 1.  De gemeenten Amsterdam, 's-Gravenhage, Rotterdam en Utrecht worden gelijkgesteld met een provincie voor de toepassing van: 
 
-a. de artikelen 27 tot en met 34, 37, artikel 38, derde en vierde lid, 39, 39a, 39b, 39c, 39d, derde, vierde en vijfde lid, 39f, eerste lid, 40, 42, 43 tot en met 52, 55, 55b, derde lid, 74 tot en met 76l, 83, 87a en 92b;  
+a. de artikelen 27 tot en met 34, 37, artikel 38, derde en vierde lid, 39, 39a, 39b, 39c, 39d, derde, vierde en vijfde lid, 39f, eerste lid, 40, 42, 43 tot en met 52, 55, 55b, derde lid, 55c, eerste en derde lid, 55e, eerste, tweede lid, onder f, en vijfde lid, 55f, 55g, derde lid, 63c, tweede lid, 74 tot en met 76l, 83, 87a en 92b;  
 
 b. de [artikelen 4.14, eerste lid, en tweede lid, onder a, onder 1°, en onder b](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), voor zover het de activiteiten, bedoeld onder a , onder 1°, betreft, en [4.15, derde lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).     
 2.  Een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat wordt gelijkgesteld met een provincie voor de toepassing van de in het eerste lid genoemde artikelen, alsmede voor de artikelen 41, 51, 53 en 54. De gelijkstelling vindt toepassing: 
@@ -995,7 +1083,7 @@ Een gedraging in strijd met een voorschrift, krachtens de artikelen 64, tweede l
 
 ### Artikel  95  
 
-1.  Met betrekking tot de handhaving van het bij of krachtens deze wet bepaalde zijn de [artikelen 5.3 tot en met 5.16](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [5.18 tot en met 5.25 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing.   
+1.  Met betrekking tot de handhaving van het bij of krachtens deze wet bepaalde zijn de [artikelen 5.3 tot en met 5.16](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [5.18 tot en met 5.23 van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing.   
 2.  Het in [artikel 5.2, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) bedoelde bestuursorgaan heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de op grond van het bepaalde bij of krachtens deze wet voor degene die het project, bedoeld in dat lid, uitvoert, geldende voorschriften.   
 3.  Onze betrokken Minister, gedeputeerde staten en burgemeester en wethouders hebben tot taak zorg te dragen voor de bestuursrechtelijke handhaving van artikel 13.   
 4.  De volgende bestuursorganen hebben tot taak zorg te dragen voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens § 3 van hoofdstuk IV en artikel 72: 

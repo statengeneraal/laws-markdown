@@ -1,0 +1,29 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 24 september 2012, KO/2012/13762, tot aanwijzing van ambtenaren belast met het toezicht op de uitvoering van de aan het college van burgemeester en wethouders opgedragen taken ten aanzien van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen (Aanwijzingsregeling ambtenaren interbestuurlijk toezicht Wet kinderopvang en kwaliteitseisen peuterspeelzalen)
+
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,  
+Handelende in overeenstemming met de Minister van Onderwijs, Cultuur en Wetenschap;
+
+Gelet op [artikel 124e van de Gemeentewet](../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md);
+Besluit:    
+
+### Artikel  1  
+
+De inspecteur-generaal van het onderwijs en de ambtenaren van de Inspectie van het onderwijs, genoemd in [artikel 2, eerste lid, van de Wet op het onderwijstoezicht](../../../../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md), worden aangewezen als ambtenaren die toezicht houden op de uitvoering van de aan het college van burgemeester en wethouders bij of krachtens de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) opgedragen taken.  
+
+### Artikel  2  
+
+Deze regeling treedt in werking met ingang van 1 oktober 2012.  
+
+### Artikel  3  
+
+Deze regeling wordt aangehaald als: Aanwijzingsregeling ambtenaren interbestuurlijk toezicht Wet kinderopvang en kwaliteitseisen peuterspeelzalen.  
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
+
+Den Haag 
+24 september 2012   
+
+De 
+Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
+P. deKrom   

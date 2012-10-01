@@ -32,7 +32,7 @@ e. vruchtbomen en windschermen om boomgaarden;
 f. fijnsparren, niet ouder dan twaalf jaren, bestemd om te dienen als kerstbomen en geteeld op daarvoor in het bijzonder bestemde terreinen;  
 
 g. kweekgoed.     
-5.  De gemeenteraad stelt bij besluit vast, welke voor de toepassing van deze wet de grenzen van de bebouwde kom of kommen der gemeente zijn. Dit besluit behoeft de goedkeuring van gedeputeerde staten. De goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang. Gedeputeerde Staten kunnen voor een door hen te bepalen termijn van deze verplichting ontheffing verlenen. Het ontwerp van het door de gemeenteraad te nemen besluit ligt gedurende dertig dagen ter gemeentesecretarie voor een ieder ter inzage. De burgemeester maakt de nederlegging tevoren in de *Staatscourant*, in één of meer dag- of nieuwsbladen, die in de gemeente verspreid worden, en voorts op de gebruikelijke wijze bekend.   
+5.  De gemeenteraad stelt bij besluit vast, welke voor de toepassing van deze wet de grenzen van de bebouwde kom of kommen der gemeente zijn. Het ontwerp van het door de gemeenteraad te nemen besluit ligt gedurende dertig dagen ter gemeentesecretarie voor een ieder ter inzage. De burgemeester maakt de nederlegging tevoren in de *Staatscourant*, in één of meer dag- of nieuwsbladen, die in de gemeente verspreid worden, en voorts op de gebruikelijke wijze bekend.   
 
 ### Afdeling  II  
 

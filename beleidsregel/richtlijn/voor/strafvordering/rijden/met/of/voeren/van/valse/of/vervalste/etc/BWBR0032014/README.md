@@ -1,0 +1,64 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Richtlijn voor strafvordering rijden met of voeren van valse of vervalste kentekenplaten (polarisnummer 5.41)
+
+####Beschrijving
+
+Uniformering van het strafvorderingsbeleid in die gevallen waarbij gebruik is gemaakt van valse of vervalste kentekenplaten, met inbegrip van buitenlandse kentekenplaten. Dit gebruik hangt samen met het omzeilen van voertuiggebonden verplichtingen, het afdekken van criminele activiteiten, zoals tanken zonder te betalen, danwel het belemmeren van de opsporing, zoals bij overvallen, ramkraken en snelheidsovertredingen. Een feit derhalve met forse maatschappelijke schade tot gevolg, waarbij uniforme aanpak aan de orde moet zijn.    
+
+####Basisdelicten
+
+- rijden met of voeren van valse of vervalste kentekenplaten    
+
+####Aard van de richtlijn
+
+Verkeer    
+
+####Wettekst
+
+[Artikel 41 WVW 1994](../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) jo. [176, lid 3 WVW 1994](../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [179, leden 2 en 5 WVW 1994](../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)    
+
+####Basisdelict rijden met of voeren van valse of vervalste kentekenplaten 5.41.01
+
+###Beschrijving
+
+Dit basisdelict ziet op overtreding van [art. 41 van de Wegenverkeerswet 1994](../../../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md): het rijden met of voeren van valse of vervalste kentekenplaten (waaronder buitenlandse kentekenplaten). 
+###Toepasselijk kader
+
+Aanwijzing kader voor strafvordering 
+###Basispunten
+
+20 punten 
+###Strafbeschikking
+
+Indien van toepassing: afhankelijk van beleid van het parket 
+###Basisfactoren
+
+Geen 
+###Delictspecifieke factoren
+
+Geen 
+###Wettelijke factoren
+
+Geen 
+###Recidiveregeling
+
+Mate van recidive (5 jaar) 
+
+– Geen recidive +0 %  
+
+– 1 maal +50 %  
+
+– Meermalen +100 % (DV)   (DV) + dagvaarden 
+###Draagkracht
+
+Geen 
+###Maatwerk
+
+Geen 
+###Speciale regelingen
+
+–  [OBM-regeling valse of vervalste kentekens](../../../../../../../../../../../../../../beleidsregel/obm/regeling/valse/of/vervalste/kentekens/4.01.15/BWBR0032015/README.md)    
+###Bijzonderheden
+
+Geen     

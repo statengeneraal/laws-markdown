@@ -869,8 +869,9 @@ Indien de eiser ten onrechte advocaat heeft gesteld, wordt de zaak voortgezet me
 
 1.  Het geding is aanhangig vanaf de dag van dagvaarding.   
 2.  Het exploot van dagvaarding wordt door de eiser ter griffie ingediend uiterlijk op de laatste dag waarop de griffie is geopend, voorafgaande aan de in de dagvaarding vermelde roldatum.   
-3.  De griffier schrijft de zaak in op de rol van een enkelvoudige kamer.   
-4.  De aanhangigheid van het geding vervalt indien het exploot van dagvaarding niet uiterlijk op het in het tweede lid vermelde tijdstip ter griffie is ingediend, tenzij binnen twee weken na de in de dagvaarding vermelde roldatum een geldig herstelexploot is uitgebracht.   
+3.  Bij algemene maatregel van bestuur wordt bepaald in welke gevallen de eiser een exploot van dagvaarding elektronisch kan indienen. Bij of krachtens algemene maatregel van bestuur worden regels gegeven over de voorwaarden waaronder en de wijze waarop een exploot van dagvaarding elektronisch kan worden ingediend, alsmede over de betrouwbaarheid en vertrouwelijkheid van het elektronisch indienen van het exploot van dagvaarding. Een door de griffie gewaarmerkt afschrift van het elektronisch ingediende exploot van dagvaarding, geldt in de procedure als het in het tweede lid bedoelde exploot van dagvaarding.   
+4.  De griffier schrijft de zaak in op de rol van een enkelvoudige kamer.   
+5.  De aanhangigheid van het geding vervalt indien het exploot van dagvaarding niet uiterlijk op het in het tweede lid vermelde tijdstip ter griffie is ingediend, tenzij binnen twee weken na de in de dagvaarding vermelde roldatum een geldig herstelexploot is uitgebracht.   
 
 ### Artikel  126  
 
@@ -1659,12 +1660,12 @@ Kosten terzake van ambtshandelingen, verricht door gerechtsdeurwaarders, worden 
 
 ### Artikel  241  
 
-Ter zake van verrichtingen waarvoor de in de artikelen 237 tot en met 240 bedoelde kosten een vergoeding plegen in te sluiten, zoals die ter voorbereiding van gedingstukken en ter instructie van de zaak, kan jegens de wederpartij geen vergoeding op grond van [artikel 96, tweede lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) worden toegekend, maar zijn alleen de regels betreffende proceskosten van toepassing.  
+Ter zake van verrichtingen waarvoor de in de artikelen 237 tot en met 240 bedoelde kosten een vergoeding plegen in te sluiten, zoals die ter voorbereiding van gedingstukken en ter instructie van de zaak, kan jegens de wederpartij geen vergoeding op grond van [artikel 96, tweede lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) worden toegekend, maar zijn alleen de regels betreffende proceskosten van toepassing. Dit artikel is niet van toepassing ter zake van kosten als bedoeld in artikel 96, vierde lid, van Boek 6 van het Burgerlijk Wetboek.  
 
 ### Artikel  242  
 
 1.  De rechter kan bedragen die geacht kunnen worden te zijn bedongen ter vergoeding van proceskosten of van buitengerechtelijke kosten als bedoeld in [artikel 96, tweede lid, onder b en c, van Boek 6 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) ambtshalve matigen, doch niet tot onder het bedrag van de krachtens de wet te begroten proceskosten respectievelijk het bedrag van de buitengerechtelijke kosten die, gelet op de tarieven volgens welke zodanige kosten aan de opdrachtgevers gewoonlijk in rekening worden gebracht, jegens de wederpartij redelijk zijn.   
-2.  Het eerste lid geldt niet voor overeenkomsten die strekken tot regeling van een reeds gerezen geschil.   
+2.  Het eerste lid is niet van toepassing ter zake van kosten als bedoeld in [artikel 96, vierde lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en geldt niet voor overeenkomsten die strekken tot regeling van een reeds gerezen geschil.   
 
 ### Artikel  244  
 
@@ -2233,6 +2234,42 @@ Een beschikking kan op verzoek van de oorspronkelijke verzoeker of van een belan
 
 De artikelen 382 tot en met 384 en 386 tot en met 389 zijn van overeenkomstige toepassing. Overigens wordt het verzoek tot herroeping behandeld op de wijze als in de derde titel is bepaald.  
 
+### Tiende A  titel  
+
+####Prejudiciële vragen aan de Hoge Raad
+
+### Artikel  392  
+
+1.  De rechter kan in de procedure op verzoek van een partij of ambtshalve de Hoge Raad een rechtsvraag stellen ter beantwoording bij wijze van prejudiciële beslissing, indien een antwoord op deze vraag nodig is om op de eis of het verzoek te beslissen en rechtstreeks van belang is: 
+
+a. voor een veelheid aan vorderingsrechten die gegrond zijn op dezelfde of soortgelijke feiten en uit dezelfde of soortgelijke samenhangende oorzaken voortkomen, of  
+
+b. voor de beslechting of beëindiging van talrijke andere uit soortgelijke feiten voortvloeiende geschillen, waarin dezelfde vraag zich voordoet.   De bevoegdheid, bedoeld in de vorige volzin, komt niet toe aan de rechter bij wie een verzoek, bedoeld in artikel 907, eerste lid, van Boek 7 van het Burgerlijk Wetboek, in behandeling is.   
+2.  Alvorens de vraag te stellen, stelt de rechter partijen in de gelegenheid zich uit te laten over het voornemen om een vraag te stellen, alsmede over de inhoud van de te stellen vraag.   
+3.  De beslissing waarbij de vraag wordt gesteld, vermeldt voorts het onderwerp van geschil, de door de rechter vastgestelde feiten en de door partijen ingenomen standpunten. Tevens bevat de beslissing een uiteenzetting dat met de beantwoording van de vraag wordt voldaan aan onderdeel a of b van het eerste lid. Tegen de beslissing om een vraag te stellen, alsmede tegen de beslissing ter zake van de inhoud van de vraag, staat geen voorziening open.   
+4.  De griffier zendt onverwijld een afschrift van de beslissing aan de Hoge Raad. De griffier zendt afschriften van de andere op de procedure betrekking hebbende stukken op diens verzoek aan de griffier van de Hoge Raad.   
+5.  De rechter houdt de beslissing op de eis of het verzoek aan totdat een afschrift van de beslissing van de Hoge Raad is ontvangen.   
+6.  Indien in een andere lopende procedure het antwoord op de vraag rechtstreeks van belang is om op de eis of het verzoek te beslissen, kan de rechter op verzoek van een partij of ambtshalve de beslissing aanhouden totdat de Hoge Raad uitspraak heeft gedaan. Alvorens te beslissen als bedoeld in de eerste zin, stelt de rechter partijen in de gelegenheid zich daarover uit te laten. De rechter houdt de beslissing niet aan indien partijen te kennen hebben gegeven voortzetting van de procedure te verlangen. Tegen de beslissing om al dan niet aan te houden, staat geen voorziening open.   
+
+### Artikel  393  
+
+1.  Tenzij de Hoge Raad, gehoord de procureur-generaal bij de Hoge Raad, aanstonds beslist overeenkomstig het achtste lid, stelt hij partijen in de gelegenheid om binnen een door de Hoge Raad te bepalen termijn schriftelijk opmerkingen te maken.   
+2.  De Hoge Raad kan bepalen dat ook anderen dan partijen binnen een daartoe te bepalen termijn in de gelegenheid worden gesteld om schriftelijke opmerkingen te maken. De aankondiging hiervan geschiedt op een door de Hoge Raad te bepalen wijze.   
+3.  Schriftelijke opmerkingen worden door een advocaat bij de Hoge Raad getekend en ter griffie van de Hoge Raad ingediend. De schriftelijke opmerkingen gaan vergezeld van zoveel afschriften als er partijen zijn. De griffier zendt onverwijld een afschrift aan partijen.   
+4.  Indien het belang der zaak dit geraden doet voorkomen, kan de Hoge Raad, hetzij ambtshalve, hetzij op een daartoe strekkend verzoek, een dag bepalen voor mondelinge of schriftelijke toelichting door de advocaten van partijen. De Hoge Raad kan, indien hij een mondelinge toelichting heeft bevolen, degenen die ingevolge het tweede lid schriftelijke opmerkingen hebben gemaakt, uitnodigen ter zitting aanwezig te zijn teneinde over hun opmerkingen te worden gehoord.   
+5.  De in het vierde lid bedoelde toelichting kan worden gegeven door een andere dan de volgens het derde lid aangewezen advocaat. De daaruit voor een partij ontstaande vermeerdering van kosten is niet in de in artikel 394, tweede lid, bedoelde beslissing over de kosten begrepen. Een schriftelijke toelichting wordt door de advocaat getekend en ter griffie van de Hoge Raad ingediend. Zij gaat vergezeld van zoveel afschriften als er andere partijen zijn. De griffier zendt onverwijld een afschrift aan de door deze andere partijen gestelde advocaten bij de Hoge Raad.   
+6.  Na het verstrijken van de termijn voor het maken van schriftelijke opmerkingen, dan wel na de mondelinge of schriftelijke toelichting, neemt de procureur-generaal bij de Hoge Raad conclusie, hetzij onmiddellijk, hetzij op een daartoe te bepalen dag. De griffier zendt onverwijld een afschrift van de conclusie aan de door partijen gestelde advocaten bij de Hoge Raad.   
+7.  Nadat de procureur-generaal bij de Hoge Raad overeenkomstig het zesde lid conclusie heeft genomen, bepaalt de Hoge Raad de dag waarop hij zal beslissen. De Hoge Raad kan de vraag herformuleren. Tenzij de herformulering van ondergeschikte betekenis is, stelt de Hoge Raad partijen in de gelegenheid om binnen een door hem te bepalen termijn schriftelijke opmerkingen te maken.   
+8.  De Hoge Raad ziet af van beantwoording indien hij oordeelt dat de vraag zich niet voor beantwoording bij wijze van prejudiciële beslissing leent of de vraag van onvoldoende gewicht is om beantwoording te rechtvaardigen. De Hoge Raad kan zich bij de vermelding van de gronden van zijn beslissing beperken tot dit oordeel.   
+9.  Indien het antwoord op de vraag, nadat deze is gesteld, niet meer nodig is om in de procedure als bedoeld in artikel 392, eerste lid, op de eis of het verzoek te beslissen, kan de Hoge Raad, indien hem dat geraden voorkomt, de vraag desondanks beantwoorden.   
+10.  De Hoge Raad begroot in zijn beslissing de kosten die partijen ingevolge dit artikel hebben gemaakt.   
+11.  De griffier zendt onverwijld een afschrift van de beslissing aan de rechter die de vraag heeft gesteld en aan partijen. De griffier zendt eveneens onverwijld aan de rechter die de vraag heeft gesteld een afschrift van de conclusie van de procureur-generaal en afschriften van de in het derde en vierde lid genoemde schriftelijke opmerkingen en schriftelijke toelichtingen.   
+
+### Artikel  394  
+
+1.  Behoudens indien het antwoord op de vraag niet meer nodig is om op de eis of het verzoek te beslissen, beslist de rechter, nadat hij partijen de gelegenheid heeft gegeven zich schriftelijk over de uitspraak van de Hoge Raad uit te laten, met inachtneming van deze uitspraak.   
+2.  De rechter kan onder de proceskosten waarin een partij veroordeeld wordt, ook opnemen het door de Hoge Raad begrote bedrag voor de ingevolge artikel 393, derde en vierde lid, door de wederpartij gemaakte kosten.   
+
 ### Elfde  titel  
 
 ####Cassatie
@@ -2301,7 +2338,7 @@ Buiten de gevallen, waarin de rechter de voorlopige tenuitvoerlegging heeft toeg
 1.  Het beroep in cassatie wordt ingesteld bij een dagvaarding in dezelfde vorm en met dezelfde vereisten als in eerste aanleg, behoudens de volgende leden:   
 2.  De dagvaarding behelst, in plaats van hetgeen in artikel 111, tweede lid, onder d, is vermeld, de omschrijving van de middelen, waarop het beroep steunt. Artikel 111, tweede lid, onder i, en derde lid, is niet van toepassing. In aanvulling op artikel 111, tweede lid, vermeldt de dagvaarding ook de gevolgen van niet tijdige betaling van het griffierecht.   
 3.  De eiser is gehouden in het exploit van dagvaarding een advocaat bij de Hoge Raad aan te wijzen, die hem in het geding zal vertegenwoordigen, op straffe van nietigheid.   
-4.  Hij wordt geacht woonplaats te hebben gekozen bij die advocaat, tenzij het exploit een andere binnen de gemeente 's-Gravenhage gekozen woonplaats uitdrukt.   
+4.  Hij wordt geacht woonplaats te hebben gekozen bij die advocaat, tenzij het exploit een andere gekozen woonplaats in Nederland uitdrukt.   
 
 ### Artikel  408  
 
@@ -2325,7 +2362,7 @@ c. steeds wanneer zij verwijzing wenselijk acht.
 
 1.  De advocaat bij de Hoge Raad, die voor de verweerder optreedt, verklaart dit bij de oproeping der zaak ter terechtzitting.   
 2.  Van deze verklaring geschiedt aantekening in het zittingblad.   
-3.  De verweerder wordt geacht woonplaats te hebben gekozen bij zijn advocaat. Hij kan echter ook een andere woonplaats mits binnen de gemeente 's-Gravenhage, in het zittingblad opgeven.   
+3.  De verweerder wordt geacht woonplaats te hebben gekozen bij zijn advocaat. Hij kan echter ook een andere woonplaats in Nederland in het zittingblad opgeven.   
 
 ### Artikel  409a  
 
@@ -2348,7 +2385,7 @@ c. steeds wanneer zij verwijzing wenselijk acht.
 ### Artikel  412  
 
 1.  Ingeval van incidenteel beroep of indien door de verweerder een exceptie tegen het principale beroep wordt aangevoerd, wordt aan de eiser, op zijn verlangen, een termijn van ten hoogste vier weken verleend om het incidentele beroep of de voorgestelde exceptie bij conclusie te beantwoorden.   
-2.  Is het een noch het ander het geval, dan wordt onmiddellijk na het nemen der conclusie van antwoord de dag van pleidooi bepaald, tenzij partijen, onder overlegging der stukken, daarop recht vragen.   
+2.  Is het een noch het ander het geval en geeft de Hoge Raad geen toepassing aan [artikel 80a, eerste lid, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), dan wordt onmiddellijk na het nemen der conclusie van antwoord de dag van pleidooi bepaald, tenzij partijen, onder overlegging der stukken, daarop recht vragen.   
 
 ### Artikel  413  
 
@@ -2467,7 +2504,7 @@ Artikel 282a is van overeenkomstige toepassing.
 
 ### Artikel  428  
 
-1.  Indien het belang der zaak dit geraden doet voorkomen, kan de Hoge Raad, hetzij ambtshalve, hetzij op daartoe strekkend verzoek, een toelichting door de advocaten bevelen.   
+1.  Tenzij de Hoge Raad toepassing geeft aan [artikel 80a, eerste lid, van de Wet op de rechterlijke organisatie](../../../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), kan de Hoge Raad, indien het belang der zaak dit geraden doet voorkomen, hetzij ambtshalve, hetzij op daartoe strekkend verzoek, een toelichting door de advocaten bevelen.   
 2.  Geschiedt de toelichting mondeling, dan vindt deze voor de meervoudige kamer plaats. Wordt de toelichting schriftelijk gegeven, dan geschiedt dit voor de enkelvoudige kamer.   
 3.  De toelichting kan ook worden gegeven door andere advocaten, zonder dat de daaruit ontstaande vermeerdering van kosten in de uitspraak over de kosten begrepen is.   
 
@@ -2480,8 +2517,6 @@ Voor zover uit deze afdeling niet anders voortvloeit, is artikel 284 van overeen
 1.  Nadat de procureur-generaal bij de Hoge Raad binnen een door de Hoge Raad te bepalen termijn schriftelijk conclusie heeft genomen, geeft de Hoge Raad zijn beschikking.   
 2.  De artikelen 419-424 zijn van overeenkomstige toepassing.   
 3.  De Hoge Raad geeft bij de beschikking zodanige uitspraak omtrent de kosten als hij vermeent te behoren. De griffier doet onverwijld mededeling van de gevallen beslissing aan de advocaten, die de schrifturen hebben ingediend.   
-
-### Twaalfde  titel  
 
 ### Tweede  Boek  
 
@@ -2555,7 +2590,7 @@ Voor zover de executie andere handelingen vergt dan het doen van een exploot, is
 
 ### Artikel  438c  
 
-Wanneer voor de tenuitvoerlegging van een rechterlijke beslissing een financiële waarborg is vereist, wordt een gelijkwaardige bij een in een andere lidstaat van de Europese Unie gevestigde kredietinstelling of verzekeraar gestelde waarborg erkend. Die kredietinstellingen moeten in een lidstaat van de Europese Unie erkend zijn overeenkomstig Richtlijn 2006/48/EG van het Europees Parlement en de Raad van 14 juni 2006 betreffende de toegang tot en de uitoefening van de werkzaamheden van kredietinstellingen (herschikking) (PbEU 2006, L 177), en die verzekeraars overeenkomstig de Eerste Richtlijn 73/239/EEG van de Raad van 24 juli 1973 betreffende de toegang tot het directe verzekeringsbedrijf, met uitzondering van de levensverzekeringsbranche, en de uitoefening daarvan (PbEG 1973, L 228) dan wel Richtlijn 2002/83/EG van het Europees Parlement en de Raad van 5 november 2002 betreffende de levensverzekering (PbEG 2002, L 345).  
+Wanneer voor de tenuitvoerlegging van een rechterlijke beslissing een financiële waarborg is vereist, wordt een gelijkwaardige bij een in een andere lidstaat van de Europese Unie gevestigde bank of verzekeraar gestelde waarborg erkend. Die banken moeten in een lidstaat van de Europese Unie erkend zijn overeenkomstig Richtlijn 2006/48/EG van het Europees Parlement en de Raad van 14 juni 2006 betreffende de toegang tot en de uitoefening van de werkzaamheden van kredietinstellingen (herschikking) (PbEU 2006, L 177), en die verzekeraars overeenkomstig de Eerste Richtlijn 73/239/EEG van de Raad van 24 juli 1973 betreffende de toegang tot het directe verzekeringsbedrijf, met uitzondering van de levensverzekeringsbranche, en de uitoefening daarvan (PbEG 1973, L 228) dan wel Richtlijn 2002/83/EG van het Europees Parlement en de Raad van 5 november 2002 betreffende de levensverzekering (PbEG 2002, L 345).  
 
 ### Tweede  titel  
 
@@ -2917,17 +2952,17 @@ b. een alleenstaande en een alleenstaande ouder als bedoeld in [artikel 4, onder
 c. een alleenstaande van 65 jaar of ouder en een alleenstaande ouder van 65 jaar of ouder: negentig procent van de norm genoemd in [artikel 22, onderdeel a en b, van die wet](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).     
 2.  De beslagvrije voet bedraagt voor schuldenaren die kunnen worden aangemerkt als: 
 
-a. echtgenoten of geregistreerde partners zonder ten laste komende kinderen waarvan beide echtgenoten zich in de leeftijdscategorie van 18 tot en met 20 jaar bevinden: 90 procent van de norm genoemd in [artikel 28, eerste lid, onderdeel a, van de Wet investeren in jongeren](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md);  
+a. echtgenoten of geregistreerde partners zonder ten laste komende kinderen die beiden jonger zijn dan 21 jaar: 90 procent van de norm genoemd in [artikel 20, eerste lid, onderdeel b, van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
 
-b. echtgenoten of geregistreerde partners zonder ten laste komende kinderen waarvan een echtgenoot zich in de leeftijdscategorie van 18 tot en met 20 jaar bevindt en de andere 21 jaar of ouder is: 90 procent van de norm genoemd in [artikel 28, eerste lid, onderdeel b, van de Wet investeren in jongeren](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md);  
+b. echtgenoten of geregistreerde partners zonder ten laste komende kinderen waarvan een van hen jonger is dan 21 jaar: 90 procent van de norm genoemd in [artikel 20, eerste lid, onderdeel c, van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
 
-c. echtgenoten of geregistreerde partners met een of meer ten laste komende kinderen waarvan beide echtgenoten zich in de leeftijdscategorie van 18 tot en met 20 jaar bevinden: 90 procent van de norm genoemd in [artikel 28, tweede lid, onderdeel a, van de Wet investeren in jongeren](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md);  
+c. een alleenstaande jonger dan 21 jaar: 90 procent van de norm genoemd in [artikel 20, eerste lid, onderdeel a, van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
 
-d. echtgenoten of geregistreerde partners met een of meer ten laste komende kinderen waarvan een echtgenoot zich in de leeftijdscategorie van 18 tot en met 20 jaar bevindt en de andere 21 jaar of ouder is: 90 procent van de norm genoemd in [artikel 28, tweede lid, onderdeel b, van de Wet investeren in jongeren](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md);  
+d. een alleenstaande ouder jonger dan 21 jaar: 90 procent van de norm genoemd in [artikel 20, tweede lid, onderdeel a, van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
 
-e. een alleenstaande ouder jonger dan 21 jaar: 90 procent van de norm genoemd in [artikel 27, onderdeel a, van de Wet investeren in jongeren](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md);  
+e. echtgenoten of geregistreerde partners die beiden jonger zijn dan 21 jaar met een of meer ten laste komende kinderen: 90 procent van de norm genoemd in [artikel 20, tweede lid, onderdeel b, van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
 
-f. een alleenstaande die jonger is dan 21 jaar: 90 procent van de norm genoemd in [artikel 26, onderdeel a, van de Wet investeren in jongeren](../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md).     
+f. echtgenoten of geregistreerde partners waarvan een van hen jonger is dan 21 jaar met een of meer ten laste komende kinderen: 90 procent van de norm genoemd in [artikel 20, tweede lid, onderdeel c, van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).     
 3.  Voor zover het echtgenoten of geregistreerde partners betreft, wordt de beslagvrije voet voor ten hoogste de helft verminderd met het eigen, niet onder beslag liggende periodieke inkomen inclusief vakantie-aanspraak van degene aan wie de bijstand samen met de schuldenaar zou kunnen toekomen.   
 4.  Indien de schuldenaar ter verzorging of verpleging in een daartoe bestemde inrichting is opgenomen bedraagt de beslagvrije voet de prijs die is verschuldigd voor verzorging dan wel verpleging. De beslagvrije voet wordt verhoogd met twee derden van de bijstandsnorm genoemd in [artikel 23 van de Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).   
 5.  De beslagvrije voet wordt verhoogd met: 
@@ -5527,7 +5562,7 @@ f. tot wijziging van of voorziening in het bestuur van een stichting.
 
 ### Artikel  997  
 
-1.  Het verzet van een schuldeiser onderscheidenlijk een wederpartij overeenkomstig de [artikelen 100 lid 3](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), 209 lid 3, [316 lid 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [334l](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), of [404 lid 5 van boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) wordt door de rechter met de meeste spoed behandeld. Indien verschillende verzoekschriften zijn ingediend, wordt op alle tezamen beschikt.   
+1.  Het verzet van een schuldeiser onderscheidenlijk een wederpartij overeenkomstig de [artikelen 100 lid 3](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [182 lid 3](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [316 lid 2](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [334l](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), of [404 lid 5 van boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) wordt door de rechter met de meeste spoed behandeld. Indien verschillende verzoekschriften zijn ingediend, wordt op alle tezamen beschikt.   
 2.  Van de dag waarop de behandeling zal plaatsvinden, wordt door de griffier aankondiging gedaan in de *Nederlandse Staatscourant* en in een landelijk verspreid dagblad.   
 3.  Voorts geeft de griffier kennis aan het kantoor van het handelsregister, waar de vennootschap is ingeschreven.   
 4.  De rechtbank hoort de schuldeisers onderscheidenlijk de wederpartijen die zijn verschenen.   
@@ -5537,7 +5572,7 @@ f. tot wijziging van of voorziening in het bestuur van een stichting.
 
 1.  Een afschrift van het exploit van dagvaarding waarbij een vordering bij de rechtbank wordt ingesteld als bedoeld in de [artikelen 336](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [342](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [343 van boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) wordt onverwijld door de eiser aan de vennootschap betekend.   
 2.  Binnen twee weken na de betekening stelt de vennootschap de niet gedagvaarde aandeelhouders schriftelijk in kennis van de inhoud van de dagvaarding.   
-3.  Van ieder vonnis wordt een afschrift door de griffier behalve aan partijen tevens aan de vennootschap toegezonden. Een afschrift van het onherroepelijk geworden vonnis als bedoeld in artikel 340 lid 1 van boek 2 van het Burgerlijk Wetboek wordt onverwijld door de eiser aan de gedaagden en de vennootschap betekend.   
+3.  Van ieder vonnis wordt een afschrift door de griffier behalve aan partijen tevens aan de vennootschap toegezonden. Een afschrift van het vonnis als bedoeld in [artikel 340 van boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) wordt onverwijld door de eiser aan de gedaagden en de vennootschap betekend.   
 4.  Tegen het vonnis is geen verzet van derden mogelijk als bedoeld in artikel 376 van dit wetboek.   
 
 ### Elfde  titel  

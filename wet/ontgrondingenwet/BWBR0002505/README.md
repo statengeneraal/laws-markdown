@@ -230,7 +230,7 @@ b. hoeveelheden ten aanzien waarvan de heffing eerder is geheven.
 
 ### Artikel  22  
 
-Met betrekking tot de handhaving van het bij of krachtens deze wet bepaalde zijn de [artikelen 5.10](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [5.13 tot en met 5.16](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [5.18 tot en met 5.25 van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing.  
+Met betrekking tot de handhaving van het bij of krachtens deze wet bepaalde zijn de [artikelen 5.10](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [5.13 tot en met 5.16](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [5.18 tot en met 5.23 van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing.  
 
 ### Hoofdstuk  V  
 

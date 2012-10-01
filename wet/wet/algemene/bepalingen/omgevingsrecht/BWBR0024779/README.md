@@ -65,6 +65,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 3.  Bij of krachtens algemene maatregel van bestuur worden categorieën inrichtingen aangewezen als bedoeld in [artikel 1.1, vierde lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), waarvan het oprichten, het veranderen of veranderen van de werking of het in werking hebben moet worden onderworpen aan een voorafgaande toetsing, gezien de aard en de omvang van de nadelige gevolgen die de inrichtingen voor het milieu kunnen veroorzaken. Bij de maatregel worden als categorie in ieder geval aangewezen de inrichtingen waartoe een gpbv-installatie behoort.   
 4.  Een wijziging van bijlage 1 bij richtlijn nr. 2008/1/EG van het Europees Parlement en de Raad van de Europese Unie van 15 januari 2008 inzake geïntegreerde preventie en bestrijding van verontreiniging (PbEU L 24) gaat voor de toepassing van de in het eerste lid gegeven omschrijving van «gpbv-installatie» gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.   
 
+### Artikel  1.1a  
+
+1.  Een bedrijfswoning, behorend tot of voorheen behorend tot een landbouwinrichting, die op grond van het bestemmingsplan, de beheersverordening of, indien met toepassing van artikel 2.12, eerste lid, van het bestemmingsplan of de beheersverordening is afgeweken, de omgevingsvergunning door een derde bewoond mag worden, wordt met betrekking tot die inrichting voor de toepassing van deze wet en de daarop berustende bepalingen beschouwd als onderdeel van die inrichting, tenzij bij of krachtens deze wet anders is bepaald.   
+2.  Voor de toepassing van het eerste lid wordt onder landbouwinrichting verstaan: inrichting waar uitsluitend of in hoofdzaak agrarische activiteiten, zijnde het telen of kweken van landbouwgewassen of het fokken, mesten, houden of verhandelen van landbouwhuisdieren, dan wel activiteiten die daarmee verband houden worden verricht.   
+
 ### Hoofdstuk  2  
 
 ####De omgevingsvergunning
@@ -291,9 +296,7 @@ c. neemt het bevoegd gezag bij die beslissing in ieder geval in acht:
 
 3°. in afwijking van onderdeel 2°, neemt het bevoegd gezag, voor zover het de geldende grenswaarden betreft, die voortvloeien uit de in dat onderdeel genoemde artikelen van de [Wet geluidhinder](../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), bij de beslissing op de aanvraag om een vergunning voor een inrichting, gelegen op een industrieterrein waarvoor een geluidreductieplan als bedoeld in [artikel 67 van de Wet geluidhinder](../../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) is vastgesteld, het geldende geluidreductieplan in acht;  
 
-4°. de aanwijzingen die met betrekking tot de beslissing op de aanvraag krachtens artikel 2.34 door Onze Minister zijn gegeven;  
-
-5°. de onderdelen van het advies, bedoeld in artikel 2.26, tweede lid, ten aanzien waarvan in het advies is aangegeven dat daaraan moet worden voldaan, voor zover daardoor geen strijd ontstaat met het bepaalde in de andere onderdelen van dit lid of het tweede lid, of het bepaalde bij of krachtens artikel 2.22;    
+4°. de onderdelen van het advies, bedoeld in artikel 2.26, tweede lid, ten aanzien waarvan in het advies is aangegeven dat daaraan moet worden voldaan, voor zover daardoor geen strijd ontstaat met het bepaalde in de andere onderdelen van dit lid of het tweede lid, of het bepaalde bij of krachtens artikel 2.22;    
 
 d. en betrekt het bevoegd gezag bij die beslissing de bij een algemene maatregel van bestuur als bedoeld in [artikel 5.1 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) ter uitvoering van een EU-richtlijn of EU-verordening gestelde milieukwaliteitseisen op de bij die maatregel aangegeven wijze, voor zover de verplichting daartoe krachtens of overeenkomstig [artikel 5.2 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is vastgelegd in die maatregel.     
 2.  Voor zover de aanvraag om een activiteit als bedoeld in het eerste lid betrekking heeft op een inrichting waarin stoffen behorende tot een in [artikel 9.2.3.1, tweede lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) aangewezen categorie aanwezig kunnen zijn en die behoort tot een bij algemene maatregel van bestuur aangewezen categorie, draagt het bevoegd gezag er zorg voor dat de beslissing op de aanvraag niet tot gevolg heeft dat minder dan voldoende afstand aanwezig is tussen die inrichting en een beschermd natuurmonument of gebied dat als zodanig is aangewezen krachtens [artikel 10 van de Natuurbeschermingswet 1998](../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) of een gebied dat als zodanig is aangewezen krachtens [artikel 10a van die wet](../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) of dat voorlopig als zodanig is aangewezen krachtens [artikel 12 van die wet](../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md). Bij de beoordeling van de afstand betrekt het bevoegd gezag de maatregelen die zijn of worden getroffen om een voorval als bedoeld in [artikel 17.1 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) waarbij stoffen als bedoeld in de eerste volzin zijn betrokken en waardoor ernstig gevaar voor het milieu ontstaat, in de inrichting te voorkomen of de gevolgen daarvan te beperken.   
@@ -419,14 +422,13 @@ Indien met het oog op de beslissing op de aanvraag om een omgevingsvergunning kr
 
 ### Artikel  2.29  
 
-1.  De inspecteur en een bestuursorgaan dat bij de totstandkoming van de omgevingsvergunning bevoegd was een verklaring als bedoeld in artikel 2.27, eerste lid, te geven of advies uit te brengen kunnen het bevoegd gezag verzoeken voorschriften van de omgevingsvergunning te wijzigen of de omgevingsvergunning geheel of gedeeltelijk in te trekken. Een verzoek kan slechts worden gedaan door: 
+1.  Een bestuursorgaan dat bij de totstandkoming van de omgevingsvergunning bevoegd was een verklaring als bedoeld in artikel 2.27, eerste lid, te geven of advies uit te brengen kan het bevoegd gezag verzoeken voorschriften van de omgevingsvergunning te wijzigen of de omgevingsvergunning geheel of gedeeltelijk in te trekken. Een verzoek kan slechts worden gedaan door: 
 
 a. het bestuursorgaan dat bevoegd was een verklaring te geven: voor zover het betreft de activiteiten waarvoor de verklaring is gegeven;  
 
 b. een adviseur: voor zover het betreft de aspecten waarover hij bij de totstandkoming van de omgevingsvergunning advies kan uitbrengen.     
-2.  Voor zover een omgevingsvergunning betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder a, b of g, kunnen gedeputeerde staten, indien provinciale belangen dat met het oog op een goede ruimtelijke ordening nodig maken, het bevoegd gezag verzoeken voorschriften van de omgevingsvergunning te wijzigen of de omgevingsvergunning geheel of gedeeltelijk in te trekken.   
-3.  Voor zover een omgevingsvergunning betrekking heeft op een activiteit met betrekking tot een inrichting als bedoeld in artikel 2.1, eerste lid, onder e, kan Onze Minister het bevoegd gezag verzoeken binnen een daarbij aangegeven termijn de omgevingsvergunning of voorschriften van de omgevingsvergunning te wijzigen, indien zich in de betrokken inrichting een voorval als bedoeld in [artikel 17.1 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) voordoet of heeft voorgedaan of, indien [titel 17.1A van die wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is, zich een gebeurtenis als bedoeld in [artikel 17.5a van die wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) voordoet of heeft voorgedaan.   
-4.  Indien het bevoegd gezag gevolg geeft aan een verzoek als bedoeld in het eerste, tweede of derde lid, zendt het een exemplaar van de beschikking tot wijziging van voorschriften van de omgevingsvergunning of wijziging of gehele of gedeeltelijke intrekking van de omgevingsvergunning aan het betrokken bestuursorgaan.   
+2.  Voor zover een omgevingsvergunning betrekking heeft op een activiteit met betrekking tot een inrichting als bedoeld in artikel 2.1, eerste lid, onder e, kan Onze Minister het bevoegd gezag verzoeken binnen een daarbij aangegeven termijn de omgevingsvergunning of voorschriften van de omgevingsvergunning te wijzigen, indien zich in de betrokken inrichting een voorval als bedoeld in [artikel 17.1 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) voordoet of heeft voorgedaan of, indien [titel 17.1A van die wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is, zich een gebeurtenis als bedoeld in [artikel 17.5a van die wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) voordoet of heeft voorgedaan.   
+3.  Indien het bevoegd gezag gevolg geeft aan een verzoek als bedoeld in het eerste of tweede lid, zendt het een exemplaar van de beschikking tot wijziging van voorschriften van de omgevingsvergunning of wijziging of gehele of gedeeltelijke intrekking van de omgevingsvergunning aan het betrokken bestuursorgaan.   
 
 ### Artikel  2.30  
 
@@ -437,7 +439,7 @@ b. een adviseur: voor zover het betreft de aspecten waarover hij bij de totstand
 
 1.  Het bevoegd gezag wijzigt voorschriften van de omgevingsvergunning: 
 
-a. ter uitvoering van een verzoek als bedoeld in artikel 2.29, eerste lid, tweede volzin, onder a, of een aanwijzing als bedoeld in artikel 2.34, eerste lid;  
+a. ter uitvoering van een verzoek als bedoeld in artikel 2.29, eerste lid, tweede volzin, onder a;  
 
 b. indien door toepassing van artikel 2.30, eerste lid, blijkt dat de nadelige gevolgen die de inrichting voor het milieu veroorzaakt, gezien de ontwikkeling van de technische mogelijkheden tot bescherming van het milieu, verder kunnen, of, gezien de ontwikkeling van de kwaliteit van het milieu, verder moeten worden beperkt;  
 
@@ -462,7 +464,7 @@ e. een activiteit als bedoeld in artikel 2.19, op de gronden die zijn aangegeven
 
 ### Artikel  2.32  
 
-Onze Minister wijzigt de omgevingsvergunning of voorschriften van de omgevingsvergunning voor zover deze betrekking hebben op een activiteit met betrekking tot een inrichting als bedoeld in artikel 2.1, eerste lid, onder e, indien zich in de betrokken inrichting een voorval als bedoeld in [artikel 17.1 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) voordoet of heeft voorgedaan of, indien [titel 17.1A van die wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is, zich een gebeurtenis als bedoeld in [artikel 17.5a van die wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) voordoet of heeft voorgedaan en de geboden spoed een verzoek als bedoeld in artikel 2.29, derde lid, niet toelaat of het bevoegd gezag niet aan het krachtens dat lid gedane verzoek binnen de daarbij aangegeven termijn gevolg heeft gegeven.  
+Onze Minister wijzigt de omgevingsvergunning of voorschriften van de omgevingsvergunning voor zover deze betrekking hebben op een activiteit met betrekking tot een inrichting als bedoeld in artikel 2.1, eerste lid, onder e, indien zich in de betrokken inrichting een voorval als bedoeld in [artikel 17.1 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) voordoet of heeft voorgedaan of, indien [titel 17.1A van die wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is, zich een gebeurtenis als bedoeld in [artikel 17.5a van die wet](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) voordoet of heeft voorgedaan en de geboden spoed een verzoek als bedoeld in artikel 2.29, tweede lid, niet toelaat of het bevoegd gezag niet aan het krachtens dat lid gedane verzoek binnen de daarbij aangegeven termijn gevolg heeft gegeven.  
 
 ### Artikel  2.33  
 
@@ -472,7 +474,7 @@ a. de uitvoering van een voor Nederland verbindend verdrag of een voor Nederland
 
 b. deze betrekking heeft op een activiteit als bedoeld in artikel 2.1, eerste lid, onder e, indien door toepassing van artikel 2.31, eerste lid, aanhef en onder b, redelijkerwijs niet kan worden bereikt dat in de inrichting of het mijnbouwwerk ten minste de voor de inrichting of het mijnbouwwerk in aanmerking komende beste beschikbare technieken worden toegepast;  
 
-c. dat nodig is ter uitvoering van een verzoek als bedoeld in artikel 2.29, eerste lid, tweede volzin, onder a, of een aanwijzing als bedoeld in artikel 2.34, eerste lid;  
+c. dat nodig is ter uitvoering van een verzoek als bedoeld in artikel 2.29, eerste lid, tweede volzin, onder a;  
 
 d. de inrichting of het mijnbouwwerk ontoelaatbaar nadelige gevolgen voor het milieu veroorzaakt en toepassing van artikel 2.31 daarvoor redelijkerwijs geen oplossing biedt;  
 
@@ -512,20 +514,6 @@ h. deze betrekking heeft op een activiteit als bedoeld in artikel 2.19, op de gr
 ### §  2.7  
 
 ####Aanwijzingen aan het bevoegd gezag
-
-### Artikel  2.34  
-
-1.  Onze Minister kan, indien dat in het algemeen belang geboden is, aan het bevoegd gezag een aanwijzing geven ter zake van het nemen van een besluit ten aanzien van een aanvraag om een omgevingsvergunning of ten aanzien van een al verleende omgevingsvergunning. Deze bevoegdheid geldt niet: 
-
-a. met betrekking tot activiteiten als bedoeld in artikel 2.2;  
-
-b. in gevallen waarin een Onzer andere Ministers het bevoegd gezag is;  
-
-c. met betrekking tot een verklaring van een Onzer andere Ministers en de daarbij overeenkomstig artikel 2.27, vierde lid, aangegeven of aan te geven voorschriften.     
-2.  Voordat Onze Minister een aanwijzing geeft, pleegt hij overleg met het bevoegd gezag. Hij deelt het voornemen, onder vermelding van de redenen daarvoor, mee aan de Staten-Generaal.   
-3.  Het bevoegd gezag doet van de wijze waarop gevolg is gegeven aan de aanwijzing, schriftelijk mededeling aan Onze Minister.   
-4.  De aanwijzing wordt vermeld in de beschikking van het bevoegd gezag, ter zake waarvan zij is gegeven. Een exemplaar ervan wordt gevoegd bij ieder exemplaar van die beschikking.   
-5.  Indien het bevoegd gezag niet of niet volledig gevolg geeft aan een aanwijzing als bedoeld in het eerste lid kan Onze Minister een besluit als bedoeld in het eerste lid nemen voor rekening van de rechtspersoon waartoe het betrokken bestuursorgaan behoort.   
 
 ### Hoofdstuk  3  
 
@@ -860,6 +848,13 @@ b. is ingetrokken, of de bij de beschikking opgelegde last onder dwangsom overee
 3.  Bij het uitoefenen van de taak, bedoeld in het eerste lid, houdt het bevoegd gezag, voorzover er sprake is van een activiteit met betrekking tot een inrichting of mijnbouwwerk, rekening met het voor hem geldende milieubeleidsplan.   
 4.  In bij wet of algemene maatregel van bestuur aangewezen categorieën gevallen heeft tevens het bestuursorgaan dat bevoegd is een verklaring te geven als bedoeld in artikel 2.27, eerste lid, tot taak zorg te dragen voor de bestuursrechtelijke handhaving, bedoeld in het eerste lid, onder a. Deze taak blijft beperkt tot de activiteiten van het project waarvoor de verklaring is vereist. Op het uitoefenen van deze taak is het derde lid van overeenkomstige toepassing.   
 
+### Artikel  5.2a  
+
+1.  Voor zover dit hoofdstuk bij of krachtens een in artikel 5.1 genoemde wet van toepassing is, en een orgaan van een waterschap een bij of krachtens dit hoofdstuk gevorderde beslissing niet of niet naar behoren neemt dan wel een bij of krachtens dit hoofdstuk gevorderde handeling niet of niet naar behoren verricht, zijn de [artikelen 121 tot en met 121g van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md) van overeenkomstige toepassing.   
+2.  In afwijking van het eerste lid zijn, voor zover § 5.2 bij of krachtens een in artikel 5.1 genoemde wet van toepassing is en een orgaan van een waterschap een bij of krachtens § 5.2 gevorderde beslissing niet of niet naar behoren neemt dan wel een bij of krachtens § 5.2 gevorderde handeling niet of niet naar behoren verricht, zijn de [artikelen 124](../../../../../../wet/gemeentewet/BWBR0005416/README.md), [124a](../../../../../../wet/gemeentewet/BWBR0005416/README.md) en [124c tot en met 124i van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md) van overeenkomstige toepassing.   
+3.  [Hoofdstuk XVIII van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md) is van overeenkomstige toepassing ten aanzien van door een orgaan van een waterschap bij of krachtens dit hoofdstuk genomen besluiten en niet-schriftelijke beslissingen, gericht op enig rechtsgevolg.   
+4.  In afwijking van het derde lid is [hoofdstuk XVII van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md) van overeenkomstige toepassing ten aanzien van door een orgaan van een waterschap bij of krachtens § 5.2 genomen besluiten en niet-schriftelijke beslissingen, gericht op enig rechtsgevolg.   
+
 ### §  5.2  
 
 ####Afstemming en coördinatie in het belang van een doelmatige handhaving
@@ -885,14 +880,6 @@ Gedeputeerde staten dragen zorg voor de coördinatie van de uitvoering van het b
 
 Onze Minister draagt zorg voor de coördinatie van de uitvoering van het bepaalde krachtens artikel 5.3, voorzover die coördinatie naar zijn oordeel van meer dan provinciaal belang is.  
 
-### Artikel  5.7  
-
-1.  Gedeputeerde staten kunnen, indien dat in het belang van een doelmatige handhaving geboden is, aan burgemeester en wethouders of aan het dagelijks bestuur van een waterschap een aanwijzing geven ter zake van de uitvoering door deze bestuursorganen van het bepaalde krachtens artikel 5.3.   
-2.  Bij een aanwijzing wordt een termijn gesteld binnen welke daaraan gevolg moet zijn gegeven. Burgemeester en wethouders doen, onderscheidenlijk het dagelijks bestuur van een waterschap doet, schriftelijk mededeling aan gedeputeerde staten van de wijze waarop gevolg is gegeven aan de aanwijzing.   
-3.  Gedeputeerde staten plegen over een voornemen tot het geven van een aanwijzing overleg met burgemeester en wethouders, onderscheidenlijk het dagelijks bestuur van het waterschap, onder gelijktijdige mededeling daarvan aan de gemeenteraad, onderscheidenlijk het algemeen bestuur van het waterschap.   
-4.  Gedeputeerde staten doen van het besluit, houdende de aanwijzing, mededeling door overlegging van het besluit aan Onze betrokken Minister en aan provinciale staten en door plaatsing ervan in de Staatscourant.   
-5.  Indien burgemeester en wethouders of het dagelijks bestuur geen gevolg geven aan een aanwijzing, kunnen gedeputeerde staten daaraan gevolg geven voor rekening van de gemeente, onderscheidenlijk het waterschap.   
-
 ### Artikel  5.8  
 
 1.  Gedeputeerde staten kunnen, indien zij hebben vastgesteld dat een behoorlijke uitvoering van het bepaalde krachtens artikel 5.3 in de provincie onvoldoende gewaarborgd is, gemeenten of waterschappen aanwijzen waarvan burgemeester en wethouders, onderscheidenlijk de dagelijkse besturen een gemeenschappelijke regeling moeten treffen als bedoeld in de [Wet gemeenschappelijke regelingen](../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), ter behartiging van het belang van een doelmatige handhaving. [Artikel 99, eerste lid, van die wet](../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) is niet van toepassing. Een waterschap wordt niet aangewezen dan nadat Onze Minister van Verkeer en Waterstaat in overeenstemming met Onze Minister heeft verklaard dat hij daartegen geen bedenkingen heeft.   
@@ -906,19 +893,6 @@ a. het houden van toezicht op de naleving van het bepaalde bij of krachtens de b
 b. het voorbereiden en het uitvoeren van door burgemeester en wethouders van een deelnemende gemeente of van door het dagelijks bestuur van een deelnemend waterschap te geven, of gegeven beschikkingen tot oplegging van een last onder bestuursdwang, oplegging van een last onder dwangsom of intrekking van een vergunning of ontheffing op grond van artikel 5.19.     
 6.  Gedeputeerde staten doen van het besluit, houdende de aanwijzing, mededeling door overlegging van het besluit aan Onze betrokken Minister en aan provinciale staten en door plaatsing ervan in de Staatscourant.   
 
-### Artikel  5.9  
-
-1.  Onze Minister kan, indien dat in het belang van een doelmatige handhaving geboden is, in overeenstemming met Onze betrokken Minister, aan gedeputeerde staten een aanwijzing geven ter zake van: 
-
-a. de uitvoering door gedeputeerde staten van het bepaalde krachtens artikel 5.3 en van de artikelen 5.4 en 5.7;  
-
-b. het bepaalde in artikel 5.8, eerste en tweede lid, derde lid, eerste volzin, en vijfde lid.     
-2.  Onze Minister pleegt over een voornemen tot het geven van een aanwijzing overleg met gedeputeerde staten.   
-3.  In een geval als bedoeld in het eerste lid, onder b, is [artikel 102, eerste lid, van de Wet gemeenschappelijke regelingen](../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) niet van toepassing.   
-4.  Gedeputeerde staten doen schriftelijk mededeling aan Onze betrokken Minister van de wijze waarop zij gevolg hebben gegeven aan de aanwijzing.   
-5.  Onze Minister doet van het besluit, houdende de aanwijzing, mededeling door overlegging van het besluit aan de Staten-Generaal en door plaatsing ervan in de Staatscourant.   
-6.  Indien gedeputeerde staten geen gevolg geven aan een aanwijzing, kan Onze Minister gevolg geven aan de aanwijzing voor rekening van de betrokken provincie.   
-
 ### §  5.3  
 
 ####Aanwijzing ambtenaren met toezichthoudende of opsporingsbevoegdheden
@@ -930,16 +904,6 @@ b. het bepaalde in artikel 5.8, eerste en tweede lid, derde lid, eerste volzin, 
 3.  Met het toezicht op de naleving van het bij of krachtens de betrokken wet bepaalde binnen hun ambtsgebied zijn eveneens belast de bij besluit van gedeputeerde staten, burgemeester en wethouders of andere met de uitvoering van de betrokken wet belaste bestuursorganen aangewezen ambtenaren.   
 4.  Bij een besluit als bedoeld in het eerste lid kan Onze betrokken Minister gevallen of categorieën gevallen aanwijzen met betrekking waartoe, in afwijking van het derde lid bij zijn besluit aangewezen ambtenaren uitsluitend belast zijn met het toezicht op de naleving.   
 5.  Van een besluit als bedoeld in het eerste en vierde lid, wordt mededeling gedaan door plaatsing in de Staatscourant.   
-
-### Artikel  5.11  
-
-1.  Met het toezicht op de uitvoering en de handhaving van het bepaalde bij of krachtens de betrokken wet zijn belast de bij besluit van Onze betrokken Minister aangewezen ambtenaren. Ambtenaren, ressorterende onder een ander dan zijn ministerie, wijst hij niet aan dan in overeenstemming met Onze Minister onder wiens ministerie zij ressorteren.   
-2.  Met het oog op de vervulling van de in het eerste lid bedoelde taak zijn: 
-
-a. de [artikelen 5:13](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:16](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:17](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing ten aanzien van het bestuursorgaan dat is belast met de uitvoering of de handhaving van het bij of krachtens de betrokken wet bepaalde, en  
-
-b. de [artikelen 5:12](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:15 tot en met 5:20 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing ten aanzien van degene die verplicht is het betrokken voorschrift na te leven.     
-3.  Onze Minister kan bij ministeriële regeling bepalen dat bestuursorganen die met de uitvoering of de handhaving van het bij of krachtens de betrokken wet bepaalde zijn belast, daarbij aan te geven gegevens verstrekken aan de krachtens het eerste lid aangewezen ambtenaren. Bij de regeling kunnen regels worden gesteld met betrekking tot het tijdstip waarop, de frequentie waarmee en de vorm waarin de gegevens worden verstrekt. Tevens kan bij de regeling worden bepaald dat daarbij gestelde regels slechts gelden in daarbij aangewezen categorieën gevallen.   
 
 ### Artikel  5.12  
 
@@ -1015,9 +979,8 @@ b. in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevord
 
 ### Artikel  5.20  
 
-1.  De inspecteur, een bestuursorgaan dat bij de totstandkoming van de vergunning of ontheffing bevoegd was een verklaring als bedoeld in artikel 2.27, eerste lid, te geven of advies uit te brengen, en Onze betrokken Minister die een vordering als bedoeld in artikel 5.24 kan doen, kunnen een bestuursorgaan dat op grond van dit hoofdstuk bevoegd is tot oplegging van een last onder bestuursdwang, oplegging van een last onder dwangsom of intrekking van een vergunning of ontheffing, verzoeken een daartoe strekkende beschikking te geven.   
-2.  Gedeputeerde staten kunnen, indien provinciale belangen dat met het oog op een goede ruimtelijke ordening nodig maken, een bestuursorgaan dat op grond van dit hoofdstuk bevoegd is tot oplegging van een last onder bestuursdwang, oplegging van een last onder dwangsom of intrekking van een vergunning of ontheffing, verzoeken een daartoe strekkende beschikking te geven.   
-3.  In gevallen waarin vanuit een inrichting of mijnbouwwerk afvalwater of andere afvalstoffen in een voorziening voor de inzameling en het transport van afvalwater worden gebracht tengevolge waarvan: 
+1.  Een bestuursorgaan dat bij de totstandkoming van de vergunning of ontheffing bevoegd was een verklaring als bedoeld in artikel 2.27, eerste lid, te geven of advies uit te brengen kan een bestuursorgaan dat op grond van dit hoofdstuk bevoegd is tot oplegging van een last onder bestuursdwang, oplegging van een last onder dwangsom of intrekking van een vergunning of ontheffing, verzoeken een daartoe strekkende beschikking te geven.   
+2.  In gevallen waarin vanuit een inrichting of mijnbouwwerk afvalwater of andere afvalstoffen in een voorziening voor de inzameling en het transport van afvalwater worden gebracht tengevolge waarvan: 
 
 a. de doelmatige werking van het zuiveringtechnisch werk, bedoeld in [artikel 1.1, eerste lid, van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md) wordt belemmerd, of  
 
@@ -1048,20 +1011,6 @@ Het bestuursorgaan zendt een exemplaar van de beschikking tot oplegging van een 
 ### §  5.5  
 
 ####Vorderingsbevoegdheid van Onze betrokken Minister
-
-### Artikel  5.24  
-
-1.  Ter zake van een overtreding van het bepaalde bij of krachtens deze wet kan Onze Minister in het belang van de bescherming van de fysieke leefomgeving vorderen dat het bestuursorgaan dat daartoe bevoegd is, binnen een door hem te stellen termijn een beschikking tot oplegging van een last onder bestuursdwang, oplegging van een last onder dwangsom of intrekking van een vergunning of ontheffing, uitvoert, of geeft en uitvoert. Deze bevoegdheid geldt niet met betrekking tot activiteiten als bedoeld in artikel 2.2. Eenzelfde bevoegdheid heeft Onze betrokken Minister ter zake van een overtreding van het bepaalde bij of krachtens een andere betrokken wet met het oog op het belang is dat de betrokken wet beoogt te beschermen.   
-2.  Het bestuursorgaan doet van de wijze waarop gevolg is gegeven aan de vordering schriftelijk mededeling aan Onze betrokken Minister.   
-3.  Indien het bestuursorgaan niet of niet volledig gevolg geeft aan een vordering, kan Onze betrokken Minister voor rekening van dat bestuursorgaan daarin voorzien.   
-4.  [Artikel 5:10, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing, met dien verstande dat voor het bestuursorgaan dat de sanctie heeft opgelegd, wordt gelezen: het bestuursorgaan dat geen gevolg heeft gegeven aan de vordering.   
-5.  Onze betrokken Minister kan bij zijn vorderingsbesluit bepalen dat in afwijking van [artikel 5:25 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de aan de uitvoering van de beschikking verbonden kosten voor rekening van het bestuursorgaan blijven.   
-
-### Artikel  5.25  
-
-1.  Onze betrokken Minister pleegt over een voornemen tot het geven van een vordering als bedoeld in artikel 5.24, eerste lid, overleg met burgemeester en wethouders, gedeputeerde staten of het dagelijks bestuur van het waterschap, onder gelijktijdige mededeling daarvan aan de gemeenteraad, provinciale staten, onderscheidenlijk het algemeen bestuur van het waterschap, tenzij de geboden spoed zich daartegen verzet.   
-2.  Onze betrokken Minister doet van het besluit, houdende de vordering, mededeling door overlegging van het besluit aan de Staten-Generaal en door plaatsing ervan in de Staatscourant.   
-3.  Indien gelet op het betrokken belang een onverwijlde vordering geboden is, en Onze betrokken Minister de vordering daardoor niet vooraf op schrift kan stellen, stelt hij deze alsnog zo spoedig mogelijk op schrift.   
 
 ### §  5.6  
 
@@ -1123,7 +1072,7 @@ Indien in een geval als bedoeld in artikel 3.16 beroep is ingesteld tegen een be
 
 ### Artikel  6.5  
 
-1.  Het beroep tegen een beschikking inzake een verklaring als bedoeld in artikel 2.27, of een aanwijzing als bedoeld in artikel 2.34, kan door het ten aanzien van de beschikking waarop de verklaring, onderscheidenlijk de aanwijzing betrekking heeft, bevoegde gezag eerst worden ingesteld nadat die beschikking is bekendgemaakt. [Artikel 7:1 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
+1.  Het beroep tegen een beschikking inzake een verklaring als bedoeld in artikel 2.27 kan door het ten aanzien van de beschikking waarop de verklaring betrekking heeft, bevoegde gezag eerst worden ingesteld nadat die beschikking is bekendgemaakt. [Artikel 7:1 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
 2.  In afwijking van [artikel 6:8 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vangt de beroepstermijn in een geval als bedoeld in het eerste lid aan met ingang van de dag na de dag waarop overeenkomstig artikel 3.9, eerste of vierde lid, of [artikel 3:44 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) mededeling is gedaan van de beschikking waarop de verklaring of het verzoek betrekking heeft. De bepalingen met betrekking tot het beroep tegen die beschikking zijn van overeenkomstige toepassing met betrekking tot het beroep tegen de beschikking inzake de verklaring of de aanwijzing.   
 
 ### Artikel  6.5a  

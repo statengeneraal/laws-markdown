@@ -471,10 +471,6 @@ De stichting gaat bij de uitoefening van haar taken uit van de godsdienstige gez
 6.  De stichting is verplicht binnen de daarbij gestelde termijn aan de aanwijzing onderscheidenlijk onmiddellijk aan het bevel te voldoen.   
 7.  Gedeputeerde staten zijn bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de uit een krachtens het eerste onderscheidenlijk vijfde lid gegeven aanwijzing, onderscheidenlijk bevel, voortvloeiende verplichtingen.   
 
-### Artikel  17  
-
-Onze Ministers kunnen gedeputeerde staten aanwijzingen geven omtrent de uitoefening van de bevoegdheden, genoemd in artikel 16, eerste of zevende lid, indien gedeputeerde staten nalatig zijn in de uitoefening ervan.  
-
 ### Hoofdstuk  IV  
 
 ####Zorgaanbod
@@ -578,7 +574,7 @@ d. het aantal malen dat hij een beslissing heeft genomen tot toepassing van de a
 
 ### Artikel  29  
 
-De artikelen 16 en 17 zijn van overeenkomstige toepassing ten aanzien van de naleving van deze wet en de daarop berustende bepalingen door een zorgaanbieder.  
+Artikel 16 is van overeenkomstige toepassing ten aanzien van de naleving van deze wet en de daarop berustende bepalingen door een zorgaanbieder.  
 
 ### Hoofdstuk  IVa  
 
@@ -824,14 +820,13 @@ d. Onze Minister van Justitie, teneinde afspraken te maken over de capaciteit va
 ### Artikel  31  
 
 1.  Provinciale staten stellen eenmaal in de vier jaar een provinciaal beleidskader jeugdzorg voor de komende vier kalenderjaren vast. Het provinciale beleidskader wordt vóór 1 december van het jaar voorafgaand aan het eerste jaar waarop het betrekking heeft, vastgesteld.   
-2.  Het provinciale beleidskader is gebaseerd op het landelijk beleidskader en, waar nodig, op de aanwijzingen, bedoeld in artikel 33.   
+2.  Het provinciale beleidskader is in overeenstemming met het landelijk beleidskader.   
 3.  Het provinciale beleidskader bevat de hoofdlijnen van het beleid ten aanzien van de stichting en de jeugdzorg waarop ingevolge deze wet aanspraak bestaat alsmede een financieel kader voor dat beleid.   
 4.  Uitgangspunt bij de vaststelling van het provinciale beleidskader is dat het aanbod van jeugdzorg waarop ingevolge deze wet aanspraak bestaat, aansluit bij de behoefte van cliënten en bij het uitgangspunt dat jeugdzorg in het algemeen het meest doelmatig en het meest doeltreffend plaatsvindt in de minst ingrijpende vorm, zo dicht mogelijk bij de plaats waar de cliënt duurzaam verblijft en gedurende een zo kort mogelijke periode.   
 5.  Ten behoeve van de samenhang binnen de jeugdzorg bevat het provinciale beleidskader voorts een overzicht van de wijze waarop de zorgverzekeraars, de gemeenten en Onze Minister van Justitie voornemens zijn te voorzien in de behoefte aan jeugdzorg, niet zijnde jeugdzorg waarop ingevolge deze wet aanspraak bestaat.   
-6.  Provinciale staten bezien jaarlijks in hoeverre het provinciale beleidskader bijstelling behoeft.   
+6.  Provinciale staten bezien jaarlijks in hoeverre het provinciale beleidskader bijstelling behoeft en zij stellen het in ieder geval bij naar aanleiding van een wijziging van het landelijk beleidskader.   
 7.  Afschrift van het provinciale beleidskader wordt zo spoedig mogelijk na vaststelling gezonden aan Onze Ministers.   
-8.  Het provinciale beleidskader behoeft de goedkeuring van Onze Ministers. Goedkeuring wordt verleend voor zover het provinciale beleidskader jeugdzorg in overeenstemming is met de wet, het landelijke beleidskader en door Onze Ministers gegeven aanwijzingen als bedoeld in artikel 33.   
-9.  Onze Ministers kunnen regels stellen omtrent de inrichting van het provinciale beleidskader.   
+8.  Onze Ministers kunnen regels stellen omtrent de inrichting van het provinciale beleidskader.   
 
 ### Artikel  32  
 
@@ -848,10 +843,6 @@ c. de in het kalenderjaar volgend op het jaar van vaststelling, met inachtneming
 5.  Een tussentijdse wijziging van het provinciale beleidskader wordt in het uitvoeringsprogramma opgenomen. Op een tussentijdse wijziging is artikel 30 van overeenkomstige toepassing.   
 6.  Afschrift van het uitvoeringsprogramma wordt gezonden aan Onze Ministers.   
 7.  Onze Ministers kunnen regels stellen omtrent de inrichting van het uitvoeringsprogramma.   
-
-### Artikel  33  
-
-Onze Ministers kunnen de provinciebesturen aanwijzingen geven met betrekking tot het provinciale beleidskader of het uitvoeringsprogramma, voor zover dit niet in overeenstemming is met deze wet of het landelijke beleidskader, of, voor zover dit nodig is, voor de uitvoering van het provinciale beleidskader of het uitvoeringsprogramma.  
 
 ### Paragraaf  2  
 
@@ -870,7 +861,7 @@ b. de zorgverzekeraars voornemens zijn te voorzien in de behoefte aan zorg als b
 c. Onze Minister van Justitie voornemens is te voorzien in de behoefte aan jeugdzorg als bedoeld in artikel 5, tweede lid, onder d.     
 4.  Bij de vaststelling van het landelijke beleidskader wordt rekening gehouden met het door de provinciebesturen in de voorafgaande jaren gevoerde beleid, zoals dit blijkt uit de uitvoeringsprogramma's.   
 5.  Het landelijke beleidskader wordt gezonden aan de provinciebesturen en aan de beide Kamers der Staten-Generaal.   
-6.  Jaarlijks bezien Onze Ministers in hoeverre het landelijke beleidskader bijstelling behoeft.   
+6.  Jaarlijks bezien Onze Ministers in hoeverre het landelijke beleidskader bijstelling behoeft. Onze Ministers kunnen het landelijke beleidskader aanpassen zodra daartoe aanleiding bestaat.   
 
 ### Artikel  35  
 
@@ -1035,7 +1026,7 @@ d. het toezicht op de naleving van [artikel 9 van de Wet Centraal Orgaan opvang 
 6.  De inspectie verricht onderzoeken als bedoeld in het eerste lid onder b uit eigen beweging of op verzoek van gedeputeerde staten van de betrokken provincie.   
 7.  De inspectie verricht onderzoeken als bedoeld in het eerste lid, onder c, uit eigen beweging of op verzoek van Onze Minister van Justitie.   
 8.  De inspectie brengt van haar bevindingen verslag uit aan degene bij wie het onderzoek is uitgevoerd en kan daarbij voorstellen doen tot verbetering van de kwaliteit. De inspectie stelt het betrokken overheidsorgaan schriftelijk op de hoogte van haar bevindingen.   
-9.  De inspectie stelt Onze Ministers van haar bevindingen ten aanzien van bureaus jeugdzorg en zorgaanbieders op de hoogte indien zij van oordeel is, dat toepassing moet worden gegeven aan artikel 17.   
+9.  De inspectie stelt gedeputeerde staten van haar bevindingen ten aanzien van bureaus jeugdzorg en zorgaanbieders op de hoogte indien zij van oordeel is, dat toepassing moet worden gegeven aan artikel 16, eerste of zevende lid.   
 10.  De inspectie stelt jaarlijks een verslag op van haar werkzaamheden. In het verslag doet zij de voorstellen die zij in het belang van de jeugdzorg nodig acht. Het verslag wordt gezonden aan de provinciebesturen, Onze Ministers en de Tweede Kamer der Staten-Generaal.   
 11.  Onze Ministers kunnen regels stellen omtrent de organisatie van de inspectie.   
 
