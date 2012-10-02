@@ -8,22 +8,22 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling maatregelen rijvaardigheid en geschiktheid 2011.   
+Wijzigt de Regeling maatregelen rijvaardigheid en geschiktheid 2011. 
 
 ### Artikel  II  
 
-Wijzigt de Regeling voertuigen.   
+Wijzigt de Regeling voertuigen. 
 
 ### Artikel  III  
 
-Ten aanzien van alcoholsloten die op het tijdstip van inwerkingtreding van deze regeling reeds zijn ingebouwd, dan wel op dat tijdstip gereed liggen voor inbouw, wordt de in artikel II van deze regeling bedoelde parameter bij de eerstvolgende periodieke uitlezing van het alcoholslot aangepast.  
+Ten aanzien van alcoholsloten die op het tijdstip van inwerkingtreding van deze regeling reeds zijn ingebouwd, dan wel op dat tijdstip gereed liggen voor inbouw, wordt de in artikel II van deze regeling bedoelde parameter bij de eerstvolgende periodieke uitlezing van het alcoholslot aangepast. 
 
 ### Artikel  IV  
 
 1.  Deze regeling treedt in werking met ingang van 1 oktober 2012.   
-2.  Artikel I werkt terug tot en met 1 december 2011.   
+2.  Artikel I werkt terug tot en met 1 december 2011.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Infrastructuur en Milieu,
-M.H.Schultz van Haegen-Maas Geesteranus   
+Minister van Infrastructuur en Milieu, 
+M.H. Schultz van Haegen-Maas Geesteranus     

@@ -19,17 +19,17 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *integraal dagarrangement:* een in tijd en inhoud aaneensluitend rooster waarbij afwisselend tijdvakken van onderwijs en buitenschoolse opvang worden aangeboden en waarbij, in afwijking van [artikel 1, onderdeel c, van het Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang](../../../../../../AMvB/besluit/kinderopvangtoeslag/BWBR0017321/README.md), onder buitenschoolse opvang wordt verstaan kinderopvang tijdens de dagelijkse schooltijd die verzorgd wordt door een kindercentrum voor kinderen in de leeftijd dat zij naar het basisonderwijs kunnen gaan;  
+a.  *integraal dagarrangement:* een in tijd en inhoud aaneensluitend rooster waarbij afwisselend tijdvakken van onderwijs en buitenschoolse opvang worden aangeboden en waarbij, in afwijking van [artikel 1, onderdeel c, van het Besluit kinderopvangtoeslag en tegemoetkomingen in kosten kinderopvang](../../../../../../AMvB/besluit/kinderopvangtoeslag/BWBR0017321/README.md), onder buitenschoolse opvang wordt verstaan kinderopvang tijdens de dagelijkse schooltijd die verzorgd wordt door een kindercentrum voor kinderen in de leeftijd dat zij naar het basisonderwijs kunnen gaan;  
 
-b. *samenwerkingsverband:* een samenwerkingsverband tussen een basisschool als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) en een kindercentrum;  
+b.  *samenwerkingsverband:* een samenwerkingsverband tussen een basisschool als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../wet/wbo/BWBR0003420/README.md) en een kindercentrum;  
 
-c. *wet:*[Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md).    
+c.  *wet:* [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md).   
 
 ### Artikel  2  
 
 ####Aanwijzing integraal dagarrangement
 
-Als innovatieve vorm van kinderopvang als bedoeld in [artikel 1.87 van de wet](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) wordt aangewezen het bieden van kinderopvang in combinatie met onderwijs door een samenwerkingsverband in de vorm van een integraal dagarrangement.  
+Als innovatieve vorm van kinderopvang als bedoeld in [artikel 1.87 van de wet](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) wordt aangewezen het bieden van kinderopvang in combinatie met onderwijs door een samenwerkingsverband in de vorm van een integraal dagarrangement. 
 
 ### Artikel  3  
 
@@ -43,7 +43,7 @@ a. de onderwijsprestaties en voor het welbevinden van leerlingen;
 b. de mogelijkheden tot het combineren van arbeid en zorg en voor de arbeidsparticipatie van ouders; en  
 
 c. de tevredenheid van ouders, leerkrachten en de beroepskrachten van een kindercentrum.     
-3.  Met dit experiment wordt beoogd informatie te verzamelen over de gevolgen voor de kwaliteit van kinderopvang en over budgettaire en juridische mogelijkheden en belemmeringen bij het vormgeven van integrale dagarrangementen.   
+3.  Met dit experiment wordt beoogd informatie te verzamelen over de gevolgen voor de kwaliteit van kinderopvang en over budgettaire en juridische mogelijkheden en belemmeringen bij het vormgeven van integrale dagarrangementen.  
 
 ### Artikel  4  
 
@@ -64,7 +64,7 @@ e. een document waaruit blijkt dat is voldaan aan de wettelijke verplichtingen o
 
 f. een document waaruit blijkt dat de oudercommissie van het kindercentrum bij meerderheid van stemmen heeft ingestemd met deelname aan het experiment.     
 3.  Bij ministeriële regeling worden nadere eisen gesteld aan de inhoud van de bij de aanvraag over te leggen documenten, bedoeld in het tweede lid.   
-4.  Bij ministeriële regeling kan worden bepaald dat samenwerkingsverbanden van deelname aan dit experiment kunnen worden uitgesloten indien zij reeds deelnemen aan experimenten of subsidie ontvangen op grond van in die regeling genoemde andere regelingen.   
+4.  Bij ministeriële regeling kan worden bepaald dat samenwerkingsverbanden van deelname aan dit experiment kunnen worden uitgesloten indien zij reeds deelnemen aan experimenten of subsidie ontvangen op grond van in die regeling genoemde andere regelingen.  
 
 ### Artikel  5  
 
@@ -79,7 +79,7 @@ a. de periode of periodes waarbinnen een aanvraag wordt gedaan en de termijn of 
 
 b. het aantal samenwerkingsverbanden dat ten hoogste kan deelnemen aan het experiment; en  
 
-c. de procedure die bij de selectie van de aanvragen wordt gevolgd.     
+c. de procedure die bij de selectie van de aanvragen wordt gevolgd.    
 
 ### Artikel  6  
 
@@ -97,31 +97,31 @@ c. het ingediende financiële plan bij aanvang van het experiment niet gerealise
 
 a. nemen deel aan bijeenkomsten met andere deelnemers aan het experiment waarbij kennis en ervaring worden uitgewisseld;  
 
-b. werken mee aan door of namens Onze Minister ingestelde onderzoeken die zijn gericht op het verschaffen van inlichtingen aan Onze Minister ten behoeve van de doelstellingen van het experiment, genoemd in artikel 3.     
+b. werken mee aan door of namens Onze Minister ingestelde onderzoeken die zijn gericht op het verschaffen van inlichtingen aan Onze Minister ten behoeve van de doelstellingen van het experiment, genoemd in artikel 3.    
 
 ### Artikel  7  
 
 ####Looptijd experiment
 
-De looptijd van het experiment is ten hoogste drie jaar en zes maanden.  
+De looptijd van het experiment is ten hoogste drie jaar en zes maanden. 
 
 ### Artikel  8  
 
 ####Beëindiging experiment
 
-Indien een samenwerkingsverband de verplichtingen uit hoofde van dit besluit niet naleeft dan wel niet of niet langer voldoet aan de voorwaarden in de op dit besluit gebaseerde beschikking van Onze Minister, kan Onze Minister de deelname van het samenwerkingsverband aan dit experiment beëindigen.  
+Indien een samenwerkingsverband de verplichtingen uit hoofde van dit besluit niet naleeft dan wel niet of niet langer voldoet aan de voorwaarden in de op dit besluit gebaseerde beschikking van Onze Minister, kan Onze Minister de deelname van het samenwerkingsverband aan dit experiment beëindigen. 
 
 ### Artikel  9  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip en vervalt op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip en vervalt op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  10  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit experiment integraal dagarrangement.  
+Dit besluit wordt aangehaald als: Besluit experiment integraal dagarrangement. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -129,10 +129,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 14 september 2012  
 Beatrix  
 
-De Minister van Sociale Zaken en Werkgelegenheid, 
+De Minister van Sociale Zaken en Werkgelegenheid,  
 H. G. J. Kamp   
 
 de *twintigste* september 2012 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

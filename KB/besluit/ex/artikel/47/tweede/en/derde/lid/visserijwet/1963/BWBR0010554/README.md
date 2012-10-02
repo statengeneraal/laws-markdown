@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Landbouw, Natuurbeheer en Visserij van 18 juni 1999, No. TRCJZ/1999/5502, Directie Juridische Zaken;
 
-Gelet op artikel 47, tweede en derde lid, van de Visserijwet 1963;
+Gelet op [artikel 47, tweede en derde lid, van de Visserijwet 1963](../../../../../../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md);
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  
@@ -21,11 +21,11 @@ c. de Unie van Waterschappen: 1 lid;
 
 d. de Land- en Tuinbouworganisatie Nederland: 1 lid;  
 
-e. de Federatie Particulier Grondbezit: 1 lid.    
+e. de Federatie Particulier Grondbezit: 1 lid.   
 
 ### Artikel  2  
 
-Het besluit van 19 augustus 1994, houdende uitvoering van artikel 47, tweede en derde lid, van de Visserijwet 1963, wordt ingetrokken.  
+Het besluit van 19 augustus 1994, houdende uitvoering van artikel 47, tweede en derde lid, van de Visserijwet 1963, wordt ingetrokken. 
 
 ### Artikel  3  
 
@@ -35,7 +35,7 @@ Onze Minister van Landbouw, Natuurbeheer en Visserij is belast met de uitvoering
 
 's-Gravenhage 
 25 juni 1999  
-Beatrix  
+Beatrix   
 
 De Staatssecretaris van Landbouw, Natuurbeheer en Visserij, 
 G. H. Faber   
@@ -43,4 +43,4 @@ G. H. Faber
 de dertiende juli 1999 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

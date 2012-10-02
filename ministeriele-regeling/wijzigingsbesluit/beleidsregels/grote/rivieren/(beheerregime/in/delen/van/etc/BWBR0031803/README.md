@@ -8,22 +8,22 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Beleidsregels grote rivieren.   
+Wijzigt de Beleidsregels grote rivieren. 
 
 ### Artikel  II  
 
-In gevallen waarin een aanvraag om een watervergunning voor een handeling binnen een gebied, waarvoor ingevolge dit besluit een stroomvoerend regime wordt gewijzigd in bergend regime, op het tijdstip van inwerkingtreding van dit besluit nog niet tot een onherroepelijk besluit heeft geleid, wordt beslist overeenkomstig het gewijzigde regime.  
+In gevallen waarin een aanvraag om een watervergunning voor een handeling binnen een gebied, waarvoor ingevolge dit besluit een stroomvoerend regime wordt gewijzigd in bergend regime, op het tijdstip van inwerkingtreding van dit besluit nog niet tot een onherroepelijk besluit heeft geleid, wordt beslist overeenkomstig het gewijzigde regime. 
 
 ### Artikel  III  
 
-Dit besluit treedt in werking op het tijdstip dat het Besluit, houdende wijziging van het Besluit algemene regels ruimtelijke ordening en van het Besluit ruimtelijke ordening in verband met de toevoeging van enkele onderwerpen van nationaal ruimtelijk belang, in werking treedt, doch uiterlijk met ingang van 1 oktober 2012.  
+Dit besluit treedt in werking op het tijdstip dat het Besluit, houdende wijziging van het Besluit algemene regels ruimtelijke ordening en van het Besluit ruimtelijke ordening in verband met de toevoeging van enkele onderwerpen van nationaal ruimtelijk belang, in werking treedt, doch uiterlijk met ingang van 1 oktober 2012. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de kaartbladen, opgenomen in bijlage A, die ter inzage worden gelegd op het Ministerie van Infrastructuur en Milieu, Hoofddirectie Bestuurlijke en Juridische Zaken, en tevens raadpleegbaar zijn op en te downloaden van www.waterwet.nl.  
 
 De 
-Staatssecretaris van Infrastructuur en Milieu,
-J.J.Atsma  
+Staatssecretaris van Infrastructuur en Milieu, 
+J.J. Atsma    
 
-### Bijlage  A  
+### Bijlage A 
 
 ####, behorend bij artikel I  van het Besluit tot wijziging van de Beleidsregels grote rivieren (wijziging kaartbladen bijlage 1)
 
