@@ -10,27 +10,27 @@ Besluit:
 
 ####Indexering
 
-Onder consumentenprijsindex als bedoeld in [artikel 5, tweede lid, van de Les- en cursusgeldwet](../../../../../../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md), wordt verstaan de reeks ‘consumentenprijsindex alle huishoudens’, zoals die wordt berekend en gepubliceerd door het Centraal Bureau voor de Statistiek.  
+Onder consumentenprijsindex als bedoeld in [artikel 5, tweede lid, van de Les- en cursusgeldwet](../../../../../../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md), wordt verstaan de reeks ‘consumentenprijsindex alle huishoudens’, zoals die wordt berekend en gepubliceerd door het Centraal Bureau voor de Statistiek. 
 
 ### Artikel  2  
 
 ####Vaststelling lesgeld
 
-Het lesgeld, bedoeld in [artikel 5, tweede lid, van de Les- en cursusgeldwet](../../../../../../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md), wordt voor het cursusjaar 2013–2014 aan de hand van de consumentenprijsindex, bedoeld in artikel 1, vastgesteld op € 1.090,–.  
+Het lesgeld, bedoeld in [artikel 5, tweede lid, van de Les- en cursusgeldwet](../../../../../../../../../wet/les-/en/cursusgeldwet/BWBR0004188/README.md), wordt voor het cursusjaar 2013–2014 aan de hand van de consumentenprijsindex, bedoeld in artikel 1, vastgesteld op € 1.090,–. 
 
 ### Artikel  3  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 augustus 2014.  
+Deze regeling treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en vervalt met ingang van 1 augustus 2014. 
 
 ### Artikel  4  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling vaststelling lesgeld voor het cursusjaar 2013–2014.  
+Deze regeling wordt aangehaald als: Regeling vaststelling lesgeld voor het cursusjaar 2013–2014. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Onderwijs, Cultuur en Wetenschap,
-J.M. vanBijsterveldt-Vliegenthart   
+Minister van Onderwijs, Cultuur en Wetenschap, 
+J.M. van Bijsterveldt-Vliegenthart     
