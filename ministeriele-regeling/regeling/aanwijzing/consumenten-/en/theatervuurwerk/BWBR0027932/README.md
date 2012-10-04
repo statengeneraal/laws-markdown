@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder: *bijlage:* bij deze regeling behorende bijlage; *burstlading:* pyrotechnische stoffen of preparaten welke zijn bedoeld om het vuurwerk open te rijten en de effectlading te verspreiden en zo nodig te ontsteken; *compartiment:* afgesloten deel van vuurwerk dat een of meer pyrotechnische units bevat; *effectlading:* pyrotechnische stoffen of preparaten, anders dan een voortdrijvende lading of een burstlading, welke na ontsteking een geluid- of lichteffect veroorzaakt; *indoortheatervuurwerk:* theatervuurwerk dat geschikt is voor de realisatie van pyrotechnische speciale effecten in besloten ruimten; *knallading:*: pyrotechnische stoffen of preparaten met een knal als beoogd effect; *lanceerbuis:* voorwerp dat uitsluitend is geproduceerd om vuurwerk de lucht in te schieten; *lont:* onderdeel van het vuurwerk waardoor de gebruiker in staat wordt gesteld het vuurwerk tot ontbranding te brengen; *pyrotechnische stoffen of preparaten:* explosieve stoffen of explosieve mengsels van stoffen, die tot doel hebben warmte, licht, geluid, gas of rook dan wel een combinatie van dergelijke verschijnselen te produceren door middel van zichzelf onderhoudende exotherme chemische reacties; *pyrotechnische unit:* discrete eenheid die deel uitmaakt van het vuurwerk die, bij functioneren, brandt of explodeert om een visueel- of geluidseffect te geven; *sterren:* delen of onderdelen van pyrotechnische voorwerpen in vaste vorm in de vorm van een bol, cilinder of korrel die bij verbranding een lichtspoor of een spoor van vonken veroorzaken; *vonken:* hete deeltjes die een kortstondig lichteffect veroorzaken; *voortdrijvende lading:* pyrotechnische stoffen of preparaten die na ontsteking een gas produceren waarmee pyrotechnische units of het vuurwerk als geheel wordt voortgedreven zonder het vuurwerk uiteen te rijten; *zwart buskruit:* mengsel bestaande uit houtskool en natriumnitraat of kaliumnitraat met of zonder zwavel, met een maximale verontreiniging van 3% van de hoeveelheid mengsel.  
+In deze regeling wordt verstaan onder:  *bijlage:* bij deze regeling behorende bijlage;  *burstlading:* pyrotechnische stoffen of preparaten welke zijn bedoeld om het vuurwerk open te rijten en de effectlading te verspreiden en zo nodig te ontsteken;  *compartiment:* afgesloten deel van vuurwerk dat een of meer pyrotechnische units bevat;  *effectlading:* pyrotechnische stoffen of preparaten, anders dan een voortdrijvende lading of een burstlading, welke na ontsteking een geluid- of lichteffect veroorzaakt;  *indoortheatervuurwerk:* theatervuurwerk dat geschikt is voor de realisatie van pyrotechnische speciale effecten in besloten ruimten;  *knallading:*: pyrotechnische stoffen of preparaten met een knal als beoogd effect;  *lanceerbuis:* voorwerp dat uitsluitend is geproduceerd om vuurwerk de lucht in te schieten;  *lont:* onderdeel van het vuurwerk waardoor de gebruiker in staat wordt gesteld het vuurwerk tot ontbranding te brengen;  *pyrotechnische stoffen of preparaten:* explosieve stoffen of explosieve mengsels van stoffen, die tot doel hebben warmte, licht, geluid, gas of rook dan wel een combinatie van dergelijke verschijnselen te produceren door middel van zichzelf onderhoudende exotherme chemische reacties;  *pyrotechnische unit:* discrete eenheid die deel uitmaakt van het vuurwerk die, bij functioneren, brandt of explodeert om een visueel- of geluidseffect te geven;  *sterren:* delen of onderdelen van pyrotechnische voorwerpen in vaste vorm in de vorm van een bol, cilinder of korrel die bij verbranding een lichtspoor of een spoor van vonken veroorzaken;  *vonken:* hete deeltjes die een kortstondig lichteffect veroorzaken;  *voortdrijvende lading:* pyrotechnische stoffen of preparaten die na ontsteking een gas produceren waarmee pyrotechnische units of het vuurwerk als geheel wordt voortgedreven zonder het vuurwerk uiteen te rijten;  *zwart buskruit:* mengsel bestaande uit houtskool en natriumnitraat of kaliumnitraat met of zonder zwavel, met een maximale verontreiniging van 3% van de hoeveelheid mengsel. 
 
 ### Artikel  2  
 
@@ -28,12 +28,11 @@ a. het af te steken consumentenvuurwerk is in de lanceerbuis bevestigd, en
 
 b. de lanceerbuis is uitsluitend geschikt voor eenmalig gebruik.     
 5.  Consumentenvuurwerk dat als effect heeft het genereren en verspreiden van rook, is verboden.   
-6.  Vuurpijlen, zijnde consumentenvuurwerk, zijn voorzien van een vast verbonden stok voor vluchtstabilisatie.   
-7.  Het gewicht van onverpakt consumentenvuurwerk bedraagt per stuk maximaal 10 kilogram.   
+6.  Vuurpijlen, zijnde consumentenvuurwerk, zijn voorzien van een vast verbonden stok voor vluchtstabilisatie.  
 
 ### Artikel  3  
 
-Als fop- en schertsvuurwerk wordt aangewezen vuurwerk dat behoort tot een in bijlage II genoemde categorie en voldoet aan de in artikel 2, eerste lid, onder a, b en d, bedoelde eisen.  
+Als fop- en schertsvuurwerk wordt aangewezen vuurwerk dat behoort tot een in bijlage II genoemde categorie en voldoet aan de in artikel 2, eerste lid, onder a, b en d, bedoelde eisen. 
 
 ### Artikel  4  
 
@@ -45,29 +44,29 @@ b. de in het vuurwerk aanwezige pyrotechnische stoffen of preparaten overschrijd
 
 c. het vuurwerk voldoet aan de overige in de bijlage gestelde eisen.     
 2.  Theatervuurwerk bevat geen brandbare vloeistoffen.   
-3.  Theatervuurwerk bevat geen detonabele stoffen of voorwerpen.   
+3.  Theatervuurwerk bevat geen detonabele stoffen of voorwerpen.  
 
 ### Artikel  5  
 
-De [Regeling nadere eisen aan vuurwerk 2004](../../../../../../../ministeriele-regeling/regeling/nadere/eisen/aan/vuurwerk/2004/BWBR0016412/README.md) wordt ingetrokken.  
+De [Regeling nadere eisen aan vuurwerk 2004](../../../../../../../ministeriele-regeling/regeling/nadere/eisen/aan/vuurwerk/2004/BWBR0016412/README.md) wordt ingetrokken. 
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als: Regeling aanwijzing consumenten- en theatervuurwerk.  
+Deze regeling wordt aangehaald als: Regeling aanwijzing consumenten- en theatervuurwerk. 
 
 ### Artikel  7  
 
-Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 De regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 13 juli 2010   
 
 De 
-Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,
-J.C.Huizinga-Heringa  
+Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
+J.C. Huizinga-Heringa    
 
-### Bijlage  I  
+### Bijlage   I  
 
 ####Consumentenvuurwerk, met uitzondering van fop- en schertsvuurwerk (artikel 2 )
 
@@ -111,7 +110,7 @@ J.C.Huizinga-Heringa
 
 ### Bijlage  II  
 
-####fop- en schertsvuurwerk (artikel 3 )
+#### fop- en schertsvuurwerk (artikel 3 )
 
 | Nederlandse naam  | Engelse naam  | beoogde effect  | categorie  | maximaal toegestane gewicht aan pyrotechnische stoffen of preparaten  |
 |:---|:---|:---|:---|:---|
