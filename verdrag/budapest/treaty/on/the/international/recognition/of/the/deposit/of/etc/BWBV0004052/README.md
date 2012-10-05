@@ -10,7 +10,7 @@
 
 ####Establishment of a Union
 
-The States party to this Treaty (hereinafter called “the Contracting States”) constitute a Union for the international recognition of the deposit of microorganisms for the purposes of patent procedure.  
+The States party to this Treaty (hereinafter called “the Contracting States”) constitute a Union for the international recognition of the deposit of microorganisms for the purposes of patent procedure. 
 
 ### Article  2  
 
@@ -18,7 +18,7 @@ The States party to this Treaty (hereinafter called “the Contracting States”
 
 For the purposes of this Treaty and the Regulations: 
 
-(i) references to a “patent” shall be construed as references to patents for inventions, inventors' certificates, utility certificates, utility models, patents or certificates of addition, inventors' certificates of addition, and utility certificates of addition;  
+(i) references to a “patent” shall be construed as references to patents for inventions, inventor’' certificates, utility certificates, utility models, patents or certificates of addition, inventors’ certificates of addition, and utility certificates of addition;  
 
 (ii) “deposit of a microorganism” means, according to the context in which these words appear, the following acts effected in accordance with this Treaty and the Regulations: the transmittal of a microorganism to an international depositary authority, which receives and accepts it, or the storage of such a microorganism by the international depositary, or both the said transmittal and the said storage;  
 
@@ -42,11 +42,11 @@ For the purposes of this Treaty and the Regulations:
 
 (xii) “Organization” means the World Intellectual Property Organization;  
 
-(xiii) International Bureau” means the International Bureau of the Organization and, as long as it subsists, the United International Bureaux for the Protection of Intellectual Property (BIRPI);  
+(xiii) “International Bureau” means the International Bureau of the Organization and, as long as it subsists, the United International Bureaux for the Protection of Intellectual Property (BIRPI);  
 
 (xiv) “Director General” means the Director General of the Organization;  
 
-(xv) “Regulations” means the Regulations referred to in Article 12.    
+(xv) “Regulations” means the Regulations referred to in Article 12.   
 
 ### CHAPTER  I  
 
@@ -61,7 +61,7 @@ For the purposes of this Treaty and the Regulations:
 (a) Contracting States which allow or require the deposit of microorganisms for the purposes of patent procedure shall recognize, for such purposes, the deposit of a microorganism with any international depositary authority. Such recognition shall include the recognition of the fact and date of the deposit as indicated by the international depositary authority as well as the recognition of the fact that what is furnished as a sample is a sample of the deposited microorganism.  
 
 (b) Any Contracting State may require a copy of the receipt of the deposit referred to in subparagraph (a), issued by the international depositary authority.     
-(2).  As far as matters regulated in this Treaty and the Regulations are concerned, no Contracting State may require compliance with requirements different from or additional to those which are provided in this Treaty and the Regulations.   
+(2).   As far as matters regulated in this Treaty and the Regulations are concerned, no Contracting State may require compliance with requirements different from or additional to those which are provided in this Treaty and the Regulations.  
 
 ### Article  4  
 
@@ -73,7 +73,7 @@ For the purposes of this Treaty and the Regulations:
 
 (i) where such microorganism is no longer viable, or  
 
-(ii) where the furnishing of samples would require that they be sent abroad and the sending or the receipt of the samples abroad is prevented by export or import restrictions,   that authority shall, promptly after having noted its inability to furnish samples, notify the depositor of such inability, indicating the cause thereof, and the depositor, subject to paragraph (2) and as provided in this paragraph, shall have the right to make a new deposit of the microorganism which was originally deposited.  
+(ii)  where the furnishing of samples would require that they be sent abroad and the sending or the receipt of the samples abroad is prevented by export or import restrictions,   that authority shall, promptly after having noted its inability to furnish samples, notify the depositor of such inability, indicating the cause thereof, and the depositor, subject to paragraph (2) and as provided in this paragraph, shall have the right to make a new deposit of the microorganism which was originally deposited.  
 
 (b) The new deposit shall be made with the international depositary authority with which the original deposit was made, provided that: 
 
@@ -86,13 +86,13 @@ For the purposes of this Treaty and the Regulations:
 (d) Subject to subparagraphs (a) to (c) and (e), the new deposit shall be treated as if it had been made on the date on which the original deposit was made where all the preceding statements concerning the viability of the originally deposited microorganism indicated that the microorganism was viable and where the new deposit was made within three months after the date on which the depositor received the notification referred to in subparagraph (a).  
 
 (e) Where subparagraph (b) (i) applies and the depositor does not receive the notification referred to in subparagraph (a) within six months after the date on which the termination, limitation or discontinuance referred to in subparagraph (b) (i) was published by the International Bureau, the three-month time limit referred to in subparagraph (d) shall be counted from the date of the said publication.     
-(2).  The right referred to in paragraph (1) (a) shall not exist where the deposited microorganism has been transferred to another international depositary authority as long as that authority is in a position to furnish samples of such microorganism.   
+(2).  The right referred to in paragraph (1) (a) shall not exist where the deposited microorganism has been transferred to another international depositary authority as long as that authority is in a position to furnish samples of such microorganism.  
 
 ### Article  5  
 
 ####Export and Import Restrictions
 
-Each Contracting State recognizes that it is highly desirable that, if and to the extent to which the export from or import into its territory of certain kinds of microorganisms is restricted, such restriction should apply to microorganisms deposited, or destined for deposit, under this Treaty only where the restriction is necessary in view of national security or the dangers for health or the environment.  
+Each Contracting State recognizes that it is highly desirable that, if and to the extent to which the export from or import into its territory of certain kinds of microorganisms is restricted, such restriction should apply to microorganisms deposited, or destined for deposit, under this Treaty only where the restriction is necessary in view of national security or the dangers for health or the environment. 
 
 ### Article  6  
 
@@ -120,7 +120,7 @@ i) have a continuous existence;
 
 (i) where an international depositary authority discontinues, temporarily or definitively, the performance of its functions in respect of deposited microorganisms or refuses to accept any of the kinds of microorganisms which it should accept under the assurances furnished;  
 
-(ii) in case of the termination or limitation of the status of international depositary authority of an international depositary authority.     
+(ii) in case of the termination or limitation of the status of international depositary authority of an international depositary authority.    
 
 ### Article  7  
 
@@ -136,7 +136,7 @@ i) have a continuous existence;
 (a) If the Director General finds that the communication includes the required declaration and that all the required information has been received, the communication shall be promptly published by the International Bureau.  
 
 (b) The status of international depositary authority shall be acquired as from the date of publication of the communication or, where a date has been indicated under paragraph (1) (b) and such date is later than the date of publication of the communication, as from such date.     
-(3).  The details of the procedure under paragraphs (1) and (2) are provided in the Regulations.   
+(3).  The details of the procedure under paragraphs (1) and (2) are provided in the Regulations.  
 
 ### Article  8  
 
@@ -144,7 +144,7 @@ i) have a continuous existence;
 
 (1).  
 
-(a) Any Contracting State or any intergovernmental industrial property organization may request the Assembly to terminate, or to limit to certain kinds of microorganisms, any authority's status of international depositary authority on the ground that the requirements specified in Article 6 have not been or are no longer complied with. However, such a request may not be made by a Contracting State or intergovernmental industrial property organization in respect of an international depositary authority for which it has made the declaration referred to in Article 7 (1) (a).  
+(a) Any Contracting State or any intergovernmental industrial property organization may request the Assembly to terminate, or to limit to certain kinds of microorganisms, any authority’s status of international depositary authority on the ground that the requirements specified in Article 6 have not been or are no longer complied with. However, such a request may not be made by a Contracting State or intergovernmental industrial property organization in respect of an international depositary authority for which it has made the declaration referred to in Article 7 (1) (a).  
 
 (b) Before making the request under subparagraph (a), the Contracting State or the intergovernmental industrial property organization shall, through the intermediary of the Director General, notify the reasons for the proposed request to the Contracting State or the intergovernmental industrial property organization which has made the communication referred to in Article 7 (1) so that that State or organization may, within six months from the date of the said notification, take appropriate action to obviate the need for making the proposed request.  
 
@@ -154,7 +154,7 @@ i) have a continuous existence;
 (a) The Contracting State or intergovernmental industrial property organization having made the declaration referred to in Article 7 (1) (a) may, by a communication addressed to the Director General, withdraw its declaration either entirely or in respect only of certain kinds of microorganisms and in any event shall do so when and to the extent that its assurances are no longer applicable.  
 
 (b) Such a communication shall, from the date provided for in the Regulations, entail, where it relates to the entire declaration, the termination of the status of international depositary authority or, where it relates only to certain kinds of microorganisms, a corresponding limitation of such status.     
-(3).  The details of the procedure under paragraphs (1) and (2) are provided in the Regulations.   
+(3).  The details of the procedure under paragraphs (1) and (2) are provided in the Regulations.  
 
 ### Article  9  
 
@@ -164,15 +164,15 @@ i) have a continuous existence;
 
 (a) Any intergovernmental organization to which several States have entrusted the task of granting regional patents and of which all the member States are members of the International (Paris) Union for the Protection of Industrial Property may file with the Director General a declaration that it accepts the obligation of recognition provided for in Article 3 (1) (a), the obligation concerning the requirements referred to in Article 3 (2) and all the effects of the provisions of this Treaty and the Regulations applicable to intergovernmental industrial property organizations. If filed before the entry into force of this Treaty according to Article 16 (1), the declaration referred to in the preceding sentence shall become effective on the date of the said entry into force. If filed after such entry into force, the said declaration shall become effective three months after its filing unless a later date has been indicated in the declaration. In the latter case, the declaration shall take effect on the date thus indicated.  
 
-(b) The said organization shall have the right provided for in Article 3 (1) (b).     
-(2).  Where any provision of this Treaty or of the Regulations affecting intergovernmental industrial property organizations is revised or amended, any intergovernmental industrial property organization may withdraw its declaration referred to in paragraph (1) by notification addressed to the Director General. The withdrawal shall take effect: 
+(b)  The said organization shall have the right provided for in Article 3 (1) (b).     
+(2).   Where any provision of this Treaty or of the Regulations affecting intergovernmental industrial property organizations is revised or amended, any intergovernmental industrial property organization may withdraw its declaration referred to in paragraph (1) by notification addressed to the Director General. The withdrawal shall take effect: 
 
 (i) where the notification has been received before the date on which the revision or amendment enters into force, on that date;  
 
 (ii) where the notification has been received after the date referred to in (i), on the date indicated in the notification or, in the absence of such indication, three months after the date on which the notification was received.     
-(3).  In addition to the case referred to in paragraph (2), any intergovernmental industrial property organization may withdraw its declaration referred to in paragraph (1) (a) by notification addressed to the Director General. The withdrawal shall take effect two years after the date on which the Director General has received the notification. No notification of withdrawal under this paragraph shall be receivable during a period of five years from the date on which the declaration took effect.   
+(3).   In addition to the case referred to in paragraph (2), any intergovernmental industrial property organization may withdraw its declaration referred to in paragraph (1) (a) by notification addressed to the Director General. The withdrawal shall take effect two years after the date on which the Director General has received the notification. No notification of withdrawal under this paragraph shall be receivable during a period of five years from the date on which the declaration took effect.   
 (4).  The withdrawal referred to in paragraph (2) or (3) by an intergovernmental industrial property organization whose communication under Article 7 (1) has led to the acquisition of the status of international depositary authority by a depositary institution shall entail the termination of such status one year after the date on which the Director General has received the notification of withdrawal.   
-(5).  Any declaration referred to in paragraph (1) (a), notification of withdrawal referred to in paragraph (2) or (3), assurances furnished under Article 6 (1), second sentence, and included in a declaration made in accordance with Article 7 (1) (a), request made under Article 8 (1) and communication of withdrawal referred to in Article 8 (2) shall require the express previous approval of the supreme governing organ of the intergovernmental industrial property organization whose members are all the States members of the said organization and in which decisions are made by the official representatives of the governments of such States.   
+(5).  Any declaration referred to in paragraph (1) (a), notification of withdrawal referred to in paragraph (2) or (3), assurances furnished under Article 6 (1), second sentence, and included in a declaration made in accordance with Article 7 (1) (a), request made under Article 8 (1) and communication of withdrawal referred to in Article 8 (2) shall require the express previous approval of the supreme governing organ of the intergovernmental industrial property organization whose members are all the States members of the said organization and in which decisions are made by the official representatives of the governments of such States.  
 
 ### CHAPTER  II  
 
@@ -223,19 +223,19 @@ i) have a continuous existence;
 
 (a) Subject to Articles 8 (1) (c), 12 (4) and 14 (2) (b), the decisions of the Assembly shall require a majority of the votes cast.  
 
-(b) stentions shall not be considered as votes.     
+(b) Abstentions shall not be considered as votes.     
 (7).  
 
 (a) The Assembly shall meet once in every second calendar year in ordinary session upon convocation by the Director General, preferably during the same period and at the same place as the General Assembly of the Organization.  
 
 (b) The Assembly shall meet in extraordinary session upon convocation by the Director General, either on his own initiative or at the request of one-fourth of the Contracting States.     
-(8).  The Assembly shall adopt its own rules of procedure.   
+(8).   The Assembly shall adopt its own rules of procedure.  
 
 ### Article  11  
 
 ####International Bureau
 
-(1).  The International Bureau shall: 
+(1).   The International Bureau shall: 
 
 (i) perform the administrative tasks concerning the Union, in particular such tasks as are specifically assigned to it under this Treaty and the Regulations or by the Assembly;  
 
@@ -255,13 +255,13 @@ i) have a continuous existence;
 
 (c) The Director General and persons designated by him shall take part, without the right to vote, in the discussions at revision conferences.  
 
-(d) The Director General, or a staff member designated by him, shall be ex officio secretary of any revision conference.     
+(d) The Director General, or a staff member designated by him, shall be ex officio secretary of any revision conference.    
 
 ### Article  12  
 
 ####Regulations
 
-(1).  The Regulations provide rules concerning: 
+(1).   The Regulations provide rules concerning: 
 
 (i) matters in respect of which this Treaty expressly refers to the Regulations or expressly provides that they are or shall be prescribed;  
 
@@ -275,7 +275,7 @@ i) have a continuous existence;
 (a) Subject to subparagraph (b), adoption of any amendment of the Regulations shall require two-thirds of the votes cast.  
 
 (b) Adoption of any amendment concerning the furnishing of samples of deposited microorganisms by the international depositary authorities shall require that no Contracting State vote against the proposed amendment.     
-(5).  In the case of conflict between the provisions of this Treaty and those of the Regulations, the provisions of this Treaty shall prevail.   
+(5).   In the case of conflict between the provisions of this Treaty and those of the Regulations, the provisions of this Treaty shall prevail.  
 
 ### CHAPTER  III  
 
@@ -287,7 +287,7 @@ i) have a continuous existence;
 
 (1).  This Treaty may be revised from time to time by conferences of the Contracting States.   
 (2).  The convocation of any revision conference shall be decided by the Assembly.   
-(3).  Articles 10 and 11 may be amended either by a revision conference or according to Article 14.   
+(3).  Articles 10 and 11 may be amended either by a revision conference or according to Article 14.  
 
 ### Article  14  
 
@@ -302,14 +302,14 @@ i) have a continuous existence;
 
 (a) Amendments to the Articles referred to in paragraph (1) shall be adopted by the Assembly.  
 
-(b) Adoption of any amendment to Article 10 shall require fourfifths of the votes cast; adoption of any amendment to Article 11 shall require three-fourths of the votes cast.     
+(b) Adoption of any amendment to Article 10 shall require four-fifths of the votes cast; adoption of any amendment to Article 11 shall require three-fourths of the votes cast.     
 (3).  
 
 (a) Any amendment to the Articles referred to in paragraph (1) shall enter into force one month after written notifications of acceptance, effected in accordance with their respective constitutional processes, have been received by the Director General from three-fourths of the Contracting States members of the Assembly at the time the Assembly adopted the amendment.  
 
 (b) Any amendment to the said Articles thus accepted shall bind all the Contracting States which were Contracting States at the time the amendment was adopted by the Assembly, provided that any amendment creating financial obligations for the said Contracting States or increasing such obligations shall bind only those Contracting States which have notified their acceptance of such amendment.  
 
-(c) Any amendment which has been accepted and which has entered into force in accordance with subparagraph (a) shall bind all States which become Contracting States after the date on which the amendment was adopted by the Assembly.     
+(c) Any amendment which has been accepted and which has entered into force in accordance with subparagraph (a) shall bind all States which become Contracting States after the date on which the amendment was adopted by the Assembly.    
 
 ### CHAPTER  IV  
 
@@ -324,14 +324,14 @@ i) have a continuous existence;
 (i) signature followed by the deposit of an instrument of ratication, or  
 
 (ii) deposit of an instrument of accession.     
-(2).  Instruments of ratification or accession shall be deposited with the Director General.   
+(2).  Instruments of ratification or accession shall be deposited with the Director General.  
 
 ### Article  16  
 
 ####Entry Into Force of the Treaty
 
 (1).  This Treaty shall enter into force, with respect to the first five States which have deposited their instruments of ratification or accession, three months after the date on which the fifth instrument of ratification or accession has been deposited.   
-(2).  This Treaty shall enter into force with respect to any other State three months after the date on which that State has deposited its instrument of ratification or accession unless a later date has been indicated in the instrument of ratification or accession. In the latter case, this Treaty shall enter into force with respect to that State on the date thus indicated.   
+(2).  This Treaty shall enter into force with respect to any other State three months after the date on which that State has deposited its instrument of ratification or accession unless a later date has been indicated in the instrument of ratification or accession. In the latter case, this Treaty shall enter into force with respect to that State on the date thus indicated.  
 
 ### Article  17  
 
@@ -340,7 +340,7 @@ i) have a continuous existence;
 (1).  Any Contracting State may denounce this Treaty by notification addressed to the Director General.   
 (2).  Denunciation shall take effect two years after the day on which the Director General has received the notification.   
 (3).  The right of denunciation provided for in paragraph (1) shall not be exercised by any Contracting State before the expiration of five years from the date on which it becomes party to this Treaty.   
-(4).  The denunciation of this Treaty by a Contracting State that has made a declaration referred to in Article 7 (1) (a) with respect to a depositary institution which thus acquired the status of international depositary authority shall entail the termination of such status one year after the day on which the Director General received the notification referred to in paragraph (1).   
+(4).  The denunciation of this Treaty by a Contracting State that has made a declaration referred to in Article 7 (1) (a) with respect to a depositary institution which thus acquired the status of international depositary authority shall entail the termination of such status one year after the day on which the Director General received the notification referred to in paragraph (1).  
 
 ### Article  18  
 
@@ -353,7 +353,7 @@ i) have a continuous existence;
 (b) Official texts of this Treaty shall be established by the Director General, after consultation with the interested Governments and within two months from the date of signature of this Treaty, in the other languages in which the Convention Etablishing the World Intellectual Property Organization was signed.  
 
 (c) Official texts of this Treaty shall be established by the tor General, after consultation with the interested Governments, in the Arabic, German, Italian, Japanese and Portuguese languages, and such other languages as the Assembly may designate.     
-(2).  This Treaty shall remain open for signature at Budapest until December 31, 1977.   
+(2).  This Treaty shall remain open for signature at Budapest until December 31, 1977.  
 
 ### Article  19  
 
@@ -362,7 +362,7 @@ i) have a continuous existence;
 (1).  The original of this Treaty, when no longer open for signature, shall be deposited with the Director General.   
 (2).  The Director General shall transmit two copies, certified by him, of this Treaty and the Regulations to the Governments of all the States referred to in Article 15 (1), to the intergovernmental organizations that may file a declaration under Article 9 (1) (a) and, on request, to the Government of any other State.   
 (3).  The Director General shall register this Treaty with the Secretariat of the United Nations.   
-(4).  The Director General shall transmit two copies, certified by him, of any amendment to this Treaty and to the Regulations to all Contracting States, to all intergovernmental industrial property organizations and, on request, to the Government of any other State and to any other intergovernmental organization that may file a declaration under Article 9(1) (a).   
+(4).  The Director General shall transmit two copies, certified by him, of any amendment to this Treaty and to the Regulations to all Contracting States, to all intergovernmental industrial property organizations and, on request, to the Government of any other State and to any other intergovernmental organization that may file a declaration under Article 9(1) (a).  
 
 ### Article  20  
 
@@ -386,7 +386,7 @@ The Director General shall notify the Contracting States, the intergovernmental 
 
 (viii) the dates on which amendments to the Treaty or the Regulations enter into force;  
 
-(ix) denunciations received under Article 17.    
+(ix) denunciations received under Article 17.   
 
 IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed this Treaty. DONE at Budapest, this twenty-eighth day of April, one thousand nine hundred and seventy-seven.  
 
@@ -398,7 +398,7 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed 
 
 1.1.   *“Treaty”*  In these Regulations, the word “Treaty” means the Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure.   
 1.2.   *“Article”*  In these Regulations, the word “Article” refers to the specified Article of the Treaty.   
-1.3.   *“Signature”*  In these Regulations, whenever the word “signature” is used, it shall be understood that, where the law of the State on the territory of which an international depositary authority is located requires the use of a seal instead of a signature, the said word shall mean “seal” for the purposes of that authority.   
+1.3.   *“Signature”*  In these Regulations, whenever the word “signature” is used, it shall be understood that, where the law of the State on the territory of which an international depositary authority is located requires the use of a seal instead of a signature, the said word shall mean “seal” for the purposes of that authority.  
 
 ### Rule  2  
 
@@ -410,7 +410,7 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed 
 (i) the staff and facilities of any international depositary authority must enable the said authority to store the deposited microorganisms in a manner which ensures that they are kept able and uncontaminated;  
 
 (ii) any international depositary authority must, for the storage of microorganisms, provide for sufficient safety measures to minimize the risk of losing microorganisms deposited with it.     
-2.3.   *Furnishing of Samples*  The requirements referred to in Article 6 (2) (viii) shall include in particular the requirement that any international depositary authority must furnish samples of deposited microorganisms in an expeditious and proper manner.   
+2.3.   *Furnishing of Samples*  The requirements referred to in Article 6 (2) (viii) shall include in particular the requirement that any international depositary authority must furnish samples of deposited microorganisms in an expeditious and proper manner.  
 
 ### Rule  3  
 
@@ -424,7 +424,7 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed 
 
 (i) indicate the name and address of the depositary institution to which the communication relates;  
 
-(ii) contain detailed information as to the said institution's capacity to comply with the requirements specified in Article 6 (2), including information on its legal status, scientific standing, staff and facilities;  
+(ii) contain detailed information as to the said institution’s capacity to comply with the requirements specified in Article 6 (2), including information on its legal status, scientific standing, staff and facilities;  
 
 (iii) where the said depositary institution intends to accept for deposit only certain kinds of microorganisms, specify such kinds;  
 
@@ -505,7 +505,7 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed 
 
 (a) If any international depositary authority refuses to accept for deposit any of the kinds of microorganisms which it should accept under the assurances furnished, the Contracting State or intergovernmental industrial property organization which, in respect of that authority, has made the declaration referred to in Article 7 (1) (a) shall promptly notify the Director General of the relevant facts and the measures which have been taken.  
 
-(b) The Director General shall promptly notify the other Contracting States and intergovernmental industrial property organizations of the notification received under paragraph (a); the notification of the Director General and the notification received by him shall be promptly published by the International Bureau.     
+(b) The Director General shall promptly notify the other Contracting States and intergovernmental industrial property organizations of the notification received under paragraph (a); the notification of the Director General and the notification received by him shall be promptly published by the International Bureau.    
 
 ### Rule  6  
 
@@ -528,7 +528,7 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed 
 (b) It is strongly recommended that the written statement referred to in paragraph (a) should contain the scientific description and/or proposed taxonomic designation of the deposited microorganism.     
 6.2.   *New Deposit*  
 
-(a) Subject to paragraph (b), in the case of a new deposit made under Article 4, the microorganism transmitted by the depositor to the international depositary authority shall be accompanied by a copy of the receipt of the original deposit, a copy of the most recent tement concerning the viability of the microorganism originally deposited indicating that the microorganism is viable and a written tement bearing the signature of the depositor and containing: 
+(a) Subject to paragraph (b), in the case of a new deposit made under Article 4, the microorganism transmitted by the depositor to the international depositary authority shall be accompanied by a copy of the receipt of the original deposit, a copy of the most recent statement concerning the viability of the microorganism originally deposited indicating that the microorganism is viable and a written statement bearing the signature of the depositor and containing: 
 
 (i) indications referred to in Rule 6.1 (a) (i) to (v);  
 
@@ -536,12 +536,12 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed 
 
 (iii) where a scientific description and/or proposed taxonomic designation was/were indicated in connection with the original deposit, the most recent scientific description and/or proposed taxonomic designation as existing on the date relevant under Article 4 (1) (e).    
 
-(b) Where the new deposit is made with the international depositary authority with which the original deposit was made, paragraph (a) (i) shall not apply.     
+(b)  Where the new deposit is made with the international depositary authority with which the original deposit was made, paragraph (a) (i) shall not apply.     
 6.3.   *Requirements of the International Depositary Authority*  
 
 (a) Any international depositary authority may require that the microorganism be deposited in the form and quantity necessary for the purposes of the Treaty and these Regulations and be accompanied by a form established by such authority and duly completed by the depositor for the purposes of the administrative procedures of such authority.  
 
-(b) Any international depositary authority shall communicate any such requirements and any amendments thereof to the International Bureau.     
+(b) Any international depositary authority shall communicate any such requirements and any amendments thereof to the International Bureau.    
 
 ### Rule  7  
 
@@ -584,7 +584,7 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed 
 (ii) the name and address of the international depositary authority from which the transfer was effected;  
 
 (iii) the accession number given by the international depositary authority from which the transfer was effected.     
-7.6.   *Communication of the Scientific Description and/or Proposed Taxonomic Designation*  On request of any party entitled to receive a sample of the deposited microorganism under Rules 11.1, 11.2 or 11.3, the international depositary authority shall communicate to such party the scientific description and/or proposed taxonomic designation referred to in Rules 7.3 (vi) or 7.4 (iii).   
+7.6.   *Communication of the Scientific Description and/or Proposed Taxonomic Designation*  On request of any party entitled to receive a sample of the deposited microorganism under Rules 11.1, 11.2 or 11.3, the international depositary authority shall communicate to such party the scientific description and/or proposed taxonomic designation referred to in Rules 7.3 (vi) or 7.4 (iii).  
 
 ### Rule  8  
 
@@ -603,14 +603,14 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed 
 (iii) the scientific description and/or proposed taxonomic designation of the microorganism;  
 
 (iv) in the case of an amendment, the last preceding scientific description and/ or proposed taxonomic designation.       
-8.2.   *Attestation*  The international depositary authority shall, on the request of the depositor having made the communication referred to in Rule 8.1, deliver to him an attestation showing the data referred to in Rule 8.1 (b) (i) tot (iv) and the date of receipt of such communication.   
+8.2.   *Attestation*  The international depositary authority shall, on the request of the depositor having made the communication referred to in Rule 8.1, deliver to him an attestation showing the data referred to in Rule 8.1 (b) (i) tot (iv) and the date of receipt of such communication.  
 
 ### Rule  9  
 
 ####Storage of Microorganisms
 
 9.1.   *Duration of the Storage*  Any microorganism deposited with an international depositary authority shall be stored by such authority, with all the care necessary to keep it viable and uncontaminated, for a period of at least five years after the most recent request for the furnishing of a sample of the deposited microorganisms was received by the said authority and, in any case, for a period of at least 30 years after the date of the deposit.   
-9.2.   *Secrecy*  No international depositary authority shall give information to anyone whether a microorganism has been deposited with it under the Treaty. Furthermore, it shall not give any information to anyone concerning any microorganism deposited with it under the Treaty except to an authority, natural person or legal entity which is entitled to obtain a sample of the said microorganism under Rule 11 and subject to the same conditions as provided in that Rule.   
+9.2.   *Secrecy*  No international depositary authority shall give information to anyone whether a microorganism has been deposited with it under the Treaty. Furthermore, it shall not give any information to anyone concerning any microorganism deposited with it under the Treaty except to an authority, natural person or legal entity which is entitled to obtain a sample of the said microorganism under Rule 11 and subject to the same conditions as provided in that Rule.  
 
 ### Rule  10  
 
@@ -629,13 +629,13 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed 
 
 (i) to the depositor, promptly after any deposit referred to in Rule 6 or any transfer referred to in Rule 5.1;  
 
-(ii) to the depositor, on his request, at any time after the deposit or transfer;  
+(ii)  to the depositor, on his request, at any time after the deposit or transfer;  
 
 (iii) to any industrial property office, other authority, natural person or legal entity, other than the depositor, two whom or to which samples of the deposited microorganism were furnished in conformity with Rule 11, on his or its request, together with or at any time after such furnishing of samples.    
 
-(b) The viability statement shall indicate whether the microorganism is or is no longer viable and shall contain: 
+(b)  The viability statement shall indicate whether the microorganism is or is no longer viable and shall contain: 
 
-(i) the name and address of the international depositary authorty issuing it;  
+(i)  the name and address of the international depositary authorty issuing it;  
 
 (ii) the name and address of the depositor;  
 
@@ -651,7 +651,7 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed 
 
 (d) As to form, languages and signature, Rule 7.2 shall apply, *mutatis mutandis,* to the viability statement.  
 
-(e) In the case of paragraph (a) (i) or where the request is made by an industrial property office, the issuance of the viability statement shall be free of charge. Any fee payable under Rule 12.1 (a) (iii) in respect of any other viability statement shall be chargeable to the party requesting the statement and shall be paid before or at the time of making the request.     
+(e) In the case of paragraph (a) (i) or where the request is made by an industrial property office, the issuance of the viability statement shall be free of charge. Any fee payable under Rule 12.1 (a) (iii) in respect of any other viability statement shall be chargeable to the party requesting the statement and shall be paid before or at the time of making the request.    
 
 ### Rule  11  
 
@@ -679,14 +679,14 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed 
 
 (ii) that, except where the second phrase of (iii) applies, publication for the purposes of patent procedure has been effected by that office;  
 
-(iii) *either* that the certified party has a right to a sample of the microorganism under the law governing patent procedure before that office and, where the said law makes the said right dependent on the fulfillment of certain conditions, that that office is satisfied that such conditions have actually been fulfilled *or* that the certified party has affixed his signature on a form before that office and that, as a consequence of the signature of the said form, the conditions for furnishing a sample to the certified party are deemed to be fulfilled in accordance with the law governing patent procedure before that office; where the certified party has the said right under the said law prior to publication for the purposes of patent procedure by the said office and such publication has not yet been effected, the certification shall expressly state so and shall indicate, by citing it in the customary manner, the applicable provision of the said law, including any court decision.    
+(iii)  *either* that the certified party has a right to a sample of the microorganism under the law governing patent procedure before that office and, where the said law makes the said right dependent on the fulfillment of certain conditions, that that office is satisfied that such conditions have actually been fulfilled *or* that the certified party has affixed his signature on a form before that office and that, as a consequence of the signature of the said form, the conditions for furnishing a sample to the certified party are deemed to be fulfilled in accordance with the law governing patent procedure before that office; where the certified party has the said right under the said law prior to publication for the purposes of patent procedure by the said office and such publication has not yet been effected, the certification shall expressly state so and shall indicate, by citing it in the customary manner, the applicable provision of the said law, including any court decision.    
 
-(b) In respect of patents granted and published by any industrial property office, such office may from time to time communicate to any international depositary authority lists of the accession numbers given by that authority to the deposits of the microorganisms referred to in the said patents. The international depositary authority shall, on the request of any authority, natural person or legal entity (hereinafter referred to as “the requesting party”), furnish to it a sample of any microorganism where the accession number has been so communicated. In respect of deposited microorganisms whose accession numbers have been so communicated, the said office shall e required to provide the certification referred to in Rule 11.3 (a).     
+(b) In respect of patents granted and published by any industrial property office, such office may from time to time communicate to any international depositary authority lists of the accession numbers given by that authority to the deposits of the microorganisms referred to in the said patents. The international depositary authority shall, on the request of any authority, natural person or legal entity (hereinafter referred to as “the requesting party”), furnish to it a sample of any microorganism where the accession number has been so communicated. In respect of deposited microorganisms whose accession numbers have been so communicated, the said office shall not be required to provide the certification referred to in Rule 11.3 (a).     
 11.4.   *Common Rules*  
 
 (a) Any request, declaration, certification or communication referred to in Rules 11.1, 11.2 and 11.3 shall be 
 
-(i) in English, French, Russian or Spanish where it is addressed to an international depositary authority whose official language is or whose official languages include English, French, an or Spanish, respectively, provided that, where it must n Russian or Spanish, it may be instead filed in English or French and, if it is so filed, the International Bureau shall, on the request of the interested party referred to in the said Rules or the international depositary authority, establish, promptly and free of charge, a certified translation into Russian or sh;  
+(i) in English, French, Russian or Spanish where it is addressed to an international depositary authority whose official language is or whose official languages include English, French, an or Spanish, respectively, provided that, where it must be in Russian or Spanish, it may be instead filed in English or French and, if it is so filed, the International Bureau shall, on the request of the interested party referred to in the said Rules or the international depositary authority, establish, promptly and free of charge, a certified translation into Russian or Spanish;  
 
 (ii) in all other cases, it shall be in English or French, provided that it may be, instead, in the official language or one of the official languages of the international depositary authority.    
 
@@ -714,7 +714,7 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed 
 
 (g) The international depositary authority having furnished a sample to any interested party other than the depositor shall promptly notify the depositor in writing of that fact, as well as of the date on which the said sample was furnished and of the name and address of the industrial property office, of the authorized party, of the certified party or of the requesting party, to whom or to which the sample was furnished. The said notification shall be accompanied by a copy of the pertinent request, of any declarations submitted under Rules 11.1 or 11.2 (ii) in connection with the said request, and of any forms requests bearing the signature of the requesting party in accordance with Rule 11.3.  
 
-(h) The furnishing of samples referred to in Rule 11.1 shall be free of charge. Where the furnishing of samples is made under Rule 11.2 or 11.3, any fee payable under Rule 12.1 (a) (iv) shall be argeable to the depositor, to the authorized party, to the certified party or to the requesting party, as the case may be, and shall be paid before or at the time of making the said request.     
+(h) The furnishing of samples referred to in Rule 11.1 shall be free of charge. Where the furnishing of samples is made under Rule 11.2 or 11.3, any fee payable under Rule 12.1 (a) (iv) shall be argeable to the depositor, to the authorized party, to the certified party or to the requesting party, as the case may be, and shall be paid before or at the time of making the said request.    
 
 ### Rule  12  
 
@@ -741,18 +741,18 @@ IN WITNESS WHEREOF, the undersigned, being duly authorized thereto, have signed 
 
 (b) The Director General shall promptly notify all Contracting States and intergovernmental industrial property organizations of any notification received under paragraph (a) and of its effective date under paragraph (c); the notification of the Director General and the notification received by him shall be promptly published by the International Bureau.  
 
-(c) Any new fees shall apply as of the date indicated under paragraph (a), provided that, where the change consists of an increase in the amounts of the fees or where no date is so indicated, the new fees shall apply as from the thirtieth day following the publication of the change by the International Bureau.     
+(c) Any new fees shall apply as of the date indicated under paragraph (a), provided that, where the change consists of an increase in the amounts of the fees or where no date is so indicated, the new fees shall apply as from the thirtieth day following the publication of the change by the International Bureau.    
 
 ### Rule  13  
 
 ####Publication by the International Bureau
 
 13.1.  
-### *Form of Publication* 
+###*Form of Publication*
 
 Any publication by the International Bureau referred to in the Treaty or these Regulations shall be made on paper or in electronic form.   
 13.2.  
-### *Contents* 
+###*Contents*
 
 a) At least once a year, preferably in the first quarter of the year, an up-to-date list of the international depositary authorities shall be published, indicating in respect of each such authority the kinds of micro-organisms that may be deposited with it and the amount of the fees charged by it.  
 
@@ -766,13 +766,13 @@ b) Full information on any of the following facts shall be published once, promp
 
 (iv) any change in the fees charged by an international depositary authority;  
 
-(v) any requirements communicated in accordance with Rule 6.3 (b) and any amendments thereof.       
+(v) any requirements communicated in accordance with Rule 6.3 (b) and any amendments thereof.     
 
 ### Rule  14  
 
 ####Expenses of Delegations
 
-14.1.   *Coverage of Expenses*  The expenses of each delegation participating in any session of the Assembly and in any committee, working group or other meeting dealing with matters of concern to the Union shall be borne by the State or organization which has appointed it.   
+14.1.   *Coverage of Expenses*  The expenses of each delegation participating in any session of the Assembly and in any committee, working group or other meeting dealing with matters of concern to the Union shall be borne by the State or organization which has appointed it.  
 
 ### Rule  15  
 
@@ -780,9 +780,9 @@ b) Full information on any of the following facts shall be published once, promp
 
 15.1.   *Voting by Correspondence*  
 
-(a) In the case provided for in Article 10 (5) (b), the Director General shall communicate any decision of the Assembly (other than decisions relating to the Assembly's own procedure) to the Contracting States which were not represented when the decision was made and shall invite them to express in writing their vote or abstention within a period of three months from the date of the communication.  
+(a) In the case provided for in Article 10 (5) (b), the Director General shall communicate any decision of the Assembly (other than decisions relating to the Assembly’s own procedure) to the Contracting States which were not represented when the decision was made and shall invite them to express in writing their vote or abstention within a period of three months from the date of the communication.  
 
-(b) If, at the expiration of the said period, the number of Contracting States having thus expressed their vote or abstention attains the number of Contracting States which was lacking for attaining the quorum when the decision was made, that decision shall take effect provided that at the same time the required majority still obtains.     
+(b) If, at the expiration of the said period, the number of Contracting States having thus expressed their vote or abstention attains the number of Contracting States which was lacking for attaining the quorum when the decision was made, that decision shall take effect provided that at the same time the required majority still obtains.    
 
 ####Verdrag van Boedapest inzake de internationale erkenning van het depot van micro-organismen ten dienste van de octrooiverlening
 
@@ -792,7 +792,7 @@ b) Full information on any of the following facts shall be published once, promp
 
 ####Oprichting van een Unie
 
-De Staten die partij zijn bij dit Verdrag (hierna te noemen: „de Verdragsluitende Staten”), vormen een Unie voor de internationale erkenning van het depot van micro-organismen ten dienste van de octrooiprocedure.  
+De Staten die partij zijn bij dit Verdrag (hierna te noemen: „de Verdragsluitende Staten”), vormen een Unie voor de internationale erkenning van het depot van micro-organismen ten dienste van de octrooiprocedure. 
 
 ### Artikel  2  
 
@@ -828,7 +828,7 @@ In dit Verdrag en in het Uitvoeringsreglement wordt verstaan:
 
 (xiv) onder „Directeur-Generaal” de Directeur-Generaal van de Organisatie;  
 
-(xv) onder „Uitvoeringsreglement” het in artikel 12 bedoelde Uitvoeringsreglement.    
+(xv) onder „Uitvoeringsreglement” het in artikel 12 bedoelde Uitvoeringsreglement.   
 
 ### HOOFDSTUK  I  
 
@@ -842,7 +842,7 @@ In dit Verdrag en in het Uitvoeringsreglement wordt verstaan:
 (a) Verdragsluitende Staten die een depot van micro-organismen toestaan of vereisen ten dienste van de octrooiprocedure, dienen voor dat doel het depot van een micro-organisme bij een internationale depositaris te erkennen. Deze erkenning dient zowel de erkenning van het feit en de datum van het depot, zoals door de internationale depositaris aangegeven, te omvatten, alsook de erkenning van het feit dat hetgeen als monster wordt verstrekt, inderdaad een monster van het gedeponeerde micro-organisme is.  
 
 (b) Elke Verdragsluitende Staat kan een afschrift verlangen van het bewijs van ontvangst van het in letter (a) bedoelde depot, dat is afgegeven door de internationale depositaris.     
-2.  Voor zover het in dit Verdrag en het Uitvoeringsreglement geregelde aangelegenheden betreft, mag geen enkele Verdragsluitende Staat verlangen dat er voldaan wordt aan eisen die afwijken van of een aanvulling zijn op die welke in dit Verdrag en het Uitvoeringsreglement worden gesteld.   
+2.  Voor zover het in dit Verdrag en het Uitvoeringsreglement geregelde aangelegenheden betreft, mag geen enkele Verdragsluitende Staat verlangen dat er voldaan wordt aan eisen die afwijken van of een aanvulling zijn op die welke in dit Verdrag en het Uitvoeringsreglement worden gesteld.  
 
 ### Artikel  4  
 
@@ -867,19 +867,19 @@ In dit Verdrag en in het Uitvoeringsreglement wordt verstaan:
 (d) Behoudens het bepaalde in de letters (a) t/m (c) en (e) wordt het nieuwe depot behandeld, alsof dit was verricht op de datum waarop het oorspronkelijke depot werd verricht, indien in alle voorafgaande verklaringen betreffende de levensvatbaarheid van het oorspronkelijk gedeponeerde micro-organisme was vermeld, dat het micro-organisme levensvatbaar was, en indien het nieuwe depot werd verricht binnen drie maanden na de datum waarop de bewaargever de in letter (a) bedoelde kennisgeving had ontvangen.  
 
 (e) Indien letter (b) onder (i) van toepassing is en de bewaargever de in letter (a) bedoelde kennisgeving niet heeft ontvangen binnen zes maanden na de datum waarop de in letter (b) onder (i) bedoelde beëindiging, beperking of staking door het Internationaal Bureau werd gepubliceerd, dan wordt de in letter (d) bedoelde termijn van drie maanden berekend vanaf de datum van genoemde publikatie.     
-2.  Het in het eerste lid, letter (a) genoemde recht vervalt, indien het gedeponeerde micro-organisme is overgedragen aan een andere internationale depositaris, mits deze over de mogelijkheid beschikt monsters van dit micro-organisme te verstrekken.   
+2.  Het in het eerste lid, letter (a) genoemde recht vervalt, indien het gedeponeerde micro-organisme is overgedragen aan een andere internationale depositaris, mits deze over de mogelijkheid beschikt monsters van dit micro-organisme te verstrekken.  
 
 ### Artikel  5  
 
 ####Uitvoer- en invoerbeperkingen
 
-Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor zover de uitvoer uit of de invoer op zijn grondgebied van bepaalde soorten micro-organismen wordt beperkt, deze beperking slechts behoort te gelden voor micro-organismen die krachtens dit Verdrag zijn gedeponeerd of zijn bestemd voor depot, indien de beperking noodzakelijk is met het oog op de nationale veiligheid of de risico's voor de volksgezondheid of het milieu.  
+Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor zover de uitvoer uit of de invoer op zijn grondgebied van bepaalde soorten micro-organismen wordt beperkt, deze beperking slechts behoort te gelden voor micro-organismen die krachtens dit Verdrag zijn gedeponeerd of zijn bestemd voor depot, indien de beperking noodzakelijk is met het oog op de nationale veiligheid of de risico's voor de volksgezondheid of het milieu. 
 
 ### Artikel  6  
 
 ####Status van internationale depositaris
 
-1.  Ten einde in aanmerking te komen voor de status van internationale depositaris, dient een instituut voor bewaarneming op het grondgebied van een Verdragsluitende Staat te zijn gevestigd en door deze Staat verstrekte waarborgen te genieten, dat deze instelling voldoet en blijft voldoen aan de in het tweede lid omschreven eisen. Deze waarborgen kunnen eveneens door een intergouvernementele organisatie voor de industriële eigendom worden verstrekt; in dit geval dient het instituut voor bewaargeving te zijn gevestigd op het grondgebied van een Lid-Staat van genoemde organisatie.   
+1.  Ten einde in aanmerking te komen voor de status van internationale depositaris, dient een instituut voor bewaarneming op het grondgebied van een Verdragsluitende Staat te zijn gevestigd en door deze Staat verstrekte waarborgen te genieten, dat deze instelling voldoet en blijft voldoen aan de in het tweede lid omschreven eisen. Deze waarborgen kunnen eveneens door een intergouvernementele organisatie voor de industriële eigendom worden verstrekt; in dit geval dient het instituut voor bewaargeving te zijn gevestigd op het grondgebied van een Lid-Staat van genoemde organisatie.  
 2.  Het instituut voor bewaargeving dient in zijn hoedanigheid van internationale depositaris 
 
 (i) een bestendig karakter te hebben;  
@@ -896,12 +896,12 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 
 (vii) met betrekking tot de gedeponeerde micro-organismen te voldoen aan de eisen van geheimhouding, zoals in het Uitvoeringsreglement is aangegeven;  
 
-(viii) monsters van gedeponeerde micro-organismen te verstrekken op de voorwaarden van en in overeenstemming met de in het Uitvoeringsreglement aangegeven procedure.     
+(viii) monsters van gedeponeerde micro-organismen te verstrekken op de voorwaarden van en in overeenstemming met de in het Uitvoeringsreglement aangegeven procedure.    
 3.  Het Uitvoeringsreglement dient de te nemen maatregelen aan te geven, 
 
 (i) indien een internationale depositaris de uitoefening van zijn functies met betrekking tot de gedeponeerde micro-organismen tijdelijk of voorgoed staakt of een van de soorten micro-organismen weigert te aanvaarden, die hij krachtens de verstrekte waarborgen behoort te aanvaarden;  
 
-(ii) indien de status van internationale depositaris van een internationale depositaris wordt beëindigd of beperkt.     
+(ii) indien de status van internationale depositaris van een internationale depositaris wordt beëindigd of beperkt.    
 
 ### Artikel  7  
 
@@ -911,13 +911,13 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 
 (a) Een instituut voor bewaarneming verkrijgt de status van internationale depositaris krachtens een schriftelijke mededeling, gericht aan de Directeur-Generaal, door de Verdragsluitende Staat op wiens grondgebied het instituut voor bewaarneming is gevestigd, en waarin tevens is opgenomen een verklaring houdende de waarborgen, dat het genoemde instituut voldoet en blijft voldoen aan de in artikel 6, tweede lid, omschreven eisen. De bedoelde status kan eveneens worden verkregen krachtens een schriftelijke mededeling, gericht aan de Directeur-Generaal, door een intergouvernementele organisatie voor de industriële eigendom, en waarin tevens de genoemde verklaring is opgenomen.  
 
-(b) De mededeling verschaft tevens inlichtingen omtrent het instituut voor bewaarneming, in overeenstemming met het Uitvoeringsreglement, en kan aangeven op welke datum de status van internationale depositaris van kracht dient te worden.     
+(b) De mededeling verschaft tevens inlichtingen omtrent het instituut voor bewaarneming, in overeenstemming met het Uitvoeringsreglement, en kan aangeven op welke datum de status van internationale depositaris van kracht dient te worden.    
 2.  
 
 (a) Indien de Directeur-Generaal heeft bevonden dat de mededeling de vereiste verklaring bevat en dat alle noodzakelijke inlichtingen zijn ontvangen, wordt de mededeling onverwijld door het Internationaal Bureau gepubliceerd.  
 
-(b) De status van internationale depositaris wordt verkregen vanaf de datum waarop de mededeling wordt gepubliceerd, of, indien een datum is vermeld overeenkomstig het bepaalde in het eerste lid, letter (b) en deze datum op een later tijdstip valt dan de publikatiedatum van de mededeling, vanaf deze datum.     
-3.  De bijzonderheden van de procedure ingevolge het bepaalde in het eerste en het tweede lid worden in het Uitvoeringsreglement gegeven.   
+(b) De status van internationale depositaris wordt verkregen vanaf de datum waarop de mededeling wordt gepubliceerd, of, indien een datum is vermeld overeenkomstig het bepaalde in het eerste lid, letter (b) en deze datum op een later tijdstip valt dan de publikatiedatum van de mededeling, vanaf deze datum.    
+3.  De bijzonderheden van de procedure ingevolge het bepaalde in het eerste en het tweede lid worden in het Uitvoeringsreglement gegeven.  
 
 ### Artikel  8  
 
@@ -935,7 +935,7 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 (a) De Verdragsluitende Staat of de intergouvernementele organisatie voor de industriële eigendom die de in artikel 7, eerste lid, letter (a) bedoelde verklaring heeft afgegeven, kan door middel van een aan de Directeur-Generaal gerichte mededeling deze verklaring intrekken, hetzij geheel hetzij slechts met betrekking tot bepaalde soorten micro-organismen, en doet zulks in ieder geval wanneer en voor zover de desbetreffende waarborgen niet meer van kracht zijn.  
 
 (b) Een zodanige mededeling heeft tot gevolg dat, vanaf de in het Uitvoeringsreglement bepaalde datum, de status van internationale depositaris wordt beëindigd, indien zij betrekking heeft op de gehele verklaring, of dienovereenkomstig wordt beperkt, indien zij slechts betrekking heeft op bepaalde soorten micro-organismen.     
-3.  De bijzonderheden van de in het eerste en het tweede lid bedoelde procedure worden in het Uitvoeringsreglement gegeven.   
+3.  De bijzonderheden van de in het eerste en het tweede lid bedoelde procedure worden in het Uitvoeringsreglement gegeven.  
 
 ### Artikel  9  
 
@@ -943,17 +943,17 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 
 1.  
 
-(a) Een intergouvernementele organisatie waaraan een aantal ten de verlening van regionale octrooien heeft opgedragen en waarvan alle Lid-Staten tevens lid zijn van de Internationale Unie tot bescherming van de industriële eigendom (Unie van Parijs), kan bij de Directeur-Generaal een verklaring deponeren dat zij de verplichting tot erkenning, bedoeld in artikel 3, eerste lid, letter (a), en de verplichting inzake de in artikel 3, tweede lid, bedoelde eisen, aanvaardt, alsmede alle gevolgen, voortvloeiend uit de bepalingen van dit Verdrag en het Uitvoeringsreglement die van toepassing zijn op intergouvernementele organisaties voor de industriële eigendom. Indien de in de vorige zin bedoelde verklaring wordt gedeponeerd vóór de inwerkingtreding van dit Verdrag overeenkomstig het bepaalde in artikel 16, eerste lid, wordt deze van kracht op de datum waarop het Verdrag in werking treedt. Indien deze verklaring wordt gedeponeerd na de inwerkingtreding van het Verdrag, wordt zij van kracht drie maanden na de datum van deponering, tenzij een later tijdstip in de verklaring is aangegeven. In het laatste geval wordt de ring van kracht op de aangegeven datum.  
+(a) Een intergouvernementele organisatie waaraan een aantal Staten de verlening van regionale octrooien heeft opgedragen en waarvan alle Lid-Staten tevens lid zijn van de Internationale Unie tot bescherming van de industriële eigendom (Unie van Parijs), kan bij de Directeur-Generaal een verklaring deponeren dat zij de verplichting tot erkenning, bedoeld in artikel 3, eerste lid, letter (a), en de verplichting inzake de in artikel 3, tweede lid, bedoelde eisen, aanvaardt, alsmede alle gevolgen, voortvloeiend uit de bepalingen van dit Verdrag en het Uitvoeringsreglement die van toepassing zijn op intergouvernementele organisaties voor de industriële eigendom. Indien de in de vorige zin bedoelde verklaring wordt gedeponeerd vóór de inwerkingtreding van dit Verdrag overeenkomstig het bepaalde in artikel 16, eerste lid, wordt deze van kracht op de datum waarop het Verdrag in werking treedt. Indien deze verklaring wordt gedeponeerd na de inwerkingtreding van het Verdrag, wordt zij van kracht drie maanden na de datum van deponering, tenzij een later tijdstip in de verklaring is aangegeven. In het laatste geval wordt de verklaring van kracht op de aangegeven datum.  
 
-(b) De genoemde organisatie bezit het in artikel 3, eerste lid, letter omschreven recht.     
+(b) De genoemde organisatie bezit het in artikel 3, eerste lid, letter (b) omschreven recht.    
 2.  Indien enige bepaling van dit Verdrag of van het Uitvoeringsreglement met betrekking tot intergouvernementele organisaties voor de industriële eigendom wordt herzien of gewijzigd, kan een intergouvernementele organisatie voor de industriële eigendom haar in het eerste lid genoemde verklaring intrekken door middel van een kennisgeving aan de Directeur-Generaal. De intrekking wordt van kracht: 
 
 (i) indien de kennisgeving is ontvangen vóór de datum waarop de herziening of wijziging in werking treedt, op deze datum;  
 
-(ii) indien de kennisgeving is ontvangen na de onder (i) genoemde datum, op de in de kennisgeving aangegeven datum of, indien er geen aanduiding is gegeven, drie maanden na de datum waarop de kennisgeving werd ontvangen.     
-3.  Behalve in het in het tweede lid vermelde geval kan een intergouvernementele organisatie voor de industriële eigendom haar in het eerste lid, letter (a) bedoelde verklaring ook intrekken door middel van een kennisgeving aan de Directeur-Generaal. De intrekking wordt van kracht twee jaar na de datum waarop de Directeur-Generaal de kennisgeving heeft ontvangen. Een kennisgeving van intrekking ingevolge dit lid wordt niet aanvaard gedurende een tijdvak van vijf jaar, te rekenen van de datum waarop de verklaring van kracht is geworden.   
-4.  De in het tweede of het derde lid bedoelde intrekking door een intergouvernementele organisatie voor de industriële eigendom, wier mededeling ingevolge artikel 7, eerste lid, heeft geleid tot de verkrijging van de status van internationale depositaris door een instituut voor bewaarneming, heeft tot gevolg dat deze status wordt beëindigd één jaar na de datum waarop de Directeur-Generaal de kennisgeving van intrekking heeft ontvangen.   
-5.  Voor een in het eerste lid, letter (a) bedoelde verklaring, een in het tweede of derde lid bedoelde kennisgeving van intrekking, de ingevolge artikel 6, eerste lid, tweede volzin, verstrekte waarborgen, opgenomen in een overeenkomstig het bepaalde in artikel 7, eerste lid, letter (a) gedeponeerde verklaring, een overeenkomstig artikel 8, eerste lid, gedaan verzoek, alsmede een in artikel 8, tweede lid, bedoelde mededeling van intrekking is de uitdrukkelijke voorafgaande goedkeuring vereist van het hoogste bestuursorgaan van de intergouvernementele organisatie voor de industriële eigendom, waarvan de leden alle Staten die lid zijn van bedoelde organisatie, omvatten en waarin besluiten worden genomen door de officiële vertegenwoordigers van de regeringen van deze Staten.   
+(ii) indien de kennisgeving is ontvangen na de onder (i) genoemde datum, op de in de kennisgeving aangegeven datum of, indien er geen aanduiding is gegeven, drie maanden na de datum waarop de kennisgeving werd ontvangen.    
+3.  Behalve in het in het tweede lid vermelde geval kan een intergouvernementele organisatie voor de industriële eigendom haar in het eerste lid, letter (a) bedoelde verklaring ook intrekken door middel van een kennisgeving aan de Directeur-Generaal. De intrekking wordt van kracht twee jaar na de datum waarop de Directeur-Generaal de kennisgeving heeft ontvangen. Een kennisgeving van intrekking ingevolge dit lid wordt niet aanvaard gedurende een tijdvak van vijf jaar, te rekenen van de datum waarop de verklaring van kracht is geworden.  
+4.  De in het tweede of het derde lid bedoelde intrekking door een intergouvernementele organisatie voor de industriële eigendom, wier mededeling ingevolge artikel 7, eerste lid, heeft geleid tot de verkrijging van de status van internationale depositaris door een instituut voor bewaarneming, heeft tot gevolg dat deze status wordt beëindigd één jaar na de datum waarop de Directeur-Generaal de kennisgeving van intrekking heeft ontvangen.  
+5.  Voor een in het eerste lid, letter (a) bedoelde verklaring, een in het tweede of derde lid bedoelde kennisgeving van intrekking, de ingevolge artikel 6, eerste lid, tweede volzin, verstrekte waarborgen, opgenomen in een overeenkomstig het bepaalde in artikel 7, eerste lid, letter (a) gedeponeerde verklaring, een overeenkomstig artikel 8, eerste lid, gedaan verzoek, alsmede een in artikel 8, tweede lid, bedoelde mededeling van intrekking is de uitdrukkelijke voorafgaande goedkeuring vereist van het hoogste bestuursorgaan van de intergouvernementele organisatie voor de industriële eigendom, waarvan de leden alle Staten die lid zijn van bedoelde organisatie, omvatten en waarin besluiten worden genomen door de officiële vertegenwoordigers van de regeringen van deze Staten.  
 
 ### HOOFDSTUK  II  
 
@@ -1004,13 +1004,13 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 
 (a) Behoudens het bepaalde in de artikelen 8, eerste lid, letter (c), 12, vierde lid en 14, tweede lid, letter (b), is voor de besluiten van de Algemene Vergadering een meerderheid van de uitgebrachte stemmen vereist.  
 
-(b) Onthouding geldt niet als stem.     
+(b)  Onthouding geldt niet als stem.     
 7.  
 
-(a) De Algemene Vergadering komt éénmaal in de twee jaar in gewone zitting bijeen op uitnodiging van de Directeur-Generaal, bij voorkeur in hetzelfde tijdvak en op dezelfde plaats als de Algemene dering van de Organisatie.  
+(a) De Algemene Vergadering komt éénmaal in de twee jaar in gewone zitting bijeen op uitnodiging van de Directeur-Generaal, bij voorkeur in hetzelfde tijdvak en op dezelfde plaats als de Algemene Vergadering van de Organisatie.  
 
 (b) De Algemene Vergadering komt in buitengewone zitting bijeen op uitnodiging van de Directeur-Generaal, hetzij op diens eigen initiatief of op verzoek van een vierde van de Verdragsluitende Staten.     
-8.  De Algemene Vergadering stelt haar eigen reglement van orde vast.   
+8.  De Algemene Vergadering stelt haar eigen reglement van orde vast.  
 
 ### Artikel  11  
 
@@ -1021,8 +1021,8 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 (i) verricht de administratieve taken met betrekking tot de Unie, in het bijzonder die taken welke het Bureau speciaal worden opgedragen door dit Verdrag en door het Uitvoeringsreglement of door de Algemene Vergadering;  
 
 (ii) treedt op als secretariaat van herzieningsconferenties, van de Algemene Vergadering, van de door de Algemene Vergadering ingestelde commissies en werkgroepen en van alle andere door de Directeur-Generaal bijeengeroepen vergaderingen ter behandeling van aangelegenheden die van belang zijn voor de Unie.     
-2.  De Directeur-Generaal is de hoogste functionaris van de Organisatie en vertegenwoordigt de Unie.   
-3.  De Directeur-Generaal verzorgt de uitnodigingen voor alle bijeenkomsten ter behandeling van aangelegenheden die van belang zijn voor de Unie.   
+2.  De Directeur-Generaal is de hoogste functionaris van de Organisatie en vertegenwoordigt de Unie.  
+3.  De Directeur-Generaal verzorgt de uitnodigingen voor alle bijeenkomsten ter behandeling van aangelegenheden die van belang zijn voor de Unie.  
 4.  
 
 (a) De Directeur-Generaal en ieder door hem aangewezen lid van het personeel nemen zonder stemrecht deel aan alle bijeenkomsten van de Algemene Vergadering, de door de Algemene Vergadering ingestelde commissies en werkgroepen en alle andere door de Directeur-Generaal bijeengeroepen vergaderingen ter behandeling van aangelegenheden die van belang zijn voor de Unie.  
@@ -1036,7 +1036,7 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 
 (c) De Directeur-Generaal en de door hem aangewezen personen nemen zonder stemrecht deel aan de besprekingen op herzieningsconferenties.  
 
-(d) De Directeur-Generaal of een door hem aangewezen lid van het personeel is ambtshalve secretaris van een herzieningsconferentie.     
+(d) De Directeur-Generaal of een door hem aangewezen lid van het personeel is ambtshalve secretaris van een herzieningsconferentie.    
 
 ### Artikel  12  
 
@@ -1049,14 +1049,14 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 (ii) alle administratieve vereisten, aangelegenheden en procedures;  
 
 (iii) alle bijzonderheden die dienstig zijn voor de uitvoering van dit Verdrag.     
-2.  Het Uitvoeringsreglement dat tegelijkertijd met dit Verdrag is aanvaard, is aan dit Verdrag gehecht.   
+2.  Het Uitvoeringsreglement dat tegelijkertijd met dit Verdrag is aanvaard, is aan dit Verdrag gehecht.  
 3.  De Algemene Vergadering kan het Uitvoeringsreglement wijzigen.   
 4.  
 
 (a) Behoudens het bepaalde in letter (b) is voor de aanvaarding van een wijziging van het Uitvoeringsreglement een twee derde meerderheid van de uitgebrachte stemmen nodig.  
 
 (b) Voor de aanvaarding van een wijziging inzake de verstrekking van monsters van de gedeponeerde micro-organismen door de internationale depositarissen is het noodzakelijk, dat geen enkele Verdragsluitende Staat tegen de voorgestelde wijziging stemt.     
-5.  In geval van strijdigheid tussen de bepalingen van dit Verdrag en die van het Uitvoeringsreglement zijn de bepalingen van dit Verdrag beslissend.   
+5.  In geval van strijdigheid tussen de bepalingen van dit Verdrag en die van het Uitvoeringsreglement zijn de bepalingen van dit Verdrag beslissend.  
 
 ### HOOFDSTUK  III  
 
@@ -1068,7 +1068,7 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 
 1.  Dit Verdrag kan van tijd tot tijd worden herzien door conferenties van de Verdragsluitende Staten.   
 2.  Over de bijeenroeping van een herzieningsconferentie wordt door de Algemene Vergadering beslist.   
-3.  De artikelen 10 en 11 kunnen hetzij door een herzieningsconferentie hetzij ingevolge artikel 14 worden gewijzigd.   
+3.  De artikelen 10 en 11 kunnen hetzij door een herzieningsconferentie hetzij ingevolge artikel 14 worden gewijzigd.  
 
 ### Artikel  14  
 
@@ -1090,7 +1090,7 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 
 (b) Elke aldus aanvaarde wijziging van de genoemde artikelen bindt alle Verdragsluitende Staten die op het tijdstip waarop de wijziging door de Algemene Vergadering werd aangenomen, Verdragsluitende Staten waren, met dien verstande dat elke wijziging die financiële verplichtingen voor de bedoelde Verdragsluitende Staten scheppen of zulke verplichtingen uitbreiden, slechts die Verdragsluitende Staten bindt welke kennis hebben gegeven van aanvaarding van deze wijziging.  
 
-(c) Elke wijziging die is aanvaard en die overeenkomstig het bepaalde in letter (a) van kracht is geworden, bindt alle Staten die toetreden als Verdragsluitende Staten na de datum waarop de wijziging door de Algemene Vergadering werd aangenomen.     
+(c) Elke wijziging die is aanvaard en die overeenkomstig het bepaalde in letter (a) van kracht is geworden, bindt alle Staten die toetreden als Verdragsluitende Staten na de datum waarop de wijziging door de Algemene Vergadering werd aangenomen.    
 
 ### HOOFDSTUK  IV  
 
@@ -1105,23 +1105,23 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 (i) ondertekening, gevolgd door nederlegging van een akte van bekrachtiging, of  
 
 (ii) nederlegging van een akte van toetreding.     
-2.  De akten van bekrachtiging of toetreding worden bij de Directeur-Generaal nedergelegd.   
+2.  De akten van bekrachtiging of toetreding worden bij de Directeur-Generaal nedergelegd.  
 
 ### Artikel  16  
 
-####Inwerkingtreding van liet Verdrag
+####Inwerkingtreding van het Verdrag
 
 1.  Dit Verdrag treedt in werking ten aanzien van de eerste vijf Staten die hun akte van bekrachtiging of toetreding hebben nedergelegd, drie maanden na de datum waarop de vijfde akte van bekrachtiging of toetreding is nedergelegd.   
-2.  Dit Verdrag treedt in werking ten aanzien van elke andere Staat drie maanden na de datum waarop deze Staat zijn akte van bekrachtiging of toetreding heeft nedergelegd, tenzij een later tijdstip is aangegeven in de akte van bekrachtiging of toetreding. In dat geval treedt dit Verdrag ten aanzien van deze Staat in werking op de aldus aangegeven datum.   
+2.  Dit Verdrag treedt in werking ten aanzien van elke andere Staat drie maanden na de datum waarop deze Staat zijn akte van bekrachtiging of toetreding heeft nedergelegd, tenzij een later tijdstip is aangegeven in de akte van bekrachtiging of toetreding. In dat geval treedt dit Verdrag ten aanzien van deze Staat in werking op de aldus aangegeven datum.  
 
 ### Artikel  17  
 
-####Opzegging van liet Verdrag
+####Opzegging van het Verdrag
 
 1.  Elke Verdragsluitende Staat kan dit Verdrag opzeggen door een schriftelijke kennisgeving aan de Directeur-Generaal.   
 2.  De opzegging wordt van kracht twee jaar na de datum waarop de Directeur-Generaal de kennisgeving heeft ontvangen.   
 3.  De in het eerste lid bedoelde bevoegdheid tot opzegging kan door een Verdragsluitende Staat slechts worden uitgeoefend na afloop van een termijn van vijf jaar, te rekenen van de datum waarop deze Staat partij bij dit Verdrag is geworden.   
-4.  De opzegging van dit Verdrag door een Verdragsluitende Staat die de in artikel 7, eerste lid, letter (a) bedoelde verklaring heeft afgegeven met betrekking tot een instituut voor bewaarneming, dat daardoor de status van internationale depositaris heeft verkregen, heeft tot gevolg dat deze status wordt beëindigd één jaar na de datum waarop de Directeur-Generaal de in het eerste lid bedoelde kennisgeving heeft ontvangen.   
+4.  De opzegging van dit Verdrag door een Verdragsluitende Staat die de in artikel 7, eerste lid, letter (a) bedoelde verklaring heeft afgegeven met betrekking tot een instituut voor bewaarneming, dat daardoor de status van internationale depositaris heeft verkregen, heeft tot gevolg dat deze status wordt beëindigd één jaar na de datum waarop de Directeur-Generaal de in het eerste lid bedoelde kennisgeving heeft ontvangen.  
 
 ### Artikel  18  
 
@@ -1133,8 +1133,8 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 
 (b) Officiële teksten van dit Verdrag worden door de Directeur-Generaal vastgesteld, na raadpleging van de betrokken regeringen en binnen twee maanden vanaf de datum van ondertekening van dit Verdrag, in de andere talen waarin het Verdrag tot oprichting van de Wereldorganisatie voor de Intellectuele Eigendom werd ondertekend.  
 
-(c) Officiële teksten van dit Verdrag worden door de Directeur-Generaal vastgesteld, na raadpleging van de betrokken regeringen, in de Arabische, de Duitse, de Italiaanse, de Japanse en de Portugese taal en in andere door de Algemene Vergadering aan te wijzen talen.     
-2.  Dit Verdrag staat open voor ondertekening te Boedapest tot 31 december 1977.   
+(c) Officiële teksten van dit Verdrag worden door de Directeur-Generaal vastgesteld, na raadpleging van de betrokken regeringen, in de Arabische, de Duitse, de Italiaanse, de Japanse en de Portugese taal en in andere door de Algemene Vergadering aan te wijzen talen.    
+2.  Dit Verdrag staat open voor ondertekening te Boedapest tot 31 december 1977.  
 
 ### Artikel  19  
 
@@ -1143,7 +1143,7 @@ Elke Verdragsluitende Staat erkent dat het zeer gewenst is, dat, indien en voor 
 1.  Het origineel van dit Verdrag wordt, indien dit niet meer voor ondertekening openstaat, nedergelegd bij de Directeur-Generaal.   
 2.  De Directeur-Generaal zendt twee door hem gewaarmerkte afschriften van dit Verdrag en het Uitvoeringsreglement aan de Regeringen van alle in artikel 15, eerste lid bedoelde Staten, aan de intergouvernementele organisaties die een verklaring ingevolge artikel 9, eerste lid, letter (a) kunnen deponeren, en, op verzoek, aan de Regeringen van andere Staten.   
 3.  De Directeur-Generaal laat dit Verdrag registreren bij het Secretariaat van de Verenigde Naties.   
-4.  De Directeur-Generaal zendt twee door hem gewaarmerkte afschriften van elke wijziging van dit erdrag en van het Uitvoeringsreglement aan alle Verdragsluitende Staten, aan alle intergouvernementele organisaties voor de industriële eigendom en, op verzoek, aan de Regeringen van andere Staten en aan elke andere intergouvernementele organisatie die een verklaring ingevolge artikel 9, eerste lid, letter (a) kan deponeren.   
+4.  De Directeur-Generaal zendt twee door hem gewaarmerkte afschriften van elke wijziging van dit Verdrag en van het Uitvoeringsreglement aan alle Verdragsluitende Staten, aan alle intergouvernementele organisaties voor de industriële eigendom en, op verzoek, aan de Regeringen van andere Staten en aan elke andere intergouvernementele organisatie die een verklaring ingevolge artikel 9, eerste lid, letter (a) kan deponeren.  
 
 ### Artikel  20  
 
@@ -1167,7 +1167,7 @@ De Directeur-Generaal stelt de Verdragsluitende Staten, de intergouvernementele 
 
 (viii) de data waarop wijzigingen van het Verdrag of van het Uitvoeringsreglement van kracht worden;  
 
-(ix) de overeenkomstig artikel 17 ontvangen opzeggingen.    
+(ix) de overeenkomstig artikel 17 ontvangen opzeggingen.   
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Verdrag hebben ondertekend. GEDAAN te Boedapest, op 28 april 1977.  
 
@@ -1175,23 +1175,23 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Verdra
 
 ### Regel  1  
 
-####Verkorte uitdrukkingen en interpretatie van het woord „ondertekening"
+####Verkorte uitdrukkingen en interpretatie van het woord „ondertekening”
 
-1.1.   *„Verdrag”*  In dit Uitvoeringsreglement betekent „Verdrag” het Verdrag van Boedapest inzake de internationale erkenning van het depot van micro-organismen ten dienste van de octrooiprocedure.   
-1.2.   *„Artikel”*  In dit Uitvoeringsreglement heeft het woord „artikel” betrekking op het desbetreffende artikel van het Verdrag.   
-1.3.   *„Ondertekening”*  Steeds waar in dit Uitvoeringsreglement het woord „ondertekening” wordt gebruikt, wordt dit woord, indien de wetten van de Staat op wiens grondgebied zich de zetel van een internationale depositaris bevindt, het gebruik van een zegel in plaats van een ondertekening vereisen, wat deze depositaris betreft, opgevat als „zegel”.   
+1.1.  *„Verdrag”*  In dit Uitvoeringsreglement betekent „Verdrag” het Verdrag van Boedapest inzake de internationale erkenning van het depot van micro-organismen ten dienste van de octrooiprocedure.  
+1.2.   *„Artikel”*  In dit Uitvoeringsreglement heeft het woord „artikel” betrekking op het desbetreffende artikel van het Verdrag.  
+1.3.   *„Ondertekening”*  Steeds waar in dit Uitvoeringsreglement het woord „ondertekening” wordt gebruikt, wordt dit woord, indien de wetten van de Staat op wiens grondgebied zich de zetel van een internationale depositaris bevindt, het gebruik van een zegel in plaats van een ondertekening vereisen, wat deze depositaris betreft, opgevat als „zegel”.  
 
 ### Regel  2  
 
 ####Internationale depositarissen
 
-2.1.   *Wettelijke status*  Een internationale depositaris kan een overheidsinstelling zijn, met inbegrip van een openbare instelling, verbonden aan een openbaar bestuurslichaam anders dan de centrale overheid, of een particuliere instelling.   
+2.1.   *Wettelijke status*  Een internationale depositaris kan een overheidsinstelling zijn, met inbegrip van een openbare instelling, verbonden aan een openbaar bestuurslichaam anders dan de centrale overheid, of een particuliere instelling.  
 2.2.   *Personeel en voorzieningen*  De in artikel 6, tweede lid, onder (ii) bedoelde eisen omvatten in het bijzonder het onderstaande: 
 
 (i) het personeel en de voorzieningen van een internationale depotaris dienen de genoemde depositaris in staat te stellen de gedeponeerde micro-organismen op zodanige wijze op te slaan, dat daardoor wordt gewaarborgd dat deze in levensvatbare vere toestand worden bewaard;  
 
-(ii) een internationale depositaris dient, ten behoeve van de opslag van micro-organismen, toereikende veiligheidsmaatregelen te nemen om het risico van het verlies van de bij hem gedeponeerde micro-organismen zoveel mogelijk te beperken.     
-2.3.   *Verstrekking van monsters*  De in artikel 6, tweede lid, onder (viii) bedoelde eisen omvatten in het bijzonder de eis dat een internationale depositaris op snelle en passende wijze monsters van gedeponeerde micro-organismen dient te verstrekken.   
+(ii) een internationale depositaris dient, ten behoeve van de opslag van micro-organismen, toereikende veiligheidsmaatregelen te nemen om het risico van het verlies van de bij hem gedeponeerde micro-organismen zoveel mogelijk te beperken.    
+2.3.   *Verstrekking van monsters*  De in artikel 6, tweede lid, onder (viii) bedoelde eisen omvatten in het bijzonder de eis dat een internationale depositaris op snelle en passende wijze monsters van gedeponeerde micro-organismen dient te verstrekken.  
 
 ### Regel  3  
 
@@ -1213,9 +1213,9 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Verdra
 
 (v) de officiële taal of talen van het genoemde instituut te vermelden;  
 
-(vi) zo nodig de in artikel 7, eerste lid, letter (b) bedoelde datum aan te geven.       
-3.2.   *Behandeling van de mededeling*  Indien de mededeling voldoet aan het bepaalde in artikel 7, eerste lid, en Regel 3, eerste lid, dient de Directeur-Generaal onverwijld kennis van deze mededeling te geven aan alle Verdragsluitende Staten en intergouvernementele organisaties voor de industriële eigendom en dient zij onverwijld door het Internationaal Bureau te worden gepubliceerd.   
-3.3.   *Uitbreiding van de lijst van aanvaarde soorten micro-organismen*  De Verdragsluitende Staat of de intergouvernementele organisatie voor de industriële eigendom die de in artikel 7, eerste lid bedoelde mededeling heeft gedaan, kan op elk gewenst tijdstip daarna de Directeur-Generaal ervan in kennis stellen dat de waarborgen van de betrokken Staat of organisatie worden uitgebreid tot bepaalde soorten micro-organismen waartoe de waarborgen zich tot dusver niet hebben uitgestrekt, in een dergelijk geval, en voor zover het de toegevoegde soorten micro-organismen betreft, is mutatis mutandis het bepaalde in artikel 7 en Regel 3, eerste en tweede lid, van toepassing.   
+(vi) zo nodig de in artikel 7, eerste lid, letter (b) bedoelde datum aan te geven.      
+3.2.   *Behandeling van de mededeling*  Indien de mededeling voldoet aan het bepaalde in artikel 7, eerste lid, en Regel 3, eerste lid, dient de Directeur-Generaal onverwijld kennis van deze mededeling te geven aan alle Verdragsluitende Staten en intergouvernementele organisaties voor de industriële eigendom en dient zij onverwijld door het Internationaal Bureau te worden gepubliceerd.  
+3.3.   *Uitbreiding van de lijst van aanvaarde soorten micro-organismen*  De Verdragsluitende Staat of de intergouvernementele organisatie voor de industriële eigendom die de in artikel 7, eerste lid bedoelde mededeling heeft gedaan, kan op elk gewenst tijdstip daarna de Directeur-Generaal ervan in kennis stellen dat de waarborgen van de betrokken Staat of organisatie worden uitgebreid tot bepaalde soorten micro-organismen waartoe de waarborgen zich tot dusver niet hebben uitgestrekt, in een dergelijk geval, en voor zover het de toegevoegde soorten micro-organismen betreft, is mutatis mutandis het bepaalde in artikel 7 en Regel 3, eerste en tweede lid, van toepassing.  
 
 ### Regel  4  
 
@@ -1239,7 +1239,7 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Verdra
 
 (e) Indien, naar de mening van de Directeur-Generaal, inachtneming van de in letter (d) vermelde tijdslimiet de belangen van feitelijke of mogelijke bewaargevers zou kunnen schaden, kan hij de Algemene Vergadering bijeenroepen op een eerder tijdstip dan dat waarop de in letter (d) voorziene termijn van zes maanden is verstreken.  
 
-(f) Indien de Algemene Vergadering besluit de status van internationale depositaris te beëindigen of te beperken tot bepaalde soorten micro-organismen, wordt dit besluit van kracht drie maanden na de datum waarop het werd genomen.     
+(f) Indien de Algemene Vergadering besluit de status van internationale depositaris te beëindigen of te beperken tot bepaalde soorten micro-organismen, wordt dit besluit van kracht drie maanden na de datum waarop het werd genomen.    
 4.2.   *Mededeling; datum van inwerkingtreding, behandeling van mededeling*  
 
 (a) De in artikel 8, tweede lid, letter (a) beodelde mededeling wordt gericht aan de Directeur-Generaal, zoals bepaald in Regel 3, eerste lid, letter (a).  
@@ -1254,8 +1254,8 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Verdra
 
 (c) Indien het bepaalde in letter (b) onder (iii) van toepassing is, vinden de in artikel 8, tweede lid, letter (b) omschreven rechtsgevolgen plaats op de ingevolge dat lid in de mededeling aangegeven datum; anders dienen deze plaats te vinden na afloop van een tijdvak van drie maanden, te rekenen vanaf de datum van de mededeling.  
 
-(d) De Directeur-Generaal geeft onverwijld aan alle Verdragsluitende Staten en intergouvernementele organisaties voor de industriële eigendom kennis van elke ingevolge artikel 8, tweede lid, ontvangen mededeling en van de datum waarop deze ingevolge het bepaalde in letter (c) van kracht wordt. Een desbetreffende kennisgeving wordt onverwijld door het Internationaal Bureau gepubliceerd.     
-4.3.   *Gevolgen voor depots*  In geval van beëindiging of beperking van de status van internationale depositaris ingevolge de artikelen 8, eerste en tweede lid, 9, vierde lid, of 17, vierde lid, is mutatis mutandis Regel 5, eerste lid van toepassing.   
+(d) De Directeur-Generaal geeft onverwijld aan alle Verdragsluitende Staten en intergouvernementele organisaties voor de industriële eigendom kennis van elke ingevolge artikel 8, tweede lid, ontvangen mededeling en van de datum waarop deze ingevolge het bepaalde in letter (c) van kracht wordt. Een desbetreffende kennisgeving wordt onverwijld door het Internationaal Bureau gepubliceerd.    
+4.3.   *Gevolgen voor depots*  In geval van beëindiging of beperking van de status van internationale depositaris ingevolge de artikelen 8, eerste en tweede lid, 9, vierde lid, of 17, vierde lid, is mutatis mutandis Regel 5, eerste lid van toepassing.  
 
 ### Regel  5  
 
@@ -1281,12 +1281,12 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Verdra
 
 (e) In aanvulling op de overdracht ingevolge het bepaalde in letter (a) onder (i) verricht, draagt de in gebreke blijvende depositaris op verzoek van de bewaargever ook een monster van een bij hem gedeponeerd micro-organisme over aan een door de bewaargever aangewezen andere internationale depositaris dan de vervangende depositaris, mits de bewaargever alle uit de overdracht van dit monster voortvloeiende kosten betaalt aan de in gebreke blijvende depositaris. De bewaargever betaalt de vergoeding voor de opslag van het genoemde monster aan de door hem aangewezen internationale depositaris.  
 
-(f) Op verzoek van een daarbij betrokken bewaargever bewaart de in gebreke blijvende depositaris, voor zover mogelijk, monsters van de bij hem gedeponeerde micro-organismen.     
+(f) Op verzoek van een daarbij betrokken bewaargever bewaart de in gebreke blijvende depositaris, voor zover mogelijk, monsters van de bij hem gedeponeerde micro-organismen.    
 5.2.   *Weigering tot aanvaarding van bepaalde soorten micro-organismen*  
 
 (a) Indien een internationale depositaris weigert het depot van een van de soorten micro-organismen te aanvaarden, die hij ingevolge de verstrekte waarborgen dient te aanvaarden, stelt de Verdragsluitende Staat of de intergouvernementele organisatie voor de industriële eigendom, die ten aanzien van deze depositaris de in artikel 7, eerste lid, letter (a) bedoelde verklaring heeft afgegeven, de Directeur-Generaal onverwijld in kennis van de desbetreffende feiten en de maatregelen die zijn genomen.  
 
-(b) De Directeur-Generaal stelt de overige Verdragsluitende Staten en intergouvernementele organisaties voor de industriële eigendom onverwijld in kennis van de ingevolge het bepaalde in letter (a) ontvangen kennisgeving; de kennisgeving van de Directeur-Generaal en de door hem ontvangen kennisgeving worden onverwijld door het Internationaal Bureau gepubliceerd.     
+(b) De Directeur-Generaal stelt de overige Verdragsluitende Staten en intergouvernementele organisaties voor de industriële eigendom onverwijld in kennis van de ingevolge het bepaalde in letter (a) ontvangen kennisgeving; de kennisgeving van de Directeur-Generaal en de door hem ontvangen kennisgeving worden onverwijld door het Internationaal Bureau gepubliceerd.    
 
 ### Regel  6  
 
@@ -1317,25 +1317,25 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Verdra
 
 (iii) indien een wetenschappelijke beschrijving en/of een voorgestelde taxonomische aanduiding werd (en) gegeven in verband met het oorspronkelijke depot: de meest recente, op de in artikel 4, eerste lid, letter (e) bedoelde datum bestaande, wetenschappelijke beschrijving en/of voorgestelde taxonomische aanduiding.    
 
-(b) Indien het nieuwe depot wordt verricht bij de internationale depositaris bij wie het oorspronkelijke depot heeft plaatsgevonden, is het bepaalde in letter (a) onder (i) niet van toepassing.     
+(b) Indien het nieuwe depot wordt verricht bij de internationale depositaris bij wie het oorspronkelijke depot heeft plaatsgevonden, is het bepaalde in letter (a) onder (i) niet van toepassing.    
 6.3.   *Eisen van de internationale depositaris*  
 
 (a) Een internationale depositaris kan verlangen dat het micro-organisme wordt gedeponeerd in de vorm en in de hoeveelheid, vereist voor de uitvoering van het Verdrag en dit Uitvoeringsreglement, en is vergezeld van een formulier dat door deze depositaris wordt vastgesteld en door de bewaargever naar behoren worden ingevuld ten behoeve van de administratieve procedures van de depositaris.  
 
-(b) Een internationale depositaris doet mededeling van alle eisen en van elke wijziging daarvan aan het Internationaal Bureau.     
+(b) Een internationale depositaris doet mededeling van alle eisen en van elke wijziging daarvan aan het Internationaal Bureau.    
 
 ### Regel  7  
 
 ####Ontvangbewijs
 
-7.1.   *Afgifte van een ontvangbewijs*  De internationale depositaris verstrekt, met betrekking tot elk bij hem verricht of aan hem overgedragen depot van micro-organismen, aan de bewaargever een ontvangbewijs ten bewijze van het feit dat hij het micro-organisme heeft ontvangen en aanvaard.   
+7.1.   *Afgifte van een ontvangbewijs*  De internationale depositaris verstrekt, met betrekking tot elk bij hem verricht of aan hem overgedragen depot van micro-organismen, aan de bewaargever een ontvangbewijs ten bewijze van het feit dat hij het micro-organisme heeft ontvangen en aanvaard.  
 7.2.   *Vorm; talen; ondertekening*  
 
 (a) Elk ontvangbewijs, bedoeld in Regel 7, eerste lid, wordt gesteld op een formulier dat als „internationaal formulier” wordt aangeduid en waarvan een model door de Directeur-Generaal wordt vastgesteld in de door de Algemene Vergadering aan te wijzen talen.  
 
 (b) Alle woorden of letters die op het ontvangbewijs worden ingevuld in andere tekens dan die uit het Latijnse alfabet, worden daarin eveneens vermeld in tekens uit het Latijnse alfabet.  
 
-(c) Het ontvangbewijs is voorzien van de handtekening van de persoon of de personen die bevoegd zijn de internationale depositaris te vertegenwoordigen, of die van enige andere, naar behoren door de genoemde persoon of personen gemachtigde functionaris van het instituut.     
+(c) Het ontvangbewijs is voorzien van de handtekening van de persoon of de personen die bevoegd zijn de internationale depositaris te vertegenwoordigen, of die van enige andere, naar behoren door de genoemde persoon of personen gemachtigde functionaris van het instituut.    
 7.3.   *Inhoud van het ontvangbewijs bij een oorspronkelijk depot*  In het ontvangbewijs, bedoeld in Regel 7, eerste lid, en afgegeven in het geval van een oorspronkelijk depot, wordt aangegeven dat het door het instituut voor bewaargeving is afgegeven in zijn hoedanigheid van internationale depositaris krachtens het Verdrag, en het dient ten minste de volgende gegevens te bevatten: 
 
 (i) de naam en het adres van de internationale depositaris;  
@@ -1348,7 +1348,7 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Verdra
 
 (v) het door de internationale depositaris aan het depot toegekende inschrijvingsnummer;  
 
-(vi) in gevallen waarin de schriftelijke verklaring zoals is bedoeld in Regel 6, eerste lid, letter (a), de wetenschappelijke en/of voorgestelde taxonomische aanduiding van het micro-organisme bevat: een verwijzing naar dit feit.     
+(vi) in gevallen waarin de schriftelijke verklaring zoals is bedoeld in Regel 6, eerste lid, letter (a), de wetenschappelijke en/of voorgestelde taxonomische aanduiding van het micro-organisme bevat: een verwijzing naar dit feit.    
 7.4.   *Inhoud van het ontvangbewijs bij een nieuw depot*  Het ontvangbewijs, bedoeld in Regel 7, eerste lid, en afgegeven in het geval van een ingevolge artikel 4 verricht nieuw depot, gaat vergezeld van een afschrift van het ontvangbewijs van het oorspronkelijke depot en een afschrift van de meest recente verklaring inzake de levensvatbaarheid van het oorspronkelijk gedeponeerde micro-organisme, waarin wordt vermeld dat het micro-organisme levensvatbaar is, en dient ten minste de volgende gegevens te bevatten: 
 
 (i) de in Regel 7, derde lid, onder (i) t/m (v) genoemde vermeldingen;  
@@ -1364,8 +1364,8 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Verdra
 
 (ii) de naam en het adres van de internationale depositaris van wie de overdracht afkomstig was;  
 
-(iii) het inschrijvingsnummer dat door de internationale depositaris van wie de overdracht afkomstig was, werd toegekend.     
-7.6.   *Toezending van de wetenschappelijke beschrijving en/of de voorgestelde taxonomische aanduiding*  Op verzoek van een partij die krachtens het bepaalde in Regel 11, eerste, tweede of derde lid, gerechtigd is een monster van het gedeponeerde micro-organisme te ontvangen, zendt de internationale depositaris de in Regel 7, derde lid, onder (vi), of vierde lid, onder (iii), bedoelde wetenschappelijke beschrijving en/of voorgestelde taxonomische aanduiding aan deze partij toe.   
+(iii) het inschrijvingsnummer dat door de internationale depositaris van wie de overdracht afkomstig was, werd toegekend.    
+7.6.   *Toezending van de wetenschappelijke beschrijving en/of de voorgestelde taxonomische aanduiding*  Op verzoek van een partij die krachtens het bepaalde in Regel 11, eerste, tweede of derde lid, gerechtigd is een monster van het gedeponeerde micro-organisme te ontvangen, zendt de internationale depositaris de in Regel 7, derde lid, onder (vi), of vierde lid, onder (iii), bedoelde wetenschappelijke beschrijving en/of voorgestelde taxonomische aanduiding aan deze partij toe.  
 
 ### Regel  8  
 
@@ -1383,15 +1383,15 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Verdra
 
 (iii) de wetenschappelijke beschrijving en/ of de voorgestelde taxonomische aanduiding van het micro-organisme;  
 
-(iv) in geval van een wijziging: de laatste daaraan voorafgaande wetenschappelijke beschrijving en/of voorgestelde taxonomische aanduiding.       
-8.2.   *Bewijs*  De internationale depositaris verstrekt, op verzoek van de bewaargever die de in Regel 8, eerste lid, bedoelde kennisgeving heeft gedaan, deze een bewijs waarin de in Regel 8, eerste lid, letter (b) onder (i) t/m (iv), genoemde gegevens en de datum van ontvangst van deze kennisgeving zijn vermeld.   
+(iv) in geval van een wijziging: de laatste daaraan voorafgaande wetenschappelijke beschrijving en/of voorgestelde taxonomische aanduiding.      
+8.2.   *Bewijs*  De internationale depositaris verstrekt, op verzoek van de bewaargever die de in Regel 8, eerste lid, bedoelde kennisgeving heeft gedaan, deze een bewijs waarin de in Regel 8, eerste lid, letter (b) onder (i) t/m (iv), genoemde gegevens en de datum van ontvangst van deze kennisgeving zijn vermeld.  
 
 ### Regel  9  
 
 ####Opslag van micro-organismen
 
 9.1.   *Duur van de opslag*  Elk micro-organisme dat bij een internationale depositaris wordt gedeponeerd, dient door deze depositaris te worden opgeslagen, met alle nodige zorg om het micro-organisme levensvatbaar en vrij van besmetting te houden, voor een tijdvak van ten minste vijf jaar na het tijdstip waarop het laatste verzoek om verstrekking van een monster van het gedeponeerde micro-organisme door de genoemde depositaris werd ontvangen, en in elk geval voor een tijdvak van ten minste 30 jaar na de datum van het depot.   
-9.2.   *Geheimhouding*  Geen enkele internationale depositaris mag aan derden mededelen of een micro-organisme ingevolge het Verdrag bij hem is gedeponeerd. Bovendien mag hij niemand inlichtingen verstrekken omtrent een bij hem ingevolge dit Verdrag gedeponeerd micro-organisme, behalve aan een instantie, natuurlijke persoon of rechtspersoon die krachtens het bepaalde in Regel 11 bevoegd is tot verkrijging van een monster van het genoemde micro-organisme en op dezelfde voorwaarden als in die Regel zijn bepaald.   
+9.2.   *Geheimhouding*  Geen enkele internationale depositaris mag aan derden mededelen of een micro-organisme ingevolge het Verdrag bij hem is gedeponeerd. Bovendien mag hij niemand inlichtingen verstrekken omtrent een bij hem ingevolge dit Verdrag gedeponeerd micro-organisme, behalve aan een instantie, natuurlijke persoon of rechtspersoon die krachtens het bepaalde in Regel 11 bevoegd is tot verkrijging van een monster van het genoemde micro-organisme en op dezelfde voorwaarden als in die Regel zijn bepaald.  
 
 ### Regel  10  
 
@@ -1432,7 +1432,7 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Verdra
 
 (d) Wat de vorm, de talen en de ondertekening betreft, is mutatis mutandis Regel 7, tweede lid, van toepassing op de verklaring inzake de levensvatbaarheid.  
 
-(e) In het in letter (a) onder (i) bedoelde geval of indien het verzoek wordt gedaan door een bureau voor de industriële eigendom, geschiedt de afgifte van de verklaring inzake de levensvatbaarheid kosteloos. Een eventuele vergoeding, verschuldigd ingevolge Regel 12, eerste lid, letter (a), onder (iii), met betrekking tot een andere verklaring inzake de levensvatbaarheid, wordt aan de partij die om de verklaring heeft verzocht, in rekening gebracht; deze wordt betaald voor of op de datum waarop het verzoek wordt gedaan.     
+(e) In het in letter (a) onder (i) bedoelde geval of indien het verzoek wordt gedaan door een bureau voor de industriële eigendom, geschiedt de afgifte van de verklaring inzake de levensvatbaarheid kosteloos. Een eventuele vergoeding, verschuldigd ingevolge Regel 12, eerste lid, letter (a), onder (iii), met betrekking tot een andere verklaring inzake de levensvatbaarheid, wordt aan de partij die om de verklaring heeft verzocht, in rekening gebracht; deze wordt betaald voor of op de datum waarop het verzoek wordt gedaan.    
 
 ### Regel  11  
 
@@ -1447,12 +1447,12 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Verdra
 (iii) het monster nodig is ten behoeve van de octrooiverleningsprocedure in de genoemde Verdragsluitende Staat of in de genoemde organisatie of de Lid-Staten daarvan;  
 
 (iv) het genoemde monster en alle gegevens die daarbij worden overgelegd of daaruit voortvloeien, slechts zullen worden gebruikt ten behoeve van de genoemde octrooiverleningsprocedure.     
-11.2.   *Verstrekking van monsters aan of met toestemming van de bewaargever*  Een internationale depositaris verstrekt een monster van een gedeponeerd micro-organisme: 
+11.2.   *Verstrekking van monsters aan of met toestemming van de bewaargever* Een internationale depositaris verstrekt een monster van een gedeponeerd micro-organisme: 
 
 (i) aan de bewaargever, op diens verzoek;  
 
 (ii) aan een instantie, natuurlijke persoon of rechtspersoon (hierna te noemen: „de gemachtigde partij”), op verzoek van deze partij, mits het verzoek is vergezeld van een verklaring van de bewaargever, dat in de verzochte verstrekking van een monster wordt toegestemd.     
-11.3.   *Verstrekking van monsters aan wettelijk gerechtigde partijen*  
+11.3.   *Verstrekking van monsters aan wettelijk gerechtigde partijen* 
 
 (a) Een internationale depositaris verstrekt een monster van een gedeponeerd micro-organisme aan een instelling, natuurlijke persoon of rechtspersoon (hierna te noemen: „de bevoegde partij”), op verzoek van deze partij, mits het verzoek wordt gedaan op een formulier waarvan de tekst door de Algemene Vergadering wordt vastgesteld, en het bureau voor de industriële eigendom op dit formulier bevestigt: 
 
@@ -1495,7 +1495,7 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Verdra
 
 (g) Indien de internationale depositaris een monster heeft verstrekt aan een andere belanghebbende partij dan de bewaargever, stelt hij de bewaargever onverwijld schriftelijk in kennis van dit feit, alsmede van de datum waarop het genoemde monster werd verstrekt, en van de naam en het adres van het bureau voor de industriële eigendom, de gemachtigde partij, de bevoegde partij of de verzoekende partij, aan wie of waaraan het monster werd verstrekt. Deze kennisgeving gaat vergezeld van een afschrift van het desbetreffende verzoek, van alle verklaringen, overgelegd ingevolge Regel 11, eerste lid of tweede lid, onder (iii), in verband met het bedoelde verzoek, en van alle formulieren of verzoeken die zijn voorzien van de handtekening van de verzoekende partij overeenkomstig het bepaalde in Regel 11, derde lid.  
 
-(h) De verstrekking van de in Regel 11, eerste lid bedoelde monsters geschiedt kosteloos. Indien de verstrekking van monsters heeft plaatsgevonden ingevolge het bepaalde in Regel 11, tweede of derde lid, wordt een eventuele vergoeding, verschuldigd ingevolge Regel 12, eerste lid, letter (a), onder (iv), in rekening gebracht aan de bewaargever, de gemachtigde partij, de bevoegde partij of de verzoekende partij, al naar het geval is; deze wordt betaald voor of op de datum waarop het verzoek wordt gedaan.     
+(h) De verstrekking van de in Regel 11, eerste lid bedoelde monsters geschiedt kosteloos. Indien de verstrekking van monsters heeft plaatsgevonden ingevolge het bepaalde in Regel 11, tweede of derde lid, wordt een eventuele vergoeding, verschuldigd ingevolge Regel 12, eerste lid, letter (a), onder (iv), in rekening gebracht aan de bewaargever, de gemachtigde partij, de bevoegde partij of de verzoekende partij, al naar het geval is; deze wordt betaald voor of op de datum waarop het verzoek wordt gedaan.    
 
 ### Regel  12  
 
@@ -1503,7 +1503,7 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Verdra
 
 12.1.   *Soorten en bedragen*  
 
-(a) Elke internationale depositaris kan, met betrekking tot de in het Verdrag en dit Uitvoeringsreglement vastgestelde procedure, een vergoeding in rekening brengen voor: 
+(a)  Elke internationale depositaris kan, met betrekking tot de in het Verdrag en dit Uitvoeringsreglement vastgestelde procedure, een vergoeding in rekening brengen voor: 
 
 (i) opslag;  
 
@@ -1522,13 +1522,13 @@ TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, dit Verdra
 
 (b) De Directeur-Generaal stelt onverwijld alle Verdragsluitende Staten en intergouvernementele organisaties voor de industriële eigendom in kennis van elke ingevolge het bepaalde in letter (a) ontvangen kennisgeving en van de datum waarop deze ingevolge het bepaalde in letter (c) van kracht wordt; de kennisgeving van de Directeur-Generaal en de door hem ontvangen kennisgeving worden onverwijld door het Internationaal Bureau gepubliceerd.  
 
-(c) Elke nieuwe vergoeding wordt van kracht met ingang van de in letter (a) genoemde datum, met dien verstande dat, indien de wijziging bestaat in een verhoging van de bedragen van de vergoedingen, of indien geen datum op de voorgeschreven wijze wordt aangegeven, de nieuwe vergoedingen van kracht worden met ingang van de dertigste dag na de publikatie van de wijziging door het Internationaal Bureau.     
+(c) Elke nieuwe vergoeding wordt van kracht met ingang van de in letter (a) genoemde datum, met dien verstande dat, indien de wijziging bestaat in een verhoging van de bedragen van de vergoedingen, of indien geen datum op de voorgeschreven wijze wordt aangegeven, de nieuwe vergoedingen van kracht worden met ingang van de dertigste dag na de publikatie van de wijziging door het Internationaal Bureau.    
 
 ### Regel  13  
 
 ####Publicatie door het Internationaal Bureau
 
-13.1.   *Vorm van de publicatie*  Elke publicatie door het Internationaal Bureau, zoals bedoeld in het Verdrag of dit Uitvoeringsreglement, geschiedt op papier of in elektronische vorm.   
+13.1.  *Vorm van de publicatie* Elke publicatie door het Internationaal Bureau, zoals bedoeld in het Verdrag of dit Uitvoeringsreglement, geschiedt op papier of in elektronische vorm.   
 13.2.   *Inhoud*  
 
 a. Ten minste een maal per jaar, bij voorkeur in het eerste kwartaal van het jaar, wordt een geheel bijgewerkte lijst van internationale depositarissen gepubliceerd, waarbij met betrekking tot elke depositaris wordt aangegeven welke soorten micro-organismen bij hem mogen worden gedeponeerd en welke bedragen door hem in rekening worden gebracht als vergoedingen.  
@@ -1543,13 +1543,13 @@ b. Volledige gegevens omtrent elk van de volgende feiten worden éénmaal gepubl
 
 (iv) elke wijziging in de vergoedingen die door een internationale depositaris in rekening worden gebracht;  
 
-(v) alle eisen waarvan overeenkomstig het bepaalde in Regel 6, derde lid, letter (b), mededeling is gedaan, en alle wijzigingen daarvan.       
+(v) alle eisen waarvan overeenkomstig het bepaalde in Regel 6, derde lid, letter (b), mededeling is gedaan, en alle wijzigingen daarvan.      
 
 ### Regel  14  
 
 ####Kosten van delegaties
 
-14.1.   *Dekking van kosten*  De kosten van elke delegatie die deelneemt aan een zitting van de Algemene Vergadering en aan de werkzaamheden van een commissie, werkgroep of andere bijeenkomst ter behandeling van aangelegenheden die voor de Unie van belang zijn, worden gedragen door de Staat of de organisatie die haar heeft aangewezen.   
+14.1.   *Dekking van kosten*  De kosten van elke delegatie die deelneemt aan een zitting van de Algemene Vergadering en aan de werkzaamheden van een commissie, werkgroep of andere bijeenkomst ter behandeling van aangelegenheden die voor de Unie van belang zijn, worden gedragen door de Staat of de organisatie die haar heeft aangewezen.  
 
 ### Regel  15  
 
@@ -1559,5 +1559,5 @@ b. Volledige gegevens omtrent elk van de volgende feiten worden éénmaal gepubl
 
 (a) In het in artikel 10, vijfde lid, letter (b) bedoelde geval geeft de Directeur-Generaal van elk besluit van de Algemene Vergadering (behalve besluiten die betrekking hebben op de eigen procedure van de Algemene Vergadering) kennis aan de Verdragsluitende Partijen die niet waren vertegenwoordigd toen het besluit werd genomen, en verzoekt hun per post hun stem uit te brengen of hun onthouding kenbaar te maken binnen een termijn van drie maanden, te rekenen van de datum van de mededeling.  
 
-(b) Indien, na afloop van deze termijn, het aantal Verdragsluitende Staten, dat op deze wijze zijn stem heeft uitgebracht of zijn onthouding heeft kenbaar gemaakt, gelijk is aan het aantal Verdragsluitende Staten, dat aan het quorum ontbrak toen het besluit werd genomen, wordt dit besluit van kracht, mits tezelfdertijd de vereiste meerderheid nog aanwezig is.     
+(b) Indien, na afloop van deze termijn, het aantal Verdragsluitende Staten, dat op deze wijze zijn stem heeft uitgebracht of zijn onthouding heeft kenbaar gemaakt, gelijk is aan het aantal Verdragsluitende Staten, dat aan het quorum ontbrak toen het besluit werd genomen, wordt dit besluit van kracht, mits tezelfdertijd de vereiste meerderheid nog aanwezig is.    
 
