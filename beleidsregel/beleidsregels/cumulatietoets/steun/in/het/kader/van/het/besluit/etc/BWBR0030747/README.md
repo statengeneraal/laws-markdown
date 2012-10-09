@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 29 november 2011, nr. WJZ/11142170, houdende het vaststellen van beleidsregels betreffende de cumulatietoets steun in het kader van het Besluit stimulering duurzame energieproductie (Beleidsregels cumulatietoets steun in het kader van het Besluit stimulering duurzame energieproductie)
 
 De Minister van Economische Zaken, Landbouw en Innovatie;  
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op artikel 4:81 van de Algemene wet bestuursrecht;
 Besluit:     
 ### §  1  
 
@@ -13,7 +13,7 @@ Besluit:
 
 In deze beleidsregels wordt verstaan onder: 
 
-– *besluit:* het [Besluit stimulering duurzame energieproductie](../../../../../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+– *besluit:* het Besluit stimulering duurzame energieproductie;  
 
 – *cumulatietoets:* de toets waarmee wordt vastgesteld of en in welke mate overstimulering optreedt;  
 
@@ -37,7 +37,7 @@ In deze beleidsregels wordt verstaan onder:
 
 – *producent:* producent die een productie-installatie voor duurzame energie opricht, in stand houdt en exploiteert waarvoor aan hem SDE-subsidie is verleend of waarvoor hij een aanvraag voor SDE-subsidie heeft ingediend;  
 
-– *productie-installatie:* productie-installatie als bedoeld in [artikel 1, eerste lid, onder h, van het besluit](../../../../../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+– *productie-installatie:* productie-installatie als bedoeld in artikel 1, eerste lid, onder h, van het besluit;  
 
 – *steunmaatregel:* een publiekrechtelijke maatregel op grond waarvan aan een producent steun wordt verleend in de vorm van subsidie, fiscale voordelen of andere voordelen.    
 
@@ -54,8 +54,8 @@ In deze beleidsregels wordt verstaan onder:
 ### Artikel  3  
 
 1.  De producent zendt het ingevulde opgaveformulier binnen acht weken na ontvangst van het opgaveformulier naar Agentschap NL, Postbus 10073, 8000 GB Zwolle. De minister kan deze termijn op verzoek van de producent eenmalig verlengen met een door de minister te bepalen redelijke termijn.   
-2.  Het opgaveformulier wordt voorzien van een accountantsverklaring over de investeringskosten indien het verleende subsidiebedrag hoger is dan 125.000 euro.   
-3.  Indien het opgaveformulier onvolledig of onjuist is ingevuld, kan de minister – overeenkomstig [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) – de producent in de gelegenheid stellen er zorg voor te dragen dat dit formulier juist is ingevuld. Daarbij stelt de minister een door hem te bepalen redelijke termijn.   
+2.  Het opgaveformulier wordt voorzien van een accountantsverklaring indien op grond van artikel 3, derde lid, van de Algemene uitvoeringsregeling stimulering duurzame energieproductie een accountantsverklaring is vereist.   
+3.  Indien het opgaveformulier onvolledig of onjuist is ingevuld, kan de minister – overeenkomstig artikel 4:5 van de Algemene wet bestuursrecht – de producent in de gelegenheid stellen er zorg voor te dragen dat dit formulier juist is ingevuld. Daarbij stelt de minister een door hem te bepalen redelijke termijn.   
 4.  Indien het opgaveformulierniet tijdig, juist en volledig is ingevuld, dan kan de minister besluiten tot één of meer van de volgende maatregelen: 
 
 a. het stopzetten van het uitbetalen van voorschotten;  
@@ -75,30 +75,30 @@ c. het intrekken van de SDE-subsidie.
 
 a. uit het opgaveformulier van de producent blijkt dat hij naast SDE-subsidie uitsluitend steun op grond van een of meerdere van de volgende steunmaatregelen geniet: 
 
-1°. De [Uitvoeringsregeling energie-investeringsaftrek 2001](../../../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/energie-investeringsaftrek/2001/BWBR0012054/README.md);  
+1°. De Uitvoeringsregeling energie-investeringsaftrek 2001;  
 
-2°. [Regeling groenprojecten 2005](../../../../../../../../../../../../ministeriele-regeling/regeling/groenprojecten/2005/BWBR0018466/README.md), of    
+2°. Regeling groenprojecten 2005, of    
 
 b. aan de producent subsidie is verleend voor een productie-installatie voor de productie van hernieuwbare elektriciteit uit zonlicht met behulp van fotovoltaïsche zonnepanelen met een vermogen kleiner of gelijk aan 7,5 kWp.     
-3.  In afwijking van het tweede en derde lid voert de minister altijd een cumulatietoets uit, indien een aanvraag voor SDE-subsidie op grond van punt 5.1. van het milieusteunkader voor een nadere beoordeling moet worden aangemeld bij de Europese Commissie.   
 
 ### Artikel  5  
 
-De cumulatietoets wordt uitgevoerd aan de hand van de in paragraaf 5 opgenomen rekenregels.  
+1.  De cumulatietoets wordt uitgevoerd aan de hand van de in paragraaf 5 opgenomen rekenregels.   
+2.  In afwijking van het eerste lid wordt de cumulatietoets voor een productie-installatie die op grond van punt 5.1 van het milieusteunkader voor een nadere beoordeling is aangemeld bij de Europese Commissie, uitgevoerd aan de hand van de rekenmethodiek die in de goedkeurende beschikking van de Europese Commissie is gehanteerd.   
 
 ### Artikel  6  
 
-De minister verlaagt de maximale subsidiabele productie in MWh of Nm <sup>3</sup> indien uit de cumulatietoets blijkt dat er sprake is van € 10.000 of meer overstimulering en past de beschikking tot subsidieverlening hierop overeenkomstig aan.  
+De minister verlaagt de maximale subsidiabele productie in MWh, Nm3 of GJ indien uit de cumulatietoets blijkt dat er sprake is van € 10.000 of meer overstimulering en past de beschikking tot subsidieverlening hierop overeenkomstig aan.  
 
 ### Artikel  7  
 
 1.  De producent meldt iedere wijziging van de steun die hij ontvangt of zal ontvangen, met uitzondering van de SDE-subsidie, aan de minister.   
 2.  De minister bepaalt aan de hand van de gewijzigde gegevens en het bepaalde artikel 4, tweede en derde lid, of er alsnog of opnieuw een cumulatietoets dient te worden uitgevoerd en – indien van toepassing – voert de cumulatietoets uit met de gewijzigde gegevens en stelt de producent op de hoogte van de uitkomst van de cumulatietoets.   
-3.  De minister verlaagt of verhoogt de maximale subsidiabele productie in MWh of Nm <sup>3</sup> indien uit de cumulatietoets blijkt dat er in vergelijking met de op dat moment geldende maximale subsidiabele productie sprake is van € 10.000 meer of minder overstimulering en past de beschikking tot subsidieverlening daarop aan met dien verstande dat de maximale subsidiabele productie in MWh of Nm <sup>3</sup> niet meer bedraagt dan de maximale subsidiabele productie in MWh of Nm <sup>3</sup> die in de oorspronkelijke beschikking tot subsidieverlening is opgenomen.   
+3.  De minister verlaagt of verhoogt de maximale subsidiabele productie in MWh, Nm3 of GJ indien uit de cumulatietoets blijkt dat er in vergelijking met de op dat moment geldende maximale subsidiabele productie sprake is van € 10.000 meer of minder overstimulering en past de beschikking tot subsidieverlening daarop aan met dien verstande dat de maximale subsidiabele productie in MWh, Nm3 of GJ niet meer bedraagt dan de maximale subsidiabele productie in MWh, Nm3 of GJ die in de oorspronkelijke beschikking tot subsidieverlening is opgenomen.   
 
 ### Artikel  8  
 
-Indien op grond van artikel 6 of 7 de maximale subsidiabele productie in MWh of Nm <sup>3</sup> is verlaagd kan de producent op grond van gewijzigde omstandigheden tot drie maanden voor het verstrijken van de subsidieperiode, verzoeken om een nieuwe cumulatietoets.  
+Indien op grond van artikel 6 of 7 de maximale subsidiabele productie in MWh, Nm3 of GJ is verlaagd kan de producent op grond van gewijzigde omstandigheden tot drie maanden voor het verstrijken van de subsidieperiode, verzoeken om een nieuwe cumulatietoets.  
 
 ### §  4  
 
@@ -116,38 +116,46 @@ Indien op grond van artikel 6 of 7 de maximale subsidiabele productie in MWh of
 
 ### Artikel  10  
 
-Bij de berekening van de waarde van SDE-subsidie worden de volgende uitgangspunten gehanteerd: 
+Bij de berekening van de waarde van de maximale SDE-subsidie worden de volgende uitgangspunten gehanteerd: 
 
-a. Indien het afgesloten productiejaren betreft: de netto contante waarde per datum aanvang project van de werkelijke productie in MWh of Nm <sup>3</sup> die per jaar voor subsidie in aanmerking komt per jaar vermenigvuldigd met het basisbedrag minus de voor de betreffende kalenderjaren vastgestelde correcties.  
+a. Indien het afgesloten productiejaren betreft: de netto contante waarde per datum aanvang project van de werkelijke productie in MWh, Nm3 of GJ die per jaar voor subsidie in aanmerking komt per jaar vermenigvuldigd met het basisbedrag minus de voor de betreffende kalenderjaren vastgestelde correcties.  
 
-b. Indien het nog niet afgesloten productiejaren betreft: de netto contante waarde per datum aanvang project van de maximale productie in MWh of Nm <sup>3</sup> die voor subsidie in aanmerking komt vermenigvuldigd met het basisbedrag minus de basiselektriciteitsprijs of de basisgasprijs.    
+b. Indien het nog niet afgesloten productiejaren betreft: de netto contante waarde per datum aanvang project van de maximale productie in MWh, Nm3 of GJ die voor subsidie in aanmerking komt vermenigvuldigd met het basisbedrag minus de basiselektriciteitsprijs of de basisgasprijs.    
+
+### Artikel  10a  
+
+Bij de berekening van de waarde van de geprognosticeerde SDE-subsidie worden de volgende uitgangspunten gehanteerd: 
+
+a. indien het afgesloten productiejaren betreft: de netto contante waarde per datum aanvang project van de werkelijke productie in MWh, Nm3 of GJ die per jaar voor subsidie in aanmerking komt en per jaar vermenigvuldigd met het basisbedrag minus de voor de betreffende kalenderjaren vastgestelde correctiebedragen;  
+
+b. indien het nog niet afgesloten productiejaren betreft: de netto contante waarde per datum aanvang project van de maximale productie in MWh, Nm3 of GJ die voor subsidie in aanmerking komt en per jaar vermenigvuldigd met het basisbedrag minus de geprognosticeerde elektriciteitsprijs, gasprijs of energieprijs voor warmte. De geprognosticeerde elektriciteitsprijs, gasprijs of energieprijs voor warmte worden gebaseerd op de meest recent vastgestelde correctiebedragen, waarbij voor toekomstige jaren rekening gehouden kan worden met inflatie.    
 
 ### Artikel  11  
 
 1.  Onder de maatregelen voor investeringssteun wordt in elk geval verstaan: 
 
-a. de [Uitvoeringsregeling energie-investeringsaftrek 2001](../../../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/energie-investeringsaftrek/2001/BWBR0012054/README.md);  
+a. de Uitvoeringsregeling energie-investeringsaftrek 2001;  
 
-b. de [Regeling groenprojecten 2005](../../../../../../../../../../../../ministeriele-regeling/regeling/groenprojecten/2005/BWBR0018466/README.md);  
+b. de Regeling groenprojecten 2005;  
 
-c. het [Besluit subsidies CO <sup>2</sup> -reductieplan](../../../../../../../../../../../../AMvB/besluit/subsidies/co2-reductieplan/BWBR0009670/README.md);  
+c. het Besluit subsidies CO <sup>2</sup> -reductieplan;  
 
-d. het Subsidieprogramma Reductie Overige Broeikasgassen op grond van [artikel 2.1.1 van de Subsidieregeling milieugerichte technologie](../../../../../../../../../../../../ministeriele-regeling/subsidieregeling/milieugerichte/technologie/BWBR0016362/README.md);  
+d. het Subsidieprogramma Reductie Overige Broeikasgassen op grond van artikel 2.1.1 van de Subsidieregeling milieugerichte technologie;  
 
-e. het [Besluit EOS: demo en transitie-experimenten](../../../../../../../../../../../../AMvB/besluit/eos/demo/en/transitie-experimenten/BWBR0017332/README.md);  
+e. het Besluit EOS: demo en transitie-experimenten;  
 
 f. het Subsidieprogramma Innovatieve Biobrandstoffen;  
 
-g. de milieu-investeringsaftrek op grond van [artikel 3.42a van de Wet inkomstenbelasting 2001](../../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+g. de milieu-investeringsaftrek op grond van artikel 3.42a van de Wet inkomstenbelasting 2001;  
 
-h. de [Uitvoeringsregeling willekeurige afschrijving 2001](../../../../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/willekeurige/afschrijving/2001/BWBR0012035/README.md);  
+h. de Uitvoeringsregeling willekeurige afschrijving 2001;  
 
-i. de [Regeling groenprojecten 2010](../../../../../../../../../../../../ministeriele-regeling/regeling/groenprojecten/2010/BWBR0027439/README.md);  
+i. de Regeling groenprojecten 2010;  
 
 j. regionale of Europese subsidies.     
 2.  Bij de berekening van de waarde van de investeringssteun worden de volgende rekenregels gehanteerd: 
 
-a. de netto contante waarde van het genoten en nog te genieten voordeel van de willekeurige afschrijving milieubedrijfsmiddelen op grond van [artikel 3.31 van de Wet inkomstenbelasting 2001](../../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bedraagt 
+a. de netto contante waarde van het genoten en nog te genieten voordeel van de willekeurige afschrijving milieubedrijfsmiddelen op grond van artikel 3.31 van de Wet inkomstenbelasting 2001 bedraagt 
 
 1°. in geval van maximaal 12 jarige subsidieperiode NCW <sup>Y,1</sup> (0,917*Z*X) - ∑NCW <sup>Y,2 tm 12</sup> (0,083*Z*X)  
 
@@ -155,7 +163,7 @@ a. de netto contante waarde van het genoten en nog te genieten voordeel van de w
 
 b. de netto contante waarde van het genoten en nog te genieten voordeel krachtens de Uitvoeringsregeling energie-investeringsaftrek 2001 bedraagt NCW <sup>Y,1</sup> (X*W*V), waarbij: disconteringspercentage Y in jaar 1; Y = het disconteringspercentage bedoeld in artikel 13; X = het maximale belastingpercentage Inkomstenbelasting of Vennootschapsbelasting dat van toepassing is in het jaar na het jaar van ingebruikname van de productie-installatie, waarbij in 2009 voor de Inkomstenbelasting wordt uitgegaan van 52% en voor de vennootschapsbelasting van 25,5%; W = het meldingsbedrag EIA dat in aanmerking komt voor aftrek; V = het EIA aftrekpercentage dat van toepassing is op het moment van melding van de investering in het kader van de EIA;  
 
-c. de netto contante waarde van het genoten en nog te genieten voordeel van de milieu-investeringsaftrek op grond van [artikel 3.42a van de Wet inkomstenbelasting 2001](../../../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bedraagt NCW <sup>Y,1</sup> (X * U * T), waarbij: NCW <sup>Y,1</sup> = de disconteringsfactor bij disconteringspercentage Y in jaar 1; Y = het disconteringspercentage bedoeld in artikel 13; X = het maximale belastingpercentage inkomstenbelasting of vennootschapsbelasting dat van toepassing is in het jaar na het jaar van ingebruikname van de productie-installatie, waarbij in 2009 voor de inkomstenbelasting wordt uitgegaan van 52% en voor de vennootschapsbelasting van 25,5%; U = het meldingsbedrag MIA dat in aanmerking komt voor aftrek; T = het MIA aftrekpercentage dat van toepassing is op het moment van melding van de soort investering in het kader van de MIA;  
+c. de netto contante waarde van het genoten en nog te genieten voordeel van de milieu-investeringsaftrek op grond van artikel 3.42a van de Wet inkomstenbelasting 2001 bedraagt NCW <sup>Y,1</sup> (X * U * T), waarbij: NCW <sup>Y,1</sup> = de disconteringsfactor bij disconteringspercentage Y in jaar 1; Y = het disconteringspercentage bedoeld in artikel 13; X = het maximale belastingpercentage inkomstenbelasting of vennootschapsbelasting dat van toepassing is in het jaar na het jaar van ingebruikname van de productie-installatie, waarbij in 2009 voor de inkomstenbelasting wordt uitgegaan van 52% en voor de vennootschapsbelasting van 25,5%; U = het meldingsbedrag MIA dat in aanmerking komt voor aftrek; T = het MIA aftrekpercentage dat van toepassing is op het moment van melding van de soort investering in het kader van de MIA;  
 
 d. de waarde van het genoten en nog te genieten voordeel uit een financiering op grond van de Regeling groenprojecten wordt forfaitair vastgesteld op de netto contante waarde per datum aanvang project van 1% van het jaarlijkse leningsbedrag waarbij wordt uitgegaan van een over een periode van 10 jaar lineair aflopend leningsbedrag;  
 
@@ -185,9 +193,9 @@ b. de vaste kosten bestaan uit netaansluitingskosten, grondkosten en onroerend z
 c. de variabele exploitatiebaten bestaan uit verkoop van warmte aan derden, poortgelden, verkoop van restproducten en vermeden aardgaskosten.     
 3.  Bij de berekening van de waarde van de verkoopinkomsten van energie worden de volgende uitgangspunten gehanteerd: 
 
-a. indien het afgesloten productiejaren betreft: de netto contante waarde per datum aanvang project van de werkelijke productie in MWh of Nm <sup>3</sup> per jaar vermenigvuldigd met de op grond van het besluit de voor de betreffende kalenderjaren vastgestelde elektriciteitsprijs en gasprijs.  
+a. indien het afgesloten productiejaren betreft: de netto contante waarde per datum aanvang project van de werkelijke productie in MWh, Nm3 of GJ per jaar vermenigvuldigd met de op grond van het besluit de voor de betreffende kalenderjaren vastgestelde elektriciteitsprijs, gasprijs of energieprijs voor warmte;  
 
-b. indien het nog niet afgesloten productiejaren betreft: de netto contante waarde per datum aanvang project van de verwachte productie in MWh of Nm <sup>3</sup> vermenigvuldigd met de basiselektriciteitsprijs of de basisgasprijs;  
+b. indien het nog niet afgesloten productiejaren betreft: de netto contante waarde per datum aanvang project van de verwachte productie in MWh, Nm3 of GJ vermenigvuldigd met de geprognotiseerde elektriciteitsprijs, gasprijs of energieprijs voor warmte;  
 
 c. wanneer de producent met facturen aantoont dat zijn verkoopinkomsten afwijken van de vastgestelde energieprijzen, wordt met de door de producent opgegeven prijzen gerekend.     
 
@@ -197,9 +205,8 @@ De minister gebruikt voor de berekening van de netto contante waarde van de SDE-
 
 ### Artikel  14  
 
-1.  Er is sprake van overstimulering indien *[Netto investering + Return on Capital + Exploitatiesaldo] < [SDE subsidie + andere exploitatiesubsidies + verkoopinkomsten energie]* en indien  *[Netto investering + Return on Capital] < [SDE subsidie + andere exploitatiesubsidies].*   
-
-2. In afwijking van het eerste lid is er voor de categorieën elektriciteit uit biomassa, afvalverbranding en hernieuwbaar gas sprake van overstimulering indien *[Netto investering + Return on Capital + Exploitatiesaldo] < [SDE subsidie + andere exploitatiesubsidies + verkoopinkomsten energie]*.    
+1.  Er is sprake van overstimulering indien [Netto investering + Return on Capital + Exploitatiesaldo] < [ geprognosticeerde SDE subsidie + andere exploitatiesubsidies + verkoopinkomsten energie] of indien [Netto investering + Return on Capital] < [maximale SDE subsidie + andere exploitatiesubsidies].   
+2.  In afwijking van het eerste lid is er voor de categorieën elektriciteit uit biomassa, afvalverbranding en hernieuwbaar gas sprake van overstimulering indien [Netto investering + Return on Capital + Exploitatiesaldo] < [geprognosticeerde SDE subsidie + andere exploitatiesubsidies + verkoopinkomsten energie].   
 
 ### §  5*  
 
@@ -222,82 +229,75 @@ De
 Minister van Economische Zaken, Landbouw en Innovatie,
 M.J.M.Verhagen  
 
+### Bijlage  
+
+####behorende bij artikel 2, derde lid , van de Beleidsregels cumulatietoets in het kader van het Besluit stimulering duurzame energieproductie
+
 ####Opgaveformulier MSK toets en investeringskosten
 
-(opgaveformulier behorend bij de Beleidsregels cumulatietoets in het kader van het Besluit stimulering 
+(opgaveformulier behorend bij de Beleidsregels cumulatietoets in het kader van het Besluit stimulering duurzame energieproductie) 
 
-####Deel I
+#### *Deel I* 
 
-*Projectgegevens:*  Projectnummer:: Aanvragernaam:  
+Projectgegevens : Projectnummer: «WORDT INGEVULD DOOR AGNL» Aanvragernaam: «WORDT INGEVULD DOOR AGNL» Type installatie: «WORDT INGEVULD DOOR AGNL» Technologie: «WORDT INGEVULD DOOR AGNL» Energiebron: «WORDT INGEVULD DOOR AGNL» Nominaal vermogen: «WORDT INGEVULD DOOR AGNL» «WORDT INGEVULD DOOR AGNL» Gerealiseerde datum ingebruikname: «WORDT INGEVULD DOOR AGNL» Startdatum subsidie: «WORDT INGEVULD DOOR AGNL» Einddatum subsidie: «WORDT INGEVULD DOOR AGNL» Totaal gecommitteerd bedrag: «WORDT INGEVULD DOOR AGNL»  
 
-| --- | --- |
-|:---|:---|
-| Type installatie:  | «CATEGORIE»  |
-| Technologie:  | «TECHNOLOGIE»  |
-| Energiebron:  | «ENERGIEBRON»  |
-| Nominaal vermogen:  | «NOM_OPG_VERMOGEN» «VERMOGENSEENHEID»  |
-| Gerealiseerde datum ingebruikname:  | «GEREALISEERDE DATUM INGEBRUIKNAME»  |
-| Startdatum subsidie:  | «GEREAL_STARTDATUM_SUBS»  |
-| Einddatum subsidie:  | «EINDDATUM_SUBS»  |
-| Totaal gecommitteerd bedrag:  | «DOSSIER_TOTAAL_GECOMMITTEERD»  |
+#### *Deel II(Zelf invullen)* 
 
-####Deel II (Zelf invullen)
-
-*Financieringsgegevens:*  
-
-A Investeringskosten: € ...... Indien het verleende SDE-subsidiebedrag hoger is dan € 125.000 dan dient u een specificatie van de investeringskosten voorzien van een accountantsverklaring bij te voegen. Het model accountantsverklaring + controleprotocol is als bijlage aan dit formulier toegevoegd.  
-
-B Welk deel van de financiering wordt uit eigen vermogen gedaan?: .................. %  
+Financieringsgegevens : A: Heeft u naast SDE en EIA nog andere steun? Ja/nee. Zo nee, ga naar deel V (ondertekening) B: Investeringskosten : € ..... Indien het verleende SDE-subsidiebedrag hoger is dan € 125.000 dan dient u een specificatie van de investeringskosten voorzien van een accountantsverklaring bij te voegen. Het model accountantsverklaring + controleprotocol is als bijlage aan dit formulier toegevoegd. Het model accountantsverklaring + controleprotocol is te vinden op www.agentschapnl.nl/sde. C Welk deel van de financiering wordt uit eigen vermogen gedaan? : ..... %  
 
 | --- |
-|:---|
+|---|
 | Toelichting:  |
 | --- |
 | --- |
 | --- |
-
-Maakt u gebruik van een leaseconstructie?: ...... Ja / Nee  
-
-| --- |
-|:---|
-| Zo ja, geef een beschrijving van de aard van deze constructie:  |
-| --- |
-| --- |
-| --- |
 | --- |
 
-####Deel III (Zelf invullen)
+Maakt u gebruik van een leaseconstructie? :.....Ja / Nee  
 
-*Subsidiegegevens:*  Geniet u naast de SDE-subsidie voor deze installatie ook nog steun op grond van een van onderstaande of overige steunmaatregelen, of heeft u die reeds genoten dan wel zult u die nog genieten.  
+| --- |
+|---|
+| Zo ja, geef een beschrijving van de aard van deze constructie :  |
+| --- |
+| --- |
+| --- |
+| --- |
+
+#### *Deel III(Zelf invullen)* 
+
+Subsidiegegevens : Geniet u naast de SDE-subsidie voor deze installatie ook nog steun op grond van een van onderstaande of overige steunmaatregelen, of heeft u die reeds genoten dan wel zult u die nog genieten.  
 
 | Regeling  |--- |--- |--- | Meldings-/Subsidiebedrag  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | --- | --- | --- | --- | --- |
-| EIA  | --- | Ja / Nee  | --- | € ......  |
-| EIA meldingsnummer(s)  | --- | ......  | --- | --- |
-|    | --- | --- | --- | --- |
-| MIA/ VAMIL  | --- | Ja / Nee  | --- | € ......  |
-| MIA/ VAMIL meldingsnummer  | --- | ......  | --- | --- |
+| EIA  | --- | Ja / Nee  | --- | € .....  |
+| EIA meldingsnummer(s)  | --- | .....  | --- | --- |
+| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
+| MIA/ VAMIL  | --- | Ja / Nee  | --- | € .....  |
+| --- | --- | --- | --- | --- |
+| MIA/ VAMIL meldingsnummer  | --- | .....  | --- | --- |
 | --- | --- | --- | --- | --- |
 | TWA (regeling tijdelijke willekeurige afschrijving)  | --- | Ja / Nee  | --- | --- |
 | --- | --- | --- | --- | --- |
-| Groenfinanciering  | --- | Ja / Nee  | --- | € ......  |
-|    | --- | --- | --- | --- |
-| DEN, ROB, EOS, UKR of andere subsidies  | --- | Ja / Nee  | --- | € ......  |
+| Groenfinanciering  | --- | Ja / Nee  | --- | € .....  |
+| --- | --- | --- | --- | --- |
+| DEN, ROB, EOS, UKR of andere subsidies  | --- | Ja / Nee  | --- | € .....  |
 |  Projectnummer DEN,ROB, EOS en/of UKR  | --- | --- | --- | --- |
 | --- | --- | --- | --- | --- |
-| Overige, EU, provinciale, gemeentelijke subsidies .........  | --- | Ja / Nee  | --- | € ......  |
+| Overige rijks, EU, provinciale, gemeentelijke subsidies .....  | --- | Ja / Nee  | --- | € .....  |
 | Naam en projectnummer subsidieregeling(en)  | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 
-####Deel IV
+#### *Deel IV* 
 
-*Exploitatiegegevens*  
+Exploitatiegegevens A Is aan u SDE-subsidie verleend in de categorie elektriciteit uit biomassa of afvalverbranding of hernieuwbaar gas? Ja / Nee Indien ja, dan dient u een overzicht van de exploitatiegegevens als bijlage te verstrekken. U kunt daarbij eventueel gebruikmaken van het ‘model exploitatieoverzicht’. Deze is te vinden op de website www.agentschapnl.nl/sde. Indien nee, ga dan verder met vraag B B Voor de exploitatiekosten worden de exploitatiekosten gebruikt zoals vermeld in het ‘ECN-model onrendabele topberekening’ behorende bij de basisprijs die van toepassing is voor de producent. Wilt u op grond van artikel 12, eerste lid, onder b van de Beleidsregels afwijken van de forfaitaire waarden uit de onrendabele topberekening van ECN. Ja / Nee Indien ja, dan dient u deze afwijkingen in de exploitatiekosten te onderbouwen.  
 
-A Is u aan u SDE-subsidie verleend in de categorie elektriciteit uit biomassa of afvalverbranding of hernieuwbaar gas? Ja / Nee Indien ja, dan dient u een overzicht van de exploitatiegegevens als bijlage te verstrekken. U kunt daarbij eventueel gebruikmaken van het ‘model exploitatieoverzicht’. Deze is te vinden op de website www.agentschapnl.nl/sde Indien nee, ga dan verder met vraag B  
+#### *Deel V* 
 
-B Voor de exploitatiekosten worden de exploitatiekosten gebruikt zoals vermeld in het ‘ECN-model onrendabele topberekening’ behorende bij de basisprijs die van toepassing is voor de producent. Wilt u op grond van artikel 12 lid B van de Beleidsregels afwijken van de forfaitaire waarden uit de onrendabele topberekening van ECN(Link toevoegen)? Ja / Nee Indien ja, dan dient u deze afwijkingen in de exploitatiekosten te onderbouwen.    
-
-####Deel V
-
-*Ondertekening:*  Aldus naar waarheid ingevuld Naam ondertekenaar ........ Plaats ........ Datum ........ Handtekening ........  
+Ondertekening : Aldus naar waarheid ingevuld Naam ondertekenaar ..... Plaats ..... Datum ..... Handtekening .....  
 
