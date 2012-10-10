@@ -3,23 +3,23 @@
 ##Besluit van de Minister van Veiligheid en Justitie van 11 maart 2011, nr. 5688652/11, houdende mandaat van de bevoegdheid tot beëdiging van de buitengewoon opsporingsambtenaar (Mandaatbesluit bevoegdheid tot beëdiging buitengewoon opsporingsambtenaar)
 
 De Minister van Veiligheid en Justitie,  
-Gelet op [artikel 21, eerste lid, van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) en [artikel 10:9, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op artikel 21, eerste lid, van het Besluit buitengewoon opsporingsambtenaar en artikel 10:9, eerste lid, van de Algemene wet bestuursrecht;
 Besluit:    
 
 ### Artikel  1  
 
-1.  Het afleggen van de eden, verklaringen en beloften, bedoeld in [artikel 20, eerste lid, van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md), geschiedt in handen van de als direct toezichthouder aangewezen korpschef van een regionaal politiekorps of de korpschef van het Korps landelijke politiediensten.   
-2.  Indien de te beëdigen persoon behoort tot een dienst die ressorteert onder enig ministerie, geschiedt de beëdiging in handen van het hoofd van die dienst.   
+1.  Aan de direct toezichthouder, aangewezen krachtens artikel 36, eerste en derde lid, van het Besluit buitengewoon opsporingsambtenaar, wordt mandaat verleend van de bevoegdheid tot het afleggen van de eden, verklaringen en beloften, bedoeld in artikel 20, eerste lid, van dat Besluit.   
+2.  Het in het eerste lid bedoelde mandaat wordt ten aanzien van een te beëdigen persoon die behoort tot een dienst die ressorteert onder een ministerie, tevens verleend aan het hoofd van die dienst.   
 
 ### Artikel  2  
 
-1.  De direct toezichthouder kan bepalen dat het afleggen van de eden, verklaringen en beloften, bedoeld in [artikel 20, eerste lid, van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md), namens hem geschiedt in handen van de plaatsvervangend korpschef, alsmede direct leidinggevenden, in de rang van commissaris van politie.   
-2.  Het hoofd van dienst, genoemd in artikel 1, tweede lid, kan bepalen dat het afleggen van de eden, verklaringen en beloften, bedoeld in [artikel 20, eerste lid, van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md), namens hem geschiedt in handen van zijn plaatsvervanger.   
-3.  In aanvulling op het tweede lid kan de Commandant Koninklijke Marechaussee, in zijn hoedanigheid van hoofd van dienst, bepalen dat het afleggen van de eden, verklaringen en beloften, bedoeld in [artikel 20, eerste lid, van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md), namens hem geschiedt in handen van de Districtscommandanten van de Koninklijke Marechaussee, de Commandant van het Landelijk Opleidings- en Kenniscentrum Koninklijke Marechaussee of hun plaatsvervangers.   
+1.  De direct toezichthouder kan bepalen dat het afleggen van de eden, verklaringen en beloften, bedoeld in artikel 20, eerste lid, van het Besluit buitengewoon opsporingsambtenaar, namens hem geschiedt in handen van de plaatsvervangend korpschef, alsmede direct leidinggevenden, in de rang van commissaris van politie.   
+2.  Het hoofd van dienst, genoemd in artikel 1, tweede lid, kan bepalen dat het afleggen van de eden, verklaringen en beloften, bedoeld in artikel 20, eerste lid, van het Besluit buitengewoon opsporingsambtenaar, namens hem geschiedt in handen van zijn plaatsvervanger.   
+3.  In aanvulling op het tweede lid kan de Commandant Koninklijke Marechaussee, in zijn hoedanigheid van hoofd van dienst, bepalen dat het afleggen van de eden, verklaringen en beloften, bedoeld in artikel 20, eerste lid, van het Besluit buitengewoon opsporingsambtenaar, namens hem geschiedt in handen van de Districtscommandanten van de Koninklijke Marechaussee, de Commandant van het Landelijk Opleidings- en Kenniscentrum Koninklijke Marechaussee of hun plaatsvervangers.   
 
 ### Artikel  3  
 
-Het [Mandaatbesluit bevoegdheid tot beëdiging buitengewoon opsporingsambtenaar van 7 juni 2004, nr. 5290571/504](../../../../../../../../ministeriele-regeling/mandaatbesluit/bevoegdheid/tot/beëdiging/buitengewoon/opsporingsambtenaar/BWBR0016836/README.md), wordt ingetrokken.  
+Het Mandaatbesluit bevoegdheid tot beëdiging buitengewoon opsporingsambtenaar van 7 juni 2004, nr. 5290571/504, wordt ingetrokken.  
 
 ### Artikel  4  
 

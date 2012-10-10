@@ -139,7 +139,9 @@ f. Wet organisatie bloedvoorziening BES;
 
 g. Wet zorginstellingen BES;  
 
-h. Wet afbreking zwangerschap.     
+h. Wet afbreking zwangerschap;  
+
+i. Wet toetsing levensbeëindiging op verzoek en hulp bij zelfdoding.     
 3.  Het Staatstoezicht op de Volksgezondheid oefent in de openbare lichamen Bonaire, Sint Eustatius en Saba zijn taken uit met inachtneming van de rechten, plichten en bevoegdheden, genoemd in de Hoofdstukken 3, 4 en 5 van de Wet Inspectie voor de Volksgezondheid BES, zoals die luidde op 1 januari 2011.   
 
 ### §  3  
