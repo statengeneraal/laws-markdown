@@ -3,7 +3,7 @@
 ##Besluit van het Bestuur van de Nederlandse Emissieautoriteit van 21 februari 2012, nr. U2012-02-16/01148 houdende verlening van mandaat (Besluit mandaat Bestuur Nederlandse Emissieautoriteit)
 
 Het Bestuur,  
-Gelet op de [artikelen 16.5](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.10](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.12](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.13](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.16](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.17](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.20](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.20a](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.20b](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.39](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.39d](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.39h](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.39n](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [16.49](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [18.6a](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [18.6b](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [18.16a](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [18.16q](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), [18.16s van de Wet milieubeheer](../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op de artikelen 16.5, 16.10, 16.12, 16.13, 16.16, 16.17, 16.20, 16.20a, 16.20b, 16.39, 16.39d, 16.39h, 16.39n, 16.49, 18.6a, 18.6b, 18.16a, 18.16q, 18.16s van de Wet milieubeheer;
 Besluit:    
 
 ### Artikel  1  
@@ -30,7 +30,7 @@ Aan de Directeur en Plaatsvervangend Directeur wordt mandaat verleend om besluit
 
 – het verlenen, wijzigen, intrekken en weigeren van een emissievergunning van broeikasgassen en stikstofoxiden;  
 
-– het beslissen op meldingen van niet-ingrijpende wijzigingen van het monitoringplan;  
+– het beslissen op meldingen van wijzigingen van het monitoringplan;  
 
 – het doen wijzigen van het monitoringplan;  
 
@@ -44,7 +44,19 @@ Aan de Directeur en Plaatsvervangend Directeur wordt mandaat verleend om besluit
 
 – het opleggen van een bestuurlijke boete;  
 
-– het nemen van invorderingsbeschikkingen.    
+– het nemen van invorderingsbeschikkingen;  
+
+– van het vaststellen van formulieren voor het doen van meldingen van wijzigingen van het monitoringsplan, bedrijfswijzigingen die gevolgen hebben voor de hoogte van de toewijzing, het aanvragen van kosteloze toewijzing van broeikasgasemissierechten en voor het opstellen van het monitoringsplan, het emissieverslag en de verificatieverklaring;  
+
+– het verzoeken aan de drijver van de inrichting om geverifieerde gegevens aan te leveren, indien nodig voor aanpassing van de toewijzing als gevolg van een wijziging van de Carbon-Leakage-lijst;  
+
+– het afhandelen van bezwaren tegen de weigering van de nationale administrateur om een rekening te openen;  
+
+– het afhandelen van bezwaren tegen de weigering van de nationale administrateur om een gemachtigde vertegenwoordiger of een extra gemachtigde vertegenwoordiger goed te keuren;  
+
+– het afhandelen van bezwaren tegen een opschorting van de toegang tot de rekening;  
+
+– het afhandelen van bezwaren tegen een afsluiting van de rekening of verwijdering van een gemachtigde vertegenwoordiger.    
 
 ### Artikel  3  
 
@@ -68,7 +80,7 @@ Indien op grond van dit besluit stukken worden afgedaan, luidt de ondertekening:
 
 ####Slotbepalingen
 
-1.  Het [besluit Mandaat, Volmacht en Machtiging Nederlandse Emissieautoriteit 2007](../../../../../../../../zbo/besluit/mandaat/volmacht/en/machtiging/nederlandse/emissieautoriteit/2007/BWBR0022573/README.md) wordt ingetrokken.   
+1.  Het besluit Mandaat, Volmacht en Machtiging Nederlandse Emissieautoriteit 2007 wordt ingetrokken.   
 2.  Dit besluit wordt aangehaald als Besluit Mandaat Bestuur Nederlandse emissieautoriteit 2012.   
 3.  Dit besluit treedt in werking op de dag na publicatie in de Staatscourant.   
 

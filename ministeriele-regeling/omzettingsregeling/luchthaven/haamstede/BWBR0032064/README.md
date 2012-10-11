@@ -12,7 +12,7 @@ Besluit:
 ### Artikel  1  
 
 1.  In deze regeling wordt verstaan onder daglichtperiode en zweefvliegtuig hetgeen daaronder wordt verstaan in [artikel 1 van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md).   
-2.  De exploitant van de luchthaven is de Vliegclub Haamstede.   
+2.  De exploitant van de luchthaven is de Vliegclub Haamstede.  
 
 ### Hoofdstuk  2  
 
@@ -21,7 +21,7 @@ Besluit:
 ### Artikel  2  
 
 1.  Deze regeling is van toepassing op de luchthaven Haamstede.   
-2.  Het luchthavengebied is aangegeven op de kaart in bijlage 1 bij deze regeling.   
+2.  Het luchthavengebied is aangegeven op de kaart in bijlage 1 bij deze regeling.  
 
 ### Hoofdstuk  3  
 
@@ -29,11 +29,11 @@ Besluit:
 
 ### Artikel  3  
 
-Op de luchthaven zijn uitsluitend zweefvliegtuigen toegestaan.  
+Op de luchthaven zijn uitsluitend zweefvliegtuigen toegestaan. 
 
 ### Artikel  4  
 
-Het gebruik van de luchthaven vindt plaats binnen de daglichtperiode overeenkomstig de zichtvliegvoorschriften, bedoeld in [hoofdstuk 3, afdeling 3, van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md).  
+Het gebruik van de luchthaven vindt plaats binnen de daglichtperiode overeenkomstig de zichtvliegvoorschriften, bedoeld in [hoofdstuk 3, afdeling 3, van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md). 
 
 ### Hoofdstuk  4  
 
@@ -41,18 +41,18 @@ Het gebruik van de luchthaven vindt plaats binnen de daglichtperiode overeenkoms
 
 ### Artikel  5  
 
-Deze regeling treedt in werking met ingang van 1 april 2011.  
+Deze regeling treedt in werking met ingang van 1 april 2011. 
 
 ### Artikel  6  
 
-Deze regeling wordt aangehaald als: Omzettingsregeling luchthaven Haamstede.  
+Deze regeling wordt aangehaald als: Omzettingsregeling luchthaven Haamstede. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Infrastructuur en Milieu,
-J.J.Atsma  
+Staatssecretaris van Infrastructuur en Milieu, 
+J.J. Atsma    
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####, bedoeld in artikel 2  van de Omzettingsregeling luchthaven Haamstede: ligging van de luchthaven
 

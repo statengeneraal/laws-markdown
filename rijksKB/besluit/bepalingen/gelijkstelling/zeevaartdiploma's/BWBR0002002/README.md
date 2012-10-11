@@ -13,11 +13,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Met de diploma's voor stuurlieden en machinisten, uitgereikt na met gunstigen uitslag afgelegde examens voor een commissie, ingesteld ingevolge de Wet op de Zeevaartdiploma's (*Staatsblad* 1935, N°. 456), worden gelijkgesteld de diploma's, uitgereikt door of vanwege den Gouverneur van Curaçao, na met gunstigen uitslag afgelegde examens voor de commissie, ingesteld door dien Gouverneur, met inachtneming van de exameneischen, door en krachtens die Wet bepaald.  
+Met de diploma's voor stuurlieden en machinisten, uitgereikt na met gunstigen uitslag afgelegde examens voor een commissie, ingesteld ingevolge de Wet op de Zeevaartdiploma's (*Staatsblad* 1935, N°. 456), worden gelijkgesteld de diploma's, uitgereikt door of vanwege den Gouverneur van Curaçao, na met gunstigen uitslag afgelegde examens voor de commissie, ingesteld door dien Gouverneur, met inachtneming van de exameneischen, door en krachtens die Wet bepaald. 
 
 ### Artikel  2  
 
-De Minister van Waterstaat is belast met de uitvoering van dit Besluit, dat in het *Staatsblad* wordt geplaatst en in werking treedt met ingang van den dag volgende op dien van de afkondiging.  
+De Minister van Waterstaat is belast met de uitvoering van dit Besluit, dat in het *Staatsblad* wordt geplaatst en in werking treedt met ingang van den dag volgende op dien van de afkondiging. 
 
 Londen 
 3 April 1941  

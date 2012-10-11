@@ -8,15 +8,15 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Vrijstellingsregeling Wft.   
+Wijzigt de Vrijstellingsregeling Wft. 
 
 ### Artikel  II  
 
-Personen die op het tijdstip van inwerkingtreding van deze regeling voldoen aan [artikel 11, eerste of tweede lid](../../../../../../../../../ministeriele-regeling/vrijstellingsregeling/wft/BWBR0020536/README.md), kunnen tot 1 oktober 2008 voldoen aan [artikel 11, derde lid, onderdeel e](../../../../../../../../../ministeriele-regeling/vrijstellingsregeling/wft/BWBR0020536/README.md).  
+Personen die op het tijdstip van inwerkingtreding van deze regeling voldoen aan [artikel 11, eerste of tweede lid](../../../../../../../../../ministeriele-regeling/vrijstellingsregeling/wft/BWBR0020536/README.md), kunnen tot 1 oktober 2008 voldoen aan [artikel 11, derde lid, onderdeel e](../../../../../../../../../ministeriele-regeling/vrijstellingsregeling/wft/BWBR0020536/README.md). 
 
 ### Artikel  III  
 
-Wijzigt de Regeling vaststelling bedragen 2008 ex artikelen 2 en 3, Besluit bekostiging financieel toezicht.   
+Wijzigt de Regeling vaststelling bedragen 2008 ex artikelen 2 en 3, Besluit bekostiging financieel toezicht. 
 
 ### Artikel  IV  
 
@@ -29,9 +29,9 @@ b. het eerste lid, onderdeel h, voor zover het betreft de [artikelen 58a](../../
 c. het eerste lid, onderdeel i; en  
 
 d. het derde lid, onderdeel a.     
-2.  Artikel III, onderdeel A, onderdeel 2, werkt terug tot en met 17 januari 2008.   
+2.  Artikel III, onderdeel A, onderdeel 2, werkt terug tot en met 17 januari 2008.  
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Financiën, 
-W.J.Bos   
+W.J. Bos     

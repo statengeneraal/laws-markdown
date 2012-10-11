@@ -7,62 +7,76 @@ Gelet op [artikel 1:40 van de Wet op het financieel toezicht](../../../../../../
 Besluit:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 16-08-2012 
 
-Deze regeling is niet van toepassing op kosten voor werkzaamheden die op het tijdstip van haar inwerkingtreding reeds bij onherroepelijke beschikking in rekening zijn gebracht.  
+Deze regeling is niet van toepassing op kosten voor werkzaamheden die op het tijdstip van haar inwerkingtreding reeds bij onherroepelijke beschikking in rekening zijn gebracht. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 16-08-2012 
 
-Wijzigt de Regeling bekostiging financieel toezicht.   
+Wijzigt de Regeling bekostiging financieel toezicht. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 16-08-2012 
 
-Wijzigt de Vaststellingregeling verdeelsleutels, bandbreedtes en bedragen 2005 Regeling bekostiging financieel toezicht.   
+Wijzigt de Vaststellingregeling verdeelsleutels, bandbreedtes en bedragen 2005 Regeling bekostiging financieel toezicht. 
 
 ### Artikel  IV  
+Materieel uitgewerkt per 16-08-2012 
 
-Wijzigt de Vaststellingsregeling bedragen 2006 Regeling bekostiging financieel toezicht.   
+Wijzigt de Vaststellingsregeling bedragen 2006 Regeling bekostiging financieel toezicht. 
 
 ### Artikel  V  
+Materieel uitgewerkt per 16-08-2012 
 
-Wijzigt de Vaststellingsregeling verdeelsleutels, bandbreedtes en bedragen 2006 Regeling bekostiging financieel toezicht.   
+Wijzigt de Vaststellingsregeling verdeelsleutels, bandbreedtes en bedragen 2006 Regeling bekostiging financieel toezicht. 
 
 ### Artikel  VI  
+Materieel uitgewerkt per 16-08-2012 
 
-Wijzigt de Vaststellingsregeling tarieven 2006 ex. art. 11 Regeling toezichtkosten Wet financiële dienstverlening.   
+Wijzigt de Vaststellingsregeling tarieven 2006 ex. art. 11 Regeling toezichtkosten Wet financiële dienstverlening. 
 
 ### Artikel  VII  
+Materieel uitgewerkt per 16-08-2012 
 
-Wijzigt de Vaststellingsregeling tarieven voor doorlopend toezicht Wet financiële dienstverlening.   
+Wijzigt de Vaststellingsregeling tarieven voor doorlopend toezicht Wet financiële dienstverlening. 
 
 ### Artikel  VIII  
+Materieel uitgewerkt per 16-08-2012 
 
-Wijzigt de Vaststellingsregeling eenmalige tarieven 2006 en 2007 ex. artikelen 2 en 6 Regeling toezichtkosten Wet toezicht accountantsorganisaties.   
+Wijzigt de Vaststellingsregeling eenmalige tarieven 2006 en 2007 ex. artikelen 2 en 6 Regeling toezichtkosten Wet toezicht accountantsorganisaties. 
 
 ### Artikel  IX  
+Materieel uitgewerkt per 16-08-2012 
 
-Wijzigt de Regeling vaststelling brandbreedtes, maatstaven en tarieven 2007 ex. art. 3 Regeling toezichtkosten Wet toezicht accountantsorganisaties.   
+Wijzigt de Regeling vaststelling brandbreedtes, maatstaven en tarieven 2007 ex. art. 3 Regeling toezichtkosten Wet toezicht accountantsorganisaties. 
 
 ### Artikel  X  
+Materieel uitgewerkt per 16-08-2012 
 
-Wijzigt de Regeling vaststelling bedragen 2007 ex artt. 2 en 3 Besluit bekostiging financieel toezicht.   
+Wijzigt de Regeling vaststelling bedragen 2007 ex artt. 2 en 3 Besluit bekostiging financieel toezicht. 
 
 ### Artikel  XI  
+Materieel uitgewerkt per 16-08-2012 
 
-Wijzigt de Regeling vaststelling verdeelsleutels, bandbreedtes, maatstaven en bedragen Besluit bekostiging financieel toezicht.   
+Wijzigt de Regeling vaststelling verdeelsleutels, bandbreedtes, maatstaven en bedragen Besluit bekostiging financieel toezicht. 
 
 ### Artikel  XII  
+Materieel uitgewerkt per 16-08-2012 
 
-Wijzigt de Regeling vaststelling verdeelsleutels, bandbreedtes en bedragen 2007 Wet toezicht financiële verslaggeving.   
+Wijzigt de Regeling vaststelling verdeelsleutels, bandbreedtes en bedragen 2007 Wet toezicht financiële verslaggeving. 
 
 ### Artikel  XIII  
+Materieel uitgewerkt per 16-08-2012 
 
-Indien het bedrag van de heffing dat is verschuldigd ingevolge deze regeling hoger is dan het bedrag van de heffing zoals oorspronkelijk vastgesteld, dan wordt aan de onderneming het laagste bedrag in rekening gebracht.  
+Indien het bedrag van de heffing dat is verschuldigd ingevolge deze regeling hoger is dan het bedrag van de heffing zoals oorspronkelijk vastgesteld, dan wordt aan de onderneming het laagste bedrag in rekening gebracht. 
 
 ### Artikel  XIV  
+Materieel uitgewerkt per 16-08-2012 
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Financiën, 
-W.J.Bos   
+W.J. Bos     

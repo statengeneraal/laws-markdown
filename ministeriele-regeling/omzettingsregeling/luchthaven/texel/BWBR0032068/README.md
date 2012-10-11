@@ -13,17 +13,17 @@ Besluit:
 
 1.  In deze regeling wordt verstaan onder: 
 
-– *beweging:* een start of een landing met een luchtvaartuig;  
+–  *beweging:* een start of een landing met een luchtvaartuig;  
 
-– *exploitant:* Texel Airport N.V.;  
+–  *exploitant:* Texel Airport N.V.;  
 
-– *wet:*[wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur](../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md);  
+–  *wet:* [wet van 18 december 2008, houdende wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur](../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md);  
 
-– *vlucht van maatschappelijk belang:* het uitvoeren van een HEMS-vlucht of een politievlucht, zoals bedoeld in de [vrijstellingsregeling LVR](../../../../../ministeriele-regeling/vrijstellingsregeling/lvr/BWBR0021092/README.md);  
+–  *vlucht van maatschappelijk belang:* het uitvoeren van een HEMS-vlucht of een politievlucht, zoals bedoeld in de [vrijstellingsregeling LVR](../../../../../ministeriele-regeling/vrijstellingsregeling/lvr/BWBR0021092/README.md);  
 
-– *zweefvliegtuig:* zweeftoestel met vaste vleugel.     
+–  *zweefvliegtuig:* zweeftoestel met vaste vleugel.     
 2.  In deze regeling wordt verstaan onder daglichtperiode, helikopter en vliegtuig hetgeen daaronder wordt verstaan in [artikel 1 van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md).   
-3.  Het gebruiksjaar betreft de periode van 1 april van enig jaar tot 1 april van het daarop volgende jaar.   
+3.  Het gebruiksjaar betreft de periode van 1 april van enig jaar tot 1 april van het daarop volgende jaar.  
 
 ### Hoofdstuk  2  
 
@@ -32,7 +32,7 @@ Besluit:
 ### Artikel  2  
 
 1.  Deze regeling is van toepassing op de luchthaven Texel.   
-2.  Het luchthavengebied is aangegeven op de kaart in bijlage 1 bij deze regeling.   
+2.  Het luchthavengebied is aangegeven op de kaart in bijlage 1 bij deze regeling.  
 
 ### Artikel  3  
 
@@ -42,7 +42,7 @@ a. een onverharde start- en landingsbaan in de geografische richting 036°-216°
 
 b. een onverharde start- en landingsbaan in de geografische richting 126°-306° met een lengte van 622 meter en een breedte van minimaal 30 meter, met daarbij behorende onverharde rijbanen, voor het luchtverkeer ingedeeld in codenummer 1 en codeletter B;   een en ander zoals vermeld in bijlage 14 van het Verdrag inzake de internationale burgerluchtvaart (Trb. 1973, 109), en zoals aangegeven op de kaart in bijlage 1 bij deze regeling. 
 
-c. een landingsplaats ter grootte van 30 bij 30 meter voor het landen en opstijgen met helikopters, zoals aangegeven op de kaart in bijlage 1 bij deze regeling.    
+c. een landingsplaats ter grootte van 30 bij 30 meter voor het landen en opstijgen met helikopters, zoals aangegeven op de kaart in bijlage 1 bij deze regeling.   
 
 ### Hoofdstuk  3  
 
@@ -51,7 +51,7 @@ c. een landingsplaats ter grootte van 30 bij 30 meter voor het landen en opstijg
 ### Artikel  4  
 
 1.  Op de luchthaven is uitsluitend burgerluchtverkeer toegestaan.   
-2.  In afwijking van het eerste lid zijn op de luchthaven per gebruiksjaar maximaal 100 bewegingen met militaire vliegtuigen en militaire helikopters toegestaan, indien de bewegingen plaatsvinden ten behoeve van vluchten die humanitair dan wel operationeel noodzakelijk zijn.   
+2.  In afwijking van het eerste lid zijn op de luchthaven per gebruiksjaar maximaal 100 bewegingen met militaire vliegtuigen en militaire helikopters toegestaan, indien de bewegingen plaatsvinden ten behoeve van vluchten die humanitair dan wel operationeel noodzakelijk zijn.  
 
 ### Artikel  5  
 
@@ -86,11 +86,11 @@ g. onverminderd het hiervoor gestelde dient te worden voldaan aan alle door of n
 
 a. het opstijgen van de zweefvliegtuigen geschiedt door het opslepen door middel van een lier of door middel van een vliegtuig;  
 
-b. de havenmeester dient vooraf toestemming te verlenen voor het feitelijk gebruik van het luchthavengebied voor zweefvliegtuigen.     
+b. de havenmeester dient vooraf toestemming te verlenen voor het feitelijk gebruik van het luchthavengebied voor zweefvliegtuigen.    
 
 ### Artikel  6  
 
-De ligging van de handhavingspunten, bedoeld in [artikel X, eerste lid, van de wet](../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md), en de grenswaarden voor de geluidbelasting op die punten, zijn opgenomen op de kaart onderscheidenlijk in de tabel in bijlage 1 bij deze regeling.  
+De ligging van de handhavingspunten, bedoeld in [artikel X, eerste lid, van de wet](../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md), en de grenswaarden voor de geluidbelasting op die punten, zijn opgenomen op de kaart onderscheidenlijk in de tabel in bijlage 1 bij deze regeling. 
 
 ### Hoofdstuk  4  
 
@@ -98,7 +98,7 @@ De ligging van de handhavingspunten, bedoeld in [artikel X, eerste lid, van de w
 
 ### Artikel  7  
 
-Het beperkingengebied, bedoeld in [artikel X, vijfde lid, van de wet](../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md), is aangegeven op de kaart in bijlage 2 bij deze regeling.  
+Het beperkingengebied, bedoeld in [artikel X, vijfde lid, van de wet](../../../../../wet/wijzigingswet/wet/luchtvaart/(regelgeving/burgerluchthavens/en/militaire/etc/BWBR0024928/README.md), is aangegeven op de kaart in bijlage 2 bij deze regeling. 
 
 ### Hoofdstuk  5  
 
@@ -106,30 +106,30 @@ Het beperkingengebied, bedoeld in [artikel X, vijfde lid, van de wet](../../../.
 
 ### Artikel  8  
 
-Deze regeling treedt in werking met ingang van 1 juli 2012.  
+Deze regeling treedt in werking met ingang van 1 juli 2012. 
 
 ### Artikel  9  
 
-Deze regeling wordt aangehaald als: Omzettingsregeling luchthaven Texel.  
+Deze regeling wordt aangehaald als: Omzettingsregeling luchthaven Texel. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Infrastructuur en Milieu,
-J.J.Atsma  
+Staatssecretaris van Infrastructuur en Milieu, 
+J.J. Atsma    
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####, bedoeld in de artikelen 2 , 3  en 6  van de Omzettingsregeling luchthaven Texel: ligging van de baan en plaats van de handhavingspunten, grenswaarden in handhavingspunten
 
 ![251166](http://wetten.overheid.nl/Illustration/251166)
 
-### Bijlage  2a  
+### Bijlage 2a 
 
 ####, bedoeld in artikel 7  van de Omzettingsregeling luchthaven Texel: het beperkingengebied ten gevolge van de Bkl-zone
 
 ![251167](http://wetten.overheid.nl/Illustration/251167)
 
-### Bijlage  2b  
+### Bijlage 2b 
 
 ####, bedoeld in artikel 7  van de Omzettingsregeling luchthaven Texel: het beperkingengebied ten gevolge van de Ke-zone
 
