@@ -13,17 +13,19 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *Minister:* de Minister van Justitie;  
+a. *Minister:* de Minister van Veiligheid en Justitie;  
 
 b. *consument:* een afnemer van niet voor een beroep of bedrijf bestemde goederen of diensten;  
 
-c. *consumentenklacht:* een op een overeenkomst tussen een consument en een ondernemer betrekking hebbend geschil dat door die consument aan die ondernemer kenbaar is gemaakt en waarover tussen partijen schriftelijk is overeengekomen dat zij dat zullen onderwerpen aan het oordeel van een geschillencommissie;  
+c. *consumentenklacht:* een geschil tussen een consument en een ondernemer c.q. dienstverlener dat door die consument aan die ondernemer c.q. dienstverlener kenbaar is gemaakt en waarover tussen partijen is overeengekomen dat zij dat onderwerpen aan het oordeel van een geschillencommissie;  
 
 d. *geschillencommissie:* een commissie, die uitspraken doet in de vorm van arbitrage of bindend advies in geschillen, die hun oorsprong vinden in consumentenklachten;  
 
 e. *bij een geschillencommissie aangesloten ondernemer:* een ondernemer, die zich heeft verplicht zich aan de uitspraken van een geschillencommissie te onderwerpen;  
 
-f. *branche:* de ondernemers, die dezelfde groepen produkten of diensten aanbieden, hetzelfde distributiesysteem toepassen of een andere verwantschap vertonen die aansluiting bij eenzelfde geschillencommissie rechtvaardigt.    
+f. *branche:* de ondernemers, die dezelfde groepen produkten of diensten aanbieden, hetzelfde distributiesysteem toepassen of een andere verwantschap vertonen die aansluiting bij eenzelfde geschillencommissie rechtvaardigt;  
+
+g. *Stichting:* de Stichting Geschillencommissies voor Consumentenzaken (SGC), zijnde de overkoepelende organisatie voor instelling en instandhouding van erkende onafhankelijke geschillencommissies voor consumentenklachten.    
 
 ### Artikel  2  
 
@@ -38,6 +40,8 @@ De Minister erkent een geschillencommissie op een overeenkomstig artikel 5 inged
 1.  De bij de geschillencommissie aangesloten ondernemers dienen tot dezelfde branche te behoren.   
 2.  De in het eerste lid bedoelde ondernemers dienen, voor zover het betreft de overeenkomsten die zij met consumenten sluiten, in hun branche naar het oordeel van de Minister een groep van voldoende betekenis te vormen.   
 3.  De geschillencommissie dient open te staan voor aansluiting door iedere tot de branche behorende ondernemer.   
+4.  De geschillencommissie dient zich voor erkenning aan te sluiten bij de Stichting Geschillencommissies voor Consumentenzaken (SGC).   
+5.  De Stichting stuurt een schriftelijk verzoek tot erkenning van de bij de Stichting aan te sluiten geschillencommissie aan de Minister.   
 
 ### Artikel  4  
 
@@ -62,13 +66,13 @@ c. regels omtrent de mogelijkheid van wraking van een lid van de geschillencommi
 
 d. regels omtrent de wijze waarop de wederpartij op de hoogte zal worden gesteld van het aanhangig maken van het geschil en van de behandeling daarvan door de commissie;  
 
-e. het op voet van gelijkheid bieden van gelegenheid aan partijen om mondeling en schriftelijk desgewenst met bijstand van derden hun mening aan de commissie kenbaar te maken;  
+e. de mogelijkheid voor alle betrokken partijen op voet van gelijkheid hun standpunt mondeling of schriftelijk, desgewenst met bijstand van derden, kenbaar te maken en kennis te nemen van alle standpunten en alle feiten die door de andere partij naar voren zijn gebracht en eventueel van de verklaringen van getuigen en deskundigen;  
 
 f. de mogelijkheid om een deskundige een advies te laten uitbrengen;  
 
 g. de mogelijkheid om getuigen en deskundigen te horen;  
 
-h. de mogelijkheid voor partijen om van alle door hen naar voren gebrachte feiten en stellingen, alsmede van verklaringen van getuigen en deskundigen, over en weer kennis te nemen;  
+h.  vervallen;   
 
 i. de mogelijkheid dat de commissie een minnelijke schikking tussen partijen beproeft;  
 
@@ -81,6 +85,7 @@ l. regels omtrent de mogelijkheid om partijen in de kosten van de behandeling va
 m. regels omtrent vorm, inhoud en bekendmaking van de uitspraak waarbij de bepaling opgenomen dient te zijn dat de uitspraak schriftelijk moet worden gedaan, met redenen omkleed moet zijn, moet zijn ondertekend en schriftelijk aan partijen moet worden meegedeeld;  
 
 n. indien beroep van een uitspraak mogelijk is: regels omtrent het mededelen van de mogelijkheid van beroep, de wijze en termijn van het instellen, alsmede de behandeling van dit beroep.     
+3.  De Stichting publiceert een jaarverslag over de werkzaamheden van de geschillencommissies. Het jaarverslag verschaft inzicht in aard en aantal geschillen dat aan de geschillencommissies is voorgelegd.   
 
 ### §  3  
 
@@ -89,7 +94,7 @@ n. indien beroep van een uitspraak mogelijk is: regels omtrent het mededelen van
 ### Artikel  5  
 
 1.  Een aanvraag voor erkenning van een geschillencommissie dient bij de Minister te worden ingediend.   
-2.  De aanvraag dient vergezeld te gaan van een lijst van de bij de geschillencommissie aangesloten ondernemers en van gegevens waaruit blijkt dat aan het bepaalde in paragraaf 2 is voldaan.   
+2.  De aanvraag dient informatie te bevatten over het aantal en marktaandeel van de bij de geschillencommissies aangesloten ondernemers en van gegevens waaruit blijkt dat aan het bepaalde in paragraaf 2 is voldaan.   
 
 ### Artikel  6  
 
@@ -103,9 +108,9 @@ De Minister beslist op de aanvraag binnen 6 maanden nadat de aanvraag is ingedie
 
 1.  Een erkenning van een geschillencommissie geschiedt onder de volgende voorwaarden: 
 
-a. de geschillencommissie dient aan de Minister desgevraagd een lijst te verstrekken van de bij deze commissie aangesloten ondernemers;  
+a.  vervallen;   
 
-b. de geschillencommissie dient wijzigingen in de gegevens als bedoeld in artikel 5, tweede lid, zo spoedig mogelijk schriftelijk aan de Minister door te geven.     
+b. de geschillencommissie dient desgevraagd wijzigingen in de gegevens als bedoeld in artikel 5, tweede lid, zo spoedig mogelijk schriftelijk aan de Minister door te geven.     
 2.  Aan de erkenning kunnen nadere voorwaarden worden verbonden.   
 
 ### §  5  
@@ -132,10 +137,6 @@ Van een beslissing tot intrekking van een erkenning van een geschillencommissie 
 ### §  6  
 
 ####Slot- en overgangsbepalingen
-
-### Artikel  10  
-
-Erkenningen van geschillencommissies door de Minister van Economische Zaken worden aangemerkt als erkenningen op grond van deze regeling.  
 
 ### Artikel  11  
 

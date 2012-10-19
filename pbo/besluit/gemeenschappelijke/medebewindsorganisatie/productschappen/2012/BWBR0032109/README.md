@@ -11,64 +11,64 @@ Overwegende dat de aan de besturen van de participerende productschappen toekome
 Overwegende dat de manager van de medebewindsorganisatie mandaat c.q. volmacht heeft, voor zover het de medebewindsorganisatie betreft, ten aanzien van aangelegenheden betreffende het organisatie- en formatiebeleid, de toepassing van de arbeidsvoorwaarden voor het personeel van de medebewindsorganisatie en overige uitvoeringshandelingen; Overwegende dat de medebewindsorganisatie op hoofdlijnen wordt aangestuurd door de secretarissen van de productschappen,
 
 Gelet op [artikel 109 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md),
-Besluit:    
+Besluit: 
 
-### Artikel  1  
+###Artikel  1 
 
 In dit besluit wordt verstaan onder:  
 
 | --- | --- | --- | --- |
 |:---|:---|:---|:---|
-| a.  | productschappen  | :  | het Hoofdproductschap Akkerbouw, het Productschap Pluimvee en Eieren, het Productschap Tuinbouw, het Productschap Vee en Vlees, het Productschap Vis en het Productschap Zuivel;  |
-| b.  | besturen  | :  | besturen van de productschappen;  |
-| c.  | medebewindsorganisatie  | :  | organisatorische eenheid van de productschappen ter uitvoering en vervulling van de medewerking die van Rijkswege is gevorderd van de individuele productschappen op de voet van de [artikelen 96](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [97](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [98 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).  |
+|a. |productschappen |: |het Hoofdproductschap Akkerbouw, het Productschap Pluimvee en Eieren, het Productschap Tuinbouw, het Productschap Vee en Vlees, het Productschap Vis en het Productschap Zuivel; |
+|b. |besturen |: |besturen van de productschappen; |
+|c. |medebewindsorganisatie |: |organisatorische eenheid van de productschappen ter uitvoering en vervulling van de medewerking die van Rijkswege is gevorderd van de individuele productschappen op de voet van de [artikelen 96](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [97](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [98 van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). |
 
-### Artikel  2  
+###Artikel  2 
 
-De productschappen treffen een voorziening in de vorm van een gemeenschappelijke medebewindsorganisatie.  
+De productschappen treffen een voorziening in de vorm van een gemeenschappelijke medebewindsorganisatie.
 
-### Artikel  3  
+###Artikel  3 
 
-1.  Het personeel van de medebewindsorganisatie blijft in dienst van de respectieve productschappen.   
-2.  Het in het eerste lid bedoelde personeel verricht de werkzaamheden ten behoeve van de medebewindsorganisatie.   
+1.  Het personeel van de medebewindsorganisatie blijft in dienst van de respectieve productschappen. 
+2.  Het in het eerste lid bedoelde personeel verricht de werkzaamheden ten behoeve van de medebewindsorganisatie.
 
-### Artikel  4  
+###Artikel  4 
 
-De manager van de medebewindsorganisatie is voor zover het de medebewindsorganisatie betreft belast met de uitvoering van het financieel beleid en stelt de begroting en jaarrekening van de medebewindsorganisatie op ten behoeve van de productschappen.  
+De manager van de medebewindsorganisatie is voor zover het de medebewindsorganisatie betreft belast met de uitvoering van het financieel beleid en stelt de begroting en jaarrekening van de medebewindsorganisatie op ten behoeve van de productschappen.
 
-### Artikel  5  
+###Artikel  5 
 
-1.  De bij dit besluit getroffen voorziening blijft in ieder geval in stand totdat de besluitvorming ten aanzien van een nieuwe structuur en organisatie van de taken en werkzaamheden van de productschappen is gerealiseerd.   
-2.  Tot de wijziging, verlenging en opheffing van de bij dit besluit getroffen voorziening, wordt door de besturen bij een besluit als het onderhavige besloten.   
+1.  De bij dit besluit getroffen voorziening blijft in ieder geval in stand totdat de besluitvorming ten aanzien van een nieuwe structuur en organisatie van de taken en werkzaamheden van de productschappen is gerealiseerd. 
+2.  Tot de wijziging, verlenging en opheffing van de bij dit besluit getroffen voorziening, wordt door de besturen bij een besluit als het onderhavige besloten.
 
-### Artikel  6  
+###Artikel  6 
 
-1.  Dit besluit treedt in werking met ingang van 16 oktober 2012.   
-2.  Dit besluit wordt aangehaald als: Besluit gemeenschappelijke medebewindsorganisatie productschappen 2012. Dit besluit zal met de toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.   
+1.  Dit besluit treedt in werking met ingang van 16 oktober 2012. 
+2.  Dit besluit wordt aangehaald als: Besluit gemeenschappelijke medebewindsorganisatie productschappen 2012. Dit besluit zal met de toelichting worden gepubliceerd in het Verordeningenblad Bedrijfsorganisatie.
 
 Hoofdproductschap Akkerbouw 
-R.M. Bergkamp  
+R.M. Bergkamp 
 voorzitter 
-M. Elema  
+M. Elema 
 secretaris Productschap Pluimvee en Eieren 
-B.J. Krouwel  
+B.J. Krouwel 
 voorzitter 
-B.M. Dellaert  
+B.M. Dellaert 
 secretaris Productschap Tuinbouw 
-A.M.A. van Ardenne-van der Hoeven  
+A.M.A. van Ardenne-van der Hoeven 
 voorzitter 
-J.M. Gerritsen  
+J.M. Gerritsen 
 secretaris 
 Productschap Vee en Vlees 
-S.W.A. Lak  
+S.W.A. Lak 
 voorzitter 
-B.M. Dellaert  
+B.M. Dellaert 
 secretaris Productschap Vis 
-A. Bruggeman  
+A. Bruggeman 
 plv. voorzitter 
-H. Horsman  
+H. Horsman 
 secretaris Productschap Zuivel 
-C.H. Wantenaar  
+C.H. Wantenaar 
 plv. voorzitter 
-F. Beekman  
-secretaris    
+F. Beekman 
+secretaris  
