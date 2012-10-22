@@ -15,11 +15,13 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De handelaren, bedoeld in [artikel 437, eerste lid, van het Wetboek van Strafrecht](../../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), zijn opkopers en handelaren in gebruikte en ongeregelde goederen, platina, goud, zilver, edelstenen, uurwerken, kunstvoorwerpen, auto's, motorfietsen, bromfietsen, fietsen, foto-, film-, radio-, audio- en videoapparatuur en apparatuur voor automatische registratie.  
+1. De handelaren, bedoeld in [artikel 437, eerste lid, van het Wetboek van Strafrecht](../../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), zijn opkopers en handelaren in gebruikte en ongeregelde goederen, metalen, edelstenen, uurwerken, kunstvoorwerpen, auto's, motorfietsen, bromfietsen, fietsen, foto-, film-, radio-, audio- en videoapparatuur en apparatuur voor automatische registratie.  
+2.   In het eerste lid wordt onder metalen mede verstaan: legeringen en metalloïden. 
 
 ### Artikel  2  
 
-De handelaar, aangewezen in artikel 1 van dit besluit, voldoet aan de verplichting ingevolge artikel 437, eerste lid, onder *a*, van het [Wetboek van Strafrecht](../../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) tot het aantekening houden van alle gebruikte of ongeregelde goederen die hij heeft verworven of voorhanden heeft indien hij een doorlopend en een door of namens de burgemeester gewaarmerkt register houdt en daarin onverwijld vermeldt: 
+1.   Indien de in artikel 1 aangewezen handelaar de koopprijs van koper en koperlegeringen in contant geld voldoet, controleert hij de identiteit van de aanbieder aan de hand van een identiteitsbewijs in de zin van [artikel 1 van de Wet op de identificatieplicht](../../../../../../../../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md). 
+2. De handelaar, aangewezen in artikel 1 van dit besluit, voldoet aan de verplichting ingevolge [artikel 437, eerste lid, onder a, van het Wetboek van Strafrecht](../../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) tot het aantekening houden van alle gebruikte of ongeregelde goederen die hij heeft verworven of voorhanden heeft indien hij een doorlopend en een door of namens de burgemeester gewaarmerkt register houdt en daarin onverwijld vermeldt:  
 
 a. het volgnummer van de aantekening met betrekking tot het goed;  
 
@@ -29,11 +31,13 @@ c. een omschrijving van het goed, daaronder begrepen - voor zover dat mogelijk i
 
 d. de koopprijs of andere voorwaarden van verkrijging van het goed;  
 
-e. de naam en het adres van degene van wie het goed is verkregen.    
+e. de naam en het adres van degene van wie het goed is verkregen;  
+
+f.  zowel een omschrijving als het nummer van het document bedoeld in het eerste lid waarmee hij de identiteit van de aanbieder heeft vastgesteld, voor zover het de inkoop van koper en koperlegeringen betreft en de koopprijs van dat goed in contant geld wordt uitbetaald.  
 
 ### Artikel  3  
 
-Dit besluit treedt in werking op de dag waarop de Wet van 9 oktober 1991, *Stb.* 520 tot aanvulling van het [Wetboek van Strafrecht](../../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en het [Wetboek van Strafvordering](../../../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) met voorzieningen ten behoeve van de bestrijding van heling, in werking treedt.  
+Dit besluit treedt in werking op de dag waarop de Wet van 9 oktober 1991, *Stb.* 520 tot aanvulling van het [Wetboek van Strafrecht](../../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en het [Wetboek van Strafvordering](../../../../../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) met voorzieningen ten behoeve van de bestrijding van heling, in werking treedt. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 
