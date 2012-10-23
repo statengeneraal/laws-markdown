@@ -6,28 +6,28 @@ Het Uitvoeringsinstituut werknemersverzekeringen,
 Gelet op [artikel 105, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);
 Besluit:    
 
-### Artikel  1  
+### Artikel 1  
 
-De percentages voor de maxima van de lasten die in een boekjaar ten laste van de sectorfondsen komen, bedoeld in [artikel 105, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), worden voor het jaar 2009 vervangen door de percentages, bedoeld in bijlage 1 bij dit besluit.  
+De percentages voor de maxima van de lasten die in een boekjaar ten laste van de sectorfondsen komen, bedoeld in [artikel 105, eerste lid, van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), worden voor het jaar 2009 vervangen door de percentages, bedoeld in bijlage 1 bij dit besluit.
 
-### Artikel  2  
+### Artikel 2  
 
-Het [Besluit vaststelling lastenplafonds sectorfondsen 2009](../../../../../../../../zbo/besluit/vaststelling/lastenplafonds/sectorfondsen/2009/BWBR0024671/README.md) wordt ingetrokken.  
+Het [Besluit vaststelling lastenplafonds sectorfondsen 2009](../../../../../../../../zbo/besluit/vaststelling/lastenplafonds/sectorfondsen/2009/BWBR0024671/README.md) wordt ingetrokken.
 
-### Artikel  3  
+### Artikel 3  
 
-Dit besluit treedt, onder voorbehoud van goedkeuring door de Minister van Sociale Zaken en Werkgelegenheid, in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2009.  
+Dit besluit treedt, onder voorbehoud van goedkeuring door de Minister van Sociale Zaken en Werkgelegenheid, in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 1 januari 2009.
 
-### Artikel  4  
+### Artikel 4  
 
-Dit besluit wordt aangehaald als: Besluit vaststelling gewijzigde lastenplafonds sectorfondsen 2009.  
+Dit besluit wordt aangehaald als: Besluit vaststelling gewijzigde lastenplafonds sectorfondsen 2009.
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Amsterdam 
 3 november 2009   
 
 Voorzitter Raad van bestuur UWV, 
-J.M.Linthorst  
+J.M.  Linthorst    
 
 ### Bijlage  1  
 
