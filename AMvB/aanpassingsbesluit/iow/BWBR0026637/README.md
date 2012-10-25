@@ -17,67 +17,89 @@ Hebben goedgevonden en verstaan:
 
 ####Wijziging van het [Besluit aanwijzing registraties gezamenlijke huishouding 1998](../../../../AMvB/besluit/aanwijzing/registraties/gezamenlijke/huishouding/1998/BWBR0009280/README.md)
 
-Wijzigt het Besluit aanwijzing registraties gezamenlijke huishouding 1998.   
+Materieel uitgewerkt per 01-12-2011 
+
+Wijzigt het Besluit aanwijzing registraties gezamenlijke huishouding 1998. 
 
 ### Artikel  II  
 
 ####Wijziging van het [Besluit extramurale vrijheidsbeneming en sociale zekerheid](../../../../AMvB/besluit/extramurale/vrijheidsbeneming/en/sociale/zekerheid/BWBR0011136/README.md)
 
-Wijzigt het Besluit extramurale vrijheidsbeneming en sociale zekerheid.   
+Materieel uitgewerkt per 01-12-2011 
+
+Wijzigt het Besluit extramurale vrijheidsbeneming en sociale zekerheid. 
 
 ### Artikel  III  
 
 ####Wijziging van het [Boetebesluit socialezekerheidswetten](../../../../AMvB/boetebesluit/socialezekerheidswetten/BWBR0011708/README.md)
 
-Wijzigt het Boetebesluit socialezekerheidswetten.   
+Materieel uitgewerkt per 01-12-2011 
+
+Wijzigt het Boetebesluit socialezekerheidswetten. 
 
 ### Artikel  IV  
 
 ####Wijziging van het [Besluit ontheffing verplichtingen WW en Wet WIA](../../../../AMvB/besluit/ontheffing/verplichtingen/ww/en/wet/wia/BWBR0020483/README.md)
 
-Wijzigt het Besluit ontheffing verplichtingen WW en Wet WIA.   
+Materieel uitgewerkt per 01-12-2011 
+
+Wijzigt het Besluit ontheffing verplichtingen WW en Wet WIA. 
 
 ### Artikel  V  
 
 ####Wijziging van het [Maatregelenbesluit sociale zekerheidswetten](../../../../AMvB/maatregelenbesluit/socialezekerheidswetten/BWBR0022445/README.md)
 
-Wijzigt het Maatregelenbesluit socialezekerheidswetten.   
+Materieel uitgewerkt per 01-12-2011 
+
+Wijzigt het Maatregelenbesluit socialezekerheidswetten. 
 
 ### Artikel  VI  
 
 ####Wijziging van het [Inkomens- en samenloopbesluit Anw](../../../../AMvB/inkomens-/en/samenloopbesluit/anw/BWBR0008086/README.md)
 
-Wijzigt het Inkomens- en samenloopbesluit Anw.   
+Materieel uitgewerkt per 01-12-2011 
+
+Wijzigt het Inkomens- en samenloopbesluit Anw. 
 
 ### Artikel  VII  
 
 ####Wijziging van het [Inkomensbesluit IOAW](../../../../AMvB/inkomensbesluit/ioaw/BWBR0004091/README.md)
 
-Wijzigt het Inkomensbesluit IOAW.   
+Materieel uitgewerkt per 01-12-2011 
+
+Wijzigt het Inkomensbesluit IOAW. 
 
 ### Artikel  VIII  
 
 ####Wijziging van het [Besluit inburgering](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md)
 
-Wijzigt het Besluit inburgering.   
+Materieel uitgewerkt per 01-12-2011 
+
+Wijzigt het Besluit inburgering. 
 
 ### Artikel  IX  
 
 ####Wijziging van het [Uitvoeringsbesluit loonbelasting 1965](../../../../AMvB/uitvoeringsbesluit/loonbelasting/1965/BWBR0002489/README.md)
 
-Wijzigt het Uitvoeringsbesluit loonbelasting 1965.   
+Materieel uitgewerkt per 01-12-2011 
+
+Wijzigt het Uitvoeringsbesluit loonbelasting 1965. 
 
 ### Artikel  X  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking op het tijdstip waarop de [Wet inkomensvoorziening oudere werklozen](../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md) in werking treedt.  
+Materieel uitgewerkt per 01-12-2011 
+
+Dit besluit treedt in werking op het tijdstip waarop de [Wet inkomensvoorziening oudere werklozen](../../../../wet/wet/inkomensvoorziening/oudere/werklozen/BWBR0024394/README.md) in werking treedt. 
 
 ### Artikel  XI  
 
 ####Citeertitel
 
-Dit besluit kan worden aangehaald als: Aanpassingsbesluit IOW.  
+Materieel uitgewerkt per 01-12-2011 
+
+Dit besluit kan worden aangehaald als: Aanpassingsbesluit IOW. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -90,5 +112,5 @@ J. P. H. Donner
 
 de *zeventiende* november 2009 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin    
