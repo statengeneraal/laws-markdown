@@ -17,18 +17,18 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop gebaseerde regeling wordt verstaan onder: 
 
-a. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
+a. Onze Minister: Onze Minister van Veiligheid en Justitie;  
 
-b. betrokkene: de ambtenaar, bedoeld in [artikel 3, aanhef en onder a en b, van de Politiewet 1993](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md), en de ambtenaar, bedoeld in [artikel 10, eerste lid, aanhef en onderdeel b, van de Wet op het LSOP en het politieonderwijs](../../../../../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md), die door het bevoegd gezag, bedoeld in het [Besluit algemene rechtspositie politie](../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), buitengewoon verlof wordt verleend met behoud van bezoldiging ten behoeve van uitzending ingevolge dit besluit;  
+b. betrokkene: de ambtenaar, bedoeld in [artikel 2, onderdeel a en b, van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md), en de ambtenaar, bedoeld in [artikel 10, eerste lid, aanhef en onderdeel b, van de Wet op het LSOP en het politieonderwijs](../../../../../../../../../wet/wet/op/het/lsop/en/het/politieonderwijs/BWBR0014623/README.md), die door het bevoegd gezag, bedoeld in het [Besluit algemene rechtspositie politie](../../../../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md), buitengewoon verlof wordt verleend met behoud van bezoldiging ten behoeve van uitzending ingevolge dit besluit;  
 
-c. missiegebied: een door een volkenrechtelijke organisatie of een in het kader van een internationale overeenkomst waarbij Nederland partij is, aangewezen gebied waarin inzet van civiele politie plaatsvindt.    
+c. missiegebied: een door een volkenrechtelijke organisatie of een in het kader van een internationale overeenkomst waarbij Nederland partij is, aangewezen gebied waarin inzet van civiele politie plaatsvindt.   
 
 ### Artikel  2  
 
 1.  De betrokkene kan op zijn verzoek door Onze Minister ter beschikking worden gesteld ten behoeve van uitzending naar een missiegebied.   
-2.  Uitzending naar een missiegebied vindt plaats ten behoeve van het uitvoeren van de politietaak, het geven van opleidingen, ondersteuning bij de opbouw van een civiele politie-organisatie, het leveren van specifieke technische expertise of het uitvoeren van waarnemersmissies.   
-3.  Slechts de betrokkene die is aangesteld voor de politietaak, bedoeld in [artikel 3, eerste lid, onder a, van de Politiewet 1993](../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md) wordt uitgezonden ten behoeve van het uitvoeren van de politietaak.   
-4.  De duur van de uitzending bedraagt 6 maanden, te verlengen tot ten hoogste een jaar. In bijzondere omstandigheden kan van deze termijnen worden afgeweken.   
+2.  Uitzending naar een missiegebied vindt plaats ten behoeve van het uitvoeren van de politietaak, het geven van opleidingen, ondersteuning bij de opbouw van een civiele politie-organisatie, het leveren van specifieke technische expertise of het uitvoeren van waarnemersmissies.    
+3.  Slechts de betrokkene die is aangesteld voor de politietaak, bedoeld in [artikel 2, onderdeel a, van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) wordt uitgezonden ten behoeve van het uitvoeren van de politietaak.  
+4.  De duur van de uitzending bedraagt 6 maanden, te verlengen tot ten hoogste een jaar. In bijzondere omstandigheden kan van deze termijnen worden afgeweken.  
 
 ### Artikel  3  
 
@@ -46,15 +46,19 @@ e. de voorzieningen bij verblijf in het missiegebied;
 
 f. voorzieningen bij ongevallen;  
 
-g. verlof.    
+g. verlof.   
+
+### Artikel  3a  
+
+Dit besluit berust op [artikel 47, eerste lid, van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md). 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van de dag na uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 ### Artikel  5  
 
-Dit besluit wordt aangehaald als: Besluit beschikbaarstelling politieambtenaren ten behoeve van vredesmissies.  
+Dit besluit wordt aangehaald als: Besluit beschikbaarstelling politieambtenaren ten behoeve van vredesmissies. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -68,4 +72,4 @@ R. H. Hessing
 de *negentiende* december 2002 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

@@ -4,7 +4,7 @@
 
 ####Memorandum inzake de toepassing van de Voorlopige Overeenstemming inzake aangelegenheden betreffende de diepzeemijnbouw
 
-Met betrekking tot de toepassing van de Voorlopige Overeenstemming inzake aangelegenheden betreffende de diepzeemijnbouw, ondertekend op 3 augustus 1984, hebben de vertegenwoordigers van de Regeringen van het Koninkrijk der Nederlanden, het Koninkrijk België, de Bondsrepubliek Duitsland, de Franse Republiek, de Italiaanse Republiek, Japan, de Verenigde Staten van Amerika en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland hun voornemen bevestigd uitvoering te geven aan het onderstaande: 
+Met betrekking tot de toepassing van de [Voorlopige Overeenstemming inzake aangelegenheden betreffende de diepzeemijnbouw](../../../../../../../../../../../verdrag/voorlopige/overeenstemming/inzake/aangelegenheden/betreffende/de/etc/BWBV0002394/README.md), ondertekend op 3 augustus 1984, hebben de vertegenwoordigers van de Regeringen van het Koninkrijk der Nederlanden, het Koninkrijk België, de Bondsrepubliek Duitsland, de Franse Republiek, de Italiaanse Republiek, Japan, de Verenigde Staten van Amerika en het Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland hun voornemen bevestigd uitvoering te geven aan het onderstaande: 
 ### *Inaanmerkingkoming voor een vergunning* 
 
 1. 
@@ -51,4 +51,4 @@ Met betrekking tot de toepassing van de Voorlopige Overeenstemming inzake aangel
 
 ####Joint Record
 
-Following the signature of the Provisional Understanding Regarding Deep Seabed Matters, the Parties notified each other of the identities of the applicants and the dates of receipt of the applications already received. Having regard to the assurance of the representatives of the Federal Republic of Germany that the area of the application filed on their own behalf by Metallgesellschaft AG, Preussag AG, and Salzgitter AG, as partners of Arbeitsgemeinschaft Meerestechnisch gewinnbare Rohnstoffe (AMR) is outside the Clarion Clipperton Zone, the Parties to the Provisional Understanding noted that that application falls under paragraph 1(1)(b)(i) of the Provisional Understanding.   
+Following the signature of the [Provisional Understanding Regarding Deep Seabed Matters](../../../../../../../../../../../verdrag/voorlopige/overeenstemming/inzake/aangelegenheden/betreffende/de/etc/BWBV0002394/README.md), the Parties notified each other of the identities of the applicants and the dates of receipt of the applications already received. Having regard to the assurance of the representatives of the Federal Republic of Germany that the area of the application filed on their own behalf by Metallgesellschaft AG, Preussag AG, and Salzgitter AG, as partners of Arbeitsgemeinschaft Meerestechnisch gewinnbare Rohnstoffe (AMR) is outside the Clarion Clipperton Zone, the Parties to the Provisional Understanding noted that that application falls under paragraph 1(1)(b)(i) of the Provisional Understanding.   
