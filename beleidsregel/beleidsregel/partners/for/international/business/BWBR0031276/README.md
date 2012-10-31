@@ -10,13 +10,13 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder: 
 
-a. *ondernemer:* een in Nederland gevestigde natuurlijke persoon, een rechtspersoon of een vennootschap, die een onderneming in stand houdt, niet zijnde een rechtspersoon die krachtens publiekrecht is ingesteld;  
+a.  *ondernemer:* een in Nederland gevestigde natuurlijke persoon, een rechtspersoon of een vennootschap, die een onderneming in stand houdt, niet zijnde een rechtspersoon die krachtens publiekrecht is ingesteld;  
 
-b. *penvoerder:* de door een samenwerkingsverband aangewezen penvoerende persoon of rechtspersoon;  
+b.  *penvoerder:* de door een samenwerkingsverband aangewezen penvoerende persoon of rechtspersoon;  
 
-c. *samenwerkingsverband:* een geen rechtspersoonlijkheid bezittend verband, bestaande uit ten minste drie ondernemers;  
+c.  *samenwerkingsverband:* een geen rechtspersoonlijkheid bezittend verband, bestaande uit ten minste drie ondernemers;  
 
-d. *minister:* de Minister van Economische Zaken, Landbouw en Innovatie.    
+d.  *minister:* de Minister van Economische Zaken, Landbouw en Innovatie.   
 
 ### Artikel  2  
 
@@ -31,41 +31,41 @@ c. beschikt over een coördinator voor de uitvoering van een PIB-actieplan die n
 d. voldoende punten scoort gelet op het tweede lid, bij toepassing van het puntensysteem overeenkomstig de bij deze beleidsregel behorende bijlage 2.     
 2.  Voor voldoende punten dient op basis van de door het samenwerkingsverband ingediende documenten en gegevens voor het criterium: 
 
-1°. *organisatie en slagkracht samenwerkingsverband* ten minste 20 punten te worden gescoord;  
+1°.  *organisatie en slagkracht samenwerkingsverband* ten minste 20 punten te worden gescoord;  
 
-2°. *kansbeschrijving van de markt* ten minste 30 punten te worden gescoord;  
+2°.  *kansbeschrijving van de markt* ten minste 20 punten te worden gescoord;  
 
-3°. *internationaliseringsstrategie en overheidsrol* ten minste 20 punten te worden gescoord;   en in totaal een minimum aantal punten van 75 te worden gescoord.   
-3.  Het maximum aantal punten dat met het puntensysteem kan worden gescoord bedraagt 100.   
+3°.  *internationaliseringsstrategie en overheidsrol* ten minste 20 punten te worden gescoord;   en in totaal een minimum aantal punten van 75 te worden gescoord.   
+3.  Het maximum aantal punten dat met het puntensysteem kan worden gescoord bedraagt 100.  
 
 ### Artikel  3  
 
 1.  Het verzoek wordt via de penvoerder gedaan met gebruikmaking van een formulier, zoals opgenomen in de bij deze beleidsregel behorende bijlage 3, en gaat vergezeld van de in het formulier aangegeven bescheiden.   
-2.  Het verzoek wordt vóór 1 november 2012 gedaan.   
+2.  Het verzoek wordt vóór 1 november 2012 gedaan.  
 
 ### Artikel  4  
 
-1.  Voor 2012 worden ten hoogste 11 convenanten gesloten.   
-2.  Onverminderd het eerste lid wordt een convenant niet gesloten voor zover de voor het Programma Partners for International Business in 2012 beschikbare capaciteit daardoor zou worden overschreden.   
-3.  Convenanten worden door de minister op volgorde van binnenkomst van verzoeken die voldoen aan deze beleidsregel gesloten.   
+1.  Voor 2012 bedraagt het maximum beschikbare budget € 5.000.000,–.   
+2.  Een convenant wordt niet gesloten voor zover daardoor het in het eerste lid vermelde maximum beschikbare budget zou worden overschreden.   
+3.  Convenanten worden door de minister op volgorde van binnenkomst van verzoeken die voldoen aan deze beleidsregel gesloten.  
 
 ### Artikel  5  
 
-Deze beleidsregel treedt in werking met ingang van de eerste dag na de datum waarop deze in de Staatscourant is geplaatst.  
+Deze beleidsregel treedt in werking met ingang van de eerste dag na de datum waarop deze in de Staatscourant is geplaatst. 
 
 ### Artikel  6  
 
-Deze beleidsregel wordt aangehaald als: Beleidsregel Partners for International Business.  
+Deze beleidsregel wordt aangehaald als: Beleidsregel Partners for International Business. 
 Deze beleidsregel zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
 14 februari 2012   
 
 De 
-Staatssecretaris van Economische Zaken, Landbouw en Innovatie,
-H.Bleker  
+Staatssecretaris van Economische Zaken, Landbouw en Innovatie, 
+H. Bleker    
 
-### Bijlage  1  
+### Bijlage 1 
 
 ####behorend bij artikel 2, eerste lid , van de Beleidsregel Partners for International Business
 
@@ -87,7 +87,7 @@ H.Bleker
 
 * dat bij het programma PIB het (financieel) commitment van het bedrijfsleven een essentieel onderdeel is;  
 
-* in het PIB-actieplan concrete afspraken worden gemaakt over de inbreng van het samenwerkingsverband en de inbreng van EL&I zoals één van de modules die in het kader van het programma PIB zijn ontwikkeld.   Komen het volgende PIB-actieplan overeen. 
+* in het PIB-actieplan concrete afspraken worden gemaakt over de inbreng van het samenwerkingsverband en de inbreng van EL&I zoals één van de modules die in het kader van het programma PIB zijn ontwikkeld.    Komen het volgende PIB-actieplan overeen. 
 
 ### 1  
 
@@ -97,13 +97,13 @@ H.Bleker
 
 ####Definities
 
-In dit actieplan wordt verstaan onder: [pm]  
+In dit actieplan wordt verstaan onder: [pm] 
 
 ### Artikel  2  
 
 ####Doelstelling PIB-actieplan
 
-De doelstelling van dit actieplan is [pm meer specifieke op maat gesneden doelstelling voor het actieplan].  
+De doelstelling van dit actieplan is [pm meer specifieke op maat gesneden doelstelling voor het actieplan]. 
 
 ### 2  
 
@@ -119,7 +119,7 @@ De doelstelling van dit actieplan is [pm meer specifieke op maat gesneden doelst
 | Bezoeken en bijeenkomsten om groepen van bedrijven op een complexe markt te positioneren en te promoten  |
 | Uitnodiging vakjournalisten naar Nederland  |
 | Holland Branding publicaties / communicatieplan: voor de positionering van het samenwerkingsverband van bedrijven op een buitenlandse markt kunnen verschillende promotionele producten ingezet worden  |
-| Holland House: opzet van een lokale vertegenwoordiging  |
+| Holland House: opzet van een lokale vertegenwoordiging   |
 
 | Module Kennisuitwisseling en netwerken  |
 |:---|
@@ -131,7 +131,7 @@ De doelstelling van dit actieplan is [pm meer specifieke op maat gesneden doelst
 | Module Economische diplomatie  |
 |:---|
 | Activiteiten gericht op marktordening, markttoegang en het oplossen van problemen ten behoeve van het samenwerkingsverband door het postennetwerk in het betreffende land  |
-| Activiteiten gericht op marktordening, markttoegang en het oplossen van problemen ten behoeve van het samenwerkingsverband door betrokken ministeries  |
+| Activiteiten gericht op marktordening, markttoegang en het oplossen van problemen ten behoeve van het samenwerkingsverband door betrokken ministeries   |
 
 ### Artikel  4  
 
@@ -149,7 +149,7 @@ De doelstelling van dit actieplan is [pm meer specifieke op maat gesneden doelst
 
 1. Teneinde nieuwe deelnemers aan het samenwerkingsverband te kunnen laten participeren in een PIB-actieplan bestaat de mogelijkheid om gedurende de looptijd van dit actieplan een nieuwe deelnemer als nieuwe partij toe te laten treden. Een nieuwe deelnemer aan het samenwerkingsverband dient de afspraken die voor hem uit dit PIB-actieplan voortvloeien, zonder voorbehoud te aanvaarden.  
 
-2. Zodra partijen overeenstemming hebben bereikt om de nieuwe deelnemer aan het samenwerkingsverband toe te laten treden tot het PIB-actieplan gelden voor die deelnemer aan het samenwerkingsverband de voor hem dit actieplan voortvloeiende rechten en verplichtingen.    
+2. Zodra partijen overeenstemming hebben bereikt om de nieuwe deelnemer aan het samenwerkingsverband toe te laten treden tot het PIB-actieplan gelden voor die deelnemer aan het samenwerkingsverband de voor hem dit actieplan voortvloeiende rechten en verplichtingen.   
 
 ### Artikel  6  
 
@@ -159,7 +159,7 @@ De doelstelling van dit actieplan is [pm meer specifieke op maat gesneden doelst
 
 2. Partijen treden in overleg binnen vier weken nadat een partij de wens daartoe aan de andere partijen heeft medegedeeld.  
 
-3. Indien niet uiterlijk binnen acht weken na het overleg tot overeenstemming wordt gekomen, mag elke partij het actieplan met inachtneming van een opzegtermijn van zes maanden schriftelijk opzeggen.    
+3. Indien niet uiterlijk binnen acht weken na het overleg tot overeenstemming wordt gekomen, mag elke partij het actieplan met inachtneming van een opzegtermijn van zes maanden schriftelijk opzeggen.   
 
 ### Artikel  7  
 
@@ -167,7 +167,7 @@ De doelstelling van dit actieplan is [pm meer specifieke op maat gesneden doelst
 
 1. Partijen komen overeen dat dit convenant niet in rechte afdwingbaar is.  
 
-2. Partijen spannen zich in om geschillen in verband met dit actieplan of afspraken die daarmee samenhangen, in onderling overleg op te lossen.    
+2. Partijen spannen zich in om geschillen in verband met dit actieplan of afspraken die daarmee samenhangen, in onderling overleg op te lossen.   
 
 ### Artikel  8  
 
@@ -175,7 +175,7 @@ De doelstelling van dit actieplan is [pm meer specifieke op maat gesneden doelst
 
 1. Elke partij kan dit actieplan met inachtneming van een opzegtermijn van 6 maanden onder opgaaf van redenen opzeggen indien een zodanige verandering van omstandigheden is opgetreden dat dit actieplan voor die partij billijkheidshalve behoort te eindigen. De opzegging dient met de opgaaf van redenen te worden medegedeeld aan alle partijen.  
 
-2. Wanneer een van deelnemers aan het samenwerkingsverband het actieplan opzegt, blijft het convenant voor de overige deelnemers in stand voorzover de inhoud en de strekking ervan zich daartegen niet verzetten.    
+2. Wanneer een van deelnemers aan het samenwerkingsverband het actieplan opzegt, blijft het convenant voor de overige deelnemers in stand voorzover de inhoud en de strekking ervan zich daartegen niet verzetten.   
 
 ### Artikel  9  
 
@@ -187,17 +187,17 @@ De doelstelling van dit actieplan is [pm meer specifieke op maat gesneden doelst
 
 3. Partijen evalueren uiterlijk [pm] maanden voor afloop van de looptijd de uitvoering en resultaten van dit actieplan teneinde te bepalen of de looptijd ervan wordt verlengd.  
 
-4. Partijen dragen zorg voor uitvoering van de monitoring en evaluatie. Daartoe wordt tijdig een plan van aanpak voor uitvoering van de monitoring en evaluatie opgesteld en ter instemming voorgelegd aan alle partijen.    
+4. Partijen dragen zorg voor uitvoering van de monitoring en evaluatie. Daartoe wordt tijdig een plan van aanpak voor uitvoering van de monitoring en evaluatie opgesteld en ter instemming voorgelegd aan alle partijen.   
 
 ### Artikel  10  
 
 ####Openbaarheid
 
-De zakelijke inhoud van dit actieplan zal openbaar worden gemaakt door middel van publicatie op de website: www.agentschapnl.nl/pib .  
+De zakelijke inhoud van dit actieplan zal openbaar worden gemaakt door middel van publicatie op de website: www.agentschapnl.nl/pib . 
 
-Aldus overeengekomen en in [pm]voud ondertekend op ... te ... De Staatssecretaris van Economische Zaken, Landbouw en Innovatie, namens deze: [pm deelnemers van het samenwerkingsverband]  
+Aldus overeengekomen en in [pm]voud ondertekend op ... te ... De Staatssecretaris van Economische Zaken, Landbouw en Innovatie, namens deze: [pm deelnemers van het samenwerkingsverband] 
 
-### Bijlage  2  
+### Bijlage 2 
 
 ####behorend bij artikel 2, eerste lid en onderdeel d , van de Beleidsregel Partners for International Business
 
@@ -208,7 +208,7 @@ Criterium 1: organisatie en slagkracht samenwerkingsverband (minimaal 20; maxima
 |--- | Omschrijving  |--- |
 |:---|:---|:---|
 |  *1*   | De kwaliteit en kwantiteit van een voldoende (inter-)nationaal trackrecord van het samenwerkingsverband alsmede de vertegenwoordiging van het samenwerkingsverband in de betreffende markt om de (sub)sector te representeren. Gekeken wordt naar de slagkracht van het samenwerkingsverband om internationale markten te veroveren. Hierbij is de omvang van het samenwerkingsverband van belang en eventuele samenwerking met een kennisinstelling.  | 0–10  |
-|  *2*   | De mate van bereidheid van de bedrijven uit het samenwerkingsverband om concrete activiteiten in het kader van het PIB-actieplan uit te voeren op eigen kosten. Hun bijdrage aan de uitvoering van het PIB-actieplan is relatief groot t.o.v. de gevraagde bijdrage van de Rijksoverheid in termen van zowel financiële en andere middelen (uren).  | 0–10  |
+|  *2*   | De mate van bereidheid van de bedrijven uit het samenwerkingsverband om concrete activiteiten in het kader van het PIB-actieplan uit te voeren op eigen kosten. Hun bijdrage aan de uitvoering van het PIB-actieplan is relatief groot t.o.v. de gevraagde bijdrage van de Rijksoverheid in termen van zowel financiële en andere middelen (uren).   | 0–10  |
 |  *3*   | De kennis en ervaring van de coördinator van het PIB-actieplan blijkens ervaring, track record, expertise en reputatie.  | 0–10  |
 
 Criterium 2: kansbeschrijving van de markt (minimaal 20; maximaal 40) 
@@ -225,17 +225,17 @@ Topsector: een sector zoals genoemd in de brief over het Bedrijfslevenbeleid aan
 |--- | Omschrijving  |--- |
 |:---|:---|:---|
 |  *1*   | De mate waarin de internationaliseringsstrategie gericht is op een langdurige positionering van het samenwerkingsverband op de betreffende markt.  | 0–5  |
-|  *2*   | De internationaliseringsstrategie geeft een duidelijke beschrijving van de belemmeringen die het samenwerkingsverband op de doelmarkt ervaart.  | 0–10  |
+|  *2*   | De internationaliseringsstrategie geeft een duidelijke beschrijving van de belemmeringen die het samenwerkingsverband op de doelmarkt ervaart.   | 0–10  |
 |  *3*   | De internationaliseringsstrategie geeft een duidelijke onderbouwing waarom betrokkenheid van de overheid essentieel is voor het slagen van de strategie.  | 0–10  |
-|  *4*   | De betrokkenheid van MKB bedrijven binnen het samenwerkingsverband.  | 0–5  |
+|  *4*   | De betrokkenheid van MKB bedrijven binnen het samenwerkingsverband.   | 0–5  |
 
 Een verzoek van een samenwerkingsverband waarbij: 
 
 – de minimale score van 20 per criteria 1, 2 en 3 wordt gescoord en  
 
-– in totaal minimaal 75 punten wordt gescoord,   komt in aanmerking voor een PIB-actieplan. De maximale score op grond van het puntensysteem die een samenwerkingsverband kan krijgen is 100 punten.  
+– in totaal minimaal 75 punten wordt gescoord,   komt in aanmerking voor een PIB-actieplan. De maximale score op grond van het puntensysteem die een samenwerkingsverband kan krijgen is 100 punten. 
 
-### Bijlage  3  
+### Bijlage 3 
 
 ####behorend bij artikel 3, eerste lid , van de Beleidsregel Partners for International Business
 
@@ -280,7 +280,7 @@ Een verzoek van een samenwerkingsverband waarbij:
 
 | --- |
 |:---|
-| Deze pagina dient te worden vermenigvuldigd en te worden ingevuld door alle deelnemers aan het samenwerkingsverband.  |
+| Deze pagina dient te worden vermenigvuldigd en te worden ingevuld door alle deelnemers aan het samenwerkingsverband.   |
 
 ####Machtiging en verklaring verzoeker [nr...]
 
@@ -307,7 +307,7 @@ Hierbij verleent ondergetekende een machtiging aan [naam penvoerder] om dit verz
 
 ### 2  
 
-####Kansbeschrijving van de markt
+#### Kansbeschrijving van de markt
 
 Beschrijf de markt van het doelland waar het samenwerkingsverband zich op richt. Neem in uw antwoord de volgende aspecten mee: 
 
@@ -323,7 +323,7 @@ Beschrijf de markt van het doelland waar het samenwerkingsverband zich op richt.
 
 – Hoe denkt u deze omzet te genereren? Via handel, opzetten van lokale vestigingen of anderszins?  
 
-– Wat is de impact van het samenwerkingsverband op de Nederlandse economie (bijv. werkgelegenheid)?    
+– Wat is de impact van het samenwerkingsverband op de Nederlandse economie (bijv. werkgelegenheid)?     
 
 | --- |
 |:---|
@@ -445,7 +445,7 @@ Voor het programma Partners in International Business (PIB) is het van belang da
 
 ####Missie en Doelstelling
 
-Beschrijf de overall ‘missie’ van het samenwerkingsverband en de mogelijke spin-off van het programma. Geef aan welke doelstellingen er door het PIB programma verwezenlijkt moeten worden. Denk bij voorbeeld aan positionering van een samenwerkingsverband, commerciële activiteiten op een voor het samenwerkingsverband nieuwe markt starten, vergroten van het bestaande marktaandeel op een markt). Beschrijf zo concreet en duidelijk mogelijk wanneer de doelstelling naar uw mening is behaald.  
+Beschrijf de overall ‘missie’ van het samenwerkingsverband en de mogelijke spin-off van het programma. Geef aan welke doelstellingen er door het PIB programma verwezenlijkt moeten worden. Denk bij voorbeeld aan positionering van een samenwerkingsverband, commerciële activiteiten op een voor het samenwerkingsverband nieuwe markt starten, vergroten van het bestaande marktaandeel op een markt). Beschrijf zo concreet en duidelijk mogelijk wanneer de doelstelling naar uw mening is behaald.   
 
 | --- |
 |:---|
@@ -466,7 +466,7 @@ Beschrijf welke resultaten u aan het einde van het programma behaald wil hebben.
 
 – beschrijf de resultaten zo concreet mogelijk. Wat wilt u over X jaar bereikt hebben. (denk aan (omzet)targets, omschrijving en kwantificering van de doelgroepen die zijn bereikt, gekwalificeerd personeel beschikbaar, samenwerkingsovereenkomst tussen de relevante overheden)  
 
-– Geef aan wanneer de resultaten naar uw mening zijn behaald. Geef dit zo SMART (Specifiek, Meetbaar, Resultaat gericht, Tijdgebonden) mogelijk aan. Refereer daarbij aan wat de huidige situatie is en de beoogde situatie. Bijvoorbeeld in termen van: ordervolume, hoeveelheid leads, marktaandeel, opzetten van lokale vestigingen door afzonderlijke samenwerkingsverbandleden, etc..    
+– Geef aan wanneer de resultaten naar uw mening zijn behaald. Geef dit zo SMART (Specifiek, Meetbaar, Resultaat gericht, Tijdgebonden) mogelijk aan. Refereer daarbij aan wat de huidige situatie is en de beoogde situatie. Bijvoorbeeld in termen van: ordervolume, hoeveelheid leads, marktaandeel, opzetten van lokale vestigingen door afzonderlijke samenwerkingsverbandleden, etc..     
 
 | --- |
 |:---|
@@ -491,7 +491,7 @@ Als de PIB aanvraag wordt goedgekeurd zal door alle betrokken publieke en privat
 
 – Welke ondersteuning is daarnaast nog nodig van de Nederlandse overheid (Ministerie van Economische Zaken, Landbouw en Innovatie en/of andere overheidsonderdelen (zoals vakministeries en ambassades)) om de resultaten te bereiken. Welke rol en welke activiteiten worden er verwacht van de overheid? Denk hierbij aan lobby van de Nederlandse overheid richting buitenlandse overheden (‘deuren openen’), het aanpakken van handels- en investeringsbelemmeringen die voortkomen uit (gebrek aan) wetgeving, implementatie of handhaving of bescherming van intellectueel eigendom, Holland branding, seminars en in beperkte mate handelsmissies en ondersteuning bij beursdeelnames.  
 
-– Beschrijf steeds duidelijk de doelgroep van de verschillende activiteiten en acties.    
+– Beschrijf steeds duidelijk de doelgroep van de verschillende activiteiten en acties.     
 
 | --- |
 |:---|
@@ -512,7 +512,7 @@ Als de PIB aanvraag wordt goedgekeurd zal door alle betrokken publieke en privat
 
 – Hoe worden de mogelijke risico’s die voortvloeien uit externe factoren beperkt?  
 
-– Waaruit blijkt, dat de samenwerkingsverbandleden de intentie hebben om blijvende handelsrelaties c.q. commerciële activiteiten op te zetten in het doelland(en)?    
+– Waaruit blijkt, dat de samenwerkingsverbandleden de intentie hebben om blijvende handelsrelaties c.q. commerciële activiteiten op te zetten in het doelland(en)?     
 
 | --- |
 |:---|

@@ -4,41 +4,41 @@
 
 ####Akkoord betreffende de produkten die onder de bevoegdheid vallen van de Europese Gemeenschap voor Kolen en Staal
 
-Zijne Majesteit de Koning der Belgen, De President van de. Bondsrepubliek Duitsland, De President van de Franse Republiek, De President van de Italiaanse Republiek, Zijne Koninklijke Hoogheid de Groothertog van Luxemburg, Hare Majesteit de Koningin der Nederlanden, Partijen bij het op 17 april 1951 te Parijs ondertekende Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal en wier Staten hierna Lid-Staten worden genoemd, enerzijds, De President van de Republiek Turkije, anderzijds, Overwegende dat bovengenoemde Lid-Staten onderling het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal hebben gesloten; Overwegende dat zij eveneens het Verdrag tot oprichting van de Europese Economische Gemeenschap hebben gesloten, waarvan de bepalingen ingevolge artikel 232 van dit Verdrag geen wijzigingen brengen in die van het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal, met name wat betreft de rechten en verplichtingen der Lid-Staten; Overwegende dat de Overeenkomst waarbij een Associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije niet van toepassing is op de produkten die onder de bevoegdheid van de Europese Gemeenschap voor Kolen en Staal vallen; Verlangende niettemin het handelsverkeer in deze produkten tussen de Lid-Staten en Turkije te handhaven en te ontwikkelen, Hebben als hun gevolmachtigden aangewezen: Zijne Majesteit de Koning der Belgen: de heer Pierre Harmel, Minister van Buitenlandse Zaken; De President van de Bondsrepubliek Duitsland: de heer Walter Scheel, Minister van Buitenlandse Zaken; De President van de Franse Republiek: de heer Maurice Schumann, Minister van Buitenlandse Zaken; De President van de Italiaanse Republiek: de heer Mario Pedini, Staatssecretaris van Buitenlandse Zaken; Zijne Koninklijke Hoogheid de Groothertog van Luxemburg: de heer Gaston Thorn, Minister van Buitenlandse Zaken; Hare Majesteit de Koningin der Nederlanden: de heer J. M. A. H. Luns, Minister van Buitenlandse Zaken; De President van de Republiek Turkije: de heer İhsan Sabri Çaglayangil, Minister van Buitenlandse Zaken; Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten,   Overeenstemming hebben bereikt omtrent de volgende bepalingen:    
+Zijne Majesteit de Koning der Belgen, De President van de Bondsrepubliek Duitsland, De President van de Franse Republiek, De President van de Italiaanse Republiek, Zijne Koninklijke Hoogheid de Groothertog van Luxemburg, Hare Majesteit de Koningin der Nederlanden, Partijen bij het op 17 april 1951 te Parijs ondertekende Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal en wier Staten hierna Lid-Staten worden genoemd, enerzijds, De President van de Republiek Turkije, anderzijds, Overwegende dat bovengenoemde Lid-Staten onderling het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal hebben gesloten; Overwegende dat zij eveneens het Verdrag tot oprichting van de Europese Economische Gemeenschap hebben gesloten, waarvan de bepalingen ingevolge artikel 232 van dit Verdrag geen wijzigingen brengen in die van het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal, met name wat betreft de rechten en verplichtingen der Lid-Staten; Overwegende dat de Overeenkomst waarbij een Associatie tot stand wordt gebracht tussen de Europese Economische Gemeenschap en Turkije niet van toepassing is op de produkten die onder de bevoegdheid van de Europese Gemeenschap voor Kolen en Staal vallen; Verlangende niettemin het handelsverkeer in deze produkten tussen de Lid-Staten en Turkije te handhaven en te ontwikkelen, Hebben als hun gevolmachtigden aangewezen: Zijne Majesteit de Koning der Belgen: de heer Pierre Harmel, Minister van Buitenlandse Zaken; De President van de Bondsrepubliek Duitsland: de heer Walter Scheel, Minister van Buitenlandse Zaken; De President van de Franse Republiek: de heer Maurice Schumann, Minister van Buitenlandse Zaken; De President van de Italiaanse Republiek: de heer Mario Pedini, Staatssecretaris van Buitenlandse Zaken; Zijne Koninklijke Hoogheid de Groothertog van Luxemburg: de heer Gaston Thorn, Minister van Buitenlandse Zaken; Hare Majesteit de Koningin der Nederlanden: de heer J. M. A. H. Luns, Minister van Buitenlandse Zaken; De President van de Republiek Turkije: de heer İhsan Sabri Çaglayangil, Minister van Buitenlandse Zaken; Die, na overlegging van hun in goede en behoorlijke vorm bevonden volmachten,   Overeenstemming hebben bereikt omtrent de volgende bepalingen:    
 
 ### Artikel  1  
 
-Onverminderd de maatregelen die met toepassing van Hoofdstuk X van het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal kunnen worden getroffen, worden de tussen Turkije en de Lid-Staten van kracht zijnde douanerechten en herringen van gelijke werking, alsmede de kwantitatieve beperkingen en maatregelen van gelijke werking, onder de in artikel 2 van dit Akkoord bedoelde omstandigheden door Turkije en de Europese Gemeenschap voor Kolen en Staal geleidelijk afgeschaft voor de onder de bevoegdheid van deze Gemeenschap vallende produkten uit de Lid-Staten en uit Turkije.  
+Onverminderd de maatregelen die met toepassing van Hoofdstuk X van het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal kunnen worden getroffen, worden de tussen Turkije en de Lid-Staten van kracht zijnde douanerechten en heffingen van gelijke werking, alsmede de kwantitatieve beperkingen en maatregelen van gelijke werking, onder de in artikel 2 van dit Akkoord bedoelde omstandigheden door Turkije en de Europese Gemeenschap voor Kolen en Staal geleidelijk afgeschaft voor de onder de bevoegdheid van deze Gemeenschap vallende produkten uit de Lid-Staten en uit Turkije. 
 
 ### Artikel  2  
 
 1.  Het ritme waarmede de Lid-Staten en Turkije de handelsbelemmeringen opheffen, wordt in onderling overleg tussen de Akkoordsluitende Partijen vastgesteld.   
-2.  De Akkoordsluitende Partijen bepalen eveneens de voorwaarden waaronder de in dit Akkoord bedoelde produkten in aanmerking komen voor de preferentiële regeling.   
+2.  De Akkoordsluitende Partijen bepalen eveneens de voorwaarden waaronder de in dit Akkoord bedoelde produkten in aanmerking komen voor de preferentiële regeling.  
 
 ### Artikel  3  
 
-Op de onder dit Akkoord vallende gebieden kan voor Turkije geen gunstiger regeling gelden dan die welke de Lid-Staten onder elkaar toepassen krachtens het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal.  
+Op de onder dit Akkoord vallende gebieden kan voor Turkije geen gunstiger regeling gelden dan die welke de Lid-Staten onder elkaar toepassen krachtens het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal. 
 
 ### Artikel  4  
 
-Tussen de betrokken Partijen vindt overleg plaats in alle gevallen waarin, naar de mening van een hunner, de toepassing der bovenvermelde bepalingen dit noodzakelijk maakt.  
+Tussen de betrokken Partijen vindt overleg plaats in alle gevallen waarin, naar de mening van een hunner, de toepassing der bovenvermelde bepalingen dit noodzakelijk maakt. 
 
 ### Artikel  5  
 
-Dit Akkoord houdt geen wijziging in van de bepalingen van het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal, noch van de bevoegdheden en competenties die voortvloeien uit de bepalingen van dat Verdrag.  
+Dit Akkoord houdt geen wijziging in van de bepalingen van het Verdrag tot oprichting van de Europese Gemeenschap voor Kolen en Staal, noch van de bevoegdheden en competenties die voortvloeien uit de bepalingen van dat Verdrag. 
 
 ### Artikel  6  
 
-De bijlage betreffende de binnenlandse handel van Duitsland en de daarmede samenhangende vraagstukken maakt een integrerend deel uit van dit Akkoord.  
+De bijlage betreffende de binnenlandse handel van Duitsland en de daarmede samenhangende vraagstukken maakt een integrerend deel uit van dit Akkoord. 
 
 ### Artikel  7  
 
 1.  Dit Akkoord dient door de ondertekenende Staten te worden bekrachtigd overeenkomstig hun eigen grondwettelijke voorschriften. De akten van bekrachtiging worden uitgewisseld te Brussel.   
-2.  Dit Akkoord treedt in werking op de eerste dag van de maand volgend op de datum van de uitwisseling van de akten van bekrachtiging.   
+2.  Dit Akkoord treedt in werking op de eerste dag van de maand volgend op de datum van de uitwisseling van de akten van bekrachtiging.  
 
 ### Artikel  8  
 
-Dit Akkoord is opgesteld in twee exemplaren in de Duitse, de Franse, de Italiaanse, de Nederlandse en de Turkse taal, zijnde alle teksten gelijkelijk authentiek.  
+Dit Akkoord is opgesteld in twee exemplaren in de Duitse, de Franse, de Italiaanse, de Nederlandse en de Turkse taal, zijnde alle teksten gelijkelijk authentiek. 
 
 TEN BLIJKE WAARVAN de ondergetekende gevolmachtigden hun handtekening onder deze Overeenkomst hebben gesteld. GEDAAN te Brussel, de drieëntwintigste november negentienhonderd zeventig.  
 
@@ -48,15 +48,15 @@ De Akkoordsluitende Partijen, in overweging nemende de thans ten gevolge van de 
 
 ### 1  
 
-Aangezien het handelsverkeer tussen de Duitse gebieden waar de Grondwet van de Bondsrepubliek Duitsland geldt en de Duitse gebieden waar die Grondwet niet wordt toegepast, deel uitmaakt van de binnenlandse handel van Duitsland, vereist de toepassing van het Akkoord betreffende de produkten die onder de bevoegdheid vallen van de Europese Gemeenschap voor Kolen en Staal in Duitsland geen enkele wijziging van de thans voor die binnenlandse handel bestaande regeling.  
+Aangezien het handelsverkeer tussen de Duitse gebieden waar de Grondwet van de Bondsrepubliek Duitsland geldt en de Duitse gebieden waar die Grondwet niet wordt toegepast, deel uitmaakt van de binnenlandse handel van Duitsland, vereist de toepassing van het Akkoord betreffende de produkten die onder de bevoegdheid vallen van de Europese Gemeenschap voor Kolen en Staal in Duitsland geen enkele wijziging van de thans voor die binnenlandse handel bestaande regeling. 
 
 ### 2  
 
-Iedere Akkoordsluitende Partij brengt de akkoorden inzake het handelsverkeer met de Duitse gebieden waar de Grondwet van de Bondsrepubliek niet wordt toegepast, alsmede hun uitvoeringsbepalingen, ter kennis van de andere Akkoordsluitende Partij. Zij waakt ervoor dat deze uitvoering niet in tegenspraak is met de beginselen van het Akkoord betreffende de produkten die onder de bevoegdheid vallen van de Europese Gemeenschap voor Kolen en Staal en treft met name passende maatregelen om te vermijden dat het economische bestel van de andere Akkoordsluitende Partij wordt geschaad.  
+Iedere Akkoordsluitende Partij brengt de akkoorden inzake het handelsverkeer met de Duitse gebieden waar de Grondwet van de Bondsrepubliek niet wordt toegepast, alsmede hun uitvoeringsbepalingen, ter kennis van de andere Akkoordsluitende Partij. Zij waakt ervoor dat deze uitvoering niet in tegenspraak is met de beginselen van het Akkoord betreffende de produkten die onder de bevoegdheid vallen van de Europese Gemeenschap voor Kolen en Staal en treft met name passende maatregelen om te vermijden dat het economische bestel van de andere Akkoordsluitende Partij wordt geschaad. 
 
 ### 3  
 
-Iedere Akkoordsluitende Partij kan passende maatregelen treffen ten einde te verhinderen dat voor haar moeilijkheden ontstaan uit de handel tussen de andere Akkoordsluitende Partij en de Duitse gebieden waar de Grondwet van de Bondsrepubliek Duitsland niet wordt toegepast.  
+Iedere Akkoordsluitende Partij kan passende maatregelen treffen ten einde te verhinderen dat voor haar moeilijkheden ontstaan uit de handel tussen de andere Akkoordsluitende Partij en de Duitse gebieden waar de Grondwet van de Bondsrepubliek Duitsland niet wordt toegepast. 
 
 ####Slotakte
 
@@ -106,9 +106,9 @@ De gevolmachtigden van Zijne Majesteit de Koning der Belgen, van de President va
 
 6.  *Gemeenschappelijke verklaring betreffende artikel 34*  De Overeenkomstsluitende Partijen komen overeen dat de werkzaamheden ter voorbereiding van de constateringen waartoe de Associatieraad overeenkomstig artikel 34 van het Aanvullend Protocol dient over te gaan, een jaar voor het einde van de periode van tweeëntwintig jaar kunnen aanvangen.  
 
-7.  *Gemeenschappelijke verklaring betreffende de rechten van het gemeenschappelijk douanetarief bedoeld in de bijlagen No. 2 en No. 6*  De rechten van het gemeenschappelijk douanetarief bedoeld in de bijlagen No. 2 en No. 6 zijn de rechten van het gemeenschappelijk douanetarief die, op elk tijdstip, daadwerkelijk worden toegepast jegens de Verdragsluitende Partijen bij het G.A.T.T.     
+7.  *Gemeenschappelijke verklaring betreffende de rechten van het gemeenschappelijk douanetarief bedoeld in de bijlagen No. 2 en No. 6*  De rechten van het gemeenschappelijk douanetarief bedoeld in de bijlagen No. 2 en No. 6 zijn de rechten van het gemeenschappelijk douanetarief die, op elk tijdstip, daadwerkelijk worden toegepast jegens de Verdragsluitende Partijen bij het [G.A.T.T](../../../../../../../../../../../../../../verdrag/agreement/establishing/the/world/trade/organization/BWBV0001160/README.md).     
 
-####Interpreterende verklaringen
+#### Interpreterende verklaringen
 
 ### *Interpreterende verklaring betreffende artikel 25 van het Aanvullend Protocol* 
 
