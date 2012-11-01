@@ -16,13 +16,13 @@ For the purposes of this Convention, the expression "architectural heritage" sha
 
 2. Groups of buildings: homogeneous groups of urban or rural buildings conspicuous for their historical, archaeological, artistic, scientific, social or technical interest which are sufficiently coherent to form topographically definable units;  
 
-3. Sites: the combined works of man and nature, being areas which are partially built upon and sufficiently distinctive and homogeneous to be topographically definable and are of conspicuous historical, archaeological, artistic, scientific, social or technical interest.    
+3. Sites: the combined works of man and nature, being areas which are partially built upon and sufficiently distinctive and homogeneous to be topographically definable and are of conspicuous historical, archaeological, artistic, scientific, social or technical interest.   
 
 ####IDENTIFICATION OF PROPERTIES TO BE PROTECTED
 
-### Article  2  
+###Article 2 
 
-For the purpose of precise identification of the monuments, groups of buildings and sites to be protected, each Party undertakes to maintain inventories and in the event of threats to the properties concerned, to prepare appropriate documentation at the earliest opportunity.  
+For the purpose of precise identification of the monuments, groups of buildings and sites to be protected, each Party undertakes to maintain inventories and in the event of threats to the properties concerned, to prepare appropriate documentation at the earliest opportunity.
 
 ####STATUTORY PROTECTION PROCEDURES
 
@@ -32,7 +32,7 @@ Each Party undertakes:
 
 1. to take statutory measures to protect the architectural heritage;  
 
-2. within the framework of such measures and by means specific to each State or region, to make provision for the protection of monuments, groups of buildings and sites.    
+2. within the framework of such measures and by means specific to each State or region, to make provision for the protection of monuments, groups of buildings and sites.   
 
 ### Article  4  
 
@@ -54,11 +54,11 @@ b. requires the submission to a competent authority of any scheme affecting a gr
 
 c. permits public authorities to require the owner of a protected property to carry out work or to carry out such work itself if the owner fails to do so;  
 
-d. allows compulsory purchase of a protected property.      
+d. allows compulsory purchase of a protected property.     
 
 ### Article  5  
 
-Each Party undertakes to prohibit the removal, in whole or in part, of any protected monument, except where the material safeguarding of such monuments makes removal imperative. In these circumstances the competent authority shall take the necessary precautions for its dismantling, transfer and reinstatement at a suitable location.  
+Each Party undertakes to prohibit the removal, in whole or in part, of any protected monument, except where the material safeguarding of such monuments makes removal imperative. In these circumstances the competent authority shall take the necessary precautions for its dismantling, transfer and reinstatement at a suitable location. 
 
 ####ANCILLARY MEASURES
 
@@ -70,11 +70,11 @@ Each Party undertakes:
 
 2. to resort, if necessary, to fiscal measures to facilitate the conservation of this heritage;  
 
-3. to encourage private initiatives for maintaining and restoring the architectural heritage.    
+3. to encourage private initiatives for maintaining and restoring the architectural heritage.   
 
 ### Article  7  
 
-In the surroundings of monuments, within groups of buildings and within sites, each Party undertakes to promote measures for the general enhancement of the environment.  
+In the surroundings of monuments, within groups of buildings and within sites, each Party undertakes to promote measures for the general enhancement of the environment. 
 
 ### Article  8  
 
@@ -82,13 +82,13 @@ With a view to limiting the risks of the physical deterioration of the architect
 
 1. to support scientific research for identifying and analysing the harmful effects of pollution and for defining ways and means to reduce or eradicate these effects;  
 
-2. to take into consideration the special problems of conservation of the architectural heritage in anti-pollution policies.    
+2. to take into consideration the special problems of conservation of the architectural heritage in anti-pollution policies.   
 
 ####SANCTIONS
 
 ### Article  9  
 
-Each Party undertakes to ensure within the power available to it that infringements of the law protecting the architectural heritage are met with a relevant and adequate response by the competent authority. This response may in appropriate circumstances entail an obligation on the offender to demolish a newly erected building which fails to comply with the requirements or to restore a protected property to its former condition.  
+Each Party undertakes to ensure within the power available to it that infringements of the law protecting the architectural heritage are met with a relevant and adequate response by the competent authority. This response may in appropriate circumstances entail an obligation on the offender to demolish a newly erected building which fails to comply with the requirements or to restore a protected property to its former condition. 
 
 ####CONSERVATION POLICIES
 
@@ -104,7 +104,7 @@ Each Party undertakes to adopt integrated conservation policies which:
 
 4. facilitate whenever possible in the town and country planning process the conservation and use of certain buildings whose intrinsic importance would not warrant protection within the meaning of Article 3, paragraph 1, of this Convention but which are of interest from the point of view of their setting in the urban or rural environment and of the quality of life;  
 
-5. foster, as being essential to the future of the architectural heritage, the application and development of traditional skills and materials.    
+5. foster, as being essential to the future of the architectural heritage, the application and development of traditional skills and materials.   
 
 ### Article  11  
 
@@ -112,15 +112,15 @@ Due regard being had to the architectural and historical character of the herita
 
 - the use of protected properties in the light of the needs of contemporary life;  
 
-- the adaptation when appropriate of old buildings for new uses.    
+- the adaptation when appropriate of old buildings for new uses.   
 
 ### Article  12  
 
-While recognising the value of permitting public access to protected properties, each Party undertakes to take such action as may be necessary to ensure that the consequences of permitting this access, especially any structural development, do not adversely affect the architectural and historical character of such properties and their surroundings.  
+While recognising the value of permitting public access to protected properties, each Party undertakes to take such action as may be necessary to ensure that the consequences of permitting this access, especially any structural development, do not adversely affect the architectural and historical character of such properties and their surroundings. 
 
 ### Article  13  
 
-In order to facilitate the implementation of these policies, each Party undertakes to foster, within its own political and administrative structure, effective co-operation at all levels between conservation, cultural, environmental and planning activities.  
+In order to facilitate the implementation of these policies, each Party undertakes to foster, within its own political and administrative structure, effective co-operation at all levels between conservation, cultural, environmental and planning activities. 
 
 ####PARTICIPATION AND ASSOCIATIONS
 
@@ -130,7 +130,7 @@ With a view to widening the impact of public authority measures for the identifi
 
 1. to establish in the various stages of the decision-making process, appropriate machinery for the supply of information, consultation and co-operation between the State, the regional and local authorities, cultural institutions and associations, and the public;  
 
-2. to foster the development of sponsorship and of non-profit-making associations working in this field.    
+2. to foster the development of sponsorship and of non-profit-making associations working in this field.   
 
 ####INFORMATION AND TRAINING
 
@@ -144,11 +144,11 @@ Each Party undertakes:
 
 a. at awakening or increasing public interest, as from school-age, in the protection of the heritage, the quality of the built environment and architecture;  
 
-b. at demonstrating the unity of the cultural heritage and the links that exist between architecture, the arts, popular traditions and ways of life at European, national and regional levels alike.      
+b. at demonstrating the unity of the cultural heritage and the links that exist between architecture, the arts, popular traditions and ways of life at European, national and regional levels alike.     
 
 ### Article  16  
 
-Each Party undertakes to promote training in the various occupations and craft trades involved in the conservation of the architectural heritage.  
+Each Party undertakes to promote training in the various occupations and craft trades involved in the conservation of the architectural heritage. 
 
 ####EUROPEAN CO-ORDINATION OF CONSERVATION POLICIES
 
@@ -162,33 +162,33 @@ The Parties undertake to exchange information on their conservation policies con
 
 3. the possibilities afforded by new technologies for identifying and recording the architectural heritage and combating the deterioration of materials as well as in the fields of scientific research, restoration work and methods of managing and promoting the heritage;  
 
-4. ways of promoting architectural creation as our age's contribution to the European heritage.    
+4. ways of promoting architectural creation as our age's contribution to the European heritage.   
 
 ### Article  18  
 
-The Parties undertake to afford, whenever necessary, mutual technical assistance in the form of exchanges of experience and of experts in the conservation of the architectural heritage.  
+The Parties undertake to afford, whenever necessary, mutual technical assistance in the form of exchanges of experience and of experts in the conservation of the architectural heritage. 
 
 ### Article  19  
 
-The Parties undertake, within the framework of the relevant national legislation, or the international agreements, to encourage European exchanges of specialists in the conservation of the architectural heritage, including those responsible for further training.  
+The Parties undertake, within the framework of the relevant national legislation, or the international agreements, to encourage European exchanges of specialists in the conservation of the architectural heritage, including those responsible for further training. 
 
 ### Article  20  
 
-For the purposes of this Convention, a Committee of experts set up by the Committee of Ministers of the Council of Europe pursuant to Article 17 of the Statute of the Council of Europe shall monitor the application of the Convention and in particular: 
+For the purposes of this Convention, a Committee of experts set up by the Committee of Ministers of the Council of Europe pursuant to [Article 17 of the Statute of the Council of Europe](../../../../../../../../../../../../verdrag/statuut/van/de/raad/van/europa/BWBV0005506/README.md) shall monitor the application of the Convention and in particular: 
 
 1. report periodically to the Committee of Ministers of the Council of Europe on the situation of architectural heritage conservation policies in the States Parties to the Convention, on the implementation of the principles embodied in the Convention and on its own activities;  
 
 2. propose to the Committee of Ministers of the Council of Europe measures for the implementation of the Convention's provisions, such measures being deemed to include multilateral activities, revision or amendment of the Convention and public information about the purpose of the Convention;  
 
-3. make recommendations to the Committee of Ministers of the Council of Europe regarding invitations to States which are not members of the Council of Europe to accede to this Convention.    
+3. make recommendations to the Committee of Ministers of the Council of Europe regarding invitations to States which are not members of the Council of Europe to accede to this Convention.   
 
 ### Article  21  
 
 The provisions of this Convention shall not prejudice the application of such specific more favourable provisions concerning the protection of the properties described in Article 1 as are embodied in: 
 
-- the Convention for the Protection of the World Cultural and Natural Heritage of 16 November 1972;  
+- the [Convention for the Protection of the World Cultural and Natural Heritage](../../../../../../../../../../../../verdrag/convention/for/the/protection/of/the/world/cultural/and/natural/heritage/BWBV0003974/README.md) of 16 November 1972;  
 
-- the European Convention on the Protection of the Archaeological Heritage of 6 May 1969.    
+- the [European Convention on the Protection of the Archaeological Heritage](../../../../../../../../../../../../verdrag/europees/verdrag/inzake/de/bescherming/van/het/archeologisch/erfgoed/etc/BWBV0002031/README.md) of 6 May 1969.   
 
 ####FINAL CLAUSES
 
@@ -196,29 +196,29 @@ The provisions of this Convention shall not prejudice the application of such sp
 
 1.  This Convention shall be open for signature by the member States of the Council of Europe. It is subject to ratification, acceptance or approval. Instruments of ratification, acceptance or approval shall be deposited with the Secretary General of the Council of Europe.   
 2.  This Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date on which three member States of the Council of Europe have expressed their consent to be bound by the Convention in accordance with the provisions of the preceding paragraph.   
-3.  In respect of any member State which subsequently expresses its consent to be bound by it, the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of the deposit of the instrument of ratification, acceptance or approval.   
+3.  In respect of any member State which subsequently expresses its consent to be bound by it, the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of the deposit of the instrument of ratification, acceptance or approval.  
 
 ### Article  23  
 
-1.  After the entry into force of this Convention, the Committee of Ministers of the Council of Europe may invite any State not a member of the Council and the European Economic Community to accede to this Convention by a decision taken by the majority provided for in Article 20.d of the Statute of the Council of Europe and by the unanimous vote of the representatives of the Contracting States entitled to sit on the Committee.   
-2.  In respect of any acceding State or, should it accede, the European Economic Community, the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of deposit of the instrument of accession with the Secretary General of the Council of Europe.   
+1.  After the entry into force of this Convention, the Committee of Ministers of the Council of Europe may invite any State not a member of the Council and the European Economic Community to accede to this Convention by a decision taken by the majority provided for in[ Article 20.d of the Statute of the Council of Europe](../../../../../../../../../../../../verdrag/statuut/van/de/raad/van/europa/BWBV0005506/README.md) and by the unanimous vote of the representatives of the Contracting States entitled to sit on the Committee.   
+2.  In respect of any acceding State or, should it accede, the European Economic Community, the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of deposit of the instrument of accession with the Secretary General of the Council of Europe.  
 
 ### Article  24  
 
 1.  Any State may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, specify the territory or territories to which this Convention shall apply.   
 2.  Any State may at any later date, by a declaration addressed to the Secretary General of the Council of Europe, extend the application of this Convention to any other territory specified in the declaration. In respect of such territory the Convention shall enter into force on the first day of the month following the expiration of a period of three months after the date of receipt of such declaration by the Secretary General.   
-3.  Any declaration made under the two preceding paragraphs may, in respect of any territory specified in such declaration, be withdrawn by a notification addressed to the Secretary General. The withdrawal shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of such notification by the Secretary General.   
+3.  Any declaration made under the two preceding paragraphs may, in respect of any territory specified in such declaration, be withdrawn by a notification addressed to the Secretary General. The withdrawal shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of such notification by the Secretary General.  
 
 ### Article  25  
 
 1.  Any State may, at the time of signature or when depositing its instrument of ratification, acceptance, approval or accession, declare that it reserves the right not to comply, in whole or in part, with the provisions of Article 4, paragraphs c and d. No other reservations may be made.   
 2.  Any Contracting State which has made a reservation under the preceding paragraph may wholly or partly withdraw it by means of a notification addressed to the Secretary General of the Council of Europe. The withdrawal shall take effect on the date of receipt of such notification by the Secretary General.   
-3.  A Party which has made a reservation in respect of the provisions mentioned in paragraph 1 above may not claim the application of that provision by any other Party; it may, however, if its reservation is partial or conditional, claim the application of that provision in so far as it has itself accepted it.   
+3.  A Party which has made a reservation in respect of the provisions mentioned in paragraph 1 above may not claim the application of that provision by any other Party; it may, however, if its reservation is partial or conditional, claim the application of that provision in so far as it has itself accepted it.  
 
 ### Article  26  
 
 1.  Any Party may at any time denounce this Convention by means of a notification addressed to the Secretary General of the Council of Europe.   
-2.  Such denunciation shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of such notification by the Secretary General.   
+2.  Such denunciation shall become effective on the first day of the month following the expiration of a period of six months after the date of receipt of such notification by the Secretary General.  
 
 ### Article  27  
 
@@ -230,7 +230,7 @@ b. the deposit of any instrument of ratification, acceptance, approval or access
 
 c. any date of entry into force of this Convention in accordance with Articles 22, 23 and 24;  
 
-d. any other act, notification or communication relating to this Convention.    
+d. any other act, notification or communication relating to this Convention.   
 
 IN WITNESS WHEREOF the undersigned, being duly authorised thereto, have signed this Convention. DONE at Granada, this 3rd day of October 1985, in English and French, both texts being equally authentic, in a single copy which shall be deposited in the archives of the Council of Europe. The Secretary General of the Council of Europe shall transmit certified copies to each member State of the Council of Europe and to any State or to the European Economic Community invited to accede to this Convention.  
 
@@ -248,13 +248,13 @@ Voorde toepassing van deze Overeenkomst, wordt het begrip „architectonisch erf
 
 2. Gebouwen die een architectonische eenheid vormen: homogene groepen van gebouwen in de stad of op het platteland die van opmerkelijk historisch, archeologisch, artistiek, wetenschappelijk, sociaal of technisch belang zijn en waartussen zoveel samenhang bestaat dat deze aangeduid kunnen worden als topografische eenheden;  
 
-3. Waardevolle gebieden: creaties die zijn ontstaan door het samenspel van natuur en mens, die gedeeltelijk zijn bebouwd en die voldoende karakteristiek en homogeen zijn om te worden aangeduid als een topografische eenheid van opmerkelijk historisch, archeologisch, artistiek, wetenschappelijk, sociaal of technisch belang.    
+3. Waardevolle gebieden: creaties die zijn ontstaan door het samenspel van natuur en mens, die gedeeltelijk zijn bebouwd en die voldoende karakteristiek en homogeen zijn om te worden aangeduid als een topografische eenheid van opmerkelijk historisch, archeologisch, artistiek, wetenschappelijk, sociaal of technisch belang.   
 
 ####GOEDEREN DIE BESCHERMD DIENEN TE WORDEN
 
 ### Artikel  2  
 
-Ten einde nauwkeurig te bepalen welke monumenten, gebouwen die een architectonische eenheid vormen en waardevolle gebieden beschermd dienen te worden, verplicht iedere Partij zich ertoe een inventarisatie hiervan bij te houden en, ingeval deze goederen worden bedreigd, zo spoedig mogelijk een passende documentatie op te stellen.  
+Ten einde nauwkeurig te bepalen welke monumenten, gebouwen die een architectonische eenheid vormen en waardevolle gebieden beschermd dienen te worden, verplicht iedere Partij zich ertoe een inventarisatie hiervan bij te houden en, ingeval deze goederen worden bedreigd, zo spoedig mogelijk een passende documentatie op te stellen. 
 
 ####WETTELIJKE BESCHERMINGSPROCEDURES
 
@@ -264,7 +264,7 @@ Iedere Partij verplicht zich ertoe:
 
 1. een wettelijke regeling op te stellen ter bescherming van het architectonische erfgoed;  
 
-2. in het kader van die regeling en op een voor iedere Staat of regio passende wijze te zorgen voor de bescherming van de monumenten, gebouwen die een architectonische eenheid vormen en landschappen.    
+2. in het kader van die regeling en op een voor iedere Staat of regio passende wijze te zorgen voor de bescherming van de monumenten, gebouwen die een architectonische eenheid vormen en landschappen.   
 
 ### Artikel  4  
 
@@ -286,13 +286,13 @@ b. een bevoegde autoriteit in kennis te stellen van alle plannen waardoor een wa
 
 c. het de overheid mogelijk te maken van de eigenaar van een beschermd goed te eisen dat hij werkzaamheden uitvoert of, indien de eigenaar in gebreke blijft, deze werkzaamheden zelf te verrichten;  
 
-d. het mogelijk te maken een beschermd goed te onteigenen.      
+d. het mogelijk te maken een beschermd goed te onteigenen.     
 
 ### Artikel  5  
 
-Iedere Partij verplicht zich ertoe de verplaatsing van een beschermd monument of van een deel daarvan te verbieden, behalve indien zulks dringend is vereist voor het behoud van dit monument. In dat geval neemt de bevoegde autoriteit de nodige voorzorgsmaatregelen betreffende het demonteren, het overbrengen en het herbouwen van het monument op een geschikte plaats.  
+Iedere Partij verplicht zich ertoe de verplaatsing van een beschermd monument of van een deel daarvan te verbieden, behalve indien zulks dringend is vereist voor het behoud van dit monument. In dat geval neemt de bevoegde autoriteit de nodige voorzorgsmaatregelen betreffende het demonteren, het overbrengen en het herbouwen van het monument op een geschikte plaats. 
 
-####AANVULLENDE MAATREGELEN
+#### AANVULLENDE MAATREGELEN
 
 ### Artikel  6  
 
@@ -302,11 +302,11 @@ Iedere Partij verplicht zich ertoe:
 
 2. zo nodig belastingmaatregelen te nemen ten einde het behoud van dit erfgoed te bevorderen;  
 
-3. het particuliere initiatief voor onderhoud en restauratie van dit erfgoed te stimuleren.    
+3. het particuliere initiatief voor onderhoud en restauratie van dit erfgoed te stimuleren.   
 
 ### Artikel  7  
 
-Iedere Partij verplicht zich ertoe ervoor te zorgen dat er maatregelen worden genomen ten einde in de directe omgeving van monumenten en binnen de architectonische eenheden van gebouwen alsmede in de waardevolle gebieden het leefmilieu te verbeteren.  
+Iedere Partij verplicht zich ertoe ervoor te zorgen dat er maatregelen worden genomen ten einde in de directe omgeving van monumenten en binnen de architectonische eenheden van gebouwen alsmede in de waardevolle gebieden het leefmilieu te verbeteren. 
 
 ### Artikel  8  
 
@@ -314,13 +314,13 @@ Ten einde de risico's van een achteruitgang van de toestand van het architectoni
 
 1. steun te verlenen voor wetenschappelijk onderzoek voor het vaststellen en het analyseren van de schadelijke gevolgen van vervuiling en voor het vinden van een aanpak om deze gevolgen te verminderen of weg te nemen;  
 
-2. bij het beleid in de strijd tegen de vervuiling rekening te houden met de speciale problemen van het behoud van het architectonische erfgoed.    
+2. bij het beleid in de strijd tegen de vervuiling rekening te houden met de speciale problemen van het behoud van het architectonische erfgoed.   
 
-####STRAFMAATREGELEN
+#### STRAFMAATREGELEN
 
 ### Artikel  9  
 
-Iedere Partij verplicht zich ertoe om, voor zover zulks in haar vermogen ligt, ervoor te zorgen dat bij overtredingen van de wetgeving tot bescherming van het architectonische erfgoed, door de bevoegde autoriteit voldoende en passende maatregelen worden genomen. Deze maatregelen kunnen, in bepaalde gevallen, voor de overtreders de verplichting inhouden een nieuw gebouw dat niet volgens de voorschriften is gebouwd, af te breken, dan wel het beschermde goed in zijn oude staat te herstellen.  
+Iedere Partij verplicht zich ertoe om, voor zover zulks in haar vermogen ligt, ervoor te zorgen dat bij overtredingen van de wetgeving tot bescherming van het architectonische erfgoed, door de bevoegde autoriteit voldoende en passende maatregelen worden genomen. Deze maatregelen kunnen, in bepaalde gevallen, voor de overtreders de verplichting inhouden een nieuw gebouw dat niet volgens de voorschriften is gebouwd, af te breken, dan wel het beschermde goed in zijn oude staat te herstellen. 
 
 ####BELEID TEN AANZIEN VAN HET BEHOUD VAN HET ARCHITECTONISCHE ERFGOED
 
@@ -336,7 +336,7 @@ Iedere Partij verplicht zich ertoe een geïntegreerd beleid te voeren dat is ger
 
 4. wanneer zulks mogelijk is, bij de ruimtelijke ordening en de stadsplanning, het behoud en het gebruik bevordert van gebouwen waarvan het eigenlijke belang geen bescherming rechtvaardigt in de zin van artikel 3, eerste lid, van deze Overeenkomst, maar die van belang zijn gezien vanuit het standpunt van het milieu van stad en platteland en vanuit dat van de kwaliteit van het bestaan.  
 
-5. de toepassing en de ontwikkeling van de traditionele technieken en materialen bevordert in het belang van de toekomst van het architectonische erfgoed.    
+5. de toepassing en de ontwikkeling van de traditionele technieken en materialen bevordert in het belang van de toekomst van het architectonische erfgoed.   
 
 ### Artikel  11  
 
@@ -344,15 +344,15 @@ Rekening houdend met de architectonische en historische aard van het erfgoed, ve
 
 - het gebruik van de beschermde goederen, rekening houdend met de behoeften van het hedendaagse leven;  
 
-- het zodanig aanpassen van oude gebouwen dat deze voor nieuwe doeleinden kunnen worden gebruikt.    
+- het zodanig aanpassen van oude gebouwen dat deze voor nieuwe doeleinden kunnen worden gebruikt.   
 
 ### Artikel  12  
 
-Erkennend dat het van belang is dat het publiek in staat wordt gesteld beschermde goederen te bezoeken, verplicht iedere Partij zich ertoe alle maatregelen te nemen opdat de gevolgen van dit openstellen voor het publiek, in het bijzonder de nodige voorzieningen voor het toegankelijk maken, geen aantasting betekenen voor de architectonische en historische aard van deze goederen en omgeving.  
+Erkennend dat het van belang is dat het publiek in staat wordt gesteld beschermde goederen te bezoeken, verplicht iedere Partij zich ertoe alle maatregelen te nemen opdat de gevolgen van dit openstellen voor het publiek, in het bijzonder de nodige voorzieningen voor het toegankelijk maken, geen aantasting betekenen voor de architectonische en historische aard van deze goederen en omgeving. 
 
 ### Artikel  13  
 
-Ten einde de toepassing van dit beleid te vergemakkelijken, verplicht iedere Partij zich ertoe om, binnen haar mogelijkheden op het gebied van beleid en bestuur, een doeltreffende samenwerking te bevorderen tussen de diverse niveaus waarop wordt gewerkt aan het behoud van het architectonische erfgoed, de cultuur, het milieu en de ruimtelijke ordening.  
+Ten einde de toepassing van dit beleid te vergemakkelijken, verplicht iedere Partij zich ertoe om, binnen haar mogelijkheden op het gebied van beleid en bestuur, een doeltreffende samenwerking te bevorderen tussen de diverse niveaus waarop wordt gewerkt aan het behoud van het architectonische erfgoed, de cultuur, het milieu en de ruimtelijke ordening. 
 
 ####DEELNEMING EN VERENIGINGEN
 
@@ -362,7 +362,7 @@ Ter ondersteuning van het optreden van de overheid bij het vaststellen, het besc
 
 1. in de verschillende stadia van besluitvorming te zorgen voor passende structuren voor informatie, overleg en samenwerking tussen de centrale overheid, de regionale en de lokale overheden, culturele instellingen en verenigingen en het publiek;  
 
-2. te bevorderen dat financiële steun van particuliere zijde alsmede van verenigingen zonder winstoogmerk die op dit gebied werkzaam zijn, tot ontwikkeling worden gebracht.    
+2. te bevorderen dat financiële steun van particuliere zijde alsmede van verenigingen zonder winstoogmerk die op dit gebied werkzaam zijn, tot ontwikkeling worden gebracht.   
 
 ####INFORMATIE EN OPLEIDING
 
@@ -376,11 +376,11 @@ Iedere Partij verplicht zich ertoe:
 
 a. bij het publiek, vanaf de schoolgaande leeftijd, belangstelling dan wel meer belangstelling te wekken voor de bescherming van het erfgoed, de kwaliteit van de gebouwde omgeving en voor de architectuur;  
 
-b. de eenheid van het culturele erfgoed en de banden die er bestaan tussen architectuur, kunst, volksgebruiken en levensgewoonten, op Europees, nationaal of regionaal niveau zichtbaar te maken.      
+b. de eenheid van het culturele erfgoed en de banden die er bestaan tussen architectuur, kunst, volksgebruiken en levensgewoonten, op Europees, nationaal of regionaal niveau zichtbaar te maken.     
 
 ### Artikel  16  
 
-Iedere Partij verplicht zich ertoe de opleiding te bevorderen in verschillende beroepen en ambachten die betrokken zijn bij het behoud van het architectonische erfgoed.  
+Iedere Partij verplicht zich ertoe de opleiding te bevorderen in verschillende beroepen en ambachten die betrokken zijn bij het behoud van het architectonische erfgoed. 
 
 ####EUROPESE COÖRDINATIE VAN HET BELEID BETREFFENDE HET BEHOUD VAN HET ARCHITECTONISCHE ERFGOED
 
@@ -394,33 +394,33 @@ De Partijen verplichten zich ertoe over hun beleid betreffende het behoud van he
 
 3. de door de nieuwe technologieën geboden mogelijkheden voor opsporing en registratie van objecten, bestrijding van het materiële verval, wetenschappelijk onderzoek, restauratiewerkzaamheden alsmede de wijzen van beheer en verbetering van het architectonische erfgoed;  
 
-4. de middelen ter bevordering van scheppend werk op architectonisch gebied als hedendaagse bijdrage tot het Europese erfgoed.    
+4. de middelen ter bevordering van scheppend werk op architectonisch gebied als hedendaagse bijdrage tot het Europese erfgoed.   
 
 ### Artikel  18  
 
-De Partijen verbinden zich ertoe elkaar, waar nodig, wederzijdse technische bijstand te verlenen in de vorm van uitwisseling van ervaringen en deskundigen op het gebied van het behoud van het architectonische erfgoed.  
+De Partijen verbinden zich ertoe elkaar, waar nodig, wederzijdse technische bijstand te verlenen in de vorm van uitwisseling van ervaringen en deskundigen op het gebied van het behoud van het architectonische erfgoed. 
 
 ### Artikel  19  
 
-De Partijen verbinden zich ertoe om, in het kader van de nationale wetgeving ter zake of van de internationale overeenkomsten waardoor zij zijn gebonden, op Europees niveau uitwisselingen te bevorderen van deskundigen op het gebied van het behoud van het architectonische erfgoed, met inbegrip van deskundigen belast met bijscholing op dit gebied.  
+De Partijen verbinden zich ertoe om, in het kader van de nationale wetgeving ter zake of van de internationale overeenkomsten waardoor zij zijn gebonden, op Europees niveau uitwisselingen te bevorderen van deskundigen op het gebied van het behoud van het architectonische erfgoed, met inbegrip van deskundigen belast met bijscholing op dit gebied. 
 
 ### Artikel  20  
 
-Voor de toepassing van deze Overeenkomst wordt een door het Comité van Ministers van de Raad van Europa ingevolge artikel 17 van het Statuut van de Raad van Europa ingesteld comité van deskundigen belast met het toezicht op de toepassing van de Overeenkomst en in het bijzonder met: 
+Voor de toepassing van deze Overeenkomst wordt een door het Comité van Ministers van de Raad van Europa ingevolge [artikel 17 van het Statuut van de Raad van Europa](../../../../../../../../../../../../verdrag/statuut/van/de/raad/van/europa/BWBV0005506/README.md) ingesteld comité van deskundigen belast met het toezicht op de toepassing van de Overeenkomst en in het bijzonder met: 
 
 1. het regelmatig verslag uitbrengen aan het Comité van Ministers van de Raad van Europa over de situatie met betrekking tot het beleid ten aanzien van het behoud van het architectonische erfgoed in de Staten die Partij zijn bij de Overeenkomst, over de tenuitvoerlegging van de in de Overeenkomst genoemde beginselen alsmede over zijn eigen werkzaamheden;  
 
 2. het doen van voorstellen aan het Comité van Ministers van de Raad van Europa van maatregelen voor de uitvoering van de bepalingen van de Overeenkomst, alsmede van maatregelen betreffende multilaterale activiteiten, herziening of wijziging van de Overeenkomst en voorlichting van het publiek over de doelstellingen van de Overeenkomst;  
 
-3. het doen van aanbevelingen aan het Comité van Ministers van de Raad van Europa betreffende het uitnodigen van Staten die geen lid van de Raad van Europa zijn, toe te treden tot deze Overeenkomst.    
+3. het doen van aanbevelingen aan het Comité van Ministers van de Raad van Europa betreffende het uitnodigen van Staten die geen lid van de Raad van Europa zijn, toe te treden tot deze Overeenkomst.   
 
 ### Artikel  21  
 
 De bepalingen van deze Overeenkomst doen geen afbreuk aan de toepassing van specifieke bepalingen die gunstiger zijn voor de bescherming van de goederen bedoeld in artikel 1, en die zijn vervat in 
 
-- de Overeenkomst inzake de Bescherming van Natuurlijk Erfgoed van de Wereld van 16 november 1972;  
+- de [Overeenkomst inzake de Bescherming van Natuurlijk Erfgoed van de Wereld](../../../../../../../../../../../../verdrag/convention/for/the/protection/of/the/world/cultural/and/natural/heritage/BWBV0003974/README.md) van 16 november 1972;  
 
-- de Europese Overeenkomst inzake de Bescherming van Archeologisch Erfgoed van 6 mei 1969.    
+- de [Europese Overeenkomst inzake de Bescherming van Archeologisch Erfgoed](../../../../../../../../../../../../verdrag/europees/verdrag/inzake/de/bescherming/van/het/archeologisch/erfgoed/etc/BWBV0002031/README.md) van 6 mei 1969.   
 
 ####SLOTBEPALINGEN
 
@@ -428,29 +428,29 @@ De bepalingen van deze Overeenkomst doen geen afbreuk aan de toepassing van spec
 
 1.  Deze Overeenkomst staat open voor ondertekening door de Lid-Staten van de Raad van Europa. De Overeenkomst dient te worden bekrachtigd, aanvaard of goedgekeurd. De akten van bekrachtiging, aanvaarding of goedkeuring worden nedergelegd bij de Secretaris-Generaal van de Raad van Europa.   
 2.  Deze Overeenkomst treedt in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum waarop drie Lid-Staten van de Raad van Europa hun instemming aan de Overeenkomst te worden gebonden overeenkomstig het bepaalde in het vorige lid tot uitdrukking hebben gebracht.   
-3.  Ten aanzien van iedere Lid-Staat die later zijn instemming tot uitdrukking heeft gebracht door de Overeenkomst te worden gebonden, treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.   
+3.  Ten aanzien van iedere Lid-Staat die later zijn instemming tot uitdrukking heeft gebracht door de Overeenkomst te worden gebonden, treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van bekrachtiging, aanvaarding of goedkeuring.  
 
 ### Artikel  23  
 
-1.  Na de inwerkingtreding van deze Overeenkomst, kan het Comité van Ministers van de Raad van Europa iedere Staat die geen lid van de Raad is, alsmede de Europese Economische Gemeenschap uitnodigen toe te treden tot deze Overeenkomst, wanneer daartoe wordt besloten met de meerderheid van stemmen bedoeld in artikel 20, letter d, van het Statuut van de Raad van Europa of met algemene stemmen van de vertegenwoordigers van de Overeenkomstsluitende Staten die gerechtigd zijn zitting te hebben in het Comité.   
-2.  Ten aanzien van iedere toetredende Staat of ten aanzien van de Europese Economische Gemeenschap indien deze toetreedt, treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.   
+1.  Na de inwerkingtreding van deze Overeenkomst, kan het Comité van Ministers van de Raad van Europa iedere Staat die geen lid van de Raad is, alsmede de Europese Economische Gemeenschap uitnodigen toe te treden tot deze Overeenkomst, wanneer daartoe wordt besloten met de meerderheid van stemmen bedoeld in [artikel 20, letter d, van het Statuut van de Raad van Europa](../../../../../../../../../../../../verdrag/statuut/van/de/raad/van/europa/BWBV0005506/README.md) of met algemene stemmen van de vertegenwoordigers van de Overeenkomstsluitende Staten die gerechtigd zijn zitting te hebben in het Comité.   
+2.  Ten aanzien van iedere toetredende Staat of ten aanzien van de Europese Economische Gemeenschap indien deze toetreedt, treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van nederlegging van de akte van toetreding bij de Secretaris-Generaal van de Raad van Europa.  
 
 ### Artikel  24  
 
 1.  Iedere Staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding het gebied of de gebieden aanwijzen waarop deze Overeenkomst van toepassing is.   
 2.  Iedere Staat kan te allen tijde daarna, door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte verklaring de toepassing van deze Overeenkomst uitbreiden tot ieder ander in de verklaring aangewezen gebied. Ten aanzien van dit gebied treedt de Overeenkomst in werking op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van drie maanden na de datum van ontvangst van de verklaring door de Secretaris-Generaal.   
-3.  Iedere verklaring gedaan krachtens beide vorige leden kan, ten aanzien van ieder in die verklaring aangewezen gebied, worden ingetrokken door middel van een aan de Secretaris-Generaal gerichte kennisgeving. Deze intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.   
+3.  Iedere verklaring gedaan krachtens beide vorige leden kan, ten aanzien van ieder in die verklaring aangewezen gebied, worden ingetrokken door middel van een aan de Secretaris-Generaal gerichte kennisgeving. Deze intrekking wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.  
 
 ### Artikel  25  
 
 1.  Iedere Staat kan bij de ondertekening of bij de nederlegging van zijn akte van bekrachtiging, aanvaarding, goedkeuring of toetreding verklaren zich het recht voor te behouden zich niet of slechts gedeeltelijk te houden aan het bepaalde in artikel 4, de letters c en d. Een ander voorbehoud is niet toegestaan.   
 2.  Iedere Overeenkomstsluitende Staat die een voorbehoud heeft gemaakt krachtens het vorige lid, kan dit geheel of gedeeltelijk intrekken door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving. De intrekking wordt van kracht op de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.   
-3.  De Partij die een voorbehoud heeft gemaakt ten aanzien van het bepaalde in het eerste lid hierboven, kan geen aanspraak maken op de toepassing van dit bepaalde door een andere Partij; indien het gemaakte voorbehoud gedeeltelijk of voorwaardelijk is, kan zij evenwel op de toepassing van dit bepaalde aanspraak maken voor zover zij dit voorbehoud zelf heeft aanvaard.   
+3.  De Partij die een voorbehoud heeft gemaakt ten aanzien van het bepaalde in het eerste lid hierboven, kan geen aanspraak maken op de toepassing van dit bepaalde door een andere Partij; indien het gemaakte voorbehoud gedeeltelijk of voorwaardelijk is, kan zij evenwel op de toepassing van dit bepaalde aanspraak maken voor zover zij dit voorbehoud zelf heeft aanvaard.  
 
 ### Artikel  26  
 
 1.  Iedere Partij kan te allen tijde deze Overeenkomst opzeggen door middel van een aan de Secretaris-Generaal van de Raad van Europa gerichte kennisgeving.   
-2.  De opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.   
+2.  De opzegging wordt van kracht op de eerste dag van de maand die volgt op het verstrijken van een tijdvak van zes maanden na de datum van ontvangst van de kennisgeving door de Secretaris-Generaal.  
 
 ### Artikel  27  
 
@@ -462,7 +462,7 @@ b. de nederlegging van iedere akte van bekrachtiging, aanvaarding, goedkeuring o
 
 c. iedere datum van inwerkingtreding van deze Overeenkomst overeenkomstig de artikelen 22, 23 en 24;  
 
-d. iedere andere handeling, kennisgeving of mededeling betrekking hebbend op deze Overeenkomst.     
+d. iedere andere handeling, kennisgeving of mededeling betrekking hebbend op deze Overeenkomst.    
 
 TEN BLIJKE WAARVAN de ondergetekenden, daartoe behoorlijk gemachtigd, deze Overeenkomst hebben ondertekend. GEDAAN te Granada op 3 oktober 1985, in de Engelse en de Franse taal, zijnde beide teksten gelijkelijk authentiek, in een enkel exemplaar, dat zal worden nedergelegd in het archief van de Raad van Europa. De Secretaris-Generaal van de Raad van Europa zendt hiervan een voor eensluidend gewaarmerkt afschrift aan elk van de Lid-Staten van de Raad van Europa, alsmede aan iedere Staat of de Europese Economische Gemeenschap die wordt uitgenodigd tot deze Overeenkomst toe te treden.  
 

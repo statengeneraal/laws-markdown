@@ -328,22 +328,22 @@ De uitgaven voor de materiële voorzieningen ten behoeve van de instandhouding v
 | Slechthorend en zeer moeilijk lerend  | € 959  | € 511  |
 | Lichamelijk gehandicapt en zeer moeilijk lerend  | € 959  | € 442  |
 
-Per 6 april 2012:   
+Per 1 november 2012:   
 
 | Toelaatbaar verklaard tot speciaal onderwijs aan/van:  | Bedrag  | Her te besteden bedrag  |
 |:---|:---|:---|
-| a. Dove kinderen  | € 1.118  | € 1.445  |
-| b. Slechthorende kinderen  | € 997  | € 531  |
-| c. Kinderen met ernstige spraakmoeilijkheden  | € 997  | € 531  |
-| d. Lichamelijk gehandicapte kinderen  | € 998  | € 511  |
-| e. Langdurig zieke kinderen met lichamelijke handicap  | € 997  | € 460  |
-| f. Zeer moeilijk lerende kinderen  | € 941  | € 307  |
-| g. cluster 4  | € 997  | € 460  |
+| a. Dove kinderen  | € 1.118  | € 1.445  |
+| b. Slechthorende kinderen  | € 997  | € 531  |
+| c. Kinderen met ernstige spraakmoeilijkheden  | € 997  | € 531  |
+| d. Lichamelijk gehandicapte kinderen  | € 998  | € 511  |
+| e. Langdurig zieke kinderen met lichamelijke handicap  | € 997  | € 460  |
+| f. Zeer moeilijk lerende kinderen  | € 941  | € 307  |
+| g. cluster 4  | € 997  | € 460  |
 | h. meervoudig gehandicapte kinderen met de combinatie:  |
-| Doof en zeer moeilijk lerend  | € 997  | € 531  |
-| Doof en blind  | € 997  | € 531  |
-| Slechthorend en zeer moeilijk lerend  | € 997  | € 531  |
-| Lichamelijk gehandicapt en zeer moeilijk lerend  | € 997  | € 460  |
+| Doof en zeer moeilijk lerend  | € 997  | € 531  |
+| Doof en blind  | € 997  | € 531  |
+| Slechthorend en zeer moeilijk lerend  | € 997  | € 531  |
+| Lichamelijk gehandicapt en zeer moeilijk lerend  | € 997  | € 460  |
 
 Speciale scholen voor basisonderwijs (bedragen met ingang van 1-8-2010) 
 
@@ -362,22 +362,22 @@ Speciale scholen voor basisonderwijs (bedragen met ingang van 1-8-2010)
 | Slechthorend en zeer moeilijk lerend  | € 750  | € 511  |
 | Lichamelijk gehandicapt en zeer moeilijk lerend  | € 750  | € 442  |
 
-Per 6 april 2012:   
+Per 1 november 2012:   
 
 | Toelaatbaar verklaard tot speciaal onderwijs aan/van:  | Bedrag  | Her te besteden bedrag  |
 |:---|:---|:---|
-| a. Dove kinderen  | € 901  | € 1.445  |
-| b. Slechthorende kinderen  | € 780  | € 531  |
-| c. Kinderen met ernstige spraakmoeilijkheden  | € 780  | € 531  |
-| d. Lichamelijk gehandicapte kinderen  | € 781  | € 511  |
-| e. Langdurig zieke kinderen met lichamelijke handicap  | € 780  | € 460  |
-| f. Zeer moeilijk lerende kinderen  | € 724  | € 307  |
-| g. cluster 4  | € 780  | € 460  |
+| a. Dove kinderen  | € 901  | € 1.445  |
+| b. Slechthorende kinderen  | € 780  | € 531  |
+| c. Kinderen met ernstige spraakmoeilijkheden  | € 780  | € 531  |
+| d. Lichamelijk gehandicapte kinderen  | € 781  | € 511  |
+| e. Langdurig zieke kinderen met lichamelijke handicap  | € 780  | € 460  |
+| f. Zeer moeilijk lerende kinderen  | € 724  | € 307  |
+| g. cluster 4  | € 780  | € 460  |
 | h. meervoudig gehandicapte kinderen met de combinatie:  |
-| Doof en zeer moeilijk lerend  | € 780  | € 531  |
-| Doof en blind  | € 780  | € 531  |
-| Slechthorend en zeer moeilijk lerend  | € 780  | € 531  |
-| Lichamelijk gehandicapt en zeer moeilijk lerend  | € 780  | € 460  |
+| Doof en zeer moeilijk lerend  | € 780  | € 531  |
+| Doof en blind  | € 780  | € 531  |
+| Slechthorend en zeer moeilijk lerend  | € 780  | € 531  |
+| Lichamelijk gehandicapt en zeer moeilijk lerend  | € 780  | € 460  |
 
 3.  De bedragen, bedoeld in het tweede lid, worden jaarlijks per 1 augustus, telkens te rekenen met het laatstelijk aangepaste bedrag, bij ministeriële regeling aangepast aan de prijsontwikkeling, overeenkomstig de prijsmutatie van de netto materiële consumptie, zoals opgenomen in de Macro Economische Verkenning, die naar verwachting zal optreden tussen het prijsniveau in het jaar voorafgaande aan het jaar waarin het bedrag wordt aangepast, en het jaar waarin het bedrag wordt aangepast.   
 

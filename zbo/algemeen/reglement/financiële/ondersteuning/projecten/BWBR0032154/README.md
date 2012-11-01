@@ -16,11 +16,11 @@ a. *project:* een activiteit met een incidenteel en in tijd beperkt karakter op 
 
 b. *financiële ondersteuning:* een eenmalige aanspraak op financiële middelen voor een bepaald tijdvak verleend ten behoeve van de voorbereiding en/of uitvoering van een project;  
 
-c. *de Mondriaan Stichting:* het bestuur van de Mondriaan Stichting als bedoeld in artikel 5 van de statuten, m.u.v. de artikelen 4 lid 5 en 19 van het reglement, waarin de rechtspersoon zelf is bedoeld. De Mondriaan Stichting is een stichting als bedoeld in [artikel 9 van de Wet op het specifiek cultuurbeleid](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md);  
+c. *de Mondriaan Stichting:* het bestuur van de Mondriaan Stichting als bedoeld in artikel 5 van de statuten, m.u.v. de artikelen 4 lid 5 en 19 van het reglement, waarin de rechtspersoon zelf is bedoeld. De Mondriaan Stichting is een stichting als bedoeld in artikel 9 van de Wet op het specifiek cultuurbeleid;  
 
 d. *adviescommissie:* een adviescommissie of adviseur onderdeel van het adviescollege van de Mondriaan Stichting als bedoeld in artikel 6 van de statuten;  
 
-e. *de wet:* de [Wet op het specifiek cultuurbeleid](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md), wet van 11 maart 1993 Stb. 1993, 193, in werking getreden 16 april 1993 (Stb 1993, 204);  
+e. *de wet:* de Wet op het specifiek cultuurbeleid, wet van 11 maart 1993 Stb. 1993, 193, in werking getreden 16 april 1993 (Stb 1993, 204);  
 
 f. *begrotingstekort:* nadelig verschil tussen de geraamde inkomsten en uitgaven;  
 
@@ -36,7 +36,7 @@ i. *het afleggen van verantwoording:* de aanvraag tot vaststelling van de defini
 
 ### Artikel  2  
 
-De Mondriaan Stichting kan, in overeenstemming met artikel 2 van haar statuten en volgens de bepalingen vastgesteld in de [wet](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) en dit reglement, aan belanghebbenden als bedoeld in artikel 3, financiële ondersteuning verstrekken ten behoeve van een project indien naar het oordeel van de Mondriaan Stichting het project een positieve bijdrage levert aan het bevorderen van de beeldende kunsten, vormgeving of de kwaliteit van de uitoefening van museale functies en activiteiten, indien is voldaan aan alle formele en materiële vereisten zoals in dit reglement vermeld.  
+De Mondriaan Stichting kan, in overeenstemming met artikel 2 van haar statuten en volgens de bepalingen vastgesteld in de wet en dit reglement, aan belanghebbenden als bedoeld in artikel 3, financiële ondersteuning verstrekken ten behoeve van een project indien naar het oordeel van de Mondriaan Stichting het project een positieve bijdrage levert aan het bevorderen van de beeldende kunsten, vormgeving of de kwaliteit van de uitoefening van museale functies en activiteiten, indien is voldaan aan alle formele en materiële vereisten zoals in dit reglement vermeld.  
 
 ### Hoofdstuk  3  
 
@@ -96,7 +96,8 @@ g. het resultaat van het project is openbaar en toegankelijk.
 
 ### Artikel  6  
 
-De aanvraag van een beslissing tot verlening van financiële ondersteuning voor een project dient drie maanden voor de aanvang van het project, of zoveel eerder als mogelijk, te worden ingediend. De Mondriaan Stichting kan bij deelreglement een andere indieningstermijn vaststellen. Een aanvraag die te laat is ingediend wordt niet in behandeling genomen.  
+1.  De aanvraag van een beslissing tot verlening van financiële ondersteuning voor een project dient drie maanden voor de aanvang van het project, of zoveel eerder als mogelijk, te worden ingediend. De Mondriaan Stichting kan bij deelreglement een andere indieningstermijn vaststellen. Een aanvraag die te laat is ingediend wordt niet in behandeling genomen.   
+2.  Aanvragen op grond van deze regeling komen uitsluitend voor subsidie in aanmerking, voor zover deze vóór 1 december 2012 zijn ingediend.   
 
 ### Artikel  7  
 
@@ -216,7 +217,7 @@ Aan het verlenen van financiële ondersteuning kunnen nooit rechten worden ontle
 
 1.  Zo lang het bedrag aan financiële ondersteuning nog niet definitief is vastgesteld kan de Mondriaan Stichting de beslissing tot verlening van die financiële ondersteuning intrekken of ten nadele van de ontvanger wijzigen, in ieder geval indien: 
 
-a. de activiteiten waarvoor de financiële ondersteuning is verleend niet of niet geheel dan wel niet conform de strekking van de [wet](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md), of de vereisten genoemd in artikel 2 en 5 van dit reglement hebben plaatsgevonden of zullen plaatsvinden;  
+a. de activiteiten waarvoor de financiële ondersteuning is verleend niet of niet geheel dan wel niet conform de strekking van de wet, of de vereisten genoemd in artikel 2 en 5 van dit reglement hebben plaatsgevonden of zullen plaatsvinden;  
 
 b. de ontvanger heeft gehandeld in strijd met de aan de financiële ondersteuning verbonden verplichtingen;  
 
@@ -267,7 +268,7 @@ De ontvanger doet zo spoedig mogelijk, onder overlegging van de relevante besche
 
 ### Artikel  27  
 
-1.  De financiële verantwoording is voorzien van een verklaring omtrent de getrouwheid als bedoeld in [artikel 393 lid 1 Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+1.  De financiële verantwoording is voorzien van een verklaring omtrent de getrouwheid als bedoeld in artikel 393 lid 1 Boek 2 van het Burgerlijk Wetboek.   
 2.  De Mondriaan Stichting kan de ontvanger nadere aanwijzingen geven aangaande de controle op de naleving van de voorwaarden verbonden aan de financiële ondersteuning.   
 3.  Indien de maximaal toegezegde financiële ondersteuning aan het project minder dan 25.000 euro bedraagt zijn het eerste en tweede lid niet van toepassing, tenzij de Mondriaan Stichting anders besluit en dit tevoren laat weten.   
 4.  De Mondriaan Stichting kan besluiten lid 1 en lid 2 niet toe te passen als zij van mening is dat de financiële verantwoording op nadere wijze naar behoren heeft plaatsgevonden.   
@@ -280,7 +281,7 @@ De artikelen 7, 8 lid 1, en 11 t/m 15 van dit reglement zijn van overeenkomstige
 
 1.  De Mondriaan Stichting kan de beslissing tot vaststelling van de financiële ondersteuning in ieder geval intrekken of ten nadele van de ontvanger wijzigen, dan wel op een lager bedrag vaststellen dan in de beschikking tot verlening van de financiële ondersteuning is bepaald: 
 
-a. indien de activiteiten waarvoor de financiële ondersteuning was verleend niet of niet geheel dan wel niet conform de strekking van de [wet](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md), of de vereisten genoemd in artikel 2 en 5 van dit reglement hebben plaatsgevonden;  
+a. indien de activiteiten waarvoor de financiële ondersteuning was verleend niet of niet geheel dan wel niet conform de strekking van de wet, of de vereisten genoemd in artikel 2 en 5 van dit reglement hebben plaatsgevonden;  
 
 b. op grond van feiten of omstandigheden waarvan de Mondriaan Stichting bij de beslissing tot verlening/ vaststelling van de financiële ondersteuning redelijkerwijs niet op de hoogte kon zijn en op grond waarvan de financiële ondersteuning lager dan overeenkomstig de beslissing tot verlening van de financiële ondersteuning had dienen te worden vastgesteld;  
 
@@ -343,7 +344,7 @@ a. een persoon die niet bij de voorbereiding van het bestreden besluit betrokken
 
 b. meer dan één persoon van wie de meerderheid, onder wie degene die het horen leidt, niet bij de voorbereiding van het bestreden besluit betrokken is geweest.     
 9.  Van het horen wordt een verslag gemaakt door een persoon die daartoe door de Mondriaan Stichting is aangewezen, en bij het horen aanwezig is geweest.   
-10.  De beslissing op het bezwaarschrift geschiedt binnen tien weken na ontvangst van het bezwaarschrift; deze termijn wordt opgeschort met ingang van de dag waarop de indiener verzocht is zijn verzuim te herstellen als bedoeld in [artikel 6:6 Awb](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) tot de dag waarop het verzuim is hersteld of de daarvoor gestelde termijn ongebruikt is verstreken. Verder uitstel is mogelijk voorzover de indiener van het bezwaarschrift daarmee instemt en andere belanghebbenden daarmee niet in hun belangen kunnen worden geschaad of ermee instemmen.   
+10.  De beslissing op het bezwaarschrift geschiedt binnen tien weken na ontvangst van het bezwaarschrift; deze termijn wordt opgeschort met ingang van de dag waarop de indiener verzocht is zijn verzuim te herstellen als bedoeld in artikel 6:6 Awb tot de dag waarop het verzuim is hersteld of de daarvoor gestelde termijn ongebruikt is verstreken. Verder uitstel is mogelijk voorzover de indiener van het bezwaarschrift daarmee instemt en andere belanghebbenden daarmee niet in hun belangen kunnen worden geschaad of ermee instemmen.   
 
 ### Hoofdstuk  11  
 
@@ -351,7 +352,7 @@ b. meer dan één persoon van wie de meerderheid, onder wie degene die het horen
 
 ### Artikel  34  
 
-In gevallen waarin de [wet](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md), de statuten, dit reglement of deelreglementen niet voorzien, beslist de Mondriaan Stichting.  
+In gevallen waarin de wet, de statuten, dit reglement of deelreglementen niet voorzien, beslist de Mondriaan Stichting.  
 
 ### Artikel  35  
 
@@ -363,4 +364,8 @@ Ten aanzien van het nemen van beslissingen die zijn aangevraagd voor de inwerkin
 
 ### Artikel  37  
 
-Van toepassing op dit reglement is de [Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (Awb).  
+Van toepassing op dit reglement is de Algemene wet bestuursrecht (Awb).  
+
+### Artikel  38  
+
+Deze regeling vervalt met ingang van 1 januari 2015.  

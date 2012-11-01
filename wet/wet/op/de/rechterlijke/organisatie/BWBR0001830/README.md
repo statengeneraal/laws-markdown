@@ -322,7 +322,7 @@ Het bestuur kan een of meer leden van het bestuur machtigen een of meer van zijn
 
 ### Artikel  22  
 
-1.  Met uitzondering van de raadsheren-plaatsvervangers en rechters-plaatsvervangers, die hun ambt niet vervullen op basis van een aanwijzing als bedoeld in [artikel 5f, derde lid, van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), vormen de bij een gerecht werkzame rechterlijke ambtenaren met rechtspraak belast, de seniorgerechtsauditeurs en gerechtsauditeurs, die tevens raadsheer-plaatsvervanger of rechter-plaatsvervanger zijn, en de rechterlijke ambtenaren in opleiding tezamen de gerechtsvergadering.   
+1.  Met uitzondering van de raadsheren-plaatsvervangers en rechters-plaatsvervangers, die hun ambt niet vervullen op basis van een aanwijzing als bedoeld in [artikel 5f, derde lid, van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), vormen de bij een gerecht werkzame rechterlijke ambtenaren met rechtspraak belast, de senior-gerechtsauditeurs en gerechtsauditeurs, die tevens raadsheer-plaatsvervanger of rechter-plaatsvervanger zijn, en de rechterlijke ambtenaren in opleiding tezamen de gerechtsvergadering.   
 2.  De president is voorzitter van de gerechtsvergadering.   
 3.  De bij het gerecht werkzame gerechtsambtenaren, senior-gerechtsauditeurs, gerechtsauditeurs, die niet tevens raadsheer-plaatsvervanger of rechter-plaatsvervanger zijn, en de raadsheren-plaatsvervangers en rechters-plaatsvervangers, die hun ambt niet vervullen op basis van een aanwijzing als bedoeld in [artikel 5f, derde lid, van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), kunnen op uitnodiging deelnemen aan de gerechtsvergadering.   
 
@@ -368,7 +368,7 @@ f. overige materiële voorzieningen.
 4.  Klachten zijn niet mogelijk ten aanzien van gedragingen waartegen ingevolge een wettelijk geregelde voorziening een procedure bij een rechterlijke instantie openstaat of heeft opengestaan, dan wel beroep openstaat of heeft opengestaan tegen een uitspraak die in een zodanige procedure is gedaan. Klachten kunnen evenmin een rechterlijke beslissing betreffen.   
 5.  De regeling wordt gepubliceerd in de Staatscourant.   
 6.  [Afdeling 9.1.2 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
-7.  Ten aanzien van de bij het gerecht werkzame gerechtsambtenaren, buitengriffiers, gerechtsauditeurs en rechterlijke ambtenaren in opleiding zijn [titel 9.2 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) alsmede [artikel 1a, vierde lid](../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md), en [hoofdstuk III van de Wet Nationale ombudsman](../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md) van overeenkomstige toepassing, met dien verstande dat voor de overeenkomstige toepassing hiervan als bestuursorgaan wordt aangemerkt het bestuur van het gerecht waar de betrokken gerechtsambtenaar, buitengriffier, gerechtsauditeur of rechterlijk ambtenaar in opleiding werkzaam is.   
+7.  Ten aanzien van de bij het gerecht werkzame gerechtsambtenaren, buitengriffiers, gerechtsauditeurs en rechterlijke ambtenaren in opleiding zijn [titel 9.2 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) alsmede [artikel 1a, tweede lid](../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md), en [hoofdstuk III van de Wet Nationale ombudsman](../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md) van overeenkomstige toepassing, met dien verstande dat voor de overeenkomstige toepassing hiervan als bestuursorgaan wordt aangemerkt het bestuur van het gerecht waar de betrokken gerechtsambtenaar, buitengriffier, gerechtsauditeur of rechterlijk ambtenaar in opleiding werkzaam is.   
 
 ### Artikel  27  
 
@@ -542,7 +542,7 @@ c. de verdeling van kantonzaken over de hoofdplaats en nevenvestigings- en neven
 
 ### Artikel  48  
 
-1.  Het bestuur van de rechtbank vormt binnen de sector kanton enkelvoudige kamers en bepaalt de bezetting daarvan. Degene die zittingheeft in de enkelvoudige kamer draagt de titel van kantonrechter dan wel kantonrechter-plaatsvervanger.   
+1.  Het bestuur van de rechtbank vormt binnen de sector kanton enkelvoudige kamers en bepaalt de bezetting daarvan. Degene die zitting heeft in de enkelvoudige kamer draagt de titel van kantonrechter dan wel kantonrechter-plaatsvervanger.   
 2.  In afwijking van artikel 47, eerste lid, vormt het bestuur van de rechtbank binnen de sector kanton meervoudige kamers onder de benaming van pachtkamers en bepaalt de bezetting daarvan.   
 3.  Een pachtkamer wordt bezet door twee personen, niet zijnde rechterlijk ambtenaar, als deskundige leden en een kantonrechter. Op de deskundige leden zijn de artikelen 7, derde lid, 12 en 13 tot en met 13g van overeenkomstige toepassing.   
 
@@ -658,9 +658,9 @@ De gerechtshoven nemen in eerste aanleg, tevens in hoogste ressort, kennis van j
 
 ### Artikel  62a  
 
-1.  Bij tijdelijk gebrek aan voldoende zittingscapaciteit binnen het ressort kan de Raad tijdelijk een ander gerechtshof aanwijzen waarnaar het gerechtshof zaken die behoren tot een in de aanwijzing te bepalen categorie ter behandeling en beslissing kan verwijzen.   
-2.  In de aanwijzing bepaalt de Raad voor welke periode de aanwijzing geldt. De aanwijzing geldt ten hoogste drie jaren en kan eenmaal worden verlengd voor de duur van ten hoogste een jaar.   
-3.  De aanwijzing vindt niet plaats dan nadat de Raad daarover de besturen van de betrokken gerechtshoven heeft gehoord. Indien de aanwijzing betrekking heeft op strafzaken vindt de aanwijzing niet plaats dan nadat de Raad daarover het College van procureurs-generaal heeft gehoord.   
+1.  Bij tijdelijk gebrek aan voldoende zittingscapaciteit binnen het ressort kan Onze Minister, de Raad gehoord, tijdelijk een ander gerechtshof aanwijzen waarnaar het gerechtshof zaken die behoren tot een in de aanwijzing te bepalen categorie ter behandeling en beslissing kan verwijzen.   
+2.  In de aanwijzing bepaalt Onze Minister voor welke periode de aanwijzing geldt. De aanwijzing geldt ten hoogste drie jaren en kan eenmaal worden verlengd voor de duur van ten hoogste een jaar.   
+3.  Indien de aanwijzing betrekking heeft op strafzaken vindt de aanwijzing niet plaats dan nadat Onze Minister daarover het College van procureurs-generaal heeft gehoord.   
 4.  De aanwijzing wordt gepubliceerd in de Staatscourant.   
 5.  Het derde en vierde lid zijn van overeenkomstige toepassing op een verlenging van de aanwijzing.   
 
@@ -697,8 +697,8 @@ Het bestuur van het gerechtshof te Amsterdam vormt voor het behandelen en beslis
 ### Artikel  67  
 
 1.  Het bestuur van het gerechtshof te Arnhem vormt een meervoudige kamer die is belast met het behandelen en beslissen van zaken in beroep als bedoeld in de [artikelen 502](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [509v](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [509ff van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md). Het bestuur bepaalt de bezetting van deze kamer.   
-2.  Deze kamer is voorts belast met het verstrekken van adviezen ingevolge [artikel 43, derde lid, van de Wet overdracht tenuitvoerlegging strafvonnissen](../../../../../../../wet/wet/overdracht/tenuitvoerlegging/strafvonnissen/BWBR0004028/README.md).   
-3.  Deze kamer wordt voor de beslissing in zaken in beroep als bedoeld in de [artikelen 502](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [509v](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [509ff van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aangevuld met twee personen, niet zijnde rechterlijk ambtenaar, als deskundige leden. In de overige zaken kan de voorzitter van de kamer deze leden toevoegen. Op de deskundige leden zijn de artikelen 7, derde lid, 12 en 13 tot en met 13g van deze wet en de [artikelen 46c](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46d](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46f](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46i, met uitzondering van het eerste lid, onderdeel c](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46j](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46l, eerste en derde lid](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46m](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46o](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en [46p van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) van overeenkomstige toepassing, met dien verstande dat voor de overeenkomstige toepassing van [artikel 46j](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) onderscheidenlijk [artikel 46o, tweede lid](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), onder functionele autoriteit wordt verstaan: bestuur onderscheidenlijk president van het gerecht.   
+2.  Deze kamer is voorts belast met de hem opgedragen taken in [artikel 43, derde lid, van de Wet overdracht tenuitvoerlegging strafvonnissen](../../../../../../../wet/wet/overdracht/tenuitvoerlegging/strafvonnissen/BWBR0004028/README.md) en de [artikelen 2:11, derde lid](../../../../../../../wet/wet/wederzijdse/erkenning/en/tenuitvoerlegging/vrijheidsbenemende/en/etc/BWBR0031814/README.md), en [2:27, vierde lid, van de Wet wederzijdse erkenning en tenuitvoerlegging vrijheidsbenemende en voorwaardelijke sancties](../../../../../../../wet/wet/wederzijdse/erkenning/en/tenuitvoerlegging/vrijheidsbenemende/en/etc/BWBR0031814/README.md).   
+3.  Deze kamer wordt voor de beslissing in zaken in beroep als bedoeld in de [artikelen 502](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [509v](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [509ff van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aangevuld met twee personen, niet zijnde rechterlijk ambtenaar, als deskundige leden. In de overige zaken kan de voorzitter van de kamer deze leden toevoegen. Op de deskundige leden zijn de artikelen 7, derde lid, 12 en 13 tot en met 13g van deze wet en de [artikelen 46c](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46d](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46f](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46i, met uitzondering van het eerste lid, onderdeel c](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46j](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46l, eerste en derde lid](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46m](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46o](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en [46p van de Wet rechtspositie rechterlijke ambtenaren](../../../../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) van overeenkomstige toepassing, met dien verstande dat voor de overeenkomstige toepassing van artikel 46j onderscheidenlijk artikel 46o, tweede lid, onder functionele autoriteit wordt verstaan: bestuur onderscheidenlijk president van het gerecht.   
 4.  De deskundige leden worden bij koninklijk besluit benoemd voor een periode van vijf jaar. Er kunnen ook plaatsvervangers worden benoemd.   
 5.  De deskundige leden leggen alvorens zij met hun werkzaamheden aanvangen de eed of belofte af volgens het formulier zoals dat is vastgesteld in de tweede bijlage bij deze wet. Bij algemene maatregel van bestuur worden regels gesteld over hun beëdiging.   
 6.  Bij algemene maatregel van bestuur worden regels gesteld over het kostuum, de afwezigheid, de afwisseling, de vergoeding voor reis- en verblijfskosten en nadere vergoeding van de deskundige leden en hun plaatsvervangers.   
@@ -829,9 +829,27 @@ c. het niet geven van de beslissing, bedoeld in [artikel 358, derde lid, van het
 
 d. het niet in het openbaar gewezen zijn van het vonnis.     
 
+### Artikel  80a  
+
+1.  De Hoge Raad kan, gehoord de procureur-generaal, het beroep in cassatie niet-ontvankelijk verklaren wanneer de aangevoerde klachten geen behandeling in cassatie rechtvaardigen, omdat de partij die het cassatieberoep instelt klaarblijkelijk onvoldoende belang heeft bij het cassatieberoep of omdat de klachten klaarblijkelijk niet tot cassatie kunnen leiden.   
+2.  De Hoge Raad neemt een beslissing als bedoeld in het eerste lid niet dan nadat de Hoge Raad kennis heeft genomen van: 
+
+a. de dagvaarding of het verzoekschrift, bedoeld in [artikel 407](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) onderscheidenlijk [artikel 426a van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), en de conclusie van antwoord of het verweerschrift, bedoeld in [artikel 411](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) onderscheidenlijk [artikel 426b, derde lid, van dat Wetboek](../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), voor zover ingediend;  
+
+b. de schriftuur, houdende de middelen van cassatie, bedoeld in [artikel 437 van het Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md); dan wel  
+
+c. het beroepschrift waarbij beroep in cassatie wordt ingesteld, bedoeld in [artikel 28 van de Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en het verweerschrift, bedoeld in [artikel 29b, van die wet](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), voor zover ingediend.     
+3.  Het beroep in cassatie wordt behandeld en beslist door drie leden van een meervoudige kamer, van wie een als voorzitter optreedt.   
+4.  Indien de Hoge Raad toepassing geeft aan het eerste lid, kan hij zich bij de vermelding van de gronden van zijn beslissing beperken tot dit oordeel.   
+
 ### Artikel  81  
 
-Indien de Hoge Raad oordeelt dat een aangevoerde klacht niet tot cassatie kan leiden en niet noopt tot beantwoording van rechtsvragen in het belang van de rechtseenheid of de rechtsontwikkeling, kan hij zich bij de vermelding van de gronden van zijn beslissing beperken tot dit oordeel.  
+1.  Indien de Hoge Raad oordeelt dat een aangevoerde klacht niet tot cassatie kan leiden en niet noopt tot beantwoording van rechtsvragen in het belang van de rechtseenheid of de rechtsontwikkeling, kan hij zich bij de vermelding van de gronden van zijn beslissing beperken tot dit oordeel.   
+2.  Het beroep in cassatie wordt behandeld en beslist door drie leden van een meervoudige kamer, van wie een als voorzitter optreedt.   
+
+### Artikel  81a  
+
+De Hoge Raad neemt kennis van door de rechtbanken en de gerechtshoven gestelde prejudiciële vragen.  
 
 ### Artikel  82  
 
@@ -1112,7 +1130,7 @@ d. de instelling van vorderingen tot het door de Hoge Raad nemen van beslissinge
 
 1.  Het parket bij de Hoge Raad bestaat uit een procureur-generaal, een plaatsvervangend procureur-generaal, ten hoogste tweeëntwintig advocaten-generaal en ten hoogste elf advocaten-generaal in buitengewone dienst.   
 2.  De advocaten-generaal in buitengewone dienst nemen, als advocaat-generaal, conclusies voorzover zij daartoe door de procureur-generaal worden opgeroepen. Zij nemen in zodanig geval, wanneer de Hoge Raad ten principale recht doet, de taken en bevoegdheden van het openbaar ministerie, bedoeld in artikel 125, waar.   
-3.  Voor de toepassing van het eerste lid worden de procureur-generaal, de plaatsvervangend procureur-generaal, en de advocaten-generaal bij deHoge Raad aan wie buitengewoon verlof zonder behoud van bezoldiging is verleend, voor de duur van dat verlof en gedurende ten hoogste een jaar daarna buiten beschouwing gelaten.   
+3.  Voor de toepassing van het eerste lid worden de procureur-generaal, de plaatsvervangend procureur-generaal, en de advocaten-generaal bij de Hoge Raad aan wie buitengewoon verlof zonder behoud van bezoldiging is verleend, voor de duur van dat verlof en gedurende ten hoogste een jaar daarna buiten beschouwing gelaten.   
 4.  Voor de toepassing van het eerste lid worden rechterlijke ambtenaren die zijn aangesteld voor een minder dan volledige arbeidsduur, geteld overeenkomstig de breuk die hun arbeidsduur aangeeft.   
 
 ### Artikel  116  
@@ -1309,15 +1327,17 @@ a. een hoofdofficier;
 
 b. een plaatsvervangend hoofdofficier;  
 
-c. officieren van justitie;  
+c. een tweede plaatsvervangend hoofdofficier van justitie;  
 
-d. plaatsvervangende officieren van justitie  
+d. officieren van justitie;  
 
-e. officieren enkelvoudige zittingen;  
+e. plaatsvervangende officieren van justitie  
 
-f. plaatsvervangende officieren enkelvoudige zittingen;  
+f. officieren enkelvoudige zittingen;  
 
-g. andere ambtenaren.     
+g. plaatsvervangende officieren enkelvoudige zittingen;  
+
+h. andere ambtenaren.     
 2.  Bij het landelijk parket kunnen werkzaam zijn: 
 
 a. senior officieren van justitie A;  
@@ -1327,9 +1347,10 @@ b. senior officieren van justitie;
 c. substituut-officieren van justitie;  
 
 d. rechterlijke ambtenaren in opleiding.     
-3.  Aan het hoofd van het landelijk parket staat de hoofdofficier met de titel hoofd van het landelijk parket. Hij kan algemene en bijzondere aanwijzingen geven aan de bij zijn parket werkzame ambtenaren betreffende de uitoefening van de taken en bevoegdheden van het parket. In geval van afwezigheid, belet of ontstentenis van het hoofd van het landelijk parket wordt hij vervangen door de plaatsvervangend hoofdofficier.   
-4.  De hoofdofficier, plaatsvervangend hoofdofficier, senior officieren van justitie A, senior officieren van justitie, officieren van justitie, substituut-officieren van justitie onderscheidenlijk officieren enkelvoudige zittingen zijn van rechtswege plaatsvervangend officier van justitie onderscheidenlijk plaatsvervangend officier enkelvoudige zittingen bij de arrondissementsparketten, bij het functioneel parket en bij het parket-generaal.   
-5.  De officier enkelvoudige zittingen en de plaatsvervangende officier enkelvoudige zittingen hebben de bevoegdheden en verplichtingen die bij of krachtens de wet aan de officier van justitie worden toegekend, met uitzondering van de bevoegdheid om op te treden ter terechtzitting van een meervoudige kamer van de rechtbank.   
+3.  Aan het hoofd van het landelijk parket staat de hoofdofficier met de titel hoofd van het landelijk parket. Hij kan algemene en bijzondere aanwijzingen geven aan de bij zijn parket werkzame ambtenaren betreffende de uitoefening van de taken en bevoegdheden van het parket. In geval van afwezigheid, belet of ontstentenis van het hoofd van het landelijk parket wordt hij vervangen door de plaatsvervangend hoofdofficier, bedoeld in het eerste lid, onderdeel b.   
+4.  De plaatsvervangend hoofdofficier van justitie, bedoeld in het eerste lid, onderdeel c, vervult de functie van nationaal lid bij Eurojust. Hij vervult die functie voor tenminste vier jaar. Een senior officier van justitie als bedoeld in het tweede lid, onderdeel b, vervult de functie van plaatsvervanger van het nationaal lid bij Eurojust.   
+5.  De hoofdofficier, plaatsvervangend hoofdofficier, senior officieren van justitie A, senior officieren van justitie, officieren van justitie, substituut-officieren van justitie onderscheidenlijk officieren enkelvoudige zittingen zijn van rechtswege plaatsvervangend officier van justitie onderscheidenlijk plaatsvervangend officier enkelvoudige zittingen bij de arrondissementsparketten, bij het functioneel parket en bij het parket-generaal.   
+6.  De officier enkelvoudige zittingen en de plaatsvervangende officier enkelvoudige zittingen hebben de bevoegdheden en verplichtingen die bij of krachtens de wet aan de officier van justitie worden toegekend, met uitzondering van de bevoegdheid om op te treden ter terechtzitting van een meervoudige kamer van de rechtbank.   
 
 ### Artikel  137a  
 
@@ -1386,7 +1407,7 @@ e. andere ambtenaren.
 
 ### Artikel  139a  
 
-Het College kan de hoofden van door het College aangewezen arrondissementsparketten onderscheidenlijk de hoofden van de ressortsparketten opdragen om taken op het gebied van de organisatie en de bedrijfsvoering van die parketten gezamenlijk uit te voeren onder verantwoordelijkheid van een daartoe aangewezen hoofdofficier onderscheidenlijk hoofdadvocaat-generaal.  
+Het College kan de hoofden van door het College aangewezen arrondissementsparketten opdragen om taken op het gebied van de organisatie en de bedrijfsvoering van die parketten gezamenlijk uit te voeren onder verantwoordelijkheid van een daartoe aangewezen hoofdofficier van justitie.  
 
 ### Afdeling  3  
 

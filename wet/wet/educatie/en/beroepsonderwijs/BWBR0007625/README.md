@@ -66,7 +66,7 @@ m. beroepsbegeleidende leerweg: de leerweg, bedoeld in artikel 7.2.2, tweede lid
 
 n. opleiding educatie: een opleiding als bedoeld in artikel 7.3.1, eerste lid;  
 
-o. examinering: het nemen van beslissingen over inhoud en niveau van examens van een beroepsopleiding, procedures en voorwaarden waaronder examens worden afgenomen, alsmede het vaststellen van de uitslag van examens. De vorige volzin is van overeenkomstige toepassing op examens van de afzonderlijke leerwegen van een opleiding indien Onze Minister ingevolge artikel 7.2.4, tweede lid, heeft besloten dat een opleiding zowel in de beroepsopleidende als in de beroepsbegeleidende leerweg kan worden verzorgd;  
+o. examinering: het nemen van beslissingen over inhoud en niveau van examens van een beroepsopleiding, procedures en voorwaarden waaronder examens worden afgenomen, alsmede het vaststellen van de uitslag van examens. De vorige volzin is van overeenkomstige toepassing op examens van de afzonderlijke leerwegen van een opleiding indien Onze Minister ingevolge artikel 7.2.4, tweede lid, heeft besloten dat een opleiding zowel in de beroepsopleidende als in de beroepsbegeleidende leerweg kan worden verzorgd, alsmede op een opleiding educatie;  
 
 p.  vervallen;   
 
@@ -200,6 +200,12 @@ b. de uitkomsten van die beoordeling, en
 
 c. het voorgenomen beleid in het licht van die uitkomsten.     
 
+### Artikel  1.3.6a  
+
+####Kwaliteit onderwijspersoneel
+
+Het bevoegd gezag draagt zorg voor het personeelsbeleid, voor zover het betreft de duurzame borging van de kwaliteit van het onderwijspersoneel.  
+
 ### §  4  
 
 ####Overige voorschriften
@@ -288,6 +294,13 @@ e. de artikelen 8.1.1a, 8.1.8 en 8.1.8a; en
 
 f. de artikelen 8.3.1 tot en met 8.3.3.     
 9.  Voor een opleiding educatie als bedoeld in de aanhef van het achtste lid kan bij ministeriële regeling een nadere specificatie worden gegeven van de gegevens, bedoeld in artikel 2.3.6a, tweede lid, voor zover dat lid van overeenkomstige toepassing is verklaard in het achtste lid, onderdeel a, en worden bepaald welke van die gegevens niet langer behoeven te worden verstrekt. Bij ministeriële regeling kunnen voorts regels worden gesteld omtrent de tijdstippen en de wijze van verstrekking van die gegevens. Bij ministeriële regeling worden regels gesteld ter uitvoering van artikel 2.3.6c, eerste en tweede lid, voor zover die leden van overeenkomstige toepassing zijn verklaard in het achtste lid, onderdeel c, in ieder geval omtrent de inhoud en de samenstelling van die gegevens, de wijze waarop de gegevens uit het basisregister onderwijs worden verstrekt, de tijdstippen waarop de gegevens worden verstrekt, en de perioden waarop de gegevens betrekking hebben.   
+
+### Artikel  1.4a.2  
+
+####Samenwerking met onbekostigde VO-scholen
+
+1.  Het bevoegd gezag van een instelling als bedoeld in artikel 1.4a.1, tweede lid, waarvoor wat betreft een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 7.3.1, eerste lid, onder a, toepassing is gegeven aan artikel 1.4a.1, eerste lid, kan, ten aanzien van genoemde opleiding, in afwijking van artikel 8.1.1, zesde lid, eerste volzin, in gevallen als geregeld in en met inachtneming van de voorschriften gegeven bij of krachtens [artikel 58a van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) tot onderwijs- en examenvoorzieningen van de instelling toelaten zij die niet als deelnemer of examendeelnemer aan de instelling worden ingeschreven maar zijn ingeschreven als leerling aan een ingevolge [artikel 56 van de Wet op het voorgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) aangewezen school.   
+2.  Indien het bevoegd gezag van een ingevolge [artikel 56 van de Wet op het voorgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) aangewezen school ter uitvoering van [artikel 58a, eerste en tweede lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) leerlingen in het kader van het onderwijs waarvoor zij aan die school zijn ingeschreven, onderwijs wil kunnen laten volgen dat een instelling als bedoeld in artikel 1.4a.1, tweede lid, van datzelfde bevoegd gezag verzorgt, regelt het bevoegd gezag op overeenkomstige wijze de onderwerpen, bedoeld in artikel 58a, derde lid, aanhef en onder a tot en met d, van de Wet op het voortgezet onderwijs.   
 
 ### Titel  5  
 
@@ -617,6 +630,55 @@ Bij de melding, bedoeld in artikel 2.2.6, eerste lid, geeft het bevoegd gezag te
 
 ####Bekostiging agrarische innovatie- en praktijkcentra
 
+### Titel  2a  
+
+####Bekostiging voortgezet algemeen volwassenenonderwijs
+
+### Artikel  2.2a.1  
+
+####Rijksbijdrage voortgezet algemeen volwassenenonderwijs
+
+1.  De rijksbijdrage voor het voortgezet algemeen volwassenenonderwijs waarop de in artikel 1.3.1 bedoelde aanspraak betrekking heeft wordt, binnen het raam van de door de begrotingswetgever beschikbaar gestelde middelen, per instelling berekend aan de hand van een bij of krachtens algemene maatregel van bestuur vastgestelde berekeningswijze.   
+2.  Artikel 2.2.1, derde lid, onder a tot en met k, en vierde lid, zijn van overeenkomstige toepassing, met dien verstande dat in onderdeel i onder gewezen personeel mede wordt begrepen personeel dat was belast met werkzaamheden op het gebied van het beroepsonderwijs.   
+
+### Artikel  2.2a.2  
+
+####Berekeningswijze
+
+1.  De in artikel 2.2a.1  bedoelde berekeningswijze bevat voor elke instelling en elke opleiding gelijkelijk geldende maatstaven.   
+2.  De maatstaven voorzien in bekostiging aan de hand van: 
+
+a. het aantal ingeschreven deelnemers,  
+
+b. het aantal deelnemers dat bij de instelling een diploma van onderwijs als bedoeld in de [artikelen 7 tot en met 9 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) heeft behaald en  
+
+c. het aantal deelnemers dat bij de instelling een eindexamen of deeleindexamen heeft afgelegd in onderwijs als bedoeld in de [artikelen 7 tot en met 9 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).     
+3.  Voor de toepassing van de maatstaf, bedoeld in het tweede lid, onder a, blijven deelnemers die niet bij een instelling staan ingeschreven op een bij algemene maatregel van bestuur vastgesteld tijdstip buiten beschouwing en kan onderscheid worden gemaakt naar het aantal vakken waarvoor een deelnemer is ingeschreven.   
+4.  Voor de toepassing van de maatstaf, bedoeld in het tweede lid, onder c, kan onderscheid worden gemaakt naar het aantal vakken waarin de deelnemer met goed gevolg examen heeft afgelegd.   
+5.  Deelnemers die niet zijn opgenomen in de basisadministratie persoonsgegevens, bedoeld in de Wet gemeentelijke basisadministratie persoonsgegevens, tellen alleen mee voor de toepassing van dit artikel, indien: 
+
+a. zij onderwijs in Nederland volgen, en  
+
+b. zij in Nederland, België of een van de bondsstaten Noord-Rijnland-Westfalen, Nedersaksen en Bremen van de Bondsrepubliek Duitsland wonen.     
+6.  Examendeelnemers tellen niet mee voor de toepassing van dit artikel.   
+
+### Artikel  2.2a.3  
+
+####Aanvullende middelen
+
+1.  Onze Minister kan, al dan niet onder door hem op te leggen verplichtingen, volgens bij ministeriële regeling te geven voorschriften ten behoeve van de ontwikkeling van het bestel van het voortgezet algemeen volwassenenonderwijs een bedrag toevoegen aan de rijksbijdrage, berekend op grond van artikel 2.2a.2.   
+2.  Onze Minister kan een bekostigingsplafond instellen. In dat geval worden bij ministeriële regeling regels omtrent de verdeling vastgesteld.   
+
+### Artikel  2.2a.4  
+
+####Bekendmaking, verstrekking en betaling rijksbijdrage voortgezet algemeen volwassenenonderwijs
+
+1.  Onze Minister maakt aan elke instelling jaarlijks in september bekend welke rijksbijdrage voor het daarop volgende jaar wordt verstrekt. Hij deelt daarbij mee op welke wijze de rijksbijdrage is berekend en vermeldt daarbij afzonderlijk het bedrag voor gehandicapte deelnemers.   
+2.  De rijksbijdrage wordt betaald volgens een door Onze Minister te bepalen kasritme.   
+3.  Zolang de rijksbijdrage niet is vastgesteld of nader vastgesteld, wordt daarop door Onze Minister een voorschot betaald. Het tweede lid is van overeenkomstige toepassing.   
+4.  Bij of krachtens algemene maatregel van bestuur worden nadere voorschriften gegeven met betrekking tot de uitvoering van deze titel. Deze voorschriften hebben in elk geval betrekking op aard, inrichting en wijze van verstrekking van gegevens met betrekking tot de deelnemers.   
+5.  De in het vierde lid bedoelde gegevens die op enigerlei wijze een rol spelen in de berekeningswijze, bedoeld in artikel 2.2a.2  , gaan vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de raad van toezicht of het bevoegd gezag aangewezen accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). Deze gegevens en de verklaring worden ingediend voor een bij algemene maatregel van bestuur te bepalen tijdstip.   
+
 ### Titel  3  
 
 ####Uitkering ten behoeve van de educatie
@@ -678,7 +740,7 @@ d. de hoogste vooropleiding;
 
 e. het educatieprogramma (vakken);  
 
-f. de behaalde certificaten, de vakken waarin examen is afgelegd, de cijfers van het schoolexamen en het centraal examen, de eindcijfers en de uitslag van het eindexamen of het deeleindexamen;  
+f. de behaalde certificaten en de data waarop de certificaten zijn behaald, alsmede de vakken waarin examen is afgelegd, de cijfers van het schoolexamen en het centraal examen, de eindcijfers en de uitslag van het eindexamen of het deeleindexamen;  
 
 g. het uitstroomniveau of het behaalde diploma en de datum waarop het diploma is behaald alsmede, voor zover het Nederlands als tweede taal (NT2) betreft, het startniveau;  
 
@@ -695,8 +757,9 @@ l. indien van toepassing de reden van het uitstromen.
 4.  Het bevoegd gezag gebruikt bij de opgave aan burgemeester en wethouders, bedoeld in artikel 8.1.8, eerste lid, het persoonsgebonden nummer van de betrokkene.   
 5.  Indien de gegevens over de nationaliteit van de deelnemer niet zijn opgenomen in de gemeentelijke basisadministratie persoonsgegevens worden deze gegevens door het bevoegd gezag verstrekt aan Onze Minister.   
 6.  Het bevoegd gezag gebruikt het persoonsgebonden nummer van een deelnemer aan een opleiding in het kader van de uitvoering van subsidieregelingen van het Europees Sociaal Fonds.   
-7.  Het bevoegd gezag gebruikt het persoonsgebonden nummer van een deelnemer aan een opleiding educatie in het contact met een andere instelling of een school of instelling voor ander onderwijs ten behoeve van de in- en uitschrijving van die deelnemer.   
+7.  Het bevoegd gezag gebruikt het persoonsgebonden nummer van een deelnemer aan een opleiding educatie in het contact met een andere instelling of een school of instelling voor ander onderwijs ten behoeve van de in- en uitschrijving van die deelnemer. Onder dit contact wordt mede begrepen de uitwisseling van leergegevens en direct met het leren samenhangende begeleidingsgegevens. Bij algemene maatregel van bestuur worden de gegevens, bedoeld in de vorige volzin, gespecificeerd. Het bevoegd gezag bewaart in de administratie van de instelling een verklaring van instemming van de deelnemer met de uitwisseling van de gegevens.   
 8.  Het bevoegd gezag verstrekt geen persoonsgebonden nummer van een deelnemer aan een opleiding educatie ter uitvoering van [artikel 107, tweede en vijfde lid, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
+9.  De in het zevende lid bedoelde algemene maatregel van bestuur wordt aan de beide kamers der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat vier weken na de overlegging zijn verstreken en gedurende die termijn niet door of namens een van beide kamers de wens te kennen wordt gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.   
 
 ### Artikel  2.3.6b  
 
@@ -777,7 +840,7 @@ Indien bijzondere ontwikkelingen in het beroepsonderwijs daartoe aanleiding geve
 1.  Het bevoegd gezag stelt jaarlijks een jaarrekening vast over het afgelopen jaar.   
 2.  In de jaarrekening legt het bevoegd gezag verantwoording af over het financiële beheer van de instelling voor zover het betreft de ingevolge deze wet uit ’s Rijks kas ontvangen middelen. Uit de jaarrekening dient te blijken dat sprake is van een rechtmatige en doelmatige aanwending van de rijksbijdrage. Van niet doelmatige aanwending van de rijksbijdrage is in ieder geval sprake voorzover bedragen daaruit worden aangewend voor het op enigerlei wijze compenseren van de deelnemers of examendeelnemers voor les- en cursusgeld respectievelijk examengeld. Bij ministeriële regeling kunnen met het oog op de verantwoording van de rechtmatigheid en doelmatigheid van de aanwending van de rijksbijdrage nadere voorschriften worden gegeven voor de inrichting van de jaarrekening.   
 3.  Het resultaat van het jaar waarop de jaarrekening betrekking heeft wordt verrekend met de algemene reserve van de instelling.   
-4.  Het bevoegd gezag dient de jaarrekening voor 1 juli van het jaar volgend op het boekjaar bij Onze Minister in. De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de raad van toezicht of het bevoegd gezag aangewezen accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). Bij de aanwijzing van de accountant bedingt de raad van toezicht of het bevoegd gezag dat aan Onze Minister op diens verzoek inzicht wordt geboden in de controlerapporten van de accountant.   
+4.  Het bevoegd gezag dient de jaarrekening voor 1 juli van het jaar volgend op het boekjaar bij Onze Minister in. De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de raad van toezicht of het bevoegd gezag aangewezen accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
 5.  Het bevoegd gezag maakt de jaarrekening, vergezeld van de verklaring, bedoeld in het vierde lid, openbaar.   
 6.  Het bevoegd gezag draagt er zorg voor dat het ten behoeve van Onze Minister beschikt over een overzichtelijke informatieverzameling van de financiële gegevens die op enigerlei wijze van belang zijn voor de berekeningswijze, bedoeld in de artikelen 2.2.2 en 2.2.12.   
 7.  Het bevoegd gezag houdt per begrotingsjaar nauwkeurig boek van baten en lasten en draagt er zorg voor dat de baten en lasten nauwkeurig en herkenbaar zijn verwerkt in de in het zesde lid bedoelde informatieverzameling.   
@@ -841,8 +904,10 @@ o. indien van toepassing de reden van het uitstromen.
 6.  Het bevoegd gezag gebruikt bij de opgave aan burgemeester en wethouders, bedoeld in artikel 8.1.8, eerste lid, het persoonsgebonden nummer van de betrokkene.   
 7.  Indien de gegevens over de nationaliteit van de deelnemer niet zijn opgenomen in de gemeentelijke basisadministratie persoonsgegevens worden deze gegevens door het bevoegd gezag verstrekt aan Onze Minister.   
 8.  Het bevoegd gezag gebruikt het persoonsgebonden nummer van een deelnemer aan een beroepsopleiding in het kader van de uitvoering van subsidieregelingen van het Europees Sociaal Fonds.   
-9.  Het bevoegd gezag gebruikt het persoonsgebonden nummer van een deelnemer aan een beroepsopleiding in het contact met een andere instelling of een school of instelling voor ander onderwijs ten behoeve van de in- en uitschrijving van die deelnemer.   
+9.  Het bevoegd gezag gebruikt het persoonsgebonden nummer van een deelnemer aan een beroepsopleiding in het contact met een andere instelling of een school of instelling voor ander onderwijs ten behoeve van de in- en uitschrijving van die deelnemer. Onder dit contact wordt mede begrepen de uitwisseling van leergegevens en direct met het leren samenhangende begeleidingsgegevens. Bij algemene maatregel van bestuur worden de gegevens, bedoeld in de vorige volzin, gespecificeerd. Het bevoegd gezag bewaart in de administratie van de instelling een verklaring van instemming van de deelnemer met de uitwisseling van de gegevens.   
 10.  Het bevoegd gezag verstrekt geen persoonsgebonden nummer van een deelnemer aan een beroepsopleiding ter uitvoering van [artikel 107, tweede en vijfde lid, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
+11.  Het bevoegd gezag gebruikt het persoonsgebonden nummer van een deelnemer in contacten met een school als bedoeld in de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) in het kader van de ondersteuning die deze school biedt op grond van [artikel 8a, eerste lid, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) en artikel 2.2.5, tweede lid.   
+12.  De in het negende lid bedoelde algemene maatregel van bestuur wordt aan de beide kamers der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat vier weken na de overlegging zijn verstreken en gedurende die termijn niet door of namens een van beide kamers de wens te kennen wordt gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.   
 
 ### Artikel  2.5.5b  
 
@@ -885,13 +950,7 @@ d. verwerking van de gegevens, bedoeld in [artikel 24f, derde en vierde lid, van
 
 ####Onderzoek vanwege minister
 
-Onze Minister kan naast het accountantsonderzoek, bedoeld in artikel 2.5.3, vierde lid, een onderzoek instellen of doen instellen naar de jaarrekening en naar de gegevens, bedoeld in artikel 2.5.5, naar de rechtmatigheid van de bestedingen en naar de doelmatigheid van het beheer van de instelling. Het bevoegd gezag verstrekt aan degene die door Onze Minister met het onderzoek is belast alle inlichtingen die deze voor de uitvoering van zijn taak nodig oordeelt en geeft desgevraagd inzage in informatie, boeken en bescheiden.  
-
-### Artikel  2.5.7  
-
-####Informatieplicht ministeriële accountant
-
-De accountant die door Onze Minister is belast met het onderzoek van de ministeriële jaarrekening, heeft met het oog op het verrichten van dat onderzoek toegang tot elke instelling. Aan de accountant wordt desgevraagd inzage in de informatie en in de boeken en bescheiden gegeven en worden alle inlichtingen verstrekt die deze voor de uitvoering van zijn taak nodig oordeelt.  
+Onze Minister kan naast het accountantsonderzoek, bedoeld in artikel 2.5.3, vierde lid, een onderzoek instellen of doen instellen naar de jaarrekening en naar de gegevens, bedoeld in artikel 2.5.5, naar de rechtmatigheid van de bestedingen en naar de doelmatigheid van het beheer van de instelling.  
 
 ### Artikel  2.5.7a  
 
@@ -955,6 +1014,16 @@ Bij of krachtens algemene maatregel van bestuur kan ten behoeve van het voorbere
 1.  Het bevoegd gezag kan in afwijking van artikel 8.1.1, in gevallen als geregeld in en met inachtneming van [artikel 25a van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) ook tot onderwijs- en examenvoorzieningen van de instelling toelaten zij die niet als deelnemer of examendeelnemer aan de instelling worden ingeschreven maar zijn ingeschreven als leerling aan een school voor voortgezet onderwijs.   
 2.  Bij algemene maatregel van bestuur kunnen voorschriften worden vastgesteld over de verantwoording van de bedragen die het bevoegd gezag met toepassing van [artikel 99, achtste lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) heeft ontvangen.   
 3.  Indien het bevoegd gezag van een school voor voortgezet onderwijs ter uitvoering van [artikel 25a, eerste en tweede lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) leerlingen in het kader van het onderwijs waarvoor zij aan die school zijn ingeschreven, ook onderwijs wil kunnen laten volgen dat een instelling van datzelfde bevoegd gezag verzorgt, regelt het bevoegd gezag op overeenkomstige wijze de onderwerpen van het [derde lid, aanhef en onder a tot en met e, van dat artikel](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
+
+### Titel  6b  
+
+#### *Examinering VSO-leerlingen* 
+
+### Artikel  2.6b  
+
+####Examinering VSO-leerlingen
+
+Het bevoegd gezag kan in afwijking van artikel 8.1.1, in gevallen als geregeld in en met inachtneming van [artikel 14b van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), ook tot examenvoorzieningen van de instelling toelaten zij die niet als examendeelnemer aan de instelling worden ingeschreven maar zijn ingeschreven als leerling aan een school waar voortgezet speciaal onderwijs als bedoeld in de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) wordt verzorgd.  
 
 ### Titel  7  
 
@@ -2228,6 +2297,24 @@ c. organiseren en coördineren zij de in het eerste lid bedoelde melding, regist
 
 1.  De assistentopleiding, bedoeld in [artikel 10b8 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), wordt verzorgd op grondslag van een samenwerkingsovereenkomst tussen het bevoegd gezag van een instelling en het bevoegd gezag van een school voor voortgezet onderwijs als bedoeld in de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
 2.  Een samenwerkingsovereenkomst als bedoeld in het eerste lid, voldoet aan [artikel 10b9 van de Wet op het voorgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
+
+### Titel  5  
+
+#### *Samenwerking in verband met leer-werktrajecten VSO en de assistentopleiding in het VSO* 
+
+### Artikel  8.5.1  
+
+####Samenwerkingsovereenkomst leer-werktrajecten VSO
+
+1.  Leer-werktrajecten, ingevolge [artikel 14a, tweede lid, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), dan wel ingevolge [artikel 59a, tweede lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), worden verzorgd op grondslag van een samenwerkingsovereenkomst tussen het bevoegd gezag van een school waar voortgezet speciaal onderwijs als bedoeld in de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) wordt verzorgd en het bevoegd gezag van een instelling.   
+2.  Een samenwerkingsovereenkomst als bedoeld in het eerste lid, voldoet aan [artikel 10b7 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
+
+### Artikel  8.5.2  
+
+####Samenwerkingsovereenkomst assistentopleiding in het VSO
+
+1.  De assistentopleiding, ingevolge [artikel 14a, tweede lid, van de Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md), dan wel ingevolge [artikel 59a, tweede lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), wordt verzorgd op grondslag van een samenwerkingsovereenkomst tussen het bevoegd gezag van een instelling en het bevoegd gezag van een school waar voortgezet speciaal onderwijs als bedoeld in de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) wordt verzorgd.   
+2.  Een samenwerkingsovereenkomst als bedoeld in het eerste lid, voldoet aan [artikel 10b9, eerste en tweede lid, van de Wet op de voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
 
 ### Hoofdstuk  8a  
 

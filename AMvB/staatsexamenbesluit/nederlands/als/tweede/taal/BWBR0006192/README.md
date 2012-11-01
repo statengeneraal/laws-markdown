@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Onderwijs en Wetenschappen van 25 mei 1993, nr. 93030035/3245, directie Wetgeving en Juridische Zaken;
 
-Gelet op [artikel 60, tweede lid, van de Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);
+Gelet op artikel 60, tweede lid, van de Wet op het voortgezet onderwijs;
 
 Gezien het advies van de Onderwijsraad (advies van 11 januari 1993, nr. OR 92000270/S);
 
@@ -22,14 +22,14 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsbepalingen
 
-In dit besluit wordt verstaan onder: "Onze Minister": Onze Minister van Onderwijs, Cultuur en Wetenschap, "wet": de [Wet op het voortgezet onderwijs](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), "inspectie": de inspectie, bedoeld in [artikel 113 van de wet](../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), "examen": het staatsexamen Nederlands als tweede taal, "examenjaar": het tijdvak dat aanvangt op 1 januari van een jaar en eindigt op 31 december van dat jaar, "examenonderdeel": een onderdeel van het examen als bedoeld in artikel 4, derde lid, "examenprogramma": het examenprogramma, bedoeld in artikel 8, "examenreglement": het examenreglement, bedoeld in artikel 10, tweede lid, "College voor examens": College voor examens, genoemd in [artikel 2, eerste lid, van de Wet College voor examens](../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md), "examenleider": degene die door het College voor examens is belast met de leiding bij het afnemen van het examen, "diploma": het diploma Nederlands als tweede taal, "certificaat": een certificaat als bedoeld in artikel 16, tweede lid, "kandidaat": degene die aan een of meer examenonderdelen deelneemt.  
+In dit besluit wordt verstaan onder: "Onze Minister": Onze Minister van Onderwijs, Cultuur en Wetenschap, "wet": de Wet op het voortgezet onderwijs, "inspectie": de inspectie, bedoeld in artikel 113 van de wet, "examen": het staatsexamen Nederlands als tweede taal, "examenjaar": het tijdvak dat aanvangt op 1 januari van een jaar en eindigt op 31 december van dat jaar, "examenonderdeel": een onderdeel van het examen als bedoeld in artikel 4, derde lid, "examenprogramma": het examenprogramma, bedoeld in artikel 8, "examenreglement": het examenreglement, bedoeld in artikel 10, tweede lid, "College voor examens": College voor examens, genoemd in artikel 2, eerste lid, van de Wet College voor examens, "examenleider": degene die door het College voor examens is belast met de leiding bij het afnemen van het examen, "diploma": het diploma Nederlands als tweede taal, "certificaat": een certificaat als bedoeld in artikel 16, tweede lid, "kandidaat": degene die aan een of meer examenonderdelen deelneemt.  
 
 ### Artikel  2  
 
 ####Doelstellingen; programma's
 
 1.  Dit besluit regelt het staatsexamen Nederlands als tweede taal. Het examen kent twee programma's: programma I en programma II.   
-2.  Programma I omvat een onderzoek naar de beheersing van de Nederlandse taal met het oog op het volgen van opleidingen of de uitoefening van functies op het niveau van een vakopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) door hen voor wie het Nederlands niet de moedertaal is en die ten minste het niveau van het primair onderwijs hebben bereikt.   
+2.  Programma I omvat een onderzoek naar de beheersing van de Nederlandse taal met het oog op het volgen van opleidingen of de uitoefening van functies op het niveau van een vakopleiding als bedoeld in artikel 7.2.2, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs door hen voor wie het Nederlands niet de moedertaal is en die ten minste het niveau van het primair onderwijs hebben bereikt.   
 3.  Programma II omvat een onderzoek naar de beheersing van de Nederlandse taal met het oog op het volgen van opleidingen in het hoger onderwijs en de uitoefening van hogere functies door hen voor wie het Nederlands niet de moedertaal is en die wat betreft vooropleiding of werkervaring functioneren op ten minste het niveau van het middenkader.   
 
 ### Artikel  4  
@@ -45,7 +45,7 @@ In dit besluit wordt verstaan onder: "Onze Minister": Onze Minister van Onderwij
 
 ####Examengeld
 
-1.  Voor deelneming aan een volledig examen van programma I of II is een bedrag verschuldigd van € 90. Voor deelneming aan een examenonderdeel van programma I of II is per onderdeel een bedrag verschuldigd van € 22,50.   
+1.  Voor deelneming aan een volledig examen van programma I of II is een bedrag verschuldigd van € 180. Voor deelneming aan een examenonderdeel van programma I of II is per onderdeel een bedrag verschuldigd van € 45.   
 2.  De in het eerste lid bedoelde bedragen kunnen bij regeling van Onze Minister worden gewijzigd voor zover de consumentenprijsindex daartoe aanleiding geeft.   
 
 ### Artikel  6  
@@ -163,7 +163,7 @@ De kandidaat is geslaagd voor een examen indien voor alle examenonderdelen van e
 
 1.  Het College voor examens bewaart het examenwerk gedurende zes maanden na afloop van het examen ter kennisneming voor de kandidaat.   
 2.  Na afloop van de zes maanden kan het werk worden vernietigd.   
-3.  Het College voor examens verstrekt de examenresultaten van de inburgeringsplichtige, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wet inburgering](../../../../../../../wet/wet/inburgering/BWBR0020611/README.md), en de inburgeraar, bedoeld in [artikel 1, eerste lid, onderdeel r, van het Besluit brede doeluitkering sociaal, integratie en veiligheid](../../../../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md) of [artikel 1, onderdeel h, van de Regeling vrijwillige inburgering niet-G31 2007](../../../../../../../ministeriele-regeling/regeling/vrijwillige/inburgering/niet-g31/2007/BWBR0020646/README.md), aan de Informatie Beheer Groep ten behoeve van opname in het Informatiesysteem Inburgering, bedoeld in [artikel 47 van de Wet inburgering](../../../../../../../wet/wet/inburgering/BWBR0020611/README.md).   
+3.  Het College voor examens verstrekt de examenresultaten van de inburgeringsplichtige, bedoeld in artikel 1, eerste lid, onderdeel b, van de Wet inburgering, en de inburgeraar, bedoeld in artikel 1, eerste lid, onderdeel r, van het Besluit brede doeluitkering sociaal, integratie en veiligheid of artikel 1, onderdeel h, van de Regeling vrijwillige inburgering niet-G31 2007, aan de Informatie Beheer Groep ten behoeve van opname in het Informatiesysteem Inburgering, bedoeld in artikel 47 van de Wet inburgering.   
 4.  Het College voor examens kan, met goedvinden van de kandidaat, de examenresultaten aan derden bekend maken.   
 
 ### Artikel  18  

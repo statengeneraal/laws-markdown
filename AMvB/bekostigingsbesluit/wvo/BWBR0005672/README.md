@@ -186,21 +186,21 @@ b. als leerling van de school waaraan dat onderwijs is verbonden, in andere geva
 | Slechthorend en zeer moeilijk lerend  | € 1.564,73  | € 3.158,46  | € 3.337,35  | € 274  |
 | Lichamelijk gehandicapt en zeer moeilijk lerend  | € 1.564,73  | € 3.158,46  | € 2.883,47  | € 236  |
 
-Per 1 augustus 2011:   
+Per 1 augustus 2012:   
 
 | Toelaatbaar verklaard tot (voortgezet) speciaal onderwijs aan/van:  | Bedrag LWOO/PRO exclusief her te besteden bedragen  | Bedrag overig VO exclusief her te besteden bedragen  | Her te besteden bedrag personele bekostiging  | Her te besteden bedrag materiële bekostiging  |
 |:---|:---|:---|:---|:---|
-| a. dove kinderen  | € 2.469,08  | € 3.203,94  | € 5.234,18  | € 580  |
-| b. slechthorende kinderen  | € 1.587,26  | € 3.203,94  | € 3.385,41  | € 224  |
-| c. lichamelijk gehandicapte kinderen  | € 1.616,66  | € 3.203,94  | € 4.519,88  | € 421  |
-| d. langdurig zieke kinderen met een lichamelijke handicap  | € 1.587,26  | € 3.203,94  | € 2.923,22  | € 246  |
-| e. zeer moeilijk lerende kinderen  | € 1.587,26  | € 3.203,94  | € 2.923,22  | € 134  |
-| f. cluster 4  | € 1.587,26  | € 3.203,94  | € 2.923,22  | € 246  |
+| a. dove kinderen  | € 2.477,42  | € 3.214,76  | € 5.286,36  | € 580  |
+| b. slechthorende kinderen  | € 1.592,62  | € 3.214,76  | € 3.419,16  | € 224  |
+| c. lichamelijk gehandicapte kinderen  | € 1.622,12  | € 3.214,76  | € 4.564,94  | € 421  |
+| d. langdurig zieke kinderen met een lichamelijke handicap  | € 1.592,62  | € 3.214,76  | € 2.952,36  | € 246  |
+| e. zeer moeilijk lerende kinderen  | € 1.592,62  | € 3.214,76  | € 2.952,36  | € 134  |
+| f. cluster 4  | € 1.592,62  | € 3.214,76  | € 2.952,36  | € 246  |
 | g. meervoudig gehandicapte kinderen met de combinatie:  |
-| Doof en zeer moeilijk lerend  | € 1.587,26  | € 3.203,94  | € 3.385,41  | € 285  |
-| Doof en blind  | € 1.587,26  | € 3.203,94  | € 3.385,41  | € 285  |
-| Slechthorend en zeer moeilijk lerend  | € 1.587,26  | € 3.203,94  | € 3.385,41  | € 285  |
-| Lichamelijk gehandicapt en zeer moeilijk lerend  | € 1.587,26  | € 3.203,94  | € 2.923,22  | € 246  |
+| Doof en zeer moeilijk lerend  | € 1.592,62  | € 3.214,76  | € 3.419,16  | € 285  |
+| Doof en blind  | € 1.592,62  | € 3.214,76  | € 3.419,16  | € 285  |
+| Slechthorend en zeer moeilijk lerend  | € 1.592,62  | € 3.214,76  | € 3.419,16  | € 285  |
+| Lichamelijk gehandicapt en zeer moeilijk lerend  | € 1.592,62  | € 3.214,76  | € 2.952,36  | € 246  |
 
 2.  De bedragen, bedoeld in het eerste lid, worden jaarlijks per 1 augustus, telkens te rekenen met het laatstelijk aangepaste bedrag, bij ministeriële regeling aangepast aan de ontwikkeling van de gemiddelde personeelslasten in het speciaal onderwijs en het voortgezet speciaal onderwijs in het voorafgaande kalenderjaar.   
 

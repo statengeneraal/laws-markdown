@@ -155,7 +155,7 @@ c. een schriftelijke verklaring van de ouders of de leerling die meerderjarig en
 
 ####Bewaren van gegevens
 
-1.  Onverminderd het bepaalde in [artikel 41, negende lid, van de wet](../../../../wet/isovso/BWBR0003549/README.md), blijven de gegevens die in de leerlingenadministratie zijn opgenomen daarvan in ieder geval deel uitmaken gedurende 5 jaar nadat de desbetreffende leerling van de school is uitgeschreven.   
+1.  Onverminderd het bepaalde in artikel [artikel 41, negende lid, van de wet](../../../../wet/isovso/BWBR0003549/README.md), blijven de gegevens die in de leerlingenadministratie zijn opgenomen daarvan in ieder geval deel uitmaken gedurende 5 jaar nadat de desbetreffende leerling van de school is uitgeschreven.   
 2.  Het gemeenschappelijk rapport, bedoeld in [artikel 41, zesde lid, van de wet](../../../../wet/isovso/BWBR0003549/README.md) alsmede de gegevens die van belang zijn voor de berekening van de bekostiging voor personeelskosten worden in elk geval binnen acht weken na het verstrijken van de termijn, bedoeld in het eerste lid, vernietigd.   
 
 ### Artikel  9  
@@ -480,7 +480,7 @@ Voor de berekening van het bedrag per leerling, bedoeld in [artikel 117, elfde l
 1.  Voor de aanvullende bekostiging voor de schoolleiding, bedoeld in [artikel 117, derde lid, van de wet](../../../../wet/isovso/BWBR0003549/README.md) van scholen, niet zijnde instellingen, wordt een bedrag toegekend.   
 2.  Het bedrag, bedoeld in het eerste lid, is de uitkomst van de volgens de onderstaande tabel op de school van toepassing zijnde factor, vermenigvuldigd met een bij ministeriële regeling vast te stellen bedrag.  
 
-| Andere onderwijssoorten dan de hiernaast genoemde  | Onderwijssoort meervoudig gehandicapte kinderen met de combinatie a+j, b+j, f+j of a+blind  |
+| Andere onderwijssoorten dan de hiernaast genoemde  | Onderwijssoort meervoudig gehandicapte kinderen met de combinatie a+j, b+j f+j of a+blind  |
 |:---|:---|
 | Aantal leerlingen  | so of vso  | sovso  | so of vso  | sovso  |
 | 1 t/m 49  | 1  | 1  | 2  | 2  |
@@ -562,7 +562,7 @@ b. de bekostiging, bedoeld in onderdeel a, berekend op basis van het aantal leer
 2.  Voor de toepassing van het eerste lid geldt het aantal leerlingen op de teldatum dat in het direct daaraan voorafgaande schooljaar was toegelaten tot de school, niet zijnde een instelling, en dat zonder dat voor hen nog een leerlinggebonden budget beschikbaar is, leerling is van een school als bedoeld in de [Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md) of de [Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) dan wel deelnemer is van een opleiding als bedoeld in [artikel 7.2.2., eerste lid onder a en b, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
 3.  Voor de berekening van het basisbedrag, bedoeld in het eerste lid, en het leeftijdsbedrag, bedoeld in het eerste lid, wordt de formatie bepaald op de hoeveelheid formatie als aangegeven in onderstaande tabel:  
 
-| Onderwijssoort  | Terugplaatsing naar basis-onderwijs, aantal formatie-plaatsen  | Terugplaatsing naar voortgezet onderwijs of opleiding als bedoeld in art. 7.2.2., eerste lid onder a en b van de WEB, aantal formatieplaatsen  |
+| Onderwijssoort  | Terugplaatsing naar basisonderwijs, aantal formatieplaatsen  | Terugplaatsing naar voortgezet onderwijs of opleiding als bedoeld in art. 7.2.2., eerste lid onder a en b van de WEB, aantal formatieplaatsen  |
 |:---|:---|:---|
 | a. dove kinderen  | 0,1892  | 0,0872  |
 | b. slechthorende kinderen  | 0,0851  | 0,0570  |
@@ -647,7 +647,7 @@ c. voor zover het een niet door een gemeente in stand gehouden school betreft, d
 
 ####Vergoeding regionaal expertisecentrum
 
-1.  De vergoeding voor een regionaal expertisecentrum bedraagt € 27 200 per 6 april 2012: € 31.964, vermeerderd met € 9 100 per 6 april 2012: € 10.694 voor elke aan het regionaal expertisecentrum deelnemende school en vermeerderd met € 155 per 6 april 2012: € 182 voor elke leerling die in de periode van 12 maanden direct voorafgaand aan 1 oktober van het voorafgaande schooljaar een bevestigende beoordeling van de commissie, bedoeld in [artikel 28c, eerste lid, van de wet](../../../../wet/isovso/BWBR0003549/README.md), heeft ontvangen, welk aantal leerlingen wordt verhoogd met 15%.   
+1.  De vergoeding voor een regionaal expertisecentrum bedraagt € 27 200 per 1 november 2012: € 32.282, vermeerderd met € 9 100 per 1 november 2012: € 10.800 voor elke aan het regionaal expertisecentrum deelnemende school en vermeerderd met € 155 per 1 november 2012: € 183 voor elke leerling die in de periode van 12 maanden direct voorafgaand aan 1 oktober van het voorafgaande schooljaar een bevestigende beoordeling van de commissie, bedoeld in [artikel 28c, eerste lid, van de wet](../../../../wet/isovso/BWBR0003549/README.md), heeft ontvangen, welk aantal leerlingen wordt verhoogd met 15%.   
 2.  Het Rijk verstrekt elke maand van het schooljaar een twaalfde gedeelte van de vergoeding, bedoeld in het eerste lid.   
 3.  De bedragen, bedoeld in het eerste lid, worden jaarlijks per 1 augustus, telkens te rekenen met het laatstelijk aangepaste bedrag, bij ministeriële regeling aangepast en wel voor 90% van het bedrag aan de ontwikkeling van de gemiddelde personeelslasten in het speciaal onderwijs en het voortgezet speciaal onderwijs in het voorafgaande kalenderjaar en voor 10% van het bedrag aan de prijsontwikkeling, overeenkomstig de prijsmutatie van de netto materiële consumptie, zoals opgenomen in de Macro Economische Verkenning, die naar verwachting zal optreden tussen het prijsniveau in het jaar voorafgaande aan het jaar waarin het bedrag wordt aangepast, en het jaar waarin het bedrag wordt aangepast.   
 
@@ -673,10 +673,10 @@ Met besluiten als bedoeld in artikel 23, tweede lid, worden Onze besluiten inzak
 ####Overgangsartikel met betrekking tot artikel 42
 
 1.     Voor zover het betreft de gegevens ten behoeve van de afrekeningen van de vergoedingen voor de personele kosten over de jaren voor 1987 wordt artikel 42 vervangen door de artikelen 42 en 42a, luidende als volgt:     
-Artikel 42.      
+Artikel 42.  Verstrekken gegevens voor vergoeding door bevoegd gezag aangesloten bij geautomatiseerd systeem    
 1.  Het bevoegd gezag van een school, bedoeld in artikel 33, onderdeel a, verstrekt jaarlijks voor een bij ministeriële regeling te bepalen tijdstip ten behoeve van de vaststelling van de vergoeding, bedoeld in [artikel 101](../../../../wet/isovso/BWBR0003549/README.md) van de wet, zoals luidend op 31 juli 1992, over het voorafgaande jaar aan Onze Minister de gegevens betreffende het personeel.   
 2.  Bij ministeriële regeling wordt voor het verstrekken van de gegevens, bedoeld in het eerste lid, een formulier vastgesteld.      
-Artikel 42a.      
+Artikel 42a.  Verstrekken gegevens voor vergoeding door bevoegd gezag niet aangesloten bij geautomatiseerd systeem    
 1.  Het bevoegd gezag van een school, bedoeld in artikel 33 onderdeel b, verstrekt jaarlijks voor 1 maart ten behoeve van de vaststelling van de vergoeding, bedoeld in [artikel 101](../../../../wet/isovso/BWBR0003549/README.md) van de wet, zoals luidend op 31 juli 1992, over het voorafgaande jaar aan Onze Minister de gegevens betreffende het personeel.   
 2.  Bij ministeriële regeling wordt voor het verstrekken van de gegevens, bedoeld in het eerste lid, een formulier vastgesteld.   
 2.  Tot 1 januari 1989 wordt artikel 42, eerste lid onderdeel c, vervangen door: c. een verklaring van een accountant van de juistheid van de gegevens waarop de vergoedingsbedragen worden gebaseerd.      
