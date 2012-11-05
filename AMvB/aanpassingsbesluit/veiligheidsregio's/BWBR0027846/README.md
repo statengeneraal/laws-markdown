@@ -14,88 +14,109 @@ Gezien het nader rapport van de Staatssecretaris van Binnenlandse Zaken en Konin
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 01-10-2012 
 
-Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie.   
+Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 01-10-2012 
 
-Wijzigt het Arbeidsomstandighedenbesluit.   
+Wijzigt het Arbeidsomstandighedenbesluit. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 01-10-2012 
 
-Wijzigt het Arbeidstijdenbesluit.   
+Wijzigt het Arbeidstijdenbesluit. 
 
 ### Artikel  IV  
+Materieel uitgewerkt per 01-10-2012 
 
-Wijzigt het Besluit algemene regels voor inrichtingen milieubeheer.   
+Wijzigt het Besluit algemene regels voor inrichtingen milieubeheer. 
 
 ### Artikel  V  
+Materieel uitgewerkt per 01-10-2012 
 
-Wijzigt het Besluit BIBOB.   
+Wijzigt het Besluit BIBOB. 
 
 ### Artikel  VI  
+Materieel uitgewerkt per 01-10-2012 
 
-Wijzigt het Besluit draagbare blustoestellen 1997.   
+Wijzigt het Besluit draagbare blustoestellen 1997. 
 
 ### Artikel  VII  
+Materieel uitgewerkt per 01-10-2012 
 
-Wijzigt het Besluit externe veiligheid inrichtingen.   
+Wijzigt het Besluit externe veiligheid inrichtingen. 
 
 ### Artikel  VIII  
+Materieel uitgewerkt per 01-10-2012 
 
-Wijzigt het Besluit genetisch gemodificeerde organismen milieubeheer.   
+Wijzigt het Besluit genetisch gemodificeerde organismen milieubeheer. 
 
 ### Artikel  IX  
+Materieel uitgewerkt per 01-10-2012 
 
-Wijzigt het Besluit informatie inzake rampen en zware ongevallen.   
+Wijzigt het Besluit informatie inzake rampen en zware ongevallen. 
 
 ### Artikel  X  
+Materieel uitgewerkt per 01-10-2012 
 
-Wijzigt het Besluit Nederlands bureau brandweerexamens.   
+Wijzigt het Besluit Nederlands bureau brandweerexamens. 
 
 ### Artikel  XI  
+Materieel uitgewerkt per 01-10-2012 
 
-Wijzigt het Besluit Nederlands instituut voor brandweer en rampenbestrijding.   
+Wijzigt het Besluit Nederlands instituut voor brandweer en rampenbestrijding. 
 
 ### Artikel  XII  
+Materieel uitgewerkt per 01-10-2012 
 
-Wijzigt het Besluit publieke gezondheid.   
+Wijzigt het Besluit publieke gezondheid. 
 
 ### Artikel  XIII  
+Materieel uitgewerkt per 01-10-2012 
 
-Wijzigt het Besluit risico’s zware ongevallen 1999.   
+Wijzigt het Besluit risico’s zware ongevallen 1999. 
 
 ### Artikel  XIV  
+Materieel uitgewerkt per 01-10-2012 
 
-Wijzigt het Besluit tegemoetkoming schade bij rampen en zware ongevallen.   
+Wijzigt het Besluit tegemoetkoming schade bij rampen en zware ongevallen. 
 
 ### Artikel  XV  
+Materieel uitgewerkt per 01-10-2012 
 
-Wijzigt het Besluit rijksbijdragen bijstands- en bestrijdingskosten.   
+Wijzigt het Besluit rijksbijdragen bijstands- en bestrijdingskosten. 
 
 ### Artikel  XVI  
+Materieel uitgewerkt per 01-10-2012 
 
-Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer.   
+Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer. 
 
 ### Artikel  XVII  
+Materieel uitgewerkt per 01-10-2012 
 
-Wijzigt het Reglement verkeersregels en verkeerstekens 1990 (RVV 1990).   
+Wijzigt het Reglement verkeersregels en verkeerstekens 1990 (RVV 1990). 
 
 ### Artikel  XVIII  
+Materieel uitgewerkt per 01-10-2012 
 
-Wijzigt het Warenwetbesluit drukapparatuur.   
+Wijzigt het Warenwetbesluit drukapparatuur. 
 
 ### Artikel  XIX  
+Materieel uitgewerkt per 01-10-2012 
 
-Wijzigt het Besluit omgevingsrecht.   
+Wijzigt het Besluit omgevingsrecht. 
 
 ### Artikel  XX  
+Materieel uitgewerkt per 01-10-2012 
 
-Dit besluit treedt in werking op het tijdstip waarop de [Wet veiligheidsregio’s](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip waarop de [Wet veiligheidsregio’s](../../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md) in werking treedt. 
 
 ### Artikel  XXI  
+Materieel uitgewerkt per 01-10-2012 
 
-Dit besluit wordt aangehaald als: Aanpassingsbesluit veiligheidsregio’s.  
+Dit besluit wordt aangehaald als: Aanpassingsbesluit veiligheidsregio’s. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

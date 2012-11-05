@@ -26,11 +26,11 @@ a. zorg als bedoeld in [artikel 2, eerste lid, onderdeel a tot en met l, van het
 
 b. zorg als bedoeld in [artikel 10 van de Zorgverzekeringswet](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
 
-c. zorg als bedoeld in [artikel 1, onderdeel h, van de Wet maatschappelijke ondersteuning](../../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).     
+c. zorg als bedoeld in [artikel 1, onderdeel h, van de Wet maatschappelijke ondersteuning](../../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).    
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van 1 januari 2008 en vervalt 1 januari 2013.  
+Dit besluit treedt in werking met ingang van 1 januari 2008 en vervalt met ingang van 1 januari 2018. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

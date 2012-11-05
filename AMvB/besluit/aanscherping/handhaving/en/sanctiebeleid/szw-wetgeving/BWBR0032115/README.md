@@ -18,15 +18,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit bijstandverlening zelfstandigen 2004.   
+Wijzigt het Besluit bijstandverlening zelfstandigen 2004. 
 
 ### Artikel  II  
 
-Wijzigt het Besluit WWB 2007.   
+Wijzigt het Besluit WWB 2007. 
 
 ### Artikel  III  
 
-Wijzigt het Boetebesluit socialezekerheidswetten.   
+Wijzigt het Boetebesluit socialezekerheidswetten. 
 
 ### Hoofdstuk  II  
 
@@ -34,27 +34,27 @@ Wijzigt het Boetebesluit socialezekerheidswetten.
 
 ### Artikel  IV  
 
-Wijzigt het Arbeidsomstandighedenbesluit.   
+Wijzigt het Arbeidsomstandighedenbesluit. 
 
 ### Artikel  V  
 
-Wijzigt het Arbeidstijdenbesluit.   
+Wijzigt het Arbeidstijdenbesluit. 
 
 ### Artikel  VI  
 
-Wijzigt het Besluit aanwijzing aantal arbeidsverhoudingen die als dienstbetrekking ex artikel 2 Wet minimumloon en minimumvakantiebijslag worden beschouwd.   
+Wijzigt het Besluit aanwijzing aantal arbeidsverhoudingen die als dienstbetrekking ex artikel 2 Wet minimumloon en minimumvakantiebijslag worden beschouwd. 
 
 ### Artikel  VII  
 
-Wijzigt het Besluit risico’s zware ongevallen 1999.   
+Wijzigt het Besluit risico’s zware ongevallen 1999. 
 
 ### Artikel  VIII  
 
-Wijzigt het Besluit uitvoering Wet arbeid vreemdelingen.   
+Wijzigt het Besluit uitvoering Wet arbeid vreemdelingen. 
 
 ### Artikel  IX  
 
-Wijzigt het Besluit arbeidsbemiddeling.   
+Wijzigt het Besluit arbeidsbemiddeling. 
 
 ### Hoofdstuk  III  
 
@@ -65,13 +65,13 @@ Wijzigt het Besluit arbeidsbemiddeling.
 ####Inwerkingtreding
 
 1.  De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.   
-2.  In afwijking van het eerste lid treedt artikel III, onderdelen D, E en F met betrekking tot artikel 6a, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en werkt het terug tot en met 1 januari 2011.   
+2.  In afwijking van het eerste lid treedt artikel III, onderdelen D, E en F met betrekking tot artikel 6a, in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin dit besluit wordt geplaatst en werkt het terug tot en met 1 januari 2011.  
 
 ### Artikel  XI  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit aanscherping handhaving en sanctiebeleid SZW-wetgeving.  
+Dit besluit wordt aangehaald als: Besluit aanscherping handhaving en sanctiebeleid SZW-wetgeving. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -79,10 +79,10 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 13 oktober 2012  
 Beatrix  
 
-De Staatssecretaris van Sociale Zaken en Werkgelegenheid, 
+De Staatssecretaris van Sociale Zaken en Werkgelegenheid,  
 P. de Krom   
 
 de *negentiende* oktober 2012 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

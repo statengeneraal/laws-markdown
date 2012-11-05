@@ -4,17 +4,17 @@
 
 ####Articles of Agreement of the International Development Association
 
-The Governments on whose behalf this Agreement is signed, Considering: That mutual cooperation for constructive economic purposes, healthy development of the world economy and balanced growth of international trade foster international relationships conducive to the maintenance of peace and world prosperity; That an acceleration of economic development which will promote higher standards of living and economic and social progress in the less-developed countries is desirable not only in the interests of those countries but also in the interests of the international community as a whole; That achievement of these objectives would be facilitated by an increase in the international flow of capital, public and private, to assist in the development of the resources of the less-developed countries,   do hereby agree as follows:    
+The Governments on whose behalf this Agreement is signed,Considering:That mutual cooperation for constructive economic purposes, healthy development of the world economy and balanced growth of international trade foster international relationships conducive to the maintenance of peace and world prosperity;That an acceleration of economic development which will promote higher standards of living and economic and social progress in the less-developed countries is desirable not only in the interests of those countries but also in the interests of the international community as a whole;That achievement of these objectives would be facilitated by an increase in the international flow of capital, public and private, to assist in the development of the resources of the less-developed countries, do hereby agree as follows:  
 
 ####Introductory Article
 
-The International Development Association (hereinafter called “the Association”) is established and shall operate in accordance with the following provisions:  
+The International Development Association (hereinafter called “the Association”) is established and shall operate in accordance with the following provisions:
 
 ### Article  I  
 
 ####Purposes
 
-The purposes of the Association are to promote economic development, increase productivity and thus raise standards of living in the less-developed areas of the world included within the Association's membership, in particular by providing finance to meet their important developmental requirements on terms which are more flexible and bear less heavily on the balance of payments than those of conventional loans, thereby furthering the developmental objectives of the International Bank for Reconstruction and Development (hereinafter called “the Bank”) and supplementing its activities. The Association shall be guided in all decisions by the provisions of this Article.  
+The purposes of the Association are to promote economic development, increase productivity and thus raise standards of living in the less-developed areas of the world included within the Association's membership, in particular by providing finance to meet their important developmental requirements on terms which are more flexible and bear less heavily on the balance of payments than those of conventional loans, thereby furthering the developmental objectives of the International Bank for Reconstruction and Development (hereinafter called “the Bank”) and supplementing its activities. The Association shall be guided in all decisions by the provisions of this Article. 
 
 ### Article  II  
 
@@ -24,9 +24,9 @@ The purposes of the Association are to promote economic development, increase pr
 
 ### *Membership* 
 
-(a) The original members of the Association shall be those members of the Bank listed in Schedule A hereto which, on or before the date specified in Article XI, Section 2 (c), accept membership in the Association.  
+(a)The original members of the Association shall be those members of the Bank listed in Schedule A hereto which, on or before the date specified in Article XI, Section 2 (c), accept membership in the Association.
 
-(b) Membership shall be open to other members of the Bank at such times and in accordance with such terms as the Association may determine.   
+(b) Membership shall be open to other members of the Bank at such times and in accordance with such terms as the Association may determine. 
 ###Section 2
 
 ### *Initial Subscriptions* 
@@ -37,7 +37,7 @@ The purposes of the Association are to promote economic development, increase pr
 
 (c) Ten percent of the initial subscription of each original member shall be payable in gold or freely convertible currency as follows: fifty percent within thirty days after the date on which the Association shall begin operations pursuant to Article XI, Section 4, or on the date on which the original member becomes a member, whichever shall be later; twelve and one-half percent one year after the beginning of operations of the Association; and twelve and one-half percent each year thereafter at annual intervals until the ten percent portion of the initial subscription shall have been paid in full.  
 
-(d) The remaining ninety percent of the initial subscription of each original member shall be payable in gold or freely convertible currency in the case of members listed in Part I of Schedule A, and in the currency of the subscribing member in the case of members listed in Part II of Schedule A. This ninety percent portion of initial subscriptions of original members shall be payable in five equal annual instalments as follows: the first such instalment within thirty days after the date on which the Association shall begin operations pursuant to Article XI, Section 4, or on the date on which the original member becomes a member, whichever shall be later; the second instalment one year after the beginning of operations of the Association, and succeeding instalments each year thereafter at annual intervals until the ninety percent portion of the initial subscription shall have been paid in full.  
+(d)The remaining ninety percent of the initial subscription of each original member shall be payable in gold or freely convertible currency in the case of members listed in Part I of Schedule A, and in the currency of the subscribing member in the case of members listed in Part II of Schedule A. This ninety percent portion of initial subscriptions of original members shall be payable in five equal annual instalments as follows: the first such instalment within thirty days after the date on which the Association shall begin operations pursuant to Article XI, Section 4, or on the date on which the original member becomes a member, whichever shall be later; the second instalment one year after the beginning of operations of the Association, and succeeding instalments each year thereafter at annual intervals until the ninety percent portion of the initial subscription shall have been paid in full.
 
 (e) The Association shall accept from any member, in place of any part of the member's currency paid in or payable by the member under the preceding subsection (d) or under Section 2 of Article IV and not needed by the Association in its operations, notes or similar obligations issued by the government of the member or the depository designated by such member, which shall be non-negotiable, non-interest-bearing and payable at their par value on demand to the account of the Association in the designated depository.  
 
@@ -54,7 +54,7 @@ The purposes of the Association are to promote economic development, increase pr
 
 ### *Limitation on Liability* 
 
-No member shall be liable, by reason of its membership, for obligations of the Association.  
+No member shall be liable, by reason of its membership, for obligations of the Association. 
 
 ### Article  III  
 
@@ -73,13 +73,13 @@ No member shall be liable, by reason of its membership, for obligations of the A
 (d) All decisions under this Section shall be made by a two-thirds majority of the total voting power.   
 ###Section 2
 
-### *Supplementary Resources Provided by a Member in the Currency of Another Member* 
+###*Supplementary Resources Provided by a Member in the Currency of Another Member* 
 
-(a) The Association may enter into arrangements, on such terms and conditions consistent with the provisions of this Agreement as may be agreed upon, to receive from any member, in addition to the amounts payable by such member on account of its initial or any additional subscription, supplementary resources in the currency of another member, provided that the Association shall not enter into any such arrangement unless the Association is satisfied that the member whose currency is involved agrees to the use of such currency as supplementary resources and to the terms and conditions governing such use. The arrangements under which any such resources are received may include provisions regarding the disposition of earnings on the resources and regarding the disposition of the resources in the event that the member providing them ceases to be a member or the Association permanently suspends its operations.  
+(a)The Association may enter into arrangements, on such terms and conditions consistent with the provisions of this Agreement as may be agreed upon, to receive from any member, in addition to the amounts payable by such member on account of its initial or any additional subscription, supplementary resources in the currency of another member, provided that the Association shall not enter into any such arrangement unless the Association is satisfied that the member whose currency is involved agrees to the use of such currency as supplementary resources and to the terms and conditions governing such use. The arrangements under which any such resources are received may include provisions regarding the disposition of earnings on the resources and regarding the disposition of the resources in the event that the member providing them ceases to be a member or the Association permanently suspends its operations.
 
-(b) The Association shall deliver to the contributing member a Special Development Certificate setting forth the amount and currency of the resources so contributed and the terms and conditions of the arrangement relating to such resources. A Special Development Certificate shall not carry any voting rights and shall be transferable only to the Association.  
+(b)The Association shall deliver to the contributing member a Special Development Certificate setting forth the amount and currency of the resources so contributed and the terms and conditions of the arrangement relating to such resources. A Special Development Certificate shall not carry any voting rights and shall be transferable only to the Association.
 
-(c) Nothing in this Section shall preclude the Association from accepting resources from a member in its own currency on such terms as may be agreed upon.    
+(c)Nothing in this Section shall preclude the Association from accepting resources from a member in its own currency on such terms as may be agreed upon.
 
 ### Article  IV  
 
@@ -108,7 +108,7 @@ No member shall be liable, by reason of its membership, for obligations of the A
 
 (c) The provisions of the preceding paragraphs may be waived by the Association when a uniform proportionate change in the par value of the currencies of all its members is made by the International Monetary Fund.  
 
-(d) Amounts furnished under the provisions of paragraph (a) of this Section to maintain the value of any currency shall be convertible and usable to the same extent as such currency.    
+(d) Amounts furnished under the provisions of paragraph (a) of this Section to maintain the value of any currency shall be convertible and usable to the same extent as such currency.   
 
 ### Article  V  
 
@@ -116,72 +116,72 @@ No member shall be liable, by reason of its membership, for obligations of the A
 
 ###Section 1
 
-### *Use of Resources and Conditions of Financing* 
+###* Use of Resources and Conditions of Financing* 
 
-(a) The Association shall provide financing to further development in the less-developed areas of the world included within the Association's membership.  
+(a)The Association shall provide financing to further development in the less-developed areas of the world included within the Association's membership.
 
-(b) Financing provided by the Association shall be for purposes which in the opinion of the Association are of high developmental priority in the light of the needs of the area or areas concerned and, except in special circumstances, shall be for specific projects.  
+(b)Financing provided by the Association shall be for purposes which in the opinion of the Association are of high developmental priority in the light of the needs of the area or areas concerned and, except in special circumstances, shall be for specific projects.
 
-(c) The Association shall not provide financing if in its opinion such financing is available from private sources on terms which are reasonable for the recipient or could be provided by a loan of the type made by the Bank.  
+(c)The Association shall not provide financing if in its opinion such financing is available from private sources on terms which are reasonable for the recipient or could be provided by a loan of the type made by the Bank.
 
-(d) The Association shall not provide financing except upon the recommendation of a competent committee, made after a careful study of the merits of the proposal. Each such committee shall be appointed by the Association and shall include a nominee of the Governor or Governors representing the member or members in whose territories the project under consideration is located and one or more members of the technical staff of the Association. The requirement that the committee include the nominee of a Governor or Governors shall not apply in the case of financing provided to a public international or regional organization.  
+(d)The Association shall not provide financing except upon the recommendation of a competent committee, made after a careful study of the merits of the proposal. Each such committee shall be appointed by the Association and shall include a nominee of the Governor or Governors representing the member or members in whose territories the project under consideration is located and one or more members of the technical staff of the Association. The requirement that the committee include the nominee of a Governor or Governors shall not apply in the case of financing provided to a public international or regional organization.
 
-(e) The Association shall not provide financing for any project if the member in whose territories the project is located objects to such financing, except that it shall not be necessary for the Association to assure itself that individual members do not object in the case of financing provided to a public international or regional organization.  
+(e)The Association shall not provide financing for any project if the member in whose territories the project is located objects to such financing, except that it shall not be necessary for the Association to assure itself that individual members do not object in the case of financing provided to a public international or regional organization.
 
-(f) The Association shall impose no conditions that the proceeds of its financing shall be spent in the territories of any particular member or members. The foregoing shall not preclude the Association from complying with any restrictions on the use of funds imposed in accordance with the provisions of these Articles, including restrictions attached to supplementary resources pursuant to agreement between the Association and the contributor.  
+(f)The Association shall impose no conditions that the proceeds of its financing shall be spent in the territories of any particular member or members. The foregoing shall not preclude the Association from complying with any restrictions on the use of funds imposed in accordance with the provisions of these Articles, including restrictions attached to supplementary resources pursuant to agreement between the Association and the contributor.
 
-(g) The Association shall make arrangements to ensure that the proceeds of any financing are used only for the purposes for which the financing was provided, with due attention to considerations of economy, efficiency and competitive international trade and without regard to political or other non-economic influences or considerations.  
+(g)The Association shall make arrangements to ensure that the proceeds of any financing are used only for the purposes for which the financing was provided, with due attention to considerations of economy, efficiency and competitive international trade and without regard to political or other non-economic influences or considerations.
 
-(h) Funds to be provided under any financing operation shall be made available to the recipient only to meet expenses in connection with the project as they are actually incurred.   
+(h)Funds to be provided under any financing operation shall be made available to the recipient only to meet expenses in connection with the project as they are actually incurred.
 ###Section 2
 
-### *Form and Terms of Financing* 
+###*Form and Terms of Financing* 
 
-(a) Financing by the Association shall take the form of loans. The Association may, however, provide other financing, either 
+(a)Financing by the Association shall take the form of loans. The Association may, however, provide other financing, either
 
 (i) out of funds subscribed pursuant to Article III, Section 1, and funds derived therefrom as principal, interest or other charges, if the authorization for such subscriptions expressly provides for such financing; or  
 
-(ii) in special circumstances, out of supplementary resources furnished to the Association, and funds derived therefrom as principal, interest or other charges, if the arrangements under which such resources are furnished expressly authorize such financing.    
+(ii) in special circumstances, out of supplementary resources furnished to the Association, and funds derived therefrom as principal, interest or other charges, if the arrangements under which such resources are furnished expressly authorize such financing.  
 
-(b) Subject to the foregoing paragraph, the Association may provide financing in such forms and on such terms as it may deem appropriate, having regard to the economic position and prospects of the area or areas concerned and to the nature and requirements of the project.  
+(b)Subject to the foregoing paragraph, the Association may provide financing in such forms and on such terms as it may deem appropriate, having regard to the economic position and prospects of the area or areas concerned and to the nature and requirements of the project.
 
-(c) The Association may provide financing to a member, the government of a territory included within the Association's membership, a political subdivision of any of the foregoing, a public or private entity in the territories of a member or members, or to a public international or regional organization.  
+(c)The Association may provide financing to a member, the government of a territory included within the Association's membership, a political subdivision of any of the foregoing, a public or private entity in the territories of a member or members, or to a public international or regional organization.
 
-(d) In the case of a loan to an entity other than a member, the Association may, in its discretion, require a suitable governmental or other guarantee or guarantees.  
+(d)In the case of a loan to an entity other than a member, the Association may, in its discretion, require a suitable governmental or other guarantee or guarantees.
 
-(e) The Association, in special cases, may make foreign exchange available for local expenditures.   
+(e)The Association, in special cases, may make foreign exchange available for local expenditures.
 ###Section 3
 
-### *Modifications of Terms of Financing* 
+###*Modifications of Terms of Financing* 
 
-The Association may, when and to the extent it deems appropriate in the light of all relevant circumstances, including the financial and economic situation and prospects of the member concerned, and on such conditions as it may determine, agree to a relaxation or other modification of the terms on which any of its financing shall have been provided. 
+The Association may, when and to the extent it deems appropriate in the light of all relevant circumstances, including the financial and economic situation and prospects of the member concerned, and on such conditions as it may determine, agree to a relaxation or other modification of the terms on which any of its financing shall have been provided.
 ###Section 4
 
-### *Cooperation with Other International Organizations and Members Providing Development Assistance* 
+###*Cooperation with Other International Organizations and Members Providing Development Assistance* 
 
-The Association shall cooperate with those public international organizations and members which provide financial and technical assistance to the less-developed areas of the world. 
+The Association shall cooperate with those public international organizations and members which provide financial and technical assistance to the less-developed areas of the world.
 ###Section 5
 
-### *Miscellaneous Operations* 
+###*Miscellaneous Operations* 
 
-In addition to the operations specified elsewhere in this Agreement, the Association may: 
+In addition to the operations specified elsewhere in this Agreement, the Association may:
 
-(i) borrow funds with the approval of the member in whose currency the loan is denominated;  
+(i)borrow funds with the approval of the member in whose currency the loan is denominated;
 
-(ii) guarantee securities in which it has invested in order to facilitate their sale;  
+(ii)guarantee securities in which it has invested in order to facilitate their sale;
 
-(iii) buy and sell securities it has issued or guaranteed or in which it has invested;  
+(iii)buy and sell securities it has issued or guaranteed or in which it has invested;
 
-(iv) in special cases, guarantee loans from other sources for purposes not inconsistent with the provisions of these Articles;  
+(iv)in special cases, guarantee loans from other sources for purposes not inconsistent with the provisions of these Articles;
 
-(v) provide technical assistance and advisory services at the request of a member; and  
+(v)provide technical assistance and advisory services at the request of a member; and
 
-(vi) exercise such other powers incidental to its operations as shall be necessary or desirable in furtherance of its purposes.   
+(vi)exercise such other powers incidental to its operations as shall be necessary or desirable in furtherance of its purposes.
 ###Section 6
 
-### *Political Activity Prohibited* 
+###*Political Activity Prohibited* 
 
-The Association and its officers shall not interfere in the political affairs of any member; nor shall they be influenced in their decisions by the political character of the member or members concerned. Only economic considerations shall be relevant to their decisions, and these considerations shall be weighed impartially in order to archieve the purposes stated in this Agreement.  
+The Association and its officers shall not interfere in the political affairs of any member; nor shall they be influenced in their decisions by the political character of the member or members concerned. Only economic considerations shall be relevant to their decisions, and these considerations shall be weighed impartially in order to archieve the purposes stated in this Agreement.
 
 ### Article  VI  
 
@@ -189,124 +189,124 @@ The Association and its officers shall not interfere in the political affairs of
 
 ###Section 1
 
-### *Structure of the Association* 
+###*Structure of the Association* 
 
-The Association shall have a Board of Governors, Executive Directors, a President and such other officers and staff to perform such duties as the Association may determine. 
+The Association shall have a Board of Governors, Executive Directors, a President and such other officers and staff to perform such duties as the Association may determine.
 ###Section 2
 
-### *Board of Governors* 
+###*Board of Governors* 
 
-(a) All the powers of the Association shall be vested in the Board of Governors.  
+(a)All the powers of the Association shall be vested in the Board of Governors.
 
-(b) Each Governor and Alternate Governor of the Bank appointed by a member of the Bank which is also a member of the Association shall *ex officio* be a Governor and Alternate Governor, respectively, of the Association. No Alternate Governor may vote except in the absence of his principal. The Chairman of the Board of Governors of the Bank shall *ex officio* be Chairman of the Board of Governors of the Association except that if the Chairman of the Board of Governors of the Bank shall represent a state which is not a member of the Association, then the Board of Governors shall select one of the Governors as Chairman of the Board of Governors. Any Governor or Alternate Governor shall cease to hold office if the member by which he was appointed shall cease to be a member of the Association.  
+(b)Each Governor and Alternate Governor of the Bank appointed by a member of the Bank which is also a member of the Association shall *ex officio* be a Governor and Alternate Governor, respectively, of the Association. No Alternate Governor may vote except in the absence of his principal. The Chairman of the Board of Governors of the Bank shall *ex officio* be Chairman of the Board of Governors of the Association except that if the Chairman of the Board of Governors of the Bank shall represent a state which is not a member of the Association, then the Board of Governors shall select one of the Governors as Chairman of the Board of Governors. Any Governor or Alternate Governor shall cease to hold office if the member by which he was appointed shall cease to be a member of the Association.
 
-(c) The Board of Governors may delegate to the Executive Directors authority to exercise any of its powers, except the power to: 
+(c)The Board of Governors may delegate to the Executive Directors authority to exercise any of its powers, except the power to:
 
-(i) admit new members and determine the conditions of their admission;  
+(i)admit new members and determine the conditions of their admission;
 
-(ii) authorize additional subscriptions and determine the terms and conditions relating thereto;  
+(ii)authorize additional subscriptions and determine the terms and conditions relating thereto;
 
-(iii) suspend a member;  
+(iii)suspend a member;
 
-(iv) decide appeals from interpretations of this Agreement given by the Executive Directors;  
+(iv)decide appeals from interpretations of this Agreement given by the Executive Directors;
 
-(v) make arrangements pursuant to Section 7 of this Article to cooperate with other international organizations (other than informal arrangements of a temporary and administrative character);  
+(v)make arrangements pursuant to Section 7 of this Article to cooperate with other international organizations (other than informal arrangements of a temporary and administrative character);
 
-(vi) decide to suspend permanently the operations of the Association and to distribute its assets;  
+(vi)decide to suspend permanently the operations of the Association and to distribute its assets;
 
-(vii) determine the distribution of the Association's net income pursuant to Section 12 of this Article; and  
+(vii)determine the distribution of the Association's net income pursuant to Section 12 of this Article; and
 
-(viii) approve proposed amendments to this Agreement.    
+(viii)approve proposed amendments to this Agreement.
 
-(d) The Board of Governors shall hold an annual meeting and such other meetings as may be provided for by the Board of Governors or called by the Executive Directors.  
+(d)The Board of Governors shall hold an annual meeting and such other meetings as may be provided for by the Board of Governors or called by the Executive Directors.
 
-(e) The annual meeting of the Board of Governors shall be held in conjunction with the annual meeting of the Board of Governors of the Bank.  
+(e)The annual meeting of the Board of Governors shall be held in conjunction with the annual meeting of the Board of Governors of the Bank.
 
-(f) A quorum for any meeting of the Board of Governors shall be a majority of the Governors, exercising not less than two-thirds of the total voting power.  
+(f)A quorum for any meeting of the Board of Governors shall be a majority of the Governors, exercising not less than two-thirds of the total voting power.
 
-(g) The Association may by regulation establish a procedure whereby the Executive Directors may obtain a vote of the Governors on a specific question without calling a meeting of the Board of Governors.  
+(g)The Association may by regulation establish a procedure whereby the Executive Directors may obtain a vote of the Governors on a specific question without calling a meeting of the Board of Governors.
 
-(h) The Board of Governors, and the Executive Directors to the extent authorized, may adopt such rules and regulations as may be necessary or appropriate to conduct the business of the Association.  
+(h)The Board of Governors, and the Executive Directors to the extent authorized, may adopt such rules and regulations as may be necessary or appropriate to conduct the business of the Association.
 
-(i) Governors and Alternate Governors shall serve as such without compensation from the Association.   
+(i)Governors and Alternate Governors shall serve as such without compensation from the Association.
 ###Section 3
 
-### *Voting* 
+###*Voting* 
 
-(a) Each original member shall, in respect of its initial subscription, have 500 votes plus one additional vote for each $ 5,000 of its initial subscription. Subscriptions other than initial subscriptions of original members shall carry such voting rights as the Board of Governors shall determine pursuant to the provisions of Article II, Section 1(b) or Article III, Section 1(b) and (c), as the case may be. Additions to resources other than subscriptions under Article II, Section 1(b) and additional subscriptions under Article III, Section 1, shall not carry voting rights.  
+(a) Each original member shall, in respect of its initial subscription, have 500 votes plus one additional vote for each $ 5,000 of its initial subscription. Subscriptions other than initial subscriptions of original members shall carry such voting rights as the Board of Governors shall determine pursuant to the provisions of Article II, Section 1(b) or Article III, Section 1(b) and (c), as the case may be. Additions to resources other than subscriptions under Article II, Section 1(b) and additional subscriptions under Article III, Section 1, shall not carry voting rights.
 
-(b) Except as otherwise specifically provided, all matters before the Association shall be decided by a majority of the votes cast.   
+(b) Except as otherwise specifically provided, all matters before the Association shall be decided by a majority of the votes cast.
 ###Section 4
 
-### *Executive Directors* 
+###*Executive Directors* 
 
-(a) The Executive Directors shall be responsible for the conduct of the general operations of the Association, and for this purpose shall exercise all the powers given to them by this Agreement or delegated to them by the Board of Governors.  
+(a)The Executive Directors shall be responsible for the conduct of the general operations of the Association, and for this purpose shall exercise all the powers given to them by this Agreement or delegated to them by the Board of Governors.
 
-(b) The Executive Directors of the Association shall be composed *ex officio* of each Executive Director of the Bank who shall have been (i) appointed by a member of the Bank which is also a member of the Association, or (ii) elected in an election in which the votes of at least one member of the Bank which is also a member of the Association shall have counted toward his election. The Alternate to each such Executive Director of the Bank shall *ex officio* be an Alternate Director of the Association. Any Director shall cease to hold office if the member by which he was appointed, or if all the members whose votes counted toward his election, shall cease to be members of the Association.  
+(b)The Executive Directors of the Association shall be composed *ex officio* of each Executive Director of the Bank who shall have been (i) appointed by a member of the Bank which is also a member of the Association, or (ii) elected in an election in which the votes of at least one member of the Bank which is also a member of the Association shall have counted toward his election. The Alternate to each such Executive Director of the Bank shall *ex officio* be an Alternate Director of the Association. Any Director shall cease to hold office if the member by which he was appointed, or if all the members whose votes counted toward his election, shall cease to be members of the Association.
 
-(c) Each Director who is an appointed Executive Director of the Bank shall be entitled to cast the number of votes which the member by which he was appointed is entitled to cast in the Association. Each Director who is an elected Executive Director of the Bank shall be entitled to cast the number of votes which the member or members of the Association whose votes counted toward his election in the Bank are entitled to cast in the Association. All the votes which a Director is entitled to cast shall be cast as a unit.  
+(c)Each Director who is an appointed Executive Director of the Bank shall be entitled to cast the number of votes which the member by which he was appointed is entitled to cast in the Association. Each Director who is an elected Executive Director of the Bank shall be entitled to cast the number of votes which the member or members of the Association whose votes counted toward his election in the Bank are entitled to cast in the Association. All the votes which a Director is entitled to cast shall be cast as a unit.
 
-(d) An Alternate Director shall have full power to act in the absence of the Director who shall have appointed him. When a Director is present, his Alternate may participate in meetings but shall not vote.  
+(d)An Alternate Director shall have full power to act in the absence of the Director who shall have appointed him. When a Director is present, his Alternate may participate in meetings but shall not vote.
 
-(e) A quorum for any meeting of the Executive Directors shall be a majority of the Directors exercising not less than one-half of the total voting power.  
+(e)A quorum for any meeting of the Executive Directors shall be a majority of the Directors exercising not less than one-half of the total voting power.
 
-(f) The Executive Directors shall meet as often as the business of the Association may require.  
+(f)The Executive Directors shall meet as often as the business of the Association may require.
 
-(g) The Board of Governors shall adopt regulations under which a member of the Association not entitled to appoint an Executive Director of the Bank may send a representative to attend any meeting of the Executive Directors of the Association when a request made by, or a matter particularly affecting, that member is under consideration.   
+(g)The Board of Governors shall adopt regulations under which a member of the Association not entitled to appoint an Executive Director of the Bank may send a representative to attend any meeting of the Executive Directors of the Association when a request made by, or a matter particularly affecting, that member is under consideration.
 ###Section 5
 
-### *President and Staff* 
+###*President and Staff* 
 
-(a) The President of the Bank shall be *ex officio* President of the Association. The President shall be Chairman of the Executive Directors of the Association but shall have no vote except a deciding vote in case of an equal division. He may participate in meetings of the Board of Governors but shall not vote at such meetings.  
+(a)The President of the Bank shall be *ex officio* President of the Association. The President shall be Chairman of the Executive Directors of the Association but shall have no vote except a deciding vote in case of an equal division. He may participate in meetings of the Board of Governors but shall not vote at such meetings.
 
-(b) The President shall be chief of the operating staff of the Association. Under the direction of the Executive Directors he shall conduct the ordinary business of the Association and under their general control shall be responsible for the organization, appointment and dismissal of the officers and staff. To the extent practicable, officers and staff of the Bank staff be appointed to serve concurrently as officers and staff of the Association.  
+(b)The President shall be chief of the operating staff of the Association. Under the direction of the Executive Directors he shall conduct the ordinary business of the Association and under their general control shall be responsible for the organization, appointment and dismissal of the officers and staff. To the extent practicable, officers and staff of the Bank staff be appointed to serve concurrently as officers and staff of the Association.
 
-(c) The President, officers and staff of the Association, in the discharge of their offices, owe their duty entirely to the Association and to no other authority. Each member of the Association shall respect the international character of this duty and shall refrain from all attempts to influence any of them in the discharge of their duties.  
+(c)The President, officers and staff of the Association, in the discharge of their offices, owe their duty entirely to the Association and to no other authority. Each member of the Association shall respect the international character of this duty and shall refrain from all attempts to influence any of them in the discharge of their duties.
 
-(d) In appointing officers and staff the President shall, subject to the paramount importance of securing the highest standards of efficiency and of technical competence, pay due regard to the importance of recruiting personnel on as wide a geographical basis as possible.   
+(d)In appointing officers and staff the President shall, subject to the paramount importance of securing the highest standards of efficiency and of technical competence, pay due regard to the importance of recruiting personnel on as wide a geographical basis as possible.
 ###Section 6
 
-### *Relationship to the Bank* 
+###*Relationship to the Bank* 
 
-(a) The Association shall be an entity separate and distinct from the Bank and the funds of the Association shall be kept separate and apart from those of the Bank. The Association shall not borrow from or lend to the Bank, except that this shall not preclude the Association from investing funds not needed in its financing operations in obligations of the Bank.  
+(a)The Association shall be an entity separate and distinct from the Bank and the funds of the Association shall be kept separate and apart from those of the Bank. The Association shall not borrow from or lend to the Bank, except that this shall not preclude the Association from investing funds not needed in its financing operations in obligations of the Bank.
 
-(b) The Association miay make arrangements with the Bank regarding facilities, personnel and services and arrangements for reimbursement of administrative expenses paid in the first instance by either organization on behalf of the other.  
+(b)The Association miay make arrangements with the Bank regarding facilities, personnel and services and arrangements for reimbursement of administrative expenses paid in the first instance by either organization on behalf of the other.
 
-(c) Nothing in this Agreement shall make the Association liable for the acts or obligations of the Bank, or the Bank liable for the acts or obligations of the Association.   
+(c)Nothing in this Agreement shall make the Association liable for the acts or obligations of the Bank, or the Bank liable for the acts or obligations of the Association.
 ###Section 7
 
-### *Relations with Other International Organizations* 
+###*Relations with Other International Organizations* 
 
-The Association shall enter into formal arrangements with the United Nations and may enter into such arrangements with other public international organizations having specialized responsibilities in related fields. 
+The Association shall enter into formal arrangements with the United Nations and may enter into such arrangements with other public international organizations having specialized responsibilities in related fields.
 ###Section 8
 
-### *Location of Offices* 
+###*Location of Offices* 
 
-The principal office of the Association shall be the principal office of the Bank. The Association may establish other offices in the territories of any member. 
+The principal office of the Association shall be the principal office of the Bank. The Association may establish other offices in the territories of any member.
 ###Section 9
 
-### *Depositories* 
+###*Depositories* 
 
-Each member shall designate its central bank as a depository in which the Association may keep holdings of such member's currency or other assets of the Association, or, if it has no central bank, it shall designate for such purpose such other institution as may be acceptable to the Association. In the absence of any different designation, the depository designated for the Bank shall be the depository for the Association. 
+Each member shall designate its central bank as a depository in which the Association may keep holdings of such member's currency or other assets of the Association, or, if it has no central bank, it shall designate for such purpose such other institution as may be acceptable to the Association. In the absence of any different designation, the depository designated for the Bank shall be the depository for the Association.
 ###Section 10
 
-### *Channel of Communication* 
+###*Channel of Communication* 
 
-Each member shall designate an appropriate authority with which the Association may communicate in connection with any matter arising under this Agreement. In the absence of any different designation, the channel of communication designated for the Bank shall be the channel for the Association. 
+Each member shall designate an appropriate authority with which the Association may communicate in connection with any matter arising under this Agreement. In the absence of any different designation, the channel of communication designated for the Bank shall be the channel for the Association.
 ###Section 11
 
-### *Publication of Reports and Provision of Information* 
+###*Publication of Reports and Provision of Information* 
 
-(a) The Association shall publish an annual report containing an audited statement of its accounts and shall circulate to members at appropriate intervals a summary statement of its financial position and of the results of its operations.  
+(a)The Association shall publish an annual report containing an audited statement of its accounts and shall circulate to members at appropriate intervals a summary statement of its financial position and of the results of its operations.
 
-(b) The Association may publish such other reports as it deems desirable to carry out its purposes.  
+(b)The Association may publish such other reports as it deems desirable to carry out its purposes.
 
-(c) Copies of all reports, statements and publications made under this Section shall be distributed to members.   
+(c)Copies of all reports, statements and publications made under this Section shall be distributed to members.
 ###Section 12
 
-### *Disposition of Net Income* 
+###*Disposition of Net Income* 
 
-The Board of Governors shall determine from time to time the disposition of the Association's net income, having due regard to provision for reserves and contingencies.  
+The Board of Governors shall determine from time to time the disposition of the Association's net income, having due regard to provision for reserves and contingencies.
 
 ### Article  VII  
 
@@ -362,7 +362,7 @@ Any member which is suspended from membership in, or ceases to be a member of, t
 
 (c) Subject to the foregoing, and to any special arrangements for the disposition of supplementary resources agreed upon in connection with the provision of such resources to the Association, the Association shall distribute its assets to members *pro rata* in proportion to amounts paid in by them on account of their subscriptions. Any distribution pursuant to the foregoing provision of this paragraph (c) shall be subject, in the case of any member, to prior settlement of all outstanding claims by the Association against such member. Such distribution shall be made at such times, in such currencies, and in cash or other assets as the Association shall deem fair and equitable. Distribution to the several members need not be uniform in respect of the type of assets distributed or of the currencies in which they are expressed.  
 
-(d) Any member receiving assets distributed by the Association pursuant to this Section or Section 4 shall enjoy the same rights with respect to such assets as the Association enjoyed prior to their distribution.    
+(d) Any member receiving assets distributed by the Association pursuant to this Section or Section 4 shall enjoy the same rights with respect to such assets as the Association enjoyed prior to their distribution.   
 
 ### Article  VIII  
 
@@ -422,28 +422,28 @@ All Governors, Executive Directors, Alternates, officers and employees of the As
 (iii) shall be granted the same treatment in respect of travelling facilities as is accorded by members to representatives, officials and employees of comparable rank of other members.   
 ###Section 9
 
-### *Immunities from Taxation* 
+###*Immunities from Taxation* 
 
-(a) The Association, its assets, property, income and its operations and transactions authorized by this Agreement, shall be immune from all taxation and from all customs duties. The Association shall also be immune from liability for the collection or payment of any tax or duty.  
+(a)The Association, its assets, property, income and its operations and transactions authorized by this Agreement, shall be immune from all taxation and from all customs duties. The Association shall also be immune from liability for the collection or payment of any tax or duty.
 
-(b) No tax shall be levied on or in respect of salaries and emoluments paid by the Association to Executive Directors, Alternates, officials or employees of the Association who are not local citizens, local subjects, or other local nationals.  
+(b)No tax shall be levied on or in respect of salaries and emoluments paid by the Association to Executive Directors, Alternates, officials or employees of the Association who are not local citizens, local subjects, or other local nationals.
 
-(c) No taxation of any kind shall be levied on any obligation or security issued by the Association (including any dividend or interest thereon) by whomsoever held 
+(c)No taxation of any kind shall be levied on any obligation or security issued by the Association (including any dividend or interest thereon) by whomsoever held
 
 (i) which discriminates against such obligation or security solely because it is issued by the Association; or  
 
-(ii) if the sole jurisdictional basis for such taxation is the place or currency in which it is issued, made payable or paid, or the location of any office or place of business maintained by the Association.    
+(ii) if the sole jurisdictional basis for such taxation is the place or currency in which it is issued, made payable or paid, or the location of any office or place of business maintained by the Association.  
 
-(d) No taxation of any kind shall be levied on any obligation or security guaranteed by the Association (including any dividend or interest thereon) by whomsoever held 
+(d)No taxation of any kind shall be levied on any obligation or security guaranteed by the Association (including any dividend or interest thereon) by whomsoever held
 
 (i) which discriminates against such obligation or security solely because it is guaranteed by the Association; or  
 
-(ii) if the sole jurisdictional basis for such taxation is the location of any office or place of business maintained by the Association.     
+(ii) if the sole jurisdictional basis for such taxation is the location of any office or place of business maintained by the Association.  
 ###Section 10
 
 ### *Application of Article* 
 
-Each member shall take such action as is necessary in its own territories for the purpose of making effective in terms of its own law the principles set forth in this Article and shall inform the Association of the detailed action which it has taken.  
+Each member shall take such action as is necessary in its own territories for the purpose of making effective in terms of its own law the principles set forth in this Article and shall inform the Association of the detailed action which it has taken.
 
 ### Article  IX  
 
@@ -457,7 +457,7 @@ Each member shall take such action as is necessary in its own territories for th
 (ii) the right secured by Article III, Section 1 (c);  
 
 (iii) the limitation on liability provided in Article II, Section 3.     
-(c).  Amendments shall enter into force for all members three months after the date of the formal communication unless a shorter period is specified in the circular letter or telegram.   
+(c).  Amendments shall enter into force for all members three months after the date of the formal communication unless a shorter period is specified in the circular letter or telegram.  
 
 ### Article  X  
 
@@ -465,116 +465,115 @@ Each member shall take such action as is necessary in its own territories for th
 
 (a).  Any question of interpretation of the provisions of this Agreement arising between any member and the Association or between any members of the Association shall be submitted to the Executive Directors for their decision. If the question particularly affects any member of the Association not entitled to appoint an Executive Director of the Bank, it shall be entitled to representation in accordance with Article VI, Section 4 (g).   
 (b).  In any case where the Executive Directors have given a decision under (a) above, any member may require that the question be referred to the Board of Governors, whose decision shall be final. Pending the result of the reference to the Board of Governors, the Association may, so far as it deems necessary, act on the basis of the decision of the Executive Directors.   
-(c).  Whenever a disagreement arises between the Association and a country which has ceased to be a member, or between the Association and any member during the permanent suspension of the Association, such disagreement shall be submitted to arbitration by a tribunal of three arbitrators, one appointed by the Association, another by the country involved and an umpire who, unless the parties otherwise agree, shall be appointed by the President of the International Court of Justice or such other authority as may have been prescribed by regulation adopted by the Association. The umpire shall have full power to settle all questions of procedure in any case where the parties are in disagreement with respect thereto.   
+(c).  Whenever a disagreement arises between the Association and a country which has ceased to be a member, or between the Association and any member during the permanent suspension of the Association, such disagreement shall be submitted to arbitration by a tribunal of three arbitrators, one appointed by the Association, another by the country involved and an umpire who, unless the parties otherwise agree, shall be appointed by the President of the International Court of Justice or such other authority as may have been prescribed by regulation adopted by the Association. The umpire shall have full power to settle all questions of procedure in any case where the parties are in disagreement with respect thereto.  
 
-### Article  XI  
+###Article XI 
 
 ####Final Provisions
 
 ###Section 1
 
-### *Entry into Force* 
+###*Entry into Force* 
 
-This Agreement shall enter into force when it has been signed on behalf of governments whose subscriptions comprise not less than sixty-five percent of the total subscriptions set forth in Schedule A and when the instruments referred to in Section 2 (a) of this Article have been deposited on their behalf, but in no event shall this Agreement enter into force before September 15, 1960. 
+This Agreement shall enter into force when it has been signed on behalf of governments whose subscriptions comprise not less than sixty-five percent of the total subscriptions set forth in Schedule A and when the instruments referred to in Section 2 (a) of this Article have been deposited on their behalf, but in no event shall this Agreement enter into force before September 15, 1960.
 ###Section 2
 
-### *Signature* 
+###*Signature* 
 
-(a) Each government on whose behalf this Agreement is signed shall deposit with the Bank an instrument setting forth that it has accepted this Agreement in accordance with its law and has taken all steps necessary to enable it to carry out all of its obligations under this Agreement.  
+(a)Each government on whose behalf this Agreement is signed shall deposit with the Bank an instrument setting forth that it has accepted this Agreement in accordance with its law and has taken all steps necessary to enable it to carry out all of its obligations under this Agreement.
 
-(b) Each government shall become a member of the Association as from the date of the deposit on its behalf of the instrument referred to in paragraph (a) above except that no government shall become a member before this Agreement enters into force under Section 1 of this Article.  
+(b)Each government shall become a member of the Association as from the date of the deposit on its behalf of the instrument referred to in paragraph (a) above except that no government shall become a member before this Agreement enters into force under Section 1 of this Article.
 
-(c) This Agreement shall remain open for signature until the close of business on December 31, 1960, at the principal office of the Bank, on behalf of the governments of the states whose names are set forth in Schedule A, provided that, if this Agreement shall not have entered into force by that date, the Executive Directors of the Bank may extend the period during which this Agreement shall remain open for signature by not more than six months.  
+(c)This Agreement shall remain open for signature until the close of business on December 31, 1960, at the principal office of the Bank, on behalf of the governments of the states whose names are set forth in Schedule A, provided that, if this Agreement shall not have entered into force by that date, the Executive Directors of the Bank may extend the period during which this Agreement shall remain open for signature by not more than six months.
 
-(d) After this Agreement shall have entered into force, it shall be open for signature on behalf of the government of any state whose membership shall have been approved pursuant to Article II, Section 1 (b).   
+(d)After this Agreement shall have entered into force, it shall be open for signature on behalf of the government of any state whose membership shall have been approved pursuant to Article II, Section 1 (b).
 ###Section 3
 
-### *Territorial Application* 
+###*Territorial Application* 
 
-By its signature of this Agreement, each government accepts it both on its own behalf and in respect of all territories for whose international relations such government is responsible except those which are excluded by such government by written notice to the Association. 
+By its signature of this Agreement, each government accepts it both on its own behalf and in respect of all territories for whose international relations such government is responsible except those which are excluded by such government by written notice to the Association.
 ###Section 4
 
-### *Inauguration of the Association* 
+###*Inauguration of the Association* 
 
-(a) As soon as this Agreement enters into force under Section 1 of this Article the President shall call a meeting of the Executive Directors.  
+(a)As soon as this Agreement enters into force under Section 1 of this Article the President shall call a meeting of the Executive Directors.
 
-(b) The Association shall begin operations on the date when such meeting is held.  
+(b)The Association shall begin operations on the date when such meeting is held.
 
-(c) Pending the first meeting of the Board of Governors, the Executive Directors may exercise all the powers of the Board of Governors except those reserved to the Board of Governors under this Agreement.   
+(c)Pending the first meeting of the Board of Governors, the Executive Directors may exercise all the powers of the Board of Governors except those reserved to the Board of Governors under this Agreement.
 ###Section 5
 
-### *Registration* 
+###*Registration* 
 
-The Bank is authorized to register this Agreement with the Secretariat of the United Nations in accordance with Article 102 of the Charter of the United Nations and the Regulations thereunder adopted by the General Assembly.  
+The Bank is authorized to register this Agreement with the Secretariat of the United Nations in accordance with [Article 102 of the Charter of the United Nations](../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) and the Regulations thereunder adopted by the General Assembly.
 
 DONE at Washington, in a single copy which shall remain deposited in the archives of the International Bank for Reconstruction and Development, which has indicated by its signature below its agreement to act as depository of this Agreement, to register this Agreement with the Secretariat of the United Nations and to notify all governments whose names are set forth in Schedule A of the date when this Agreement shall have entered into force under Article XI, Section 1 hereof.  
 
-### Schedule  A  
+###Schedule A 
 
-####— Initial subscriptions
+####— Initial subscriptions 
 
-(US $ Millions)  
+(US $ Millions)<sup>* In terms of United States dollars of the weight and fineness in effect on January 1, 1960. </sup> 
 
-<sup> *  In terms of United States dollars of the weight and fineness in effect on January 1, 1960.  </sup>   
 ###PART I
 
 |
 |
-| Australia . . . .  | 20.118  | Japan . . . .  | 33.59  | --- |
-| Austria . . . .  | 5.04  | Luxembourg . . . .  | 1.01  | --- |
-| Belgium . . . .  | 22.70  | Netherlands . . . .  | 27.74  | --- |
-| Canada . . . .  | 37.83  | Norway . . . .  | 6.72  | --- |
-| Denmark . . . .  | 8.74  | Sweden . . . .  | 10.09  | --- |
-| Finland . . . .  | 3.83  | Union of South Africa . . . .  | 10.09  | --- |
-| France . . . .  | 52.96  | United Kingdom . . . .  | 131.14  | --- |
-| Germany . . . .  | 52.96  | United States . . . .  | 320.29  | --- |
-| Italy . . . .  | 18.16  | --- | --- | 763.07  |
+|Australia . . . . | 20.18 |Japan . . . . |33.59 | --- |
+|Austria . . . . | 5.04 |Luxembourg . . . . |1.01 | --- |
+|Belgium . . . . | 22.70 |Netherlands . . . . | 27.74 | --- |
+|Canada . . . . | 37.83 |Norway . . . . | 6.72 | --- |
+|Denmark . . . . | 8.74 |Sweden . . . . |10.09 | --- |
+|Finland . . . . | 3.83 |Union of South Africa . . . . | 10.09 | --- |
+|France . . . . | 52.96 |United Kingdom . . . . |131.14 | --- |
+|Germany . . . . | 52.96 |United States . . . . | 320.29 | --- |
+|Italy . . . . | 18.16 | --- | --- |763.07 |
 
 ###PART II
 
 |
 |
-| Afghanistan . . . .  | 1.01  | Israel . . . .  | 1.68  | --- |
-| Argentina . . . .  | 18.83  | Jordan . . . .  | 0.30  | --- |
-| Bolivia . . . .  | 1.06  | Korea . . . .  | 1.26  | --- |
-| Brazil . . . .  | 18.83  | Lebanon . . . .  | 0.45  | --- |
-| Burma . . . .  | 2.02  | Libya . . . .  | 1.01  | --- |
-| Ceylon . . . .  | 3.03  | Malaya . . . .  | 2.52  | --- |
-| Chile . . . .  | 3.53  | Mexico . . . .  | 8.74  | --- |
-| China . . . .  | 30.26  | Morocco . . . .  | 3.53  | --- |
-| Colombia . . . .  | 3.53  | Nicaragua . . . .  | 0.30  | --- |
-| Costa Rica . . . .  | 0.20  | Pakistan . . . .  | 10.09  | --- |
-| Cuba . . . .  | 4.71  | Panama . . . .  | 0.02  | --- |
-| Dominican Republic . . . .  | 0.40  | Paraguay . . . .  | 0.30  | --- |
-| Ecuador . . . .  | 0.65  | Peru . . . .  | 1.77  | --- |
-| El Salvador . . . .  | 0.30  | Philippines . . . .  | 5.04  | --- |
-| Ethiopia . . . .  | 0.50  | Saudi Arabia . . . .  | 3.70  | --- |
-| Ghana . . . .  | 2.36  | Spain . . . .  | 10.09  | --- |
-| Greece . . . .  | 2.52  | Sudan . . . .  | 1.01  | --- |
-| Guatemala . . . .  | 0.40  | Thailand . . . .  | 3.03  | --- |
-| Haiti . . . .  | 0.76  | Tunisia . . . .  | 1.51  | --- |
-| Honduras . . . .  | 0.30  | Turkey . . . .  | 5.80  | --- |
-| Iceland . . . .  | 0.10  | United Arab Republic  | 6.03  | --- |
-| India . . . .  | 40.35  | Uruguay . . . .  | 1.06  | --- |
-| Indonesia . . . .  | 11.10  | Venezuela . . . .  | 7.06  | --- |
-| Iran . . . .  | 4.54  | Viet-Nam . . . .  | 1.51  | --- |
-| Iraq . . . .  | 0.76  | Yugoslavia . . . .  | 4.04  | --- |
-| Ireland . . . .  | 3.03  | --- | --- | 236.93  |
-| --- | --- | TOTAL . . . .  | --- | 1000.00  |
+|Afghanistan . . . . | 1.01 |Israel . . . . | 1.68 | --- |
+|Argentina . . . . | 18.83 |Jordan . . . . | 0.30 | --- |
+|Bolivia . . . . | 1.06 |Korea . . . . | 1.26 | --- |
+|Brazil . . . . | 18.83 |Lebanon . . . . | 0.45 | --- |
+|Burma . . . . | 2.02 |Libya . . . . | 1.01 | --- |
+|Ceylon . . . . | 3.03 |Malaya . . . . | 2.52 | --- |
+|Chile . . . . | 3.53 |Mexico . . . . | 8.74 | --- |
+|China . . . . | 30.26 |Morocco . . . . | 3.53 | --- |
+|Colombia . . . . |3.53 |Nicaragua . . . . | 0.30 | --- |
+|Costa Rica . . . . | 0.20 |Pakistan . . . . | 10.09 | --- |
+|Cuba . . . . | 4.71 |Panama . . . . | 0.02 | --- |
+|Dominican Republic . . . . |0.40 |Paraguay . . . . | 0.30 | --- |
+|Ecuador . . . . | 0.65 |Peru . . . . | 1.77 | --- |
+|El Salvador . . . . | 0.30 |Philippines . . . . |5.04 | --- |
+|Ethiopia . . . . | 0.50 |Saudi Arabia . . . . | 3.70 | --- |
+|Ghana . . . . | 2.36 |Spain . . . . | 10.09 | --- |
+|Greece . . . . | 2.52 |Sudan . . . . | 1.01 | --- |
+|Guatemala . . . . | 0.40 |Thailand . . . . | 3.03 | --- |
+|Haiti . . . . | 0.76 |Tunisia . . . . | 1.51 | --- |
+|Honduras . . . . |0.30 |Turkey . . . . | 5.80 | --- |
+|Iceland . . . . | 0.10 |United Arab Republic | 6.03 | --- |
+|India . . . . | 40.35 |Uruguay . . . . | 1.06 | --- |
+|Indonesia . . . . | 11.10 |Venezuela . . . . | 7.06 | --- |
+|Iran . . . . | 4.54 |Viet-Nam . . . . | 1.51 | --- |
+|Iraq . . . . | 0.76 |Yugoslavia . . . . |4.04 | --- |
+|Ireland . . . . | 3.03 | --- | --- |236.93 |
+| --- | --- |TOTAL . . . . | --- |1000.00 |
 
 ####Overeenkomst betreffende de Internationale Ontwikkelingsassociatie
 
-De Regeringen namens welke deze Overeenkomst is ondertekend, Overwegende: Dat onderlinge samenwerking voor constructieve economische doeleinden, een gezonde ontwikkeling van de wereldeconomie en een evenwichtige groei van de internationale handel bevorderlijk zijn voor internationale betrekkingen die bijdragen tot het handhaven van de vrede en de welvaart der wereld; Dat een versnelling der economische ontwikkeling die een hogere levensstandaard en economische en sociale vooruitgang in de minderontwikkelde landen bevordert, niet alleen wenselijk is in het belang van deze landen doch tevens in het belang van de internationale gemeenschap als geheel; Dat de verwezenlijking van deze doeleinden vergemakkelijkt zou worden door een toeneming van de internationale kapitaalstroom, zowel uit openbare als uit particuliere bron, ter ondersteuning van de ontwikkeling van de hulpbronnen in de minderontwikkelde landen,   komen als volgt overeen:    
+De Regeringen namens welke deze Overeenkomst is ondertekend,Overwegende: Dat onderlinge samenwerking voor constructieve economische doeleinden, een gezonde ontwikkeling van de wereldeconomie en een evenwichtige groei van de internationale handel bevorderlijk zijn voor internationale betrekkingen die bijdragen tot het handhaven van de vrede en de welvaart der wereld; Dat een versnelling der economische ontwikkeling die een hogere levensstandaard en economische en sociale vooruitgang in de minderontwikkelde landen bevordert, niet alleen wenselijk is in het belang van deze landen doch tevens in het belang van de internationale gemeenschap als geheel; Dat de verwezenlijking van deze doeleinden vergemakkelijkt zou worden door een toeneming van de internationale kapitaalstroom, zowel uit openbare als uit particuliere bron, ter ondersteuning van de ontwikkeling van de hulpbronnen in de minderontwikkelde landen,  komen als volgt overeen:  
 
 ####Inleidend artikel
 
-De Internationale Ontwikkelingsassociatie (hierna genoemd „de Associatie”) is opgericht en oefent haar werkzaamheden uit overeenkomstig de volgende bepalingen:  
+De Internationale Ontwikkelingsassociatie (hierna genoemd „de Associatie”) is opgericht en oefent haar werkzaamheden uit overeenkomstig de volgende bepalingen:
 
 ### Artikel  I  
 
 ####Doelstellingen
 
-De Associatie heeft tot doel in de minderontwikkelde gebieden van de wereld waar deze Overeenkomst van toepassing is, de economische ontwikkeling te bevorderen en de produktiviteit te verhogen om er op die wijze de levensstandaard te verhogen in het bijzonder door het verstrekken van financiële middelen voor hun belangrijke ontwikkelingsbehoeften op voorwaarden die soepeler zijn en minder zwaar op de betalingsbalans drukken dan die van gebruikelijke leningen, en aldus de ontwikkelingsdoeleinden van de Internationale Bank voor Herstel en Ontwikkeling (hierna genoemd „de Bank”) te bevorderen en haar werkzaamheden aan te vullen. De Associatie laat zich in al haar beslissingen leiden door de bepalingen van dit artikel.  
+De Associatie heeft tot doel in de minderontwikkelde gebieden van de wereld waar deze Overeenkomst van toepassing is, de economische ontwikkeling te bevorderen en de produktiviteit te verhogen om er op die wijze de levensstandaard te verhogen in het bijzonder door het verstrekken van financiële middelen voor hun belangrijke ontwikkelingsbehoeften op voorwaarden die soepeler zijn en minder zwaar op de betalingsbalans drukken dan die van gebruikelijke leningen, en aldus de ontwikkelingsdoeleinden van de Internationale Bank voor Herstel en Ontwikkeling (hierna genoemd „de Bank”) te bevorderen en haar werkzaamheden aan te vullen. De Associatie laat zich in al haar beslissingen leiden door de bepalingen van dit artikel. 
 
 ### Artikel  II  
 
@@ -584,9 +583,9 @@ De Associatie heeft tot doel in de minderontwikkelde gebieden van de wereld waar
 
 ### *Lidmaatschap* 
 
-a) De oorspronkelijke leden van de Associatie zijn die in Tabel A vermelde leden van de Bank die op of voor de in artikel XI, afdeling 2c), genoemde datum het lidmaatschap van de Associatie aanvaarden.  
+a)De oorspronkelijke leden van de Associatie zijn die in Tabel A vermelde leden van de Bank die op of voor de in artikel XI, afdeling 2c), genoemde datum het lidmaatschap van de Associatie aanvaarden.
 
-b) Het lidmaatschap staat voor de andere leden van de Bank open op door de Associatie te bepalen tijdstippen en voorwaarden.   
+b) Het lidmaatschap staat voor de andere leden van de Bank open op door de Associatie te bepalen tijdstippen en voorwaarden. 
 ###Afdeling 2
 
 ### *Eerste bijdragen* 
@@ -612,9 +611,9 @@ g) Behoudens door de Associatie goed te keuren uitzonderingen, is ieder in deel 
 h) De voorwaarden waarop leden die geen oorspronkelijke leden zijn, mogen inschrijven voor hun eerste bijdragen, de bedragen der bijdragen en de betalingsvoorwaarden voor deze bijdragen, worden door de Associatie ingevolge afdeling 1b) van dit artikel vastgesteld.   
 ###Afdeling 3
 
-### *Beperking van aansprakelijkheid* 
+###*Beperking van aansprakelijkheid* 
 
-Geen lid is uit hoofde van zijn lidmaatschap voor de verbintenissen der Associatie aansprakelijk.  
+Geen lid is uit hoofde van zijn lidmaatschap voor de verbintenissen der Associatie aansprakelijk.
 
 ### Artikel  III  
 
@@ -633,15 +632,15 @@ c) Bij goedkeuring van een aanvullende bijdrage wordt ieder lid de mogelijkheid 
 d) Alle beslissingen krachtens deze afdeling vereisen een twee derde meerderheid van het totaal aantal stemmen.   
 ###Afdeling 2
 
-### *Verstrekking van aanvullende middelen door een lid in de valuta van een ander lid* 
+###*Verstrekking van aanvullende middelen door een lid in de valuta van een ander lid* 
 
-a) De Associatie kan, op voorwaarden die verenigbaar zijn met de bepalingen van deze Overeenkomst, regelingen treffen om van een lid, behalve bedragen die het lid ter zake van zijn eerste bijdrage of aanvullende bijdragen dient te betalen, aanvullende middelen in de valuta van een ander lid te ontvangen, met dien verstande dat de Associatie hiertoe niet overgaat tenzij zij zich ervan heeft overtuigd dat het lid welks valuta in het geding is, met het gebruik van deze valuta als aanvullende middelen en met de voorwaarden voor dat gebruik instemt. De regelingen krachtens welke zulke middelen worden ontvangen kunnen bepalingen inhouden betreffende de beschikking over inkomsten uit de middelen en betreffende de beschikking over de middelen voor het geval dat het lid dat de middelen heeft verstrekt ophoudt lid te zijn of de Associatie voorgoed haar werkzaamheden staakt.  
+a)De Associatie kan, op voorwaarden die verenigbaar zijn met de bepalingen van deze Overeenkomst, regelingen treffen om van een lid, behalve bedragen die het lid ter zake van zijn eerste bijdrage of aanvullende bijdragen dient te betalen, aanvullende middelen in de valuta van een ander lid te ontvangen, met dien verstande dat de Associatie hiertoe niet overgaat tenzij zij zich ervan heeft overtuigd dat het lid welks valuta in het geding is, met het gebruik van deze valuta als aanvullende middelen en met de voorwaarden voor dat gebruik instemt. De regelingen krachtens welke zulke middelen worden ontvangen kunnen bepalingen inhouden betreffende de beschikking over inkomsten uit de middelen en betreffende de beschikking over de middelen voor het geval dat het lid dat de middelen heeft verstrekt ophoudt lid te zijn of de Associatie voorgoed haar werkzaamheden staakt.
 
-b) De Associatie geeft aan het lid dat de middelen verstrekt een Bijzonder Ontwikkelingscertificaat. Dit certificaat vermeldt het bedrag en de valuta van de verstrekte middelen en de voorwaarden waarop zij zijn verstrekt. Aan een Bijzonder Ontwikkelingscertificaat is geen stemrecht verbonden en het certificaat kan alleen aan de Associatie worden overgedragen.  
+b)De Associatie geeft aan het lid dat de middelen verstrekt een Bijzonder Ontwikkelingscertificaat. Dit certificaat vermeldt het bedrag en de valuta van de verstrekte middelen en de voorwaarden waarop zij zijn verstrekt. Aan een Bijzonder Ontwikkelingscertificaat is geen stemrecht verbonden en het certificaat kan alleen aan de Associatie worden overgedragen.
 
-c) De bepalingen van deze afdeling verzetten zich er niet tegen dat de Associatie van een lid middelen in zijn eigen valuta aanneemt op zodanige voorwaarden als de partijen overeenkomen.    
+c)De bepalingen van deze afdeling verzetten zich er niet tegen dat de Associatie van een lid middelen in zijn eigen valuta aanneemt op zodanige voorwaarden als de partijen overeenkomen.
 
-### Artikel  IV  
+###Artikel IV 
 
 ####Valuta's
 
@@ -649,26 +648,26 @@ c) De bepalingen van deze afdeling verzetten zich er niet tegen dat de Associati
 
 ### *Gebruik van valuta's* 
 
-a) De al dan niet vrij inwisselbare valuta van een in deel II van Tabel A vermeld lid, die door de Associatie ingevolge artikel II, afdeling 2d), is ontvangen ter betaling van het negen tiende deel dat krachtens die bepaling in de valuta van dat lid dient te worden betaald, en de daaruit als hoofdsom, rente of andere kosten voortgekomen valuta van dat lid, kan door de Associatie worden gebruikt voor door haar gemaakte administratieve onkosten in de gebiedsdelen van dat lid en, voorzover niet in strijd met een gezonde monetaire politiek, ter betaling van in de gebiedsdelen van dat lid voortgebrachte goederen en verleende diensten, die nodig zijn voor door de Associatie gefinancierde projecten welke in die gebiedsdelen zijn gelegen. Bovendien zal, wanneer en voorzover het betrokken lid en de Associatie overeenkomen dat de economische en financiële toestand van het lid zulks rechtvaardigt, zulke valuta vrij inwisselbaar zijn of op andere wijze kunnen worden gebruikt voor door de Associatie gefinancierde projecten die buiten de gebiedsdelen van het lid zijn gelegen.  
+a)De al dan niet vrij inwisselbare valuta van een in deel II van Tabel A vermeld lid, die door de Associatie ingevolge artikel II, afdeling 2d), is ontvangen ter betaling van het negen tiende deel dat krachtens die bepaling in de valuta van dat lid dient te worden betaald, en de daaruit als hoofdsom, rente of andere kosten voortgekomen valuta van dat lid, kan door de Associatie worden gebruikt voor door haar gemaakte administratieve onkosten in de gebiedsdelen van dat lid en, voorzover niet in strijd met een gezonde monetaire politiek, ter betaling van in de gebiedsdelen van dat lid voortgebrachte goederen en verleende diensten, die nodig zijn voor door de Associatie gefinancierde projecten welke in die gebiedsdelen zijn gelegen. Bovendien zal, wanneer en voorzover het betrokken lid en de Associatie overeenkomen dat de economische en financiële toestand van het lid zulks rechtvaardigt, zulke valuta vrij inwisselbaar zijn of op andere wijze kunnen worden gebruikt voor door de Associatie gefinancierde projecten die buiten de gebiedsdelen van het lid zijn gelegen.
 
-b) Het gebruik van valuta's die door de Associatie zijn ontvangen ter betaling van bijdragen, waaronder niet begrepen eerste bijdragen van oorspronkelijke leden, en van valuta's die daaruit als hoofdsom, rente of andere kosten zijn voortgekomen, wordt bepaald door de voorwaarden die ten tijde van de goedkeuring dezer bijdragen daaraan zijn verbonden.  
+b)Het gebruik van valuta's die door de Associatie zijn ontvangen ter betaling van bijdragen, waaronder niet begrepen eerste bijdragen van oorspronkelijke leden, en van valuta's die daaruit als hoofdsom, rente of andere kosten zijn voortgekomen, wordt bepaald door de voorwaarden die ten tijde van de goedkeuring dezer bijdragen daaraan zijn verbonden.
 
-c) Het gebruik van valuta's die door de Associatie zijn ontvangen als aanvullende middelen, waaronder niet begrepen bijdragen, en van valuta's die daaruit als hoofdsom, rente of andere kosten zijn voortgekomen, wordt bepaald door de voorwaarden ingevolge welke zulke valuta's zijn ontvangen.  
+c)Het gebruik van valuta's die door de Associatie zijn ontvangen als aanvullende middelen, waaronder niet begrepen bijdragen, en van valuta's die daaruit als hoofdsom, rente of andere kosten zijn voortgekomen, wordt bepaald door de voorwaarden ingevolge welke zulke valuta's zijn ontvangen.
 
-d) Alle andere door de Associatie ontvangen valuta's kunnen door de Associatie vrijelijk worden gebruikt en omgewisseld en zijn niet onderworpen aan enige beperking door het lid welks valuta gebruikt of omgewisseld wordt. Het voorgaande sluit echter niet uit dat de Associatie met het lid in welks gebiedsdelen een door de Associatie gefinancierd project is gelegen een regeling treft waarbij het gebruik door de Associatie van de als hoofdsom, rente of andere kosten in verband met deze financiering ontvangen valuta van dat lid wordt beperkt.  
+d)Alle andere door de Associatie ontvangen valuta's kunnen door de Associatie vrijelijk worden gebruikt en omgewisseld en zijn niet onderworpen aan enige beperking door het lid welks valuta gebruikt of omgewisseld wordt. Het voorgaande sluit echter niet uit dat de Associatie met het lid in welks gebiedsdelen een door de Associatie gefinancierd project is gelegen een regeling treft waarbij het gebruik door de Associatie van de als hoofdsom, rente of andere kosten in verband met deze financiering ontvangen valuta van dat lid wordt beperkt.
 
-e) De Associatie treft passende maatregelen ter verzekering van een ten naaste bij evenredig gebruik door de Associatie over een redelijk verloop van tijd, van de door de in deel I van Tabel A vermelde leden krachtens artikel II, afdeling 2d), betaalde gedeelten hunner bijdragen, met dien verstande echter dat die gedeelten van deze bijdragen die in goud of in de valuta van een ander dan het inschrijvende lid zijn betaald, sneller kunnen worden gebruikt.   
+e)De Associatie treft passende maatregelen ter verzekering van een ten naaste bij evenredig gebruik door de Associatie over een redelijk verloop van tijd, van de door de in deel I van Tabel A vermelde leden krachtens artikel II, afdeling 2d), betaalde gedeelten hunner bijdragen, met dien verstande echter dat die gedeelten van deze bijdragen die in goud of in de valuta van een ander dan het inschrijvende lid zijn betaald, sneller kunnen worden gebruikt.
 ###Afdeling 2
 
-### *Handhaving van de waarde van valutabezit* 
+###*Handhaving van de waarde van valutabezit* 
 
-a) Wanneer de pari-waarde van de valuta van een lid wordt verlaagd of de koerswaarde van de valuta van een lid, naar de mening van de Associatie, binnen de gebiedsdelen van dat lid in aanmerkelijke mate gedaald is, is het lid verplicht binnen een redelijke termijn aan de Associatie een zodanig aanvullend bedrag van zijn eigen valuta te betalen als nodig is om de waarde te handhaven, berekend naar het tijdstip van inschrijving, van het bedrag aan valuta van dat lid dat door het lid aan de Associatie is betaald krachtens artikel II, afdeling 2d), alsmede van de valuta die betaald mocht zijn krachtens de bepalingen van deze paragraaf, ongeacht of zulke valuta aangehouden wordt in de vorm van ingevolge artikel II, afdeling 2e), ontvangen promessen, met dien verstande echter dat het voorgaande alleen van toepassing is totdat en voor zover zulke valuta voor de eerste maal uitbetaald of in de valuta van een ander lid omgewisseld is.  
+a)Wanneer de pari-waarde van de valuta van een lid wordt verlaagd of de koerswaarde van de valuta van een lid, naar de mening van de Associatie, binnen de gebiedsdelen van dat lid in aanmerkelijke mate gedaald is, is het lid verplicht binnen een redelijke termijn aan de Associatie een zodanig aanvullend bedrag van zijn eigen valuta te betalen als nodig is om de waarde te handhaven, berekend naar het tijdstip van inschrijving, van het bedrag aan valuta van dat lid dat door het lid aan de Associatie is betaald krachtens artikel II, afdeling 2d), alsmede van de valuta die betaald mocht zijn krachtens de bepalingen van deze paragraaf, ongeacht of zulke valuta aangehouden wordt in de vorm van ingevolge artikel II, afdeling 2e), ontvangen promessen, met dien verstande echter dat het voorgaande alleen van toepassing is totdat en voor zover zulke valuta voor de eerste maal uitbetaald of in de valuta van een ander lid omgewisseld is.
 
-b) Wanneer de pari-waarde van de valuta van een lid wordt verhoogd of de koerswaarde van de valuta van een lid, naar de mening van de Associatie, binnen de gebiedsdelen van dat lid in aanmerkelijke mate is gestegen, wordt aan een dergelijk lid door de Associatie binnen een redelijke termijn een bedrag aan de valuta van dat lid teruggegeven, gelijk aan de waardevermeerdering van de bedragen aan die valuta waarop de bepalingen van paragraaf a) van deze afdeling toepasselijk zijn.  
+b)Wanneer de pari-waarde van de valuta van een lid wordt verhoogd of de koerswaarde van de valuta van een lid, naar de mening van de Associatie, binnen de gebiedsdelen van dat lid in aanmerkelijke mate is gestegen, wordt aan een dergelijk lid door de Associatie binnen een redelijke termijn een bedrag aan de valuta van dat lid teruggegeven, gelijk aan de waardevermeerdering van de bedragen aan die valuta waarop de bepalingen van paragraaf a) van deze afdeling toepasselijk zijn.
 
-c) De Associatie kan van de toepassing van de bepalingen van de voorgaande paragrafen van deze afdeling afzien, wanneer een eenvormige evenredige verandering in de pari-waarde van de valuta's van al haar leden door het Internationale Monetaire Fonds tot stand gebracht wordt.  
+c)De Associatie kan van de toepassing van de bepalingen van de voorgaande paragrafen van deze afdeling afzien, wanneer een eenvormige evenredige verandering in de pari-waarde van de valuta's van al haar leden door het Internationale Monetaire Fonds tot stand gebracht wordt.
 
-d) Bedragen die krachtens de bepalingen van paragraaf a) van deze afdeling worden verschaft ter handhaving van de waarde van een valuta, kunnen in dezelfde mate als die valuta worden ingewisseld en gebruikt.    
+d)Bedragen die krachtens de bepalingen van paragraaf a) van deze afdeling worden verschaft ter handhaving van de waarde van een valuta, kunnen in dezelfde mate als die valuta worden ingewisseld en gebruikt.
 
 ### Artikel  V  
 
@@ -695,53 +694,53 @@ g) De Associatie treft maatregelen om te verzekeren dat verstrekte geldmiddelen 
 h) Gelden die onder een financieringstransactie worden verstrekt, worden aan de ontvanger slechts beschikbaar gesteld voor de bestrijding van de werkelijke kosten die in verband met het project worden gemaakt.   
 ###Afdeling 2
 
-### *Financieringsvorm en -voorwaarden* 
+###*Financieringsvorm en -voorwaarden* 
 
-a) Financiering door de Associatie vindt plaats bij wege van leningen. De Associatie mag echter andere vormen van financiering verstrekken, hetzij 
+a)Financiering door de Associatie vindt plaats bij wege van leningen. De Associatie mag echter andere vormen van financiering verstrekken, hetzij
 
-i) uit middelen bijgedragen ingevolge artikel III, afdeling 1, en daaruit als hoofdsom, rente of andere kosten voortgekomen middelen, mits de goedkeuring voor zulke bijdragen uitdrukkelijk in een zodanige financiering voorziet; hetzij  
+i)uit middelen bijgedragen ingevolge artikel III, afdeling 1, en daaruit als hoofdsom, rente of andere kosten voortgekomen middelen, mits de goedkeuring voor zulke bijdragen uitdrukkelijk in een zodanige financiering voorziet; hetzij
 
-ii) in bijzondere omstandigheden, uit aanvullende middelen die aan de Associatie zijn verschaft en daaruit als hoofdsom, rente of andere kosten voortgekomen middelen, mits de regelingen krachtens welke zulke middelen zijn verschaft uitdrukkelijk in een zodanige financiering voorzien.    
+ii) in bijzondere omstandigheden, uit aanvullende middelen die aan de Associatie zijn verschaft en daaruit als hoofdsom, rente of andere kosten voortgekomen middelen, mits de regelingen krachtens welke zulke middelen zijn verschaft uitdrukkelijk in een zodanige financiering voorzien. 
 
-b) Onder voorbehoud van de voorgaande paragraaf, kan de Associatie geldmiddelen verstrekken in zodanige vorm en op zodanige voorwaarden als zij, gezien de economische toestand en vooruitzichten van het betrokken gebied of de betrokken gebieden en de aard en de eisen van het project, dienstig acht.  
+b)Onder voorbehoud van de voorgaande paragraaf, kan de Associatie geldmiddelen verstrekken in zodanige vorm en op zodanige voorwaarden als zij, gezien de economische toestand en vooruitzichten van het betrokken gebied of de betrokken gebieden en de aard en de eisen van het project, dienstig acht.
 
-c) De Associatie kan geldmiddelen verstrekken aan een lid, aan de regering van een gebiedsdeel waar deze Overeenkomst van toepassing is, aan een staatkundig onderdeel van een lid of een zodanig gebiedsdeel, aan een publiek- of privaatrechtelijk lichaam in de gebiedsdelen van een lid of van leden, of aan een publiekrechtelijke internationale of regionale organisatie.  
+c)De Associatie kan geldmiddelen verstrekken aan een lid, aan de regering van een gebiedsdeel waar deze Overeenkomst van toepassing is, aan een staatkundig onderdeel van een lid of een zodanig gebiedsdeel, aan een publiek- of privaatrechtelijk lichaam in de gebiedsdelen van een lid of van leden, of aan een publiekrechtelijke internationale of regionale organisatie.
 
-d) Ingeval een lening niet aan het lid zelf wordt verstrekt, kan de Associatie, naar verkiezing, een passende garantie of garanties van een regering of anderen verlangen.  
+d)Ingeval een lening niet aan het lid zelf wordt verstrekt, kan de Associatie, naar verkiezing, een passende garantie of garanties van een regering of anderen verlangen.
 
-e) In bijzondere gevallen kan de Associatie buitenlandse valuta voor plaatselijke kosten beschikbaar stellen.   
+e)In bijzondere gevallen kan de Associatie buitenlandse valuta voor plaatselijke kosten beschikbaar stellen.
 ###Afdeling 3
 
 ### *Wijziging van financieringsvoorwaarden* 
 
-Indien en voor zover de Associatie, gelet op alle ter zake dienende omstandigheden, daaronder begrepen de financiële en economische toestand en vooruitzichten van het betrokken lid, daartoe aanleiding ziet, kan zij op door haar te bepalen voorwaarden toestemmen in een matiging of andere wijziging van de voorwaarden waarop door haar geldmiddelen voor financieringsdoeleinden zijn verstrekt. 
+Indien en voor zover de Associatie, gelet op alle ter zake dienende omstandigheden, daaronder begrepen de financiële en economische toestand en vooruitzichten van het betrokken lid, daartoe aanleiding ziet, kan zij op door haar te bepalen voorwaarden toestemmen in een matiging of andere wijziging van de voorwaarden waarop door haar geldmiddelen voor financieringsdoeleinden zijn verstrekt.
 ###Afdeling 4
 
-### *Samenwerking met andere internationale instellingen en leden die hulp voor ontwikkelingsdoeleinden verstrekken* 
+###*Samenwerking met andere internationale instellingen en leden die hulp voor ontwikkelingsdoeleinden verstrekken* 
 
-De Associatie werkt samen met die publiekrechtelijke internationale organisaties en leden die financiële en technische bijstand aan de minderontwikkelde gebieden der wereld verlenen. 
+De Associatie werkt samen met die publiekrechtelijke internationale organisaties en leden die financiële en technische bijstand aan de minderontwikkelde gebieden der wereld verlenen.
 ###Afdeling 5
 
-### *Diverse werkzaamheden* 
+###*Diverse werkzaamheden* 
 
-Behalve de elders in deze Overeenkomst vermelde werkzaamheden, kan de Associatie: 
+Behalve de elders in deze Overeenkomst vermelde werkzaamheden, kan de Associatie:
 
-i) geldleningen aangaan met de toestemming van het lid in welks valuta de lening is uitgedrukt;  
+i)geldleningen aangaan met de toestemming van het lid in welks valuta de lening is uitgedrukt;
 
-ii) waardepapieren waarin zij belegd heeft garanderen ten einde de verkoop daarvan te vergemakkelijken;  
+ii)waardepapieren waarin zij belegd heeft garanderen ten einde de verkoop daarvan te vergemakkelijken;
 
-iii) waardepapieren die zij heeft uitgegeven of gegarandeerd of waarin zij heeft belegd kopen of verkopen;  
+iii)waardepapieren die zij heeft uitgegeven of gegarandeerd of waarin zij heeft belegd kopen of verkopen;
 
-iv) in bijzondere gevallen leningen uit andere bronnen, voor doeleinden die niet met de bepalingen van deze Overeenkomst in strijd zijn, garanderen;  
+iv)in bijzondere gevallen leningen uit andere bronnen, voor doeleinden die niet met de bepalingen van deze Overeenkomst in strijd zijn, garanderen;
 
-v) op verzoek van een lid technische hulp en advies verstrekken; en  
+v)op verzoek van een lid technische hulp en advies verstrekken; en
 
-vi) die andere met haar werkzaamheden verband houdende bevoegdheden uitoefenen die ter bevordering van haar doelstellingen nodig of wenselijk zijn.   
+vi)die andere met haar werkzaamheden verband houdende bevoegdheden uitoefenen die ter bevordering van haar doelstellingen nodig of wenselijk zijn.
 ###Afdeling 6
 
-### *Verbod van politieke activiteit* 
+###*Verbod van politieke activiteit* 
 
-De Associatie en haar ambtenaren mengen zich niet in de politieke aangelegenheden van een lid; noch laten zij zich bij hun beslissingen door de politieke aard van het betrokken lid of de betrokken leden beïnvloeden. Bij hun beslissingen laten zij zich slechts door economische overwegingen leiden en deze overwegingen worden onpartijdig gewaardeerd ten einde de in deze Overeenkomst vermelde doelstellingen te verwezenlijken.  
+De Associatie en haar ambtenaren mengen zich niet in de politieke aangelegenheden van een lid; noch laten zij zich bij hun beslissingen door de politieke aard van het betrokken lid of de betrokken leden beïnvloeden. Bij hun beslissingen laten zij zich slechts door economische overwegingen leiden en deze overwegingen worden onpartijdig gewaardeerd ten einde de in deze Overeenkomst vermelde doelstellingen te verwezenlijken.
 
 ### Artikel  VI  
 
@@ -791,48 +790,48 @@ h) De Raad van Bestuur en, voorzover daartoe gemachtigd, de bewindvoerders, kunn
 i) Bestuurders en plaatsvervangende bestuurders zullen als zodanig hun functie waarnemen zonder vergoeding van de Associatie te ontvangen.   
 ###Afdeling 3
 
-### *Stemrecht* 
+###*Stemrecht* 
 
-a) Ieder oorspronkelijk lid heeft uit hoofde van zijn eerste bijdrage 500 stemmen, vermeerderd met een extra stem voor iedere $ 5000 van zijn eerste bijdrage. Het stemrecht verbonden aan bijdragen die niet eerste bijdragen van oorspronkelijke leden zijn wordt door de Raad van Bestuur ingevolge de bepalingen van artikel II, afdeling 1 b) of artikel III, afdeling 1 b) en c) vastgesteld. Aan aanvullende middelen die niet bijdragen overeenkomstig artikel II, afdeling 1b), of aanvullende bijdragen overeenkomstig artikel III, afdeling 1, zijn, is geen stemrecht verbonden.  
+a)Ieder oorspronkelijk lid heeft uit hoofde van zijn eerste bijdrage 500 stemmen, vermeerderd met een extra stem voor iedere $ 5000 van zijn eerste bijdrage. Het stemrecht verbonden aan bijdragen die niet eerste bijdragen van oorspronkelijke leden zijn wordt door de Raad van Bestuur ingevolge de bepalingen van artikel II, afdeling 1 b) of artikel III, afdeling 1 b) en c) vastgesteld. Aan aanvullende middelen die niet bijdragen overeenkomstig artikel II, afdeling 1b), of aanvullende bijdragen overeenkomstig artikel III, afdeling 1, zijn, is geen stemrecht verbonden.
 
-b) Voor zover niet uitdrukkelijk anders is bepaald, wordt ten aanzien van alle bij de Associatie aanhangige kwesties bij eenvoudige meerderheid der uitgebrachte stemmen beslist.   
+b)Voor zover niet uitdrukkelijk anders is bepaald, wordt ten aanzien van alle bij de Associatie aanhangige kwesties bij eenvoudige meerderheid der uitgebrachte stemmen beslist.
 ###Afdeling 4
 
 ### *Bewindvoerders* 
 
-a) De bewindvoerders zijn verantwoordelijk voor de leiding van de algemene werkzaamheden der Associatie en oefenen tot dit doel alle bevoegdheden uit welke hun door deze Overeenkomst zijn verleend of door de Raad van Bestuur aan hen zijn overgedragen.  
+a)De bewindvoerders zijn verantwoordelijk voor de leiding van de algemene werkzaamheden der Associatie en oefenen tot dit doel alle bevoegdheden uit welke hun door deze Overeenkomst zijn verleend of door de Raad van Bestuur aan hen zijn overgedragen.
 
-b) Iedere bewindvoerder van de Bank die i) benoemd is door een lid van de Bank dat tevens lid is van de Associatie, dan wel ii) gekozen is bij een stemming waarin de stemmen van tenminste één lid van de Bank dat tevens lid is van de Associatie tot zijn verkiezing hebben bijgedragen, is ambtshalve bewindvoerder van de Associatie. Iedere plaatsvervanger van zulk een bewindvoerder van de Bank is ambtshalve plaatsvervangend bewindvoerder van de Associatie. Een bewindvoerder treedt af indien het lid waardoor hij werd benoemd, of alle leden welker stemmen tot zijn verkiezing hebben bijgedragen, ophouden lid van de Associatie te zijn.  
+b)Iedere bewindvoerder van de Bank die i) benoemd is door een lid van de Bank dat tevens lid is van de Associatie, dan wel ii) gekozen is bij een stemming waarin de stemmen van tenminste één lid van de Bank dat tevens lid is van de Associatie tot zijn verkiezing hebben bijgedragen, is ambtshalve bewindvoerder van de Associatie. Iedere plaatsvervanger van zulk een bewindvoerder van de Bank is ambtshalve plaatsvervangend bewindvoerder van de Associatie. Een bewindvoerder treedt af indien het lid waardoor hij werd benoemd, of alle leden welker stemmen tot zijn verkiezing hebben bijgedragen, ophouden lid van de Associatie te zijn.
 
-c) Iedere bewindvoerder die krachtens benoeming bewindvoerder van de Bank is, is gerechtigd het aantal stemmen uit te brengen dat het lid waardoor hij benoemd werd gerechtigd is in de Associatie uit te brengen. Iedere bewindvoerder die krachtens verkiezing bewindvoerder van de Bank is, is gerechtigd het aantal stemmen uit te brengen dat het lid of de leden van de Associatie welks/welker stemmen tot zijn verkiezing in de Bank hebben bijgedragen gerechtigd is/zijn in de Associatie uit te brengen. Alle stemmen die een bewindvoerder gerechtigd is uit te brengen, worden als één geheel uitgebracht.  
+c)Iedere bewindvoerder die krachtens benoeming bewindvoerder van de Bank is, is gerechtigd het aantal stemmen uit te brengen dat het lid waardoor hij benoemd werd gerechtigd is in de Associatie uit te brengen. Iedere bewindvoerder die krachtens verkiezing bewindvoerder van de Bank is, is gerechtigd het aantal stemmen uit te brengen dat het lid of de leden van de Associatie welks/welker stemmen tot zijn verkiezing in de Bank hebben bijgedragen gerechtigd is/zijn in de Associatie uit te brengen. Alle stemmen die een bewindvoerder gerechtigd is uit te brengen, worden als één geheel uitgebracht.
 
-d) Een plaatsvervangende bewindvoerder is volledig bevoegd om op te treden bij afwezigheid van de bewindvoerder waardoor hij is benoemd. Indien een bewindvoerder aanwezig is mag zijn plaatsvervanger vergaderingen bijwonen doch zonder stemrecht.  
+d)Een plaatsvervangende bewindvoerder is volledig bevoegd om op te treden bij afwezigheid van de bewindvoerder waardoor hij is benoemd. Indien een bewindvoerder aanwezig is mag zijn plaatsvervanger vergaderingen bijwonen doch zonder stemrecht.
 
-e) Het quorum voor iedere vergadering van bewindvoerders bestaat uit een meerderheid van de bewindvoerders die minstens de helft van het totale stemrecht uitoefenen.  
+e)Het quorum voor iedere vergadering van bewindvoerders bestaat uit een meerderheid van de bewindvoerders die minstens de helft van het totale stemrecht uitoefenen.
 
-f) De bewindvoerders vergaderen zo dikwijls als de werkzaamheden van de Associatie dit vereisen.  
+f)De bewindvoerders vergaderen zo dikwijls als de werkzaamheden van de Associatie dit vereisen.
 
-g) De Raad van Bestuur stelt regelingen vast waarbij het een lid van de Associatie dat niet gerechtigd is een bewindvoerder van de Bank te benoemen mogelijk wordt gemaakt iedere vergadering van de bewindvoerders van de Associatie waarin over een door dat lid gedaan verzoek of over een dat lid in het bijzonder betreffende aangelegenheid beraadslaagd wordt, door een vertegenwoordiger te doen bijwonen.   
+g)De Raad van Bestuur stelt regelingen vast waarbij het een lid van de Associatie dat niet gerechtigd is een bewindvoerder van de Bank te benoemen mogelijk wordt gemaakt iedere vergadering van de bewindvoerders van de Associatie waarin over een door dat lid gedaan verzoek of over een dat lid in het bijzonder betreffende aangelegenheid beraadslaagd wordt, door een vertegenwoordiger te doen bijwonen.
 ###Afdeling 5
 
 ### *President en personeel* 
 
-a) De President van de Bank is ambtshalve President van de Associatie. De President is Voorzitter van de bewindvoerders van de Associatie, maar heeft, met uitzondering van een beslissende stem ingeval van staking der stemmen, geen stemrecht. Hij mag aan vergaderingen van de Raad van Bestuur deelnemen maar brengt in deze vergaderingen geen stem uit.  
+a)De President van de Bank is ambtshalve President van de Associatie. De President is Voorzitter van de bewindvoerders van de Associatie, maar heeft, met uitzondering van een beslissende stem ingeval van staking der stemmen, geen stemrecht. Hij mag aan vergaderingen van de Raad van Bestuur deelnemen maar brengt in deze vergaderingen geen stem uit.
 
-b) De President is het hoofd van het personeel van de Associatie. Op aanwijzing van de bewindvoerders leidt hij de dagelijkse werkzaamheden van de Associatie. Hij is onder hun algemeen toezicht verantwoordelijk voor de organisatie, de benoeming en het ontslag van de ambtenaren en het personeel. Voor zover doenlijk worden de ambtenaren en het personeel van de Bank tot ambtenaren en personeel in gelijktijdige dienst der Associatie benoemd.  
+b)De President is het hoofd van het personeel van de Associatie. Op aanwijzing van de bewindvoerders leidt hij de dagelijkse werkzaamheden van de Associatie. Hij is onder hun algemeen toezicht verantwoordelijk voor de organisatie, de benoeming en het ontslag van de ambtenaren en het personeel. Voor zover doenlijk worden de ambtenaren en het personeel van de Bank tot ambtenaren en personeel in gelijktijdige dienst der Associatie benoemd.
 
-c) De President, de ambtenaren en het personeel van de Associatie dienen in de uitoefening van hun functies uitsluitend de Associatie en geen enkel ander gezag. Ieder lid van de Associatie is verplicht de internationale aard van deze dienstverhouding te eerbiedigen en zich te onthouden van alle pogingen om hen in de uitoefening van hun functie te beïnvloeden.  
+c)De President, de ambtenaren en het personeel van de Associatie dienen in de uitoefening van hun functies uitsluitend de Associatie en geen enkel ander gezag. Ieder lid van de Associatie is verplicht de internationale aard van deze dienstverhouding te eerbiedigen en zich te onthouden van alle pogingen om hen in de uitoefening van hun functie te beïnvloeden.
 
-d) Met inachtneming van het overwegend belang gelegen in het verkrijgen van een zo hoog mogelijke norm van doeltreffendheid en vakkundigheid, houdt de President bij de benoeming van de ambtenaren en het personeel naar behoren rekening met het belang, het personeel op een zo breed mogelijke geografische basis aan te trekken.   
+d)Met inachtneming van het overwegend belang gelegen in het verkrijgen van een zo hoog mogelijke norm van doeltreffendheid en vakkundigheid, houdt de President bij de benoeming van de ambtenaren en het personeel naar behoren rekening met het belang, het personeel op een zo breed mogelijke geografische basis aan te trekken.
 ###Afdeling 6
 
 ### *Verhouding tot de Bank* 
 
-a) De Associatie vormt een eenheid die geheel apart staat van de Bank en de middelen van de Associatie worden geheel van die van de Bank gescheiden gehouden. Het is de Associatie niet toegestaan van of aan de Bank te lenen, maar dit sluit niet uit dat de Associatie in haar financieringswerkzaamheden niet benodigde middelen in schuldpapieren van de Bank belegt.  
+a)De Associatie vormt een eenheid die geheel apart staat van de Bank en de middelen van de Associatie worden geheel van die van de Bank gescheiden gehouden. Het is de Associatie niet toegestaan van of aan de Bank te lenen, maar dit sluit niet uit dat de Associatie in haar financieringswerkzaamheden niet benodigde middelen in schuldpapieren van de Bank belegt.
 
-b) De Associatie kan regelingen treffen met de Bank met betrekking tot faciliteiten, personeel en diensten en met betrekking tot vergoeding van administratieve onkosten welke in eerste aanleg door de ene organisatie ten behoeve van de andere betaald zijn.  
+b)De Associatie kan regelingen treffen met de Bank met betrekking tot faciliteiten, personeel en diensten en met betrekking tot vergoeding van administratieve onkosten welke in eerste aanleg door de ene organisatie ten behoeve van de andere betaald zijn.
 
-c) Geen bepaling van deze Overeenkomst stelt de Associatie aansprakelijk voor de handelingen of verbintenissen van de Bank, of stelt de Bank aansprakelijk voor de handelingen of verbintenissen van de Associatie.   
+c)Geen bepaling van deze Overeenkomst stelt de Associatie aansprakelijk voor de handelingen of verbintenissen van de Bank, of stelt de Bank aansprakelijk voor de handelingen of verbintenissen van de Associatie. 
 ###Afdeling 7
 
 ### *Betrekkingen met andere internationale instellingen* 
@@ -857,16 +856,16 @@ Ieder lid wijst een passende instantie aan, waarmee de Associatie in verbinding 
 
 ### *Publikatie van verslagen en het verstrekken van inlichtingen* 
 
-a) De Associatie publiceert een jaarverslag dat de door accountants geverifieerde jaarrekening bevat en verstrekt met passende tussenpozen aan haar leden een beknopt overzicht van haar financiële positie en van de resultaten van haar werkzaamheden.  
+a)De Associatie publiceert een jaarverslag dat de door accountants geverifieerde jaarrekening bevat en verstrekt met passende tussenpozen aan haar leden een beknopt overzicht van haar financiële positie en van de resultaten van haar werkzaamheden.
 
-b) De Associatie kan zodanige andere verslagen publiceren als zij voor de vervulling van haar doelstellingen wenselijk acht.  
+b)De Associatie kan zodanige andere verslagen publiceren als zij voor de vervulling van haar doelstellingen wenselijk acht.
 
-c) Afschriften van alle verslagen, overzichten en publikaties welke krachtens deze afdeling worden uitgegeven, worden aan de leden verstrekt.   
+c)Afschriften van alle verslagen, overzichten en publikaties welke krachtens deze afdeling worden uitgegeven, worden aan de leden verstrekt.
 ###Afdeling 12
 
 ### *Beschikking over het zuiver inkomen* 
 
-De Raad van Bestuur beslist van tijd tot tijd over de beschikking over het zuiver inkomen der Associatie met inachtneming van de nodige voorzieningen voor reserveringen en onvoorziene omstandigheden.  
+De Raad van Bestuur beslist van tijd tot tijd over de beschikking over het zuiver inkomen der Associatie met inachtneming van de nodige voorzieningen voor reserveringen en onvoorziene omstandigheden.
 
 ### Artikel  VII  
 
@@ -886,43 +885,43 @@ a) Indien een lid enige verplichting tegenover de Associatie niet nakomt, kan de
 b) Zolang het lid geschorst is, is het niet bevoegd enig recht uit hoofde van deze Overeenkomst uit te oefenen, behalve het recht van opzegging, maar het lid blijft aan alle verplichtingen gebonden.   
 ###Afdeling 3
 
-*Schorsing of beëindiging van het lidmaatschap van de Bank*  Ieder lid dat geschorst is als lid van de Bank, of ophoudt lid van de Bank te zijn, wordt automatisch als lid van de Associatie geschorst of houdt op lid van de Associatie te zijn, al naar het geval zich voordoet. 
+*Schorsing of beëindiging van het lidmaatschap van de Bank* Ieder lid dat geschorst is als lid van de Bank, of ophoudt lid van de Bank te zijn, wordt automatisch als lid van de Associatie geschorst of houdt op lid van de Associatie te zijn, al naar het geval zich voordoet.
 ###Afdeling 4
 
-### *Rechten en verplichtingen van regeringen die ophouden lid te zijn* 
+###*Rechten en verplichtingen van regeringen die ophouden lid te zijn* 
 
-a) Indien een regering ophoudt lid te zijn heeft zij geen rechten krachtens deze Overeenkomst met uitzondering van die vervat in deze afdeling en in artikel X c), maar zij blijft voor zover in deze afdeling niet anders wordt bepaald, aansprakelijk voor alle door haar tegenover de Associatie als lid, debiteur, garant of anderszins aangegane financiële verplichtingen.  
+a)Indien een regering ophoudt lid te zijn heeft zij geen rechten krachtens deze Overeenkomst met uitzondering van die vervat in deze afdeling en in artikel X c), maar zij blijft voor zover in deze afdeling niet anders wordt bepaald, aansprakelijk voor alle door haar tegenover de Associatie als lid, debiteur, garant of anderszins aangegane financiële verplichtingen.
 
-b) Indien een regering ophoudt lid te zijn gaan de Associatie en de regering tot een vereffening van hun financiële betrekkingen over. Als onderdeel van deze vereffening kunnen de Associatie en de regering een regeling treffen inzake de aan de regering te betalen bedragen ter zake van haar bijdrage en inzake het tijdstip waarop en de valuta's waarin de betaling zal geschieden. In dit artikel wordt met betrekking tot de regering van een lid de term „bijdrage” geacht zowel de eerste als ook aanvullende bijdragen van die regering te omvatten.  
+b)Indien een regering ophoudt lid te zijn gaan de Associatie en de regering tot een vereffening van hun financiële betrekkingen over. Als onderdeel van deze vereffening kunnen de Associatie en de regering een regeling treffen inzake de aan de regering te betalen bedragen ter zake van haar bijdrage en inzake het tijdstip waarop en de valuta's waarin de betaling zal geschieden. In dit artikel wordt met betrekking tot de regering van een lid de term „bijdrage” geacht zowel de eerste als ook aanvullende bijdragen van die regering te omvatten.
 
-c) Indien binnen zes maanden na de datum waarop de regering ophoudt lid te zijn of op een ander door de Associatie en de regering overeen te komen tijdstip geen regeling tot stand is gekomen, gelden de volgende bepalingen: 
+c)Indien binnen zes maanden na de datum waarop de regering ophoudt lid te zijn of op een ander door de Associatie en de regering overeen te komen tijdstip geen regeling tot stand is gekomen, gelden de volgende bepalingen:
 
-i) De regering wordt ontslagen van alle verdere aansprakelijkheid tegenover de Associatie terzake van haar bijdrage, behalve dat zij verplicht is aan de Associatie onmiddellijk alle door haar verschuldigde en op de datum waarop zij ophield lid te zijn nog onbetaalde bedragen te betalen, welke naar de mening van de Associatie door haar benodigd zijn om haar op die datum bestaande, in het kader van haar financieringswerkzaamheden gedane, toezeggingen gestand te kunnen doen.  
+i)De regering wordt ontslagen van alle verdere aansprakelijkheid tegenover de Associatie terzake van haar bijdrage, behalve dat zij verplicht is aan de Associatie onmiddellijk alle door haar verschuldigde en op de datum waarop zij ophield lid te zijn nog onbetaalde bedragen te betalen, welke naar de mening van de Associatie door haar benodigd zijn om haar op die datum bestaande, in het kader van haar financieringswerkzaamheden gedane, toezeggingen gestand te kunnen doen.
 
-ii) De Associatie betaalt aan de regering de door haar terzake van haar bijdrage betaalde gelden terug of de daaruit als terugbetaalde hoofdsommen voortgekomen gelden die zich in het bezit van de Associatie bevinden op de datum waarop de regering ophield lid te zijn, voorzover deze gelden naar de mening van de Associatie door haar niet benodigd zijn om haar op die datum bestaande, in het kader van haar financieringswerkzaamheden gedane, toezeggingen gestand te kunnen doen.  
+ii)De Associatie betaalt aan de regering de door haar terzake van haar bijdrage betaalde gelden terug of de daaruit als terugbetaalde hoofdsommen voortgekomen gelden die zich in het bezit van de Associatie bevinden op de datum waarop de regering ophield lid te zijn, voorzover deze gelden naar de mening van de Associatie door haar niet benodigd zijn om haar op die datum bestaande, in het kader van haar financieringswerkzaamheden gedane, toezeggingen gestand te kunnen doen.
 
-iii) De Associatie betaalt aan de regering een evenredig deel van alle terugbetaalde hoofdsommen die door de Associatie ontvangen zijn na de datum waarop de regering ophield lid te zijn, uit hoofde van voor die datum verstrekte leningen, met uitzondering van leningen verstrekt uit aanvullende middelen die aan de Associatie verschaft zijn krachtens regelingen welke bijzondere afwikkelingsrechten voorschrijven. Dit aandeel bedraagt een deel van de totale hoofdsom dezer leningen, dat bepaald wordt door de verhouding tussen het totale door de regering ter zake van haar bijdrage betaalde, en aan haar niet ingevolge de bovenvermelde paragraaf ii) teruggestorte, bedrag, en het totale door alle leden ter zake van hun bijdragen betaalde bedrag, dat gebruikt is of naar de mening van de Associatie door haar benodigd zal zijn teneinde haar op de datum waarop de regering ophield lid te zijn bestaande, in het kader van haar financieringswerkzaamheden gedane, toezeggingen gestand te kunnen doen. Deze betaling door de Associatie geschiedt in termijnen naarmate de terugbetaalde hoofdsommen door haar ontvangen worden maar niet meer dan één keer per jaar. Deze termijnen worden betaald in de door de Associatie ontvangen valuta's, maar de Associatie kan naar verkiezing in de valuta van de betrokken regering betalen.  
+iii)De Associatie betaalt aan de regering een evenredig deel van alle terugbetaalde hoofdsommen die door de Associatie ontvangen zijn na de datum waarop de regering ophield lid te zijn, uit hoofde van voor die datum verstrekte leningen, met uitzondering van leningen verstrekt uit aanvullende middelen die aan de Associatie verschaft zijn krachtens regelingen welke bijzondere afwikkelingsrechten voorschrijven. Dit aandeel bedraagt een deel van de totale hoofdsom dezer leningen, dat bepaald wordt door de verhouding tussen het totale door de regering ter zake van haar bijdrage betaalde, en aan haar niet ingevolge de bovenvermelde paragraaf ii) teruggestorte, bedrag, en het totale door alle leden ter zake van hun bijdragen betaalde bedrag, dat gebruikt is of naar de mening van de Associatie door haar benodigd zal zijn teneinde haar op de datum waarop de regering ophield lid te zijn bestaande, in het kader van haar financieringswerkzaamheden gedane, toezeggingen gestand te kunnen doen. Deze betaling door de Associatie geschiedt in termijnen naarmate de terugbetaalde hoofdsommen door haar ontvangen worden maar niet meer dan één keer per jaar. Deze termijnen worden betaald in de door de Associatie ontvangen valuta's, maar de Associatie kan naar verkiezing in de valuta van de betrokken regering betalen.
 
-iv) Een bedrag dat aan een regering ter zake van haar bijdrage is verschuldigd kan ingehouden worden zo lang die regering, of de regering van een gebiedsdeel waar deze Overeenkomst van toepassing is of enig staatkundig onderdeel of enige instelling van een hunner als debiteur of garant jegens de Associatie aansprakelijk blijft, en dit bedrag kan naar verkiezing van de Associatie verrekend worden met een dergelijke verplichting wanneer deze opeisbaar wordt.  
+iv)Een bedrag dat aan een regering ter zake van haar bijdrage is verschuldigd kan ingehouden worden zo lang die regering, of de regering van een gebiedsdeel waar deze Overeenkomst van toepassing is of enig staatkundig onderdeel of enige instelling van een hunner als debiteur of garant jegens de Associatie aansprakelijk blijft, en dit bedrag kan naar verkiezing van de Associatie verrekend worden met een dergelijke verplichting wanneer deze opeisbaar wordt.
 
-v) In geen geval is een regering krachtens deze paragraaf c) gerechtigd in totaal meer te ontvangen dan het kleinste van de twee volgende bedragen: a) het bedrag door de regering ter zake van haar bijdrage betaald, of b) een deel van het volgens de boeken van de Associatie berekende zuivere vermogen van de Associatie op de dag waarop de regering ophield lid te zijn, te bepalen door de verhouding tussen de bijdrage van de regering en het totale bedrag van de bijdragen van alle leden.  
+v)In geen geval is een regering krachtens deze paragraaf c) gerechtigd in totaal meer te ontvangen dan het kleinste van de twee volgende bedragen: a) het bedrag door de regering ter zake van haar bijdrage betaald, of b) een deel van het volgens de boeken van de Associatie berekende zuivere vermogen van de Associatie op de dag waarop de regering ophield lid te zijn, te bepalen door de verhouding tussen de bijdrage van de regering en het totale bedrag van de bijdragen van alle leden.
 
-vi) Alle krachtens deze paragraaf te maken berekeningen geschieden op een door de Associatie in redelijkheid te bepalen grondslag.    
+vi)Alle krachtens deze paragraaf te maken berekeningen geschieden op een door de Associatie in redelijkheid te bepalen grondslag.
 
-d) In geen geval wordt enig aan een regering krachtens deze afdeling verschuldigd bedrag eerder uitbetaald dan zes maanden na de datum waarop zij ophield lid te zijn. Indien de Associatie binnen zes maanden na de datum waarop een regering ophoudt lid te zijn haar werkzaamheden overeenkomstig afdeling 5 van dit artikel opschort, worden alle rechten van die regering door de bepalingen van afdeling 5 bepaald en wordt zij voor de toepassing van afdeling 5 als lid van de Associatie beschouwd, met dien verstande dat zij geen stemrecht heeft.   
+d)In geen geval wordt enig aan een regering krachtens deze afdeling verschuldigd bedrag eerder uitbetaald dan zes maanden na de datum waarop zij ophield lid te zijn. Indien de Associatie binnen zes maanden na de datum waarop een regering ophoudt lid te zijn haar werkzaamheden overeenkomstig afdeling 5 van dit artikel opschort, worden alle rechten van die regering door de bepalingen van afdeling 5 bepaald en wordt zij voor de toepassing van afdeling 5 als lid van de Associatie beschouwd, met dien verstande dat zij geen stemrecht heeft.
 ###Afdeling 5
 
 ### *Opschorting van werkzaamheden en vereffening van verplichtingen* 
 
-a) De Associatie kan bij besluit van de meerderheid van de Bestuurders die de meerderheid van het totale stemrecht uitoefenen, voorgoed haar werkzaamheden opschorten. Na een dergelijk besluit staakt de Associatie onmiddellijk alle werkzaamheden, behalve die welke verband houden met het ordelijk te gelde maken, in stand houden en beschermen van haar activa en de vereffening van haar verplichtingen. Tot het tijdstip van de uiteindelijke vereffening van die verplichtingen en de uitkering van die activa blijft de Associatie voortbestaan en blijven alle wederzijdse rechten en verplichtingen van de Associatie en haar leden ingevolge deze Overeenkomst onverminderd van kracht, met dien verstande dat geen lid wordt geschorst of zijn lidmaatschap kan opzeggen en dat geen uitkering aan de leden wordt gedaan, behalve die welke in deze afdeling zijn geregeld.  
+a)De Associatie kan bij besluit van de meerderheid van de Bestuurders die de meerderheid van het totale stemrecht uitoefenen, voorgoed haar werkzaamheden opschorten. Na een dergelijk besluit staakt de Associatie onmiddellijk alle werkzaamheden, behalve die welke verband houden met het ordelijk te gelde maken, in stand houden en beschermen van haar activa en de vereffening van haar verplichtingen. Tot het tijdstip van de uiteindelijke vereffening van die verplichtingen en de uitkering van die activa blijft de Associatie voortbestaan en blijven alle wederzijdse rechten en verplichtingen van de Associatie en haar leden ingevolge deze Overeenkomst onverminderd van kracht, met dien verstande dat geen lid wordt geschorst of zijn lidmaatschap kan opzeggen en dat geen uitkering aan de leden wordt gedaan, behalve die welke in deze afdeling zijn geregeld.
 
-b) Geen uitkering wordt aan de leden gedaan ter zake van hun bijdragen voordat alle verplichtingen aan crediteuren zijn voldaan of voorzieningen daartoe zijn getroffen en voordat een meerderheid van de bestuurders die een meerderheid van het totale stemrecht uitoefenen, besloten heeft tot een zodanige uitkering over te gaan.  
+b)Geen uitkering wordt aan de leden gedaan ter zake van hun bijdragen voordat alle verplichtingen aan crediteuren zijn voldaan of voorzieningen daartoe zijn getroffen en voordat een meerderheid van de bestuurders die een meerderheid van het totale stemrecht uitoefenen, besloten heeft tot een zodanige uitkering over te gaan.
 
-c) Met inachtneming van het voorgaande, en van bijzondere regelingen getroffen ter zake van de beschikking over aanvullende middelen in verband met de verstrekking daarvan aan de Associatie, keert de Associatie haar activa aan de leden pro rata uit, in verhouding tot de door hen ter zake van hun bijdragen betaalde bedragen. Iedere uitkering aan een lid ingevolge de voorafgaande bepalingen van deze paragraaf c) vindt slechts plaats na een voorafgaande vereffening van alle uitstaande vorderingen van de Associatie op het lid. Een zodanige uitkering wordt verricht op zodanige tijdstippen, in zodanige valuta's en hetzij in contanten, hetzij in andere activa, op de wijze als de Associatie billijk en redelijk oordeelt. De uitkering behoeft wat betreft de aard van de uitgekeerde vermogensbestanddelen of de valuta's waarin zij zijn uitgedrukt niet voor alle leden gelijk te zijn.  
+c)Met inachtneming van het voorgaande, en van bijzondere regelingen getroffen ter zake van de beschikking over aanvullende middelen in verband met de verstrekking daarvan aan de Associatie, keert de Associatie haar activa aan de leden pro rata uit, in verhouding tot de door hen ter zake van hun bijdragen betaalde bedragen. Iedere uitkering aan een lid ingevolge de voorafgaande bepalingen van deze paragraaf c) vindt slechts plaats na een voorafgaande vereffening van alle uitstaande vorderingen van de Associatie op het lid. Een zodanige uitkering wordt verricht op zodanige tijdstippen, in zodanige valuta's en hetzij in contanten, hetzij in andere activa, op de wijze als de Associatie billijk en redelijk oordeelt. De uitkering behoeft wat betreft de aard van de uitgekeerde vermogensbestanddelen of de valuta's waarin zij zijn uitgedrukt niet voor alle leden gelijk te zijn.
 
-d) Ieder lid dat door de Associatie ingevolge deze afdeling of afdeling 4 verdeelde activa ontvangt, geniet ten aanzien daarvan dezelfde rechten als de Associatie voor hun verdeling genoot.    
+d)Ieder lid dat door de Associatie ingevolge deze afdeling of afdeling 4 verdeelde activa ontvangt, geniet ten aanzien daarvan dezelfde rechten als de Associatie voor hun verdeling genoot.
 
-### Artikel  VIII  
+### Artikel  VIII 
 
 ####Rechtspositie, immuniteiten en voorrechten
 
@@ -937,16 +936,16 @@ Teneinde de Associatie in staat te stellen de aan haar toevertrouwde functies te
 
 De Associatie bezit volledige rechtspersoonlijkheid en, in het bijzonder, de bevoegdheid: 
 
-i) overeenkomsten af te sluiten;  
+i)overeenkomsten af te sluiten;
 
-ii) roerende en onroerende goederen te verkrijgen of te vervreemden;  
+ii) roerende en onroerende goederen te verkrijgen of te vervreemden; 
 
-iii) rechtsgedingen aanhangig te maken.   
+iii)rechtsgedingen aanhangig te maken.
 ###Afdeling 3
 
 ### *Positie van de Associatie ten aanzien van gerechtelijke vervolging* 
 
-Processen tegen de Associatie kunnen uitsluitend aanhangig gemaakt worden voor een bevoegde rechter in de gebiedsdelen van een lid waarin de Associatie een kantoor heeft, terzake domicilie heeft gekozen of waardepapieren heeft uitgegeven of gegarandeerd. Er mogen echter geen processen tegen haar aanhangig worden gemaakt door leden of personen die namens leden optreden of hun vorderingen aan leden ontlenen. De eigendommen en andere activa der Associatie, waar deze zich ook bevinden en wie deze ook in bezit heeft, zijn vrij van iedere vorm van inbeslagname, beslaglegging of executie alvorens een eindvonnis tegen de Associatie is uitgesproken. 
+Processen tegen de Associatie kunnen uitsluitend aanhangig gemaakt worden voor een bevoegde rechter in de gebiedsdelen van een lid waarin de Associatie een kantoor heeft, terzake domicilie heeft gekozen of waardepapieren heeft uitgegeven of gegarandeerd.Er mogen echter geen processen tegen haar aanhangig worden gemaakt door leden of personen die namens leden optreden of hun vorderingen aan leden ontlenen.De eigendommen en andere activa der Associatie, waar deze zich ook bevinden en wie deze ook in bezit heeft, zijn vrij van iedere vorm van inbeslagname, beslaglegging of executie alvorens een eindvonnis tegen de Associatie is uitgesproken.
 ###Afdeling 4
 
 ### *Vrijstelling der activa van inbeslagname* 
@@ -954,62 +953,62 @@ Processen tegen de Associatie kunnen uitsluitend aanhangig gemaakt worden voor e
 Eigendommen en andere activa van de Associatie, waar deze zich ook bevinden en wie deze ook in bezit heeft, zijn vrij van visitatie, vordering, verbeurdverklaring, onteigening of iedere andere vorm van beslaglegging op last van de uitvoerende of wetgevende macht. 
 ###Afdeling 5
 
-### *Onschendbaarheid der archieven* 
+###*Onschendbaarheid der archieven* 
 
-De archieven der Associatie zijn onschendbaar. 
+De archieven der Associatie zijn onschendbaar.
 ###Afdeling 6
 
-### *Vrijstelling der activa van beperkende bepalingen* 
+###*Vrijstelling der activa van beperkende bepalingen* 
 
-Voor zover zulks voor de uitvoering der in deze Overeenkomst vermelde werkzaamheden nodig is, en behoudens de bepalingen van deze Overeenkomst, zijn alle eigendommen en andere activa van de Associatie vrijgesteld van beperkingen, voorschriften, controles en moratoria van welke aard ook. 
+Voor zover zulks voor de uitvoering der in deze Overeenkomst vermelde werkzaamheden nodig is, en behoudens de bepalingen van deze Overeenkomst, zijn alle eigendommen en andere activa van de Associatie vrijgesteld van beperkingen, voorschriften, controles en moratoria van welke aard ook.
 ###Afdeling 7
 
-### *Bevoorrechte behandeling van mededelingen* 
+###*Bevoorrechte behandeling van mededelingen* 
 
-Door ieder lid wordt aan de officiële mededelingen van de Associatie dezelfde behandeling toegekend als aan de officiële mededelingen van andere leden. 
+Door ieder lid wordt aan de officiële mededelingen van de Associatie dezelfde behandeling toegekend als aan de officiële mededelingen van andere leden.
 ###Afdeling 8
 
-### *Immuniteiten en voorrechten van ambtenaren en employés* 
+###*Immuniteiten en voorrechten van ambtenaren en employés* 
 
-Alle bestuurders, bewindvoerders plaatsvervangers, ambtenaren en employés van de Associatie: 
+Alle bestuurders, bewindvoerders plaatsvervangers, ambtenaren en employés van de Associatie:
 
-i) genieten onschendbaarheid ten aanzien van rechtsvervolging ter zake van handelingen die zij uit hoofde van hun ambt hebben verricht, tenzij de Associatie van deze onschendbaarheid afstand doet;  
+i)genieten onschendbaarheid ten aanzien van rechtsvervolging ter zake van handelingen die zij uit hoofde van hun ambt hebben verricht, tenzij de Associatie van deze onschendbaarheid afstand doet;
 
-ii) genieten, voorzover zij niet de plaatselijke nationaliteit bezitten, dezelfde onschendbaarheid ten aanzien van immigratiebeperkingen, registratieplicht voor vreemdelingen en nationale dienstplicht en dezelfde faciliteiten ten aanzien van deviezenbeperkingen, als door de leden aan de vertegenwoordigers, ambtenaren en employés van vergelijkbare rang in dienst van andere leden worden toegekend;  
+ii)genieten, voorzover zij niet de plaatselijke nationaliteit bezitten, dezelfde onschendbaarheid ten aanzien van immigratiebeperkingen, registratieplicht voor vreemdelingen en nationale dienstplicht en dezelfde faciliteiten ten aanzien van deviezenbeperkingen, als door de leden aan de vertegenwoordigers, ambtenaren en employés van vergelijkbare rang in dienst van andere leden worden toegekend;
 
-iii) genieten dezelfde behandeling ten aanzien van reisfaciliteiten, als door de leden aan de vertegenwoordigers, ambtenaren en employés van vergelijkbare rang, in dienst van andere leden, wordt toegekend.   
+iii)genieten dezelfde behandeling ten aanzien van reisfaciliteiten, als door de leden aan de vertegenwoordigers, ambtenaren en employés van vergelijkbare rang, in dienst van andere leden, wordt toegekend.
 ###Afdeling 9
 
-### *Vrijstelling van belasting* 
+###*Vrijstelling van belasting* 
 
-a) De Associatie, haar activa, eigendommen en inkomsten en haar werkzaamheden en transacties waartoe zij door deze Overeenkomst gemachtigd is, genieten vrijdom van alle belastingen en alle douanerechten. De Associatie is eveneens vrij van verantwoordelijkheid voor de inning of betaling van enige belasting of heffing.  
+a)De Associatie, haar activa, eigendommen en inkomsten en haar werkzaamheden en transacties waartoe zij door deze Overeenkomst gemachtigd is, genieten vrijdom van alle belastingen en alle douanerechten. De Associatie is eveneens vrij van verantwoordelijkheid voor de inning of betaling van enige belasting of heffing.
 
-b) Er wordt geen belasting geheven op of ter zake van salarissen en vergoedingen door de Associatie betaald aan bewindvoerders, plaatsvervangers, ambtenaren en employés van de Associatie die geen staatsburger of onderdaan zijn van het land binnen hetwelk de belasting wordt geheven.  
+b)Er wordt geen belasting geheven op of ter zake van salarissen en vergoedingen door de Associatie betaald aan bewindvoerders, plaatsvervangers, ambtenaren en employés van de Associatie die geen staatsburger of onderdaan zijn van het land binnen hetwelk de belasting wordt geheven.
 
-c) Er wordt geen belasting van welke aard ook geheven op door de Associatie uitgegeven schuldbekentenissen of andere waardepapieren (met inbegrip van enig dividend of rente daarop), in wiens landen zij zich ook bevinden: 
+c)Er wordt geen belasting van welke aard ook geheven op door de Associatie uitgegeven schuldbekentenissen of andere waardepapieren (met inbegrip van enig dividend of rente daarop), in wiens landen zij zich ook bevinden:
 
-i) indien die belasting een onderscheid ten nadele van zulke schuldbekentenissen of andere waardepapieren maakt uitsluitend op grond van het feit dat zij door de Associatie zijn uitgegeven; of  
+i)indien die belasting een onderscheid ten nadele van zulke schuldbekentenissen of andere waardepapieren maakt uitsluitend op grond van het feit dat zij door de Associatie zijn uitgegeven; of
 
-ii) indien de enige rechtsgrond voor die belasting de plaats is waar, of de valuta waarin, de papieren zijn uitgegeven, betaalbaar gesteld of betaald zijn, of de plaats waar een kantoor der Associatie is gevestigd of waar zij zaken doet.    
+ii)indien de enige rechtsgrond voor die belasting de plaats is waar, of de valuta waarin, de papieren zijn uitgegeven, betaalbaar gesteld of betaald zijn, of de plaats waar een kantoor der Associatie is gevestigd of waar zij zaken doet.
 
-d) Er wordt geen belasting van welke aard ook geheven op door de Associatie gegarandeerde schuldbekentenissen of andere waardepapieren (met inbegrip van enig dividend of interest daarop), in wiens handen zij zich ook bevinden: 
+d)Er wordt geen belasting van welke aard ook geheven op door de Associatie gegarandeerde schuldbekentenissen of andere waardepapieren (met inbegrip van enig dividend of interest daarop), in wiens handen zij zich ook bevinden:
 
-i) indien die belasting een onderscheid ten nadele van zulke schuldbekentenissen of andere waardepapieren maakt uitsluitend op grond van het feit dat zij door de Associatie zijn gegarandeerd; of  
+i)indien die belasting een onderscheid ten nadele van zulke schuldbekentenissen of andere waardepapieren maakt uitsluitend op grond van het feit dat zij door de Associatie zijn gegarandeerd; of
 
-ii) indien de enige rechtsgrond voor die belasting de plaats is waar een kantoor der Associatie is gevestigd of waar zij zaken doet.     
+ii)indien de enige rechtsgrond voor die belasting de plaats is waar een kantoor der Associatie is gevestigd of waar zij zaken doet.
 ###Afdeling 10
 
-### *Toepassing van het artikel* 
+###*Toepassing van het artikel* 
 
-Ieder lid onderneemt in zijn gebiedsdelen de nodige stappen teneinde de in dit artikel vervatte beginselen in zijn eigen wetsbepalingen tot gelding te brengen en stelt de Associatie in bijzonderheden van de genomen maatregelen in kennis.  
+Ieder lid onderneemt in zijn gebiedsdelen de nodige stappen teneinde de in dit artikel vervatte beginselen in zijn eigen wetsbepalingen tot gelding te brengen en stelt de Associatie in bijzonderheden van de genomen maatregelen in kennis.
 
 ### Artikel  IX  
 
 ####Wijzigingen
 
-a).  Ieder voorstel tot wijziging van deze Overeenkomst wordt, ongeacht of het afkomstig is van een lid, een bestuurder of de bewindvoerders, ingediend bij de voorzitter van de Raad van Bestuur, die het voorstel aan de Raad voorlegt. Indien de voorgestelde wijziging door de Raad van Bestuur wordt goedgekeurd, vraagt de Associatie, bij rondschrijven of per telegram, aan alle leden of zij de voorgestelde wijziging aannemen. Wanneer drie-vijfde van de leden, die vier-vijfde van het totale stemrecht uitoefenen, de voorgestelde wijziging hebben aangenomen, bericht de Associatie dit door een officiële mededeling aan alle leden.   
-b).  Niettegenstaande de bepalingen van paragraaf a), is de goedkeuring van alle leden vereist in geval van een amendement dat wijzigingen aanbrengt in i) het recht om uit de Associatie te treden, vervat in artikel VII, afdeling 1; ii) het recht verzekerd door artikel III, afdeling 1 c); iii) de beperking der aansprakelijkheid vervat in artikel II, afdeling 3.   
-c).  Wijzigingen worden voor alle leden drie maanden na de datum van de officiële mededeling van kracht, tenzij in het rondschrijven of het telegram een kortere termijn bepaald Is.   
+a).  Ieder voorstel tot wijziging van deze Overeenkomst wordt, ongeacht of het afkomstig is van een lid, een bestuurder of de bewindvoerders, ingediend bij de voorzitter van de Raad van Bestuur, die het voorstel aan de Raad voorlegt. Indien de voorgestelde wijziging door de Raad van Bestuur wordt goedgekeurd, vraagt de Associatie, bij rondschrijven of per telegram, aan alle leden of zij de voorgestelde wijziging aannemen. Wanneer drie-vijfde van de leden, die vier-vijfde van het totale stemrecht uitoefenen, de voorgestelde wijziging hebben aangenomen, bericht de Associatie dit door een officiële mededeling aan alle leden.  
+b). Niettegenstaande de bepalingen van paragraaf a), is de goedkeuring van alle leden vereist in geval van een amendement dat wijzigingen aanbrengt in i) het recht om uit de Associatie te treden, vervat in artikel VII, afdeling 1; ii) het recht verzekerd door artikel III, afdeling 1 c); iii) de beperking der aansprakelijkheid vervat in artikel II, afdeling 3.
+c). Wijzigingen worden voor alle leden drie maanden na de datum van de officiële mededeling van kracht, tenzij in het rondschrijven of het telegram een kortere termijn bepaald Is.
 
 ### Artikel  X  
 
@@ -1017,7 +1016,7 @@ c).  Wijzigingen worden voor alle leden drie maanden na de datum van de officië
 
 a).  Iedere vraag omtrent de uitlegging der bepalingen van deze Overeenkomst die zich voordoet tussen een lid en de Associatie of tussen leden van de Associatie onderling wordt aan de bewindvoerders ter beslissing voorgelegd. Indien de vraag in bijzondere mate een lid van de Associatie aangaat, dat niet gerechtigd is een bewindvoerder van de Bank te benoemen, heeft dit lid het recht zich te doen vertegenwoordigen overeenkomstig artikel VI, afdeling 4 g).   
 b).  In elk geval waarin de bewindvoerders ingevolge paragraaf a) een beslissing hebben genomen, kan een lid verzoeken, dat het geschilpunt wordt verwezen naar de Raad van Bestuur, welks beslissing bindend is. Hangende de uitslag van de verwijzing naar de Raad kan de Associatie, voor zover zij dit nodig acht, handelen op grond van de beslissing van de bewindvoerders.   
-c).  Wanneer een geschil ontstaat tussen de Associatie en een land, dat opgehouden heeft lid. te zijn, of tussen de Associatie en een lid na de staking der werkzaamheden van de Associatie, wordt een dergelijk geschil onderworpen aan arbitrage door een tribunaal van drie arbiters, waarvan er één door de Associatie benoemd wordt, een andere door het betrokken land, en een scheidsrechter, die, tenzij partijen anders overeenkomen, benoemd wordt door de President van het Internationale Gerechtshof of een andere autoriteit die daarvoor bij een door de Associatie aangenomen regeling aangewezen is. De scheidsrechter heeft de volledige bevoegdheid alle vragen betreffende de procedure te beslissen indien ter zake daarvan onenigheid tussen partijen bestaat.   
+c).  Wanneer een geschil ontstaat tussen de Associatie en een land, dat opgehouden heeft lid te zijn, of tussen de Associatie en een lid na de staking der werkzaamheden van de Associatie, wordt een dergelijk geschil onderworpen aan arbitrage door een tribunaal van drie arbiters, waarvan er één door de Associatie benoemd wordt, een andere door het betrokken land, en een scheidsrechter, die, tenzij partijen anders overeenkomen, benoemd wordt door de President van het Internationale Gerechtshof of een andere autoriteit die daarvoor bij een door de Associatie aangenomen regeling aangewezen is. De scheidsrechter heeft de volledige bevoegdheid alle vragen betreffende de procedure te beslissen indien ter zake daarvan onenigheid tussen partijen bestaat.  
 
 ### Artikel  XI  
 
@@ -1032,18 +1031,18 @@ Deze Overeenkomst treedt in werking, wanneer zij ondertekend is namens regeringe
 
 ### *Ondertekening* 
 
-a) Iedere regering namens welke deze Overeenkomst is ondertekend, legt bij de Bank een akte neder, waarin wordt verklaard, dat zij deze Overeenkomst heeft aanvaard in overeenstemming met haar wetgeving en alle nodige stappen heeft ondernomen, om in staat te zijn al haar verplichtingen die uit deze Overeenkomst voortvloeien, na te komen.  
+a)Iedere regering namens welke deze Overeenkomst is ondertekend, legt bij de Bank een akte neder, waarin wordt verklaard, dat zij deze Overeenkomst heeft aanvaard in overeenstemming met haar wetgeving en alle nodige stappen heeft ondernomen, om in staat te zijn al haar verplichtingen die uit deze Overeenkomst voortvloeien, na te komen.
 
 b) Iedere regering wordt lid van de Associatie met ingang van de datum waarop de hierboven onder a) vermelde akte namens haar is nedergelegd, met dien verstande dat geen regering lid wordt voordat deze Overeenkomst volgens afdeling 1 van dit artikel in werking treedt.  
 
-c) Deze Overeenkomst blijft tot de sluitingstijd der kantoren op 31 december 1960, ten hoofdkantore van de Bank, voor de regeringen van de in Tabel A genoemde staten ter ondertekening openstaan, met dien verstande dat, indien de Overeenkomst op die datum nog niet in werking is getreden, de bewindvoerders de periode tijdens welke deze Overeenkomst ter ondertekening zal openstaan met niet meer dan zes maanden kunnen verlengen.  
+c) Deze Overeenkomst blijft tot de sluitingstijd der kantoren op 31 december 1960, ten hoofdkantore van de Bank, voor de regeringen van de in Tabel A genoemde staten ter ondertekening openstaan, met dien verstande dat, indien de Overeenkomst op die datum nog niet in werking is getreden, de bewindvoerders de periode tijdens welke deze Overeenkomst ter ondertekening zal openstaan met niet meer dan zes maanden kunnen verlengen. 
 
-d) Nadat deze Overeenkomst in werking is getreden, staat zij ter ondertekening open voor de regering van elke staat welks lidmaatschap in overeenstemming met artikel II, afdeling 1 b) is goedgekeurd.   
+d)Nadat deze Overeenkomst in werking is getreden, staat zij ter ondertekening open voor de regering van elke staat welks lidmaatschap in overeenstemming met artikel II, afdeling 1 b) is goedgekeurd.
 ###Afdeling 3
 
 ### *Territoriale toepassing* 
 
-Door ondertekening van deze Overeenkomst aanvaardt iedere regering haar zowel voor zichzelf als voor alle gebiedsdelen voor welker internationale betrekkingen zij verantwoordelijk is, behalve voor die welke die regering door middel van een schriftelijke kennisgeving aan de Associatie heeft uitgesloten. 
+Door ondertekening van deze Overeenkomst aanvaardt iedere regering haar zowel voor zichzelf als voor alle gebiedsdelen voor welker internationale betrekkingen zij verantwoordelijk is, behalve voor die welke die regering door middel van een schriftelijke kennisgeving aan de Associatie heeft uitgesloten.
 ###Afdeling 4
 
 ### *Aanvang der werkzaamheden van de Associatie* 
@@ -1055,19 +1054,18 @@ b) De Associatie vangt haar werkzaamheden aan op de datum waarop die vergadering
 c) In afwachting van de eerste vergadering van de Raad van Bestuur, kunnen de bewindvoerders alle bevoegdheden van de Raad van Bestuur uitoefenen, met uitzondering van die welke krachtens deze Overeenkomst aan de Raad van Bestuur zijn voorbehouden.   
 ###Afdeling 5
 
-### *Registratie* 
+###*Registratie* 
 
-De Bank is gemachtigd deze Overeenkomst bij het secretariaat van de Verenigde Naties overeenkomstig artikel 102 van het Handvest van de Verenigde Naties en het ter uitvoering daarvan door de Algemene Vergadering goedgekeurde Reglement te registreren.  
+De Bank is gemachtigd deze Overeenkomst bij het secretariaat van de Verenigde Naties overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) en het ter uitvoering daarvan door de Algemene Vergadering goedgekeurde Reglement te registreren.
 
 GEDAAN te Washington, in een enkel exemplaar, dat blijft nedergelegd in het archief van de Internationale Bank voor Herstel en Ontwikkeling, die door haar hiernavolgende ondertekening te kennen geeft ermede in te stemmen dat zij als depothoudster van deze Overeenkomst optreedt, dat zij deze Overeenkomst bij het secretariaat van de Verenigde Naties zal registreren, en dat zij alle in Tabel A genoemde regeringen in kennis stelt van de datum van inwerkingtreding van deze Overeenkomst krachtens artikel XI, afdeling 1.  
 
-### Tabel  A  
+###Tabel A 
 
 ####— Eerste bijdragen
 
-(uitgedrukt in miljoenen U.S. dollars)  
+(uitgedrukt in miljoenen U.S. dollars)<sup>* Uitgedrukt in dollars van de Verenigde Staten van het op 1 januari 1960 geldende gewicht en gehalte. </sup> 
 
-<sup> *  Uitgedrukt in dollars van de Verenigde Staten van het op 1 januari 1960 geldende gewicht en gehalte.  </sup>   
 ###DEEL I
 
 | --- | --- | --- | --- | --- |
@@ -1076,11 +1074,11 @@ GEDAAN te Washington, in een enkel exemplaar, dat blijft nedergelegd in het arch
 | België . . . .  | 22,70  | Nederland . . . .  | 27,74  | --- |
 | Canada . . . .  | 37,83  | Noorwegen . . . .  | 6,72  | --- |
 | Denemarken . . . .  | 8,74  | Oostenrijk . . . .  | 5,04  | --- |
-| Duitsland . . . .  | 52,96  | Unie van Zuid-Afrika . . . .  | 10,09  | --- |
-| Finland . . . .  | 3,83  | Verenigd Koninkrijk . . . .  | 131,14  | --- |
-| Frankrijk . . . .  | 52,96  | Verenigde Staten . . . .  | 320,29  | --- |
-| Italië . . . .  | 18,16  | Zweden . . . .  | 10,09  | --- |
-| Japan . . . .  | 33,59  | --- | --- | 763,07  |
+| Duitsland . . . .  | 52,96  | Unie van Zuid-Afrika . . . .  | 10,09 | --- |
+| Finland . . . .  | 3,83  |Verenigd Koninkrijk . . . . |131,14 | --- |
+| Frankrijk . . . .  | 52,96  | Verenigde Staten . . . . | 320,29 | --- |
+| Italië . . . .  | 18,16  | Zweden . . . . | 10,09 | --- |
+| Japan . . . .  | 33,59  | --- | --- |763,07 |
 
 ###DEEL II
 
@@ -1097,20 +1095,20 @@ GEDAAN te Washington, in een enkel exemplaar, dat blijft nedergelegd in het arch
 | Columbia . . . .  | 3,53  | Pakistan . . . .  | 10,09  | --- |
 | Costa Rica . . . .  | 0,20  | Panama . . . .  | 0,02  | --- |
 | Cuba . . . .  | 4,71  | Paraguay . . . .  | 0,30  | --- |
-| Dominicaanse Republiek . . . .  | 0,40  | Peru . . . .  | 1,77  | --- |
-| Ecuador . . . .  | 0,65  | Philippijnen . . . .  | 5,04  | --- |
-| El Salvador . . . .  | 0,30  | Saoedi Arabië . . . .  | 3,70  | --- |
-| Ethiopië . . . .  | 0,50  | Soedan . . . .  | 1,01  | --- |
-| Ghana . . . .  | 2,36  | Spanje . . . .  | 10,09  | --- |
-| Griekenland . . . .  | 2,52  | Thailand . . . .  | 3,03  | --- |
-| Guatamala . . . .  | 0,40  | Tunesië . . . .  | 1,51  | --- |
-| Haïti . . . .  | 0,76  | Turkije . . . .  | 5,80  | --- |
-| Honduras . . . .  | 0,30  | Uruguay . . . .  | 1,06  | --- |
-| Ierland . . . .  | 3,03  | Venezuela . . . .  | 7,06  | --- |
-| India . . . .  | 40,35  | Verenigde Arabische Republiek . . . .  | 6,03  | --- |
+| Dominicaanse Republiek . . . .  | 0,40 | Peru . . . .  | 1,77  | --- |
+|Ecuador . . . . |0,65 | Philippijnen . . . .  | 5,04  | --- |
+| El Salvador . . . .  | 0,30 | Saoedi Arabië . . . .  | 3,70  | --- |
+| Ethiopië . . . .  | 0,50 | Soedan . . . .  | 1,01  | --- |
+| Ghana . . . .  | 2,36 | Spanje . . . .  | 10,09  | --- |
+| Griekenland . . . .  | 2,52 | Thailand . . . .  | 3,03  | --- |
+| Guatamala . . . . | 0,40 | Tunesië . . . .  | 1,51  | --- |
+| Haïti . . . .  | 0,76 | Turkije . . . .  | 5,80  | --- |
+| Honduras . . . .  | 0,30 | Uruguay . . . .  | 1,06  | --- |
+| Ierland . . . .  | 3,03 | Venezuela . . . .  | 7,06  | --- |
+| India . . . . | 40,35  | Verenigde Arabische Republiek . . . .  |6,03 | --- |
 | Indonesië . . . .  | 11,10  | Viet-Nam . . . .  | 1,51  | --- |
 | Irak . . . .  | 0,76  | Zuidslavië . . . .  | 4,04  | --- |
 | Iran . . . .  | 4,54  | --- | --- | --- |
-| Israël . . . .  | 1,68  | --- | --- | 236,93  |
-| IJsland . . . .  | 0,10  | TOTAAL . . . .  | --- | 1000,00  |
+| Israël . . . .  | 1,68  | --- | --- |236,93 |
+| IJsland . . . .  | 0,10  | TOTAAL . . . . | --- |1000,00 |
 
