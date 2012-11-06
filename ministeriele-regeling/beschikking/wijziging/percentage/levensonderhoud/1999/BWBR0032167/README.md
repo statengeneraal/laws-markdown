@@ -10,19 +10,19 @@ Besluit:
 
 ### Artikel  1  
 
-Het percentage, bedoeld in [artikel 402a, eerste lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), waarmede bedragen voor levensonderhoud met ingang van 1 januari 1999 worden verhoogd, wordt vastgesteld op 3,3.  
+Het percentage, bedoeld in [artikel 402a, eerste lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), waarmede bedragen voor levensonderhoud met ingang van 1 januari 1999 worden verhoogd, wordt vastgesteld op 3,3. 
 
 ### Artikel  2  
 
-Deze beschikking en de daarbij behorende toelichting worden bekend gemaakt in de Staatscourant.  
+Deze beschikking en de daarbij behorende toelichting worden bekend gemaakt in de Staatscourant. 
 
 ### Artikel  3  
 
-Deze beschikking kan worden aangehaald als: Beschikking wijziging percentage levensonderhoud 1999.  
+Deze beschikking kan worden aangehaald als: Beschikking wijziging percentage levensonderhoud 1999. 
 
 's-Gravenhage 
 3 november 1998    
 
 De 
-Staatssecretaris voornoemd, 
-M.J.Cohen    
+Staatssecretaris  voornoemd, 
+M.J. Cohen      
