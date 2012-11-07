@@ -15,28 +15,28 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  I  
 
-Wijzigt het Besluit bekostiging WPO.   
+Wijzigt het Besluit bekostiging WPO.
 
 ### Artikel  II  
 
-Wijzigt het Besluit bekostiging WEC.   
+Wijzigt het Besluit bekostiging WEC.
 
 ### Artikel  III  
 
-Wijzigt het Besluit leerlinggebonden financiering.   
+Wijzigt het Besluit leerlinggebonden financiering.
 
 ### Artikel  IV  
 
-Wijzigt het Onderwijskundig besluit WEC.   
+Wijzigt het Onderwijskundig besluit WEC.
 
 ### Artikel  V  
 
-1.  Onverminderd de [artikelen 39, derde en vierde lid](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), en [40, vijfde lid, van de Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) blijft een leerling die op de dag van inwerkingtreding van dit besluit is ingeschreven op de Rafaëlschool in Sint-Michielsgestel aan deze school ingeschreven tot en met vier schooljaren na inwerkingtreding van dit besluit indien de ouders van de leerling dat wensen.   
-2.  Vanaf de datum waarop de in het eerste lid bedoelde periode is verstreken, kan de inschrijving aan die school uitsluitend gehandhaafd blijven indien een commissie voor de indicatiestelling als bedoeld in [artikel 28c van de Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) heeft bepaald dat die leerling toelaatbaar is tot een onderwijssoort, die binnen die school wordt verzorgd dan wel dat die leerling toelaatbaar is tot het cluster, bedoeld in [artikel 2, vierde lid, onder b, van laatstgenoemde wet](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md).   
+1. Onverminderd de [artikelen 39, derde en vierde lid](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md), en [40, vijfde lid, van de Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) blijft een leerling die op de dag van inwerkingtreding van dit besluit is ingeschreven op de Rafaëlschool in Sint-Michielsgestel aan deze school ingeschreven tot en met vier schooljaren na inwerkingtreding van dit besluit indien de ouders van de leerling dat wensen.
+2. Vanaf de datum waarop de in het eerste lid bedoelde periode is verstreken, kan de inschrijving aan die school uitsluitend gehandhaafd blijven indien een commissie voor de indicatiestelling als bedoeld in [artikel 28c van de Wet op de expertisecentra](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md) heeft bepaald dat die leerling toelaatbaar is tot een onderwijssoort, die binnen die school wordt verzorgd dan wel dat die leerling toelaatbaar is tot het cluster, bedoeld in [artikel 2, vierde lid, onder b, van laatstgenoemde wet](../../../../../../../../../../../wet/isovso/BWBR0003549/README.md).
 
 ### Artikel  VI  
 
-De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld en bij dat koninklijk besluit kan worden bepaald dat artikelen of onderdelen daarvan terugwerken.  
+De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld en bij dat koninklijk besluit kan worden bepaald dat artikelen of onderdelen daarvan terugwerken. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -44,13 +44,13 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 12 maart 2008  
 Beatrix  
 
-De Staatssecretaris van Onderwijs, Cultuur en Wetenschap , 
+De Staatssecretaris van Onderwijs, Cultuur en Wetenschap ,  
 S. A. M. Dijksma   
 
-De Minister van Landbouw, Natuur en Voedselkwaliteit , 
+De Minister van Landbouw, Natuur en Voedselkwaliteit ,  
 G. Verburg   
 
 de *zevenentwintigste* maart 2008 
 
-De Minister van Justitie , 
+De Minister van Justitie ,  
 E. M. H. Hirsch Ballin    
