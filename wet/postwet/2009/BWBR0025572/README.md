@@ -20,7 +20,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *Onze Minister:* Onze Minister van Economische Zaken;  
+a. *Onze Minister:* Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 b. *college:* het college, genoemd in [artikel 2 van de Wet Onafhankelijke post- en telecommunicatieautoriteit](../../../../wet/wet/onafhankelijke/post-/en/telecommunicatieautoriteit/BWBR0008807/README.md);  
 
@@ -57,7 +57,9 @@ h. *postbus:* een in een gebouw aanwezige afgesloten ruimte die bestemd is voor 
 
 i. *afzender:* eenieder die een poststuk ten vervoer aanbiedt aan een postvervoerbedrijf;  
 
-j. *postcodesysteem:* een algemeen gebruikt adrescodesysteem voor een efficiënte postbezorging.     
+j. *postcodesysteem:* een algemeen gebruikt adrescodesysteem voor een efficiënte postbezorging;  
+
+k. *postbezorger:* een ieder die in opdracht van een postvervoerbedrijf of met instemming van een postvervoerbedrijf voor dat postvervoerbedrijf brieven, geadresseerde tijdschriften en geadresseerde dagbladen op afzonderlijke adressen aflevert.     
 2.  In afwijking van het eerste lid, onderdeel c, wordt onder postvervoer niet verstaan: 
 
 a. het vervoer van afzonderlijk geregistreerde exprespost waarover tussen afzender en vervoerbedrijf afzonderlijke overeenkomsten zijn gesloten over het tijdvak of tijdstip van bestellen, over de leveringszekerheid en over de aansprakelijkheid;  
@@ -110,13 +112,7 @@ Beslag op poststukken welke in het kader van postvervoerdiensten aan een postver
 
 ### Artikel  8  
 
-Bij algemene maatregel van bestuur kunnen voorschriften worden gesteld over in acht te nemen arbeidsvoorwaarden indien: 
-
-a. tegen sociaal onaanvaardbare arbeidsvoorwaarden arbeid wordt verricht,  
-
-b. er sprake is van een tijdelijk zich tot de postsector beperkend probleem, en  
-
-c. voor zover het probleem niet kan worden opgelost door aanpassing van algemeen geldende voorschriften of bij overeenkomst tussen de desbetreffende werkgever en vertegenwoordigers van werknemersorganisaties.    
+Een postvervoerbedrijf heeft met een bij algemene maatregel van bestuur te bepalen minimumpercentage van de postbezorgers die voor hem postvervoer verrichten een arbeidsovereenkomst. Bij algemene maatregel van bestuur wordt de datum bepaald met ingang waarvan een postvervoerbedrijf aan een minimumpercentage moet voldoen. De toepassing van een minimumpercentage kan daarbij worden beperkt tot bepaalde categorieën postvervoerbedrijven of bepaalde omstandigheden.  
 
 ### Hoofdstuk  3  
 
@@ -264,7 +260,10 @@ e. de wijze waarop poststukken aan een verlener van de universele postdienst wor
 
 ### Artikel  21  
 
-Een verlener van de universele postdienst kan gedeelten van de universele postdienst door anderen onder zijn verantwoordelijkheid doen uitvoeren.  
+1.  Een verlener van de universele postdienst kan gedeelten van de universele postdienst door anderen onder zijn verantwoordelijkheid doen uitvoeren.   
+2.  Een verlener van de universele postdienst rekent de kosten die anderen in rekening brengen voor het uitvoeren van gedeelten van de universele postdienst slechts toe aan de universele postdienst voor zover die kosten overeenkomstig de op grond van de artikelen 22, tweede lid, en 25, zesde lid, vastgestelde regels zijn toe te rekenen aan de universele postdienst.   
+3.  Een verlener van de universele postdienst maakt de toerekening van de kosten van anderen, bedoeld in het tweede lid, inzichtelijk voor ieder gedeelte van de universele postdienst dat hij door anderen laat uitvoeren.   
+4.  Een verlener van de universele postdienst die gedeelten van de universele postdienst door anderen laat uitvoeren waarborgt de volledige en juiste uitvoering van de door de anderen uitgevoerde gedeelten van de universele postdienst.   
 
 ### Artikel  22  
 
@@ -418,7 +417,7 @@ De afbeelding van de Koning op een postzegel of postzegelafdruk behoeft Diens go
 
 ### Artikel  39  
 
-1.  Het college kan van een ieder de gegevens en inlichtingen verlangen die hij nodig heeft voor de juiste uitvoering van de hem bij of krachtens deze wet en de [Wet Onafhankelijke post- en telecommunicatieautoriteit](../../../../wet/wet/onafhankelijke/post-/en/telecommunicatieautoriteit/BWBR0008807/README.md) opgedragen taken.   
+1.  Een ieder verstrekt het college desgevraagd de gegevens en inlichtingen en verschaft hem desgevraagd inzage in de gegevens en bescheiden die redelijkerwijs nodig zijn voor de uitvoering van hem bij of krachtens deze wet opgedragen taken.   
 2.  Onze Minister kan van een ieder de gegevens en inlichtingen verlangen die hij nodig heeft voor de juiste uitvoering van de hem bij of krachtens deze wet opgedragen taken.   
 3.  Degene aan wie een verzoek is gedaan om gegevens en inlichtingen te verstrekken, is verplicht binnen een door het college respectievelijk Onze Minister gestelde redelijke termijn alle medewerking te verlenen die deze redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden.   
 4.  Gegevens en inlichtingen welke in verband met enige werkzaamheid ten behoeve van de uitvoering van deze wet zijn verkregen, mogen uitsluitend voor de toepassing van deze wet en de [Mededingingswet](../../../../wet/mededingingswet/BWBR0008691/README.md) worden gebruikt.   
@@ -485,8 +484,8 @@ Het college is verantwoordelijke in de zin van [artikel 1, onderdeel d, van de W
 
 ### Artikel  48  
 
-1.  Het college is bevoegd tot toepassing van bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen, met uitzondering van de verplichtingen bij of krachtens hoofdstuk 11.   
-2.  Onze Minister is bevoegd tot toepassing van bestuursdwang ter handhaving van de bij of krachtens hoofdstuk 11 gestelde verplichtingen.   
+1.  Het college is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen, met uitzondering van de verplichtingen bij of krachtens hoofdstuk 11.   
+2.  Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de bij of krachtens hoofdstuk 11 gestelde verplichtingen.   
 
 ### §  7.5  
 
@@ -494,10 +493,9 @@ Het college is verantwoordelijke in de zin van [artikel 1, onderdeel d, van de W
 
 ### Artikel  49  
 
-1.  Het college kan in geval van overtreding van een bindende aanwijzing als bedoeld in artikel 47, eerste lid, alsmede overtreding van het bepaalde bij of krachtens de artikelen 4, 5, 8, 9, 10, 12, 13, 16, vijfde lid, 18, 19, 22, 23, 24, 26, 27, 28, 31, vierde lid, 32, 35, 36, 39, derde lid, 41, 59, 61, 63, tweede lid, en 64 van deze wet, alsmede [artikel 5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 10% van de relevante netto-omzet van de onderneming in Nederland.   
+1.  Het college kan in geval van overtreding van een bindende aanwijzing als bedoeld in artikel 47, eerste lid, alsmede overtreding van het bepaalde bij of krachtens de artikelen 4, 5, 8, 9, 10, 12, 13, 16, vijfde tot en met negende lid, 18, 19, 22, 23, 24, 26, 27, 28, 31, vierde lid, 32, 35, 36, 39, eerste en derde lid, 41, 59, 61, 63, tweede lid, en 64 van deze wet, alsmede [artikel 5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 10% van de relevante netto-omzet van de onderneming in Nederland.   
 2.  Onze Minister kan in geval van overtreding van een bindende aanwijzing als bedoeld in artikel 47, tweede lid, alsmede overtreding van het bepaalde bij of krachtens hoofdstuk 11 de overtreder per overtreding een bestuurlijke boete opleggen van ten hoogste € 450 000 of, indien dat meer is, 10% van de relevante netto-omzet van de onderneming in Nederland.   
-3.  Bij de vaststelling van de hoogte van boete houdt het college respectievelijk Onze Minister in ieder geval rekening met de aard, de ernst en de duur van de overtreding.   
-4.  De berekening van de netto-omzet, bedoeld in het eerste en het tweede lid, 
+3.  De berekening van de netto-omzet, bedoeld in het eerste en het tweede lid, 
 
 a. geschiedt op de voet van [artikel 377, zesde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
 
@@ -505,73 +503,18 @@ b. betreft het boekjaar voorafgaande aan de beschikking, bedoeld in het eerste e
 
 c. is beperkt tot de omzet die betrekking heeft op de postvervoerdiensten, bedoeld in artikel 2, eerste lid, onderdeel d.     
 
-### Artikel  50  
-
-1.  Het college respectievelijk Onze Minister legt geen bestuurlijke boete op voor zover de overtreding niet aan de overtreder kan worden verweten.   
-2.  De bevoegdheid tot het opleggen van een bestuurlijke boete vervalt vijf jaren nadat de overtreding heeft plaatsgevonden.   
-3.  Indien tegen de bestuurlijke boete bezwaar wordt gemaakt of beroep wordt ingesteld, wordt de vervaltermijn opgeschort tot onherroepelijk op het bezwaar onderscheidenlijk het beroep is beslist.   
-
-### Artikel  51  
-
-1.  Indien het college respectievelijk Onze Minister vaststelt dat een overtreding als bedoeld in artikel 49 is begaan, maakt hij daarvan een rapport op.   
-2.  Het rapport is gedagtekend en vermeldt in ieder geval: 
-
-a. de naam van de overtreder,  
-
-b. de overtreding alsmede het overtreden voorschrift, en  
-
-c. zo nodig een aanduiding van de plaats waar en het tijdstip waarop de overtreding is geconstateerd.     
-3.  Het college respectievelijk Onze Minister zendt een afschrift van het rapport aan de overtreder.   
-
-### Artikel  52  
-
-1.  Indien aan een handeling van het college respectievelijk Onze Minister redelijkerwijs de gevolgtrekking kan worden verbonden dat aan de overtreder een bestuurlijke boete zal worden opgelegd, is er geen verplichting meer van de zijde van die overtreder om ten behoeve van deze oplegging een verklaring omtrent de overtreding af te leggen.   
-2.  De overtreder wordt hierop gewezen alvorens hem mondeling wordt gevraagd inlichtingen te verstrekken.   
-
-### Artikel  53  
-
-1.  Het college respectievelijk Onze Minister stelt de overtreder desgevraagd in de gelegenheid de gegevens waarop het voornemen tot het opleggen van een bestuurlijke boete berust, in te zien en daarvan afschriften te vervaardigen.   
-2.  In afwijking van [afdeling 4.1.2 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt de overtreder steeds in de gelegenheid gesteld zijn zienswijze naar voren te brengen.   
-3.  Indien blijkt dat de verdediging van de overtreder dit redelijkerwijs vergt, draagt het college respectievelijk Onze Minister er zo veel mogelijk zorg voor dat de in het eerste lid bedoelde gegevens aan de overtreder worden medegedeeld in een voor hem begrijpelijke taal.   
-
-### Artikel  54  
-
-1.  Het college respectievelijk Onze Minister beslist omtrent het opleggen van een bestuurlijke boete binnen dertien weken na de dagtekening van het rapport.   
-2.  Mandaat tot het opleggen van een bestuurlijke boete wordt niet verleend aan degene die van de overtreding een rapport heeft opgemaakt.   
-3.  In de beschikking tot oplegging van een last onder dwangsom of een bestuurlijke boete wordt in ieder geval vermeld: 
-
-a. indien een last onder dwangsom wordt opgelegd: 
-
-1°. de naam van de overtreder, en  
-
-2°. de inhoud van de last en de termijn waarvoor deze geldt;    
-
-b. indien een bestuurlijke boete wordt opgelegd: 
-
-1°. de naam van de overtreder, en  
-
-2°. het bedrag van de boete;    
-
-c. de overtreding ter zake waarvan de last of de bestuurlijke boete wordt opgelegd alsmede het overtreden wettelijk voorschrift.     
-
 ### Artikel  55  
 
-1.  Een beschikking als bedoeld in artikel 54 wordt, nadat zij bekend is gemaakt, ter inzage gelegd bij het college respectievelijk Onze Minister.   
+1.  Een beschikking waarbij een last onder dwangsom dan wel een bestuurlijke boete als bedoeld in artikel 49 wordt opgelegd wordt, nadat zij bekend is gemaakt, ter inzage gelegd bij het college respectievelijk Onze Minister.   
 2.  Van de beschikking wordt mededeling gedaan in de Staatscourant.   
 
 ### Artikel  56  
 
-1.  Een bestuurlijke boete wordt betaald binnen zes weken nadat de beschikking waarbij de boete is opgelegd, in werking is getreden.   
-2.  De boete wordt vermeerderd met de wettelijke rente, te rekenen zes weken vanaf de datum waarop de beschikking bekend is gemaakt.   
-3.  Indien niet is betaald binnen de in het eerste lid genoemde termijn, wordt degene die de boete is verschuldigd schriftelijk bevolen binnen twee weken alsnog het bedrag van de boete, verhoogd met de krachtens het tweede lid verschuldigde rente en de kosten van de aanmaning, te betalen.   
-4.  De werking van een beschikking als bedoeld in het eerste lid wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.   
+Verzet schorst de tenuitvoerlegging van een dwangbevel dat strekt tot invordering van de bestuurlijke boete.  
 
 ### Artikel  57  
 
-1.  Bij gebreke van betaling binnen de in artikel 56, derde lid, bedoelde termijn van twee weken kan het college respectievelijk Onze Minister de verschuldigde boete, verhoogd met de op de aanmaning en invordering betrekking hebbende kosten, invorderen bij dwangbevel.   
-2.  Het dwangbevel wordt op kosten van degene die de boete is verschuldigd bij deurwaardersexploit betekend en levert een executoriale titel op in de zin van [Boek 2 van het Wetboek van Burgerlijke Rechtsvordering](../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md).   
-3.  Gedurende zes weken na de dag van betekening staat verzet tegen het dwangbevel open door dagvaarding van de staat.   
-4.  Het verzet schorst de tenuitvoerlegging. Op verzoek van de staat kan de rechter de schorsing van de tenuitvoerlegging opheffen.   
+De te betalen geldsom van de door het college opgelegde bestuurlijke boete, de verbeurde dwangsommen bij een door het college opgelegde last en de als gevolg van die boete en dwangsom verschuldigde wettelijke rente, komen toe aan de Staat.  
 
 ### Hoofdstuk  8  
 
@@ -660,6 +603,7 @@ In geval voor Nederland of een gedeelte daarvan, op grond van de [artikelen 7, e
 
 ### Artikel  70  
 
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.   
 1.  Onze Minister is bevoegd een verlener van de universele postdienst en zo nodig een ander postvervoerbedrijf bindende aanwijzingen te geven met betrekking tot het postvervoer naar, van of in het gebied waarvoor een besluit als bedoeld in artikel 68 van kracht is.   
 2.  Onze Minister kan bij toepassing van het eerste lid afwijken van de verplichtingen die op grond van deze wet op een verlener van de universele postdienst rusten.   
 3.  Een verlener van de universele postdienst kan aan exploitanten van openbare vervoermiddelen de verplichting opleggen mee te werken aan het postvervoer van aan de verlener van de universele postdienst ter vervoer aangeboden poststukken. De verlener van de universele postdienst kan in verband hiermee aanwijzingen geven aan de exploitanten van openbare vervoermiddelen.   
@@ -773,7 +717,8 @@ De [Postwet](../../../../wet/postwet/BWBR0004423/README.md) wordt ingetrokken.
 
 ### Artikel  89  
 
-Wijzigt deze wet.   
+1.  Artikel 8 vervalt op een bij koninklijk besluit te bepalen datum.   
+2.  De voordracht voor het koninklijk besluit bedoeld in het eerste lid wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 
 ### Artikel  90  
 
