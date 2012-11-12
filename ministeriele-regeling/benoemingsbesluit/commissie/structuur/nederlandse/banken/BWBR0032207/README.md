@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder commissie: de Commissie Structuur Nederlandse banken, ingesteld bij de [Regeling instelling Commissie Structuur Nederlandse banken](../../../../../../../ministeriele-regeling/regeling/instelling/commissie/structuur/nederlandse/banken/BWBR0032195/README.md).  
+In dit besluit wordt verstaan onder commissie: de Commissie Structuur Nederlandse banken, ingesteld bij de [Regeling instelling Commissie Structuur Nederlandse banken](../../../../../../../ministeriele-regeling/regeling/instelling/commissie/structuur/nederlandse/banken/BWBR0032195/README.md). 
 
 ### Artikel  2  
 
@@ -39,7 +39,7 @@ In dit besluit wordt verstaan onder commissie: de Commissie Structuur Nederlands
 – prof. dr. H.H.F. Wijffels, hoogleraar duurzame ontwikkeling;  
 
 – prof. dr. S.J.G. baron van Wijnbergen, hoogleraar macro-economie.     
-2.  Prof. dr. H.H.F. Wijffels is tevens voorzitter van de commissie.   
+2.  Prof. dr. H.H.F. Wijffels is tevens voorzitter van de commissie.  
 
 ### Artikel  3  
 
@@ -47,7 +47,7 @@ Tot secretarissen van de commissie worden benoemd:
 
 – drs. S. van der Zwaag, coördinerend beleidsmedewerker bij het ministerie van Financiën;  
 
-– mr. W. Zwartkruis, beleidsmedewerker bij het ministerie van Financiën.    
+– mr. W. Zwartkruis, beleidsmedewerker bij het ministerie van Financiën.   
 
 ### Artikel  4  
 
@@ -58,17 +58,17 @@ Tot secretarissen van de commissie worden benoemd:
 
 – J.H.A.S. Biesheuvel;  
 
-– drs. B.R. Combée.     
+– drs. B.R. Combée.    
 
 ### Artikel  5  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  6  
 
-Dit besluit wordt aangehaald als: Benoemingsbesluit Commissie Structuur Nederlandse banken.  
+Dit besluit wordt aangehaald als: Benoemingsbesluit Commissie Structuur Nederlandse banken. 
 Dit besluit zal in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Financiën,
-J.C. deJager   
+Minister van Financiën, 
+J.C. de Jager     
