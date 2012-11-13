@@ -4,11 +4,11 @@
 
 ### Nr.  I  
 
-###AMBASSADE DE
+###AMBASSADE DE 
 
 ###BELGIQUE
 
-###AMBASSADE ROYALE
+###AMBASSADE ROYALE 
 
 ###DES PAYS-BAS
 
@@ -24,7 +24,7 @@ Monsieur le Ministre, Nous avons l'honneur de porter à la connaissance de Votre
 
 2. Les ressortissants des pays du Benelux peuvent, quel que soit le lieu de départ et en vue d'un séjour de trois mois au maximum, entrer en territoire espagnol par tous les postes frontières autorisés et en sortir, sous le seul couvert de l'un des documents suivants: 
 
-A.  *Les Belges*  
+A. *Les Belges* 
 
 a. passeport national en cours de validité;  
 
@@ -32,13 +32,13 @@ b. carte d'identité de Belge délivrée par une administration communale belge 
 
 c. pièce d'identité sans photographie pour les enfants belges de moins de 12 ans, pour autant que ces enfants voyagent en compagnie de leurs parents.    
 
-B.  *Les Luxembourgeois*  
+B. *Les Luxembourgeois* 
 
 a. passeport national en cours de validité;  
 
 b. carte d'identité luxembourgeoise.    
 
-C.  *Les Néerlandais*  
+C. *Les Néerlandais* 
 
 a. passeport national en cours de validité;  
 
@@ -60,19 +60,19 @@ b. carte, d'identité („toeristenkaart”) en cours de validité.
 
 10. Le présent accord entrera en vigueur trente jours après le présent échange de lettres et pour la durée d'une année. S'il n'a pas été dénoncé trente jours avant la fin de cette période, l'accord sera considéré comme prolongé pour une durée indéterminée. Après la première période d'une année, chacun des Gouvernements contractants pourra le dénoncer moyennant un préavis de trente jours adressé au Gouvernement belge. La dénonciation par un seul des Gouvernements contractants entraînera l'abrogation de l'accord. Le Gouvernement belge avisera les autres Gouvernements contractants de la réception des notifications mentionnées au présent point.  
 
-11. Le présent accord abroge les dispositions des arrangements conclus par échanges de lettres en date du 27 mai 1959 entre le Gouvernement espagnol d'une part et chacun des Gouvernements des pays du Benelux d'autre part.   Si votre Gouvernement est disposé à conclure avec les Gouvernements des pays du Benelux un accord conforme aux dispositions précitées, nous avons l'honneur de proposer que la présente lettre et les Vôtres en réponse adressées à chacun de nous constituent un accord entre le Gouvernement espagnol et les Gouvernements des pays du Beneux. Nous saisissons cette occasion, Monsieur le Ministre, pour renouveler à Votre Excellence les assurances de notre très haute considération. Madrid, le 27 juin 1972.  *Pour le Gouvernement du Royaume de Belgique:*  (s.) ROBERT VAES Robert Vaes  *Pour le Gouvernement du Grand-Duché de Luxembourg:*  (s.) LEWE VAN ADUARD E. J. Baron Lewe van Aduard  *Pour le Gouvernement du Royaume des Pays-Bas:*  (s.) LEWE VAN ADUARD E. J. Baron Lewe van Aduard  *Son Excellence*   *Monsieur Gregorio Lopez Bravo,*   *Ministre des Affaires Extérieures,*   *Madrid.*    
+11. Le présent accord abroge les dispositions des arrangements conclus par échanges de lettres en date du 27 mai 1959 entre le Gouvernement espagnol d'une part et chacun des Gouvernements des pays du Benelux d'autre part.   Si votre Gouvernement est disposé à conclure avec les Gouvernements des pays du Benelux un accord conforme aux dispositions précitées, nous avons l'honneur de proposer que la présente lettre et les Vôtres en réponse adressées à chacun de nous constituent un accord entre le Gouvernement espagnol et les Gouvernements des pays du Benelux. Nous saisissons cette occasion, Monsieur le Ministre, pour renouveler à Votre Excellence les assurances de notre très haute considération. Madrid, le 27 juin 1972. *Pour le Gouvernement du Royaume de Belgique:* (s.) ROBERT VAES Robert Vaes *Pour le Gouvernement du Grand-Duché de Luxembourg:* (s.) LEWE VAN ADUARD E. J. Baron Lewe van Aduard *Pour le Gouvernement du Royaume des Pays-Bas:* (s.) LEWE VAN ADUARD E. J. Baron Lewe van Aduard *Son Excellence* *Monsieur Gregorio Lopez Bravo,* *Ministre des Affaires Extérieures,* *Madrid.*   
 
 ### Nr.  I  
 
 ###AMBASSADE
 
-###VAN BELGIË
+### VAN BELGIË
 
-###AMBASSADE
+### AMBASSADE
 
-###VAN HET KONINKRIJK
+### VAN HET KONINKRIJK
 
-###DER NEDERLANDEN
+### DER NEDERLANDEN
 
 Mijnheer de Minister, Wij hebben de eer Uwer Excellentie ter kennis te brengen dat de Regeringen van de Beneluxlanden, gezamenlijk optredend op grond van de op 11 april 1960 te Brussel ondertekende Overeenkomst tussen het Koninkrijk België, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden inzake de verlegging van de personencontrole naar de buitengrenzen van het Beneluxgebied, bereid zijn met de Spaanse Regering een overeenkomst ter vereenvoudiging van het reisverkeer van hun onderscheiden onderdanen te sluiten. Te dien einde en met inachtneming van de regelingen voortvloeiend uit de verlegging van de personencontrole naar de buitengrenzen van het Beneluxgebied hebben wij de eer het volgende voor te stellen: 
 
@@ -86,7 +86,7 @@ Mijnheer de Minister, Wij hebben de eer Uwer Excellentie ter kennis te brengen d
 
 2. Onderdanen van de Beneluxlanden mogen, ongeacht de plaats van vertrek, voor een verblijf van ten hoogste drie maanden, het Spaanse grondgebied via alle officiële grensposten binnenkomen en verlaten, waartoe zij slechts in het bezit behoeven te zijn van een van onderstaande reisdocumenten: 
 
-A.  *Belgen*  
+A. *Belgen* 
 
 a. een geldig nationaal paspoort;  
 
@@ -94,13 +94,13 @@ b. een Belgische identiteitskaart, afgegeven door een Belgisch gemeentebestuur o
 
 c. een identiteitskaart zonder foto voor Belgische kinderen beneden de leeftijd van 12 jaar, voor zover deze kinderen in het gezelschap van hun ouders reizen.    
 
-B.  *Luxemburgers*  
+B. *Luxemburgers* 
 
 a. een geldig nationaal paspoort;  
 
 b. een Luxemburgse identiteitskaart.    
 
-C.  *Nederlanders*  
+C. *Nederlanders* 
 
 a. een geldig nationaal paspoort;.  
 
@@ -118,16 +118,16 @@ b. een geldige identiteitskaart („toeristenkaart”).
 
 8. Wat het Koninkrijk der Nederlanden betreft, kan de toepassing van deze overeenkomst worden uitgebreid tot Suriname en de Nederlandse Antillen door middel van een kennisgeving van de Nederlandse Regering aan de Spaanse Regering.  
 
-9. Elk der Overeenkomstsluitende Regeringen kan de toepassing van deze overeenkomst schorsen door middel van een achtenveertig uur tevoren gedane kennisgeving langs diplomatieke weg aan de Belgische Regering. De schorsing, door een der Overeenkomstsluitende Regeringen heeft eveneens schorsing voor de andere Overeenkomstsluitende Regeringen tot gevolg. De schorsing laat evenwel hef bepaalde in de paragrafen 7 en 10 van deze overeenkomst onverlet. De Belgische Regering stelt de andere Overeenkomstsluitende Regeringen op de hoogte van de ontvangst van de in deze paragraaf bedoelde kennisgeving. Hetzelfde geldt voor de intrekking van bedoelde maatregel.  
+9. Elk der Overeenkomstsluitende Regeringen kan de toepassing van deze overeenkomst schorsen door middel van een achtenveertig uur tevoren gedane kennisgeving langs diplomatieke weg aan de Belgische Regering. De schorsing, door een der Overeenkomstsluitende Regeringen heeft eveneens schorsing voor de andere Overeenkomstsluitende Regeringen tot gevolg. De schorsing laat evenwel het bepaalde in de paragrafen 7 en 10 van deze overeenkomst onverlet. De Belgische Regering stelt de andere Overeenkomstsluitende Regeringen op de hoogte van de ontvangst van de in deze paragraaf bedoelde kennisgeving. Hetzelfde geldt voor de intrekking van bedoelde maatregel.  
 
 10. Deze overeenkomst treedt dertig dagen na deze briefwisseling in werking voor de duur van één jaar. Indien zij niet dertig dagen vóór het verstrijken van die periode is opgezegd, wordt zij geacht voor onbepaalde tijd te zijn verlengd. Na de eerste periode van een jaar kan elk der Overeenkomstsluitende Regeringen haar opzeggen door dertig dagen tevoren de Belgische Regering hiervan in kennis te stellen. De opzegging door een der Overeenkomstsluitende Regeringen heeft beëindiging van de overeenkomst tot gevolg. De Belgische Regering deelt de andere Overeenkomstsluitende Regeringen de ontvangst mede van de in deze paragraaf bedoelde kennisgevingen.  
 
-11. Met de onderhavige overeenkomst komen de bepalingen van de bij briefwisseling van 27 mei 1959 tussen de Spaanse Regering, enerzijds, en elk der Regeringen der Beneluxlanden, anderzijds, gesloten regelingen te vervallen.   Indien Uw Regering bereid is met de Regeringen van de Beneluxlanden een overeenkomst te sluiten overeenkomstig de bovenstaande regelingen, hebben wij de eer voor te stellen dat deze brief en Uwer Excellentie's bevestigende antwoordbrieven aan ieder van ons een overeenkomst vormen tussen de Spaanse Regering en de Regeringen van de Beneluxlanden. Gelief, Excellentie, de hernieuwde verzekering van onze zeer bijzondere hoogachting wel te willen aanvaarden. Madrid, 27 juni 1972,  *Voor de Regering van het Koninkrijk België,*  (w.g.) ROBERT VAES Robert Vaes  *Voor de Regering van het Groothertogdom Luxemburg,*  (w.g.) LEWE VAN ADUARD E. J. Baron Lewe van Aduard  *Voor de Regering van het Koninkrijk der Nederlanden,*  (w.g.) LEWE VAN ADUARD E. J. Baron Lewe van Aduard  *Zijner Excellentie*   *de Heer Gregorio Lopez Bravo,*   *Minister van Buitenlandse Zaken,*   *Madrid.*    
+11. Met de onderhavige overeenkomst komen de bepalingen van de bij briefwisseling van 27 mei 1959 tussen de Spaanse Regering, enerzijds, en elk der Regeringen der Beneluxlanden, anderzijds, gesloten regelingen te vervallen.   Indien Uw Regering bereid is met de Regeringen van de Beneluxlanden een overeenkomst te sluiten overeenkomstig de bovenstaande regelingen, hebben wij de eer voor te stellen dat deze brief en Uwer Excellentie's bevestigende antwoordbrieven aan ieder van ons een overeenkomst vormen tussen de Spaanse Regering en de Regeringen van de Beneluxlanden. Gelief, Excellentie, de hernieuwde verzekering van onze zeer bijzondere hoogachting wel te willen aanvaarden. Madrid, 27 juni 1972, *Voor de Regering van het Koninkrijk België,* (w.g.) ROBERT VAES Robert Vaes *Voor de Regering van het Groothertogdom Luxemburg,* (w.g.) LEWE VAN ADUARD E. J. Baron Lewe van Aduard *Voor de Regering van het Koninkrijk der Nederlanden,* (w.g.) LEWE VAN ADUARD E. J. Baron Lewe van Aduard *Zijner Excellentie* *de Heer Gregorio Lopez Bravo,* *Minister van Buitenlandse Zaken,* *Madrid.*   
 
 ### Nr.  II  
 
 ###MINISTERIE VAN
 
-###BUITENLANDSE ZAKEN
+### BUITENLANDSE ZAKEN
 
-126 Mijnheer de Ambassadeur, Ik heb het genoegen U de ontvangst te bevestigen van Uw nota van 27 juni 1972, luidende als volgt:  (zoals in Nr. I)  Het is mij een genoegen Uwer Excellentie mijn akkoordbevinding met het voorafgaande mede te delen. Gelief, Excellentie, de hernieuwde verzekering van mijn zeer bijzondere hoogachting wel te willen aanvaarden. Madrid, 27 juni 1972.  *De Minister van Buitenlandse Zaken,*  (w.g.) LOPEZ BRAVO  *Zijner Excellentie*   *E. J. Baron Lewe van Aduard,*   *Ambassadeur van Nederland,*   *te*   *Madrid.*    
+126 Mijnheer de Ambassadeur, Ik heb het genoegen U de ontvangst te bevestigen van Uw nota van 27 juni 1972, luidende als volgt: (zoals in Nr. I) Het is mij een genoegen Uwer Excellentie mijn akkoordbevinding met het voorafgaande mede te delen. Gelief, Excellentie, de hernieuwde verzekering van mijn zeer bijzondere hoogachting wel te willen aanvaarden. Madrid, 27 juni 1972. *De Minister van Buitenlandse Zaken,* (w.g.) LOPEZ BRAVO *Zijner Excellentie* *E. J. Baron Lewe van Aduard,* *Ambassadeur van Nederland,* *te* *Madrid.*   
