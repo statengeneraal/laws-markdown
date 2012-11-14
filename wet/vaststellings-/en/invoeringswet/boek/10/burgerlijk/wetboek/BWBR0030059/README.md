@@ -10,26 +10,32 @@ Alzo Wij in overweging genomen hebben dat het wenselijk is de bestaande wettelij
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 01-01-2014 
 
-Wijzigt het Burgerlijk Wetboek.   
+Wijzigt het Burgerlijk Wetboek. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 01-01-2014 
 
-Wijzigt de Overgangswet nieuw Burgerlijk Wetboek.   
+Wijzigt de Overgangswet nieuw Burgerlijk Wetboek. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 01-01-2014 
 
-Wijzigt de Wet algemene bepalingen.   
+Wijzigt de Wet algemene bepalingen. 
 
 ### Artikel  IIIa  
+Materieel uitgewerkt per 01-01-2014 
 
-Wijzigt de Vreemdelingenwet 2000.   
+Wijzigt de Vreemdelingenwet 2000. 
 
 ### Artikel  IIIB  
+Materieel uitgewerkt per 01-01-2014 
 
-Wijzigt het Wetboek van Strafrecht.   
+Wijzigt het Wetboek van Strafrecht. 
 
 ### Artikel  IV  
+Materieel uitgewerkt per 01-01-2014 
 
 De volgende wetten worden ingetrokken: 
 
@@ -63,30 +69,33 @@ n. de [Wet van 7 juli 1993, Stb. 392, tot uitvoering van enkele conflictenrecht
 
 o. de [Wet conflictenrecht onrechtmatige daad](../../../../../../../../../wet/wet/conflictenrecht/onrechtmatige/daad/BWBR0012408/README.md)  
 
-p. de [Wet van 18 maart 1993, Stb. 168, houdende enige bepalingen van internationaal privaatrecht met betrekking tot het zeerecht, het binnenvaartrecht en het luchtrecht](../../../../../../../../../wet/wet/bepalingen/van/internationaal/privaatrecht/met/betrekking/tot/zeerecht/etc/BWBR0005917/README.md).    
+p. de [Wet van 18 maart 1993, Stb. 168, houdende enige bepalingen van internationaal privaatrecht met betrekking tot het zeerecht, het binnenvaartrecht en het luchtrecht](../../../../../../../../../wet/wet/bepalingen/van/internationaal/privaatrecht/met/betrekking/tot/zeerecht/etc/BWBR0005917/README.md).  
 
 ### Artikel  IVA  
+Materieel uitgewerkt per 01-01-2014 
 
-Wijzigt het Burgerlijk Wetboek Boek 10.   
+Wijzigt het Burgerlijk Wetboek Boek 10. 
 
 ### Artikel  V  
+Materieel uitgewerkt per 01-01-2014 
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  VI  
+Materieel uitgewerkt per 01-01-2014 
 
-Deze wet wordt aangehaald als: Vaststellings- en Invoeringswet Boek 10 Burgerlijk Wetboek.  
+Deze wet wordt aangehaald als: Vaststellings- en Invoeringswet Boek 10 Burgerlijk Wetboek. 
 
-Lasten en bevelen, dat deze in het Staatsblad zal worden geplaatst, en dat alle ministeries, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen, dat deze in het Staatsblad zal worden geplaatst, en dat alle ministeries, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 19 mei 2011  
 Beatrix  
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten   
 
 de *achtste* juni 2011 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    
