@@ -21,7 +21,7 @@ Hebben goedgevonden en verstaan:
 
 a. één van de volgende algemene waarschuwingen: Roken is dodelijk Roken brengt u en anderen rondom u ernstige schade toe  
 
-b. één van de volgende bijkomende waarschuwingen: Rokers sterven jonger Roken veroorzaakt verstopping van de bloedvaten, hartaanvallen en beroertes Roken veroorzaakt dodelijke longkanker Roken tijdens de zwangerschap is slecht voor uw baby Bescherm kinderen: laat hen niet uw rook inademen Uw arts of uw apotheker kan u helpen te stoppen met roken Roken werkt zeer verslavend; begin er niet mee Stoppen met roken vermindert het risico op dodelijke hart- en longziekten Roken kan leiden tot een langzame, pijnlijke dood Zoek hulp om te stoppen met roken: 0900–9390 (€ 0,10/min) of www.stoppen-met-roken.nl of raadpleeg uw arts of apotheker Roken kan de bloedsomloop verminderen en veroorzaakt impotentie Roken veroudert uw huid Roken kan het sperma beschadigen en vermindert de vruchtbaarheid Tabaksrook bevat benzeen, nitrosaminen, formaldehyde en waterstofcyanide     
+b. één van de volgende bijkomende waarschuwingen: Roken veroorzaakt 9 van de 10 gevallen van longkanker Roken veroorzaakt mond- en keelkanker Roken beschadigt uw longen Roken veroorzaakt hartaanvallen Roken veroorzaakt beroertes en ernstige handicaps Roken verstopt uw slagaderen Roken vergroot de kans op blindheid Roken beschadigt uw gebit en tandvlees Roken kan uw ongeboren kind noodlottig worden Uw rook is schadelijk voor uw kinderen, familie en vrienden Kinderen van rokers gaan zelf vaak roken Stop nu – blijf leven voor je naaste familie en vrienden:  www.stoppen-met-roken.nl  Roken vermindert de vruchtbaarheid Roken vergroot de kans op impotentie     
 2.  Op alle verpakkingseenheden van niet voor roken bestemde tabaksproducten wordt de volgende waarschuwing aangebracht: Dit tabaksproduct kan uw gezondheid schaden en is verslavend   
 3.  Op alle sigarettenpakjes worden voorts vermeld: 
 
@@ -34,24 +34,24 @@ c. het koolmonoxidegehalte, aangeduid met het woord koolmonoxide, in milligramme
 
 a. het nicotinegehalte, aangeduid met het woord «nicotine», in tienden van een milligram per shagje van 750 milligram;  
 
-b. het teergehalte, aangeduid met het woord «teer», in milligrammen per shagje van 750 milligram.     
+b. het teergehalte, aangeduid met het woord «teer», in milligrammen per shagje van 750 milligram.    
 
 ### Artikel  2  
 
 1.  De in artikel 1, eerste lid, onderdeel a, bedoelde waarschuwingen wisselen elkaar op zodanige wijze af dat zij regelmatig voorkomen.   
 2.  De in artikel 1, eerste lid, onderdeel b, bedoelde waarschuwingen wisselen elkaar eveneens op zodanige wijze af dat zij regelmatig voorkomen.   
 3.  De in artikel 1, eerste lid, onderdeel a, bedoelde waarschuwingen worden aangebracht op de voorkant van de verpakkingseenheid en op elke in de detailverkoop gebruikte buitenverpakking, behalve op cellofaanverpakkingen.   
-4.  De in artikel 1, eerste lid, onderdeel b, bedoelde waarschuwingen worden aangebracht op de achterkant van de verpakkingseenheid en op elke in de detailverkoop gebruikte buitenverpakking, behalve op cellofaanverpakkingen.   
+4.  De in artikel 1, eerste lid, onderdeel b, bedoelde waarschuwingen worden aangebracht op de achterkant van de verpakkingseenheid en op elke in de detailverkoop gebruikte buitenverpakking, behalve op cellofaanverpakkingen.  
 
 ### Artikel  3  
 
-Bij regeling van Onze Minister worden methoden van onderzoek aangewezen, die bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot een sigaret of een shagje aan de in dit besluit gestelde eisen ter zake van de gehaltes aan teer, nicotine of koolmonoxide is voldaan.  
+Bij regeling van Onze Minister worden methoden van onderzoek aangewezen, die bij uitsluiting beslissend zijn voor de vaststelling of met betrekking tot een sigaret of een shagje aan de in dit besluit gestelde eisen ter zake van de gehaltes aan teer, nicotine of koolmonoxide is voldaan. 
 
 ### Artikel  4  
 
 1.  De waarschuwingen, bedoeld in artikel 1, eerste lid, onderdeel a, en in artikel 1, tweede lid, beslaan minstens 30% van de buitenvoorkant van het betreffende oppervlak van de verpakkingseenheid waarop zij worden aangebracht.   
 2.  De waarschuwingen, bedoeld in artikel 1, eerste lid, onderdeel b, beslaan minstens 40% van de buitenachterkant van het betreffende oppervlak van de verpakkingseenheid waarop zij worden aangebracht.   
-3.  Op verpakkingseenheden die bestemd zijn voor andere producten dan sigaretten en waarvan de buitenvoorkant groter is dan 75 cm <sup>2</sup> beslaan de in artikel 1, eerste en tweede lid, bedoelde waarschuwingen ten minste 22,5 cm <sup>2</sup> van de voorkant en van de achterkant.   
+3.  Op verpakkingseenheden die bestemd zijn voor andere producten dan sigaretten en waarvan de buitenvoorkant groter is dan 75 cm<sup>2</sup> beslaan de in artikel 1, eerste en tweede lid, bedoelde waarschuwingen ten minste 22,5 cm<sup>2</sup> van de voorkant en van de achterkant.   
 4.  De vermeldingen, bedoeld in artikel 1, derde lid, worden in het Nederlands gedrukt op één zijkant van het sigarettenpakje en beslaan minstens 10% van het betreffende oppervlak.   
 5.  De vermeldingen, bedoeld in artikel 1, vierde lid, worden in het Nederlands gedrukt op dezelfde kant van de verpakkingseenheid als de in artikel 1, eerste lid, onderdeel b, bedoelde waarschuwingen en beslaan minstens 2½% van het betreffende oppervlak.   
 6.  De krachtens artikel 1 vereiste waarschuwingen en vermeldingen van de gehaltes aan teer, nicotine en koolmonoxide worden aangebracht: 
@@ -65,21 +65,21 @@ c. gecentreerd op het voor de tekst bestemde oppervlak en evenwijdig met de bove
 d. voor andere dan de in artikel 1, tweede lid, bedoelde producten, omgeven door een ministens 3 mm en hoogstens 4 mm brede zwarte rand die geen belemmering vormt voor de leesbaarheid van de waarschuwingen of vermeldingen;   e. in het Nederlands.   
 7.  Bij regeling van Onze Minister kunnen omtrent de voorschriften, bedoeld in het vijfde en zesde lid, nadere technische specificaties worden gesteld.   
 8.  De in dit artikel voorgeschreven opschriften worden niet op de fiscale zegels van de verpakkingseenheden aangebracht. Zij zijn niet verwijderbaar of uitwisbaar en zijn in geen geval door andere aanduidingen of afbeeldingen bedekt of onderbroken, dan wel bij het openen van het pakje onduidelijk gemaakt of onderbroken. Bij andere tabaksproducten dan sigaretten mogen de teksten met behulp van stickers worden aangebracht, mits deze niet kunnen worden verwijderd.   
-9.  Ter wille van de identificatie en traceerbaarheid wordt het tabaksproduct op passende wijze gemerkt door vermelding van het partijnummer of een gelijkwaardige vermelding op de verpakkingseenheid, zodat plaats en tijd van productie kunnen worden vastgesteld.   
+9.  Ter wille van de identificatie en traceerbaarheid wordt het tabaksproduct op passende wijze gemerkt door vermelding van het partijnummer of een gelijkwaardige vermelding op de verpakkingseenheid, zodat plaats en tijd van productie kunnen worden vastgesteld.  
 
 ### Artikel  5  
 
-Dit besluit is tot 30 september 2002 niet van toepassing op tabaksproducten die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie, dan wel rechtmatig zijn vervaardigd in een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte.  
+Dit besluit is tot 30 september 2002 niet van toepassing op tabaksproducten die rechtmatig zijn vervaardigd of in de handel zijn gebracht in een andere lidstaat van de Europese Unie, dan wel rechtmatig zijn vervaardigd in een staat die partij is bij de overeenkomst inzake de Europese Economische Ruimte. 
 
 ### Artikel  6  
 
 1.  Verpakkingseenheden van sigaretten en shag die vóór 1 mei 2002 zijn vervaardigd en niet voldoen aan de in dit besluit gestelde eisen, mogen bedrijfsmatig worden verstrekt of daartoe aanwezig zijn tot 1 mei 2003.   
 2.  Verpakkingseenheden van andere tabaksproducten dan sigaretten en shag die vóór 30 september 2002 zijn vervaardigd en niet voldoen aan de in dit besluit gestelde eisen, mogen bedrijfsmatig worden verstrekt of daartoe aanwezig zijn tot 30 september 2004.   
-3.  Shag die vóór 1 mei 2002 is vervaardigd en niet voldoet aan de in dit besluit gestelde eisen, mag bedrijfsmatig worden verstrekt of daartoe aanwezig zijn tot 1 mei 2003.   
+3.  Shag die vóór 1 mei 2002 is vervaardigd en niet voldoet aan de in dit besluit gestelde eisen, mag bedrijfsmatig worden verstrekt of daartoe aanwezig zijn tot 1 mei 2003.  
 
 ### Artikel  7  
 
-Dit besluit kan worden aangehaald als: Aanduidingenbesluit tabaksproducten.  
+Dit besluit kan worden aangehaald als: Aanduidingenbesluit tabaksproducten. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 
