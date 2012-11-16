@@ -3,12 +3,12 @@
 ##Regeling bekendmaking percentage heffingsrente en invorderingsrente bij belastingen
 
 De Staatssecretaris van Financiën,  
-Gelet op de [artikelen 30a, zesde lid](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [69 van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (Stb. 1959, 301), en op de [artikelen 29](../../../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [69 van de Invorderingswet 1990](../../../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) (Stb. 221), alsmede gelet op [artikel LVIII van de Invoeringswet Invorderingswet 1990](../../../../../../../../../../wet/invoeringswet/invorderingswet/1990/BWBR0004771/README.md) (Stb. 222).
+Gelet op de artikelen 30a, zesde lid, en 69 van de Algemene wet inzake rijksbelastingen (Stb. 1959, 301), en op de artikelen 29 en 69 van de Invorderingswet 1990 (Stb. 221), alsmede gelet op artikel LVIII van de Invoeringswet Invorderingswet 1990 (Stb. 222).
 Besluit:    
 
 ### Artikel  1  
 
-Het percentage van de heffingsrente, bedoeld in [artikel 30f, vijfde lid, van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), alsmede het percentage van de invorderingsrente, bedoeld in [artikel 29 van de Invorderingswet 1990](../../../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), bedraagt voor het tweede kwartaal 2012: 2,30.  
+Het percentage van de heffingsrente, bedoeld in artikel 30f, vijfde lid, van de Algemene wet inzake rijksbelastingen, alsmede het percentage van de invorderingsrente, bedoeld in artikel 29 van de Invorderingswet 1990, bedraagt voor het vierde kwartaal 2012: 2,25.  
 
 ### Artikel  2  
 
