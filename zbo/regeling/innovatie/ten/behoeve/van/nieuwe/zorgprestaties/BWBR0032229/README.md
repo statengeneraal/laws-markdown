@@ -85,28 +85,28 @@ De beschikking waarmee de innovatieve zorgprestatie zoals overeengekomen tussen 
 
 ####Administratievoorschriften
 
-4.1 Zorgaanbieders voeren een administratie van het kortdurende kleinschalige experiment zodanig dat de experimentevaluatie tijdig kan worden uitgevoerd. Zorgaanbieders registreren ten behoeve van het experiment tenminste alle benodigde gegevens om de resultaten van het experiment te kunnen meten en aantonen. Zorgaanbieders registreren in ieder geval per experiment: 
+4.1  Zorgaanbieders voeren een administratie van het kortdurende kleinschalige experiment zodanig dat de experimentevaluatie tijdig kan worden uitgevoerd. Zorgaanbieders registreren ten behoeve van het experiment tenminste alle benodigde gegevens om de resultaten van het experiment te kunnen meten en aantonen. Zorgaanbieders registreren in ieder geval per experiment: 
 
 a. het aantal innovatieve zorgprestaties geleverd gedurende de experimenteerperiode;  
 
 b. het tarief van de innovatieve zorgprestatie.    
 
-4.2 De verplichting om te registreren omvat alleen de onderwerpen voor registratie. De wijze waarop de registratie plaatsvindt, is aan de experimenteerpartijen zelf.      
+4.2  De verplichting om te registreren omvat alleen de onderwerpen voor registratie. De wijze waarop de registratie plaatsvindt, is aan de experimenteerpartijen zelf.      
 ### 5  
 
 ####Declaratievoorschriften
 
-5.1 De zorgaanbieder declareert geen innovatieve zorgprestatie indien de zorg reeds op andere wijze wordt gedeclareerd dan wel bekostigd.  
+5.1  De zorgaanbieder declareert geen innovatieve zorgprestatie indien de zorg reeds op andere wijze wordt gedeclareerd dan wel bekostigd.  
 
-5.2 De zorgaanbieder dient op de declaratie onderscheid te maken tussen [Zvw](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [AWBZ](../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of overige Wmg zorg.  
+5.2  De zorgaanbieder dient op de declaratie onderscheid te maken tussen [Zvw](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [AWBZ](../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of overige Wmg zorg.  
 
-5.3 De zorgaanbieder declareert de innovatieve zorgprestatie uitsluitend aan: 
+5.3  De zorgaanbieder declareert de innovatieve zorgprestatie uitsluitend aan: 
 
 a. een ziektekostenverzekeraar met wie daartoe een experimentovereenkomst of aansluitersovereenkomst is gesloten en de NZa hiervoor een individuele beschikking heeft afgegeven; óf  
 
 b. aan een verzekerde die een daartoe strekkende verzekeringsovereenkomst heeft gesloten bij een onder 5.3 a genoemde ziektekostenverzekeraar.    
 
-5.4 De zorgaanbieder declareert de innovatieve zorgprestatie van experimenten met [Zvw](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of overige Wmg-zorg aan de hand van de codes zoals deze zijn op te vragen bij Vektis.      
+5.4  De zorgaanbieder declareert de innovatieve zorgprestatie van experimenten met [Zvw](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of overige Wmg-zorg aan de hand van de codes zoals deze zijn op te vragen bij Vektis.      
 ### 6  
 
 ####Intrekking
