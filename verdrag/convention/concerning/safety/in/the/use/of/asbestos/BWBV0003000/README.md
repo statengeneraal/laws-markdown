@@ -4,7 +4,7 @@
 
 ####Convention Concerning Safety in the Use of Asbestos
 
-The General Conference of the International Labour Organisation, Having been convened at Geneva by the Governing Body of the International Labour Office, and having met in its Seventy-second Session on 4 June 1986, and Noting the relevant international labour Conventions and Recommendations, and in particular the Occupational Cancer Convention and Recommendation, 1974, the Working Environment (Air Pollution, Noise and Vibration) Convention and Recommendation, 1977, the Occupational Safety and Health Convention and Recommendation, 1981, the Occupational Health Services Convention and Recommendation, 1985, the list of occupational diseases as revised in 1980 appended to the Employment Injury Benefits Convention, 1964, as well as the Code of practice on safety in the use of asbestos, published by the International Labour Office in 1984, which establish the principles of national policy and action at the national level, Having decided upon the adoption of certain proposals with regard to safety in the use of asbestos, which is the fourth item on the agenda of the session, and Having determined that these proposals shall take the form of an international Convention; adopts this twenty-fourth day of June of the year one thousand nine hundred and eighty-six the following Convention, which may be cited as the Asbestos Convention, 1986:     
+The General Conference of the International Labour Organisation, Having been convened at Geneva by the Governing Body of the International Labour Office, and having met in its Seventy-second Session on 4 June 1986, and Noting the relevant international labour Conventions and Recommendations, and in particular the Occupational Cancer Convention and Recommendation, 1974, the Working Environment (Air Pollution, Noise and Vibration) Convention and Recommendation, 1977, the Occupational Safety and Health Convention and Recommendation, 1981, the Occupational Health Services Convention and Recommendation, 1985, the list of occupational diseases as revised in 1980 appended to the [Employment Injury Benefits Convention](../../../../../../../../../../verdrag/convention/concerning/benefits/in/the/case/of/employment/injury/BWBV0004636/README.md), 1964, as well as the Code of practice on safety in the use of asbestos, published by the International Labour Office in 1984, which establish the principles of national policy and action at the national level, Having decided upon the adoption of certain proposals with regard to safety in the use of asbestos, which is the fourth item on the agenda of the session, and Having determined that these proposals shall take the form of an international Convention; adopts this twenty-fourth day of June of the year one thousand nine hundred and eighty-six the following Convention, which may be cited as the Asbestos Convention, 1986:     
 ### PART  I  
 
 ####SCOPE AND DEFINITIONS
@@ -13,25 +13,25 @@ The General Conference of the International Labour Organisation, Having been con
 
 1.  This Convention applies to all activities involving exposure of workers to asbestos in the course of work.   
 2.  A Member ratifying this Convention may, after consultation with the most representative organisations of employers and workers concerned, and on the basis of an assessment of the health hazards involved and the safety measures applied, exclude particular branches of economic activity or particular undertakings from the application of certain provisions of the Convention when it is satisfied that their application to these branches or undertakings is unnecessary.   
-3.  The competent authority, when deciding on the exlusion of particular branches of economic activity or particular undertakings, shall take into account the frequency, duration and level of exposure, as well as the type of work and the conditions at the workplace.   
+3.  The competent authority, when deciding on the exlusion of particular branches of economic activity or particular undertakings, shall take into account the frequency, duration and level of exposure, as well as the type of work and the conditions at the workplace.  
 
 ### Artikel  2  
 
 For the purpose of this Convention- 
 
-(a) the term "asbestos" means the fibrous form of mineral silicates belonging to rock-forming minerals of the serpentine group, i.e. chrysotile (white asbestos), and of the amphibole group, i.e. actinolite, amosite (brown asbestos, cummingtonite-grunerite), anthophyllite, crocidolite (blue asbestos), tremolite, or any mixture containing one or more of these;  
+(a) the term “asbestos” means the fibrous form of mineral silicates belonging to rock-forming minerals of the serpentine group, i.e. chrysotile (white asbestos), and of the amphibole group, i.e. actinolite, amosite (brown asbestos, cummingtonite-grunerite), anthophyllite, crocidolite (blue asbestos), tremolite, or any mixture containing one or more of these;  
 
-(b) the term "asbestos dust" means airborne particles of asbestos or settled particles of asbestos which are liable to become airborne in the working environment;  
+(b) the term “asbestos dust” means airborne particles of asbestos or settled particles of asbestos which are liable to become airborne in the working environment;  
 
-(c) the term "airborne asbestos dust" means, for purposes of measurement, dust particles measured by gravimetric assessment or other equivalent method;  
+(c) the term “airborne asbestos dust” means, for purposes of measurement, dust particles measured by gravimetric assessment or other equivalent method;  
 
-(d) the term "respirable asbestos fibres" means asbestos fibres having a diameter of less than 3 µm and a length-to-diameter ratio greater than 3:1. Only fibres of a length greater than 5 μm shall be taken into account for purposes of measurement;  
+(d) the term “respirable asbestos fibres” means asbestos fibres having a diameter of less than 3 µm and a length-to-diameter ratio greater than 3:1. Only fibres of a length greater than 5 μm shall be taken into account for purposes of measurement;  
 
-(e) the term "exposure to asbestos" means exposure at work to airborne respirable asbestos fibres or asbestos dust, whether originating from asbestos or from minerals, materials or products containing asbestos;  
+(e) the term “exposure to asbestos” means exposure at work to airborne respirable asbestos fibres or asbestos dust, whether originating from asbestos or from minerals, materials or products containing asbestos;  
 
-(f) the term "workers" includes the members of production cooperatives;  
+(f) the term “workers” includes the members of production cooperatives;  
 
-(g) the term "workers' representatives" means the workers' representatives recognised as such by national law or practice, in conformity with the Workers' Representatives Convention, 1971.    
+(g) the term “workers' representatives” means the workers' representatives recognised as such by national law or practice, in conformity with the [Workers' Representatives Convention](../../../../../../../../../../verdrag/convention/concerning/protection/and/facilities/to/be/afforded/to/workers'/etc/BWBV0003710/README.md), 1971.   
 
 ### PART  II  
 
@@ -42,30 +42,30 @@ For the purpose of this Convention-
 1.  National laws or regulations shall prescribe the measures to be taken for the prevention and control of, and protection of workers against, health hazards due to occupational exposure to asbestos.   
 2.  National laws and regulations drawn up in pursuance of paragraph 1 of this Article shall be periodically reviewed in the light of technical progress and advances in scientific knowledge.   
 3.  The competent authority may permit temporary derogations from the measures prescribed pursuant to paragraph 1 of this Article, under conditions and within limits of time to be determined after consultation with the most representative organisations of employers and workers concerned.   
-4.  In granting derogations in pursuance of paragraph 3 of this Article, the competent authority shall ensure that the necessary precautions are taken to protect the workers' health.   
+4.  In granting derogations in pursuance of paragraph 3 of this Article, the competent authority shall ensure that the necessary precautions are taken to protect the workers' health.  
 
 ### Article  4  
 
-The competent authority shall consult the most representative organisations of employers and workers concerned on the measures to be taken to give effect to the provisions of this Convention.  
+The competent authority shall consult the most representative organisations of employers and workers concerned on the measures to be taken to give effect to the provisions of this Convention. 
 
 ### Article  5  
 
 1.  The enforcement of the laws and regulations adopted pursuant to Article 3 of this Convention shall be secured by an adequate and appropriate system of inspection.   
-2.  National laws or regulations shall provide for the necessary measures, including appropriate penalties, to ensure effective enforcement of and compliance with the provisions of this Convention.   
+2.  National laws or regulations shall provide for the necessary measures, including appropriate penalties, to ensure effective enforcement of and compliance with the provisions of this Convention.  
 
 ### Article  6  
 
 1.  Employers shall be made responsible for compliance with the prescribed measures.   
 2.  Whenever two or more employers undertake activities simultaneously at one workplace, they shall co-operate in order to comply with the prescribed measures, without prejudice to the responsibility of each employer for the health and safety of the workers he employs. The competent authority shall prescribe the general procedures of this co-operation when it is necessary.   
-3.  Employers shall, in co-operation with the occupational safety and health services, and after consultation with the workers' representatives concerned, prepare procedures for dealing with emergency situations.   
+3.  Employers shall, in co-operation with the occupational safety and health services, and after consultation with the workers' representatives concerned, prepare procedures for dealing with emergency situations.  
 
 ### Article  7  
 
-Workers shall be required, within the limits of their responsibility, to comply with prescribed safety and hygiene procedures relating to the prevention and control of, and protection against, health hazards due to occupational exposure to asbestos.  
+Workers shall be required, within the limits of their responsibility, to comply with prescribed safety and hygiene procedures relating to the prevention and control of, and protection against, health hazards due to occupational exposure to asbestos. 
 
 ### Article  8  
 
-Employers and workers or their representatives shall co-operate as closely as possible at all levels in the undertaking in the application of the measures prescribed pursuant to this Convention.  
+Employers and workers or their representatives shall co-operate as closely as possible at all levels in the undertaking in the application of the measures prescribed pursuant to this Convention. 
 
 ### PART  III  
 
@@ -77,7 +77,7 @@ The national laws or regulations adopted pursuant to Article 3 of this Conventio
 
 (a) making work in which exposure to asbestos may occur subject to regulations prescribing adequate engineering controls and work practices, including workplace hygiene;  
 
-(b) prescribing special rules and procedures, including authorisation, for the use of asbestos or of certain types of asbestos or products containing asbestos or for certain work processes.    
+(b) prescribing special rules and procedures, including authorisation, for the use of asbestos or of certain types of asbestos or products containing asbestos or for certain work processes.   
 
 ### Article  10  
 
@@ -85,36 +85,36 @@ Where necessary to protect the health of workers and technically practicable, na
 
 (a) replacement of asbestos or of certain types of asbestos or products containing asbestos by other materials or products of the use of alternative technology, scientifically evaluated by the competent authority as harmless or less harmful, whenever this is possible;  
 
-(b) total or partial prohibition of the use of asbestos or of certain types of asbestos or products containing asbestos in certain work processes.    
+(b) total or partial prohibition of the use of asbestos or of certain types of asbestos or products containing asbestos in certain work processes.   
 
 ### Article  11  
 
 1.  The use of crocidolite and products containing this fibre shall be prohibited.   
-2.  The competent authority shall be empowered, after consultation with the most representative organisations of employers and workers concerned, to permit derogations from the prohibition contained in paragraph 1 of this Article when replacement is not reasonably practicable, provided that steps are taken to ensure that the health of workers is not placed at risk.   
+2.  The competent authority shall be empowered, after consultation with the most representative organisations of employers and workers concerned, to permit derogations from the prohibition contained in paragraph 1 of this Article when replacement is not reasonably practicable, provided that steps are taken to ensure that the health of workers is not placed at risk.  
 
 ### Article  12  
 
 1.  Spraying of all forms of asbestos shall be prohibited.   
-2.  The competent authority shall be empowered, after consultation with the most representative organisations of employers and workers concerned, to permit derogations from the prohibition contained in paragraph 1 of this Article when alternative methods are not reasonably practicable, provided that steps are taken to ensure that the health of workers is not placed at risk.   
+2.  The competent authority shall be empowered, after consultation with the most representative organisations of employers and workers concerned, to permit derogations from the prohibition contained in paragraph 1 of this Article when alternative methods are not reasonably practicable, provided that steps are taken to ensure that the health of workers is not placed at risk.  
 
 ### Article  13  
 
-National laws and regulations shall provide that employers shall notify to the competent authority, in a manner and to the extent prescribed by it, certain types of work involving exposure to asbestos.  
+National laws and regulations shall provide that employers shall notify to the competent authority, in a manner and to the extent prescribed by it, certain types of work involving exposure to asbestos. 
 
 ### Article  14  
 
-Producers and suppliers of asbestos and manufacturers and suppliers of products containing asbestos shall be made responsible for adequate labelling of the container and, where appropriate, the product, in a language and manner easily understood by the workers and the users concerned, as prescribed by the competent authority.  
+Producers and suppliers of asbestos and manufacturers and suppliers of products containing asbestos shall be made responsible for adequate labelling of the container and, where appropriate, the product, in a language and manner easily understood by the workers and the users concerned, as prescribed by the competent authority. 
 
 ### Article  15  
 
 1.  The competent authority shall prescribe limits for the exposure of workers to asbestos or other exposure criteria for the evaluation of the working environment.   
 2.  The exposure limits or other exposure criteria shall be fixed and periodically reviewed and updated in the light of technological progress and advances in technological and scientific knowledge.   
 3.  In all workplaces where workers are exposed to asbestos, the employer shall take all appropriate measures to prevent or control the release of asbestos dust into the air, to ensure that the exposure limits or other exposure criteria are complied with and also to reduce exposure to as low a level as is reasonably practicable.   
-4.  When the measures taken in pursuance of paragraph 3 of this Article do not bring exposure to asbestos within the exposure limits or do not comply with the other exposure criteria specified in pursuance of paragraph 1 of this Article, the employer shall provide, maintain and replace, as necessary, at no cost to the workers, adequate respiratory protective equipment and special protective clothing as appropriate. Respiratory protective equipment shall comply with standards set by the competent authority, and be used only as a supplementary, temporary, emergency or exceptional measure and not as an alternative to technical control.   
+4.  When the measures taken in pursuance of paragraph 3 of this Article do not bring exposure to asbestos within the exposure limits or do not comply with the other exposure criteria specified in pursuance of paragraph 1 of this Article, the employer shall provide, maintain and replace, as necessary, at no cost to the workers, adequate respiratory protective equipment and special protective clothing as appropriate. Respiratory protective equipment shall comply with standards set by the competent authority, and be used only as a supplementary, temporary, emergency or exceptional measure and not as an alternative to technical control.  
 
 ### Article  16  
 
-Each employer shall be made responsible for the establishment and implementation of practical measures for the prevention and control of the exposure of the workers he employs to asbestos and for their protection against the hazards due to asbestos.  
+Each employer shall be made responsible for the establishment and implementation of practical measures for the prevention and control of the exposure of the workers he employs to asbestos and for their protection against the hazards due to asbestos. 
 
 ### Article  17  
 
@@ -126,7 +126,7 @@ Each employer shall be made responsible for the establishment and implementation
 (b) limit the release of asbestos dust into the air; and  
 
 (c) provide for the disposal of waste containing asbestos in accordance with Article 19 of this Convention.     
-3.  The workers or their representatives shall be consulted on the work plan referred to in paragraph 2 of this Article.   
+3.  The workers or their representatives shall be consulted on the work plan referred to in paragraph 2 of this Article.  
 
 ### Article  18  
 
@@ -134,12 +134,12 @@ Each employer shall be made responsible for the establishment and implementation
 2.  The handling and cleaning of used work clothing and special protective clothing shall be carried out under controlled conditions, as required by the competent authority, to prevent the release of asbestos dust.   
 3.  National laws or regulations shall prohibit the taking home of work clothing and special protective clothing and of personal protective equipment.   
 4.  The employer shall be responsible for the cleaning, maintenance and storage of work clothing, special protective clothing and personal protective equipment.   
-5.  The employer shall provide facilities for workers exposed to asbestos to wash, take a bath or shower at the workplace, as appropriate.   
+5.  The employer shall provide facilities for workers exposed to asbestos to wash, take a bath or shower at the workplace, as appropriate.  
 
 ### Article  19  
 
 1.  In accordance with national law and practice, employers shall dispose of waste containing asbestos in a manner that does not pose a health risk to the workers concerned, including those handling asbestos waste, or to the population in the vicinity of the enterprise.   
-2.  Appropriate measures shall be taken by the competent authority and by employers to prevent pollution of the general environment by asbestos dust released from the workplace.   
+2.  Appropriate measures shall be taken by the competent authority and by employers to prevent pollution of the general environment by asbestos dust released from the workplace.  
 
 ### PART  IV  
 
@@ -150,7 +150,7 @@ Each employer shall be made responsible for the establishment and implementation
 1.  Where it is necessary for the protection of the health of workers, the employer shall measure the concentrations of airborne asbestos dust in workplaces, and shall monitor the exposure of workers to asbestos at intervals and using methods specified by the competent authority.   
 2.  The records of the monitoring of the working environment and of the exposure of workers to asbestos shall be kept for a period prescribed by the competent authority.   
 3.  The workers concerned, their representatives and the inspection services shall have access to these records.   
-4.  The workers or their representatives shall have the right to request the monitoring of the working environment and to appeal to the competent authority concerning the results of the monitoring.   
+4.  The workers or their representatives shall have the right to request the monitoring of the working environment and to appeal to the competent authority concerning the results of the monitoring.  
 
 ### Article  21  
 
@@ -158,7 +158,7 @@ Each employer shall be made responsible for the establishment and implementation
 2.  The monitoring of workers' health in connection with the use of asbestos shall not result in any loss of earnings for them. It shall be free of charge and, as far as possible, shall take place during working hours.   
 3.  Workers shall be informed in an adequate and appropriate manner of the results of their medical examinations and receive individual advice concerning their health in relation to their work.   
 4.  When continued assignment to work involving exposure to asbestos is found to be medically inadvisable, every effort shall be made, consistent with national conditions and practice, to provide the workers concerned with other means of maintaining their income.   
-5.  The competent authority shall develop a system of notification of occupational diseases caused by asbestos.   
+5.  The competent authority shall develop a system of notification of occupational diseases caused by asbestos.  
 
 ### PART  V  
 
@@ -168,7 +168,7 @@ Each employer shall be made responsible for the establishment and implementation
 
 1.  The competent authority shall make appropriate arrangements, in consultation and collaboration with the most representative organisations of employers and workers concerned, to promote the dissemination of information and the education of all concerned with regard to health hazards due to exposure to asbestos and to methods of prevention and control.   
 2.  The competent authority shall ensure that employers have established written policies and procedures on measures for the education and periodic training of workers on asbestos hazards and methods of prevention and control.   
-3.  The employer shall ensure that all workers exposed or likely to be exposed to asbestos are informed about the health hazards related to their work, instructed in preventive measures and correct work practices and receive continuing training in these fields.   
+3.  The employer shall ensure that all workers exposed or likely to be exposed to asbestos are informed about the health hazards related to their work, instructed in preventive measures and correct work practices and receive continuing training in these fields.  
 
 ### PART  VI  
 
@@ -176,31 +176,31 @@ Each employer shall be made responsible for the establishment and implementation
 
 ### Article  23  
 
-The formal ratifications of this Convention shall be communicated to the Director-General of the International Labour Office for registration.  
+The formal ratifications of this Convention shall be communicated to the Director-General of the International Labour Office for registration. 
 
 ### Article  24  
 
 1.  This Convention shall be binding only upon those Members of the International Labour Organisation whose ratifications have been registered with the Director-General.   
 2.  It shall come into force twelve months after the date on which the ratifications of two Members have been registered with the Director-General.   
-3.  Thereafter, this Convention shall come into force for any Member twelve months after the date on which its ratification has been registered.   
+3.  Thereafter, this Convention shall come into force for any Member twelve months after the date on which its ratification has been registered.  
 
 ### Article  25  
 
 1.  A Member which has ratified this Convention may denounce it after the expiration of ten years from the date on which the Convention first comes into force, by an act communicated to the Director-General of the International Labour Office for registration. Such denunciation shall not take effect until one year after the date on which it is registered.   
-2.  Each Member which has ratified this Convention and which does not, within the year following the expiration of the period often years mentioned in the preceding paragraph, exercise the right of denunciation provided for in this Article, will be bound for another period often years and, thereafter, may denounce this Convention at the expiration of each period of ten years under the terms provided for in this Article.   
+2.  Each Member which has ratified this Convention and which does not, within the year following the expiration of the period often years mentioned in the preceding paragraph, exercise the right of denunciation provided for in this Article, will be bound for another period often years and, thereafter, may denounce this Convention at the expiration of each period of ten years under the terms provided for in this Article.  
 
 ### Article  26  
 
 1.  The Director-General of the International Labour Office shall notify all Members of the International Labour Organisation of the registration of all ratifications and denunciations communicated to him by the Members of the Organisation.   
-2.  When notifying the Members of the Organisation of the registration of the second ratification communicated to him, the Director-General shall draw the attention of the Members of the Organisation to the date upon which the Convention will come into force.   
+2.  When notifying the Members of the Organisation of the registration of the second ratification communicated to him, the Director-General shall draw the attention of the Members of the Organisation to the date upon which the Convention will come into force.  
 
 ### Article  27  
 
-The Director-General of the International Labour Office shall communicate to the Secretary-General of the United Nations for registration in accordance with Article 102 of the Charter of the United Nations full particulars of all ratifications and acts of denunciation registered by him in accordance with the provisions of the preceding Articles.  
+The Director-General of the International Labour Office shall communicate to the Secretary-General of the United Nations for registration in accordance with [Article 102 of the Charter of the United Nations](../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) full particulars of all ratifications and acts of denunciation registered by him in accordance with the provisions of the preceding Articles. 
 
 ### Article  28  
 
-At such times as it may consider necessary the Governing Body of the International Labour Office shall present to the General Conference a report on the working of this Convention and shall examine the desirability of placing on the agenda of the Conference the question of its revision in whole or in part.  
+At such times as it may consider necessary the Governing Body of the International Labour Office shall present to the General Conference a report on the working of this Convention and shall examine the desirability of placing on the agenda of the Conference the question of its revision in whole or in part. 
 
 ### Article  29  
 
@@ -209,17 +209,17 @@ At such times as it may consider necessary the Governing Body of the Internation
 (a) the ratification by a Member of the revising Convention shall *ipso jure* involve the immediate denunciation of this Convention, notwithstanding the provisions of Article 25 above, if and when the new revising Convention shall have come into force;  
 
 (b) as from the date when the new revising Convention comes into force this Convention shall cease to be open to ratification by the Members.     
-2.  This Convention shall in any case remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention.   
+2.  This Convention shall in any case remain in force in its actual form and content for those Members which have ratified it but have not ratified the revising Convention.  
 
 ### Article  30  
 
-The English and French versions of the text of this Convention are equally authoritative. The foregoing is the authentic text of the Convention duly adopted by the General Conference of the International Labour Organisation during its Seventy-second Session which was held at Geneva and declared closed the twenty-fifth day of June 1986.  
+The English and French versions of the text of this Convention are equally authoritative. The foregoing is the authentic text of the Convention duly adopted by the General Conference of the International Labour Organisation during its Seventy-second Session which was held at Geneva and declared closed the twenty-fifth day of June 1986. 
 
 IN FAITH WHEREOF we have appended our signatures this twenty-sixth day of June 1986.  *The President of the Conference,*  (sd.) HUGO FERNANDEZ FAINGOLD  *The Director-General of the International Labour Office,*  (sd.) FRANCIS BLANCHARD  
 
 ####Verdrag betreffende veiligheid bij het gebruik van asbest
 
-De Algemene Conferentie van de Internationale Arbeidsorganisatie, Door de Raad van Beheer van het Internationale Arbeidsbureau bijeengeroepen te Genève, en aldaar bijeengekomen op 4 juni 1986, in haar tweeënzeventigste Zitting, Gelet op de op dit gebied betrekking hebbende internationale arbeidsverdragen en aanbevelingen, en in het bijzonder op het Verdrag en de Aanbeveling betreffende beroepskanker, 1974, het Verdrag en de Aanbeveling betreffende het werkmilieu (luchtverontreiniging, lawaai en trillingen), 1977, het Verdrag en de Aanbeveling betreffende beroepsveiligheid en gezondheid, 1981, het Verdrag en de Aanbeveling betreffende bedrijfsgeneeskundige diensten, 1985, de lijst van beroepsziekten, zoals herzien in 1980 en gehecht aan het Verdrag betreffende de prestaties bij arbeidsongevallen en beroepsziekten, 1964, alsmede de in 1984 door het Internationale Arbeidsbureau gepubliceerde Praktijk-handleiding inzake veiligheid bij het gebruik van asbest, waarin de beginselen voor een nationaal beleid en maatregelen op nationaal niveau zijn vastgelegd, Besloten hebbende tot het aannemen van bepaalde voorstellen met betrekking tot veiligheid bij het gebruik van asbest, welk onderwerp als vierde punt op de agenda van de Zitting voorkomt, en Vastgesteld hebbende dat deze voorstellen de vorm van een internationaal Verdrag dienen te krijgen, Aanvaardt heden, de vierentwintigste juni van het jaar negentienhonderd zesentachtig het volgende Verdrag, dat kan worden aangehaald als Verdrag betreffende asbest, 1986:     
+De Algemene Conferentie van de Internationale Arbeidsorganisatie, Door de Raad van Beheer van het Internationale Arbeidsbureau bijeengeroepen te Genève, en aldaar bijeengekomen op 4 juni 1986, in haar tweeënzeventigste Zitting, Gelet op de op dit gebied betrekking hebbende internationale arbeidsverdragen en aanbevelingen, en in het bijzonder op het Verdrag en de Aanbeveling betreffende beroepskanker, 1974, het Verdrag en de Aanbeveling betreffende het werkmilieu (luchtverontreiniging, lawaai en trillingen), 1977, het Verdrag en de Aanbeveling betreffende beroepsveiligheid en gezondheid, 1981, het Verdrag en de Aanbeveling betreffende bedrijfsgeneeskundige diensten, 1985, de lijst van beroepsziekten, zoals herzien in 1980 en gehecht aan het [Verdrag betreffende de prestaties bij arbeidsongevallen en beroepsziekten](../../../../../../../../../../verdrag/convention/concerning/benefits/in/the/case/of/employment/injury/BWBV0004636/README.md), 1964, alsmede de in 1984 door het Internationale Arbeidsbureau gepubliceerde Praktijk-handleiding inzake veiligheid bij het gebruik van asbest, waarin de beginselen voor een nationaal beleid en maatregelen op nationaal niveau zijn vastgelegd, Besloten hebbende tot het aannemen van bepaalde voorstellen met betrekking tot veiligheid bij het gebruik van asbest, welk onderwerp als vierde punt op de agenda van de Zitting voorkomt, en Vastgesteld hebbende dat deze voorstellen de vorm van een internationaal Verdrag dienen te krijgen, Aanvaardt heden, de vierentwintigste juni van het jaar negentienhonderd zesentachtig het volgende Verdrag, dat kan worden aangehaald als Verdrag betreffende asbest, 1986:     
 ### DEEL  I  
 
 ####TOEPASSINGSGEBIED EN BEGRIPSOMSCHRIJVINGEN
@@ -228,7 +228,7 @@ De Algemene Conferentie van de Internationale Arbeidsorganisatie, Door de Raad v
 
 1.  Dit Verdrag is van toepassing op alle bezigheden die blootstelling van werknemers aan asbest tijdens de arbeid met zich meebrengen.   
 2.  Een Lid dat dit Verdrag bekrachtigt, kan, na raadpleging van de betrokken meest representatieve organisaties van werkgevers en van werknemers en op basis van een beoordeling van de betreffende gezondheidsgevaren en de toegepaste veiligheidsmaatregelen, bepaalde takken van economische bedrijvigheid of bepaalde ondernemingen van de toepassing van sommige bepalingen van het Verdrag uitsluiten, indien het ervan overtuigd is dat de toepassing op deze takken of ondernemingen onnodig is.   
-3.  De bevoegde autoriteit dient bij de beslissing over het uitsluiten van bepaalde takken van economische bedrijvigheid of bepaalde ondernemingen rekening te houden met de frequentie, duur en mate van blootstelling, alsmede van de aard van de arbeid en de omstandigheden op de werkplek.   
+3.  De bevoegde autoriteit dient bij de beslissing over het uitsluiten van bepaalde takken van economische bedrijvigheid of bepaalde ondernemingen rekening te houden met de frequentie, duur en mate van blootstelling, alsmede van de aard van de arbeid en de omstandigheden op de werkplek.  
 
 ### Artikel  2  
 
@@ -246,7 +246,7 @@ e. wordt onder de uitdrukking „blootstelling aan asbest” verstaan: het tijde
 
 f. omvat de uitdrukking „werknemers” eveneens de deelnemers aan produktiecoöperaties;  
 
-g. wordt onder de uitdrukking „werknemersvertegenwoordigers” verstaan: de vertegenwoordigers van de werknemers die als zodanig door de nationale wetgeving of praktijk zijn erkend in overeenstemming met het Verdrag betreffende de vertegenwoordigers van de werknemers, 1971.    
+g. wordt onder de uitdrukking „werknemersvertegenwoordigers” verstaan: de vertegenwoordigers van de werknemers die als zodanig door de nationale wetgeving of praktijk zijn erkend in overeenstemming met het [Verdrag betreffende de vertegenwoordigers van de werknemers](../../../../../../../../../../verdrag/convention/concerning/protection/and/facilities/to/be/afforded/to/workers'/etc/BWBV0003710/README.md), 1971.   
 
 ### DEEL  II  
 
@@ -257,30 +257,30 @@ g. wordt onder de uitdrukking „werknemersvertegenwoordigers” verstaan: de ve
 1.  De nationale wetgeving dient de maatregelen voor te schrijven die getroffen moeten worden ter voorkoming en beheersing van, en bescherming van werknemers tegen, gezondheidsgevaren als gevolg van beroepsmatige blootstelling aan asbest.   
 2.  De ingevolge het eerste lid van dit artikel aangenomen nationale wetgeving dient in het licht van de technische ontwikkeling en de vooruitgang in wetenschappelijke kennis periodiek te worden herzien.   
 3.  De bevoegde autoriteit kan tijdelijke afwijkingen van de ingevolge het in het eerste lid van dit artikel voorgeschreven maatregelen toestaan onder voorwaarden en binnen tijdsgrenzen die moeten worden vastgesteld na raadpleging van de betrokken meest representatieve organisaties van werkgevers en van werknemers.   
-4.  Bij het toestaan van afwijkingen ingevolge het derde lid van dit artikel dient de bevoegde autoriteit te waarborgen, dat er de nodige voorzorgsmaatregelen tot bescherming van de gezondheid van de werknemers worden genomen.   
+4.  Bij het toestaan van afwijkingen ingevolge het derde lid van dit artikel dient de bevoegde autoriteit te waarborgen, dat er de nodige voorzorgsmaatregelen tot bescherming van de gezondheid van de werknemers worden genomen.  
 
 ### Artikel  4  
 
-De bevoegde autoriteit dient de betrokken meest representatieve organisaties van werkgevers en van werknemers te raadplegen over de ter uitvoering van de bepalingen van dit Verdrag te nemen maatregelen.  
+De bevoegde autoriteit dient de betrokken meest representatieve organisaties van werkgevers en van werknemers te raadplegen over de ter uitvoering van de bepalingen van dit Verdrag te nemen maatregelen. 
 
 ### Artikel  5  
 
 1.  De toepassing van de wetgeving, aangenomen ingevolge artikel 3 van dit Verdrag, dient te worden verzekerd door een toereikend en passend controlestelsel.   
-2.  De nationale wetgeving dient te voorzien in de noodzakelijke maatregelen, met inbegrip van passende sancties teneinde een effectieve toepassing en naleving van de bepalingen van dit Verdrag te verzekeren.   
+2.  De nationale wetgeving dient te voorzien in de noodzakelijke maatregelen, met inbegrip van passende sancties teneinde een effectieve toepassing en naleving van de bepalingen van dit Verdrag te verzekeren.  
 
 ### Artikel  6  
 
 1.  Werkgevers dienen verantwoordelijk te worden gesteld voor de naleving van de voorgeschreven maatregelen.   
 2.  Wanneer twee of meer werkgevers zich verbinden tot gelijktijdige uitvoering van werkzaamheden op eenzelfde werkplek dienen zij, onverminderd de verantwoordelijkheid van elke werkgever voor de gezondheid en veiligheid van zijn werknemers, samen te werken teneinde de voorgeschreven maatregelen toe te passen. De bevoegde autoriteit dient de algemene regels voor deze samenwerking voor te schrijven wanneer dit noodzakelijk is.   
-3.  Werkgevers dienen, in samenwerking met de bedrijfsveiligheids- en gezondheidsdiensten, en na raadpleging van de betrokken werknemersvertegenwoordigers, de in noodsituaties te volgen handelwijzen voor te bereiden.   
+3.  Werkgevers dienen, in samenwerking met de bedrijfsveiligheids- en gezondheidsdiensten, en na raadpleging van de betrokken werknemersvertegenwoordigers, de in noodsituaties te volgen handelwijzen voor te bereiden.  
 
 ### Artikel  7  
 
-Werknemers dienen, binnen de grenzen van hun verantwoordelijkheid, te voldoen aan de voorgeschreven veiligheids- en arbeidshygiënische instructies betreffende de voorkoming en het onder controle houden van, en de bescherming tegen, gezondheidsgevaren als gevolg van beroepsmatige blootstelling aan asbest.  
+Werknemers dienen, binnen de grenzen van hun verantwoordelijkheid, te voldoen aan de voorgeschreven veiligheids- en arbeidshygiënische instructies betreffende de voorkoming en het onder controle houden van, en de bescherming tegen, gezondheidsgevaren als gevolg van beroepsmatige blootstelling aan asbest. 
 
 ### Artikel  8  
 
-Werkgevers en werknemers of hun vertegenwoordigers dienen op alle niveaux in de onderneming zo nauw mogelijk samen te werken bij de toepassing van de maatregelen die ingevolge dit Verdrag zijn voorgeschreven.  
+Werkgevers en werknemers of hun vertegenwoordigers dienen op alle niveaux in de onderneming zo nauw mogelijk samen te werken bij de toepassing van de maatregelen die ingevolge dit Verdrag zijn voorgeschreven. 
 
 ### DEEL  III  
 
@@ -292,7 +292,7 @@ De nationale wetgeving, aangenomen ingevolge artikel 3 van dit Verdrag, dient er
 
 a. arbeid waarbij blootstelling aan asbest zich kan voordoen afhankelijk stellen van voorschriften, die passende technische voorzorgsmaatregelen en werkmethodes, met inbegrip van de toepassing van arbeidshygiëne voorschrijven;  
 
-b. het voorschrijven van speciale regels en procedures, met inbegrip van: een autorisatie-regime, voor het gebruik van asbest of van bepaalde asbestsoorten of produkten die asbest bevatten, of voor bepaalde werkprocessen.    
+b. het voorschrijven van speciale regels en procedures, met inbegrip van: een autorisatie-regime, voor het gebruik van asbest of van bepaalde asbestsoorten of produkten die asbest bevatten, of voor bepaalde werkprocessen.   
 
 ### Artikel  10  
 
@@ -300,36 +300,36 @@ Waar het voor de bescherming van de gezondheid van werknemers noodzakelijk en te
 
 a. waar mogelijk vervanging van asbest of van bepaalde asbestsoorten of produkten die asbest bevatten, door andere materialen of produkten of door de toepassing van alternatieve technologieën die door de bevoegde autoriteit wetenschappelijk als onschadelijk of minder schadelijk zijn verbonden, waar dit mogelijk is;  
 
-b. het algeheel of gedeeltelijk verbod van het gebruik van asbest of van bepaalde asbestsoorten of produkten die asbest bevatten, in bepaalde werkprocessen.    
+b. het algeheel of gedeeltelijk verbod van het gebruik van asbest of van bepaalde asbestsoorten of produkten die asbest bevatten, in bepaalde werkprocessen.   
 
 ### Artikel  11  
 
 1.  Het gebruik van crocidoliet en produkten die deze vezel bevatten, dient te worden verboden.   
-2.  De bevoegde autoriteit dient, na raadpleging van de betrokken meest representatieve organisaties van werkgevers en van werknemers, de bevoegdheid te hebben om afwijkingen van het in het eerste lid van dit artikel vervatte verbod toe te staan, wanneer vervanging redelijkerwijs niet uitvoerbaar is, mits stappen worden genomen om te waarborgen dat de gezondheid van werknemers niet in gevaar wordt gebracht.   
+2.  De bevoegde autoriteit dient, na raadpleging van de betrokken meest representatieve organisaties van werkgevers en van werknemers, de bevoegdheid te hebben om afwijkingen van het in het eerste lid van dit artikel vervatte verbod toe te staan, wanneer vervanging redelijkerwijs niet uitvoerbaar is, mits stappen worden genomen om te waarborgen dat de gezondheid van werknemers niet in gevaar wordt gebracht.  
 
 ### Artikel  12  
 
 1.  Het spuiten van alle vormen van asbest dient te worden verboden.   
-2.  De bevoegde autoriteit dient, na raadpleging van de betrokken meest representatieve organisaties van werkgevers en van werknemers, de bevoegdheid te hebben om afwijkingen van het in het eerste lid van dit artikel vervatte verbod toe te staan wanneer alternatieve methoden redelijkerwijs niet uitvoerbaar zijn, mits stappen worden genomen om te waarborgen dat de gezondheid van werknemers niet in gevaar wordt gebracht.   
+2.  De bevoegde autoriteit dient, na raadpleging van de betrokken meest representatieve organisaties van werkgevers en van werknemers, de bevoegdheid te hebben om afwijkingen van het in het eerste lid van dit artikel vervatte verbod toe te staan wanneer alternatieve methoden redelijkerwijs niet uitvoerbaar zijn, mits stappen worden genomen om te waarborgen dat de gezondheid van werknemers niet in gevaar wordt gebracht.  
 
 ### Artikel  13  
 
-De nationale wetgeving, dient er in te voorzien dat werkgevers bepaalde soorten arbeid die blootstelling aan asbest met zich meebrengen moeten melden aan de bevoegde autoriteit, op een wijze en in een omvang zoals door die bevoegde autoriteit voorgeschreven.  
+De nationale wetgeving, dient er in te voorzien dat werkgevers bepaalde soorten arbeid die blootstelling aan asbest met zich meebrengen moeten melden aan de bevoegde autoriteit, op een wijze en in een omvang zoals door die bevoegde autoriteit voorgeschreven. 
 
 ### Artikel  14  
 
-Producenten en leveranciers van asbest en fabrikanten en leveranciers van produkten die asbest bevatten, dienen verantwoordelijk te worden gesteld voor een doelmatige etikettering van de verpakking en, waar van toepassing, van het produkt in een taal en op een manier die gemakkelijk door de betrokken werknemers en gebruikers wordt begrepen, zoals voorgeschreven door de bevoegde autoriteit.  
+Producenten en leveranciers van asbest en fabrikanten en leveranciers van produkten die asbest bevatten, dienen verantwoordelijk te worden gesteld voor een doelmatige etikettering van de verpakking en, waar van toepassing, van het produkt in een taal en op een manier die gemakkelijk door de betrokken werknemers en gebruikers wordt begrepen, zoals voorgeschreven door de bevoegde autoriteit. 
 
 ### Artikel  15  
 
 1.  De bevoegde autoriteit dient grenswaarden voor de blootstelling van werknemers aan asbest of andere blootstellingscriteria voor de evaluatie van het werkmilieu voor te schrijven.   
 2.  De blootstellingsgrenswaarden of andere blootstellingscriteria dienen te worden vastgesteld en periodiek te worden herzien en bijgesteld in het licht van de technologische ontwikkeling en de vooruitgang in technologische en wetenschappelijke kennis.   
 3.  Op alle werkplekken waar werknemers aan asbest worden blootgesteld, dient de werkgever alle passende maatregelen te treffen om het vrijkomen van asbeststof in de lucht te voorkomen of onder controle te houden teneinde te waarborgen, dat aan de blootstellingsgrenswaarden of andere blootstellingscriteria wordt voldaan en ook om blootstelling tot een zo laag mogelijk niveau te verminderen.   
-4.  Wanneer de ingevolge het derde lid van dit artikel genomen maatregelen de blootstelling aan asbest niet binnen de blootstellingsgrenswaarden brengen of niet aan de andere ingevolge het eerste lid van dit artikel genoemde blootstellingscriteria voldoen, dient de werkgever, zonder kosten voor de werknemers, geschikte beschermende apparatuur voor de ademhaling en speciale beschermende kleding, waar passend, ter beschikking te stellen, te onderhouden en, indien nodig, te vervangen. Beschermende apparatuur voor de ademhaling dient te voldoen aan normen die door de bevoegde autoriteit zijn vastgesteld en alleen te worden gebruikt als een aanvullende, tijdelijke, nood- of buitengewone maatregel en niet als een alternatief voor beheersing via technische maatregelen.   
+4.  Wanneer de ingevolge het derde lid van dit artikel genomen maatregelen de blootstelling aan asbest niet binnen de blootstellingsgrenswaarden brengen of niet aan de andere ingevolge het eerste lid van dit artikel genoemde blootstellingscriteria voldoen, dient de werkgever, zonder kosten voor de werknemers, geschikte beschermende apparatuur voor de ademhaling en speciale beschermende kleding, waar passend, ter beschikking te stellen, te onderhouden en, indien nodig, te vervangen. Beschermende apparatuur voor de ademhaling dient te voldoen aan normen die door de bevoegde autoriteit zijn vastgesteld en alleen te worden gebruikt als een aanvullende, tijdelijke, nood- of buitengewone maatregel en niet als een alternatief voor beheersing via technische maatregelen.  
 
 ### Artikel  16  
 
-Elke werkgever dient verantwoordelijk te worden gesteld voor het opstellen en toepassen van praktische maatregelen ter voorkoming en het onder controle houden van de blootstelling aan asbest van de werknemers die hij in dienst heeft en voor hun bescherming tegen de gevaren van asbest.  
+Elke werkgever dient verantwoordelijk te worden gesteld voor het opstellen en toepassen van praktische maatregelen ter voorkoming en het onder controle houden van de blootstelling aan asbest van de werknemers die hij in dienst heeft en voor hun bescherming tegen de gevaren van asbest. 
 
 ### Artikel  17  
 
@@ -341,7 +341,7 @@ a. alle noodzakelijke bescherming aan de werknemers te verschaffen;
 b. het vrijkomen van asbeststof in de lucht te beperken, en  
 
 c. voor de afvoer van afval dat asbest bevat te zorgen overeenkomstig artikel 19 van dit Verdrag.     
-3.  De werknemers of hun vertegenwoordigers dienen te worden geraadpleegd over het werkplan waarnaar in het tweede lid van dit artikel wordt verwezen.   
+3.  De werknemers of hun vertegenwoordigers dienen te worden geraadpleegd over het werkplan waarnaar in het tweede lid van dit artikel wordt verwezen.  
 
 ### Artikel  18  
 
@@ -349,12 +349,12 @@ c. voor de afvoer van afval dat asbest bevat te zorgen overeenkomstig artikel 19
 2.  Het hanteren en schoonmaken van gebruikte werkkleding en speciale beschermende kleding dient te worden uitgevoerd onder omstandigheden waarop controle is zoals door de bevoegde autoriteit geëist, teneinde het vrijkomen van asbeststof te voorkomen.   
 3.  De nationale wetgeving dient het mee naar huis nemen van werkkleding en speciale beschermende kleding en van persoonlijke beschermingsmiddelen te verbieden.   
 4.  De werkgever dient verantwoordelijk te zijn voor het schoonmaken, onderhouden en opbergen van werkkleding, speciale beschermende kleding en persoonlijke beschermingsmiddelen.   
-5.  De werkgever dient aan de werknemers die aan asbest zijn blootgesteld de mogelijkheid te verschaffen om zich op de werkplek te wassen, een bad te nemen of te douchen, al naar gelang passend is.   
+5.  De werkgever dient aan de werknemers die aan asbest zijn blootgesteld de mogelijkheid te verschaffen om zich op de werkplek te wassen, een bad te nemen of te douchen, al naar gelang passend is.  
 
 ### Artikel  19  
 
 1.  In overeenstemming met de nationale wetgeving en praktijk dienen werkgevers afval dat asbest bevat, op zodanige wijze af te voeren dat dit noch voor de betrokken werknemers, met inbegrip van diegenen die asbestafval hanteren, noch voor de bevolking in de buurt van de onderneming gevaar voor de gezondheid oplevert.   
-2.  Door de bevoegde autoriteit en door de werkgevers dienen passende maatregelen te worden getroffen om verontreiniging van het algemene milieu door asbeststof dat van de werkplek is vrijgekomen, te voorkomen.   
+2.  Door de bevoegde autoriteit en door de werkgevers dienen passende maatregelen te worden getroffen om verontreiniging van het algemene milieu door asbeststof dat van de werkplek is vrijgekomen, te voorkomen.  
 
 ### DEEL  IV  
 
@@ -365,7 +365,7 @@ c. voor de afvoer van afval dat asbest bevat te zorgen overeenkomstig artikel 19
 1.  Waar dit voor de bescherming van de gezondheid van werknemers noodzakelijk is, dient de werkgever de concentraties van asbeststof dat in de lucht is geraakt op de werkplek te meten en de blootstelling van werknemers aan asbest bij tussenpozen te controleren, onder toepassing van methodes die door de bevoegde autoriteit zijn gespecificeerd.   
 2.  De gegevens van het toezicht op het werkmilieu en van de blootstelling van werknemers aan asbest dienen te worden bewaard gedurende een periode die door de bevoegde autoriteit is voorgeschreven.   
 3.  De betrokken werknemers, hun vertegenwoordigers en de inspectiediensten dienen toegang tot deze gegevens te hebben.   
-4.  De werknemers of hun vertegenwoordigers dienen het recht te hebben om toezicht op het werkmilieu te verzoeken en om een beroep te doen op de bevoegde autoriteit wat betreft de resultaten van het toezicht.   
+4.  De werknemers of hun vertegenwoordigers dienen het recht te hebben om toezicht op het werkmilieu te verzoeken en om een beroep te doen op de bevoegde autoriteit wat betreft de resultaten van het toezicht.  
 
 ### Artikel  21  
 
@@ -373,7 +373,7 @@ c. voor de afvoer van afval dat asbest bevat te zorgen overeenkomstig artikel 19
 2.  Het controleren van de gezondheid van werknemers in verband met het gebruik van asbest dient niet in verlies van verdiensten voor hen te resulteren. Het dient kosteloos te zijn, en voor zover mogelijk, tijdens de werkuren plaats te vinden.   
 3.  Werknemers dienen op adequate en passende manier te worden ingelicht over de resultaten van hun medische onderzoeken en individueel advies te krijgen betreffende hun gezondheid met betrekking tot hun werk.   
 4.  Indien het voortgezet opdragen van werk dat blootstelling aan asbest met zich meebrengt, medisch gezien niet raadzaam blijkt te zijn, dient, in overeenstemming met de nationale omstandigheden en praktijk, alle moeite te worden gedaan om de betrokken werknemers andere mogelijkheden te bieden om hun inkomen te behouden.   
-5.  De bevoegde autoriteit dient een systeem te ontwikkelen voor de melding van door asbest veroorzaakte beroepsziekten.   
+5.  De bevoegde autoriteit dient een systeem te ontwikkelen voor de melding van door asbest veroorzaakte beroepsziekten.  
 
 ### DEEL  V  
 
@@ -383,7 +383,7 @@ c. voor de afvoer van afval dat asbest bevat te zorgen overeenkomstig artikel 19
 
 1.  De bevoegde autoriteit dient in overleg en samenwerking met de betrokken meest representatieve organisaties van werkgevers en van werknemers, passende voorzieningen te treffen ter bevordering van de verspreiding van informatie aan en de voorlichting van alle betrokkenen inzake de gevaren voor de gezondheid die blootstelling aan asbest met zich meebrengt en inzake methodes voor preventie en toezicht.   
 2.  De bevoegde autoriteit dient te waarborgen, dat de werkgevers schriftelijke beleidsmaatregelen en werkwijzen hebben opgesteld inzake maatregelen voor de voorlichting en periodieke scholing van werknemers over de gevaren van asbest en methodes voor preventie en toezicht.   
-3.  De werkgever dient te waarborgen, dat alle werknemers die aan asbest zijn of waarschijnlijk worden blootgesteld, over de gevaren voor de gezondheid die hun werk met zich meebrengt worden ingelicht, over preventieve maatregelen en correcte werkmethodes worden geïnstrueerd en op deze terreinen steeds scholing blijven krijgen.   
+3.  De werkgever dient te waarborgen, dat alle werknemers die aan asbest zijn of waarschijnlijk worden blootgesteld, over de gevaren voor de gezondheid die hun werk met zich meebrengt worden ingelicht, over preventieve maatregelen en correcte werkmethodes worden geïnstrueerd en op deze terreinen steeds scholing blijven krijgen.  
 
 ### DEEL  VI  
 
@@ -391,31 +391,31 @@ c. voor de afvoer van afval dat asbest bevat te zorgen overeenkomstig artikel 19
 
 ### Artikel  23  
 
-De formele bekrachtigingen van dit Verdrag worden aan de Directeur-Generaal van het Internationale Arbeidsbureau medegedeeld en door hem geregistreerd.  
+De formele bekrachtigingen van dit Verdrag worden aan de Directeur-Generaal van het Internationale Arbeidsbureau medegedeeld en door hem geregistreerd. 
 
-### Artikel  24  
+### Artikel   24  
 
 1.  Dit Verdrag is slechts verbindend voor de Leden van de Internationale Arbeidsorganisatie die hun bekrachtiging door de Directeur-Generaal hebben doen registreren.   
 2.  Het treedt in werking twaalf maanden na de datum waarop de bekrachtigingen van twee Leden door de Directeur-Generaal zijn geregistreerd.   
-3.  Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.   
+3.  Vervolgens treedt dit Verdrag voor ieder Lid in werking twaalf maanden na de datum waarop zijn bekrachtiging is geregistreerd.  
 
-### Artikel  25  
+### Artikel   25  
 
 1.  Ieder Lid dat dit Verdrag heeft bekrachtigd, kan het opzeggen na afloop van een termijn van tien jaar na de datum waarop het Verdrag in werking is getreden, door middel van een aan de Directeur-Generaal van het Internationale Arbeidsbureau gerichte en door deze geregistreerde verklaring. De opzegging wordt eerst van kracht een jaar na de datum waarop zij is geregistreerd.   
-2.  Ieder Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na afloop van de termijn van tien jaar als bedoeld in het vorige lid, gebruik maakt van de bevoegdheid tot opzegging, voorzien in dit artikel, is voor een nieuwe termijn van tien jaar gebonden en kan daarna dit Verdrag opzeggen na afloop van elke termijn van tien jaar op de voorwaarden, voorzien in dit artikel.   
+2.  Ieder Lid dat dit Verdrag heeft bekrachtigd en niet binnen een jaar na afloop van de termijn van tien jaar als bedoeld in het vorige lid, gebruik maakt van de bevoegdheid tot opzegging, voorzien in dit artikel, is voor een nieuwe termijn van tien jaar gebonden en kan daarna dit Verdrag opzeggen na afloop van elke termijn van tien jaar op de voorwaarden, voorzien in dit artikel.  
 
-### Artikel  26  
+### Artikel   26  
 
 1.  De Directeur-Generaal van het Internationale Arbeidsbureau stelt alle Leden van de Internationale Arbeidsorganisatie in kennis van de registratie van alle bekrachtigingen en opzeggingen die hem door de Leden van de Organisatie zijn medegedeeld.   
-2.  Bij de kennisgeving aan de Leden van de Organisatie van de registratie van de tweede hem medegedeelde bekrachtiging, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop dit Verdrag in werking treedt.   
+2.  Bij de kennisgeving aan de Leden van de Organisatie van de registratie van de tweede hem medegedeelde bekrachtiging, vestigt de Directeur-Generaal de aandacht van de Leden van de Organisatie op de datum waarop dit Verdrag in werking treedt.  
 
-### Artikel  27  
+### Artikel   27  
 
-De Directeur-Generaal van het Internationale Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie in overeenstemming met het bepaalde in Artikel 102 van het Handvest der Verenigde Naties, van de volledige bijzonderheden omtrent alle bekrachtigingen en opzeggingen die hij overeenkomstig de voorgaande artikelen heeft geregistreerd.  
+De Directeur-Generaal van het Internationale Arbeidsbureau doet aan de Secretaris-Generaal van de Verenigde Naties mededeling, ter registratie in overeenstemming met het bepaalde in [Artikel 102 van het Handvest der Verenigde Naties](../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md), van de volledige bijzonderheden omtrent alle bekrachtigingen en opzeggingen die hij overeenkomstig de voorgaande artikelen heeft geregistreerd. 
 
 ### Artikel  28  
 
-De Raad van Beheer van het Internationale Arbeidsbureau brengt, telkens wanneer deze dit noodzakelijk acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda van de Conferentie te plaatsen.  
+De Raad van Beheer van het Internationale Arbeidsbureau brengt, telkens wanneer deze dit noodzakelijk acht, aan de Algemene Conferentie verslag uit over de toepassing van dit Verdrag en onderzoekt of het wenselijk is de gehele of gedeeltelijke herziening ervan op de agenda van de Conferentie te plaatsen. 
 
 ### Artikel  29  
 
@@ -424,11 +424,11 @@ De Raad van Beheer van het Internationale Arbeidsbureau brengt, telkens wanneer 
 a. bekrachtiging door een Lid van het nieuwe verdrag, houdende herziening, van rechtswege onmiddellijke opzegging van dit Verdrag ten gevolge hebben, niettegenstaande het bepaalde in artikel 25, onder voorbehoud evenwel dat het nieuwe verdrag, houdende herziening, in werking is getreden;  
 
 b. met ingang van de datum waarop het nieuwe verdrag, houdende herziening, in werking is getreden, dit Verdrag niet langer door de Leden kunnen worden bekrachtigd:     
-2.  Dit Verdrag blijft in elk geval naar vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe verdrag, houdende herziening, niet hebben bekrachtigd.   
+2.  Dit Verdrag blijft in elk geval naar vorm en inhoud van kracht voor de Leden die het hebben bekrachtigd en die het nieuwe verdrag, houdende herziening, niet hebben bekrachtigd.  
 
-### Artikel  30  
+### Artikel   30  
 
-De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk authentiek. De voorgaande tekst is de authentieke tekst van het Verdrag naar behoren aangenomen door de Algemene Conferentie van de Internationale Arbeidsorganisatie tijdens haar tweeënzeventigste zitting, welke werd gehouden te Genève en voor gesloten werd verklaard op de vijfentwintigste juni 1986.  
+De Engelse en de Franse tekst van dit Verdrag zijn gelijkelijk authentiek. De voorgaande tekst is de authentieke tekst van het Verdrag naar behoren aangenomen door de Algemene Conferentie van de Internationale Arbeidsorganisatie tijdens haar tweeënzeventigste zitting, welke werd gehouden te Genève en voor gesloten werd verklaard op de vijfentwintigste juni 1986. 
 
 TEN BLIJKE WAARVAN wij onze handtekening hebben geplaatst op de zesentwintigste juni 1986.  *De Voorzitter van de Conferentie,*  (w.g.) HUGO FERNANDEZ FAINGOLD  *De Directeur-Generaal van het Internationale Arbeidsbureau,*  (w.g.) FRANCIS BLANCHARD  
 
