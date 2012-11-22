@@ -3,15 +3,19 @@
 ##Regeling amateurbouwluchtvaartuigen
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op [artikel 3.24 van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), en op [artikel 1, vijfde lid](../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md), [artikel 17](../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md) en [artikel 22 onder a, b en c van het Besluit luchtwaardigheid](../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md);
+Gelet op artikel 3.24 van de Wet luchtvaart, en op artikel 1, vijfde lid, artikel 17 en artikel 22 onder a, b en c van het Besluit luchtwaardigheid;
 Besluit:     
 ### Paragraaf  1  
 
-####Begripsbepalingen
+####Algemeen
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder:   a. amateurbouwluchtvaartuig:  een luchtvaartuig dat, al dan niet volgens eigen ontwerp, is gebouwd door een amateurbouwer voor privégebruik, zonder commercieel oogmerk;    b. log-entry:  een verklaring met betrekking tot uitgevoerde werkzaamheden;    c. luchtwerk:  een activiteit waarbij een luchtvaartuig wordt gebruikt voor speciale diensten;    d. minister:  de Minister van Verkeer en Waterstaat;    e. replica:  een amateurbouwluchtvaartuig, dat geheel of gedeeltelijk is nagebouwd volgens een bestaand ontwerp, al dan niet met gebruikmaking van de oorspronkelijke ontwerp- en bouwgegevens.     
+
+### Artikel  1a  
+
+Deze regeling berust op de artikelen 3.24 van de Wet luchtvaart, 2, vierde lid, 9, en 13, aanhef en onderdelen a,b en c, van het Besluit luchtvaartuigen 2008.  
 
 ### Paragraaf  2  
 
@@ -57,7 +61,7 @@ a. een maatschets met hoofdafmetingen en een 3-zijden aanzicht waaruit, voor zov
 b. een vergelijkende controlelijst ten opzichte van de desbetreffende CS-code, geamendeerd tot de datum van aanvraag. De controlelijst bevat de volgende kolommen:  
 
 | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 |  *CS....*    *t/m change nr ....*   |  *ONDERWERP*   |  *TOEPASSELIJK-*    *HEID en verwijzing naar BEWIJSVOERING*   |  *ADVIES- PARAAF*   |  *SOORT BEWIJSVOERING*   |
 | paragraafnummer  | onderwerp-nr (zie vierde lid onder b)  | (zie vierde onder c)  | --- | (zie vierde onder e)  |
 
@@ -163,25 +167,23 @@ c. een aan de JAA deelnemende staat, afgegeven bewijs, dat het des betreffende l
 
 ### Artikel  6  
 
-In het door de minister uitgegeven vlieghandboek van een amateurbouwluchtvaartuig worden in ieder geval de volgende gebruiksbeperkingen opgenomen: 
+1.  Een amateurbouwluchtvaartuig mag in ieder geval niet worden gebruikt voor: 
 
-a. Dit amateurbouwluchtvaartuig mag niet worden gebruikt voor: 
+a. luchtwerk;  
 
-1º luchtarbeid;  
+b. vlieglessen;  
 
-2º vlieglessen;  
+c. commerciële doeleinden;  
 
-3º commerciële doeleinden, zoals het vervoeren van passagiers of lading,  
+d. verhuur of rondvluchten;  
 
-4º verhuur of rondvluchten;  
+e. IFR-vluchten, en  
 
-5º IFR-vluchten;  
-
-6º vluchten boven of binnen een afstand van 100 meter van de bebouwde kommen, gebouwen, industriegebieden, havengebieden of mensenverzamelingen, tenzij benodigd voor start en landing;    
-
-b. in en op het amateurbouwluchtvaartuig wordt duidelijk aangegeven dat het een experimenteel luchtvaartuig betreft waarvan niet is aangetoond dat het voldoet aan de internationale veiligheidseisen voor luchtvaartuigen;  
-
-c. de gezagvoerder informeert iedere passagier voorafgaand aan de vlucht over het experimentele karakter van dit luchtvaartuig.    
+f. vluchten boven of binnen een afstand van 100 meter van de bebouwde kommen, gebouwen, industriegebieden, havengebieden of mensenverzamelingen, tenzij benodigd voor start en landing.     
+2.  De minister kan aanvullende gebruiksbeperkingen stellen.   
+3.  Aanvullende gebruiksbeperkingen worden opgenomen op het bewijs van luchtwaardigheid of in een bijlage bij het bewijs van luchtwaardigheid.   
+4.  In en op het amateurbouwluchtvaartuig wordt duidelijk aangegeven dat het een experimenteel luchtvaartuig betreft waarvan niet is aangetoond dat het voldoet aan de internationale veiligheidseisen voor luchtvaartuigen.   
+5.  De gezagvoerder informeert iedere passagier voorafgaand aan de vlucht over het experimentele karakter van dit luchtvaartuig.   
 
 ### Paragraaf  4  
 
@@ -203,9 +205,9 @@ b. met betrekking tot de geluidsproductie:
 
 2º de minister heeft verklaard dat de gewijzigde configuratie van het luchtvaartuig voldoet aan de op het tijdstip van uitvoering geldende geluidseisen;    
 
-c. met betrekking tot de gegevens of het vlieghandboek: 
+c. met betrekking tot de gegevens: 
 
-1º de uitvoerende aan de hand van bijlage 2 heeft vastgesteld dat de wijziging geen invloed heeft op de gegevens van het luchtvaartuig die zijn vastgelegd in het Nederlandse luchtvaartuigregister of het door de minister uitgegeven vlieghandboek, of  
+1º de uitvoerende aan de hand van bijlage 2 heeft vastgesteld dat de wijziging geen invloed heeft op de gegevens van het luchtvaartuig die zijn vastgelegd in het Nederlandse luchtvaartuigregister, of  
 
 2º de uitvoerende de gewijzigde configuratie heeft gemeld aan de minister, en    
 
@@ -215,9 +217,9 @@ d. de uitvoerende vastgesteld heeft dat deze wijziging in combinatie met eerder 
 
 a. het verkrijgen van instemming met het ontwerp van een wijziging van een amateurbouwluchtvaartuig, en  
 
-b. het verkrijgen van de verklaring ten aanzien van het voldoen aan de geluidseisen,  
+b. het verkrijgen van de verklaring ten aanzien van het voldoen aan de geluidseisen, alsmede  
 
-c. alsmede de melding dat de uitvoering van een wijziging die invloed heeft op de gegevens van het luchtvaartuig die zijn vastgelegd in het Nederlands luchtvaartuigregister of in het door de minister uitgegeven vlieghandboek, wordt ingediend bij de minister, middels een behoorlijk ingevuld en ondertekend formulier, waarvan exemplaren kosteloos bij de minister te verkrijgen zijn.     
+c. de melding van de uitvoering van een wijziging die invloed heeft op de gegevens van het luchtvaartuig die zijn vastgelegd in het Nederlands luchtvaartuigregister, wordt ingediend respectievelijk gedaan bij de minister door middel van een volledig ingevuld en ondertekend formulier, waarvan exemplaren kosteloos bij de minister te verkrijgen zijn.     
 4.  Bij de aanvraag en de melding, genoemd in het derde lid, worden de voor de beoordeling noodzakelijke gegevens gevoegd.   
 5.  Wanneer de bij de aanvraag of de melding gevraagde aanvullende informatie niet binnen 6 maanden wordt verstrekt, vervalt de aanvraag en de melding en worden deze terug gezonden.   
 6.  Een inspectie van het ingebouwde ontwerp kan onderdeel uitmaken van de beoordelingsprocedure.   
@@ -254,7 +256,7 @@ f. een opgave van het aantal vlieguren tijdens de voorgaande 12 maanden.
 
 ### Artikel  9  
 
-Ten behoeve van het tijdelijk gebruik in het Nederlandse luchtruim van in andere lidstaten van de European Civil Aviation Conference ingeschreven amateurbouwluchtvaartuigen, welke niet voorzien zijn van een geldig bewijs van luchtwaardigheid als bedoeld in [artikel 3.8 van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), gelden de volgende voorschriften en beperkingen: 
+Ten behoeve van het tijdelijk gebruik in het Nederlandse luchtruim van in andere lidstaten van de European Civil Aviation Conference ingeschreven amateurbouwluchtvaartuigen, welke niet voorzien zijn van een geldig bewijs van luchtwaardigheid als bedoeld in artikel 3.8 van de Wet luchtvaart, gelden de volgende voorschriften en beperkingen: 
 
 a. door het bevoegde gezag van de desbetreffende lidstaat, die het bewijs van inschrijving heeft afgegeven, is tevens een bewijs afgegeven waaruit blijkt dat de uitoefening van de luchtvaart met het betrokken luchtvaartuig in die staat is toegestaan, en  
 
@@ -337,7 +339,7 @@ d) verandering in flap-settings.
 
 a) veranderingen in/aan de landingslichten;  
 
-b) veranderingen in/aan de torque-links,  
+b) veranderingen in/aan de torquelinks,  
 
 c) veranderingen in/aan de wielassen,  
 
@@ -359,7 +361,7 @@ g) veranderingen in/aan de brandstofvulpunten.
 
 ### *Meldingscriteria* 
 
-Alle wijzigingen die aan één van onderstaande criteria voldoen hebben invloed op de gegevens van het luchtvaartuigregister of het door de minister uitgegeven vlieghandboek en moeten gemeld worden aan de minister. 
+Alle wijzigingen die aan één van onderstaande criteria voldoen hebben invloed op de gegevens van het luchtvaartuigregister en moeten gemeld worden aan de minister. 
 
 1. Elke wijziging die een verandering van het maximum startgewicht van het luchtvaartuig met zich mee brengt.  
 
@@ -369,4 +371,4 @@ Alle wijzigingen die aan één van onderstaande criteria voldoen hebben invloed 
 
 4. Elke wijziging van het type of model van de motor.  
 
-5. Elke wijziging van het type of model van de propeller.   Wijzigingen die voldoen aan criterium 1, 2, 3, 4, of 5, zijn van invloed op het luchtvaartuigregister. Wijzigingen die voldoen aan criterium 3 zijn van invloed op het door de minister uitgegeven vlieghandboek. 
+5. Elke wijziging van het type of model van de propeller.   

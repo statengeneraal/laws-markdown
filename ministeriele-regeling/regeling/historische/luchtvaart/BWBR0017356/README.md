@@ -3,7 +3,7 @@
 ##Regeling houdende regels inzake historische luchtvaart
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op [artikel 3.13, vijfde lid, van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), de [artikelen 17](../../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md) en [22 onderdelen a, b en c van het Besluit luchtwaardigheid](../../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md), [artikel 56 van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), [artikel 116 van de Regeling Toezicht Luchtvaart](../../../../../AMvB/regeling/toezicht/luchtvaart/BWBR0002309/README.md) en [artikel 7 van het Besluit ongeregeld luchtvervoer](../../../../../AMvB/besluit/ongeregeld/luchtvervoer/BWBR0002965/README.md);
+Gelet op artikel 3.13, vijfde lid, van de Wet luchtvaart, de artikelen 17 en 22 onderdelen a, b en c van het Besluit luchtwaardigheid, artikel 56 van het Luchtverkeersreglement, artikel 116 van de Regeling Toezicht Luchtvaart en artikel 7 van het Besluit ongeregeld luchtvervoer;
 Besluit:     
 ### §  1  
 
@@ -17,9 +17,9 @@ Besluit:
 
 a. waarvan het type of model voor Nederland een toegevoegde historische waarde heeft, gelet op de rol die het heeft gespeeld in de historie van Nederland, Nederlandse bedrijven, overheidsdiensten of instellingen dan wel bij de bevrijding van het Koninkrijk der Nederlanden tijdens de tweede wereldoorlog, en  
 
-b. dat voldoet aan een of meer van de criteria als bedoeld in bijlage II onder a) bij de Verordening (EG) nr. 1592/2002 van het Europese Parlement en de Raad van 15 juli 2002 tot vaststelling van gemeenschappelijke regels op het gebied van burgerluchtvaart en tot oprichting van een Europees Agentschap voor de veiligheid van de luchtvaart (PbEU L 240);    
+b. dat voldoet aan een of meer van de criteria als bedoeld in bijlage II onder a) bij de verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad van de Europese Unie van 20 februari 2008 tot vaststelling van gemeenschappelijke regels op het gebied van burgerluchtvaart en tot oprichting van een Europees Agentschap voor de veiligheid van de luchtvaart, houdende intrekking van Richtlijn 91/670/EEG, Verordening (EG) nr. 1592/2002 en Richtlijn 2004/36/EG (PbEU L 79);    
 
-– minister: Minister van Verkeer en Waterstaat;  
+– minister: Minister van Infrastructuur en Milieu;  
 
 – niet-commercieel vervoer: vervoer zonder winstoogmerk door een rechtspersoonlijkheid bezittende organisatie als houder van een luchtvaartuig of door een particuliere houder van een luchtvaartuig waarbij, 
 
@@ -30,13 +30,17 @@ b. het uitsluitend vervoer betreft van sponsors van een organisatie tot instandh
 – vervoerskosten: de kosten van verzekering, brandstof, onderhouds- en reparatiekosten alsmede landingsgelden.     
 2.  Een historisch luchtvaartuig verkeert in originele staat, tenzij de minister heeft ingestemd met bepaalde aanpassingen of deze voorschrijft in verband met de vliegveiligheid.   
 
+### Artikel  1a  
+
+Deze regeling berust op artikel 3.13, vijfde lid, van de Wet luchtvaart, de artikelen 9 en 13, onderdelen a, b en c, van het Besluit luchtvaartuigen 2008, artikel 56 van het Luchtverkeersreglement, artikel 7 van het Besluit vluchtuitvoering en artikel 7 van het Besluit ongeregeld luchtvervoer.  
+
 ### §  2  
 
 ####Speciaal-BvL
 
 ### Artikel  2  
 
-1.  Met betrekking tot een historisch luchtvaartuig dat als een luchtvaartuig met een duidelijk historisch belang als bedoeld in bijlage II bij de Verordening (EG) nr. 1592/2002 van het Europese Parlement en de Raad van 15 juli 2002 tot vaststelling van gemeenschappelijke regels op het gebied van burgerluchtvaart en tot oprichting van een Europees Agentschap voor de veiligheid van de luchtvaart (PbEU L 240) dient te worden aangemerkt, kan na de beoordeling van de luchtwaardigheid van dat luchtvaartuig een speciaal-BvL worden afgegeven.   
+1.  Met betrekking tot een historisch luchtvaartuig dat als een luchtvaartuig met een duidelijk historisch belang als bedoeld in bijlage II bij de verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad van de Europese Unie van 20 februari 2008 tot vaststelling van gemeenschappelijke regels op het gebied van burgerluchtvaart en tot oprichting van een Europees Agentschap voor de veiligheid van de luchtvaart, houdende intrekking van Richtlijn 91/670/EEG, Verordening (EG) nr. 1592/2002 en Richtlijn 2004/36/EG (PbEU L 79) dient te worden aangemerkt, kan na de beoordeling van de luchtwaardigheid van dat luchtvaartuig een speciaal-BvL worden afgegeven.   
 2.  Ten aanzien van straalvliegtuigen en van helikopters van buitenlands militair ontwerp, niet voorzien van een bewijs van luchtwaardigheid of slechts voorzien van een bewijs van luchtwaardigheid, dat door een buitenlandse militaire autoriteit is afgegeven, wordt geen speciaal-BvL afgegeven.   
 
 ### Artikel  3  
@@ -73,6 +77,7 @@ a. gedurende werkdagen voor 08.00 uur en na 18.00 uur,
 b. op zaterdagen voor 09.00 uur en na 16.00 uur, en  
 
 c. op zondagen.     
+8.  Onverminderd het bovenstaande mogen met een historisch luchtvaartuig slechts vluchten worden uitgevoerd met inachtneming van de gebruiksbeperkingen die in het vlieghandboek van de fabrikant zijn opgenomen en op dat luchtvaartuig betrekking hebben.   
 
 ### Artikel  6  
 
@@ -128,5 +133,5 @@ K.M.H.Peijs
 
 ####, bedoeld in artikel 3, derde lid 
 
-![107867](http://wetten.overheid.nl/Illustration/107867)
+![]()
 
