@@ -3,7 +3,7 @@
 ##Regeling bestrijding maïswortelkever 2003
 
 De Minister van Landbouw, Natuur en Voedselkwaliteit,  
-Gelet op [artikel 17 van het Besluit bestrijding schadelijke organismen](../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md);
+Gelet op artikel 17 van het Besluit bestrijding schadelijke organismen;
 Besluit:     
 ### Paragraaf  1  
 
@@ -29,17 +29,17 @@ g. tuin: grond, waarop anders dan ter uitoefening van een bedrijf, de land- of t
 
 h. het schadelijke organisme: Anoplophora chinensis (Forster);  
 
-i. gevoelige planten: voor opplant bestemde planten, met uitzondering van zaden, van Acer spp., Aesculus hippocastanum, Alnus spp., Betula spp., Carpinus spp., Citrus spp., Corylus spp., Cotoneaster spp., Fagus spp., Lagerstroemia spp., Malus spp., Platanus spp., Populus spp., Prunus spp., Pyrus spp., Salix spp., en Ulmus spp.;  
+i. gevoelige planten: voor opplant bestemde planten met een stam- of wortelhalsdiameter van tenminste 1 centimeter op het dikste punt, met uitzondering van zaden, van Acer spp., Aesculus hippocastanum, Alnus spp., Betula spp., Carpinus spp., Citrus spp., Cornus spp., Corylus spp., Cotoneaster spp., Crataegus spp., Fagus spp., Lagerstroemia spp., Malus spp., Platanus spp., Populus spp., Prunus laurocerasus, Pyrus spp., Rosa spp., Salix spp. en Ulmus spp.;  
 
-j. beschikking nr. 2008/840/EG: beschikking nr. 2008/840/EG van de Commissie van 7 november 2008 tot vaststelling van noodmaatregelen om het binnenbrengen en de verspreiding in de Gemeenschap van Anoplophora chinensis (Forster) te voorkomen (PbEU L 300/36);  
+j. uitvoeringsbesluit nr. 2012/138/EU: uitvoeringsbesluit nr. 2012/138/EU van de Commissie van 1 maart 2012 tot vaststelling van noodmaatregelen om het binnenbrengen en de verspreiding in de Unie van Anoplophora chinensis (Forster) te voorkomen (PbEU 2012 L 64);  
 
 k. besmette zone: krachtens artikel 11, eerste lid, van deze regeling aangewezen zone;  
 
 l. bufferzone: krachtens artikel 11, tweede lid, van deze regeling aangewezen zone;  
 
-m. afgebakende gebieden: in de Gemeenschap, overeenkomstig artikel 5 van beschikking nr. 2008/840/EG, vastgestelde besmette zones en bufferzones;  
+m. afgebakende gebieden: in de Europese Unie, overeenkomstig artikel 6 van uitvoeringsbesluit nr. 2012/138/EU, vastgestelde besmette zones en bufferzones;  
 
-n. derde land: niet tot de Europese Gemeenschappen behorende staat, alsmede Ceuta en Melilla;  
+n. derde land: niet tot de Europese Unie behorende staat, alsmede Ceuta en Melilla;  
 
 o. kastanjegalwesp: het organisme Dryocosmus kuriphilus Yasumatsu;  
 
@@ -72,7 +72,7 @@ b. vanuit het kerngebied maïswortelkever te verhandelen, te verplaatsen of te v
 
 ### Artikel  5  
 
-1.  De eigenaar of houder van een terrein dat is gelegen in een kerngebied maïswortelkever is verplicht de maïs die op het terrein wordt geteeld, in het jaar waarin de maïswortelkever voor het eerst is aangetoond, binnen drie dagen na de aanwijzing van het kerngebied maïswortelkever te behandelen of te laten behandelen overeenkomstig de door de Minister gegeven voorschriften met een daartoe op grond van [artikel 38 van de Wet gewasbeschermingsmiddelen en biociden](../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) bij besluit aangewezen gewasbeschermingsmiddel.   
+1.  De eigenaar of houder van een terrein dat is gelegen in een kerngebied maïswortelkever is verplicht de maïs die op het terrein wordt geteeld, in het jaar waarin de maïswortelkever voor het eerst is aangetoond, binnen drie dagen na de aanwijzing van het kerngebied maïswortelkever te behandelen of te laten behandelen overeenkomstig de door de Minister gegeven voorschriften met een daartoe op grond van artikel 38 van de Wet gewasbeschermingsmiddelen en biociden bij besluit aangewezen gewasbeschermingsmiddel.   
 2.  Tot 1 oktober van het jaar, bedoeld in het eerste lid, wordt de behandeling telkens na een periode van minimaal 13 en maximaal 15 dagen herhaald.   
 3.  De Minister kan, afhankelijk van de mate van aanwezigheid in een kerngebied maïswortelkever van de maïswortelkever, bepalen dat minder of meer behandelingen moeten worden uitgevoerd. Van dit besluit wordt mededeling gedaan in de Staatscourant.   
 4.  De eigenaar of houder van een terrein, waar behandelingen als bedoeld in dit artikel worden uitgevoerd, voert een deugdelijke registratie waaruit is op te maken hoeveel behandelingen zijn uitgevoerd en wanneer die behandelingen hebben plaatsgevonden.   
@@ -116,17 +116,16 @@ Indien in een kerngebied maïswortelkever gedurende twee jaar na het laatste jaa
 
 ####Anoplophora chinensis (Forster)
 
-### Artikel  11  
-
-1.  Als besmette zone worden, overeenkomstig sectie 1 van bijlage II van beschikking nr. 2008/840/EG, door de Minister zones aangewezen waar de aanwezigheid van het schadelijke organisme is bevestigd en die alle planten omvat die door het schadelijk organisme veroorzaakte symptomen vertonen alsmede, indien van toepassing, alle planten die op het tijdstip van opplant tot dezelfde partij behoorden.   
-2.  Als bufferzone worden door de Minister de zones aangewezen met een straal van minstens één dan wel twee kilometer buiten de grens van de besmette zone, overeenkomstig de criteria van sectie 1 van bijlage II van beschikking nr. 2008/840/EG.   
-3.  De in het eerste en tweede lid bedoelde zones worden aangegeven op door de Minister gewaarmerkte kaarten. Deze kaarten liggen ter inzage bij het Ministerie van Landbouw, Natuur en Voedselkwaliteit, het kantoor van de Plantenziektenkundige Dienst te Wageningen en kunnen worden ingezien op de website www.minlnv.nl/pd.   
-4.  Van het vaststellen, wijzigen en opheffen van de in het eerste lid en het tweede lid bedoelde zones wordt mededeling gedaan in de Staatscourant.   
-
 ### Artikel  11a  
 
-1.  De gevoelige planten, van oorsprong uit de afgebakende gebieden in de Gemeenschap, mogen alleen binnen de Gemeenschap worden vervoerd indien zij voldoen aan de voorwaarden zoals gesteld in punt 1 van sectie II van bijlage I van beschikking nr. 2008/840/EG.   
-2.  De gevoelige planten, ingevoerd overeenkomstig [artikel 12i van de Regeling invoer, uitvoer en verkeer van planten](../../../../../ministeriele-regeling/regeling/invoer/uitvoer/en/verkeer/van/planten/BWBR0005997/README.md) afkomstig uit derde landen waarvan bekend is dat het schadelijke organisme er voorkomt, mogen alleen binnen de Gemeenschap worden vervoerd indien zij voldoen aan de voorwaarden van punt 2 van sectie II van bijlage I van beschikking nr. 2008/840/EG.   
+1.  De gevoelige planten, van oorsprong uit de afgebakende gebieden in de Europese Unie, mogen alleen binnen de Europese Unie worden vervoerd indien zij voldoen aan de voorwaarden zoals gesteld in punt 1 van sectie 2 van bijlage I van uitvoeringsbesluit nr. 2012/138/EU.   
+2.  Gevoelige planten die niet zijn geteeld in afgebakende gebieden, maar in een afgebakend gebied zijn binnengebracht, mogen alleen binnen de Europese Unie worden vervoerd indien zij voldoen aan de voorwaarden zoals gesteld in punt 2 van sectie 2 van bijlage I van uitvoeringsbesluit nr. 2012/138/EU.   
+3.  De gevoelige planten, ingevoerd overeenkomstig artikel 12i van de Regeling invoer, uitvoer en verkeer van planten afkomstig uit derde landen waarvan bekend is dat het schadelijke organisme er voorkomt, mogen alleen binnen de Europese Unie worden vervoerd indien zij voldoen aan de voorwaarden van punt 3 van sectie 2 van bijlage I van uitvoeringsbesluit nr. 2012/138/EU.   
+
+### Artikel  11ab  
+
+1.  In een afgebakend gebied worden, in een zone met een straal van 100 meter rond planten besmet met het schadelijke organisme, geen nieuwe gevoelige planten opgeplant in de open lucht.   
+2.  Het eerste lid is niet van toepassing op productieplaatsen als bedoeld in sectie 2 van bijlage I van uitvoeringsbesluit nr. 2012/138/EU.   
 
 ### Paragraaf  3a  
 
@@ -142,8 +141,9 @@ Planten of delen van planten van het geslacht Castanea Mill., bestemd voor oppla
 
 ### Artikel  11c  
 
-1.  Het is verboden materiaal van in bijlage II opgenomen waardplanten met een doorsnede groter dan 2,5 centimeter, afkomstig van in het in bijlage III beschreven buffergebied Anoplophora glabripennis (Motschulsky) te vervoeren of te bewerken, tenzij met voorafgaande toestemming van de Minister met het oog op de vernietiging van het materiaal.   
-2.  De Minister kan voorwaarden verbinden aan de in het eerste lid bedoelde toestemming.   
+1.  Het is verboden materiaal van in bijlage III opgenomen waardplanten met een doorsnede groter dan 2,5 centimeter, afkomstig van in het in bijlage IV beschreven buffergebied Anoplophora glabripennis (Motschulsky) te vervoeren of te bewerken, tenzij met voorafgaande toestemming van de Minister met het oog op de vernietiging van het materiaal.   
+2.  Het is verboden materiaal van in bijlage III opgenomen waardplanten met een doorsnede groter dan 2,5 centimeter, afkomstig van in het in bijlage V beschreven buffergebied Anoplophora glabripennis (Motschulsky) te vervoeren of te bewerken, tenzij met voorafgaande toestemming van de Minister met het oog op de vernietiging van het materiaal.   
+3.  De Minister kan voorwaarden verbinden aan de in het eerste en tweede lid bedoelde toestemming.   
 
 ### Paragraaf  4  
 
@@ -166,20 +166,26 @@ C.P.Veerman
 
 ####, behorende bij artikel 1, onderdelen p, q en r 
 
-![247088](http://wetten.overheid.nl/Illustration/247088)
-Onderdeel 1: besmet gebied kastanjegalwesp:    ![247088](http://wetten.overheid.nl/Illustration/247088)
-Onderdeel 2: kerngebied kastanjegalwesp:    ![247088](http://wetten.overheid.nl/Illustration/247088)
+![]()
+Onderdeel 1: besmet gebied kastanjegalwesp:    ![]()
+Onderdeel 2: kerngebied kastanjegalwesp:    ![]()
 Onderdeel 3: buffergebied kastanjegalwesp:  
-
-### Bijlage  II  
-
-####, behorende bij artikel 11c  (waardplanten)
-
-Acer Aesculus Alnus Betula Carpinus Celtis Cercidiphyllum Fagus Fraxinus Platanus Populus Prunus  *Salix*  Sorbus Ulmus 
 
 ### Bijlage  III  
 
-####, behorende bij artikel 11c  (buffergebied anoplophora glabripennis (motschulsky))
+####, behorende bij artikel 11c, eerste en tweede lid  (waardplanten)
 
-![248024](http://wetten.overheid.nl/Illustration/248024)
+Acer Aesculus Alnus Betula Carpinus Celtis Cercidiphyllum Fagus Fraxinus Platanus Populus Prunus  *Salix*  Sorbus Ulmus 
+
+### Bijlage  IV  
+
+####, behorende bij artikel 11c, eerste lid  (buffergebied Anoplophora glabripennis (Motschulsky)
+
+![]()
+
+### Bijlage  V  
+
+####, behorende bij artikel 11c, tweede lid  (buffergebied anoplophora glabripennis (Motschulsky)
+
+![]()
 
