@@ -7,25 +7,29 @@ Gelet op [artikel 2 van de Wet griffierechten burgerlijke zaken](../../../../../
 Besluit:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 01-01-2013 
 
-Wijzigt de Wet griffierechten burgerlijke zaken.   
+Wijzigt de Wet griffierechten burgerlijke zaken. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 01-01-2013 
 
-Ten aanzien van de griffierechten die verschuldigd zijn geworden vóór de datum van inwerkingtreding van deze regeling blijft het griffierecht zoals het vóór die datum gold, van toepassing.  
+Ten aanzien van de griffierechten die verschuldigd zijn geworden vóór de datum van inwerkingtreding van deze regeling blijft het griffierecht zoals het vóór die datum gold, van toepassing. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 01-01-2013 
 
-Deze regeling treedt in werking met ingang van 1 januari 2011.  
+Deze regeling treedt in werking met ingang van 1 januari 2011. 
 
 ### Artikel  IV  
+Materieel uitgewerkt per 01-01-2013 
 
-Deze regeling wordt aangehaald als: Regeling indexering griffierechten burgerlijke zaken 2010.  
+Deze regeling wordt aangehaald als: Regeling indexering griffierechten burgerlijke zaken 2010. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 8 december 2010   
 
 De 
-Minister van Veiligheid en Justitie,
-I.W.Opstelten   
+Minister van Veiligheid en Justitie, 
+I.W. Opstelten     

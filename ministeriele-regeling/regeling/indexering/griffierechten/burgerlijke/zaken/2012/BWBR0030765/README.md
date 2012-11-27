@@ -7,20 +7,24 @@ Gelet op [artikel 2 van de Wet griffierechten burgerlijke zaken](../../../../../
 Besluit:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 01-01-2014 
 
-Wijzigt de Wet griffierechten burgerlijke zaken.   
+Wijzigt de Wet griffierechten burgerlijke zaken. 
 
 ### Artikel  II  
+Materieel uitgewerkt per 01-01-2014 
 
-Ten aanzien van de griffierechten die verschuldigd zijn geworden vóór de datum van inwerkingtreding van deze regeling of die rechtsgeldig zijn aangezegd op grond van de [artikelen 111, tweede lid, onder k](../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) of [276, tweede lid, Rv](../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) voor de datum van inwerkingtreding van deze regeling, blijft het griffierecht zoals het vóór die datum gold, van toepassing.  
+Ten aanzien van de griffierechten die verschuldigd zijn geworden vóór de datum van inwerkingtreding van deze regeling of die rechtsgeldig zijn aangezegd op grond van de [artikelen 111, tweede lid, onder k](../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) of [276, tweede lid, Rv](../../../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) voor de datum van inwerkingtreding van deze regeling, blijft het griffierecht zoals het vóór die datum gold, van toepassing. 
 
 ### Artikel  III  
+Materieel uitgewerkt per 01-01-2014 
 
-Deze regeling treedt in werking met ingang van 1 januari 2012.  
+Deze regeling treedt in werking met ingang van 1 januari 2012. 
 
 ### Artikel  IV  
+Materieel uitgewerkt per 01-01-2014 
 
-Deze regeling wordt aangehaald als: Regeling indexering griffierechten burgerlijke zaken 2012.  
+Deze regeling wordt aangehaald als: Regeling indexering griffierechten burgerlijke zaken 2012. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -28,4 +32,4 @@ Den Haag
 
 De 
 Minister van Veiligheid en Justitie, 
-I.W.Opstelten   
+I.W. Opstelten     
