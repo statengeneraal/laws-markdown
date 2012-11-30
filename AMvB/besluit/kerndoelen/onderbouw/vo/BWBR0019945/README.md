@@ -17,29 +17,29 @@ Hebben goedgevonden en verstaan:
 
 ####Kerndoelen onderbouw voortgezet onderwijs
 
-De kerndoelen, bedoeld in de [artikelen 11b](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [11e van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), worden vastgesteld als aangegeven in de bij dit besluit behorende bijlage.  
+De kerndoelen, bedoeld in de [artikelen 11b](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [11e van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), worden vastgesteld als aangegeven in de bij dit besluit behorende bijlage. 
 
 ### Artikel  2  
 
-Wijzigt het Inrichtingsbesluit W.V.O.   
+Wijzigt het Inrichtingsbesluit W.V.O. 
 
 ### Artikel  3  
 
 ####Overgangsrecht verleende vrijstellingen
 
-Een vrijstelling die is verleend op grond van [artikel 11e van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) geldt met ingang van de inwerkingtreding van dit besluit als een ontheffing die is verleend op grond van [artikel 11d van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).  
+Een vrijstelling die is verleend op grond van [artikel 11e van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) geldt met ingang van de inwerkingtreding van dit besluit als een ontheffing die is verleend op grond van [artikel 11d van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md). 
 
 ### Artikel  4  
 
 ####Inwerkingtreding
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  5  
 
 ####Citeertitel
 
-Dit besluit wordt aangehaald als: Besluit kerndoelen onderbouw VO.  
+Dit besluit wordt aangehaald als: Besluit kerndoelen onderbouw VO. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -48,25 +48,25 @@ Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting 
 Beatrix  
 
 De Minister van Onderwijs, Cultuur en Wetenschap , 
-M. J. A. van der Hoeven   
+M. J. A. van derHoeven   
 
 De Minister van Landbouw, Natuur en Voedselkwaliteit , 
-C. P. Veerman   
+C. P.Veerman   
 
 de *elfde* juli 2006 
 
 De Minister van Justitie , 
-J. P. H. Donner    
+J. P. H.Donner    
 
-### Bijlage  
+### Bijlage 
 
-####behorend bij artikel 1  van het Besluit kerndoelen onderbouw VO
+#### behorend bij artikel 1  van het Besluit kerndoelen onderbouw VO
 
 ####Kerndoelen onderbouw voortgezet onderwijs
 
-### I  
+### I 
 
-####Kerndoelen op basis van [artikel 11b WVO](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)
+#### Kerndoelen op basis van [artikel 11b WVO](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)
 
 ####Onderdeel A: Nederlands
 
@@ -90,9 +90,9 @@ De eerste tien kerndoelen zijn vooral gericht op de communicatieve functie van d
 
 9. De leerling leert taalactiviteiten (spreken, luisteren, schrijven en lezen) planmatig voor te bereiden en uit te voeren.  
 
-10. De leerling leert te reflecteren op de manier waarop hij zijn taalactiviteiten uitvoert en leert, op grond daarvan en van reacties van anderen, conclusies te trekken voor het uitvoeren van nieuwe taalactiviteiten.    
+10. De leerling leert te reflecteren op de manier waarop hij zijn taalactiviteiten uitvoert en leert, op grond daarvan en van reacties van anderen, conclusies te trekken voor het uitvoeren van nieuwe taalactiviteiten.   
 
-####Onderdeel B: Engels
+#### Onderdeel B: Engels
 
 Ook de acht kerndoelen voor het onderdeel Engelse taal zijn vooral gericht op de communicatieve functie. De nadruk ligt op Engels als wereldtaal. Vooral met de kerndoelen 11, 14, 15, 16 en 17 kan de relatie worden gelegd met het Europees Referentiekader [Council of Europe (1998), Modern languages; Learning, teaching, assessment. A Common European Framework of Reference (pp. 131–135). Strassbourg: Council of Europe]. Afhankelijk van de leerlingenpopulatie kan de school zich oriënteren op de resultaatbeschrijvingen van de cellen in A1, A2 en B1 in het Referentiekader. Er zijn geen kerndoelen geformuleerd voor andere moderne vreemde talen – in het bijzonder Duitse taal en Franse taal – die voor de leerroutes waarvoor op grond van de nieuwe [artikelen 21](../../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md) en [22 van het Inrichtingsbesluit W.V.O.](../../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md) naast de Engelse taal verplicht worden gesteld. Wel kunnen scholen de kerndoelen voor Engels gebruiken als leidraad voor het onderwijs in andere moderne vreemde talen door overal waar «Engels» staat de benaming van de desbetreffende andere moderne vreemde taal te lezen. 
 
@@ -110,9 +110,9 @@ Ook de acht kerndoelen voor het onderdeel Engelse taal zijn vooral gericht op de
 
 17. De leerling leert informeel contact in het Engels te onderhouden via e-mail, brief en chatten.  
 
-18. De leerling leert welke rol het Engels speelt in verschillende soorten internationale contacten.    
+18. De leerling leert welke rol het Engels speelt in verschillende soorten internationale contacten.   
 
-####Onderdeel C: rekenen en wiskunde
+#### Onderdeel C: rekenen en wiskunde
 
 Er zijn negen kerndoelen die betrekking hebben op rekenen en wiskunde. Er wordt ruimte gelaten deze uit te werken op basis van verschillende opvattingen en leerstijlen. Uiteindelijk gaat het bij deze kerndoelen in de eerste plaats om de gebruiksmogelijkheden van (elementaire) rekenvaardigheden en van wiskunde buiten en binnen het onderwijsprogramma, zowel in de onderbouw als in de bovenbouw van het voortgezet onderwijs (inclusief het derde leerjaar havo / vwo). Systematische aandacht in het onderwijsprogramma voor (elementaire) rekenvaardigheden is van belang om doorlopende leerlijnen te realiseren van primair onderwijs, via het voortgezet onderwijs, naar mbo en hoger onderwijs. 
 
@@ -132,7 +132,7 @@ Er zijn negen kerndoelen die betrekking hebben op rekenen en wiskunde. Er wordt 
 
 26. De leerling leert te werken met platte en ruimtelijke vormen en structuren, leert daarvan afbeeldingen te maken en deze te interpreteren, en leert met hun eigenschappen en afmetingen te rekenen en te redeneren.  
 
-27. De leerling leert gegevens systematisch te beschrijven, ordenen en visualiseren, en leert gegevens, representaties en conclusies kritisch te beoordelen.    
+27. De leerling leert gegevens systematisch te beschrijven, ordenen en visualiseren, en leert gegevens, representaties en conclusies kritisch te beoordelen.   
 
 ####Onderdeel D: mens en natuur
 
@@ -152,7 +152,7 @@ De volgende acht kerndoelen bestrijken een groot inhoudelijk terrein, gericht op
 
 34. De leerling leert hoofdzaken te begrijpen van bouw en functie van het menselijk lichaam, verbanden te leggen met het bevorderen van lichamelijke en psychische gezondheid, en daarin een eigen verantwoordelijkheid te nemen.  
 
-35. De leerling leert over zorg en leert zorgen voor zichzelf, anderen en zijn omgeving, en hoe hij de veiligheid van zichzelf en anderen in verschillende leefsituaties (wonen, leren, werken, uitgaan, verkeer) positief kan beïnvloeden.    
+35. De leerling leert over zorg en leert zorgen voor zichzelf, anderen en zijn omgeving, en hoe hij de veiligheid van zichzelf en anderen in verschillende leefsituaties (wonen, leren, werken, uitgaan, verkeer) positief kan beïnvloeden.   
 
 ####Onderdeel E: mens en maatschappij
 
@@ -192,7 +192,7 @@ In de twaalf kerndoelen van het onderdeel mens en maatschappij is een enigszins 
 
 42. De leerling leert in eigen ervaringen en in de eigen omgeving effecten te herkennen van keuzes op het gebied van werk en zorg, wonen en recreëren, consumeren en budgetteren, verkeer en milieu.  
 
-43. De leerling leert over overeenkomsten, verschillen en veranderingen in cultuur en levensbeschouwing in Nederland, leert eigen en andermans leefwijze daarmee in verband te brengen, en leert de betekenis voor de samenleving te zien van respect voor elkaars opvattingen en leefwijzen.  
+43. De leerling leert over overeenkomsten, verschillen en veranderingen in cultuur en levensbeschouwing in Nederland, leert eigen en andermans leefwijze daarmee in verband te brengen, leert de betekenis voor de samenleving te zien van respect voor elkaars opvattingen en leefwijzen, en leert respectvol om te gaan met seksualiteit en met diversiteit binnen de samenleving, waaronder seksuele diversiteit.  
 
 44. De leerling leert op hoofdlijnen hoe het Nederlandse politieke bestel als democratie functioneert en leert zien hoe mensen op verschillende manieren bij politieke processen betrokken kunnen zijn.  
 
@@ -200,7 +200,7 @@ In de twaalf kerndoelen van het onderdeel mens en maatschappij is een enigszins 
 
 46. De leerling leert over de verdeling van welvaart en armoede over de wereld, hij leert de betekenis daarvan te zien voor de bevolking en het milieu, en relaties te leggen met het (eigen) leven in Nederland.  
 
-47. De leerling leert actuele spanningen en conflicten in de wereld te plaatsen tegen hun achtergrond, en leert daarbij de doorwerking ervan op individuen en samenleving (nationaal, Europees en internationaal), de grote onderlinge afhankelijkheid in de wereld, het belang van mensenrechten en de betekenis van internationale samenwerking te zien.    
+47. De leerling leert actuele spanningen en conflicten in de wereld te plaatsen tegen hun achtergrond, en leert daarbij de doorwerking ervan op individuen en samenleving (nationaal, Europees en internationaal), de grote onderlinge afhankelijkheid in de wereld, het belang van mensenrechten en de betekenis van internationale samenwerking te zien.   
 
 ####Onderdeel F: kunst en cultuur
 
@@ -214,7 +214,7 @@ Met de vijf kerndoelen voor het onderdeel kunst en cultuur wordt het gemeenschap
 
 51. De leerling leert met behulp van visuele of auditieve middelen verslag te doen van deelname aan kunstzinnige activiteiten, als toeschouwer en als deelnemer.  
 
-52. De leerling leert mondeling of schriftelijk te reflecteren op eigen werk en werk van anderen, waaronder dat van kunstenaars.    
+52. De leerling leert mondeling of schriftelijk te reflecteren op eigen werk en werk van anderen, waaronder dat van kunstenaars.   
 
 ####Onderdeel G: bewegen en sport
 
@@ -230,11 +230,11 @@ In de zes kerndoelen voor het onderdeel bewegen en sport gaat het om een brede o
 
 57. De leerling leert eenvoudige regelende taken te vervullen die het mogelijk maken, zelfstandig en samen met andere leerlingen bewegingsactiviteiten te beoefenen.  
 
-58. De leerling leert door deel te nemen aan praktische bewegingsactiviteiten de waarde van het bewegen voor gezondheid en welzijn kennen en ervaren.    
+58. De leerling leert door deel te nemen aan praktische bewegingsactiviteiten de waarde van het bewegen voor gezondheid en welzijn kennen en ervaren.   
 
-### II  
+### II 
 
-####Kerndoelen op basis van [artikel 11e WVO](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)
+#### Kerndoelen op basis van [artikel 11e WVO](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)
 
 ####Enig onderdeel: Friese taal en cultuur
 
@@ -259,5 +259,5 @@ Fryslân is een tweetalige provincie doordat zowel de Nederlandse als de Friese 
 
 5b. De leerling leert het belang van het communiceren volgens gangbare taalregels van het Fries in formele situaties ontdekken (werkoverleg, planning, discussie).  
 
-6b. De leerling leert Friese verhalen, gedichten en informatieve teksten te kiezen en te lezen die tegemoet komen aan zijn belangstelling en zijn belevingswereld uitbreiden.    
+6b. De leerling leert Friese verhalen, gedichten en informatieve teksten te kiezen en te lezen die tegemoet komen aan zijn belangstelling en zijn belevingswereld uitbreiden.   
 

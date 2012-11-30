@@ -22,20 +22,20 @@ e. toerisme;
 
 f. intellectueel eigendom, voor zover het betreft octrooi- en kwekersrecht;  
 
-g. andere aangelegenheden waarvan behartiging door de minister aan hem wordt toevertrouwd.    
+g. andere aangelegenheden waarvan behartiging door de minister aan hem wordt toevertrouwd.   
 
 ### Artikel  2  
 
-De staatssecretaris voert in de internationale contacten, die hij bij de behartiging van de in artikel 1, onderdeel a, b, c, en d, genoemde aangelegenheden heeft, de titel: Minister voor Landbouw.  
+De staatssecretaris voert in de internationale contacten, die hij bij de behartiging van de in artikel 1, onderdeel a, b, c, en d, genoemde aangelegenheden heeft, de titel: Minister voor Landbouw. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 5 november 2012.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 5 november 2012. 
 Dit besluit zal in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
 7 november 2012   
 
 De 
-Minister van Economische Zaken,
-H.G.J.Kamp.   
+Minister van Economische Zaken, 
+H.G.J. Kamp.     

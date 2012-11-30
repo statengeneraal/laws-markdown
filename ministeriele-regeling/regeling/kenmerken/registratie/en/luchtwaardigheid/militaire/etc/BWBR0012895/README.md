@@ -6,14 +6,14 @@ De Staatssecretaris van Defensie;
 Handelende in overeenstemming met de Minister van Verkeer en Waterstaat;
 
 Gelet op de [artikelen 1.2a, eerste en tweede lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [3.2, derde en vierde lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [3.3, vijfde lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [3.5, vijfde lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [3.9, vierde lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [3.12, vierde lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [3.14, eerste lid, onder b, tweede en derde lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [3.18, vijfde lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), en [10.3 van de Wet luchtvaart](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md),
-Besluit:     
+Besluit:      
 ### 1  
 
 ####Begripsbepalingen
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. wet:  [Wet luchtvaart](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md);    b. minister:  Minister van Defensie;.    c. register:  Nederlandse register voor militaire luchtvaartuigen.     
+In deze regeling wordt verstaan onder: a.  wet:   [Wet luchtvaart](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  b.  minister:   Minister van Defensie;  c.register: Nederlandse register voor militaire luchtvaartuigen. 
 
 ### 2  
 
@@ -30,13 +30,13 @@ Militaire raketten en militaire projectielen zijn vrijgesteld van het verbod, be
 ### Artikel  3  
 
 1.  Het nationaliteitskenmerk, te voeren door een Nederlands militair luchtvaartuig, bestaat uit twee concentrische cirkels, waarvan de binnenste een straal heeft gelijk aan een vijfde deel van die van de buitenste.   
-2.  Het gedeelte van de buitenste cirkel, dat niet tevens behoort tot de binnenste cirkel, is verdeeld in drie gelijke sectoren. Rechtsomgaande vertonen de sectoren de kleuren van de Nederlandse vlag. De binnenste cirkel is oranje gekleurd.   
-3.  In afwijking van het tweede lid kunnen voor luchtvaartuigen die zijn bedoeld voor gebruik onder operationele omstandigheden, de drie sectoren van de buitenste cirkel rechtsomgaand de kleuren groen, lichtgroen en donkergroen of grijs, lichtgrijs en donkergrijs vertonen. Daarbij kunnen zowel de buitenste als de binnenste cirkel, alsmede de drie gelijke sectoren, aangegeven worden door middel van zwarte lijnen. De binnenste cirkel is grijs gekleurd of in dezelfde kleur als de basiskleur van het luchtvaartuig.   
+2.  Het gedeelte van de buitenste cirkel, dat niet tevens behoort tot de binnenste cirkel, is verdeeld in drie gelijke sectoren. Rechtsomgaande vertonen de sectoren de kleuren van de Nederlandse vlag. De binnenste cirkel is oranje gekleurd.  
+3. In afwijking van het tweede lid kunnen voor luchtvaartuigen die zijn bedoeld voor gebruik onder operationele omstandigheden, de drie sectoren van de buitenste cirkel rechtsomgaand de kleuren groen, lichtgroen en donkergroen of grijs, lichtgrijs en donkergrijs vertonen. Daarbij kunnen zowel de buitenste als de binnenste cirkel, alsmede de drie gelijke sectoren, aangegeven worden door middel van zwarte lijnen. De binnenste cirkel is grijs gekleurd of in dezelfde kleur als de basiskleur van het luchtvaartuig.  
 4.  Het nationaliteitskenmerk wordt gevoerd ter weerszijden van de romp of op het verticale staartvlak en bovendien: 
 
-a. door luchtvaartuigen met een vleugel op de bovenzijde van de bakboordhelft en op de onderzijde van de stuurboordhelft van de vleugel;  
+a.  door luchtvaartuigen met een vleugel op de bovenzijde van de bakboordhelft en op de onderzijde van de stuurboordhelft van de vleugel; 
 
-b. door de hefschroefvliegtuigen op de boven- en onderzijde van de romp, tenzij de kenmerken ter weerszijden van de romp van bovenaf of van onderaf zichtbaar zijn.     
+b.  door de hefschroefvliegtuigen op de boven- en onderzijde van de romp, tenzij de kenmerken ter weerszijden van de romp van bovenaf of van onderaf zichtbaar zijn.    
 
 ### Artikel  4  
 
@@ -71,7 +71,7 @@ Een Nederlands militair luchtvaartuig dat naar het oordeel van de minister van h
 
 ### Artikel  9  
 
-In het register wordt in elk geval aantekening gemaakt van: 
+In het register wordt in elk geval aantekening gemaakt van:
 
 a. de houder van het luchtvaartuig;  
 
@@ -79,7 +79,7 @@ b. de type-aanduiding, het serienummer en het inschrijvingskenmerk van het lucht
 
 c. de datum van inschrijving onderscheidenlijk wijziging van inschrijving in het register, en  
 
-d. de datum alsmede de reden van doorhaling van de inschrijving.    
+d. de datum alsmede de reden van doorhaling van de inschrijving.   
 
 ### Artikel  10  
 
@@ -93,39 +93,39 @@ Het bewijs van inschrijving van Nederlandse militaire luchtvaartuigen wordt vast
 
 1.  De minister geeft met betrekking tot een type-ontwerp van een militair luchtvaartuig dan wel van een voortstuwingsinrichting of propeller bestemd voor een militair luchtvaartuig, een type-certificaat als bedoeld in [artikel 3.9, vierde lid, van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) af indien te zijnen genoegen is aangetoond, dat: 
 
-a. het type-ontwerp voldoet aan de voor de militaire luchtvaart in Nederland van toepassing zijnde eisen;  
+a. het type-ontwerp voldoet aan de voor de militaire luchtvaart in Nederland van toepassing zijnde eisen; 
 
-b. het luchtvaartuig, de voortstuwingsinrichting of de propeller kan worden vervaardigd volgens methoden, welke een goede kwaliteit van het product waarborgen;  
+b. het luchtvaartuig, de voortstuwingsinrichting of de propeller kan worden vervaardigd volgens methoden, welke een goede kwaliteit van het product waarborgen; 
 
-c. er ten minste een exemplaar van het luchtvaartuig, de voortstuwingsinrichting of de propeller bestaat, welke het type representeert; en  
+c. er ten minste een exemplaar van het luchtvaartuig, de voortstuwingsinrichting of de propeller bestaat, welke het type representeert; en 
 
 d. de houder van een type-certificaat er voor zal zorgen, dat zo spoedig mogelijk: 
 
-1º bekende of vermoede gebreken worden gemeld aan de minister;  
+1º bekende of vermoede gebreken worden gemeld aan de minister; 
 
-2º aan de minister alle informatie wordt gezonden betreffende de aanbevolen wijzigingen en de aanvullende aanwijzingen voor het onderhoud, de revisie en de herstelling van het type luchtvaartuig, voortstuwingsinrichting of propeller.       
-2.  Het eerste lid is van overeenkomstige toepassing op wijziging van type-certificaten, alsmede op de afgifte van aanvullende type-certificaten.   
+2º aan de minister alle informatie wordt gezonden betreffende de aanbevolen wijzigingen en de aanvullende aanwijzingen voor het onderhoud, de revisie en de herstelling van het type luchtvaartuig, voortstuwingsinrichting of propeller.     
+2.  Het eerste lid is van overeenkomstige toepassing op wijziging van type-certificaten, alsmede op de afgifte van aanvullende type-certificaten.  
 
 ### Artikel  12  
 
 1.  De minister geeft met betrekking tot een Nederlands militair luchtvaartuig een bewijs van luchtwaardigheid af indien: 
 
-a. ten aanzien van het betrokken type een type-certificaat als bedoeld in artikel 11 is afgegeven; en  
+a.  ten aanzien van het betrokken type een type-certificaat als bedoeld in artikel 11 is afgegeven; en 
 
-b. te zijnen genoegen is aangetoond dat het luchtvaartuig luchtwaardig is.     
+b.  te zijnen genoegen is aangetoond dat het luchtvaartuig luchtwaardig is.    
 2.  Het eerste lid, onderdeel a, geldt niet ten aanzien van het type luchtvaartuigen dat voor het tijdstip van inwerkingtreding van deze regeling bij de krijgsmacht in gebruik is genomen.   
 
 ### Artikel  13  
 
-De Minister geeft met betrekking tot Nederlandse militaire luchtvaartuigen, opgenomen in het register, het bewijs van luchtwaardigheid af, overeenkomstig het model dat als bijlage bij deze regeling behoort.  
+De Minister geeft met betrekking tot Nederlandse militaire luchtvaartuigen, opgenomen in het register, het bewijs van luchtwaardigheid af, overeenkomstig het model dat als bijlage bij deze regeling behoort. 
 
 ### Artikel  14  
 
 De minister trekt het bewijs van luchtwaardigheid in elk geval in, indien het luchtvaartuig, waarop het bewijs van luchtwaardigheid betrekking heeft: 
 
-a. niet meer voldoet aan de voor het type vastgestelde eisen van luchtwaardigheid; of  
+a.  niet meer voldoet aan de voor het type vastgestelde eisen van luchtwaardigheid; of 
 
-b. heeft opgehouden deel uit te maken van de Nederlandse krijgsmacht.    
+b.  heeft opgehouden deel uit te maken van de Nederlandse krijgsmacht.   
 
 ### 6  
 
@@ -137,7 +137,7 @@ Deze regeling treedt in werking met ingang van 15 oktober 2001.
 
 ### Artikel  16  
 
-Deze regeling wordt aangehaald als: Regeling kenmerken, registratie en luchtwaardigheid militaire luchtvaartuigen.  
+Deze regeling wordt aangehaald als: Regeling kenmerken, registratie en luchtwaardigheid militaire luchtvaartuigen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met uitzondering van de bijlagen, die ter inzage liggen bij de Stafgroep Juridische zaken van de Bevelhebber der Luchtstrijdkrachten, Binckhorstlaan 135 te Den Haag, en bij de Afdeling Juridische zaken van de Marinestaf, Van der Burchlaan 31 te Den Haag.   
 
 's-Gravenhage 
@@ -145,7 +145,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst, met u
 
 De 
 Staatssecretaris van Defensie, 
-H.A.L. vanHoof   
+H.A.L. van Hoof     
 
 ### Bijlage  
 
