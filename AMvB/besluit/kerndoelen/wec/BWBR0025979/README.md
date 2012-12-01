@@ -344,7 +344,7 @@ Bij oriëntatie op mens en samenleving is het van belang dat de leerlingen leren
 
 52. De leerlingen leren zich te gedragen vanuit respect voor algemeen aanvaarde waarden en normen.  
 
-53. De leerlingen leren hoofdzaken over geestelijke stromingen die in de Nederlandse multiculturele samenleving een belangrijke rol spelen, en ze leren respectvol om te gaan met verschillen in opvattingen van mensen.  
+53. De leerlingen leren hoofdzaken over geestelijke stromingen die in de Nederlandse multiculturele samenleving een belangrijke rol spelen, en ze leren respectvol om te gaan met seksualiteit en met diversiteit binnen de samenleving, waaronder seksuele diversiteit.  
 
 54. De leerlingen leren met zorg om te gaan met het milieu.    
 
@@ -726,7 +726,7 @@ Het centrale begrip van het onderwijs aan zeer moeilijk lerende leerlingen en aa
 
 30. De leerlingen leren gebruik maken van de voor hen relevante maatschappelijke en culturele instellingen.  
 
-31. De leerlingen leren herkennen dat in de samenleving verschillen en overeenkomsten zijn tussen mensen en groepen van mensen in de wijze waarop ze leven.  
+31. De leerlingen leren herkennen dat in de samenleving, onder meer op het gebied van seksualiteit, verschillen en overeenkomsten zijn tussen mensen en groepen van mensen in de wijze waarop ze leven.  
 
 32. De leerlingen leren zich oriënteren op medezeggenschap, stemrecht, besluitvorming, het gemeentelijk en landelijk bestuur.  
 

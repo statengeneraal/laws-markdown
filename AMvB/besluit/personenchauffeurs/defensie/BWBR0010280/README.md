@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Defensie van 13 november 1999, nr. P/98007410;
 
-Gelet op [artikel 125 van de Ambtenarenwet](../../../../../wet/ambtenarenwet/BWBR0001947/README.md) en [artikel 12:15 van de Arbeidstijdenwet](../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md);
+Gelet op artikel 125 van de Ambtenarenwet en artikel 12:15 van de Arbeidstijdenwet;
 
 De Raad van State gehoord (advies van 18 december 1998, No.W07.98.0528);
 
@@ -21,15 +21,15 @@ In dit besluit wordt verstaan onder:
 
 a. personenchauffeur: de krachtens dit besluit door Onze Minister van Defensie aangewezen ambtenaren die de functie van personenchauffeur uitoefenen, alsmede de krachtens artikel 1 van het Besluit van 3 mei 1989 (Stb. 1989, 194), houdende een nadere werktijd regeling en overwerkvergoeding voor personenchauffeurs aangewezen ambtenaar;  
 
-b. het inkomstenbesluit: het [Inkomstenbesluit burgerlijke ambtenaren defensie](../../../../../AMvB/inkomstenbesluit/burgerlijke/ambtenaren/defensie/BWBR0018191/README.md);  
+b. het inkomstenbesluit: het Inkomstenbesluit burgerlijke ambtenaren defensie;  
 
-c. het reglement: het [Burgerlijk ambtenarenreglement defensie](../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md).    
+c. het reglement: het Burgerlijk ambtenarenreglement defensie.    
 
 ### Artikel  2  
 
 ####Toepasselijkheid reglement en bezoldigingsbesluit
 
-[Artikel 30b, tweede lid, van het reglement](../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md) alsmede de [artikelen 20](../../../../../AMvB/inkomstenbesluit/burgerlijke/ambtenaren/defensie/BWBR0018191/README.md), [22](../../../../../AMvB/inkomstenbesluit/burgerlijke/ambtenaren/defensie/BWBR0018191/README.md) en [49 van het inkomstenbesluit](../../../../../AMvB/inkomstenbesluit/burgerlijke/ambtenaren/defensie/BWBR0018191/README.md) zijn op de personenchauffeur niet van toepassing.  
+Artikel 30b, tweede lid, van het reglement alsmede de artikelen 20, 22 en 49 van het inkomstenbesluit zijn op de personenchauffeur niet van toepassing.  
 
 ### Artikel  3  
 
@@ -42,41 +42,41 @@ De arbeidstijd voor de personenchauffeur met een volledige arbeidstijd bedraagt 
 ####Aanvulling op het salaris
 
 1.  De personenchauffeur ontvangt een aanvulling op zijn salaris per maand.   
-2.  Deze aanvulling bedraagt per maand voor de personenchauffeur met een volledige arbeidstijd 30 maal het salaris per uur, bedoeld in [artikel 1 van het inkomstenbesluit](../../../../../AMvB/inkomstenbesluit/burgerlijke/ambtenaren/defensie/BWBR0018191/README.md), vermenigvuldigd met de factor 1,5.   
-3.  De aanvulling wordt berekend over het voor de personenchauffeur geldende salaris per uur, met dien verstande dat het salaris per uur ten hoogste kan bedragen het salaris per uur dat is afgeleid van het salaris behorende bij het maximum van salarisschaal 4 van [bijlage A van het inkomstenbesluit](../../../../../AMvB/inkomstenbesluit/burgerlijke/ambtenaren/defensie/BWBR0018191/README.md).   
+2.  Deze aanvulling bedraagt per maand voor de personenchauffeur met een volledige arbeidstijd 30 maal het salaris per uur, bedoeld in artikel 1 van het inkomstenbesluit, vermenigvuldigd met de factor 1,5.   
+3.  De aanvulling wordt berekend over het voor de personenchauffeur geldende salaris per uur, met dien verstande dat het salaris per uur ten hoogste kan bedragen het salaris per uur dat is afgeleid van het salaris behorende bij het maximum van salarisschaal 4 van bijlage A van het inkomstenbesluit.   
 
 ### Artikel  5  
 
 ####Vaste toelage onregelmatige dienst
 
-De personenchauffeur met een volledige arbeidstijd ontvangt een vaste toelage onregelmatige dienst ten bedrage van € 140,89 bruto per maand.  
+De personenchauffeur met een volledige arbeidstijd ontvangt een vaste toelage onregelmatige dienst ten bedrage van € 142,30 bruto per maand.  
 
 ### Artikel  6  
 
 ####Consignatietoelage
 
-1.  De personenchauffeur wordt gedurende de pauzes consignatie als bedoeld in [artikel 4.6:2 van het Arbeidstijdenbesluit](../../../../../AMvB/arbeidstijdenbesluit/BWBR0007687/README.md) opgelegd.   
+1.  De personenchauffeur wordt gedurende de pauzes consignatie als bedoeld in artikel 4.6:2 van het Arbeidstijdenbesluit opgelegd.   
 2.  De personenchauffeur heeft recht op een maandelijkse consignatietoelage.   
-3.  In afwijking van [artikel 23, tweede en derde lid, van het inkomstenbesluit](../../../../../AMvB/inkomstenbesluit/burgerlijke/ambtenaren/defensie/BWBR0018191/README.md) bedraagt de in het tweede lid bedoelde consignatietoelage, over ten hoogste het aantal van 45 geconsigneerde uren per maand, per uur: 1/195 van de som van het salaris en de in artikel 4 genoemde aanvulling op het salaris, vermenigvuldigd met de factor 0,5.   
-4.  De consignatietoelage wordt berekend over het voor de personenchauffeur geldende salaris per uur, met dien verstande dat het salaris per uur ten hoogste kan bedragen het salaris per uur dat is afgeleid van het salaris behorende bij het maximum van salarisschaal 4 van [bijlage A van het inkomstenbesluit](../../../../../AMvB/inkomstenbesluit/burgerlijke/ambtenaren/defensie/BWBR0018191/README.md).   
+3.  In afwijking van artikel 23, tweede en derde lid, van het inkomstenbesluit bedraagt de in het tweede lid bedoelde consignatietoelage, over ten hoogste het aantal van 45 geconsigneerde uren per maand, per uur: 1/195 van de som van het salaris en de in artikel 4 genoemde aanvulling op het salaris, vermenigvuldigd met de factor 0,5.   
+4.  De consignatietoelage wordt berekend over het voor de personenchauffeur geldende salaris per uur, met dien verstande dat het salaris per uur ten hoogste kan bedragen het salaris per uur dat is afgeleid van het salaris behorende bij het maximum van salarisschaal 4 van bijlage A van het inkomstenbesluit.   
 
 ### Artikel  7  
 
 ####Grondslag bezoldiging
 
-De in de artikelen 4, 5, en 6 genoemde aanvulling op het salaris, de vaste toelage voor onregelmatige dienst en de consignatietoelage behoren tot de bezoldiging, bedoeld in [artikel 1 van het inkomstenbesluit](../../../../../AMvB/inkomstenbesluit/burgerlijke/ambtenaren/defensie/BWBR0018191/README.md).  
+De in de artikelen 4, 5, en 6 genoemde aanvulling op het salaris, de vaste toelage voor onregelmatige dienst en de consignatietoelage behoren tot de bezoldiging, bedoeld in artikel 1 van het inkomstenbesluit.  
 
 ### Artikel  8  
 
 ####Eindejaarsuitkering
 
-Over de in de artikelen 4, 5, en 6 genoemde aanvulling op het maandsalaris, de vaste toelage voor onregelmatige dienst en de consignatietoelage heeft de personenchauffeur recht op een eindejaarsuitkering als bedoeld in [artikel 44 van het inkomstenbesluit](../../../../../AMvB/inkomstenbesluit/burgerlijke/ambtenaren/defensie/BWBR0018191/README.md).  
+Over de in de artikelen 4, 5, en 6 genoemde aanvulling op het maandsalaris, de vaste toelage voor onregelmatige dienst en de consignatietoelage heeft de personenchauffeur recht op een eindejaarsuitkering als bedoeld in artikel 44 van het inkomstenbesluit.  
 
 ### Artikel  9  
 
 ####Aanspraak op vakantie
 
-In afwijking van [artikel 32, vierde lid, van het reglement](../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md) bedraagt de aanspraak op vakantie voor de personenchauffeur met een volledige arbeidstijd 218 uren per kalenderjaar.  
+In afwijking van artikel 32, vierde lid, van het reglement bedraagt de aanspraak op vakantie voor de personenchauffeur met een volledige arbeidstijd 218 uren per kalenderjaar.  
 
 ### Artikel  10  
 
@@ -91,9 +91,9 @@ Voor de personenchauffeur met een onvolledige arbeidstijd worden de in de artike
 1.  Voor de toepassing van dit artikel wordt onder personenchauffeur verstaan: de ambtenaar die krachtens artikel 1 van het Besluit van 3 mei 1989 (Stb. 1989, 194), houdende een nadere werktijd regeling en overwerkvergoeding voor personenchauffeurs is aangewezen als personenchauffeur.   
 2.  Voor de toepassing van dit artikel wordt verstaan onder maandelijkse inkomsten: 
 
-a. het salaris, bedoeld in [bijlage A van het inkomstenbesluit](../../../../../AMvB/inkomstenbesluit/burgerlijke/ambtenaren/defensie/BWBR0018191/README.md);  
+a. het salaris, bedoeld in bijlage A van het inkomstenbesluit;  
 
-b. de vakantieuitkering, bedoeld in [artikel 43 van het inkomstenbesluit](../../../../../AMvB/inkomstenbesluit/burgerlijke/ambtenaren/defensie/BWBR0018191/README.md);  
+b. de vakantieuitkering, bedoeld in artikel 43 van het inkomstenbesluit;  
 
 c. de eindejaarsuitkering, bedoeld in artikel 8 van dit besluit ;  
 

@@ -3,7 +3,7 @@
 ##Organisatieregeling Kadaster 2008
 
 Het bestuur van de Dienst voor het kadaster en de openbare registers,  
-Gelet op [artikel 4 van de Kadasterwet](../../../../../wet/kadasterwet/BWBR0004541/README.md) en [artikel 7, eerste lid, van de Organisatiewet Kadaster](../../../../../wet/organisatiewet/kadaster/BWBR0006463/README.md);
+Gelet op artikel 4 van de Kadasterwet en artikel 7, eerste lid, van de Organisatiewet Kadaster;
 Besluit:    
 
 ### Artikel  1  
@@ -15,7 +15,7 @@ De kantoren van de Dienst zijn gevestigd in de gemeenten Amsterdam, Apeldoorn, A
 1.  De kantoren, bedoeld in artikel 1, zijn, met uitzondering van de kantoren te Apeldoorn, voor de aanbieding van stukken met een papieren vorm ter inschrijving in de openbare registers voor het publiek opengesteld op maandag tot en met vrijdag van 9.00 tot 15.00 uur, met dien verstande dat stukken ter inschrijving van feiten die betrekking hebben op luchtvaartuigen of op rechten waaraan die luchtvaartuigen zijn onderworpen, uitsluitend kunnen worden aangeboden aan het kantoor te Rotterdam.   
 2.  Het kantoor te Apeldoorn, Hofstraat 110, is uitsluitend voor de aanbieding van in depot te nemen tekeningen en andere stukken die deel uitmaken van een stuk dat ter inschrijving in de openbare registers zal worden aangeboden, voor het publiek opengesteld op maandag tot en met vrijdag van 9.00 tot 15.00 uur.   
 3.  De kantoren, bedoeld in het eerste lid, zijn, met uitzondering van de kantoren te Apeldoorn, voor de verstrekking van informatie voor het publiek opengesteld op maandag tot en met vrijdag van 9.00 tot 17.00 uur.   
-4.  In afwijking van het eerste, tweede en derde lid, zijn de aldaar genoemde kantoren voor het publiek gesloten op de nieuwjaarsdag, de Hemelvaartsdag, de christelijke tweede Paas- en Pinksterdag, de beide Kerstdagen, de Koninginnedag en de vijfde mei.   
+4.  In afwijking van het eerste, tweede en derde lid, zijn de aldaar genoemde kantoren voor het publiek gesloten op de nieuwjaarsdag, de Hemelvaartsdag, de christelijke tweede Paas- en Pinksterdag, de beide Kerstdagen, de Koninginnedag en de vijfde mei die in een lustrumjaar valt.   
 
 ### Artikel  3  
 
@@ -23,7 +23,7 @@ De teboekstelling van schepen en luchtvaartuigen en daarmee samenhangende verric
 
 ### Artikel  4  
 
-De [Organisatieregeling Kadaster 2006](../../../../../zbo/organisatieregeling/kadaster/2006/BWBR0021870/README.md) wordt ingetrokken.  
+De Organisatieregeling Kadaster 2006 wordt ingetrokken.  
 
 ### Artikel  5  
 

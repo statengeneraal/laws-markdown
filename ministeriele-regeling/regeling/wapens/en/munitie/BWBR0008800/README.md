@@ -13,20 +13,20 @@ Besluit:
 
 1.  In deze regeling wordt verstaan onder: 
 
-a. *de wet:* de Wet wapens en munitie;  
+a. *de wet:* de [Wet wapens en munitie](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md);  
 
-b. *de Minister:* de minister van Justitie;  
+b. *de Minister:* de minister van Veiligheid en Justitie;  
 
 c. *de korpschef:* de korpschef, bedoeld in [artikel 24 van de Politiewet 1993](../../../../../../wet/politiewet/1993/BWBR0006299/README.md);  
 
-d. *jachtakte:* een jachtakte bedoeld in [titel III van de Jachtwet](../../../../../../wet/jachtwet/BWBR0002155/README.md), tenzij uitdrukkelijk anders is aangegeven;  
+d. *jachtakte:* een jachtakte als bedoeld in [artikel 38, eerste lid, onder a, van de Flora- en faunawet](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), tenzij uitdrukkelijk anders is aangegeven;  
 
 e. *de bedrijfsruimte van de erkende:* de ruimte waarin de erkende de handelingen, waarop zijn erkenning betrekking heeft, verricht of doet verrichten;  
 
 f. *buitengewoon opsporingsambtenaar:* de buitengewoon opsporingsambtenaar, bedoeld in [artikel 142, eerste lid, van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
 
 g. *schietvereniging:* de vereniging die blijkens de in een notariële akte opgenomen statuten tot doel heeft haar leden in de gelegenheid te stellen de schietsport te beoefenen.     
-2.  Overige in deze regeling voorkomende begrippen hebben dezelfde betekenis als in de wet.   
+2.  Overige in deze regeling voorkomende begrippen hebben dezelfde betekenis als in [de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md).   
 
 ### 2  
 
@@ -34,7 +34,7 @@ g. *schietvereniging:* de vereniging die blijkens de in een notariële akte opge
 
 ### Artikel  2  
 
-1.  In de wet en de daarop berustende bepalingen wordt verstaan onder: 
+1.  In [de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) en de daarop berustende bepalingen wordt verstaan onder: 
 
 a.  *stiletto:*  een opvouwbaar mes waarvan het lemmet door een druk- of vergelijkbaar ontgrendelingsmechanisme zijdelings scharnierend uit het heft wordt gebracht;  
 
@@ -148,7 +148,7 @@ g. de [Opiumwet](../../../../../../wet/opiumwet/BWBR0001941/README.md).
 
 ### Artikel  9  
 
-1.  De aanvrager of de beheerder, bedoeld in artikel 10, eerste lid, onder a, van de wet dient met gunstig gevolg een examen te hebben afgelegd waarvan de exameneisen en het examenreglement door de minister zijn goedgekeurd.   
+1.  De aanvrager of de beheerder, bedoeld in [artikel 10, eerste lid, onder a, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) dient met gunstig gevolg een examen te hebben afgelegd waarvan de exameneisen en het examenreglement door de minister zijn goedgekeurd.   
 2.  Goedkeuring als bedoeld in het eerste lid wordt in ieder geval verleend aan: 
 
 a. het Vakexamen voor de handel in wapens en munitie van de Leidsche Onderwijs Instellingen;  
@@ -158,7 +158,7 @@ b. het Examen inzake vakbekwaamheid voor de detailhandel in vuurwapens en muniti
 
 ### Artikel  10  
 
-Artikel 9, eerste lid, van deze regeling is niet van toepassing, indien de aangevraagde erkenning, bedoeld in artikel 9, eerste lid, van de wet, bedrijven betreft waarin: 
+Artikel 9, eerste lid, van deze regeling is niet van toepassing, indien de aangevraagde erkenning, bedoeld in [artikel 9, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), bedrijven betreft waarin: 
 
 a. geen andere onder de wet vallende voorwerpen dan noodsignaalmiddelen worden hersteld of verhandeld, hieronder mede verstaan het verhandelen van bijbehorende munitie;  
 
@@ -196,7 +196,7 @@ d. is niet toegankelijk voor publiek, tenzij daar tevens toezichthoudend persone
 
 ### Artikel  12  
 
-1.  De erkenninghouder of de in het bewijs van erkenning genoemde beheerder houdt een doorlopend register bij waarin alle door deze onder enige titel verkregen of overgedragen wapens en munitie, onderdelen en hulpstukken als bedoeld in artikel 3 van de wet daaronder mede begrepen, worden aangetekend, met uitzondering van patroonhouders en -magazijnen, lucht-, gas- en veerdrukwapens van categorie IV en van die wapens of munitie waarvoor ingevolge één van de artikelen 18, 19, 20, 21, en 22 een vrijstelling geldt.   
+1.  De erkenninghouder of de in het bewijs van erkenning genoemde beheerder houdt een doorlopend register bij waarin alle door deze onder enige titel verkregen of overgedragen wapens en munitie, onderdelen en hulpstukken als bedoeld in [artikel 3 van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) daaronder mede begrepen, worden aangetekend, met uitzondering van patroonhouders en -magazijnen, lucht-, gas- en veerdrukwapens van categorie IV en van die wapens of munitie waarvoor ingevolge één van de artikelen 18, 19, 20, 21, en 22 een vrijstelling geldt.   
 2.  Het in het eerste lid genoemde register bestaat uit de volgende afzonderlijke registraties: 
 
 a. een registratie betreffende het inkomen van voor de handel bestemde wapens;  
@@ -221,7 +221,21 @@ f. een registratie betreffende ter beproeving gegeven wapens en munitie.
 
 ### Artikel  13  
 
-Bij verkrijging van wapens van categorie III van personen die een verlof tot het voorhanden hebben als bedoeld in artikel 28 van de wet bezitten, dan wel op grond van artikel 26, tweede lid, van de wet voor de jacht bestemde wapens voorhanden mogen hebben, verstrekt de erkende, dan wel de beheerder, bedoeld in artikel 9, derde lid, van de wet, een ontvangstbewijs overeenkomstig het in bijlage III bij deze regeling opgenomen model.  
+Bij verkrijging van wapens van categorie III van personen die een verlof tot het voorhanden hebben als bedoeld in [artikel 28 van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) bezitten, dan wel op grond van [artikel 26, tweede lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) voor de jacht bestemde wapens voorhanden mogen hebben, verstrekt de erkende, dan wel de beheerder, bedoeld in [artikel 9, derde lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), een ontvangstbewijs overeenkomstig het in bijlage III bij deze regeling opgenomen model.  
+
+### 8a  
+
+####Markering van vuurwapens
+
+### Artikel  13a  
+
+Als wezenlijk onderdeel van een vuurwapen, als bedoeld in [artikel 32a, derde lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), waarop de markering wordt aangebracht, worden uitsluitend aangemerkt: 
+
+a. het sluitingsmechanisme;  
+
+b. de kamer;  
+
+c. de loop.    
 
 ### 9  
 
@@ -229,11 +243,11 @@ Bij verkrijging van wapens van categorie III van personen die een verlof tot het
 
 ### Artikel  14  
 
-Van het verbod in artikel 9, eerste lid, van de wet wordt vrijstelling verleend voor het vervaardigen, transformeren of in de uitoefening van een bedrijf uitwisselen, verhuren of anderszins ter beschikking stellen, herstellen, beproeven of verhandelen van wapens van categorie IV onder 1°, 2°, 3° en 5°.  
+Van het verbod in [artikel 9, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) wordt vrijstelling verleend voor het vervaardigen, transformeren of in de uitoefening van een bedrijf uitwisselen, verhuren of anderszins ter beschikking stellen, herstellen, beproeven of verhandelen van wapens van categorie IV onder 1°, 2°, 3° en 5°.  
 
 ### Artikel  15  
 
-1.  Van het verbod in artikel 9, eerste lid, van de wet wordt vrijstelling verleend voor het in de uitoefening van een bedrijf ter beschikking stellen van lucht-, gas- en veerdrukwapens van categorie IV, onder 4°, aan bezoekers van erkende kermissen.   
+1.  Van het verbod in [artikel 9, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) wordt vrijstelling verleend voor het in de uitoefening van een bedrijf ter beschikking stellen van lucht-, gas- en veerdrukwapens van categorie IV, onder 4°, aan bezoekers van erkende kermissen.   
 2.  De vrijstelling in het eerste lid geldt slechts voor: 
 
 a. kermisexploitanten die tijdens de erkende kermis een toegestane attractie exploiteren;  
@@ -244,7 +258,7 @@ c. op het terrein van de kermis in de onmiddellijke nabijheid van de attractie.
 
 ### Artikel  16  
 
-1.  Van het verbod in artikel 9, eerste lid, van de wet wordt vrijstelling verleend voor het ter beschikking stellen van lucht-, gas- en veerdrukwapens van categorie IV, onder 4°, aan bezoekers van braderieën, rommelmarkten, jaarmarkten, fancy-fairs en soortgelijke evenementen.   
+1.  Van het verbod in [artikel 9, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) wordt vrijstelling verleend voor het ter beschikking stellen van lucht-, gas- en veerdrukwapens van categorie IV, onder 4°, aan bezoekers van braderieën, rommelmarkten, jaarmarkten, fancy-fairs en soortgelijke evenementen.   
 2.  De vrijstelling in het eerste lid geldt slechts: 
 
 a. voor personen die voorafgaande schriftelijke toestemming van de korpschef hebben om de attractie te exploiteren, welke toestemming wordt onthouden of ingetrokken indien geen redelijke maatregelen ter voorkoming van letsel en schade zijn getroffen, dan wel indien misbruik is te vrezen,  
@@ -255,7 +269,7 @@ c. op het terrein van het evenement in de onmiddellijke nabijheid van de attract
 
 ### Artikel  17  
 
-Van het verbod in artikel 9, eerste lid, van de wet wordt vrijstelling verleend voor het vervaardigen en transformeren van munitie, voor zover het gaat om herladen: 
+Van het verbod in [artikel 9, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) wordt vrijstelling verleend voor het vervaardigen en transformeren van munitie, voor zover het gaat om herladen: 
 
 aº. voor eigen gebruik 
 
@@ -275,7 +289,7 @@ bº. zonder winstoogmerk door een lid van een schietvereniging ten behoeve van a
 
 ### Artikel  18  
 
-1.  Onverminderd het bepaalde in artikel 3 van deze regeling wordt van het verbod in artikel 14, eerste lid, 22, eerste lid, 26, eerste lid, en 31, eerste lid, van de wet vrijstelling verleend voor het doen binnenkomen of uitgaan, vervoeren, voor handen hebben en overdragen van: 
+1.  Onverminderd het bepaalde in artikel 3 van deze regeling wordt van het verbod in [artikel 14, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [22, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [26, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), en [31, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) vrijstelling verleend voor het doen binnenkomen of uitgaan, vervoeren, voor handen hebben en overdragen van: 
 
 a. vuurwapens die voor gebruik als zodanig ongeschikt zijn gemaakt op de wijze, beschreven in bijlage II bij deze regeling;  
 
@@ -299,12 +313,12 @@ h.  vervallen;
 
 i. projectielen en hulzen, eventueel samengevoegd tot patronen, die een onderdeel vormen van een monster-, verzamel- of overzichtsbord, voor zover zij niet zijn voorzien van een ontstekende, voortdrijvende of brisante lading en voorzover zij op deugdelijke wijze permanent op het bord bevestigd zijn.     
 2.  De vrijstellingen zoals vermeld onder c, d en e zijn uitsluitend van toepassing op wapens die zijn vervaardigd vóór 1 januari 1945.   
-3.  de vrijstelling van het eerste lid, aanhef en onder a, geldt voor vuurwapens die na inwerkingtreding van dit artikel voor gebruik als zodanig ongeschikt zijn gemaakt uitsluitend indien uit een door een erkenninghouder of de in het bewijs van erkenning genoemde beheerder afgegeven en door de korpschef goedgekeurde verklaring blijkt dat het betreffende vuurwapen voor gebruik als zodanig ongeschikt is gemaakt op de wijze, beschreven in bijlage II van deze regeling.   
+3.  de vrijstelling van het eerste lid, aanhef en onder a, geldt voor vuurwapens die na inwerkingtreding van dit artikel voor gebruik als zodanig ongeschikt zijn gemaakt uitsluitend indien uit een door een erkenninghouder of de in het bewijs van erkenning genoemde beheerder afgegeven verklaring blijkt dat het betreffende vuurwapen voor gebruik als zodanig ongeschikt is gemaakt op de wijze, beschreven in bijlage II van deze regeling.   
 
 ### Artikel  18a  
 
-1.  Van het verbod in artikel 22, eerste lid, van de wet, wordt vrijstelling verleend voor het vervoeren van munitie en onderdelen van munitie van categorie II, uitsluitend voor de houders van een verlof tot vervoer van munitie van categorie III.   
-2.  Van het verbod in artikel 26, eerste lid, van de wet, wordt vrijstelling verleend voor het voorhanden hebben van munitie en onderdelen van munitie van categorie II, uitsluitend voor de houders van een verlof tot het voorhanden hebben van munitie van categorie III.   
+1.  Van het verbod in [artikel 22, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), wordt vrijstelling verleend voor het vervoeren van munitie en onderdelen van munitie van categorie II, uitsluitend voor de houders van een verlof tot vervoer van munitie van categorie III.   
+2.  Van het verbod in [artikel 26, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), wordt vrijstelling verleend voor het voorhanden hebben van munitie en onderdelen van munitie van categorie II, uitsluitend voor de houders van een verlof tot het voorhanden hebben van munitie van categorie III.   
 3.  De vrijstellingen ingevolge het eerste en het tweede lid, gelden slechts voor zover: 
 
 a. de bevoegdheden van de houder van het verlof tot voorhanden hebben, onderscheidenlijk het verlof tot vervoer, met betrekking tot munitie van categorie II niet verder reiken dan die met betrekking tot de munitie van categorie III;  
@@ -322,7 +336,36 @@ d. munitie met een kaliber boven de 19 mm niet voorzien is van brisante ladingen
 
 ### Artikel  20  
 
-Van het verbod van artikel 14, eerste lid, artikel 22, eerste lid, en artikel 26, eerste lid, van de wet, wordt vrijstelling verleend voor het doen binnenkomen of uitgaan, vervoeren en voorhanden hebben van munitie, bestemd voor wapens die het karakter dragen van oudheden of replica’s daarvan, voorzover deze munitie bestaat uit ronde loden kogels.  
+Van het verbod van [artikel 14, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [artikel 22, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), en [artikel 26, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), wordt vrijstelling verleend voor het doen binnenkomen of uitgaan, vervoeren en voorhanden hebben van munitie, bestemd voor wapens die het karakter dragen van oudheden of replica’s daarvan, voorzover deze munitie bestaat uit ronde loden kogels.  
+
+### Artikel  20a  
+
+Van de in [artikel 32a, eerste, tweede en derde lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) en [32b, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) gestelde eisen, wordt vrijstelling verleend voor vuurwapens en munitie, bestemd voor dan wel deel uitmakend van: 
+
+a. verzamelingen van individuele wapen- of munitieverzamelaars die in georganiseerd verband serieuze studie maken van de historische of technische ontwikkeling van vuurwapens of munitie, waarvoor verlof is verleend op grond van [artikel 28 van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md);  
+
+b. verzamelingen van algemeen en wetenschappelijk belang, waarvoor verlof is verleend op grond van [artikel 28 van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md).    
+
+### 10a  
+
+####Tijdelijke vrijstelling voor stiletto’s, valmessen en vlindermessen
+
+### Artikel  20b  
+
+1.  Van het verbod in [artikel 13, eerste lid,van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), wordt tot 1 maart 2013 vrijstelling verleend voor het voorhanden hebben en vervoeren van wapens, genoemd in [artikel 2, eerste lid, categorie I, onderdeel 1°, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), een en ander indien het lemmet: 
+
+a. niet meer dan een snijkant heeft;  
+
+b. korter is dan 7 cm en breder is dan 14 mm;  
+
+c. korter is dan 9 cm; of  
+
+d. niet van een stootplaat is voorzien.     
+2.  De vrijstelling, genoemd in het eerste lid, is slechts van toepassing op wapens die deel uitmaken van: 
+
+a. verzamelingen van individuele wapenverzamelaars die serieuze studie maken van de historische of technische ontwikkeling van wapens;  
+
+b. verzamelingen van algemeen en wetenschappelijk belang.     
 
 ### 11  
 
@@ -330,17 +373,17 @@ Van het verbod van artikel 14, eerste lid, artikel 22, eerste lid, en artikel 26
 
 ### Artikel  21  
 
-1.  Van het verbod van artikel 14, eerste lid, artikel 22, eerste lid, artikel 26, eerste lid en artikel 27 eerste lid, van de wet, wordt vrijstelling verleend voor het doen binnenkomen of uitgaan, vervoeren, voorhanden hebben en dragen van voorwerpen waarmee door een elektrische stroomstoot personen weerloos kunnen worden gemaakt of pijn kan worden toegebracht, aan personen die zich bezighouden met de beroepsmatige uitoefening van de veehouderij, het transport van vee, of de medische behandeling daarvan.   
+1.  Van het verbod van [artikel 14, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [artikel 22, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [artikel 26, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) en [artikel 27 eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), wordt vrijstelling verleend voor het doen binnenkomen of uitgaan, vervoeren, voorhanden hebben en dragen van voorwerpen waarmee door een elektrische stroomstoot personen weerloos kunnen worden gemaakt of pijn kan worden toegebracht, aan personen die zich bezighouden met de beroepsmatige uitoefening van de veehouderij, het transport van vee, of de medische behandeling daarvan.   
 2.  De vrijstelling in het eerste lid geldt voorzover het dragen betreft uitsluitend op het moment dat de in het eerste lid genoemde activiteiten daadwerkelijk plaatsvinden.   
 
 ### Artikel  22  
 
-1.  Van het verbod van artikel 14, eerste lid, 22, eerste lid, 26, eerste lid en 27, eerste lid, van de wet wordt vrijstelling verleend voor het doen binnenkomen of uitgaan, vervoeren, voorhanden hebben en dragen van noodsignaalmiddelen en de daarbij behorende lichtsignaal- of rooksignaalpatronen door personen van 18 jaar of ouder.   
+1.  Van het verbod van [artikel 14, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [22, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), [26, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) en [27, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) wordt vrijstelling verleend voor het doen binnenkomen of uitgaan, vervoeren, voorhanden hebben en dragen van noodsignaalmiddelen en de daarbij behorende lichtsignaal- of rooksignaalpatronen door personen van 18 jaar of ouder.   
 2.  De vrijstelling ingevolge het eerste lid geldt slechts indien: 
 
 1º. de noodsignaalmiddelen 
 
-aº. van een kleiner kaliber zijn dan kaliber 12 (18,2 mm);   
+aº. van een kleiner kaliber zijn dan kaliber 12 (18,2 mm);  
 
 a. uitsluitend geschikt zijn voor het verschieten van noodsignaalmunitie;  
 
@@ -354,16 +397,16 @@ d. door middel van gravering zijn voorzien van de postcode en het huisnummer van
 
 ### Artikel  23  
 
-1.  Van het verbod van artikel 14, eerste lid, van de wet, wordt vrijstelling verleend aan in het buitenland wonende personen van 18 jaar en ouder die met hun vaartuig een vaste ligplaats in Nederland hebben, voor het doen binnenkomen of uitgaan van andere noodsignaalmiddelen dan bedoeld in artikel 22, tweede lid, onder 1, van deze regeling.   
+1.  Van het verbod van [artikel 14, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), wordt vrijstelling verleend aan in het buitenland wonende personen van 18 jaar en ouder die met hun vaartuig een vaste ligplaats in Nederland hebben, voor het doen binnenkomen of uitgaan van andere noodsignaalmiddelen dan bedoeld in artikel 22, tweede lid, onder 1, van deze regeling.   
 2.  De vrijstelling ingevolge het eerste lid geldt slechts voor personen die de meegevoerde noodsignaalmiddelen in Nederland krachtens een verlof voorhanden mogen hebben.   
 
 ### Artikel  24  
 
-Van het verbod in artikel 22, eerste lid, van de wet, wordt vrijstelling verleend voor het vervoeren van andere noodsignaalmiddelen dan bedoeld in artikel 22, tweede lid, van deze regeling, aan de door de minister van Verkeer en Waterstaat aangewezen ambtenaren van de Vaarwegmarkeringsdienst van het ministerie van Verkeer en Waterstaat.’  
+Van het verbod in [artikel 22, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), wordt vrijstelling verleend voor het vervoeren van andere noodsignaalmiddelen dan bedoeld in artikel 22, tweede lid, van deze regeling, aan de door de minister van Verkeer en Waterstaat aangewezen ambtenaren van de Vaarwegmarkeringsdienst van het ministerie van Verkeer en Waterstaat.’  
 
 ### Artikel  25  
 
-Van het verbod in artikel 26, eerste lid, van de wet, wordt vrijstelling verleend voor het voorhanden hebben van andere noodsignaalmiddelen dan bedoeld in artikel 22, tweede lid, aan zeeverkeersambtenaren van het ministerie van Verkeer en Waterstaat, in de daartoe door de minister van Verkeer en Waterstaat aangewezen zeeverkeersposten.  
+Van het verbod in [artikel 26, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), wordt vrijstelling verleend voor het voorhanden hebben van andere noodsignaalmiddelen dan bedoeld in artikel 22, tweede lid, aan zeeverkeersambtenaren van het ministerie van Verkeer en Waterstaat, in de daartoe door de minister van Verkeer en Waterstaat aangewezen zeeverkeersposten.  
 
 ### 12  
 
@@ -371,9 +414,9 @@ Van het verbod in artikel 26, eerste lid, van de wet, wordt vrijstelling verleen
 
 ### Artikel  26  
 
-1.  Van het verbod in artikel 26, vijfde lid, van de wet wordt vrijstelling verleend voor het voorhanden hebben van degens, lucht-, gas-, en veerdrukwapens van categorie IV, alsmede van kruisbogen, aan personen die de leeftijd van 18 jaar nog niet hebben bereikt, voor de beoefening van sporten in verenigingsverband.   
+1.  Van het verbod in [artikel 26, vijfde lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) wordt vrijstelling verleend voor het voorhanden hebben van degens, lucht-, gas-, en veerdrukwapens van categorie IV, alsmede van kruisbogen, aan personen die de leeftijd van 18 jaar nog niet hebben bereikt, voor de beoefening van sporten in verenigingsverband.   
 2.  De vrijstelling ingevolge het eerste lid geldt slechts voor personen die door middel van een bewijs van lidmaatschap kunnen aantonen lid te zijn van een vereniging waarbinnen de sportbeoefening met behulp van een of meer van de in het eerste lid bedoelde voorwerpen plaatsvindt.   
-3.  Voorzover het lucht-, gas- of veerdrukwapens betreft geldt, in afwijking van het tweede lid, de vrijstelling in het eerste slechts voor: 
+3.  Voorzover het lucht-, gas- of veerdrukwapens betreft geldt, in afwijking van het tweede lid, de vrijstelling in het eerste lid slechts voor: 
 
 a. personen die door middel van een bewijs van lidmaatschap kunnen aantonen ten minste drie maanden lid te zijn van een schietvereniging, zoals bedoeld in artikel 1, eerste lid, onder g, van deze regeling; en  
 
@@ -381,7 +424,7 @@ b. lucht-, gas- en veerdrukwapens die zijn toegelaten in het Schiet- en wedstrij
 
 ### Artikel  27  
 
-1.  Van het verbod van artikel 31, vierde lid, van de wet wordt vrijstelling verleend voor het overdragen aan personen die de leeftijd van 18 jaar nog niet hebben bereikt van degens, lucht-, gas-, en veerdrukwapens van categorie IV, en van kruisbogen, een en ander met het oog op in verenigingsverband beoefende sporten.   
+1.  Van het verbod van [artikel 31, vierde lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) wordt vrijstelling verleend voor het overdragen aan personen die de leeftijd van 18 jaar nog niet hebben bereikt van degens, lucht-, gas-, en veerdrukwapens van categorie IV, en van kruisbogen, een en ander met het oog op in verenigingsverband beoefende sporten.   
 2.  De vrijstelling ingevolge het eerste lid geldt voorzover het lucht-, gas-, of veerdrukwapens betreft uitsluitend indien: 
 
 a. de persoon aan wie de in het eerste lid bedoelde voorwerpen worden overgedragen een verklaring, die niet ouder is dan veertien dagen, van het bestuur van de vereniging overlegt, waaruit blijkt dat hij tenminste 3 maanden lid is van een schietvereniging, zoals bedoeld in artikel 1, eerste lid, onder g, van deze regeling;  
@@ -401,7 +444,7 @@ b. de onder a bedoelde verklaring door degene die het wapen overdraagt in ontvan
 
 ### Artikel  28  
 
-1.  Van het verbod in artikel 27, eerste lid, van de wet wordt vrijstelling verleend voor het dragen van degens, lucht-, gas-, en veerdrukwapens van categorie IV, alsmede van kruisbogen op voor het publiek toegankelijke plaatsen, met uitzondering van de openbare weg.   
+1.  Van het verbod in [artikel 27, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) wordt vrijstelling verleend voor het dragen van degens, lucht-, gas-, en veerdrukwapens van categorie IV, alsmede van kruisbogen op voor het publiek toegankelijke plaatsen, met uitzondering van de openbare weg.   
 2.  De vrijstelling ingevolge het eerste lid geldt uitsluitend: 
 
 a. voor personen die bevoegd zijn de wapens voorhanden te hebben;  
@@ -414,7 +457,7 @@ d. op het terrein van het evenement in de onmiddellijke nabijheid van de plaats 
 
 ### Artikel  29  
 
-Van het verbod van artikel 27, eerste lid, van de wet wordt vrijstelling verleend voor: 
+Van het verbod van [artikel 27, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) wordt vrijstelling verleend voor: 
 
 a. het dragen van lucht-, gas- en veerdrukwapens van categorie IV aan personen aan wie deze overeenkomstig artikel 15 of artikel 16 van deze regeling ter beschikking worden gesteld. Artikel 15, tweede lid, onder b en c, en artikel 16, tweede lid, onder b en c, van deze regeling zijn van overeenkomstige toepassing;  
 
@@ -426,12 +469,12 @@ b. het dragen van een wapen van categorie IV, onder 1°, aan personen ten aanzie
 
 ### Artikel  30  
 
-1.  Van het verbod van artikel 27, eerste lid, van de wet, wordt vrijstelling verleend voor het dragen van een wapen van categorie IV, aan personen ten aanzien van wie het wapen deel uitmaakt van hun officiële ceremonieel tenue.   
+1.  Van het verbod van [artikel 27, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), wordt vrijstelling verleend voor het dragen van een wapen van categorie IV, aan personen ten aanzien van wie het wapen deel uitmaakt van hun officiële ceremonieel tenue.   
 2.  De vrijstelling in het eerste lid geldt uitsluitend op de tijdstippen dat de ambtskleding of het officiële ceremonieel tenue daadwerkelijk wordt gedragen.   
 
 ### Artikel  31  
 
-1.  Van het verbod van artikel 27, eerste lid, van de wet, wordt vrijstelling verleend voor het in een optocht meevoeren van wapens van categorie III of IV.   
+1.  Van het verbod van [artikel 27, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), wordt vrijstelling verleend voor het in een optocht meevoeren van wapens van categorie III of IV.   
 2.  De vrijstelling ingevolge het eerste lid geldt slechts indien: 
 
 a. de wapens worden meegevoerd door personen die op grond van de wet bevoegd zijn die wapens voorhanden te hebben, en  
@@ -440,7 +483,7 @@ b. de burgemeester in de gemeente waar de optocht wordt gehouden schriftelijk he
 
 ### Artikel  32  
 
-1.  Van het verbod van artikel 27, eerste lid, van de wet, wordt vrijstelling verleend aan door de Minister van Defensie erkende studentenweerbaarheidsverenigingen voor het dragen van wapens van categorie III, welke door de krijgsmacht ter beschikking zijn gesteld en van wapens van categorie IV, onder 2°.   
+1.  Van het verbod van [artikel 27, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), wordt vrijstelling verleend aan door de Minister van Defensie erkende studentenweerbaarheidsverenigingen voor het dragen van wapens van categorie III, welke door de krijgsmacht ter beschikking zijn gesteld en van wapens van categorie IV, onder 2°.   
 2.  De vrijstelling ingevolge het eerste lid geldt slechts indien: 
 
 a. in uniform gekleed en in onderling verband wordt opgetreden tot het verrichten van eerbetoon, het deelnemen aan een optocht of een afstandsmars dan wel het oefenen voor een van deze gelegenheden;  
@@ -455,11 +498,11 @@ c. de Minister van Defensie voor het dragen van de ter beschikking gestelde wape
 
 ### Artikel  33  
 
-Van het verbod van artikel 14, eerste lid, van de wet, wordt vrijstelling verleend voor het aan boord van een Nederlands schip of luchtvaartuig tijdelijk doen uitgaan en binnenkomen van wapens van categorie III en de bijbehorende munitie die behoren tot de uitrusting van dat schip of luchtvaartuig en die krachtens een verlof aan boord voorhanden gehouden mogen worden.  
+Van het verbod van [artikel 14, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), wordt vrijstelling verleend voor het aan boord van een Nederlands schip of luchtvaartuig tijdelijk doen uitgaan en binnenkomen van wapens van categorie III en de bijbehorende munitie die behoren tot de uitrusting van dat schip of luchtvaartuig en die krachtens een verlof aan boord voorhanden gehouden mogen worden.  
 
 ### Artikel  34  
 
-1.  Van het verbod van artikel 14, eerste lid, van de wet, wordt vrijstelling verleend voor doen binnenkomen en tijdelijk doen uitgaan van wapens en munitie die behoren tot de uitrusting van een buitenlands schip dan wel tot de persoonlijke bezittingen van de gezagvoerder of de andere bemanningsleden.   
+1.  Van het verbod van [artikel 14, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), wordt vrijstelling verleend voor doen binnenkomen en tijdelijk doen uitgaan van wapens en munitie die behoren tot de uitrusting van een buitenlands schip dan wel tot de persoonlijke bezittingen van de gezagvoerder of de andere bemanningsleden.   
 2.  De vrijstelling ingevolge het eerste lid geldt slechts voor: 
 
 a. wapens en munitie die aan boord van het schip blijven en die onder douaneverzegeling worden gehouden en die schriftelijk bij de douane zijn gemeld; en  
@@ -486,20 +529,20 @@ e. de naam van degene die de aangifte of kennisgeving doet en, indien dat een an
 
 ### Artikel  39  
 
-1.  Van het verbod van artikel 14, eerste lid en 22, eerste lid van de wet, wordt vrijstelling verleend aan de houder van een geldige jachtakte, voor zover het betreft het ter beoefening door hem van de jacht tijdelijk doen uitgaan of binnenkomen, alsmede vervoeren, van de in die jachtakte omschreven jachtgeweren, die zodanig zijn verpakt dat zij niet voor onmiddellijk gebruik kunnen worden aangewend, alsmede voor ten hoogste 1000 patronen voor die geweren tezamen.   
+1.  Van het verbod van [artikel 14, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) en [22, eerste lid van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), wordt vrijstelling verleend aan de houder van een geldige jachtakte, voor zover het betreft het ter beoefening door hem van de jacht tijdelijk doen uitgaan of binnenkomen, alsmede vervoeren, van de in die jachtakte omschreven jachtgeweren, die zodanig zijn verpakt dat zij niet voor onmiddellijk gebruik kunnen worden aangewend, alsmede voor ten hoogste 1000 patronen voor die geweren tezamen.   
 2.  De vrijstelling ingevolge het eerste lid geldt voor de houder van een jachtakte als bedoeld in artikel 16a van de Jachtwet vanaf de zevende dag vóór tot en met de zevende dag ná het tijdvak waarvoor die jachtakte geldig is.   
 3.  Voor ingezetenen van één van de bij de Europese Unie aangesloten lidstaten geldt de vrijstelling slechts indien zij beschikken over een door de autoriteiten in die lidstaat afgegeven Europese vuurwapenpas waarop de wapens zijn vermeld.   
 
 ### Artikel  40  
 
-1.  Van het verbod van artikel 14, eerste lid en artikel 22, eerste lid, van de wet wordt vrijstelling verleend ten behoeve van doorvoer, anders dan per vliegtuig, van jachtgeweren en daarbij behorende munitie, die zodanig zijn verpakt dat zij niet voor onmiddellijk gebruik kunnen worden aangewend.   
+1.  Van het verbod van [artikel 14, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) en [artikel 22, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) wordt vrijstelling verleend ten behoeve van doorvoer, anders dan per vliegtuig, van jachtgeweren en daarbij behorende munitie, die zodanig zijn verpakt dat zij niet voor onmiddellijk gebruik kunnen worden aangewend.   
 2.  Voor ingezetenen van één van de bij de Europese Unie aangesloten lidstaten geldt de vrijstelling ingevolge het eerste en tweede lid slechts indien zij beschikken over een door de autoriteiten in die lidstaat afgegeven Europese vuurwapenpas waarop de wapens zijn vermeld.   
 3.  Voor niet-ingezetenen van de Europese Unie geldt de in het eerste lid bedoelde vrijstelling uitsluitend indien de jachtgeweren en de daarbij behorende munitie bij de douane schriftelijk zijn gemeld.   
 
 ### Artikel  41  
 
-1.  Van het verbod van artikel 14, eerste lid, van de wet, wordt vrijstelling verleend aan in het buitenland wonende sportschutters, voor het doen binnenkomen of uitgaan van vuurwapens van categorie III, die zodanig zijn verpakt dat zij niet voor onmiddellijk gebruik kunnen worden aangewend, alsmede van ten hoogste 1000 patronen voor die vuurwapens tezamen.   
-2.  Van het verbod van artikel 22, eerste lid en artikel 26 eerste lid, van de wet wordt vrijstelling verleend aan in het buitenland wonende sportschutters voor het vervoer en het voorhanden hebben van vuurwapens en munitie van categorie III.   
+1.  Van het verbod van [artikel 14, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), wordt vrijstelling verleend aan in het buitenland wonende sportschutters, voor het doen binnenkomen of uitgaan van vuurwapens van categorie III, die zodanig zijn verpakt dat zij niet voor onmiddellijk gebruik kunnen worden aangewend, alsmede van ten hoogste 1000 patronen voor die vuurwapens tezamen.   
+2.  Van het verbod van [artikel 22, eerste lid](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) en [artikel 26 eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) wordt vrijstelling verleend aan in het buitenland wonende sportschutters voor het vervoer en het voorhanden hebben van vuurwapens en munitie van categorie III.   
 3.  De vrijstelling ingevolge het eerste en tweede lid geldt slechts 
 
 a. voor sportschutters die blijkens een schriftelijke uitnodiging of verklaring van een Nederlandse schietvereniging gedurende een daarin vermeld tijdvak in Nederland de schietsport gaan beoefenen of hebben beoefend en die in het land van herkomst bevoegd zijn de meegebrachte vuurwapens of munitie voorhanden te hebben;  
@@ -509,7 +552,7 @@ b. vanaf de tweede dag voor tot en met de tweede dag na de in het tweede lid bed
 
 ### Artikel  42  
 
-1.  Van het verbod van artikel 14, eerste lid, van de wet, wordt vrijstelling verleend aan in Nederland wonende sportschutters voor het doen binnenkomen of uitgaan van vuurwapens van categorie III die zodanig zijn verpakt dat zij niet voor onmiddellijk gebruik kunnen worden aangewend, alsmede van ten hoogste 1000 patronen voor die vuurwapens tezamen.   
+1.  Van het verbod van [artikel 14, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), wordt vrijstelling verleend aan in Nederland wonende sportschutters voor het doen binnenkomen of uitgaan van vuurwapens van categorie III die zodanig zijn verpakt dat zij niet voor onmiddellijk gebruik kunnen worden aangewend, alsmede van ten hoogste 1000 patronen voor die vuurwapens tezamen.   
 2.  De vrijstelling ingevolge het eerste lid geldt slechts voor de sportschutters die: 
 
 a. blijkens een schriftelijke uitnodiging of verklaring van een schietvereniging in het buitenland de schietsport gaan beoefenen dan wel hebben beoefend, en  
@@ -522,7 +565,7 @@ b. de meegevoerde vuurwapens en munitie in Nederland krachtens een verlof voorha
 
 ### Artikel  43  
 
-1.  Houders van een verlof tot het voorhanden hebben, zoals bedoeld in artikel 28, eerste lid, van de wet, mogen ten hoogste vijf wapens voorhanden hebben.   
+1.  Houders van een verlof tot het voorhanden hebben, zoals bedoeld in [artikel 28, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md), mogen ten hoogste vijf wapens voorhanden hebben.   
 2.  Houders van een jachtakte, mogen ten hoogste zes wapens voorhanden hebben.   
 3.  Het eerste lid en tweede lid is niet van toepassing op houders van een verlof tot het voorhanden hebben, onderscheidenlijk een jachtakte die aantonen dat zes, respectievelijk zeven, of meer wapens voor hen onontbeerlijk zijn voor de beoefening van de schietsport, onderscheidenlijk de jacht.   
 
@@ -532,7 +575,7 @@ b. de meegevoerde vuurwapens en munitie in Nederland krachtens een verlof voorha
 
 ### Artikel  44  
 
-1.  Van het verbod van artikel 22, eerste lid, van de wet wordt vrijstelling verleend aan sportschutters en jagers voor het vervoeren van wapens en munitie die zij gerechtigd zijn voorhanden te hebben.   
+1.  Van het verbod van [artikel 22, eerste lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) wordt vrijstelling verleend aan sportschutters en jagers voor het vervoeren van wapens en munitie die zij gerechtigd zijn voorhanden te hebben.   
 2.  De vrijstelling in het eerste lid geldt uitsluitend: 
 
 a. voor het vervoeren tussen de woning en de schietbaan, de erkende wapenhandelaar en, na daaraan voorafgaande toestemming van de politie, het bureau van politie, alsmede, voorzover het jagers betreft, het jachtveld; en  
@@ -541,7 +584,7 @@ b. langs de weg en binnen het tijdsbestek welke redelijkerwijs voor het vervoer 
 
 ### Artikel  45  
 
-1.  Van het verbod van artikel 22, eerste lid van de wet wordt voor het vervoeren van wapens en munitie vrijstelling verleend aan personen die in de uitoefening van een beroep of bedrijf zaken vervoeren.   
+1.  Van het verbod van [artikel 22, eerste lid van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) wordt voor het vervoeren van wapens en munitie vrijstelling verleend aan personen die in de uitoefening van een beroep of bedrijf zaken vervoeren.   
 2.  De vrijstelling in het eerste lid geldt slechts: 
 
 a. indien en voorzover het vervoer plaats vindt in opdracht van degene die bevoegd is de wapens en de munitie voorhanden te hebben en te vervoeren;  
@@ -552,7 +595,7 @@ c. voorzover uit tijdens het vervoer aanwezige documenten blijkt dat aan de in h
 
 ### Artikel  46  
 
-1.  Van het verbod van artikel 22, eerste lid van de wet wordt voor het vervoeren van wapens en munitie vrijstelling verleend aan personen in dienst van houders van een erkenning, zoals bedoeld in artikel 9 van de wet.   
+1.  Van het verbod van [artikel 22, eerste lid van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) wordt voor het vervoeren van wapens en munitie vrijstelling verleend aan personen in dienst van houders van een erkenning, zoals bedoeld in artikel 9 van de wet.   
 2.  De vrijstelling in het eerste lid geldt slechts indien: 
 
 a. het wapens of munitie betreft waarop de erkenning betrekking heeft;  
@@ -579,7 +622,7 @@ b. alle documenten betreffende de door andere autoriteiten verleende bevoegdheid
 2.  De korpschef registreert de naam, het adres en de woonplaats van de in zijn ambtsgebied wonende personen die bevoegd zijn een vuurwapen voorhanden te hebben in een bestand.   
 3.  De korpschef zendt, in geval van verhuizing binnen Nederland van in zijn ambtsgebied wonende personen die bevoegd zijn wapens of munitie voorhanden te hebben, de op hen betrekking hebbende kopieën, bedoeld in het eerste lid, onverwijld aan de korpschef in de politieregio waarbinnen de nieuwe woonplaats is gelegen.   
 4.   Vervallen.    
-5.  Van de wapens of de munitie die overeenkomstig artikel 8 van de wet in bewaring worden gegeven houdt de korpschef een register bij, waarin wordt vermeld: 
+5.  Van de wapens of de munitie die overeenkomstig [artikel 8 van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) in bewaring worden gegeven houdt de korpschef een register bij, waarin wordt vermeld: 
 
 a. de naam en het adres van degene die de voorwerpen in bewaring geeft;  
 
@@ -595,7 +638,7 @@ f. de datum waarop de bewaring is geëindigd;
 
 g. de naam en het adres van degene aan wie na afloop van de bewaring de voorwerpen ter hand zijn gesteld.     
 6.  De bewaargever is de korpschef bewaarloon verschuldigd van € 2,27 per wapen per kalendermaand, daaronder begrepen een gedeelte van de kalendermaand, te rekenen vanaf de eerste dag van de derde kalendermaand nadat het wapen in bewaring is gegeven.   
-7.  Aan de bewaargever wordt door de korpschef een ontvangstbewijs verstrekt waarop de gegevens, genoemd in het vijfde lid, onder a tot en met d, worden vermeld. Op het ontvangstbewijs wordt tevens vermeld hetgeen in het zesde lid, alsmede hetgeen in artikel 8, zesde en zevende lid, van de wet is bepaald.   
+7.  Aan de bewaargever wordt door de korpschef een ontvangstbewijs verstrekt waarop de gegevens, genoemd in het vijfde lid, onder a tot en met d, worden vermeld. Op het ontvangstbewijs wordt tevens vermeld hetgeen in het zesde lid, alsmede hetgeen in [artikel 8, zesde en zevende lid, van de wet](../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) is bepaald.   
 
 ### 19  
 
@@ -662,11 +705,6 @@ Ingevolge [artikel 45, eerste lid, onder 2°, van de wet](../../../../../../wet/
 ### Artikel  55  
 
 Artikel 20, tweede lid, alsmede de aanduiding 1. voor het eerste lid, vervalt op 1 mei 1998.  
-
-### Artikel  57  
-
-1.  Artikel 8a van deze regeling geldt niet voor personen die op 31 juli 2001 in dienst waren bij een erkenninghouder.   
-2.  Dit artikel vervalt op 1 december 2003.   
 
 ### Artikel  58  
 

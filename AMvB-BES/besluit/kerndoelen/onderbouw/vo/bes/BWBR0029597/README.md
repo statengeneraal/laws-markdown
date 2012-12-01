@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 21 september 2010, nr. WJZ/236472 (3839), directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Minister van Landbouw, Natuur en Voedselkwaliteit en de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties;
 
-Gelet op [artikel 34 van de Wet voortgezet onderwijs BES](../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md);
+Gelet op artikel 34 van de Wet voortgezet onderwijs BES;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 21 oktober 2010, no. W05.10.0446/I);
 
@@ -17,7 +17,7 @@ Hebben goedgevonden en verstaan:
 
 ####Kerndoelen onderbouw voortgezet onderwijs BES
 
-De kerndoelen, bedoeld in [artikel 34 van de Wet voortgezet onderwijs BES](../../../../../../../wet-BES/wet/voortgezet/onderwijs/bes/BWBR0028424/README.md), worden vastgesteld als aangegeven in de bij dit besluit behorende bijlage.  
+De kerndoelen, bedoeld in artikel 34 van de Wet voortgezet onderwijs BES, worden vastgesteld als aangegeven in de bij dit besluit behorende bijlage.  
 
 ### Artikel  2  
 
@@ -83,7 +83,7 @@ De eerste tien kerndoelen zijn vooral gericht op de communicatieve functie van d
 
 #### *Onderdeel B: Engels* 
 
-Ook de acht kerndoelen voor het onderdeel Engelse taal zijn vooral gericht op de communicatieve functie. De nadruk ligt op Engels als wereldtaal. Vooral met de kerndoelen 11, 14, 15, 16 en 17 kan de relatie worden gelegd met het Europees Referentiekader. Afhankelijk van de leerlingenpopulatie kan de school zich oriënteren op de resultaatbeschrijvingen van de cellen in A1, A2 en B1 in het Referentiekader. Er zijn geen kerndoelen geformuleerd voor andere moderne vreemde talen – in het bijzonder Spaanse taal, Papiaments en Franse taal – die voor de leerroutes op grond van de nieuwe [artikelen 21](../../../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md) en [22 van het Inrichtingsbesluit W.V.O. BES](../../../../../../../AMvB-BES/inrichtingsbesluit/wvo/bes/BWBR0029589/README.md) naast de Engelse taal verplicht worden gesteld. Wel kunnen scholen de kerndoelen voor Engels gebruiken als leidraad voor het onderwijs in andere moderne vreemde talen door overal waar «Engels» staat de benaming van de desbetreffende andere moderne vreemde taal te lezen. 
+Ook de acht kerndoelen voor het onderdeel Engelse taal zijn vooral gericht op de communicatieve functie. De nadruk ligt op Engels als wereldtaal. Vooral met de kerndoelen 11, 14, 15, 16 en 17 kan de relatie worden gelegd met het Europees Referentiekader. Afhankelijk van de leerlingenpopulatie kan de school zich oriënteren op de resultaatbeschrijvingen van de cellen in A1, A2 en B1 in het Referentiekader. Er zijn geen kerndoelen geformuleerd voor andere moderne vreemde talen – in het bijzonder Spaanse taal, Papiaments en Franse taal – die voor de leerroutes op grond van de nieuwe artikelen 21 en 22 van het Inrichtingsbesluit W.V.O. BES naast de Engelse taal verplicht worden gesteld. Wel kunnen scholen de kerndoelen voor Engels gebruiken als leidraad voor het onderwijs in andere moderne vreemde talen door overal waar «Engels» staat de benaming van de desbetreffende andere moderne vreemde taal te lezen. 
 
 11. De leerling leert verder vertrouwd te raken met de klank van het Engels door veel te luisteren naar gesproken en gezongen teksten.  
 
@@ -161,7 +161,7 @@ In de twaalf kerndoelen van het onderdeel mens en maatschappij is een enigszins 
 
 42. De leerling leert in eigen ervaringen en in de eigen omgeving effecten te herkennen van keuzes op het gebied van werk en zorg, wonen en recreëren, consumeren en budgetteren, verkeer en milieu.  
 
-43. De leerling leert over overeenkomsten, verschillen en veranderingen in cultuur en levensbeschouwing, leert eigen en andermans leefwijze daarmee in verband te brengen, en leert de betekenis voor de samenleving te zien van respect voor elkaars opvattingen en leefwijzen.  
+43. De leerling leert over overeenkomsten, verschillen en veranderingen in cultuur en levensbeschouwing, leert eigen en andermans leefwijze daarmee in verband te brengen, leert de betekenis voor de samenleving te zien van respect voor elkaars opvattingen en leefwijzen, en leert respectvol om te gaan met seksualiteit en met diversiteit binnen de samenleving, waaronder seksuele diversiteit.  
 
 44. De leerling leert op hoofdlijnen hoe het Nederlandse politieke bestel als democratie functioneert en leert zien hoe mensen op verschillende manieren bij politieke processen betrokken kunnen zijn.  
 

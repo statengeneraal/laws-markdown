@@ -525,7 +525,9 @@ Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.
 
 ### Bijlage  4  
 
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.  
+####, behorende bij artikel 24, eerste lid , van de Regeling spoorverkeer
+
+Ligt ter inzage bij het Ministerie van Infrastructuur en Milieu.  
 
 ### Bijlage  5  
 

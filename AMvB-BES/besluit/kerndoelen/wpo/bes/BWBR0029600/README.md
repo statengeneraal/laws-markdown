@@ -212,7 +212,7 @@ In dit leergebied oriënteren leerlingen zich op zichzelf, op hoe mensen met elk
 
 43. De leerlingen leren zich te gedragen vanuit respect voor algemeen aanvaarde waarden en normen.  
 
-44. De leerlingen leren hoofdzaken over geestelijke stromingen die in een multiculturele samenleving een belangrijke rol spelen, en ze leren respectvol om te gaan met verschillen in opvattingen van mensen.  
+44. De leerlingen leren hoofdzaken over geestelijke stromingen die in een multiculturele samenleving een belangrijke rol spelen, en ze leren respectvol om te gaan met seksualiteit en met diversiteit binnen de samenleving, waaronder seksuele diversiteit.  
 
 45. De leerlingen leren met zorg om te gaan met het milieu.    
 
