@@ -22,12 +22,12 @@ d) de aangelegenheden betreffende de Nationale Stichting tot Exploitatie van Cas
 
 e) de aangelegenheden betreffende het muntwezen inclusief De Nederlandse Munt;  
 
-f) alle aangelegenheden betreffende Domeinen Roerende Zaken.    
+f) alle aangelegenheden betreffende Domeinen Roerende Zaken.   
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 5 november 2012.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 5 november 2012. 
 
 De 
-Minister van Financiën,
-J.R.V.A.Dijsselbloem.   
+Minister van Financiën, 
+J.R.V.A. Dijsselbloem.     

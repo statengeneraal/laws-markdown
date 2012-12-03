@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Vastgesteld wordt een Verplaatsingskostenbesluit defensie luidende: [Verplaatsingskostenbesluit defensie](../../../../../../../../../AMvB/verplaatsingskostenbesluit/defensie/BWBR0032312/README.md).  
+Vastgesteld wordt een Verplaatsingskostenbesluit defensie luidende: [Verplaatsingskostenbesluit defensie](../../../../../../../../../AMvB/verplaatsingskostenbesluit/defensie/BWBR0032312/README.md). 
 
 ### Hoofdstuk  2  
 
@@ -26,31 +26,31 @@ Vastgesteld wordt een Verplaatsingskostenbesluit defensie luidende: [Verplaatsin
 
 ### Artikel  2  
 
-Wijzigt het Burgerlijk ambtenarenreglement defensie.   
+Wijzigt het Burgerlijk ambtenarenreglement defensie. 
 
 ### Artikel  3  
 
-Wijzigt het Algemeen militair ambtenarenreglement.   
+Wijzigt het Algemeen militair ambtenarenreglement. 
 
 ### Artikel  4  
 
-Wijzigt het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie.   
+Wijzigt het Besluit bovenwettelijke uitkeringen bij werkloosheid voor de sector Defensie. 
 
 ### Artikel  5  
 
-Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie.   
+Wijzigt het Inkomstenbesluit burgerlijke ambtenaren defensie. 
 
 ### Artikel  6  
 
-Wijzigt het Inkomstenbesluit militairen.   
+Wijzigt het Inkomstenbesluit militairen. 
 
 ### Artikel  7  
 
-Wijzigt het Besluit personenchauffeurs defensie.   
+Wijzigt het Besluit personenchauffeurs defensie. 
 
 ### Artikel  8  
 
-Wijzigt het Verplaatsingskostenbesluit burgerlijke ambtenaren defensie en het Verplaatsingskostenbesluit militairen.   
+Wijzigt het Verplaatsingskostenbesluit burgerlijke ambtenaren defensie en het Verplaatsingskostenbesluit militairen. 
 
 ### Hoofdstuk  3  
 
@@ -64,7 +64,7 @@ Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van
 
 a. de artikelen 1 en 5 tot en met 8 terugwerken tot en met 1 maart 2012;  
 
-b. artikel 2, onderdelen A,F en G, artikel 3 onderdelen A, B, D, E en F en artikel 4 terugwerken tot en met 1 januari 2012.    
+b. artikel 2, onderdelen A,F en G, artikel 3 onderdelen A, B, D, E en F en artikel 4 terugwerken tot en met 1 januari 2012.   
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -77,5 +77,5 @@ J. S. J. Hillen
 
 de *dertigste* november 2012 
 
-De Minister van Veiligheid en Justitie, 
+De Minister van Veiligheid en Justitie,  
 I. W. Opstelten    

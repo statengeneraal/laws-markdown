@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken van 23 november 2006, nr. WJZ 6098739, houdende regels omtrent de eisen bij het gebruik van in Europese richtlijnen opgenomen en in het Meetinstrumentenbesluit I en Meetinstrumentenbesluit II geregelde meetinstrumenten en houdende enkele voorschriften inzake de installatie van die instrumenten (Regeling gebruik en installatie EU-meetinstrumenten)
 
 De Minister van Economische Zaken,  
-Gelet op de [artikelen 9](../../../../../../../AMvB/meetinstrumentenbesluit/i/BWBR0019897/README.md) en [14 van het Meetinstrumentenbesluit I](../../../../../../../AMvB/meetinstrumentenbesluit/i/BWBR0019897/README.md) en [artikel 8 van het Meetinstrumentenbesluit II](../../../../../../../AMvB/meetinstrumentenbesluit/ii/BWBR0020554/README.md);
+Gelet op de[ artikelen 9](../../../../../../../AMvB/meetinstrumentenbesluit/i/BWBR0019897/README.md) en [14 van het Meetinstrumentenbesluit I](../../../../../../../AMvB/meetinstrumentenbesluit/i/BWBR0019897/README.md) en [artikel 8 van het Meetinstrumentenbesluit II](../../../../../../../AMvB/meetinstrumentenbesluit/ii/BWBR0020554/README.md);
 Besluit:     
 ### §  1  
 
@@ -25,7 +25,7 @@ e. automatisch weeginstrument: in [artikel 4, onderdeel d, van het Meetinstrumen
 
 f. taxameter: in [artikel 4, onderdeel e, van het Meetinstrumentenbesluit I](../../../../../../../AMvB/meetinstrumentenbesluit/i/BWBR0019897/README.md) bedoelde taxameter;  
 
-g. multidimensionaal meetinstrument: in [artikel 4, onderdeel f, van het Meetinstrumentenbesluit I](../../../../../../../AMvB/meetinstrumentenbesluit/i/BWBR0019897/README.md) bedoeld multidimensionaal meetinstrument.    
+g. multidimensionaal meetinstrument: in [artikel 4, onderdeel f, van het Meetinstrumentenbesluit I](../../../../../../../AMvB/meetinstrumentenbesluit/i/BWBR0019897/README.md) bedoeld multidimensionaal meetinstrument.   
 
 ### §  2  
 
@@ -41,20 +41,20 @@ b. zij zijn overeenkomstig de instructies van de fabrikant geïnstalleerd en wor
 
 c. zij worden uitsluitend gebruikt voor metingen overeenkomstig hun bestemming;  
 
-d. zij worden zodanig gejusteerd en gecorrigeerd dat de aanwijzingsfouten zo dicht mogelijk bij nul liggen.    
+d. zij worden zodanig gejusteerd en gecorrigeerd dat de aanwijzingsfouten zo dicht mogelijk bij nul liggen.   
 
 ### Artikel  3  
 
-Meetinstrumenten als bedoeld in [artikel 4 van het Meetinstrumentenbesluit I](../../../../../../../AMvB/meetinstrumentenbesluit/i/BWBR0019897/README.md) voldoen na ingebruikneming aan de in bijlage I van de richtlijn meetinstrumenten opgenomen essentiële eisen.  
+Meetinstrumenten als bedoeld in [artikel 4 van het Meetinstrumentenbesluit I](../../../../../../../AMvB/meetinstrumentenbesluit/i/BWBR0019897/README.md) voldoen na ingebruikneming aan de in bijlage I van de richtlijn meetinstrumenten opgenomen essentiële eisen. 
 
 ### Artikel  4  
 
 1.  Niet-automatische weegwerktuigen als bedoeld in [artikel 5 van het Meetinstrumentenbesluit I](../../../../../../../AMvB/meetinstrumentenbesluit/i/BWBR0019897/README.md) voldoen na ingebruikneming aan de fundamentele voorschriften van bijlage I van de richtlijn niet-automatische weegwerktuigen.   
-2.  [Artikel 5, tweede lid, van het Meetinstrumentenbesluit I](../../../../../../../AMvB/meetinstrumentenbesluit/i/BWBR0019897/README.md) is van toepassing.   
+2.  [Artikel 5, tweede lid, van het Meetinstrumentenbesluit I](../../../../../../../AMvB/meetinstrumentenbesluit/i/BWBR0019897/README.md) is van toepassing.  
 
 ### Artikel  5  
 
-Indien ten aanzien van het gebruik een specifieke nauwkeurigheidsklasse voor een meetinstrument is voorgeschreven, mag ook een meetinstrument worden gebruikt dat in een hogere nauwkeurigheidsklasse valt.  
+Indien ten aanzien van het gebruik een specifieke nauwkeurigheidsklasse voor een meetinstrument is voorgeschreven, mag ook een meetinstrument worden gebruikt dat in een hogere nauwkeurigheidsklasse valt. 
 
 ### §  3  
 
@@ -66,8 +66,8 @@ Indien ten aanzien van het gebruik een specifieke nauwkeurigheidsklasse voor een
 
 a. de maximaal toelaatbare fout in de tabel van onderdeel 2.1 voor gasmeters telkens met een factor 2 en voor volumeherleidingsinstrumenten telkens met een factor 1,5 wordt vermenigvuldigd;  
 
-b. voor metingen ten behoeve van huishoudelijk gebruik de meter voldoet aan de eisen van klasse 1,5 of een meter van klasse 1,0, mits die een Q <sub>max</sub> /Q <sub>min</sub> -ratio heeft gelijk aan of groter dan 150.     
-2.  Voordat een gasmeter op de bestemde plaats in gebruik wordt genomen, stelt degene die zorg draagt voor de installatie van de meter vast of de meter geschikt is voor de omstandigheden met het oog op een correcte meting van het te verwachten gebruik.   
+b. voor metingen ten behoeve van huishoudelijk gebruik de meter voldoet aan de eisen van klasse 1,5 of een meter van klasse 1,0, mits die een Q<sub>max</sub>/Q<sub>min</sub>-ratio heeft gelijk aan of groter dan 150.     
+2.  Voordat een gasmeter op de bestemde plaats in gebruik wordt genomen, stelt degene die zorg draagt voor de installatie van de meter vast of de meter geschikt is voor de omstandigheden met het oog op een correcte meting van het te verwachten gebruik.  
 
 ### Artikel  7  
 
@@ -78,7 +78,7 @@ a. de maximaal toelaatbare fout in onderdeel 3, tabel 2, telkens met een factor 
 b. voor metingen bij huishoudelijk gebruik van elektriciteit de meter voldoet aan de eisen van klasse A;  
 
 c. voor metingen bij handelsgebruik of lichtindustrieel gebruik van elektriciteit de meter voldoet aan de eisen van klasse B.     
-2.  Voordat een kilowattuurmeter op de bestemde plaats voor de eerste maal wordt gebruikt, wordt door degene die krachtens [artikel 27 van de Regeling inzake tariefstructuren en voorwaarden elektriciteit](../../../../../../../ministeriele-regeling/regeling/inzake/tariefstructuren/en/voorwaarden/elektriciteit/BWBR0017883/README.md) verantwoordelijk is voor de aanleg van de meter bij de installatie van de meter overeenkomstig onderdeel 7, onder c, van bijlage MI-003 van de richtlijn meetinstrumenten het stroombereik vastgesteld met het oog op de geschiktheid van de meter voor een correcte meting van het te verwachten gebruik.   
+2.  Voordat een kilowattuurmeter op de bestemde plaats voor de eerste maal wordt gebruikt, wordt door degene die krachtens [artikel 27 van de Regeling inzake tariefstructuren en voorwaarden elektriciteit](../../../../../../../ministeriele-regeling/regeling/inzake/tariefstructuren/en/voorwaarden/elektriciteit/BWBR0017883/README.md) verantwoordelijk is voor de aanleg van de meter bij de installatie van de meter overeenkomstig onderdeel 7, onder c, van bijlage MI-003 van de richtlijn meetinstrumenten het stroombereik vastgesteld met het oog op de geschiktheid van de meter voor een correcte meting van het te verwachten gebruik.  
 
 ### Artikel  8  
 
@@ -91,19 +91,19 @@ b. zij behoren tot een zelfde nauwkeurigheidsklasse;
 c. zij zijn vervaardigd door een zelfde fabrikant;  
 
 d. zij zijn gedurende een periode van ten hoogste een jaar volgens een zelfde procedure hersteld.     
-2.  Bijlage F, onderdelen 5.2, 5.3 en 5.4, eerste volzin, van de richtlijn meetinstrumenten is van overeenkomstige toepassing.   
+2.  Bijlage F, onderdelen 5.2, 5.3 en 5.4, eerste volzin, van de richtlijn meetinstrumenten is van overeenkomstige toepassing.  
 
 ### Artikel  9  
 
-1.  Vloeistofmeetinstallaties voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage MI-005 van de richtlijn meetinstrumenten.   
-2.  Vloeistofmeetinstallaties die voor 1 januari 2009 ingevolge [artikel 45 van de Metrologiewet](../../../../../../../wet/metrologiewet/BWBR0019517/README.md) rechtmatig in gebruik zijn genomen, voldoen aan het ingevolge [artikel 11a van de IJkwet](../../../../../../../wet/ijkwet/BWBR0009082/README.md) toegelaten model van de installaties, zoals aangepast volgens een aanhangsel bij de verklaring van toelating van het model, mits 
+1. Vloeistofmeetinstallaties voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage MI-005 van de richtlijn meetinstrumenten. 
+2. Vloeistofmeetinstallaties die voor 1 januari 2009 ingevolge [artikel 45 van de Metrologiewet](../../../../../../../wet/metrologiewet/BWBR0019517/README.md) rechtmatig in gebruik zijn genomen, voldoen aan het ingevolge [artikel 11a van de IJkwet](../../../../../../../wet/ijkwet/BWBR0009082/README.md) toegelaten model van de installaties, zoals aangepast volgens een aanhangsel bij de verklaring van toelating van het model, mits 
 
 a. de aanpassing noodzakelijk is als gevolg van ontwikkelingen in andere regelgeving dan bij of krachtens de Metrologiewet is vastgesteld of van ontwikkelingen in het betalingsverkeer,  
 
 b. het model nog steeds voldoet aan de eisen zoals die op grond van de [IJkwet](../../../../../../../wet/ijkwet/BWBR0009082/README.md) waren gesteld en  
 
-c. het model met goed gevolg een onderzoek heeft ondergaan overeenkomstig beoordelingsprocedurebijlage B of beoordelingsprocedurebijlage G en de daarbij van toepassing zijnde voorschriften van de [bijlage bedoeld in artikel 10 van het Meetinstrumentenbesluit II](../../../../../../../AMvB/meetinstrumentenbesluit/ii/BWBR0020554/README.md).     
-3.  Indien een vloeistofmeetinstallatie wordt aangesloten op onder de werking van de [IJkwet](../../../../../../../wet/ijkwet/BWBR0009082/README.md) toegelaten andere apparatuur en deze apparatuur eveneens het meetresultaat vastlegt en weergeeft, voldoet deze apparatuur wat betreft het vastleggen en weergeven van het meetresultaat aan de eisen van de richtlijn meetinstrumenten en mag de weergave van het meetresultaat op die andere apparatuur niet afwijken van het door de vloeistofmeetinstallatie vastgestelde meetresultaat.   
+c. het model met goed gevolg een onderzoek heeft ondergaan overeenkomstig beoordelingsprocedurebijlage B of beoordelingsprocedurebijlage G en de daarbij van toepassing zijnde voorschriften van de [bijlage bedoeld in artikel 10 van het Meetinstrumentenbesluit II](../../../../../../../AMvB/meetinstrumentenbesluit/ii/BWBR0020554/README.md).   
+3.  Indien een vloeistofmeetinstallatie wordt aangesloten op onder de werking van de [IJkwet](../../../../../../../wet/ijkwet/BWBR0009082/README.md) toegelaten andere apparatuur en deze apparatuur eveneens het meetresultaat vastlegt en weergeeft, voldoet deze apparatuur wat betreft het vastleggen en weergeven van het meetresultaat aan de eisen van de richtlijn meetinstrumenten en mag de weergave van het meetresultaat op die andere apparatuur niet afwijken van het door de vloeistofmeetinstallatie vastgestelde meetresultaat. 
 
 ### Artikel  10  
 
@@ -135,15 +135,15 @@ Automatische weeginstrumenten met een in [artikel 2, onderdeel d, onder 2°, van
 
 a. de in hoofdstuk III, onderdeel 2.2, tabel 5, opgenomen maximaal toelaatbare afwijking van elke vulling van het gemiddelde voor klasse X (1) telkens met een factor 1,25 wordt vermenigvuldigd;  
 
-b. bij de berekening van de instelfout, bedoeld in hoofdstuk III, onderdeel 2.3, uitgegaan wordt van het in hoofdstuk III, onderdeel 2.2, in tabel 5 vermelde percentage, zonder toepassing van de hiervoor in onderdeel a vermelde vermenigvuldigingsfactor.    
+b. bij de berekening van de instelfout, bedoeld in hoofdstuk III, onderdeel 2.3, uitgegaan wordt van het in hoofdstuk III, onderdeel 2.2, in tabel 5 vermelde percentage, zonder toepassing van de hiervoor in onderdeel a vermelde vermenigvuldigingsfactor.   
 
 ### Artikel  12  
 
-Automatische weeginstrumenten met een in [artikel 2, onderdeel d, onder 3°, van het Meetinstrumentenbesluit I](../../../../../../../AMvB/meetinstrumentenbesluit/i/BWBR0019897/README.md) bedoelde taak voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage MI-006 van de richtlijn meetinstrumenten, met dien verstande dat de in hoofdstuk IV, onderdeel 2, tabel 6, opgenomen maximaal toelaatbare fout van de getotaliseerde last telkens met een factor 2 wordt vermenigvuldigd.  
+Automatische weeginstrumenten met een in [artikel 2, onderdeel d, onder 3°, van het Meetinstrumentenbesluit I](../../../../../../../AMvB/meetinstrumentenbesluit/i/BWBR0019897/README.md) bedoelde taak voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage MI-006 van de richtlijn meetinstrumenten, met dien verstande dat de in hoofdstuk IV, onderdeel 2, tabel 6, opgenomen maximaal toelaatbare fout van de getotaliseerde last telkens met een factor 2 wordt vermenigvuldigd. 
 
 ### Artikel  13  
 
-Automatische weeginstrumenten met een in [artikel 2, onderdeel d, onder 4°, van het Meetinstrumentenbesluit I](../../../../../../../AMvB/meetinstrumentenbesluit/i/BWBR0019897/README.md) bedoelde taak voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage MI-006 van de richtlijn meetinstrumenten, met dien verstande dat de in hoofdstuk V, onderdeel 3, tabel 8, opgenomen maximaal toelaatbare fout voor de totale last telkens met een factor 2 wordt vermenigvuldigd.  
+Automatische weeginstrumenten met een in [artikel 2, onderdeel d, onder 4°, van het Meetinstrumentenbesluit I](../../../../../../../AMvB/meetinstrumentenbesluit/i/BWBR0019897/README.md) bedoelde taak voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage MI-006 van de richtlijn meetinstrumenten, met dien verstande dat de in hoofdstuk V, onderdeel 3, tabel 8, opgenomen maximaal toelaatbare fout voor de totale last telkens met een factor 2 wordt vermenigvuldigd. 
 
 ### Artikel  14  
 
@@ -151,7 +151,7 @@ Automatische weeginstrumenten met een in [artikel 2, onderdeel d, onder 5°, van
 
 a. de in hoofdstuk VI, onderdeel 2.1, tabel 9, opgenomen maximaal toelaatbare fout telkens met een factor 2 wordt vermenigvuldigd;  
 
-b. bij de berekeningen bedoeld in hoofdstuk VI, onderdeel 2.2, 2.3 en 2.4, uitgegaan wordt van de maximaal toelaatbare fout, zoals vastgesteld na de hiervoor in onderdeel a aangegeven vermenigvuldiging.    
+b. bij de berekeningen bedoeld in hoofdstuk VI, onderdeel 2.2, 2.3 en 2.4, uitgegaan wordt van de maximaal toelaatbare fout, zoals vastgesteld na de hiervoor in onderdeel a aangegeven vermenigvuldiging.   
 
 ### Artikel  15  
 
@@ -173,7 +173,7 @@ e. mag slechts worden gebruikt voor:
 
 3°. voor het wegen in mortelfabrieken van asfaltbeton, betonmortel, metselspecie en soortgelijke producten, alsmede voor het in die fabrieken bij de vervaardiging van die producten wegen van materialen, waaruit die producten worden samengesteld;  
 
-4°. het wegen van afvalstoffen en van zand, grind en aarde.      
+4°. het wegen van afvalstoffen en van zand, grind en aarde.     
 
 ### Artikel  16  
 
@@ -189,7 +189,14 @@ b. in plaats van onderdeel 7 een maximaal toelaatbare fout voor de gemeten tijd 
 2°. de taxi is voorzien van voor het type voertuig normale banden op een door de fabrikant van het voertuig voorgeschreven druk en met een gemiddelde profielhoogte;  
 
 3°. de taxi is ingericht overeenkomstig zijn bestemming en is belast overeenkomstig een voor de helft gevulde brandstoftank en het vervoer van twee personen, waaronder de bestuurder.       
-3.  Bij gebruik van de taxameter is in de taxi een voorziening aanwezig waarop de volgende gegevens zijn vermeld: 
+3.  Taxameters die voor 15 oktober 2011 ingevolge [artikel 45 van de Metrologiewet](../../../../../../../wet/metrologiewet/BWBR0019517/README.md) rechtmatig in gebruik zijn genomen, voldoen aan het ingevolge artikel 11a van de IJkwet toegelaten model van de meters, zoals aangepast volgens een aanhangsel bij de verklaring van toelating van het model, mits: 
+
+a. de aanpassing noodzakelijk is als gevolg van ontwikkelingen in andere regelgeving dan bij of krachtens de [Metrologiewet](../../../../../../../wet/metrologiewet/BWBR0019517/README.md) is vastgesteld;  
+
+b. het model nog steeds voldoet aan de eisen zoals die op grond van de IJkwet waren gesteld en  
+
+c. het model met goed gevolg een onderzoek heeft ondergaan overeenkomstig beoordelingsprocedurebijlage B.    
+4.  Bij gebruik van de taxameter is in de taxi een voorziening aanwezig waarop de volgende gegevens zijn vermeld: 
 
 a. de maat van de banden welke op het moment van de overeenstemmingsbeoordeling aan de betrokken taxi zijn bevestigd;  
 
@@ -201,11 +208,11 @@ d. de constante van de afstandssignaalgenerator;
 
 e. de stand van de teller waarmee de wijziging van de constante van de afstandssignaalgenerator wordt geregistreerd, op het moment van een overeenstemmingsbeoordeling;  
 
-f. de type-aanduiding en fabrieksnummer van de betrokken taxameter.     
+f. de type-aanduiding en fabrieksnummer van de betrokken taxameter.    
 
 ### Artikel  17  
 
-Multidimensionale meetinstrumenten voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage MI-009, hoofdstukken I en IV, van de richtlijn meetinstrumenten.  
+Multidimensionale meetinstrumenten voldoen na ingebruikneming aan de toepasselijke essentiële eisen van bijlage MI-009, hoofdstukken I en IV, van de richtlijn meetinstrumenten. 
 
 ### §  4  
 
@@ -213,7 +220,7 @@ Multidimensionale meetinstrumenten voldoen na ingebruikneming aan de toepasselij
 
 ### Artikel  18  
 
-Een niet-automatisch weegwerktuig dat wordt gebruikt voor weging van edele metalen, parels, edelgesteenten of munten voldoet aan de eisen voor weegwerktuigen met een nauwkeurigheidsklasse I of II als bedoeld in onderdeel 2.1 van bijlage I van de richtlijn niet-automatische weegwerktuigen.  
+Een niet-automatisch weegwerktuig dat wordt gebruikt voor weging van edele metalen, parels, edelgesteenten of munten voldoet aan de eisen voor weegwerktuigen met een nauwkeurigheidsklasse I of II als bedoeld in onderdeel 2.1 van bijlage I van de richtlijn niet-automatische weegwerktuigen. 
 
 ### Artikel  19  
 
@@ -225,7 +232,9 @@ b. het bepalen, op terreinen van ondernemingen tot exploitatie van middelen van 
 
 c. voor het wegen in mortelfabrieken van asfaltbeton, betonmortel, metselspecie en soortgelijke producten, alsmede voor het in die fabrieken bij de vervaardiging van die producten wegen van materialen, waaruit die producten worden samengesteld;  
 
-d. het wegen van afvalstoffen en van zand, grind en aarde.    
+d. het wegen van afvalstoffen en van zand, grind en aarde; 
+
+e.  het wegen van visserijproducten aan boord van een vissersvaartuig, mits de weegapparatuur deiningsgecompenseerd is.   
 
 ### §  5  
 
@@ -233,12 +242,12 @@ d. het wegen van afvalstoffen en van zand, grind en aarde.
 
 ### Artikel  20  
 
-Een korenschaal als bedoeld in [artikel 4, eerste lid, van het Meetinstrumentenbesluit II](../../../../../../../AMvB/meetinstrumentenbesluit/ii/BWBR0020554/README.md) voldoet na ingebruikneming aan de voorschriften van de richtlijn inzake de meting van het natuurgewicht van granen.  
+Een korenschaal als bedoeld in [artikel 4, eerste lid, van het Meetinstrumentenbesluit II](../../../../../../../AMvB/meetinstrumentenbesluit/ii/BWBR0020554/README.md) voldoet na ingebruikneming aan de voorschriften van de richtlijn inzake de meting van het natuurgewicht van granen. 
 
 ### Artikel  21  
 
 1.  Een alcoholmeter of een areometer voor alcohol als bedoeld in [artikel 4, tweede lid, van het Meetinstrumentenbesluit II](../../../../../../../AMvB/meetinstrumentenbesluit/ii/BWBR0020554/README.md) voldoet na ingebruikneming aan de toepasselijke voorschriften van de richtlijn inzake alcoholmeters en areometers.   
-2.  Ten behoeve van het vaststellen van het alcoholvolumegehalte of het alcoholmassagehalte in een mengsel van water en alcohol, geldt dat een alcoholmeter of een areometer voor alcohol wordt gebruikt overeenkomstig de voorschriften van richtlijn 76/766/EEG van de Raad van de Europese Gemeenschappen van 27 juli 1976 betreffende de onderlinge aanpassing van de wetgevingen van de Lid-Staten inzake alcoholtabellen (PbEG L 262).   
+2.  Ten behoeve van het vaststellen van het alcoholvolumegehalte of het alcoholmassagehalte in een mengsel van water en alcohol, geldt dat een alcoholmeter of een areometer voor alcohol wordt gebruikt overeenkomstig de voorschriften van richtlijn 76/766/EEG van de Raad van de Europese Gemeenschappen van 27 juli 1976 betreffende de onderlinge aanpassing van de wetgevingen van de Lid-Staten inzake alcoholtabellen (PbEG L 262).  
 
 ### §  6  
 
@@ -246,11 +255,11 @@ Een korenschaal als bedoeld in [artikel 4, eerste lid, van het Meetinstrumentenb
 
 ### Artikel  22  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  23  
 
-Deze regeling wordt aangehaald als: Regeling gebruik en installatie EU-meetinstrumenten.  
+Deze regeling wordt aangehaald als: Regeling gebruik en installatie EU-meetinstrumenten. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -258,4 +267,4 @@ Den Haag
 
 De 
 Minister van Economische Zaken, 
-J.G.Wijn   
+J.G. Wijn     
