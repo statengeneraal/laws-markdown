@@ -18,7 +18,7 @@ EUGENE PIENS, ingenieur der bruggen en wegen in het arrondissement Brugge, beide
 
 ### Artikel  1  
 
-De twee laatste paragrafen van artikel honderd veertig en de artikelen honderd een en veertig en honderd twee en veertig van het beschrijvend proces-verbaal der grensregeling tusschen Nederland en Belgie, gevoegd bij de overeenkomst tot vaststelling der grenzen tusschen beide Koningrijken, gedagteekend Maastricht den 8sten Augustus 1843, mitsgaders de op genoemde artikelen betrekking hebbende kaarten n°. 101, 102, 103, 104, 105 en 106, houden op van kracht te zijn en worden vervangen door de omschrijving in de volgende artikelen vervat, met de daarbij behoorende kaarten N°. I, N°. II, N°. III, N°. IV, N°. V, N°.VI en N°. VII. Dien ten gevolge zullen de vijf ijzeren grenspalen, gemerkt met numero 363, numero 364, numero 364 extra, numero 365 en numero 365 extra, van hunne tegenwoordige standplaatsen worden weggenomen.  
+De twee laatste paragrafen van artikel honderd veertig en de artikelen honderd een en veertig en honderd twee en veertig van het beschrijvend proces-verbaal der grensregeling tusschen Nederland en Belgie, gevoegd bij de overeenkomst tot vaststelling der grenzen tusschen beide Koningrijken, gedagteekend Maastricht den 8sten Augustus 1843, mitsgaders de op genoemde artikelen betrekking hebbende kaarten n°. 101, 102, 103, 104, 105 en 106, houden op van kracht te zijn en worden vervangen door de omschrijving in de volgende artikelen vervat, met de daarbij behoorende kaarten N°. I, N°. II, N°. III, N°. IV, N°. V, N°.VI en N°. VII. Dien ten gevolge zullen de vijf ijzeren grenspalen, gemerkt met numero 363, numero 364, numero 364 extra, numero 365 en numero 365 extra, van hunne tegenwoordige standplaatsen worden weggenomen. 
 
 ### Artikel  2  
 
@@ -26,15 +26,15 @@ De twee laatste paragrafen van artikel honderd veertig en de artikelen honderd e
 
 § 1.  De paragrafen 1, 2, 3, 4 en 5 van artikel honderd veertig van bovengenoemde beschrijvend proces-verbaal, gevoegd bij gemelde overeenkomst van 1843, blijven in hun geheel bestaan.   
 § 2.  De grenslijn van den ijzeren grenspaal numero 361 naar den ijzeren grenspaal numero 362 wordt uit laatstgenoemden paal 1045 el verlengd tot op het punt, op de hierbij behoorende kaart numero II aangewezen door de letter A, op welk punt een paal zal geplaatst worden, gemerkt met numero 363.   
-§ 3.  In het punt A vereenigen zich de grenzen der gemeenten Sint Anna ter Muiden en Retranchement (Nederland) en Westcappelle (Belgie).   
+§ 3.  In het punt A vereenigen zich de grenzen der gemeenten Sint Anna ter Muiden en Retranchement (Nederland) en Westcappelle (Belgie).  
 
 ### Artikel  3  
 
 ####Grensscheiding tusschen de gemeenten Retranchement (Nederland) en Westcappelle (Belgie).
 
 § 1.  Uit het vereenigingspunt A, hiervoren omschreven, neemt de grenslijn ter lengte van 798 el eene noord-noordwestelijke rigting naar het punt op de hierbij behoorende kaart numero II door de letter B aangewezen, waar een paal zal geplaatst worden gemerkt met numero 364.   
-§ 2.  In het punt B vereenigen zich de grenzen der gemeenten Retranchement (Nederland) en Westcapelle en Knocke (Belgie).   
-§ 3.  Op de grenslijn der gemeenten Westcappelle en Knock (Belgie) zal een extra ijzeren paal, gemerkt met numero 364 *a*, geplaatst worden op een afstand van 135.50 el, gemeten uit punt B, terwijl een gelijke extra ijzeren paal, gemerkt met numero 364 *b*, zal geplaatst worden aan de Nederlandsche zijde ter standplaats van den te verwijderen paal numero 365, welke standplaats mede op 135.50 el van punt B gelegen is.   
+§ 2.  In het punt B vereenigen zich de grenzen der gemeenten Retranchement (Nederland) en Westcappelle en Knocke (Belgie).  
+§ 3. Op de grenslijn der gemeenten Westcappelle en Knocke (Belgie) zal een extra ijzeren paal, gemerkt met numero 364*a*, geplaatst worden op een afstand van 135.50 el, gemeten uit punt B, terwijl een gelijke extra ijzeren paal, gemerkt met numero 364*b*, zal geplaatst worden aan de Nederlandsche zijde ter standplaats van den te verwijderen paal numero 365, welke standplaats mede op 135.50 el van punt B gelegen is.
 
 ### Artikel  4  
 
@@ -50,7 +50,7 @@ De twee laatste paragrafen van artikel honderd veertig en de artikelen honderd e
 § 8.  Het punt F is gelegen op 253 el van het punt E.   
 § 9.  De grenslijn in de rigting van de torens van Retranchement en Aardenburg, uitgaande uit punt E door het punt F naar de Noordzee, snijdt eene lijn, liggende in het verlengde van de kruin van den Noorddijk (Nederland), welk snijpunt op de hierbij behoorende kaart numero VII door de letter G is aangewezen en op welk punt een paal zal geplaatst worden, gemerkt met numero 369.   
 § 10.  Het punt G is gelegen 1080 el van het punt F en op 809 el uit het midden van de waterleiding of de bermsloot, gelegen ten oosten van en langs den in het jaar 1724 gelegden inlaagdijk, gemeten op de kruin van vorengenoemden Noorddijk.   
-§ 11.  De hierboven omschreven grenslijn is derhalve eene gebrokene lijn, bestaande uit vijf regte lijnen, waarvan de punten of einden op het veld voorloopig zijn aangewezen door stevige houten palen, op de punten A, B, C, D, E, F en G, alwaar, na approbatie der wederzijdschen Regeringen, nieuwe ijzeren grenspalen numero 363, 364, 365, 366, 367, 368 en 369 zullen behooren geplaatst te worden.   
+§ 11.  De hierboven omschreven grenslijn is derhalve eene gebrokene lijn, bestaande uit vijf regte lijnen, waarvan de punten of einden op het veld voorloopig zijn aangewezen door stevige houten palen, op de punten A, B, C, D, E, F en G, alwaar, na approbatie der wederzijdschen Regeringen, nieuwe ijzeren grenspalen numero 363, 364, 365, 366, 367, 368 en 369 zullen behooren geplaatst te worden.  
 
 En hebben wederzijsche Commissarissen het tegenwoordig proces-verbaal, in dubbel origineel, opgesteld in de Nederlandsche en Fransche taal, geteekend te Sluis, ten dage, maand en jare als boven. J. M. HENNEQUIN. CHS. BREYDEL DE BROCK. A. STEIJAARD. E. PIENS.  
 

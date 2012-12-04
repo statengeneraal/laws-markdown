@@ -14,23 +14,26 @@ Gezien het nader rapport van Onze Minister van Verkeer en Waterstaat van 6 decem
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  I  
+Materieel uitgewerkt per 01-01-2008 
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  II  
+Materieel uitgewerkt per 01-01-2008 
 
-1.  Voor de periode van drie jaren na inwerkingtreding van dit besluit wordt voor luchtvaartuigen met een MTOW tot en met 2 ton, met uitzondering van de luchthaven Schiphol, jaarlijks een tarief vastgesteld dat gelijk is aan de vergoeding die in het jaar 1995 verschuldigd was vermeerderd met: 
+1.  Voor de periode van drie jaren na inwerkingtreding van dit besluit wordt voor luchtvaartuigen met een MTOW tot en met 2 ton, met uitzondering van de luchthaven Schiphol, jaarlijks een tarief vastgesteld dat gelijk is aan de vergoeding die in het jaar 1995 verschuldigd was vermeerderd met:  
 
 a. een vierde gedeelte voor het jaar 1996,  
 
 b. twee vierde gedeelte voor het jaar 1997,  
 
 c. drie vierde gedeelte voor het jaar 1998,   van het verschil tussen de in het jaar 1995 verschuldigde vergoeding en de vergoeding, die ingevolge artikel 6, onderdeel *b*, voor die luchtvaartuigen verschuldigd zou zijn.   
-2.  In afwijking van artikel 6 *a* wordt de verschuldigde vergoeding bedoeld in artikel 6 *a* in 1996 vastgesteld op fl 100,-. Dit bedrag wordt jaarlijks verhoogd met € 22,69 totdat de vergoeding overeenstemt met de vergoeding bedoeld in artikel 6 *a*.   
+2.   In afwijking van artikel 6*a* wordt de verschuldigde vergoeding bedoeld in artikel 6*a* in 1996 vastgesteld op fl 100,-. Dit bedrag wordt jaarlijks verhoogd met € 22,69 totdat de vergoeding overeenstemt met de vergoeding bedoeld in artikel 6*a*.  
 
 ### Artikel  III  
+Materieel uitgewerkt per 01-01-2008 
 
-Dit besluit treedt in werking met ingang van 1 januari 1996.  
+Dit besluit treedt in werking met ingang van 1 januari 1996. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.   
 

@@ -1,13 +1,13 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Examenreglement voor RPL(G)
+##Examenreglement voor RPL(G) 
 
 De Minister van Verkeer en Waterstaat,  
 Gelet op [artikel 15, vierde lid](../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), en [artikel 16 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md);
-Besluit:     
-### Hoofdstuk  1  
+Besluit:      
+### Hoofdstuk 1 
 
-####Algemeen
+#### Algemeen 
 
 ### Artikel  1  
 
@@ -15,9 +15,9 @@ Besluit:
 2.  De examencommissie is samengesteld uit twee subcommissies, waarvan de eerste is belast met de examens voor het RPL(G) en de bevoegdverklaringen lieren en slepen, en de tweede is belast met de examens voor de bevoegdverklaringen RFI(G), alsmede de standaardisatie van normen ten behoeve van het afnemen van deze examens.   
 3.  De examencommissie wordt vertegenwoordigd door de voorzitter van de commissie of, bij diens afwezigheid, door de vice-voorzitter. De voorzitter heeft als bijzondere taak het onderhouden van alle contacten met de minister.   
 
-### Hoofdstuk  2  
+### Hoofdstuk 2 
 
-####Organisatie van de commissie
+#### Organisatie van de commissie 
 
 ### Artikel  2  
 
@@ -26,34 +26,34 @@ Besluit:
 3.  Bij het advies voor de voordracht tot benoeming tot lid van een van de subcommissies van de examencommissie wordt voor iedere persoon aangegeven voor welke examens of voor welke onderdelen van deze examens het advies geldt.   
 4.  Bij haar advies tot benoeming van een persoon tot lid van een van beide subcommissies voor het afnemen van theorie-examens voor het RPL(G) en bevoegdverklaring RFI(G), houdt de examencommissie er rekening mee dat daartoe bij voorkeur een persoon worden benoemd, die: 
 
-a. zelf in het bezit is van de bevoegdverklaring, waarvoor het examen is bedoeld,  
+a.  zelf in het bezit is van de bevoegdverklaring, waarvoor het examen is bedoeld,  
 
-b. een meer dan gebruikelijke affiniteit tot de theorie voor de betreffende bevoegdverklaring bezit, en  
+b.  een meer dan gebruikelijke affiniteit tot de theorie voor de betreffende bevoegdverklaring bezit, en  
 
-c. te goeder naam en faam bekend staat als deskundige.     
+c.  te goeder naam en faam bekend staat als deskundige.     
 5.  Bij haar advies tot benoeming van een persoon tot lid van de subcommissie voor het afnemen van praktijkexamens voor het RPL(G) en de bevoegdverklaringen lieren en slepen in het RPL(G), houdt de examencommissie er rekening mee, dat daartoe bij voorkeur een persoon wordt benoemd, die: 
 
-a. actief zweefvlieger is,  
+a.  actief zweefvlieger is,  
 
-b. meer dan drie jaar in het bezit is van die bevoegdverklaring RFI(G) voor de bevoegdverklaring waarvoor zij examen afnemen, en  
+b.  meer dan drie jaar in het bezit is van die bevoegdverklaring RFI(G) voor de bevoegdverklaring waarvoor zij examen afnemen, en  
 
-c. te goeder naam en faam bekend staat als zweefvlieger.     
+c.  te goeder naam en faam bekend staat als zweefvlieger.     
 6.  Bij haar advies tot benoeming van een persoon tot lid van de subcommissie voor het afnemen van praktijkexamens voor de bevoegdverklaringen RFI(G) in het RPL(G) houdt de examencommissie er rekening mee, dat daartoe bij voorkeur een persoon wordt benoemd, die: 
 
-a. actief zweefvlieger is,  
+a.  actief zweefvlieger is,  
 
-b. minimaal 6 jaar in het bezit is van de bevoegdverklaringen waarvoor men examen afneemt,  
+b.  minimaal 6 jaar in het bezit is van de bevoegdverklaringen waarvoor men examen afneemt,  
 
-c. een meer dan gebruikelijke affiniteit tot de opleiding van RFI(G) bezit, hetgeen moet blijken uit het vervuld hebben van de mentorfunctie bij de succesvolle opleiding van ten minste drie instructeurs, en  
+c.  een meer dan gebruikelijke affiniteit tot de opleiding van RFI(G) bezit, hetgeen moet blijken uit het vervuld hebben van de mentorfunctie bij de succesvolle opleiding van ten minste drie instructeurs, en  
 
-d. te goeder naam en faam bekend staat als zweefvlieginstructeur.     
+d.  te goeder naam en faam bekend staat als zweefvlieginstructeur.     
 7.  De voorzitter kan tijdelijk of permanent een of meer commissieleden belasten met de verantwoordelijkheid voor bepaalde deeltaken binnen de commissie of de subcommissies.   
 8.  Door de minister wordt voorzien in een secretaris. De secretaris verricht de secretariële werkzaamheden ten behoeve van de examencommissie.   
 9.  Voor zover leden van de examencommissie zijn betrokken bij de opleiding voor het behalen van bevoegdverklaringen in het RPL(G) worden kandidaten aan de opleiding van wie zij in belangrijke mate hebben bijgedragen niet door hen geëxamineerd.   
 
-### Hoofdstuk  3  
+### Hoofdstuk 3 
 
-####Organisatie van de theorie-examens
+#### Organisatie van de theorie-examens 
 
 ### Artikel  3  
 
@@ -78,22 +78,22 @@ d. te goeder naam en faam bekend staat als zweefvlieginstructeur.
 19.  Om het ter plaatse uitschrijven van de certificaten mogelijk te maken wordt ruim vóór het examen door de coördinator aan het secretariaat opgave gedaan van het verwacht aantal deelnemende kandidaten. Het secretariaat zorgt naar aanleiding van deze opgave voor een tijdige toezending van een voldoende aantal blanco certificaten.   
 20.  Na afloop van het examen is de coördinator verantwoordelijk voor toezending aan het secretariaat van de niet uitgeschreven certificaten, samen met 
 
-a. het beoordeelde examenwerk,  
+a.  het beoordeelde examenwerk,  
 
-b. een overzichtlijst van de deelnemende examinatoren,  
+b.  een overzichtlijst van de deelnemende examinatoren,  
 
-c. een volledig stel vragen, en  
+c.  een volledig stel vragen, en  
 
-d. een ingevuld examenuitslagformulier met daarop de uitslag van het examen per kandidaat en de aanduiding of een certificaat is uitgeschreven en uitgereikt. Al deze bescheiden worden door toedoen van het secretariaat minimaal 5 jaren zorgvuldig bewaard.     
+d.  een ingevuld examenuitslagformulier met daarop de uitslag van het examen per kandidaat en de aanduiding of een certificaat is uitgeschreven en uitgereikt. Al deze bescheiden worden door toedoen van het secretariaat minimaal 5 jaren zorgvuldig bewaard.     
 21.  Na afloop van het examen mogen de opgaven voor het schriftelijk deel van het theorie-examen door kandidaten worden behouden.   
 
-### Hoofdstuk  4  
+### Hoofdstuk 4 
 
-####Organisatie van de praktijkexamens
+#### Organisatie van de praktijkexamens 
 
-### §  4.1  
+### § 4.1 
 
-####Praktijkexamens voor het RPL(G) en de bevoegdverklaringen lieren en slepen
+####Praktijkexamens voor het RPL(G) en de bevoegdverklaringen lieren en slepen 
 
 ### Artikel  4  
 
@@ -102,9 +102,9 @@ d. een ingevuld examenuitslagformulier met daarop de uitslag van het examen per 
 3.  Na gunstige afloop van het praktijkexamen vult de examinator een examenuitslagformulier dan wel een certificaat in. De examinator ondertekent het examenformulier dan wel het certificaat. Het certificaat wordt hierna, namens de voorzitter, door de coördinator ondertekend.   
 4.  De coördinator doet opgave van ieder door hem uitgeschreven certificaat aan de secretaris.   
 
-### §  4.2  
+### § 4.2 
 
-####Praktijkexamens voor de bevoegdverklaring RFI(G)
+####Praktijkexamens voor de bevoegdverklaring RFI(G) 
 
 ### Artikel  5  
 
@@ -113,9 +113,9 @@ d. een ingevuld examenuitslagformulier met daarop de uitslag van het examen per 
 3.  Na afloop van een praktijkexamen voor een bevoegdverklaring RFI(G) vult de examinator een examenuitslagformulier in. Dit ondertekende examenuitslagformulier wordt door één van de examinatoren naar de coördinator gestuurd, die op grond daarvan in naam van de voorzitter van de examencommissie een certificaat voor het betreffende examen uitschrijft en toezendt aan de kandidaat.   
 4.  De coördinator doet opgave van ieder door hem uitgeschreven certificaat aan het secretariaat.   
 
-### §  4.3  
+### § 4.3 
 
-####Verplichtingen van kandidaten van praktijkexamens
+####Verplichtingen van kandidaten van praktijkexamens 
 
 ### Artikel  6  
 
@@ -127,22 +127,22 @@ d. een ingevuld examenuitslagformulier met daarop de uitslag van het examen per 
 
 Binnen een periode van 48 maanden moeten alle benodigde certificaten voor het theorie en praktijkexamen zijn behaald om in aanmerking te komen voor het RPL(G).  
 
-### Hoofdstuk  5  
+### Hoofdstuk 5 
 
-####Omvang van de examens
+####Omvang van de examens 
 
-### §  5.1  
+### § 5.1 
 
-####Theorie-examens
+####Theorie-examens 
 
 ### Artikel  8  
 
 1.  De theorie-examens omvatten de vakken, omschreven in bijlage 1 bij deze regeling.   
 2.  Op de betreffende bijlage is tevens voor elk vak aangegeven wat de tijdsduur is van zowel het schriftelijk als het mondeling examengedeelte.   
 
-### §  5.2  
+### § 5.2 
 
-####Praktijkexamens
+####Praktijkexamens 
 
 ### Artikel  9  
 
@@ -150,13 +150,13 @@ Binnen een periode van 48 maanden moeten alle benodigde certificaten voor het th
 2.  De tijdsduur van een mondeling examen als onderdeel van een praktijkexamen is ter beoordeling van de examinator respectievelijk examinatoren met een minimum- en een maximum-duur, zoals vermeld in bijlage 1 bij deze regeling.   
 3.  Een kandidaat is geslaagd voor een praktijkexamen zodra alle van toepassing zijnde groepen en onderdelen van het examen afgelegd en als voldoende beoordeeld zijn.   
 
-### Hoofdstuk  6  
+### Hoofdstuk 6 
 
-####Waardering van onderdelen van examens in percentages en letters
+####Waardering van onderdelen van examens in percentages en letters 
 
-### §  6.1  
+### § 6.1 
 
-####Theorie-examens
+####Theorie-examens 
 
 ### Artikel  10  
 
@@ -164,18 +164,18 @@ Binnen een periode van 48 maanden moeten alle benodigde certificaten voor het th
 2.  Kandidaten, die bij het schriftelijk examen meer dan 40%, maar minder dan 70% van de te behalen punten behalen, kunnen in het betreffende vak een mondeling examen afleggen. Het eindoordeel van het mondeling gedeelte vormt tevens het eindoordeel over het betreffende vak.   
 3.  Kandidaten, die bij het schriftelijk examen 70% of meer van de te behalen punten behalen, zijn geslaagd voor dat vak.   
 
-### §  6.2  
+### § 6.2 
 
-####Praktijkexamens
+####Praktijkexamens 
 
 ### Artikel  11  
 
 1.  Het oordeel omtrent de praktische bedrevenheid van de kandidaat wordt per groep en onderdeel uitgedrukt met de letters O of V, waaraan de volgende betekenis wordt gehecht: O onvoldoende V voldoende   
 2.  Kandidaten die voor alle onderdelen van het praktijkexamen een voldoende hebben gekregen, zijn geslaagd voor het praktijkexamen.   
 
-### Hoofdstuk  7  
+### Hoofdstuk 7 
 
-####Beslissingen
+####Beslissingen 
 
 ### Artikel  12  
 
@@ -183,9 +183,9 @@ Binnen een periode van 48 maanden moeten alle benodigde certificaten voor het th
 2.  In geval van verschil van mening over de beoordeling van het examenwerk beslist de voorzitter van de examencommissie, die daartoe het werk opnieuw kan laten beoordelen door andere examinatoren.   
 3.  Bij situaties ten aanzien van de examens voor het RPL(G) waarin dit reglement niet voorziet, beslist de voorzitter.   
 
-### Hoofdstuk  8  
+### Hoofdstuk 8 
 
-####Slotbepalingen
+####Slotbepalingen 
 
 ### Artikel  13  
 
@@ -197,25 +197,25 @@ Deze regeling treedt in werking met ingang van 1 november 2001 en werkt terug to
 
 ### Artikel  15  
 
-Deze regeling wordt aangehaald als: Examenreglement voor RPL(G).  
+Deze regeling wordt aangehaald als: Examenreglement voor RPL(G). 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 
 Minister van Verkeer en Waterstaat, 
-T.Netelenbos   
+T.  Netelenbos     
 
-### Bijlage  1  
+###Bijlage 1  
 
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.  
+Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat. 
 
-### Bijlage  2a  
+###Bijlage 2a  
 
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.  
+Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat. 
 
-### Bijlage  2b  
+###Bijlage 2b  
 
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.  
+Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat. 
 
-### Bijlage  2c  
+###Bijlage 2c  
 
-Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat.  
+Ligt ter inzage bij het Ministerie van Verkeer en Waterstaat. 
