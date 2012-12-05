@@ -8,15 +8,15 @@ Besluit:
 
 ### Artikel  I  
 
-Wijzigt de Regeling beoordeling reinigbaarheid grond 2006.   
+Wijzigt de Regeling beoordeling reinigbaarheid grond 2006. 
 
 ### Artikel  II  
 
-Op een aanvraag van een verklaring die is ingediend bij de Minister voor het tijdstip waarop deze regeling in werking is getreden en waarop op dat tijdstip nog niet onherroepelijk is beslist, is de [Regeling beoordeling reinigbaarheid grond 2006](../../../../../../../../ministeriele-regeling/regeling/beoordeling/reinigbaarheid/grond/2006/BWBR0020104/README.md) zoals deze gold onmiddellijk voor het tijdstip van inwerkingtreding van deze regeling van toepassing.  
+Op een aanvraag van een verklaring die is ingediend bij de Minister voor het tijdstip waarop deze regeling in werking is getreden en waarop op dat tijdstip nog niet onherroepelijk is beslist, is de [Regeling beoordeling reinigbaarheid grond 2006](../../../../../../../../ministeriele-regeling/regeling/beoordeling/reinigbaarheid/grond/2006/BWBR0020104/README.md) zoals deze gold onmiddellijk voor het tijdstip van inwerkingtreding van deze regeling van toepassing. 
 
 ### Artikel  III  
 
-Deze regeling treedt in werking met ingang van 1 juli 2009.  
+Deze regeling treedt in werking met ingang van 1 juli 2009. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
@@ -24,4 +24,4 @@ Den Haag
 
 De 
 minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, 
-J.M.Cramer   
+J.M. Cramer     
