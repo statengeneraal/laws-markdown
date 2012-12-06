@@ -17,26 +17,26 @@ Gelet op:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in artikel 2.  
+In dit besluit wordt verstaan onder buitengewoon opsporingsambtenaar: de persoon als bedoeld in artikel 2. 
 
 ### Artikel  2  
 
-De personen, werkzaam in de functie van toezichthouder in dienst van Gemeentelijk Vervoersbedrijf Utrecht, zijn aangewezen als buitengewoon opsporingsambtenaar.  
+De personen, werkzaam in de functie van toezichthouder in dienst van Gemeentelijk Vervoersbedrijf Utrecht, zijn aangewezen als buitengewoon opsporingsambtenaar. 
 
 ### Artikel  3  
 
 1.  De buitengewoon opsporingsambtenaar is bevoegd tot het opsporen van de strafbare feiten behorend tot het domein IV Openbaar Vervoer, van [bijlage A-I van de Circulaire Buitengewoon opsporingsambtenaar](../../../../../../../../circulaire/circulaire/buitengewoon/opsporingsambtenaar/BWBR0027483/README.md).   
 2.  De opsporingsbevoegdheid, bedoeld in het eerste lid, geldt voor het grondgebied van Nederland, voor zover noodzakelijk voor een goede vervulling van de aan de functie gerelateerde taken.   
-3.  De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het in het eerste lid genoemde domein.   
+3.  De buitengewoon opsporingsambtenaar vermeldt in zijn processen-verbaal en schriftelijke verslagleggingen het in het eerste lid genoemde domein.  
 
 ### Artikel  4  
 
-Op grond van dit besluit kunnen maximaal 15 personen als buitengewoon opsporingsambtenaar worden beëdigd.  
+Op grond van dit besluit kunnen maximaal 15 personen als buitengewoon opsporingsambtenaar worden beëdigd. 
 
 ### Artikel  5  
 
-1.  Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de hoofdofficier van justitie bij het Arrondissementsparket te Utrecht.   
-2.  Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de korpschef van het regionaal politiekorps Utrecht.   
+1.  Als toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de hoofdofficier van justitie bij het arrondissementsparket Midden-Nederland.   
+2.  Als direct toezichthouder als bedoeld in [artikel 36 van het Besluit buitengewoon opsporingsambtenaar](../../../../../../../../AMvB/besluit/buitengewoon/opsporingsambtenaar/BWBR0007013/README.md) is aangewezen de korpschef, bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).  
 
 ### Artikel  6  
 
@@ -47,29 +47,29 @@ a. het aantal buitengewoon opsporingsambtenaren werkzaam in de in artikel 2 gen
 b. de door die buitengewoon opsporingsambtenaren verrichte activiteiten;  
 
 c. de stand van zaken met betrekking tot de opleiding van die buitengewoon opsporingsambtenaren, waarbij in ieder geval wordt aangegeven hoeveel personen in het verslagjaar zijn aangemeld voor het door de Staatssecretaris van Veiligheid en Justitie goedgekeurde examen en hoeveel personen in dat jaar voor dat examen zijn geslaagd.     
-2.  Dit verslag wordt toegezonden aan in artikel 5 bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling BTR, postbus 20300, 2500 EH Den Haag.   
+2.  Dit verslag wordt toegezonden aan in artikel 5 bedoelde toezichthouder en direct toezichthouder en aan het Ministerie van Veiligheid en Justitie, dienst Justis, afdeling BTR, postbus 20300, 2500 EH Den Haag.  
 
 ### Artikel  7  
 
-De buitengewoon opsporingsambtenaar kan de in [artikel 8, eerste en derde lid, van de Politiewet 1993](../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md) omschreven bevoegdheden uitoefenen.  
+De buitengewoon opsporingsambtenaar kan de in [artikel 7, eerste en derde lid, van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md) omschreven bevoegdheden uitoefenen. 
 
 ### Artikel  8  
 
-De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het [besluit van 24 november 2010](../../../../../../../../ministeriele-regeling/besluit/buitegewoon/opsporingsambtenaar/openbaar/vervoersbedrijven/2010/BWBR0028993/README.md) nr. 5676481/Justis/10, worden geacht mede te zijn afgegeven op basis van het onderhavige besluit.  
+De op naam gestelde akten van beëdiging en de overige benoemingsbescheiden, afgegeven mede op basis van het [besluit van 24 november 2010](../../../../../../../../ministeriele-regeling/besluit/buitegewoon/opsporingsambtenaar/openbaar/vervoersbedrijven/2010/BWBR0028993/README.md) nr. 5676481/Justis/10, worden geacht mede te zijn afgegeven op basis van het onderhavige besluit. 
 
 ### Artikel  9  
 
-Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en vervalt vijf jaar na het tijdstip van inwerkingtreding.  
+Dit besluit treedt in werking met ingang van de dag na dagtekening van de Staatscourant waarin het wordt geplaatst en vervalt vijf jaar na het tijdstip van inwerkingtreding. 
 
 ### Artikel  10  
 
-Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Gemeentelijk Vervoersbedrijf Utrecht 2010.  
+Dit besluit wordt aangehaald als: Besluit buitengewoon opsporingsambtenaar Gemeentelijk Vervoersbedrijf Utrecht 2010. 
 Dit besluit zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 16 december 2010   
 
 De 
-Staatssecretaris van Veiligheid en Justitie,namens deze:
-P.W.C.Collard,
-teammanager Bevoegdheden, Toezicht en Registers.   
+Staatssecretaris van Veiligheid en Justitie, namens deze: 
+P.W.C. Collard,  
+teammanager Bevoegdheden, Toezicht en Registers.    
