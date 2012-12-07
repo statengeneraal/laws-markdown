@@ -44,13 +44,13 @@ b. houder als bedoeld in artikel 2, onderdeel c van richtlijn 92/102/EEG, voorzo
 1.  Ter uitvoering van titel I van verordening 1760/2000, richtlijn 92/102/EEG, artikel 4, vierde lid, van richtlijn 90/426/EEG, en artikel 8, eerste lid van richtlijn 90/427/EEG wordt medewerking gevorderd van het bestuur van het Productschap Vee en Vlees.   
 2.  De in het eerste lid bedoelde medewerking bestaat uit het verrichten van de noodzakelijke werkzaamheden en het overeenkomstig het krachtens artikel 3 bepaalde bij verordening stellen van regels, inzake: 
 
-a. de identificatie en registratie van runderen ter uitvoering van de artikelen 1, 3, 4, 5, 6 en 7 van verordening 1760/2000 en van de door de Commissie van de Europese Gemeenschappen op grond van artikel 10 van deze verordening vastgestelde uitvoeringsbepalingen, alsmede voor zover van toepassing ter uitvoering van de artikelen 4, 5, 6, eerste lid, 7 en 8 van richtlijn 92/102/EEG en van de door de Commissie van de Europese Gemeenschappen op grond van deze richtlijn vastgestelde uitvoeringsbepalingen;  
+a. de identificatie en registratie van runderen ter uitvoering van de artikelen 1, 3, 4, 5, 6 en 7 van verordening 1760/2000 en van de door de Europese Commissie op grond van artikel 10 van deze verordening vastgestelde uitvoeringsbepalingen, alsmede voor zover van toepassing ter uitvoering van de artikelen 4, 5, 6, eerste lid, 7 en 8 van richtlijn 92/102/EEG en van de door de Europese Commissie op grond van deze richtlijn vastgestelde uitvoeringsbepalingen;  
 
-b. de identificatie en registratie van varkens, schapen en geiten ter uitvoering van de artikelen 4, 5, 6, eerste lid, 7 en 8 van richtlijn 92/102/EEG en van de door de Commissie van de Europese Gemeenschappen op grond van deze richtlijn vastgestelde uitvoeringsbepalingen;  
+b. de identificatie en registratie van varkens, schapen en geiten ter uitvoering van de artikelen 4, 5, 6, eerste lid, 7 en 8 van richtlijn 92/102/EEG en van de door de Europese Commissie op grond van deze richtlijn vastgestelde uitvoeringsbepalingen;  
 
 c. de registratie van bedrijven ter uitvoering van artikel 3, eerste lid, van richtlijn 92/102/EEG;  
 
-d. de identificatie en registratie van eenhoevige dieren ter uitvoering van artikel 4, vierde lid, van richtlijn 90/426/EEG, van artikel 8, eerste lid van richtlijn 90/427/EEG en van de door de Commissie van de Europese Gemeenschappen op grond van deze richtlijnen vastgestelde uitvoeringsbepalingen, voor zover deze betrekking hebben op het vaststellen van een identificatiemethode;  
+d. de identificatie en registratie van eenhoevige dieren ter uitvoering van artikel 4, vierde lid, van richtlijn 90/426/EEG, van artikel 8, eerste lid van richtlijn 90/427/EEG en van de door de Europese Commissie op grond van deze richtlijnen vastgestelde uitvoeringsbepalingen, voor zover deze betrekking hebben op het vaststellen van een identificatiemethode;  
 
 e. de registratie van houders van eenhoevige dieren met het oog op het toezicht op de naleving van de in onderdeel d bedoelde bepalingen.     
 3.  De in het eerste lid bedoelde medewerking kan mede bestaan uit het verrichten van de noodzakelijke werkzaamheden en het bij verordening stellen van regels, inzake het voorzien zijn van eenhoevige dieren van merken of kentekenen.   

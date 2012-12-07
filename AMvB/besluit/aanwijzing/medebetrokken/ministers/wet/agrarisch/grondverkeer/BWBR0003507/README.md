@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Landbouw en Visserij van 22 maart 1982, No. J. 1565, Directie Juridische en Bedrijfsorganisatorische Zaken;
 
-Gelet op de artikelen 29, eerste lid, 30, eerste lid, onder *b* en *d*, en tweede lid, 32, derde lid en [artikel 34, van de Wet agrarisch grondverkeer](../../../../../../../../../wet/wet/agrarisch/grondverkeer/BWBR0003386/README.md) (*Stb.* 1981, 248);
+Gelet op de artikelen 29, eerste lid, 30, eerste lid, onder *b* en *d*, en tweede lid, 32, derde lid en artikel 34, van de Wet agrarisch grondverkeer (*Stb.* 1981, 248);
 
 De Raad van State gehoord (advies van 27 april 1982, No. 2163/21/8216);
 
@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt onder wet de [Wet agrarisch grondverkeer](../../../../../../../../../wet/wet/agrarisch/grondverkeer/BWBR0003386/README.md) (*Stb.* 1981, 248) verstaan.  
+In dit besluit wordt onder wet de Wet agrarisch grondverkeer (*Stb.* 1981, 248) verstaan.  
 
 ### Artikel  2  
 
@@ -23,23 +23,21 @@ Als ministers bedoeld in de artikelen 29, eerste lid, 32, derde lid, en 34, van 
 
 a. Onze Minister van Defensie;  
 
-b. Onze Minister van Volkshuisvesting en Ruimtelijke Ordening;  
+b. Onze Minister van Infrastructuur en Milieu;  
 
-c. Onze Minister van Cultuur, Recreatie en Maatschappelijk Werk.    
+c. Onze Minister van Onderwijs, Cultuur en Wetenschap.    
 
 ### Artikel  3  
 
-Als ministers bedoeld in artikel 30, eerste lid, onder *b* en *d*, en tweede lid, van de wet, worden aangewezen: 
+Als ministers bedoeld in artikel 30, eerste lid, onder b en d, en tweede lid, van de wet, worden aangewezen: 
 
 a. Onze Minister van Financiën;  
 
 b. Onze Minister van Defensie;  
 
-c. Onze Minister van Volkshuisvesting en Ruimtelijke Ordening;  
+c. Onze Minister van Infrastructuur en Milieu;  
 
-d. Onze Minister van Verkeer en Waterstaat;  
-
-e. Onze Minister van Cultuur, Recreatie en Maatschappelijk Werk.    
+d. Onze Minister van Onderwijs, Cultuur en Wetenschap.    
 
 ### Artikel  4  
 

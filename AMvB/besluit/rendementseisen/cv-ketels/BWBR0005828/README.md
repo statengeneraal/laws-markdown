@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Economische Zaken van 5 oktober 1992, nr. 92075619 WJA/W, gedaan in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-Gelet op de richtlijn nr. 92/42/EEG van de Raad van de Europese Gemeenschappen van 21 mei 1992 betreffende de rendementseisen voor nieuwe olie- en gasgestookte centrale-verwarmingsketels (*PbEG* L 167) en op de [artikelen 2](../../../../../wet/wet/energiebesparing/toestellen/BWBR0003916/README.md), 6 en [21 van de Wet energiebesparing toestellen](../../../../../wet/wet/energiebesparing/toestellen/BWBR0003916/README.md) (*Stb.* 1986, 59);
+Gelet op de richtlijn nr. 92/42/EEG van de Raad van de Europese Gemeenschappen van 21 mei 1992 betreffende de rendementseisen voor nieuwe olie- en gasgestookte centrale-verwarmingsketels (*PbEG* L 167) en op de artikelen 2, 6 en 21 van de Wet energiebesparing toestellen (*Stb.* 1986, 59);
 
 De Raad van State gehoord (advies van 22 december 1992, nr. W10.92 0473);
 
@@ -57,7 +57,7 @@ a. bij werking op nominaal vermogen en
 b. bij werking in een deellast van 30 % waarbij de temperatuur, bedoeld in de tabel, afhankelijk van het soort ketel varieert.    
 
 |--- |--- | Rendement in deellast  | Soort ketel  | Rendement bij nominaal vermogen uitgedrukt in %  | Gemiddelde bedrijfstemperatuur  | Rendement uitgedrukt in %  |
-|:---|:---|:---|:---|:---|:---|:---|
+|---|---|---|---|---|---|---|
 | a. andere dan de onder b, c en d bedoelde ketels  | ≥ 84 + 2 · logPn  | ≥ 50 °C  | ≥ 80 + 3 · logPn  |
 | b. lage-temperatuurketels  | ≥ 87,5 + 1,5 · logPn  | 40 °C  | ≥ 87,5 + 1,5 · logPn  |
 | c. oliegestookte condenserende ketels  | ≥ 87,5 + 1,5 · logPn  | 40 °C  | ≥ 87,5 + 1,5 · logPn  |
@@ -85,7 +85,7 @@ a. indien het desbetreffende type blijkens een verklaring van EG-type-onderzoek 
 b. zolang de vervaardiging van de desbetreffende ketels geschiedt met inachtneming van een van de drie in bijlage IV van de richtlijn beschreven procedures en  
 
 c. zolang wordt voldaan aan de verplichtingen die in het kader van de onder *a* en *b* bedoelde procedures rusten op de fabrikant, diens in de gebieden waarop de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is gevestigde gemachtigde dan wel de persoon die met het in de handel brengen van de desbetreffende ketels in die gebieden is belast.     
-3.  Voor de beoordeling van het voldoen aan de voorschriften van dit besluit van ketels waarop het [Besluit gastoestellen](../../../../../AMvB/besluit/gastoestellen/BWBR0005384/README.md) (*Stb.* 1992, 124) van toepassing is, zijn in afwijking van het tweede lid, onder *a* en *b*, de in de bij dat besluit behorende bijlage III, onder A en B, beschreven procedures van overeenkomstige toepassing.   
+3.  Voor de beoordeling van het voldoen aan de voorschriften van dit besluit van ketels waarop het Besluit gastoestellen (*Stb.* 1992, 124) van toepassing is, zijn in afwijking van het tweede lid, onder *a* en *b*, de in de bij dat besluit behorende bijlage III, onder A en B, beschreven procedures van overeenkomstige toepassing.   
 4.  Onderdelen dienen te zijn voorzien van de CE-markering en vergezeld te gaan van de EG-conformiteitsverklaring, waarin de parameters worden aangegeven waarmee, na assemblage, de desbetreffende ketels kunnen voldoen aan de rendementseisen, bedoeld in artikel 4, eerste lid.   
 5.  De CE-markering moet zichtbaar, gemakkelijk leesbaar en onuitwisbaar op de ketels en de onderdelen zijn aangebracht en, indien van toepassing, gevolgd worden door het in bijlage IV, module D, onder 1, en module E, onder 1, van de richtlijn bedoelde identificatienummer. Op ketels en onderdelen mogen slechts andere markeringen worden aangebracht indien daardoor de zichtbaarheid en leesbaarheid van de CE-markering niet worden verminderd.   
 
@@ -102,7 +102,7 @@ a. met toepassing van de in artikel 6, tweede lid, onder a, bedoelde procedure w
 b. zolang de in artikel 6, tweede lid onder b, bedoelde procedure mede wordt toegepast ten aanzien van het voldoen aan de onder *a* bedoelde eisen.    
 
 | --- | --- | --- |
-|:---|:---|:---|
+|---|---|---|
 | Aantal merktekens  | Rendement bij nominaal vermogen  | Rendement in deellast  |
 | 1  | ≥ 84 + 2.logPn  | ≥ 80 + 3.logPn  |
 | 2  | ≥ 87 + 2.logPn  | ≥ 83 + 3.logPn  |
@@ -124,7 +124,7 @@ b. tot het verrichten van controles en beoordelingen zoals omschreven in de in a
 a. niet langer voldoet aan de in het tweede lid bedoelde voorwaarden;  
 
 b. niet voldoet aan de in het kader van de in artikel 6, tweede lid, bedoelde procedures op haar rustende verplichtingen.     
-4.  Als instellingen als bedoeld in het eerste lid worden mede aangemerkt instellingen die in het kader van de richtlijn door andere lid-staten van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte bij de Commissie van de Europese Gemeenschappen zijn aangemeld en waarvan de namen door de Commissie zijn gepubliceerd in het *Publikatieblad van de Europese Gemeenschappen*.   
+4.  Als instellingen als bedoeld in het eerste lid worden mede aangemerkt instellingen die in het kader van de richtlijn door andere lid-staten van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte bij de Europese Commissie zijn aangemeld en waarvan de namen door de Commissie zijn gepubliceerd in het *Publikatieblad van de Europese Gemeenschappen*.   
 
 ### Artikel  9  
 

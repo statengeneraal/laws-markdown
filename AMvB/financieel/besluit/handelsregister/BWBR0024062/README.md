@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Economische Zaken van 4 april 2008, nr. WJZ/8037138;
 
-Gelet op de [artikelen 49, derde lid](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), en [50, eerste lid, van de Handelsregisterwet 2007](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md);
+Gelet op de artikelen 49, derde lid, en 50, eerste lid, van de Handelsregisterwet 2007;
 
 De Raad van State gehoord (advies van 25 april 2008, nr. W10.08.0124/III);
 
@@ -15,14 +15,14 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Voor de toepassing van [artikel 49, eerste lid](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), wordt de onderlinge verhouding van ondernemingen bepaald aan de hand van de volgende indeling in categorieën met de daarbij vermelde gewichten:  
+Voor de toepassing van artikel 49, eerste lid, van de Handelsregisterwet 2007 wordt de onderlinge verhouding van ondernemingen bepaald aan de hand van de volgende indeling in categorieën met de daarbij vermelde gewichten:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | ondernemingen toebehorende aan een natuurlijk persoon en Europese economische samenwerkingsverbanden  | 1  |
 | kerkgenootschappen  | 1  |
 | verenigingen en stichtingen  | 2  |
-| overige privaatrechtelijke rechtspersonen, bedoeld in [artikel 6, eerste lid, onderdeel b, van de Handelsregisterwet 2007](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md)  | 2  |
+| overige privaatrechtelijke rechtspersonen, bedoeld in artikel 6, eerste lid, onderdeel b, van de Handelsregisterwet 2007  | 2  |
 | verenigingen van eigenaars  | 2  |
 | vennootschappen onder firma en maatschappen  | 2  |
 | commanditaire vennootschappen  | 3  |
@@ -50,7 +50,7 @@ Bij ministeriële regeling wordt het eenheidsbedrag vastgesteld dat vermenigvuld
 
 ### Artikel  4  
 
-1.  Bij ministeriële regeling worden de bedragen vastgesteld die verschuldigd zijn voor het inzien van gegevens uit het handelsregister. Daarbij kan onderscheid worden gemaakt naar: 
+1.  Bij ministeriële regeling worden de bedragen vastgesteld die verschuldigd zijn voor het inzien van gegevens uit het handelsregister en de bescheiden die daarbij krachtens wettelijk voorschrift zijn gedeponeerd. Daarbij kan onderscheid worden gemaakt naar: 
 
 a. het ten kantore inzien;  
 
@@ -61,7 +61,7 @@ c. het door middel van een online-verbinding inzien;
 d. het door middel van een speciaal afgeschermd kanaal inzien van gegevens;  
 
 e. het telefonisch verstrekken van inlichtingen omtrent hetgeen in het handelsregister is opgenomen.     
-2.  Bij ministeriële regeling worden de bedragen vastgesteld die zijn verschuldigd voor het verstrekken van een afschrift of een uittreksel uit het handelsregister. Daarbij wordt onderscheid gemaakt naar: 
+2.  Bij ministeriële regeling worden de bedragen vastgesteld die zijn verschuldigd voor het verstrekken van een afschrift of een uittreksel uit het handelsregister is ingeschreven of daarbij krachtens wettelijk voorschrift is gedeponeerd. Daarbij wordt onderscheid gemaakt naar: 
 
 a. het maken van fotokopieën;  
 
@@ -72,11 +72,13 @@ c. het doen van een schriftelijke mededeling met betrekking tot hetgeen is het h
 d. het verstrekken van een papieren uittreksel;  
 
 e. het verstrekken van een elektronisch gewaarmerkt uittreksel.     
-3.  Bij ministeriële regeling worden de kosten vastgesteld die verschuldigd zijn voor overzichten van ondernemingen of rechtspersonen. De kosten worden vastgesteld onderscheiden naar het aantal en de soort gegevens.   
+3.  Bij ministeriële regeling wordt de vergoeding vastgesteld die verschuldigd zijn voor overzichten van ondernemingen of rechtspersonen. De vergoeding wordt vastgesteld onderscheiden naar het aantal en de soort gegevens.   
+4.  Bij ministeriële regeling wordt de hoogte van de vergoeding vastgesteld voor het verstrekken van afschriften van gedeponeerde bescheiden of onderdelen daaruit. De vergoeding wordt onderscheiden vastgesteld naar het aantal en de soort gegevens.   
 
 ### Artikel  5  
 
-Wijzigt dit besluit.   
+1.  De betalingstermijn, bedoeld in artikel 50, vierde lid, van de Handelsregisterwet 2007, is gelijk aan de termijn voor de levering van de dienst genoemd in artikel 4, eerste lid, onderdelen a, b en e, en het tweede lid.   
+2.  De betalingstermijn, bedoeld in artikel 50, vierde lid, van de Handelsregisterwet 2007 wordt vastgesteld op vier weken voor de diensten en producten genoemd in artikel 4, eerste lid, onderdelen c en d, en het derde en vierde lid.   
 
 ### Artikel  6  
 

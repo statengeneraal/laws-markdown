@@ -24,13 +24,13 @@ a. wet: [Telecommunicatiewet](../../../../../../../wet/telecommunicatiewet/BWBR0
 
 b. richtlijn nr. 1999/5/EG: richtlijn nr. 1999/5/EG van het Europees Parlement en de Raad van de Europese Unie van 9 maart 1999 betreffende radioapparatuur en telecommunicatie-eindapparatuur en de wederzijdse erkenning van hun conformiteit (PbEG L 91);  
 
-c. richtlijn nr. 2006/95/EG: richtlijn nr. 2006/95/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende de onderlinge aanpassing van de wettelijke voorschriften der lidstaten inzake elektrisch materiaal bestemd voor gebruik binnen bepaalde spanningsgrenzen (PbEU L 374).  
+c. richtlijn nr. 2006/95/EG: richtlijn nr. 2006/95/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende de onderlinge aanpassing van de wettelijke voorschriften der lidstaten inzake elektrisch materiaal bestemd voor gebruik binnen bepaalde spanningsgrenzen (PbEU L 374);  
 
 d. richtlijn nr. 2004/108/EG: richtlijn nr. 2004/108/EG van het Europees Parlement en de Raad van de Europese Unie van 15 december 2004 betreffende de onderlinge aanpassing van de wetgevingen van de lidstaten inzake elektromagnetische compatibiliteit en tot intrekking van Richtlijn 89/336/EEG (PbEG L 390);  
 
 e. radioapparaten: radiozendapparaten en apparaten die naar hun aard bestemd zijn voor het ontvangen van radiocommunicatiesignalen;  
 
-f. geharmoniseerde norm: technische specificatie die door een erkende Europese normalisatie-instelling, in opdracht van de Commissie van de Europese Gemeenschappen en in overeenstemming met de procedures van de notificatierichtlijn is goedgekeurd;  
+f. geharmoniseerde norm: technische specificatie die door een erkende Europese normalisatie-instelling, in opdracht van de Europese Commissie en in overeenstemming met de procedures van de notificatierichtlijn is goedgekeurd;  
 
 g. lidstaat: staat die lid is van de Europese Unie;  
 
@@ -46,7 +46,7 @@ i. aangemelde instantie: instantie die voor het uitvoeren van conformiteitsbeoor
 
 j. verklaring van conformiteit: document waarin degene die randapparaten of radioapparaten in de handel brengt, verklaart dat die apparaten voldoen aan de voorschriften van richtlijn nr. 1999/5;  
 
-k. schadelijke interferentie: interferentie die het functioneren van een radionavigatiedienst of van andere veiligheidsdiensten in gevaar brengt, of die een overeenkomstig de van toepassing zijnde communautaire of nationale voorschriften werkende radiocommunicatiedienst op een andere wijze ernstig doet achteruitgaan, hindert of herhaaldelijk onderbreekt.    
+k. overeenstemmingsbeoordelingsorgaan: instantie die voor het beoordelen van overeenstemming van randapparaten en radioapparaten met de normen van een derde land en volgens de regels en procedures van het derde land is aangewezen.    
 
 ### Artikel  2  
 
@@ -112,7 +112,7 @@ Degene die randapparaten of radioapparaten in de handel brengt, voldoet aan de u
 
 ### Artikel  9  
 
-1.  Bij de in artikel 7 bedoelde conformiteitsbeoordelingsprocedures kan degene die randapparaten of radioapparaten in de handel brengt een aangemelde instantie inschakelen, mits deze instantie voor de desbetreffende procedure of het desbetreffende onderdeel daarvan bij de Commissie van de Europese Gemeenschappen is aangemeld op grond van artikel 11, eerste lid, van richtlijn nr. 1999/5/EG.   
+1.  Bij de in artikel 7 bedoelde conformiteitsbeoordelingsprocedures kan degene die randapparaten of radioapparaten in de handel brengt een aangemelde instantie inschakelen, mits deze instantie voor de desbetreffende procedure of het desbetreffende onderdeel daarvan bij de Europese Commissie is aangemeld op grond van artikel 11, eerste lid, van richtlijn nr. 1999/5/EG.   
 2.  In afwijking van het eerste lid kan degene die randapparaten of radioapparaten in de Europese Unie in de handel brengt een aangemelde instantie in een derde land inschakelen, mits deze aangemelde instantie is vermeld in de sectorbijlage betreffende radioapparatuur en telecommunicatie-eindapparatuur behorend bij een bij ministeriële regeling genoemde overeenkomst, de aanwijzing van de instantie op grond van deze overeenkomst niet is geschorst en de Europese Gemeenschap haar uit deze overeenkomst voortvloeiende verplichtingen niet geheel of gedeeltelijk heeft opgeschort.   
 
 ### Artikel  10  
@@ -124,7 +124,7 @@ Degene die randapparaten of radioapparaten in de handel brengt, voldoet aan de u
 
 ### Paragraaf  2.4  
 
-####Aanwijzing van aangemelde instanties
+####Aanwijzing van aangemelde instanties en overeenstemmingsbeoordelingsorganen
 
 ### Artikel  11  
 
@@ -134,6 +134,14 @@ Degene die randapparaten of radioapparaten in de handel brengt, voldoet aan de u
 ### Artikel  12  
 
 Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop een aanvraag tot aanwijzing als bedoeld in artikel 11 moet worden ingediend.  
+
+### Artikel  12a  
+
+1.  Onze Minister kan een instantie aanwijzen als overeenstemmingsbeoordelingsorgaan.   
+2.  Bij de aanwijzing kan Onze Minister nadere voorwaarden stellen, waaronder in ieder geval het toepassingsbereik van de aanwijzing en de wijze waarop een overeenstemmingsbeoordeling uitgevoerd wordt.   
+3.  Onze Minister kan een aanwijzing intrekken indien het overeenstemmingsbeoordelingsorgaan niet voldoende technisch bekwaam is of niet voldoet aan de voorwaarden gesteld bij de aanwijzing.   
+4.  Onze Minister kan een aanwijzing schorsen indien Onze Minister het vermoeden heeft dat het derde lid van toepassing is.   
+5.  Bij ministeriële regeling kunnen regels worden gesteld over de procedure van aanwijzing en de wijze waarop een aanvraag tot aanwijzing wordt ingediend.   
 
 ### Paragraaf  2.5  
 
@@ -227,6 +235,10 @@ b. deze uitrusting is voorzien van een zichtbaar teken dat aangeeft dat de uitru
 ### Artikel  23  
 
 Voor de toepassing van [artikel 10.8 tot en met 10.11 van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) worden met radiozendapparaten gelijkgesteld radiofrequentvermogensversterkers die geschikt zijn voor gebruik tezamen met radiozendapparaten alsmede andere elektrische of elektronische apparaten die geschikt zijn om het radiofrequent signaal van radiozendapparaten te wijzigen.  
+
+### Artikel  23a  
+
+Bij ministeriële regeling worden regels gesteld om verstoringen te voorkomen in frequentiebanden die ingevolge het frequentieplan als bedoeld in [artikel 3.1 van de wet](../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) zijn bestemd voor omroep.  
 
 ### Hoofdstuk  9  
 

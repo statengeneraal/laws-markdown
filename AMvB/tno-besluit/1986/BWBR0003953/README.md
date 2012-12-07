@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Onderwijs en Wetenschappen, van 24 februari 1986, nr. 7208/7158, centrale directie Wetgeving en Juridische Zaken;
 
-Gelet op de [artikelen 1](../../../../wet/tno-wet/BWBR0003906/README.md), [15, derde lid](../../../../wet/tno-wet/BWBR0003906/README.md), [17, eerste lid](../../../../wet/tno-wet/BWBR0003906/README.md), [18, tweede lid](../../../../wet/tno-wet/BWBR0003906/README.md), [21, eerste en derde lid](../../../../wet/tno-wet/BWBR0003906/README.md), [37](../../../../wet/tno-wet/BWBR0003906/README.md) en [45, tweede lid, van de TNO-wet](../../../../wet/tno-wet/BWBR0003906/README.md) (*Stb.* 1985, 762);
+Gelet op de artikelen 1, 15, derde lid, 17, eerste lid, 18, tweede lid, 21, eerste en derde lid, 37 en 45, tweede lid, van de TNO-wet (*Stb.* 1985, 762);
 
 De Raad van State gehoord (advies van 16 april 1986, nr. W05.86.0103);
 
@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsbepalingen
 
-Dit besluit verstaat onder: de wet: de [TNO-wet](../../../../wet/tno-wet/BWBR0003906/README.md) (*Stb.* 1985, 762); hoofdgroep: een hoofdgroep als bedoeld in [artikel 15, tweede lid, van de wet](../../../../wet/tno-wet/BWBR0003906/README.md); programma-adviesraad: een programma-adviesraad als bedoeld in [artikel 15, derde lid, van de wet](../../../../wet/tno-wet/BWBR0003906/README.md); middellange termijnplan: plan voor een periode van vier jaar voor de werkzaamheden van de Organisatie, onderscheidenlijk de hoofdgroep, waarin opgenomen het werkprogramma voor het eerstvolgende jaar; basissubsidie: geldmiddelen, die Onze Minister onder nader te stellen voorschriften ter beschikking stelt als bijdrage in de exploitatie- en investeringskosten; doelsubsidies: geldmiddelen, die Onze Ministers van Defensie, van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van Verkeer en Waterstaat, van Economische Zaken, van Landbouw en Visserij, van Sociale Zaken en Werkgelegenheid en van Welzijn, Volksgezondheid en Cultuur ter beschikking stellen als vergoeding voor de exploitatie- en investeringskosten van door hen aangewezen activiteiten, waaronder begrepen de financiering door Onze Minister van Defensie van de hoofdgroep voor defensie-onderzoek.  
+Dit besluit verstaat onder: de wet: de TNO-wet (*Stb.* 1985, 762); hoofdgroep: een hoofdgroep als bedoeld in artikel 15, tweede lid, van de wet; programma-adviesraad: een programma-adviesraad als bedoeld in artikel 15, derde lid, van de wet; middellange termijnplan: plan voor een periode van vier jaar voor de werkzaamheden van de Organisatie, onderscheidenlijk de hoofdgroep, waarin opgenomen het werkprogramma voor het eerstvolgende jaar; basissubsidie: geldmiddelen, die Onze Minister onder nader te stellen voorschriften ter beschikking stelt als bijdrage in de exploitatie- en investeringskosten; doelsubsidies: geldmiddelen, die Onze Ministers van Defensie, van Infrastructuur en Milieu, van Economische Zaken, van Sociale Zaken en Werkgelegenheid, van Volksgezondheid, Welzijn en Sport en van Onderwijs, Cultuur en Wetenschap ter beschikking stellen als vergoeding voor de exploitatie- en investeringskosten van door hen aangewezen activiteiten, waaronder begrepen de financiering door Onze Minister van Defensie van de hoofdgroep voor defensie-onderzoek.  
 
 ### Hoofdstuk  2  
 
@@ -34,13 +34,13 @@ Dit besluit verstaat onder: de wet: de [TNO-wet](../../../../wet/tno-wet/BWBR000
 2.  Een hoofdgroep wordt geleid door een hoofddirectie, welke wordt benoemd en ontslagen door de raad van bestuur, gehoord de betrokken programma-adviesraad en na verkregen goedkeuring van de raad van toezicht dan wel de raad voor het defensie-onderzoek, voor zover het betreft de hoofdgroep voor defensie-onderzoek. Een hoofddirectie bestaat uit een hoofddirecteur en, zonodig, een of meer andere leden.   
 3.  Een hoofddirectie bereidt jaarlijks een ontwerp-middellange termijnplan van de hoofdgroep voor, alsmede de exploitatie- en investeringsbegroting van de hoofdgroep voor het eerstvolgende kalenderjaar.   
 4.  Een hoofddirectie legt rekening en verantwoording af en verstrekt de gevraagde inlichtingen aan de raad van bestuur, dan wel, voor zover het betreft de hoofdgroep voor defensie-onderzoek, ten aanzien van de aan de raad voor het defensie-onderzoek toekomende bevoegdheden, aan deze raad.   
-5.  De taken en bevoegdheden van een hoofddirectie worden geregeld in het reglement, bedoeld in [artikel 15, eerste lid, van de wet](../../../../wet/tno-wet/BWBR0003906/README.md).   
+5.  De taken en bevoegdheden van een hoofddirectie worden geregeld in het reglement, bedoeld in artikel 15, eerste lid, van de wet.   
 
 ### Artikel  3  
 
 ####Programma-adviesraden
 
-1.  De samenstelling en de werkwijze van elke programma-adviesraad wordt geregeld in het reglement bedoeld in [artikel 15, eerste lid, van de wet](../../../../wet/tno-wet/BWBR0003906/README.md).   
+1.  De samenstelling en de werkwijze van elke programma-adviesraad wordt geregeld in het reglement bedoeld in artikel 15, eerste lid, van de wet.   
 2.  Een programma-adviesraad dient de hoofddirectie van de desbetreffende hoofdgroep en de raad van bestuur desgevraagd of eigener beweging van advies ten aanzien van het ontwerp-middellange termijnplan van de hoofdgroep.   
 3.  Elk advies van een programma-adviesraad aan de raad van bestuur, met uitzondering van de adviezen van de programma-adviesraad van de hoofdgroep voor defensie-onderzoek, wordt door de raad van bestuur ter kennis gebracht van de raad van toezicht.   
 4.  Indien de hoofddirectie of de raad van bestuur afwijkt van een door een programma-adviesraad uitgebracht advies, doet deze hiervan met redenen omkleed mededeling aan die programma-adviesraad.   
@@ -54,7 +54,7 @@ Dit besluit verstaat onder: de wet: de [TNO-wet](../../../../wet/tno-wet/BWBR000
 3.  Alvorens een besluit tot instelling of opheffing van een instituut te nemen hoort de raad van bestuur de betrokken programma-adviesraad, hoofdgroepdirectie(s) en instituutsdirectie(s). De ondernemingsraad van de Organisatie wordt in de gelegenheid gesteld advies uit te brengen over het voorgenomen besluit.   
 4.  Een instituut wordt geleid door een directie die wordt benoemd en ontslagen door de raad van bestuur, gehoord de desbetreffende hoofddirectie. Indien een instituut behoort tot de hoofdgroep voor defensie-onderzoek, behoeven dergelijke benoemingen en ontslagen de goedkeuring van de raad voor het defensie-onderzoek. Een instituutsdirectie bestaat uit een directeur en, zonodig, uit één of meer onderdirecteuren.   
 5.  Een instituutsdirectie legt rekening en verantwoording af aan de hoofddirectie van de hoofdgroep en verstrekt deze alsmede de raad van bestuur, dan wel, voor zover het betreft de hoofdgroep voor defensie-onderzoek, ten aanzien van de in dit besluit aan hem toekomende bevoegdheden de raad voor het defensie-onderzoek, de gevraagde inlichtingen.   
-6.  De taken en bevoegdheden van een instituutsdirectie worden geregeld in het reglement, bedoeld in [artikel 15, eerste lid, van de wet](../../../../wet/tno-wet/BWBR0003906/README.md).   
+6.  De taken en bevoegdheden van een instituutsdirectie worden geregeld in het reglement, bedoeld in artikel 15, eerste lid, van de wet.   
 7.  De raad van bestuur heeft, behoudens voor zover het betreft de hoofdgroep voor defensie-onderzoek, de bevoegdheid om, na overleg met de betrokken hoofddirectie, per één of meer instituten adviesraden in te stellen en bij reglement de samenstelling, taken en bevoegdheden van elke adviesraad vast te stellen. Voor zover het betreft de hoofdgroep voor het defensie-onderzoek, oefent de raad voor het defensie-onderzoek deze bevoegdheden, in overeenstemming met de raad van bestuur, uit.   
 
 ### Hoofdstuk  3  
@@ -85,7 +85,7 @@ f. ten hoogste drie andere leden.
 
 ####Taken Raad voor het defensie-onderzoek
 
-1.  De taken en bevoegdheden, bedoeld in [artikel 18, tweede lid, van de wet](../../../../wet/tno-wet/BWBR0003906/README.md), van de raad voor het defensie-onderzoek zijn: 
+1.  De taken en bevoegdheden, bedoeld in artikel 18, tweede lid, van de wet, van de raad voor het defensie-onderzoek zijn: 
 
 a. het jaarlijks vaststellen van het middellange termijnplan, waarin opgenomen het werkprogramma voor het eerstvolgende kalenderjaar, alsmede van het investeringsplan voor de eerstvolgende vier jaren;  
 
@@ -110,7 +110,7 @@ f. het vaststellen van regels voor het intern en extern functioneren van de hoof
 
 1.  Aan de Organisatie worden jaarlijks van rijkswege verstrekt een basissubsidie en doelsubsidies, voor zover de middelen daarvoor door de wetgever beschikbaar zijn gesteld.   
 2.  De raad van bestuur dient hiertoe jaarlijks vóór 1 april bij Onze Minister een met redenen omkleed subsidievoorstel voor het eerstvolgende kalenderjaar in. Bij het voorstel wordt overgelegd een ontwerp-middellange termijnplan van de Organisatie en van elke hoofdgroep, een ontwerp-investeringsplan van de Organisatie voor de eerstvolgende vier jaren, alsmede een ontwerp-exploitatie- en -investeringsbegroting van de Organisatie en van elke hoofdgroep voor het eerstvolgende kalenderjaar. Het subsidievoorstel en de daarbij te voegen bescheiden behoeven de voorafgaande goedkeuring van de raad van toezicht. De onderdelen van het voorstel en de daarbij te voegen bescheiden die de hoofdgroep voor defensie-onderzoek betreffen worden vastgesteld door de raad voor het defensie-onderzoek en behoeven, voor wat betreft de bijgevoegde bescheiden, de goedkeuring van Onze Minister van Defensie.   
-3.  Jaarlijks vóór 1 november wordt bij subsidiebrief, bedoeld in [artikel 21, tweede lid, van de wet](../../../../wet/tno-wet/BWBR0003906/README.md), bekendgemaakt: 
+3.  Jaarlijks vóór 1 november wordt bij subsidiebrief, bedoeld in artikel 21, tweede lid, van de wet, bekendgemaakt: 
 
 a. de voor het eerstvolgende kalenderjaar ten laste van de rijksbegroting voorlopig vastgestelde bedragen voor: 
 
@@ -152,7 +152,7 @@ Dit besluit kan worden aangehaald als: TNO-besluit 1986.
 
 ####Inwerkingtreding
 
-De [TNO-wet](../../../../wet/tno-wet/BWBR0003906/README.md) en dit besluit treden in werking op 1 mei 1986.  
+De TNO-wet en dit besluit treden in werking op 1 mei 1986.  
 
 Lasten en bevelen, dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.   
 

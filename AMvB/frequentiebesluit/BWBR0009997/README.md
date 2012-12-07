@@ -105,13 +105,9 @@ f. door de aanvrager te leveren bijdrage aan de overgang van analoge naar digita
 3.  Bij ministeriële regeling kunnen regels worden gesteld voor het geval dat een aanvrager na het tijdstip waarop een aanvraag uiterlijk dient te zijn ontvangen op grond van de ministeriële regeling, bedoeld in artikel 4, een vergunning verwerft met betrekking tot een categorie van frequentieruimte waarvoor een maximum is vastgesteld.   
 4.  Indien een aanvrager deel uitmaakt van een groep waartoe een andere rechtspersoon of vennootschap behoort die een vergunning heeft of verwerft met betrekking tot frequentieruimte waarvoor een maximum is vastgesteld, wordt bij de toepassing van het bepaalde bij of krachtens het tweede en derde lid ook die vergunning in aanmerking genomen.   
 
-### Artikel  7  
-
-Indien voor een vergunning slechts een aanvrager voldoet aan de op grond van artikel 6 gestelde eisen wordt aan deze aanvrager de vergunning verleend zonder toepassing van een veiling of een vergelijkende toets.  
-
 ### Artikel  8  
 
-1.  Bij ministeriële regeling worden in het kader van de behandeling van een aanvraag om een vergunning regels gesteld omtrent de wijze waarop de veiling of de vergelijkende toets plaatsvindt. Deze regeling kan per te verlenen vergunning verschillen.   
+1.  Bij ministeriële regeling worden in het kader van de behandeling van een aanvraag om een vergunning regels gesteld omtrent de toepassing en uitvoering van de veiling of de vergelijkende toets. Deze regels kunnen per te verlenen vergunning verschillen.   
 2.  In het geval van een veiling hebben de in het eerste lid bedoelde regels in elk geval betrekking op: 
 
 a. de wijze waarop een bod wordt uitgebracht;  
@@ -142,14 +138,14 @@ d. de eisen die gesteld worden met betrekking tot de wijze van betaling van het 
 ### Artikel  9  
 
 1.  Onze Minister kan een vergunning die is verleend door middel van een veiling of een vergelijkende toets niet verlengen, tenzij het algemeen maatschappelijk, cultureel of economisch belang verlenging naar het oordeel van Onze Minister vordert of verlenging naar het oordeel van Onze Minister van belang is voor de bevordering van de overgang van analoge naar digitale techniek, mits de aanvraag om verlenginguiterlijk een jaar, doch niet eerder dan twee jaar voor het tijdstip waarop de periode waarvoor de vergunning is verleend, is verstreken, is ontvangen door Onze Minister. Bij regeling van Onze Minister kan voor nader bepaalde vergunningen een afwijkende periode worden bepaald waarbinnen het verzoek tot verlenging moet worden ontvangen.   
-2.  Indien de vergunning betrekking heeft op frequentieruimte bestemd voor de categorie commerciële omroep besluit Onze Minister over een verzoek tot verlenging als bedoeld in het eerste lid, niet dan in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschappen.   
+2.  Indien de vergunning betrekking heeft op frequentieruimte bestemd voor de categorie commerciële omroep besluit Onze Minister over een verzoek tot verlenging als bedoeld in het eerste lid, niet dan in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschap.   
 3.  In het geval een vergunning wordt verlengd kunnen de aan de vergunning verbonden voorschriften en beperkingen worden gewijzigd en kunnen nieuwe voorschriften en beperkingen aan de vergunning worden toegevoegd.   
 4.  Bij ministeriële regeling kunnen inzake de verlenging van vergunningen nadere regels worden gesteld. Deze regels kunnen per te verlenen vergunning verschillen.   
 
 ### Artikel  10  
 
-1.  In het geval de te verlenen vergunning betrekking heeft op frequentieruimte bestemd voor de categorie commerciële omroep en de verlening van de vergunning plaatsvindt door middel van een vergelijkende toets worden de in deze paragraaf aan Onze Minister opgedragen taken en toegekende bevoegdheden uitgeoefend, voorzover het niet betreft de vaststelling van de frequentieruimte waarvoor de vergunning wordt verleend, door Onze Minister van Onderwijs, Cultuur en Wetenschappen in overeenstemming met Onze Minister.   
-2.  Onze Minister verleent een vergunning voor het gebruik van frequentieruimte bestemd voor de categorie commerciële omroep op voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschappen, indien die voordracht tot stand is gekomen na uitvoering van de vergelijkende toets.   
+1.  In het geval de te verlenen vergunning betrekking heeft op frequentieruimte bestemd voor de categorie commerciële omroep en de verlening van de vergunning plaatsvindt door middel van een vergelijkende toets worden de in deze paragraaf aan Onze Minister opgedragen taken en toegekende bevoegdheden uitgeoefend, voorzover het niet betreft de vaststelling van de frequentieruimte waarvoor de vergunning wordt verleend, door Onze Minister van Onderwijs, Cultuur en Wetenschap in overeenstemming met Onze Minister.   
+2.  Onze Minister verleent een vergunning voor het gebruik van frequentieruimte bestemd voor de categorie commerciële omroep op voordracht van Onze Minister van Onderwijs, Cultuur en Wetenschap, indien die voordracht tot stand is gekomen na uitvoering van de vergelijkende toets.   
 
 ### Paragraaf  3  
 
@@ -196,7 +192,7 @@ Bij ministeriële regeling worden regels gesteld omtrent de indiening van de aan
 
 ### Artikel  14  
 
-Op aanvragen om een vergunning voor het gebruik van frequentieruimte ten behoeve van de uitvoering van vitale overheidstaken, van het verzorgen van taken op het terrein van de publieke omroep als bedoeld in [artikel 1, onder t, van de Mediawet](../../../wet/mediawet/BWBR0004149/README.md), of ter uitvoering van een wettelijk voorschrift, zijn de artikelen 12 en 13 van overeenkomstige toepassing.  
+Op aanvragen om een vergunning voor het gebruik van frequentieruimte ten behoeve van de uitvoering van vitale overheidstaken, van het verzorgen van taken ter uitvoering van de publieke mediaopdracht, bedoeld in [artikel 2.1 van de Mediawet 2008](../../../wet/mediawet/2008/BWBR0025028/README.md), of ter uitvoering van een wettelijk voorschrift, zijn de artikelen 12 en 13 van overeenkomstige toepassing.  
 
 ### Paragraaf  5  
 
@@ -296,7 +292,7 @@ b. de aard van de radiozendapparaten en de daarbij behorende antenne-inrichtinge
 
 c. bescheiden die de vergunninghouder ter beschikking moet houden;  
 
-d. verplichtingen die voortvloeien uit de toezeggingen die de vergunninghouder in het kader van de vergelijkende toets heeft gedaan, ook indien toepassing wordt gegeven aan artikel 7;  
+d. verplichtingen die voortvloeien uit de toezeggingen die de vergunninghouder in het kader van een veiling of een vergelijkende toets heeft gedaan, ook indien slechts één aanvrager aan de bij of krachtens de wet gestelde eisen voldoet;  
 
 e. het veroorzaken van belemmeringen in radiozend- of ontvangapparaten of in elektrische of elektronische inrichtingen door het gewenste signaal van een radiozendapparaat;  
 
@@ -308,6 +304,9 @@ h. de naleving van verdragen of besluiten van een volkenrechtelijke organisatie 
 
 i. de identificatie van het zendapparaat door middel van een daartoe bij de vergunningverlening toe te kennen combinatie van letters of cijfers.     
 2.  De in het eerste lid, onderdeel a, bedoelde voorschriften en beperkingen kunnen onder meer betrekking hebben op de termijn waarop en het geografisch gebied waarbinnen de in het eerste lid, onderdeel g, bedoelde diensten moeten worden aangeboden.   
+3.  Indien samenwerking tussen vergunninghouders noodzakelijk is om gewijzigde of nieuw toegekende frequentieruimte in gebruik te kunnen nemen met behoud van continuïteit van dienstverlening, kunnen de in het eerste lid, onderdeel a, bedoelde voorschriften en beperkingen onder meer bestaan uit een verplichting voor deze vergunninghouders om binnen een bepaalde termijn een overeenkomst te sluiten over deze samenwerking.   
+4.  Onze Minister kan op verzoek van een van de houders van een vergunning bedoeld in het derde lid of uit eigen beweging, voorschriften geven met betrekking tot de wijze waarop de overeenkomst tot stand moet komen. De vergunninghouders houden zich aan de door Onze Minister gegeven voorschriften.   
+5.  Indien op een of meer onderdelen van de overeenkomst bedoeld in het derde lid geen overeenstemming van alle bij dat onderdeel of die onderdelen betrokken vergunninghouders dreigt te worden bereikt, kan Onze Minister op verzoek of uit eigen beweging een dwingende aanwijzing geven. De vergunninghouders zijn bij het sluiten van de overeenkomst gebonden aan de aanwijzing.   
 
 ### Artikel  17  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Economische Zaken van 13 juli 2004, nr. WJZ 4044959;
 
-Gelet op [artikel 3, eerste tot en met vierde lid, van de Kaderwet EZ-subsidies](../../../../../../../wet/kaderwet/ez-subsidies/BWBR0007919/README.md);
+Gelet op artikel 3, eerste tot en met vierde lid, van de Kaderwet EZ-subsidies;
 
 De Raad van State gehoord (advies van 21 september 2004, nr. W10.04.0350/II);
 
@@ -22,7 +22,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 a. project: een samenhangend geheel van activiteiten gericht op de verbetering van het vestigingsklimaat op een bestaand bedrijventerrein;  
 
-b. openbaar lichaam: lichaam als bedoeld in [artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen](../../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md);  
+b. openbaar lichaam: lichaam als bedoeld in artikel 8, eerste lid, van de Wet gemeenschappelijke regelingen;  
 
 c. samenwerkingsverband: een geen rechtspersoonlijkheid bezittend verband van twee of meer gemeenten, provincies of openbare lichamen;  
 
@@ -40,7 +40,7 @@ b. indien het bedrijventerrein overwegend bestemd is voor de vestiging van lokal
 
 c. indien het bedrijventerrein uitsluitend vestiging van bedrijven toestaat die vallen onder een lagere categorie dan milieucategorie 4, zoals bedoeld in de brochure «Bedrijven en Milieuzonering», van de Vereniging van Nederlandse Gemeenten;  
 
-d. indien ter zake van het project reeds eerder door Onze Minister subsidie is verstrekt op grond van dit besluit, het [Besluit stimulering ruimte voor economische activiteit](../../../../../../../AMvB/besluit/stimulering/ruimte/voor/economische/activiteit/BWBR0007926/README.md), het [Besluit tender investeringsprogramma's provincies 2000](../../../../../../../AMvB/besluit/tender/investeringsprogramma's/provincies/2000/BWBR0012175/README.md) of het Besluit subsidies stadseconomie GSB III;  
+d. indien ter zake van het project reeds eerder door Onze Minister subsidie is verstrekt op grond van dit besluit, het Besluit stimulering ruimte voor economische activiteit, het Besluit tender investeringsprogramma's provincies 2000 of het Besluit subsidies stadseconomie GSB III;  
 
 e. indien het project uitsluitend regulier en achterstallig onderhoud betreft.  
 
@@ -50,7 +50,7 @@ g. indien blijkt dat de verstrekking van subsidie leidt tot het verlenen van sta
 
 ### Artikel  3  
 
-1.  De subsidie bedraagt 50% van de projectkosten verminderd met de marktconforme opbrengsten, de bijdragen van derden en de subsidies van andere bestuursorganen en de Commissie van de Europese Gemeenschappen.   
+1.  De subsidie bedraagt 50% van de projectkosten verminderd met de marktconforme opbrengsten, de bijdragen van derden en de subsidies van andere bestuursorganen en de Europese Commissie.   
 2.  De subsidie bedraagt niet meer dan een bij ministeriële regeling te bepalen bedrag.   
 3.  Onze Minister kan van het tweede lid afwijken, indien het project een cruciale meerwaarde heeft voor het bereiken van het in het masterplan geformuleerde einddoel, dat op het bedrijventerrein wordt gerealiseerd.   
 4.  Als projectkosten worden uitsluitend in aanmerking genomen alle in de verleningsbeschikking opgenomen, noodzakelijke, rechtstreeks aan het project toe te rekenen, na de indiening van de aanvraag door de subsidie-ontvanger gemaakte en betaalde kosten.   
@@ -73,7 +73,7 @@ Bij ministeriële regeling wordt ieder begrotingsjaar een subsidieplafond vastge
 
 ### Artikel  6  
 
-1.  Onze Minister verdeelt het beschikbare bedrag in de volgorde van ontvangst van de aanvragen, met dien verstande dat indien een aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag en met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag voldoet aan de wettelijke voorschriften als datum van ontvangst geldt.   
+1.  Onze Minister verdeelt het beschikbare bedrag in de volgorde van ontvangst van de aanvragen, met dien verstande dat indien een aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag en met toepassing van artikel 4:5 van de Algemene wet bestuursrecht de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag voldoet aan de wettelijke voorschriften als datum van ontvangst geldt.   
 2.  Onze Minister geeft een beschikking binnen dertien weken na ontvangst van de aanvraag.   
 
 ### Artikel  7  
@@ -104,7 +104,7 @@ a. het project niet voorziet in ruimte voor bedrijvigheid waar blijkens een regi
 
 b. het project strijdigheid creëert met het in de Nota Ruimte vastgestelde veroorzakersprincipe;  
 
-c. blijkt dat er geen verkenning is geweest van andere financierings- en subsidiemogelijkheden en geen aanvraag is gedaan voor relevante subsidie-instrumenten van andere bestuursorganen en de Commissie van de Europese Gemeenschappen;  
+c. blijkt dat er geen verkenning is geweest van andere financierings- en subsidiemogelijkheden en geen aanvraag is gedaan voor relevante subsidie-instrumenten van andere bestuursorganen en de Europese Commissie;  
 
 d. onvoldoende aannemelijk is dat het project kan rekenen op draagvlak binnen de regio waar het bedrijventerrein ligt en bij de ondernemers die op het bedrijventerrein gevestigd zijn;  
 
@@ -154,7 +154,7 @@ Onze Minister kan afwijzend beschikken op een aanvraag voor een voorschot, indie
 
 ### Artikel  14  
 
-De subsidie-ontvanger vraagt een subsidievaststelling aan door verantwoordingsinformatie aan Onze Minister te verstrekken, op de wijze, bedoeld in [artikel 27 van het Besluit financiële verhouding 2001](../../../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md).  
+De subsidie-ontvanger vraagt een subsidievaststelling aan door verantwoordingsinformatie aan Onze Minister te verstrekken, op de wijze, bedoeld in artikel 27 van het Besluit financiële verhouding 2001.  
 
 ### Artikel  15  
 
@@ -166,7 +166,7 @@ Onze Minister geeft de beschikking tot subsidievaststelling binnen dertien weken
 
 ### Artikel  16  
 
-Het [Besluit tender investeringsprogramma’s provincies 2000](../../../../../../../AMvB/besluit/tender/investeringsprogramma's/provincies/2000/BWBR0012175/README.md) wordt ingetrokken met dien verstande dat het van toepassing blijft op subsidies die op grond van dat besluit zijn verstrekt.  
+Het Besluit tender investeringsprogramma’s provincies 2000 wordt ingetrokken met dien verstande dat het van toepassing blijft op subsidies die op grond van dat besluit zijn verstrekt.  
 
 ### Artikel  17  
 

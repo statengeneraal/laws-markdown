@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Economische Zaken van 20 december 2006, nr. WJZ 6111566, gedaan in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, Onze Minister van Landbouw, Natuur en Voedselkwaliteit en Onze Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties;
 
-Gelet op Verordening (EG) nr. 1083/2006 van de Raad van de Europese Unie van 11 juli 2006 houdende algemene bepalingen inzake het Europees Fonds voor Regionale Ontwikkeling, het Europees Sociaal Fonds en het Cohesiefonds en tot intrekking van Verordening (EG) nr. 1260/1999 (PbEG L 210), Verordening (EG) nr. 1080/2006 van het Europees Parlement en de Raad van de Europese Unie van 5 juli 2006 betreffende het Europees Fonds voor Regionale Ontwikkeling en tot intrekking van Verordening (EG) nr. 1783/1999 (PbEG L 210), [artikel 89 Grondwet](../../../../../../wet/grondwet/BWBR0001840/README.md) en [artikel 3 van de Kaderwet EZ-subsidies](../../../../../../wet/kaderwet/ez-subsidies/BWBR0007919/README.md);
+Gelet op Verordening (EG) nr. 1083/2006 van de Raad van de Europese Unie van 11 juli 2006 houdende algemene bepalingen inzake het Europees Fonds voor Regionale Ontwikkeling, het Europees Sociaal Fonds en het Cohesiefonds en tot intrekking van Verordening (EG) nr. 1260/1999 (PbEG L 210), Verordening (EG) nr. 1080/2006 van het Europees Parlement en de Raad van de Europese Unie van 5 juli 2006 betreffende het Europees Fonds voor Regionale Ontwikkeling en tot intrekking van Verordening (EG) nr. 1783/1999 (PbEG L 210), artikel 89 Grondwet en artikel 3 van de Kaderwet EZ-subsidies;
 
 De Raad van State gehoord (advies van 14 februari 2007, nr. W10.06.0570/II);
 
@@ -91,7 +91,7 @@ De managementautoriteit kan van bevoegdheden krachtens Kaderverordening, EFRO-ve
 
 ### Artikel  8  
 
-1.  De algemeen directeur van de Dienst Regelingen van het Ministerie van Landbouw, Natuur en Voedselkwaliteit is certificeringsautoriteit als bedoeld in artikel 59, eerste lid, onderdeel b, van de Kader verordening 1083/2006 voor de Europese Programma’s genoemd in artikel 5, eerste tot en met vierde lid.   
+1.  De algemeen directeur van de Dienst Regelingen van het Ministerie van Economische Zaken is certificeringsautoriteit als bedoeld in artikel 59, eerste lid, onderdeel b, van de Kader verordening 1083/2006 voor de Europese Programma’s genoemd in artikel 5, eerste tot en met vierde lid.   
 2.  Het bestuur van de Stichting Euregio Maasrijn is certificeringsautoriteit als bedoeld in artikel 59, eerste lid, onderdeel b, van de Kader verordening 1083/2006 voor het grensoverschrijdend programma, bedoeld in artikel 5, vijfde lid.   
 3.  De in het eerste en tweede lid aangewezen certificeringsautoriteit is de in artikel 76, tweede lid van de Kaderverordening bedoelde instantie.   
 

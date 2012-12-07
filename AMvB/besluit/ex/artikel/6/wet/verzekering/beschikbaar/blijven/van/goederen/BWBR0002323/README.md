@@ -20,7 +20,7 @@ De commissies, die krachtens artikel 6, tweede lid, van de wet van 10 juli 1952 
 ### Artikel  2  
 
 1.  Onze Minister van Economische Zaken benoemt de leden en de plaatsvervangende leden der commissies. Hij benoemt voorts uit de leden een voorzitter en een of meer ondervoorzitters. Hij kan de benoemden wederom ontslaan.   
-2.  Een beschikking krachtens het eerste lid wordt vastgesteld in overeenstemming met Onze Minister van Binnenlandse Zaken.   
+2.  Een beschikking krachtens het eerste lid wordt vastgesteld in overeenstemming met Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.   
 
 ### Artikel  3  
 

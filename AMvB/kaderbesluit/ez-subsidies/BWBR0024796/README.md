@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Economische Zaken van 14 juli 2008, nr. WJZ / 8086267;
 
-Gelet op [artikel 3 van de Kaderwet EZ-subsidies](../../../../wet/kaderwet/ez-subsidies/BWBR0007919/README.md);
+Gelet op artikel 3 van de Kaderwet EZ-subsidies;
 
 De Raad van State gehoord (advies van 29 augustus 2008, nr. W10.08.0292 III);
 
@@ -22,11 +22,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 – *algemene groepsvrijstellingsverordening:*verordening (EG) nr. 800/2008 van de Commissie van de Europese Gemeenschappen van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke markt verenigbaar worden verklaard («de algemene groepsvrijstellingsverordening») (PbEU L 214);  
 
-– *bank:* een kredietinstelling die voldoet aan de omschrijving van bank als vermeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en die bevoegd is in een lidstaat van de Europese Unie het bedrijf van bank uit te oefenen;  
+– *bank:* binnen het grondgebied van de Europese Unie gevestigde bank die is toegelaten het bedrijf van bank uit te oefenen;  
 
 – *de-minimis verordening:*verordening (EG) nr. 1998/2006 van de Commissie van Europese Gemeenschappen van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun (PbEU L379) ), verordening (EG) nr. 1535/2007 van de Commissie van de Europese Gemeenschappen van 20 december 2007 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun in de landbouwproductiesector (PbEU L 337) en verordening (EG) nr. 875/2007 van de Commissie van de Europese Gemeenschappen van 24 juli 2007 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op de-minimissteun in de landbouwsector en de visserijsector (PbEU L 193);  
 
-– *Europees steunkader:* een mededeling, richtsnoer, kaderregeling, beschikking of vrijstellingsverordening op het gebied van staatssteun die de Commissie van de Europese Gemeenschappen, gelet op de artikelen 86, derde lid , 87 en 88 van het EG-Verdrag heeft vastgesteld  
+– *Europees steunkader:* een mededeling, richtsnoer, kaderregeling, beschikking of vrijstellingsverordening op het gebied van staatssteun die de Europese Commissie, gelet op de artikelen 86, derde lid , 87 en 88 van het EG-Verdrag heeft vastgesteld  
 
 – *financier:* een bank of een participatiemaatschappij of een andere, door Onze Minister aangewezen instelling;  
 
@@ -68,11 +68,11 @@ b. een kapitaalvennootschap die is ingericht naar het recht van één van de lid
 
 – *samenwerkingsverband:* een geen rechtspersoonlijkheid bezittend verband, bestaande uit ten minste twee niet in een groep verbonden deelnemers, dat is opgericht ten behoeve van de uitvoering van activiteiten, niet zijnde een vennootschap;  
 
-– *specifieke uitkering:* een subsidie aan een provincie, gemeente of openbaar lichaam als bedoeld in de [Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md)  die tevens een specifieke uitkering is als bedoeld in de [Financiële-verhoudingswet](../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md);  
+– *specifieke uitkering:* een subsidie aan een provincie, gemeente of openbaar lichaam als bedoeld in de Wet gemeenschappelijke regelingen  die tevens een specifieke uitkering is als bedoeld in de Financiële-verhoudingswet;  
 
 – *subsidie aan een financier:* een subsidie, verstrekt aan een financier, met als doel om kapitaal te doen verstrekken aan ondernemingen;  
 
-– *universiteit:* een [onder a of b van de bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) genoemde instelling voor hoger onderwijs, alsmede een [onder i van de bijlage van die wet](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) genoemd academisch ziekenhuis;  
+– *universiteit:* een onder a of b van de bijlage van de Wet op het hoger onderwijs en wetenschappelijk onderzoek genoemde instelling voor hoger onderwijs, alsmede een onder i van de bijlage van die wet genoemd academisch ziekenhuis;  
 
 – *voucher:* een op grond van dit besluit door Onze Minister afgegeven waardedocument voor een deel van de kosten die met het doel waarvoor de voucher wordt gegeven, gepaard gaan.    
 
@@ -82,23 +82,24 @@ b. een kapitaalvennootschap die is ingericht naar het recht van één van de lid
 
 ### Artikel  2  
 
-1.  Subsidies die worden verstrekt krachtens een ministeriële regeling op de gebieden, genoemd in [artikel 2 van de Kaderwet EZ-subsidies](../../../../wet/kaderwet/ez-subsidies/BWBR0007919/README.md), worden verstrekt volgens de regels van dit besluit.   
+1.  Subsidies die worden verstrekt krachtens een ministeriële regeling op de gebieden, genoemd in artikel 2 van de Kaderwet EZ-subsidies, worden verstrekt volgens de regels van dit besluit.   
 2.  Onze Minister kan op aanvraag voor de activiteiten op de gebieden, genoemd in het eerste lid, subsidie verstrekken volgens bij ministeriële regeling bepaalde regels.   
-3.  Onder dit besluit vallen niet per boekjaar verstrekte subsidies als bedoeld in [artikel 4:58 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-4.  Onder dit besluit vallen niet: 
+3.  Onze Minister stelt regels als bedoeld in het tweede lid uitsluitend over activiteiten die tevens een positieve bijdrage leveren aan de economische, ecologische of sociale dimensie van duurzaamheid.   
+4.  Onder dit besluit vallen niet per boekjaar verstrekte subsidies als bedoeld in artikel 4:58 van de Algemene wet bestuursrecht.   
+5.  Onder dit besluit vallen niet: 
 
-a. subsidies die worden verstrekt op basis van of in nauwe samenhang met een bindend besluit van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Commissie van de Europese Gemeenschappen betreffende ondersteuning van activiteiten op de in het eerste lid genoemde gebieden, en  
+a. subsidies die worden verstrekt op basis van of in nauwe samenhang met een bindend besluit van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Europese Commissie betreffende ondersteuning van activiteiten op de in het eerste lid genoemde gebieden, en  
 
-b. subsidies die worden verstrekt met het oog op co-financiering van een door de Raad van de Europese Unie of de Commissie van de Europese Gemeenschappen goedgekeurd programma.     
-5.  Onder dit besluit vallen niet specifieke uitkeringen die verstrekt worden op grond van een regeling die uitsluitend voorziet in het verstrekken van specifieke uitkeringen.   
-6.  Dit besluit is niet van toepassing op subsidies krachtens het [Besluit stimulering duurzame energieproductie](../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).   
+b. subsidies die worden verstrekt met het oog op co-financiering van een door de Raad van de Europese Unie of de Europese Commissie goedgekeurd programma.     
+6.  Onder dit besluit vallen niet specifieke uitkeringen die verstrekt worden op grond van een regeling die uitsluitend voorziet in het verstrekken van specifieke uitkeringen.   
+7.  Dit besluit is niet van toepassing op subsidies krachtens het Besluit stimulering duurzame energieproductie.   
 
 ### Artikel  3  
 
 1.  Een subsidie wordt verstrekt aan een in Nederland gevestigde natuurlijke persoon, rechtspersoon of vennootschap die voor eigen rekening en risico activiteiten uitvoert.   
 2.  Bij ministeriële regeling kan, in aanvulling op het eerste lid, worden bepaald dat subsidie wordt verstrekt aan niet in Nederland gevestigde natuurlijke personen, rechtspersonen of vennootschappen of hiermee gelijk te stellen entiteiten.   
 3.  In aanvulling op het eerste lid kan een subsidie aan een financier ook worden verstrekt aan een niet in Nederland gevestigde financier.   
-4.  Geen subsidie wordt verstrekt aan een provincie, gemeente of openbaar lichaam als bedoeld in de [Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), tenzij bij ministeriële regeling is bepaald dat daaraan wel subsidie wordt verstrekt.   
+4.  Geen subsidie wordt verstrekt aan een provincie, gemeente of openbaar lichaam als bedoeld in de Wet gemeenschappelijke regelingen, tenzij bij ministeriële regeling is bepaald dat daaraan wel subsidie wordt verstrekt.   
 
 ### Artikel  4  
 
@@ -118,7 +119,9 @@ f. degenen met wie een financier een overeenkomst sluit;
 
 g. verplichtingen van Onze Minister in verband met de subsidie;  
 
-h. onderwerpen die, in afwijking van of in aanvulling op de regels van dit besluit, nadere regeling behoeven op basis van een Europees steunkader.    
+h. onderwerpen die, in afwijking van of in aanvulling op de regels van dit besluit, nadere regeling behoeven op basis van een Europees steunkader;  
+
+i. de wijze van uitvoering van de activiteiten waarvoor subsidie wordt verleend met het oog op de economische, ecologische of sociale dimensie van duurzaamheid.    
 
 ### Hoofdstuk  3  
 
@@ -139,14 +142,14 @@ h. onderwerpen die, in afwijking van of in aanvulling op de regels van dit beslu
 
 ### Artikel  6  
 
-1.  Indien reeds door een bestuursorgaan of de Commissie van de Europese Gemeenschappen subsidie, met uitzondering van subsidie aan een financier, is verstrekt voor de subsidiabele kosten of een deel daarvan, wordt slechts een zodanig bedrag aan subsidie verstrekt dat het totale bedrag aan subsidies niet meer bedraagt dan het bedrag dat krachtens dit besluit kan worden verstrekt.   
+1.  Indien reeds door een bestuursorgaan of de Europese Commissie subsidie, met uitzondering van subsidie aan een financier, is verstrekt voor de subsidiabele kosten of een deel daarvan, wordt slechts een zodanig bedrag aan subsidie verstrekt dat het totale bedrag aan subsidies niet meer bedraagt dan het bedrag dat krachtens dit besluit kan worden verstrekt noch meer bedraagt dan toegestaan volgens de toepasselijke Europese steunkaders.   
 2.  Het eerste lid is niet van toepassing voor zover de verstrekte subsidie geldmiddelen betreft die één van Onze Ministers onder door hem gestelde voorschriften ter beschikking stelt als bijdrage in de algemene exploitatie- en investeringskosten die een onderzoeksorganisatie maakt.   
-3.  Indien bij ministeriële regeling is aangegeven dat een bijdrage van een gemeente, provincie of openbaar lichaam als bedoeld in [artikel 8 van de Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) of een ander bestuursorgaan aangemerkt wordt als publieke cofinanciering, kunnen bij ministeriële regeling van het eerste lid afwijkende regels worden gesteld.   
+3.  Indien bij ministeriële regeling is aangegeven dat een bijdrage van een gemeente, provincie of openbaar lichaam als bedoeld in artikel 8 van de Wet gemeenschappelijke regelingen of een ander bestuursorgaan aangemerkt wordt als publieke cofinanciering, kunnen bij ministeriële regeling van het eerste lid afwijkende regels worden gesteld.   
 4.  Indien uit de aan Onze Minister op basis van artikel 41, tweede lid, voorgelegde afspraken blijkt dat sprake is van staatssteun als gevolg van de overdracht van kennis of andere resultaten uit activiteiten, wordt slechts een zodanig bedrag aan subsidie verstrekt dat het totale bedrag aan subsidie niet meer bedraagt dan het in de beschikking tot subsidieverlening aangegeven bedrag dat maximaal mag worden verstrekt ingevolge een Europees steunkader.   
 
 ### Artikel  7  
 
-1.  Bij ministeriële regeling kan worden bepaald dat bepaalde subsidieregelingen of bijdragen van de Commissie van de Europese Gemeenschappen bij de toepassing van artikel 6 buiten beschouwing blijven.   
+1.  Bij ministeriële regeling kan worden bepaald dat bepaalde subsidieregelingen of bijdragen van de Europese Commissie bij de toepassing van artikel 6 buiten beschouwing blijven.   
 2.  Bij ministeriële regeling kunnen met betrekking tot de subsidie aan een financier regels worden gesteld over de cumulatie van subsidie bij ondernemingen aan wie als gevolg van de subsidie aan een financier kapitaal wordt verstrekt.   
 
 ### Artikel  8  
@@ -156,6 +159,8 @@ Indien bij ministeriële regeling is bepaald dat toepassing is gegeven aan een d
 ### §  3  
 
 ####Hoogte subsidie voor andere activiteiten dan opgenomen in de bijlage 
+
+Vervallen per 01-01-2010   
 
 ### Hoofdstuk  4  
 
@@ -205,7 +210,7 @@ c. de vaste-uurtarief-systematiek, opgenomen in artikel 14.
 
 a. een vaste opslag voor indirecte kosten uitgedrukt als een percentage van de loonkosten, welk percentage bij ministeriële regeling wordt vastgesteld;  
 
-b. de kosten van het gebruik van apparatuur en de kosten van verbruikte materialen indien deze in de administratie te onderscheiden zijn;  
+b. de kosten van het gebruik van apparatuur en de kosten van verbruikte materialen en hulpmiddelen indien deze in de administratie te onderscheiden zijn;  
 
 c. de aan derden betaalde kosten.     
 2.  Voor zover geen loonkosten worden gemaakt, maar niettemin arbeid wordt verricht, wordt voor de berekening van de kosten van die arbeid inclusief de opslag voor indirecte kosten, bedoeld in het eerste lid, onderdeel a, uitgegaan van een bij ministeriële regeling vast te stellen vast uurtarief.   
@@ -214,7 +219,7 @@ c. de aan derden betaalde kosten.
 
 Indien de aanvrager kiest voor de vaste-uurtarief-systematiek, worden de subsidiabele kosten berekend door het aantal uren dat de direct bij de subsidiabele activiteiten betrokken personen ten behoeve van deze activiteiten hebben gemaakt te vermenigvuldigen met een bij ministeriële regeling vast te stellen vast uurtarief waarin zowel de directe loonkosten als daaraan toegerekende indirecte kosten zijn begrepen, vermeerderd met: 
 
-a. de kosten van het gebruik van apparatuur en de kosten van verbruikte materialen indien deze in de administratie te onderscheiden zijn;  
+a. de kosten van het gebruik van apparatuur en de kosten van verbruikte materialen en hulpmiddelen indien deze in de administratie te onderscheiden zijn;  
 
 b. de aan derden betaalde kosten.    
 
@@ -325,7 +330,7 @@ Onze Minister beslist afwijzend op een aanvraag om subsidie indien de aanvraag n
 
 ### Artikel  23  
 
-Onze Minister beslist afwijzend op een aanvraag om subsidie, niet zijnde een subsidie aan een financier, voor zover: 
+1.  Onze Minister beslist afwijzend op een aanvraag om subsidie, niet zijnde een subsidie aan een financier, voor zover: 
 
 a. door de toepassing van een de-minimis verordening, een bedrag aan de-minimis steun zou worden verstrekt dat hoger is dan geoorloofd op grond van deze verordening;  
 
@@ -343,7 +348,10 @@ g. de activiteiten onvoldoende bijdrage aan de doelstellingen van de subsidie le
 
 h. onvoldoende vertrouwen bestaat dat de betrokkenen de capaciteiten hebben om de activiteiten naar behoren uit te voeren;  
 
-i. het betreft een subsidie-ontvanger die een ondernemer is tegen wie een bevel tot terugvordering uitstaat als bedoeld in artikel 1, zesde lid, onderdeel a, van de algemene groepsvrijstellingsverordening.    
+i. het betreft een subsidie-ontvanger die een ondernemer is tegen wie een bevel tot terugvordering uitstaat als bedoeld in artikel 1, zesde lid, onderdeel a, van de algemene groepsvrijstellingsverordening;  
+
+j. er een naar het oordeel van Onze Minister onaanvaardbaar risico bestaat dat de uitvoering van een voorgenomen activiteit een onevenredige inbreuk zal maken op de economische, ecologische of sociale dimensie van duurzaamheid.     
+2.  Onze Minister beslist afwijzend op een verzoek om subsidie, indien met de uitvoering van de subsidiabele activiteiten of het project al is begonnen vóór de datum van indiening van de aanvraag, tenzij bij ministeriële regeling anders is bepaald.   
 
 ### Artikel  24  
 
@@ -371,7 +379,7 @@ Bij ministeriële regeling kunnen andere afwijzingsgronden dan de afwijzingsgron
 2.  Indien een beschikking niet binnen de in de tabel aangegeven termijn kan worden gegeven, kan deze termijn eenmaal met de in de tabel aangegeven termijn worden verlengd.  
 
 |  *Wijze van verdelen*   |  *Bij ministeriële regeling is wel/niet aangegeven dat een bijdrage van een gemeente, een provincie, een openbaar lichaam als bedoeld in artikel 8 van de Wet gemeenschappelijke regelingen of een ander bestuursorgaan aangemerkt wordt als publieke cofinanciering*   |  *Wel/geen advies ingewonnen bij een adviescommissie*   |  *Beslistermijn*   |
-|:---|:---|:---|:---|
+|---|---|---|---|
 | Volgorde van binnenkomst (artikel 17, eerste lid, onderdeel a )  | Geen sprake van publieke co-financiering  | Over aanvragen om subsidie wordt geen advies ingewonnen bij een adviescommissie  | 8 weken na ontvangst van de aanvraag  |
 | Over aanvragen om subsidie wordt advies ingewonnen bij een adviescommissie  | 13 weken na ontvangst van de aanvraag  |
 | Wel sprake van publieke co-financiering  | --- | 22 weken na ontvangst van de aanvraag  |
@@ -383,7 +391,7 @@ Bij ministeriële regeling kunnen andere afwijzingsgronden dan de afwijzingsgron
 
 ### Artikel  27  
 
-1.  Indien bij ministeriële regeling is gekozen voor verdeling van het subsidieplafond op volgorde van binnenkomst, verdeelt Onze Minister het beschikbare bedrag in de volgorde van ontvangst van de aanvragen, met dien verstande dat indien een aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag en met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag voldoet aan de wettelijke voorschriften met betrekking tot de verdeling als datum van ontvangst geldt.   
+1.  Indien bij ministeriële regeling is gekozen voor verdeling van het subsidieplafond op volgorde van binnenkomst, verdeelt Onze Minister het beschikbare bedrag in de volgorde van ontvangst van de aanvragen, met dien verstande dat indien een aanvrager niet heeft voldaan aan enig wettelijk voorschrift voor het in behandeling nemen van de aanvraag en met toepassing van artikel 4:5 van de Algemene wet bestuursrecht de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag voldoet aan de wettelijke voorschriften met betrekking tot de verdeling als datum van ontvangst geldt.   
 2.  Indien Onze Minister op de dag dat het subsidieplafond van een subsidie die wordt verdeeld op volgorde van binnenkomst wordt bereikt meer dan één aanvraag ontvangt, stelt hij de onderlinge rangschikking van die aanvragen vast door middel van loting.   
 
 ### Artikel  28  
@@ -560,8 +568,8 @@ a. rente, te rekenen vanaf het moment van betaling, of
 b. een opslag.     
 3.  De subsidie-ontvanger kan Onze Minister tot het tijdstip waarop een aanvraag tot subsidievaststelling is ingediend, verzoeken om ontheffing te verlenen van de verplichting de verstrekte subsidie, inclusief eventuele rente of opslag, terug te betalen.   
 4.  De ontheffing, bedoeld in het derde lid, kan worden verleend indien eerder een ontheffing is verleend voor het vertragen, essentieel wijzigen of stopzetten van de activiteiten in verband met onoverkomelijke problemen of het verloren gaan van het marktperspectief.   
-5.  De subsidie-ontvanger kan Onze Minister nadat een aanvraag tot subsidievaststelling is ingediend, verzoeken om ontheffing te verlenen van de verplichting tot terugbetaling van de subsidie, inclusief eventuele rente of opslag, of ontheffing te verlenen van de verplichting subsidie, inclusief eventuele rente of opslag, terug te betalen volgens het bij de beschikking tot subsidieverlening vastgelegde schema.   
-6.  De ontheffing, bedoeld in het vijfde lid, kan worden verleend indien de verplichting tot terugbetaling leidt tot zodanige financiële problemen voor de subsidie-ontvanger dat het voortbestaan van zijn onderneming in gevaar komt.   
+5.  De subsidie-ontvanger kan Onze Minister nadat een aanvraag tot subsidievaststelling is ingediend, verzoeken om ontheffing te verlenen van de verplichting subsidie, inclusief eventuele rente of opslag, terug te betalen volgens het bij de beschikking tot subsidieverlening vastgelegde schema.   
+6.   Vervallen.    
 7.  Aan de ontheffingen, bedoeld in het derde en vijfde lid, kunnen voorschriften worden verbonden.   
 
 ### §  3  
@@ -588,7 +596,7 @@ Onze Minister kan bij de beschikking tot subsidieverlening nadere verplichtingen
 3.  De hoogte en het moment van verstrekking van de voorschotten worden bepaald door de regels, genoemd in de vijfde kolom van onderstaande tabel voor de situaties als bedoeld in de eerste vier kolommen van de tabel.  
 
 | Soort subsidie  | Maximaal bedrag subsidie  | Wel of geen begroting per mijlpaal  | Duur subsidie volgens regeling  | Regels voor voorschotten  |
-|:---|:---|:---|:---|:---|
+|---|---|---|---|---|
 | Subsidie met terugbetalingsverplichting  | € 25.000 of minder  | --- | --- |  Artikel 47, eerste en derde lid    |
 | Meer dan € 25.000 maar niet meer dan € 125.000  | --- | Eén jaar of minder  | Artikel 47, eerste en derde lid  |
 | Wel begroting per mijlpaal  | Meer dan één jaar  |  Artikel 46, eerste tot en met derde, vijfde, zesde en tiende lid    |
@@ -675,14 +683,14 @@ b. de subsidie uiterlijk ambtshalve wordt vastgesteld.
 
 1.  De volgende besluiten worden ingetrokken: 
 
-a. het [Besluit borgstelling MKB-kredieten 1997](../../../../AMvB/besluit/borgstelling/mkb-kredieten/1997/BWBR0009052/README.md);  
+a. het Besluit borgstelling MKB-kredieten 1997;  
 
-b. het [Besluit borgstelling scheepsnieuwbouw](../../../../AMvB/besluit/borgstelling/scheepsnieuwbouw/BWBR0019103/README.md);  
+b. het Besluit borgstelling scheepsnieuwbouw;  
 
-c. het [Besluit innovatiesubsidie samenwerkingsprojecten](../../../../KB/besluit/innovatiesubsidie/samenwerkingsprojecten/BWBR0015925/README.md);  
+c. het Besluit innovatiesubsidie samenwerkingsprojecten;  
 
-d. het [Besluit subsidies investeringen kennisinfrastructuur](../../../../KB/besluit/subsidies/investeringen/kennisinfrastructuur/BWBR0014472/README.md);   met dien verstande dat deze besluiten van toepassing blijven op de aanvragen om subsidie die voor de inwerkingtreding van dit besluit zijn ingediend en op subsidies die voor de inwerkingtreding van dit besluit zijn verstrekt.   
-2.  De overeenkomsten, gesloten op basis van [artikel 10 van het Besluit borgstelling MKB-kredieten 1997](../../../../AMvB/besluit/borgstelling/mkb-kredieten/1997/BWBR0009052/README.md), worden geacht in stand te blijven tot een nieuwe overeenkomst is gesloten of, indien dit eerder is, tot twee jaar na de datum van inwerkingtreding van dit besluit, behoudens beëindiging van een overeenkomst.   
+d. het Besluit subsidies investeringen kennisinfrastructuur;   met dien verstande dat deze besluiten van toepassing blijven op de aanvragen om subsidie die voor de inwerkingtreding van dit besluit zijn ingediend en op subsidies die voor de inwerkingtreding van dit besluit zijn verstrekt.   
+2.  De overeenkomsten, gesloten op basis van artikel 10 van het Besluit borgstelling MKB-kredieten 1997, worden geacht in stand te blijven tot een nieuwe overeenkomst is gesloten of, indien dit eerder is, tot twee jaar na de datum van inwerkingtreding van dit besluit, behoudens beëindiging van een overeenkomst.   
 
 ### Artikel  55  
 

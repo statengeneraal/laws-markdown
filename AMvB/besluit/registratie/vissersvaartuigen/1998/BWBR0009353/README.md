@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Landbouw, Natuurbeheer en Visserij van 4 december 1997, nr. J. 9713365, Directie Juridische Zaken;
 
-Gelet op [artikel 3 van de Visserijwet 1963](../../../../../../wet/visserijwet/1963/BWBR0002416/README.md);
+Gelet op artikel 3 van de Visserijwet 1963;
 
 De Raad van State gehoord (advies van 17 december 1997, no. W11.97.0777);
 
@@ -15,13 +15,13 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In afwijking in zoverre van [artikel 1, eerste lid, van de Uitvoeringwet Visserijverdrag 1967](../../../../../../wet/uitvoeringswet/visserijverdrag/1967/BWBR0002897/README.md) wordt in dit besluit en de daarop berustende bepalingen verstaan onder: 
+In afwijking in zoverre van artikel 1, eerste lid, van de Uitvoeringwet Visserijverdrag 1967 wordt in dit besluit en de daarop berustende bepalingen verstaan onder: 
 
-a. Onze Minister: Onze Minister van Landbouw, Natuur en Voedselkwaliteit;  
+a. Onze Minister: Onze Minister van Economische Zaken;  
 
 b. vissersvaartuig: 
 
-1°. vaartuig als bedoeld in artikel 3, onderdeel c, van Verordening (EG) nr. 2371/2002 van de Raad van de Europese Unie van 20 december 2002 inzake de instandhouding en de duurzame exploitatie van de visbestanden in het kader van het gemeenschappelijk visserijbeleid (PbEG L 358), dat geldt als Nederlands op grond van [artikel 1, tweede lid, van de Uitvoeringswet Visserijverdrag 1967](../../../../../../wet/uitvoeringswet/visserijverdrag/1967/BWBR0002897/README.md), of  
+1°. vaartuig als bedoeld in artikel 3, onderdeel c, van Verordening (EG) nr. 2371/2002 van de Raad van de Europese Unie van 20 december 2002 inzake de instandhouding en de duurzame exploitatie van de visbestanden in het kader van het gemeenschappelijk visserijbeleid (PbEG L 358), dat geldt als Nederlands op grond van artikel 1, tweede lid, van de Uitvoeringswet Visserijverdrag 1967, of  
 
 2°. vaartuig dat is uitgerust voor de commerciële exploitatie van vis in het IJsselmeer;    
 
@@ -58,8 +58,8 @@ c. Onze Minister geen reden heeft de juistheid van de bij de aanvraag vermelde o
 ### Artikel  6a  
 
 1.  Onze Minister doet de eigenaar van een vaartuig een bewijs van inschrijving in het visserijregister toekomen.   
-2.  Een visvergunning, verleend op grond van [artikel 2, tweede lid, van de Regeling Visvergunning](../../../../../../ministeriele-regeling/regeling/visvergunning/BWBR0016244/README.md) geldt als bewijs van inschrijving in het visserijregister als bedoeld in het eerste lid.   
-3.  De visvergunning, bedoeld in het tweede lid, geldt tevens als het document, bedoeld in [artikel 2, eerste lid, van de Uitvoeringswet Visserijverdrag 1967](../../../../../../wet/uitvoeringswet/visserijverdrag/1967/BWBR0002897/README.md).   
+2.  Een ten behoeve van het vissersvaartuig verleende visvergunning als bedoeld in artikel 6, eerste lid van Verordening (EG) nr. 1224/2009 van de Raad van 20 november 2009 tot vaststelling van een communautaire controleregeling die de naleving van de regels van het gemeenschappelijk visserijbeleid moet garanderen, tot wijziging van Verordeningen (EG) nr. 847/96, (EG) nr. 2371/2002, (EG) nr. 811/2004, (EG) nr. 768/2005, (EG) nr. 2115/2005, (EG) nr. 2166/2005, (EG) nr. 388/2006, (EG) nr. 509/2007, (EG) nr. 676/2007, (EG) nr. 1098/2007, (EG) nr. 1300/2008, (EG) nr. 1342/2008 en tot intrekking van Verordeningen (EEG) nr. 2847/93, (EG) nr. 1627/94 en (EG) nr. 1966/2006 (PbEU 2009, L 343), geldt als bewijs van inschrijving in het visserijregister als bedoeld in het eerste lid.   
+3.  De visvergunning, bedoeld in het tweede lid, geldt tevens als het document, bedoeld in artikel 2, eerste lid, van de Uitvoeringswet Visserijverdrag 1967.   
 
 ### Artikel  7  
 
@@ -67,7 +67,7 @@ c. Onze Minister geen reden heeft de juistheid van de bij de aanvraag vermelde o
 
 a. niet meer gebruikt wordt als vissersvaartuig;  
 
-b. niet meer geldt als Nederlands in de zin van [artikel 1, tweede lid, van de Uitvoeringswet Visserijverdrag 1967](../../../../../../wet/uitvoeringswet/visserijverdrag/1967/BWBR0002897/README.md), of  
+b. niet meer geldt als Nederlands in de zin van artikel 1, tweede lid, van de Uitvoeringswet Visserijverdrag 1967, of  
 
 c. is vergaan of gesloopt,   doet de eigenaar onder wiens naam het betrokken vaartuig in het visserijregister is ingeschreven hiervan mededeling aan Onze Minister op een door Onze Minister vast te stellen en beschikbaar te stellen formulier, zo spoedig mogelijk, doch uiterlijk zes weken nadat de desbetreffende verandering heeft plaatsgevonden.   
 2.  De eigenaar van een vissersvaartuig doet aan Onze Minister op een daarvoor door Onze Minister vast te stellen en beschikbaar te stellen formulier mededeling van elke andere verandering ten aanzien van de gegevens, bedoeld in artikel 4, uiterlijk zes weken nadat de desbetreffende verandering heeft plaatsgevonden.   
@@ -89,11 +89,11 @@ Onze Minister kan de inschrijving in het visserijregister, bedoeld in artikel 6,
 ### Artikel  10  
 
 1.  Na inwerkingtreding van dit besluit geldt de registratie van een vissersvaartuig in het centraal visserijregister, bedoeld in het Registratiebesluit vissersvaartuigen 1964, als een registratie in het visserijregister.   
-2.  Een bewijs, verkregen op grond van het [Besluit nationaliteitsbewijs vissersvaartuigen](../../../../../../AMvB/besluit/nationaliteitsbewijs/vissersvaartuigen/BWBR0002930/README.md), wordt beschouwd als het document, bedoeld in [artikel 2, eerste lid, van de Uitvoeringswet Visserijverdrag 1967](../../../../../../wet/uitvoeringswet/visserijverdrag/1967/BWBR0002897/README.md).   
+2.  Een bewijs, verkregen op grond van het Besluit nationaliteitsbewijs vissersvaartuigen, wordt beschouwd als het document, bedoeld in artikel 2, eerste lid, van de Uitvoeringswet Visserijverdrag 1967.   
 
 ### Artikel  10a  
 
-Dit besluit berust mede op [artikel 2, tweede lid, van de Uitvoeringswet Visserijverdrag 1967](../../../../../../wet/uitvoeringswet/visserijverdrag/1967/BWBR0002897/README.md).  
+Dit besluit berust mede op artikel 2, tweede lid, van de Uitvoeringswet Visserijverdrag 1967.  
 
 ### Artikel  11  
 

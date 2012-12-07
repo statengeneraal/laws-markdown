@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Economische Zaken van 18 juli 1997, nr. 95044394 WJA/W;
 
-Gelet op de [artikelen 18, eerste lid](../../../../../wet/mededingingswet/BWBR0008691/README.md), [35, eerste lid](../../../../../wet/mededingingswet/BWBR0008691/README.md), en [42, tweede lid, van de Mededingingswet](../../../../../wet/mededingingswet/BWBR0008691/README.md);
+Gelet op de artikelen 18, eerste lid, 35, eerste lid, en 42, tweede lid, van de Mededingingswet;
 
 De Raad van State gehoord (advies van 6 oktober 1997, nr. W10.97.0485);
 
@@ -20,163 +20,31 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. wet: [Mededingingswet](../../../../../wet/mededingingswet/BWBR0008691/README.md);  
+a. wet: Mededingingswet;  
 
-b. aanvraag om ontheffing: een aanvraag om ontheffing als bedoeld in [artikel 17 van de wet](../../../../../wet/mededingingswet/BWBR0008691/README.md);  
+b. mededingingsafspraak: een overeenkomst, besluit of onderling afgestemde feitelijke gedraging als bedoeld in artikel 6, eerste lid, van de wet;  
 
-c. mededingingsafspraak: een overeenkomst, besluit of onderling afgestemde feitelijke gedraging als bedoeld in [artikel 6, eerste lid, van de wet](../../../../../wet/mededingingswet/BWBR0008691/README.md);  
+c. melding: een melding van een concentratie als bedoeld in artikel 34 van de wet;  
 
-d. melding: een melding van een concentratie als bedoeld in [artikel 34 van de wet](../../../../../wet/mededingingswet/BWBR0008691/README.md);  
+d. aanvraag om vergunning: een aanvraag om een vergunning voor een concentratie als bedoeld in artikel 41 van de wet;  
 
-e. aanvraag om vergunning: een aanvraag om een vergunning voor een concentratie als bedoeld in [artikel 41 van de wet](../../../../../wet/mededingingswet/BWBR0008691/README.md);  
+e. groep: een groep als bedoeld in artikel 24b van boek 2 van het Burgerlijk Wetboek;  
 
-f. groep: een groep als bedoeld in [artikel 24b van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+f. concentratie: een concentratie in de zin van artikel 27 van de wet;  
 
-g. concentratie: een concentratie in de zin van [artikel 27 van de wet](../../../../../wet/mededingingswet/BWBR0008691/README.md);  
-
-h. door de concentratie te beïnvloeden markten: 
+g. door de concentratie te beïnvloeden markten: 
 
 1°. de markten waarop twee of meer bij de concentratie betrokken ondernemingen werkzaam zijn of  
 
 2°. de markt waarop één of meer van de bij de concentratie betrokken ondernemingen werkzaam is en de markt waarop een andere bij de concentratie betrokken onderneming alsmede leveranciers of afnemers van de eerstbedoelde onderneming of ondernemingen werkzaam zijn;    
 
-i. te onderzoeken markt: een door de concentratie te beïnvloeden markt als bedoeld in onderdeel *h*, onder 1°, waarop de desbetreffende ondernemingen te samen een marktaandeel hebben van ten minste 15%, of een door de concentratie te beïnvloeden markt als bedoeld in onderdeel *h*, onder 2°, waarop één of meer van de desbetreffende bij de concentratie betrokken ondernemingen een marktaandeel heeft van ten minste 20%.    
+h. te onderzoeken markt: een door de concentratie te beïnvloeden markt als bedoeld in onderdeel g, onder 1°, waarop de desbetreffende ondernemingen te samen een marktaandeel hebben van ten minste 15%, of een door de concentratie te beïnvloeden markt als bedoeld in onderdeel g, onder 2°, waarop één of meer van de desbetreffende bij de concentratie betrokken ondernemingen een marktaandeel heeft van ten minste 20%.    
 
 ### Paragraaf  2  
 
 ####Gegevens bij een aanvraag om ontheffing
 
-### Artikel  2  
-
-1.  Bij een aanvraag om ontheffing worden met betrekking tot elke aan de mededingingsafspraak deelnemende onderneming de volgende gegevens verstrekt: 
-
-a. de naam of de handelsnaam;  
-
-b. het adres;  
-
-c. de rechtsvorm;  
-
-d. het telefoonnummer;  
-
-e. in voorkomend geval, het handelsregisternummer en het buitenlandse register waarin en het nummer waaronder zij is ingeschreven;  
-
-f. in voorkomend geval, het telefaxnummer en het elektronisch postadres;  
-
-g. de sector of sectoren waarin zij werkzaam is;  
-
-h. de aard van de werkzaamheden die zij pleegt te verrichten;  
-
-i. de omzet in het voorafgaande kalenderjaar;  
-
-j. de omvang en de waarde van de verkopen van de goederen of diensten waarop de mededingingsafspraak betrekking heeft in het voorafgaande kalenderjaar;  
-
-k. een schatting van het aandeel dat de in onderdeel j bedoelde omvang en waarde vertegenwoordigen op de markt voor de betrokken goederen of diensten;  
-
-l. een schatting van het aandeel dat de in onderdeel j bedoelde omvang en waarde vertegenwoordigen op de markt voor de betrokken goederen of diensten in Nederland.     
-2.  Ten aanzien van elke aan de mededingingsafspraak deelnemende onderneming die deel uit maakt van een groep, worden voorts de volgende gegevens verstrekt: 
-
-a. een aanduiding van de groep;  
-
-b. de naam en het adres van de andere ondernemingen die deel uit maken van de groep;  
-
-c. de zeggenschapsverhoudingen tussen de ondernemingen binnen de groep;  
-
-d. een omschrijving van de sectoren waarin de ondernemingen die deel uit maken van de groep werkzaam zijn;  
-
-e. de naam van elke onderneming die deel uit maakt van de groep en die werkzaam is op de markt waarop de mededingingsafspraak betrekking heeft;  
-
-f. de omzet van de groep in het voorafgaande kalenderjaar.     
-3.  Ten aanzien van elke aan de mededingingsafspraak deelnemende onderneming wordt, indien zij een belang heeft van meer dan 25% maar minder dan 50% in een andere onderneming die werkzaam is op de markt waarop de mededingingsafspraak betrekking heeft, zonder zeggenschap over deze onderneming te hebben, dan wel indien een andere zodanige onderneming een belang heeft van meer dan 25% maar minder dan 50% in de aan de mededingingsafspraak deelnemende onderneming, zonder zeggenschap te hebben over de onderneming, voorts aangegeven: 
-
-a. de naam of handelsnaam van die andere onderneming;  
-
-b. het adres van die andere onderneming;  
-
-c. de sector of de sectoren waarin die andere onderneming werkzaam is;  
-
-d. de aard van de werkzaamheden die de andere onderneming pleegt te verrichten.     
-4.  Het eerste lid is van overeenkomstige toepassing ten aanzien van een aan de mededingingsafspraak deelnemende ondernemersvereniging, met dien verstande dat de in het eerste lid, onderdelen *g* en *h*, bedoelde gegevens worden verstrekt met betrekking tot de leden van de vereniging en dat de in de onderdelen *i*, *j*, *k* en *l* bedoelde gegevens worden verstrekt met betrekking tot de leden van de ondernemersvereniging gezamenlijk.   
-
-### Artikel  3  
-
-Bij een aanvraag om ontheffing worden met betrekking tot de mededingingsafspraak de volgende gegevens verstrekt: 
-
-a. de aard van de afspraak;  
-
-b. het doel van de afspraak;  
-
-c. de aanvangsdatum en de duur;  
-
-d. de soort producten of diensten waarop zij betrekking heeft;  
-
-e. ingeval voor de mededingingsafspraak een standaardovereenkomst wordt gebruikt, een raming van het aantal desbetreffende overeenkomsten dat zal worden gesloten;  
-
-f. de beperkingen die de mededingingsafspraak met zich meebrengt voor de deelnemende ondernemingen of de leden van de deelnemende ondernemersverenigingen, in ieder geval met betrekking tot: 
-
-1°. de in- en verkoopprijzen;  
-
-2°. de handelsvoorwaarden;  
-
-3°. de hoeveelheid te vervaardigen of te verkopen goederen of te verrichten diensten;  
-
-4°. de investeringen;  
-
-5°. de technische ontwikkelingen bij de onderneming;  
-
-6°. de verdeling of toewijzing van markten of van aanvoerbronnen;  
-
-7°. de aankopen bij of de verkopen aan derden;  
-
-8°. de toepassing van gelijke leveringscondities voor gelijkwaardige goederen of diensten;  
-
-9°. het gescheiden of gekoppeld aanbieden van goederen of diensten;    
-
-g. de invloed op het handelsverkeer tussen lid-staten van de Europese Unie.    
-
-### Artikel  4  
-
-Bij een aanvraag om ontheffing worden met betrekking tot de markt waarop de mededingingsafspraak betrekking heeft de volgende gegevens verstrekt: 
-
-a. de structuur van het aanbod;  
-
-b. de structuur van de vraag;  
-
-c. de geografische omvang;  
-
-d. een raming van de totale omzet;  
-
-e. de toetredingsmogelijkheden;  
-
-f. de vervangende producten of diensten.    
-
-### Artikel  5  
-
-Bij een aanvraag om een ontheffing wordt aangegeven of en op welke wijze 
-
-a. de mededingingsafspraak bijdraagt tot verbetering van de productie of de verdeling van goederen of diensten of tot bevordering van de technische of economische vooruitgang,  
-
-b. een billijk aandeel in de uit de in onderdeel *a* bedoelde verbetering of vooruitgang voortvloeiende voordelen ten goede komt aan de gebruikers,  
-
-c. alle mededingingsbeperkende bepalingen in de mededingingsafspraak onmisbaar zijn om de in onderdeel *a* bedoelde doelstellingen te bereiken,  
-
-d. de mededingingsafspraak niet de mededinging voor een wezenlijk deel van betrokken goederen of diensten uitschakelt.    
-
-### Artikel  6  
-
-Bij een aanvraag om ontheffing wordt aangegeven welke procedures bij de mededingingsautoriteit, een Nederlandse rechter, de Commissie van de Europese Gemeenschappen, dan wel een buitenlandse rechter of mededingingsautoriteit gaande zijn of in het verleden zijn gevoerd met betrekking tot de mededingingsafspraak of een aanverwante overeenkomst, een aanverwant besluit of aanverwante onderling afgestemde feitelijke gedraging.  
-
-### Artikel  7  
-
-1.  Bij een aanvraag om ontheffing worden de volgende documenten overgelegd: 
-
-a. de jaarrekening over het laatst afgesloten boekjaar van alle aan de mededingingsafspraak deelnemende ondernemingen;  
-
-b. in voorkomend geval de geconsolideerde jaarrekening van elke groep waarvan elke aan de mededingingsafspraak deelnemende onderneming deel uit maakt en de jaarrekening van de in artikel 2, tweede lid, onderdeel *e*, bedoelde ondernemingen;  
-
-c. indien de mededingingsafspraak op schrift is gesteld, een afschrift van de desbetreffende stukken;  
-
-d. ingeval inzake de mededingingsafspraak één of meer vertegenwoordigingsbevoegden zijn aangewezen, een bewijsstuk waaruit de vertegenwoordigingsbevoegdheid blijkt.     
-2.  Ten aanzien van een aan een mededingingsafspraak deelnemende ondernemersvereniging zijn de onderdelen *a* en *b* van het eerste lid niet van toepassing.   
+Vervallen per 07-12-2012   
 
 ### Paragraaf  3  
 
@@ -204,9 +72,9 @@ h. de aard van de werkzaamheden die zij verricht;
 
 i. de naam, het adres, het telefoonnummer en de functie van de contactpersoon die haar vertegenwoordigt;  
 
-j. de volgens [artikel 30 van de wet](../../../../../wet/mededingingswet/BWBR0008691/README.md) te bepalen totale omzet over het voorafgaande kalenderjaar, alsmede de omzet in Nederland in dat jaar, uitgedrukt in euro’s, in voorkomend geval omgerekend vanuit een andere geldeenheid naar de gemiddelde koers in dat jaar van die andere geldeenheid, zoals gepubliceerd door De Nederlandsche Bank N.V. in de Officiële prijscourant Amsterdam Exchanges;     
-2.  Indien een bij de concentratie betrokken onderneming een kredietinstelling of een financiële instelling is in de zin van de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), worden in plaats van de in het eerste lid, onderdeel *j*, bedoelde omzetten de waarde van de vaste en van de vlottende activa, bedoeld in [artikel 364, tweede en derde lid, van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), alsmede de waarde van de materiële vaste activa in Nederland, aan het slot van het voorafgaande boekjaar aangegeven.   
-3.  Indien een bij een concentratie betrokken onderneming een verzekeraar is in de zin van de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) worden in plaats van de in het eerste lid, onderdeel *j*, bedoelde omzetten, de waarden aangegeven van de bruto geboekte premies in het voorafgaande boekjaar.   
+j. de volgens artikel 30 van de wet te bepalen totale omzet over het voorafgaande kalenderjaar, alsmede de omzet in Nederland in dat jaar, uitgedrukt in euro’s, in voorkomend geval omgerekend vanuit een andere geldeenheid naar de gemiddelde koers in dat jaar van die andere geldeenheid, zoals gepubliceerd door De Nederlandsche Bank N.V. in de Officiële prijscourant Amsterdam Exchanges;     
+2.  Indien een bij de concentratie betrokken onderneming een bank of een financiële instelling is in de zin van de Wet op het financieel toezicht, worden in plaats van de in het eerste lid, onderdeel *j*, bedoelde omzetten de waarde van de vaste en van de vlottende activa, bedoeld in artikel 364, tweede en derde lid, van boek 2 van het Burgerlijk Wetboek, alsmede de waarde van de materiële vaste activa in Nederland, aan het slot van het voorafgaande boekjaar aangegeven.   
+3.  Indien een bij een concentratie betrokken onderneming een verzekeraar is in de zin van de Wet op het financieel toezicht worden in plaats van de in het eerste lid, onderdeel *j*, bedoelde omzetten, de waarden aangegeven van de bruto geboekte premies in het voorafgaande boekjaar.   
 4.  Ten aanzien van elke bij de concentratie betrokken onderneming die deel uit maakt van een groep, worden voorts de volgende gegevens verstrekt: 
 
 a. een aanduiding van de groep;  
@@ -241,7 +109,7 @@ b. de namen, adressen, telefoonnummers, contactpersonen en, in voorkomend geval,
 
 ### Artikel  11a  
 
-Bij een melding wordt aangegeven welke overeenkomsten, besluiten en gedragingen als bedoeld in [artikel 6 van de wet](../../../../../wet/mededingingswet/BWBR0008691/README.md) naar het oordeel van de bij de concentratie betrokken ondernemingen rechtstreeks verbonden zijn aan de concentratie en noodzakelijk zijn voor de verwezenlijking van de concentratie.  
+Bij een melding wordt aangegeven welke overeenkomsten, besluiten en gedragingen als bedoeld in artikel 6 van de wet naar het oordeel van de bij de concentratie betrokken ondernemingen rechtstreeks verbonden zijn aan de concentratie en noodzakelijk zijn voor de verwezenlijking van de concentratie.  
 
 ### Artikel  12  
 
