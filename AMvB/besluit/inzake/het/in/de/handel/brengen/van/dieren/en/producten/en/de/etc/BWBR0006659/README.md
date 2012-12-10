@@ -8,7 +8,7 @@ Op de voordracht van de Staatssecretaris van Landbouw, Natuurbeheer en Visserij 
 
 Gelet op Richtlijn nr. 89/662/EEG van de Raad van de Europese Gemeenschappen van 11 december 1989 inzake veterinaire controles in het intracommunautaire handelsverkeer in het vooruitzicht van de totstandbrenging van de interne markt (*Pb EG* L 395), Richtlijn No. 90/425/EEG van de Raad van de Europese Gemeenschappen van 26 juni 1990 inzake veterinaire en zoötechnische controles in het intracommunautaire handelsverkeer in bepaalde levende dieren en produkten in het vooruitzicht van de totstandbrenging van de interne markt (*Pb EG* L 224), Richtlijn nr. 90/675/EEG van de Raad van de Europese Gemeenschappen van 10 december 1990 tot vaststelling van de beginselen voor de organisatie van de veterinaire controles voor produkten uit derde landen die in de Gemeenschap worden binnengebracht (*Pb EG* L 373), Richtlijn nr. 91/496/EEG van de Raad van de Europese Gemeenschappen van 15 juli 1991 tot vaststelling van de beginselen voor de organisatie van de veterinaire controles voor dieren uit derde landen die in de Gemeenschap worden binnengebracht en tot wijziging van de Richtlijnen 89/662/EEG, 90/425/EEG en 90/675/EEG (*Pb EG* L 268), Beschikking nr. 93/13/EEG van de Commissie van de Europese Gemeenschappen van 22 december 1992 tot vaststelling van de procedures voor de veterinaire controles in de inspectieposten aan de grens van de Gemeenschap bij het binnenbrengen van produkten uit derde landen (*Pb EG* L 9) en Beschikking nr. 93/14/EEG van de Commissie van de Europese Gemeenschappen van 23 december 1992 tot vaststelling van uitvoeringsbepalingen inzake de veterinaire controles van produkten uit derde landen in vrije entrepots, vrije zones en douane-entrepots, alsmede tijdens het vervoer van een derde land naar een ander derde land via de Gemeenschap (*Pb EG* L 9);
 
-Gelet op de artikelen 78, 108 en 111 van de Gezondheids- en welzijnswet voor dieren;
+Gelet op de [artikelen 78](../../../../../../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [108](../../../../../../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [111 van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);
 
 Gezien het advies van de Raad voor Dierenaangelegenheden, het Landbouwschap, het Produktschap Vee en Vlees, het Produktschap voor Pluimvee en Eieren, het Produktschap voor Vis en Visprodukten, het Bedrijfschap voor de Pluimveehandel en -industrie en het Bedrijfschap voor de Handel in Vee;
 
@@ -19,7 +19,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder: 
+In dit besluit wordt verstaan onder:  
 
 a. richtlijn nr. 89/662/EEG: Richtlijn van de Raad van de Europese Gemeenschappen van 11 december 1989 inzake veterinaire controles in het intracommunautaire handelsverkeer in het vooruitzicht van de totstandbrenging van de interne markt (*PbEG* L 395);  
 
@@ -31,11 +31,11 @@ d. richtlijn nr. 91/496/EEG: Richtlijn van de Raad van de Europese Gemeenschappe
 
 e. belanghebbende bij de lading: belanghebbende bij de lading als bedoeld in artikel 2, tweede lid, onderdeel e, van richtlijn nr. 97/78/EG;  
 
-f. wet: Gezondheids- en welzijnswet voor dieren.    
+f. wet: [Gezondheids- en welzijnswet voor dieren](../../../../../../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md).   
 
 ### Artikel  2  
 
-1.  Onze Minister kan, ter uitvoering van de richtlijnen nrs. 89/662/EEG, 90/425/EEG, 91/496/EEG en 97/78/EG, de door de Europese Commissie op grond van richtlijn nr. 97/78/EG vastgestelde uitvoeringsbepalingen, alsmede ter uitvoering van de besluiten, bedoeld in artikel 33, tweede zin, van richtlijn nr. 97/78/EG, onder nader door hem te stellen regelen bepalen dat, indien dieren of producten van dierlijke oorsprong op grond van het bepaalde krachtens artikel 10 van de wet dan wel op grond van de artikelen 8 of  9, eerste en tweede lid, van het Fokkerijbesluit of van het bepaalde krachtens de artikelen 7, tweede lid, 9, vierde lid, of  10 van laatstgenoemd besluit, niet in Nederland hadden mogen worden gebracht: 
+1.  Onze Minister kan, ter uitvoering van de richtlijnen nrs. 89/662/EEG, 90/425/EEG, 91/496/EEG en 97/78/EG, de door de Europese Commissie op grond van richtlijn nr. 97/78/EG vastgestelde uitvoeringsbepalingen, alsmede ter uitvoering van de besluiten, bedoeld in artikel 33, tweede zin, van richtlijn nr. 97/78/EG, onder nader door hem te stellen regelen bepalen dat, indien dieren of producten van dierlijke oorsprong op grond van het bepaalde krachtens [artikel 10 van de wet](../../../../../../../../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) dan wel op grond van de [artikelen 8](../../../../../../../../../../../../../../../../AMvB/fokkerijbesluit/BWBR0006862/README.md) of [9, eerste en tweede lid, van het Fokkerijbesluit](../../../../../../../../../../../../../../../../AMvB/fokkerijbesluit/BWBR0006862/README.md) of van het bepaalde krachtens de [artikelen 7, tweede lid](../../../../../../../../../../../../../../../../AMvB/fokkerijbesluit/BWBR0006862/README.md), [9, vierde lid](../../../../../../../../../../../../../../../../AMvB/fokkerijbesluit/BWBR0006862/README.md), of [10 van laatstgenoemd besluit](../../../../../../../../../../../../../../../../AMvB/fokkerijbesluit/BWBR0006862/README.md), niet in Nederland hadden mogen worden gebracht: 
 
 a. voor rekening van de belanghebbende bij de lading: 
 
@@ -51,7 +51,7 @@ b. voor rekening van de importeur of diens gemachtigde:
 
 – dieren worden doorgezonden naar een plaats die buiten het in bijlage I van richtlijn nr. 97/78/EG omschreven grondgebied is gelegen, worden geslacht dan wel gedood en vernietigd;    
 
-c. voor rekening van de verzender, diens gemachtigde of degene die met de zorg van de dieren of de producten van dierlijke oorsprong is belast: 
+c. voor rekening van de verzender, diens gemachtigde of degene die met de zorg van de dieren of de producten van dierlijke oorsprong is belast:  
 
 - dieren in tijdelijke afzondering worden geplaatst:  
 
@@ -63,7 +63,7 @@ c. voor rekening van de verzender, diens gemachtigde of degene die met de zorg v
 
 - dieren of producten van dierlijke oorsprong worden teruggezonden;    
 
-d. voor rekening van de afnemer: 
+d. voor rekening van de afnemer:  
 
 - producten van dierlijke oorsprong worden vernietigd;  
 
@@ -74,7 +74,7 @@ d. voor rekening van de afnemer:
 
 ### Artikel  3  
 
-Onze Minister kan onder nader door hem te stellen regelen bepalen dat de maatregelen worden genomen die de Europese Commissie op grond van artikel 8, eerste lid, onderdeel a, laatste alinea, van richtlijn nr. 90/425/EEG en van artikel 7, eerste lid, onderdeel a, laatste alinea, van richtlijn nr. 89/662/EEG heeft vastgesteld.  
+Onze Minister kan onder nader door hem te stellen regelen bepalen dat de maatregelen worden genomen die de Europese Commissie op grond van artikel 8, eerste lid, onderdeel a, laatste alinea, van richtlijn nr. 90/425/EEG en van artikel 7, eerste lid, onderdeel a, laatste alinea, van richtlijn nr. 89/662/EEG heeft vastgesteld. 
 
 ### Artikel  4  
 
@@ -90,33 +90,33 @@ c. de erkenning van entrepots als bedoeld in onderdeel a.
 
 a. de controles die worden verricht, op grond van de krachtens het eerste lid, onderdeel a, gestelde regelen, bij de inslag in of de uitslag uit een entrepot van producten als bedoeld in het eerste lid, onderdeel a;  
 
-b. de verlening en de instandhouding van de erkenningen, bedoeld in het eerste lid, onderdeel c.     
+b. de verlening en de instandhouding van de erkenningen, bedoeld in het eerste lid, onderdeel c.    
 
 ### Artikel  5  
 
-Onze Minister kan ter uitvoering van krachtens het Verdrag tot oprichting van de Europese Gemeenschap vastgestelde verplichtingen inzake de diergezondheid regelen stellen met betrekking tot het in Nederland in de handel brengen van dieren en producten van dierlijke oorsprong.  
+Onze Minister kan ter uitvoering van krachtens het Verdrag tot oprichting van de Europese Gemeenschap vastgestelde verplichtingen inzake de diergezondheid regelen stellen met betrekking tot het in Nederland in de handel brengen van dieren en producten van dierlijke oorsprong. 
 
 ### Artikel  8  
 
-Onze Minister kan ter uitvoering van de richtlijnen nrs. 89/662/EEG, 90/425/EEG, 97/78/EG en 91/496/EEG regelen stellen inzake veterinairrechtelijke of zoötechnische controles.  
+Onze Minister kan ter uitvoering van de richtlijnen nrs. 89/662/EEG, 90/425/EEG, 97/78/EG en 91/496/EEG regelen stellen inzake veterinairrechtelijke of zoötechnische controles. 
 
 ### Artikel  9  
 
-Bevat wijzigingen in andere regelgeving.   
+Bevat wijzigingen in andere regelgeving.  
 
 ### Artikel  10  
 
 1.  Een wijziging van één of meer onderdelen van de in artikel 1 genoemde richtlijnen treedt voor de toepassing van de artikelen van dit besluit, waarin naar die onderdelen wordt verwezen, in werking met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de *Staatscourant* wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.   
-2.  Een wijziging van één of meer onderdelen van de in artikel 1 genoemde beschikkingen treedt voor de toepassing van de artikelen van dit besluit, waarin naar die onderdelen wordt verwezen, in werking met ingang van de dag waarop aan de betrokken wijzigingsbeschikking uitvoering moet zijn gegeven.   
-3.  Onze Minister doet van een wijzigingsrichtlijn of -beschikking als bedoeld in het eerste en tweede lid mededeling in de *Staatscourant*.   
+2.   Een wijziging van één of meer onderdelen van de in artikel 1 genoemde beschikkingen treedt voor de toepassing van de artikelen van dit besluit, waarin naar die onderdelen wordt verwezen, in werking met ingang van de dag waarop aan de betrokken wijzigingsbeschikking uitvoering moet zijn gegeven.   
+3.   Onze Minister doet van een wijzigingsrichtlijn of -beschikking als bedoeld in het eerste en tweede lid mededeling in de *Staatscourant*.  
 
 ### Artikel  11  
 
-Dit besluit wordt aangehaald als: Besluit inzake het in de handel brengen van dieren en producten en de toepassing van maatregelen met betrekking tot in Nederland gebrachte dieren en producten.  
+Dit besluit wordt aangehaald als: Besluit inzake het in de handel brengen van dieren en producten en de toepassing van maatregelen met betrekking tot in Nederland gebrachte dieren en producten. 
 
 ### Artikel  12  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst.   
 
