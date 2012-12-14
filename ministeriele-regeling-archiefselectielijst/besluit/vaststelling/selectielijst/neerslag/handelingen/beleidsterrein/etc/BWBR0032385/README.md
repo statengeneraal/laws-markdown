@@ -10,34 +10,34 @@ BESLUITEN:
 
 ### Artikel  1  
 
-De bij dit besluit gevoegde ‘ selectielijst voor de neerslag van de handelingen van de onder de minister Veiligheid en Justitie ressorterende actor De Hoge Raad op het beleidsterrein Rechterlijke Macht over de periode vanaf 1945 ’ en de daarbij behorende toelichting worden vastgesteld.  
+De bij dit besluit gevoegde ‘selectielijst voor de neerslag van de handelingen van de onder de minister Veiligheid en Justitie ressorterende actor De Hoge Raad op het beleidsterrein Rechterlijke Macht over de periode vanaf 1945’ en de daarbij behorende toelichting worden vastgesteld. 
 
 ### Artikel  2  
 
-De ‘ [selectielijst voor de neerslag van de handelingen van de Minister van Justitie en de onder hem ressorterende actoren op het beleidsterrein Rechterlijke macht over de periode vanaf 1950](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0020957/README.md) ’ (vastgesteld bij beschikking van de minister van Onderwijs, Cultuur en Wetenschap en de minister van Justitie, nr. C/S&A/06/3399 d.d. 12 december 2006 (gepubliceerd in de Staatscourant nr. 5 d.d. 8 januari 2007)) wordt ingetrokken voor de actor De Hoge Raad. De ‘ [selectielijst voor de neerslag van de handelingen van de Minister van Justitie en de onder hem ressorterende actoren op het beleidsterrein Gratie over de periode vanaf 1945](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0020166/README.md) ’ (vastgesteld bij beschikking van de staatssecretaris van Onderwijs, Cultuur en Wetenschap en de minister van Justitie, nr. C/S&A/06/1893 d.d. 15 augustus 2006 (gepubliceerd in de Staatscourant nr. 237 d.d. 5 december 2006)) wordt ingetrokken voor de actor De Hoge Raad. De ‘ [selectielijst voor de neerslag van de handelingen van de Minister van Justitie en de onder hem ressorterende actoren op het beleidsterrein Vermogensrecht over de periode vanaf 1945](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023654/README.md) ’ (vastgesteld bij beschikking van de minister van Onderwijs, Cultuur en Wetenschap en de minister van Justitie, nr. C/S&A/08/84 d.d. 6 maart 2008 (gepubliceerd in de Staatscourant nr. 58 d.d. 25 maart 2008)) wordt ingetrokken voor de actor De Hoge Raad.  
+De ‘[selectielijst voor de neerslag van de handelingen van de Minister van Justitie en de onder hem ressorterende actoren op het beleidsterrein Rechterlijke macht over de periode vanaf 1950](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0020957/README.md)’ (vastgesteld bij beschikking van de minister van Onderwijs, Cultuur en Wetenschap en de minister van Justitie, nr. C/S&A/06/3399 d.d. 12 december 2006 (gepubliceerd in de Staatscourant nr. 5 d.d. 8 januari 2007)) wordt ingetrokken voor de actor De Hoge Raad. De ‘[selectielijst voor de neerslag van de handelingen van de Minister van Justitie en de onder hem ressorterende actoren op het beleidsterrein Gratie over de periode vanaf 1945](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0020166/README.md)’ (vastgesteld bij beschikking van de staatssecretaris van Onderwijs, Cultuur en Wetenschap en de minister van Justitie, nr. C/S&A/06/1893 d.d. 15 augustus 2006 (gepubliceerd in de Staatscourant nr. 237 d.d. 5 december 2006)) wordt ingetrokken voor de actor De Hoge Raad. De ‘[selectielijst voor de neerslag van de handelingen van de Minister van Justitie en de onder hem ressorterende actoren op het beleidsterrein Vermogensrecht over de periode vanaf 1945](../../../../../../../../../ministeriele-regeling-archiefselectielijst/besluit/vaststelling/selectielijst/neerslag/handelingen/beleidsterrein/etc/BWBR0023654/README.md)’ (vastgesteld bij beschikking van de minister van Onderwijs, Cultuur en Wetenschap en de minister van Justitie, nr. C/S&A/08/84 d.d. 6 maart 2008 (gepubliceerd in de Staatscourant nr. 58 d.d. 25 maart 2008)) wordt ingetrokken voor de actor De Hoge Raad. 
 
 ### Artikel  3  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin het wordt geplaatst. 
 De minister van Onderwijs, Cultuur en Wetenschap is belast met de uitvoering van dit besluit dat in de Staatscourant zal worden geplaatst.   
 
 Den Haag 
 6 november 2012   
 
 De 
-minister van Onderwijs, Cultuur en Wetenschap,namens deze,
-De algemene rijksarchivaris,
-M.J.Berendse 
+minister van Onderwijs, Cultuur en Wetenschap, namens deze, 
+De algemene rijksarchivaris, 
+M.J. Berendse   
 
 De 
-minister van Veiligheid en Justitie,namens deze,
-De Directeur Bedrijfsvoering Hoge Raad,
-Ä.R.Rotscheid 
+minister van Veiligheid en Justitie, namens deze, 
+De Directeur Bedrijfsvoering Hoge Raad, 
+Ä.R. Rotscheid   
 
-De Hoge Raad en het Parket bij de Hoge Raad namens deze,
-De Griffier van de Hoge Raad,
-J.Storm  
+De Hoge Raad en het Parket bij de Hoge Raadnamens deze, 
+De Griffier van de Hoge Raad, 
+J. Storm    
 
-### Selectielijst  
+###Selectielijst 
 
-Gepubliceerd op www.nationaalarchief.nl/waardering-selectie/selectielijsten.  
+Gepubliceerd op www.nationaalarchief.nl/waardering-selectie/selectielijsten.

@@ -12,17 +12,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *Minister:* de Minister van Justitie;  
+a.  *Minister:* de Minister van Veiligheid en Justitie;  
 
-b. *wet:* de [Algemene wet erkenning EG-beroepskwalificaties](../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
+b.  *wet:* de [Algemene wet erkenning EG-beroepskwalificaties](../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
 
-c. *aanvraag:* de aanvraag van een migrerende beroepsbeoefenaar tot het verkrijgen van een erkenning van EG-beroepskwalificaties, bedoeld in [artikel 5 van de wet](../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), ten aanzien van een met name genoemd gereglementeerd rechterlijk beroep;  
+c.  *aanvraag:* de aanvraag van een migrerende beroepsbeoefenaar tot het verkrijgen van een erkenning van EG-beroepskwalificaties, bedoeld in [artikel 5 van de wet](../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), ten aanzien van een met name genoemd gereglementeerd rechterlijk beroep;  
 
-d. *aanvrager:* de migrerende beroepsbeoefenaar die een aanvraag indient;  
+d.  *aanvrager:* de migrerende beroepsbeoefenaar die een aanvraag indient;  
 
-e. *proeve van bekwaamheid:* de proeve van bekwaamheid, bedoeld in [artikel 1 van de wet](../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
+e.  *proeve van bekwaamheid:* de proeve van bekwaamheid, bedoeld in [artikel 1 van de wet](../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
 
-f.  *gereglementeerd rechterlijk beroep:*  
+f. *gereglementeerd rechterlijk beroep:*
 
 1°. rechterlijk ambtenaar met rechtspraak belast, werkzaam bij de Hoge Raad, een gerechtshof of een rechtbank;  
 
@@ -38,7 +38,7 @@ f.  *gereglementeerd rechterlijk beroep:*
 
 7°. griffier of substituut-griffier van de Hoge Raad;  
 
-8°. rechterlijk ambtenaar in opleiding.      
+8°. rechterlijk ambtenaar in opleiding.     
 
 ### Artikel  2  
 
@@ -59,7 +59,7 @@ c. een overzicht van vakken die deel hebben uitgemaakt van de opleidingen, bedoe
 
 d. in voorkomend geval een bewijs van de beroepservaring, waaronder inzicht in de duur van deze beroepservaring en de onderdelen en inhoud waaruit de beroepswerkzaamheden hebben bestaan.     
 3.  De Minister kan ter vaststelling van wezenlijke verschillen als bedoeld in [artikel 11, tweede lid, van de wet](../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), verlangen dat nadere informatie wordt verstrekt over de opleiding en beroepservaring.   
-4.  De Minister kan verlangen dat de gegevens en bescheiden, bedoeld in het tweede lid, onderdelen b tot en met d, en het tweede lid, die zijn gesteld in een andere dan de Nederlandse taal, vergezeld gaan van vertalingen in de Nederlandse taal, en dat deze vertalingen zijn opgesteld door een beëdigd tolk of vertaler.   
+4.  De Minister kan verlangen dat de gegevens en bescheiden, bedoeld in het tweede lid, onderdelen b tot en met d, en het tweede lid, die zijn gesteld in een andere dan de Nederlandse taal, vergezeld gaan van vertalingen in de Nederlandse taal, en dat deze vertalingen zijn opgesteld door een beëdigd tolk of vertaler.  
 
 ### Artikel  3  
 
@@ -88,21 +88,21 @@ d. wordt geïnformeerd over degene aan wie de kosten van de proeve van bekwaamhe
 
 e. binnen vier weken schriftelijk wordt meegedeeld wat het resultaat van het afleggen van de proeve van bekwaamheid is.     
 5.  De aanvrager die voor een of meer onderdelen van de proeve van bekwaamheid het examen niet met goed gevolg heeft afgelegd, kan voor elk van die onderdelen opnieuw een examen afleggen. De met goed gevolg afgelegde examens behouden hun geldigheid gedurende vijf jaar.   
-6.  De proeve van bekwaamheid wordt in de Nederlandse taal afgelegd.   
+6.  De proeve van bekwaamheid wordt in de Nederlandse taal afgelegd.  
 
 ### Artikel  4  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  5  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties rechterlijke beroepen.  
+Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties rechterlijke beroepen. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Justitie, 
-E.M.H.Hirsch Ballin   
+Minister van Justitie,
+E.M.H. Hirsch Ballin     

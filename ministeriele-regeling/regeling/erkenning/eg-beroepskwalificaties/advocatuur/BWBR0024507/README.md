@@ -17,11 +17,11 @@ a. wet: [Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/a
 
 b. aanvrager: de migrerende beroepsbeoefenaar die een aanvraag doet om erkenning van de beroepskwalificaties voor advocaat;  
 
-c. algemene raad: de algemene raad van de Nederlandse orde van advocaten, bedoeld in [artikel 18, eerste lid, van de Advocatenwet](../../../../../../wet/advocatenwet/BWBR0002093/README.md).    
+c. algemene raad: de algemene raad van de Nederlandse orde van advocaten, bedoeld in [artikel 18, eerste lid, van de Advocatenwet](../../../../../../wet/advocatenwet/BWBR0002093/README.md).   
 
 ### Artikel  2  
 
-De taken en bevoegdheden van de Minister van Justitie, bedoeld in de [artikelen 1](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [5](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [6](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [8](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [11](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [12](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [13](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [17](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [19](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [32](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [34, tweede lid](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), en [35 van de wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) worden uitgevoerd door de algemene raad voor zover het de advocatuur betreft.  
+De taken en bevoegdheden van de Minister van Veiligheid en Justitie, bedoeld in de [artikelen 1](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [5](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [6](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [8](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [11](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [12](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [13](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [17](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [19](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [32](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [34, tweede lid](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), en [35 van de wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) worden uitgevoerd door de algemene raad voor zover het de advocatuur betreft. 
 
 ### Hoofdstuk  2  
 
@@ -52,7 +52,7 @@ g. een document waaruit blijkt dat de migrerende advocaat niet in staat van fail
 
 h. documenten afgegeven door het bevoegd gezag van de betrokken staat van oorsprong of herkomst waaruit blijkt dat aan de aanvrager geen tijdelijk of permanent tuchtrechtelijk of strafrechtelijk beroepsuitoefeningsverbod is opgelegd.     
 3.  Naar aanleiding van de door hem overgelegde bescheiden verschaft de aanvrager desgevraagd met het oog op het kunnen vaststellen van wezenlijke verschillen met de in Nederland vereiste opleiding de algemene raad nadere informatie over zijn opleiding.   
-4.  Van de bescheiden en andere informatie die de aanvrager overlegt, wordt tevens een door een beëdigd tolk of vertaler opgestelde Nederlandse vertaling overgelegd.   
+4.  Van de bescheiden en andere informatie die de aanvrager overlegt, wordt tevens een door een beëdigd tolk of vertaler opgestelde Nederlandse vertaling overgelegd.  
 
 ### Artikel  4  
 
@@ -65,7 +65,7 @@ b. de wijze waarop de proeve van bekwaamheid wordt afgenomen;
 
 c. de termijn waarbinnen de proeve van bekwaamheid dient te geschieden, en  
 
-d. de kosten die aan het afleggen van de proeve van bekwaamheid of een examen zijn verbonden.     
+d. de kosten die aan het afleggen van de proeve van bekwaamheid of een examen zijn verbonden.    
 
 ### Artikel  5  
 
@@ -81,12 +81,12 @@ c. wordt geïnformeerd over het vereiste studiemateriaal;
 
 d. wordt geïnformeerd over degene aan wie de kosten van de proeve van bekwaamheid of van het examen moeten worden voldaan, en  
 
-e. binnen vier weken schriftelijk wordt meegedeeld wat het resultaat van het afleggen van de proeve van bekwaamheid is.     
+e. binnen vier weken schriftelijk wordt meegedeeld wat het resultaat van het afleggen van de proeve van bekwaamheid is.    
 
 ### Artikel  6  
 
 1.  De aanvrager die voor één of meer onderdelen van de proeve van bekwaamheid wordt afgewezen, kan voor elk van die onderdelen opnieuw een examen afleggen. De met goed gevolg afgelegde examens behouden hun geldigheid gedurende vijf jaar.   
-2.  De proeve van bekwaamheid en het examen worden in de Nederlandse taal afgelegd.   
+2.  De proeve van bekwaamheid en het examen worden in de Nederlandse taal afgelegd.  
 
 ### Hoofdstuk  3  
 
@@ -94,17 +94,17 @@ e. binnen vier weken schriftelijk wordt meegedeeld wat het resultaat van het afl
 
 ### Artikel  7  
 
-De [regeling EG-verklaring advocaten 1996](../../../../../../ministeriele-regeling/regeling/eg-verklaring/advocaten/1996/BWBR0008351/README.md) wordt ingetrokken.  
+De [regeling EG-verklaring advocaten 1996](../../../../../../ministeriele-regeling/regeling/eg-verklaring/advocaten/1996/BWBR0008351/README.md) wordt ingetrokken. 
 
 ### Artikel  8  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  9  
 
-Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties advocatuur.  
+Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties advocatuur. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Staatssecretaris van Justitie, 
-N.Albayrak   
+N. Albayrak     

@@ -12,17 +12,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *kandidaat-notaris:* de kandidaat-notaris, bedoeld in [artikel 1, onder b, van de Wet op het notarisambt](../../../../../../wet/notariswet/BWBR0010388/README.md);  
+a.  *kandidaat-notaris:* de kandidaat-notaris, bedoeld in [artikel 1, onder b, van de Wet op het notarisambt](../../../../../../wet/notariswet/BWBR0010388/README.md);  
 
-b. *wet:* de [Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
+b.  *wet:* de [Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
 
-c. *KNB:* de Koninklijke Notariële Beroepsorganisatie, bedoeld in [artikel 1, onderdeel h, van de Wet op het notarisambt](../../../../../../wet/notariswet/BWBR0010388/README.md).    
+c.  *KNB:* de Koninklijke Notariële Beroepsorganisatie, bedoeld in [artikel 1, onderdeel h, van de Wet op het notarisambt](../../../../../../wet/notariswet/BWBR0010388/README.md).   
 
 ### Artikel  2  
 
 ####KNB
 
-De taken en bevoegdheden van de Minister van Justitie, bedoeld in de [artikelen 5](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [6](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [8](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [11](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [12](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [13](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [17](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [19](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [32](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [34, tweede lid](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), en [35 van de wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), met betrekking tot het beroep van kandidaat-notaris, worden uitgevoerd, respectievelijk uitgeoefend door de KNB.  
+De taken en bevoegdheden van de Minister van Veiligheid en Justitie, bedoeld in de [artikelen 5](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [6](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [8](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [11](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md),[12](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [13](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [17](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [19](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [32](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), [34, tweede lid](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), en [35 van de wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), met betrekking tot het beroep van kandidaat-notaris, worden uitgevoerd, respectievelijk uitgeoefend door de KNB. 
 
 ### Artikel  3  
 
@@ -43,7 +43,7 @@ c. een overzicht van vakken die deel hebben uitgemaakt van de opleidingen, bedoe
 
 d. in voorkomend geval een bewijs van de beroepservaring, waaronder inzicht in de duur van deze beroepservaring en de onderdelen en inhoud waaruit de beroepswerkzaamheden hebben bestaan.     
 3.  De KNB kan ter vaststelling van wezenlijke verschillen als bedoeld in [artikel 11, tweede lid, van de wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), verlangen dat nadere informatie wordt verstrekt over de opleiding en beroepservaring.   
-4.  De KNB kan verlangen dat de gegevens en bescheiden, bedoeld in het tweede lid, onderdelen b tot en met d, en het derde lid, die zijn gesteld in een andere dan de Nederlandse taal, vergezeld gaan van vertalingen in de Nederlandse taal, opgesteld door een beëdigd tolk of vertaler.   
+4.  De KNB kan verlangen dat de gegevens en bescheiden, bedoeld in het tweede lid, onderdelen b tot en met d, en het derde lid, die zijn gesteld in een andere dan de Nederlandse taal, vergezeld gaan van vertalingen in de Nederlandse taal, opgesteld door een beëdigd tolk of vertaler.  
 
 ### Artikel  4  
 
@@ -72,21 +72,21 @@ d. wordt geïnformeerd over degene aan wie de kosten van de proeve van bekwaamhe
 
 e. binnen vier weken schriftelijk wordt meegedeeld wat het resultaat van het afleggen van de proeve van bekwaamheid is.     
 5.  De aanvrager die voor een of meer onderdelen van de proeve van bekwaamheid het examen niet met goed gevolg heeft afgelegd, kan voor elk van die onderdelen opnieuw een examen afleggen. De met goed gevolg afgelegde examens behouden hun geldigheid gedurende vijf jaar.   
-6.  De proeve van bekwaamheid wordt in de Nederlandse taal afgelegd.   
+6.  De proeve van bekwaamheid wordt in de Nederlandse taal afgelegd.  
 
 ### Artikel  5  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  6  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties kandidaat-notaris.  
+Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties kandidaat-notaris. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Staatssecretaris van Justitie, 
-N.Albayrak   
+Staatssecretaris van Justitie,
+N. Albayrak     

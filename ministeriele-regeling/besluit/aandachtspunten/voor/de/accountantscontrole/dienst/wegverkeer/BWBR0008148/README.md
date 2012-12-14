@@ -4,13 +4,13 @@
 
 De Minister van Verkeer en Waterstaat,  
 Gelet op [artikel 4t, derde lid, van de Wegenverkeerswet 1994](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
 ####Begripsbepalingen
 
-In dit besluit wordt verstaan onder:   a.  *de dienst:*   de Dienst Wegverkeer    b.  *de wet:*   de [Wegenverkeerswet 1994](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)     
+In dit besluit wordt verstaan onder: a.*de dienst:* de Dienst Wegverkeerb.*de wet:* de [Wegenverkeerswet 1994](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)  
 
 ### Artikel  2  
 
@@ -18,20 +18,20 @@ In dit besluit wordt verstaan onder:   a.  *de dienst:*   de Dienst Wegverkeer  
 
 1.  De volgende elementen zijn aandachtspunten voor de accountantscontrole: 
 
-a. de wijze van toepassing van het in [artikel 4y van de wet](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde [Besluit voorschrift informatiebeveiliging rijksdienst 1994](../../../../../../../../../ministeriele-regeling/besluit/voorschrift/informatiebeveiliging/rijksdienst/1994/BWBR0006836/README.md);  
+a.  de wijze van toepassing van het in [artikel 4y van de wet](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde [Besluit voorschrift informatiebeveiliging rijksdienst 1994](../../../../../../../../../ministeriele-regeling/besluit/voorschrift/informatiebeveiliging/rijksdienst/1994/BWBR0006836/README.md); 
 
-b. beoordeling van de toepassing van de uitgangspunten van het door de dienst gehanteerde kostprijscalculatiemodel;  
+b.  beoordeling van de toepassing van de uitgangspunten van het door de dienst gehanteerde kostprijscalculatiemodel; 
 
-c. beoordeling van de door de dienst gehanteerde kostprijscalculatie in relatie tot de gehanteerde waarderingsgrondslagen;  
+c.  beoordeling van de door de dienst gehanteerde kostprijscalculatie in relatie tot de gehanteerde waarderingsgrondslagen; 
 
-d. beoordeling van de mate van kruissubsidiëring tussen de vastgestelde tarifieerbare produkten zoals opgenomen als bijlage 20 bij de Gemeenschappelijke Verklaring ter gelegenheid van de verzelfstandiging van de Rijksdienst voor het Wegverkeer, alsmede tussen het geheel van de in voornoemde bijlage bedoelde produkten en het geheel van de in artikel 2 van bijlage 7 van voornoemde verklaring bedoelde produkten;  
+d.  beoordeling van de mate van kruissubsidiëring tussen de vastgestelde tarifieerbare produkten zoals opgenomen als bijlage 20 bij de Gemeenschappelijke Verklaring ter gelegenheid van de verzelfstandiging van de Rijksdienst voor het Wegverkeer, alsmede tussen het geheel van de in voornoemde bijlage bedoelde produkten en het geheel van de in artikel 2 van bijlage 7 van voornoemde verklaring bedoelde produkten; 
 
-e. beoordeling van de toepassing van het bepaalde in het [besluit Departementale uitgangspunten tarievenbeleid Dienst Wegverkeer](../../../../../../../../../ministeriele-regeling/besluit/departementale/uitgangspunten/tarievenbeleid/dienst/wegverkeer/BWBR0008146/README.md).     
+e.  beoordeling van de toepassing van het bepaalde in het [besluit Departementale uitgangspunten tarievenbeleid Dienst Wegverkeer](../../../../../../../../../ministeriele-regeling/besluit/departementale/uitgangspunten/tarievenbeleid/dienst/wegverkeer/BWBR0008146/README.md).    
 2.  De dienst draagt er zorg voor dat naast de accountantscontrole 
 
-a. een onafhankelijke deskundige een oordeel zal uitspreken over het in het eerste lid, onderdeel a, bedoelde element, en  
+a.  een onafhankelijke deskundige een oordeel zal uitspreken over het in het eerste lid, onderdeel a, bedoelde element, en 
 
-b. de in [artikel 4s, vierde lid, onderdeel c, van de wet](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), bedoelde externe accountant tevens een oordeel zal uitspreken over de in het eerste lid, onderdelen b tot en met e, bedoelde elementen.     
+b.  de in [artikel 4s, vierde lid, onderdeel c, van de wet](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), bedoelde externe accountant tevens een oordeel zal uitspreken over de in het eerste lid, onderdelen b tot en met e, bedoelde elementen.    
 
 ### Artikel  3  
 
@@ -49,11 +49,11 @@ Dit besluit treedt in werking met ingang van 1 juli 1996.
 
 ####Citeertitel
 
-Dit besluit kan worden aangehaald als: Besluit aandachtspunten voor de accountantscontrole Dienst Wegverkeer.  
+Dit besluit kan worden aangehaald als: Besluit aandachtspunten voor de accountantscontrole Dienst Wegverkeer. 
 
 ’s-Gravenhage 
 28 juni 1996    
 
 De 
 Minister van Verkeer en Waterstaat, 
-A.Jorritsma-Lebbink    
+A. Jorritsma-Lebbink      

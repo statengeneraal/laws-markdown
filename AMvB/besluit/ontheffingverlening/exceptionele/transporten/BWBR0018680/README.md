@@ -24,7 +24,7 @@ a. aanhangwagen, bedrijfsauto, personenauto of voertuig: hetgeen daaronder in [a
 
 b. aslasten: de som van de last onder de wielen van een as als bedoeld in [artikel 1.1 van de Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md);  
 
-c. exceptioneel transport: een transport met een voertuig of een samenstel van voertuigen, met inbegrip van de daarmee vervoerde lading, dat niet voldoet aan in de [Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) voorgeschreven eisen met betrekking tot breedte, hoogte, lengte, massa of aslasten.    
+c. exceptioneel transport: een transport met een voertuig of een samenstel van voertuigen, met inbegrip van de daarmee vervoerde lading, dat niet voldoet aan in de [Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) voorgeschreven eisen met betrekking tot breedte, hoogte, lengte, massa of aslasten.   
 
 ### §  2  
 
@@ -37,7 +37,7 @@ c. exceptioneel transport: een transport met een voertuig of een samenstel van v
 
 a. de overige bepalingen van [hoofdstuk 5 van de Regeling voertuigen](../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md);  
 
-b. de [artikelen 3, eerste lid](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [10](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [14](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [23, eerste lid](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [24](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [42](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [43](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [62](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), voor zover het betreft de verkeerstekens C1, C2, C4, C6 tot en met C10 en C12, C17 tot en met 21, D1, D2, D4 tot en met D7, E1, E2, E5 tot en met E9, F7, en de verkeerstekens genoemd in de artikelen [73](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [76](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [77](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [78](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) en [81 van het Reglement verkeersregels en verkeerstekens 1990](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md).     
+b. de [artikelen 3, eerste lid](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [10](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [14](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [23, eerste lid](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [24](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [42](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [43](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [62](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), voor zover het betreft de verkeerstekens C1, C2, C4, C6 tot en met C10 en C12, C17 tot en met 21, D1, D2, D4 tot en met D7, E1, E2, E5 tot en met E9, F7, en de verkeerstekens genoemd in de artikelen [73](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [76](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [77](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), [78](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) en [81 van het Reglement verkeersregels en verkeerstekens 1990](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md).    
 
 ### Artikel  3  
 
@@ -47,7 +47,7 @@ a. de gegevens betreffende de infrastructuur en overige informatie opgenomen in 
 
 b. in de daarvoor in aanmerking komende gevallen, een door de wegbeheerder verleende toestemming als bedoeld in artikel 4;  
 
-c. voertuigtechnische gegevens in relatie tot het verlenen van een ontheffing.    
+c. voertuigtechnische gegevens in relatie tot het verlenen van een ontheffing.   
 
 ### Artikel  4  
 
@@ -55,7 +55,7 @@ De Dienst Wegverkeer vraagt toestemming als bedoeld in [artikel 149b, tweede lid
 
 a. indien geen gegevens beschikbaar zijn in het gegevensbestand als bedoeld in artikel 3, onderdeel a, of  
 
-b. indien de wegbeheerder bij het verstrekken van gegevens en informatie als bedoeld in artikel 6, eerste lid, toestemming als voorwaarde heeft gesteld voor de passage van een weg of wegdeel waarop de af te geven ontheffing betrekking heeft.    
+b. indien de wegbeheerder bij het verstrekken van gegevens en informatie als bedoeld in artikel 6, eerste lid, toestemming als voorwaarde heeft gesteld voor de passage van een weg of wegdeel waarop de af te geven ontheffing betrekking heeft.   
 
 ### Artikel  5  
 
@@ -70,7 +70,7 @@ a. indien gegevens betreffende de infrastructuur en overige informatie uit het i
 
 b. indien de voertuigtechnische gegevens als bedoeld in artikel 3, onderdeel c, hiertoe aanleiding geven;  
 
-c. indien dit gerechtvaardigd is in verband met de bescherming van de in [artikel 2, eerste en tweede lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) aangegeven belangen.     
+c. indien dit gerechtvaardigd is in verband met de bescherming van de in [artikel 2, eerste en tweede lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) aangegeven belangen.    
 
 ### §  3  
 
@@ -80,7 +80,7 @@ c. indien dit gerechtvaardigd is in verband met de bescherming van de in [artike
 
 1.  De wegbeheerder verstrekt ten behoeve van het gegevensbestand, bedoeld in artikel 3, onderdeel a, over wegen die onder zijn beheer staan, gegevens betreffende de infrastructuur, alsmede overige informatie die van belang is voor de ontheffingverlening. Bij ministeriële regeling kunnen hierover nadere regels worden gesteld.   
 2.  De wegbeheerder draagt zorg voor de juistheid en volledigheid van de gegevens en voor onmiddellijke doorgifte van wijzigingen daarin.   
-3.  De wegbeheerder levert de gegevens aan op een door de Dienst Wegverkeer vastgestelde wijze.   
+3.  De wegbeheerder levert de gegevens aan op een door de Dienst Wegverkeer vastgestelde wijze.  
 
 ### §  4  
 
@@ -92,9 +92,9 @@ c. indien dit gerechtvaardigd is in verband met de bescherming van de in [artike
 
 a. twee vertegenwoordigers van de Dienst Wegverkeer, van wie er een optreedt als voorzitter;  
 
-b. twee vertegenwoordigers van het Ministerie van Verkeer en Waterstaat;  
+b. twee vertegenwoordigers van het Ministerie van Infrastructuur en Milieu;  
 
-c. één vertegenwoordiger van de politie namens de portefeuillehouder verkeer van de Raad van Hoofdcommissarissen;  
+c. één vertegenwoordiger van de politie;  
 
 d. één vertegenwoordiger van het openbaar ministerie;  
 
@@ -103,7 +103,7 @@ e. ten minste vier vertegenwoordigers van door Onze Minister aangewezen wegbehee
 f. ten minste vier vertegenwoordigers van door Onze Minister aangewezen representatieve organisaties van de betrokken branches van het bedrijfsleven;  
 
 g. ten minste één vertegenwoordiger van door Onze Minister aangewezen representatieve organisaties van transportbegeleiders.     
-2.  Bij ministeriële regeling worden nadere regels gesteld met betrekking tot het overleg, bedoeld in het eerste lid.   
+2.  Bij ministeriële regeling worden nadere regels gesteld met betrekking tot het overleg, bedoeld in het eerste lid.  
 
 ### §  5  
 
@@ -111,7 +111,7 @@ g. ten minste één vertegenwoordiger van door Onze Minister aangewezen represen
 
 ### Artikel  8  
 
-Wijzigt het Voertuigreglement.   
+Wijzigt het Voertuigreglement.
 
 ### §  6  
 
@@ -119,11 +119,11 @@ Wijzigt het Voertuigreglement.
 
 ### Artikel  9  
 
-Dit besluit treedt in werking op het tijdstip waarop [artikel I, onderdelen A, B, F tot en met H](../../../../../../wet/wijzigingswet/wegenverkeerswet/1994/(verlenen/ontheffingen/door/dienst/etc/BWBR0017665/README.md), en [artikel IV van de wet van 9 december 2004 tot wijziging van de Wegenverkeerswet 1994 met betrekking tot het verlenen van ontheffingen in bepaalde gevallen door de Dienst Wegverkeer en enkele technische wijzigingen](../../../../../../wet/wijzigingswet/wegenverkeerswet/1994/(verlenen/ontheffingen/door/dienst/etc/BWBR0017665/README.md) (Stb. 687) in werking treden.  
+Dit besluit treedt in werking op het tijdstip waarop [artikel I, onderdelen A, B, F tot en met H](../../../../../../wet/wijzigingswet/wegenverkeerswet/1994/(verlenen/ontheffingen/door/dienst/etc/BWBR0017665/README.md), en [artikel IV van de wet van 9 december 2004 tot wijziging van de Wegenverkeerswet 1994 met betrekking tot het verlenen van ontheffingen in bepaalde gevallen door de Dienst Wegverkeer en enkele technische wijzigingen](../../../../../../wet/wijzigingswet/wegenverkeerswet/1994/(verlenen/ontheffingen/door/dienst/etc/BWBR0017665/README.md) (Stb. 687) in werking treden. 
 
 ### Artikel  10  
 
-Dit besluit wordt aangehaald als: Besluit ontheffingverlening exceptionele transporten.  
+Dit besluit wordt aangehaald als: Besluit ontheffingverlening exceptionele transporten. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 

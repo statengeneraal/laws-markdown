@@ -4,28 +4,28 @@
 
 De Minister van Verkeer en Waterstaat,  
 Gelet op de [artikelen 131](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [132](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [133](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [134](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [149, tweede lid onder a van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
-Besluit:    
+Besluit:     
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:   a. minister:  de Minister van Verkeer en Waterstaat.    b. CBR:  de Stichting Centraal Bureau Rijvaardigheidsbewijzen     
+In deze regeling wordt verstaan onder: a.  minister:   de Minister van Verkeer en Waterstaat.  b.  CBR:   de Stichting Centraal Bureau Rijvaardigheidsbewijzen    
 
 ### Artikel  2  
 
 1.  De bevoegdheid van de minister tot het nemen van besluiten als bedoeld in de [artikelen 149, tweede lid, onder a, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [49, derde lid, van het Besluit administratieve bepalingen inzake het wegverkeer](../../../../../AMvB/besluit/administratieve/bepalingen/inzake/het/wegverkeer/(babw)/BWBR0004826/README.md) wordt gemandateerd aan: 
 
-a. het hoofd van de Divisie Vorderingen van het CBR, en  
+a.  het hoofd van de Divisie Vorderingen van het CBR, en 
 
-b. de Chef Sector juridisch van de Divisie vorderingen van het CBR.     
+b.  de Chef Sector juridisch van de Divisie vorderingen van het CBR.    
 2.  De in het eerste lid genoemde functionarissen worden tevens gemachtigd tot het verrichten van andere handelingen als bedoeld in de in het eerste lid genoemde artikelen, met uitzondering van het vaststellen van ministeriële regelingen.   
 
 ### Artikel  3  
 
 De bevoegdheid tot het beslissen op bezwaarschriften, ingediend tegen een besluit als bedoeld in artikel 2, eerste lid, wordt gemandateerd aan: 
 
-a. het Hoofd Juridische zaken van het CBR, en  
+a.  het Hoofd Juridische zaken van het CBR, en 
 
-b. de Algemeen Directeur van het CBR.    
+b.  de Algemeen Directeur van het CBR.   
 
 ### Artikel  4  
 
@@ -46,7 +46,7 @@ Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening v
 
 ### Artikel  8  
 
-Deze regeling kan worden aangehaald als: Regeling mandaat CBR  
+Deze regeling kan worden aangehaald als: Regeling mandaat CBR 
 Deze regeling zal in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -54,4 +54,4 @@ Deze regeling zal in de Staatscourant worden geplaatst.
 
 De 
 Minister van Verkeer en Waterstaat, 
-A.Jorritsma-Lebbink    
+A. Jorritsma-Lebbink      

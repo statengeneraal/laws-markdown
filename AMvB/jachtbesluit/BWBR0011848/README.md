@@ -26,17 +26,17 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. wet: [Flora- en faunawet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md);  
+a. wet:[ Flora- en faunawet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md);  
 
 b. akte: jachtakte, valkeniersakte of kooikersakte;  
 
 c. jachtexamen: examen als bedoeld in [artikel 39, eerste lid, onderdeel c, van de wet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md);  
 
-d. korpschef: korpschef als bedoeld in [artikel 24 van de Politiewet 1993](../../../wet/politiewet/1993/BWBR0006299/README.md);  
+d. korpschef: korpschef als bedoeld in [artikel 27 van de Politiewet 2012](../../../wet/politiewet/2012/BWBR0031788/README.md);  
 
-e. overeenkomst: overeenkomst van huur en verhuur van het genot van de jacht als bedoeld in [artikel 34, eerste lid, van de wet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md);  
+e. overeenkomst: overeenkomst van huur en verhuur van het genot van de jacht als bedoeld in [artikel 34, eerste lid, van de wet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md);   
 
-f. verzekering: verzekering als bedoeld in [artikel 54 van de wet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md).    
+f. verzekering: verzekering als bedoeld in [artikel 54 van de wet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md).   
 
 ### Paragraaf  2  
 
@@ -45,11 +45,11 @@ f. verzekering: verzekering als bedoeld in [artikel 54 van de wet](../../../wet/
 ### Artikel  2  
 
 1.  Een overeenkomst wordt voor de duur van ten minste zes en ten hoogste twaalf jaar aangegaan.   
-2.  Een overeenkomst bevat geen beding van optie of verlenging.   
+2.  Een overeenkomst bevat geen beding van optie of verlenging.  
 
 ### Artikel  3  
 
-Bij het aangaan van een overeenkomst mag worden bedongen dat, indien enige onroerende zaak waarop de overeenkomst betrekking heeft, wordt opgenomen in een akte van toedeling als bedoeld in [artikel 207 van de Landinrichtingswet](../../../wet/landinrichtingswet/BWBR0003793/README.md), en deze akte voor het einde van de duur van de overeenkomst in de openbare registers is ingeschreven, de overeenkomst, voorzover het die zaak betreft, eindigt met ingang van de datum waarop deze akte is ingeschreven.  
+Bij het aangaan van een overeenkomst mag worden bedongen dat, indien enige onroerende zaak waarop de overeenkomst betrekking heeft, wordt opgenomen in een akte van toedeling als bedoeld in [artikel 207 van de Landinrichtingswet](../../../wet/landinrichtingswet/BWBR0003793/README.md), en deze akte voor het einde van de duur van de overeenkomst in de openbare registers is ingeschreven, de overeenkomst, voorzover het die zaak betreft, eindigt met ingang van de datum waarop deze akte is ingeschreven. 
 
 ### Paragraaf  3  
 
@@ -65,13 +65,13 @@ Bij het aangaan van een overeenkomst mag worden bedongen dat, indien enige onroe
 
 a. de toestemming is voorzien van: 
 
-1°. Een aantekening van de korpschef van de regio, waarin de woonplaats van de jachthouder is gelegen, dan wel, indien de jachthouder niet woonachtig is in Nederland, bij de korpschef van het politiekorps in de regio Haaglanden, waaruit blijkt dat het jachtveld waarop de jacht plaatsvindt, voldoet aan de artikelen 10 en 11, voorzover de jacht geschiedt met het geweer en  
+1°. Een aantekening van de korpschef, waaruit blijkt dat het jachtveld waarop de jacht plaatsvindt, voldoet aan de artikelen 10 en 11, voorzover de jacht geschiedt met het geweer en  
 
 2°. De naam, voornamen en geboortedatum van degenen aan wie de toestemming wordt verleend;    
 
 b. de toestemming een geldigheidsduur heeft die uiterlijk verstrijkt op 31 maart volgende op de datum van ondertekening van de toestemming.     
 6.  In afwijking van het bepaalde in het tweede lid en onverminderd het bepaalde in het derde en vierde lid kan de jachthouder die niet in het bezit is van een geldige jacht- of valkeniersakte schriftelijke toestemming verlenen voor de gehele of gedeeltelijke uitoefening, anders dan in zijn gezelschap, van het hem toekomende genot van de jacht, voorzover hem daartoe schriftelijk verlof is verleend door Onze Minister.   
-7.  Indien degene aan wie de toestemming is verleend, in het bezit is van een geldige jacht- of valkeniersakte, kan deze aan derden toestaan het genot van de jacht in zijn gezelschap uit te oefenen, indien dit uitdrukkelijk in de schriftelijke toestemming is bepaald.   
+7.  Indien degene aan wie de toestemming is verleend, in het bezit is van een geldige jacht- of valkeniersakte, kan deze aan derden toestaan het genot van de jacht in zijn gezelschap uit te oefenen, indien dit uitdrukkelijk in de schriftelijke toestemming is bepaald.  
 
 ### Paragraaf  4  
 
@@ -79,7 +79,7 @@ b. de toestemming een geldigheidsduur heeft die uiterlijk verstrijkt op 31 maart
 
 ### Artikel  5  
 
-Om te kunnen worden erkend, voldoet een jachtexamen aan het bepaalde bij artikel 6 en krachtens artikel 7.  
+Om te kunnen worden erkend, voldoet een jachtexamen aan het bepaalde bij artikel 6 en krachtens artikel 7. 
 
 ### Artikel  6  
 
@@ -124,7 +124,7 @@ b. bekwaamheid in de omgang met jachtvogels, indien het de jacht met jachtvogels
 
 a. eisen waaraan een organisatie die examens afneemt dient te voldoen ten behoeve van erkenning van het jachtexamen;  
 
-b. regels omtrent de taken en bevoegdheden van de personen die namens Onze Minister toezien op de jachtexamens en de beoordeling van examenresultaten.     
+b. regels omtrent de taken en bevoegdheden van de personen die namens Onze Minister toezien op de jachtexamens en de beoordeling van examenresultaten.    
 
 ### Paragraaf  5  
 
@@ -141,12 +141,12 @@ a. de aanvraag van akten;
 
 b. het besluit op aanvragen van akten;  
 
-c. de voor de akten verschuldigde bedragen, die voor de onderscheiden akten verschillend kunnen worden vastgesteld.     
+c. de voor de akten verschuldigde bedragen, die voor de onderscheiden akten verschillend kunnen worden vastgesteld.    
 
 ### Artikel  9  
 
 1.  Degene wiens akte is ingetrokken, is verplicht deze binnen vijf dagen nadat het besluit tot intrekking hem is bekendgemaakt, in te leveren bij degene die haar heeft verleend.   
-2.  Degene aan wie de bevoegdheid tot jagen bij een rechterlijke uitspraak is ontzegd, is verplicht binnen vijf dagen nadat die uitspraak voor tenuitvoerlegging vatbaar is geworden, de akte in te leveren bij degene die haar heeft verleend.   
+2.  Degene aan wie de bevoegdheid tot jagen bij een rechterlijke uitspraak is ontzegd, is verplicht binnen vijf dagen nadat die uitspraak voor tenuitvoerlegging vatbaar is geworden, de akte in te leveren bij degene die haar heeft verleend.  
 
 ### Paragraaf  6  
 
@@ -180,7 +180,7 @@ a. gronden als bedoeld in het eerste lid, onderdelen a en b,
 
 b. delen van een jachtveld waarbij de verbinding tussen deze delen op enig punt smaller is dan 50 meter, of  
 
-c. delen van een jachtveld die van elkaar worden gescheiden door een autosnelweg als bedoeld in [artikel 1, onderdeel c, van het Reglement verkeersregels en verkeerstekens 1990](../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) of door een water breder dan 10 meter waarover zich het genot van de jacht niet uitstrekt.     
+c. delen van een jachtveld die van elkaar worden gescheiden door een autosnelweg als bedoeld in [artikel 1, onderdeel c, van het Reglement verkeersregels en verkeerstekens 1990](../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) of door een water breder dan 10 meter waarover zich het genot van de jacht niet uitstrekt.    
 
 ### Paragraaf  7  
 
@@ -191,7 +191,7 @@ c. delen van een jachtveld die van elkaar worden gescheiden door een autosnelweg
 1.  Een geweer heeft een gladde loop met een kaliber van ten minste 24 en ten hoogste 12 of een getrokken loop met een nominaal kaliber van .22 inch of 5,58 millimeter.   
 2.  Een enkelloops hagelgeweer heeft een magazijn dat ten hoogste twee patronen kan bevatten.   
 3.  Een kogelgeweer heeft een magazijn dat ten hoogste twee patronen kan bevatten, tenzij het is voorzien van een grendelinrichting waarmee het wapen handmatig schot voor schot wordt geladen.   
-4.  Een geweer is niet voorzien van een geluiddemper, een kunstmatige lichtbron, een voorziening om de prooi te verlichten, een vizier met beeldomzetter, een elektronische beeldversterker of enig ander instrument om 's-nachts te schieten.   
+4.  Een geweer is niet voorzien van een geluiddemper, een kunstmatige lichtbron, een voorziening om de prooi te verlichten, een vizier met beeldomzetter, een elektronische beeldversterker of enig ander instrument om 's-nachts te schieten.  
 
 ### Artikel  13  
 
@@ -200,11 +200,11 @@ c. delen van een jachtveld die van elkaar worden gescheiden door een autosnelweg
 a. haas, fazant, patrijs of wilde eend: hagelpatronen waarvan de korrelgrootte van de hagel een doorsnede van 3,5 millimeter niet overschrijdt;  
 
 b. konijn of houtduif: hagelpatronen waarvan de korrelgrootte van de hagel een doorsnede van 3,5 millimeter niet overschrijdt of kogelpatronen van een kaliber van .22 inch of 5,58 millimeter.     
-2.  Het gebruik van hagelpatronen die metallisch lood bevatten, is niet toegestaan.   
+2.  Het gebruik van hagelpatronen die metallisch lood bevatten, is niet toegestaan.  
 
 ### Artikel  14  
 
-Een eendenkooi als bedoeld in [artikel 50, eerste lid, onderdeel d, van de wet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md), voldoet aan de volgende eisen: 
+Een eendenkooi als bedoeld in [artikel 50, eerste lid, onderdeel d, van de wet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md), voldoet aan de volgende eisen:  
 
 a. er is een open wateroppervlakte aanwezig van ten minste 200 vierkante meter, waarin een cirkel met een straal van ten minste 7,50 meter beschreven kan worden;  
 
@@ -212,7 +212,7 @@ b. het water is ten minste 50 centimeter diep;
 
 c. rondom het water ligt een rand van bos of struweel;  
 
-d. in open verbinding met het water is ten minste één vangpijp aanwezig die onmiddellijk als vangmiddel kan worden gebruikt.    
+d. in open verbinding met het water is ten minste één vangpijp aanwezig die onmiddellijk als vangmiddel kan worden gebruikt.   
 
 ### Paragraaf  8  
 
@@ -228,7 +228,7 @@ d. in open verbinding met het water is ten minste één vangpijp aanwezig die on
 a. voor de jacht op de wilde eend of de houtduif, of  
 
 b. voor de jacht op het konijn, de haas of de fazant, indien deze dieren anders worden bejaagd dan voor de voet.     
-5.  Het verbod om te jagen vanaf of vanuit een vaartuig, bedoeld in [artikel 53, eerste lid, onderdeel o, van de wet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md) geldt uitsluitend voor de jacht op de wilde eend, fazant, patrijs en houtduif vanuit vaartuigen die varen met een snelheid van meer dan 5 kilometer per uur.   
+5.  Het verbod om te jagen vanaf of vanuit een vaartuig, bedoeld in [artikel 53, eerste lid, onderdeel o, van de wet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md) geldt uitsluitend voor de jacht op de wilde eend, fazant, patrijs en houtduif vanuit vaartuigen die varen met een snelheid van meer dan 5 kilometer per uur.  
 
 ### Paragraaf  9  
 
@@ -236,16 +236,16 @@ b. voor de jacht op het konijn, de haas of de fazant, indien deze dieren anders 
 
 ### Artikel  16  
 
-De verzekering is gesloten met een financiële onderneming die ingevolge de [Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van verzekeraar mag uitoefenen.  
+De verzekering is gesloten met een financiële onderneming die ingevolge de [Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van verzekeraar mag uitoefenen. 
 
 ### Artikel  17  
 
 1.  De verzekering geeft dekking van 1 april tot 1 april van het jaar daaropvolgend en is van kracht voor geheel Nederland.   
-2.  Het bedrag, bedoeld in [artikel 54, vijfde lid, van de wet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md), bedraagt € 907 560,43 per gebeurtenis.   
+2.  Het bedrag, bedoeld in [artikel 54, vijfde lid, van de wet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md), bedraagt € 907 560,43 per gebeurtenis.  
 
 ### Artikel  18  
 
-1.  Het bewijs van verzekering, bedoeld in [artikel 54, zesde lid, van de wet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md) bevat ten minste de volgende gegevens: 
+1.  Het bewijs van verzekering, bedoeld in [artikel 54, zesde lid, van de wet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md) bevat ten minste de volgende gegevens:  
 
 a. naam en adres van de verzekeraar;  
 
@@ -260,18 +260,18 @@ e. de aanduiding van de personen die als verzekerden worden aangemerkt;
 f. het gebied waarin de verzekering van kracht is en  
 
 g. het verzekerde bedrag.     
-2.  Degene aan wie een jachtakte is uitgereikt, is verplicht iedere wijziging van de gegevens die ingevolge het eerste lid in het door hem overgelegde bewijs van verzekering zijn vermeld, onmiddellijk te melden aan de korpschef die de jachtakte heeft uitgereikt.   
+2.  Degene aan wie een jachtakte is uitgereikt, is verplicht iedere wijziging van de gegevens die ingevolge het eerste lid in het door hem overgelegde bewijs van verzekering zijn vermeld, onmiddellijk te melden aan de korpschef.  
 
 ### Artikel  19  
 
-1.  De korpschef die een jachtakte uitreikt, houdt aantekening van de in artikel 18 bedoelde gegevens betreffende de verzekering.   
-2.  De in het eerste lid bedoelde korpschef verstrekt op verzoek schriftelijke inlichtingen omtrent de nakoming van de verzekeringsplicht voorzover deze uit de bijgehouden aantekeningen blijken aan: 
+1.  De korpschef houdt aantekening van de in artikel 18 bedoelde gegevens betreffende de verzekering.   
+2.  De korpschef verstrekt op verzoek schriftelijke inlichtingen omtrent de nakoming van de verzekeringsplicht voorzover deze uit de bijgehouden aantekeningen blijken aan: 
 
-a. Onze Minister en Onze Minister van Justitie;  
+a. Onze Minister en Onze Minister van Veiligheid en Justitie;  
 
 b. de personen belast met de opsporing van de in de [wet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md) strafbaar gestelde feiten en  
 
-c. hen die aannemelijk maken dat zij betrokken zijn bij schade die grond kan opleveren voor toepassing van de [artikelen 54](../../../wet/flora-/en/faunawet/BWBR0009640/README.md) en [55 van de wet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md).     
+c. hen die aannemelijk maken dat zij betrokken zijn bij schade die grond kan opleveren voor toepassing van de [artikelen 54](../../../wet/flora-/en/faunawet/BWBR0009640/README.md) en [55 van de wet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md).    
 
 ### Paragraaf  10  
 
@@ -279,11 +279,11 @@ c. hen die aannemelijk maken dat zij betrokken zijn bij schade die grond kan opl
 
 ### Artikel  20  
 
-Als ander belang als bedoeld in [artikel 75, vijfde lid, onderdeel c, van de wet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md) is aangewezen de training van jachthonden in het opsporen van fazanten en patrijzen buiten de periode dat de jacht op deze diersoorten is geopend.  
+Als ander belang als bedoeld in [artikel 75, vijfde lid, onderdeel c, van de wet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md) is aangewezen de training van jachthonden in het opsporen van fazanten en patrijzen buiten de periode dat de jacht op deze diersoorten is geopend. 
 
 ### Artikel  21  
 
-Van het verbod, bedoeld in [artikel 10 van de wet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md), wordt vrijstelling verleend voor het met behulp van honden opsporen van fazanten en patrijzen in de maanden februari tot en met april, ten behoeve van de training van jachthonden voorzover de opsporing geschiedt door een jachthouder of door een ander met schriftelijke toestemming van een jachthouder.  
+Van het verbod, bedoeld in[ artikel 10 van de wet](../../../wet/flora-/en/faunawet/BWBR0009640/README.md), wordt vrijstelling verleend voor het met behulp van honden opsporen van fazanten en patrijzen in de maanden februari tot en met april, ten behoeve van de training van jachthonden voorzover de opsporing geschiedt door een jachthouder of door een ander met schriftelijke toestemming van een jachthouder. 
 
 ### Artikel  22  
 
@@ -303,11 +303,11 @@ d. overig wild: houtduif (Columba palumbus) en konijn (Oryctolagus cuniculus).
 
 ### Artikel  24  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  25  
 
-Dit besluit wordt aangehaald als: Jachtbesluit.  
+Dit besluit wordt aangehaald als: Jachtbesluit. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -321,7 +321,7 @@ G. H. Faber
 de *zevende* december 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     
 
 ### Bijlage  1  
 
@@ -339,4 +339,4 @@ d. Stichting Marke Vragenderveen
 
 e. G.A. van der Lugtstichting  
 
-f. Stichting Edwina van Heek   
+f. Stichting Edwina van Heek    

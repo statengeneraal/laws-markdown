@@ -19,11 +19,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 a. wet: [Flora- en faunawet](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);  
 
-b. korpschef: korpschef als bedoeld in [artikel 24 van de Politiewet 1993](../../../../../../wet/politiewet/1993/BWBR0006299/README.md).    
+b. korpschef: korpschef als bedoeld in [artikel 27 van de Politiewet 2012](../../../../../../wet/politiewet/2012/BWBR0031788/README.md).   
 
 ### Artikel  2  
 
-Om te kunnen worden erkend, voldoet een preparateursexamen als bedoeld in [artikel 62, tweede lid, van de wet](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) aan het bepaalde bij of krachtens de artikelen 3 en 4.  
+Om te kunnen worden erkend, voldoet een preparateursexamen als bedoeld in [artikel 62, tweede lid, van de wet](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) aan het bepaalde bij of krachtens de artikelen 3 en 4. 
 
 ### Artikel  3  
 
@@ -31,16 +31,16 @@ Het preparateursexamen bevat de volgende onderdelen:
 
 a. kennis van de diersoorten die mogen worden geprepareerd, en  
 
-b. kennis van de wettelijke voorschriften ten aanzien van het prepareren van dieren, de destructie van dieren en het gebruik van chemische stoffen.    
+b. kennis van de wettelijke voorschriften ten aanzien van het prepareren van dieren, de destructie van dieren en het gebruik van chemische stoffen.   
 
 ### Artikel  4  
 
-1.  Bij ministeriële regeling worden nadere eisen gesteld met betrekking tot het preparateursexamen.   
+1.  Bij ministeriële regeling worden nadere eisen gesteld met betrekking tot het preparateursexamen.    
 2.  De regeling, bedoeld in het eerste lid, bevat in ieder geval: 
 
 a. eisen waaraan een organisatie die examens afneemt dient te voldoen ten behoeve van de erkenning van een preparateursexamen;  
 
-b. regels omtrent de taken en bevoegdheden van de personen die namens Onze Minister toezien op de preparateursexamens en de beoordeling van examenresultaten.     
+b. regels omtrent de taken en bevoegdheden van de personen die namens Onze Minister toezien op de preparateursexamens en de beoordeling van examenresultaten.    
 
 ### Artikel  5  
 
@@ -54,11 +54,11 @@ b. de diersoorten waarvoor, met inachtneming van de daarbij gestelde voorschrift
 
 2°. ingevolge het [Besluit vrijstelling beschermde dier- en plantensoorten](../../../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md) of  
 
-3°. krachtens een ministeriële regeling als bedoeld in [artikel 75, tweede lid, van de wet](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);     met uitzondering van de diersoorten, bedoeld in artikel 8.  
+3°. krachtens een ministeriële regeling als bedoeld in [artikel 75, tweede lid, van de wet](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);     met uitzondering van de diersoorten, bedoeld in artikel 8. 
 
 ### Artikel  6  
 
-1.  Het is een ieder toegestaan, onverminderd artikel 8, te prepareren producten van dieren van andere diersoorten dan die, bedoeld in artikel 5, onder zich te hebben, te vervoeren of af te leveren, mits de houder beschikt over een verklaring van een korpschef dat: 
+1.  Het is een ieder toegestaan, onverminderd artikel 8, te prepareren producten van dieren van andere diersoorten dan die, bedoeld in artikel 5, onder zich te hebben, te vervoeren of af te leveren, mits de houder beschikt over een verklaring van de korpschef dat: 
 
 a. het betrokken dier kennelijk een natuurlijke dood is gestorven of kennelijk buiten schuld of medeweten van de houder de dood heeft gevonden dan wel kennelijk niet in strijd met de wetgeving van het land van herkomst is verkregen, en  
 
@@ -69,9 +69,9 @@ b. de houder het betrokken product onder zich heeft, vervoert of aflevert met he
 a. het betrokken product kennelijk niet in strijd met de wetgeving van het land van herkomst is verkregen, en  
 
 b. de houder het betrokken product onder zich heeft, vervoert of aflevert met het oog op het daarop laten aanbrengen van een merkteken als bedoeld in het tweede lid.     
-4.  Het is een ieder toegestaan, onverminderd artikel 8, te prepareren of geprepareerde producten van dieren van andere diersoorten dan die, bedoeld in artikel 5, binnen het grondgebied van Nederland te brengen, mits de houder aannemelijk kan maken dat hij voldoet dan wel binnen de termijn, bedoeld in het zesde lid, zal voldoen aan het eerste of derde lid.   
+4.  Het is een ieder toegestaan, onverminderd artikel 8, te prepareren of geprepareerde producten van dieren van andere diersoorten dan die, bedoeld in artikel 5, binnen het grondgebied van Nederland te brengen, mits de houder aannemelijk kan maken dat hij voldoet dan wel binnen de termijn, bedoeld in het zesde lid, zal voldoen aan het eerste of derde lid.    
 5.  Het is in afwijking van het tweede lid een ieder toegestaan, onverminderd artikel 8, geprepareerde producten van dieren van andere diersoorten dan die, bedoeld in artikel 5, onder zich te hebben, te vervoeren of af te leveren indien het betrokken product aantoonbaar is verworven vóór de inwerkingtreding van dit besluit.   
-6.  De vrijstellingen, bedoeld in het eerste en derde lid, gelden gedurende drie dagen na de dagtekening van de in die leden bedoelde verklaring.   
+6.  De vrijstellingen, bedoeld in het eerste en derde lid, gelden gedurende drie dagen na de dagtekening van de in die leden bedoelde verklaring.  
 
 ### Artikel  7  
 
@@ -95,7 +95,7 @@ c. de naam en het adres van degenen van wie de dieren zijn ontvangen;
 
 d. de naam en het adres van degenen aan wie de dieren zijn afgeleverd en  
 
-e. het nummer van het merkteken.     
+e. het nummer van het merkteken.    
 
 ### Artikel  8  
 
@@ -121,11 +121,11 @@ i. de otter (Lutra lutra).
 
 ### Artikel  10  
 
-Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip.  
+Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  11  
 
-Dit besluit wordt aangehaald als: Besluit prepareren van dieren.  
+Dit besluit wordt aangehaald als: Besluit prepareren van dieren. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
@@ -139,4 +139,4 @@ G. H. Faber
 de *zevende* december 2000 
 
 De Minister van Justitie, 
-A. H. Korthals    
+A. H. Korthals     

@@ -52,7 +52,7 @@ b).  Toutefois, cette garantie n'est pas obligatoirement accordée dans le cas o
 
 ### Article  6  
 
-a).  Les décisions de la Société relatives à la création d'agences ou de succursales seront subordonnées à l'accord de tous les Gouvernements parties à la présente Convention, dont une administration de chemin de fer est actionnaire de la Société. La procédure prévue aux paragraphes *d*) et *e*) de l'Article 2 ci-dessus s'appliquera aux décisions de la Société visées au présent paragraphe.   
+a).  Les décisions de la Société relatives à la création d'agences ou de succursales seront subordonnées à l'accord de tous les Gouvernements parties à la présente Convention, dont une administration de chemin de fer est actionnaire de la Société. La procédure prévue aux paragraphes d) et e) de l'Article 2 ci-dessus s'appliquera aux décisions de la Société visées au présent paragraphe.   
 b).  La Société fera rapport chaque année aux Gouvernements parties à la présente Convention dont une administration de chemin de fer est actionnaire de la Société, sur le développement de la Société et sur sa situation financière. Ces Gouvernements se consulteront sur tous les problèmes d'intérêt commun que pourrait soulever le fonctionnement de la Société et sur les mesures qui se révéleraient nécessaires à cet égard.   
 
 ### Article  7  
@@ -85,7 +85,7 @@ L’assemblée générale est le pouvoir suprême de la société. Elle a les at
 
 a).  A compter de la mise en application de la présente Convention, tout Gouvernement d'un pays européen non signataire pourra y adhérer par notification adressée au Gouvernement de la Suisse.   
 b).  Toutefois, l'adhésion d'un Gouvernement qui n'est pas membre de la Conférence Européenne des Ministres des Transports ne deviendra effective qu'avec l'accord unanime des Gouvernements parties à la présente Convention notifié au Gouvernement de la Suisse.   
-c).  L'adhésion à la présente Convention entraînera adhésion au Protocole additionnel visé au paragraphe *c*) de l'Article 7 ci-dessus.   
+c).  L'adhésion à la présente Convention entraînera adhésion au Protocole additionnel visé au paragraphe c) de l'Article 7 ci-dessus.   
 
 ### Article  12  
 
@@ -102,14 +102,14 @@ Tout différend entre les Gouvernements parties à la présente Convention relat
 
 ### Article  15  
 
-a).  La. présente Convention entrera en vigueur un mois après que le Gouvernement de la Suisse l'aura ratifiée, ainsi que le Protocole additionnel visé au paragraphe *c*) de l'Article 7 ci-dessus et que les actions appartenant aux administrations de chemin de fer des Gouvernements l'ayant signée sans réserve de ratification ou l'ayant signée sous réserve de ratification et ayant déposé leur instrument de ratification représenteront 80 % du capital social de la Société.   
+a).  La. présente Convention entrera en vigueur un mois après que le Gouvernement de la Suisse l'aura ratifiée, ainsi que le Protocole additionnel visé au paragraphe c) de l'Article 7 ci-dessus et que les actions appartenant aux administrations de chemin de fer des Gouvernements l'ayant signée sans réserve de ratification ou l'ayant signée sous réserve de ratification et ayant déposé leur instrument de ratification représenteront 80 % du capital social de la Société.   
 b).  Pour tout signataire qui la ratifiera ultérieurement, la Convention entrera en vigueur dès le dépôt de l'instrument de ratification.   
 c).  Les instruments de ratification seront déposés auprès du Gouvernement de la Suisse.   
 
 ### Article  16  
 
 a).  Nonobstant les dispositions de l'article précédent, les signataires conviennent de mettre en application la présente Convention à titre provisoire dans la mesure compatible avec leurs règles constitutionnelles. Au moment de la signature, chaque Gouvernement fera connaître dans quelles conditions et dans quelle mesure il mettra en application la présente Convention à titre provisoire.   
-b).  Le présent article entrera en vigueur pour tous les Gouvernements ayant signé la présente Convention, sous réserve de ratification ou non, lorsque le Gouvernement de la Suisse aura ratifié la présente Convention ainsi que le Protocole additionnel visé au paragraphe *c)* de l'Article 7 ci-dessus.   
+b).  Le présent article entrera en vigueur pour tous les Gouvernements ayant signé la présente Convention, sous réserve de ratification ou non, lorsque le Gouvernement de la Suisse aura ratifié la présente Convention ainsi que le Protocole additionnel visé au paragraphe c) de l'Article 7 ci-dessus.   
 
 ### Article  17  
 
@@ -141,36 +141,36 @@ La Société a été fondée pour une durée de 50 ans. Après expiration de cet
 
 ### Article  5  
 
-Le capital social de la société s’élève à 2 milliards 600 millions de francs suisses versé à concurrence de 520 millions de francs suisses (20%). Il est divisé en 260 000 actions d’une valeur nominale de 10 000 francs suisses. Après la septième augmentation de capitel (1997) et après cession d’actions (2007), la répartition des actions s’établit comme suit:  
+Le capital social de la société s’élève à 2 miliards 600 millions de francs suisses versé à concurrence de 520 millions de francs suisses (20%). Il est divisé en 260.000 actions d’une valeur nominale de 10.000 francs suisses. Tout appel ultérieur d’apports relatifs aux actions non entièrement libérées est décidé par le conseil d’administration de la société selon l’alinéa 3 point 6 de l’article 21. Le paiement d’un tel appel d’apports sera effectué directement sur le compte de la société désigné par le conseil d’administration à ces fins et les fonds versés sur ce compte seront immédiatement à la disposition de la société. Le conseil d’administration modifiera cet article 5 afin de refléter les apports supplémentaires versés en date de la première des dates suivantes, la date à laquelle tous les apports ont été effectués ou le 31 décembre suivant un tel appel d’apports. Cette modification sera décidée et notifiée au registre de commerce par le conseil d’administration accompagnée d’une confirmation de la part du conseil d’administration que la société a reçu les apports. Après la septième augmentation de capital (1997) et après cession d’actions (2007), la répartition des actions s ètablit comme suit:  
 
-| --- | --- |
-|:---|:---|
-| 60 060  | Deutsche Bahn AG  |
-| 60 060  | Société Nationale des Chemins de fer francçais  |
-| 35 100  | Ferrovie dello Stato S.p.A  |
-| 25 480  | SNCB Holding  |
-| 15 080  | NV Nederlandse Spoorwegen  |
-| 13 572  | RENFE Operadora  |
-| 13 000  | Chemins de fer fédéraux suisses  |
-| 5824  | Železnice Srbije  |
-| 5200  | Chemins de fer de l’Etat de Suède  |
-| 5200  | Société Nationale des Chemins de fer luxembourgeois  |
-| 5200  | ÖBB Holding SA  |
-| 5200  | CP-Comboios de Portugal, E.P.E  |
-| 5200  | Chemins de fer helléniques  |
-| 2600  | České dráhy, a.s.  |
-| 1820  | Chemins de fer de l’Etat hongrois SA  |
-| 1300  | Železničná spoločnost’ Slovensko, a.s.  |
-| 520  | HŽ Putnički prijevoz d.o.o.  |
-| 520  | Slovenske železnice d.o.o.  |
-| 520  | Chemins de fer de Bosnie et Herzégovine  |
-| 520  | Holding Balgarski Darzhavni Zheleznitsi EAD  |
-| 208  | Javno pretprijatie Makedonski Železnični- Infrastruktura  |
-| 156  | Željeznički Prevoz Crne Gore a.d.  |
-| 104  | Exploitation des Chemins de fer d’Etat de la République Turque  |
-| 52  | Chemins de fer de l’Etat danois  |
-| 52  | Chemins de fer de l’Etat norvégien  |
-| 52  | Makedonski Železnici-Transport AD  |
+| --- | --- | --- | --- |
+|---|---|---|---|
+| --- | 60.060  | --- | Deutsche Bahn AG  |
+| --- | 60.060  | --- | Société Nationale des Chemins de fer français  |
+| --- | 35.100  | --- | Ferrovie dello Stato Italiane S.p.A  |
+| --- | 25.480  | --- | SNCB Holding  |
+| --- | 15.080  | --- | NV Nederlandse Spoorwegen  |
+| --- | 13.572  | --- | RENFE Operadora  |
+| --- | 13.000  | --- | Chemins de fer fédéraux suisses  |
+| --- | 5824  | --- | Akcionarsko društvo Železnice Srbije  |
+| --- | 5200  | --- | Näringsdepartementet  |
+| --- | 5200  | --- | Société Nationale des Chemins de fer luxembourgeois  |
+| --- | 5200  | --- | ÖBB Holding SA  |
+| --- | 5200  | --- | CP- Comboios de Portugal, E.P.E  |
+| --- | 5200  | --- | Chemins de fer helléniques  |
+| --- | 2600  | --- | České dráhy, a.s.  |
+| --- | 1820  | --- | Chemins de fer de l’Etat hongrois SA  |
+| --- | 1300  | --- | Železničná spoločnost’ Slovensko, a.s.  |
+| --- | 520  | --- | HŽ Putnički prijevoz d.o.o.  |
+| --- | 520  | --- | Slovenske železnice d.o.o.  |
+| --- | 520  | --- | Chemins de fer de Bosnie et Herzégovine  |
+| --- | 520  | --- | Holding Balgarski Darzhavni Zheleznitsi EAD  |
+| --- | 208  | --- | Javno pretprijatie Makedonski Železnični- Infrastruktura  |
+| --- | 156  | --- | Željeznički Prevoz Crne Gore a.d.  |
+| --- | 104  | --- | Exploitation des Chemins de fer d’Etat de la République Turque  |
+| --- | 52  | --- | Chemins de fer de l’Etat danois  |
+| --- | 52  | --- | Chemins de fer de l’Etat norvégien  |
+| --- | 52  | --- | Makedonski Železnici-Transport AD  |
 
 ### Article  6  
 
@@ -266,7 +266,7 @@ Les délibérations et les décisions de l'assemblée générale sont consignée
 
 ### Article  18  
 
-Le conseil d'administration est chargé de diriger les affaires de la société. Les administrateurs sont désignés, sans condition de nationalité, par l'assemblée générale, sur proposition de chacun des actionnaires intéressés, à raison de deux administrateurs par actionnaire possédant au moins 2 % du capital social. Les administrateurs sont désignés pour une période de trois ans. Ils sont rééligibles. Après la première période de trois ans, le renouvellement du conseil est effectué sensiblement par tiers chaque année. A cet effet, lors de l'assemblée générale qui suivra l'expiration du troisième exercice social, il sera procédé par voie de tirage au sort à la désignation des administrateurs sortants à la fin des 4e et 5e exercices sociaux. Tous les administrateurs ont un droit de vote égal.  
+Le conseil d’administration est chargé de diriger les affaires de la société. Les administrateurs sont désignés, sans condition de nationalité, par l'assemblée générale, sur proposition de chacun des actionnaires intéressés, à raison d’un administrateur par actionnaire possédant au moins 2% du capital social. Les administrateurs sont désignés pour une période de trois ans. Ils sont rééligibles. Apres la première période de trois ans, le renouvellement du conseil est effectué sensiblement par tiers chaque année. A cet effet, lors de l’assemblée générale qui suivra l’expiration du troisième exercice social, il sera procédé par voie de tirage au sort à la désignation des administrateurs sortants à la fin des 4e et 5e exercices sociaux. Tous les administrateurs ont un droit de vote égal.  
 
 ### Article  19  
 
@@ -388,7 +388,7 @@ b).  Deze garantie is evenwel niet vereist, indien een zodanige spoorweg zelf de
 
 ### Artikel  6  
 
-a).  Besluiten van de Maatschappij met betrekking tot de oprichting van agentschappen of filialen zijn onderworpen aan de instemming van alle bij dit Verdrag partij zijnde Regeringen, waarvan een spoorweg aandeelhouder van de Maatschappij is. De in de leden *d)* en *e)* van artikel 2 vervatte procedure is van overeenkomstige toepassing op de in dit lid bedoelde besluiten van de Maatschappij.   
+a).  Besluiten van de Maatschappij met betrekking tot de oprichting van agentschappen of filialen zijn onderworpen aan de instemming van alle bij dit Verdrag partij zijnde Regeringen, waarvan een spoorweg aandeelhouder van de Maatschappij is. De in de leden d) en e) van artikel 2 vervatte procedure is van overeenkomstige toepassing op de in dit lid bedoelde besluiten van de Maatschappij.   
 b).  De Maatschappij brengt ieder jaar aan de bij dit Verdrag partij zijnde Regeringen, waarvan een spoorweg aandeelhouder van de Maatschappij is, verslag uit over de ontwikkeling van de Maatschappij en haar financiële positie. Deze Regeringen plegen overleg omtrent alle problemen van gemeenschappelijk belang, die uit de werkzaamheden van de Maatschappij kunnen voortvloeien, alsmede over de maatregelen, die met het oog daarop noodzakelijk blijken.   
 
 ### Artikel  7  
@@ -407,13 +407,13 @@ De bij dit Verdrag partij zijnde Regeringen nemen, in het kader van hun deviezen
 
 ### Artikel  10  
 
-Indien later zou blijken, dat de toepassing van wettelijke voorschriften in het land van vestiging of in het land van een andere bij dit Verdrag partij zijnde Regering aanleiding zou kunnen geven tot moeilijkheden bij het nastreven van het doel der Maatschappij, zal de betrokken Regering met de andere Regeringen, op verzoek van één hunner, in overleg treden ten einde deze moeilijkheden op te lossen in de geest van de bepalingen van dit Verdrag en van het in artikel 7, lid *c),* bedoelde Aanvullend Protocol.  
+Indien later zou blijken, dat de toepassing van wettelijke voorschriften in het land van vestiging of in het land van een andere bij dit Verdrag partij zijnde Regering aanleiding zou kunnen geven tot moeilijkheden bij het nastreven van het doel der Maatschappij, zal de betrokken Regering met de andere Regeringen, op verzoek van één hunner, in overleg treden ten einde deze moeilijkheden op te lossen in de geest van de bepalingen van dit Verdrag en van het in artikel 7, lid c), bedoelde Aanvullend Protocol.  
 
 ### Artikel  11  
 
 a).  Iedere Regering van een Europees land, die dit Verdrag niet heeft ondertekend, kan na de inwerkingtreding daarvan tot het Verdrag toetreden door middel van een tot de Regering van Zwitserland gerichte kennisgeving.   
 b).  De toetreding van een Regering, die geen lid is van de Europese Conferentie van Ministers van Verkeer, zal evenwel eerst van kracht worden nadat de instemming van alle bij dit Verdrag partij zijnde Regeringen aan de Regering van Zwitserland ter kennis is gebracht.   
-c).  De toetreding tot dit Verdrag heeft toetreding tot het in artikel 7, lid *c)*, bedoelde Aanvullend Protocol tot gevolg.   
+c).  De toetreding tot dit Verdrag heeft toetreding tot het in artikel 7, lid c), bedoelde Aanvullend Protocol tot gevolg.   
 
 ### Artikel  12  
 
@@ -430,14 +430,14 @@ Ieder geschil tussen de bij dit Verdrag partij zijnde Regeringen met betrekking 
 
 ### Artikel  15  
 
-a).  Dit Verdrag treedt in werking één maand nadat de Regering van Zwitserland het Verdrag alsmede het in artikel 7, lid *c)*, bedoelde Aanvullend Protocol zal hebben bekrachtigd en de aandelen welke toebehoren aan de spoorwegen van de Regeringen, die het Verdrag hebben ondertekend zonder voorbehoud van bekrachtiging dan wel het hebben ondertekend met voorbehoud van bekrachtiging en hun akte van bekrachtiging hebben nedergelegd, 80% van het maatschappelijk kapitaal vertegenwoordigen.   
+a).  Dit Verdrag treedt in werking één maand nadat de Regering van Zwitserland het Verdrag alsmede het in artikel 7, lid c), bedoelde Aanvullend Protocol zal hebben bekrachtigd en de aandelen welke toebehoren aan de spoorwegen van de Regeringen, die het Verdrag hebben ondertekend zonder voorbehoud van bekrachtiging dan wel het hebben ondertekend met voorbehoud van bekrachtiging en hun akte van bekrachtiging hebben nedergelegd, 80% van het maatschappelijk kapitaal vertegenwoordigen.   
 b).  Voor iedere ondertekenende Regering, die het later bekrachtigt, treedt het Verdrag in werking onmiddellijk na de nederlegging van de akte van bekrachtiging.   
 c).  De akten van bekrachtiging worden neder gelegd bij de Regering van Zwitserland.   
 
 ### Artikel  16  
 
 a).  Niettegenstaande de bepalingen van het vorige artikel komen de ondertekenende Regeringen overeen dit Verdrag voorlopig toe te passen voor zover met hun grondwettelijke bepalingen verenigbaar is. Op het ogenblik van de ondertekening zal iedere Regering bekend maken op welke voorwaarden en in hoeverre zij dit Verdrag voorlopig zal toepassen.   
-b).  Voor alle Regeringen, die dit Verdrag met of zonder voorbehoud hebben ondertekend, zal dit artikel in werking treden, zodra de Regering van Zwitserland dit Verdrag alsmede het in artikel 7, lid *c)*, bedoelde Aanvullend Protocol zal hebben bekrachtigd.   
+b).  Voor alle Regeringen, die dit Verdrag met of zonder voorbehoud hebben ondertekend, zal dit artikel in werking treden, zodra de Regering van Zwitserland dit Verdrag alsmede het in artikel 7, lid c), bedoelde Aanvullend Protocol zal hebben bekrachtigd.   
 
 ### Artikel  17  
 
@@ -469,19 +469,19 @@ De tekst van de vertaling is niet beschikbaar.
 
 ### Artikel  5  
 
-Het maatschappelijk kapitaal van de vennootschap bedraagt 2.600.000.000 Zwitserse francs, waarvan een bedrag van 520.000.000 Zwitserse francs (20%) geplaatst is. Het is verdeeld in 260.000 aandelen met een nominale waarde van 10.000 Zwitserse francs. Na de zevende uitbreding van het kapitaal (1997) en de overdracht van aandelen (2007) zijn de aandelen als volgt verdeeld:  
+Het maatschappelijk kapitaal van de vennootschap bedraagt 2.600.000.000 Zwitserse francs, waarvan een bedrag van 520.000.000 Zwitserse francs (20%) geplaatst is. Het is verdeeld in 260.000 aandelen met een nominale waarde van 10.000 Zwitserse francs. Over elk volgend verzoek om bijstorting op nog niet volledig volgestorte aandelen wordt beslist door de raad van bestuur van de vennootschap in overeenstemming met artikel 21, derde lid, onderdeel 6. De betaling van een dergelijk verzoek om bijstorting geschiedt rechtstreeks op de rekening van de vennootschap die daartoe door de raad van bestuur is aangewezen en de bedragen die op deze rekening worden gestort staan onmiddellijk ter beschikking van de vennootschap. De raad van bestuur wijzigt artikel 5 om aanvullende bijstortingen weer te geven die zijn geschied op de eerste van de volgende data: de datum waarop alle bijstortingen zijn verricht of de 31e december die volgt op een dergelijk verzoek om bijstortingen. Deze wijziging wordt door de raad van bestuur vastgesteld en medegedeeld aan het handelsregister, vergezeld van een bevestiging door de raad van bestuur dat de vennootschap de bijstortingen heeft ontvangen. Na de zevende uitbreding van het kapitaal (1997) en de overdracht van aandelen (2007) zijn de aandelen als volgt verdeeld:  
 
 | --- | --- |
-|:---|:---|
+|---|---|
 | 60 060  | Deutsche Bahn AG  |
-| 60 060  | Société Nationale des Chemins de fer francçais  |
-| 35 100  | Ferrovie dello Stato S.p.A  |
+| 60 060  | Société Nationale des Chemins de fer français  |
+| 35 100  | Ferrovie dello Stato Italiane S.p.A  |
 | 25 480  | SNCB Holding  |
 | 15 080  | NV Nederlandse Spoorwegen  |
 | 13 572  | RENFE Operadora  |
 | 13 000  | Chemins de fer fédéraux suisses  |
-| 5824  | Železnice Srbije  |
-| 5200  | Zweedse staatsspoorwegen  |
+| 5824  | Akcionarsko društvo Železnice Srbije  |
+| 5200  | Näringsdepartementet  |
 | 5200  | Société Nationale des Chemins de fer luxembourgeois  |
 | 5200  | ÖBB Holding SA  |
 | 5200  | CP-Comboios de Portugal, E.P.E  |
@@ -568,7 +568,7 @@ Van de beraadslagingen en de beslissingen van de algemene vergadering van aandee
 
 ### Artikel  18  
 
-De Raad van Bestuur is belast met de leiding van de vennootschap. De leden van de Raad van Bestuur worden benoemd - zonder rekening te houden met hun nationaliteit - door de algemene vergadering van aandeelhouders, met dien verstande, dat er op iedere aandeelhouder, die tenminste 2 % van het kapitaal bezit, twee leden zullen zijn, die door ieder dezer aandeelhouders worden voorgesteld. De leden van de Raad van Bestuur worden benoemd voor een tijdvak van drie jaar. Zij zijn herkiesbaar. Na het eerste tijdvak van drie jaar treedt ieder jaar bij benadering één derde van het aantal leden van de Raad af. Te dien einde wordt in de eerstvolgende algemene vergadering van aandeelhouders na het einde van het derde boekjaar door het lot vastgesteld welke leden aan het eind van het vierde resp. vijfde boekjaar zullen aftreden. Alle leden van de Raad van Bestuur hebben gelijk stemrecht.  
+De Raad van Bestuur is belast met de leiding van de vennootschap. De leden van de Raad van Bestuur worden benoemd, ongeacht hun nationaliteit, door de algemene vergadering van aandeelhouders, met dien verstande dat er op iedere aandeelhouder die ten minste 2% van het kapitaal bezit, een lid is, die door ieder van deze aandeelhouders worden voorgesteld. De leden van de Raad van Bestuur worden benoemd voor een tijdvak van drie jaar. Zij zijn herkiesbaar. Na een eerste tijdvak van drie jaar treedt ieder jaar een derde van het aantal leden van de Raad af. Te dien einde wordt in de eerstvolgende algemene vergadering van aandeelhouders na het einde van het derde boekjaar door het lot vastgesteld welke leden aan het eind van het vierde respectievelijk vijfde boekjaar zullen aftreden. Alle leden van de Raad van Bestuur hebben gelijk stemrecht.  
 
 ### Artikel  19  
 

@@ -15,23 +15,23 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder 
+In dit besluit wordt verstaan onder  
 
 a. wet: de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](../../../../../../../../../../wet/wet/mulder/BWBR0004581/README.md) (*Stb.* 1989, 300).  
 
-b. gijzeling: de gijzeling als bedoeld in artikel 28, eerste lid, van de wet.    
+b. gijzeling: de gijzeling als bedoeld in artikel 28, eerste lid, van de wet.   
 
 ### Artikel  2  
 
-De gijzeling wordt ten uitvoer gelegd in het huis van bewaring. Ten aanzien van militairen wordt de gijzeling ten uitvoer gelegd in het huis van bewaring overeenkomstig de bepalingen van het besluit van 9 juni 1982, *Stb.* 334.  
+De gijzeling wordt ten uitvoer gelegd in het huis van bewaring. Ten aanzien van militairen wordt de gijzeling ten uitvoer gelegd in het huis van bewaring overeenkomstig de bepalingen van het besluit van 9 juni 1982, *Stb.* 334. 
 
 ### Artikel  3  
 
-De officier van justitie kan, voor de tenuitvoerlegging van de gijzeling de nodige bijzondere of algemene last geven aan de deurwaarders en aan de ambtenaren, aangesteld voor de uitvoering van de politietaak. Zij zijn verplicht onmiddellijk aan de vordering van de officier van justitie te voldoen.  
+De officier van justitie kan, voor de tenuitvoerlegging van de gijzeling de nodige bijzondere of algemene last geven aan de deurwaarders en aan de ambtenaren van politie die zijn aangesteld voor de uitvoering van de politietaak. Zij zijn verplicht onmiddellijk aan de vordering van de officier van justitie te voldoen. 
 
 ### Artikel  4  
 
-Dit besluit treedt in werking met ingang van 1 september 1990.  
+Dit besluit treedt in werking met ingang van 1 september 1990. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.   
 

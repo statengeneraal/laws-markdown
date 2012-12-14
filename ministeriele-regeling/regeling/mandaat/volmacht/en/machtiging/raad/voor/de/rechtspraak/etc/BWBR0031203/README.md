@@ -10,17 +10,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. *de Raad:* de Raad voor de rechtspraak;  
+a.  *de Raad:* de Raad voor de rechtspraak;  
 
-b. *rechterlijk college:* een rechtbank, een gerechtshof, de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven;  
+b.  *rechterlijk college:* een rechtbank, een gerechtshof, de Centrale Raad van Beroep of het College van Beroep voor het bedrijfsleven;  
 
-c. *minister:* de Minister van Veiligheid en Justitie  
+c.  *minister:* de Minister van Veiligheid en Justitie  
 
-d. *mandaat:* de bevoegdheid om in naam van de minister besluiten te nemen;  
+d.  *mandaat:* de bevoegdheid om in naam van de minister besluiten te nemen;  
 
-e. *volmacht:* de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten;  
+e.  *volmacht:* de bevoegdheid om in naam van de minister privaatrechtelijke rechtshandelingen te verrichten;  
 
-f. *machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.    
+f.  *machtiging:* de bevoegdheid om in naam van de minister handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn.   
 
 ### Artikel  2  
 
@@ -42,25 +42,25 @@ c. hoger beroep in te stellen;
 
 d. een ingesteld hoger beroep in te trekken;  
 
-e. op te treden in hoger beroep.     
+e. op te treden in hoger beroep.    
 
 ### Artikel  3  
 
-Aan de Raad wordt volmacht en machtiging verleend tot het nemen van besluiten, het optreden als procespartij en het verrichten van andere handelingen in verband met civielrechtelijke aansprakelijkstellingen verband houdend met onrechtmatige rechtspraak door een rechterlijk college waarvoor de Staat aansprakelijk wordt gehouden.  
+Aan de Raad wordt volmacht en machtiging verleend tot het nemen van besluiten, het optreden als procespartij en het verrichten van andere handelingen in verband met civielrechtelijke aansprakelijkstellingen verband houdend met onrechtmatige rechtspraak door een rechterlijk college waarvoor de Staat aansprakelijk wordt gehouden. 
 
 ### Artikel  4  
 
-De Raad kan aan onder hem ressorterende ambtenaren mandaat, volmacht en machtiging verlenen de hem de in artikelen 2 en 3 verleende bevoegdheden uit te oefenen.  
+De Raad kan aan onder hem ressorterende ambtenaren mandaat, volmacht en machtiging verlenen de hem de in artikelen 2 en 3 verleende bevoegdheden uit te oefenen. 
 
 ### Artikel  5  
 
-De [regeling van de Staatssecretaris van Justitie van 22 april 2009](../../../../../../../../../../../../ministeriele-regeling/regeling/mandaat/en/machtiging/raad/voor/de/rechtspraak/(verzoeken/tot/etc/BWBR0025761/README.md), nr. 5599506/09, houdende verlening van mandaat en machtiging aan de Raad voor de rechtspraak inzake verzoeken tot schadevergoeding wegens overschrijding van de redelijke termijn (Stcrt. 2009, 81) wordt ingetrokken.  
+De [regeling van de Staatssecretaris van Veiligheid en Justitie van 22 april 2009](../../../../../../../../../../../../ministeriele-regeling/regeling/mandaat/en/machtiging/raad/voor/de/rechtspraak/(verzoeken/tot/etc/BWBR0025761/README.md), nr. 5599506/09, houdende verlening van mandaat en machtiging aan de Raad voor de rechtspraak inzake verzoeken tot schadevergoeding wegens overschrijding van de redelijke termijn (Stcrt. 2009, 81) wordt ingetrokken. 
 
 ### Artikel  6  
 
-Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
-Minister van Veiligheid en Justitie,
-I.W.Opstelten   
+Minister van Veiligheid en Justitie, 
+I.W. Opstelten     

@@ -17,15 +17,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Tot de in [artikel 2, tweede lid, van de Wet buitengewoon pensioen Indisch verzet](../../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md) bedoelde categorieën van personen behoren zij: 
+Tot de in [artikel 2, tweede lid, van de Wet buitengewoon pensioen Indisch verzet](../../../../../../../../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md) bedoelde categorieën van personen behoren zij:  
 
 a. die, als militair behoord hebbende tot het geregelde leger, na de capitulatie van het Koninklijk Nederlandsch-Indisch Leger (KNIL) in groepsverband in het voormalige Nederlands-Indië de strijd tegen de vijandelijke bezettende macht hebben voortgezet;  
 
-b. die, anders dan in militair verband, nà 8 december 1941 doch vóór 8 maart 1942, met het oogmerk afbreuk te doen aan de vijandelijke bezettende macht, olie-installaties, strategische objecten en voorraden onklaar hebben gemaakt en in verband daarmee door de vijandelijke bezettende macht zijn mishandeld of gedood.    
+b. die, anders dan in militair verband, nà 8 december 1941 doch vóór 8 maart 1942, met het oogmerk afbreuk te doen aan de vijandelijke bezettende macht, olie-installaties, strategische objecten en voorraden onklaar hebben gemaakt en in verband daarmee door de vijandelijke bezettende macht zijn mishandeld of gedood.   
 
 ### Artikel  2  
 
-Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst, en werkt terug tot 1 januari 1983.  
+Dit besluit treedt in werking met ingang van de tweede dag na de datum van uitgifte van het *Staatsblad* waarin het wordt geplaatst, en werkt terug tot 1 januari 1983. 
 
 Lasten en bevelen dat dit besluit met daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State en aan de Algemene Rekenkamer.   
 
