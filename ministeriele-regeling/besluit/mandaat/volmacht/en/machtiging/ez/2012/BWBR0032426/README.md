@@ -1,9 +1,9 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Besluit van de Minister van Economische Zaken, Landbouw en Innovatie van 12 december 2011, nr. WJZ / 11129376, houdende regels inzake mandaat, volmacht en machtiging voor het Ministerie van Economische Zaken, Landbouw en Innovatie 2012 (Besluit mandaat, volmacht en machtiging EL&I 2012)
+##Besluit van de Minister van Economische Zaken van 7 december 2012, nr. WJZ / 12376584, houdende regels inzake de verlening van mandaat, volmacht en machtiging EZ 2012 (Besluit mandaat, volmacht en machtiging EZ 2012)
 
-De Minister van Economische Zaken, Landbouw en Innovatie,  
-Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [artikel 3, tweede lid, van het Coördinatiebesluit inrichting organisatie en formatie rijksdienst 2011](../../../../../../../../../KB/coördinatiebesluit/organisatie/en/bedrijfsvoering/rijksdienst/2011/BWBR0029514/README.md);
+De Minister van Economische Zaken,  
+Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](../../../../../../../../../KB/coördinatiebesluit/organisatie/en/bedrijfsvoering/rijksdienst/2011/BWBR0029514/README.md);
 Besluit:     
 ### §  1  
 
@@ -13,9 +13,9 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. *de minister:* de Minister van Economische Zaken, Landbouw en Innovatie;  
+a. *de minister:* de Minister van Economische Zaken;  
 
-b. *de secretaris-generaal:* de secretaris-generaal van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
+b. *de secretaris-generaal:* de secretaris-generaal van het Ministerie van Economische Zaken;  
 
 c.  *de hoofden van dienst:*  
 
@@ -25,55 +25,51 @@ c.  *de hoofden van dienst:*
 
 3°. de directeur-generaal van Energie, Telecom en Mededinging;  
 
-4°. de directeur-generaal van Internationale Betrekkingen;  
+4°. de directeur-generaal van Natuur en Regio;  
 
-5°. de directeur-generaal van Natuur en Regio;  
+5°. de loco secretaris-generaal;  
 
-6°. de loco secretaris-generaal;  
+6°. de directeur Bedrijfsvoering;  
 
-7°. de directeur van de Auditdienst;  
+7°. de directeur Bureau Bestuursraad;  
 
-8°. de directeur Bedrijfsvoering;  
+8°. de directeur Communicatie;  
 
-9°. de directeur Bureau Bestuursraad;  
+9°. de directeur Financieel-Economische Zaken;  
 
-10°. de directeur Communicatie;  
+10°. de directeur Wetgeving en Juridische Zaken;  
 
-11°. de directeur Financieel-Economische Zaken;  
+11°. de Consumentenautoriteit;  
 
-12°. de directeur Wetgeving en Juridische Zaken;  
+12°. de directeur van PIANOo;  
 
-13°. de Consumentenautoriteit;  
+13°. de directeur van het Centraal Planbureau;  
 
-14°. de directeur van PIANOo;  
+14°. de directeur van de Dienst ICT Uitvoering;  
 
-15°. de directeur van het Centraal Planbureau;  
+15°. de directeur van de Dienst Landelijk Gebied;  
 
-16°. de directeur van de Dienst ICT Uitvoering;  
+16°. de inspecteur-generaal der mijnen;  
 
-17°. de directeur van de Dienst Landelijk Gebied;  
+17°. de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit;  
 
-18°. de inspecteur-generaal der mijnen;  
+18°. de directeur-generaal Uitvoering;  
 
-19°. de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit;  
+19°. de directeur-hoofdinspecteur van het Agentschap Telecom;    
 
-20°. de directeur-generaal Uitvoering;  
-
-21°. de directeur-hoofdinspecteur van het Agentschap Telecom;    
-
-d. *P&O-aangelegenheden:* aangelegenheden op het gebied van personeel, organisatie en formatie en het daarmee samenhangende budget;  
+d. *de P&O-aangelegenheden:* de aangelegenheden op het gebied van personeel, organisatie en formatie en het daarmee samenhangende budget;  
 
 e. *BBRA:*[Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md);  
 
-f. *ARAR:*[Algemeen Rijksambtenarenreglement](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).    
+f. *het ARAR:* het [Algemeen Rijksambtenarenreglement](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).    
 
 ### Artikel  2  
 
-De organisatie van het Ministerie van Economische Zaken, Landbouw en Innovatie wordt vastgesteld overeenkomstig de bij dit besluit behorende bijlage.  
+De organisatie van het Ministerie van Economische Zaken wordt vastgesteld overeenkomstig de bij dit besluit behorende bijlage.  
 
 ### Artikel  3  
 
-Het in dit besluit ten aanzien van de minister bepaalde is van overeenkomstige toepassing voor de Staatssecretaris van Economische Zaken, Landbouw en Innovatie.  
+Het in dit besluit ten aanzien van de minister bepaalde is van overeenkomstige toepassing voor de Staatssecretaris van Economische Zaken.  
 
 ### Artikel  4  
 
@@ -90,7 +86,7 @@ b. beslissingen omtrent politieke beleidswijzigingen en omtrent de uitbreiding o
 
 c. beslissingen waaruit belangrijke financiële consequenties voor het rijk voortvloeien, behoudens voor zover een beslissing een rechtstreeks gevolg is van de bestaande aard en omvang van de regeringsbemoeienis op economisch gebied;  
 
-d. het vaststellen van ministeriële regelingen en beleidsregels, met uitzondering van ministeriële regelingen, als bedoeld in artikel 6, eerste lid, onderdeel b, en artikel 7, derde lid;  
+d. het vaststellen van ministeriële regelingen en beleidsregels, met uitzondering van ministeriële regelingen, als bedoeld in artikel 6, eerste lid, onderdeel b, en artikel 7, derde lid;  
 
 e. delegatie van bevoegdheden;  
 
@@ -131,9 +127,9 @@ b. aangelegenheden waarbij de gemandateerde belanghebbende is.
 
 1.  Aan de secretaris-generaal wordt mandaat, volmacht en machtiging verleend voor: 
 
-a. aangelegenheden op het gebied van de ambtelijke leiding van al hetgeen het ministerie betreft, zoals nader omschreven in de toelichting bij het koninklijk besluit van 18 oktober 1988, houdende regeling van de functie en verantwoordelijkheid van de secretaris-generaal (Stb. 1988, 499);  
+a. aangelegenheden op het gebied van de ambtelijke leiding van al hetgeen het ministerie betreft, zoals nader omschreven in de toelichting bij het [koninklijk besluit van 18 oktober 1988, houdende regeling van de functie en verantwoordelijkheid van de secretaris-generaal](../../../../../../../../../KB/besluit/regeling/functie/en/verantwoordelijkheid/van/de/etc/BWBR0004419/README.md) (Stb. 1988, 499);  
 
-b. het vaststellen van ministeriële regelingen als bedoeld in [artikel 31a van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en het nemen van besluiten die noodzakelijk zijn ter uitvoering van Europese verordeningen op het gebied van het Europese Visserijbeleid;  
+b. het vaststellen van ministeriële regelingen als bedoeld in [artikel 31a van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en het nemen van besluiten die noodzakelijk zijn ter uitvoering van Europese verordeningen op het gebied van het Europese Visserijbeleid;  
 
 c. het vaststellen van circulaires, met uitzondering van circulaires die naar het oordeel van de secretaris-generaal door de minister of een hoofd van dienst moeten worden vastgesteld;  
 
@@ -145,14 +141,14 @@ e. aangelegenheden op het werkterrein van de hoofden van dienst:
 
 2°. die door een hoofd van dienst aan de secretaris-generaal ter afhandeling worden voorgelegd, tenzij zij naar het oordeel van de secretaris-generaal door een ander hoofd van dienst moeten worden behandeld;    
 
-f. aangelegenheden op het gebied van de [Wet openbaarheid van bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), voor zover niet vallend onder artikel 4, tweede lid, onderdeel a, of behorend tot het werkterrein van een hoofd van dienst;  
+f. aangelegenheden op het gebied van de [Wet openbaarheid van bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), voor zover niet vallend onder artikel 4, tweede lid, onderdeel a, of behorend tot het werkterrein van een hoofd van dienst;  
 
 g. het uitoefenen van de bevoegdheden van de minister inzake benoeming, schorsing, ontslag en vergoeding van ambtenaren en andere personen in organen van rechtspersonen en colleges, voor zover daarvoor geen mandaat, volmacht en machtiging is verleend aan een hoofd van dienst;  
 
 h. aangelegenheden op het gebied van personeel, financiën, organisatie en bedrijfsvoering, voor zover niet vallend onder het werkterrein van een hoofd van dienst.     
 2.  Tot de aangelegenheden, bedoeld in het eerste lid, onderdeel h, behoren in ieder geval: 
 
-a. het vaststellen van de organisatie en formatie van de diensten bedoeld in artikel 1, onderdeel c, onder 1° tot en met 14°;  
+a. het vaststellen van de organisatie en formatie van de diensten bedoeld in artikel 1, onderdeel c, onder 1° tot en met 12°;  
 
 b. het vaststellen van de apparaatskosten van de diensten;  
 
@@ -162,27 +158,27 @@ d. beslissingen op bezwaarschriften inzake personeelsaangelegenheden voor zover 
 
 e. personeelsaangelegenheden met betrekking tot de hoofden van dienst;  
 
-f. besluiten ten aanzien van ambtenaren voor wie salarisschaal 15 of hoger van [bijlage B van het BBRA](../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) geldt, respectievelijk kandidaten voor functies waarvoor die salarisschalen gelden, inhoudende: 
+f. besluiten ten aanzien van medewerkers voor wie salarisschaal 15 of hoger van [bijlage B van het BBRA](../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) geldt, respectievelijk kandidaten voor functies waarvoor die salarisschalen gelden, inhoudende: 
 
 1°. het aanstellen in vaste of tijdelijke dienst en het beëindigen van vaste of tijdelijke aanstellingen;  
 
-2°. het opdragen van een andere functie op basis van [artikel 57 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+2°. het opdragen van een andere functie op basis van [artikel 57 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
 
-3°. het opdragen van tijdelijke andere werkzaamheden op basis van [artikel 58 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+3°. het opdragen van tijdelijke andere werkzaamheden op basis van [artikel 58 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
 
-4°. het verlenen van buitengewoon verlof van lange duur ten behoeve van het vervullen van een functie bij een internationale volkenrechtelijke organisatie op grond van [artikel 34 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+4°. het verlenen van buitengewoon verlof van lange duur ten behoeve van het vervullen van een functie bij een internationale volkenrechtelijke organisatie op grond van [artikel 34 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
 
-5°. het opleggen van disciplinaire straffen op grond van [artikel 81 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+5°. het opleggen van disciplinaire straffen op grond van [artikel 81 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
 
-6°. het schorsen van een ambtenaar op basis van [artikel 91 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+6°. het schorsen van een ambtenaar op basis van [artikel 91 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
 
-7°. het verminderen van de bezoldiging tijdens schorsing op basis van [artikel 92 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+7°. het verminderen van de bezoldiging tijdens schorsing op basis van [artikel 92 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
 
 8°. het bevorderen naar een hogere salarisschaal;  
 
 9°. het beslissen omtrent toekennen van een terugkeergarantie;  
 
-10°. het nemen van besluiten omtrent schadeloosstellingen boven een bedrag van € 10 000 op grond van [artikel 69 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+10°. het nemen van besluiten omtrent schadeloosstellingen boven een bedrag van € 10.000 op grond van [artikel 69 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
 
 11°. het toekennen van financiële tegemoetkomingen op grond van sociaal flankerend beleid.       
 
@@ -190,7 +186,7 @@ f. besluiten ten aanzien van ambtenaren voor wie salarisschaal 15 of hoger van [
 
 1.  Aan de hoofden van dienst wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor aangelegenheden op zijn werkterrein, als bedoeld in de bijlage van dit besluit, waaronder begrepen de P&O-aangelegenheden van zijn dienst, met uitzondering van aangelegenheden waarvoor mandaat, volmacht en machtiging is verleend aan de secretaris-generaal of aan een ander hoofd van dienst.   
 2.  Aan de hoofden van dienst wordt voorts, ieder voor zijn werkterrein, mandaat en machtiging verleend voor aangelegenheden inzake de benoeming, ontslag en vergoeding van leden van adviescommissies ter zake van subsidieverlening.   
-3.  Aan de directeuren-generaal wordt tevens, ieder voor zich, mandaat en machtiging verleend voor het vaststellen van ministeriële regelingen als bedoeld in [artikel 31a van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en het nemen van besluiten die noodzakelijk zijn ter uitvoering van Europese verordeningen op het gebied van het Europese Visserijbeleid.   
+3.  Aan de directeuren-generaal wordt tevens, ieder voor zich, mandaat en machtiging verleend voor het vaststellen van ministeriële regelingen als bedoeld in [artikel 31a van de Gezondheids- en welzijnswet voor dieren](../../../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en het nemen van besluiten die noodzakelijk zijn ter uitvoering van Europese verordeningen op het gebied van het Europese Visserijbeleid.   
 
 ### Artikel  8  
 
@@ -200,13 +196,13 @@ a. benoeming, ontslag en vergoeding van de leden van de Gemeenschappelijke Raadg
 
 b. benoeming, ontslag en vergoeding van de leden van de Adviesraad programmaonderzoek MKB en ondernemerschap;  
 
-c. benoeming, ontslag en vergoeding van de leden van topteams als genoemd in het Instellingsbesluit topteams in de implementatiefase topsectorenbeleid.    
+c. benoeming, ontslag en vergoeding van de leden van topteams als genoemd in het [Instellingsbesluit topteams in de implementatiefase topsectorenbeleid](../../../../../../../../../ministeriele-regeling/instellingsbesluit/topteams/in/de/implementatiefase/topsectorenbeleid/BWBR0031281/README.md).    
 
 ### Artikel  9  
 
 1.  Aan de directeur-generaal van Energie, Telecom en Mededinging wordt mandaat, volmacht en machtiging verleend voor het nemen van besluiten en verrichten van overige handelingen die verband houden met: 
 
-a. [de Mijnbouwwet](../../../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md), [het Mijnbouwbesluit](../../../../../../../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) en de [Mijnbouwregeling](../../../../../../../../../ministeriele-regeling/mijnbouwregeling/BWBR0014468/README.md), met uitzondering van het nemen van besluiten en het verrichten van overige handelingen waarvoor in artikel 14, onderdelen a tot en met c, mandaat, volmacht en machtiging wordt verleend aan de inspecteur-generaal der mijnen;  
+a. de [Mijnbouwwet](../../../../../../../../../wet/mijnbouwwet/BWBR0014168/README.md), het [Mijnbouwbesluit](../../../../../../../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) en de [Mijnbouwregeling](../../../../../../../../../ministeriele-regeling/mijnbouwregeling/BWBR0014468/README.md), met uitzondering van het nemen van besluiten en het verrichten van overige handelingen waarvoor in artikel 14, onderdelen a tot en met c, mandaat, volmacht en machtiging wordt verleend aan de inspecteur-generaal der mijnen;  
 
 b. benoeming, schorsing, ontslag en vergoeding van de leden van de Mijnraad;  
 
@@ -218,37 +214,33 @@ e. benoeming en ontslag van de bestuursleden van de stichting Centraal Orgaan Vo
 
 ### Artikel  10  
 
-Aan de directeur-generaal van Internationale Betrekkingen wordt mandaat en machtiging verleend inzake benoeming, ontslag en vergoeding van leden van het Nationaal Contact Punt (NCP) voor de OESO-richtlijnen voor multinationale ondernemingen.  
-
-### Artikel  11  
-
-Aan de directeur Bedrijfsvoering wordt mandaat, volmacht en machtiging verleend voor het nemen van besluiten en verrichten van overige handelingen ten aanzien van ambtenaren voor wie salarisschaal 1 tot en met 14 van [bijlage B van het BBRA](../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) geldt, inhoudende: 
+Aan de directeur Bedrijfsvoering wordt mandaat, volmacht en machtiging verleend voor het nemen van besluiten en verrichten van overige handelingen ten aanzien van medewerkers voor wie salarisschaal 1 tot en met 14 van [bijlage B van het BBRA](../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) geldt, inhoudende: 
 
 a. beslissingen op bezwaarschriften inzake personeelsaangelegenheden met uitzondering van de beslissingen op bezwaarschriften tegen besluiten die in mandaat zijn genomen door hem of door hem aangewezen ambtenaren;  
 
-b. het verlenen van ontslag op grond van [artikel 99 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en het verlenen van ontslag in combinatie met een financiële regeling;  
+b. het verlenen van ontslag op grond van [artikel 99 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en het verlenen van ontslag in combinatie met een financiële regeling;  
 
-c. het verlenen van buitengewoon verlof van lange duur ten behoeve van het vervullen van een functie bij een internationale volkenrechtelijke organisatie op grond van [artikel 34 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+c. het verlenen van buitengewoon verlof van lange duur ten behoeve van het vervullen van een functie bij een internationale volkenrechtelijke organisatie op grond van [artikel 34 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
 
 d. het beslissen omtrent het toekennen van een terugkeergarantie op grond van sociaal flankerend beleid;  
 
 e. het toekennen van financiële tegemoetkomingen op grond van sociaal flankerend beleid.    
 
-### Artikel  12  
+### Artikel  11  
 
 1.  Aan de directeur Wetgeving en Juridische Zaken wordt mandaat, volmacht en machtiging verleend voor het behandelen van verzoeken van de Nationale ombudsman en bezwaar- en beroepschriften, waaronder begrepen het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep, met uitzondering van: 
 
 a. bezwaar- en beroepschriften inzake personeelsaangelegenheden;  
 
-b. bezwaar- en beroepschriften tegen besluiten die in mandaat zijn genomen of behandeld door een functionaris of door die functionaris aangewezen ambtenaren die mandaat, volmacht en machtiging heeft verkregen voor het behandelen van bezwaar- en beroepschriften tegen die besluiten.     
-2.  Aan de directeur Wetgeving en Juridische Zaken wordt voorts volmacht en machtiging verleend voor het aangaan van verplichtingen inzake het verlenen van opdrachten aan externe juridische dienstverleners, met uitzondering van verplichtingen op het werkterrein van de hoofden van dienst, genoemd in artikel 1, onderdeel c, onder 13°, 17°, 19°, 20°, en 21°, en het werkterrein van het hoofd van dienst, genoemd in artikel 1, onderdeel c, onder 4°, voor zover het betreft het Programma Juridisch instrumentarium Natuur en Gebiedsinrichting.   
+b. bezwaar- en beroepschriften tegen besluiten die in mandaat zijn genomen of behandeld door een functionaris of door die functionaris aangewezen medewerkers die mandaat, volmacht en machtiging heeft verkregen voor het behandelen van bezwaar- en beroepschriften tegen die besluiten.     
+2.  Aan de directeur Wetgeving en Juridische Zaken wordt voorts volmacht en machtiging verleend voor het aangaan van verplichtingen inzake het verlenen van opdrachten aan externe juridische dienstverleners, met uitzondering van verplichtingen op het werkterrein van de hoofden van dienst, genoemd in artikel 1, onderdeel c, onder 11°, 15°, 17°, 18°, en 19°, en het werkterrein van het hoofd van dienst, genoemd in artikel 1, onderdeel c, onder 4°, voor zover het betreft het Programma Juridisch instrumentarium Natuur en Gebiedsinrichting.   
+
+### Artikel  12  
+
+1.  Aan de directeur-generaal Uitvoering en aan de directeur-hoofdinspecteur van het Agentschap Telecom wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor het behandelen van niet op personeelsaangelegenheden betrekking hebbende bezwaar- en beroepschriften, waaronder begrepen het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep, tegen besluiten die in mandaat zijn genomen of behandeld door hem of door onder hem ressorterende medewerkers.   
+2.  Aan de directeur-generaal Uitvoering wordt tevens mandaat, volmacht en machtiging verleend voor het behandelen van bezwaar- en beroepschriften, waaronder begrepen het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep tegen besluiten op het terrein van landbouw, natuur en voedselkwaliteit. Dit mandaat, volmacht en machtiging voor het behandelen van bezwaar- en beroepszaken tegen besluiten op [Wob](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) -verzoeken is beperkt tot besluiten die zijn genomen of behandeld door een hoofd van dienst of door hem aangewezen medewerkers als genoemd in artikel 1, onderdeel c, 14°, 15°, 17° en 18°.   
 
 ### Artikel  13  
-
-1.  Aan de directeur-generaal Uitvoering en aan de directeur-hoofdinspecteur van het Agentschap Telecom wordt, ieder voor zich, mandaat, volmacht en machtiging verleend voor het behandelen van niet op personeelsaangelegenheden betrekking hebbende bezwaar- en beroepschriften, waaronder begrepen het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep, tegen besluiten die in mandaat zijn genomen of behandeld door hem of door hem aangewezen ambtenaren.   
-2.  Aan de directeur-generaal Uitvoering wordt tevens mandaat, volmacht en machtiging verleend voor het behandelen van bezwaar- en beroepschriften, waaronder begrepen het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep tegen besluiten op het terrein van landbouw, natuur en voedselkwaliteit. Dit mandaat, volmacht en machtiging voor het behandelen van bezwaar- en beroepszaken tegen besluiten op Wob-verzoeken is beperkt tot besluiten die zijn genomen of behandeld door een hoofd van dienst of door hem aangewezen ambtenaren als genoemd in artikel 1, onderdeel c, 16°, 17°, 19° en 20°.   
-
-### Artikel  14  
 
 Aan de inspecteur-generaal der mijnen wordt mandaat, volmacht en machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen die verband houden met: 
 
@@ -256,17 +248,17 @@ a. de [artikelen 50](../../../../../../../../../wet/mijnbouwwet/BWBR0014168/READ
 
 b. de [artikelen 22](../../../../../../../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [30](../../../../../../../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [35, derde lid](../../../../../../../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [51, vijfde lid](../../../../../../../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [85](../../../../../../../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [88, tweede lid](../../../../../../../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [90](../../../../../../../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [91](../../../../../../../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [97](../../../../../../../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [99, derde en vierde lid](../../../../../../../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [101](../../../../../../../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [111](../../../../../../../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md), [112](../../../../../../../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md) en [113 van het Mijnbouwbesluit](../../../../../../../../../AMvB/mijnbouwbesluit/BWBR0014394/README.md);  
 
-c. de [Mijnbouwregeling](../../../../../../../../../ministeriele-regeling/mijnbouwregeling/BWBR0014468/README.md), met uitzondering van [artikel 1.2.1](../../../../../../../../../ministeriele-regeling/mijnbouwregeling/BWBR0014468/README.md) en [paragraaf 1.4](../../../../../../../../../ministeriele-regeling/mijnbouwregeling/BWBR0014468/README.md) en [artikel 12.1, tweede lid](../../../../../../../../../ministeriele-regeling/mijnbouwregeling/BWBR0014468/README.md);  
+c. de [Mijnbouwregeling](../../../../../../../../../ministeriele-regeling/mijnbouwregeling/BWBR0014468/README.md), met uitzondering van [artikel 1.2.1](../../../../../../../../../ministeriele-regeling/mijnbouwregeling/BWBR0014468/README.md) en [paragraaf 1.4](../../../../../../../../../ministeriele-regeling/mijnbouwregeling/BWBR0014468/README.md) en [artikel 12.1, tweede lid](../../../../../../../../../ministeriele-regeling/mijnbouwregeling/BWBR0014468/README.md);  
 
-d. [artikel 18.2 van de Wet Milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [artikelen 5.2](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [5.14](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [5.15](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [5.16](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [5.17](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [5.18](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [5.20, derde lid](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [5.21](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [5.22](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [5.23 van de Wet algemene bepalingen omgevingsrecht](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+d. [artikel 18.2 van de Wet Milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [artikelen 5.2](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [5.14](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [5.15](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [5.16](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [5.17](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [5.18](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [5.20, derde lid](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [5.21](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [5.22](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en [5.23 van de Wet algemene bepalingen omgevingsrecht](../../../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
 
-e. [artikel 119 van het Besluit Stralingsbescherming](../../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md).    
+e. [artikel 119 van het Besluit Stralingsbescherming](../../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md).    
 
 ### §  3  
 
 ####Instructies
 
-### Artikel  15  
+### Artikel  14  
 
 Mandaat en volmacht worden uitgeoefend met inachtneming van: 
 
@@ -274,72 +266,61 @@ a. ter zake geldende algemeen verbindende voorschriften, beleidsregels, de algem
 
 b. de in de beschrijving van de administratieve organisatie voorgeschreven medeparaafprocedures alsmede andere afspraken omtrent afstemming en coördinatie;  
 
-c. [artikel 2, tweede lid, van het Besluit Taak FEZ](../../../../../../../../../AMvB/besluit/taak/fez/BWBR0005333/README.md).    
+c. [artikel 2, tweede lid, van het Besluit Taak FEZ](../../../../../../../../../AMvB/besluit/taak/fez/BWBR0005333/README.md).    
 
-### Artikel  16  
+### Artikel  15  
 
-Het krachtens mandaat of volmacht ondertekenen van stukken geschiedt als volgt:  
-
-|
-|
-| De Minister van Economische Zaken, Landbouw en Innovatie,  |
-| namens deze:  |
-| --- |
-|  *(handtekening)*   |
-| --- |
-| --- |
-| --- |
-|  *(naam functionaris)*    *(functie)*   |
+Het krachtens mandaat of volmacht ondertekenen van stukken geschiedt als volgt: De Minister van Economische Zaken, namens deze: (handtekening) (naam functionaris) (functie)  
 
 ### §  4  
 
 ####Ondermandaat
 
-### Artikel  17  
+### Artikel  16  
 
 1.  De secretaris-generaal kan aan een hoofd van dienst binnen diens werkterrein ondermandaat en machtiging verlenen voor benoeming en ontslag van ambtenaren en andere personen in organen van rechtspersonen en colleges.   
 2.  De secretaris-generaal kan aan een hoofd van dienst mandaat, volmacht en machtiging verlenen voor P&O-aangelegenheden van zijn dienst, waarvoor de secretaris-generaal of de directeur Bedrijfsvoering krachtens dit besluit mandaat, volmacht en machtiging heeft verkregen.   
 
-### Artikel  18  
+### Artikel  17  
 
-1.  De hoofden van dienst kunnen, ieder voor zijn werkterrein, voor aangelegenheden als bedoeld in artikel 7, eerste lid, en voor zover van toepassing voor aangelegenheden als bedoeld in de artikelen 8 tot en met 14, ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatie-onderdelen of functionarissen betreft, aan de hoofden van die onderdelen of aan die functionarissen en aan hun plaatsvervangers.   
+1.  De hoofden van dienst kunnen, ieder voor zijn werkterrein, voor aangelegenheden als bedoeld in artikel 7, eerste lid, en voor zover van toepassing voor aangelegenheden als bedoeld in de artikelen 8 tot en met 13, ondermandaat, volmacht en machtiging verlenen aan hun plaatsvervangers, en wat het werkterrein van ondergeschikte organisatie-onderdelen of functionarissen betreft, aan de hoofden van die onderdelen of aan die functionarissen en aan hun plaatsvervangers.   
 2.  Voor P&O-aangelegenheden geldt, in afwijking van het eerste lid, dat geen ondermandaat, volmacht en machtiging mag worden verleend voor de volgende aangelegenheden: 
 
 a. het aanstellen in vaste of tijdelijke dienst en het beëindigen van vaste of tijdelijke aanstellingen;  
 
-b. het opdragen van een andere functie op basis van [artikel 57 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+b. het opdragen van een andere functie op basis van [artikel 57 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
 
-c. het opdragen van tijdelijke andere werkzaamheden op basis van [artikel 58 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+c. het opdragen van tijdelijke andere werkzaamheden op basis van [artikel 58 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
 
-d. het opleggen van disciplinaire straffen op grond van [artikel 81 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+d. het opleggen van disciplinaire straffen op grond van [artikel 81 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
 
-e. het verlenen van buitengewoon verlof op grond van [artikel 34 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+e. het verlenen van buitengewoon verlof op grond van [artikel 34 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
 
 f. het bevorderen naar een hogere salarisschaal;  
 
 g. het toekennen van beloningen;  
 
-h. het nemen van besluiten omtrent schadeloosstellingen op grond van [artikel 69 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+h. het nemen van besluiten omtrent schadeloosstellingen op grond van [artikel 69 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
 
 i. het verlenen van ontslag op grond van de [artikelen 49l](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [96 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
 
-j. het schorsen op grond van   [artikel 91 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+j. het schorsen op grond van [artikel 91 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
 
 k. het verminderen van bezoldiging tijdens schorsing;  
 
 l. het beslissen over een terugkeergarantie.     
 3.  De secretaris-generaal kan aan hoofden van dienst schriftelijk toestemming geven voor het, in afwijking van het tweede lid, verlenen van ondermandaat, volmacht en machtiging.   
 
-### Artikel  19  
+### Artikel  18  
 
 1.  Het verlenen van ondermandaat en volmacht alsmede wijziging daarvan, geschiedt schriftelijk en wat de formulering betreft in overeenstemming met de directeur Wetgeving en Juridische Zaken.   
-2.  Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de artikelen 17 en 18 wordt gezonden aan de secretaris-generaal, de directeur Wetgeving en Juridische Zaken, de directeur Financieel-Economische Zaken, de directeur Bedrijfsvoering, de directeur van de Auditdienst en de Algemene Rekenkamer.   
+2.  Een afschrift van besluiten inzake ondermandaat, volmacht en machtiging als bedoeld in de artikelen 16 en 17 wordt gezonden aan de secretaris-generaal, de directeur Wetgeving en Juridische Zaken, de directeur Financieel-Economische Zaken, de directeur Bedrijfsvoering, de Auditdienst Rijk en de Algemene Rekenkamer.   
 
 ### §  5  
 
 ####Vervanging
 
-### Artikel  20  
+### Artikel  19  
 
 1.  De uit dit besluit voor de secretaris-generaal voortvloeiende bevoegdheden gaan in geval van afwezigheid over op een door de secretaris-generaal aangewezen directeur-generaal.   
 2.  De uit dit besluit voor de hoofden van dienst voortvloeiende bevoegdheden gaan in geval van afwezigheid over op hun plaatsvervanger, met uitzondering van de bevoegdheid tot het verlenen van ondermandaat, volmacht en machtiging.   
@@ -348,90 +329,49 @@ l. het beslissen over een terugkeergarantie.
 
 ####Ondertekening bij afwezigheid minister
 
-### Artikel  21  
+### Artikel  20  
 
 1.  Indien afwezigheid of ontstentenis van de minister eraan in de weg staat dat een door de minister genomen besluit door hem wordt ondertekend, kan, tenzij een wettelijk voorschrift of de aard van de bevoegdheid zich ertegen verzet, een besluit namens de minister worden ondertekend door de secretaris-generaal.   
-2.  In het geval bedoeld in het eerste lid geschiedt het ondertekenen als volgt:  
-
-|
-|
-| De Minister van Economische Zaken, Landbouw en Innovatie,  |
-| namens deze,  |
-| overeenkomstig het door de minister genomen besluit:  |
-| --- |
-|  *(handtekening)*   |
-| --- |
-| --- |
-| --- |
-|  *(naam)*   secretaris-generaal  |
+2.  In het geval bedoeld in het eerste lid geschiedt het ondertekenen als volgt: De Minister van Economische Zaken, namens deze, overeenkomstig het door de minister genomen besluit: (handtekening) (naam) secretaris-generaal   
 
 ### §  7  
 
 ####Overgangs- en slotbepalingen
 
+### Artikel  21  
+
+1.  Het [Besluit mandaat, volmacht en machtiging EL&I 2012](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/el&i/2012/BWBR0030848/README.md) wordt ingetrokken.   
+2.  Na de inwerkingtreding van dit besluit berusten de op het [Besluit mandaat, volmacht en machtiging EL&I 2012](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/el&i/2012/BWBR0030848/README.md) gebaseerde besluiten op dit besluit.   
+
 ### Artikel  22  
-
-1 Het [Besluit mandaat, volmacht en machtiging EZ 2011](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/el&i/2011/BWBR0029917/README.md) wordt ingetrokken.  
-
-2 Het [Mandaatbesluit LNV directie Auditdienst](../../../../../../../../../ministeriele-regeling/mandaatbesluit/lnv/directie/auditdienst/BWBR0019907/README.md) wordt ingetrokken.  
-
-3 De [Mandaatregeling hoofd regiebureau POP](../../../../../../../../../ministeriele-regeling/mandaatregeling/hoofd/regiebureau/pop/BWBR0012760/README.md) wordt ingetrokken.  
-
-4 Het [Mandaatbesluit LNV Dienst ICT Uitvoering](../../../../../../../../../ministeriele-regeling/mandaatbesluit/lnv/dienst/ict/uitvoering/BWBR0022029/README.md) wordt ingetrokken.  
-
-5 Het [Mandaatbesluit LNV Dienst Landelijk Gebied](../../../../../../../../../ministeriele-regeling/mandaatbesluit/lnv/dienst/landelijk/gebied/BWBR0019116/README.md) wordt ingetrokken.  
-
-6 Het [Mandaatbesluit LNV Voedsel en Waren Autoriteit inzake ontheffing Q-koortsmaatregelen](../../../../../../../../../ministeriele-regeling/mandaatbesluit/lnv/voedsel/en/waren/autoriteit/inzake/ontheffing/etc/BWBR0027721/README.md) wordt ingetrokken.  
-
-7 Het [Mandaatbesluit LNV Algemene Inspectiedienst](../../../../../../../../../ministeriele-regeling/mandaatbesluit/lnv/algemene/inspectiedienst/BWBR0018995/README.md) wordt ingetrokken.  
-
-8 Het [Mandaatbesluit LNV Agentschap NL](../../../../../../../../../ministeriele-regeling/mandaatbesluit/lnv/senternovem/BWBR0025590/README.md) wordt ingetrokken.  
-
-9 Het [Mandaatbesluit EL&I Dienst Regelingen 2011](../../../../../../../../../ministeriele-regeling/mandaatbesluit/lnv/dienst/regelingen/2011/BWBR0029927/README.md) wordt ingetrokken.  
-
-10 Het [Mandaatbesluit LNV Voedsel en Waren Autoriteit](../../../../../../../../../ministeriele-regeling/mandaatbesluit/lnv/voedsel/en/waren/autoriteit/BWBR0019265/README.md) wordt ingetrokken.  
-
-11 Het [Besluit mandaat, volmacht en machtiging algemeen directeur AgNL betreffende ontheffingen jaarrekeningenplicht](../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/algemeen/directeur/agentschap/nl/etc/BWBR0026864/README.md) wordt ingetrokken.  
-
-12 Het [Besluit mandaat LASER Subsidieregeling breedband Kenniswijk](../../../../../../../../../ministeriele-regeling/besluit/mandaat/laser/subsidieregeling/breedband/kenniswijk/BWBR0014004/README.md) wordt ingetrokken.  
-
-13 Het [Besluit van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 25 januari 2011, nr. 161331 houdende verlening van mandaat ten behoeve van landbouw, natuur- en visserijbeheer op de openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../ministeriele-regeling-BES/besluit/verlening/mandaat/landbouw/natuur-/en/visserijbeheer/op/de/etc/BWBR0029518/README.md) wordt ingetrokken.  
-
-14 De [Regeling volmacht Raad voor dierenaangelegenheden van 23 januari 2003](../../../../../../../../../ministeriele-regeling/regeling/volmacht/raad/voor/dierenaangelegenheden/BWBR0014636/README.md) (Stcr. nr. 2003, 21) wordt ingetrokken.    
-
-### Artikel  23  
-
-Wijzigt het Mandaatbesluit LNV Plantenziektenkundige Dienst en de keuringsdiensten.   
-
-### Artikel  24  
 
 Een afschrift van dit besluit wordt gezonden aan de secretaris-generaal, de hoofden van dienst en de Algemene Rekenkamer.  
 
-### Artikel  25  
+### Artikel  23  
 
-Dit besluit treedt in werking met ingang van 1 januari 2012.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin het wordt geplaatst en werkt terug tot en met 5 november 2012.  
 
-### Artikel  26  
+### Artikel  24  
 
-Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging EL&I 2012.  
+Dit besluit wordt aangehaald als: Besluit mandaat, volmacht en machtiging EZ 2012.  
 Dit besluit zal met de toelichting en de bijlage in de Staatscourant worden geplaatst.   
 
-’s-Gravenhage 
-12 december 2011   
+‘s-Gravenhage 
+7 december 2012   
 
 De 
-Minister van Economische Zaken, Landbouw en Innovatie,
-M.J.M.Verhagen  
+Minister van Economische Zaken,
+H.G.J.Kamp.  
 
 ### Bijlage  
 
-####: Organisatie van het Ministerie van Economische Zaken, Landbouw en Innovatie
+####: Organisatie van het Ministerie van Economische Zaken
 
 ### I  
 
 ####Hoofdstructuur van de organisatie
 
-1. Het Ministerie van Economische Zaken, Landbouw en Innovatie bestaat uit het kernministerie en de buitendiensten.  
+1. Het Ministerie van Economische Zaken bestaat uit het kernministerie en de buitendiensten.  
 
 2. Het kernministerie bestaat uit: 
 
@@ -445,25 +385,23 @@ b. de beleidsonderdelen:
 
 3°. het directoraat-generaal voor Energie, Telecom en Mededinging;  
 
-4°. het directoraat-generaal voor Internationale Betrekkingen;  
-
-5°. het directoraat-generaal voor Natuur en Regio;    
+4°. het directoraat-generaal voor Natuur en Regio.    
 
 c. de stafdirecties: 
 
 1°. de directie Algemene Economische Politiek;  
 
-2°. de Auditdienst;  
+2°. de directie Bedrijfsvoering;  
 
-3°. de directie Communicatie;  
+3°. de directie Bureau Bestuursraad;  
 
-4°. de directie Bedrijfsvoering;  
+4°. de directie Communicatie;  
 
-5°. de directie Bureau Bestuursraad;  
+5°. de directie Europa;  
 
 6°. de directie Financieel-Economische Zaken;  
 
-7°. de directie Wetgeving en Juridische Zaken;    
+7°. de directie Wetgeving en Juridische Zaken.    
 
 d. de overige onderdelen: 
 
@@ -471,7 +409,7 @@ d. de overige onderdelen:
 
 2°. PIANOo.      
 
-3. Onder het Ministerie van Economische Zaken, Landbouw en Innovatie ressorteren de volgende buitendiensten: 
+3. Onder het Ministerie van Economische Zaken ressorteren de volgende buitendiensten: 
 
 a. het Centraal Planbureau (CPB);  
 
@@ -493,7 +431,7 @@ g. Agentschap Telecom.
 
 1. De algemene leiding staat onder leiding van de secretaris-generaal.  
 
-2. De secretaris-generaal heeft tot taak de aangelegenheden, genoemd in artikel 6 van het Besluit mandaat, volmacht en machtiging EL&I 2012.    
+2. De secretaris-generaal heeft tot taak de aangelegenheden, genoemd in artikel 6 van het Besluit mandaat, volmacht en machtiging EZ 2012.    
 
 ### III  
 
@@ -537,7 +475,7 @@ d. de directie Plantaardige Agroketens en Voedselkwaliteit.
 
 ### B  
 
-####De Directie Agrokennis
+####De directie Agrokennis
 
 1. De directie Agrokennis staat onder leiding van een directeur.  
 
@@ -567,7 +505,7 @@ c. de bewaking, monitoring en early warning van veterinaire veiligheid;
 
 d. het zorg dragen voor een goede crisisweerbaarheid van het directoraat-generaal voor Agro;  
 
-e. de coördinatie van het opdrachtgeverschap voor het Ministerie van Economische Zaken, Landbouw en Innovatie van de Nederlandse Voedsel- en Warenautoriteit;  
+e. de coördinatie van het opdrachtgeverschap voor het Ministerie van Economische Zaken van de Nederlandse Voedsel- en Warenautoriteit;  
 
 f. het zorg dragen voor implementatie van de agenda van de topsector Agro-Food;  
 
@@ -699,7 +637,7 @@ b. het borgen en richting geven aan de (programmering van de) kennisinfrastructu
 
 c. het nader uitwerken en uitvoeren van algemene kaders van het kennis- en innovatiebeleid voor alle topsectoren en in het bijzonder de topsectoren die zijn belegd bij het directoraat-generaal voor Bedrijfsleven en Innovatie, zoals high tech systemen & materialen en chemie;  
 
-d. het optreden als accountmanager voor de kennisinfrastructuur behorend bij de topsectoren binnen het domein van het directoraat-generaal voor Bedrijfsleven en Innovatie en tevens het stimuleren van vraagsturing in de programmering en privaat – publieke samenwerking hierbij;  
+d. het optreden als accountmanager voor de kennisinfrastructuur behorend bij de topsectoren binnen het domein van het directoraat-generaal voor Bedrijfsleven en Innovatie en tevens het stimuleren van vraagsturing in de programmering en privaat -publieke samenwerking hierbij;  
 
 e. het optreden als medepenvoerder van het kennis- en innovatiegedeelte van de topagenda’s;  
 
@@ -737,7 +675,7 @@ f. het zorg dragen voor adequate juridische structuren, corporate governance en 
 
 g. het stimuleren van menselijk kapitaal door onder meer het bevorderen van een goede aansluiting tussen onderwijs en arbeidsmarkt en het gericht inzetten op kennismigratie;  
 
-h. het aanpakken van administratieve lasten/regeldruk op het domein van het Ministerie van Economische Zaken, Landbouw en Innovatie.      
+h. het aanpakken van administratieve lasten/regeldruk op het domein van het Ministerie van Economische Zaken.      
 
 ### D  
 
@@ -769,7 +707,7 @@ g. het beheren van Digitale Agenda.nl met oog voor verbintenis met Digital Agend
 
 2. De directie heeft tot taak: 
 
-a. het verder uitrollen en implementeren vanhet bedrijfslevenbeleid in den brede en specifiek van de sectorale topagenda’s;  
+a. het verder uitrollen en implementeren van het bedrijfslevenbeleid in den brede en specifiek van de sectorale topagenda’s;  
 
 b. het vormen van visie en het adviseren van de ambtelijke en de politieke top met betrekking tot de aanpak rondom topsectoren- en industriebeleid en de totstandkoming en implementatie van het beleid omtrent de sectorale topagenda’s;  
 
@@ -783,9 +721,9 @@ f. het signaleren van knelpunten en kansen en het optreden als accountmanager va
 
 g. het dragen van verantwoordelijkheid voor tariefschorsingen en aantal specifieke dossiers met de daarbij behorende instrumenten waaronder compensatiebeleid;  
 
-i. het zorg dragen voor de Nederlandse inbreng bij de ontwikkeling en uitvoering van het Europese industriebeleid.  
+h. het zorg dragen voor de Nederlandse inbreng bij de ontwikkeling en uitvoering van het Europese industriebeleid;  
 
-j. het afsluiten van compensatieovereenkomsten en het afhandelen van compensatieclaims in het kader van militaire productie.      
+i. het afsluiten van compensatieovereenkomsten en het afhandelen van compensatieclaims in het kader van militaire productie.      
 
 ### F  
 
@@ -851,7 +789,7 @@ c. de directie Mededinging en Consumenten;
 
 d. de directie Telecommarkt;  
 
-e. de programmadirectie Nieuwe Kerncentrale en Veiligheid.      
+e. de programmadirectie Nucleaire Installaties en Veiligheid.      
 
 ### B  
 
@@ -921,7 +859,7 @@ e. het zorg dragen voor een optimale marktordening door onder meer de [Winkeltij
 
 a. het zorg dragen voor marktwerkingsbeleid voor de telecommunicatiesector en strategievorming;  
 
-b. het zorg dragenvoor elektronische communicatieregelgeving (inclusief nummers, toezicht en uitvoering;  
+b. het zorg dragen voor elektronische communicatieregelgeving (inclusief nummers, toezicht en uitvoering;  
 
 c. het zorg dragen voor frequentie- en antennebeleid;  
 
@@ -935,137 +873,31 @@ g. het zorg dragen voor beleid voor het borgen van elektronische privacy en veil
 
 ### F  
 
-####De programmadirectie Nieuwe Kerncentrale en Veiligheid
+####De programmadirectie Nucleaire Installaties en Veiligheid
 
-1. De programmadirectie Nieuwe Kerncentrale staat onder leiding van een programmadirecteur.  
+1. De programmadirectie Nucleaire Installaties en Veiligheid staat onder leiding van een programmadirecteur.  
 
 2. De programmadirectie heeft tot taak: 
 
-a. het verlenen van een vergunning nieuwe kerncentrale op grond van de [Kernenergiewet](../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md), inclusief veiligheidsbeleid, ruimtelijke inpassing en Rijkscoördinatieregeling;  
+a. het zorg dragen voor het aansluiten bij internationale ontwikkelingen waaronder de inzichten van EU en IAEA;  
 
-b. het zorg dragen voor de veiligheid en vergunningverlening op grond van de [Kernenergiewet](../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) voor bestaande nucleaire inrichtingen;  
+b. het zorg dragen voor internationaal afgestemd beleid voor voorzorg en nazorg bij nucleaire rampen;  
 
-c. het zorg dragen voor radioactief afval en veiligheidsaspecten ontmanteling;  
+c. het zorg dragen voor een robuust beleidskader voor nieuwe nucleaire installaties;  
 
-b. het zorgen voor stralingsbescherming;  
+d. het zorg dragen voor actuele en toegesneden kernenergie- en stralingsbeschermingsregelgeving;  
 
-c. het zorg dragen voor vergunningverlening op grond van de [Kernenergiewet](../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) voor een nieuwe onderzoeksreactor, inclusief veiligheidseisen.      
+e. het zorg dragen voor nucleaire veiligheid in het bijzonder na de lessen van Fukushima;  
+
+f. het zorg dragen voor adequate en proportionele beveiliging van nucleaire installaties, transport en radiologische bronnen;  
+
+g. het zorg dragen voor het verlenen van vergunningen op grond van de [Kernenergiewet](../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md);  
+
+h. het zorg dragen voor het radioactief afval, ontmanteling van installaties en het beleid om te komen tot een eindberging;  
+
+i. het zorg dragen voor bescherming van mens en milieu tegen ioniserende straling.      
 
 ### VI  
-
-####Het directoraat-generaal voor Internationale Betrekkingen
-
-### A  
-
-####Algemeen
-
-1. Het directoraat-generaal voor Internationale Betrekkingen staat onder leiding van een directeur-generaal.  
-
-2. Het directoraat-generaal heeft tot taak: 
-
-a. het mede ontwikkelen en implementeren van goede beleidskaders gericht op het versterken van het concurrentievermogen en de interne markt van de EU;  
-
-b. het bevorderen van vrij internationaal handelsverkeer en het versterken van de mondiale economische rechtsorde met inachtneming van internationaal maatschappelijk verantwoord ondernemen;  
-
-c. het bevorderen van internationaal ondernemen en het ondersteunen van het Nederlandse bedrijfsleven in kansrijke markten en sectoren;  
-
-d. het formuleren van beleid inzake globalisering en de inzet op publieke goederen, het ondersteunen van de internationalisering van het Nederlandse bedrijfsleven en het versterken van de positie en het imago van Nederland als excellente vestigingsplaats ten behoeve van het aantrekken van hoogwaardige buitenlandse investeringen.    
-
-3. Het directoraat-generaal bestaat uit: 
-
-a. de directie Europa;  
-
-b. de directie Internationale Marktordening en Handelspolitiek;  
-
-c. de directie Internationaal Ondernemen;  
-
-d. de programmadirectie Economische Diplomatie en Transitie.      
-
-### B  
-
-####De directie Europa
-
-1. De directie Europa staat onder leiding van een directeur.  
-
-2. De directie heeft tot taak: 
-
-a. het bevorderen van het functioneren van de Europese interne markt en het toezicht daarop en het verzorgen van het beleid en advies op het gebied van staatssteun en het adviseren vanuit een economische invalshoek over departementale steunmaatregelen;  
-
-b. het zorg dragen voor coherente EU beleidskaders voor (nationaal) economisch beleid, dat bestaat uit onderdelen als de Europa 2020 strategie voor groei en banen, het uitbreidingsdossier, de versterking van het Europese concurrentievermogen, klimaat, schaarste van grondstoffen en institutionele EU-ontwikkelingen;  
-
-c. het ontwikkelen van coherent en voor Nederland optimaal beleid in de Raad voor Concurrentievermogen;  
-
-d. het coördineren van en het zorg dragen voor een coherente en daadkrachtige inbreng op Europese dossiers in nationaal en EU-kader waaronder in de Coördinatie Commissie, de Ministeriële Commissie, de Energie Raad, de Telecom Raad, de Landbouw- en Visserijraad en de Milieuraad;  
-
-e. het onderhouden van contacten met relevante (kabinetten van) EU-Commissarissen, het EU-voorzitterschap en collega-bewindspersonen uit de Lid-Staten van de EU en andere relevante belanghebbenden, waaronder het bedrijfsleven;  
-
-f. het coördineren zowel qua inhoud als proces van de EU begroting en de Financiële Perspectieven EU;  
-
-g. het doorvertalen van de kerntaken van de directie en de relevante EU-thema’s naar mondiale overlegstructuren.      
-
-### C  
-
-####De directie Internationale Marktordening en Handelspolitiek
-
-1. De directie Internationale Marktordening en Handelspolitiek staat onder leiding van een directeur.  
-
-2. De directie heeft tot taak: 
-
-a. het, op basis van Nederlandse belangen, bijdragen aan de verdere vrijmaking van het internationale handels- en investeringsverkeer via de WTO/Doha ronde, vrijhandelsakkoorden en investeringsbeschermingsovereenkomsten;  
-
-b. het versterken van de internationale economische rechtsorde in het kader van de WTO, OESO en EU en door beïnvloeding van het G20 proces;  
-
-c. het monitoren en het bevorderen van markttoegang in derde landen via de EU-markttoegangstrategie- op basis van samenwerking met EVD, posten en bedrijfsleven;  
-
-d. het bevorderen van kaders voor internationaal maatschappelijk verantwoord ondernemen in het kader van de VN, OESO en EU of door andere vormen van intergouvernementele samenwerking;  
-
-e. het behouden van draagvlak voor globalisering door realistische invulling van ketenverantwoordelijkheid;  
-
-f. het bevorderen van due diligence onderzoek naar MVO risicofactoren als norm voor internationaal ondernemen;  
-
-g. het beheren van het nationaal contact punt (NCP) voor de OESO-richtlijnen voor multinationale ondernemingen, als meldpunt voor vermeende schendingen van de OESO-richtlijnen en als informatieverstrekker over de toepassing van de OESO-richtlijnen;  
-
-h. de exportcontrole van strategische goederen en sancties in het kader van de EU, het Wassenaar Arrangement, de Australië groep, de Nuclear Suppliers Group, Organisation for the Prohibition of Chemical Weapons en de Missile Technology Control Regime.      
-
-### D  
-
-####De directie Internationaal Ondernemen
-
-1. De directie Internationaal Ondernemen staat onder leiding van een directeur.  
-
-2. De directie heeft tot taak: 
-
-a. het faciliteren van internationale markttoegang door een actieve inzet op economische diplomatie met bijzondere aandacht voor de rol van economische sectoren in het beleid voor ontwikkelingssamenwerking, onder meer door de inzet op landbouw, voedselzekerheid, grondstoffen en water in dat beleid;  
-
-b. het thematisch invulling geven en het coördineren van economische missies en inkomen en uitgaande bezoeken op hoogambtelijk en politiek niveau met bijzondere aandacht voor de economische topsectoren;  
-
-c. het voeren van het (financieel) instrumentarium op de beleidsterreinen export- en investeringsbevordering, marktfacilitatie en markttoegang en het onderhouden van de relatie met relevante bedrijven, overheden, kennisinstellingen, maatschappelijke partners en internationale (financierings)organisaties;  
-
-d. het zorg dragen voor en het aansturen van een optimaal werkende internationale vertegenwoordiging van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
-
-e. het behandelen van klachten over oneerlijke concurrentie waar Nederlandse bedrijven in het buitenland mee te maken hebben.      
-
-### E  
-
-####De programmadirectie Economische Diplomatie en Transitie
-
-1. De programmadirectie Economische Diplomatie en Transitie staat onder leiding van een programmadirecteur.  
-
-2. De programmadirectie heeft tot taak: 
-
-a. het signaleren van internationale politieke en economische ontwikkelingen die relevant zijn voor het Ministerie van Economische Zaken, Landbouw en Innovatie en het vertalen daarvan in een internationale beleidsagenda op basis waarvan keuzes kunnen worden gemaakt (door ambtelijke en politieke top) voor de Nederlandse positie in het internationale krachten- en speelveld;  
-
-b. het vormgeven aan de visie en aanpak economische diplomatie;  
-
-c. het verbinden van schaarste en transitie met de rol van bedrijfsleven in ontwikkelingssamenwerking;  
-
-d. het vormgeven van de internationale dimensie van het beleid voor topsectoren;  
-
-e. het ontwikkelen van een visie op de acquisitie van investeringen waarbij een goede wisselwerking tussen het beleid en uitvoeringspraktijk voorop staat;  
-
-f. het vormgeven aan de vertegenwoordiging van het Ministerie van Economische Zaken, Landbouw en Innovatie in het buitenland inclusief de modernisering van het concordaat, alsmede de vormgeving van het coördinerend opdrachtgeverschap namens het Ministerie van Economische Zaken, Landbouw en Innovatie aan deze vertegenwoordiging en de vertaling daarvan in de vormgeving van de interne en rijksbrede jaarplancyclus.      
-
-### VII  
 
 ####Het directoraat-generaal voor Natuur en Regio
 
@@ -1087,11 +919,13 @@ d. het zorgen dat er in Nederland goede fysiek-ruimtelijke voorwaarden zijn voor
 
 e. het versterken en faciliteren van gebiedsgerichte clusters van bedrijvigheid binnen de aanpak voor topsectoren;  
 
-f. het verantwoordelijkheid dragen voor de EFRO-Structuurfondsen;  
+f. de verantwoordelijkheid dragen voor de EFRO-Structuurfondsen;  
 
 g. het zorg dragen dat rijksbelangen tijdig in regionale netwerken en gebiedsgerichte agenda’s, projecten of programma’s op het gebied van natuur en economie worden ingebracht;  
 
-h. het zorgen voor het bestuurlijke coördinatiepunt van het Ministerie van Economische Zaken, Landbouw en Innovatie in de regio tijdens een crisis.    
+h. het zorgen voor het bestuurlijke coördinatiepunt van het Ministerie van Economische Zaken in de regio tijdens een crisis;  
+
+i. de coördinatie van aangelegenheden rond Caribisch Nederland.    
 
 3. Het directoraat-generaal bestaat uit: 
 
@@ -1139,7 +973,9 @@ c. het zorg dragen voor de ruimelijke taken in het kader van het Nationaal Delta
 
 d. het zorgen voor de regionale crisisfunctie;  
 
-e. het zorg dragen voor vergunningverlening op grond van de [Natuurbeschermingswet 1998](../../../../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md).      
+e. het zorg dragen voor vergunningverlening op grond van de [Natuurbeschermingswet 1998](../../../../../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md);  
+
+f. de coördinatie van aangelegenheden rond Caribisch Nederland, inclusief algemeen-bestuurlijke zaken.      
 
 ### D  
 
@@ -1167,7 +1003,7 @@ e. het zorgen voor een programmatische aanpak van stikstof (PAS).
 
 2. De programmadirectie heeft tot taak het verzorgen van juridische infrastructuur voor de realisatie van de beleidsopgaven uit het regeerakkoord op het vlak van het natuurbeleid en het gebiedsgerichte beleid.    
 
-### VIII  
+### VII  
 
 ####De directie Algemene Economische Politiek
 
@@ -1175,33 +1011,19 @@ e. het zorgen voor een programmatische aanpak van stikstof (PAS).
 
 2. De directie heeft tot taak het versterken van het duurzaam economisch groei vermogen van Nederland en het scheppen van voorwaarden voor een goed functioneren economie en markten door middel van: 
 
-a. het analyseren van, adviseren over en waar nodig interveniëren op het gebied van macro-economische ontwikkelingen, arbeidsmarkt en sociale zekerheid, collectieve sector, overheidsfinanciën en ordening voor zover de algemeen-economische of budgettaire aspecten leidend zijn;  
+a. het analyseren van, adviseren over en waar nodig interveniëren op het gebied van macro-economische ontwikkelingen, arbeidsmarkt en sociale zekerheid, collectieve sector, overheids-financiën en ordening voor zover de algemeen-economische of budgettaire aspecten leidend zijn;  
 
 b. het analyseren van en adviseren over algemeen-economische aspecten van EU-beleid, waaronder macro-economische beleidscoördinatie in EU-verband, EU 2020 en Ecofin, inclusief deelname aan het directeurenoverleg Ecofin;  
 
 c. het begeleiden en waar nodig initiëren van activiteiten in het kader van het beleid gericht op structurele hervorming van de Nederlandse economie;  
 
-d. het verkennen, het agenderen, het aanjagen en het adviseren van ontwikkelingen en vraagstukken in de breedte van het beleidsterrein van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
+d. het verkennen, het agenderen, het aanjagen en het adviseren van ontwikkelingen en vraagstukken in de breedte van het beleidsterrein van het Ministerie van Economische Zaken;  
 
-e. het versterken van het strategisch vermogen van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
+e. het versterken van het strategisch vermogen van het Ministerie van Economische Zaken;  
 
-f. het coördineren van het fiscale beleid binnen het Ministerie van Economische Zaken, Landbouw en Innovatie.      
+f. het coördineren van het fiscale beleid binnen het Ministerie van Economische Zaken.      
 
-### IX  
-
-####De Auditdienst
-
-1. De Auditdienst staat onder leiding van een directeur.  
-
-2. De Auditdienst heeft tot taak: 
-
-a. de accountantscontrole van het departementale jaarverslag en de verantwoording van buitendiensten van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
-
-b. het verrichten van periodiek onderzoek naar de bedrijfs- en beleidsvoering ten behoeve van de politieke en ambtelijke leiding;  
-
-c. het doen van onderzoeken op verzoek van de ambtelijke leiding en overig management naar de eigen bedrijfsvoerings- en beleidsprocessen.      
-
-### X  
+### VIII  
 
 ####De directie Bedrijfsvoering
 
@@ -1217,7 +1039,7 @@ c. het ondersteunen en adviseren van de departementsleiding en het management in
 
 d. het uitvoeren van taken rond personeels- en salarisadministratie voor zover die niet bij P-Direkt zijn ondergebracht en met betrekking tot de personeelsstichting;  
 
-e. het fungeren als Chief Information Officer binnen het Ministerie van Economische Zaken, Landbouw en Innovatie zoals bepaald door het directoraat-generaal Organisatie en Bedrijfsvoering Rijk van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.  
+e. het fungeren als Chief Information Officer binnen het Ministerie van Economische Zaken zoals bepaald door het directoraat-generaal Organisatie en Bedrijfsvoering Rijk van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.  
 
 f. het beschikbaar stellen en houden van ICT-toepassingen, ondersteuning bij het gebruik van toepassingen en het functioneel beheer van concernapplicaties en gegevensbeheer voor Identity Management;  
 
@@ -1261,7 +1083,7 @@ y. de controle op de personele budgetten, processen en formatie van het kerndepa
 
 z. de financiële controle op materiële budgetten en het bewaken van de kwaliteit van werkprocessen van de directie.      
 
-### XI  
+### IX  
 
 ####De directie Bureau Bestuursraad
 
@@ -1269,7 +1091,7 @@ z. de financiële controle op materiële budgetten en het bewaken van de kwalite
 
 2. De directie heeft tot taak: 
 
-a. het bedienen van bewindslieden en ambtelijke top opdat zij hun politieke, inhoudelijke en bedrijfsmatige eindverantwoordelijkheid voor het functioneren van het Ministerie van Economische Zaken, Landbouw en Innovatie ten volle waar kunnen maken;  
+a. het bedienen van bewindslieden en ambtelijke top opdat zij hun politieke, inhoudelijke en bedrijfsmatige eindverantwoordelijkheid voor het functioneren van het Ministerie van Economische Zaken ten volle waar kunnen maken;  
 
 b. het coördineren van contacten met het parlement en de voorbereiding voor de ministerraad;  
 
@@ -1283,11 +1105,11 @@ f. het behandelen van de aangelegenheden op het gebied van Kabinet & Protocol;
 
 g. de coördinatie van de departementale crisisbeheersing;  
 
-h. het bieden van ondersteuning aan de leden van de Bestuursraad voor hun portefeuilletaken en aangelegenheden die het gehele Ministerie van Economische Zaken, Landbouw en Innovatie betreffen;  
+h. het bieden van ondersteuning aan de leden van de Bestuursraad voor hun portefeuilletaken en aangelegenheden die het gehele Ministerie van Economische Zaken betreffen;  
 
 i. de coördinatie van burgerbrieven.      
 
-### XII  
+### X  
 
 ####De directie Communicatie
 
@@ -1305,7 +1127,7 @@ d. het verzamelen, initiëren en coördineren van communicatieonderzoek;
 
 e. het volgen, strategisch inzetten en innoveren van online media in de externe en interne communicatie;  
 
-f. het strategisch inzetten van externe optredens, zowel reactief als proactief.  
+f. het strategisch inzetten van externe optredens, zowel reactief als proactief;  
 
 g. het ontwikkelen, implementeren en uitvoeren van het (corporate) communicatiebeleid;  
 
@@ -1313,17 +1135,39 @@ h. het realiseren van samenhang in en het bevorderen van kwaliteit van de in- en
 
 i. het bijdragen aan de interdepartementale beleidsvorming en samenwerking op communicatiegebied, onder andere met betrekking tot de kabinetsbrede communicatie.      
 
-### XIII  
+### XI  
 
-####De directie Financieel-Economische zaken
+####De directie Europa
+
+1. De directie Europa staat onder leiding van de loco secretaris-generaal.  
+
+2. De directie heeft tot taak: 
+
+a. het bevorderen van het functioneren van de Europese interne markt en het toezicht daarop en het verzorgen van de interdepartementale coördinatie (inclusief de rapportageverplichtingen) van staatssteun voor de lidstaat Nederland, de coördinatie van de onderhandelingen betreffende staatssteunkaders en het coördineren van Nederlandse standpunten daarover;  
+
+b. het zorg dragen voor coherente EU beleidskaders voor (nationaal) economisch beleid, dat bestaat uit onderdelen als de Europa 2020 strategie voor groei en banen, het uitbreidingsdossier, de versterking van het Europese concurrentievermogen, klimaat, schaarste van grondstoffen en institutionele EU-ontwikkelingen;  
+
+c. het ontwikkelen van coherent en voor Nederland optimaal beleid in de Raad voor Concurrentie-vermogen;  
+
+d. het coördineren van en het zorg dragen voor een coherente en daadkrachtige inbreng op Europese dossiers in nationaal en EU-kader waaronder in de Coördinatie Commissie, de Ministeriële Commissie, de Energie Raad, de Telecom Raad, de Landbouw- en Visserijraad en de Milieuraad;  
+
+e. het onderhouden van contacten met relevante (kabinetten van) EU-Commissarissen, het EU-voorzitterschap en collega-bewindspersonen uit de Lid-Staten van de EU en andere relevante belanghebbenden, waaronder het bedrijfsleven;  
+
+f. het coördineren zowel qua inhoud als proces van de EU begroting en de Financiële Perspectie-ven EU;  
+
+g. het doorvertalen van de kerntaken van de directie en de relevante EU-thema’s naar mondiale overlegstructuren.      
+
+### XII  
+
+####De directie Financieel-Economische Zaken
 
 1. De directie Financieel-Economische Zaken staat onder leiding van een directeur.  
 
 2. De directie heeft tot taak: 
 
-a. het samenstellen van de jaarlijkse begrotingen en de daarmee samenhangende suppletoire begrotingen van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
+a. het samenstellen van de jaarlijkse begrotingen en de daarmee samenhangende suppletoire begrotingen van het Ministerie van Economische Zaken;  
 
-b. het opstellen van het jaarverslag van het Ministerie van Economische Zaken, Landbouw en Innovatie en van het Dier Gezondheids Fonds;  
+b. het opstellen van het jaarverslag van het Ministerie van Economische Zaken en van het Dier Gezondheids Fonds;  
 
 c. het uitbrengen van adviezen over begrotingsvraagstukken en financieel-economische beleidsadviezen;  
 
@@ -1331,19 +1175,21 @@ d. het beoordelen van financieel-economische en budgettaire gevolgen van het bel
 
 e. het uitoefenen van toezicht op de uitvoering van de begroting;  
 
-f. het coördineren van de evaluatiecyclus van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
+f. het coördineren van de evaluatiecyclus van het Ministerie van Economische Zaken;  
 
-g. het opstellen van adviezen in het kader van de managementcyclus en het ontwikkelen van de EL&I sturingsmethodiek;  
+g. het opstellen van adviezen in het kader van de managementcyclus en het ontwikkelen van de EZ sturingsmethodiek;  
 
-h. het inrichten van en toezicht houden op de totale administratie van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
+h. het inrichten van en toezicht houden op de totale administratie van het Ministerie van Economische Zaken;  
 
-i. het geven van nadere voorschriften voor het inrichten en bijhouden van de administratie van het Ministerie van Economische Zaken, Landbouw en Innovatie en van de daaronder ressorterende buitendiensten;  
+i. het geven van nadere voorschriften voor het inrichten en bijhouden van de administratie van het Ministerie van Economische Zaken en van de daaronder ressorterende buitendiensten;  
 
-j. het coördineren van de departementale administratieve organisatie.      
+j. het coördineren van de departementale administratieve organisatie;  
 
-### XIV  
+k. het optreden als bevoegde autoriteit voor het Europees Landbouwgarantiefonds en het Europees Landbouwfonds voor Plattelandsontwikkeling.      
 
-####De directie Wetgeving en Juridische zaken
+### XIII  
+
+####De directie Wetgeving en Juridische Zaken
 
 1. De directie Wetgeving en Juridische Zaken staat onder leiding van een directeur.  
 
@@ -1351,11 +1197,11 @@ j. het coördineren van de departementale administratieve organisatie.
 
 a. het vervaardigen van wetten, algemene maatregelen van bestuur en ministeriële regelingen;  
 
-b. het verstrekken van juridische adviezen (inclusief zorg voor registratie van verzoeken op grond van de [Wet openbaarheid van bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) en het vanuit een juridische en juridische-bestuurlijke hoek adviseren over, begeleiden en notificeren van departementale staatssteunmaatregelen);  
+b. het verstrekken van juridische adviezen (inclusief zorg voor registratie van verzoeken op grond van de [Wet openbaarheid van bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), de departementale staatssteuncoördinatie binnen het Ministerie van Economische Zaken, de inhoudelijke toetsing van steunmaatregelen aan de staatssteunkaders en het afwikkelen van steundossiers zoals het opstellen en verzenden van meldingen of andere mededelingen aan de Europese Commissie);  
 
 c. het behandelen van bezwaar- en beroepszaken.      
 
-### XV  
+### XIV  
 
 ####De dienst Consumentenautoriteit
 
@@ -1369,15 +1215,15 @@ b. de Europese coördinatie van grensoverschrijdende verzoeken om wederzijdse bi
 
 c. het vergroten van kennis van consumenten en aanbieders over consumentenrechten en consumentenplichten en mogelijkheden om recht te halen.      
 
-### XVI  
+### XV  
 
-####PIANOo
+####Pianoo
 
 1. PIANOo staat onder leiding van een directeur.  
 
-2. PIANOo heeft tot taak de professionaliteit van het aanbesteden en de naleving van de aanbestedingsregels in Nederland te verbeteren.    
+2. PIANOo heeft tot taak de professionaliteit van het aanbesteden en de naleving van de aanbestedingsregels in Nederland te verbeteren.    
 
-### XVII  
+### XVI  
 
 ####Het Centraal Planbureau (CPB)
 
@@ -1401,13 +1247,13 @@ f. afdeling Informatietechnologie en Onderzoeksondersteuning;
 
 g. afdeling Interne Zaken en Beheer.      
 
-### XVIII  
+### XVII  
 
 ####De Dienst ICT Uitvoering
 
 1. De Dienst ICT Uitvoering staat onder leiding van een directeur.  
 
-2. De Dienst ICT Uitvoering heeft tot taak het zorg dragen voor betrouwbare, gestandaardiseerde en kostenefficiënte ICT-services die de bedrijfsprocessen van het Ministerie van Economische Zaken, Landbouw en Innovatie ondersteunen.  
+2. De Dienst ICT Uitvoering heeft tot taak het zorg dragen voor betrouwbare, gestandaardiseerde en kostenefficiënte ICT-services die de bedrijfsprocessen van het Ministerie van Economische Zaken ondersteunen.  
 
 3. De Dienst ICT Uitvoering bestaat uit teams binnen de domeinen: 
 
@@ -1417,7 +1263,7 @@ b. Sturing;
 
 c. Uitvoering.      
 
-### XIX  
+### XVIII  
 
 ####De Dienst Landelijk Gebied
 
@@ -1447,7 +1293,7 @@ d. het uitvoeren van werkzaamheden op het gebied van Geografische Informatiesyst
 
 e. het op verzoek geven van algemene en beleidsadviezen en verstrekken van informatie over beleid, voortgang en andere zaken met betrekking tot de onder a tot en met d genoemde taken.      
 
-### XX  
+### XIX  
 
 ####Het Staatstoezicht op de mijnen
 
@@ -1477,7 +1323,7 @@ c. de afdeling Operaties;
 
 d. het Bedrijfsbureau.      
 
-### XXI  
+### XX  
 
 ####De Nederlandse Voedsel- en Warenautoriteit
 
@@ -1503,9 +1349,9 @@ h. het voorkomen dat ziekten, plagen en ongewenste planten binnen Nederland en o
 
 i. het bevorderen dat planten, ziekten, plagen en onkruiden op een veilige en duurzame wijze worden beheerst;  
 
-j. het optreden als coördinerend orgaan voor Europese en nationale regelgeving gericht op subsidieverlening en inkomenssteun;  
+j. het optreden als coördinerend controle orgaan voor het Gemeenschappelijk Landbouwbeleid;  
 
-k. het als technische dienst uitoefenen van uitvoeringstoezicht voor de eerste en tweede pijler van het gemeenschappelijk landbouwbeleid;  
+k. het uitoefenen van verificaties en controles van het Gemeenschappelijk Landbouwbeleid;  
 
 l. het verlenen van ontheffingen van maatregelen ter bestrijding van plantenziekten op grond van de [Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../wet-BES/invoeringswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028063/README.md);  
 
@@ -1517,13 +1363,21 @@ o. het verzorgen van opleidingen voor managers en (bij)scholing voor handhavers 
 
 3. De Nederlandse Voedsel- en Warenautoriteit bestaat uit: 
 
-a. de Voedsel en Warenautoriteit;  
+a. de directie Staf;  
 
-b. de Algemene Inspectiedienst;  
+b. het Bureau Risicobeoordeling en Onderzoeksprogrammering;  
 
-c. de Plantenziektenkundige Dienst.      
+c. de divisie Klantcontact en Dienstverlening (KCDV);  
 
-### XXII  
+d. de divisie Veterinair en Import;  
+
+e. de divisie Landbouw & Natuur;  
+
+f. de divisie Consument & Veiligheid;  
+
+g. de Inlichtingen- en Opsporingsdienst (IOD).      
+
+### XXI  
 
 ####Het directoraat-generaal Uitvoering
 
@@ -1553,7 +1407,7 @@ Het Bureau Centrale Bestuursondersteuning ondersteunt de directeur-generaal Uitv
 
 Agentschap NL heeft tot taak: 
 
-a. het uitvoeren van de in de [Rijksoctrooiwet 1995](../../../../../../../../../rijkswet/rijksoctrooiwet/1995/BWBR0007118/README.md) en de in de [Wet van 28 oktober 1987, houdende regelen inzake de bescherming van oorspronkelijke topografieën van halfgeleiderprodukten](../../../../../../../../../wet/wet/bescherming/oorspronkelijke/topografieën/van/halfgeleiderprodukten/BWBR0004224/README.md) genoemde taken;   
+a. het uitvoeren van de in de [Rijksoctrooiwet 1995](../../../../../../../../../rijkswet/rijksoctrooiwet/1995/BWBR0007118/README.md) en de in de [Wet van 28 oktober 1987, houdende regelen inzake de bescherming van oorspronkelijke topografieën van halfgeleiderprodukten](../../../../../../../../../wet/wet/bescherming/oorspronkelijke/topografieën/van/halfgeleiderprodukten/BWBR0004224/README.md) genoemde taken;  
 
 b. het als nationaal voorportaal samenwerken met het Europees Octrooi Bureau ter bevordering van de kennisbescherming;  
 
@@ -1587,7 +1441,7 @@ p. de assistentie van buitenlandse bedrijven bij het nemen van hun vestigingsbes
 
 q. de coördinatie van de acquisitie-inspanningen op nationaal, regionaal en lokaal niveau;  
 
-r. de beleidssignalering, binnen en buiten het Ministerie van Economische Zaken, Landbouw en Innovatie, ten aanzien van het Nederlandse vestigingsklimaat in internationaal perspectief;  
+r. de beleidssignalering, binnen en buiten het Ministerie van Economische Zaken, ten aanzien van het Nederlandse vestigingsklimaat in internationaal perspectief;  
 
 s. het informeren van Nederlandse bedrijven, kennisinstellingen en overheden over innovaties, technologische ontwikkelingen en ontwikkelingen in het innovatiebeleid;  
 
@@ -1607,7 +1461,7 @@ Dienst Regelingen heeft tot taak:
 
 a. het fungeren als landelijk opererende uitvoeringsorganisatie voor Europese en nationale regelgeving en programma’s, onder meer gericht op subsidieverlening, inkomenssteun, vergunningverlening en maatregelen;  
 
-b. het functioneren als erkend betaalorgaan voor de eerste pijler van het Gemeenschappelijk Landbouwbeleid;  
+b. het functioneren als erkend betaalorgaan voor het Europees Landbouwgarantiefonds;  
 
 c. het toetsen en verantwoorden van de besteding van Europese Fondsen vanuit de rol als Certificeringsautoriteit;  
 
@@ -1623,7 +1477,7 @@ h. het beschikbaar stellen van haar uitvoeringsdeskundigheid en infrastructuur a
 
 i. het vertalen van wet- en regelgeving naar effectief en efficiënt uitvoeringsbeleid.    
 
-### XXIII  
+### XXII  
 
 ####Agentschap Telecom
 
@@ -1660,5 +1514,5 @@ g. de stafafdeling Facilitair Bedrijf;
 h. de stafafdeling Personeel en Organisatie.      
 
 De 
-Minister van Economische Zaken, Landbouw en Innovatie,
-M.J.M.Verhagen  
+Minister van Economische Zaken,
+H.G.J.Kamp.  
