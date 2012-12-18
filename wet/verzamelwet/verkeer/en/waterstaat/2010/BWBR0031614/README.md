@@ -11,55 +11,55 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  I  
 
-Wijzigt de Wegenverkeerswet 1994.   
+Wijzigt de Wegenverkeerswet 1994. 
 
 ### Artikel  II  
 
-Wijzigt de Wet personenvervoer 2000.   
+Wijzigt de Wet personenvervoer 2000. 
 
 ### Artikel  III  
 
-Wijzigt de Wet op de economische delicten.   
+Wijzigt de Wet op de economische delicten. 
 
 ### Artikel  IV  
 
-Wijzigt de Wet luchtvaart.   
+Wijzigt de Wet luchtvaart. 
 
 ### Artikel  V  
 
-Wijzigt de Binnenvaartwet.   
+Wijzigt de Binnenvaartwet. 
 
 ### Artikel  VI  
 
-Wijzigt de Wet overleg verkeer en waterstaat.   
+Wijzigt de Wet overleg verkeer en waterstaat. 
 
 ### Artikel  VII  
 
-Wijzigt de Wet capaciteitsbeheersing binnenvaartvloot.   
+Wijzigt de Wet capaciteitsbeheersing binnenvaartvloot. 
 
 ### Artikel  IX  
 
-Wijzigt de Waterwet.   
+Wijzigt de Waterwet. 
 
 ### Artikel  X  
 
-Wijzigt de Invoeringswet Waterwet.   
+Wijzigt de Invoeringswet Waterwet. 
 
 ### Artikel  XI  
 
-Wijzigt de Waterschapswet.   
+Wijzigt de Waterschapswet. 
 
 ### Artikel  XIII  
 
-Wijzigt de Wegenverkeerswet 1994.   
+Wijzigt de Wegenverkeerswet 1994. 
 
 ### Artikel  XIV  
 
-Wijzigt de Wijzigingswet Wegenverkeerswet 1994 (invoering recidiveregeling ernstige verkeersdelicten (puntenstelsel)).   
+Wijzigt de Wijzigingswet Wegenverkeerswet 1994 (invoering recidiveregeling ernstige verkeersdelicten (puntenstelsel)). 
 
 ### Artikel  XIVa  
 
-Wijzigt de Telecommunicatiewet.   
+Wijzigt de Telecommunicatiewet. 
 
 ### Artikel  XV  
 
@@ -67,13 +67,13 @@ Wijzigt de Telecommunicatiewet.
 2.  De artikelen I, onderdelen Aa en E, en XI treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.   
 3.  Artikel II, onderdeel Ca, werkt terug tot en met 1 januari 2011.   
 4.  Artikel V, onderdeel A, werkt terug tot en met 1 juli 2009.   
-5.  Indien de [Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) eerder in werking treedt dan artikel XII van deze wet, werkt artikel XII terug tot en met het tijdstip van inwerkingtreding van de Wet algemene bepalingen omgevingsrecht.   
+5.  Indien de [Wet algemene bepalingen omgevingsrecht](../../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) eerder in werking treedt dan artikel XII van deze wet, werkt artikel XII terug tot en met het tijdstip van inwerkingtreding van de Wet algemene bepalingen omgevingsrecht.  
 
 ### Artikel  XVI  
 
-Deze wet wordt aangehaald als: Verzamelwet Verkeer en Waterstaat 2010.  
+Deze wet wordt aangehaald als: Verzamelwet Verkeer en Waterstaat 2010. 
 
-Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.    Gegeven te  
+Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 
 ’s-Gravenhage 
 21 mei 2012  

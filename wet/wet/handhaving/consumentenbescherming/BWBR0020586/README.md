@@ -30,7 +30,7 @@ e. financiële dienst of activiteit:
 
 2°. het in de uitoefening van een bedrijf buiten besloten kring aantrekken, ter beschikking verkrijgen of ter beschikking hebben van opvorderbare gelden van anderen dan professionele marktpartijen als bedoeld in [artikel 3:5, eerste lid, van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), dan wel het als tussenpersoon werkzaamheden verrichten in de zin van [artikel 4:3, eerste lid, van laatstgenoemde wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
-3°. een geldtransactie als bedoeld in [artikel 1 van de Wet inzake geldtransactiekantoren](../../../../../wet/wet/inzake/de/geldtransactiekantoren/BWBR0013816/README.md);  
+3°. een wisseltransactie als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
 
 4°. het exploiteren of beheren van een gereglementeerde markt waarvoor een vergunning als bedoeld in [artikel 5:26, eerste lid, van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is verleend of het exploiteren van een multilaterale handelsfaciliteit waarvoor een vergunning als bedoeld in [artikel 2:96 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is verleend;  
 
@@ -42,7 +42,7 @@ g. intracommunautaire inbreuk: een intracommunautaire inbreuk als bedoeld in art
 
 h. lidstaat: een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte;  
 
-i. Onze Minister: Onze Minister van Economische Zaken;  
+i. Onze Minister: Onze Minister van Economische Zaken, Landbouw en Innovatie;  
 
 j. overtreder: degene die een overtreding pleegt of medepleegt;  
 
@@ -232,8 +232,8 @@ De Inspectie Verkeer en Waterstaat wordt aangewezen als bevoegde autoriteit voor
 
 ### Artikel  3.10  
 
-1.  Met het toezicht op de naleving van de wettelijke bepalingen, bedoeld in onderdeel g van de bijlage bij deze wet, zijn belast de bij besluit van Onze Minister van Verkeer en Waterstaat aangewezen ambtenaren. Van dat besluit wordt mededeling gedaan door plaatsing in de Staatscourant.   
-2.  Onze Minister van Verkeer en Waterstaat kan, indien naar zijn oordeel een intracommunautaire inbreuk op een van de wettelijke bepalingen, bedoeld in onderdeel g van de bijlage bij deze wet heeft plaatsgevonden: 
+1.  Met het toezicht op de naleving van de wettelijke bepalingen, bedoeld in onderdeel g van de bijlage bij deze wet, zijn belast de bij besluit van Onze Minister van Infrastructuur en Milieu aangewezen ambtenaren. Van dat besluit wordt mededeling gedaan door plaatsing in de Staatscourant.   
+2.  Onze Minister van Infrastructuur en Milieu kan, indien naar zijn oordeel een intracommunautaire inbreuk op een van de bepalingen van Verordening (EG) nr. 261/2004 van het Europees Parlement en de Raad van 11 februari 2004 tot vaststelling van gemeenschappelijke regels inzake compensatie en bijstand aan luchtreizigers bij instapweigering en annulering of langdurige vertraging van vluchten (PbEU 2004, L 364) of een overtreding van een van de bepalingen van Verordening (EU) nr. 1177/2010 van het Europees Parlement en de Raad van 24 november 2010 betreffende de rechten van passagiers die over zee of binnenwateren reizen en houdende wijziging van Verordening (EG) nr. 2006/2004 (PbEU 2010, L 334) heeft plaatsgevonden: 
 
 a. een bestuurlijke boete opleggen;  
 
@@ -317,13 +317,11 @@ Indien een andere overheidsinstantie toezichts- of handhavingsmaatregelen neemt 
 
 a. Onze Minister van Financiën, voor wat betreft de Belastingdienst/FIOD-ECD;  
 
-b. Onze Minister van Verkeer en Waterstaat, voor wat betreft de Inspectie Verkeer en Waterstaat;  
+b. Onze Minister van Infrastructuur en Milieu, voor wat betreft de Inspectie Verkeer en Waterstaat;  
 
-c. Onze Minister van Landbouw, Natuur en Voedselkwaliteit, voor wat betreft de Voedsel en Waren Autoriteit;  
+c. Onze Minister van Volksgezondheid, Welzijn en Sport, voor wat betreft het Staatstoezicht op de Volksgezondheid;  
 
-d. Onze Minister van Volksgezondheid, Welzijn en Sport, voor wat betreft het Staatstoezicht op de Volksgezondheid;  
-
-e. andere in aanmerking komende Ministers.     
+d. andere in aanmerking komende Ministers.     
 2.  Onze Minister kan afspraken maken met het bevoegde gezag van: 
 
 a. de Stichting Autoriteit Financiële Markten;  
@@ -443,7 +441,7 @@ Een reisorganisator als bedoeld in [artikel 500 van Boek 7 van het Burgerlijk We
 
 ### Artikel  8.8  
 
-Een handelaar neemt de bepalingen van [afdeling 3A van Titel 3 van Boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) in acht.  
+Het is een handelaar niet toegestaan oneerlijke handelspraktijken te verrichten als bedoeld in [Afdeling 3A van Titel 3 van Boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).  
 
 ### Artikel  8.9  
 
@@ -545,7 +543,6 @@ Onderdeel a
 
 | --- | --- |
 |:---|:---|
-| Richtlijn 84/450/EEG van de Raad van 10 september 1984 betreffende het nader tot elkaar brengen van de wettelijke en bestuursrechtelijke bepalingen der lidstaten inzake misleidende reclame (PbEG L 250); Richtlijn laatstelijk gewijzigd bij Richtlijn 97/55/EG van het Europees Parlement en de Raad (PbEG 1997, L 290)  |  [artikelen 194 tot en met artikel 196 van boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md)   |
 | Richtlijn 90/314/EEG van de Raad van 13 juni 1990 betreffende pakketreizen, met inbegrip van vakantiepakketten en rondreispakketten (PbEG L 158)  | het bepaalde bij of krachtens de [artikelen 500](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [503 tot en met 513 van boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md)  |
 | Richtlijn 93/13/EEG van de Raad van 5 april 1993 betreffende oneerlijke bedingen in consumentenovereenkomsten (PbEG L 95); Richtlijn laatstelijk gewijzigd bij Besluit 2002/995/EG van de Commissie (PbEG L 353)  | [artikelen 231 tot en met 235](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) en [237 tot en met 247 van boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), tenzij de overtreder een beding als bedoeld in [artikel 236 van boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) gebruikt  |
 | Richtlijn 2008/122/EG van het Europees Parlement en de Raad van 14 januari 2009 betreffende de bescherming van de consumenten met betrekking tot bepaalde aspecten van overeenkomsten betreffende gebruik in deeltijd, vakantieproducten van lange duur, doorverkoop en uitwisseling (PbEU L 33/10)  | [artikel 50a](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en de [artikelen 50d tot en met 50i van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md)  |
@@ -568,6 +565,7 @@ Onderdeel b
 | Richtlijn 2005/29/EG van het Europees Parlement en de Raad van 11 mei 2005 betreffende oneerlijke handelspraktijken van ondernemingen jegens consumenten op de interne markt en tot wijziging van Richtlijn 84/450/EEG van de Raad, Richtlijnen 97/7/EG, 98/27/EG en 2002/65/EG van het Europees Parlement en de Raad en van Verordening (EG) nr. 2006/2004 van het Europees Parlement en de Raad («Richtlijn oneerlijke handelspraktijken») (PbEU 2005, L 149)  | artikel 8.8  van deze wet, voor zover niet betrekking hebbend op een financiële dienst of activiteit  |
 | Richtlijn 2006/123/EG van het Europees Parlement en de Raad van de Europese Unie van 12 december 2006 betreffende diensten op de interne markt (PbEU L 376)  | artikel 8.9  van deze wet  |
 | Artikel 23 van verordening (EG) nr. 1008/2008 van het Europees parlement en de Raad van de Europese Unie van 24 september 2008 inzake gemeenschappelijke regels voor de exploitatie van luchtdiensten in de Gemeenschap (PbEU L 293)  | --- |
+| Richtlijn 2002/58/EG van het Europees Parlement en de Raad van 12 juli 2002 betreffende de verwerking van persoonsgegevens en de bescherming van de persoonlijke levenssfeer in de sector elektronische communicatie (richtlijn betreffende privacy en elektronische communicatie) (PbEG L 201): artikel 13  |  [artikel 11.7 van de Telecommunicatiewet](../../../../../wet/telecommunicatiewet/BWBR0009950/README.md)   |
 
 #### *Onderdeel c* 
 
@@ -614,6 +612,7 @@ Onderdeel g
 | --- | --- |
 |:---|:---|
 | Verordening (EG) nr. 261/2004 van het Europees Parlement en de Raad van 11 februari 2004 tot vaststelling van gemeenschappelijke regels inzake compensatie en bijstand aan luchtreizigers bij instapweigering en annulering of langdurige vertraging van vluchten (PbEU L 46)  | --- |
+| Verordening (EU) nr. 1177/2010 van het Europees Parlement en de Raad van 24 november 2010 betreffende de rechten van passagiers die over zee of binnenwateren reizen en houdende wijziging van Verordening (EG) nr. 2006/2004 (PbEU 2010 L 334)  | --- |
 
 Onderdeel h 
 
