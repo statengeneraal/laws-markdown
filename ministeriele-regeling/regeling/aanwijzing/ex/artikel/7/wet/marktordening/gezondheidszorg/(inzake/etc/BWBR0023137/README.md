@@ -9,27 +9,33 @@ Na op 9 oktober 2007 schriftelijk mededeling te hebben gedaan aan de Eerste en T
 Besluit:    
 
 ### Artikel  1  
+Materieel uitgewerkt per 01-02-2013 
 
-In deze aanwijzing wordt verstaan onder een epilepsie-instelling: een instelling voor medisch specialistische zorg die ultimo 2005 in bezit was van een WZV-vergunning als epilepsiecentrum.  
+In deze aanwijzing wordt verstaan onder een epilepsie-instelling: een instelling voor medisch specialistische zorg die ultimo 2005 in bezit was van een WZV-vergunning als epilepsiecentrum. 
 
 ### Artikel  2  
+Materieel uitgewerkt per 01-02-2013 
 
-Deze aanwijzing is van toepassing op zorg gerelateerd aan de prestatiebeschrijvingen in de vorm van Diagnose Behandeling Combinaties (DBCs) zoals die zijn opgenomen in de bijlage bij deze aanwijzing.  
+Deze aanwijzing is van toepassing op zorg gerelateerd aan de prestatiebeschrijvingen in de vorm van Diagnose Behandeling Combinaties (DBCs) zoals die zijn opgenomen in de bijlage bij deze aanwijzing. 
 
 ### Artikel  3  
+Materieel uitgewerkt per 01-02-2013 
 
-1.  Ter uitvoering van deze aanwijzing stelt de Nederlandse Zorgautoriteit, verder te noemen zorgautoriteit, op grond van de [artikelen 57](../../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [58 van de Wet marktordening gezondheidszorg](../../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) een experimentbeleidsregel vast.   
-2.  Deze beleidsregel treedt in werking met ingang van 1 januari 2008 en eindigt op 1 januari 2009.   
+1.  Ter uitvoering van deze aanwijzing stelt de Nederlandse Zorgautoriteit, verder te noemen zorgautoriteit, op grond van de [artikelen 57](../../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md)en [58 van de Wet marktordening gezondheidszorg](../../../../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) een experimentbeleidsregel vast.   
+2.  Deze beleidsregel treedt in werking met ingang van 1 januari 2008 en eindigt op 1 januari 2009.  
 
 ### Artikel  4  
+Materieel uitgewerkt per 01-02-2013 
 
-Voor de duur van het experiment zijn de prestatiebeschrijvingen als bedoeld in artikel 2 alleen van toepassing voor epilepsie-instellingen.  
+Voor de duur van het experiment zijn de prestatiebeschrijvingen als bedoeld in artikel 2 alleen van toepassing voor epilepsie-instellingen. 
 
 ### Artikel  5  
+Materieel uitgewerkt per 01-02-2013 
 
-De zorgautoriteit ontwikkelt een experiment met als doel het verkrijgen van aan de DBC onderliggende informatie over zorg als bedoeld in artikel 2 zodat effectieve onderhandelingen tussen zorgaanbieders en zorgverzekeraars en daarmee DBC-bekostiging voor die zorg per 1 januari 2009 mogelijk wordt.  
+De zorgautoriteit ontwikkelt een experiment met als doel het verkrijgen van aan de DBC onderliggende informatie over zorg als bedoeld in artikel 2 zodat effectieve onderhandelingen tussen zorgaanbieders en zorgverzekeraars en daarmee DBC-bekostiging voor die zorg per 1 januari 2009 mogelijk wordt. 
 
 ### Artikel  6  
+Materieel uitgewerkt per 01-02-2013 
 
 De informatie als bedoeld in artikel 5 omvat in ieder geval: 
 
@@ -37,31 +43,36 @@ a. zorgpaden;
 
 b. onderbouwde normtijden;  
 
-c. kwaliteitsafspraken.    
+c. kwaliteitsafspraken.   
 
 ### Artikel  7  
+Materieel uitgewerkt per 01-02-2013 
 
-De informatie als bedoeld in artikelen 5 en 6 is niet herleidbaar tot individuele consumenten.  
+De informatie als bedoeld in artikelen 5 en 6 is niet herleidbaar tot individuele consumenten. 
 
 ### Artikel  8  
+Materieel uitgewerkt per 01-02-2013 
 
 1.  Voor de duur van het experiment worden de epilepsie-instellingen voor het leveren van zorg zoals bedoeld in artikel 2 bekostigd door middel van tarieven die zijn vastgesteld op basis van een eenmalig door de zorgautoriteit vast te stellen budget voor het jaar 2008.   
-2.  Voor de vaststelling van de hoogte van dit budget neemt de zorgautoriteit het voor de curatieve zorg beschikbare budget voor epilepsie-instellingen (inclusief de kortingsmaatregelen als bedoeld in de [aanwijzing taakstelling ziekenhuizen 2008](../../../../../../../../../../../../ministeriele-regeling/regeling/aanwijzing/ex/artikel/7/wet/marktordening/gezondheidszorg/(inzake/etc/BWBR0023042/README.md) d.d. 1 november 2007 (kenmerk: MC-U-2807691) op een door de zorgautoriteit nader vast te stellen peildatum als uitgangspunt.   
+2.  Voor de vaststelling van de hoogte van dit budget neemt de zorgautoriteit het voor de curatieve zorg beschikbare budget voor epilepsie-instellingen (inclusief de kortingsmaatregelen als bedoeld in de [aanwijzing taakstelling ziekenhuizen 2008](../../../../../../../../../../../../ministeriele-regeling/regeling/aanwijzing/ex/artikel/7/wet/marktordening/gezondheidszorg/(inzake/etc/BWBR0023042/README.md) d.d. 1 november 2007 (kenmerk: MC-U-2807691) op een door de zorgautoriteit nader vast te stellen peildatum als uitgangspunt.  
 
 ### Artikel  9  
+Materieel uitgewerkt per 01-02-2013 
 
 1.  De zorgautoriteit evalueert het experiment tussentijds en brengt mij daarvan uiterlijk 1 juni 2008 verslag uit.   
-2.  De zorgautoriteit besteedt daarbij in ieder geval aandacht aan de aspecten genoemd in de artikelen 5 en 6.   
+2.  De zorgautoriteit besteedt daarbij in ieder geval aandacht aan de aspecten genoemd in de artikelen 5 en 6.  
 
 ### Artikel  10  
+Materieel uitgewerkt per 01-02-2013 
 
-Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst.  
+Deze aanwijzing treedt terstond in werking en wordt met de toelichting in de Staatscourant geplaatst. 
 
 De 
-Minister van Volksgezondheid, Welzijn en Sport, 
-A.Klink  
+Minister van Volksgezondheid, Welzijn en Sport,
+A. Klink    
 
 ### Bijlage  
+Materieel uitgewerkt per 01-02-2013 
 
 Met de in de aanwijzing genoemde zorg als bedoeld in artikel 2 worden onderstaande 11 poliklinische en 6 klinische epilepsie-DBCs bedoeld.  
 

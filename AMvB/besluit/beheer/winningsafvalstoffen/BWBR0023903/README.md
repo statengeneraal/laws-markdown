@@ -22,11 +22,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder: *behandeling:* biologische, chemische, fysische, mechanische of thermische processen, of een combinatie daarvan, die op mineralen worden uitgevoerd met de bedoeling het mineraal te extraheren, uitgezonderd het smelten en de uitvoering van thermische productieprocessen of metallurgische processen op mineralen; *beschikking afvalkarakterisering:* beschikking nr. 2009/360/EG van de Commissie van de Europese Gemeenschappen van 30 april 2009 tot aanvulling van de technische voorschriften voor de afvalkarakterisering die zijn vastgesteld in Richtlijn 2006/21/EG van het Europese Parlement en de Raad betreffende het beheer van afval van winningsindustrieën (PbEU L 110); *beschikking indeling afvalvoorzieningen:* beschikking nr. 2009/337/EG van de Commissie van de Europese Gemeenschappen van 20 april 2009 tot vaststelling van de criteria voor de indeling van afvalvoorzieningen overeenkomstig bijlage III bij Richtlijn 2006/21/EG van het Europees Parlement en de Raad betreffende het beheer van afval van winningsindustrieën (PbEU L 102); *beschikking inert afval:* beschikking nr. 2009/359/EG van de Commissie van de Europese Gemeenschappen van 30 april 2009 tot aanvulling van de definitie van inert afval ter uitvoering van artikel 22, lid 1, onder f, van Richtlijn 2006/21/EG van het Europees Parlement en de Raad betreffende het beheer van afval van winningsindustrieën (PbEU L 110); *gevaarlijke stof:* bij of krachtens het [Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten](../../../../../AMvB/besluit/verpakking/en/aanduiding/milieugevaarlijke/stoffen/en/preparaten/BWBR0004220/README.md) in een categorie als bedoeld in [artikel 9.2.3.1, tweede lid, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) ingedeelde stof of preparaat; *inerte afvalstoffen:* onbrandbare afvalstoffen die geen significante fysische, chemische of biologische veranderingen ondergaan en die voldoen aan de criteria, bedoeld in artikel 1, eerste en tweede lid, van de beschikking inert afval, of die als zodanig zijn aangewezen bij regeling van Onze Minister; *mineraal:* een van nature voorkomende afzetting in de aardkorst van een organische of anorganische stof, uitgezonderd water; *percolaat:* vloeistof die uit de gestorte afvalstoffen komt of daarmee in contact is geweest; *rehabilitatie:* herstel in de oorspronkelijke toestand of gebruiksmogelijkheden van het landschap, de bodem, beschermde soorten, natuurlijke habitats of zoetwatersystemen, welke toestand een nadelige invloed heeft ondervonden van een afvalvoorziening; *richtlijn 2006/11/EG:*richtlijn nr. 2006/11/EG van het Europees Parlement en de Raad van 15 februari 2006 betreffende de verontreiniging veroorzaakt door bepaalde gevaarlijke stoffen die in het aquatisch milieu van de Gemeenschap worden geloosd (PbEU L 64); *vergunning:* omgevingsvergunning voor een inrichting of een vergunning als bedoeld in [artikel 6.2 van de Waterwet](../../../../../wet/waterwet/BWBR0025458/README.md); *wet:*[Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md); *zwaar ongeval:* gebeurtenis als bedoeld in [artikel 1, onderdeel f, van het Besluit risico’s zware ongevallen 1999](../../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md).  
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  *behandeling:* biologische, chemische, fysische, mechanische of thermische processen, of een combinatie daarvan, die op mineralen worden uitgevoerd met de bedoeling het mineraal te extraheren, uitgezonderd het smelten en de uitvoering van thermische productieprocessen of metallurgische processen op mineralen;  *beschikking afvalkarakterisering:* beschikking nr. 2009/360/EG van de Commissie van de Europese Gemeenschappen van 30 april 2009 tot aanvulling van de technische voorschriften voor de afvalkarakterisering die zijn vastgesteld in Richtlijn 2006/21/EG van het Europese Parlement en de Raad betreffende het beheer van afval van winningsindustrieën (PbEU L 110); *beschikking indeling afvalvoorzieningen:* beschikking nr. 2009/337/EG van de Commissie van de Europese Gemeenschappen van 20 april 2009 tot vaststelling van de criteria voor de indeling van afvalvoorzieningen overeenkomstig bijlage III bij Richtlijn 2006/21/EG van het Europees Parlement en de Raad betreffende het beheer van afval van winningsindustrieën (PbEU L 102); *beschikking inert afval:* beschikking nr. 2009/359/EG van de Commissie van de Europese Gemeenschappen van 30 april 2009 tot aanvulling van de definitie van inert afval ter uitvoering van artikel 22, lid 1, onder f, van Richtlijn 2006/21/EG van het Europees Parlement en de Raad betreffende het beheer van afval van winningsindustrieën (PbEU L 110); *gevaarlijke stof:* bij of krachtens het [Besluit verpakking en aanduiding milieugevaarlijke stoffen en preparaten](../../../../../AMvB/besluit/verpakking/en/aanduiding/milieugevaarlijke/stoffen/en/preparaten/BWBR0004220/README.md) in een categorie als bedoeld in [artikel 9.2.3.1, tweede lid, van de wet](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) ingedeelde stof of preparaat;  *inerte afvalstoffen:* onbrandbare afvalstoffen die geen significante fysische, chemische of biologische veranderingen ondergaan en die voldoen aan de criteria, bedoeld in artikel 1, eerste en tweede lid, van de beschikking inert afval, of die als zodanig zijn aangewezen bij regeling van Onze Minister;  *mineraal:* een van nature voorkomende afzetting in de aardkorst van een organische of anorganische stof, uitgezonderd water;  *percolaat:* vloeistof die uit de gestorte afvalstoffen komt of daarmee in contact is geweest;  *rehabilitatie:* herstel in de oorspronkelijke toestand of gebruiksmogelijkheden van het landschap, de bodem, beschermde soorten, natuurlijke habitats of zoetwatersystemen, welke toestand een nadelige invloed heeft ondervonden van een afvalvoorziening;  *richtlijn 2006/11/EG:* richtlijn nr. 2006/11/EG van het Europees Parlement en de Raad van 15 februari 2006 betreffende de verontreiniging veroorzaakt door bepaalde gevaarlijke stoffen die in het aquatisch milieu van de Gemeenschap worden geloosd (PbEU L 64);  *vergunning:* omgevingsvergunning voor een inrichting of een vergunning als bedoeld in [artikel 6.2 van de Waterwet](../../../../../wet/waterwet/BWBR0025458/README.md);  *wet:* [Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  *zwaar ongeval:* gebeurtenis als bedoeld in [artikel 1, onderdeel f, van het Besluit risico’s zware ongevallen 1999](../../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md). 
 
 ### Artikel  1a  
 
-Dit besluit berust mede op de [artikelen 6.6](../../../../../wet/waterwet/BWBR0025458/README.md) en [6.20, tweede lid, van de Waterwet](../../../../../wet/waterwet/BWBR0025458/README.md).  
+Dit besluit berust mede op de [artikelen 6.6](../../../../../wet/waterwet/BWBR0025458/README.md) en [6.20, tweede lid, van de Waterwet](../../../../../wet/waterwet/BWBR0025458/README.md). 
 
 ### Artikel  2  
 
@@ -46,7 +46,7 @@ c. niet-verontreinigde grond;
 d. afval uit de winning, behandeling en opslag van turf;  
 
 e. inert winningsafval.     
-3.  Dit besluit is met uitzondering van hoofdstuk I, paragraaf 5, niet van toepassing op een door bovengrondse of ondergrondse winning ontstane uitgegraven ruimte, waarin met het oog op rehabilitatie- of bouwdoeleinden winningsafvalstoffen worden teruggeplaatst.   
+3.  Dit besluit is met uitzondering van hoofdstuk I, paragraaf 5, niet van toepassing op een door bovengrondse of ondergrondse winning ontstane uitgegraven ruimte, waarin met het oog op rehabilitatie- of bouwdoeleinden winningsafvalstoffen worden teruggeplaatst.  
 
 ### §  2  
 
@@ -109,7 +109,7 @@ b. maatregelen uit te voeren die noodzakelijk zijn om de gezondheid van mens en 
 
 c. de nodige informatie te verstrekken aan het betrokken publiek, aan het bevoegd gezag en de betrokken diensten;  
 
-d. zorg te dragen voor de rehabilitatie na een zwaar ongeval.     
+d. zorg te dragen voor de rehabilitatie na een zwaar ongeval.    
 
 ### §  3  
 
@@ -124,7 +124,7 @@ a. dat het winningsafvalbeheersplan wordt gewijzigd in geval van ingrijpende wij
 b. dat het winningsafvalbeheersplan elke vijf jaar wordt herzien;  
 
 c. dat een wijziging of herziening van het winningsafvalbeheersplan aan het bevoegd gezag wordt gemeld.     
-2.  In het eerste lid, onder a, wordt onder een ingrijpende wijziging verstaan: een wijziging in de structuur of de exploitatie van een afvalvoorziening die, naar het oordeel van het bevoegd gezag, belangrijke negatieve gevolgen kan hebben voor de menselijke gezondheid of het milieu.   
+2.  In het eerste lid, onder a, wordt onder een ingrijpende wijziging verstaan: een wijziging in de structuur of de exploitatie van een afvalvoorziening die, naar het oordeel van het bevoegd gezag, belangrijke negatieve gevolgen kan hebben voor de menselijke gezondheid of het milieu.  
 
 ### Artikel  5  
 
@@ -133,11 +133,11 @@ c. dat een wijziging of herziening van het winningsafvalbeheersplan aan het bevo
 
 a. zodanige gegevens of beschrijvingen dat deze classificatie ten genoegen van het bevoegd gezag wordt aangetoond;  
 
-b. een identificatie van mogelijke gevaren in geval van een ongeval.     
+b. een identificatie van mogelijke gevaren in geval van een ongeval.    
 
 ### Artikel  6  
 
-Het bevoegd gezag verbindt aan de vergunning voorschriften ten aanzien van de vakbekwaamheid van degene die de afvalvoorziening drijft en ten aanzien van de technische ontwikkeling en de opleiding van de in de afvalvoorziening werkzame personen.  
+Het bevoegd gezag verbindt aan de vergunning voorschriften ten aanzien van de vakbekwaamheid van degene die de afvalvoorziening drijft en ten aanzien van de technische ontwikkeling en de opleiding van de in de afvalvoorziening werkzame personen. 
 
 ### Artikel  7  
 
@@ -152,7 +152,7 @@ b. dat na de oplevering van de afvalvoorziening en vóór de ingebruikneming daa
 2°. de tijdens het werk ten opzichte van het bestek doorgevoerde afwijkingen en de op die afwijkingen betrekking hebbende revisietekeningen;  
 
 3°. een door een deskundige met aantoonbare expertise uitgevoerde controle op de deugdelijkheid en fysische stabiliteit van de opgeleverde afvalvoorziening en of wordt voldaan aan de voorschriften die aan de vergunning zijn verbonden.       
-2.  Het eerste lid is van overeenkomstige toepassing bij een verandering van de afvalvoorziening.   
+2.  Het eerste lid is van overeenkomstige toepassing bij een verandering van de afvalvoorziening.  
 
 ### Artikel  8  
 
@@ -167,7 +167,7 @@ c. dat erosie door water of wind wordt tegengegaan, voor zover dat technisch mog
 d. tot periodieke monitoring en inspectie van de afvalvoorziening door binnen de inrichting werkzame personen, die beschikken over de voor die werkzaamheden benodigde vakbekwaamheid, om te verzekeren dat de voorziening voldoet aan de voorschriften die aan de vergunning zijn verbonden;  
 
 e. tot het treffen van maatregelen indien de resultaten van die monitoring en de inspectie wijzen op instabiliteit of verontreiniging van het water of de bodem.     
-2.  Het bevoegd gezag verbindt voorts aan de vergunning het voorschrift, inhoudende de verplichting dat de gegevens van de monitoring en inspecties, samen met de vergunningdocumentatie, worden bewaard om de passende overdracht van informatie te verzekeren in het geval de vergunning zal gaan gelden voor een ander dan de vergunninghouder.   
+2.  Het bevoegd gezag verbindt voorts aan de vergunning het voorschrift, inhoudende de verplichting dat de gegevens van de monitoring en inspecties, samen met de vergunningdocumentatie, worden bewaard om de passende overdracht van informatie te verzekeren in het geval de vergunning zal gaan gelden voor een ander dan de vergunninghouder.  
 
 ### Artikel  9  
 
@@ -176,7 +176,7 @@ e. tot het treffen van maatregelen indien de resultaten van die monitoring en de
 a. om aan te tonen dat aan de voorschriften van de vergunning wordt voldaan, en  
 
 b. om de kennis van het gedrag van de afvalstoffen en de afvalvoorziening te vergroten.     
-2.  Naar aanleiding van dit verslag kan het bevoegd gezag degene die de afvalvoorziening drijft, verplichten de gegevens, op basis waarvan het verslag is opgesteld, te laten valideren door een onafhankelijke deskundige.   
+2.  Naar aanleiding van dit verslag kan het bevoegd gezag degene die de afvalvoorziening drijft, verplichten de gegevens, op basis waarvan het verslag is opgesteld, te laten valideren door een onafhankelijke deskundige.  
 
 ### Artikel  10  
 
@@ -196,8 +196,8 @@ c. indien winningsafvalstoffen worden teruggeplaatst in een afvalvoorziening die
 
 1°. de noodzakelijke maatregelen treft om verslechtering van de toestand van het water en bodemverontreiniging zoveel mogelijk te voorkomen dan wel zoveel mogelijk te beperken, voor zover dit niet kan worden voorkomen;  
 
-2°. het bevoegd gezag voorziet van de informatie die noodzakelijk is om te verzekeren dat wordt voldaan aan richtlijn 2006/11/EG, het [Lozingenbesluit bodembescherming](../../../../../AMvB/lozingenbesluit/bodembescherming/BWBR0009092/README.md) en de kaderrichtlijn water.       
-2.  Het bevoegd gezag kan van de verplichting, bedoeld in het eerste lid, onder a, onderdelen 2° of 3°, afwijken indien op basis van een beoordeling van de milieurisico’s en rekening houdend met richtlijn 2006/11/EG, het [Lozingenbesluit bodembescherming](../../../../../AMvB/lozingenbesluit/bodembescherming/BWBR0009092/README.md) en de kaderrichtlijn water, wordt vastgesteld dat: 
+2°. het bevoegd gezag voorziet van de informatie die noodzakelijk is om te verzekeren dat wordt voldaan aan richtlijn 2006/11/EG, het [Activiteitenbesluit milieubeheer](../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en de kaderrichtlijn water.       
+2.  Het bevoegd gezag kan van de verplichting, bedoeld in het eerste lid, onder a, onderdelen 2° of 3°, afwijken indien op basis van een beoordeling van de milieurisico’s en rekening houdend met richtlijn 2006/11/EG, het [Activiteitenbesluit milieubeheer](../../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en de kaderrichtlijn water, wordt vastgesteld dat: 
 
 a. het verzamelen en behandelen van percolaat niet nodig is, of  
 
@@ -206,7 +206,7 @@ b. de afvalvoorziening geen potentieel gevaar voor de bodem, het grondwater of e
 
 a. voldoet aan de toepasselijke voorschriften van richtlijn 2006/11/EG en de kaderrichtlijn water;  
 
-b. het bevoegd gezag voorziet van de informatie die noodzakelijk is om te verzekeren dat wordt voldaan aan de onder a bedoelde voorschriften.     
+b. het bevoegd gezag voorziet van de informatie die noodzakelijk is om te verzekeren dat wordt voldaan aan de onder a bedoelde voorschriften.    
 
 ### §  4  
 
@@ -224,7 +224,7 @@ c. een veiligheidsmanager aanstelt, die verantwoordelijk is voor:
 
 1°. de invoering en werking van het in artikel 3, vijfde lid, bedoelde veiligheidsbeheerssysteem;  
 
-2°. de uitvoering van en het periodieke toezicht op het preventiebeleid voor zware ongevallen.      
+2°. de uitvoering van en het periodieke toezicht op het preventiebeleid voor zware ongevallen.     
 
 ### §  5  
 
@@ -232,7 +232,7 @@ c. een veiligheidsmanager aanstelt, die verantwoordelijk is voor:
 
 ### Artikel  12  
 
-Het bevoegd gezag verbindt aan een vergunning als bedoeld in [artikel 5, derde lid, van het Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) voor het met het oog op rehabilitatie- of bouwdoeleinden terugplaatsen van winningsafvalstoffen in een bij bovengrondse of ondergrondse winning ontstane uitgegraven ruimte voorschriften, inhoudende de verplichting dat degene die de winningsafstoffen terugplaatst, de passende maatregelen, bedoeld in artikel 10, eerste lid, van de richtlijn beheer winningsafval, neemt.  
+Het bevoegd gezag verbindt aan een vergunning als bedoeld in [artikel 5, derde lid, van het Besluit bodemkwaliteit](../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) voor het met het oog op rehabilitatie- of bouwdoeleinden terugplaatsen van winningsafvalstoffen in een bij bovengrondse of ondergrondse winning ontstane uitgegraven ruimte voorschriften, inhoudende de verplichting dat degene die de winningsafstoffen terugplaatst, de passende maatregelen, bedoeld in artikel 10, eerste lid, van de richtlijn beheer winningsafval, neemt. 
 
 ### Hoofdstuk  II  
 
@@ -240,15 +240,15 @@ Het bevoegd gezag verbindt aan een vergunning als bedoeld in [artikel 5, derde l
 
 ### Artikel  13  
 
-Wijzigt het Besluit informatie inzake rampen en zware ongevallen.   
+Wijzigt het Besluit informatie inzake rampen en zware ongevallen. 
 
 ### Artikel  14  
 
-Wijzigt het Besluit rampbestrijdingsplannen inrichtingen.   
+Wijzigt het Besluit rampbestrijdingsplannen inrichtingen. 
 
 ### Artikel  15  
 
-Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer.   
+Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer. 
 
 ### Hoofdstuk  III  
 
@@ -260,15 +260,15 @@ Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer.
 2.  Indien dit ter uitvoering van de richtlijn beheer winningsafval noodzakelijk is, kan Onze Minister het bevoegd gezag verzoeken met betrekking tot de afvalvoorzieningen waarvoor het bevoegd is de vergunning te verlenen, aan hem de bij het verzoek aangegeven gegevens te zenden binnen een daarin aangegeven termijn.   
 3.  Het bevoegd gezag zendt de in het tweede lid bedoelde gegevens aan Onze Minister.   
 4.  Dit besluit berust met ingang van 1 juni 2008 mede op [artikel 9.2.2.1 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
-5.   Wijzigt dit besluit.    
+5.  Wijzigt dit besluit.  
 
 ### Artikel  17  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 ### Artikel  18  
 
-Dit besluit wordt aangehaald als: Besluit beheer winningsafvalstoffen.  
+Dit besluit wordt aangehaald als: Besluit beheer winningsafvalstoffen. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
