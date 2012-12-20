@@ -12,7 +12,7 @@ In deze regeling wordt verstaan onder:
 
 a. wet: [Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
 
-b. Minister: Minister van Binnenlandse zaken en Koninkrijksrelaties;  
+b. Minister: de Minister van Veiligheid en Justitie;  
 
 c. aanvrager: migrerende beroepsbeoefenaar die erkenning van een beroepskwalificatie vraagt;  
 
@@ -20,7 +20,7 @@ d. dienstverrichter: dienstverrichter als bedoeld in [artikel 21 van de wet](../
 
 e. diploma: diploma of certificaat als bedoeld in [artikel 9, onderdeel a tot en met d, van de wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md);  
 
-f. lidstaat van oorsprong of herkomst: lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese economische ruimte of Zwitserland.    
+f. lidstaat van oorsprong of herkomst: lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese economische ruimte of Zwitserland.   
 
 ### Artikel  2  
 
@@ -28,7 +28,7 @@ Deze regeling is van toepassing op:
 
 a. de aanvraag van een migrerende beroepsbeoefenaar tot het verlenen van erkenning van een beroepskwalificatie voor de toegang tot de uitoefening van het gereglementeerde beroep ambtenaar aangesteld voor de uitvoering van de politietaak als bedoeld in [artikel 7 van het Besluit algemene rechtspositie politie](../../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md);  
 
-b. de verklaring vooraf, bedoeld in [artikel 23 van de wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), van een dienstverrichter die een gereglementeerd beroep als bedoeld in onderdeel a, wil uitoefenen.    
+b. de verklaring vooraf, bedoeld in [artikel 23 van de wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), van een dienstverrichter die een gereglementeerd beroep als bedoeld in onderdeel a, wil uitoefenen.   
 
 ### Artikel  3  
 
@@ -50,7 +50,7 @@ e. een document dat vereist is in de lidstaat van oorsprong of herkomst en waaru
 
 f. een bewijs van de daartoe bevoegde autoriteit van de lidstaat van oorsprong of herkomst dat de aanvrager geen antecedenten heeft en nooit strafrechtelijk is veroordeeld;  
 
-g. Indien de aanvraag en de onder b tot en met f bedoelde stukken in een andere dan de Nederlandse, Duitse of Engelse taal zijn gesteld, een door een beëdigde tolk of vertaler opgestelde vertaling daarvan in één van deze talen.    
+g. Indien de aanvraag en de onder b tot en met f bedoelde stukken in een andere dan de Nederlandse, Duitse of Engelse taal zijn gesteld, een door een beëdigde tolk of vertaler opgestelde vertaling daarvan in één van deze talen.   
 
 ### Artikel  4  
 
@@ -61,12 +61,12 @@ a. op welke vakgebieden de aanpassingsstage betrekking heeft;
 b. de duur van de aanpassingsstage.     
 2.  Een aanpassingsstage kan worden gedaan bij: 
 
-a. een regionaal politiekorps, of  
+a. een regionale eenheid, of  
 
-b. het Korps Landelijke Politiediensten.     
-3.  Het regionale politiekorps of het Korps Landelijke Politiediensten waarbij de aanvrager de aanpassingsstage volgt, wijst een begeleider aan.   
+b. de Landelijke eenheid.     
+3.  De korpschef wijst een begeleider aan.   
 4.  De begeleider brengt een rapport en een advies uit aan de Minister. De Minister stelt op basis hiervan het resultaat van de aanpassingsstage vast.   
-5.  De Minister deelt het resultaat van de aanpassingsstage zo spoedig mogelijk mee aan de aanvrager.   
+5.  De Minister deelt het resultaat van de aanpassingsstage zo spoedig mogelijk mee aan de aanvrager.  
 
 ### Artikel  5  
 
@@ -77,7 +77,7 @@ a. op welke vakgebieden de proeve van bekwaamheid betrekking heeft;
 b. de te bestuderen literatuur, en  
 
 c. de hoogte van het examengeld.     
-2.  De Minister deelt het resultaat van de proeve van bekwaamheid zo spoedig mogelijk mee aan de aanvrager.   
+2.  De Minister deelt het resultaat van de proeve van bekwaamheid zo spoedig mogelijk mee aan de aanvrager.  
 
 ### Artikel  6  
 
@@ -95,17 +95,17 @@ c. een attest dat de dienstverrichter gerechtigd is om in een andere betrokken s
 
 d. bewijs van beroepskwalificaties, en  
 
-e. voor gevallen als bedoeld in [artikel 22, onder b, van de wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), een bewijs van de daar omschreven beroepservaring.    
+e. voor gevallen als bedoeld in [artikel 22, onder b, van de wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), een bewijs van de daar omschreven beroepservaring.   
 
 ### Artikel  7  
 
-Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  8  
 
-Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties politiepersoneel.  
+Deze regeling wordt aangehaald als: Regeling erkenning EG-beroepskwalificaties politiepersoneel. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-G. terHorst   
+G. ter  Horst     

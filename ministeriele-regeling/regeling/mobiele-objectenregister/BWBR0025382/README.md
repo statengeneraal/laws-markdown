@@ -33,7 +33,7 @@ e. datum van de diefstal, verduistering of vermissing;
 
 f. plaats van aangifte, en  
 
-g. proces-verbaalnummer van de aangifte.     
+g. proces-verbaalnummer van de aangifte.    
 
 ### Artikel  2  
 
@@ -41,25 +41,25 @@ g. proces-verbaalnummer van de aangifte.
 
 1.  Uit het register van mobiele objecten worden op door de Dienst Wegverkeer te bepalen wijze gegevens verstrekt aan: 
 
-a. de politiekorpsen binnen Nederland, ten behoeve van de opsporing van gestolen, verduisterde en vermiste mobiele objecten alsmede het traceren van de eigenaar van de mobiele objecten;  
+a. de politie binnen Nederland, ten behoeve van de opsporing van gestolen, verduisterde en vermiste mobiele objecten alsmede het traceren van de eigenaar van de mobiele objecten;  
 
 b. de Stichting Aanpak Voertuigcriminaliteit, ten behoeve van het formuleren van strategisch beleid op nationaal- en internationaal niveau met betrekking tot gestolen of vermiste mobiele objecten;  
 
-c. de Stichting Verzekeringsbureau Voertuigcriminaliteit, ten behoeve van schade-afwikkeling, fraudebestrijding en criminaliteitsbestrijding met betrekking tot gestolen of vermiste mobiele objecten.     
+c. de Stichting Verzekeringsbureau Voertuigcriminaliteit, ten behoeve van schade-afwikkeling, fraudebestrijding en criminaliteitsbestrijding met betrekking tot gestolen of vermiste mobiele objecten.    
 
 ### Artikel  3  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst.  
+Deze regeling treedt in werking met ingang van de tweede dag na dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
 ### Artikel  4  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling mobiele-objectenregister.  
+Deze regeling wordt aangehaald als: Regeling mobiele-objectenregister. 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings   
+C.M.P.S. Eurlings     

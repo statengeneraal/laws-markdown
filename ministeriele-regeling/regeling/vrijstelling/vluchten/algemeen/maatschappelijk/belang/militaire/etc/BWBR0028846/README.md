@@ -12,20 +12,20 @@ Besluit:
 
 a. spoedeisende hulpverlening;  
 
-b. de uitoefening van politietaken als bedoeld in [artikel 2 van de Politiewet 1993](../../../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md).     
+b. de uitoefening van politietaken als bedoeld in [artikel 3 van de Politiewet 2012](../../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).     
 2.  De in het eerste lid bedoelde vrijstelling wordt verleend met betrekking tot: 
 
 a. de militaire helihaven Oost-Vlieland;  
 
-b. de militaire helihaven Waalsdorpervlakte.     
+b. de militaire helihaven Waalsdorpervlakte.    
 
 ### Artikel  2  
 
-Deze regeling treedt in werking met ingang van 1 november 2010.  
+Deze regeling treedt in werking met ingang van 1 november 2010. 
 
 ### Artikel  3  
 
-Deze regeling wordt aangehaald als: Regeling vrijstelling vluchten algemeen maatschappelijk belang militaire luchthavens.  
+Deze regeling wordt aangehaald als: Regeling vrijstelling vluchten algemeen maatschappelijk belang militaire luchthavens. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 
@@ -33,4 +33,4 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.
 
 De 
 Minister van Defensie, 
-E. vanMiddelkoop   
+E. van Middelkoop     

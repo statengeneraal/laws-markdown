@@ -12,26 +12,26 @@ De functionaris, werkzaam bij de dienst Bewaking, Beveiliging en Vervoer in het 
 
 a. de dienst bij de gerechten als bedoeld in [artikel 124, vijfde lid, van het Wetboek van Strafvordering](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);  
 
-b. de werkzaamheden als bedoeld in de [artikelen 373](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [391](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [541, tweede lid](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [556, eerste lid](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en [587, tweede lid van het Wetboek van Strafvordering](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) met betrekking tot personen die zich in de gerechtsgebouwen in het arrondissement Amsterdam bevinden.    
+b. de werkzaamheden als bedoeld in de [artikelen 373](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [391](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [541, tweede lid](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md),[ 556, eerste lid](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en [587, tweede lid van het Wetboek van Strafvordering](../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) met betrekking tot personen die zich in de gerechtsgebouwen in het arrondissement Amsterdam bevinden.   
 
 ### Artikel  2  
 
-De ambtenaar, werkzaam bij de dienst Bewaking, Beveiliging en Vervoer in het arrondissement Amsterdam, is bevoegd tot het verrichten van het vervoer van rechtens van hun vrijheid beroofde personen als bedoeld in [artikel 9, zesde lid, van de Politiewet 1993](../../../../../../../../wet/politiewet/1993/BWBR0006299/README.md).  
+De ambtenaar, werkzaam bij de dienst Bewaking, Beveiliging en Vervoer in het arrondissement Amsterdam, is bevoegd tot het verrichten van het vervoer van rechtens van hun vrijheid beroofde personen als bedoeld in [artikel 9, zesde lid, van de Politiewet 2012](../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md). 
 
 ### Artikel  3  
 
-De regeling van 11 september 1995, kenmerk 514603/595/NE, wordt ingetrokken.  
+De regeling van 11 september 1995, kenmerk 514603/595/NE, wordt ingetrokken. 
 
 ### Artikel  4  
 
-Deze regeling treedt in werking met ingang van 1 oktober 2003.  
+Deze regeling treedt in werking met ingang van 1 oktober 2003. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 25 september 2003    
 
 De 
-Minister van Justitie 
+Minister van Justitie  
 
 namens deze:hoofd Bureau Juridische en Beleidsondersteunende Aangelegenheden, 
-H.Ph.Mayer    
+H.Ph. Mayer      

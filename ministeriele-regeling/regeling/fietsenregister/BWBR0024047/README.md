@@ -30,28 +30,28 @@ h. de datum van diefstal of vermissing;
 
 i. registratiedatum en plaats van aangifte van de diefstal of vermissing, en  
 
-j. het proces-verbaalnummer van aangifte van diefstal of vermissing.    
+j. het proces-verbaalnummer van aangifte van diefstal of vermissing.   
 
 ### Artikel  2  
 
 ####Verstrekking van gegevens
 
-1.  Uit het fietsenregister worden op door de Dienst Wegverkeer te bepalen wijze gegevens verstrekt aan de politiekorpsen binnen Nederland, ten behoeve van de opsporing van gestolen en vermiste fietsen alsmede het traceren van de eigenaar van de fiets.   
-2.  Het gegeven dat een fiets als gestolen staat geregistreerd kan onder opgave van het merk en het framenummer, dan wel onder opgave van het chipnummer op door de Dienst Wegverkeer te bepalen wijze aan een ieder worden verstrekt.   
+1.  Uit het fietsenregister worden op door de Dienst Wegverkeer te bepalen wijze gegevens verstrekt aan de politie binnen Nederland, ten behoeve van de opsporing van gestolen en vermiste fietsen alsmede het traceren van de eigenaar van de fiets.   
+2.  Het gegeven dat een fiets als gestolen staat geregistreerd kan onder opgave van het merk en het framenummer, dan wel onder opgave van het chipnummer op door de Dienst Wegverkeer te bepalen wijze aan een ieder worden verstrekt.  
 
 ### Artikel  3  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 juli 2008.  
+Deze regeling treedt in werking met ingang van 1 juli 2008. 
 
 ### Artikel  4  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling fietsenregister.  
+Deze regeling wordt aangehaald als: Regeling fietsenregister. 
 Deze regeling zal met toelichting in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Verkeer en Waterstaat, 
-C.M.P.S.Eurlings   
+C.M.P.S. Eurlings     

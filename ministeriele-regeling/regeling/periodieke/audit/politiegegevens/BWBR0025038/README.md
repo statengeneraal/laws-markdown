@@ -12,25 +12,25 @@ Besluiten:
 
 In deze regeling wordt verstaan onder: 
 
-a. *wet:* de [Wet politiegegevens](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md).  
+a.  *wet:* de [Wet politiegegevens](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md).  
 
-b. *besluit:* het [Besluit politiegegevens](../../../../../../AMvB/besluit/politiegegevens/BWBR0023086/README.md);  
+b.  *besluit:* het [Besluit politiegegevens](../../../../../../AMvB/besluit/politiegegevens/BWBR0023086/README.md);  
 
-c. *verantwoordelijke:* de verantwoordelijke, bedoeld in [artikel 1, onderdeel f, van de wet](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md);  
+c.  *verantwoordelijke:* de verantwoordelijke, bedoeld in [artikel 1, onderdeel f, van de wet](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md);  
 
-d. *privacy audit:* de audit, bedoeld in [artikel 33 van de wet](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md);  
+d.  *privacy audit:* de audit, bedoeld in [artikel 33 van de wet](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md);  
 
-e. *auditinstelling:* het onderzoeksbureau dat is aangewezen om de privacy audit uit te voeren;  
+e.  *auditinstelling:* het onderzoeksbureau dat is aangewezen om de privacy audit uit te voeren;  
 
-f. *auditor:* de medewerker van de auditinstelling die de privacy audit namens de auditinstelling uitvoert;  
+f.  *auditor:* de medewerker van de auditinstelling die de privacy audit namens de auditinstelling uitvoert;  
 
-g. *auditee:* het regionaal politiekorps, het Korps landelijke politiediensten, de Rijksrecherche of de Koninklijke marechaussee, of het onderdeel daarvan, dat onderworpen wordt aan een audit;  
+g.  *auditee:* de politie, de Rijksrecherche of de Koninklijke marechaussee, of het onderdeel daarvan, dat onderworpen wordt aan een audit;  
 
-h. *interne audit:* de interne audit, bedoeld in [artikel 6:5, vijfde lid, van het besluit](../../../../../../AMvB/besluit/politiegegevens/BWBR0023086/README.md);  
+h.  *interne audit:* de interne audit, bedoeld in [artikel 6:5, vijfde lid, van het besluit](../../../../../../AMvB/besluit/politiegegevens/BWBR0023086/README.md);  
 
-i. *interne auditor:* de voor het uitvoeren van een interne audit gekwalificeerde ambtenaar van politie bedoeld in [artikel 1, onderdeel k, van de wet](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md);  
+i.  *interne auditor:* de voor het uitvoeren van een interne audit gekwalificeerde ambtenaar van politie bedoeld in [artikel 1, onderdeel k, van de wet](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md);  
 
-j. *hercontrole:* de hercontrole, bedoeld in [artikel 33, derde lid, van de wet](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md).    
+j.  *hercontrole:* de hercontrole, bedoeld in [artikel 33, derde lid, van de wet](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md).   
 
 ### Artikel  2  
 
@@ -53,7 +53,7 @@ b. een beschrijving van de resultaten van de privacy audit;
 c. het oordeel en de aanbevelingen van de auditor;  
 
 d. indien uit de resultaten van de privacy audit blijkt dat niet of niet geheel wordt voldaan aan het bij of krachtens de [wet](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) bepaalde, de aanbeveling van de auditor inzake de uitvoering van een hercontrole door een externe dan wel interne auditor.     
-6.  Na afronding van de privacy audit wordt de rapportage onverwijld aangeboden aan de verantwoordelijke.   
+6.  Na afronding van de privacy audit wordt de rapportage onverwijld aangeboden aan de verantwoordelijke.  
 
 ### Artikel  3  
 
@@ -91,7 +91,7 @@ a. een beschrijving van de bij het uitvoeren van de audit gevolgde werkwijze;
 b. een beschrijving van de resultaten van de privacy audit;  
 
 c. het oordeel en de aanbevelingen van de auditor.     
-7.  Na afronding van de interne audit wordt de rapportage onverwijld aangeboden aan de verantwoordelijke.   
+7.  Na afronding van de interne audit wordt de rapportage onverwijld aangeboden aan de verantwoordelijke.  
 
 ### Artikel  4  
 
@@ -101,7 +101,7 @@ c. het oordeel en de aanbevelingen van de auditor.
 2.  Op basis van het verbeterrapport vindt de hercontrole plaats. De hercontrole heeft alleen betrekking op het onderdeel of de onderdelen van de [wet](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) ten aanzien waarvan tekortkomingen zijn geconstateerd en heeft tot doel op systematische wijze te toetsen of door de verantwoordelijke zodanige maatregelen zijn getroffen dat aan de uitvoering van het onderdeel of de betreffende onderdelen van de [wet](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) thans op adequate wijze uitvoering is gegeven.   
 3.  De hercontrole wordt uitgevoerd door een externe auditor indien de auditor daartoe heeft geadviseerd. In alle andere gevallen wordt de hercontrole door een interne auditor uitgevoerd.   
 4.  De resultaten van de hercontrole worden in een rapportage vastgelegd.   
-5.  Na afronding van de hercontrole wordt de rapportage onverwijld aangeboden aan de verantwoordelijke.   
+5.  Na afronding van de hercontrole wordt de rapportage onverwijld aangeboden aan de verantwoordelijke.  
 
 ### Artikel  5  
 
@@ -117,7 +117,7 @@ b. de informatievoorziening en processen van verwerking van politiegegevens;
 c. de vigerende wet- en regelgeving, in het bijzonder de [Wet politiegegevens](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md), het [Besluit politiegegevens](../../../../../../AMvB/besluit/politiegegevens/BWBR0023086/README.md) en de [Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).     
 3.  De auditor is onafhankelijk ten opzichte van de auditee.   
 4.  De auditor is verplicht tot volledige geheimhouding van de informatie die hij in de loop van zijn auditactiviteiten verkrijgt, behoudens voor zover enig wettelijk voorschrift hem tot mededeling verplicht. Hij legt daartoe een geheimhoudingsverklaring af.   
-5.  De functie van auditor kan worden voorgedragen voor aanwijzing als vertrouwensfunctie ingevolge [artikel 3 van de Wet veiligheidsonderzoeken](../../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md).   
+5.  De functie van auditor kan worden voorgedragen voor aanwijzing als vertrouwensfunctie ingevolge [artikel 3 van de Wet veiligheidsonderzoeken](../../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md).  
 
 ### Artikel  6  
 
@@ -133,29 +133,29 @@ b. de politieorganisatie;
 c. de informatievoorziening en processen van verwerking van politiegegevens;  
 
 d. de vigerende wet- en regelgeving, in het bijzonder de [Wet politiegegevens](../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md), het [Besluit politiegegevens](../../../../../../AMvB/besluit/politiegegevens/BWBR0023086/README.md) en de [Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).     
-3.  De interne auditor stelt zich onafhankelijk op ten opzichte van de auditee.   
+3.  De interne auditor stelt zich onafhankelijk op ten opzichte van de auditee.  
 
 ### Artikel  7  
 
 ####Inwerkingtreding
 
-Deze regeling treedt in werking met ingang van 1 januari 2009.  
+Deze regeling treedt in werking met ingang van 1 januari 2009. 
 
 ### Artikel  8  
 
 ####Citeertitel
 
-Deze regeling wordt aangehaald als: Regeling periodieke audit politiegegevens.  
+Deze regeling wordt aangehaald als: Regeling periodieke audit politiegegevens. 
 Deze regeling, met de daarbij behorende toelichting, zal in de Staatscourant worden geplaatst.  
 
 De 
 Minister van Justitie, 
-E.M.H.Hirsch Ballin 
+E.M.H. Hirsch Ballin   
 
 De 
 Minister van Binnenlandse Zaken en Koninkrijksrelaties, 
-G. terHorst 
+G. ter Horst   
 
 De 
 Minister van Defensie, 
-E. vanMiddelkoop   
+E. van Middelkoop     

@@ -13,19 +13,19 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-– *basisbedrag:* het basisbedrag, bedoeld in [artikel 11, eerste lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), en [28, eerste lid, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+–  *basisbedrag:* het basisbedrag, bedoeld in [artikel 11, eerste lid](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md), en [28, eerste lid, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
 
-– *besluit:* het [Besluit stimulering duurzame energieproductie](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+–  *besluit:* het [Besluit stimulering duurzame energieproductie](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
 
-– *regeling 2008:* de [Regeling aanwijzing categorieën duurzame energieproductie 2008](../../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2008/BWBR0023566/README.md);  
+–  *regeling 2008:* de [Regeling aanwijzing categorieën duurzame energieproductie 2008](../../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2008/BWBR0023566/README.md);  
 
-– *regeling 2009:* de [Regeling aanwijzing categorieën duurzame energieproductie 2009](../../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2009/BWBR0025570/README.md);  
+–  *regeling 2009:* de [Regeling aanwijzing categorieën duurzame energieproductie 2009](../../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2009/BWBR0025570/README.md);  
 
-– *regeling 2010:* de [Regeling aanwijzing categorieën duurzame energieproductie 2010](../../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2010/BWBR0027115/README.md);  
+–  *regeling 2010:* de [Regeling aanwijzing categorieën duurzame energieproductie 2010](../../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2010/BWBR0027115/README.md);  
 
-– *regeling 2011:* de [Regeling aanwijzing categorieën duurzame energieproductie 2011](../../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2011/BWBR0030034/README.md);  
+–  *regeling 2011:* de [Regeling aanwijzing categorieën duurzame energieproductie 2011](../../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2011/BWBR0030034/README.md);  
 
-– *tenderbedrag:* het tenderbedrag, bedoeld in [artikel 19, eerste lid, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).    
+–  *tenderbedrag:* het tenderbedrag, bedoeld in [artikel 19, eerste lid, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).   
 
 ### §  2  
 
@@ -57,20 +57,20 @@ b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, ond
 
 a. € 0,052 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).     
+b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).    
 
 ### Artikel  3  
 
 1.  De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in [artikel 36, eerste lid, van de regeling 2008](../../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2008/BWBR0023566/README.md) worden voor 2012 als volgt vastgesteld: 
 
-a. € 0,247 per Nm <sup>3</sup> voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,247 per Nm<sup>3</sup> voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
 
 b. € 0 voor wat betreft de correcties, bedoeld in [artikel 31, eerste lid, onderdeel b, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).     
 2.  De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in [artikel 42a, eerste lid, van de regeling 2008](../../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2008/BWBR0023566/README.md) worden voor 2012 als volgt vastgesteld: 
 
-a. € 0,247 per Nm <sup>3</sup> voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,247 per Nm<sup>3</sup> voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 31, eerste lid, onderdeel b, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).     
+b. € 0 voor wat betreft de correcties, bedoeld in [artikel 31, eerste lid, onderdeel b, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).    
 
 ### §  3  
 
@@ -117,20 +117,20 @@ b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, ond
 
 a. € 0,052 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).     
+b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).    
 
 ### Artikel  5  
 
 1.  De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in [artikel 44, eerste lid, van de regeling 2009](../../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2009/BWBR0025570/README.md) worden voor 2012 als volgt vastgesteld: 
 
-a. € 0,247 per Nm <sup>3</sup> voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,247 per Nm<sup>3</sup> voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
 
 b. € 0 voor wat betreft de correcties, bedoeld in [artikel 31, eerste lid, onderdeel b, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).     
 2.  De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in [artikel 51, eerste lid, van de regeling 2009](../../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2009/BWBR0025570/README.md) worden voor 2012 als volgt vastgesteld: 
 
-a. € 0,247 per Nm <sup>3</sup> voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,247 per Nm<sup>3</sup> voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 31, eerste lid, onderdeel b, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).     
+b. € 0 voor wat betreft de correcties, bedoeld in [artikel 31, eerste lid, onderdeel b, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).    
 
 ### §  4  
 
@@ -142,7 +142,7 @@ De correcties op het tenderbedrag voor de subsidie als bedoeld in [artikel 2, ee
 
 a. € 0,060964 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 22, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 22, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).    
+b. € 0 voor wat betreft de correcties, bedoeld in [artikel 22, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).   
 
 ### §  5  
 
@@ -189,20 +189,20 @@ b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, ond
 
 a. € 0,052 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).     
+b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).    
 
 ### Artikel  8  
 
 1.  De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in [artikel 47, eerste lid, van de regeling 2010](../../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2010/BWBR0027115/README.md) worden voor 2012 als volgt vastgesteld: 
 
-a. € 0,247 per Nm <sup>3</sup> voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,247 per Nm<sup>3</sup> voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
 
 b. € 0 voor wat betreft de correcties, bedoeld in [artikel 31, eerste lid, onderdeel b, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).     
 2.  De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in [artikel 54, eerste lid, van de regeling 2010](../../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2010/BWBR0027115/README.md) worden voor 2012 als volgt vastgesteld: 
 
-a. € 0,247 per Nm <sup>3</sup> voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,247 per Nm<sup>3</sup> voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 31, eerste lid, onderdeel b, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).     
+b. € 0 voor wat betreft de correcties, bedoeld in [artikel 31, eerste lid, onderdeel b, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).    
 
 ### §  6  
 
@@ -274,20 +274,20 @@ b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, ond
 
 a. € 0,052 per kWh voor wat betreft de elektriciteitsprijs, bedoeld in [artikel 14, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).     
+b. € 0 voor wat betreft de correcties, bedoeld in [artikel 14, eerste lid, onderdelen b en c, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).    
 
 ### Artikel  10  
 
 1.  De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in [artikel 80, eerste lid, van de regeling 2011](../../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2011/BWBR0030034/README.md) worden voor 2012 als volgt vastgesteld: 
 
-a. € 0,247 per Nm <sup>3</sup> voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,247 per Nm<sup>3</sup> voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
 
 b. € 0 voor wat betreft de correcties, bedoeld in [artikel 31, eerste lid, onderdeel b, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).     
 2.  De correcties op het basisbedrag voor subsidie-ontvangers als bedoeld in [artikel 86, eerste lid, van de regeling 2011](../../../../../../../../ministeriele-regeling/regeling/aanwijzing/categorieën/duurzame/energieproductie/2011/BWBR0030034/README.md) worden voor 2012 als volgt vastgesteld: 
 
-a. € 0,247 per Nm <sup>3</sup> voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
+a. € 0,247 per Nm<sup>3</sup> voor wat betreft de gasprijs, bedoeld in [artikel 31, eerste lid, onderdeel a, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md);  
 
-b. € 0 voor wat betreft de correcties, bedoeld in [artikel 31, eerste lid, onderdeel b, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).     
+b. € 0 voor wat betreft de correcties, bedoeld in [artikel 31, eerste lid, onderdeel b, van het besluit](../../../../../../../../AMvB/besluit/stimulering/duurzame/energieproductie/BWBR0022735/README.md).    
 
 ### §  7  
 
@@ -295,16 +295,16 @@ b. € 0 voor wat betreft de correcties, bedoeld in [artikel 31, eerste lid, ond
 
 ### Artikel  11  
 
-Deze regeling treedt in werking met ingang van 1 januari 2012.  
+Deze regeling treedt in werking met ingang van 1 januari 2012. 
 
 ### Artikel  12  
 
-Deze regeling wordt aangehaald als: Regeling vaststelling correcties voorschotverlening duurzame energieproductie 2012.  
+Deze regeling wordt aangehaald als: Regeling vaststelling correcties voorschotverlening duurzame energieproductie 2012. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 Den Haag 
 3 november 2011   
 
 De 
-Minister van Economische Zaken, Landbouw en Innovatie,
-M.J.M.Verhagen   
+Minister van Economische Zaken, Landbouw en Innovatie, 
+M.J.M. Verhagen     

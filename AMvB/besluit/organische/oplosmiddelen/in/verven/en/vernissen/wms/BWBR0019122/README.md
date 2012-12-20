@@ -23,7 +23,7 @@ b. VOS: vluchtige organische stof (VOS) als bedoeld in artikel 2, onderdeel 5, v
 
 c. VOS-gehalte: VOS-gehalte als bedoeld in artikel 2, onderdeel 6, van richtlijn 2004/42;  
 
-d. oplosmiddel: oplosmiddel als bedoeld in artikel 2, onderdeel 7, van richtlijn 2004/42.    
+d. oplosmiddel: oplosmiddel als bedoeld in artikel 2, onderdeel 7, van richtlijn 2004/42.   
 
 ### Artikel  2  
 
@@ -33,37 +33,37 @@ d. oplosmiddel: oplosmiddel als bedoeld in artikel 2, onderdeel 7, van richtlijn
 a. de subcategorie van het product en de betrokken VOS-grenswaarden in gram/liter, bedoeld in de bij richtlijn 2004/42 behorende bijlage II, en  
 
 b. het maximale VOS-gehalte in gram/liter van het product in gebruiksklare vorm.     
-3.  Het eerste lid is van overeenkomstige toepassing op de producten, genoemd in de bij richtlijn 2004/42 behorende bijlage I, waaraan oplosmiddelen of andere bestanddelen die oplosmiddelen bevatten, worden toegevoegd om het product gebruiksklaar te maken.   
+3.  Het eerste lid is van overeenkomstige toepassing op de producten, genoemd in de bij richtlijn 2004/42 behorende bijlage I, waaraan oplosmiddelen of andere bestanddelen die oplosmiddelen bevatten, worden toegevoegd om het product gebruiksklaar te maken.  
 
 ### Artikel  3  
 
-1.  Het verbod, bedoeld in artikel 2, geldt niet voor producten die worden verhandeld om uitsluitend te worden gebruikt bij een activiteit die wordt verricht in een installatie die zich bevindt in een vergunningplichtige inrichting als bedoeld in [artikel 2 van het Oplosmiddelenbesluit omzetting EG-VOS-richtlijn milieubeheer](../../../../../../../../../../AMvB/oplosmiddelenbesluit/omzetting/eg-vos-richtlijn/milieubeheer/BWBR0012337/README.md).   
-2.  Het verbod, bedoeld in artikel 2 geldt, tot de dag met ingang waarvan een jaar is verstreken na de data, genoemd in de bij richtlijn 2004/42 behorende bijlage II, niet voor producten die niet voldoen aan de voorwaarden, bedoeld in artikel 2 en die kennelijk zijn geproduceerd vóór die data.   
+1.  Het verbod, bedoeld in artikel 2, geldt niet voor producten die worden verhandeld om uitsluitend te worden gebruikt bij een activiteit die wordt verricht in een installatie die zich bevindt in een vergunningplichtige inrichting genoemd in [bijlage I, onder C, bij het Besluit omgevingsrecht](../../../../../../../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), voor zover zich in de inrichting een installatie, een bestaande installatie of een kleine installatie bevindt.   
+2.  Het verbod, bedoeld in artikel 2 geldt, tot de dag met ingang waarvan een jaar is verstreken na de data, genoemd in de bij richtlijn 2004/42 behorende bijlage II, niet voor producten die niet voldoen aan de voorwaarden, bedoeld in artikel 2 en die kennelijk zijn geproduceerd vóór die data.  
 
 ### Artikel  4  
 
-De methoden, genoemd in de bij richtlijn 2004/42 behorende bijlage III, worden gebruikt om vast te stellen of het VOS-gehalte van de producten, genoemd in de bij die richtlijn behorende bijlage I, voldoet aan de grenswaarden, genoemd in de bij die richtlijn behorende bijlage II.  
+De methoden, genoemd in de bij richtlijn 2004/42 behorende bijlage III, worden gebruikt om vast te stellen of het VOS-gehalte van de producten, genoemd in de bij die richtlijn behorende bijlage I, voldoet aan de grenswaarden, genoemd in de bij die richtlijn behorende bijlage II. 
 
 ### Artikel  5  
 
 1.  Een wijziging van richtlijn 2004/42 gaat voor de toepassing van artikel 1 gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.   
-2.  Een wijziging van een van de bijlagen bij richtlijn 2004/42 gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.   
+2.  Een wijziging van een van de bijlagen bij richtlijn 2004/42 gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld.  
 
 ### Artikel  6  
 
-Wijzigt het Oplosmiddelenbesluit omzetting EG-VOS-richtlijn milieubeheer.   
+Wijzigt het Oplosmiddelenbesluit omzetting EG-VOS-richtlijn milieubeheer. 
 
-### Artikel  6a  
+###Artikel 6a 
 
-Dit besluit berust mede op de [artikelen 9.2.2.1](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [9.2.3.2 van de Wet milieubeheer](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).  
+Dit besluit berust mede op de [artikelen 9.2.2.1](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [9.2.3.2 van de Wet milieubeheer](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).
 
 ### Artikel  7  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst. 
 
 ### Artikel  8  
 
-Dit besluit wordt aangehaald als: Besluit organische oplosmiddelen in verven en vernissen milieubeheer.  
+Dit besluit wordt aangehaald als: Besluit organische oplosmiddelen in verven en vernissen milieubeheer. 
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   
 
