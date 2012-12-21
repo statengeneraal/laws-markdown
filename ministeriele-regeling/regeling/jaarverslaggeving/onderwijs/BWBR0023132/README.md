@@ -56,62 +56,40 @@ b. wordt de jaarverslaggeving gepubliceerd in de Nederlandse taal en in de in Ne
 
 c. is het verslagjaar gelijk aan een kalenderjaar;  
 
-d. zijn de verplichtingen, bedoeld in [artikel 383 c van Titel 9 Boek 2 van het Burgerlijk Wetboek,](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) uitsluitend van toepassing op de jaarverslaggeving van een onderwijsinstelling voor zover het een lid van het bevoegd gezag van de onderwijsinstelling betreft dan wel een lid van het college van bestuur of de centrale directie als het gaat om een instelling voor hoger onderwijs als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+d. wordt de jaarverslaggeving opgesteld door het bevoegd gezag dat de onderwijsinstelling in stand houdt;  
 
-e. wordt aan het jaarverslag een verslag toegevoegd van de raad van toezicht of een vergelijkbare interne toezichthouder, waarin deze verantwoording aflegt over zijn handelen en van de resultaten die dat handelen heeft opgeleverd tenzij de onderwijsinstelling geen interne toezichthouder kent;  
+e. zijn de verplichtingen, bedoeld in [artikel 383 c van Titel 9 Boek 2 van het Burgerlijk Wetboek,](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) uitsluitend van toepassing op de jaarverslaggeving van een onderwijsinstelling voor zover het een lid van het bevoegd gezag van de onderwijsinstelling betreft dan wel een lid van het college van bestuur of de centrale directie als het gaat om een instelling voor hoger onderwijs als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
 
-f. worden de balans en de staat van baten en lasten, het kasstroomoverzicht en de toelichting opgesteld overeenkomstig de modellen in de bijlagen bij hoofdstuk 660 van de richtlijnenmet dien verstande dat de door het Ministerie van Landbouw, Natuur en Voedselkwaliteit regulier bekostigde instellingen voor onderwijs voor zover zij niet worden bekostigd op basis van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) alle van dat Ministerie ontvangen gelden naast de normatieve rijksbijdrage opnemen in het model G. Het Besluit modellen jaarrekening, samengesteld door de Raad voor de Jaarverslaggeving en opgenomen in hoofdstuk 910 van de richtlijnen is van overeenkomstige toepassing;  
+f. wordt aan het jaarverslag een verslag toegevoegd van de raad van toezicht of een vergelijkbare interne toezichthouder, waarin deze verantwoording aflegt over zijn handelen en van de resultaten die dat handelen heeft opgeleverd tenzij de onderwijsinstelling geen interne toezichthouder kent;  
 
-g. specificeren de onderwijsinstellingen, bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), de door het Rijk verstrekte subsidies eveneens in een tabel overeenkomstig het model dat als bijlage 1 bij deze regeling is gevoegd en dragen zij er zorg voor dat deze tabel is voorzien van een accountantsverklaring als bedoeld in [Titel 9 Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+g. worden de balans en de staat van baten en lasten, het kasstroomoverzicht en de toelichting opgesteld overeenkomstig de modellen in de bijlagen bij hoofdstuk 660 van de richtlijnen. Het Besluit modellen jaarrekening, samengesteld door de Raad voor de Jaarverslaggeving en opgenomen in hoofdstuk 910 van de richtlijnen is van overeenkomstige toepassing;  
 
-h. wordt de jaarverslaggeving per instelling opgesteld als een bevoegd gezag meer dan één instelling als bedoeld in [artikel 1.1.1, onder b, van de Wet educatie en beroepsonderwijs](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), een kenniscentrum als bedoeld in [artikel 1.1.1, onder b1 van de Wet educatie en beroepsonderwijs](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) of meer dan één instelling voor hoger onderwijs als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) in stand houdt;  
+h. worden, ingeval sprake is van groepsverhoudingen leidende tot een geconsolideerde jaarverslaggeving van de bevoegde gezagen, in de toelichting van de geconsolideerde jaarverslaggeving, de balans en de staat van baten en lasten zodanig gesegmenteerd, dat inzicht ontstaat in de onderscheiden posten uit de geconsolideerde jaarrekening op het instandhoudingsniveau;  
 
-i. blijven ten aanzien van onderwijsinstellingen voor openbaar onderwijs zonder afgescheiden vermogen die niet door een privaatrechtelijke rechtspersoon in stand worden gehouden of voor onderwijsinstellingen waarvoor anderszins geen toerekening mogelijk is van een of meer balansposten aan het belang van de instelling, de onder f bedoelde modellen wat betreft de inrichting van de balans beperkt tot die posten waar die toerekening wel mogelijk is;  
+i. specificeren de onderwijsinstellingen, bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), de door het Rijk verstrekte subsidies waarbij zulks in regelgeving of bij de subsidieverstrekking is aangegeven, eveneens in een tabel overeenkomstig het model dat als bijlage 1 bij deze regeling is gevoegd en dragen zij er zorg voor dat deze tabel is voorzien van een accountantsverklaring als bedoeld in [Titel 9 Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
 
-j. wordt separaat aan het jaarverslag en de jaarrekening door het bevoegd gezag specifieke informatie toegevoegd in de vorm van een aanvullende set met nader te bepalen gegevens;  
+j. wordt de jaarverslaggeving per instelling opgesteld als een bevoegd gezag meer dan één instelling als bedoeld in [artikel 1.1.1, onder b, van de Wet educatie en beroepsonderwijs](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), een kenniscentrum als bedoeld in [artikel 1.1.1, onder b1 van de Wet educatie en beroepsonderwijs](../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) of meer dan één instelling voor hoger onderwijs als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) in stand houdt;  
 
-k. is het niet toegestaan de jaarrekening op te stellen volgens de door de International Accounting Standards Board vastgestelde en door de Europese Commissie goedgekeurde standaarden.    
+k. blijven ten aanzien van onderwijsinstellingen voor openbaar onderwijs zonder afgescheiden vermogen die niet door een privaatrechtelijke rechtspersoon in stand worden gehouden of voor onderwijsinstellingen waarvoor anderszins geen toerekening mogelijk is van een of meer balansposten aan het belang van de instelling, de onder g bedoelde modellen wat betreft de inrichting van de balans beperkt tot die posten waar die toerekening wel mogelijk is;  
 
-### Artikel  3a  
+l. wordt separaat aan het jaarverslag en de jaarrekening door het bevoegd gezag specifieke informatie toegevoegd in de vorm van een aanvullende set met nader te bepalen gegevens;  
 
-####Afwijking en aanvulling richtlijnen
-
-1.  In afwijking van hoofdstuk 271 Personeelsbeloningen van de richtlijnen worden voor de verslagjaren 2008 en 2009 voor toekomstige verplichtingen op basis van de BAPO door het bevoegd gezag van een school of scholengemeenschap in het primair en het voortgezet onderwijs de volgende uitgangspunten gehanteerd: 
-
-a. een voorziening in verband met de BAPO wordt uitsluitend in de balans of in de staat van baten en lasten opgenomen als dat ook in de vorige jaarrekening is gebeurd; de berekening en de verwerking van die voorziening zijn niet anders dan in de vorige jaarrekening;  
-
-b. het bevoegd gezag neemt in een afzonderlijke toelichting bij de jaarrekening, aan de hand van het berekeningsmodel in bijlage 2 bij deze regeling, een berekening op met de volgende gegevens: 
-
-1. de waardering van de toekomstige lasten die voortvloeien uit de BAPO;  
-
-2. de waardering van de toekomstige baten in verband met de BAPO zoals opgenomen in de lumpsumbekostiging;  
-
-3. de hoogte van de BAPO-verplichtingen, gevormd door de lasten, bedoeld onder 1, te salderen met de baten, bedoeld onder 2; en  
-
-4. de wijze waarop het bevoegd gezag de toekomstige BAPO-lasten denkt te kunnen opvangen. De uitkomsten van de berekeningen stuurt het bevoegd gezag samen met de jaarrekening in op de in bijlage 3 voorgeschreven wijze.       
-2.  In aanvulling op hoofdstuk 271 Personeelsbeloningen van de richtlijnen worden vanaf het verslagjaar 2010 de lasten op basis van de BAPO en de SOP overeenkomstig paragraaf 2, alinea 204, van dat hoofdstuk in de staat van baten en lasten verantwoord als periodelasten.   
-3.  Met ingang van het verslagjaar 2010 vervalt de mogelijkheid tot het vormen van een voorziening met het oog op toekomstige BAPO- en SOP-lasten. Niet bestede voorzieningen die tot en met het verslagjaar 2009 door schoolbesturen en onderwijsinstellingen zijn gevormd ter financiering van toekomstige BAPO- en SOP-lasten vallen in het verslagjaar 2010 volledig vrij ten gunste van het eigen vermogen.   
+m. is het niet toegestaan de jaarrekening op te stellen volgens de door de International Accounting Standards Board vastgestelde en door de Europese Commissie goedgekeurde standaarden.    
 
 ### Artikel  4  
 
-####Aanleveren gegevens
+####Afwijking een aanvulling richtlijn
 
-1.  Het bevoegd gezag levert de jaarverslaggeving zowel in schriftelijke als elektronische vorm aan bij de Dienst Uitvoering Onderwijs.   
-2.  De aanlevering van gegevens uit de jaarrekening en de gegevens, bedoeld in artikel 3, onder j, geschiedt met gebruikmaking van een daartoe ingericht instrument dan wel met gebruikmaking van instrumenten die op overeenkomstige wijze gegevens genereren.   
+1.  In aanvulling op hoofdstuk 271 Personeelsbeloningen van de richtlijnen worden de lasten op basis van de BAPO en de SOP, overeenkomstig paragraaf 2, alinea 204, van dat hoofdstuk, in de staat van baten en lasten verantwoord als periodelasten.   
+2.  Onderwijsinstellingen nemen in het jaarverslag op aan hoeveel studenten zij uit het profileringsfonds, bedoeld in [artikel 7.51 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), financiële ondersteuning hebben verleend, uitgesplitst naar EER-studenten en niet EER-studenten. Tevens geven zij aan wat de hoogte is van de uitgaven samenhangend met het profileringsfonds.   
+3.  Instellingen voor hoger onderwijs als bedoeld in [artikel 1.8 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) nemen in het jaarverslag een overzicht op van de vergoedingen aan en de declaraties van de individuele bestuurders volgens het format conform bijlage 2 bij deze regeling, en publiceren dit tevens op de website van de onderwijsinstelling.   
 
 ### Artikel  5  
 
-####Intrekken regelingen
+####Aanleveren gegevens
 
-De volgende regelingen worden ingetrokken: 
-
-a. de [Regeling jaarverslag primair onderwijs en (voortgezet) speciaal onderwijs](../../../../../ministeriele-regeling/regeling/jaarverslag/primair/onderwijs/en/(voortgezet)/speciaal/onderwijs/BWBR0018158/README.md);  
-
-b. de [Regeling Jaarverslag scholen voor voortgezet onderwijs met ingang van het verslagjaar 2002](../../../../../ministeriele-regeling/regeling/jaarverslag/scholen/voor/voortgezet/onderwijs/met/ingang/van/het/etc/BWBR0013539/README.md);  
-
-c. de Regeling Financieel Jaarverslag voor instellingen/organen in de bve-sector met ingang van het verslagjaar 2002;  
-
-d. de [Richtlijn jaarverslaggeving hoger onderwijs en wetenschappelijk onderzoek](../../../../../ministeriele-regeling/richtlijn/jaarverslaggeving/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0011576/README.md).    
+1.  Het bevoegd gezag levert de jaarverslaggeving, bestaande uit het bestuursverslag en de jaarrekening, in schriftelijke vorm aan bij de Dienst Uitvoering Onderwijs.   
+2.  De aanlevering van gegevens uit de jaarrekening en de gegevens, bedoeld in artikel 3, onder j, geschiedt met gebruikmaking van een daartoe ingericht instrument dan wel met gebruikmaking van instrumenten die op overeenkomstige wijze gegevens genereren.   
 
 ### Artikel  6  
 
@@ -132,6 +110,8 @@ R.H.A.Plasterk
 
 ### Bijlage  1  
 
+####, behorende bij artikel 3, onderdeel g , van de regeling
+
 De FSR voor verslagjaar: ……… van de instelling: …………..  
 
 | Subsidie-  verstrekker en eventueel uitvoerder  | Omschrij-  ving  | Subsidie ID  | Project  | Subsidie  | Looptijd subsidie  | Bestedingen project (OHW)  | Voor-  schot  | Status  |
@@ -144,44 +124,14 @@ De FSR voor verslagjaar: ……… van de instelling: …………..
 
 ### Bijlage  2  
 
-#### *Berekening BAPO verplichtingen 2008 en 2009* 
+####, behorende bij artikel 4, derde lid , van de regeling
 
-1. Maak een overzicht van de personeelsopbouw in 2008 respectievelijk 2009 in de leeftijd van 47 t/m 64 jaar, gesplitst in directie, onderwijsondersteunend personeel en onderwijsgevend personeel.  
-
-2. Bepaal de verwachte BAPO-deelname in een percentage: Welk percentage van het aantal FTE zal gebruik maken van de BAPO-regeling?  
-
-3. Bepaal het gemiddelde aantal BAPO-uren per leeftijdscategorie: Hoeveel uren BAPO neemt elk personeelslid dat gebruik maakt van de BAPO-regeling? Maximaal is dit 170, respectievelijk 340 uur, tenzij gebruik wordt gemaakt van flexibele BAPO, waarbij de totale aanspraak wel op hetzelfde maximum uitkomt.  
-
-4. Bepaal de blijfkans, het verwachte moment van uittreden en de daarbij behorende totale BAPO-aanspraken.  
-
-5. Bepaal per leeftijdscategorie de deelname, uitgedrukt in FTE’s, die met het BAPO-gebruik is gemoeid. Voor de leeftijdscategorieën van 52 jaar en ouder moeten alleen de nog resterende aanspraken worden opgenomen.  
-
-6. Bepaal de omvang van de BAPO-aanspraken. Voor de verslagjaren 2008 en 2009 is dat als volgt: Voor 47 jaar: 10% van het berekende bij 5. Voor 48 jaar: 30% van het berekende bij 5. Voor 49 jaar: 50% van het berekende bij 5. Voor 50 jaar: 70% van het berekende bij 5. Voor 51 jaar: 90% van het berekende bij 5. Voor 52 t/m 64 jaar: 100% van het berekende bij 5.  
-
-7. Vermenigvuldig de uitkomsten van 6 met de gemiddelde jaarlijkse salariskosten, die voor rekening zijn van de werkgever.  
-
-8. Bereken de (contante) waarde van de BAPO-aanspraken van de uitkomsten van 7.  
-
-9. Bereken de (contante) waarde van de BAPO-inkomsten (2% van het personele deel van de lumpsumbekostiging).  
-
-10. Bereken de hoogte van de BAPO-verplichtingen door de berekende (contante) waarde van de lasten (8) te salderen met de baten (9).    
-
-### Bijlage  3  
-
-Het bevoegd gezag neemt de overeenkomstig bijlage 1 uitgevoerde berekeningen met behulp van een Excel spreadsheet op in een overzicht waarbij de volgende indeling wordt gehanteerd:  
-
-| --- | --- | --- | --- | --- | --- | --- |
-|:---|:---|:---|:---|:---|:---|:---|
-| Bevoegd gezagnummer:  | --- |
-| Naam bevoegd gezag:  | --- |
-| Plaats bevoegd gezag:  | --- |
-| Kalenderjaar:  | --- |
-| Onderwijssector:  |  *(in te vullen door de DUO)*   |
-| BAPO aanspraken PO (a)  | BAPO aanspraken VO (b)  |  *Totaal*    *BAPO*    *aanspraken*    *(a+b)=C*   | BAPO inkomsten PO (d)  | BAPO inkomsten VO (e)  |  *Totaal*    *BAPO*    *inkomsten*    *(d+e)=F*   | Saldo  BAPO verplichtingen  (C-F)=G  |
-| --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- |
-| --- | --- | --- | --- | --- | --- | --- |
-| Berekening BAPO conform berekening 2007?  | Ja/Nee  |
-| Zo nee, reden?  | --- |
-| Op welke wijze denkt het bevoegd gezag de toekomstige BAPO-verplichtingen te kunnen opvangen?  | --- |
+|--- | Naam individuele bestuurder  | Naam individuele bestuurder  | Naam individuele bestuurder  |
+|:---|:---|:---|:---|
+| Representatiekosten  | --- | --- | --- |
+| Reiskosten binnenland  | --- | --- | --- |
+| Reiskosten buitenland  | --- | --- | --- |
+| Overige kosten  | --- | --- | --- |
+| --- | --- | --- | --- |
+|  *Totaal*   | --- | --- | --- |
 

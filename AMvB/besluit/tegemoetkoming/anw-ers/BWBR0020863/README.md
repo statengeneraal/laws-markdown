@@ -23,11 +23,9 @@ Voor de toepassing van dit besluit wordt verstaan onder tegemoetkoming: de tegem
 
 ####Hoogte tegemoetkoming
 
-1.  De tegemoetkoming bedraagt € 15,61 per maand.   
+1.  De tegemoetkoming bedraagt € 15,61 per 1 januari 2013: € 16,23 per maand.   
 2.  Dit bedrag wordt jaarlijks aangepast overeenkomstig de tabelcorrectiefactor, bedoeld in [artikel 10.2 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md).   
 3.  Van het aangepaste bedrag en de dag waarop deze aanpassing plaatsvindt, wordt door Onze Minister van Sociale Zaken en Werkgelegenheid mededeling gedaan in de Staatscourant.   
-4.  Voor de aanpassing van het bedrag, genoemd in het eerste lid, worden het tweede en derde lid voor de kalenderjaren 2010 en 2011 niet toegepast.   
-5.  Het vierde lid en dit lid vervallen met ingang van 1 januari 2012.   
 
 ### Artikel  3  
 

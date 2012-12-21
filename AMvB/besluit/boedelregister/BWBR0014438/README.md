@@ -39,41 +39,41 @@ j. ter inschrijving van de vervanging van de boedelnotaris, als bedoeld in [arti
 
 k. ter inschrijving van de benoeming van een vereffenaar of van het eindigen van diens hoedanigheid, als bedoeld in [artikel 206 lid 6 van Boek 4 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md), dan wel van de opheffing van de vereffening, als bedoeld in [artikel 209 lid 4 van Boek 4 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md): een authentiek afschrift van de beschikking;  
 
-l. ter inschrijving van de door een vereffenaar aangewezen boedelnotaris, als bedoeld in [artikel 211 lid 5 van Boek 4 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md): de schriftelijke mededeling terzake van de desbetreffende notaris.    
+l. ter inschrijving van de door een vereffenaar aangewezen boedelnotaris, als bedoeld in [artikel 211 lid 5 van Boek 4 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md): de schriftelijke mededeling terzake van de desbetreffende notaris.   
 
 ### Artikel  2  
 
-De in artikel 1, onder b, f, h en k bedoelde feiten worden door de griffier ambtshalve in het boedelregister ingeschreven.  
+De in artikel 1, onder b, f, h en k bedoelde feiten worden door de griffier ambtshalve in het boedelregister ingeschreven. 
 
 ### Artikel  3  
 
 1.  Van een verklaring houdende zuivere aanvaarding of aanvaarding onder het voorrecht van boedelbeschrijving dan wel verwerping van een nalatenschap als bedoeld in artikel 191 lid 1 van Boek 4 van het Burgerlijk Wetboek maakt de griffier een akte op, die degene die de verklaring aflegt in persoon of bij gevolmachtigde ondertekent. Hetzelfde geldt voor de verklaring van beneficiaire aanvaarding of van verwerping door de wettelijke vertegenwoordiger van een erfgenaam als bedoeld in artikel 193 lid 1 van Boek 4 van het Burgerlijk Wetboek. Een verklaring als in de vorige volzin bedoeld wordt in het boedelregister ingeschreven.   
-2.  Indien een in het eerste lid bedoelde verklaring bij gevolmachtigde is ondertekend, wordt de volmacht aan de akte gehecht.   
+2.  Indien een in het eerste lid bedoelde verklaring bij gevolmachtigde is ondertekend, wordt de volmacht aan de akte gehecht.  
 
 ### Artikel  4  
 
-In het boedelregister worden uitsluitend in artikel 1 genoemde feiten ingeschreven die betrekking hebben op nalatenschappen van erflaters die hun laatste woonplaats hebben in het arrondissement van de desbetreffende rechtbank. Kan een feit niet op grond van de eerste volzin worden ingeschreven, dan wordt het ingeschreven in het boedelregister, gehouden door de griffier van de rechtbank te 's-Gravenhage.  
+In het boedelregister worden uitsluitend in artikel 1 genoemde feiten ingeschreven die betrekking hebben op nalatenschappen van erflaters die hun laatste woonplaats hebben in het arrondissement van de desbetreffende rechtbank. Kan een feit niet op grond van de eerste volzin worden ingeschreven, dan wordt het ingeschreven in het boedelregister, gehouden door de griffier van de rechtbank Den Haag. 
 
 ### Artikel  5  
 
 1.  Het boedelregister wordt gehouden in elektronische vorm, en is een van de overige onderdelen afgescheiden onderdeel van het landelijke geautomatiseerde processysteem voor civiele procedures bij de rechtbanken.   
-2.  Inschrijving geschiedt door het vastleggen van het desbetreffende feit in bedoeld onderdeel van het processysteem, en wel op zodanige wijze dat het verband met de desbetreffende nalatenschap en met andere ingeschreven op de nalatenschap betrekking hebbende feiten terstond kan worden gelegd en het verlenen van inzage in of het verstrekken van een uittreksel uit het boedelregister terstond kan plaatsvinden. Elke inschrijving wordt van een dagtekening voorzien.   
+2.  Inschrijving geschiedt door het vastleggen van het desbetreffende feit in bedoeld onderdeel van het processysteem, en wel op zodanige wijze dat het verband met de desbetreffende nalatenschap en met andere ingeschreven op de nalatenschap betrekking hebbende feiten terstond kan worden gelegd en het verlenen van inzage in of het verstrekken van een uittreksel uit het boedelregister terstond kan plaatsvinden. Elke inschrijving wordt van een dagtekening voorzien.  
 
 ### Artikel  6  
 
-De in artikel 1 genoemde stukken die voor een inschrijving in het boedelregister dienen te worden overgelegd of ter beschikking dienen te staan, maken geen deel uit van het boedelregister. Zij worden ter griffie van de rechtbank zodanig bewaard, dat het verband met de op grond daarvan ingeschreven feiten kan worden gelegd.  
+De in artikel 1 genoemde stukken die voor een inschrijving in het boedelregister dienen te worden overgelegd of ter beschikking dienen te staan, maken geen deel uit van het boedelregister. Zij worden ter griffie van de rechtbank zodanig bewaard, dat het verband met de op grond daarvan ingeschreven feiten kan worden gelegd. 
 
 ### Artikel  7  
 
-De griffier is verplicht aan eenieder kosteloos inzage in het boedelregister te verstrekken. Het verzoek daartoe dient op een bepaalde nalatenschap betrekking te hebben. De griffier is, met inachtneming van de vorige volzin, voorts verplicht om met betrekking tot een of meer der in het boedelregister ingeschreven en door de verzoeker aangegeven feiten, een uittreksel uit het boedelregister te verstrekken, zulks met inachtneming van het bij of krachtens de [Wet griffierechten burgerlijke zaken](../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) bepaalde.  
+De griffier is verplicht aan eenieder kosteloos inzage in het boedelregister te verstrekken. Het verzoek daartoe dient op een bepaalde nalatenschap betrekking te hebben. De griffier is, met inachtneming van de vorige volzin, voorts verplicht om met betrekking tot een of meer der in het boedelregister ingeschreven en door de verzoeker aangegeven feiten, een uittreksel uit het boedelregister te verstrekken, zulks met inachtneming van het bij of krachtens de [Wet griffierechten burgerlijke zaken](../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) bepaalde. 
 
 ### Artikel  8  
 
-Indien aan de griffier een verzoek als in artikel 7 bedoeld wordt gedaan en de nalatenschap voor het tijdstip van inwerkingtreding van dit besluit is opengevallen, gaat de griffier ambtshalve na of terzake van die nalatenschap feiten zijn ingeschreven in het daartoe bestemde register, bedoeld in [artikel 1070 van Boek 4 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) zoals dat voor genoemd tijdstip gold.  
+Indien aan de griffier een verzoek als in artikel 7 bedoeld wordt gedaan en de nalatenschap voor het tijdstip van inwerkingtreding van dit besluit is opengevallen, gaat de griffier ambtshalve na of terzake van die nalatenschap feiten zijn ingeschreven in het daartoe bestemde register, bedoeld in [artikel 1070 van Boek 4 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/4/BWBR0002761/README.md) zoals dat voor genoemd tijdstip gold. 
 
 ### Artikel  9  
 
-Dit besluit treedt in werking met ingang van 1 januari 2003. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2002, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 1 januari 2003.  
+Dit besluit treedt in werking met ingang van 1 januari 2003. Indien het Staatsblad waarin dit besluit wordt geplaatst, wordt uitgegeven na 31 december 2002, treedt het in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst, en werkt het terug tot en met 1 januari 2003. 
 
 ### Artikel  10  
 
@@ -91,4 +91,4 @@ J. P. H. Donner
 de zeventiende december 2002 
 
 De Minister van Justitie, 
-J. P. H. Donner    
+J. P. H. Donner     

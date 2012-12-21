@@ -189,12 +189,13 @@ b. de honorariumcomponent van de kosten van dbc-zorgproducten van long/astma-kli
 
 c. alle kosten van overige instellingen op het gebied van ziekenhuisverpleging voor zover zij niet worden gefinancierd op basis van dbc-zorgproducten.     
 10.  Het College zorgverzekeringen merkt de kosten van de overgangsregeling van het functioneel leeftijdsontslag van werknemers in de publieke ambulancezorg voor 100 procent aan als kosten van het cluster ‘vaste kosten van ziekenhuisverpleging’.   
-11.  Het College zorgverzekeringen calculeert 100 procent na op het verschil tussen de vaste kosten van ziekenhuisverpleging, vastgesteld ingevolge het tweede tot en met negende lid enerzijds, en het herberekende deelbedrag vaste kosten van ziekenhuisverpleging na toepassing van het eerste lid, anderzijds.   
+11.  Het College zorgverzekeringen merkt de kosten voor de Stichting Kwaliteitsgelden Medisch Specialisten voor 100 procent aan als kosten van het cluster ‘vaste kosten van ziekenhuisverpleging’.   
+12.  Het College zorgverzekeringen calculeert 100 procent na op het verschil tussen de vaste kosten van ziekenhuisverpleging, vastgesteld ingevolge het tweede tot en met negende lid enerzijds, en het herberekende deelbedrag vaste kosten van ziekenhuisverpleging na toepassing van het eerste lid, anderzijds.   
 
 ### Artikel  17  
 
 1.  Het College zorgverzekeringen merkt de door de zorgautoriteit berekende bedragen ter verrekening van de in 2012 gerealiseerde opbrengstresultaten van gebudgetteerde instellingen voor geneeskundige geestelijke gezondheidszorg voor een door de zorgautoriteit vast te stellen gedeelte aan als kosten die behoren tot het cluster ‘geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar’.   
-2.  Het College zorgverzekeringen calculeert 100 procent na op het verschil tussen de gerealiseerde kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar enerzijds, en het herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar, bedoeld in [artikel 3.11, derde lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), anderzijds.   
+2.  Het College zorgverzekeringen calculeert 100 procent na op het verschil tussen de gerealiseerde kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar enerzijds, en het herberekende deelbedrag kosten van geneeskundige geestelijke gezondheidszorg voor verzekerden jonger dan achttien jaar, bedoeld in [artikel 3.12, derde lid, van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), anderzijds.   
 
 ### Artikel  18  
 
