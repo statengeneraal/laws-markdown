@@ -119,15 +119,31 @@ c. alleen kosten komen in aanmerking voor vergoeding die verband houden met de b
 ####Aanwending Bestemmingsfonds OCW
 
 1.  Iedere aanwending tot 1 januari 2013 van middelen die zijn gereserveerd in het bestemmingsfonds OCW door een instelling aan wie op grond van de [artikelen 4a](../../../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) of [4b van de wet](../../../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) voor de jaren 2009 tot en met 2012 subsidie is verleend, behoeft de voorafgaande toestemming van de minister.   
-2.  Toestemming wordt in beginsel onthouden voor een aanwending van het bestemmingsfonds OCW die niet bijdraagt aan de bestrijding van kosten als bedoeld in artikel 2, tweede lid.   
-3.  [artikel 2.29, tweede lid, van de Regeling op het specifiek cultuurbeleid](../../../../../../../../../ministeriele-regeling/regeling/op/het/specifiek/cultuurbeleid/BWBR0027597/README.md) is niet van toepassing op een instelling die een vergoeding ontvangt op grond van deze regeling. Gelijktijdig aan de beslissing over de vergoeding besluit de minister over de aanwending van de middelen die door de desbetreffende instelling zijn gereserveerd in het bestemmingsfonds OCW. De minister kan bepalen dat de gereserveerde middelen en andere reserves die mede tot stand zijn gekomen met subsidie van de minister, in mindering worden gebracht op de vergoeding, bedoeld in artikel 2, eerste lid, en door de instelling worden bestemd voor het bestrijden van kosten als bedoeld in artikel 2, tweede lid, na 31 december 2012.   
+2.  [artikel 2.29, tweede lid, van de Regeling op het specifiek cultuurbeleid](../../../../../../../../../ministeriele-regeling/regeling/op/het/specifiek/cultuurbeleid/BWBR0027597/README.md) is niet van toepassing op een instelling die een vergoeding ontvangt op grond van deze regeling. Gelijktijdig aan de beslissing over de vergoeding besluit de minister over de aanwending van de middelen die door de desbetreffende instelling zijn gereserveerd in het bestemmingsfonds OCW. De minister kan bepalen dat de gereserveerde middelen of andere reserves die mede tot stand zijn gekomen met subsidie van de minister, in mindering worden gebracht op de vergoeding, bedoeld in artikel 2, eerste lid, en door de instelling worden bestemd voor het bestrijden van kosten als bedoeld in artikel 2, tweede lid, na 31 december 2012.   
+3.  De minister kan bij beschikking bepalen dat de eerste twee volzinnen van het tweede lid niet van toepassing zijn op een instelling.   
+
+### Artikel  9a  
+
+####Vaststelling en verantwoording vergoeding categorie 1-instelling
+
+1.  In afwijking van [artikel 17 van de Regeling OCW-subsidies](../../../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md) wordt een vergoeding aan een categorie 1-instelling uiterlijk op 1 juni 2014 vastgesteld.   
+2.  In afwijking van de [artikelen 19](../../../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md) en [21 van de Regeling OCW-subsidies](../../../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md) toont een categorie 1-instelling op verzoek van de minister aan dat de activiteiten waarvoor de vergoeding is verstrekt, zijn verricht en dat is voldaan aan de verplichtingen die aan de vergoeding zijn verbonden.   
 
 ### Artikel  10  
 
-####Ontbindende voorwaarde vergoeding
+####Bijstelling vergoeding bij compenserende subsidie
 
-1.  Een vergoeding op grond van deze regeling wordt verleend onder de ontbindende voorwaarde van subsidieverstrekking voor 1 januari 2014 door een ander bestuursorgaan.   
-2.  Indien de voorwaarde zich voordoet, kan de minister naar rato een nieuwe vergoeding toekennen voor zover de instelling met de subsidie, bedoeld in het eerste lid, niet alle kosten redelijkerwijs kan opvangen.   
+1.  Indien een categorie 1-instelling vóór 1 januari 2014 van een ander bestuursorgaan subsidie ontvangt, waarmee de terugval in subsidie van de minister wordt gecompenseerd, wordt het bedrag van de vergoeding naar rato van de mate van compensatie vastgesteld.   
+2.  Onverminderd [artikel 4:46, tweede lid, van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt de vergoeding aan een categorie 1-instelling op nihil vastgesteld, indien het verschil tussen de subsidie van de minister en de subsidie waarmee de compensatie, bedoeld in het eerste lid, wordt bereikt minder dan tien procent bedraagt.   
+
+### Artikel  10a  
+
+####Bevoorschotting
+
+1.  De minister verleent een voorschot tot 100 procent van het naar verwachting vast te stellen bedrag.   
+2.  Bij beschikking wordt de hoogte van het voorschot bepaald.   
+3.  Het voorschot wordt in één keer betaald in de maand januari van 2013.   
+4.  In afwijking van het derde lid wordt het voorschot in meer dan één termijn of vóór de maand januari van 2013 betaald, indien de instelling daarom verzoekt, een en ander voor zover de beschikbaarheid van middelen dit naar het oordeel van de minister toelaat.   
 
 ### Artikel  11  
 

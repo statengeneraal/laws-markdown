@@ -33,44 +33,38 @@ De [artikelen 2 tot en met 7](../../../../../../../../../../AMvB/besluit/inzamel
 
 Vermelding op de lijst van inzamelaars dan wel de lijst van vervoerders, handelaars en bemiddelaars geschiedt, indien aan de volgende criteria wordt voldaan: 
 
-a. betrouwbaarheid, door de natuurlijke persoon die permanent en daadwerkelijk leiding geeft aan het inzamelen, vervoeren, handelen of bemiddelen, of indien de leiding bij meer personen berust, door ieder van hen;  
+a. betrouwbaarheid, door de natuurlijke persoon of rechtspersoon die permanent en daadwerkelijk leiding geeft aan het inzamelen, vervoeren, handelen of bemiddelen, of indien de leiding bij meer personen berust, door ieder van hen;  
 
-b. kredietwaardigheid, door de natuurlijk persoon of rechtspersoon die inzamelt, vervoert, handelt of bemiddelt, of indien meer natuurlijke personen of rechtspersonen gezamenlijk als zodanig optreden, door hen gezamenlijk, en  
-
-c. vakbekwaamheid, door de natuurlijke persoon die permanent en daadwerkelijk leiding geeft aan het inzamelen, vervoeren, handelen of bemiddelen, of indien de leiding bij meer personen berust, door ten minste een van hen.    
+b. vakbekwaamheid, door de natuurlijke persoon die permanent en daadwerkelijk leiding geeft aan het handelen of bemiddelen, of indien de leiding bij meer personen berust, door ten minste een van hen.    
 
 ### Artikel  5  
 
-1.  Ter voldoening aan de criteria, bedoeld in artikel 4, worden bij de aanvraag de volgende gegevens verstrekt aan de instantie bedoeld in [artikel 10.45, derde lid](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), of [artikel 10.55, derde lid, van de wet](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md): 
+1.  Ter voldoening aan de criteria, bedoeld in artikel 4, worden bij de eerste aanvraag de volgende gegevens verstrekt aan de instantie bedoeld in [artikel 10.45, derde lid](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), of [artikel 10.55, derde lid, van de wet](../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md): 
 
-a. ten aanzien van betrouwbaarheid: een niet ouder dan drie maanden zijnde verklaring omtrent het gedrag afgegeven overeenkomstig de bepalingen van de [Wet op de justitiële documentatie en de verklaringen omtrent het gedrag](../../../../../../../../../../wet/wet/op/de/justitiële/documentatie/en/op/de/verklaringen/omtrent/het/gedrag/BWBR0002195/README.md);  
+a. ten aanzien van betrouwbaarheid: een niet ouder dan drie maanden zijnde verklaring omtrent het gedrag van een natuurlijke persoon of een rechtspersoon als bedoeld in [titel 2, afdeling 5, van de Wet justitiële en strafvorderlijke gegevens](../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), en  
 
-b. ten aanzien van de kredietwaardigheid: een niet ouder dan een jaar zijnd bewijs dat de aanvrager ten minste € 18.000 in eigen vermogen heeft, aan te tonen met een door een accountant ondertekende verklaring inzake het minimaal aanwezige risicodragend kapitaal; en  
-
-c. ten aanzien van vakbekwaamheid: een vakdiploma op het terrein van afvalstoffen dat is afgegeven door een instantie die door de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer is erkend.     
+b. ten aanzien van vakbekwaamheid: een vakdiploma op het terrein van afvalstoffen dat is afgegeven door een instantie die door de Minister van Infrastructuur en Milieu is erkend.     
 2.  In afwijking van het eerste lid verstrekt een aanvrager, wiens land van oorsprong of herkomst een andere lidstaat van de Europese Unie is dan Nederland, dan wel een andere staat, die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, de volgende gegevens die in de betrokken staat zijn afgegeven: 
 
 a. ten aanzien van betrouwbaarheid: een gelijkwaardige niet ouder dan drie maanden zijnde verklaring omtrent betrouwbaarheid;  
 
-b. ten aanzien van kredietwaardigheid: een gelijkwaardige niet ouder dan een jaar zijnde verklaring omtrent financiële draagkracht, afgegeven door banken dan wel door andere organen die de in de aanhef bedoelde staat daartoe heeft aangewezen, waaruit blijkt dat de aanvrager ten minste € 18.000 in eigen vermogen heeft, en  
-
-c. ten aanzien van vakbekwaamheid: een door een daartoe bevoegde instantie afgegeven verklaring waaruit blijkt dat de aanvrager vakbekwaam is op het gebied van afvalstoffen.     
+b. ten aanzien van vakbekwaamheid: een door een daartoe bevoegde instantie afgegeven verklaring waaruit blijkt dat de aanvrager vakbekwaam is op het gebied van afvalstoffen.     
 3.  In plaats van de gegevens, bedoeld in het eerste of tweede lid, kan de aanvrager, ter voldoening aan criteria, bedoeld in artikel 4, de volgende gegevens verstrekken: 
 
-a. het registratienummer van de vergunning voor binnenlands of communautair beroepsvervoer, bedoeld in [artikel 5, eerste, respectievelijk derde lid, van de Wet goederenvervoer over de weg](../../../../../../../../../../wet/wet/goederenvervoer/over/de/weg/BWBR0005443/README.md);  
+a. het registratienummer van de vergunning voor binnenlands of communautair beroepsvervoer, bedoeld in [artikel 2.1, eerste lid, onderdelen a en b, onderscheidenlijk onderdeel c, van de Wet wegvervoer goederen](../../../../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md);  
 
 b. een kopie van een door een andere lidstaat van de Europese Unie afgegeven communautaire vergunning als bedoeld in verordening (EEG) nr. 881/92 van de Raad van de Europese Gemeenschappen van 26 maart 1992 betreffende de toegang tot de markt van het goederenvervoer over de weg in de Gemeenschap van of naar het grondgebied van een Lid-Staat of over het grondgebied van een of meer Lid-Staten (PbEG L 95);  
 
-c. een vergunning als bedoeld in [artikel 28, eerste lid, van de Spoorwegwet](../../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) en een veiligheidsattest als bedoeld in [artikel 32, eerste lid, van de Spoorwegwet](../../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md).     
-4.  In plaats van de gegevens, bedoeld in het eerste lid, onder c, of het tweede lid, onder c, kan de aanvrager verstrekken: 
+c. een vergunning als bedoeld in [artikel 28, eerste lid, van de Spoorwegwet](../../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md) en een veiligheidscertificaat als bedoeld in [artikel 32, eerste lid, van de Spoorwegwet](../../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md).     
+4.  In plaats van de gegevens, bedoeld in het eerste lid, onder b, of het tweede lid, onder b, kan de aanvrager verstrekken: 
 
 a. een afschrift van een bewijs van vakbekwaamheid bedoeld in [artikel 6, eerste lid, van de Binnenvaartwet](../../../../../../../../../../wet/binnenvaartwet/BWBR0023009/README.md), of  
 
 b. een schriftelijk bewijs dat: 
 
-1°. de aanvrager op 30 april 2004 bij een Nederlandse Kamer van Koophandel, of een bij Kamer van Koophandel in een andere lidstaat van de Europese Unie dan wel in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, stond ingeschreven als een inzamelaar, vervoerder, handelaar of bemiddelaar van afvalstoffen en  
+1°. de aanvrager op 30 april 2004 bij een Nederlandse Kamer van Koophandel, of een bij Kamer van Koophandel in een andere lidstaat van de Europese Unie dan wel in een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, stond ingeschreven als een handelaar of bemiddelaar van afvalstoffen en  
 
-2°. de natuurlijke persoon die permanent en daadwerkelijk leiding geeft aan het inzamelen, vervoeren, handelen of bemiddelen van afvalstoffen, of indien de leiding bij meer personen berust, ten minste een van hen, op 30 april 2004 bij aanvrager werkzaam was en belast was met het permanent en daadwerkelijk leidinggeven aan het inzamelen, vervoeren, handelen of bemiddelen van afvalstoffen.       
+2°. de natuurlijke persoon die permanent en daadwerkelijk leiding geeft aan het handelen of bemiddelen van afvalstoffen, of indien de leiding bij meer personen berust, ten minste een van hen, op 30 april 2004 bij aanvrager werkzaam was en belast was met het permanent en daadwerkelijk leidinggeven aan het handelen of bemiddelen van afvalstoffen.       
 
 ### Artikel  6  
 
@@ -84,24 +78,7 @@ c. niet meer wordt voldaan aan de criteria, bedoeld in artikel 4.
 
 ### Artikel  7  
 
-1.  Ter voldoening aan de criteria, bedoeld in artikel 4, kan tot uiterlijk drie jaar na het tijdstip van inwerkingtreding van deze regeling worden volstaan met het overleggen van de gegevens, bedoeld in artikel 5, eerste lid, onder a en b, of artikel 5, tweede lid, onder a en b.   
-2.  Indien de aanvrager op het tijdstip, bedoeld in het eerste lid, niet de gegevens, bedoeld in artikel 5, eerste lid, onder c, of artikel 5, tweede lid, onder c, heeft overgelegd, vervalt de vermelding op de lijst van inzamelaars dan wel op de lijst van vervoerders, handelaars en bemiddelaars.   
-
-### Artikel  8  
-
-Wijzigt deze regeling.   
-
-### Artikel  9  
-
-De [Regeling afgewerkte olie](../../../../../../../../../../ministeriele-regeling/regeling/afgewerkte/olie/BWBR0013545/README.md) wordt ingetrokken.  
-
-### Artikel  10  
-
-Wijzigt de Regeling scheiden en gescheiden houden van gevaarlijke afvalstoffen.   
-
-### Artikel  11  
-
-Deze regeling treedt in werking op het tijdstip waarop het [Besluit inzamelen afvalstoffen](../../../../../../../../../../AMvB/besluit/inzamelen/afvalstoffen/BWBR0016530/README.md) in werking treedt.  
+Het criterium van betrouwbaarheid, bedoeld in artikel 4, onderdeel a, is niet van toepassing op aannemers en hoveniers, die uit eigen werkzaamheden vrijgekomen afvalstoffen, met eigen vervoer tot een gewicht van 1000 kilogram overbrengen naar de eigen inrichting of naar een inrichting van de inzamelaar van afvalstoffen.  
 
 ### Artikel  12  
 

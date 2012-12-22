@@ -23,7 +23,7 @@ e. buitenschoolse kosten: kosten die gemaakt worden door de zorgwerkgever in het
 ### Artikel  2  
 
 1.  De minister verstrekt op aanvraag van het bevoegd gezag voor maximaal de duur van de opleiding subsidie ten behoeve van de buitenschoolse kosten van de opleidingen tot advanced nurse practitioner en tot physician assistant.   
-2.  De subsidie per student bedraagt een vast normatief bedrag van € 1750,– per maand voor maximaal de duur van de opleiding. De subsidie wordt door het bevoegd gezag doorbetaald aan de zorgwerkgever.   
+2.  De subsidie per student bedraagt een vast normatief bedrag van € 1.875,– per maand voor maximaal de duur van de opleiding. De subsidie wordt door het bevoegd gezag doorbetaald aan de zorgwerkgever.   
 3.  De subsidie wordt vastgesteld door vermenigvuldiging van de som van het aantal maanden per student dat de opleiding daadwerkelijk is gevolgd met het bedrag, genoemd in het tweede lid.   
 
 ### Artikel  3  
@@ -33,12 +33,29 @@ e. buitenschoolse kosten: kosten die gemaakt worden door de zorgwerkgever in het
 
 ### Artikel  4  
 
-De bevoorschotting vindt plaats in gelijke maandelijkse termijnen.  
+1.  De minister besluit binnen dertien weken na ontvangst van de aanvraag over de verlening van de subsidie.   
+2.  De minister kan bij het besluit tot verlening van een subsidie ambtshalve tevens voorschotten verlenen.   
+3.  De voorschotten worden gelijkmatig verdeeld over het aantal maanden waarvoor de subsidie wordt verleend.   
+
+### Artikel  4a  
+
+1.  Het bevoegd gezag meldt meteen aan de minister als: 
+
+a. het tijdens de periode waarvoor de subsidie is verstrekt aannemelijk is geworden dat de activiteiten waarvoor de subsidie is verleend niet, niet tijdig of niet geheel zullen worden verricht,  
+
+b. het aannemelijk is geworden dat niet of niet geheel aan de subsidieverplichtingen zal worden voldaan of  
+
+c. zich andere omstandigheden voordoen of zullen voordoen die van belang kunnen zijn voor een beslissing tot wijziging, intrekking of vaststelling van de subsidie.     
+2.  De melding wordt schriftelijk gedaan. De melding wordt voorzien van een toelichting. Bij de melding worden de relevante stukken overgelegd.   
 
 ### Artikel  5  
 
 1.  Voor het cohort studenten waarvoor in jaar ‘t’ subsidie is verleend dient het bevoegd gezag voor 1 juli van het jaar ‘t+3’ een aanvraag in voor de subsidievaststelling.   
 2.  De aanvraag voor de subsidievaststelling bestaat uit een opgave waarin het totaal aantal maanden dat een student is opgeleid vermeld wordt. Tevens zal hierin melding worden gemaakt van het totaal aantal afgegeven diploma’s ten behoeve van de zorgmasteropleidingen tot advanced nurse practitioner of tot physician assistant. De vorengemelde opgave gaat vergezeld van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), waaruit blijkt dat de gegevens van de opgave juist zijnen de verplichting, genoemd in artikel 2, tweede lid, is nageleefd.   
+
+### Artikel  5a  
+
+Binnen tweeëntwintig weken na ontvangst van de aanvraag tot vaststelling van de subsidie neemt de minister een besluit op de aanvraag.  
 
 ### Artikel  6  
 

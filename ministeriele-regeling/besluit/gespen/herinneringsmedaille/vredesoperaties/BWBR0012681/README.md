@@ -90,7 +90,11 @@ cc. voor deelname aan operaties van de Verenigde Naties:
 
 8°. de missie ten behoeve van de United Nations African Union Mission in Darfur ‘UNAMID’, voor zover deze deelname heeft plaatsgehad op het grondgebied van en in het luchtruim boven de republiek Soedan, provincie Darfur;  
 
-9°. de missie ten behoeve van de United Nations Office on Drugs and Crime ‘UNODC’, in Kenia: VN OPERATIES;    
+9°. de missie ten behoeve van de United Nations Office on Drugs and Crime ‘UNODC’, in Kenia;  
+
+10°. de United Nations Mission In South Sudan 'UNMISS', voor zover deze deelname heeft plaatsgehad op het grondbebied van en in het luchtruim boven de republiek Zuid Soedan vanaf augustus 2011;  
+
+11°. de United Nations Assistance Mission in Afghanistan 'UNAMA', voor zover deze deelname heeft plaatsgehad op het grondgebied en in het luchtruim van de Republiek Afghanistan vanaf september 2011: VN OPERATIES;    
 
 dd. voor deelname aan operaties van de Noord Atlantische Verdrags Organisatie: 
 
@@ -102,7 +106,9 @@ dd. voor deelname aan operaties van de Noord Atlantische Verdrags Organisatie:
 
 4°. de operatie ‘Allied Protector’, voor zover deze deelname heeft plaatsgehad in de wateren van en in de nabijheid van Somalië;  
 
-5°. de maritieme operatie Ocean Shield voor zover deze deelname heeft plaatsgehad in de Rode Zee, Golf van Aden en het Somalië Bassin: NAVO OPERATIES;    
+5°. de maritieme operatie Ocean Shield voor zover deze deelname heeft plaatsgehad in de Rode Zee, Golf van Aden en het Somalië Bassin;  
+
+6°. de operatie Unified Protector, voor zover deelname heeft plaatsgehad vanaf de luchthaven Decimomannu in Italië, bij het hoofdkwartier van de Combined Force Air Component (CFAC) te Poggio Renatico in Italië boven het territorium van Libië en in de Middellandse Zee vanaf maart 2011: NAVO OPERATIES;    
 
 ee. voor deelname aan operaties van de Europese Unie: 
 
