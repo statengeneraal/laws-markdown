@@ -29,8 +29,8 @@ Deze beleidsregels berusten op [artikel 6.12 van het Waterbesluit](../../../../
 
 ####Toepassingsbereik
 
-1.  Dit besluit is van toepassing op de waterstaatswerken in beheer bij het Rijk, voor zover aangegeven op de bij dit besluit behorende overzichtskaart en de in de bijlagen 001 tot en met 106 opgenomen detailkaarten.   
-2.  Dit besluit is niet van toepassing op de door de Staatssecretaris bij [besluit van 13 december 2007](../../../../../ministeriele-regeling/besluit/aanwijzing/activiteiten/of/locaties/ex/artikel/9/aanhef/en/onder/b/etc/BWBR0023093/README.md), nr. HDJZ/I&O/2007-1636, Stcrt. 2007, 247, aangewezen activiteiten of locaties, onderscheidenlijk de door de Staatssecretaris aan te wijzen andere activiteiten en locaties gelegen in het gebied, bedoeld in het eerste lid.   
+1.  De artikelen 3 tot en met 7 zijn van toepassing op de waterstaatswerken in beheer bij het Rijk, voor zover aangegeven op de in bijlage 1 bij dit besluit opgenomen overzichtskaart en detailkaarten.   
+2.  De artikelen 3 tot en met 7 zijn niet van toepassing op de in bijlage 2 bij dit besluit aangewezen activiteiten of locaties.   
 
 ### Artikel  3  
 
@@ -38,21 +38,23 @@ In het rivierbed wordt, onverminderd het bepaalde in artikel 7, eerste lid, toes
 
 a. een eenmalige uitbreiding van ten hoogste tien procent van de bestaande bebouwing;  
 
-b. tijdelijke activiteiten, anders dan bedoeld in [artikel 6.11, eerste lid, onderdeel b, van de Waterregeling](../../../../../ministeriele-regeling/waterregeling/BWBR0026845/README.md), en  
+b. activiteiten ten behoeve van rivierbeheer of -verruiming;  
 
-c. overige activiteiten van rivierkundig ondergeschikt belang.    
+c. tijdelijke activiteiten, anders dan bedoeld in [artikel 6.11, eerste lid, onderdeel b, van de Waterregeling](../../../../../ministeriele-regeling/waterregeling/BWBR0026845/README.md), en  
+
+d. overige activiteiten van rivierkundig ondergeschikt belang.    
 
 ### Artikel  4  
 
 ####Activiteiten bergend regime
 
-Voor activiteiten in het gedeelte van het rivierbed waarop het bergend regime van toepassing is, wordt, onverminderd het bepaalde in artikel 7, eerste lid, toestemming gegeven.  
+Voor activiteiten in het gedeelte van het rivierbed waarop het bergend regime van toepassing is, wordt, onverminderd het bepaalde in artikel 7, eerste en tweede lid, toestemming gegeven.  
 
 ### Artikel  5  
 
 ####Riviergebonden activiteiten stroomvoerend regime
 
-Voor de navolgende riviergebonden activiteiten in het gedeelte van het rivierbed waarop het stroomvoerend regime van toepassing is, wordt, onverminderd het bepaalde in artikel 7, eerste lid, toestemming gegeven: 
+Voor de navolgende riviergebonden activiteiten in het gedeelte van het rivierbed waarop het stroomvoerend regime van toepassing is, wordt, onverminderd het bepaalde in artikel 7, eerste en tweede lid, toestemming gegeven: 
 
 a. de aanleg of wijziging van waterstaatkundige kunstwerken;  
 
@@ -106,12 +108,6 @@ c. er sprake is van een zodanige situering en uitvoering van de activiteit dat d
 
 De Beleidslijn ruimte voor de rivier (Stcrt. 1997, 87, p. 6) wordt ingetrokken.  
 
-### Artikel  9  
-
-####Overgangsrecht
-
-Dit besluit is niet van toepassing op activiteiten in het gebied, bedoeld in artikel 2, eerste lid, voor zover het tevens een gebied betreft waarop de Beleidslijn ruimte voor de rivier niet van toepassing was, mits voor het tijdstip van inwerkingtreding van dit besluit daartoe een aanvraag om een vergunning op grond van de [Wet beheer rijkswaterstaatswerken](../../../../../wet/wet/beheer/rijkswaterstaatswerken/BWBR0008331/README.md) is ingediend.  
-
 ### Artikel  10  
 
 ####Inwerkingtreding
@@ -129,119 +125,74 @@ De
 Staatssecretaris van Verkeer en Waterstaat, 
 M.H.Schultz van Haegen  
 
-### Bijlage  
-
-####ex artikel 2 
-
-![240200](http://wetten.overheid.nl/Illustration/240200)
-
 ### Bijlage  1  
 
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
-![245739](http://wetten.overheid.nl/Illustration/245739)
+####, behorend bij artikel 2, eerste lid 
 
+Ligt ter inzage op het Ministerie van Infrastructuur en Milieu, Hoofddirectie Juridische Zaken, en is tevens raadpleegbaar op en te downloaden van www.waterwet.nl.  
+
+### Bijlage  2  
+
+####behorend bij artikel 2, tweede lid 
+
+De Beleidsregels grote rivieren zijn niet van toepassing op de navolgende activiteiten of locaties: 
+
+a. Havenfront Willemstad;  
+
+b. Mercon-Kloosterrein (Alblasserdam);  
+
+c. Alblasserwerf, Verolmeterrein en havenkom (Alblasserdam);  
+
+d. Cortgene/Haven (Alblasserdam);  
+
+e. Haven-Zuid (Alblasserdam);  
+
+f. Polder Het Nieuwland (Alblasserdam);  
+
+g. Polder Nieuwland en Noordhoek (Papendrecht);  
+
+h. Projecten uitvoeringscontract Hollandsche IJssel (Ouderkerk aan den IJssel, Krimpen aan den IJssel, Moordrecht, Nieuwerkerk aan den IJssel, Capelle aan den IJssel en Gouda);  
+
+i. Recreatiehof Bruggehof en omstreken (Dordrecht);  
+
+j. Project Veerhaven (Hellevoetssluis);  
+
+k. Locatie Heliushaven (Hellevoetssluis);  
+
+l. Waterfront Moerdijk I (Moerdijk);  
+
+m. Waterfront Moerdijk II (Moerdijk);  
+
+n. Noordoevers Hendrik-Ido-Ambacht (Hendrik-Ido-Ambacht);  
+
+o. Afvalbrengstation (Hendrik-Ido-Ambacht);  
+
+p. Uitwerkingsplan Antoniapolder (Hendrik-Ido-Ambacht);  
+
+q. Noordoevers Zwijndrecht (Zwijndrecht);  
+
+r. Bedrijventerrein Stadionweg, ‘Zomerlandsportdorp’ (Rotterdam);  
+
+s. Veranda (Rotterdam);  
+
+t. Project Hoekstraat, Roosteren (Echt-Susteren);  
+
+u. Trekkershutten camping "De Oosterdriessen", Oost-Maarland (Eijsden);  
+
+v. Project Groeskamp, Thorn (Maasgouw);  
+
+w. Afronding Porta Isola, Stevensweert (Maasgouw);  
+
+x. Afronding Op de Konie, Ohé (Maasgouw);  
+
+y. Units schietterrein St. Anfried, Thorn (Maasgouw);  
+
+z. Ontwikkeling 8e woning Veerweg Blitterswijck (Venray);  
+
+aa. Vakantieappartementen en minicamping Bosscherveld (Maastricht);  
+
+ab. Visserweert 51, Roosteren (Echt-Susteren);  
+
+ac. Kulturhus, Alem (Maasdriel);  
+
+ad. Camping Oosterdriessen, Oost-Maarland (gemeente Eijsden-Margraten).   
